@@ -1,6 +1,6 @@
 ---
 
-layout: markdown_page
+
 title: Associating a subscription with a namespace & troubleshooting errors
 description: "How to provision GitLab.com subscriptions"
 category: GitLab.com subscriptions & purchases
@@ -12,7 +12,7 @@ category: GitLab.com subscriptions & purchases
 
 Customers who purchase from GitLab Partners, resellers, AWS, and/or GCP have **read-only** access to their subscriptions in [Customers Portal](https://customers.gitlab.com/customers/sign_in).
 
-All SaaS customers should provision their subscriptions from CustomersDot as described under [Customer self-serve: associating the subscription and namespace](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/associate_subscription_and_namespace.html#customer-self-serve-associating-the-subscription-and-namespace).
+All SaaS customers should provision their subscriptions from CustomersDot as described under [Customer self-serve: associating the subscription and namespace](/handbook/support/license-and-renewals/workflows/saas/associate_subscription_and_namespace.html#customer-self-serve-associating-the-subscription-and-namespace).
 
 ## Troubleshooting 502 errors while provisioning the subscription
 
@@ -82,5 +82,5 @@ Associating a group with a subscription in CustomersDot:
 ### If the user does not see the subscription in CustomersDot
 
 If the user doesn't see a subscription in CustomersDot,
-follow the [associating purchases workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html)
+follow the [associating purchases workflow](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html)
 to give the user access to the subscription.

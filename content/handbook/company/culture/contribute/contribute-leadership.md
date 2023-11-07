@@ -20,7 +20,7 @@ Leaders should consider themselves "hosts" of the event, which means that, in ad
 - Fighting and physical altercations
 - Accidents (e.g. trips, falls, motor accidents, etc.)
 - Inappropriate dress (business/work event)
-- Various mental states and moods (anxiety, depression, etc); [neurodiversity](https://about.gitlab.com/handbook/values/#diversity-inclusion)
+- Various mental states and moods (anxiety, depression, etc); [neurodiversity](/handbook/values/#diversity-inclusion)
 
 ### What should managers do?
 

@@ -11,7 +11,7 @@ The Insides Sales Representative reports intot the Manager, Inside Sales or Seni
 
 #### Inside Sales Representative Job Grade
 
-The Inside Sales Representative is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Inside Sales Representative is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Inside Sales Representative Responsibilities
 
@@ -44,7 +44,7 @@ The Senior Insides Sales Representative reports intot the Manager, Inside Sales 
 
 #### Senior Inside Sales Representative Job Grade
 
-The Senior Inside Sales Representative is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Inside Sales Representative is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Inside Sales Representative Responsibilities
 
@@ -63,7 +63,7 @@ The Manager, Insides Sales reports to a Federal Sales Director.
 
 #### Manager, Insides Sales Job Grade
 
-The Manager, Inside Sales is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Manager, Inside Sales is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Manager, Insides Sales Responsibilities
 
@@ -85,7 +85,7 @@ The Manager, Insides Sales reports to a Federal Sales Director.
 
 #### Senior Manager, Inside Sales Job Grade
 
-The Senior Manager, Inside Sales, is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Manager, Inside Sales, is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Senior Manager, Inside Sales Responsibilities
 
@@ -119,18 +119,18 @@ The next steps for the Inside Sales Job Family is to move to the [Sales Manageme
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
+- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will interview with 2 - 4 Team Members
 - Candidates may be invited to schedule a second interview with our CRO
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Compensation
 
 You will typically get 50% as base and 50% based on commission. See our
 [market segmentation](https://about.gitlab.com/handbook/sales/#market-segmentation) for
 typical quotas in the U.S.
-Also see the [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/).
+Also see the [Sales Compensation Plan](/handbook/finance/sales-comp-plan/).

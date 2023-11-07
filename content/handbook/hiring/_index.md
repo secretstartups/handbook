@@ -37,7 +37,7 @@ We strive to be as transparent as possible, but these sections are only availabl
 - [TA Key Performance Indicators](https://internal.gitlab.com/handbook/people-group/talent-acquisition/key-performance-indicators/) Note: this page is currently in our internal handbook as they are a work in progress.
 - [Meeting Cadence]({{< ref "/handbook/hiring/meetings" >}})
 - [Talent Acquisition Alignment]({{< ref "recruiting-alignment" >}})
-- [Diversity, Inclusion & Belonging Talent Acquisition Initiatives](/company/culture/inclusion/talent-acquisition-initiatives/)
+- [Diversity, Inclusion & Belonging Talent Acquisition Initiatives](/handbook/company/culture/inclusion/talent-acquisition-initiatives/)
 - [Triad Process]({{< ref "triadprocess" >}})
 - [Quarterly Updates](https://internal.gitlab.com/handbook/people-group/talent-acquisition/quarterly-updates/) Note: Internal only
 
@@ -123,7 +123,7 @@ Please find pages for potential and active applicants below.
 
 {{% details summary="Set up scorecards and interview plans" %}}
 - There are two elements of a scorecard: the Scorecard section and the Interview Plan section. Both are accessible through Job Setup.
-- [**Scorecard**](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-creation/#update-the-scorecard) Depending on your department, you may have a lot of your scorecard options pre-filled. R&D scorecards are always set up for you, and may only require small tweaks depending on technical language or job grade.
+- [**Scorecard**](/handbook/hiring/talent-acquisition-framework/req-creation/#update-the-scorecard) Depending on your department, you may have a lot of your scorecard options pre-filled. R&D scorecards are always set up for you, and may only require small tweaks depending on technical language or job grade.
 - [**Interview Plan**](https://support.greenhouse.io/hc/en-us/articles/115002276366-Add-an-interview-question-to-an-interview-kit)
 - {{% details summary="Tips and Tricks" %}}
 - Name your interviews in a way that will help your Candidate Experience Specialist partner schedule your interview. We recommend ‘Topic -  Interviewer - Time’ i.e. ‘Values Interview - Beyonce Knowles - 45 min’. If you are pulling from a large interviewer pool, you can discuss with your Candidate Experience Specialist partner if it makes sense to create a Prelude interviewer pool that will help with scheduling.

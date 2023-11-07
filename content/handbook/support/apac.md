@@ -12,7 +12,7 @@ found a home for in the wider Support Team Handbook.
 The intent is to enable APAC Support team members to contribute to Results for
 APAC-specific iniatitives, policies, processes and workflows by prioritizing:
 
-1. Transparency, through being [handbook first](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first)
+1. Transparency, through being [handbook first](/handbook/handbook-usage/#why-handbook-first)
    and providing a single source of truth for APAC-specific.
 1. Iteration, through providing a safe space where APAC Support team members can
    introduce or update APAC-specific policies, workflows and processes without
@@ -20,7 +20,7 @@ APAC-specific iniatitives, policies, processes and workflows by prioritizing:
 
 Where appropriate, we should always look to move content from this page into
 other pages of the wider Support Team Handbook. For an example of how this can
-be done, see the [Considerations in APAC section](https://about.gitlab.com/handbook/support/on-call/#considerations-in-apac)
+be done, see the [Considerations in APAC section](/handbook/support/on-call/#considerations-in-apac)
 of the GitLab Support On-Call Guide Handbook page.
 
 ## General policies
@@ -278,7 +278,7 @@ coverage.
 
 ## Holiday Coverage Planning
 
-We are mindful of [holidays](https://about.gitlab.com/handbook/support/support-time-off.html#holiday-time-off-ticket-management) that impact large parts of the team. The following are official holidays for mostly APAC team members, which we plan coverage for outside of global practices:
+We are mindful of [holidays](/handbook/support/support-time-off.html#holiday-time-off-ticket-management) that impact large parts of the team. The following are official holidays for mostly APAC team members, which we plan coverage for outside of global practices:
 
 | **Holiday**                             | **Date**           | **Countries**              | **Notes**                                                                                                                                  |
 |-----------------------------------------|--------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|

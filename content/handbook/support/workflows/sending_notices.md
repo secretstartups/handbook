@@ -21,7 +21,6 @@ This workflow describes how to fulfill different types of contact requests and t
 | 3+ | [Mass Emails through Marketing Department](#mass-emails-through-marketing-department) | Director | [Support Readiness issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Support%20Readiness) + FAQ |
 
 - Support team can be asked to contact users **during an incident**. Such requests are filed by infra team [using `confidential_incident_data` issue template](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=confidential_incident_data) in [production](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/) issue tracker. These must be fulfilled by CMOC during the shift.
-- Contact requests that are **not tied to an incident** are submitted as an [internal-request]({{< ref "internal_requests" >}}) using [`Contact Request` template](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Contact%20Request). These can be performed by anyone with Admin access to GitLab.com. CMOC participation is not obligatory.
 
 ## How to send notices
 
@@ -37,7 +36,7 @@ Make sure to [add an admin note]({{< ref "admin_note" >}}) on a user/group we to
 
 For the process of sending the outbound contact requests in Zendesk, please
 review the
-[Support Readiness documentation](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/tickets/#creating-tickets-for-outbound-requests)
+[Support Readiness documentation](/handbook/support/readiness/operations/docs/zendesk/tickets/#creating-tickets-for-outbound-requests)
 for more information.
 
 ### Customer Ticket Generator (Deprecated)

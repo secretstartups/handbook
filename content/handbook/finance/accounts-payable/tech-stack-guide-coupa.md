@@ -3,7 +3,7 @@ title: "Coupa Tech Stack Guide"
 description: "Reference for how Coupa is implemented."
 ---
 
-> **Note:** Refer to the **[Tech Stack Index](https://about.gitlab.com/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/)** to manage Apps.
+> **Note:** Refer to the **[Tech Stack Index](/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](/handbook/business-technology/tech-stack-applications/)** to manage Apps.
 
 {{% tech-stack "Coupa" %}}
 
@@ -15,8 +15,8 @@ Coupa was implemented in 2 phases. In scope for phase 1 was the implementation o
 
 #### Relevant Links
 
-- [Coupa End Users Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide)
-- [Coupa Virtual Card Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/)
+- [Coupa End Users Guide](/handbook/business-technology/enterprise-applications/guides/coupa-guide)
+- [Coupa Virtual Card Guide](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/)
 - [Coupa FAQ]({{< ref "coupa-faq" >}})
 
 ### System Diagrams

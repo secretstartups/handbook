@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Weekend Emergencies - License Request
 description: "Support process for weekend license emergencies"
 category: GitLab Self-Managed licenses

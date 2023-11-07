@@ -21,8 +21,8 @@ The CEO reports to the Board of Directors of GitLab, Inc.
 - Pricing and business model
 - Actively engage in mergers and acquisitions, if and when those are appropriate
 - Oversee the continued build out of a great team
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#e-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#e-group)
 
 ## Performance Indicators
 
-The CEO's Performance Indicators are [GitLab's KPIs](https://about.gitlab.com/company/kpis/#gitlab-kpis)
+The CEO's Performance Indicators are [GitLab's KPIs](/handbook/company/kpis/#gitlab-kpis)

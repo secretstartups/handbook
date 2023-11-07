@@ -2,35 +2,35 @@
 title: "Data Management"
 ---
 
-The Manager, Data is responsible for delivering trusted data and analytics results to help GitLab make better and faster decisions by creating, developing, and leading a [high-performance](https://about.gitlab.com/handbook/leadership/build-high-performing-teams/) Team and continually improving the Data Platform along the [Data Capability Model](https://about.gitlab.com/handbook/business-technology/data-team/direction/#data-capability-model).
+The Manager, Data is responsible for delivering trusted data and analytics results to help GitLab make better and faster decisions by creating, developing, and leading a [high-performance](/handbook/leadership/build-high-performing-teams/) Team and continually improving the Data Platform along the [Data Capability Model](/handbook/business-technology/data-team/direction/#data-capability-model).
 The Manager, Data possesses a broad range of people skills and technical skills across the Data domain, as well as business acumen required to establish trusted partnerships with people inside and outside of GitLab.
-The Manager, Data reports to the [Director/Senior Director, Data and Analytics](https://about.gitlab.com/job-families/finance/data-and-insights-executive/#director-data-and-analytics).
+The Manager, Data reports to the [Director/Senior Director, Data and Analytics](/job-families/finance/data-and-insights-executive/#director-data-and-analytics).
 
 ## Levels
 
 ### Manager, Data (Intermediate)
 
-The Manager, Data may report to the [Senior Manager, Data](https://about.gitlab.com/job-families/finance/manager-data/#senior-manager-data) or to the [Director/Senior Director, Data and Analytics](https://about.gitlab.com/job-families/finance/data-and-insights-executive/#director-data-and-analytics).
+The Manager, Data may report to the [Senior Manager, Data](/job-families/finance/manager-data/#senior-manager-data) or to the [Director/Senior Director, Data and Analytics](/job-families/finance/data-and-insights-executive/#director-data-and-analytics).
 
 #### Job Grade
 
-The Manager, Data is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Data is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
-- Help create a leading Data Program to support GitLab's [vision](https://about.gitlab.com/company/vision/#vision)
-- Manage, lead, and develop a [High-Performance](https://about.gitlab.com/handbook/leadership/build-high-performing-teams/) Team, including day-to-day assignments, bi-weekly milestone planning, [1-1s](https://about.gitlab.com/handbook/leadership/1-1/), quarterly objectives, and annual reviews
-- Manage operational components of the [Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/) to ensure updated data are available per [established SLOs](https://about.gitlab.com/handbook/business-technology/data-team/platform/#extract-and-load)
-- Work with all divisions to continually grow the value of our Data Platform by [onobarding new data](https://about.gitlab.com/handbook/business-technology/data-team/platform/#adding-new-data-sources-and-fields) from our SaaS, Telemetry, Product, and Corporate systems
+- Help create a leading Data Program to support GitLab's [vision](/handbook/company/vision/#vision)
+- Manage, lead, and develop a [High-Performance](/handbook/leadership/build-high-performing-teams/) Team, including day-to-day assignments, bi-weekly milestone planning, [1-1s](/handbook/leadership/1-1/), quarterly objectives, and annual reviews
+- Manage operational components of the [Data Platform](/handbook/business-technology/data-team/platform/infrastructure/) to ensure updated data are available per [established SLOs](/handbook/business-technology/data-team/platform/#extract-and-load)
+- Work with all divisions to continually grow the value of our Data Platform by [onobarding new data](/handbook/business-technology/data-team/platform/#adding-new-data-sources-and-fields) from our SaaS, Telemetry, Product, and Corporate systems
 - Understand the big picture and demonstrate how your team supports it through prioritization, planning, and solutioning
-- Participate in [Monthly Key Reviews](https://about.gitlab.com/handbook/key-review/) to represent Data and stay up-to-date of company developments
+- Participate in [Monthly Key Reviews](/handbook/key-review/) to represent Data and stay up-to-date of company developments
 - Implement the [DataOps](https://en.wikipedia.org/wiki/DataOps) philosophy in everything you do
-- Continuously develop the [Data Team Handbook](https://about.gitlab.com/handbook/business-technology/data-team/) to ensure it represents the current state of our strategy, processes, and operations
+- Continuously develop the [Data Team Handbook](/handbook/business-technology/data-team/) to ensure it represents the current state of our strategy, processes, and operations
 
 #### Requirements
 
 - Ability to use GitLab
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 - Share [our values](/handbook/values/), and work in accordance with those values
 - 5+ years hands on experience in a data analytics/engineering/science role
 - 2+ years hands on experience performing quantitative analysis to tackle business problems with a focus on feature and usage metrics to increase conversion and retention OR reporting for key business metrics, including revenue, sales metrics, and customer metrics
@@ -47,7 +47,7 @@ The Manager, Data is a [grade 8](https://about.gitlab.com/handbook/total-rewards
 
 #### Performance Indicators (PI)
 
-- [SLO Achievement](https://about.gitlab.com/handbook/business-technology/metrics/#slo-achievement-per-data-source) for Tier 1 Data
+- [SLO Achievement](/handbook/business-technology/metrics/#slo-achievement-per-data-source) for Tier 1 Data
 - Legacy Data Removal Iterations
 - Data Platform Performance and Security Audits
 
@@ -55,12 +55,12 @@ The Manager, Data is a [grade 8](https://about.gitlab.com/handbook/total-rewards
 
 #### Senior Manager, Data Job Grade
 
-The Senior Manager, Data is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Data is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Data Responsibilities
 
 - Extends the Manager, Data responsibilities
-- Envision and draft [Quarterly Objectives](https://about.gitlab.com/company/okrs/), driven by requirements gathered from multiple business partners
+- Envision and draft [Quarterly Objectives](/handbook/company/okrs/), driven by requirements gathered from multiple business partners
 - Regularly meet with business partners, understanding and solving for Data needs, short-term and medium-term
 - Monitor, Measure, and Improve key aspects of the Data Program and Data Platform, guided by established KPIs and SLOs
 - Coordinate with Security and Compliance to ensure Data is accessed, processed, and stored per standards
@@ -82,9 +82,9 @@ The Senior Manager, Data is a [grade 9](https://about.gitlab.com/handbook/total-
 
 #### Performance Indicators (PI)
 
-- [% of team who self-classify as diverse](https://about.gitlab.com/handbook/business-technology/metrics/#percent--of-team-who-self-classify-as-diverse)
-- [CSAT](https://about.gitlab.com/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
-- [SLO Achievement per Data Source](https://about.gitlab.com/handbook/business-technology/metrics/#slo-achievement-per-data-source)
+- [% of team who self-classify as diverse](/handbook/business-technology/metrics/#percent--of-team-who-self-classify-as-diverse)
+- [CSAT](/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
+- [SLO Achievement per Data Source](/handbook/business-technology/metrics/#slo-achievement-per-data-source)
 - WIP: % of queries supported by Enterprise Dimensional Model >= 75%
 
 ## Career Ladder
@@ -93,9 +93,9 @@ The next step in the Data Management job family is to move to the [Director of D
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
+- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with our Director of Data & Analytics
 - Next, candidates will be invited to schedule one or more interviews with members of the Data Team
 - Next, candidates will be invited to schedule one or more interviews with Business Partners
@@ -107,7 +107,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 #### Manager, Data Science Description
 
-The [Data Science Team](https://about.gitlab.com/handbook/business-technology/data-team/organization/data-science/) closely partners with various teams across GitLab to facilitate making better decisions faster using predictive analytics.
+The [Data Science Team](/handbook/business-technology/data-team/organization/data-science/) closely partners with various teams across GitLab to facilitate making better decisions faster using predictive analytics.
 
 The job description of this specialization include all of the resposibilities for the **Manager, Data** role. In addition, resposibilities for the specialization include:
 
@@ -130,7 +130,7 @@ The job requirements of this specialization include all of the requirements for 
 
 #### Manager, Data Platform Description
 
-The [Data Platform Team](https://about.gitlab.com/handbook/business-technology/data-team/#the-data-platform-team) closely partners with various teams across GitLab to facilitate making better decisions faster by developing and maintaining a Big Data Platform.
+The [Data Platform Team](/handbook/business-technology/data-team/#the-data-platform-team) closely partners with various teams across GitLab to facilitate making better decisions faster by developing and maintaining a Big Data Platform.
 
 The job description of this specialization include all of the responsibilities for the **Manager, Data** role. In addition, responsibilities for the specialization include:
 
@@ -154,4 +154,4 @@ The job requirements of this specialization include all of the requirements for 
 - Up to date with technologies and trends in the modern data stack world
 - Ability to use SQL for analyzing and visualizing data
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

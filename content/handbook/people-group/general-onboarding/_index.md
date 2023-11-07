@@ -3,7 +3,7 @@ title: "GitLab Onboarding"
 description: "Onboarding at GitLab and Onboarding Issue Templates"
 ---
 
-Onboarding is [incredibly important](https://about.gitlab.com/company/culture/all-remote/onboarding/) at GitLab. We don't expect you to hit the ground running from day one.
+Onboarding is [incredibly important](/handbook/company/culture/all-remote/onboarding/) at GitLab. We don't expect you to hit the ground running from day one.
 
 We highly recommend taking at least two full weeks for onboarding and only in week three starting with team specific onboarding and training. Please feel free to participate in your team's work in your first two weeks, but don't feel like you have to contribute heavily.
 
@@ -113,7 +113,7 @@ All onboarding related employment templates (country and role based) can be foun
 
 ### Temporary Service Provider (Contractor/Consultant) Onboarding
 
-The People team is not involved in the process for hiring, onboarding, or offboarding temporary service providers. You can work with the Procurement team on these onboardings and review the [temporary service provider handbook page](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/temporary-service-providers/) for templates and other helpful information.
+The People team is not involved in the process for hiring, onboarding, or offboarding temporary service providers. You can work with the Procurement team on these onboardings and review the [temporary service provider handbook page](/handbook/business-technology/end-user-services/onboarding-access-requests/temporary-service-providers/) for templates and other helpful information.
 
 ### Additional onboarding pages
 
@@ -126,5 +126,5 @@ The People team is not involved in the process for hiring, onboarding, or offboa
 - [Sales team onboarding](https://about.gitlab.com/handbook/sales/onboarding/)
 - [Support team onboarding]({{< ref "/handbook/support/training" >}})
 - [SRE onboarding](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/sre-onboarding/)
-- [Product Designer onboarding](https://about.gitlab.com/handbook/product/ux/product-designer-onboarding/)
-- [UX Researcher onboarding](https://about.gitlab.com/handbook/product/ux/ux-research/)
+- [Product Designer onboarding](/handbook/product/ux/product-designer-onboarding/)
+- [UX Researcher onboarding](/handbook/product/ux/ux-research/)

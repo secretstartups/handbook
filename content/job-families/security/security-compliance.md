@@ -4,7 +4,7 @@ description: "Security Compliance professionals at GitLab focus on operating our
 extra_js:
 - libs/mermaid.min.js
 ---
-For members of GitLab's [Security Assurance sub department](https://about.gitlab.com/handbook/security/security-assurance/), it is the goal of [Security Compliance](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/) to:
+For members of GitLab's [Security Assurance sub department](/handbook/security/security-assurance/), it is the goal of [Security Compliance](/handbook/security/security-assurance/security-compliance/) to:
 
 1. Enable security to scale through the definition of security and privacy controls and document the boundaries and applicability of the information security management system to establish its scope.
 1. Work across industries to support GitLab customers in their own compliance journey.
@@ -34,7 +34,7 @@ This position reports to the Security Compliance Manager role at GitLab.
 
 #### Security Compliance Engineer (Intermediate) Job Grade
 
-The {Security Compliance Engineer} is a [6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Security Compliance Engineer} is a [6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Security Compliance Engineer (Intermediate) Responsibilities
 
@@ -57,7 +57,7 @@ This position reports to the Security Manager, Compliance role at GitLab.
 
 #### Senior Security Compliance Engineer Job Grade
 
-The {Senior Security Compliance Engineer} is a [7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Senior Security Compliance Engineer} is a [7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Security Compliance Engineer Responsibilities
 
@@ -85,7 +85,7 @@ This position reports to the Security Manager, Compliance role at GitLab.
 
 #### Staff Security Compliance Engineer Job Grade
 
-The {Staff Security Compliance Engineer} is a [8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Staff Security Compliance Engineer} is a [8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Security Compliance Engineer Responsibilities
 
@@ -118,7 +118,7 @@ This position reports to the Senior Manager, Security Compliance role at GitLab.
 
 #### Principal Security Compliance Engineer Job Grade
 
-The {Principal Security Compliance Engineer} is a [9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Principal Security Compliance Engineer} is a [9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Principal Security Compliance Engineer Responsibilities
 
@@ -152,7 +152,7 @@ This position reports to the Director, Security Assurance.
 
 #### Manager, Security Compliance Job Grade
 
-The {Manager, Security Compliance} is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Manager, Security Compliance} is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Security Compliance Responsibilities
 
@@ -179,7 +179,7 @@ This position reports to the Director, Security Assurance.
 
 #### Senior Manager, Security Compliance Job Grade
 
-The {Senior Manager, Security Compliance} is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Senior Manager, Security Compliance} is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Security Compliance Responsibilities
 
@@ -239,7 +239,7 @@ For details on the Security organization leadership roles, to include the Securi
 
 ## Performance Indicators
 
-- [Security Control Health](https://about.gitlab.com/handbook/security/performance-indicators/#security-control-health)
+- [Security Control Health](/handbook/security/performance-indicators/#security-control-health)
 
 ## Career Ladder
 
@@ -255,11 +255,11 @@ For details on the Security organization leadership roles, to include the Securi
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 50-minute interviews with the hiring manager,
 - Then, candidates will be invited to schedule 3 separate 50-minute interviews with 3 different peers from within the Security orgnaization,
 - Finally, candidates will be invited to schedule a 25-minute interview with the Director, Security Assurance.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

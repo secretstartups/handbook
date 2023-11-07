@@ -69,7 +69,7 @@ Please follow these guidelines and remind others of them.
 1. When substantially changing handbook layout, please leave a link to the specific page of the review app **that is directly affected by this MR**. Along with the link, include as much info as possible in the MR description. This will allow everyone to understand what is the purpose of the MR without looking at diffs.
 1. Keeping up with changes to the Handbook can be difficult, please follow the [commit subject guidelines](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#commit-messages-guidelines) with a particular focus on your merge request's title, to ensure someone reading the [Handbook Changelog](/handbook/about/changelog/) can quickly understand the MR's content.
 1. Communicate process changes by linking to the **merged diff** (a commit that shows the changes before and after). If you are communicating a change for the purpose of discussion and feedback, it is ok to link to an **unmerged diff**. Do not change the process first, and then view the documentation as a lower priority task. Planning to do the documentation later inevitably leads to duplicate work communicating the change and it leads to outdated documentation. You can remind other people of this by asking "Can you please update the handbook first?"
-1. When feasible, introduce process changes iteratively. It is important that you contribute to the handbook by [making small merge requests](/handbook/values/#make-small-merge-requests). This will help gain adoption among the process's intended audience. We want to avoid significant process changes that are unnecessarily large, top-down, and disruptive. These types of process changes can disempower [DRIs](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) and cause people to focus on process rather than results.
+1. When feasible, introduce process changes iteratively. It is important that you contribute to the handbook by [making small merge requests](/handbook/values/#make-small-merge-requests). This will help gain adoption among the process's intended audience. We want to avoid significant process changes that are unnecessarily large, top-down, and disruptive. These types of process changes can disempower [DRIs](/handbook/people-group/directly-responsible-individuals/) and cause people to focus on process rather than results.
 1. Like everything else, our processes are always in flux. Everything is always in draft, and the initial version should be in the handbook, too. If you are proposing a change to the handbook, whenever possible, **skip the issue and submit a merge request**. (Proposing a change via a merge request is preferred over an issue description). Mention the people that are affected by the change in the merge request. In many cases, merge requests are easier to collaborate on since you can see the proposed changes.
 1. **If something is a limited test** to a group of users, add it to the handbook and note as such. Then remove the note once the test is over and every case should use the new process.
 1. If someone inside or outside GitLab makes a good suggestion invite them to add it to the handbook. Send the person the URL of the relevant page and section and offer to do it for them if they can't. Having them make and send the suggestion will make the change and will reflect their knowledge.
@@ -98,7 +98,7 @@ We've learned over the years that keeping content in context helps to ensure con
 - At times, a change of perspective may be desired.
 In those cases, link to relevant sections of the handbook but don't include the content itself.
 See the [onboarding template](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md) as an example.
-Or for example a list of [Key Performance Indicators](https://about.gitlab.com/company/kpis/) that links to performance indicators but doesn't duplicate definitions.
+Or for example a list of [Key Performance Indicators](/handbook/company/kpis/) that links to performance indicators but doesn't duplicate definitions.
 
 #### Avoid unstructured content
 
@@ -130,7 +130,7 @@ Please read through the [Writing Style Guidelines](/handbook/communication/#writ
 
 - Keep your handbook pages short and succinct. Eliminate fluff and get right to the point with the shortest possible wording. Keep in mind that the biggest challenge cited by new employees is the vast amount of information to take in during on-boarding.
 - We don't need [.gitkeep files](https://stackoverflow.com/questions/7229885/what-are-the-differences-between-gitignore-and-gitkeep) in our handbook, they make it harder to quickly open a file in editors. Don't add them, and delete them when you see them.
-- When mentioning currency amounts that team members may need to convert to their local currency (e.g. benefits, expenses, or bonuses), link those amounts to our [Exchange Rates](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates) section (e.g. [500 USD](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)).
+- When mentioning currency amounts that team members may need to convert to their local currency (e.g. benefits, expenses, or bonuses), link those amounts to our [Exchange Rates](/handbook/total-rewards/compensation/#exchange-rates) section (e.g. [500 USD](/handbook/total-rewards/compensation/#exchange-rates)).
 
 ### Scope of this handbook
 
@@ -169,7 +169,7 @@ For E-Group, information may need to be iterated on or MR branches may need to b
 
 #### The process of using this handbook
 
-- If adding to this handbook as part of a working group initiative, review the [process for working groups](https://about.gitlab.com/company/team/structure/working-groups/#process)
+- If adding to this handbook as part of a working group initiative, review the [process for working groups](/handbook/company/team/structure/working-groups/#process)
 - From the [project](https://gitlab.com/gitlab-com-private/www-gitlab-com), creating a commit or MR is just like any other project.
 - Any MR you make on this project will only be available for viewing by the members of the group (gitlab-com-private)
 - When you are **ready** to make a merge request against the **public** repo do the following:
@@ -236,11 +236,11 @@ If you need permissions to directly merge changes to the handbook, please submit
 
 ## KPI
 
-The Engineering team and all sub-teams track Handbook Update Frequency as a [KPI](https://about.gitlab.com/company/kpis/#engineering-kpis), with varying targets per team. Currently, Engineering is the only Division tracking Handbook update frequency, so as to analyse and observe the effectiveness of this KPI.
+The Engineering team and all sub-teams track Handbook Update Frequency as a [KPI](/handbook/company/kpis/#engineering-kpis), with varying targets per team. Currently, Engineering is the only Division tracking Handbook update frequency, so as to analyse and observe the effectiveness of this KPI.
 
 ## Screenshot the handbook instead of creating a presentation
 
-Presentations are great for ephemeral content like [group conversations](https://about.gitlab.com/handbook/group-conversations/) and board presentations. [Evergreen content](https://www.thebalance.com/what-is-evergreen-content-definition-dos-and-don-ts-2316028) like a [leadership training](https://about.gitlab.com/handbook/leadership/#training) should be based on the handbook. This is an important element of [working handbook-first](https://about.gitlab.com/company/culture/all-remote/handbook-first/).
+Presentations are great for ephemeral content like [group conversations](/handbook/group-conversations/) and board presentations. [Evergreen content](https://www.thebalance.com/what-is-evergreen-content-definition-dos-and-don-ts-2316028) like a [leadership training](/handbook/leadership/#training) should be based on the handbook. This is an important element of [working handbook-first](/handbook/company/culture/all-remote/handbook-first/).
 
 In the creation of presentations for evergreen content, please screenshot the handbook and provide links to displayed pages rather than copy and pasting content (or formatting a slide specifically to mirror handbook information). This approach shows a [bias towards asynchronous communication](/handbook/values/#bias-towards-asynchronous-communication), and rationale for this is below.
 
@@ -262,19 +262,19 @@ If a synchronous presentation is required, default to sharing your screen and vi
 
 Another company asked how we managed to work with the handbook because at their company it wasn't working: "There are many occasions where something is documented in the knowledge base, but people don't know about it because they never bothered to read or search. Some people have a strong aversion against what they perceive as a 'wall of text'."
 
-We attempt to cover this in GitLab's [guide to embracing a handbook-first approach to documentation](https://about.gitlab.com/company/culture/all-remote/handbook-first/).
+We attempt to cover this in GitLab's [guide to embracing a handbook-first approach to documentation](/handbook/company/culture/all-remote/handbook-first/).
 
 To ensure that people's time is well spent looking at the handbook we should follow the 'handbook guidelines' above, and also:
 
 1. Follow the [writing style guide](/handbook/communication/#writing-style-guidelines)
 1. Have a great search function (we use Algolia), plus make it public so you can [Google search](/handbook/tools-and-tips/searching/)
-1. Test people on their [knowledge](https://about.gitlab.com/company/culture/all-remote/learning-and-development/) during onboarding
+1. Test people on their [knowledge](/handbook/company/culture/all-remote/learning-and-development/) during onboarding
 1. Give real examples
 1. Avoid corporate speak, describe things like you're talking to a friend. For more, see our communications guide on [Simple Language](/handbook/communication/#simple-language).
 
 ## Wiki handbooks don't scale
 
-Company handbooks [frequently start as wikis](https://about.gitlab.com/company/culture/all-remote/handbook-first/#tools-for-building-a-handbook).
+Company handbooks [frequently start as wikis](/handbook/company/culture/all-remote/handbook-first/#tools-for-building-a-handbook).
 This format is more comfortable for people to work in than a static website with GitLab Merge Requests and GitLab Pages.
 However wikis tend to go stale over time, where they are badly organized and get out of date.
 
@@ -310,13 +310,13 @@ See the [Searching GitLab like a pro](/handbook/tools-and-tips/searching/) page 
 
 If you run into trouble editing the GitLab Handbook there are various means of help available.
 
-Team members, referred to as [MR Buddies](https://about.gitlab.com/handbook/people-group/general-onboarding/mr-buddies/), are available to help you create a merge request or debug any problems you might run into while updating the GitLab Handbook. Some common questions are covered in the videos in the [MR Buddies playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrCVFOwSGW6M3k16yLtPO1M).
+Team members, referred to as [MR Buddies](/handbook/people-group/general-onboarding/mr-buddies/), are available to help you create a merge request or debug any problems you might run into while updating the GitLab Handbook. Some common questions are covered in the videos in the [MR Buddies playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrCVFOwSGW6M3k16yLtPO1M).
 
 For [more serious problems](/handbook/about/on-call/#when-to-escalate-an-issue), especially ones that are time sensitive or prohibiting access to important information, there is an [escalation process](/handbook/about/on-call/) to reach out to team members who are on-call to help resolve the problem.
 
 ## Merge Rights Guidelines
 
-You need [`maintainer` access](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) to the [`www-gitlab-com` project](https://gitlab.com/gitlab-com/www-gitlab-com/) to be able to merge MRs for the handbook. If you want merge access, fill out an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). This page contains some tips and guidelines that you should keep in mind when you have `maintainer` access.
+You need [`maintainer` access](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) to the [`www-gitlab-com` project](https://gitlab.com/gitlab-com/www-gitlab-com/) to be able to merge MRs for the handbook. If you want merge access, fill out an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). This page contains some tips and guidelines that you should keep in mind when you have `maintainer` access.
 
 ### Merge with confidence
 
@@ -360,13 +360,13 @@ Being a maintainer gives you access to much more than just the ability to merge.
 
 ### Granting others maintain access
 
-Do not grant people maintainer access without an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). As a maintainer you have the ability to grant others maintainer access. Don’t do so without following the Access Request process to garner the appropriate approvals and create the necessary documentation.
+Do not grant people maintainer access without an [Access Request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). As a maintainer you have the ability to grant others maintainer access. Don’t do so without following the Access Request process to garner the appropriate approvals and create the necessary documentation.
 
 ### Description Templates for Issues and Merge Requests
 
 The [description templates](https://docs.gitlab.com/ee/user/project/description_templates.html) for issues and merge requests in the `www-gitlab-com` project are respectively located in the [.gitlab/issue_templates](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/.gitlab/issue_templates) and [.gitlab/merge_request_templates](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/.gitlab/merge_request_templates) directories, and can be edited and changed with a new merge request.
 
-Changes to the default templates in `Default.md` require review by the [Chief of Staff Team to the CEO](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/) or the [CEO](https://about.gitlab.com/handbook/ceo/). See [.gitlab/CODEOWNERS](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/.gitlab/CODEOWNERS) for the current list of approvers.
+Changes to the default templates in `Default.md` require review by the [Chief of Staff Team to the CEO](/handbook/ceo/chief-of-staff-team/) or the [CEO](/handbook/ceo/). See [.gitlab/CODEOWNERS](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/.gitlab/CODEOWNERS) for the current list of approvers.
 
 - [Default merge request template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Default.md)
 - [Default issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/Default.md)

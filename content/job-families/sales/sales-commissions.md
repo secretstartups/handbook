@@ -8,7 +8,7 @@ Team Members of the Sales Commission's team manage GitLab's commissions programs
 
 ### Junior Sales Commissions Analyst
 
-The Junior Sales Commissions Analyst is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Junior Sales Commissions Analyst is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -33,7 +33,7 @@ The Junior Sales Commissions Analyst is a [grade 5](https://about.gitlab.com/han
 - SaaS and B2B experience preferred
 - Interest in GitLab, and open source software
 - You share our values, and work in accordance with those values
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 - Ability to use GitLab
 
 #### Performance Indicators
@@ -46,7 +46,7 @@ The Junior Sales Commissions Analyst is a [grade 5](https://about.gitlab.com/han
 
 #### Job Grade
 
-The Intermediate Sales Commissions Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Intermediate Sales Commissions Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 - Assist with worldwide commission calculations, reporting, and first-tier end user support
 - Track and research compensation issues and provide analysis to facilitate timely resolution
@@ -69,7 +69,7 @@ The Intermediate Sales Commissions Analyst is a [grade 6](https://about.gitlab.c
 - SaaS and B2B experience preferred
 - Interest in GitLab, and open source software
 - You share our values, and work in accordance with those values
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 - Ability to use GitLab
 
 #### Performance Indicators
@@ -80,7 +80,7 @@ The Intermediate Sales Commissions Analyst is a [grade 6](https://about.gitlab.c
 
 ### Senior Sales Commissions Analyst
 
-The Senior Sales Commissions Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Sales Commissions Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -105,7 +105,7 @@ The Senior Sales Commissions Analyst is a [grade 7](https://about.gitlab.com/han
 - SaaS and B2B experience preferred
 - Interest in GitLab, and open source software
 - You share our values, and work in accordance with those values
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 - Ability to use GitLab
 
 #### Performance Indicators
@@ -118,7 +118,7 @@ The Senior Sales Commissions Analyst is a [grade 7](https://about.gitlab.com/han
 
 #### Job Grade
 
-The Senior Manager, Sales Commissions is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Sales Commissions is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -145,7 +145,7 @@ The Senior Manager, Sales Commissions is a [grade 9](https://about.gitlab.com/ha
 - SaaS and B2B experience preferred
 - Interest in GitLab, and open source software
 - You share our values, and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 - Ability to use GitLab
 
 #### Performance Indicators
@@ -160,11 +160,11 @@ The next step in the Sales Commissions job family is not yet defined at GitLab.
 
 ## Hiring Process
 
-Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a 30min [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30min [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 teammates
 - There may be a final executive interview
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

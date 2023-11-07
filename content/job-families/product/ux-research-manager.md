@@ -12,7 +12,7 @@ The User Experience (UX) Research Manager reports to the Senior Manager or Direc
 
 #### Job Grade
 
-The Manager, UX Research is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -45,20 +45,20 @@ The Manager, UX Research is a [grade 8](https://about.gitlab.com/handbook/total-
 - Evangelize research. Share user insights within the broader organization and externally in creative ways to increase empathy.
 - Able to use GitLab to plan/manage work and update the company handbook.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 
 **NOTE:** In the compensation calculator below, fill in "Manager" in the `Level` field for this role.
 
 #### Interview Process
 
-- [Screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with a recruiter. In this call we will discuss your experience, understand what you are looking for in a UX Research leadership role, talk about your work and approach to user research, discuss your compensation expectations and reasons why you want to join GitLab, and answer any questions you have.
+- [Screening call](/handbook/hiring/#screening-call) with a recruiter. In this call we will discuss your experience, understand what you are looking for in a UX Research leadership role, talk about your work and approach to user research, discuss your compensation expectations and reasons why you want to join GitLab, and answer any questions you have.
 - After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **~20-minutes in duration** and returned **within ten days** of the screening call.
 
 > ### Why we ask for a pre-recorded presentation
 >
 > 1. It helps create a shared understanding of your work between you and our interviewers ahead of the first interview.
 > 1. It allows us to ask more informed questions about your experience and work during the interview process.
-> 1. Generally, we [avoid using meetings as a means to present](https://about.gitlab.com/handbook/communication/#common-meeting-problems). Instead, we record presentations, upload to our Unfiltered Youtube channel, and use a meeting as a Q&A. This interview exercise provides you with an opportunity to experience this style of work.
+> 1. Generally, we [avoid using meetings as a means to present](/handbook/communication/#common-meeting-problems). Instead, we record presentations, upload to our Unfiltered Youtube channel, and use a meeting as a Q&A. This interview exercise provides you with an opportunity to experience this style of work.
 >
 > ### Presentation Topics
 >
@@ -73,8 +73,8 @@ The Manager, UX Research is a [grade 8](https://about.gitlab.com/handbook/total-
 >
 > ### Some useful resources
 >
-> - Unsure on where to get started? Check out our [handbook page on recording a presentation in Zoom](https://about.gitlab.com/handbook/tools-and-tips/zoom/#how-to-share-a-presentation-in-zoom). A free Zoom account is all you'd need to complete this presentation.
-> - Interested in the type of work our UX team does? Check out our [UX Showcases on GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz), our [UX Research handbook](https://about.gitlab.com/handbook/product/ux/ux-research/), and our [UX Department's handbook](https://about.gitlab.com/handbook/product/ux/).
+> - Unsure on where to get started? Check out our [handbook page on recording a presentation in Zoom](/handbook/tools-and-tips/zoom/#how-to-share-a-presentation-in-zoom). A free Zoom account is all you'd need to complete this presentation.
+> - Interested in the type of work our UX team does? Check out our [UX Showcases on GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz), our [UX Research handbook](/handbook/product/ux/ux-research/), and our [UX Department's handbook](/handbook/product/ux/).
 > - We work with a [low level of shame](/handbook/values/#low-level-of-shame) at GitLab. In this context, this means we don't expect your presentation to be highly polished.
 > - Other questions? Want the Recruiter to review your presentation before the review from the Hiring Manager? Don't hesitate to get in touch with the Recruiter who conducted your screening call.
 
@@ -92,7 +92,7 @@ The Senior Manager, UX Research reports to the Director of UX, and Manager, UX R
 
 #### Job Grade
 
-The Senior Manager, UX Research is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, UX Research is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -119,13 +119,13 @@ The Senior Manager, UX Research is a [grade 9](https://about.gitlab.com/handbook
 - Able to use GitLab to plan/manage work and update the company handbook.
 - Ideally, has experience leading a remote UX research team that conducts research fully remote, too.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 
 **NOTE:** In the compensation calculator below, fill in "Senior Manager" in the `Level` field for this role.
 
 #### Interview Process
 
-- [Screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with a recruiter. In this call we will discuss your experience, understand what you are looking for in a UX Research leadership role, talk about your work and approach to user research, discuss your compensation expectations and reasons why you want to join GitLab, and answer any questions you have.
+- [Screening call](/handbook/hiring/#screening-call) with a recruiter. In this call we will discuss your experience, understand what you are looking for in a UX Research leadership role, talk about your work and approach to user research, discuss your compensation expectations and reasons why you want to join GitLab, and answer any questions you have.
 - Interview with a UX Researcher. In this interview, the interviewer will spend a lot of time trying to understand the experiences and challenges you've had as a manager, specific details of any initiatives you've led, the problems you were trying to solve, and the outcomes of these initiatives. Do be prepared to talk about your work and research experience, too.
 - Interview with the UX Research Director. In this interview, we want to get to know how you think about the place of user research within an organization, understand how you define strategy and vision, and understand the size and scope of teams you've managed throughout your career.
 - Interview with the Director of Product Design. In this interview, the interviewer will spend a lot of time trying to understand the experience you have as a manager, your ways of ensuring the team is well-positioned to produce research studies that have a strong impact on product strategy, what types of teams you have led, and your management style. The interviewer will also want to understand how you work with cross-functional partners, how you've handled conflict, and how you've dealt with difficult situations in the past.
@@ -137,7 +137,7 @@ The Director of UX Research reports to the Director of UX, and UX Research Manag
 
 #### Job Grade
 
-The Director, UX Research is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, UX Research is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -145,16 +145,16 @@ The Director, UX Research is a [grade 10](https://about.gitlab.com/handbook/tota
 - Set an ambitious vision for UX Research that other companies use as a benchmark for their own research initiatives.
 - Align UX Research to business goals and company revenue and clearly communicate the resulting impact.
 - Develop an overarching UX research strategy for GitLab, and work with the UX Research team and cross-functional partners to execute that strategy.
-- Mentor UX Research Managers in their career growth, including making sure they each have an [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#internal-resources).
+- Mentor UX Research Managers in their career growth, including making sure they each have an [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#internal-resources).
 - Help scale UX Research by defining a plan to provide research training for Product Managers and Product Designers, and coordinate the UX Research team to create and maintain training materials.
 - Actively advocate for UX Research throughout the company, so that the company is aware of what UX Research does, how they do it, and what insights they have delivered.
 - Stay informed of industry best practices, and help the team to evolve our research practice accordingly.
 - Identify ways to more efficiently and effectively conduct remote user research, and share those learnings with the wider community.
-- Work with Product Operations to ensure UXR consideration in the [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/).
-- Define and manage [Performance Indicators](https://about.gitlab.com/handbook/product/ux/performance-indicators/) for the UX Research team.
-- Independently create and manage [OKRs](https://about.gitlab.com/company/okrs/) for the UX Research team.
+- Work with Product Operations to ensure UXR consideration in the [Product Development Flow](/handbook/product-development-flow/).
+- Define and manage [Performance Indicators](/handbook/product/ux/performance-indicators/) for the UX Research team.
+- Independently create and manage [OKRs](/handbook/company/okrs/) for the UX Research team.
 - Align the way that UX Researchers work with how their cross-functional partners in Product Managment, Product Design, and Engineering prioritize, track, and manage work.
-- Conduct regular [1:1 meetings](https://about.gitlab.com/handbook/leadership/1-1/) with their direct reports and quarterly [skip-level meetings](https://about.gitlab.com/handbook/leadership/skip-levels/) with the reports of their direct reports.
+- Conduct regular [1:1 meetings](/handbook/leadership/1-1/) with their direct reports and quarterly [skip-level meetings](/handbook/leadership/skip-levels/) with the reports of their direct reports.
 - Provide clear and direct feedback to the people they manage, their own manager, and cross-functional partners when needed.
 - Hire and retain a world-class team of UX Researchers.
 - Manage the UX Research budget with oversight from UX leadership.
@@ -172,20 +172,20 @@ The Director, UX Research is a [grade 10](https://about.gitlab.com/handbook/tota
 - Able to use GitLab to plan/manage work and update the company handbook.
 - Ideally, has experience leading a remote UX research team that conducts research fully remote, too.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 
 **NOTE:** In the compensation calculator below, fill in "Director" in the `Level` field for this role.
 
 ## Performance indicators
 
-- [Hiring Actual vs Plan](https://about.gitlab.com/handbook/product/ux/performance-indicators/#hiring-actual-vs-plan)
-- [Diversity](https://about.gitlab.com/handbook/product/ux/performance-indicators/#diversity)
-- [Handbook Update Frequency](https://about.gitlab.com/handbook/product/ux/performance-indicators/#handbook-update-frequency)
-- [Team Member Retention](https://about.gitlab.com/handbook/product/ux/performance-indicators/#team-member-retention)
+- [Hiring Actual vs Plan](/handbook/product/ux/performance-indicators/#hiring-actual-vs-plan)
+- [Diversity](/handbook/product/ux/performance-indicators/#diversity)
+- [Handbook Update Frequency](/handbook/product/ux/performance-indicators/#handbook-update-frequency)
+- [Team Member Retention](/handbook/product/ux/performance-indicators/#team-member-retention)
 
 #### Interview Process
 
-- [Screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with a recruiter. In this call we will discuss your experience, understand what you are looking for in a UX Research leadership role, talk about your work and approach to user research, discuss your compensation expectations and reasons why you want to join GitLab, and answer any questions you have.
+- [Screening call](/handbook/hiring/#screening-call) with a recruiter. In this call we will discuss your experience, understand what you are looking for in a UX Research leadership role, talk about your work and approach to user research, discuss your compensation expectations and reasons why you want to join GitLab, and answer any questions you have.
 - Interview with a UX Researcher. In this interview, the interviewer will spend a lot of time trying to understand the experiences and challenges you've had as a manager, specific details of any initiatives you've led, the problems you were trying to solve, and the outcomes of these initiatives. Do be prepared to talk about your work and research experience, too.
 - Interview with a UX Research Manager. In this interview, we want to get to know how you think about the place of user research within an organization, understand how you define strategy and vision, and understand the size and scope of teams you've managed throughout your career.
 - Interview with the Director of Product Design. In this interview, the interviewer will spend a lot of time trying to understand the experience you have as a manager, your ways of ensuring the team is well-positioned to produce research studies that have a strong impact on product strategy, what types of teams you have led, and your management style. The interviewer will also want to understand how you work with cross-functional partners, how you've handled conflict, and how you've dealt with difficult situations in the past.

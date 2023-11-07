@@ -12,7 +12,7 @@ The Associate Alliance Business Development Manager reports to the Director, All
 
 ### Associate Title Job Grade
 
-The Associate Alliance Business Development Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Alliance Business Development Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Associate ABDM Responsibilities
 
@@ -63,7 +63,7 @@ The Alliance Business Development Manager reports to the Alliance Business Devel
 
 ### Alliance Business Development Manager Job Grade
 
-The Alliance Business Development Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Alliance Business Development Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### ABDM Responsibilities
 
@@ -114,7 +114,7 @@ The Senior Alliance Business Development Manager reports to the Alliance Busines
 
 ### Senior Alliance Business Development Manager Job Grade
 
-The Senior Alliance Business Development Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Alliance Business Development Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior ABDM Responsibilities
 
@@ -165,7 +165,7 @@ The Director Alliance Business Development reports to the VP, Alliances and over
 
 ### Director Alliance Business Development Job Grade
 
-The Director Alliance Business Development is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director Alliance Business Development is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Director Alliance Business Development Responsibilities
 
@@ -204,7 +204,7 @@ The Senior Director Alliance Business Development reports to the VP, Alliances a
 
 ### Senior Director Alliance Business Development Job Grade
 
-The Senior Director Alliance Business Development is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director Alliance Business Development is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Director Alliance Business Development Responsibilities
 
@@ -250,10 +250,10 @@ The next steps for the Alliance Business Development job family have not yet bee
 
 ## Hiring Process
 
-Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a 30min [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30min [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, qualified candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, qualified candidates will be invited to interview with 2-5 team members
 - There may be a final executive interview for qualified candidates
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

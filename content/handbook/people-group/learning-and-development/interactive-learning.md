@@ -87,7 +87,7 @@ The following best practices should be followed when using video to create handb
 
 1. Upload recorded video to the GitLab Unfiltered channel
 1. Embed videos into the handbook on the appropriate content page
-1. Ensure that embedded videos have a sub-header on the page. This will be an essential piece when linking to the handbook using iframes. Here is an [example of this layout](https://about.gitlab.com/company/culture/all-remote/mental-health/#do-not-celebrate-working-long-hours).
+1. Ensure that embedded videos have a sub-header on the page. This will be an essential piece when linking to the handbook using iframes. Here is an [example of this layout](/handbook/company/culture/all-remote/mental-health/#do-not-celebrate-working-long-hours).
 1. Build iframes within a lesson to display video by linking to these sub headers
 
 Other best practices for recording new learning video include:
@@ -124,7 +124,7 @@ The following best practices should be followed when building learning content t
 
 ## Toolkit
 
-Use the following resources when building handbook first learning. Review the [tech stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/) to find the current application owner at GitLab.
+Use the following resources when building handbook first learning. Review the [tech stack](/handbook/business-technology/tech-stack-applications/) to find the current application owner at GitLab.
 
 1. Articulate360
 1. [ScribehHow](https://scribehow.com/)

@@ -187,7 +187,7 @@ If tickets have increased in difficulty:
 If it was identified that PTO impacted our results:
 
 - Determine if additional headcount should be applied on certain dates / days of week.
-- Examine our time-off policy and see if it needs to be adjusted - [handbook](https://about.gitlab.com/handbook/support/support-time-off.html).
+- Examine our time-off policy and see if it needs to be adjusted - [handbook](/handbook/support/support-time-off.html).
 
 ---
 

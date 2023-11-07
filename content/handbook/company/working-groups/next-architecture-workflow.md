@@ -45,7 +45,7 @@ great results by using it.
 - Establish criteria for when a blueprint should be used.
 - Identify cross-functional touchpoints and consolidate upstream processes like
   [production readiness](https://about.gitlab.com/handbook/engineering/infrastructure/production/readiness/),
-  [AppSec reviews](https://about.gitlab.com/handbook/security/security-engineering/application-security/runbooks/review-process),
+  [AppSec reviews](/handbook/security/security-engineering/application-security/runbooks/review-process),
   and [creation of release posts](https://about.gitlab.com/handbook/marketing/blog/release-posts/).
 - Develop strategy for incorporating this process and the Engineering roadmap into Product planning
   and prioritization via the [Cross-functional Prioritization][next-prioritization] framework.
@@ -58,7 +58,7 @@ great results by using it.
 - [Architecture Blueprints][blueprints] provide great context and detail, but
   they are completely disconnected from Product prioritization and thus rarely
   picked up into the workstream.
-- [Working Groups](https://about.gitlab.com/company/team/structure/working-groups/) involving technical
+- [Working Groups](/handbook/company/team/structure/working-groups/) involving technical
   initiatives have a low rate of success. Many *choose* to produce blueprints
   as part of their exit criteria, but blueprints are not standard and do very
   little to ensure the work gets done.

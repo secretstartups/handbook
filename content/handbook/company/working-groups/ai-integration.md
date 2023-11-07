@@ -64,11 +64,11 @@ This is a list of topics that we want to discuss:
 The following criteria should be met for the group to disband:
 
 - Product teams have a clear method to build and integrate AI into GitLab product areas.
-- The integration platform should have a [product group](https://about.gitlab.com/handbook/product/categories/) handling maintanence and feature development
+- The integration platform should have a [product group](/handbook/product/categories/) handling maintanence and feature development
 - We have a structured methodology for evaluating new AI models, adding them to the integration platform to allow them to be consumed by product teams.
 - We have a roadmap plan to achieve GA for our initial AI experiments.
-- Documented process for handling AI feature proposals as part of the [prioritization framework](https://about.gitlab.com/handbook/product/product-processes/#prioritization)
-- Move [SAFE](/handbook/legal/safe-framework/) content from the [internal handbook](https://internal-handbook.gitlab.io/handbook/product/ai-strategy/ai-integration-effort/) to the public handbook where appropriate and [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/).
+- Documented process for handling AI feature proposals as part of the [prioritization framework](/handbook/product/product-processes/#prioritization)
+- Move [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) content from the [internal handbook](https://internal-handbook.gitlab.io/handbook/product/ai-strategy/ai-integration-effort/) to the public handbook where appropriate and [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/).
 - Develop an evaluation process of user experience between options to make more intelligent decisions on which engineering solution we recommend.
 
 ### Q2 OKRs
@@ -79,47 +79,47 @@ The following criteria should be met for the group to disband:
 
 | Working Group Role      | Username        | Person                                                                   | Title                                                           |
 | :---------------------- | :-------------- | ------------------------------------------------------------------------ | :-------------------------------------------------------------- |
-| Executive Stakeholder   | @hbenson        | [Hillary Benson](https://about.gitlab.com/company/team/#hbenson)       | Senior Director, Product Management - Sec, Data Science & Monitor              |
-| Executive Stakeholder   | @timzallmann    | [Tim Zallmann](https://about.gitlab.com/company/team/#timzallmann)       | Senior Director of Engineering, Dev                             |
-| Facilitator             | @tmccaslin  | [Taylor McCaslin](https://about.gitlab.com/company/team/#tmccaslin)   | Group Manager, Product - Data Science                    |
-| Facilitator             | @wayne  | [Wayne Haber](https://about.gitlab.com/company/team/#wayne)   | Director of Engineering |
+| Executive Stakeholder   | @hbenson        | [Hillary Benson](/handbook/company/team/#hbenson)       | Senior Director, Product Management - Sec, Data Science & Monitor              |
+| Executive Stakeholder   | @timzallmann    | [Tim Zallmann](/handbook/company/team/#timzallmann)       | Senior Director of Engineering, Dev                             |
+| Facilitator             | @tmccaslin  | [Taylor McCaslin](/handbook/company/team/#tmccaslin)   | Group Manager, Product - Data Science                    |
+| Facilitator             | @wayne  | [Wayne Haber](/handbook/company/team/#wayne)   | Director of Engineering |
 | Functional Lead - AI Model Validation      | @mray  | [Monmayuri Ray](https://gitlab.com/mray2020)   | Engineering Manager AI Model Validation |
-| Functional Lead - UX             | @jmandell  | [Justin Mandell](https://about.gitlab.com/company/team/#jmandell)   | Product Design Manager: Analytics, Govern, ModelOps, and Secure |
-| Functional Lead - UX             | @pedroms  | [Pedro Moreira da Silva](https://about.gitlab.com/company/team/#pedroms)   | Staff Product Designer |
-| Functional Lead - Legal             | @m_taylor  | [Matthew Taylor](https://about.gitlab.com/company/team/#m_taylor)   | Sr. Director of Legal |
+| Functional Lead - UX             | @jmandell  | [Justin Mandell](/handbook/company/team/#jmandell)   | Product Design Manager: Analytics, Govern, ModelOps, and Secure |
+| Functional Lead - UX             | @pedroms  | [Pedro Moreira da Silva](/handbook/company/team/#pedroms)   | Staff Product Designer |
+| Functional Lead - Legal             | @m_taylor  | [Matthew Taylor](/handbook/company/team/#m_taylor)   | Sr. Director of Legal |
 | Pricing representative             | TBH | TBH  | Principal Pricing Manager, Product |
-| Product representative             | @mushakov | [Melissa Ushakov](https://about.gitlab.com/company/team/#mushakov)   | Group Manager, Product - Plan |
-| Product representative             | @sarahwaldner | [Sarah Waldner](https://about.gitlab.com/company/team/#sarahwaldner)   | Group Manager, Product - Create |
-| Product representative             | @abellucci| [Alana Bellucci](https://about.gitlab.com/company/team/#abellucci)   | Senior Product Manager, Govern:Threat Insights |
-| Product representative             | @joshlambert | [Joshua Lambert](https://about.gitlab.com/company/team/#joshlambert)   | Director of Product, Enablement |
-| Product representative             | @tlinz | [Torsten Linz](https://about.gitlab.com/company/team/#tlinz)   | PM, Source Code |
-| Development representative             | @johnhope | [John Hope](https://about.gitlab.com/company/team/#johnhope)   | SEM, Plan |
-| Development representative             | @andr3 | [André Luís](https://about.gitlab.com/company/team/#andr3)   | FEM: Source Code |
-| Development representative             | @cdu1  | [Chun Du](https://about.gitlab.com/company/team/#cdu1)   | Director of Engineering, Enablement |
-| Development representative             | @igor.drozdov  | [Igor Drozdov](https://about.gitlab.com/company/team/#igor.drozdov)   | Staff Backend Engineer, Source Code |
-| Development representative             | @jeromezng | [Jerome Ng](https://about.gitlab.com/company/team/#jeromezng) | Director of Engineering, Fulfillment |
-| Development representative             | @pcalder | [Phil Calder](https://about.gitlab.com/company/team/#pcalder) | Senior Engineering Manager, Anti-abuse, Govern, and Growth |
-| Development representative             | @nmccorrison | [Neil McCorrison](https://about.gitlab.com/company/team/#nmccorrison) | Engineering Manager, Govern: Threat Insights |
-| Development representative             | @carlad-gl | [Carla Drago](https://about.gitlab.com/company/team/#carlad-gl) | Senior Backend Engineer, Manage: Import & Integrate |
-| Development representative             | @donaldcook | [Donald Cook](https://about.gitlab.com/company/team/#donaldcook)   | EM, Project Management |
-| Legal representative             | @jbackerman | [Jesse Backerman](https://about.gitlab.com/company/team/#jbackerman)   | Managing Legal Counsel |
-| Vulnerability Research Representative | @idawson | [Isaac Dawson](https://about.gitlab.com/company/team/#idawson) | Staff Vulnerability Researcher |
-| Vulnerability Research Representative | @dbolkensteyn | [Dinesh Bolkensteyn](https://about.gitlab.com/company/team/#dbolkensteyn) | Sr. Vulnerability Researcher |
-| Third Party Security Risk Representative | @tdilbeck | [Ty Dilbeck](https://about.gitlab.com/company/team/#tdilbeck) | Security Risk Manager |
-| Governance and Field Security Representative | @jlongo_gitlab | [Joseph Longo](https://about.gitlab.com/company/team/#jlongo_gitlab) | Governance and Field Security Manager |
-| Security Compliance Representative | @kbray | [Ken Bray](https://about.gitlab.com/company/team/#kbray) | Sr. Security Compliance Engineer (Dedicated Markets) |
-| Security Compliance Representative | @lcoleman | [Liz Coleman](https://about.gitlab.com/company/team/#lcoleman) | Security Compliance Manager (Commercial) |
-| Security Automation Representative | @agroleau | [Alexander Groleau](https://about.gitlab.com/company/team/#agroleau) | Senior Security Engineering Manager (Automation) |
-| Security Automation Representative | @imand3r | [Ian Anderson](https://about.gitlab.com/company/team/#imand3r) | Staff Security Engineer (Automation) |
-| Application Security Representative | @greg | [Greg Myers](https://about.gitlab.com/company/team/#greg) | Security Engineer (Application Security) |
-| Solutions Architecture Representative / Rapid Prototyping Team Member | @bartzhang | [Bart Zhang](https://about.gitlab.com/company/team/#bartzhang) | Channel Solutions Architect |
-| Product Marketing Representative| @laurenaalves | [Laurena Alves](https://about.gitlab.com/company/team/#laurenaalves) | Senior Product Marketing Manager |
+| Product representative             | @mushakov | [Melissa Ushakov](/handbook/company/team/#mushakov)   | Group Manager, Product - Plan |
+| Product representative             | @sarahwaldner | [Sarah Waldner](/handbook/company/team/#sarahwaldner)   | Group Manager, Product - Create |
+| Product representative             | @abellucci| [Alana Bellucci](/handbook/company/team/#abellucci)   | Senior Product Manager, Govern:Threat Insights |
+| Product representative             | @joshlambert | [Joshua Lambert](/handbook/company/team/#joshlambert)   | Director of Product, Enablement |
+| Product representative             | @tlinz | [Torsten Linz](/handbook/company/team/#tlinz)   | PM, Source Code |
+| Development representative             | @johnhope | [John Hope](/handbook/company/team/#johnhope)   | SEM, Plan |
+| Development representative             | @andr3 | [André Luís](/handbook/company/team/#andr3)   | FEM: Source Code |
+| Development representative             | @cdu1  | [Chun Du](/handbook/company/team/#cdu1)   | Director of Engineering, Enablement |
+| Development representative             | @igor.drozdov  | [Igor Drozdov](/handbook/company/team/#igor.drozdov)   | Staff Backend Engineer, Source Code |
+| Development representative             | @jeromezng | [Jerome Ng](/handbook/company/team/#jeromezng) | Director of Engineering, Fulfillment |
+| Development representative             | @pcalder | [Phil Calder](/handbook/company/team/#pcalder) | Senior Engineering Manager, Anti-abuse, Govern, and Growth |
+| Development representative             | @nmccorrison | [Neil McCorrison](/handbook/company/team/#nmccorrison) | Engineering Manager, Govern: Threat Insights |
+| Development representative             | @carlad-gl | [Carla Drago](/handbook/company/team/#carlad-gl) | Senior Backend Engineer, Manage: Import & Integrate |
+| Development representative             | @donaldcook | [Donald Cook](/handbook/company/team/#donaldcook)   | EM, Project Management |
+| Legal representative             | @jbackerman | [Jesse Backerman](/handbook/company/team/#jbackerman)   | Managing Legal Counsel |
+| Vulnerability Research Representative | @idawson | [Isaac Dawson](/handbook/company/team/#idawson) | Staff Vulnerability Researcher |
+| Vulnerability Research Representative | @dbolkensteyn | [Dinesh Bolkensteyn](/handbook/company/team/#dbolkensteyn) | Sr. Vulnerability Researcher |
+| Third Party Security Risk Representative | @tdilbeck | [Ty Dilbeck](/handbook/company/team/#tdilbeck) | Security Risk Manager |
+| Governance and Field Security Representative | @jlongo_gitlab | [Joseph Longo](/handbook/company/team/#jlongo_gitlab) | Governance and Field Security Manager |
+| Security Compliance Representative | @kbray | [Ken Bray](/handbook/company/team/#kbray) | Sr. Security Compliance Engineer (Dedicated Markets) |
+| Security Compliance Representative | @lcoleman | [Liz Coleman](/handbook/company/team/#lcoleman) | Security Compliance Manager (Commercial) |
+| Security Automation Representative | @agroleau | [Alexander Groleau](/handbook/company/team/#agroleau) | Senior Security Engineering Manager (Automation) |
+| Security Automation Representative | @imand3r | [Ian Anderson](/handbook/company/team/#imand3r) | Staff Security Engineer (Automation) |
+| Application Security Representative | @greg | [Greg Myers](/handbook/company/team/#greg) | Security Engineer (Application Security) |
+| Solutions Architecture Representative / Rapid Prototyping Team Member | @bartzhang | [Bart Zhang](/handbook/company/team/#bartzhang) | Channel Solutions Architect |
+| Product Marketing Representative| @laurenaalves | [Laurena Alves](/handbook/company/team/#laurenaalves) | Senior Product Marketing Manager |
 | Developer Relations Representative | @johncoghlan | [John Coghlan](https://gitlab.com/johncoghlan) | Senior Manager, Developer Evangelism |
-| Privacy Representative | @emccrann | [Eugene McCrann](https://about.gitlab.com/company/team/#emccrann) | Lead Legal Counsel, Privacy |
-| Quality Engineering Representative | @at.ramya | [Ramya Authappan](https://about.gitlab.com/company/team/#at.ramya) | Engineering Manager, Quality, Dev & Analytics Section |
-| Infrastructure | @lmcandrew  | [Liam McAndrew](https://about.gitlab.com/company/team/#lmcandrew)  | Engineering Manager, Scalability Frameworks |
-| Infrastructure | @igorwwwwwwwwwwwwwwwwwwww | [Igor Wiedler](https://about.gitlab.com/company/team/#igorwwwwwwwwwwwwwwwwwwww) | Staff SRE, Scalability Frameworks |
-| Infrastructure | @mbursi | [Michele Bursi](https://about.gitlab.com/company/team/#mbursi) | Engineering Manager, Delivery System |
+| Privacy Representative | @emccrann | [Eugene McCrann](/handbook/company/team/#emccrann) | Lead Legal Counsel, Privacy |
+| Quality Engineering Representative | @at.ramya | [Ramya Authappan](/handbook/company/team/#at.ramya) | Engineering Manager, Quality, Dev & Analytics Section |
+| Infrastructure | @lmcandrew  | [Liam McAndrew](/handbook/company/team/#lmcandrew)  | Engineering Manager, Scalability Frameworks |
+| Infrastructure | @igorwwwwwwwwwwwwwwwwwwww | [Igor Wiedler](/handbook/company/team/#igorwwwwwwwwwwwwwwwwwwww) | Staff SRE, Scalability Frameworks |
+| Infrastructure | @mbursi | [Michele Bursi](/handbook/company/team/#mbursi) | Engineering Manager, Delivery System |
 | Support | @ralfaro | [Ronnie Alphero](https://gitlab.com/ralfaro) | Support Engineering Manager |
 | Enablement | @cs.wang | [Christopher Wang](https://gitlab.com/cs.wang) | Sr. Manager, Enablement (Sales Development) |
 
@@ -132,13 +132,13 @@ We currently have two core AI Development groups at GitLab: AI Framework group a
 
 The AI Model Validation group helps all product groups to match the right model(s) and AI/ML-based techniques to the user problem they must solve. They do that by evaluating, building, training, and tuning many of the models GitLab uses as well as by proactively sharing AI resources and experience. Today, they also directly build and maintain some user-facing AI features.
 
-- [AI Model Validation group](https://about.gitlab.com/handbook/product/categories/#ai-powered-stage) develops in-house AI features that run natively within GitLab infrastructure. The group develops these models to meet capability, quality, customizability, privacy, and cost requirements.  These components include an inference engine, abstraction layer, and models.
+- [AI Model Validation group](/handbook/product/categories/#ai-powered-stage) develops in-house AI features that run natively within GitLab infrastructure. The group develops these models to meet capability, quality, customizability, privacy, and cost requirements.  These components include an inference engine, abstraction layer, and models.
 - The custom-built models help in use cases when there is a need to train models on customer-proprietary data (like all merge requests and commits for a customer) and when 3rd party models do meet our needs.
 - Their currently released features are [code suggestions](https://docs.gitlab.com/ee/user/project/repository/code_suggestions.html) which is currently in customer beta and [suggested reviewer](https://docs.gitlab.com/ee/user/project/merge_requests/reviews/#suggested-reviewers) which is GA.
 - This group can help evaluate models for functional correctness and [model perplexity](https://surge-ai.medium.com/evaluating-language-models-an-introduction-to-perplexity-in-nlp-f6019f7fb914) based on metrics and (often large) benchmark datasets, which is a more statistical evaluation than manual testing. This can help determine the most quality model for a feature's use-case.
-- They work in many languages, including Ruby on Rails, Golang, Python (for machine learning and data science), and Typescript (for the VS Code Plugin). The group comprises of [ML Scientistists](https://medium.com/cogitotech/what-is-the-difference-between-machine-learning-engineer-vs-machine-learning-scientist-cfcf4e48363f), [MLOps Engineers](https://www.databricks.com/glossary/mlops) , [ML Infrastructure Engineers](https://www.reddit.com/r/MLQuestions/comments/zd55mv/what_exactly_is_a_machine_learning_infrastructure/), and [Fullstack engineers](https://handbook.gitlab.com/job-families/engineering/development/fullstack/).
+- They work in many languages, including Ruby on Rails, Golang, Python (for machine learning and data science), and Typescript (for the VS Code Plugin). The group comprises of [ML Scientistists](https://medium.com/cogitotech/what-is-the-difference-between-machine-learning-engineer-vs-machine-learning-scientist-cfcf4e48363f), [MLOps Engineers](https://www.databricks.com/glossary/mlops) , [ML Infrastructure Engineers](https://www.reddit.com/r/MLQuestions/comments/zd55mv/what_exactly_is_a_machine_learning_infrastructure/), and [Fullstack engineers](/job-families/engineering/development/fullstack/).
 
-You can contact this group via Slack in [#g_ai_assisted](https://gitlab.slack.com/archives/C023YB2FEUC). View their [issue board here](https://gitlab.com/groups/gitlab-org/modelops/applied-ml/-/boards/5588960?label_name[]=group%3A%3Aai%20assisted&group_by=epic).  To see who is engaged on this effort please see [here](https://about.gitlab.com/handbook/product/categories/#ai-assisted-group).
+You can contact this group via Slack in [#g_ai_assisted](https://gitlab.slack.com/archives/C023YB2FEUC). View their [issue board here](https://gitlab.com/groups/gitlab-org/modelops/applied-ml/-/boards/5588960?label_name[]=group%3A%3Aai%20assisted&group_by=epic).  To see who is engaged on this effort please see [here](/handbook/product/categories/#ai-assisted-group).
 
 ### AI Framework
 

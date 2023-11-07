@@ -19,7 +19,7 @@ The Renewals Operations Analyst (Intermediate) reports to the [Senior Manager Cu
 
 #### Renewals Operations Analyst (Intermediate) Job Grade
 
-The Renewals Operations Analyst (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Renewals Operations Analyst (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Renewals Operations Analyst (Intermediate) Responsibilities
 
@@ -58,7 +58,7 @@ The  Senior Renewals Operations Analyst reports to the [Senior Manager Customer 
 
 #### Senior Renewals Operations Analyst Job Grade
 
-The  Senior Renewals Operations Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The  Senior Renewals Operations Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Renewals Operations Analyst Responsibilities
 
@@ -67,7 +67,7 @@ The  Senior Renewals Operations Analyst is a [grade 7](https://about.gitlab.com/
 
 #### Manager, Renewal Operations Job Grade
 
-The  Manager, Renewal Operations is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The  Manager, Renewal Operations is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Renewal Operations Responsibilities
 
@@ -103,7 +103,7 @@ The  Manager, Renewal Operations is a [grade 8](https://about.gitlab.com/handboo
 
 #### Senior Manager, Renewal Operations Job Grade
 
-The Senior Manager, Renewal Operations is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Renewal Operations is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Renewal Operations Responsibilities
 
@@ -130,8 +130,8 @@ The Senior Manager, Renewal Operations is a [grade 9](https://about.gitlab.com/h
 ## Performance Indicators
 
 - SMAU
-- [CSAT](https://about.gitlab.com/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
-- [PNPS](https://about.gitlab.com/handbook/product/performance-indicators/#gitlab-com-paid-net-promoter-score-pnps)
+- [CSAT](/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
+- [PNPS](/handbook/product/performance-indicators/#gitlab-com-paid-net-promoter-score-pnps)
 - [Churn & customer retention metrics](https://about.gitlab.com/handbook/customer-success/vision/#retention-and-reasons-for-churn)
 
 ## Career Ladder
@@ -142,8 +142,8 @@ The next step in the Renewals Operations job family is not yet defined at GitLab
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 Team Members
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

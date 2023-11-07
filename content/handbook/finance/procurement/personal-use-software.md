@@ -42,7 +42,6 @@ In some cases, software is reviewed and determined to be of particularly "low" r
 |Brain.fm|Green|N/A| Base application only |
 | Burp Suite Professional | Green | N/A | N/A |
 | Calendly | Orange | 01/03/2024 | N/A |
-| Clockwise | Orange | 8/16/2024 | N/A |
 |DeepL for individuals|Green|N/A| Base application only, does not apply to DeepL API |
 | Grammarly | Green | N/A | Grammarly desktop application only, for use with non-confidential information. Usage of the Grammarly browser extension is discouraged and unapproved due to privacy and security implications. |
 |Microsoft Office - Home & Student |Green|N/A| Approval applies to the offline version of the Microsoft Office Suite. Microsoft Office 365 is not approved.|

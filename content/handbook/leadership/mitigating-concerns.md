@@ -33,7 +33,7 @@ To make our [values]({{< ref "values" >}}) stronger, we:
 1. Find new ways to [reinforce our values]({{< ref "values#how-do-we-reinforce-our-values" >}})
 
 It's possible  that a lack of diversity, one of our values, could lead to building a product that is not inclusive.
-To address this, we have many DIB initiatives, including [diversity goals in leadership and throughout the company](https://about.gitlab.com/company/culture/inclusion/#performance-indicators) and [referral bonuses for underrepresented groups](https://about.gitlab.com/handbook/incentives/).
+To address this, we have many DIB initiatives, including [diversity goals in leadership and throughout the company](/handbook/company/culture/inclusion/#performance-indicators) and [referral bonuses for underrepresented groups](/handbook/incentives/).
 
 When asked in an [interview](https://youtu.be/7kMQj4O4ZGU) on GitLab Unfiltered to elaborate on this concern, GitLab co-founder and CEO Sid Sijbrandij offered the following context.
 
@@ -64,11 +64,11 @@ To address this concern, we:
 Most companies start shipping more slowly as they grow.
 To keep our pace, we need to:
 
-1. Ensure we get [8 Merge Requests (MRs) per engineer per month](/handbook/engineering/development/performance-indicators/#average-mrs-development-engineers-month)
+1. Ensure we get [8 Merge Requests (MRs) per engineer per month](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#average-mrs-development-engineers-month)
 1. Have [acquired organizations](/handbook/acquisitions/) remake their functionality inside our [single application](/handbook/product/single-application/)
-1. Have a [quality group](/handbook/engineering/quality/) that keeps our developer tooling efficient
+1. Have a [quality group](https://about.gitlab.com/handbook/engineering/quality/) that keeps our developer tooling efficient
 1. Achieve our [category maturity targets](/handbook/product/performance-indicators/)
-1. Ensure each [group has non-overlapping scope](/company/team/structure/#product-groups)
+1. Ensure each [group has non-overlapping scope](/handbook/company/team/structure/#product-groups)
 
 We were voted [The World's Most Productive Remote Team](https://noonies.hackernoon.com/2019/technology/2019-the-world-s-most-productive-remote-team) by HackerNoon.
 
@@ -77,17 +77,17 @@ We were voted [The World's Most Productive Remote Team](https://noonies.hackerno
 As more folks work away from customers, it is easy to lose sight of whom we are serving. We can address this by:
 
 - [living out our customer results value]({{< ref "values#customer-results" >}})
-- product managers continuing to do [customer validation cycles](https://about.gitlab.com/handbook/product-development-flow/#validation-track)
+- product managers continuing to do [customer validation cycles](/handbook/product-development-flow/#validation-track)
 - [dogfooding]({{< ref "values#dogfooding" >}}) so we experience the same pain points our customers do
-- optimizing for [user experience and usability](/handbook/product/ux/). We manage toward improving performance for [UX KPIs]({{< ref "kpis#ux-department-kpis" >}}), including [SUS score](https://about.gitlab.com/handbook/product/ux/performance-indicators/#system-usability-scale-sus-score)
+- optimizing for [user experience and usability](/handbook/product/ux/). We manage toward improving performance for [UX KPIs]({{< ref "kpis#ux-department-kpis" >}}), including [SUS score](/handbook/product/ux/performance-indicators/#system-usability-scale-sus-score)
 
 ### Remote proliferation
 
-Remote work is a [diminishing competitive advantage](https://about.gitlab.com/company/culture/all-remote/vision/#diminishing-competitive-advantage) for GitLab, which is a net positive for the world but creates unique pressures to retain team members. Key people may leave as remote opportunities proliferate, impacting talent retention, recruitment, team continuity, and financial pressures related to total rewards.
+Remote work is a [diminishing competitive advantage](/handbook/company/culture/all-remote/vision/#diminishing-competitive-advantage) for GitLab, which is a net positive for the world but creates unique pressures to retain team members. Key people may leave as remote opportunities proliferate, impacting talent retention, recruitment, team continuity, and financial pressures related to total rewards.
 
-GitLab team members are distinctly positioned to be [recruited](https://www.penews.com/articles/companies-search-remote-working-experts-as-the-home-becomes-the-new-office-20201001) by newly-remote and [transitioning organizations](https://about.gitlab.com/company/culture/all-remote/transition/). As a workaround for the acute shortage of operational talent in the remote transformation space, organizations may be inclined to prioritize hires for existing roles from GitLab and other established remote firms, justifying above-market compensation by factoring inbuilt expertise on managing a remote team. This is akin to someone who speaks multiple languages receiving more regard and compensation for the same role, with GitLab team members serving as a proverbial remote work translator.
+GitLab team members are distinctly positioned to be [recruited](https://www.penews.com/articles/companies-search-remote-working-experts-as-the-home-becomes-the-new-office-20201001) by newly-remote and [transitioning organizations](/handbook/company/culture/all-remote/transition/). As a workaround for the acute shortage of operational talent in the remote transformation space, organizations may be inclined to prioritize hires for existing roles from GitLab and other established remote firms, justifying above-market compensation by factoring inbuilt expertise on managing a remote team. This is akin to someone who speaks multiple languages receiving more regard and compensation for the same role, with GitLab team members serving as a proverbial remote work translator.
 
-Accelerated by the COVID-19 pandemic, more organizations are [now willing](https://www.beautiful.ai/player/-MN2DyuYlmg6Bh5JA3sn/Remote-Work-Trends) to hire remotely. While [hybrid-remote](https://about.gitlab.com/company/culture/all-remote/hybrid-remote/) is a suboptimal experience compared to all-remote, investment in equitible workplace experiences will narrow this gap.
+Accelerated by the COVID-19 pandemic, more organizations are [now willing](https://www.beautiful.ai/player/-MN2DyuYlmg6Bh5JA3sn/Remote-Work-Trends) to hire remotely. While [hybrid-remote](/handbook/company/culture/all-remote/hybrid-remote/) is a suboptimal experience compared to all-remote, investment in equitible workplace experiences will narrow this gap.
 
 A particular concern is GitLab's geographic diversity. Team members farthest from major cities may leave to achieve accelerated financial success at newly-remote organizations which utilize a different compensation philosophy.
 
@@ -98,7 +98,7 @@ While this could be reflected in [loss of velocity](#loss-of-velocity), innovati
 
 In addition to [keeping our hiring bar high](#lowering-the-hiring-bar), we have the benefit of our community to help bring new insights and use cases creating issues.
 We can keep this momentum by continuing to value and engage with our community.
-We have [Merge Request Coaches](https://handbook.gitlab.com/job-families/expert/merge-request-coach/) who help contributors to get their merge requests to meet the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria),
+We have [Merge Request Coaches](/job-families/expert/merge-request-coach/) who help contributors to get their merge requests to meet the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria),
 and [wider community contributions per release](https://about.gitlab.com/handbook/marketing/performance-indicators/#wider-community-merged-mrs-per-release) is [a GitLab KPI]({{< ref "kpis#gitlab-kpis" >}}).
 
 ### Irresponsible transparency
@@ -129,7 +129,7 @@ This could lead to functional silos, which could lead to loss of efficiency, dup
 We address functional silos by encouraging cross-functional communication and relationship-building through:
 
 - Being [public by default]({{< ref "values#transparency" >}}), enabling all functions to have simultaneous visibility into [OKRs]({{< ref "okrs" >}}), [direction](https://about.gitlab.com/direction/), issues, and milestones within the [handbook]({{< ref "/" >}}).
-- [Coffee chats](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats), including letting [Donut](https://about.gitlab.com/company/culture/all-remote/informal-communication/#the-donut-bot) help intro you to team members
+- [Coffee chats](/handbook/company/culture/all-remote/informal-communication/#coffee-chats), including letting [Donut](/handbook/company/culture/all-remote/informal-communication/#the-donut-bot) help intro you to team members
 - Getting together in-person every 9 months for our [Contribute](https://about.gitlab.com/events/gitlab-contribute/)
 - [Contribute](https://about.gitlab.com/events/gitlab-contribute/) is multi-function; we try to do every in-person event as a multi-function event. An exception would be [Sales Kick Off](https://about.gitlab.com/handbook/sales/training/SKO/) (SKO). SKO is an anti-pattern, though some cross-functional groups are invited to SKO that support sales (product, legal and marketing, for example).
 
@@ -158,8 +158,8 @@ Due to the breadth of our product scope, and the fact that our product and engin
 
 In order to avoid this negative outcome, we:
 
-- Have [research team interview personas](https://about.gitlab.com/handbook/product/ux/ux-research/) to ensure a good end-to-end workflow for specific persona types - doing
-- Ensure adequate [product leadership](https://about.gitlab.com/handbook/product/product-leadership/) that is focused across the entire product line (Growth Director, Enablement Director, Product VP) - doing
+- Have [research team interview personas](/handbook/product/ux/ux-research/) to ensure a good end-to-end workflow for specific persona types - doing
+- Ensure adequate [product leadership](/handbook/product/product-leadership/) that is focused across the entire product line (Growth Director, Enablement Director, Product VP) - doing
 
 ### Bad, insufficient and missing data
 
@@ -174,9 +174,9 @@ We can address this concern by:
 ### Technical debt ineffectively managed
 
 This is especially a problem if there are acquisitions of new technologies.
-We address this for acquired technology by having [acquired organizations](https://about.gitlab.com/handbook/acquisitions/) remake their functionality inside our [single application](https://about.gitlab.com/handbook/product/single-application/).
+We address this for acquired technology by having [acquired organizations](https://about.gitlab.com/handbook/acquisitions/) remake their functionality inside our [single application](/handbook/product/single-application/).
 
-Otherwise, we have a [clear and consistent prioritization framework across engineering](https://about.gitlab.com/handbook/engineering/development/principles/#prioritizing-technical-decisions) and [product](https://about.gitlab.com/handbook/product/product-processes/#how-we-prioritize-work) that helps ensure we are continuously making progress on the most important issues.
+Otherwise, we have a [clear and consistent prioritization framework across engineering](https://about.gitlab.com/handbook/engineering/development/principles/#prioritizing-technical-decisions) and [product](/handbook/product/product-processes/#how-we-prioritize-work) that helps ensure we are continuously making progress on the most important issues.
 
 ### Enterprise product management
 
@@ -184,8 +184,8 @@ While building enterprise software, it's possible to optimize the software for t
 
 In order to prevent this effect, we will:
 
-- Create and maintain [UX scorecards](https://about.gitlab.com/handbook/product/ux/ux-scorecards/) and interviews from UX
-- [Validate problems and solutions before building](https://about.gitlab.com/handbook/product-development-flow/#validation-track)
+- Create and maintain [UX scorecards](/handbook/product/ux/ux-scorecards/) and interviews from UX
+- [Validate problems and solutions before building](/handbook/product-development-flow/#validation-track)
 
 ### Frankenstein product
 
@@ -239,7 +239,7 @@ Disruption to GitLab.com's availability is a reputational concern.
 
 We address this concern in a number of ways:
 
-- we prioritize [security and availability](https://about.gitlab.com/handbook/product/#prioritization) over velocity
+- we prioritize [security and availability](/handbook/product/#prioritization) over velocity
 - we have multiple [reliability teams](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability) who focus on ensuring our infrastructure is reliable.
 - we have the [scalability team](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/), whose focus is to make sure that the application running on that infrastructure is also reliable.
 - we have an [infra-dev escalation process](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/) created to prioritize issues affecting availability and reliability.
@@ -268,7 +268,7 @@ To address the concern of key people leaving the company, we:
 
 Key people may leave as they vest and achieve their economic goals.
 
-As reflected in our compensation principles, we don't want people to stay because they feel like they have [golden handcuffs](/handbook/total-rewards/compensation/#why-we-pay-local-rates), but we do recognize the alignment that comes with options vesting. Beginning in FY22, eligible GitLab team members will be reviewed for a [refresh grant](https://about.gitlab.com/handbook/stock-options/#refresh-grants) once per year.
+As reflected in our compensation principles, we don't want people to stay because they feel like they have [golden handcuffs](/handbook/total-rewards/compensation/#why-we-pay-local-rates), but we do recognize the alignment that comes with options vesting. Beginning in FY22, eligible GitLab team members will be reviewed for a [refresh grant](/handbook/stock-options/#refresh-grants) once per year.
 
 #### Company size
 
@@ -339,7 +339,7 @@ Therefore we:
 Often startups struggle through the transition when founders leave the company, especially when those founders also serve as the CEO.
 
 To address this concern we:
-1. Built a highly capable [E-Group]({{< ref "structure#e-group" >}}) and [Board of Directors](https://about.gitlab.com/handbook/board-meetings/)
+1. Built a highly capable [E-Group]({{< ref "structure#e-group" >}}) and [Board of Directors](/handbook/board-meetings/)
 1. Actively discourage a cult of personality around our CEO
 1. Have the CEO take normal vacations
 1. Actively help the CEO grow with the company, including training, coaching, and feedback
@@ -378,7 +378,7 @@ We tend to be much more cost effective because we build on open source, iterate 
 After GitLab core and home-grown DIY devops platforms, GitHub is GitLab's biggest competitor. After the Microsoft acquisition they have started to follow the single application strategy pioneered by GitLab.
 
 In order to address this concern, GitLab will:
-1. While both GitLab and GitHub are [single application](https://about.gitlab.com/handbook/product/single-application/)s, GitLab has a much broader scope.
+1. While both GitLab and GitHub are [single application](/handbook/product/single-application/)s, GitLab has a much broader scope.
 1. GitLab is focused on the enterprise use cases, GitHub on open source projects.
 1. GitLab is independent of the hyper cloud providers and the best way to be multi-cloud.
 1. Leverage our [community](https://about.gitlab.com/community/) to deliver new stages, categories and features faster
@@ -391,16 +391,16 @@ We will always have competition. To deal with competition, operational excellenc
 We encourage operational excellence in the following ways:
 
 1. [Efficiency value]({{< ref "values#efficiency" >}})
-1. [Long Term Profitability Targets](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#long-term-targets)
+1. [Long Term Profitability Targets](/handbook/finance/financial-planning-and-analysis/#long-term-targets)
 1. [KPIs]({{< ref "kpis#gitlab-kpis" >}})
 1. Open source with a lot of wider community contributors who make it easier to uncover customer demand for features and allow our organization to stay leaner.
-1. A [single application](https://about.gitlab.com/handbook/product/single-application/) makes the user experience better, allows us to introduce new functionality to users, and it makes it easier for us to keep our velocity.
-1. Run the same code for GitLab.com and self-managed applications and [merged the CE and EE codebases](/blog/2019/02/21/merging-ce-and-ee-codebases/)
+1. A [single application](/handbook/product/single-application/) makes the user experience better, allows us to introduce new functionality to users, and it makes it easier for us to keep our velocity.
+1. Run the same code for GitLab.com and self-managed applications and [merged the CE and EE codebases](https://about.gitlab.com/blog/2019/02/21/merging-ce-and-ee-codebases/)
 1. How we [make decisions]({{< ref "leadership#making-decisions" >}})
 
 #### High Ambition
 
-Our [focus on improvement]({{< ref "values#focus-on-improvement" >}}) and commitment to [iteration]({{< ref "values#iteration" >}}) keep us rooted in what's next. This could result in us lowering our [ambition](https://about.gitlab.com/handbook/product/product-principles/#how-this-impacts-planning). While we focus on what's next, we must also maintain a level of ***ambition to compete*** in the future in places where others might not think it is possible today.
+Our [focus on improvement]({{< ref "values#focus-on-improvement" >}}) and commitment to [iteration]({{< ref "values#iteration" >}}) keep us rooted in what's next. This could result in us lowering our [ambition](/handbook/product/product-principles/#how-this-impacts-planning). While we focus on what's next, we must also maintain a level of ***ambition to compete*** in the future in places where others might not think it is possible today.
 
 #### Serve smaller users
 

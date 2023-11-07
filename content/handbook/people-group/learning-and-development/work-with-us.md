@@ -36,7 +36,7 @@ To host a live learning event, start by opening an issue in the Learning and Dev
 **Examples of past Live Learning events**:
 
 - [Introduction to Coaching](coaching)
-- [Being an Ally](https://about.gitlab.com/company/culture/inclusion/being-an-ally/#ally-training)
+- [Being an Ally](/handbook/company/culture/inclusion/being-an-ally/#ally-training)
 
 ### Create a new course
 
@@ -49,7 +49,7 @@ Anyone team at GitLab is encouraged to build new courses. Some scenarios where y
 
 Before you start the process to build content for a learning pathway, it's important that you ensure an existing pathway with the same content or style does not exist. Below are some strategies you can use to search existing content and check for duplication **before** you start building content.
 
-1. All learning at GitLab is [handbook first]({{< ref "interactive-learning" >}}). Search the handbook for existing content pages and material. The [leadership handbook pages]({{< ref "leadership" >}}) and [all-remote guide](https://about.gitlab.com/company/culture/all-remote/guide/) are often a great place to start, especially when creating material for team members. Add relevant content to these handbook pages before creating a brand new page, and use the handbook as a SSoT for your pathway.
+1. All learning at GitLab is [handbook first]({{< ref "interactive-learning" >}}). Search the handbook for existing content pages and material. The [leadership handbook pages]({{< ref "leadership" >}}) and [all-remote guide](/handbook/company/culture/all-remote/guide/) are often a great place to start, especially when creating material for team members. Add relevant content to these handbook pages before creating a brand new page, and use the handbook as a SSoT for your pathway.
 
 After you've done a complete search of existing material that you can integrate into your pathway creation, you should start building the remainder of the content your pathway needs. When your content is built, open an issue on the [lxp-contributions project](https://gitlab.com/gitlab-com/people-group/learning-development/lxp-contributions) using the `lxp_contribution` issue template.
 

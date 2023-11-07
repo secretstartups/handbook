@@ -17,7 +17,7 @@ While working through various customer problems, you may need help. We have a wi
 
 ### Zendesk Instances
 
-At GitLab, the Support Team currently manages 2 different [Zendesk Instances](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/):
+At GitLab, the Support Team currently manages 2 different [Zendesk Instances](/handbook/support/readiness/operations/docs/zendesk/):
 
 1. GitLab Support Instance:  [gitlab.zendesk.com](https://gitlab.zendesk.com)
 1. GitLab US Federal Support Instance: [gitlab-federal-support.zendesk.com](https://gitlab-federal-support.zendesk.com)

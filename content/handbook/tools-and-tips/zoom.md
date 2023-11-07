@@ -13,7 +13,7 @@ There have been a number of security researchers looking at Zoom, which has resu
 Here are a few important things to keep in mind, especially as you read through the Zoom tips below:
 
 - Always ensure your operating system as well as the Zoom application are up-to-date with the latest patches.
-- Ensure you've followed the [laptop configuration guidelines](https://about.gitlab.com/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration).
+- Ensure you've followed the [laptop configuration guidelines](/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration).
 - Make a customized [Personal link](#making-a-customized-personal-link).
 - [Enable the "Waiting Room"](#enabling-the-waiting-room-for-your-personal-meeting-room) for your meetings.
 - You can set a password for your meetings, but remember if your meetings are in your calendar, anyone who can view your calendar will see the password if you include it in the meeting invite.
@@ -54,12 +54,33 @@ The People Ops or IT Ops teams can force end a meeting by logging into Zoom with
 
 *Sign up for your default Zoom Pro account in Okta. All team members should have a Zoom Pro account by default. Before diving into sections below, please ensure that you're logged into your GitLab account within your Zoom app.*
 
-### Sign into Zoom for the first time via Okta
+### Updating Zoom
 
-Please ensure you can login Zoom using Okta
+Preferred minimum version for Zoom: 5.13.5
 
-1. Go to <https://gitlab.okta.com/>
-1. Click on the `Zoom SSO` tile
+#### macOS
+
+1. Open the Zoom app on your computer.
+1. In the menu bar, click on `zoom.us` (top left corner of your screen).
+1. Click on `Check for Updates...`
+
+#### Linux
+
+1. Open the terminal, type in the following command and press **Enter** to install GDebi. `sudo apt install gdebi`
+    1. Note: GDebi is usually installed by default on most Ubuntu-based distros. If you're using Debian and get an error saying you are "not in the sudoers file", run the following commands to install sudo, then try installing GDebi again. `su -` then `apt install sudo`
+1. Enter your admin password and continue the installation when prompted.
+1. Download the DEB installer file from our [Download Center](https://zoom.us/download?os=linux).
+1. Double-click the installer file to open it using GDebi.
+1. Click **Install**.
+1. Enter your admin password and continue the installation when prompted.
+
+### Sign into the Zoom app
+
+1. Go to [Okta](https://gitlab.okta.com)
+1. Click on the `Zoom SSO` tile.
+1. Open the Zoom app on your computer.
+1. Click on `SSO`.
+1. Enter `gitlab.zoom.us` for the company domain.
 
 ### Install the Zoom app (on your Mac)
 
@@ -204,6 +225,29 @@ Here is a quick video tutorial how to do this:
 1. Save your settings with the Save button at the bottom.
 1. You can still selectively turn it off for a specific meeting by editing that meeting using the steps in the previous section and turning it off.
 
+### Meeting Surveys
+
+**Enable for all Meeting Surveys**
+
+Meeting Surveys is enabled for everyone at GitLab, however to get this to work, you will need to Meeting Surveys feature within your account.
+
+1. Sign in to the [Zoom web portal](https://zoom.us/signin).
+1. Go to your [account settings](https://gitlab.zoom.us/profile/setting).
+1. Search for `Meeting Survey` and toggle the feature on.
+
+**Add a survey to your meeting**
+
+1. Go to your [meetings](https://gitlab.zoom.us/meeting#/upcoming).
+1. Select one of your meetings **or** schedule a new one.
+1. If you are editing an existing meeting, click the `Survey` tab. If you are scheduling a new meeting, click `Save`, then click the `Survey` tab.
+    1. **Note:** Meeting ID must be generated automatically for this to work, surveys does not work with personal meeting IDs.
+1. Click `Create new survey`.
+1. At the end of the meeting, people will receive the survey to fill out.
+
+**Viewing Survey Results**
+
+1. Go to [Reports](https://zoom.us/account/report?isPersonal=true#/usageReports/meeting) > Meeting > change the `Registration Report` drop down to `Survey Report`.
+
 ---
 
 ## Setting up a Zoom Meeting
@@ -241,7 +285,7 @@ This also mitigates the issue of potential weak communication encryption since t
 
 ### Large meeting considerations
 
-It can be distracting when a call with a large number of attendees has folks joining unmuted. For [Assembly](https://about.gitlab.com/company/gitlab-assembly), CEO [AMAs](https://about.gitlab.com/handbook/communication/ask-me-anything), and other meetings in which we expect an attendance of over 25 folks, meetings should be scheduled, so that folks enter on mute. These folks can then opt to unmute as required to participate in the conversation.
+It can be distracting when a call with a large number of attendees has folks joining unmuted. For [Assembly](/handbook/company/gitlab-assembly), CEO [AMAs](/handbook/communication/ask-me-anything), and other meetings in which we expect an attendance of over 25 folks, meetings should be scheduled, so that folks enter on mute. These folks can then opt to unmute as required to participate in the conversation.
 
 ---
 

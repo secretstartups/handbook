@@ -8,7 +8,7 @@ description: "This page details processes specific to Sid, CEO of GitLab."
 This page details processes specific to Sid, CEO of GitLab.
 The page is intended to be helpful, feel free to deviate from it and update this page if you think it makes sense.
 If there are things that might seem pretentious or overbearing please raise them so we can remove or adapt them.
-Many items on this page are a guidelines for our [Executive Business Administrators](https://handbook.gitlab.com/job-families/people-group/executive-business-administrator/) (EBAs).
+Many items on this page are a guidelines for our [Executive Business Administrators](/job-families/people-group/executive-business-administrator/) (EBAs).
 
 ### CEO Bio
 
@@ -68,19 +68,19 @@ Sid is easy to talk to on any subject. He is good at drawing people out and chal
 1. Sid is also the driving force for our iteration value. For example, he holds [Iteration Office Hours](#iteration-office-hours).
 1. Sid really values 1:1 preparation.
 1. Sid believes in “strong opinions, weakly held.” He doesn’t always seem like it, but he will change his mind quickly if you present him with compelling new information and a data driven perspective.
-1. Sid loves naming things, and strongly believes in the power of clear language. Learn and use (and add to) our terminology e.g. `It’s not a “best practice”, it’s a “boring solution”`. The [product categories](https://about.gitlab.com/handbook/product/categories/) page is a good example. Sid advocates for using [MECEFU terms]({{< ref "communication#mecefu-terms" >}}) to keep communication efficient.
+1. Sid loves naming things, and strongly believes in the power of clear language. Learn and use (and add to) our terminology e.g. `It’s not a “best practice”, it’s a “boring solution”`. The [product categories](/handbook/product/categories/) page is a good example. Sid advocates for using [MECEFU terms]({{< ref "communication#mecefu-terms" >}}) to keep communication efficient.
 
 ## Interviewing and conducting meetings
 
 This section was started by GitLab's Head of Remote Darren M. to coach and provide context to others who meet with and interview Sid. The below are suggestions based on a history of personal interviews, extracted lessons from [GitLab Unfiltered interviews](https://www.youtube.com/playlist?list=PL05JrBw4t0KpdkiYcuSO2EtNBzK2Nyzx5), and observations during a [CEO Shadow rotation](https://about.gitlab.com/blog/2020/05/22/gitlab-remote-ceo-shadow-takeaways/). Others are welcome to create a merge request and add more.
 
-1. ***How scripted are interviews?*** Sid does well in [unscripted interviews](https://youtu.be/7kMQj4O4ZGU), but prefers questions [outlined]({{< ref "eba#meeting-request-requirements" >}}) in a Google document and attached in the [meeting invite](https://about.gitlab.com/company/culture/all-remote/live-doc-meetings/) in advance. The EBA to the CEO can assist you with this. Interviews tend to go well when it is clear ahead of time what the crux of the conversation will be about, and there is documented context which can be consumed asynchronously ahead of time.
-1. ***What if questions arise which aren't in the agenda? Do you add them and keep the conversation going?*** Expert interviewers will actively anticipate that new and unexpected questions will arise. You may be surprised by the question, but *not* that the question happened. The interviewer is responsible for keeping the conversation on track according to the agenda. If you feel that a question veers the conversation too far off track, document the question and add a to-do for a follow-up or asynchronous answer. At GitLab, [agendas are revered](https://about.gitlab.com/company/culture/all-remote/live-doc-meetings/); feel confident in using the agenda to keep the interview crisp.
+1. ***How scripted are interviews?*** Sid does well in [unscripted interviews](https://youtu.be/7kMQj4O4ZGU), but prefers questions [outlined]({{< ref "eba#meeting-request-requirements" >}}) in a Google document and attached in the [meeting invite](/handbook/company/culture/all-remote/live-doc-meetings/) in advance. The EBA to the CEO can assist you with this. Interviews tend to go well when it is clear ahead of time what the crux of the conversation will be about, and there is documented context which can be consumed asynchronously ahead of time.
+1. ***What if questions arise which aren't in the agenda? Do you add them and keep the conversation going?*** Expert interviewers will actively anticipate that new and unexpected questions will arise. You may be surprised by the question, but *not* that the question happened. The interviewer is responsible for keeping the conversation on track according to the agenda. If you feel that a question veers the conversation too far off track, document the question and add a to-do for a follow-up or asynchronous answer. At GitLab, [agendas are revered](/handbook/company/culture/all-remote/live-doc-meetings/); feel confident in using the agenda to keep the interview crisp.
 1. ***Do you script perspective and commentary?*** Unscripted, authentic feedback and commentary is appreciated and shows preparation for the subject matter and an understanding of discussion flow. With Sid (and other interview subjects), practice gets you closer to perfection. Professional media training creates a deeper understanding of this concept.
 1. ***Do you worry about saying the wrong thing?*** This may be challenging to overcome. A list of tips for overcoming this are below.
    1. Be comfortable with (seemingly) awkward silence. Sid appreciates time to analyze and gather his thoughts to provide the most thoughtful, cohesive response. Silence is not an indicator of his disapproval of the question or angle.
    1. Make it personal. Ask Sid “*Why do you feel this way?*” or "*What did you learn from this?*" or “*What happens in your day that relates to this?*” Sid is able to craft stories which involve personal anecdotes that create deeper understanding and learning for the audience.
-1. ***Be bold in your questions***. Sid enjoys the challenge of a hard or (thoughtfully) audacious question. Sid fields a lot of questions on a daily basis, many of which can be answered by [referencing the GitLab handbook](https://about.gitlab.com/company/culture/all-remote/self-service/#answer-with-a-link). By referencing a current state in the handbook and digging for more context and nuance, this provides opportunity for Sid to answer and provide value to more than just the interviewer — the new context should be added to the handbook after the interview to benefit all.
+1. ***Be bold in your questions***. Sid enjoys the challenge of a hard or (thoughtfully) audacious question. Sid fields a lot of questions on a daily basis, many of which can be answered by [referencing the GitLab handbook](/handbook/company/culture/all-remote/self-service/#answer-with-a-link). By referencing a current state in the handbook and digging for more context and nuance, this provides opportunity for Sid to answer and provide value to more than just the interviewer — the new context should be added to the handbook after the interview to benefit all.
 1. ***Apply to the [CEO Shadow](/handbook/ceo/shadow/) program***. There is no equivalent to watching Sid meet with and interview a global array of people for two weeks. The program is an efficient way to gain a deeper understanding of Sid's style and personality. Moreover, the program enables GitLab team members to realize that Sid is not only a CEO, but also an individual who enjoys working with others who will challenge him and accelerate his personal growth.
 1. ***Don’t be ashamed with ending early***. It is natural to try to fill an allotted time block with a CEO. Remember GitLab's value of [Efficiency]({{< ref "values#efficiency" >}}) and be bold if you're able to progress through an agenda quickly. A recommend close-out statement is: “*We were very efficient driving through the agenda. Any final points before we close?*”
 1. ***Listen to Sid's [interview](https://changelog.com/founderstalk/70) on the Changelog podcast***. There are hundreds of hours of Sid speaking on the internet, but this interview showcases a talented interviewer (Adam) extracting nuance and detail from Sid in a comfortable and professional way. The interviewer is thoughtful yet audacious in his questions, while also bold and considerate. He challenges Sid and commands mutual respect.
@@ -150,7 +150,7 @@ Please follow these steps if you'd like me to review a [Merge Request (MR)](http
    1. The [CI/CD pipeline ran successfully](https://docs.gitlab.com/ee/user/project/merge_requests/widgets.html#pipeline-information) and deployed the latest [review app](https://docs.gitlab.com/ee/ci/review_apps/)
 1. When the MR is ready for my review:
    1. Add `@sytses` as a `Reviewer` to the MR. You can use this [quick action](https://docs.gitlab.com/ee/user/project/quick_actions.html): `/assign_reviewer @sytses`.
-   1. Post to the [#ceo](https://app.slack.com/client/T02592416/C3MAZRM8W) Slack channel, `@` mentioning me asking for my review. Please provide a brief description sharing the [context](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication).
+   1. Post to the [#ceo](https://app.slack.com/client/T02592416/C3MAZRM8W) Slack channel, `@` mentioning me asking for my review. Please provide a brief description sharing the [context](/handbook/company/culture/all-remote/effective-communication/#understanding-low-context-communication).
    1. Optional: Add a direct URL to the deployed review app to the Slack message for faster access
    1. Address any feedback I provide and ensure that the MR is mergeable (see `#3` above)
 1. After my approval is given merge the MR if I have not
@@ -190,8 +190,8 @@ As part of my role, I participate in a variety of meetings both internal and ext
 
 ### Weekly Meetings
 
-1. [1-1s](https://about.gitlab.com/handbook/leadership/1-1/) with my direct reports and [EBA]({{< ref eba >}}). 25-50 minutes.
-1. [E-Group](https://about.gitlab.com/company/team/structure/#e-group) Call. 120 minutes.
+1. [1-1s](/handbook/leadership/1-1/) with my direct reports and [EBA]({{< ref eba >}}). 25-50 minutes.
+1. [E-Group](/handbook/company/team/structure/#e-group) Call. 120 minutes.
 1. If there are open positions Talent Acquisition Syncs on key Executive hires. 25 minutes.
 1. Topical conversations on top cross-functional initiatives or other areas of importance to the CEO. 25 minutes.
 1. Candidate Interviews. 50 minutes.
@@ -200,9 +200,9 @@ As part of my role, I participate in a variety of meetings both internal and ext
 
 1. [Key Review]({{< ref key-review >}}) with Executives and function leaders. 25 minutes.
 1. [CEO Group Conversation]({{< ref group-conversations >}}). 25 minutes.
-1. [1-1](https://about.gitlab.com/handbook/leadership/1-1/) with CEO Coach. 80 minutes.
+1. [1-1](/handbook/leadership/1-1/) with CEO Coach. 80 minutes.
 1. Industry Analyst Meetings. 25-50 minute meetings.
-1. [Coffee Chats](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats). 25 minutes.
+1. [Coffee Chats](/handbook/company/culture/all-remote/informal-communication/#coffee-chats). 25 minutes.
 1. [Retrospective](https://about.gitlab.com/handbook/engineering/workflow/#retrospective). 25 minutes.
 1. [Monthly Release Kick-off](https://about.gitlab.com/releases/). 25 minutes.
 1. [CEO 101](https://about.gitlab.com/culture/gitlab-101/). 50 minutes.
@@ -213,25 +213,25 @@ As part of my role, I participate in a variety of meetings both internal and ext
 
 ### Quarterly Meetings
 
-1. [E-Group Offsite](https://about.gitlab.com/company/offsite/) Monday-Thursday. After QBR's and before the Board of Directors meeting.
-1. [GitLab Board of Directors Meeting](https://about.gitlab.com/handbook/board-meetings/). 3.5 hours via Zoom. Usually preceded by a dinner or followed by a lunch for those who wish to attend in-person in San Francisco.
-1. GitLab Board of Director Committee Meetings => [Audit Committee](https://about.gitlab.com/handbook/board-meetings/committees/audit/#audit-committee-charter), [Compensation and Leadership Development Committee](https://about.gitlab.com/handbook/board-meetings/committees/compensation/), and [Nominating and Corp Governance](https://about.gitlab.com/handbook/board-meetings/#nominating-and-corporate-governance-committee) Meeting. 50 minutes.
-1. [Skip Levels](https://about.gitlab.com/handbook/leadership/skip-levels/) with direct report's leadership team. 25 minutes.
-1. [1-1](https://about.gitlab.com/handbook/leadership/1-1/) with GitLab Board Members. 25-50 minutes.
-1. [OKR E-Group Planning](https://about.gitlab.com/company/okrs/#schedule) 50-90 minutes.
-1. [OKRs How to Achieve Meeting](https://about.gitlab.com/company/okrs/#how-to-achieve-presentation). 25 minutes with each function Executive.
-1. [Board Member AMA's](https://about.gitlab.com/handbook/board-meetings/#quarterly-ama-with-the-board). 25-50 minutes.
+1. [E-Group Offsite](/handbook/company/offsite/) Monday-Thursday. After QBR's and before the Board of Directors meeting.
+1. [GitLab Board of Directors Meeting](/handbook/board-meetings/). 3.5 hours via Zoom. Usually preceded by a dinner or followed by a lunch for those who wish to attend in-person in San Francisco.
+1. GitLab Board of Director Committee Meetings => [Audit Committee](/handbook/board-meetings/committees/audit/#audit-committee-charter), [Compensation and Leadership Development Committee](/handbook/board-meetings/committees/compensation/), and [Nominating and Corp Governance](/handbook/board-meetings/#nominating-and-corporate-governance-committee) Meeting. 50 minutes.
+1. [Skip Levels](/handbook/leadership/skip-levels/) with direct report's leadership team. 25 minutes.
+1. [1-1](/handbook/leadership/1-1/) with GitLab Board Members. 25-50 minutes.
+1. [OKR E-Group Planning](/handbook/company/okrs/#schedule) 50-90 minutes.
+1. [OKRs How to Achieve Meeting](/handbook/company/okrs/#how-to-achieve-presentation). 25 minutes with each function Executive.
+1. [Board Member AMA's](/handbook/board-meetings/#quarterly-ama-with-the-board). 25-50 minutes.
 
 ### Annual Meetings
 
 1. [Contribute](https://about.gitlab.com/events/gitlab-contribute/). Sunday-Friday.
-1. [Annual Planning](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#annual-plan) with the GitLab Board of Directors. 50-80 minutes.
+1. [Annual Planning](/handbook/finance/financial-planning-and-analysis/#annual-plan) with the GitLab Board of Directors. 50-80 minutes.
 1. Fiscal Year Kickoff. 50 minutes.
 1. Industry Conferences such as: DevOps Enterprise Summit, AWS re:Invent, KubeCon, Linux Summit
 
 ## CEO Vacation Preference
 
-I try to plan my vacations around times when many team members in the United States are on vacation. A rough overview of these times is captured on GitLab's [cadence page](https://about.gitlab.com/company/cadence/#gantt-chart). Other team members may also preference taking off work during these windows as there tends to be less demand for synchronous collaboration during these times.
+I try to plan my vacations around times when many team members in the United States are on vacation. A rough overview of these times is captured on GitLab's [cadence page](/handbook/company/cadence/#gantt-chart). Other team members may also preference taking off work during these windows as there tends to be less demand for synchronous collaboration during these times.
 
 ## Candidate interviews
 
@@ -257,7 +257,7 @@ The recruiter should share a prep package with the Board Member at least 3 busin
 
 ## Pick Your Brain interviews
 
-To schedule a Pick Your Brain interview with me, please see the [EBA handbook page]({{< ref "ceo-scheduling#pick-your-brain-meetings" >}}). To watch and read prior Pick Your Brain interviews about all-remote, please see the [Interviews page](https://about.gitlab.com/company/culture/all-remote/interviews/).
+To schedule a Pick Your Brain interview with me, please see the [EBA handbook page]({{< ref "ceo-scheduling#pick-your-brain-meetings" >}}). To watch and read prior Pick Your Brain interviews about all-remote, please see the [Interviews page](/handbook/company/culture/all-remote/interviews/).
 
 For scheduling a video call or meeting with me or other execs, please see the [EBA handbook page]({{< ref eba >}}).
 
@@ -308,7 +308,7 @@ Please ensure:
 1. We let the sales team know we would love to set up meetings and schedule these with my EBA at least a week before the conference.
 1. There is same timezone EBA coverage during the conference.
 
-If I am asked to keynote a conference, it is up to the [executive](https://about.gitlab.com/company/team/structure/#executives) of the function asking me to attend to decide.
+If I am asked to keynote a conference, it is up to the [executive](/handbook/company/team/structure/#executives) of the function asking me to attend to decide.
 For example, if the request is coming from marketing, the CMO decides; if the request is coming from Finance, the CFO decides.
 Please follow the process outlined under [meeting request requirements]({{ ref "eba#meeting-request-requirements" >}}) and work with my EBA who will shepherd the decision about whether or not I will attend.
 
@@ -345,7 +345,7 @@ People regularly ask what I use for my home office setup. Below is a list of the
 - Light: [Elgato Keylight](https://www.amazon.com/Elgato-Key-Light-Professional-App-Enabled/dp/B07L755X9G/)
 - Green screen: I use a cloth one. Roll Down/up screens are a space saver but can be on the small side. Painting the room has mixed results because different surfaces reflect light different even with the same paint.
 
-Note: I have paid for all of these items myself. Please refer to [GitLab's expense policy](https://about.gitlab.com/handbook/finance/expenses/#-office-equipment-and-supplies) for office equipment and supplies when purchasing and expensing home office items.
+Note: I have paid for all of these items myself. Please refer to [GitLab's expense policy](/handbook/finance/expenses/#-office-equipment-and-supplies) for office equipment and supplies when purchasing and expensing home office items.
 
 ## CEO Voice
 
@@ -353,8 +353,8 @@ When preparing scripts or documents in my voice, please follow these guidelines.
 
 1. Avoid “we” or “our” when discussing the product. I don’t wish to speak on behalf of others or to imply that GitLab team members are owners of GitLab or its users. Everyone can contribute = everyone has some ownership of GitLab.
 1. Less is more. If you can say something in fewer words, do so. I prefer speaking in shorter sentences.
-1. Always [be inclusive](https://about.gitlab.com/company/culture/inclusion/#inclusive-language). No gendered terms if it can be avoided.
-1. Be as direct and specific as possible. Don’t assume the reader/audience knows what you mean ([low-context communication](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication)). No vague statements.
+1. Always [be inclusive](/handbook/company/culture/inclusion/#inclusive-language). No gendered terms if it can be avoided.
+1. Be as direct and specific as possible. Don’t assume the reader/audience knows what you mean ([low-context communication](/handbook/company/culture/all-remote/effective-communication/#understanding-low-context-communication)). No vague statements.
 1. Remove unnecessary words, assuming statements or lead-ins that don't add value. Ex: “As you know.”
 1. When writing a script, read it out loud. If it's not easy to say in one try, edit the script to make it easy to speak.
 1. Any time you make a statement, consider whether there exist any data/proof points to back it up, and include the proof. This proof might exist internally through work our teams are doing, or externally through analyst reports or other such reporting.
@@ -379,7 +379,7 @@ On short flight with other team members fly economy if we can sit together, in t
 There are three levels of performance:
 
 1. Commitment: what we promise to our stakeholders.
-1. Aspiration: want to get to 70% of this, these are our [OKRs](https://about.gitlab.com/company/okrs/)
+1. Aspiration: want to get to 70% of this, these are our [OKRs](/handbook/company/okrs/)
 1. Possibility: what we are intrigued by, inspired by, and what I talk about
 
 I'm driven by what is possible, the aspiration, what can be.
@@ -397,9 +397,9 @@ An applicant asked how we manage to do this and these are the factors that come 
 1. Don't ever slow down because it is very hard to recover from that. As soon as you stop shipping (for a big refactor, a security initiative, etc.) it is very hard to get back up to the old speed. The organization has accepted a slower rate and there are always enough reasons to go slower. You have to do the refactors and other things during the course of business, never slow down.
 1. Everyone in the business wants to do the right thing for the existing users and customers. The problem is that people already using you prefer stability in scope over change in scope. You need to optimize for all people, both the current users and people not using GitLab yet because it is missing features.
 1. Separate execution from goal-setting. At GitLab, product decides what to ship and engineering is responsible for shipping it. Both report in to the CEO. If you have a head of product that also runs engineering, they are more likely to slow down because it will make engineers' tasks easier.
-1. Separate decision making from giving input. [As detailed in our handbook](https://about.gitlab.com/handbook/leadership/#making-decisions) we leave the decision to the person doing the work or their manager, this prevents the need for exponentially more coordination as we grow.
+1. Separate decision making from giving input. [As detailed in our handbook](/handbook/leadership/#making-decisions) we leave the decision to the person doing the work or their manager, this prevents the need for exponentially more coordination as we grow.
 1. We [iterate]({{< ref "values#iteration" >}}) so that we keep learning quickly and reduce the risk of decisions.
-1. We have [functional teams](https://about.gitlab.com/handbook/leadership/#no-matrix-organization) that make us efficient but as mentioned in that text we promote organic cross-functional collaboration by giving people stable natural counterparts.
+1. We have [functional teams](/handbook/leadership/#no-matrix-organization) that make us efficient but as mentioned in that text we promote organic cross-functional collaboration by giving people stable natural counterparts.
 
 ## Evolution of the handbook
 
@@ -428,7 +428,7 @@ I keep in touch with various industry leaders on a regular basis (monthly, quart
 
 I have these conversations across all functions because it is important for me to have external, subject-specific mentors. Better understanding individual functions helps me set better targets, ask better questions, and be a better partner to functional leaders. This allows me to be a better manager and CEO.
 
-I try to prioritize people from [underrepresented groups](https://about.gitlab.com/company/culture/inclusion/#definitions), because I see value in learning from folks with different backgrounds. These same folks may eventually become GitLab team members who would add [diversity](https://about.gitlab.com/company/culture/inclusion/#diversity-inclusion--belonging-mission-at-gitlab) to GitLab.
+I try to prioritize people from [underrepresented groups](/handbook/company/culture/inclusion/#definitions), because I see value in learning from folks with different backgrounds. These same folks may eventually become GitLab team members who would add [diversity](/handbook/company/culture/inclusion/#diversity-inclusion--belonging-mission-at-gitlab) to GitLab.
 
 ## CEO scam
 

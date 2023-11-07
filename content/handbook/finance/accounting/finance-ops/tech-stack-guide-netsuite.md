@@ -3,7 +3,7 @@ title: "NetSuite Tech Stack Guide"
 description: "Reference for how NetSuite is implemented."
 ---
 
-> **Note:** Refer to the **[Tech Stack Index](https://about.gitlab.com/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/)** to manage Apps.
+> **Note:** Refer to the **[Tech Stack Index](/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](/handbook/business-technology/tech-stack-applications/)** to manage Apps.
 
 {{% tech-stack "Netsuite" %}}
 
@@ -19,7 +19,7 @@ TBD
 
 ### Zuora Billing to NetSuite
 
-This integration is used a the end of each month to [synchronise Zuora Billing journal entries to Netsuite](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/wiki/integrations-list/zuora-billing-netsuite/).
+This integration is used a the end of each month to [synchronise Zuora Billing journal entries to Netsuite](/handbook/business-technology/enterprise-applications/integrations/wiki/integrations-list/zuora-billing-netsuite/).
 
 ### NetSuite to Coupa
 

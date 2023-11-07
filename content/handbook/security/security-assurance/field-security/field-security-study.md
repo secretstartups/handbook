@@ -6,7 +6,7 @@ title: "Annual Field Security Study"
 
 GitLab conducts an annual Field Security Study to document areas of concern or improvement identified with GitLab's enterprise security, market competitiveness, and ability to support its customers' needs. By assessing the perceived impact rating and providing clear and centralized insight on customer feedback to GitLab's leadership, we can drive cross-organizational alignment on a strategy to iterate on GitLab's product and security programs.
 
-Reports are considered [Internal](https://about.gitlab.com/handbook/communication/confidentiality-levels/#internal)
+Reports are considered [Internal](/handbook/communication/confidentiality-levels/#internal)
 
 ### Frequency
 
@@ -46,7 +46,7 @@ The following analysis will occur based on the collected data:
 
 ### Reporting and Remediation
 
-A detailed report is produced and provided to relevant [internal](https://about.gitlab.com/handbook/communication/confidentiality-levels/#internal) stakeholders for consideration. Prioritized concerns will also be documented in GitLab issues by the Field Security team and assigned to the appropriate team members.
+A detailed report is produced and provided to relevant [internal](/handbook/communication/confidentiality-levels/#internal) stakeholders for consideration. Prioritized concerns will also be documented in GitLab issues by the Field Security team and assigned to the appropriate team members.
 
 - Information Security related issues will be evaluated and managed by Security Leadership.
 

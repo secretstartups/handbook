@@ -26,13 +26,13 @@
       url: culture
       links:
       - name: All-Remote
-        url: handbook/company/culture/all-remote/guide
+        url: /handbook/company/culture/all-remote/guide
       - name: Life at GitLab
         url: culture#life-at-gitlab
       - name: GitLab Contribute
         url: https://about.gitlab.com/events/gitlab-contribute/
       - name: Team
-        url: https://about.gitlab.com/company/team/
+        url: /handbook/company/team
       - name: Only healthy constraints
         url: only-healthy-constraints
     - name: TeamOps
@@ -75,7 +75,7 @@
   - name: Handbook Changelog
     url: changelog
   - name: Handbook Roadmap
-    url: roadmap
+    url: /handbook/about/roadmap
   - name: Handbook Support
     url: /content/handbook/about/support.md
   - name: Handbook On-Call
@@ -149,7 +149,7 @@
         - name: Compensation
           url: compensation
         - name: Stock Options
-          url: https://about.gitlab.com/handbook/stock-options/
+          url: /handbook/stock-options
     - name: Tools and Tips
       url: tools-and-tips
       links:
@@ -192,7 +192,7 @@
     - name: Engineering Analytics
       url: https://about.gitlab.com/handbook/engineering/quality/engineering-analytics/
   - name: Security Practices
-    url: https://about.gitlab.com/handbook/security/
+    url: /handbook/security/
   - name: Open Source
     url: https://about.gitlab.com/handbook/engineering/open-source/
 - name: Security
@@ -334,7 +334,7 @@
   - name: Accounts Receivable
     url: /handbook/finance/accounting/#accounts-receivable
   - name: Business Technology
-    url: https://about.gitlab.com/handbook/business-technology/
+    url: /handbook/business-technology/
   - name: Expenses
     url: /handbook/finance/expenses
   - name: Financial Planning & Analysis
@@ -353,44 +353,44 @@
      - name: Sarbanes-Oxley (SOX) Compliance
        url: sarbanes-oxley
   - name: Stock Options
-    url: https://about.gitlab.com/handbook/stock-options/
+    url: /handbook/stock-options
 - name: Product
   icon: fa-solid fa-comments
-  url: https://about.gitlab.com/handbook/product/
+  url: /handbook/product
   links:
   - name: Release posts
     url: https://about.gitlab.com/handbook/marketing/blog/release-posts/
   - name: About the GitLab Product
-    url: https://about.gitlab.com/handbook/product/gitlab-the-product/
+    url: /handbook/product/gitlab-the-product
   - name: Being a Product Manager at GitLab
-    url: https://about.gitlab.com/handbook/product/product-manager-role/
+    url: /handbook/product/product-manager-role
   - name: Product Principles
-    url: https://about.gitlab.com/handbook/product/product-principles/
+    url: /handbook/product/product-principles
   - name: Product Processes
-    url: https://about.gitlab.com/handbook/product/product-processes/
+    url: /handbook/product/product-processes
   - name: Product sections, stages, groups, and categories
-    url: https://about.gitlab.com/handbook/product/categories/
+    url: /handbook/product/categories
   - name: Product Development Flow
-    url: https://about.gitlab.com/handbook/product-development-flow/
+    url: /handbook/product-development-flow
   - name: Product Development Timeline
     url: https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline
   - name: Data for Product Managers
-    url: https://about.gitlab.com/handbook/business-technology/data-team/programs/data-for-product-managers/
+    url: /handbook/business-technology/data-team/programs/data-for-product-managers
   - name: Product Pricing Model
-    url: https://about.gitlab.com/company/pricing/
+    url: /handbook/company/pricing
   - name: Data analysis
-    url: https://about.gitlab.com/handbook/business-technology/data-team/
+    url: /handbook/business-technology/data-team/
   - name: Corporate Development / Acquisitions
     url: https://about.gitlab.com/handbook/acquisitions/
   - name: UX Department
-    url: https://about.gitlab.com/handbook/product/ux/
+    url: /handbook/product/ux
     links:
     - name: Technical Writing
-      url: https://about.gitlab.com/handbook/product/ux/technical-writing/
+      url: /handbook/product/ux/technical-writing
     - name: UX Research
-      url: https://about.gitlab.com/handbook/product/ux/ux-research/
+      url: /handbook/product/ux/ux-research
     - name: Product Design
-      url: https://about.gitlab.com/handbook/product/ux/product-design/
+      url: /handbook/product/ux/product-design
 - name: Legal and Compliance
   icon: fa-solid fa-scale-balanced
   url: https://about.gitlab.com/handbook/legal/

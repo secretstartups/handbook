@@ -17,20 +17,20 @@ A BIA is performed for a system by completing a questionnaire. Each question in 
 1. Supplemental Information (questions that prompt important system details)
 1. [Security Best Practices]({{< ref "business-impact-analysis#responses-that-may-result-in-tier-3-observationsrisks" >}}) (questions that reveal potential Information System risks)
 
-System data obtained through the BIA may be referenced for [Business Continuity](https://about.gitlab.com/handbook/business-technology/gitlab-business-continuity-plan/) planning and testing.
+System data obtained through the BIA may be referenced for [Business Continuity](/handbook/business-technology/gitlab-business-continuity-plan/) planning and testing.
 
 **Note:** Additionally, a subset of questions may be included in the BIA Questionnaire to satisfy [global privacy legislation requirements](https://about.gitlab.com/handbook/legal/privacy/privacy-laws.html#gdpr) pertaining to a system's [Personal Data]({{< ref "data-classification-standard#data-classification-definitions" >}}) processing.
 
 ## Scope
 
-The BIA covers all systems in GitLab's [Tech Stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/). However, the volume and frequency of the BIA is based on [Critical System Tiering]({{< ref "critical-systems" >}}). See the ['BIA Procedures']({{< ref "business-impact-analysis#bia-procedures" >}}) section for more details.
+The BIA covers all systems in GitLab's [Tech Stack](/handbook/business-technology/tech-stack-applications/). However, the volume and frequency of the BIA is based on [Critical System Tiering]({{< ref "critical-systems" >}}). See the ['BIA Procedures']({{< ref "business-impact-analysis#bia-procedures" >}}) section for more details.
 
 ## Roles and Responsibilities
 
 |Role|Responsibility|
 |----------|------------------------------|
 | [Security Risk Team]({{< ref "../../security-risk" >}}) |Responsible for implementing and executing this procedure periodically based on Critical System Tiering requirements. |
-| [Business/Technical Owner](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#tech-stack-definitions) of a System | Responsible for performing a BIA or validating previously submitted BIA/Tech Stack Data. |
+| [Business/Technical Owner](/handbook/business-technology/tech-stack-applications/#tech-stack-definitions) of a System | Responsible for performing a BIA or validating previously submitted BIA/Tech Stack Data. |
 | Security Assurance Management (Code Owners)|Responsible for approving significant changes and exceptions to the BIA. |
 
 ## BIA Procedures
@@ -91,4 +91,4 @@ System Proof of Concepts (POC), Proof of Values (POV), and Pilots are exempt fro
 
 - [Critical System Tiering Methodology]({{< ref "critical-systems" >}})
 - [Data Classification Standard]({{< ref "data-classification-standard" >}})
-- [Business Continuity Plan](https://about.gitlab.com/handbook/business-technology/gitlab-business-continuity-plan/)
+- [Business Continuity Plan](/handbook/business-technology/gitlab-business-continuity-plan/)

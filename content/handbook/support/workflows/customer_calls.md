@@ -338,16 +338,16 @@ If you're not comfortable having the call recorded, please involve your manager 
 
 You're not required to turn your camera on, and some clients may elect not to. At GitLab we [try to have our video on at all times because it's much more engaging for participants](/handbook/communication/#video-calls).
 
-See more tips about video, environment and dress on our [communication page](/handbook/communication/#video-calls) and our [all-remote meetings page](https://about.gitlab.com/company/culture/all-remote/meetings/#8-meetings-are-about-the-work-not-the-background).
+See more tips about video, environment and dress on our [communication page](/handbook/communication/#video-calls) and our [all-remote meetings page](/handbook/company/culture/all-remote/meetings/#8-meetings-are-about-the-work-not-the-background).
 
 ### Audio
 
 [You're strongly encouraged to use a headset with a microphone](/handbook/communication/#headphones).
 
-See more tips on our [All Remote Workspace page](https://about.gitlab.com/company/culture/all-remote/workspace/)
+See more tips on our [All Remote Workspace page](/handbook/company/culture/all-remote/workspace/)
 
-- [About Headphones](https://about.gitlab.com/company/culture/all-remote/workspace/#headphones)
-- [About Microphones](https://about.gitlab.com/company/culture/all-remote/workspace/#microphone)
+- [About Headphones](/handbook/company/culture/all-remote/workspace/#headphones)
+- [About Microphones](/handbook/company/culture/all-remote/workspace/#microphone)
 
 #### Krisp.ai License for GitLab Support Team
 

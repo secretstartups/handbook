@@ -116,7 +116,7 @@ App information:
 
 ### Mechanizer
 
-This app incorporates [Mechanizer](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html)
+This app incorporates [Mechanizer](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html)
 into Zendesk.
 
 App information:

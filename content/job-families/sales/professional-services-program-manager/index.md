@@ -10,8 +10,8 @@ A highly visible and customer-facing position, within the Professional Services 
 
 | Level | Grade |
 | -- | - |
-| [Intermediate](#program-manager) | [Grade 6](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
-| [Senior](#senior-program-manager) | [Grade 7](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
+| [Intermediate](#program-manager) | [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
+| [Senior](#senior-program-manager) | [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
 
 ## Performance Indicator
 
@@ -79,6 +79,6 @@ The Responsibilities, Requirements, and Additional Sklls for Public Sector Profe
 - The next steps for individual contributors is to move into:
     - A people manager role within Professional Services
     - An Engagement Manager in Profressional Services
-- The next steps for a Manager, Professional Services would be to move into a Senior Manager within this Job Family or to the [Professional Services Engagement](https://about.gitlab.com/job-families/sales/job-professional-services-engagement-manager/) Job Family or the [Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services) Job Family.
-- The next steps for a Senior Manager, Professional Services would be the [Professional Services Engagement](https://about.gitlab.com/job-families/sales/job-professional-services-engagement-manager/) Job Family or the [Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services) Job Family.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- The next steps for a Manager, Professional Services would be to move into a Senior Manager within this Job Family or to the [Professional Services Engagement](/job-families/sales/job-professional-services-engagement-manager/) Job Family or the [Director of Professional Services](/job-families/sales/director-of-professional-services) Job Family.
+- The next steps for a Senior Manager, Professional Services would be the [Professional Services Engagement](/job-families/sales/job-professional-services-engagement-manager/) Job Family or the [Director of Professional Services](/job-families/sales/director-of-professional-services) Job Family.
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)

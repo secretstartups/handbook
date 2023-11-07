@@ -44,7 +44,7 @@ On this page you will be provided an overview of the Diversity, Inclusion & Belo
 |          | Kickoff DIB Speaker Series                                      |
 | Oct      | DIB Training w/Certification                                    |
 |          | [Coming Out Day Panel Discussion - Hosted by GitLab Pride TMRG](https://www.youtube.com/watch?v=OUKWs6hkMQY&feature=youtu.be)   |
-|          | Hired additional DIB Team Member - [Liam McNally](https://about.gitlab.com/company/team/#lmcnally1)                             |
+|          | Hired additional DIB Team Member - [Liam McNally](/handbook/company/team/#lmcnally1)                             |
 
 
 ## Summary of Events for 2019

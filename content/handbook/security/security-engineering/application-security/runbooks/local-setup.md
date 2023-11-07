@@ -6,7 +6,7 @@ When evaluating security issues or MRs, it can be useful to have a way to reprod
 
 ## Get a version of GitLab to play with
 
-Many AppSec engineers will opt to install GitLab locally using GDK. [Here's how to install GDK](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/index.md#one-line-installation) and [how to use it](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/index.md). The UX team have a great summary of [other ways to play with & test GitLab](https://about.gitlab.com/handbook/product/ux/how-we-work/#preview-test-and-contribute).
+Many AppSec engineers will opt to install GitLab locally using GDK. [Here's how to install GDK](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/index.md#one-line-installation) and [how to use it](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/index.md). The UX team have a great summary of [other ways to play with & test GitLab](/handbook/product/ux/how-we-work/#preview-test-and-contribute).
 
 ### Step through execution chains
 
@@ -32,4 +32,4 @@ When testing requires using multiple users, an Incognito / Private tab is an eas
 
 Some bugs require connecting to a service. An example is using `ngrok` to stub a fake GitLab server in ["CVE-2022-0244: Arbitrary file read via the bulk imports UploadsPipeline"](https://gitlab.com/gitlab-org/gitlab/-/issues/349524#steps-to-reproduce).
 
-Making your local machine accessible from the internet is [not permitted](https://about.gitlab.com/handbook/business-technology/it/security/system-configuration/#other-servicesdevices), which precludes tools like `ngrok` or `localtunnel`. Use GitLab's [Sandbox Cloud]({{< ref "/handbook/infrastructure-standards/realms/sandbox" >}}) to host mock servers instead. Refer to [Secure Cloud testing environments]({{< ref "test_env#securing-cloud-testing-environments" >}}) for advice on how to secure your Sandbox Cloud test environments.
+Making your local machine accessible from the internet is [not permitted](/handbook/business-technology/it/security/system-configuration/#other-servicesdevices), which precludes tools like `ngrok` or `localtunnel`. Use GitLab's [Sandbox Cloud]({{< ref "/handbook/infrastructure-standards/realms/sandbox" >}}) to host mock servers instead. Refer to [Secure Cloud testing environments]({{< ref "test_env#securing-cloud-testing-environments" >}}) for advice on how to secure your Sandbox Cloud test environments.

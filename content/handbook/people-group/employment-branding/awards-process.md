@@ -52,12 +52,12 @@ Steps for the Talent Brand Manager:
 Content for award applications can often be found in the GitLab handbook, including:
 
 - [General benefits information]({{< ref "benefits" >}})
-- [Our culture](https://about.gitlab.com/company/culture/)
+- [Our culture](/handbook/company/culture/)
 - [Company history]({{< ref "history" >}})
 - [Company values]({{< ref "values" >}})
 - [Job FAQs](/handbook/hiring/candidate/faq/)
-- [DIB programs](https://about.gitlab.com/company/culture/inclusion/)
-- [All-remote work](https://about.gitlab.com/company/culture/all-remote/)
+- [DIB programs](/handbook/company/culture/inclusion/)
+- [All-remote work](/handbook/company/culture/all-remote/)
 - [GitLab's press kit](https://about.gitlab.com/press/press-kit/)
 
 ## Return to the main Talent Brand page

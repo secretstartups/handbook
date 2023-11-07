@@ -9,18 +9,18 @@ We are the Minorities in Tech (MIT) Enterprise Resource Group (TMRG) founded in 
 
 ## Leads
 
-- [Aricka Flowers](https://about.gitlab.com/company/team/#atflowers)
-- [Sharif Bennett](https://about.gitlab.com/company/team/#SharifATL)
+- [Aricka Flowers](/handbook/company/team/#atflowers)
+- [Sharif Bennett](/handbook/company/team/#SharifATL)
 
 ## Sub-committees
 
-**Mentorship**: [Sharif Bennett](https://about.gitlab.com/company/team/#SharifATL) & [Darva Satcher](https://about.gitlab.com/company/team/#dsatcher)
+**Mentorship**: [Sharif Bennett](/handbook/company/team/#SharifATL) & [Darva Satcher](/handbook/company/team/#dsatcher)
 
-**Events**: [Aricka Flowers](https://about.gitlab.com/company/team/#atflowers), [Morgen Smith](https://about.gitlab.com/company/team/#msmith6) & [Shakarra McGuire](https://about.gitlab.com/company/team/#samcguire)
+**Events**: [Aricka Flowers](/handbook/company/team/#atflowers), [Morgen Smith](/handbook/company/team/#msmith6) & [Shakarra McGuire](/handbook/company/team/#samcguire)
 
-**Talent Acquisition**: [Lorna Webster](https://about.gitlab.com/company/team/#lwebster) & [Darva Satcher](https://about.gitlab.com/company/team/#dsatcher)
+**Talent Acquisition**: [Lorna Webster](/handbook/company/team/#lwebster) & [Darva Satcher](/handbook/company/team/#dsatcher)
 
-**Internal Outreach**:   [Romer Gonzalez](https://about.gitlab.com/company/team/#romerg), [Jackie Porter](https://about.gitlab.com/company/team/#jreporter), & [Daniel Croft](https://about.gitlab.com/company/team/#dcroft)
+**Internal Outreach**:   [Romer Gonzalez](/handbook/company/team/#romerg), [Jackie Porter](/handbook/company/team/#jreporter), & [Daniel Croft](/handbook/company/team/#dcroft)
 
 ## Communications
 

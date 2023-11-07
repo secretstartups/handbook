@@ -13,14 +13,14 @@ Working groups are for important work that needs to be done quickly, when asynch
 
 ### CEO Handbook Learning Discussion on Working Groups
 
-GitLab's CEO, Sid, and Chief of Staff to the CEO, Stella, and the Learning & Development team discuss Working Groups in detail during a [CEO handbook learning session](https://about.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions).
+GitLab's CEO, Sid, and Chief of Staff to the CEO, Stella, and the Learning & Development team discuss Working Groups in detail during a [CEO handbook learning session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions).
 
 Topics covered include:
 
 1. What is a working group
 1. When to start a working group
 1. Difference between project managers and working groups.
-   - Note: GitLab does not internally have project managers. Individual team members should have agency and accountability. We don't want someone who just tracks the status of work and makes updates. We want people to do this directly, and we want the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) to own the process and outcome. This supports accountability. We sometimes have project managers when interacting with external organizations, because accountability is harder when working with external parties.
+   - Note: GitLab does not internally have project managers. Individual team members should have agency and accountability. We don't want someone who just tracks the status of work and makes updates. We want people to do this directly, and we want the [DRI](/handbook/people-group/directly-responsible-individuals/) to own the process and outcome. This supports accountability. We sometimes have project managers when interacting with external organizations, because accountability is harder when working with external parties.
 1. Lessons learned from previous working groups
 1. Why and how working groups support cross-functional projects
 
@@ -59,7 +59,7 @@ Any subject matter expert, attends meetings synchronously or asynchronously on a
 1. An executive sponsor is required, in part, to prevent proliferation of working groups.
 1. A person should not facilitate more than one concurrent working group.
 1. Participation in some Working Groups requires a significant time commitment. Participants should be clear on their role and expectations for what they are expected to deliver. They should manage their time and capacity and quickly escalate if they feel unable to serve in or deliver in their role.
-1. It is highly recommended that anyone in the working group with [OKRs](/company/okrs/) aligns them to the effort.
+1. It is highly recommended that anyone in the working group with [OKRs](/handbook/company/okrs/) aligns them to the effort.
 
 ## Process
 
@@ -74,7 +74,7 @@ The DRI should identify key folks who will be members of the Working Group. They
 1. Reach out to the exec sponsor to help identify leads/contacts throughout the organization who could provide support
 1. Reach out to functional leads from the stages identified as needing to provide support to this effort
 1. Include the folks who the DRI has already been working with on this effort, and ask them if they'd like to continue or have someone they'd recommend taking over
-1. Solicit help on the respective stage's/team's Slack channel. The [Features by Group](https://about.gitlab.com/handbook/product/categories/features/) page may provide some guidance
+1. Solicit help on the respective stage's/team's Slack channel. The [Features by Group](/handbook/product/categories/features/) page may provide some guidance
 
 For example, if you know that this Working Group will eventually involve customer communications, you should ensure that the team has appropriate representation from the Customer Success department and that the representative is clear on the asks for both the team and the individual within the coming weeks and quarters.
 
@@ -92,14 +92,14 @@ The DRI should establish how the Working Group will work, including:
 1. Ship iterations and track the metrics
 1. Communicate the results
 
-The Working Group should follow the [GitLab norms for meetings](https://about.gitlab.com/company/culture/all-remote/meetings/) including:
+The Working Group should follow the [GitLab norms for meetings](/handbook/company/culture/all-remote/meetings/) including:
 
 1. Have an agenda
 1. Document everything
 1. Save time at the end of the meeting to take action items
 1. Turn action items into merge requests or issues
 
-Working Groups should follow the guidance outlined in [Building High Performing Teams](https://about.gitlab.com/handbook/leadership/build-high-performing-teams/).
+Working Groups should follow the guidance outlined in [Building High Performing Teams](/handbook/leadership/build-high-performing-teams/).
 
 ### Working Group meetings
 
@@ -107,7 +107,7 @@ The DRI should stand up meetings at the cadence appropriate for the Working Grou
 
 For example, you may have a high priority project in which decisions have been signed off on and change is not anticipated. Folks are clear on their roles and are staying on top of their activities as tracked in issues and epics. You may not need to meet more than once every two weeks to ensure alignment. Alternatively, you may be part of a project in which new deliverables are being reviewed daily and fast decisions have to be made. In this instance, it is appropriate to meet more than once a week.
 
-All meetings should have an [agenda](https://about.gitlab.com/company/culture/all-remote/meetings/#4-all-meetings-must-have-an-agenda). [Live Doc Meetings](/company/culture/all-remote/live-doc-meetings/) have Google Docs as the preferred tool for taking meeting notes in an agenda. Please use the [GitLab Live Doc Meeting Agenda Template](https://docs.google.com/document/d/1eH-adpjfyo_RnlfbPvJ3i0e1Qb-aVoNc4yajnkZgJcU) as a starting point. If there's no agenda for an upcoming session, cancel the meeting.
+All meetings should have an [agenda](/handbook/company/culture/all-remote/meetings/#4-all-meetings-must-have-an-agenda). [Live Doc Meetings](/handbook/company/culture/all-remote/live-doc-meetings/) have Google Docs as the preferred tool for taking meeting notes in an agenda. Please use the [GitLab Live Doc Meeting Agenda Template](https://docs.google.com/document/d/1eH-adpjfyo_RnlfbPvJ3i0e1Qb-aVoNc4yajnkZgJcU) as a starting point. If there's no agenda for an upcoming session, cancel the meeting.
 
 ### Create a page in the handbook
 
@@ -155,7 +155,7 @@ Changes to the timeline or schedule can have rippling downstream impacts. It is 
 
 ### Trust Building
 
-When a Working Group forms, it is important to [build trust](https://about.gitlab.com/handbook/leadership/building-trust/) amongst the team members. This will help the Working Group function better, build credibility, and allow team members to be vulnerable with each other, if needed. Just as it’s important to do the work itself, it’s also important to take time for coffee-chats, activities, games, etc. that allow Working Group members to build a personal connection.
+When a Working Group forms, it is important to [build trust](/handbook/leadership/building-trust/) amongst the team members. This will help the Working Group function better, build credibility, and allow team members to be vulnerable with each other, if needed. Just as it’s important to do the work itself, it’s also important to take time for coffee-chats, activities, games, etc. that allow Working Group members to build a personal connection.
 
 ### Disband the working group
 

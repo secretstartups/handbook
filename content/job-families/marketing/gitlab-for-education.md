@@ -15,7 +15,7 @@ Education Evangelist reports to the Education Program Manager.
 
 #### Education Evangelist Job grade
 
-The Education Evangelist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Education Evangelist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Education Evangelist Responsibilities
 
@@ -46,7 +46,7 @@ The Education Program Manager reports to the Sr. Education Program Manager.
 
 #### Education Program Manager Job Grade
 
-The Education Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Education Program Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Education Program Manager Responsibilities
 
@@ -74,7 +74,7 @@ The Senior Education Program Manager reports to the Director, Education or Direc
 
 #### Senior Education Program Manager Job Grade
 
-The Senior Education Program Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Education Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Education Program Manager Responsibilities
 
@@ -104,7 +104,7 @@ This role includes all of the elements of the Education Program Manager plus:
 
 #### Job Grade
 
-The Manager, Education Program is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Education Program is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Education Program Requirements
 
@@ -118,7 +118,7 @@ This role includes all of the elements of the Manager, Education Program.
 
 #### Job Grade
 
-The Manager, Education Program is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Education Program is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Education Program Requirements
 
@@ -132,7 +132,7 @@ The Director, (Head of Education) reports to the Director of Developer Relations
 
 #### Director, Education (Head of Education) Job Grade
 
-The Director, Education is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Education is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Education (Head of Education) Responsibilities
 
@@ -172,13 +172,13 @@ The next step for the Senior Manager, Education Program is to move to the Direct
 
 ## Hiring Process
 
-Candidates for positions within the GitLab for Education team can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on [our team page](https://about.gitlab.com/company/team/).
+Candidates for positions within the GitLab for Education team can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on [our team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
 - Candidates may then be offered a 30 minute interview with one of our Senior Community Programs Managers.
 - Next, candidates will be invited to schedule an interview with our Director of Developer Relations.
 - Candidates will then be invited to schedule interviews with key team members from relevant company departments that the role will work with closely.
 - Finally, our Chief Marketing Office or Sr. Marketing Director(s) may choose to conduct a final interview.
 - Successful candidates will subsequently be made an offer via video, phone, or email.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

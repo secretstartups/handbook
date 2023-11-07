@@ -59,7 +59,7 @@ If at any point during the refinement process it is determined that something is
 Like [Single Engineer groups](https://about.gitlab.com/handbook/engineering/incubation/), each Product Security Engineer will *"encompass all of product development (product management, engineering, design, and quality) at the smallest scale. They are free to learn from, and collaborate with, those larger departments at GitLab but not at the expense of slowing down unnecessarily".*
 
 - Our build boards are organized into workflow columns
-- We use the labels, outcomes, and activities described [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/), but have the flexibility to skip the process where it's not needed
+- We use the labels, outcomes, and activities described [Product Development Flow](/handbook/product-development-flow/), but have the flexibility to skip the process where it's not needed
 - All Product Security Engineering team members can contribute to validation, refinement, and solution design
 - All Product Security Engineering team members can contribute to the prioritization, but the Security Engineering Manager is DRI
 - Unless the effort is AppSec automation, the workflow ends by handing over the feature to a Product team

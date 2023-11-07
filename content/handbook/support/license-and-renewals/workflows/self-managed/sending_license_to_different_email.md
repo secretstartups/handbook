@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Sending licenses to a different email address
 description: "Information on the process for sending licenses to a different email address"
 category: GitLab Self-Managed licenses
@@ -17,7 +17,7 @@ We can send the license to another contact in either of the following cases:
 - The contact has a Customers Dot account which is linked to the subscription.
 - The contact is the `Sold to` contact for the Zuora account.
 
-To send the license to a different email address, follow the process for [Associating purchases with additional accounts](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html). \
+To send the license to a different email address, follow the process for [Associating purchases with additional accounts](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html). \
 We cannot bypass doing this based on internal requests. It must be done via a customer submitted ticket. \
 Once the new Customers Dot account is created or changed, the license can be re-sent (or obtained by the new account owner).
 

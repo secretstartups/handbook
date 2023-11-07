@@ -6,7 +6,7 @@ title: "IT Operations System Administration"
 
 ### Job Grade
 
-The IT Operations System Administrator is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The IT Operations System Administrator is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -16,7 +16,7 @@ The IT Operations System Administrator is a [grade 6](https://about.gitlab.com/h
 - Build API Integrations from the HRIS to third party systems and GitLab.com
 - Triage all IT related questions as they arise
 - Build and maintain cross-functional relationships with internal teams to champion initiatives
-- Spearhead onboarding and offboarding automation efforts with a variety of custom API integrations, including GitLab.com and third-party resources, not limited to our [tech-stack](https://about.gitlab.com/handbook/business-technology/tech-stack/), with scalability in mind
+- Spearhead onboarding and offboarding automation efforts with a variety of custom API integrations, including GitLab.com and third-party resources, not limited to our [tech-stack](/handbook/business-technology/tech-stack/), with scalability in mind
 
 ### Requirements
 
@@ -51,24 +51,24 @@ The IT Operations System Administrator is a [grade 6](https://about.gitlab.com/h
 
 ## Performance Indicators (PI)
 
-- [Mean Time between Failures (MTBF)](https://about.gitlab.com/handbook/business-technology/metrics/#mean-time-between-failures-mtbf)
-- [Mean Time to Repair (MTTR)](https://about.gitlab.com/handbook/business-technology/metrics/#mean-time-to-repair-mttr)
-- [Number of days since last environment audit](https://about.gitlab.com/handbook/business-technology/metrics/#number-of-days-since-last-environment-audit)
-- [Cycle Time for IT Support Issue Resolution](https://about.gitlab.com/handbook/business-technology/metrics/#cycle-time-for-it-support-issue-resolution)
-- [Customer Satisfaction Survey (CSAT)](https://about.gitlab.com/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
+- [Mean Time between Failures (MTBF)](/handbook/business-technology/metrics/#mean-time-between-failures-mtbf)
+- [Mean Time to Repair (MTTR)](/handbook/business-technology/metrics/#mean-time-to-repair-mttr)
+- [Number of days since last environment audit](/handbook/business-technology/metrics/#number-of-days-since-last-environment-audit)
+- [Cycle Time for IT Support Issue Resolution](/handbook/business-technology/metrics/#cycle-time-for-it-support-issue-resolution)
+- [Customer Satisfaction Survey (CSAT)](/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Next, candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
+- Next, candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with our Director of Business Operations
 - Next, candidates will be invited to schedule a second interview with our Senior Total Rewards Analyst
 - Candidates will then be invited to schedule a third interview with one of our Security team members
 - Candidates will be then be invited to schedule a call with our Director of Security
 - Finally, candidates may be asked to interview with our CEO
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 

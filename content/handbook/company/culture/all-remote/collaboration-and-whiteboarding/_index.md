@@ -127,7 +127,7 @@ Most design discussions and decisions at GitLab are created and worked in [GitLa
 
 ### Company handbook
 
-At GitLab, we believe that "everyone can contribute." The company handbook is where everything is documented — our [single source of truth]({{< ref "handbook-first#terminology-documentation-handbook-first-single-source-of-truth" >}}) — specifically laying out the six core [values]({{< ref "values" >}}) of the company. The handbook deliberately and intentionally describes each group's role within the company, including how the [UX teams](https://about.gitlab.com/handbook/product/ux/product-designer/) researches, designs and writes about the product.
+At GitLab, we believe that "everyone can contribute." The company handbook is where everything is documented — our [single source of truth]({{< ref "handbook-first#terminology-documentation-handbook-first-single-source-of-truth" >}}) — specifically laying out the six core [values]({{< ref "values" >}}) of the company. The handbook deliberately and intentionally describes each group's role within the company, including how the [UX teams](/handbook/product/ux/product-designer/) researches, designs and writes about the product.
 
 ### Iterate and iterate some more
 
@@ -156,7 +156,7 @@ Synchronous work within a standard organization makes sense. Work starts and end
 
 Schedule meetings with a co-worker. Meeting in pairs allows for some serious one-on-one face time to collaborate on challenges and goals. This time permits each attendee to share what they're working on and potentially share projects that they might not be familiar with. With Zoom, the screen sharing option lets you get hands on with your meeting partner's work.
 
-At GitLab, the [Pair Design program](https://about.gitlab.com/handbook/product/ux/how-we-work/#pair-designing) was launched to connect a product designer with a design peer who is within the same time zone, but works on a different part of the product. Each pair meets for six months and then they are swapped out to give everyone exposure to different ideas, product areas, and collaborations.
+At GitLab, the [Pair Design program](/handbook/product/ux/how-we-work/#pair-designing) was launched to connect a product designer with a design peer who is within the same time zone, but works on a different part of the product. Each pair meets for six months and then they are swapped out to give everyone exposure to different ideas, product areas, and collaborations.
 
 > "I have loved working with each of my ‘pairs’ in UX! Usually we meet once a week for 30 minutes to an hour and spend about half the time each talking about something that is top of mind for us.
 >
@@ -191,7 +191,7 @@ Digitally documented design with videos is a helpful way to keep the creative ed
 
 > "In these videos, we lay out the rationale behind our designs and also offer information about other options we thought about and decided against. In certain situations, it also makes sense to add additional background about our long-term vision.
 >
-> One of the many positive outcomes from this approach is that even team members who have only been minimally involved are now empowered to provide feedback, add their own ideas, or provide us with additional information about the amount of work our ideas will require." — *[Christie Lenneville](https://about.gitlab.com/company/team/#CLenneville), Director of UX, GitLab*
+> One of the many positive outcomes from this approach is that even team members who have only been minimally involved are now empowered to provide feedback, add their own ideas, or provide us with additional information about the amount of work our ideas will require." — *[Christie Lenneville](/handbook/company/team/#CLenneville), Director of UX, GitLab*
 
 ### Sketch workshops
 

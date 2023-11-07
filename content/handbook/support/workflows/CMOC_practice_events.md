@@ -34,7 +34,7 @@ The practice events provide an opportunity to practice the activities and proces
 - Practice Environment for status.io - [status.io test](https://app.status.io/statuspage/5b36dc6502d06804c08349f7)
 - [Event feedback template](https://docs.google.com/document/d/1jMMpnwyfmQXI0uRoqk4AyvpwI75PevjyjeHOKNl1PPs/edit#heading=h.c2zm35l7tdgg) - coordinator of quarterly event creates a new version for the quarter
 - [Script library](https://docs.google.com/document/d/1vz64G0KUVnDwyUbqNsk12VuakU_IkeEfZtBBGFNrLtM/edit#heading=h.1acgctaxu9mf) - confidential to Support Managers (and SEs who may carry out the Incident Manager role for practice events)
-- [CMOC workflow](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html) handbook page
+- [CMOC workflow](/handbook/support/workflows/cmoc_workflows.html) handbook page
 - [Incident roles and responsibilities](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) handbook page
 
 ### How to: Create and coordinate a quarterly practice event

@@ -53,7 +53,7 @@ Performance includes both results and behaviors, and is broken into three areas:
 
 **Please note that `Developing` should not be automatically associated with underperformance. As highlighted below, `Developing` can also be used for new hires or newly promoted team members that are still ramping up in their new roles. Your manager will provide example and detail to ensure the rationale behind the `Developing` rating is communicated.**
 
-Based on the Job Family responsibilities, [values](https://about.gitlab.com/handbook/competencies/#values-competencies) and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies), team members in this category are not meeting all of the expectations. There is still more to learn and improve on in the current position to achieve the desired results. This may be due to the following:
+Based on the Job Family responsibilities, [values](/handbook/competencies/#values-competencies) and [remote working competencies](/handbook/competencies/#remote-work-competencies), team members in this category are not meeting all of the expectations. There is still more to learn and improve on in the current position to achieve the desired results. This may be due to the following:
 
 - The team member has not been in the position/at GitLab long enough to adequately demonstrate performance.
 - The team member has been recently promoted and needs time to ramp up performance in the new role.
@@ -74,7 +74,7 @@ Examples:
 
 ### Performing
 
-Based on Job Family responsibilities, [values](https://about.gitlab.com/handbook/competencies/#values-competencies) and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies) team members in this category are “on track” and meeting all expectations. They can independently and competently perform all aspects of the Job Family responsibilities in a way that is aligned with our values and competencies. Their performance consistently meets the requirements, standards, or objectives of the job, and they can occasionally exceed expectations. They deliver results in a timely and accurate fashion. This performance may be expected as a result of:
+Based on Job Family responsibilities, [values](/handbook/competencies/#values-competencies) and [remote working competencies](/handbook/competencies/#remote-work-competencies) team members in this category are “on track” and meeting all expectations. They can independently and competently perform all aspects of the Job Family responsibilities in a way that is aligned with our values and competencies. Their performance consistently meets the requirements, standards, or objectives of the job, and they can occasionally exceed expectations. They deliver results in a timely and accurate fashion. This performance may be expected as a result of:
 
 - The team member is consistent and stable in their performance.
 - The team member has the required knowledge, skills and abilities to perform in the role successfully and also applies values and competencies in their work.
@@ -89,7 +89,7 @@ Examples:
 
 ### Exceeding
 
-Team members that are exceeding consistently surpass the demands of their current position. They demonstrate unique understanding of work beyond the assigned area of responsibility. They contribute to GitLab’s success by adding significant value well beyond Job Family requirements, [values](https://about.gitlab.com/handbook/competencies/#values-competencies), and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies). This performance may be expected as a result of:
+Team members that are exceeding consistently surpass the demands of their current position. They demonstrate unique understanding of work beyond the assigned area of responsibility. They contribute to GitLab’s success by adding significant value well beyond Job Family requirements, [values](/handbook/competencies/#values-competencies), and [remote working competencies](/handbook/competencies/#remote-work-competencies). This performance may be expected as a result of:
 
 - Individual is developing more quickly than the demands of their current position.
 - They rise to the challenge when give additional assignments and achieve significant results.
@@ -138,7 +138,7 @@ Performance against Job Family responsibilities, requirements, performance indic
     - Example: [Software Engineer in Test]({{< ref "/job-families/engineering/software-engineer-in-test#responsibilities" >}})
 - Review Performance indicators per Job Family: Look at the Performance indicators.
     - Example: [Software Engineer in Test]({{< ref "/job-families/engineering/software-engineer-in-test#performance-indicators" >}})
-- *(if applicable)* [Functional Competencies](https://about.gitlab.com/handbook/competencies/#functional-competencies)
+- *(if applicable)* [Functional Competencies](/handbook/competencies/#functional-competencies)
 
 For management roles, please also review and consider the [levels]({{< ref "structure#levels" >}}) outlined in the Organizational Structure.
 
@@ -146,12 +146,12 @@ For management roles, please also review and consider the [levels]({{< ref "stru
 
 Performance against these competencies should be weighted at 40%.
 
-- [Values Competencies](https://about.gitlab.com/handbook/competencies/#values-competencies)
-- [Remote Working Competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies)
+- [Values Competencies](/handbook/competencies/#values-competencies)
+- [Remote Working Competencies](/handbook/competencies/#remote-work-competencies)
 - [Job Frameworks]({{< ref "structure#job-frameworks" >}})
-- *(if applicable)* [Manager and Leadership Competencies](https://about.gitlab.com/handbook/competencies/#manager-and-leadership-competencies)
+- *(if applicable)* [Manager and Leadership Competencies](/handbook/competencies/#manager-and-leadership-competencies)
 
-When completing the talent assessment form, team members and managers should reflect on the applicable competencies and job frameworks when filling out the achievements, strengths, and opportunities section.  Given GitLab's [CREDIT values](https://about.gitlab.com/company/culture/all-remote/values/#:~:text=GitLab's%20six%20values%20%E2%80%94%20Collaboration%2C%20Results,detailed%20in%20the%20company%20Handbook.) should be lived, with each day representing a new opportunity to refamiliarize oneself with said values and strive to implement them in every professional interaction, there is an opportunity for team members and managers to rate how a team member demonstrates each of the CREDIT values.  The following rating scale is used for each value:
+When completing the talent assessment form, team members and managers should reflect on the applicable competencies and job frameworks when filling out the achievements, strengths, and opportunities section.  Given GitLab's [CREDIT values](/handbook/values/#credit) should be lived, with each day representing a new opportunity to refamiliarize oneself with said values and strive to implement them in every professional interaction, there is an opportunity for team members and managers to rate how a team member demonstrates each of the CREDIT values.  The following rating scale is used for each value:
 - **Rarely Demonstrated**: team member demonstrates some of the sub-values associated with this value on an occassional basis.
 - **Sometime Demonstrated**: team member demonstrates most of the sub-values associated with this value on a regular basis.
 - **Consistently Demonstrated**: team member demonstrates a large majority of the sub-values associated with the value in most interactions.
@@ -263,7 +263,7 @@ The portion of the Performance/Growth Potential matrix that often entails the mo
 - Ensure consistency and fairness in assessments
 - Calibrate on approach and thought process behind assessments
 - Provide cross-departmental and/or cross-divisional feedback
-- Provide an additional checkpoint to check for [unconscious bias](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/)
+- Provide an additional checkpoint to check for [unconscious bias](/handbook/company/culture/inclusion/unconscious-bias/)
 
 Calibration can be done asynchronously or synchronously, and should be done by level (I.E. Manager calibration for their directs, Director calibration for their directs, etc.) so as not to disclose Talent Assessment evaluations amongst peers.
 
@@ -275,7 +275,7 @@ The introduction of a "Too New to Rate" category is a solution as feedback was r
 
 While newly onboarded team members do not need to complete the Talent Assessment evaluation in Workday, it's still important for them to have a check-in conversation with their manager. We recommend that this conversation happens after the team member has completed 3 months with GitLab. We've created [this template](https://docs.google.com/document/d/1itxP_OOuNC2oRXYu3ep_ZQdutqcZUdUyXgzQomEpuKM/edit) for team members and managers to complete. The goal would be for the newly onboarded team member and their manager to come together to have a conversation reflecting on their first 3 months at GitLab, highlighting their strengths and opportunities, then aligning on any support needed for the team member moving forward.
 
-Besides team members with a GitLab tenure up to 3 months (New hire TNTR), the “Too New to Rate” designation will also be available for team members that have just transferred or were promoted to a new role. Please see the [Promotions or Transfer During Assessment Cycle](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#promotions-or-transfers-during-assessment-cycle) section for more details and guidance on how to evaluate and consider performance in these scenarios.
+Besides team members with a GitLab tenure up to 3 months (New hire TNTR), the “Too New to Rate” designation will also be available for team members that have just transferred or were promoted to a new role. Please see the [Promotions or Transfer During Assessment Cycle](/handbook/people-group/talent-assessment/#promotions-or-transfers-during-assessment-cycle) section for more details and guidance on how to evaluate and consider performance in these scenarios.
 
 If any of the above cases arise it is recommend that you discuss with your People Business Partner to ensure the Too New to Rate designation is consistently applied.
 
@@ -319,12 +319,12 @@ It is **absolutely essential** that managers complete the required pre-work to e
 - Review the team member's own [Self-Evaluation](#team-member-self-evaluations), if they wished to complete one.
 - Review the Job Family/Families that will be reviewed in detail
 - Review our competencies
-    - Talent Assessment Training (UPßDATE IN PROGRESS)
-    - [Values competencies](https://about.gitlab.com/handbook/competencies/#values-competencies)
-    - [Remote work competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies)
-    - [Functional competencies](https://about.gitlab.com/handbook/competencies/#functional-competencies) *(if applicable)*
+    - Talent Assessment Training (UPDATE IN PROGRESS)
+    - [Values competencies](/handbook/competencies/#values-competencies)
+    - [Remote work competencies](/handbook/competencies/#remote-work-competencies)
+    - [Functional competencies](/handbook/competencies/#functional-competencies) *(if applicable)*
     - [Job framework]({{< ref "structure#job-frameworks" >}})
-- Review our [Unconscious Bias](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/) handbook page and consider watching our [Recognizing Bias Training](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/#recognizing-bias-training) if you haven't already.
+- Review our [Unconscious Bias](/handbook/company/culture/inclusion/unconscious-bias/) handbook page and consider watching our [Recognizing Bias Training](/handbook/company/culture/inclusion/unconscious-bias/#recognizing-bias-training) if you haven't already.
 - Review the [Performance/Growth Potential Matrix Training Information](https://docs.google.com/presentation/d/151ys8xkOak9ifU9IPXQydZ44sb_BoMpMocWmjVonLHE/edit), which delves into definitions for each box.
 - Determine the appropriate box for each of your team members
 - Add notes for each of your team members to the agenda, at least 12 hours before the session
@@ -378,7 +378,7 @@ Our e-group completes Performance/Growth Potential Matrix multiple times a year 
 
 ### Eligibility
 
-Anyone hired on or before October 31st should receive a Performance and Growth Potential assessment, as they are eligible for Annual Compensation Review. However, if the team member being assessed has been with GitLab for a period of 3 months or less or recently transferred roles or was promoted, please see the [Too New To Rate description](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#too-new-to-rate).
+Anyone hired on or before October 31st should receive a Performance and Growth Potential assessment, as they are eligible for Annual Compensation Review. However, if the team member being assessed has been with GitLab for a period of 3 months or less or recently transferred roles or was promoted, please see the [Too New To Rate description](/handbook/people-group/talent-assessment/#too-new-to-rate).
 
 ### Team Member Self-Evaluations
 
@@ -430,7 +430,7 @@ After calibration sessions are done and performance and growth potential factors
     - Areas that need improvement
     - Areas that you identified as either strengths and/or development areas that differed from the team member's self-assessment.
     - Provide specific examples for both strengths and improvement areas. The [SBI]({{< ref "guidance-on-feedback#s-b-i-model" >}}) (Situation - Behavior - Impact) model can be effective for delivering examples structured in a way that makes impact clear to team members.
-    - Think about recommendations and/or focus areas for a team member’s development OR if a team member has an active [Individual Growth Plan(IGP)](https://handbook.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/), consider how the feedback fits into their current IGP
+    - Think about recommendations and/or focus areas for a team member’s development OR if a team member has an active [Individual Growth Plan(IGP)](/handbook/people-group/learning-and-development/career-development/igp-guide/), consider how the feedback fits into their current IGP
 1. **Schedule a separate call or repurpose your [1:1]({{< ref "1-1" >}}) to discuss a team member’s performance and growth potential factor**. The performance and growth potential factors should be communicated at the beginning of the meeting. This allows the team member time to ask questions, discuss their assessment, and most importantly, determine next steps. If your 1:1s are often filled with agenda items, the recommendation is to schedule another call to make sure you have ample time allocated.
 1. **Protect the confidentiality of other team members** by avoiding saying things like “you were the only team member to be rated this performance factor.”
 1. **Avoid making future promises** like, “In the next review, I will rate you X performance/growth potential factor.”
@@ -477,7 +477,7 @@ As a next step, let's schedule some time to talk more about what you want to do 
 
 ### Sample Next Steps
 
-The most important part of the talent assessment discussion is to determine next steps in partnership with your team member. The team member should be the DRI for the next steps with support from you as their manager. Our [Career Development handbook page]({{< ref "career-development" >}}) includes a lot of great information and resources on career development including [an Individual Growth Plan guide](https://handbook.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/) which should help provide structure and a plan for next steps.
+The most important part of the talent assessment discussion is to determine next steps in partnership with your team member. The team member should be the DRI for the next steps with support from you as their manager. Our [Career Development handbook page]({{< ref "career-development" >}}) includes a lot of great information and resources on career development including [an Individual Growth Plan guide](/handbook/people-group/learning-and-development/career-development/igp-guide/) which should help provide structure and a plan for next steps.
 If you have any questions or concerns about next steps, please contact your manager and/or your [People Business Partner]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}).
 
 ## Information Guide
@@ -504,7 +504,7 @@ The Talent Assessment involves all team members and managers.
 - **As a manager, when reviewing my team members, what is the difference between Developing and Underperformance?**
     - The "Developing" rating means that the team member is not (yet) meeting all of the responsibilities and competencies for the role. This can be for many reasons, including a recent start date. By contrast, [Underperformance]({{< ref "underperformance" >}}) involves *consistently* not meeting the goals and requirements of the job; GitLab follows specific processes to attempt to remediate.
     - While everyone within the Developing category isn't automatically Underperforming, a team member who is Underperforming would also be grouped into the Developing category, because Performing is not an accurate assessment.
-    - Team members who are on a formal Underperformance remediation plan, such as a [Performance Improvement Plan](https://handbook.gitlab.com/handbook/leadership/underperformance/#performance-improvement-plan-pip), are not eligible for a compensation increase as a result of the [Annual Compensation Review](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/).
+    - Team members who are on a formal Underperformance remediation plan, such as a [Performance Improvement Plan](/handbook/leadership/underperformance/#performance-improvement-plan-pip), are not eligible for a compensation increase as a result of the [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/).
 
 - **Will my Growth Potential assessment impact my compensation?**
     - Yes in FY24 both Performance, Growth Potential, and Key Talent Assessment can impact your Total Rewards.
@@ -515,7 +515,7 @@ The Talent Assessment involves all team members and managers.
     - After the Talent Assessment closes, the performance factor cannot be changed. You should work with your manager to develop a plan to develop your performance for future assessments.
 
 - **Does this mean I am automatically getting an X% increase in the upcoming Annual Compensation Review?**
-The Performance/Growth Potential Factor is one of the factors considered in the [Annual Compensation review](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/). The recommended increases displayed in the handbook are there to ensure company wide consistency. The factors taken into account for the Annual Compensation Review are:
+The Performance/Growth Potential Factor is one of the factors considered in the [Annual Compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/). The recommended increases displayed in the handbook are there to ensure company wide consistency. The factors taken into account for the Annual Compensation Review are:
     - Your hire date (new hires hired after October 31st are ineligible for compensation review)
     - Other compensation increases received over the last year
     - Timing of promotion and/or role changes
@@ -726,7 +726,7 @@ The succession planning process might vary slightly for different areas of the b
 | [Values competencies](/handbook/competencies/#values-competencies) | Values competencies form an important part of the Performance Factor evaluation and are important to review prior to beginning the assessment period. |
 |[Remote work competencies](/handbook/competencies/#remote-work-competencies) | Remote work competencies form an important part of the Performance Factor evaluation and are important to review prior to beginning the assessment period. |
 | [Functional competencies](/handbook/competencies/#functional-competencies) | Functional competencies (for groups that have them developed) can also influence the Performance Factor and should be reviewed prior to the assessment period. |
-| [Unconscious Bias](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/) handbook page and [Recognizing Bias Training](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/#recognizing-bias-training) | It is important to me mindful of unconscious bias always, and especially during talent reviews and assessments. It is highly recommended that you review the handbook page and watch the training. |
+| [Unconscious Bias](/handbook/company/culture/inclusion/unconscious-bias/) handbook page and [Recognizing Bias Training](/handbook/company/culture/inclusion/unconscious-bias/#recognizing-bias-training) | It is important to me mindful of unconscious bias always, and especially during talent reviews and assessments. It is highly recommended that you review the handbook page and watch the training. |
 | [Performance Factor](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor) handbook page | This page is the SSOT to review the Performance Factor's impact on compensation. |
 
 ## Key Talent
@@ -776,7 +776,7 @@ Four scenarios exist in the context of our Talent Assessment:
 - Team member identified as Key Talent and SPOF
 - Team member identified as neither one
 
-To review the SPOF definition in more detail along with a few examples, please review our Organizational Design handbook page.
+To review the SPOF definition in more detail along with a few examples, please review our [Organizational Design](/handbook/people-group/organizational-design/) handbook page.
 
 ## Process To Determine Key Talent
 

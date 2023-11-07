@@ -36,7 +36,7 @@ While today the dual-career path is most built out in our Engineering division, 
 
 ## Job Frameworks
 
-We’ve developed Job frameworks to provide clarity and consistency in our expectations for each job level at GitLab. There are two Job Frameworks: [one for Individual Contributors and one for People Managers](https://docs.google.com/spreadsheets/d/1FX4NBwF099uMBm7mGBtf1orIJZuHEjtiEa3jSbg9jJs/edit#gid=819074618) which are available to internal GitLab team members only, that map to the levels outlined in our [job grades](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). If we make any updates to the frameworks we will always communicate that broadly. If you as a team member want to propose any changes we recommend that you to open a confidential issue in [the People Business Partner project](https://gitlab.com/gitlab-com/people-group/people-business-partners/-/issues?sort=created_date&state=opened).
+We’ve developed Job frameworks to provide clarity and consistency in our expectations for each job level at GitLab. There are two Job Frameworks: [one for Individual Contributors and one for People Managers](https://docs.google.com/spreadsheets/d/1FX4NBwF099uMBm7mGBtf1orIJZuHEjtiEa3jSbg9jJs/edit#gid=819074618) which are available to internal GitLab team members only, that map to the levels outlined in our [job grades](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). If we make any updates to the frameworks we will always communicate that broadly. If you as a team member want to propose any changes we recommend that you to open a confidential issue in [the People Business Partner project](https://gitlab.com/gitlab-com/people-group/people-business-partners/-/issues?sort=created_date&state=opened).
 
 ### Goals of the Job Frameworks
 
@@ -49,18 +49,18 @@ Having Job frameworks that managers and team members share will help us make thi
 ### How to use Job Frameworks
 
 We are using the Job Frameworks in the following programs:
-- [Promotion Process](https://about.gitlab.com/handbook/people-group/promotions-transfers/)
+- [Promotion Process](/handbook/people-group/promotions-transfers/)
    - Here the review of the Job Framework will be required ahead of the quarterly Department Promotion Calibrations.
    - The Job Framework will help provide focus for the promotion document to ensure core areas of performance at the next level are captured consistently across the company
-- [Career Development Conversations](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#having-career-development-conversations)
+- [Career Development Conversations](/handbook/people-group/learning-and-development/career-development/#having-career-development-conversations)
    - Both managers and team members can leverage the frameworks in their conversations.
-   - The frameworks drive transparency of the competencies and job criteria of different levels at GitLab. When aligned with the Career Development goals of the team member, the team member and manager can collaborate on developing these competencies by leveraging [Learning & Development Programs](https://about.gitlab.com/handbook/people-group/learning-and-development/)
+   - The frameworks drive transparency of the competencies and job criteria of different levels at GitLab. When aligned with the Career Development goals of the team member, the team member and manager can collaborate on developing these competencies by leveraging [Learning & Development Programs](/handbook/people-group/learning-and-development/)
 - Organizational Design and Headcount Planning
    - The frameworks will support Leadership and hiring teams in identifying the appropriate levels for to be opened roles.
    - For expanding and introducing new job levels we will leverage the frameworks to review what distinctive competencies are that we would need.
-- [Talent Assessment](https://about.gitlab.com/handbook/people-group/talent-assessment/):
+- [Talent Assessment](/handbook/people-group/talent-assessment/):
    - Job frameworks should be leveraged in the Talent Assessment program for both the self-assessment and the manager assessment in evaluating a team member against the competencies for their grade level. In a review of the competencies per level, strengths and development opportunities may surface which can help with content for the review that can lead to discussions with the team member and their manager on future development and career opportunities.
-- [Succession Planning](https://about.gitlab.com/handbook/people-group/talent-assessment/#succession-planning):
+- [Succession Planning](/handbook/people-group/talent-assessment/#succession-planning):
    - In the near future we will further build out how we can leverage Job frameworks in Succession planning.
 
 ### Competencies per Job
@@ -73,9 +73,9 @@ This ranges from focus on own work to cross-company and external influence in te
 This ranges from low/moderate complexity and problem solving to highly complex issues that influence the accomplishment of long-term goals of GitLab.
 - **Leadership & People Management/Communication**: The level of leadership they display and how they communicate within the organization. We expect that individual contributors also show leadership in their roles.
 This ranges from within their team to executives and board members.
-- [**Values Competencies**](https://about.gitlab.com/handbook/competencies/#values-competencies): Competencies that are aligned with our [CREDIT Values](/handbook/values/#credit).
-- [**Remote Working Competencies**](https://about.gitlab.com/handbook/competencies/#remote-work-competencies): Competencies that are aligned with our Remote working competencies.
-- [**Functional Competencies**](https://about.gitlab.com/handbook/competencies/#functional-competencies): Competencies that are specific per function. These are built out by each function themselves.
+- [**Values Competencies**](/handbook/competencies/#values-competencies): Competencies that are aligned with our [CREDIT Values](/handbook/values/#credit).
+- [**Remote Working Competencies**](/handbook/competencies/#remote-work-competencies): Competencies that are aligned with our Remote working competencies.
+- [**Functional Competencies**](/handbook/competencies/#functional-competencies): Competencies that are specific per function. These are built out by each function themselves.
 
 Besides the above competency categories we have added two categories to the Job Frameworks:
 
@@ -114,7 +114,7 @@ Members of the director group are expected to demonstrate leadership in the way 
 1. They have the ability to align the day-to-day execution to the top objectives of the company, and they are responsible for making sure the top objectives are well communicated to team members.
 1. They work peer-to-peer and sponsor healthy conflict amongst the team to resolve issues quickly, escalating only when all options are exhausted.
 1. They ambitiously define roles for, grow and hire their teams for what is needed from the business in the next 3-4 years.
-1. They coach their teams to work within the [communication guidelines](https://about.gitlab.com/handbook/communication/) and lead by example.
+1. They coach their teams to work within the [communication guidelines](/handbook/communication/) and lead by example.
 
 #### Senior Directors
 
@@ -151,7 +151,7 @@ The three enabling functions, legal, finance and people, also each have a C-leve
 Together, these executives consist of the [E-group](#e-group)
 They meet weekly, attend quarterly board meetings, have a [public Slack channel #e-group](https://gitlab.slack.com/messages/C5W3VS1C4) for most discussion topics, as well as a private one for rare confidential matters.
 
-Except for Sales and Marketing, there are usually multiple executives to a [cost center](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#cost--reporting-structure). For example, CLO, CFO, CEO, and CPO all fall under the G&A (General & Administrative Expenses) Cost Center.
+Except for Sales and Marketing, there are usually multiple executives to a [cost center](/handbook/finance/financial-planning-and-analysis/#cost--reporting-structure). For example, CLO, CFO, CEO, and CPO all fall under the G&A (General & Administrative Expenses) Cost Center.
 
 ##### E-group
 
@@ -171,33 +171,33 @@ Members of the E-group are expected to demonstrate leadership in the way all mem
 
 #### Management group
 
-Members of the management group are expected to demonstrate leadership in the way all [GitLab team members are](https://about.gitlab.com/handbook/leadership/#gitlab-team-members), plus:
+Members of the management group are expected to demonstrate leadership in the way all [GitLab team members are](/handbook/leadership/#gitlab-team-members), plus:
 
 1. Ensuring team members feel included and valued is one of the most important tasks of a manager. Proactively create psychological safety with your team members so that diverse perspectives can be heard and everyone can communicate and contribute authentically and creatively.
-1. Ensuring team members understand what is expected of them in their roles is a critical role that managers have to ensure company success. Managers should ensure job families include specific [performance indicators](https://about.gitlab.com/handbook/hiring/job-families/#why-job-families-have-performance-indicators) and that is clearly communicated to each team member.
-1. [Managing underperformance](https://about.gitlab.com/handbook/leadership/underperformance) is another important task of a manager.
+1. Ensuring team members understand what is expected of them in their roles is a critical role that managers have to ensure company success. Managers should ensure job families include specific [performance indicators](/handbook/hiring/job-families/#why-job-families-have-performance-indicators) and that is clearly communicated to each team member.
+1. [Managing underperformance](/handbook/leadership/underperformance) is another important task of a manager.
 1. When times are great, be a voice of moderation. When times are bad, be a voice of hope. In order to effectively be the voice of hope, managers should make sure they understand the company mission, goals, and leadership decisions. If managers have concerns about leadership decisions, they should voice them to leaders in order to understand the context, share key insights from their team members to ensure we make sound decisions, and then be able to explain context to their team members.
 1. To maintain an effective organization, a manager's span of control should be around 7 people, ranging anywhere from 4 to 10. Below this range the inefficiency of an extra organizational layer is larger than the benefit of a specialized group. Above this range, the manager doesn't have time to do proper 1:1s anymore.
-1. The span of control is the same at every level of the organization. This prevents the organization from having an additional layer that adds cost and reduces decision making speed. To increase the number of reports you can handle increase delegation to the [directly responsible individual](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) who can be a manager. Size the number of reports on where you expect the organization to be in 6 months from now.
-1. When you praise someone, try to do it [publicly and in front of an audience](https://about.gitlab.com/handbook/communication/#say-thanks). When you give suggestions to improve, do it privately [1 on 1](https://about.gitlab.com/handbook/leadership/1-1/). A [Harvard study](https://hbr.org/2013/03/the-ideal-praise-to-criticism) has shown that the ideal ratio of positive to negative feedback for high-performing teams is nearly 6:1. Be generous with your positive feedback.
+1. The span of control is the same at every level of the organization. This prevents the organization from having an additional layer that adds cost and reduces decision making speed. To increase the number of reports you can handle increase delegation to the [directly responsible individual](/handbook/people-group/directly-responsible-individuals/) who can be a manager. Size the number of reports on where you expect the organization to be in 6 months from now.
+1. When you praise someone, try to do it [publicly and in front of an audience](/handbook/communication/#say-thanks). When you give suggestions to improve, do it privately [1 on 1](/handbook/leadership/1-1/). A [Harvard study](https://hbr.org/2013/03/the-ideal-praise-to-criticism) has shown that the ideal ratio of positive to negative feedback for high-performing teams is nearly 6:1. Be generous with your positive feedback.
 1. Express gratitude in team meetings, group conversations, and other communications to people who constructively challenge your opinions and ask difficult questions. This helps create psychological safety, promote our values, and prevent [the five dysfunctions](/handbook/values/#five-dysfunctions).
 1. Understand that there are different ways to get to the same goal. There are different perspectives, and discussions need to happen.
 1. When someone says they are considering quitting, drop everything and listen to them. Ask questions to find out what their concerns are. If you delay, the person will not feel valued and the decision will be irreversible.
-1. In addition to announcing new team member arrivals, departures are also announced in the `#team-member-updates` chat channel (but only after the Google/Slack accounts are revoked, see the [offboarding page](https://about.gitlab.com/handbook/people-group/offboarding/) and the [offboarding checklist](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md) for details). We must respect the privacy of the individual concerned. If you are asked why someone has left or is leaving, please refer that person to the [general guidelines](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public) section of the handbook where we describe what can and cannot be shared.
+1. In addition to announcing new team member arrivals, departures are also announced in the `#team-member-updates` chat channel (but only after the Google/Slack accounts are revoked, see the [offboarding page](/handbook/people-group/offboarding/) and the [offboarding checklist](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md) for details). We must respect the privacy of the individual concerned. If you are asked why someone has left or is leaving, please refer that person to the [general guidelines](/handbook/communication/confidentiality-levels/#not-public) section of the handbook where we describe what can and cannot be shared.
 1. People should not be given a raise or a title because they ask for it or threaten to quit. We should pro-actively give raises and promote people without people asking. If you do it when people ask, you are being unfair to people that don't ask and you'll end up with many more people asking.
-1. Don't refer to GitLab [as a family](https://hbr.org/2014/06/your-company-is-not-a-family). It is great that our team feels like a close-knit group and we should encourage that, as this builds a stronger team. But *families* and *teams* are different. *Families* come together for the relationship and do what is critical to retain it. *Teams* are assembled for the task and do what is required to complete it. Don't put the relationship above the task. Besides, families don't have an [offboarding process](https://about.gitlab.com/handbook/people-group/offboarding/). Families should have unconditional love, while teams have conditional love. [The best companies are supporters of families.](https://twitter.com/myriadwill/status/917772249624702976). The idea that your team is your family can lead to unwarranted pressure: ["this office is like a family... in that there is vague pressure to be here on holidays"](https://twitter.com/emilieschario/status/1182454709925416961). You are the CEO of your own career, treat GitLab as a customer.
+1. Don't refer to GitLab [as a family](https://hbr.org/2014/06/your-company-is-not-a-family). It is great that our team feels like a close-knit group and we should encourage that, as this builds a stronger team. But *families* and *teams* are different. *Families* come together for the relationship and do what is critical to retain it. *Teams* are assembled for the task and do what is required to complete it. Don't put the relationship above the task. Besides, families don't have an [offboarding process](/handbook/people-group/offboarding/). Families should have unconditional love, while teams have conditional love. [The best companies are supporters of families.](https://twitter.com/myriadwill/status/917772249624702976). The idea that your team is your family can lead to unwarranted pressure: ["this office is like a family... in that there is vague pressure to be here on holidays"](https://twitter.com/emilieschario/status/1182454709925416961). You are the CEO of your own career, treat GitLab as a customer.
 1. Praise and credit the work of your reports to the rest of the company, never present it as your own. This and many other great lessons can be found in an [Ask MetaFilter thread](http://ask.metafilter.com/300002/My-best-manager-did-this) worth reading.
 1. Try to be aware of your [cognitive biases](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18).
 1. Combine [consistency and agility](https://hbr.org/2017/01/the-best-strategic-leaders-balance-agility-and-consistency).
 1. Consider maintaining a README file for your teams which documents your expectations and working style. Encourage MRs to it.
 1. Although our time scales are shorter, there is a great article about [how to think about PIPs](https://mfbt.ca/how-i-talk-to-leaders-about-firing-people-8149dfcb035b).
 1. Do everything to unblock people. If someone has a question that is keeping them from being productive, try to answer the question yourself or find someone who can.
-1. Communicate in a [professional manner](https://about.gitlab.com/company/culture/all-remote/effective-communication/) as though your words will be shared widely (e.g. published in a newspaper).
+1. Communicate in a [professional manner](/handbook/company/culture/all-remote/effective-communication/) as though your words will be shared widely (e.g. published in a newspaper).
 1. Employ [multimodal communication](/handbook/communication/#multimodal-communication) to broadcast important decisions.
 1. You are expected to [respond on social media](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/). If you have questions, please seek counsel in the `#social_media` chat channel.
 1. Make sure your reports experience a [sense of progress](http://tomtunguz.com/progress-principle/) in their work.
 1. A tweet by [Sam Altman](https://twitter.com/sama/status/804138512878473220) combined with a reply by [Paul Graham](https://twitter.com/paulg/status/804209365305659392) says it best: "People either get shit done or they don't. And it's easy to be tricked because they can be smart but never actually do anything." Watch for results instead of articulate answers to questions, otherwise you'll take too much time identifying under-performers.
-1. [GitLab Contribute](https://about.gitlab.com/events/gitlab-contribute/) (formerly GitLab summits) is meant for [informal communication](https://about.gitlab.com/company/culture/all-remote/informal-communication/) and [bonding](https://about.gitlab.com/company/culture/all-remote/in-person/) across the company. There is a limited time for business activities during GitLab Contribute so all our regular meetings should happen outside of it. We want informal, cross team, and open-ended meetings that include individual contributors. For example, inviting everyone to suggest currently missing functionality in GitLab.
+1. [GitLab Contribute](https://about.gitlab.com/events/gitlab-contribute/) (formerly GitLab summits) is meant for [informal communication](/handbook/company/culture/all-remote/informal-communication/) and [bonding](/handbook/company/culture/all-remote/in-person/) across the company. There is a limited time for business activities during GitLab Contribute so all our regular meetings should happen outside of it. We want informal, cross team, and open-ended meetings that include individual contributors. For example, inviting everyone to suggest currently missing functionality in GitLab.
 1. Never delay a decision until GitLab Contribute. Instead, use them as a deadline to get things done earlier.
 1. We don't have explicit 20% time at GitLab. We measure [results and not hours](/handbook/values/#measure-results-not-hours). If people are getting good results in the work that is assigned to them they are free to contribute to other parts of the company or work on a pet project. Don't say, "Your work on that pet project is hurting your performance." Instead, say, "We agreed to get X done but it is delayed, what happened and how can I help?"
 1. Pick a metric before launching something new. 9 out of 10 launches fail. If a project is not working out shut it down completely. Starving a team of headcount to have it die a slow death is not frugal nor motivating. Fund the winners which will still take years to break even.
@@ -208,8 +208,8 @@ Members of the management group are expected to demonstrate leadership in the wa
 1. Try to avoid military analogies and imagery. We're not an army, we're not at war, there is no battle, we're not killing anyone, and we don't have weapons. Military language is [not inclusive](https://www.london.edu/faculty-and-research/lbsr/killing-the-competition) and can lead to zero sum thinking. We take competing and winning very seriously, but there is no need to describe things using vocabulary of physical violence. Similarly, non-collaborative and aggressive terms like "rockstar" and "badass" put up walls between people. If a term is standard in the industry, for example [killing a Unix process](https://shapeshed.com/unix-kill/#how-to-kill-a-process), it is acceptable to use it because that is more efficient. Do use "primary-secondary" instead of "master-slave" for replication mechanisms.
 1. Complain up and explain down. Raise concerns you hear to your manager. When peers or reports complain, explain why a decision was made. If you don't understand why, ask your manager.
 1. Create empathy for decisions from other leaders that negatively impact your team by explaining the reasons behind them. Organize a recorded AMA session with your team and the other leaders and encourage your team (as well as yourself) to ask any unanswered questions. Lead by example by ensuring that the discussion exposes what is [best for the organization as a whole](/handbook/values/#global-optimization). Never present yourself as protecting the team from the rest of the organization; this creates a [siege mentality](https://en.wikipedia.org/wiki/Siege_mentality) and hinders [collaboration](/handbook/values/#collaboration).
-1. Coach team members to establish good [remote work practices](https://about.gitlab.com/company/culture/all-remote/), by encouraging [asynchronous communication](https://about.gitlab.com/company/culture/all-remote/management/#asynchronous), being [handbook-first](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first), communicating poor audio or [video quality](https://about.gitlab.com/blog/2019/08/05/tips-for-mastering-video-calls/), or pointing out an open microphone.
-1. Ensuring that GitLab's policies are upheld is an essential part of a manager's responsibility. Managers have an obligation to look out for both their team members and the business's best interest. If a manager becomes aware that a team member is in violation of a GitLab policy (including *but not limited to* the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d) and [Relocation policy](https://about.gitlab.com/handbook/people-group/relocation/) as examples), it is their responsibility to communicate this to the [aligned People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) or Legal team immediately.
+1. Coach team members to establish good [remote work practices](/handbook/company/culture/all-remote/), by encouraging [asynchronous communication](/handbook/company/culture/all-remote/management/#asynchronous), being [handbook-first](/handbook/handbook-usage/#why-handbook-first), communicating poor audio or [video quality](https://about.gitlab.com/blog/2019/08/05/tips-for-mastering-video-calls/), or pointing out an open microphone.
+1. Ensuring that GitLab's policies are upheld is an essential part of a manager's responsibility. Managers have an obligation to look out for both their team members and the business's best interest. If a manager becomes aware that a team member is in violation of a GitLab policy (including *but not limited to* the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d) and [Relocation policy](/handbook/people-group/relocation/) as examples), it is their responsibility to communicate this to the [aligned People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) or Legal team immediately.
 
 #### Board Members
 
@@ -229,7 +229,7 @@ Functional Leaders include all CEO Skips and a small number of other team member
 
 This group is called on to help provide input and communicate messaging when appropriate.
 
-As an example, the [Functional Leaders meets after every e-group offsite](/company/offsite/#functional-leaders-zoom-call).
+As an example, the [Functional Leaders meets after every e-group offsite](/handbook/company/offsite/#functional-leaders-zoom-call).
 
 ## Directs-Group
 
@@ -243,7 +243,7 @@ Directs-Group is a group made up of a senior leader from each function. These le
 
 ### Directs-Group Responsibilities
 
-1. Attend portions of and contribute in designated meetings with E-Group and [E-Group Offsites](/company/offsite/)
+1. Attend portions of and contribute in designated meetings with E-Group and [E-Group Offsites](/handbook/company/offsite/)
 1. Participate in onboarding, offboarding, regularly scheduled Directs-Group syncs, professional development programming, and ramping of the next cohort
 1. Support communication cascading and initiative support resulting from your engagement in Directs-Group
 1. Serve in this role while managing existing responsibilities
@@ -262,7 +262,7 @@ Each Directs-Group cohort must meet the following criteria:
 1. High growth and high performance team members in good standing
 1. Director + who are direct reports to an E-Group member
 1. Folks who consistently demonstrate [CREDIT Values](/handbook/values/)
-1. ⅓ or more of each cohort needs to be comprised of members from [underrepresented groups](https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups)
+1. ⅓ or more of each cohort needs to be comprised of members from [underrepresented groups](/handbook/company/culture/inclusion/#examples-of-select-underrepresented-groups)
 1. Include someone who is based outside of the United States
 
 ### Directs-Group leadership
@@ -348,9 +348,9 @@ The management team will:
 - **Compartments:** lead by Senior Managers and comprised of multiple teams where the Sub-department structure is already used *e.g.* the Manage Compartment with the Dev Sub-department
 - **Teams:** constitute departments  and are made of a line manager and their direct reports *e.g.* the Security operations team within the Security Department
 
-**Note** - within the Engineering and Product divisions we try to maintain a close relationship between our organizational structure and our [Product Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) in order to maintain stable counterparts in our organizational structure.
+**Note** - within the Engineering and Product divisions we try to maintain a close relationship between our organizational structure and our [Product Hierarchy](/handbook/product/categories/#hierarchy) in order to maintain stable counterparts in our organizational structure.
 
-Finance also has a notion called "departments" for financial planning purposes. But these do not align with our organizational departments. For instance the finance department "product development" rolls up both the PM and Engineering functions. But it excludes the Support department, which is part of the engineering function, but a different budget. This name collision should probably be resolved in the future. For further reference see our [department roll up structure](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#cost--reporting-structure) for accounting purposes.
+Finance also has a notion called "departments" for financial planning purposes. But these do not align with our organizational departments. For instance the finance department "product development" rolls up both the PM and Engineering functions. But it excludes the Support department, which is part of the engineering function, but a different budget. This name collision should probably be resolved in the future. For further reference see our [department roll up structure](/handbook/finance/financial-planning-and-analysis/#cost--reporting-structure) for accounting purposes.
 
 We try our best to keep our handbook and documentation up to date, but certain terms used in the past have been updated through time. The term **Functional Group** is no longer used, and it currently is encompassed by the term **Departments**. The term **Functional Group leader** is no longer used, and it is currently encompassed by the term [E-group](#e-group) leaders.
 
@@ -372,16 +372,16 @@ We also ensure every department has a clear priority.
 
 ### Product Groups{#product-groups}
 
-Our engineering organization is directly aligned to groups as defined in [product category hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy).
-Our groups operate on the principle of [stable counterparts](https://about.gitlab.com/handbook/leadership/#stable-counterparts) from multiple functions.
+Our engineering organization is directly aligned to groups as defined in [product category hierarchy](/handbook/product/categories/#hierarchy).
+Our groups operate on the principle of [stable counterparts](/handbook/leadership/#stable-counterparts) from multiple functions.
 
 For example, we have a Product Manager, Product Marketing Manager, Engineering Manager, Content Marketer, Backend Developers, Frontend Developers, and Product Designers that are all dedicated to a group called "Package". Collectively, these individuals form the "Package group". The word "Package" appears in their titles as a specialty, and in some cases, their team name.
 
 We distinguish between types of stable counterparts to these Product Groups with:
 - Primary Stable Counterparts - Team members assigned to our Product hierarchy (typically groups) from Product, Development, Product Design and Quality functions which we call the [Quad](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/quad-planning/).
-- Complete Stable Counterparts - All team members assigned to product hierarchy from functions outside of the primary functions and defined in our [product categories page](https://about.gitlab.com/handbook/product/categories/). For example - we assign stable counterparts from Support, Product Marketing and Customer Success who are all considered part of the complete stable counterparts.
+- Complete Stable Counterparts - All team members assigned to product hierarchy from functions outside of the primary functions and defined in our [product categories page](/handbook/product/categories/). For example - we assign stable counterparts from Support, Product Marketing and Customer Success who are all considered part of the complete stable counterparts.
 
-A group has no reporting lines because we [don't want a matrix organization](https://about.gitlab.com/handbook/leadership/#no-matrix-organization).
+A group has no reporting lines because we [don't want a matrix organization](/handbook/leadership/#no-matrix-organization).
 Instead, we rely on stable counterparts to make a group function well.
 In some shared functions, like design, technical writing and quality individuals are paired to one or more stages so that there are stable counterparts.
 
@@ -399,11 +399,11 @@ It is also important to ensure a group doesn't have a scope definition that is s
    Ensuring GitLab is performant is the responsibility of all groups.
    We might instead have a performance tooling group.
 
-We do have the [Application Performance group](https://about.gitlab.com/handbook/product/categories/#application-performance-group) and [Database group](https://about.gitlab.com/handbook/product/categories/#database-group) whose charters involve consulting and providing frameworks for other teams, but are considered non-blocking.
+We do have the [Application Performance group](/handbook/product/categories/#application-performance-group) and [Database group](/handbook/product/categories/#database-group) whose charters involve consulting and providing frameworks for other teams, but are considered non-blocking.
 
-The [Application Performance group](https://about.gitlab.com/handbook/product/categories/#application-performance-group) is focused on identifying systemic performance bottlenecks, creating documentation, and tooling to assist other groups in understanding and improving the performance of their features.
+The [Application Performance group](/handbook/product/categories/#application-performance-group) is focused on identifying systemic performance bottlenecks, creating documentation, and tooling to assist other groups in understanding and improving the performance of their features.
 
-The [Database group](https://about.gitlab.com/handbook/product/categories/#database-group) is focused on the specifics of database management/scaling and to provide consulting for development teams in need of database development guidance.  While database related merge requests still require approval from a database maintainer our [database review](https://docs.gitlab.com/ee/development/database_review.html) process has necessarily scaled beyond just the members of the database team.
+The [Database group](/handbook/product/categories/#database-group) is focused on the specifics of database management/scaling and to provide consulting for development teams in need of database development guidance.  While database related merge requests still require approval from a database maintainer our [database review](https://docs.gitlab.com/ee/development/database_review.html) process has necessarily scaled beyond just the members of the database team.
 
 #### Product Group health Assessment
 
@@ -415,23 +415,23 @@ To get started, feel free to make a copy of the [Team Health Survey Template](ht
 
 ##### Building High Performing Product Groups Learning Session
 
-The [Learning & Development](https://about.gitlab.com/handbook/people-group/learning-and-development/) team can facilitate a live learning session with product groups to [enable high performance](https://about.gitlab.com/handbook/leadership/build-high-performing-teams/). The [Drexler-Sibbet model](https://www.kaizenko.com/drexler-sibbet-team-performance-model/) is a framework to lead teams through stages towards high performance. During the live learning session, a L&D facilitator will collaborate with a product group to define activities to align team members on what needs to occur to achieve high performance. If interested in scheduling a session, contact `#learninganddevelopment` to learn more.
+The [Learning & Development](/handbook/people-group/learning-and-development/) team can facilitate a live learning session with product groups to [enable high performance](/handbook/leadership/build-high-performing-teams/). The [Drexler-Sibbet model](https://www.kaizenko.com/drexler-sibbet-team-performance-model/) is a framework to lead teams through stages towards high performance. During the live learning session, a L&D facilitator will collaborate with a product group to define activities to align team members on what needs to occur to achieve high performance. If interested in scheduling a session, contact `#learninganddevelopment` to learn more.
 
 #### Setting Product Group for Team Members
 
-Because it is our single source of truth (SSOT) for employee data, BambooHR serves as the SSOT for product group assignment. Each team member in R&D functions (Product/Engineering) is assigned a `specialty` field in their `team.yml` entry. While this entry is editable in the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person), any adjustments will be [over-written by a daily sync](https://about.gitlab.com/handbook/people-group/engineering/miscellaneous/#specialty-field) from BambooHR. In order to adjust a team members specialty their manager must initiate a [Job Information Change](https://about.gitlab.com/handbook/people-group/promotions-transfers/#manager-self-service-in-workday-job-information-change).
+Because it is our single source of truth (SSOT) for employee data, BambooHR serves as the SSOT for product group assignment. Each team member in R&D functions (Product/Engineering) is assigned a `specialty` field in their `team.yml` entry. While this entry is editable in the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person), any adjustments will be [over-written by a daily sync](/handbook/people-group/engineering/miscellaneous/#specialty-field) from BambooHR. In order to adjust a team members specialty their manager must initiate a [Job Information Change](/handbook/people-group/promotions-transfers/#manager-self-service-in-workday-job-information-change).
 
-When designating a team members `specialty` we use the smallest unit of our Product [hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) and their designated [names](https://about.gitlab.com/handbook/product/categories/#naming). So for example:
+When designating a team members `specialty` we use the smallest unit of our Product [hierarchy](/handbook/product/categories/#hierarchy) and their designated [names](/handbook/product/categories/#naming). So for example:
 
-- A team member who is a stable counterpart in the Code Review group in the Create stage would have the specialty designation of `Create:Code Review`
+- A team member who is a stable counterpart in the Code Review group in the Create stage would have the specialty designation of `Create: Code Review`
 - A team member who is a stable counterpart to the entire Verify stage would have a specialty designation of `Verify`
-- A team member who is a stable counterpart to the Access and Import groups in the Manage stage, and the Gitaly group in the Create stage would have specialty designations of `Manage:Access`, `Manage:Import`, and `Create:Gitaly`.
+- A team member who is a stable counterpart to the Access and Import groups in the Manage stage, and the Gitaly group in the Create stage would have specialty designations of `Manage: Access`, `Manage: Import`, and `Create: Gitaly`.
 
 #### Single-Engineer Groups
 
 The goal of a Single-Engineer Group (SEG) is to initiate GitLab into a planned or minimal category within the GitLab project. The single-engineer group is not to invest in an existing viable or complete category.  Here is a [list](https://about.gitlab.com/direction/#single-engineer-groups) of product ideas that are candidates for a SEG to work on.
 
-At GitLab, we believe in the power of a single engineer to accomplish amazing feats.  Many open source projects started with a single engineer’s  decision to build around a problem they personally experienced. For instance, [Continuous Integration](https://docs.gitlab.com/ee/ci/) by [DZ](https://about.gitlab.com/company/team/#dzaporozhets) and [GitLab Runner](https://docs.gitlab.com/runner/) by [Kamil](https://about.gitlab.com/company/team/#ayufan). We want to create room for this energy.
+At GitLab, we believe in the power of a single engineer to accomplish amazing feats.  Many open source projects started with a single engineer’s  decision to build around a problem they personally experienced. For instance, [Continuous Integration](https://docs.gitlab.com/ee/ci/) by [DZ](/handbook/company/team/#dzaporozhets) and [GitLab Runner](https://docs.gitlab.com/runner/) by [Kamil](/handbook/company/team/#ayufan). We want to create room for this energy.
 
 Our belief is that we can guarantee a higher rate of success by incubating ideas inside our larger organization and existing code base while limiting the negative aspects of friction that come from a larger organization. A few benefits of SEG include:
 
@@ -447,7 +447,7 @@ We have a huge opportunity in front of us and we want to be ambitious. Therefore
 
 ##### Success criteria
 
-The success of the Engineer relates to getting a rapid, high-quality answer to the question of product-market fit. That answer can absolutely be "no", so performance is not contingent on the group graduating to a larger, multi-person group. The measure of this is [GMAU](https://about.gitlab.com/handbook/product/performance-indicators/#group-monthly-active-users-gmau).
+The success of the Engineer relates to getting a rapid, high-quality answer to the question of product-market fit. That answer can absolutely be "no", so performance is not contingent on the group graduating to a larger, multi-person group. The measure of this is [GMAU](/handbook/product/performance-indicators/#group-monthly-active-users-gmau).
 
 ##### Sponsorship
 
@@ -494,7 +494,7 @@ It is not defined by someone's title or their place in the org chart, but by the
 
 ## Roles
 
-People can be a specialist in one thing and be an expert in multiple things. These are listed on the [team page](https://about,gitlab.com/company/team/).
+People can be a specialist in one thing and be an expert in multiple things. These are listed on the [team page](/handbook/company/team/).
 
 ### Specialist
 
@@ -533,7 +533,7 @@ If you would like to be a mentor in a certain area, please add the information t
 
 ### GitLab.com isn't a role
 
-Some of the things we do make are GitLab.com specific, but we will not have GitLab.com specific people, meetings, or [product KPIs](/company/kpis/#product-kpis).
+Some of the things we do make are GitLab.com specific, but we will not have GitLab.com specific people, meetings, or [product KPIs](/handbook/company/kpis/#product-kpis).
 We want to optimize for IACV and customer success and .com is simply a way to deliver that.
 Our innovation and impact will slow down if we need to maintain two separate products and focus our energy on only one of them.
 The majority of work in any role applies to both ways of delivery GitLab, self-managed and .com.
@@ -549,7 +549,7 @@ We do have an exception to the above, which is a senior leader in Product Manage
 
 Here are some examples of the things that this senior leader will coordinate:
 
-- Growth Group: [Stages per User (SpU)](https://about.gitlab.com/handbook/product/performance-indicators/)
+- Growth Group: [Stages per User (SpU)](/handbook/product/performance-indicators/)
 - Pricing: [Tiers](https://about.gitlab.com/pricing/)
 - Infrastructure Department: Cloud spend (within limits, not cost per user)
 - Development Department: Prioritization of large enterprise features
@@ -575,4 +575,4 @@ GitLab is a project bigger than GitLab the company. It is really important that 
 
 To refer to users and contributors who are not team members, use "wider community."
 
-For more, please see the [GitLab writing guidelines](https://about.gitlab.com/handbook/communication/#writing-style-guidelines).
+For more, please see the [GitLab writing guidelines](/handbook/communication/#writing-style-guidelines).

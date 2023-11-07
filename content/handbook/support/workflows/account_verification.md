@@ -21,7 +21,7 @@ As of Aug 16, 2023, Gitlab.com now requires that users without 2FA enabled verif
 
 ## GitLab Team Members
 
-If the user is a GitLab team member, have them [contact IT Ops](https://about.gitlab.com/handbook/business-technology/end-user-services/).
+If the user is a GitLab team member, have them [contact IT Ops](/handbook/business-technology/end-user-services/).
 
 ## Self Service 2FA Removal
 
@@ -196,7 +196,7 @@ The steps to follow depend on whether or not the customer has a shared Slack cha
        <p>A user in your organization is requesting to have [GitLab two-factor authentication](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html) removed from their account. Please review and complete the highlighted sections below.</p>
 
        <p>## Support Engineer Instructions
-       <p>- [ ] Ping the customer's organization owners in CUSTOMER_SLACK_CHANNEL using the [Notify Customer - Slack](https://about.gitlab.com/handbook/support/workflows/account_verification.html#2-contact-through-slack) template. For this organization the owners are SLACK_USERNAME, SLACK_USERNAME, and SLACK_USERNAME.
+       <p>- [ ] Ping the customer's organization owners in CUSTOMER_SLACK_CHANNEL using the [Notify Customer - Slack](/handbook/support/workflows/account_verification.html#2-contact-through-slack) template. For this organization the owners are SLACK_USERNAME, SLACK_USERNAME, and SLACK_USERNAME.
        <p>- [ ] Fill out the `Request Details` section below.
 
        <p>## {+Request Details+}

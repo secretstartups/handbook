@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: AWS Marketplace license
 description: "How to handle license purchased via AWS Marketplace"
 category: GitLab Self-Managed licenses

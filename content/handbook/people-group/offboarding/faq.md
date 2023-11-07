@@ -27,30 +27,43 @@ If you are [eligible]({{< ref "/handbook/people-group/offboarding#gitlab-alumni-
 
 ### Is there anything I need to do before my last day?
 
-The following can be used as a guide on what actions could need to be taken before your last day:
-
-- Unassign / Reassign any open projects, issues or merge requests to other team members or your manager. Use the [Global Search](https://docs.google.com/spreadsheets/d/1kVpBWDgxEp3zLyurE5Q9zpeDrGjWcDB7wb11uBl89ZQ/edit#gid=0) function and search your gitlab handle.
-- [Install JAMF](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/#installing-jamf) to assist the IT OPs team (if not already done).
-- Schedule a meeting with one of the IT Ops team members (depending on your region) for 30-60 minutes before your scheduled offboarding **time**.
-  - You can schedule an appointment with one of the IT Analysts, their schedules can be found in this [handbook page](https://about.gitlab.com/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts).
-- Copy over any personal passwords currently stored in 1Password (this will be disabled once offboarding is processed and you will no longer have any access to any of your personal passwords).
+The following can be used as a guide on what actions could be taken before your last day:
 - Prepare a handover document for your team / manager.
 - Notify customers and introduce them to the team member that will be assisting them going forward (if applicable).
-- If you feel comfortable, send a message in the `team-member-updates` Slack channel notifying everyone of your departure.
-- Set up accounts that you'll need access to after your last day. Ensure your personal email address is up to date with these accounts. They may include:
+- If you feel comfortable, send a message in the [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K) Slack channel notifying everyone of your departure.
+-
+
+## Laptop and IT-related steps
+
+### GitLab.com
+
+- Unassign yourself and re-assign any open projects, issues or merge requests to other team members or your manager.
+
+### 1Password
+
+- Copy over any personal passwords currently stored in 1Password (this will be disabled once offboarding is processed and you will no longer have any access to any of your personal passwords).
+
+### Google Drive
+
+- Move any important Google Docs from your personal [My Drive](https://drive.google.com/drive/my-drive) to a [Shared Drive](https://drive.google.com/drive/shared-drives) so that they will be available to your team and manager after you exit.
+
+### Other accounts
+
+ Set up accounts that you'll need access to after your last day. Ensure your personal email address is up to date with these accounts. They may include:
   - ADP (payroll): https://workforcenow.adp.com
-  - Betterment (US 401(k)): https://wwws.betterment.com/app/login
+  - Fidelity (US 401(k)): https://www.fidelity.com
+  - E-Trade (RSU): http://www.etrade.com
   - Carta (Stock options): https://login.app.carta.com/credentials/login/
 
-## IT Ops - Laptops
+### Laptop Wipe
 
-### Do I need to wipe my laptop?
+It is required that your laptop is wiped on your last day. Please [book an appointment](/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts) with an IT Ops team member for your last day.
 
-A laptop wipe/reset is **required** once you have been offboarded. Please ensure to [set up a meeting with the IT OPs team](https://about.gitlab.com/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts) on your last day to complete the laptop wipe. Please under **no circumstance** should you perform your own disk wipe on the laptop. Please send an email to `it-help@gitlab.com` if you have any questions regarding this.
+Under **no circumstance** should you be wiping your own laptop. Laptop wipes must be done from an IT Ops team member for logs. Reach out to [#it_help](https://gitlab.slack.com/archives/CK4EQH50E) if you have any other questions.
 
-### Can I purchase my laptop from GitLab?
+### Can I keep my laptop?
 
-IT Ops will contact you after your last day to determine if this is a possibility. You can view the Laptop buy back policy [here.](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#laptop-buy-back-policy)
+Please refer to the Laptop Buy Back Policy [here](/handbook/business-technology/end-user-services/onboarding-access-requests/#laptop-buy-back-policy).
 
 ## Compensation - Payroll
 
@@ -60,7 +73,7 @@ Please reach out to the Payroll team `nonuspayroll@gitlab.com` before your last 
 
 ### When will I receive my final pay?
 
-This will vary depending on location and entity. Please refer to [Payroll Pay Date Handbook Page](https://about.gitlab.com/handbook/finance/payroll/#pay-date). If you have any additional questions please contact `NONuspayroll@gitlab.com` or `USpayroll@gitlab.com` (depending on your location).
+This will vary depending on location and entity. Please refer to [Payroll Pay Date Handbook Page](/handbook/finance/payroll/#pay-date). If you have any additional questions please contact `NONuspayroll@gitlab.com` or `USpayroll@gitlab.com` (depending on your location).
 
 ### When will I receive (if applicable) commission payment(s)?
 
@@ -72,13 +85,13 @@ Please create your final expense report in Navan (for employees), OR, please fil
 
 ### How do I submit reimbursable expenses if I don’t have a GitLab access to Navan?
 
-Please follow the process as listed on the Expense Handbook [page](https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement-for-terminated-team-members). For any queries regarding final expenses, please send an email to `ap@gitlab.com`
+Please follow the process as listed on the Expense Handbook [page](/handbook/finance/expenses/#expense-reimbursement-for-terminated-team-members). For any queries regarding final expenses, please send an email to `ap@gitlab.com`
 
 ### Other Reimbursements, Refunds or Repurchasements
 
 - Please review our Loan Policy in the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d) if it applies to you. Please also note that in the event that a loan is approved, a legal contract, in accordance to the team member's state, local or federal laws regarding loans and repayment of loans during employment, will be created by the Legal team. It will lay out the complete loan terms, repayment and refunding policy if applicable. If you leave GitLab with any loan balance not yet repaid, it will be refunded to GitLab, if applicable and legally allowed, as laid out in the terms of the original contract and with support from the Payroll team.
 - Please review our [Unpaid Leave]({{< ref "paid-time-off#unpaid-leave-of-absence" >}}) section regarding payments in error.
-- Please review our policy regarding [Repurchasing Unvested Shares](https://about.gitlab.com/handbook/stock-options/#exercising-your-options).
+- Please review our policy regarding [Repurchasing Unvested Shares](/handbook/stock-options/#exercising-your-options).
 
 ## Total Rewards - Benefits
 
@@ -88,7 +101,7 @@ Typically, benefits coverage ends at the end of the month during which you leave
 
 ### How will my stock options be managed? What will happen to my stock options if I have been at GitLab less than a year at my date of departure?
 
-All information is on the [Stock Options](https://about.gitlab.com/handbook/stock-options/) handbook page, specifically the [Exercise Window after Termination](https://about.gitlab.com/handbook/stock-options/#exercise-window-after-termination) section.
+All information is on the [Stock Options](/handbook/stock-options/) handbook page, specifically the [Exercise Window after Termination](/handbook/stock-options/#exercise-window-after-termination) section.
 
 ### What if I am a designated Insider?
 
@@ -147,4 +160,4 @@ If you move, please email `people-connect@gitlab.com` so that the People Conne
 
 ### Do I need to return previously expensed Home Office Items?
 
-Please read about the laptop guidelines [here]({{< ref "/handbook/people-group/offboarding/faq#can-i-purchase-my-laptop-from-gitlab" >}}). [Home Office Items](https://about.gitlab.com/handbook/finance/procurement/office-equipment-supplies/#-home-office-items) under $1000 USD per item don't need to get returned and are okay for you to keep. If you make a purchase that will cost GitLab $1000 USD per item (or over), this is classed as company property and you will be required to return the item(s) if you leave the company.
+Please read about the laptop guidelines [here]({{< ref "/handbook/people-group/offboarding/faq#can-i-purchase-my-laptop-from-gitlab" >}}). [Home Office Items](/handbook/finance/procurement/office-equipment-supplies/#-home-office-items) under $1000 USD per item don't need to get returned and are okay for you to keep. If you make a purchase that will cost GitLab $1000 USD per item (or over), this is classed as company property and you will be required to return the item(s) if you leave the company.

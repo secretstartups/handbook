@@ -4,7 +4,7 @@ description: "This job family represents all members of the Product Leadership T
 ---
 
 This job family represents all members of the Product Leadership team within the Product Division. They are responsible for managing,
-directly or indirectly GitLab team members in the roles outlined in the [Product Team Functions](https://about.gitlab.com/handbook/product/).
+directly or indirectly GitLab team members in the roles outlined in the [Product Team Functions](/handbook/product/).
 
 ## Roles
 
@@ -14,7 +14,7 @@ The VP of UX (User Experience) reports to the Chief Product Officer (CPO), and D
 
 #### Job Grade
 
-The VP of UX is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of UX is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -25,7 +25,7 @@ The VP of UX is a [grade 12](https://about.gitlab.com/handbook/total-rewards/com
 - **UX initiatives:** Identify ways to elevate the GitLab product experience, manage initiatives to address those concerns, and track and communicate about progress.
 - **Coach UX leaders:** Help UX leaders grow their skills and leadership experience.
 - **Culture:** Foster an open and collaborative culture based on trust in the UX department, where everyone feels empowered to do their best work.
-- **Cross-product collaboration:** Ensure that UX is well-integrated into the [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/), and advocate for process changes that help product management, engineering, and UX work together to build a great experience.
+- **Cross-product collaboration:** Ensure that UX is well-integrated into the [Product Development Flow](/handbook/product-development-flow/), and advocate for process changes that help product management, engineering, and UX work together to build a great experience.
 - **Design system:** Define and promote design guidelines, best practices, and standards, and help to drive GitLab's [design system](https://design.gitlab.com/) forward at a strategic level.
 - **Research evangelism:** Work with product leadership to prioritize research efforts, so that we validate whether we're solving the right problems in the right ways.
 - **Democratize UX:** Ensure that Development is included in the UX process by offering the opportunity to participate in and understand the outcomes of user research, give early feedback on upcoming designs, and participate in design system strategy.
@@ -44,11 +44,11 @@ The VP of UX is a [grade 12](https://about.gitlab.com/handbook/total-rewards/com
 - Passion for creating visually pleasing and intuitive user experiences.
 - Collaborative team spirit with great communication skills.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 
 #### Interview Process
 
-- [Screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with a recruiter.
+- [Screening call](/handbook/hiring/#screening-call) with a recruiter.
 - Interview with a manager on the UX Leadership team. In this interview, the interviewer will spend a lot of time trying to understand the experience you have leading managers, as well as what type of teams you have led and your management style. The interviewer will also be looking to understand how you define strategy, how you've handled conflict, and how you dealt with difficult situations in the past. Do be prepared to talk about your work, experience with Design Systems, and technical ability, too.
 - Interview with a director on the UX Leadership team. In this interview, we will be looking for you to give some real insight into a problem you were solving as part of a large initiative you led the work on. We'll look to understand the size and structure of the team, the goals of the project, how you/the team approached research, how you used research to inform decisions, and how you collaborated with the wider team. Broadly, we want to hear how you identified what needed to be done and then guided your team to the end result.
 - Interview with VP of Product Management.
@@ -56,14 +56,14 @@ The VP of UX is a [grade 12](https://about.gitlab.com/handbook/total-rewards/com
 
 As always, interviews and the screening call will be conducted via video.
 
-See more details about our hiring process on the [hiring handbook](https://about.gitlab.com/handbook/hiring/).
+See more details about our hiring process on the [hiring handbook](/handbook/hiring/).
 
 #### Performance indicators
 
-- [Hiring Actual vs Plan](https://about.gitlab.com/handbook/product/ux/performance-indicators/#hiring-actual-vs-plan)
-- [Diversity](https://about.gitlab.com/handbook/product/ux/performance-indicators/#diversity)
-- [Handbook Update Frequency](https://about.gitlab.com/handbook/product/ux/performance-indicators/#handbook-update-frequency)
-- [Team Member Retention](https://about.gitlab.com/handbook/product/ux/performance-indicators/#team-member-retention)
+- [Hiring Actual vs Plan](/handbook/product/ux/performance-indicators/#hiring-actual-vs-plan)
+- [Diversity](/handbook/product/ux/performance-indicators/#diversity)
+- [Handbook Update Frequency](/handbook/product/ux/performance-indicators/#handbook-update-frequency)
+- [Team Member Retention](/handbook/product/ux/performance-indicators/#team-member-retention)
 
 
 ### VP of Product Management
@@ -72,7 +72,7 @@ This role typically manages 4-6 direct reports, including Group Managers of Prod
 
 #### VP of Product Management - Job Grade
 
-The VP of Product Management is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of Product Management is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### VP of Product Management - Responsibilities
 
@@ -83,7 +83,7 @@ The VP of Product Management is a [grade 12](https://about.gitlab.com/handbook/t
 - Align team with end-to-end product line vision and goals
 - Leverage portfolio product management techniques to ensure product investments are properly allocated across the end-to-end GitLab product
 - Partner effectively with Engineering, Design, and Product Marketing to ensure we validate, build, launch, and measure product experiences that customers love and value
-- Help refine and implement the GitLab [product development flow](https://about.gitlab.com/handbook/product-development-flow/), ensuring team members receive training and coaching required to work effectively within the system
+- Help refine and implement the GitLab [product development flow](/handbook/product-development-flow/), ensuring team members receive training and coaching required to work effectively within the system
 - Serve as a spokesperson for the end-to-end GitLab product internally and externally
 
 #### VP of Product Management - Requirements
@@ -92,11 +92,11 @@ The VP of Product Management is a [grade 12](https://about.gitlab.com/handbook/t
 - Demonstrated understanding of DevOps markets, competition, and underlying technologies
 - Track record of leading products to successful commercial outcomes
 - Excellent at boardroom and big stage presentations, and able to inspire and motivate customers and employees through written and verbal communications
-- Demonstrated ability to teach and coach the product management skills as outlined [here](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/)
+- Demonstrated ability to teach and coach the product management skills as outlined [here](/handbook/product/product-manager-role/product-CDF-competencies/)
 
 #### VP of Product Management - Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Apply on the GitLab Jobs [page](https://about.gitlab.com/jobs/)
 - 30 minute screening call with Recruiter
@@ -112,17 +112,17 @@ Candidates for this position can expect the hiring process to follow the order b
 
 The VP of Product Management - Dev & Analytics is the PM DRI for the Dev and Analytics Sections which include:
 
-- [Dev Section](https://about.gitlab.com/handbook/product/categories/#dev-section) - Create, Plan, and Manage Stages
-- [Analytics Section](https://about.gitlab.com/handbook/product/categories/#analytics-section) - Analyze Stage
+- [Dev Section](/handbook/product/categories/#dev-section) - Create, Plan, and Manage Stages
+- [Analytics Section](/handbook/product/categories/#analytics-section) - Analyze Stage
 
 ##### CI/CD, Enablement, & SaaS Platforms
 
 The VP of Product Management - CI/CD, Enablement, & SaaS Platforms is the PM DRI for the CI, CD, Enablement, & SaaS Platforms Sections which include:
 
-- [CI Section](https://about.gitlab.com/handbook/product/categories/#ci-section) - Verify & Package Stages
-- [CD Section](https://about.gitlab.com/handbook/product/categories/#cd-section) - Deploy Stage
-- [Enablement Section](https://about.gitlab.com/handbook/product/categories/#enablement-section) - Systems & Data Stores Stages
-- [SaaS Platforms Section](https://about.gitlab.com/handbook/product/categories/#saas-platforms-section) - SaaS Platforms Stage
+- [CI Section](/handbook/product/categories/#ci-section) - Verify & Package Stages
+- [CD Section](/handbook/product/categories/#cd-section) - Deploy Stage
+- [Enablement Section](/handbook/product/categories/#enablement-section) - Systems & Data Stores Stages
+- [SaaS Platforms Section](/handbook/product/categories/#saas-platforms-section) - SaaS Platforms Stage
 
 ### Senior Director of Product Management
 
@@ -130,7 +130,7 @@ This role typically manages 4-6 direct reports, including Product Managers, Grou
 
 #### Senior Director of Product Management - Job Grade
 
-The  Senior Director, Product Management is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The  Senior Director, Product Management is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director of Product Management - Requirements
 
@@ -155,26 +155,26 @@ The next step in the Product Management Leadership job family is to move to the 
 
 The Senior Director of Product Management - Sec, Data Science, & Service Management is the PM DRI for the Sec, Data Science, Service Management Sections which include:
 
-- [Sec Section](https://about.gitlab.com/handbook/product/categories/#sec-section) - Secure & Govern Stages
-- [Data Science Section](https://about.gitlab.com/handbook/product/categories/#data-science) - ModelOps & Anti-Abuse Stages
-- [Service Management Section](https://about.gitlab.com/handbook/product/categories/#monitor-stage) - Monitor Stage
+- [Sec Section](/handbook/product/categories/#sec-section) - Secure & Govern Stages
+- [Data Science Section](/handbook/product/categories/#data-science) - ModelOps & Anti-Abuse Stages
+- [Service Management Section](/handbook/product/categories/#monitor-stage) - Monitor Stage
 
 ##### Monetization & Operations
 
 The Senior Director of Product Management - Monetization & Operations is the PM DRI for the Fulfillment Section, Pricing, Product Analysis, and Product Operations which include:
 
-- [Fulfillment Section](https://about.gitlab.com/handbook/product/categories/#fulfillment-section) - Fulfillment Stage
-- [Pricing](https://about.gitlab.com/company/pricing/) - Pricing team
-- [Product Data Insights](https://about.gitlab.com/handbook/product/product-analysis/) - Product Data Insights Stage
+- [Fulfillment Section](/handbook/product/categories/#fulfillment-section) - Fulfillment Stage
+- [Pricing](/handbook/company/pricing/) - Pricing team
+- [Product Data Insights](/handbook/product/product-analysis/) - Product Data Insights Stage
 - [Product Operations](https://about.gitlab.com/direction/product-operations/) - Product Operations Team
 
-The Senior Director of Product Management, Monetization & Operations is the PM DRI for [Fulfillment](https://about.gitlab.com/handbook/product/categories/#fulfillment-section), Pricing, [Product Operations](https://about.gitlab.com/handbook/product/product-operations/), and [Product Analysis](https://about.gitlab.com/handbook/product/product-analysis/) and reports to the VP of Product.
+The Senior Director of Product Management, Monetization & Operations is the PM DRI for [Fulfillment](/handbook/product/categories/#fulfillment-section), Pricing, [Product Operations](/handbook/product/product-operations/), and [Product Analysis](/handbook/product/product-analysis/) and reports to the VP of Product.
 
 #### Senior Director of Product Management - Hiring Process
 
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
+- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
 - Next, candidates will be invited to schedule a 60 minute first interview with the Chief Product Officer
 - Next, candidates will be invited to schedule a 45 minute second peer interview with a Product Director
 - Next, candidates will be invited to schedule a 45 minute third interview with another member of the Product team

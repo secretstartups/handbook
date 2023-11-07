@@ -164,7 +164,7 @@ During calibration sessions, leaders should be prepared to discuss:
 1. Development areas: The promotion document outlines strengths, but we also want to highlight how we will support a team member's opportunity to develop at the next level.
 1. Cross-functional feedback: As our business goals and initiatives become increasingly cross-functional, managers should have a picture of how their team member collaborates effectively within their immediate teams, and with their core cross-functional partners and stakeholders.
 1. Performance against with the current and (some) next level expectations aligned with the [job framework]({{< ref "structure#job-frameworks" >}}).
-1. [Competencies](https://about.gitlab.com/handbook/competencies/#list): Where available and applicable.
+1. [Competencies](/handbook/competencies/#list): Where available and applicable.
 1. Most recent talent assessment (and any relevant changes since).
 
 Calibration should be aligned to the following levels of leaders and people managers:
@@ -340,14 +340,14 @@ This section describes the approval chain after the People Business Partner subm
 
 #### Job Change Letter
 
-1. For all the [GitLab entities](https://about.gitlab.com/handbook/people-group/employment-solutions/#gitlab-entities) and [Independent Contractors](https://about.gitlab.com/handbook/people-group/employment-solutions/#team-members-hired-as-contractors-via-our-gitlab-it-bv-entity) create a job change letter as per the steps mentioned below. If the team member is employed by a PEO, notify the applicable [PEO](https://about.gitlab.com/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity) either by email or for remote.com via their dashboard. See the People Connect 1password vault for contact details.
+1. For all the [GitLab entities](/handbook/people-group/employment-solutions/#gitlab-entities) and [Independent Contractors](/handbook/people-group/employment-solutions/#team-members-hired-as-contractors-via-our-gitlab-it-bv-entity) create a job change letter as per the steps mentioned below. If the team member is employed by a PEO, notify the applicable [PEO](/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity) either by email or for remote.com via their dashboard. See the People Connect 1password vault for contact details.
 1. Review the [Signature requirements per country](https://docs.google.com/spreadsheets/d/1L85i10rGZuECx-Wxe-lr9O5AaTN2iuD-oVQDAwKDeQ8/edit?usp=sharing) and process the job change letter accordingly.
-1. Make a copy of the [Job Change Letter template](https://docs.google.com/document/d/12AscsmP3qnTqCC9h6cx1UpIVrnZUfoN6AvfMjf8guyg/edit) and enter all applicable information based on the Workday request and add the applicable [Signatory](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories) or [Company Signature Stamp](https://docs.google.com/document/d/1RWkI7zuFIUkW_sh1TmYii6e8zNOmz9USUoEr1wBIBpQ/edit?usp=sharing). The effective date is as follows:
+1. Make a copy of the [Job Change Letter template](https://docs.google.com/document/d/12AscsmP3qnTqCC9h6cx1UpIVrnZUfoN6AvfMjf8guyg/edit) and enter all applicable information based on the Workday request and add the applicable [Signatory](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories) or [Company Signature Stamp](https://docs.google.com/document/d/1RWkI7zuFIUkW_sh1TmYii6e8zNOmz9USUoEr1wBIBpQ/edit?usp=sharing). The effective date is as follows:
     - For sales personnel with a variable change, the effective date is always the 1st of the month regardless of their entity.
-    - For US team members, the effective date should be either the 1st or the 16th. If the [payroll cut off date](https://about.gitlab.com/handbook/finance/payroll/#payroll-cut-off-date) has passed for the current pay period, the effective date should be made for the start of the next pay period. The GitLab Inc and Federal Payroll calendar should be referenced when determining the effective date.
+    - For US team members, the effective date should be either the 1st or the 16th. If the [payroll cut off date](/handbook/finance/payroll/#payroll-cut-off-date) has passed for the current pay period, the effective date should be made for the start of the next pay period. The GitLab Inc and Federal Payroll calendar should be referenced when determining the effective date.
     - For example, if the change is being processed on June 22, since this date is before the payroll cut off date of June 23, the effective date should be June 16.
     - If the change instead is being processed on June 25, the effective date should be July 1 since this is after the payroll cut off date.
-    - For Canada team members, the effective should be the start of the pay period closest to, but not after the [payroll cut off date](https://about.gitlab.com/handbook/finance/payroll/#payroll-cut-off-date) depending on when the change is processed. The GitLab Canada Corp Payroll calendar should be referenced when determining the effective date.
+    - For Canada team members, the effective should be the start of the pay period closest to, but not after the [payroll cut off date](/handbook/finance/payroll/#payroll-cut-off-date) depending on when the change is processed. The GitLab Canada Corp Payroll calendar should be referenced when determining the effective date.
     - For example, if the change is being processed on June 15, since the payroll cut off date of June 6 has passed, this would go to the next pay period with a cut off date of June 20. The corresponding start of the pay period for the June 20 cut off date is June 21 so June 21 should be the effective date.
     - For all other changes, the effective date should be the first of the current month if processed on or before the 8th of the month and the first of the next month if processed after the 8th of the month.
     - For example, if a GitLab Ltd team member has a change being processed on June 7, this would be effective June 1.
@@ -359,17 +359,17 @@ This section describes the approval chain after the People Business Partner subm
     - Add sign date field for the team member
     - **Note:** Make sure that **a)** "Set signing order” option has been selected while preparing the doc, and **b)** Select radio button instead of checkboxes as only radio button allows you to select the required field/mandatory field option. This prohibits the Manager to process the letter without checking the tasks on the letters.
 1. Save the signed letter to the respective team members [Documents Tab](https://docs.google.com/document/d/1ao_d_JxvqvZdqxlt4mBoHe1GcAhYT7B6YQoBgDxPdRE/edit) within their Workday Profile.
-1. If the [here mentioned criteria](https://about.gitlab.com/handbook/people-group/promotions-transfers/#career-mobility-issue) for a Career Mobility Issue is met the People Connect Specialists will receive an alert from Workday and ensure that an [issue is opened](https://about.gitlab.com/handbook/people-group/promotions-transfers/#career-mobility-issue-creation-process) for the transitioning team member.
+1. If the [here mentioned criteria](/handbook/people-group/promotions-transfers/#career-mobility-issue) for a Career Mobility Issue is met the People Connect Specialists will receive an alert from Workday and ensure that an [issue is opened](/handbook/people-group/promotions-transfers/#career-mobility-issue-creation-process) for the transitioning team member.
 
 ## Interim and Acting Roles
 
 ### Interim
 
-As part of the career development structure within the Engineering division, interim and acting role opportunities occasionally arise. For more information on how interim and acting roles fit into Engineering career development, please reference the [Engineering career development handbook page](/handbook/engineering/career-development/). For information on the interim and acting processes, please continue reading below.
+As part of the career development structure within the Engineering division, interim and acting role opportunities occasionally arise. For more information on how interim and acting roles fit into Engineering career development, please reference the [Engineering career development handbook page](https://about.gitlab.com/handbook/engineering/career-development/). For information on the interim and acting processes, please continue reading below.
 
 #### Beginning Interim Period
 
-As highlighted in the Definition section, all interim roles (regardless of the number of applicants) should go through the Greenhouse application and interview process. The interview process steps will be determined by the hiring manager and next level leader. This will contain several steps of the standard [GitLab hiring process](https://about.gitlab.com/handbook/hiring/). The process for team members interested in applying for an interim role is as follows:
+As highlighted in the Definition section, all interim roles (regardless of the number of applicants) should go through the Greenhouse application and interview process. The interview process steps will be determined by the hiring manager and next level leader. This will contain several steps of the standard [GitLab hiring process](/handbook/hiring/). The process for team members interested in applying for an interim role is as follows:
 
 1. *Team Member*: Apply for the interim position in Greenhouse.
 
@@ -406,7 +406,7 @@ If you receive a job change or letter of adjustment to an interim role, process 
 1. Update Acting/Interim Tracker Spreadsheet
 1. Update Transition Tracker Spreadsheet (if required)
 
-Note: There are no changes that are made in Workday for acting roles. To track acting positions please follow [this process](https://about.gitlab.com/handbook/total-rewards/compensation/#tracking).
+Note: There are no changes that are made in Workday for acting roles. To track acting positions please follow [this process](/handbook/total-rewards/compensation/#tracking).
 
 ### Acting
 
@@ -427,7 +427,8 @@ In the event that a team member is working in an acting capacity in a role that 
 
 1. Team member expresses interest to their manager in pursuing the position on a permanent basis.
 1. Team member reaches out to the Hiring Manager to receive feedback on their performance in the role thus far in the acting capacity.
-1. Team member is welcome to apply for the position in Greenhouse aligned with our standard hiring practices. **Note:** *If the Hiring Manager and acting team member mutually agree to move forward with consideration for the role, the position is at the same or lower [job grade](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) as their current role, the position is within the same division, and the position is not a people management position, a formal interview process may not be required. If the Hiring Manager prefers to not include an interview process, they must connect with their aligned People Business Partner (PBP) to ensure they are supportive. This interview exception possibility exists due to the unique experience team members in acting positions have to demonstrate their ability to be successful in the position over time.*
+1. Team member is welcome to apply for the position in Greenhouse aligned with our standard hiring practices.
+  **Note:** If the Hiring Manager and acting team member mutually agree to move forward with consideration for the role, the position is at the same or lower [job grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) as their current role, the position is within the same division, and the position is not a people management position, a formal interview process may not be required. If the Hiring Manager prefers to not include an interview process, they must connect with their aligned People Business Partner (PBP) to ensure they are supportive. This interview exception possibility exists due to the unique experience team members in acting positions have to demonstrate their ability to be successful in the position over time.
 1. After the team member officially moves into the open role, a backfill position will be created.
 
 
@@ -436,7 +437,7 @@ In the event that a team member is working in an acting capacity in a role that 
 Demotions are not always considered a step backwards.  It may be an opportunity for a team member to acquire new skills or to move to a role that more closely aligns with their area of interest. To demote one of your direct reports, a manager should follow the following steps:
 
 - If the demotion is due to performance, the manager should discuss any performance issues or possible demotions with Team Member Relations.
-- Demotions should also include a review of [compensation]({{< ref "compensation" >}}) and [equity](https://about.gitlab.com/handbook/stock-options/#equity-incentive-plans) in the google doc. Managers should consult with Total Rewards team on these topics; and of course always adhere to the Global Compensation Calculator.
+- Demotions should also include a review of [compensation]({{< ref "compensation" >}}) and [equity](/handbook/stock-options/#equity-incentive-plans) in the google doc. Managers should consult with Total Rewards team on these topics; and of course always adhere to the Global Compensation Calculator.
 - Once agreement is reached on the demotion and changes (if any) in Team will act as the point of escalation to have any demotion reviewed and approved by the Compensation Group once the relevant google doc is complete.
 - Once approved, the manager informs the individual. Please cc 'peopleops@gitlab.com'  once the individual has been informed, so the changes can be processed in the relevant administrative systems. A [Job Change Letter](https://docs.google.com/document/d/12AscsmP3qnTqCC9h6cx1UpIVrnZUfoN6AvfMjf8guyg/editm) will then be created.
 - The People Connect team should then follow the process listed under the [For People Connect Team: Processing Promotions & Compensation Changes]({{< ref "promotions-transfers#for-people-connect-team-processing-promotions--compensation-changes" >}}).
@@ -447,7 +448,7 @@ Demotions are not always considered a step backwards.  It may be an opportunity 
 
 Job title specialties are used to indicate a stage, group and/or a specific focus area of the team member within their responsibilities. These specialties are not part of the job title, but are used to feed into reporting around stage, group and/or focus area investments. It is also a resource for the People Group and leaders to leverage to review organizational health metrics and ratios.
 
-**If any changes are required to a team members Job Title Speciality, the manager should email the People Connect team (people-connect@gitlab.com) promptly with the new job title specialty information along with the effective date of the change. It is an important manager responsibility to ensure this field remains accurate in Workday.**
+**If any changes are required to a team members Job Title Speciality, the manager should email the People Connect team (people-connect@gitlab.com) promptly with the new job title specialty information along with the effective date of the change. If a new Job Title Specialty that does not already exist needs to be created, please open an [issue](https://gitlab.com/gitlab-com/people-group/people-tools-technology/general/-/issues/new#) to get it created in Workday using the `Workday: Job Title Specialty Request` template. It is an important manager responsibility to ensure this field remains accurate in Workday.**
 
 ### Job Title Specialty Guidance For Managers
 
@@ -466,7 +467,7 @@ To easily access a report for what current job title specialties are for your te
 - When requesting a job title specialty update, please follow the following formatting:
     - Review Product/Categories and make sure the group names you use match these. If they don't, please connect with your Product Manager to confirm and work with them to update if needed.
     - Add both stage and group in the job title specialty field
-        - Example:  Add “Govern: Authentication and Authorization” instead of “Authentication and Authorization”
+        - Example:  Add “Govern: Authentication” instead of “Authentication”
         - **Important: Please ensure that you leave a space after the colon (:) between stage and group.**. For example, `Create: Source Code` is *correct* formatting, and `Create:Source Code` is *incorrect* formatting. This helps ensure that when pulling reports we have accurate counts for investment alignment.
     - Review each person and make sure it only lists one group.
         - Note: In situations where there are two groups, pick the primary group.
@@ -541,10 +542,10 @@ For more information please visit our [Internal Hiring Process](/handbook/hiring
 - Transfers must go through the application process for the new position by applying on the [jobs page](https://gitlab.greenhouse.io/internal_job_board). The team member may go through the entire interview process outlined on the vacancy description. Common exceptions to the standard interview process are behavioral or "values alignment" stages. The Recruiter will document the reason behind alterations to the standard interview plan in the team member's Greenhouse profile.  If you have any questions about the role or the process, please reach out to your Department or Division's [People Business Partner]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}) and/or please visit our [Internal Hiring Process](/handbook/hiring/talent-acquisition-framework/internal-hiring-process/) handbook page. In all cases, the applicable People Business Partner should be informed via email, before a transfer is confirmed.
 - In the case of transfers, it is expected and required that the gaining manager will check with internal references at GitLab limited to the previous and current managers; please do not conduct internal reference checks with peers or direct reports. For questions or exceptions, please engage your recruiter and people business partner.
 - It is recommended (but not required) that the applicant, current manager, or gaining manager create a private Slack channel to help coordinate the transfer. Invite anyone who will be involved such as the relevant managers, directors, people business partners, finance business partners, and recruiters.
-- If the current manager needs to backfill the role in Engineering they should follow [this process](https://about.gitlab.com/handbook/engineering/#rd-new-headcount-ghpid-request-backfill--transfer-process). For other divisions they should work with their department leader, recruiter, and the Finance Business Partner to confirm that a backfill is available. When the transfer is confirmed, the current manager should work with recruiter and Finance Partner to obtain a [GHP ID](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#headcount-and-the-talent-acquisition-single-source-of-truth) for the backfill and open the role in Greenhouse.
+- If the current manager needs to backfill the role in Engineering they should follow [this process](https://about.gitlab.com/handbook/engineering/#rd-new-headcount-ghpid-request-backfill--transfer-process). For other divisions they should work with their department leader, recruiter, and the Finance Business Partner to confirm that a backfill is available. When the transfer is confirmed, the current manager should work with recruiter and Finance Partner to obtain a [GHP ID](/handbook/finance/financial-planning-and-analysis/#headcount-and-the-talent-acquisition-single-source-of-truth) for the backfill and open the role in Greenhouse.
 - Before the offer is made the recruiter will confirm with the team member and the gaining manager that they have indeed reached out to the current manager. They will discuss the new opportunity and that an offer will be made to the team member.
 - Talent Acquisition team will ensure that, if applicable, the position has been posted for at least three business days before an offer is made.
-- [Compensation]({{< ref "compensation" >}}) and [equity](https://about.gitlab.com/handbook/stock-options/#equity-incentive-plans) may be reviewed during the hiring process to reflect the new level and position.
+- [Compensation]({{< ref "compensation" >}}) and [equity](/handbook/stock-options/#equity-incentive-plans) may be reviewed during the hiring process to reflect the new level and position.
 - If after interviews, the manager and the GitLab team member want to proceed with the transfer, internal references should be checked. While a manager cannot block a transfer, there is often good feedback that can help inform the decision. It is advised that the GitLab team member talk to their manager to explain their preference for the new team and to understand the feedback that will be given to the new manager. It should also be noted, that performance requirements are not always equal across roles, so if a GitLab team member struggles in one role, those weakness may not be as pronounced in the new role, and vice versa.
 - The Recruiter and Hiring Manager will review the offer details with the internal candidate and a [Job Change Letter]({{< ref "promotions-transfers#job-change-letter" >}}) will be sent out by the Total Rewards team following the hiring process
 - If the team member is transferred, the new manager will announce in the `#team-member-updates` Slack Channel and begin any additional onboarding or offboarding necessary. Before the new manager makes the transfer announcement they must confirm with the team members current manager that the current team has been informed about the team members new position and transfer.
@@ -564,7 +565,7 @@ If you are interested in another position within your department and the manager
 - If the vacancy is advertised on the [jobs page](https://about.gitlab.com/jobs/all-jobs/), to be considered, you must submit an application. If there is no vacancy posting, one must be created and shared in the `#new-vacancies` channel so that everyone has the opportunity to apply and be considered.
 - The manager will assess the function requirements; each level should be defined in the vacancy description.
 - If approved, your manager will need to obtain approval from their manager, through the relevant chain of command.
-- [Compensation]({{< ref "compensation" >}}) and [equity](https://about.gitlab.com/handbook/stock-options/#equity-incentive-plans) will be reevaluated to ensure it adheres to the compensation calculator. Do not send the proposal until this part is included.
+- [Compensation]({{< ref "compensation" >}}) and [equity](/handbook/stock-options/#equity-incentive-plans) will be reevaluated to ensure it adheres to the compensation calculator. Do not send the proposal until this part is included.
 - If the team member is transferred, the manager will announce in the `#team-member-updates` Slack channel and begin any additional onboarding or offboarding necessary.
 
 ## Internal Transfer Start Date
@@ -601,7 +602,7 @@ If you are unsure of the role, set up a coffee chat with the hiring manager to i
 
 #### Announcing Internal Promotions/Transfers
 
-While the [Career Mobility Issue](https://about.gitlab.com/handbook/people-group/promotions-transfers/#career-mobility-issue) aims to kick off the logistics of switching roles, the guidelines below are meant to guide the communication of internal promotions and transitions to ensure consistency and alignment from all parties involved.
+While the [Career Mobility Issue](/handbook/people-group/promotions-transfers/#career-mobility-issue) aims to kick off the logistics of switching roles, the guidelines below are meant to guide the communication of internal promotions and transitions to ensure consistency and alignment from all parties involved.
 
 1. Prior to any company-wide announcement, the team member should be given the opportunity to share the news with their immediate team members.
 1. Promotions typically also include equity grants. If the equity grant amount is not listed on the Job Change Letter, managers can navigate to Workday to find the amount to communicate to the team member following these steps:
@@ -612,7 +613,7 @@ While the [Career Mobility Issue](https://about.gitlab.com/handbook/people-group
     - Click the Business Process with `Stock Grant` in the title and effective date of the promotion.
     - This will open a new page to view the event. Scroll down to the `Stock Grant Details` table to see the proposed amount.
 
-**Please Note**: Equity grants require board approval. When communicating, managers should highlight that this equity amount is the proposed amount, but will not be [officially approved](https://about.gitlab.com/handbook/stock-options/#grant-levels) until the next [board meeting](https://about.gitlab.com/handbook/board-meetings/#board-meeting-schedule).
+**Please Note**: Equity grants require board approval. When communicating, managers should highlight that this equity amount is the proposed amount, but will not be [officially approved](/handbook/stock-options/#grant-levels) until the next [board meeting](/handbook/board-meetings/#board-meeting-schedule).
 
 1. The `new manager` should post the announcement in the `#team-member-updates` Slack channel. This should ideally happen (timezone permitting) on the **same day that the candidate signs their** [Job Change Letter]({{< ref "promotions-transfers#job-change-letter" >}}).
 1. For cases where announcing on the same day the Job Change Letter is signed is not possible, the announcement should be no more than 24 hours after the candidate has signed.
@@ -626,7 +627,7 @@ Company priorities can change and occasionally team members may be asked to tran
 
 #### Types of Team Alignment Changes
 
-There are several types of Team Alignment Changes, including [Global Prioritization](https://about.gitlab.com/handbook/product/product-processes/#prioritize-global) changes, and [Engineering Allocations](https://about.gitlab.com/handbook/product/product-processes/#engineering-allocation), all of which are ways to ensure the organization is prioritizing and delivering effectively.
+There are several types of Team Alignment Changes, including [Global Prioritization](/handbook/product/product-processes/#prioritize-global) changes, and [Engineering Allocations](/handbook/product/product-processes/#engineering-allocation), all of which are ways to ensure the organization is prioritizing and delivering effectively.
 
 The different types of group alignment changes vary in length, purpose, DRI, and overall change impact.
 
@@ -667,15 +668,15 @@ Regardless of the change type, the following steps should always be followed to 
     - Are any team members changing managers?
     - How long will the change be in effect?
 1. Depending on the response to the questions above, the PBP will loop in other groups if needed (I.E. People Operations and/or Legal). Our Legal team only needs to be involved in the process outlined below if: 1) the change is permanent (as opposed to a temporary change), and/or 2) more than just job title specialty and manager is changing (I.E. there is a change to compensation or job title).
-1. The team alignment change DRI is responsible for looping in your [Finance Business Partner](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#our-team) if there are any budgetary changes or headcount tradeoffs associated with the realignment to ensure awareness and ability to fund.
+1. The team alignment change DRI is responsible for looping in your [Finance Business Partner](/handbook/finance/financial-planning-and-analysis/#our-team) if there are any budgetary changes or headcount tradeoffs associated with the realignment to ensure awareness and ability to fund.
 
 ##### Realignment Process
 
-We have process outlined for our various [Global Prioritization](https://about.gitlab.com/handbook/product/product-processes/#prioritize-global) team member alignment changes outlined in addition to [Engineering Allocations](https://about.gitlab.com/handbook/product/product-processes/#engineering-allocation) on the Product Processes page.
+We have process outlined for our various [Global Prioritization](/handbook/product/product-processes/#prioritize-global) team member alignment changes outlined in addition to [Engineering Allocations](/handbook/product/product-processes/#engineering-allocation) on the Product Processes page.
 
 Realignments are used when a permanent assignment to a team is required to resolve ongoing challenges. This has the highest impact to team members and should be considered if other options cannot achieve the desired goal. While the processes that only apply to R&D are listed in the Product Processes page, the Realignment process is outlined below as it could be applied to other departments and divisions at GitLab.
 
-The process below outlines the process for [Realignments](https://about.gitlab.com/handbook/product/product-processes/#prioritize-global) specifically:
+The process below outlines the process for [Realignments](/handbook/product/product-processes/#prioritize-global) specifically:
 
 1. Select a DRI to coordinate the overall realignment process.
 1. Loop in your aligned People Business Partner (PBP) and ensure the `Team Alignment Change Process` steps above are followed.
@@ -708,7 +709,7 @@ A [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-oper
 - Migration from Manager to Individual Contributor (defined as a decrease in management level from Mgr+ to IC within Workday)
 - Migration of Team (for purposes of Career Mobility issues, team changes are defined as a change in both manager & cost center)
 
-Individual contributors moving into a Management level may or may not need their access to be reviewed, please check-in with your current and new manager to confirm this step. If access should be updated follow the AR process documented [here](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/).
+Individual contributors moving into a Management level may or may not need their access to be reviewed, please check-in with your current and new manager to confirm this step. If access should be updated follow the AR process documented [here](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/).
 
 Or, if the team member already has access to the systems and tools needed, the manager can open 'Becoming a GitLab Manager' and 'Interview Training' issues that are housed within the [Traininig Project](https://gitlab.com/gitlab-com/people-group/Training/-/issues/?sort=created_date&state=opened&first_page_size=100) in GitLab.
 - To open the 'Becoming a GitLab Manager' and 'Interview Training' issues visit the Training project in GitLab -> Issues -> New Issue.

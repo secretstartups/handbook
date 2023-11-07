@@ -13,12 +13,12 @@ To ensure that GitLab is proactive in supporting, retaining, and recruiting from
 
 ### Leads
 
-- [Alex Hanselka](https://about.gitlab.com/company/team/#ahanselka)
-- [Helen Mason](https://about.gitlab.com/company/team/#hmason)
+- [Alex Hanselka](/handbook/company/team/#ahanselka)
+- [Helen Mason](/handbook/company/team/#hmason)
 
 ### Executive Sponsor
 
-- [Robin Schulman](https://about.gitlab.com/company/team/#rschulman)
+- [Robin Schulman](/handbook/company/team/#rschulman)
 
 ### Members
 
@@ -45,7 +45,7 @@ To ensure that GitLab is proactive in supporting, retaining, and recruiting from
 
 ## Additional GitLab Resources
 
-- [Gender and Sexual Orientation Identity Definitions and FAQ](https://about.gitlab.com/handbook/people-group/orientation-identity/)
+- [Gender and Sexual Orientation Identity Definitions and FAQ](/handbook/people-group/orientation-identity/)
 
 ## Resources for Being an Ally with the Pride Community
 

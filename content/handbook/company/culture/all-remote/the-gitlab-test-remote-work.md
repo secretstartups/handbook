@@ -46,7 +46,7 @@ There are [valid reasons]({{< ref "./asynchronous#best-practices-guidelines-and-
 
 Prerequisites for this to work well are below.
 
-1. Leveraging a single tool to funnel communication about work (e.g. [GitLab](https://about.gitlab.com/handbook/product/gitlab-the-product), [Friday](https://friday.app), [Dropbox Spaces](https://blog.dropbox.com/topics/product-tips/make-remote-work-easier-with-dropbox-spaces), [Qatalog](https://qatalog.com))
+1. Leveraging a single tool to funnel communication about work (e.g. [GitLab](/handbook/product/gitlab-the-product), [Friday](https://friday.app), [Dropbox Spaces](https://blog.dropbox.com/topics/product-tips/make-remote-work-easier-with-dropbox-spaces), [Qatalog](https://qatalog.com))
 1. Documented [communication guidelines]({{< ref "communication" >}}) on how and where to communicate about work
 1. Executive commitment to [transparency]({{< ref "values#transparency" >}})
 
@@ -58,7 +58,7 @@ It's not enough to have core values documented on a company website. Each core v
 
 ### 5. Does every functional department surface work in a single tool with company-wide visibility?
 
-Different company functions may require different tools to drive results. For example, a Design team may use MURAL, Figma, and Photoshop, while a Marketing Operations team leverages tools like Salesforce and Marketo. Great remote organizations leverage a single tool (e.g. [GitLab](https://about.gitlab.com/handbook/product/gitlab-the-product), [Friday](https://friday.app), [Dropbox Spaces](https://blog.dropbox.com/topics/product-tips/make-remote-work-easier-with-dropbox-spaces), [Qatalog](https://qatalog.com)) to surface work that is happening in department-specific tools. By surfacing ongoing work, via links or other documentation, this central tool acts as organizational glue. It enables a distributed team to discover what other teams are working toward with clicks instead of meetings. This intentional transparency fosters alignment, purpose, and enables feedback to occur earlier.
+Different company functions may require different tools to drive results. For example, a Design team may use MURAL, Figma, and Photoshop, while a Marketing Operations team leverages tools like Salesforce and Marketo. Great remote organizations leverage a single tool (e.g. [GitLab](/handbook/product/gitlab-the-product), [Friday](https://friday.app), [Dropbox Spaces](https://blog.dropbox.com/topics/product-tips/make-remote-work-easier-with-dropbox-spaces), [Qatalog](https://qatalog.com)) to surface work that is happening in department-specific tools. By surfacing ongoing work, via links or other documentation, this central tool acts as organizational glue. It enables a distributed team to discover what other teams are working toward with clicks instead of meetings. This intentional transparency fosters alignment, purpose, and enables feedback to occur earlier.
 
 ### 6. Does your organization work handbook-first?
 
@@ -90,7 +90,7 @@ Great remote organizations actively work against [proximity bias](https://www.pr
 
 ### 12. Do you fund individual workspaces and reimburse for out-of-home office use?
 
-Great remote organizations recognize that there are more than two places to work. While "the office" and "home" are two options, the third space is vast. Platforms such as [Codi](https://www.codi.com), [Gable](https://www.gable.to), and [Switchyards](https://switchyards.com) exist to support these arrangements. Enabling team members to [submit for reimbursement](https://about.gitlab.com/handbook/finance/expenses#-coworking-or-external-office--space) for coworking or external office space indicates that an organization is so sure of its remote-first workflows that it is comfortable empowering people to work from a variety of spaces.
+Great remote organizations recognize that there are more than two places to work. While "the office" and "home" are two options, the third space is vast. Platforms such as [Codi](https://www.codi.com), [Gable](https://www.gable.to), and [Switchyards](https://switchyards.com) exist to support these arrangements. Enabling team members to [submit for reimbursement](/handbook/finance/expenses#-coworking-or-external-office--space) for coworking or external office space indicates that an organization is so sure of its remote-first workflows that it is comfortable empowering people to work from a variety of spaces.
 
 {{% include "includes/is_this_advice_any_good_remote.md" %}}
 

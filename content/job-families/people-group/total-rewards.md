@@ -2,7 +2,7 @@
 title: "Total Rewards"
 ---
 
-The [Total Rewards](https://about.gitlab.com/handbook/total-rewards/) department strategically aligns the three pillars of team member rewards to create optimal organizational performance at GitLab: Compensation, Benefits, and Equity. Total Rewards designs and strategically executes programs in alignment with business goals. Programs fuel motivated and productive team members that are appreciated and rewarded for their contributions, driving GitLab to ever greater success.
+The [Total Rewards](/handbook/total-rewards/) department strategically aligns the three pillars of team member rewards to create optimal organizational performance at GitLab: Compensation, Benefits, and Equity. Total Rewards designs and strategically executes programs in alignment with business goals. Programs fuel motivated and productive team members that are appreciated and rewarded for their contributions, driving GitLab to ever greater success.
 
 ## Total Rewards Job Family Matrix
 
@@ -53,7 +53,7 @@ The [Total Rewards](https://about.gitlab.com/handbook/total-rewards/) department
 
 #### Job Grade
 
-The Benefits Coordinator is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Benefits Coordinator is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -71,7 +71,7 @@ The Benefits Coordinator is a [grade 5](https://about.gitlab.com/handbook/total-
 
 #### Job Grade
 
-The Benefits Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Benefits Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -92,13 +92,13 @@ The responsibilities for a Senior Benefits Analyst will be added at the time of 
 
 #### Job Grade
 
-The Senior Benefits Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Benefits Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Benefits Program Manager
 
 #### Job Grade
 
-The Senior Benefits Program Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Benefits Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -122,7 +122,7 @@ The responsibilities for a Manager, Benefits will be added at the time of a busi
 
 #### Job Grade
 
-The Manager, Benefits is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Benefits is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Compensation
 
@@ -147,7 +147,7 @@ The responsibilities for a Compensation Coordinator will be added at the time of
 
 #### Job Grade
 
-The Compensation Coordinator is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Compensation Coordinator is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Compensation Analyst
 
@@ -155,13 +155,13 @@ The responsibilities for a Compensation Analyst will be added at the time of a b
 
 #### Job Grade
 
-The Compensation Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Compensation Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Compensation Analyst
 
 #### Job Grade
 
-The Senior Compensation Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Compensation Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -187,7 +187,7 @@ The Senior Compensation Analyst is a [grade 7](https://about.gitlab.com/handbook
 
 #### Job Grade
 
-The Senior Compensation Program Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Compensation Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -213,7 +213,7 @@ The Senior Compensation Program Manager is a [grade 7](https://about.gitlab.com/
 
 #### Job Grade
 
-The Compensation Partner is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Compensation Partner is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 **Market Justification:** The business need for an individual contributor Compensation Partner role is to have a team member with a high level of expertise in Compensation to be able to advise the business in the Compensation Philiosophy. This team member will collaborate with People Business Partners and leaders to ensure team members fully understand their total rewards package. In the market, there are over 160 organizations that typically have 2 to 3 Compensation Partners.
 
@@ -244,7 +244,7 @@ The responsibilities for a Manager, Compensation will be added at the time of a 
 
 #### Job Grade
 
-The Manager, Compensation is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Compensation is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Leadership
 
@@ -267,7 +267,7 @@ The responsibilities for a Senior Manager, Total Rewards will be added at the ti
 
 #### Job Grade
 
-The Senior Manager, Total Rewards is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Total Rewards is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Director, Total Rewards
 
@@ -275,7 +275,7 @@ The responsibilities for a Director, Total Rewards will be added at the time of 
 
 ### Job Grade
 
-The Director, Total Rewards is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Total Rewards is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Senior Director, Total Rewards
 
@@ -283,7 +283,7 @@ The Senior Director, Total Rewards leads the development and administration of o
 
 ### Job Grade
 
-The Senior Director, Total Rewards is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Total Rewards is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -307,14 +307,14 @@ The next step in the Total Rewards job family is to move to the VP, Total Reward
 
 ## Total Rewards Performance Indicators
 
-- [Percentage over compensation band](https://about.gitlab.com/handbook/people-group/people-group-metrics/#percent-over-compensation-band)
-- [Average location factor](https://about.gitlab.com/handbook/people-group/people-group-metrics/#average-location-factor)
+- [Percentage over compensation band](/handbook/people-group/people-group-metrics/#percent-over-compensation-band)
+- [Average location factor](/handbook/people-group/people-group-metrics/#average-location-factor)
 - [New hire location factor](/#new-hire-location-factor)
-- [Pay equality](https://about.gitlab.com/company/culture/inclusion/#performance-indicators)
+- [Pay equality](/handbook/company/culture/inclusion/#performance-indicators)
 
 ### Hiring Process
 
-Candidates for Total Rewards can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for Total Rewards can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Qualified candidates will be invited to schedule a 30 minute screening call with a Recruiting Manager
 - Next, candidates will be invited to a 45 minute interview with the Hiring Manager.
@@ -322,4 +322,4 @@ Candidates for Total Rewards can expect the hiring process to follow the order b
 - Then, candidates may be invited to schedule a 45 minute interview with a People Business Partner.
 - Final, candidates will be invited to schedule a 50 minute interview with a business leader
 
-As always, the interviews and screening call will be conducted via a [video call](https://about.gitlab.com/handbook/communication/#video-calls). See more details about our interview process [here](https://about.gitlab.com/handbook/hiring/interviewing/).
+As always, the interviews and screening call will be conducted via a [video call](/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).

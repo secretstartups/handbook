@@ -13,7 +13,7 @@ decsription: "This page outlines resources for managers who organize in person t
 
 As a leader in all-remote work, it's important that we recognize the value and impact of time spent in the same location. Meaningful time spent together influences the trust and results our teams build. Co-located companies often gather for `offsites` to connect in a new location. In our all-remote environment, we call in-person team meetings `onsites`.
 
-This page is an `onsite` planning resource for people managers at GitLab. Use these suggestions to guide the way you plan in-person time for your team. Our additional [considerations for in person time](https://about.gitlab.com/company/culture/all-remote/in-person/) advise the wider GitLab community on how to make the most of time spent at conferences, in person meetings, and other types of meetups.
+This page is an `onsite` planning resource for people managers at GitLab. Use these suggestions to guide the way you plan in-person time for your team. Our additional [considerations for in person time](/handbook/company/culture/all-remote/in-person/) advise the wider GitLab community on how to make the most of time spent at conferences, in person meetings, and other types of meetups.
 
 Leading an `onsite` for your team might be outside your comfort zone. The resources on this page will equip you to feel confident organizing an in-person team event. Lean into the skills that make you a great manager as you plan.
 
@@ -52,7 +52,7 @@ Be transparent in your planning to maximize both attendance and engagement:
 
 1. **Ask for input from your team early and often:** What do folks on your team want to do during their time together? What are they not interested in?
 1. **Set expectations:** Leave nothing as a suprise. Build psychological safety by planning out in the open so folks know what to expect.
-1. **Share resources:** Share resources like our [expense handbook](https://about.gitlab.com/handbook/finance/expenses/), [travel handbook](https://about.gitlab.com/handbook/travel/), [support for nursing mothers](https://about.gitlab.com/handbook/finance/expenses/#supporting-nursing-mothers), and [considerations for working while traveling](https://about.gitlab.com/company/culture/all-remote/working-while-traveling/).
+1. **Share resources:** Share resources like our [expense handbook](/handbook/finance/expenses/), [travel handbook](/handbook/travel/), [support for nursing mothers](/handbook/finance/expenses/#supporting-nursing-mothers), and [considerations for working while traveling](/handbook/company/culture/all-remote/working-while-traveling/).
 1. **Plan in advance:** Some functions and roles at GitLab are accustomed to work travel - others are not. Give time to plan and organize scheules to maximize attendance and presence.
 
 ### Develop a shared reality
@@ -135,10 +135,10 @@ Customize the templates as needed. We suggestion you start with the `Onsite Plan
 
 ## Additional Resources
 
-1. [Travel Guidelines](https://about.gitlab.com/handbook/travel/)
-1. [Travel support for nursing mothers](https://about.gitlab.com/handbook/finance/expenses/#supporting-nursing-mothers)
-1. [Expense Guidelines](https://about.gitlab.com/handbook/finance/expenses/)
-1. [Considerations for working while traveling](https://about.gitlab.com/company/culture/all-remote/working-while-traveling/)
+1. [Travel Guidelines](/handbook/travel/)
+1. [Travel support for nursing mothers](/handbook/finance/expenses/#supporting-nursing-mothers)
+1. [Expense Guidelines](/handbook/finance/expenses/)
+1. [Considerations for working while traveling](/handbook/company/culture/all-remote/working-while-traveling/)
 
 ## Contribute
 

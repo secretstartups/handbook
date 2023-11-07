@@ -29,31 +29,31 @@ Diversity, Inclusion and Belonging ([DIB]({{< ref "inclusion" >}})) are fundamen
 
 ## Organization
 
-- [Darva Satcher](https://about.gitlab.com/company/team/#dsatcher), Director, Engineering
+- [Darva Satcher](/handbook/company/team/#dsatcher), Director, Engineering
 
 ### Instructors
 
 The GitLab instructors below have volunteered their time to create the course content that made this course possible. A special thanks goes out to each person listed below:
 
-- [Brendan O’Leary](https://about.gitlab.com/company/team/#brendan), Senior Developer Evangelist
-- [Michael Friedrich](https://about.gitlab.com/company/team/#dnsmichi), Developer Evangelist
+- [Brendan O’Leary](/handbook/company/team/#brendan), Senior Developer Evangelist
+- [Michael Friedrich](/handbook/company/team/#dnsmichi), Developer Evangelist
 - Darren Murph, Head of Remote
-- [Paul Slaughter](https://about.gitlab.com/company/team/#pslaughter), Senior Frontend Engineer
-- [Tim Zallmann](https://about.gitlab.com/company/team/#timzallmann), Director of Engineering
-- [Ash McKenzie](https://about.gitlab.com/company/team/#ashmckenzie), Staff Backend Engineer
-- [Florie Guibert](https://about.gitlab.com/company/team/#fguibert), Senior Frontend Engineer
-- [Taurie Davis](https://about.gitlab.com/company/team/#tauriedavis), Product Design Manager
-- [Darren Eastman](https://about.gitlab.com/company/team/#DarrenEastman), Senior Product Manager
-- [Ezekiel Kigbo](https://about.gitlab.com/company/team/#ekigbo), Senior Frontend Engineer
-- [Dave Smith](https://about.gitlab.com/company/team/#dawsmith), Engineering Manager, Reliability
-- [Andrew Kelly](https://about.gitlab.com/company/team/#ankelly), Senior Security Engineer
-- [Alishan Ladhani](https://about.gitlab.com/company/team/#ali-gitlab), Backend Engineer
-- [David O'Regan](https://about.gitlab.com/company/team/#oregand), Engineer Manager
-- [Dennis Tang](https://about.gitlab.com/company/team/#dennis), Frontend Engineering Manager
-- [Thomas Randolph](https://about.gitlab.com/company/team/#thomasrandolph), Senior Frontend Engineer
-- [Eric Schurter](https://about.gitlab.com/company/team/#ericschurter), Senior Product Manager
-- [Sean Carroll](https://about.gitlab.com/company/team/#sean_carroll), Engineering Manager
-- [Sharif Bennett](https://about.gitlab.com/company/team/#SharifATL), Mid Market Account Executive
+- [Paul Slaughter](/handbook/company/team/#pslaughter), Senior Frontend Engineer
+- [Tim Zallmann](/handbook/company/team/#timzallmann), Director of Engineering
+- [Ash McKenzie](/handbook/company/team/#ashmckenzie), Staff Backend Engineer
+- [Florie Guibert](/handbook/company/team/#fguibert), Senior Frontend Engineer
+- [Taurie Davis](/handbook/company/team/#tauriedavis), Product Design Manager
+- [Darren Eastman](/handbook/company/team/#DarrenEastman), Senior Product Manager
+- [Ezekiel Kigbo](/handbook/company/team/#ekigbo), Senior Frontend Engineer
+- [Dave Smith](/handbook/company/team/#dawsmith), Engineering Manager, Reliability
+- [Andrew Kelly](/handbook/company/team/#ankelly), Senior Security Engineer
+- [Alishan Ladhani](/handbook/company/team/#ali-gitlab), Backend Engineer
+- [David O'Regan](/handbook/company/team/#oregand), Engineer Manager
+- [Dennis Tang](/handbook/company/team/#dennis), Frontend Engineering Manager
+- [Thomas Randolph](/handbook/company/team/#thomasrandolph), Senior Frontend Engineer
+- [Eric Schurter](/handbook/company/team/#ericschurter), Senior Product Manager
+- [Sean Carroll](/handbook/company/team/#sean_carroll), Engineering Manager
+- [Sharif Bennett](/handbook/company/team/#SharifATL), Mid Market Account Executive
 
 ## Career Stories
 

@@ -1,0 +1,80 @@
+---
+
+title: "Product develoment flow releases"
+canonical_path: "/handbook/product-development-flow/releases/"
+---
+
+<%
+# set the total number of releases to display. includes upcoming and past
+release_cnt = 12
+overviews = Hash.new { |hash, key| hash[key] = Hash.new(&hash.default_proc) }
+
+# Put all milestone release notes here. Create a new block for each milestone following the pattern.
+# You must have the `overviews["xx.x"] = <<-xx_x` opening and `xx_x` closing line exactly or the notes
+# will not be picked up. The entire page might also fail to render properly.
+overviews["13.8"] = <<-13_8
+* Incorporate final feedback and close remaining issues on the [PD-FLOW Working group board](https://about.gitlab.com/company/team/structure/working-groups/product-development-flow/)
+* General GitLab team contributions
+13_8
+
+# do not include or modify anything after this section
+%>
+
+<% cnt = 0 # do not modify this %>
+<% pdf_releases["Product Operations,product development flow,prodops:release"].keys.sort_by {
+    |x|
+    x1, x2 = x.split(".")
+    x1.to_i * 100 + x2.to_i
+   }.reverse.each do |release| %>
+    <% next if pdf_releases["Product Operations,product development flow,prodops:release"][release]["content"].blank? || (cnt >= release_cnt) %>
+    <% cnt += 1 %>
+### <%= release %> (<%= pdf_releases["Product Operations,product development flow,prodops:release"][release]["date"] %>)
+    <% if !overviews[release].empty? %>
+
+<%= overviews[release] %>
+
+    <% end %>
+##### Changes
+<%= pdf_releases["Product Operations,product development flow,prodops:release"][release]["content"] %>
+
+<% end %>
+
+### 13.7 (2020-12-22)
+
+* Incorporate feedback from 13.6 Gitlab [dogfooding](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9453) and [13.5 engineering review feedback](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9263)
+* Various topics including clarification of content, removal of optional labels and addressing processes for teams without SETs
+
+##### Changes
+* [Add additional information to explain why the PDF isn't waterfall](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70210)
+* [Issue refinement suggestions for PD-workflow](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70706)
+* [Incorporate Current Quad Planning process as part of the new pd flow](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9130)
+* [Clarify or remove workflow::scheduling and workflow::ready for development](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9252)
+* [Move issue reviews from pdflow to product process page](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70247)
+* [Make workflow diagram clickable](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9813)
+* [Casing Consistency follow-up from "Draft: Product Development Flow v1.1 (Milestone 13.6) Changelog"](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/10095)
+* [Add responsibilities of a appsec engineer in Build phase 2](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69584)
+* [Testing strategy for groups with no SET](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69579)
+* [Update intro to better reflect goal of latest pd-flow version](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70684)
+* [Product Development Flow: Add `workflow::refinement` as optional step to build phase 1](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70388/diffs)
+* [Product Development Flow: standardized job titles](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70389)
+
+### 13.6 (2020-11-22)
+
+* Introduce interactive/improved visuals for workflow table and required items*
+* Clarify required outcomes and optimize resources/links for activities as well as alternate issues types such as bugs
+* Find opportunities to reduce/remove content from the page to create better focus on the flow
+* Review and improve cross-functional from TWs, UXRs and stakeholders
+
+##### Changes
+* [Product Development Flow v1.1 (Milestone 13.6) Changelog](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69131)
+
+### 13.5 (2020-10-22)
+
+* New structure and core content to shift to an outcomes/activities model.
+* Introduced key participants table to clarify collaborators at each phase
+* Replaced specific step by step instructions in each phase with potential activities to achieve specific outcomes
+* Specified what’s required in each phase to labels and outcomes, leveraging Required 🔎
+
+##### Changes
+* [Product Development Flow v1 Beta (Milestone 13.5) Changelog](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/66118)
+

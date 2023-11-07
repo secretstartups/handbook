@@ -67,7 +67,7 @@ Your buddy is not expected to take over your tickets while you are out, but they
 
 ### Does the Time Off Buddies program account for holidays?
 
-Not specifically. For holidays, follow the Support team guidelines around [holiday time off ticket management](https://about.gitlab.com/handbook/support/support-time-off.html#how-support-handles-holidays).
+Not specifically. For holidays, follow the Support team guidelines around [holiday time off ticket management](/handbook/support/support-time-off.html#how-support-handles-holidays).
 
 ### Does my buddy need to be in the same region as me?
 

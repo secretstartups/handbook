@@ -13,7 +13,7 @@ The Associate Customer Success Operations Analyst reports to the [Manager, Custo
 
 #### Job Grade
 
-The Associate Customer Success Operations Analyst is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Customer Success Operations Analyst is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -45,7 +45,7 @@ The Customer Success Operations Analyst (Associate) reports to the [Manager, Cus
 
 #### Job Grade
 
-The Customer Success Operations Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Customer Success Operations Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -77,7 +77,7 @@ The Senior Customer Success Operations Analyst reports to the [Manager, Customer
 
 #### Job Grade
 
-The Customer Success Operations Analyst (Senior) is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Customer Success Operations Analyst (Senior) is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -98,7 +98,7 @@ The Staff Customer Success Operations Manager reports to the [Senior Manager, Cu
 
 #### Job Grade
 
-The Staff Customer Success Operations Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Customer Success Operations Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -131,7 +131,7 @@ The Manager Customer Success Operations reports to the [Director Customer Succes
 
 #### Job Grade
 
-The Manager Customer Success Operations is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager Customer Success Operations is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -162,7 +162,7 @@ The Manager Customer Success Operations is a [grade 8](https://about.gitlab.com/
 - You share our values and work in accordance with those values
 - Ability to use GitLab
 - Experience with agile/DevOps and/or SDLC process and/or tools is a plus
-- [Leadership at GitLab](https://about.gitlab.com/handbook/leadership/#management-group)
+- [Leadership at GitLab](/handbook/leadership/#management-group)
 
 ### Senior Manager, Customer Success Operations
 
@@ -170,7 +170,7 @@ The Senior Manager, Customer Success Operations reports to the [Director Custome
 
 #### Job Grade
 
-The Senior Manager, Customer Success Operations is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Customer Success Operations is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -200,19 +200,19 @@ The Senior Manager, Customer Success Operations is a [grade 9](https://about.git
 ## Performance Indicators
 
 - SMAU
-- [CSAT](https://about.gitlab.com/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
-- [PNPS](https://about.gitlab.com/handbook/product/performance-indicators/#gitlab-com-paid-net-promoter-score-pnps)
+- [CSAT](/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
+- [PNPS](/handbook/product/performance-indicators/#gitlab-com-paid-net-promoter-score-pnps)
 - [Churn & customer retention metrics](https://about.gitlab.com/handbook/customer-success/vision/#retention-and-reasons-for-churn)
 
 ## Career Ladder
 
-The Customer Success Operations Job Family would flow into the [Director Customer Success Operations](https://about.gitlab.com/job-families/sales/director-customer-operations/) Job Family.
+The Customer Success Operations Job Family would flow into the [Director Customer Success Operations](/job-families/sales/director-customer-operations/) Job Family.
 
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Selected candidates will be invited to schedule a 30min [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30min [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 teammates
 - Finally, candidates may be asked to complete a final interview with our leadership team

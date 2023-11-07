@@ -10,7 +10,7 @@ The Deal Desk Specialist reports to Manager, Deal Desk.
 
 #### Deal Desk Specialist Job Grade
 
-The Deal Desk Specialist is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Deal Desk Specialist is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Deal Desk Specialist Responsibilities
 
@@ -52,7 +52,7 @@ The Deal Desk Analyst reports to the Manager, Deal Desk.
 
 #### Deal Desk Analyst Job Grade
 
-The Deal Desk Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Deal Desk Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Deal Desk Analyst Responsibilities
 
@@ -93,7 +93,7 @@ The Deal Desk Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rew
 
 #### Deal Desk Analyst (Alliances) Job Grade
 
-The Deal Desk Analyst (Alliances) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Deal Desk Analyst (Alliances) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Deal Desk Analyst (Alliances) Responsibilities
 
@@ -133,7 +133,7 @@ The Senior Deal Desk Analyst reports to the Manager, Deal Desk.
 
 #### Senior Deal Desk Analyst Job Grade
 
-The Senior Deal Desk Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Deal Desk Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Deal Desk Analyst Responsibilities
 
@@ -181,7 +181,7 @@ The Manager, Deal Desk reports to the Senior Manager, Deal Desk.
 
 #### Manager, Deal Desk Job Grade
 
-The Manager, Deal Desk is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Deal Desk is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Deal Desk Responsibilities
 
@@ -219,7 +219,7 @@ The Senior Manager, Deal Desk reports to the [Sr. Director, Sales Operations](/j
 
 #### Senior Manager, Deal Desk Job Grade
 
-The Senior Manager, Deal Desk is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Deal Desk is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Deal Desk Responsibilities
 
@@ -243,7 +243,7 @@ The Senior Director, Deal Desk reports to the [Sr. Director, Sales Operations](/
 
 #### Senior Manager, Deal Desk Job Grade
 
-The Senior Director, Deal Desk is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Deal Desk is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, Deal Desk Responsibilities
 
@@ -291,11 +291,11 @@ The next steps for the Deal Desk Job Family is to move to the [Sales Operations]
 
 ## Hiring Process
 
-Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a 30min [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30min [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 Team Members
 - There may be a final executive interview
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

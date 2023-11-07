@@ -60,7 +60,7 @@ The [Security Team](https://about.gitlab.com/handbook/security) is responsible f
 
 #### Job Grade
 
-The Security Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Security Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Security Engineer
 
@@ -80,7 +80,7 @@ A Senior Security Engineer may decide to pursue the [security engineering manage
 
 #### Job Grade
 
-The Senior Security Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Security Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Staff Security Engineer
 
@@ -97,7 +97,7 @@ The Staff Security Engineer role extends the [Senior Security Engineer](#senior-
 
 #### Job Grade
 
-The Staff Security Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Security Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Principal Security Engineer
 
@@ -118,7 +118,7 @@ The Principal Security Engineer role extends the [Staff Security Engineer](#staf
 
 #### Job Grade
 
-The Principal Security Engineer is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Security Engineer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Distinguished Security Engineer
 
@@ -139,7 +139,7 @@ The Distinguished Security Engineer role extends the [Principal Security Enginee
 
 #### Job Grade
 
-The Distinguished Security Engineer is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Distinguished Security Engineer is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Staff+ Initiatives
 
@@ -280,7 +280,7 @@ Security Automation Requirements
 
 SIRT Engineers are the firefighters of the GitLab Security Team.  As a Security Engineer in SIRT your daily duties will include incident response, log analysis, forensics, tooling and automation development, as well as contributing to strategic improvements to the GitLab products and GitLab.com services.  Successful Security Engineers thrive in high-stress environments and can think like both an attacker and defender, have the ability to engage with and mentor more junior Security Engineers, and can help come up with proactive and preventative security measures to keep GitLab and its user’s data safe.
 
-More information about the SIRT role is described in the persona of [Alex, SIRT Engineer](https://about.gitlab.com/handbook/product/personas/#alex-security-operations-engineer)
+More information about the SIRT role is described in the persona of [Alex, SIRT Engineer](/handbook/product/personas/#alex-security-operations-engineer)
 
 SIRT Responsibilities
 
@@ -340,11 +340,11 @@ Trust & Safety Requirements
 
 Security Assurance Engineers enable Sales and support go-to-market by achieving standards as required by our customers and helping to secure the organization. This includes SaaS, self-managed, and open source instances.
 
-- Please refer to the [Security Assurance](https://about.gitlab.com/handbook/security/security-assurance/) page for additional information.
-  - [Security Compliance](https://about.gitlab.com/job-families/security/security-compliance/)
-  - [Field Security](https://about.gitlab.com/job-families/security/field-security/)
-  - [Security Risk](https://about.gitlab.com/job-families/security/security-risk/)
-  - [Security Governance](https://about.gitlab.com/job-families/security/security-governance/)
+- Please refer to the [Security Assurance](/handbook/security/security-assurance/) page for additional information.
+  - [Security Compliance](/job-families/security/security-compliance/)
+  - [Field Security](/job-families/security/field-security/)
+  - [Security Risk](/job-families/security/security-risk/)
+  - [Security Governance](/job-families/security/security-governance/)
 
 ### Security Architect
 
@@ -368,7 +368,7 @@ This role reports directly to the CISO. Generally we would see this specialty to
 
 ## Security Engineer Hiring Process
 
-All interviews are conducted using Zoom video conferencing software. Candidates for Security Engineer roles can expect the hiring process to follow the order below, with modifications to the process as required, based on specific situations. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+All interviews are conducted using Zoom video conferencing software. Candidates for Security Engineer roles can expect the hiring process to follow the order below, with modifications to the process as required, based on specific situations. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 #### Screening call with Recruiter
 
@@ -386,7 +386,7 @@ All interviews are conducted using Zoom video conferencing software. Candidates 
 - 60 Minute Interview with Director of Security or CISO, or both
 
 As always, the interviews and screening call will be conducted via a video call.
-See more details about our hiring process on the [hiring handbook](https://about.gitlab.com/handbook/hiring/).
+See more details about our hiring process on the [hiring handbook](/handbook/hiring/).
 
 ## Career Ladder
 

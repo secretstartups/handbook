@@ -323,7 +323,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 #### Business Cards
 
 - Business cards are ordered from Moo as per the instructions provided by the People Connect team.
-- To be ordered via Moo, attach a receipt from Moo. Refer to the Ordering Business Cards handbook page.
+- To be ordered via Moo, attach a receipt from Moo. Refer to the [Ordering Business Cards](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/frequently_requested/#ordering-business-cards) handbook page.
 - Limit is set at $150 per quarter.
 - Expenses higher than this limit require manager's approval via email. The email should be attached to the expense transaction as an additional receipt.
 
@@ -434,7 +434,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 ### Laptops, insurance and repairs
 
 - All laptops are purchased through GitLab unless a Team Member is in a region where GitLab cannot deliver a laptop.
-- Team Member laptops can be refreshed after three years of employment. If a Team Member needs a replacement laptop due to damage, they must reach out to IT via an issue before purchasing a new one. See [Laptop handbook page](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/) for your reference.
+- Team Member laptops can be refreshed after three years of employment. If a Team Member needs a replacement laptop due to damage, they must reach out to IT via an issue before purchasing a new one. See [Laptop handbook page](/handbook/business-technology/end-user-services/onboarding-access-requests/) for your reference.
 
 #### Repairs to company issued equipment
 
@@ -455,7 +455,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 
 - Small purchases for marketing events which are under $5,000 USD and which cannot be paid through the Procurement Process (Zip) are reimbursable.
 - Up to $5,000 can be expensed via Navan.
-- >$5,000 needs to go through the procurement process in [Zip](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/).
+- >$5,000 needs to go through the procurement process in [Zip](/handbook/business-technology/enterprise-applications/guides/zip-guide/).
 
 {{% panel header="**Coding**" header-bg="green" %}}
 - **Expense Type / Navan Policy Category:** Other
@@ -524,7 +524,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 
 - No software subscriptions are reimbursable.
 - Team Members that would like to purchase software will need to go through the Procurement process.
-- Please follow the Guidance from the [Individual Use Software Handbook Page](https://about.gitlab.com/handbook/finance/procurement/personal-use-software/).
+- Please follow the Guidance from the [Individual Use Software Handbook Page](/handbook/finance/procurement/personal-use-software/).
 
 ### Swag
 

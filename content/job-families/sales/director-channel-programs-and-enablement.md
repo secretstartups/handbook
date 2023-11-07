@@ -8,7 +8,7 @@ The Director of Partner Programs & Enablement helps manage and support the growt
 
 ### Job Grade
 
-The Director, Channel Programs & Enablement is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Channel Programs & Enablement is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -36,9 +36,9 @@ The Director, Channel Programs & Enablement is a [grade 10](https://about.gitlab
 - Innovation and the ability to gain consensus is necessary
 - Works extremely well as a member of a team, but also excels as an individual contributor
 - You share our values, and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ## Senior Channel Program Manager
 
@@ -46,7 +46,7 @@ The Channel Program Manager will be responsible for the design, management & exe
 
 ### Job Grade
 
-The Senior Channel Program Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Channel Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -78,7 +78,7 @@ The Senior Director, Channel Programs & Enablement reports to the [VP of Global 
 
 ### Job Grade
 
-The Senior Director, Channel Programs & Enablement is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Channel Programs & Enablement is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -99,4 +99,4 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Phone screen with a GitLab Recruiting team member
 1. Video Interview with the Hiring Manager
 1. Team Interviews with 1-4 teammates
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

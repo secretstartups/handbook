@@ -10,7 +10,7 @@ title: Software renewals and add-on
 ## How Do I Submit a Request to Renew/Add-On to my Agreement?
 
 Please follow the [video](https://www.loom.com/share/d63bd25ca50a40bea630ed82a742aac0) instruction or below steps to submit a req:
-1. [Login to Coupa](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-access-coupa) via Okta.
+1. [Login to Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-access-coupa) via Okta.
 1. Under "Forms", select "Software Renewal Request", complete the required fields and click "Submit".
 1. Click on your Cart in the upper right, complete remaining fields. Be prepared to include the following:
     - Whether or not the software will have access to [red and/or orange data]({{< ref "data-classification-standard#data-classification-levels" >}})

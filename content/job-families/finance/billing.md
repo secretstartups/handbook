@@ -13,7 +13,7 @@ The Billing Operations Associate reports to the Manager, Billing or above.
 
 #### Billing Operations Associate Job Grade
 
-The Billing Operations Associate is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Billing Operations Associate is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Billing Operations Associate Responsibilities
 
@@ -42,7 +42,7 @@ The Billing Operations Analyst reports to the Manager, Billing or above.
 
 #### Billing Operations Analyst Job Grade
 
-The Billing Operations Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Billing Operations Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Billing Operations Analyst Responsibilities
 
@@ -83,7 +83,7 @@ The Senior Billing Operations Analyst reports to the Manager, Billing or above.
 
 #### Senior Billing Operations Analyst Job Grade
 
-The Senior Billing Operations Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Billing Operations Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Billing Operations Analyst Responsibilities
 
@@ -115,7 +115,7 @@ The Senior Billing Operations Analyst is a [grade 7](https://about.gitlab.com/ha
 
 #### Lead Billing Operations Analyst Job Grade
 
-The Lead Billing Operations Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Lead Billing Operations Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Lead Billing Operations Analyst Responsibilities
 
@@ -148,7 +148,7 @@ The Manager, Billing Reports to the Sr. Manager, Billing or above.
 
 #### Manager, Billing Operations Job Grade
 
-The Manager, Billing is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Billing is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Billing Operations Responsibilities
 
@@ -191,7 +191,7 @@ The Senior Manager, Billing Reports into the Director, Billing & Collections.
 
 #### Senior Manager, Billing Job Grade
 
-The Senior Manager, Billing is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Billing is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager Billing Responsibilities
 
@@ -237,7 +237,7 @@ The Director, Billing & Collections reports to the Senior Director, Billing & Co
 
 #### Director, Billing and Collections Job Grade
 
-The Director, Billing and Collections is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Billing and Collections is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Billing and Collections Responsibilities
 
@@ -277,7 +277,7 @@ The Director, Billing & Collections reports to the VP, Revenue Accouting.
 
 #### Senior Director, Billing and Collections Job Grade
 
-The Director, Billing and Collections is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Billing and Collections is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, Billing and Collections Responsibilities
 
@@ -304,9 +304,9 @@ The Director, Billing and Collections is a [grade 11](https://about.gitlab.com/h
 
 ## Performance Indicators
 
-- [Average days of sales outstanding](https://about.gitlab.com/handbook/finance/accounting/#accounts-receivable-performance-indicators)
-- [Time for Invoices to be generated when a deal is closed won in Salesforce](https://about.gitlab.com/handbook/finance/accounting/#accounts-receivable-performance-indicators)
-- [Percentage of ineffective Sox Controls](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Average days of sales outstanding](/handbook/finance/accounting/#accounts-receivable-performance-indicators)
+- [Time for Invoices to be generated when a deal is closed won in Salesforce](/handbook/finance/accounting/#accounts-receivable-performance-indicators)
+- [Percentage of ineffective Sox Controls](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
 
 ## Career Ladder
 
@@ -314,10 +314,10 @@ The next step in the Billing & Collections job family is to move to the [Revenue
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/)
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/)
 
 - Qualified candidates will be invited to schedule a 30 minute screening call with a member of the Recruitment team
 - Then, candidates will be invited to schedule a 45 minute interviews with the Hiring Manager and a 30 minute interview with a Peer
 - Finally, candidates will be invited to a 45 minute interview with a member of the Executive team.
 
-As always, the interviews and screening call will be conducted via a [video call](https://about.gitlab.com/handbook/communication/#video-calls). See more details about our interview process [here](https://about.gitlab.com/handbook/hiring/interviewing/).
+As always, the interviews and screening call will be conducted via a [video call](/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).

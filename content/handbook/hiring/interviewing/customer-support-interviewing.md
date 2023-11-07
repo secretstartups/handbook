@@ -36,8 +36,8 @@ It is important to us to create an accessible and inclusive interview experience
 Now it's time to get excited! Here are some links that might help you understand our company and the role even better:
 
 - [Values]({{< ref "values" >}})
-- [GitLab Company Culture](https://about.gitlab.com/company/culture/)
-- [Informal Communication in an all-remote environment](https://about.gitlab.com/company/culture/all-remote/informal-communication/)
+- [GitLab Company Culture](/handbook/company/culture/)
+- [Informal Communication in an all-remote environment](/handbook/company/culture/all-remote/informal-communication/)
 - [Support Team Handbook]({{< ref "/handbook/support" >}})
 - [Support Engineer Responsibilities]({{< ref "support-engineer-responsibilities" >}})
 - [Support Workflows]({{< ref "/handbook/support/workflows" >}})

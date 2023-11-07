@@ -49,7 +49,7 @@ Aim to grab a ticket from the FRT stage and become the DRI for that ticket. If y
 
 #### NRT Stage
 
-There are several variables that can be taken into consideration when deciding how to get involved with tickets in the NRT stage. As a general rule, we default to [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) and all its operating principles.
+There are several variables that can be taken into consideration when deciding how to get involved with tickets in the NRT stage. As a general rule, we default to [Collaboration](/handbook/values/#collaboration) and all its operating principles.
 
 For documentation purposes, the following table was devised as a reference guideline:
 

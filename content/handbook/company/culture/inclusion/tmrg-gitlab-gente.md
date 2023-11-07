@@ -40,7 +40,7 @@ To promote advancement, cultural awareness, talent recruitment, retention, and p
 ## Upcoming Events
 
 - Gente TMRG Monthly Call: Monthly on the first Thursday 6:00pm – 6:25pm UTC [Notes](https://docs.google.com/document/d/12dYSDjiVvFt-c6UO9y350pFbrrK5Iq2o/edit)
-- Gente [Reverse AMA](https://handbook.gitlab.com/handbook/communication/ask-me-anything/#reverse-ask-me-anything) with CEO (Every 3-6 months): [Interest Form](https://docs.google.com/forms/d/19wwWuehn0PDtOwGq3Eh83hUbXWEEsawlhCZ4D-ecP_w/viewform?edit_requested=true)
+- Gente [Reverse AMA](/handbook/communication/ask-me-anything/#reverse-ask-me-anything) with CEO (Every 3-6 months): [Interest Form](https://docs.google.com/forms/d/19wwWuehn0PDtOwGq3Eh83hUbXWEEsawlhCZ4D-ecP_w/viewform?edit_requested=true)
 - Hispanic Heritage Month – [Issue](https://gitlab.com/gitlab-com/latinx-tmrg/-/issues/86)
 - `#gente-cafecito` [slack channel donut coffee chats](https://gitlab.slack.com/archives/C04NH46BXQU) (every two weeks)
 

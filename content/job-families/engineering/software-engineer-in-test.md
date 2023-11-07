@@ -17,11 +17,11 @@ strong engineering principles, and methodical problem-solving skills.
 CI/CD, and load balancing.
 - Have the ability to grow your knowledge of GitLab provisioning and setup tools like Terraform and Ansible.
 - Setup and maintain new GitLab test environments.
-- You’ll work on test automation issues related to the Quality department, the [stage group you're embedded in](https://about.gitlab.com/handbook/product/categories/#devops-stages), and the entire GitLab product. The work you’ll do will be [transparent and open to the GitLab community](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Quality)
+- You’ll work on test automation issues related to the Quality department, the [stage group you're embedded in](/handbook/product/categories/#devops-stages), and the entire GitLab product. The work you’ll do will be [transparent and open to the GitLab community](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Quality)
 - Participate in test pipeline triage rotation and ensure pipeline failures are triaged promptly.
 - Develop working knowledge of the entire GitLab application stack including tests at all levels. (Unit, Integration, and End-to-end).
 - Groom and prune GitLab tests at all levels to ensure optimal coverage and effective deduplication.
-- Collaborate with a [Product Manager and with the wider product and development team](https://about.gitlab.com/handbook/product-development-flow/#build-track) to understand how new features should be tested and to contribute to automated tests for these new features.
+- Collaborate with a [Product Manager and with the wider product and development team](/handbook/product-development-flow/#build-track) to understand how new features should be tested and to contribute to automated tests for these new features.
 - Collaborate with engineers to define and implement mechanisms to inject testing earlier into the software development process.
 - Identify, share, and nurture the adoption of best practices in code health, testing, testability, and maintainability in collaboration with the wider Quality department. You should champion clean code and the concept of the test pyramid.
 - Analyze complex software systems and collaborate with others to improve the overall design, testability, and quality.
@@ -39,7 +39,7 @@ You see distributed systems as a core challenge of good test automation infrastr
 - You’re interested in growing your knowledge and skills in Test Environment Provisioning and Configuring using technologies like Terraform, Ansible, Kubernetes, GCP, or AWS
 - You have experience with Continuous Integration systems (e.g., Jenkins, Travis, GitLab)
 - Our [values](/handbook/values/) of collaboration, results, efficiency, diversity, iteration, and transparency resonate with you
-- You’ll thrive in an environment where [self-learning and self-service](https://about.gitlab.com/company/culture/all-remote/self-service/#self-service-and-self-learning-in-onboarding) is encouraged and instilled as a part of our culture
+- You’ll thrive in an environment where [self-learning and self-service](/handbook/company/culture/all-remote/self-service/#self-service-and-self-learning-in-onboarding) is encouraged and instilled as a part of our culture
 - Ability to use GitLab
 
 ## Levels
@@ -54,7 +54,7 @@ You see distributed systems as a core challenge of good test automation infrastr
 
 #### Job Grade
 
-The Software Engineer in Test is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Software Engineer in Test is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -66,7 +66,7 @@ The Software Engineer in Test responsibilities have been documented under [Inter
 
 #### Job Grade
 
-The Senior Software Engineer in Test is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Software Engineer in Test is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -78,7 +78,7 @@ The Senior Software Engineer in Test responsibilities have been documented under
 
 #### Job Grade
 
-The Staff Software Engineer in Test is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Software Engineer in Test is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -103,7 +103,7 @@ Candidates for this position can expect the hiring process to follow the order b
 Please keep in mind that candidates can be declined from the position at any stage of the process.
 As a result an interview can be canceled at any time even if the interviews are very close (e.g. a few hours apart).
 
-To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Candidates will complete a technical assessment when they apply. Sometimes this will be shared by our Talent Acquisiton team after an application is made.
 - Qualified candidates will be invited to schedule a 30 minute screening call with our Talent Acquisiton team.
@@ -113,4 +113,4 @@ To learn more about someone who may be conducting the interview, find their job 
 - Finally, candidates will be invited to schedule a 45 minute interview with the Head of Quality.
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).

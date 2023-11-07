@@ -3,7 +3,7 @@ title: "Navan Expense Tech Stack Guide"
 description: "Reference for how TripActions Liquid is implemented."
 ---
 
-> **Note:** Refer to the **[Tech Stack Index](https://about.gitlab.com/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/)** to manage Apps.
+> **Note:** Refer to the **[Tech Stack Index](/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](/handbook/business-technology/tech-stack-applications/)** to manage Apps.
 
 {{% tech-stack "Navan Expense" %}}
 

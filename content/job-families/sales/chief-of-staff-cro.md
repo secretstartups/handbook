@@ -13,7 +13,7 @@ The responsibilities include both directed work initiated by the CRO as well as 
 - Leads key priorities and projects across the global Sales team
 - Acts as a sounding board to the CRO and CRO leadership team for new ideas and initiatives.
 - Acts as a thought partner to the CRO, CRO leadership team, executive leadership team, and cross-functional teams on strategy, company policies, and operating systems
-- Initiate and guide the CRO team OKR process according to the [OKR schedule](https://handbook.gitlab.com/handbook/company/okrs/#schedule) in partnership with the CoS, CEO
+- Initiate and guide the CRO team OKR process according to the [OKR schedule](/handbook/company/okrs/#schedule) in partnership with the CoS, CEO
 - Helps define, drive, and run CRO-level and relevant business reviews including CRO QBRs
 - Work closely with internal teams on goal-setting and tracking, interfacing, and consulting with cross-functional groups
 - Develops and maintain strong relationships with executives, senior leaders, and stakeholders to achieve project objectives and deliverables
@@ -23,7 +23,7 @@ The responsibilities include both directed work initiated by the CRO as well as 
 - Effectively triages escalations. Our teams often rely heavily on quick root-cause analyses and fast information sharing. Time-sensitive escalations may include driving cross-functional conversations to get to the bottom of complex issues that have become business blockers or helping ensure a fast turnaround for specific prospects and customer needs
 - Maintains and fosters a close partnership with the CEO’s Chief of Staff on strategic initiatives
 - Maintains and fosters a close partnership with the Sales Strategy & Analytics and the broader Field Operations Teams
-This role does not overlap with the responsibilities [Executive Business Administrators](https://handbook.gitlab.com/job-families/people-group/executive-business-administrator/) handle. This role could have EBA support, will work closely with the EBA to the CRO to ensure the CRO’s time is well managed and prioritized according to the top business objectives.
+This role does not overlap with the responsibilities [Executive Business Administrators](/job-families/people-group/executive-business-administrator/) handle. This role could have EBA support, will work closely with the EBA to the CRO to ensure the CRO’s time is well managed and prioritized according to the top business objectives.
 - Manages weekly executive staff meetings, including, but not limited to, providing feedback on top priorities and insights to inform strategic conversations.
 - Assists in the preparation for external meetings including board meetings
 - Run and manage various partner and client meetings with clear agendas, follow-ups, and next steps
@@ -55,12 +55,12 @@ This role does not overlap with the responsibilities [Executive Business Adminis
 
 #### Job Grade
 
-The Chief of Staff to the CRO is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Chief of Staff to the CRO is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Performance Indicators
 
 - [Sales KPIs](https://internal.gitlab.com/handbook/company/performance-indicators/sales/#kpi-summary)
-- CRO Quarterly OKR process is initiated and delivered on time per the [company process](https://about.gitlab.com/company/okrs/#okr-process-at-gitlab). CoS collaboratively includes all stakeholders and cascades information transparently to ensure alignment across the CRO Org. During the quarter, CoS partners with DRI’s to maintain the status of OKRs in preparation for the monthly key meeting and ensures that all OKRs are scored at the end of the quarter and results are communicated.
+- CRO Quarterly OKR process is initiated and delivered on time per the [company process](/handbook/company/okrs/#okr-process-at-gitlab). CoS collaboratively includes all stakeholders and cascades information transparently to ensure alignment across the CRO Org. During the quarter, CoS partners with DRI’s to maintain the status of OKRs in preparation for the monthly key meeting and ensures that all OKRs are scored at the end of the quarter and results are communicated.
 
 ## Career Ladder
 
@@ -72,4 +72,4 @@ The hiring process for this role is yet to be defined. It will include interview
 
 
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/)
+Additional details about our process can be found on our [hiring page](/handbook/hiring/)
