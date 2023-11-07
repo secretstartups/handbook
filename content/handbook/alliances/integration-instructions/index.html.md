@@ -1,14 +1,14 @@
 ---
-layout: markdown_page
+
 title: "GitLab Integration Instructions"
 description: Learn about integrating with GitLab, as well as partnership, marketing, and licensing opportunities.
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Instructions for getting listed as a GitLab Technology Partner
 
