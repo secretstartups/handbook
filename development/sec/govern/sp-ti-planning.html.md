@@ -203,6 +203,8 @@ A list of the steps that will need to be followed to verify this feature. The ve
 
 The purpose of the issue verification procedures is to aid in better understanding the expected change in the application after implementing the issue. Other engineers will be able to evaluate the issue and identify any application components that may have dependencies or have been ignored and that require further testing thanks to the verification steps.
 
+When writing verification steps for a feature or bug fix, it's important to include both positive and negative scenarios. This helps ensure that the feature or fix only works when specific criteria are met and not in every situation. For example, when verifying MR Approval Policies, you should provide a scenario where approval is required when the policy is violated, and another scenario where approval is not needed when the policy is not violated. This approach allows for a more thorough and accurate testing process.
+
 ## Verification
 The issue verification should be done by someone else other than the MR author[^4].
 
