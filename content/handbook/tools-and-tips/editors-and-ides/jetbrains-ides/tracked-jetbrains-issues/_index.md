@@ -79,10 +79,18 @@ Keep these sections sorted alphabetically. They are headers so that they can be 
 - Link: <https://youtrack.jetbrains.com/issue/RUBY-31543/Fixtures-declared-with-letitbe-from-test-prof-gem-cannot-be-found-and-give-RubyResolve-warning>
 - Notes: Requires `# noinspection RubyResolve`
 
+### RUBY-32041
+
+- Title: Mismatched argument type inspection false positive on RSpec parameterized table syntax
+- Link: <https://youtrack.jetbrains.com/issue/RUBY-32041>
+- Notes: Requires `# noinspection RubyMismatchedArgumentType`.
+  Note that this is different than <#ruby-31544> (<https://youtrack.jetbrains.com/issue/RUBY-31544/Cannot-find-fixtures-defined-with-RSpecParameterizedTableSyntax-causes-RubyResolve-warning>), which appears to be fixed in the latest EAP.
+  RUBY-32041 seems to be specific to using `Array` types with `RSpec::Parameterized::TableSyntax`.
+
+## Closed Issues
+
 ### RUBY-31544
 
 - Title: Cannot find fixtures defined with `RSpec::Parameterized::TableSyntax`, causes `RubyResolve` warning
 - Link: <https://youtrack.jetbrains.com/issue/RUBY-31544/Cannot-find-fixtures-defined-with-RSpecParameterizedTableSyntax-causes-RubyResolve-warning>
 - Notes: Requires `# noinspection RubyResolve`
-
-## Closed Issues
