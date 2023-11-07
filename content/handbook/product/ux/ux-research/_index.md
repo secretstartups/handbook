@@ -55,6 +55,7 @@ Below is a full list of our UX Research team handbook content:
 - [Usability benchmarking](/handbook/product/ux/ux-research/usability-benchmarking/)
 - [Unmoderated usability testing](/handbook/product/ux/ux-research/unmoderated-testing/)
      - [Writing a website usability testing script](/handbook/product/ux/ux-research/writing-usability-testing-script/)
+- [UX Bash](/handbook/product/ux/ux-research/ux-bash/)
 - [Preference testing](/handbook/product/ux/ux-research/preference-testing/)
 - [Facilitating user interviews](/handbook/product/ux/ux-research/facilitating-user-interviews/)
      - [Writing a discussion guide for user interviews](/handbook/product/ux/ux-research/discussion-guide-user-interviews/)
