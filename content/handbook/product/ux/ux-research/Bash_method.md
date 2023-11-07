@@ -1,6 +1,6 @@
 ---
 
-title: "Bash Method"
+title: "UX Bash"
 description: "A quick and efficient way to identify bugs and improve the user experience"
 ---
 
@@ -10,24 +10,25 @@ description: "A quick and efficient way to identify bugs and improve the user ex
 
 
 
-### Introduction to the Bash Method
+### Introduction to the UX Bash
 
 A Bash is a research method where a group of participants, whether diverse or targeted, thoroughly use a feature to efficiently uncover as many pain-points as possible. 
 
-The idea is that each participant will use the feature differently, resulting in a large amount of varied feedback in a short amount of time. Bashes usually take place over 24 hours, enabling asynchronous participation. 
+The idea is that each participant will use the feature differently, resulting in a large amount of varied feedback in a short amount of time. Bashes usually take place over 24 hours, enabling asynchronous participation.  
 
-Benefits of the Bash method:
+Benefits of a UX Bash:
 - Quickly and efficiently identify and prioritize usability issues.
 - Discover software bugs, glitches, and inconsistencies.
 - Uncover areas for feature enhancements and improvements.
 - Collect user feedback to enhance the product experience.
+- Turn around results to the team in 48 hours.
 
 
-### Appropriate situations for a Bash:
+### Appropriate situations for a UX Bash:
 
-Bashes are useful when [foundational research](https://about.gitlab.com/handbook/product/ux/ux-research/foundational-research/) has already been conducted, but your team is trying to fine tune the experience before broader release, as quickly as possible. It is also well suited for when a feature is only available internally and it would be difficult to set up a test environment and recruit external users. Bashes offer a cost-effective and efficient supplement to more extensive [solution validation methodologies](https://about.gitlab.com/handbook/product/ux/ux-research/solution-validation-and-methods/).
+Bashes are useful when [foundational research](https://about.gitlab.com/handbook/product/ux/ux-research/foundational-research/) has already been conducted, but your team is trying to fine tune the experience before broader release, as quickly as possible. It is also well suited for when a feature is only available internally and it would be difficult to set up a test environment and recruit external users. Bashes offer a cost-effective and efficient supplement to more extensive [solution validation methodologies](https://about.gitlab.com/handbook/product/ux/ux-research/solution-validation-and-methods/). 
 
-### How to set up a Bash:
+### How to set up a UX Bash:
 
 #### Step 1. Define Bash Goals
 - Clearly define what you want to achieve through the Bash (e.g., identify as many different bugs as possible).
