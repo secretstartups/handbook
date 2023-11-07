@@ -54,7 +54,7 @@ A successful Field Marketing Manager has substantial understanding of sales-focu
 
 ### Additional Requirements for EMEA
 
-- Past experience running marketing to develop DACH, BENELUX, Nordics, and/or UK & Ireland.
+- Past experience running marketing to develop DACH, BENELUX, Nordics, Southern Europe, and/or UK & Ireland.
 - Robust understanding of marketing to the automotive, banking, and tech sectors.
 
 ## Field Marketing Manager
