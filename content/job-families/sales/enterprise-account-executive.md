@@ -226,11 +226,14 @@ As part of the application, candidates can expect the following stages.
 ### Stages
 
 #### 1. Initial Screen - Recruiter
+
 - Candidates are invited to schedule an interview with the Recruiter.
 - Areas of focus (as defined in GitLab Handbook):
     - Results
     - Collaboration
+
 #### 2. Initial Interview - Hiring Manager
+
 - Candidates are invited to schedule an interview with the Hiring Manager.
 - Areas of focus (as defined in GitLab Handbook):
     - Results
@@ -239,7 +242,9 @@ As part of the application, candidates can expect the following stages.
     - Operational Excellence - Growth Mindset
     - Operational Excellence - Process Discipline
     - Iteration
+
 #### 3. Mock Presentation - Panel
+
 - Candidates are invited to schedule a presentation with 3 interviewers from the team.
 - Areas of focus (as defined in GitLab Handbook):
     - Solutions Focus - Consultative approach
@@ -248,7 +253,9 @@ As part of the application, candidates can expect the following stages.
     - Customer Focus - Facilitating
     - Customer Focus - Understanding Customer’s Needs
     - Efficiency
+
 #### 4. Final Interview - Senior Leadership
+
 - Candidates are invited to schedule an interview with senior leadership.
 - Areas of focus (as defined in GitLab Handbook):
     - Operational Excellence - Resource Orchestration
