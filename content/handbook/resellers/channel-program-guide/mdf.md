@@ -1,5 +1,5 @@
 ---
-
+aliases: /handbook/resellers/Channel-Program-Guide/MDF
 title: "Marketing Development Funds"
 description: "Marketing Development Funds Overview"
 ---
@@ -75,7 +75,7 @@ Instructions on how to accept/reject/reassign a lead or register a deal and subm
 ### Funds reimbursement Requirements
 - Submission of a payment claim (invoice) within 30 calendar days of completion of the activity via the MDF Reimbursement Request form on the GitLab Partner Portal.
 - Supporting documentation based on the activity, [documented here](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/MDF/#eligible-activities-and-required-proof-of-performance-mdf-activities) <br/>
-**AND**<br/>  
+**AND**<br/>
 - Invoice
       *Invoice will be accepted from the Partner only
       * It must clearly state the MDF activity name in the description

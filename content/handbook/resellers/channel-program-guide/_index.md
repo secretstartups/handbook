@@ -1,5 +1,5 @@
 ---
-
+aliases: /handbook/resellers/Channel-Program-Guide
 title: "GitLab Channel Program Guide"
 description: "GitLab Channel partner program guide."
 ---

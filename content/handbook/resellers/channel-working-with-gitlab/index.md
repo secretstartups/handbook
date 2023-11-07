@@ -1,5 +1,5 @@
 ---
-
+aliases: /handbook/resellers/channel-working-with-GitLab
 title: "Channel Partners: Working with GitLab"
 description: "How channel Partners can work with GitLab."
 ---
