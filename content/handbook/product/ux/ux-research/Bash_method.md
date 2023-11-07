@@ -70,7 +70,7 @@ Bashes are useful when [foundational research](https://about.gitlab.com/handbook
    - Creating a calendar event for the Bash and emailing participants the day before the Bash is a best practice.
 
 #### Step 5. Bash
-- Remind participants about the Bash and its goals via the Bash Slack channel.
+- Remind participants about the Bash and its goals via the Bash Slack channel you created.
    - <img src='Bash_Slack_guide.png' ALT='Example of a Slack Bash Guide'>
    - <img src='Bash_Slack_reminder.png' ALT='Example of a Slack Bash Reminder'>
 - Respond to questions as they come up during the Bash. Note: It is okay to not answer questions about technical limitations in order to get a closer approximation of natural behavior, but let the participant know that.
