@@ -83,7 +83,7 @@ Systems are assigned a critical system tier based on the following matrix:
   <tr>
     <td class="tg-e02t">Tier 4 Administrative</td>
     <td class="tg-zqun">Affects GitLab team members only at an individual level (e.g., quality of life, individual productivity)</td>
-    <td class="tg-zqun">Clockwise, Donut, LinkedIn Learning</td>
+    <td class="tg-zqun">Donut, LinkedIn Learning</td>
     <td class="tg-zqun">Combination of Tier 2 Support and Tier 3 Non-critical and influenced by responses to BIA</td>
   </tr>
 </tbody>
@@ -98,7 +98,7 @@ Systems are assigned a critical system tier based on the following matrix:
 <span style="color:#DB3B21;"><b>\**</b></span> By default, any system that contains <b>RED Data</b> per the [Data Classification Standard]({{< ref "data-classification-standard#red" >}}) OR is a [Third Party Sub-Processor](https://about.gitlab.com/privacy/subprocessors/#third-party-sub-processors) will be a **Tier 1 Mission Critical** system. This is due to the fact that this data is customer owned and uploaded and as such, has been deemed to be mission critical in nature.
 {{% /note %}}
 {{% note %}}
-<span style="color:#DB3B21;"><b>*\*\*</b></span> By default, any system in-scope for [SOX](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/) will be a **Tier 2 Business Critical** system, at minimum.
+<span style="color:#DB3B21;"><b>*\*\*</b></span> By default, any system in-scope for [SOX](/handbook/internal-audit/sarbanes-oxley/) will be a **Tier 2 Business Critical** system, at minimum.
 {{% /note %}}
 {{% /panel %}}
 
@@ -109,10 +109,6 @@ Tiering systems utilized across GitLab enables team members to make decisions on
 ### Maintaining Critical System Tiers
 
 The Critical System Tier for existing systems is re-evaluated as part of the periodic [BIA]({{< ref "business-impact-analysis#existing-systems-frequency-based-on-critical-system-tier" >}}) process. A system's assigned tier can be found in the [tech_stack.yml file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) which is the Single Source of Truth for all systems used at GitLab.
-
-## Exceptions
-
-Systems that are exempt from this methodology include any system which carries a data classification of Green. All remaining systems which store or process YELLOW, ORANGE, or RED data are required to have a critical system tier assigned. Data classification will be validated to corroborate that the data stored or processed by the system is truly Green data, per the [Data Classification Standard]({{< ref "data-classification-standard#green" >}}).
 
 ## References
 

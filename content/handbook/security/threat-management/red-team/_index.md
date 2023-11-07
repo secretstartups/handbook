@@ -44,7 +44,7 @@ Opportunistic attacks are documented in issues that are visible to all team memb
 
 If vulnerabilities are discovered, we will exploit them and work to safely demonstrate maximum impact. This may involve establishing persistence, escalating privileges, and other common attack techniques.
 
-When immediate action is required, we will follow the standard process for [contacting security](https://about.gitlab.com/handbook/security/#-contacting-the-team). For vulnerabilities that appear wide-spread or recurring, we will create an issue inside the [Vulnerability Management issue tracker](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnerability-management-tracker/-/issues) to implement automated scanning capabilities.
+When immediate action is required, we will follow the standard process for [contacting security](/handbook/security/#-contacting-the-team). For vulnerabilities that appear wide-spread or recurring, we will create an issue inside the [Vulnerability Management issue tracker](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnerability-management-tracker/-/issues) to implement automated scanning capabilities.
 
 We list examples of [opportunistic attack techniques]({{< ref "red-team-roe#opportunistic-attack-techniques" >}}) inside our rules of engagement.
 
@@ -107,7 +107,7 @@ We use MITRE's "[ATT&CK Navigator](https://github.com/mitre-attack/attack-naviga
 
 This is great way to visualize the types of attack techniques we've emulated, and to help us understand areas we should focus on in future operations.
 
-GitLab team members can [access the application](https://red-team-dashboard-gitlab-com-gl-security-threat-6d74b7b3ac5937.gitlab.io/) as well as [the project that builds it](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-internal/automation/ci-attack-navigator).
+GitLab team members can [access the application](https://navigator.gl-redteam.com/) as well as [the project that builds it](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-internal/automation/ci-attack-navigator).
 
 #### Red Team Maturity Model
 

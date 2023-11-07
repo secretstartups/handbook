@@ -10,7 +10,7 @@ The Public Sector Insides Sales Representative reports intot the Manager, Public
 
 #### Public Sector Inside Sales Representative Job Grade
 
-The Public Sector Inside Sales Representative is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Public Sector Inside Sales Representative is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Public Sector Inside Sales Representative Responsibilities
 
@@ -23,7 +23,7 @@ The Public Sector Inside Sales Representative is a [grade 6](https://about.gitla
 - Work with government contract officers to ensure RFQ’s are responded and closed in a timely manner. This would include working with the Public Sector Inside Sales Manager to determine which partners could bring value if we assign them to run with an account.
 - Work with Channel Managers to team on call campaigns and quotes for RFQs through distribution.
 - Manage Reseller relationships: Quoting, Lead generation, Renewals, Product and price list updates.
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/#travel-guidance-covid-19). Federal, LLC team members need to also comply with the applicable vaccination policies.
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/#travel-guidance-covid-19). Federal, LLC team members need to also comply with the applicable vaccination policies.
 
 #### Public Sector Inside Sales Representative Requirements
 
@@ -45,7 +45,7 @@ The Senior Public Sector Insides Sales Representative reports intot the Manager,
 
 #### Senior Inside Sales Representative Job Grade
 
-The Senior Inside Sales Representative is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Inside Sales Representative is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Public Sector Inside Sales Representative Responsibilities
 
@@ -64,7 +64,7 @@ The Manager, Public Sector Insides Sales reports to a Federal Sales Director.
 
 #### Manager, Public Sector Insides Sales Job Grade
 
-The Manager, Public Sector Inside Sales is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Manager, Public Sector Inside Sales is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Manager, Public Sector Insides Sales Responsibilities
 
@@ -86,7 +86,7 @@ The Manager, Public Sector Insides Sales reports to a Federal Sales Director.
 
 #### Senior Manager, Public Sector Inside Sales Job Grade
 
-The Public Sector Senior Inside Sales Manager, is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Public Sector Senior Inside Sales Manager, is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Senior Manager, Public Sector Inside Sales Responsibilities
 
@@ -123,18 +123,18 @@ The next steps for the Public Sector Inside Sales Job Family is to move to the [
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
+- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will interview with 2 - 4 Team Members
 - Candidates may be invited to schedule a second interview with our CRO
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Compensation
 
 You will typically get 50% as base and 50% based on commission. See our
 [market segmentation](https://about.gitlab.com/handbook/sales/#market-segmentation) for
 typical quotas in the U.S.
-Also see the [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/).
+Also see the [Sales Compensation Plan](/handbook/finance/sales-comp-plan/).

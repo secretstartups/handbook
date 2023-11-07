@@ -9,12 +9,12 @@ description: "At GitLab, being a CEO shadow is not a job title, but a temporary 
 
 At GitLab, being a CEO shadow is not a job title, but a temporary assignment to shadow the CEO.
 The shadows will be present at [all meetings of the CEO]({{< ref "ceo#ceo-meeting-cadence" >}}) during their rotation.
-GitLab is an [all-remote](https://about.gitlab.com/company/culture/all-remote/) company, but the CEO has in-person meetings with external organizations.
+GitLab is an [all-remote](/handbook/company/culture/all-remote/) company, but the CEO has in-person meetings with external organizations.
 Unless you're joining the program during one of our [remote rotations](#remote-shadow-rotations), you will stay in San Francisco during the entire [rotation](#rotation-rhythm) and travel with the CEO.
 
 ### Goal
 
-The goal of the CEO Shadow Program is to give team members and [eligible individuals](#eligibility) an overview of all aspects of the [company](https://about.gitlab.com/company/). This transparency enables CEO Shadow participants to better engage and collaborate cross-functionally, as well as better perform [global optimizations]({{< ref "values#global-optimization" >}}).
+The goal of the CEO Shadow Program is to give team members and [eligible individuals](#eligibility) an overview of all aspects of the [company](/handbook/company/). This transparency enables CEO Shadow participants to better engage and collaborate cross-functionally, as well as better perform [global optimizations]({{< ref "values#global-optimization" >}}).
 
 As a CEO Shadow, you'll gain this context through the [meetings you attend](#meetings--events) and while [completing]({{< ref "values#bias-for-action" >}}) short-term [tasks](#tasks) from across the company.
 The program also creates opportunities for the CEO to build relationships with team members across the company and to identify challenges and opportunities earlier.
@@ -95,7 +95,7 @@ All GitLab team members are eligible to apply for the CEO Shadow Program.
 
 Exceptions to eligibility:
 
-CEO Shadow rotations will be reserved for [All-Directs](https://about.gitlab.com/company/team/structure/#all-directs) during the week of [E-Group Offsites](https://about.gitlab.com/company/offsite/#schedule). An exception will be made if there is last minute availability as two All-Directs are not available to serve in this role during this window.
+CEO Shadow rotations will be reserved for [All-Directs](/handbook/company/team/structure/#all-directs) during the week of [E-Group Offsites](/handbook/company/offsite/#schedule). An exception will be made if there is last minute availability as two All-Directs are not available to serve in this role during this window.
 
 **COVID-19 Note:** During this time, all shadow rotations are fully remote.
 Given the CEO generally works from 8 a.m. to 6 p.m. Pacific,
@@ -132,10 +132,10 @@ The shadow should be available for the full two weeks.
 When the CEO has a week or more of paid time off, or during [Contribute](https://about.gitlab.com/events/gitlab-contribute/), the program will pause, one shadow will "see one" before the break and "teach one" after the break.
 The rotations with breaks of one or more weeks without a shadow are great if you can't be away from home for more than one week at a time.
 
-If you need childcare to be able to participate, GitLab will [reimburse you](https://about.gitlab.com/handbook/spending-company-money/) for it.
+If you need childcare to be able to participate, GitLab will [reimburse you](/handbook/spending-company-money/) for it.
 
 This program is not limited just to long-term GitLab team members.
-For new team members, this might even be the first thing they do after completing our [onboarding](https://about.gitlab.com/handbook/people-group/general-onboarding/).
+For new team members, this might even be the first thing they do after completing our [onboarding](/handbook/people-group/general-onboarding/).
 Exceptional community members may be able to participate, as well.
 
 ### Rotation schedule
@@ -171,7 +171,7 @@ If you have questions regarding the planned rotation schedule, please ping the [
 1. Don't plan to do any of your usual work. Prepare your team as if you were on vacation. In Time Off by Deel, you should select "CEO Shadow Program" as the type, and assign someone to cover for you while you are in the program. This type of Time Off by Deel is set as "Available" which sets Slack status and a free / visibility calendar event only. You may disable the Slack OOO auto-responder within `Time Off by Deel app > Slack > CEO Shadow Program` if you find it obtrusive.
 1. Be ready to add a number of [handbook]({{< ref handbook-usage >}}) updates during your shadow period.
 1. Participating in the shadow program is a privilege where you will be exposed to confidential information, including having access to material non-public information (MNPI). Participation in the shadow program and access to such information is underpinned by trust in the shadows to honor the confidentiality of topics being discussed and information shared. The continuation of this program is entirely dependent on shadows past, present, and future honoring this trust placed in them. As stated in GitLab's [Insider Trading Policy] (drive.google.com/file/d/1c2tX4IK3GofrsA6N_i4Sr72hOcI1_g_q/view), participants in the shadow program will be considered Designated Insiders because shadows have access to MNPI. Each participant of the CEO shadow program or other E-Group level shadow program will be added to the Designated Insider list for the quarter in which they are program participants. Each shadow will be removed from the Designated Insider list once the window has closed for the same quarter they participate as a shadow only if that is the sole reason the participant is on the Designated Insider list. For additional information, please see the [Designated Insider Pre-Clearance Process and FAQs](https://docs.google.com/document/d/1mcBtnfGbv4jSsJUklMQYyj2052MBHe4Lf9RkE-B9yvA/edit#).
-1. Give feedback to and receive feedback from the CEO. Participants in the shadow program are encouraged to deliver [candid feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedback). Examples of this are to the CEO and to the world about the company if they make a blog post or video. Shadows maintaining confidentiality during the program is separate from shadows being able to provide candid feedback.
+1. Give feedback to and receive feedback from the CEO. Participants in the shadow program are encouraged to deliver [candid feedback](/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedback). Examples of this are to the CEO and to the world about the company if they make a blog post or video. Shadows maintaining confidentiality during the program is separate from shadows being able to provide candid feedback.
 
 ### What to wear
 
@@ -211,7 +211,7 @@ Feel free to schedule a coffee chat with any of the CEO Shadow Alumni. You can r
 
 #### Coffee Chat with the CLO
 
-This session is designed to answer any questions you may have about your learnings or observations during your time in the Shadow Program. Should it be useful or complementary to your time as a CEO Shadow, our [Chief Legal Officer (CLO)](https://handbook.gitlab.com/job-families/legal-and-corporate-affairs/chief-legal-officer/) hosts Monthly Shadow Chats.
+This session is designed to answer any questions you may have about your learnings or observations during your time in the Shadow Program. Should it be useful or complementary to your time as a CEO Shadow, our [Chief Legal Officer (CLO)](/job-families/legal-and-corporate-affairs/chief-legal-officer/) hosts Monthly Shadow Chats.
 
 Please @ mention the CLO's [Sr. EBA]({{< ref "eba#executive-business-administrator-team" >}}) in `#ceo-shadow` should you wish to be added to an upcoming session, or if you would like to schedule a 1:1 coffee chat with the CLO. This option is available to all Shadows, past, present, and future.
 
@@ -235,10 +235,10 @@ The CEO has a [section in the handbook]({{< ref ceo >}}) that details processes 
 
 #### Review acronyms
 
-If you're not familiar with some of the business acronyms, take a bit of time to review them. The [Product Performance Indicators](https://about.gitlab.com/handbook/product/performance-indicators/) handbook page has some useful acronyms as well as concepts you're likely to come across.
+If you're not familiar with some of the business acronyms, take a bit of time to review them. The [Product Performance Indicators](/handbook/product/performance-indicators/) handbook page has some useful acronyms as well as concepts you're likely to come across.
 
-- [KPI (Key Performance Indicator)](https://about.gitlab.com/company/kpis/#what-are-kpis)
-- [OKRs (Objectives and Key Results)](https://about.gitlab.com/company/okrs/#what-are-okrs)
+- [KPI (Key Performance Indicator)](/handbook/company/kpis/#what-are-kpis)
+- [OKRs (Objectives and Key Results)](/handbook/company/okrs/#what-are-okrs)
 - Product performance indicators such as [CMAU (Combined Monthly Active User)(Internal link)](https://internal.gitlab.com/handbook/company/performance-indicators/product/#estimated-combined-monthly-active-users-cmau) and [SpU (Stages per User )(Internal link)](https://internal.gitlab.com/handbook/company/performance-indicators/product/#stages-per-user-spu)
 - [Revenue definitions (Internal link)](https://internal.gitlab.com/handbook/sales/sales-glossary/) such as [ARR (Annual Recurring Revenue)(Internal link)](https://internal.gitlab.com/handbook/sales/annual-recurring-revenue-arr/)
 - Other business terminology may come up. [Wall Street Oasis Finance Dictionary](https://www.wallstreetoasis.com/finance-dictionary#DicT) is a handy guide.
@@ -258,14 +258,14 @@ For insights on maximizing a remote CEO Shadow rotation, view takeaway recap vid
 
 #### Tips for remote shadows
 
-1. Be sure that you have an [ergonomic workspace](https://about.gitlab.com/company/culture/all-remote/workspace/). You'll be taking lots of notes during meetings, and will want a comfortable setup.
+1. Be sure that you have an [ergonomic workspace](/handbook/company/culture/all-remote/workspace/). You'll be taking lots of notes during meetings, and will want a comfortable setup.
 1. Communicate clearly with your co-shadow about shared tasks since you will not be working together in person.
 1. Consider alternating who leads note-taking from one meeting to the next, which reduces confusion on who writes first and who follows from one event to the next.
-1. Take breaks from your desk when there is a break in the CEO's schedule. Because you're not working from Mission Control or traveling to other meetings with the CEO, it's important to take time to [move around.](https://about.gitlab.com/company/culture/all-remote/tips/#dedicate-time-for-health-and-fitness)
-1. Depending on your time zone, working in Pacific Time may be an adjustment to your typical working hours. [Plan ahead,](https://about.gitlab.com/company/culture/all-remote/getting-started/#establish-routine-with-family-and-friends) especially if you're balancing responsibilities with family, pets, roommates, etc.
+1. Take breaks from your desk when there is a break in the CEO's schedule. Because you're not working from Mission Control or traveling to other meetings with the CEO, it's important to take time to [move around.](/handbook/company/culture/all-remote/tips/#dedicate-time-for-health-and-fitness)
+1. Depending on your time zone, working in Pacific Time may be an adjustment to your typical working hours. [Plan ahead,](/handbook/company/culture/all-remote/getting-started/#establish-routine-with-family-and-friends) especially if you're balancing responsibilities with family, pets, roommates, etc.
 1. Consider switching locations in your home or workspace during the CEO's 1:1 meetings. Since you [won't be taking active notes](#responsibilities) in these calls, this is a good opportunity to change position or scenery intermittently throughout the day.
 1. Particularly in a remote CEO Shadow rotation, life is more available to sidetrack you. It is OK if you need to drop from a meeting to handle tasks at home, from childcare to answering the door, or anything in between. GitLab puts [family and friends first, work second]({{< ref "values#family-and-friends-first-work-second" >}}). If feasible, communicate these instances in the `#ceo-shadow` Slack channel so your co-shadow can assist with ongoing note-taking/tasks.
-1. Consider taking one or two days off after your rotation. Being a CEO shadow can be intense. Be aware of [symptoms of burnout](https://about.gitlab.com/handbook/paid-time-off/#recognizing-burnout).
+1. Consider taking one or two days off after your rotation. Being a CEO shadow can be intense. Be aware of [symptoms of burnout](/handbook/paid-time-off/#recognizing-burnout).
 
 ## What to expect during the program
 
@@ -339,7 +339,7 @@ Tweet storm examples:
 #### CEO's Calendar
 
 1. At the start of the week, review the CEO's calendar. The CEO's calendar is the single source of truth. Shadows should check the CEO's calendar for updates often. You will not be invited to each meeting. Meetings that the shadows may **not** attend will have a separate calendar entry on the CEO's schedule that states "No CEO Shadows". When in doubt, reach out to the CEO's Executive Business Admin to confirm if you should attend or not. There will be some meetings and events the shadows do not attend. Do not feel obligated to attend every meeting — all meetings are considered optional.
-1. As a reminder, you should have your title updated within your last name on zoom. During the Shadow rotation update your title to "CEO Shadow". [Here is the how to](https://about.gitlab.com/handbook/tools-and-tips/zoom/#adding-your-title-to-your-name) update your title as part of your last name to ensure it shows up on zoom.
+1. As a reminder, you should have your title updated within your last name on zoom. During the Shadow rotation update your title to "CEO Shadow". [Here is the how to](/handbook/tools-and-tips/zoom/#adding-your-title-to-your-name) update your title as part of your last name to ensure it shows up on zoom.
 1. Add the CEO's calendar to your Google Calendar by clicking the `+` next to "Other Calendars". Then click `Subscribe to Calendar`, search for the CEO's name, and click enter.
 1. Because candidate interviews are marked as "private" (busy) for confidentiality reasons, the Executive Business Admin will invite the shadows to those events directly. As a result, you will get an email from Greenhouse asking for candidate feedback, which is not necessary.
 1. Meetings with those outside of GitLab may not be on Zoom. Prior to the call, check the CEO's calendar and load any other conferencing programs that may be needed. It may be necessary to dial in via phone for audio-conferences. If you have any problems confirming the link, reach out to the `#ceo-shadow` slack channel.
@@ -352,7 +352,7 @@ There are three types of meetings on the CEO's calendar: GitLab meetings, Valley
 
 You will attend all GitLab meetings of the CEO, including but not limited to:
 
-1. [1-1s](https://about.gitlab.com/handbook/leadership/1-1/) with reports.
+1. [1-1s](/handbook/leadership/1-1/) with reports.
 1. Interviews with candidates.
 1. Conversations with board members.
 
@@ -452,7 +452,7 @@ Here are the responsibilities shadows have during meetings:
 | 1-1                              | No notes unless requested | No timekeeping unless requested |
 | Legal meetings outside of Key Reviews/GCs/etc. (see [doc](https://docs.google.com/document/d/1vkHile2eHVTEl1S7-qv4eEFDc64ghUSesBfvFNz7qfI/edit) for details)                | No notes       | Timekeeping    |
 | GitLab Board meetings (e.g Audit Committee, Compensation)              | No notes       | Timekeeping in chat   |
-| 1-1 meetings with a GitLab [Board Member](https://about.gitlab.com/handbook/board-meetings/#board-of-directors)      | No notes       | Timekeeping    |
+| 1-1 meetings with a GitLab [Board Member](/handbook/board-meetings/#board-of-directors)      | No notes       | Timekeeping    |
 | Internal meeting (CEO not host)  | Notes optional | Timekeeping    |
 | [Valley Meetings](#valley-meetings)  | No notes       | Timekeeping    |
 | Customer Meeting    | Yes, please use the externally-shared collaboration doc | Timekeeping |
@@ -640,7 +640,7 @@ If your CEO shadow rotation is two consecutive weeks, it is expected you will be
 
 #### Airfare
 
-Airfare can be booked according to our [travel policy](https://about.gitlab.com/handbook/travel/) or [spending company money](https://about.gitlab.com/handbook/spending-company-money/) policy.
+Airfare can be booked according to our [travel policy](/handbook/travel/) or [spending company money](/handbook/spending-company-money/) policy.
 In case your shadow rotation includes time without shadowing, it is possible to expense airfare to fly home and back within the continental USA. If you are from outside of the USA, it is also possible to expense airfare during the time without shadowing because of the possible high cost of lodging in San Francisco if you chose to stay at a different location.
 
 ##### Rideshare from airport
@@ -649,7 +649,7 @@ At San Francisco International airport (SFO), all rideshare apps (Uber, Lyft, et
 
 #### Meals
 
-Shadows are able to expense food and beverage during their rotation and should follow our [spending company money](https://about.gitlab.com/handbook/spending-company-money/) policy.
+Shadows are able to expense food and beverage during their rotation and should follow our [spending company money](/handbook/spending-company-money/) policy.
 
 #### Childcare
 
@@ -669,7 +669,7 @@ When traveling with the CEO, keep the following in mind:
 
 ### Travel Guidance: COVID-19
 
-Our top priority is the health and safety of our team members, please refer to the current [travel policy](https://about.gitlab.com/handbook/travel/#travel-guidance-covid-19). The CEO Shadow program is classified as non-essential travel and travel to San Francisco will not be required during the time frame specified in the policy linked. CEO Shadows joining the program should plan on participating in the program remotely and matching the CEO's schedule which is primarily in the Pacific time zone unless the CEO is traveling to another time zone. If you have questions please use `#ceo-shadow` in slack and @ mention the [Staff EBA to the CEO]({{< ref "eba#executive-business-administrator-team" >}})
+Our top priority is the health and safety of our team members, please refer to the current [travel policy](/handbook/travel/#travel-guidance-covid-19). The CEO Shadow program is classified as non-essential travel and travel to San Francisco will not be required during the time frame specified in the policy linked. CEO Shadows joining the program should plan on participating in the program remotely and matching the CEO's schedule which is primarily in the Pacific time zone unless the CEO is traveling to another time zone. If you have questions please use `#ceo-shadow` in slack and @ mention the [Staff EBA to the CEO]({{< ref "eba#executive-business-administrator-team" >}})
 
 ## Considerations for other companies starting CEO Shadow programs
 
@@ -751,7 +751,7 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-11-30 | 2020-12-11 | [Kevin Chu](https://gitlab.com/kbychu) | Group Product Manager | |
 | 2020-12-07 | 2021-01-08 | [Charlie Ablett](https://gitlab.com/cablett) | Sr. Backend Engineer, Plan | |
 | 2021-01-04 | 2021-01-15 | [Tanya Pazitny](https://gitlab.com/tpazitny) | Quality Engineering Manager, Secure & Enablement | |
-| 2021-01-11 | 2021-01-22 | [Michael Preuss](https://about.gitlab.com/company/team/#mpreuss22) | Director, Digital Experience | |
+| 2021-01-11 | 2021-01-22 | [Michael Preuss](/handbook/company/team/#mpreuss22) | Director, Digital Experience | |
 | 2021-01-18 | 2021-01-29 | [Traci Robinson](https://gitlab.com/traci) | Sr. PMM, Regulated Industries | |
 | 2021-01-25 | 2021-02-05 | [Parker Ennis](https://gitlab.com/parker_ennis) | Sr. PMM, GitLab CI/CD | |
 | 2021-02-05 | 2021-02-16 | [Shane Rice](https://gitlab.com/shanerice) | Manager, Search Marketing | [CEO Shadow learning recap](https://youtu.be/VZ6XF0qhWVg) |

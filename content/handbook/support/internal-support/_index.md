@@ -26,11 +26,11 @@ This is not an exhaustive list. For anything else you believe the Support team c
 
 ## GitLab Support's Purpose
 
-GitLab Support provides technical support for GitLab.com and Self-Managed GitLab customers. We do **not** provide support for GitLab team members who are experiencing IT (1Password, Slack, Mac, etc.) issues. If you require assistance with issues of that nature, please contact [Team Member Enablement](https://about.gitlab.com/handbook/business-technology/team-member-enablement/self-help-troubleshooting/).
+GitLab Support provides technical support for GitLab.com and Self-Managed GitLab customers. We do **not** provide support for GitLab team members who are experiencing IT (1Password, Slack, Mac, etc.) issues. If you require assistance with issues of that nature, please contact [Team Member Enablement](/handbook/business-technology/team-member-enablement/self-help-troubleshooting/).
 
 ## Should I Contact GitLab Support?
 
-For general questions regarding GitLab ("Can GitLab do x?", "How do I do y with GitLab?") please ask in [#questions](https://gitlab.slack.com/messages/questions), or if you think you've encountered a bug or something isn't behaving right while using GitLab try asking in [#is-this-known](https://gitlab.slack.com/archives/CETG54GQ0). Doing so ensures that [everyone can contribute](https://about.gitlab.com/company/mission/#mission) to an answer.
+For general questions regarding GitLab ("Can GitLab do x?", "How do I do y with GitLab?") please ask in [#questions](https://gitlab.slack.com/messages/questions), or if you think you've encountered a bug or something isn't behaving right while using GitLab try asking in [#is-this-known](https://gitlab.slack.com/archives/CETG54GQ0). Doing so ensures that [everyone can contribute](/handbook/company/mission/#mission) to an answer.
 
 GitLab Support's Slack channels are specifically for the various GitLab Support **teams**, not for questions about GitLab the product. If you're working with a customer that requires technical support, please advise them to [contact GitLab Support](#requesting-support-for-customers).
 
@@ -65,10 +65,10 @@ There are several reasons why Support cannot respond to customer-specific reques
 
 - We aim to meet the [Service Level Agreement](https://about.gitlab.com/support/#service-level-agreements) (SLA) each time we help a customer, and we only track SLA compliance via Zendesk.
 - Zendesk has a ticket assignment system which is vital to our workflow. We have no system to assign tickets in Slack.
-- When we are trying to solve a current customer problem, we frequently [search resolved tickets in Zendesk](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/searching/). Since Slack content is deleted after 90 days, we may lose valuable information if a customer's problem and/or the solutions to it are discussed in Slack instead of a Zendesk ticket.
+- When we are trying to solve a current customer problem, we frequently [search resolved tickets in Zendesk](/handbook/support/readiness/operations/docs/zendesk/searching/). Since Slack content is deleted after 90 days, we may lose valuable information if a customer's problem and/or the solutions to it are discussed in Slack instead of a Zendesk ticket.
 - We want to keep all of our records of a customer's technical support problems and their solutions in a single place (Zendesk).
 
-If you want to request that we place additional attention on an **existing** ticket or internal request, please use the [Support Ticket Attention Request Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/support_escalation/) ([handbook entry](https://about.gitlab.com/handbook/support/internal-support/support-ticket-attention-requests.html)).
+If you want to request that we place additional attention on an **existing** ticket or internal request, please use the [Support Ticket Attention Request Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/support_escalation/) ([handbook entry](/handbook/support/internal-support/support-ticket-attention-requests.html)).
 
 ### Requesting support for GitLab.com users that have account or login issues
 
@@ -121,7 +121,7 @@ Note that you cannot send public replies to customers with a Light Agent account
 
 ### GitLab plan or license for team members
 
-For GitLab team members, a GitLab license or plan request is done through [Access requests](https://gitlab.com/gitlab-com/team-member-epics/access-requests). Please follow the appropriate handbook instructions, such as the [Incentive instructions](https://about.gitlab.com/handbook/incentives/#gitlab-ultimate), or open an issue with the most appropriate template, such as [the License request template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) for self-managed instances.
+For GitLab team members, a GitLab license or plan request is done through [Access requests](https://gitlab.com/gitlab-com/team-member-epics/access-requests). Please follow the appropriate handbook instructions, such as the [Incentive instructions](/handbook/incentives/#gitlab-ultimate), or open an issue with the most appropriate template, such as [the License request template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) for self-managed instances.
 
 ### Contacting users about GitLab incidents or changes
 
@@ -139,7 +139,7 @@ You can request Support to contact GitLab.com users on your behalf. Here are som
 | Contact a user during an incident | [Open a confidential infra issue, assign it to the current CMOC](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=confidential_incident_data), use `confidential_incident_data` template | #support_gitlab-com |
 | Contact a single user | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Contact%20Request) using the `Contact Request` template | #support_gitlab-com |
 | Prepare Support for changes (with or without contacting select users) | [Open a Support Readiness issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Support%20Readiness) | #spt_managers |
-| I need to reach out to many users | Review [the tools and users table](/handbook/support/workflows/sending_notices.html#tools-and-approvals) for a guide on how to most effectively send communications. | #spt_managers |
+| I need to reach out to many users | [Open a Marketing-Ops issue](/handbook/support/workflows/sending_notices/#mass-emails-through-marketing-department) | #spt_managers |
 
 **Please note**: This is not for marketing or sales related contact. This channel is only for communication with users regarding important items that might affect their usage of GitLab SaaS.
 
@@ -343,7 +343,7 @@ Please declare a **security incident** if:
 
 - you have information about a critical issues that may affect the confidentiality, integrity, or availability of GitLab services or data
 
-[More about Security incidents](https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html#incident-severity)
+[More about Security incidents](/handbook/security/security-operations/sirt/engaging-security-on-call.html#incident-severity)
 
 ---
 

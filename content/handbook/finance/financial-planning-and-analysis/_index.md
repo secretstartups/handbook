@@ -55,11 +55,11 @@ FP&A comprises five different sub-teams to support our FP&A goals:
 
 ## FP&A Processes
 
-### Plan
+### Annual Operating Plan ("AOP")
 
-- **What**: The Plan includes the annual strategy, business plans/budgets for each function, plans for how we will achieve our key metrics and forecasts for all of our key metrics. The Plan is a three statement (Income Statement, Balance Sheet, and Statement of Cash Flow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is forecast off of the bookings plan and expenses are planned at the headcount and vendor level.
-- **Purpose**: GitLab's Plan identifies GitLab's company goals for the next year and strategies for achieving them. Provide guidelines to understand how much capital is needed to achieve these goals.
-- **Governance**: The Plan is approved by the board of directors every year.
+- **What**: The AOP includes the annual strategy, business plans/budgets for each function, plans for how we will achieve our key metrics and forecasts for all of our key metrics. The AOP is a three statement (Income Statement, Balance Sheet, and Statement of Cash Flow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is forecast off of the bookings plan and expenses are planned at the headcount and vendor level.
+- **Purpose**: GitLab's AOP identifies GitLab's company goals for the next year and strategies for achieving them. Provide guidelines to understand how much capital is needed to achieve these goals.
+- **Governance**: The AOP is approved by the board of directors every year.
 
 #### Annual Planning Steps
 
@@ -77,20 +77,21 @@ FP&A comprises five different sub-teams to support our FP&A goals:
 - Show trending of key metrics as output of the Plan
 - Capture Plans to drive key metrics
 - Capture X-functional dependencies of execution
+- Document business plans for key drivers and initiatives of the year, e.g. new products
 - Revise and update the annual sales compensation plan
 - Set annual quota assignments for revenue producing roles
 
-#### FY24 Plan
+#### FY24 AOP
 
 Final FY24 Planning documents are on Google Drive, please find the links in the [Internal Handbook](https://internal.gitlab.com/handbook/finance/documents/). These include:
 
-- FY24 Plan Board Approval Presentation
-- FY24 Plan SSOT Hiring List
+- FY24 AOP Board Approval Presentation
+- FY24 AOP SSOT Hiring List
 - FY24 Bookings Quarterization
 
 All of the data for these planning documents are locked in our Adaptive Planning instance (Adaptive Planning can only be accessed by FP&A.)
 
-#### FY25 Plan Milestones
+#### FY25 AOP Milestones
 
 Key planning milestones are listed below. For a more detailed timeline and planning checklist please engage your FP&A business partner.
 
@@ -147,6 +148,48 @@ The following are inputs in the LRO refresh and subsequent LRO updates:
 - PP&E/Capex purchases
 
 The Corporate Finance team leads the LRO refresh and updates in collaboration with: eGroup members to determine key investments, capabilities, and dependencies; GTM Finance team for sales productivity/capacity models, CTB, and bookings attainment; G&A Finance team for total rewards strategy, benefit assumptions; and the R&D Finance team to help inform on allocations, hosting/infrastructure expenses.
+
+
+
+## Business Planning
+
+#### Business Planning Goal
+
+For GitLab’s top growth drivers and new products, drive and document alignment between contributors to success. Writing a business plan drives clarity of thought and operations. Agree on governance models to manage initiative success and cross-functional accountability. At a minimum, each business plan should cover:
+ - Explain what an initiative is, why we should be focused on it.
+ - Identify how each function will support its success, what are dependencies & risks.
+ - Identify how we measure success, e.g. pipeline or bookings goals.
+
+#### Business Planning Details
+
+ - **Product plan** - what are product features to ship, by when? What is committed and what is at risk? What are competitive considerations? If there are phases, what is in scope for each phase?
+ - **Pricing plan** - what is the pricing strategy, what are open decisions, what is the margin structure?
+ - **Marketing plan** - how will product marketing and demand generation support the business plan.
+ - **Sales plan** - what are the drivers of the sales plan? What is the quarterly Plan for  bookings? What are assumed attach rates, penetration rates, adoption rates, where is there uncertainty? What is the field enablement plan?
+ - **Services plan** - if applicable, how can enhanced services improve sales and adoption?
+ - **Operational plan** - what infrastructure do we need (fulfillment, IT, rev rec, legal, security, etc.)
+ - **Financial plan** - gross margin and contribution to P&L, if applicable
+
+#### Key Contributors
+
+- Driver: FP&A
+- Contributors
+   - Product: lead PM(s), pricing lead
+   - Marketing: leads within both Product Marketing and Demand Gen
+   - Sales: Regional VPs, RS&A, GTM FP&A
+   - Support/Services
+   - As needed: fulfillment, IT, accounting, legal, security
+- Approvers / Informed:
+   - CFO, CRO, CMO, CPO, eGroup
+
+#### Review and Governance
+
+- Contributors (above) agree on business plan and review with eGroup members for feedback. Include proposed measurement plan (e.g. bookings or pipeline goals)
+- On a defined cadence (monthly or other), review product accomplishments vs. plan
+- On a defined cadence (monthly or other), review GTM measures of success vs. plan
+- On a defined cadence (quarterly or other), review P&L impact vs. plan
+- Each quarter, refine success goals/metrics based on learnings to iterate on plan of record
+
 
 ## Quarterly & Monthly Cycle (incl. close, variance, forecast, guidance)
 
@@ -294,79 +337,197 @@ As a public company we share financial results publicly after the close of each 
 
 ----
 
-## Headcount and the Talent Acquisition Single Source of Truth
+## Headcount Forecast and Hiring Plan
 
-The Finance team is the owner of SSOT for GitLab’s hiring plan which ties to our quarterly expense forecast. The hiring plan is a live forecast that exists in Adaptive and is maintained by the Finance Business Partners (FBPs). Finance owns the SSOT to ensure there is one hiring plan for the year. This increases our predictability as a company and streamlines the hiring process.
+### Definitions
 
-### Hiring Managers
+#### **Single Source of Truth (SSOT) Headcount Forecast and Hiring Plan**
 
-- When you are ready to open a new vacancy, reach out to your Recruiter. They will open a GitLab issue , and tag the relevant Finance Business Partner who will generate a GHP ID.  While GitLab strongly believes that you should be able to backfill a role when someone departs, please check with your eGroup member before reaching out to Talent Acquisition for all backfill positions.
-- Each role will have a unique GHP ID number generated by the FP&A team, which is what will allow  Talent Acquisition  to route  the position for approvals to be opened in Greenhouse. If there is no GHP ID, the job will not be able to be opened in Greenhouse.
-- If you are looking to pull forward a headcount and are in the Sales division please reach out to the Sales Strategy & Analytics team before reaching out to your Finance Business Partner.
+Financial Planning & Analysis (FP&A) team is the owner of SSOT for GitLab’s **Hiring Plan** which contributes to our Headcount Forecast.
+
+- Headcount Forecast is a live forecast in Workday Adaptive (a financial planning software)
+
+   - Headcount Forecast includes all approved positions in AOP (i.e. Active, Planned and Backfill positions)
+   - Hiring Plan is subset of Headcount Forecast (i.e.Planned and Backfill positions only)
+- Hiring Plan is maintained by the Finance Business Partners (FBPs) and shared with Talent Acquisition (TA) team and Business Partners (BPs)
+- Finance owns the Hiring Plan to ensure there is only one Headcount Forecast and Hiring Plan for the business
+- Hiring Plan increases our predictability as a company and streamlines the hiring process
+- For questions specific to TA’s process and REQ creation, please refer to [TA’s section of the handbook](/handbook/hiring/talent-acquisition-framework/req-creation/)
+
+### Position ID (PID)
+
+Position ID is a unique identifier and is the link between approved headcount and the Hiring Plan
+- Each position is approved and allows TA to open a role for the business
+- Positions are all approved headcount in the Hiring Plan.
+   - All approved headcount includes Active, Planned and Backfill positions
+   - Only Planned and Backfill positions are included in the Hiring Plan
+- All positions in the Hiring Plan are approved through:
+   - Annual Operating Plan (AOP) cycle (beginning of each fiscal year)
+   - [RLoA](/handbook/finance/financial-planning-and-analysis/#rolling-list-of-asks-rloa) cycle for any incremental roles through the year
+   - Backfill due to attrition in the business
+- Positions may be updated/changed during weekly interlock process (e.g. reallocated to different team, changed for different Role level)
+- Each position is assigned with an unique identifier called Position ID (PID)
+   - PID increases visibility and accuracy for headcount forecasting (count and dollars)
+   - PID simplifies and provides transparency on modeled headcount (attrition and backfill)
+   - PID is an unique identifier for positions assigned to all current and future approved headcount
+- PIDs are created and assigned by Corporate FP&A (Corporate) when Hiring Plan is finalized or upon change request of existing position(s)
+   - All approved Planned and Backfill positions are assigned with an GHPID (please refer to [TA’s section on GHPID](/handbook/hiring/talent-acquisition-framework/req-creation/))
+   - Not all positions are assigned with GHPIDs
+   - Key difference between GHPID and PID
+      - GHPID has 1-to-1 relationship with an Opening ID in Greenhouse (please refer to [TA section on Opening](/handbook/hiring/talent-acquisition-framework/req-creation/))
+      - PID has 1-to-1 relationship with an approval headcount
+      - Each PID has 1-to-1 relationship with a GHPID at any given time
+      - **Illustrative example:** Employee **A** departs and business decides to backfill the same role
+         - Departing employee A will have
+            - PID: FIN-FY24-9999 (tied to Headcount Forecast)
+            - GHPID: GH-FY23-999-0001 (issued to hire Employee A **in the past**)
+         - To open the new requisition, we will need
+            - **SAME PID:** FIN-FY24-9999
+            - **NEW GHPID:** GHPID: GH-FY23-999-0002
+- Starting from FY25 AOP cycle, GHPIDs will be generated through a consolidated process
+   - All GHPIDs are system-generated by a FP&A internal Google Sheet, maintained and audited by Corporate
+   - Each Planned and Backfill position will have a unique GHPID assigned by FBP(s)
+   - GHPID will allow TA to open a requisition in Greenhouse.
+   - If an approved role is not assigned with a GHPID, the job will not be opened in Greenhouse
+- Finance Business Partners (FBPs) work with Business Partners (BPs) to discuss details of each approved headcount and enter final decisions of each position to Adaptive as SSOT Hiring Plan
+   - Details of the position include, but are not limited to, Department, Job Title, Job Grade, Salary, Location
+   - FBP include all PIDs (assigned by Corporate) for approved Planned and Backfill positions in Hiring Plan
+   - FBP include all GHPIDs for roles eligible to be opened in Greenhouse
+- Adding/removing/exchanging position(s) requires FP&A’s approval through existing RLOA or rolling forecast. FBP will submit change request Google Form
+- PIDs and GHPIDs are audited and reconciled by Corporate regularly
+   - PIDs are reconciled **monthly** before each rolling forecast lock
+   - GHPIDs are reconciled **weekly** before each weekly interlock
+- Upon approval of the Hiring Forecast, FBPs share:
+   - Headcount Forecast with Business Partners (BPs) through monthly review
+   - Hiring Plan with both BPs and TA through live interlock sheets and release GHPIDs
+   - TA partners will contact HMs and open a requisition in Greenhouse after GHPIDs are released
 
 
-### Talent Acquisition Managers and Leads
+### Role Approval and Release Process
 
-When a hiring manager comes to you to open a role please work with the appropriate FBP to get a GHP ID.
+#### Process Overview
 
-### Finance Business Partners
+1. Hiring Plan
+   - Finance Business Partners (FBPs) work with Business Partners (BPs) to discuss role details and enter final decisions to Adaptive as Hiring Plan
+   - Hiring Plans are approved by Board of Directors (during AOP) or CFO & eGroup (during RLOA).
+   - All approved positions will be communicated by FBPs to TA partners, PBPs, and BPs
+1. Requisition Release
+   - Role details are added to Live Interlock sheets. Details allow TA to open a requisition in Greenhouse
+   - Backfill requisition requires separate approval (below)
+1. Hiring Manager create/review Job Family
+1. Talent Acquisition partner opens requisition in Greenhouse
+1. Formal approval to open role
+   - When a requisition is opened in Greenhouse it is routed for approvals. The job approval requires approvals from Total Rewards, FP&A and Department Lead (VP+)
+   - This allows the FBPs to check all details of the role and ensure consistency to SSOT Hiring Plan
+      - If role details in Greenhouse do not reconcile to Hiring Plan in Adaptive, FBP will reach out to both TA and HM to resolve discrepancies
+   - FP&A is also a required approval on all job offers (before the role is officially filled). This approval allows FP&A to confirm details of the job offer and ensure reconciliation to Hiring Plan
+1. Run kick-off (aka Intake) with Hiring Manager
 
-#### Maintaining the GHP for Finance
+FP&A and TA discussed and agreed upon the above process. This SSOT process ensures consistency in Hiring Plan execution
 
-On a weekly basis FBPs will update their department’s hiring forecasts in Adaptive. FBPs may update their headcount forecast on a more frequent basis depending on their individual department’s business needs, but at a minimum it must be done on a weekly basis. This could require adding new roles, deleting roles, trading out roles, or adding backfills. Every vacancy requires a GHP ID once it is ready to be opened in Greenhouse. A vacancy could be for a net new hire, a backfill due to leaving the company or a backfill due to internal movement.
+#### Planned Positions
 
-#### Adding a vacancy
+Planned Positions include all Net New positions to existing GitLab active employees.
+1. Hiring Plan Approval of any Planned Positions are from:
+   - Annual Operating Plan (AOP) cycle
+   - RLoA cycle for any incremental roles through the year
+1. Requisition Release
+1. Hiring Manager create/review Job Family
+1. Open requisition in Greenhouse
+1. Formal approval to open role
+1. Run kick-off (aka Intake) with Hiring Manager
 
-To determine what GHP ID to use the FBP references the appropriate GHP ID numbering for their department. The numbering for the GHP IDs are similar to a credit card. The first two digits of the unique GHP ID represent the FBP’s division, the next two numbers represent the department. Then there are seven digits that start with 0000001 that sequentially grow from there for every role.
+#### Backfill Positions
 
-Once a number has been used in Greenhouse for a job, it can not be reused. If the role is a future role and has been deleted, but was never input into Greenhouse, the FBP can use that number for it’s replacement or a different role since it was not used yet.
+Backfill Positions include all positions created due to departure or termination of an existing employee.
+1. Hiring Plan Approval of any Backfill Positions
+   - While GitLab strongly believes that a HM should be able to backfill each role upon termination and/or departure, HM should check with his/her leadership to discuss and decide whether there are changes to the backfill role
+      - If changes are approved by leadership, please work with your FBPs to update details of the backfill positions.
+      - FBPs evaluate change and ensure neutral dollar impact from role change/update
+      - FBPs brief Corporate and request new/remove PID if applicable
+      - Upon final decision, FBPs enter details into Adaptive and update Hiring Plan
+1. Requisition Release
+   - Upon a resignation, Hiring Managers (HMs) submit official notice to Workday (WD)
+      - WD backfill notification will send to both TA and FBPs
+      - WD backfill notification will allow Recruiter to create a backfill issue
+      - All final decisions and details of the role(s) will be documented in the backfill issue
+      - Recruiter can create a requisition in Greenhouse and move to the next step of the process
+1. Hiring Manager create/review Job Family
+1. Open requisition in Greenhouse
+1. Formal approval to open role
+1. Run kick-off (aka Intake) with Hiring Manager
 
-#### Approvals
+### Hiring Plan Process
 
-When a job is opened in Greenhouse it is routed for approvals. The second required approval is from Finance. This allows the FBPs another opportunity to check the GHP ID on open jobs and ensure everything reconciles. If something does not reconcile to what is in the forecast, the FBP will reach out to the hiring manager to discuss. Ideally conversations with hiring managers and leaders will occur when the initial request for a GHP ID occurs from Talent Acquisition. But if the conversations do not occur then, they will occur at this time to ensure that everyone is in agreement and that if tradeoffs need to be made for financial reasons, they can be made then.
+Both PID and GHPID are created and maintained by FP&A team as unique identifiers in Hiring Plan
 
-Finance is also a required approval on all job offers. This allows Finance to see the financial details of the job offer before any offer is sent, so that they are enabled to have conversations with their leaders about implications to their Plan if needed.
+#### Creating a Position ID (PID)
 
-#### R&D Headcount Process
+All PIDs are created by the Corporate FP&A team and are tied to Headcount Forecast (including Hiring Plan)
 
-For more detail on the headcount process for R&D, refer to the page [here](https://about.gitlab.com/handbook/engineering/#rd-new-headcount-ghpid-request-backfill--transfer-process).
+FP&A Position IDs increase visibility and accuracy for headcount forecasting (count and dollars) and simplify & provide transparency on modeled headcount (attrition and backfill).
+   - PID is an unique identifier for positions assigned by Corporate to **all** positions in Hiring Plan
+   - Add/remove/exchange positions requires FBP approval via existing process, e.g. RLOA or rolling forecast and submit change request Google Form [here](https://docs.google.com/forms/d/e/1FAIpQLSeHS97lg1Fz_SIQTisg-TOPHsXf6QMGw6vXfuEDkB_GY8pKfA/viewform)
+   - Positions reconciled regularly, e.g. monthly before each rolling forecast lock
+   - Position ID follows “**FIN-Fiscal Year-0000 (4-digit PID code)**” as naming convention
+      - For example, if a role is opened in FY24, the PID is “FIN-FY24-0000”
 
-#### Sales Headcount Process
+#### Creating GHPID
 
-For more detail on the headcount process for Sales, refer to the page [here](https://docs.google.com/document/d/1C-9Grc5zqVwIyvNiy1hOJ_p0_AohO5qMN5it3y1dFRg/edit).
+All GHPIDs are system-generated by a FP&A internal Google Sheet
+   - Google Sheet GHPID generator is maintained and audited by Corporate FP&A weekly
+      - FBPs will refer to GHPID generator and assign GHPIDs to all approved positions
+      - **Future State:** Corporate will migrate GHPID generator to Workday (pending on Workday/Adaptive integration and Workday Position Management)
+   - GHPID is updated during weekly forecast interlock and regular forecast cycles.
+   - **Starting FY25 Annual Operating Planning, GHPID will follow “GH-Fiscal Year-Department Internal ID-0000 (4-digit GHPID code)”** as naming convention.
+      - For example, if sales and/or marketing is hiring a role, the GHPID will be“GH-FY25-100-0001”.
+      - When a role is pushed into next fiscal year, the GHPID won’t change
+      - When a role is re-allocated into a different department, the GHPID won’t change
+      - Each GHPID is unique to each opening of a requisition
+      - **Department internal ID** is from Netsuite as SSOT and consistent to Adaptive department code
+      - Once a number has been used in Greenhouse for a job, it can not be reused. If the role is a future role and has been deleted, but was never input into Greenhouse, the FBP can use that number for its replacement or a different role since it was not used yet.
+
+### Maintaining Hiring Plan
+
+FP&A team is the owner and maintainer of SSOT for GitLab’s Hiring Plan
+1. Objective of this control is to ensure completeness, accuracy, and consistency of Hiring Plan
+   - **Completeness**: all approved positions are assigned with PIDs and GHPIDs
+   - **Accuracy**: no PID and GHPID is assigned to duplicated or deprecated positions
+   - **Consistency**: ensure Hiring Plan in Adaptive is fully reconciled to details in Live Interlock Google Sheet and details in Greenhouse requisition
+1. PIDs and GHPIDs are stored in Workday Adaptive (Adaptive) and are required fields in Hiring Plan
+   - FBPs will update Hiring Plan weekly in Adaptive & update TA through weekly Interlock.
+   - FBPs may update their Headcount Forecast on a more frequent basis (more than weekly) depending on their individual department’s business needs
+   - Updating Hiring Plan could require adding new roles, deleting roles, trading off roles, or adding backfills
+1. Hiring Plan audit and reconciliation is performed by Corporate, including
+   - Weekly GHPID audit and reconciliation through TA and FP&A Interlock
+   - Monthly PID audit and reconciliation through monthly forecast lock
+   - Corporate will reach out to FBPs if noticing any discrepancies and resolve them before monthly forecast lock
 
 ### Finance Business Partners / Talent Acquisition Managers Forecast Interlock
 
 #### Purpose
 
-The FP&A team and Talent Acquisition Managers collaborate to ensure understanding and implementation of the most up-to-date view of forecasted headcount-related expenses. This interlock enables GitLab to respond quickly and make live decisions through a weekly P&L forecast in Month 2 and Month 3 of each quarter. This process also ensures alignment and accuracy of headcount forecasts when FP&A locks its annual plan and monthly rolling forecasts. This process also tracks company metrics against Wall Street expectations related to non-GAAP operating income and non-GAAP earnings per share. Please see the [Headcount Metrics and Processes page](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/tree/master/-/sites/handbook/source/handbook/finance/financial-planning-and-analysis/headcount-metrics-and-processes/) for definitions and key metrics.
+The FP&A team and Talent Acquisition Managers collaborate to ensure understanding and implementation of the most up-to-date view of forecasted headcount-related expenses. This interlock enables GitLab to respond quickly and make live decisions through a weekly P&L forecast and the [rolling list of asks (RLOA) process](/handbook/finance/financial-planning-and-analysis/#rolling-list-of-asks-rloa). This process also ensures alignment and accuracy of headcount forecasts when FP&A locks its annual plan and monthly rolling forecasts. This process also tracks company metrics against Wall Street expectations related to non-GAAP operating income and non-GAAP earnings per share. Please see the [Headcount Metrics and Processes page](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/tree/master/-/sites/handbook/source/handbook/finance/financial-planning-and-analysis/headcount-metrics-and-processes/) for definitions and key metrics.
 
-#### Cadence
+#### Headocunt Live Dashboards
 
-The interlock process occurs during the following weeks:
+The Hiring Plan data is divided into four headcount forecast templates, one for each cost center with Cost of Goods Sold allocated among Sales and R&D. The data and analysis from the four templates roll into the Summary file. The four templates can be found in the [Headcount Live Summary Dashboard](https://docs.google.com/spreadsheets/d/1LmMiPMeBu2jW6APZ1SDNOk1OgLN6pyB01TrEVza40us/edit#gid=1019520422).
 
-1. **In Month 1 of the quarter:** once in week 2 (the week before FP&A's Month 1 forecast version lock)
-1. **In Month 2 of the quarter:** weekly starting week 2 (the week before FP&A's Month 2 forecast version lock)
-1. **In Month 3 of the quarter:** weekly
+#### Cadence / Process
 
-Unless otherwise noted in the HC Forecast calendar or communicated via Slack (see Communication below), the interlock takes place on a Thursday through Monday interval.
+Unless otherwise noted in the HC Forecast calendar or communicated via Slack, the interlock process occurs weekly as follows:
 
-#### Process
+1. **By noon (PST) Monday**, the Corp FP&A team downloads the data from Adaptive and refreshes the headcount forecast templates. Talent Acquisition also refreshes the headcount forecast templates with the latest data from Greenhouse.
 
-1. **By noon (PST) Thursday**, the Finance Business Partners update Adaptive with their best estimates of the start dates and salaries of all planned personnel (including backfills) for the forecast period. This reflects a 50/50 “most-realistic” view of headcount expenses/timing. **The Finance Business Partners indicate the completion of their updates in Adaptive by signing off in the headcount forecast template with their initial and time stamp**.
+1. **By end of day (PST) Wednesday**, the Talent Acquisition Managers and Recruiters review their respective roles line by line and make adjustments and comments related to expected start dates and other role details provided by the Finance Business Partners. If no indication is made for a specific role in the headcount forecast template, Talent Acquisition signals that the current indication is reasonable and indicative of a 50/50 “most-realistic” forecast. The Talent Acquisition Managers also pay close attention to any recruiting capacity restraints within any given quarter. In order to maximize transparency and understanding of any changes, the Talent Acquisition Managers and Recruiters provide comments (e.g., wrong GHP ID, rejection of an offer, delay due to business decision, etc.) for specific roles.
 
-1. **At noon (PST) Thursday**, the Corp FP&A team downloads the planned personnel data from Adaptive and prepares the headcount forecast template to share with Talent Acquisition. The planned personnel data is divided into two headcount forecast templates: “Mgr-” which includes all Individual Contributor, Manager, and Senior Manager roles and “Dir+” which includes all Director, Senior Director, Vice President, and E-Group roles.
+1. **By end of day (PST) Thursday**, the Finance Business Partners update Adaptive with their best estimates of the start dates of all planned personnel for the forecast period based on the input from Talent Acquisition in the headcount forecast templates. This reflects a 50/50 “most realistic” view of headcount expenses/timing.
 
-1. **Prior to noon (PST) Friday**, the Talent Acquisition Managers review their respective roles line by line and make adjustments and comments related to expected start dates and salaries provided by the Finance Business Partners. If no indication is made for a specific role in the headcount forecast template, the Talent Acquisition Manager signals that the current indication is reasonable and indicative of a 50/50 “most-realistic” forecast. The Talent Acquisition Managers also pay close attention to any recruiting capacity restraints within any given quarter. In order to maximize transparency and understanding of any changes, the Talent Acquisition Managers provide comments (e.g., rejection of an offer, adjustment to salary due to location factor, etc.) for specific roles. After reviewing all roles for which they are responsible, the **Talent Acquisition Managers sign off in the headcount forecast template with their initials and time stamp**. Note: the recruiter responsible for director and above hires performs the same procedure in the “Dir+” template. Following sign off from the Talent Acquisition Manager, the Corp FP&A team sends a Headcount Snapshot to the head of recruiting with a summary of the interlock and hiring outlook for the quarter. The head of recruiting reviews and provides a wholistic view for the Talent Acquisition team to ensure that the start numbers are reasonable with respect to progress through the quarter. If the numbers are unrealistic, the head of recruiting works with the Talent Acquisition team to adjust future starts to an attainable level.
-
-1. **By end of day (PST) Friday**, the Finance Business Partners review any adjustments or comments made by Talent Acquisition, follow up with any questions, and load the updated headcount information into Adaptive to prepare for the P&L snapshot. Often a meeting with each respective area may be required to better understand recruiting dynamics and ensure the forecast reflects a 50/50 “most-realistic” view.
-
-1. **The following Monday**, the Corp FP&A team downloads the updated information from Adaptive and provides a P&L snapshot to the CFO detailing any material week-over-week changes as well as tracking vs. guidance and consensus metrics.
-Prior to any forecast lock, the Finance Business Partners review headcount assumptions with the E-Group members with whom they partner and receive sign off from each E-Group member.
+1. **By end of day (PST) Friday**, the Corp FP&A team sends a P&L snapshot to the CFO incorporating any headcount forecast adjustments. Note: P&L snapshots are not provided during accounting close.
 
 #### Communication
 
-Communication related to the interlock takes place in the #fpa-ta_headcount_forecast Slack channel. All parties involved in the interlock are also granted access to the HC Forecast Google Calendar.
+Communication related to the interlock takes place in the #fpa-ta_headcount_forecast Slack channel. All parties involved in the interlock are also granted access to the "HC Forecast" Google Calendar.
 
 #### Deliverables
 

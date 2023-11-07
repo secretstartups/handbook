@@ -12,7 +12,7 @@ This workflow covers cases when a user says they are not receiving their confirm
 ## **Stage 0:** Ticket Triage
 
 Before working the ticket ensure that it's correctly triaged with the `SaaS Account` form and `Did not receive confirmation email` problem type so that
-the [SaaS Account Ticket Helper](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-super-app) application can activate.
+the [SaaS Account Ticket Helper](/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-super-app) application can activate.
 
 If the user has already correctly chosen the problem type, the automation will activate when an agent opens the ticket for the first time. If the SaaS Account Ticket Helper application fails to solve the issue for any reason, proceed to manually resolve it by going through the steps in the following sections.
 
@@ -31,7 +31,7 @@ Before the issue can be resolved we first need to locate the account in question
 
 ### Check GitLab Admin
 
-1. In the GitLab SaaS Admin Area, [search for the user](https://gitlab.com/admin/users) by username to confirm the account exists. Alternatively, search in your browser using [the API](https://gitlab.com/api/v4/users?search=email@email.test) or [ChatOps](https://about.gitlab.com/handbook/support/workflows/chatops.html#user).
+1. In the GitLab SaaS Admin Area, [search for the user](https://gitlab.com/admin/users) by username to confirm the account exists. Alternatively, search in your browser using [the API](https://gitlab.com/api/v4/users?search=email@email.test) or [ChatOps](/handbook/support/workflows/chatops.html#user).
 1. Check the email address against what the user has reported and then perform one of the following fixes:
     - Did they make a typo when registering? See 👉 [Typo Fix](#typo-fix).
     - Otherwise, they likely are not receiving their confirmation email due to a suppression. See 👉 [Removing a Suppression in Zendesk](#removing-a-suppression-in-zendesk) or [Removing a Suppression in Mailgun](#removing-a-suppression-in-mailgun).
@@ -42,7 +42,7 @@ Before the issue can be resolved we first need to locate the account in question
 
 1. Ensure the user is a customer with a current paid subscription. (Do not modify free user accounts. Free users must create new accounts with the correct email address)
 1. Ensure the user's account has no activity by checking that the `Confirmed at:` field is blank/nil.
-1. Ensure the user's account has no group or project memberships. If the account does have group or project memberships, then the user must pass the [Account Ownership Verification](https://about.gitlab.com/handbook/support/workflows/account_verification.html) workflow before proceding any further.
+1. Ensure the user's account has no group or project memberships. If the account does have group or project memberships, then the user must pass the [Account Ownership Verification](/handbook/support/workflows/account_verification.html) workflow before proceding any further.
 1. Change the email address to the correct one using one of the following methods:
     - **Admin:**
       1. Pull up the user's account while logged in with your admin account.
@@ -54,7 +54,7 @@ Before the issue can be resolved we first need to locate the account in question
         1. View User: `/chatops run user find <user or email>`
         1. Edit Email: `/chatops run user update_email <username or current email> <new_email@example.com>`
 1. Double check that the account now has the proper email address as its primary.
-1. Add an [admin note](https://about.gitlab.com/handbook/support/workflows/admin_note.html) to the account.
+1. Add an [admin note](/handbook/support/workflows/admin_note.html) to the account.
 
 ### Removing a Suppression in Zendesk
 
@@ -97,6 +97,10 @@ If the user is unconfirmed, but their primary email address does not match the u
 
 1. Impersonate the user and click on the "Resend confirmation email" under Email on their Settings > Profile page.
 1. File a [console escalation internal request](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab.com%20Console%20Escalation) to set the `unconfirmed_email` to `nil`.
+
+## Customers Portal account email
+
+If the problem is with the customers portal account email, you can send the user a [new Customers Portal confirmation email](https://customers.gitlab.com/customers/confirmation/new). Afterwards, let the user know you've sent them a new confirmation email and ask them to check their inbox and spam folders.
 
 ## Extras
 

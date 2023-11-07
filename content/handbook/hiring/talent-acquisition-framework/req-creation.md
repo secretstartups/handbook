@@ -3,11 +3,11 @@ title: "Talent Acquisition Process Framework for Creating REQs"
 description: "The Talent Acquisition Process Framework for Creating REQs provides guidance on how to open a new requisition for the talent acquisition team."
 ---
 
-Prior to starting the req creation process, a Hiring Manager should follow the steps outlined to create a Job Family or create a MR to edit any relevant Job Family information as needed. For questions specific to Hiring Plans or how to go about making such changes, please refer to the [Finance section of the handbook](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#headcount-and-the-talent-acquisition-single-source-of-truth).
+Prior to starting the req creation process, a Hiring Manager should follow the steps outlined to create a Job Family or create a MR to edit any relevant Job Family information as needed. For questions specific to Hiring Plans or how to go about making such changes, please refer to the [Finance section of the handbook](/handbook/finance/financial-planning-and-analysis/#headcount-and-the-talent-acquisition-single-source-of-truth).
 
-### Creation and Approval
+### Requisition Release
 
-There are three creation types for new requisitions: Annual Planned Headcount, [Rolling List of Ask (RLoA)](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#rolling-list-of-asks-rloa) Incremental Headcount and Backfills. Annual Planned Headcount is released at the beginning of each fiscal year. RLoA Incremental Headcount is released each quarter for the following quarter (ie: Q2 cycle will release Q3 headcount). Backfills are opened with attrition throughout the year.
+There are three creation types for new requisitions: Annual Planned Headcount, [Rolling List of Ask (RLoA)](/handbook/finance/financial-planning-and-analysis/#rolling-list-of-asks-rloa) Incremental Headcount and Backfills. Annual Planned Headcount is released at the beginning of each fiscal year. RLoA Incremental Headcount is released each quarter for the following quarter (ie: Q2 cycle will release Q3 headcount). Backfills are opened with attrition throughout the year.
 
 How is headcount communicated:
 
@@ -48,7 +48,7 @@ Once the req is approved, the Hiring Manager will review the position descriptio
 
 It is important to ensure this process is done early, because it takes time to go through approvals and Total Rewards will not approve a job opening without a matching job family.
 
-### Opening Vacancies in Greenhouse (DRI: Recruiter)
+### Open Requisition in Greenhouse (DRI: Recruiter)
 
 #### Terms you need to know
 
@@ -164,9 +164,9 @@ Review how to make a referral: /handbook/hiring/referral-process/
 1. Create or update the `Job Post` under `Job Setup`, which will hold the opening description. Next to the name of the opening, click the pencil icon to edit the job post.
    - `Post To` should always be `GitLab`.
    - `Pay Transparency Rules` will help you post salary ranges to your job description, if applicable. If your job will be posted to locations `Remote, Americas`, `Remote`, or `Remote, US` (any positions posted in the US), you should select `Hiring in the USA`. If this job will not be posted in the US, select `N/A`.
-1. Copy the [Job Description Template](https://docs.google.com/document/d/1i0P4kUqxLrRCBmf7n9e1qBgB3P4pZhfQziYp7cMIKe0/edit#) for External Job Posting, or search and select the Test Support - DO NOT REPORT external post in Greenhouse as a template and copy and paste it into the job description section. Work with your hiring manager to ensure alignment on the finalized job post.
+1. Copy the [Job Description Template](https://docs.google.com/document/d/1i0P4kUqxLrRCBmf7n9e1qBgB3P4pZhfQziYp7cMIKe0/edit#) for External Job Posting and copy and paste it into the job description section. Work with your hiring manager to ensure alignment on the finalized job post.
 1. Ensure the posted job title is aligned with the details outlined on [Slide 10 in the Job Description Rebuild deck](https://docs.google.com/presentation/d/16bqHv6y4o2IIcFo2x6TNvYbK-4jchChASR9byQNdi20/edit#slide=id.g229bf74aa96_0_0).
-1. If there is already a job description listed, check to see if the [External Job Description Template](https://docs.google.com/document/d/1i0P4kUqxLrRCBmf7n9e1qBgB3P4pZhfQziYp7cMIKe0/edit#) has been applied and that no salary information is in the job description. Instead, you'll address salary in the step below.
+1. If there is already a job description listed, check to see if the [External Job Description Template](https://docs.google.com/document/d/1i0P4kUqxLrRCBmf7n9e1qBgB3P4pZhfQziYp7cMIKe0/edit#) has been applied and that no salary information is in the job description.
 1. If the `Pay Transparency` section is visible, add the CO/WA and CA/NY/NJ salary ranges that you see on the Approvals page.
 1. Once your job description is finalized, please copy and add it to the [Job Description Repository](https://drive.google.com/drive/folders/1qzuH4ol8PxIGrf11L13euI8KTzanqtKi) by creating a new Google Document, pasting your description there and titling it Job Title_Department_Date.
 1. All external job posts should have resume required in the basic application questions.
@@ -215,9 +215,9 @@ If you are applying rules to reject candidates based on visa sponsorship needs i
    - From there, you can either click `Copy from another job?` at the bottom of the pop-up and select an opening you know has an assessment. Click on `Assessment`, then `Add`.
    - If you're not sure of another opening that has an assessment, you can scroll to the bottom of the pre-populated list and select `Take Home Test`, then `Add`.
    - Once added, hover over the new stage and click the pencil next to the stage name and change the text from `Take Home Test` to `Assessment`. Then hover over the second `Take Home Test` on the right of the stage and change the text again.
-   - The assessment stage **must** be added using one of the two methods above, or it will not work properly. If you have any questions about this, please reach out to the talent acquisition operations team.
-   - Once your assessment stage is created, or if it is already included, click `Edit` in the stage. You'll then want to select any attributes you want the grader of the assessment to focus on. This will typically be more technical in nature, but select whatever seems appropriate.
-   - Scroll down to `Email to Candidate`. This is where you'll include the actual assessment questions. The "From" should be `{{MY_EMAIL_ADDRESS}}` and "Subject" `GitLab Application - {{CANDIDATE_NAME}} - {{JOB_NAME}} Questionnaire`. In the Body, craft an email and insert your assessment questions. Below the body, make sure that the `link for candidates to submit tests` is **ON**. You can also add any attachments below that field if necessary.
+   - The assessment stage **must** be added using one of the two methods above, or it will not appear in our metrics. If you have any questions about this, please reach out to the Enablement team.
+   - Once your assessment stage is created, click `Edit` in the stage. You'll then want to select any attributes you want the grader of the assessment to focus on.
+   - Scroll down to `Email to Candidate`. This is where you'll include the actual assessment questions. The "From" should be `{{MY_EMAIL_ADDRESS}}`. In the Body, craft an email and insert your assessment questions. Below the body, make sure that the `link for candidates to submit tests` is **ON**. You can also add any attachments below that field if necessary.
    - Scroll down to `Grading Instructions` and include any specific items you want your graders to look out for when they review the candidates' answers. You can copy this section over from another job if applicable.
    - Under `Custom Questions`, be sure that there is either a `Full Notes` custom question or that you add one. To add it, simply click `Add Custom Question`, title it `Full Notes`, choose `Text` as the answer type, and click `Add Custom Question`. If there are any other specific questions you want your graders to answer when reviewing the assessment, feel free to add them here. They can be required or not, depending on your preference.
    - Under `Graders and Notifications`, search for members of your team who can grade the assessments. You can select multiple people at this point, and when the assessments are actually sent out to candidates, each grader will appear and the person sending the assessment can delete extras so it is only sent to one person. You can also select who you want to be notified when the test is received; the test graders should absolutely be selected, and it's recommended for the recruiter to be notified as well. You can select any additional people to be notified as well if desired.

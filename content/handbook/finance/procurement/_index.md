@@ -89,7 +89,7 @@ If purchasing Home Office Equipment and/or Software for your individual work use
 1. Login to Zip via your [Okta home page](https://gitlab.okta.com/app/UserHome#).
 1. If you need Zip access, [submit an access request here](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request&_gl=1*bsfkbc*_ga*MzkwMDUyMjg5LjE2MzU3NzYxMDA.*_ga_ENFH3X7M5Y*MTY3NzYyMDEwMi4xMzkuMS4xNjc3NjIwOTc3LjAuMC4w).
 1. Review Zip training materials:
-    - [Zip End Users Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/)
+    - [Zip End Users Guide](/handbook/business-technology/enterprise-applications/guides/zip-guide/)
 
 ### Step 2: Submit your Zip Request
 
@@ -199,7 +199,7 @@ You can check the status of your Zip request at any time by looking at the appro
     - Send invoice to ap@gitlab.com with PO number included on the invoice
         - Failure to follow these instructions will delay payment
         - Invoices uploaded to Coupa by a GitLab team member are not routed for payment.
-1. If your request was new software, [update the tech stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#add-new-system-to-the-tech-stack) after the Zip Request is fully approved and the contract signed.
+1. If your request was new software, [update the tech stack](/handbook/business-technology/tech-stack-applications/#add-new-system-to-the-tech-stack) after the Zip Request is fully approved and the contract signed.
 
 Congratulations and thank you for following this process to support GitLab as a public company!
 
@@ -480,7 +480,7 @@ For any large internal events with a total cost greater than $1M, such as SKO, P
 
 - [Non-Disclosure Agreement (NDA) Process](https://about.gitlab.com/handbook/legal/NDA/)
 - [Certificate of Insurance Request Process](https://about.gitlab.com/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/#requesting-a-certificate-of-insurance)
-- [Uploading Third Party Contracts to ContractWorks](/handbook/legal/vendor-contract-filing-process/)
+- [Uploading Third Party Contracts to ContractWorks](https://about.gitlab.com/handbook/legal/vendor-contract-filing-process/)
 - [Company Information](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/company-information) - general information about each legal entity of the company
 - [Trademark](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines) - information regarding the usage of GitLab's trademark
 - [Authorization Matrix]({{< ref "authorization-matrix" >}}) - the authority matrix for spending and binding the company and the process for signing legal documents

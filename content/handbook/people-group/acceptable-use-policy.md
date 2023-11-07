@@ -35,7 +35,7 @@ Those receiving GitLab-provided assets are responsible for exercising good judgm
 
 As per the [onboarding issue procedures](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md) outlined in our handbook, evidence of device encryption and device serial number must be provided to IT Ops prior to the completion of onboarding period.
 
-We are currently using JAMF as our endpoint management solution for Mac laptops. All Mac laptops procured by GitLab will come configured with [JAMF](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/). GitLab team members procuring and expensing Mac Laptops will require [JAMF](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/) to be installed as part of their [Day 1 Security tasks](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-1-getting-started-accounts-and-paperwork).
+We are currently using JAMF as our endpoint management solution for Mac laptops. All Mac laptops procured by GitLab will come configured with [JAMF](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/). GitLab team members procuring and expensing Mac Laptops will require [JAMF](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/) to be installed as part of their [Day 1 Security tasks](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-1-getting-started-accounts-and-paperwork).
 
 ### Security and Proprietary Information
 
@@ -82,7 +82,7 @@ In addition to following the [Team Member Social Media Policy](https://about.git
 
 ### Return of GitLab-Owned Assets
 
-All GitLab-owned computing resources must be [returned]({{< ref "offboarding#returning-property-to-gitlab" >}}) upon separation from the company.  Notwithstanding anything contrary in the [Laptop Buy Back Policy](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#laptop-buy-back-policy) or the [Offboarding Tasks]({{< ref "offboarding#managing-the-offboarding-tasks" >}}), Team Members must return any GitLab-Owned Assets -- irrespective of their valuation -- if they are specifically requested to do so either during their tenure with GitLab or upon offboarding.
+All GitLab-owned computing resources must be [returned]({{< ref "offboarding#returning-property-to-gitlab" >}}) upon separation from the company.  Notwithstanding anything contrary in the [Laptop Buy Back Policy](/handbook/business-technology/end-user-services/onboarding-access-requests/#laptop-buy-back-policy) or the [Offboarding Tasks]({{< ref "offboarding#managing-the-offboarding-tasks" >}}), Team Members must return any GitLab-Owned Assets -- irrespective of their valuation -- if they are specifically requested to do so either during their tenure with GitLab or upon offboarding.
 
 ### Bring-Your-Own-Device (BYOD)
 
@@ -96,9 +96,9 @@ All personal mobile computing devices used to access GitLab-managed data, includ
 
 #### Unable to Use Company Laptop
 
-For new employees who have not received a company laptop, there are [exception processes](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#exception-processes) for using non-company devices.
+For new employees who have not received a company laptop, there are [exception processes](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#exception-processes) for using non-company devices.
 
-The same exception processes apply in the case of a corporate laptop being unavailable or unusable due to loss, theft or disrepair. See [lost or stolen procedures]({{< ref "/handbook/security/#panic-email" >}}) for additional information. You must open [a Policy Exeption Request](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/exceptions/issues/new?issuable_template=exception_request). While the exception processes are considered a temporary solution, you still need to make sure the non-company system meets [basic configuration standards](https://about.gitlab.com/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration), and a Microsoft Windows system is still not allowed access under any circumstances.
+The same exception processes apply in the case of a corporate laptop being unavailable or unusable due to loss, theft or disrepair. See [lost or stolen procedures]({{< ref "/handbook/security/#panic-email" >}}) for additional information. You must open [a Policy Exeption Request](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/exceptions/issues/new?issuable_template=exception_request). While the exception processes are considered a temporary solution, you still need to make sure the non-company system meets [basic configuration standards](/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration), and a Microsoft Windows system is still not allowed access under any circumstances.
 
 ### Mobile Messaging
 
@@ -112,7 +112,7 @@ The use of removable and external storage devices such as USB flash drives and e
 
 ### Use of file sharing services other than Google Drive
 
-Creating an account with, or using, a file sharing service other than Google Drive for sharing GitLab-related files with other team members or those external to GitLab is not permitted unless an exception has been granted. To obtain an exception create an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) outlining the business case, and do not proceed until the exception has been granted.
+Creating an account with, or using, a file sharing service other than Google Drive for sharing GitLab-related files with other team members or those external to GitLab is not permitted unless an exception has been granted. To obtain an exception create an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) outlining the business case, and do not proceed until the exception has been granted.
 
 When creating an account with and using a file sharing service other that Google Drive, team members must:
 

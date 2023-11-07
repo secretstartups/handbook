@@ -7,11 +7,11 @@ description: "Some support specific tips on performance management"
 
 ### What is this page?
 
-This page is intended as a supporting structure for Support Managers in handling the particularities of performance in Support.  It is not intended to replace the more comprehensive [Underperformance Page](https://about.gitlab.com/handbook/leadership/underperformance/) in the Leadership section of the Handbook.
+This page is intended as a supporting structure for Support Managers in handling the particularities of performance in Support.  It is not intended to replace the more comprehensive [Underperformance Page](/handbook/leadership/underperformance/) in the Leadership section of the Handbook.
 
 #### Goal setting
 
-Managers should work with their reports to understand their current ability and their desire for growth. Using this understanding managers should set performance goals and track progress towards them on a regular cadence. (See [Tracking your Career Development](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#tracking-your-career-development) for some ways of doing this.) Performance goals should contribute towards achieving our global KPIs.
+Managers should work with their reports to understand their current ability and their desire for growth. Using this understanding managers should set performance goals and track progress towards them on a regular cadence. (See [Tracking your Career Development](/handbook/people-group/learning-and-development/career-development/#tracking-your-career-development) for some ways of doing this.) Performance goals should contribute towards achieving our global KPIs.
 
 PTO, training and other context are important in goal setting and should be taken into account. In some cases, it might be prudent to set goals of minimal to zero contributions towards team goals to help encourage engineers to focus on these individual activities.
 Below are some common areas for goal setting:
@@ -38,14 +38,14 @@ See:
 
 ##### Pairing Sessions
 
-Pairing sessions are good to be aware of, especially if [skills-based performance](https://about.gitlab.com/handbook/leadership/underperformance/#skills-based-performance) is being coached.
+Pairing sessions are good to be aware of, especially if [skills-based performance](/handbook/leadership/underperformance/#skills-based-performance) is being coached.
 
 See: [Collaborate with team members](/handbook/support/support-engineer-responsibilities.html#collaborate-with-team-members-and-customers-daily)
 
 ##### Training
 
 Support Engineers should regularly be working to expand their skills base through whatever resources are appropriate, be it
-[Support Training Modules](https://gitlab.com/gitlab-com/support/support-training), LinkedIn Learning courses, [pairing sessions](#pairing-sessions), or other activities organized by [GitLab Learning and Development](https://about.gitlab.com/handbook/people-group/learning-and-development/).
+[Support Training Modules](https://gitlab.com/gitlab-com/support/support-training), LinkedIn Learning courses, [pairing sessions](#pairing-sessions), or other activities organized by [GitLab Learning and Development](/handbook/people-group/learning-and-development/).
 
 See: [Develop your skills through learning and training](/handbook/support/support-engineer-responsibilities.html#develop-your-skills-through-learning-and-training-weekly)
 
@@ -53,7 +53,7 @@ See: [Develop your skills through learning and training](/handbook/support/suppo
 
 Individual performance can be challenging to measure: week over week performance may be clouded by PTO, or time spent focusing on areas that have a high number of hours invested for a low overall output. For example, a Support Engineer working with a customer in an escalated state may spend many hours working on a challenging problem, take no new tickets during that time, and produce a small number of comments that solve the case. But when considered over time, such indicators can be helpful at evaluating [results](/handbook/values/#results).
 
-For a more complete look, see [warning signs / patterns of underperformance](https://about.gitlab.com/handbook/leadership/underperformance/#warning-signspatterns-of-underperformance).
+For a more complete look, see [warning signs / patterns of underperformance](/handbook/leadership/underperformance/#warning-signspatterns-of-underperformance).
 
 #### Underperformance in Support
 
@@ -61,16 +61,16 @@ Underperformance for Support Engineers is defined as an Engineer **not** meeting
 
 ###### Working through Underperformance
 
-Managers should act early by having a conversation with their direct report when a team member is underperforming. A good guideline to what is "early" is when a support engineer hasn't been meeting their goals for four consecutive weeks. At this point you should [discuss the situation and plan for moving forward with your manager](https://about.gitlab.com/handbook/leadership/underperformance/#immediately-discuss-with-the-managers-manager).
+Managers should act early by having a conversation with their direct report when a team member is underperforming. A good guideline to what is "early" is when a support engineer hasn't been meeting their goals for four consecutive weeks. At this point you should [discuss the situation and plan for moving forward with your manager](/handbook/leadership/underperformance/#immediately-discuss-with-the-managers-manager).
 
 Once you and your manager agree, the next steps are to:
 
-- [loop in the Team Member Relations Partner](https://about.gitlab.com/handbook/leadership/underperformance/#loop-in-the-team-member-relations-partner)
+- [loop in the Team Member Relations Partner](/handbook/leadership/underperformance/#loop-in-the-team-member-relations-partner)
 - Have a conversation with your direct report:
-  - review [GitLab's guidelines on providing feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#all-feedback), and any additional training you have received
+  - review [GitLab's guidelines on providing feedback](/handbook/people-group/guidance-on-feedback/#all-feedback), and any additional training you have received
   - communicate that you have identified specific behaviors that indicate the team member is not currently performing to standards (include specific examples)
   - be clear that this discussion is not a formal verbal warning or written warning
-  - ensure [psychological safety](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/) and provide space for the team member to respond and raise concerns
-  - [identify and form an action plan](https://about.gitlab.com/handbook/leadership/underperformance/#manager-identify-and-take-action-as-early-as-possible)
+  - ensure [psychological safety](/handbook/leadership/emotional-intelligence/psychological-safety/) and provide space for the team member to respond and raise concerns
+  - [identify and form an action plan](/handbook/leadership/underperformance/#manager-identify-and-take-action-as-early-as-possible)
 
-If the goals in an action plan are not met over the next **two weeks** after this conversation, go to your manager and begin working on [options for remediation](https://about.gitlab.com/handbook/leadership/underperformance/#options-for-remediation) with [Team Member Relations](https://about.gitlab.com/handbook/people-group/team-member-relations/).
+If the goals in an action plan are not met over the next **two weeks** after this conversation, go to your manager and begin working on [options for remediation](/handbook/leadership/underperformance/#options-for-remediation) with [Team Member Relations](/handbook/people-group/team-member-relations/).

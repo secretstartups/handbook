@@ -33,5 +33,5 @@ This table captures all of the links for different policies that are documented 
 1. Individual expenses that meet the expense policy on your personal credit card: Please see our [Global Travel and Expense Policy](/handbook/finance/expenses/) to see what we will reimburse and how to get reimbursement.
 1. Individual expenses using a virtual card: Please see our [Global Travel and Expense Policy](/handbook/finance/expenses/).
 1. Individual expenses using a Navan physical card. Please see our [Navan Physical Card Policy](/handbook/finance/accounts-payable/corp-credit-cards/).
-1. Company expenses using a Coupa virtual card: [Coupa Virtual Card](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/).
+1. Company expenses using a Coupa virtual card: [Coupa Virtual Card](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/).
 1. Company expenses using a purchase order: Please see our [Procurement Process (PO)](/handbook/finance/procurement/).

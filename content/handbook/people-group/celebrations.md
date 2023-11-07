@@ -25,7 +25,7 @@ GitLab encourages team members to take a day of vacation on their special day in
 
 ### Team Member Gifts and Flowers
 
-For questions on our policy and how to submit your Team Member Gift and Flower expenses, including which categories to use in Navan, please refer to the [Global Travel and Expenses handbook page](https://about.gitlab.com/handbook/finance/expenses/).
+For questions on our policy and how to submit your Team Member Gift and Flower expenses, including which categories to use in Navan, please refer to the [Global Travel and Expenses handbook page](/handbook/finance/expenses/).
 
 **Please note: The intended recipient will need to provide their residential address directly for the purposes of flower / gift delivery - personal information may not be disclosed without team member consent.**
 

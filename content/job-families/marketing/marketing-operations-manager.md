@@ -13,7 +13,7 @@ Your job is to support the Marketing Operations team in meeting our goals of opt
 
 #### Job Grade
 
-The Associate Marketing Operations Manager is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Marketing Operations Manager is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -51,7 +51,7 @@ Your job as marketing operations manager is threefold: maintaining, optimizing, 
 
 #### Job Grade
 
-The Marketing Operations Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Marketing Operations Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -88,7 +88,7 @@ All of the above requirements and:
 
 #### Job Grade
 
-The Senior Marketing Operations Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Marketing Operations Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -112,7 +112,7 @@ All of the above requirements and:
 
 #### Job Grade
 
-The Staff Marketing Operations Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Marketing Operations Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Justification
 
@@ -145,7 +145,7 @@ All of the above requirements and:
 
 #### Job Grade
 
-The Principal Marketing Operations Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Marketing Operations Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Justification
 
@@ -177,7 +177,7 @@ The business need for an individual contributor Staff Manager Marketing Operatio
 
 #### Job Grade
 
-The Manager, Marketing Operations is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Marketing Operations is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -198,13 +198,13 @@ The Manager, Marketing Operations is a [grade 8](https://about.gitlab.com/handbo
 
 #### Career Ladder
 
-The next step in a Manager, Marketing Operations' career at GitLab is to be a Senior Manager, Marketing Operations. The next step after that would be [Director, Marketing Operations.](https://about.gitlab.com/job-families/marketing/director-marketing-operations/).
+The next step in a Manager, Marketing Operations' career at GitLab is to be a Senior Manager, Marketing Operations. The next step after that would be [Director, Marketing Operations.](/job-families/marketing/director-marketing-operations/).
 
 ### Senior Manager, Marketing Operations
 
 #### Job Grade
 
-The Senior Manager, Marketing Operations is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and extends the responsibilities of the grade 8 manager level.
+The Senior Manager, Marketing Operations is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and extends the responsibilities of the grade 8 manager level.
 
 #### Responsibilities
 
@@ -233,8 +233,8 @@ The Senior Manager, Marketing Operations is a [grade 9](https://about.gitlab.com
 
 #### Career Ladder
 
-The next step in a Senior Manager, Marketing Operations career ladder would be [Director, Marketing Operations.](https://about.gitlab.com/job-families/marketing/director-marketing-operations/).
-The next step after that would be [Director, Marketing Operations.](https://about.gitlab.com/job-families/marketing/director-marketing-operations/).
+The next step in a Senior Manager, Marketing Operations career ladder would be [Director, Marketing Operations.](/job-families/marketing/director-marketing-operations/).
+The next step after that would be [Director, Marketing Operations.](/job-families/marketing/director-marketing-operations/).
 
 ### Director, Marketing Operations
 
@@ -337,15 +337,15 @@ The Senior Director, Marketing Operations is a grade 11.
 
 ### Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 15 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters after completing our questionnaire provided.
+- Qualified candidates will be invited to schedule a 15 minute [screening call](/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters after completing our questionnaire provided.
 - A 30 minute interview with future co-worker/s (Marketing Operations Manager)
 - A 45 minute interview with future manager (Director, Marketing Operations)
 - A 30 minute interview with future marketing partner/s based on specialization
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Relevant Links
 

@@ -4,7 +4,7 @@ category: Handling tickets
 description: "Support Engineering workflow detailing how to work on US Federal Tickets"
 ---
 
-US Federal Support generally follows the [working on tickets](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#what-is-the-working-on-tickets-workflow) flow for global with a few exceptions.
+US Federal Support generally follows the [working on tickets](/handbook/support/workflows/working-on-tickets.html#what-is-the-working-on-tickets-workflow) flow for global with a few exceptions.
 
 US Federal Support has a number of engineers with [verified US Citizenship](#access-limited-to-us-citizens) that have a 100% focus on addressing new and existing cases in the US Federal Support Portal. The agents focused on this instance should distribute effort and work new cases from the [Support view](https://gitlab-federal-support.zendesk.com/agent/filters/360196736831). When replying to a new case the agent making the public comment should also assign the case to themselves. Those without a 50% or higher focus on US Federal but do have access to the instance are still encouraged to participate through pairing sessions, joining customer calls, and assisting with gaps in knowledge where possible. Non-fully focused global engineers are not encouraged to assign new cases to themselves.
 
@@ -15,7 +15,7 @@ The context for this flow is because [CCs are disabled](https://about.gitlab.com
 
 ## Access limited to US Citizens
 
-Only our US Citizen Support Engineers have access to the [US Federal Zendesk Instance](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/#zendesk-us-federal). If you are a US Citizen and would like to get access and contribute you can open an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) for either a [light agent](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) or [full agent](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request)(limited to Support/Security Team members).
+Only our US Citizen Support Engineers have access to the [US Federal Zendesk Instance](/handbook/support/readiness/operations/docs/zendesk/#zendesk-us-federal). If you are a US Citizen and would like to get access and contribute you can open an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) for either a [light agent](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) or [full agent](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request)(limited to Support/Security Team members).
 
 ## Communication Guidelines
 
@@ -48,7 +48,7 @@ The US Federal team has implemented an automated follow up system that checks in
 
 There can be certain situations in which a task may take longer than 7 days for the customer to make changes and provide feedback. If there has been an agreed upon day in the future where the customer has agreed they will update us then an agent may opt to use the `Support::Block Automatic Reopen` macro. This macro will add the `blocked_by` tag and create an internal comment where the agent must fill in the details indicating why the case should remain in pending. The `blocked_by` tag must be manually removed by an agent when the agreed upon date has been reached to resume the standard pending to follow-up workflow. Some best practice suggestions for using the macro are below:
 
-- Set a [task reminder](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#due-date-picker) for the date that we should hear back from the user.
+- Set a [task reminder](/handbook/support/readiness/operations/docs/zendesk/apps/#due-date-picker) for the date that we should hear back from the user.
 - Regularly review pending cases to ensure we are receiving follow-up by the date promised
 - Put the relevant issue or case number in the blocked-by reason so that others may be aware and follow-up on your behalf
 

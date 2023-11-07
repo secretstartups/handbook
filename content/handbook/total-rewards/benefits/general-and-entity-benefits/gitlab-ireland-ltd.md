@@ -50,7 +50,7 @@ Please submit your receipts via expensify and prescription to Total Rewards.
 
 GitLab offers a private pension plan via a defined contribution scheme. Orca Financial is an Irish owned Financial Services company to help with the administration of the pension on behalf of GitLab. The pension provider is **Aviva**. Aviva allows for transfers into the plan and can set up an AVC pension for any members that wish to contribute above the minimum required contribution.
 
-Orca has put together the following [video](https://drive.google.com/file/d/1IkVkLVtKonn8JsJ2hNGZI_89V3FZyPIU/view?usp=sharing) with information about the plan as a resource.
+Orca has put together the following [video](https://docs.google.com/document/d/1i5ir2xMWMIQznq-tEGCmTkSfZ_GuuV46ARlKhAGYrS0/edit) with information about the plan as a resource.
 
 ### Pension Match
 
@@ -68,7 +68,7 @@ You will be able to review the investment strategy once enrolled through the Fun
 
 ## Death in Service
 
-All full-time GitLab team members in Ireland are eligible for death in service at 4x annual salary. Team members are automatically enrolled in this benefit. This benefit is administered through Aviva. Team members may be contacted to complete an additional questionniare if their covered amount is over the scheme limits, with potential medical underwriting required.  More information can be found on the [Retirement and Death Benefit Scheme Rules document](https://drive.google.com/file/d/1T1HjLXj2f3FmMiX3D4HVhpYF_k8zwvyr/view?usp=sharing).
+All full-time GitLab team members in Ireland are eligible for death in service at 4x base annual salary. Team members are automatically enrolled in this benefit. This benefit is administered through Aviva. Team members may be contacted to complete an additional questionniare if their covered amount is over the scheme limits, with potential medical underwriting required.  More information can be found on the [Retirement and Death Benefit Scheme Rules document](https://drive.google.com/file/d/1T1HjLXj2f3FmMiX3D4HVhpYF_k8zwvyr/view?usp=sharing).
 
 Team members can complete a [Expression of Wish Form](https://drive.google.com/file/d/1YSkmogbYIsAVhSESJXLSYBr-T_uH1x2c/view?usp=sharing) to request a beneficiary for this benefit.  Once completed, please send directly to `employeebenefits@orca.ie`
 

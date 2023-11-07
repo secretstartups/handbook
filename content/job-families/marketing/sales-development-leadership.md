@@ -9,7 +9,7 @@ summary: " "
 
 #### Director, Global Sales Development Job Grade
 
-The Director, Sales Development is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Sales Development is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Global Sales Development Responsibilities
 
@@ -40,14 +40,14 @@ The Director, Sales Development is a [grade 10](https://about.gitlab.com/handboo
 - Awareness of industry trends in enterprise digital transformation, devops, and continuous integration.
 - Excellent written and spoken English.
 - Able to articulate the GitLab mission, values, and vision.
-- [GitLab Director](https://about.gitlab.com/company/team/structure/#director-group)
+- [GitLab Director](/handbook/company/team/structure/#director-group)
 - Ability to use GitLab
 
 ### Director, Global Business Development
 
 #### Director, Global Business Development Job Grade
 
-The Director, Global Business Development is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Global Business Development is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Global Business Development Responsibilities
 
@@ -78,14 +78,14 @@ The Director, Global Business Development is a [grade 10](https://about.gitlab.c
 - Awareness of industry trends in enterprise digital transformation, devops, and continuous integration.
 - Excellent written and spoken English.
 - Able to articulate the GitLab mission, values, and vision.
-- [GitLab Director](https://about.gitlab.com/company/team/structure/#director-group)
+- [GitLab Director](/handbook/company/team/structure/#director-group)
 - Ability to use GitLab.
 
 ### Area Vice President, Sales Development
 
 #### Area Vice President, Sales Development Job Grade
 
-The Area Vice President, Sales Development is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Area Vice President, Sales Development is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Area Vice President,Sales Development Responsibilities
 
@@ -111,7 +111,7 @@ The Area Vice President, Sales Development is a [grade 11](https://about.gitlab.
 
 #### Vice President, Sales Development Job Grade
 
-The Director, Sales Development is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Sales Development is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Vice President, Sales Development Responsibilities
 
@@ -140,9 +140,9 @@ The next step in the Sales Development Leadership job family has not yet been de
 
 ### Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Candidates will then meet with the Senior Director of Revenue Marketing.
 - Candidates will then be asked to schedule an interview with the Manager of Field Marketing, Americas.
 - Candidates will then meet with the CMO.
@@ -150,7 +150,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Final candidates may be asked to complete an assessment, and  meet with the Senior Director of Revenue Marketing again.
 - Successful candidates will subsequently be made an offer via video or phone.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Relevant links
 

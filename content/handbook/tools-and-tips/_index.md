@@ -24,8 +24,8 @@ And all the permissions, issues, MRs, and relevant stuff within GitLab are relat
 #### STEP 1: Request your new username
 
 - Access the username you want to request via `https://gitlab.com/mary`.
-- Check its activity and projects to see if they are an inactive user [according to the name squatting policy](/handbook/support/workflows/namesquatting_policy.html).
-- If you're a team member, Complete the [current process for requesting a dormant username](/handbook/support/internal-support/).
+- Check its activity and projects to see if they are an inactive user [according to the name squatting policy]({{< ref "namesquatting_policy" >}}).
+- If you're a team member, Complete the [current process for requesting a dormant username]({{< ref "internal-support" >}}).
 - There's no guarantee that the username will be available for you.
 
 #### STEP 2: Create a new account with your new username{#change-username-step-2}
@@ -77,12 +77,12 @@ That's it! Don't forget to update your username in the following places:
 Team members choose to manage their GitLab activities in different ways. Setup your notifications in a way that works best for you.
 
 1. **To-do list:** all team members will see a [to-do list](https://docs.gitlab.com/ee/user/todos.html) within their GitLab account. This will track different action items. Items can be marked as done as they are completed.
-1. **Email:** team members can choose which, if any, notifications show up in their Gmail accounts by [using filters](/handbook/tools-and-tips/#filters).
+1. **Email:** team members can choose which, if any, notifications show up in their Gmail accounts by [using filters](#filters).
 1. **Slack notifications:** team members can choose to enable [Slack notifications](https://docs.gitlab.com/ee/user/project/integrations/gitlab_slack_application.html). Please note that GitLab slack expires after 90 days, so this is not a tool for longer-term activity management.
 
 ### GitLab team members' resources
 
-The [GitLab team-member resources project](https://gitlab.com/gitlab-com/gitlab-team-member-resources) has a wiki for sharing among [GitLab team-members](https://about.gitlab.com/company/team/structure/#team-and-team-members).
+The [GitLab team-member resources project](https://gitlab.com/gitlab-com/gitlab-team-member-resources) has a wiki for sharing among [GitLab team-members]({{< ref "structure#team-and-team-members" >}}).
 
 It's for topics like parenting where people may want to share knowledge, but the handbook is not the best fit.
 
@@ -108,9 +108,9 @@ A few additional resources that can be helpful when working with Mermaid are:
 - A [CSS color bank](https://www.rapidtables.com/web/css/css-color.html) to add color to your charts.
 - You can see an example of how to add images to Mermaid charts [here](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgQVtDaHJpc3RtYXNdIC0tPnxHZXQgbW9uZXl8IEIoR28gc2hvcHBpbmcpXG4gIEIgLS0-IEN7TGV0IG1lIHRoaW5rfVxuICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICBDIC0tPnxUd298IEVbaVBob25lXVxuICBDIC0tPnxUaHJlZXwgRltmYTpmYS1jYXIgQ2FyXVxuICBDIC0tPiBHXG4gIEcoXCI8aW1nIHNyYz0naHR0cHM6Ly9pY29uc2NvdXQuY29tL21zLWljb24tMzEweDMxMC5wbmcnOyB3aWR0aD0nMzAnIC8-XCIpIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQiLCJzZWN1cml0eUxldmVsIjoibG9vc2UifX0).
 - Examples of Mermaid charts that have been created by GitLab team members:
-  - [Talent Development Program Chart](https://about.gitlab.com/handbook/people-group/talent-development-program/#talent-development-program-chart) by [Cassiana Gudgenov](https://gitlab.com/cgudgenov), People Compliance Partner
-  - [CEO Year at a Glance](https://about.gitlab.com/company/cadence/#year-at-a-glance)
-  - [Data Infrastructure System Diagram](https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#system-diagram)
+  - [Talent Development Program Chart]({{< ref "talent-development-program#talent-development-program-chart" >}}) by [Cassiana Gudgenov](https://gitlab.com/cgudgenov), People Compliance Partner
+  - [CEO Year at a Glance]({{< ref "cadence#year-at-a-glance" >}})
+  - [Data Infrastructure System Diagram](/handbook/business-technology/data-team/platform/infrastructure/#system-diagram)
 - [Advanced layout demos](mermaid) for Mermaid diagrams
 
 *Note: When creating Mermaid charts in the GitLab handbook, you need to type `three back tick symbols` followed by the word `mermaid` before the chart, and `three back tick symbols` at the end of the chart. This will enable Markdown to distinguish between .md and Mermaid. Please reference the example Mermaid charts linked above to see how this looks live.*
@@ -140,9 +140,45 @@ Manual upkeep of the maintainer training issue can be time consuming. There are 
 
 **Note:** When using these tools, avoid adding mentions to maintainers in existing comments. There is a [known issue](https://gitlab.com/gitlab-org/gitlab/-/issues/118779) where users are not notified by email when mentioned in an edited comment. It only generates a TODO which a maintainer may not use.
 
+## handbook Tips
+
+The [https://handbook.gitlab.com]({{< ref "/content/_index.md" >}}) site lives in the [content-sites/handbook](https://gitlab.com/gitlab-com/content-sites/handbook/)
+repo on GitLab.  The site is mostly a collection of Markdown documents and converted in to HTML by [Hugo](https://gohugo.io/).
+In addition to the handbooks content there is a [theme repo](https://gitlab.com/gitlab-com/content-sites/docsy-gitlab])
+which is shared between the [Handbook]({{< ref "/content/_index.md" >}}) and the [Internal Handbook](https://internal.gitlab.com).
+This holds the [docs]({{< ref "/docs" >}}) and shared content for both sites as well shortcodes and other functional [Hugo](https://gohugo.io/)
+for producing the site.
+
+The documentation for the handbook site lives in the [README.md](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/main/README.md)
+at the root of the repository or in the [/docs]({{< ref "/docs" >}}) section of the Handbook.
+
+### Local development on the handbook
+
+Its easy to start local development of the handbook site.  You just need to clone the [repo](https://gitlab.com/gitlab-com/content-sites/handbook/)
+and either [Install Hugo Extended](https://gohugo.io/installation/) locally or use Docker.  In addition to Hugo you
+may also want to install [Markdownlint CLI](https://github.com/DavidAnson/markdownlint-cli2) as we use this in our pipelines.
+
+If you have Hugo Extended installed then to run the Handbook site locally just do this:
+
+```sh
+git clone https://gitlab.com/gitlab-com/content-sites/handbook.git
+cd handbook
+hugo server
+```
+
+Alternatively using Docker you can do the following:
+
+```sh
+git clone https://gitlab.com/gitlab-com/content-sites/handbook.git
+cd handbook
+docker run --rm -it -v $(pwd):/src -p 1313:1313 klakegg/hugo:0.111.3-ext-ubuntu-onbuild server
+```
+
+You can then open your web browser to [http://localhost:1313](http://localhost:1313)
+
 ## www-gitlab-com Tips
 
-The [https://about.gitlab.com](https://about.gitlab.com) site (this site!) lives in the
+The [https://about.gitlab.com](https://about.gitlab.com) site lives in the
 [www-gitlab.com](https://gitlab.com/gitlab-com/www-gitlab-com/) repo.
 
 The documentation for the site itself is in markdown documents under the
@@ -185,7 +221,7 @@ sudo apt install imagemagick
 
 ### Creating gifs
 
-We have a [dedicated section](https://about.gitlab.com/handbook/product/making-gifs) for that in the handbook.
+We have a [dedicated section](/handbook/product/making-gifs) for that in the handbook.
 
 ### Resizing images
 
@@ -390,7 +426,7 @@ Note: you have to pay for these items yourself.
 ### Wi-fi usage
 
 When using unsecured Wi-Fi, consider a personal VPN.
-We [don't have a corporate VPN](https://about.gitlab.com/handbook/security/#why-we-dont-have-a-corporate-vpn) but consider [purchasing](https://about.gitlab.com/handbook/finance/expenses/#reimbursements) a [personal VPN](/handbook/tools-and-tips/personal-vpn/) if you travel for GitLab or use unknown networks often.
+We [don't have a corporate VPN]({{< ref "/handbook/security#why-we-dont-have-a-corporate-vpn" >}}) but consider [purchasing]({{< ref "expenses#reimbursements" >}}) a [personal VPN]({{< ref "personal-vpn" >}}) if you travel for GitLab or use unknown networks often.
 
 Remember that if your job has restrictions based upon geolocation (for example supporting customers with specific data restrictions and country-based access), a personal VPN may not be the best choice as often the VPN vendor routes traffic through other countries.
 If this restriction applies to you, consider tethering.
@@ -434,7 +470,7 @@ While there are other hardware tokens that are also decent and will function wit
 
 What GitLab team members need to keep in mind is that if you travel with your company laptop - either on a business trip, a trip to visit family and friends in another location but you intend to keep working, or just a trip to the local coffee shop - treat the token with the same level of care as a credit card. Do not leave it where it could be stolen.
 
-If you are concerned about potentially losing your hardware token, be sure to add [Touch ID](https://about.gitlab.com/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--face-authentication--yubikey-to-okta) and potentially a [mobile device](https://about.gitlab.com/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--face-authentication-to-okta-for-my-mobile-device-iphoneipad-or-android) as an accepted authentication token. Sites following the FIDO2/WebAuthn standard should support multiple tokens. That way if one is lost or stolen, you can still login use another method. Currently YubiKey's are limited to one per user, in the case of lost or damaged, please reach out in the #it_security_help Slack channel and we'll assist you with a replacement.
+If you are concerned about potentially losing your hardware token, be sure to add [Touch ID](/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--face-authentication--yubikey-to-okta) and potentially a [mobile device](/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--face-authentication-to-okta-for-my-mobile-device-iphoneipad-or-android) as an accepted authentication token. Sites following the FIDO2/WebAuthn standard should support multiple tokens. That way if one is lost or stolen, you can still login use another method. Currently YubiKey's are limited to one per user, in the case of lost or damaged, please reach out in the #it_security_help Slack channel and we'll assist you with a replacement.
 
 Usage of 2FA is mandatory for GitLab team members.
 
@@ -452,7 +488,7 @@ This method is not quite as secure as a hardware token, as typically those devic
 
 ### TOTP
 
-Timed-based One-Time Password is fairly secure. This method involves a rotating value based off of a cryptographic seed that is used to uniquely identify communication between the service and the end user authenticating. The value is (usually) a six digit number that changes every 30 seconds, and during the authentication process after you've successfully entered in your username and password, you are asked to enter in the value. GitLab team members should use [1Password](https://about.gitlab.com/handbook/security/#two-factor-authentication-and-time-based-one-time-passwords) to manage TOTP codes.
+Timed-based One-Time Password is fairly secure. This method involves a rotating value based off of a cryptographic seed that is used to uniquely identify communication between the service and the end user authenticating. The value is (usually) a six digit number that changes every 30 seconds, and during the authentication process after you've successfully entered in your username and password, you are asked to enter in the value. GitLab team members should use [1Password]({{< ref "/handbook/security#two-factor-authentication-and-time-based-one-time-passwords" >}}) to manage TOTP codes.
 
 #### TOTP Caveats
 
@@ -484,7 +520,7 @@ There may be services that only offer SMS as their 2FA solution, so in those cas
 
 Remember the purpose of 2FA - it is a secondary authentication method, invoked after the primary authentication method has succeeded. You should only acknowledge a 2FA request if you personally have just successfully completed the primary authentication. An unsolicited 2FA request means someone has your password, and is in the process of trying to log in as you. This is why 2FA exists, to help protect your user account from attacks involving your password.
 
-If you experience any such irregularities, please bring it to the attention of the Security Team. For more information, review the handbook regarding [Security Awareness](https://about.gitlab.com/handbook/security/#security-awareness)
+If you experience any such irregularities, please bring it to the attention of the Security Team. For more information, review the handbook regarding [Security Awareness]({{< ref "/handbook/security#security-awareness" >}})
 
 ## Slack
 
@@ -521,7 +557,8 @@ This is especially the case when third parties could be customers' competitors.
 ### Slack Status
 
 Slack allows you to set your [status](https://slackhq.com/set-your-status-in-slack) for your fellow GitLab team members by using your choice of standard messages such as "Away" and "Lunch" or a custom message and your choice of emoji.
-If you're off work for a holiday or vacation you can update your status by using [Time Off by Deel](https://about.gitlab.com/handbook/paid-time-off/#time-off-by-deel).
+
+If you're off work for a holiday or vacation you can update your status by using [Time Off by Deel]({{< ref "paid-time-off#time-off-by-deel" >}}).
 This is a great way to let your team know whether you are available.
 
 To have your Slack status automatically set to "In a meeting" based on your Google Calendar, add the [Google Calendar app](https://gitlab.slack.com/apps/ADZ494LHY-google-calendar?next_id=0) to your Slack account.
@@ -604,7 +641,7 @@ For full information on Slack reminders [see the Slack help](https://get.slack.h
 ## Zoom
 
 There is a lot of information pertaining to Zoom, as it is a critical part of GitLab's
-communication. See the [Zoom handbook page](/handbook/tools-and-tips/zoom).
+communication. See the [Zoom handbook page]({{< ref "./zoom.md" >}}).
 
 The [Google Calendar](/handbook/tools-and-tips/#google-calendar) invite is the single source of truth for the Zoom link. Avoid linking the Zoom link in Google Document agendas since those may quickly become out of date. If the zoom link changed around the start of the meeting it is OK to have it in there temporarily.
 
@@ -626,7 +663,7 @@ This is great when someone is speaking about something they are typing on a vide
     - [Emoji live-search](https://support.google.com/docs/answer/3371015) can be accessed by typing `@:`, or shorter using the `:` character. Start typing to search for an emoji and press enter to insert.
 1. Pageless docs are great for documents you don't intend to print, and is the [preferred format at GitLab](/handbook/communication/#pageless-is-the-gitlab-preferred-format). You can [switch in File > Page setup](https://support.google.com/docs/answer/11528737).
 
-See also [Live Doc Meetings](https://about.gitlab.com/company/culture/all-remote/live-doc-meetings/) for more Google Doc tips.
+See also [Live Doc Meetings]({{< ref "live-doc-meetings" >}}) for more Google Doc tips.
 
 ### Google Analytics
 
@@ -686,7 +723,7 @@ For meetings spanning across multiple time zones and with external parties, [Tim
 #### GitLab availability calendar
 
 The GitLab Availability Calendar has been deprecated to allow for GitLab to scale effectively.
-We have created [tools and tips for managing your time off](https://about.gitlab.com/handbook/paid-time-off/).
+We have created [tools and tips for managing your time off]({{< ref "paid-time-off" >}}).
 
 #### Setting working hours & location
 
@@ -817,7 +854,7 @@ Check `Display secondary time zone` and select `(GMT+00:00) Coordinated Universa
 
 ### Google Cloud Platform
 
-See the [Sandbox Cloud page](/handbook/infrastructure-standards/realms/sandbox/) for a listing of cloud resources and how to gain access to them.
+See the [Sandbox Cloud page]({{< ref "/handbook/infrastructure-standards/realms/sandbox" >}}) for a listing of cloud resources and how to gain access to them.
 
 ### Google Drive
 
@@ -860,7 +897,7 @@ As already stated, **this should never be the final resting place for shared fil
 
 There are a few Google Drive repositories of GitLab shared files (there might be more, please add if not listed here):
 
-- [UX Research Drive](https://drive.google.com/drive/folders/0AH_zdtW5aioNUk9PVA) - This houses all findings from [Customer Discovery Meetings](https://about.gitlab.com/handbook/product/product-processes/#customer-discovery-meetings) and raw, confidential materials from customers shared with Design, UX Research, Product and Customer Success. Distilled findings from [User Research](https://about.gitlab.com/handbook/product/ux/ux-research/) are stored in the [UXR_Insights repository](https://gitlab.com/gitlab-org/uxr_insights/).
+- [UX Research Drive](https://drive.google.com/drive/folders/0AH_zdtW5aioNUk9PVA) - This houses all findings from [Customer Discovery Meetings](/handbook/product/product-processes/#customer-discovery-meetings) and raw, confidential materials from customers shared with Design, UX Research, Product and Customer Success. Distilled findings from [User Research](/handbook/product/ux/ux-research/) are stored in the [UXR_Insights repository](https://gitlab.com/gitlab-org/uxr_insights/).
 - [GitLab Marketing Drive](https://drive.google.com/drive/u/0/folders/0Bz6KrzE1R_3helZZQlV3ajFNTzg) - This houses all shared files from the entire Marketing organization.
 The best practice is for sub-organizations to have their own directory inside this space (e.g. [Strategic Marketing](https://drive.google.com/drive/u/0/folders/0Bz6KrzE1R_3hNjJMNUt2LUJGREU)).
 - [Sales Drive](https://drive.google.com/drive/u/0/folders/0BzQII5CcGHkKSFFJWkx3R1lUdGM) - This houses all the shared files from the Sales organization.
@@ -936,7 +973,7 @@ Set up an [email signature](https://support.google.com/mail/answer/8395) which i
 
 #### Email signature if employed by our German entity
 
-If you are employed by our German entity GitLab GmbH, you will need to include some additional company related details after your own signature in emails ([along with other forms of communication listed on the German entity Handbook page](https://about.gitlab.com/handbook/people-group/employment-solutions/entities/germany-gmbh/)) as follows:
+If you are employed by our German entity GitLab GmbH, you will need to include some additional company related details after your own signature in emails ([along with other forms of communication listed on the German entity Handbook page]({{< ref "gmbh-germany" >}})) as follows:
 
 <span style="font-family: serif;font-size: small;display: block;">John Doe</span>
 <span style="color: #999999;font-family: sans-serif;font-size: small;display: block;">Frontend Engineer | GitLab</span>
@@ -1048,7 +1085,7 @@ Jamboard is a collaborative whiteboarding platform, accessible at <https://jambo
   - Hide the bookmarks bar: `cmd shift b` (e.g. for screenshots, or shared screen presentations)
   - Open the developer tools: `cmd option i` (e.g. for debugging website errors)
 - You can [organize tabs into tab groups](https://www.google.com/chrome/tips/#organize), assign names and custom colors, and collapse or reorder them. Moving tabs between groups also works across browser windows.
-- Logging in to the browser (with your GitLab Workspace account) preserves [your profile across installations](https://www.google.com/chrome/tips/#customize). This is helpful to migrate bookmarks, extensions, and configuration [when refreshing your laptop](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#gitlab-laptop-refreshes-for-team-members).
+- Logging in to the browser (with your GitLab Workspace account) preserves [your profile across installations](https://www.google.com/chrome/tips/#customize). This is helpful to migrate bookmarks, extensions, and configuration [when refreshing your laptop](/handbook/business-technology/end-user-services/onboarding-access-requests/#gitlab-laptop-refreshes-for-team-members).
 
 #### Chrome Performance Settings
 

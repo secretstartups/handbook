@@ -39,18 +39,18 @@ The following links contain frequently asked security, legal & privacy, and avai
 
 ### Acceptable use
 
-- [Internal acceptable use policy](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/)
+- [Internal acceptable use policy](/handbook/people-group/acceptable-use-policy/)
 - [GitLab's terms of use](https://about.gitlab.com/terms/)
 
 ### Access management
 
 - [Access Management Policy]({{< ref "access-management-policy" >}})
 - [Access Review Procedure]({{< ref "security-assurance/security-compliance/access-reviews" >}})
-- [Access Request process](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/)
+- [Access Request process](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/)
 
 ### Business continuity
 
-- [Business Continuity Plan](https://about.gitlab.com/handbook/business-technology/gitlab-business-continuity-plan/)
+- [Business Continuity Plan](/handbook/business-technology/gitlab-business-continuity-plan/)
 - [Business Impact Analysis]({{< ref "business-impact-analysis" >}})
 - [Information System Contingency Plan]({{< ref "Information-System-Contingency-Plan-ISCP" >}})
 
@@ -73,9 +73,9 @@ The following links contain frequently asked security, legal & privacy, and avai
 
 ### Endpoint management
 
-- [Endpoint management at GitLab](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/)
-    - [Jamf](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf/)
-    - [EDR](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/edr/)
+- [Endpoint management at GitLab](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/)
+    - [Jamf](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf/)
+    - [EDR](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/edr/)
 - [Use Gitleaks as a pre-commit git hook on laptops]({{< ref "gitleaks" >}})
 
 ### GitLab.com hardening techniques

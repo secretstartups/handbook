@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Access Management Policy"
 ---
 
@@ -41,7 +41,7 @@ These templates should be used during the [onboarding process](/handbook/people-
 
 ## Access Control
 
-- All new access or permissioning change requests that are not part of a team member's [baseline role-based entitlements](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/) will require a [New Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request).
+- All new access or permissioning change requests that are not part of a team member's [baseline role-based entitlements](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/) will require a [New Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request).
 
 - Shared accounts may not be used for customers.gitlab.com, dev.gitlab.org, Shopify, Stripe, and Zuora in order to comply with PCI-DSS requirements. Currently, GitLab's financial controls prohibit the use of shared accounts within the following applications: NetSuite.
 
@@ -53,7 +53,7 @@ These templates should be used during the [onboarding process](/handbook/people-
    - ARs for Slack groups for internal GitLab team members
    - ARs using a role based template
    - ARs for access removal
-   - ARs resulting from a [User Access Review](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/access-reviews.html) in which users are marked for an access change by the technical/business owner performing the review
+   - ARs resulting from a [User Access Review](/handbook/security/security-assurance/security-compliance/access-reviews.html) in which users are marked for an access change by the technical/business owner performing the review
 
   Please note that ARs for access to internal systems for "external to GitLab individuals" require managerial approval. This includes access to Google Workspace security groups.
 
@@ -64,7 +64,7 @@ These templates should be used during the [onboarding process](/handbook/people-
     - [GitLab CE and GitLab EE](https://gitlab.com/gitlab-org/gitlab) (aka single Rails repository)
   - Groups:
     - [GitLab.com](https://gitlab.com/gitlab-com) and [GitLab.org](https://gitlab.com/gitlab-org) - top level group permissions
-    -NOTE: When provisioning access to a top level group, access is inherited to all sub-groups and projects below the group. For this reason, Owner and Maintainer access should **almost always** be provisioned at the project or sub-group levels rather than at the top parent group level, else we may not adhere to our [principle of least-privilege](https://about.gitlab.com/handbook/security/access-management-policy.html#principle-of-least-privilege).
+    -NOTE: When provisioning access to a top level group, access is inherited to all sub-groups and projects below the group. For this reason, Owner and Maintainer access should **almost always** be provisioned at the project or sub-group levels rather than at the top parent group level, else we may not adhere to our [principle of least-privilege](/handbook/security/access-management-policy.html#principle-of-least-privilege).
 
 - For all projects, access requests should be submitted when requesting explicit access to private groups, sub-groups, and repositories, as well as public facing repositories that are limited in access to GitLab team members in order to facilitate deprovisioning. This also allows for greater oversight of permissions being granted across GitLab projects.
 
@@ -78,7 +78,7 @@ These templates should be used during the [onboarding process](/handbook/people-
 
 - All requests for new service accounts require a New Service Account Request:
 
-  - [Gitlab.com Service Account Request](https://about.gitlab.com/handbook/security/access-management-policy.html#requesting-gitlabcom-service-account-for-automation)
+  - [Gitlab.com Service Account Request](/handbook/security/access-management-policy.html#requesting-gitlabcom-service-account-for-automation)
   - [GCP Service Account Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GCP_Google_Service_Account_Request)
   - [Other System Service Account Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New_Service_Account_Request)
 
@@ -90,7 +90,7 @@ These templates should be used during the [onboarding process](/handbook/people-
 
 ### Role Based Access Control (RBAC) Requirements
 
-GitLab has an established RBAC via the formalization and maintainence of [Baseline Role-Based Entitlements](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/). RBAC is subject to continuous control monitoring by the Security Compliance team to ensure that GitLab meets its regulatory and compliance obligations related to user access to information. Additionally, as noted per the requirements in the role baseline template, changes to permissions on these documents are required to be reviewed and approved by the Director, Senior Leader or Manager of the team that the role belongs to. If an update is proposed by a Manager or above, it should be reviewed by another, more senior manager of the team that the role belongs to.
+GitLab has an established RBAC via the formalization and maintainence of [Baseline Role-Based Entitlements](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/). RBAC is subject to continuous control monitoring by the Security Compliance team to ensure that GitLab meets its regulatory and compliance obligations related to user access to information. Additionally, as noted per the requirements in the role baseline template, changes to permissions on these documents are required to be reviewed and approved by the Director, Senior Leader or Manager of the team that the role belongs to. If an update is proposed by a Manager or above, it should be reviewed by another, more senior manager of the team that the role belongs to.
 
 The structure of the baseline role-based entitlements ensures that team members receive the appropriate access privileges when they join GitLab. These templates are based off one of the following:
 - A team member's title (excluding levels, such as Junior, Senior, etc.), as listed in their Workday employment profile
@@ -99,7 +99,7 @@ The structure of the baseline role-based entitlements ensures that team members 
       - [role_security_assurance_engineer_security_risk](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/blob/master/.gitlab/issue_templates/role_baseline_access_request_tasks/department_security/role_security_assurance_engineer_security_risk.md)
       - [role_security_assurance_engineer_compliance](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/blob/master/.gitlab/issue_templates/role_baseline_access_request_tasks/department_security/role_security_assurance_engineer_compliance.md)
 
-Specific instructions for the creation, review, and maintenance of these templates can be found [here](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#instructions). These instructions also include details on any nuances that should be considered as part of the creation of the template.
+Specific instructions for the creation, review, and maintenance of these templates can be found [here](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#instructions). These instructions also include details on any nuances that should be considered as part of the creation of the template.
 
 ### Access Control Process Exceptions
 
@@ -168,7 +168,7 @@ GitLab operates its access management under the [principle of least privilege](h
 
   - The Security Operations team will periodically perform an access review of **GitLab infrastructure** accounts, to include a [least privilege review]({{< ref "_index.md#least-privilege-reviews-for-access-requests" >}}).
   - The Internal Audit team will periodically perform an access review of **financial application** accounts, to include a [least privilege review]({{< ref "_index.md#least-privilege-reviews-for-access-requests" >}}), as part of routine audits. A comprehensive access audit may be performed based on an annual risk assessment.
-  - Quarterly access reviews and access recertifications are performed for all applications that are determined by Internal Audit to be [SOX-in-scope](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/).
+  - Quarterly access reviews and access recertifications are performed for all applications that are determined by Internal Audit to be [SOX-in-scope](/handbook/internal-audit/sarbanes-oxley/).
   - For source code security, access reviews for `gitlab.org` owners and maintainers will be performed quarterly by the Security Compliance team and verified by Infrastructure for appropriate permissions.
 
 - As part of an access review, existing access may be modified or revoked. New access (not modification of existing access) requires the submission of a [New Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request).
@@ -258,7 +258,7 @@ For anyone hired **before** 2020-03-23: Upon offboarding - IT Operations will up
 
 ### Access to all systems
 
-Access to all systems including GitLab accounts should be removed through the offboarding process to mitigate the risk of off-boarded employees retaining access to our systems and confidentail information. In line with our SOX requirements, please refer to our [SOX ITGC Compliance HB page](https://about.gitlab.com/handbook/business-technology/it-compliance/ITGC.html) control LA.2 for additional information related to our ITGC controls.
+Access to all systems including GitLab accounts should be removed through the offboarding process to mitigate the risk of off-boarded employees retaining access to our systems and confidentail information. In line with our SOX requirements, please refer to our [SOX ITGC Compliance HB page](/handbook/business-technology/it-compliance/ITGC.html) control LA.2 for additional information related to our ITGC controls.
 
 ## Exceptions
 

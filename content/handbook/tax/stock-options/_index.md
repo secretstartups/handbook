@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Tax Treatment When Exercising Your Stock Options"
 ---
 

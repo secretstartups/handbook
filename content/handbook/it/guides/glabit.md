@@ -13,7 +13,7 @@ This handbook page provides an overview, however you will find all of the techni
 
 In the past, we used the IT CLI Scripts that were installed on each team member's computer and had API tokens to different systems. GLabIT moves from a client-only model to a [client-server API middleware model](https://gitlab-it.gitlab.io/glabit-docs/cli/overview#introduction) for running scripts, with the added benefit of scheduled background jobs.
 
-As we mature our operations, GLabIT will be a centralized platform to host our new [Level 3 and Level 4 automations](https://about.gitlab.com/handbook/business-technology/it/engineering/automation/) that are more complex than a no-code integration.
+As we mature our operations, GLabIT will be a centralized platform to host our new [Level 3 and Level 4 automations](/handbook/business-technology/it/engineering/automation/) that are more complex than a no-code integration.
 
 ## Services
 
@@ -24,7 +24,7 @@ GLabIT is a platform that hosts many automation related (micro-)services and scr
 | `it-eng` | [ARCHIE Directory](https://gitlab-it.gitlab.io/glabit-docs/archie/overview)              | FY23-Q2 (WIP)     |
 | `it-eng` | [ARCHIE Group Policies](https://gitlab-it.gitlab.io/glabit-docs/archie/overview)         | FY23-Q2 (WIP)     |
 | `it-eng` | [ARCHIE Group Provisioner](https://gitlab-it.gitlab.io/glabit-docs/archie/overview)      | FY23-Q2 (WIP)     |
-| `it-eng` | [HackyStack](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/) | FY23-Q3 (Planned) |
+| `it-eng` | [HackyStack](/handbook/infrastructure-standards/realms/sandbox/) | FY23-Q3 (Planned) |
 | `it-eng` | [IT Ops CLI Scripts](https://gitlab.com/gitlab-com/it/dev/it-ops-laravel-cli-scripts)    | FY23-Q3 (Planned) |
 | `it-eng` | [Demo Systems](https://about.gitlab.com/handbook/customer-success/demo-systems/)         | FY23-Q3 (Planned) |
 | `it-eng` | [Training Systems](https://about.gitlab.com/handbook/customer-success/demo-systems/)     | FY23-Q3 (Planned) |

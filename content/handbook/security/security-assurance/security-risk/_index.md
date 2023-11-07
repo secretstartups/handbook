@@ -21,7 +21,7 @@ Please refer to the [communication section of the StORM Program & Procedures]({{
 
 ### <i class="fas fa-hands-helping" style="color:rgb(253,109,38)" aria-hidden="true"></i> Security Third Party Risk Management (TPRM) Program{#tprm}
 
-The TPRM Program is focused on identifying and assessing the incremental security risk impact that may develop over the lifecycle of GitLab's relationship with various third parties. Our program is integrated within the [Procurement](https://about.gitlab.com/handbook/finance/procurement/) process and is built to continuously monitor third parties based on risk. Additional information can be found on the [Third Party Risk Management]({{< ref "third-party-risk-management" >}}) handbook page.
+The TPRM Program is focused on identifying and assessing the incremental security risk impact that may develop over the lifecycle of GitLab's relationship with various third parties. Our program is integrated within the [Procurement](/handbook/finance/procurement/) process and is built to continuously monitor third parties based on risk. Additional information can be found on the [Third Party Risk Management]({{< ref "third-party-risk-management" >}}) handbook page.
 
 ### <i class="fas fa-exclamation-triangle" style="color:rgb(253,109,38)" aria-hidden="true"></i> Business Impact Analysis (BIA) and Critical System Tiering (CST){#bia}
 
@@ -31,7 +31,7 @@ The Security Risk Team facilitates a BIA for all new systems. A BIA is performed
 
 ### <i class="fas fa-warehouse" style="color:rgb(253,109,38)" aria-hidden="true"></i> Asset Inventory Maintenance{#asset-inventory}
 
-Establishing a complete and accurate inventory of assets is key to the success of GitLab's Risk Program. As such, the Security Risk Team collaborates closely with IT and Business Owners to ensure new systems are added to the [Tech Stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#roles-and-responsibilities) and that associated data is maintained via our BIA processes.
+Establishing a complete and accurate inventory of assets is key to the success of GitLab's Risk Program. As such, the Security Risk Team collaborates closely with IT and Business Owners to ensure new systems are added to the [Tech Stack](/handbook/business-technology/tech-stack-applications/#roles-and-responsibilities) and that associated data is maintained via our BIA processes.
 
 ----
 
@@ -52,9 +52,9 @@ Establishing a complete and accurate inventory of assets is key to the success o
 
 ## <i class="fa-solid fa-d" style="color:rgb(110,73,203)" aria-hidden="true"></i> Functional DRIs{#dris}
 
-While the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#characteristics-of-a-project-dri) is the individual who is ultimately held accountable for the success or failure of any given project, they are not necessarily the individual that does the tactical project work. The DRI should consult and collaborate with all teams and stakeholders involved to ensure they have all relevant context, to gather input/feedback from others, and to divide action items and tasks amongst those involved.
+While the [DRI](/handbook/people-group/directly-responsible-individuals/#characteristics-of-a-project-dri) is the individual who is ultimately held accountable for the success or failure of any given project, they are not necessarily the individual that does the tactical project work. The DRI should consult and collaborate with all teams and stakeholders involved to ensure they have all relevant context, to gather input/feedback from others, and to divide action items and tasks amongst those involved.
 
-DRIs are responsible for ensuring a [handbook-first approach](https://about.gitlab.com/company/culture/all-remote/handbook-first/) to their project(s) and challenging existing processes for [efficiency]({{< ref "values#efficiency" >}}).
+DRIs are responsible for ensuring a [handbook-first approach](/handbook/company/culture/all-remote/handbook-first/) to their project(s) and challenging existing processes for [efficiency]({{< ref "values#efficiency" >}}).
 
 |Function     |DRI|
 |:----------:|:----------:|

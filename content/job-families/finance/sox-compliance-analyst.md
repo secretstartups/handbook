@@ -11,7 +11,7 @@ The Senior SOX Compliance Analyst reports to the Senior Internal Audit Manager.
 
 #### Job Grade
 
-The Senior SOX Compliance Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior SOX Compliance Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -40,21 +40,21 @@ The Senior SOX Compliance Analyst is a [grade 7](https://about.gitlab.com/handbo
 
 #### Performance Indicators
 
-- [Percentage of Desktop procedures documented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of controls tested](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of recommendations implemented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of audits completed](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of Desktop procedures documented](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of controls tested](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of recommendations implemented](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of audits completed](/handbook/internal-audit/#internal-audit-performance-measures)
 
 #### Career Ladder
 
-The next step in the SOX Compliance Analyst job family is to move to the [Manager, Internal Audit](https://about.gitlab.com/job-families/finance/internal-audit/#manager-internal-audit) job family.
+The next step in the SOX Compliance Analyst job family is to move to the [Manager, Internal Audit](/job-families/finance/internal-audit/#manager-internal-audit) job family.
 
 #### Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with our Senior Internal Audit Manager.
 - Candidates will then be invited to schedule a second round of interview with Principal Accounting Officer.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

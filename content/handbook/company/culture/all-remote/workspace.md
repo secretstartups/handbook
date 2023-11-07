@@ -46,7 +46,7 @@ Assuming you're lucky enough to have excellent access, you may also want to set 
 
 ### PC
 
-Refer to your company's policy for specifics on [purchasing a computer or laptop](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests#laptops). Since this will your main mode of working and communicating, be sure the specs and speed fit your optimal way of working.
+Refer to your company's policy for specifics on [purchasing a computer or laptop](/handbook/business-technology/team-member-enablement/onboarding-access-requests#laptops). Since this will your main mode of working and communicating, be sure the specs and speed fit your optimal way of working.
 
 ### Camera with video capability
 
@@ -205,7 +205,7 @@ If you plan to stand for an extended portion of your working day, consider inves
 
 ### Office supplies
 
-If you're transitioning from an office environment where supplies magically appeared or were stocked in a closet for your use, now you are responsible for acquiring them. Check out our [complete list of office supplies](https://about.gitlab.com/handbook/finance/procurement/office-equipment-supplies).
+If you're transitioning from an office environment where supplies magically appeared or were stocked in a closet for your use, now you are responsible for acquiring them. Check out our [complete list of office supplies](/handbook/finance/procurement/office-equipment-supplies).
 
 ## Creating the right environment
 
@@ -274,7 +274,7 @@ Try not to [worry about your background]({{< ref "./meetings#meetings-are-about-
 
 ### Not sure what is reimbursable?
 
-Items you want for your home office may or may not be reimbursable.  Please refer to the [Home Office Equipment and Supplies](https://about.gitlab.com/handbook/finance/procurement/office-equipment-supplies) to see what is allowed to be reimbursed.
+Items you want for your home office may or may not be reimbursable.  Please refer to the [Home Office Equipment and Supplies](/handbook/finance/procurement/office-equipment-supplies) to see what is allowed to be reimbursed.
 
 ### What should I do if I don't have enough space for a home office?
 
@@ -284,7 +284,7 @@ Get creative if you cannot dedicate space for a permanent home office. You can a
 
 Whether an organization is [fully remote, remote-first, or hybrid]({{< ref "./stages" >}}), it's up to company leaders to enable an equitable and inclusive employee experience. Just as you'd invest in a team's workspace in a physical office, enabling team members to create healthy and productive spaces is a core part of building remote infrastructure. An optimized workspace leads to [team member happiness, wellness, and engagement]({{< ref "./stories" >}}), and it also leads to better overall results for your organization.
 
-Keep in mind that there's no "one size fits all" for a home office setup, because each member of your team has different needs, work preferences, and home environments. Consider providing budget for your team to spend on their home workspace, a coworking space, or equipment needed to be productive on the go. For example, at GitLab, team members are [allowed to spend company money](https://about.gitlab.com/handbook/spending-company-money) as they would their own, with [guidance provided](https://about.gitlab.com/handbook/finance/expenses#-setting-up-a-home-office-for-the-first-time) for various types of equipment. Keep in mind that team members' needs may change as they [experiment to find their ideal work environment]({{< ref "./getting-started#experiment-with-work-environments" >}}).
+Keep in mind that there's no "one size fits all" for a home office setup, because each member of your team has different needs, work preferences, and home environments. Consider providing budget for your team to spend on their home workspace, a coworking space, or equipment needed to be productive on the go. For example, at GitLab, team members are [allowed to spend company money](https://about.gitlab.com/handbook/spending-company-money) as they would their own, with [guidance provided](/handbook/finance/expenses#-setting-up-a-home-office-for-the-first-time) for various types of equipment. Keep in mind that team members' needs may change as they [experiment to find their ideal work environment]({{< ref "./getting-started#experiment-with-work-environments" >}}).
 
 ## GitLab Knowledge Assessment: Considerations for a productive home office or remote workspace
 

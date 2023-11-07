@@ -3,7 +3,7 @@ title: "Zuora Billing Tech Stack Guide"
 description: "Reference for how Zuora Billing is implemented."
 ---
 
-> **Note:** Refer to the **[Tech Stack Index](https://about.gitlab.com/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/)** to manage Apps.
+> **Note:** Refer to the **[Tech Stack Index](/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](/handbook/business-technology/tech-stack-applications/)** to manage Apps.
 
 {{% tech-stack "Zuora Billing" %}}
 
@@ -24,7 +24,7 @@ graph TD
 
 ## Quote to Cash workflow
 
-Zuora Billing is a central module within the **[Quote to Cash workflow](https://about.gitlab.com/handbook/business-technology/enterprise-applications/quote-to-cash/#quote-to-cash-introduction)** and interfaces with many other apps.
+Zuora Billing is a central module within the **[Quote to Cash workflow](/handbook/business-technology/enterprise-applications/quote-to-cash/#quote-to-cash-introduction)** and interfaces with many other apps.
 
 ```mermaid
 graph TD
@@ -52,9 +52,9 @@ graph TD
 
 ## Lead to Cash workflow
 
-Zuora Billing is a key module within the **[Lead to Cash workflow](https://about.gitlab.com/handbook/business-technology/enterprise-applications/quote-to-cash/#lead-to-cash-flow)**.
+Zuora Billing is a key module within the **[Lead to Cash workflow](/handbook/business-technology/enterprise-applications/quote-to-cash/#lead-to-cash-flow)**.
 
-![Lead to Cash Workflow](https://about.gitlab.com/handbook/business-technology/tech-stack-guide/2022-06-03_lead_to_cash_flow.png)
+![Lead to Cash Workflow](/handbook/business-technology/tech-stack-guide/2022-06-03_lead_to_cash_flow.png)
 
 ## Key Reports / Dashboards
 
@@ -65,7 +65,7 @@ For Zuora Billing, the team uses [Zuora Standard Reports](https://knowledgecente
 
 We also have a collection of Sisense Dashboards that include Zuora Data. These dashboards include data from other data sources such as Salesforce:
 
-- [TD: Zuora Revenue Waterfall](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/zuora_revenue_waterfall/)
+- [TD: Zuora Revenue Waterfall](/handbook/business-technology/data-team/data-catalog/zuora_revenue_waterfall/)
 - [TD: Customer Segmentation](https://app.periscopedata.com/app/gitlab:safe-dashboard/919364/TD:-Customer-Segmentation)
 - [Zuora ATR (Available to Renew)](https://app.periscopedata.com/app/gitlab:safe-dashboard/919223/Zuora-ATR-%7C-MYB---Live---v1.1)
 - [FY22 Zuora ATR](https://app.periscopedata.com/app/gitlab:safe-dashboard/919260/FY22:-Zuora-ATR---Based-on-FY21-Exit-ARR,-Snapshot-Date---2021-02-04)
@@ -74,7 +74,7 @@ We also have a collection of Sisense Dashboards that include Zuora Data. These d
 
 The [Zuora Billing business object model](https://knowledgecenter.zuora.com/BB_Introducing_Z_Business/A_Zuora_Billing_business_object_model) presents how Zuora is organized internally.
 
-![Zuora Billing Data Model](https://about.gitlab.com/handbook/business-technology/tech-stack-guide/2020_08_01_Zuora_Billing_object_model.png)
+![Zuora Billing Data Model](/handbook/business-technology/tech-stack-guide/2020_08_01_Zuora_Billing_object_model.png)
 
 ## Key Data Objects
 
@@ -93,7 +93,7 @@ Zuora is the SSOT for these objects and the data can be viewed there. In additio
 
 ### Product catalog
 
-The Zuora Enterprise App Guide contains a [Product Catalog to manage all of GitLab's SKUs](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zuora/#product-catalog).
+The Zuora Enterprise App Guide contains a [Product Catalog to manage all of GitLab's SKUs](/handbook/business-technology/enterprise-applications/guides/zuora/#product-catalog).
 
 ## Integrations
 
@@ -124,11 +124,11 @@ CustomersDot data to Zuora via [IronBank GEM](https://gitlab.com/gitlab-org/cust
 
 ### Zuora to Snowflake
 
-Zuora Data to [Snowflake Enterprise Data Warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack) with the [Stitch Zuora Integration](https://www.stitchdata.com/integrations/zuora)
+Zuora Data to [Snowflake Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/#our-data-stack) with the [Stitch Zuora Integration](https://www.stitchdata.com/integrations/zuora)
 
 ### Zuora to NetSuite
 
-Zuora Revenue data is synced to NetSuite using the [Zuora Revenue to NetSuite Integration](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/wiki/integrations-list/zuora-revenue-to-netsuite/).
+Zuora Revenue data is synced to NetSuite using the [Zuora Revenue to NetSuite Integration](/handbook/business-technology/enterprise-applications/integrations/wiki/integrations-list/zuora-revenue-to-netsuite/).
 
 ### Zuora to Tesorio
 

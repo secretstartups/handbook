@@ -54,7 +54,7 @@ you can follow a similar process as the [expired support process](#handling-cust
 
 However, if you're unsure, it may indicate a potential problem with the SFDC -> ZD sync.
 Open an issue in the
-[sync project](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/zendesk_salesforce_sync/).
+[sync project](/handbook/support/readiness/operations/docs/zendesk/zendesk_salesforce_sync/).
 
 ### Handling customers with incorrect expired support
 
@@ -177,7 +177,7 @@ After that, the cc'ed user's next replies will not be marked as internal anymore
 > ⚠️ **Warning**  
 > This page is outdated and should only be referenced for historical purposes. Please do not use any of the processes on this page.
 
-Tickets should show in the [appropriate view(s)](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/views/).
+Tickets should show in the [appropriate view(s)](/handbook/support/readiness/operations/docs/zendesk/views/).
 
 ### Organizations with multiple subscriptions
 
@@ -186,12 +186,12 @@ When a ticket is initially created or an org is first tied, the ticket will rece
 This means that orgs with multiple subscription related SLA tags (such as `silver` and `premium`),
 the ticket will show up in multiple views.
 
-Remove the [SLA tag](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/tags/) that does not apply for the ticket.
+Remove the [SLA tag](/handbook/support/readiness/operations/docs/zendesk/tags/) that does not apply for the ticket.
 
 If you find an org with multiple active subscriptions and it's missing the appropriate tag(s):
 
 1. File an issue to [report the inaccuracy](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zd-sfdc-sync-global).
-1. Manually change the ticket's tags to have the correct [SLA tag](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/tags/).
+1. Manually change the ticket's tags to have the correct [SLA tag](/handbook/support/readiness/operations/docs/zendesk/tags/).
 1. Link the support ops issue and note the manual change as an internal note on the ticket.
 
 ### Priority prospects showing in multiple views
@@ -206,10 +206,10 @@ In cases where a ticket is showing in the wrong queue:
 
 1. Ensure that the ticket has [the correct form]({{< ref "ticket_triage" >}}).
 1. If the [priority prospect tag is present, follow instructions above](#priority-prospects-showing-in-multiple-views).
-1. If it looks to be a valid customer or there are multiple [SLA tags](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/tags/),
+1. If it looks to be a valid customer or there are multiple [SLA tags](/handbook/support/readiness/operations/docs/zendesk/tags/),
 follow the [multiple subscription org instructions](#organizations-with-multiple-subscriptions).
 1. If the customer only has a single subscription and *not* one related to the form they selected:
-1. Remove the [SLA tag](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/tags/).
+1. Remove the [SLA tag](/handbook/support/readiness/operations/docs/zendesk/tags/).
 1. Follow the identifying customers instructions and treat as a `prospect`.
 
 ## Get help

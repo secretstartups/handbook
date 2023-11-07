@@ -5,7 +5,7 @@ extra_js:
 - libs/mermaid.min.js
 ---
 
-[Trust & Safety](https://about.gitlab.com/handbook/security/security-operations/trustandsafety/) team members are the builders and maintainers of the anti-abuse world at GitLab.com. They develop the tools and manage the workflows that are needed to monitor, mitigate and report on abusive activity, and are an essential part of our goal of being good internet citizens.
+[Trust & Safety](/handbook/security/security-operations/trustandsafety/) team members are the builders and maintainers of the anti-abuse world at GitLab.com. They develop the tools and manage the workflows that are needed to monitor, mitigate and report on abusive activity, and are an essential part of our goal of being good internet citizens.
 In the Trust and Safety Team there are two primary role types, Security Engineer and Security Analyst. Where the Security Engineer in Trust and Safety is primarily focused on the creation, maintenance and improvements of the systems and tools required to detect and mitigated abusive activity on GitLab.com, the Security Analysts' primary focus is on the creation, maintenance and processing operational workflows in the team.
 Depending on the role type you are applying for your daily duties could include creating tooling and automation for curbing abusive activity on GitLab.com, assisting with incident response and operational workloads and mitigating abusive activity.
 A successful candidate is someone who is curious and willing to learn, has at least a basic understanding of security concepts, is comfortable moving forward in the face of ambiguity and able to effectively manage competing priorities.
@@ -37,12 +37,12 @@ This position reports to the [Manager, Trust and Safety](#manager-trust-and-safe
 
 #### Security Analyst, Trust and Safety (Intermediate) Job Grade
 
-The Security Analyst, Trust and Safety is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Security Analyst, Trust and Safety is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Security Analyst, Trust and Safety (Intermediate) Responsibilities
 
 - Respond to incidents of abusive activity originating from `GitLab.com`
-- Participate in the Trust and Safety Team [on-call rotation](https://about.gitlab.com/handbook/security/secops-oncall.html)
+- Participate in the Trust and Safety Team [on-call rotation](/handbook/security/secops-oncall.html)
 - Process abuse reports and DMCA notices relating to GitLab.com
 - Mitigate detected abusive activity on GitLab.com and it's related products and services
 - Manage internal requests from other teams inside and outside the Security Department
@@ -61,7 +61,7 @@ This position reports to the [Manager, Trust and Safety](#manager-trust-and-safe
 
 #### Senior Security Analyst, Trust and Safety Job Grade
 
-The Security Analyst, Trust and Safety is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Security Analyst, Trust and Safety is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Security Analyst, Trust and Safety Responsibilities
 
@@ -85,7 +85,7 @@ This position reports to the [Manager, Trust and Safety](#manager-trust-and-safe
 
 #### Staff Security Analyst, Trust and Safety Job Grade
 
-The Security Analyst, Trust and Safety is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Security Analyst, Trust and Safety is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Security Analyst, Trust and Safety Responsibilities
 
@@ -131,12 +131,12 @@ This position reports to the [Manager, Trust and Safety](#manager-trust-and-safe
 
 #### Security Engineer, Trust and Safety (Intermediate) Job Grade
 
-The Security Engineer, Trust and Safety is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Security Engineer, Trust and Safety is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Security Engineer, Trust and Safety (Intermediate) Responsibilities
 
 - Respond to incidents of abusive activity originating from GitLab.com
-- Participate in the Trust and Safety Team [on-call rotation](https://about.gitlab.com/handbook/security/secops-oncall.html)
+- Participate in the Trust and Safety Team [on-call rotation](/handbook/security/secops-oncall.html)
 - Utilize log ingestion platforms for analyzing and identifying the tactics, techniques and patterns of abusive users
 - Contribute to the creation of documentation and runbooks
 - Contribute to the production and tuning of anti-abuse detection and mitigation tooling
@@ -156,7 +156,7 @@ This position reports to the [Manager, Trust and Safety](#manager-trust-and-safe
 
 #### Senior Security Engineer, Trust and Safety Job Grade
 
-The Senior Security Engineer, Trust and Safety is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Security Engineer, Trust and Safety is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Security Engineer, Trust and Safety Responsibilities
 
@@ -180,7 +180,7 @@ This position reports to the [Manager, Trust and Safety](#manager-trust-and-safe
 
 #### Staff Security Engineer, Trust and Safety Job Grade
 
-The Staff Security Engineer, Trust and Safety is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Security Engineer, Trust and Safety is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Security Engineer, Trust and Safety Responsibilities
 
@@ -208,12 +208,12 @@ The Manager, Trust and Safety reports to the [Senior Manager, Trust and Safety](
 
 #### Manager, Trust and Safety Job Grade
 
-The Trust and Safety Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Trust and Safety Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Trust and Safety Responsibilities
 
 - Hire a world class team of security engineers to work on their team
-- Participate in the Trust and Safety Team [on-call rotation](https://about.gitlab.com/handbook/security/secops-oncall.html) as the `Trust and Safety Manager On-call (TSMOC)`
+- Participate in the Trust and Safety Team [on-call rotation](/handbook/security/secops-oncall.html) as the `Trust and Safety Manager On-call (TSMOC)`
 - Help their team grow their skills and experience
 - Provide input on security architecture, issues, and features
 - Hold regular 1:1's with all members of their team
@@ -237,7 +237,7 @@ The Trust and Safety Manager is a [grade 8](https://about.gitlab.com/handbook/to
 - Capability to make sound decisions in the face of ambiguity and imperfect knowledge
 - Robust understanding of abuse-related issues, vectors, processes, and a solid grasp of the current global abuse landscape
 - First hand experience with major cloud providers - GCP, AWS, Azure, Digital Ocean
-- Alignment with Manager responsibilities as outlined in [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- Alignment with Manager responsibilities as outlined in [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 
 ### Senior Manager, Trust and Safety
 
@@ -245,7 +245,7 @@ The Senior Manager, Trust and Safety reports to the [Director of Security Operat
 
 #### Senior Manager, Trust and Safety Job Grade
 
-The Senior Manager, Trust and Safety is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Trust and Safety is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Trust and Safety Responsibilities
 
@@ -276,7 +276,7 @@ The Senior Manager, Trust and Safety is a [grade 9](https://about.gitlab.com/han
 
 ## Performance Indicators
 
-- Improve the health of GitLab.com, and drive down cost by [mitigating abusive activity](https://about.gitlab.com/handbook/security/performance-indicators/#cost-of-abuse).
+- Improve the health of GitLab.com, and drive down cost by [mitigating abusive activity](/handbook/security/performance-indicators/#cost-of-abuse).
 
 ### Career Ladder
 
@@ -298,12 +298,12 @@ For details on the Security organization leadership roles, to include the Securi
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule an interview with Trust and Safety Manager
 - Candidates will then be invited to schedule an interview with Senior Security Engineer, Trust and Safety, Security Incident Response Team Manager, Red Team Manager
 - Candidates will then be invited to schedule an interview with Director of Security Operations
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

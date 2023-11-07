@@ -36,7 +36,7 @@ This information is open to GitLab but not publicly (handbook) available because
 - Information about security incidents or investigations handled by SIRT that are not considered high-severity or sensitive
 - Red Team operation reports.
 - Vulnerabilities patched or resolved more than 30 days ago
-- Concluded security incidents that do not contain [Materially Non-Public Information](https://about.gitlab.com/handbook/product/product-safe-guidance/#materially-non-public-information)
+- Concluded security incidents that do not contain [Materially Non-Public Information](/handbook/product/product-safe-guidance/#materially-non-public-information)
 
 ### Restricted: Security Only or other restrictions imposed
 

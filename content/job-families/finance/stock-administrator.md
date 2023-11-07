@@ -9,7 +9,7 @@ description: "Responsible for administering GitLab’s equity incentive program 
 
 ### Stock Administrator
 
-The Stock Administrator is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Stock Administrator is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Stock Administrator Responsibilities
 
@@ -41,7 +41,7 @@ The Senior Stock Adminstrator reports to the Director, Stock Administrator.
 
 ### Senior Stock Administrator Job Grade
 
-The Senior Stock Administrator is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Stock Administrator is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Stock Administrator Responsibilities
 
@@ -79,7 +79,7 @@ The Senior Stock Administrator is a [grade 7](https://about.gitlab.com/handbook/
 
 ### Stock Administration Manager
 
-The Stock Administration Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Stock Administration Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Stock Administration Manager Responsibilities
 
@@ -114,7 +114,7 @@ The Director, Stock Adminstrator reports to the VP, Cash Management.
 
 #### Director, Stock Adminstrator Job Grade
 
-The Director, Stock Adminstrator is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Stock Adminstrator is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Stock Adminstrator Responsibilites
 
@@ -156,7 +156,7 @@ The Senior Director, Stock Adminstrator reports to the VP, Cash Management.
 
 #### Senior Director, Stock Adminstrator Job Grade
 
-The Senior Director, Stock Adminstrator is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Stock Adminstrator is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, Stock Adminstrator Responsibilites
 
@@ -199,15 +199,15 @@ The next step in the Stock Administration job family is to move to a higher leve
 
 ## Performance Indicators
 
-- [Number of award transactions processed](https://about.gitlab.com/handbook/stock-options/#number-of-award-transactions-processed)
-- [Number of participants supported](https://about.gitlab.com/handbook/stock-options/#number-of-participants-supported)
+- [Number of award transactions processed](/handbook/stock-options/#number-of-award-transactions-processed)
+- [Number of participants supported](/handbook/stock-options/#number-of-participants-supported)
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Selected candidates will be invited to schedule a 30 minute screening call with our Global Recruiters
 - Next, qualified candidates will meet with the hiring manager
 - Next, qualified candidates will meet with 2 - 4 team members
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).

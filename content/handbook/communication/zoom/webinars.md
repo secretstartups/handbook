@@ -54,4 +54,4 @@ When the webinar is finished, we need to make sure the video is published correc
 
 ### Webinars with the CEO
 
-When there's a webinar with the CEO, it is expected that the [CEO Shadows](https://about.gitlab.com/handbook/ceo/shadow/) execute the steps outlined in the `when the webinar is over` paragraph.
+When there's a webinar with the CEO, it is expected that the [CEO Shadows](/handbook/ceo/shadow/) execute the steps outlined in the `when the webinar is over` paragraph.

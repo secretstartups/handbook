@@ -33,7 +33,7 @@ anything over $50.   You can add the receipt once the charge reflects in Navan C
 - If applicable, add expense tags under "Classifications" to the related purchase. Common expense tag examples include company Contributes, marketing campaigns and professional service engagements.
 - Non-Permissible items will be flagged upon charge. Please ensure to only use the card for items under permissible items only.
 - Purchases on your card should not exceed $5,000 USD for each transaction.
-- If your purchase will be over $5,000 USD, you will need to enter a Purchase Requisition in Zip. AP prefers to pay vendors by ACH whenever possible. To get started with Zip for a vendor who can be paid by normal invoicing and payment methods, see [Zip End Users Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/).
+- If your purchase will be over $5,000 USD, you will need to enter a Purchase Requisition in Zip. AP prefers to pay vendors by ACH whenever possible. To get started with Zip for a vendor who can be paid by normal invoicing and payment methods, see [Zip End Users Guide](/handbook/business-technology/enterprise-applications/guides/zip-guide/).
 - If a charge is made in error, please reach out to expenses@gitlab.com on the process to reimburse Gitlab. It is an arduous process, so we ask to avoid this at all cost.
 - Any reports with continuous violations to our policy will be subject to management review and could be taken away for non-compliance.
 
@@ -43,7 +43,7 @@ anything over $50.   You can add the receipt once the charge reflects in Navan C
 
 - Examples of permissible costs under $5,000 USD include fees related to the registration of team building and off site event activities, dinners, deposits for team building activities, and room rentals.
 - An individual purchase cannot exceed $5,000 USD.
-- Any individual purchase for over $5,000 USD must be paid by [Coupa Virtual Card](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/).
+- Any individual purchase for over $5,000 USD must be paid by [Coupa Virtual Card](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/).
 - Team meals of up to 20 people which should not exceed $100 per person
 - Examples of permissible costs under $5,000 USD include fees related for registration, dinners, deposits, and room rentals.
 
@@ -88,7 +88,7 @@ Along with any charges that are over $5,000 USD (or equivalent local currency) t
 - Are not permitted.
 - These purchases must go through the normal employee expense reimbursement process.
 - This includes equipment for new hires and replacements.
-- See [Global Travel and Expense Policy Handbook page](https://about.gitlab.com/handbook/finance/expenses/) regarding "Office Equipment and Supplies" and "Laptops, insurance and repairs".
+- See [Global Travel and Expense Policy Handbook page](/handbook/finance/expenses/) regarding "Office Equipment and Supplies" and "Laptops, insurance and repairs".
 
 ### Conferences Training/Tuition and Membership fees for individual team members
 
@@ -131,14 +131,14 @@ Along with any charges that are over $5,000 USD (or equivalent local currency) t
 ### Software subscriptions
 
 - Of any kind are not permitted (i.e. Amazon, Dropbox, Adobe etc)
-- For individual subscriptions, please follow the process regarding [Individual Use Software](https://about.gitlab.com/handbook/finance/procurement/personal-use-software/).
+- For individual subscriptions, please follow the process regarding [Individual Use Software](/handbook/finance/procurement/personal-use-software/).
 - For group subscriptions, please submit a Purchase Requisition in Zip.
 
 ### Team member Gifts that are not for a Significant Life Event
 
 - (i.e Anniversaries, promotions, birthdays, electronic cards, wellness, thank you's).
 - These purchases must go through the normal employee expense reimbursement process.
-- Please reference the [Gift Handbook Page](https://about.gitlab.com/handbook/people-group/celebrations/).
+- Please reference the [Gift Handbook Page](/handbook/people-group/celebrations/).
 
 ### Prizes
 

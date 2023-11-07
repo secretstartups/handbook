@@ -9,8 +9,8 @@ This handbook page is intended to provide a high-level overview of the most comm
 ## Helpful places to start
 
 - [DBT Docs](https://dbt.gitlabdata.com/#!/overview) - This resource contains comprehensive documentation on all available dbt models. This is a great starting point to understanding our models. For specific People Models, please reference the **Commonly Used Data Models** section below for a starting point.
-- [Definitive guides to data subject areas](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/#definitive-guides) managed by the Data team.
-- [Documentation on data pipelines](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/) for the technically curious analyst. This page goes into each data source and extraction details.
+- [Definitive guides to data subject areas](/handbook/business-technology/data-team/data-catalog/#definitive-guides) managed by the Data team.
+- [Documentation on data pipelines](/handbook/business-technology/data-team/platform/pipelines/) for the technically curious analyst. This page goes into each data source and extraction details.
 - [People Group Tech Stack Guide]({{< ref "tech-stack-guide-workday" >}}) for overview of all the integrations that go into and out of our HR systems and all the tools we use.
 
 ## Key Terms
@@ -47,7 +47,7 @@ BambooHR was used by GitLab to store all team member information in one central 
 
 ### Greenhouse
 
-GitLab’s ATS (Applicant Tracking System). All hiring managers and interviewers will use Greenhouse to review resumes, provide feedback, communicate with candidates, and more. Please refer to the [hiring handbook](https://about.gitlab.com/handbook/hiring/greenhouse/) for additional information.
+GitLab’s ATS (Applicant Tracking System). All hiring managers and interviewers will use Greenhouse to review resumes, provide feedback, communicate with candidates, and more. Please refer to the [hiring handbook](/handbook/hiring/greenhouse/) for additional information.
 
 ### Time Off by Deel
 
@@ -55,7 +55,7 @@ A slack application used to request, track, approve and analyze time off.
 
 ### Workday
 
-[Workday](https://about.gitlab.com/handbook/people-group/workday/tech-stack-guide-workday/) is GitLab's current central HRIS.
+[Workday](/handbook/people-group/workday/tech-stack-guide-workday/) is GitLab's current central HRIS.
 
 ### CultureAmp
 

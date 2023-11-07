@@ -110,7 +110,7 @@ A live speaker series hosted in March 2022 with [Lavinia Mehedintu](https://www.
 
 ### Career Development versus Career Mobility
 
-GitLab team members [should not feel pressure to climb the career ladder]({{< ref "1-1#key-points" >}}). Skill development and promotion are not mutually exclusive. [Unique experience influences problem solving](https://about.gitlab.com/company/culture/inclusion/) and views of success.
+GitLab team members [should not feel pressure to climb the career ladder]({{< ref "1-1#key-points" >}}). Skill development and promotion are not mutually exclusive. [Unique experience influences problem solving](/handbook/company/culture/inclusion/) and views of success.
 
 You are encouraged to learn and develop skills without pressure to in turn seek promotion. Team members will not be thought less of or penalized if they don't view promotion as a success measure. If you feel you are not being supported in this way, please [reach out to People Connect or your People Business Partner]({{< ref "/handbook/people-group/people-connect#-connect-with-us" >}}).
 
@@ -155,7 +155,7 @@ Watch: interview with a GitLab team member who's used the Individual Growth Plan
 #### Start your IGP
 
 1. Launch your Individual Growth Plan in Workday: [User Guide Here](https://docs.google.com/document/d/1qEqTHx_G1uIPQi8rIIbrHjJ6S0NYhKDoHeBOLXsjkNw/edit)
-1. Fill out the IGP in Workday. Refer to the [job frameworks](https://docs.google.com/spreadsheets/d/1FX4NBwF099uMBm7mGBtf1orIJZuHEjtiEa3jSbg9jJs/edit#gid=0) and your [job family](https://handbook.gitlab.com/job-families/) to determine a skill and behavior focus. Give yourself time to think, plan, and fill out your IGP. Set learning blocks over the next 1-2 weeks rather than completing the IGP in one sitting.
+1. Fill out the IGP in Workday. Refer to the [job frameworks](https://docs.google.com/spreadsheets/d/1FX4NBwF099uMBm7mGBtf1orIJZuHEjtiEa3jSbg9jJs/edit#gid=0) and your [job family](/job-families/) to determine a skill and behavior focus. Give yourself time to think, plan, and fill out your IGP. Set learning blocks over the next 1-2 weeks rather than completing the IGP in one sitting.
 1. Submit your IGP to your manager. Schedule a career conversation with your manager and review your IGP in your next 1:1 or at a separate time.
 1. Make a plan that integrates working on your IGP during the flow of work by setting aside weekly or monthly time dedicated to learning. Block these times on your calendar.
 1. Update progress against your development goals. The IGP and [development goals in Workday](https://docs.google.com/document/d/1qEqTHx_G1uIPQi8rIIbrHjJ6S0NYhKDoHeBOLXsjkNw/edit#heading=h.wje1pky1vhig) itself might work well for you, but if you need more structure, consider using [GitLab Epics + Issues]({{< ref "career-development#use-gitlab-epics-to-track-your-career-development" >}}) or a [health tracker in Google Sheets]({{< ref "career-development#health-tracker-growth-plan" >}}).
@@ -257,7 +257,7 @@ Managers should support their direct reports with their professional development
 
 ### Inclusive Growth
 
-It’s critical to understand how the diverse experiences and perspectives of individuals influence their approach to career growth. Without the right support, behaviors by team members [from underrepresented groups](https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups) might influence their growth. Consider how the following might influence growth on your team
+It’s critical to understand how the diverse experiences and perspectives of individuals influence their approach to career growth. Without the right support, behaviors by team members [from underrepresented groups](/handbook/company/culture/inclusion/#examples-of-select-underrepresented-groups) might influence their growth. Consider how the following might influence growth on your team
 
 | Behavior | Example |
 | ----- | --------------- |
@@ -329,7 +329,7 @@ What do managers ask about when it comes to having career conversations with the
 
 *Career Conversation Acknowledgements happen at a division basis. Check with your People Business Partner if your division is doing this.*
 
-Career development is a key factor in team member engagement and role satisfaction. As part of the FY'20 GitLab annual [engagement survey results]({{< ref "engagement" >}}) it was clear that team members want to have meaningful conversations with their managers on an annual basis or even more frequently.
+Career development is a key factor in team member engagement and role satisfaction. As part of the FY'20 GitLab annual [engagement survey results]({{< ref "/handbook/people-group/engagement" >}}) it was clear that team members want to have meaningful conversations with their managers on an annual basis or even more frequently.
 
 ### Cadence
 
@@ -355,7 +355,7 @@ The bi-annual cadence is not required, but recommended. Some team members may pr
 
 ## E-Group Performance Enablement Review
 
-Effective FY21, each member of the E-Group will have a performance conversation with their direct manager, the [CEO](https://about.gitlab.com/company/team/#sytses), at the beginning of the new fiscal year. These conversations will assess alignment to each of our [credit values]({{< ref "values#credit" >}}), performance and personal development.
+Effective FY21, each member of the E-Group will have a performance conversation with their direct manager, the [CEO](/handbook/company/team/#sytses), at the beginning of the new fiscal year. These conversations will assess alignment to each of our [credit values]({{< ref "values#credit" >}}), performance and personal development.
 
 The E-Group will follow a similar process to our GitLab team member process with the additional requirement of a [self review](https://docs.google.com/document/d/1pi-nv6NtMejosVOXlr1O4rZGxmGUzuN01OMnXn5dxKU/edit#).
 

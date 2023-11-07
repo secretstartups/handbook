@@ -20,7 +20,7 @@ You can also check out our [Zero Trust Networking (ZTN) blog series](https://abo
 
 Head over to the /r/netsec subreddit to see our [October 29, 2019 Reddit AMA](https://www.reddit.com/r/netsec/comments/d71p1d/were_a_100_remote_cloudnative_company_and_were/) on Zero Trust where we fielded questions around our ZTN implementation, roadmap, strategy and more.
 
-Identity is a critical element of the implementation of a ZTN framework. GitLab is moving forward with an implementation of Okta to allow us to standardize authentication for Cloud Application access and implement user-friendly SSO. See our [Okta](https://about.gitlab.com/handbook/business-technology/okta/) page for more details.
+Identity is a critical element of the implementation of a ZTN framework. GitLab is moving forward with an implementation of Okta to allow us to standardize authentication for Cloud Application access and implement user-friendly SSO. See our [Okta](/handbook/business-technology/okta/) page for more details.
 
 ### Why We Don't Have a Corporate VPN
 
@@ -39,11 +39,11 @@ Current access to critical systems is managed through alternative controls.
 While a corporate VPN is not implemented at this time, there are other valid
 use cases for which individual team members may still wish to use a *personal*
 VPN, such as privacy or preventing traffic aggregation. Team members that
-wish to use a personal VPN service for any reason may still [expense one](https://about.gitlab.com/handbook/finance/expenses/).
+wish to use a personal VPN service for any reason may still [expense one](/handbook/finance/expenses/).
 
 For the use case of laptop usage in untrusted environments, such as coffee
 shops and coworking spaces, team members should prioritize a baseline of always-on host protections,
 such as up-to-date security patching, host firewalls, and antivirus, by following the
-[system configuration guidelines](https://about.gitlab.com/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration)
+[system configuration guidelines](/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration)
 at a minimum. That said, a personal VPN may provide additional protections in these situations.
 For more on personal VPNs see the [Personal VPN]({{< ref "personal-vpn" >}}) page.

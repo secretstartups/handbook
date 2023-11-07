@@ -185,7 +185,7 @@ Pay for non-exempt team members in the US is calculated 6 days in arrears to all
 
 ## ADP Mobile Solutions
 
-For non-exempt team members, it may be more efficient to log your hours using the mobile app as opposed to the desktop version of ADP. Team members are recommended to download the ADP Mobile Solutions app through the [Google Play app store](https://play.google.com/store/apps/details?id=com.adpmobile.android) or [Apple app store](https://apps.apple.com/us/app/adp-mobile-solutions/id444553167). **Please ensure that you have set up your [mobile Okta app](https://about.gitlab.com/handbook/business-technology/okta/) first**. To set up your ADP app, please follow these instructions:
+For non-exempt team members, it may be more efficient to log your hours using the mobile app as opposed to the desktop version of ADP. Team members are recommended to download the ADP Mobile Solutions app through the [Google Play app store](https://play.google.com/store/apps/details?id=com.adpmobile.android) or [Apple app store](https://apps.apple.com/us/app/adp-mobile-solutions/id444553167). **Please ensure that you have set up your [mobile Okta app](/handbook/business-technology/okta/) first**. To set up your ADP app, please follow these instructions:
   - When you open the ADP app for the first time, select `New? Get Started`.
   - Select `No` for Registration Code.
   - Select `USA`.

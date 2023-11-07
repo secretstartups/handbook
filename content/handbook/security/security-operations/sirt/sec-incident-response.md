@@ -8,7 +8,7 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents]({
 
 ## Purpose
 
-The [Security Incident Response Team (SIRT)]({{< ref "sirt" >}}) is on-call [24/7/365](https://about.gitlab.com/handbook/on-call/#security-team-on-call-rotation) to assist with any security incidents. If an urgent security incident has been identified or you suspect an incident may have occurred, please refer to [Engaging the Security Engineer On-Call]({{< ref "engaging-security-on-call" >}}).
+The [Security Incident Response Team (SIRT)]({{< ref "sirt" >}}) is on-call [24/7/365](/handbook/on-call/#security-team-on-call-rotation) to assist with any security incidents. If an urgent security incident has been identified or you suspect an incident may have occurred, please refer to [Engaging the Security Engineer On-Call]({{< ref "engaging-security-on-call" >}}).
 
 Information about SIRT responsibilities and incident ownership is available in the [SIRT On-Call Guide]({{< ref "secops-oncall" >}}).
 
@@ -21,6 +21,8 @@ Security incident investigations are initiated when a security event has been de
 Incident indicators can be reported to SIRT either internally, by a GitLab team member, or [externally]({{< ref "/handbook/security#external-contact-information" >}}). It is the Security team's responsibility to determine when to investigate dependent on the identification and verification of a security incident.
 
 The GitLab Security team identifies security incidents as any violation, or threat of violation, of GitLab security, acceptable use or other relevant policies.
+
+SIRT will follow processes in the [Material Breach Determination internal handbook page](https://internal.gitlab.com/handbook/security/security_operations/sirt/operations/incident_response/material_breach_determination/) for any security incidents that individually, or in aggregate may be a material breach, including 3rd party breaches that may have a material impact to GitLab. Incidents that have the potential to be material will be treated as MNPI.
 
 ## Roles & Responsibilities
 
@@ -116,7 +118,7 @@ Characteristics of an incident requiring escalation include but are not limited 
 - Incidents involving criminal activity or that may require the involvement of law enforcement
 - Incidents involving key personnel such as executive leadership
 
-If applicable, coordinate the incident response with [business contingency activities](https://about.gitlab.com/handbook/business-technology/gitlab-business-continuity-plan/).
+If applicable, coordinate the incident response with [business contingency activities](/handbook/business-technology/gitlab-business-continuity-plan/).
 
 ### Containment
 

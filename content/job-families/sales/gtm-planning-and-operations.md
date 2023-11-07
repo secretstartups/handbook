@@ -33,7 +33,7 @@ The Analyst, GTM Planning and Operations reports to the [Director, GTM Planning 
 
 #### Analyst, GTM Planning and Operations Job Grade
 
-The Analyst, GTM Planning and Operations is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Analyst, GTM Planning and Operations is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Analyst, GTM Planning and Operations Responsibilities
 
@@ -54,7 +54,7 @@ The Senior Analyst, GTM Planning and Operations reports to the [Director, GTM Pl
 
 #### Senior Analyst, GTM Planning and Operations Job Grade
 
-The Senior Analyst, GTM Planning and Operations is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Analyst, GTM Planning and Operations is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Analyst, GTM Planning and Operations Responsibilities
 
@@ -76,7 +76,7 @@ The GTM Planning and Operations Manager reports to the [Director, GTM Planning &
 
 #### GTM Planning and Operations Manager Job Grade
 
-The GTM Planning and Operations Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The GTM Planning and Operations Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 **Market Justification:**
 From a survey data perspective, this role rolls up to the broader Sales Operations job match where 91 companies have a grade 8 level with an average of 3 employee incumbents within the tech market. The business justification for a Go-To-Market Planning & Operations Manager as an individual contributor is to attract experienced top-tier talent. The Go-To-Market Planning & Operations Manager role requires a highly skilled individual capable of leading the decision-making process regarding complex planning and strategy matters for a 500+ Field Sales team. As GitLab and its Sales team continue to grow exponentially, the role will continue to require navigating an ever-more complex network of 170+ prime Sellers, 100+ Sales leaders, 15+ unique roles, 7+ Vice Presidents, along with considerable time interfacing with the CRO and CFO on all matters Go-To-Market planning. In the marketplace, similar IC roles can be found at Google, Salesforce, an Twilio.
@@ -94,7 +94,7 @@ From a survey data perspective, this role rolls up to the broader Sales Operatio
 - Relevant experience and a solid understanding of go-to-market design & sales planning as well as sales compensation design & analytics
 - Some experience interacting with Leaders at the VP level as well as experience collaborating closely with leaders at the Sr. Director level and below
 - Advanced analytical and financial modeling skills with high motivation to drive high value insights
-- Meet the [Leadership at Gitlab](https://about.gitlab.com/company/team/structure/#management-group) requirements
+- Meet the [Leadership at Gitlab](/handbook/company/team/structure/#management-group) requirements
 
 ### Senior Manager, GTM Planning and Operations
 
@@ -102,7 +102,7 @@ The Senior Manager, GTM Planning and Operations reports to the [Director, GTM Pl
 
 #### Senior Manager, GTM Planning and Operations Job Grade
 
-The Senior Manager, GTM Planning and Operations is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, GTM Planning and Operations is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, GTM Planning and Operations Responsibilities
 
@@ -118,7 +118,7 @@ The Senior Manager, GTM Planning and Operations is a [grade 9](https://about.git
 - Considerable relevant experience and a solid understanding of go-to-market design & sales planning as well as sales compensation design & analytics
 - Considerable experience interacting with Leaders at the VP level as well as experience collaborating closely with leaders at the Sr. Director level and below
 - Advanced analytical and financial modeling skills with high motivation to drive high value insights
-- Meet the [Leadership at Gitlab](https://about.gitlab.com/company/team/structure/#management-group) requirements
+- Meet the [Leadership at Gitlab](/handbook/company/team/structure/#management-group) requirements
 
 ### Director, GTM Planning and Operations
 
@@ -126,7 +126,7 @@ The Director, GTM Planning and Operations reports to the [VP, Sales Strategy](/j
 
 #### Director, GTM Planning and Operations Job Grade
 
-The Director, GTM Planning and Operations is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, GTM Planning and Operations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, GTM Planning and Operations Responsibilities
 
@@ -144,7 +144,7 @@ The Director, GTM Planning and Operations is a [grade 10](https://about.gitlab.c
 - Significant experience in relevant fields and a comprehensive understanding of go-to-market design & sales planning as well as sales compensation design & analytics
 - Significant experience interacting with C-suite Executives and closely partnering with Leaders at the VP level and below
 - Advanced analytical and financial modeling skills with a superb ability to drive high value insights
-- Meet the [Leadership at Gitlab](https://about.gitlab.com/company/team/structure/#management-group) requirements
+- Meet the [Leadership at Gitlab](/handbook/company/team/structure/#management-group) requirements
 
 ### Senior Director, GTM Planning and Operations
 
@@ -152,7 +152,7 @@ The Senior Director, GTM Planning and Operations reports to the [VP, Sales Strat
 
 #### Senior Director, GTM Planning and Operations Job Grade
 
-The Senior Director, GTM Planning and Operations is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, GTM Planning and Operations is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, GTM Planning and Operations Responsibilities
 
@@ -175,12 +175,12 @@ The Senior Director, GTM Planning and Operations is a [grade 11](https://about.g
 - Ability to work independently with a high degree of accountability, while also able to collaborate cross-functionally with exceptional intrapersonal skills Proven ability to thrive in a fluid, fast-paced, unpredictable environment.
 - Unquestionable ethics, integrity and business judgment; you share our values, and work in accordance with those values.
 
-- Meet the [Leadership at Gitlab](https://about.gitlab.com/company/team/structure/#management-group) requirements
+- Meet the [Leadership at Gitlab](/handbook/company/team/structure/#management-group) requirements
 
 ## Performance Indicators
 
 - Bookings and revenue growth as measured by [ARR](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/), including gross renewal, expansion, and net retention
-- [Sales KPIs](https://about.gitlab.com/company/kpis/#sales-kpis)
+- [Sales KPIs](/handbook/company/kpis/#sales-kpis)
 
 ## Career Ladder
 
@@ -188,11 +188,11 @@ The next steps in the GTM Planning and Operations job family is not yet defined 
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters,
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters,
 - Next, candidates will be invited to schedule a 25 minute interview with the Hiring Manager,
 - Next, candidates can expect 2-5 separate 25 minute interviews with other Team Members,
 - Finally, candidates will be invited to schedule a 50 minute interview with an Executive.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

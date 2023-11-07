@@ -45,6 +45,10 @@
 
 # All other manually created redirects
 
+# Finance migration redirects - created: 2023-10-30 - remove 2023-10-29
+/handbook/finance/accounting/finance-ops/Revenue-Accounting/ /handbook/finance/accounting/finance-ops/revenue-accounting/
+/handbook/finance/accounting/finance-ops/Revenue-Accounting/tech-stack-guide-zuora-revenue/ /handbook/finance/accounting/finance-ops/revenue-accounting/tech-stack-guide-zuora-revenue/
+
 # People-group migration redirects - created: 2023-10-02 - remove 2023-10-01
 /handbook/people-group/offboarding/faq.html /handbook/people-group/offboarding/faq/
 /handbook/people-group/learning-and-development/listening-tour.html /handbook/people-group/learning-and-development/listening-tour/

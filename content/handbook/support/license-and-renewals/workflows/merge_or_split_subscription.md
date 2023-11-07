@@ -5,8 +5,8 @@ category: General
 description: This is a guide on how to handle requests to merge or split licenses or subscription(s).
 ---
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
 
 ## Overview
 

@@ -11,7 +11,7 @@ The Associate Program Manager, Field Enablement reports to a people manager on t
 
 #### Associate Program Manager, Field Enablement Job Grade
 
-The Associate Program Manager, Field Enablement is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Program Manager, Field Enablement is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Associate Program Manager, Field Enablement Responsibilities
 
@@ -41,7 +41,7 @@ The Program Manager, Field Enablement reports to a people manager on the Field E
 
 #### Program Manager, Field Enablement Job Grade
 
-The Program Manager, Field Enablement is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Program Manager, Field Enablement is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Program Manager, Field Enablement Responsibilities
 
@@ -78,7 +78,7 @@ The Senior Program Manager, Field Enablement reports to a people manager on the 
 
 #### Senior Program Manager, Field Enablement Job Grade
 
-The Senior Program Manager, Field Enablement is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Program Manager, Field Enablement is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Program Manager, Field Enablement Responsibilities
 
@@ -102,7 +102,7 @@ The Staff Program Manager, Field Enablement reports to a people manager on the F
 
 #### Staff Program Manager, Field Enablement Job Grade
 
-The Staff Program Manager, Field Enablement is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Program Manager, Field Enablement is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Program Manager, Field Enablement Responsibilities
 
@@ -162,17 +162,17 @@ The next steps for the Program Manager, Field Enablement Job Family would be to 
 
 ## Hiring Process
 
-Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a 30min [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30min [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, qualified candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, qualified candidates will be invited to interview with 2-5 team members
 - There may be a final executive interview for qualified candidates
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
-- Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 team members
 - There may be a final executive interview
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

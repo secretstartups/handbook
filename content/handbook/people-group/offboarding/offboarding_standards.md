@@ -47,9 +47,9 @@ Offboarding issues are created [automatically]({{< ref "/handbook/people-group/e
 
 The assigned People Connect member will be automatically added to the list of assignees once the offboarding issue is created.
 
-Many teams work to deprovision access including the IT Operations, this should be regarded as urgent and all tasks expected to be completed in 5 working days with the exception of [laptop returns](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#returning-oldoffboarded-laptops), which can take 2 - 4 weeks.
+Many teams work to deprovision access including the IT Operations, this should be regarded as urgent and all tasks expected to be completed in 5 working days with the exception of [laptop returns](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#returning-oldoffboarded-laptops), which can take 2 - 4 weeks.
 
-Note: If the team member is temporarily transitioning to a [contractor or consultant role](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/temporary-service-providers/), please proceed with the full offboarding process and create a separate onboarding issue to grant only specific temporary access for what they would need to fulfill their contractual obligations.
+Note: If the team member is temporarily transitioning to a [contractor or consultant role](/handbook/business-technology/end-user-services/onboarding-access-requests/temporary-service-providers/), please proceed with the full offboarding process and create a separate onboarding issue to grant only specific temporary access for what they would need to fulfill their contractual obligations.
 
 #### Creating the Offboarding Issue Manually
 
@@ -82,7 +82,7 @@ If a bot exists, please DM the manager to confirm if the bot should be removed.
 
 #### Team Page
 
-As per the [automation](https://about.gitlab.com/handbook/people-group/engineering/offboarding/#offboarding-merge-request) in place, a merge request is automatically created to remove the team member from the team page. This will update the following:
+As per the [automation](/handbook/people-group/engineering/offboarding/#offboarding-merge-request) in place, a merge request is automatically created to remove the team member from the team page. This will update the following:
 
 - Removing the individual file from the data/team_members/person directory
 - Removing the picture used in the previous file
@@ -102,7 +102,7 @@ The People Connect Team member will need to complete:
 
 The People Connect Team ensures all offboarding issues are opened within each week of the offboarding date and once all tasks have been completed by the relevant Team Member(s) and/or Departments, the People Connect Team will close the offboarding issue. On a quarterly basis the People Connect Team  will audit all open offboarding issues and ping the relevant Departments within the offboarding issue to call for tasks to be completed.
 
-All offboarding tasks by all Departments need to be completed within 5 days of the offboarding date. For systems that are more critical and time sensitive, these will be completed within the first 24 hours (example 1Password, Slack) by the relevant Departments. Information about application & system deprovisioners can be found on the [Tech Stack Applications handbook page](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/).
+All offboarding tasks by all Departments need to be completed within 5 days of the offboarding date. For systems that are more critical and time sensitive, these will be completed within the first 24 hours (example 1Password, Slack) by the relevant Departments. Information about application & system deprovisioners can be found on the [Tech Stack Applications handbook page](/handbook/business-technology/tech-stack-applications/).
 
 To ensure a successful completion of the offboarding issue, it is important that all tasks are checked off, whether the system/tool is applicable to the offboarding team member or not. Checking the box indicates one of the following:
 
@@ -116,5 +116,5 @@ Exceptions to this policy must be approved by People Connect.
 ## References
 
 - [Information Security Parent Policy](/handbook/security/)
-- [GitLab Offboarding](https://about.gitlab.com/handbook/people-group/offboarding/)
-- [GitLab Offboarding FAQ](https://about.gitlab.com/handbook/people-group/offboarding/faq.html)
+- [GitLab Offboarding](/handbook/people-group/offboarding/)
+- [GitLab Offboarding FAQ](/handbook/people-group/offboarding/faq.html)

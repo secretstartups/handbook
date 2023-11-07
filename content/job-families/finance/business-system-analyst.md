@@ -32,7 +32,7 @@ The Business Systems job family at GitLab is in charge of designing, delivering,
 
 #### Job Grade
 
-The Business Systems Specialist is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Business Systems Specialist is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -46,7 +46,7 @@ The Business Systems Specialists share the same responsibilities outlined above.
 
 #### Job Grade
 
-The Business System Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Business System Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -82,7 +82,7 @@ The Business System Analyst is a [grade 6](https://about.gitlab.com/handbook/tot
 
 #### Job Grade
 
-The Senior Business Systems Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Business Systems Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -110,7 +110,7 @@ All the requirements of a Business Systems Analyst, plus:
 
 #### Job Grade
 
-The Senior Business Systems Analyst is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Business Systems Analyst is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -140,7 +140,7 @@ All the requirements of a Sr Business Systems Analyst, plus:
 
 #### Job Grade
 
-The Director of Business Process Automation is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director of Business Process Automation is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -171,19 +171,19 @@ All the requirements of a Business Systems Analyst at previous levels, plus:
 
 ## Performance Indicators (PI)
 
-- [Evaluating System or Process Efficiency](https://about.gitlab.com/handbook/business-technology/metrics/#evaluating-system-or-process-efficiency)
-- [Average Issues](https://about.gitlab.com/handbook/business-technology/metrics/#average-issues)
-- [Average Merge Requests](https://about.gitlab.com/handbook/business-technology/metrics/#average-merge-request)
+- [Evaluating System or Process Efficiency](/handbook/business-technology/metrics/#evaluating-system-or-process-efficiency)
+- [Average Issues](/handbook/business-technology/metrics/#average-issues)
+- [Average Merge Requests](/handbook/business-technology/metrics/#average-merge-request)
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Next, candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
+- Next, candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with our Business Systems Analysts in a panel interview
 - Next, candidates will be invited to schedule a second interview with our IT Operations Team (may be a panel)
 - Candidates will then be invited to schedule a third interview with a Team Member (may be member of the SalesOps, MarketingOps, or Data Ops team)
 - Then the candidate will be invited to interview with the Director of Enterprise Applications
 - Finally, candidates may be asked to interview with our CFO or CEO
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/)
+Additional details about our process can be found on our [hiring page](/handbook/hiring/)

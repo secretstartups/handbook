@@ -39,7 +39,7 @@ The primary project used by the CoST to track work specific to our team is [CoS 
 
 ## Kinds of projects CoST to the CEO works on{#what-projects-does-the-cost-work-on}
 
-Given the cross-functional nature of the [Top Cross-Functional Initiatives](https://about.gitlab.com/company/team/structure/working-groups/#top-cross-functional-initiatives) and given these projects are important to the CEO, the CoST is often involved in these initiatives as needed and as team member workload permits.
+Given the cross-functional nature of the [Top Cross-Functional Initiatives](/handbook/company/team/structure/working-groups/#top-cross-functional-initiatives) and given these projects are important to the CEO, the CoST is often involved in these initiatives as needed and as team member workload permits.
 
 The CoST does a quarterly recap summarizing current and completed work. [Q2FY23 CoST Highlights](https://gitlab.com/gitlab-com/ceo-chief-of-staff-team/cost-monthly-update/-/issues/7)
 
@@ -54,14 +54,14 @@ The CoS to the CEO and their team may work on projects that fit *any combination
 
 This is not an exhaustive list of the types of work the CoST to the CEO might do.
 
-The CoST to the CEO works closely with the [CEO]({{< ref chief-executive-officer >}}), the [E-Group](https://about.gitlab.com/company/team/structure/#e-group), the [EBA to the CEO]({{< ref executive-business-administrator >}}), and [CEO Shadows]({{< ref shadow >}}).
+The CoST to the CEO works closely with the [CEO]({{< ref chief-executive-officer >}}), the [E-Group](/handbook/company/team/structure/#e-group), the [EBA to the CEO]({{< ref executive-business-administrator >}}), and [CEO Shadows]({{< ref shadow >}}).
 
 #### Many Functional
 
-GitLab is a [functional organization](https://about.gitlab.com/handbook/leadership/#no-matrix-organization), which means the [people are organized by function](https://comp-calculator.gitlab.net/org_chart).
+GitLab is a [functional organization](/handbook/leadership/#no-matrix-organization), which means the [people are organized by function](https://comp-calculator.gitlab.net/org_chart).
 Usually, when a project arises between two Departments, they can work something out on their own.
 When a project arises between three or more Departments, the CoST to the CEO will often be the team to execute.
-In many cases, a member of the Chief of Staff Team to the CEO will be the [directly responsible individual (DRI)](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/).
+In many cases, a member of the Chief of Staff Team to the CEO will be the [directly responsible individual (DRI)](/handbook/people-group/directly-responsible-individuals/).
 Whether it's a product feature proposal, a new initiative roll-out, or questions from the board, the CoST to the CEO is the group that can be trusted to get things done, get them done quickly, and get them done right.
 
 Examples of a cross-functional project:
@@ -126,7 +126,7 @@ Examples of tasks or initiatives that are important to the CEO:
 ## How to Work
 
 The team works through a doc titled "Stella, Sid, and CoST."
-It's format is structured like the [1-1 Suggested Agenda Format](https://about.gitlab.com/handbook/leadership/1-1/suggested-agenda-format/).
+It's format is structured like the [1-1 Suggested Agenda Format](/handbook/leadership/1-1/suggested-agenda-format/).
 Many of the tasks on the sheet are quick asks: handbook MRs, formatting changes, or questions to be answered.
 Small asks should be handled as quickly as possible.
 Other asks, such as OKR-related planning or an initiative that requires alignment with multiple stakeholders, require forethought and more appropriate timing.
@@ -150,7 +150,7 @@ CoST members should monitor the mix of directed and leadership work that they ar
 
 ## Board Meetings
 
-The Chief of Staff to the CEO supports Board activities as specified in the [Board Meeting](https://about.gitlab.com/handbook/board-meetings/) section of the handbook and as directed by the CEO.
+The Chief of Staff to the CEO supports Board activities as specified in the [Board Meeting](/handbook/board-meetings/) section of the handbook and as directed by the CEO.
 
 In addition, the CoS to the CEO helps the CEO in preparing for the CEO's closed session. The CoS to the CEO should coordinate with the EBA to the CEO to schedule a 25 minute session with the CEO and the CoST to the CEO a week before the Board of Directors Meeting. The CoS to the CEO should prepare an agenda that includes an outline for what the CEO may want to cover. For each discussion topic, the following should be captured:
 
@@ -165,20 +165,20 @@ Designated meeting time will be used to review and make adjustments to the propo
 
 ## OKRs
 
-The CoST to the CEO has been running the [OKR process](https://about.gitlab.com/company/okrs/).
-We set OKRs on a [fiscal quarter](https://about.gitlab.com/handbook/finance/#fiscal-year) basis.
+The CoST to the CEO has been running the [OKR process](/handbook/company/okrs/).
+We set OKRs on a [fiscal quarter](/handbook/finance/#fiscal-year) basis.
 
-There is an [OKR schedule](https://about.gitlab.com/company/okrs/#schedule) that dictates the timeline of events.
+There is an [OKR schedule](/handbook/company/okrs/#schedule) that dictates the timeline of events.
 We use a handbook page for each quarter.
-The CEO's Objectives every quarter map to the [sequence](https://about.gitlab.com/company/strategy/#sequence) of our [strategy](https://about.gitlab.com/company/strategy/#strategy).
+The CEO's Objectives every quarter map to the [sequence](/handbook/company/strategy/#sequence) of our [strategy](/handbook/company/strategy/#strategy).
 The CEO's KRs are what we're measuring for the company for that quarter.
 
 ## KPIs
 
-While OKRs are [what's changing](https://about.gitlab.com/company/okrs/#okrs-are-what-is-different) every quarter, what we're focused on moving (improving, being more efficient, etc.), [KPIs](https://about.gitlab.com/company/kpis/) are how we're consistently measuring how we're doing as an organization.
-KPIs occur at multiple [layers](https://about.gitlab.com/company/kpis/#layers-of-kpis) and have [multiple parts](https://about.gitlab.com/company/kpis/#parts-of-a-kpi).
-The CEO maintains [an index of GitLab KPIs and links to where they are defined](https://about.gitlab.com/company/kpis/).
-There is a process for [updating the list](https://about.gitlab.com/company/kpis/) by adding, removing, or changing a KPI.
+While OKRs are [what's changing](/handbook/company/okrs/#okrs-are-what-is-different) every quarter, what we're focused on moving (improving, being more efficient, etc.), [KPIs](/handbook/company/kpis/) are how we're consistently measuring how we're doing as an organization.
+KPIs occur at multiple [layers](/handbook/company/kpis/#layers-of-kpis) and have [multiple parts](/handbook/company/kpis/#parts-of-a-kpi).
+The CEO maintains [an index of GitLab KPIs and links to where they are defined](/handbook/company/kpis/).
+There is a process for [updating the list](/handbook/company/kpis/) by adding, removing, or changing a KPI.
 
 ## General Group Conversation
 
@@ -211,14 +211,14 @@ Be sure that slides are prepared with enough notice for the CEO to record a vide
 
 ## Quarterly Kickoff
 
-The CEO does a Quarterly Kickoff in the first month of each quarter. The Chief of Staff Team plays a role in creating materials, recording content, and preparing the CEO. Details can be found on the [Assembly page](https://about.gitlab.com/company/gitlab-all-company-meetings/#quarterly-kickoff) of the handbook.
+The CEO does a Quarterly Kickoff in the first month of each quarter. The Chief of Staff Team plays a role in creating materials, recording content, and preparing the CEO. Details can be found on the [Assembly page](/handbook/company/gitlab-all-company-meetings/#quarterly-kickoff) of the handbook.
 
 ## E-Group Offsite
 
-The executives get together every quarter for the [e-group offsite](https://about.gitlab.com/company/offsite/).
-The CoS to the CEO plays an important [role](https://about.gitlab.com/company/offsite/#roles).
-It's [3 to 4 days long](https://about.gitlab.com/company/offsite/#schedule) with a [Functional Leaders Meeting](https://about.gitlab.com/company/offsite/#functional-leaders-meeting) within the following days.
-There are [recurring discussion topics](https://about.gitlab.com/company/offsite/#recurring-discussion-topics) as well as a [discussion on content](https://about.gitlab.com/company/offsite/#content-choice) chosen by the CEO.
+The executives get together every quarter for the [e-group offsite](/handbook/company/offsite/).
+The CoS to the CEO plays an important [role](/handbook/company/offsite/#roles).
+It's [3 to 4 days long](/handbook/company/offsite/#schedule) with a [Functional Leaders Meeting](/handbook/company/offsite/#functional-leaders-meeting) within the following days.
+There are [recurring discussion topics](/handbook/company/offsite/#recurring-discussion-topics) as well as a [discussion on content](/handbook/company/offsite/#content-choice) chosen by the CEO.
 
 In addition, the CoS to the CEO is responsible for preparing the CEO for offsites by:
 
@@ -248,17 +248,17 @@ The CoS to the CEO will also assist the CEO in prepping for the CEO's end of yea
 
 ## Managing the Functional Leaders
 
-Functional Leaders is a group comprised of all [CEO-Skips](https://about.gitlab.com/company/team/structure/#ceo-skips), select People Business Partners, and a few other folks as nominated by members of E-Group.
+Functional Leaders is a group comprised of all [CEO-Skips](/handbook/company/team/structure/#ceo-skips), select People Business Partners, and a few other folks as nominated by members of E-Group.
 The CoS to the CEO enables and manages this group.
 
 ## Managing the Directs-Group
 
-The [Directs-Group](https://about.gitlab.com/company/team/structure/#directs-group) is made up of nominated senior leaders from each function that engage directly with E-Group in key activities over a 6 month period.
+The [Directs-Group](/handbook/company/team/structure/#directs-group) is made up of nominated senior leaders from each function that engage directly with E-Group in key activities over a 6 month period.
 The CoS to the CEO enables and organizes this group.
 
 ## Maintaining the Mitigating Concerns
 
-We outline our [Mitigating Concerns](https://about.gitlab.com/handbook/leadership/mitigating-concerns/) in the handbook.
+We outline our [Mitigating Concerns](/handbook/leadership/mitigating-concerns/) in the handbook.
 The CoS to the CEO is responsible for maintaining this list.
 There is an issue to also [add DRIs and review the mitigations](https://gitlab.com/gitlab-com/cos-team/-/issues/20).
 
@@ -336,7 +336,7 @@ Once a project or initiative to Shadow has been identified and the team member d
 1. This is not a performance evaluation
 1. Plan to observe and ask questions.
 1. Participating in the shadow program is a privilege where you will be exposed to confidential information. This is underpinned by trust in the shadows to honor the confidentiality of topics being discussed and information shared. The continuation of this program is entirely dependent on shadows past, present, and future honoring this trust placed in them.
-1. Give feedback to and receive feedback from the Chief of Staff to the CEO. Participants in the shadow program are encouraged to deliver [candid feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedback). Shadows maintaining confidentiality during the program is separate from shadows being able to provide candid feedback.
+1. Give feedback to and receive feedback from the Chief of Staff to the CEO. Participants in the shadow program are encouraged to deliver [candid feedback](/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedback). Shadows maintaining confidentiality during the program is separate from shadows being able to provide candid feedback.
 
 ## Team updates and showcasing team work
 
@@ -348,7 +348,7 @@ Since the CoST to the CEO is working on many different projects at a given time,
 
 ## Organizational pulse
 
-Due to its cross-functional scope and access to information, the Chief of Staff Team to the CEO is uniquely positioned to see what is happening across the company. Members of the CoST to the CEO are encouraged to regularly have [coffee chats](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) with folks outside of the team and share key insights and feedback from these conversations.
+Due to its cross-functional scope and access to information, the Chief of Staff Team to the CEO is uniquely positioned to see what is happening across the company. Members of the CoST to the CEO are encouraged to regularly have [coffee chats](/handbook/company/culture/all-remote/informal-communication/#coffee-chats) with folks outside of the team and share key insights and feedback from these conversations.
 
 ## Measuring results
 

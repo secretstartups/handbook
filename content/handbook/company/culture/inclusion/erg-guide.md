@@ -44,7 +44,7 @@ Ordered alphabetically to avoid the perception that any TMRG is more important t
 | [GitLab Gente]({{< ref "tmrg-gitlab-gente" >}}) | [Pilar Mejia](https://gitlab.com/pmejia), [Hugo Azevedo](https://gitlab.com/hugoazevedo), [Romer Gonzalez](https://gitlab.com/romerg)  | #gente | [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/g/latinxtmrg) | [Gente Agenda](https://docs.google.com/document/d/15I-Lp9BO1FgnSCxANPiTemrvbcSLppf_xp8I0vIUbPY/edit?usp=sharing) | [Josh Lemos](https://gitlab.com/joshlemos) |
 | [Black @ GitLab]({{< ref "tmrg-gitlab-black" >}}) | [April Marks](https://gitlab.com/aprilmarks), [Marcus Carter](https://gitlab.com/marcusbriancarter), [Madou Coulibaly](https://gitlab.com/madou), [Mam Joof](https://gitlab.com/mjoof1) | #black-at-gitlab |  [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/g/black-tmrg) | [Black @ GitLab Agenda](https://docs.google.com/document/d/1G9Be3e3hjj3gexLmrmR1bqzaEErP-4BfDgJR4q_jUTw/edit#heading=h.vf9sdppkn4e0) | [David DeSanto](https://gitlab.com/david) |
 | [GitLab Pride]({{< ref "tmrg-gitlab-pride" >}}) | [Alex Hanselka](https://gitlab.com/ahanselka) and [Helen Mason](https://gitlab.com/hmason) | #lgbtq | [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/g/pride-tmrg) | [Pride Agenda](https://docs.google.com/document/d/11D-Izm5mbopEUCY036Qr0bHx6UePMyfkzhUfNDE-mnk/edit?usp=sharing) | Robin Schulman |
-| [GitLab Women]({{< ref "tmrg-gitlab-women" >}}) | [Kyla Gradin Dahl](https://gitlab.com/kyla), [Samantha Lee](https://about.gitlab.com/company/team/#slee24), [Winnie Chan](https://gitlab.com/wyychan)  | #women | [Sign up for future meetings (google group)](https://groups.google.com/a/gitlab.com/g/womenstmrg) | [Women Agenda](https://docs.google.com/document/d/1bJ3Y8IVjnssPpRa3IUafdzC0wsJUU6rYCGf-YEiDHeg/edit) | Robin Schulman |
+| [GitLab Women]({{< ref "tmrg-gitlab-women" >}}) | [Kyla Gradin Dahl](https://gitlab.com/kyla), [Samantha Lee](/handbook/company/team/#slee24), [Winnie Chan](https://gitlab.com/wyychan)  | #women | [Sign up for future meetings (google group)](https://groups.google.com/a/gitlab.com/g/womenstmrg) | [Women Agenda](https://docs.google.com/document/d/1bJ3Y8IVjnssPpRa3IUafdzC0wsJUU6rYCGf-YEiDHeg/edit) | Robin Schulman |
 | [GitLab Caregivers](tmrg-caregivers) | Jackie Porter, Gena Schwam | #caregivers-tmrg | TBA | [Caregivers Agenda](https://docs.google.com/document/d/1taPLNLkVvTayEzySFUU5XKZeSK9tmsK-WELu_Pp14m8/edit?usp=sharing)| Wendy Barnes|
 
 ## Executive Sponsorship
@@ -219,7 +219,7 @@ a project in action, you can check out the [GitLab Pride project](https://gitlab
 ### Create a Google group
 
 Managing membership will be greatly simplified by using a Google group. The main benefit is that you can invite the group to any calendar events and users can
-join or leave the group on their own. In order to create a Google group, you'll need to create an [access request issue](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#slack-google-groups-1password-vaults-or-groups-access-requests)
+join or leave the group on their own. In order to create a Google group, you'll need to create an [access request issue](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#slack-google-groups-1password-vaults-or-groups-access-requests)
 requesting a new group. There is a template you can use and you can [view an example](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/3547)
 issue if you'd like. Once you've got the Google group created, you can add users manually or allow them to sign up on their own at the group homepage. You can
 look at the [pride-erg](https://groups.google.com/a/gitlab.com/forum/#!forum/erg-pride) for an example of what that might look like.
@@ -561,14 +561,14 @@ As our finance processes are a use it or lose it policy we want to ensure that i
 
 **Submitting/Approval of Expenses**
 
-Purchases made on behalf of Gitlab should follow the [procurement process outlined in the handbook](https://about.gitlab.com/handbook/finance/procurement/#--what-is-procurement).
+Purchases made on behalf of Gitlab should follow the [procurement process outlined in the handbook](/handbook/finance/procurement/#--what-is-procurement).
 Prior to submitting a Coupa requisition, please adjust the Billing portion of the requisition for each line item by selecting the magnifying glass. Confirm that the expense is coded to Department: G&A: DIB and Class (tag): TMRG. If procurement or The DIB Team are submitting the requisition on your behalf, please give them instructions to make these adjustments. If these changes are not made, then the expense will default to the team member’s department and the expense will not align to the TMRG budget.
 
 **Swag-** If the purchase is Swag, please follow the outlined process in the [handbook](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#swag-for-tmrgs).
 
-**Charitable Contributions-** For all Charitable Contributions please follow the outlined process in the [handbook](https://about.gitlab.com/handbook/finance/procurement/charitable-contributions/) before submitting through Coupa. Please note that all charitable contributions must receive Board approval, so please allow 1-3 months for processing and approval.
+**Charitable Contributions-** For all Charitable Contributions please follow the outlined process in the [handbook](/handbook/finance/procurement/charitable-contributions/) before submitting through Coupa. Please note that all charitable contributions must receive Board approval, so please allow 1-3 months for processing and approval.
 
-**Team Member Expensed-** In some instances, TMRG team members will need to follow the [expense reimbursement policy](https://about.gitlab.com/handbook/finance/expenses/). If an item is purchased individually upfront (i.e. meals, books) and the item was budgeted, the team member will submit the receipt to get reimbursed. Reach out in #expense-reporting-inquiries for a new expense tag prior to the event.
+**Team Member Expensed-** In some instances, TMRG team members will need to follow the [expense reimbursement policy](/handbook/finance/expenses/). If an item is purchased individually upfront (i.e. meals, books) and the item was budgeted, the team member will submit the receipt to get reimbursed. Reach out in #expense-reporting-inquiries for a new expense tag prior to the event.
 When submitting expenses for reimbursement, please add the “TMRG” classification and the expense tag to your expense when submitting the report.
 
 ## Key Milestones for TMRGs (Suggested)

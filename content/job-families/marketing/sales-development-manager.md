@@ -15,7 +15,7 @@ The Manager, Sales Development reports to the Sr. Manager, Sales Development.
 
 #### Manager, Sales Development Job Grade
 
-The Manager, Sales Development is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Sales Development is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Sales Development Responsibilities
 
@@ -38,7 +38,7 @@ The Manager, Sales Development is a [grade 8](https://about.gitlab.com/handbook/
 - Passionate about technology and learning more about GitLab
 ( Be ready to learn how to use GitLab and Git
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 
 ### Manager, Business Development (BDR)
 
@@ -46,7 +46,7 @@ The Manager, Business Development reports to the Sr. Manager/Director, Sales Dev
 
 #### Manager, Business Development Job Grade
 
-The Manager, Business Development is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Business Development is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Business Development Responsibilities
 
@@ -68,7 +68,7 @@ The Manager, Business Development is a [grade 8](https://about.gitlab.com/handbo
 - Passionate about technology and learning more about GitLab
 - Be ready to learn how to use GitLab and Git
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 
 ## Segment
 
@@ -133,13 +133,13 @@ The next step in the Manager, Sales Development job family is to move to the [Se
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Qualified candidates receive a short questionnaire from our Global Recruiters
-- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
+- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule an interview with the Senior Sales Development Manager
 - Candidates will then be invited to schedule two separate interviews with an SDR Manager and an Area Sales Manager
 - Candidates will be invited to schedule an interview with our Senior Director of Revenue Marketing
 - Finally, candidates may be asked to interview with our CMO
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/)
+Additional details about our process can be found on our [hiring page](/handbook/hiring/)

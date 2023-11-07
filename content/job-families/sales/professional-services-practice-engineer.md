@@ -15,7 +15,7 @@ The Senior Practice Engineer reports to Sr. Manager of Practice Development.
 
 #### Senior Practice Engineer Job Grade
 
-The Senior Professional Services Practice Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) depending on seniority.
+The Senior Professional Services Practice Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) depending on seniority.
 
 #### Senior Practice Engineer Responsibilities
 
@@ -47,7 +47,7 @@ The Senior Professional Services Practice Engineer is a [grade 7](https://about.
 - Share and work in accordance with GitLab's values
 - Experience growing within a small start-up is a plus
 - You share our values, and work in accordance with those values
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 - Highly determined to learn new things, including GitLab
 
 ## Performance Indicators
@@ -67,4 +67,4 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Phone screen with a GitLab Recruiting team member.
 1. Video Interview with the Hiring Manager to outline take home assignment.
 1. Team Interviews with 1-4 team members
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

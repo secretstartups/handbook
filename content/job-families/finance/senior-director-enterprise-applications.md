@@ -9,7 +9,7 @@ This team member must be motivated and successful at mentoring by building and s
 
 ### Job Grade
 
-The Senior Director, Enterprise Applications is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Enterprise Applications is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -38,17 +38,17 @@ The Senior Director, Enterprise Applications is a [grade 11](https://about.gitla
 
 ## Performance Indicators (PI)
 
-- [New Hire Location Factor < 0.69](https://about.gitlab.com/handbook/business-technology/metrics/#new-hire-location-factor--069)
-- [% of team who self-classify as diverse](https://about.gitlab.com/handbook/business-technology/metrics/#percent--of-team-who-self-classify-as-diverse)
-- [Discretionary bonus per employee per month > 0.1](https://about.gitlab.com/handbook/business-technology/metrics/#discretionary-bonus-per-employee-per-month--01)
-- [Cost Actual vs Plan](https://about.gitlab.com/handbook/business-technology/metrics/#cost-actual-vs-plan)
-- [System roll out vs plan](https://about.gitlab.com/handbook/business-technology/metrics/#system-roll-out-vs-plan)
+- [New Hire Location Factor < 0.69](/handbook/business-technology/metrics/#new-hire-location-factor--069)
+- [% of team who self-classify as diverse](/handbook/business-technology/metrics/#percent--of-team-who-self-classify-as-diverse)
+- [Discretionary bonus per employee per month > 0.1](/handbook/business-technology/metrics/#discretionary-bonus-per-employee-per-month--01)
+- [Cost Actual vs Plan](/handbook/business-technology/metrics/#cost-actual-vs-plan)
+- [System roll out vs plan](/handbook/business-technology/metrics/#system-roll-out-vs-plan)
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
+- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with our VP, Information Technology
 - Candidates will then be invited to schedule a second interview with our CFO, VP, Field Operations, and VP, Finance
 - Finally, candidates may be asked to interview with our CEO

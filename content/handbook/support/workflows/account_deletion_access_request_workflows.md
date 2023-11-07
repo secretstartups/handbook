@@ -82,7 +82,7 @@ Find the appropriate workflow below to process requests submitted to our [Person
 - [Data Export (Right to Portability)](#data-export-requests-right-to-portability)
 - [General Questions](#general-questions)
 
-As a reminder, before processing a request you should make sure that you have already [Streamlined Your Workflow](https://about.gitlab.com/handbook/support/workflows/personal_data_access_account_deletion.html#streamlining-your-workflow) to make requests easier to process.
+As a reminder, before processing a request you should make sure that you have already [Streamlined Your Workflow](/handbook/support/workflows/personal_data_access_account_deletion.html#streamlining-your-workflow) to make requests easier to process.
 
 ### **Deletion Requests**
 
@@ -161,7 +161,7 @@ For all other blocked or banned reasons, proceed to [step 2](#step-2-evaluate) f
 
 ##### **Step 2:** Evaluate
 
-Evaluate the answers to the challenge questions that the user has provided using the [Account Verification](https://about.gitlab.com/handbook/support/workflows/account_verification.html#evaluating-challenge-answers) workflow with a data classification of `RED` along with the [Risk Factor](https://internal.gitlab.com/handbook/support/#risk-factors-for-account-ownership-verification) (GitLab internal) for data and privacy requests to confirm if the verification passes or fails.
+Evaluate the answers to the challenge questions that the user has provided using the [Account Verification](/handbook/support/workflows/account_verification.html#evaluating-challenge-answers) workflow with a data classification of `RED` along with the [Risk Factor](https://internal.gitlab.com/handbook/support/#risk-factors-for-account-ownership-verification) (GitLab internal) for data and privacy requests to confirm if the verification passes or fails.
 
 - If the verification passes, proceed to [**Step 3:** Create Meta Issue](#step-3-create-meta-issue).
 
@@ -298,7 +298,7 @@ IMPORTANT NOTE: If at any point you are unsure of next steps or have any questio
 </details>
 
 1. Notify [#privacy-team_help](https://gitlab.slack.com/archives/C04357HVCJD) of the request so that they can begin review of the evidence provided by the requester proving their authority to act on behalf of the deceased account owner.
-1. If the user has access to the account and provided answers to the [Verification Challenge questions](https://internal.gitlab.com/handbook/support/#account-verification-challenge-questions), then [evaluate answers](https://about.gitlab.com/handbook/support/workflows/account_deletion_access_request_workflows.html#step-2-evaluate) for verification.
+1. If the user has access to the account and provided answers to the [Verification Challenge questions](https://internal.gitlab.com/handbook/support/#account-verification-challenge-questions), then [evaluate answers](/handbook/support/workflows/account_deletion_access_request_workflows.html#step-2-evaluate) for verification.
    1. If the user fails verification, please reach out to the [#privacy-team_help](https://gitlab.slack.com/archives/C04357HVCJD) Slack channel for further direction.
    1. If the requester fails the challenge questions, and you get instruction from #privacy-team-help to proceed to verification fail, apply the `Account Verification Failed` and `deletion request::denied` labels, and respond with the following snipped before closing the issue:
 
@@ -348,7 +348,7 @@ Use this workflow for requests to delete user data from Sales or Marketing syste
 
 Users can request the following to obtain information about their data. Use this workflow for requests to access full details about what data we have on the user.
 
-- Data Access Request (provide all data from all systems GitLab have related to the user)
+- Data Access Request (provide all data from all systems GitLab has related to the user)
 - General Questions (any other inquiries related to the users data)
 
 Use the following workflows based on the type of request submitted.
@@ -372,13 +372,13 @@ Use the following workflows based on the type of request submitted.
 
   <p>Greetings,</p>
 
-  <p>You've opened a Data Access Request which is used specifically to obtain a copy of any personally identifiable information GitLab holds on you. In the course of filing this request, you've asked for data beyond the scope of what can be provided.
+  <p>You've opened a Data Access Request which is used specifically to obtain a copy of any personal data GitLab holds on you. In the course of filing this request, you've asked for data beyond the scope of what can be provided.
 
   Usage and other out-of-scope account data can be obtained by logging into your GitLab.com account and cannot be provided through a Data Access Request. If you have specific questions about this kind of data, please review your options for support at https://about.gitlab.com/support.
 
   Regarding this request, we can:
 
-  - continue the process and provide a report of all in-scope personally identifiable information.
+  - continue the process and provide a report of all in-scope personal data.
   - close this request with no further action
 
   Please let us know how you would like to proceed. </p>
@@ -398,11 +398,11 @@ Use this workflow for data export request submissions. Note that we can only act
 1. If the user runs into any issues using the self-serve steps, they can reply to the auto-response with more details about the error they are receiving. If they reply *after* the issue has been closed, re-open the issue.
 1. Before we continue to assist, we must validate their identity. Manually send the customer the [Verification Challenge questions](https://internal.gitlab.com/handbook/support/#account-verification-challenge-questions) through the issue. Users have a total of **7 calendar days** to respond to the challenge questions.
 1. Follow the same steps we use for account deletion requests to validate their account:
-    - [Await challenges](https://about.gitlab.com/handbook/support/workflows/account_deletion_access_request_workflows.html#step-1-await-challenges)
-    - [Evaluate answers](https://about.gitlab.com/handbook/support/workflows/account_deletion_access_request_workflows.html#step-2-evaluate)
+    - [Await challenges](/handbook/support/workflows/account_deletion_access_request_workflows.html#step-1-await-challenges)
+    - [Evaluate answers](/handbook/support/workflows/account_deletion_access_request_workflows.html#step-2-evaluate)
 1. Only if the user passes account validation, start the process to get them project exports.
    1. If the user cannot sign in, export project using [the UI](https://docs.gitlab.com/ee/user/project/settings/import_export.html#export-a-project-and-its-data) or [the API](https://docs.gitlab.com/ee/api/project_import_export.html#schedule-an-export).
-   1. If there are errors, follow [the project exports workflow](https://about.gitlab.com/handbook/support/workflows/importing_projects.html#project-exports). You can also search ZenDesk for examples of past project export tickets from *paid* customers for additional troubleshooting help and ideas.
+   1. If there are errors, follow [the project exports workflow](/handbook/support/workflows/importing_projects.html#project-exports). You can also search ZenDesk for examples of past project export tickets from *paid* customers for additional troubleshooting help and ideas.
 1. Upload the project exports to a new folder in the "Personal Data Requests" shared drive. Share the request specific folder with the user and let them know they should download the files within 7 days.
 1. After 7 days, unshare the request related folder and ask them to confirm they have the files.
 1. Once their issue is resolved, close the issue and apply the `Export Request::complied` label.

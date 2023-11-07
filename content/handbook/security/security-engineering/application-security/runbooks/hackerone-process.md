@@ -14,7 +14,7 @@ The `#hackerone-feed` Slack channel receives notifications of report status chan
 
 ## GitLab Team On-boarding
 
-- New members of the GitLab security team are granted access to the GitLab HackerOne team via an access request issue using the appropriate [role based entitlement template](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#role-entitlements-for-a-specific-job), which should be submitted by their manager during onboarding
+- New members of the GitLab security team are granted access to the GitLab HackerOne team via an access request issue using the appropriate [role based entitlement template](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#role-entitlements-for-a-specific-job), which should be submitted by their manager during onboarding
 - During onboarding, new GitLab security team members will be invited to join the HackerOne program if their role requires it.
 
 ## Working the Queue
@@ -89,8 +89,8 @@ the responsible engineering team:
         - Assign the appropriate [Due Date]({{< ref "/handbook/security#due-date-on-security-issues" >}})
         - Have a proper [`How to reproduce`]({{< ref "/handbook/security#reproducibility-on-security-issues" >}}) section, by for instance copying the final reproduction steps written by our HackerOne triager into the issue.
         - If the report is a security-related documentation change, add the `~documentation` label
-        - @-mention the product manager and engineering manager based on the [product categories page](https://about.gitlab.com/handbook/product/categories/). Ask for engineering feedback if it is required to complete the triage
-        - add labels (`/label ~` command) corresponding to the [DevOps stage](https://about.gitlab.com/handbook/product/categories/#devops-stages) and source group (consult the [Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) for an overview on categories forming the hierarchy)
+        - @-mention the product manager and engineering manager based on the [product categories page](/handbook/product/categories/). Ask for engineering feedback if it is required to complete the triage
+        - add labels (`/label ~` command) corresponding to the [DevOps stage](/handbook/product/categories/#devops-stages) and source group (consult the [Hierarchy](/handbook/product/categories/#hierarchy) for an overview on categories forming the hierarchy)
         - As applicable, notify other relevant team members via the issue, chat, and email, depending on the chosen security level.
     - Change the state of the report to "Triaged" in HackerOne:
         - See [GitLab's H1 Policy](https://hackerone.com/gitlab), under `Rewards`, for portions of bounty rewards which are awarded at the time of triage
@@ -221,7 +221,7 @@ be notified of updates at least **monthly**.
 
 ## SLA exceptions
 
-The HackerOne bot will automatically assign the correct due date based on severity of the imported issue. However, sometimes the issues may for various reasons not be patched within that timeframe. When this happens, development teams should open a [SLA exception](https://handbook.gitlab.com/handbook/security/threat-management/vulnerability-management/#sla-exception-procedures) and have it approved by the Vulnerability Management team. The Application Security team is available to assist by providing guidance on these exception requests, but the expectation is that development teams will submit these requests and provide the justification and exception type.
+The HackerOne bot will automatically assign the correct due date based on severity of the imported issue. However, sometimes the issues may for various reasons not be patched within that timeframe. When this happens, development teams should open a [SLA exception](/handbook/security/threat-management/vulnerability-management/#sla-exception-procedures) and have it approved by the Vulnerability Management team. The Application Security team is available to assist by providing guidance on these exception requests, but the expectation is that development teams will submit these requests and provide the justification and exception type.
 
 ## Closing out & disclosing issues
 

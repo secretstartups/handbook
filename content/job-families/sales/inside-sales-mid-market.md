@@ -37,7 +37,7 @@ Inside Sales Representatives within Mid-Market would be measured by the attainme
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Qualified candidates receive a short questionnaire from our Global Recruiters
   1. What would differentiate you and make you a great inside sales representative for GitLab?
@@ -50,4 +50,4 @@ Candidates for this position can expect the hiring process to follow the order b
   1. Next, candidates will complete their 50-minute Chronological In-Depth Survey with Worldwide Director of Commercial Mid-Market
   1. Finally, candidates will be invited for a 30-minute interview with an Area Sales Manager
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

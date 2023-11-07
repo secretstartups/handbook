@@ -9,11 +9,21 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
 
 Belgian employees are on state benefits. This includes sickness, medical, disability, pension, and unemployment. For more information, please take a look at the corresponding government website.
 
-GitLab does not plan on offering additional private medical or pension benefits at this time due to the government cover.
+GitLab does not plan on offering pension benefits at this time due to the government cover.
 
 GitLab will continue to review responses from the [Global Benefits Survey]({{< ref "benefits-survey#global-benefits-survey" >}}) as well as budgetary availability with respect to adding a Life Insurance policy for team members in Belgium.
 
 Annual Mandatory Indexation:  Each year Belgian’s Joint Industrial Committee 227 (JIC 227) completes a salary review and recommends an adjustment in keeping with the cost of living. That adjustment is referred to as salary indexation and affects employees of companies that are subject to the committee's oversight. GitLab processes these mandated increases as part of Annual Compensation Review. An email will be sent to affected team members that will state their salary increase is an advance payment (partly) on the given year indexation, aiming at compensating (partly) for the increased costs of living and will ask for an acknowledgment of receipt of said email to each employee.
+
+## Healthcare Allowance
+
+**Allowance: gross amount of 70 Euros Per month**
+- Healthcare Monthly Allowance will be paid by Payroll as an allowance to team members to help subsidize the cost for their own Healthcare plans.
+- Team Members will need to purchase their own healthcare plans. No documentation is needed to receive the allowance.
+- This amount will be paid on a monthly basis with the regular payroll and will be taxed accordingly.
+- The allowance will be prorated for New Hires that start in the middle of the month and terminations that end in the middle of the month.
+- Team members on sick pay or unpaid parental leave will continue to receive the monthly allowance.
+- The allowance is the first iteration of the Belgium Medical Benefits. Once it is possible to set up a group insurance plan in Belgium, the medical allowance policy will be removed.
 
 ## Ecocheques
 
@@ -60,9 +70,9 @@ Pursuant to article 13 of the law on paid public holidays, employers are obliged
       - Where appropriate, following this obligatory postnatal leave, the team member may take the whole or part of the period of five weeks of optional prenatal leave. This leave can be transferred only on condition that the team member resumed their work from the sixth week preceding the actual date of delivery.
     - It is prohibited for employers to allow pregnant team members to work overtime.
     - For team members who have been with GitLab for six months and completed a probationary period:
-      - Both prenatal and postnatal leave run concurrently with [GitLab Parental Leave](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+      - Both prenatal and postnatal leave run concurrently with [GitLab Parental Leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
       - GitLab will supplement statutory maternity leave payments so that the team member continues to receive 100% of their salary for up to 16 weeks.
-  - Paternity Leave: every team member is entitled to twenty days (fifteen days if birth has taken place before 1 January 2023) of leave following the birth of a child, to be used at the team member's discretion within four months following the date of child birth. This leave will run concurrently with [GitLab's 16-week Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), and team members will be entitled to 100% of their salary for up to 16 weeks (minus any statutory entitlements)
+  - Paternity Leave: every team member is entitled to twenty days (fifteen days if birth has taken place before 1 January 2023) of leave following the birth of a child, to be used at the team member's discretion within four months following the date of child birth. This leave will run concurrently with [GitLab's 16-week Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), and team members will be entitled to 100% of their salary for up to 16 weeks (minus any statutory entitlements)
     - To process a paternity leave, GitLab will notify the payroll provider who will conversely update the pay code and notify the social office.
   - Team members should submit their request for Parental leave three months before the start of leave by selecting the `Parental Leave` label in Time Off by Deel.
 - Statutory Vacation Leave

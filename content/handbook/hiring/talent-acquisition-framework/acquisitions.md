@@ -16,7 +16,7 @@ An acquisition hire is any hire which was made as a direct result of acquisition
 1. Create a slack channel with #acq-talent-acquisition-(acquisition project name), add all relevant team members to the channel and provide specific details on the confidential nature of the acquisition.
 1. Notify the Talent Acquisition Manager/Lead of the need to process candidates as part of the acquisition at least 2 weeks before (where there are 3+ candidates) the final decision on the candidates needs to be made.
 1. Provide the details of the team they will be joining, the interview process if different from our [Standard Interview process]({{< ref "interviewing" >}}), the hiring manager an director responsible for the process. For engineering candidates joining the process is an abbreviated one to our standard one as described on our [acquisition process](https://about.gitlab.com/handbook/acquisitions/acquisition-process#early-diligence)
-1. Talent Acquisition Manager/Lead to gain a dummy [GHP ID](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#headcount-and-the-talent-acquisition-single-source-of-truth)
+1. Talent Acquisition Manager/Lead to gain a dummy [GHP ID](/handbook/finance/financial-planning-and-analysis/#headcount-and-the-talent-acquisition-single-source-of-truth)
 1. Talent Acquisition Manager/Lead will open a Requisition in Greenhouse that will house all the acquisition candidates.
 1. Talent Acquisition Manager will assign the Requisition to a Recruiter who will manage the Interview process.
 1. Provide candidate details i.e. Resume or LinkedIn Profile, to the recruiter so they can process the candidate in Greenhouse.

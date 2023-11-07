@@ -35,7 +35,7 @@ The Security Analyst, External Security Communications reports to the [Director 
 
 #### Intermediate job grade
 
-The Security Analyst, External Security Communications is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Security Analyst, External Security Communications is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Intermediate responsibilities
 
@@ -62,7 +62,7 @@ The Senior Security Analyst, External Security Communications reports to the [Di
 
 #### Senior level job grade
 
-The Senior Security Analyst, External Security Communications is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Security Analyst, External Security Communications is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior level responsibilities
 
@@ -92,7 +92,7 @@ The Staff Security Analyst, External Security Communications reports to the [Dir
 
 #### Staff level job grade
 
-The Staff Security Analyst, External Security Communications is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Security Analyst, External Security Communications is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff level responsibilities
 
@@ -121,7 +121,7 @@ The Principal Security Analyst, External Security Communications reports to the 
 
 #### Principal level job grade
 
-The Principal Security Analyst, External Security Communications is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Security Analyst, External Security Communications is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Principal level responsibilities
 
@@ -166,9 +166,9 @@ The next step in the Security Analyst, External Security Communications job fami
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 50-minute interviews with the hiring manager,
 - Then, candidates will be invited to schedule 3 separate 50-minute interviews with 3 different peers from within the Security organization,
 - Finally, candidates will be invited to schedule a 25-minute interview with the Director of Security Engineering.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

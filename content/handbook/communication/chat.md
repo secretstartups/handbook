@@ -31,7 +31,7 @@ To raise an issue with a specific team, please use below most commonly used chan
 - **`#it-help`**: For IT related queries, Okta, issues with hardware, software, system access requests and user permissions etc
 - **`#payroll_expenses`**: For Navan Expense issues, delayed reimbursements and salaries, payslips, etc
 - **`#talent acquisition`**: For referrals based questions, candidate alignments, general talent acquisition etc
-- **`#total-rewards`**: For general questions on [Total Rewards](https://about.gitlab.com/handbook/total-rewards/) including compensation, benefits, and equity
+- **`#total-rewards`**: For general questions on [Total Rewards](/handbook/total-rewards/) including compensation, benefits, and equity
 
 
 ### Channel Categories
@@ -40,7 +40,7 @@ To raise an issue with a specific team, please use below most commonly used chan
 
 These channels (prefixed with a `a_`) are for team members to collaborate and communicate regarding the account for a customer organization. Depending on the customer, they are sometimes internal, marked as private or we shared with the customer by connecting to customer's own Slack workspace. In order to clearly differentiate between these shared and internal channels, we recommend using `a_XYZ-internal` and `a_XYZ-external` naming conventions to be explicitly clear (as the shared symbol can be easily missed in Slack).
 
-To request a new channel or to make changes to existing channels, please use the [access request process](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#slack-google-groups-1password-vaults-or-groups-access-requests).
+To request a new channel or to make changes to existing channels, please use the [access request process](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#slack-google-groups-1password-vaults-or-groups-access-requests).
 
 Commercial (Mid-Market and SMB) accounts have specific guidelines around having Slack channels with customers.
 
@@ -55,17 +55,17 @@ These channels are for teams and GitLab team-members interested in a specific fe
 
 #### Group Channels (g_)
 
-Group channels (prefixed with a `g_`) correspond to a [DevOps Stage group](https://about.gitlab.com/handbook/product/categories/#hierarchy) and other [engineering departments and teams](https://about.gitlab.com/handbook/engineering/#engineering-departments--teams).
+Group channels (prefixed with a `g_`) correspond to a [DevOps Stage group](/handbook/product/categories/#hierarchy) and other [engineering departments and teams](https://about.gitlab.com/handbook/engineering/#engineering-departments--teams).
 
 **Example**
 
-- **[`#g_create`](https://gitlab.slack.com/archives/g_create)**: Channel for the [Create](https://about.gitlab.com/handbook/product/categories/#create-stage) development group.
-- **[`#g_create_source-code`](https://gitlab.slack.com/archives/g_create_source-code)**: Channel for the [Source Code](https://about.gitlab.com/handbook/product/categories/#source-code-group) development group.
+- **[`#g_create`](https://gitlab.slack.com/archives/g_create)**: Channel for the [Create](/handbook/product/categories/#create-stage) development group.
+- **[`#g_create_source-code`](https://gitlab.slack.com/archives/g_create_source-code)**: Channel for the [Source Code](/handbook/product/categories/#source-code-group) development group.
 - **[`#g_geo`](https://gitlab.slack.com/archives/g_geo)**: Dedicated to the [Geo group](https://about.gitlab.com/handbook/engineering/development/enablement/systems/geo/).
 
 #### Location Channels (loc_)
 
-These channels are used to help GitLab team-members who are in the same general region of the world to talk about get-togethers and other location-specific items. They are also instrumental if you're going to be visiting somewhere else in the world - there might be a GitLab team-member or two nearby! Feel free to join the channel temporarily to chat with GitLab team-members who live there, and see if there is an opportunity to leverage the [visiting grant](https://about.gitlab.com/handbook/incentives/#visiting-grant) to add value to your trip.
+These channels are used to help GitLab team-members who are in the same general region of the world to talk about get-togethers and other location-specific items. They are also instrumental if you're going to be visiting somewhere else in the world - there might be a GitLab team-member or two nearby! Feel free to join the channel temporarily to chat with GitLab team-members who live there, and see if there is an opportunity to leverage the [visiting grant](/handbook/incentives/#visiting-grant) to add value to your trip.
 
 If there's a channel not listed below, please add in alphabetical order with an MR.
 
@@ -204,8 +204,8 @@ Stage channels (prefixed with `s_`) correspond to stages within sub-departments.
 
 **Examples**
 
-- **[`#s_enablement`](https://gitlab.slack.com/archives/s_enablement)**: For the [Enablement stage](https://about.gitlab.com/handbook/product/categories/#enablement-stage).
-- **[`#s_create`](https://gitlab.slack.com/archives/s_create)**: For the [Create stage](https://about.gitlab.com/handbook/product/categories/#create-stage).
+- **[`#s_enablement`](https://gitlab.slack.com/archives/s_enablement)**: For the [Enablement stage](/handbook/product/categories/#enablement-stage).
+- **[`#s_create`](https://gitlab.slack.com/archives/s_create)**: For the [Create stage](/handbook/product/categories/#create-stage).
 
 #### Sub-Department Channels (sd_)
 
@@ -235,6 +235,6 @@ In addition to weekly company group calls that bring us together, GitLab has Soc
 - **[`#lego`](https://gitlab.slack.com/archives/lego)**: Build, inspire, play. Share your builds and invite your children.
 - **[`#lgbtq`](https://gitlab.slack.com/archives/lgbtq)**: Space for LGBTQ people and allies in GitLab to chat and support each other.
 - **[`#managers`](https://gitlab.slack.com/archives/managers)**: Share ideas, thoughts, and issues on all things to do with being a manager at GitLab.
-- **[`#mental_health_aware`](https://gitlab.slack.com/archives/mental_health_aware)**: Mental health is [super important](https://about.gitlab.com/company/culture/all-remote/mental-health/) and we realize that. This is a place to discuss concerns you might be having or find someone to talk to if you're feeling alone. We aim to be supportive and available for all who need it.
+- **[`#mental_health_aware`](https://gitlab.slack.com/archives/mental_health_aware)**: Mental health is [super important](/handbook/company/culture/all-remote/mental-health/) and we realize that. This is a place to discuss concerns you might be having or find someone to talk to if you're feeling alone. We aim to be supportive and available for all who need it.
 - **[`#music`](https://gitlab.slack.com/archives/music)**: Share your current playlist or any interesting music you come across.
 - **[`#postcrossing`](https://gitlab.slack.com/archives/C2L1HK6TV)**: Send team members postcards from your home cities, towns and villages from around the world.

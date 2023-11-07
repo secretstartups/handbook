@@ -5,7 +5,7 @@ weight: -10
 
 ## Purpose
 
-For each [executive](https://about.gitlab.com/company/team/structure/#executives) — and some department leaders — to discuss the key metrics of that department in order to:
+For each [executive](/handbook/company/team/structure/#executives) — and some department leaders — to discuss the key metrics of that department in order to:
 
 1. Make it much easier to stay up-to-date for everyone.
 1. Be accountable to the rest of the company.
@@ -16,8 +16,8 @@ For each [executive](https://about.gitlab.com/company/team/structure/#executives
 
 ## Key Metrics
 
-1. [KPIs](https://about.gitlab.com/company/kpis/) of that function or department.
-1. [OKRs](https://about.gitlab.com/company/okrs/) for that function.
+1. [KPIs](/handbook/company/kpis/) of that function or department.
+1. [OKRs](/handbook/company/okrs/) for that function.
 
 ## Timing
 
@@ -36,7 +36,7 @@ A Key Review does not need to be scheduled if everything is on track and awarene
 ## Invitees
 
 Required invites are the CEO, the CFO, and the function head.
-Optional attendees are all other members of [the e-group](https://about.gitlab.com/company/team/structure/#e-group), Directs Group, and Chief of Staff to the CEO Group. Cross-Functional Initiatives DRIs are also invited to all meetings.
+Optional attendees are all other members of [the e-group](/handbook/company/team/structure/#e-group), Directs Group, and Chief of Staff to the CEO Group. Cross-Functional Initiatives DRIs are also invited to all meetings.
 Group Conversations are open to everyone. Key Reviews are open to E-Group and key stakeholders. Key Review Meetings may contain MNPI. As materials are limited access, participation is limited.
 If the Key Review meeting will not contain MNPI, it can be livestreamed to GitLab Unfiltered, with the distinction of being streamed as Private or Public, depending on the department.
 
@@ -78,16 +78,16 @@ Content to cover in each Key Review:
 
 Important notes:
 
-1. Before every Key Review, the OKRs should be updated by the functional DRI by updating the Health Status of their KRs in Ally.io as detailed in [Maintaining the status of OKRs](https://about.gitlab.com/company/okrs/#maintaining-the-status-of-okrs)
+1. Before every Key Review, the OKRs should be updated by the functional DRI by updating the Health Status of their KRs in Ally.io as detailed in [Maintaining the status of OKRs](/handbook/company/okrs/#maintaining-the-status-of-okrs)
 1. A document will be linked from the calendar invite for participants to log questions or comments for discussion and to any additional track decisions & action items.
 1. Every department KPI should be covered. This can be in the presentation and/or links to the handbook.
-1. [Top cross-functional initiatives](https://about.gitlab.com/company/team/structure/working-groups/#top-cross-functional-initiatives) should be covered in the sessions that map to the E-Group sponsor. Related issues and epics should be updated in advance of the meeting.
+1. [Top cross-functional initiatives](/handbook/company/team/structure/working-groups/#top-cross-functional-initiatives) should be covered in the sessions that map to the E-Group sponsor. Related issues and epics should be updated in advance of the meeting.
 1. Wherever possible, the KPI or KR being reviewed should be compared to Plan, Target, or industry benchmark.
 1. There is no presentation; the meeting is purely Q&A. Of course, people can ask to talk them through a slide. If you want to present, please [post a YouTube video](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/) like [Todd did](https://www.youtube.com/watch?v=hpyR39y_1d0) and link that from the slide deck, agenda, and/or Slack.
 1. The functional owner is responsible for updating and posting their Key Review agenda 24 hours in advance of the meeting, post in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
 1. Video is not required, but if there is a video it should be posted 24hrs in advance in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
 1. The agenda document should include a presentation link that is accessible by all team members, as well as a Q&A section.
-1. If the Key Review does not contain MNPI or [not public](/handbook/communication/confidentiality-levels/#not-public) information, it should be publicly streamed to YouTube Unfiltered in alignment with GitLab's [value of transparency](/handbook/values/#transparency). Key Reviews not containing MNPI with [not public](/handbook/communication/confidentiality-levels/#not-public) information should be privately streamed to YouTube Unfiltered. If the Key Review contains MNPI it should not be live streamed, but can be recorded and shared in a [limited access](/handbook/communication/confidentiality-levels/#limited-access) manner.
+1. If the Key Review does not contain MNPI or [not public](/handbook/communication/confidentiality-levels/#not-public) information, it should be publicly streamed to YouTube Unfiltered in alignment with GitLab's [value of transparency](/handbook/values/#transparency). Key Reviews not containing MNPI with [not public](/handbook/communication/confidentiality-levels/#not-public) information should be privately streamed to YouTube Unfiltered. If the Key Review contains MNPI it should not be streamed, but can be recorded and shared in a [limited access](/handbook/communication/confidentiality-levels/#limited-access) manner.
 1. Should public or private streaming be unavailable, Key Reviews are set to auto-record to the cloud and should be uploaded to the GitLab Unfiltered [Key Reviews Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrlBfo0IBmV0BwJcPN59swi) on YouTube if it does not contain MNPI or [not public](/handbook/communication/confidentiality-levels/#not-public) information. It is the DRI's or their EBA's responsibility to ensure that the video, if not containing MNPI or [not public](/handbook/communication/confidentiality-levels/#not-public) information, is uploaded to GitLab Unfiltered with the correct visibility (private or public). If it contains MNPI, then the recording can be shared in a [limited access](/handbook/communication/confidentiality-levels/#limited-access) manner.
 1. If the function DRI is not available to attend their Key Review then the function's leadership team is responsible for attending the meeting and providing updates.
 1. Repetition in recognizing what is working or not working from month to month is okay as repetition can be an organizational tool for teaching people what’s important amidst all the noise.
@@ -97,13 +97,12 @@ honor](/handbook/communication/#first-post-is-a-badge-of-honor).
 
 ### Group Conversations and Key Review Metrics
 
-Function DRIs are expected to use and share their function's Key Review deck, meeting notes and any recordings for their scheduled [Group Conversations](https://about.gitlab.com/handbook/group-conversations/#fy23-q2--q3-schedule). Group Conversations should follow Key Reviews, please see the [Group Conversation schedule](/handbook/group-conversations/#schedule--dri). The goal for these meetings are to discuss what is important and the decks should be the same. You can add additional slides to the Key Review to give more context, not all slides have to relate to KPIs and OKRs. The difference between the two meetings is the audience, the GCs are for a wider audience of the entire company.
+Function DRIs are expected to use and share their function's Key Review deck, meeting notes and any recordings for their scheduled [Group Conversations](/handbook/group-conversations/#fy23-q2--q3-schedule). Group Conversations should follow Key Reviews, please see the [Group Conversation schedule](/handbook/group-conversations/#schedule--dri). The goal for these meetings are to discuss what is important and the decks should be the same. You can add additional slides to the Key Review to give more context, not all slides have to relate to KPIs and OKRs. The difference between the two meetings is the audience, the GCs are for a wider audience of the entire company.
 
 ### Recordings
 
 To view a recording of a Key Review, visit the playlist on YouTube Unfiltered titled [Key Reviews](https://www.youtube.com/playlist?list=PL05JrBw4t0KrlBfo0IBmV0BwJcPN59swi). If you are unable to view a video, please ensure you are logged in as [GitLab Unfiltered](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).
 
-Key Review recording links should be shared in the #key-review Slack channel by the functional department EBA within 24 hours of a Key Review being completed.
 
 ### Automated KPI Slides
 
@@ -141,7 +140,7 @@ To create these slides, you will need *Editor* access in Sisense.
 - Edit the chart you're interested in.
 - Click "Chart Format" (second tab on far right)
 - Under Advanced, select "Expose Public CSV URL"
-- Follow the [instructions on pulling data out of Sisense](https://about.gitlab.com/handbook/business-technology/data-team/platform/periscope/#pulling-data-out-of-sisense)
+- Follow the [instructions on pulling data out of Sisense](/handbook/business-technology/data-team/platform/periscope/#pulling-data-out-of-sisense)
 - Select the data set and add a chart to the sheet
 - In the slides, Insert > Chart > From Sheets > find the one you're looking for
 
@@ -154,7 +153,7 @@ Here is an example of the VP of Development presenting the [Development Departme
 
 {{< youtube "8C9oniGinYM" >}}
 
-This method is ideal, as it is [handbook-first](/handbook/handbook-usage/#why-handbook-first) and makes it easy for [everyone to contribute](https://about.gitlab.com/company/strategy/).
+This method is ideal, as it is [handbook-first](/handbook/handbook-usage/#why-handbook-first) and makes it easy for [everyone to contribute](/handbook/company/strategy/).
 Commentary can be added via an MR to the [data/performance_indicators.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/performance_indicators.yml) file.
 The executive summary section can help consumers of the information understand where to dig in futher.
 
@@ -172,4 +171,4 @@ OKR slides should:
 1. Flag key achievements
 1. Highlight risks or dependencies in need of discussion
 
-At the end of each meeting, all atendees should be able to clearly answer what we are trying to achieve and whether we are on track. The Key Review immediately following the close of quarter should address not only new OKRs but also include an update on [scoring](https://about.gitlab.com/company/okrs/#scoring-okrs) of what we have achieved in the previous quarter.
+At the end of each meeting, all atendees should be able to clearly answer what we are trying to achieve and whether we are on track. The Key Review immediately following the close of quarter should address not only new OKRs but also include an update on [scoring](/handbook/company/okrs/#scoring-okrs) of what we have achieved in the previous quarter.

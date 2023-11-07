@@ -67,7 +67,7 @@ Please email *paul.dervan@wtwco.com* and cc’ *total-rewards@gitlab.com*
 
 ### Superannuation
 
-GitLab will make superannuation contributions directly to the team member's nominated super fund according to the Australian Government Super Guarantee rate which is currently set at 10.5% of the team member's total salary, with a quarterly cap of $6,323.10 AUD. Super is on top of the salary listed in the compensation calculator/contract.
+GitLab will make superannuation contributions directly to the team member's nominated super fund according to the Australian Government Super Guarantee rate which is currently set at 11% of the team member's total salary, with a quarterly cap of $6,849.70 AUD. Super is on top of the salary listed in the compensation calculator/contract.
 
 #### Superannuation payments due dates
 
@@ -120,7 +120,7 @@ If you need to file a claim, kindly reach out to the Payroll Team or email nonus
 
 ### On-Call (Engineering only)
 
-Certain groups in the Engineering division are expected to participate in on-call for business continuity and/or customer support. For more details on the on-call procedure, please reference the [on-call page](https://about.gitlab.com/handbook/on-call/). The purpose of this section is to provide an overview of **time in lieu that will be offered for the Development and Infrastructure departments effective February 1, 2021.** We will continue to review and implement to other departments within Engineering iteratively.
+Certain groups in the Engineering division are expected to participate in on-call for business continuity and/or customer support. For more details on the on-call procedure, please reference the [on-call page](/handbook/on-call/). The purpose of this section is to provide an overview of **time in lieu that will be offered for the Development and Infrastructure departments effective February 1, 2021.** We will continue to review and implement to other departments within Engineering iteratively.
 
 With our global team, we strive for a "follow the sun" model for on-call rotation. This way, team members can participate in on-call during their daytime rather than their nighttime in their respective regions (APAC, EMEA and AMER). In APAC, the majority of the team members are located in Australia. We want to ensure engineers in Australia are 1) eligible for on-call shifts, and 2) stay aligned with local laws to ensure proper rest/recovery time after on-call shifts.
 

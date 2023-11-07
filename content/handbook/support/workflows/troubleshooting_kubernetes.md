@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Troubleshooting GitLab Cloud Native chart deployments
 category: Self-managed
 description: Using the kubeSOS to troubleshoot GitLab Cloud Native chart deployments

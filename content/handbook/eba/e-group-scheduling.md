@@ -88,5 +88,26 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 - For scheduling questions, please do not tag @Ashley, reach out/tag @Jeanette McCarthy.
 - Include meeting agendas in invites and/or briefing docs (excluding coffee chats) at least 24 hours in advance.
 
+## Scheduling for Jörg Heilig, Interim CTO
 
+- All meeting requests should go through Sr. EBA, Marisa Carlson.
+- Priority given to candidate interviews, CEO, E-Group, GitLab BoD, and direct reports to the CTO.
+- Limited availability due to personal commitments from 9-10am PT Mon.-Fri. due personal commitments
+- Can often make meetings during these blocks, if given advance notice, but strong preference for meeting outside of these times
+- If meetings need to happen before 9am PT or after 5pm PT check with EBA
+- Do not schedule over DNB (Do Not Book) without reaching out for approval from EBA
+- For meetings outside of set business hours contact EBA
+- EBA to add reminders at 1 month, 2 weeks, 1 week and 2 days on the calendar for the following events: OKRs, All Hands, Offsites, and Board of Director meetings
+- All meeting requests should include an agenda or some sort of reference material. For meetings with customers, please include a briefing doc and information about any current executive sponsors.
 
+## Scheduling for Josh Lemos, CISO
+
+- All meeting requests should go through Sr. EBA, Marisa Carlson.
+- Priority given to candidate interviews, CEO, E-Group, GitLab BoD, and direct reports to the CISO.
+- Limited availability due to personal commitments from 8-9am PT and 3-4pm PT Mon.-Fri. due personal commitments
+- Can often make meetings during these blocks, if given advance notice, but strong preference for meeting outside of these times
+- If meetings need to happen before 9am PT or after 5pm PT check with EBA
+- Do not schedule over DNB (Do Not Book) without reaching out for approval from EBA
+- For meetings outside of set business hours contact EBA
+- EBA to add reminders at 1 month, 2 weeks, 1 week and 2 days on the calendar for the following events: OKRs, Key Reviews, Offsites, and Board of Director meetings
+- All meeting requests should include an agenda or some sort of reference material. For meetings with customers, please include a briefing doc and information about any current executive sponsors.

@@ -31,7 +31,7 @@ The AUP mainly consists of 3 parts:
     - These are non-negtiables and include things like complying with the [DMCA](https://about.gitlab.com/handbook/dmca/) and removing illegal content.
 - Principles: Ensuring that GitLab.com is not used in a way that negatively impacts others.
     - This is primarily based on our [Values]({{< ref "values" >}}) and include things like removing content that is concidered harmful and protecting others privacy.
-- Goal: Ensuring that GitLab.com is not used in a way that would negatively impact our [Vision](https://about.gitlab.com/company/vision/#vision).
+- Goal: Ensuring that GitLab.com is not used in a way that would negatively impact our [Vision](/handbook/company/vision/#vision).
     - This is primarily used to ensure that GitLab.com is used for it's intented purpose, and to reduce any negatvie impact caused by an unintended and/or unforseen use of it.
 
 If you think this is something you would be interested in learning about, maybe even do one day, come join us for a crash course in understanding the world of the Trust and Safety team!

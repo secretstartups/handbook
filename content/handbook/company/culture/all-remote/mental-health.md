@@ -313,9 +313,7 @@ Create a rudimentary README that clarifies how you work. Ideally, it's working f
 
 ### Be transparent on capacity
 
-In a remote setting, it's important to let others know you need uninterrupted focus. Many at GitLab utilize [Clockwise]({{< ref "other-apps#clockwise" >}}), which automatically showcases a calendar icon and triggers `Do Not Disturb` within Slack while you're in a meeting, and shows when you're outside of set working hours.
-
-You should feel safe to manually adjust your status to indicate when you are at capacity or engaged in focus time. This models healthy boundaries while communicating that Slack and synchronous conversation [should not be the default]({{< ref "communication#internal-communication" >}}).
+In a remote setting, it's important to let others know you need uninterrupted focus. You should feel safe to manually adjust your status to indicate when you are at capacity or engaged in focus time. This models healthy boundaries while communicating that Slack and synchronous conversation [should not be the default]({{< ref "communication#internal-communication" >}}).
 
 ## What are some tips for managing time when working remotely?
 
@@ -346,7 +344,6 @@ The following tools and strategies are used by the GitLab team to manage burnout
 | Tool | Use |
 | ----- | ----- |
 | [Headspace](https://www.headspace.com/subscriptions) | Meditation app |
-| [Clockwise](https://www.getclockwise.com) | Calendar management app |
 | [Non-Linear Workdays]({{< ref "./non-linear-workday" >}}) | All-remote work strategy to increase life harmony |
 | README Files | Space to share bio, remote work setup, and information about working style. Check out the [GitLab's Engineering Team README files](https://about.gitlab.com/handbook/engineering/readmes) as an example.|
 | Slack | Non-work conversation in channels like `#mindfulness` and `#mental-health-aware` |

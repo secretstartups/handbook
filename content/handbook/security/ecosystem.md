@@ -26,7 +26,7 @@ The Security Leadership will review the ecosystem diagrams prior to every offsit
 
 ### Tooling
 
-In order to maintain consistency across all diagrams and this ecosystem in general, we use the [Mermaid native integration](https://handbook.gitlab.com/handbook/tools-and-tips/#using-mermaid) in GitLab and in this Handbook.
+In order to maintain consistency across all diagrams and this ecosystem in general, we use the [Mermaid native integration](/handbook/tools-and-tips/#using-mermaid) in GitLab and in this Handbook.
 
 Diagrams were created during the FY24-Q2 Security Leadership Offsite and are available in the [Security Google Drive](https://drive.google.com/drive/u/0/folders/1uekt058WCzwIQjH_d06hjR3RUvR2aVS6) (only available for team members of the Security Division) until they are migrated in the handbook.
 

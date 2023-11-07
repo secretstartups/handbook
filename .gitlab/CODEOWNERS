@@ -61,6 +61,7 @@
 [docs]
 /LICENCE @jamiemaynard @marshall007
 /README.md @jamiemaynard @marshall007
+/CONTRIBUTING.md @jamiemaynard @marshal007
 /content/docs/ @jamiemaynard @marshall007
 
 # This is the controlled documents section where approval from a CODEOWNER is always required
@@ -124,7 +125,20 @@
 /content/handbook/ @sytses @streas
 
 ^[company]
-/content/company/ @sytses @streas
+/content/handbook/company/ @sytses @streas
+
+^[Culture]
+/content/handbook/company/culture/ @streas
+/content/handbook/company/culture/all-remote/ @streas
+/content/handbook/company/culture/contribute/ @akramer
+/content/handbook/company/culture/cross-culture-collaboration-guide.md @glucchesi @wendybarnes
+/content/handbook/company/culture/gitlab-101.md @chrisweber44 @streas
+/content/handbook/company/culture/inclusion/ @wendybarnes
+/content/handbook/company/culture/internal-feedback.md @wendybarnes @mwilkins
+/content/handbook/company/culture/inclusion/tmrg-gitlab-generational-understanding.md @darwinjs @wendybarnes @mdrussell @terrichu
+/content/handbook/company/culture/inclusion/tmrg-gitlab-gente.md @pmejia @romerg
+/content/handbook/company/culture/inclusion/erg-gitlab-diversability.md @jgladen @sam.white @kchappell
+/content/handbook/company/culture/inclusion/tmrg-global-voices.md @eliran.mesika @twoodham @marin
 
 # The rest of the entries are for the different sections of the handbook and/or job-families
 ^[READMEs]
@@ -141,7 +155,7 @@
 ^[ceo]
 /content/job-families/chief-executive-officer @sytses @streas
 /content/job-families/board-of-directors/ @sytses @robin
-/sites/handbook/source/handbook/leadership/ @sytses @streas
+/content/handbook/leadership/ @sytses @streas
 /content/handbook/company/ @sytses @streas
 /content/handbook/company/strategy/ @sytses
 /content/handbook/company/stewardship/ @sytses
@@ -188,8 +202,17 @@
 /content/job-families/engineering/incubation/ @bmarnane
 
 ^[finance]
-/content/handbook/finance/documents/ @james.shen @watson.lin
 /content/handbook/finance/ @brobins
+/content/handbook/finance/documents/ @james.shen @watson.lin
+/content/handbook/finance/financial-planning-and-analysis/ @cmestel
+/content/handbook/finance/financial-planning-and-analysis/sales-finance/ @jlatendresse @kmckern @ofalken
+/content/handbook/finance/financial-planning-and-analysis/adaptive-insights.md @cmestel
+/content/handbook/finance/financial-planning-and-analysis/sales-finance/gtm-analytics-hub.md @cmestel @jakebielecki @christinelee @alex.cohen @james_harrison @jbrennan1
+/content/handbook/finance/procurement/ @cmestel @brobins
+/content/handbook/finance/growth-and-development/cfo-shadow-program.md @brobins @dtadich
+/content/handbook/finance/timekeeping/ @TaraKumpf @cgudgenov @simon-mundy
+/content/handbook/spending-company-money.md @brobins @daleb04
+/content/handbook/tax/ @jgladen
 /content/job-families/finance/ @brobins
 
 ^[Infrastructure-Standards]
@@ -222,20 +245,19 @@
 /content/handbook/people-group/relocation/ @wendybarnes @pegan @mpatel8
 /content/handbook/people-group/employment-branding/ @drogozinski @cchiodo @rallen3
 /content/handbook/people-group/employment-branding/people-communications/ @kaylagolden @drogozinski @rallen3
-/content/handbook/group-conversations/ @chrisweber44 
+/content/handbook/group-conversations/ @chrisweber44
 /content/handbook/people-group/celebrations/ @wendybarnes @mpatel8
 /content/handbook/people-group/talent-assessment/ @wendybarnes @rtakken @glucchesi @pegan @cbednarz
 /content/handbook/labor-and-employment-notices/ @pegan @wendybarnes @cgudgenov @streas @sytses
 /content/handbook/people-policies/leave-of-absence/ @lyndemeiers @pegan @cgudgenov
 /content/handbook/people-policies/leave-of-absence/us/ @lyndemeiers @pegan @cgudgenov
 /content/handbook/people-group/team-member-relations/ @pegan @atisdale
-/content/handbook/people-group/pronouns/ @klang @ahanselka @lmcnally1
+/content/handbook/people-group/pronouns.md @klang @ahanselka @lmcnally1
 /content/job-families/people-group/recruiting-operations-insights/ @sytses @streas @wendybarnes @rallen3
 /content/job-families/people-group/recruiter.md @sytses @streas @wendybarnes @rallen3
 /content/job-families/people-group/recruiting-sourcer.md @sytses @streas @wendybarnes @rallen3
 /content/job-families/people-group/candidate-experience.md @sytses @streas @wendybarnes @rallen3
 /content/job-families/people-group/ @wendybarnes @pegan
-/content/handbook/people-group/pronouns/ @klang @ahanselka @lmcnally1
 
 ^[People-Engineering]
 /content/handbook/people-group/engineering/ @anechan
@@ -321,7 +343,7 @@
 /content/handbook/teamops/partners.md @jmoverley @streas @cynthia
 
 ^[total-rewards]
-/content/handbook/total-rewards/ @brittanyr @mwilkins
+/content/handbook/total-rewards/ @shristikauffman @mwilkins
 
 [values]
 /content/handbook/values/ @sytses @gitlab-com/ceo-chief-of-staff-team

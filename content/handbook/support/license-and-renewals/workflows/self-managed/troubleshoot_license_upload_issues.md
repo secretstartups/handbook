@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Troubleshooting and categorising license activation errors
 description: "How to troubleshoot and categorise GitLab license activation errors"
 category: GitLab Self-Managed licenses

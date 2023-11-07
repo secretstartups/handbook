@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Billing Operations"
 ---
 
@@ -20,16 +20,16 @@ Please see the internal [Wiki](https://gitlab.com/gitlab-com/Finance-Division/fi
 
 ## Meet the Team
 
-- [Sarah McCauley](https://about.gitlab.com/company/team/#s_mccauley) - Director, Billing & Accounts Receivable
-- [Anna Piaseczna](https://about.gitlab.com/company/team/#annapiaseczna) - Senior Manager, GPO Billing Operations
-- [Simone Polverini](https://about.gitlab.com/company/team/#spolverini) - Manager, Billing Operations EMEA and APAC
-- [Cristine Sotomango Marquardt](https://about.gitlab.com/company/team/#csotomango) - Manager, Billing Operations AMER
-- [Karen McKinney](https://about.gitlab.com/company/team/#k.mckinney) - Billing Operations Specialist
-- [Kinga Polgardi](https://about.gitlab.com/company/team/#KingaPolgardi) - Senior Billing Operations Specialist
-- [Ausha Saptouw](https://about.gitlab.com/company/team/#aushas) - Billing Operations Specialist
-- [Laura Robins](https://about.gitlab.com/company/team/#LauraRobins) - Billing Operations Specialist
-- [Christian Willis](https://about.gitlab.com/company/team/#christianwillis) - Senior Billing Operations Specialist
-- [Diana Quitevis](https://about.gitlab.com/company/team/#dquitevis) - Billing Operations Specialist
+- [Sarah McCauley](/handbook/company/team/#s_mccauley) - Director, Billing & Accounts Receivable
+- [Anna Piaseczna](/handbook/company/team/#annapiaseczna) - Senior Manager, GPO Billing Operations
+- [Simone Polverini](/handbook/company/team/#spolverini) - Manager, Billing Operations EMEA and APAC
+- [Cristine Sotomango Marquardt](/handbook/company/team/#csotomango) - Manager, Billing Operations AMER
+- [Karen McKinney](/handbook/company/team/#k.mckinney) - Billing Operations Specialist
+- [Kinga Polgardi](/handbook/company/team/#KingaPolgardi) - Senior Billing Operations Specialist
+- [Ausha Saptouw](/handbook/company/team/#aushas) - Billing Operations Specialist
+- [Laura Robins](/handbook/company/team/#LauraRobins) - Billing Operations Specialist
+- [Christian Willis](/handbook/company/team/#christianwillis) - Senior Billing Operations Specialist
+- [Diana Quitevis](/handbook/company/team/#dquitevis) - Billing Operations Specialist
 
 *The Billing Team works closely with Sales, Deal Desk, Accounts Receivable, and Revenue Operations.*
 

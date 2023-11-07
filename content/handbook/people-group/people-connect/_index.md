@@ -24,7 +24,7 @@ Moving away from a multi-channel support model team members can now route all pe
 
 Team Members are encouraged to reach out to People Connect around any topic that could be considered 'employment related' such as compensation, benefits and equity; leave accruals; onboarding processes; bonus nominations; country hiring; relocations; the growth and development benefit; name changes etc.
 
-People Connect provides team member support for all of the functional areas within the [People Group](https://about.gitlab.com/handbook/people-group/) including Total Rewards; Diversity Inclusion and Belonging; Learning and Development; People Operations; the People Business Partners and Employment Solutions.
+People Connect provides team member support for all of the functional areas within the [People Group](/handbook/people-group/) including Total Rewards; Diversity Inclusion and Belonging; Learning and Development; People Operations; the People Business Partners and Employment Solutions.
 
 Additionally our team of generalists are equally able to support queries and requests that are external but in many ways still related to the People Group such as Expense Reporting (Accounts Payable) and Payroll.
 

@@ -65,12 +65,12 @@ A GitLab customized handbook first training is provided via ProofPoint. To recei
 
 - Special topics covered:
     - [Suspected phishing]({{< ref "phishing#how-to-identify-a-basic-phishing-attack" >}})
-    - [Acceptable Use](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/)
+    - [Acceptable Use](/handbook/people-group/acceptable-use-policy/)
     - [Device Lost or Stolen?!](https{{< ref "/handbook/security#panic-email" >}})
         - Slack: the `/security` Slack command
         - Email (Emergencies-ONLY): panic@gitlab.com
     - [Data Classification]({{< ref "data-classification-standard" >}})
-    - [No Red Data on Unapproved Locations](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/#security-and-proprietary-information)
+    - [No Red Data on Unapproved Locations](/handbook/people-group/acceptable-use-policy/#security-and-proprietary-information)
     - An additional training module including OWASP fundamentals for any GitLab team member that writes code as part of their role (including Infra-as-code)
 
 ## What happens if training is not completed?

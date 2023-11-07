@@ -27,7 +27,7 @@ title: Learning & Development
 *Performance indicators*
 
 1. Reduce voluntary attrition by 5% each year by measuring [exit survey data]({{< ref "/handbook/people-group/offboarding#exit-survey" >}}) related to career development
-1. Secure a 5% increase in the Growth & Development category of the [annual engagement survey]({{< ref "engagement" >}})
+1. Secure a 5% increase in the Growth & Development category of the [annual engagement survey]({{< ref "/handbook/people-group/engagement" >}})
 1. Increased access to career mobility: internal transfers, [promotions]({{< ref "promotions-transfers" >}}), job shadows, intern for learning, and professional development
 1. Clear evidence of best in class remote learning & development (i.e. [Brandon Hall Awards](https://excellenceawards.brandonhall.com/), Industry Speaking Events, Thought Leadership articles, etc.)
 
@@ -105,9 +105,9 @@ Multiple teams across the company contribute to learning and development of our 
 We are a small team, but we've got a big role to play at GitLab!
 
 - [Learning and Development Director]({{< ref "/job-families/people-group/learning-development#learning--development-manager" >}}): TBD
-- [Senior Learning and Development Program Manager]({{< ref "/job-families/people-group/learning-development#intermediate-learning--development-program-manager" >}}): [Samantha Lee](https://about.gitlab.com/company/team/#slee24)
-- [Learning and Development Program Manager]({{< ref "/job-families/people-group/learning-development#intermediate-learning--development-program-manager" >}}): [Jamie Allen](https://about.gitlab.com/company/team/#jallen16)
-- [Learning and Development Program Manager]({{< ref "/job-families/people-group/learning-development#intermediate-learning--development-program-manager" >}}): [Kalyani Yerraguntla](https://about.gitlab.com/company/team/#kyerraguntla)
+- [Senior Learning and Development Program Manager]({{< ref "/job-families/people-group/learning-development#intermediate-learning--development-program-manager" >}}): [Samantha Lee](/handbook/company/team/#slee24)
+- [Learning and Development Program Manager]({{< ref "/job-families/people-group/learning-development#intermediate-learning--development-program-manager" >}}): [Jamie Allen](/handbook/company/team/#jallen16)
+- [Learning and Development Program Manager]({{< ref "/job-families/people-group/learning-development#intermediate-learning--development-program-manager" >}}): [Kalyani Yerraguntla](/handbook/company/team/#kyerraguntla)
 
 ## Contact Us
 

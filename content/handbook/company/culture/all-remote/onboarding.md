@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "The complete guide to remote onboarding for new-hires"
 description: "A complete guide to onboarding new remote work employees and establishing processes that ensure success from day one. Learn more here!"
 twitter_image: "/images/opengraph/all-remote.jpg"

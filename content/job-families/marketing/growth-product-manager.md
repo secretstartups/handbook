@@ -18,7 +18,7 @@ Growth Product Managers help us grow our customer base by improving our net new 
 - Passion for design and usability
 - Highly independent and pragmatic
 - Excellent proficiency in English
-- You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
+- You are living wherever you want and are excited about the [all remote](/handbook/company/culture/all-remote/) lifestyle
 - You share our [values](/handbook/values/), and work in accordance with those values
 - Trust and empower your development group to deliver great products
 - Receptive to feedback or coaching
@@ -38,7 +38,7 @@ Growth Product Managers help us grow our customer base by improving our net new 
 
 Product Managers at GitLab have a unique opportunity to define the future of the
 entire [DevOps lifecycle](https://about.gitlab.com/stages-devops-lifecycle/). We
-are working on a [single application](https://about.gitlab.com/handbook/product/single-application) that
+are working on a [single application](/handbook/product/single-application) that
 allows developers to invent, create, and deploy modern applications.
 
 We want to facilitate [Concurrent DevOps](https://about.gitlab.com/topics/concurrent-devops/) so that teams can work simultaneously instead of sequentially, unleashing collaboration across organizations.
@@ -48,4 +48,4 @@ a high paced, pragmatic way of working. And everything we do is [in the open](ht
 
 We are looking for talented product managers that are excited by the idea to
 contribute to our vision. We know there are a million things we can and want to
-implement in GitLab. Be the one making decisions. A review of the product management role levels can be found [here](https://about.gitlab.com/job-families/product/product-manager/#career-paths).
+implement in GitLab. Be the one making decisions. A review of the product management role levels can be found [here](/job-families/product/product-manager/#career-paths).

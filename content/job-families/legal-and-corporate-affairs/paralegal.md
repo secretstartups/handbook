@@ -10,7 +10,7 @@ The Associate Paralegal reports to the Director of Legal or Senior Director of L
 
 #### Associate Paralegal Job Grade
 
-The Associate Paralegal is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Paralegal is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Associate Paralegal Responsibilities
 
@@ -44,7 +44,7 @@ The Paralegal reports to the Director of Legal, or Senior Director of Legal.
 
 #### Paralegal Job Grade
 
-The Paralegal is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Paralegal is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Paralegal Responsibilities
 
@@ -62,7 +62,7 @@ The Paralegal is a [grade 6](https://about.gitlab.com/handbook/total-rewards/com
 
 #### Job Grade
 
-The Senior Paralegal is a [Grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Paralegal is a [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Responsibilities
 
@@ -216,9 +216,9 @@ The next step in the Paralegal job family is not yet defined at GitLab.
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our team page.
 
-- Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiter.
+- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with our Global Recruiter.
 - Next, candidates are invited to schedule a first interview with the hiring manager.
 - Next, candidates are invited to schedule with additional members of the Legal and Corporate Affairs Team.
 - Finally, candidates are invited to interview with the Director of Legal for the functional area.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

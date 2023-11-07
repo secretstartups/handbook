@@ -13,7 +13,7 @@ The Account Based Marketing Manager (Intermediate) reports to Senior Manager, Ma
 
 #### Job Grade
 
-The Account Based Marketing Manager (Intermediate) is a [6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Account Based Marketing Manager (Intermediate) is a [6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -50,7 +50,7 @@ The Senior Account Based Marketing Manager reports to Senior Manager, Marketing 
 
 #### Senior Account Based Marketing Manager Job Grade
 
-The Senior Account Based Marketing  Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Account Based Marketing  Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Account Based Marketing Manager Responsibilities
 
@@ -85,7 +85,7 @@ The Manager, Account Based Marketing reports to Senior Manager, Marketing Campai
 
 #### Job Grade
 
-The Manager, Account Based Marketing is a [8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Account Based Marketing is a [8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -110,7 +110,7 @@ The Manager, Account Based Marketing is a [8](https://about.gitlab.com/handbook/
 - Team player with ability to work independently and autonomously
 - Flexibility to adjust to the dynamic nature of a startup
 - Ability to use GitLab
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 
 #### Performance Indicators
 
@@ -126,7 +126,7 @@ The next step for both individual contributors and managers of people is to move
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/). Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/). Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 - Selected candidates will be invited to schedule a screening call with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a first-round interview with the hiring manager - the Manager, Field Marketing North America.

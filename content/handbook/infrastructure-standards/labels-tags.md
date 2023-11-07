@@ -61,7 +61,7 @@ Here is a summary of changes made during the design of these standards based on 
 - On 2021-07-22, we performed an audit and updated the `gl_dept`, `gl_dept_group`, and `gl_product_stage` tables with the latest values. A new table was added below `gl_dept_group` expected values with the list of renamed or removed department groups.
 - The `sales-cs` realm was consolidated into the `business-tech` realm since the Demo Systems infrastructure is now managed by Business Technology.
 - The `infra-shared-services` realm was added for top-level infrastructure management.
-- We now allow short-term and long-term [working groups](https://about.gitlab.com/company/team/structure/working-groups/) to use the `gl_dept_group` label with the prefix of `wg-` and an easily understood name of their choice (no codenames).
+- We now allow short-term and long-term [working groups](/handbook/company/team/structure/working-groups/) to use the `gl_dept_group` label with the prefix of `wg-` and an easily understood name of their choice (no codenames).
 
 ## Environment Realm (`gl_realm`)
 
@@ -311,7 +311,7 @@ This allows us to allocate costs to the respective business entity in financial 
 | `canada`      | (future use) GitLab Canada Corp., Canada         |
 | `gk`          | (future use) GitLab GK, Japan                    |
 
-See the [GitLab Mailing addresses](https://about.gitlab.com/company/visiting/) for details about each entity.
+See the [GitLab Mailing addresses](/handbook/company/visiting/) for details about each entity.
 
 ### Realm Usage Guidelines
 
@@ -391,7 +391,7 @@ This label/tag is optional.
 gl_product_stage: eng-dev-manage
 ```
 
-Since the `eng-dev` department has many groups, we use the [Product sections, stages, groups and categories](https://about.gitlab.com/handbook/product/categories/#devops-stages) handbook page to define a parent group using the product stage. During the design discussion, we iterated with using product categories and sub-departments, and the stage made the most sense.
+Since the `eng-dev` department has many groups, we use the [Product sections, stages, groups and categories](/handbook/product/categories/#devops-stages) handbook page to define a parent group using the product stage. During the design discussion, we iterated with using product categories and sub-departments, and the stage made the most sense.
 
 For GitLab SaaS and infrastructure cost allocation or attribution, the Engineering Infrastructure department team members can use the `gl_product_stage` label to attach to resources that should be attributed to a specific stage. You can optionally use the `gl_dept_group` if you need more granular attribution.
 
@@ -399,22 +399,22 @@ For GitLab SaaS and infrastructure cost allocation or attribution, the Engineeri
 
 | Value | Product Category Documentation |
 |------------------------|--------------------------------------------------------------------------------------------------|
-| `eng-dev-manage`       | [Manage Stage](https://about.gitlab.com/handbook/product/categories/#manage-stage)               |
-| `eng-dev-plan`         | [Plan Stage](https://about.gitlab.com/handbook/product/categories/#plan-stage)                   |
-| `eng-dev-create`       | [Create Stage](https://about.gitlab.com/handbook/product/categories/#create-stage)               |
-| `eng-dev-ecosystem`    | [Ecosystem Stage](https://about.gitlab.com/handbook/product/categories/#ecosystem-stage)         |
-| `eng-dev-verify`       | [Verify Stage](https://about.gitlab.com/handbook/product/categories/#verify-stage)               |
-| `eng-dev-package`      | [Package Stage](https://about.gitlab.com/handbook/product/categories/#package-stage)             |
-| `eng-dev-deploy`       | [Deploy Stage](https://about.gitlab.com/handbook/product/categories/#deploy-stage)               |
-| `eng-dev-monitor`      | [Monitor Stage](https://about.gitlab.com/handbook/product/categories/#monitor-stage)             |
-| `eng-dev-secure`       | [Secure Stage](https://about.gitlab.com/handbook/product/categories/#secure-stage)               |
-| `eng-dev-govern`       | [Govern Stage](https://about.gitlab.com/handbook/product/categories/#govern-stage)               |
-| `eng-dev-growth`       | [Growth Stage](https://about.gitlab.com/handbook/product/categories/#growth-stage)               |
-| `eng-dev-fulfillment`  | [Fulfillment Stage](https://about.gitlab.com/handbook/product/categories/#fulfillment-stage)     |
-| `eng-dev-enablement`   | [Enablement Stage](https://about.gitlab.com/handbook/product/categories/#enablement-stage)       |
-| `eng-dev-modelops`     | [ModelOps Stage](https://about.gitlab.com/handbook/product/categories/#modelops-stage)           |
-| `eng-dev-mobile`       | [Mobile Stage](https://about.gitlab.com/handbook/product/categories/#mobile-stage)               |
-| `eng-dev-deploy`       | [Deploy Stage](https://about.gitlab.com/handbook/product/categories/#deploy-stage)               |
+| `eng-dev-manage`       | [Manage Stage](/handbook/product/categories/#manage-stage)               |
+| `eng-dev-plan`         | [Plan Stage](/handbook/product/categories/#plan-stage)                   |
+| `eng-dev-create`       | [Create Stage](/handbook/product/categories/#create-stage)               |
+| `eng-dev-ecosystem`    | [Ecosystem Stage](/handbook/product/categories/#ecosystem-stage)         |
+| `eng-dev-verify`       | [Verify Stage](/handbook/product/categories/#verify-stage)               |
+| `eng-dev-package`      | [Package Stage](/handbook/product/categories/#package-stage)             |
+| `eng-dev-deploy`       | [Deploy Stage](/handbook/product/categories/#deploy-stage)               |
+| `eng-dev-monitor`      | [Monitor Stage](/handbook/product/categories/#monitor-stage)             |
+| `eng-dev-secure`       | [Secure Stage](/handbook/product/categories/#secure-stage)               |
+| `eng-dev-govern`       | [Govern Stage](/handbook/product/categories/#govern-stage)               |
+| `eng-dev-growth`       | [Growth Stage](/handbook/product/categories/#growth-stage)               |
+| `eng-dev-fulfillment`  | [Fulfillment Stage](/handbook/product/categories/#fulfillment-stage)     |
+| `eng-dev-enablement`   | [Enablement Stage](/handbook/product/categories/#enablement-stage)       |
+| `eng-dev-modelops`     | [ModelOps Stage](/handbook/product/categories/#modelops-stage)           |
+| `eng-dev-mobile`       | [Mobile Stage](/handbook/product/categories/#mobile-stage)               |
+| `eng-dev-deploy`       | [Deploy Stage](/handbook/product/categories/#deploy-stage)               |
 
 ## GitLab Product Category (`gl_product_category`)
 
@@ -461,7 +461,7 @@ The full list of groups was last audited and updated on 2021-07-22.
 
 1. If a group was renamed or removed, it appears in the [Deprecated Group Names](#deprecated-group-names) table below. Any renamed groups have a footnote indicator.
 1. This was added after the initial list was created.
-1. This is a special group that may not directly align with a team. For `eng-dev`, this usually appears under [Other Functionality](https://about.gitlab.com/handbook/product/categories/#other-functionality).
+1. This is a special group that may not directly align with a team. For `eng-dev`, this usually appears under [Other Functionality](/handbook/product/categories/#other-functionality).
 
 | gl_realm        | gl_dept                  | gl_product_stage                  | gl_dept_group                        | Group Documentation |
 |-----------------|--------------------------|-----------------------------------|--------------------------------------|---------------------|
@@ -524,7 +524,6 @@ The full list of groups was last audited and updated on 2021-07-22.
 | eng-dev         | eng-dev                  | eng-dev-enablement                | eng-dev-enablement-shared-infra      | |
 | eng-dev         | eng-dev                  | eng-dev-enablement                | eng-dev-enablement-distribution      | |
 | eng-dev         | eng-dev                  | eng-dev-enablement                | eng-dev-enablement-geo               | |
-| eng-dev         | eng-dev                  | eng-dev-enablement                | eng-dev-enablement-memory            | |
 | eng-dev         | eng-dev                  | eng-dev-enablement                | eng-dev-enablement-search            | |
 | eng-dev         | eng-dev                  | eng-dev-enablement                | eng-dev-enablement-sharding [^2]     | |
 | eng-dev         | eng-dev                  | eng-dev-enablement                | eng-dev-enablement-database          | |
@@ -542,6 +541,7 @@ The full list of groups was last audited and updated on 2021-07-22.
 | eng-infra       | eng-infra                | eng-infra-reliability             | eng-infra-reliability-general [^2]       | |
 | eng-infra       | eng-infra                | eng-infra-reliability             | eng-infra-reliability-observability [^2] | |
 | eng-infra       | eng-infra                | eng-infra-reliability             | eng-infra-reliability-practices [^2]     | |
+| eng-infra       | eng-infra                | eng-infra-enablement              | eng-infra-cloud-connector            | |
 | eng-dev         | eng-quality              |                                   | eng-quality-shared-infra             | |
 | eng-dev         | eng-quality              |                                   | eng-quality-env-toolkit [^2]         | |
 | eng-dev         | eng-quality              |                                   | eng-quality-ops-ci-cd                | |
@@ -644,6 +644,8 @@ The following group names have been renamed or removed and may still be in use w
 | 2023-03-14      | eng-dev         | eng-dev                  | eng-dev-release                   | eng-dev-release-release-mgmt         | eng-dev-deploy-environments                   |
 | 2023-03-14      | eng-dev         | eng-dev                  | eng-dev-configure                 | eng-dev-configure-shared-infra       | eng-dev-deploy-shared-infra                   |
 | 2023-03-14      | eng-dev         | eng-dev                  | eng-dev-configure                 | eng-dev-configure-configure          | eng-dev-deploy-environments                   |
+| 2023-10-19      | eng-dev         | eng-dev                  | eng-dev-enablement                | eng-dev-enablement-memory            | eng-infra-cloud-connector |
+
 
 ## Resource Type (`gl_resource_type`)
 
@@ -727,7 +729,7 @@ This label/tag is required for resources that store data (databases, storage buc
 gl_data_classification: red
 ```
 
-Values should match the documented [Data Classification Levels](https://about.gitlab.com/handbook/security/data-classification-standard.html#data-classification-levels) with all lowercase value (for cloud provider tag and label consistency).
+Values should match the documented [Data Classification Levels](/handbook/security/data-classification-standard.html#data-classification-levels) with all lowercase value (for cloud provider tag and label consistency).
 
 ### Expected Values
 
@@ -740,7 +742,7 @@ Values should match the documented [Data Classification Levels](https://about.gi
 
 ## Accounting and Financial Reporting
 
-In alignment with our [transparency value](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public), financial information cannot be shared publicly. Team members can see the details of how labels and tags impact financial reporting in this [issue](https://gitlab.com/gitlab-com/compute-sandbox/issue-tracking/-/issues/3#impact-to-accounting-and-financial-reporting). The cost allocation methodology for production environments that in this [document](https://docs.google.com/document/d/1p4pzquEZjXRZfcdgSUQZ2Kw988o3sdknq5ZQVxtGAkw/edit?usp=sharing).
+In alignment with our [transparency value](/handbook/communication/confidentiality-levels/#not-public), financial information cannot be shared publicly. Team members can see the details of how labels and tags impact financial reporting in this [issue](https://gitlab.com/gitlab-com/compute-sandbox/issue-tracking/-/issues/3#impact-to-accounting-and-financial-reporting). The cost allocation methodology for production environments that in this [document](https://docs.google.com/document/d/1p4pzquEZjXRZfcdgSUQZ2Kw988o3sdknq5ZQVxtGAkw/edit?usp=sharing).
 
 ## Impact to Business Owners and Infrastructure Team
 
@@ -760,4 +762,4 @@ With future automation, we can also create frictionless experience for users wit
 
 [^1]: This was renamed or removed after the initial list was created.
 [^2]: This group was added after the initial list was created.
-[^3]: This is a special group that may not directly align with a team. For `eng-dev`, this usually appears under [Other Functionality](https://about.gitlab.com/handbook/product/categories/#other-functionality).
+[^3]: This is a special group that may not directly align with a team. For `eng-dev`, this usually appears under [Other Functionality](/handbook/product/categories/#other-functionality).

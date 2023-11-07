@@ -9,7 +9,7 @@ The Channel Sales Manager is responsible for sales enablement of their assigned 
 
 ### Job Grade
 
-The Channel Sales Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Channel Sales Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -39,9 +39,9 @@ The Channel Sales Manager is a [grade 8](https://about.gitlab.com/handbook/total
 - Strong personal network within the industry.
 - Driven, highly motivated and results driven.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 {{% job-families/sales/performance %}}
 
@@ -53,7 +53,7 @@ The Associate Channel Sales Manager share the same requirements and responsibili
 
 #### Job Grade
 
-The Associate Channel Sales Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Channel Sales Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -77,7 +77,7 @@ The Associate Channel Sales Manager is a [grade 8](https://about.gitlab.com/hand
 - Strong personal network within the industry.
 - Driven, highly motivated and results driven.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 - Ability to use GitLab
 
 #### Performance Indicators
@@ -91,7 +91,7 @@ The senior level extends the role outlined above. The Senior Channel Sales Manag
 
 #### Job Grade
 
-The Senior Channel Sales Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Channel Sales Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -116,7 +116,7 @@ The Senior Channel Sales Manager is a [grade 8](https://about.gitlab.com/handboo
 - Strong personal network within the industry.
 - Driven, highly motivated and results driven.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 - Ability to use GitLab
 
 #### Performance Indicators
@@ -129,7 +129,7 @@ The Senior Channel Sales Manager is a [grade 8](https://about.gitlab.com/handboo
 
 #### Job Grade
 
-The Manager, Channel Sales (people manager) is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Channel Sales (people manager) is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -175,7 +175,7 @@ The senior level extends the role outlined above. The Senior Public Sector Chann
 
 #### Job Grade
 
-The Senior Public Sector Channel Account Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Public Sector Channel Account Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -204,7 +204,7 @@ The Senior Public Sector Channel Account Manager is a [grade 9](https://about.gi
 - Strong personal network within the industry.
 - Driven, highly motivated and results driven.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 - Ability to use GitLab
 - Passion for leadership and further advancement in responsibilities as a individual contributor or managing other
 
@@ -226,7 +226,7 @@ The Senior Public Sector Channel Account Manager is a [grade 9](https://about.gi
 
 #### Job Grade
 
-The Director, Channel Sales Manager is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Channel Sales Manager is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -264,7 +264,7 @@ The Director, Channel Sales Manager is a [grade 10](https://about.gitlab.com/han
 - % Revenue Partner Inititated
 - % Services Attached
 - Size of Partner Practices - skilled, certified consultants and deliver resources
-- [SMAU](https://about.gitlab.com/handbook/product/performance-indicators/#stage-monthly-active-users-smau) acceleration by stage or # seats in named enterprise accounts
+- [SMAU](/handbook/product/performance-indicators/#stage-monthly-active-users-smau) acceleration by stage or # seats in named enterprise accounts
 
 ### Senior Director, Channel Sales
 
@@ -272,7 +272,7 @@ In addition to the responsibilities and rquirements of the Director, Channel Sal
 
 #### Job Grade
 
-The Senior Director, Channel Sales Manager is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Channel Sales Manager is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -294,7 +294,7 @@ The Senior Director, Channel Sales Manager is a [grade 11](https://about.gitlab.
 - % Revenue Partner Inititated
 - % Services Attached
 - Size of Partner Practices - skilled, certified consultants and deliver resources
-- [SMAU](https://about.gitlab.com/handbook/product/performance-indicators/#stage-monthly-active-users-smau) acceleration by stage or # seats in named enterprise accounts
+- [SMAU](/handbook/product/performance-indicators/#stage-monthly-active-users-smau) acceleration by stage or # seats in named enterprise accounts
 
 ## Specialties
 
@@ -352,7 +352,7 @@ The Distribution Sales Manager is accountable for revenue generation in the terr
 - Strong personal network within the industry.
 - Driven, highly motivated and results driven.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 - Ability to use GitLab
 
 ### Alliances
@@ -375,7 +375,7 @@ The Distribution Sales Manager is accountable for revenue generation in the terr
 1. Significant experience with executive presence and a proven ability to lead and facilitate executive meetings including architecture whiteboards
 1. Excellent time management and written/verbal communication skills
 1. Ability to quickly understand technical concepts and explain them to audiences of varying technical expertise
-1. [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+1. [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 1. Ability to use GitLab
 
 #### Performance Indicators
@@ -391,11 +391,11 @@ The next steps for the Channel Manager Job Family is to move into the [Channel P
 
 ## Hiring Process
 
-Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a 30min [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30min [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 teammates
 - There may be a final executive interview
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

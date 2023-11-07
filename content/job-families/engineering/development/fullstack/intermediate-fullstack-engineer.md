@@ -6,7 +6,7 @@ Fullstack Engineers work across the backend and frontend parts of our product. T
 
 ## Job Grade
 
-The Intermediate Fullstack Engineer is a [grade](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 6 job.
+The Intermediate Fullstack Engineer is a [grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 6 job.
 
 ## Responsibilities
 
@@ -73,7 +73,7 @@ The [Growth sub-department](https://about.gitlab.com/handbook/engineering/develo
 
 ### Govern
 
-The [Govern sub-department](https://about.gitlab.com/handbook/engineering/development/sec/govern/) contributes to development in the [Sec](https://about.gitlab.com/handbook/product/categories/#sec-section) section.
+The [Govern sub-department](https://about.gitlab.com/handbook/engineering/development/sec/govern/) contributes to development in the [Sec](/handbook/product/categories/#sec-section) section.
 
 #### Govern Requirements
 
@@ -91,9 +91,9 @@ The [Govern sub-department](https://about.gitlab.com/handbook/engineering/develo
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 {Insert hiring process steps here.}
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

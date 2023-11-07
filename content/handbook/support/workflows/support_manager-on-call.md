@@ -42,9 +42,9 @@ At times, an emergency page may come in for a situation that is not quite yet an
 
 See more examples of [situations that might be emergencies](/handbook/support/workflows/emergency_exception_workflow.html#examples-of-situations-that-might-or-might-not-qualify-for-an-exception) and [situations that are not emergencies](/handbook/support/workflows/emergency_exception_workflow.html#situations-that-are-not-emergencies).
 
-### FY23Q4-FY24Q1 Trial - Paging backup engineers on weekends in APAC
+### Paging backup engineers on weekends in APAC
 
-During FY23Q4-FY24Q1, the APAC region will be trialling a pool of [**backup engineers**](/handbook/support/workflows/customer_emergencies_workflows.html) that are available to reach out to during the weekend on-call hours, in the event that a concurrent emergency occurs.
+The APAC region has a pool of [**backup engineers**](/handbook/support/workflows/customer_emergencies_workflows.html) that are available to reach out to during the weekend on-call hours, in the event that a concurrent emergency occurs.
 
 If you are the Support Manager on-call and a concurrent emergency occurs, you will be paged by the Support Engineer On-call escalated via Pagerduty. You will then be responsible for checking the current situation and determining if the **backup engineers** need to be paged. If so, the Support Manager will then **manually page** the **backup engineers**. At this point, the backup engineers are all pinged. Only one backup engineer needs to acknowledge the page and lend assistance, and there is no expectation that **backup engineers** will be available to respond to a page.
 
@@ -101,7 +101,7 @@ Some steps of STAR treatment are handled by bots and auto-responders. The text `
 
 ### Unstarring a ticket - rejecting the request for additional attention
 
-There are times when a STAR does not meet the threshold for additional attention. See the [main STAR page](https://about.gitlab.com/handbook/support/internal-support/support-ticket-attention-requests.html) for details. In such situations, return to the thread in `#support_ticket-attention-requests` and notify the initiator.
+There are times when a STAR does not meet the threshold for additional attention. See the [main STAR page](/handbook/support/internal-support/support-ticket-attention-requests.html) for details. In such situations, return to the thread in `#support_ticket-attention-requests` and notify the initiator.
 
 ### Resolving a STAR
 
@@ -133,7 +133,7 @@ The following action should be taken promptly:
 
 ## Act as a notification point for security incidents
 
-When GitLab experiences a [security incident](https://about.gitlab.com/handbook/security/security-operations/sirt/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact), the Support Manager on-call is responsible for triaging and responding to customer communications stemming from the security incident. This may include involving the [CMOC](/handbook/support/workflows/cmoc_workflows.html).
+When GitLab experiences a [security incident](/handbook/security/security-operations/sirt/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact), the Support Manager on-call is responsible for triaging and responding to customer communications stemming from the security incident. This may include involving the [CMOC](/handbook/support/workflows/cmoc_workflows.html).
 
 ## Provide assistance with Upgrade Assistance Requests
 
@@ -172,7 +172,7 @@ Login to [gitlab.pagerduty.com](https://gitlab.pagerduty.com) and select **+ New
 
 No other fields need to be filled out, therefore you may then click **Create Incident**
 
-![Manually triggering an emergency](/images/support/manually-trigger-emergency.png){: .shadow}
+![Manually triggering an emergency](/images/support/manually-trigger-emergency.png)
 
 ## Special Handling Notes
 

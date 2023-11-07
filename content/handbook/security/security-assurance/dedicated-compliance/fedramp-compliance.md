@@ -22,7 +22,7 @@ An assessment (security audit) of a cloud service against FedRAMP requirements t
 
 GitLab is pursuing FedRAMP Moderate authorization for a new government community cloud Software-as-a-Service (SaaS) offering. A government community cloud is intended for use by U.S. federal, state, local, tribal, and territorial customers, in addition to federally funded research centers (FFRDCs), contractors or service providers working on behalf of the government, and lab entities.
 
-FedRAMP is a top cross-functional initiative at GitLab and has a [working group](https://about.gitlab.com/company/team/structure/working-groups/fedramp-execution/) that convenes at least monthly. The [Security Compliance (Dedicated Markets) team](https://about.gitlab.com/handbook/security/security-assurance/dedicated-compliance/) is responsible for translating and clarifying the FedRAMP requirements for the organization, providing advice and consultation, and ultimately achieving and maintaining compliance.
+FedRAMP is a top cross-functional initiative at GitLab and has a [working group](/handbook/company/team/structure/working-groups/fedramp-execution/) that convenes at least monthly. The [Security Compliance (Dedicated Markets) team](/handbook/security/security-assurance/dedicated-compliance/) is responsible for translating and clarifying the FedRAMP requirements for the organization, providing advice and consultation, and ultimately achieving and maintaining compliance.
 
 Unfortunately, GitLab cannot publicly share specific timelines or progress with key milestones at this time. Internal team members can learn more [here](https://internal.gitlab.com/handbook/engineering/fedramp-compliance/#-keeping-fedramp-safe).
 
@@ -61,4 +61,4 @@ SaaS offerings can inherit (partially or fully) some of the required controls fr
 
 ## Who to contact
 
-Please reach out to `@dedicated_compliance` in the `# sec-assurance` or `# wg_fedramp` channels on Slack for questions about the requirements or the process. For other questions, including product-specific matters, reach out to the `# wg_fedramp` channel or contact a member of the [US Public Sector Services product group](https://about.gitlab.com/handbook/product/categories/#us-public-sector-services-group).
+Please reach out to `@dedicated_compliance` in the `# sec-assurance` or `# wg_fedramp` channels on Slack for questions about the requirements or the process. For other questions, including product-specific matters, reach out to the `# wg_fedramp` channel or contact a member of the [US Public Sector Services product group](/handbook/product/categories/#us-public-sector-services-group).

@@ -30,17 +30,17 @@ Additionally, our team serves as liaisons between the customer and the GitLab ec
 - Project management experience & skills
 - Strong technical, analytic, and problem-solving skills
 - Alignment with our [values](/handbook/values/), and willingness to work in accordance with those values
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ### Levels
 
 ## Associate Customer Success Manager (CSM)
 
-The Associate CSM reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-of-customer-success-managers)
+The Associate CSM reports to the [Manager/Senior Manager, CSM](/job-families/sales/customer-success-management/#manager-of-customer-success-managers)
 
 ### Associate CSM Job Grade
 
-The Associate CSM is a job grade [level 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate CSM is a job grade [level 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Associate CSM Responsibilities
 
@@ -56,11 +56,11 @@ The Associate CSM is a job grade [level 5](https://about.gitlab.com/handbook/tot
 
 ## Customer Success Manager (CSM) (Intermediate)
 
-The CSM (Intermediate) reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-of-customer-success-managers).
+The CSM (Intermediate) reports to the [Manager/Senior Manager, CSM](/job-families/sales/customer-success-management/#manager-of-customer-success-managers).
 
 ### CSM (Intermediate) Job Grade
 
-The CSM (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The CSM (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### CSM (Intermediate) Responsibilities
 
@@ -82,11 +82,11 @@ The CSM (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-re
 
 ## Senior CSM
 
-The Senior CSM reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-of-customer-success-managers).
+The Senior CSM reports to the [Manager/Senior Manager, CSM](/job-families/sales/customer-success-management/#manager-of-customer-success-managers).
 
 ### Senior CSM Job Grade
 
-The Senior CSM is a job grade [level 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior CSM is a job grade [level 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior CSM Responsibilities
 
@@ -112,11 +112,11 @@ The Senior CSM is a job grade [level 7](https://about.gitlab.com/handbook/total-
 
 Market Justification: The business need for an individual contributor Staff CSM role is to have a team member who is a subject matter expert in customer engagement, success planning, and driving platform adoption. In addition to working with the customers in their book of business, they provide guidance and coaching to other CSMs and develop improvements to our customer engagement model. In the market, there are over 20 organizations that typically have 2-3 Staff CSMs.
 
-The Staff CSM reports to the [Manager/Senior Manager, CSM](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-tam).
+The Staff CSM reports to the [Manager/Senior Manager, CSM](/job-families/sales/customer-success-management/#manager-tam).
 
 ### Staff CSM Job Grade
 
-The Staff, CSM is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff, CSM is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Staff CSM Responsibilities
 
@@ -153,11 +153,11 @@ The Staff, CSM is a [grade 9](https://about.gitlab.com/handbook/total-rewards/co
 
 ## Manager, CSM
 
-The Manager, CSM, reports to the [Director of Customer Success Managers](https://about.gitlab.com/job-families/sales/customer-success-management/#director-of-customer-success-managers).
+The Manager, CSM, reports to the [Director of Customer Success Managers](/job-families/sales/customer-success-management/#director-of-customer-success-managers).
 
 ### Manager, CSM Job Grade
 
-The Manager, CSM is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, CSM is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Manager, CSM Responsibilities
 
@@ -172,7 +172,7 @@ The Manager, CSM is a [grade 9](https://about.gitlab.com/handbook/total-rewards/
 - Develop senior-level relationships with customers
 - Partner with other team leaders to ensure the customer is supported in times of escalation
 - Develop strong relationships with Engineering and Product to ensure cohesion and shared understanding of goals, initiatives
-- Oversee initiatives set forth in [OKRs](https://about.gitlab.com/company/okrs/)
+- Oversee initiatives set forth in [OKRs](/handbook/company/okrs/)
 - Work together with the other managers to execute strategies and vision with the Director
 - Represent Gitlab leadership and reflect our [Gitlab values](/handbook/values/) in internal and external interactions
 
@@ -195,11 +195,11 @@ The Manager, CSM is a [grade 9](https://about.gitlab.com/handbook/total-rewards/
 
 ## Senior Manager, CSM
 
-The Senior Manager, CSM reports to the [Director of Customer Success Managers](https://about.gitlab.com/job-families/sales/customer-success-management/#director-of-customer-success-managers).
+The Senior Manager, CSM reports to the [Director of Customer Success Managers](/job-families/sales/customer-success-management/#director-of-customer-success-managers).
 
 ### Senior Manager, CSM Job Grade
 
-The Senior Manager, CSM is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, CSM is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Manager, CSM Responsibilities
 
@@ -224,7 +224,7 @@ The Director of CSMs reports to the [VP of Customer Success](/job-families/sales
 
 ### Director of Customer Success Management Job Grade
 
-The Director of CSM is a job grade [level 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director of CSM is a job grade [level 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Director of CSM Responsibilities
 
@@ -269,7 +269,7 @@ The Senior Director of CSM reports to the [VP of Customer Success](/job-families
 
 ### Senior Director of CSM Job Grade
 
-The Director of CSM is a job grade [level 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director of CSM is a job grade [level 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Director of CSM Responsibilities
 
@@ -286,7 +286,7 @@ The Director of CSM is a job grade [level 11](https://about.gitlab.com/handbook/
 
 ## Vice President of Customer Success Management
 
-The Vice President of CSM is a job grade [12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Vice President of CSM is a job grade [12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Vice President of Customer Success Management Responsibilities
 
@@ -366,7 +366,7 @@ The Vice President of CSM is a job grade [12](https://about.gitlab.com/handbook/
 - In addition to the corresponding Customer Success Manager level requirements:
 - TS/SCI Security Clearance if applicable
 - Knowledge of and demonstrated progressive experience with Public Sector customers
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/#travel-guidance-covid-19). Federal, LLC team members need to also comply with the applicable vaccination policies.
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/#travel-guidance-covid-19). Federal, LLC team members need to also comply with the applicable vaccination policies.
 
 ### Customer Success Engineer (CSE)
 
@@ -394,7 +394,7 @@ The Customer Success Engineer (CSE) role provides deep subject matter expertise 
 - Exceptional verbal, presentation, and written communication skills
 - Excellent time management and ability to work with several different teams at any given time
 - Alignment with [GitLab values](/handbook/values/) and ability to work in accordance with those values
-- Ability to travel if needed and comply with the company's [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company's [travel policy](/handbook/travel/)
 
 ### Senior Customer Success Engineer
 
@@ -402,7 +402,7 @@ The Senior CSE reports to the Manager/Senior Manager, TAM.
 
 ### Senior Customer Success Engineer Job Grade
 
-The Senior CSE is a job grade [level 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior CSE is a job grade [level 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Customer Success Engineer Responsibilities
 
@@ -430,7 +430,7 @@ The Staff CSE reports to the Manager/Senior Manager, TAM.
 
 ##### Staff Customer Success Engineer Job Grade
 
-The Staff CSE is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff CSE is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Staff Customer Success Engineer Responsibilities
 
@@ -466,11 +466,11 @@ The next steps in the Customer Success Management job family is to move to a sen
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 ### Recruiter Screening
 
-Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
 ### Written Assessment
 
@@ -497,6 +497,6 @@ Conducted by the [Senior Director of CSMs](/job-families/sales/customer-success-
 
 ### Reference and Background Check
 
-Once the candidate has successfully completed all interview stages with positive recommendations at each stage, GitLab will complete [reference checks](https://about.gitlab.com/handbook/hiring/interviewing/#reference-check-process) and a [background check](https://about.gitlab.com/handbook/hiring/interviewing/#background-checks).
+Once the candidate has successfully completed all interview stages with positive recommendations at each stage, GitLab will complete [reference checks](/handbook/hiring/interviewing/#reference-check-process) and a [background check](/handbook/hiring/interviewing/#background-checks).
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).

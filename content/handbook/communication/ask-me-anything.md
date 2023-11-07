@@ -5,7 +5,7 @@ description: "Learn and ask questions at GitLab's Ask Me Anything (AMA) meetings
 
 ## Purpose
 
-Ask Me Anything (AMA) meetings are arranged to allow team members the opportunity to learn from and ask questions of our [E-Group](https://about.gitlab.com/company/team/structure/#e-group), [Board of Directors](https://about.gitlab.com/handbook/board-meetings/#board-of-directors), and others groups who would like to host an AMA on a specific topic. AMAs can be arranged for many purposes, including the following:
+Ask Me Anything (AMA) meetings are arranged to allow team members the opportunity to learn from and ask questions of our [E-Group](/handbook/company/team/structure/#e-group), [Board of Directors](/handbook/board-meetings/#board-of-directors), and others groups who would like to host an AMA on a specific topic. AMAs can be arranged for many purposes, including the following:
 
 - Allow team members to meet new leaders joining the company
 - Clarify a company-wide initiative or change that requires more discussion
@@ -19,10 +19,10 @@ AMA meetings typically include the whole company, and are usually initiated by a
 
 They can be initiated by anyone who wants to schedule an AMA, but are typically initiated by one of the following:
 
-- [GitLab E-Group Member](https://about.gitlab.com/company/team/?department=executive)
+- [GitLab E-Group Member](/handbook/company/team/?department=executive)
 - Director + Leaders
-- [Board Member](https://about.gitlab.com/handbook/board-meetings/#board-of-directors)
-- [GitLab TMRG group](https://about.gitlab.com/company/culture/inclusion/erg-guide/)
+- [Board Member](/handbook/board-meetings/#board-of-directors)
+- [GitLab TMRG group](/handbook/company/culture/inclusion/erg-guide/)
 
 AMAs do not need to have a host, but there should be a person or people available to answer questions related to the AMA topic.
 
@@ -45,7 +45,7 @@ The intention of this is to make sure we're enabling asynchronous communication 
 #### E-Group Initiated
 
 - If an E-Group team member would like a Reverse AMA, they or their EBA will contact an associated TMRG. If there isn't an associated TMRG the E-Group member or EBA will broadcast a message through their Slack channel to see if there is a population of members for the AMA.
-- The E-Group member or EBA will create an issue (template to follow) tagging the [TMRG Leads](https://about.gitlab.com/company/culture/inclusion/erg-guide/#how-to-join-current-tmrgs-and-their-slack-channels) or a nominated facilitator for a non-tmrg AMA (facilitator group to be determined), a [DIB Team Member](https://gitlab.slack.com/archives/CLLDY3L8P/p1617863963093900), and Stella Treas (Chief of Staff to the CEO)
+- The E-Group member or EBA will create an issue (template to follow) tagging the [TMRG Leads](/handbook/company/culture/inclusion/erg-guide/#how-to-join-current-tmrgs-and-their-slack-channels) or a nominated facilitator for a non-tmrg AMA (facilitator group to be determined), a [DIB Team Member](https://gitlab.slack.com/archives/CLLDY3L8P/p1617863963093900), and Stella Treas (Chief of Staff to the CEO)
 - The TMRG Leads will consult with the TMRG membership and accept or reject the request. If accepted the TMRG leads will provide an ideal timeframe for the AMA, ideally within 4 weeks from the date of the request.
 - Once accepted the EBA will provide a series of times that are suitable
 - The E-Group member or EBA will ensure that there is a a Reverse AMA facilitator for the session. (Facilitator Group link to follow)
@@ -54,7 +54,7 @@ The intention of this is to make sure we're enabling asynchronous communication 
 #### Team Member Initiated
 
 - A team member of a particular underrepresented group will create an issue (Template link to follow)
-- The team member will tag a [DIB Team Member](https://gitlab.slack.com/archives/CLLDY3L8P/p1617863963093900), the [E-Group Members EBA](https://about.gitlab.com/handbook/eba/) and Stella Treas (Chief of Staff to the CEO)
+- The team member will tag a [DIB Team Member](https://gitlab.slack.com/archives/CLLDY3L8P/p1617863963093900), the [E-Group Members EBA](/handbook/eba/) and Stella Treas (Chief of Staff to the CEO)
 - The E-Group member will review the request, the E-Group member can suggest an alternative member including a direct report to host the AMA or may reject the AMA based on the information provided in the issue.
 - If accepted the E-Group EBA will work with the E-Group member or direct report to find a time and date that is suitable.
 - The team member will work the EBA to ensure an agenda and facilitator are in place.
@@ -82,7 +82,7 @@ Template: "Name" - "Role", **Self Identified (Optional):**
 
 Every Reverse AMA will be hosted by the Executive Business Partner for the E-Group Leader even when the leader is not an E-Group Member
 
-The Executive Business Partner alignment can be found [here](https://about.gitlab.com/handbook/eba/)
+The Executive Business Partner alignment can be found [here](/handbook/eba/)
 
 **Things to remember:**
 
@@ -94,9 +94,9 @@ The Executive Business Partner alignment can be found [here](https://about.gitla
 
 #### Scheduling a Reverse AMA
 
-AMAs are generally coordinated, scheduled, and planned by the [Executive Business Administrator](https://about.gitlab.com/handbook/eba/) team when an E-Group member is the host. Anytime that an AMA is to be hosted by an executive, VP, or Director at GitLab, it should be arranged and scheduled by that functions EBA. AMAs of Board Members are scheduled by the Staff EBA to the CEO.
+AMAs are generally coordinated, scheduled, and planned by the [Executive Business Administrator](/handbook/eba/) team when an E-Group member is the host. Anytime that an AMA is to be hosted by an executive, VP, or Director at GitLab, it should be arranged and scheduled by that functions EBA. AMAs of Board Members are scheduled by the Staff EBA to the CEO.
 
-Other non-Executive AMAs are scheduled by the [People Operations](https://about.gitlab.com/handbook/people-group/#people-experience-vs-people-operations-core-responsibilities--response-timeline) team. These AMAs are typically a result of a change that impacts the company as a whole and may often be hosted by multiple leadership members in the company. Whenever there is an open slot in the Group Conversation calendar, the People Operations Team will reach out to the EBA team to create an AMA.
+Other non-Executive AMAs are scheduled by the [People Operations](/handbook/people-group/#people-experience-vs-people-operations-core-responsibilities--response-timeline) team. These AMAs are typically a result of a change that impacts the company as a whole and may often be hosted by multiple leadership members in the company. Whenever there is an open slot in the Group Conversation calendar, the People Operations Team will reach out to the EBA team to create an AMA.
 
 When scheduling an AMA, be mindful of timezones.  Generally it is best to have two AMAs, one for the Americas/EMEA time zone, and one for the APAC time zones.
 
@@ -127,7 +127,7 @@ The DIB Team and the EBAs will ensure that each Reverse AMA has the correct team
 
 ## Reverse Ask Me Anything
 
-The Reverse AMA format was launched in Sales with our [Black](https://about.gitlab.com/company/culture/inclusion/#definitions) team members. We wanted to start with this with Black team members to show support and to stand in solidarity, in response to domestic events in the US, and globally. One of our core [values](/handbook/values/) is DIB (Diversity, Inclusion and Belonging), and part of embracing that value means being better [allies](/handbook/communication/ally-resources/). These can be scheduled to facilitate meaningful conversations with any underrepresented group.
+The Reverse AMA format was launched in Sales with our [Black](/handbook/company/culture/inclusion/#definitions) team members. We wanted to start with this with Black team members to show support and to stand in solidarity, in response to domestic events in the US, and globally. One of our core [values](/handbook/values/) is DIB (Diversity, Inclusion and Belonging), and part of embracing that value means being better [allies](/handbook/communication/ally-resources/). These can be scheduled to facilitate meaningful conversations with any underrepresented group.
 
 **Benefits**
 - Improve efforts at driving inclusion and belonging at every level

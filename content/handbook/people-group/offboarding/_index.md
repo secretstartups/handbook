@@ -13,7 +13,7 @@ If you have any questions around the offboarding process, please be sure to revi
 
 ### Offboarding Support
 
-For system access questions and [laptop wipes](https://about.gitlab.com/handbook/business-technology/end-user-services/gitlab-laptop-offboarding/) related to offboarding, send an email to `itops@gitlab.com`.
+For system access questions and [laptop wipes](/handbook/business-technology/end-user-services/gitlab-laptop-offboarding/) related to offboarding, send an email to `itops@gitlab.com`.
 
 For payroll questions or outstanding expense claims, please reach out to either `uspayroll@gitlab.com` or `nonuspayroll@gitlab.com`.
 
@@ -141,7 +141,7 @@ After the involuntary offboarding call has taken place and the last working day 
 
 If they are on "Garden Leave" they will still be active on payroll through the termination date. When determining the timing of the involuntary offboarding call and termination date it is important to consider any effect this might have on ongoing tasks and responsibilities of the team member.
 
-As a manager, in collaboration with the Team Member Relations Specialist (TMR) and/or the People Business Partner (PBP), we recommend to avoid scheduling the involuntary offboarding call while a team member is scheduled for any sensitive customer meetings or is [on-call](https://about.gitlab.com/handbook/on-call/). If this is unavoidable, the manager is responsible for ensuring a transition/remediation plan.
+As a manager, in collaboration with the Team Member Relations Specialist (TMR) and/or the People Business Partner (PBP), we recommend to avoid scheduling the involuntary offboarding call while a team member is scheduled for any sensitive customer meetings or is [on-call](/handbook/on-call/). If this is unavoidable, the manager is responsible for ensuring a transition/remediation plan.
 
 People Connect will generate the offboarding issue at the end of the team member's last working day, as per notification from the Team Member Relations Specialist (TMR) and the People Business Partner (PBP). Once the `Last Working Day` or Garden leave expires the team member will be officially offboarded from GitLab.  Prior to the offboarding issue and the overall process for the term listed below.
 
@@ -204,7 +204,7 @@ The People Connect member in the relevant rotation will complete a weekly audit 
 
 Once all tasks have been completed, the People Connect Member will close the offboarding issue and mark as completed in the offboarding tracker.
 
-All offboarding tasks by all Departments need to be completed within 5 days of the offboarding date. For systems that are more critical and time sensitive, these will be completed within the first 24 hours (example 1Password, Slack) by the relevant Departments. Information about application & system deprovisioners can be found on the [Tech Stack Applications handbook page](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/).
+All offboarding tasks by all Departments need to be completed within 5 days of the offboarding date. For systems that are more critical and time sensitive, these will be completed within the first 24 hours (example 1Password, Slack) by the relevant Departments. Information about application & system deprovisioners can be found on the [Tech Stack Applications handbook page](/handbook/business-technology/tech-stack-applications/).
 
 To ensure a successful completion of the offboarding issue, it is important that all tasks are checked off, whether the system/tool is applicable to the offboarding team member or not. Checking the box indicates one of the following:
 
@@ -318,7 +318,7 @@ Again, we want all team members to enjoy and thrive in their work and that may o
 The departing team member may work with their manager to author a goodbye message for voluntary offboarding:
 
 1. Work with your manager on the message that your manager will share in `#team-member-updates` on Slack.
-1. Send it to your manager for approval. If, as a manager, you are in doubt about the message - please reach out to your manager or [aligned People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) for additional review.
+1. Send it to your manager for approval. If, as a manager, you are in doubt about the message - please reach out to your manager or [aligned People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) for additional review.
 1. Managers are encouraged to use the suggested template (above link) and have the space to add more color wherever they see fit.
 
 In some instances there will be no further clarification on why a team member has departed, if there are concerns you can address those with your manager.
@@ -340,7 +340,7 @@ To track all tool deprovisioning, please open an offboarding issue following the
 
 As part of offboarding, any GitLab property valued above 1,000 USD needs to be returned to GitLab.
 
-For laptops, please refer to the [Laptop Buy Back Policy](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#laptop-buy-back-policy) which states that team-members have the option to buy back their existing laptops either when it gets refreshed for a new one, or when the team member is offboarding. If the team member has completed 1 calendar year or more at GitLab at the time of laptop refresh or offboarding, they can opt to keep their laptop at no cost. If the team member hasn't completed 1 calendar year at GitLab at that time, they have the option to purchase their laptop for current market value.
+For laptops, please refer to the [Laptop Buy Back Policy](/handbook/business-technology/end-user-services/onboarding-access-requests/#laptop-buy-back-policy) which states that team-members have the option to buy back their existing laptops either when it gets refreshed for a new one, or when the team member is offboarding. If the team member has completed 1 calendar year or more at GitLab at the time of laptop refresh or offboarding, they can opt to keep their laptop at no cost. If the team member hasn't completed 1 calendar year at GitLab at that time, they have the option to purchase their laptop for current market value.
 
 To return your laptop to GitLab, please contact `itops@gitlab.com` immediately upon offboarding.
 

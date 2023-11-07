@@ -22,6 +22,8 @@ Recordings listed in reverse chronological order.
 
 | Date | Recording | AMA Agenda |
 | ------ | ------ | ------ |
+| 2023-10-04 | [FY24-Q3 GitLab Assembly](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/video/fy24-q3-gitlab-assembly) | [AMA](https://docs.google.com/document/d/1gU-kOiEqSPt7mXdWWhYrjtAXr-RQNLYn7mH9BT0wSVU/edit#heading=h.73bvjze4oj3a) |
+| 2023-09-07 | FY24-Q2 Post-earnings internal recap | [AMA](https://docs.google.com/document/d/1Fb5yMM_AblPy2kzxxpMY0JBekfZGnaC-APcFDTulgR8/edit#heading=h.73bvjze4oj3a) |
 | 2023-08-16 | [FY24-Q3 Quarterly Kickoff](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/video/fy24-q3-quarterly-kickoff-ama) | [AMA](https://docs.google.com/document/d/1IEPh3msR76Rs3-nURiI8sIsexEgMgk7OmHko2P4TJaE/edit) |
 | 2023-06-21 | [FY24-Q1 Results GitLab Assembly](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/video/fy24-q2-gitlab-assembly) | [AMA](https://docs.google.com/document/d/1l_Wm2hRozlBHQgFhOM-YvPL7gen5M6lpd7LDceK-EFc/edit#heading=h.v7v4cfj1oa5d) |
 | 2023-06-08 | FY24-Q1 Post-Earnings Internal Recap | [AMA](https://docs.google.com/document/d/1Je7Gya4VuwZ56VhNJUqyioJ7-eKmJA2LtoJCUVKoMsM/edit#heading=h.73bvjze4oj3a) |
@@ -41,13 +43,12 @@ This is a forum to review our long-term goals, recognize progress made in the pr
 The Quarterly Kickoff is followed by an AMA hosted by the CEO.
 
 The CEO's Quarterly Kickoff Slides usually cover:
-- Recap of GitLab’s [Mission](/company/mission/)/[Vision](/company/vision/)/[Strategy](/company/strategy/) noting any updates made
-- Reviewing which [Top Cross-Functional Initiatives](/company/top-cross-functional-initiatives/) were retired and added and why
+- Recap of GitLab’s [Mission](/handbook/company/mission/)/[Vision](/handbook/company/vision/)/[Strategy](/handbook/company/strategy/) noting any updates made
 - Review the previous quarters OKRs, scores, and important details
-- Progress for [Yearlies](/company/yearlies/)
+- Progress for [Yearlies](/handbook/company/yearlies/)
 - Sharing of this new quarters OKRs
 - Marathon Slide (as needed)
-- Reiterate how all elements of [cadence fit together](/company/yearlies/#cadence) including any new or changed elements of hierarchy such as new OKRs.
+- Reiterate how all elements of [cadence fit together](/handbook/company/yearlies/#cadence) including any new or changed elements of hierarchy such as new OKRs.
 
 The Quarterly Kickoff is a [CoST](/handbook/ceo/chief-of-staff-team/) initiative.
 

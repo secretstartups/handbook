@@ -12,7 +12,7 @@ When working on a GitLab Dedicated ticket, prioritize asking for information tha
 
 ## Identifying tenants
 
-Each customer has a dedicated set of credentials needed for examining logs in Opensearch. The credentials and the URL for that customer's Opensearch instance are stored in the `GitLab Dedicated - Support` [1Password vault](https://about.gitlab.com/handbook/security/#vaults). Each customer is noted by a customer number in the vault, so you must refer to the `<tenant name>` to identify the proper credentials to use for a customer. This is used as part of the accessible URL, such as: `opensearch.<tenant name>.gitlab-dedicated.com`.
+Each customer has a dedicated set of credentials needed for examining logs in Opensearch. The credentials and the URL for that customer's Opensearch instance are stored in the `GitLab Dedicated - Support` [1Password vault](/handbook/security/#vaults). Each customer is noted by a customer number in the vault, so you must refer to the `<tenant name>` to identify the proper credentials to use for a customer. This is used as part of the accessible URL, such as: `opensearch.<tenant name>.gitlab-dedicated.com`.
 
 ## Accessing logs
 
@@ -45,7 +45,10 @@ If **yes**: the log entry **can** be shared directly with the customer via the t
 
 If **yes**: the log entry **can** be shared directly with the customer via the ticket.
 
-If one of the criteria above are not met, the log entry can not be shared directly with the customer.
+If one of the criteria above are not met, the log entry should not be shared
+directly with the customer by default. If you think sharing the log entry would
+benefit the customer, please read
+[Sharing internal logs, data & graphs]({{< ref "dedicated#sharing-internal-logs-data--graphs" >}}).
 
 GitLab Dedicated customers can request [access to application logs](https://docs.gitlab.com/ee/administration/dedicated/#access-to-application-logs).
 

@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Delivery of license files
 description: "License generation and delivery"
 category: GitLab Self-Managed licenses

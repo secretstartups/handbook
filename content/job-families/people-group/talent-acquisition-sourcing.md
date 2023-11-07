@@ -11,7 +11,7 @@ The Associate Sourcer reports to a Talent Acquisition Manager.
 
 #### Associate Sourcer Job Grade
 
-The Associate Sourcer is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Sourcer is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Associate Sourcer Responsibilities
 
@@ -45,7 +45,7 @@ The Intermediate Sourcer reports a Talent Acquisition Manager.
 
 #### Sourcer (Intermediate) Job Grade
 
-The Sourcer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Sourcer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Sourcer (Intermediate) Responsibilities
 
@@ -66,7 +66,7 @@ The Senior Sourcer reports to a Talent Acquisition Manager.
 
 #### Senior Sourcer Job Grade
 
-The Senior Sourcer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Sourcer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Sourcer Responsibilities
 
@@ -89,7 +89,7 @@ The Senior Sourcer reports to a Talent Acquisition Manager.
 
 #### Sourcing Lead Job Grade
 
-The Sourcing Lead is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Sourcing Lead is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Sourcing Lead Responsibilities
 
@@ -122,13 +122,13 @@ The Manager, Sourcing reports to the a Talent Acquisition Leader.
 
 #### Manager, Sourcing Job Grade
 
-The Manager, Sourcing is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Sourcing is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Sourcing Responsibilities
 
 - Lead and coach a remote-based sourcing team that is focused on achieving Recruiting OKRs and scaling to the dynamic demands of a rapidly growing company.
 - Onboard, mentor, and grow the careers of all team members.
-- Conduct [skip-level](https://about.gitlab.com/handbook/leadership/skip-levels/) and 1:1 meetings.
+- Conduct [skip-level](/handbook/leadership/skip-levels/) and 1:1 meetings.
 - Own a small req load as business needs dictate with a primary focus on senior level roles.
 - Partner with stakeholders to develop strategies, priorities, and process improvements according to fluctuating business demand.
 - Partner with recruiting and other internal functional group leaders to ensure the overall team understands business needs and meets hiring metrics.
@@ -157,7 +157,7 @@ The Manager, Inbound Sourcing and Sourcing Operations reports to the Sr, Manager
 
 #### Manager, Inbound Sourcing and Sourcing Operations Job Grade
 
-The Manager, Sourcing is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Sourcing is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Inbound Sourcing and Sourcing Operations Responsibilities
 
@@ -220,13 +220,13 @@ The next step in the Sourcing job family is to move to the [Recruiting Leadershi
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#conducting-a-screening-call) with our Sourcing Manager.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#conducting-a-screening-call) with our Sourcing Manager.
 - Next, candidates will be invited to schedule two 45 minute peer interviews with our Sourcers.
 - Next, candidates will be invited to schedule a 30 minute interview with one of our Recruiting Managers.
 - Next, candidates may be invited to a 30 minute interview with our Sourcing Manager.
 - Next, candidates may be invited to a 30 minute interview with our VP of Recruiting.
 - Finally, our CEO may choose to conduct a final interview.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

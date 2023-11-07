@@ -24,7 +24,7 @@ The IT team collaborates closely with the Engineering Infrastructure Reliability
 
 #### Job Grade
 
-The IT Site Reliability Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The IT Site Reliability Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Requirements
 
@@ -51,7 +51,7 @@ The IT Site Reliability Engineers share the same responsibilities outlined above
 
 #### Senior Job Grade
 
-The IT Site Reliability Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The IT Site Reliability Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Requirements
 
@@ -75,10 +75,10 @@ The Senior IT Site Reliability Engineer has all the same responsibilities as the
 
 ## Performance Indicators
 
-- [Mean Time between Failures (MTBF)](https://about.gitlab.com/handbook/business-technology/metrics/#mean-time-between-failures-mtbf)
-- [Mean Time to Repair (MTTR)](https://about.gitlab.com/handbook/business-technology/metrics/#mean-time-to-repair-mttr)
-- [Number of days since last environment audit](https://about.gitlab.com/handbook/business-technology/metrics/#number-of-days-since-last-environment-audit)
-- [Cycle Time for IT Support Issue Resolution](https://about.gitlab.com/handbook/business-technology/metrics/#cycle-time-for-it-support-issue-resolution)
+- [Mean Time between Failures (MTBF)](/handbook/business-technology/metrics/#mean-time-between-failures-mtbf)
+- [Mean Time to Repair (MTTR)](/handbook/business-technology/metrics/#mean-time-to-repair-mttr)
+- [Number of days since last environment audit](/handbook/business-technology/metrics/#number-of-days-since-last-environment-audit)
+- [Cycle Time for IT Support Issue Resolution](/handbook/business-technology/metrics/#cycle-time-for-it-support-issue-resolution)
 
 ## Career Ladder
 
@@ -86,13 +86,13 @@ The next step in the IT Site Reliability Engineer job family is to move to the [
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Candidates will be invited to complete a 'take home assessment'.  This is to be completed in your own time and returned within 3-5 working days
 - Next, candidates will be invited to schedule an interview with the Hiring Manager
 - Candidates will then be invited to schedule a Team interview with two members of the IT Systems Engineering team in a panel interview
 - Candidates will also be invited to schedule a Technical interview with two other team members
 - Finally, candidates will interview with our Director of IT Operations
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

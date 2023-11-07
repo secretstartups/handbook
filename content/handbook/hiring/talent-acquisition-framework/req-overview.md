@@ -18,7 +18,7 @@ The communicated Talent Acquisition Process Framework specifically focuses on ap
 
 ### **Step 1: Identify hiring need**
 
-The Hiring Manager will determine the need for an opening and ensure it is an approved headcount (confirm with your [finance business partner](https://about.gitlab.com/handbook/finance/#finance-business-partner-alignment) if you are not sure). Once confirmed, the Hiring Manager will notify the [Talent Acquisition Manager/Lead specific to their org]({{< ref "recruiting-alignment" >}}) utilizing the steps provided on the [req creation process]({{< ref "req-creation#requisition-creation-process" >}}).
+The Hiring Manager will determine the need for an opening and ensure it is an approved headcount (confirm with your [finance business partner](/handbook/finance/#finance-business-partner-alignment) if you are not sure). Once confirmed, the Hiring Manager will notify the [Talent Acquisition Manager/Lead specific to their org]({{< ref "recruiting-alignment" >}}) utilizing the steps provided on the [req creation process]({{< ref "req-creation#requisition-creation-process" >}}).
 
 ### **Step 2: Create opening in Greenhouse**
 

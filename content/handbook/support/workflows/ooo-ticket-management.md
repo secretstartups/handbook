@@ -22,7 +22,7 @@ Go to the [My Assigned Tickets](https://gitlab.zendesk.com/agent/filters/3600623
    1. what progress has been made
    1. what are the potential next steps, or that you are uncertain what the next steps are
 
-Feel free to also ask group members if they can pickup tickets in [other forms of communication](https://about.gitlab.com/handbook/communication/#multimodal-communication), such as Slack, but Zendesk should remain as the single source of truth for tickets that need attention from other group members.
+Feel free to also ask group members if they can pickup tickets in [other forms of communication](/handbook/communication/#multimodal-communication), such as Slack, but Zendesk should remain as the single source of truth for tickets that need attention from other group members.
 
 ## Finding your tickets upon your return
 

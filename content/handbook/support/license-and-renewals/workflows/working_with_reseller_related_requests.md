@@ -5,13 +5,13 @@ category: General
 description: This is a guide on how to handle requests involving Reseller.
 ---
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
 
 ## Overview
 
 Reseller is another word for [Channel Partner](https://about.gitlab.com/handbook/resellers/).
-Note that an [Alliance Partner](https://about.gitlab.com/handbook/support/partnerships/alliance.html)
+Note that an [Alliance Partner](/handbook/support/partnerships/alliance.html)
 is different from a Channel Partner, and is **not** a reseller. See the
 [GitLab Alliances Handbook Page](https://about.gitlab.com/handbook/alliances/) and the
 [Internal Alliances Handbook Page](https://internal.gitlab.com/handbook/alliances/)
@@ -65,7 +65,7 @@ If a customer with a reseller purchase decides to make a new purchase on a diffe
 
 ### More Reseller Workflows
 
-- [Associating purchases - ownership verification](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#ownership-verification)
-- [Pass to Sales - reseller exemption request](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/cloud-licensing.html#2-are-reseller-purchases-considered-the-same-as-sales-assisted-if-a-customer-purchased-after-2022-07-07-and-needs-a-legacy-license-should-we-send-them-to-their-account-manager-to-go-through-the-exemption-process-or-do-we-treat-them-the-same-as-web-direct-and-give-them-a-legacy-license-file-no-questions-asked)
-- [Pass to Sales - reseller subscription change or question](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html#a-reseller-or-reseller-customer-wants-to-change-their-subscription-or-ask-a-question)
+- [Associating purchases - ownership verification](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#ownership-verification)
+- [Pass to Sales - reseller exemption request](/handbook/support/license-and-renewals/workflows/self-managed/cloud-licensing.html#2-are-reseller-purchases-considered-the-same-as-sales-assisted-if-a-customer-purchased-after-2022-07-07-and-needs-a-legacy-license-should-we-send-them-to-their-account-manager-to-go-through-the-exemption-process-or-do-we-treat-them-the-same-as-web-direct-and-give-them-a-legacy-license-file-no-questions-asked)
+- [Pass to Sales - reseller subscription change or question](/handbook/support/license-and-renewals/workflows/working_with_sales.html#a-reseller-or-reseller-customer-wants-to-change-their-subscription-or-ask-a-question)
 - [Not-for-Resale (NFR) program and policy](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#not-for-resale-nfr-program-and-policy)

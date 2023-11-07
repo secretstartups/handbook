@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Greenhouse"
 description: "Greenhouse is GitLab's ATS (Applicant Tracking System). All Hiring Managers and Interviewers will use Greenhouse to review resumes, provide feedback, communicate with candidates, and more."
 ---
@@ -8,7 +8,7 @@ description: "Greenhouse is GitLab's ATS (Applicant Tracking System). All Hiring
 
 [Greenhouse](https://www.greenhouse.io) is GitLab's ATS (Applicant Tracking System). All Hiring Managers and Interviewers will use Greenhouse to review resumes, provide feedback, communicate with candidates, and more.
 
-You will receive an email to log-in to Greenhouse for the first time. When you [log-in to Greenhouse](https://app2.greenhouse.io/users/sign_in), enter your GitLab email, click `Next`, and fill in your [Okta](https://about.gitlab.com/handbook/business-technology/okta/) information as prompted. All GitLab team-members are granted *Basic* access, which will allow you to track *Referral* submissions, interview candidates (if assigned to a requisition), and share requisition postings on social media. Until your access is changed by an Admin, you will only have access to the Greenhouse [dashboard](https://app2.greenhouse.io/dashboard).
+You will receive an email to log-in to Greenhouse for the first time. When you [log-in to Greenhouse](https://app2.greenhouse.io/users/sign_in), enter your GitLab email, click `Next`, and fill in your [Okta](/handbook/business-technology/okta/) information as prompted. All GitLab team-members are granted *Basic* access, which will allow you to track *Referral* submissions, interview candidates (if assigned to a requisition), and share requisition postings on social media. Until your access is changed by an Admin, you will only have access to the Greenhouse [dashboard](https://app2.greenhouse.io/dashboard).
 
 During onboarding, all new team members are assigned permissions based on their role in the hiring process. If a current team member needs to change their access level, they'll need to submit a [new access request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New_Access_Request) in the GitLab `access-requests` project. Their Manager and the Talent Acquisition Team will be pinged to approve and action that request.
 
@@ -306,7 +306,7 @@ Rejected candidates will stay in our talent community and we may revisit them fo
 
 Generally, we will leave a minimum gap of 6-months before reconsidering someone. We will only reconsider candidates who were rejected because they lacked skills or experience.
 
-We will not reconsider candidates who were mismatched with our [values competencies](https://about.gitlab.com/handbook/competencies/#values-competencies) and/or our [remote work competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies).
+We will not reconsider candidates who were mismatched with our [values competencies](/handbook/competencies/#values-competencies) and/or our [remote work competencies](/handbook/competencies/#remote-work-competencies).
 
 #### Single-vetos
 
@@ -420,7 +420,7 @@ The Greenhouse CRM is the entry point for prospective candidates (a.k.a. *Prospe
 
 ### Greenhouse Inclusion
 
-We use Greenhouse Inclusion to mitigate unconscious bias, ensure consistent candidate evaluations, and to measure the impact of these practices in our [Diversity, Inclusion & Belonging](https://about.gitlab.com/company/culture/inclusion/) efforts.
+We use Greenhouse Inclusion to mitigate unconscious bias, ensure consistent candidate evaluations, and to measure the impact of these practices in our [Diversity, Inclusion & Belonging](/handbook/company/culture/inclusion/) efforts.
 
 Enabled features include:
 - Nudges, or reminders, to all users when creating a requisition description, adding a referral, and/or filling out a scorecard.
