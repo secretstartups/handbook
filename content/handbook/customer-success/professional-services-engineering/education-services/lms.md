@@ -1,28 +1,13 @@
 ---
-
 title: "Thought Industries LMS Tech Stack Guide"
 description: “Tech Stack Guide for Thought Industries Learning Management System"
 ---
-
-
-
-
-
-
 
 ## Thought Industries LMS Tech Stack Guide
 
 The Tech Stack single source of truth is the [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and contains more detail about this app.
 
-<% data.tech_stack.each do |stack| %>
-<% if stack.title == "Thought Industries LMS" %>
-- **Description:** <%= stack.description %>
-- **Provisioner:** <%= stack.provisioner %>
-- **Deprovisioner:** <%= stack.deprovisioner %>
-- **Okta Enabled:** <%= stack.need_move_to_okta %>
-- **Critical Systems Tier:** <%= stack.critical_systems_tier %>
-<% end %>
-<% end %>
+{{% tech-stack "Thought Industries LMS" %}}
 
 ### Implementation
 

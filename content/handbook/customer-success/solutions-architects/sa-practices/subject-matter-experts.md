@@ -8,7 +8,7 @@ title: Solutions Architects - Subject Matter Experts
 
 
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 # Subject Matter Expert Program
 

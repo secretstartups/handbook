@@ -4,7 +4,7 @@ title: "Solution Architect (SA) Communities of Practice"
 description: "This is a collection of best practices collected from working with customers on each stage of the Software Development Lifecycle"
 ---
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 # Communities of Practice
 

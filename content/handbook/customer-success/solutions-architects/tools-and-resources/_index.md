@@ -9,7 +9,7 @@ description: “Discover GitLab Solutions Architects’ tools and resources”
 
 
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 ## Tools and Resources
 

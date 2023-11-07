@@ -10,7 +10,7 @@ description: "Ride alongs allow for Solutions Architects to learn from one anoth
 
 
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 
 # Ride Alongs

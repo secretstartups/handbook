@@ -10,7 +10,7 @@ description: “Discover GitLab Solutions Architects’ Sales Plays practices”
 
 
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 ## Sales Plays for new account & teams(existing customer) lands
 

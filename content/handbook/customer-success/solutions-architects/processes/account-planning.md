@@ -8,7 +8,7 @@ title: Account Planning for Solutions Architects
 
 
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 ## Account Planning in Gainsight Overview 
 

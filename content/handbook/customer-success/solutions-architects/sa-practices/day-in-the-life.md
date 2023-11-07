@@ -8,7 +8,7 @@ title: Day In The Life of a Developer
 
 
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 # Day In The Life of a Developer
 

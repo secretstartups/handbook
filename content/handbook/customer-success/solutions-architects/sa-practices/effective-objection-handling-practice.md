@@ -3,7 +3,7 @@
 title: Effective Objection Handling Practice
 ---
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 
 # Effective Objection Handling Practice

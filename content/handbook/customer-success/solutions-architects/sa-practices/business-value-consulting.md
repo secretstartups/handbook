@@ -8,7 +8,7 @@ title: Business Value Consulting
 
 
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 
 # Business Value Consulting

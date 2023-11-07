@@ -8,7 +8,7 @@ title: Solutions Architects Processes
 
 
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 # Solutions Architects Processes
 

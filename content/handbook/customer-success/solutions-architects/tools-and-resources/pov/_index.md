@@ -9,7 +9,7 @@ description: Proof of Value (POV)
 
 
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 ## Proof of Value (POV)
 

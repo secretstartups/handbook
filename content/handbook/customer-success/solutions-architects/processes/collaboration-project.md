@@ -4,7 +4,7 @@ title: Solutions Architecture Collaboration Project
 description: >-
   Collaboration project with the customer and product as a forum to discuss
 ---
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 
 # SA Collaboration Project

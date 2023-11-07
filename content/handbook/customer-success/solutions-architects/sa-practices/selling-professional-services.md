@@ -8,7 +8,7 @@ title: Selling Professional Services
 
 
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 
 # Selling Professional Services

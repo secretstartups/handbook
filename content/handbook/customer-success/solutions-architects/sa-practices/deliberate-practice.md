@@ -3,7 +3,7 @@
 title: "Deliberate Practice"
 ---
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 
 # Deliberate Practice

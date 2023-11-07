@@ -10,7 +10,7 @@ description: "Solutions Architects are occasionally called on at a moments notic
 
 
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 # Demonstrations
 
