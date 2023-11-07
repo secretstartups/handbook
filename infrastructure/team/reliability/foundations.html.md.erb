@@ -70,7 +70,18 @@ Apply one of the following templates:
 - For issues pertaining to Cloudflare, use the [`Cloudflare Troubleshooting` template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=Cloudflare%20Troubleshooting)
 - For anything else, use the [`request-foundations` template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=request-foundations)
 
-We endeavor to triage incoming requests twice per week. If you have an issue that is very urgent and requires immediate attention, please also send us a link to the request issue in our Slack channel: [#g_infra_foundations](https://gitlab.slack.com/archives/C0313V3L5T6).
+### Priority Levels for Requests
+
+| Priority | Description | Engagement SLA |
+| ------- | ----------- | --------- |
+| Priority::1 | Very urgent, blocking significant other work | Engage within 24 hours |
+| Priority::2 | A blocker, but we have workarounds | Engage within 3 business days |
+| Priority::3 | Not currently a blocker but will be soon | Engage within a week |
+| Priority::4 | Not likely to be a blocker, this is a nice-to-have improvement or suggestion | Engage within a month |
+
+** Note: ** Due to the complexity of our systems, we cannot commit to a resolution-based SLA when you open an issue with a given priority level, because we don't know how long something will take to resolve, and there is often more information we need from the stakeholder or external customer, which takes time to obtain. Therefore, we can only commit to an SLA for how quickly we will engage with an issue and prioritize the work.
+
+We endeavor to triage incoming requests twice per week. If you have an issue that is very urgent and requires immediate attention (i.e. Priority 1), please also send us a link to the request issue in our Slack channel: [#g_infra_foundations](https://gitlab.slack.com/archives/C0313V3L5T6).
 
 ## Considerations for tooling and maintaining our services.
 
