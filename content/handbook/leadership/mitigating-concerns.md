@@ -221,7 +221,7 @@ To ensure we safeguard our customers data, we:
 1. Hit our Application Security [remediation SLAs]({{< ref "/handbook/security/threat-management/vulnerability-management#remediation-slas" >}})
 1. Ensure our developers complete [secure code training]({{< ref "secure-coding-training" >}})
 1. Regularly perform [internal application security reviews]({{< ref "/handbook/security#internal-application-security-reviews" >}})
-1. [Utilize bug bounty programs]({{< ref "/handbook/security#vulnerability-reports-and-hackerone" >}}) like HackerOne
+1. [Utilize bug bounty programs]({{< ref "engaging-with-security#vulnerability-reports-and-hackerone" >}}) like HackerOne
 1. Have an [internal Red Team]({{< ref "/handbook/security/threat-management/red-team" >}})
 1. Prioritize meeting the [security](https://about.gitlab.com/security/) requirements of team members, users, customers, and other community members
 

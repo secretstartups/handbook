@@ -19,7 +19,7 @@ Note: Additional information on Recovery Time Objective (RTO) and Recovery Point
 
 The following items are out of scope for SIRT and should be escalated to the respective teams mentioned below:
 
-- **Vulnerability reports and HackerOne**: please escalate to [Application Security]({{< ref "/handbook/security#vulnerability-reports-and-hackerone" >}})
+- **Vulnerability reports and HackerOne**: please escalate to [Application Security]({{< ref "engaging-with-security#vulnerability-reports-and-hackerone" >}})
 - **Abuse reports and DMCA notices**: please escalate to [Trust & Safety]({{< ref "trustandsafety" >}})
 - **General Customer Inquiries**: please escalate to [Field Security]({{< ref "../../security-assurance/field-security" >}})
 - **Self-Managed Instances**: please escalate to [TBD]

@@ -86,8 +86,8 @@ the responsible engineering team:
         - Note: by default a placeholder [CVE issue](https://gitlab.com/gitlab-org/cves/-/issues) is created and a brief note is added to the latest [bug bounty council issue](https://gitlab.com/gitlab-com/gl-security/security-department-meta/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Bug%20Bounty%20Council). Pass `~no-cve` or `~no-bounty` respectively to the `/h1 import` command to prevent their creation.
     - On the imported GitLab issue:
         - Verify the Severity/Priority assigned by `h1import` ([Severity and Priority]({{< ref "/handbook/security#severity-and-priority-labels-on-security-issues" >}}) and [Remediation SLAS]({{< ref "/handbook/security/threat-management/vulnerability-management#remediation-slas" >}}))
-        - Assign the appropriate [Due Date]({{< ref "/handbook/security#due-date-on-security-issues" >}})
-        - Have a proper [`How to reproduce`]({{< ref "/handbook/security#reproducibility-on-security-issues" >}}) section, by for instance copying the final reproduction steps written by our HackerOne triager into the issue.
+        - Assign the appropriate [Due Date]({{< ref "engaging-with-security#due-date-on-security-issues" >}})
+        - Have a proper [`How to reproduce`]({{< ref "engaging-with-security#reproducibility-on-security-issues" >}}) section, by for instance copying the final reproduction steps written by our HackerOne triager into the issue.
         - If the report is a security-related documentation change, add the `~documentation` label
         - @-mention the product manager and engineering manager based on the [product categories page](/handbook/product/categories/). Ask for engineering feedback if it is required to complete the triage
         - add labels (`/label ~` command) corresponding to the [DevOps stage](/handbook/product/categories/#devops-stages) and source group (consult the [Hierarchy](/handbook/product/categories/#hierarchy) for an overview on categories forming the hierarchy)
