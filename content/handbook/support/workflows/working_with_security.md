@@ -33,10 +33,10 @@ Vulnerability disclosures are no longer triaged via ZenDesk. When in doubt, plea
 - If the report appears to be a valid security issue, or if in doubt:
   - If the severity may be an ~severity::1 or otherwise needs immediate investigation:
     - [Engage the Security Engineer on-call](/handbook/security/security-operations/sirt/engaging-security-on-call.html)
-    - Manually create an issue for report following the [creating a security issue instructions](/handbook/security/#creating-new-security-issues)
+    - Manually create an issue for report following the [creating a security issue instructions]({{ ref "engaging-with-security#creating-new-security-issues" }})
   - Otherwise, reply to the reporter to see if they wish to either:
     - Report via HackerOne
-    - Create a confidential issue themselves following the [creating a security issue instructions](/handbook/security/#creating-new-security-issues)
+    - Create a confidential issue themselves following the [creating a security issue instructions]({{ ref "engaging-with-security#creating-new-security-issues" }})
     - Have a team member create the issue and reply with their preference for acknowledgement.
     - To ensure timely handling of the report, let the reporter know that if no response
       within 3 business days, a GitLab team member will create the issue.
@@ -89,4 +89,4 @@ In the case that the customer has already filed an issue for the vulnerability:
 
 ### If the customer has not yet created an issue
 
-See [Creating New Security Issues](/handbook/security/#creating-new-security-issues)
+See [Creating New Security Issues]({{ ref "engaging-with-security#creating-new-security-issues" }})
