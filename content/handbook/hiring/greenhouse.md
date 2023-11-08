@@ -153,7 +153,7 @@ Some roles may be sent questions after we've sourced them. If this is applicable
 
 Greenhouse includes the ability to [include specific questions within the interview kits](https://support.greenhouse.io/hc/en-us/articles/115002276366-Add-an-interview-question-to-an-interview-kit) made available to interviewers. Setting interview questions in advance makes the interviewing process more consistent. Having a consistent interviewing process [improves the efficiency and fairness of the hiring process](https://www.linkedin.com/pulse/why-consistency-matters-hiring-george-oehlert/).
 
-To add interview questions to a position from the `Job Dashboard` click the `Interview Plan` link on the right side bar. In the `Team Interview` section select the interviewer you would like to assign the question to and click the edit link for them. In the `Interview Questions` section press the add button to bring up a modal form for adding your specific question. A video walk through of using this feature can be found on the GitLab unfiltered YouTube channel [here](https://youtu.be/CpShUn7kjI8).
+To add interview questions to a position from the `Job Dashboard` click the `Interview Plan` link on the right sidebar. In the `Team Interview` section select the interviewer you would like to assign the question to and click the edit link for them. In the `Interview Questions` section press the add button to bring up a modal form for adding your specific question. A video walkthrough of using this feature can be found on the GitLab unfiltered YouTube channel [here](https://youtu.be/CpShUn7kjI8).
 
 ## For Talent Acquisition
 
