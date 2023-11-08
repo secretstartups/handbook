@@ -53,6 +53,7 @@ Though it has some [criticisms](https://qz.com/1144504/the-world-is-relying-on-a
 1. Understand we all have biases
 1. Determine what your biases are
 1. When you see it block it
+1. Maintain your awareness
 1. Be ok with having an opinion different from the group
 1. Be wary of first impressions
 1. Do research on stereotypes
@@ -73,6 +74,7 @@ The [SPACE2 Model of Inclusion](https://cultureplusconsulting.com/2018/10/17/six
 ## Practical ways to reduce or avoid the impact of bias
 
 - As an application reviewer or interviewer, if you find yourself biased positively or negatively, excuse yourself and ask someone else to review or interview that applicant. Being positively or negatively biased towards one candidate is unfair to all candidates.
+- Data driven decision making. Rely on pre-defined measurable data points to reduce unconscious bias influences 
 
 ## Recognizing Bias Training
 
