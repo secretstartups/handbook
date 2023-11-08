@@ -209,6 +209,26 @@ The GCs are stored in the "CEO Evangelism" folder on Google Drive.
 
 Be sure that slides are prepared with enough notice for the CEO to record a video and for it to be shared at least 24 hours in advance of the Group Conversation.
 
+## Collaborating on Cross-Functional Initiatives
+
+While there are rare exceptions, members of the Chief of Staff team are not forever owners of initiatives. They plug in to help achieve critical milestones or fill gaps. When a member of the CoST joins an initiative, there should be agreement from key stakeholders around:
+
+1. The level of support required
+1. The CoST member's scope and responsibilities
+1. The exit criteria for the CoST
+1. If required, the long-term plan for ongoing initiative or project support
+
+Chief of Staff Team members can be reassigned based on the needs of the business and priorities of the CEO. In most cases, a member of the Chief of Staff team will remain with a project until the exit criteria for the CoST is achieved. If a project extends beyond its anticipated timeframe or priorities change, a member may have to leave a project before the agreed upon exit criteria is achieved. If this happens, key stakeholders will be given sufficient notice to determine how best to staff the initiative going forward.
+
+When a member of the Chief of Staff Team exits an ongoing intitiative they will:
+
+1. Provide as much notice as possible that the CoST will no longer support the initiative
+1. Document their key responsibilities 
+1. Support a project DRI in identifying new owners
+1. When possible, stay engaged in the initiative in a limited capacity during an agreed upon transition period
+
+There may be instances in which a member of the CoST has been driving a project. Without this person, the project scope may be reduced or the project may be deprioritized. In there instances, the CoST member will be responsible for engaging key stakeholders around the keep/expand scope or go/no-go decision. It will be clearly documented and key folks will be involved in the decision and aware of the outcome. 
+
 ## Quarterly Kickoff
 
 The CEO does a Quarterly Kickoff in the first month of each quarter. The Chief of Staff Team plays a role in creating materials, recording content, and preparing the CEO. Details can be found on the [Assembly page](/handbook/company/gitlab-all-company-meetings/#quarterly-kickoff) of the handbook.
