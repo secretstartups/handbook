@@ -2,7 +2,7 @@
 title: "Chief of Staff to the CEO"
 ---
 
-The Chief of Staff to the CEO is a very talented individual who serves as a trusted advisor and confidant to the Chief Executive Officer (CEO) for up to 36 months. The Chief of Staff to the CEO and the CEO work closely together to get twice as much done as the CEO would be able to do alone. Over time the work will get more interesting culminating in a senior leadership position at GitLab or another company. This is a unique opportunity to see every aspect of a fast-growing unicorn at the CEO level. For more context see the [references](#references) at the end of this page.
+The Chief of Staff to the CEO is a very talented individual who serves as a trusted advisor and confidant to the Chief Executive Officer (CEO). The Chief of Staff to the CEO and the CEO work closely together to get twice as much done as the CEO would be able to do alone. Over time the work will get more interesting culminating in a senior leadership position at GitLab or another company. This is a unique opportunity to see every aspect of a public company at the CEO level. For more context see the [references](#references) at the end of this page.
 
 This is a senior leadership role. This role does not do any work our [Executive Business Administrators](/job-families/people-group/executive-business-administrator/) (EBAs) are already doing, who for example, are responsible for scheduling and driving the [Objective and Key Results](/handbook/company/okrs/) (OKR) process. This role could have EBA support, although will not have a dedicated EBA themselves. It also is unrelated to the work of our [CEO Shadow training program](/handbook/ceo/shadow/) who, for example, takes notes during all meetings with the CEO. A detailed list of the types of projects the Chief of Staff to the CEO might work on can be found in the Chief of Staff to the CEO [handbook page](/handbook/ceo/chief-of-staff-team/#what-projects-does-the-cost-work-on).
 
@@ -21,16 +21,16 @@ The responsibilities include both directed work that will mostly be triggered by
 
 ### Directed Work
 
-1. Create investor updates, pitch decks, speeches, conference submissions, and presentations on behalf of the CEO.
+1. Create written material and presentations on behalf of the CEO.
 1. Suggest changes to processes via [the handbook](/handbook/handbook-usage/) based on discussions during meetings or from the CEO and address any comments on them. The [CEO shadows](/handbook/ceo/shadow/) will keep doing the majority of these.
-1. Draft blog posts and articles out of recorded meetings and handbook content.
-1. Ensure upcoming meetings are relevant, well structured, and that the preparation is complete and correct.
+1. Ensure upcoming [E-Group Weekly](https://handbook.gitlab.com/handbook/e-group-weekly/) meetings are relevant, well structured, and that the preparation is complete and correct.
+1. Moderate the [e-group](/handbook/company/team/structure/#e-group) meetings.
 1. Ensure action points coming out of meetings (i.e. executive, OKR, key, or incident meetings) are implemented.
 1. Reinforce [communication guidelines](/handbook/communication/).
 1. Help create [mecefu-terms](/handbook/communication/#mecefu-terms).
 1. Prep for the CEO [Group Conversations](/handbook/group-conversations/)
-1. Moderate the [e-group](/handbook/company/team/structure/#e-group) meetings.
 1. Keep this job family up-to-date.
+1. Draft blog posts and articles out of recorded meetings and handbook content.
 
 ### Leadership Work
 
@@ -40,7 +40,7 @@ The responsibilities include both directed work that will mostly be triggered by
 1. Own agenda for the [E-group offsite](/handbook/company/offsite/).
 1. Serve as a proxy for the CEO by attending meetings in place of the CEO and making decisions on the CEO's behalf.
 1. Chief of Staff to the CEO will participate in every E-group meeting. The person will not be an executive or part of the e-group.
-1. Act as the communication arm for the CEO with team members, clients, investors, community members, and other stakeholders.
+1. Act as the communication arm for the CEO with team members and other stakeholders.
 1. Act as a sounding board to the CEO for new ideas and initiatives.
 1. Prepare ahead of formal and informal Board meetings. Ensure CEO has up to date information from every function in advance of questions from the board.
 1. Run special projects that are urgent and important, for example building a company wide [compensation model](/handbook/total-rewards/compensation/compensation-calculator/).
@@ -48,10 +48,10 @@ The responsibilities include both directed work that will mostly be triggered by
 
 ## Requirements
 
-1. Capacity to become a [senior leader](/handbook/company/team/structure/#senior-leaders) at GitLab.
+1. Capacity to be a [senior leader](/handbook/company/team/structure/#senior-leaders) at GitLab.
 1. Proven ability to quickly learn new things.
 1. Concise written and verbal communication.
-1. Based in San Francisco, CA, USA to attend in-person [external meeting](/handbook/ceo/shadow/#gitlab-meetings) meetings at [mission control](/handbook/ceo/shadow/#mission-control-guide). For internal GitLab meetings, this role can work from anywhere of your choosing (estimated 80+% of the time).
+1. Ability to work during PST friendly hours.
 1. Structured about how to prioritize work and time.
 1. Able to make a clear business case for proposals.
 1. Master’s degree in Engineering or Business Administration or equivalent experience.
@@ -59,11 +59,11 @@ The responsibilities include both directed work that will mostly be triggered by
 1. Proven success in project coordination and reporting.
 1. Proven track record of effectively interacting with senior stakeholders on cross-functional projects.
 1. Experience leading a team.
-1. 4+ years combined experience in:
+1. 5+ years combined experience in:
    - Senior operating role at a significant fast-growing startup,
    - Strategy consulting,
    - or Venture capital.
-1. 2+ years people management experience.
+1. 3+ years people management experience.
 1. Operational experience in a previous role.
 1. Ability to use GitLab
 
@@ -79,7 +79,6 @@ The Chief of Staff to the CEO will be asked to undertake small, tactical tasks a
 
 - [Meetings shifted from CEO - hours spent in meetings decreases overtime by Chief of Staff to the CEO stepping in, supported by Internal Consultants](/handbook/ceo/chief-of-staff-team/performance-indicators/#executive-time-for-the-ceo)
 - [Throughput - Issues or merge requests closed as measurement of projects iterated on](/handbook/ceo/chief-of-staff-team/performance-indicators/#throughput-for-the-cost)
-- [Percent of sent Slack messages that are not DMs](/handbook/ceo/chief-of-staff-team/performance-indicators/#percent-of-sent-slack-messages-that-are-not-dms)
 
 ## Hiring Process
 
