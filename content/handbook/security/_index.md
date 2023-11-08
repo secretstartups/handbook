@@ -141,16 +141,6 @@ To be in line with [GitLab’s encryption policy](/handbook/security/threat-mana
 1. Personal Access Tokens will be highly discouraged within the GitLab production environment, and disallowed/disabled wherever possible. Existing tokens shall remain, but additional issuance will not be permissible/possible.
 1. If you believe a personal access token has been leaked, revoke it immediately (if possible) and [contact the security team](/handbook/security/security-operations/sirt/engaging-security-on-call.html) using the `/security` Slack command.
 
-### Panic Email
-
-Should a team member lose a device such as a thumb drive, YubiKey, mobile phone, tablet, laptop, etc. that contains their credentials or other GitLab-sensitive data they should report the issue using the `/security` command in Slack to [engage SIRT]({{< ref "engaging-security-on-call#engage-the-security-engineer-on-call" >}}).
-
-GitLab provides a `panic@gitlab.com` email address for team members to use in situations when Slack is inaccessible and immediate security response is required.
-
-This email address is only accessible to GitLab team members and can be reached from their gitlab.com or personal email address as listed in Workday. Using this address provides an excellent way to limit the damage caused by a loss of one of these devices.
-
-Additionally if a GitLab team member experiences a personal emergency the People Group also provides an [emergency contact email](/handbook/people-group/#in-case-of-emergency).
-
 ## Security Department
 
 The Security Department provides essential security operational services, is directly engaged in the development and release processes, and offers consultative and advisory services to better enable the business to function while minimising risk.
@@ -485,6 +475,10 @@ If an urgent security incident has been identified or you suspect an incident ma
  - Leaked credentials
  - Endpoint compromise or infection
  - Exposure of sensitive GitLab data
+
+GitLab provides a `panic@gitlab.com` email address for team members to use in situations when Slack is inaccessible and immediate security response is required.
+
+This email address is only accessible to GitLab team members and can be reached from their gitlab.com or personal email address as listed in Workday. Using this address provides an excellent way to limit the damage caused by a loss of one of these devices.
 
 Additionally if a GitLab team member experiences a personal emergency the People Group also provides an [emergency contact email](https://about.gitlab.com/handbook/people-group/#in-case-of-emergency).
 
