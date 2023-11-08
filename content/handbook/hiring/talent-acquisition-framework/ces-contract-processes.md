@@ -406,7 +406,7 @@ Once this information has been received, please go onto GH and follow the steps 
     - B: France (35 hour w OTE & draw) [Cadre ONLY] CES TO EDIT
     - C: France (218 day w OTE and draw) [Cadre ONLY] CES TO EDIT
 1. Click on the three dots on the right-hand side of the template you will be using and select the ‘download’ tab
-1. Open the document in Google Docs 
+1. Open the document in Google Docs
 1. Make all the changes as advised by the Legal Team and save the document
 1. Go back to the offer templates page on GH
 1. Click on ‘Upload New’ on the right-hand side
