@@ -13,7 +13,7 @@ description: "The purpose of this page is to present guidelines for Figma."
 # Figma Process
 {:.no_toc}
 
-The purpose of this page is to present some Figma process guidelines. This page is for people who create designs in Figma, people who review designs in Figma, and for engineers who receive Figma files. This page is not a Figma 101 page. 
+The purpose of this page is to present some Figma process guidelines for the GitLab marketing team. This page is for people who create designs in Figma, people who review designs in Figma, and for engineers who receive Figma files. This page is not a Figma 101. 
 
 ## File naming convention
 
@@ -57,9 +57,6 @@ Add READ:ME frames when appropriate. Some reasons to add READ:MEs are:
 * Use Figma commenting at your discretion. Ask yourself: Is this an important question that needs to be documented or is it something quick and minor like “this alignment is off, was this intentional?”
 * If another user wants to edit a frame within an existing file, please duplicate (copy and paste) the existing artboard rather than editing it. This will help preserve various iterations in case we want to go back or reuse a component from a previous iteration later.
 
-How to link to a Figma frame:
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/742c94495ee8456cb59893659bd2688a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 
