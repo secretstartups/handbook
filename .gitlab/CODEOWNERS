@@ -17,6 +17,10 @@
 #
 #####
 
+# Please make sure that @gitlab-com/handbook and  @gitlab-com/egroup groups are part of all
+# entires where the codeowners are required.  Thats any entry where the group `[]` isn't prefixed
+# with a Caret `^`.
+
 # The following entries are all sections which require codeowner approval
 # either because they relate to the function of the Handbook or because
 # they are a controlled Document.
@@ -24,108 +28,109 @@
 # No point having a controlled documents section if anyone can just update
 # The CODEOWNERS file.
 [CODEOWNERS]
-.gitlab/CODEOWNERS @david @timzallmann @gitlab-com/ceo-chief-of-staff-team
+.gitlab/CODEOWNERS @david @timzallmann @gitlab-com/ceo-chief-of-staff-team @gitlab-com/egroup @gitlab-com/handbook
 
 # The following entries relate to the operation of the handbook repo or the handbook site itself.
 [handbook-operations]
-/.gitignore @jamiemaynard @marshall007
-/.gitlab-ci.yml @jamiemaynard @marshall007
-/.markdownlint-cli2.jsonc @jamiemaynard @marshall007
-/.markdownlint.yaml @jamiemaynard @marshall007
-/go.sum @jamiemaynard @marshall007
-/go.mod @jamiemaynard @marshall007
-/package-lock.json @jamiemaynard @marshall007
-/package.json @jamiemaynard @marshall007
-/.gitlab/ @gitlab-com/ceo-chief-of-staff-team
-/config/ @jamiemaynard @marshall007
-/scripts/ @jamiemaynard @marshall007
-/static/ @jamiemaynard @marshall007
-/content/handbook/about/ @jamiemaynard
-/content/handbook/content-websites/ @jamiemaynard
-/content/preferences/ @jamiemaynard
+/.gitignore @jamiemaynard @marshall007 @gitlab-com/handbook
+/.gitlab-ci.yml @jamiemaynard @marshall007 @gitlab-com/handbook
+/.markdownlint-cli2.jsonc @jamiemaynard @marshall007 @gitlab-com/handbook
+/.markdownlint.yaml @jamiemaynard @marshall007 @gitlab-com/handbook
+/go.sum @jamiemaynard @marshall007 @gitlab-com/handbook
+/go.mod @jamiemaynard @marshall007 @gitlab-com/handbook
+/package-lock.json @jamiemaynard @marshall007 @gitlab-com/handbook
+/package.json @jamiemaynard @marshall007 @gitlab-com/handbook
+/.gitlab/ @gitlab-com/ceo-chief-of-staff-team @gitlab-com/handbook
+/config/ @jamiemaynard @marshall007 @gitlab-com/handbook
+/scripts/ @jamiemaynard @marshall007 @gitlab-com/handbook
+/static/ @jamiemaynard @marshall007 @gitlab-com/handbook
+/content/handbook/about/ @jamiemaynard @gitlab-com/handbook
+/content/handbook/content-websites/ @jamiemaynard @gitlab-com/handbook
+/content/preferences/ @jamiemaynard @gitlab-com/handbook
 
 [handbook-homepage]
-/content/_index.html @jamiemaynard @marshall007
-/content/featured-background.png @jamiemaynard @marshall007
-/layouts/home.html @jamiemaynard @marshall007
+/content/_index.html @jamiemaynard @marshall007 @gitlab-com/handbook
+/content/featured-background.png @jamiemaynard @marshall007 @gitlab-com/handbook
+/layouts/home.html @jamiemaynard @marshall007 @gitlab-com/handbook
 
 [redirects]
-/layouts/index.redirects @jamiemaynard @marshall007
+/layouts/index.redirects @jamiemaynard @marshall007 @gitlab-com/handbook
 
 [ide-configs]
-/.editorconfig @jamiemaynard @marshall007
-/.nova/ @jamiemaynard @marshall007
-/.vscode/ @jamiemaynard @marshall007
-/.idea/ @jamiemaynard @marshall007
+/.editorconfig @jamiemaynard @marshall007 @gitlab-com/handbook
+/.nova/ @jamiemaynard @marshall007 @gitlab-com/handbook
+/.vscode/ @jamiemaynard @marshall007 @gitlab-com/handbook
+/.idea/ @jamiemaynard @marshall007 @gitlab-com/handbook
 
 [docs]
-/LICENCE @jamiemaynard @marshall007
-/README.md @jamiemaynard @marshall007
-/CONTRIBUTING.md @jamiemaynard @marshal007
-/content/docs/ @jamiemaynard @marshall007
+/LICENCE @jamiemaynard @marshall007 @gitlab-com/handbook
+/README.md @jamiemaynard @marshall007 @gitlab-com/handbook
+/CONTRIBUTING.md @jamiemaynard @marshal007 @gitlab-com/handbook
+/content/docs/ @jamiemaynard @marshall007 @gitlab-com/handbook
 
 # This is the controlled documents section where approval from a CODEOWNER is always required
-# Entries will be disabled if they form part of a migration.
+# Please make sure that  @gitlab-com/handbook and  @gitlab-com/egroup groups are part of all
+# controlled documents entries.
 [Controlled Documents]
-/content/handbook/people-group/acceptable-use-policy/ @wendybarnes @akramer @emilyplotkin @pegan
-/content/handbook/security/access-management-policy.md @joshlemos @jlongo_gitlab
-/content/handbook/security/security-assurance/security-compliance/access-reviews.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/security/security-engineering/application-security/vulnerability-management.md @joshlemos @jritchey
-/content/handbook/security/audit-logging-policy.md @joshlemos @jlongo_gitlab
-/content/handbook/engineering/infrastructure/production/index.md.erb @marin @alanrichards
-/content/handbook/business-technology/gitlab-business-continuity-plan/index.md @brobins @cmestel @NabithaRao
-/content/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/engineering/infrastructure/change-management/index.md @marin @alanrichards @meks @joergheilig
-/content/handbook/security/controlled-document-procedure.md @joshlemos @jlongo_gitlab
-/content/handbook/security/cryptographic-standard.md @joshlemos @jlongo_gitlab
-/content/handbook/security/data-classification-standard.md @joshlemos @jlongo_gitlab
-/content/handbook/legal/privacy/dpia-policy/ @robin
-/content/handbook/business-technology/data-team/data-management/ @amiebright @dvanrooijen2 @iweeks @nmcavinue
-/content/handbook/business-technology/data-team/platform/index.md @amiebright @dvanrooijen2 @iweeks
-/content/handbook/engineering/infrastructure/database/disaster_recovery.md @marin @alanrichards
-/content/handbook/security/threat-management/vulnerability-management/encryption-policy.md @smanzuik @estrike
-/content/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/ @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee
-/content/handbook/security/security-assurance/security-compliance/security-control-lifecycle.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/security/password-standard.md @joshlemos @jlongo_gitlab
-/content/handbook/security/isms.md @joshlemos @jlongo_gitlab
-/content/handbook/security/threat-management/vulnerability-management/infrastructure-vulnerability-procedure.md @smanzuik @estrike
-/content/handbook/business-technology/end-user-services/self-help-troubleshooting/ @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee
-/content/handbook/business-technology/end-user-services/onboarding-access-requests/ @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee
-/content/handbook/engineering/infrastructure/network-security/ @marin @alanrichards
-/content/handbook/people-group/offboarding/offboarding_standards/ @wendybarnes @mpatel8
-/content/handbook/security/penetration-testing-policy.md @joshlemos @jlongo_gitlab
-/content/handbook/people-policies/ @cgudgenov @emilyplotkin @pegan @wendybarnes
-/content/handbook/engineering/infrastructure/production/architecture/ @marin @alanrichards
-/content/handbook/security/records-retention-deletion.md @joshlemos @jlongo_gitlab
-/content/handbook/security/security-assurance/security-risk/storm-program/ @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/security/security-change-management-procedure.md @joshlemos @jlongo_gitlab
-/content/handbook/security/security-assurance/observation-management-procedure.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/security/security-assurance/observation-remediation-procedure.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/security/security-operations/sirt/security-incident-communication-plan.md @joshlemos @jfuentes2
-/content/handbook/security/security-operations/sirt/sec-incident-response.md @joshlemos @jfuentes2
-/content/handbook/security/secops-oncall.md @joshlemos @jlongo_gitlab @jfuentes2
-/content/handbook/security/security-assurance/governance/sec-training.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/security/security-assurance/security-risk/third-party-risk-management.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/security/token-management-standard.md @joshlemos @jlongo_gitlab
-/content/handbook/security/threat-management/vulnerability-management/ @smanzuik @estrike
-/content/handbook/security/change-management-policy.md @joshlemos @jlongo_gitlab
-/content/handbook/finance/expenses/ @brobins
-/content/handbook/security/security-assurance/dedicated-compliance/POAM-Deviation-Request-Procedure.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/security/security-assurance/control-health-effectiveness-rating.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/security/change-management-policy.md @joshlemos @jlongo_gitlab
+/content/handbook/people-group/acceptable-use-policy/ @wendybarnes @akramer @emilyplotkin @pegan @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/access-management-policy.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/security-compliance/access-reviews.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-engineering/application-security/vulnerability-management.md @joshlemos @jritchey @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/audit-logging-policy.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/engineering/infrastructure/production/index.md.erb @marin @alanrichards @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/business-technology/gitlab-business-continuity-plan/index.md @brobins @cmestel @NabithaRao @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/engineering/infrastructure/change-management/index.md @marin @alanrichards @meks @joergheilig @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/controlled-document-procedure.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/cryptographic-standard.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/data-classification-standard.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/legal/privacy/dpia-policy/ @robin @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/business-technology/data-team/data-management/ @amiebright @dvanrooijen2 @iweeks @nmcavinue @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/business-technology/data-team/platform/index.md @amiebright @dvanrooijen2 @iweeks @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/engineering/infrastructure/database/disaster_recovery.md @marin @alanrichards @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/threat-management/vulnerability-management/encryption-policy.md @smanzuik @estrike @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/ @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/security-compliance/security-control-lifecycle.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/password-standard.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/isms.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/threat-management/vulnerability-management/infrastructure-vulnerability-procedure.md @smanzuik @estrike @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/business-technology/end-user-services/self-help-troubleshooting/ @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/business-technology/end-user-services/onboarding-access-requests/ @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/engineering/infrastructure/network-security/ @marin @alanrichards @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/people-group/offboarding/offboarding_standards/ @wendybarnes @mpatel8 @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/penetration-testing-policy.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/people-policies/ @cgudgenov @emilyplotkin @pegan @wendybarnes @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/engineering/infrastructure/production/architecture/ @marin @alanrichards @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/records-retention-deletion.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/security-risk/storm-program/ @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-change-management-procedure.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/observation-management-procedure.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/observation-remediation-procedure.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-operations/sirt/security-incident-communication-plan.md @joshlemos @jfuentes2 @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-operations/sirt/sec-incident-response.md @joshlemos @jfuentes2 @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/secops-oncall.md @joshlemos @jlongo_gitlab @jfuentes2 @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/governance/sec-training.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/security-risk/third-party-risk-management.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/token-management-standard.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/threat-management/vulnerability-management/ @smanzuik @estrike @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/change-management-policy.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/finance/expenses/ @brobins @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/dedicated-compliance/POAM-Deviation-Request-Procedure.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/control-health-effectiveness-rating.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/change-management-policy.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
 
 # These optional entries are for when no codeowner is found.
 ^[content-sites]
-* @jamiemaynard @marshall007
+* @jamiemaynard @marshall007 @gitlab-com/egroup @gitlab-com/handbook
 
 ^[job-families]
-/content/job-families/ @sytses @streas
+/content/job-families/ @sytses @streas @gitlab-com/egroup
 
 ^[handbook]
-/content/handbook/ @sytses @streas
+/content/handbook/ @sytses @streas @gitlab-com/egroup
 
 ^[company]
-/content/handbook/company/ @sytses @streas
+/content/handbook/company/ @sytses @streas @gitlab-com/egroup
 
 ^[Culture]
 /content/handbook/company/culture/ @streas
@@ -142,6 +147,7 @@
 
 # The rest of the entries are for the different sections of the handbook and/or job-families
 ^[READMEs]
+/content/handbook/ceo/chief-of-staff-team/readmes/yyugitlab.md @yyugitlab
 /content/handbook/ceo/chief-of-staff-team/readmes/dlangemak.md @dlangemak
 /content/handbook/ceo/chief-of-staff-team/readmes/ipedowitz.md @ipedowitz
 /content/handbook/ceo/chief-of-staff-team/readmes/jamiemaynard.md @jamiemaynard
@@ -318,24 +324,24 @@
 /content/handbook/security/security-engineering/security-logging/ @joe-dub
 
 [support]
-/content/handbook/support/ @gitlab-com/support
-/content/handbook/support/workflows/how-to-set-up-shift-coverage-for-an-event.md @gitlab-com/support/managers
-/content/handbook/support/workflows/personal_data_access_account_deletion.md @jcolyer @izzyfee @lyle
-/content/handbook/support/workflows/account_deletion_access_request_workflows.md @jcolyer @izzyfee @lyle
-/content/handbook/support/workflows/data_processing_addendums.md @lyle
-/content/handbook/support/workflows/information-request.md @lasayers @dfrhodes @emccrann @smccreesh @BronwynBarnett @rachelpack
-/content/handbook/support/workflows/log_requests.md @gitlab-com/support/managers
-/content/handbook/support/workflows/pii_removal_requests.md @gitlab-com/support/managers @gitlab-com/gl-security/security-operations/trust-and-safety
-/content/handbook/support/workflows/dmca.md @gitlab-com/support/managers @gitlab-com/gl-security/security-operations/trust-and-safety
-/content/handbook/support/workflows/reinstating-blocked-accounts.md @gitlab-com/support/managers @gitlab-com/gl-security/security-operations/trust-and-safety
-/content/handbook/support/workflows/working_with_security.md @gitlab-com/support/managers @gitlab-com/gl-security
-/content/handbook/support/workflows/unbabel_translation_in_zendesk.md @gitlab-com/support/managers @gitlab-com/support/support-ops
-/content/handbook/support/workflows/setting_ticket_priority.md @gitlab-com/support/managers @gitlab-com/support/support-ops
-/content/handbook/support/workflows/zendesk-instances.md @gitlab-com/support/managers @gitlab-com/support/support-ops
-/content/handbook/support/workflows/team/performance_review.md @joergheilig @lbot @lyle @shaunmccann @vparsons
+/content/handbook/support/ @gitlab-com/support @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/support/workflows/how-to-set-up-shift-coverage-for-an-event.md @gitlab-com/support/managers @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/support/workflows/personal_data_access_account_deletion.md @jcolyer @izzyfee @lyle @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/support/workflows/account_deletion_access_request_workflows.md @jcolyer @izzyfee @lyle @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/support/workflows/data_processing_addendums.md @lyle @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/support/workflows/information-request.md @lasayers @dfrhodes @emccrann @smccreesh @BronwynBarnett @rachelpack @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/support/workflows/log_requests.md @gitlab-com/support/managers @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/support/workflows/pii_removal_requests.md @gitlab-com/support/managers @gitlab-com/gl-security/security-operations/trust-and-safety @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/support/workflows/dmca.md @gitlab-com/support/managers @gitlab-com/gl-security/security-operations/trust-and-safety @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/support/workflows/reinstating-blocked-accounts.md @gitlab-com/support/managers @gitlab-com/gl-security/security-operations/trust-and-safety @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/support/workflows/working_with_security.md @gitlab-com/support/managers @gitlab-com/gl-security @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/support/workflows/unbabel_translation_in_zendesk.md @gitlab-com/support/managers @gitlab-com/support/support-ops @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/support/workflows/setting_ticket_priority.md @gitlab-com/support/managers @gitlab-com/support/support-ops @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/support/workflows/zendesk-instances.md @gitlab-com/support/managers @gitlab-com/support/support-ops @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/support/workflows/team/performance_review.md @joergheilig @lbot @lyle @shaunmccann @vparsons @gitlab-com/egroup @gitlab-com/handbook
 
 [support-readiness]
-/content/handbook/support/readiness/ @lyle @jcolyer
+/content/handbook/support/readiness/ @lyle @jcolyer @gitlab-com/egroup @gitlab-com/handbook
 
 ^[teampps]
 /content/teamops/ @nshah19 @streas @cynthia
@@ -346,7 +352,7 @@
 /content/handbook/total-rewards/ @shristikauffman @mwilkins
 
 [values]
-/content/handbook/values/ @sytses @gitlab-com/ceo-chief-of-staff-team
+/content/handbook/values/ @sytses @gitlab-com/ceo-chief-of-staff-team @gitlab-com/egroup @gitlab-com/handbook
 
 ^[working-groups]
 /content/handbook/company/structure/working-groups/ @sytses @streas
