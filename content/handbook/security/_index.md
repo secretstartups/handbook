@@ -7,45 +7,6 @@ description: "Security at GitLab"
 
 ### Security Process and Procedures for Team Members
 
-#### Accounts and Passwords
-
-1. Read and follow the requirements for handling passwords and other credentials in
-  the [GitLab Password Standards](/handbook/security/password-standard.html)
-  for all accounts used to conduct GitLab related work.
-  Using 1Password to [generate and store] the passwords is strongly recommended.
-1. Set up your [Okta](/handbook/business-technology/okta/) account at [https://gitlab.okta.com](https://gitlab.okta.com),
-  and use this as
-  your primary means for accessing Applications supported in Okta. As part of
-  setting up Okta, you'll need to establish a [strong password]({{< ref "password-guidelines" >}})
-  and set up at least one additional form of authentication.
-1. For your Okta password and other passwords that you won't store in Okta, set up [1Password](https://1password.com/) as your password manager and set a **strong and unique**
-  master password.
-   - Keep your Master Password a secret. No other team members
-   should know it, including admins. If the Master Password is known or
-   disclosed to someone else, it should be changed immediately.
-   - Post a message in #it-ops if you forget your Master Password.
-   - Consider using a generated Master Password. Most human-created passwords
-   are easy to guess. Let 1Password create a strong Master Password. But: you *will*
-   need to memorize this Master Password.
-   - Do not let your password manager store the **master password**. It is okay to
-     store the username.
-   - For more information, review [1Password's Getting Started guide](https://support.1password.com/explore/team-member/)
-    and view [this video](https://youtu.be/2cFWk0sBgyM) that guides you through the sign-up process.
-   - For account administrators, review [1Password's admin guide](https://support.1password.com/explore/teams-admin/).
-1. Enable two-factor authentication (2FA) for every account that supports
-  it using the most secure option available, as outlined in our [password standard]({{< ref "password-standard#two-factor-authentication-mfa-or-2fa" >}}). This is required for
-  [Google](https://myaccount.google.com/signinoptions/two-step-verification/enroll-welcome),
-  [GitLab.com](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html#enabling-2fa),
-  and `dev.gitlab.org` accounts. `Users without 2FA enabled that are stale for
-  over 30 days will be blocked/suspended until resolved. This improves the
-  security posture for both the user and GitLab.`
-  If any systems provide an option to use SMS text as a second factor, this is highly discouraged.
-  Phone company security can be easily subverted by attackers allowing them to take over a phone account.
-  *(Ref: [6 Ways Attackers Are Still Bypassing SMS 2-Factor Authentication](https://www.securityweek.com/6-ways-attackers-are-still-bypassing-sms-2-factor-authentication) / [2 minute Youtube social engineering attack with a phone call and crying baby](https://www.youtube.com/watch?v=lc7scxvKQOo))*
-1. A FIDO2/WebAuthn hardware token can be used as a secure and convenient 2-factor authentication method for Okta, Google Workspace, GitLab instances, and many other sites. If you do not have one, you may consider [purchasing one](/handbook/spending-company-money/). GitLab's standard is Yubico's YubiKey. For more information on FIDO2/WebAuthn, visit the [Tools and Tips page](/handbook/tools-and-tips/#fido2webauthn-devices).
-1. If shared access to a single account is required by multiple team members, for example, a social media account, an Okta [new application setup Issue](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=change_management_okta&_gl=1*hvl1g4*_ga*ODQwNzAxNjM0LjE2NjYwNDc2Njc.*_ga_ENFH3X7M5Y*MTY4Njk0MTkzOC43MDIuMS4xNjg2OTQyMTc4LjAuMC4w) should be created. The credentials will be stored and shared via Okta.
-1. If you find an existing shared account in 1Password, [create an Issue](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=change_management_okta) to get it migrated to Okta.
-
 #### Google Cloud Resources
 
 Some Google Cloud resources, if deployed with default settings, may introduce risk to shared environments. For example, you may be deploying a temporary development instance that will never contain any sensitive data. But if that instance is not properly secured, it could potentially be compromised and used as a gateway to other, more sensitive resources inside the same project.
@@ -169,34 +130,6 @@ Also, remember to [clean up](#clean-up) the instance as soon as your test or dem
 ###### Use HTTPS
 
 To be in line with [GitLab’s encryption policy](/handbook/security/threat-management/vulnerability-management/encryption-policy.html), TLS should also be implemented on public-facing testing resources. For GitLab instances, you can use the [LetsEncrypt integration](https://docs.gitlab.com/omnibus/settings/ssl.html#primary-gitlab-instance). [Let’s Encrypt](https://letsencrypt.org/) is enabled by default if `external_url` is set with the HTTPS protocol and no other certificates are configured.
-
-#### Security Awareness
-
-1. Follow the guidelines for identifying phishing emails provided in the training and [How to identify a basic phishing attack].
-  - During the onboarding process you may receive account
-   registration emails for your baseline entitlements. Before clicking these
-   links feel free to confirm with #it-ops that they initialized the process.
-   Clicking itself is a problem even when you don't enter a password, because a
-   visit can already be used to execute a [0-day attack]. Security Team will, from time to time,
-   simulate phishing attacks to our company email addresses to ensure everyone is aware of the threat.
-1. If you get strange emails personally or other things related to security feel
-  free to ask the security team for help,
-  [they might be aiming for the company](https://medium.com/starting-up-security/learning-from-a-year-of-security-breaches-ed036ea05d9b).
-1. If you receive a security report of any kind (issue, customer ticket, etc.)
-  never **dismiss** it as invalid. Please bring it to the attention of the
-  [Security Team](https://about.gitlab.com/handbook/engineering/security), and follow the steps outlined on
-  that team's handbook page.
-1. **Report** suspect situations to an officer of the company or use the [engage the Security Engineer on-call](/handbook/security/security-operations/sirt/engaging-security-on-call.html).
-1. If you have security **suggestion**, create an issue on the
-  [security issue tracker](https://gitlab.com/gitlab-com/security/issues/)
-  and ping the security team. New security best practices and processes should be
-  added to the `#whats-happening-at-gitlab` slack channel
-1. Do not sign in to any GitLab related account using public computers, such as
-  library or hotel kiosks.
-
-[How to identify a basic phishing attack]: /handbook/security/security-assurance/governance/phishing.html#how-to-identify-a-basic-phishing-attack
-
-[0-day attack]: https://en.wikipedia.org/wiki/Zero-day_(computing)
 
 #### Personal Access Tokens
 
