@@ -342,7 +342,7 @@ See more tips about video, environment and dress on our [communication page](/ha
 
 ### Audio
 
-[You're strongly encouraged to use a headset with a microphone](/handbook/communication/#headphones).
+You're strongly encouraged to use a headset with a microphone.
 
 See more tips on our [All Remote Workspace page](/handbook/company/culture/all-remote/workspace/)
 
