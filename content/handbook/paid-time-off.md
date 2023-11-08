@@ -1,5 +1,5 @@
 ---
-title: "Paid time off at GitLab"
+title: "Paid Time Off at GitLab"
 ---
 
 ## Introduction
