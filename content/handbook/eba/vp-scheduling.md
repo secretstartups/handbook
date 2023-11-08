@@ -67,7 +67,7 @@ When scheduling for VPs or Directors at GitLab, please check the scheduling pref
 
 ## Scheduling for Product Leadership
 
-**Mike Flouton, VP of Product Management - Justin Farris, Sr Director of Product Management - Hillary Benson, Sr Director of Product Management**
+**Mike Flouton, VP of Product Management - Justin Farris, Sr Director of Product Management - Hillary Benson, Sr Director of Product Management - Steve Evangelista, Sr Director of Product Management**
 
 - Please reach out to Jennifer Garcia (EBA) to schedule or reschedule any meetings for Mike, Justin and Hillary
 - Don't schedule over DNB and Work Block's without reaching out to Jennifer (EBA)
