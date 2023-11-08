@@ -151,7 +151,7 @@ Performance against these competencies should be weighted at 40%.
 - [Job Frameworks]({{< ref "structure#job-frameworks" >}})
 - *(if applicable)* [Manager and Leadership Competencies](/handbook/competencies/#manager-and-leadership-competencies)
 
-When completing the talent assessment form, team members and managers should reflect on the applicable competencies and job frameworks when filling out the achievements, strengths, and opportunities section.  Given GitLab's [CREDIT values](/handbook/company/culture/all-remote/values/#:~:text=GitLab's%20six%20values%20%E2%80%94%20Collaboration%2C%20Results,detailed%20in%20the%20company%20Handbook.) should be lived, with each day representing a new opportunity to refamiliarize oneself with said values and strive to implement them in every professional interaction, there is an opportunity for team members and managers to rate how a team member demonstrates each of the CREDIT values.  The following rating scale is used for each value:
+When completing the talent assessment form, team members and managers should reflect on the applicable competencies and job frameworks when filling out the achievements, strengths, and opportunities section.  Given GitLab's [CREDIT values](/handbook/values/#credit) should be lived, with each day representing a new opportunity to refamiliarize oneself with said values and strive to implement them in every professional interaction, there is an opportunity for team members and managers to rate how a team member demonstrates each of the CREDIT values.  The following rating scale is used for each value:
 - **Rarely Demonstrated**: team member demonstrates some of the sub-values associated with this value on an occassional basis.
 - **Sometime Demonstrated**: team member demonstrates most of the sub-values associated with this value on a regular basis.
 - **Consistently Demonstrated**: team member demonstrates a large majority of the sub-values associated with the value in most interactions.
@@ -319,7 +319,7 @@ It is **absolutely essential** that managers complete the required pre-work to e
 - Review the team member's own [Self-Evaluation](#team-member-self-evaluations), if they wished to complete one.
 - Review the Job Family/Families that will be reviewed in detail
 - Review our competencies
-    - Talent Assessment Training (UPDATE IN PROGRESS)
+    - [Talent Assessment Training in LevelUp] (https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/talent-assessment)
     - [Values competencies](/handbook/competencies/#values-competencies)
     - [Remote work competencies](/handbook/competencies/#remote-work-competencies)
     - [Functional competencies](/handbook/competencies/#functional-competencies) *(if applicable)*
@@ -336,7 +336,6 @@ It is **absolutely essential** that managers complete the required pre-work to e
 - Review the notes of your peers for other team members and add feedback/questions/thoughts for discussion
 - If you did not attend the people manager live training session, please watch the training video below:
 
-[LevelUp Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/talent-assessment)
 
 #### Topics To Avoid
 
@@ -776,7 +775,7 @@ Four scenarios exist in the context of our Talent Assessment:
 - Team member identified as Key Talent and SPOF
 - Team member identified as neither one
 
-To review the SPOF definition in more detail along with a few examples, please review our Organizational Design handbook page.
+To review the SPOF definition in more detail along with a few examples, please review our [Organizational Design](/handbook/people-group/organizational-design/) handbook page.
 
 ## Process To Determine Key Talent
 

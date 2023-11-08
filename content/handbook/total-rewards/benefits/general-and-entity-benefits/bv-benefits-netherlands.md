@@ -49,10 +49,9 @@ GitLab Team Members are not obligated to join CZ collective health policy. If th
 
 Due to the [Working Conditions Act](https://www.arboineuropa.nl/en/legislation/wetgeving-in-het-engels/), GitLab contracts an occupational safety and health service. The OSH-service can assist employees who are not able to work because of illness. The contact information for GitLab's designated Occupational Health Service provider is:
 
-**[Zorg van de Zaak](https://www.zorgvandezaak.nl/)**, Beneluxlaan 901, 3526 KK Utrecht, the Netherlands
+**Leuk Personeel, Dorresteinweg 72-08, 3763 LL, Soest, the Netherlands
 
-Tel: 088-2778870
-Email: info@zorgvandezaak.nl
+Tel: +0355436137
 
 ## Computer Glasses Reimbursement
 

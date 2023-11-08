@@ -88,7 +88,7 @@ Individual contributors are [Managers of One](/handbook/values/#managers-of-one)
 
 ### People Managers Job Framework
 
-You can find [the Job Framework for People Managers in the tab here](https://docs.google.com/spreadsheets/d/1FX4NBwF099uMBm7mGBtf1orIJZuHEjtiEa3jSbg9jJs/edit#gid=819074618). Below we will describe each level and their reporting structure.
+You can find [the Job Framework for People Managers in the tab here](https://docs.google.com/spreadsheets/d/1FX4NBwF099uMBm7mGBtf1orIJZuHEjtiEa3jSbg9jJs/edit#gid=0). Below we will describe each level and their reporting structure.
 
 #### General Expectations of all People Managers
 

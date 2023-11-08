@@ -5,6 +5,10 @@
   ],
   "fix": false,
   "ignores": [
+    "content/handbook/alliances/**/*.md",
+    "content/handbook/resellers/**/*.md",
+    "content/handbook/customer-success/**/*.md",
+    "content/handbook/sales/**/*.md",
     "content/handbook/business-technology/**/*.md",
     "content/handbook/product-development-flow/**/*.md",
     "content/handbook/product-development-budgeting/**/*.md",

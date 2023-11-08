@@ -243,6 +243,11 @@ For merge request reviews:
 - GitLab UI: https://gitlab.com/gitlab-org/gitlab-ui/issues/598, https://gitlab.com/gitlab-org/gitlab-ui/issues/624
 -->
 
+### Assignments to Solutions Architecture content
+
+Documentation under `doc/solutions` is managed by the Solutions Architecture team.
+They maintain and merge their own documentation, in this folder only.
+
 ## Docs site stats
 
 The technical writing team supports a large amount of content.

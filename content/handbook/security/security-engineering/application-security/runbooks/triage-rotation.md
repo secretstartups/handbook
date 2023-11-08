@@ -32,7 +32,7 @@ The following rotations are defined:
     - @gitlab-com/gl-security/appsec on GitLab.com
     - @appsec-team in Slack
   - First responder for issues created needing triage: [~security-triage-appsec issue search](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=security-triage-appsec)
-    - Refer to [this page](/handbook/security/#reproducibility-on-security-issues) to learn about the different labels that we can apply to issues when they're not vulnerabilities
+    - Refer to [this page]({{ ref "engaging-with-security#reproducibility-on-security-issues" }}) to learn about the different labels that we can apply to issues when they're not vulnerabilities
 - (Monthly Assignment) Security Engineer for Security Releases
 - (Monthly Assignment, Federal AppSec only) Release Certifications
   - Responsible for the [release certification process]({{< ref "release-certification" >}})

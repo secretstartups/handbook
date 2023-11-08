@@ -31,11 +31,11 @@ Maximize GitLab's long-term valuation by enabling eGroup and FP&A to plan, prior
 ## Our team
 
 FP&A comprises five different sub-teams to support our FP&A goals:
-- [Corporate FP&A](.{{< ref "./corporate-finance" >}})
-- [Sales Finance](.{{< ref "./sales-finance" >}})
-- [Marketing](.{{< ref "./marketing-finance" >}})
-- [R&D](.{{< ref "./r-and-d-finance" >}})
-- [G&A](.{{< ref "./ga-finance" >}})
+- [Corporate FP&A]({{< ref "./corporate-finance" >}})
+- [Sales Finance]({{< ref "./sales-finance" >}})
+- [Marketing]({{< ref "./marketing-finance" >}})
+- [R&D]({{< ref "./r-and-d-finance" >}})
+- [G&A]({{< ref "./ga-finance" >}})
 
 ### Common Links
 
@@ -352,7 +352,7 @@ Financial Planning & Analysis (FP&A) team is the owner of SSOT for GitLab’s **
 - Hiring Plan is maintained by the Finance Business Partners (FBPs) and shared with Talent Acquisition (TA) team and Business Partners (BPs)
 - Finance owns the Hiring Plan to ensure there is only one Headcount Forecast and Hiring Plan for the business
 - Hiring Plan increases our predictability as a company and streamlines the hiring process
-- For questions specific to TA’s process and REQ creation, please refer to [TA’s section of the handbook](https://handbook.gitlab.com/handbook/hiring/talent-acquisition-framework/req-creation/)
+- For questions specific to TA’s process and REQ creation, please refer to [TA’s section of the handbook](/handbook/hiring/talent-acquisition-framework/req-creation/)
 
 ### Position ID (PID)
 
@@ -363,7 +363,7 @@ Position ID is a unique identifier and is the link between approved headcount an
    - Only Planned and Backfill positions are included in the Hiring Plan
 - All positions in the Hiring Plan are approved through:
    - Annual Operating Plan (AOP) cycle (beginning of each fiscal year)
-   - [RLoA](https://handbook.gitlab.com/handbook/finance/financial-planning-and-analysis/#rolling-list-of-asks-rloa) cycle for any incremental roles through the year
+   - [RLoA](/handbook/finance/financial-planning-and-analysis/#rolling-list-of-asks-rloa) cycle for any incremental roles through the year
    - Backfill due to attrition in the business
 - Positions may be updated/changed during weekly interlock process (e.g. reallocated to different team, changed for different Role level)
 - Each position is assigned with an unique identifier called Position ID (PID)
@@ -371,10 +371,10 @@ Position ID is a unique identifier and is the link between approved headcount an
    - PID simplifies and provides transparency on modeled headcount (attrition and backfill)
    - PID is an unique identifier for positions assigned to all current and future approved headcount
 - PIDs are created and assigned by Corporate FP&A (Corporate) when Hiring Plan is finalized or upon change request of existing position(s)
-   - All approved Planned and Backfill positions are assigned with an GHPID (please refer to [TA’s section on GHPID](https://handbook.gitlab.com/handbook/hiring/talent-acquisition-framework/req-creation/))
+   - All approved Planned and Backfill positions are assigned with an GHPID (please refer to [TA’s section on GHPID](/handbook/hiring/talent-acquisition-framework/req-creation/))
    - Not all positions are assigned with GHPIDs
    - Key difference between GHPID and PID
-      - GHPID has 1-to-1 relationship with an Opening ID in Greenhouse (please refer to [TA section on Opening](https://handbook.gitlab.com/handbook/hiring/talent-acquisition-framework/req-creation/))
+      - GHPID has 1-to-1 relationship with an Opening ID in Greenhouse (please refer to [TA section on Opening](/handbook/hiring/talent-acquisition-framework/req-creation/))
       - PID has 1-to-1 relationship with an approval headcount
       - Each PID has 1-to-1 relationship with a GHPID at any given time
       - **Illustrative example:** Employee **A** departs and business decides to backfill the same role
@@ -507,34 +507,27 @@ FP&A team is the owner and maintainer of SSOT for GitLab’s Hiring Plan
 
 #### Purpose
 
-The FP&A team and Talent Acquisition Managers collaborate to ensure understanding and implementation of the most up-to-date view of forecasted headcount-related expenses. This interlock enables GitLab to respond quickly and make live decisions through a weekly P&L forecast in Month 2 and Month 3 of each quarter. This process also ensures alignment and accuracy of headcount forecasts when FP&A locks its annual plan and monthly rolling forecasts. This process also tracks company metrics against Wall Street expectations related to non-GAAP operating income and non-GAAP earnings per share. Please see the [Headcount Metrics and Processes page](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/tree/master/-/sites/handbook/source/handbook/finance/financial-planning-and-analysis/headcount-metrics-and-processes/) for definitions and key metrics.
+The FP&A team and Talent Acquisition Managers collaborate to ensure understanding and implementation of the most up-to-date view of forecasted headcount-related expenses. This interlock enables GitLab to respond quickly and make live decisions through a weekly P&L forecast and the [rolling list of asks (RLOA) process](/handbook/finance/financial-planning-and-analysis/#rolling-list-of-asks-rloa). This process also ensures alignment and accuracy of headcount forecasts when FP&A locks its annual plan and monthly rolling forecasts. This process also tracks company metrics against Wall Street expectations related to non-GAAP operating income and non-GAAP earnings per share. Please see the [Headcount Metrics and Processes page](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/tree/master/-/sites/handbook/source/handbook/finance/financial-planning-and-analysis/headcount-metrics-and-processes/) for definitions and key metrics.
 
-#### Cadence
+#### Headocunt Live Dashboards
 
-The interlock process occurs during the following weeks:
+The Hiring Plan data is divided into four headcount forecast templates, one for each cost center with Cost of Goods Sold allocated among Sales and R&D. The data and analysis from the four templates roll into the Summary file. The four templates can be found in the [Headcount Live Summary Dashboard](https://docs.google.com/spreadsheets/d/1LmMiPMeBu2jW6APZ1SDNOk1OgLN6pyB01TrEVza40us/edit#gid=1019520422).
 
-1. **In Month 1 of the quarter:** once in week 2 (the week before FP&A's Month 1 forecast version lock)
-1. **In Month 2 of the quarter:** weekly starting week 2 (the week before FP&A's Month 2 forecast version lock)
-1. **In Month 3 of the quarter:** weekly
+#### Cadence / Process
 
-Unless otherwise noted in the HC Forecast calendar or communicated via Slack (see Communication below), the interlock takes place on a Thursday through Monday interval.
+Unless otherwise noted in the HC Forecast calendar or communicated via Slack, the interlock process occurs weekly as follows:
 
-#### Process
+1. **By noon (PST) Monday**, the Corp FP&A team downloads the data from Adaptive and refreshes the headcount forecast templates. Talent Acquisition also refreshes the headcount forecast templates with the latest data from Greenhouse.
 
-1. **By noon (PST) Thursday**, the Finance Business Partners update Adaptive with their best estimates of the start dates and salaries of all planned personnel (including backfills) for the forecast period. This reflects a 50/50 “most-realistic” view of headcount expenses/timing. **The Finance Business Partners indicate the completion of their updates in Adaptive by signing off in the headcount forecast template with their initial and time stamp**.
+1. **By end of day (PST) Wednesday**, the Talent Acquisition Managers and Recruiters review their respective roles line by line and make adjustments and comments related to expected start dates and other role details provided by the Finance Business Partners. If no indication is made for a specific role in the headcount forecast template, Talent Acquisition signals that the current indication is reasonable and indicative of a 50/50 “most-realistic” forecast. The Talent Acquisition Managers also pay close attention to any recruiting capacity restraints within any given quarter. In order to maximize transparency and understanding of any changes, the Talent Acquisition Managers and Recruiters provide comments (e.g., wrong GHP ID, rejection of an offer, delay due to business decision, etc.) for specific roles.
 
-1. **At noon (PST) Thursday**, the Corp FP&A team downloads the planned personnel data from Adaptive and prepares the headcount forecast template to share with Talent Acquisition. The planned personnel data is divided into two headcount forecast templates: “Mgr-” which includes all Individual Contributor, Manager, and Senior Manager roles and “Dir+” which includes all Director, Senior Director, Vice President, and E-Group roles.
+1. **By end of day (PST) Thursday**, the Finance Business Partners update Adaptive with their best estimates of the start dates of all planned personnel for the forecast period based on the input from Talent Acquisition in the headcount forecast templates. This reflects a 50/50 “most realistic” view of headcount expenses/timing.
 
-1. **Prior to noon (PST) Friday**, the Talent Acquisition Managers review their respective roles line by line and make adjustments and comments related to expected start dates and salaries provided by the Finance Business Partners. If no indication is made for a specific role in the headcount forecast template, the Talent Acquisition Manager signals that the current indication is reasonable and indicative of a 50/50 “most-realistic” forecast. The Talent Acquisition Managers also pay close attention to any recruiting capacity restraints within any given quarter. In order to maximize transparency and understanding of any changes, the Talent Acquisition Managers provide comments (e.g., rejection of an offer, adjustment to salary due to location factor, etc.) for specific roles. After reviewing all roles for which they are responsible, the **Talent Acquisition Managers sign off in the headcount forecast template with their initials and time stamp**. Note: the recruiter responsible for director and above hires performs the same procedure in the “Dir+” template. Following sign off from the Talent Acquisition Manager, the Corp FP&A team sends a Headcount Snapshot to the head of recruiting with a summary of the interlock and hiring outlook for the quarter. The head of recruiting reviews and provides a wholistic view for the Talent Acquisition team to ensure that the start numbers are reasonable with respect to progress through the quarter. If the numbers are unrealistic, the head of recruiting works with the Talent Acquisition team to adjust future starts to an attainable level.
-
-1. **By end of day (PST) Friday**, the Finance Business Partners review any adjustments or comments made by Talent Acquisition, follow up with any questions, and load the updated headcount information into Adaptive to prepare for the P&L snapshot. Often a meeting with each respective area may be required to better understand recruiting dynamics and ensure the forecast reflects a 50/50 “most-realistic” view.
-
-1. **The following Monday**, the Corp FP&A team downloads the updated information from Adaptive and provides a P&L snapshot to the CFO detailing any material week-over-week changes as well as tracking vs. guidance and consensus metrics.
-Prior to any forecast lock, the Finance Business Partners review headcount assumptions with the E-Group members with whom they partner and receive sign off from each E-Group member.
+1. **By end of day (PST) Friday**, the Corp FP&A team sends a P&L snapshot to the CFO incorporating any headcount forecast adjustments. Note: P&L snapshots are not provided during accounting close.
 
 #### Communication
 
-Communication related to the interlock takes place in the #fpa-ta_headcount_forecast Slack channel. All parties involved in the interlock are also granted access to the HC Forecast Google Calendar.
+Communication related to the interlock takes place in the #fpa-ta_headcount_forecast Slack channel. All parties involved in the interlock are also granted access to the "HC Forecast" Google Calendar.
 
 #### Deliverables
 
