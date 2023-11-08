@@ -196,15 +196,171 @@ Field Marketing utilizes the below issue templates and epic codes for virtual ev
 * [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Workshop_Template)
 * [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#workshops)
 
-# Suggested workflow to ensure your campaigns are accurate
 
-After Field Marketing has run a campaign, the Field Marketing Manager is responsible for ensuring that the campaign has operationally fully run to include the following:
+# Refined AMER Regional Marketing Event Planning Cycle
+The schedule provided below presents a 20-week planning timeline meticulously designed for the seamless execution of our regional marketing events. These Service Level Agreements (SLAs) are strategically established for our Field Marketing Managers (FMMs), ensuring they have ample time to orchestrate and promote a robust event, while synchronizing the availability of other teams' SLAs, including Procurement, Marketing Operations, the SA teams, our Field Marketing Coordinators, etc. It is essential to remain adaptable, as adjustments and modifications may become necessary to align with the unique event objectives, target audience, and the resources at our disposal. Ultimately, the unwavering dedication of our team will serve as the cornerstone of success for each event.
 
-- The campaign DRI reviews and cleans up list following the guidelines for [list imports](/handbook/marketing/marketing-operations/list-import/)
+## 17-20 Weeks Out: Strategize and Initiate Planning
+
+<details markdown=1>
+
+<summary><b>At this stage, we lay the groundwork for a successful event by creating a well-defined strategy and rallying key players.</b></summary>
+
+- Initiate strategic collaboration with Sales to align event goals and strategies.
+- Define clear event objectives, messaging, target audience, and desired outcomes.
+- Secure unwavering buy-in from essential stakeholders to ensure full support.
+- Develop a comprehensive campaign plan using Allocadia, continually monitoring the budget.
+- Compile all available details into a comprehensive Main Issue.-* Secure required third-party vendors if necessary, and create vendor contract request issue(s).
+
+</details>
+
+## 14-17 Weeks Out: Resource Alignment and Team Coordination
+
+<details markdown=1>
+
+<summary><b>During this phase, we focus on coordinating resources and refining our strategies to meet evolving needs.</b></summary>
+
+- Review and approve contract requests for event vendors.
+- Request team member resources based on event needs.(SA,BDR, SDR, CS, Design, Internal - Speakers etc) when required use specific team request issues as needed..
+- Continue collaborating with Sales to refine goals and strategies.
+- Schedule meetings with relevant team members to outline their contributions to the plan.
+- Please continue to revise the issue, providing comprehensive updates that capture all plan details and ensuring that all key stakeholders are appropriately tagged.
+- Move to WIP.
+
+</details>
+
+## 12-13 Weeks Out: Draft Initial Content, Design and confirm all Key Stakeholders
+
+<details markdown=1>
+
+<summary><b>We delve into content creation, design, and finalizing key stakeholder involvement while maintaining a clear timeline.</b></summary>
+
+- Review the Issues/Epics, adding estimated completion dates for each task.
+- Confirm availability and roles of requested cross-functional team members and finalize team member assignments. Note: Internal team members must have permission from their managers to travel.  Once approved, send placeholders to their calendars for events. 
+- Work with the design team to conceptualize event branding and design if needed. 
+- Begin drafting the Copy document to form the events foundation.
+- Collect  concise abstracts from speakers and presenters for their sessions, to enhance your landing page and agenda.
+- Review initial content drafts and design concepts.
+- Gather feedback from stakeholders and make necessary revisions if needed.
+- If necessary, request approvals from internal stakeholders.
+
+</details>
+
+## 11-12 Weeks Out: Review, Refine Content, Develop Landing Page and Collateral 
+
+<details markdown=1>
+
+<summary><b>During this phase, we polish content, initiate promotions, and ensure a seamless, finalized Copy Document for the event landing page, confirmation emails, and initial outreach (Email #1).</b></summary>
+
+- Compile and organize essential Target lists: Target Accounts, Target Audience, DMA requests, Relevant Previous Campaign Subject Matter, etc., for Copy Doc.
+- Explore opportunities for collaboration with Campaigns,  ABM or Social teams for event promotion.
+- Thoroughly review and approve landing page design and the first email.
+- Launch promotional efforts across social media and other channels.
+- Finalize and approve the event landing page and initial email.
+
+</details>
+
+## 8-10 Weeks Out: Fine-tuning and Launch Preparation
+
+<details markdown=1>
+
+<summary><b>With preparations in full swing, we focus on executing the first wave of communications and readying assets.</b></summary>
+
+- Confirm the timing of email #1, targeting the event's intended audience.
+- Continue robust event promotion across multiple channels.
+- Coordinate the creation and ordering of event-related swag and materials.
+- Initiate event swag shipments and asset preparations.
+- Continue to refine Main Issues/Epics, ensuring they capture all the intricate details of the comprehensive plan.
+
+</details>
+
+## 3-7 Weeks Out: Enriching Engagement and Preparing for Event Second Email Communication 
+
+<details markdown=1>
+
+<summary><b>This period centers on deepening engagement, fine-tuning event logistics, and enhancing participant experiences.</b></summary>
+
+- Monitor the response to email #1 and track engagement with the landing page.
+- Develop email #2 with additional event details if needed and value propositions.
+- Sustain promotion efforts across various channels to bolster excitement.
+- Collaborate with speakers and participants to ensure seamless event coordination
+- If applicable, create a booth schedule for effective participant interaction.
+- Conduct a thorough review of event logistics and setup details.
+- Verify the timely delivery of all event-related assets and swag.
+- Send out email #2 target audience, highlighting event benefits
+- Finalize copy document for reminder emails and post-event follow-ups including relevant call to action resources.
+
+</details>
+
+## 1-3 Weeks Out: Final Touches and Attendee Confirmations
+
+<details markdown=1>
+
+<summary><b>As we approach the event, we focus on last-minute preparations and ensuring a smooth execution.</b></summary>
+
+- Verify attendance and manage any late registrations.
+- Send calendar confirmations to registered attendees, including comprehensive key event details.
+- Conduct a final walkthrough of the event venue or virtual platform.
+- Collect finalized assets from presenters for their respective sessions.
+- Ensure all event-related assets and swag have been received.
+- Prepare an all-inclusive 'Know Before You Go' guide and distribute it accordingly.
+- Conduct an all-encompassing event stakeholders' run-through
+
+</details>
+
+## 0 Weeks Out: The Event Unfolds
+
+<details markdown=1>
+
+<summary><b>On the event day(s), we execute flawlessly, ensuring every detail is attended to.</b></summary>
+
+- Ensure seamless technical operations and troubleshoot any unforeseen issues.
+- Confirm readiness of assets, presentations, and materials.
+- Ensure seamless coordination among speakers and participants.
+- Execute the planned event according to the established schedule.
+- Monitor event progress, promptly resolving any unforeseen challenges.
+- Collect valuable leads and notes from sessions, to better foster post-event engagement.
+- Pack up and return any necessary assets
+
+</details>
+
+## 1 Week Post Event: Event Follow-Up Post-Event Analysis and Reflection
+
+<details markdown=1>
+
+<summary><b>Following the event, we analyze its performance, gather insights, and embark on improvement strategies.</b></summary>
+
+- Analyze key event performance metrics, encompassing attendance, engagement, conversions, and participant feedback 
+- Conduct 360 Review with key stakeholders on the effectiveness of the event, lessons learned and to identify areas for improvement.
+- Compile and prepare leads for upload to Marketo within 48 hours, , including detailed corresponding notes. Ensure all lead information is accurate and ready for upload
+- Upload event leads
+- Within 48 hours, ensure that a follow-up email is scheduled to be sent to attendees with relevant call-to-action resources."
+- Wrap up and close campaign issue and archive relevant materials.
+
+</details>
+ 
+## 1-2 Weeks Post Event: Evolving for the Future
+
+<details markdown=1>
+
+<summary><b>With one event completed, it's time to reflect, plan, and optimize for the upcoming campaigns.</b></summary>
+
+- Reflect on the successes and challenges of the planning process.
+- Initiate discussions and brainstorming for the upcoming quarter's planning and strategy.
+- Identify opportunities for enhancement and refinement in future endeavors.
+- Begin planning for the next successful event, incorporating lessons learned
+
+</details>
+
+# Post event lead flow for each campaign
+
+after Field Marketing has executed a campaign, the Field Marketing Manager is responsible for ensuring that the campaign has been fully operational to include the following:
+
+- he campaign DRI reviews and cleans up the list following the guidelines for[list imports](/handbook/marketing/marketing-operations/list-import/)
 - SDRs should not be asked to follow up leads before they are added to Salesforce
 - If a follow-up email was to go out to all attendees and no-shows, the FMM is responsible for ensuring that emails were sent.
-- Did the campaign respondents receive the correct amount of MQL points they should have received for the activity the took?
-    - Person score is available to be viewed in our `Custom Links` section of each SFDC campaign. This allows you to view the MQL score of the campaign members, whether they be a lead or contact, all within one view.
+- Did the campaign respondents receive the correct amount of MQL points they should have received the activity they participated in?
+    - Person scores are available for viewing in our `Custom Links` section of each SFDC campaign. This allows you to view the MQL score of the campaign members, whether they be a lead or contact, all within one view.
 - Did a lead/contact hit our MQL threshold and have the SDRs followed up with this record and moved them beyond the [MQL stage](/handbook/marketing/marketing-operations/)?
 - Update all the relevant tabs in the field marketing campaign event planning sheet.
 
@@ -1327,10 +1483,6 @@ TBD
 **Field Marketing Apple ID**
 
 - Log in to the AMER Field Marketing Apple account utilizing the username and password listed under the AMER Field Marketing Apple ID located in the Marketing 1Pass. Please take note of the additional information listed in the notes section regarding cell phone verification.
-
-**Marketo Check-in App**
-
-- Download the Marketo app from the App Store. Sign in using your Marketo login and follow the instructions [HERE](/handbook/marketing/events/#marketo-check-in-app) for details on using the app during events.
 
 **Google Drive and Slides**
 
