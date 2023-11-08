@@ -628,7 +628,7 @@ Coming in 2024, GitLab will offer access to 529 plan investments to US team memb
 - ScholarShare 529 Workplace Savings is a direct deposit program that can make it easy for you and them
 - This plan offers 100% tax-free growth on investment earnings and tax-free withdrawals for qualified expenses, making the most of every dollar you save
 - Online education resources available
-- Easy to manage - you and your family can manage online 
+- Easy to manage - you and your family can manage online
 
 To learn more visit ScholarShare529.com/employer or email: workplace529@scholarshare.com
 
@@ -641,7 +641,7 @@ Coming in 2024, GitLab will offer a student loan guidance products, tools, and e
 GitLab has partnered with Sofi to offer student loan guidance services, discounts & perks, and financial well-being products with SoFi:
 - A central location for team members to focus on financial well-being
 - Team members can review SoFi’s “Student Debt Workbook” and take a financial self-assessment to help navigate their student debt
-- Team members can schedule an appointment with a Sofi Student Loan Specialist to discuss their loans and situation 
+- Team members can schedule an appointment with a Sofi Student Loan Specialist to discuss their loans and situation
 - Delivers impactful discounts, preferred pricing, and exclusive offers on SoFi’s award-winning financial products
 - Arm yourself with knowledge on your journey to financial independence with access to Sofi’s financial library, tools, and resources
 
@@ -685,18 +685,18 @@ If you leave GitLab and would like to rollover your 401(k) account, contact Fide
 
 ### 401(k) Loan Option
 
-You may now take a loan from your GitLab 401(k) Plan. 
-- Loans may be requested online or by calling Fidelity at 800-835-5097 for help to initiate the process online. 
-- Payments will be made via ACH from your personal bank account. 
-- You can request up to 50% of your vested account balance, or $50,000, whichever is less. 
-- An interest rate of Prime + 1% will apply and will be paid to yourself. It’s important to note that loans are repaid with after-tax dollars, meaning you will be “double taxed” on this money – once now, and again at retirement. 
+You may now take a loan from your GitLab 401(k) Plan.
+- Loans may be requested online or by calling Fidelity at 800-835-5097 for help to initiate the process online.
+- Payments will be made via ACH from your personal bank account.
+- You can request up to 50% of your vested account balance, or $50,000, whichever is less.
+- An interest rate of Prime + 1% will apply and will be paid to yourself. It’s important to note that loans are repaid with after-tax dollars, meaning you will be “double taxed” on this money – once now, and again at retirement.
 - Fidelity is available at 800-835-5097 to assist with any additional questions you may have.
 
 ### 401(k) In-Plan Roth Conversion
 
-You may now convert money from your pre-tax source, to the Roth source, all within the 401(k) Plan. 
+You may now convert money from your pre-tax source, to the Roth source, all within the 401(k) Plan.
 - Please consult with your tax advisor as any amount converted will be taxable in the year it is moved to the Roth source.  
-- Fidelity is available at 800-835-5097 to assist you with processing changes or answer any questions you may have. 
+- Fidelity is available at 800-835-5097 to assist you with processing changes or answer any questions you may have.
 
 *Questions on the 401(k) Loan or In-Plan Roth Conversion?*
 - To process changes or to discuss taking a 401(k) Loan or making an In-Plan Roth Conversion, please directly contact Fidelity's team at 800-835-5097.
@@ -835,7 +835,7 @@ If you leave GitLab, all supplemental life insurance is not included in COBRA an
 
 Coming in 2024, GitLab has partnered with PerkSpot: a new discount platform providing Team Members with discounts on over 10,000 brands, including electronics, home goods, mortgages, travel, and more.
 
-PerkSpot is a one-stop shop for thousands of exclusive discounts and in more than 25 different areas of interest: 
+PerkSpot is a one-stop shop for thousands of exclusive discounts and in more than 25 different areas of interest:
 - Quick Links – section that allows you to access various resources to locate savings
 - Local offers – allows you to use your location to see all of the discounts near you, wherever you are
 - Interests – ability to select what your interests are and narrow, search
