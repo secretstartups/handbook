@@ -10,7 +10,7 @@ Categorizing people based on social and other characteristics is a powerful  sur
 
 Biases help the brain create shortcuts for the decision-making process and detect threats. Our unconscious biases are based on our own experiences and they help us detect patterns and find in-groups, a basic survival mechanism below our conscious radar. If unconscious bias goes unchecked, it can lead to fixed general views of how people should act or behave, and/or negative out-spoken attitude towards a person or group.
 
-Everyone has unconscious biases, the goal is to bring them to our consciousness and navigate them. In order to provide a more inclusive and empathetic work environment.
+Everyone has unconscious biases, the goal is to bring them to our consciousness and navigate them, in order to provide a more inclusive and empathetic work environment.
 
 ## How do I recognize it?
 
