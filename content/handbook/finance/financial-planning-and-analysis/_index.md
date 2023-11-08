@@ -31,11 +31,11 @@ Maximize GitLab's long-term valuation by enabling eGroup and FP&A to plan, prior
 ## Our team
 
 FP&A comprises five different sub-teams to support our FP&A goals:
-- [Corporate FP&A](.{{< ref "./corporate-finance" >}})
-- [Sales Finance](.{{< ref "./sales-finance" >}})
-- [Marketing](.{{< ref "./marketing-finance" >}})
-- [R&D](.{{< ref "./r-and-d-finance" >}})
-- [G&A](.{{< ref "./ga-finance" >}})
+- [Corporate FP&A]({{< ref "./corporate-finance" >}})
+- [Sales Finance]({{< ref "./sales-finance" >}})
+- [Marketing]({{< ref "./marketing-finance" >}})
+- [R&D]({{< ref "./r-and-d-finance" >}})
+- [G&A]({{< ref "./ga-finance" >}})
 
 ### Common Links
 
