@@ -219,6 +219,7 @@ In the event of an accident resulting in damage to the rental car, the Non-US re
 - Meals while traveling on Company business  are reimbursable, up to $100 USD (or local equivalent currency) per day.
 - Each Team Member must submit their own receipts for reimbursement, so ensure to separate billing when going to meals with groups of Team Members. If this is not practicable to do due to the group size, then the most senior Team Member present should pay the bill and submit for reimbursement.
 - To be used for team activities and food/beverages associated with travel on Company business. Refer to our Travel Handbook Page.
+- Tips are acceptable up to 20% and should be detailed accordingly in the description box. This should be included in the final price to stay within the Policy limits. For US team members, cash tips under $50 do not need a receipt.
 - Please also add a description for the trip/reason for travel.
 
 {{% panel header="**Coding**" header-bg="green" %}}
@@ -312,9 +313,6 @@ The company will cover all work-related travel expenses. This includes lodging a
 
 - Books are reimbursable if used to optimize your job position.
 - Limit is set to $60/year.
-
-- **Expense Type / Navan Policy Category:** Other
-- **GL Code NON-COGS:** 6080 - Other Travel- Visas, Permits, Covid Tests
 
 {{% panel header="**Coding**" header-bg="green" %}}
 **Expense Type / Navan Policy Category:** Books, dues & subscriptions
@@ -649,6 +647,7 @@ Below is some more information to help you get set up with your [Navan](https://
 - Log into Okta and click the Navan tile.
 - Once you are in your dashboard, make sure to set up your info in your profile (see link from drop down menu under your name).
 - Add your passport information to your profile (only passport information is accepted), this will populate your info directly when booking a flight.
+- Team members can view if their reimbursements have been processed successfully or failed on both mobile and desktop versions. If the reimbursement fails, the team member will receive a notification and how to fix it in Navan.
 - Now let's start booking!
 
 ### Navan Loyalty Program
