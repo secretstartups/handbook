@@ -20,7 +20,7 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 
 ### Audit Committee Earnings Meeting Calendar
 
-### Disclaimer - We anticipate covering the following topics and additional topics will be added as needed. The frequency will be changed as needed. 
+### Disclaimer - We anticipate covering the following topics and additional topics will be added as needed. The frequency will be changed as needed.
 
 #### Accounting and Reporting
 
