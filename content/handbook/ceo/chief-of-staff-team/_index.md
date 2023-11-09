@@ -39,7 +39,7 @@ The primary project used by the CoST to track work specific to our team is [CoS 
 
 ## Kinds of projects CoST to the CEO works on{#what-projects-does-the-cost-work-on}
 
-Given the cross-functional nature of the [Top Cross-Functional Initiatives](/handbook/company/team/structure/working-groups/#top-cross-functional-initiatives) and given these projects are important to the CEO, the CoST is often involved in these initiatives as needed and as team member workload permits.
+Given the cross-functional nature of the [CEO OKRs](/handbook/company/okrs/#okr-process-at-gitlab) and given these projects are important to the CEO, the CoST is often involved in these initiatives as needed and as team member workload permits.
 
 ### Project Criteria
 
