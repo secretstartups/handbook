@@ -1127,6 +1127,39 @@ Do not use a cool term such as "tiger team" when the [existing term of "working 
 
 The last example is when we used 'Prioritizing for Global Optimization' for what we now call a [headcount reset](/handbook/product/product-processes/#headcount-resets). When we [renamed it](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/31101/diffs) we saw a good reduction in the use of this disruptive practice of moving people around.
 
+### Using additional languages
+
+Using American English as our standard language supports our values such as efficiency, results, and transparency.
+Careful use of another person's language can be a celebration of diversity and build an atmosphere of inclusion.
+
+The guidance in this section applies to written one-to-one communication, for example, merge request comments between an author and reviewer, not merge request descriptions or commit messages. Also keep the following in mind:
+
+- Use of an additional language is optional.
+- Stick to the few simple phrases in the table below.
+- Always include the language used and a translation to English.
+- Team members can choose to indicate the languages they speak in their Slack profile.
+- When in doubt, use American English.
+
+**Here's an example:**
+
+> Hey @nmalcolm, I left some suggestions for your merge request. Ka mau te wehi! (Te Reo Māori: great work / well done!)
+>
+> ありがとうございます (Japanese: thank you very much) for the review @cynthia!
+
+| Language | Hello | Thank you | Great work / well done |
+|----------|-------|-----------|------------------------|
+| Croatian | | Hvala | |
+| Japanese | | ありがとうございます | |
+| Te Reo Māori | Kia ora | Ngā mihi  | Ka mau te wehi! |
+
+<!--
+Note to table contributors:
+
+- Keep the list in alphabetical order
+- Provide guidance when required, e.g. regarding plurals, formality, gender. If possible provide simple language that is suitable for all circumstances.
+- Provide a template if the placement of a person's name is important, e.g. "Kia ora `NAME`".
+-->
+
 ### Avoid using Git in Project Names
 
 Avoid using *Git* in the naming of internal and external company related programs (BagGit, GitFit, Gitty, GitIt, etc.). Referencing Git creates an inaccurate perception that GitLab has a narrow focus. While GitLab started as a source control platform, it has become [The DevOps Platform](https://about.gitlab.com/solutions/devops-platform/).
