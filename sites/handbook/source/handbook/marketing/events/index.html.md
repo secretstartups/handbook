@@ -431,7 +431,6 @@ It is important that we are communicating with our customers and prospects when 
    - Join LinkedIn Groups and slack channels dedicated to event.
    - Download event app and engage with attendees via app.
    - You can search for relevant talks and see who has registered for talks that might apply to potential customers.
-   - Follow the [Demandbase list building process](/handbook/marketing/account-based-marketing/demandbase/#glossary) for a FMM Marketo email invite or BDR outreach
 
 #### Email alias usages for outreach
 
