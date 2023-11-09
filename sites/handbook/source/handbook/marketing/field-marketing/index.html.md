@@ -97,7 +97,7 @@ Go to the [Reachdesk page](/handbook/marketing/marketing-operations/reachdesk) f
 ## Digital Tactics
 
 - To run plays where we are targeting a specific geography or where we would like to propose content syndication, we work through our Digital Marketing Programs team. Please create an issue utilizing DMPs [Paid Digital Request Issue Template](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) if you'd like them to do work for you.
-- To run plays where we are targeting a specific list of accounts, we utilize [Demandbase](/handbook/marketing/account-based-marketing/demandbase/).
+- To run plays where we are targeting a specific list of accounts, we utilize [6sense](/handbook/marketing/marketing-operations/6sense/).
 
 ### Tracking success of digital tactics
 Please ensure you are using our UTM tracker (look up `Google Analytics Campaign Tagging Tool - UTM generator for tracking` in the Gdrive to find doc). In order to identify which campaigns are from the Field Marketing team, you must add the letters fmm at the end of your campaign name in column E. All lowercase with no spaces or special characters. This allows us to pull ROI reporting, so please don't leave these letters out or else you will lose reporting from a dashboard standpoint.
@@ -1730,8 +1730,8 @@ At times, Field Marketers may want to create a SPIF (sales performance incentive
 
 Account based marketing is separate but sits next to field marketing. For info on account based marketing, please head over to the [ABM page](/handbook/marketing/account-based-marketing/).
 
-## FMM DB1 Use Cases and set up
-Can be found on the [DemandBase1 Handbook page.](/handbook/marketing/account-based-marketing/demandbase/#field-marketing-use-cases)
+## FMM 6sense Use Cases and set up
+Field Marketing use cases are being migrated from Demandbase to 6sense. More info can be found on the [6sense Handbook page.](/handbook/marketing/marketing-operations/6sense/)
 
 # Field Marketing during COVID-19 Pandemic
 The health and safety of our team members continue to be a top priority.  If you are a Marketer who is planning on attending an event, please follow instructions listed in our [Policy & Guidelines](https://about.gitlab.com/handbook/travel/#policy-and-guidelines) section.
