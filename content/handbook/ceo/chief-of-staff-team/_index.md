@@ -218,7 +218,7 @@ While there are rare exceptions, members of the Chief of Staff team are not fore
 1. The exit criteria for the CoST
 1. If required, the long-term plan for ongoing initiative or project support
 
-Chief of Staff Team members can be reassigned based on the needs of the business and priorities of the CEO. In most cases, a member of the Chief of Staff team will remain with a project until the exit criteria for the CoST is achieved. If a project extends beyond its anticipated timeframe or priorities change, a member may have to leave a project before the agreed upon exit criteria is achieved. 
+Chief of Staff Team members can be reassigned based on the needs of the business and priorities of the CEO. In most cases, a member of the Chief of Staff team will remain with a project until the exit criteria for the CoST is achieved. If a project extends beyond its anticipated timeframe or priorities change, a member may have to leave a project before the agreed upon exit criteria is achieved.
 
 When a member of the Chief of Staff Team exits an ongoing intitiative they will:
 
