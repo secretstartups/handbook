@@ -387,6 +387,33 @@ Reminder: France requires contracts to be individually drafted by the Legal team
 
 Always ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 
+## Creating a French Offer
+
+1. You will receive a req to create a French Offer.
+1. Please ensure that you complete the [SSOT document](https://docs.google.com/spreadsheets/d/1HQxOwt30v1qffulaZay61aj_A5edQgb_zfBrhoq0CgA/edit#gid=0).
+1. Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
+1. Send the SSOT form to the Legal Team in the [Frenchcontracts_CES](https://gitlab.slack.com/archives/C05R0R495L6) requesting assistance with the offer. When making the request in the channel, please indicate the candidate's name and their number on the SSOT document.
+1. One of the Legal Team members will respond with the following information:
+    - The GreenHouse Offer Template that you should use (A,B or C)
+    - The wording that should be added to the template (including information on where the wording should be placed). This wording will be placed as provided by Legal on both the English & French sides in English.
+    - If the offer does not include draw language, Legal will confirm which part of the offer template should be removed.
+
+Once this information has been received, please go onto GH and follow the steps below:
+1. Click on the settings icon
+1. Select ‘Offer Templates’ on the left-hand side
+1. Search for the Template as advised by Legal
+    - A: France (35 hour w OTE & draw) [use for ETAM only] CES TO EDIT
+    - B: France (35 hour w OTE & draw) [Cadre ONLY] CES TO EDIT
+    - C: France (218 day w OTE and draw) [Cadre ONLY] CES TO EDIT
+1. Click on the three dots on the right-hand side of the template you will be using and select the ‘download’ tab
+1. Open the document in Google Docs
+1. Make all the changes as advised by the Legal Team and save the document
+1. Go back to the offer templates page on GH
+1. Click on ‘Upload New’ on the right-hand side
+1. Upload the amended document
+1. Then follow the normal offer creation process in GH and select your uploaded document as the offer template for this offer.
+1. Please remember to delete this template once you have completed the process and the offer has been signed by the signatory & the candidate
+
 ## CXC (NOTE: HIRING IS CURRENTLY PAUSED HERE: Please speak with Enablement before sending offer letters)
 
 GitLab is working in partnership with [CXC Global](http://cxcglobal.com/) to employ GitLab team-members located in **Poland**, **Ukraine**, **Romania**, **Russia**, **Serbia**, & **Slovenia**. The actual employment contracts will be sent and issued by CXC and are in accordance with local labor law. CXC also handles the processing and payment of payroll and associated taxes and compliance in each of the countries on behalf of GitLab. The contracts themselves are between the individual and CXC.
