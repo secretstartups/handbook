@@ -208,7 +208,7 @@ The Senior Manager, Solutions Architects is a [grade 9](/handbook/total-rewards/
 
 ### Director, Solutions Architects
 
-The Director, Solutions Architects reports to the VP, Customer Success.
+The Director, Solutions Architects reports to the VP, Solutions Architecture.
 
 #### Director, Solutions Architects Job Grade
 
@@ -241,7 +241,7 @@ The Director, Solutions Architects is a [grade 10](/handbook/total-rewards/compe
 
 ### Senior Director, Solutions Architects
 
-The Senior Director, Solutions Architects reports to the VP, Customer Success.
+The Senior Director, Solutions Architects reports to the VP, Solutions Architecture.
 
 #### Senior Director, Solutions Architects Job Grade
 
