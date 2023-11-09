@@ -343,10 +343,10 @@
 [support-readiness]
 /content/handbook/support/readiness/ @lyle @jcolyer @gitlab-com/egroup @gitlab-com/handbook
 
-^[teampps]
-/content/teamops/ @nshah19 @streas @cynthia
-/content/handbook/teamops/ @streas @cynthia
-/content/handbook/teamops/partners.md @jmoverley @streas @cynthia
+^[teamops]
+/content/teamops/ @nshah19
+/content/handbook/teamops/ @nshah19 @bbehr
+/content/handbook/teamops/partners.md @jmoverley @nshah19
 
 ^[total-rewards]
 /content/handbook/total-rewards/ @shristikauffman @mwilkins
