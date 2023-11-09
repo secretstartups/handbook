@@ -218,8 +218,8 @@ Compared with people at low-trust companies, people at high trust companies repo
 
 #### Additional resources on trust building
 
-* [How to build and rebuilt trust - Ted Talk](https://www.ted.com/talks/frances_frei_how_to_build_and_rebuild_trust/)
-* [New to the Team? Here’s How to Build Trust (Remotely) - Harvard Business Review](https://hbr.org/2021/03/new-to-the-team-heres-how-to-build-trust-remotely)
+1. [How to build and rebuilt trust - Ted Talk](https://www.ted.com/talks/frances_frei_how_to_build_and_rebuild_trust/)
+1. [New to the Team? Here’s How to Build Trust (Remotely) - Harvard Business Review](https://hbr.org/2021/03/new-to-the-team-heres-how-to-build-trust-remotely)
 
 ## GROW Model
 
