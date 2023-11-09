@@ -1102,6 +1102,17 @@ In general, the [YYYYMMDD_SurveyName](https://engage-ab.marketo.com/?munchkinId=
 - Due to the potential set-up complexities for raffles, Marketing Ops will need to be involved. You can add the `MktgOps::00:Triage` and `MktgOps-Support` labels to your `Marketo LP and Automation` issue for assistance with set-up.
 - If you are not using a landing page, MarketingOps will help you determine the correct processing for this campaign.
 
+## Updating Member Statuses for Owned Events from Marketo Programs
+
+Once an `Owned Event` (that included a GitLab-run landing page where we collected leads) is complete, DRIs are able to update the member statuses directly from Marketo, versus submitting a [lead list upload](/handbook/marketing/marketing-operations/automated-list-import/). **NOTE:** This is **ONLY** for status changes. If you have notes to add to leads, you will need to submit a [lead list upload](/handbook/marketing/marketing-operations/automated-list-import/).
+
+1. Log into Marketo and click into the appropriate program for your campaign
+1. Click on the `Members` tab at the top of the page
+1. Click on the line item for the member that requires a status change
+1. Select `Change Status` at the top of the screen
+1. Select the appropriate status in the drop down (`Attended`, `Follow up Requested`, `No Show`, etc.)
+1. Marketo will take a few moments to adjust the status and then the status will be updated
+
 ## Removing Registrations from Marketo Programs
 
 Once a landing page has been set up for a campaign, it is good practice to have multiple people test the registration to make sure everything is integrated and running properly. As a result, there are often various test registrations in the Marketo program. To remove these test registrations, follow the below instructions.

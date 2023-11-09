@@ -24,5 +24,5 @@ Interesting Moments show in two places on records, in the Marketo Sales Insight 
 |`Filled out startup application form`|Startup applicant|[FY20_Startup Application](https://gitlab.my.salesforce.com/7014M000001lkwy?srPos=0&srKp=701)|Pass to `User: Community Advocate`|
 |`HandRaise PQL - Contact Us`|Requested contact via in product [handraise](/handbook/product/product-principles/)|[Request - Hand Raise PQL](https://gitlab.my.salesforce.com/7014M000001viyX?srPos=0&srKp=701)|Follow Up|
 |`Engaged with Content Track: {{lead.PathFactory Experience Name}}, Session Engagement Time (seconds): {{lead.PathFactory Engagement Time}}`| Fast Moving Buyer alert from PathFactory |[PF - Fast Moving Buyer Alert](https://gitlab.my.salesforce.com/7014M000001derO?srPos=0&srKp=701)| No action necessary|
-|`Drift Conversation`|Took part in a Drift conversation|None|No action, already conversed via Drift|
 |`Created from GitLab Subscription Portal`|Lead started the web direct purchase process (may or may not be completed)|N/A|Check for duplicates with `Web Direct`|
+|`Downloaded XX from 3rd Party site: Integrate`| GitLab owned assets downloaded via content syndication platform|Various|Navigate to Campaign history/campaign details to see the asset and campaign description|

@@ -51,10 +51,6 @@ PathFactory is not a single source of truth (SSoT) for all GitLab content, but r
 
 **PathFactory** - Content experience software used to allow buyers to binge-consume content, remove friction, and create more qualified leads, faster.
 
-## PathFactory for Sales
-
-[PathFactory for Sales](/handbook/marketing/marketing-operations/pathfactory/pathfactory-for-sales) allows B2B sales teams to deliver and track personalized content to engage buyers and close deals. 
-
 ## Access
 
 The Marketing Operations team is responsible for managing access requests & provisioning the appropriate level of access for each role/function. PathFactory is not provisioned as a baseline entitlement. If you or your team require access, please open a [`Single Person Access Request` issue](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) and provide business reason why access is needed. For certain permissions or roles, you may be required to go through training before access is provisioned.

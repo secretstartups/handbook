@@ -733,6 +733,11 @@ With Marketo automation we are then using these two fields to hide the phone num
 
 For more information, please visit this [figjam flow chart](https://www.figma.com/file/wzZ7RDnB1cZdnvusqwW5gN/Communication-Compliance---Process-Updates---External-DNC-Lists_2023-09-11_14-17-56?type=whiteboard&t=5P5tqzwIXFwJe8jd-1).
 
+#### Do Not Do Business
+In some cases, there are companies we do not do business with. If an account is flagged, Mops should take the following steps to ensure they are not included in any of our communications moving forward.
+1. Add the customer account to the [DNDB campaign](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC34761A1ZN19) in Marketo. Use the SFDC Account ID and update `contains` with the email domain, if sepcific to that company. Click Schedule > `Run once`. (This will also run nightly.) This flow updates the lead/contacts to `unsubscribe``, removes them  from Security Distro, marks email as invalid, marks as `Do Not Call``, updates person status to `Ineligible`, and marks the reason as `ECCN - Do Not do Business`
+2. No need to check Iterable for the email address. They will be removed via API, as Marketo sends unsubscribes over via webhook to Iterable automatically once `unsubscribe = true`.
+
 ### Zoominfo Opt Out Lists
 {: .no_toc}
 
