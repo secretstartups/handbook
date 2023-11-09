@@ -96,7 +96,29 @@ The Platforms section builds and maintains various tools to help deploy, operate
 
 ### OKR
  
-OKRs (or other items outside of projects) that require status tracking should be updated each Wednesday. When updating the progress percentage of any given KR, it is not necessary to provide extensive notes. One sentence with a link to a larger update is sufficient in most cases. It is also acceptable to do a check-in without providing a note, but be advised that several updates in a row with no percentage change, and no additional details will need to be discussed with your manager.
+OKRs (or other items outside of projects) that require progress tracking should be updated **every Wednesday**.
+
+The OKR Description should have the following format:
+
+```
+### Context
+
+<context about the Objective and the problem it is trying to solve>
+
+### Linked Epics
+
+| Epic Title | Epic Link |
+| ---------- | --------- |
+| <title>    | <link>    |
+
+### Scoring Criteria
+
+<This section should list the Scoring Criteria of each Key Results part of the Objective. Different KRs could contribute with different weights to the Objective completion>
+```
+
+If an Objective description also needs other sections, these can be added after the block above.
+
+All the statuses of the Epics linked to the OKR (`Linked Epics` table) should be updated each Wednesday, to prevent drift between OKR's and linked epics.
 
 ## Platforms Learning Path
 
