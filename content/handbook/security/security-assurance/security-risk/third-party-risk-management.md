@@ -257,7 +257,9 @@ In specific instances, requirements for the performance or contents of TPRM revi
 
 #### Freeware
 
+GitLab Team Members leverage freeware for various tasks on a user-by-user basis. These tools are often developed by smaller organizations which may not have the bandwidth to respond to our security inquiries. In the interest of team member efficiency and the bandwidth of these organizations, and with the limited footprint of these tools in mind, our documentation and inquiry requirements for freeware are comparitively less robust than those set for larger-scale enterprise applications. As such, we place more reliance on 3rd party security attestations and BitSight scoring when completing our assessments for freeware. 
 
+Deficiencies identified during the assessment of Freeware applications are reported in alignment with our **TPRM Risk Acceptance** procedures detailed below.
 
 
 #### Change Requests
