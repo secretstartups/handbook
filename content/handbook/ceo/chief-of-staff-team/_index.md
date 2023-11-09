@@ -223,11 +223,11 @@ Chief of Staff Team members can be reassigned based on the needs of the business
 When a member of the Chief of Staff Team exits an ongoing intitiative they will:
 
 1. Provide as much notice as possible that the CoST will no longer support the initiative
-1. Document their key responsibilities 
+1. Document their key responsibilities
 1. Support a project DRI in identifying new owners
 1. When possible, stay engaged in the initiative in a limited capacity during an agreed upon transition period
 
-There may be instances in which the CoST leaving leads to a project scope being reduced in scope or deprioritized. In there instances, the CoST member will be responsible for engaging key stakeholders around the keep/expand scope or go/no-go decision. It will be clearly documented and key folks will be involved in the decision and aware of the outcome. 
+There may be instances in which the CoST leaving leads to a project scope being reduced in scope or deprioritized. In there instances, the CoST member will be responsible for engaging key stakeholders around the keep/expand scope or go/no-go decision. It will be clearly documented and key folks will be involved in the decision and aware of the outcome.
 
 ## Quarterly Kickoff
 
