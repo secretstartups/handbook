@@ -670,6 +670,7 @@ Examples of when not to quarantine a test:
 If a test is failing and you have good reason to quarantine it quickly you can [fast quarantine](https://gitlab.com/gitlab-org/quality/engineering-productivity/fast-quarantine/-/blob/main/README.md) it. Fast quarantine can be done by a single person, without requiring review by another engineer.
 
 You should use fast quarantine to unblock deployment pipelines and MRs if the failure is disruptive and you've ruled out bugs as the cause of the failure (e.g., you've identified that the test is stale, or flaky).
+Note that quarantining E2E specs in live environments pipelines is not yet supported and is being tracked at [issue#1980](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks/-/issues/1980).
 
 > **Note**: Failing `:reliable` or `:smoke` tests in the `e2e: test-on-gdk` child pipeline will block MR pipelines as well as scheduled master pipelines. Failures of those tests are good candidates for fast quarantine.
 
