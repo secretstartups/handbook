@@ -167,7 +167,7 @@ Digital Marketing will recommend specific channels based on your campaign goals.
 * Paid Display
    - GDN (Google Display Network) - Display Image Ads, Responsive Display Ads
    - DV360 (Google Display & Video 360) - Programmatic Display Image Ads, Responsive Display Ads, Access to private ad networks
-   - Demandbase is a digital marketing platform for Display only, mainly used to target specific accounts. Please note that Demandbase is managed by the ABM team, partnering with Demandbase directly.  Please contact the ABM team (focuses on Tier 1,2,3 accounts) and Field Marketing team (focuses on named accounts) if you would like to create a Demandbase campaign, or check out the [DemandBase page](/handbook/marketing/account-based-marketing/demandbase/) for more info.
+   - 6sense is a digital marketing platform for Display only, mainly used to target specific accounts. Please note that 6sense is managed by the ABM team, partnering with 6sense directly.  Please contact the ABM team (focuses on Tier 1,2,3 accounts) if you would like to create a 6sense campaign, or check out the [6sense page](/handbook/marketing/marketing-operations/6sense/) for more info.
    - BuySellAds
 * Sponsorships (Publisher Engagements): 
    - Participating in Virtual Event (Virtual Conference, Panel, Talking Head, All-Day Event/Summit)
