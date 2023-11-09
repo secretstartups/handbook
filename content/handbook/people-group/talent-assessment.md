@@ -108,15 +108,16 @@ Examples:
 
 Note that this is an expected distribution, not a forced distribution. The bell curve distribution aligns with what is most commonly used as a benchmark in the industry and serves as a baseline for us to review and calibrate against. There may be exceptions that are justified that can be discussed and reviewed during calibration. Where deviations from the expected distribution occur, managers should use this as a data point to further review and work with their leadership to ensure appropriate growth plans are in place, proper role fit exists, hiring plans are adjusted, that we are promoting at a fair and accurate rate.
 
+**We expect roughly ~5% of team members to be assess as [TNTR (Too New To Rate)](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#too-new-to-rate).**
 Performance:
 
-- **Developing**: 10-15%, not yet meeting all of the expectations
+- **Developing**: 10%, not yet meeting all of the expectations
 - **Performing**: 60-65%, “on track” and meeting expectations
 - **Exceeding**: 25%, consistently surpasses the demands of their current role
 
 Growth Potential:
 
-- **Developing**: 10-15%
+- **Developing**: 10%
 - **Growing**: 60-65%
 - **Exceeding**: 25%
 
