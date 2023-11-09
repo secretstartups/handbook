@@ -24,17 +24,7 @@ The Developer Relations team manages the Discord server with support from Contri
 
 ## Discord Community Overview
 
-Our server has several channels dedicated to different topics of discussion. Here's a quick overview of the channels and what they're for:
-
-| Channel | Purpose |
-| ------ | ------ |
-| `#announcements` | Staff will use this channel to share news and announcements. |
-| `#general` | Main channel for generation discussions or questions. |
-| `#discord` | Discord server related discussions. |
-| `#contribute` | Contribution discussions focused on the making & enhancing of GitLab. |
-| `#pairing` | Community members pair programming on specific issues. |
-
-There are also more specific channels for the hackathon, events, and community-based support.
+Our server has several channels dedicated to different topics of discussion. Channels include `#announcements`, `#general`, and `#contribute`. There are also channels for more specific discussions like `hackathon`, `events`, and community-based support.  Channels can be **Internal** which means access is limited to members with specific roles within the server. 
 
 ## Moderation
 
