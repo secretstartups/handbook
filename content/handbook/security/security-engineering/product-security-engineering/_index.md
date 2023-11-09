@@ -40,10 +40,14 @@ Depending on the nature of the work it is added either to:
 - [Internal Issue Board (gitlab-com)](https://gitlab.com/groups/gitlab-com/-/boards/7098644) (AppSec Automation needs)
 - [Product Issue Board (gitlab-org)](https://gitlab.com/groups/gitlab-org/-/boards/7098625) (Product Security enhancements, paved roads, etc)
 
-Work that is taken on by Product Security Engineering should have the `~"team::Product Security Engineering"` label and either:
+When we take on work:
 
-- meet the criteria defined in [Automation Request template](https://gitlab.com/gitlab-com/gl-security/product-security-engineering/product-security-engineering-team/-/blob/main/.gitlab/issue_templates/automation_request.md) for automation work, or
-- be updated to include exit criteria, such as which Product Team we hand it over to upon completion
+1. Add the `~"team::Product Security Engineering"` label
+1. For internal issues: ensure it meets the criteria defined in [Automation Request template](https://gitlab.com/gitlab-com/gl-security/product-security-engineering/product-security-engineering-team/-/blob/main/.gitlab/issue_templates/automation_request.md) for automation work, or
+1. For product issues:
+    1. Identify the relevant PM/EM are based on `group::` labels. If there are no `group::` labels, make a best effort to figure out what group it would be relevant to.
+    1. Ping the group's PM/EMs. Say that we're working on this issue, do your best to align with any existing efforts, and highlight that after release it will belong to their team (similar to a community contribution).
+    1. If we can't figure it out an owner, don't ping anybody.
 
 ### Removing work items from the backlog
 
@@ -62,6 +66,7 @@ Like [Single Engineer groups](https://about.gitlab.com/handbook/engineering/incu
 - We use the labels, outcomes, and activities described [Product Development Flow](/handbook/product-development-flow/), but have the flexibility to skip the process where it's not needed
 - All Product Security Engineering team members can contribute to validation, refinement, and solution design
 - All Product Security Engineering team members can contribute to the prioritization, but the Security Engineering Manager is DRI
+- New projects should follow the ["Creating a new project"](https://about.gitlab.com/handbook/engineering/gitlab-repositories/#creating-a-new-project) engineering guidance
 - Unless the effort is AppSec automation, the workflow ends by handing over the feature to a Product team
 
 ### Weights
