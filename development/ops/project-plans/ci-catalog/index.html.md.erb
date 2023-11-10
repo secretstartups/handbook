@@ -23,15 +23,66 @@ Global CI Catalog Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11674](htt
 
 <%= partial "handbook/engineering/development/ops/project-plans/partials/_ci_catalog_beta_progress_intro.erb", locals: { filter_value: "Pipeline Authoring" } %>
 
-### October to November (Milestone 16.6)
+### November to December (Milestone 16.7)
 
-#### 2023-11-03 Updates:
-- MR related to [Add global Catalog arguments to GraphQL](https://gitlab.com/gitlab-org/gitlab/-/issues/429103) once merged early next week will allow frontend to move forward to release MVC early next week.
-- Bug was uncovered in [Fix regexp to scan for component files](https://gitlab.com/gitlab-org/gitlab/-/issues/430344) during pairing session with Support.  Currently in `~workflow::in review`.
-  - Caused by the `regexp` being too [strict](https://gitlab.com/gitlab-org/gitlab/-/blob/4528abb157e1145f7ef63c5e3b95777dc35f1ce4/app/models/ci/catalog/components_project.rb#L12).
-- At the moment, there are not any concerns with the work that is currently open in the list and blockers are continuing to get completed to unblock other issues.
+#### Updates:
+
+[CI Catalog - Pages & Navigation](https://gitlab.com/groups/gitlab-org/-/epics/11841)
+
+- 50% complete, On Track, ETA: 16.7
+- Status: Experimental released under feature flag to internal users on `2023-11-10`
+- Risks/Blockers: None at this time.
+
+[CI Catalog - Search & Filter](https://gitlab.com/groups/gitlab-org/-/epics/10918)
+
+- 63% complete, On Track, ETA: 16.7
+- Status:  BE/FE work is in-progress for indexes to be added for use with search bar
+- Risks/Blockers: None at this time.  Post-Beta, further performance analysis needs to happen and talk with GlobalSearch on current implementation.
+
+[CI Catalog - Release Process refinements](https://gitlab.com/groups/gitlab-org/-/epics/11842)
+
+- 56% complete, On Track, ETA: 16.7
+- Status:  BE work is in-progress to accommodate back and forth toggle and data migration to update state and metadata to existing catalog resources.
+- Risks/Blockers: None at this time. 
+
+### Milestone 16.8 (December 16, 2023 - January 12, 2024) 
 
 #### Goals:
+- Post-Beta instrumentation implementation 
+- Enforcing use of semantic versioning for catalog resources in [https://gitlab.com/gitlab-org/gitlab/-/issues/427286](https://gitlab.com/gitlab-org/gitlab/-/issues/427286).
+- Prioritized bug work from feedback from users.
+- Rework the release workflow with using a button and checkbox for marking project as catalog resource
+- Incorporate use of release REST API to publish components by release in [https://gitlab.com/gitlab-org/gitlab/-/issues/428142](https://gitlab.com/gitlab-org/gitlab/-/issues/428142)
+
+### Milestone 16.9 (January 13, 2024 - February 9, 2024)
+
+#### Goals:
+
+### Milestone 16.10 (February 10, 2024 - March 8, 2024)
+
+#### Goals:
+
+### Milestone 16.11 (March 9, 2024 - April 12, 2024)
+
+#### Goals:
+
+### Milestone 17.0 (April 13, 2024 - May 10, 2024)
+
+#### Goals:
+- [ ] **CI Catalog GA**
+
+### Milestone 17.1 (May 11, 2024 - June 14, 2024)
+
+#### Goals:
+
+### Milestone 17.5 (September 14, 2024 - October 11, 2024)
+
+#### Goals:
+
+### Archive
+
+### October to November (Milestone 16.6)
+
 - CI Catalog - Pages & Navigation 
   - [x] [Move shared components to Free Tier](https://gitlab.com/gitlab-org/gitlab/-/issues/428068)
   - [x] [Add route and nav for Global CI/CD Catalog](https://gitlab.com/gitlab-org/gitlab/-/issues/427938)
@@ -67,59 +118,6 @@ Global CI Catalog Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11674](htt
   - [ ] [Create a migration to update state and add metadata to existing catalog resources](https://gitlab.com/gitlab-org/gitlab/-/issues/416292)
 - Completion of [Inputs Enhancements]
   - [x] [Support options: with inputs defining default: value](https://gitlab.com/gitlab-org/gitlab/-/issues/393401)
-
-### November to December (Milestone 16.7)
-
-#### Goals:
-- CI Catalog - Pages & Navigation 
-  - [ ] [Enable FF `global_ci_catalog`](https://gitlab.com/gitlab-org/gitlab/-/issues/427940)
-  - [ ] [Make Catalog resource ID become the fullpath of a resource](https://gitlab.com/gitlab-org/gitlab/-/issues/428949)  
-  - [ ] [Fix breadcrumb to continue to project reference](https://gitlab.com/gitlab-org/gitlab/-/issues/421922)  
-  - [ ] [Remove namespace catalog](https://gitlab.com/gitlab-org/gitlab/-/issues/429669)
-  - [ ] [Add version_tag argument to ciCatalogResource](https://gitlab.com/gitlab-org/gitlab/-/issues/429279)
-- CI Catalog - Search & Filter
-  - [ ] [Update the CI Catalog index to only show published catalog resources](https://gitlab.com/gitlab-org/gitlab/-/issues/415414)
-- CI Catalog - Release Process refinements 
-  - [ ] 
-
-### Milestone 16.8 (December 16, 2023 - January 12, 2024) 
-
-#### Goals:
-- CI Catalog - Pages & Navigation 
-  - [ ] [Restricting access to draft catalog resource details pages](https://gitlab.com/gitlab-org/gitlab/-/issues/429241)
-- CI Catalog - Search & Filter
-  - [ ] [Add periodic worker to ensure catalog_resources name and description columns stay in sync with projects table](https://gitlab.com/gitlab-org/gitlab/-/issues/429376)
-- CI Catalog - Release Process refinements 
-  - [ ] Rework the release workflow with using a button and checkbox for marking project as catalog resource
-  - [ ] [Incorporate use of release REST API to publish components by release](https://gitlab.com/gitlab-org/gitlab/-/issues/428142) 
-- [ ] [Enforcing use of semantic versioning for catalog resources](https://gitlab.com/gitlab-org/gitlab/-/issues/427286)
-
-### Milestone 16.9 (January 13, 2024 - February 9, 2024)
-
-#### Goals:
-
-### Milestone 16.10 (February 10, 2024 - March 8, 2024)
-
-#### Goals:
-
-### Milestone 16.11 (March 9, 2024 - April 12, 2024)
-
-#### Goals:
-
-### Milestone 17.0 (April 13, 2024 - May 10, 2024)
-
-#### Goals:
-- [ ] **CI Catalog GA**
-
-### Milestone 17.1 (May 11, 2024 - June 14, 2024)
-
-#### Goals:
-
-### Milestone 17.5 (September 14, 2024 - October 11, 2024)
-
-#### Goals:
-
-### Archive
 
 ### Week of October 2, 2023
 
