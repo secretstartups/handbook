@@ -15,13 +15,15 @@ twitter_creator: '@gitlab'
 ## Verticurl Agency Overview
 {: #overview .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+We are no longer working with verticurl. 
+
 The Verticurl team will be working with GitLab to execute various tasks in Marketo. Review and approval is expected of issue requesters, and the project managment pass of issues will take place between GitLab and Verticurl. `@dambrold` will be overall liason for requests coming from Campaigns, Partner, and Corporate, while the regional Field Marketing leaders will be responsible for passing issues on behalf of Field Marketing. `@priya_sridhar` will be responsible for assignment to team members within Verticurl.
 
 ### Process documentation shortcuts for Verticurl
 {: #shortcuts .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- [Sales Nominated Invitations](/handbook/marketing/lifecycle-marketing/emails-nurture/#sales-nominated)
+- [Sales Nominated Invitations](/handbook/marketing/lifecycle-marketing/email-processes-requests/#sales-nominated)
 - [Marketo Program + Salesforce Campaigns](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up)
 - [Workshop Landing Page and Marketo Setup](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-logistical-set-up)
 
