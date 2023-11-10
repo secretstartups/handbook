@@ -11,10 +11,11 @@ title: "Scalability Group"
 
 ## Common Links
 
-| **Workflow** | [Team workflow](/handbook/engineering/infrastructure/team/scalability/#how-we-work) | |
-| **GitLab.com** | `@gitlab-org/scalability` | |
-| **Issue Trackers** | [Scalability](https://gitlab.com/gitlab-com/gl-infra/scalability) | |
-| **Slack Channels** | [#g_scalability](https://gitlab.slack.com/archives/g_scalability) / `@scalability-team` | <br/>[#infrastructure-lounge](https://gitlab.slack.com/archives/infrastructure-lounge) (Infrastructure Group Channel), <br/>[#incident-management](https://gitlab.slack.com/archives/incident-management) (Incident Management),  <br/>[#alerts-general](https://gitlab.slack.com/archives/alerts-general) (SLO alerting), <br/>[#mech_symp_alerts](https://gitlab.slack.com/archives/mech_symp_alerts) (Mechanical Sympathy Alerts) |
+| **Workflow** | [Team workflow](/handbook/engineering/infrastructure/team/scalability/#how-we-work) | 
+| **GitLab.com** | `@gitlab-org/scalability` | 
+| **Issue Trackers** | [Scalability](https://gitlab.com/gitlab-com/gl-infra/scalability) | 
+| **Team Slack Channels** | [#g_scalability](https://gitlab.slack.com/archives/g_scalability) - Company facing channel <br/> [#g_scalability_observability](https://gitlab.slack.com/archives/g_scalability_observability) - Team channel <br/> [#g_scalability_practices](https://gitlab.slack.com/archives/g_scalability_practices) - Team channel<br/> [#scalability_social](https://gitlab.slack.com/archives/g_scalability_social) - Group social channel|
+| **Information Slack Channels** | [#infrastructure-lounge](https://gitlab.slack.com/archives/infrastructure-lounge) (Infrastructure Group Channel), <br/>[#incident-management](https://gitlab.slack.com/archives/incident-management) (Incident Management),  <br/>[#alerts-general](https://gitlab.slack.com/archives/alerts-general) (SLO alerting), <br/>[#mech_symp_alerts](https://gitlab.slack.com/archives/mech_symp_alerts) (Mechanical Sympathy Alerts) |
 
 ### Project Management Links
 
@@ -208,20 +209,56 @@ and Performance Refinement process](/handbook/engineering/workflow/#process-1) t
 
 ## How we work
 
-### Meetings and Scheduled Calls
+### Communication
+
+Everything is written in epics, issues, runbooks or the handbook. 
+Decisions or important information in Slack must be copied into a relevant location so that the information is persisted beyond the 90-day Slack retention policy.
+
+#### Slack Channels and Guidelines
+
+We communicate in public using the following channels:
+
+1. [#g_scalability](https://gitlab.slack.com/archives/g_scalability) - Company facing channel where other team members can reach out to us. We also use this channel for highlighting work we have done. 
+2. [#g_scalability_observability](https://gitlab.slack.com/archives/g_scalability_observability) - Team channel where daily work information is shared and team coordination takes place.
+3. [#g_scalability_practices](https://gitlab.slack.com/archives/g_scalability_practices) - Team channel where daily work information is shared and team coordination takes place.
+4. [#scalability_social](https://gitlab.slack.com/archives/g_scalability_social) - Group social channel.
+
+In the team channels, team members are encouraged to share what they are working and any blockers they may have.
+The format is not fixed so that people share in a way that feels natural to them. 
+
+In addition to the channels above, we create a project channel per epic when appropriate. 
+A channel dedicated to a project helps to keep everything about the topic in one place and makes it easy to stay up to date on that topic. 
+It is useful for teams working across time zones or for getting back up to speed after being on leave.
+The DRI for a project owns the project Slack channel. 
+
+#### Meetings and Scheduled Calls
 
 We prefer to work asynchronously as far as possible but still use synchronous communication where it makes sense to do so.
+Asynchronous communication is the best way to make sure everyone, regardless of timezone or availability, is included. 
 
-To that end, the only regular calls are the demo calls.
+To keep people connected, team members are encouraged to schedule at least one coffee-chat with another team member each week. 
 
-- Weekly we have at least one demo call. The time of the call differs each week to try to get people from different timezones to join
-different calls. The purpose of this call is to showcase something that you have been working on during that week. It does not have to be
-perfect or polished. Items should be added to the [agenda](https://docs.google.com/document/d/13TW4x3ofw0RxifZvZ7eNvrPxFnnXmhzQ8fal3fhYgjg/edit#)
-ahead of the meeting. If there are no agenda items at that time, the call is cancelled for that week.
-The call should be recorded and added to GitLab Unfiltered. Please use your discretion when choosing the visibility level as some screen shares contain private data. If you upload a private video, please add information in the description for why this visibility was chosen. A [playlist of the recordings](https://www.youtube.com/playlist?list=PL05JrBw4t0Kphnnvtz9CDatQAVGs_q2Cv) is available on GitLab Unfiltered.
+#### Demo Calls
 
-Lastly, in order to keep people connected, team members schedule at least one coffee-chat with another team member each
-week. These are at times that will best suit them as it may be an unusual hour given the various timezones and working hours for each person.
+There is one demo call per week.
+The time of the call differs each week to try to get people from different timezones to join different calls. 
+The purpose of this call is to showcase something that you have been working on during that week. It does not have to be perfect or polished. 
+These calls are a technical conversation and while we might land up with guidance on what we are working on, the purpose is not to make fixed decisions on this call. 
+
+Items should be added to the [agenda](https://docs.google.com/document/d/13TW4x3ofw0RxifZvZ7eNvrPxFnnXmhzQ8fal3fhYgjg/edit#) ahead of the meeting. 
+If there are no agenda items at that time, the call is cancelled for that week.
+
+The call should be recorded and added to GitLab Unfiltered. Please use your discretion when choosing the visibility level as some screen shares contain private data. If you upload a private video, please add information in the description for why this visibility was chosen. 
+A [playlist of the recordings](https://www.youtube.com/playlist?list=PL05JrBw4t0Kphnnvtz9CDatQAVGs_q2Cv) is available on GitLab Unfiltered.
+
+#### Communicating our work schedule to others
+
+It is important that team-members know when we are available, so we keep our calendars updated. 
+
+1. We use the "working hours" settings in Google calendar.
+2. We indicate "async only" periods if we need them during our working hours.
+3. Our PTO tracker is linked to the group Google calendar using `gitlab.com_3puidsh74uhqdv9rkp3fj56af4@group.calendar.google.com` as an additional calendar in the Calendar Sync settings. 
+4. Any team members with on-call responsibilities should share their Pager Duty calendar with their manager.
 
 ### Impact
 
