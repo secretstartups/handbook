@@ -100,6 +100,8 @@ More information can be found below:
 
 Team members in Denmark can also access the [public healthcare system](https://www.healthcaredenmark.dk/). This healthcare system covers all the team members and their family members.
 
+Team members can expense up to $250 for eye examination and glasses if they require corrective eyeware to work at a computer screen for extended periods of time. (Login required to see [policy](https://support.remote.com/hc/en-us/articles/20050865403149-Screen-Work-Eye-Examination))
+
 ### Pension
 
 Remote will directly contribute to a Group Pension Plan (Soderberg & Partners). The team member will contribute 4% of the monthly base salary, with the Employer contributing 8% of the team members monthly base salary. The contribution to the pension savings plan will be paid directly into the pension plan in conjunction with the Employer’s payment of the monthly salary to the team member.
