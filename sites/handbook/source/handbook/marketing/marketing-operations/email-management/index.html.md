@@ -29,7 +29,7 @@ It is very important to have Engineering and/or Product team (whoever is request
 Emails that are not cosidered `operational` but also do not fit the categories below. Usage example: GitLab Hosted billing change, Release update 9.0.0 changes, GitLab Page change and Old CI Runner clients. If you need a non-dg email, please use [follow directions below](/handbook/marketing/marketing-operations/email-management/#request-non-demand-generation-emails)
 
 **Newsletter**
-The newsletter is a collaboration between the Content Team and the Campaigns Team. [Learn more here!](/handbook/marketing/lifecycle-marketing/emails-nurture/#newsletter) Users can [subscribe to the newsletter](/company/contact/) on the website.
+The newsletter is a collaboration between the Content Team and the Campaigns Team. [Learn more here!](/handbook/marketing/lifecycle-marketing/email-processes-requests/#newsletter) Users can [subscribe to the newsletter](/company/contact/) on the website.
 
 **Security Releases**
 Sent on an as needed basis containing important information about any security patches, identified vulnerabilities, etc. related to the GitLab platform. These emails are purely text based and again are transactional in nature.  Users can [subscribe to security notices](/company/contact/#security-notices) on the GitLab Contact us page.
