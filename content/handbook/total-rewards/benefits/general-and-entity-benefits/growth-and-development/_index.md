@@ -68,11 +68,7 @@ The Growth and Development policy is meant to further team members' learning and
 **Step 3:** Request approval on the issue. Manager approval is needed for all applications and Executive Leader approval is needed for applications above $1000 USD.
 
 - Once the manager has approved, there is no further action to be taken by the manager. They can unassign themselves to the issue if they wish. Total Rewards will update the labels on the issue.
-- **Field organization executive signatures should be routed by the following:**
-  - Enterprise Sales: Mike Pyle (VP of Enterprise Sales)
-  - Customer Success: David Sakamoto (VP of Customer Success)
-  - Commercial Sales: Ryan O'Nell (VP of Commercial Sales)
-  - Worldwide Channels: David Helfer (interim VP of Worldwide Channels)
+- **Field organization executive signatures should be routed by to the VP of the team member's department.**
 - **Sales Development organization executive signature should be routed by the following:**
 - Sales Development/Business Development: Jean-Baptiste Larramendy (AVP, Sales Development)
 
