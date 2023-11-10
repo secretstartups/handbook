@@ -24,7 +24,12 @@ This role works closely across Marketing for all things email, and directly with
 
 [Read the job family here >>](https://handbook.gitlab.com/job-families/marketing/marketing-campaign-manager/#user-lifecycle-marketing)
 
-For a comprehensive view of our [nurture programs](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/#nurture-programs), [best practices](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/#best-practices), [email processes](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/#email-processes), and more, please go to our [Email & Nurture Handbook page](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/). Please reach out to Allie Klatzkin or Luis Diego D'ambrosio with any questions.
+For more information on email marketing at GitLab, please visit the following pages:
+* [Nurture programs](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/) 
+* [Best practices](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-best-practices), 
+* [Email processes and requests](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-processes-requests)
+
+Please reach out to Allie Klatzkin or Luis Diego D'ambrosio with any questions.
 
 ### Meet the Team
 {: #meet-the-team}
@@ -33,7 +38,7 @@ For a comprehensive view of our [nurture programs](https://about.gitlab.com/hand
 
 **Luis Diego D'Ambrosio** _Senior Lifecycle Marketing Manager_
 
-- **Intelligent Nurture - Enterprise & PubSec**: DRI for organization of new content additions to the intelligent nurture, build of new streams within the nurture architecture in collaboration with marketing operations
+- **Intelligent Nurture**: DRI for organization of new content additions to the intelligent nurture, build of new streams within the nurture architecture in collaboration with marketing operations
 - **Communication of Nurture Updates**: regularly update the larger marketing team about updates to the Intelligent Nurture
 - **Email point of contact/support**: Reviewing and optimizing EMEA & APAC events (fmm & corp) and campaigns sends to ensure best practices and compliance with the GitLab brand
 - **GitLab 16**: Creating the promotional and follow-up email plans for the GitLab 16 launch event
@@ -47,44 +52,15 @@ For a comprehensive view of our [nurture programs](https://about.gitlab.com/hand
 
 - **Free User Campaigns**: DRI for free user efficiency project, focused on progression of free users to trial to paid
 - **Trial User Campaigns**: DRI for trial nurture, focused on progressing trial users to paid
-- **Intelligent Nurture - SMB & Mid-market**: DRI for organization of new content additions to the intelligent nurture, build of new streams within the nurture architecture in collaboration with marketing operations
+- **Intelligent Nurture - Buyer / User Personas**: DRI for organization of new content additions to the intelligent nurture, build of new streams within the nurture architecture in collaboration with marketing operations
 - **Customer MVCs**: (connection with Dir. Digital Success on CS Ops side)
 - **Calendaring and stakeholder conversations (DRI)**: Lead weekly email calendar conversations to ensure we are prioritizing our email sends per audience
 - **Email Templates**: define needs, organize design, and manage development and testing of new email templates
 - **Email Best Practices, Processes & Optimization**: enable teams across GitLab (mainly Marketing and Sales Dev) on email best practices, as well as streamlining, scaling, and improving email performance
-- **GitLab Commit**: Global templates and scaling process for promoting and following up from GitLab Commit.
+- **GitLab Corporate Events**: Global templates and scaling process for promoting and following up from corporate events and conferences. 
 - **Email point of contact/support**: Reviewing and optimizing AMER & Global events (fmm & corp), campaigns, and newsletter email sends to ensure best practices and compliance with the GitLab brand
 
 
-### OKRs
-{: #okrs}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-**OKRs = Objective + Key Result**
-
-#### FY-22 Q3
-
-## Free User Efficiency Project
-{: #free-user-effficiency-project .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-Add in details
-
-### Purpose
-{: #purpose}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-To outline and organize overall marketing campaign strategy aimed at converting free users to paid customers. 
-
-### Team
-{: #team}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-
-### Success Metrics
-{: #metrics}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-- Free to Paid Conversion Rate
-- Email metrics (to be added)
 
 ## Communication
 {: #communication .gitlab-purple}
@@ -108,10 +84,11 @@ In between bi-weekly Lifecycle Marketing Team calls:
 {: #meeting-cadence}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-Most of our team meetings are recorded and can be found [in our notes doc](https://docs.google.com/document/d/1JZTsh5xEXpxCZ7kMMeyPJ6jGW_ts-MMsSYJhmMRx-Ws/edit#).
 
 - Bi-weekly - Lifecycle Marketing Team sync (lifecycle marketing)
-- Monthly - Campaigns, ABM, & Lifecycle Team Call (campaigns, abm, lifecycle)
+- Weekly - Email Stakeholder call
+- Bi-weekly - Digital Strategy sync
+- Bi-weekly - Integrated Marketing sync
 - Monthly - Marketing All-Hands (all marketing)
 
 ### The Handbook
@@ -186,12 +163,14 @@ Note on timelines: The campaigns team is focused on campaign strategy, execution
 #### Request Issue Templates
 {: #request-issue-templates}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+Below are the issue templates to make a lifecycle request. For processes, please see our [processes handbook page](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-processes-requests).
 
-- [request-email-followup](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-followup) - these will triage to Verticurl
-- [request-email-invitation](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-invitation) - these will triage to Verticurl
-- [request-email-newsletter](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-newsletter) - these will triage to Verticurl
-- [request-email-reminder](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-reminder) - these will triage to Verticurl
-- [request-email](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email) - *only for general email requests* these will triage to Verticurl. *For customer communications, please work with Marketing Ops.*
+- [lifecycle-add-to-nurture](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=lifecycle-add-to-nurture)
+- [request-email-followup](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-followup) 
+- [request-email-invitation](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-invitation) 
+- [request-email-newsletter](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-newsletter) 
+- [request-email-reminder](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-reminder)
+- [request-email](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email) - *only for general email requests* *For customer communications, please work with Marketing Ops.*
 - [idea-campaign](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=idea-campaign)
 - [request-corp-conference-email](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-corp-conference-email)
 
@@ -213,8 +192,6 @@ The following issue templates are used by the campaigns team to organize their w
 - [lifecycle-reporting](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=lifecycle-reporting)
 - [lifecycle-abtest](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=lifecycle-ab-test)
 
-
-?? should we replicate some of these for lifecycle?
 - [campaigns-mural](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-mural)
 - [campaigns-pathfactory-track](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-pathfactory-track)
 - [campaigns-pf-buyer-journey](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-pf-buyer-journey)
@@ -252,7 +229,7 @@ Team manager completes daily review of [lifecycle marketing issues in triage](ht
 ```
 /label ~"mktg-status::wip" 
 /assign @
-/milestone %Mktg:2022-
+/milestone %Mktg:2023-
 ```
 
 This will change the status to wip (work in progress), allow quick assignment and add to the appropriate milestone.
@@ -266,26 +243,6 @@ The lifecycle marketing team uses the overall 2-week marketing milestones (forma
 - The date in the milestone name is the END date of miltesone (Sunday)
 - Note: Use of milestones was introduced to the campaigns and lifecycle team as of 2020-07-21.
 - If issues in a milestone are not closed out by end of milestone, they are pulled to the next milestone. We will document **total issues** and **total weight** moved, to understand relative commitment levels and avoid overcommitment as we begin using milestones.
-
-#### FY22 Marketing Milestones
-
-- [Mktg: 2022-01-02](https://gitlab.com/groups/gitlab-com/-/milestones/599)
-- [Mktg: 2022-01-16](https://gitlab.com/groups/gitlab-com/-/milestones/574)
-- [Mktg: 2022-01-30](https://gitlab.com/groups/gitlab-com/-/milestones/575)
-- [Mktg: 2022-02-13](https://gitlab.com/groups/gitlab-com/-/milestones/628)
-- [Mktg: 2022-02-27](https://gitlab.com/groups/gitlab-com/-/milestones/629)
-- [Mktg: 2022-03-13](https://gitlab.com/groups/gitlab-com/-/milestones/630)
-- [Mktg: 2022-03-27](https://gitlab.com/groups/gitlab-com/-/milestones/631)
-- [Mktg: 2022-04-10](https://gitlab.com/groups/gitlab-com/-/milestones/632)
-- [Mktg: 2022-04-24](https://gitlab.com/groups/gitlab-com/-/milestones/633)
-- [Mktg: 2022-05-08](https://gitlab.com/groups/gitlab-com/-/milestones/634)
-- [Mktg: 2022-05-22](https://gitlab.com/groups/gitlab-com/-/milestones/635)
-- [Mktg: 2022-06-05](https://gitlab.com/groups/gitlab-com/-/milestones/636)
-- [Mktg: 2022-06-19](https://gitlab.com/groups/gitlab-com/-/milestones/637)
-- [Mktg: 2022-07-03](https://gitlab.com/groups/gitlab-com/-/milestones/638)
-- [Mktg: 2022-07-17](https://gitlab.com/groups/gitlab-com/-/milestones/639)
-- [Mktg: 2022-07-31](https://gitlab.com/groups/gitlab-com/-/milestones/640)
-- [Mktg: 2022-08-14](https://gitlab.com/groups/gitlab-com/-/milestones/641)
 
 ### Boards and Lists
 {: #boards-lists}
@@ -301,7 +258,7 @@ The lifecycle marketing team uses the overall 2-week marketing milestones (forma
 
 ##### Board View Priorities Current Milestone
 - [All Team Members Priorities Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/3702791)
-- [Luis Deigo D'Ambrosio Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?scope=all&milestone_title=%23started&assignee_username=dambrold)
+- [Luis Diego D'Ambrosio Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?scope=all&milestone_title=%23started&assignee_username=dambrold)
 - [Allie Klatzkin Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?scope=all&milestone_title=%23started&assignee_username=aklatzkin)
 
 ##### Board View by Milestone
@@ -332,72 +289,9 @@ The lifecycle marketing team uses the overall 2-week marketing milestones (forma
 ### Key Resources
 {: #key-resources}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-* [Free User Conversion Epic](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/38) - this is where weekly status updates live
-* [Overall Epic for Lifecycle Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1040)
-* [Epic for PQL Scenarios](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2438)
-* [Issue: active First Order namespaces without recent outreach from GitLab](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/2137)
+* [Lifecycle OKRs](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3556)
+* [Overall Epic for Lifecycle Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3823)
+* [FY24 Trial](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3559)
+* [FY24 Intelligent Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3557)
+* [FY24 - Personalized, efficient, and scaled email experiences](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3551)
 
-## Lifecycle Campaign Development Process
-{: #campaign-process .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-The Lifecycle Marketing Manger is responsible for coordinating execution of Free User campaigns. They will develop an initial strategy in collaboration with Growth Product, Marketing Ops, Data, and other teams. The steps to execute have certain issue templates, which are built into the process (see epic code below).
-
-**Overall Steps:**
-* Team defines segment / PQL audience to target
-* Team collaborates/brainstorms approach
-* Lifecycle Marketer opens epic
-* Depending on approach decided, Lifecycle Marketer opens relevant issues (across teams)
-* Lifecycle Marketer outlines timeline
-* Lifecycle Marketer provides status updates to Free User Efficiency Project
-
-#### Workback Timeline
-{: #workback-timeline}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-The workback timeline is to be created by the Lifecycle Marketer to organize the execution of a new campaign. The workback is a starting point, to be discussed and agreed with the teams involved.
-
-[Workback Template](https://docs.google.com/spreadsheets/d/1Mrp0xNkpbfS_kvqDB-kFhhBqD-sNK86trx3qswOe6B0/edit?usp=sharing)
-
-#### Epic Code
-{: #epic-code}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-***The Lifecycle Marketer will create the epic with the following structure. Issues will be created an related to this overarching epic to organize execution action items.***
-
-```
-<!-- NAME THIS EPIC: Free User Campaign: [Name of Campaign] (i.e. Free User Campaign: active First Order namespaces without recent outreach from GitLab) -->
-
-### [Campaign Execution Timeline >>]() - to be created by Lifeycle Marketer <!-- Template: https://docs.google.com/spreadsheets/d/1Mrp0xNkpbfS_kvqDB-kFhhBqD-sNK86trx3qswOe6B0/edit?usp=sharing -->
-
-### :star: Background and Scope
-<!-- Provide a brief overview of the audience, campaign, and project. How did this idea arise? -->
-<!-- Example: Target leads that have indicated that they are using GitLab for company use when signing up for free user license -->
-
-### :dart: Goal
-* Primary KPI: 
-* Secondary KPI: 
-* Measurement Plan (to be developed with Business Analytics)
-   - For reference: [UTM Strategy Handbook](https://about.gitlab.com/handbook/marketing/utm-strategy)
-
-## :busts_in_silhouette: Team
-* Lifecycle Marketing: @Aklatzkin
-* Growth Product:  
-* Marketing Operations: 
-* Data Team: 
-
-### :bar_chart: Supporting Data
-<!-- Provide any links to raw data and analysis that drove the idea for this campaign. -->
-<!-- Example: analysis of namespace <> sfdc account matchup that indicated we are missing opportunities to engage -->
-
-### :question: Open Questions
-<!-- As we kickoff this campaign, what are existing open questions that we have? What do we need to address first? -->
-<!-- Example: Are the users we are planning to target email compliant? Do some of these users already exist in SFDC? -->
-
-### :link: Links
-<!-- Add links like target lists, Marketo programs, etc. -->
-* [Add here]()
-* [Add here]()
-
-/label ~"dg-campaigns" ~"mktg-demandgen" ~"mktg-status::wip"
-```
