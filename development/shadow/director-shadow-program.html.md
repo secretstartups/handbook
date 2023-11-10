@@ -163,6 +163,11 @@ No, not at this time.
 | December 11|  [Jeremy Henage](https://www.linkedin.com/in/jeremy-henage/) | Head of SaaS Program @ Digital Manufacturing at Siemens |
 | December 18|  Available | |
 | December 25|  Not Available | |
+| January 1, 2024 | Available | | 
+| January 8 |  [Sameera Perera](https://www.linkedin.com/in/perera-sameera) | Non-GitLab Shadow - Director of R&D @ Celigo |
+| January 15 | Available | |
+| January 22 | Available | |
+| January 29 | Available | |
 
 
 ## Shadow Alumni
