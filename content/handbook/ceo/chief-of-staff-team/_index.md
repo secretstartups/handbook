@@ -214,7 +214,7 @@ Be sure that slides are prepared with enough notice for the CEO to record a vide
 While there are rare exceptions, members of the Chief of Staff team are not forever owners of initiatives. They plug in to help achieve critical milestones or fill gaps. When a member of the CoST joins an initiative, there should be agreement from key stakeholders around:
 
 1. The level of support required
-1. The CoST members scope and responsibilities
+1. The CoST members' scope and responsibilities
 1. The exit criteria for the CoST
 1. If required, the long-term plan for ongoing initiative or project support
 
