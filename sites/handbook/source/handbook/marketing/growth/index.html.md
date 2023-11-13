@@ -8,7 +8,7 @@ canonical_path: "/handbook/marketing/growth/"
 
 The GitLab Growth section is dedicated to making it easier for teams to find value and increased efficiency within the GitLab platform. We work across stages within the product experience to make the product as easy as possible to adopt and use.
 
- The Growth section lives within Marketing & Strategy to ensure we’re aligned in our go-to-market strategy and we’re as efficient as possible in finding the right prospects, convincing them to become product users, and assisting in converting them into paying customers. Since the work within the section occurs within the product experience our engineering and user experience counterparts are within the [Development division](https://about.gitlab.com/handbook/engineering/development/). This approach ensures that we have proper alignment on our priorities from a go-to-market and business perspective while ensuring our [development team](https://about.gitlab.com/handbook/engineering/development/growth/) is set up for success to operate within the development division. 
+ The Growth section lives within Marketing & Strategy to ensure we’re aligned in our go-to-market strategy and we’re as efficient as possible in finding the right prospects, convincing them to become product users, and assisting in converting them into paying customers. Since the work within the section occurs within the product experience our engineering and user experience counterparts are within the [Development division](https://about.gitlab.com/handbook/engineering/development/). This approach ensures that we have proper alignment on our priorities from a go-to-market and business perspective while ensuring our [development team](https://about.gitlab.com/handbook/engineering/development/growth/) is set up for success to operate within the development division.  
 
 ## Growth Section's Principles
 
@@ -23,10 +23,10 @@ The Growth team works cross functionally within the organization to increase use
  
 ### Metrics
 
-* Quality signup
-  * The team is actively working on defining this metric here
-* Team activation
-  * The team is actively working on defining this metric here
+* Acquistion - Valuable signup
+  * Internal team members can view this metric [here](https://internal.gitlab.com/handbook/marketing/growth/growth/#valuable-signup-metric)
+* Activation - Team activation
+  * Internal team memmbers can view this metric [here](https://internal.gitlab.com/handbook/marketing/growth/growth/#team-activation-metric) 
 
 ### Findings and experimentation results
 Our core findings and experiment results are considered non-public information. Internal team members can reference the internal handbook growth page for a detailed review of our findings.
