@@ -20,7 +20,7 @@ description: "This handbook page provides information about secure system and de
 1. When backing up data team members should use GitLab's Google Drive. Our deployment is regularly tested and data at rest is encrypted by default.
 
 1. [Purchase](/handbook/spending-company-money) (if necessary) and install security related software.
-    1. Little Snitch is an excellent personal firewall solution for macOS. Recommended to monitor application network communications.
+    1. For enhanced network security on MacOS, consider a personal firewall like [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) or [LuLu](https://objective-see.org/products/lulu.html). These allow you to monitor and control outbound traffic on a per-application basis.
     1. GitLab does not have a corporate VPN. If you wish to secure your traffic with a VPN, NordLayer is available on request. Please refer to our [NordLayer User Guide](/handbook/it/guides/nordlayer/) for more information.
 1. Do not allow your web browser (e.g. Chrome, Safari, Firefox) to store passwords when
   prompted. This presents an unnecessary risk and is redundant.
