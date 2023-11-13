@@ -52,6 +52,7 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 | Functional Lead - CS Strategy & Ops          | Brittney Sinq                 | Senior Director, CS Strategy and Operations                |
 | Functional Lead - Product                    | Jackie Porter                 | Director, Product Management                               |
 | Functional Lead - Product                    | Sam White                     | Group Manager, Product Management                          |
+| Functional Lead - Product                    | Sarah Waldner                 | Group Manager, Product Management                          |
 | Functional Lead - Product                    | Justin Farris                 | Senior Director, Product Management                        |
 | Functional Lead - Product                    | Sam Kerr                      | Group Manager, Product Management                          |
 | Member - Customer Success Operations         | Michael Arntz                 | Sales Strategy Manager                                     |
