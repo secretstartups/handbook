@@ -833,25 +833,6 @@ Theoretically you can have multiple people in a room with their own equipment bu
 - It is annoying to first hear someone talk in the room and then hear it over audio with a delay.
 - It is hard to consistently mute yourself when not talking to prevent someone else's voice coming through your microphone as well.
 
-### Meeting Cleanup Day
-
-On February 14, or the Tuesday after if this day falls over the weekend or on Monday, we have an annual calendar cleanup day. This is a day when all team members are encouraged to look at their calendars and reassess the value and frequency of recurring meetings. The goals are to increase team member [efficiency](/handbook/values/#efficiency) as team members stop attending low value meetings and reassess how to make continuing meetings more productive. Team members should be empowered to:
-
-- Cancel meetings or change the frequency if they feel that the current cadence does not add sufficient value
-- Remove themselves as meeting attendees if they don't feel that they are contributing or that participation supports business results
-- Ask other team members to reexamine how existing meetings are managed
-
-When cancelling a meeting, a team member can copy and paste this message to send to attendees:
-*I evaluated the need for this meeting as part of [Meeting Cleanup Day](/handbook/communication/#meeting-cleanup-day). I have determined that the meeting is no longer needed. Please get in touch if you have any concerns.*
-
-When changing the cadence of a meeting, a team member can copy and paste this message to send to attendees:
-
-*I reassessed this meeting as part of [Meeting Cleanup Day](/handbook/communication/#meeting-cleanup-day). I have determined that the meeting no longer needs to happen as frequently. Please look for an updated meeting invite and get in touch if you have any concerns.*
-
-If you are a team member who intends to decline a meeting, the [asynchronous communication](/handbook/company/culture/all-remote/asynchronous/#how-to-decline-meetings-in-favor-of-async) section of the handbook has some good suggestions for what to say when you decline.
-
-Meeting Cleanup Day is intentionally a few weeks after the start of the new fiscal year. The CoS to the CEO will launch this initiative annually a week in advance through posting in the `#company-fyi` Slack channel.
-
 ### Types of meetings
 
 #### Ask Me Anything meetings
