@@ -222,9 +222,9 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, our CMO may choose to conduct a final interview.
 - Successful candidates will subsequently be made an offer via email. The total compensation for this role listed in <https://about.gitlab.com/job-families/marketing/field-marketing-manager/> is 100% base salary.
 
-## Senior Manager, Field Marketing
+## Senior Manager, Regional Marketing
 
-In addition to meeting all of the requirements of a Manager, Field Marketing, the Senior Manager will have the following:
+In addition to meeting all of the requirements of a Manager, Regional Marketing, the Senior Manager will have the following:
 
 ### Job Grade
 
