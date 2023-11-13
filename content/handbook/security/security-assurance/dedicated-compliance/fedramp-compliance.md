@@ -61,4 +61,4 @@ SaaS offerings can inherit (partially or fully) some of the required controls fr
 
 ## Who to contact
 
-Please reach out to `@dedicated_compliance` in the `# sec-assurance` or `# wg_fedramp` channels on Slack for questions about the requirements or the process. For other questions, including product-specific matters, reach out to the `# wg_fedramp` channel or contact a member of the [US Public Sector Services product group](https://about.gitlab.com/handbook/product/categories/#us-public-sector-services-group).
+Please reach out to `@dedicated_compliance` in the `# sec-assurance` or `# wg_fedramp` channels on Slack for questions about the requirements or the process. For other questions, including product-specific matters, reach out to the `# wg_fedramp` channel or contact a member of the [US Public Sector Services product group](/handbook/product/categories/#us-public-sector-services-group).

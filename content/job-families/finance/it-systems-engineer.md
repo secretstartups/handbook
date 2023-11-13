@@ -124,11 +124,11 @@ The Staff IT Systems Engineer has all the same responsibilities as the ones outl
 
 ## Performance Indicators
 
-- [Mean Time between Failures (MTBF)](https://about.gitlab.com/handbook/business-technology/metrics/#mean-time-between-failures-mtbf)
-- [Mean Time to Repair (MTTR)](https://about.gitlab.com/handbook/business-technology/metrics/#mean-time-to-repair-mttr)
-- [Number of days since last environment audit](https://about.gitlab.com/handbook/business-technology/metrics/#number-of-days-since-last-environment-audit)
-- [Cycle Time for IT Support Issue Resolution](https://about.gitlab.com/handbook/business-technology/metrics/#cycle-time-for-it-support-issue-resolution)
-- [Customer Satisfaction Survey (CSAT)](https://about.gitlab.com/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
+- [Mean Time between Failures (MTBF)](/handbook/business-technology/metrics/#mean-time-between-failures-mtbf)
+- [Mean Time to Repair (MTTR)](/handbook/business-technology/metrics/#mean-time-to-repair-mttr)
+- [Number of days since last environment audit](/handbook/business-technology/metrics/#number-of-days-since-last-environment-audit)
+- [Cycle Time for IT Support Issue Resolution](/handbook/business-technology/metrics/#cycle-time-for-it-support-issue-resolution)
+- [Customer Satisfaction Survey (CSAT)](/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
 
 ## Career Ladder
 

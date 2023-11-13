@@ -13,7 +13,7 @@ This handbook page provides an overview, however you will find all of the techni
 
 In the past, we used the IT CLI Scripts that were installed on each team member's computer and had API tokens to different systems. GLabIT moves from a client-only model to a [client-server API middleware model](https://gitlab-it.gitlab.io/glabit-docs/cli/overview#introduction) for running scripts, with the added benefit of scheduled background jobs.
 
-As we mature our operations, GLabIT will be a centralized platform to host our new [Level 3 and Level 4 automations](https://about.gitlab.com/handbook/business-technology/it/engineering/automation/) that are more complex than a no-code integration.
+As we mature our operations, GLabIT will be a centralized platform to host our new [Level 3 and Level 4 automations](/handbook/business-technology/it/engineering/automation/) that are more complex than a no-code integration.
 
 ## Services
 

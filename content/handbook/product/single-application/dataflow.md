@@ -4,7 +4,7 @@ title: Data flow GitLab vs. multiple applications
 ---
 
 
-{:toc}
+
 
 How does having one application vs many applications impact workflow?
 

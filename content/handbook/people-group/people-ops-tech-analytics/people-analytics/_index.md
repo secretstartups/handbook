@@ -51,7 +51,7 @@ We have a data governance process in place to ensure that we are only extracting
     - Work with stakeholders to develop automated reporting solutions used to gather relevant and reliable People metrics as quickly as possible.
     - Stakeholders include People Business Partners, Talent Acquisition, Divisional Leadership, etc.
 1. **Data Solutions**
-    - Work with the [Data Team](https://about.gitlab.com/handbook/business-technology/data-team/) to ensure scalable data models are being built to support the various reporting and analytic solutions to be provided to the business.
+    - Work with the [Data Team](/handbook/business-technology/data-team/) to ensure scalable data models are being built to support the various reporting and analytic solutions to be provided to the business.
 1. **Analytical Solutions**
     - Using various statistical techniques (e.g. cluster analysis, linear & logistic regression, survival analysis) to drive insights for the business so that data informed decisions can be made by the People Group and others at GitLab.
 
@@ -61,7 +61,7 @@ It is not necessary to have a large suite of tools in order to be an effective P
 
 1. **Tableau** - Tableau is currently being used to build prototypes of new dashboards and to conduct ad-hoc analysis. This is a very robust tool and provides a great opportunity for self-service exploration of data by our stakeholders.
 1. **Sisense** - This is our main reporting tool here at GitLab. This is used as our Single Source of Truth (SSOT) for metric reporting. This is available to all Team Members for exploration and to get information they need quickly.
-1. **RStudio/R** - We use R for our statistical modeling and analysis. It is also used to cleaning data for report building. For more information on how to use RStudio with GitLab and connect to Snowflake, head over to this [page](https://about.gitlab.com/handbook/business-technology/data-team/platform/rstudio/).
+1. **RStudio/R** - We use R for our statistical modeling and analysis. It is also used to cleaning data for report building. For more information on how to use RStudio with GitLab and connect to Snowflake, head over to this [page](/handbook/business-technology/data-team/platform/rstudio/).
 1. **Snowflake** - Snowflake is where we house our data and it has a SQL editor to allow for data exploration in the tool itself.
 
 ## Generic Rules and Guidance

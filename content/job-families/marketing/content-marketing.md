@@ -112,19 +112,19 @@ Read more about what a [specialty](/handbook/hiring/#definitions) is at GitLab h
 
 ### Development (Dev)
 
-- The Dev specialty maps to the [Dev department](https://about.gitlab.com/handbook/product/categories/#dev-department) at GitLab.
+- The Dev specialty maps to the [Dev department](/handbook/product/categories/#dev-department) at GitLab.
 - This specialty covers the Manage, Plan, and Create stages of the [DevOps lifecycle](https://about.gitlab.com/stages-devops-lifecycle/).
 - As a Dev specialist, you are responsible for covering topics that fall under these stages. For example: Workflow policies, project management, value stream management, code review, and source code management.
 
 ### Operations (Ops)
 
-- The Ops specialty maps to the [Ops department](https://about.gitlab.com/handbook/product/categories/#ops-department) at GitLab.
+- The Ops specialty maps to the [Ops department](/handbook/product/categories/#ops-department) at GitLab.
 - This specialty covers the Verify, Package, Release, Configure, and Monitor stages of the [DevOps lifecycle](https://about.gitlab.com/stages-devops-lifecycle/).
 - As an Ops specialist,you are responsible for covering topics that fall under these stages. For example: Continuous integration, continuous delivery, application performance management, PaaS, serverless, and Kubernetes.
 
 ### Security (Sec)
 
-- The Security specialty maps to the [Sec department](https://about.gitlab.com/handbook/product/categories/#sec-department) at GitLab.
+- The Security specialty maps to the [Sec department](/handbook/product/categories/#sec-department) at GitLab.
 - This specialty covers the Secure and Govern stages of the [DevOps lifecycle](https://about.gitlab.com/stages-devops-lifecycle/).
 - As a Security specialist, you are responsible for covering topics that fall under these stages. For example: Application security, SAST, DAST, container security, open source security, and continuous security testing.
 

@@ -40,7 +40,7 @@ To raise an issue with a specific team, please use below most commonly used chan
 
 These channels (prefixed with a `a_`) are for team members to collaborate and communicate regarding the account for a customer organization. Depending on the customer, they are sometimes internal, marked as private or we shared with the customer by connecting to customer's own Slack workspace. In order to clearly differentiate between these shared and internal channels, we recommend using `a_XYZ-internal` and `a_XYZ-external` naming conventions to be explicitly clear (as the shared symbol can be easily missed in Slack).
 
-To request a new channel or to make changes to existing channels, please use the [access request process](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#slack-google-groups-1password-vaults-or-groups-access-requests).
+To request a new channel or to make changes to existing channels, please use the [access request process](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#slack-google-groups-1password-vaults-or-groups-access-requests).
 
 Commercial (Mid-Market and SMB) accounts have specific guidelines around having Slack channels with customers.
 
@@ -55,12 +55,12 @@ These channels are for teams and GitLab team-members interested in a specific fe
 
 #### Group Channels (g_)
 
-Group channels (prefixed with a `g_`) correspond to a [DevOps Stage group](https://about.gitlab.com/handbook/product/categories/#hierarchy) and other [engineering departments and teams](https://about.gitlab.com/handbook/engineering/#engineering-departments--teams).
+Group channels (prefixed with a `g_`) correspond to a [DevOps Stage group](/handbook/product/categories/#hierarchy) and other [engineering departments and teams](https://about.gitlab.com/handbook/engineering/#engineering-departments--teams).
 
 **Example**
 
-- **[`#g_create`](https://gitlab.slack.com/archives/g_create)**: Channel for the [Create](https://about.gitlab.com/handbook/product/categories/#create-stage) development group.
-- **[`#g_create_source-code`](https://gitlab.slack.com/archives/g_create_source-code)**: Channel for the [Source Code](https://about.gitlab.com/handbook/product/categories/#source-code-group) development group.
+- **[`#g_create`](https://gitlab.slack.com/archives/g_create)**: Channel for the [Create](/handbook/product/categories/#create-stage) development group.
+- **[`#g_create_source-code`](https://gitlab.slack.com/archives/g_create_source-code)**: Channel for the [Source Code](/handbook/product/categories/#source-code-group) development group.
 - **[`#g_geo`](https://gitlab.slack.com/archives/g_geo)**: Dedicated to the [Geo group](https://about.gitlab.com/handbook/engineering/development/enablement/systems/geo/).
 
 #### Location Channels (loc_)
@@ -204,8 +204,8 @@ Stage channels (prefixed with `s_`) correspond to stages within sub-departments.
 
 **Examples**
 
-- **[`#s_enablement`](https://gitlab.slack.com/archives/s_enablement)**: For the [Enablement stage](https://about.gitlab.com/handbook/product/categories/#enablement-stage).
-- **[`#s_create`](https://gitlab.slack.com/archives/s_create)**: For the [Create stage](https://about.gitlab.com/handbook/product/categories/#create-stage).
+- **[`#s_enablement`](https://gitlab.slack.com/archives/s_enablement)**: For the [Enablement stage](/handbook/product/categories/#enablement-stage).
+- **[`#s_create`](https://gitlab.slack.com/archives/s_create)**: For the [Create stage](/handbook/product/categories/#create-stage).
 
 #### Sub-Department Channels (sd_)
 

@@ -73,7 +73,7 @@ lack of observability and insight into this app.
 
 ### Enterprise Apps
 
-- [Quote to Cash](https://about.gitlab.com/handbook/business-technology/enterprise-applications/quote-to-cash/)
+- [Quote to Cash](/handbook/business-technology/enterprise-applications/quote-to-cash/)
 - [Platypus](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus)
 - [gitlab-com/business-technology/enterprise-apps&293](https://gitlab.com/groups/gitlab-com/business-technology/enterprise-apps/-/epics/293): Distributor e-Marketplace
 

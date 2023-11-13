@@ -172,7 +172,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 - Selected candidates will be invited to schedule a 30-min [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters or the Hiring Manager. In this call we will discuss your experience, understand what you are looking for in a UX Research role, discuss your compensation expectations, reasons why you want to join GitLab and answer any questions you have.
 
-- The next step will be a 30-min meeting to cover some scenario-based questions where will look to understand how you handle common situations that UX Researchers find.
+- The next step will be a 45-min meeting to cover some scenario-based questions where will look to understand how you handle common situations that UX Researchers find.
 
 - After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **20-minutes in duration** and returned **within ten days** of the screening call. In addition to the details below, [this discussion on our GitLab Unfiltered YouTube playlist](https://youtu.be/VU2BKjGoer4) provides an overview of what we're looking for.
 
@@ -190,14 +190,14 @@ Candidates for this position can expect the hiring process to follow the order b
 > ### What we're looking for
 >
 > - A recording that is up to 20 minutes in duration and returned to us within ten days of your screening call being completed.
-> - Ideally, one case study you present should be relevant to the work you'd expect do at GitLab. This could be because the case study involved research into the [persona(s)](https://about.gitlab.com/handbook/product/personas/#user-personas) you'd study at GitLab, the case study related to the DevOps or Developer tooling industry, the case study relates to the [Stage](https://about.gitlab.com/handbook/product/categories/#devops-stages) you're interviewing for, is a case study that went across multiple methods, or was a case study that would be considered complex in nature. Note that at GitLab, UX Researchers at any level are working on [problem validation](https://about.gitlab.com/handbook/engineering/ux/ux-research-training/problem-validation-and-methods/), [foundational](https://about.gitlab.com/handbook/product/ux/ux-research/foundational-research/) or [strategic](https://about.gitlab.com/handbook/product/ux/ux-research/strategic-research-at-gitlab/) research projects, while Product Designers conduct solution validation. We'd like to see a case study that is of problem validation, foundational, or strategic nature.
+> - Ideally, one case study you present should be relevant to the work you'd expect do at GitLab. This could be because the case study involved research into the [persona(s)](/handbook/product/personas/#user-personas) you'd study at GitLab, the case study related to the DevOps or Developer tooling industry, the case study relates to the [Stage](/handbook/product/categories/#devops-stages) you're interviewing for, is a case study that went across multiple methods, or was a case study that would be considered complex in nature. Note that at GitLab, UX Researchers at any level are working on [problem validation](https://about.gitlab.com/handbook/engineering/ux/ux-research-training/problem-validation-and-methods/), [foundational](/handbook/product/ux/ux-research/foundational-research/) or [strategic](/handbook/product/ux/ux-research/strategic-research-at-gitlab/) research projects, while Product Designers conduct solution validation. We'd like to see a case study that is of problem validation, foundational, or strategic nature.
 > - You share the recording using either a [unlisted Youtube link](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en), a [Google Drive link](https://support.google.com/drive/answer/2494822?co=GENIE.Platform%3DDesktop&hl=en), or a [Loom link](https://www.loom.com/).
 > - Your presentation to address each of the topics listed above.
 >
 > ## Some useful resources
 >
 > - Unsure on where to get started? Check out our [handbook page on recording a presentation in Zoom](/handbook/tools-and-tips/zoom/#how-to-share-a-presentation-in-zoom). A free Zoom account is all you'd need to complete this presentation.
-> - Interested in the type of work our UX team does? Search [GitLab Unfiltered for UX Showcase](https://www.youtube.com/c/GitLabUnfiltered/search?query=ux%20showcase), review our [UX Research handbook](https://about.gitlab.com/handbook/product/ux/ux-research/), and our [UX Department's handbook](https://about.gitlab.com/handbook/product/ux/).
+> - Interested in the type of work our UX team does? Search [GitLab Unfiltered for UX Showcase](https://www.youtube.com/c/GitLabUnfiltered/search?query=ux%20showcase), review our [UX Research handbook](/handbook/product/ux/ux-research/), and our [UX Department's handbook](/handbook/product/ux/).
 > - We work with a [low level of shame](/handbook/values/#low-level-of-shame) at GitLab. In this context, this means we don't expect your presentation to be highly polished.
 > - Other questions? Want the Recruiter to review your presentation before the review from the Hiring Manager? Don't hesitate to get in touch with the Recruiter who conducted your screening call.
 
@@ -205,11 +205,9 @@ Candidates for this position can expect the hiring process to follow the order b
 
 - Candidates will be invited to a 50-minute interview with a UX Researcher. Overall, this interview aims to understand how you choose your research methods, how you present results, how you work with a wider team of counterparts, and how you determine whether your research resulted in a meaningful business impact. This interview will also look to understand the softer skills you have as a researcher and how you apply those in the real world.
 
-- The next interview is a 50-minute interview with either a Product Design Manager, Product Designer or Product Manager. In this interview, we'll focus on how you collaborate with cross-functional stakeholders and mentor non-researchers in successfully conducting research. This interview is an opportunity for you to understand the stage you will be a part of in more detail, hear a different perspective on the stable counterpart relationship, and ask any questions you have.
+- Next up are a couple of 50-minute interviews, one with either a Product Design Manager or Product Designer, and the other with a Product Manager. In these interviews, we'll focus on how you collaborate with cross-functional stakeholders and mentor non-researchers in successfully conducting research. These interviews are opportunities for you to understand the the stage you will be a part of in more detail, hear a different perspective on the stable counterpart relationship, and ask any questions you have.
 
-- Candidates will the be invited to a 50-minute interview with a UX Research Manager where we'll focus on your experience researching Developers and working with global team members in an Agile setting.
-
-- The final interview is a 1-hour interview with the Director of UX Research. You will discuss your career, your experiences as a UX Researcher, and the role of UX Research at GitLab.
+- Candidates will the be invited to a 50-minute interview with a UX Research Manager where we'll focus on your experience researching Developers and working with global team members in an Agile setting. You will also discuss your career, your experiences as a UX Researcher, and the role of UX Research at GitLab.
 
 - Successful candidates will subsequently be made an offer via Zoom.
 

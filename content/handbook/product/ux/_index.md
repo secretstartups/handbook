@@ -44,7 +44,7 @@ We work closely with the community, and our stable counterparts Product Managers
 * [Technical Writing](/handbook/product/ux/technical-writing/workflow/)
 * [Product Designer](/handbook/product/ux/product-designer/)
 * [Product Design Manager workflows](/handbook/product/ux/product-design/product-design-manager.html)
-* [Cross-functional Prioritization](https://about.gitlab.com/handbook/product/cross-functional-prioritization/)
+* [Cross-functional Prioritization](/handbook/product/cross-functional-prioritization/)
 
 ### Headcount planning
 
@@ -111,10 +111,10 @@ GitLab uses labels to categorize, prioritize, and track work. The following is a
 * [**UX scorecard-rec** label](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=UX%20scorecard-rec): Indicates this issue is a recommendation that was a result of a UX scorecard review. It's OK if the issue was created prior to the scorecard being done; it can still be pulled into the set of recommendations.
 * [**CM scorecard** label](https://gitlab.com/groups/gitlab-org/-/issues?sort=created_date&state=opened&label_name[]=CM+scorecard): Indicates the primary issue or epic for the [CM Scorecard](/handbook/product/ux/category-maturity/category-maturity-scorecards/). It is used to easily find current work and track efforts.
 * [**cm-scorecard-rec** label](https://gitlab.com/groups/gitlab-org/-/issues?sort=created_date&state=opened&label_name[]=cm-scorecard-rec): Indicates this issue is a recommendation that was a result of a CM Scorecard.
-* [Actionable Insights](/handbook/engineering/ux/ux-research/research-insights/#how-to-document-actionable-insights) document learnings from research that need to be acted on. 
+* [Actionable Insights](https://about.gitlab.com/handbook/engineering/ux/ux-research/research-insights/#how-to-document-actionable-insights) document learnings from research that need to be acted on. 
     * [Actionable Insight::Exploration needed](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=Actionable%20Insight%3A%3AExploration%20needed): A research insight derived from a UX research study that requires further exploration. 
     * [Actionable Insight::Product change](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=Actionable%20Insight%3A%3AProduct%20change): A research insight derived from a UX research study and requires a change to the product experience. 
-* [Type labels](/handbook/engineering/metrics/#work-type-classification): Used to track feature, maintenance, and bug issues and MRs. UX Leadership are active participants in influencing the prioritization of all three work types. See also who are the [DRIs for prioritization](/handbook/product/cross-functional-prioritization/#prioritization-for-feature-maintenance-and-bugs).
+* [Type labels](https://about.gitlab.com/handbook/engineering/metrics/#work-type-classification): Used to track feature, maintenance, and bug issues and MRs. UX Leadership are active participants in influencing the prioritization of all three work types. See also who are the [DRIs for prioritization](/handbook/product/cross-functional-prioritization/#prioritization-for-feature-maintenance-and-bugs).
 * **Theme labels** can be created to group issues that solve a similar user experience problem but don't have a category. This can be especially useful for a user experience that spans the product. These issues still require a UX label.
 * [**UX: Feature Discovery Improvement**](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=UX%3A++Feature+Discoverability+Improvement): Indicates issue may improve feature discoverability.  
 * [**UX: Onboarding Improvement**](https://gitlab.com/groups/gitlab-org/-/issues/?label_name%5B%5D=UX%3A%20Onboarding%20Improvement): Indicates issue is a potential onboarding improvement.

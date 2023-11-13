@@ -138,7 +138,7 @@ If a Risk Acceptance was put in place at the time of the previous assessment, in
 |Orange Professional Services | 3rd Party Attest or [SIG Prof Svcs](https://docs.google.com/spreadsheets/d/1xiReZd5heUl5YVFCqPxEfXJIYlqtz_LS/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true)|          N/A|     N/A| N/A|   N/A| N/A|
 |Yellow/Green**     |-|     -|     -|     Yes*|    - | - |
 
-Software is inventoried in the tech stack regardless of data classification. See [Tech Stack Application Handbook](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#tech-stack-updates) for more details.
+Software is inventoried in the tech stack regardless of data classification. See [Tech Stack Application Handbook](/handbook/business-technology/tech-stack-applications/#tech-stack-updates) for more details.
 
 ### Acceptable Third-Party Attestations
 
@@ -236,7 +236,7 @@ Requisitions must be reviewed to determine whether a scope change has occurred s
 As an output of our integration with the vendor procurement flow, the Security Risk team partners with [Information Technology](/handbook/business-technology/it/) to inventory the usage, administration, and integration of new applications supporting various GitLab functions. This inventory lives within the [Tech Stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml), GitLab's [single source of truth (SSOT)](/handbook/values/#single-source-of-truth) for technology that supports the business.
 
 The Security Risk team facilitates multiple functions to maintain accuracy of Tech Stack data, including [Critical System Tiers](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html#determining-critical-system-tiers). This data is leveraged to ensure critical applications are appropriately supported. Functions consist of:
- - Merge Requests upon system procurement to update the [Tech Stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#what-data-lives-in-the-tech-stack).
+ - Merge Requests upon system procurement to update the [Tech Stack](/handbook/business-technology/tech-stack-applications/#what-data-lives-in-the-tech-stack).
  - Initial [Business Impact Analyses (BIA)](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html#business-impact-analysis) to help determine the systems critical to serving GitLab’s Customers.
  - Recurring procedures to validate the accuracy of existing Tech Stack data, including an annual Business Impact Analysis for Tier 1 Systems.
 
@@ -284,18 +284,21 @@ Looking for compliance reports for an active GitLab vendor? [Open a new issue](h
 
 ## Third Party Minimum Security Standards
 
-TPRM utilizes a risk-based approach when assessing third parties. Specific procedures used to assess different vendor types / risk profiles can be found below.
+TPRM utilizes a risk-based approach when assessing third parties. Specific procedures used to assess different vendor types / risk profiles can be found within the [TPRM Assessment Requirements](#tprm-assessment-requirements) section above.
 
-The following items often reflect Security deficiencies that may result in a higher vendor residual risk score:
-1. Inability to integrate with *[Okta](https://about.gitlab.com/handbook/business-technology/okta/#what-is-okta)
+The Security Risk Team will take reasonable steps to collaborate with vendors and obtain the documentation necessary to complete our review. Depending on the service provided and the data being transmitted, this may include requests for a Third Party Security Attestation and other relevant documentation such as a penetration testing summary and business continuity plan test. In the event that a vendor does not maintain this documentation, or refuses to provide it, the Security Risk team may suggest that the requestor find an alternative solution to meet their needs. In the event that the requestor decides to move forward with the vendor or service in question, a [Risk Acceptance](#tprm-risk-acceptance-process) may be drafted and presented to relevant members of the business to ensure an understanding of the identified risk.
+
+In the performance of these reviews, deficiencies may be identified that could present a risk to GitLab data that exceeds our tolerance. These deficiencies commonly include the below items:
+1. Inability to integrate with [Okta](/handbook/business-technology/okta/#what-is-okta)*
 1. Lack of third-party Security attestation (ISO 270001, SOC2 Type 2)
 1. Lack of background checks for employees and contractors
 1. Systems lacking multi-factor authentication (MFA) capabilities
 1. Systems lacking evidence of a recent penetration test
+1. Unresolved deficiencies documented within the penetration test with no apparent remediation plan or expected remediation date
 
-*While Okta SSO integration is GitLab's preferred method, IT Engineering can review and approve alternative SSO methods on a case by case basis. Exceptions must be submitted and reviewed through an [IT EngOps issue](https://gitlab.com/gitlab-com/it/engops/issue-tracker/-/issues/?sort=due_date&state=opened&first_page_size=100) before approval of the vendor's services.
+*While Okta SSO integration is GitLab's preferred method of authentication, IT Engineering can review and approve alternative SSO methods on a case by case basis. Exceptions must be submitted and reviewed through an [IT EngOps issue](https://gitlab.com/gitlab-com/it/engops/issue-tracker/-/issues/?sort=due_date&state=opened&first_page_size=100) before approval of the vendor's services.
 
-Deficiencies identified are reviewed in the context of the vendor's greater Security environment and the data transmitted. If a material risk to GitLab data is identified, a Risk Acceptance is drafted and presented to the Business Owner for review. See the **TPRM Risk Acceptance Process** section below.
+Deficiencies identified are reviewed in the context of the vendor's greater Security environment and the data transmitted. If a material risk to GitLab data is identified, a Risk Acceptance is drafted and presented to the Business Owner for review. See the **TPRM Risk Acceptance Process** section below for more information.
 
 ### TPRM Risk Acceptance Process
 
@@ -328,7 +331,7 @@ Exceptions to this procedure will be tracked as per the [Information Security Po
 - SCF Compliance Controls
 - [Data Classification Standard]({{< ref "data-classification-standard" >}})
 - [Current listing of controlled documents](https://gitlab.com/gitlab-com/gl-security/security-assurance/governance/security-governance/-/issues/42)
-- [App Integrations (Team Member Enablement)](https://about.gitlab.com/handbook/business-technology/team-member-enablement/app-integrations/)
+- [App Integrations (Team Member Enablement)](/handbook/business-technology/team-member-enablement/app-integrations/)
 - [Observation Management Procedure]({{< ref "observation-remediation-procedure" >}})
 - [STORM]({{< ref "storm-program" >}})
 - [Professional Services](/handbook/finance/procurement/#-how-do-i-create-a-purchase-request-in-zip)

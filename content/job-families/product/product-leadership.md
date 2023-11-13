@@ -4,7 +4,7 @@ description: "This job family represents all members of the Product Leadership T
 ---
 
 This job family represents all members of the Product Leadership team within the Product Division. They are responsible for managing,
-directly or indirectly GitLab team members in the roles outlined in the [Product Team Functions](https://about.gitlab.com/handbook/product/).
+directly or indirectly GitLab team members in the roles outlined in the [Product Team Functions](/handbook/product/).
 
 ## Roles
 
@@ -25,7 +25,7 @@ The VP of UX is a [grade 12](/handbook/total-rewards/compensation/compensation-c
 - **UX initiatives:** Identify ways to elevate the GitLab product experience, manage initiatives to address those concerns, and track and communicate about progress.
 - **Coach UX leaders:** Help UX leaders grow their skills and leadership experience.
 - **Culture:** Foster an open and collaborative culture based on trust in the UX department, where everyone feels empowered to do their best work.
-- **Cross-product collaboration:** Ensure that UX is well-integrated into the [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/), and advocate for process changes that help product management, engineering, and UX work together to build a great experience.
+- **Cross-product collaboration:** Ensure that UX is well-integrated into the [Product Development Flow](/handbook/product-development-flow/), and advocate for process changes that help product management, engineering, and UX work together to build a great experience.
 - **Design system:** Define and promote design guidelines, best practices, and standards, and help to drive GitLab's [design system](https://design.gitlab.com/) forward at a strategic level.
 - **Research evangelism:** Work with product leadership to prioritize research efforts, so that we validate whether we're solving the right problems in the right ways.
 - **Democratize UX:** Ensure that Development is included in the UX process by offering the opportunity to participate in and understand the outcomes of user research, give early feedback on upcoming designs, and participate in design system strategy.
@@ -60,10 +60,10 @@ See more details about our hiring process on the [hiring handbook](/handbook/hir
 
 #### Performance indicators
 
-- [Hiring Actual vs Plan](https://about.gitlab.com/handbook/product/ux/performance-indicators/#hiring-actual-vs-plan)
-- [Diversity](https://about.gitlab.com/handbook/product/ux/performance-indicators/#diversity)
-- [Handbook Update Frequency](https://about.gitlab.com/handbook/product/ux/performance-indicators/#handbook-update-frequency)
-- [Team Member Retention](https://about.gitlab.com/handbook/product/ux/performance-indicators/#team-member-retention)
+- [Hiring Actual vs Plan](/handbook/product/ux/performance-indicators/#hiring-actual-vs-plan)
+- [Diversity](/handbook/product/ux/performance-indicators/#diversity)
+- [Handbook Update Frequency](/handbook/product/ux/performance-indicators/#handbook-update-frequency)
+- [Team Member Retention](/handbook/product/ux/performance-indicators/#team-member-retention)
 
 
 ### VP of Product Management
@@ -83,7 +83,7 @@ The VP of Product Management is a [grade 12](/handbook/total-rewards/compensatio
 - Align team with end-to-end product line vision and goals
 - Leverage portfolio product management techniques to ensure product investments are properly allocated across the end-to-end GitLab product
 - Partner effectively with Engineering, Design, and Product Marketing to ensure we validate, build, launch, and measure product experiences that customers love and value
-- Help refine and implement the GitLab [product development flow](https://about.gitlab.com/handbook/product-development-flow/), ensuring team members receive training and coaching required to work effectively within the system
+- Help refine and implement the GitLab [product development flow](/handbook/product-development-flow/), ensuring team members receive training and coaching required to work effectively within the system
 - Serve as a spokesperson for the end-to-end GitLab product internally and externally
 
 #### VP of Product Management - Requirements
@@ -92,7 +92,7 @@ The VP of Product Management is a [grade 12](/handbook/total-rewards/compensatio
 - Demonstrated understanding of DevOps markets, competition, and underlying technologies
 - Track record of leading products to successful commercial outcomes
 - Excellent at boardroom and big stage presentations, and able to inspire and motivate customers and employees through written and verbal communications
-- Demonstrated ability to teach and coach the product management skills as outlined [here](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/)
+- Demonstrated ability to teach and coach the product management skills as outlined [here](/handbook/product/product-manager-role/product-CDF-competencies/)
 
 #### VP of Product Management - Hiring Process
 
@@ -112,17 +112,17 @@ Candidates for this position can expect the hiring process to follow the order b
 
 The VP of Product Management - Dev & Analytics is the PM DRI for the Dev and Analytics Sections which include:
 
-- [Dev Section](https://about.gitlab.com/handbook/product/categories/#dev-section) - Create, Plan, and Manage Stages
-- [Analytics Section](https://about.gitlab.com/handbook/product/categories/#analytics-section) - Analyze Stage
+- [Dev Section](/handbook/product/categories/#dev-section) - Create, Plan, and Manage Stages
+- [Analytics Section](/handbook/product/categories/#analytics-section) - Analyze Stage
 
 ##### CI/CD, Enablement, & SaaS Platforms
 
 The VP of Product Management - CI/CD, Enablement, & SaaS Platforms is the PM DRI for the CI, CD, Enablement, & SaaS Platforms Sections which include:
 
-- [CI Section](https://about.gitlab.com/handbook/product/categories/#ci-section) - Verify & Package Stages
-- [CD Section](https://about.gitlab.com/handbook/product/categories/#cd-section) - Deploy Stage
-- [Enablement Section](https://about.gitlab.com/handbook/product/categories/#enablement-section) - Systems & Data Stores Stages
-- [SaaS Platforms Section](https://about.gitlab.com/handbook/product/categories/#saas-platforms-section) - SaaS Platforms Stage
+- [CI Section](/handbook/product/categories/#ci-section) - Verify & Package Stages
+- [CD Section](/handbook/product/categories/#cd-section) - Deploy Stage
+- [Enablement Section](/handbook/product/categories/#enablement-section) - Systems & Data Stores Stages
+- [SaaS Platforms Section](/handbook/product/categories/#saas-platforms-section) - SaaS Platforms Stage
 
 ### Senior Director of Product Management
 
@@ -155,20 +155,20 @@ The next step in the Product Management Leadership job family is to move to the 
 
 The Senior Director of Product Management - Sec, Data Science, & Service Management is the PM DRI for the Sec, Data Science, Service Management Sections which include:
 
-- [Sec Section](https://about.gitlab.com/handbook/product/categories/#sec-section) - Secure & Govern Stages
-- [Data Science Section](https://about.gitlab.com/handbook/product/categories/#data-science) - ModelOps & Anti-Abuse Stages
-- [Service Management Section](https://about.gitlab.com/handbook/product/categories/#monitor-stage) - Monitor Stage
+- [Sec Section](/handbook/product/categories/#sec-section) - Secure & Govern Stages
+- [Data Science Section](/handbook/product/categories/#data-science) - ModelOps & Anti-Abuse Stages
+- [Service Management Section](/handbook/product/categories/#monitor-stage) - Monitor Stage
 
 ##### Monetization & Operations
 
 The Senior Director of Product Management - Monetization & Operations is the PM DRI for the Fulfillment Section, Pricing, Product Analysis, and Product Operations which include:
 
-- [Fulfillment Section](https://about.gitlab.com/handbook/product/categories/#fulfillment-section) - Fulfillment Stage
+- [Fulfillment Section](/handbook/product/categories/#fulfillment-section) - Fulfillment Stage
 - [Pricing](/handbook/company/pricing/) - Pricing team
-- [Product Data Insights](https://about.gitlab.com/handbook/product/product-analysis/) - Product Data Insights Stage
+- [Product Data Insights](/handbook/product/product-analysis/) - Product Data Insights Stage
 - [Product Operations](https://about.gitlab.com/direction/product-operations/) - Product Operations Team
 
-The Senior Director of Product Management, Monetization & Operations is the PM DRI for [Fulfillment](https://about.gitlab.com/handbook/product/categories/#fulfillment-section), Pricing, [Product Operations](https://about.gitlab.com/handbook/product/product-operations/), and [Product Analysis](https://about.gitlab.com/handbook/product/product-analysis/) and reports to the VP of Product.
+The Senior Director of Product Management, Monetization & Operations is the PM DRI for [Fulfillment](/handbook/product/categories/#fulfillment-section), Pricing, [Product Operations](/handbook/product/product-operations/), and [Product Analysis](/handbook/product/product-analysis/) and reports to the VP of Product.
 
 #### Senior Director of Product Management - Hiring Process
 

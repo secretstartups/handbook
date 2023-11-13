@@ -174,7 +174,7 @@ We deploy SUS on a regular basis, but that doesn’t mean we should expect to se
 
 ## SUS Database
 
-Every quarter, we collect dozens of data points in our SUS survey, including the individual SUS scores, participants' verbatims, and more. If you want to find past data, you can use the [SUS Database](https://about.gitlab.com/handbook/product/ux/sus-database/) handbook page to find our database in Sisense (internal users only).
+Every quarter, we collect dozens of data points in our SUS survey, including the individual SUS scores, participants' verbatims, and more. If you want to find past data, you can use the [SUS Database](/handbook/product/ux/sus-database/) handbook page to find our database in Sisense (internal users only).
 
 ## Frequently Asked Questions
 

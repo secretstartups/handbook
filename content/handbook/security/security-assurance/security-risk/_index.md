@@ -31,7 +31,7 @@ The Security Risk Team facilitates a BIA for all new systems. A BIA is performed
 
 ### <i class="fas fa-warehouse" style="color:rgb(253,109,38)" aria-hidden="true"></i> Asset Inventory Maintenance{#asset-inventory}
 
-Establishing a complete and accurate inventory of assets is key to the success of GitLab's Risk Program. As such, the Security Risk Team collaborates closely with IT and Business Owners to ensure new systems are added to the [Tech Stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#roles-and-responsibilities) and that associated data is maintained via our BIA processes.
+Establishing a complete and accurate inventory of assets is key to the success of GitLab's Risk Program. As such, the Security Risk Team collaborates closely with IT and Business Owners to ensure new systems are added to the [Tech Stack](/handbook/business-technology/tech-stack-applications/#roles-and-responsibilities) and that associated data is maintained via our BIA processes.
 
 ----
 

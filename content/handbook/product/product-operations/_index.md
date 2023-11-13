@@ -17,7 +17,7 @@ For an overview and focus areas of product operations at GitLab, check out  prod
 
 ## Product operations direction
 
-You can learn about what Product Operations is at GitLab, how it works and the areas of focus [here](/direction/product-operations/).
+You can learn about what Product Operations is at GitLab, how it works and the areas of focus [here](https://about.gitlab.com/direction/product-operations/).
 
 ## Product operations board
 
@@ -25,14 +25,14 @@ You can collaborate or contribute to any work in progress with the Product Opera
 
 ## Product operations releases
 
-Product operations work happens in alignment with GitLab's [product development timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline), releasing [every month](/handbook/engineering/releases/). However, in order to avoid overlap with the product release peak work time and allow teams the bandwidth to understand and adopt updates into their workflow, product operations release notes will push between the 23rd and 30th of every month, and be adjusted as needed around holidays and weekends. 
+Product operations work happens in alignment with GitLab's [product development timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline), releasing [every month](https://about.gitlab.com/handbook/engineering/releases/). However, in order to avoid overlap with the product release peak work time and allow teams the bandwidth to understand and adopt updates into their workflow, product operations release notes will push between the 23rd and 30th of every month, and be adjusted as needed around holidays and weekends. 
 
 **Information on the most recent product operations releases can be seen here:**
 
 - [Product development flow releases](/handbook/product-development-flow/releases/)
-- [Product handbook updates](https://about.gitlab.com/handbook/product/handbook-updates/)
+- [Product handbook updates](/handbook/product/handbook-updates/)
 - [Release post updates](https://about.gitlab.com/handbook/marketing/blog/release-posts/process-updates/)
-- [Template specific updates](https://about.gitlab.com/handbook/product/product-operations/template-updates/)
+- [Template specific updates](/handbook/product/product-operations/template-updates/)
 
 **Information on all work currently in progress for product operations can be seen here:**
 
@@ -45,5 +45,5 @@ Product operations work happens in alignment with GitLab's [product development 
 
 Product operations is responsible for managing Post Purchase Surveys (PPS) as well as Paid NPS Surveys (PNPS) on behalf of GitLab.
 
-- [Survey results](https://about.gitlab.com/handbook/product/product-operations/surveys/)
-- [Workflow and technical details](https://about.gitlab.com/handbook/product/product-operations/surveys/workflows/)
+- [Survey results](/handbook/product/product-operations/surveys/)
+- [Workflow and technical details](/handbook/product/product-operations/surveys/workflows/)

@@ -31,13 +31,13 @@ The Product Designer (UX) - Marketing (Intermediate) is a [grade 6](/handbook/to
 #### Product Designer (UX) - Marketing (Intermediate) Requirements
 
 - **Product knowledge:** Understand the technology and features of GitLab.
-- **Research:** Conduct [solution validation](https://about.gitlab.com/handbook/product-development-flow/#validation-phase-4-solution-validation) with guidance of your Product Manager and incorporate insights into design decisions to fulfill user and business needs.
+- **Research:** Conduct [solution validation](/handbook/product-development-flow/#validation-phase-4-solution-validation) with guidance of your Product Manager and incorporate insights into design decisions to fulfill user and business needs.
 - **Deliverables:** Create deliverables for our [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/) (for example: competitive analyses, user flows, low fidelity wireframes, high fidelity mockups, prototypes, etc.) that solve real user problems through the user experience.
 - **Communication:** Communicate the results of UX activities with the [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/), cross-functional partners, and other interested GitLab team-members using clear language that simplifies complexity.
 - **Usability:** Proactively identify both small and large usability issues with the Marketing site.
 - **Iteration:** Practice design iteration and take part in our 2 week sprint cadence by breaking down the designs to fit release cadence, reviewing and approving merge requests (visual quality assurance).
 - **Design system:** Keep design components available and up to date in prototyping tools, ensuring that reusable components fit visually and functionally together as well as meeting accessibility requirements. Actively contribute to the [Slippers Design System](https://gitlab-com.gitlab.io/marketing/inbound-marketing/slippers-ui/) and document usage.
-- **Design reviews:** Participate in [Design Reviews](https://about.gitlab.com/handbook/product/ux/product-designer/#design-reviews), giving and receiving feedback in an appropriate way.
+- **Design reviews:** Participate in [Design Reviews](/handbook/product/ux/product-designer/#design-reviews), giving and receiving feedback in an appropriate way.
 - **UX debt:** Understand UX debt and make recommendations for its resolution with the help from a Sr. Product Designer or your Product Manager.
 
 ### Senior Product Designer (UX) - Marketing
@@ -52,12 +52,12 @@ The Senior Product Designer is a [grade 7](/handbook/total-rewards/compensation/
 
 - Extends that of the Product Designer (UX) - Marketing responsibilities
 - **Product knowledge:** Understand GitLab's Marketing vison and goals as well as proactively learn other product areas.
-- **Research:** Independently conduct [solution validation](https://about.gitlab.com/handbook/product-development-flow/#validation-phase-4-solution-validation) with minimal guidance from your Product Manager and incorporate insights into design decisions to fulfill user and business needs.
+- **Research:** Independently conduct [solution validation](/handbook/product-development-flow/#validation-phase-4-solution-validation) with minimal guidance from your Product Manager and incorporate insights into design decisions to fulfill user and business needs.
 - **Deliverables:** Create deliverables for our [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/) (for example: competitive analyses, low fidelity wireframes, high fidelity mockups, prototypes, journey maps, storyboards, personas, design vision, strategic planning, etc.) that help define the vision and execution of solving real user problems through the user experience.
 - **Communication:** Communicate the results of UX activities with a strong point of view within our [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/), cross-functional partners, and other interested GitLab team-members using clear language that simplifies complexity.
 - **Usability:** Proactively identify both small and large usability issues within GitLab's Marketing experience, and help influence your Product  Manager and Technical Product Owner to prioritize them.
 - **Iteration:** Lead and coach iteration of design work. Take part in the bi-weekly sprint cycle by breaking down the designs to fit release cadence, reviewing and approving merge requests submitted by developers.
-- **Design reviews:** Participate in [Design Reviews](https://about.gitlab.com/handbook/product/ux/product-designer/#design-reviews), and model best practices for giving and receiving feedback
+- **Design reviews:** Participate in [Design Reviews](/handbook/product/ux/product-designer/#design-reviews), and model best practices for giving and receiving feedback
 - **UX debt:** Identify and influence the prioritization of UX debt.
 - **Design system:** Actively contribute to the Slipper Design System, help determine whether components are single-use or multi-use, and provide recommendations to designers regarding new component requests.
 - **Public presence:** Help promote GitLab publicly by writing blog articles, giving talks, or responding on social media, where appropriate.

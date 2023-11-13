@@ -17,11 +17,11 @@ strong engineering principles, and methodical problem-solving skills.
 CI/CD, and load balancing.
 - Have the ability to grow your knowledge of GitLab provisioning and setup tools like Terraform and Ansible.
 - Setup and maintain new GitLab test environments.
-- You’ll work on test automation issues related to the Quality department, the [stage group you're embedded in](https://about.gitlab.com/handbook/product/categories/#devops-stages), and the entire GitLab product. The work you’ll do will be [transparent and open to the GitLab community](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Quality)
+- You’ll work on test automation issues related to the Quality department, the [stage group you're embedded in](/handbook/product/categories/#devops-stages), and the entire GitLab product. The work you’ll do will be [transparent and open to the GitLab community](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Quality)
 - Participate in test pipeline triage rotation and ensure pipeline failures are triaged promptly.
 - Develop working knowledge of the entire GitLab application stack including tests at all levels. (Unit, Integration, and End-to-end).
 - Groom and prune GitLab tests at all levels to ensure optimal coverage and effective deduplication.
-- Collaborate with a [Product Manager and with the wider product and development team](https://about.gitlab.com/handbook/product-development-flow/#build-track) to understand how new features should be tested and to contribute to automated tests for these new features.
+- Collaborate with a [Product Manager and with the wider product and development team](/handbook/product-development-flow/#build-track) to understand how new features should be tested and to contribute to automated tests for these new features.
 - Collaborate with engineers to define and implement mechanisms to inject testing earlier into the software development process.
 - Identify, share, and nurture the adoption of best practices in code health, testing, testability, and maintainability in collaboration with the wider Quality department. You should champion clean code and the concept of the test pyramid.
 - Analyze complex software systems and collaborate with others to improve the overall design, testability, and quality.

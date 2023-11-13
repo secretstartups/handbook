@@ -71,7 +71,7 @@ The VP, Business Development and Strategic Parterships is a [grade 12](/handbook
 
 - $ derived from GitLab + Technology partner joint customers
 - Size of Partner Practices - skilled, certified consultants and deliver resources
-- [SMAU](https://about.gitlab.com/handbook/product/performance-indicators/#stage-monthly-active-users-smau) acceleration by stage or # seats in named enterprise accounts
+- [SMAU](/handbook/product/performance-indicators/#stage-monthly-active-users-smau) acceleration by stage or # seats in named enterprise accounts
 
 ## Career Ladder
 

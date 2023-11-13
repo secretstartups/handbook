@@ -19,7 +19,7 @@ Welcome to Learning and Development for Product Management at GitLab! This page 
 
 The resources in the Product L & D Hub are meant to support product managers to explore, learn and grow at their own pace. We aim to collect content that spans various skill levels, as well as various levels of depth/commitment. It is recommended that product managers engage with the resources here to help them have a successful journey at GitLab and in their product career as a whole. 
 
-Most of the resources here are free but any content requiring payment [can be reimbursed following the GitLab reimbursement policies](https://about.gitlab.com/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications).
+Most of the resources here are free but any content requiring payment [can be reimbursed following the GitLab reimbursement policies](/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications).
 
 Over time, we will add content to directly support GitLab's product management [competencies](/handbook/product/product-manager-role/product-CDF-competencies/), [CDF](/handbook/product/product-manager-role/product-CDF-competencies/) and [product development flow](/handbook/product-development-flow/). We understand that the evolving product management space requires continuous learning, and GitLab is committed to providing the time needed for in-depth learning too as part of your working time. You are encouraged to ask your manager to help you carve out time for Learning and Development. 
 
@@ -53,14 +53,14 @@ GitLab's Chief Product Officer shares insights on what makes an opportunity canv
 
 ####  Overview and Example Canvases by Stage Maturity
 
-* [Opportunity Canvas Overview](https://about.gitlab.com/handbook/product/product-processes/#opportunity-canvas)
+* [Opportunity Canvas Overview](/handbook/product/product-processes/#opportunity-canvas)
 * Minimal: [Translating alerts into actionable incidents is challenging](https://docs.google.com/document/d/1-sJoVFr3ND_-N3EtXUNYF6oVROfhE4rcjVqpnQd5N6U/edit#heading=h.bjrjegyjyv9f)
 * Complete: [Remote and Virtual Package Repositories](https://docs.google.com/document/d/1HxStNvY5i4Qn6c_AvhsKNV2WOEqbAivEjZqFPwhKej8/edit#heading=h.4mt5fmtn0ax4)
 * Loveable: [Plan: Project Management, Fix Groups and Projects](https://docs.google.com/document/d/1a2xuEMAsWzPK-cb_wnS9DWh9YHXZLs34Lp7jdetODR4/edit#heading=h.4mt5fmtn0ax4)
 
 ##### "Lite" Opportunity Canvas
 
-* [When and how to use an Opportunity Canvas "Lite"](https://about.gitlab.com/handbook/product/product-processes/#opportunity-canvas-lite)
+* [When and how to use an Opportunity Canvas "Lite"](/handbook/product/product-processes/#opportunity-canvas-lite)
 * [Example: Opportunity Canvas Lite: Parent-child pipelines default behavior change](https://gitlab.com/gitlab-com/Product/-/issues/2030)
 
 ##### Example Videos of Canvas Reviews
@@ -90,7 +90,7 @@ Fabian and Nick discuss PM/EM collaboration on the Geo team and the importance o
 
 #### General Prioritization Guidance
 
-- [The GitLab prioritization guidelines table](https://about.gitlab.com/handbook/product/product-processes/#prioritization)
+- [The GitLab prioritization guidelines table](/handbook/product/product-processes/#prioritization)
 
 ## Product Management Peer Mentorship Program
 
@@ -126,11 +126,11 @@ We will be planning the Pilot Program in this [epic](https://gitlab.com/groups/g
 ### Using the Career Development Framework during Peer Mentorship 
 
 
-Product Managers are all evaluated using the [CDF](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/) and it can be a great tool to use as a way to discuss how each person is performing in context to the CDF. If you are looking to improve in a certain area of your CDF, the peer mentorship space can be a great place to seek mentorship. Please note that CDFs are confidential documents that are kept between team members and their management lines, however, for the purpose of mentorship, team members can choose to share relevant portions. If any feedback about the CDF arises, please discuss the feedback with your manager or open an MR to the [CDF handbook page](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/) and tag `gl-product-leadership` for review.
+Product Managers are all evaluated using the [CDF](/handbook/product/product-manager-role/product-CDF-competencies/) and it can be a great tool to use as a way to discuss how each person is performing in context to the CDF. If you are looking to improve in a certain area of your CDF, the peer mentorship space can be a great place to seek mentorship. Please note that CDFs are confidential documents that are kept between team members and their management lines, however, for the purpose of mentorship, team members can choose to share relevant portions. If any feedback about the CDF arises, please discuss the feedback with your manager or open an MR to the [CDF handbook page](/handbook/product/product-manager-role/product-CDF-competencies/) and tag `gl-product-leadership` for review.
 
 ## Growth and Development processes
 
-The general [Growth and Development benefits](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) are maintained by the Total Rewards team. The following make it more specific for Product Managers.
+The general [Growth and Development benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) are maintained by the Total Rewards team. The following make it more specific for Product Managers.
 
 The product team has specific processes for the trainings outlined below. To get support for a new training, please follow the general guidelines for Growth and Development.
 
@@ -218,14 +218,14 @@ This content is divided into five key competencies for Product Managers.
 
 ##### Quick reads and videos
 
-- [Gitlab Jobs to be Done (JTBD) Overview](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/)
+- [Gitlab Jobs to be Done (JTBD) Overview](/handbook/product/ux/jobs-to-be-done/)
 - [Clayton Christensen - Understanding the Job](https://www.youtube.com/watch?v=sfGtw2C95Ms) (5 min video)
 - [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
 
 
 ##### Deeper dive
 
-- [GitLab Jobs to be Done (JTBD) Deep Dive](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/deep-dive/)
+- [GitLab Jobs to be Done (JTBD) Deep Dive](/handbook/product/ux/jobs-to-be-done/deep-dive/)
 - [Bob Moesta & Chris Spiek - Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/) (57 min video)
 - [Tony Ulwick - Customer Centered Innovation](https://businessofsoftware.org/2015/08/tony-ulwick/) (57 min video)
 - [Xavier Russo - A step-by-step guide to using Outcome Driven Innovataion](https://medium.com/envato/a-step-by-step-guide-to-using-outcome-driven-innovation-odi-for-a-new-product-ded320f49acb)
@@ -299,7 +299,7 @@ This content is divided into five key competencies for Product Managers.
 - [Julie Zhuo: How to Work with Designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146#.q68swu2de)
 - [Jess Eddy: What do designers really want from product managers?](https://uxdesign.cc/what-do-designers-really-want-from-product-managers-9c0e14993a8)
 - [Jared Spool: Using the Kano Model to Build Delightful UX](https://youtu.be/ewpz2gR_oJQ) (45 min video)
-- [GitLab Kano Model and Feature Prioritization Survey](https://about.gitlab.com/handbook/product/ux/ux-research/kano-model/)
+- [GitLab Kano Model and Feature Prioritization Survey](/handbook/product/ux/ux-research/kano-model/)
 
 ##### Deeper dive
 
@@ -397,8 +397,8 @@ _Please contribute your favorite resources here_
 ##### Quick reads and videos
 
 - What does [Iteration](/handbook/values/#iteration) mean for GitLab?
-- What is a [Minimal Viable Change](https://about.gitlab.com/handbook/product/product-principles/#sts=The%20Minimal%20Viable%20Change%20(MVC))?
-- [Product Processes: Iteration Strategies](https://about.gitlab.com/handbook/product/product-processes/#iteration-strategies)
+- What is a [Minimal Viable Change](/handbook/product/product-principles/#sts=The%20Minimal%20Viable%20Change%20(MVC))?
+- [Product Processes: Iteration Strategies](/handbook/product/product-processes/#iteration-strategies)
 - A [video by Sid and Leif on iteration](https://www.youtube.com/watch?v=tPTweQlBS54) (24 min video)
 - [Product Leadership discusses examples of iteration that they've learned from](https://www.youtube.com/watch?v=tPTweQlBS54) (19 min video) 
 - [Des Traynor: Start with a cupcake](https://www.intercom.com/blog/start-with-a-cupcake/)
@@ -461,7 +461,7 @@ _Please contribute your favorite resources here_
 - [Benefits of OKRs](https://www.whatmatters.com/faqs/benefits-of-okrs/)
 - [Getting Started with OKRs](https://learn.ally.io/path/employee/getting-started-with-okrs)
 - [Writing Basic OKRs](https://learn.ally.io/writing-basic-okrs)
-- [Gitlab - How to write OKRs](https://about.gitlab.com/handbook/product/product-okrs/#how-to-write-okrs)
+- [Gitlab - How to write OKRs](/handbook/product/product-okrs/#how-to-write-okrs)
 - [Ally for OKRs - Overview for Product](https://www.youtube.com/watch?v=hP9yk_PSj2k&feature=youtu.be) (10 min video)
 
 ##### Deeper dive

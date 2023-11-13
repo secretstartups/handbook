@@ -1,6 +1,7 @@
 ---
 title: "Sponsorship Program Guide"
 description: "The process for Sponsorship Programs at GitLab"
+aliases: /handbook/company/culture/inclusion/DIB-Sponsorship/
 ---
 
 ## Sponsorship vs Mentorship
@@ -242,7 +243,7 @@ This is where both parties agree to move forward with the next step, which is sp
 Suggested Actions:
 
 - Participate in feedback session with sponsee
-  
+
 **Advocate**
 
 Now that a commitment has been made and the sponsor is satisfied that the sponsee is ready for the next step. The sponsor actively and intentionally advocates for sponsees continued career development and advancement at GitLab.

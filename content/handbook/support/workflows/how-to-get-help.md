@@ -88,7 +88,7 @@ The easiest way to determine the correct place for a Support Request for Help is
 1. Locate a documentation page for the feature or topic on which you need help.
 1. Scroll down to the bottom of the page and click on either the "Edit this page" link.
 1. This will open up the `.md` source file of that docs page, which contains both the `stage` and `group` responsible for it noted on the top.
-1. Now go to the [Product Categories handbook page](https://about.gitlab.com/handbook/product/categories/) and search for the Development Section to which the group identified on the previous step belongs to.
+1. Now go to the [Product Categories handbook page](/handbook/product/categories/) and search for the Development Section to which the group identified on the previous step belongs to.
 1. Use the table and workflow below to create a Request for Help issue in the project identified above.
 
 Alternatively, if you have set up the [Support dotfiles](https://gitlab.com/gitlab-com/support/toolbox/dotfiles), you can use the `gls_request_for_help` command to quickly retrieve the "New issue" link with the correct issue template.
@@ -103,11 +103,11 @@ Please follow [support epic #222](https://gitlab.com/groups/gitlab-com/support/-
 
 | Development Section | Section Product and Group Breakdown | Link to the GitLab Project for requesting help |
 | ----------- | -------------- | -------- |
-| Ops (CI, CD) Section | [Ops Section Breakdown](https://about.gitlab.com/handbook/product/categories/#ops-section)| [Section Ops Request for Help](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help/) |
-| Dev Section | [Dev Section Breakdown](https://about.gitlab.com/handbook/product/categories/#dev-section) | [Section Dev Request for Help](https://gitlab.com/gitlab-com/dev-sub-department/section-dev-request-for-help/) |
-| Sec Section | [Sec Section Breakdown](https://about.gitlab.com/handbook/product/categories/#sec-section) | [Section Sec Request for Help](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help) |
-| Enablement Section | [Enablement Section Breakdown](https://about.gitlab.com/handbook/product/categories/#enablement-section) | [Section Enablement Request for Help](https://gitlab.com/gitlab-com/enablement-sub-department/section-enable-request-for-help) |
-| Fulfilment Section | [Fulfilment Section Breakdown](https://about.gitlab.com/handbook/product/categories/#fulfillment-section) | [Section Fulfilment Request for Help](https://gitlab.com/gitlab-com/fulfilment-sub-department/section-fulfilment-request-for-help) |
+| Ops (CI, CD) Section | [Ops Section Breakdown](/handbook/product/categories/#ops-section)| [Section Ops Request for Help](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help/) |
+| Dev Section | [Dev Section Breakdown](/handbook/product/categories/#dev-section) | [Section Dev Request for Help](https://gitlab.com/gitlab-com/dev-sub-department/section-dev-request-for-help/) |
+| Sec Section | [Sec Section Breakdown](/handbook/product/categories/#sec-section) | [Section Sec Request for Help](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help) |
+| Enablement Section | [Enablement Section Breakdown](/handbook/product/categories/#enablement-section) | [Section Enablement Request for Help](https://gitlab.com/gitlab-com/enablement-sub-department/section-enable-request-for-help) |
+| Fulfilment Section | [Fulfilment Section Breakdown](/handbook/product/categories/#fulfillment-section) | [Section Fulfilment Request for Help](https://gitlab.com/gitlab-com/fulfilment-sub-department/section-fulfilment-request-for-help) |
 | SaaS Section (GitLab Dedicated) | [GitLab Dedicated Breakdown](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/) | [Gitlab Dedicated Request for Help Template](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new?issuable_template=support_request) |
 
 **Please note:** GitLab Dedicated is the first iteration for implementing a Request For Help Section for the SaaS section of GitLab development, therefore at the moment the GitLab project structure and workflows may not be consistent with the other development sections in the above table. You can find out more information on GitLab Dedicated internal processes by visiting the [Dedicated Team's ReadMe](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/blob/main/README.md).
@@ -165,7 +165,7 @@ If you encounter any problems, such as obtaining a timely response from Developm
 - [Support Workflows](/handbook/support/workflows/) to follow relevant troubleshooting workflow.
 - [Support Documentation links](/handbook/support/#documentation) for quick references to helpful GitLab documentation.
 - [Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) to find a Support Engineer scoped to the skill set needed for help.
-- [DevOps Stages](https://about.gitlab.com/handbook/product/categories/#devops-stages) to find the right development or product team to reach out to.
+- [DevOps Stages](/handbook/product/categories/#devops-stages) to find the right development or product team to reach out to.
 - [Emergency runbooks](https://gitlab.com/gitlab-com/support/emergency-runbook/-/tree/master/.gitlab/issue_templates) with troubleshooting tips, even if not an emergency.
 - See which [manager is on-call](https://gitlab.pagerduty.com/escalation_policies#PGNLUZ1) if guidance is needed on something urgent.
 

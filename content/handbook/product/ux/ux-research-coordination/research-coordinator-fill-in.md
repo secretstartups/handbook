@@ -48,11 +48,11 @@ There are times when you will play the role of UX Research Operations Coordinato
 
 #### Step 3 - Choose the best recruiting channel from these options:
 
-- **[First Look (Qualtrics)](https://about.gitlab.com/handbook/product/ux/qualtrics/#distributing-a-survey-to-gitlab-first-look):**
+- **[First Look (Qualtrics)](/handbook/product/ux/qualtrics/#distributing-a-survey-to-gitlab-first-look):**
    - Contains GitLab users, mostly our Developer persona, although some more exotic job titles are also found there.
    - Can be used to identify respondents for surveys.
    - For other studies, feel free to “pre-screen” in First Look by performing an advanced search to see how many of the screener criteria are available.
-- **[Data warehouse contacts](https://about.gitlab.com/handbook/product/ux/ux-research/recruiting-participants/#finding-gitlabcom-users-in-the-data-warehouse)**
+- **[Data warehouse contacts](/handbook/product/ux/ux-research/recruiting-participants/#finding-gitlabcom-users-in-the-data-warehouse)**
    - Requires editor access & SQL knowledge
    - Contains GitLab SaaS user information.
    - Can be used to identify respondents for surveys.
@@ -63,7 +63,7 @@ There are times when you will play the role of UX Research Operations Coordinato
   - How to use it:
     - Log into Respondent and build and launch the campaign, using the screener from the person conducting the research.
     - Take care to double check your criteria and set the correct questions to “disqualify” participants. For example, you can specify that you only want Jira users by setting 'Jira' as a 'must select' response in the relevant question. This will automatically disqualify anyone who chooses another response. This saves you time by reducing the volume of screener responses you need to comb through. It also helps non-researchers easily see who is qualified to take part in the study.
-- **[UserTesting.com](https://about.gitlab.com/handbook/product/ux/ux-research/unmoderated-testing/)**
+- **[UserTesting.com](/handbook/product/ux/ux-research/unmoderated-testing/)**
    - Good for unmoderated usability tests
    - We can leverage their panel to recruit technical users
 - **Using Team members to socialize requests:**

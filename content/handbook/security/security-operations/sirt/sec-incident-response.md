@@ -118,7 +118,7 @@ Characteristics of an incident requiring escalation include but are not limited 
 - Incidents involving criminal activity or that may require the involvement of law enforcement
 - Incidents involving key personnel such as executive leadership
 
-If applicable, coordinate the incident response with [business contingency activities](https://about.gitlab.com/handbook/business-technology/gitlab-business-continuity-plan/).
+If applicable, coordinate the incident response with [business contingency activities](/handbook/business-technology/gitlab-business-continuity-plan/).
 
 ### Containment
 

@@ -16,7 +16,7 @@ The IT Operations System Administrator is a [grade 6](/handbook/total-rewards/co
 - Build API Integrations from the HRIS to third party systems and GitLab.com
 - Triage all IT related questions as they arise
 - Build and maintain cross-functional relationships with internal teams to champion initiatives
-- Spearhead onboarding and offboarding automation efforts with a variety of custom API integrations, including GitLab.com and third-party resources, not limited to our [tech-stack](https://about.gitlab.com/handbook/business-technology/tech-stack/), with scalability in mind
+- Spearhead onboarding and offboarding automation efforts with a variety of custom API integrations, including GitLab.com and third-party resources, not limited to our [tech-stack](/handbook/business-technology/tech-stack/), with scalability in mind
 
 ### Requirements
 
@@ -51,11 +51,11 @@ The IT Operations System Administrator is a [grade 6](/handbook/total-rewards/co
 
 ## Performance Indicators (PI)
 
-- [Mean Time between Failures (MTBF)](https://about.gitlab.com/handbook/business-technology/metrics/#mean-time-between-failures-mtbf)
-- [Mean Time to Repair (MTTR)](https://about.gitlab.com/handbook/business-technology/metrics/#mean-time-to-repair-mttr)
-- [Number of days since last environment audit](https://about.gitlab.com/handbook/business-technology/metrics/#number-of-days-since-last-environment-audit)
-- [Cycle Time for IT Support Issue Resolution](https://about.gitlab.com/handbook/business-technology/metrics/#cycle-time-for-it-support-issue-resolution)
-- [Customer Satisfaction Survey (CSAT)](https://about.gitlab.com/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
+- [Mean Time between Failures (MTBF)](/handbook/business-technology/metrics/#mean-time-between-failures-mtbf)
+- [Mean Time to Repair (MTTR)](/handbook/business-technology/metrics/#mean-time-to-repair-mttr)
+- [Number of days since last environment audit](/handbook/business-technology/metrics/#number-of-days-since-last-environment-audit)
+- [Cycle Time for IT Support Issue Resolution](/handbook/business-technology/metrics/#cycle-time-for-it-support-issue-resolution)
+- [Customer Satisfaction Survey (CSAT)](/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
 
 ## Hiring Process
 

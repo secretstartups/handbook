@@ -44,7 +44,7 @@ The GitLab Finance Department includes multiple Teams: Accounting, Financial Pla
 ## <i aria-hidden="true" class="fas fa-book fa-fw icon-color font-awesome"></i>Finance Handbooks{#finance-handbooks}
 
 - [Accounting]({{< ref "./accounting" >}})
-- [Business Technology](https://about.gitlab.com/handbook/business-technology/)
+- [Business Technology](/handbook/business-technology/)
 - [Financial Planning & Analysis]({{< ref "./financial-planning-and-analysis" >}})
 - [Investor Relations]({{< ref "./investor-relations" >}}/)
 - [Tax]({{< ref "/handbook/tax" >}})

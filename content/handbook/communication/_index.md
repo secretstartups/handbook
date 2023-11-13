@@ -23,6 +23,7 @@ We communicate respectfully and professionally at all times.
 1. **Do not underestimate a 1:1.** Asynchronous communication (e.g., via text) is helpful and necessary. In some cases (e.g., to clarify misunderstandings) it can be much more effective to jump on a Zoom video call.
 1. **Always Adhere to our [Anti-Harassment Policy](/handbook/anti-harassment/) and [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).** Everyone should be comfortable in their work environment.
 1. **Focus on what we can directly influence.** There are many factors we can't directly influence and we should avoid spending time discussing those things. For example, we don't talk about our [market capitalization](/handbook/being-a-public-company/#market-capitalization) because aspects of this are out of our control. Instead, we should focus on our KPIs and growing [annual recurring revenue](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/).
+1. **Commit to [active and effective listening](/handbook/people-group/learning-and-development/manager-coaching-and-leadership-resources/#demonstrating-active-listening)**.
 
 Embracing asynchronous communication and learning to use it effectively requires a mental shift. This can feel unusual or even uncomfortable for those who come from a colocated environment, where in-person meetings and communiques are the norm. Learn more about [mastering the use of the written word in an all-remote setting](/handbook/company/culture/all-remote/effective-communication/).
 
@@ -40,51 +41,6 @@ To learn more on when to use asynchronous and synchronous communication, example
 
 When working on a problem or issue, communicate directly with the people you need support from rather than working through reporting lines. Direct communication with the people you need to collaborate with is more efficient than working through your manager, their manager, or another intermediary.
 Escalate to management if you are not getting the support you need. Remember that everyone is a [manager of one](/handbook/values/#managers-of-one) and they might have to complete their own assignments and inform the reporting lines.
-
-### Top misused terms
-
-Please see our [Top misused terms page](/handbook/communication/top-misused-terms/).
-
-### Effective Listening
-
-It is estimated that listeners will filter out or change the intended meaning of what is heard in 70% of all communications. [Source](https://1personalcareercoach.com/art-listening-good-leader).
-
-**Myths about Listening**
-
-- Everybody knows how to listen.
-- Sending messages is more important than receiving them.
-- Listening is easy and passive.
-- Hearing and listening are the same thing.
-- An effective speaker commands audience attention.
-- Communication is the sender’s responsibility.
-- Listening is done with our ears.
-- Listening skills are practiced and not learned.
-- Listening ability comes from maturity.
-
-**Tips for Effective Listening**
-
-- Concentrate.
-- Give unequivocal attention to the speaker.
-- Don’t anticipate what the speaker means.
-- Test the message not the messenger.
-- Respect cultural difference and boundaries.
-- Develop the fine art of empathy.
-- Try not to interrupt.
-- Focus on feelings and not grammar or vocabulary.
-- Silence is the golden rule.
-
-**Being Assertive**
-
-There is a delicate balance between being confident enough to be assertive of personal rights and boundaries while respectful of others.
-
-- Know the distinction between being assertive and being aggressive or arrogant.
-- Establish clear boundaries when dealing with others.
-- Politely but directly let people know your position.
-- Know what you want.
-- Avoid being timid.
-- Be willing to clearly say either yes or no and stand by your answer.
-- Avoid arrogance.
-- When opinions are in question give yourself permission to disclose yours.
 
 ## Communicating Potentially GitLab Sensitive Topics
 
@@ -133,14 +89,7 @@ When in doubt, you can reach out to your People Business Partner and/or your lea
 
 ### Organization code names
 
-
-- Listed in Google Sheet under 'Organization code names'
-- To make it easier to recognize code names we base them on classic car models.
-
-There are two types of code names:
-
-- **Do not mention publicly** We can use code names anywhere we regularly share items in that medium with people outside the company: issue trackers, Group Conversations, etc. For these we don't have to use code names in things that are never published: SalesForce, Zuora, Zendesk, and verbal conversations.
-- **Do not write down** there are organizations that we shouldn't write down anywhere.
+Please see our [Project names section](/handbook/communication/confidentiality-levels/#project-names).
 
 ## Internal communication
 
@@ -1008,7 +957,7 @@ Watch the replay below:
 1. Refer to products by tier name only on Marketing pages: Our tier names are Ultimate, Premium, and Free. When both deployment models are being referred to (SaaS and self-managed), use the tier name only. When only one of the deployment models is being referred to, prefix the tier name with the deployment model. E.g., SaaS-Premium, Self-Managed-Ultimate.
 1. Correct capitalization of self-managed: The term `self-managed` should not be capitalized unless it's in a title or unless you are writing the full product name ("Self-Managed-Ultimate"). If it is used at the beginning of a sentence, then the first word only is capitalized: "Self-managed".
 1. Refer to environments that are installed and run by the end-user as "self-managed."
-1. Write a [group](https://about.gitlab.com/handbook/product/categories/#hierarchy) name as ["Stage:Group"](https://about.gitlab.com/handbook/product/categories/#naming) when you want to include the stage name for extra context.
+1. Write a [group](/handbook/product/categories/#hierarchy) name as ["Stage:Group"](/handbook/product/categories/#naming) when you want to include the stage name for extra context.
 1. Do not use a hyphen when writing the term "open source" except where doing so eliminates ambiguity or clumsiness.
 1. Monetary amounts shouldn't have one digit, so prefer $19.90 to $19.9.
 1. If an email needs a response, write the answer at the top of it.
@@ -1176,7 +1125,40 @@ For example, do not suggest that you're "working in real-time" when a matter is 
 
 Do not use a cool term such as "tiger team" when the [existing term of "working group"](/handbook/company/team/structure/working-groups/) is more exact. While cool terms such as these may be useful for persuading colleagues to join you in working towards a solution, the right way isn't to use flowery language.
 
-The last example is when we used 'Prioritizing for Global Optimization' for what we now call a [headcount reset](https://about.gitlab.com/handbook/product/product-processes/#headcount-resets). When we [renamed it](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/31101/diffs) we saw a good reduction in the use of this disruptive practice of moving people around.
+The last example is when we used 'Prioritizing for Global Optimization' for what we now call a [headcount reset](/handbook/product/product-processes/#headcount-resets). When we [renamed it](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/31101/diffs) we saw a good reduction in the use of this disruptive practice of moving people around.
+
+### Using additional languages
+
+Using American English as our standard language supports our values such as efficiency, results, and transparency.
+Careful use of another person's language can be a celebration of diversity and build an atmosphere of inclusion.
+
+The guidance in this section applies to written one-to-one communication, for example, merge request comments between an author and reviewer, not merge request descriptions or commit messages. Also keep the following in mind:
+
+- Use of an additional language is optional.
+- Stick to the few simple phrases in the table below.
+- Always include the language used and a translation to English.
+- Team members can choose to indicate the languages they speak in their Slack profile.
+- When in doubt, use American English.
+
+**Here's an example:**
+
+> Hey @nmalcolm, I left some suggestions for your merge request. Ka mau te wehi! (Te Reo Māori: great work / well done!)
+>
+> ありがとうございます (Japanese: thank you very much) for the review @cynthia!
+
+| Language | Hello | Thank you | Great work / well done |
+|----------|-------|-----------|------------------------|
+| Croatian | | Hvala | |
+| Japanese | | ありがとうございます | |
+| Te Reo Māori | Kia ora | Ngā mihi  | Ka mau te wehi! |
+
+<!--
+Note to table contributors:
+
+- Keep the list in alphabetical order
+- Provide guidance when required, e.g. regarding plurals, formality, gender. If possible provide simple language that is suitable for all circumstances.
+- Provide a template if the placement of a person's name is important, e.g. "Kia ora `NAME`".
+-->
 
 ### Avoid using Git in Project Names
 
@@ -1507,7 +1489,7 @@ GitLab has chosen to restrict the ability to install apps, and we have a process
 1. Add a custom message with more context about your request and also link the vendor approval issue.
 1. Click Submit. You'll receive a direct message from Slackbot when your request has been reviewed by the team.
 
-**Please note that this is only required for new apps that have not been reviewed or approved.** If your request is to add a new process or update an existing process for how an application works in slack, please refer to our [Business Technology Change Management](https://about.gitlab.com/handbook/business-technology/change-management/) process.
+**Please note that this is only required for new apps that have not been reviewed or approved.** If your request is to add a new process or update an existing process for how an application works in slack, please refer to our [Business Technology Change Management](/handbook/business-technology/change-management/) process.
 
 ### Emergency chat
 
@@ -1627,28 +1609,6 @@ Pages like this are part of the [handbook](/handbook/). The GitLab handbook is t
 ### READMEs
 
 `README` - `README.md` files are what are shown by default when you browse a repository. Contains useful information to give context on what the project/repository are for. These can also be used for [user profiles](https://docs.gitlab.com/ee/user/profile/#add-details-to-your-profile-with-a-readme) as personal READMEs.
-
-## Zoom
-
-GitLab uses [Zoom](https://zoom.us/) as the primary video collaboration platform for internal and external communications. Some of our customers and partners have different preferred tools and to facilitate the communication with those parties, GitLab provides licenses for WebEx and MS Teams. This service is only provided to team members that have a business need to host meetings and where Zoom is not accepted. It is not efficient for GitLab to use multiple video conferencing tools, however we encourage the use of the most popular ones among our customers and partners when needed. E.g.; Zoom, WebEx, MS Teams, Skype, etc.
-
-To request access to those tools, create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) and provide a justification for access.
-
-### Usage guidelines
-
-Please visit the [Tools and Tips handbook](/handbook/tools-and-tips/#zoom) for Zoom usage guidelines.
-
-### Using Zoom for personal connection
-
-[COVID-19](/handbook/total-rewards/benefits/covid-19/) is impacting how team members connect and communicate with family.
-
-Due to school closures, parents are tasked with being responsible for their children while at home. [Family and friends first, work second](/handbook/values/#family-and-friends-first-work-second) is an important Diversity, Inclusion & Belonging operating principle. To that end, we are encouraging GitLab team members to allow their children to connect with other children around the world.
-
-During this time of physical distancing, GitLab team members are welcome to use Zoom to connect with family if other options like FaceTime, etc. are not an option. Please ensure that attendees who are not GitLab team members have their own Zoom account. To ensure GitLab does not incur toll charges, please use Internet-based voice when possible.
-
-### Zoom webinars
-
-Please visit a detailed guide covering [everything you need to know about hosting or participating in a GitLab webinar](/handbook/communication/zoom/webinars/).
 
 ## Google Calendar
 

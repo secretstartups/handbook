@@ -7,8 +7,8 @@ canonical_path: "/company/okrs/"
 ## Most recent OKRs
 
 Our OKR process and timelines are public and listed on the pages below.
-- [FY24-Q3 Active](/handbook/company/okrs/fy24-q3/)
-- [FY24-Q4 Future](/handbook/company/okrs/fy24-q4/)
+- [FY24-Q4 Active](/handbook/company/okrs/fy24-q4/)
+- [FY25-Q1 Future](/handbook/company/okrs/fy25-q1/)
 - [Previous OKRs](#okr-archive)
 
 OKRs are internal-only in line with guidance from the [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/).
@@ -285,7 +285,7 @@ To add new objectives in GitLab, follow the steps below:
         1. Add `OKR` label.
         1. Add [division label](https://gitlab.com/gitlab-com/gitlab-OKRs/-/labels?subscribed=&search=division) to assign to the relevant division (i.e. Sales, Product, etc).
             1. CEO OKRs are designated with a division::CEO scoped label.
-        1. Only Product & Engineering cascade OKRs below division level, so for Product & Engineering OKRs, in addition to division labels, follow [stage labels](https://docs.gitlab.com/ee/development/labels/index.html#stage-labels) to add the Section/Stage/Group scoped labels to assign the OKR to the relevant parts of [Product Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy).
+        1. Only Product & Engineering cascade OKRs below division level, so for Product & Engineering OKRs, in addition to division labels, follow [stage labels](https://docs.gitlab.com/ee/development/labels/index.html#stage-labels) to add the Section/Stage/Group scoped labels to assign the OKR to the relevant parts of [Product Hierarchy](/handbook/product/categories/#hierarchy).
         1. Each part of hierarchy should have a label. For example, an OKR for a group would have a division label, a section label, a stage label, and a group label.
 1. Review the objective against the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) to ensure it is information that can be shared. Review to ensure that the objective should not be [limited access](/handbook/communication/confidentiality-levels/#internal). If the information is limited access, use code name if relevant or link to a supporting issue that is limited access.
 
@@ -307,7 +307,7 @@ To add new key results in GitLab, follow the steps below:
     1. Add labels so that KR is [searchable/filterable](#search-and-filter-okrs):
         1. Add `OKR` label.
         1. Add [division label](https://gitlab.com/gitlab-com/gitlab-OKRs/-/labels?subscribed=&search=division) to assign to the relevant division (i.e. Sales, Product, etc). CEO OKRs are designated with a `division::CEO` scoped label.
-        1. Only Product & Engineering cascade OKRs below division level. For Product & Engineering OKRs, in addition to division labels, follow [stage labels](https://docs.gitlab.com/ee/development/labels/index.html#stage-labels) to add the Section/Stage/Group scoped labels to assign the OKR to the relevant parts of [Product Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy).
+        1. Only Product & Engineering cascade OKRs below division level. For Product & Engineering OKRs, in addition to division labels, follow [stage labels](https://docs.gitlab.com/ee/development/labels/index.html#stage-labels) to add the Section/Stage/Group scoped labels to assign the OKR to the relevant parts of [Product Hierarchy](/handbook/product/categories/#hierarchy).
         1. Each part of hierarchy should have a label. For example, an OKR for a group would have a division label, a section label, a stage label, and a group label.
 1. Review the key result against the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) to ensure it is information that can be shared. Review to ensure that information should not be [limited access](/handbook/communication/confidentiality-levels/#internal). If the information is limited access, use code name if relevant or link to a supporting issue that is limited access.
 1. Optionally, [turn on check-in reminders](https://docs.gitlab.com/ee/user/okrs.html).
@@ -469,6 +469,7 @@ To update please make a merge request and post a link to the MR in the #okrs cha
 
 ## OKR Archive
 
+- [FY24-Q3](/handbook/company/okrs/fy24-q3/)
 - [FY24-Q2](/handbook/company/okrs/fy24-q2/)
 - [FY24-Q1](/handbook/company/okrs/fy24-q1/)
 - [FY23-Q4](/handbook/company/okrs/fy23-q4/)

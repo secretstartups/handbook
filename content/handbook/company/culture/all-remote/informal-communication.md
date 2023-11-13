@@ -228,7 +228,7 @@ Coffee Chats are a fantastic opportunity to intentionally broaden your perspecti
 1. Pair with someone from a different region of the world (being respectful of working hours).
 1. Pair with someone complementary to you — for example, if you're new, find someone who's been here a while; if you're in marketing, pair with a developer; and so on.
 
-You can use the [GitLab org chart](https://comp-calculator.gitlab.net/org_chart), [Product stages page](https://about.gitlab.com/handbook/product/categories), or [Team page](/handbook/company/team) to find team members to pair with.
+You can use the [GitLab org chart](https://comp-calculator.gitlab.net/org_chart), [Product stages page](/handbook/product/categories), or [Team page](/handbook/company/team) to find team members to pair with.
 
 ### Leadership Coffee Chat with URG Team Members
 
@@ -302,7 +302,7 @@ You can take a look at the [internal time zones and interests document](https://
 
 
 Some teams at GitLab organize informal social calls on a regular basis in order to build camaraderie.
-The [data team](https://about.gitlab.com/handbook/business-technology/data-team) has them every Tuesday.
+The [data team](/handbook/business-technology/data-team) has them every Tuesday.
 Team members and managers are encouraged to create these calls as a medium for informal, agenda-free interaction between team members.
 
 [Team days]({{< ref "building-trust#host-a-team-day" >}}) are another opportunity to intermix work and rapport building, and can be structured to work synchronously or asynchronously.

@@ -414,16 +414,16 @@ For example,
 - Customer Support -> Support Readiness -> Support Operations (use Support Operations)
 - Customer Support -> Support Engineering -> US Federal Support (use US Federal Support)
 
-| Role | Title Format | Example |
-| ---  | --- | --- | --- |
-| Intermediate Support Engineer | `Name | Support Engineer | GitLab` | `Luciana de Santos | Support Engineer | GitLab` |
-| Support Readiness Specialist - Ops | `Name | Support Ops Specialist | GitLab` | `Barka Adamec | Support Ops Specialist | GitLab` |
-| Senior Support Engineer | `Name | Sr. Support Engineer | GitLab` | `Shen Hua Li | Sr. Support Engineer | GitLab` |
-| Staff Support Engineer | `Name | Staff Support Engineer | GitLab` | `Jabulani Achebe | Staff Support Engineer | GitLab` |
-| Support Manager | `Name | Manager, Sub-department | GitLab` | `Sneha Sharma | Manager, Support Operations | GitLab` |
-| Senior Support Manager | `Name | Sr. Manager, Sub-department | GitLab` | `Joo Hee Ko | Sr. Manager, US Federal Support | GitLab` |
-| Director | `Name | Director, Sub-department | GitLab` | `Noémie Blanchet | Director, Support Engineering | GitLab` |
-| Vice President | `Name | VP, Department | GitLab` | `Kalina Nowak | VP, Customer Support | GitLab` |
+##### Examples
+
+- Intermediate Support Engineer: `Name | Support Engineer | GitLab` - `Luciana de Santos | Support Engineer | GitLab`
+- Support Readiness Specialist - Ops: `Name | Support Ops Specialist | GitLab`  - `Barka Adamec | Support Ops Specialist | GitLab`
+- Senior Support Engineer:  `Name | Sr. Support Engineer | GitLab`  -  `Shen Hua Li | Sr. Support Engineer | GitLab`
+- Staff Support Engineer: `Name | Staff Support Engineer | GitLab` - `Jabulani Achebe | Staff Support Engineer | GitLab`
+- Support Manager: `Name | Manager, Sub-department | GitLab` - `Sneha Sharma | Manager, Support Operations | GitLab`
+- Senior Support Manager: `Name | Sr. Manager, Sub-department | GitLab` | `Joo Hee Ko | Sr. Manager, US Federal Support | GitLab`
+- Director: `Name | Director, Sub-department | GitLab` | `Noémie Blanchet | Director, Support Engineering | GitLab`
+- Vice President: `Name | VP, Department | GitLab` - `Kalina Nowak | VP, Customer Support | GitLab`
 
 ### Weekly Meetings
 
@@ -663,7 +663,7 @@ The [Support Slackbot (archived)](https://gitlab.com/gitlab-com/support/toolbox/
 ### Handbook links
 
 - [GitLab Team page](/handbook/company/team/)
-- [Product Categories](https://about.gitlab.com/handbook/product/categories/) - Find out what team handles what
+- [Product Categories](/handbook/product/categories/) - Find out what team handles what
 - [Statement Of Support](https://about.gitlab.com/support/statement-of-support/)
 - [Support Managers](/handbook/support/managers/)
 - [Support Hiring](/handbook/support/managers/hiring/)

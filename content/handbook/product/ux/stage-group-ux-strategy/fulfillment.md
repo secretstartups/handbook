@@ -123,7 +123,7 @@ We follow the [Product Designer workflows](/handbook/product/ux/product-designer
 - we **label** our issues with UX, devops::fulfillment, section::fulfillment and group::.
 - we use the [workflow labels](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=workflow%3A%3A).
 - we use **milestones** to aid in planning and prioritizing.
-- we use [UX issue weights](https://about.gitlab.com/handbook/product/ux/product-designer/#ux-issue-weights).
+- we use [UX issue weights](/handbook/product/ux/product-designer/#ux-issue-weights).
 - we create separate issues for UX work and frontend work and name them with the prefix [UX] and [ENG]. This allows the Product Designer to add an issue weight specific to UX. It also keeps conversations confined to their corresponding issues. The [UX] issue should be the design SSOT for both designs and design feedback.
     - when the UX work is complete and the work is ready for the engineering team, we close the [UX] issue and the [ENG] issue should be updated to indicate it's ready to be worked on by linking the [UX] issue in the description of the [ENG] issue and updating the workflow label.
 

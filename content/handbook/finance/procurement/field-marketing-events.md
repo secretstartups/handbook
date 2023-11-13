@@ -11,7 +11,7 @@ title: Field Marketing and Events
 ## How Do I Submit a Request for a Contract and PO?
 
 - Once you've chosen your vendor and have followed the Bid Requirements per above, follow these instructions:
-    1. [Login to Coupa](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-access-coupa) via Okta.
+    1. [Login to Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-access-coupa) via Okta.
     1. If this is a new supplier, go to the "Forms and Quick Links" section on the Home screen, click on "Request a New Supplier" and complete the required fields. Click "Review".
             - Allow 1-2 business days for processing new supplier.
     1. If this is an existing supplier (or once your new supplier is in the system) select "Write a request" in the upper right of your screen under the search bar.

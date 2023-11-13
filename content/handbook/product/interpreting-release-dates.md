@@ -16,7 +16,7 @@ help give guidance on what state an issue is in and when it might ship. This is
 especially helpful for giving answers to customers and stakeholders when setting the correct
 expectations.
 
-GitLab's [Product Development Workflow](https://about.gitlab.com/handbook/product-development-flow/)
+GitLab's [Product Development Workflow](/handbook/product-development-flow/)
 describes all the different steps that take an issue from ideation to
 validation to design to development and finally to getting in the hand of
 end-users. It has full details about every step of the workflow and can be
@@ -30,10 +30,10 @@ if an item will ship in the current or a future iteration.
 
 1. Milestone
   - If an issue is tagged against a milestone, that is the GitLab release it is
-  targeted to be shipped in. These aren't promises; milestones are subject to change, and we [plan ambitiously](https://about.gitlab.com/handbook/product/product-principles/#how-this-impacts-planning). This is not a commitment to a customer to deliver a certain scope or at a certain time, nor should it be treated as such.
+  targeted to be shipped in. These aren't promises; milestones are subject to change, and we [plan ambitiously](/handbook/product/product-principles/#how-this-impacts-planning). This is not a commitment to a customer to deliver a certain scope or at a certain time, nor should it be treated as such.
 1. `workflow::<current state>` labels
   - The `workflow::<current state>` label shows what state the Issue is currently
-  at in the Product Development Workflow. The [various states](https://about.gitlab.com/handbook/product-development-flow/#workflow-summary)
+  at in the Product Development Workflow. The [various states](/handbook/product-development-flow/#workflow-summary)
   of the label mean different things.
 
     In general, if an issue is in `workflow::in review`
@@ -66,5 +66,5 @@ everything will be shipped and usable by users.
 
 If you are still not sure what state an issue is in and want to ensure you set
 the correct expectations with the customer, please @mention the
-[responsible Product Manager](https://about.gitlab.com/handbook/product/categories/),
+[responsible Product Manager](/handbook/product/categories/),
 on the issue or epic, so they can clarify.

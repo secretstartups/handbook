@@ -48,6 +48,7 @@ team calendar.
    1. [Support OOO - APAC](https://calendar.google.com/calendar/embed?src=c_408bhp8a8j579lqr99j552u21s%40group.calendar.google.com)
    1. [Support OOO - EMEA](https://calendar.google.com/calendar/u/0/embed?src=c_ev56c9rgjd9l1sn291i368jn78@group.calendar.google.com)
 
+
 1. If you regularly handle L&R tickets, please subscribe to the global L&R calendar and relevant L&R regional calendar.
 
 1. Add the calendars for your SGG and your SGG region, to your own calendar.
@@ -63,6 +64,9 @@ team calendar.
 - [Support Kapok ID](https://calendar.google.com/calendar/u/0/embed?src=c_f5ba7f8e8d044db55024a76dac7dc2382ae4ae344245f709af4e39263abdfa69@group.calendar.google.com)| [Support Kapok AMER ID](https://calendar.google.com/calendar/u/0/embed?src=c_af21a0d750da1cfbec05f4c23a7b1aedb729174310d3b1678af467202c8adab8@group.calendar.google.com)| [Support Kapok APAC ID](https://calendar.google.com/calendar/u/0/embed?src=c_376d033527fa45e61a727e1bad77e6116c54789394b7d0e894e26145349bd5ad@group.calendar.google.com) | [Support Kapok EMEA ID](https://calendar.google.com/calendar/u/0/embed?src=c_bcb16ffff54860eed1c5e2f0c7b73bb5d8f2ef919e54959baf5f43526ddb8cef@group.calendar.google.com)
 - [Support Maple ID](https://calendar.google.com/calendar/u/0/embed?src=c_9267f798a9ed00f9341979d21fe5a765ba474727bd1734e5e21a341880ab8cef@group.calendar.google.com)| [Support Maple AMER ID](https://calendar.google.com/calendar/u/0/embed?src=c_dafae2e5f43c29027e2f1192fcc4c6c4f653f0c3670f016ab4275c903bf2ac4e@group.calendar.google.com)| [Support Maple APAC ID](https://calendar.google.com/calendar/u/0/embed?src=c_166c8a69af9b7cc7f50d17d27c953f00675beb597f46e1317f5dbb863d85e0ba@group.calendar.google.com) | [Support Maple EMEA ID](https://calendar.google.com/calendar/u/0/embed?src=c_c86311c4b592a35fe5f598fdab42facd800c646d4615e7c6af6b230e230f3469@group.calendar.google.com)
 - [Support Pine ID](https://calendar.google.com/calendar/u/0/embed?src=c_cef7cdb1565aed8160b68d5fb227a0d8458c114254bc0cf6341477ff376069f1@group.calendar.google.com)| [Support Pine AMER ID](https://calendar.google.com/calendar/u/0/embed?src=c_5fccfa58dd768e2e6bb3159596b503cab508cab65907721c9c786b1ea50622d7@group.calendar.google.com)| [Support Pine APAC ID](https://calendar.google.com/calendar/u/0/embed?src=c_7e8a93a17189fc9b38bf5e3a3cc172a6dbe1df0b353f76a3ba94d7c01e436b99@group.calendar.google.com) | [Support Pine EMEA ID](https://calendar.google.com/calendar/u/0/embed?src=c_6e35e330542a169789e51bf78fd181794124a2779b8c5ea31000802bf44de431@group.calendar.google.com)
+- [Support US Gov (Daytime)](https://calendar.google.com/calendar/u/0?cid=Y182Y2JlZTA4ZmFiOWFjYTI2NzE4YjQ5ODFmOWI5YTk0MDNlNzEyNTRjZmYyZTE5NTc0MjBjN2RhODgwYzg2M2IzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+- [Support US Gov (Evenings)](https://calendar.google.com/calendar/u/0?cid=Y182MzFiMDNkNGRhYmI3NWZmNjczMDNmMTUwNjZmNTRlYzhhMTE2ZWYzNGE5ZDA4Zjg5YTE1NDJlYzA5YTM5ZjgyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+- [Support US Gov (Overnight)](https://calendar.google.com/calendar/u/0?cid=Y19hYjlhNzM0ODJmNGM3MDE1NzI0N2EzNTEwYmQxMjdiZWE3ZTExYmUzZWQzN2IzN2FlNThiMjNhOTNhOWI3MjQ3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 ##### Manager Calendar Links
 

@@ -15,11 +15,11 @@ Before engaging the SEOC, please review [our severity and priority levels]({{< r
 
 For phishing related issues, see [Phishing](#phishing). For other non-urgent issues, see [Low Severity Issues](#low-severity-issues)/
 
-Note: Additional information on Recovery Time Objective (RTO) and Recovery Point Objective (RPO)is available on the [BPC Handbook page](https://about.gitlab.com/handbook/business-technology/gitlab-business-continuity-plan/)
+Note: Additional information on Recovery Time Objective (RTO) and Recovery Point Objective (RPO)is available on the [BPC Handbook page](/handbook/business-technology/gitlab-business-continuity-plan/)
 
 The following items are out of scope for SIRT and should be escalated to the respective teams mentioned below:
 
-- **Vulnerability reports and HackerOne**: please escalate to [Application Security]({{< ref "/handbook/security#vulnerability-reports-and-hackerone" >}})
+- **Vulnerability reports and HackerOne**: please escalate to [Application Security]({{< ref "engaging-with-security#vulnerability-reports-and-hackerone" >}})
 - **Abuse reports and DMCA notices**: please escalate to [Trust & Safety]({{< ref "trustandsafety" >}})
 - **General Customer Inquiries**: please escalate to [Field Security]({{< ref "../../security-assurance/field-security" >}})
 - **Self-Managed Instances**: please escalate to [TBD]

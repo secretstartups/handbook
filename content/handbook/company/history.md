@@ -61,7 +61,7 @@ Sid and Dmitriy teamed up and introduced [GitLab Enterprise Edition](/releases/2
 
 ### *2012: GitLab.com*
 
-Sid saw GitLab for the first time and thought it was natural that a collaboration tool for programmers was an open source so you could contribute to it.
+Sid saw GitLab for the first time and thought it was natural that a collaboration tool for programmers was open source so you could contribute to it.
 Being a Ruby programmer he checked out the source code and was impressed with the code quality of GitLab after more than 300 contributions in the first year.
 He [asked Hacker News](https://news.ycombinator.com/item?id=4428278) if they were interested in using GitLab.com and hundreds of people signed up for the beta.
 In November 2012, Dmitriy made the [first version of GitLab CI](https://gitlab.com/gitlab-org/gitlab-ci/commit/52cd500ee64a4a82b9ff6752ee85028cd419fcbe).

@@ -391,7 +391,7 @@ This label/tag is optional.
 gl_product_stage: eng-dev-manage
 ```
 
-Since the `eng-dev` department has many groups, we use the [Product sections, stages, groups and categories](https://about.gitlab.com/handbook/product/categories/#devops-stages) handbook page to define a parent group using the product stage. During the design discussion, we iterated with using product categories and sub-departments, and the stage made the most sense.
+Since the `eng-dev` department has many groups, we use the [Product sections, stages, groups and categories](/handbook/product/categories/#devops-stages) handbook page to define a parent group using the product stage. During the design discussion, we iterated with using product categories and sub-departments, and the stage made the most sense.
 
 For GitLab SaaS and infrastructure cost allocation or attribution, the Engineering Infrastructure department team members can use the `gl_product_stage` label to attach to resources that should be attributed to a specific stage. You can optionally use the `gl_dept_group` if you need more granular attribution.
 
@@ -399,22 +399,22 @@ For GitLab SaaS and infrastructure cost allocation or attribution, the Engineeri
 
 | Value | Product Category Documentation |
 |------------------------|--------------------------------------------------------------------------------------------------|
-| `eng-dev-manage`       | [Manage Stage](https://about.gitlab.com/handbook/product/categories/#manage-stage)               |
-| `eng-dev-plan`         | [Plan Stage](https://about.gitlab.com/handbook/product/categories/#plan-stage)                   |
-| `eng-dev-create`       | [Create Stage](https://about.gitlab.com/handbook/product/categories/#create-stage)               |
-| `eng-dev-ecosystem`    | [Ecosystem Stage](https://about.gitlab.com/handbook/product/categories/#ecosystem-stage)         |
-| `eng-dev-verify`       | [Verify Stage](https://about.gitlab.com/handbook/product/categories/#verify-stage)               |
-| `eng-dev-package`      | [Package Stage](https://about.gitlab.com/handbook/product/categories/#package-stage)             |
-| `eng-dev-deploy`       | [Deploy Stage](https://about.gitlab.com/handbook/product/categories/#deploy-stage)               |
-| `eng-dev-monitor`      | [Monitor Stage](https://about.gitlab.com/handbook/product/categories/#monitor-stage)             |
-| `eng-dev-secure`       | [Secure Stage](https://about.gitlab.com/handbook/product/categories/#secure-stage)               |
-| `eng-dev-govern`       | [Govern Stage](https://about.gitlab.com/handbook/product/categories/#govern-stage)               |
-| `eng-dev-growth`       | [Growth Stage](https://about.gitlab.com/handbook/product/categories/#growth-stage)               |
-| `eng-dev-fulfillment`  | [Fulfillment Stage](https://about.gitlab.com/handbook/product/categories/#fulfillment-stage)     |
-| `eng-dev-enablement`   | [Enablement Stage](https://about.gitlab.com/handbook/product/categories/#enablement-stage)       |
-| `eng-dev-modelops`     | [ModelOps Stage](https://about.gitlab.com/handbook/product/categories/#modelops-stage)           |
-| `eng-dev-mobile`       | [Mobile Stage](https://about.gitlab.com/handbook/product/categories/#mobile-stage)               |
-| `eng-dev-deploy`       | [Deploy Stage](https://about.gitlab.com/handbook/product/categories/#deploy-stage)               |
+| `eng-dev-manage`       | [Manage Stage](/handbook/product/categories/#manage-stage)               |
+| `eng-dev-plan`         | [Plan Stage](/handbook/product/categories/#plan-stage)                   |
+| `eng-dev-create`       | [Create Stage](/handbook/product/categories/#create-stage)               |
+| `eng-dev-ecosystem`    | [Ecosystem Stage](/handbook/product/categories/#ecosystem-stage)         |
+| `eng-dev-verify`       | [Verify Stage](/handbook/product/categories/#verify-stage)               |
+| `eng-dev-package`      | [Package Stage](/handbook/product/categories/#package-stage)             |
+| `eng-dev-deploy`       | [Deploy Stage](/handbook/product/categories/#deploy-stage)               |
+| `eng-dev-monitor`      | [Monitor Stage](/handbook/product/categories/#monitor-stage)             |
+| `eng-dev-secure`       | [Secure Stage](/handbook/product/categories/#secure-stage)               |
+| `eng-dev-govern`       | [Govern Stage](/handbook/product/categories/#govern-stage)               |
+| `eng-dev-growth`       | [Growth Stage](/handbook/product/categories/#growth-stage)               |
+| `eng-dev-fulfillment`  | [Fulfillment Stage](/handbook/product/categories/#fulfillment-stage)     |
+| `eng-dev-enablement`   | [Enablement Stage](/handbook/product/categories/#enablement-stage)       |
+| `eng-dev-modelops`     | [ModelOps Stage](/handbook/product/categories/#modelops-stage)           |
+| `eng-dev-mobile`       | [Mobile Stage](/handbook/product/categories/#mobile-stage)               |
+| `eng-dev-deploy`       | [Deploy Stage](/handbook/product/categories/#deploy-stage)               |
 
 ## GitLab Product Category (`gl_product_category`)
 
@@ -461,7 +461,7 @@ The full list of groups was last audited and updated on 2021-07-22.
 
 1. If a group was renamed or removed, it appears in the [Deprecated Group Names](#deprecated-group-names) table below. Any renamed groups have a footnote indicator.
 1. This was added after the initial list was created.
-1. This is a special group that may not directly align with a team. For `eng-dev`, this usually appears under [Other Functionality](https://about.gitlab.com/handbook/product/categories/#other-functionality).
+1. This is a special group that may not directly align with a team. For `eng-dev`, this usually appears under [Other Functionality](/handbook/product/categories/#other-functionality).
 
 | gl_realm        | gl_dept                  | gl_product_stage                  | gl_dept_group                        | Group Documentation |
 |-----------------|--------------------------|-----------------------------------|--------------------------------------|---------------------|
@@ -762,4 +762,4 @@ With future automation, we can also create frictionless experience for users wit
 
 [^1]: This was renamed or removed after the initial list was created.
 [^2]: This group was added after the initial list was created.
-[^3]: This is a special group that may not directly align with a team. For `eng-dev`, this usually appears under [Other Functionality](https://about.gitlab.com/handbook/product/categories/#other-functionality).
+[^3]: This is a special group that may not directly align with a team. For `eng-dev`, this usually appears under [Other Functionality](/handbook/product/categories/#other-functionality).

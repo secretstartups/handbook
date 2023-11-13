@@ -230,4 +230,4 @@ to find the error message in [Customers Portal Sentry project](https://sentry.gi
 
 ## Finding an error message in Stripe
 
-As we use [Stripe](https://about.gitlab.com/handbook/business-technology/tech-stack/#stripe) as a payment processor, some error codes that are visible to the customers are not handled by GitLab, and are reported by Stripe directly. For example, the `do_not_honor` error is an error message that comes from Stripe. As such, we can rely on the [**Stripe's Decline Codes documentation**](https://stripe.com/docs/declines/codes) to find more information regarding the root cause of an error.
+As we use [Stripe](/handbook/business-technology/tech-stack/#stripe) as a payment processor, some error codes that are visible to the customers are not handled by GitLab, and are reported by Stripe directly. For example, the `do_not_honor` error is an error message that comes from Stripe. As such, we can rely on the [**Stripe's Decline Codes documentation**](https://stripe.com/docs/declines/codes) to find more information regarding the root cause of an error.

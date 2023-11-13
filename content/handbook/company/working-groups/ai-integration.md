@@ -64,10 +64,10 @@ This is a list of topics that we want to discuss:
 The following criteria should be met for the group to disband:
 
 - Product teams have a clear method to build and integrate AI into GitLab product areas.
-- The integration platform should have a [product group](https://about.gitlab.com/handbook/product/categories/) handling maintanence and feature development
+- The integration platform should have a [product group](/handbook/product/categories/) handling maintanence and feature development
 - We have a structured methodology for evaluating new AI models, adding them to the integration platform to allow them to be consumed by product teams.
 - We have a roadmap plan to achieve GA for our initial AI experiments.
-- Documented process for handling AI feature proposals as part of the [prioritization framework](https://about.gitlab.com/handbook/product/product-processes/#prioritization)
+- Documented process for handling AI feature proposals as part of the [prioritization framework](/handbook/product/product-processes/#prioritization)
 - Move [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) content from the [internal handbook](https://internal-handbook.gitlab.io/handbook/product/ai-strategy/ai-integration-effort/) to the public handbook where appropriate and [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/).
 - Develop an evaluation process of user experience between options to make more intelligent decisions on which engineering solution we recommend.
 
@@ -132,13 +132,13 @@ We currently have two core AI Development groups at GitLab: AI Framework group a
 
 The AI Model Validation group helps all product groups to match the right model(s) and AI/ML-based techniques to the user problem they must solve. They do that by evaluating, building, training, and tuning many of the models GitLab uses as well as by proactively sharing AI resources and experience. Today, they also directly build and maintain some user-facing AI features.
 
-- [AI Model Validation group](https://about.gitlab.com/handbook/product/categories/#ai-powered-stage) develops in-house AI features that run natively within GitLab infrastructure. The group develops these models to meet capability, quality, customizability, privacy, and cost requirements.  These components include an inference engine, abstraction layer, and models.
+- [AI Model Validation group](/handbook/product/categories/#ai-powered-stage) develops in-house AI features that run natively within GitLab infrastructure. The group develops these models to meet capability, quality, customizability, privacy, and cost requirements.  These components include an inference engine, abstraction layer, and models.
 - The custom-built models help in use cases when there is a need to train models on customer-proprietary data (like all merge requests and commits for a customer) and when 3rd party models do meet our needs.
 - Their currently released features are [code suggestions](https://docs.gitlab.com/ee/user/project/repository/code_suggestions.html) which is currently in customer beta and [suggested reviewer](https://docs.gitlab.com/ee/user/project/merge_requests/reviews/#suggested-reviewers) which is GA.
 - This group can help evaluate models for functional correctness and [model perplexity](https://surge-ai.medium.com/evaluating-language-models-an-introduction-to-perplexity-in-nlp-f6019f7fb914) based on metrics and (often large) benchmark datasets, which is a more statistical evaluation than manual testing. This can help determine the most quality model for a feature's use-case.
 - They work in many languages, including Ruby on Rails, Golang, Python (for machine learning and data science), and Typescript (for the VS Code Plugin). The group comprises of [ML Scientistists](https://medium.com/cogitotech/what-is-the-difference-between-machine-learning-engineer-vs-machine-learning-scientist-cfcf4e48363f), [MLOps Engineers](https://www.databricks.com/glossary/mlops) , [ML Infrastructure Engineers](https://www.reddit.com/r/MLQuestions/comments/zd55mv/what_exactly_is_a_machine_learning_infrastructure/), and [Fullstack engineers](/job-families/engineering/development/fullstack/).
 
-You can contact this group via Slack in [#g_ai_assisted](https://gitlab.slack.com/archives/C023YB2FEUC). View their [issue board here](https://gitlab.com/groups/gitlab-org/modelops/applied-ml/-/boards/5588960?label_name[]=group%3A%3Aai%20assisted&group_by=epic).  To see who is engaged on this effort please see [here](https://about.gitlab.com/handbook/product/categories/#ai-assisted-group).
+You can contact this group via Slack in [#g_ai_assisted](https://gitlab.slack.com/archives/C023YB2FEUC). View their [issue board here](https://gitlab.com/groups/gitlab-org/modelops/applied-ml/-/boards/5588960?label_name[]=group%3A%3Aai%20assisted&group_by=epic).  To see who is engaged on this effort please see [here](/handbook/product/categories/#ai-assisted-group).
 
 ### AI Framework
 

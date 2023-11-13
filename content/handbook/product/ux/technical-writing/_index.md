@@ -20,7 +20,7 @@ Anyone can contribute to the documentation. Follow our [GitLab documentation gui
 
 ## About Us
 
-[The Technical Writing team](https://about.gitlab.com/company/team/?department=technical-writing) includes:
+[The Technical Writing team](/handbook/company/team/?department=technical-writing) includes:
 - A group of [Technical Writers](/job-families/product/technical-writer/).
 - Two [Technical Writing Managers](/job-families/product/technical-writing-manager/).
 - A [Senior UX Fullstack Engineer](/job-families/product/ux-fullstack-engineer/).
@@ -114,10 +114,9 @@ The [docs.gitlab.com](https://docs.gitlab.com/) site is not included in the comm
 
 ## Assignments
 
-Technical Writers (TWs) collaborate with other teams and
-groups as described on the [DevOps stages](#designated-technical-writers),
-[Development Guidelines](#assignments-to-development-guidelines), and
-[other subjects](#assignments-to-other-projects-and-subjects) sections below.
+Technical Writers (TWs) collaborate with [their assigned groups](#assignments-to-devops-stages-and-groups). TWs can also be assigned [other work](#assignments-to-other-projects-and-subjects).
+
+Some content on docs.gitlab.com is [not reviewed by TWs](#content-not-reviewed-by-tws).
 
 ### Assignments to DevOps Stages and Groups
 {: #designated-technical-writers}
@@ -169,11 +168,11 @@ For collaboration in other projects and subjects:
 |:----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
 | The documentation site                                      | [Susan Tacker]                                                                                                                              |
 | The documentation site backend (code, automation)                                             | [Sarah German]                                                                                                                              |
-| [Development guidelines](#assignments-to-development-guidelines)                                                | [Suzanne Selhorn]                                                                                                                              |
+| [GitLab Design System ("Pajamas")](https://design.gitlab.com/) information under [`content`](https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com/-/tree/main/contents/content)                                               | [Suzanne Selhorn]                                                                                                                              |
 | [Style Guide](#style-guide)                                                                                     | [Suzanne Selhorn]                                                                                                                              |
 | [Testing/Vale/markdownlint](#testing)                                                                           | [Diana Logan]                                                                                                                                  |
 | [Documentation handbook](/handbook/documentation/)                                                              | [Diana Logan]                                                                                                                                  |
-| [Technical Writing handbook](/handbook/engineering/ux/technical-writing/)                                       | [Susan Tacker]                                                                                                                                 |
+| [Technical Writing handbook](https://about.gitlab.com/handbook/engineering/ux/technical-writing/)                                       | [Susan Tacker]                                                                                                                                 |
 | [Tutorials](https://docs.gitlab.com/ee/tutorials/)                                                              | [Kati Paizee]                                                                                                                                  |
 | [What's new](https://docs.gitlab.com/ee/administration/whats-new.html)                                          | [Kati Paizee]                                                                                                                                  |
 | [GitLab Development Kit (GDK)](https://gitlab.com/gitlab-org/gitlab-development-kit)                            | [Ashraf Khamis], [Axil], [Evan Read], [Fiona Neill], [Jon Glassman], [Lorena Ciutacu], [Marcel Amirault], [Phillip Wells], [Russell Dickenson] |
@@ -195,6 +194,14 @@ For collaboration in other projects and subjects:
 [Susan Tacker]: https://gitlab.com/susantacker
 [Suzanne Selhorn]: https://gitlab.com/sselhorn
 
+### Content not reviewed by TWs
+
+Technical writers do not review content in:
+
+- The `doc/development` directory. Any Maintainer can merge docs in the `doc/development` directory.
+  The only exception is `/doc/development/documentation`, where the writers maintain guidelines.
+- The `doc/solutions` directory. This information is created, reviewed, merged, and maintained by Solutions Architects.
+
 ### Stable counterparts
 
 The Technical Writing team gets assistance with the `gitlab-docs` project from stable counterparts outside the team.
@@ -207,41 +214,6 @@ The Technical Writing team gets assistance with the `gitlab-docs` project from s
 [Ash McKenzie]: https://gitlab.com/ashmckenzie
 [Lukas 'Eipi' Eipert]: https://gitlab.com/leipert
 [David O'Regan]: https://gitlab.com/oregand
-
-### Assignments to development guidelines
-
-As GitLab grows, it's important to ensure that the
-guidelines for contributors are consistent and aligned throughout the organization.
-Development guidelines consist of:
-
-- GitLab [development guidelines](https://docs.gitlab.com/ee/development/):
-  The processes and technical information needed for contributing to GitLab. Use
-  the [development guidelines review process](https://docs.gitlab.com/ee/development/development_processes.html#development-guidelines-review)
-  for any changes or updates to documentation in the `/development` directory.
-- [GitLab Design System ("Pajamas")](https://design.gitlab.com/): The entire content of
-  [`contents`](https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com/-/tree/main/contents)
-  must be reviewed and approved by the TW assigned to Development Guidelines.
-- [GitLab UI](https://gitlab.com/gitlab-org/gitlab-ui/): Documentation in this
-  project doesn't require TW review. The TW for Dev Guidelines will help in
-  creating and maintaining minimum requirements for this documentation through
-  specific guidelines and templates, and assist the team on request.
-
-For merge request reviews:
-
-- If you belong to one of the stage groups, request a review from the Technical Writer assigned to your group.
-- If you don't belong to a group that has a Technical Writer assigned, spin the [reviewer roulette](https://gitlab-org.gitlab.io/gitlab-roulette/?sortKey=stats.avg7&order=-1&hourFormat24=true&visible=maintainer%7Cdocs)
-  to determine a Technical Writer to request review from.
-- Technical Writers provide a lighter level of editing on Developer Guideline pages than on user-facing docs.
-- For [minor fixes and typos](https://docs.gitlab.com/ee/development/#wording-style-or-link-changes),
-  any GitLab Maintainer can review and merge your merge request.
-- If you need guidance on development guidelines, you can request help or input from the [#docs](https://gitlab.slack.com/archives/C16HYA2P5) Slack channel
-  or the development guidelines' DRI.
-
-<!-- References:
-- All Dev Guidelines: https://gitlab.com/gitlab-org/technical-writing/issues/108
-- Pajamas: https://gitlab.com/gitlab-org/technical-writing/issues/93
-- GitLab UI: https://gitlab.com/gitlab-org/gitlab-ui/issues/598, https://gitlab.com/gitlab-org/gitlab-ui/issues/624
--->
 
 ## Docs site stats
 
@@ -336,7 +308,7 @@ The assigned writer does not need to do the work. When they check the queue, the
 Along with Technical Writers' normally assigned work, there are recurring tasks
 that need to be regularly completed:
 
-- **Release Post Structural Check:** The Technical Writing Lead [reviews the content](/handbook/marketing/blog/release-posts/#tw-lead) for the release post published at the end of each milestone. See the [Release Post Scheduling](/handbook/marketing/blog/release-posts/managers/) Handbook page for each milestone's assigned writer.
+- **Release Post Structural Check:** The Technical Writing Lead [reviews the content](https://about.gitlab.com/handbook/marketing/blog/release-posts/#tw-lead) for the release post published at the end of each milestone. See the [Release Post Scheduling](https://about.gitlab.com/handbook/marketing/blog/release-posts/managers/) Handbook page for each milestone's assigned writer.
 - **Monthly doc version:** At the end of each milestone, a Technical Writer [creates the monthly version for the docs site](https://gitlab.com/gitlab-org/gitlab-docs/-/blob/main/doc/releases.md). The Technical Writer assigned to this task is the writer who completed the release post structural check for the previous milestone.
 - **Docs project maintenance tasks:** Each month, one Technical Writer is assigned to complete maintenance tasks for the documentation site and its content. This involves [creating a new issue using the `tw-monthly-tasks` template](https://gitlab.com/gitlab-org/technical-writing/-/issues/new?issue[title]=Docs%20project%20maintenance%20tasks%2C%20Month%20YYYY&issuable_template=tw-monthly-tasks) in the `technical-writing` project to track maintenance work. If additional work beyond what's described in the maintenance issue is required, the Technical Writer creates merge requests and additional issues as needed.
 
@@ -390,14 +362,17 @@ To balance quality, speed, and resource constraints, the technical writers apply
 
 These guidelines are meant to provide general guidance. They aren't set in stone, and they can be overridden on a case-by-case basis.
 
+These items **do not receive** an edit unless it's specifically requested (and if requested, they receive a **light** edit):
+
+- In the GitLab repository, the Contribution guidelines (in the `/development` directory).
+- In the GitLab repository, the `doc/solutions` directory. This information is owned by Solutions Architects.
+
 These items receive a **light** edit:
 
-- In the GitLab repository:
-  - Blueprint documentation (everything in the `architecture/blueprints` directory)
-  - Contribution guidelines (everything in the `development` directory)
-- Documentation outside of the five main GitLab repositories (GitLab, Charts, Operator, Omnibus, and Runner)
-- Deprecations and removals
-- Merge requests authored by other technical writers, unless the MR is part of an OKR, or the author requests a more in-depth edit
+- In the GitLab repository, the blueprint documentation (everything in the `architecture/blueprints` directory).
+- Documentation outside of the five main GitLab repositories (GitLab, Charts, Operator, Omnibus, and Runner).
+- Deprecations and removals.
+- Merge requests authored by other technical writers, unless the MR is part of an OKR, or the author requests a more in-depth edit.
 
 These items receive a **medium** edit:
 
@@ -420,7 +395,7 @@ can efficiently perform the necessary verification.
 
 ### Review workflow
 
-To balance [velocity](/handbook/engineering/development/principles/#the-importance-of-velocity) and quality, the writers use this workflow:
+To balance [velocity](https://about.gitlab.com/handbook/engineering/development/principles/#the-importance-of-velocity) and quality, the writers use this workflow:
 
 - When a writer opens a merge request, another writer must review and merge. Peer reviews are important to maintain quality and help the team build a common voice.
 
@@ -461,14 +436,14 @@ If you have content that needs a specific assignee, or if you have a merge reque
 
 There are occasions when Technical Writers may be too busy for general team merge request reviews, and need to focus on their groups or other priorities. In those cases, Technical Writers can update their GitLab status by selecting the **Busy** checkbox and adding the 🔴 `:red_circle:`, which prevents their name from appearing in the reviewer roulette.
 
-For example, Technical Writers on release duty for a milestone should add the busy indicator to their status for the week preceeding the [release date](/handbook/engineering/releases/), to focus on release posts and other requirements.
+For example, Technical Writers on release duty for a milestone should add the busy indicator to their status for the week preceeding the [release date](https://about.gitlab.com/handbook/engineering/releases/), to focus on release posts and other requirements.
 
 In all other cases, while Technical Writers can add (and remove) the busy indicator from their profiles, we ask that the busy indicator be in place for no longer than two days at a time, and be employed no more than once every two weeks. (Noting that the use of the busy indicator during releases doesn't affect this.) If you need more time not participating in the review roulette, be sure to talk to your manager so they can help (which may include additional use of the busy indicator).
 
 ## Merge rights
 
 The Technical Writing team is given merge rights (through
-[Maintainer access](/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer))
+[Maintainer access](https://about.gitlab.com/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer))
 to GitLab projects as part of their role. Not all developers get Maintainer access. Technical
 writers should use this privilege responsibly.
 

@@ -43,7 +43,7 @@ These KPIs are determined by a combination of their stand alone importance to th
 
 1. [Revenue](/handbook/company/kpis/#sales-kpis) vs. plan (lagging) **North Star KPI**
 1. [R&D Overall MR Rate](https://about.gitlab.com/handbook/engineering/performance-indicators/#rd-overall-mr-rate)[📊](https://app.periscopedata.com/app/gitlab/710733/GitLab-Project-Efficiency?widget=9287585) (leading)
-1. [Estimated Combined Monthly Active Users (CMAU)](https://about.gitlab.com/handbook/product/performance-indicators/#estimated-combined-monthly-active-users) [📊](https://app.periscopedata.com/app/gitlab/634200/Usage-Ping-SMAU-Dashboard?widget=9051075) (leading)
+1. [Estimated Combined Monthly Active Users (CMAU)](/handbook/product/performance-indicators/#estimated-combined-monthly-active-users) [📊](https://app.periscopedata.com/app/gitlab/634200/Usage-Ping-SMAU-Dashboard?widget=9051075) (leading)
 1. [Net New Business Pipeline Created ($s)](https://about.gitlab.com/handbook/marketing/performance-indicators/#net-new-business-pipeline-created) 🐔 (leading)
 1. [Pipeline coverage start of quarter stage 3+](https://about.gitlab.com/handbook/marketing/performance-indicators/#pipeline-coverage) (leading)
 1. [Percent of Ramped Reps at or Above Quota](https://internal.gitlab.com/handbook/company/performance-indicators/sales/#percent-of-ramped-reps-at-or-above-quota) [📊](https://app.periscopedata.com/app/gitlab/832223/Sales-KPI's?widget=11433770&udv=0) (lagging)
@@ -106,10 +106,6 @@ GitLab team members can access and update all Product performance indicators wit
 
 {{< kpi "Quality Department" >}}
 
-### Security Department KPIs
-
-{{< kpi "Security Department" >}}
-
 ### UX Department KPIs
 
 {{< kpi "UX Department" >}}
@@ -125,7 +121,7 @@ We have the following abbreviation letter before SAT, please don’t use SAT wit
 - I = [Interviewee](/#interviewee-satisfaction-isat) (would you recommend applying here)
 - L = [Leadership](/handbook/eba/#leadership-sat-survey) (as an executive with dedicated administrative support, how is your executive administrative support received)
 - O = [Onboarding](/handbook/people-group/people-group-metrics/#onboarding-tsat) (how was your onboarding experience)
-- P = [Product](https://about.gitlab.com/handbook/product/performance-indicators/) (would you recommend GitLab the product)
+- P = [Product](/handbook/product/performance-indicators/) (would you recommend GitLab the product)
 - S = [Support](/handbook/support/#support-satisfaction-ssat) (would you recommend our support followup)
 - T = Team-members (would you recommend working here)
 

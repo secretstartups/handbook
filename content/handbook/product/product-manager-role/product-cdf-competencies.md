@@ -11,7 +11,7 @@ On this page, you'll find an overview as well as links to helpful resources for 
 
 <kbd class="required">Required 🔎</kbd><br>
 <br>
-We track progress through the skills required to be a product manager at all levels via the Product Management Career Development Framework (CDF). The single source of truth for that framework is the table below but you can use this [CDF template](https://docs.google.com/document/d/1MT_Xks-oF-D-2R_N380h4Phg_9s7BbO0U8k0eP-u8EI/edit) to track your career development with your manager. We are transitioning the CDF to include the company-wide standard of evaluating performance per the [Performance/Growth Matrix](https://about.gitlab.com/handbook/people-group/talent-assessment/#the-performancepotential-matrix). In this model, performance will be considered in categories of Developing, Performing, and Exceeding, alongside evaluation of Developing, Growing, and Exceeding in [Growth Output](/handbook/people-group/talent-assessment/#growth-output) instead of using Growing, Learning, Thriving, and Expert categories of the [compa-ratio](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#compa-ratio).
+We track progress through the skills required to be a product manager at all levels via the Product Management Career Development Framework (CDF). The single source of truth for that framework is the table below but you can use this [CDF template](https://docs.google.com/document/d/1MT_Xks-oF-D-2R_N380h4Phg_9s7BbO0U8k0eP-u8EI/edit) to track your career development with your manager. We are transitioning the CDF to include the company-wide standard of evaluating performance per the [Performance/Growth Matrix](/handbook/people-group/talent-assessment/#the-performancepotential-matrix). In this model, performance will be considered in categories of Developing, Performing, and Exceeding, alongside evaluation of Developing, Growing, and Exceeding in [Growth Output](/handbook/people-group/talent-assessment/#growth-output) instead of using Growing, Learning, Thriving, and Expert categories of the [compa-ratio](/handbook/total-rewards/compensation/compensation-calculator/#compa-ratio).
 
 ***
 
@@ -25,7 +25,7 @@ We use KPIs by function in the CDF. These KPIs feature a guideline for results t
 In each CDF review, it's recommended to select an improvement area to focus on until the next CDF review. This could be anywhere from 1 to 3 improvement areas that you and your manager select together. Once selected, the teammate and manager check in on those focus areas in each 1:1 reviewing progress, discussing feedback, and adjusting any plans for the quarter to continue to improve. Selecting a focus provides a structure to say "no" to other areas that may not be as timely, critical, or worth the additional focus. 
 
 ## CDF for Individual Contributor Product Managers
-Below, you'll find the CDF framework and potential discussion topics for [Product Managers](https://handbook.gitlab.com/job-families/product/product-manager/). 
+Below, you'll find the CDF framework and potential discussion topics for [Product Managers](/job-families/product/product-manager/). 
 
 ### Competencies
 
@@ -46,11 +46,11 @@ _Example outcomes: MAU Attainment, Dogfooding Implementation %, Use of Growth Ex
 - [Backlog Management](/handbook/product/product-manager-role/learning-and-development/#-backlog-management)
 - [KPIs and Metrics](/handbook/product/product-manager-role/learning-and-development/#-kpis-and-metrics)
 - [Product Strategy](/handbook/product/product-manager-role/learning-and-development/#-product-strategy)
-- [Growth, Product-led Growth, and Experimentation](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-growth-product-led-growth-and-experimentation)
+- [Growth, Product-led Growth, and Experimentation](/handbook/product/product-manager-role/learning-and-development/#-growth-product-led-growth-and-experimentation)
 
 #### Role Expectations
 
-| [Intermediate PM](https://handbook.gitlab.com/job-families/product/product-manager/#intermediate-product-manager)| [Senior PM](https://handbook.gitlab.com/job-families/product/product-manager/#senior-product-manager) | [Principal PM](https://handbook.gitlab.com/job-families/product/product-manager/#principal-product-manager) | [Senior Principal PM](https://handbook.gitlab.com/job-families/product/product-manager/#senior-principal-product-manager)
+| [Intermediate PM](/job-families/product/product-manager/#intermediate-product-manager)| [Senior PM](/job-families/product/product-manager/#senior-product-manager) | [Principal PM](/job-families/product/product-manager/#principal-product-manager) | [Senior Principal PM](/job-families/product/product-manager/#senior-principal-product-manager)
 | ------ | ------ | ------ |------ |
 | Adept at setting product direction for assigned product categories on a monthly cadence as informed by the stage direction. Capable of  breaking epics into issues and issues into minimal viable changes (MVCs). Partners with stable counterparts in product group Engineering to practice iteration and attain monthly active users as set by teammate. Manages product direction and maintains updates to category direction pages. Capable of using data about install base, growing customers, and prospects to prioritize features in a milestone with guidance from product leadership. Capable of using experimentation frameworks with support from growth and product leadership. Monitors monthly active users, error budgets, and other product performance indicators to inform product direction. | Excellent at setting product direction for assigned categories on monthly basis and informs stage direction. Adept at setting quarterly and annual plans. Skilled at breaking epics into issues and issues into minimal viable changes (MVCs). Works across the stage to practice iteration and attain monthly active users as set by teammate. Proactively manages product direction and maintains updates to category direction pages. Skilled at using data about install base, growing customers, and prospects to prioritize features in a milestone. Skilled at using experimentation frameworks. Proactively and independently monitors monthly active users, error budgets, and other product performance indicators to inform product direction. |Expert at setting product direction for assigned categories on monthly basis and informs section direction. Skilled at setting quarterly and annual plans. Expert at breaking epics into issues and issues into minimal viable changes (MVCs). Works across the section to practice iteration and attain monthly active users as set by teammate. Coaches others on direction updates and proactively manages product direction updates to category direction pages. Expert at using data about install base, growing customers, and prospects to prioritize features in a milestone. Expert at using experimentation frameworks. Deep understanding of trends in monthly active users, error budgets, and other product performance indicators and how those PIs shape their product direction. Capable of coaching others on PLG methods. | Expert at spotting the need for setting product direction for cross-section and intra-section initiatives. Able to coach others at setting quarterly and annual plans. Mentors, leads by example, and coaches others on breaking epics into issues and issues into minimal viable changes (MVCs). Works across sections to practice iteration and attain monthly active users as set by teammate. Mentors, leads by example, and coaches others on direction updates. Proactively manages product direction pages. Mentors, leads by example, and coaches others at using data about install base, growing customers, and prospects to prioritize features in a milestone. Mentors, leads by example, and coaches others in using experimentation frameworks. Applies a deep understanding of trends in monthly active users, error budgets, and other product performance indicators and how those PIs shape their product direction. Actively coaches others on PLG methods.|
 
@@ -70,7 +70,7 @@ _Example outcomes: Uses appropriate methods of Customer Interviewing, Competitiv
 
 #### Role Expectations
 
-| [Intermediate PM](https://handbook.gitlab.com/job-families/product/product-manager/#intermediate-product-manager)| [Senior PM](https://handbook.gitlab.com/job-families/product/product-manager/#senior-product-manager) | [Principal PM](https://handbook.gitlab.com/job-families/product/product-manager/#principal-product-manager) | [Senior Principal PM](https://handbook.gitlab.com/job-families/product/product-manager/#senior-principal-product-manager)
+| [Intermediate PM](/job-families/product/product-manager/#intermediate-product-manager)| [Senior PM](/job-families/product/product-manager/#senior-product-manager) | [Principal PM](/job-families/product/product-manager/#principal-product-manager) | [Senior Principal PM](/job-families/product/product-manager/#senior-principal-product-manager)
 | ------ | ------ | ------ |------ |
 | Adept at qualitative customer interviewing. Familiar with prioritization frameworks like RICE to organize opportunity backlogs. Capable of deriving key insights and patterns from customer interviews, and using that input to clarify problem statements. Proficient at story mapping. Proficient at collaborating with Design on prototypes to bring potential solutions to life. Understands and communicates the business value of epics and issues. Sets success metrics for epics and issues, and tracks metrics post-launch to guide investment in iterative improvements. Spends up to 20% of time researching & defining category vision & strategy. Evaluates potential and fit of products for acquisition.|Skilled at qualitative customer interviewing. Excellent at deriving key insights and patterns from customer interviews, and using that input to clarify problem statements. Skilled at story mapping. Excellent at collaborating with Design on prototypes to bring potential solutions to life. Able to ensure activities are consistent with GitLab's go-to-market and business model. Drives evaluation of build, buy and partner options for solving customer problems. Can identify new market opportunities & author business cases, as well as forecast the approximate benefits of new features, projected against competition in the space. Spends up to 30% of time researching & defining category vision & strategy|Expert at qualitative customer interviewing. Skilled at story mapping.  Capable of teaching product validation techniques to others. Expert at business case creation. Capable of managing business results across a range of product domains.| Mentors, leads by example, and coaches in qualitative customer interviewing practices. Highly Proficient at story mapping.  Mentors, leads by example, and coaches others in product validation techniques. Expert at business case creation delivering cross-section, intra-section, and company-wide investment cases for consideration by Product Leadership. Proven execution of business results across multiple product domains.|
 
@@ -86,7 +86,7 @@ _Example outcomes: Participation in Webinars, Prospect calls, #thanks shoutouts 
 
 #### Role Expectations
 
-| [Intermediate PM](https://handbook.gitlab.com/job-families/product/product-manager/#intermediate-product-manager)| [Senior PM](https://handbook.gitlab.com/job-families/product/product-manager/#senior-product-manager) | [Principal PM](https://handbook.gitlab.com/job-families/product/product-manager/#principal-product-manager) | [Senior Principal PM](https://handbook.gitlab.com/job-families/product/product-manager/#senior-principal-product-manager)
+| [Intermediate PM](/job-families/product/product-manager/#intermediate-product-manager)| [Senior PM](/job-families/product/product-manager/#senior-product-manager) | [Principal PM](/job-families/product/product-manager/#principal-product-manager) | [Senior Principal PM](/job-families/product/product-manager/#senior-principal-product-manager)
 | ------ | ------ | ------ |------ |
 | Capable written and verbal communicator internally and externally. Trusted resource for customer calls and meetings. Builds rapport with stakeholders to align around priorities. Drives clarity in area. Takes action to improve behavior based on impact to others. High-level understanding of Gitlab product and the relevant product domain(s). High-level understanding of GitLab's architecture and tech stack | Capable of representing GitLab externally at trade shows, customer events, conferences, etc. Appropriately influences & persuade others to a course of action. Solid presentation skills at all levels of the company. Deep familiarity with GitLab's product and the relevant product domain(s). Deep understanding of GitLab's architecture and tech stack. | Recognized as a thought leader internally and externally. Escalates issues cleanly to appropriate levels of authority when decisions or progress are blocked. Excellent presentation skills at all levels of the company. Expert in the relevant product domain(s) and capable of teaching others about the domain. Capable of coaching others on the GitLab product, architecture, and tech stack.| Celebrated as a thought leader internally and externally. Actions on escalations and transparently triages issues to appropriate levels of authority when decisions or progress are blocked.  Mentors, leads by example, and coaches others on presentation skills at all levels of the company. Actively teaches others about the owned domain. Actively mentors and coaches others on the GitLab product, architecture, and tech stack.|
 
@@ -104,12 +104,12 @@ _Example outcomes: Say/Do, MR Rate, Validation Track Cycle Time and Build Track 
 
 #### Role Expectations
 
-| [Intermediate PM](https://handbook.gitlab.com/job-families/product/product-manager/#intermediate-product-manager)| [Senior PM](https://handbook.gitlab.com/job-families/product/product-manager/#senior-product-manager) | [Principal PM](https://handbook.gitlab.com/job-families/product/product-manager/#principal-product-manager) | [Senior Principal PM](https://handbook.gitlab.com/job-families/product/product-manager/#senior-principal-product-manager)
+| [Intermediate PM](/job-families/product/product-manager/#intermediate-product-manager)| [Senior PM](/job-families/product/product-manager/#senior-product-manager) | [Principal PM](/job-families/product/product-manager/#principal-product-manager) | [Senior Principal PM](/job-families/product/product-manager/#senior-principal-product-manager)
 | ------ | ------ | ------ |------ |
 | Responsible for the health of working relationships with peers in the stage. Familiar and comfortable with using iteration methologies and collaborating across the product group. | Skilled at applying agile development methodologies. Able to elevate performance of the Group through excellent PM outputs. Skilled at applying iteration methodologies and managing with influence while collaborating across the product stage. | Expert at applying agile development methodologies. Able to elevate performance of the peers in the stage. Expert at applying iteration methodologies and managing with influence while collaboration across the product section. | All Principal Behaviors, while proactively building strong cross-section relationships. Able to elevate performance of the peers across the company. Mentors and coaches others on our values including applying iteration methodologies and managing with influence while collaborating across GitLab. |
 
 ## CDF for Individual Contributor Pricing Managers 
-Below, you'll find the CDF framework and potential discussion topics for [Pricing Product Managers](https://handbook.gitlab.com/job-families/product/pricing/).
+Below, you'll find the CDF framework and potential discussion topics for [Pricing Product Managers](/job-families/product/pricing/).
 
 ### Product Roadmap & Product Led Growth
 
@@ -117,7 +117,7 @@ This competency is about setting and attaining the product direction as defined 
 
 _Example outcomes: Pricing, packaging and data analytics strategies aligned with product and business objectives (e.g. user adoption, cost savings, revenue monetization, etc.) and Pricing and packaging aligned to product value drivers (clear articulation of customer’s perceived value and how monetization is aligned with perceived value)._
 
-| [Pricing Analyst](https://handbook.gitlab.com/job-families/product/pricing/#pricing-analyst)| [Senior Pricing Analyst](https://handbook.gitlab.com/job-families/product/pricing/#senior-pricing-analyst)| [Principal Pricing Manager](https://handbook.gitlab.com/job-families/product/pricing/#principal-pricing-manager) |
+| [Pricing Analyst](/job-families/product/pricing/#pricing-analyst)| [Senior Pricing Analyst](/job-families/product/pricing/#senior-pricing-analyst)| [Principal Pricing Manager](/job-families/product/pricing/#principal-pricing-manager) |
 | -------- |-- | -- | 
 | Adept at establishing processes and analytical methods to measure success metrics for pricing initiatives. Adept at communicating data insights. Skilled at creating dashboards to inform team members on success metrics. Partners with Product and Pricing Managers to understand project goals and develop a data strategy to support overall initiative. Light-weight project management of data analytic initiatives. Adept at identifying root drivers of problem statements. Skilled in analyzing data to validate connection between root drivers to problem statements. Adept in sourcing data used to validate problem statements. Skilled in using data to clarify problem statements. Adept in using data to refine solution options. | Excellent at establishing processes and analytical methods to measure success metrics for pricing initiatives. Excellent at communicating data insights. Skilled at determining the right dashboards to create that allows team members to review performance of initiatives against success metrics. Partners with Product and Pricing Managers to understand project goals and develop a data strategy to support overall initiative. Advanced project management of data analytic initiatives.  Skilled at identifying root drivers of problem statements and analyzing data to validate connection between root drivers to problem statements. Skilled in sourcing and analyzing data to derive key insights to support/drive pricing initiatives. Skilled in using data to clarify problem statements and refine solution options.  | Expert at setting success metrics for pricing initiatives and communicating business value of pricing projects. Expert at aligning GitLab's Go-to-market activities and business model with pricing. Expert at identifying monetization drivers and incorporating findings into pricing recommendations. Partners with Product Managers and Sales to understand product vision and sales challenges to build pricing and packaging intiatives.  Leads pricing and packaging intiatives. Expert at identifying root drivers of problem statement, forming solution hypotheses, and identifying research needed to validate potential solutions. Skilled at qualitative customer and sales interviewing. Skilled at creating surveys for quantitative analysis.  Expert at aggregating data and insights to form a cohesive pricing and packaging recommendation. Capable of teaching pricing validation techniques to others.|
 
@@ -127,7 +127,7 @@ This competency is about being able to balance and understand the various inputs
 
 _Example outcomes: Uses appropriate methods of customer interviewing, competitive landscape, customer/sales data and market research as basis for Product Direction._
 
-| [Pricing Analyst](https://handbook.gitlab.com/job-families/product/pricing/#pricing-analyst)| [Senior Pricing Analyst](https://handbook.gitlab.com/job-families/product/pricing/#senior-pricing-analyst)| [Principal Pricing Manager](https://handbook.gitlab.com/job-families/product/pricing/#principal-pricing-manager) |
+| [Pricing Analyst](/job-families/product/pricing/#pricing-analyst)| [Senior Pricing Analyst](/job-families/product/pricing/#senior-pricing-analyst)| [Principal Pricing Manager](/job-families/product/pricing/#principal-pricing-manager) |
 | -------- |-- | -- | 
 |Basic understanding of pricing research methodologies. Adept in analyzing data gathered from different pricing surveys to drive insights. Adept at identifying, collecting, and analyzing customer, product usage and sales data to form insights used to drive pricing decisions. | Basic understanding of pricing research methodologies and skilled in analyzing data gathered from different pricing surveys to drive insights. Skilled at identifying, collecting and analyzing customer, product usage and sales data to form insights used to drive pricing decisions. Skilled at consolidating data and insights to form a comprehensive story. | Expert at incorporating customer options (build, buy and partner) into pricing and packaging recommendations. Be able to clearly articulate the customer’s next best alternatives and how it impacts PnP recommendations. Excellent in the understanding of pricing research methodologies and being able to identify appropriate method(s) to be used for a given situation: basic survey questions on interests/needs, Van Westdorp, Gabor-Granger, Max-Diff, Conjoint, etc.|
 
@@ -137,7 +137,7 @@ This competency is about the recognition of having technical ownership and being
 
 _Example outcomes: Participation in Webinars, Prospect calls, #thanks shoutouts by others, engagement in social with community._
 
-| [Pricing Analyst](https://handbook.gitlab.com/job-families/product/pricing/#pricing-analyst)| [Senior Pricing Analyst](https://handbook.gitlab.com/job-families/product/pricing/#senior-pricing-analyst)| [Principal Pricing Manager](https://handbook.gitlab.com/job-families/product/pricing/#principal-pricing-manager) |
+| [Pricing Analyst](/job-families/product/pricing/#pricing-analyst)| [Senior Pricing Analyst](/job-families/product/pricing/#senior-pricing-analyst)| [Principal Pricing Manager](/job-families/product/pricing/#principal-pricing-manager) |
 | -------- |-- | -- | 
 | Adept at identifying data needs in order to support/drive pricing initiatives. Adept at driving improvements to data collection and analysis methods when data gaps are identified. Adept at driving data infrastructure improvements when required. Trusted resource for internal teams to provide pricing insights based on data. | Skilled at identifying data needs in order to support/drive pricing initiatives. Skilled at identifying data gaps and developing the data infrastructure to provide the required insights. Trusted resource for internal teams to provide pricing insights based on data. | Recognized as a thought leader internally and externally. Escalates issues cleanly to appropriate levels of authority when decisions or progress are blocked. Excellent presentation skills at all levels of the company. Expert in the relevant product domain(s). Capable of coaching others on the pricing frameworks, discount methodologies, and sales operations based on in-depth knowledge of the relevant product domain’s value proposition. |
 
@@ -147,7 +147,7 @@ This competency is about the teammate facilitates the team execution and perform
 
 _Example outcomes: Say/Do, MR Rate, Validation Track Cycle Time and Build Track Cycle Time, OKR Attainment (70-85% is success, 100% means place for improvement), 360 feedback from counterparts, Values demonstration per our Company Competencies_
 
-| [Pricing Analyst](https://handbook.gitlab.com/job-families/product/pricing/#pricing-analyst)| [Senior Pricing Analyst](https://handbook.gitlab.com/job-families/product/pricing/#senior-pricing-analyst)| [Principal Pricing Manager](https://handbook.gitlab.com/job-families/product/pricing/#principal-pricing-manager) |
+| [Pricing Analyst](/job-families/product/pricing/#pricing-analyst)| [Senior Pricing Analyst](/job-families/product/pricing/#senior-pricing-analyst)| [Principal Pricing Manager](/job-families/product/pricing/#principal-pricing-manager) |
 | -------- |-- | -- | 
 | Responsible for the health of working relationships with peers in the stage. Familiar and comfortable with using iteration methologies and collaborating across the product group. | Skilled at applying agile development methodologies. Able to elevate performance of the Group through excellent PM outputs. Skilled at applying iteration methodologies and managing with influence while collaborating across the product stage. | Expert at applying agile development methodologies. Able to elevate performance of the peers in the stage. Expert at applying iteration methodologies and managing with influence while collaboration across the product section. |
 
@@ -155,11 +155,11 @@ _Example outcomes: Say/Do, MR Rate, Validation Track Cycle Time and Build Track 
 
 The below table outlines the Career Development Framework used for [Product Leaders](/handbook/product/product-leadership/#product-leaders).
 
-Typical scope and reporting structure is documented in the [Product Management Leadership job family](https://handbook.gitlab.com/job-families/product/product-management-leadership/).
+Typical scope and reporting structure is documented in the [Product Management Leadership job family](/job-families/product/product-management-leadership/).
 
 ### Competencies
 
-All Managers and above in the Product function are considered product leaders. The Product Leader competencies describes important leadership concepts specific to the product management team. See also our page on general [GitLab leadership guidance](https://handbook.gitlab.com/handbook/leadership/).
+All Managers and above in the Product function are considered product leaders. The Product Leader competencies describes important leadership concepts specific to the product management team. See also our page on general [GitLab leadership guidance](/handbook/leadership/).
 
 ### Product Roadmap & Product Led Growth
 
@@ -169,7 +169,7 @@ _Example outcomes: MAU growth/retention, ARR Influence, Cross-company alignment 
 
 #### Responsibilities
 
-Responsibilities outlined in the [Group Manager of Product Job Family page](https://handbook.gitlab.com/job-families/product/product-management-leadership/#group-manager-product-gmp).
+Responsibilities outlined in the [Group Manager of Product Job Family page](/job-families/product/product-management-leadership/#group-manager-product-gmp).
 
 ##### Group Manager
 
@@ -181,7 +181,7 @@ Responsibilities outlined in the [Group Manager of Product Job Family page](http
 
 #### Role Expectations
 
-| [Group Manager](https://handbook.gitlab.com/job-families/product/product-management-leadership/) | [Director](https://handbook.gitlab.com/job-families/product/product-management-leadership/)| [Senior Director](https://handbook.gitlab.com/job-families/product/product-management-leadership/) | [VP](https://handbook.gitlab.com/job-families/product/product-management-leadership/) |
+| [Group Manager](/job-families/product/product-management-leadership/) | [Director](/job-families/product/product-management-leadership/)| [Senior Director](/job-families/product/product-management-leadership/) | [VP](/job-families/product/product-management-leadership/) |
 | --- | --- | --- | --- |
 | Leads strategic research that spans and extends beyond product scope. Plans on an annual and quarterly product vision cadence. Spots opportunities for cross-group, cross-stage, or cross-section collaboration and learning. Demonstrates and coaches business skills to others. Regularly maintains high-level Direction and ensures Direction alignment across the scope. Develops a deep understanding of the adoption funnel across groups and stages. | Executes research and customer interviewing across the section as a GitLab representative. Plans on a 3-year to annual product vision cycle. Creates opportunities for cross-stage and cross-section collaboration. Active coach for business skills across the product organization, including feedback on opportunity canvases, product proposals, and MVCs.  | Represents GitLab product in strategic customer calls, Customer Advisory Board Sessions, and prospects to inform 5-year+ product vision and strategy. Contributes to annual themes, yearlies, and OKRs to align section with broader company strategy. Provides coaching to direct reports on crafting vision in respective areas. |  |
 
@@ -193,7 +193,7 @@ _Example outcomes: Continuous evaluation of competitive landscape, active partic
 
 #### Responsibilities
 
-Responsibilities outlined in the [Group Manager of Product Job Family page](https://handbook.gitlab.com/job-families/product/product-management-leadership/#group-manager-product-gmp).
+Responsibilities outlined in the [Group Manager of Product Job Family page](/job-families/product/product-management-leadership/#group-manager-product-gmp).
 
 ##### Group Manager
 
@@ -205,7 +205,7 @@ Responsibilities outlined in the [Group Manager of Product Job Family page](http
 
 #### Role Expectations
 
-| [Group Manager](https://handbook.gitlab.com/job-families/product/product-management-leadership/) | [Director](https://handbook.gitlab.com/job-families/product/product-management-leadership/)| [Senior Director](https://handbook.gitlab.com/job-families/product/product-management-leadership/) | [VP](https://handbook.gitlab.com/job-families/product/product-management-leadership/) |
+| [Group Manager](/job-families/product/product-management-leadership/) | [Director](/job-families/product/product-management-leadership/)| [Senior Director](/job-families/product/product-management-leadership/) | [VP](/job-families/product/product-management-leadership/) |
 | --- | --- | --- | --- |
 | Partners with GTM on assigned Use Cases. Establishes a deep understanding of competitive and emergent solutions. Leads acquisition and new investment business case creation. Capable of managing business results across a range of product domains. | Capable of making key pricing & packaging recommendations for section. Champions acquisition opportunities including business case creation. Proactively manages adoption funnels and performance indicators across stages. Identifies GTM opportunities and engages with leaders to capitalize on them for the section. | Contributes to pricing discussions across the portfolio and makes recommendations on strategy. Identifies and champions acquisition opportunities and provides coaching to direct reports on effective positioning and business case creation. Leads cross-section dialogue on product performance indicators and helps identify opportunities for cross-section partnership. Works with GTM and Customer success leadership to deliver on portfolio priorities.  |  |
 
@@ -217,7 +217,7 @@ _Example outcomes: Represent GitLab externally in industry talks, podcasts, or c
 
 #### Responsibilities
 
-Responsibilities outlined in the [Group Manager of Product Job Family page](https://handbook.gitlab.com/job-families/product/product-management-leadership/#group-manager-product-gmp).
+Responsibilities outlined in the [Group Manager of Product Job Family page](/job-families/product/product-management-leadership/#group-manager-product-gmp).
 
 ##### Group Manager
 
@@ -226,7 +226,7 @@ Responsibilities outlined in the [Group Manager of Product Job Family page](http
 
 #### Role Expectations
 
-| [Group Manager](https://handbook.gitlab.com/job-families/product/product-management-leadership/) | [Director](https://handbook.gitlab.com/job-families/product/product-management-leadership/)| [Senior Director](https://handbook.gitlab.com/job-families/product/product-management-leadership/) | [VP](https://handbook.gitlab.com/job-families/product/product-management-leadership/) |
+| [Group Manager](/job-families/product/product-management-leadership/) | [Director](/job-families/product/product-management-leadership/)| [Senior Director](/job-families/product/product-management-leadership/) | [VP](/job-families/product/product-management-leadership/) |
 | --- | --- | --- | --- |
 | Consistently communicates a product vision and creates a bias towards action in their communication. Recognized as a thought leader internally and externally. Excellent presentation skills at all levels of the company. Spots murkiness and escalates issues cleanly to appropriate levels of authority when decisions or progress are blocked. Able to represent GitLab Section Direction deeply and company-wide roadmap broadly. | Establishes a compelling team purpose that is aligned with the overall organizational vision. Inspires a broader team to achieve results. Identifies disconnects to vision and takes appropriate action. | Actively engages the market, analysts, and other software leaders in the industry to represent GitLab and our product management philosophy. Active participant in industry conferences. Engages analysts in portfolio discussions.  |  |
 
@@ -238,7 +238,7 @@ _Example outcomes: Lives CREDIT values. Coaches others on CREDIT Values. OKR exe
 
 #### Responsibilities
 
-Responsibilities outlined in the [Group Manager of Product Job Family page](https://handbook.gitlab.com/job-families/product/product-management-leadership/#group-manager-product-gmp).
+Responsibilities outlined in the [Group Manager of Product Job Family page](/job-families/product/product-management-leadership/#group-manager-product-gmp).
 
 ##### Group Manager
 
@@ -254,7 +254,7 @@ Responsibilities outlined in the [Group Manager of Product Job Family page](http
 
 #### Role Expectations
 
-| [Group Manager](https://handbook.gitlab.com/job-families/product/product-management-leadership/) | [Director](https://handbook.gitlab.com/job-families/product/product-management-leadership/)| [Senior Director](https://handbook.gitlab.com/job-families/product/product-management-leadership/) | [VP](https://handbook.gitlab.com/job-families/product/product-management-leadership/) |
+| [Group Manager](/job-families/product/product-management-leadership/) | [Director](/job-families/product/product-management-leadership/)| [Senior Director](/job-families/product/product-management-leadership/) | [VP](/job-families/product/product-management-leadership/) |
 | --- | --- | --- | --- |
 | Develops strong partnership with Cross-functional counterparts leadership in Stage. Ensures effectiveness of R&D investment. Partners with Engineering Leadership to ensure product groups attain cross-functional performance indicators and that R&D resources are being effectively allocated. Establishes and executes a portfolio management strategy across stages in sections. Aligns team with larger Stage vision and goals. Translates and aligns strategy in a meaningful way for the team, building a shared understanding of team goals and targets. Uses situational leadership techniques to provide the appropriate level of guidance and latitude to team members. Proactively identifies and fills talent gaps. Adept at caring personally for team members. Provides candid real-time feedback. | Enables strong partnership with UX Research and Product Design to ensure our R&D investment is effective across stages and the section. Responsible for the health of working relationships with fellow Engineering Directors. Evaluates and optimizes product hierarchy to ensure we are organized to efficiently deliver on our R&D investments. Coaches groups to create a high-performance organization that meets performance indicators across functions. Establishes and executes portfolio management strategy across scope with peer Directors. Aligns team with scope's larger vision and goals. Provides appropriate level of guidance and latitude to managers and individuals. Experienced at hiring and at managing underperformance. Excellent at caring personally for team members. Provides candid real-time feedback. | Enables strong partnership with UX Research and Product Design to ensure our R&D investment is effective across the portfolio. Responsible for the health of working relationships with Engineering functions and product organization. Provides coaching on the effective use of R&D investments. Coaches product team to create a high-performance organization that meets performance indicators across functions. Coaches direct reports on portfolio management strategy. Aligns product team with scope's larger vision and goals. Provides appropriate level of guidance and latitude to managers and individuals. Expert at hiring and at managing underperformance. Excellent at caring personally for team members. Provides candid real-time feedback. |  |
 
@@ -265,7 +265,7 @@ When evaluating a product manager's potential, in addition to the [generic infor
 We can think about the Product Manager's potential primarily on two axis: value creation and leadership.
 
 ### Value Creation
-Product managers are in the business of creating value, measurable by [Product KPIs](https://about.gitlab.com/handbook/product/performance-indicators/#structure). They prioritize the most important thing to unlock the most value at the intersection of the business and the user or buyer. At GitLab, Product Managers are often the [business owner](https://www.svpg.com/product-managers-vs-business-owners/) of their segment and outputs are not just in the delivery of features to production, rather can include go-to-market, sales enablement, partner/channel/alliances relationships, and understanding revenue impact of the product offering. 
+Product managers are in the business of creating value, measurable by [Product KPIs](/handbook/product/performance-indicators/#structure). They prioritize the most important thing to unlock the most value at the intersection of the business and the user or buyer. At GitLab, Product Managers are often the [business owner](https://www.svpg.com/product-managers-vs-business-owners/) of their segment and outputs are not just in the delivery of features to production, rather can include go-to-market, sales enablement, partner/channel/alliances relationships, and understanding revenue impact of the product offering. 
 
 We expect product managers to create value across the business by excelling at execution in at least the following levels. When thinking of a PM's potentials, consider their capacity to expand their influence beyond their current level.
 
@@ -292,7 +292,7 @@ We expect product managers to be a leader at the following levels. When evaluati
 | **VP**                     | company-wide |
 
 ### A framework for evaluating potential
-It can be challenging objectively evaluating product managers for categorization of Low, Medium and High potential as suggested in the [Performance/Potential Matrix](https://about.gitlab.com/handbook/people-group/talent-assessment/#the-performancepotential-matrix). Consider using the following framework to rank a PM's potential. Assign a ranking, 1 (Low) - 5 (High) to each attribute below. Add up the rankings for a total score. A score between 5-11 is low potential, 12-18 is medium potential, 19-25 is high potential.
+It can be challenging objectively evaluating product managers for categorization of Low, Medium and High potential as suggested in the [Performance/Potential Matrix](/handbook/people-group/talent-assessment/#the-performancepotential-matrix). Consider using the following framework to rank a PM's potential. Assign a ranking, 1 (Low) - 5 (High) to each attribute below. Add up the rankings for a total score. A score between 5-11 is low potential, 12-18 is medium potential, 19-25 is high potential.
 
 | Attribute                 | Reasoning |
 | ------------------------- | --------- |

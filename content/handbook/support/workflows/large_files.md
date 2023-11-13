@@ -65,9 +65,9 @@ dos2unix -f gitlabsos.main-a_20230215115744.tar.gz
 When the ticket the FTP user was generated for is closed, the FTP user (and
 associated files) will automatically be removed completely.
 
-## US Federal Support Uploader
+## US Government Support Uploader
 
-There is not currently a US Federal Support Uploader. Please check back in the
+There is not currently a US Government Support Uploader. Please check back in the
 future for more information on it when it becomes available.
 
 ## Usage

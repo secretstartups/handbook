@@ -13,7 +13,7 @@ The responsibilities include both directed work initiated by the CRO as well as 
 - Leads key priorities and projects across the global Sales team
 - Acts as a sounding board to the CRO and CRO leadership team for new ideas and initiatives.
 - Acts as a thought partner to the CRO, CRO leadership team, executive leadership team, and cross-functional teams on strategy, company policies, and operating systems
-- Initiate and guide the CRO team OKR process according to the [OKR schedule](https://handbook.gitlab.com/handbook/company/okrs/#schedule) in partnership with the CoS, CEO
+- Initiate and guide the CRO team OKR process according to the [OKR schedule](/handbook/company/okrs/#schedule) in partnership with the CoS, CEO
 - Helps define, drive, and run CRO-level and relevant business reviews including CRO QBRs
 - Work closely with internal teams on goal-setting and tracking, interfacing, and consulting with cross-functional groups
 - Develops and maintain strong relationships with executives, senior leaders, and stakeholders to achieve project objectives and deliverables

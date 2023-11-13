@@ -23,6 +23,8 @@ You can expense:
 
 You can *not* expense relocation costs.
 
+Please note, that GitLab is only able to cover the costs of one VISA attempt. If your VISA request is rejected, team members are free to re-submit at their discretion and any additional costs will be need to be covered by the team member.
+
 ### Arranging a visa for travel
 
 In some cases when traveling to a conference or summit you might need to arrange a visa to enter that specific country.

@@ -16,7 +16,7 @@ This handbook page defines the process for creating user personas only.
 
 At GitLab, we use two kinds of personas that we create based on data-driven insights that focus on user needs and emotions:
 
-- [User personas](https://about.gitlab.com/handbook/product/personas/) - Used by UX professionals and Product Managers (PM) as a mechanism to connect with end users' needs, motivations, behaviors, and skills. Owned by Product Managers, who are also the DRI on persona-related research efforts.
+- [User personas](/handbook/product/personas/) - Used by UX professionals and Product Managers (PM) as a mechanism to connect with end users' needs, motivations, behaviors, and skills. Owned by Product Managers, who are also the DRI on persona-related research efforts.
 
 - [Buyer personas](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) - Focus on the high-level goals of potential customers who may or may not be potential users. Owned by the Marketing team.
 
@@ -27,7 +27,7 @@ User personas are developed to be useful to both Product Managers and Product De
 
 ## What makes up a user persona?
 
-Each persona in [Gitlab's persona page](https://about.gitlab.com/handbook/product/personas/) should have the following traits:
+Each persona in [Gitlab's persona page](/handbook/product/personas/) should have the following traits:
 
 - Job Summary - Should include major focus areas and a general description of skills and responsibilities
 - Alternative Titles
@@ -42,7 +42,7 @@ Each persona in [Gitlab's persona page](https://about.gitlab.com/handbook/produc
 - Workflows- A series of steps the user will normally take to complete their tasks
 - Collaborative Teams - Teams in their organization that they may have overlap in responsibilities with or are dependent on in their workflow
 
-Our [Simone (Software Engineer in Test)](https://about.gitlab.com/handbook/product/personas/#simone-software-engineer-in-test) is a good example of many of these.
+Our [Simone (Software Engineer in Test)](/handbook/product/personas/#simone-software-engineer-in-test) is a good example of many of these.
 
 Not all of the additional details are necessary, so it can be helpful to discuss with stakeholders to know which could be useful. If there is any doubt, a guideline is the more detailed, the better.
 
@@ -158,7 +158,7 @@ As you summarize each round of research, you can compare the answers from the pr
 
 ### Step 5: Publish the new persona through a merge request
 
-When all of the data has been collected and summarized, it's time to update the [Roles & Personas handbook page](https://about.gitlab.com/handbook/product/personas/).
+When all of the data has been collected and summarized, it's time to update the [Roles & Personas handbook page](/handbook/product/personas/).
 
 Copy the text from one of the already existing user personas, and paste it below the last persona that is currently filled out. Edit the information for the persona you have collected data on, and double check all of the information, including the name and title of the persona.\
 Assign the merge request to one of the managers found in the 'Maintained By' section on the same Roles & Personas page.

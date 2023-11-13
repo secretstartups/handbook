@@ -5,14 +5,14 @@ description: "data build tool (dbt) Cheat Sheet for Functional Analysts"
 ---
 
 
-{:.no_toc}
 
 
-{:toc}
+
+
 
 ## Objective of this page
 
-{:.no_toc}
+
 
 This page is intended to be a cheat sheet or quick start guide to dbt for functional analysts.
 There is a wealth of documentation available in the [Data Team dbt Guide](/handbook/business-technology/data-team/platform/dbt-guide/),
@@ -335,7 +335,7 @@ The first thing you will need to do is clone the dependencies required for your 
 There are a couple of ways to do this, but the fastest, preferred method is to use
 [⚙️ dbt Run > 🔆⚡️clone_model_dbt_select](/handbook/business-technology/data-team/platform/ci-jobs/#clone_model_dbt_select).
 
-![clone_model_dbt_select on pipelines page](/handbook/product/product-analysis/dbt-cheat-sheet/images/clone_model_dbt_select_on_pipelines_page.png){: .shadow}
+![clone_model_dbt_select on pipelines page](/handbook/product/product-analysis/dbt-cheat-sheet/images/clone_model_dbt_select_on_pipelines_page.png)
 
 ⚙️ dbt Run > 🔆⚡️clone_model_dbt_select requires you to pass which models to clone using
 the `DBT_MODELS` variable.
@@ -343,7 +343,7 @@ the `DBT_MODELS` variable.
 - Key: `DBT_MODELS`
 - Value: `+[changed_model_name]` (this will clone all the specified model and all its parents)
 
-![clone_model_dbt_select variables](/handbook/product/product-analysis/dbt-cheat-sheet/images/clone_model_dbt_select_variables.png){: .shadow}
+![clone_model_dbt_select variables](/handbook/product/product-analysis/dbt-cheat-sheet/images/clone_model_dbt_select_variables.png)
 
 
 Other options for cloning models are:
@@ -357,7 +357,7 @@ this job clones the schema provided in the `SCHEMA_NAME` variable
 Once the dependencies are cloned, you can actually build the model you are changing. To do this,
 use [⚙️ dbt Run > 🏗🛺️run_changed_models_sql](/handbook/business-technology/data-team/platform/ci-jobs/#run_changed_models_sql).
 
-![run_changed_models_sql on pipelines page](/handbook/product/product-analysis/dbt-cheat-sheet/images/run_changed_models_sql_on_pipelines_page.png){: .shadow}
+![run_changed_models_sql on pipelines page](/handbook/product/product-analysis/dbt-cheat-sheet/images/run_changed_models_sql_on_pipelines_page.png)
 
 ⚙️ dbt Run > 🏗🛺️run_changed_models_sql will run all .sql models in the MR diff where the SQL
 has been edited. Please note that there are actually 3 versions of the `run_changed_models_sql`
@@ -386,7 +386,7 @@ in the [Data team documentation](/handbook/business-technology/data-team/platfor
   - Key: `DEPENDENT_TYPE`
   - Value: `+`
 
-![run_changed_models_sql variables](/handbook/product/product-analysis/dbt-cheat-sheet/images/run_changed_models_sql_variables.png){: .shadow}
+![run_changed_models_sql variables](/handbook/product/product-analysis/dbt-cheat-sheet/images/run_changed_models_sql_variables.png)
 
 #### Specify model
 
@@ -394,7 +394,7 @@ Sometimes you need to build a single model when re-running the pipeline or in te
 that do not change any SQL files (ex: updates to dbt docs). In this case, you want to use
 [⚙️ dbt Run > 🐭specify_model](/handbook/business-technology/data-team/platform/ci-jobs/#specify_model).
 
-![specify_model on pipelines page](/handbook/product/product-analysis/dbt-cheat-sheet/images/specify_model_on_pipelines_page.png){: .shadow}
+![specify_model on pipelines page](/handbook/product/product-analysis/dbt-cheat-sheet/images/specify_model_on_pipelines_page.png)
 
 Like `run_changed_models_sql`, there are different versions of ⚙️ dbt Run > 🐭specify_model,
 each using a different sized warehouse. Again, you should select the job that is best suited
@@ -410,7 +410,7 @@ This job requires a single variable, `DBT_MODELS` to specify which model you wan
 - Key: `DBT_MODELS`
 - Value: `[model_name]`
 
-![specify_model variables](/handbook/product/product-analysis/dbt-cheat-sheet/images/specify_model_variables.png){: .shadow}
+![specify_model variables](/handbook/product/product-analysis/dbt-cheat-sheet/images/specify_model_variables.png)
 
 #### Grant access to MR database
 
@@ -419,9 +419,9 @@ models. The CI jobs above clone and build models in a database specific to the M
 Functional analysts do not automatically gain access to these databases. In order to grant
 access, you need to run [❄️ Snowflake > 🔑grant_clones](/handbook/business-technology/data-team/platform/ci-jobs/#grant_clones).
 
-![grant_clones on pipelines page](/handbook/product/product-analysis/dbt-cheat-sheet/images/grant_clones_on_pipelines_page.png){: .shadow}
+![grant_clones on pipelines page](/handbook/product/product-analysis/dbt-cheat-sheet/images/grant_clones_on_pipelines_page.png)
 
-{::options parse_block_html="true" /}
+
 
 <div class="panel panel-info">
 **IMPORTANT**
@@ -443,12 +443,12 @@ Smith's role would be `JSMITH`). There is an exhaustive list of roles in [roles.
 - Key: `GRANT_TO_ROLE`
 - Value: `[SNOWFLAKE_ROLE]`
 
-![grant_clones variables](/handbook/product/product-analysis/dbt-cheat-sheet/images/grant_clones_variables.png){: .shadow}
+![grant_clones variables](/handbook/product/product-analysis/dbt-cheat-sheet/images/grant_clones_variables.png)
 
 Once you have access to the MR database, it will appear in the Snowflake UI. Please note that
 you cannot query the MR database from Sisense, you need to use Snowflake.
 
-![MR database in Snowflake UI](/handbook/product/product-analysis/dbt-cheat-sheet/images/mr_database_in_snowflake_ui.png){: .shadow}
+![MR database in Snowflake UI](/handbook/product/product-analysis/dbt-cheat-sheet/images/mr_database_in_snowflake_ui.png)
 
 ### MRs to add new tables or columns to the Postgres/GitLab.com pipeline
 

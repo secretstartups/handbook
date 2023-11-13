@@ -16,7 +16,7 @@ As a result of our direct interactions with customers, the Support Team occupies
 
 ## How do we align Support Team Members to the Product?
 
-- Development of the product is broken down into [sections, stages and groups; that page](https://about.gitlab.com/handbook/product/categories/#devops-stages) is the single source of truth about who is performing this role.
+- Development of the product is broken down into [sections, stages and groups; that page](/handbook/product/categories/#devops-stages) is the single source of truth about who is performing this role.
 - Each group can have one or more individual contributor counterparts.
 - Each section can have a Support manager counterpart.
 
@@ -157,11 +157,10 @@ Note: We encourage having more than 1 SSC for a group - so if the group you are 
 A couple of roles are not product group specific, but involve all the same expectations and responsibilities with some overlap of the [Support Liaison role](/handbook/support/support-liaisons.html).
 Non-group specific counterparts typically also step in when the related group has questions where there is no SSC currently.
 
-| Section          | Group          | Group Contact       | Support Liaison             | Frequency           |
-|:----------------:|:--------------:|:-------------------:|:---------------------------:|:-------------------:|
-| UX               | Tech Writing   | Susan Tacker        | Cynthia Ng & Mike Lockhart  | weekly team meeting |
-| UX               | UX             | Christie Lenneville | Cynthia Ng                  | weekly team meeting |
-| Quality          | Reference Architecture | Grant Young | Simon Street | TBD |
+| Section          | Group          | Group Contact       | Support Counterpart | Frequency           |
+|:----------------:|:--------------:|:-------------------:|:-------------------:|:-------------------:|
+| UX               | Tech Writing   | Susan Tacker        | Mike Lockhart       | weekly team meeting |
+| Quality          | Reference Architecture | Grant Young | Simon Street        | TBD |
 
 ## Product counterparts
 

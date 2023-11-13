@@ -51,7 +51,7 @@ environment, please complete the
   - *Note: the bot will add the stage, section, [Support Team Contributions](/handbook/support/#support-fixes), and docs-only labels if you don't*
 - Follow the [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html) and set the relevant Technical Writer (TW) as a Reviewer.
   - The documentation template has instructions on how to find this, but basically refer to the metadata information at the top of the source version of the docs page.
-  - Check the [Technical Writing Assignments](https://about.gitlab.com/handbook/product/ux/technical-writing/#assignments) to find the appropriate tech writer for the page you edited.
+  - Check the [Technical Writing Assignments](/handbook/product/ux/technical-writing/#assignments) to find the appropriate tech writer for the page you edited.
   - If you're using the [Support dotfiles](https://gitlab.com/gitlab-com/support/toolbox/dotfiles), you can use the `find-technical-writer` command to quickly see who is the tech writer for a specific group.
 - Make sure that the following options are checked before submitting the MR:
   - `Delete source branch when merge request is accepted.`
@@ -61,7 +61,7 @@ environment, please complete the
 
 - Remember to provide timely answers to any questions the tech writing team may ask you about your contribution.
 - Read through the [documentation process](https://docs.gitlab.com/ee/development/documentation/workflow.html).
-  - Note: Support is expected to verify the technical accuracy of a docs MR before assigning to a TW. When in doubt, get a technical review from an engineer first. Find an [appropriate engineer](https://about.gitlab.com/handbook/product/categories/) using the metadata information from the edited page.
+  - Note: Support is expected to verify the technical accuracy of a docs MR before assigning to a TW. When in doubt, get a technical review from an engineer first. Find an [appropriate engineer](/handbook/product/categories/) using the metadata information from the edited page.
 - Read the [post merge review guidelines](https://docs.gitlab.com/ee/development/documentation/workflow.html#post-merge-reviews).
   - In Support, you might use the post-merge review option if you have an urgent docs MR, such as when we need to publish a docs fix as soon as possible.
   - If it's in the "Troubleshooting section" of any page, follow the guidelines except assign to a support manager who is online who will do a quick review and merge.

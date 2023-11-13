@@ -1,31 +1,23 @@
 ---
-
 title: "CI/CD UX Team"
 description: "The CI/CD UX team works to ensure the best experience for users of all knowledge levels to successfully apply continuous methods with no 3rd-party application or integration"
 ---
 
-
-
-
-
-
-
-
 ## Hello!
 
-Welcome to the GitLab CI/CD UX team handbook page. We're comprised of three stage groups that support designing and building the GitLab DevOps product: [Verify](/direction/ops/#verify), [Package](/direction/ops/#package), [Deploy](/direction/ops/#deploy), and [SaaS Platforms](/direction/saas-platforms/dedicated/) stages.
+Welcome to the GitLab CI/CD UX team handbook page. We're comprised of three stage groups that support designing and building the GitLab DevOps product: [Verify](https://about.gitlab.com/direction/ops/#verify), [Package](https://about.gitlab.com/direction/ops/#package), [Deploy](https://about.gitlab.com/direction/ops/#deploy), and [SaaS Platforms](https://about.gitlab.com/direction/saas-platforms/dedicated/) stages.
 
 ### Who We Are
 
 | **GitLab.com** | [`@gitlab-com/gitlab-ux/cicd-ux`](https://gitlab.com/gitlab-org/ci-cd-ux) |
 | **Slack channel** | [`#ux_ci-cd`](https://gitlab.slack.com/app_redirect?channel=ux_ci-cd) (_internal only_)|
 | **Youtube playlists** | [CI/CD UX - Team Meetings](https://www.youtube.com/watch?v=ViEs54I5lHE&list=PL05JrBw4t0Kpap0GkV0SSuGnPhCM8jrAv) |
-| |  [CI/CD UX Team - Design Reviews](https://www.youtube.com/watch?v=AYO97sRry4E&list=PL05JrBw4t0Kpnb8RDztlfpryAYip1OMwb) | 
-| **Ops Section page** | [Ops handbook](/handbook/product/categories/#ops-section) | 
+| |  [CI/CD UX Team - Design Reviews](https://www.youtube.com/watch?v=AYO97sRry4E&list=PL05JrBw4t0Kpnb8RDztlfpryAYip1OMwb) |
+| **Ops Section page** | [Ops handbook](/handbook/product/categories/#ops-section) |
 
 ### Vision
 
-Our mission is to design and create simple, clean ways to make GitLab the tool of choice for deploying software where, when, and how users want. 
+Our mission is to design and create simple, clean ways to make GitLab the tool of choice for deploying software where, when, and how users want.
 
 Our design team works to ensure the best experience for users of all knowledge levels, allowing them to successfully apply the continuous methods (Continuous Integration, Delivery, and Deployment) to their software with no third-party application or integration needed.
 
@@ -35,7 +27,7 @@ Our design team works to ensure the best experience for users of all knowledge l
   
 TBA
   
-#### Package 
+#### Package
   
 TBA
   
@@ -50,7 +42,7 @@ TBA
 ## Strategy
 
 Our product design team is working to uncover customers' core needs and streamlining their workflows by being the conversation drivers with product managers, developers and other counterparts across stage groups.
-We contribute to the [UX Department Direction](/handbook/product/ux), [Ops Product Section Direction](/direction/ops/) and [SaaS Platforms Direction](/direction/saas-platforms/) in the following ways:
+We contribute to the [UX Department Direction](/handbook/product/ux), [Ops Product Section Direction](https://about.gitlab.com/direction/ops/) and [SaaS Platforms Direction](https://about.gitlab.com/direction/saas-platforms/) in the following ways:
 
 TBA
 
@@ -59,7 +51,7 @@ TBA
 Different user types are considered in our experience design effort. Even when a user has the same title, their responsibilities may vary by organization size, department, organization structure, and role. Some of the people we are serving are:
 
 - [Software Developer](/handbook/product/personas/#sasha-software-developer)
-- [Development Tech Lead](/handbook/product/personas/#delaney-development-team-lead) 
+- [Development Tech Lead](/handbook/product/personas/#delaney-development-team-lead)
 - [DevOps Engineer](/handbook/product/personas/)
 - [Product Designer](/handbook/product/personas/#presley-product-designer)
 - QA
@@ -78,7 +70,7 @@ TBA
 
 #### UX Debt in CI/CD
 
-<embed width="100%" height="350" src="<%= signed_periscope_url(dashboard: 930769, embed: 'v2') %>">
+{{% sisense dashboard="930769" height="2515" %}}
 
 ## How we work
 
@@ -88,7 +80,7 @@ TBA
 
 ### Career Development
 
-Apart from GitLab's 360 Feedback and annual Talent Assessment, our team uses a number of approaches to identify opportunities to develop their skills and knowledge. At least once a year, each Product Designer should have a [career development](/handbook/people-group/learning-and-development/career-development) conversation with their manager to set the tone and direction of their yearly growth and development plans. An [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/) (IGP) is created to outline professional goals and steps to accomplish them. Finally, a conversation is followed up with monthly/quarterly checkpoints and frequents 1:1s where team members and manager talk about the IGP plan, accomplishments, and iterations of the goals.
+Apart from GitLab's 360 Feedback and annual Talent Assessment, our team uses a number of approaches to identify opportunities to develop their skills and knowledge. At least once a year, each Product Designer should have a [career development](/handbook/people-group/learning-and-development/career-development) conversation with their manager to set the tone and direction of their yearly growth and development plans. An [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/igp-guide/) (IGP) is created to outline professional goals and steps to accomplish them. Finally, a conversation is followed up with monthly/quarterly checkpoints and frequents 1:1s where team members and manager talk about the IGP plan, accomplishments, and iterations of the goals.
 
 Use the following issue templates to plan and prepare for career conversations with your manager:
 
@@ -105,7 +97,7 @@ We follow the workflows outlined in the [UX section](/handbook/product/ux/how-we
 * Track [team-specif OKRs](#okrs) to execute our UX Department strategy.
 * Use our own [UX Definition of Done (DoD)](#ux-definition-of-done-dod).
 * Participate in the [monthly milestone kick off](/handbook/product/ux/ux-department-workflow/#milestone-kickoff). Together with Product Managers, we record a video with a focus on the user experience, front-end (user interface design) and research innitiatives.
-    * [View all Milestone Kickoff playlists](/direction/kickoff/#ops-section)
+    * [View all Milestone Kickoff playlists](https://about.gitlab.com/direction/kickoff/#ops-section)
 * Perform synchronous and asyncrhonous [design reviews](/handbook/product/ux/ux-resources/#synchronous-design-reviews).
     * [Watch our syncrhonous design reviews on Youtube](https://www.youtube.com/watch?v=AYO97sRry4E&list=PL05JrBw4t0Kpnb8RDztlfpryAYip1OMwb)
 
@@ -146,7 +138,7 @@ You can add the following checklist to an issue description to help illustrate t
     - [ ] Discuss the technical implications with Engineering
     - [ ] Pajamas issue is created (within the scope of the MVC)
 - [ ] Update issues/epic descriptions
-    - [ ] The appropriate [labels](https://about.gitlab.com/handbook/product/ux/ux-department-workflow/#how-we-use-labels) were applied
+    - [ ] The appropriate [labels](/handbook/product/ux/ux-department-workflow/#how-we-use-labels) were applied
       - [ ] If changes involve copy, add the ~"Technical Writing" and ~"UI text" labels
 - [ ] Proposed solution(s) identified and documented in the issue/epic description
 
@@ -160,7 +152,7 @@ You can add the following checklist to an issue description to help illustrate t
 
 2️⃣ **BUILD TRACK**
 
-[**Plan Phase**](https://about.gitlab.com/handbook/product-development-flow/#build-phase-1-plan)
+[**Plan Phase**](/handbook/product-development-flow/#build-phase-1-plan)
 - [ ] Proposal is ready to be broken down and prioritized by PM for development
 
 **Develop & Test Phase**

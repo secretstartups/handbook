@@ -40,7 +40,7 @@ GitLab.com runs GitLab Enterprise Edition.
 To keep our code easy to maintain and to make sure everyone reaps the benefits
 of all our efforts, we will not separate GitLab.com codebase from the Enterprise Edition codebase.
 
-To avoid complexity, [GitLab.com tiers and GitLab self-managed tiers](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/) are named the same.
+To avoid complexity, [GitLab.com tiers and GitLab self-managed tiers](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/) are named the same.
 
 #### GitLab.com subscription scope and tiers
 
@@ -55,7 +55,7 @@ Public projects get Ultimate for free.
 Public groups _do not_ get Ultimate for free. Because:
 
 - This would add significant additional complexity to the way we structure our features, licenses and groups. We don't want to discourage public groups, yet it wouldn't be fair to have a public group with only private projects and for that group to still get all the benefits of Ultimate. That would make buying a license for GitLab.com almost entirely moot.
-- All value of group level features is aimed at organisations, i.e. managers and up (see our [stewardship](/company/stewardship/)). The aim with giving all features away for free is to enable and encourage open source projects. The benefit of group-level features for open source projects is significantly diminished, therefore.
+- All value of group level features is aimed at organisations, i.e. managers and up (see our [stewardship](/handbook/company/stewardship/)). The aim with giving all features away for free is to enable and encourage open source projects. The benefit of group-level features for open source projects is significantly diminished, therefore.
 - Alternative solutions are hard to understand, and hard to maintain.
 
 Admittedly, this is complex and can be confusing for product managers when implementing features.
@@ -69,7 +69,7 @@ For more guidance on feature tiers and pricing, visit [tiering guidance for feat
 
 <!-- any changes made to this section should be reflected in https://about.gitlab.com/support/statement-of-support/#alpha--beta-features and https://docs.gitlab.com/ee/policy/experiment-beta-support.html -->
 
-There are cases where we need to test features before we are confident that we'll be able to scale, support, and maintain the features in their current form for every designed use case. There are also scenarios where a feature is not complete enough to be considered an [MVC](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc). In these cases, we have the option to release features as Experiment, Beta, or Limited Availability, and users can opt-in and test the new experience. Features might not be fully documented or supported in the Experiment or Beta phases.
+There are cases where we need to test features before we are confident that we'll be able to scale, support, and maintain the features in their current form for every designed use case. There are also scenarios where a feature is not complete enough to be considered an [MVC](/handbook/product/product-principles/#the-minimal-viable-change-mvc). In these cases, we have the option to release features as Experiment, Beta, or Limited Availability, and users can opt-in and test the new experience. Features might not be fully documented or supported in the Experiment or Beta phases.
 
 Please note that some features may not be aligned to these recommendations if they were developed before the recommendations were in place or if the group determined an alternative implementation approach was needed.
 
@@ -158,10 +158,10 @@ _For example, if the intended removal milestone is `16.0`, given the following r
     - Leveraging this template to create a deprecation issue is required because it serves as the SSOT/communication cross-functionally and across other stable counterparts, such as CSMs and Marketing, who need awareness of upcoming removals.
 1. Identify if deprecating the feature creates a [breaking change](#breaking-change). If so, you will need to wait until a XX.0 major release for removal. (Consider providing a notice as much in advance as you can - especially for features that have large impact.)
 
-**If you believe you need to push a breaking change outside a major release, tag your manager into the deprecation issue for approval. Upon manager approval, tag in [Delivery group](https://about.gitlab.com/handbook/product/categories/features/#saas-platformsdelivery-group) PM `@swiskow` into the deprecation issue for advisement/collaboration on whether any additional communication to users is required. Communicating to SaaS users on breaking changes is critical, it is recommended you set up a [broadcast message](https://about.gitlab.com/handbook/product/product-processes/#gitlabcom-in-app-messages-broadcast-messaging) one milestone ahead of the milestone in which the breaking change will happen.**
+**If you believe you need to push a breaking change outside a major release, tag your manager into the deprecation issue for approval. Upon manager approval, tag in [Delivery group](/handbook/product/categories/features/#saas-platformsdelivery-group) PM `@swiskow` into the deprecation issue for advisement/collaboration on whether any additional communication to users is required. Communicating to SaaS users on breaking changes is critical, it is recommended you set up a [broadcast message](/handbook/product/product-processes/#gitlabcom-in-app-messages-broadcast-messaging) one milestone ahead of the milestone in which the breaking change will happen.**
 
 1. Review the overall [workflow for announcing deprecations and removals](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations-removals-and-breaking-changes) and follow guidance to [announce the deprecation in GitLab Docs and the release post](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations-and-other-planned-breaking-change-announcements).
-1. Potentially mention it in the [Kickoff Videos](https://about.gitlab.com/handbook/product/product-processes/#kickoff-meetings).
+1. Potentially mention it in the [Kickoff Videos](/handbook/product/product-processes/#kickoff-meetings).
 1. Engage the support team to discuss support procedures for deprecated features and update the [Statement of Support](https://about.gitlab.com/support/statement-of-support/) as necessary
 1. Label the feature accordingly in documentation and the application
 1. Remove the feature from marketing pages
@@ -227,7 +227,7 @@ When renaming a feature other items to consider are updates to documentation, bl
 
 ### Using What's New to communicate updates to users
 
-What's New is a feature that is part of GitLab.com and Self-managed GitLab that is used to communicate highlights from each release. After each major release, a [yaml file is published](/handbook/marketing/blog/release-posts/index.html#creating-an-mr-for-whats-new-entries) that contains 3-10 highlights from the release along with links to the relevant documentation to get started using them.
+What's New is a feature that is part of GitLab.com and Self-managed GitLab that is used to communicate highlights from each release. After each major release, a [yaml file is published](https://about.gitlab.com/handbook/marketing/blog/release-posts/index.html#creating-an-mr-for-whats-new-entries) that contains 3-10 highlights from the release along with links to the relevant documentation to get started using them.
 
 A small notification dot appears above the "?" icon, and when users click on "What's new" in the menu, a drawer containing the updates slides into view.
 
@@ -264,9 +264,9 @@ All the above can be achieved by iteratively improving existing roles.
 
 ### Security Paradigm
 
-You can now find our [security paradigm](/direction/secure/#security-paradigm) on the [Secure Strategy](/direction/secure/) page.
+You can now find our [security paradigm](https://about.gitlab.com/direction/secure/#security-paradigm) on the [Secure Strategy](https://about.gitlab.com/direction/secure/) page.
 
-Also see our [Secure Team engineering handbook](/handbook/engineering/development/sec/secure/).
+Also see our [Secure Team engineering handbook](https://about.gitlab.com/handbook/engineering/development/sec/secure/).
 
 ### Statistics and performance data
 
@@ -302,7 +302,7 @@ pages to add to performance debt. When they ship, they should be fast.
 
 You must account for all cases, from someone with a single object, to thousands of objects.
 
-Read the handbook page relating to [performance of GitLab.com](/handbook/engineering/performance), and note the Speed Index target shown there
+Read the handbook page relating to [performance of GitLab.com](https://about.gitlab.com/handbook/engineering/performance), and note the Speed Index target shown there
 (read it thoroughly if you need a detailed overview of performance). Then:
 
 - Make sure that new pages and interactions meet the Speed Index target.
@@ -312,10 +312,10 @@ or changes.
 prioritizing work on their performance, or changes that would lead to improved page load speeds
 (such as pagination, showing less data, etc).
 - Any page that takes more than 4 seconds to load (speed index) should be considered too slow.
-- Use the [availability & performance priority labels](/handbook/engineering/performance/#availability-performance-labels)
+- Use the [availability & performance priority labels](https://about.gitlab.com/handbook/engineering/performance/#availability-performance-labels)
 to communicate and prioritize issues relating to performance.
 
-You must prioritize improvements according to their impact (per the [availability & performance priority labels](/handbook/engineering/performance/#availability-performance-labels)).
+You must prioritize improvements according to their impact (per the [availability & performance priority labels](https://about.gitlab.com/handbook/engineering/performance/#availability-performance-labels)).
 Pages that are visited often should be prioritized over pages that rarely have any visitors.
 However, if page load time approaches 4 seconds or more, they are considered no longer
 usable and should be fixed at the earliest opportunity.

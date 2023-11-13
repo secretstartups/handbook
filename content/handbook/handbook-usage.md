@@ -316,7 +316,7 @@ For [more serious problems](/handbook/about/on-call/#when-to-escalate-an-issue),
 
 ## Merge Rights Guidelines
 
-You need [`maintainer` access](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) to the [`www-gitlab-com` project](https://gitlab.com/gitlab-com/www-gitlab-com/) to be able to merge MRs for the handbook. If you want merge access, fill out an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). This page contains some tips and guidelines that you should keep in mind when you have `maintainer` access.
+You need [`maintainer` access](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) to the [`www-gitlab-com` project](https://gitlab.com/gitlab-com/www-gitlab-com/) to be able to merge MRs for the handbook. If you want merge access, fill out an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). This page contains some tips and guidelines that you should keep in mind when you have `maintainer` access.
 
 ### Merge with confidence
 
@@ -360,7 +360,7 @@ Being a maintainer gives you access to much more than just the ability to merge.
 
 ### Granting others maintain access
 
-Do not grant people maintainer access without an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). As a maintainer you have the ability to grant others maintainer access. Don’t do so without following the Access Request process to garner the appropriate approvals and create the necessary documentation.
+Do not grant people maintainer access without an [Access Request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). As a maintainer you have the ability to grant others maintainer access. Don’t do so without following the Access Request process to garner the appropriate approvals and create the necessary documentation.
 
 ### Description Templates for Issues and Merge Requests
 

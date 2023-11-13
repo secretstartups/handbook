@@ -30,7 +30,7 @@ Utilize JTBDs to:
 ## How we use JTBDs in Secure and Govern
 
 We utilize the JTBDs framework in the following ways:
-- We generate realistic scenarios for [Category Maturity Scorecard](https://about.gitlab.com/handbook/product/ux/category-maturity/category-maturity-scorecards/) studies according to these Jobs.
+- We generate realistic scenarios for [Category Maturity Scorecard](/handbook/product/ux/category-maturity/category-maturity-scorecards/) studies according to these Jobs.
 - We use them for prioritizing upcoming work and creating a product roadmap (see example: [2021 UX Goals for Threat Insights](https://gitlab.com/gitlab-org/gitlab/-/issues/294062)).
 - We reference Job Statements in Design issues, to state the user goal which the solution aims to resolve.
 - We use them as a compass to align ourselves on a common direction for how Secure and Govern is aiming to help our users.

@@ -210,7 +210,7 @@ Take the following steps to triangulate your benchmark study findings with the S
 
 #### Actionable Insights and Labels
 
-UX Researchers and their teams will identify [Actionable Insights](https://about.gitlab.com/handbook/product/ux/ux-research/research-insights/#:~:text=Actionable%20insights%20are%20tracked%20at,long%20to%20be%20acted%20upon.), which are issues that articulate the next steps that we will take to address our findings.
+UX Researchers and their teams will identify [Actionable Insights](/handbook/product/ux/ux-research/research-insights/#:~:text=Actionable%20insights%20are%20tracked%20at,long%20to%20be%20acted%20upon.), which are issues that articulate the next steps that we will take to address our findings.
 
 Actionable Insights should get the following labels:
  - `Usability benchmark`
@@ -286,7 +286,7 @@ A: The UX Researcher on the project can set up a cloud instance of Gitlab and cr
 
 A: It depends. Basically you need to look at your task list and go through them, ensuring that every area of the project that you go to (or might reasonably expect participants to go) has something there. Ideally, there's more than 1 item there (file, merge request, comment, environment, deployment, etc.) so that the task time accounts for scanning and searching the desired path. Depending on the areas you're focused on, this may be a lot of sample data, or not so much.
 
-**Q:Where does this fit in the [product lifecycle?](https://about.gitlab.com/handbook/product-development-flow/)**
+**Q:Where does this fit in the [product lifecycle?](/handbook/product-development-flow/)**
 
 A: Benchmarking lives at a space bridging the 'improve' stage of the build track and the 'collect ideas/understand the problem' parts of the validation track. Benchmarking is a great way to see how the current product is performing, so it fits well with the 'measure, learn, and improve' part of the cycle. The 'learn' and 'improve' parts of are then taken as inputs into the collect ideas/understand the problem parts of the validation track. So, in benchmarking, we're measuring our current product, validating existing problems we know of, and generating ideas on how to address these problems or generally improve the product.
 Note: Benchmarking is somewhat outside of our normal workflow. Since it is so time intensive, it's not something that could or should be a part of every feature or issue, and it's not something we should conduct more than once or twice a year for the same tasks.
@@ -305,7 +305,7 @@ A: As it stands, no. You should consider maturity during the analysis and when s
 
 **Q: How do Product Designers process and manage the recommendations?**
 
-A: For benchmarking, the UX Researcher is responsible for much of the 'processing'. The UX Research team has an [FY23 objective](https://gitlab.com/groups/gitlab-org/-/epics/7367) to better utilize actionable insights. One of the main outputs of benchmarking is a set of recommendations that will then go through the process of turning into actionable insights or informative insights. Part of this [process](https://about.gitlab.com/handbook/product/ux/ux-research/research-insights/#how-to-document-actionable-insights) involves categorizing actionable insights into either 'exploration needed' or 'product change' categories, each of which becomes an issue with this label.
+A: For benchmarking, the UX Researcher is responsible for much of the 'processing'. The UX Research team has an [FY23 objective](https://gitlab.com/groups/gitlab-org/-/epics/7367) to better utilize actionable insights. One of the main outputs of benchmarking is a set of recommendations that will then go through the process of turning into actionable insights or informative insights. Part of this [process](/handbook/product/ux/ux-research/research-insights/#how-to-document-actionable-insights) involves categorizing actionable insights into either 'exploration needed' or 'product change' categories, each of which becomes an issue with this label.
 
 The UX Researcher is responsible for sharing the list of recommendations, along with all other findings from the benchmarking with all relevant stakeholders (specifically Product Designers and Product Managers). The exact structure of this will likely vary between different groups and stages, but part of this process needs to involve the communication and handoff of all 'product change' actionable insights. From there, the team should work together to prioritize these issues and ensure they are completed (which leads to the next question).
 
@@ -313,7 +313,7 @@ It's important to make sure that actionable insights are broken down into smalle
 
 **Q: How can I prevent recommendations from going stale (not prioritized/implemented)?**
 
-A: This is *the* critical question. The research team has a [KR around research prioritization](https://gitlab.com/gitlab-org/ux-research/-/issues/1764) for the actionable insights marked `Actionable Insight::Exploration Needed` (needing more research) that are generated from benchmarking. These issues go through a [prioritization process](https://about.gitlab.com/handbook/product/ux/ux-research/research-prioritization/) for additional research. For those recommendations in the `Actionable Insight::Product change` category, and thus of more interest to Product Designers and Product Managers, there is a process where a severity label is applied. Generally, Product Designers will assign severity for 'product change' insights, and UX Researchers will assign severity labels for 'exploration needed' insights. For more on the process, refer to [this handbook page](https://about.gitlab.com/handbook/product/ux/ux-research/research-insights/#how-to-document-actionable-insights).
+A: This is *the* critical question. The research team has a [KR around research prioritization](https://gitlab.com/gitlab-org/ux-research/-/issues/1764) for the actionable insights marked `Actionable Insight::Exploration Needed` (needing more research) that are generated from benchmarking. These issues go through a [prioritization process](/handbook/product/ux/ux-research/research-prioritization/) for additional research. For those recommendations in the `Actionable Insight::Product change` category, and thus of more interest to Product Designers and Product Managers, there is a process where a severity label is applied. Generally, Product Designers will assign severity for 'product change' insights, and UX Researchers will assign severity labels for 'exploration needed' insights. For more on the process, refer to [this handbook page](/handbook/product/ux/ux-research/research-insights/#how-to-document-actionable-insights).
 
 **Q: Does the GitLab benchmarking approach involve a competitive analysis?**
 

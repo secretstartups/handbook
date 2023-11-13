@@ -287,7 +287,7 @@ It also offers a free reliable mobile video conference app.
 ### Loom
 
 [Loom (Free)](https://www.useloom.com/) is a handy Chrome plugin tool for video walkthroughs.
-Nice tool for demo recordings and internal/external documentation. Note, Loom videos are public by default - ensure you are not exposing data that should remain private. GitLab does have a Loom workspace, for a license please follow the instructions on the [tech stack page](https://about.gitlab.com/handbook/business-technology/tech-stack/)
+Nice tool for demo recordings and internal/external documentation. Note, Loom videos are public by default - ensure you are not exposing data that should remain private. GitLab does have a Loom workspace, for a license please follow the instructions on the [tech stack page](/handbook/business-technology/tech-stack/)
 
 ## Language and translation
 

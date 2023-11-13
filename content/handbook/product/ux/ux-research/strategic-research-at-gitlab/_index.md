@@ -11,7 +11,7 @@ title: "Strategic research at GitLab"
 
 ### What is Strategic research?
 
-Strategic research is focused on answering [future facing](https://about.gitlab.com/handbook/product/ux/product-design/ux-roadmaps/#timeframe) questions about users that help inform the long term product direction and roadmap. This kind of research can consist of one or more connected projects to better understand a larger topic area. Usually, the topic is broad enough to cover multiple stage groups and/or stages. Thus, strategic research can be [high impact](https://uxdesign.cc/how-to-be-a-more-strategic-55915d8e9ef7) for the product teams and company as a whole.
+Strategic research is focused on answering [future facing](/handbook/product/ux/product-design/ux-roadmaps/#timeframe) questions about users that help inform the long term product direction and roadmap. This kind of research can consist of one or more connected projects to better understand a larger topic area. Usually, the topic is broad enough to cover multiple stage groups and/or stages. Thus, strategic research can be [high impact](https://uxdesign.cc/how-to-be-a-more-strategic-55915d8e9ef7) for the product teams and company as a whole.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/pYJEiC9Cs-A" frameborder="0" allowfullscreen="true"> </iframe>
@@ -60,7 +60,7 @@ We can use Strategic research to:
 - Creating [Actionable Insights](/handbook/product/ux/ux-research/research-insights/) connected to cross-stage group issues to be scheduled in the next 1 year
 
 **Examples of Strategic research from recent projects:**
-1. [Release Manager Persona Addition](https://gitlab.com/gitlab-org/ux-research/-/issues/316) was a great example of a cross-stage and multi-group strategic research effort that resulted in an update to the [Roles and Personas page](https://about.gitlab.com/handbook/product/personas/). This positively impacted the entire Ops Section and helped us reach new audiences in the Ultimate tier.
+1. [Release Manager Persona Addition](https://gitlab.com/gitlab-org/ux-research/-/issues/316) was a great example of a cross-stage and multi-group strategic research effort that resulted in an update to the [Roles and Personas page](/handbook/product/personas/). This positively impacted the entire Ops Section and helped us reach new audiences in the Ultimate tier.
 1. [KubeCon Ops Product Direction Survey](https://gitlab.com/gitlab-org/ux-research/-/issues/1740) was a large scale project that was able to inform the [future product roadmap](https://about.gitlab.com/blog/2022/05/31/the-kubecon-summary-from-a-product-perspective/) within Ops. This was done through obtaining valuable feedback about what CI/CD workflows are most challenging for GitLab users and learning what perference users had in mind for their ideal secrets solution.
 
 ### Strategic research outputs

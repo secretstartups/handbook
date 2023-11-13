@@ -123,7 +123,7 @@ and increased [ARR](http://about.gitlab.com/handbook/sales/sales-term-glossary/a
 
 ## Foundations Specialty
 
-In addition to embedding in [groups](https://about.gitlab.com/handbook/product/categories/#hierarchy) that focus on a specific product area, we also have a small Foundations team that works on building a cohesive and consistent user experience across platform experiences like navigation, both visually and
+In addition to embedding in [groups](/handbook/product/categories/#hierarchy) that focus on a specific product area, we also have a small Foundations team that works on building a cohesive and consistent user experience across platform experiences like navigation, both visually and
 functionally. You’ll be responsible for leading the direction of the experience design, visual style,
 and technical tooling of the GitLab product. You’ll act as a centralized resource, helping to triage
 large-scale experience problems as the need arises.

@@ -6,7 +6,7 @@ description: "There are more than a few frameworks for Jobs to be Done. The aim 
 
 ##
 
-{::options parse_block_html="true" /}
+
 
 
 
@@ -110,7 +110,7 @@ Jobs to be Done are discovered by interviewing real-world users. At GitLab, it i
 
 ### *How can I use* JTBD?
 
-JTBD can be used to obtain valuable insights through numerous methods, from screeners to heuristic evaluations. You can see more detailed uses of JTBD on our [How to use Jobs to Be Done](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/using-jtbd/) handbook page. If you plan on using one of these methods, remember to use interviews to validate your jobs before spending too much time learning about inaccurate jobs.
+JTBD can be used to obtain valuable insights through numerous methods, from screeners to heuristic evaluations. You can see more detailed uses of JTBD on our [How to use Jobs to Be Done](/handbook/product/ux/jobs-to-be-done/using-jtbd/) handbook page. If you plan on using one of these methods, remember to use interviews to validate your jobs before spending too much time learning about inaccurate jobs.
 
 ## JTBD examples and tips
 

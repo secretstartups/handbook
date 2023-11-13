@@ -22,7 +22,7 @@ In GitLab issues, questions should start by mentioning the Product Manager (`@gw
 
 ### Direction
 
-[GitLab](https://about.gitlab.com/direction/) > [Dev Section](https://about.gitlab.com/direction/dev/) > [Plan Stage](/direction/plan/) > [Project Management Group](https://about.gitlab.com/direction/plan/project_management/) 
+[GitLab](https://about.gitlab.com/direction/) > [Dev Section](https://about.gitlab.com/direction/dev/) > [Plan Stage](https://about.gitlab.com/direction/plan/) > [Project Management Group](https://about.gitlab.com/direction/plan/project_management/) 
 
 ### Performance Indicators
 
@@ -30,7 +30,7 @@ In GitLab issues, questions should start by mentioning the Product Manager (`@gw
 
 - [Paid Monthly Active Users (Paid GMAU)](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard?widget=9980295&udv=0)
 - [Monthly Active Users](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard?widget=9967544&udv=0)
-- [Team Planning and Planning Analytics Category Maturity](/direction/maturity/#plan)
+- [Team Planning and Planning Analytics Category Maturity](https://about.gitlab.com/direction/maturity/#plan)
 - System Usability Score (SuS) - Decrease the count of detractors attributable to the Project Management product surface area on a rolling quarterly basis
 
 #### Product Quality
@@ -82,7 +82,7 @@ Subtracting the carry over weight (item 2) from our expected capacity (the produ
 
 #### Workflow
 
-Issues and epics generally follow our [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/).
+Issues and epics generally follow our [Product Development Flow](/handbook/product-development-flow/).
 
 Starting in January 2022, we will be running a 3-6 month experiment to shift the planning cadence from milestones to iterations with the primary goal of planning in smaller batches to enable more timely, better decision making. Iteration planning will take place via our 30 minute weekly Engineering/Product/UX sync. Only issues that have been weighted and marked as `~workflow::ready for development` will be scheduled into upcoming iterations. While we will be leveraging iterations, we will still follow our documented [product development timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
 
@@ -127,8 +127,8 @@ The retrospective issue is created by a scheduled pipeline in the
 [async-retrospectives] project. For more information on how it works, see that
 project's README.
 
-- [GitLab retrospective](/handbook/engineering/workflow/#retrospective)
-- [team retrospectives](/handbook/engineering/management/group-retrospectives/)
+- [GitLab retrospective](https://about.gitlab.com/handbook/engineering/workflow/#retrospective)
+- [team retrospectives](https://about.gitlab.com/handbook/engineering/management/group-retrospectives/)
 - [async-retrospectives](https://gitlab.com/gitlab-org/async-retrospectives)
 - [retros](https://gitlab.com/gl-retrospectives/plan/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=retrospective)
 

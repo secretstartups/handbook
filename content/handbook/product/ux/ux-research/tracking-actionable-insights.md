@@ -11,7 +11,7 @@ description: "How we track actionable insights derived from UX research studies.
 
 
 
-At GitLab, we track [actionable insights](/handbook/product/ux/ux-research/research-insights/) derived from UX research studies. These can be in the form of `Exploration needed` or `Product change`. 
+At GitLab, we track [actionable insights](/handbook/product/ux/ux-research/research-insights/) derived from UX research studies. These can be in the form of `Exploration needed` or `Product change`.
 
 Actionable insights that are tracked will have one of the following labels:
 
@@ -25,19 +25,6 @@ The labels are used to generate [this dashboard (internal only)](https://app.per
 
 Collectively, these data visualizations helps us understand more about incoming volume and lifespan of actionable insights.
 
+{{% sisense dashboard="1043584" chart="16148263" height="400" %}}
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="400" src="<%= signed_periscope_url(chart: 16148263, dashboard: 1043584, embed: 'v2') %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
-
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="400" src="<%= signed_periscope_url(chart: 15433038, dashboard: 1043584, embed: 'v2') %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{% sisense dashboard="1043584" chart="15433038" height="400" %}}

@@ -60,7 +60,7 @@ The UX Researcher and Product Manager will use the [Research Priority Calculator
 2. UX Researcher + Product Managers: Fill in the remaining columns for your discipline, as designated by the colors used in the spreadsheet headings. For example, the Researcher would fill in column B and the Product Manager would fill in column D. This can be done synchronously or asynchronously.
 3. UX Researcher + Group Product Managers: Discuss the recommendations given by the calculator and adjust, as needed (e.g. if there is a new/interim Product Manager or Product Designer, Bronze projects may be listed as Silver projects to help them onboard). Consider the timeframe in which the research needs to be delivered. While this is not a criteria in the calculator, it should be considered in the final prioritization. It can be helpful to have this discussion with the Product Director instead of Group Product Managers if a UX Researcher covers stages with different Group Product Managers.
 
-For more details on the calculator, see [about the research priority calculator](https://about.gitlab.com/handbook/product/ux/ux-research/research-prioritization/#about-the-research-priority-calculator).
+For more details on the calculator, see [about the research priority calculator](/handbook/product/ux/ux-research/research-prioritization/#about-the-research-priority-calculator).
 
 
 *Timeline guidance for Step 2:* This should be completed within one week

@@ -17,9 +17,9 @@ On this page, you'll find an overview as well as links to helpful resources for 
 
 ## Product Organizational Structure
 
-The GitLab Product team includes team members at various levels of [Product Management job titles](/job-families/product/product-manager/) and [Product Management - Leadership job titles](/job-families/product/product-management-leadership/). They map across our [organizational levels](/company/team/structure/#levels) with scope at various points in our [product hierarchy](/handbook/product/categories/#hierarchy) outlined in the table below.
+The GitLab Product team includes team members at various levels of [Product Management job titles](/job-families/product/product-manager/) and [Product Management - Leadership job titles](/job-families/product/product-management-leadership/). They map across our [organizational levels](/handbook/company/team/structure/#levels) with scope at various points in our [product hierarchy](/handbook/product/categories/#hierarchy) outlined in the table below.
 
-* The product org abides by [GitLab's layer structure](/company/team/structure/#layers). Sometimes, there can be instances where peers across layers don't have the same title.
+* The product org abides by [GitLab's layer structure](/handbook/company/team/structure/#layers). Sometimes, there can be instances where peers across layers don't have the same title.
 
 | Level | Job Titles| Hierarchy Scopes |
 | ----- | ------------ | ---------------- |
@@ -35,7 +35,7 @@ The GitLab Product team includes team members at various levels of [Product Mana
 
 ### Responsibilities
 
-Your job as a PM is outlined in [Product Manager Responsibilities](https://about.gitlab.com/handbook/product/product-manager-responsibilities/)
+Your job as a PM is outlined in [Product Manager Responsibilities](/handbook/product/product-manager-responsibilities/)
 
 ### Getting started as a PM at GitLab
 
@@ -46,7 +46,7 @@ The first thing to do is to familiarize yourself with the following handbook pag
 * [Product Manager Responsibilities](/handbook/product/product-manager-responsibilities/)
 * [Product Manager Career Development Framework](/handbook/product/product-manager-role/product-CDF-competencies/)
 * [Product Development Flow](/handbook/product-development-flow/)
-* [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline)
+* [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
 * [Product Management Learning & Development](/handbook/product/product-manager-role/learning-and-development/)
 * [GitLab Values](/handbook/values/)
 
@@ -79,7 +79,7 @@ planned, not come up with every idea or change.
 - Specific Git related questions should be asked in `#git-help`.
 - If you have problems with a MR, ask in `#mr-buddies`.
 - HR questions should be asked in `#people-connect`.
-- Anything Release Post related can be found in the [Release Post handbook](/handbook/marketing/blog/release-posts/#pm-contributors) and `#release-post`
+- Anything Release Post related can be found in the [Release Post handbook](https://about.gitlab.com/handbook/marketing/blog/release-posts/#pm-contributors) and `#release-post`
 
 ### Job Requirements
 
@@ -100,7 +100,7 @@ _[Source File](https://docs.google.com/spreadsheets/d/19gAgPJVdXfBpXiFOlT1WqZLJB
 
 **4th of the Month:**
 
-Draft of the issues that will be included in the [next release](/handbook/engineering/releases/).
+Draft of the issues that will be included in the [next release](https://about.gitlab.com/handbook/engineering/releases/).
 Start capacity and technical discussions with engineering/UX.
 
 **12th of the Month:**
@@ -112,7 +112,7 @@ Kickoff document is updated with relevant items to be included.
 
 Group Kickoffs calls recorded and uploaded by the end of the day.
 
-Also see [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline).
+Also see [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline).
 
 ### Scope of responsibilities
 
@@ -126,7 +126,7 @@ projects:
 - version.gitlab.com
 - license.gitlab.com
 
-This includes the entire stack and all its facets. The product team needs to weigh and prioritize not only bugs, features, regressions, and performance, but also architectural changes and other aspects required for ensuring GitLab's excellence. Product managers are the [DRIs](/handbook/people-group/directly-responsible-individuals/) for overall work prioritization but work collaboratively with their EM, UX, and QEM stable counterparts to ensure the right priorities from each [work type](/handbook/engineering/metrics/#work-type-classification) are considered as [each has a different DRI](/handbook/product/product-processes#prioritization-for-feature-maintenance-and-bugs).
+This includes the entire stack and all its facets. The product team needs to weigh and prioritize not only bugs, features, regressions, and performance, but also architectural changes and other aspects required for ensuring GitLab's excellence. Product managers are the [DRIs](/handbook/people-group/directly-responsible-individuals/) for overall work prioritization but work collaboratively with their EM, UX, and QEM stable counterparts to ensure the right priorities from each [work type](https://about.gitlab.com/handbook/engineering/metrics/#work-type-classification) are considered as [each has a different DRI](/handbook/product/product-processes#prioritization-for-feature-maintenance-and-bugs).
 
 ## Learning and Development for Product Management
 
@@ -152,7 +152,7 @@ Additionally, the product team has the [First 100 days template](https://gitlab.
 
 The hiring manager will prep/personalize the  **First 100 days template**. We encourage these issues to default to public per our values but they may be marked `confidential` if there is any sensitive or personal data per the manager's discretion.  The **First 100 days issue**  should be open for the new product manager on their start date.  It isn't expected that they get started on this issue, but it is intended to give them a general idea of what is coming.  Generally, the **First 100 days issue** kicks off around the start of the new milestone, around 2-4 weeks after the product manager's start data.  This timing is intended to help to allow enough time for tactical/general onboarding, before the new product manager starts to figure out what their first 100 days in "office" looks like more strategically.  However, the timing/content of the first 100 days is ultimately up to the product manager and their manager to agree upon.  
 
-The new hire should also participate in defining and adding to the goals of the **First 100 days template**. It is recommended that the manager leverage this goal-oriented onboarding issue for the new product managers first [CDF review](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/#product-management-career-development-framework), to effectively align teammates in supporting the PM as they settle into their role at GitLab. Take a look at these first 100 days onboarding issues as examples: [3291](https://gitlab.com/gitlab-com/Product/-/issues/3291) and [2809](https://gitlab.com/gitlab-com/Product/-/issues/2809). 
+The new hire should also participate in defining and adding to the goals of the **First 100 days template**. It is recommended that the manager leverage this goal-oriented onboarding issue for the new product managers first [CDF review](/handbook/product/product-manager-role/product-CDF-competencies/#product-management-career-development-framework), to effectively align teammates in supporting the PM as they settle into their role at GitLab. Take a look at these first 100 days onboarding issues as examples: [3291](https://gitlab.com/gitlab-com/Product/-/issues/3291) and [2809](https://gitlab.com/gitlab-com/Product/-/issues/2809). 
 
 We use two templates, so the Product Manager can focus on GitLab onboarding for the first month with more urgent, tactical tasks. As the new Product Manager becomes more familiar with GitLab they can transition to more strategic and less time-sensitive onboarding tasks in their first 3 months at GitLab. 
 

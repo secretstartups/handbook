@@ -52,7 +52,7 @@ For cloud infrastructure, we have created top-level AWS organizational units and
 | Realm      | Data Classification | Resources Managed By | Usage Documentation | Slack Channel |
 |------------|---------------------|----------------------|---------------------|---------------|
 | `infra-shared-services`  | Red/Orange/Yellow/Green | `infra-realm-owners` | [Realm Docs](/handbook/infrastructure-standards/realms/infra-shared-services) | `#infra-realm-owners` |
-| `it`       | Orange/Yellow/Green | [IT Engineering](https://about.gitlab.com/handbook/business-technology/engineering/#infrastructure-engineering) | [Realm Docs](/handbook/infrastructure-standards/realms/it) | `#it_help` (tag `@it-eng`) |
+| `it`       | Orange/Yellow/Green | [IT Engineering](/handbook/business-technology/engineering/#infrastructure-engineering) | [Realm Docs](/handbook/infrastructure-standards/realms/it) | `#it_help` (tag `@it-eng`) |
 | `saas`     | Red/Orange/Yellow/Green | [Reliability Engineering](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/) | [Realm Docs](/handbook/infrastructure-standards/realms/saas) | `#infrastructure-lounge` |
 | `sandbox`  | Green | Self Service (Team Member) | [Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox) | `#sandbox-cloud-questions` |
 | `security` | Orange/Yellow/Green | [Infrastructure Security](/handbook/security/security-engineering/infrastructure-security/) | [Realm Docs](/handbook/infrastructure-standards/realms/security) | `#security-infrasec` |

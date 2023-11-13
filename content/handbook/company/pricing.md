@@ -24,7 +24,7 @@ this:
 
 1. We want to be a good [steward of our open source product](/handbook/company/stewardship/).
 1. Giving a great free product is part of our go to market, it helps create new users and customers.
-1. Having our scope available to all users increases adoption of our scope and helps people see the benefit of a [single application](https://about.gitlab.com/handbook/product/single-application/).
+1. Having our scope available to all users increases adoption of our scope and helps people see the benefit of a [single application](/handbook/product/single-application/).
 1. Including all major features in Free helps reduce merge conflicts between CE and EE
 
 Because we have a great free product we can't have one price. Setting it high
@@ -32,7 +32,7 @@ would make the difference from the free version too high. Setting it low would
 make it hard to run a sustainable business. There is no middle ground that would
 work out with one price.
 
-That is why we have [Premium and Ultimate tiers](https://about.gitlab.com/handbook/product/gitlab-the-product/#paid-tiers).
+That is why we have [Premium and Ultimate tiers](/handbook/product/gitlab-the-product/#paid-tiers).
 The price difference between them is half an order of magnitude (5x).
 
 We will charge per user, per
@@ -101,7 +101,7 @@ Pricing affects Product, Marketing, and Sales.
 Therefore, general pricing decisions are made by the CEO.
 
 Product makes most decisions on a day-to-day basis about what feature should go
-in what plan based on [the paid tiers](https://about.gitlab.com/handbook/product/gitlab-the-product/#paid-tiers).
+in what plan based on [the paid tiers](/handbook/product/gitlab-the-product/#paid-tiers).
 
 The following table describes how large cross-functional pricing decisions should be made.  This decision making method differs from our normal [RADCIE](/handbook/people-group/directly-responsible-individuals/#radcie) method due to the extremely cross-functional nature and business risk of large pricing decisions.
 
@@ -525,7 +525,7 @@ To simplify the above, we base our feature groupings on champion position (see b
 ## Buyer-Based-Open-Core
 
 We make feature tiering decisions based on: **"Who cares most about the feature"**.
-Our [three tiers](#three-tiers) are differentiated based on [the buyer persona](https://about.gitlab.com/handbook/product/personas/#buyer-personas) or IC who buys GitLab, from individual contributor, to manager/director, to executive. Every person in the company [is on the same tier](#single-plan-for-one-customer), even if they don't use all the features.
+Our [three tiers](#three-tiers) are differentiated based on [the buyer persona](/handbook/product/personas/#buyer-personas) or IC who buys GitLab, from individual contributor, to manager/director, to executive. Every person in the company [is on the same tier](#single-plan-for-one-customer), even if they don't use all the features.
 The feature is put in the plan based on what champion is most likely to **care** about it.
 Buyers make sense, since a higher-cost plan needs a higher-placed buyer.
 
@@ -554,7 +554,7 @@ Also see [fork and commoditize](/handbook/leadership/mitigating-concerns/#fork-a
 We should not hesitate to open source features. When we put a feature into too high of a tier we should move it quickly because not having it in all tiers limits who can use the feature and this hurts:
 
 1. Getting more users: having the product sell itself makes us much more efficient, for it to sell itself it has to get used, more open source features can increase the popularity of GitLab compared to rival offerings.
-1. Getting more [stages per user](https://about.gitlab.com/handbook/product/performance-indicators/#stages-per-user-spu): if an open source feature gets a user to adopt a new stage this increases the value one user gets from GitLab greatly since the [single application](https://about.gitlab.com/handbook/product/single-application/) benefits grow exponentially is you adopt more stages.
+1. Getting more [stages per user](/handbook/product/performance-indicators/#stages-per-user-spu): if an open source feature gets a user to adopt a new stage this increases the value one user gets from GitLab greatly since the [single application](/handbook/product/single-application/) benefits grow exponentially is you adopt more stages.
 1. Getting more open source contributions to improve the feature: since the number of contributions grows with the number of users.
 1. Increase demand for paid features on top of what you open source: When you move a feature down this increases the usage of the specific feature, for example our service desk functionality. When a feature is popular this creates more demand for paid features that we can add later like custom templates for service desks.
 

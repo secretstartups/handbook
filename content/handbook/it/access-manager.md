@@ -3,7 +3,7 @@ title: "GitLab Access Manager (Deprecated)"
 description: "The IT Self Service handbook page provides all of our team members easy access to all of the processes and solutions for IT related services."
 ---
 
-GitLab Access Manager is a custom built full stack application built by the GitLab IT Engineering team that provides a user interface ("UI") for team members, managers, access approvers, audit reviewers, and IT administrators to centrally approve and manage role-based access to the directory of [tech stack applications](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/) ("SaaS providers").
+GitLab Access Manager is a custom built full stack application built by the GitLab IT Engineering team that provides a user interface ("UI") for team members, managers, access approvers, audit reviewers, and IT administrators to centrally approve and manage role-based access to the directory of [tech stack applications](/handbook/business-technology/tech-stack-applications/) ("SaaS providers").
 
 In FY21-Q4, we launched the [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/), powered by [HackyStack](https://gitlab.com/hackystack/hackystack-portal) to automate the provisioning of AWS accounts, AWS IAM users, GCP projects, and GCP users. This has allowed us to automate a large portion of our AWS and GCP access requests.
 

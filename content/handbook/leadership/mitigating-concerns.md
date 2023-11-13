@@ -77,9 +77,9 @@ We were voted [The World's Most Productive Remote Team](https://noonies.hackerno
 As more folks work away from customers, it is easy to lose sight of whom we are serving. We can address this by:
 
 - [living out our customer results value]({{< ref "values#customer-results" >}})
-- product managers continuing to do [customer validation cycles](https://about.gitlab.com/handbook/product-development-flow/#validation-track)
+- product managers continuing to do [customer validation cycles](/handbook/product-development-flow/#validation-track)
 - [dogfooding]({{< ref "values#dogfooding" >}}) so we experience the same pain points our customers do
-- optimizing for [user experience and usability](/handbook/product/ux/). We manage toward improving performance for [UX KPIs]({{< ref "kpis#ux-department-kpis" >}}), including [SUS score](https://about.gitlab.com/handbook/product/ux/performance-indicators/#system-usability-scale-sus-score)
+- optimizing for [user experience and usability](/handbook/product/ux/). We manage toward improving performance for [UX KPIs]({{< ref "kpis#ux-department-kpis" >}}), including [SUS score](/handbook/product/ux/performance-indicators/#system-usability-scale-sus-score)
 
 ### Remote proliferation
 
@@ -158,8 +158,8 @@ Due to the breadth of our product scope, and the fact that our product and engin
 
 In order to avoid this negative outcome, we:
 
-- Have [research team interview personas](https://about.gitlab.com/handbook/product/ux/ux-research/) to ensure a good end-to-end workflow for specific persona types - doing
-- Ensure adequate [product leadership](https://about.gitlab.com/handbook/product/product-leadership/) that is focused across the entire product line (Growth Director, Enablement Director, Product VP) - doing
+- Have [research team interview personas](/handbook/product/ux/ux-research/) to ensure a good end-to-end workflow for specific persona types - doing
+- Ensure adequate [product leadership](/handbook/product/product-leadership/) that is focused across the entire product line (Growth Director, Enablement Director, Product VP) - doing
 
 ### Bad, insufficient and missing data
 
@@ -174,9 +174,9 @@ We can address this concern by:
 ### Technical debt ineffectively managed
 
 This is especially a problem if there are acquisitions of new technologies.
-We address this for acquired technology by having [acquired organizations](https://about.gitlab.com/handbook/acquisitions/) remake their functionality inside our [single application](https://about.gitlab.com/handbook/product/single-application/).
+We address this for acquired technology by having [acquired organizations](https://about.gitlab.com/handbook/acquisitions/) remake their functionality inside our [single application](/handbook/product/single-application/).
 
-Otherwise, we have a [clear and consistent prioritization framework across engineering](https://about.gitlab.com/handbook/engineering/development/principles/#prioritizing-technical-decisions) and [product](https://about.gitlab.com/handbook/product/product-processes/#how-we-prioritize-work) that helps ensure we are continuously making progress on the most important issues.
+Otherwise, we have a [clear and consistent prioritization framework across engineering](https://about.gitlab.com/handbook/engineering/development/principles/#prioritizing-technical-decisions) and [product](/handbook/product/product-processes/#how-we-prioritize-work) that helps ensure we are continuously making progress on the most important issues.
 
 ### Enterprise product management
 
@@ -184,8 +184,8 @@ While building enterprise software, it's possible to optimize the software for t
 
 In order to prevent this effect, we will:
 
-- Create and maintain [UX scorecards](https://about.gitlab.com/handbook/product/ux/ux-scorecards/) and interviews from UX
-- [Validate problems and solutions before building](https://about.gitlab.com/handbook/product-development-flow/#validation-track)
+- Create and maintain [UX scorecards](/handbook/product/ux/ux-scorecards/) and interviews from UX
+- [Validate problems and solutions before building](/handbook/product-development-flow/#validation-track)
 
 ### Frankenstein product
 
@@ -221,7 +221,7 @@ To ensure we safeguard our customers data, we:
 1. Hit our Application Security [remediation SLAs]({{< ref "/handbook/security/threat-management/vulnerability-management#remediation-slas" >}})
 1. Ensure our developers complete [secure code training]({{< ref "secure-coding-training" >}})
 1. Regularly perform [internal application security reviews]({{< ref "/handbook/security#internal-application-security-reviews" >}})
-1. [Utilize bug bounty programs]({{< ref "/handbook/security#vulnerability-reports-and-hackerone" >}}) like HackerOne
+1. [Utilize bug bounty programs]({{< ref "engaging-with-security#vulnerability-reports-and-hackerone" >}}) like HackerOne
 1. Have an [internal Red Team]({{< ref "/handbook/security/threat-management/red-team" >}})
 1. Prioritize meeting the [security](https://about.gitlab.com/security/) requirements of team members, users, customers, and other community members
 
@@ -239,7 +239,7 @@ Disruption to GitLab.com's availability is a reputational concern.
 
 We address this concern in a number of ways:
 
-- we prioritize [security and availability](https://about.gitlab.com/handbook/product/#prioritization) over velocity
+- we prioritize [security and availability](/handbook/product/#prioritization) over velocity
 - we have multiple [reliability teams](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability) who focus on ensuring our infrastructure is reliable.
 - we have the [scalability team](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/), whose focus is to make sure that the application running on that infrastructure is also reliable.
 - we have an [infra-dev escalation process](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/) created to prioritize issues affecting availability and reliability.
@@ -378,7 +378,7 @@ We tend to be much more cost effective because we build on open source, iterate 
 After GitLab core and home-grown DIY devops platforms, GitHub is GitLab's biggest competitor. After the Microsoft acquisition they have started to follow the single application strategy pioneered by GitLab.
 
 In order to address this concern, GitLab will:
-1. While both GitLab and GitHub are [single application](https://about.gitlab.com/handbook/product/single-application/)s, GitLab has a much broader scope.
+1. While both GitLab and GitHub are [single application](/handbook/product/single-application/)s, GitLab has a much broader scope.
 1. GitLab is focused on the enterprise use cases, GitHub on open source projects.
 1. GitLab is independent of the hyper cloud providers and the best way to be multi-cloud.
 1. Leverage our [community](https://about.gitlab.com/community/) to deliver new stages, categories and features faster
@@ -394,13 +394,13 @@ We encourage operational excellence in the following ways:
 1. [Long Term Profitability Targets](/handbook/finance/financial-planning-and-analysis/#long-term-targets)
 1. [KPIs]({{< ref "kpis#gitlab-kpis" >}})
 1. Open source with a lot of wider community contributors who make it easier to uncover customer demand for features and allow our organization to stay leaner.
-1. A [single application](https://about.gitlab.com/handbook/product/single-application/) makes the user experience better, allows us to introduce new functionality to users, and it makes it easier for us to keep our velocity.
+1. A [single application](/handbook/product/single-application/) makes the user experience better, allows us to introduce new functionality to users, and it makes it easier for us to keep our velocity.
 1. Run the same code for GitLab.com and self-managed applications and [merged the CE and EE codebases](https://about.gitlab.com/blog/2019/02/21/merging-ce-and-ee-codebases/)
 1. How we [make decisions]({{< ref "leadership#making-decisions" >}})
 
 #### High Ambition
 
-Our [focus on improvement]({{< ref "values#focus-on-improvement" >}}) and commitment to [iteration]({{< ref "values#iteration" >}}) keep us rooted in what's next. This could result in us lowering our [ambition](https://about.gitlab.com/handbook/product/product-principles/#how-this-impacts-planning). While we focus on what's next, we must also maintain a level of ***ambition to compete*** in the future in places where others might not think it is possible today.
+Our [focus on improvement]({{< ref "values#focus-on-improvement" >}}) and commitment to [iteration]({{< ref "values#iteration" >}}) keep us rooted in what's next. This could result in us lowering our [ambition](/handbook/product/product-principles/#how-this-impacts-planning). While we focus on what's next, we must also maintain a level of ***ambition to compete*** in the future in places where others might not think it is possible today.
 
 #### Serve smaller users
 

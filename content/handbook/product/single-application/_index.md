@@ -4,7 +4,7 @@ title: Advantages of a single application
 ---
 
 
-{:toc}
+
 
 ## Single application
 

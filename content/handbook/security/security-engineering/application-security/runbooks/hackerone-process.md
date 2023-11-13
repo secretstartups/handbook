@@ -14,7 +14,7 @@ The `#hackerone-feed` Slack channel receives notifications of report status chan
 
 ## GitLab Team On-boarding
 
-- New members of the GitLab security team are granted access to the GitLab HackerOne team via an access request issue using the appropriate [role based entitlement template](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#role-entitlements-for-a-specific-job), which should be submitted by their manager during onboarding
+- New members of the GitLab security team are granted access to the GitLab HackerOne team via an access request issue using the appropriate [role based entitlement template](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#role-entitlements-for-a-specific-job), which should be submitted by their manager during onboarding
 - During onboarding, new GitLab security team members will be invited to join the HackerOne program if their role requires it.
 
 ## Working the Queue
@@ -86,11 +86,11 @@ the responsible engineering team:
         - Note: by default a placeholder [CVE issue](https://gitlab.com/gitlab-org/cves/-/issues) is created and a brief note is added to the latest [bug bounty council issue](https://gitlab.com/gitlab-com/gl-security/security-department-meta/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Bug%20Bounty%20Council). Pass `~no-cve` or `~no-bounty` respectively to the `/h1 import` command to prevent their creation.
     - On the imported GitLab issue:
         - Verify the Severity/Priority assigned by `h1import` ([Severity and Priority]({{< ref "/handbook/security#severity-and-priority-labels-on-security-issues" >}}) and [Remediation SLAS]({{< ref "/handbook/security/threat-management/vulnerability-management#remediation-slas" >}}))
-        - Assign the appropriate [Due Date]({{< ref "/handbook/security#due-date-on-security-issues" >}})
-        - Have a proper [`How to reproduce`]({{< ref "/handbook/security#reproducibility-on-security-issues" >}}) section, by for instance copying the final reproduction steps written by our HackerOne triager into the issue.
+        - Assign the appropriate [Due Date]({{< ref "engaging-with-security#due-date-on-security-issues" >}})
+        - Have a proper [`How to reproduce`]({{< ref "engaging-with-security#reproducibility-on-security-issues" >}}) section, by for instance copying the final reproduction steps written by our HackerOne triager into the issue.
         - If the report is a security-related documentation change, add the `~documentation` label
-        - @-mention the product manager and engineering manager based on the [product categories page](https://about.gitlab.com/handbook/product/categories/). Ask for engineering feedback if it is required to complete the triage
-        - add labels (`/label ~` command) corresponding to the [DevOps stage](https://about.gitlab.com/handbook/product/categories/#devops-stages) and source group (consult the [Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) for an overview on categories forming the hierarchy)
+        - @-mention the product manager and engineering manager based on the [product categories page](/handbook/product/categories/). Ask for engineering feedback if it is required to complete the triage
+        - add labels (`/label ~` command) corresponding to the [DevOps stage](/handbook/product/categories/#devops-stages) and source group (consult the [Hierarchy](/handbook/product/categories/#hierarchy) for an overview on categories forming the hierarchy)
         - As applicable, notify other relevant team members via the issue, chat, and email, depending on the chosen security level.
     - Change the state of the report to "Triaged" in HackerOne:
         - See [GitLab's H1 Policy](https://hackerone.com/gitlab), under `Rewards`, for portions of bounty rewards which are awarded at the time of triage

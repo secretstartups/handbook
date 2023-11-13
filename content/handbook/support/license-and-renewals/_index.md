@@ -20,7 +20,7 @@ as well as checking internal GitLab systems and performing data validation. Some
 In July, 2020, [a decision was made](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/96#note_384760742)
 for L&R work to be handled by Support for the foreseeable future. At the time,
 [business-critical priorities](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/96#note_384808050)
-prevented the [Fulfillment product section](https://about.gitlab.com/handbook/product/categories/#fulfillment-section)
+prevented the [Fulfillment product section](/handbook/product/categories/#fulfillment-section)
 from having sufficient capacity to address and resolve the major L&R-related issues.
 And whereas creating an entirely new team for this work would have been
 difficult, Support was already engaged and was in a position to scale up
@@ -36,7 +36,7 @@ quickly to meet customer needs.
 
 ### Support Stable Counterparts
 
-See the [Fulfillment section description](https://about.gitlab.com/handbook/product/categories/#fulfillment-section)
+See the [Fulfillment section description](/handbook/product/categories/#fulfillment-section)
 in the Product Handbook to learn who our current Support Stable Counterparts are. If you are
 interested in being an L&R SSC, please talk with your manager and one of the
 [Regional DRIs](#support-management-contacts).
@@ -287,15 +287,15 @@ generally see in the queue.
 
 ##### Growth stage
 
-When we look at the product [Growth](https://about.gitlab.com/handbook/product/categories/#growth-stage)
+When we look at the product [Growth](/handbook/product/categories/#growth-stage)
 stage, we can see that the team owns responsibilities that align with some of
 the types of requests we generally see in the queue, in particular the
 `Conversion` group.
 
-- Activation Group: [New Group Namespace Verify Stage Adoption Rate](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-verify-stage-adoption-rate)
-- Adoption Group: [New Group Namespace Create Stage Adoption Rate](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-create-stage-adoption-rate)
-- Expansion Group: [New Group Namespace with at least two users added](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-with-at-least-two-users-added)
-- Conversion Group:[New Group Namespace Trial to Paid Conversion Rate](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-trial-to-paid-conversion-rate)
+- Activation Group: [New Group Namespace Verify Stage Adoption Rate](/handbook/product/performance-indicators/#new-group-namespace-verify-stage-adoption-rate)
+- Adoption Group: [New Group Namespace Create Stage Adoption Rate](/handbook/product/performance-indicators/#new-group-namespace-create-stage-adoption-rate)
+- Expansion Group: [New Group Namespace with at least two users added](/handbook/product/performance-indicators/#new-group-namespace-with-at-least-two-users-added)
+- Conversion Group:[New Group Namespace Trial to Paid Conversion Rate](/handbook/product/performance-indicators/#new-group-namespace-trial-to-paid-conversion-rate)
 
 ## What is **not in the scope** of L&R work in Support?
 
@@ -322,10 +322,10 @@ The queue should not be used for the following:
 
 ### Handbook pages
 
-- [CustomersDot Admin Docs](https://about.gitlab.com/handbook/product/fulfillment-guide)
-- [Business Ops](https://about.gitlab.com/handbook/business-technology/)
-  - [Business Systems: Enterprise Applications, Integrations, and Flow](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/)
-  - [Troubleshooting: True Ups, Licenses + EULAs](https://about.gitlab.com/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/)
+- [CustomersDot Admin Docs](/handbook/product/fulfillment-guide)
+- [Business Ops](/handbook/business-technology/)
+  - [Business Systems: Enterprise Applications, Integrations, and Flow](/handbook/business-technology/enterprise-applications/integrations/)
+  - [Troubleshooting: True Ups, Licenses + EULAs](/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/)
 - [Sales](https://about.gitlab.com/handbook/sales/)
   - [Sales Segmentation](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/)
   - [Sales Territories](https://about.gitlab.com/handbook/sales/territories/)

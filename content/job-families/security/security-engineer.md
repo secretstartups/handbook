@@ -280,7 +280,7 @@ Security Automation Requirements
 
 SIRT Engineers are the firefighters of the GitLab Security Team.  As a Security Engineer in SIRT your daily duties will include incident response, log analysis, forensics, tooling and automation development, as well as contributing to strategic improvements to the GitLab products and GitLab.com services.  Successful Security Engineers thrive in high-stress environments and can think like both an attacker and defender, have the ability to engage with and mentor more junior Security Engineers, and can help come up with proactive and preventative security measures to keep GitLab and its user’s data safe.
 
-More information about the SIRT role is described in the persona of [Alex, SIRT Engineer](https://about.gitlab.com/handbook/product/personas/#alex-security-operations-engineer)
+More information about the SIRT role is described in the persona of [Alex, SIRT Engineer](/handbook/product/personas/#alex-security-operations-engineer)
 
 SIRT Responsibilities
 

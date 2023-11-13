@@ -49,10 +49,9 @@ GitLab Team Members are not obligated to join CZ collective health policy. If th
 
 Due to the [Working Conditions Act](https://www.arboineuropa.nl/en/legislation/wetgeving-in-het-engels/), GitLab contracts an occupational safety and health service. The OSH-service can assist employees who are not able to work because of illness. The contact information for GitLab's designated Occupational Health Service provider is:
 
-**[Zorg van de Zaak](https://www.zorgvandezaak.nl/)**, Beneluxlaan 901, 3526 KK Utrecht, the Netherlands
+**Leuk Personeel, Dorresteinweg 72-08, 3763 LL, Soest, the Netherlands
 
-Tel: 088-2778870
-Email: info@zorgvandezaak.nl
+Tel: +0355436137
 
 ## Computer Glasses Reimbursement
 
@@ -61,7 +60,7 @@ The Team Member must be seen by an optician and must provide proof that lenses a
 
 Team Members should send their documentation (prescription) from the optician to total-rewards@gitlab.com for approval. The Team Member can request to be reimbursed for the frame, lenses, and eye test for a maximum reimbursement of 250 Euros.
 
-Once Total Rewards approves, the team member should submit their reimbursement through [Navan](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/navan-expense-guide/). For the Navan entry under "Expense Type" select "Other" and under "GL" select "Benefits Medical & Other".
+Once Total Rewards approves, the team member should submit their reimbursement through [Navan](/handbook/business-technology/enterprise-applications/guides/navan-expense-guide/). For the Navan entry under "Expense Type" select "Other" and under "GL" select "Benefits Medical & Other".
 
 ## Pension
 

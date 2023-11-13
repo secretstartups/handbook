@@ -24,8 +24,8 @@ There are several points during the design process where we might identify cross
 
 GitLab has a wide range of product features. Several resources can help us identify the [Directly Responsible Individual (DRI)](/handbook/people-group/directly-responsible-individuals/) for each feature:
 
-- Which feature belongs to which group: use the [category page](https://about.gitlab.com/handbook/product/categories/) and the [feature page](https://about.gitlab.com/handbook/product/categories/features/)
-- Who is responsible for the feature: use the [team page](https://about.gitlab.com/handbook/product/categories/#dev-section)
+- Which feature belongs to which group: use the [category page](/handbook/product/categories/) and the [feature page](/handbook/product/categories/features/)
+- Who is responsible for the feature: use the [team page](/handbook/product/categories/#dev-section)
 Ask in the [#ux-coworking](https://gitlab.slack.com/archives/CLW71KM96) channel if you can’t find the answer using the above resources
 
 ### When should we contact the other team(s)

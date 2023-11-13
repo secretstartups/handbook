@@ -3,7 +3,7 @@ title: "Virtual Card Guide for Accounts Payable"
 description: "Virtual Card Guide for Accounts Payable"
 ---
 
-This page contains guidelines regarding Accounts Payable (AP) related tasks for Coupa Virtual Cards. Please review the [Coupa Virtual Card Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/) to understand the end user process.
+This page contains guidelines regarding Accounts Payable (AP) related tasks for Coupa Virtual Cards. Please review the [Coupa Virtual Card Guide](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/) to understand the end user process.
 
 There are several different scenarios for Virtual Cards:
 

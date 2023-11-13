@@ -214,9 +214,43 @@ The Manager, Payroll is a grade 8.
 - Experience with international payroll
 - Experience with CloudPay a plus
 
+## Manager, Global Payroll Operations
+
+The Manager, Global Payroll Operations reports directly to the Director, Global Payroll Operations.
+
+### Manager, Global Payroll Operations Job Grade
+
+The Manager, Global Payroll Operations is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Manager, Global Payroll Operations Responsibilities
+
+- Manage global operations of payroll for an assigned number of countries
+- Provides oversight of Professional Employer Organization’s (“PEOs”) and partners with the People Team where necessary to hold them accountable to SLAs for payroll.
+- Helps resolve team member issues that arise with taxation treatment including of equity transactions
+- Proactive research of various tax treatment for payroll in new and existing countries including equity income reporting requirements
+Serves as a point person for country compensation/payroll audits and helps coordinate cross-functional responses to audit requests.  Identifies and resolves discrepancies
+- In collaboration with the general ledger accounting team, helps streamline the payroll accounting process.
+- Contributes to the strategic direction for the payroll function while meeting key controls and payroll compliance
+- Partner with Legal, Tax, and Country conversion teams for international expansion projects
+- Project manager for payroll when changing PEOs in partnership with People Group
+- Develop internal relationships and vendor partnerships to improve process efficiencies
+- Ensure all operational processes are controlled from a risk perspective, and have built-in control plans and assessments to regularly review their effectiveness
+- Assist the International Payroll Manager as needed with the set up of payroll processes in new countries as we expand operations
+- Ensure stock activity is properly processed and reported
+- Serve as a subject matter expert and point of contact for escalations and various ad hoc requests
+- Be a role model for the team, and develop a strong sense of shared team vision
+- Maintains professional and technical knowledge by attending educational workshops and reviewing professional publications
+- Work with PeopleOps, Legal, Tax and Accounting to ensure compliance with all laws, tax reporting and other duties as needed
+
+### Manager, Global Payroll Operations Requirements
+
+- 6+ years of experience in international payroll processing
+- Experience with global third party payroll providers
+- Payroll accounting experience
+
 ## Senior Manager, Global Payroll Operations
 
-The Senior Manager, Global Payroll Operations reports directly to the Senior Director, Controller.
+The Senior Manager, Global Payroll Operations reports directly to the Director, Global Payroll Operations.
 
 ### Senior Manager, Global Payroll Operations Job Grade
 
@@ -224,7 +258,7 @@ The Senior Manager, Global Payroll Operations is a [grade 9](/handbook/total-rew
 
 ### Senior Manager, Global Payroll Operations Responsibilities
 
-- Extends the Manager, International Payroll (EMEA, APAC, LATAM) Responsibilities
+- Extends the Manager, Global Payroll Operations responsibilities
 - Manage overall global operations of payroll for 65+ countries
 - Leads the strategic direction for the payroll processes while meeting key controls and payroll compliance
 - Manage and mentor the payroll team
@@ -254,8 +288,9 @@ The Senior Manager, Global Payroll Operations is a [grade 9](/handbook/total-rew
 
 ### Senior Manager, Global Payroll Operations Requirements
 
-- Extends the Manager, International Payroll (EMEA, APAC, LATAM) Requirements
-- 8+ years of experience as a payroll administrator.
+- Extends the Manager, Global Payroll Operations requirements
+- 8+ years of experience as a payroll administrator
+- Experience managing people
 - Experience with large payroll platforms such as ADP or Paychex
 - CPP a plus
 

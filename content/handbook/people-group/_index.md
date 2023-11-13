@@ -96,6 +96,13 @@ On [this page]({{< ref "/handbook/people-group/calendars" >}}) you can find our 
 
 Each quarter a Slack reminder will go out in #people-manager-and-above channel to review the next quarter calendar events. Each month shows Task, which outlines the people manager responsibility associated with the specific program, and (if applicable) highlights the Key Date. We will also leverage our Manager Newsletter and the Company Newsletter for broadcasting our programs widely.
 
+### Updating calendars
+
+Each month on the first Monday there's a calendar reminder to update the calendars on that date. This calendar reminder includes People Business Partners and the DRI in L&D.
+Also with sharing the calendars in the news letters People Business Partners and L&D will be tagged.
+
+The goal of the calendar is to include information at least two quarters ahead of the current quarter. For questions about the updates to the calendars you can always reach out to People Connect.
+
 ## People Business Partner Alignment to Division
 
 Please reach out to your aligned People Business Partner (PBP) to engage in the following areas:
@@ -239,7 +246,7 @@ Administrative access to CultureAmp will be limited based on role and responsibi
 - Survey Creator administrator access can create, manage and design surveys, select participants and share results.
 - Survey data analyst administrator can export raw data from all surveys enabled for raw data extract.
 
-To request access please open an access request with the type of account [access requested](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#how-do-i-choose-which-template-to-use) and the business need. You can assign the access request to Anesia Chan `@anechan` and Laura Janssen `@Laura-Janssen (as backup) for review and approval. The default admin access will be the Survey Creator administration rights unless other access is specified. Please note that Survey Data Analyst admin rights will not be granted to team members outside of the People group with out permission from the Chief People Officer.
+To request access please open an access request with the type of account [access requested](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#how-do-i-choose-which-template-to-use) and the business need. You can assign the access request to Anesia Chan `@anechan` and Laura Janssen `@Laura-Janssen (as backup) for review and approval. The default admin access will be the Survey Creator administration rights unless other access is specified. Please note that Survey Data Analyst admin rights will not be granted to team members outside of the People group with out permission from the Chief People Officer.
 
 If you need assistance reviewing your CultureAmp Survey, please complete this [issue template](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/issue_templates/Survey-Review.md) to alert the People Connect Team.
 
@@ -261,7 +268,7 @@ If you need assistance reviewing your CultureAmp Survey, please complete this [i
 - [Offboarding]({{< ref "offboarding" >}})
 - [Celebrations]({{< ref "celebrations" >}})
 - [People Connect](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/people_connect_team/)
-- [People Analytics]({{< ref "people-analytics" >}})
+- [People Analytics]({{< ref "./people-ops-tech-analytics/people-analytics/_index.md" >}})
 
 ### Talent Acquisition
 
@@ -273,7 +280,7 @@ If you need assistance reviewing your CultureAmp Survey, please complete this [i
 
 - [Learning & Development]({{< ref "learning-and-development" >}})
 - [Guidance on Feedback]({{< ref "guidance-on-feedback" >}})
-- [Effective Listening]({{< ref "communication#effective-listening" >}})
+- [Active Listening]({{< ref "/handbook/people-group/learning-and-development/manager-coaching-and-leadership-resources#demonstrating-active-listening" >}})
 
 ### Diversity, Inclusion and Belonging
 

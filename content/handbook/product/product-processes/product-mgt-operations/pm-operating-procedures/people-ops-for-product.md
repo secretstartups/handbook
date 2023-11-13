@@ -35,11 +35,11 @@ Calibration and assessment are two different steps in the process. The assessmen
 
 For Product specifically, we will calibrate:
 
-1. Anyone in [Box 1](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#the-performancegrowth-potential-matrix) aligned with [company-wide guidelines](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#who-do-i-calibrate). 
+1. Anyone in [Box 1](/handbook/people-group/talent-assessment/#the-performancegrowth-potential-matrix) aligned with [company-wide guidelines](/handbook/people-group/talent-assessment/#who-do-i-calibrate). 
 1. Anyone in Box 9 who has been with GitLab longer than 3 months (_Note: 3 months is measured from the kick off of the Talent Assessment cycle on 2023-10-16_)
 1. Anyone assessed as `Exceeding` for Performance (I.E. Box 1, 2, 5)
-1. Anyone hired in the last 3 months **not** assessed as [Too New To Rate](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#too-new-to-rate)
-1. Anyone promoted in the [Q3 promotion cycle](https://handbook.gitlab.com/handbook/people-group/promotions-transfers/#fy24-q3) (August 1st effective) or later **not** assessed as [Too New To Rate](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#too-new-to-rate)
+1. Anyone hired in the last 3 months **not** assessed as [Too New To Rate](/handbook/people-group/talent-assessment/#too-new-to-rate)
+1. Anyone promoted in the [Q3 promotion cycle](/handbook/people-group/promotions-transfers/#fy24-q3) (August 1st effective) or later **not** assessed as [Too New To Rate](/handbook/people-group/talent-assessment/#too-new-to-rate)
 1. Anyone identified as Key Talent
 
 It's important to note that while these will be our focus areas for calibration sessions, leaders should feel free to raise any team member's assessment up for discussions if they have any questions or concerns. Calibrating outliers is not a limitation, but rather a structural adjustment to ensure this process is scalable and focused. 
@@ -66,7 +66,7 @@ In addition to the [calibration session pre work](/handbook/people-group/talent-
 
 Calibration session attendees will be organized by leadership layer within the Product division. Below is an overview of our calibration structure and timeline for the FY'24 Q4 Talent Assessment cycle. Please note that only Product division-wide Director+ calibration sessions will formally organized. Section and sub-department level calibration sessions should be arranged by respective section leaders independently.
 
-**To ensure there are no delays as we move through the calibration process, all section/sub-department calibration sessions need to be completed by 2023-11-15 @ EOD PT. Aligned with the [company-wide timeline](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#timeline), this means that section/sub-department leaders have from 2023-11-09 to 2023-11-15 to conduct calibration sessions at this level.**
+**To ensure there are no delays as we move through the calibration process, all section/sub-department calibration sessions need to be completed by 2023-11-15 @ EOD PT. Aligned with the [company-wide timeline](/handbook/people-group/talent-assessment/#timeline), this means that section/sub-department leaders have from 2023-11-09 to 2023-11-15 to conduct calibration sessions at this level.**
 
 | Session Number | Attendees | Calibration Level Focus | Session Date | Duration |
 | --------------- | ----------------- |----------------- |----------------- |----------------- |

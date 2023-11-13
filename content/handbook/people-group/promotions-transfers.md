@@ -427,7 +427,8 @@ In the event that a team member is working in an acting capacity in a role that 
 
 1. Team member expresses interest to their manager in pursuing the position on a permanent basis.
 1. Team member reaches out to the Hiring Manager to receive feedback on their performance in the role thus far in the acting capacity.
-1. Team member is welcome to apply for the position in Greenhouse aligned with our standard hiring practices. **Note:** *If the Hiring Manager and acting team member mutually agree to move forward with consideration for the role, the position is at the same or lower [job grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) as their current role, the position is within the same division, and the position is not a people management position, a formal interview process may not be required. If the Hiring Manager prefers to not include an interview process, they must connect with their aligned People Business Partner (PBP) to ensure they are supportive. This interview exception possibility exists due to the unique experience team members in acting positions have to demonstrate their ability to be successful in the position over time.*
+1. Team member is welcome to apply for the position in Greenhouse aligned with our standard hiring practices.
+  **Note:** If the Hiring Manager and acting team member mutually agree to move forward with consideration for the role, the position is at the same or lower [job grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) as their current role, the position is within the same division, and the position is not a people management position, a formal interview process may not be required. If the Hiring Manager prefers to not include an interview process, they must connect with their aligned People Business Partner (PBP) to ensure they are supportive. This interview exception possibility exists due to the unique experience team members in acting positions have to demonstrate their ability to be successful in the position over time.
 1. After the team member officially moves into the open role, a backfill position will be created.
 
 
@@ -447,7 +448,7 @@ Demotions are not always considered a step backwards.  It may be an opportunity 
 
 Job title specialties are used to indicate a stage, group and/or a specific focus area of the team member within their responsibilities. These specialties are not part of the job title, but are used to feed into reporting around stage, group and/or focus area investments. It is also a resource for the People Group and leaders to leverage to review organizational health metrics and ratios.
 
-**If any changes are required to a team members Job Title Speciality, the manager should email the People Connect team (people-connect@gitlab.com) promptly with the new job title specialty information along with the effective date of the change. It is an important manager responsibility to ensure this field remains accurate in Workday.**
+**If any changes are required to a team members Job Title Speciality, the manager should email the People Connect team (people-connect@gitlab.com) promptly with the new job title specialty information along with the effective date of the change. If a new Job Title Specialty that does not already exist needs to be created, please open an [issue](https://gitlab.com/gitlab-com/people-group/people-tools-technology/general/-/issues/new#) to get it created in Workday using the `Workday: Job Title Specialty Request` template. It is an important manager responsibility to ensure this field remains accurate in Workday.**
 
 ### Job Title Specialty Guidance For Managers
 
@@ -466,7 +467,7 @@ To easily access a report for what current job title specialties are for your te
 - When requesting a job title specialty update, please follow the following formatting:
     - Review Product/Categories and make sure the group names you use match these. If they don't, please connect with your Product Manager to confirm and work with them to update if needed.
     - Add both stage and group in the job title specialty field
-        - Example:  Add “Govern: Authentication and Authorization” instead of “Authentication and Authorization”
+        - Example:  Add “Govern: Authentication” instead of “Authentication”
         - **Important: Please ensure that you leave a space after the colon (:) between stage and group.**. For example, `Create: Source Code` is *correct* formatting, and `Create:Source Code` is *incorrect* formatting. This helps ensure that when pulling reports we have accurate counts for investment alignment.
     - Review each person and make sure it only lists one group.
         - Note: In situations where there are two groups, pick the primary group.
@@ -626,7 +627,7 @@ Company priorities can change and occasionally team members may be asked to tran
 
 #### Types of Team Alignment Changes
 
-There are several types of Team Alignment Changes, including [Global Prioritization](https://about.gitlab.com/handbook/product/product-processes/#prioritize-global) changes, and [Engineering Allocations](https://about.gitlab.com/handbook/product/product-processes/#engineering-allocation), all of which are ways to ensure the organization is prioritizing and delivering effectively.
+There are several types of Team Alignment Changes, including [Global Prioritization](/handbook/product/product-processes/#prioritize-global) changes, and [Engineering Allocations](/handbook/product/product-processes/#engineering-allocation), all of which are ways to ensure the organization is prioritizing and delivering effectively.
 
 The different types of group alignment changes vary in length, purpose, DRI, and overall change impact.
 
@@ -671,11 +672,11 @@ Regardless of the change type, the following steps should always be followed to 
 
 ##### Realignment Process
 
-We have process outlined for our various [Global Prioritization](https://about.gitlab.com/handbook/product/product-processes/#prioritize-global) team member alignment changes outlined in addition to [Engineering Allocations](https://about.gitlab.com/handbook/product/product-processes/#engineering-allocation) on the Product Processes page.
+We have process outlined for our various [Global Prioritization](/handbook/product/product-processes/#prioritize-global) team member alignment changes outlined in addition to [Engineering Allocations](/handbook/product/product-processes/#engineering-allocation) on the Product Processes page.
 
 Realignments are used when a permanent assignment to a team is required to resolve ongoing challenges. This has the highest impact to team members and should be considered if other options cannot achieve the desired goal. While the processes that only apply to R&D are listed in the Product Processes page, the Realignment process is outlined below as it could be applied to other departments and divisions at GitLab.
 
-The process below outlines the process for [Realignments](https://about.gitlab.com/handbook/product/product-processes/#prioritize-global) specifically:
+The process below outlines the process for [Realignments](/handbook/product/product-processes/#prioritize-global) specifically:
 
 1. Select a DRI to coordinate the overall realignment process.
 1. Loop in your aligned People Business Partner (PBP) and ensure the `Team Alignment Change Process` steps above are followed.
@@ -708,7 +709,7 @@ A [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-oper
 - Migration from Manager to Individual Contributor (defined as a decrease in management level from Mgr+ to IC within Workday)
 - Migration of Team (for purposes of Career Mobility issues, team changes are defined as a change in both manager & cost center)
 
-Individual contributors moving into a Management level may or may not need their access to be reviewed, please check-in with your current and new manager to confirm this step. If access should be updated follow the AR process documented [here](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/).
+Individual contributors moving into a Management level may or may not need their access to be reviewed, please check-in with your current and new manager to confirm this step. If access should be updated follow the AR process documented [here](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/).
 
 Or, if the team member already has access to the systems and tools needed, the manager can open 'Becoming a GitLab Manager' and 'Interview Training' issues that are housed within the [Traininig Project](https://gitlab.com/gitlab-com/people-group/Training/-/issues/?sort=created_date&state=opened&first_page_size=100) in GitLab.
 - To open the 'Becoming a GitLab Manager' and 'Interview Training' issues visit the Training project in GitLab -> Issues -> New Issue.
