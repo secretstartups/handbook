@@ -106,7 +106,10 @@ As we create campaigns, post jobs, sponsor events, and attract top talent to Git
 <details><summary>Team Member Videos</summary>
 
 **Whether you're looking to embed video in a job ad, or create an asset to leverage in outreach, team member spotlight videos are an excellent way to provide first-hand perspectives. With a partnership with [Cinebody](https://www.cinebody.com/), we're able to build video projects and collect team member sentiment in one central place.**
-<br> - Send @cchiodo a Slack with more details about your video project including topic, use case, team members to include, and specific questions that featured team members will be answering
+<br> - Send @cchiodo a Slack with more details about your video project including topic, use case, team members to include, and specific questions that featured team members will be answering. The recommended list of questions for a hiring manager video are included below:
+    <br> - Provide a short explanation about the role you're hiring for. What would someone in this role do?
+    <br> - Why is this role impactful to the organization? How is this role helping shape the state of our industry around DevSecOps and engineering/sales/product/G&A etc. (whatever team the role is on)?
+    <br> - Why should candidates apply to this role and to GitLab? What is in it for them?
 <br> - @cchiodo will create a project in Cinebody with the provided topic and questions. Once the project is built, @cchiodo will send the project PDF back to the requester to be shared with team members being featured
 <br> - Once videos are finalized (as notified by @cchiodo), create a video editing request in GitLab by using [this issue template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new), applying the video-editing-request template, and tagging @cchiodo
 <br> - Asked to participate in a video? Learn more about what you can expect by scrolling to the bottom of [this page](/handbook/hiring/gitlab-ambassadors/)
