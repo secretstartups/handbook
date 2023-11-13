@@ -114,10 +114,9 @@ The [docs.gitlab.com](https://docs.gitlab.com/) site is not included in the comm
 
 ## Assignments
 
-Technical Writers (TWs) collaborate with other teams and
-groups as described on the [DevOps stages](#designated-technical-writers),
-[Development Guidelines](#assignments-to-development-guidelines), and
-[other subjects](#assignments-to-other-projects-and-subjects) sections below.
+Technical Writers (TWs) collaborate with [their assigned groups](#assignments-to-devops-stages-and-groups). TWs can also be assigned [other work](#assignments-to-other-projects-and-subjects).
+
+Some content on docs.gitlab.com is [not reviewed by TWs](#content-not-reviewed-by-tws).
 
 ### Assignments to DevOps Stages and Groups
 {: #designated-technical-writers}
@@ -169,7 +168,7 @@ For collaboration in other projects and subjects:
 |:----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
 | The documentation site                                      | [Susan Tacker]                                                                                                                              |
 | The documentation site backend (code, automation)                                             | [Sarah German]                                                                                                                              |
-| [Development guidelines](#assignments-to-development-guidelines)                                                | [Suzanne Selhorn]                                                                                                                              |
+| [GitLab Design System ("Pajamas")](https://design.gitlab.com/) information under [`content`](https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com/-/tree/main/contents/content)                                               | [Suzanne Selhorn]                                                                                                                              |
 | [Style Guide](#style-guide)                                                                                     | [Suzanne Selhorn]                                                                                                                              |
 | [Testing/Vale/markdownlint](#testing)                                                                           | [Diana Logan]                                                                                                                                  |
 | [Documentation handbook](/handbook/documentation/)                                                              | [Diana Logan]                                                                                                                                  |
@@ -195,6 +194,14 @@ For collaboration in other projects and subjects:
 [Susan Tacker]: https://gitlab.com/susantacker
 [Suzanne Selhorn]: https://gitlab.com/sselhorn
 
+### Content not reviewed by TWs
+
+Technical writers do not review content in:
+
+- The `doc/development` directory. Any Maintainer can merge docs in the `doc/development` directory.
+  The only exception is `/doc/development/documentation`, where the writers maintain guidelines.
+- The `doc/solutions` directory. This information is created, reviewed, merged, and maintained by Solutions Architects.
+
 ### Stable counterparts
 
 The Technical Writing team gets assistance with the `gitlab-docs` project from stable counterparts outside the team.
@@ -207,46 +214,6 @@ The Technical Writing team gets assistance with the `gitlab-docs` project from s
 [Ash McKenzie]: https://gitlab.com/ashmckenzie
 [Lukas 'Eipi' Eipert]: https://gitlab.com/leipert
 [David O'Regan]: https://gitlab.com/oregand
-
-### Assignments to development guidelines
-
-As GitLab grows, it's important to ensure that the
-guidelines for contributors are consistent and aligned throughout the organization.
-Development guidelines consist of:
-
-- GitLab [development guidelines](https://docs.gitlab.com/ee/development/):
-  The processes and technical information needed for contributing to GitLab. Use
-  the [development guidelines review process](https://docs.gitlab.com/ee/development/development_processes.html#development-guidelines-review)
-  for any changes or updates to documentation in the `/development` directory.
-- [GitLab Design System ("Pajamas")](https://design.gitlab.com/): The entire content of
-  [`contents`](https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com/-/tree/main/contents)
-  must be reviewed and approved by the TW assigned to Development Guidelines.
-- [GitLab UI](https://gitlab.com/gitlab-org/gitlab-ui/): Documentation in this
-  project doesn't require TW review. The TW for Dev Guidelines will help in
-  creating and maintaining minimum requirements for this documentation through
-  specific guidelines and templates, and assist the team on request.
-
-For merge request reviews:
-
-- If you belong to one of the stage groups, request a review from the Technical Writer assigned to your group.
-- If you don't belong to a group that has a Technical Writer assigned, spin the [reviewer roulette](https://gitlab-org.gitlab.io/gitlab-roulette/?sortKey=stats.avg7&order=-1&hourFormat24=true&visible=maintainer%7Cdocs)
-  to determine a Technical Writer to request review from.
-- Technical Writers provide a lighter level of editing on Developer Guideline pages than on user-facing docs.
-- For [minor fixes and typos](https://docs.gitlab.com/ee/development/#wording-style-or-link-changes),
-  any GitLab Maintainer can review and merge your merge request.
-- If you need guidance on development guidelines, you can request help or input from the [#docs](https://gitlab.slack.com/archives/C16HYA2P5) Slack channel
-  or the development guidelines' DRI.
-
-<!-- References:
-- All Dev Guidelines: https://gitlab.com/gitlab-org/technical-writing/issues/108
-- Pajamas: https://gitlab.com/gitlab-org/technical-writing/issues/93
-- GitLab UI: https://gitlab.com/gitlab-org/gitlab-ui/issues/598, https://gitlab.com/gitlab-org/gitlab-ui/issues/624
--->
-
-### Assignments to Solutions Architecture content
-
-Documentation under `doc/solutions` is managed by the Solutions Architecture team.
-They maintain and merge their own documentation, in this folder only.
 
 ## Docs site stats
 
@@ -395,14 +362,17 @@ To balance quality, speed, and resource constraints, the technical writers apply
 
 These guidelines are meant to provide general guidance. They aren't set in stone, and they can be overridden on a case-by-case basis.
 
+These items **do not receive** an edit unless it's specifically requested (and if requested, they receive a **light** edit):
+
+- In the GitLab repository, the Contribution guidelines (in the `/development` directory).
+- In the GitLab repository, the `doc/solutions` directory. This information is owned by Solutions Architects.
+
 These items receive a **light** edit:
 
-- In the GitLab repository:
-  - Blueprint documentation (everything in the `architecture/blueprints` directory)
-  - Contribution guidelines (everything in the `development` directory)
-- Documentation outside of the five main GitLab repositories (GitLab, Charts, Operator, Omnibus, and Runner)
-- Deprecations and removals
-- Merge requests authored by other technical writers, unless the MR is part of an OKR, or the author requests a more in-depth edit
+- In the GitLab repository, the blueprint documentation (everything in the `architecture/blueprints` directory).
+- Documentation outside of the five main GitLab repositories (GitLab, Charts, Operator, Omnibus, and Runner).
+- Deprecations and removals.
+- Merge requests authored by other technical writers, unless the MR is part of an OKR, or the author requests a more in-depth edit.
 
 These items receive a **medium** edit:
 
