@@ -62,21 +62,22 @@ There is a set of fields that show information regarding the First Order (FO) st
 1. `FO MQL` - this shows whether or not, at the time of the `MQL DateTime` (the most recent time the record MQL'd), the record was a FO record
 
 ##### Date of MQL
-Finding when a lead/contact became an MQL requires accounting for leads/contacts who skipped the MQL stage. 
 
-To do this we take the lesser of `mql_date`(`Marketo MQL DateTime` in SFDC) and `mql_inferred_date` (`SFDC MQL DateTime` in SFDC). Note: Both of these fields are hidden from views and only the SoT fields below are visible, for simplicity and consistency. 
+To find the date of when someone became an MQL, we use the date field from Marketo (`Marketo MQL DateTime` in SFDC). While this field is not stampted and can change if someone re-MQLs, it makes our reporting easier to understand, matches what Sales Development uses, and matches the data in Marketo.
 
-There are two new fields in SFDC, `MQL DateTime` that is the lesser of the above two fields and `Initial MQL DateTime` which is the SoT for the first time a record MQL'd - these are the only two fields that should be used in reporting on when a record MQLs. 
+While we use `Marketo MQL DateTime` for all our standard reporting, we are aware of some of the issues with using this field: 
+- MQL Dates can change if a person re-MQLs
+- The MQL field will be blank for someone who skips the MQL stage
 
-The logic for finding when a person became an MQL is captured in the `mql_reporting_date` field. The `mql_reporting_date` field should always be used to report inquiries unless you are looking for something specific.
+For circumstances where the cavacts above impact reports, we have created the MQL fields below:
 
-| Field Label (SFDC)           | Field API Name           | Definition                                                                                                                            | Purpose and When to Use                                         |
+| Field Label (SFDC)           | Field API Name           | Definition                                                                                                                              | Purpose and When to Use                                         |
 |------------------------------|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| Marketo MQL DateTime         | MQL_Date__c              | Set by Marketo when a record reaches the MQL Threshold.  Updates each time this happens.                                                 | Default when reporting on MQLs              |
 | [Beta] MQL DateTime          | True_MQL_Date__c         | The true/reportable MQL Date for the most recent MQL of a record. Lesser of Marketo MQL DateTime and SFDC MQL DateTime                   | Current MQL Count/ When a record most recently MQL'd |
 | Initial MQL DateTime         | True_Initial_MQL_Date__c | The true/reportable MQL Date for the first/initial MQL of a record. Lesser of Initial Marketo MQL DateTime and Initial SFDC MQL DateTime | When a record First MQL'd                            |
 | Initial Marketo MQL DateTime | Initial_MQL_Date__c      | Set by Marketo when a record reaches the MQL Threshold. Stamped the first time this happens                                              | input metric - not needed for reporting              |
 | Initial SFDC MQL DateTime    | Initial_MQL_DateTime__c  | Set by SFDC when a record skips the MQL Stage, Inquiry > Accepted for example. Stamped the first time this happens.                      | input metric - not needed for reporting              |
-| Marketo MQL DateTime         | MQL_Date__c              | Set by Marketo when a record reaches the MQL Threshold.  Updates each time this happens.                                                 | input metric - not needed for reporting              |
 | SFDC MQL DateTime            | MQL_DateTime_Inferred__c | Set by SFDC when a record skips the MQL Stage, Inquiry > Accepted for example. Updates each time this happens.                           | input metric - not needed for reporting              |
 
 ##### Technical Definition
