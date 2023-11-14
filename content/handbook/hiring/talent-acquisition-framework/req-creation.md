@@ -43,7 +43,7 @@ In order to open a backfill:
 *For roles being repurposed*: the business leader owns communication to the team to discuss rationale and drive clarity. PBP/Strategy team partners on reallocation decisions.
 1. Once the role is approved/decision has been reached and all has been documented in the issue, the recruiter can create a position in Greenhouse for approval and move to the next step of the process.
 
-For the Product and Engineering backfill or transfer process, see this [handbook page](https://about.gitlab.com/handbook/engineering/#backfill-headcount-process).
+For the Product and Engineering backfill or transfer process, see this [handbook page](https://about.gitlab.com/handbook/engineering/hiring/).
 
 ### Create or Review the Job Family (DRI: Hiring Manager)
 
