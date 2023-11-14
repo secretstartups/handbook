@@ -7,14 +7,14 @@ teams:
                      # and escalation policy
   oncall_schedule:   # Link to pagerduty oncall schedule
 - name: distribution
-  url: /handbook/engineering/development/enablement/systems/distribution/
+  url: /handbook/engineering/infrastructure/core-platform/systems/distribution/
   manager_slug: marin
   slack_channel: distribution
   engagement_policy: # Link to doc that talks about engagement
                      # and escalation policy
   oncall_schedule:   # Link to pagerduty oncall schedule
 - name: geo
-  url: /handbook/engineering/development/enablement/systems/geo/
+  url: /handbook/engineering/infrastructure/core-platform/systems/geo/
   manager_slug: geo-mgr
   slack_channel: g_geo
   engagement_policy: # Link to doc that talks about engagement
