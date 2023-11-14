@@ -16,7 +16,7 @@ GitLab's Marketing Site (about.gitlab.com) is led by the [Digital Experience Tea
 
 The [DRI](/handbook/people-group/directly-responsible-individuals/) for the Marketing Site is [Michael Preuss](https://gitlab.com/mpreuss22), and internal GitLab team members can drop questions in Slack at #digital-experience-team
 
-This documentation refers to GitLab Website pages that live in the [`www-gitlab-com` repository](https://gitlab.com/gitlab-com/www-gitlab-com). The Digital Experience team is migrating GitLab's Marketing Site to the [Buyer Experience Repository](/handbook/marketing/digital-experience/buyer-experience-repository).
+The Digital Experience team is migrating GitLab's Marketing Site to the [Buyer Experience Repository](/handbook/marketing/digital-experience/buyer-experience-repository).
 
 ## Objectives
 
@@ -175,164 +175,26 @@ We have 10-20 seconds to tell visitors why they should stay on our pages. Tell v
 
 The page title and URL should include keywords visitors might use to discover the page you’re creating. If you’re not sure what terms a visitor might use, ask the Growth Marketing team for suggestions in your Merge Request. We have a list of high priority topics and recommended keywords to use.
 
-### Website Workflow
-
-Below, view a video that shows a typical workflow to update the website.
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/XKPi9JZkGs0"></iframe></figure>In the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) video below, Sarah D., marketing operations manager at GitLab, shows Wil S., social marketing manager at GitLab, how to add a new page to your section of the handbook complete with a new main page and table of contents.
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/9NcJG9Bv6sQ"></iframe></figure>
-
 ### Creating a new page
 
 #### As an Engineer
-If you are an engineer, be sure to check out our [developer docs](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/development.md).
-If adding a new top level directory to the marketing site, make sure to add to `data/monorepo.yml` under `uncategorized/paths`.
-[Docs on monorepo](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/monorepo.md).
+
+If you are an engineer, be sure to check out our [developer docs in Buyer Experience](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/tree/main/docs?ref_type=heads).
+
+Pages are built in the code under [/pages/](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/tree/main/pages?ref_type=heads), and they fetch content from Contentful. Documentation coming soon. 
+
 
 #### As a Non-engineer
-To create a new page you for follow these steps:
 
-1. Create an issue in the [website repo](https://gitlab.com/gitlab-com/www-gitlab-com/issues) **Note**: Don't branch from other repos like the marketing repo.
-1. Create an MR from the issue by clicking on the "Create Merge Request" button. This will create a new branch for you and link it to your issue and label the MR as `Draft:`.
-1. Click on the name of your branch after "Request to Merge" to open that branch in the repository file view.
-1. Open the `sites` folder. This is where webpages are stored.
-1. If this is an update to about.gitlab.com, select the `uncategorized` directory. If these is an update to the handbook, select the `handbook` directory. Once you have selected the site where you would like to make the change, choose the directory where you want your webpage to be. For example, if you put a page in the `uncategorized` folder it will show up at the "root" level, if you create the new directory inside of another directory it will appear at that path.
-1. Click to add a `New directory` from the plus sign drop down.
-1. Name the directory in all lowercase with dashes-between-words for what you want the path of your page to be. For example if you want to create a page at [about.gitlab.com/solutions/cloud-native](/solutions/cloud-native/) then click on the `solutions` directory and inside the `solutions` directory create a new directory called `cloud-native`.
-1. Click to add a `New file` from the plus sign drop down
-1. Name the file `index.html.md.erb`
-1. Add this code to the top of the file
+To create a new page, work with the Digital Experience team by creating an issue in the [Buyer Experience repo](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues/new#)
 
-```
----
-layout: markdown_page
-title: ""
----
-## Subheading
 
-Here is your first paragraph replace this text.
-```
-
-1. Inside the quote add the title of your page. For example the title of my cloud native page would be "Building Cloud Native Applications With GitLab". Save your page by clicking "Commit changes". (Using markdown you can add more content to the page. All you need is a title, subheading and a paragraph to get started.)
-1. Return to the directory you created. You will see that you now have two files: `index.html.md.erb` and `.gitkeep`. Delete the `.gitkeep` file. This is a placeholder file from when you created the directory since git cannot track empty directories. A quick way to delete the file is to click `.gitkeep` and then click the `Delete` button.
-1. **ProTip**: Now that you no longer have a branch with no changes you can use the Web IDE to make further edits. (The Web IDE doesn't work if you have a branch with no changes. [Fix coming in 11.3](https://gitlab.com/gitlab-org/gitlab-ce/issues/48166)
-1. **ProTip**: Add a link to the bottom of your page so people can continue reading related content. Popular choices would be `/product` , `/solutions`, `/pricing` or any pages related to your page.
-1. If you need help you can ask in the #mr-buddies slack channel.
-
-### Analyst Report Pages
-
-How to create an analyst report page in 5 not-so-easy steps.
-
-#### AR Part 1: Edit the analyst reports YAML
-
-1. Open `analyst_reports.yml` - https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/analyst_reports.yml
-1. Click “Web IDE”
-1. Add an entry for the new report. For example:
-
-```
-- url: gartner-aro19
-  title: "Gartner Application Release Orchestration Report"
-  subtitle: "Gartner Cites GitLab as a Challenger in MQ for ARO"
-  resource_link: /resources/gartner-aro/
-  include_file: /analysts/includes/gartner-aro19
-```
-
-1. Edit the url, title, subtitle, resoruce_link, and include_file
-    1. The incue_file should take the format `/analysts/includes/<url>`
-    - Use the url format `<analyst>-<report><year>`. Make a note of this `url` as you'll need it later a few times throughout the process.
-    - Use the official title of the report for the title
-    - Subtitle - use analyst approved language
-    - If we get the reprint, then uncomment the “resource” line. If not, leave it commented with a `#` at the beginning of the line. You need to coordinate with MPM to create a landing page to download the report to use as the resource link.
-1. Commit the change to create a new MR:
-    - Click “commit”, add a commit message, and click “commit” again,
-    - Add “WIP:” to the title so that it doesn't get merged prematurely ("WIP:" means "don't merge")
-    - “Submit merge request”
-    - NOTE: The pipeline for the MR will fail. That's OK. It won't pass until you complete the steps below.
-
-#### AR Part 2: Create the include file
-
-1. Open the WebIDE from your MR.
-    - This is a tricky step. If you don't’ open the WebIDE from your MR then you’ll be working on a different branch. Changes you make on that branch won’t show up in your MR. Alternatively, you can keep the WebIDE open in a tab and continue to make changes after you add each commit. As long as you commit to the same branch it will update on the same MR.
-1. Click on the edit tab. It's on the left under the GitLab logo and looks like `</>`
-1. Next to the word “edit”, click on “new file” icon (looks like a page with a plus) then add the path
-    - The path will be `/sites/uncategorized/source/analysts/includes/` plus the file name for the report you are adding using the `.html.md` file extension. `<analyst>-<report><year>.html.md`
-    - For example: `/sites/uncategorized/source/analysts/includes/gartner-eapt20.html.md`
-    - This should create a new empty file for you.
-1. Copy an existing include (be sure to leave in the disclaimer at the bottom)
-    - For example: [https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/analysts/includes/gartner-eapt.html.md](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/analysts/includes/gartner-eapt.html.md)
-1. Update the content
-1. Commit that change to the MR branch
-
-#### AR Part 3: Create and upload a report image
-
-1. Create an image of the report. Opening a PDF in Mac preview you can go to File > Export and select JEPG to save the 1stst page of the report. For example: /images/analysts/cloud-ci-thumb.png. This is a tricky step because what you name the file is very important. It is highly recommended that you use “kabob case” meaning all lowercase letters with dashes in between the words instead of spaces. It looks like shish kabob :)
-1. Upload the image to the `/images/analysts/` folder.
-1. Open the WebIDE from your MR. This is a tricky step. If you don't’ open the WebIDE from your MR then you’ll be working on a different branch. Changes you make on that branch won’t show up in your MR. Alternatively, you can keep the WebIDE open in a tab and continue to make changes after you add each commit. As long as you commit to the same branch it will update on the same MR.
-1. On the edit tab, open the `source` folder, then the `images` folder, then the `analysts` folder. This is kinda tricky because you have to scroll past a lot of folders to find the one you want. The folders are in alphabetical order.
-1. Hover over the `analysts` folder and click on the drop down and select “Upload file”. This is an important step. If you upload the file to a different folder then the image won’t show up on the page.
-1. Choose the image and click “open”.
-1. Commit that change to the MR branch
-
-#### AR Part 4: Edit the haml file
-
-1. Open the WebIDE from your MR. This is a tricky step. If you don't’ open the WebIDE from your MR then you’ll be working on a different branch. Changes you make on that branch won’t show up in your MR. Alternatively, you can keep the WebIDE open in a tab and continue to make changes after you add each commit. As long as you commit to the same branch it will update on the same MR.
-2. Type “t” to open up the fuzzy finder and search for the `/sites/uncategorized/source/includes/forrester-reports.html.haml` file. Open it in the WebIDE
-3. Copy a “section” and paste it at the top underneath `.forrester-waves-container` This is a tricky step because the indentation needs to be exactly the same as the other sections. When you copy you need to copy all the spaces indenting the line. When you paste, be sure to paste with your current not indented at all. This should give you the same spacing. For example:
-```
-  <!–– Gartner ARO 2019 ––>
-  .forrester-wave-row
-    .wave-row-content
-      = image_tag "/images/analysts/gartner-app-release.jpg", class: "forrester-wave-graphic", alt: "GitLab Cloud CI Forrester Wave thumbnail png"
-    .wave-row-content
-      %img.gartner-logo{ src: "/images/home/gartner-logo.svg", alt: "Gartner logo svg" }
-      .text-center.forrester-graphic-title
-        %p ARO Report
-      %p Gartner Cites GitLab as a Challenger in MQ for ARO
-      %a.btn.cta-btn.accent.margin-top20.reports-include-button-aro{ href: '/analysts/gartner-aro19/' } Read more
-```
-
-1. Update the block with info from the new report. This is a tricky step because you only want to change some lines. Don’t edit any parts that start with a dot like ` .forrester-wave-row`, `.wave-row-content`, or `.text-center.forrester-graphic-title`. The phrases that start with a dot are CSS classes, so if you edit them the page will be formatted strangely.
-
-- PROTIP: Compare your block to a couple other blocks to make sure you are editing the correct lines and while leaving the correct code unedited.
-- SIDENOTE: The classes are named “forrester wave” because they were originally created for that report, but then they got used for all reports. This is something to ask the web team to clean up sometime in the future. (Ideally, you should never need to edit a `.haml` file. You should only ever need to edit `.md` and `.yml` files.)
-- IMPORTANT NOTE: Take care when editing the `= image_tag` line. Here you need to reference the image file that you uploaded in the previous step. The image file name here needs to exactly match what you named the file when you created it. It should be “kabaob case” - all lowercase letters with dashes instead of spaces.
-
-1. Commit your changes to your MR.
-
-#### AR Part 5: Review
-
-1. Wait for the pipeline to complete and review your changes in the review app.
-1. You can continue to update the files in the MR. Particularly the include file will have content from the PM and the PMM. However, it is recommended to merge a skeleton page with TBD, then have the PMM open a new MR to add their changes.
-1. If it all looks good, assign to someone to merge.
-1. Pat yourself on the back for successfully completing a website update process designed for people who are software developers.
 
 ### Updating an existing page
 
-1. Click on the "edit" button at the bottom of the page.
-1. Edit the page. Note: page content can be in markdown, `haml`, or possibly in a separate `.yml` file that populates fields in the `haml` file. The [hello bar](#updating-the-homepage-promo-banner-hello-bar) is an example of content in a `.yml` file.
+1. To edit the existing content of a page, check out our Contentful CMS documentation. 
+1. To add a visual component or section to a page, please fill out an [issue](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues/new#) for the Digital Experience team. 
 
-### Moving a page
-
-Great care should be taken whenever moving pages on the website. Ideally, pages should never be moved without implementing an immediate 301 redirect.
-
-The Inbound Marketing team can follows this process to [create 301 redirects](/handbook/marketing/inbound-marketing/search-marketing/#request-an-aboutgitlabcom-redirect).
-
-### Renaming a page
-
-If you need to rename a page (e.g. change `/company/culture/all-remote/part-remote` to `/company/culture/all-remote/hybrid-remote`, as was achieved in [this merge request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/31109/)), follow the below steps if using Web IDE.
-
-1. Within Web IDE, navigate to the directory that needs renamed, and click the option drop-down to select **Rename**.
-1. Rename the folder, then click **Rename folder**.
-1. Add a relevant commit message and submit a merge request.
-1. Within the newly created merge request, edit [`redirects.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/redirects.yml).
-    1. To put the redirect in place, add a few lines to `data/redirects.yml`. Define "sources", "target", and "comp_op" like so:
-
-```
-   - sources:
-   	 - /company/culture/all-remote/part-remote/
-    	 - /company/culture/all-remote/part-remote
-      target: /company/culture/all-remote/hybrid-remote/
-      comp_op: '='
-```
 
 ### Optimize images
 
@@ -341,15 +203,7 @@ When adding an image to a webpage, be sure that you optimize the image first.
 1. Select the image you'd like to add to a page and save a copy to your computer.
 1. Add your local copy to [ImageOptim](https://imageoptim.com/howto.html) and optimize the image for the web.
 
-### Updating the team page and org chart
 
-1. Both the [team page](/company/team/) and [org chart](https://comp-calculator.gitlab.net/org_chart) are updated based on your individual [team member .yml file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/team_members/person).
-1. Follow the directions to [add or update your team page entry](/handbook/git-page-update/#12-add-yourself-to-the-team-page).
-
-### Updating the homepage promo banner (`hello-bar`)
-
-- The homepage promo banner is edited at [`/source/includes/hello-bar.html.haml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/includes/hello-bar.html.haml).
-- This banner includes an optional image (logo) to accompany the text.
 
 ### Working with Stages, Groups, and Categories
 
@@ -609,71 +463,17 @@ Important guidelines to keep in mind:
 1. Before producing new content, check [learn.yml](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/learn/index.yml) for redundancy, as other teams may have developed or plan to develop similar content.
 1. Communicate updates with other DRIs working on learning content by posting on the #gitlab-learn-updates Slack channel (available to team members only)
 
-### Adding content to resources
 
-The [`/resources`](/resources/) section of the website contains downloadable files and links to helpful content.
+### Contentful CMS
 
-1. To add a resource, edit the [`resources-list.yml`](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/resources/resources-list.yml) file in the Buyer Experience repo.
-1. To create a new entry for your resource, use this template and add it to the top of `resources-list.yml`, just below the top `resources:` tag:
+The Digital Experience team is implementing [Contentful CMS](https://www.contentful.com/) for the marketing website. It offers a more user-friendly way of editing the marketing site.
 
-```
-resources:
-  - title:
-    url:
-    type: Pick one --> 'Blog post' 'One-pager' 'Report' 'Webcast' 'White paper'
-    language:
-    topics:
-      - Cloud native
-      - Code review
-      - Continuous delivery
-      - Continuous integration
-      - DevOps
-      - Git
-      - GitLab
-      - On-demand training
-      - Public Sector
-      - Security
-      - Software development
-    solutions:
-      - Distributed teams
-      - Accelerated delivery
-      - Executive visibility
-      - Project compliance
-      - Security and quality
-```
+- Team members will need to fill out an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/) to gain access to Contentful.
+- Some content will only be available to certain teams, based on roles and permissions. 
+- New pages and new components will need an [issue](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues/new#) with the Digital Experience team to work with design and engineering. 
 
-1. **Uploading a PDF**: If the resource you'd like to add is a PDF, it can be uploaded to [`/pdfs/resources/`](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/pdfs/resources/).
-1. **Selecting a type**: All resource types are listed in the code snippet above; select one that best fits your content. If the resource does not fit the current types, please submit a proposal for new resource type(s).
-1. **Selecting topics & solutions**: The code snippet above provides all of the current topics and solutions; chose the topics and solutions that best apply to the content. Please note they are case sensitive and incorrect casing or spelling will result in the generation of new, unwanted, topics and/or solutions.
+Read the [Contentful handbook page](/handbook/marketing/digital-experience/contentful-cms/) for up to date directions and status of the system.
 
-### Netlify CMS
-
-The Digital Experience team is [incrementally adopting Netlify CMS](https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/220) for the marketing website. It offers a more user-friendly way of editing the marketing site, but comes with some limitations:
-
-- It is only available to GitLab team members with direct access to this repository (community members who are working off forked repositories cannot yet access it).
-- It is not yet available for all content in the marketing site.
-- It does not have fields for all types of content yet.
-- There are remaining implementation bugs and errors.
-
-Read the [Netlify CMS handbook page](/handbook/marketing/netlifycms/) for up to date directions and status of the system.
-
-### Understanding how up to date the marketing site is
-
-If you're interested in getting a pulse on how recently the marketing website has been updated you can use a quick script to create a CSV in your local tmp/ folder with file names and their last commit date. Run it from the root directory of www-gitlab-com on your local machine:
-
-```
-ruby scripts/get-most-recent-commits.rb
-```
-
-It doesn't exactly map to URLs on about.GitLab.com, but this should be able to give you a pulse of what gets updated and how frequently. It only checks files in `data/` and `sites/uncategorized/` for now. For each file tracked in git in both of those folders, it grabs the file name and its most recent commit date (as known to git on your machine - so it will be incorrect if you haven't recently fetched or pulled from master).
-
-Most of the `data/` files map closely to a URL on the website. For instance, `data/topic/ci-cd.yml` is the data for /topics/ci-cd/. So you should be able to scan through the CSV and get a good sense of how recently we've updated data files.
-
-The files in `sites/uncategorized` are a little more complex. Some of them are straightforward, like `sites/uncategorized/source/get-started/index.html.md` is `/get-started/`. Others are a little more meta, but still give you good information, like `sites/uncategorized/source/includes/cms/topic/body.html.haml` will tell you how recently we have updated the layout for the body partials of the aforementioned topic pages.
-
-Getting a direct mapping of each URL and its corresponding files is possible, but not practical. The only way we can find that out is by hooking into the [Middleman sitemap](https://www.rubydoc.info/gems/middleman-core/Middleman/Sitemap), which is [only available to us in templates](https://middlemanapp.com/advanced/sitemap/#accessing-the-sitemap-from-code). That means we have to have a Middleman instance running (or run the build process). But getting the most recent commit date requires having Ruby run a [system call](https://www.rubyguides.com/2018/12/ruby-system/) to run `git log -1 --format=%cd --date=short /path/to/file` for each and every file. It takes a long time, and including that in Middleman somewhere would impact the overall pipeline negatively.
-
-In the future, we could explore a [custom Middleman extension](https://middlemanapp.com/advanced/custom-extensions/) that provides your data through the interface like `http://localhost:7654/__middleman` has for most of the other config. But it would still be as slow as the system calls take (which is about 20ish minutes for the actual entire sitemap including handbook. Closer to 5-10 minutes for just marketing).
 
 # Merge requests
 
@@ -704,24 +504,9 @@ For best practices regarding testing and reviewing merge requests, please see ou
 1. Tracking the performance of a module becomes more difficult the more a module changes.
 1. When examining from a distance, it's hard to know what module to use if the modules all have several different purposes, sometimes overlapping purposes. "Do I use this module or that one?"
 
-# Video bands
-
-This is a link to our [documentation on how to implement a video band](/handbook/marketing/digital-experience/video-bands/).
 
 # Digital FAQ
 
-<details markdown="1">
-
-<summary>Why isn't this form working?</summary>
-
-### Why isn't this form working?
-
-Many of our forms are served through a third party tool, Marketo. Sometimes Marketo is blocked by an ad blocker or a strict web browser such as [Brave](https://brave.com/). GDPR and CCPA (among other laws) require us to obtain consent before setting cookies and those cookies are required for many third party functions.
-
-If you are having trouble using a form, please try <a href="javascript:Cookiebot.renew();">updating your cookie settings</a> to allow **personalization (personal information) cookies**. If that does not work, please try a different browser with a less strict adblocker and ensure our domain and subdomains (gitlab.com, about.gitlab.com, and page.gitlab.com) are not blocked.
-
-If you have tried the above solutions but are still having trouble using a form, please [file a bug report](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=-website-bug-report). Please note that if you do not provide all of the requested information we might be unable to reproduce the bug and therefore unable to fix it.
-</details>
 <details markdown="1">
 
 <summary>Why can't I see something in the review apps?</summary>
@@ -763,12 +548,4 @@ On the about.gitlab.com website we have approval to use the customer logos lisit
 - Please ensure requested times are during normal business hours for the person making the changes.
     - If any changes are requested outside of their normal business hours, please ask before hand if that is possible or if someone else who is available can work on it to ensure that it releases in a timely fashion.
 
-</details>
-<details markdown="1">
-
-<summary>How do I fix a stuck merge train?</summary>
-
-### How do I fix a stuck merge train?
-
-Sometimes a merge train will get stuck in our [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) repo pipelines. Please see this related issue for [instructions on how to recover a stuck merge train](https://gitlab.com/gitlab-org/gitlab/-/issues/217908#when-the-merge-train-in-the-www-gitlab-com-project-might-be-stuck).
 </details>

@@ -481,10 +481,9 @@ An essential aspect of our work efficiency revolves around receiving approved co
 
 ### Things we don't do
 
-1. **Content changes**. You can do these yourself, it's one of the many awesome things about GitLab!
-    1. [Here's a quick video](https://www.youtube.com/watch?v=XbQ5JuiJBWQ) on how to edit content for the marketing site. The video walks through the proccess of editing /competiton pages, but the same steps apply to any marketing page.
-        1. Documentation about how to use [GitLab's Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/)
-    1. Want to learn more about our CMS? [Here's the documentation](https://about.gitlab.com/handbook/marketing/netlifycms/)
+1. **Content changes**. You can do these yourself using our CMS, Contentful:
+    1. [Here's a quick video](https://www.youtube.com/embed/6pdXijDzYkg?si=8JbdUBmzPHcWgzTk) on how to search for and edit existing content for the marketing site. For completely new pages, please fill out an [issue](https://about.gitlab.com/handbook/marketing/digital-experience/#issue-template-to-submit-an-idea-to-drive-our-business-goals)
+    1. Want to learn more about our Contentful CMS? [Here's the documentation](https://about.gitlab.com/handbook/marketing/digital-experience/contentful-cms)
 2. **Create content**. You can collaborate with our excellent [Global Content team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/) for these needs.
 3. **Create branded assets, custom graphics, illustrations**. Our [Brand design team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/) is so good at this, you definitely want their expertise.
 
