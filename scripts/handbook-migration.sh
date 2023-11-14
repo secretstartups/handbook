@@ -70,7 +70,7 @@ while [ "$1" != "" ]; do
                                     DUBDUBDUB_REPO=$1
                                     ;;
         -T | --temp-loc)            shift
-                                    TMP_REPO=$1/www-gitlab-com
+                                    TMP_REPO=$1
                                     ;;
         -g | --filter-repo)         USE_FILTER_REPO=true
                                     echo -e "${bold}Using Git Filter Repo (experimental)...${normal}"
@@ -163,7 +163,9 @@ git pull
 
 # Prepare directories
 echo -e "${bold}Making a copy of the www-gitlab-com repo directory...${normal}"
-mkdir /tmp/gitlab-migration
+mkdir -p $TMP_REPO
+
+TMP_REPO=$TMP_REPO/$(echo $DUBDUBDUB_REPO |rev| cut -d '/' -f 1|rev)
 
 echo -e "${bold}Switch to copy of www-gitlab-com at ${TMP_REPO}...${normal}"
 cp -r $DUBDUBDUB_REPO $TMP_REPO
