@@ -23,9 +23,9 @@ This policy applies to anyone developing code at GitLab in support of GitLab's p
 
 ## Policy
 
-### Planning
+### Inception
 
-The planning stage occurs across different mediums depending upon each team's individual processes.
+This stage occurs across different mediums depending upon each team's individual processes.
 
 During this stage, the following information is established:
 
@@ -53,11 +53,13 @@ Software development must be accomplished using GitLab's development platform in
 
 [Code review guidelines](https://about.gitlab.com/handbook/engineering/workflow/code-review/) must be adhered to when developing code at GitLab.
 
-Development work must undergo testing and approval prior to deployment to production.
+Development work must undergo testing and approval prior to deployment to production. This includes configuration changes and other related changes that may not be considered "development" work.
 
 ### Deployment
 
 Deployment of software at GitLab must adhere to all defined staging, testing, release, and rollback processes.
+
+After any necessary verification in production is completed, details of changes are pushed to the releases page to be communicated as part of the relevant release notes.
 
 ### Maintenance
 
