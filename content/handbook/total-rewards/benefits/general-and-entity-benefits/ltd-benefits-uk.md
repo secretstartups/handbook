@@ -364,7 +364,7 @@ The following leave types run concurrently with GitLab PTO. Team members should 
 
 ## Employers' Liability Insurance
 
-You can view the `Certificate of Employers' Liability Insurance` [here](https://drive.google.com/file/d/1r6ejQjLgUEc0seTbKnqzSF6JqV4bneO4/view?usp=sharing).
+You can view the `Certificate of Employers' Liability Insurance` [here](https://drive.google.com/file/d/1RCbwcUClPUxmkJALT9Ojk_TdTyCWOHgs/view?usp=sharing).
 
 ## Monthly Medical Bill Payments
 
