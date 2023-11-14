@@ -68,9 +68,6 @@ It's important to keep track of what must be done after a show. Are you using th
 
 There is also a dev.to series article checkbox. This is done in order to have a single area that fans and viewers can access all the episodes, articles, and information about the show [Meet the Tanukis](https://dev.to/metzinaround/series/14323) in one location. It's a regular dev.to article that is named after the show and contains links to all the content for each guest. The final action to complete is posting the video in the [education impressions excel sheet](https://docs.google.com/spreadsheets/d/1k1ci9BPEDDb_CxrR9-uQ_YQD_UXBMDeAU-KTpfQfHD4/edit?usp=sharing).
 
-### Adding to the Carousel
-
-There is a [video band](/handbook/marketing/digital-experience/video-bands/) on the [GitLab for Education](https://about.gitlab.com/solutions/education/) landing page that contains all the YouTube videos of the streams done so far. To edit this, head to the Education solutions page under the buyer [experience repository](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience). Navigate to the folder `content/solutions/education` and open the `index.yml` file there for access to the page's video carousel. Under `components.name = "solutions-carousel-videos" ` are several lines dictating what the videos in the carousel are. Follow the format there for other videos. Ensure the youtube URL is in the following format: `https://www.youtube.com/embed/@@@@@@@@@@@?enablejsapi=1&origin=https://about.gitlab.com`. Use the following link format for the photo URL: `https://img.youtube.com/vi/@@@@@@@@@@@/hqdefault.jpg`. In both cases, replace the @ symbols with the 11 digit string that represents your youtube video.
 
 ## 8 Bits
 
