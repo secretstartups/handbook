@@ -62,11 +62,6 @@ The Security Division provides essential security operational services, is direc
 
 To reflect this, we have structured the Security Division around four key tenets, which drive the structure and the activities of our group. These are :
 
-- Secure the Product  - [Security Engineering Department]({{< ref "security-engineering" >}})
-- Protect the Company - [Security Operations Department]({{< ref "security-operations" >}})
-- Lead with Data      - [Threat Management Department]({{< ref "threat-management" >}})
-- Assure the Customer - [Security Assurance Department]({{< ref "security-assurance" >}})
-
 <table id="Sub-Departments">
   <tr>
     <th class="text-center">
@@ -123,7 +118,7 @@ To reflect this, we have structured the Security Division around four key tenets
 
 #### Secure the Product - Security Engineering
 
-The [Security Engineering]({{< ref "security-engineering" >}}) teams are primarily focused on Securing the Product. This reflects the Security Division's current efforts to be involved in the Application development and Release cycle for Security Releases, Security Research, our HackerOne bug bounty program, Security Automation, External Security Communications, and Vulnerability Management.
+The [Security Engineering Department]({{< ref "security-engineering" >}}) is primarily focused on Securing the Product. This reflects the Security Division's current efforts to be involved in the Application development and Release cycle for Security Releases, Security Research, our HackerOne bug bounty program, Security Automation, External Security Communications, and Vulnerability Management.
 
 The term “Product” is interpreted broadly and includes the GitLab application itself and all other integrations and code that is developed internally to support the GitLab application for the multi-tenant SaaS. Our responsibility is to ensure all aspects of GitLab that are exposed to customers or that host customer data are held to the highest security standards, and to be proactive and responsive to ensure world-class security in anything GitLab offers.
 
@@ -140,7 +135,7 @@ These functions have the responsibility of shoring up and maintaining the securi
 
 #### Assure the Customer - The Security Assurance Department
 
-The [Security Assurance]({{< ref "security-assurance" >}}) Department is comprised of the teams noted above. They target Customer Assurance projects among their responsibilities. This reflects the need for us to provide resources to our customers to assure them of the security and safety of GitLab as an application to use within their organisation and as a enterprise-level SaaS. This also involves providing appropriate support, services and resources to customers so that they trust GitLab as a Secure Company, as a Secure Product, and Secure SaaS
+The [Security Assurance Department]({{< ref "security-assurance" >}}) is comprised of the teams noted above. They target Customer Assurance projects among their responsibilities. This reflects the need for us to provide resources to our customers to assure them of the security and safety of GitLab as an application to use within their organisation and as a enterprise-level SaaS. This also involves providing appropriate support, services and resources to customers so that they trust GitLab as a Secure Company, as a Secure Product, and Secure SaaS
 
 
 
