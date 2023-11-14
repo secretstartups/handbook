@@ -18,6 +18,13 @@ is a temporary measure to workaround the lack of until workflow categories are r
 - [GitLab Dedicated Observability and Monitoring (Grafana)]({{< ref "dedicated_instance_health" >}})
 - [GitLab Dedicated Switchboard Troubleshooting]({{< ref "dedicated_switchboard" >}})
 
+Here are links to other pages about GitLab Dedicated around GitLab:
+
+- Docs: [Configure GitLab Dedicated](https://docs.gitlab.com/ee/administration/dedicated/)
+- Product: [Glossary of Switchboard terms](https://about.gitlab.com/direction/saas-platforms/switchboard/glossary/)
+- Infrastructure: [GitLab Dedicated internal docs](https://gitlab-com.gitlab.io/gl-infra/gitlab-dedicated/team/) (GitLab internal only)
+- CSM: [Engaging with GitLab Dedicated Customers](https://internal.gitlab.com/handbook/customer-success/csm/gitlab-dedicated/) (GitLab internal only)
+
 ### Test and reproduction GitLab Dedicated instance
 
 GitLab Support has access to a GitLab Dedicated instance for testing and problem
