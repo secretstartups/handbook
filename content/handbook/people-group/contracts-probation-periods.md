@@ -241,8 +241,8 @@ CXC contracts are issued on a yearly basis, with contracts expiring after one ye
 
 - CXC will make contact with team members 2 weeks before their contracts are due to expire.
 - CXC will create renewal contract and send for signing to the relevant team members.
-- Once signed, CXC will send the renewed contract to GitLab.
-- The People Connect Team member files the renewed contract to the team members Workday Documents folder and updates Workday to reflect the new contract: Open the team member's Workday profile > Click on actions > Job Change > add contract. Fill in start and end date, contract type and reason (if applicable)
+- Once signed, CXC will send the renewed contract to People Connect.
+- The People Connect Team member uploads the renewed contract to the team member's Workday Contracts & Changes folder and [updates Workday](https://docs.google.com/document/d/1qnRUH2vkBGDi1hWnpGjvfF0G1GvfZLVHUVFuKeu9vKI/edit?usp=sharing) to reflect the new contract.
 
 Standard practice is to automatically renew CXC contracts. The [offboarding process]({{< ref "offboarding" >}}) will apply should a team member be terminated voluntarily or involuntarily.
 
