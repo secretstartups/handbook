@@ -12,7 +12,7 @@ description: "Editing and creating content using Contentful"
 
 # Contentful Guide
 
-The Digital Experience team is currently migrating the [marketing website](https://about.gitlab.com/) to our new CMS tool, Contentful. This work is ongoing throughout FY24Q4 and into the new year, but we are starting to onboard different teams onto Contentful so that they may self-serve their own content changes. 
+The Digital Experience team is currently migrating the [marketing site](https://about.gitlab.com/) to our new CMS tool, Contentful. This work is ongoing throughout FY24Q4 and into the new year, but we are starting to onboard different teams onto Contentful so that they may self-serve their own content changes. 
 
 ### What is Contentful?
 
@@ -38,7 +38,7 @@ When opening Contentful for the first time, you'll find all of our marketing sit
    2. If you know that your content lives inside of a Hero, you can select the `Content Type: Hero` and enter your search term from there. 
    3. If you know that your content is on a particular page, such as the /resources/ page, you can filter by Content Type: Page, and sort the results alphabetically until you find the Resources page.
 3. Once you have found the content in question, click on the Entry so that a sidebar appears with all of the fields in that Entry. From here, you'll see all of the fields on that particular piece of content, and can edit the field in question. 
-4. To publish the changes live to production, click the green Publish button. This will kick off a pipeline and your changes will be available on the website within about 10 minutes. 
+4. To publish the changes live to production, click the green Publish button. This will kick off a pipeline and your changes will be available on the site within about 10 minutes. 
 5. *Coming Soon*: We are making improvements to the live preview process, as well as hooking up review apps to our workflow. At this time, although there is no way to preview content before publishing, we are working on many improvements
 
 ### Creating new content in Contentful
