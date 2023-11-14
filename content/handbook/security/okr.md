@@ -52,7 +52,7 @@ Field updates:
 - Progress %
 - Health Status: On Track/Needs Attention/At Risk
 
-:scissors: Copy and paste the below into the GitLab.com KR Issue(s)
+:scissors: Copy and paste the below into the GitLab.com KR Issue(s) at the end of the week
 
 ```text
 ## Weekly KR Update for the week of YYYY-MM-DD
