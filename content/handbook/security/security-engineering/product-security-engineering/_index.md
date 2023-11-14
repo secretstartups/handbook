@@ -94,6 +94,19 @@ Product Security Engineering should always have at least one AppSec-related issu
 
 When a Product Security Engineer has capacity for more work, they should take an item from the top of the backlog and assign themselves to it. If they need to stop working on something they should unassign themselves, @ mention the team, and apply the correct workflow label (e.g. `~workflow::blocked`).
 
+### Merge Request Reviews
+
+When contributing to a project that is owned or maintained by another team or an official GitLab asset, we follow that project's established review conventions, rules, and requirements.
+
+When contributing to a project owned and primarily maintained by Product Security Engineering:
+
+- We default to asking for other Product Security Engineering team members to review our merge requests
+  - We strive to review eachother's contributions in order to encourage collaboration, facilitate knowledge sharing, and reduce silos
+  - We must acknowledge that we are a small team and that sometimes a thorough review isn't going to happen in a timely manner, impacting velocity
+  - We evaluate the tradeoff between knowledge sharing and velocity on a case-by-case basis, with each team member empowered to make decisions on foregoing a review
+- We can skip a formal review if something is blocking, time-sensitive, and/or resolving an urgent high-impact need
+- We try to pick up issues in tooling other team members have written
+
 ## References
 
 This new team is still in the formation process. For more context, team members can refer to these internal links:
