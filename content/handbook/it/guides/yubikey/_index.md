@@ -6,6 +6,7 @@ description: "IT Self Service Guides provide team members with instructions for 
 ## Overview
 
 ## Available Keys
+
 We recommend using a YubiKey with FIPS. The available keys for order from our inventory are below. Choose the key that works best for you and continue on to how to order.
 
 ![Available Keys](available_keys.png)
