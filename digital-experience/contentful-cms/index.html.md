@@ -53,7 +53,7 @@ The process for creating new content in Contentful is varied.
 2. For creating a _brand new_ section of content that doesn't exist on the marketing site, you may need Digital Experience assistance, but you can start by creating the Entry. 
    1. Find the Page you'd like to add content to by using the Content Type: Page filter, then click on the page in question.
    2. At the bottom of the page editor, Add Content -> Select the content type you're looking for, and fill in the fields accordingly
-   3. Create an issue with the Digital Experience team to make sure that the code on that page can handle your new Entry.
+   3. Create an [issue](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues/new#) with the Digital Experience team to make sure that the code on that page can handle your new Entry.
 3. For creating a new section of content when the content _already exists elsewhere_ (such as the wall of Gartner badges on our homepage), you can do the following steps to insert that existing entry into the page of your choosing:
    1. Navigate to the page you'd like to add content to
    2. At the bottom of the Editor, click Add Content -> Add Existing Content
