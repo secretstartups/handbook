@@ -16,10 +16,12 @@ Welcome to the Sales Finance Handbook!
 | Name | Function |
 | -------- | ---- |
 | @nbernardo  | Strategic Planning/Consolidation |
-| @jlatendresse| GTM Business Partner Lead |
 | @kmckern | Strategic Planning/Consolidation |
-| TBC | Enterprise & Commercial Sales | |
-| @rcallam | GTM Cross Functional Manager |
+| @jlatendresse| GTM Business Partner Lead |
+| @rcallam | Enterprise & Commercial Sales |
+| @rcallam | Customer Success |
+| @rcallam | Revenue, Strategy, Ops & Enablement |
+| @rcallam | Channel & Alliances |
 
 
 ## Greenhouse HC Approval SLA (Service Level Agreement)
