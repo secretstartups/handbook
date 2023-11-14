@@ -200,7 +200,6 @@ If you are unable to attend the existing working group meeting due to time diffe
 ## Active Working Groups (alphabetic order)
 
 1. [Account Escalation Process]({{< ref "account-escalation-process" >}})
-1. [AI Integration]({{< ref "ai-integration" >}})
 1. [API Vision]({{< ref "api-vision" >}})
 1. [Automotive Development]({{< ref "automotive-development" >}})
 1. [AWS/GCP Partnerships](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/11)
@@ -228,6 +227,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Learning Experience]({{< ref "learning-experience" >}})
 1. [Modern Applications Go-To-Market]({{< ref "modern-applications-gtm" >}})
 1. [Next Architecture Workflow]({{< ref "next-architecture-workflow" >}})
+1. [North Star Metric Definitions]({{< ref "north-star-metric-definitions" >}})
 1. [Product Accessibility]({{< ref "product-accessibility" >}})
 1. [Runtime Update Process]({{< ref "runtime-update-process" >}})
 1. [Software Supply Chain Security]({{< ref "software-supply-chain-security" >}})
@@ -237,6 +237,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 
 ## Past Working Groups (alphabetic order)
 
+1. [AI Integration]({{< ref "ai-integration" >}})
 1. [Architecture Kickoff]({{< ref "architecture-kickoff" >}})
 1. [Category Leadership](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/10)
 1. [China Service]({{< ref "china-service" >}})
