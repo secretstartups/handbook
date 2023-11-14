@@ -73,6 +73,7 @@ while [ "$1" != "" ]; do
                                     TMP_REPO=$1/www-gitlab-com
                                     ;;
         -g | --filter-repo)         USE_FILTER_REPO=true
+                                    echo -e "${bold}Using Git Filter Repo (experimental)...${normal}"
                                     ;;
         -o | --out)                 shift
                                     REPORT_OUT=$1
@@ -163,6 +164,8 @@ git pull
 # Prepare directories
 echo -e "${bold}Making a copy of the www-gitlab-com repo directory...${normal}"
 mkdir /tmp/gitlab-migration
+
+echo -e "${bold}Switch to copy of www-gitlab-com at ${TMP_REPO}...${normal}"
 cp -r $DUBDUBDUB_REPO $TMP_REPO
 cd $TMP_REPO
 
@@ -194,6 +197,8 @@ if [[ USE_FILTER_REPO == "false" ]]; then
        esac
    done
 else
+  echo -e "${bold}Performing git filter repo... this might take a few minutes...${normal}"
+  git remote rm origin
   git filter-repo --force --path $DIRECTORY_TO_SPLIT
 fi
 
