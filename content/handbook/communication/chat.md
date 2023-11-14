@@ -16,6 +16,8 @@ Search for channels using either the `Search GitLab` toolbar, using a channel na
 
 ### General Channels
 
+{: #random-room}
+
 There are a lot of general channels, just to name a few:
 
 - **[`#whats-happening-at-gitlab`](https://gitlab.slack.com/archives/general)**: General announcements and company-wide broadcasts
