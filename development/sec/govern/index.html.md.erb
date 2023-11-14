@@ -11,18 +11,20 @@ title: Govern Stage
 
 The Govern engineering groups are responsible for the [Govern Stage](/handbook/product/categories/#govern-stage) of the product.
 
+## Vision
+
+Help users manage security vulnerabilities, policies, and compliance across their organization.
+
+The stage vision is captured on the [Govern product direction](https://about.gitlab.com/direction/govern/) pages.
+
+## Groups
+
 * [Anti-abuse](anti-abuse/)
 * [Authentication](authentication/)
 * [Authorization](authorization/)
 * [Compliance](compliance/)
 * [Security Policies](security-policies/)
 * [Threat Insights](threat-insights/)
-
-## Vision
-
-Help users manage security vulnerabilities, policies, and compliance across their organization.
-
-The stage vision is captured on the [Govern product direction](https://about.gitlab.com/direction/govern/) pages.
 
 ## Priorities
 
@@ -58,7 +60,7 @@ To contact Govern stage development people leaders leaders use the following ali
 <%=  direct_team(role_regexp: /Engineer(.*)Govern:Authentication/, manager_slug: 'adil.farrukh') %>
 
 ### Authorization
-<%=  direct_team(role_regexp: /Engineer(.*)Govern:Authorization /, manager_slug: 'jayswain') %>
+<%=  direct_team(role_regexp: /Engineer(.*)Govern:Authorization/, manager_slug: 'jayswain') %>
 
 ### Compliance
 <%= direct_team(role_regexp: /Engineer(.*)Govern:Compliance/, manager_slug: 'nrosandich') %>
@@ -78,8 +80,8 @@ The following members of other functional teams are our stable counterparts:
       role_regexp: /[,&] Govern/,
       direct_manager_role: nil,
       other_manager_roles: [
-        'Engineering Manager, Govern:Authentication and Anti-abuse',
-        'Engineering Manager, Govern:Authorization',
+        'Engineering Manager, Govern:Authorization and Anti-abuse',
+        'Engineering Manager, Govern:Authentication',
         'Engineering Manager, Govern:Compliance',
         'Engineering Manager, Govern:Security Policies',
         'Engineering Manager, Govern:Threat Insights',
