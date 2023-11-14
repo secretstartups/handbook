@@ -238,7 +238,7 @@ Prevention is a [team sport](https://www.cncf.io/blog/2020/04/03/were-all-in-thi
 1. Remove Slack from your smartphone or at the very least, turn off notifications for it
 1. Keep each other accountable. When you notice someone in a different time zone should be asleep, tell them
 1. Use your Slack status to share a message with the team that you are unavailable
-1. Schedule [random coffee breaks]({{< ref "communication/chat#random-room" >}})
+1. Schedule [random coffee breaks]({{< ref "communication#random-room" >}})
 1. You can use [informal communication]({{< ref "./informal-communication" >}}) mechanisms such as virtual trivia sessions, talent shows, scavenger hunts, and global pizza parties/meals to help bond as a team and prevent work-related burnout.
 
 ### The power of being proactive
