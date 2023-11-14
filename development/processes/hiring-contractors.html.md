@@ -53,7 +53,7 @@ In either case, you need a job description (JD). If you are hiring for a tempora
 
 ## Interview Process
 
-For the interview, you will have a lot of agency to structure interviews as an engineering manager looking to make this hire. It is advisable to stay as close as possible to the company-level guidelines, especially as it relates to [diversity inclusion and belonging](/company/culture/inclusion/talent-acquisition-initiatives/). You can also use your own sub-department or group guidelines as a basis for defining the interview process, including the diversity of interviewers and approach to technical vetting (e.g. see Enablement sub-department [interview guidelines](/handbook/engineering/development/enablement/#how-do-we-interview-candidates)). 
+For the interview, you will have a lot of agency to structure interviews as an engineering manager looking to make this hire. It is advisable to stay as close as possible to the company-level guidelines, especially as it relates to [diversity inclusion and belonging](/company/culture/inclusion/talent-acquisition-initiatives/). You can also use your own sub-department or group guidelines as a basis for defining the interview process, including the diversity of interviewers and approach to technical vetting (e.g. see Enablement sub-department [interview guidelines](/handbook/engineering/infrastructure/core-platform/#how-do-we-interview-candidates)). 
 
 ## Contracting and invoicing
 
