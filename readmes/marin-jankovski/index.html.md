@@ -19,7 +19,7 @@ this page is a readme for the [Marin Jankovski](/company/team/#maxlazio).
 
 Over the course of my tenure at GitLab, I've bootstrapped and onboarded a number of teams. Currently serving in the role of a Director of Platform Infrastructure.
 
-I was a team lead and an engineering manager for [Distribution team](/handbook/engineering/development/enablement/systems/distribution/), [Delivery team](/handbook/engineering/infrastructure/team/delivery/), and [Scalability team](/handbook/engineering/infrastructure/team/scalability/)
+I was a team lead and an engineering manager for [Distribution team](/handbook/engineering/infrastructure/core-platform/systems/distribution/), [Delivery team](/handbook/engineering/infrastructure/team/delivery/), and [Scalability team](/handbook/engineering/infrastructure/team/scalability/)
 
 I was the first engineer working on tasks related to GitLab installation and as GitLab grew, so did the need to impact wider scope increase.
 

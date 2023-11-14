@@ -13,7 +13,7 @@ job: "Senior Distinguished Engineer, Ops and Enablement"
 ## Introduction
 
 My name is Kamil Trzciński and I am a Senior Distinguished Engineer as part of the
-[Memory team][/handbook/engineering/development/enablement/data_stores/application_performance/],
+[Memory team][/handbook/engineering/infrastructure/core-platform/data_stores/application_performance/],
 and I live in Poland.
 
 I joined GitLab in 2015, June. I contributed to GitLab a way before me joining
