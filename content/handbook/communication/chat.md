@@ -23,6 +23,22 @@ There are a lot of general channels, just to name a few:
 - **[`#thanks`](https://gitlab.slack.com/archives/thanks)**: Where GitLab team-members can [say thanks](/handbook/communication/#say-thanks) to those GitLab team-members who did a great job, helped a customer, or helped you!
 - **[`#random`](https://gitlab.slack.com/archives/random)**:  Socialize and share random snippets with your fellow GitLab team-members.
 
+### Getting in touch with the e-group
+
+To get in touch with the [e-group](/handbook/company/team/?department=executive) on Slack, you can use the following channels. When in doubt, you can use the general `#e-group` channel to reach out to the entire group.
+
+| Member | Channel      |
+| ------ | ------------ |
+| CEO    | `#ceo`       |
+| CFO    | `#finance`   |
+| CProdO | `#product`   |
+| CTO    | `#cto`       |
+| CRO    | `#cro`       |
+| CMO    | `#cmo` |
+| CPO    | `#cpo` |
+| CLO    | `#legal`     |
+| CISO   | `#ciso`      |
+
 ### Team Channels
 
 To raise an issue with a specific team, please use below most commonly used channels;
