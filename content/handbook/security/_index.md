@@ -19,39 +19,7 @@ description: "Security at GitLab"
 1. Personal Access Tokens will be highly discouraged within the GitLab production environment, and disallowed/disabled wherever possible. Existing tokens shall remain, but additional issuance will not be permissible/possible.
 1. If you believe a personal access token has been leaked, revoke it immediately (if possible) and [contact the security team](/handbook/security/security-operations/sirt/engaging-security-on-call.html) using the `/security` Slack command.
 
-## Security Department
-
-The Security Department provides essential security operational services, is directly engaged in the development and release processes, and offers consultative and advisory services to better enable the business to function while minimising risk.
-
-To reflect this, we have structured the Security Department around four key tenets, which drive the structure and the activities of our group. These are :
-
-- Secure the Product  - [Security Engineering Sub-department]({{< ref "security-engineering" >}})
-- Protect the Company - [Security Operations Sub-department]({{< ref "security-operations" >}})
-- Lead with Data      - [Threat Management Sub-department]({{< ref "threat-management" >}})
-- Assure the Customer - [Security Assurance Sub-department]({{< ref "security-assurance" >}})
-
-### FY23 Direction
-
-2021 was a productive and accomplished year for GitLab Security.  You can find the [many ways](https://about.gitlab.com/blog/2021/12/17/gitlab-security-twenty-twenty-one/) we made GitLab and our customers more secure in FY22.  In FY23 (Feb 2022 - Jan 2023) we will continue moving the security needle forward as we focus on increased involvement in product features, diversifying our certification roadmap, and increased visibility of our threat landscape.
-
-The [Security Assurance sub-department]({{< ref "security-assurance" >}}) continues to improve customer engagement and advance our SaaS security story.  Independent security validation (compliance reports and certifications) is a critical component to ensuring transparency and adequacy of our security practices. Current and prospective customers highly value independent attestations of security controls and rely on these to reaffirm security of the software and inherent protection of their data. FY22 saw expansion of GitLab’s SOC 2 report to include the Security and Confidentiality criteria along with achievement of GitLab very first ISO/IEC 27001 certification. In FY23 we will continue to grow GitLab’s certification portfolio through SOC and ISO expansion with an additional focus on compliance offerings geared towards heavily regulated markets like FIPS 140-2 and FedRAMP.   These audits will greatly expand our ability to reach new markets, attract new customers, increase contract values and make GitLab even more competitive in the enterprise space.  A heavy focus will be placed on tooling and automation in FY23 to enable our rapid growth.
-
-The [Security Engineering sub-department's]({{< ref "security-engineering" >}}) focus in FY23 will continue to be in the direction of a proactive security stature. Adoption of additional automation and key technology integrations will help further increase efficiency and effectiveness. After the shift left accomplished last year, our ability to detect and remediate risks pre-production has improved. Building on this capability, improving visibility and alerting on vulnerabilities detected as close to code development as possible will be a new focus. Continued maturity of our infrastructure security, log aggregation, alerting, and monitoring will build upon the increased infrastructure visibility and observability accomplished last year. All of this will contribute towards minimizing risk and exposure in a proactive manner.
-
-For FY23 the [Security Operations sub-department]({{< ref "security-operations" >}}) will be committed to a focus on anti-abuse and incident response process maturity. Using established maturity frameworks, the program will focus on utilizing existing technologies with new expanded datasets supported by refined processes resulting in faster time to triage and short time to remediate.  Additional focus on gaining a deeper understanding of security incidents, abuse, and causes will drive additional preventative practices. Altogether, this will result in fewer security incidents, less abuse, a more secure, and more reliable service for all GitLab users.
-
-Our newest sub-department, [Threat Management]({{< ref "threat-management" >}}):
-FY23 began with the creation of a new sub-department known as Threat and Vulnerability Management. This department will contain our Red Team, Security Research Team, and a newly formed Vulnerability Management team. While the focus of the Red Team and Vulnerability Research teams will not change, the newly formed Vulnerability Management team will take an iterative approach to better understanding and managing vulnerabilities across all of GitLab.
-Initially, Vulnerability Management will be very focused on implementing an initial process to better track and analyze cloud assets (GCP, AWS, Azure, DO)  for vulnerabilities.  Once this initial process is in place and being executed on we will begin expanding coverage to the GitLab product, specific business critical projects and other potential weaknesses. The overall goal of this team will be to create a holistic view of GitLab’s attack surface and ensure that the necessary attention is given to remediating issues.
-FY23 will also see the introduction of several new security teams.  In addition to the vulnerability management team mentioned above, we are also adding a Log Management team.  This team will report into the Security Engineering sub-department and will be responsible for creating a more holistic approach to log management, incident response, and forensic investigation.
-
-Lastly, we value the opinions and feedback of our team members and encourage them to submit ideas [handbook first](/handbook/company/culture/all-remote/handbook-first/) (directly to the handbook in the form of an MR).  We saw incredible gains in our culture amp survey results in FY22 and going forward we are committed to continuous improvement of our leadership team, team growth and development, and GitLab culture within the Security Department.
-
-{{% include "includes/we-are-also-product-development.md" %}}
-
-This topic is part of our [Engineering FY23 Direction](https://about.gitlab.com/handbook/engineering/#fy23-direction).
-
------
+## Security Division
 
 ### <i class="fas fa-rocket" id="biz-tech-icons"></i> Security Vision and Mission
 
@@ -86,9 +54,18 @@ Our mission is to enable everyone to innovate and succeed on a safe, secure, and
    - Avoiding security jargon
    - Seek opportunities to help others succeed
 
-To help achieve the vision of transparently leading the world to secure outcomes, the Security Department has nominated a [Security Culture Committee]({{< ref "security-culture" >}}).
+To help achieve the vision of transparently leading the world to secure outcomes, the Security Division has nominated a [Security Culture Committee]({{< ref "security-culture" >}}).
 
-### Departmental Structure
+### Division Structure
+
+The Security Division provides essential security operational services, is directly engaged in the development and release processes, and offers consultative and advisory services to better enable the business to function while minimising risk.
+
+To reflect this, we have structured the Security Division around four key tenets, which drive the structure and the activities of our group. These are :
+
+- Secure the Product  - [Security Engineering Department]({{< ref "security-engineering" >}})
+- Protect the Company - [Security Operations Department]({{< ref "security-operations" >}})
+- Lead with Data      - [Threat Management Department]({{< ref "threat-management" >}})
+- Assure the Customer - [Security Assurance Department]({{< ref "security-assurance" >}})
 
 <table id="Sub-Departments">
   <tr>
@@ -146,175 +123,26 @@ To help achieve the vision of transparently leading the world to secure outcomes
 
 #### Secure the Product - Security Engineering
 
-The [Security Engineering]({{< ref "security-engineering" >}}) teams below are primarily focused on Securing the Product. This reflects the Security Department’s current efforts to be involved in the Application development and Release cycle for Security Releases, Security Research, our HackerOne bug bounty program, Security Automation, External Security Communications, and Vulnerability Management.
+The [Security Engineering]({{< ref "security-engineering" >}}) teams are primarily focused on Securing the Product. This reflects the Security Division's current efforts to be involved in the Application development and Release cycle for Security Releases, Security Research, our HackerOne bug bounty program, Security Automation, External Security Communications, and Vulnerability Management.
 
 The term “Product” is interpreted broadly and includes the GitLab application itself and all other integrations and code that is developed internally to support the GitLab application for the multi-tenant SaaS. Our responsibility is to ensure all aspects of GitLab that are exposed to customers or that host customer data are held to the highest security standards, and to be proactive and responsive to ensure world-class security in anything GitLab offers.
 
-##### Application Security
-
-[Application Security]({{< ref "./security-engineering/application-security" >}}) specialists work closely with development, product security PMs, and third-party groups (including paid bug bounty programs) to ensure pre and post deployment assessments are completed. Initiatives for this specialty also include:
-
-- Perform vulnerability management and be a subject matter expert (SME) for mitigation approaches
-- Support and evolve the bug bounty program
-- Conduct risk evaluation of GitLab product features
-- Conduct application security reviews, including code review and dynamic testing
-- Participate in initiatives to holistically address multiple vulnerabilities found in a functional area
-- Develop security training and socialize the material with internal development teams
-- Develop automated security testing to validate that secure coding best practices are being used
-- Facilitate preparation of both critical and regular security releases
-- Guide, advise, and assist product development teams as SMEs in the area of application security
-
-##### Infrastructure Security
-
-The [Infrastructure Security team]({{< ref "security-engineering/infrastructure-security" >}}) consists of cloud security specialists that serve as a stable counterpart to the [Infrastructure Department](https://about.gitlab.com/handbook/engineering/infrastructure) and their efforts. The team is focused on two key aspects of security:
-
-- The security of GitLab.com's infrastructure
-- The availability and scalability of Security's own infrastructure
-
-##### Security Logging
-
-The [Security Logging team]({{< ref "security-engineering/security-logging" >}}) is focused on guaranteeing that GitLab has the data coverage required to:
-
-- Perform the threat analysis, alerting and threat detections necessary to protect the company and its customers
-- Ensure compliance with internal policies, standards, and regulatory requirements.
-
-##### Security Automation
-
-[Security Automation]({{< ref "./security-engineering/automation.md" >}}) specialists help us scale by creating tools that perform common tasks automatically. Examples include building automated security issue triage and management, proactive vulnerability scanning, and defining security metrics for executive review. Initiatives for this specialty also include:
-
-- Assist other security specialty teams in their automation efforts
-- Assess security tools and integrate tools as needed
-- Define and own metrics and KPIs to determine the effectiveness of security programs
-- Define, implement, and monitor security measures to protect GitLab.com and company assets
-- Design, plan, and build new products or services to aid and improve security of the product and company
-
-##### Security External Communications
-
-The External Communications Team leads customer advocacy, engagement and communications in support of GitLab Security Team programs. Initiatives for this specialty include:
-
-- Increase engagement with the hacker community, including our public bug bounty program.
-- Build and manage a Security blogging program.
-- Develop social media content and campaigns, in collaboration with GitLab social media manager.
-- Manage security alert email notifications.
-- Collaborate with corporate marketing, PR, Community Advocates, and Developer Evangelism teams to help identify opportunities for the Security Team to increase industry recognition and thought leadership position.
 
 #### Protect the Company - Security Operations
 
-[Security Operations Sub-department]({{< ref "security-operations" >}}) teams are primarily focused on protecting GitLab the business and GitLab.com. This encompasses protecting company property as well as to prevent, detect and respond to risks and events targeting the business and GitLab.com. This sub department includes the Security Incident Response Team (SIRT), Trust and Safety team and Red team.
+[Security Operations Department]({{< ref "security-operations" >}}) teams are primarily focused on protecting GitLab the business and GitLab's platform. This encompasses protecting company property as well as to prevent, detect and respond to risks and events targeting the business and our platform. This department includes the Security Incident Response Team (SIRT) and the Trust and Safety team.
 
-These functions have the responsibility of shoring up and maintaining the security posture of GitLab.com to ensure enterprise-level security is in place to protect our new and existing customers.
+These functions have the responsibility of shoring up and maintaining the security posture of GitLab's platform to ensure enterprise-level security is in place to protect our new and existing customers.
 
-##### Security Incident Response Team
+#### Lead with Data - The Threat Management Department
 
-The [SIRT team]({{< ref "sirt" >}}) is here to manage security incidents across GitLab. These stem from events that originate from outside of our infrastructure, as well as those internal to GitLab. This is often a fast-paced and stressful environment where responding quickly and maintaining ones composure is critical.
+[Threat Management Department]({{< ref "threat-management" >}}) teams are cross-functional. They are responsible for collaborating across the Security Division to identify, communicate, and remediate threats or vulnerabilities that may impact GitLab, our Team Members or our users and the community at large.
 
-More than just being the first to acknowledge issues as they arise, SIRT is responsible for leading, designing, and implementing the strategic initiatives to grow the Detection and Response practices at GitLab. These initiatives include:
+#### Assure the Customer - The Security Assurance Department
 
-- Work with the internal and external partners to ingest logging and alerting into our centralized monitoring solution
-- Triage and analysis of alerting to determine validity, how to remediate and/or prevent incidents, then act accordingly
-- Coordinate localized or company-wide response to security incidents
-- Define and lead vulnerability management for GitLab Team Members and the production/pre-production environments as part of GitLab.com
-- Incorporate current security trends, advisories, publications, and academic research into our security practices
-- Deploy and maintain security monitoring and analysis solutions for GitLab the business and GitLab.com
+The [Security Assurance]({{< ref "security-assurance" >}}) Department is comprised of the teams noted above. They target Customer Assurance projects among their responsibilities. This reflects the need for us to provide resources to our customers to assure them of the security and safety of GitLab as an application to use within their organisation and as a enterprise-level SaaS. This also involves providing appropriate support, services and resources to customers so that they trust GitLab as a Secure Company, as a Secure Product, and Secure SaaS
 
-SIRT can be contacted on slack via our handle `@sirt-members` or in a GitLab issue using `@gitlab-com/gl-security/security-operations/sirt`. If your request requires immediate attention please review the steps for [engaging the security on-call]({{ ref "engaging-the-security-on-call }}).
 
-##### Trust and Safety
-
-[Trust & Safety]({{< ref "trustandsafety" >}}) specialists investigate and mitigate the malicious use of our systems, which is defined under Section 3 of the [GitLab Website Terms of Use](https://about.gitlab.com/terms/#gitlab_com). This activity primarily originates from inside our infrastructure.
-
-Initiatives for this specialty include:
-
-- Detection and mitigation of abusive activity on GitLab.com.
-- DMCA Notice and Counter-Notices processing.
-- Escalating potential abuse vectors to stakeholders for mitigation.
-- Research and prevention of trending abuse methodologies.
-
- For more information please see our [Resources Section]({{< ref "trustandsafety#trust--safety-resources" >}})
-
-***Code of Conduct Violations*** are [handled](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement) by the [Developer Relations Team](https://about.gitlab.com/handbook/marketing/developer-relations/). For more information on reporting these violations please see the [GitLab Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/) page.
-
-#### Lead with Data - The Threat Management Sub-department
-
-[Threat Management Sub-department]({{< ref "threat-management" >}}) teams are cross-functional. They are responsible for collaborating across the Security department to identify, communicate, and remediate threats or vulnerabilities that may impact GitLab, our Team Members or our users and the community at large.
-
-##### Red Team
-
-GitLab's internal [Red Team]({{< ref "./threat-management/red-team" >}}) emulates adversary activity to better GitLab’s enterprise and product security. This includes activities such as:
-
-- Performing exercises with SecOps to collaboratively and rapidly iterate on improving GitLab's security posture. These exercises will be referred to as purple team exercises merging blue (secops) and red teams together.
-- Performing exercises to reflect simulated adversarial attempts to compromise organizational mission/business functions and provide a comprehensive assessment of the security state of information systems and organizations.
-- Simulating adversarial attempts to compromise organizational missions/business functions and the information systems that support those missions/functions may include technology-focused attacks (e.g., interactions with hardware, software, or firmware components and/or mission/business processes) and social engineering-based attacks (e.g., interactions via email, telephone, shoulder surfing, or personal conversations).
-
-##### Security Research
-
-[Security Research]({{< ref "./threat-management/security-research" >}})
-team members focus on security problems that require a high level of expertise,
-and development of novel solutions.  This includes in-depth security testing
-against FOSS that is critical to GitLab, and development of new  security
-capabilities. Initiatives for this specialty include:
-
-- Vulnerability Research into tools and applications that are integrated with, or used at GitLab
-- Development of proof-of-concept code to demonstrate impact of security findings
-- Development and demonstration of novel defensive and offensive capabilities
-- Following [GitLab's responsible disclosure policy](https://about.gitlab.com/security/disclosure/#external) for third party disclosure
-- Sharing results widely through blog posts, conference talks, and participation in industry initiatives
-
-Security research specialists are subject matter experts (SMEs) with highly specialized security knowledge in specific areas, including reverse engineering, incident response, malware analysis, network protocol analysis, cryptography, and so on. They are often called upon to take on security tasks for other security team members as well as other departments when highly specialized security knowledge is needed. Initiatives for SMEs may include:
-
-- Security testing of electronics being used as swag by Marketing to be handed out at GitLab events
-- Network analysis and/or reverse engineering of a closed source application used with a third party SaaS app integration (e.g. iOS/Android app)
-- “Test” the guidelines outlined in a detailed step-by-step instructional document used in the configuration of an asset to ensure the asset is properly secured
-
-Security research specialists are often used to promote GitLab thought leadership by engaging as all-around security experts, to let the public know that GitLab doesn’t just understand DevSecOps or application security, but has a deep knowledge of the security landscape. This can include the following:
-
-- Submit security-related technical talks for presentations at security conferences as a GitLab team member
-- Handle security-related questions by the Marketing/PR teams in response to questions from the press, or even direct press interviews
-
-##### Security Threat & Vulnerability Management
-
-[Security Threat & Vulnerability Management]({{< ref "./threat-management/vulnerability-management" >}}) is responsible for the recurring process of identifying, classifying, prioritizing, mitigating, and remediating vulnerabilities. This process is designed to provide insight into our environments, leverage GitLab for vulnerability workflows, promote healthy patch management among other preventative best-practices, and remediate risk; all with the end goal to better secure our environments, our product, and the company as a whole.
-
-#### Assure the Customer - The Security Assurance Sub-department
-
-The [Security Assurance]({{< ref "security-assurance" >}}) sub-department is comprised of the teams below. They target Customer Assurance projects among their responsibilities. This reflects the need for us to provide resources to our customers to assure them of the security and safety of GitLab as an application to use within their organisation and as a enterprise-level SaaS. This also involves providing appropriate support, services and resources to customers so that they trust GitLab as a Secure Company, as a Secure Product, and Secure SaaS
-
-##### Field Security
-
-The Field Security team serves as the public representation of GitLab's internal Security function. We are tasked with providing high levels of security assurance to internal and external customer through the completion of Customer Assurance Activities, maintenance of Customer Assurance Collateral, and evangelism of Security Best Practices.
-
-Initiatives for this specialty include:
-
-- Facilitating [Customer Assurance activities]({{< ref "customer-security-assessment-process" >}}) including [The Trust Site](https://about.gitlab.com/security/) and [The Customer Assurance Package]({{< ref "customer-assurance-package" >}}).
-- Enabling the Sales organization through security training, collateral development, RFP maintenance and customer support
-- Evangelizing Security Best Practices to customers and internal teams
-- Managing customer security questions and escalating potential security issues to appropriate teams and drive to resolution
-
-##### Security Compliance
-
-Operating as a second line of defense, Security Compliance's core mission is to implement a best in class governance, risk and compliance program that encompasses SaaS, on-prem, and open source instances. Initiatives for this specialty include:
-
-- Maintaining a certification [roadmap](https://gitlab.com/groups/gitlab-com/gl-security/compliance/-/roadmap) based on customer needs *e.g.*
-    - FedRAMP
-    - ISO 27001
-    - [SOC 2]({{< ref "./security-assurance/security-compliance/certifications" >}})
-- Monitoring the adequacy and effectiveness of [GitLab security common controls]({{< ref "./security-assurance/security-compliance/sec-controls" >}}) and timely remediation of observations
-- Facilitating external certification audits to include timely remediation of observations
-    - Assisting Security leadership in developing processes and controls to manage risks and issues
-- Proposing compliance features for the GitLab product in order to help our customers more easily achieve their compliance goals
-
-For additional information about the Security Compliance program see the [Security Compliance team handbook page]({{< ref "./security-assurance/security-compliance" >}}) or refer to [GitLab's security controls]({{< ref "./security-assurance/security-compliance/sec-controls" >}}) for a detailed list of all compliance controls organized by control family.
-
-##### Security Risk
-
-We support GitLab's growth by effectively and appropriately identifying, tracking, and treating Security Operational and Third Party risks.
-
-Initiatives for this specialty include:
-
-- Maintaining a [Security Operational Risk Management program]({{< ref "./security-assurance/security-risk/storm-program" >}}), executing annual operational security risk assessments, and managing a consolidated security risk register.
-- Maintaining a [Third Party Risk Management program]({{< ref "./security-assurance/security-risk/third-party-risk-management" >}})
-
-It’s important to note that the three tenets do not operate independently of each other, and every team within the Security Department provides an important function to perform in order to progress these tenets. For example, Application Security may be strongly focused on Securing the Product, but it still has a strong focus around customer assurance and protecting the company in performing its functions. Similarly, Security Operations functions may be engaged on issues related to Product vulnerabilities, and the resolution path for this deeply involves improving the security of product features, as well as scoping customer impact and assisting in messaging to customers.
 
 #### Other groups and individuals
 
@@ -337,6 +165,33 @@ Security Architecture plans, designs, tests, implements, and maintains the secur
 
 - [Security Architecture]({{< ref "./architecture" >}})
 - [Security Architecture Review process]({{< ref "./architecture/review" >}})
+
+
+### FY23 Direction
+
+2021 was a productive and accomplished year for GitLab Security.  You can find the [many ways](https://about.gitlab.com/blog/2021/12/17/gitlab-security-twenty-twenty-one/) we made GitLab and our customers more secure in FY22.  In FY23 (Feb 2022 - Jan 2023) we will continue moving the security needle forward as we focus on increased involvement in product features, diversifying our certification roadmap, and increased visibility of our threat landscape.
+
+The [Security Assurance sub-department]({{< ref "security-assurance" >}}) continues to improve customer engagement and advance our SaaS security story.  Independent security validation (compliance reports and certifications) is a critical component to ensuring transparency and adequacy of our security practices. Current and prospective customers highly value independent attestations of security controls and rely on these to reaffirm security of the software and inherent protection of their data. FY22 saw expansion of GitLab’s SOC 2 report to include the Security and Confidentiality criteria along with achievement of GitLab very first ISO/IEC 27001 certification. In FY23 we will continue to grow GitLab’s certification portfolio through SOC and ISO expansion with an additional focus on compliance offerings geared towards heavily regulated markets like FIPS 140-2 and FedRAMP.   These audits will greatly expand our ability to reach new markets, attract new customers, increase contract values and make GitLab even more competitive in the enterprise space.  A heavy focus will be placed on tooling and automation in FY23 to enable our rapid growth.
+
+The [Security Engineering sub-department's]({{< ref "security-engineering" >}}) focus in FY23 will continue to be in the direction of a proactive security stature. Adoption of additional automation and key technology integrations will help further increase efficiency and effectiveness. After the shift left accomplished last year, our ability to detect and remediate risks pre-production has improved. Building on this capability, improving visibility and alerting on vulnerabilities detected as close to code development as possible will be a new focus. Continued maturity of our infrastructure security, log aggregation, alerting, and monitoring will build upon the increased infrastructure visibility and observability accomplished last year. All of this will contribute towards minimizing risk and exposure in a proactive manner.
+
+For FY23 the [Security Operations sub-department]({{< ref "security-operations" >}}) will be committed to a focus on anti-abuse and incident response process maturity. Using established maturity frameworks, the program will focus on utilizing existing technologies with new expanded datasets supported by refined processes resulting in faster time to triage and short time to remediate.  Additional focus on gaining a deeper understanding of security incidents, abuse, and causes will drive additional preventative practices. Altogether, this will result in fewer security incidents, less abuse, a more secure, and more reliable service for all GitLab users.
+
+Our newest sub-department, [Threat Management]({{< ref "threat-management" >}}):
+FY23 began with the creation of a new sub-department known as Threat and Vulnerability Management. This department will contain our Red Team, Security Research Team, and a newly formed Vulnerability Management team. While the focus of the Red Team and Vulnerability Research teams will not change, the newly formed Vulnerability Management team will take an iterative approach to better understanding and managing vulnerabilities across all of GitLab.
+Initially, Vulnerability Management will be very focused on implementing an initial process to better track and analyze cloud assets (GCP, AWS, Azure, DO)  for vulnerabilities.  Once this initial process is in place and being executed on we will begin expanding coverage to the GitLab product, specific business critical projects and other potential weaknesses. The overall goal of this team will be to create a holistic view of GitLab’s attack surface and ensure that the necessary attention is given to remediating issues.
+FY23 will also see the introduction of several new security teams.  In addition to the vulnerability management team mentioned above, we are also adding a Log Management team.  This team will report into the Security Engineering sub-department and will be responsible for creating a more holistic approach to log management, incident response, and forensic investigation.
+
+Lastly, we value the opinions and feedback of our team members and encourage them to submit ideas [handbook first](/handbook/company/culture/all-remote/handbook-first/) (directly to the handbook in the form of an MR).  We saw incredible gains in our culture amp survey results in FY22 and going forward we are committed to continuous improvement of our leadership team, team growth and development, and GitLab culture within the Security Department.
+
+{{% include "includes/we-are-also-product-development.md" %}}
+
+This topic is part of our [Engineering FY23 Direction](https://about.gitlab.com/handbook/engineering/#fy23-direction).
+
+-----
+
+
+
 
 -----
 
