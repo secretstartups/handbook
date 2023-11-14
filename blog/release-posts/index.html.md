@@ -1043,7 +1043,7 @@ the `stage_url` to the content block to override the default path:
 ```yml
 # Enablement
 stage: data_stores
-stage_url: '/handbook/engineering/development/enablement/'
+stage_url: '/handbook/engineering/infrastructure/core-platform/'
 
 # Growth
 stage: growth
