@@ -278,7 +278,7 @@ GitLab `master` has three QA pipelines generated from scheduled pipeline against
 
 If `review app` failed to deploy and all specs didn't run or did run and failed, check the `#review-apps-broken` channel to see if it's a known issue, or reach out to the [Engineering Productivity team](/handbook/engineering/quality/#engineering-productivity-structure). To debug further you can [dig into Kubernetes deployment logs](https://docs.gitlab.com/ee/development/testing_guide/review_apps.html#dig-into-a-pods-logs).
 
-If jobs in `package-and-test` failed due to a GitLab Docker image issue, reach out to the [Distribution team](https://about.gitlab.com/handbook/engineering/development/enablement/systems/distribution/) to see if it's a known problem with the build.
+If jobs in `package-and-test` failed due to a GitLab Docker image issue, reach out to the [Distribution team](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/distribution/) to see if it's a known problem with the build.
 
 If failures occur only in `test-on-gdk` jobs, it's possible to stop those jobs from being added to new pipelines while the cause is being fixed. See the [runbook](https://gitlab.com/gitlab-org/quality/runbooks/-/tree/main/test-on-gdk#disable-the-e2etest-on-gdk-pipeline) for details.
 
@@ -290,7 +290,7 @@ find what changes caused it and act on resolving the failure more quickly.
 This is triggered from the `dev` omnibus [pipeline schedule](https://dev.gitlab.org/gitlab/omnibus-gitlab/-/pipeline_schedules).
 It won't run when Nightly builds are paused. (See Special considerations for Nightly).
 
-It is a triggered Reference Architecture Tester pipeline that stands up an environment, runs the `full` suite against 5 parallel jobs, then tears the environment down. Reference Architecture Tester project is maintained by [Distribution team](https://about.gitlab.com/handbook/engineering/development/enablement/systems/distribution/). It stores scripts and configs that are used to build environments using [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/gitlab-environment-toolkit).
+It is a triggered Reference Architecture Tester pipeline that stands up an environment, runs the `full` suite against 5 parallel jobs, then tears the environment down. Reference Architecture Tester project is maintained by [Distribution team](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/distribution/). It stores scripts and configs that are used to build environments using [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/gitlab-environment-toolkit).
 
 Failures can be triaged as per any other pipeline. Note that as the environment is torn down, retrying QA jobs will fail as the endpoint is unreachable.
 
