@@ -31,7 +31,7 @@ GitLab Support has access to a GitLab Dedicated instance for testing and problem
 reproduction purposes. This instance can be accessed at the following URLs:
 
 - GitLab: https://dedicatedtestsandbox.gitlab-private.org/
-- OpenSearch: https://opensearch.dedicatedtestsandbox.gitlab-private.org/
+- OpenSearch: https://opensearch.dedicatedtestsandbox.gitlab-private.org/_dashboards/
 - Grafana: https://grafana.dedicatedtestsandbox.gitlab-private.org/
 
 To receive an invite, ask Armin, Brie, Matthew or Wei-Meng.
