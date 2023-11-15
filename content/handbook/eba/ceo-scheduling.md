@@ -5,7 +5,7 @@ title: "CEO Scheduling & Preferences"
 
 ## The CEO Support Team
 
-1. **[Stella Treas](/handbook/company/team/#streas) - Chief of Staff to the CEO**
+1. **Chief of Staff to the CEO**
     1. Cross-functional and multi-functional projects
 1. **EBA to the CEO**
     1. Board Meetings
