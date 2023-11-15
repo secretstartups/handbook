@@ -1185,6 +1185,8 @@ Only 90 days of Slack activity will be retained, so Slack should specifically NO
 
 Internal Slack messages between team members are still considered professional communication. Please do not use or add emoji's to Slack that are of a political, religious or of a sexual nature. You can refer to the [Religion and politics at work](/handbook/values/#religion-and-politics-at-work) section of the handbook. When in doubt do not use or add the emoji. If you have any concerns about an emoji that was used, please reach out to the author or if you are not comfortable doing so please reach out to your [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
 
+There is a lot of information pertaining to Slack, as it is a critical part of GitLab's communication. See the [Slack tools and tips page](/handbook/tools-and-tips/slack).
+
 ### General guidelines
 
 1. Everyone can contribute, and while opinions are important to provide perspective, we value [proposals](/handbook/values/#make-a-proposal) and [iteration](/handbook/values/#iteration). If the subject is of value to the wider community, consider commenting on an existing issue or opening a new [merge request](#start-with-a-merge-request) instead.
@@ -1288,37 +1290,6 @@ The following tips provide ways to work respectfully with others given this cont
   - Use `@channel` to notify *ALL* members in the room, irrespective of away status. Please only use `@channel` if the message is important *and* urgent.
 - If you are aware that your teammate is on vacation, avoid mentioning them in a high volume channel. It will be difficult to find the information or question when they return. If you need to ensure they refer back to the thread, ensure to send them a link to the relevant Slack message through a direct message.
 
-### Managing noise and creating focus in Slack
-
-Slack can be a disorderly place in its default state. Consider implementing the below to add structure and focus, but remember that there will likely be more useful information shared on Slack than you are able to ingest and process on a daily basis, regardless of your approach.
-
-While an intentional effort to organize is important, remember that [it's impossible to know everything](/handbook/values/#its-impossible-to-know-everything). As a team, we may spot information that is missed by others, and we should surface that information when pertinent as we strive to [see others succeed](/handbook/values/#see-others-succeed). For managing Slack channels, consider blocking a set period of time to review certain channels that makes the most sense for you (i.e. multiple times a day, daily, weekly).
-
-### Organizing your Slack sidebar by priority
-
-Consider using Slack's <b>[Starred channel](https://slack.com/help/articles/201331016-Star-channels-and-direct-messages)</b> function to spotlight three categories of channels, its <b>[Mute function](https://slack.com/help/articles/204411433-Mute-channels-and-direct-messages)</b> to quiet channels which are pulling your focus away too often, and most importantly, its **Mark all messages as read** function (easily toggled by pressing `Shift` and `Esc` simultaneously while on a desktop) to achieve an instantly clear slate.
-
-An example of three spotlight channels approach is below. Slack allows you to organize your sidebar of starred channels with <b>[custom sections](https://slack.com/help/articles/360043207674-Organize-your-sidebar-with-custom-sections)</b> to visibly raise or lower their priority level, giving you control over what you see first.
-
-1. Channels important to my job (e.g. a team member in Corporate Marketing may star `#marketing`, `#corp-mktg`, `#newswire`, `#external-comms`, `#website`, `#handbook`)
-1. Channels important to GitLab (e.g. `#company-fyi`, `#whats-happening-at-gitlab`, `#team-member-updates`, `#e-group`, `#ceo`, `#new-vacancies`)
-1. Channels important to my interests (e.g. `#travel`, `#remote`, `#daily-gratitude`, `#mental_health_aware`, `#intheparenthood`, `#women`, `#diversity_inclusion_and_belonging`)
-
-### Manage your Slack notifications
-
-Below are helpful links to best practices and tips on managing your notifications and reducing noise in Slack. We encourage you to regularly check your notification settings to ensure you get more notifications of what *is* important/relevant to you, and less of what *isn't*.
-
-- [Reduce noise in Slack](https://slack.com/intl/en-gb/help/articles/218551977-Reduce-noise-in-Slack)
-- [Configure Your Notifications](https://slack.com/intl/en-gb/help/articles/201355156-Guide-to-desktop-notifications#configure-your-notifications)
-- [Guide to Desktop Notifications](https://slack.com/intl/en-gb/help/articles/201355156-Guide-to-desktop-notifications#channel-specific-and-group-dm-notifications)
-- [Channel-specific and group DM Notifications](https://slack.com/intl/en-gb/help/articles/201355156-Guide-to-desktop-notifications#channel-specific-and-group-dm-notifications)
-- [Display only unread conversations](https://slack.com/help/articles/360043207674-Organize-your-sidebar-with-custom-sections-Organize-your-sidebar-with-custom-sections-Organize-your-sidebar-with-custom-sections#manage-conversation-display)
-- [GitLab team member Brendan O'leary on how he uses Slack](https://boleary.dev/blog/2020-05-27-how-i-slack.html)
-
-#### Set aside time to work through notifications
-
-Building dedicated time into your day can help minimize the distractions that Slack can create. Consider using a 15 or 30 minute block in your morning or afternoon to enjoy a cup of coffee and catch up on messages you might have missed. When the time you set comes to an end, close out of the Slack app and move on to your next project. Having a set end time can help you feel more in control, and serves as a reminder that [it's impossible to know everything](/handbook/values/#its-impossible-to-know-everything)
-
 ### Key Slack channels
 
 The alphabetically sorted starter list below spotlights a few of GitLab's [many Slack channels](/handbook/communication/chat/) in an effort to provide guidance to team members regarding the best places to ask specific questions and/or engage in discussion on a variety of topics. See Slack's [Help Center](https://slack.com/help/articles/205239967-Join-a-channel) for instructions on browsing all available channels.
@@ -1386,17 +1357,6 @@ If your question doesn’t relate to any of the above topics:
 - Once you receive an answer, document it in the handbook and post the MR link in your question thread
 - :heavy_check_mark: once you’ve been helped
 
-### Slackbots
-
-We have a few slackbots to help us with frequently asked questions and other slackbots that directly help us to remain inclusive in our language and align closely with our [Diversity, Inclusion and Belonging Value](/handbook/values/#diversity-inclusion).
-The following list is reflective of the ones we use for Diversity, Inclusion and Belonging and the suggested changes to use. This list is representative, not complete; terms will be added and removed as we iterate on the list.
-As a GitLab Team Member, you can view the active slackbots that we use in Slack, under: GitLab > Customize Your Workspace > Slackbot.
-
-| `hey guys, hi guys, you guys, salesman, salesmen, businessman, businessmen` | Are you including people of multiple genders? Please consider using "everyone," "team," "y'all," or similar instead. You can read [more about inclusive language in our handbook](/handbook/values/#inclusive-language--pronouns) |
-| `on your toes, on anybody's toes` | It's probably okay.<br><br>As companies grow, their speed of decision making goes down since there are more people involved. We should counteract that [by having short toes](/handbook/values/#short-toes), and feel comfortable letting others contribute to our domain. |
-| `aggressive` | Did you mean ambitious? |
-| `gitlabber, gitlabbers` | The term `gitlabber` is a commonly misused term. Please use "GitLab team member" instead. You can [read more about this in our handbook](/handbook/communication/top-misused-terms/) |
-
 #### When would GitLab use Corporate Export?
 
 The times this feature would be used would be to comply with certain obligations. Corporate Export must be enabled by Slack in accordance with Slack’s policy, which can be found [here](https://slack.com/help/articles/204897248-Guide-to-Slack-import-and-export-tools).
@@ -1410,17 +1370,6 @@ No. The Slack Workspace Owner has the ability to export data from all direct mes
 Please keep [GitLab values](/handbook/values/) in mind when communicating directly with other team members.
 If you have a confidential personal issue that you do not feel comfortable discussing via a business-provided internal communications tool, it is recommended to use a personal form of communication such as a text message or phone call.
 For additional questions, please address in the [issue](https://gitlab.com/gitlab-com/business-ops/change-management/issues/3).
-
-### Need to add a new app to Slack
-
-GitLab has chosen to restrict the ability to install apps, and we have a process to approve or restrict certain apps for our workspace. In order to add a new app to Slack, you need to create a [vendor approval issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=app_integrations). Once that's approved by all parties, please request approval to add the app to Slack:
-
-1. Make sure the app hasn't been pre-approved by our team by clicking on Apps in the left sidebar and find Available Apps. To find pre-approved apps in the App Directory, click Pre-Approved below Categories in the left column.
-1. If the app isn't pre-approved, you can click on Add to Slack.
-1. Add a custom message with more context about your request and also link the vendor approval issue.
-1. Click Submit. You'll receive a direct message from Slackbot when your request has been reviewed by the team.
-
-**Please note that this is only required for new apps that have not been reviewed or approved.** If your request is to add a new process or update an existing process for how an application works in slack, please refer to our [Business Technology Change Management](/handbook/business-technology/change-management/) process.
 
 ### Emergency chat
 
