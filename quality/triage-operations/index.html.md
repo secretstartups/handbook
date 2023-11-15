@@ -28,7 +28,7 @@ Our defect SLA can be viewed at:
 * [Severity labels](/handbook/engineering/quality/issue-triage/#severity)
 
 The Quality Engineering department employs a number of tools and automation in addition to manual intervention to help us achieve this goal.
-The work in this area can been seen in our department roadmap under [Triage](/handbook/engineering/quality/roadmap/#triage-track-roadmap-view) and [Measure](/handbook/engineering/quality/roadmap/#measure-track-roadmap-view) tracks of work.
+The work in this area can been seen in our department roadmap under [Triage](/handbook/engineering/infrastructure/test-platform/roadmap/#triage-track-roadmap-view) and [Measure](/handbook/engineering/infrastructure/test-platform/roadmap/#measure-track-roadmap-view) tracks of work.
 
 ## Label renaming
 
