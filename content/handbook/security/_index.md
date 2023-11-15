@@ -3,9 +3,8 @@ title: Security at GitLab
 description: "Security at GitLab"
 ---
 
-## Security Division
 
-### <i class="fas fa-rocket" id="biz-tech-icons"></i> Security Vision and Mission
+## <i class="fas fa-rocket" id="biz-tech-icons"></i> Security Vision and Mission
 
 Our vision is to transparently lead the world to secure outcomes.
 
