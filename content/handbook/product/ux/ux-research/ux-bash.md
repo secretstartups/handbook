@@ -27,7 +27,7 @@ Bashes are useful when [foundational research](https://about.gitlab.com/handbook
 - You can set specific goals for identifying usability issues, bugs, or feature enhancements (e.g., is the response time of an interaction fast enough).
 
 #### Step 2. Create a Bash Guideline Issue and Bash Slack Channel
-- A [Bash Guideline Issue](link to issue template) is designed to be the participant’s single source of truth for the Bash. It should include the objectives of the Bash, instructions on how to access the feature they are testing, instructions on how to deliver their feedback, and known problems that come up throughout the Bash. 
+- A [Bash Guideline Issue](https://gitlab.com/gitlab-org/ux-research/-/blob/master/.gitlab/issue_templates/UX%20Bash%20Template.md) is designed to be the participant’s single source of truth for the Bash. It should include the objectives of the Bash, instructions on how to access the feature they are testing, instructions on how to deliver their feedback, and known problems that come up throughout the Bash. 
    - Example: https://gitlab.com/gitlab-org/ux-research/-/issues/2682 
 - Create a dedicated private Slack channel for your Bash (ex. #duo_chat_bash_oct24). This allows participants to collaborate and seek clarification during the Bash. It is best practice to include the Bash Guideline Issue and your data collection mechanism as Bookmarks in the Slack channel.
 
