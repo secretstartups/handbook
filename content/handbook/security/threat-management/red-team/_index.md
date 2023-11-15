@@ -101,13 +101,25 @@ The following issue boards provide a consolidated view of these recommendations.
 
 We will not measure our team's performance based on simply counting the number of recommendations over a specific time period. Instead, we will try to understand how the recommendations ultimately impact the organization and what we can do to become a more effective Red Team.
 
-#### MITRE ATT&CK Heatmap Coverage
+#### MITRE ATT&CK Mapping
 
-We use MITRE's "[ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator)" to generate heatmaps of each completed operation. This is done automatically using CI pipelines and GitLab Pages to host the output. Each operation will have an individual heatmap, and a single combined heatmap will be generated that overlays all previous operations.
+[MITRE ATT&CK](https://attack.mitre.org) is a framework for classifying and describing cyber attacks. We use ATT&CK extensively, as it helps us to align our operations to realistic threats and to speak a common language across security groups.
 
-This is great way to visualize the types of attack techniques we've emulated, and to help us understand areas we should focus on in future operations.
+We use a combination of GitLab CI and GitLab pages to build and host two reporting tools from MITRE:
 
-GitLab team members can [access the application](https://navigator.gl-redteam.com/) as well as [the project that builds it](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-internal/automation/ci-attack-navigator).
+- [MITRE ATT&CK Flow](https://github.com/center-for-threat-informed-defense/attack-flow)
+  - [Our internal automation project](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-internal/automation/ci-attack-flow)
+  - [Our internal build](https://flow.gl-redteam.com/)
+- [MITRE ATT&CK Navigator](https://github.com/center-for-threat-informed-defense/attack-navigator)
+  - [Our internal automation project](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-internal/automation/ci-attack-navigator)
+  - [Our internal build](https://navigator.gl-redteam.com/)
+  - [Public blog describing the project](https://about.gitlab.com/blog/2023/08/09/gitlab-mitre-attack-navigator/)
+
+For each completed operation, we build a flow chart to visualize the attack path and indicators of compromise. This chart can be exported as a [STIX 2.1 compliant](https://center-for-threat-informed-defense.github.io/attack-flow/language/) JSON file, meaning it is machine-readable and can be imported into other tools for analysis.
+
+That same ATT&CK Flow file is imported into our ATT&CK Navigator project, which generates a heatmap visualizing our coverage across the ATT&CK matrix. We maintain a single heatmap for each operation, as well as a combined heatmap for all previous operations.
+
+This is s great way to visualize the types of attack techniques we've emulated, and to help us understand areas we should focus on in future operations.
 
 #### Red Team Maturity Model
 
