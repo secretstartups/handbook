@@ -36,13 +36,7 @@ This is why the program is worth the extra overhead for the CEO and [EBA team]({
 
 ### Naming of the program
 
-For now, this role is called a [CEO shadow](https://feld.com/archives/2015/03/ceo-shadowing.html) to make it clear to external people why a shadow is in a meeting.
-
-Other names considered:
-
-1. Technical assistant: This title could be mixed up with the [executive assistant]({{< ref executive-business-administrator >}}) role. ["In 2003, Mr. Bezos picked Mr. Jassy to be his technical assistant, a role that entailed shadowing the Amazon CEO in all of his weekly meetings and acting as a kind of chief of staff."](https://www.theinformation.com/articles/amazons-cloud-king-inside-the-world-of-andy-jassy).
-1. Chief of Staff to the CEO: This commonly is the ["coordinator of the supporting staff"](https://en.wikipedia.org/wiki/Chief_of_staff) which is not the case for this role since people rotate out of it frequently.
-1. [Global Leadership Shadow Program:](https://www2.deloitte.com/gr/en/pages/careers/articles/leadership-shadow-program.html) This is too long if only the CEO is shadowed.
+This role is called a [CEO shadow](https://feld.com/archives/2015/03/ceo-shadowing.html) to make it clear to external people why a shadow is in a meeting.
 
 ### About the CEO Shadow Program
 
@@ -95,9 +89,9 @@ All GitLab team members are eligible to apply for the CEO Shadow Program.
 
 Exceptions to eligibility:
 
-CEO Shadow rotations will be reserved for [All-Directs](/handbook/company/team/structure/#all-directs) during the week of [E-Group Offsites](/handbook/company/offsite/#schedule). An exception will be made if there is last minute availability as two All-Directs are not available to serve in this role during this window.
+CEO Shadow rotations will be reserved for [Functional Leaders](/company/structure/#functional-leaders) during the week of [E-Group Offsites](/handbook/company/offsite/#schedule). An exception will be made if there is last minute availability as two All-Directs are not available to serve in this role during this window.
 
-**COVID-19 Note:** During this time, all shadow rotations are fully remote.
+**Note:** At this time, all shadow rotations are fully remote.
 Given the CEO generally works from 8 a.m. to 6 p.m. Pacific,
 it's best for remote shadows to be in Pacific, Mountain, or Central time zones.
 Other time zones will be considered on a case-by-case basis.
@@ -176,7 +170,6 @@ If you have questions regarding the planned rotation schedule, please ping the [
 ### What to wear
 
 You **do not need to dress formally**; business casual clothes are appropriate. For example, Sid wears a button-up with jeans most days. GitLab shirts are acceptable when there aren't any external meetings. Review Sid's calendar to check if there are formal occasions - this may require different clothing. If unsure, please ask the CoS to the CEO in the `#ceo-shadow` Slack channel.
-Make sure to bring comfortable shoes with you to Mission Control any time there are meetings in the city. Wear whatever you are comfortable in, keeping in mind that Sid prefers to walk, even if his calendar says Uber.
 
 ### Pre-Program Tasks
 
@@ -249,10 +242,9 @@ If you're not familiar with some of the business acronyms, take a bit of time to
 
 ![GitLab all-remote mentor](https://about.gitlab.com/images/all-remote/ceo-shadow-gitlab-awesomeness.jpg)
 
-The CEO Shadow Program is temporarily fully remote because of COVID-19 [travel restrictions](#travel-guidance-covid-19).
 The shadows will participate in all meetings from their usual work environment.
 
-While remote shadows won't get to work from Mission Control or attend in-person meetings with the CEO, they will still get an immersive experience through the program. A remote rotation may also be an ideal opportunity for a team member who has been unable to travel for an in-person rotation in the past.
+Rmote shadows get an immersive experience through the program. A remote rotation may also be an ideal opportunity for a team member who has been unable to travel for an in-person rotation in the past.
 
 For insights on maximizing a remote CEO Shadow rotation, view takeaway recap videos from [Betsy](https://youtu.be/DGJCuMVp6FM) (Talent Brand Manager) and [Darren](https://youtu.be/4yhtYcOZn3w) (Head of Remote), as well as Darren's [blog](https://about.gitlab.com/blog/2020/05/22/gitlab-remote-ceo-shadow-takeaways/).
 
@@ -261,7 +253,7 @@ For insights on maximizing a remote CEO Shadow rotation, view takeaway recap vid
 1. Be sure that you have an [ergonomic workspace](/handbook/company/culture/all-remote/workspace/). You'll be taking lots of notes during meetings, and will want a comfortable setup.
 1. Communicate clearly with your co-shadow about shared tasks since you will not be working together in person.
 1. Consider alternating who leads note-taking from one meeting to the next, which reduces confusion on who writes first and who follows from one event to the next.
-1. Take breaks from your desk when there is a break in the CEO's schedule. Because you're not working from Mission Control or traveling to other meetings with the CEO, it's important to take time to [move around.](/handbook/company/culture/all-remote/tips/#dedicate-time-for-health-and-fitness)
+1. Take breaks from your desk when there is a break in the CEO's schedule. It's important to take time to [move around.](/handbook/company/culture/all-remote/tips/#dedicate-time-for-health-and-fitness)
 1. Depending on your time zone, working in Pacific Time may be an adjustment to your typical working hours. [Plan ahead,](/handbook/company/culture/all-remote/getting-started/#establish-routine-with-family-and-friends) especially if you're balancing responsibilities with family, pets, roommates, etc.
 1. Consider switching locations in your home or workspace during the CEO's 1:1 meetings. Since you [won't be taking active notes](#responsibilities) in these calls, this is a good opportunity to change position or scenery intermittently throughout the day.
 1. Particularly in a remote CEO Shadow rotation, life is more available to sidetrack you. It is OK if you need to drop from a meeting to handle tasks at home, from childcare to answering the door, or anything in between. GitLab puts [family and friends first, work second]({{< ref "values#family-and-friends-first-work-second" >}}). If feasible, communicate these instances in the `#ceo-shadow` Slack channel so your co-shadow can assist with ongoing note-taking/tasks.
@@ -300,13 +292,6 @@ Of course, you'll also attend meetings that the CEO attends. During meetings, yo
     - `3`: Engagement was neither positive, nor negative. Reactions were neutral
     - `4`: was engaged, reactions were mostly positive
     - `5`: was highly engaged, reactions were authentically positive
-
-In-person only:
-
-1. Ensure visual aids and presentations are visible to guests during in-person meetings.
-1. Prepare for and receive guests at Mission Control.
-1. Offer GitLab swag to guests at Mission Control before they leave.
-1. Answer the phone and door at Mission control.
 
 #### Collecting and managing tasks
 
@@ -565,7 +550,6 @@ If Sid records a video to the cloud in a meeting it will eventually end up being
 
 When attending events with the CEO, keep the following in mind:
 
-1. Remind the CEO to bring extra business cards before leaving. And bring a few for yourself.
 1. The CEO has outlined his [transport preferences]({{< ref "ceo#transport" >}}).
 1. When traveling to events in the Bay Area by car, the CEO will request the ride sharing service.
 1. When traveling to events on foot, CEO shadows should take responsibility for navigating to the event.
@@ -642,10 +626,6 @@ If your CEO shadow rotation is two consecutive weeks, it is expected you will be
 
 Airfare can be booked according to our [travel policy](/handbook/travel/) or [spending company money](/handbook/spending-company-money/) policy.
 In case your shadow rotation includes time without shadowing, it is possible to expense airfare to fly home and back within the continental USA. If you are from outside of the USA, it is also possible to expense airfare during the time without shadowing because of the possible high cost of lodging in San Francisco if you chose to stay at a different location.
-
-##### Rideshare from airport
-
-At San Francisco International airport (SFO), all rideshare apps (Uber, Lyft, etc) pick up on level 5 of the parking structure. When coordinating travel from SFO to Mission Control with other Shadows, GitLab team members, or Sid, arranging to meet on level 5 of the parking structure is most efficient, as each terminal has its own baggage claim area.
 
 #### Meals
 
