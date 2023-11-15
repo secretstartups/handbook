@@ -67,26 +67,26 @@ In September 2021, the Company’s board of directors and its stockholders appro
 1. Must be actively employed at the beginning of the Offering Period to enroll
 1. Must be actively employed on the last date of the Purchase Period to be able to purchase
 1. Eligible ESPP GitLab Entities
-  - Canada Corp (Canada)
-  - GmbH (Germany)
-  - BV (Netherlands/Belgium/Finland)
-  - Inc. & Federal (United States)
-  - Ltd (United Kingdom)
-  - PTY Ltd (Australia/New Zealand)
-  - Ireland Ltd (Ireland) - as of 2023-06-01
-  - BV (Finland)  - as of 2023-06-01
+   - Canada Corp (Canada)
+   - GmbH (Germany)
+   - BV (Netherlands/Belgium/Finland)
+   - Inc. & Federal (United States)
+   - Ltd (United Kingdom)
+   - PTY Ltd (Australia/New Zealand)
+   - Ireland Ltd (Ireland) - as of 2023-06-01
+   - BV (Finland)  - as of 2023-06-01
 1. Changing Contribution Amounts
-  - Contribution increases and decreases are limited during Offering and Purchase Periods
-  - Increases: Team members may not increase their contributions after the Offering Period begins.
-  - Decreases: Team Members  may decrease their contribution rates once during any Offering Period.
+   - Contribution increases and decreases are limited during Offering and Purchase Periods
+   - Increases: Team members may not increase their contributions after the Offering Period begins.
+   - Decreases: Team Members  may decrease their contribution rates once during any Offering Period.
 1. Stop Contributions
-  - Team members may reduce their contribution to 0% during an offering period.
-  - Any prior contributions will be used to purchase shares on the scheduled purchase date.
-  - At the end of the offering period, the team member will be automatically withdrawn from the offering period effective as of the day after the purchase date following the date of the request.
-  - Team members would need to re-enroll as a new participant in the next open enrollment window and begin a new Offering Period  if they wish to participate in the future.
+   - Team members may reduce their contribution to 0% during an offering period.
+   - Any prior contributions will be used to purchase shares on the scheduled purchase date.
+   - At the end of the offering period, the team member will be automatically withdrawn from the offering period effective as of the day after the purchase date following the date of the request.
+   - Team members would need to re-enroll as a new participant in the next open enrollment window and begin a new Offering Period  if they wish to participate in the future.
 1. Withdrawals
-  - Team members may withdraw from the ESPP at any time and receive a refund of their withheld contributions. The refunds are processed through Payroll.
-  - Team members who withdraw would need to re-enroll in order to participate in future Offering Periods.
+   - Team members may withdraw from the ESPP at any time and receive a refund of their withheld contributions. The refunds are processed through Payroll.
+   - Team members who withdraw would need to re-enroll in order to participate in future Offering Periods.
 
 Details on eligibility, enrollment, calculations, pricing and dollar value can be found at [ESPP Training Deck](https://docs.google.com/presentation/d/1X_IcuK8ORiQg_nsi1km6c9_Ewbv5FD1bdnO06C-snV8/edit#slide=id.gede224808f_0_39)
 
