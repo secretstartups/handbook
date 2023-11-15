@@ -20,7 +20,7 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 
 ### Audit Committee Earnings Meeting Calendar
 
-### Disclaimer - We anticipate covering the following topics and additional topics will be added as needed. The frequency will be changed as needed.
+### Disclaimer - We anticipate covering the following topics and additional topics will be added as needed. The frequency may also change as needed.
 
 #### Accounting and Reporting
 
@@ -108,7 +108,7 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 | 6 |Stat Audit Update                                     |Annual |     |    |  X  |     |     |
 | 7 |Audit Committee Calendar Review                       |Annual |     |    |     |  X  |     |
 | 8 |Organization Overviews - Accounting, Finance, Tax, FP&A, Investor Relations                                             |Semi Annual |     | X  |     |  X  |     |
-| 9 |Insurance Coverage Update                          |As needed |     | X   |     |     |  X  |
+| 9 |Insurance Coverage Update                          |As needed |     |     | X  |     |  X  |
 |10 |Stock Transactions                                 |As needed |     |    |     |     |  X  |
 |11 |Tax Audits and Assessments/Closing Agreements      |As needed |     |    |     |     |  X  |
 |12 |Attrition                                          |As needed |     |    |     |     |  X  |
