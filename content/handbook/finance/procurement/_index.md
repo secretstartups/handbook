@@ -105,31 +105,34 @@ For each of the above, if a cancellation is desired (which include terminations 
 
 Upcoming terminations/non-renewals should be discussed with Procurement during the Quarterly Category Spotlight meetings that Procurement holds with category leads/budget owners. As Procurement is made aware of upcoming cancellations during these meetings, Procurement will review on a quarterly basis any known cancellations with Legal to ensure notification requirements are met. Procurement and Legal will then work with the business owner on completing the above process. If a cancellation is determined outside of this quarterly cadence, notify your Procurement Category Manager and complete the above process as soon as possible.
 
-## <i class="fas fa-stream" id="biz-tech-icons"></i> How do I start the Procurement Process?
+## The Procurement Process
+Anytime a group of suppliers are being evaluated for services/goods or a purchase is being made on behalf of GitLab that does not qualify as a [personal expense](https://about.gitlab.com/handbook/finance/expenses/) or meet the list of [exceptions](#what-are-the-exceptions-to-the-po-policy), Procurement must be engaged BEFORE a purchase and/or work can begin. Start the Procurement Process
 
-- Before agreeing to any business, legal and/or pricing terms with a supplier, whether in conversation or email
-- Immediately when you receive a contract and/or quote for new and/or recurring business
+1. Before agreeing to any business, legal and/or pricing terms with a supplier, whether in conversation or email
+2. Immediately when you receive a contract and/or quote for new and/or recurring business
     - If you have received a contract from a supplier, tell them you will send to your procurement team for review
-- When you have narrowed down your RFP to the final 1-2 suppliers
-- Create a Purchase Request in Zip
-- If unsure where to begin, tag the @procurement_team in the #procurement slack channel
+3. When evaluating a group of suppliers and/or starting the [RFP Process](https://internal.gitlab.com/handbook/finance/procurement/)
+4. If unsure where or when to begin, tag the @procurement_team in the #procurement slack channel for support. You can also reach out to your [Procurement Category Manager](#procurement-team-alignment) directly.
 
-## <i class="fas fa-stream" id="biz-tech-icons"></i>  When does procurement negotiate my contract and how long does that take?
+### How to start the Procurement Process
+Majority of the Procurement Process lives within our Procurement system called Zip. You can access Zip via your [Okta home page](https://gitlab.okta.com/app/UserHome#), or if you need Zip access, [submit an access request here](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request&_gl=1*bsfkbc*_ga*MzkwMDUyMjg5LjE2MzU3NzYxMDA.*_ga_ENFH3X7M5Y*MTY3NzYyMDEwMi4xMzkuMS4xNjc3NjIwOTc3LjAuMC4w).
 
-- The procurement team negotiates SaaS contracts >$25K, and one-time contracts > $100K.
-- Plan on the negotiation, review and approval cycle to take 3-4 weeks. Large and/or complex contracts can take longer to negotiate and finalize.
-- If this step is not taken, purchase orders will not be approved until procurement is able to negotiate.
+For more Zip training materials, review the [Zip End Users Guide](/handbook/business-technology/enterprise-applications/guides/zip-guide/) and the [Tips for Submitting a Zip Request page]().
 
-## <i class="fas fa-stream" id="biz-tech-icons"></i> How do I create a Purchase Request in Zip?
-
-If purchasing Home Office Equipment and/or Software for your individual work use <$5K USD, see [Other Services Process](#-what-are-other-services-procurement-supports) since a Zip Purchase Request is not required in these instances.
-
-### Step 1: Obtain Zip Access
-
-1. Login to Zip via your [Okta home page](https://gitlab.okta.com/app/UserHome#).
-1. If you need Zip access, [submit an access request here](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request&_gl=1*bsfkbc*_ga*MzkwMDUyMjg5LjE2MzU3NzYxMDA.*_ga_ENFH3X7M5Y*MTY3NzYyMDEwMi4xMzkuMS4xNjc3NjIwOTc3LjAuMC4w).
-1. Review Zip training materials:
-    - [Zip End Users Guide](/handbook/business-technology/enterprise-applications/guides/zip-guide/)
+Depending on a few factors of your purchase, there are different ways to engage Procurement and start the Procurement process:
+1. Submit a Zip Request for
+   1. [Purchase Requests for renewals of existing vendor's services](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/#how-to-initiate-a-new-request)
+   2. [Purchase Requests for new spend **under $25k**](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/#how-to-initiate-a-new-request)
+   3. [Change Requests to existing POs](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/#how-to-do-a-request-change)
+   4. [$0 contract reviews including demos and trials](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/#how-to-request-a-signature-on-a-poc-agreement)
+   5. Partner Revenue Payments
+   6. [Individual Use Software](https://about.gitlab.com/handbook/finance/procurement/personal-use-software/)
+   7. [Providing Termination or Non-Renewal Notice](https://about.gitlab.com/handbook/finance/procurement/#6-cancellation)
+2. For new spend, changing vendors for existing services, or after 3 years of renewing a service, follow the [RFP Process](https://internal.gitlab.com/handbook/finance/procurement/)
+   1. Over $250K: Procurement led RFP, typically 5+ vendor bids
+   2. $100K - $250K: Business led RFP, 2-3 vendor bids required
+   3. $25K - $100K: Business led quick-bid, 2 vendor bids required
+   4. Under $25K: no bid required
 
 ### Step 2: Submit your Zip Request
 
