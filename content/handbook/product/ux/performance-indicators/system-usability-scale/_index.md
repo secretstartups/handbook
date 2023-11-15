@@ -1,14 +1,7 @@
 ---
-
 title: "System Usability Scale"
 description: "The System Usability Scale (SUS) is a performance indicator we use to measure the long term usability of our product."
 ---
-
-##
-
-
-
-
 
 The [System Usability Scale](https://measuringu.com/sus/) (SUS) is a standardized metric used to measure usability perception of computer interfaces. Our current and past SUS scores can be found in the [UX Department Performance Indicators](/handbook/product/ux/performance-indicators/#system-usability-scale-sus-score).
 

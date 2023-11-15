@@ -1,16 +1,7 @@
 ---
-
 title: "Experimentation for the User Experience Team"
 description: "How to plan, design and evaluate experiments"
 ---
-
-
-
-
-
-
-
-# Experimentation for the User Experience Team
 
 *Ever wonder if we do AB Testing, aka Experiments?*
 
@@ -57,14 +48,12 @@ Much of the product design process for Growth will remain familiar, but there ar
 - We always want to have a well-written experiment before we start designing. The minimum required should be the hypothesis, the business problem, whether there's any supporting data, and what is the expected outcome. To help you get started, use the [Experiment Idea issue template](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experiment%20Idea).
 - A north star metric, combined with the vision of the user experience is what should be driving most, if not all experiments. To get there, a designer should establish a UX strategy in collaboration with their product manager. Examples of such UX strategies can be seen [here](https://app.mural.co/t/gitlab2474/m/gitlab2474/1606981641280/762004a62acea8d9eb9c5d5e8cfe9019a8da9090?sender=mlatin2224) and [here](https://app.mural.co/t/gitlab2474/m/gitlab2474/1625560041539/678d82736b27f974b8fe238115622781cce86110?sender=mlatin2224).
 
-
 ## Do experiments replace user research?
 
 No, they don't. This is because experiments tell us *what* is happening while user research can tell us *why* something is happening. We do both problem and solution validation research in Growth. Here are examples of things we might ask:
 - For problem validation, we might want to understand what users are looking to learn during a trial. Insights from this kind of research could inform both UX improvements and experiment ideas.
 - For solution validation, we might run a usability study on a big bet. We also run usability studies on key flows every quarter or so, in order to get qualitative feedback on our launched experiments.
 - Sometimes experiments are inconclusive, or surprising because they don't match what we expected. When this happens, we'll conduct user research to find out the 'Why'.
-
 
 ## Crafting a good experiment starts with a good hypothesis
 
@@ -79,16 +68,13 @@ If you want to impact trailing metrics in addition to an initial metric, make th
     - Hypothesis: We think that adding a koala image to the page will increase clicks by 10%.
     - Conclusion: Adding a koala image to the page resulted in clicks increasing by 12.4%, at a 97% significance.
 
-
 ## Picking the right metrics
 
 TBD
 
-
-
 ## Things to watch out for
 
-Experimenation is an awesome way to improve your product. There are a lot of considerations though, so think through your goals and constraints to ensure it's the right approach.
+Experimentation is an awesome way to improve your product. There are a lot of considerations though, so think through your goals and constraints to ensure it's the right approach.
 
 - Launching experiments may cause delays compared to just introducing a change. These delays may be caused by additional engineering work in order to launch experiments, longer times to reach statistical significance, lack of experience with them in teams outside of Growth.
 - If your team hasn't experimented yet, ask for guidance from Growth. Reaching out to [product designers](/handbook/company/team/?department=growth-ux-team) should be your first step. They'll be able to help, or connect you with people that can help with data analysis, technical challenges of launching experiments, avoiding result misinterpretation, and make sure that your experiments don't test too many things at once.

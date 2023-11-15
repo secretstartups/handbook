@@ -1,14 +1,7 @@
 ---
-
 title: "Designing your survey"
 description: "A list of tips to consider when designing your UX research survey."
 ---
-
-
-
-
-
-
 
 Designing a survey isn’t easy.  It requires thoughtful planning to make sure the flow of the survey is easy to follow, the questions are clear to the respondent, and that the output will yield accurate data.
 
@@ -16,10 +9,9 @@ Here are some of the more important tips to consider when designing a survey:
 
 1. **Only include survey questions that directly relate to your research questions.** It can be exciting to learn about your users and survey writers have a tendency to include questions that they are curious about, but that won’t impact their product decisions or planning directly. Best practice is to start with a planning table where you list your research questions in one column, the survey questions that you’ll use to answer your research questions in another one, and what you plan to do with your data in a third column. This will help you to think through whether or not your questions are nice-to-have or necessary in order for you to answer your research questions.
 1. **Ensure the questions are clear and cannot be easily confused.** Since surveys are unmoderated, you won’t be there to provide clarification.  That means that your survey and accompanying questions need to be simple and clear to your respondents.  A great way to determine this is by piloting a survey through [UserTesting.com](/handbook/product/ux/ux-research/unmoderated-testing/), where you can watch respondents think aloud while taking your survey. It’s also ok to provide definitions to terms when it makes sense.
-1. **Use neutral language.** Avoid positively or negatively worded questions to reduce any bias in your results. You’ll be surprised how easy it can be to inadvertently write your questions as leading.  
+1. **Use neutral language.** Avoid positively or negatively worded questions to reduce any bias in your results. You’ll be surprised how easy it can be to inadvertently write your questions as leading.
 1. **Make sure each question covers a single topic.** Avoid [double-barreled questions](https://www.qualtrics.com/experience-management/research/double-barreled-question/) by breaking out questions that are really 2+ questions in 1. Not only are double-barreled questions difficult to answer for respondents, they’re hard to analyze and act upon.
 1. **Use standard survey questions.** Luckily, surveys have been around for quite some time, resulting in standardized questions that are commonly used in the industry.  Examples include [Net Promoter Score](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/nps-csat-scores/), [System Usability Scale](/handbook/product/ux/performance-indicators/system-usability-scale/), etc.  Before spending time designing a survey, check to see if there are standardized survey questions available that may help in answering your research questions. If so, use those rather than reinventing the wheel.
-
 1. **Avoid too many open-ended questions.** While you may be tempted to ask many open-ended questions within a survey, there are some factors to consider:
      - **Limited detailed data** - The data you obtain through open-ended questions may result in limited detail, and it certainly won’t be as rich as data obtained from a user interview. In short, respondents sometimes aren’t willing to go into detail when typing out responses.
      - **Left with more questions than answers** - Related to the above, you may not end up with the answers you’re looking for if you rely on open-ended survey questions to answer complex research questions.
@@ -35,4 +27,3 @@ Here are some of the more important tips to consider when designing a survey:
 1. **Give respondents options that feel right.** For multiple-choice questions, provide a way for respondents to answer with ‘other’ or ‘not applicable’.  This is so you don’t force respondents to answer a question inaccurately, which can result in inaccurate data.  A bonus: you may learn something about your respondents if you see a significant amount of them answering with ‘other’ or ‘not applicable’.
 1. **Keep it short.** Respondents tend to complete shorter surveys faster than longer surveys. If your survey is more than 20 questions, it’s probably too long. It’s strongly advised to keep the scope of the survey to only answer the research questions, and eliminate any ‘nice-to-have’ questions. You’ll be surprised at how often ‘nice-to-have’ questions will try to make their way into your survey.  If you don’t have an immediate need for the data of a given survey question, eliminate it. You’ll save yourself a lot of time in the analysis, too.
 1. **Let respondents know how much is left.** It’s important to let respondents know how much of the survey is left to complete. You can do this by showing a progress meter or a percent complete indicator that’s already built into the survey tool you use.
-

@@ -4,16 +4,6 @@ title: "Product Design Manager Workflows"
 description: "We support the business of GitLab by becoming experts in our stage group, educating ourselves about the entire product, and staying engaged with user and business goals. This page contains workflows specifix to Product Design Managers"
 ---
 
-
-
-
-
-
-
-
-
-# Product Design Manager Workflows
-
 ## Requesting a borrow
 
 A [borrow](/handbook/product/product-processes/#borrow) is used when a team member is shifted from one team to another temporarily or assisting other teams part-time for an agreed-upon period of time.
@@ -27,7 +17,6 @@ Before a borrow takes place, make sure to have it approved by the appropriate di
 
 Utilizing these issues will help us understand the frequency and duration of borrows throughout the year. Tracking occurs by appending the `UX Borrow` label to each issue request.
 
-
 ## Team Skills Matrix
 
 We conduct an annual team skills analysis based on a [process recommended by Nielsen-Norman](https://www.nngroup.com/articles/skill-mapping/).
@@ -37,14 +26,14 @@ This allows us to see our strengths as a team and to identify team trainings tha
 #### How to conduct the team assessment
 
 1. Make a copy of the [GitLab focused template (private to GitLab)](https://docs.google.com/spreadsheets/d/1mN8Shag6X7xpikxnoJYm-IfWbuhgGe9pRiFm_SvCDD4/edit#gid=0).
-2. Review the template to make sure it still makes sense for your team. Do consider changes carefully and discuss with other managers. We want to be able to have consistency in these so we can view them across multiple design teams.
-3. Introduce this process to your team by sharing this page, the NN article and the GitLab focused template.
-3. Copy the template for each individual team member and share it with them.
-4. In 1:1s, have a casual conversation with the team member and ask them to rate themselves in their individual file. You may suggest adjustments based on your observations - if you do, share an example of why.
-4. After completed the assessment with each team member, copy the results to the main team template. I kept this file private.
-5. Create an issue similar to [#1674](https://gitlab.com/gitlab-org/gitlab-design/-/issues/1674) to share the results. You can remove individual names from this view.
-5. Have a retrospective with your team to identify strengths and weaknesses. Find things to build up the weaknesses (where people have said they want to improve).
-5. Share with other UX leaders.
+1. Review the template to make sure it still makes sense for your team. Do consider changes carefully and discuss with other managers. We want to be able to have consistency in these so we can view them across multiple design teams.
+1. Introduce this process to your team by sharing this page, the NN article and the GitLab focused template.
+1. Copy the template for each individual team member and share it with them.
+1. In 1:1s, have a casual conversation with the team member and ask them to rate themselves in their individual file. You may suggest adjustments based on your observations - if you do, share an example of why.
+1. After completed the assessment with each team member, copy the results to the main team template. I kept this file private.
+1. Create an issue similar to [#1674](https://gitlab.com/gitlab-org/gitlab-design/-/issues/1674) to share the results. You can remove individual names from this view.
+1. Have a retrospective with your team to identify strengths and weaknesses. Find things to build up the weaknesses (where people have said they want to improve).
+1. Share with other UX leaders.
 
 
 #### Definitions
@@ -53,12 +42,12 @@ Note: These are also in the template, which is the SSOT.
 
 ##### Levels
 
-0. Awareness: You are aware of the competency but are unable to perform tasks.
+1. Awareness: You are aware of the competency but are unable to perform tasks.
 1. Capable but still new to the skill: You understand the concept and you can apply it but your experience is limited  (you might be new to GitLab or new to quant research for example).
-2. Intermediate proficiency: You have applied this skill to situations occasionally without needing guidance.
-3. Advanced proficiency: You regularly apply this skill at an advanced level without needing guidance.
-4. Advanced proficiency + leader: You can coach others in the application by explaining related nuances.
-5. Expert: You have demonstrated consistent excellence across multiple projects and are a thought leader across the UX department.
+1. Intermediate proficiency: You have applied this skill to situations occasionally without needing guidance.
+1. Advanced proficiency: You regularly apply this skill at an advanced level without needing guidance.
+1. Advanced proficiency + leader: You can coach others in the application by explaining related nuances.
+1. Expert: You have demonstrated consistent excellence across multiple projects and are a thought leader across the UX department.
 
 ##### Skills
 
@@ -78,6 +67,7 @@ Whenever you need to update the area of the product a team member is supporting,
 ### Section-level updates
 
 For section-level updates you'll want to do the following:
+
 1. Go to the [www-gitlab-com project > Repository > Files](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master)
 1. Select the `data` directory
 1. Scroll down and click on the `sections.yml` file
@@ -87,6 +77,7 @@ For section-level updates you'll want to do the following:
 ### Group-level updates
 
 For group-level updates you'll want to do the following:
+
 1. Go to the [www-gitlab-com project > Repository > Files](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master)
 1. Select the `data` directory
 1. Scroll down and click on the `stages.yml` file
@@ -96,6 +87,7 @@ For group-level updates you'll want to do the following:
 ### Name confirmation
 
 For all updates you'll want to confirm that the person you've updated has a name reference in the category names file, otherwise it won't render correctly on the handbook page it's being called on.
+
 1. Go to the [www-gitlab-com project > Repository > Files](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master)
 1. Navigate to `sites/handbook/source/includes/product`
 1. Scroll down and click on the `_categories-names.erb` file
@@ -106,6 +98,7 @@ For all updates you'll want to confirm that the person you've updated has a name
 ### Update Team Member (Such as to remove/add from UX MR Reviewer Roulette)
 
 Go to the [www-gitlab-com project > Repository > Files](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master) - [Documentation](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person#team-member-data-schema)
+
 1. Navigate to the `data/team_members/person/product` directory
 1. Locate the correct alphabet letter folder according to the team members first initial in their first name
 1. Click on their .yml file

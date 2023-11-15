@@ -1,14 +1,7 @@
 ---
-
 title: "Data for Design Decisions"
 description: "Guide on tools used within GitLab to find the data to support design decisions."
 ---
-
-##
-
-
-
-
 
 ## Using data for design decisions at GitLab
 
@@ -16,9 +9,7 @@ Data is another way designers and researchers at GitLab can understand user beha
 
 We should not depend entirely on data to make decisions, but it should be an essential input to decision making. To learn more about quantitative data/research, see the [Using Data to Find Insights](/handbook/product/ux/ux-research/quantitative-data/) handbook page.
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/J-USG9BKH-g" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube "J-USG9BKH-g" >}}
 
 ## Aligning hypothesis to impact
 

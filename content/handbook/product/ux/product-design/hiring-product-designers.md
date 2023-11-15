@@ -4,18 +4,12 @@ title: "Hiring Product Designers"
 description: "Product Designers, Product Design Managers, the Director of Product Design, and Product Managers participate in our hiring process by interviewing Product Designer candidates. We have created guidelines to help support a consistent end-to-end hiring process."
 ---
 
-
-
-
-
-
-
-
 ## Hiring process
 
 Product Designers follow the [Hiring & Talent Acquisition process](/handbook/hiring/).
 
 General resources:
+
 - [Interviewing at GitLab](/handbook/hiring/interviewing/#conducting-a-gitlab-interview)
 - [Product Designer job family](/job-families/product/product-designer/)
 
@@ -34,17 +28,17 @@ We have established a set of questions we ask at each stage of the process. All 
 
 An interview rubric has been defined that provides a set of positive answer traits and characteristics to look out for when asking each of the Greenhouse interview questions. It's recommended that you:
 1. Open the appropriate GDoc version for your interview level (i.e. Senior or Intermediate candidate) for quick access after your interview to aid in completing your Greenhouse Scorecard.
-2. Compare your notes with the rubric on each question and
-3. Assess how the candidate's answer compares to the desired positive traits/characteristics provided.
+1. Compare your notes with the rubric on each question and
+1. Assess how the candidate's answer compares to the desired positive traits/characteristics provided.
 
 Use this rubric comparison/assessment to help with your final scorecard assessment prior to your scorecard submission.
 
 ### Interview rubrics
 
 1. Product Designer (peer) interview - [Senior Candidate Rubric](https://docs.google.com/document/d/1LLWyEmegVh1m78r4UMTdgGpgB1fpCCqQ6dB6WASBNAw/edit?usp=sharing)
-2. Product Designer (peer) interview - [Intermediate Candidate Rubric](https://docs.google.com/document/d/1EjD-G1KUADLeoGpPEOs2e19_oNeDnL8jC95UMSUo864/edit?usp=sharing)
-3. Manager interview - [Senior Candidate Rubric](https://docs.google.com/document/d/1iiMrOtnEc9XRheJ1AAfLSKcPk4Qbr1WKPiubKFCHhbY/edit?usp=sharing)
-4. Manager interview - [Intermediate Candidate Rubric](https://docs.google.com/document/d/1Z8MlKQ5S7sMR2jJTNR5weYxMu9c1tpmvUE4ZXpDcqBo/edit?usp=sharing)
+1. Product Designer (peer) interview - [Intermediate Candidate Rubric](https://docs.google.com/document/d/1EjD-G1KUADLeoGpPEOs2e19_oNeDnL8jC95UMSUo864/edit?usp=sharing)
+1. Manager interview - [Senior Candidate Rubric](https://docs.google.com/document/d/1iiMrOtnEc9XRheJ1AAfLSKcPk4Qbr1WKPiubKFCHhbY/edit?usp=sharing)
+1. Manager interview - [Intermediate Candidate Rubric](https://docs.google.com/document/d/1Z8MlKQ5S7sMR2jJTNR5weYxMu9c1tpmvUE4ZXpDcqBo/edit?usp=sharing)
 
 ## Interview training
 
@@ -86,16 +80,16 @@ This Justification should provide a summary of all the submitted Scorecards whil
 
 1. In what specific way(s) does this candidate make the team better?
     1. Consider how the candidate meets each of the Must Have's and Nice-to-Have's outlined in the recruiting kickoff issue.
-    2. List and explain any other strengths and/or unique skills the candidate brings to the role and team.
-2. What flags were raised during the interview process?
+    1. List and explain any other strengths and/or unique skills the candidate brings to the role and team.
+1. What flags were raised during the interview process?
     1. Consider how the candidate doesn't meet some of the Must Have's and Nice-to-Have's outlined in the recruiting kickoff issue and explain your reasoning for moving forward, and how you will address them.
     1. Consider any concerns raised during the interviews and explain your reasoning for moving forward, and how you will address them.
-3. How do we intend on setting this candidate up for success?
+1. How do we intend on setting this candidate up for success?
     1. Consider the candidate's soft skills and values, how will you help them progress and succeed at GitLab?
-    2. Consider the above "raised flags" and explain how you're going to help set the candidate up for success, helping them to overcome these or any weaknesses they may have.
-4. Is the offer in-plan, and why? E.g. it is a critical budgeted hire, backfill, or transfer.
+    1. Consider the above "raised flags" and explain how you're going to help set the candidate up for success, helping them to overcome these or any weaknesses they may have.
+1. Is the offer in-plan, and why? E.g. it is a critical budgeted hire, backfill, or transfer.
     1. Provide the correct answer. If you're unsure, work with your manager to determine the correct answer.
-5. Does the candidate meet a simple majority of nice-to-have requirements (5 of 9) for the role?
+1. Does the candidate meet a simple majority of nice-to-have requirements (5 of 9) for the role?
     1. Review the Nice-to-have attributes across the scorecards and provide the answer.
-6. Attributes
+1. Attributes
     1. Answer these based on a sum of all the scorecards submitted. For example, if they got 4 `stars` and one `thumbs-up` on the Collaboration value from the scorecards, pick the `star` to summarize that feedback. You do not need to leave notes.

@@ -1,17 +1,10 @@
 ---
-
 title: Jobs to be Done (JTBD) Overview
 description: >-
   JTBD is a framework for viewing products and solutions in terms of jobs
   customers want to achieve. It's about understanding the goals that people want
   to accomplish.
 ---
-
-##
-
-
-
-
 
 A Job to be Done (JTBD) is a framework, or lens, for viewing products and solutions in terms of the jobs customers are trying to achieve. It's about understanding the goals that people want to accomplish. It lets us step back from our business and understand the objectives of the people we serve. It opens the door to innovation.
 
@@ -27,7 +20,8 @@ JTBD come directly from research and customer conversations with those people wh
 To learn more about our JTBD philosophy, see the [JTBD deep dive](/handbook/product/ux/jobs-to-be-done/deep-dive/) and [How to use JTBD](/handbook/product/ux/jobs-to-be-done/using-jtbd/)
 
 You can also watch the following video for a brief overview of why JTBD are so valuable in the product development process:
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/H6j1Xd4yufI"></iframe></figure>
+
+{{< youtube "H6j1Xd4yufI" >}}
 
 ### GitLab's Jobs to be Done
 
@@ -100,7 +94,7 @@ Using our examples, we can produce a JTBD hierarchy, confirming we operate at th
 - **Small job**: Prioritize business-critical vulnerabilities in my assets.
 - **Micro jobs**: Review the most recent risks detected in my assets; Refine the list of risks by relevancy; Refine the list of risks by impact.
 
-*JTBD hierarchy diagram*
+#### JTBD hierarchy diagram
 
 ![JTBD hierarchy diagram](JTBD_Diagram.png)
 
@@ -128,7 +122,7 @@ Read "[What is and isn't a JTBD](/handbook/product/ux/jobs-to-be-done/deep-dive/
 
 Job stories offer a higher-level view of the main objective. However, when written at a lower altitude, they can serve the same function as user stories, guiding your solutions while keeping the main job, circumstances, and need in mind.
 
-If you want a detailed breakdown of each segement of the JTBD, learn more about the [structure of a JTBD](/handbook/product/ux/jobs-to-be-done/deep-dive/#how-do-i-structure-a-jtbd).
+If you want a detailed breakdown of each segment of the JTBD, learn more about the [structure of a JTBD](/handbook/product/ux/jobs-to-be-done/deep-dive/#how-do-i-structure-a-jtbd).
 
 ### Job stories and user personas
 

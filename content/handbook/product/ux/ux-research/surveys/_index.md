@@ -1,18 +1,11 @@
 ---
-
 title: "Surveys"
 description: "Using surveys as a UX research method"
 ---
 
-
-
-
-
-
-
 Surveys are a powerful tool which outputs qualitative and quantitative data at scale. They are fairly easy to execute, but at the same time ***one of the most difficult methods to execute correctly***.
 
-Surveys are not unique to UX; they are used across many disciplines. For UX Research, we use surveys to collect data from users (or future users) on their demographics, attitudes, opinions, needs, and behaviors.  
+Surveys are not unique to UX; they are used across many disciplines. For UX Research, we use surveys to collect data from users (or future users) on their demographics, attitudes, opinions, needs, and behaviors.
 
 ### The two types of survey questions
 
@@ -20,9 +13,8 @@ We can classify the types of survey questions into two groups:
 
 1. Quantitative survey questions
      - The goal of quantitative survey questions is to understand data/a question around ***how many people***.  Examples include: a satisfaction rating, if users prefer one option over another, what features users prefer, etc.
-     - You [analyze quantitative surveys](/handbook/product/ux/ux-research/quantitative-data/) by counting the number of people who selected each option presented and then use [descriptive statistics](https://www.qualtrics.com/experience-management/research/descriptive-research/).  
-
-2. Qualitative survey questions
+     - You [analyze quantitative surveys](/handbook/product/ux/ux-research/quantitative-data/) by counting the number of people who selected each option presented and then use [descriptive statistics](https://www.qualtrics.com/experience-management/research/descriptive-research/).
+1. Qualitative survey questions
      - The goal of qualitative survey questions is to understand more about how people feel behind a given research topic.  Examples include: how users feel about a particular experience or any type of open-ended question.
      - You analyze qualitative survey questions by tagging the responses with themes and then counting the themes, similar to a [thematic analysis](https://www.nngroup.com/articles/thematic-analysis/).
 
@@ -55,6 +47,7 @@ If you’re unsure if a survey is right for your needs, it’s suggested that yo
 A survey comes with pros and cons, which you should consider before committing to the method.
 
 **Pros:**
+
 - Can be completed by respondents at their own convenience
 - Low cost relative to the number of respondents
 - Able to reach a large number of respondents
@@ -62,8 +55,8 @@ A survey comes with pros and cons, which you should consider before committing t
 - Time-efficient in terms of sampling a large number of respondents
 - Provide a standard response from respondents (in other words, data comes in for each question in the same format), making analysis more streamlined when looking for patterns
 
-
 **Cons:**
+
 - Difficult to get right because users can interpret questions in so many ways and we can introduce biases when writing survey questions
 - Easy to get wrong
 - Can introduce biases when writing survey questions
@@ -79,6 +72,7 @@ Surveys rely on self-reported data, which is important to note.  As a guideline,
 ### How to conduct a survey
 
 If you’ve decided that a survey is the right method to use, you can follow the steps below to conduct a survey:
+
 1. [Define goals, objectives, and hypotheses](/handbook/product/ux/ux-research/defining-goals-objectives-and-hypotheses/)
 1. [Determine your sample and sampling method](/handbook/product/ux/ux-research/surveys/sample-sizes-for-surveys/)
 1. [Design your survey](/handbook/product/ux/ux-research/surveys/designing-your-survey/)
@@ -87,5 +81,3 @@ If you’ve decided that a survey is the right method to use, you can follow the
 1. [Pilot your survey](/handbook/product/ux/ux-research/surveys/piloting-your-survey/)
 1. [Create a recruitment request issue to distribute your survey](/handbook/product/ux/ux-research/recruiting-participants/#open-a-recruitment-request-issue)
 1. [Analyze the data](/handbook/product/ux/ux-research/quantitative-data/)
-
-

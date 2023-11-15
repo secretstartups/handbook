@@ -1,14 +1,7 @@
 ---
-
 title: "Sample sizes for surveys"
 description: "A guide to help determine your survey sample size."
 ---
-
-
-
-
-
-
 
 In a perfect world, we’d sample every single user within the [population](https://statsandr.com/blog/what-is-the-difference-between-population-and-sample/).  However, we can’t do that. Why? It’s inefficient, expensive, time-consuming, and probably impossible to pull off.  Instead, we try to attain a *representative sample of the population* from the population we want to focus on. To do this, we take a slice of that population, referred to as our ‘sample’.
 
@@ -20,12 +13,10 @@ One of the most common questions around sampling is *‘how many people should w
      - Why? SUS is measured over time, because we want to pick up on changes. When we see changes in SUS scores, we want to be confident that it is due to a true change and not because we were lucky or unlucky with our sampling. Smaller samples can be more sensitive to errors.
      - - SUS is measured across the entire population of users; therefore, we have a much larger pool of people to sample from. To ensure we have accuracy in the sample, we need a larger sample size.
      - - Company-wide goals are set around SUS. Thus we want a high degree of accuracy. As the sample size increases, your error (or margin of error)—in other words, your likelihood of lucky or unlucky sampling—goes down, and the observations you make with your data are more accurate.
-
 - **Scenario 2:** If your research is trying to understand how many people are doing a certain workflow, or how people would rank certain features, you probably don’t need as many people to sample as the above Scenario 1. Example: survey to understand how users are ranking features (n=30)
      - - Why? Not all users use every workflow, so your population is not the entire GitLab user base. Rather, it’s all users of the workflow you are researching. A smaller population means you don’t need as large of a sample.
      - - You are not collecting a measure that is being compared over time. In other words, the measure is not as granular compared to Scenario 1.
      - - You don’t need a high level of accuracy to make a decision. Knowing from 30 users how they rank features is enough for you to make a confident decision.
-
 - **Scenario 3:** If your research is trying to understand what kinds of tools users’ incorporate in their workflow, you will likely have more open-ended questions in the survey. Example: survey to understand tools in a workflow (n=30)
      - - Why?  You don’t need as large of a sample for accuracy, since you are not computing a measure. Rather, you’re trying to get an idea of what responses users give.
      - - You might be looking to target certain tools that users list and want to conduct follow up interviews to understand how they are using the tool.
