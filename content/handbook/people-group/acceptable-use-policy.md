@@ -19,10 +19,10 @@ This policy applies to all GitLab Team Members, contractors, advisors, and contr
 
 ## Roles & Responsibilities:
 
-| Role  | Responsibility | 
+| Role  | Responsibility |
 |-----------|-----------|
 | GitLab Team Members | Responsible for following the requirements in this procedure |
-| Security, Legal and PeopleOps | Responsible for implementing and executing this procedure | 
+| Security, Legal and PeopleOps | Responsible for implementing and executing this procedure |
 | Security, Legal and PeopleOps (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
 
 ## Procedure
@@ -35,7 +35,7 @@ Those receiving GitLab-provided assets are responsible for exercising good judgm
 
 As per the [onboarding issue procedures](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md) outlined in our handbook, evidence of device encryption and device serial number must be provided to IT Ops prior to the completion of onboarding period.
 
-We are currently using Jamf as our endpoint management solution for Mac laptops. All macOS laptops procured by GitLab will come configured with [Jamf](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/). GitLab Team Members procuring and expensing Mac Laptops will require [Jamf](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/) to be installed as part of their [Day 1 Security tasks](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-1-getting-started-accounts-and-paperwork). Upon their discretion, IT Ops may install additional security tools via Jamf. 
+We are currently using Jamf as our endpoint management solution for Mac laptops. All macOS laptops procured by GitLab will come configured with [Jamf](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/). GitLab Team Members procuring and expensing Mac Laptops will require [Jamf](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/) to be installed as part of their [Day 1 Security tasks](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-1-getting-started-accounts-and-paperwork). Upon their discretion, IT Ops may install additional security tools via Jamf.
 
 Linux users must install [SentinelOne](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/edr/#how-do-i-install-the-sentinelone-agent-on-linux) and [DriveStrike](/handbook/it/guides/drivestrike/#installation-process) as part of their onboarding process.
 
@@ -91,7 +91,7 @@ Prohibited system and network activities include, but are not limited to, the fo
 - Circumventing user authentication or security of any computer host, network, or account used by GitLab.
 - Tunneling between network segments or security zones (e.g., `gprd`, `gstg`, `ops`, `ci`), except when troubleshooting issues for the benefit of GitLab.
 - Given the potential sensitivity of the data contained in screenshot images, the use of tools that capture and share screenshots to hosted sites online is prohibited without the explicit approval of the Security and Legal Departments.  Screenshots should be stored locally or within Google drive folders associated with your GitLab.com account. Access to these drives and files should be managed in accordance with our [Access Management policy](/handbook/security/access-management-policy.html), and handled according to our [Data Classification Standard](/handbook/security/data-classification-standard.html). Tools such as [Lightshot](https://app.prntscr.com/en/index.html), where upload functionality cannot be disabled and could result in inadvertent uploads, should not be used.
-- The use of high risk remote administration tools, such as TeamViewer and AnyDesk, which are [commonly used by attackers](https://attack.mitre.org/techniques/T1219/) to gain and remotely control systems. 
+- The use of high risk remote administration tools, such as TeamViewer and AnyDesk, which are [commonly used by attackers](https://attack.mitre.org/techniques/T1219/) to gain and remotely control systems.
 
 #### Unacceptable Email and Communications Activities
 
@@ -137,7 +137,7 @@ Creating an account with, or using, a file sharing service other than Google Dri
 
 When creating an account with and using a file sharing service other that Google Drive, Team Members must:
 - Where available, use the `Sign in with Google` single sign-on option using a GitLab Google Workspace account, rather than creating an account using a GitLab (or other provider) email address and password.
-- Only upload files directly to shared folders created by those external to GitLab and do not upload files to the personal area of the file sharing service.  
+- Only upload files directly to shared folders created by those external to GitLab and do not upload files to the personal area of the file sharing service.
 - Remove all files and close the account when the file sharing service is no longer needed.
 
 ### Lost or Stolen Procedures
