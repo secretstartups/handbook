@@ -99,6 +99,7 @@ Enterprise users [cannot modify their primary email address to an email with a n
 Until [the issue 412966](https://gitlab.com/gitlab-org/gitlab/-/issues/412966) is implemented, top level group owners are not able to change their enterprise users primary email address. They can request support to change the primary email of one or more enterprise user(s).
 
 1. Check the [Account Verification Matrix for eligibility](/content/handbook/support/workflows/account_verification.md#account-verification-matrix).
+1. Ask manager approval to proceed
 1. Use the [Account Ownership Verification workflow](/content/handbook/support/workflows/account_verification.md) to verify ownership.
 1. If successful:
 
@@ -128,6 +129,8 @@ Enterprise users have user accounts that are administered by an organization tha
 
 1. If answer they wish to procceed, use the [Account Ownership Verification workflow](/content/handbook/support/workflows/account_verification.md) to verify ownership.
 
+1. Ask manager approval to proceed. 
+
 1. If successful, contact Owner:
 - Create a new Zendesk ticket with the top level group owner’s email address as the requester (found in admin) by following [this specific workflow to create ticket and user](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/tickets/#creating-tickets-for-outbound-requests)
 - Apply the macro `General::Outbound Contact Request` that ensure the new ticket routes properly and the end-user we wish to contact receives the correct notification.
@@ -137,14 +140,14 @@ Enterprise users have user accounts that are administered by an organization tha
 >
 > We're contacting you because we've received a request from one of your enterprise users <username and email address> to modify their primary email address to an email address with a non-verified domain. This will disassociate the user from your organization: the user will no longer be an enterprise user.
 >
-> As you will lost the user administration following this change we are asking for your permission. Replying in this ticket stating you provide permission will be sufficient.
+> As you will lose the user administration following this change we are asking for your permission. Replying in this ticket stating you provide permission will be sufficient.
 
 - Make an internal comment providing a link to the requester’s ticket.
 - If the group contains multiples owners, contact one owner per ticket. Limit to 3 owners if more (you can pick the owners that have the most recent Last activity in the page `https://gitlab.com/groups/<group_name>/-/group_members` or/and the owner(s) that is(are) listed as Source).
 
 1. Requester’s Ticket:
  - Add as an internal comment the ticket created above.
- - Reply to the requester with the snippet below and mark ticket as `On-hold`.
+ - Reply to the requester with the snippet below and mark the ticket as `On-hold`.
 
 > Hi,
 >
