@@ -1319,22 +1319,6 @@ Below are helpful links to best practices and tips on managing your notification
 
 Building dedicated time into your day can help minimize the distractions that Slack can create. Consider using a 15 or 30 minute block in your morning or afternoon to enjoy a cup of coffee and catch up on messages you might have missed. When the time you set comes to an end, close out of the Slack app and move on to your next project. Having a set end time can help you feel more in control, and serves as a reminder that [it's impossible to know everything](/handbook/values/#its-impossible-to-know-everything)
 
-### Getting in touch with the e-group
-
-To get in touch with the [e-group](/handbook/company/team/?department=executive) on Slack, you can use the following channels. When in doubt, you can use the general `#e-group` channel to reach out to the entire group.
-
-| Member | Channel      |
-| ------ | ------------ |
-| CEO    | `#ceo`       |
-| CFO    | `#finance`   |
-| CProdO | `#product`   |
-| CTO    | `#cto`       |
-| CRO    | `#cro`       |
-| CMO    | `#cmo` |
-| CPO    | `#cpo` |
-| CLO    | `#legal`     |
-| CISO   | `#ciso`      |
-
 ### Key Slack channels
 
 The alphabetically sorted starter list below spotlights a few of GitLab's [many Slack channels](/handbook/communication/chat/) in an effort to provide guidance to team members regarding the best places to ask specific questions and/or engage in discussion on a variety of topics. See Slack's [Help Center](https://slack.com/help/articles/205239967-Join-a-channel) for instructions on browsing all available channels.
@@ -1401,12 +1385,6 @@ If your question doesn’t relate to any of the above topics:
 - Ask it in the `#questions` Slack channel
 - Once you receive an answer, document it in the handbook and post the MR link in your question thread
 - :heavy_check_mark: once you’ve been helped
-
-### Random
-
-{: #random-room}
-
-1. The `[#random](https://gitlab.slack.com/archives/random)` Slack channel is your go-to place to share random ideas, pictures, articles, and more. It's a great channel to check out when you need a mental break.
 
 ### Slackbots
 

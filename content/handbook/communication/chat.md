@@ -16,12 +16,30 @@ Search for channels using either the `Search GitLab` toolbar, using a channel na
 
 ### General Channels
 
+{: #random-room}
+
 There are a lot of general channels, just to name a few:
 
 - **[`#whats-happening-at-gitlab`](https://gitlab.slack.com/archives/general)**: General announcements and company-wide broadcasts
 - **[`#questions`](https://gitlab.slack.com/archives/questions)**: Ask all of GitLab for help with any question you have... and then go document it after you find the answer :)
 - **[`#thanks`](https://gitlab.slack.com/archives/thanks)**: Where GitLab team-members can [say thanks](/handbook/communication/#say-thanks) to those GitLab team-members who did a great job, helped a customer, or helped you!
 - **[`#random`](https://gitlab.slack.com/archives/random)**:  Socialize and share random snippets with your fellow GitLab team-members.
+
+### Getting in touch with the e-group
+
+To get in touch with the [e-group](/handbook/company/team/?department=executive) on Slack, you can use the following channels. When in doubt, you can use the general `#e-group` channel to reach out to the entire group.
+
+| Member | Channel      |
+| ------ | ------------ |
+| CEO    | `#ceo`       |
+| CFO    | `#finance`   |
+| CProdO | `#product`   |
+| CTO    | `#cto`       |
+| CRO    | `#cro`       |
+| CMO    | `#cmo` |
+| CPO    | `#cpo` |
+| CLO    | `#legal`     |
+| CISO   | `#ciso`      |
 
 ### Team Channels
 
