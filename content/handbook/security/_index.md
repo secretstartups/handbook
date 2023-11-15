@@ -116,14 +116,14 @@ To reflect this, we have structured the Security Division around four key tenets
   </tr>
 </table>
 
-#### Secure the Product - Security Engineering
+#### Secure the Product - The Security Engineering Department
 
 The [Security Engineering Department]({{< ref "security-engineering" >}}) is primarily focused on Securing the Product. This reflects the Security Division's current efforts to be involved in the Application development and Release cycle for Security Releases, Security Research, our HackerOne bug bounty program, Security Automation, External Security Communications, and Vulnerability Management.
 
 The term “Product” is interpreted broadly and includes the GitLab application itself and all other integrations and code that is developed internally to support the GitLab application for the multi-tenant SaaS. Our responsibility is to ensure all aspects of GitLab that are exposed to customers or that host customer data are held to the highest security standards, and to be proactive and responsive to ensure world-class security in anything GitLab offers.
 
 
-#### Protect the Company - Security Operations
+#### Protect the Company - The Security Operations Department
 
 [Security Operations Department]({{< ref "security-operations" >}}) teams are primarily focused on protecting GitLab the business and GitLab's platform. This encompasses protecting company property as well as to prevent, detect and respond to risks and events targeting the business and our platform. This department includes the Security Incident Response Team (SIRT) and the Trust and Safety team.
 
@@ -179,14 +179,9 @@ FY23 will also see the introduction of several new security teams.  In addition 
 
 Lastly, we value the opinions and feedback of our team members and encourage them to submit ideas [handbook first](/handbook/company/culture/all-remote/handbook-first/) (directly to the handbook in the form of an MR).  We saw incredible gains in our culture amp survey results in FY22 and going forward we are committed to continuous improvement of our leadership team, team growth and development, and GitLab culture within the Security Department.
 
-{{% include "includes/we-are-also-product-development.md" %}}
+### Product development
 
-This topic is part of our [Engineering FY23 Direction](https://about.gitlab.com/handbook/engineering/#fy23-direction).
-
------
-
-
-
+In keeping with our [core values]({{< ref "values" >}}) and the belief that [everyone can contribute]({{< ref "mission#everyone-can-contribute" >}}), the Security Division is committed to [dogfooding]({{< ref "values#dogfooding" >}}) and contributing to the development of the GitLab product.
 
 -----
 
@@ -194,7 +189,7 @@ This topic is part of our [Engineering FY23 Direction](https://about.gitlab.com/
 
 #### Reporting vulnerabilities and security issues
 
-For information regarding GitLab's [HackerOne bug bounty program]({{< ref "hackerone-process" >}}), and creating and scheduling security issues, please see our [engaging with security]({{< ref "engaging-with-security" >}}) page.
+For information regarding GitLab's [HackerOne bug bounty program]({{< ref "hackerone-process" >}}), and creating and scheduling security issues, please see our [engaging with security]({{< ref "engaging-with-security" >}}) page and our [Responsible Disclosure Policy](https://about.gitlab.com/security/disclosure/).
 
 #### Reporting an Incident
 
@@ -213,20 +208,20 @@ Additionally if a GitLab team member experiences a personal emergency the People
 #### Sub-groups and projects
 
 Many teams follow a convention of having a GitLab group `team-name-team` with a primary project used for issue tracking underneath `team-name` or similar.
-- [@gitlab-com/gl-security](https://gitlab.com/gitlab-com/gl-security/) is used for @'mentioning the entire Security Department
-- [@gitlab-com/gl-security/security-managers](https://gitlab.com/gitlab-com/gl-security/security-managers) is used for @'mentioning all managers in the Security Department
-- [public (!) Security Department Meta](https://gitlab.com/gitlab-com/gl-security/security-department-meta/) is for Security Department initiatives, `~meta` and backend tasks, and catch all for anything not covered by other projects
+- [@gitlab-com/gl-security](https://gitlab.com/gitlab-com/gl-security/) is used for @'mentioning the entire Security Division
+- [@gitlab-com/gl-security/security-managers](https://gitlab.com/gitlab-com/gl-security/security-managers) is used for @'mentioning all managers in the Security Division
+- [Security Department Meta](https://gitlab.com/gitlab-com/gl-security/security-department-meta/) is for Security Division initiatives, `~meta` and backend tasks, and catch all for anything not covered by other projects
 - [Security Assurance (@gitlab-com/gl-security/security-assurance)](https://gitlab.com/gitlab-com/gl-security/security-assurance)
     - [@gitlab-com/gl-security/security-assurance/sec-compliance](https://gitlab.com/gitlab-com/gl-security/compliance)
     - [@gitlab-com/gl-security/security-assurance/field-security-team](https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team)
     - [@gitlab-com/gl-security/security-assurance/security-risk-team](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team)
     - [@gitlab-com/gl-security/security-assurance/governance](https://gitlab.com/gitlab-com/gl-security/security-assurance/governance)
 - [Security Engineering (@gitlab-com/gl-security/engineering-and-research)](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/engineering-and-research-meta)
-    - [gitlab-com/gl-security/engineering-and-research-meta](https://gitlab.com/gitlab-com/gl-security/engineering-and-research-meta) For sub-department wide management and planning issues.
+    - [gitlab-com/gl-security/engineering-and-research-meta](https://gitlab.com/gitlab-com/gl-security/engineering-and-research-meta) For department wide management and planning issues.
     - [gitlab-com/gl-security/engineering-and-research/automation-team/automation](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation-team/automation)
     - [@gitlab-com/gl-security/appsec](https://gitlab.com/gitlab-com/gl-security/appsec) is the primary group for @'mentioning the Application Security team.
     - [@gitlab-com/gl-security/automation](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation) is the primary group for @'mentioning the Security Automation team.
-- [Security Operations (@gitlab-com/gl-security/security-operations)](https://gitlab.com/gitlab-com/gl-security/security-operations) Security Operations Sub-department
+- [Security Operations (@gitlab-com/gl-security/security-operations)](https://gitlab.com/gitlab-com/gl-security/security-operations) Security Operations Department
     - [@gitlab-com/gl-security/security-operations/sirt](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt) is the primary group for @'mentioning the Security Incident Response Team (SIRT).
         - [SIRT (private)](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations) for SIRT issues.
     - [@gitlab-com/gl-security/security-operations/trust-and-safety](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety) is the primary group for @'mentioning the Trust & Safety team.
@@ -235,53 +230,24 @@ Many teams follow a convention of having a GitLab group `team-name-team` with a 
 #### Slack Channels
 
 - [#security](https://gitlab.slack.com/archives/security); Used for general security questions and posting of external links for the great discussions. Company wide security relevant announcements are announced in #whats-happening-at-gitlab and may be copied here.
-- [#security-department](https://gitlab.slack.com/archives/security-department) - Daily questions and discussions focused on work internal to the security department. Can be used for
+- [#security-department](https://gitlab.slack.com/archives/security-department) - Daily questions and discussions focused on work internal to the Security Division. Can be used for
 reporting when unsure of where to go.
 - [#abuse](https://gitlab.slack.com/archives/abuse) - Used for reporting suspected abusive activity/content (*GitLab Internal*) as well as general discussions regarding anti-abuse efforts. Use `@trust-and-safety` in the channel to alert the team to anything urgent.
 - `#security-department-standup` - Private channel for daily standups.
 - `#incident-management` and [other infrastructure department channels](https://about.gitlab.com/handbook/engineering/infrastructure/#common-links)
-- `#security-alert-manual` - New reports for the security department from various intake sources, including ZenDesk and new HackerOne reports.
+- `#security-alert-manual` - New reports for the Security Division from various intake sources, including ZenDesk and new HackerOne reports.
 - `#hackerone-feed` - Feed of most activity from our HackerOne program.
 - Other `#security-alert-*` and `#abuse*` - Multiple channels for different notifications
-handled by the Security Department.
+handled by the Security Division.
 - Use the **@sirt-members** mention in any Slack channel to tag the members of the Security Incident Response Team (SIRT).
-- Use the **@sec-assurance-team** mention in any Slack channel to tag the members of the Security Compliance and Risk & Field Security teams.
+- Use the **@sec-assurance-team** mention in any Slack channel to tag the members of the Security Compliance, Risk, and Governance & Field Security teams.
 - Use the **@field-security** mention in any Slack channel to tag the members of the Field Security team.
 - Use the **@appsec-team** mention in any Slack channel to tag the members of the Application Security team.
 - Use the **@trust-and-safety** mention in any Slack channel to tag the members of the Trust & Safety team.
 
-#### External Contact Information
-
-External researchers or other interested parties should refer to our [Responsible Disclosure Policy](https://about.gitlab.com/security/disclosure/) for more information about reporting vulnerabilities. Customers can [contact Support](https://about.gitlab.com/support/) or [the Field Security team]({{< ref "answerbase#contact-the-field-security-team" >}}).
-
 #### Ransomware
 
-Ransomware is a persistent threat to many organizations, including GitLab.  In the event of a ransomware attack involving GitLab assets, it's important to know the existing response procedures in place.  Given the variability of targets in such attacks, it's critical to adapt to existing circumstances and understand that disaster recovery processes are in place to avoid paying any ransom.  GitLab's red team has done [extensive research](https://gitlab.com/gitlab-com/gl-security/security-operations/gl-redteam/red-team-operations/-/issues/118) to determine the most likely targets to be affected.  As a result, the following guidelines are intended to help bootstrap an efficient response to protect the organization.
-
-***Critical First Steps:***
-
-- [Engage the SIRT](#-contacting-the-team) team as soon as a ransomware attack is detected
-- The SIRT team will then follow the [incident response guide]({{< ref "sec-incident-response" >}}) and [incident communication plan]({{< ref "security-incident-communication-plan" >}}) and reference the [relevant run book](https://gitlab.com/gitlab-com/gl-security/runbooks/-/blob/master/sirt/infrastructure/ransomware-attack.md).
-- Responders should leverage GitLab's established [rapid engineering response](https://about.gitlab.com/handbook/engineering/workflow/#rapid-engineering-response) plan during the mitigation phase.
-- The Business Continuity & Disaster Recovery Controls handbook page should be referenced for relevant information.
-
-***Relevant Teams:***
-
-Depending on the impacted resources, the following teams should be engaged and made aware of the issue created for the rapid engineering response.  Note that this is not a comprehensive list depending on impacted assets.
-
-- [Database: Disaster Recovery Team](https://about.gitlab.com/handbook/engineering/infrastructure/database/disaster_recovery.html) - responsible for disaster recovery strategy for the PostgreSQL database.
-- [Infrastructure Team](https://about.gitlab.com/handbook/engineering/infrastructure/#teams) - availability, reliability, performance, and scalability of GitLab SaaS software
-- [Infrastructure Security Team](/handbook/security/security-engineering/infrastructure-security/) - infrastructure teams stable counterpart focused on cloud infrastructure security, best practices, and vulnerability management
-- [Business Technology Engineering](/handbook/business-technology/engineering/) - endpoint and systems access management
-- [Support Team](https://about.gitlab.com/support/) - responding to customer or employee inquiries regarding system outages
-- [Legal & Corporate Affairs](https://about.gitlab.com/handbook/legal/)
-- [Security Assurance]({{< ref "security-assurance" >}}) - assuring the security of GitLab as an enterprise application
-- [Marketing](https://about.gitlab.com/handbook/marketing/emergency-response/) - accurately represent GitLab and our products in our marketing, advertising, and sales materials.
-
-***Communications:***
-
-Once we've determined that we need to communicate externally about an incident, the SIMOC should kick off our [Security incident communications plan]({{< ref "security-incident-communication-plan#process-for-security-incidents-external-communications" >}}) and [key stakeholders will be engaged]({{< ref "security-incident-communication-plan#designated-key-approvers" >}}) for collaboration, review and approval on any external-facing communications.  *Note:* if customer data is exposed, external communications may be required by law.
-
+For an overview of the communication and response process for a suspected ransomware attack, please see our [Responding to Ransomware]({{< ref "responding-to-ransomware" >}}) page.
 
 -----
 
