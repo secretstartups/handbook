@@ -1,7 +1,5 @@
 ---
-aliases: /handbook/product/ux/technical-writing/fundamentals/examples.html
 title: "Editing content into different topic types"
-description: "View examples of how to transform content into concept, task, reference, and troubleshooting topics."
 ---
 
 We often write pages of documentation that contain disparate kinds of information.

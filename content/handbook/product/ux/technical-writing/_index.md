@@ -1,6 +1,5 @@
 ---
 title: "Technical Writing"
-description: "The Technical Writing team continuously develops the GitLab product documentation to meet users' and administrators' needs."
 ---
 
 The GitLab Technical Writing team collaborates with developers, product managers, and the community to develop product documentation.
@@ -117,7 +116,8 @@ Some content on docs.gitlab.com is [not reviewed by TWs](#content-not-reviewed-b
 
 ### Assignments to DevOps Stages and Groups
 
-{{% alert title="**If you were directed here from a documentation page's metadata:**" color="primary" %}}
+{{% alert title="Note" color="primary" %}}
+**If you were directed here from a documentation page's metadata:**
 References to stages and groups in documentation metadata don't indicate developer group ownership, but instead help connect people to the assigned stable counterpart technical writer with subject matter awareness.
 If internal groups want to use other metadata parameters to track information in documentation pages, please create an issue in the Technical Writing repository for discussion.
 Additional discussions are in [this issue](https://gitlab.com/gitlab-org/technical-writing/-/issues/547).
@@ -132,13 +132,12 @@ all situations where documentation is required.
 
 When a Technical Writer [is on PTO](#technical-writer-pto), the whole team acts as their backup.
 
-**Note:** If you've been directed here from metadata in a documentation page
+If you've been directed here from metadata in a documentation page
 that has `none` as the stage, refer to the
 [Assignments to other projects and subjects](#assignments-to-other-projects-and-subjects)
 section, referencing the group shown in metadata with the listed Subjects in the table.
 
-
-{{% alert color="primary" %}}
+{{% alert title="Note" color="primary" %}}
 Not sure who's responsible for a feature? Review feature assignments by [stage](https://about.gitlab.com/features/) or [group](/handbook/product/categories/features/).
 {{% /alert %}}
 

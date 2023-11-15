@@ -1,6 +1,5 @@
 ---
 title: "Technical Writing workflows"
-description: "This document explains the workflows of the Technical Writing team."
 ---
 
 Technical Writing team workflows work in conjunction with the:
@@ -67,8 +66,8 @@ For details, see [the guidelines](https://docs.gitlab.com/ee/development/documen
 The author of this MR, either a frontend or backend developer, should write the documentation.
 
 {{% alert title="Note" color="primary" %}}
-Community Contributors can ask for additional help from GitLab team members.{{% /alert %}}
-
+Community Contributors can ask for additional help from GitLab team members.
+{{% /alert %}}
 
 #### Authoring
 
