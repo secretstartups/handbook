@@ -46,7 +46,7 @@ Staging Ref is a sandbox environment used for pre-production testing of the late
 
 Staging Ref deployment runs parallel to Staging Canary deployment. [Deployer](https://ops.gitlab.net/gitlab-com/gl-infra/deployer) triggers a job in [Staging-Ref GET Config](https://ops.gitlab.net/gitlab-org/quality/gitlab-environment-toolkit-configs/staging-ref) to update the environment. Notifications about new deployments are sent to the [`#announcements`](https://gitlab.slack.com/archives/C8PKBH3M5) Slack channel.
 
-Staging Ref pipelines do not block the deployment. If there are any failures with deployment to `gstg-ref`, please reach out to `@release-managers`. After successful deployment, Sanity and Full QA pipelines are triggered. Results are posted to `#qa-staging-ref` and analysed by Quality on-call DRIs. Please refer to the [Quality Department pipeline triage rotation schedule](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/oncall-rotation/#schedule) to identify the current DRI.
+Staging Ref pipelines do not block the deployment. If there are any failures with deployment to `gstg-ref`, please reach out to `@release-managers`. After successful deployment, Sanity and Full QA pipelines are triggered. Results are posted to `#qa-staging-ref` and analysed by Quality on-call DRIs. Please refer to the [Quality Department pipeline triage rotation schedule](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/oncall-rotation/#schedule) to identify the current DRI.
 
 ```plantuml
 @startuml staging-ref
@@ -143,7 +143,7 @@ A simplified process to request SSH access to Staging Ref virtual machines and t
 
 #### Trigger QA pipelines
 
-Sanity or Full QA pipeline may be triggered on demand in [staging-ref](https://ops.gitlab.net/gitlab-org/quality/staging-ref/-/pipeline_schedules) project. Please reach out to [Quality on-call DRIs](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/oncall-rotation/#schedule) if there are any questions.
+Sanity or Full QA pipeline may be triggered on demand in [staging-ref](https://ops.gitlab.net/gitlab-org/quality/staging-ref/-/pipeline_schedules) project. Please reach out to [Quality on-call DRIs](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/oncall-rotation/#schedule) if there are any questions.
 
 #### Monitoring
 
