@@ -32,7 +32,7 @@ Each of these MRs contain one or more yaml files describing the updates. EMs wil
 
 From the relevant issue page, look at the related MRs for that issue. All related MRs assigned to the current milestone should be merged in order to be included in the release. If there are any MRs assigned to the current milestone that are not merged it should be determined that the feature is not complete.
 
-If all the related MRs assigned to the current milestone have been merged, the next step will be to verify that those MRs have been deployed and are running in production. This can be done by [querying chatops with the sha of the merge commit](/handbook/engineering/quality/quality-engineering/tips-and-tricks/#determine-if-a-change-has-been-deployed-to-an-environment-using-revision-sha).
+If all the related MRs assigned to the current milestone have been merged, the next step will be to verify that those MRs have been deployed and are running in production. This can be done by [querying chatops with the sha of the merge commit](/handbook/engineering/infrastructure/test-platform/tips-and-tricks/#determine-if-a-change-has-been-deployed-to-an-environment-using-revision-sha).
 
 If all of the chatops queries return a status indicating the sha is currently running in production, then it should be determined that the feature is complete.
 
