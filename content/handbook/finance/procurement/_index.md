@@ -2,15 +2,9 @@
 title: The GitLab Procurement Team
 ---
 <!-- markdownlint-disable MD051 -->
-## <i class="fas fa-stream" id="biz-tech-icons"></i> What is Procurement?
+## What is Procurement?
 
-Procurement is the process of selecting vendors, strategic vetting, selection, negotiation of contracts, and the actual purchasing of goods. Procurement acquires all the goods, services, and work that is vital to GitLab.
-
-## <i class="fas fa-stream" id="biz-tech-icons"></i> What is the Procurement Process at GitLab?
-
-Anytime a purchase is being made on behalf of GitLab that does not qualify as a personal expense, or meet the list of exceptions, a Zip Request must be submitted and fully approved BEFORE a purchase and/or work can begin.
-
-[Exceptions to the PO policy](#-what-are-the-exceptions-to-the-po-policy) include, but are not limited to, purchases under $5,000 USD.
+The Procurement team manages GitLab’s [Supplier Lifecycle](#vendor-lifecycle-management) through the process of strategically vetting and selecting vendors, negotiating commercial terms, the purchasing of goods and services, and managing the renewal or vendor offboarding process.
 
 <a href="https://docs.google.com/presentation/d/1p4TVSjwa79zbVs-7iDZ3_YrR8WQgB7jC7ZC_iKyUq3Y/edit#slide=id.g127b84edaab_0_0"><img src="process2.png" alt="Procurement process"></a>
 
@@ -31,39 +25,85 @@ Division alignment for spend over >$25k USD:
 ### Shared Goals
 
 Procurement is a cross-functional team that supports GitLab as a public company. We have four key objectives monitored in the following ways:
-1. Risk Management and Compliance
-    - Reported and monitored via internal and external audit which gets reported to our shareholders.
-1. Digital Automation and Efficiency
-    - Reported via annual cost avoidance and year over year savings
-1. Strategic Partnership and Department Spend Reviews
-    - Reported through the twice annual NPS survey
-1. Responsible Sourcing and Diversity
-    - Monitored via Coupa Supplier Onboarding
+1. Strategic partnerships with business stakeholders - meet on a quarterly basis to review new or renewing third party spend and supplier management opportunities
+    - Metric(s): Supplier segmentation tiers 
+1. Achieving annual cost avoidance (soft) savings and year over year (hard) savings
+    - Metric(s): **Soft Savings** (cost avoidance) is mitigating proposed cost increases or any negotiations for new purchases. **Hard Savings** (year over year) is a decrease in cost from last year and is only valid for renewals. This can include decreasing unit costs, removing users and/or scaling back services and scope
+1. [Third party risk management](#third-party-risk-management) and ensuring we are getting the best commercial terms with the least amount of risk for GitLab
+    - Metric(s): the number of active and new vendors each quarter, and reported and monitored via internal and external audit
+1. Responsible sourcing/purchasing and supplier diversity - managed through the Zip and Coupa onboarding and purchasing process
+    - Metric(s): [Zip SLAs](#review-steps-timeline-and-considerations) and diverse suppliers
 
-### Metrics
+### Vendor Lifecycle Management
 
-#### Vendor cost avoidance
+The Procurement team is responsible for ensuring there is a process for suppliers to be managed throughout their lifecycle of doing business with GitLab from initial selection and contracting to recurring reviews and renewals to cancellation.
 
-Monitor the cost avoidance achieved through the procure to pay process. Cost Avoidance is the savings achieved off of the initial vendor proposal price. Note this is not directly tied to budget.
+#### 1. RFP and Vendor Selection
 
-**Aligns with the following core business objectives**:
+All new spend, changing of vendors for existing services, and market reviews every 3 years for existing contracts should follow the [RFP and Vendor Selection process](https://internal.gitlab.com/handbook/finance/procurement/), unless approved by your Procurement Category Manager, to ensure we are choosing the best partner for GitLab with the best commercial terms. This must be done prior to verbally agreeing to terms or contracting with any new or existing vendor.
+- Follow the RFP process outlined in the [internal handbook](https://internal.gitlab.com/handbook/finance/procurement/). You will find resources and templates for RFP events at any level, whether it is a quick bid or a full procurement-led RFP with 5+ vendors. Always reach out to your Procurement Cateogry Manager to notify them that an RFP is being conducted- they can assist in the process and can answer any questions.
+    - As part of this process, create an issue with the [RFP Intake template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new#) and tag your [Category Manager](#procurement-team-alignment).
 
-- Control spend and build a culture of long-term savings on procurement costs.
-- Streamline the purchasing process.
-- Minimize financial risk.
+Before sharing details and/or confidential information regarding GitLab business needs, obtain a [Mutual Non-Disclosure Agreement](https://about.gitlab.com/handbook/legal/NDA/#) from the potential vendor(s). Refer to the [Signature Authorization Matrix](https://internal.gitlab.com/handbook/company/authorization-matrix/) for signing authority.
 
-#### Percent (%) of vendor spend on Purchase Order
+All vendors must adhere to the [GitLab Partner Code of Ethics](https://about.gitlab.com/handbook/legal/partner-code-of-ethics/). It is mandatory all vendors contractually adhere to this if they would like to do business with us. (Note these are typically not required in event related agreements unless the vendor is providing services).
 
-Percentage of all vendor spend for any department that is purchased via PO.
+#### 2. Negotiation, Privacy and Security Review
 
-**Aligns with the following core business objectives**:
+Depending on the amount of spend, Procurement will assist or lead in negotiating the pricing and commercial terms of the contract.
 
-- SOX Compliance.
-- Streamline the purchasing process.
+Depending on the types of data shared with the vendor, Privacy and Security will need to complete a review of the vendor
 
-## <i class="fas fa-stream" id="biz-tech-icons"></i> New Zip tool launched 2023-02-01 for all Purchase Requests!
+For more information on these requirements and steps, see the [Review Steps, Timeline, and Considerations section](#review-steps-timeline-and-considerations) 
 
-- Reasons why we chose Zip and the Business Case can be found here.
+#### 3. Contracting
+
+All work that is done with a vendor must have a completed contract to be compliant and work may not be started until a contract is in place. Contracts include [NDAs](https://about.gitlab.com/handbook/legal/NDA/#), Master Service Agreements and Statements of Works. Our legal team assists with this step in the process. Please see the [legal review process](#3a-legal-review-3-to-21-days) for more details. 
+
+Additionally, please note that a small number of team members can sign agreements on behalf of GitLab - please see the [Authorization Matrix](https://internal.gitlab.com/handbook/company/authorization-matrix/) for more details.
+
+#### 4. Vendor Onboarding
+
+In order for vendors to be paid, they need to complete their onboarding in our systems. Please see the [New Vendor Onboarding](#1b-new-supplier-onboarding-2-3-days-if-required) section for more details.
+
+#### 5. Recurring Vendor Reviews and Management
+
+Procurement will work with you through the Quarterly Procurement & Business Spotlights to review upcoming renewals and cancellations, new spend projects, and identifying [vendor’s segmentation tier:](https://docs.google.com/spreadsheets/d/1tgNYN15VcHwNCeM6_D3ligLiJdYlesvsq3TNEG0VRBI/edit?usp=sharing) Strategic, Niche, Commodity, or Transactional. 
+
+Identifying the Segmentation Tier your supplier(s) falls within helps determine the right vendor management approach, e.g. renew the contract, RFP, business reviews on a recurring cadence, continuous improvement plans, etc.
+
+If holding a business review with a vendor, the following topics should be discussed:
+- Success criteria of the contract
+- What is going well
+- What can be improved
+- Review of any issues and remediation expected
+- Overview of the contract and its utilization
+
+##### Vendor Renewals
+
+On a quarterly basis, the Procurement team will meet with business stakeholders in each department to review a rolling 12 month list of renewals, focusing on the upcoming 2 quarters. This list is pulled from Zip and Coupa. The list should be reviewed and prioritized with the business owners. The renewal process should start at least 90 days ahead of the renewal date providing ample time to review the terms and decide:
+- Are there any additional security requirements for the vendor?
+- Has the vendor had an RFP for pricing in last 3 years?
+- Do we want to terminate or reduce spend and need to proactively notify per the contract?
+- Do we want to change any terms of our contract?
+
+#### 6. Cancellation
+
+The following methods will be used to capture cancellations (which include terminations and/or non-renewals):
+
+1. **Automated Notice:** The DRI for the purchased item will receive notification of an upcoming renewal;
+2. **Procurement Led:** The Procurement Team will review upcoming renewals, and active purchases, during the quarterly "Category Spotlight" meetings. 
+3. **DRI Led:** DRI's and other stakeholders may determine that products, events and/or services are no longer needed. 
+
+For each of the above, if a cancellation is desired (which include terminations and/or non-renewals) please follow the "Cancellation Process" outlined below:
+
+1. Submit a **Termination/Non-Renewal Request** through Zip by completing the intake form and providing copies of the existing contract(s) that you are canceling.
+2. Through Zip, Procurement and Legal will work with the requester to provide instructions on how, when, and who should notify the vendor. For most non-renewal notices, the business owner will notify the vendor via Legal’s guidance.
+   - Security and Privacy will also be added for awareness and review if data is being shared with the vendor to determine the requirements of returning or deleting the data.
+3. For certain cancellation requests, like Software for example, IT will be included in the Zip workflow to determine and complete the proper deprovisioning and system offboarding requirements 
+4. If necessary, the requester and/or business owner will need to create and execute on a communication plan to notify all or impacted team members of the cancellation.
+
+Upcoming terminations/non-renewals should be discussed with Procurement during the Quarterly Category Spotlight meetings that Procurement holds with category leads/budget owners. As Procurement is made aware of upcoming cancellations during these meetings, Procurement will review on a quarterly basis any known cancellations with Legal to ensure notification requirements are met. Procurement and Legal will then work with the business owner on completing the above process. If a cancellation is determined outside of this quarterly cadence, notify your Procurement Category Manager and complete the above process as soon as possible.
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> How do I start the Procurement Process?
 
