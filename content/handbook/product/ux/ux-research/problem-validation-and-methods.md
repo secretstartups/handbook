@@ -1,14 +1,7 @@
 ---
-
 title: "Problem validation and methods"
 description: "How to conduct problem validation research at GitLab"
 ---
-
-
-
-
-
-
 
 At GitLab, we practice both Problem Validation research and [Solution Validation](/handbook/product/ux/ux-research/solution-validation-and-methods/) research, depending on the questions we need answers to and where we are in the design process. The end result of these methods is a high degree of confidence which results in a better overall user experience. Generating solutions, developing the product experience, and launching to the market is much more effective when we start with a deep understanding of our customer problems. We leverage [Opportunity Canvases](/handbook/product/product-processes/#opportunity-canvas) to track quick iterations on levels of confidence, hypotheses, and lessons learned as our learning about the problem evolves.
 
@@ -44,15 +37,12 @@ When you are conducting a problem validation research effort, make sure to apply
 - How is this done today?
 - Why is it done this way?
 
-
-
 ### Problem validation methods & when to use them
 
 When choosing the right method for problem validation research, first ask yourself if you need foundational or informative research.
 
- - **Foundational research** helps develop a deeper understanding of users to uncover opportunities for solutions and innovation.
-
- - **Descriptive and informative research** begins with a problem statement in mind and is used to gain a detailed understanding of the context of the problem.
+- **Foundational research** helps develop a deeper understanding of users to uncover opportunities for solutions and innovation.
+- **Descriptive and informative research** begins with a problem statement in mind and is used to gain a detailed understanding of the context of the problem.
 
 Problem validation research is not only conducted with end users. Often, sales, support, and CSMs (technical account managers) can offer valuable insights into customer behavior. They typically interact with a large number of customers and have a well developed understanding of what needs customers have and what issues they have faced.
 

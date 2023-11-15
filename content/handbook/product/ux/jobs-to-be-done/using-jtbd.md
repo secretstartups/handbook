@@ -1,15 +1,8 @@
 ---
-
 title: How to use JTBD at GitLab
 description: >-
-  JTBDs can be used to discover and define strategic opportunities in the market when used with GitLab's existing processes. 
+  JTBDs can be used to discover and define strategic opportunities in the market when used with GitLab's existing processes.
 ---
-
-##
-
-
-
-
 
 ## How to use Jobs to Be Done (JTBD) at GitLab
 

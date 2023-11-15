@@ -1,14 +1,7 @@
 ---
-
 title: "Diary studies"
 description: "What are diary studies and when to use them"
 ---
-
-
-
-
-
-
 
 A diary study is a research methodology used to obtain feedback from participants over a period of time (days, weeks, or months). In these studies, participants are asked to document information on their own when they perform a specific action or the participant has reached a specific period in the research.
 
@@ -19,6 +12,7 @@ Diary studies can be very informative since we, as researchers, cannot observe e
 ## When to conduct diary studies
 
 Diary studies are useful when there is interest in participants **beyond a single interaction or touchpoint**. This kind of research can examine participant feedback about a product (GitLab or other application), behavior (DevOps tool usage at work), or activity (submitting a merge request or searching for content online). Some examples of participant data that is common to collect in diary studies includes:
+
 - Documenting what participants think when completing tasks
 - Documenting the context in which participants complete tasks
 - Documenting what participants do within a given timeframe
@@ -33,11 +27,13 @@ Diary studies are unique compared to surveys, interviews, or focus groups becaus
 ### How diary studies differ from longitudinal studies
 
 Diary studies require many of the same steps outlined for [longitudinal studies](/handbook/product/ux/ux-research/longitudinal-studies/). One additional step is to determine when the participant will record entries:
+
 1. On specific time intervals (for example: record once a day, two times a week, or every other week)
-2. On a set schedule (for example: record only at day 10, day 20, and day 30)
-3. While performing an action (for example: record as you interact with a feature in GitLab or use GitLab in a specific way)
+1. On a set schedule (for example: record only at day 10, day 20, and day 30)
+1. While performing an action (for example: record as you interact with a feature in GitLab or use GitLab in a specific way)
 
 When planning out the appropriate timeframes or touchpoints for the research, take into account the overall research questions.
+
 - Example: If the research question is meant to understand how participants learn GitLab as a first time user, it would be better to have participants record entries once every few days to reflect on their experience at that point in time.
 
 Other factors that can impact diary study research planning include the [types of participants recruited](/handbook/product/ux/ux-research/recruiting-participants/), deadline for the research, and number of research questions.
@@ -49,14 +45,14 @@ When setting up a diary study, it is important to think through all of the neces
 When using Google Docs or Sheets, make sure to follow these steps and guidelines to ensure data privacy within your study:
 
 1. Create a new `Google Doc` or `Google Sheet`
-2. Add your `instructions`, `tasks`, and `questions` for the participant
+1. Add your `instructions`, `tasks`, and `questions` for the participant
     1. Make sure to provide a clear space or location within the file for participants to add their comments and feedback, so participants are not confused about what to do
-3. In the initial meeting with a participant, go through the diary document in detail and answer any questions they have
-4. Once the document is ready to share with a participant, click the `share` button at the top right hand corner
-5. Keep `general access` defaulted to `restricted`
-6. In the `add people and groups` field, add the `email address` of the participant
-7. Give them `editor` access and type in a short note (if needed)
-8. Select `send`
+1. In the initial meeting with a participant, go through the diary document in detail and answer any questions they have
+1. Once the document is ready to share with a participant, click the `share` button at the top right hand corner
+1. Keep `general access` defaulted to `restricted`
+1. In the `add people and groups` field, add the `email address` of the participant
+1. Give them `editor` access and type in a short note (if needed)
+1. Select `send`
 
 Depending on the number of expected diary entries and touchpoints, it is advised to open participants’ diary documents often to monitor their current progress. If participants have not filled out specific entries on time, you can leave a comment and @ mention them using their email address to send a reminder to complete the task(s).
 

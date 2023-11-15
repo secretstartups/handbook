@@ -1,14 +1,7 @@
 ---
-
 title: "Secure UX"
 description: "The Secure UX team helps provide the best UX in taking pre-emptive security measures before deploying code. The Govern UX team helps manage overarching security policies, vulnerabilities, dependencies, and compliance."
 ---
-
-
-
-
-
-
 
 ### Overview
 
@@ -31,7 +24,7 @@ Generally, developers are the users of the vulnerability reports in the MR/pipel
 
 ### SSOT Designs
 
-In order to improve transparency and collaboration, we maintain single sources of truth (SSOT) for the product areas included inside of the Secure Stage. SSOT files include current mocks, primary flows, edge cases, and other assets that may be helpful when contributing to these areas.  
+In order to improve transparency and collaboration, we maintain single sources of truth (SSOT) for the product areas included inside of the Secure Stage. SSOT files include current mocks, primary flows, edge cases, and other assets that may be helpful when contributing to these areas.
 
 **Note** not all of the categories have correlating SSOT Figma Files.
 
@@ -40,7 +33,7 @@ In order to improve transparency and collaboration, we maintain single sources o
 | Security Dashboards | [Figma file](https://www.figma.com/file/8kT8qgibpt19KgoR4UCFWJ/Security-Dashboards?node-id=944%3A1870)  | [Documentation](https://docs.gitlab.com/ee/user/application_security/security_dashboard/) |
 | Vulnerability Reports | [Figma file](https://www.figma.com/file/rBz1dal74EDy0qloQN2I59/Vulnerability-Reports-lists?node-id=2146%3A2)  |  [Documentation](https://docs.gitlab.com/ee/user/application_security/vulnerability_report/index.html) |
 | Vulnerability Details | [Figma file](https://www.figma.com/file/pdrpziN1JPVrZbFKjki1m1/Vulnerability-Details?node-id=1529%3A2)  | [Documentation](https://docs.gitlab.com/ee/user/application_security/vulnerabilities/index.html) |
-| MR Secuirty Widget | [Figma file](https://www.figma.com/file/eq2XvQyGx80Ctk9fF7IrvO/MR-Security?node-id=1137%3A5317) | [Documentation]( https://docs.gitlab.com/ee/user/application_security/#view-security-scan-information-in-merge-requests) |  
+| MR Secuirty Widget | [Figma file](https://www.figma.com/file/eq2XvQyGx80Ctk9fF7IrvO/MR-Security?node-id=1137%3A5317) | [Documentation]( https://docs.gitlab.com/ee/user/application_security/#view-security-scan-information-in-merge-requests) |
 | Security Configuration | [Figma file](https://www.figma.com/file/ndBDbrHCLSD61qPG3kt4H2/Security-Configuration-Settings?node-id=1003%3A2) | [Documentation](https://docs.gitlab.com/ee/user/application_security/configuration/) |
 
 

@@ -1,14 +1,7 @@
 ---
-
 title: Merge Request Reviews
 description: "Guidelines for Product Designers when reviewing merge requests."
 ---
-
-
-
-
-
-
 
 ## Overview
 
@@ -28,8 +21,7 @@ The most common methods to review the MR in a live environment are:
 - **Review Apps** ([Get started](#review-apps)): Unique links specifically created for each MR to preview their changes. Ideal for documentation changes (Pajamas or company handbook). Unfortunately, previewing a GitLab instance is very limited compared to other methods ([improvements epic](https://gitlab.com/groups/gitlab-org/-/epics/6660)).
 - **Sync with author**: Although we have a [bias towards asynchronous communication](/handbook/values/#bias-towards-asynchronous-communication), sometimes it's more productive to have a one-on-one sync with the MR author. Can be especially helpful if changes are hard to test or reproduce.
 
-<details markdown="1">
-<summary markdown="span">Comparison table to choose most appropriate method</summary>
+{{% details summary="Comparison table to choose most appropriate method" %}}
 
 | | Gitpod (cloud) | GDK (local) | Review App | Sync with author |
 |------|------|------|------|------|
@@ -50,7 +42,7 @@ license information, feature flags (if applicable), etc.<br>
 <sup>¶</sup>: Only applicable for GitLab instances. Test data includes
 pre-created users, projects, branches, issues, merge requests, epics, etc.
 
-</details>
+{{% /details %}}
 
 ### Contributing
 

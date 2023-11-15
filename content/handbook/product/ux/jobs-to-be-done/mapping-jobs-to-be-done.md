@@ -1,14 +1,7 @@
 ---
-
 title: "Mapping Jobs to be Done (JTBD)"
 description: "How do I create a job map? How do I validate a JTBD?"
 ---
-
-##
-
-
-
-
 
 The Main Job is a process that you can sequence chronologically into a Job Map. A Job Map reveals the process of completing the job from the executor’s point of view, not the buyer or customer perspective. The intent is to illustrate what the job performer is striving to get done at each stage in executing a job.
 
