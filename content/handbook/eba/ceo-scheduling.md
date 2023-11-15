@@ -57,6 +57,7 @@ All meetings on Sid's calendar should be scheduled and vetted by the EBA to the 
 1. If there is a video posted in advance of a [Group Conversation](/handbook/group-conversations/) in slack, the EBA to the CEO should schedule a meeting at 6am (Pacific time) on the CEO's calendar for him to watch the video in advance of the Group Conversation on the same day. Please include a link to the video in the calendar invite and indicate whether it is a private or public video.
 1. After an E-Group offsite, block at least 50 minutes to handle slack, emails, etc
 1. Last minute changes or cancellations should be communicated to Sid via DM rather than public Slack messages or messages in a thread. If there is additional context to share, you can cross-post another Slack message as part of your DM.
+1. The default Zoom meeting should have no waiting room.
 
 ### Prep Calls for Customer/Prospect Meetings
 
