@@ -65,4 +65,4 @@ If you have any questions about the current setup, please reach out to [`#f_stag
 - Generate SSH traffic using CMBR - [issue#5](https://gitlab.com/gitlab-com/gl-infra/cmbr/-/issues/5)
 
 [SLO]: https://en.wikipedia.org/wiki/Service-level_objective
-[GitLab QA pipelines]: ../../../engineering/quality/quality-engineering/debugging-qa-test-failures/#qa-test-pipelines
+[GitLab QA pipelines]: ../../../engineering/infrastructure/test-platform/debugging-qa-test-failures/#qa-test-pipelines
