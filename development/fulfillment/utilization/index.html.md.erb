@@ -237,6 +237,48 @@ Sometimes a long passage of time might elapse between the initial refinement and
 
 If that passage of time is significant, e.g. 1 year, we should re-evaluate the issue to ensure it is still relevant and accurate by performing the refinement process, using the [Refinement/Estimation Template](#updated-refinementestimation-template) above.
 
+### Maintenance Issues
+
+Much like [Martin Fowler's technical debt quadrant](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html), we'll repurpose the [Eisenhower Method](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method) to help guide our thinking as we categorize and prioritize our maintenance issues. We use a two-axis framework, `urgency` and `importance`, to prioritize maintenance issues (refactoring, intentional or unintentional technical debt, etc). It's a framework for decision making.
+
+#### `urgency`: "_Will we need it soon?_"
+
+Range: not-urgent or urgent
+
+We can also quantify _urgency_ in a number of ways. One method is based on customer impact. For instance, we can use the number of errors(5xx's code errors; user facing exceptions), error-budget(higher impact leads to higher urgency), or the number of customers impacted by the issue. Other non-customer based urgency could include the timeline for driven changes such as package or gem upgrades.
+
+Defining questions:
+
+1. "What will happen if we don't fix this issue in the next one milestone?"
+1. "Does the business need still exist? Is this still actively being used by our customers?"
+
+#### `importance`: "_How bad is it?_"
+
+Range: not-important or important
+
+Importance can be more subjective. From the your perspective, the relative importance will be filtered through the lens of your role or your discipline.
+
+There are some categories that we can agree are objectively important. These include: defects, system performance (REST and GraphQL APIs; database transaction efficiency), and lack of testing.
+
+Defining questions:
+
+1. "Is the impact local, global, or systemic?"
+1. "Is the return on investment of the possible solution greater than the cost of maintenance?"
+1. "Will this block our ability to deliver new features or to deliver faster?"
+
+#### Maintenance Issues Triage
+
+Engineers are responsible for the triage of maintenance issues using the scheme above and applying the labels below. From time to time the engineering manager may also triage maintenance issues with validation and support from engineers. All maintenance issues should have one of the following scoped labels.
+
+- **urgent-important** will translate to `Utilization::P1`
+- **not-urgent-important** will translate to `Utilization::P2`
+- **urgent-not-important** will translate to `Utilization::P3`
+- **not-urgent-not-important** will translate to `Utilization::P4`
+
+#### Adding Maintenance Issues to the Current Milestone
+
+For each milestone, we should allocate (at a minimum) maintenance issues equal to the number of engineers per discipline. These should be chosen based on the prioritization scheme outlined above.
+
 #### Labels and How We Use Them
 
 We have many labels that can be applied to an issue or a merge request. Besides the issue workflow labels, here are the minimum basic labels to apply to issues *and* merge requests:
@@ -246,6 +288,9 @@ We have many labels that can be applied to an issue or a merge request. Besides 
 - Group that owns the area (`group::utilization`)
 - Discipline (`frontend`, `backend`, `database`, `UX`, `documentation`)
 - `security` if the issue is related to application security, and `breaking change` if this work is considered a breaking change
+
+The extended list of labels that should be applied where applicable to issues and MRs:
+- UI Context: `usage_quota:storage`, `usage_quota:pipeline`, `usage_quota:transfer`, `usage_quota:other`
 
 The `workflow::planning breakdown` label is driven by Product, but is a collaborative effort between Product, UX and Engineering. We are using this label to help drive the refinement, estimation, and breakdown of issues as described above. During that refinement process, the following examples of how the team might contribute towards that effort:
 
