@@ -105,7 +105,7 @@ We will not measure our team's performance based on simply counting the number o
 
 [MITRE ATT&CK](https://attack.mitre.org) is a framework for classifying and describing cyber attacks. We use ATT&CK extensively, as it helps us to align our operations to realistic threats and to speak a common language across security groups.
 
-We use a combination of GitLab CI and GitLab pages to build and host two reporting tools from MITRE:
+We use a combination of GitLab CI pipelines and GitLab Pages to build and host two reporting tools from MITRE:
 
 - [MITRE ATT&CK Flow](https://github.com/center-for-threat-informed-defense/attack-flow)
   - [Our internal automation project](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-internal/automation/ci-attack-flow)
