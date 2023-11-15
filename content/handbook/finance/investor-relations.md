@@ -24,9 +24,10 @@ The timeline for each quarter is as follows. A detailed calendar with DRIs and p
 1. Based on messaging themes, IR to draft an outline of the script to be reviewed by CMO and CFO
 
 ### First and second week after quarter end:
-1. v1 of earnings call script and Q&A are drafted. 
+
+1. v1 of earnings call script and Q&A are drafted.
 1. Preliminary reviews are done with the CFO and CMO, followed by final reviews with the CEO to finalize the script before earnings call
-    1. the script should be drafted in short concise sentences. 
+    1. the script should be drafted in short concise sentences.
     1. The Google Doc should be in pageless format for ease of readability.
 
 1. Blocks of time are set aside on the CEO and CFO calendars for earnings callbacks
