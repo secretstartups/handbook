@@ -115,7 +115,7 @@ Deployments to production will be blocked by the following events:
 
 1. An [active incident with the `blocks deployment` label](/handbook/engineering/infrastructure/incident-management/#labeling).
 1. Ongoing [change issues with the `blocks deployment` label](/handbook/engineering/infrastructure/change-management/#change-criticalities).
-1. Failures in [blocking (`smoke` and `reliable`) automated QA end-to-end tests targeting staging canary (gstg-cny), staging (gstg), production canary (gprd-cny), and production (gprd)](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#qa-test-pipelines).
+1. Failures in [blocking (`smoke` and `reliable`) automated QA end-to-end tests targeting staging canary (gstg-cny), staging (gstg), production canary (gprd-cny), and production (gprd)](/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/#qa-test-pipelines).
 
 Release Managers may decide, with input from the [EOC](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) to override a block and continue with the deployment. 
 
