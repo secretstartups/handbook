@@ -39,7 +39,7 @@ As a larger leadership team, it's important that we remain in constant communica
 
 ### Senior Leadership Meetings
 
-While managers won't generally directly participate in Senior Leadership Meetings, it's important to know they exist, what topics are discussed at what cadence and where the public agenda is. [Read more about Senior Leadership Meetings](/handbook/support/managers/senior/senior-leadership-sync.html).
+While managers won't generally directly participate in Senior Leadership Meetings, it's important to know they exist, what topics are discussed at what cadence and where the public agenda is. [Read more about Senior Leadership Meetings](/handbook/support/managers/senior-leadership-sync).
 
 ## Working with your team
 

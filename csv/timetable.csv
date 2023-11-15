@@ -12,9 +12,9 @@ status,section,anchor,totalpages,markdown,erb,start,finish
 :white_check_mark:,People Group,people-group,211,192,18,2023-09-18,2023-09-28
 :white_check_mark:,Culture,culture,134,67,45,2023-10-02,2023-10-04
 :white_check_mark:,Finance,finance,83,68,16,2023-10-04,2023-10-06
-:construction:,Product,product,414,351,64,2023-10-10,2023-10-13
-:book:,Sales,sales,468,420,44,2023-11-06,2023-11-09
-:book:,Marketing,marketing,415,385,28,2023-11-13,2023-11-16
+:white_check_mark:,Product,product,414,351,64,2023-10-10,2023-10-13
+:white_check_mark:,Sales,sales,468,420,44,2023-11-06,2023-11-09
+:construction:,Marketing,marketing,415,385,28,2023-11-13,2023-11-16
 :book:,Legal,legal,67,67,0,2023-11-20,2023-11-21
 :book:,Engineering,engineering,810,257,553,2023-11-28,2023-12-05
 :book:,Team,team,3,0,1,TBC,TBC

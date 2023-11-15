@@ -348,7 +348,7 @@ Use this workflow for requests to delete user data from Sales or Marketing syste
 
 Users can request the following to obtain information about their data. Use this workflow for requests to access full details about what data we have on the user.
 
-- Data Access Request (provide all data from all systems GitLab have related to the user)
+- Data Access Request (provide all data from all systems GitLab has related to the user)
 - General Questions (any other inquiries related to the users data)
 
 Use the following workflows based on the type of request submitted.
@@ -372,13 +372,13 @@ Use the following workflows based on the type of request submitted.
 
   <p>Greetings,</p>
 
-  <p>You've opened a Data Access Request which is used specifically to obtain a copy of any personally identifiable information GitLab holds on you. In the course of filing this request, you've asked for data beyond the scope of what can be provided.
+  <p>You've opened a Data Access Request which is used specifically to obtain a copy of any personal data GitLab holds on you. In the course of filing this request, you've asked for data beyond the scope of what can be provided.
 
   Usage and other out-of-scope account data can be obtained by logging into your GitLab.com account and cannot be provided through a Data Access Request. If you have specific questions about this kind of data, please review your options for support at https://about.gitlab.com/support.
 
   Regarding this request, we can:
 
-  - continue the process and provide a report of all in-scope personally identifiable information.
+  - continue the process and provide a report of all in-scope personal data.
   - close this request with no further action
 
   Please let us know how you would like to proceed. </p>

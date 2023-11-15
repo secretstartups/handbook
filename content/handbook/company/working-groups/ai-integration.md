@@ -9,12 +9,12 @@ status: active
 | Property        | Value                                                                                                                                             |
 |:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
 | Date Created    | 2022-03-23       |
-| Target End Date | TBD                  |
-| Slack           | `#wg_ai_integration` - Slack channel for the working group and the high level alignment on getting AI ready for Production   |
+| End Date | 2022-11-13              |
+| Slack           | CLOSED `#wg_ai_integration` - Slack channel for the working group and the high level alignment on getting AI ready for Production   |
 | Slack           | `#ai_integration_dev_lobby` - Channel for all implementation related topics and discussions of actual AI features   |
 | Slack | `#g_ai_framework` - Channel for the AI Framework Team which is building the base for all features (experimentation API, Abstraction Layer, Embeddings, etc.) |
 | Slack | `#ai_strategy` - Discussion on strategic and business initiatives surrounding AI/ML at GitLab. |
-| Slack | `#ai-experiments-infra` - Infrastructure/Platform support for AI integration. See also [&969](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/969). |
+| Slack | `#ai-infrastructure` - Infrastructure/Platform support for AI integration. See also [&969](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/969). |
 | AI Architecture Documentation | [Doc](https://docs.gitlab.com/ee/development/ai_architecture) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/19jVbWVYUPW3m7d2SzsXa2zXIAW7pSb2tdQ-AXWzT_DE/edit) |
 | Feature Tracking | [Sheet](https://docs.google.com/spreadsheets/d/1rDEQjJ6NYRdXL9GT6xCSgrRdA-VU3gSnIh-JrjxByA8/edit#gid=0) |
@@ -126,7 +126,7 @@ The following criteria should be met for the group to disband:
 
 ## Engineering Groups
 
-We currently have two core AI Development groups at GitLab: AI Framework group and AI Assisted group.
+We currently have two core AI Development groups at GitLab: AI Framework group and AI Model Validation group.
 
 ### AI Model Validation group
 
@@ -138,7 +138,7 @@ The AI Model Validation group helps all product groups to match the right model(
 - This group can help evaluate models for functional correctness and [model perplexity](https://surge-ai.medium.com/evaluating-language-models-an-introduction-to-perplexity-in-nlp-f6019f7fb914) based on metrics and (often large) benchmark datasets, which is a more statistical evaluation than manual testing. This can help determine the most quality model for a feature's use-case.
 - They work in many languages, including Ruby on Rails, Golang, Python (for machine learning and data science), and Typescript (for the VS Code Plugin). The group comprises of [ML Scientistists](https://medium.com/cogitotech/what-is-the-difference-between-machine-learning-engineer-vs-machine-learning-scientist-cfcf4e48363f), [MLOps Engineers](https://www.databricks.com/glossary/mlops) , [ML Infrastructure Engineers](https://www.reddit.com/r/MLQuestions/comments/zd55mv/what_exactly_is_a_machine_learning_infrastructure/), and [Fullstack engineers](/job-families/engineering/development/fullstack/).
 
-You can contact this group via Slack in [#g_ai_assisted](https://gitlab.slack.com/archives/C023YB2FEUC). View their [issue board here](https://gitlab.com/groups/gitlab-org/modelops/applied-ml/-/boards/5588960?label_name[]=group%3A%3Aai%20assisted&group_by=epic).  To see who is engaged on this effort please see [here](/handbook/product/categories/#ai-assisted-group).
+You can contact this group via Slack in [#g_ai_model_validation](https://gitlab.slack.com/archives/C023YB2FEUC). View their [issue board here](https://gitlab.com/groups/gitlab-org/modelops/applied-ml/-/boards/5588960?label_name[]=group%3A%3Aai%20assisted&group_by=epic).  To see who is engaged on this effort please see [here](/handbook/product/categories/#ai-model-validation-group).
 
 ### AI Framework
 

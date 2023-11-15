@@ -295,36 +295,36 @@
         url: https://about.gitlab.com/handbook/marketing/corporate-communications/incident-communications-plan/
 - name: Sales
   icon: fa-solid fa-handshake
-  url: https://about.gitlab.com/handbook/sales/
+  url: /handbook/sales
   links:
   - name: Commercial
-    url: https://about.gitlab.com/handbook/sales/commercial/
+    url: /handbook/sales/commercial
   - name: Customer Success
-    url: https://about.gitlab.com/handbook/customer-success/
+    url: /handbook/customer-success
   - name: Reseller Channels
-    url: https://about.gitlab.com/handbook/resellers/
+    url: /handbook/resellers
   - name: Field Operations
-    url: https://about.gitlab.com/handbook/sales/field-operations/
+    url: /handbook/sales/field-operations
     links:
     - name: Sales Operations
-      url: https://about.gitlab.com/handbook/sales/field-operations/sales-operations/
+      url: /handbook/sales/field-operations/sales-operations
       links:
       - name: Deal Desk
-        url: https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/
+        url: /handbook/sales/field-operations/sales-operations/deal-desk
       - name: Data Intelligence
-        url: https://about.gitlab.com/handbook/sales/field-operations/data-intelligence/
+        url: /handbook/sales/field-operations/data-intelligence
     - name: Field Enablement
-      url: https://about.gitlab.com/handbook/sales/field-operations/field-enablement/
+      url: /handbook/sales/field-operations/field-enablement
     - name: Sales Strategy
-      url: https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/
+      url: /handbook/sales/field-operations/sales-strategy
     - name: Sales Systems
-      url: https://about.gitlab.com/handbook/sales/field-operations/sales-systems/
+      url: /handbook/sales/field-operations/sales-systems
   - name: Reporting
-    url: https://about.gitlab.com/handbook/business-technology/#reporting
+    url: /handbook/business-technology/#reporting
   - name: Customer Success Management
-    url: https://about.gitlab.com/handbook/customer-success/csm/
+    url: /handbook/customer-success/csm
   - name: Alliances
-    url: https://about.gitlab.com/handbook/alliances/
+    url: /handbook/alliances
 - name: Finance
   icon: fa-solid fa-landmark
   url: /handbook/finance

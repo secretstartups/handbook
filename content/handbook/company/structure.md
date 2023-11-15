@@ -88,7 +88,7 @@ Individual contributors are [Managers of One](/handbook/values/#managers-of-one)
 
 ### People Managers Job Framework
 
-You can find [the Job Framework for People Managers in the tab here](https://docs.google.com/spreadsheets/d/1FX4NBwF099uMBm7mGBtf1orIJZuHEjtiEa3jSbg9jJs/edit#gid=819074618). Below we will describe each level and their reporting structure.
+You can find [the Job Framework for People Managers in the tab here](https://docs.google.com/spreadsheets/d/1FX4NBwF099uMBm7mGBtf1orIJZuHEjtiEa3jSbg9jJs/edit#gid=0). Below we will describe each level and their reporting structure.
 
 #### General Expectations of all People Managers
 
@@ -423,9 +423,9 @@ Because it is our single source of truth (SSOT) for employee data, BambooHR serv
 
 When designating a team members `specialty` we use the smallest unit of our Product [hierarchy](/handbook/product/categories/#hierarchy) and their designated [names](/handbook/product/categories/#naming). So for example:
 
-- A team member who is a stable counterpart in the Code Review group in the Create stage would have the specialty designation of `Create:Code Review`
+- A team member who is a stable counterpart in the Code Review group in the Create stage would have the specialty designation of `Create: Code Review`
 - A team member who is a stable counterpart to the entire Verify stage would have a specialty designation of `Verify`
-- A team member who is a stable counterpart to the Access and Import groups in the Manage stage, and the Gitaly group in the Create stage would have specialty designations of `Manage:Access`, `Manage:Import`, and `Create:Gitaly`.
+- A team member who is a stable counterpart to the Access and Import groups in the Manage stage, and the Gitaly group in the Create stage would have specialty designations of `Manage: Access`, `Manage: Import`, and `Create: Gitaly`.
 
 #### Single-Engineer Groups
 

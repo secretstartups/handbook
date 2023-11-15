@@ -20,6 +20,8 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 
 ### Audit Committee Earnings Meeting Calendar
 
+### Disclaimer - We anticipate covering the following topics and additional topics will be added as needed. The frequency will be changed as needed.
+
 #### Accounting and Reporting
 
 |#|Topics                                                              | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
@@ -101,12 +103,12 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 | 1 |New Accounting Pronouncements                         |Annual |  X  |    |     |     |     |
 | 2 |International Reporting                               |Annual |  X  |    |     |     |     |
 | 3 |Treasury                                              |Annual |  X  |    |  X  |     |     |
-| 4 |APA and other special projects updates                     |Quarterly |  X   |  X  |   X  |  X  |     |
+| 4 |Special Topics                                  |Quarterly |  X   |  X  |   X  |  X  |     |
 | 5 |Summary of tax returns filed YTD)                     |Annual |     |    |     |  X   |    |
 | 6 |Stat Audit Update                                     |Annual |     |    |  X  |     |     |
 | 7 |Audit Committee Calendar Review                       |Annual |     |    |     |  X  |     |
 | 8 |Organization Overviews - Accounting, Finance, Tax, FP&A, Investor Relations                                             |Semi Annual |     | X  |     |  X  |     |
-| 9 |Insurance Coverage Update                          |As needed |     |    |     |     |  X  |
+| 9 |Insurance Coverage Update                          |As needed |     | X   |     |     |  X  |
 |10 |Stock Transactions                                 |As needed |     |    |     |     |  X  |
 |11 |Tax Audits and Assessments/Closing Agreements      |As needed |     |    |     |     |  X  |
 |12 |Attrition                                          |As needed |     |    |     |     |  X  |

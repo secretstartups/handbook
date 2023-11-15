@@ -41,7 +41,7 @@ There are five main components of EQ:
 | **Relationship Management.** | The ability to build and maintain healthy relationships through conflict management, teamwork, and to inspire others. | Inspirational Leadership, Influence, Developing Others & Teamwork, and Conflict Management |
 | **Motivation.** | The ability to pursue goals with energy and persistence and a passion to work for reasons that go beyond money or status. | Optimism , Organizational Committment, and Achievement  |
 
-The components of EQ were developed by psychologist and writer [Daniel Goleman and his colleages](http://jbedwardsandassociates.com/wp-content/uploads/2015/12/HBR-What-makes-a-great-leader-D.-Goleman.pdf). They documented how people with high EQ outperform others in terms of success as managers and executives, yearly sales, and lower turnover rates. Furthermore, they have shown the increasing importance that EQ plays as professionals progress in their careers and reach higher levels of management.
+The components of EQ were developed by psychologist and writer Daniel Goleman and his colleagues. They documented how people with high EQ outperform others in terms of success as managers and executives, yearly sales, and lower turnover rates. Furthermore, they have shown the increasing importance that EQ plays as professionals progress in their careers and reach higher levels of management.
 
 Pure technical skills and intellectual ability are prerequisites for top positions, but they do not differentiate top performers from the rest as well as interpersonal abilities do.
 

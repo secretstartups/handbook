@@ -11,6 +11,38 @@ description: "Gitlab Dedicated Support overview."
 
 If you'd like to work on GitLab Dedicated tickets, consider [creating an issue using the template](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab%20Dedicated) in Support Training, and read the [overview](https://gitlab-com.gitlab.io/gl-infra/gitlab-dedicated/team/).
 
+Below is a list of other GitLab Dedicated Support workflow pages. This is list
+is a temporary measure to workaround the lack of until workflow categories are reintroduced
+
+- [GitLab Dedicated Logs]({{< ref "dedicated_logs" >}})
+- [GitLab Dedicated Observability and Monitoring (Grafana)]({{< ref "dedicated_instance_health" >}})
+- [GitLab Dedicated Switchboard Troubleshooting]({{< ref "dedicated_switchboard" >}})
+
+Here are links to other pages about GitLab Dedicated around GitLab:
+
+- Docs: [Configure GitLab Dedicated](https://docs.gitlab.com/ee/administration/dedicated/)
+- Product: [Glossary of Switchboard terms](https://about.gitlab.com/direction/saas-platforms/switchboard/glossary/)
+- Infrastructure: [GitLab Dedicated internal docs](https://gitlab-com.gitlab.io/gl-infra/gitlab-dedicated/team/) (GitLab internal only)
+- CSM: [Engaging with GitLab Dedicated Customers](https://internal.gitlab.com/handbook/customer-success/csm/gitlab-dedicated/) (GitLab internal only)
+
+### Test and reproduction GitLab Dedicated instance
+
+GitLab Support has access to a GitLab Dedicated instance for testing and problem
+reproduction purposes. This instance can be accessed at the following URLs:
+
+- GitLab: https://dedicatedtestsandbox.gitlab-private.org/
+- OpenSearch: https://opensearch.dedicatedtestsandbox.gitlab-private.org/_dashboards/
+- Grafana: https://grafana.dedicatedtestsandbox.gitlab-private.org/
+
+To receive an invite, ask Armin, Brie, Matthew or Wei-Meng.
+
+The Switchboard console can be accessed at https://console.gitlab-private.org/tenants/40.
+Follow [these instructions](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/switchboard/-/tree/main#process-to-provision-new-users-pre-production-environment)
+to request access. You may use this [example access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/25151)
+as a starting point.
+
+This instance is deployed to the [`Test` environment](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/tree/main#deployed-environments).
+
 ### Administrative access to a Dedicated instance
 
 The GitLab Dedicated team does **not** have administrative access to the [Admin Area](https://docs.gitlab.com/ee/administration/) in the GitLab application on Dedicated instances and neither does the GitLab Support team. Select individuals in the customer organization do have access to the **Admin Area**. Any support requests that require a GitLab instance administrator to make a change in the Admin Area, for example resetting 2FA, has to be performed by the appropriate team within the customer organization.

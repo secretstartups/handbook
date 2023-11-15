@@ -96,6 +96,13 @@ On [this page]({{< ref "/handbook/people-group/calendars" >}}) you can find our 
 
 Each quarter a Slack reminder will go out in #people-manager-and-above channel to review the next quarter calendar events. Each month shows Task, which outlines the people manager responsibility associated with the specific program, and (if applicable) highlights the Key Date. We will also leverage our Manager Newsletter and the Company Newsletter for broadcasting our programs widely.
 
+### Updating calendars
+
+Each month on the first Monday there's a calendar reminder to update the calendars on that date. This calendar reminder includes People Business Partners and the DRI in L&D.
+Also with sharing the calendars in the news letters People Business Partners and L&D will be tagged.
+
+The goal of the calendar is to include information at least two quarters ahead of the current quarter. For questions about the updates to the calendars you can always reach out to People Connect.
+
 ## People Business Partner Alignment to Division
 
 Please reach out to your aligned People Business Partner (PBP) to engage in the following areas:
@@ -273,7 +280,7 @@ If you need assistance reviewing your CultureAmp Survey, please complete this [i
 
 - [Learning & Development]({{< ref "learning-and-development" >}})
 - [Guidance on Feedback]({{< ref "guidance-on-feedback" >}})
-- [Effective Listening]({{< ref "communication#effective-listening" >}})
+- [Active Listening]({{< ref "/handbook/people-group/learning-and-development/manager-coaching-and-leadership-resources#demonstrating-active-listening" >}})
 
 ### Diversity, Inclusion and Belonging
 

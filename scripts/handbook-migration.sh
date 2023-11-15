@@ -23,6 +23,8 @@ SECTION=NOSET
 TITLE=NOTSET
 ICON=NOTSET
 REPORT_OUT=NOTSET
+USE_FILTER_REPO=false
+TMP_REPO=/tmp/gitlab-migration
 # SECTION=job-families
 # TITLE="Job Families"
 # ICON="fa-solid fa-users"
@@ -66,6 +68,12 @@ while [ "$1" != "" ]; do
                                     ;;
         -r | --www-repo)            shift
                                     DUBDUBDUB_REPO=$1
+                                    ;;
+        -T | --temp-loc)            shift
+                                    TMP_REPO=$1
+                                    ;;
+        -g | --filter-repo)         USE_FILTER_REPO=true
+                                    echo -e "${bold}Using Git Filter Repo (experimental)...${normal}"
                                     ;;
         -o | --out)                 shift
                                     REPORT_OUT=$1
@@ -155,56 +163,89 @@ git pull
 
 # Prepare directories
 echo -e "${bold}Making a copy of the www-gitlab-com repo directory...${normal}"
-mkdir /tmp/gitlab-migration
-cp -r $DUBDUBDUB_REPO /tmp/gitlab-migration/www-gitlab-com
-cd /tmp/gitlab-migration/www-gitlab-com
+mkdir -p $TMP_REPO
 
-# subtree split the directories
-echo -e "${bold}Performing git subtree split... this might take a few minutes...${normal}"
-git remote rm origin
-git filter-branch --subdirectory-filter $DIRECTORY_TO_SPLIT -- --all
+TMP_REPO=$TMP_REPO/$(echo $DUBDUBDUB_REPO |rev| cut -d '/' -f 1|rev)
 
-git filter-branch -f --index-filter 'git ls-files -s | sed -e "s/\t\"*/&'$SECTION'\//" |
-    GIT_INDEX_FILE=$GIT_INDEX_FILE.new \
-        git update-index --index-info &&
- mv "$GIT_INDEX_FILE.new" "$GIT_INDEX_FILE"' HEAD
+echo -e "${bold}Switch to copy of www-gitlab-com at ${TMP_REPO}...${normal}"
+cp -r $DUBDUBDUB_REPO $TMP_REPO
+cd $TMP_REPO
 
-# Clean up everything outside of the content and .git directories
-echo -e "${bold}Cleaning up www-gitlab-com repo before commit and migration...${normal}"
-for i in $(/bin/ls -a); do
-    case $i in
-    .)              continue
-                    ;;
-    ..)             continue
-                    ;;
-    .git)           continue
-                    ;;
-    $SECTION)      continue
-                    ;;
-    *)
-        rm -rf $i
-    esac
-done
+if [[ USE_FILTER_REPO == "false" ]]; then
+  # subtree split the directories
+  echo -e "${bold}Performing git subtree split... this might take a few minutes...${normal}"
+  git remote rm origin
+  git filter-branch --subdirectory-filter $DIRECTORY_TO_SPLIT -- --all
+  
+  git filter-branch -f --index-filter 'git ls-files -s | sed -e "s/\t\"*/&'$SECTION'\//" |
+      GIT_INDEX_FILE=$GIT_INDEX_FILE.new \
+          git update-index --index-info &&
+   mv "$GIT_INDEX_FILE.new" "$GIT_INDEX_FILE"' HEAD
+
+   # Clean up everything outside of the content and .git directories
+   echo -e "${bold}Cleaning up www-gitlab-com repo before commit and migration...${normal}"
+   for i in $(/bin/ls -a); do
+       case $i in
+       .)              continue
+                       ;;
+       ..)             continue
+                       ;;
+       .git)           continue
+                       ;;
+       $SECTION)      continue
+                       ;;
+       *)
+           rm -rf $i
+       esac
+   done
+else
+  echo -e "${bold}Performing git filter repo... this might take a few minutes...${normal}"
+  git remote rm origin
+  git filter-repo --force --path $DIRECTORY_TO_SPLIT
+fi
+
 
 # Migrate the content from dubdubdub to handbook using git pull
 # This preserves the git history of all the files we're pulling in
 echo -e "${bold}Performing migration from www-gitlab-com copy to handbook...${normal}"
 cd $HANDBOOK_REPO
 git checkout -b $BRANCH_NAME
-git remote add $SECTION /tmp/gitlab-migration/www-gitlab-com
+git remote add $SECTION $TMP_REPO
 git pull $SECTION master --allow-unrelated-histories --no-edit
-if [[ $IS_HANDBOOK == true ]]; then
-  NEW_SECTION_PATH=content/handbook/$SECTION
-  git mv $SECTION content/handbook/
-elif [[ $IS_COMPANY == true ]]; then
-  NEW_SECTION_PATH=content/handbook/company/$SECTION
-  git mv $SECTION content/handbook/company/
-elif [[ $IS_ENGINEERING == true ]]; then
-  NEW_SECTION_PATH=content/handbook/engineering/$SECTION
-  git mv $SECTION content/handbook/engineering/
+
+
+if [[ USE_FILTER_REPO == "false" ]]; then
+  if [[ $IS_HANDBOOK == true ]]; then
+    NEW_SECTION_PATH=content/handbook/$SECTION
+    git mv $SECTION content/handbook/
+  elif [[ $IS_COMPANY == true ]]; then
+    NEW_SECTION_PATH=content/handbook/company/$SECTION
+    git mv $SECTION content/handbook/company/
+  elif [[ $IS_ENGINEERING == true ]]; then
+    NEW_SECTION_PATH=content/handbook/engineering/$SECTION
+    git mv $SECTION content/handbook/engineering/
+  else
+    NEW_SECTION_PATH=content/$SECTION
+    git mv $SECTION content/
+  fi
 else
-  NEW_SECTION_PATH=content/$SECTION
-  git mv $SECTION content/
+  if [[ $IS_HANDBOOK == true ]]; then
+    NEW_SECTION_PATH=content/handbook/$SECTION
+    git mv sites/handbook/source/handbook/$SECTION content/handbook/
+    rmdir sites/handbook/source/handbook sites/handbook/source sites/handbook sites
+  elif [[ $IS_COMPANY == true ]]; then
+    NEW_SECTION_PATH=content/handbook/company/$SECTION
+    git mv sites/uncategorized/source/company/$SECTION content/handbook/company/
+    rmdir sites/uncategorized/source/company sites/uncategorized/source sites/uncategorized sites
+  elif [[ $IS_ENGINEERING == true ]]; then
+    NEW_SECTION_PATH=content/handbook/engineering/$SECTION
+    git mv sites/handbook/source/handbook/engineering/$SECTION content/handbook/engineering/
+    rmdir sites/handbook/source/handbook/engineering sites/handbook/source/handbook sites/handbook/source sites/handbook sites
+  else
+    NEW_SECTION_PATH=content/$SECTION
+    git mv sites/uncategorized/source/$SECTION content/
+    rmdir sites/uncategorized/source sites/uncategorized sites
+  fi
 fi
 
 if [ -f $NEW_SECTION_PATH/index.html.md ]; then

@@ -1,0 +1,59 @@
+<% skus = data.services %>
+
+<div class="table-responsive">
+  <div class="table-responsive">
+    <table class="table-bordered">
+      <thead>
+      <tr>
+        <th>SKU</th>
+        <th>Item</th>
+        <% if defined?(include_category) != nil %>
+        <th>Category</th>
+       <% end %>
+       <% if defined?(include_stages) != nil %>
+        <th>Product Stages</th>
+        <% end %>
+        <% if defined?(include_cost) != nil %>
+        <th>Price</th>
+        <% end %>
+      </tr>
+      </thead>
+      <tbody>
+          <% data.services.sort_by{ |s| [s.level, s.category] }.each_with_index do |service, index| %>
+            <% if service.key?("sku") && categories.include?(service.category) == true && maturities.include?(service.maturity) == true %>
+            <tr>
+                <td>
+                    <a href="<%= service.standard_sow%>">
+                    <%= service.sku %>
+                    </a>
+                </td>
+                <td>
+                  <a href="<%= service.desc_url%>">
+                  <%= service.name %>
+                  </a>
+                </td>
+                <% if defined?(include_category) != nil %>
+                <td><%= service.category %></td>
+                <% end %>
+                <% if defined?(include_stages) != nil %>
+                <td><%= service.stages %></td>
+                <% end %>
+                <% if defined?(include_cost) != nil %>
+                <td>
+                  <% if service.price %>
+                    <%= number_to_currency(service.price, precision: 0) %> 
+                    <% if service.unit %>
+                        per <%= service.unit %>
+                    <% end%>
+                  <% else %>
+                    Custom
+                  <% end %>
+                </td>
+                <% end %>
+            </tr>
+            <% end %>
+          <% end %>
+      </tbody>
+    </table>
+  </div>
+</div>

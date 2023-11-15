@@ -17,9 +17,18 @@
     {{ range $data }}
         {{ if eq .title $title }}
 - **Description:** {{ .description }}
-- **Provisioner:** {{ .provisioner }}
-- **Deprovisioner:** {{ .deprovisioner }}
-- **Critical Systems Tier:** {{ .critical_systems_tier }}
+{{ with .provisioner }}
+- **Provisioner:** {{ . }}
+{{ end }}
+{{ with .deprovisioner }}
+- **Deprovisioner:** {{ . }}
+{{ end }}
+{{ with .need_move_to_okta }}
+- **Okta Enabled:** {{ . }}
+{{ end }}
+{{ with .critical_systems_tier }}
+- **Critical Systems Tier:** {{ . }}
+{{ end }}
         {{ end }}
     {{ end }}
     {{ end }}

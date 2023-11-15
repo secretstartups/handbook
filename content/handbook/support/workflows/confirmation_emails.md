@@ -18,9 +18,9 @@ If the user has already correctly chosen the problem type, the automation will a
 
 ## **Stage 1:** Locate Account
 
-Before the issue can be resolved we first need to locate the account in question. This can be done by either checking the [GitLab User Lookup App](#check-gitlab-user-lookup-app) or by checking [GitLab Admin](#check-gitlab-admin).
+Before the issue can be resolved we first need to locate the account in question. This can be done by either checking the [GitLab User Lookup App](#method-1-check-gitlab-user-lookup-app) or by checking [GitLab Admin](#method-2-check-gitlab-admin).
 
-### Check GitLab User Lookup App
+### Method 1: Check GitLab User Lookup App
 
 1. Click the `Apps` button located in the top right of the Zendesk interface, while viewing the ticket.
 1. Scroll down to the `GitLab User Lookup` app.
@@ -29,34 +29,29 @@ Before the issue can be resolved we first need to locate the account in question
 
 **If no account was found** use the Zendesk macro [`Support::SaaS::Account does not exist`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/SaaS/Account%20does%20not%20exist.yaml) or, if you believe it's applicable, use [`General::Verify account self-managed or .com`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/General/Verify%20account%20self-managed%20or%20.com.yaml) and then wait for a followup from the user.
 
-### Check GitLab Admin
+### Method 2: Check GitLab Admin
 
 1. In the GitLab SaaS Admin Area, [search for the user](https://gitlab.com/admin/users) by username to confirm the account exists. Alternatively, search in your browser using [the API](https://gitlab.com/api/v4/users?search=email@email.test) or [ChatOps](/handbook/support/workflows/chatops.html#user).
 1. Check the email address against what the user has reported and then perform one of the following fixes:
-    - Did they make a typo when registering? See 👉 [Typo Fix](#typo-fix).
-    - Otherwise, they likely are not receiving their confirmation email due to a suppression. See 👉 [Removing a Suppression in Zendesk](#removing-a-suppression-in-zendesk) or [Removing a Suppression in Mailgun](#removing-a-suppression-in-mailgun).
+    - They likely are not receiving their confirmation email due to a suppression. See 👉 [Stage 2: Fix](#stage-2-fix).
 
 ## **Stage 2:** Fix
 
+Ensure the ticket has the correct:
+
+- Form `SaaS Account`
+- Category, such as `Cannot receive emails`
+- Subcategory, such as `Cannot get confirmation emails`
+- Impacted email address
+
+Zendesk should automatically check for and remove a suppression if found.
+
 ### Typo Fix
 
-1. Ensure the user is a customer with a current paid subscription. (Do not modify free user accounts. Free users must create new accounts with the correct email address)
-1. Ensure the user's account has no activity by checking that the `Confirmed at:` field is blank/nil.
-1. Ensure the user's account has no group or project memberships. If the account does have group or project memberships, then the user must pass the [Account Ownership Verification](/handbook/support/workflows/account_verification.html) workflow before proceding any further.
-1. Change the email address to the correct one using one of the following methods:
-    - **Admin:**
-      1. Pull up the user's account while logged in with your admin account.
-      1. Click `Edit`.
-      1. Change the email address.
-      1. Click `Save changes` when done.
-      1. Remove the old mistyped email address from the account which will have been made a secondary email address on the account by clicking the red X next to it.
-    - **ChatOps:**
-        1. View User: `/chatops run user find <user or email>`
-        1. Edit Email: `/chatops run user update_email <username or current email> <new_email@example.com>`
-1. Double check that the account now has the proper email address as its primary.
-1. Add an [admin note](/handbook/support/workflows/admin_note.html) to the account.
+As of 2023-08-07, unconfirmed users are [deleted after a set number of days](https://docs.gitlab.com/ee/user/gitlab_com/#email-confirmation) on GitLab.com.
+Users are recommended to wait for GitLab to automatically delete the account.
 
-### Removing a Suppression in Zendesk
+### Manually remove a Suppression in Zendesk
 
 1. Click the `Apps` button located in the top right of the Zendesk interface.
 1. Scroll down to the `SaaS Account Ticket Helper` app located below the tag locker app.
@@ -68,7 +63,7 @@ Before the issue can be resolved we first need to locate the account in question
 
 If this process doesn't work you'll need to remove the suppression in Mailgun. See 👉 [Removing a Suppression in Mailgun](#removing-a-suppression-in-mailgun).
 
-### Removing a Suppression in Mailgun
+### Manually remove a Suppression in Mailgun
 
 If the `SaaS Account Ticket Helper` doesn't work for any reason, we can remove suppressions in Mailgun directly:
 
@@ -104,7 +99,7 @@ If the problem is with the customers portal account email, you can send the user
 
 ## Extras
 
-### Checking Mailgun
+### Checking Mailgun logs
 
 On the first attempt, if our email system could not get through (usually server says it's non-existent or similar), then our mail server will put a suppression on sending further emails.
 

@@ -23,6 +23,7 @@ We communicate respectfully and professionally at all times.
 1. **Do not underestimate a 1:1.** Asynchronous communication (e.g., via text) is helpful and necessary. In some cases (e.g., to clarify misunderstandings) it can be much more effective to jump on a Zoom video call.
 1. **Always Adhere to our [Anti-Harassment Policy](/handbook/anti-harassment/) and [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).** Everyone should be comfortable in their work environment.
 1. **Focus on what we can directly influence.** There are many factors we can't directly influence and we should avoid spending time discussing those things. For example, we don't talk about our [market capitalization](/handbook/being-a-public-company/#market-capitalization) because aspects of this are out of our control. Instead, we should focus on our KPIs and growing [annual recurring revenue](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/).
+1. **Commit to [active and effective listening](/handbook/people-group/learning-and-development/manager-coaching-and-leadership-resources/#demonstrating-active-listening)**.
 
 Embracing asynchronous communication and learning to use it effectively requires a mental shift. This can feel unusual or even uncomfortable for those who come from a colocated environment, where in-person meetings and communiques are the norm. Learn more about [mastering the use of the written word in an all-remote setting](/handbook/company/culture/all-remote/effective-communication/).
 
@@ -40,51 +41,6 @@ To learn more on when to use asynchronous and synchronous communication, example
 
 When working on a problem or issue, communicate directly with the people you need support from rather than working through reporting lines. Direct communication with the people you need to collaborate with is more efficient than working through your manager, their manager, or another intermediary.
 Escalate to management if you are not getting the support you need. Remember that everyone is a [manager of one](/handbook/values/#managers-of-one) and they might have to complete their own assignments and inform the reporting lines.
-
-### Top misused terms
-
-Please see our [Top misused terms page](/handbook/communication/top-misused-terms/).
-
-### Effective Listening
-
-It is estimated that listeners will filter out or change the intended meaning of what is heard in 70% of all communications. [Source](https://1personalcareercoach.com/art-listening-good-leader).
-
-**Myths about Listening**
-
-- Everybody knows how to listen.
-- Sending messages is more important than receiving them.
-- Listening is easy and passive.
-- Hearing and listening are the same thing.
-- An effective speaker commands audience attention.
-- Communication is the sender’s responsibility.
-- Listening is done with our ears.
-- Listening skills are practiced and not learned.
-- Listening ability comes from maturity.
-
-**Tips for Effective Listening**
-
-- Concentrate.
-- Give unequivocal attention to the speaker.
-- Don’t anticipate what the speaker means.
-- Test the message not the messenger.
-- Respect cultural difference and boundaries.
-- Develop the fine art of empathy.
-- Try not to interrupt.
-- Focus on feelings and not grammar or vocabulary.
-- Silence is the golden rule.
-
-**Being Assertive**
-
-There is a delicate balance between being confident enough to be assertive of personal rights and boundaries while respectful of others.
-
-- Know the distinction between being assertive and being aggressive or arrogant.
-- Establish clear boundaries when dealing with others.
-- Politely but directly let people know your position.
-- Know what you want.
-- Avoid being timid.
-- Be willing to clearly say either yes or no and stand by your answer.
-- Avoid arrogance.
-- When opinions are in question give yourself permission to disclose yours.
 
 ## Communicating Potentially GitLab Sensitive Topics
 
@@ -877,25 +833,6 @@ Theoretically you can have multiple people in a room with their own equipment bu
 - It is annoying to first hear someone talk in the room and then hear it over audio with a delay.
 - It is hard to consistently mute yourself when not talking to prevent someone else's voice coming through your microphone as well.
 
-### Meeting Cleanup Day
-
-On February 14, or the Tuesday after if this day falls over the weekend or on Monday, we have an annual calendar cleanup day. This is a day when all team members are encouraged to look at their calendars and reassess the value and frequency of recurring meetings. The goals are to increase team member [efficiency](/handbook/values/#efficiency) as team members stop attending low value meetings and reassess how to make continuing meetings more productive. Team members should be empowered to:
-
-- Cancel meetings or change the frequency if they feel that the current cadence does not add sufficient value
-- Remove themselves as meeting attendees if they don't feel that they are contributing or that participation supports business results
-- Ask other team members to reexamine how existing meetings are managed
-
-When cancelling a meeting, a team member can copy and paste this message to send to attendees:
-*I evaluated the need for this meeting as part of [Meeting Cleanup Day](/handbook/communication/#meeting-cleanup-day). I have determined that the meeting is no longer needed. Please get in touch if you have any concerns.*
-
-When changing the cadence of a meeting, a team member can copy and paste this message to send to attendees:
-
-*I reassessed this meeting as part of [Meeting Cleanup Day](/handbook/communication/#meeting-cleanup-day). I have determined that the meeting no longer needs to happen as frequently. Please look for an updated meeting invite and get in touch if you have any concerns.*
-
-If you are a team member who intends to decline a meeting, the [asynchronous communication](/handbook/company/culture/all-remote/asynchronous/#how-to-decline-meetings-in-favor-of-async) section of the handbook has some good suggestions for what to say when you decline.
-
-Meeting Cleanup Day is intentionally a few weeks after the start of the new fiscal year. The CoS to the CEO will launch this initiative annually a week in advance through posting in the `#company-fyi` Slack channel.
-
 ### Types of meetings
 
 #### Ask Me Anything meetings
@@ -1170,6 +1107,39 @@ For example, do not suggest that you're "working in real-time" when a matter is 
 Do not use a cool term such as "tiger team" when the [existing term of "working group"](/handbook/company/team/structure/working-groups/) is more exact. While cool terms such as these may be useful for persuading colleagues to join you in working towards a solution, the right way isn't to use flowery language.
 
 The last example is when we used 'Prioritizing for Global Optimization' for what we now call a [headcount reset](/handbook/product/product-processes/#headcount-resets). When we [renamed it](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/31101/diffs) we saw a good reduction in the use of this disruptive practice of moving people around.
+
+### Using additional languages
+
+Using American English as our standard language supports our values such as efficiency, results, and transparency.
+Careful use of another person's language can be a celebration of diversity and build an atmosphere of inclusion.
+
+The guidance in this section applies to written one-to-one communication, for example, merge request comments between an author and reviewer, not merge request descriptions or commit messages. Also keep the following in mind:
+
+- Use of an additional language is optional.
+- Stick to the few simple phrases in the table below.
+- Always include the language used and a translation to English.
+- Team members can choose to indicate the languages they speak in their Slack profile.
+- When in doubt, use American English.
+
+**Here's an example:**
+
+> Hey @nmalcolm, I left some suggestions for your merge request. Ka mau te wehi! (Te Reo Māori: great work / well done!)
+>
+> ありがとうございます (Japanese: thank you very much) for the review @cynthia!
+
+| Language | Hello | Thank you | Great work / well done |
+|----------|-------|-----------|------------------------|
+| Croatian | | Hvala | |
+| Japanese | | ありがとうございます | |
+| Te Reo Māori | Kia ora | Ngā mihi  | Ka mau te wehi! |
+
+<!--
+Note to table contributors:
+
+- Keep the list in alphabetical order
+- Provide guidance when required, e.g. regarding plurals, formality, gender. If possible provide simple language that is suitable for all circumstances.
+- Provide a template if the placement of a person's name is important, e.g. "Kia ora `NAME`".
+-->
 
 ### Avoid using Git in Project Names
 
@@ -1449,34 +1419,6 @@ As a GitLab Team Member, you can view the active slackbots that we use in Slack,
 | `aggressive` | Did you mean ambitious? |
 | `gitlabber, gitlabbers` | The term `gitlabber` is a commonly misused term. Please use "GitLab team member" instead. You can [read more about this in our handbook](/handbook/communication/top-misused-terms/) |
 
-### Yerbo Slack App
-
-The Yerbo app has been discontinued, and therefore removed from GitLab's resources. However, GitLab still offers other resources to combat [burnout, isolation, and anxiety in an all-remote workplace](/handbook/company/culture/all-remote/mental-health/).
-
-### Frequently Asked Questions regarding why we upgraded to the Enterprise Grid Plan?
-
-1. **Why are we upgrading our Slack Workspace?**
-     - Extend and strengthen GitLab Values, Mission and Culture to Core Team while maintaining compliance as a publicly traded company
-     - Support customer engagement with Slack Connect channels for customer facing teams
-     - Expansion of user roles and additional admin features to reduce IT approval bottlenecks and expedite internal IT requests
-     - Leverage to enterprise compliance and security features to unlock trust across devices, teams, customers, and shareholders.
-1. **How will I login to the new Workspace?**
-     - Simply navigate to your gitlab.okta.com portal and use the Slack SSO Tile as you normally would. You can click [here](https://docs.google.com/document/d/1uIdqjOFJzUkqzDhwITXC0NlNqm4BLQ9PKN9-AOaROt8/edit?usp=sharing) for instructions. (GitLab Team Only)
-1. **Will all the old channels and messages be available in the new Workspace?**
-    - Yes, all channels and messages will be migrated with the Workspace.
-1. **How will the new workspace look different from the old one**
-   - You will be able to see all your channels and messages as normal, except now you’ll see multiple workspaces. This environment design will help us better manage SAFE communication and data.
-1. **Will external accounts (guest accounts) be migrated as well?**
-   - Yes, all guest/partner accounts will be migrated to the new grid space.
-1. **Do I need to sign back into Slack after the migration or will I stay signed in?**
-   - Yes, you will have to sign back into Slack on your devices via Okta.
-1. **Will my Slack applications still work as expected.**
-   - Yes, we expect most if not all applications to work as expected after the migration with the exception of reauthorizations.
-1. **Is there any changes with how GitLab Slack Admins can view/use Slack data?**
-   - No, we were already on the Enterprise Select plan.
-1. **How will we communicate during the migration?**
-   - There will be a temporary workspace provided, you will be able to access this via gitlab.okta.com. (search Slack - GitLab Temporary)
-
 #### When would GitLab use Corporate Export?
 
 The times this feature would be used would be to comply with certain obligations. Corporate Export must be enabled by Slack in accordance with Slack’s policy, which can be found [here](https://slack.com/help/articles/204897248-Guide-to-Slack-import-and-export-tools).
@@ -1620,28 +1562,6 @@ Pages like this are part of the [handbook](/handbook/). The GitLab handbook is t
 ### READMEs
 
 `README` - `README.md` files are what are shown by default when you browse a repository. Contains useful information to give context on what the project/repository are for. These can also be used for [user profiles](https://docs.gitlab.com/ee/user/profile/#add-details-to-your-profile-with-a-readme) as personal READMEs.
-
-## Zoom
-
-GitLab uses [Zoom](https://zoom.us/) as the primary video collaboration platform for internal and external communications. Some of our customers and partners have different preferred tools and to facilitate the communication with those parties, GitLab provides licenses for WebEx and MS Teams. This service is only provided to team members that have a business need to host meetings and where Zoom is not accepted. It is not efficient for GitLab to use multiple video conferencing tools, however we encourage the use of the most popular ones among our customers and partners when needed. E.g.; Zoom, WebEx, MS Teams, Skype, etc.
-
-To request access to those tools, create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) and provide a justification for access.
-
-### Usage guidelines
-
-Please visit the [Tools and Tips handbook](/handbook/tools-and-tips/#zoom) for Zoom usage guidelines.
-
-### Using Zoom for personal connection
-
-[COVID-19](/handbook/total-rewards/benefits/covid-19/) is impacting how team members connect and communicate with family.
-
-Due to school closures, parents are tasked with being responsible for their children while at home. [Family and friends first, work second](/handbook/values/#family-and-friends-first-work-second) is an important Diversity, Inclusion & Belonging operating principle. To that end, we are encouraging GitLab team members to allow their children to connect with other children around the world.
-
-During this time of physical distancing, GitLab team members are welcome to use Zoom to connect with family if other options like FaceTime, etc. are not an option. Please ensure that attendees who are not GitLab team members have their own Zoom account. To ensure GitLab does not incur toll charges, please use Internet-based voice when possible.
-
-### Zoom webinars
-
-Please visit a detailed guide covering [everything you need to know about hosting or participating in a GitLab webinar](/handbook/communication/zoom/webinars/).
 
 ## Google Calendar
 

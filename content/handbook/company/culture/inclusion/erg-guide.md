@@ -528,7 +528,9 @@ To help develop goals you may want to utilize goal setting activities to assist 
 
 ### Finance & Budgets for TMRGs
 
-Each TMRG has a budget of $8000 per year (subject to change during each fiscal year planning) to assist in the activities they wish to engage in to further develop the TMRG, Enable and Empower the members, develop activities & events or to buy merchandise.
+Each TMRG has access to a budget on a per quarter basis to assist in the activities they wish to engage in to further develop the TMRG, Enable and Empower the members, develop activities & events or to buy merchandise.
+
+Details on how to access to the budget are below
 
 **Expenses could include but not limited to:**
 
@@ -542,22 +544,18 @@ Each TMRG has a budget of $8000 per year (subject to change during each fiscal y
 
 Feel free to get creative with how you support and engage the TMRG utilizing the budget to do so.
 
-**Quarterly Forecast Process**
+**Accessing TMRG Budget**
 
-The VP, Diversity Inclusion, and Belonging and G&A Finance Business Partner will review the consolidated TMRG budget by quarter to confirm the total planned expenses are aligned with our quarterly budget.
+Each quarter the DIB Team have a defined amount of funds accessible by the TMRG, in order to access the funds, prior to the quarter beginning the TMRG must provide a plan with a defined amount of budget they require for the quarter. Any funds not assigned or requested will be used by the DIB Team for other activities, partnerships and programming.
 
-On a quarterly basis, each TMRG DRI is responsible for updating the [TMRG Forecast Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1-BZrH1KsRBYl9r0EYEy6VXlKyvGGf585mwoj9Vz5rgA/edit#gid=1333381534) for expected expenses for the remainder of the year. Deadlines for updates are due the 1st day of the following months:
+On a quarterly basis, each TMRG DRI is responsible for updating the [TMRG Forecast Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1-BZrH1KsRBYl9r0EYEy6VXlKyvGGf585mwoj9Vz5rgA/edit#gid=1333381534) for expected expenses for the remainder of the year. Deadlines for updates are due the middle of the following months:
 
-- March
-- June
-- September
-- November - (adjusted timing to align with Annual Planning)
+- January
+- April
+- July
+- October
 
-From FY24 we will be requiring all TMRGs to have had the budget finalized in the [TMRG Forecast Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1-BZrH1KsRBYl9r0EYEy6VXlKyvGGf585mwoj9Vz5rgA/edit#gid=1333381534) by the 2nd of week of the Quarter.
-
-The DIB team will also do a final check 30 days before the end of the quarter to see if your budget will be spent before the end of the quarter.
-
-As our finance processes are a use it or lose it policy we want to ensure that if budget is not being utilized we can reassign that budgeted amount to other initiatives, TMGs or supporting external partnerships.
+As our finance processes are a use it or lose it policy we want to ensure that if budget is not being utilized we can reassign that budgeted amount to other initiatives, TMRGs or supporting external partnerships.
 
 **Submitting/Approval of Expenses**
 
@@ -566,7 +564,7 @@ Prior to submitting a Coupa requisition, please adjust the Billing portion of th
 
 **Swag-** If the purchase is Swag, please follow the outlined process in the [handbook](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#swag-for-tmrgs).
 
-**Charitable Contributions-** For all Charitable Contributions please follow the outlined process in the [handbook](/handbook/finance/procurement/charitable-contributions/) before submitting through Coupa. Please note that all charitable contributions must receive Board approval, so please allow 1-3 months for processing and approval.
+**Charitable Contributions-** Please follow the [Philanthropy Policy](https://about.gitlab.com/handbook/legal/philanthropy-policy/)
 
 **Team Member Expensed-** In some instances, TMRG team members will need to follow the [expense reimbursement policy](/handbook/finance/expenses/). If an item is purchased individually upfront (i.e. meals, books) and the item was budgeted, the team member will submit the receipt to get reimbursed. Reach out in #expense-reporting-inquiries for a new expense tag prior to the event.
 When submitting expenses for reimbursement, please add the “TMRG” classification and the expense tag to your expense when submitting the report.
