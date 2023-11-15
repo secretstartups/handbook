@@ -269,12 +269,12 @@
 /content/handbook/people-group/engineering/ @anechan
 
 ^[product]
-/content/handbook/direction/ @david @fseifoddini @brhea
-/content/handbook/product/ @david @fseifoddini @brhea
+/content/handbook/direction/ @david
+/content/handbook/product/ @david 
 /content/handbook/product/efficiency/ @joshlambert
 /content/handbook/product/saas-efficiency/ @ipedowitz @dsteer @s_awezec @joshlambert @gl-free-saas-user-efficiency-leaders
-/data/performance_indicators/ @david @fseifoddini @brhea
-/content/handbook/company/performance-indicators/product/ @david @fseifoddini @brhea
+/data/performance_indicators/ @david
+/content/handbook/company/performance-indicators/product/ @david
 /data/performance_indicators/enablement_section.yml @joshlambert
 /content/handbook/company/performance-indicators/product/ops-section/ @kbychu @jreporter
 /data/performance_indicators/ops_section.yml @kbychu @jreporter
