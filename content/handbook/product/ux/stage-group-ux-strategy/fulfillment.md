@@ -1,19 +1,9 @@
 ---
-
 title: Fulfillment UX Team
 description: "The Fulfillment UX team supports the Fulfillment section to provide customers a great experience with buying, upgrading and renewing GitLab."
 ---
 
-
-
-
-
-
-## Overview
-
-
-
-## UX team members  
+## UX team members
 
 - [Jacki Bauer](/handbook/company/team/#jackib) ([Jacki's ReadMe](https://gitlab.com/jackib/jacki-bauer/blob/master/README.md)) - Product Design Manager
 - [Emily Sybrant](/handbook/company/team/#esybrant) - Senior Product Designer, Fulfillment
@@ -27,6 +17,7 @@ In Q3, we are exploring the idea of Product Designers being assigned to Projects
 The Fulfillment team is Project focused, and many projects span Groups, leading to gaps in the user experience or frequent designer borrow requests. In order to avoid this, we will assign designers to project areas, and revisit quarterly during OKR planning.
 
 In Q3:
+
 - There should be a prioritization issue in [this project](https://gitlab.com/gitlab-org/fulfillment-meta) to reflect design priorities. There can be an issue per designer, or one issue for the team.
 - Anyone can propose projects identified for design focus in the issue. Product Managers should work with Product Designers and the Product Design Manager to rank the priorities. If multiple PMs are contributing to a project, one should be designated for UX planning.
     - If we had to make a priority call to have projects that will go forward without design support, list those decisions in the issue.
@@ -36,6 +27,7 @@ In Q3:
 
 
 Notes
+
 - To manage workload, designers should generally be assigned to no more than one large and 1 small/medium project at a time, or 3-4 small/medium projects (or the equivalent in issue weights).
 - Designers should use their best judgement and collaborate with their teams to decide which meetings to attend, and aren't expected to attend team sync meetings for multiple teams at the same time.
 - Product Designers will continue to participate in product MRs via Reviewer Roulette. However, since they also do CustomersDot reviews, they are encouraged to set themselves busy when they reach their threshold of MR reviews, so as not to be overwhelmed by both responsibilities.
@@ -49,7 +41,9 @@ One of the ways we track our progress is by measuring the UX of our different wo
 
 View the complete [Fulfillment UX Scorecard Playlist](https://youtube.com/playlist?list=PL05JrBw4t0KplrSGPYZAG8ZDCcyYPBEcz) on YouTube
 
-### [Fulfillment Platform](https://about.gitlab.com/direction/fulfillment/platform/)
+### Fulfillment Platform
+
+[Fulfillment Platform](https://about.gitlab.com/direction/fulfillment/platform/)
 
 | JTBD                                     | Score  | Date | Opportunities                |
 |------------------------------------------|--------|------|------------------------------|
@@ -59,7 +53,9 @@ View the complete [Fulfillment UX Scorecard Playlist](https://youtube.com/playli
 [View Open SUS:Impacting Issues for Fulfillment Platform](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=group%3A%3Afulfillment%20platform&label_name%5B%5D=SUS%3A%3AImpacting&first_page_size=20)
 
 
-### [Billing and Subscription Management](https://about.gitlab.com/direction/fulfillment/billing-and-subscription-management/)
+### Billing and Subscription Management
+
+[Billing and Subscription Management](https://about.gitlab.com/direction/fulfillment/billing-and-subscription-management/)
 
 | JTBD                                     | Score  | Date | Opportunities                |
 |------------------------------------------|--------|------|------------------------------|
@@ -75,7 +71,9 @@ View the complete [Fulfillment UX Scorecard Playlist](https://youtube.com/playli
 
 [View Open SUS:Impacting Issues for Billing & Subscription Management](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=group%3A%3Abilling%20and%20subscription%20management&label_name%5B%5D=SUS%3A%3AImpacting&first_page_size=20)
 
-### [Purchase](https://about.gitlab.com/direction/fulfillment/purchase/)
+### Purchase
+
+[Purchase](https://about.gitlab.com/direction/fulfillment/purchase/)
 
 | JTBD                                     | Score  | Date | Opportunities                |
 |------------------------------------------|--------|------|------------------------------|
@@ -87,7 +85,9 @@ View the complete [Fulfillment UX Scorecard Playlist](https://youtube.com/playli
 
 [View Open SUS:Impacting Issues for Purchase](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=group%3A%3Apurchase&label_name%5B%5D=SUS%3A%3AImpacting&first_page_size=20)
 
-### [Utilization](https://about.gitlab.com/direction/fulfillment/utilization/)
+### Utilization
+
+[Utilization](https://about.gitlab.com/direction/fulfillment/utilization/)
 
 | JTBD                                     | Score  | Date | Opportunities                |
 |------------------------------------------|--------|------|------------------------------|
@@ -100,7 +100,9 @@ View the complete [Fulfillment UX Scorecard Playlist](https://youtube.com/playli
 
 [View Open SUS:Impacting Issues for Utilization](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=group%3A%3Afulfillment%20platform&label_name%5B%5D=SUS%3A%3AImpacting&first_page_size=20)
 
-### [Provision](https://about.gitlab.com/direction/fulfillment/provision/)
+### Provision
+
+[Provision](https://about.gitlab.com/direction/fulfillment/provision/)
 
 | JTBD                                     | Score  | Date | Opportunities                |
 |------------------------------------------|--------|------|------------------------------|
@@ -109,11 +111,6 @@ View the complete [Fulfillment UX Scorecard Playlist](https://youtube.com/playli
 | Linking a sales-assisted subscription to GitLab.com |  | To be scheduled | |
 
 [View Open SUS:Impacting Issues for Provision](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=group%3A%3Aprovision&label_name%5B%5D=SUS%3A%3AImpacting&first_page_size=20)
-
-
-
-
-
 
 ## How We Work
 
@@ -127,7 +124,6 @@ We follow the [Product Designer workflows](/handbook/product/ux/product-designer
 - we create separate issues for UX work and frontend work and name them with the prefix [UX] and [ENG]. This allows the Product Designer to add an issue weight specific to UX. It also keeps conversations confined to their corresponding issues. The [UX] issue should be the design SSOT for both designs and design feedback.
     - when the UX work is complete and the work is ready for the engineering team, we close the [UX] issue and the [ENG] issue should be updated to indicate it's ready to be worked on by linking the [UX] issue in the description of the [ENG] issue and updating the workflow label.
 
-
 #### Getting Work Ready for Design
 
 We use the Product Development Flow to help move issues through the product lifecycle. For the design phase to begin, the following are important:
@@ -138,7 +134,6 @@ We use the Product Development Flow to help move issues through the product life
 [Link to issue template](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issue%5Bmilestone_id%5D=#)
 
 The template can also be copied into the main issue that is the SSOT.
-
 
 #### Collaboration
 

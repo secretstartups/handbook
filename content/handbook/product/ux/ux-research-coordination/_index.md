@@ -1,24 +1,15 @@
 ---
-
 title: "UX Research Operations Coordination at GitLab"
 description: "Learn about how UX Research Operations Coordinators work at GitLab"
 ---
 
-
-
-
-
-
-
-
-
-### How many studies can a UX Research Operations Coordination support?
+## How many studies can a UX Research Operations Coordination support?
 
 The short answer is approximately 5-10 at any given time. The long answer is that it depends on the type of study and the target population. When each study only requires 5-8 participants who are relatively abundant in our database and community, the number of studies recruited per milestone could be ~10. This is also contingent upon the Product Designer and Product Manager submitting their complete requests early enough to allow coordinators to juggle multiple recruiting efforts at once. When there are surveys that require 50+ respondents, or studies addressing new user groups or features, the number of studies recruited per milestone may be closer to 5. Those studies require sustained effort and creativity.
 
 Never hesitate to bring up a recruitment request - the UX Research Operations Coordinator will work with you to schedule the recruiting effort. Feel free to reach out to @Caitlin on Slack.
 
-### How does the UX Research Operations Coordinator plan ahead?
+## How does the UX Research Operations Coordinator plan ahead?
 
 When the number of requests exceeds 10, the coordinator is at over capacity.  When this occurs, there are too many projects to successfully manage at once, and the following side effects are experienced internally and externally to GitLab:
 
@@ -29,7 +20,7 @@ When the number of requests exceeds 10, the coordinator is at over capacity.  Wh
 
 To deal with situations of over capacity, we have two plans of action:
 
-#### 1) Quarterly planning
+### 1) Quarterly planning
 
 Given the nature of how we conduct research at GitLab, it’s difficult to have an accurate view into the pipeline at any given time to understand what research projects will be coming up when.  However, we can rely on research project volume data from the past and predict the cadence of some projects quarterly to plan accordingly.  An example of identified projects that require extra coordination are:
 
@@ -43,7 +34,7 @@ The goal with the quarterly planning exercise is to have a fairly accurate view 
 
 The coordinator is responsible for driving and maintaining the research coordination quarterly planning exercise, the monthly check-ins, and keeping the Google Sheet up to date and accurate.
 
-#### 2) A back-up plan
+### 2) A back-up plan
 
 To keep research projects on track, at least 2 other UX Researchers are [trained to work as UX Research Operations Coordinators](/handbook/product/ux/ux-research-coordination/research-coordinator-fill-in/) when UX Research Operations Coordinator are unavailable or if they are at over capacity and need additional assistance.
 
@@ -61,23 +52,18 @@ Example coverage areas for training:
 
 Ideally, a back-up plan is rarely used if proper planning has been done.
 
-### When over-capacity happens
+## When over-capacity happens
 
 Even with accurate planning, over-capacity can still occur.  When this happens, coordinators have several actions they can take:
 
 - **Inform the team - Be transparent.**  Let the #ux_research channel know, along with managers, that UX Research Operations Coordination is over capacity at the moment along with an estimated timeframe on when they expect things to get back to normal. This automatically sets expectations for existing and new requests.  Lastly, follow-up with a post when capacity returns to normal to let the channel know.
-
 - **Reset expectations on any deliverable dates** - Communicate to the key people on the projects impacted that their deliverable dates may change.
-
 - **Inform participants - Be transparent.**  If participants are negatively impacted, let them know that we’re busy, express a sincere apology, and reset timing expectations with them.
-
 - **Ask for help** - UX Research Operations Coordinators need to ask their trained UX Research Team back-ups for help. UX Research Operations Coordinators will need to delegate the right duties to the UX Researchers to result in the biggest impact.
-
 - **New incoming requests will take longer** - We don’t stop taking on new research when we’re at over capacity.  Instead, we set expectations early with new requests.  New requests will be buffered accordingly to accommodate being at over capacity and project owners are educated as to why.
-
 - **Encourage self-service** - UX Research Operations Coordinators can point people to self-serve resources with a link to instructions in the handbook (ex: using Respondent and User Interviews to find participants, etc).
 
-### When UX Research Operations Coordinator are unavailable
+## When UX Research Operations Coordinator are unavailable
 
 Since UX Research Operations Coordinators have unique duties that are critical to the success of research at GitLab, when they are unavailable, recruitment efforts slow down.  This results in a series of problems for all parties.
 
@@ -93,8 +79,7 @@ Prior to the coordinator becoming unavailable, they create an issue to provide t
 
 It’s the responsibility of the coordinator to make sure their back-up understands their duties and responsibilities.
 
-
-### Can we combine recruiting requests to make recruiting go faster?
+## Can we combine recruiting requests to make recruiting go faster?
 
 In some cases, absolutely. This works best when two or more studies are quite similar (e.g. both require interviews on a similar timeline and have an identical screener).
 

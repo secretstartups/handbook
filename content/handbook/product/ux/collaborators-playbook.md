@@ -1,16 +1,7 @@
 ---
-
 title: "Design collaborator's playbook"
 description: "This page acts as a quick reference of mental models for sync and async collaboration."
 ---
-
-
-
-
-
-
-
-## Intro
 
 **What's it for?**
 This page acts as a quick reference of mental models for sync and async collaboration. Its purpose is to create a common language for collaboration between designers, GitLab team members and the broader GitLab community. It should be used to understand and label patterns in collaboration, pain points, where we get stuck and how to get unstuck. It is not our [design workflow](/handbook/product/ux/product-designer/).
@@ -25,17 +16,20 @@ This page acts as a quick reference of mental models for sync and async collabor
 At GitLab we ship using the [Minimal Viable Change](/handbook/product/product-principles/#the-minimal-viable-change-mvc) (MVC). Designing in this context can often be confusing for newcomers because it's important to consider the big picture as well as the steps for how we get there. To deal with this dichotomy, we design by initially thinking about the mid to long-term vision and then reducing the scope of the experience (in a lovable way) to make implementation quicker. In other words, we design by taking 2 steps forward and 1 step back.
 
 **Actions**
+
 - Use this model with your team to break a vision down into a series of small (MVC) issues
 
 ### Divergent & convergent thinking
 
 From a young age we are often trained to jump to solutions as quickly as possible. This prevents us from taking the time to explore fully all our options. We can overcome this challenge by understanding and leveraging divergent and convergent thinking. These are two of the foundational modes of creative problem-solving:
+
 - Divergent thinking (go broad): Generating lots of different ideas and exploring options without too many constraints in place.
 - Convergent thinking (focus in): Reflecting on your options and ideas, combining them together in unique ways, analysing them, and converging on a solution (with constaints in mind).
 
 ![img](https://pbs.twimg.com/media/Bmn3FOVCQAAt_r7.jpg)
 
 **Actions**
+
 - [Watch short video](https://www.youtube.com/watch?v=xjE2RV6IQzo)
 - Discuss with your team whether it is time for diverging or converging
 - Leverage a synchronous [collaborative cycle](https://play.vidyard.com/riqHqfWV8XFpXM9c1vYEEG)

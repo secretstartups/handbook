@@ -1,15 +1,8 @@
 ---
-
 title: Pajamas Design System
-description: "The goal of Pajamas is to be the single source of truth for the robust library of UI components that 
+description: "The goal of Pajamas is to be the single source of truth for the robust library of UI components that
 we use to build the GitLab product"
 ---
-
-
-
-
-
-
 
 ## What is the Pajamas Design System?
 
@@ -44,6 +37,7 @@ Pajamas enables anyone to contribute towards GitLab. It allows Product, Engineer
 UX Design, and Contributors to work together more seamlessly and improve our product faster.
 
 **It’s efficient.**
+
 - Product Designers can spend more time solving problems and less time designing
 (and redesigning) UI components. Components can be reused, making design efforts
 scalable and ensuring our UI stays [DRY](https://deviq.com/don-t-repeat-yourself/).
@@ -55,6 +49,7 @@ write better code and conform to set practices more efficiently.
 guidelines.
 
 **It creates a cohesive product.**
+
 - GitLab Teams can make fast, continuous feature additions within their iterative
 groups, while still maintaining consistency with other product areas.
 - GitLab Users can get up to speed more quickly on new features, because they
@@ -65,6 +60,7 @@ appealing, consistent, and on brand.
 through a shared visual language.
 
 **It helps GitLab communicate.**
+
 - We can more quickly envision and align on the details of how a proposed solution
 might be implemented.
 - It proves to our customers and Contributors that we have a deep commitment to

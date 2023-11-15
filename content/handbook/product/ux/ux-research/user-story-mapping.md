@@ -1,14 +1,9 @@
 ---
-
 title: "User story mapping"
 description: "User Story mapping is a powerful way to visualize how people are using your product or feature holistically and organize individual stories to that journey."
 ---
 
-
-
-
-
-### What is user story mapping?
+## What is user story mapping?
 
 User Story mapping is a powerful way to visualize how people are using your
 product or feature holistically and organize individual stories to that journey.
@@ -24,7 +19,7 @@ the individual steps in the workflow.
 From there, the stories can be organized in priority ranking, or grouped in to
 milestones to make it easier to think about planning.
 
-### Resources
+## Resources
 
 Here are some resources to learn more about story mapping:
 
