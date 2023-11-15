@@ -485,7 +485,7 @@ Once installed, use `multipass help` to get an idea of what it can do. The gener
    read GL_VERSION
    apt install -y "gitlab-ee=$GL_VERSION-ee.0"
    ```
-   
+  
    ***Please note:*** You need to replace the above password entry "your_root_password" with an alphanumeric password which is not a series of words and phrases otherwise you will encounter the error message "Password must not contain commonly used combinations of words and letters”.
 
 
