@@ -129,7 +129,7 @@ Enterprise users have user accounts that are administered by an organization tha
 
 1. If answer they wish to procceed, use the [Account Ownership Verification workflow](/content/handbook/support/workflows/account_verification.md) to verify ownership.
 
-1. Ask manager approval to proceed. 
+1. Ask manager approval to proceed.
 
 1. If successful, contact Owner:
 - Create a new Zendesk ticket with the top level group owner’s email address as the requester (found in admin) by following [this specific workflow to create ticket and user](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/tickets/#creating-tickets-for-outbound-requests)
