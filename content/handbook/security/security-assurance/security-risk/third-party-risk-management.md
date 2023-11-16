@@ -135,11 +135,11 @@ If a Risk Acceptance was put in place at the time of the previous assessment, in
 | ------ | ------ |------ |------ |------ |------ | ------ |
 |Red*     |3rd Party Attest & [SIG Lite Plus](https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true) (or equiv)|     Yes|          If applicable|     Yes|    If Applicable | Yes |
 |Orange SaaS Systems or Locally Hosted/Installed Systems with Data Exchange| 3rd Party Attest & [SIG Lite Plus](https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true) (or equiv)|     Yes|          Yes|     Yes|     Yes | Yes |
-| Orange Freeware* | 3rd Party Attest or [SIG Lite Plus](https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true) (or equiv) | No | No | Yes | Yes | No|
+| Orange Individual Use Software* | 3rd Party Attest or [SIG Lite Plus](https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true) (or equiv) | No | No | Yes | Yes | No|
 |Orange Professional Services | 3rd Party Attest or [SIG Prof Svcs](https://docs.google.com/spreadsheets/d/1xiReZd5heUl5YVFCqPxEfXJIYlqtz_LS/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true)|          N/A|     N/A| N/A|   N/A| N/A|
 |Yellow/Green**     | N/A |  N/A |  N/A |     Yes*| N/A  | N/A  |
 
-*See **Freeware** section for more details.
+*See **Individual Use Software** section for more details.
 
 Software is inventoried in the tech stack regardless of data classification. See [Tech Stack Application Handbook](/handbook/business-technology/tech-stack-applications/#tech-stack-updates) for more details.
 
@@ -255,11 +255,9 @@ In specific instances, requirements for the performance or contents of TPRM revi
 
 ### Other Types of Third Party Assessments
 
-#### Freeware
+#### Individual Use Software
 
-GitLab Team Members leverage freeware for various tasks on a user-by-user basis. These tools are often developed by smaller organizations which may not have the bandwidth to respond to our security inquiries. In the interest of team member efficiency and the bandwidth of these organizations, and with the limited footprint of these tools in mind, our documentation and inquiry requirements for freeware are comparitively less robust than those set for larger-scale enterprise applications. As such, we place more reliance on 3rd party security attestations and BitSight scoring when completing our assessments for freeware.
-
-Deficiencies identified during the assessment of Freeware applications are reported in alignment with our **TPRM Risk Acceptance** procedures detailed below.
+GitLab Team Members leverage [Individual Use Software](https://handbook.gitlab.com/handbook/finance/procurement/personal-use-software/) for various tasks on a user-by-user basis. Generally, these tools are categorized as having a [Critical System Tier](https://handbook.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/critical-systems/#determining-critical-system-tiers) of '4'. Because Individual Use Software does not have a technical and/or business owner, it is not required to be represented in the [Tech Stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/). Security Risk reserves the right to disallow or not approve the use of Individual Use Software that does not meet GitLab Security requirements. Exceptions to this process (such as Risk Acceptances) will be considered on a case-by-case basis. For more information, refer to GitLab's [Internal Acceptable Use Policy](https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/).
 
 
 #### Change Requests
