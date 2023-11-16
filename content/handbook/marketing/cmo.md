@@ -1,27 +1,17 @@
 ---
-
 title: "Chief Marketing Officer"
 description: "GitLab CMO Handbook: Review requests and communication guidelines"
 twitter_image: '/images/tweets/handbook-marketing.png'
 ---
 
-<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-
-
-
-
-
-
-
-# <i class="fas fa-bullhorn fa-fw color-orange font-awesome"></i> Welcome to the GitLab CMO Handbook
-
-{: .no_toc}
+<i class="fas fa-bullhorn fa-fw color-orange font-awesome"></i> Welcome to the GitLab CMO Handbook
+{.h1}
 
 This page details processes for the Chief Marketing Officer at GitLab, including review and approval requests, communication guidelines, and information-sharing best practices.
 
 Learn more about GitLab's Chief Marketing and Strategy Officer [Ashley Kramer](/handbook/company/team/#akramer) in [her README](https://about.gitlab.com/handbook/marketing/readmes/ashley-kramer.html).
 
-# Communication guidelines
+## Communication guidelines
 
 In an effort to create more efficiency in how we collaborate, please utilize the [#cmo Slack channel](https://gitlab.slack.com/archives/C04C38T1KQV) for items that require CMO **review**, **feedback**, **approval**, to **share updates**, or if you have **questions** directly to the CMO.
 
@@ -45,14 +35,14 @@ Follow the steps and details for workflows that involve different types of revie
 
 Example review request:
 
-```
-@Ashley This MR adds the CMO review requests and communication guidelines page into the marketing handbook. https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/115432 
+```text
+@Ashley This MR adds the CMO review requests and communication guidelines page into the marketing handbook. https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/115432
 
-Context is your request to create a dedicated Slack channel, and documented guidelines for team members to share review requests and content updates, similar to the #ceo Slack channel. 
+Context is your request to create a dedicated Slack channel, and documented guidelines for team members to share review requests and content updates, similar to the #ceo Slack channel.
 
 Please review until 2022-12-01 10am PT. cc @Jeanette McCarthy
 
-Follow-up actions: Share with CMO leadership, add an update for the next Marketing all-hands meeting. 
+Follow-up actions: Share with CMO leadership, add an update for the next Marketing all-hands meeting.
 ```
 
 ### Merge Requests
@@ -66,7 +56,7 @@ Before assigning the CMO for review and approval, please ensure that the followi
 Follow the best practices for merge request reviews in the [CEO handbook](/handbook/ceo/#communicating-merge-requests).
 
 
-## Sharing content to read  
+## Sharing content to read
 
 If you have an interesting article or news item to read and learn, feel free to share it in the [#cmo Slack channel](https://gitlab.slack.com/archives/C04C38T1KQV) too.
 
