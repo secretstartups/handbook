@@ -177,7 +177,11 @@ echo -e "${bold}Switch to copy of www-gitlab-com at ${TMP_REPO}...${normal}"
 cp -r $DUBDUBDUB_REPO $TMP_REPO
 cd $TMP_REPO
 
-if [[ USE_FILTER_REPO == "false" ]]; then
+if [[ $USE_FILTER_REPO == "true" ]]; then
+  echo -e "${bold}Performing git filter repo... this might take a few minutes...${normal}"
+  git remote rm origin
+  git filter-repo --force --path $DIRECTORY_TO_SPLIT
+else
   # subtree split the directories
   echo -e "${bold}Performing git subtree split... this might take a few minutes...${normal}"
   git remote rm origin
@@ -204,10 +208,6 @@ if [[ USE_FILTER_REPO == "false" ]]; then
            rm -rf $i
        esac
    done
-else
-  echo -e "${bold}Performing git filter repo... this might take a few minutes...${normal}"
-  git remote rm origin
-  git filter-repo --force --path $DIRECTORY_TO_SPLIT
 fi
 
 
@@ -220,24 +220,7 @@ git remote add $SECTION $TMP_REPO
 git pull $SECTION master --allow-unrelated-histories --no-edit
 
 
-if [[ USE_FILTER_REPO == "false" ]]; then
-  if [[ $IS_HANDBOOK == true ]]; then
-    NEW_SECTION_PATH=content/handbook/$SECTION
-    git mv $SECTION content/handbook/
-  elif [[ $IS_COMPANY == true ]]; then
-    NEW_SECTION_PATH=content/handbook/company/$SECTION
-    git mv $SECTION content/handbook/company/
-  elif [[ $IS_ENGINEERING == true ]]; then
-    NEW_SECTION_PATH=content/handbook/engineering/$SECTION
-    git mv $SECTION content/handbook/engineering/
-  elif [[ $$IS_MARKETING == true ]]; then
-    NEW_SECTION_PATH=content/handbook/marketing/$SECTION
-    git mv $SECTION content/handbook/marketing/
-  else
-    NEW_SECTION_PATH=content/$SECTION
-    git mv $SECTION content/
-  fi
-else
+if [[ $USE_FILTER_REPO == "true" ]]; then
   if [[ $IS_HANDBOOK == true ]]; then
     NEW_SECTION_PATH=content/handbook/$SECTION
     git mv sites/handbook/source/handbook/$SECTION content/handbook/
@@ -250,7 +233,7 @@ else
     NEW_SECTION_PATH=content/handbook/engineering/$SECTION
     git mv sites/handbook/source/handbook/engineering/$SECTION content/handbook/engineering/
     rmdir sites/handbook/source/handbook/engineering sites/handbook/source/handbook sites/handbook/source sites/handbook sites
-  elif [[ $$IS_MARKETING == true ]]; then
+  elif [[ $IS_MARKETING == true ]]; then
     NEW_SECTION_PATH=content/handbook/marketing/$SECTION
     git mv sites/handbook/source/handbook/marketing/$SECTION content/handbook/marketing/
     rmdir sites/handbook/source/handbook/marketing sites/handbook/source/handbook sites/handbook/source sites/handbook sites
@@ -258,6 +241,23 @@ else
     NEW_SECTION_PATH=content/$SECTION
     git mv sites/uncategorized/source/$SECTION content/
     rmdir sites/uncategorized/source sites/uncategorized sites
+  fi
+else
+  if [[ $IS_HANDBOOK == true ]]; then
+    NEW_SECTION_PATH=content/handbook/$SECTION
+    git mv $SECTION content/handbook/
+  elif [[ $IS_COMPANY == true ]]; then
+    NEW_SECTION_PATH=content/handbook/company/$SECTION
+    git mv $SECTION content/handbook/company/
+  elif [[ $IS_ENGINEERING == true ]]; then
+    NEW_SECTION_PATH=content/handbook/engineering/$SECTION
+    git mv $SECTION content/handbook/engineering/
+  elif [[ $IS_MARKETING == true ]]; then
+    NEW_SECTION_PATH=content/handbook/marketing/$SECTION
+    git mv $SECTION content/handbook/marketing/
+  else
+    NEW_SECTION_PATH=content/$SECTION
+    git mv $SECTION content/
   fi
 fi
 
@@ -481,7 +481,7 @@ if [[ $IS_COMPANY == true ]]; then
 elif [[ $IS_ENGINEERING == true ]]; then
   echo "content/handbook/engineering/$SECTION/**/*.md" >> .markdownlintignore
   sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/engineering/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
-elif [[ $$IS_MARKETING == true ]]; then
+elif [[ $IS_MARKETING == true ]]; then
   echo "content/handbook/marketing/$SECTION/**/*.md" >> .markdownlintignore
   sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/marketing/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
 elif [[ $IS_HANDBOOK == true ]]; then
@@ -520,7 +520,7 @@ if [[ $IS_COMPANY == true ]]; then
 elif [[ $IS_ENGINEERING == true ]]; then
   REDIRECT_SOURCE=/handbook/engineering/$SECTION
   REDIRECT_TARGET=https://handbook.gitlab.com/handbook/engineering/$SECTION
-elif [[ $$IS_MARKETING == true ]]; then
+elif [[ $IS_MARKETING == true ]]; then
   REDIRECT_SOURCE=/handbook/marketing/$SECTION
   REDIRECT_TARGET=https://handbook.gitlab.com/handbook/marketing/$SECTION
 elif [[ $IS_HANDBOOK == true ]]; then

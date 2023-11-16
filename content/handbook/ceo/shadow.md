@@ -89,7 +89,7 @@ All GitLab team members are eligible to apply for the CEO Shadow Program.
 
 Exceptions to eligibility:
 
-CEO Shadow rotations will be reserved for [Functional Leaders](/company/structure/#functional-leaders) during the week of [E-Group Offsites](/handbook/company/offsite/#schedule). An exception will be made if there is last minute availability as two All-Directs are not available to serve in this role during this window.
+CEO Shadow rotations will be reserved for [Functional Leaders](/handbook/company/structure/#functional-leaders) during the week of [E-Group Offsites](/handbook/company/offsite/#schedule). An exception will be made if there is last minute availability as two All-Directs are not available to serve in this role during this window.
 
 **Note:** At this time, all shadow rotations are fully remote.
 Given the CEO generally works from 8 a.m. to 6 p.m. Pacific,
