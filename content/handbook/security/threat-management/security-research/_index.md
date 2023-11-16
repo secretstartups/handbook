@@ -38,9 +38,7 @@ results in a suitable way. This might include:
 
 Even if the outcome of the research is not yielding any spectacular
 outcomes the approaches and procedures conducted during the research
-phase should be documented and published. Depending on the impact or importance
-of the published research the [external communication team]({{< ref "/handbook/security#security-external-communications" >}}) might be involved
-within the publication.
+phase should be documented and published.
 
 ## Methodology
 
