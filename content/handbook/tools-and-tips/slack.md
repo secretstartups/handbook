@@ -9,6 +9,8 @@ description: "Slack usage and tips at GitLab"
 
 ## Channels
 
+Channels are a core feature of Slack. This section describes tools and tips for managing Slack channels. For a list of common GitLab Slack channels, please see the [GitLab Communication Chat](/handbook/communication/chat).
+
 ### Browse Channels
 
 You can browse all available GitLab channels by clicking on "Channels" on the left pane in the Slack app.
