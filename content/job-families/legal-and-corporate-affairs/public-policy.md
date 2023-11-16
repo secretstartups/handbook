@@ -4,9 +4,10 @@ title: Public Policy
 ## Senior Director of Public Policy
 
 ### An overview of this role
+
 The Senior Director of Public Policy will report to the GitLab Chief Legal Officer and will be responsible for creating and maintaining GitLab’s public policy engagement strategy; facilitating relationships across various governing bodies, authorities, commissions and councils, the purpose of which is to represent and further GitLab interests. In addition, this role will help establish and direct policies, corporate strategies and objectives involving local, state, and federal/national government affairs. As part of this role, the Senior Director of Public Policy will lead in the analysis of proposed legislation and treaty’s globally, as well as determine potential impact(s) on GitLab and develop strategy and appropriate responses accordingly.
 
-The Senior Director of Public Policy is a [grade 11](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades_).
+The Senior Director of Public Policy is a [grade 11](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### What you'll do
 
@@ -18,6 +19,7 @@ Partner with leadership and other stakeholders across GitLab to address policy-r
 - Lead the analysis of proposed legislative actions and the development of responses on behalf of GitLab, including responses to inquiries or calls for submissions from legislative bodies or government regulators.
 
 ### What you'll bring
+
 - Minimum 12+ years of public policy and/or government affairs experience, in-house experience preferred. 
 - Proven experience with direct lobbying and ability to conceive and execute policy campaigns, both in the United States and other jurisdictions including the European Union.
 - Strong familiarity with emerging technology public policy trends in the areas of cybersecurity, privacy, antitrust/competition and law enforcement access.
