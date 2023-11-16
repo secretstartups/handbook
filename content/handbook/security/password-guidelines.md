@@ -288,7 +288,7 @@ which you can share with up to 5 family members.
 
 #### Two factor authentication and time-based one time passwords
 
-As stated in the [GitLab Password Standards]({{< ref "password-standard" >}}), the usage of 2FA is mandatory for all GitLab team members. `Users without 2FA enabled that are stale for over 30 days will be blocked/suspended until resolved. This improves the security posture for both the user and GitLab.` If any systems provide an option to use SMS text as a second factor, this is highly discouraged. Phone company security can be easily subverted by attackers allowing them to take over a phone account.
+As stated in the [GitLab Password Standards]({{< ref "password-standard" >}}), the usage of 2FA is mandatory for all GitLab team members. **Users without 2FA enabled that are stale for over 30 days will be blocked/suspended until resolved. This improves the security posture for both the user and GitLab.** If any systems provide an option to use SMS text as a second factor, this is highly discouraged. Phone company security can be easily subverted by attackers allowing them to take over a phone account.
 
 Okta is configured such that it only supports the use of WebAuthn. 1Password TOTP should only be used when WebAuthn is unavailable.
 
