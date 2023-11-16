@@ -19,7 +19,7 @@ Product Marketing communicates GitLab business value internally and externally t
 
 - The PMM Team
 - PM:PMM stable counterparts are listed on the [Product Sections page](/handbook/product/categories/).
-- Solution DRIs are listed on the [Solutions GTM page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/).
+- Solution DRIs are listed on the [Solutions GTM page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/).
 
 ### Core Competencies
 
@@ -41,7 +41,7 @@ PMMs require a broad set of skills, knowledge, and expertise. This lists core co
 
 ### Onboarding
 
-- <b>[Go to the PMM onboarding page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/onboarding)</b> and check out our onboarding guide.
+- <b>[Go to the PMM onboarding page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/onboarding)</b> and check out our onboarding guide.
 
 ### Product Marketing Collaboration
 
@@ -70,20 +70,20 @@ In additional to enabling sales, PMMs should partner with sales and actively eng
 ### Metrics and Measures
 
 1. ARR per solution: Product Marketing Managers are the "Product Managers of Marketing". In the same way a Product Manager is responsible for the product research & development, the Prouct Marketing Manager is responsible for the product go-to-market. In the same way PMs don't have direct authority over engineering, but they collaborate and lead by influence, PMMs don't have direct autority over sales and marketing execution but they collaborate and lead by influence.
-    - At GitLab, PMs are [measured on usage](https://about.gitlab.com/handbook/product/performance-indicators/) of their product area even though they don't have complete control over all of the factors that drive usage, it is a good proxy to help them make decisions that best impact the user.
+    - At GitLab, PMs are [measured on usage](/handbook/product/performance-indicators/) of their product area even though they don't have complete control over all of the factors that drive usage, it is a good proxy to help them make decisions that best impact the user.
     - At GitLab, PMMs are measure on ARR of their solution(s) even though they don't have complete control over all of the factors that drive ARR, it is a good proxy to help them make decisions that best impact the buyer at every stage of the funnel/buyer journey.
 
 ### Solutions Go To Market
 
-[Solutions GTM Page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/)
+[Solutions GTM Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/)
 
 ### Project Management
 
 1. Every project should have a top-level Epic, Issue, doc that outlines the plan and links to all supporting issues and docs.
 1. The plan chart should include columns for
     1. Deliverable or Milestone
-    1. [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/)
-    1. Due Date is ISO format ([point 7](https://about.gitlab.com/handbook/communication/#writing-style-guidelines))
+    1. [DRI](/handbook/people-group/directly-responsible-individuals/)
+    1. Due Date is ISO format ([point 7](/handbook/communication/#writing-style-guidelines))
     1. Status: [On track, Needs Attention, At risk, or DONE](#health-status-definitions)
     1. Note/Next step (optional)
 1. You can use a google sheet, markdown table (in an issue or epic description), or Epic issue list for the plan
@@ -104,13 +104,13 @@ In additional to enabling sales, PMMs should partner with sales and actively eng
 
 ### Key links
 
-- [Messaging](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/messaging/)
-- [GitLab positioning](/handbook/positioning-faq/)
-- [Hidden IT Groups](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/it-groups/)
+- [Messaging](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/messaging/)
+- [GitLab positioning](https://about.gitlab.com/handbook/positioning-faq/)
+- [Hidden IT Groups](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/it-groups/)
 - [Defining GitLab roles and personas](/handbook/product/personas/)
-- [GitLab tiers](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/)
-- [Market segmentation - Industry verticals](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/market-segmentation/)
-- [Use Case - Go to market](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm)
+- [GitLab tiers](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/)
+- [Market segmentation - Industry verticals](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/market-segmentation/)
+- [Use Case - Go to market](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm)
 
 ### PMM Talk Inventory
 
