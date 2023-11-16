@@ -142,8 +142,13 @@ In cases where Customer Support needs to interact with GitLab Dedicated engineer
 ### Escalating an Emergency issue
 
 Emergencies from GitLab Dedicated will come through the [Customer Emergencies On-call Rotation](/handbook/support/workflows/customer_emergencies_workflows) as with other emergency types.
+Support Engineers will forward emergencies by:
 
-The GitLab Dedicated Infrastructure team has a 24/7 PagerDuty rotation: [GitLab Dedicated Platform Escalation](https://gitlab.pagerduty.com/schedules#PE57MNA). To [manually create a PD Incident](/handbook/support/workflows/support_manager-on-call.html#manually-triggering-a-pagerduty-notification_) use the [Dedicated Platform Service](https://gitlab.pagerduty.com/service-directory/P1H70IW) or use the Slack command `/pd trigger` and choose "Dedicated Platform Service" as the Impacted Service to escalate an emergency to an SRE after initial triage and analysis.
+1. Noting initial triage and analysis findings in [a `new-incident` issue](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/incident-management/-/issues/new?issuable_template=new-incident).
+1. Using the Slack command `/pd trigger` and choosing "Dedicated Platform Service" as the Impacted Service to escalate an emergency to an SRE.
+
+Alternatively, [manually creating a PD Incident](/handbook/support/workflows/support_manager-on-call.html#manually-triggering-a-pagerduty-notification_) for  the [Dedicated Platform Service](https://gitlab.pagerduty.com/service-directory/P1H70IW) is also possible.
+The GitLab Dedicated Infrastructure team has a 24/7 PagerDuty rotation: [GitLab Dedicated Platform Escalation](https://gitlab.pagerduty.com/schedules#PE57MNA).
 
 ### Troubleshooting tips
 
