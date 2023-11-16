@@ -1,19 +1,20 @@
 ---
-layout: handbook-page-toc
+
 title: "Blog Handbook"
 description: "Everything you need to know about suggesting and publishing a post on GitLab's blog."
 ---
 
-## On this page
-{:.no_toc}
 
-- TOC
-{:toc}
 
-Welcome to the GitLab Blog handbook! The [GitLab Blog](/blog/) is managed by [the Editorial team](/handbook/marketing/brand-and-product-marketing/content/editorial-team/). The managing editor of the blog is Sandra Gittlen (@sgittlen).
+
+
+
+
+Welcome to the GitLab Blog handbook! The [GitLab Blog](https://about.gitlab.com/blog/) is managed by [the Editorial team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/). The managing editor of the blog is Sandra Gittlen (@sgittlen).
 
 ## What is a blog post
-At GitLab, blog posts largely focus on sharing helpful information with the audience ([DevSecOps professionals](https://about.gitlab.com/handbook/product/personas/)). When you suggest or write a blog post, always consider what it offers the reader. If the post is more internal-focused or a personal essays of sorts, it is likely not a fit for the blog (but could go on your personal LinkedIn page).
+
+At GitLab, blog posts largely focus on sharing helpful information with the audience ([DevSecOps professionals](/handbook/product/personas/)). When you suggest or write a blog post, always consider what it offers the reader. If the post is more internal-focused or a personal essays of sorts, it is likely not a fit for the blog (but could go on your personal LinkedIn page).
 
 Blogs fall into the following categories:
 - Technical tutorials - Example: [GitOps with GitLab: Infrastructure provisioning with GitLab and Terraform](https://about.gitlab.com/blog/2021/11/04/gitops-with-gitlab-infrastructure-provisioning/)
@@ -26,11 +27,13 @@ Blogs fall into the following categories:
 - Guest blog to highlight partnerships/alliances - Example: [How GitLab's integration with Rezilion reduces vulnerability backlog and identifies exploitable risks](https://about.gitlab.com/blog/2022/03/23/gitlab-rezilion-integration-reduces-vulnerability-backlog-identifies-exploitable-risks-to-fix/)
 
 ## We're looking for technical content!
+
 Engineering-driven content performs very well on our blog, so if you have an idea, please ping @sgittlen on Slack or use the [Blog Post Creator](https://demos.gitlab.io/applications/blog-post-creator/#/) to get started. Please reach out to @smanicor and @ning, the creators of the Blog Post Creator, with any feedback. We're eager to showcase all the technical how-to and deep-dive content we can.
 
-[![Blog Post Creator](/images/blogimages/blog-post-creator.png){: .shadow}](https://demos.gitlab.io/applications/blog-post-creator/#/)
+[![Blog Post Creator](/images/blogimages/blog-post-creator.png)](https://demos.gitlab.io/applications/blog-post-creator/#/)
 
 ## Turnaround time from idea to publication
+
 Our "SLA": The blog team will review all ideas - labeled in the template with `Blog::Pitch` within two business days and get back to you with suggestions/go-forward approval. Some blog posts must be reviewed by legal, in accordance with our [Materials Legal Review Process/SAFE program](https://about.gitlab.com/handbook/legal/materials-legal-review-process/). Authors are responsible for reviewing SAFE guidelines and getting Legal approval. This process can take time, just to set expectations.
 
 If you're just looking for feedback on an idea, Slack @sgittlen for same-day turnaround.
@@ -40,28 +43,34 @@ And, if you're an edge case not covered by the above, please Slack @sgittlen.
 Publishing of blog posts occurs according to an editorial calendar. However, that is subject to change based on news/information that is urgent. The blog team will update authors as to their expected publish dates.
 
 ## Blog publishing goals
+
 Volume of posts: We aim to publish four blog posts a week but can most likely find a place for your post, even on busy weeks. So please send us your ideas and let us worry about the scheduling.
 
 Traffic from posts: Ideally every post we publish should support our goal of driving traffic to the website. We apply SEO best practices to posts. It's a combination of art, science, and (sometimes) luck, and we do our best to maximize the page views each post will receive.
 
 ### Blog page metrics
+
 You can self-service checking page views post publication by using [our dashboards](https://about.gitlab.com/handbook/marketing/blog/blog-metrics/).
 
 ## Communication
+
 - Chat channels: Use `#content` for questions (also tag @sgittlen), see `#content-updates` for updates on most recently published articles.
 
 ## Other related pages
-- [Git guide for the blog](/handbook/marketing/blog/git-guide/)
-- [Editorial team page (including blog style guide)](/handbook/marketing/brand-and-product-marketing/content/editorial-team/)
+
+- [Git guide for the blog](https://about.gitlab.com/handbook/marketing/blog/git-guide/)
+- [Editorial team page (including blog style guide)](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/)
 - [Brand guidelines](https://design.gitlab.com/)
-- [Monthly release post](/handbook/marketing/blog/release-posts/)
+- [Monthly release post](https://about.gitlab.com/handbook/marketing/blog/release-posts/)
 
 ## Who can publish content to the GitLab blog?
-[Everyone can contribute at GitLab](/company/mission/#mission). For the blog, this means we welcome your blog suggestions, ideas, and drafts. However, the [main blog](/blog) is one of the many official voices of GitLab – meaning content that is published there must be carefully vetted to ensure we are accurately representing GitLab – both the company and the product. The editorial team, which manages the blog, is tasked with this responsibility.
+
+[Everyone can contribute at GitLab](/handbook/company/mission/#mission). For the blog, this means we welcome your blog suggestions, ideas, and drafts. However, the [main blog](/blog) is one of the many official voices of GitLab – meaning content that is published there must be carefully vetted to ensure we are accurately representing GitLab – both the company and the product. The editorial team, which manages the blog, is tasked with this responsibility.
 
 The editorial team members are the [directly responsible individuals (DRI) for the official GitLab blog](/handbook/people-group/directly-responsible-individuals/).
 
 ## How to suggest a blog post
+
 The first step in publishing a blog is to open an issue in [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and ping @Sgittlen.
 
 Please go down the checklist and makes sure you've accounted for all items.
@@ -76,17 +85,17 @@ If your post is time-sensitive, please ping @sgittlen on Slack. Otherwise, the e
 
 First, please see [if you want to share news/an update or are seeking feedback](#-if-you-want-to-share-newsan-update-or-are-seeking-feedback) to check if you need to open an announcement request issue.
 
-If you have already followed those directions in the [PR handbook](/handbook/marketing/corporate-communications/#requests-for-external-announcements) and the Corporate Communications and Editorial teams have decided that a blog post is the best way to communicate your announcement, please follow the process below.
+If you have already followed those directions in the [PR handbook](https://about.gitlab.com/handbook/marketing/corporate-communications/#requests-for-external-announcements) and the Corporate Communications and Editorial teams have decided that a blog post is the best way to communicate your announcement, please follow the process below.
 
 ### Disclosure process for posts concerning third parties
 
-When proposing or requesting a blog post on a topic that concerns one of GitLab's business partners, it may be appropriate to seek feedback from the partner before publishing. If you are planning a blog post that discusses a partner in depth and you're not sure if it's appropriate to seek partner feedback, please ping a member of the [Partner Marketing](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) team on your issue for their input. If they think the feedback process is necessary, please follow the steps below.
+When proposing or requesting a blog post on a topic that concerns one of GitLab's business partners, it may be appropriate to seek feedback from the partner before publishing. If you are planning a blog post that discusses a partner in depth and you're not sure if it's appropriate to seek partner feedback, please ping a member of the [Partner Marketing](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) team on your issue for their input. If they think the feedback process is necessary, please follow the steps below.
 
 **1. Connect with Alliances**
 
 When brainstorming what topic to discuss and write about, loop in a partner manager from Alliances for feedback and buy-in during the 'ideation phase'.  To check who the relevant partner manager is, share your blog post issue and ask in the #Alliances Slack channel.
 
-At this stage you and Alliances can decide whether or not the blog post topic justifies seeking feedback from the partner in question. If so, please submit your draft blog post MR to the Editorial team for review a **_minimum_ of 5 working days before you plan to publish** to ensure enough time for all parties to review.
+At this stage you and Alliances can decide whether or not the blog post topic justifies seeking feedback from the partner in question. If so, please submit your draft blog post MR to the Editorial team for review a ***minimum* of 5 working days before you plan to publish** to ensure enough time for all parties to review.
 
 **2. Submit draft to partner for feedback**
 
@@ -118,7 +127,7 @@ If you spot a tweet, post, or feedback anywhere detailing an interesting use cas
 
 ### Is your blog post SAFE?
 
-GitLab is a public company, and while transparency remains a core value, we are considering what information falls under "Internal Transparency" and what falls under "External Transparency". The Editorial team has the responsibility of making sure that all blog content is consistent with our **SAFE** guidelines. Below is a summary of the [SAFE guidelines created by our legal team](/handbook/legal/safe-framework/):
+GitLab is a public company, and while transparency remains a core value, we are considering what information falls under "Internal Transparency" and what falls under "External Transparency". The Editorial team has the responsibility of making sure that all blog content is consistent with our **SAFE** guidelines. Below is a summary of the [SAFE guidelines created by our legal team](https://about.gitlab.com/handbook/legal/safe-framework/):
 
 **1. Sensitive:** "The S in SAFE serves as a reminder to make sure that Team Members are not sharing information which could be considered Sensitive information without express approval from GitLab Legal."
 
@@ -146,16 +155,16 @@ Remember: "When considering what information to disclose, Team Members should co
 
 GitLab has a bias for action, and the Editorial team is no different. However, the GitLab Blog is a public-facing asset and represents the company. If the Editorial team has concerns or questions about the information contained in the blog post, the **Editorial team members have the authority to hold a blog post** until Legal, Corporate Commmunications, Partner Marketing, the CMO, etc., can review the blog post to mitigate any potential risk for the company.
 
-Learn more about the [SAFE Guidelines by reading the handbook page](/handbook/legal/safe-framework/) and following the [Materials Legal Review Process](https://about.gitlab.com/handbook/legal/materials-legal-review-process/).
+Learn more about the [SAFE Guidelines by reading the handbook page](https://about.gitlab.com/handbook/legal/safe-framework/) and following the [Materials Legal Review Process](https://about.gitlab.com/handbook/legal/materials-legal-review-process/).
 
 ### Diversity, Inclusion, and Belonging (DIB) checklist for blog writers
 
-It is important that our blog content represents our company values of diversity, inclusion, and belonging. Not all of these points will be relevant to your blog post, but they are important values and practices to be mindful of throughout the writing process. The blog editorial team tries to check for these things, but it is better if all content is created with these values and practices in mind. Tag us or a member of the [DIB team](https://about.gitlab.com/company/culture/inclusion/) if you have questions!
+It is important that our blog content represents our company values of diversity, inclusion, and belonging. Not all of these points will be relevant to your blog post, but they are important values and practices to be mindful of throughout the writing process. The blog editorial team tries to check for these things, but it is better if all content is created with these values and practices in mind. Tag us or a member of the [DIB team](/handbook/company/culture/inclusion/) if you have questions!
 
 #### Inclusive formatting
 
-- Did you select an [inclusive](/handbook/marketing/blog/#inclusive-photos) cover image and/or screengrab?
-- Write descriptive alternative text for all [inline images and screengrabs](/handbook/marketing/blog/#inline-images). Alternative text is important for SEO and accessibility. Read this [article from Moz to learn more about writing alternative text](https://moz.com/learn/seo/alt-text).
+- Did you select an [inclusive](https://about.gitlab.com/handbook/marketing/blog/#inclusive-photos) cover image and/or screengrab?
+- Write descriptive alternative text for all [inline images and screengrabs](https://about.gitlab.com/handbook/marketing/blog/#inline-images). Alternative text is important for SEO and accessibility. Read this [article from Moz to learn more about writing alternative text](https://moz.com/learn/seo/alt-text).
 - Ensure that all links are meaningful and descriptive (e.g. avoid link text such as "read here" or "this article"). Descriptive links are more useful and accessible for people using screen readers.
 
 #### Inclusive writing
@@ -163,20 +172,20 @@ It is important that our blog content represents our company values of diversity
 - Write short and concise sentences. Clear writing with short sentences makes it easier for the reader to follow along.
 - Limit your use of jargon, and if you must use a jargon-y term, define it on the first instance.
 - GitLab is a global team with a global community, so you want to write for a global audience. This means limiting your use of regional metaphors and not writing in a manner that is United States-centric.
-- Does the post use [inclusive language](/company/culture/inclusion/#inclusive-language)? An example of inclusive language: "Hi folks/Hi everyone/ Hi y'all" versus "Hi guys".
-- If you're still not sure about your use of inclusive language (or just want to check to be sure) test it out against the [inclusiveness check tool](https://inclusiveness-check.herokuapp.com/) developed by GitLab team member, [Lien Van Den Steen](/company/team/#lienvdsteen). Here's [how the tool works](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-operations-engineering/-/issues/72) and the [words it checks against are listed in the linked project](https://gitlab.com/lienvdsteen/linter/-/tree/master/data).
-- Is every individual in the blog post quoted using their [preferred pronoun](/handbook/people-group/orientation-identity/#how-do-i-know-which-pronouns-to-use)? Tip: If you don't know someone's preferred pronoun, just ask them. It should also be included on the [team page profile](/company/team/#close-modal) and Slack profile.
+- Does the post use [inclusive language](/handbook/company/culture/inclusion/#inclusive-language)? An example of inclusive language: "Hi folks/Hi everyone/ Hi y'all" versus "Hi guys".
+- If you're still not sure about your use of inclusive language (or just want to check to be sure) test it out against the [inclusiveness check tool](https://inclusiveness-check.herokuapp.com/) developed by GitLab team member, [Lien Van Den Steen](/handbook/company/team/#lienvdsteen). Here's [how the tool works](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-operations-engineering/-/issues/72) and the [words it checks against are listed in the linked project](https://gitlab.com/lienvdsteen/linter/-/tree/master/data).
+- Is every individual in the blog post quoted using their [preferred pronoun](/handbook/people-group/orientation-identity/#how-do-i-know-which-pronouns-to-use)? Tip: If you don't know someone's preferred pronoun, just ask them. It should also be included on the [team page profile](/handbook/company/team/#close-modal) and Slack profile.
 
 ### More DIB writing tips
 
-- Is your blog post biased? We all have unconscious biases. Take our [recognizing bias training](/company/culture/inclusion/unconscious-bias/#recognizing-bias-training), check the [list of unconscious biases in our DIB handbook page](/company/culture/inclusion/unconscious-bias/#unconscious-biases-to-look-out-for-in-ourselves-and-in-others) and practice strategies for [recognizing and managing yours](/company/culture/inclusion/unconscious-bias/#tips-on-recognizing-and-avoiding-bias).
-- If you still have questions, don't hesitate to tag the editorial team lead @sgittlen, leads of the appropriate [team member resource group (TMRG)](/company/culture/inclusion/erg-guide/) in your blog issue, or email diversityinclusionandbelonging@gitlab.com with your questions.
+- Is your blog post biased? We all have unconscious biases. Take our [recognizing bias training](/handbook/company/culture/inclusion/unconscious-bias/#recognizing-bias-training), check the [list of unconscious biases in our DIB handbook page](/handbook/company/culture/inclusion/unconscious-bias/#unconscious-biases-to-look-out-for-in-ourselves-and-in-others) and practice strategies for [recognizing and managing yours](/handbook/company/culture/inclusion/unconscious-bias/#tips-on-recognizing-and-avoiding-bias).
+- If you still have questions, don't hesitate to tag the editorial team lead @sgittlen, leads of the appropriate [team member resource group (TMRG)](/handbook/company/culture/inclusion/erg-guide/) in your blog issue, or email diversityinclusionandbelonging@gitlab.com with your questions.
 
 ## Formatting guidelines
 
 To publish to the blog, you will need to create a merge request for the www-gitlab-com project with a file of your blog post content formatted in Markdown. There are a few ways to go about this outlined [below](#when-youre-ready-to-create-your-blog-post).
 
-Please read through the [Markdown guide](/handbook/markdown-guide/) for reference.
+Please read through the [Markdown guide](https://about.gitlab.com/handbook/markdown-guide/) for reference.
 
 If you like, you can start by drafting your post in a Google Doc (feel free to make a copy of this [blog post template](https://docs.google.com/document/d/1TavHlYbHQ8U1C82TEzcYaLS9l0sm89jEcBNQ0gBgkcw/edit)). Below are instructions for formatting the content of your file correctly. If you already have your content ready to go, you can jump ahead to see [how to add your blog post file with a merge request](#when-youre-ready-to-create-your-blog-post).
 
@@ -216,7 +225,7 @@ The title is the headline for your post. Headlines matter, both to the reader an
 
 Write out the author's name here. If you want to credit multiple authors please use the following format:
 
-`Anthony Davanzo and Kelly Hair` (see a [live example of multiple authors](/blog/2019/09/17/gitlab-hashicorp-terraform-vault-pt-1/))
+`Anthony Davanzo and Kelly Hair` (see a [live example of multiple authors](https://about.gitlab.com/blog/2019/09/17/gitlab-hashicorp-terraform-vault-pt-1/))
 
 Please include the `guest: true` field in the frontmatter as well.
 
@@ -247,13 +256,13 @@ We try to keep images on the blog neutral in terms of gender, ethnicity, etc. Th
 
 ##### Original images
 
-If you would like an original design for your blog post image, please [open a design request](/handbook/marketing/inbound-marketing/#brand-and-design-issue-templates).
+If you would like an original design for your blog post image, please [open a design request](https://about.gitlab.com/handbook/marketing/inbound-marketing/#brand-and-design-issue-templates).
 
-If you prefer, you can [create an image](#preparing-images) yourself. However, please see [legal guidance for use of "AI-generated images"](/handbook/legal/ip-public-materials-guidelines/#ai-generated-images).
+If you prefer, you can [create an image](#preparing-images) yourself. However, please see [legal guidance for use of "AI-generated images"](https://about.gitlab.com/handbook/legal/ip-public-materials-guidelines/#ai-generated-images).
 
 ##### Images for integration posts
 
-If the blog post is about an integration, the DRI from Partner Marketing should [open a design request](/handbook/marketing/inbound-marketing/#brand-and-design-issue-templates) for a custom cover image as far in advance as possible.
+If the blog post is about an integration, the DRI from Partner Marketing should [open a design request](https://about.gitlab.com/handbook/marketing/inbound-marketing/#brand-and-design-issue-templates) for a custom cover image as far in advance as possible.
 
 #### Featured
 
@@ -278,18 +287,18 @@ If you're not sure which category your post belongs in, just put a placeholder i
 - `insights` – industry, data, newsjacking, developer survey, etc.
 - `news` – company or product announcements (including policy changes, operational announcements, and breaking changes), news, or events
 - `security` – security-related posts
-- `releases` - release posts, security and patch releases. Posts in the `releases` category need to be in the `sites/uncategorized/source/releases/posts` directory, not `sites/uncategorized/source/blog/blog-posts`. Please see the [Release Post handbook](/handbook/marketing/blog/release-posts/) for more.
+- `releases` - release posts, security and patch releases. Posts in the `releases` category need to be in the `sites/uncategorized/source/releases/posts` directory, not `sites/uncategorized/source/blog/blog-posts`. Please see the [Release Post handbook](https://about.gitlab.com/handbook/marketing/blog/release-posts/) for more.
 
 #### Description
 
 This field should provide a short summary of your blog post. It's best to think about your description in relation to the [title](#title) of your post. **Don't repeat the title in the description**; use it as an opportunity to provide more context or information about your post for the reader, and to work in the primary keywords.
 
 The [`description`](https://moz.com/learn/seo/meta-description) meta tag is important
-for SEO, and it appears underneath the title of your post on the post itself and on the [blog index page](/blog/). It is also part of Facebook Sharing and Twitter Cards. Descriptions should be limited to 150 characters, otherwise the text will be cut off on the index page.
+for SEO, and it appears underneath the title of your post on the post itself and on the [blog index page](https://about.gitlab.com/blog/). It is also part of Facebook Sharing and Twitter Cards. Descriptions should be limited to 150 characters, otherwise the text will be cut off on the index page.
 
 #### Tags
 
-These are included to help readers find similar posts if they are interested in a particular subject. Tags appear at the top of each blog post, and clicking on a tag takes you to [/blog/tags](/blog/tags.html) where you can view all tagged posts and browse by tag.
+These are included to help readers find similar posts if they are interested in a particular subject. Tags appear at the top of each blog post, and clicking on a tag takes you to [/blog/tags](https://about.gitlab.com/blog/tags.html) where you can view all tagged posts and browse by tag.
 
 You can include as many tags as you like, separated by commas. Please only include tags from the following list, and note that they are case sensitive.
 
@@ -375,10 +384,10 @@ We use these to make it faster to track the effectiveness of different types of 
 1. **`content-marketing`:** Examples, education, reporting, storytelling, thought leadership, and use cases. Most blog posts fall into this category.
 1. **`corporate`:** Company news, announcements, and community updates (ex: issue bash, contributor profiles).
 1. **`product`:** Release posts, critical updates, and partnership announcements.
-1. **`dev-evangelism`:** Blog posts authored or contributed to by members of the [Developer Evangelism](/handbook/marketing/developer-relations/developer-evangelism/) team.
-1. **`product-marketing`:** Blog posts authored or contributed to by members of the [Product Marketing](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/) team.
-1. **`edu-program`:** Blog posts authored or contributed by [Education Program Team](/handbook/marketing/developer-relations/community-programs/education-program/)
-1. **`oss-program`:** Blog posts authored or contributed by [Open Source Program Team](/handbook/marketing/developer-relations/community-programs/opensource-program/)
+1. **`dev-evangelism`:** Blog posts authored or contributed to by members of the [Developer Evangelism](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/) team.
+1. **`product-marketing`:** Blog posts authored or contributed to by members of the [Product Marketing](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/) team.
+1. **`edu-program`:** Blog posts authored or contributed by [Education Program Team](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/)
+1. **`oss-program`:** Blog posts authored or contributed by [Open Source Program Team](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/opensource-program/)
 1. **`gitlab-duo`:** Blog posts authored or contributed on GitLab Duo
 1. **`engineering`** Blog posts authored or contributed by members of the Engineering organization
 1. **`general-blog`:** Where a blog post doesn't fall into any of the categories above, using the `general-blog` helps ensure every blog post has a post type and can be tracked.
@@ -404,7 +413,7 @@ We can now embed a CTA for readers to sign up for our monthly "DevSecOps Downloa
 
   Result:
 
-  ![Newsletter sign-up CTA variant A](/images/handbook/marketing/newsletter-cta-a.png){: .shadow}
+  ![Newsletter sign-up CTA variant A](/images/handbook/marketing/newsletter-cta-a.png)
 
   OR
 
@@ -414,7 +423,7 @@ We can now embed a CTA for readers to sign up for our monthly "DevSecOps Downloa
 
   Result:
 
-  ![Newsletter sign-up CTA variant B](/images/handbook/marketing/newsletter-cta-b.png){: .shadow}
+  ![Newsletter sign-up CTA variant B](/images/handbook/marketing/newsletter-cta-b.png)
 
   Note: this only works for blog post files with the extension `.html.md.erb`.
 
@@ -434,7 +443,7 @@ Example:
 
 Renders:
 
-![Click to tweet](/images/handbook/marketing/click-to-tweet.png){: .shadow}
+![Click to tweet](/images/handbook/marketing/click-to-tweet.png)
 
 ### Related posts
 
@@ -444,11 +453,11 @@ Ideally you should choose three blog posts related to your post, using the URL f
 
 These should be included by default on all blog posts. Use your discretion; if it doesn't seem appropriate to include merchandizing on a post you can leave out either the sidebar or both the sidebar and banner. Examples: If we're announcing a partnership or integration, if the blog post contains lots of images and a sidebar could distract from the content, or if the blog post is very technical in nature (a tutorial or post describing a security advisory, offensive security practices, etc.) and merchandizing undermines the authenticity or intent of the content or author.
 
-There are two steps to include these: Designate what merch sidebar and banner to add in the front matter [example frontmatter above](/handbook/marketing/blog/#frontmatter), and add the merch sidebar inside your content:
+There are two steps to include these: Designate what merch sidebar and banner to add in the front matter [example frontmatter above](https://about.gitlab.com/handbook/marketing/blog/#frontmatter), and add the merch sidebar inside your content:
 
 ### Adding code blocks
 
-Below are the two types of code blocks we commonly use on the blog. Find a number of other options in the [Markdown guide](/handbook/markdown-guide/#code-blocks).
+Below are the two types of code blocks we commonly use on the blog. Find a number of other options in the [Markdown guide](https://about.gitlab.com/handbook/markdown-guide/#code-blocks).
 
 #### In-line code
 
@@ -508,6 +517,7 @@ document.querySelectorAll('a[href^="#"]').forEach(elem => {
 ```
 ```code goes here```javascript
 ```
+
 (or other languages/syntaxes such as yaml, ruby, sql, etc)
 
 ```javascript
@@ -573,7 +583,7 @@ For images not from Unsplash:
 To add an image inline, insert the following into your markdown file, where you want the image to appear:
 
 ```md
-![Alt text for your image](/images/blogimages/your-image-filename.jpg){: .shadow}
+![Alt text for your image](/images/blogimages/your-image-filename.jpg)
 ```
 
 The alt text for your images should describe the content and function of your image for visitors using a screen reader.
@@ -635,18 +645,18 @@ to exemplify your steps `domain.com`, be consistent and keep it `domain.com`, th
 
 #### Embedding videos
 
-Please see the [Markdown Guide](/handbook/markdown-guide/#display-videos-from-youtube) for instructions for embedding videos from YouTube and other sources.
+Please see the [Markdown Guide](https://about.gitlab.com/handbook/markdown-guide/#display-videos-from-youtube) for instructions for embedding videos from YouTube and other sources.
 
 If appropriate, please add a video credit, for example:
 
 ```
-Video directed and produced by [Aricka Flowers](/company/team/#arickaflowers)
+Video directed and produced by [Aricka Flowers](/handbook/company/team/#arickaflowers)
 {: .note}
 ```
 
 #### Embedding tweets or Instagram posts
 
-Please see the [Markdown guide for instructions for embedding posts from social media](/handbook/markdown-guide/#embed-tweets).
+Please see the [Markdown guide for instructions for embedding posts from social media](https://about.gitlab.com/handbook/markdown-guide/#embed-tweets).
 
 #### Creating GIFs
 
@@ -679,7 +689,7 @@ If your blog post issue is confidential, please don't create an MR using the but
 
 **Note that your MR will not be confidential**. If information is under embargo it is best to prepare the blog post in a Google Doc or locally and create the MR ~1 hour ahead of publish time to keep the blog post private. This is to allow time for pipelines to pass before the post is live. Just give the branch and MR generic names to avoid drawing attention to them.
 
-**For time-sensitive announcements** we recommend finding out from #production on Slack who the [Engineer On Call](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) will be at the time you are hoping to publish, so you can give them a heads up about the plans and you know who to contact on the day if there are any production issues with GitLab.com.
+**For time-sensitive announcements** we recommend finding out from #production on Slack who the [Engineer On Call](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) will be at the time you are hoping to publish, so you can give them a heads up about the plans and you know who to contact on the day if there are any production issues with GitLab.com.
 
 
 ### Creating a blog post MR from the UI
@@ -797,7 +807,7 @@ You may find this video walkthrough helpful for creating your blog post MR from 
 
 ### Creating a post from the command line
 
-You will need to be set up to edit the website locally in order to create your post this way. Please see [how to edit locally](/handbook/git-page-update/) for instructions. If you're already set up:
+You will need to be set up to edit the website locally in order to create your post this way. Please see [how to edit locally](https://about.gitlab.com/handbook/git-page-update/) for instructions. If you're already set up:
 
 - Run `git checkout master`
 - Run `git pull` to ensure your version of master is up to date with GitLab.com
@@ -812,7 +822,7 @@ Hit **enter** or **return**, then you'll be prompted to enter the post title. Ty
 
 ### Adding a cover image to your blog post MR
 
-Most blog posts require a new [cover image](#cover-image). You should upload your chosen image to the same branch as your blog post file, so that it is all included in the same MR. This means it will be published to the website simultaneously, and also allows you to preview your cover image in the review app. 
+Most blog posts require a new [cover image](#cover-image). You should upload your chosen image to the same branch as your blog post file, so that it is all included in the same MR. This means it will be published to the website simultaneously, and also allows you to preview your cover image in the review app.
 
 #### Step 1: Upload image file
 

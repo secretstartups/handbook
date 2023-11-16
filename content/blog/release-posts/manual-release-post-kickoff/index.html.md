@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Manual Release Post Kickoff"
 description: "Guidelines to for manually kicking off the Release Post"
 ---
@@ -23,7 +23,7 @@ If the automated pipeline fails, the manual steps below can be done either local
 
 ### Create the release post MR
 
-Create a merge request with the introductory changes _after the previous post has been merged and before the feature freeze date_ to make the post available to receive contributions from the team:
+Create a merge request with the introductory changes *after the previous post has been merged and before the feature freeze date* to make the post available to receive contributions from the team:
 
 1. The source branch must be `release-X-Y` and the target branch `master`.
 1. Set the title to `Draft: Release post - GitLab X.Y`.  Prefix the title with `Draft:`.
@@ -75,7 +75,7 @@ The `bin/release-post-assemble` script makes this easy to do:
 
 If for some reason the content assembly bot fails, the simplest way to move forward is to move the files manually. There is also a video walking through the changes [here](https://www.youtube.com/watch?v=SAtiSiSh_eA).
 
-1. Manually move all the `.yml` files from `/data/releases_posts/unreleased/` to `/data/release_posts/x_y/` (`x_y` being the release post directory e.g. `13_2`). | _Note: Leave the `/samples` directory in the same location, don't move it._
+1. Manually move all the `.yml` files from `/data/releases_posts/unreleased/` to `/data/release_posts/x_y/` (`x_y` being the release post directory e.g. `13_2`). | *Note: Leave the `/samples` directory in the same location, don't move it.*
 1. Manually move all the images in `/source/images/unreleased/` to `/source/images/x_y/`.
 1. Using a text editor like VS Code **find and replace** all the image paths under `image_url:` in each release post `.yml` file from `/unreleased/` to `/x_y/`. The video above demonstrates that.
 1. `git commit` and `git push` and you should be good to go.
@@ -109,7 +109,7 @@ Traceback (most recent call last):
 /Users/chase/.asdf/installs/ruby/2.6.6/lib/ruby/2.6.0/rubygems/core_ext/kernel_require.rb:117:in `require': cannot load such file -- styled_yaml (LoadError)
 ```
 
-In this case, Ruby is trying to load a file named `styled_yaml`. It's not clear that this is a gem (a self-contained Ruby library), but the `require` statement in the output is a clue that there is some unresolved dependency here. **The action you should take in this case is to run `bundle install`**. You can also run `./bin/doctor` and it _should_ provide guidance on what to do. If you're uncomfortable or encounter have difficulty here, you can reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement.
+In this case, Ruby is trying to load a file named `styled_yaml`. It's not clear that this is a gem (a self-contained Ruby library), but the `require` statement in the output is a clue that there is some unresolved dependency here. **The action you should take in this case is to run `bundle install`**. You can also run `./bin/doctor` and it *should* provide guidance on what to do. If you're uncomfortable or encounter have difficulty here, you can reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement.
 
 **Ruby mismatch**
 
@@ -127,7 +127,7 @@ To install Ruby in the most popular Ruby version managers, try:
 
 If you're uncomfortable or encounter have difficulty here, you can reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement.
 
-Note that the handbook currently [suggests](https://about.gitlab.com/handbook/git-page-update/#4-install-ruby-version-manager-rvm) `rvm`, while engineering has adopted `asdf`. You may find other references to `rbenv` in this documentation too. Any of these are fine, but they all work a bit differently and you _**only need one Ruby version manager installed**_.
+Note that the handbook currently [suggests](https://about.gitlab.com/handbook/git-page-update/#4-install-ruby-version-manager-rvm) `rvm`, while engineering has adopted `asdf`. You may find other references to `rbenv` in this documentation too. Any of these are fine, but they all work a bit differently and you ***only need one Ruby version manager installed***.
 
 It is also possible that your ruby version manager is misconfigured or your settings have been altered because of an upgrade to macOS especially from earlier versions to Catalina or higher. It's difficult to suggest an action for this scenario, you may want to reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement.
 

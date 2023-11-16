@@ -1,20 +1,21 @@
 ---
-layout: handbook-page-toc
+
 title: "Git Guide for Blog Contributors"
 description: "A guide for working with Git, terminal, and the www-gitlab-com repository"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## General Tips
 
-Please note that this guide assumes some knowledge of how to use GitLab, and how to use Git on your local machine. If you're unsure of what something means, you may need to go and review [GitLab 101](/handbook/people-group/learning-and-development/gitlab-101/) or [Editing the handbook](/handbook/git-page-update/#editing-the-handbook), which explains how to set up your computer to edit the website locally.
+Please note that this guide assumes some knowledge of how to use GitLab, and how to use Git on your local machine. If you're unsure of what something means, you may need to go and review [GitLab 101](/handbook/people-group/learning-and-development/gitlab-101/) or [Editing the handbook](https://about.gitlab.com/handbook/git-page-update/#editing-the-handbook), which explains how to set up your computer to edit the website locally.
 
 ### Make sure your Terminal is up to date
+
 When you sign on for the day, try to do a `git pull origin master` in the terminal so that you have the most recent files and changes from others locally on your computer – this will avoid merge conflicts and overwriting files.
 When you do this, make sure you are in the right directory, (e.g. MacBook-Pro:www-gitlab-com user$).
 
@@ -35,15 +36,18 @@ Next we need to add a commit message with `git commit -m “[descriptive message
 Now we’re ready to push your local changes to `0000-branch-name` using `git push origin 0000-branch-name` [enter].
 
 #### Commit Early and Often
+
 Commit early and often. Avoid working on multiple large files and then committing and pushing the files all at once (it can take several minutes, or even hours, to push depending on your internet connection – worst case it times out).
 Run `git pull` [enter] on occasion to make sure you have the most recent changes / updates locally.
 
 ### Static Site Editor Developer Tips
-There is a handy resource the Static Site Editor group has put together for [Git Tips here](/handbook/engineering/development/dev/create/ide/developer-cheatsheet/#git-tips).
+
+There is a handy resource the Static Site Editor group has put together for [Git Tips here](https://about.gitlab.com/handbook/engineering/development/dev/create/ide/developer-cheatsheet/#git-tips).
 
 ## Getting Recent Changes From Main
 
 ### How and When to Use Merge Workflow
+
 Use a merge workflow for feature branches where MULTIPLE PEOPLE ARE WORKING ON THEM. Use the built-in [squash and merge](https://docs.gitlab.com/ee/user/project/merge_requests/squash_and_merge.html) functionality when merging an MR to ensure only clean, atomic, squashed commits make it to master.
 
 ```
@@ -52,6 +56,7 @@ git fetch
 git merge origin/master
 git push origin  0000-branch-name
 ```
+
 ### What is Rebasing and Why Should I Care?
 
 If you are working on a merge request for some time and have committed a lot of changes, you may need to rebase (i.e. update) your MR to reflect any changes that other people may have made to the main branch of the website. This helps to prevent [merge conflicts](#how-to-resolve-merge-conflicts) (where someone else's change conflicts with your change, and Git doesn't know which change to accept) or pipeline failures because of technical changes that aren't reflected in your outdated MR.
@@ -68,12 +73,15 @@ git push origin  0000-branch-name
 ## How to Resolve Merge Conflicts
 
 ### Official GitLab Documentation
+
 Here is the [official documentation on merge request conflict resolution](https://docs.gitlab.com/ee/user/project/merge_requests/resolve_conflicts.html) in GitLab.
 
-Here's a great blog post on [resolving merge conflicts from the GitLab UI](/blog/2016/09/06/resolving-merge-conflicts-from-the-gitlab-ui/).
+Here's a great blog post on [resolving merge conflicts from the GitLab UI](https://about.gitlab.com/blog/2016/09/06/resolving-merge-conflicts-from-the-gitlab-ui/).
 
 ### Merge conflicts if you haven't made any changes to your local branch
+
 If you have not made any changes to your local branch and are getting a conflict message from origin, just reset your local branch to be exactly like origin. WARNING: If you have made changes to your blog post, those changes will be lost!
+
 ```
 git fetch
 git checkout 0000-branch-name
@@ -91,5 +99,5 @@ If you're having problems with Git, reach out in the following Slack channels =)
 ### Existing Resources
 
 Here are some existing resources from GitLab for Git.
-- [Developer Cheatsheet, Engineering Handbook](/handbook/engineering/development/dev/create/ide/developer-cheatsheet/)
+- [Developer Cheatsheet, Engineering Handbook](https://about.gitlab.com/handbook/engineering/development/dev/create/ide/developer-cheatsheet/)
 - [Git Cheat Sheet for Press](/images/press/git-cheat-sheet.pdf)

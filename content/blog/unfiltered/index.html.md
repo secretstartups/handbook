@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: "GitLab Unfiltered blog handbook"
 ---
 

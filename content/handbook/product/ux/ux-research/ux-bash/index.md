@@ -17,7 +17,7 @@ Benefits of a UX Bash:
 
 ### Appropriate situations for a UX Bash:
 
-Bashes are useful when [foundational research](https://about.gitlab.com/handbook/product/ux/ux-research/foundational-research/) has already been conducted, but your team is trying to fine tune the experience before broader release, as quickly as possible. It is also well suited for when a feature is only available internally and it would be difficult to set up a test environment and recruit external users. Bashes offer a cost-effective and efficient supplement to more extensive [solution validation methodologies](https://about.gitlab.com/handbook/product/ux/ux-research/solution-validation-and-methods/).
+Bashes are useful when [foundational research](/handbook/product/ux/ux-research/foundational-research/) has already been conducted, but your team is trying to fine tune the experience before broader release, as quickly as possible. It is also well suited for when a feature is only available internally and it would be difficult to set up a test environment and recruit external users. Bashes offer a cost-effective and efficient supplement to more extensive [solution validation methodologies](/handbook/product/ux/ux-research/solution-validation-and-methods/).
 
 ### How to set up a UX Bash:
 
@@ -59,8 +59,8 @@ Bashes are useful when [foundational research](https://about.gitlab.com/handbook
 
 - [Join the GitLab Discord server](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/discord/), where the community and external users are active
 - Reach out to Fatima Sarah Khalid (GitLab and Discord handle: sugaroverflow) to have your Discord profile noted as a GitLab employee.
-- Create an [Incentives Request issue](https://about.gitlab.com/handbook/product/ux/ux-research-coordination/incentives/) to pay participants.
-- Announce the Bash in the #announcements Discord channel with a link to a [screener survey](https://about.gitlab.com/handbook/product/ux/ux-research/write-effective-screener/)
+- Create an [Incentives Request issue](/handbook/product/ux/ux-research-coordination/incentives/) to pay participants.
+- Announce the Bash in the #announcements Discord channel with a link to a [screener survey](/handbook/product/ux/ux-research/write-effective-screener/)
    - ![Example of a Discord invitation](Bash_Discord_invite.png)
 - Select your participants.
    - You can also work with Fatima Sarah Khalid (GitLab and Discord handle: sugaroverflow) to have your post shared on the GitLab Community Forum to boost awareness.
