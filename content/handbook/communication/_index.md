@@ -1283,13 +1283,9 @@ The following tips provide ways to work respectfully with others given this cont
 
 #### Questions
 
-If you have a question that you can’t find the answer to in our handbook (or you need help finding something in the handbook) team members across the company are here to help.
+If you have a question that you can’t find the answer to in our handbook (or you need help finding something in the handbook) team members across the company are here to help. Go directly to the subject matter experts/source in the [designated slack channel](/handbook/communication/chat) to ensure your question is addressed.
 
-If your question relates to one or more of the following topics, go directly to the subject matter experts/source in the designated slack channel to ensure your question is addressed.
-
-Are you a subject matter expert in your role or knowledgeable in a topic-specific channel on Slack? Add the topic and channel to the grid so team members know where to go if they have questions on that topic.
-
-If your question doesn’t relate to any of the above topics:
+If your question doesn’t relate to any of the existing topics:
 
 - Ask it in the `#questions` Slack channel
 - Once you receive an answer, document it in the handbook and post the MR link in your question thread
