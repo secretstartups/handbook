@@ -115,9 +115,14 @@ As a SaaS company, our Engineering division also has an [infrastructure SRE team
 
 As new tech stack applications are introduced and/or integrated, our [Enterprise Applications](/handbook/business-technology/enterprise-applications/) team helps to align and enable technologies with [end-to-end business processes](/handbook/business-technology/enterprise-applications/bsa/) and [custom integrations](/handbook/business-technology/enterprise-applications/integrations/) where needed for critical systems, particularly quote-to-cash finance and sales systems.
 
-## Security and Compliance
+## Compliance
 
-The [IT Security and Compliance](/handbook/business-technology/it-compliance/) team focuses on reducing the threat landscape and improving our security posture across our tech stack applications while ensuring privacy, data protection, and compliance framework requirements are met. We collaborate closely with the [Engineering Security](/handbook/security/#departmental-structure) department that focuses on the broader scope of the GitLab product and our GitLab.com SaaS offering.
+The [IT Compliance](/handbook/business-technology/it-compliance/) team focuses on reducing the threat landscape and improving our security posture across our tech stack applications while ensuring privacy, data protection, and compliance framework requirements are met. We collaborate closely with the [Engineering Security](/handbook/security/#departmental-structure) department that focuses on the broader scope of the GitLab product and our GitLab.com SaaS offering.
+
+
+## Security
+
+The [IT Security](/handbook/business-technology/it/security) works collaboratively with multiple functional teams throughout the GitLab organization. We partner with our Security and Legal teams to identify and manage privacy, data protection risks, and compliance requirements to help meet stakeholder expectations. We also partner with Management, Business Teams, and our Data Team to implement solutions.
 
 The best practices and policies for team members can be found on the [security practices](/handbook/security/) handbook page.
 
