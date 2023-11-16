@@ -1,5 +1,5 @@
 ---
-
+aliases: /handbook/marketing/channel-marketing/channel-marketing-epics/Channel-Marketing-Service-Offerings
 title: "Channel Marketing Menu of Services"
 ---
 
