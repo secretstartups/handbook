@@ -111,4 +111,5 @@ By submitting a Zip Change Request, the applicable approvers will be added to th
 
 ## Procurement Office Hours
 
-If you have any questions or concerns that may not be addressed in the Handbook, we invite you to join us for Procurement Office Hours every Wednesday. During this dedicated time, our Procurement Team will be readily available to assist you and provide answers to your inquiries. If you're unable to join a call, please feel free to submit your questions in our [Agenda](https://docs.google.com/document/d/1jm_LMJn_y4aNEO1eREz5Va0I1btuk65FPaXVy8oJpfQ/edit), and we'll ensure a prompt response.
+If you have any questions or concerns that may not be addressed in the Handbook, we invite you to join us for Procurement Office Hours every Wednesday. During this dedicated time, our Procurement Team will be readily available to assist you and provide answers to your inquiries. If you're unable to join a call, please feel free to submit your questions in our [Agenda](https://docs.google.com/document/d/1jm_LMJn_y4aNEO1eREz5Va0I1btuk65FPaXVy8oJpfQ/edit), and we'll ensure a prompt response. 
+
