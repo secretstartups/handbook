@@ -45,7 +45,7 @@ All GitLab data is categorized and must be handled in accordance with the [Data 
 
 ### Open source libraries
 
-Open Source Software is allowed under this policy its use complies with the policy captured in the [Product Legal Handbook](https://about.gitlab.com/handbook/legal/product/#using-open-source-software).
+Open Source libraries are allowed under this policy if its use complies with the pre-approved or approval requirements captured in the [Product Legal Handbook](https://about.gitlab.com/handbook/legal/product/#using-open-source-software).
 
 ### Individual Use Software, Freeware, Browser Extensions, Add-ons, and Plugins
 
