@@ -124,7 +124,7 @@ As the name suggests, it allows you to switch between channels and direct messag
 Invoke it with<kbd>Cmd</kbd>+<kbd>k</kbd>on Mac or<kbd>Ctrl</kbd>+<kbd>k</kbd>on Windows or Linux and start typing the name of the person to chat with or the channel you are interested in.
 You can then navigate the suggestions with<kbd>↑</kbd>and<kbd>↓</kbd>keys and hit<kbd>enter</kbd>to select.
 
-### Unfurling Links in Messages
+## Unfurling Links in Messages
 
 Slack has a built-in feature to [Unfurl](https://api.slack.com/docs/message-link-unfurling) links included in messages posted to Slack.
 This will post a preview of the link alongside the message.
