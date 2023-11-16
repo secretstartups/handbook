@@ -4,7 +4,7 @@ title: Field Marketing and Events
 
 ## Important to Know
 
-- If you are looking to work with a new service provider, review the policy for selecting new suppliers on the [Vendor Selection Process]({{< ref "./vendor-selection-process" >}}) page.
+- If you are looking to work with a new service provider, review the policy for selecting new suppliers on the [Vendor Selection Process](https://handbook.gitlab.com/handbook/finance/procurement/vendor-selection-process/) page.
 - Do NOT agree to ANY business, legal, and or pricing prior to engaging the Procurement Team.
     - This ensures alignment across the multiple functions to make good-faith commitments to vendors and don’t put our company in to possible risk.
 
