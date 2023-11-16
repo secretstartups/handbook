@@ -26,7 +26,7 @@ description: "These are the expected competencies of a Senior Fullstack Engineer
 
 ##### Contributor Success
 
-Please refer to [Senior Contributor Success Fullstack Engineer](https://handbook.gitlab.com/job-families/marketing/community-relations/contributor-success/fullstack-engineer/#senior-contributor-success-fullstack-engineer)
+Please refer to [Senior Contributor Success Fullstack Engineer](/job-families/marketing/community-relations/contributor-success/fullstack-engineer/#senior-contributor-success-fullstack-engineer)
 
 ### Values Alignment
 

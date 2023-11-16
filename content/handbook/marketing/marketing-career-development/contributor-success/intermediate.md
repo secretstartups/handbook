@@ -26,7 +26,7 @@ description: "These are the expected competencies of an Intermediate Fullstack E
 
 ##### Contributor Success
 
-Please refer to [Contributor Success Fullstack Engineer](https://handbook.gitlab.com/job-families/marketing/community-relations/contributor-success/fullstack-engineer/#contributor-success-fullstack-engineer)
+Please refer to [Contributor Success Fullstack Engineer](/job-families/marketing/community-relations/contributor-success/fullstack-engineer/#contributor-success-fullstack-engineer)
 
 ### Values Alignment
 

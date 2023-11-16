@@ -5,6 +5,7 @@
   ],
   "fix": false,
   "ignores": [
+    "content/handbook/marketing/cmo-shadow/**/*.md",
     "content/handbook/marketing/career-development/**/*.md",
     "content/handbook/marketing/cmo/**/*.md",
     "content/handbook/marketing/channel-marketing/**/*.md",
