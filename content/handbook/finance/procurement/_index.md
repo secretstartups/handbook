@@ -112,14 +112,14 @@ Anytime a group of suppliers are being evaluated for services/goods or a purchas
 1. Before agreeing to any business, legal and/or pricing terms with a supplier, whether in conversation or email
 1. Immediately when you receive a contract and/or quote for new and/or recurring business
     - If you have received a contract from a supplier, tell them you will send to your procurement team for review
-1. When evaluating a group of suppliers and/or starting the [RFP Process](https://internal.gitlab.com/handbook/finance/procurement/)
+1. When evaluating a group of suppliers and/or starting the [RFP Process](https://internal.gitlab.com/handbook/finance/procurement/).
 1. If unsure where or when to begin, tag the @procurement_team in the #procurement slack channel for support. You can also reach out to your [Procurement Category Manager](#procurement-team-alignment) directly.
 
 ### How to start the Procurement Process
 
 Majority of the Procurement Process lives within our Procurement system called Zip. You can access Zip via your [Okta home page](https://gitlab.okta.com/app/UserHome#), or if you need Zip access, [submit an access request here](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request&_gl=1*bsfkbc*_ga*MzkwMDUyMjg5LjE2MzU3NzYxMDA.*_ga_ENFH3X7M5Y*MTY3NzYyMDEwMi4xMzkuMS4xNjc3NjIwOTc3LjAuMC4w).
 
-For more Zip training materials, review the [Zip End Users Guide](/handbook/business-technology/enterprise-applications/guides/zip-guide/) and the [Tips for Submitting a Zip Request page]().
+For more Zip training materials, review the [Zip End Users Guide](/handbook/business-technology/enterprise-applications/guides/zip-guide/) and the [Tips for Submitting a Zip Request page](/handbook/finance/procurement/tips-for-submitting-a-zip-request).
 
 Depending on a few factors of your purchase, there are different ways to engage Procurement and start the Procurement process:
 1. Submit a Zip Request for
@@ -162,29 +162,32 @@ Each review’s targeted approval time is outlined below, but as mentioned above
 - If your supplier isn’t onboarded after 2 days, contact your supplier directly requesting they do so ASAP since their contract cannot be reviewed or approved until this is completed. Carbon copy procurement@gitlab.com
 
 #### 2.A. FP&A Review: 2 days
+
 - FP&A is included as an initial reviewer to ensure the requested spend is within budget and that the Billing Code entered in Zip is correct so it can be pushed to Coupa when ready for final approvals.
 
 #### 2.B. IT Review: 2 days if purchasing new software or for contractors
+
 - Requester should have vendor complete the [IT New Software Questionnaire](https://docs.google.com/spreadsheets/d/1SgyzxDDiTbig0VtZ5RPgX92U_VlQu1mq/edit?usp=sharing&ouid=115328509315203543998&rtpof=true&sd=true) and submit with the purchase request so IT can complete their review
 
 #### 3.A. Legal Review: 3 to 21 days
-_Note: The amount of time for review, and to reach execution, is based on the details below. Use these SLA's as guidelines, noting that each contract review process is unique and if additional terms, requirements, and/or risks are identified the timeline for completion may be extended. The ability for GitLab to process and work efficiently through an agreement negotiation relies on the vendor, and vendor counsel, to respond promptly to GitLab red-lines and comments._
+
+_**Note: The amount of time for review, and to reach execution, is based on the details below. Use these SLA's as guidelines, noting that each contract review process is unique and if additional terms, requirements, and/or risks are identified the timeline for completion may be extended. The ability for GitLab to process and work efficiently through an agreement negotiation relies on the vendor, and vendor counsel, to respond promptly to GitLab red-lines and comments.**_
 
 **Types of Vendors and Review Times**
 - **Existing Vendors for renewals or upsells: 3-5 Days**
    - These generally require much less time as existing terms are in place which will underline the products and/or services being offered. 
-   - That being said, in the event GitLab is adding a new product and/or service (from an existing Vendor) additional cycles may be required in order to create amendment(s) to the existing agreement. 
-    - Any delays from the supplier, will delay final approvals.
+   - That being said, in the event GitLab is adding a new product and/or service (from an existing Vendor) additional cycles may be required in order to create amendment(s) to the existing agreement.
+   - Any delays from the supplier, will delay final approvals.
 - **New Vendors: 1-3+ weeks**
-    - These require the most amount of time as GitLab will be establishing (for the first time) terms and conditions which will govern the use of the products and/or services being procured.     
-    - Negotiations can vary from 1 week to multiple months based on the level of detail and modifications required to reach executable terms.
-    - If vendor doesn't readily accept the GitLab standard terms, additional rounds of red-lines and negotiations may be required, extending this SLA.
-    - Whenever possible, the legal team hopes to achieve red-lines--to be provided back to the vendor no later than five (5) business days after being assigned.
+   - These require the most amount of time as GitLab will be establishing (for the first time) terms and conditions which will govern the use of the products and/or services being procured.
+   - Negotiations can vary from 1 week to multiple months based on the level of detail and modifications required to reach executable terms.
+   - If vendor doesn't readily accept the GitLab standard terms, additional rounds of red-lines and negotiations may be required, extending this SLA.
+   - Whenever possible, the legal team hopes to achieve red-lines--to be provided back to the vendor no later than five (5) business days after being assigned.
 
 **Types of Agreements**
-- **Software (SaaS & On-Prem):** Requires the most rigorous review to ensure the rights and obligations placed upon GitLab are, (i) reasonable given the Software being provided, and (ii) align with GitLab contracting and industry standards. 
-- **Professional Services / Training:** Requires detailed review to ensure intellectual property ownership aligns with our intentions, as well as, reasonable obligations being placed upon GitLab. 
-- **Marketing / Events:** Generally, requires the least amount of time to review as the obligations are standardized given the event in question and program provided. Details regarding events may include negotiations with regards to Force Majeure, cancellation (including penalty), and ensuring the terms of the Agreement align with those of the requesting GitLab Team Members.  
+- **Software (SaaS & On-Prem):** Requires the most rigorous review to ensure the rights and obligations placed upon GitLab are, (i) reasonable given the Software being provided, and (ii) align with GitLab contracting and industry standards.
+- **Professional Services / Training:** Requires detailed review to ensure intellectual property ownership aligns with our intentions, as well as, reasonable obligations being placed upon GitLab.
+- **Marketing / Events:** Generally, requires the least amount of time to review as the obligations are standardized given the event in question and program provided. Details regarding events may include negotiations with regards to Force Majeure, cancellation (including penalty), and ensuring the terms of the Agreement align with those of the requesting GitLab Team Members.
 - **Data Processing Agreement (DPA)/Standard Contractual Clauses (SCCs):** Required when personal data is shared with, accesssed, or collectd by the supplier on behalf of GitLab. DPA/SCCs are generally affixed to an agreement but may be required as a separate agreement upon the determination of Privacy.
 
 _**Negotiation, Security, Privacy, and PeopleOps reviews are only required if the purchase request meets certain criteria, as described below. In the event two or more of these activities are required, they will happen in parallel to one another and Legal's review.**_
@@ -223,6 +226,7 @@ _**Negotiation, Security, Privacy, and PeopleOps reviews are only required if th
 - _**TIP:** To increase speed of approval, add a link to the suppliers privacy notice; upload the suppliers Transfer Impact Assessment Guide; and upload a word version of their DPA/SCCs if the supplier requuests us to use their version._
 
 #### 4. Final Buyer Review and Coupa Req Creation: 2 days
+
 - Procurement completes a final check that all information is accurate and agreement(s) have been stamped before creating the req in Coupa for final approvals.
 
 #### 5. Coupa Approvals and Execute Contract: 4 days
@@ -234,14 +238,13 @@ _**Negotiation, Security, Privacy, and PeopleOps reviews are only required if th
    - Note: the completion of this step is dependent on how quickly the required approvers approve in Coupa and the contract is signed
 
 #### 6. Finalize Request Details
--  Your purchase req has been approved! The supplier will receive a copy of the PO and a communication from Coupa indicating how to submit invoices, one of two ways:
+
+- Your purchase req has been approved! The supplier will receive a copy of the PO and a communication from Coupa indicating how to submit invoices, one of two ways:
    - Directly in their Coupa portal (preffered)
    - Sending invoices to [ap@gitlab.com](mailto:ap@gitlab.com) with the PO number included on the invoice
    - _**Failure to follow these instructions will delay payment and invoices uploaded to Coupa by a GitLab team member are not routed for payment.**_
 - During this approval step, Procurement is finalizing any request details, such as final contract term dates based on signature effective date, and setting up Zip renewal alerts for the request if needed.
 - Since the contract has been signed and PO is released at this point, you may now begin work and/or obtaining services from the supplier.
-
-
 
 ### What if I have an Urgent Request?
 
@@ -274,8 +277,6 @@ Exceptions to the PO Policy are:
 1. Corporate Credit Card
 1. Urgent Payments not included on list above (approval required from VP, Corporate Controller and/or PAO)
 
-
-
 ## Third Party Risk Management
 
 The procurement team from a compliance and risk perspective has developed a process to handle third party risk to reduce the risk of the following:
@@ -307,8 +308,8 @@ Any time GitLab engages with a third party for the procurement of goods and/or s
 
 1. Terms and conditions which are fair and reasonable given the type(s) of products and/or services being procured; and
 1. Adequate obligations on behalf of GitLab vendors to ensure compliance with
-   - GitLab’s Code of Conduct and other company policies, 
-   - applicable laws, rules and regulations (including protection of personal data), and 
+   - GitLab’s Code of Conduct and other company policies,
+   - applicable laws, rules and regulations (including protection of personal data), and
    - the delivery, support and provision of goods and/or services
 
 In addition to ensuring terms and conditions, the GitLab Legal Procurement team collaborates frequently with procurement and business stakeholders to ensure any (and all) contracts align with the needs of the team. The GitLab Legal Procurement team addresses the needs of stakeholders ranging from complex technical application and platform services, to creating and drafting event contracts to meet the needs of GitLab events.
@@ -323,7 +324,7 @@ As GitLab does with its own customers, agreements with third parties include obl
 
 ## Large Internal Events Process
 
-For any large internal events with a total cost greater than $1M, such as SKO, President’s Club, Commit, etc, the following should be completed before any contracts are executed or any work is conducted. 
+For any large internal events with a total cost greater than $1M, such as SKO, President’s Club, Commit, etc, the following should be completed before any contracts are executed or any work is conducted.
 
 The planning stages for events of this size should be completed at least 18-24 months prior to the actual event. This allows for ample time to get the necessary internal approvals, run any RFPs needed, and book large hotel blocks or buyouts.
 
