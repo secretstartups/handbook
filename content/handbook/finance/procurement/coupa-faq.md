@@ -2,13 +2,13 @@
 title: Coupa FAQ
 ---
 
-## General Faq
+## General FAQ
 
 ### What is Coupa?
 
 - Coupa is a cloud-based purchasing and payment platform that will be used by GitLab as of 2021-06-01 for US and Netherlands entities and as of 2021-12-13 for remaining entities. It has an easy-to-use interface that will improve the way suppliers connect with GitLab. All new purchase orders, invoices and communications will be managed through the Coupa Supplier Portal.
 
-## Supplier Faq
+## Supplier FAQ
 
 ### How will Coupa impact the way GitLab works with suppliers?
 
