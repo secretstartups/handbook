@@ -45,7 +45,7 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 | DRI/Facilitator                              | David Tuan                    | Director, Strategy and Operations                          |
 | Functional Lead - CSM                        | Sherrod Patching              | VP, Customer Success Management                            |
 | Functional Lead - Sales                      | Open - TBD                    |                                                            |
-| Functional Lead - Marketing                  | Dave Steer                    | VP, Product Marketing                                      |
+| Functional Lead - Marketing                  | Dan Hom                       | Product Marketing Manager                                  |
 | Functional Lead - Product                    | Jackie Porter                 | Director, Product Management                               |
 | Functional Lead - Professional Services      | Kevin Lake                    | VP of Professional Services                                |
 | Functional Lead - Developer Relations        | Michael Friedrich             | Senior Developer Evangelist                                |
@@ -58,8 +58,8 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 | Member - Digital Customer Success            | Michelle Harris               | Senior Program Manager, Customer Programs                  |
 | Member - Documentation                       | Susan Tacker                  | Director, Technical Writing                                |
 | Member - Growth                              | Paige Cordero                 | Senior Product Manager, Growth                             |
+| Member - Marketing                           | Dave Steer                    | VP, Product Marketing                                      |
 | Member - Marketing                           | Saumya Upadhyaya              | Senior Manager, Product Marketing                          |
-| Member - Marketing                           | Dan Hom                       | Product Marketing Manager                                  |
 | Member - Product                             | Mike Flouton                  | VP of Product Management                                   |
 | Member - Professional Services               | Niyati Shah                   | Senior Director, Education Services                        |
 | Member - Sales Strategy                      | Brandon Butterfield           | Senior Sales Analytics Analyst                             |
