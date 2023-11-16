@@ -5,6 +5,7 @@
   ],
   "fix": false,
   "ignores": [
+    "content/handbook/marketing/account-based-marketing/**/*.md",
     "content/handbook/marketing/blog/**/*.md",
     "content/handbook/alliances/**/*.md",
     "content/handbook/resellers/**/*.md",
