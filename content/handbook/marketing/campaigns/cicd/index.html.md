@@ -1,20 +1,22 @@
 ---
-layout: handbook-page-toc
+
 title: "CI/CD Campaign"
 description: "Everything you need to know about the CI/CD campaign."
 twitter_image: '/images/tweets/handbook-marketing.png'
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .toc-list-icons .hidden-md .hidden-lg}
+
+
+
+
 
 ## Campaign Overview
+
 {: #overview .alert .alert-gitlab-orange}
 
 ### Business Objectives
+
 {: #business-objectives}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -23,61 +25,67 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 3. Free trials driven by the campaign page
 
 ### Campaign Visual
+
 {: #campaign-visual}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 ![](/images/handbook/marketing/marketing-programs/CI-CD_Campaign_Flow.png.png)
 
 ### Campaign Pages & Activities
+
 {: #campaign-activities}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 **[See the FY22 Marketing Calendar for upcoming virtual events >>](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493&fvid=1408681455)**
 
 Always On Lead Generation:
-* :books: Content [[eBook] The benefits of single application CI/CD](https://about.gitlab.com/why/use-continuous-integration-to-build-and-test-faster/)
-* :books: Content [[eBook] Modernize your CI/CD](https://about.gitlab.com/resources/ebook-fuel-growth-cicd/)
-* :video_camera: On-Demand Webinar [[Demo + Q&A] Continuous Integration with GitLab](https://www.brighttalk.com/webcast/17523/461825?utm_source=GitLab&utm_medium=brighttalk&utm_campaign=461825)
+- :books: Content [[eBook] The benefits of single application CI/CD](https://about.gitlab.com/why/use-continuous-integration-to-build-and-test-faster/)
+- :books: Content [[eBook] Modernize your CI/CD](https://about.gitlab.com/resources/ebook-fuel-growth-cicd/)
+- :video_camera: On-Demand Webinar [[Demo + Q&A] Continuous Integration with GitLab](https://www.brighttalk.com/webcast/17523/461825?utm_source=GitLab&utm_medium=brighttalk&utm_campaign=461825)
 
 ## Research & Prep
+
 {: .alert #research-prep .alert-gitlab-orange}
 
 ### Persona & Positioning
+
 {: #persona-positioning .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Target Persona 1: Manager of App & Dev
+
 {: #persona-1}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-* **Level:** Manager
-* **Function:** Dev, App
-* **Challenges we're trying to solve with this campaign:**
+- **Level:** Manager
+- **Function:** Dev, App
+- **Challenges we're trying to solve with this campaign:**
    - Too many DevOps integrations/toolchain overload
    - Lack of scalability (usually intensified the larger the org)
    - Easy entry for teams to get started with CI/CD
    - Additional info:
      - DevOps Manager: Needs to effectively support the DevOps tools and infrastructure integral to their org’s application delivery. Concerned with providing development teams with the best possible tools, environments, and integrations for them to be successful. Challenged with prioritizing development work as an individual contributor (features/bug fixes) and supporting dev teams.
      - Dev Leads (Development Manager): Needs to have a finger on the pulse of their development team’s capacity and priorities. Concerned with improving productivity and unblocking any issues that get in the way of progress. Challenged when development deadlines and assigned tasks change rapidly or too frequently. Also challenged when work on feature delivery is interrupted by show-stopping bugs or blockers.
-* **Ideal state:**
+- **Ideal state:**
   - Dev and Ops are empowered to work better together, no more "throwing things over the proverbial wall"
   - Improved visibility and communication, gain faster feedback and integrate smaller code changes frequently (with less risk of build-breaking changes)
   - Increase release velocity and ship more reliable code, faster time to market and more reliable builds = value into the hands of customer sooner with higher degree of confidence
   - Improve overall quality of the application due to increased test coverage and frequency of automated test execution, which enables preventing bugs from shipping
-* **How GitLab helps:**
+- **How GitLab helps:**
   - Delivering better products/software faster - Validated, secure code gets to production faster and lovable features get into the hands of customers sooner. Happy customers, higher confidence, and more revenue!
   - Increasing operational efficiencies - Automation reduces manual work and overall cost of tools. Less overhead. Improved performance.
   - Reducing security and compliance risk: Regular releases on a monthly cadence (thanks to rapid innovation) minimizes security risk along with automated tests and scan
-* **Why is GitLab a better solution than competitors:**
+- **Why is GitLab a better solution than competitors:**
   - GitLab as a single application provides end-to-end visibility into the SDLC and promotes better, more frequent, collaboration among teams. Errors are caught earlier in the process before they turn into bigger problems.
   - GitLab enables faster release cycles in batches of small iterations without requiring a complete overhaul of existing development workflows and/or DevOps tools
   - GitLab’s built-in CI means less context switching between tools and more time that developers spend writing code. Overall productivity increases
 
 #### Target Persona 2: Practitioners
+
 {: #persona-2}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-* **Level:** Practitioner
-* **Function:** Developers, DevOps engineers, Development leads
-* **Challenges we're trying to solve with this campaign:**
+- **Level:** Practitioner
+- **Function:** Developers, DevOps engineers, Development leads
+- **Challenges we're trying to solve with this campaign:**
   - Too many DevOps integrations/toolchain overload = too much context switching
   - Wasted development time
   - Poor user experience/CI that "just works" the first time
@@ -85,31 +93,34 @@ Always On Lead Generation:
   - Additional info:
     - Developers: Needs automation to replace otherwise tedious, manual, work. Concerned with delivering high quality code as fast as possible. Challenged when planned work is disrupted and productivity is negatively impacted.
     - DevOps Engineer: Needs to effectively support the DevOps tools and infrastructure integral to their org’s application delivery. Concerned with providing development teams with the best possible tools, environments, and integrations for them to be successful. Challenged with prioritizing development work as an individual contributor (features/bug fixes) and supporting dev teams.
-* **Ideal state:**
+- **Ideal state:**
   - Dev and Ops are empowered to work better together, no more "throwing things over the proverbial wall"
   - Improved visibility and communication, gain faster feedback and integrate smaller code changes frequently (with less risk of build-breaking changes)
   - Increase release velocity and ship more reliable code, faster time to market and more reliable builds = value into the hands of customer sooner with higher degree of confidence
   - Improve overall quality of the application due to increased test coverage and frequency of automated test execution, which enables preventing bugs from shipping
-* **How GitLab helps:**
+- **How GitLab helps:**
   - Delivering better products/software faster - Validated, secure code gets to production faster and lovable features get into the hands of customers sooner. Happy customers, higher confidence, and more revenue!
   - Increasing operational efficiencies - Automation reduces manual work and overall cost of tools. Less overhead. Improved performance.
   - Reducing security and compliance risk: Regular releases on a monthly cadence (thanks to rapid innovation) minimizes security risk along with automated tests and scan
-* **Why is GitLab a better solution than competitors:**
+- **Why is GitLab a better solution than competitors:**
   - GitLab’s built-in CI means less context switching between tools and more time that developers spend writing code. Overall productivity increases
   - GitLab as a single application provides end-to-end visibility into the SDLC and promotes better, more frequent, collaboration among teams. Errors are caught earlier in the process before they turn into bigger problems.
   - GitLab enables faster release cycles in batches of small iterations without requiring a complete overhaul of existing development workflows and/or DevOps tools
 
 ### Keyword Research
+
 {: #keyword-research .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 **[See the CI/CD keyword research doc >>](https://docs.google.com/spreadsheets/d/1qUvAOv33guzXgxAgVX6M0kLXRrJQLe_IriiFkg4fjVM/edit?usp=sharing)**
 
 ### Polished Messaging
+
 {: #polished-messaging .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Overall
+
 {: #polished-messaging-overall}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 |  | Polished Messaging |
@@ -127,6 +138,7 @@ Always On Lead Generation:
 | **Top-level Keywords**  | `continuous integration`, `ci`, `ci cd pipeline`, `ci process`, `ci tools`, `yaml`, `DevOps` |
 
 #### Enterprise Segment
+
 {: #polished-messaging-enterprise}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 |   | Polished Messaging |
@@ -145,13 +157,16 @@ Always On Lead Generation:
 | **Top-level Keywords**  | `CI`, `continuous integration`, `CI pipelines`, `CI/CD pipelines`, `CD`, `continuous delivery`, `DevSecOps`, `DevOps` |
 
 ## Buyer Journeys, Content & Emails
+
 {: .alert #content-emails .alert-gitlab-orange}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 ### Prescriptive Buyer Journeys
+
 {: #buyer-journey .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Individual Contributor
+
 {: #buyer-journey-ic}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 | Stage | Asset 1 | Asset 2| Asset 3 |
@@ -161,6 +176,7 @@ Always On Lead Generation:
 | Purchase| [[REFERENCE] Goldman Sachs improves from 1 build every 2 weeks to 1000+ per day](https://about.gitlab.com/customers/goldman-sachs/)| [[REFERENCE] Paessler AG switched from Jenkins to GitLab](https://about.gitlab.com/customers/paessler/)| [[REFERENCE] Hotjar - Time of CI builds decreased by 30%, improved to 2-15 deploys per day, and 50% deployment time saved](https://about.gitlab.com/customers/hotjar/)|
 
 #### Manager
+
 {: #buyer-journey-manager}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 | Stage | Asset 1 | Asset 2| Asset 3 |
@@ -171,6 +187,7 @@ Always On Lead Generation:
 
 
 ### Marketo Nurture Emails
+
 {: #nurture-emails .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -178,27 +195,30 @@ Always On Lead Generation:
 
 
 ### Outreach Emails
+
 {: #outreach-emails .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### MASTER|Inbound sequence for each region
 
-* [NORAM](https://app1a.outreach.io/sequences/5262)
-* [EMEA](https://app1a.outreach.io/sequences/5393)
-* [APAC](https://app1a.outreach.io/sequences/5394)
+- [NORAM](https://app1a.outreach.io/sequences/5262)
+- [EMEA](https://app1a.outreach.io/sequences/5393)
+- [APAC](https://app1a.outreach.io/sequences/5394)
 
 #### MASTER|Outbound sequence for each region
 
-* [NORAM](https://app1a.outreach.io/sequences/5381)
-* [EMEA](https://app1a.outreach.io/sequences/5395)
-* [APAC](https://app1a.outreach.io/sequences/5396)
+- [NORAM](https://app1a.outreach.io/sequences/5381)
+- [EMEA](https://app1a.outreach.io/sequences/5395)
+- [APAC](https://app1a.outreach.io/sequences/5396)
 
 ## Behind the Scenes
+
 {: .alert #behind-the-scenes .alert-gitlab-orange}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 #### Campaign Execution Documentation & Resources
+
 {: #campaign-execution .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-* [Campaign Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/741)
-* [Project timeline plan](https://docs.google.com/spreadsheets/d/1a-0P2N8LKxqmMJLKv2ZlUbXXeu7I1dMSfXHWqzl0rg0/edit#gid=1426779885)
-* [Art Work](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/campaigns/use-cases/CI)
+- [Campaign Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/741)
+- [Project timeline plan](https://docs.google.com/spreadsheets/d/1a-0P2N8LKxqmMJLKv2ZlUbXXeu7I1dMSfXHWqzl0rg0/edit#gid=1426779885)
+- [Art Work](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/campaigns/use-cases/CI)
