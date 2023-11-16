@@ -196,7 +196,7 @@ These policies are a cross-collaboration between the IT and Security department.
 - [Mobile Device Application Policy](/handbook/people-group/acceptable-use-policy/#bring-your-own-device-byod)
 - Other Services and Devices Policy
 - [Password and MFA Policy](/handbook/security/password-standard.html)
-- [Personal Access Token Policy](/handbook/security/#personal-access-tokens)
+- [Personal Access Token Policy]({{ ref "security#tokens" }})
 - [Security Awareness Policy](/handbook/security/#security-awareness)
 - [Security Phishing User Guide](/handbook/security/#how-to-identify-a-basic-phishing-attack)
 
