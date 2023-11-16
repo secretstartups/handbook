@@ -233,7 +233,7 @@ if [[ $USE_FILTER_REPO == "true" ]]; then
     NEW_SECTION_PATH=content/handbook/engineering/$SECTION
     git mv sites/handbook/source/handbook/engineering/$SECTION content/handbook/engineering/
     rmdir sites/handbook/source/handbook/engineering sites/handbook/source/handbook sites/handbook/source sites/handbook sites
-  elif [[ $$IS_MARKETING == true ]]; then
+  elif [[ $IS_MARKETING == true ]]; then
     NEW_SECTION_PATH=content/handbook/marketing/$SECTION
     git mv sites/handbook/source/handbook/marketing/$SECTION content/handbook/marketing/
     rmdir sites/handbook/source/handbook/marketing sites/handbook/source/handbook sites/handbook/source sites/handbook sites
@@ -252,7 +252,7 @@ else
   elif [[ $IS_ENGINEERING == true ]]; then
     NEW_SECTION_PATH=content/handbook/engineering/$SECTION
     git mv $SECTION content/handbook/engineering/
-  elif [[ $$IS_MARKETING == true ]]; then
+  elif [[ $IS_MARKETING == true ]]; then
     NEW_SECTION_PATH=content/handbook/marketing/$SECTION
     git mv $SECTION content/handbook/marketing/
   else
@@ -481,7 +481,7 @@ if [[ $IS_COMPANY == true ]]; then
 elif [[ $IS_ENGINEERING == true ]]; then
   echo "content/handbook/engineering/$SECTION/**/*.md" >> .markdownlintignore
   sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/engineering/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
-elif [[ $$IS_MARKETING == true ]]; then
+elif [[ $IS_MARKETING == true ]]; then
   echo "content/handbook/marketing/$SECTION/**/*.md" >> .markdownlintignore
   sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/marketing/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
 elif [[ $IS_HANDBOOK == true ]]; then
@@ -520,7 +520,7 @@ if [[ $IS_COMPANY == true ]]; then
 elif [[ $IS_ENGINEERING == true ]]; then
   REDIRECT_SOURCE=/handbook/engineering/$SECTION
   REDIRECT_TARGET=https://handbook.gitlab.com/handbook/engineering/$SECTION
-elif [[ $$IS_MARKETING == true ]]; then
+elif [[ $IS_MARKETING == true ]]; then
   REDIRECT_SOURCE=/handbook/marketing/$SECTION
   REDIRECT_TARGET=https://handbook.gitlab.com/handbook/marketing/$SECTION
 elif [[ $IS_HANDBOOK == true ]]; then
