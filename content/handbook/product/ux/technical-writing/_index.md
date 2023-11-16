@@ -183,6 +183,7 @@ For collaboration in other projects and subjects:
 [Jon Glassman]: https://gitlab.com/jglassman1
 [Kati Paizee]: https://gitlab.com/kpaizee
 [Lorena Ciutacu]: https://gitlab.com/lciutacu
+[Lysanne Pinto]: https://gitlab.com/lyspin
 [Marcel Amirault]: https://gitlab.com/marcel.amirault
 [Marcin Sędłak-Jakubowski]: https://gitlab.com/msedlakjakubowski
 [Phillip Wells]: https://gitlab.com/phillipwells
@@ -311,6 +312,9 @@ that need to be regularly completed:
 
 Schedule for Docs project maintenance tasks:
 
+- March, 2024: [Amy Qualls]
+- February, 2024: [Marcel Amirault]
+- January, 2024: [Phillip Wells]
 - December, 2023: [Axil]
 - November, 2023: [Marcin Sędłak-Jakubowski]
 - October, 2023: [Russell Dickenson]
@@ -321,10 +325,6 @@ Schedule for Docs project maintenance tasks:
 - May, 2023: [Fiona Neill]
 - April, 2023: [Lorena Ciutacu]
 - March, 2023: [Marcin Sędłak-Jakubowski]
-- February, 2023: [Jon Glassman]
-- January, 2023: [Phillip Wells]
-- December, 2022: [Diana Logan]
-- November, 2022: [Kati Paizee]
 
 ## Reviews
 
