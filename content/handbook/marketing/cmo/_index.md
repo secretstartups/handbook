@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Chief Marketing Officer"
 description: "GitLab CMO Handbook: Review requests and communication guidelines"
 twitter_image: '/images/tweets/handbook-marketing.png'
@@ -7,27 +7,27 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
-# <i class="fas fa-bullhorn fa-fw color-orange font-awesome"></i> Welcome to the GitLab CMO Handbook 
+
+
+
+
+# <i class="fas fa-bullhorn fa-fw color-orange font-awesome"></i> Welcome to the GitLab CMO Handbook
 
 {: .no_toc}
 
 This page details processes for the Chief Marketing Officer at GitLab, including review and approval requests, communication guidelines, and information-sharing best practices.
 
-Learn more about GitLab's Chief Marketing and Strategy Officer [Ashley Kramer](/company/team/#akramer) in [her README](/handbook/marketing/readmes/ashley-kramer.html).
+Learn more about GitLab's Chief Marketing and Strategy Officer [Ashley Kramer](/handbook/company/team/#akramer) in [her README](https://about.gitlab.com/handbook/marketing/readmes/ashley-kramer.html).
 
-# Communication guidelines 
+# Communication guidelines
 
-In an effort to create more efficiency in how we collaborate, please utilize the [#cmo Slack channel](https://gitlab.slack.com/archives/C04C38T1KQV) for items that require CMO **review**, **feedback**, **approval**, to **share updates**, or if you have **questions** directly to the CMO. 
+In an effort to create more efficiency in how we collaborate, please utilize the [#cmo Slack channel](https://gitlab.slack.com/archives/C04C38T1KQV) for items that require CMO **review**, **feedback**, **approval**, to **share updates**, or if you have **questions** directly to the CMO.
 
-_Note this is a public Slack channel, so please consider it is [SAFE](/handbook/legal/safe-framework/) before sharing._ 
+*Note this is a public Slack channel, so please consider it is [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) before sharing.*
 
-## Review and Approvals 
+## Review and Approvals
 
 Follow the steps and details for workflows that involve different types of review requests for efficient reviews.
 
@@ -36,11 +36,11 @@ Follow the steps and details for workflows that involve different types of revie
   - Include the URL to the MR or slides/docs
   - Add a short sentence describing the topic, and ask.
   - Optional: Add more context in subsequent lines in the message, or as a reply into a new message thread.
-- Ensure that direct reports to the CMO have reviewed and approved before asking the CMO to review 
+- Ensure that direct reports to the CMO have reviewed and approved before asking the CMO to review
   - Example: A new product messaging house is developed, and the VP of Product Marketing must sign off first.
-  - Example: The marketing handbook front page adds a new strategic vision for events. The VP of Integrated Marketing, and the VP of Product Marketing must sign off first. 
-- When urgent, please let the [CMO’s EBA](/handbook/eba/) `@Jeanette McCarthy` know and include a [due date](/handbook/communication/#communicating-dates-and-time) until when the review is required. 
-  - The CMO's EBA will add a notification to the CMO's calendar to finish the review request on the same day/week. 
+  - Example: The marketing handbook front page adds a new strategic vision for events. The VP of Integrated Marketing, and the VP of Product Marketing must sign off first.
+- When urgent, please let the [CMO’s EBA](/handbook/eba/) `@Jeanette McCarthy` know and include a [due date](/handbook/communication/#communicating-dates-and-time) until when the review is required.
+  - The CMO's EBA will add a notification to the CMO's calendar to finish the review request on the same day/week.
   - Example: `Urgent review ask because of the new quarter starting in two weeks, requiring the new messaging. Please review by end of today, 6pm PT. cc @Jeanette McCarthy`
 
 Example review request:
@@ -55,7 +55,7 @@ Please review until 2022-12-01 10am PT. cc @Jeanette McCarthy
 Follow-up actions: Share with CMO leadership, add an update for the next Marketing all-hands meeting. 
 ```
 
-### Merge Requests 
+### Merge Requests
 
 Before assigning the CMO for review and approval, please ensure that the following applies:
 
@@ -68,12 +68,12 @@ Follow the best practices for merge request reviews in the [CEO handbook](/handb
 
 ## Sharing content to read  
 
-If you have an interesting article or news item to read and learn, feel free to share it in the [#cmo Slack channel](https://gitlab.slack.com/archives/C04C38T1KQV) too. 
+If you have an interesting article or news item to read and learn, feel free to share it in the [#cmo Slack channel](https://gitlab.slack.com/archives/C04C38T1KQV) too.
 
-- Add `FYI, ` without @-tagging the CMO in the beginning of the Slack message. This avoids notification distractions and enables async reading. 
-- Create a summary of 1-3 sentences with key talking points and take aways. 
+- Add `FYI,` without @-tagging the CMO in the beginning of the Slack message. This avoids notification distractions and enables async reading.
+- Create a summary of 1-3 sentences with key talking points and take aways.
 - Add screenshots, or source URLs for better context
-- Optional: `Suggested actions:` that suggest a follow-up task for the CMO. 
-  - Example: Retweet/Reshare a Twitter/LinkedIn share, or share an article in the network for thought leadership. 
+- Optional: `Suggested actions:` that suggest a follow-up task for the CMO.
+  - Example: Retweet/Reshare a Twitter/LinkedIn share, or share an article in the network for thought leadership.
 
 
