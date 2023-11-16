@@ -6,7 +6,7 @@ title: "Security Research"
 
 Security Research focuses on identifying, investigating, and developing solutions for security problems for which current best practices are not sufficient. This work is focused on improving the security posture of the product and the company, but always with an eye for contributing new functionality as a differentiator. Additionally, we aim to share our results as widely as appropriate in order to educate fellow team members and bring awareness to the Gitlab Security program.
 
-The team focus for the security research team falls into the two following categories in order to align with the [role description]({{< ref "/handbook/security#security-research" >}}):
+The team focus for the security research team falls into the two following categories in order to align with the [role description](https://handbook.gitlab.com/job-families/security/security-research/):
 
 - Secure GitLab
 - Raise awareness
