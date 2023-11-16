@@ -155,10 +155,6 @@ No, not at this time.
 
 | Week of | Shadow(s) | Role | 
 | ------ | ------ | ----- |
-| November 6 |  Available | |
-| November 13|  [Zivago Lee](https://www.linkedin.com/in/zivagolee/) | Non-GitLab shadow - Director of Engineering at [Spin](https://www.spin.app/) |
-| November 20|  Not available | |
-| November 27|  Available | |
 | December 4 |  [Marc-Aurele Brothier](https://www.linkedin.com/in/marcaurele) | Non-GitLab shadow - Senior Engineering Manager at [Pix4D](https://www.pix4d.com/) |
 | December 11|  [Jeremy Henage](https://www.linkedin.com/in/jeremy-henage/) | Head of SaaS Program @ Digital Manufacturing at Siemens |
 | December 18|  Available | |
@@ -206,3 +202,5 @@ No, not at this time.
 | [Reggie Skillman](https://www.linkedin.com/in/reggie1/) | Non-GitLab shadow - Military Veteran tenured in Aerospace and Software Stack |
 | [Davis Bickford](https://www.gitlab.com/dbickford) | Backend Engineer - [Runner Saas](https://about.gitlab.com/direction/verify/runner_saas/) |
 | [Jamie Strachan](https://www.linkedin.com/in/jamiestrachan/)     |  Non-Gitlab engineering manager      |
+| [Zivago Lee](https://www.linkedin.com/in/zivagolee/) | Non-GitLab shadow - Director of Engineering at [Spin](https://www.spin.app/) |
+
