@@ -171,11 +171,11 @@ Each review’s targeted approval time is outlined below, but as mentioned above
 
 #### 3.A. Legal Review: 3 to 21 days
 
-_**Note: The amount of time for review, and to reach execution, is based on the details below. Use these SLA's as guidelines, noting that each contract review process is unique and if additional terms, requirements, and/or risks are identified the timeline for completion may be extended. The ability for GitLab to process and work efficiently through an agreement negotiation relies on the vendor, and vendor counsel, to respond promptly to GitLab red-lines and comments.**_
+_*Note: The amount of time for review, and to reach execution, is based on the details below. Use these SLA's as guidelines, noting that each contract review process is unique and if additional terms, requirements, and/or risks are identified the timeline for completion may be extended. The ability for GitLab to process and work efficiently through an agreement negotiation relies on the vendor, and vendor counsel, to respond promptly to GitLab red-lines and comments.*_
 
 **Types of Vendors and Review Times**
 - **Existing Vendors for renewals or upsells: 3-5 Days**
-   - These generally require much less time as existing terms are in place which will underline the products and/or services being offered. 
+   - These generally require much less time as existing terms are in place which will underline the products and/or services being offered.
    - That being said, in the event GitLab is adding a new product and/or service (from an existing Vendor) additional cycles may be required in order to create amendment(s) to the existing agreement.
    - Any delays from the supplier, will delay final approvals.
 - **New Vendors: 1-3+ weeks**
@@ -190,12 +190,12 @@ _**Note: The amount of time for review, and to reach execution, is based on the 
 - **Marketing / Events:** Generally, requires the least amount of time to review as the obligations are standardized given the event in question and program provided. Details regarding events may include negotiations with regards to Force Majeure, cancellation (including penalty), and ensuring the terms of the Agreement align with those of the requesting GitLab Team Members.
 - **Data Processing Agreement (DPA)/Standard Contractual Clauses (SCCs):** Required when personal data is shared with, accesssed, or collectd by the supplier on behalf of GitLab. DPA/SCCs are generally affixed to an agreement but may be required as a separate agreement upon the determination of Privacy.
 
-_**Negotiation, Security, Privacy, and PeopleOps reviews are only required if the purchase request meets certain criteria, as described below. In the event two or more of these activities are required, they will happen in parallel to one another and Legal's review.**_
+_Negotiation, Security, Privacy, and PeopleOps reviews are only required if the purchase request meets certain criteria, as described below. In the event two or more of these activities are required, they will happen in parallel to one another and Legal's review._
 
 #### 3.B. Negotiation: 12 days
 
 - The Procurement team negotiates SaaS contracts >$25k and one-time contracts >$100K
-   - _**If this step is not taken, purchase orders will not be approved until Procurement is able to negotiate**_
+   - **If this step is not taken, purchase orders will not be approved until Procurement is able to negotiate**
 - SLA can extend based on level of negotiation required for large and/or complex contracts, and the suppliers willingness to meet budget and benchmark indicators. For larger spend purchases, it is beneficial to engage Procurement prior to submitting the request in Zip so negotiations can start earlier.
 - For communicating Legal's redlines to the vendor,
    - If the contract value is >$100k or Procurement is already actively negotiating or communicating with the vendor, Procurement will take responsibility for sending any legal redlines to the vendor. Procurement will comment in the req if/when they have sent redlines to the vendor for visibility. Otherwise the Stakeholder/Requester will be responsible.
@@ -242,7 +242,7 @@ _**Negotiation, Security, Privacy, and PeopleOps reviews are only required if th
 - Your purchase req has been approved! The supplier will receive a copy of the PO and a communication from Coupa indicating how to submit invoices, one of two ways:
    - Directly in their Coupa portal (preffered)
    - Sending invoices to [ap@gitlab.com](mailto:ap@gitlab.com) with the PO number included on the invoice
-   - _**Failure to follow these instructions will delay payment and invoices uploaded to Coupa by a GitLab team member are not routed for payment.**_
+   - **Failure to follow these instructions will delay payment and invoices uploaded to Coupa by a GitLab team member are not routed for payment.**
 - During this approval step, Procurement is finalizing any request details, such as final contract term dates based on signature effective date, and setting up Zip renewal alerts for the request if needed.
 - Since the contract has been signed and PO is released at this point, you may now begin work and/or obtaining services from the supplier.
 
