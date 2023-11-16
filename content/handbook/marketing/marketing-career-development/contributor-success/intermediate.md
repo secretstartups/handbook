@@ -1,34 +1,28 @@
 ---
-
+aliases: /handbook/marketing/career-development/matrix/marketing/community-relations/contributor-success/intermediate
 title: "Contributor Success Career Framework: Intermediate Fullstack Engineer"
 description: "These are the expected competencies of an Intermediate Fullstack Engineer, Contributor Success at GitLab."
 ---
 
-
-
-
-
-
-
 ## Intermediate Fullstack Engineer, Contributor Success
 
-<%= partial("handbook/marketing/career-development/matrix/marketing/community-relations/contributor-success/cs_career_matrix_nav.erb") %>
+{{% include "includes/cs_career_matrix_nav.md" %}}
 
 **Intermediate Fullstack Engineers, Contributor Success at GitLab are expected to exhibit the following competencies:**
 
-* [Leadership Competencies](#leadership-competencies)
-* [Technical Competencies](#technical-competencies)
-* [Values Alignment](#values-alignment)
+- [Leadership Competencies](#leadership-competencies)
+- [Technical Competencies](#technical-competencies)
+- [Values Alignment](#values-alignment)
 
 ---
 
 ### Leadership Competencies
 
-<%= partial("handbook/engineering/career-development/matrix/engineering/engineering_intermediate_leadership_competency.erb") %>
+{{% include "includes/engineering_intermediate_leadership_competency.md" %}}
 
 ### Technical Competencies
 
-<%= partial("handbook/engineering/career-development/matrix/engineering/engineering_intermediate_technical_competency.erb") %>
+{{% include "includes/engineering_intermediate_technical_competency.md" %}}
 
 ##### Contributor Success
 
@@ -36,4 +30,4 @@ Please refer to [Contributor Success Fullstack Engineer](https://handbook.gitlab
 
 ### Values Alignment
 
-<%= partial("handbook/engineering/career-development/matrix/engineering/values_competency.erb") %>
+{{% include "includes/values_competency.md" %}}

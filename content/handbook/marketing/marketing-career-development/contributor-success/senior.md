@@ -1,34 +1,28 @@
 ---
-
+aliases: /handbook/marketing/career-development/matrix/marketing/community-relations/contributor-success/senior
 title: "Contributor Success Career Framework: Senior Fullstack Engineer"
 description: "These are the expected competencies of a Senior Fullstack Engineer, Contributor Success at GitLab."
 ---
 
-
-
-
-
-
-
 ## Senior Fullstack Engineer, Contributor Success
 
-<%= partial("handbook/marketing/career-development/matrix/marketing/community-relations/contributor-success/cs_career_matrix_nav.erb") %>
+{{% include "includes/cs_career_matrix_nav.md" %}}
 
 **Senior Fullstack Engineers, Contributor Success at GitLab are expected to exhibit the following competencies:**
 
-* [Leadership Competencies](#leadership-competencies)
-* [Technical Competencies](#technical-competencies)
-* [Values Alignment](#values-alignment)
+- [Leadership Competencies](#leadership-competencies)
+- [Technical Competencies](#technical-competencies)
+- [Values Alignment](#values-alignment)
 
 ---
 
 ### Leadership Competencies
 
-<%= partial("handbook/engineering/career-development/matrix/engineering/engineering_senior_leadership_competency.erb") %>
+{{% include "includes/engineering_senior_leadership_competency.md" %}}
 
 ### Technical Competencies
 
-<%= partial("handbook/engineering/career-development/matrix/engineering/engineering_senior_technical_competency.erb") %>
+{{% include "includes/engineering_senior_technical_competency.md" %}}
 
 ##### Contributor Success
 
@@ -36,4 +30,4 @@ Please refer to [Senior Contributor Success Fullstack Engineer](https://handbook
 
 ### Values Alignment
 
-<%= partial("handbook/engineering/career-development/matrix/engineering/values_competency.erb") %>
+{{% include "includes/values_competency.md" %}}

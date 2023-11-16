@@ -1,13 +1,7 @@
 ---
-
+aliases: /handbook/marketing/career-development
 title: "Marketing Career Development - Career Paths"
 ---
-
-
-
-
-
-
 
 ## Position Levels
 
