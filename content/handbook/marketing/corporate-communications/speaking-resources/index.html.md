@@ -1,15 +1,15 @@
 ---
-layout: handbook-page-toc
+
 title: 'GitLab Speakers Resources'
 ---
 
 The Corporate Communications and Developer Evangelism teams want to enable everyone to contribute and spread the message about GitLab, DevSecOps, AI, and cloud-native to the entire world. We are happy to help speakers in any way we can, including public speaking coaching and building out slides. Below you can find some resources for becoming a speaker, finding an event, submitting a talk, and putting together the presentation and speech.
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Becoming a Speaker
 
@@ -17,12 +17,12 @@ The Corporate Communications and Developer Evangelism teams want to enable every
 
 So you're interested in becoming a public speaker? That's great!
 
-1. Complete the [GitLab external speaker training](/handbook/marketing/corporate-communications/resources-trainings/#external-speaking-trainings).
-1. Join the [GitLab Speakers Bureau](/speakers/), see the [Developer Evangelist page on the Speakers Bureau](/handbook/marketing/developer-relations/developer-evangelism/speakers-bureau/).
+1. Complete the [GitLab external speaker training](https://about.gitlab.com/handbook/marketing/corporate-communications/resources-trainings/#external-speaking-trainings).
+1. Join the [GitLab Speakers Bureau](/speakers/), see the [Developer Evangelist page on the Speakers Bureau](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/speakers-bureau/).
 1. If you're looking to learn how to be a more effective and confident public speaker, you can check out:
     - [LinkedIn Learning courses](https://www.linkedin.com/learning/public-speaking-foundations-2018/)
     - Books like _The Art of Public Speaking_ by Dale Carnegie
-    - Brendan's blog post: [What makes a great tech talk](/blog/2022/10/04/what-makes-a-great-tech-talk/)     
+    - Brendan's blog post: [What makes a great tech talk](https://about.gitlab.com/blog/2022/10/04/what-makes-a-great-tech-talk/)     
     - Or join your local [Toastmasters](https://www.toastmasters.org/Resources/Public-Speaking-Tips).
 1. Review the steps on this page for 
     - Getting help with CfP and talk ideas
@@ -38,7 +38,7 @@ Sometimes people have an awesome story to share but can't find the time to put w
 
 The submission is open to everyone including wider community members. If you have any question, please ask in the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B) (internal for team members) and mention `@abuango` (or [Twitter](https://twitter.com/sarki247)) in any ongoing GitLab issue. 
 
-You can request help with reviewing CFP abstract drafts and talk slide from the [Developer Evangelism team](/handbook/marketing/developer-relations/developer-evangelism/cfps/). Review examples:
+You can request help with reviewing CFP abstract drafts and talk slide from the [Developer Evangelism team](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/cfps/). Review examples:
 
 - [Efficient Pipelines with CI/CD Templates abstract review](https://gitlab.com/gitlab-com/Product/-/issues/3866#note_852899090)
 - [Secure CI/CD using JWT tokens abstract review](https://gitlab.com/gitlab-com/Product/-/issues/4474)
@@ -61,11 +61,11 @@ Identify events to speak at, prepare for the Call-for-Papers, review and ensure 
 
 1. Speaking opportunities are posted in the [#cfp Slack channel](https://gitlab.slack.com/archives/C106ACT6C) (internal)
 1. You can also see CFPs we're tracking with the `CFP` label [in the Corporate Marketing project](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=CFP) (internal)
-1. For a complete list of events we are tracking, see the [marketing calendar](/handbook/marketing/#marketing-calendar) and the [Developer Evangelism team calendar](/handbook/marketing/developer-relations/developer-evangelism/).
+1. For a complete list of events we are tracking, see the [marketing calendar](https://about.gitlab.com/handbook/marketing/#marketing-calendar) and the [Developer Evangelism team calendar](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/).
 1. More sources for events and CFPs:
   - [CFP Land](https://www.cfpland.com/)
   - [Developers Conferences Agenda](https://github.com/scraly/developers-conferences-agenda) by Aurélie Vache
-  - [Newsletters](/handbook/marketing/developer-relations/developer-evangelism/social-media/#content-sources). @dnsmichi maintains a section in his [opsindev.news newsletter](https://opsindev.news/) every month. 
+  - [Newsletters](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#content-sources). @dnsmichi maintains a section in his [opsindev.news newsletter](https://opsindev.news/) every month. 
 
 ### CFP Submission
 
@@ -82,8 +82,8 @@ If you need help with abstract reviews, or slide deck reviews, please add a note
 For ideas to help you or your customers get their submissions accepted:
 
   - Review [How to Get Your Presentation Accepted (video)](https://www.youtube.com/watch?v=wGDCavOCnA4).
-  - Join the [Speakers Lean Coffee](/handbook/marketing/corporate-communications/speaking-resources/#speakers-lean-coffee).
-  - Schedule a chat with a [Developer Evangelism team member](/handbook/marketing/developer-relations/developer-evangelism/).
+  - Join the [Speakers Lean Coffee](https://about.gitlab.com/handbook/marketing/corporate-communications/speaking-resources/#speakers-lean-coffee).
+  - Schedule a chat with a [Developer Evangelism team member](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/).
 
 #### Event Requirements
 
@@ -91,14 +91,14 @@ For ideas to help you or your customers get their submissions accepted:
 
 Before accepting an invitation to speak at an event, please ensure that the conference aligns with GitLab’s values around its mission that “everyone can contribute”. The event should have both good intentions and accurately reflect those intentions.
 
-1. Any event where a GitLab team member is speaking "on behalf of GitLab," requires to have at least two speakers on the event agenda from [an underrepresented group](/company/culture/inclusion/#examples-of-select-underrepresented-groups) and any panel a GitLab team member participates on should have at least one speaker from an underrepresented group.
+1. Any event where a GitLab team member is speaking "on behalf of GitLab," requires to have at least two speakers on the event agenda from [an underrepresented group](/handbook/company/culture/inclusion/#examples-of-select-underrepresented-groups) and any panel a GitLab team member participates on should have at least one speaker from an underrepresented group.
 1. Please ensure the event has an enforced, public Code of Conduct to ensure it is a safe environment for all contributing. If needed, event organizers are welcome to use GitLab's [Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/).
 
 Follow these steps throughout the CFP process and speaker announcements:
 
 1. Assign the CFP issue to yourself, set the due date to the CFP notification date, and review the speakers list once announced.
 1. When speaking at an event (either by CFP or invite) please notify the conference organizers that your acceptance is contingent on this event requirement. You can share this requirement with the event organizers in the CFP submission forms or via email by linking to this handbook section.
-1. If you are accepted as a speaker, and the requirements are not met, work with your manager and the [corporate communications](/handbook/marketing/corporate-communications/) and [developer evangelism](/handbook/marketing/developer-relations/developer-evangelism/) teams in the [#external-comms Slack channel](https://gitlab.slack.com/archives/CB274TZRR) to take appropriate actions. There may be some instances of smaller event gatherings where the organizer's had every intention of cultivating an agenda of diversity and unfortunately the available pool of speakers was limited due to various restrictions (geography, audience, available pool, travel guidance). If this occurs, please discuss the circumstances with the corporate marketing team and your manager before speaking. 
+1. If you are accepted as a speaker, and the requirements are not met, work with your manager and the [corporate communications](https://about.gitlab.com/handbook/marketing/corporate-communications/) and [developer evangelism](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/) teams in the [#external-comms Slack channel](https://gitlab.slack.com/archives/CB274TZRR) to take appropriate actions. There may be some instances of smaller event gatherings where the organizer's had every intention of cultivating an agenda of diversity and unfortunately the available pool of speakers was limited due to various restrictions (geography, audience, available pool, travel guidance). If this occurs, please discuss the circumstances with the corporate marketing team and your manager before speaking. 
 
 #### Process
 
@@ -106,18 +106,18 @@ Follow these steps throughout the CFP process and speaker announcements:
 
 If there is an event you would like to attend, are attending, speaking, or have proposed a talk and you would like support from GitLab to attend this event, the process goes as follows:
 
-1. Create a [CFP issue](/handbook/marketing/corporate-communications/speaking-resources/#cfp-submission), if not existing already.
+1. Create a [CFP issue](https://about.gitlab.com/handbook/marketing/corporate-communications/speaking-resources/#cfp-submission), if not existing already.
 1. Contact your manager for approval to attend/ speak, and document it in the CFP issue. 
-1. After getting approval from your manager to attend, follow the steps in the Corporate Communications handbook section on [Speaking Opportunities](/handbook/marketing/corporate-communications/#speaking-opportunities-conferences-meetups-webinars-and-other-events).
-1. [Add your event/ talk](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/events/index.yml) to the [events page](/events/) and assign a [Developer Evangelism team member](/handbook/marketing/developer-relations/developer-evangelism/) to review the merge request. 
+1. After getting approval from your manager to attend, follow the steps in the Corporate Communications handbook section on [Speaking Opportunities](https://about.gitlab.com/handbook/marketing/corporate-communications/#speaking-opportunities-conferences-meetups-webinars-and-other-events).
+1. [Add your event/ talk](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/events/index.yml) to the [events page](/events/) and assign a [Developer Evangelism team member](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/) to review the merge request. 
 1. If the conference does not cover your travel and expenses, GitLab will cover your expenses (transportation, meals, and lodging for days said event takes place). If those expenses exceed $500, please get approval from your manager. When booking your trip, use our [travel portal](/handbook/travel/), book early, and spend as if it is your own money. Note: Your travel and expenses will not be approved until your event/engagement has been added to the events page.
 1. If you are speaking, please note your talk in the description when you add it to the Events Page.
-1. If you are not already on the [speakers page](/speakers/), please [add yourself](/handbook/marketing/developer-relations/developer-evangelism/speakers-bureau/#join-the-speakers-bureau).
-1. We suggest bringing swag and/or stickers with you. Check the [Requesting Swag handbook](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/) how to request/order swag and stickers. 
+1. If you are not already on the [speakers page](/speakers/), please [add yourself](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/speakers-bureau/#join-the-speakers-bureau).
+1. We suggest bringing swag and/or stickers with you. Check the [Requesting Swag handbook](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/) how to request/order swag and stickers. 
 
 ### Presentation Assets
 
-For presentation assets like templates and slides, use the [GitLab branded Google slides](/handbook/tools-and-tips/#google-slides) and learn more about assets in the [Brand Design handbook](/handbook/marketing/brand-and-product-marketing/design/#working-with-the-brand).
+For presentation assets like templates and slides, use the [GitLab branded Google slides](/handbook/tools-and-tips/#google-slides) and learn more about assets in the [Brand Design handbook](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/#working-with-the-brand).
 
 Please review and follow the [brand guidelines](https://design.gitlab.com/brand/overview). 
 
@@ -127,7 +127,7 @@ Consider using a [GitLab branded Zoom background](/press/press-kit/#green-screen
 
 If your talk is recorded, we encourage speakers to publish their talks to YouTube. 
 
-Please [upload your talk recording to GitLab Unfiltered](/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube) and add the video [GitLab Tech Talks playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KpNi9Wgvsu-_wdiFOYrL4LO) on GitLab Unfiltered. If the recording is published elsewhere on YouTube, add it to the playlist directly. 
+Please [upload your talk recording to GitLab Unfiltered](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube) and add the video [GitLab Tech Talks playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KpNi9Wgvsu-_wdiFOYrL4LO) on GitLab Unfiltered. If the recording is published elsewhere on YouTube, add it to the playlist directly. 
 
 ### Best Practices
 

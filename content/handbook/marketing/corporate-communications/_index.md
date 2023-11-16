@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Corporate Communications Handbook
 description: Objectives and Goals, Responsibilities, Contact Info and Resources for
   Corporate Communications at GitLab
@@ -9,17 +9,17 @@ twitter_site: '@gitlab'
 twitter_creator: '@gitlab'
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Welcome to the Corporate Communications Handbook!
 
 ## Mission Statement
 
-The mission of GitLab’s Corporate Communications team is to amplify GitLab's product, people and partnerships in the media, via social media channels and through award wins. This team is responsible for global public relations (PR), social media, and executive communications (speaking). Corporate Communications Job families can be found [here](https://handbook.gitlab.com/job-families/marketing/corporate-communications-manager/).
+The mission of GitLab’s Corporate Communications team is to amplify GitLab's product, people and partnerships in the media, via social media channels and through award wins. This team is responsible for global public relations (PR), social media, and executive communications (speaking). Corporate Communications Job families can be found [here](/job-families/marketing/corporate-communications-manager/).
 
 _This page is the single source of truth for corporate communications objectives/goals, contact information, messaging, PR/social media guidelines, approval processes, strategy and more._
 
@@ -45,7 +45,7 @@ The GitLab Corporate Communications team is responsibility for the following act
 
 ## Objectives and Goals
 
-As detailed in GitLab’s public [CMO OKRs](/company/okrs/), GitLab’s corporate communications team seeks to elevate the profile of GitLab in the media and on social media, positioning it as a pioneer of remote work, increasing share of voice against competitors, and securing key narratives in feature articles.
+As detailed in GitLab’s public [CMO OKRs](/handbook/company/okrs/), GitLab’s corporate communications team seeks to elevate the profile of GitLab in the media and on social media, positioning it as a pioneer of remote work, increasing share of voice against competitors, and securing key narratives in feature articles.
 
 - Leverage events to generate media interest in GitLab's people and products
 - Form and foster relationships with key reporters and publications
@@ -92,13 +92,13 @@ Please use the `#external-comms` Slack channel and please follow the [Communicat
 
 #### Incident Communications
 
-To mitigate a potential incident and/or if an incident has occurred, please follow the [incident communications plan](/handbook/marketing/corporate-communications/incident-communications-plan/).
+To mitigate a potential incident and/or if an incident has occurred, please follow the [incident communications plan](https://about.gitlab.com/handbook/marketing/corporate-communications/incident-communications-plan/).
 
 ## Speaking on behalf of GitLab (guidelines for media & podcasts, conferences & meetups, social media, blogs, research, books and in GitLab issues)
 
 Speaking on behalf of GitLab via a public channel such as a media interview (in-person or via phone), on a podcast, in a public issue on GitLab.com, on a forum, at a conference/event (live or virtual), in a blog or an external platform is a significant responsibility.
 
-**As of September 13, 2021, all GitLab team members who speak with the media are required to first complete the [GitLab Media Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-media-training) and all GitLab team members who speak externally at a conference or event are required to first complete the [GitLab Speaker Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-speaker-training-2021).** Both of these trainings have been designed to keep us aligned in representing the company following GitLab’s [SAFE framework](/handbook/legal/safe-framework/). Being mindful of how you say things within open issues, on social media, or at a booth during an event will help keep the company SAFE. We all represent the company. Note, any spokesperson who violates the Speaking on Behalf of GitLab guidelines will have their spokesperson privileges revoked.
+**As of September 13, 2021, all GitLab team members who speak with the media are required to first complete the [GitLab Media Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-media-training) and all GitLab team members who speak externally at a conference or event are required to first complete the [GitLab Speaker Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-speaker-training-2021).** Both of these trainings have been designed to keep us aligned in representing the company following GitLab’s [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/). Being mindful of how you say things within open issues, on social media, or at a booth during an event will help keep the company SAFE. We all represent the company. Note, any spokesperson who violates the Speaking on Behalf of GitLab guidelines will have their spokesperson privileges revoked.
 
 If you are unsure whether or not you should accept a speaking opportunity, create a public issue to gather feedback/communicate a message, or provide comments representing GitLab please see below for guidance.
 
@@ -115,7 +115,7 @@ Spokespeople are SMEs, seasoned in their role (minimum 6 months at the company) 
 - Articulate with the ability to think on their feet
 - [Complete GitLab's Media Training course](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-media-training)
 - [Complete GitLab's Speaker Training course](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-speaker-training-2021)
-- Watch [Social Media 101](/handbook/marketing/corporate-communications/resources-trainings/#social-media-trainings) course
+- Watch [Social Media 101](https://about.gitlab.com/handbook/marketing/corporate-communications/resources-trainings/#social-media-trainings) course
 - Manager approval
 - Good company standing
 - Bonus: [speakers bureau member](/speakers/)
@@ -129,7 +129,7 @@ If you are new to being a spokesperson for GitLab, the Corporate Communications 
 
 Media coverage is common and expected for growing companies. GitLab's transparent nature has led to some positive media coverage and community engagement on social channels and forums; however, it has at times resulted in negative criticism of the company — both valid and invalid. This is common and is expected to continue as the company continues to mature. To stay up-to-date on media coverage, flag any articles or podcasts you see or ask questions, please post in the `#newswire` Slack channel.
 
-Due to GitLab's unique company transparency and mission that [everyone can contribute](/company/mission/), team members may be approached by reporters, podcasts hosts, etc. to comment on the company and/or conduct interviews. If you are asked to be quoted or to provide commentary on _any_ matter as a spokesperson of GitLab, please provide detail of the opportunity to the Corporate Communications team in the `#external-comms` Slack channel before engaging. The Corporate Communications team may ask you to open an issue for further evaluation and engagement for the opportunity.
+Due to GitLab's unique company transparency and mission that [everyone can contribute](/handbook/company/mission/), team members may be approached by reporters, podcasts hosts, etc. to comment on the company and/or conduct interviews. If you are asked to be quoted or to provide commentary on _any_ matter as a spokesperson of GitLab, please provide detail of the opportunity to the Corporate Communications team in the `#external-comms` Slack channel before engaging. The Corporate Communications team may ask you to open an issue for further evaluation and engagement for the opportunity.
 
 While team members may have established relationships with reporters, podcasts hosts, etc., engagement on _any_ matter related to GitLab should go through the Corporate Communications team. You can reach the team in the `#external-comms` Slack channel before engaging.
 
@@ -153,11 +153,11 @@ If you have an opportunity (media opportunity, podcast, video, webinar, fireside
 
 When speaking at an event, on a webinar or at a Meetup, if you are open to being a spokesperson with media or creating a contributed article on your talk, reach out to the Corporate Communications team via the `#external-comms` Slack channel.
 
-For ways to amplify your speaking opportunity, check out the “[How to make your content work harder for you](/handbook/marketing/corporate-communications/resources-trainings/#how-to-make-your-content-work-harder-for-you)” presentation.
+For ways to amplify your speaking opportunity, check out the “[How to make your content work harder for you](https://about.gitlab.com/handbook/marketing/corporate-communications/resources-trainings/#how-to-make-your-content-work-harder-for-you)” presentation.
 
 #### Pursuing Speaking Opportunities Separate from GitLab
 
-We know GitLab team members are multi-faceted and there may be opportunities to speak publicly that don’t overlap with your role at GitLab. In these cases, it is okay to do that assuming the opportunity will not be in conflict with GitLab’s [Code of Business Conduct & Ethics](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/).
+We know GitLab team members are multi-faceted and there may be opportunities to speak publicly that don’t overlap with your role at GitLab. In these cases, it is okay to do that assuming the opportunity will not be in conflict with GitLab’s [Code of Business Conduct & Ethics](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/).
 
 In these instances, it’s necessary to keep your role at GitLab and affiliation with the company separate from the presentation. Additionally, you should not use GitLab branding, resources, or time allocated to your work at GitLab to prepare or deliver your presentation. Please add “these views are my own” to your comments, presentation, or social media. 
 
@@ -166,13 +166,13 @@ If you’re considering a speaking opportunity that could be perceived as being 
 
 #### Event Booth Staffing
 
-If you are staffing the GitLab booth at an in-person or virtual event, you are representing GitLab. Please follow the company’s [SAFE framework](/handbook/legal/safe-framework/) when engaging with booth visitors and event attendees.
+If you are staffing the GitLab booth at an in-person or virtual event, you are representing GitLab. Please follow the company’s [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/) when engaging with booth visitors and event attendees.
 
 ### Research-oriented requests
 
 **Analysts**
 
-For analyst research-oriented requests, please consult the [Analyst Relations](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/) handbook section and direct questions to the `#analyst-relations` Slack channel.
+For analyst research-oriented requests, please consult the [Analyst Relations](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/) handbook section and direct questions to the `#analyst-relations` Slack channel.
 
 **Media**
 
@@ -182,7 +182,7 @@ For media inquiries that are more research oriented, please share the request an
 
 If the request has an honorarium offered (for example, a gift card or cash amount awarded for participation), please go through our [Approvals for Outside Projects & Activities process](/handbook/people-group/contracts-probation-periods/#approval-for-outside-projects--activities-aka-exceptions-to-piaa) to ensure a [conflict of interest is not present](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 
-You may be approached by external parties seeking to provide payment for a GitLab team member's time to discuss GitLab remote practice to help them guide a client. While this is not a traditional research or speaking opportunity (i.e. event or Meetup) it is still considered an external speaking opportunity. We ask that team members verify who they are speaking with to make sure the source is indeed valid and the request legitimate. Remember that you represent GitLab and if any question makes you uncomfortable or gives you a pause on whether you should answer, we recommend that you do not answer. Questions regarding GitLab financials, sales, compliance, executives or where the company is heading should adhere to the [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/) and be treated with caution, as should anything which is not already available in the GitLab handbook. We encourage all team members to be company evangelists and this can be done without sharing [Not Public](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public) information about GitLab.
+You may be approached by external parties seeking to provide payment for a GitLab team member's time to discuss GitLab remote practice to help them guide a client. While this is not a traditional research or speaking opportunity (i.e. event or Meetup) it is still considered an external speaking opportunity. We ask that team members verify who they are speaking with to make sure the source is indeed valid and the request legitimate. Remember that you represent GitLab and if any question makes you uncomfortable or gives you a pause on whether you should answer, we recommend that you do not answer. Questions regarding GitLab financials, sales, compliance, executives or where the company is heading should adhere to the [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/) and be treated with caution, as should anything which is not already available in the GitLab handbook. We encourage all team members to be company evangelists and this can be done without sharing [Not Public](/handbook/communication/confidentiality-levels/#not-public) information about GitLab.
 
 ### Social Media
 
@@ -202,9 +202,9 @@ When representing and/or communicating externally on behalf of GitLab, please fo
 
 ### GitLab Master Messaging Document, Fact Sheet, Speaking Deck
 
-GitLab's Corporate Communications (PR/Social Media) team is the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) (directly responsible individual) for the GitLab Master Messaging Document, [Guide on Speaking About Remote work at GitLab](https://docs.google.com/document/d/e/2PACX-1vTtZuxbdPeTzkyyMOtpraHLH9YGhUVIGpbpkaLEB4Xb6cprJ20Nl6Aa_c1l5WIJs1ZXTlcuhQOEOPfI/pub) and [company Fact Sheet](https://docs.google.com/document/d/1GXkp_tCSCiiFsBpQmGAKyxlRkvGHs46UqsC8jZcjnZg/edit). These documents are regularly kept up-to-date and should be the single source of truth for all company information used for media interviews and award submissions.
+GitLab's Corporate Communications (PR/Social Media) team is the [DRI](/handbook/people-group/directly-responsible-individuals/) (directly responsible individual) for the GitLab Master Messaging Document, [Guide on Speaking About Remote work at GitLab](https://docs.google.com/document/d/e/2PACX-1vTtZuxbdPeTzkyyMOtpraHLH9YGhUVIGpbpkaLEB4Xb6cprJ20Nl6Aa_c1l5WIJs1ZXTlcuhQOEOPfI/pub) and [company Fact Sheet](https://docs.google.com/document/d/1GXkp_tCSCiiFsBpQmGAKyxlRkvGHs46UqsC8jZcjnZg/edit). These documents are regularly kept up-to-date and should be the single source of truth for all company information used for media interviews and award submissions.
 
-GitLab's Corporate Communications and Product Marketing teams are the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) (directly responsible individual) for the [GitLab Master Company Deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/edit#slide=id.ge6557c0f73_0_7). This deck is regularly kept up-to-date and should be the single source of truth for all company information used for external speaking presentations and engagements.
+GitLab's Corporate Communications and Product Marketing teams are the [DRI](/handbook/people-group/directly-responsible-individuals/) (directly responsible individual) for the [GitLab Master Company Deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/edit#slide=id.ge6557c0f73_0_7). This deck is regularly kept up-to-date and should be the single source of truth for all company information used for external speaking presentations and engagements.
 
 ### Sharing Media Coverage
 
@@ -290,7 +290,7 @@ If you receive a vendor request for GitLab to act as a reference (case study, bl
 
 ### GitLab Press Releases
 
-GitLab's corporate communications team is the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) (directly responsible individual) for writing all press releases that are issued by the company and routing through the appropriate approval process. If you have questions about the press release process or how to make an announcement request, please reach out via the #external-comms Slack channel or submit an announcement [issue template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=announcement) (see Requests for Announcements section above).
+GitLab's corporate communications team is the [DRI](/handbook/people-group/directly-responsible-individuals/) (directly responsible individual) for writing all press releases that are issued by the company and routing through the appropriate approval process. If you have questions about the press release process or how to make an announcement request, please reach out via the #external-comms Slack channel or submit an announcement [issue template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=announcement) (see Requests for Announcements section above).
 
 For partner-led blogs or press releases, please refer to the [partner PR request section](https://about.gitlab.com/handbook/marketing/corporate-communications/#partner-requests-for-press-release-support) of the handbook. Note that due to the volume of requests, GitLab rarely writes joint press releases.
 
@@ -302,7 +302,7 @@ In some cases, it may be more appropriate and [efficient](/handbook/values/#bori
 
 - Soliciting feedback (e.g. gathering community input on a proposal)
 - Explaining upcoming or ongoing changes to GitLab (**not** breaking changes, changes which require users to take action, or otherwise sensitive)
-- Sharing updates on a live, ongoing incident (this would be owned by the [Communications Manager on Call](/handbook/engineering/infrastructure/incident-management/#communications-manager-on-call-cmoc-responsibilities))
+- Sharing updates on a live, ongoing incident (this would be owned by the [Communications Manager on Call](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#communications-manager-on-call-cmoc-responsibilities))
 
 Using a public issue has a few advantages:
 
@@ -332,7 +332,7 @@ At a minimum, your issue should:
 
 We can spread the word about a public issue in the same way that we would promote a blog post or press release:
 
-- You can [request promotion of your item on GitLab's social channels](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/).
+- You can [request promotion of your item on GitLab's social channels](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/).
 - You can request that your item be included in an upcoming newsletter by leaving a comment on the appropriate [newsletter issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues?label_name%5B%5D=Newsletter).
 - Ask in #marketing on Slack if you would like to promote in some other way.
 
@@ -361,7 +361,7 @@ Please flag awards as soon as possible – ideally, six weeks ahead of the deadl
 ### Amplifying Award Wins
 As a standard practice, we don’t issue press releases for award wins. However, there are many ways to spread the word about your recognition, both within GitLab and externally. 
 
-The publication that arranges the award will typically conduct its own promotion cycle. The accolade will be shared on its website, social media platforms, and in some cases, will be presented as part of a virtual or in-person event. In addition to the publication's promotion, other recommended mediums for promotion include submitting a [blog post request](/handbook/marketing/blog/#communication) and sharing the accolade via [GitLab's social media channels](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/).
+The publication that arranges the award will typically conduct its own promotion cycle. The accolade will be shared on its website, social media platforms, and in some cases, will be presented as part of a virtual or in-person event. In addition to the publication's promotion, other recommended mediums for promotion include submitting a [blog post request](https://about.gitlab.com/handbook/marketing/blog/#communication) and sharing the accolade via [GitLab's social media channels](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/).
 
 Internally, we share the recognition in our `#whats-happening-at-gitlab` channel with links to GitLab social posts, as well as posts for our team members to share on their own social media accounts. We also share award wins in our monthly newsletter. 
 
@@ -388,7 +388,7 @@ Internally, we share the recognition in our `#whats-happening-at-gitlab` channel
 
 ```
 ---
-layout: markdown_page
+
 title: "Title of press release"
 description: "short sentence overview of press release"
 twitter_image: "/images/opengraph/Press-Releases/image.png"

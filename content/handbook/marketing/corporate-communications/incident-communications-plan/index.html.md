@@ -1,13 +1,13 @@
 ---
-layout: handbook-page-toc
+
 title: GitLab Incident Communications Plan
 description: 'Escalations, Processes, and How to Manage Incidents'
 ---
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ### If you need review from the corporate communications team on a potential incident, gather information in an issue or link us to the Slack discussion by message the team in the #corpcomms Slack channel and we'll work with the [Security Communication Manager on Call](/handbook/security/security-operations/sirt/security-incident-communication-plan.html#roles-and-responsibilities-in-a-security-incident) to determine next steps.
 
@@ -28,7 +28,7 @@ A Tier 4 event is something we already have a process for like a [security incid
 
 #### Tier 3 - Rapid Response
 
-A Tier 3 is a rapid response needed to address industry changes, competitive moves, news about the company, and other opportunities to provide comment/opinion or thought leadership. In the case of a Tier 3, [please follow the Rapid Response directive](/handbook/marketing/#-marketing-rapid-response-process).
+A Tier 3 is a rapid response needed to address industry changes, competitive moves, news about the company, and other opportunities to provide comment/opinion or thought leadership. In the case of a Tier 3, [please follow the Rapid Response directive](https://about.gitlab.com/handbook/marketing/#-marketing-rapid-response-process).
 
 #### Tier 2 - Incident (process below)
 
@@ -52,7 +52,7 @@ The head of corporate communications will assess the request within 1 HOUR (6amP
 
 - [Corporate Communications phone tree](https://docs.google.com/document/d/1qos3kjM_yIhS8-syey7WfR22SzmnHYFSCZpnFnBv7Rw/edit) - This team will coordinate external communications efforts according to the communication escalation action plan and liaise across the extended GitLab teams to ensure all parties are activated, updated and aligned. This team is also responsible for social media.
 - Internal Communications - This team will coordinate internal communications efforts according to the action plan.
-- [Developer Relations phone tree](/handbook/marketing/developer-relations/#emergency-contact) - This team is responsible for community response situations, monitoring, and [enforcing the GitLab Code of Conduct](/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/) on the relevant GitLab.com discussions.
+- [Developer Relations phone tree](https://about.gitlab.com/handbook/marketing/developer-relations/#emergency-contact) - This team is responsible for community response situations, monitoring, and [enforcing the GitLab Code of Conduct](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/) on the relevant GitLab.com discussions.
 - CLO - The Chief Legal Officer will provide legal input on the action plan, as well as all written external and internal communications.
 - CMO - DRI on final external message. Any disagreements on urgency or action will be escalated immediately to the CMO for a final decision.
 
@@ -72,7 +72,7 @@ Tier 2 incidents could either be addressed publicly without further interruption
 
 When the incident is not caused by our product and is not service-related, the need to coordinate with support teams may not exist. However, working with the Developer Relations team helps to address core and niche social media channels.
 
-To learn more about pausing social media / going dark during an incident, [review the social media handbook](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/#social-during-an-incident).
+To learn more about pausing social media / going dark during an incident, [review the social media handbook](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/#social-during-an-incident).
 
 #### Community Response
 
@@ -119,7 +119,7 @@ A number of these recommendations directly or indirectly align with [GitLab’s 
 
 Additionally, we need to be sure we:
 - Communicate early and often, [as much as necessary](/handbook/values/#iteration)
-- Always use the [GitLab brand voice](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/)
+- Always use the [GitLab brand voice](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/)
 
 #### Meet Stakeholders Where They Are
 

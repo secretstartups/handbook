@@ -1,18 +1,18 @@
 ---
-layout: handbook-page-toc
+
 title: Corporate Communications Resources and Trainings
 description: Trainings for Team Members provided by the Corporate Communications Team
 ---
 ## Corporate Communications Resources and Trainings
-{:.no_toc}
+
 
 More information about additional trainings are coming soon.
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## External Speaking Trainings
 
