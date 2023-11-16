@@ -72,7 +72,7 @@ A Contractor or an Independent Contractor (IC) **is an individual** (not an enti
 1. Vendor Name and Primary Contact
    - If an existing vendor or you are unsure, start typing the vendor name in Zip. If vendor exists, Zip will populate it in the dropdown. You can then select the existing Primary Vendor Contact or select ‘Add new contact’ and complete the the contact information
    - If New Vendor:
-      - Review the [Vendor Selection Process](https://about.gitlab.com/handbook/finance/procurement/#1-rfp-and-vendor-selection) and the [RFP guidelines](https://internal.gitlab.com/handbook/finance/procurement/) or reach out to your Procurement Category Manager if you have questions or need support
+      - Review the [Vendor Selection Process](/handbook/finance/procurement/#1-rfp-and-vendor-selection) and the [RFP guidelines](https://internal.gitlab.com/handbook/finance/procurement/) or reach out to your Procurement Category Manager if you have questions or need support
       - If this supplier is not already in our system, you will need to click the “add new” option once you type in the supplier name. Please be sure to fill in all details so that the Procurement team can complete the [New Vendor Onboarding step](https://about.gitlab.com/handbook/finance/procurement/#4-vendor-onboarding). While we use Zip internally now, Coupa will still be the tool used to pay our suppliers.
 1. Spend Information
    - Provide all of the spend details including required budget amount, contract term, and line item details.
@@ -85,7 +85,7 @@ A Contractor or an Independent Contractor (IC) **is an individual** (not an enti
    - If any personal data will be shared or accessed, a Privacy Review may be required. The vendor will receive communication from Zip requesting information regarding their data privacy practices.
    - Be as specific as you can about the type of data the vendor and/or system will have access to, and specifics about how they will receive that data. Failure to complete this section accurately will delay the review and approval of your request.
    - If any personal data will be shared, the Vendor will need to sign our DPA and SCC’s as directed by state and/or country statutory requirements.
-   - _**TIP:** To increase speed of approval, send your supplier contact GitLab's [DPA/SCCs](https://docs.google.com/document/d/1MXluQhBlLtRqD854SdsbjtLMnqVwCcqx/edit) for review right away. For the DPA, please inform the supplier contact that Schedule 1 and Schedule 3 must be completed by the supplier. Also alert them to the request from ZenGRC for security completion and Zip for privacy review completion. Let them know review and approval can't begin without these pieces._
+   - **TIP:** To increase speed of approval, send your supplier contact GitLab's [DPA/SCCs](https://docs.google.com/document/d/1MXluQhBlLtRqD854SdsbjtLMnqVwCcqx/edit) for review right away. For the DPA, please inform the supplier contact that Schedule 1 and Schedule 3 must be completed by the supplier. Also alert them to the request from ZenGRC for security completion and Zip for privacy review completion. Let them know review and approval can't begin without these pieces.
 1. Documents & Surveys:
    - For any software renewal/add-on that is based on usage (e.g. user quantities), a usage report is required for Procurement’s review. This can be uploaded in the Documents section under ‘Please attach any additional files for reference’ at the end of the request process.
       - Based on the usage report, Procurement will review the request to increase, decrease, or hold quantities flat.
@@ -111,4 +111,4 @@ By submitting a Zip Change Request, the applicable approvers will be added to th
 
 ## Procurement Office Hours
 
-If you have any questions or concerns that may not be addressed in the Handbook, we invite you to join us for Procurement Office Hours every Wednesday. During this dedicated time, our Procurement Team will be readily available to assist you and provide answers to your inquiries. If you're unable to join a call, please feel free to submit your questions in our [Agenda](https://docs.google.com/document/d/1jm_LMJn_y4aNEO1eREz5Va0I1btuk65FPaXVy8oJpfQ/edit#heading=h.n3pspp93n6pq), and we'll ensure a prompt response.
+If you have any questions or concerns that may not be addressed in the Handbook, we invite you to join us for Procurement Office Hours every Wednesday. During this dedicated time, our Procurement Team will be readily available to assist you and provide answers to your inquiries. If you're unable to join a call, please feel free to submit your questions in our [Agenda](https://docs.google.com/document/d/1jm_LMJn_y4aNEO1eREz5Va0I1btuk65FPaXVy8oJpfQ/edit), and we'll ensure a prompt response.

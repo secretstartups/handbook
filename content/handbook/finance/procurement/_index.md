@@ -171,7 +171,7 @@ Each review’s targeted approval time is outlined below, but as mentioned above
 
 #### 3.A. Legal Review: 3 to 21 days
 
-_*Note: The amount of time for review, and to reach execution, is based on the details below. Use these SLA's as guidelines, noting that each contract review process is unique and if additional terms, requirements, and/or risks are identified the timeline for completion may be extended. The ability for GitLab to process and work efficiently through an agreement negotiation relies on the vendor, and vendor counsel, to respond promptly to GitLab red-lines and comments.*_
+**Note:** The amount of time for review, and to reach execution, is based on the details below. Use these SLA's as guidelines, noting that each contract review process is unique and if additional terms, requirements, and/or risks are identified the timeline for completion may be extended. The ability for GitLab to process and work efficiently through an agreement negotiation relies on the vendor, and vendor counsel, to respond promptly to GitLab red-lines and comments.
 
 **Types of Vendors and Review Times**
 - **Existing Vendors for renewals or upsells: 3-5 Days**
@@ -190,7 +190,7 @@ _*Note: The amount of time for review, and to reach execution, is based on the d
 - **Marketing / Events:** Generally, requires the least amount of time to review as the obligations are standardized given the event in question and program provided. Details regarding events may include negotiations with regards to Force Majeure, cancellation (including penalty), and ensuring the terms of the Agreement align with those of the requesting GitLab Team Members.
 - **Data Processing Agreement (DPA)/Standard Contractual Clauses (SCCs):** Required when personal data is shared with, accesssed, or collectd by the supplier on behalf of GitLab. DPA/SCCs are generally affixed to an agreement but may be required as a separate agreement upon the determination of Privacy.
 
-_Negotiation, Security, Privacy, and PeopleOps reviews are only required if the purchase request meets certain criteria, as described below. In the event two or more of these activities are required, they will happen in parallel to one another and Legal's review._
+*Negotiation, Security, Privacy, and PeopleOps reviews are only required if the purchase request meets certain criteria, as described below. In the event two or more of these activities are required, they will happen in parallel to one another and Legal's review.*
 
 #### 3.B. Negotiation: 12 days
 
@@ -205,7 +205,7 @@ _Negotiation, Security, Privacy, and PeopleOps reviews are only required if the 
 
 - [Security Third Party Risk Management](https://handbook.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management/) reviews are required for vendors that collect, process, or store Orange / Red Data, software providers (SaaS and On-premise), and independent contractors / consultants. (Excluding field marketing events)
 - This activity cannot begin until **after** the supplier completes the security questionnaire and supplies their security documentation. Oftentimes, it can take 1-2 weeks for the supplier to respond and complete the requested materials. The security review SLA begins once that is completed. Time before this activity can begin is entirely dependent upon the supplier's response time and maturity of security protocols.
-- _**TIP:** To increase speed of approval, upload any security compliance documentation (SOC-2 Report, ISO27001 Certificate) to the ZipHQ Request and notify your supplier contact they will be receiving a request from ZenGRC for completion ASAP._
+- **TIP:** To increase speed of approval, upload any security compliance documentation (SOC-2 Report, ISO27001 Certificate) to the ZipHQ Request and notify your supplier contact they will be receiving a request from ZenGRC for completion ASAP.
 - For any inquiries and questions, please tag @securityrisk in the #procurement slack channel.
 
 #### 3.D. PeopleOps Review: 1-4 Days
@@ -223,7 +223,7 @@ _Negotiation, Security, Privacy, and PeopleOps reviews are only required if the 
 - This activity begins **after** the supplier completes a Privacy and Trade Compliance Assessment form and a Transfer Impact Assessment Form (where personal data is transferred from the EU to the U.S.) Oftentimes, it can take a week for the supplier to respond and complete the requested forms. The SLA begins once that is completed.
 - Time before this activity can begin is entirely dependent upon the supplier's response time and whether a DPA/SCCs are required.
 - A DPA/SCCs are often made part of the agreement with the supplier. Generally, Privacy would prefer to use our DPA/SCCs but if the the supplier provides their DPA/SCCs as an exhibit to the main agreement, Legal and Privacy may use the supplier's version to arrive at a final agreed upon version. Procurement will obtain executed versions of DPA/SCCs in the Final Buyer Review stage.
-- _**TIP:** To increase speed of approval, add a link to the suppliers privacy notice; upload the suppliers Transfer Impact Assessment Guide; and upload a word version of their DPA/SCCs if the supplier requuests us to use their version._
+- **TIP:** To increase speed of approval, add a link to the suppliers privacy notice; upload the suppliers Transfer Impact Assessment Guide; and upload a word version of their DPA/SCCs if the supplier requuests us to use their version.
 
 #### 4. Final Buyer Review and Coupa Req Creation: 2 days
 
