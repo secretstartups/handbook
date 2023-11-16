@@ -19,6 +19,7 @@ DUBDUBDUB_REPO=$(git rev-parse --show-toplevel)/../www-gitlab-com
 IS_HANDBOOK=false
 IS_COMPANY=false
 IS_ENGINEERING=false
+IS_MARKETING=false
 SECTION=NOSET
 TITLE=NOTSET
 ICON=NOTSET
@@ -56,6 +57,8 @@ while [ "$1" != "" ]; do
         -C | --company)             IS_COMPANY=true
                                     ;;
         -E | --engineering)         IS_ENGINEERING=true
+                                    ;;
+        -M | --marketing)           IS_MARKETING=true
                                     ;;
         -s | --section)             shift
                                     SECTION=$1
@@ -140,6 +143,9 @@ elif [[ $IS_COMPANY == true ]]; then
 elif [[ $IS_ENGINEERING == true ]]; then
         DIRECTORY_TO_SPLIT=sites/handbook/source/handbook/engineering/$SECTION
         NEW_SECTION=content/handbook/engineering/$SECTION
+elif [[ $IS_MARKETING == true ]]; then
+        DIRECTORY_TO_SPLIT=sites/handbook/source/handbook/marketing/$SECTION
+        NEW_SECTION=content/handbook/marketing/$SECTION
 else
     DIRECTORY_TO_SPLIT=sites/uncategorized/source/$SECTION
     NEW_SECTION=content/$SECTION
@@ -176,7 +182,7 @@ if [[ USE_FILTER_REPO == "false" ]]; then
   echo -e "${bold}Performing git subtree split... this might take a few minutes...${normal}"
   git remote rm origin
   git filter-branch --subdirectory-filter $DIRECTORY_TO_SPLIT -- --all
-  
+
   git filter-branch -f --index-filter 'git ls-files -s | sed -e "s/\t\"*/&'$SECTION'\//" |
       GIT_INDEX_FILE=$GIT_INDEX_FILE.new \
           git update-index --index-info &&
@@ -224,6 +230,9 @@ if [[ USE_FILTER_REPO == "false" ]]; then
   elif [[ $IS_ENGINEERING == true ]]; then
     NEW_SECTION_PATH=content/handbook/engineering/$SECTION
     git mv $SECTION content/handbook/engineering/
+  elif [[ $$IS_MARKETING == true ]]; then
+    NEW_SECTION_PATH=content/handbook/marketing/$SECTION
+    git mv $SECTION content/handbook/marketing/
   else
     NEW_SECTION_PATH=content/$SECTION
     git mv $SECTION content/
@@ -241,6 +250,10 @@ else
     NEW_SECTION_PATH=content/handbook/engineering/$SECTION
     git mv sites/handbook/source/handbook/engineering/$SECTION content/handbook/engineering/
     rmdir sites/handbook/source/handbook/engineering sites/handbook/source/handbook sites/handbook/source sites/handbook sites
+  elif [[ $$IS_MARKETING == true ]]; then
+    NEW_SECTION_PATH=content/handbook/marketing/$SECTION
+    git mv sites/handbook/source/handbook/marketing/$SECTION content/handbook/marketing/
+    rmdir sites/handbook/source/handbook/marketing sites/handbook/source/handbook sites/handbook/source sites/handbook sites
   else
     NEW_SECTION_PATH=content/$SECTION
     git mv sites/uncategorized/source/$SECTION content/
@@ -468,6 +481,9 @@ if [[ $IS_COMPANY == true ]]; then
 elif [[ $IS_ENGINEERING == true ]]; then
   echo "content/handbook/engineering/$SECTION/**/*.md" >> .markdownlintignore
   sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/engineering/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
+elif [[ $$IS_MARKETING == true ]]; then
+  echo "content/handbook/marketing/$SECTION/**/*.md" >> .markdownlintignore
+  sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/marketing/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
 elif [[ $IS_HANDBOOK == true ]]; then
   echo "content/handbook/$SECTION/**/*.md" >> .markdownlintignore
   sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
@@ -503,7 +519,10 @@ if [[ $IS_COMPANY == true ]]; then
   REDIRECT_TARGET=https://handbook.gitlab.com/handbook/company/$SECTION
 elif [[ $IS_ENGINEERING == true ]]; then
   REDIRECT_SOURCE=/handbook/engineering/$SECTION
-  REDIRECT_TARGET=https://handbook.gitlab.com/handbook/enginnering/$SECTION
+  REDIRECT_TARGET=https://handbook.gitlab.com/handbook/engineering/$SECTION
+elif [[ $$IS_MARKETING == true ]]; then
+  REDIRECT_SOURCE=/handbook/marketing/$SECTION
+  REDIRECT_TARGET=https://handbook.gitlab.com/handbook/marketing/$SECTION
 elif [[ $IS_HANDBOOK == true ]]; then
   REDIRECT_SOURCE=/handbook/$SECTION
   REDIRECT_TARGET=https://handbook.gitlab.com/handbook/$SECTION
