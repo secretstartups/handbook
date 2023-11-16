@@ -1265,14 +1265,6 @@ Earlier in our history, 50% of all communication *was* in public channels.
 - It's not rude to leave a channel. When you've had your questions answered or are no longer interested, feel free to leave the channel so it won't distract you anymore.
 - The usage of ChatBots for integrations can sometimes depend upon the name of the channel. You should consult the channel about such integrations before changing the name of commonly used/popular channels to avoid inadvertently breaking integrations.
 
-### Be respectful of your own time
-
-You should try to avoid information overload in order to be productive and efficient with your time. While it can be tempting to read every message in every Slack channel you subscribe to, it’s very challenging, not expected, and not necessary.
-
-One method for avoiding Slack overload is to focus your Slack reading on [Starred channels](https://slack.com/intl/en-nl/help/articles/201331016-Star-channels-and-direct-messages) and [Threads](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-). Starred channels are like "favorites" and allow you to follow messages from those channels easily. Threads consist of any conversation in which you are mentioned and allow you to easily track conversations in which you have direct involvement.
-
-Use your notification settings liberally. Depending on how you use Slack this could range from limiting notifications to critical messages outside of your working hours to turning off Slack notifications entirely. Find the right balance for you and stick to it.
-
 ### Be respectful of others' time
 
 Start by understanding what we mean by respecting time. We should err toward putting material into channels over DMs and public channels over private channels even though we understand that this will generate more messages that can be read by more people. Respecting time is not about reducing the overall volume of channel messages that team members receive. It's about making sure that messages are targeted, expectations for asynchronous responses are clear, and we are communicating with consideration.
@@ -1282,46 +1274,12 @@ The following tips provide ways to work respectfully with others given this cont
 - If you're only referring to someone, but don't actually need their attention, and want to spare them from getting notified, spell out their name normally without `@` mentioning them.
 - You also do not need to `@` mention someone if they are part of a Slack thread unless you need their attention as soon as possible, since Slack has a dedicated view for threads.
 - Slack messages should be considered asynchronous communication, and you should not expect an instantaneous response; you have no idea what the other person is doing.
-- Because we work globally, you may receive Slack mentions at any time of day. Please consider enabling [Slack's Do not disturb functionality](https://slack.com/intl/en-ie/help/articles/214908388-Pause-notifications-with-Do-Not-Disturb) so you don't get interrupted, for example, in your offtime. You can also use Slack's Notification schedule tool, this can be found in Slack's Preferences tab. To access this, open Slack, hover your cursor at the top of your screen, click Slack, then preferences, under the notifications tab you will see notification schedule. This tool allows you to pick what days / times you get notifications.
 - Do not feel obligated to respond to Slack messages when you are not working.
 - Feel free to send a colleague a link to these guidelines if the communication in Slack should be done **asynchronously**.
 - **Please avoid using @here or @channel unless this is about something urgent and important.** In chat, try to keep the use of keywords that mention the whole channel to a minimum. They should only be used for pings that are both urgent and important, not just important. By overusing channel mentions, you make it harder to respond to personal mentions promptly since people get pinged too frequently. Additionally, if you are planning to `@mention` a specific team ([Slack User Group](https://get.slack.help/hc/en-us/articles/212906697-Create-a-user-group#browse-user-groups-and-view-members)), consider the size of the group you are mentioning ([see group membership](https://gitlab.com/gitlab-com/security-tools/report-slack-group-members)) and the impact of pinging all of these people for the particular situation. If something is urgent and important:
   - Use `@here` to notify all currently *active* members in the room. Please only use `@here` if the message is important *and* urgent.
   - Use `@channel` to notify *ALL* members in the room, irrespective of away status. Please only use `@channel` if the message is important *and* urgent.
 - If you are aware that your teammate is on vacation, avoid mentioning them in a high volume channel. It will be difficult to find the information or question when they return. If you need to ensure they refer back to the thread, ensure to send them a link to the relevant Slack message through a direct message.
-
-### Key Slack channels
-
-The alphabetically sorted starter list below spotlights a few of GitLab's [many Slack channels](/handbook/communication/chat/) in an effort to provide guidance to team members regarding the best places to ask specific questions and/or engage in discussion on a variety of topics. See Slack's [Help Center](https://slack.com/help/articles/205239967-Join-a-channel) for instructions on browsing all available channels.
-
-<b>Learn more in our [Chat handbook section](/handbook/communication/chat/)</b>.
-
-| Channel                              | Purpose                                                                                                                                                                                                                              |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `#company-fyi`                       | Official company announcements, [restricted permission levels](#posting-in-company-fyi) to ensure high-signal; all GitLab team members are automatically added to this channel.                                                      |
-| `#whats-happening-at-gitlab`         | Open to all team members for unofficial updates which are important and/or useful to **most or all** of GitLab, including reminders, events, project updates, etc.; all GitLab team members are automatically added to this channel. |
-| `#diversity_inclusion_and_belonging` | Stay up to date on GitLab’s latest [Diversity, Inclusion and Belonging](/handbook/company/culture/inclusion/) initiatives and share feedback and thoughts about how we can make our environment even more inclusive.                          |
-| `#expense-reporting-inquiries`       | For questions pertaining to [expenses](/handbook/spending-company-money/) (e.g. Expensify).                                                                                                                                          |
-| `#git-help`                          | Specific questions about using Git in the terminal.                                                                                                                                                                                  |
-| `#intheparenthood`                   | Cute kid photos, tips on getting your children ready for school, etc.                                                                                                                                                                |
-| `#is-this-known`                     | Get help in finding existing issues for existing problems.                                                                                                                                                                           |
-| `#it_help`                           | Create a Help Request in this channel should you have any IT general questions or trouble with setup (e.g. 2FA, accounts, etc.).                                                                                                     |
-| `#loc-specific channels`             | Search loc\*insert your location* to connect with GitLab team members in your location (e.g `#loc_italy`, `#loc_chicagoland`, `#loc_mexico`, etc.).                                                                                 |
-| `#mr-buddies`                        | For any questions regarding merge requests.                                                                                                                                                                                          |
-| `#new_team_members`                  | For new GitLab team members to introduce themselves to the company and for existing team members to share updates with new hires.                                                                                                    |
-| `#new-vacancies`                  | For all GitLab team members to be aware of internal opportunities, as well as all job openings as they are listed. Please review the [referral process](/handbook/hiring/referral-process/) page to find out more about referring someone for a role.                                                                                                   |
-| `#office-today`                      | GitLab is an [all-remote](/handbook/company/culture/all-remote/) organization. Where’s your office today? Share a photo or use words to describe it.                                                                                          |
-| `#payroll`                           | For questions pertaining to [payroll](/handbook/finance/payroll/) and [contractor invoices](/handbook/finance/payroll/#non-us) (e.g. ADP, etc.).                                                                                     |
-| `#people-connect`                         | For general People Ops questions (e.g. [onboarding](/handbook/people-group/general-onboarding/), [offboarding](/handbook/people-group/offboarding/), [team meetings](/handbook/company/culture/all-remote/meetings/), etc.). Also for anything related to compensation, benefits, or equity. You can also check out the Total Rewards [issue tracker](https://gitlab.com/gitlab-com/people-group/total-rewards/issues) and [handbook page](/handbook/total-rewards/)!                  |
-| `#questions`                         | You may have a question that you can’t find the answer to in our handbook (or you need help finding something in the handbook). If your question relates to one or more of [these topics](/handbook/communication/#questions), go directly to the subject matter experts/source in the designated slack channel to ensure your question is addressed. If your question doesn’t relate to any of these topics, ask it in #questions.                                                               |
-| `#random`                            | Anything and everything from photos, news, food, music, etc.                                                                                                                                                                         |
-| `#talent-acquisition`                | For questions about [referrals](/handbook/hiring/referral-process/), the [hiring process](/handbook/hiring/), and/or candidate status.                                                                                               |
-| `#remote`                            | To share news, thoughts, feedback and anything else pertaining to remote work! Learn more about [GitLab's approach to remote work](/handbook/company/culture/all-remote/).                                                                    |
-| `#team-member-updates`               | To stay updated on transitions/promotions, new GitLab team members joining, work anniversaries, etc.                                                                                                                                 |
-| `#thanks`                            | Recognition is an [important part of GitLab's culture](/handbook/communication/#say-thanks); give a public "thanks" to your teammates and recognize bonuses awarded to team members here!                                                                                          |
-| `#travel`                            | A place to discuss all things [travel](/handbook/company/culture/all-remote/people/#travelers)!                                                                                                                                               |
-| `#values`                             | Channel to discuss iterations on GitLab values                                                                                                                                                                                |
-| `#women`                             | Employee resource group for members and allies.                                                                                                                                                                                      |
 
 #### Questions
 
@@ -1330,26 +1288,6 @@ If you have a question that you can’t find the answer to in our handbook (or y
 If your question relates to one or more of the following topics, go directly to the subject matter experts/source in the designated slack channel to ensure your question is addressed.
 
 Are you a subject matter expert in your role or knowledgeable in a topic-specific channel on Slack? Add the topic and channel to the grid so team members know where to go if they have questions on that topic.
-
-
-| Topic                              | Ask your question in                                                                                                                                                                                                                              |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Any People Team related questions                       | `#people-connect`                                                      |
-| Brand assets         | `#marketing`|
-| Diversity, Inclusion, and Belonging | `#diversity_inclusion_and_belonging`                         |
-| Existing issues for existing problems       | `#is-this-known`                                                                                                                                          |
-| Expenses                          | `#expense-reporting-inquiries`                                                                                                                                                                                  |
-| GitLab gear, swag                   | `#swag`                                                                                                                                                                |
-| IT                     | `#it_help`                                                                                                                                                                           |
-| Merge requests                           | `#mr-buddies`                                                                                                     |
-| Pay slips, pay dates             | `#payroll`                                                                                 |
-| Product                        | `#product`                                                                                                                                                                                          |
-| Referrals, hiring process, candidate status                  | `#talent-acquisition`                                                                                                    |
-| SAFE                  | `#safe`                                                                                                   |
-| Sales                      | `#sales`                                                                                          |
-| Security | `#security` |
-| Stock options, RSUs, vesting schedule                           | `#stock-admin`                                                                                     |
-| Using Git in the terminal                         | `#git-help`                 |
 
 If your question doesn’t relate to any of the above topics:
 
