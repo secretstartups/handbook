@@ -70,15 +70,13 @@ With the work we've been doing in previous years, we are all in alignment that a
 
 We collaborate on the section level items in the [#s_platforms](https://gitlab.slack.com/archives/C02D1HQRTKQ) Slack channel. This channel is used to share important information with the wider team, but also serves to align all teams in Platfroms with the common topic.
 
-For communication between managers, we have [#infra-platforms-reports](https://gitlab.slack.com/archives/C010QV6RRB3) channel. Everyone interested is welcome to join this channel if they find the topics interesting. We also have a confidential managers channel that is used to discuss staffing issues affecting all teams that require additional coordination.
+For communication between managers, we have [#g_saas_platforms_leads](https://gitlab.slack.com/archives/C010QV6RRB3) channel. Everyone interested is welcome to join this channel if they find the topics interesting. We also have [a confidential managers channel](https://gitlab.slack.com/archives/G010N73CXJ6) that is used to discuss staffing issues affecting all teams that require additional coordination.
 
 Once per week, we hold a `Platforms leads call` to align on action items related to career development, general direction or answer any ongoing questions that have not been addressed async. The call is cancelled when there are no topics added on the morning of the call.
 
 In addition to the `Platforms leads call`, we have some recurring events and reminders that can be viewed in the [SaaS Platforms Leadership Calendar](https://calendar.google.com/calendar/u/0?cid=Y184YTgxZjdhY2M3NmQ3MmI4ZTQxODlhNjFmN2EyN[…]MzIzNmY1OTJlN2RkNTJlODNiQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). Please add this to your Calendars to stay up-to-date with the various events.
 
-We hold a monthly **Infrastructure Office Hours** for any questions and feedback you may have for the Platforms team. More details can be found on the [Infrastructure Home](../#infrastructureofficehours). 
-
-The Director of Product and Director of Infrastructure for Platforms conduct weekly progress reviews. During `Platforms Grand Review`, they review [progress across all groups](https://gitlab.com/groups/gitlab-com/-/epics/2115) with the goals of being informed of progress made, learning about existing blockers, and supporting the team. The review is private streamed to the GitLab Unfiltered channel because the review covers confidential issues. All recordings are made available in the [Platforms Grand Review YouTube Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqDXSHdlUvPWHOj_Hw8JdQ1).
+The Director of Product and Director of Infrastructure for SaaS Platforms conduct weekly progress reviews. During `Platforms Grand Review`, they review [progress across all groups](https://gitlab.com/groups/gitlab-com/-/epics/2115) with the goals of being informed of progress made, learning about existing blockers, and supporting the team. The review is private streamed to the GitLab Unfiltered channel because the review covers confidential issues. All recordings are made available in the [Platforms Grand Review YouTube Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqDXSHdlUvPWHOj_Hw8JdQ1).
 
 ### Projects
 
