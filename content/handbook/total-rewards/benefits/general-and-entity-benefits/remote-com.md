@@ -47,7 +47,9 @@ Below is the information related to Brazil's statutory leave policies.  Please n
 
 ### Annual leave
 
-Team Members in Brazil are entitled to a statutory minimum of 30 calendar days of paid annual leave per year after each 12 months of service. The vacation period is typically taken in one block (or split between 20 days and 10 days).  Team members are eligible for GitLab's PTO policy; which will run concurrently with this Annual Leave policy. In addition, team members must be paid 1/3rd of a month’s salary as holiday bonus.
+Team Members in Brazil are entitled to a statutory minimum of 30 calendar days of paid annual leave per year (based on employment year) after each 12 months of service. The vacation period is typically taken in one block (or split between 20 days and 10 days).  Team members are eligible for GitLab's PTO policy; which will run concurrently with this Annual Leave policy. 
+
+In addition, team members must be paid 1/3rd of a month’s salary as holiday bonus.
 
 To ensure all statutory annual leave is tracked appropriately, please enter all requested into Time Off by Deel by selecting the `Vacation` option.
 
