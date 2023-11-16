@@ -13,6 +13,7 @@
     "content/handbook/marketing/brand-and-product-marketing/**/*.md",
     "content/handbook/marketing/account-based-marketing/**/*.md",
     "content/handbook/marketing/blog/**/*.md",
+    "content/handbook/marketing/**/*.md",
     "content/handbook/alliances/**/*.md",
     "content/handbook/resellers/**/*.md",
     "content/handbook/customer-success/**/*.md",
