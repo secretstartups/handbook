@@ -1,6 +1,5 @@
 ---
 title: "Hiring Technical Writers"
-description: "The internal process for hiring Technical Writers at GitLab."
 ---
 
 As GitLab grows, the Technical Writing team expands, and team members participate in interviews. A defined interview

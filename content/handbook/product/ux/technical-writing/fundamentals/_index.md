@@ -1,6 +1,5 @@
 ---
 title: "Technical Writing Fundamentals"
-description: "Get started working on GitLab product documentation with our Technical Writing Fundamentals."
 ---
 
 The Technical Writing Fundamentals course is available to help both GitLab and community contributors write and edit documentation for the product. This course provides direction on grammar and topic design.

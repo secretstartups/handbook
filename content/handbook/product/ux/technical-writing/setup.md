@@ -1,6 +1,5 @@
 ---
-title: "Setting Up a Local Environment"
-description: "Tips and suggestions for setting up a local environment to write and preview GitLab product documentation."
+title: "Setting up a local environment"
 ---
 
 Whether you are a contributor or a GitLab Technical Writing team member, one of your first tasks is to set up
