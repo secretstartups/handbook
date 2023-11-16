@@ -122,9 +122,9 @@ At GitLab, we promote on a twice per year basis. This means that there is **one 
 
 *Status:* Upcoming. Aligned with [Annual Compensation Cycle]({{< ref "compensation-review-cycle#annual-compensation-review-timeline" >}})
 
-- Planning: 2023-11-20 to 2024-12-08
-- Calibrations: 2023-12-11 to 2023-12-22
-- Processing: 2023-12-22 to 2024-01-05 (Promotions must be added to Workday by 2024-01-05)
+- Planning: 2023-12-18 to 2024-01-05
+- Calibrations: 2024-01-08 to 2024-01-19
+- Processing: 2024-01-22 to 2024-02-01 (Promotions must be added to Workday by 2024-01-19)
     - Effective date for promotions: 2024-02-01.
     - Communication: In conjunction with [annual compensation review raises]({{< ref "compensation-review-cycle#february" >}}). After communicating 1:1 with individuals, updates can be posted publicly in #team-member-updates.
 
