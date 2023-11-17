@@ -1381,7 +1381,7 @@ Reference Google's [documentation](https://support.google.com/drive/answer/24948
 1. You can set the notifications on a Google Doc so you only get emailed when someone tags you directly instead of getting emails for every comment. Click on "notifications" and select "Only yours". By the way, when you create the doc, it defaults to All, but when you are just shared with it, it defaults to Only yours. There is [no global default](https://productforums.google.com/forum/#!msg/docs/1C3PZX1AY7Q/6EXXQKQSPCMJ).<br>
     ![Google Doc Notifications](google-docs-notifications.png)
 1. You can find a template of the [GitLab letterhead](https://docs.google.com/document/d/1gN1Z2FHPIfPk7QLIey1KF9dR1yTl0R7QrMSb5_Iqfh4/edit) on the shared Google Drive. Please be sure to make a copy of the document to your Google Drive before customizing the template for your use.
-1. If you want to have the Google Doc be readable to the public, do not change the sharing settings from 'Editable by Everyone at GitLab', [publish the document](#how-to-publish-a-google-doc) instead.
+1. If you want to have the Google Doc be readable to the public, do not change the sharing settings from 'Editable by Everyone at GitLab', [publish the document](https://support.google.com/docs/answer/183965) instead.
 1. In all cases, the sharing settings (who a document is shared with, if it is visible to the whole company, etc.) on a Google Doc should be the single source of truth for the confidentiality of the document.
 1. Avoid using your initials when adding content to Google Docs or referring to someone else. Use your full name, as Google Docs [Smart Compose](https://support.google.com/docs/answer/9643962?hl=en) will auto-complete names for you, and display information about the GitLab team member on hover. It makes documents more readable and consumable, especially for people outside your team/department.
 1. When there is a synchronous discussion about an issue or MR captured in a Google Doc, be sure to summarize the discussion into the issue or MR and link to the agenda item where it was discussed with a [bookmark](https://support.google.com/docs/answer/45893?hl=en&co=GENIE.Platform%3DDesktop). If the notes are [limited access](/handbook/communication/confidentiality-levels/#limited-access) or no notes were taken, please say so. This will ensure that interested GitLab Team Members can see both the summary and context of the discussion.
@@ -1390,16 +1390,6 @@ Reference Google's [documentation](https://support.google.com/drive/answer/24948
    1. Greater visibility when it is a long URL and specific. Links are important but easy to miss otherwise (short and only a different color and/or underlined).
    1. Ability to see what the content is without hovering over (which isn't quick on mobile).
    1. Makes it easier to paste the content as formatting free text (not rich text), which we prefer and is sometimes the only option.
-
-
-#### How to publish a Google Doc
-
-1. Under the 'File' menu, go to 'Publish to the web'.
-1. A new pop-up 'Publish to the web' will appear, click 'Publish'.
-1. A confirmation will appear on the top of the doc, click 'OK'.
-1. Back in the pop-up 'Publish to the web', a link to share will appear.
-1. Add the link to the top of the document after the text: "Publicly shared via"
-1. Use this link to share to your audience.
 
 #### How to deprecate a Google Doc
 
