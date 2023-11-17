@@ -1,16 +1,16 @@
 ---
-layout: handbook-page-toc
+
 title: Demand Generation Campaigns Team
 description: Demand Generation Campaigns Handbook
 twitter_image: /images/tweets/handbook-marketing.png
 twitter_site: '@gitlab'
 twitter_creator: '@gitlab'
 ---
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 # <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Campaigns Team
 
@@ -26,7 +26,7 @@ Global Campaigns Managers are responsible for building integrated marketing camp
 
 Regional campaigns managers are responsible for localizing and activating global campaign bundles, prioritizing program mix and delivery channels to support regional revenue goals. They partner with paid digital, ABM, lifecycle, field marketing, product marketing, customer marketing, SDR/BDR and regional sales teams to create integrated go-to-market plans.
 
-[Read the job family here >>](https://handbook.gitlab.com/job-families/marketing/marketing-campaign-manager/)
+[Read the job family here >>](/job-families/marketing/marketing-campaign-manager/)
 
 ### Goals
 {: #goals}
@@ -136,7 +136,7 @@ _Each team member contributes to making day-to-day processes more efficient and 
 {: #communication .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-In line with GitLab's overall [communication guidelines](https://about.gitlab.com/handbook/communication/), campaign managers work through MRs first and issues second (in order to preserve documentation), and our slack channel [#marketing-campaigns](https://gitlab.slack.com/archives/CCWUCP4MS) is used for team updated and quick questions.
+In line with GitLab's overall [communication guidelines](/handbook/communication/), campaign managers work through MRs first and issues second (in order to preserve documentation), and our slack channel [#marketing-campaigns](https://gitlab.slack.com/archives/CCWUCP4MS) is used for team updated and quick questions.
 
 The [#marketing_integratedmarketing](https://gitlab.slack.com/archives/C03HJQW0DLZ) channel is used for weekly check-ins and interaction with the larger integrated marketing team.
 
@@ -194,10 +194,10 @@ Is our single source of truth (SSoT) for processes and relevant links
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. [Campaigns Team - Prioritization](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2532209?&label_name[]=mktg-demandgen)
-   - At start of milestone, ensure that issues are in the proper category of prioritization. Align them to the [priority definitions](/handbook/marketing/demand-generation/campaigns/#prioritization-labels).
+   - At start of milestone, ensure that issues are in the proper category of prioritization. Align them to the [priority definitions](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/#prioritization-labels).
    - Consider the time you have available in a 2 week period, recognizing meeting commitments and planned PTO.
    - Only add issues to account for 70% of your available work hours. Don't max out at 100% since there will likely be things that arise and need immediate attention throughout milestone.
-   - *Ask yourself: considering realistic time this milestone, am I overcommitting? The first to drop from a milestone should be "Low" priority issues based on [definitions](/handbook/marketing/demand-generation/campaigns/#prioritization-labels).*
+   - *Ask yourself: considering realistic time this milestone, am I overcommitting? The first to drop from a milestone should be "Low" priority issues based on [definitions](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/#prioritization-labels).*
    - Discuss milestone with Agnes and if need help determining what to drop and how to communicate (potentially) to issue requestors.
 1. [Campaigns Team - Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?milestone_title=%23started&)
    - Minimize the "Low" and "Medium" columns. Your focus should first be on the "Top" and "High" priority issues.

@@ -1,16 +1,16 @@
 ---
-layout: handbook-page-toc
+
 title: Content in Campaigns
 description: Everything you need to know about how we leverage content in marketing campaigns, including ungated content journeys and former gated landing page processes.
 twitter_image: /images/tweets/handbook-marketing.png
 twitter_site: '@gitlab'
 twitter_creator: '@gitlab'
 ---
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Overview
 {: #overview .gitlab-purple}
@@ -29,8 +29,8 @@ The epic code in each section below outlines the necessary issues to open in ord
 {: #content-types .gitlab-orange}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 * **Content for use in marketing campaigns:** we leverage the content in our marketing channels (website, email nurture, paid digital, organic social, etc.)
-    * [Internal GitLab-created content](/handbook/marketing/demand-generation/campaigns/content-in-campaigns#internal-content): We created and developed the content in house
-    * [External content (i.e. Analyst Relations)](/handbook/marketing/demand-generation/campaigns/content-in-campaigns#external-content): We have bought the rights to use the content from an external vendor (analysts or publishers, for example) or received the content from a partner
+    * [Internal GitLab-created content](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/content-in-campaigns#internal-content): We created and developed the content in house
+    * [External content (i.e. Analyst Relations)](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/content-in-campaigns#external-content): We have bought the rights to use the content from an external vendor (analysts or publishers, for example) or received the content from a partner
     * [On-Demand Webcasts](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/)
 * **[Content syndication](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#content-syndication)** (under Digital Marketing): We have promoted our content through a third-party vendor, but do not drive people back to our website. In these cases, we often have given them the resource to make available for download to their audience, and receive the leads to be uploaded.
 
@@ -149,7 +149,7 @@ If you have any questions on this process, please contact `@aoetama` in the [#ma
 <!-- DO NOT CHANGE THIS ANCHOR -->
 External content can be sourced from Analyst Relations, partners, and other vendors with whom we work. Some examples would be vendor comparisons (i.e. Gartner/Forrester) or industry/market analyses (i.e. DevOps Institute).
 
-When a GitLab team member (i.e. AR) is evaluating a potential content for sponsorship, they are responsible for working with the [GTM Motion teams](/handbook/marketing/plan-fy22/#core-teams) to discuss how to leverage the content and if it makes sense for us to sponsor. They can do so by opening a [decision matrix issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=decision-tree-matrix) (see step by step process below). The campaign manager will evaluate the decision matrix inputs and give the final go/no go on sponsorship decision. If the decision is to sponsor the external content, the campaign manager will create the content activation epic and associated issues to request work of all relevant teams (outlined below to try to make it efficient, comprehensive, and repeatable!).
+When a GitLab team member (i.e. AR) is evaluating a potential content for sponsorship, they are responsible for working with the [GTM Motion teams](https://about.gitlab.com/handbook/marketing/plan-fy22/#core-teams) to discuss how to leverage the content and if it makes sense for us to sponsor. They can do so by opening a [decision matrix issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=decision-tree-matrix) (see step by step process below). The campaign manager will evaluate the decision matrix inputs and give the final go/no go on sponsorship decision. If the decision is to sponsor the external content, the campaign manager will create the content activation epic and associated issues to request work of all relevant teams (outlined below to try to make it efficient, comprehensive, and repeatable!).
 
 All external content should be planned in advance of purchase with `at least a 30 business day time to launch date`. This allows time to plan activation into existing and future integrated campaigns and GTM Motions.
 
@@ -419,12 +419,12 @@ An [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/
 ### Remove from Intelligent Nurture
 {: #remove-intelligent-nurture}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-Please follow the process outlined in the [Emails/Nurture Handbook](/handbook/marketing/lifecycle-marketing/emails-nurture).
+Please follow the process outlined in the [Emails/Nurture Handbook](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture).
 
 ### Remove from Pathfactory
 {: #remove-pathfactory}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-Please follow the process outlined in the [Pathfactory Handbook](/handbook/marketing/marketing-operations/pathfactory/content-library/#removing-an-asset-from-the-library).
+Please follow the process outlined in the [Pathfactory Handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/content-library/#removing-an-asset-from-the-library).
 
 ### Marketo automation and setup for gated landing page
 {: #steps-gated-landing-pages}

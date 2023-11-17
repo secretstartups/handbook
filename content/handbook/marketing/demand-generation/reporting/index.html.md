@@ -1,16 +1,16 @@
 ---
-layout: handbook-page-toc
+
 title: Demand Generation Reporting
 description: Demand Generation reporting in sisense and other systems.
 twitter_image: /images/tweets/handbook-marketing.png
 twitter_site: '@gitlab'
 twitter_creator: '@gitlab'
 ---
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Overview
 This handbook page covers key dashboards and reports, and tips on how we leverage the metrics presented in order to optimize our demand generation campaigns.
@@ -22,7 +22,7 @@ This handbook page covers key dashboards and reports, and tips on how we leverag
 **Main reports used (in order from zoomed-out to zoomed-in):**
 * [(Gsheet) Pipeline X-Ray](https://docs.google.com/spreadsheets/d/1B4M60jehG4lfxoHgZeUCXRw9HUECFZarkKvFAvBwrR8/edit#gid=395575352): proactively review and address areas of concern in pipeline coverage in future quarters; based on trending from previous quarters
    - Visual: [SS&A - Pipeline Velocity & Generation](https://app.periscopedata.com/app/gitlab/799969/SS&A---Pipeline-Velocity-&-Generation)
-   - [See more deails on the metrics and what to look at in the sheet](/handbook/marketing/demand-generation/#pipeline-xray)
+   - [See more deails on the metrics and what to look at in the sheet](https://about.gitlab.com/handbook/marketing/demand-generation/#pipeline-xray)
 * [(Sisense) WIP: Key Monthly Marketing Metrics](https://app.periscopedata.com/app/gitlab/775108/WIP:-Key-Monthly-Marketing-Metrics)
    - expand here
 * [(Sisense) TD - Marketing Metrics](https://app.periscopedata.com/app/gitlab/798262/TD---Marketing-Metrics)
@@ -38,7 +38,7 @@ This handbook page covers key dashboards and reports, and tips on how we leverag
 * [(Sisense) Demand Gen Dashboard](https://app.periscopedata.com/app/gitlab/793304/Demand-Gen-Dashboard): zoom-in to results with metrics on campaigns, channels, offers, and more by segment/region.
    - Use only for directional data on channels and campaigns (note that it won't match up with other dashboards, but is the best we have to answer questions about which campaigns/channels are resonating. We are working with MS&P on a dashboard to give holistic view - ETA TBD)
    - Missing touchpoints for SaaS trial (does not create a bizible touchpoint)
-   - [See more deails on the metrics and what to look at in the dash](/handbook/marketing/demand-generation/#demand-gen-dash)
+   - [See more deails on the metrics and what to look at in the dash](https://about.gitlab.com/handbook/marketing/demand-generation/#demand-gen-dash)
 * [(DataStudio) PMG Dashboard](https://datastudio.google.com/u/1/reporting/19WMqzyDxrl1fK3puZ3kI7Pzig3Oex_BL/page/bFpBB): track spend, impressions, inquiries, and more down to detils of campaigns 
    - Use this for spend data and front-end metrics
    - *Cannot* filter by segment, but can filter by region
@@ -57,7 +57,7 @@ The below table shares some key metrics, with our current SSoT source, filters t
 | Spend (past actuals) by segment/region | PMG | Notes |
 | Conversion rates by segment/region | DG Dash | Notes |
 | Velocity by segment/region | DG Dash | Notes |
-| Cost-per by segment/region | DG Dash | [Jump to details on filters and calculation](/handbook/marketing/demand-generation/#cost-per) |
+| Cost-per by segment/region | DG Dash | [Jump to details on filters and calculation](https://about.gitlab.com/handbook/marketing/demand-generation/#cost-per) |
 | Pipeline coverage | [Pipeline X-Ray](https://docs.google.com/spreadsheets/d/1B4M60jehG4lfxoHgZeUCXRw9HUECFZarkKvFAvBwrR8/edit#gid=395575352) | Breaks out by segment and New FO/Growth |
 | SDR SAOs by segment/region | TD: Marketing Metrics Dash | This CAN be filtered down to segment/region for SAOs only - details below |
 | INQ > SAO conversion rate by segment | TD: Marketing Metrics Dash | Need to confirm if this is accurate by region |

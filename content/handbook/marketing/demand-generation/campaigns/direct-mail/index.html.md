@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: "Direct Mail"
 description: "Overview of direct mail programs as a tactic used within marketing campaigns, including account centric campaigns."
 twitter_image: '/images/tweets/handbook-marketing.png'
@@ -10,7 +10,7 @@ twitter_creator: "@gitlab"
 ## Overview
 This page focuses on direct mail as a tactic used within marketing campaigns, including account centric campaigns.
 
-If you are interested in running a content syndication campaign, then please reach out to the  Demand Generation team. If you are in Field Marketing, please see [this page](/handbook/marketing/field-marketing/field-marketing-epics/#content-syndication) for Field Marketing epic details.
+If you are interested in running a content syndication campaign, then please reach out to the  Demand Generation team. If you are in Field Marketing, please see [this page](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-epics/#content-syndication) for Field Marketing epic details.
 
 ### Process in GitLab to organize a direct mail
 

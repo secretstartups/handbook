@@ -5,6 +5,7 @@
   ],
   "fix": false,
   "ignores": [
+    "content/handbook/marketing/demand-generation/**/*.md",
     "content/handbook/marketing/corporate-communications/**/*.md",
     "content/handbook/marketing/cmo-shadow/**/*.md",
     "content/handbook/marketing/career-development/**/*.md",

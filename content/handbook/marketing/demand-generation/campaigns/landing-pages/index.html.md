@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Landing Page Creation"
 description: "Overview of Marketo landing pages at GitLab. This page will be moved under Demand Generation."
 twitter_image: '/images/tweets/handbook-marketing.png'
@@ -7,11 +7,11 @@ twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 # Best Practices
 
@@ -84,7 +84,7 @@ _Curious how to estimate when a landing page due date should be set? We've tried
 
 **Specific landing page instructions**
 * Event landing pages (events yml) - [See Events Handbook Page](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) (for now)
-* Gated content landing pages - [See Gated Content Handbook Page](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/) 
+* Gated content landing pages - [See Gated Content Handbook Page](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/content-in-campaigns/) 
 * Webcast landing pages - [See Webcast Handbook Page](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#step-3c-create-the-landing-page)
 
 ## Landing page naming convention
