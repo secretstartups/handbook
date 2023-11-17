@@ -1,22 +1,13 @@
 ---
-
 title: "Solution Validation and methods"
 description: "Solution validation research critically assesses if the product/feature/design has indeed solved the problem that was initially intended to be solved"
 ---
-
-
-
-
-
-
-
 
 At GitLab, we practice both Problem Validation and Solution Validation research, depending on the questions we need answers to and where we are in the design process. The end result of these methods is a high degree of confidence that results in a better overall user experience.
 
 ### What is Solution Validation?
 
 After identifying and understanding a problem, its context, and the people around it (also known as [problem validation](/handbook/product/ux/ux-research/problem-validation-and-methods/)) the next step is to learn which solutions will work and which ones do not. Solution validation research critically assesses if the product/feature/design has indeed solved the problem that was initially intended to be solved.
-
 
 ### When to use Solution Validation?
 
@@ -36,7 +27,6 @@ Apply the `UX Solution Validation` label to your research issue in the GitLab UX
 - Does the product/design/feature meet the user’s expectations?
 - Which design allows the best task completion?
 - How does the new product/design/feature impact user's existing workflows?
-
 
 ### Different Solution Validation research methods
 

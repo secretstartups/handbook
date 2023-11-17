@@ -1,14 +1,7 @@
 ---
-
 title: "UX Research growth and development"
 description: "The UX Research team has added two exercises in addition to GitLab's Career Developement process"
 ---
-
-
-
-
-
-
 
 Based on past Pulse Survey results for UX Research Team Members, we've added two components to (the existing [GitLab Career Development process](/handbook/people-group/learning-and-development/career-development/)) that focus on: (1) discussing development in an individual's current level and (2) providing targeted guidance to incorporate into the Individual Development Plan (IDP). The goal is to help identify an individual's greatest opportunities for growth, and then enable them to work with their manager to identify projects that align with those development areas.
 
@@ -27,6 +20,7 @@ Each month the UX Research Team Member should update their document and have a c
 ## Career Development Conversations
 
 Each month, the manager will hold a career development conversation. This conversation should be held during their 1:1 and touch on:
+
 - Individual development plan
 - Level progression check-in
 - Promotion document

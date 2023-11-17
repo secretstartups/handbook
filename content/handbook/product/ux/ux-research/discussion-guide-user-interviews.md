@@ -1,32 +1,21 @@
 ---
-
 title: "Writing a discussion guide for user interviews"
 description: "A discussion guide is a set of questions and topics that you would like to discuss with a participant during a user interview"
 ---
 
+## How to write a discussion guide
 
+{{< youtube "/sXE8F5Vu1sA" >}}
 
-
-
-
-
-### How to write a discussion guide
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/sXE8F5Vu1sA" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
-#### Video transcript
+### Video transcript
 
 A discussion guide is a set of questions and topics that you would like to discuss with a participant during a user interview. It typically consists of an introduction, warm-up questions, exploratory questions and a debrief. Today, I’m going to walk you through how to create a discussion guide.
 
-##### Introduction
+#### Introduction
 
 Introduce yourself and let the participant know what to expect during the interview. Give them a chance to ask questions. Most people have not been interviewed before, so take some time to put them at ease. Prior to the interview, you should have already obtained written consent to record (through a screener question or email communication). However, it’s a good idea to double check verbally that the participant agrees to be recorded and consents to having the recording shared internally at GitLab.
 
-##### Warm-up questions
+#### Warm-up questions
 
 Start by asking the participant a few easy questions about themselves and their job. This will help the participant get used to the process of answering questions. It’s also an opportunity to begin building rapport with the participant, so that they are more inclined to open up to you when you begin asking exploratory questions. Listen closely, their answers may help provide context for any later responses they give. Some warm-up questions you could ask are:
 
@@ -35,7 +24,7 @@ Start by asking the participant a few easy questions about themselves and their 
 - What does your typical working day involve?
 - What tasks do you commonly do within GitLab?
 
-##### Exploratory questions
+#### Exploratory questions
 
 When you start writing your exploratory questions, you’ll want to group questions into common topics, so that your interview naturally flows from one topic to the next. As you begin to structure your questions, allocate time for each topic. This will help keep your interview on track. Move from general questions to more specific questions related to your research goals. For example ‘How do you currently go about this task? to ‘What’s the hardest part about task?’ to ‘What could be better about how you currently do this?’. At the same time, don’t leave your most important questions until the very end in case a user spends more time than you anticipate answering an earlier question. By allocating time to each topic ahead of time, you can assess when you've spent too much time on one topic and need to skip ahead to another topic.
 
@@ -47,15 +36,15 @@ Instead of asking people to think about how they might act in the future, ask th
 
 If you're interested in improving your interviewing skills, consider signing up for the [Interview Carousel](/handbook/product/ux/ux-research/interview-carousel/), a lightweight interview training program run by the UX Research team.
 
-##### Debrief
+#### Debrief
 
 Thank the participant for their time and explain what happens next with the feedback they have given you today. Give the participant a chance to ask any questions about the research. If you are paying a participant for taking part in your study, ensure you share details of how they will be paid and when they can expect payment. Leave your contact details with them in case they have any follow-up thoughts they want to share with you.
 
-##### After your guide is written
+#### After your guide is written
 
 Once you have written your discussion guide, you should rehearse and test out your guide with a colleague. This will give you a sense of how long your script will take to run through, and it will help you spot any questions that people may have difficulty answering.
 
-#### Discussion guide and interview tips
+### Discussion guide and interview tips
 
 - Remember your discussion guide is just that: a guide. It’s a reference tool to help facilitate conversation.
 - If a participant says something interesting that is not covered by your guide, listen to them and explore what they are saying. You may uncover something you hadn’t previously considered.
@@ -64,15 +53,15 @@ Once you have written your discussion guide, you should rehearse and test out yo
 - Remember to probe participant’s answers. Ask: Why? Why not? Who? What? Where? When? How?
 - Never ask participants what they want.
 
-### Example discussion guide
+## Example discussion guide
 
 - [Discussion guide template](https://docs.google.com/document/d/1dQ29KkJOZlwrNkxV9z58lR9bNkG2-lSiJPMUpmsiOTw/copy)
 
-### Example questions for user interviews
+## Example questions for user interviews
 
 **Note:** Don't use all the questions below! Select a couple to build your discussion guide.
 
-#### Warm-up questions
+### Warm-up questions
 
 - What's your current role?
 - What made you become a [job title]?
@@ -83,7 +72,7 @@ Once you have written your discussion guide, you should rehearse and test out yo
 - How long have you used GitLab?
 - What do you use GitLab for?
 
-#### Exploratory questions
+### Exploratory questions
 
 - What are you trying to [achieve/get done]? Why?
 - How do you currently go about this [task/process]?

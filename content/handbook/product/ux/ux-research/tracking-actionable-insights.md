@@ -1,15 +1,7 @@
 ---
-
 title: "Tracking actionable insights"
 description: "How we track actionable insights derived from UX research studies."
 ---
-
-
-
-
-
-
-
 
 At GitLab, we track [actionable insights](/handbook/product/ux/ux-research/research-insights/) derived from UX research studies. These can be in the form of `Exploration needed` or `Product change`.
 

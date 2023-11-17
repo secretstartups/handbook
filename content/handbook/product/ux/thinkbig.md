@@ -1,14 +1,7 @@
 ---
-
 title: "Think Big & Think Small Meetings"
 description: "The purpose of think big & think small meetings is to develop a shared understanding of goals by discussing vision, roadmap, research, design, and delivery of upcoming features."
 ---
-
-
-
-
-
-
 
 ## Think Big
 

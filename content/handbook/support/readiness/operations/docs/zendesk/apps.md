@@ -372,8 +372,6 @@ The current plugins are:
   > This searches for tickets under the organization that have been escalated within the last 6 months.
 - **Related tickets**
   > This looks for tickets related to the current one based off the category (or subcategory) the ticket is currently using. It then displays up to 5 of them (sorted by the update_at value of the ticket, descending).
-- **Support Uploader**
-  > A simple app to create FTP credentials for a ticket.
 - **Attachments**
   > Displays attachments present on the ticket.
 

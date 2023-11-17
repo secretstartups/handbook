@@ -27,7 +27,8 @@ Effective 2023-08-17, the focus of the Customer Use Case Adoption working group 
 | Slack                          | [#wg_customer-use-case-adoption](https://gitlab.slack.com/archives/C0584NEKSRJ) |
 | Google Doc                     | [Customer Use Case Adoption Scrum - Agenda](https://docs.google.com/document/d/1WtwXCK1r7hoco5O8oW5SIKiIWtXDr_WOLeWcIaDM7Nk/edit?usp=sharing)  |
 | Epic - Primary                 | [Use Case Adoption Measurement & Improvement](https://gitlab.com/groups/gitlab-com/-/epics/2190) |
-| Epic - CI Adoption Initiatives | [CI Adoption - Acceleration Proposals to drive CI ARR to 50% by FY24-Q3](https://gitlab.com/groups/gitlab-com/-/epics/2225) |
+| Epic - CI Adoption Initiatives | FY24-Q4 [CI Adoption - Acceleration Proposals to drive CI ARR to 50% by FY24-Q4](https://gitlab.com/groups/gitlab-com/-/epics/2250) |
+|                                | FY24-Q3 [CI Adoption - Acceleration Proposals to drive CI ARR to 50% by FY24-Q3](https://gitlab.com/groups/gitlab-com/-/epics/2225) |
 | Board                          | [CI Adoption Initiatives - FY24](https://gitlab.com/groups/gitlab-com/-/boards/6034252?label_name[]=WorkingGroup%3A%3AUseCaseAdoption&group_by=epic) |
 | Overview & Status              | See [Exit criteria](#exit-criteria) below |
 
@@ -45,7 +46,7 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 | DRI/Facilitator                              | David Tuan                    | Director, Strategy and Operations                          |
 | Functional Lead - CSM                        | Sherrod Patching              | VP, Customer Success Management                            |
 | Functional Lead - Sales                      | Open - TBD                    |                                                            |
-| Functional Lead - Marketing                  | Dave Steer                    | VP, Product Marketing                                      |
+| Functional Lead - Marketing                  | Dan Hom                       | Product Marketing Manager                                  |
 | Functional Lead - Product                    | Jackie Porter                 | Director, Product Management                               |
 | Functional Lead - Professional Services      | Kevin Lake                    | VP of Professional Services                                |
 | Functional Lead - Developer Relations        | Michael Friedrich             | Senior Developer Evangelist                                |
@@ -58,8 +59,8 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 | Member - Digital Customer Success            | Michelle Harris               | Senior Program Manager, Customer Programs                  |
 | Member - Documentation                       | Susan Tacker                  | Director, Technical Writing                                |
 | Member - Growth                              | Paige Cordero                 | Senior Product Manager, Growth                             |
+| Member - Marketing                           | Dave Steer                    | VP, Product Marketing                                      |
 | Member - Marketing                           | Saumya Upadhyaya              | Senior Manager, Product Marketing                          |
-| Member - Marketing                           | Dan Hom                       | Product Marketing Manager                                  |
 | Member - Product                             | Mike Flouton                  | VP of Product Management                                   |
 | Member - Professional Services               | Niyati Shah                   | Senior Director, Education Services                        |
 | Member - Sales Strategy                      | Brandon Butterfield           | Senior Sales Analytics Analyst                             |

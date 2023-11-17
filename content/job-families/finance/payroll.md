@@ -220,7 +220,7 @@ The Manager, Global Payroll Operations reports directly to the Director, Global 
 
 ### Manager, Global Payroll Operations Job Grade
 
-The Manager, Global Payroll Operations is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Global Payroll Operations is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Manager, Global Payroll Operations Responsibilities
 

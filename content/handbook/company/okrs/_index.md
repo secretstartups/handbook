@@ -7,8 +7,8 @@ canonical_path: "/company/okrs/"
 ## Most recent OKRs
 
 Our OKR process and timelines are public and listed on the pages below.
-- [FY24-Q3 Active](/handbook/company/okrs/fy24-q3/)
-- [FY24-Q4 Future](/handbook/company/okrs/fy24-q4/)
+- [FY24-Q4 Active](/handbook/company/okrs/fy24-q4/)
+- [FY25-Q1 Future](/handbook/company/okrs/fy25-q1/)
 - [Previous OKRs](#okr-archive)
 
 OKRs are internal-only in line with guidance from the [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/).
@@ -469,6 +469,7 @@ To update please make a merge request and post a link to the MR in the #okrs cha
 
 ## OKR Archive
 
+- [FY24-Q3](/handbook/company/okrs/fy24-q3/)
 - [FY24-Q2](/handbook/company/okrs/fy24-q2/)
 - [FY24-Q1](/handbook/company/okrs/fy24-q1/)
 - [FY23-Q4](/handbook/company/okrs/fy23-q4/)

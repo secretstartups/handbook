@@ -1,14 +1,7 @@
 ---
-
 title: "Interview Carousel - Becoming a better interviewer 15 minutes at a time"
 description: "A lightweight and fun training to improve your user interviewing skills"
 ---
-
-
-
-
-
-
 
 At GitLab, everyone can contribute, which applies to UX Research, too. Product Managers and Product Designers regularly speak with users to validate the problem spaces and solutions they are working on and gain inspiration for what could come next.
 Asking the right questions and listening actively is crucial in these conversations to get the information you need.
@@ -55,9 +48,7 @@ Below are some verbatims that GitLab team members who previously participated in
 
 1. Do you have any example discussion guides that I can learn from?
 You can review [previous Interview Carousel issues](https://gitlab.com/gitlab-org/ux-research/-/issues/?sort=created_date&state=all&label_name%5B%5D=Interview%20Carousel&first_page_size=20) that have discussion guides linked. There is also a [collection of discussion guides written by the UX Research team](https://drive.google.com/drive/folders/1dq8TkrR_3lRcUDHv2jq7FHWPInopkEQM) that may serve as inspiration.
-
-2. How are transitions between interviews handled?
+1. How are transitions between interviews handled?
 The UX Researcher sets up Zoom breakout rooms and assigns team members and participants to the rooms. The break out rooms will close after 15 minutes. Once everyone is back in the main room, the UX Researcher will re-assign participants.
-
-3. Who moderates the session?
+1. Who moderates the session?
 The UX Researcher moderates the Interview Carousel and provides a general introduction at the beginning that includes confirming participants' consent to record the session and provides details regarding the incentive.

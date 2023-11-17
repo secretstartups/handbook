@@ -606,7 +606,7 @@ $20.90 per month
 GitLab offers team members to join the MetLife group Pet Insurance plan. A MetLife Pet Insurance plan helps cover the costs when unexpected accidents or illnesses occur, so
 nothing gets in the way of caring for your pet when they need it most.
 
-Team Members can enroll in this benefit anytime after 2023-10-30
+Team Members can enroll in this benefit anytime after 2023-10-30.
 
 With MetLife Pet Insurance, you can get:
 - Flexible insurance plans that can cover the entire pet family with no breed exclusions
@@ -624,14 +624,28 @@ For more details and steps on how to enroll please see the [MetLife Pet Insuranc
 
 Coming in 2024, GitLab will offer access to 529 plan investments to US team members so that you can use tax-advantaged savings for your child’s future education expenses.
 
+- Support your financial goals for you and your family
+- ScholarShare 529 Workplace Savings is a direct deposit program that can make it easy for you and them
+- This plan offers 100% tax-free growth on investment earnings and tax-free withdrawals for qualified expenses, making the most of every dollar you save
+- Online education resources available
+- Easy to manage - you and your family can manage online
+
+To learn more visit ScholarShare529.com/employer or email: workplace529@scholarshare.com
+
+More details and links will be provided by the program launch, 2024-01-01.
+
+## Student Loan Guidance & Tools
+
+Coming in 2024, GitLab will offer a student loan guidance products, tools, and expert consultation services through SoFi.
+
+GitLab has partnered with Sofi to offer student loan guidance services, discounts & perks, and financial well-being products with SoFi:
+- A central location for team members to focus on financial well-being
+- Team members can review SoFi’s “Student Debt Workbook” and take a financial self-assessment to help navigate their student debt
+- Team members can schedule an appointment with a Sofi Student Loan Specialist to discuss their loans and situation
+- Delivers impactful discounts, preferred pricing, and exclusive offers on SoFi’s award-winning financial products
+- Arm yourself with knowledge on your journey to financial independence with access to Sofi’s financial library, tools, and resources
+
 More details and links will be provided by 2024-01-01
-
-## Student Loan Option
-
-Coming in 2024, GitLab will offer a student loan program through SoFi.
-
-More details and links will be provided by 2024-01-01
-
 
 ## 401k Plan
 
@@ -663,11 +677,31 @@ All employer contributions are pre-tax contributions. Team members can still mak
 - The employer will use the calculation on each check date effective as of January 1, 2019.
 - The team member must have a contribution for a check date to be eligible for the employer match.
 - Employer matching will be released into participant accounts three business days after the check date.
-- For team members who defer more than 6% on each check date, Payroll will conduct a true up quarterly.
+- For team members who defer more than 6% on each check date, an annual true-up will be conduct after calendar year end.
 
 ### 401(k) Rollover
 
 If you leave GitLab and would like to rollover your 401(k) account, contact Fidelity directly to get more information about this process. If you need to locate your account number, you can find it by clicking Settings and then Accounts. You can reach Fidelity, by Chat in the app, or by phone at 800-835-5097. They also have a Rollovers section on their site going into detail.
+
+### 401(k) Loan Option
+
+You may now take a loan from your GitLab 401(k) Plan.
+- Loans may be requested online or by calling Fidelity at 800-835-5097 for help to initiate the process online.
+- Payments will be made via ACH from your personal bank account.
+- You can request up to 50% of your vested account balance, or $50,000, whichever is less.
+- An interest rate of Prime + 1% will apply and will be paid to yourself. It’s important to note that loans are repaid with after-tax dollars, meaning you will be “double taxed” on this money – once now, and again at retirement.
+- Fidelity is available at 800-835-5097 to assist with any additional questions you may have.
+
+### 401(k) In-Plan Roth Conversion
+
+You may now convert money from your pre-tax source, to the Roth source, all within the 401(k) Plan.
+- Please consult with your tax advisor as any amount converted will be taxable in the year it is moved to the Roth source.  
+- Fidelity is available at 800-835-5097 to assist you with processing changes or answer any questions you may have.
+
+*Questions on the 401(k) Loan or In-Plan Roth Conversion?*
+- To process changes or to discuss taking a 401(k) Loan or making an In-Plan Roth Conversion, please directly contact Fidelity's team at 800-835-5097.
+- *If you’d like to speak with an advisor* about the investments in the plan, or about your larger financial picture including tax strategies and retirement planning – please reach out to SageView Advisory Group. [Click here](https://calendly.com/elamb-financial/30min?month=2023-10) to schedule a complimentary financial consultation at your convenience.
+- If you have general questions, please reach out to the Total Rewards Team (total-rewards@gitlab.com).  
 
 ### 401(k) Committee
 
@@ -800,6 +834,12 @@ If you leave GitLab, all supplemental life insurance is not included in COBRA an
 ### PerkSpot
 
 Coming in 2024, GitLab has partnered with PerkSpot: a new discount platform providing Team Members with discounts on over 10,000 brands, including electronics, home goods, mortgages, travel, and more.
+
+PerkSpot is a one-stop shop for thousands of exclusive discounts and in more than 25 different areas of interest:
+- Quick Links – section that allows you to access various resources to locate savings
+- Local offers – allows you to use your location to see all of the discounts near you, wherever you are
+- Interests – ability to select what your interests are and narrow, search
+- Brands review – search for the Brands you’re looking for using the PerkSpot Brands tab and narrowing your discount search
 
 More details and links will be provided by 2024-01-01.
 

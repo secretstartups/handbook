@@ -14,6 +14,31 @@ From FY24 Q1 forward all Security OKRs are documented in the [GitLab OKR project
 
 Larger initiatives that span the scope of multiple teams or projects may require a [Working Group]({{< ref "working-groups" >}}).
 
+KRs must be defined as SMART Goals, and have to have definition of done.
+
+Reminder: *SMART* stands for *Specific, Measurable, Achievable, Relevant, and Time-bound*.
+
+### Labels
+
+Labels are applied to our OKRs and KRs to ease grouping and search, but also to reflect their priority.
+
+Apply:
+
+- The `~Division: Security` label to both OKRs and KRs
+- The `FY<yy>-Q<x>` label to both OKRs and KRs
+- The `~OKR` label to OKRs only
+- The ~`sec-okr::p<x>` priority label (see below) to OKRs only
+
+#### Priority label
+
+We use the following labels to reflect the priority of our OKRs:
+
+The Priority [scoped](https://docs.gitlab.com/ee/user/project/labels.html#scoped-labels) label ranges from 0 to 2 and is applied to OKRs.
+
+- `sec-okr::p0`: 100% complete within the quarter RCA if not done
+- `sec-okr::p1`: 70% completed across the team/Objective, important
+- `sec-okr::p2`: Stretch (future P1 or P0, if we knock out P0/1 we will hit these)
+
 ### What does it mean to be a DRI for a KR?
 
 A KR Directly Responsible Individual (DRI) is meant to be the person accountable for the success of that key result.
@@ -52,7 +77,7 @@ Field updates:
 - Progress %
 - Health Status: On Track/Needs Attention/At Risk
 
-:scissors: Copy and paste the below into the GitLab.com KR Issue(s)
+:scissors: Copy and paste the below into the GitLab.com KR Issue(s) at the end of the week
 
 ```text
 ## Weekly KR Update for the week of YYYY-MM-DD

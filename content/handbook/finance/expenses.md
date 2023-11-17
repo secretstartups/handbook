@@ -219,6 +219,7 @@ In the event of an accident resulting in damage to the rental car, the Non-US re
 - Meals while traveling on Company business  are reimbursable, up to $100 USD (or local equivalent currency) per day.
 - Each Team Member must submit their own receipts for reimbursement, so ensure to separate billing when going to meals with groups of Team Members. If this is not practicable to do due to the group size, then the most senior Team Member present should pay the bill and submit for reimbursement.
 - To be used for team activities and food/beverages associated with travel on Company business. Refer to our Travel Handbook Page.
+- Tips are acceptable up to 20% and should be detailed accordingly in the description box. This should be included in the final price to stay within the Policy limits. For US team members, cash tips under $50 do not need a receipt.
 - Please also add a description for the trip/reason for travel.
 
 {{% panel header="**Coding**" header-bg="green" %}}
@@ -313,9 +314,6 @@ The company will cover all work-related travel expenses. This includes lodging a
 - Books are reimbursable if used to optimize your job position.
 - Limit is set to $60/year.
 
-- **Expense Type / Navan Policy Category:** Other
-- **GL Code NON-COGS:** 6080 - Other Travel- Visas, Permits, Covid Tests
-
 {{% panel header="**Coding**" header-bg="green" %}}
 **Expense Type / Navan Policy Category:** Books, dues & subscriptions
 {{% /panel %}}
@@ -368,8 +366,8 @@ The company will cover all work-related travel expenses. This includes lodging a
 #### Equipment
 
 - These amounts were set after a thorough analysis and review of Team Members’ expense data during the previous two years and benchmarked with other remote companies. Anything over this amount will be at the expense of the Team Member and no exceptions will be made.
-- As you onboard and start your Gitlab journey, new hires after February 8, 2023, will receive a 1,500 USD (or equivalent local currency) stipend to help you towards setting up your home office in your first year. This will be issued to you as a Virtual Card, and you will be able to use that card to purchase items. The Virtual Card information will be sent to you by the Accounts Payable team via your Onboarding Issue. Please refer to the Navan Expense End Users Guide for instructions on using and accessing your Virtual Card.
-- In addition, as of February 8, 2023, Team Members will get a yearly refresh of 500 USD (or equivalent local currency) to purchase upgrades, replacements, or enhancements to your home office setup. This excludes laptops - please connect with the IT team if you require a replacement laptop.
+- As you onboard and start your GitLab journey, new hires after 2023-02-08 will receive a 1,500 USD (or equivalent local currency) stipend to help you towards setting up your home office in your first year. This will be issued to you as a Virtual Card, and you will be able to use that card to purchase items. The Virtual Card information will be sent to you by the Accounts Payable team via your Onboarding Issue. Please refer to the Navan Expense End Users Guide for instructions on using and accessing your Virtual Card.
+- In addition, as of 2023-02-08, Team Members will get a yearly refresh of 500 USD (or equivalent local currency) to purchase upgrades, replacements, or enhancements to your home office setup. This only applies to Team Members who have been employed the entire previous fiscal year. This excludes laptops - please connect with the IT team if you require a replacement laptop.
 - Team Members who have started during the year before this expense policy took effect, and have not yet expensed key parts of their home office equipment (such as office chair, desk and monitor) are also eligible for the New Hire 1,500 USD stipend (pro-rata). In order to claim this, please email expenses@gitlab.com and explain your situation. The team will assist you with provisioning the Virtual Card.
 - We want you to set up your office the way you want it. Although we don't want to put any restrictions regarding which office equipment you may purchase, we would like to outline what is covered under the term Office Equipment.
 - What's included - Essential items which you will need to ensure you are able to perform your role in Gitlab should include chair, desk, monitor, Laptop (provided), headset, external mic, external keyboard and external mouse.
@@ -389,6 +387,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 - This is a yearly refresh amount. It will reset at the beginning of each fiscal year (February 1 to January 31).
 - The Navan Virtual Card cannot be used for the yearly refresh. Team Members should use their own method of payment and submit their expenses in Navan.
 - Any unused funds will not roll over to the next year.
+- Team Members hired within the previous fiscal year are not eligible. For example, a Team Member who started 2023-05-10 will get their first refresh amount on 2025-02-01.
 
 {{% panel header="**Coding**" header-bg="green" %}}
 **Expense Type / Navan Policy Category:** Work from home
@@ -649,6 +648,7 @@ Below is some more information to help you get set up with your [Navan](https://
 - Log into Okta and click the Navan tile.
 - Once you are in your dashboard, make sure to set up your info in your profile (see link from drop down menu under your name).
 - Add your passport information to your profile (only passport information is accepted), this will populate your info directly when booking a flight.
+- Team members can view if their reimbursements have been processed successfully or failed on both mobile and desktop versions. If the reimbursement fails, the team member will receive a notification and how to fix it in Navan.
 - Now let's start booking!
 
 ### Navan Loyalty Program

@@ -3,6 +3,10 @@ title: "AppSec Threat Modeling Process"
 description: "This threat modeling process is tailored to GitLab features."
 ---
 
+## :warning: Prioritization Note
+
+[As of 2023-11-02, AppSec is only prioritizing P1 AppSec reviews and threat models](https://gitlab.com/gitlab-com/gl-security/appsec/appsec-team/-/issues/475#note_1632226713). This does not mean P2 or P3 AppSec reviews or threat model requests can't be submitted, but please understand that due to capacity limitations we will only be able to prioritize P1 reviews. Reach out to us in the #sec-appsec Slack channel if you have any questions or concerns.
+
 ## Using the `threat model` scoped labels
 
 To assist in the creation of threat models the two labels `~threat model::needed` and `~threat model::done`

@@ -19,10 +19,13 @@ DUBDUBDUB_REPO=$(git rev-parse --show-toplevel)/../www-gitlab-com
 IS_HANDBOOK=false
 IS_COMPANY=false
 IS_ENGINEERING=false
+IS_MARKETING=false
 SECTION=NOSET
 TITLE=NOTSET
 ICON=NOTSET
 REPORT_OUT=NOTSET
+USE_FILTER_REPO=false
+TMP_REPO=/tmp/gitlab-migration
 # SECTION=job-families
 # TITLE="Job Families"
 # ICON="fa-solid fa-users"
@@ -55,6 +58,8 @@ while [ "$1" != "" ]; do
                                     ;;
         -E | --engineering)         IS_ENGINEERING=true
                                     ;;
+        -M | --marketing)           IS_MARKETING=true
+                                    ;;
         -s | --section)             shift
                                     SECTION=$1
                                     ;;
@@ -66,6 +71,12 @@ while [ "$1" != "" ]; do
                                     ;;
         -r | --www-repo)            shift
                                     DUBDUBDUB_REPO=$1
+                                    ;;
+        -T | --temp-loc)            shift
+                                    TMP_REPO=$1
+                                    ;;
+        -g | --filter-repo)         USE_FILTER_REPO=true
+                                    echo -e "${bold}Using Git Filter Repo (experimental)...${normal}"
                                     ;;
         -o | --out)                 shift
                                     REPORT_OUT=$1
@@ -132,6 +143,9 @@ elif [[ $IS_COMPANY == true ]]; then
 elif [[ $IS_ENGINEERING == true ]]; then
         DIRECTORY_TO_SPLIT=sites/handbook/source/handbook/engineering/$SECTION
         NEW_SECTION=content/handbook/engineering/$SECTION
+elif [[ $IS_MARKETING == true ]]; then
+        DIRECTORY_TO_SPLIT=sites/handbook/source/handbook/marketing/$SECTION
+        NEW_SECTION=content/handbook/marketing/$SECTION
 else
     DIRECTORY_TO_SPLIT=sites/uncategorized/source/$SECTION
     NEW_SECTION=content/$SECTION
@@ -155,56 +169,96 @@ git pull
 
 # Prepare directories
 echo -e "${bold}Making a copy of the www-gitlab-com repo directory...${normal}"
-mkdir /tmp/gitlab-migration
-cp -r $DUBDUBDUB_REPO /tmp/gitlab-migration/www-gitlab-com
-cd /tmp/gitlab-migration/www-gitlab-com
+mkdir -p $TMP_REPO
 
-# subtree split the directories
-echo -e "${bold}Performing git subtree split... this might take a few minutes...${normal}"
-git remote rm origin
-git filter-branch --subdirectory-filter $DIRECTORY_TO_SPLIT -- --all
+TMP_REPO=$TMP_REPO/$(echo $DUBDUBDUB_REPO |rev| cut -d '/' -f 1|rev)
 
-git filter-branch -f --index-filter 'git ls-files -s | sed -e "s/\t\"*/&'$SECTION'\//" |
-    GIT_INDEX_FILE=$GIT_INDEX_FILE.new \
-        git update-index --index-info &&
- mv "$GIT_INDEX_FILE.new" "$GIT_INDEX_FILE"' HEAD
+echo -e "${bold}Switch to copy of www-gitlab-com at ${TMP_REPO}...${normal}"
+cp -r $DUBDUBDUB_REPO $TMP_REPO
+cd $TMP_REPO
 
-# Clean up everything outside of the content and .git directories
-echo -e "${bold}Cleaning up www-gitlab-com repo before commit and migration...${normal}"
-for i in $(/bin/ls -a); do
-    case $i in
-    .)              continue
-                    ;;
-    ..)             continue
-                    ;;
-    .git)           continue
-                    ;;
-    $SECTION)      continue
-                    ;;
-    *)
-        rm -rf $i
-    esac
-done
+if [[ $USE_FILTER_REPO == "true" ]]; then
+  echo -e "${bold}Performing git filter repo... this might take a few minutes...${normal}"
+  git remote rm origin
+  git filter-repo --force --path $DIRECTORY_TO_SPLIT
+else
+  # subtree split the directories
+  echo -e "${bold}Performing git subtree split... this might take a few minutes...${normal}"
+  git remote rm origin
+  git filter-branch --subdirectory-filter $DIRECTORY_TO_SPLIT -- --all
+
+  git filter-branch -f --index-filter 'git ls-files -s | sed -e "s/\t\"*/&'$SECTION'\//" |
+      GIT_INDEX_FILE=$GIT_INDEX_FILE.new \
+          git update-index --index-info &&
+   mv "$GIT_INDEX_FILE.new" "$GIT_INDEX_FILE"' HEAD
+
+   # Clean up everything outside of the content and .git directories
+   echo -e "${bold}Cleaning up www-gitlab-com repo before commit and migration...${normal}"
+   for i in $(/bin/ls -a); do
+       case $i in
+       .)              continue
+                       ;;
+       ..)             continue
+                       ;;
+       .git)           continue
+                       ;;
+       $SECTION)      continue
+                       ;;
+       *)
+           rm -rf $i
+       esac
+   done
+fi
+
 
 # Migrate the content from dubdubdub to handbook using git pull
 # This preserves the git history of all the files we're pulling in
 echo -e "${bold}Performing migration from www-gitlab-com copy to handbook...${normal}"
 cd $HANDBOOK_REPO
 git checkout -b $BRANCH_NAME
-git remote add $SECTION /tmp/gitlab-migration/www-gitlab-com
+git remote add $SECTION $TMP_REPO
 git pull $SECTION master --allow-unrelated-histories --no-edit
-if [[ $IS_HANDBOOK == true ]]; then
-  NEW_SECTION_PATH=content/handbook/$SECTION
-  git mv $SECTION content/handbook/
-elif [[ $IS_COMPANY == true ]]; then
-  NEW_SECTION_PATH=content/handbook/company/$SECTION
-  git mv $SECTION content/handbook/company/
-elif [[ $IS_ENGINEERING == true ]]; then
-  NEW_SECTION_PATH=content/handbook/engineering/$SECTION
-  git mv $SECTION content/handbook/engineering/
+
+
+if [[ $USE_FILTER_REPO == "true" ]]; then
+  if [[ $IS_HANDBOOK == true ]]; then
+    NEW_SECTION_PATH=content/handbook/$SECTION
+    git mv sites/handbook/source/handbook/$SECTION content/handbook/
+    rmdir sites/handbook/source/handbook sites/handbook/source sites/handbook sites
+  elif [[ $IS_COMPANY == true ]]; then
+    NEW_SECTION_PATH=content/handbook/company/$SECTION
+    git mv sites/uncategorized/source/company/$SECTION content/handbook/company/
+    rmdir sites/uncategorized/source/company sites/uncategorized/source sites/uncategorized sites
+  elif [[ $IS_ENGINEERING == true ]]; then
+    NEW_SECTION_PATH=content/handbook/engineering/$SECTION
+    git mv sites/handbook/source/handbook/engineering/$SECTION content/handbook/engineering/
+    rmdir sites/handbook/source/handbook/engineering sites/handbook/source/handbook sites/handbook/source sites/handbook sites
+  elif [[ $IS_MARKETING == true ]]; then
+    NEW_SECTION_PATH=content/handbook/marketing/$SECTION
+    git mv sites/handbook/source/handbook/marketing/$SECTION content/handbook/marketing/
+    rmdir sites/handbook/source/handbook/marketing sites/handbook/source/handbook sites/handbook/source sites/handbook sites
+  else
+    NEW_SECTION_PATH=content/$SECTION
+    git mv sites/uncategorized/source/$SECTION content/
+    rmdir sites/uncategorized/source sites/uncategorized sites
+  fi
 else
-  NEW_SECTION_PATH=content/$SECTION
-  git mv $SECTION content/
+  if [[ $IS_HANDBOOK == true ]]; then
+    NEW_SECTION_PATH=content/handbook/$SECTION
+    git mv $SECTION content/handbook/
+  elif [[ $IS_COMPANY == true ]]; then
+    NEW_SECTION_PATH=content/handbook/company/$SECTION
+    git mv $SECTION content/handbook/company/
+  elif [[ $IS_ENGINEERING == true ]]; then
+    NEW_SECTION_PATH=content/handbook/engineering/$SECTION
+    git mv $SECTION content/handbook/engineering/
+  elif [[ $IS_MARKETING == true ]]; then
+    NEW_SECTION_PATH=content/handbook/marketing/$SECTION
+    git mv $SECTION content/handbook/marketing/
+  else
+    NEW_SECTION_PATH=content/$SECTION
+    git mv $SECTION content/
+  fi
 fi
 
 if [ -f $NEW_SECTION_PATH/index.html.md ]; then
@@ -427,6 +481,8 @@ if [[ $IS_COMPANY == true ]]; then
 elif [[ $IS_ENGINEERING == true ]]; then
   echo "content/handbook/engineering/$SECTION/**/*.md" >> .markdownlintignore
   sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/engineering/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
+elif [[ $IS_MARKETING == true ]]; then
+  echo "Skipping mdlintignore as already have a blanket one for marketing"
 elif [[ $IS_HANDBOOK == true ]]; then
   echo "content/handbook/$SECTION/**/*.md" >> .markdownlintignore
   sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
@@ -450,6 +506,36 @@ to fix most markdown liniting errors although a number will still persist.  We h
 HANDBOOK_MR_OUTPUT=$(glab mr create --push --no-editor -y -b main -a jamiemaynard -l "handbook::operations" -t "$MR_TITLE" -d "$MR_DESCRIPTION")
 echo $HANDBOOK_MR_OUTPUT
 
+if [[ $IS_MARKETING == "true" ]]; then
+  echo "Skipping cleaning up www-gitlab-com"
+  echo -e "${bold}Cleaning up the copy of www-gitlab-com repo...${normal}"
+  rm -rf /tmp/gitlab-migration
+  cat << EOF >> $REPORT_OUT
+---
+title: $TITLE
+Description: Migration report for moving the handbooks $SECTION section
+---
+
+## Migration Report for "$TITLE"
+
+**Section:** $SECTION
+
+**Completed:** $(date)
+
+Please complete the following tasks:
+
+- [ ] Review the MR in handbook for the new content
+  - MR Link: [$HANDBOOK_MR_OUTPUT]($HANDBOOK_MR_OUTPUT)
+- [ ] Move files in to place
+- [ ] Convert .erb files to markdown and shortcodes
+- [ ] Fix outstanding markdown lint errors (optional)
+- [ ] Merge MR for \`handbook\`
+
+EOF
+  cat $REPORT_OUT
+  exit 0
+fi
+
 echo -e "${bold}Moving on to clean up of www-gitlab-com repo...${normal}"
 cd $DUBDUBDUB_REPO
 # Setup redirects in dubdubdub
@@ -462,7 +548,10 @@ if [[ $IS_COMPANY == true ]]; then
   REDIRECT_TARGET=https://handbook.gitlab.com/handbook/company/$SECTION
 elif [[ $IS_ENGINEERING == true ]]; then
   REDIRECT_SOURCE=/handbook/engineering/$SECTION
-  REDIRECT_TARGET=https://handbook.gitlab.com/handbook/enginnering/$SECTION
+  REDIRECT_TARGET=https://handbook.gitlab.com/handbook/engineering/$SECTION
+elif [[ $IS_MARKETING == true ]]; then
+  REDIRECT_SOURCE=/handbook/marketing/$SECTION
+  REDIRECT_TARGET=https://handbook.gitlab.com/handbook/marketing/$SECTION
 elif [[ $IS_HANDBOOK == true ]]; then
   REDIRECT_SOURCE=/handbook/$SECTION
   REDIRECT_TARGET=https://handbook.gitlab.com/handbook/$SECTION

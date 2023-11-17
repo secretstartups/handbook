@@ -1,15 +1,7 @@
 ---
-
 title: "ReOps procurement best practices"
 description: "Best practices when working with procurement"
 ---
-
-
-
-
-
-
-
 
 When working with procurement on onboarding new tools, payments of POs, contract renewals etc. these are best practices to follow.
 

@@ -483,20 +483,20 @@ You can bulk edit tickets by:
 
 ![ZD Bulk Update View](/images/support/zd-bulk-update.png)
 
-## US Federal Emergencies
+## US Government Support Emergencies
 
-US Federal on-call support is provided 7 days a week between the hours of 0500 and 1700 Pacific Time.
+US Government on-call support is provided 7 days a week between the hours of 0500 and 1700 Pacific Time.
 
 The current on-call schedule can be viewed in [PagerDuty](https://gitlab.pagerduty.com/schedules#P89ZYHZ)(Internal Link), or in the [Support Team on-call page](https://gitlab-com.gitlab.io/support/team/oncall.html)(GitLab Employees only). The schedule is currently split into two, 6 hour shifts, an AM and a PM shift. The AM shift starts at 0500 Pacific Time and runs until 1100 Pacific Time. The PM shift starts at 1100 Pacific Time and runs until 1700 Pacific Time.
 
-Customers are permitted to submit emergencies via email or via the emergency form in the US Federal support portal.
+Customers are permitted to submit emergencies via email or via the emergency form in the US Government support portal.
 
 #### Emergencies outside on-call hours
 
-If a customer submits an emergency case outside the [working hours of Federal Support](https://about.gitlab.com/support/us-federal-support/#hours-of-operation) the following will occur:
+If a customer submits an emergency case outside the [working hours of Government Support](https://about.gitlab.com/support/us-government-support/#hours-of-operation) the following will occur:
 
-- A slack notification will trigger in the #spt_us-federal channel alerting the team to an off hours emergency and indicating follow-up is needed at the start of business hours
-- The `Off hours emergency request` trigger will inform the ticket submitter that it is after hours and give them the option to either create an emergency case in Global support or wait for US Federal support to follow-up at the next start of business hours.
+- A slack notification will trigger in the #spt_us-government channel alerting the team to an off hours emergency and indicating follow-up is needed at the start of business hours
+- The `Off hours emergency request` trigger will inform the ticket submitter that it is after hours and give them the option to either create an emergency case in Global support or wait for US Government support to follow-up at the next start of business hours.
 
 ## GitLab Dedicated Emergencies
 

@@ -1,14 +1,7 @@
 ---
-
 title: "Finding SaaS users"
 description: "How we target SaaS research participants to meet specific criteria"
 ---
-
-
-
-
-
-
 
 ## Finding SaaS (GitLab.com) users
 
@@ -17,6 +10,7 @@ description: "How we target SaaS research participants to meet specific criteria
 We have a variety of methods for identifying and [recruiting participants for research studies](/handbook/product/ux/ux-research/recruiting-participants), including Respondent.io and recruiting via social media. However, there are situations where these methods aren't suitable and you need to be able to find users based on a very specific criteria backed by objective usage data rather than self-reported or inferred data. The best way to do this is to take advantage of the usage and demographic data we have in our data warehouse.
 
 **A non-exhaustive list of examples of when finding users via the data warehouse would be appropriate:**
+
 - You are looking for users with a certain volume of usage of a feature or stage rather than simply being users of a stage
 - You are looking for users that have interacted with a specific type of object or content on GitLab (ex: epics, snippets, wiki, etc.)
 - You need to understand the broader context of the group or project the user is working within (ex: users in groups with less than 30 users, users in Gold plan groups, users in projects with no repository usage)
@@ -49,6 +43,7 @@ LIMIT 100
 ### Object Tables (projects, issues, merge requests, etc)
 
 We have a tables containing records for all of our "top level" objects in GitLab, among others:
+
 - projects
 - groups
 - issues

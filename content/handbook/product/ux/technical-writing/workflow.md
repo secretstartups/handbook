@@ -1,14 +1,6 @@
 ---
-
 title: "Technical Writing workflows"
-description: "This document explains the workflows of the Technical Writing team."
 ---
-
-
-
-
-
-
 
 Technical Writing team workflows work in conjunction with the:
 
@@ -34,11 +26,11 @@ for a milestone when:
 - A process, workflow, or previously documented feature is changed.
 - A feature is deprecated or removed.
 
-**Note:** Documentation refactoring unrelated to a feature change is covered by
+{{% alert title="Note" color="primary" %}}
+Documentation refactoring unrelated to a feature change is covered by
 the [process for changes not related to a specific milestone](https://docs.gitlab.com/ee/development/documentation/workflow.html),
 which allows for time-sensitive documentation updates to be prioritized.
-{: .note}
-
+{{% /alert %}}
 
 Documentation isn't typically required when a *backend feature* is added or changed.
 
@@ -53,7 +45,6 @@ Documentation is required for any new or changed feature, and is:
 - Required with the delivery of a feature for a specific milestone as part of the
   GitLab [definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done).
 - Often linked from the release post.
-
 
 ### Developer responsibilities
 
@@ -74,9 +65,9 @@ For details, see [the guidelines](https://docs.gitlab.com/ee/development/documen
 
 The author of this MR, either a frontend or backend developer, should write the documentation.
 
-**Note:** Community Contributors can ask for additional help from GitLab team
-members.
-{: .note}
+{{% alert title="Note" color="primary" %}}
+Community Contributors can ask for additional help from GitLab team members.
+{{% /alert %}}
 
 #### Authoring
 
@@ -208,8 +199,6 @@ Technical Writers:
   the change is merged. Identified issues that would block or slow a change's
   release are to be handled in linked, follow-on MRs.
 - Follow technical writing [review principles](/handbook/product/ux/technical-writing/#review-principles).
-
-
 
 ### Documentation requirements
 

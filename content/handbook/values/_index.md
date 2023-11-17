@@ -1411,7 +1411,7 @@ Our [mission](/handbook/company/mission/#mission) is that **everyone can contrib
 
 We have a page which documents our [Mitigating Concerns](/handbook/leadership/mitigating-concerns/). Many of our values help to mitigate some of these concerns.
 
-## GitLab Values Knowledge Assessment
+## GitLab Values Quiz
 
-Anyone with a GitLab account can access the GitLab values knowledge assessment. To obtain a certificate, you will need to complete this [learning course](https://levelup.gitlab.com/courses/gitlab-values) in Level Up and earn at least an 80%. Once the quiz has been passed, you will receive a certificate for your Level Up profile. You can also share the badge on your personal LinkedIn page. If you have questions, please reach out to our L&D team at `learning@gitlab.com`.
+Anyone with a GitLab account can access the GitLab Values Quiz. To participate in the quiz, you will need to complete this [learning course](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-values-training/gitlab-values-training/first-lesson) in Level Up. If you have questions, please reach out to our L&D team at `learning@gitlab.com`.
 <!-- markdownlint-enable MD051 -->

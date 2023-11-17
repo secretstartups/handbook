@@ -1,14 +1,7 @@
 ---
-
 title: "Usability benchmarking"
 description: "The usability benchmarking process at GitLab"
 ---
-
-
-
-
-
-
 
 According to the [Nielsen/Norman Group](https://www.nngroup.com/articles/product-ux-benchmarks/), usability or user experience benchmarking is "the process of evaluating a product or service's user experience by using metrics to gauge its relative performance against a meaningful standard." While benchmarking can require a good amount of time and effort, there are few alternate research methods that provide both the same volume of data and granularity of insights. This page describes the processes and considerations that we put into usability benchmarking at GitLab.
 
@@ -42,6 +35,7 @@ The early planning stages are crucial for setting the rest of your study up for 
 ### Sample and recruiting
 
 You will want to consider your sample when recruiting for a usability benchmark study. While there are not set guidelines for the sample, you want to consider a general mix of participants across these factors:
+
 - Persona(s) relevant to the area the study covers to make sure that you're testing with your target users.
 - Company size that the participant works for, as that can influence the types of tasks that users typically perform and/or give them better mastery if they're working at Enterprise scale.
 - Team size that the participant is directly on. Those on All-in-One teams will have more experience across the platform and will likely be more skilled at any tasks as they have a better understanding of how aspect of the platform work together. Team size greatly impacts how users interact with GitLab.
@@ -64,7 +58,6 @@ Each protocol is tailored to the topic and specifics of the study it belongs to,
 - Explain the session. For benchmarking, this entails laying out how you're going to run each task, describing the behaviors that are encouraged or discouraged (for example, talking aloud is not usually done in benchmarking), and generally laying out the structure of what the participant can expect during your time together.
 
 The [Usability Benchmarking template](https://docs.google.com/spreadsheets/d/1FK3rS0MaF57cpyVEFL7P9LwD-zwfLSLk-k6tul__cPI/edit?usp=sharing) contains some boilerplate language to work off of for your own study.
-
 
 ### Tasks
 
@@ -101,12 +94,10 @@ Here is an example of a singular task as written in the task list:
 
 #### A note on cut-off time
 
-
 There isn't a hard and fast rule when it comes to assigning a cut-off time for your tasks. There are a few ways you might do this:
 - Time yourself completing the tasks, and, if you're an expert, multiply that by 3 (a [guideline](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5738945/#:~:text=An%20expert%20can%20take%20longer,second%20nature%20for%20an%20expert.&text=For%20routine%20tasks%2C%20experts%20complete,1.3%20to%20multiple%20times%20faster.) for how long a novice might take).
 - Perform a [KLM](https://measuringu.com/predicted-times/) (Keystroke Level Modeling) calculation to get a rough estimate of time on task.
 - Run a pilot without enforcing any cut off. Measure time on task, and use that as a baseline. This comes with some caveats: you should consider adding time to the tasks that your pilot participant completed quickly and possibly subtracting time from the tasks that you felt took too long.
-
 
 #### A note on weight
 
@@ -119,7 +110,6 @@ As a simple example:
  - When scoring the grade for the **combined** tasks, multiply each score by its weight. The score for A stays at 20/20, and the score from B becomes 20/40 (10 *2 = 20, 20* 2 = 40).
  - Next, add the totals from the tasks to get the final weighted score (20 + 20 / 20 + 40).
  - The total score is 40/60 or .67, not the unweighted average of 30/40 or .75, because we weighed task B more and task B performed worse.
-
 
 ### Metrics
 
@@ -139,13 +129,14 @@ The following metrics and definitions are the core of how GitLab performs benchm
 #### Notes on scoring and metrics
 
 If participants *don't meet* the completion criteria for the task:
+
 - **Do not** enter time on task for that participant on that specific task. We want to measure the time it takes to successfully complete each task.
 - **Do** include the CES score and error count. We want to understand the experience for everyone who completed the task.
 - Mark the task as **incomplete**, even if a participant believes they have finished the task, but they **have not** met the completion criteria.
 - Mark the task as **incomplete**, even if a participant believes they have NOT completed the task, but they **have** met the completion criteria.
 
-
 For per-task metrics:
+
 - Report all metrics with a 95% confidence interval, unless you have a clear reason to do otherwise.
 - For completion rate, use the [adjusted Wald calculation](https://measuringu.com/calculators/wald/#:~:text=It%20uses%20the%20Wald%20Formula,of%201.96%20or%20approximately%202.) for the confidence interval.
 - For time on task, use a natural log calculation for confidence interval, and report geometric mean rather than the median as a recommended [best practice](https://measuringu.com/calculators/time_intervals/).
@@ -154,6 +145,7 @@ For per-task metrics:
 - For the Customer Effort Score (CES): If your sample is less than 30, use the population standard deviation to calculate your confidence interval. If N is greater than 30, use the standard deviation calculation. [Here's a handy calculator](https://www.calculator.net/standard-deviation-calculator.html) that includes both options and confidence intervals.
 
 For per-workflow overall grade calculation:
+
 - If all per-workflow metrics within a workflow are in one category (e.g., "Fair") but the calculated score is in a different grading category (e.g., "Good"), represent the overall grade as the same category as the metrics (e.g., a workflow score of 80 with "Fair"-category sub-metrics is categorized as "Fair" as well).
 
 #### Severity calculation
@@ -213,6 +205,7 @@ Take the following steps to triangulate your benchmark study findings with the S
 UX Researchers and their teams will identify [Actionable Insights](/handbook/product/ux/ux-research/research-insights/#:~:text=Actionable%20insights%20are%20tracked%20at,long%20to%20be%20acted%20upon.), which are issues that articulate the next steps that we will take to address our findings.
 
 Actionable Insights should get the following labels:
+
  - `Usability benchmark`
  - `Section::Stage` scoped labels to identify the section and stage(s) covered in the study
  - `Actionable Insight::Product change` or `Actionable Insight::Exploration needed`

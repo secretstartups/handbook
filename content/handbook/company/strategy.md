@@ -6,7 +6,7 @@ canonical_path: "/company/strategy/"
 
 ## Current strategy
 
-**[Current strategy in the internal handbook](https://internal.gitlab.com/handbook/company/three-year-strategy/).**
+**[Current strategy is in the internal handbook](https://internal.gitlab.com/handbook/company/three-year-strategy/).** The rest of this page desribes the strategy process.
 
 ## Three Year Strategy
 

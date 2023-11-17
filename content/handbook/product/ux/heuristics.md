@@ -1,14 +1,7 @@
 ---
-
 title: "UX Heuristics"
 description: "Heuristics used by the UX team to evaluate our product."
 ---
-
-
-
-
-
-
 
 ## Intro
 

@@ -18,7 +18,7 @@ categories:
 - [Propose a change](#propose-a-change)
 - [Get something fixed](#get-something-fixed)
 - [Make changes to Zendesk Global macros](#make-changes-to-zendesk-global-macros)
-- [Make changes to Zendesk US Federal macros](#make-changes-to-zendesk-us-federal-macros)
+- [Make changes to Zendesk US Government macros](#make-changes-to-zendesk-us-government-macros)
 - [Support Team page requests](#support-team-page-requests)
 - [Everything else](#everything-else)
 
@@ -108,27 +108,35 @@ timely in nature, make sure you are available to work with Support Operations.
 
 ### Make changes to Zendesk Global macros
 
-If you need changed made to a macro in Zendesk Global, you can file an issue in
-the
-[macros issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/issues/new).
-Keep in mind that macro changes normally need a manager to review them. This
-might occur in the issue itself or the merge request that is created later.
+If you want to create, edit, or deactivate a macro in Zendesk Global, you can do
+one of two options:
 
-Once the issue is created, Support Operations will work the issue. They may
-create new issues or move the original request as needed.
+- Create a merge request doing the modifications in the
+  [macros project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros)
+  - NOTE: If creating a new macro, leave the `id` field blank. The pipeline
+    will fail, but Support readiness will rectify that.
+- Create an issue in the
+  [macros project issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/issues/new)
 
-### Make changes to Zendesk US Federal macros
+If making an issue, Support Readiness will assist you in getting a merge request
+created. If making a merge request, it will be reviewed by the appropriate
+CODEOWNERS.
 
-If you need changed made to a macro in Zendesk US Federal, you can file an
-issue in the
-[zendesk-us-federal issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/-/issues/new)
-using the
-[zendesk-us-federal macros issue template](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/-/issues/new?issuable_template=Macros).
-Keep in mind that macro changes normally need a manager to review them. This
-might occur in the issue itself or the merge request that is created later.
+### Make changes to Zendesk US Government macros
 
-Once the issue is created, Support Operations will work the issue. They may
-create new issues or move the original request as needed.
+If you want to create, edit, or deactivate a macro in Zendesk US Government,
+you can do one of two options:
+
+- Create a merge request doing the modifications in the
+  [macros project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/macros)
+  - NOTE: If creating a new macro, leave the `id` field blank. The pipeline
+    will fail, but Support readiness will rectify that.
+- Create an issue in the
+  [macros project issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/macros/-/issues/new)
+
+If making an issue, Support Readiness will assist you in getting a merge request
+created. If making a merge request, it will be reviewed by the appropriate
+CODEOWNERS.
 
 ### Support Team page requests
 
@@ -155,7 +163,7 @@ graph TD;
   Start -- "Propose a change" --> SupportTeamMeta;
   Start -- "Get something fixed/Other" --> SupportOpsProject;
   Start -- "Make changes to macros in ZD Global" --> ZendeskMacros;
-  Start -- "Make changes to macros in ZD US Federal" --> ZendeskUsFederal;
+  Start -- "Make changes to macros in ZD US Government" --> ZendeskUsGovernment;
   Start -- "Support Team page request" --> SupportTeam;
   Slack --> SlackResponds;
   Calendly --> CalendlyFillOutIssue;
@@ -176,7 +184,7 @@ graph TD;
   SupportTeamMetaOpsCreatesIssue --> OpsWorksIssue;
   SupportOpsProject --> OpsWorksIssue;
   ZendeskMacros --> OpsWorksIssue;
-  ZendeskUsFederal --> OpsWorksIssue;
+  ZendeskUsGovernment --> OpsWorksIssue;
   SupportTeam --> OpsWorksIssue;
   Start{"What do you wish to do?"};
   Slack["Ask in the support_operations slack channel"];
@@ -200,7 +208,7 @@ graph TD;
   SupportOpsProject["Create an issue in the support-ops-project"];
   OpsWorksIssue["Support Ops works issue from there, making new ones as needed"];
   ZendeskMacros["Create an issue in the macros project"];
-  ZendeskUsFederal["Create an issue in the zendesk-us-federal project"];
+  ZendeskUsGovernment["Create an issue in the zendesk-us-government project"];
   SupportTeam["Create an issue in the support/team project"];
 ```
 
@@ -212,7 +220,7 @@ graph TD;
 - [calendly issue tracker](https://gitlab.com/gitlab-com/support/support-ops/other-software/calendly/-/issues/new)
 - [support-team-meta issue tracker](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new)
 - [macros issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/issues/new)
-- [zendesk-us-federal issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/-/issues/new)
-- [zendesk-us-federal macros issue template](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/-/issues/new?issuable_template=Macros)
+- [zendesk-us-government issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/-/issues/new)
+- [zendesk-us-government macros issue template](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/-/issues/new?issuable_template=Macros)
 - [support/team issue tracker](https://gitlab.com/gitlab-com/support/team/-/issues/new)
 - [support-ops-project issue tracker](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new)

@@ -1,14 +1,6 @@
 ---
-
 title: "Technical Writing Fundamentals"
-description: "Get started working on GitLab product documentation with our Technical Writing Fundamentals."
 ---
-
-
-
-
-
-
 
 The Technical Writing Fundamentals course is available to help both GitLab and community contributors write and edit documentation for the product. This course provides direction on grammar and topic design.
 
@@ -38,33 +30,25 @@ Use the slide deck to follow along with the recorded training sessions.
 
 Provides an introduction, the audience for the documentation, a brief recap of pre-class work, and the first grammar and style requirements.
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/Bp_ltao_xbA" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube "Bp_ltao_xbA" >}}
   
 ### Session 2 (8 minutes)
 
 Reviews additional grammar and style requirements.
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/ulFMEOURVR0" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube "ulFMEOURVR0" >}}
   
 ### Session 3 (5 minutes)
 
 Reviews even more grammar and style requirements and linting.
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/q_LlUEIJnA0" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube "q_LlUEIJnA0" >}}
 
 ### Session 4 (8 minutes)
 
 Reviews topic types: concepts, tasks, references, troubleshooting (CTRT).
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/ZzdE1y7HfzE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube "ZzdE1y7HfzE" >}}
 
 ### For more information
 

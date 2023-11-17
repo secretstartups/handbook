@@ -1,20 +1,13 @@
 ---
-
 title: "How to fill in For a UX Research Operations Coordinator"
 description: "This page details the steps required to execute a successful recruit from start to finish"
 ---
 
-
-
-
-
-
-
 There are times when you will play the role of UX Research Operations Coordinator. This page details all of the ‘behind the scenes’ steps needed to execute a successful recruit from start to finish. Are you interested in how to work with our UX Research Operations Coordinator? If so, you can find that information [here](https://www.google.com/url?q=https://about.gitlab.com/handbook/product/ux/ux-research/recruiting-participants/&sa=D&ust=1602108272868000&usg=AFQjCNE8hrspN3s2Uy2MuNSmZvxoAuuvQg).
 
-### The Process
+## The Process
 
-#### Step 1 - Familiarize yourself and communicate to others
+### Step 1 - Familiarize yourself and communicate to others
 
 - The UX Research Operations Coordinator will open a coverage issue in the UX Research project listing out the priority of projects, what needs to be done, and link to any resources that may be helpful while they are unavailble.
 - The UX Research Operations Coordinator will @ mention you on any ongoing recruitment issues that you need to pick up. They will provide you with a clear description of the status of the issue and what needs to be completed.
@@ -26,7 +19,7 @@ There are times when you will play the role of UX Research Operations Coordinato
 - Be sure to join the #uxr_reops Slack channel for easier coordination if there is more than one person covering for the UX Research Operations Coordinator.
 - If the UX Research Operations Coordinator is going to be unavailable for more than 7 consecutive business days they will open an MR on the Research Recruiting & Incentive Request Issue Template to make sure whoever is covering for them is auto-assigned to newly opened issues.
 
-#### Step 2 - Dealing with new recruiting requests
+### Step 2 - Dealing with new recruiting requests
 
 ***Note: Remember to update the issue with every action you take and its results.***
 
@@ -46,7 +39,7 @@ There are times when you will play the role of UX Research Operations Coordinato
    - Don’t forget to reach out to the UX researcher for assistance. They help the PM and/or Product Designer put together the screener in Qualtrics.
    - The person requesting the research is responsible for creating the screener in Qualtrics and adding you as a contributor.
 
-#### Step 3 - Choose the best recruiting channel from these options:
+### Step 3 - Choose the best recruiting channel from these options:
 
 - **[First Look (Qualtrics)](/handbook/product/ux/qualtrics/#distributing-a-survey-to-gitlab-first-look):**
    - Contains GitLab users, mostly our Developer persona, although some more exotic job titles are also found there.
@@ -89,15 +82,13 @@ There are times when you will play the role of UX Research Operations Coordinato
    - There are some biases that should be considered when sampling by this method. (People using the Docs site are usually looking for information on a potential road block they have.)
    - The docs team can choose not to allow your request. Typically it takes 1 week to get this up and running
 
-
-#### Step 4 - Paying participants
+### Step 4 - Paying participants
 
 - Participants are paid differently, depending on the recruiting channel you use
    - Respondent.io
      - Pay users within the Respondent platform.
      - There should be credits loaded into the platform. Click the “approve” button to pay people who have attended sessions.
      - If there are sessions where participants have not been marked “attended,” please remind the interviewer to do so ASAP, or to verify that they were a no-show. This should be done in a timely manner, so our platform profile can retain a good standing.
-
    - Tremendous
      - This method is currently being used for paying all UX Research participants that do not come through Respondent.io.
      - Access to the platform is restricted & an AR may need to be opened for the UX Researcher covering.
@@ -109,9 +100,7 @@ There are times when you will play the role of UX Research Operations Coordinato
      - On the payment screen select Pay with Credit Balance, and then click process.
      - Your participants should receive their incentive same day, but allow up to 48 hours for processing.
 
-
-
-#### Transferring back to the UX Research Operations Coordinator
+### Transferring back to the UX Research Operations Coordinator
 
 - You made it! The UX Research Operations Coordinator is back in action and ready to take over.
 - Assign the UX Research Operations Coordinator any recruiting issues that are still open.
@@ -119,9 +108,7 @@ There are times when you will play the role of UX Research Operations Coordinato
 - Update the coverage issue the day before the UX Research Operations Coordinator returns as not everyone is based in the same timezone and they may start their workday before yours.
 - If needed, the UX Research Operations Coordinator will open a new MR to remove the UX Researcher from being automatically assigned to new research recruitment requests.
 
-
-
-### Resources
+## Resources
 
 - [How the UX Research Team Operates](/handbook/product/ux/ux-research/how-uxr-team-operates/)
 - [Recruitment case study](/handbook/product/ux/ux-research/recruiting-participants/#recruitment-case-study)

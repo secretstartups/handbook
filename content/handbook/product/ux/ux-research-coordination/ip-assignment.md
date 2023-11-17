@@ -4,13 +4,6 @@ title: "The IP Assignment and when to show it"
 description: "Learn about what the IP Assignment is and when to show it to research participants."
 ---
 
-
-
-
-
-
-
-
 The Intellectual Property (IP) Assignment is a short acknowledgement by which participants in UX research activities confirm that IP rights in any feedback, suggestions and ideas they provide are (i) owned by GitLab; and (ii) to the extent not already owned by GitLab, assigned to GitLab.
 
 ### How is IP defined in this context?
@@ -45,11 +38,10 @@ The research tool being used (for example Qualtrics, UserTesting, Respondent) de
 
 1. **A statement** - This is a statement which requires no user action.  The act of participating in the research activity constitutes assent to the IP Assignment.
      - `By participating in this, and any future, research activities with GitLab, you acknowledge that GitLab B.V. will retain all intellectual property rights in any suggestions, ideas, enhancement requests, feedback, or other recommendations you provide which are hereby assigned to GitLab B.V.`
-
 1. **A question** - This is a question which requires the participant to choose ‘Yes’ to indicate their acceptance of the IP Assignment.  If they choose ‘Yes’, they will continue with the research; if they choose ‘No’, they cannot take part.
      - `I agree that by participating in this, and any future, research activities with GitLab, GitLab B.V. will retain all intellectual property rights in any suggestions, ideas, enhancement requests, feedback, or other recommendations I provide which are hereby assigned to GitLab B.V.`
 
-       `[ ] Yes` <br>
+       `[ ] Yes`
        `[ ] No`
 
 ### Frequently Asked Questions
@@ -59,7 +51,7 @@ The research tool being used (for example Qualtrics, UserTesting, Respondent) de
 
      - `Any code contributions you make as part of your participation in this research activity are made subject to [GitLab's Individual Contributor License Agreement](https://docs.gitlab.com/ee/legal/individual_contributor_license_agreement.html).`
 
-       `[ ] I accept the terms of GitLab's Individual Contributor License Agreement.` <br>
+       `[ ] I accept the terms of GitLab's Individual Contributor License Agreement.`
        `[ ] I do not accept the terms of GitLab's Individual Contributor License Agreement.`
 
  - **Question:** I’m planning to run a blind study.  Do I need to show the IP Assignment?
