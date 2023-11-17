@@ -96,4 +96,6 @@ To be added once the project is complete
 | Product DRI        | Sam White          | Group Manager, Product - Govern                 |
 | Engineering Manager DRI | Nathan Rosandich   | Engineering Manager, Govern                |
 | Engineering DRI    | Aaron Huntsman     | Sr. Backend Engineer, Govern                    |
+| Member             | Charlie Ablett     | Staff Backend Engineer, Plan                    |
+| Member             | Georgi N. Georgiev | Senior Backend Engineer, Verify                 |
 | Advisor            | Dominic Couture    | Staff Security Engineer, Application Security   |

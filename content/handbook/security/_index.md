@@ -553,7 +553,7 @@ If an urgent security incident has been identified or you suspect an incident ma
  - Endpoint compromise or infection
  - Exposure of sensitive GitLab data
 
-Additionally if a GitLab team member experiences a personal emergency the People Group also provides an [emergency contact email](https://about.gitlab.com/handbook/people-group/#in-case-of-emergency).
+Additionally if a GitLab team member experiences a personal emergency the People Group also provides an [emergency contact email](/handbook/people-group/#in-case-of-emergency).
 
 #### Sub-groups and projects
 

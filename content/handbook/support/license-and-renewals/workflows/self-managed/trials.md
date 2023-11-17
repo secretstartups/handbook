@@ -74,3 +74,16 @@ For tracking customer requests for a license extension, we rely on the SE to rev
 
 This macro will automatically add the tag `lnr_sm_extension_customer_request` to track these instances.
 
+
+### Licensing pathways for handling customer renewals and new sales that have become delayed
+
+In certain scenarios where customer renewals or new customer sales are experiencing delays, the L&R Support process workflows provide flexibility to address these challenges. The following table outlines the options available to issue temporary trial licenses based on specific use cases:
+
+
+| Use Case | Pathway |
+| ------ | ------ |
+|  Customer renewal is taking longer than expected      | The sales AE (Account Executive) generates a one off 21 day trial via SFDC        |
+|  Customer renewal exceeds the additional 21 days     |  The sales AE can open a new Internal Request (IR) ticket with L&R support and request a trial license extension for up to 1 month      |
+|  Customer renewal exceeds the additional 21 days + 1 month     | The sales AE can open a new Internal Request (IR) ticket with L&R support who request approval via the ticket from the senior director of revenue @andrew_murray       |
+|  New customer potential sale     |  The sales AE can request up to 1 month trial extension via an IR with L&R support.|
+|  New customer sale taking longer than 1 month | The sales AE generates a $0 dollar opportunity in SFDC, then opens a new IR ticket with L&R support who request approval via the ticket from the senior director of revenue @andrew_murray       |

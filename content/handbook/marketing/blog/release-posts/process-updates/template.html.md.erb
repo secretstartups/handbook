@@ -1,0 +1,38 @@
+---
+
+title: "Release post updates"
+canonical_path: "/handbook/marketing/blog/release-posts/process-updates/"
+---
+
+<%
+# set the total number of releases to display. includes upcoming and past
+release_cnt = 12
+overviews = Hash.new { |hash, key| hash[key] = Hash.new(&hash.default_proc) }
+
+# Put all milestone release notes here. Create a new block for each milestone following the pattern.
+# You must have the `overviews["xx.x"] = <<-xx_x` opening and `xx_x` closing line exactly or the notes
+# will not be picked up. The entire page might also fail to render properly.
+overviews["13.9"] = <<-13_9
+13_9
+
+# do not include or modify anything after this section
+%>
+
+<% cnt = 0 # do not modify this %>
+<% pdf_release_blog["Product Operations,release post,prodops:release"].keys.sort_by {
+    |x|
+    x1, x2 = x.split(".")
+    x1.to_i * 100 + x2.to_i
+   }.reverse.each do |release| %>
+    <% next if pdf_release_blog["Product Operations,release post,prodops:release"][release]["content"].blank? || (cnt >= release_cnt) %>
+    <% cnt += 1 %>
+### <%= release %> (<%= pdf_release_blog["Product Operations,release post,prodops:release"][release]["date"] %>)
+    <% if !overviews[release].empty? %>
+
+<%= overviews[release] %>
+
+    <% end %>
+##### Changes
+<%= pdf_release_blog["Product Operations,release post,prodops:release"][release]["content"] %>
+
+<% end %>
