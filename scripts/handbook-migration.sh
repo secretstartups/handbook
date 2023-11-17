@@ -508,7 +508,8 @@ echo $HANDBOOK_MR_OUTPUT
 
 if [[ $IS_MARKETING == "true" ]]; then
   echo "Skipping cleaning up www-gitlab-com"
-
+  echo -e "${bold}Cleaning up the copy of www-gitlab-com repo...${normal}"
+  rm -rf /tmp/gitlab-migration
   cat << EOF >> $REPORT_OUT
 ---
 title: $TITLE

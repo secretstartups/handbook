@@ -1,15 +1,15 @@
 ---
-layout: handbook-page-toc
+
 title: "Field Marketing Owned Virtual Events"
 description: "Step by Step instructions for Field Marketers on how to set up various owned virtual events."
 ---
 
-## On this page
 
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 # Overview of Zoom Virtual Event Types
 
@@ -21,7 +21,7 @@ This type of event is generally recommended for smaller virtual events (200 atte
 
 Please note this option does not allow for registration to be capped. You can require approval, but Zoom doesn’t allow customization of the rejection email (and it isn’t clear if a rejection email is even sent). 
 
-#### [Owned Events Hosted on Personal Zoom Accounts](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#owned-events-hosted-on-personal-zoom-accounts-1)
+#### [Owned Events Hosted on Personal Zoom Accounts](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#owned-events-hosted-on-personal-zoom-accounts-1)
 
 This is a light-weight virtual event that is hosted on any team member’s personal Zoom. 
 
@@ -33,19 +33,19 @@ In most cases we work closely with an advocate within an account to drive produc
 
 ##### Best Practices
 1. The FMM works with the account team (SAL, AE, SA, TAM) to determine accounts to be targeted and choose the relevant topic ([currrently vailable topics](https://drive.google.com/drive/folders/1L_kd6QudSWcvAKDM-h6oPvvC6LiNj_ER))
-1. The FMM sets up the [event](/handbook/marketing/events/#event-execution) and is hosted on the team member’s personal zoom account.
-1. Before the Lunch and Learn session, the participants receive an e-voucher (example value $25), uber eat gift card, Just Eat or similar depending on availability in their area. The FMC will coordinate the advanced purchase of these vouchers and send through a [Reachdesk campaign](/handbook/marketing/marketing-operations/reachdesk/#e-gift-cards-and-reward-pass). Small swag items (e.g Stickers and socks) can be sent instead of food vouchers.
-1. If budget allows, the participants may receive a GitLab swag gift through a [Reachdesk Landing Page](/handbook/marketing/marketing-operations/reachdesk/#creating-a-landing-page)
+1. The FMM sets up the [event](https://about.gitlab.com/handbook/marketing/events/#event-execution) and is hosted on the team member’s personal zoom account.
+1. Before the Lunch and Learn session, the participants receive an e-voucher (example value $25), uber eat gift card, Just Eat or similar depending on availability in their area. The FMC will coordinate the advanced purchase of these vouchers and send through a [Reachdesk campaign](https://about.gitlab.com/handbook/marketing/marketing-operations/reachdesk/#e-gift-cards-and-reward-pass). Small swag items (e.g Stickers and socks) can be sent instead of food vouchers.
+1. If budget allows, the participants may receive a GitLab swag gift through a [Reachdesk Landing Page](https://about.gitlab.com/handbook/marketing/marketing-operations/reachdesk/#creating-a-landing-page)
 1. All participants are followed up by email with session recording and SDR/SALs direct follow-up.
 
 ## Hosted on Field Marketing Zoom License
 
-### [Virtual Workshops](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshops-1)
+### [Virtual Workshops](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshops-1)
 
 Field Marketers will work with the Customer Success teams, Product Marketing & Solution Engineers to build various types of Virtual Workshops, depending on the needs of the region. These Virtual Workshops are designed to accelerate pipeline and attract new customers to GitLab by providing a hands-on experience.
 
 
-For more information regarding workshop capacities, please review [these details](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#workshop-registration-caps-and-closing-registration).  
+For more information regarding workshop capacities, please review [these details](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#workshop-registration-caps-and-closing-registration).  
  
 **Virtual Workshop Links**  
 - Field Marketing + SA Workshops available to date can be found [here](https://drive.google.com/drive/folders/1qAymFTiXFEk-lRSNreIhaZ6Z62fdo_y2).
@@ -57,7 +57,7 @@ Note that Virtual Workshops involve the SLA timeline below. Please make sure to 
 
 - **Virtual Workshops (-40 business day [SLA](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280&range=A48))** - These workshops utilize the material from the current workshops that have already been created. For these workshops, you will be re-utilizing all the existing content with either no content changes or *very* minor content adjustments (example - change of title from Advanced CI/CD Workshop to Advanced CI/CD Workshop for the PubSec).  
 
-### [Webcasts](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#webcasts-1)
+### [Webcasts](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#webcasts-1)
 
 This is a GitLab-hosted virtual event with Webcast type configuration in Zoom. This is the preferred setup for larger GitLab-hosted virtual events (up to 1,000 attendees) that requires registration due to the integration with Marketo for automated lead flow and event tracking. GitLab-hosted webcast type is a single room virtual event that allows multiple hosts. Attendees cannot share audio/video unless manually grated access. 
 
@@ -67,13 +67,13 @@ Please note that all Webcasts are considered webcasts with new content, which me
 
 ## Hosted on Hopin
 
-### [Virtual Conference - Self-Hosted](/handbook/marketing/virtual-events/external-virtual-events/#virtual-conferences)
+### [Virtual Conference - Self-Hosted](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/#virtual-conferences)
 
 Please work with the Corporate Marketing Events team on planning these large scale events. This event type is only intended if you need more tracked attendees than is capable with Zoom and/or you need multiple simultaneous tracks. It also allows for a partner expo hall. The tool we have in place allows for a cleaner experience for the end user than switching between Zoom calls. It more mirrors a physical event experience with a keynote stage, tracks, expo halls and networking options.
 
 # Additional Virtual Event Details
 
-For more information on Virtual Event type comparisons, promotion, Zoom capabilities, participant engagement, etc. please visit the Virtual Events page [HERE](/handbook/marketing/virtual-events/).
+For more information on Virtual Event type comparisons, promotion, Zoom capabilities, participant engagement, etc. please visit the Virtual Events page [HERE](https://about.gitlab.com/handbook/marketing/virtual-events/).
 
 # Closed Captioning
 
@@ -88,11 +88,11 @@ For more details about Zoom closed captioning, please reference [this Zoom artic
 
 # Zoom > Marketo Integration
 
-When setting up a Zoom-based webcast, keep in mind that the Zoom to Marketo integration can be easily broken by changes to the `date` or `time` of the webcast, which includes going over the allotted time scheduled in Zoom. Zoom support has not specified if other changes will also break the integration, such as changing typos in the webcast name or the description, but it's believed those changes will not break the integration. Keeping this in mind, it is strongly encouraged to triple check every setting and, if necessary, have a second set of eyes on the Zoom webcast and Marketo program _before_ completing the integration so we avoid breakages. Additionally, it is a requirement to schedule [at least 45 minutes extra time](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#zoom-configuration-instructions) on top of the desired time alottment in Zoom. This creates a buffer for webinars to go over the advertised scheduled time. Going over the total time of what is set in the Zoom webinar will also break the integration, so please wrap up webinars before the hard limit is reached to avoid problems, or, add an even larger buffer of time during setup.
+When setting up a Zoom-based webcast, keep in mind that the Zoom to Marketo integration can be easily broken by changes to the `date` or `time` of the webcast, which includes going over the allotted time scheduled in Zoom. Zoom support has not specified if other changes will also break the integration, such as changing typos in the webcast name or the description, but it's believed those changes will not break the integration. Keeping this in mind, it is strongly encouraged to triple check every setting and, if necessary, have a second set of eyes on the Zoom webcast and Marketo program _before_ completing the integration so we avoid breakages. Additionally, it is a requirement to schedule [at least 45 minutes extra time](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#zoom-configuration-instructions) on top of the desired time alottment in Zoom. This creates a buffer for webinars to go over the advertised scheduled time. Going over the total time of what is set in the Zoom webinar will also break the integration, so please wrap up webinars before the hard limit is reached to avoid problems, or, add an even larger buffer of time during setup.
 
 If it is determined the time needs to be adjusted after the integration has been completed and there is a reasonable amount of time to make changes, please open an issue in the Marketing Ops project using the [bug request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=bug_request) template to have the webinar changed. A reasonable amount of time should be a minimum of 48 hours, with possibility of action 24 hours before the event, but not guaranteed. If there is not a reasonable amount of time to fix the backend of the webinar or it is apparent the webinar will certainly go over the hard time deadline set in Zoom, please ping MktgOps to turn `off` the `interesting moments` trigger within the campaign and create [an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues) for MktgOps to fix the registration post-event. While MktgOps can fix registration errors caused by going over the hard deadline, they cannot remove incorrectly attributed `interesting moments`. 
 
-If your date has changed for the event and have you already set up the integration, please follow [these instructions](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#rescheduling-a-webcast) for rescheduling a webcast.
+If your date has changed for the event and have you already set up the integration, please follow [these instructions](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#rescheduling-a-webcast) for rescheduling a webcast.
 
 # Securing a Virtual Workshop or Webcast Date
 **DRI: FMM and FMC**
@@ -124,7 +124,7 @@ The webcast Zoom license can only be used for a single session at a time. This l
 * The FMC will include webcast/workshop team and FMM listed in the Webcast Dry Run Scheduling issue on calendar invite, as well as the epic link and dry run agenda (linked in epic).
 * FMC will uncheck the setting `Modify Event` and `Invite Others` under `Guest Permissions` so invitees are not able to modify the event or add additional guests.
 * Once the dry run calendar invite is complete, the FMC will also re-visit the main calendar invite for the webcast/workshop and add the additional webcast/workshop team from the Webcast Dry Run Scheduling issue, as well as exchange the issue link for the epic link that should now be created, and add the link for the Dry Run Agenda.
-* The FMC will follow [these instructions](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#zoom-configuration-instructions) for adding all staff participants as panelists to the webcast in Zoom. The FMC will then include the individual Zoom links for each participant in the Dry Run Agenda.
+* The FMC will follow [these instructions](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#zoom-configuration-instructions) for adding all staff participants as panelists to the webcast in Zoom. The FMC will then include the individual Zoom links for each participant in the Dry Run Agenda.
 * If any changes need to be made to participants, the FMC will need to adjust those participants in both the webcast calendar invite as well as in the Zoom setup.
 
 ## Hosting a Dry Run
@@ -148,7 +148,7 @@ This section focuses on best practices, timelines and logistical set up for a Fi
 ## Webcast Epic Code
 **DRI: FMM and FMC**
 
-**Please see webcast epic code [here](/handbook/marketing/field-marketing/field-marketing-epics/#webcasts).**
+**Please see webcast epic code [here](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-epics/#webcasts).**
 
 ## Webcast Setup
 **`NOTE: Please make sure your Webcast date is confirmed before starting the below process. Moving a Webcast date is extremely time-intensive once setup is complete.`**
@@ -180,7 +180,7 @@ It’s not recommended to have more than a few hosts because it can get a bit co
 #### [Zoom Configuration Training Video](https://www.youtube.com/watch?v=ofUPO3gHxmQ&feature=youtu.be) 
 This training video includes Zoom configuration setup instructions, as well as Marketo program/SFDC Campaign setup instructions.
  
-*This video has been uploaded as a private video in GitLab Unfiltered. You MUST be logged into Unfiltered to view the video. Instructions on how to log into GitLab Unfiltered can be found [here](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).*
+*This video has been uploaded as a private video in GitLab Unfiltered. You MUST be logged into Unfiltered to view the video. Instructions on how to log into GitLab Unfiltered can be found [here](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).*
 
 #### Zoom Configuration Instructions
 
@@ -210,7 +210,7 @@ This training video includes Zoom configuration setup instructions, as well as M
   - For more details, review the Zoom Help Center page [here](https://support.zoom.us/hc/en-us/articles/203686335-Customizing-webinar-email-settings).
 13. *Optional* **HEADER IMAGE**: If applicable, click on branding and update the header.
 14. *Optional* **POLLING**: If applicable, add polling questions to the webcast or workshop by following the instructions in the video below. You do not need to make the polling question answers anonymous. Canned questions (utilized for webcasts only) are not added to Zoom but can be added to the Day Of Agenda so all presenters/moderators have access.
-15. **WATCH ATTENDEE MAX**: Make sure to regularly monitor the registration counts (webcast capacity is 1,000 attendees) and workshop capacities [listed here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#workshop-registration-caps-and-closing-registration). If your workshop or webcast capacity is reached, please follow the instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#workshop-registration-caps-and-closing-registration) to close registration.
+15. **WATCH ATTENDEE MAX**: Make sure to regularly monitor the registration counts (webcast capacity is 1,000 attendees) and workshop capacities [listed here](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#workshop-registration-caps-and-closing-registration). If your workshop or webcast capacity is reached, please follow the instructions [here](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#workshop-registration-caps-and-closing-registration) to close registration.
 
 **Adding poll questions to a webcast**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QIrRcUIYEwo?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -220,7 +220,7 @@ This training video includes Zoom configuration setup instructions, as well as M
 #### [Marketo Program and SFDC Campaign Setup Training Video](https://www.youtube.com/watch?v=ofUPO3gHxmQ&feature=youtu.be)
 Note: This training video includes Zoom configuration setup instructions, as well as Marketo program/SFDC Campaign setup instructions. Marketo program/SFDC Campaign setup instructions begin around the 9.5 minute mark.
  
-*This video has been uploaded as a private video in GitLab Unfiltered. You MUST be logged into Unfiltered to view the video. Instructions on how to log into GitLab Unfiltered can be found [here](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).*
+*This video has been uploaded as a private video in GitLab Unfiltered. You MUST be logged into Unfiltered to view the video. Instructions on how to log into GitLab Unfiltered can be found [here](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).*
  
 #### Create Program in Marketo
 **DRI: FMC**
@@ -238,12 +238,12 @@ Note: This training video includes Zoom configuration setup instructions, as wel
 1. In the Marketo program Summary view, you will see `Event Partner:` with a link that says "not set".
 1. Click on "not set"
 1. In the Event Partner drop down, select `Zoom` and in the Login drop down, select `Zoom Webcast`.
-1. In the Event drop-down, select the name/topic of the Zoom webcast from [Step 1: Configure Zoom](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#step-1-configure-zoom).
+1. In the Event drop-down, select the name/topic of the Zoom webcast from [Step 1: Configure Zoom](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#step-1-configure-zoom).
  
 #### Create campaign in Salesforce
 **DRI: FMC**
  
-Please follow [these SFDC setup instructions](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign).
+Please follow [these SFDC setup instructions](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign).
 
 ### Step 3.A: Update Marketo Tokens
 **DRI: FMC and Marketing Ops**
@@ -254,13 +254,13 @@ Buckle up! There are a lot of tokens, but for good reason. This is an **advanced
 These will be completed by the FMC when setting up the Marketo program.
  
   * `{{my.utm}}` - UTM to track traffic to the proper campaign in reporting dashboards (append integrated campaign utm or program name, if webcast is not part of an integrated campaign, to the utm campaign token)
-      * If this is a joint campaign with a partner, make sure the partner includes `utm_partnerid=` [more details here](/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-campaigns). For a list of IDs for each partner, [go here](/handbook/marketing/channel-marketing/partner-campaigns/#crm-partner-id). 
+      * If this is a joint campaign with a partner, make sure the partner includes `utm_partnerid=` [more details here](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-campaigns). For a list of IDs for each partner, [go here](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#crm-partner-id). 
   * `{{my.partner name}}` - If this is a campaign run with a partner, you may list mulitple here
   * `{{my.webcastDate}}` - the webcast LIVE date
   * `{{my.webcastTime}}` - token with the webcast time in local timezone/UTC timezone
   * `{{my.webcastTitle}}` - token with the webcast title (For workshops, the title is only the main title of the workshop. Example: Your title would be GitLab Advanced CI/CD Workshop `NOT` GitLab Advanced CI/CD Workshop: Automate your workflows to build and test faster at any scale. Automate your workflows to build and test faster at any scale is considered the sub-title and is auto-populated in the Marketo template based on which workshop you are setting up.)
   * `{{my.pfslidelink}}` - For virtual workshops only. Token where FMC links cloned workshop Pathfactory track for follow up email. **IMPORTANT NOTE:** The `https://` is hard-coded into the Marketo templates, which means you should not include `https://` before your Pathfactory track URL in the Marketo token. We include the Pathfactory track link in the purple `View the Slides` button at the bottom of the follow up email. To make sure this CTA works properly, the FMC must also add `?lb_email=` at the end of the URL. Your Pathfactory Track URL should look like this in the Marketo token: `learn.gitlab.com/advanced-cicd-workshop?lb_email=`.
-     * A little bit behind the WHY: If you are driving to Pathfactory from Marketo, you want to use the lb_email= part of the link. This tells PF that the person is a known user (and won't present any forms) because it passes the email address from Marketo to PF. When you are in Pathfactory and get the share link for a track, you can select Marketo and it will include the complete proper code (including Marketo token). You typically won't need to do that because we already have the token coded into our emails. Also, it won't always be a ? in front of lb_email=. As long as you use a custom URL, it will be a ? and that's why we recommend always using a custom URL. Refer to [the Pathfactory page](/handbook/marketing/marketing-operations/pathfactory/#appending-utms-to-pathfactory-links) for more details.
+     * A little bit behind the WHY: If you are driving to Pathfactory from Marketo, you want to use the lb_email= part of the link. This tells PF that the person is a known user (and won't present any forms) because it passes the email address from Marketo to PF. When you are in Pathfactory and get the share link for a track, you can select Marketo and it will include the complete proper code (including Marketo token). You typically won't need to do that because we already have the token coded into our emails. Also, it won't always be a ? in front of lb_email=. As long as you use a custom URL, it will be a ? and that's why we recommend always using a custom URL. Refer to [the Pathfactory page](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#appending-utms-to-pathfactory-links) for more details.
 
 #### Marketing Ops Tokens
 These will be completed by Marketing Ops when setting up the landing page.
@@ -298,7 +298,7 @@ These will be completed by Marketing Ops when setting up the landing page.
 ### Step 3.C: Create the Landing Page
 **DRI: Marketing Ops**
 
-* Make sure all tokens are completed from [this section](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#marketing-ops-tokens). 
+* Make sure all tokens are completed from [this section](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#marketing-ops-tokens). 
 * When you clone the webcast template, and update the Marketo tokens, your landing page is almost ready to go!
 * For virtual workshops, adjust the {{my.requirementsInPerson}} or {{my.requirementsVirtual}} token on the landing page based on how the workshop is being delivered. No changes are required in the token itself.
   * Under "Assets" right-click on `Registration Page` and hover over `URL Tools` > `Edit URL Settings`
@@ -375,7 +375,7 @@ If additional assistance is required, please comment in the [#marketing_programs
 #### Removing Test Registrations
 **DRI: FMC**  
 
-Once your testing is complete, you can remove test registrations in Marketo by following [these instructions](/handbook/marketing/marketing-operations/campaigns-and-programs/#removing-registrations-from-marketo-programs).
+Once your testing is complete, you can remove test registrations in Marketo by following [these instructions](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#removing-registrations-from-marketo-programs).
 
 #### If Integration Fails
 If your integration is failing after checking the above items, please see [**this issue**](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/3135#note_376120284) for instructions on how to fix it. Should it continue to be a problem, the Marketo program can be set up in advance to avoid the incorrect Interesting Moment push to SFDC. Those instructions are here. For continued issues with integration, please reach out to Marketing Ops in the `#mktgops` Slack channel.
@@ -383,7 +383,7 @@ If your integration is failing after checking the above items, please see [**thi
 ## Resending Attendee Invitations
 Each registrant receives a Zoom login URL unique to them so login URLs should not be shared. If an attendee needs their Zoom invitation with their unique login details re-sent to them, please follow the below instructions to access that information.
 
-1. Log in to the [Zoom Webcast account](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#logging-in-to-the-zoom-webcast-account)
+1. Log in to the [Zoom Webcast account](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#logging-in-to-the-zoom-webcast-account)
 1. Go to `Webinars` and click into your webinar
 1. Scroll down to `Manage Attendees`
 1. Click `Edit` and this will bring up your list of attendees with the option to copy their unique login invitation
@@ -415,10 +415,10 @@ Please reach out to your Marketing Ops rep to shut down the landing page, or if 
 **DRI: FMC**  
 
 **Webcasts:**    
-- **[Vimeo](/handbook/marketing/marketing-operations/vimeo/)**: Submit an [upload request](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=upload-request) to the Digital Production team and specify Vimeo as the requested platform in the issue. Please include title, description and thumbnail (if any). Your webcast will be reveiwed and uploaded to Vimeo and a video link will be provided.
+- **[Vimeo](https://about.gitlab.com/handbook/marketing/marketing-operations/vimeo/)**: Submit an [upload request](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=upload-request) to the Digital Production team and specify Vimeo as the requested platform in the issue. Please include title, description and thumbnail (if any). Your webcast will be reveiwed and uploaded to Vimeo and a video link will be provided.
 
 **Workshops:** 
-- FMC to send the recording link to `@lfstucker` once the [recording](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#downloading-the-recording) is available in Zoom. `@lfstucker` will then provide the FMC with the time mark for the setup section that must be cut from the recording. The FMC will then follow the below instructions for cutting the recording and uploading to [YouTube Unfiltered](/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube).      
+- FMC to send the recording link to `@lfstucker` once the [recording](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#downloading-the-recording) is available in Zoom. `@lfstucker` will then provide the FMC with the time mark for the setup section that must be cut from the recording. The FMC will then follow the below instructions for cutting the recording and uploading to [YouTube Unfiltered](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube).      
 
 #### Editing with YouTube Studio
 
@@ -448,12 +448,12 @@ More options
 **DRI: FMC**  
 
 **Webcasts:**    
-- Create a new Pathfactory track by following the instructions outlined [here](/handbook/marketing/marketing-operations/pathfactory/#content-tracks) and then add your track to the [Changelog](/handbook/marketing/marketing-operations/pathfactory/#changelog). NOTE: You must create a [custom slug](/handbook/marketing/marketing-operations/pathfactory/#configure-content-track-settings) when creating the Pathfactory track. 
-- In Pathfactory, add the Vimeo video link as new content by following the instructions outlined [here](/handbook/marketing/marketing-operations/pathfactory/content-library/#how-to-upload-content). Add this new piece of content to your previously created Pathfactory track.  
+- Create a new Pathfactory track by following the instructions outlined [here](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#content-tracks) and then add your track to the [Changelog](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#changelog). NOTE: You must create a [custom slug](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#configure-content-track-settings) when creating the Pathfactory track. 
+- In Pathfactory, add the Vimeo video link as new content by following the instructions outlined [here](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/content-library/#how-to-upload-content). Add this new piece of content to your previously created Pathfactory track.  
 
 **Workshops:**     
 - FMC to have already created a Pathfactory track for the workshop and added the workshop presentation slides from the [webcast prep issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/webcast-prep.md#fmc-tasks-dri-fmc-).
-- In Pathfactory, add the YouTube Unlisted video link as new content by following the instructions outlined [here](/handbook/marketing/marketing-operations/pathfactory/content-library/#how-to-upload-content). Add this new piece of content to your previously created Pathfactory track.
+- In Pathfactory, add the YouTube Unlisted video link as new content by following the instructions outlined [here](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/content-library/#how-to-upload-content). Add this new piece of content to your previously created Pathfactory track.
 
 #### Marketo - FMC
 
@@ -516,13 +516,13 @@ Note: do not schedule the emails until you have completed the "on demand switch"
 
 ### Adding On-Demand Webcast to the Resources Page
 If you would like your on-demand webcast to be hosted on the [Resources page](https://about.gitlab.com/resources/) please see below.
-* Follow [these instructions](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/#add-to-resources-page) to add your webcast to the Resources page.
+* Follow [these instructions](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/content-in-campaigns/#add-to-resources-page) to add your webcast to the Resources page.
 
 ## Rescheduling a Webcast
 **DRI: FMM and FMC**  
 
 ### Emergency Rescheduling of a Workshop
-There are certain occassions when a workshop needs to urgently be rescheduled due to technical difficulties. Below you will find directions in bold to follow to send out a bulk notification to registrants about the disruption and reschedule the date. If you run into any problems, please [open an issue](/handbook/marketing/marketing-operations/) with the Marketing Ops team for help. For urgent requests, also include the issue link in the slack channel `#mktgops`.
+There are certain occassions when a workshop needs to urgently be rescheduled due to technical difficulties. Below you will find directions in bold to follow to send out a bulk notification to registrants about the disruption and reschedule the date. If you run into any problems, please [open an issue](https://about.gitlab.com/handbook/marketing/marketing-operations/) with the Marketing Ops team for help. For urgent requests, also include the issue link in the slack channel `#mktgops`.
 
 **DRI: FMM**  
 
@@ -533,7 +533,7 @@ There are certain occassions when a workshop needs to urgently be rescheduled du
 
 ### Rescheduling a Workshop or Webcast
 
-PLEASE NOTE: The below instructions are only for virtual workshops. If you are rescheduling an in-person workshop (a workshop that is NOT utilizing our Zoom integration), then please follow our general rescheduling instructions [here](/handbook/marketing/field-marketing/#rescheduling-or-canceling-events).
+PLEASE NOTE: The below instructions are only for virtual workshops. If you are rescheduling an in-person workshop (a workshop that is NOT utilizing our Zoom integration), then please follow our general rescheduling instructions [here](https://about.gitlab.com/handbook/marketing/field-marketing/#rescheduling-or-canceling-events).
 
 #### FMM Tasks
 
@@ -543,49 +543,49 @@ PLEASE NOTE: The below instructions are only for virtual workshops. If you are r
 
 #### FMC Tasks
 
-- The FMC will update the event listing in the [Marketing Calendar](/handbook/marketing/#marketing-calendar) with the updated date.
+- The FMC will update the event listing in the [Marketing Calendar](https://about.gitlab.com/handbook/marketing/#marketing-calendar) with the updated date.
 - The FMC will update the date in the [GitLab Hosted Zoom Webcasts](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) calendar invite.
-- The FMC will submit an MR to remove the Webcast listing on the [Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) so we are not promoting an outdated event (FMC will re-submit a new listing in steps further below).
+- The FMC will submit an MR to remove the Webcast listing on the [Events Page](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) so we are not promoting an outdated event (FMC will re-submit a new listing in steps further below).
 - The FMC will update the epic details and sub-issue due dates (and issue titles), as well as make the necessary changes to any upcoming asset send dates. If there are any emails scheduled to send, the FMC will ping MOps specifically in those issues to have them unschedule the sends first.
 - The FMC will reschedule the Dry Run invite in the [GitLab Hosted Zoom Webcasts](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) calendar.
 - The FMC will update the `{{my.webcastDate}}` token with the new date.
 - If there are existing registrants in the program, create a [Reschedule Webcast Email sub-issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/request_email_invite.md), either utilizing the template in the folder of your Marketo program titled `z. Cancellation/Reschedule` or request the FMM update copy in the copy doc template (copy example [here](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#bookmark=kix.z3zivyrxl4tz)). Triage to MOps and request an urgent send. 
-- Create a new Zoom program with the new webcast date/time following the steps outlined in [the section above](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#step-1-configure-zoom).
-- Create a new Marketo program with the new webcast date/time following the steps outlined in [the section above](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#create-program-in-marketo) minus the create new campaign in SFDC step, since we will be syncing to the existing SFDC program in a later step.
+- Create a new Zoom program with the new webcast date/time following the steps outlined in [the section above](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#step-1-configure-zoom).
+- Create a new Marketo program with the new webcast date/time following the steps outlined in [the section above](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#create-program-in-marketo) minus the create new campaign in SFDC step, since we will be syncing to the existing SFDC program in a later step.
 - If you are rescheduling your webcast due to technical difficulties the day of the event (if the event has technically completed in Zoom and your statuses have already been triggered) you will need assistance from Marketing Operations from this point forward so they can adjust certain Marketo details and make sure all registrants are moved over to the new program. Open a [Marketing Operations issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template) and link your epic with the old and new Marketo programs and SFDC campaigns and specify that you will need assistance moving all registrants over to the new program.
-- If you are not familiar or uncomfortable with the following steps, please create a [Marketing Ops issue](/handbook/marketing/marketing-operations/#issues) to request assistance and ping MOps in the `#mktgops` channel with the issue, if the request is urgent.
-   - Move the landing page from the Marketo program with old webcast date/time to the newly created Marketo program with new webcast date/time. This should automatically move the registrants from the original Marketo program to the new program and also trigger Zoom to send a new confirmation email. If this does not happen, please complete the next step below. **NOTE:** All registrants in the program (including hosts and panelists) will receive a new personalized Zoom registration link at this time. Marketo does not differentiate between hosts/panelists and regular registrants, so the hosts and panelists will need to be made aware that they should NOT utilize the standard Zoom URLs they will receive during this point in the process. Instead, they will utilize the host and panelists Zoom URLs that will be sent to them (and linked in the Dry Run Agenda) during the [dry run scheduling process](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#securing-a-virtual-workshop-or-webcast-dry-run-date).
+- If you are not familiar or uncomfortable with the following steps, please create a [Marketing Ops issue](https://about.gitlab.com/handbook/marketing/marketing-operations/#issues) to request assistance and ping MOps in the `#mktgops` channel with the issue, if the request is urgent.
+   - Move the landing page from the Marketo program with old webcast date/time to the newly created Marketo program with new webcast date/time. This should automatically move the registrants from the original Marketo program to the new program and also trigger Zoom to send a new confirmation email. If this does not happen, please complete the next step below. **NOTE:** All registrants in the program (including hosts and panelists) will receive a new personalized Zoom registration link at this time. Marketo does not differentiate between hosts/panelists and regular registrants, so the hosts and panelists will need to be made aware that they should NOT utilize the standard Zoom URLs they will receive during this point in the process. Instead, they will utilize the host and panelists Zoom URLs that will be sent to them (and linked in the Dry Run Agenda) during the [dry run scheduling process](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#securing-a-virtual-workshop-or-webcast-dry-run-date).
    - (Needed only if the above step did not automatically move registrants and trigger a new Zoom confirmation email.) Move the registrants from the Marketo program with old webcast date/time to the newly created marketo program with new webcast date/time by running a one time bulk update on the `(Optional: for rescheduled webcast only) Import registrants from old program` smart campaign. Doing this will also re-trigger the confirmation email to existing registrants.
    - Remove the SFDC campaign sync on the Marketo program with old webcast date/time by clicking salesforce campaign sync and selecting `None`.
    - Go to SFDC and change the ISO date in the SFDC campaign name for the webcast to the new date. 
    - Go back to Marketo. Sync the SFDC campaign to the Marketo program with new webcast date/time by clicking salesforce campaign sync and selecting the name of the SFDC campaign.
-   - Go back to the original Marketo program with the old webcast date/time and deactivate the smart campaigns. Add `[CANCELED]` to the program name. Deactivate any [activated smart campaigns](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4-activate-marketo-smart-campaigns).
+   - Go back to the original Marketo program with the old webcast date/time and deactivate the smart campaigns. Add `[CANCELED]` to the program name. Deactivate any [activated smart campaigns](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4-activate-marketo-smart-campaigns).
 - FMC to ping MOps with the Marketo program link in the `#mktgops` Slack channel and request the program be deleted (FM does not have access in Marketo to delete programs).
 - Go to Zoom, delete the Zoom program with the old webcast date/time and make sure to uncheck `send webinar cancellation email to panelists and registrants`.
-- The FMC will submit an MR to re-submit the Webcast on the [Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) with the new date and updated LP URL.
+- The FMC will submit an MR to re-submit the Webcast on the [Events Page](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) with the new date and updated LP URL.
 
 ## Canceling a Workshop or Webcast
 
-PLEASE NOTE: The below instructions are only for virtual workshops. If you are canceling an in-person workshop (a workshop that is NOT utilizing our Zoom integration), then please follow our general cancelation instructions [here](/handbook/marketing/field-marketing/#rescheduling-or-canceling-events).
+PLEASE NOTE: The below instructions are only for virtual workshops. If you are canceling an in-person workshop (a workshop that is NOT utilizing our Zoom integration), then please follow our general cancelation instructions [here](https://about.gitlab.com/handbook/marketing/field-marketing/#rescheduling-or-canceling-events).
 
 ### FMM Tasks
 
 - FMM to update Allocadia showing the event as canceled by going to the event sub-category panel and selecting `Yes` to the `Campaign Cancelled?` dropdown. FMM to also add in `CANCELED` to the `Official Event/Campaign Name` field so the title in the main issue stays updated.
 - FMM to remove any planned/forecasted costs in Allocadia accordingly.
 - FMM to ping the FMC and staff/DRIs in the main Field Marketing issue to communicate the cancelation and close out the issue.
-- If there are registrations for the event, please either notify the registrants of the cancelation directly, or ask your FMC to create a cancelation email issue and provide copy in the copy doc. Note that this email must follow the [MOps SLA](/handbook/marketing/marketing-operations/campaign-operations/#slas).
+- If there are registrations for the event, please either notify the registrants of the cancelation directly, or ask your FMC to create a cancelation email issue and provide copy in the copy doc. Note that this email must follow the [MOps SLA](https://about.gitlab.com/handbook/marketing/marketing-operations/campaign-operations/#slas).
 
 ### FMC Tasks
 
-- The FMC will update the [Marketing Calendar](/handbook/marketing/#marketing-calendar) by selecting the event line item and adding a strikethrough to indicate the event has been canceled.
+- The FMC will update the [Marketing Calendar](https://about.gitlab.com/handbook/marketing/#marketing-calendar) by selecting the event line item and adding a strikethrough to indicate the event has been canceled.
 - The FMC will delete the invite in the [GitLab Hosted Zoom Webcasts](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) calendar.
-- The FMC will submit an MR to delete the event listing on the [Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents).
+- The FMC will submit an MR to delete the event listing on the [Events Page](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents).
 - The FMC will comment regarding the cancelation in all open sub-issues and close out the issues. If there are any emails scheduled to send, the FMC will ping MOps specically in those issues to have them unschedule the sends first.
 - The FMC will unschedule the Dry Run invite in the [GitLab Hosted Zoom Webcasts](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) calendar.
 - If the FMM is not sending their own cancelation email to registrants and would like to send a Marketo cancellation email, create an [issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/request_email_invite.md) for the request and triage to Marketing Ops. Please Note: This email must be scheduled and sent BEFORE the rest of the steps below can be completed.
 - Once all sub-issues are closed, the FMC will also note the cancelation in the epic and close the epic.
 - SFDC: Add `[CANCELED]` to the campaign name and select `Aborted` in the `Campaign Status` dropdown.
-- Marketo: Add `[CANCELED]` to the program name. Go to the `Salesforce campaign sync` field and click on the linked campaign, select `None` from the dropdown and click `Save.` This removes the SFDC and Marketo sync for the program. Deactivate any [activated smart campaigns](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4-activate-marketo-smart-campaigns).
+- Marketo: Add `[CANCELED]` to the program name. Go to the `Salesforce campaign sync` field and click on the linked campaign, select `None` from the dropdown and click `Save.` This removes the SFDC and Marketo sync for the program. Deactivate any [activated smart campaigns](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4-activate-marketo-smart-campaigns).
 - FMC to ping MOps with the Marketo program link in the `#mktgops` Slack channel and request the program be deleted (FM does not have access in Marketo to delete programs). Please Note: Once the Marketo program is deleted, the Marketo LP will also be deleted and not accessible by anyone with the registration link.
 - Go to Zoom, delete the webcast program from Zoom and make sure to uncheck `send webinar cancellation email to panelists and registrants` since this is already covered above.
 
@@ -625,7 +625,7 @@ Please note, GitLab-owned workshops have $0 cost to the team in regards to platf
 ## Virtual Workshop Epic Code
 **DRI: FMM and FMC**
 
-**Please see workshop epic code [here](/handbook/marketing/field-marketing/field-marketing-epics/#workshops).**
+**Please see workshop epic code [here](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-epics/#workshops).**
 
 ## Virtual Workshop Set-Up
 `NOTE: Please make sure your Webcast or Workshop date is confirmed before starting the below process. Moving a Webcast or Workshop date is extremely time-intensive once setup is complete.`
@@ -633,7 +633,7 @@ Please note, GitLab-owned workshops have $0 cost to the team in regards to platf
 ### Virtual Workshop Logistical Set-Up 
 **DRI: FMM, FMC and Marketing Ops**
 
-Instructions for Virtual Workshop Zoom / Marketo / SFDC set-up can be found in the Webcast Set-Up instructions [HERE](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#webcast-setup).
+Instructions for Virtual Workshop Zoom / Marketo / SFDC set-up can be found in the Webcast Set-Up instructions [HERE](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#webcast-setup).
 
 There are only minor modifications to those instructions for workshops and they are detailed out below.
 
@@ -644,19 +644,19 @@ There are only minor modifications to those instructions for workshops and they 
 
 This includes the program, SFDC, Zoom, landing pages, and emails as they are templatized to operate from the Marketo My Tokens level.
 
-1. Create the workshop program in Marketo by cloning the appropriate [Workshop Marketo Program](/handbook/marketing/marketing-operations/campaigns-and-programs/#hybrid-marketo-templates).
-1. Complete the rest of the steps as outlined in the [webcast setup instructions](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#step-2-set-up-the-webcast-in-marketosfdc-and-integrate-to-zoom). Note there are more tokens to complete for the workshop and details for each are contained in the token value area.
+1. Create the workshop program in Marketo by cloning the appropriate [Workshop Marketo Program](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#hybrid-marketo-templates).
+1. Complete the rest of the steps as outlined in the [webcast setup instructions](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#step-2-set-up-the-webcast-in-marketosfdc-and-integrate-to-zoom). Note there are more tokens to complete for the workshop and details for each are contained in the token value area.
 
 #### Test Your Setup
 **DRI: FMC**  
 
-Please follow the instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#step-5-test-your-setup).  
+Please follow the instructions [here](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#step-5-test-your-setup).  
 
 #### Marketo Landing Page Setup
 **DRI: Marketing Ops**
 
-1. Complete the Marketo tokens specified [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#marketing-ops-tokens).
-1. Follow the landing page setup instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#step-3c-create-the-landing-page).
+1. Complete the Marketo tokens specified [here](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#marketing-ops-tokens).
+1. Follow the landing page setup instructions [here](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#step-3c-create-the-landing-page).
 
 #### Workshop Invitations
 **DRI: Marketing Ops**  
@@ -675,7 +675,7 @@ Please note that our new demo environment, gitlab.com group Learn Labs + Instruq
 #### On-Demand for Workshops
 **DRI: FMM & FMC** 
 
-Please see instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#converting-the-webcast-to-an-on-demand-gated-asset).
+Please see instructions [here](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#converting-the-webcast-to-an-on-demand-gated-asset).
 
 #### Workshop Registration Caps and Closing Registration
 **DRI: FMC and FMM**  
@@ -686,7 +686,7 @@ The GitLab Learn Labs environment can currently support up to 250 users at one t
 FMCs are the DRIs for checking the registration numbers regularly via the Marketo program (linked in the epic code - registration numbers are listed on the main Marketo program page) or SFDC campaign (by pulling a report and sorting by the Registered field). Note that due to potential delays with the sync between Marketo and SFDC, it is recommended to check the Registration number in Marketo. 
 
 ##### Closing Registration
-- Once capacity is reached, the FMC will follow [these instructions](/handbook/marketing/field-marketing/#process-to-close-marketo-landing-pages-and-landing-page-forms). 
+- Once capacity is reached, the FMC will follow [these instructions](https://about.gitlab.com/handbook/marketing/field-marketing/#process-to-close-marketo-landing-pages-and-landing-page-forms). 
 
 ##### Instructions for Closing Registration for a Workshop
 *Note: Instructions for closing registration landing pages varies, depending on the campaign type/Marketo template. Please only utilize the below instructions to close a workshop LP.*
@@ -697,7 +697,7 @@ In order to cap registration, we remove the registration form on the Landing Pag
 
 [**Closing Registration in Marketo Instructional Video**](https://www.youtube.com/watch?v=C5lC1eUjjzU&feature=youtu.be)
 
-*This video has been uploaded as a private video in GitLab Unfiltered. You MUST be logged into Unfiltered to view the video. Instructions on how to log into GitLab Unfiltered can be found [here](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).*
+*This video has been uploaded as a private video in GitLab Unfiltered. You MUST be logged into Unfiltered to view the video. Instructions on how to log into GitLab Unfiltered can be found [here](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).*
 
 **Instructions:**  
 
@@ -720,30 +720,30 @@ In order to cap registration, we remove the registration form on the Landing Pag
 
 1. Review the current workshops and identify if what is offered meets your criteria or if a new workshop needs to be created to meet your objectives.   
 **Current available Workshops can be found [**Here**](https://drive.google.com/drive/folders/1L_kd6QudSWcvAKDM-h6oPvvC6LiNj_ER)**
-1. Identify if a workshop is currently planned that might support your needs. [Click here](/handbook/marketing/virtual-events/#calendar) to view calendar of scheduled events.
+1. Identify if a workshop is currently planned that might support your needs. [Click here](https://about.gitlab.com/handbook/marketing/virtual-events/#calendar) to view calendar of scheduled events.
 1. Work with Customer Success team (SAs) to identify the lead instructors/presenters. You must have your lead instructor identified at this time and work together to select a date.  
 1. Once a date has been confirmed, Lead SA must coordinate with the Demo Engineer (Logan Stucker) to obtain the demo environment redemption code and discuss SLAs to ensure demo meets code requirements.
-1. If the audience is account centric, if you are not doing paid social media, or need your own workshop due to your account goals, consider running an Owned Event utilizing your personal Zoom account. Sales can run on their own, or with field marketing. If not, then it would qualify as a Webcast. [Click here for virtual events decision tree for more information.](/handbook/marketing/virtual-events/#decision-tree)   
+1. If the audience is account centric, if you are not doing paid social media, or need your own workshop due to your account goals, consider running an Owned Event utilizing your personal Zoom account. Sales can run on their own, or with field marketing. If not, then it would qualify as a Webcast. [Click here for virtual events decision tree for more information.](https://about.gitlab.com/handbook/marketing/virtual-events/#decision-tree)   
 1. Work with the Sales Team to identify who your Moderator (MC) will be; recommend this be one of your SAEs. Moderator will set the tone for the workshop as well as introduce presenters throughout the event and announce poll questions/answers.
 1. Create a [Zoom License Request](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_zoom_license_date)
    - The date reservation request must be submitted no less than 32 business days prior to event date for existing copy and content and 45 days prior to the event date for new copy and content.  
    - For workshops, the moderator and lead SA must be secured in order to reserve the date.
-   - The FMC will assign/confirm the date of the webcast according to [this process](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#securing-a-virtual-workshop-or-webcast-date).
+   - The FMC will assign/confirm the date of the webcast according to [this process](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#securing-a-virtual-workshop-or-webcast-date).
 1. Once you have obtained a Webcast date, create a Field Marketing issue for a virtual workshop utilizing the [Virtual Workshop Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Workshop_Template).
-1. FMM will ping FMC to create epic and sub-issues (linked in [epic code](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-epic-code)).
+1. FMM will ping FMC to create epic and sub-issues (linked in [epic code](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-epic-code)).
 1. Once the FMC has created the sub-issues they are responsible for (broken out in the epic code), they will then ping the FMM to create any of the optional sub-issues they may require (also broken out in the epic code).
 1. FMC and FMM will assign the due dates for their appropriate sub-issues according to the [SLA workback schedule](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280)
-1. Once Marketing Ops creates the landing page, they will ping the FMM to review. Once the landing page is live, the FMM will ping the FMC to add the workshop to the GitLab Events Page utilizing this [step by step guide](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents). FMC also to make sure the landing page is linked in the epic. 
+1. Once Marketing Ops creates the landing page, they will ping the FMM to review. Once the landing page is live, the FMM will ping the FMC to add the workshop to the GitLab Events Page utilizing this [step by step guide](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents). FMC also to make sure the landing page is linked in the epic. 
 1. FMM to create the [Template for Certification of Completion](https://drive.google.com/drive/u/0/folders/1D9ReKCU7dhbHbkLotKgh4D7dZZ9m2IHS)   
 1. Note about Optional Issues:  
    - For workshop design requests, you have the option of opening a [Marketing Design Request](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=request-design-general) or utilizing [Canva](https://www.canva.com/design/DAD-xgXwnrk/8irvi2Qv08B1riRCt7EEoQ/view?utm_conte
-nt=DAD-xgXwnrk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview) in a self-serve capacity (see [below](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#canva) for Canva instructions and templates).    
+nt=DAD-xgXwnrk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview) in a self-serve capacity (see [below](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#canva) for Canva instructions and templates).    
 1. Review Marketing Copy Doc - Update copy for landing page, emails, update the times, dates, redemption code in the 1-week reminder emails. Note that changes to the landing page or email copy will require the 45 day SLA noted above for new copy/content.
    - If new content: Work with Presenters/Instructors to create presentation slides, labs, demos, as well as copy for landing page and emails. 
    - If existing content: Work with Presenters/Instructors to update presentation slides. 
 1. FMM DRI to work together on developing the script for MC within the Dry Run document utilizing the [Dry Run Template](https://docs.google.com/document/d/1DzNkJnwlVOB1vw4yvgXtIxtddfw_x4u7WC9xAqSVEHM/edit?ts=5f2414fd). 
    - FMM also needs to compile Presenter’s Bio’s to include in the script for MC to announce as a brief introduction during the workshop before they begin their portion. 
-   - For more details, please review the [Workshop Dry Run and Q&A Section](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#workshop-dry-run-and-qa) below.
+   - For more details, please review the [Workshop Dry Run and Q&A Section](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#workshop-dry-run-and-qa) below.
 1. FMM to fill out [Dry Run Template](https://docs.google.com/document/d/1ePmUc0ZUgO4aip8i3hjkROh2hKIO3WuQ7h0aSl0IsZA/edit) with roles/responsibilities/quick links and more. 
 1. FMM will need to create the [Intro and Transition Slidedeck](https://docs.google.com/presentation/d/19BD2fZ2fN1AcvWo-Xf9bEL8AR8R6sYxY1s2aA6gfEF4/edit) and Lead SA to create remaining Workshop slides and update content in the Workshop Google drive [here](https://drive.google.com/drive/folders/1qAymFTiXFEk-lRSNreIhaZ6Z62fdo_y2). 
 1.  Update/Create Post event survey questions and google form.  [Click here for an Example](https://docs.google.com/forms/d/e/1FAIpQLSfHyhxwMhJz5mTqSKi9y3-hPYhPPAvsx9mvn5SGUblkFn9WPA/viewform)  
@@ -757,7 +757,7 @@ nt=DAD-xgXwnrk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&m
 
 #### Canva
 **DRI: FMM**
-* Use [GitLab's Virtual Events Promotional Templates on Canva](/handbook/marketing/virtual-events/self-service-virtual-events/#how-to-make-images-for-your-self-service-virtual-event).
+* Use [GitLab's Virtual Events Promotional Templates on Canva](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#how-to-make-images-for-your-self-service-virtual-event).
 * Follow the directions on the first slide of the template.
 * Once your image is made, click the "share" button, followed by the "download" button, and you've made your promotional image!
 
@@ -773,10 +773,10 @@ The Field Marketing team utilizies a shared Canva Enterprise login. The account 
 We have 4 workshop Pathfactory track templates, one for each workshop. To navigate to these templates, go to `Campaign Tools` - `Target` - `Field Marketing folder` - `Workshop Templates sub-folder`. The FMC will clone the appropriate workshop track and add in the presentation deck from that particular workshop. This Pathfactory track will then be included in the follow-up email sent out after the workshop.
  
 #### Pathfactory Training References
-* [Pathfactory Handbook Page](/handbook/marketing/marketing-operations/pathfactory/)
-* [Pathfactory Author Training](/handbook/marketing/marketing-operations/pathfactory/#training)
+* [Pathfactory Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/)
+* [Pathfactory Author Training](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#training)
  * Adding Content: 5:50 min mark
- * Cloning Tracks: 16 min mark for target track (workshop tracks are set up as [target tracks](/handbook/marketing/marketing-operations/pathfactory/#pathfactory-campaign-tools))
+ * Cloning Tracks: 16 min mark for target track (workshop tracks are set up as [target tracks](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#pathfactory-campaign-tools))
  
 #### Uploading the Presentation Deck
 Once you have the final workshop presentation deck, follow the below instructions to add that content to Pathfactory.  
@@ -791,7 +791,7 @@ Once you have the final workshop presentation deck, follow the below instruction
 1. `Custom URL Slug` should **always** be created for an asset (example - CICDWorkshop-1/12/21). No spaces, each word should be separated by a dash and try to keep slug as short as possible. 
 1. Don’t adjust `Scoring`
 1. Adjust to the appropriate `Language` utilized in your content
-1. `Business Units` is the [GTM Motion](/handbook/marketing/plan-fy22/#gtm-motions) associated with the piece of content. Every asset should be tagged and aligned to a GTM motion.
+1. `Business Units` is the [GTM Motion](https://about.gitlab.com/handbook/marketing/plan-fy22/#gtm-motions) associated with the piece of content. Every asset should be tagged and aligned to a GTM motion.
 1. `Personas` is WIP and does not currently need to be added
 1. `Industry` can be left blank but if you do have a specific industry you would like to tag, you can do so.
 1. `Expiry Date` should be left blank (this field is mostly used for analyst reports)
@@ -805,7 +805,7 @@ Once you have the final workshop presentation deck, follow the below instruction
 Note: Cloning a track will pull over all settings from that initial track. All workshop tracks are set up appropriately and should not require any adjustment.
 1. Click into the track you would like to clone
 1. At the top left corner, you will see a double screen icon that indicates you wish to clone the track. Click on that icon.
-1. Follow [these naming conventions](/handbook/marketing/marketing-operations/pathfactory/#naming-conventions) to name your new track
+1. Follow [these naming conventions](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#naming-conventions) to name your new track
 1. `Parent Folder` - Select the `Workshop Tracks` folder
 1. `Labels` - Add `Email`
 1. Click `Clone Track`
@@ -814,12 +814,12 @@ Note: Cloning a track will pull over all settings from that initial track. All w
 1. Click `Add Content` to find/add in your previously uploaded presentation deck
 1. Since this is a target track, you are able to move around the pieces of content in any order
 1. Refresh any changes you make
-1. Add your new track to the [Changelog](/handbook/marketing/marketing-operations/pathfactory/#changelog)
+1. Add your new track to the [Changelog](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#changelog)
 
 #### Adding the Track to Marketo Token and Checking Follow up Email
 
 1. When you are in your newly cloned Pathfactory track, go to the top left corner and click on the `Get Share URL` icon. Copy the URL link. You do not need to add a `Query String`.
-1. Click into your campaign’s Marketo program tokens and update `{{my.pfslidelink}}` with your new Pathfactory track by following [these instructions](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#fmc-tokens).
+1. Click into your campaign’s Marketo program tokens and update `{{my.pfslidelink}}` with your new Pathfactory track by following [these instructions](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#fmc-tokens).
 1. Helpful Hint: Once you receive final slides from the FMM and add to the Pathfactory track, it's a good idea for you both to go back to your follow up email test (email also available to preview in the Marketo program) and make sure the presentation link button in the email is taking you to the correct Pathfactory track with updated presentation.
 
 #### Workshop Dry Run and Q&A
@@ -1058,7 +1058,7 @@ Base Lab Project (example below):
 
 ## Changing a Workshop Date or Cancelling a Workshop
 
-For details on this process, please reference [this section](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#rescheduling-a-webcast).
+For details on this process, please reference [this section](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#rescheduling-a-webcast).
 
 
 # Owned Events Hosted on Personal Zoom Accounts
@@ -1071,19 +1071,19 @@ Note that our capacity for events run on personal Zoom accounts is 200 attendees
 
 ## Epic
 
-**Please see the Owned Events epic code [here](/handbook/marketing/field-marketing/field-marketing-epics/#owned-events)**    
+**Please see the Owned Events epic code [here](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-epics/#owned-events)**    
 
 **DRI: FMM & FMC**      
 
-## [Best Practices](/handbook/marketing/virtual-events/self-service-virtual-events/#best-practices)
+## [Best Practices](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#best-practices)
 
 **DRI: FMM**  
 
-## [Promotion Guidelines](/handbook/marketing/virtual-events/self-service-virtual-events/#self-service-virtual-event-promotion-guide)
+## [Promotion Guidelines](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#self-service-virtual-event-promotion-guide)
 
 **DRI: FMM**  
 
-## [Logistical Setup](/handbook/marketing/virtual-events/self-service-virtual-events/#logistical-set-up)  
+## [Logistical Setup](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#logistical-set-up)  
 
 **DRI: FMM**  
 
@@ -1095,15 +1095,15 @@ Note that our capacity for events run on personal Zoom accounts is 200 attendees
 - If you plan on sending a Marketo reminder email to attendees, you do not need to set up the reminder email in Zoom.
 In order for your FMC to triage your Marketo LP issues, you **must** have your Zoom event set up in advance and link your URL in the FMC Checklist section of your FM issue. 
 
-## [During the Event](/handbook/marketing/virtual-events/self-service-virtual-events/#during-the-event)
+## [During the Event](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#during-the-event)
 
 **DRI: FMM**  
 
-## [Post Event](/handbook/marketing/virtual-events/self-service-virtual-events/#post-event)
+## [Post Event](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#post-event)
 
 **DRI: FMM**  
 
-## [Results](/handbook/marketing/virtual-events/self-service-virtual-events/#results)
+## [Results](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#results)
 
 
 
