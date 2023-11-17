@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Search Marketing"
 description: "The Search Marketing focuses on growing revenue for GitLab by increasing traffic and improving conversion rates on GitLab's public websites"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Search Marketing
 
@@ -16,13 +16,13 @@ The Search Marketing team focuses on helping grow revenue for GitLab by increasi
 
 ## Meet the Search Marketing team
 
-[**Niall Cregan**](https://about.gitlab.com/company/team/#niallcregan)
+[**Niall Cregan**](/handbook/company/team/#niallcregan)
 
 * Title: Search Marketing Manager
 * GitLab handle: ncregan
 * Slack handle: @Niall Cregan
 
-[**Hanif Smith-Watson**](https://about.gitlab.com/company/team/#hsmith-watson)
+[**Hanif Smith-Watson**](/handbook/company/team/#hsmith-watson)
 * Title: Search Marketing Manager
 * GitLab handle: hsmith-watson
 * Slack handle: @Hanif Smith-Watson 
@@ -32,8 +32,8 @@ The Search Marketing team focuses on helping grow revenue for GitLab by increasi
   * site health for about.gitlab.com
   * keyword research
   * search architecture
-* [Marketing website analytics](/handbook/marketing/inbound-marketing/search-marketing/analytics/)
-* [Testing changes to improve conversion](/handbook/marketing/inbound-marketing/search-marketing/testing/)
+* [Marketing website analytics](https://about.gitlab.com/handbook/marketing/inbound-marketing/search-marketing/analytics/)
+* [Testing changes to improve conversion](https://about.gitlab.com/handbook/marketing/inbound-marketing/search-marketing/testing/)
   * on page CTAs (call to action)
   * A/B testing
 
@@ -50,7 +50,7 @@ We publish our total conversion rate monthly in dataStudio.
 * [Google Analytics](https://analytics.google.com/analytics/web/): Google Analytics lets you measure your advertising ROI as well as track your Flash, video, and social networking sites and applications.
 * [Hotjar](https://www.hotjar.com/): Hotjar is a powerful tool that reveals the online behavior and voice of your users. By combining both Analysis and Feedback tools, Hotjar gives you the ‘big picture’ of how to improve your site's user experience and performance/conversion rates.
 * [Google Optimize](https://optimize.google.com/optimize/home/): Google Website Optimizer was a free website optimization tool that helped online marketers and webmasters increase visitor conversion rates and overall visitor satisfaction by continually testing different combinations of website content.
-* [Sitebulb](/handbook/marketing/inbound-marketing/search-marketing/sitebulb/): Sitebulb is a  website auditing tool for search engine optimization.
+* [Sitebulb](https://about.gitlab.com/handbook/marketing/inbound-marketing/search-marketing/sitebulb/): Sitebulb is a  website auditing tool for search engine optimization.
 
 ### Organic discovery
 Most people entering gitlab.com and all sub-domains start their journey on a search engine. Our team's goal is to help them discover the most relevant and accurate match for their query.

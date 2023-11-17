@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Sitebulb"
 description: "Sitebulb is a website auditing tool for search engine optimization."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## About
 
@@ -16,7 +16,7 @@ Sitebulb is a website auditing tool for search engine optimization.
 
 ## Access
 
-Access is limited based on the amount of licenses we've purchased. To request access, follow the standard [access request process](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). Depending on the business case and availability of licenses, your request may be granted or denied. 
+Access is limited based on the amount of licenses we've purchased. To request access, follow the standard [access request process](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). Depending on the business case and availability of licenses, your request may be granted or denied. 
 
 ## Use
 

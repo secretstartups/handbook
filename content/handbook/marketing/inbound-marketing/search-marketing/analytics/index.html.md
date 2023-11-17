@@ -1,17 +1,17 @@
 ---
-layout: handbook-page-toc
+
 title: "Marketing web analytics"
 description: "Our marketing team uses analtyics tools to understand how people discover and use our marketing website."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 # Marketing web analytics
-{:.no_toc}
+
 
 Our marketing team uses analtyics tools to understand how people discover and use our marketing website. The Inbound Marketing team manages the analytics implementation for our public websites, including about.gitlab.com and docs.gitlab.com. Our tools include Google Tag Manager, Google Analytics, and Google dataStudio. 
 
@@ -146,7 +146,7 @@ If you are making changes to the GTM container and have questions about what to 
 
 #### dataLayer values
 
-Today we’re using the dataLayer sparingly on about.gitlab.com, with our primary use focused on [differentiating blog content with `postType`](/handbook/marketing/blog/#post-type). We’ll expand how we use the dataLayer to create content groupings for improved customer journey insights and document those updates here.
+Today we’re using the dataLayer sparingly on about.gitlab.com, with our primary use focused on [differentiating blog content with `postType`](https://about.gitlab.com/handbook/marketing/blog/#post-type). We’ll expand how we use the dataLayer to create content groupings for improved customer journey insights and document those updates here.
 
 #### Event tags
 
@@ -221,7 +221,7 @@ Google Analytics limits event label fields to around 2000 characters, and we'll 
 We're using Simo Ahava's Googl Sheets Add-On to sync notes for our tags and create a [GitLab Google Tag Manager inventory](https://docs.google.com/spreadsheets/d/1oT5AQQ0nH4-7iS-QY-UJP4vbFxv2GCGy9XiKpj8ebuU/edit#gid=1443259273) This simplifies scanning and searching over the Google Tag Manager web app.
 
 ### Changes of note
-Whenever we make major changes to tags through Google Tag Manager we document them in [changes of note](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/changes-of-note/). Examples of changes we document are adding or removing tags, changing tag sequencing, or changing when a tag is fired.
+Whenever we make major changes to tags through Google Tag Manager we document them in [changes of note](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/changes-of-note/). Examples of changes we document are adding or removing tags, changing tag sequencing, or changing when a tag is fired.
 
 ### Using marketing trend data
 

@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "SEO Content Manual"
 description: "The aim of this manual is to help create content that provides use and value to both searchers and search engines."
 canonical_path: "/handbook/marketing/inbound-marketing/search-marketing/seo-content-manual/"
 ---
 
-## On this page 
-{:.no_toc .hidden-md .hidden-lg}
-- TOC
-{:toc .hidden-md .hidden-lg}
+ 
+
+
+
 
 ## Introduction and Purpose
 
@@ -101,7 +101,7 @@ A brief overview of some of the most valuable resources and assets that are util
 
 1. [**Product and Solution Marketing**](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/#some-key-resources) - linking with a member of the team and accessing their wealth of information and research resources provides exceptional insight into our customers allowing for up to date targeting using customer focus language and needs.
 
-1. [**Key personas &amp; pain points**](https://about.gitlab.com/handbook/product/personas/) - user persona research assists in the identification of possible keyword targets for a specific audience based on their requirements, motivations and pain points. As a resource, this is excellent for establishing problem solving keyword targets for specific segments.
+1. [**Key personas &amp; pain points**](/handbook/product/personas/) - user persona research assists in the identification of possible keyword targets for a specific audience based on their requirements, motivations and pain points. As a resource, this is excellent for establishing problem solving keyword targets for specific segments.
 
 1. [**Chorus**](https://chorus.ai/) - provides information and insight based on customer conversations, and most importantly, using their own language. The filtering and analysis of discussion transcripts inform keyword targeting research and assist in the identification of current terms. An additional benefit is the capability of contextual analysis of specific terms.
 

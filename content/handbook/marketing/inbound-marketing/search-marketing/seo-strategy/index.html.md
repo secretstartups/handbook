@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "GitLab SEO strategy"
 description: "The Search Marketing team is repsonsible for the creation and execution of GitLab's SEO strategy."
 ---

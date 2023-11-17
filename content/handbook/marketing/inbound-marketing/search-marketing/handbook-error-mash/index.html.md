@@ -1,18 +1,18 @@
 ---
-layout: handbook-page-toc
+
 title: "Website Health Resolution"
 description: "Let's fix about.gitlab.com together!"
 noindex: true
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 # Website Health New Year Resolution
-{:.no_toc}
+
 
 The Search Marketing team wants to ask for your help to fix SEO errors across the handbook. For the next 4 weeks, we're asking teams to look at their section of the handbook and fix duplicate or missing page titles, descriptions, and broken links. 
 
@@ -46,7 +46,7 @@ The Search Marketing team made a series of videos showing why fixing these error
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W40ciCKtzpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-While you're fixing those broken links, consider [making the link text meaningful](/handbook/markdown-guide/#links) if it isn't already. This helps to improve our site's accessibility for people who use screen readers.
+While you're fixing those broken links, consider [making the link text meaningful](https://about.gitlab.com/handbook/markdown-guide/#links) if it isn't already. This helps to improve our site's accessibility for people who use screen readers.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1K8irzpGExY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
