@@ -1,6 +1,5 @@
 ---
 title: "Red Team"
-description: "GitLab's internal Red Team extends the objectives of penetration testing by examining the security posture of the organization and their ability to implement effective cyber defenses."
 ---
 
 GitLab's internal Red Team conducts security exercises that emulate real-world threats. We do this to help assess and improve the effectiveness of the people, processes, and technologies used to keep our organization secure.
