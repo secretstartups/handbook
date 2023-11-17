@@ -1,20 +1,20 @@
 ---
-layout: handbook-page-toc
+
 title: "GitLab PMG Team"
 description: "The GitLab Digital Strategy team works directly with our digital agency PMG to execute all paid digital campaigns."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## PMG
 {: #agency}
 
 ### Who is PMG?
-The [GitLab Digital Strategy team](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/) works directly with our digital agency PMG to execute all paid digital campaigns. PMG fees are a percentage of the paid digital advertising spend, so total budgets will include the effective spend + PMG fee. For GitLab digital initiatives, PMG contributions & activities include:
+The [GitLab Digital Strategy team](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/) works directly with our digital agency PMG to execute all paid digital campaigns. PMG fees are a percentage of the paid digital advertising spend, so total budgets will include the effective spend + PMG fee. For GitLab digital initiatives, PMG contributions & activities include:
 - Working closely with GitLab on quarterly and monthly media planning for primarily top and middle funnel paid digital strategy that aligns with GitLab pipeline goals.
 - Building and executing campaign launches once all materials and direction are received from the GitLab side.
 - Strategically & competitively bidding and negotiating for efficient ad units and sponsorship programs.
@@ -158,7 +158,7 @@ Before the beginning of each fiscal year, GitLab and PMG meet to review the Digi
 
 - **[Please refer to this Mural for GitLab's FY23 Paid Digital Campaign structure](https://app.mural.co/t/gitlab2474/m/gitlab2474/1643743560333/b21487a8f639d5981526c20164cad39cb9faca43?sender=uda52d8b28f84e1a3d6af1431).**
 
-Before each upcoming quarter, the teams will meet for [media planning](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#digital-campaign-planning-timeline) sessions to determine the coverage mix for our paid digital programs. Given the quarter’s KPI goals as a whole & per segment/region, the media planning’s key topics include the degree of coverage for the following (tiers listed in order of [visualization](https://app.mural.co/t/gitlab2474/m/gitlab2474/1643743560333/b21487a8f639d5981526c20164cad39cb9faca43?sender=uda52d8b28f84e1a3d6af1431):
+Before each upcoming quarter, the teams will meet for [media planning](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#digital-campaign-planning-timeline) sessions to determine the coverage mix for our paid digital programs. Given the quarter’s KPI goals as a whole & per segment/region, the media planning’s key topics include the degree of coverage for the following (tiers listed in order of [visualization](https://app.mural.co/t/gitlab2474/m/gitlab2474/1643743560333/b21487a8f639d5981526c20164cad39cb9faca43?sender=uda52d8b28f84e1a3d6af1431):
 
 - Audience Targeting
    - Segments: Enterprise, Mid-Market, and SMB

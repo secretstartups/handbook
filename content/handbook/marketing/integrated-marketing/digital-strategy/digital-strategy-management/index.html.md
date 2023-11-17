@@ -1,13 +1,13 @@
 ---
-layout: handbook-page-toc
+
 title: "Digital Strategy Management"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Digital Strategy Team
 {: #digital-marketing-management}
@@ -100,7 +100,7 @@ The digital marketing manager will need to be briefed on the campaign by the cor
 - Middle of Funnel (Consideration): Nurturing engaged prospects with solutions-based assets, consideration-stage content and events.
 - Bottom of Funnel (Conversion): Leading prospects to conversion by retargeting with relevant down-funnel content and demo/free trial.
 
-[Click here](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#channel-definitions) to see channel definitions and where they fit in buyer journey. 
+[Click here](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#channel-definitions) to see channel definitions and where they fit in buyer journey. 
 
 The Digital Marketing team’s strategy & execution ultimately leads to filling pipeline, while closely analyzing down-funnel metrics & results in order to influence & optimize top of funnel strategy in a feedback loop.
 
@@ -111,7 +111,7 @@ We work with external agencies to help support campaign execution including comp
 
 GitLab Digital Marketing works directly with agencies within the GitLab [Digital Advertising project](https://gitlab.com/gitlab-com/marketing/digital-advertising), which is strictly for Digital Marketing & agency communication only.
 
-For more detailed information on our partnership, communication, and invoicing, please see our [handbook page](/handbook/marketing/integrated-marketing/digital-strategy/agency/).
+For more detailed information on our partnership, communication, and invoicing, please see our [handbook page](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/agency/).
 
 ### Quarterly planning and strategy creation
 We don’t invest in assets, we invest in campaigns.  We need to understand the campaign's objectives and goals.  We triage each request and analyze and with the required information to develop a point of view as to what we can reasonably do with the dollars we have. 
@@ -167,7 +167,7 @@ Digital Marketing will recommend specific channels based on your campaign goals.
 * Paid Display
    - GDN (Google Display Network) - Display Image Ads, Responsive Display Ads
    - DV360 (Google Display & Video 360) - Programmatic Display Image Ads, Responsive Display Ads, Access to private ad networks
-   - 6sense is a digital marketing platform for Display only, mainly used to target specific accounts. Please note that 6sense is managed by the ABM team, partnering with 6sense directly.  Please contact the ABM team (focuses on Tier 1,2,3 accounts) if you would like to create a 6sense campaign, or check out the [6sense page](/handbook/marketing/marketing-operations/6sense/) for more info.
+   - 6sense is a digital marketing platform for Display only, mainly used to target specific accounts. Please note that 6sense is managed by the ABM team, partnering with 6sense directly.  Please contact the ABM team (focuses on Tier 1,2,3 accounts) if you would like to create a 6sense campaign, or check out the [6sense page](https://about.gitlab.com/handbook/marketing/marketing-operations/6sense/) for more info.
    - BuySellAds
 * Sponsorships (Publisher Engagements): 
    - Participating in Virtual Event (Virtual Conference, Panel, Talking Head, All-Day Event/Summit)
@@ -227,7 +227,7 @@ Publisher sponsorships are when we engage a specific publisher in order to purch
      * **Best type of content to use**: Live webcasts and recorded webcasts work the best. Ebooks and guides sometimes work, depending on the placement. 
      * **Worst type of content to use**: Events and thought leadership reports/whitepapers like Gartner and Forrester reports. With leadership reports/whitepapers, we historically have not seen good engagement and sign-ups for these types of assets on Paid Social, unless the report is more of a how-to guide. 
 
-[Steps to set up Content Syndication in Marketo & SFDC](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc).
+[Steps to set up Content Syndication in Marketo & SFDC](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc).
 
 **Project Managing Publisher Activities:**
 - PMG will create an issue to contract with Publishers. It is important to add specific filtering for all programs (region, personas, country limits, etc.)

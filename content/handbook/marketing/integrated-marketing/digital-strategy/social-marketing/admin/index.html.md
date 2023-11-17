@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Social Media Project Management and Admin"
 description: Workflows, Templates, and more for GitLab Team Members
 twitter_image: "/images/opengraph/handbook/social-marketing/social-handbook-admin-pm.png"
@@ -8,11 +8,11 @@ twitter_site: "gitlab"
 twitter_creator: "gitlab"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ℹ️ This page is the single source of truth for all administrative tasks, templates, and project management needs focused on GitLab brand social channels. If your question is "how?", the answer will be here.
 {:.alert .alert-info .text-justify}
@@ -208,7 +208,7 @@ UTMs are used to track traffic sources & reach of posts/links. All posts that co
 
 ### Other UTMs for Tracking
 
-Please see [details in the Digital Marketing handbook](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#utm-tracking). In short, it's important to outline UTM campaign, content, and other variables if you're looking to measure more deeply. Campaign section is a requirement, and is likely connected to your ongoing marketing campaign. If you have questions or are unsure how to tag a URL please reach out to the Digital Marketing team &/or the Social Media Manager responsible for the campaign.
+Please see [details in the Digital Marketing handbook](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#utm-tracking). In short, it's important to outline UTM campaign, content, and other variables if you're looking to measure more deeply. Campaign section is a requirement, and is likely connected to your ongoing marketing campaign. If you have questions or are unsure how to tag a URL please reach out to the Digital Marketing team &/or the Social Media Manager responsible for the campaign.
 
 ### Links in bio with LinkTree
 [LinkTree](https://linktr.ee/) is bio link tool. The Social Media team uses LinkTree to drive traffic to the GitLab website. Folks will click the link in bio and have a few options to choose from before landing on a webpage. The GitLab brand Linktree is: https://linktr.ee/GitLab

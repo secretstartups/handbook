@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Open Social Media Strategies from GitLab"
 description: Use these micro-strategies to up your social game
 twitter_image: "/images/opengraph/open-social-strategies.png"
@@ -8,10 +8,10 @@ twitter_site: "gitlab"
 twitter_creator: "gitlab"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Open Social Media Strategies
 GitLab-based social media strategies to aid in developing your own social media department. 

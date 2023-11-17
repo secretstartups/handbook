@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Social Advocacy Curator Program
 description: Strategies and details to enable curators to share GitLab-related news for company-wide enablement
 twitter_image: /images/opengraph/handbook/social-marketing/social-advocacy-curator-program-opengraph.png
@@ -7,11 +7,11 @@ twitter_image_alt: GitLab's Social Media Handbook branded image
 twitter_site: gitlab
 twitter_creator: gitlab
 ---
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## What is Social Advocacy? 
 

@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Social Media Reporting"
 description: Metric Definitions, Cadences, and Objectives
 twitter_image: "/images/opengraph/handbook/social-marketing/social-handbook-reporting.png"
@@ -8,11 +8,11 @@ twitter_site: "gitlab"
 twitter_creator: "gitlab"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 Reporting on our brand's organic social media efforts is critical in determining if what we're doing is working and understanding our audiences better. This page outline specifics on our reporting, including definitions of metrics.
 {:.alert .alert-info .text-justify}
@@ -39,15 +39,15 @@ For GitLab Team Members only
 - Previously CPM was measure only on posts without a link. However, impressions are measured as impressions, and for FY23 we’re counting all impressions, not just those that appeared on posts without a link (again, performance is performance). Expect increases in CPM ad value for FY23.
 
 ### Engagement 
-{:.no_toc}
+
 
 ##### Engagements
-{:.no_toc}
+
 
 The number of times that users took action on our posts during the reporting period. This includes likes, retweets, comments, saves, replies, reactions, and shares. Does not include quote retweets. These actions are not weighed equally, and over time we'll be developing a unique and proprietary reporting method for engagements. 
 
 ##### Engagement Rate 
-{:.no_toc}
+
 
 The number of times during a reporting period that users engaged with our posts as a percentage of impressions. This metric indicates how engaging particular content or campaigns are overall. Engagement rate has been a pillar in social reporting for a decade, and is most closely tied to content quality.
 
@@ -87,14 +87,14 @@ Our brand social team uses Sprout Social as our social media management software
 Our cadences allow us regular reporting periods and the ability to be accountable to our team members in other groups or report performance regularly. The social team will not accommodate random reporting requests that were not previously required, agreed upon, or that the team feels inappropriate to use time or review the data.
 
 ### Create an FY Reporting Epic and link to all reports here throughout the year
-{:.no_toc}
+
 
 These epics can act as a living warehouse in GitLab to pull data from quarterly progress or campaign specific wrap up issues. The social team ought to add a link to these reporting issues to the FY Performance epic. 
 
 - [FY22 Performance Epic](https://gitlab.com/groups/gitlab-com/-/epics/1465)
 
 ### Monthly Reporting 
-{:.no_toc}
+
 
 The social team will pull data for overall brand performance and select topics/campaigns before the end of the second week of the month following the reporting month (e.g., January data will be available before mid-February). [The Sisense dashboard](https://app.periscopedata.com/app/gitlab/621921/Organic-Social-Media-Metrics-(for-GitLab-Brand-Channels)) takes approximately 24-hours to refresh after raw data is added to our sheetload.
 
@@ -112,7 +112,7 @@ Workflow is as follows:
 Sisense will update all data in approximately 24 hours.
 
 ### Quarterly Reporting
-{:.no_toc}
+
 
 We'll be able to review the full quarter of [overall brand performance in Sisense](https://app.periscopedata.com/app/gitlab/621921/Organic-Social-Media-Metrics-(for-GitLab-Brand-Channels)) following the refresh with the third month of data added, typically before the end of the second week of the new quarter.
 
@@ -121,7 +121,7 @@ When the social team adds the third month of data from a quarter to the [ad equi
 We'll wrap each quarter with an issue outlining performance and insights. Please use the [social-quarterly-report issue template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/.gitlab/issue_templates/social-quarterly-report.md). [Here's what a completed issue on quarterly performance looks like](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/4647).
 
 ### Annual Reporting
-{:.no_toc}
+
 
 [FY22 Performance Review Deck](https://docs.google.com/presentation/d/1_rLCvBP3fz0ttPOteRphOoAEji_LMvT1sfHrUYC91Gw/edit#slide=id.g639141d4c5_0_15){:.btn .btn-purple-inv}
 

@@ -1,16 +1,16 @@
 ---
-layout: handbook-page-toc
+
 title: "Integrated Marketing"
 description: "Integrated Marketing at GitLab"
 ---
 
 
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 # Integrated Marketing
 {: #overview .gitlab-purple}
@@ -48,35 +48,35 @@ We are innovative, strategic, and data-driven, delivering a cohesive high qualit
 
 #### Field Marketing
 
-[Field Marketing](/handbook/marketing/field-marketing/): Be the feet on the street, creating local and regional experiences, learning and evangelism in close partnership with Sales.
+[Field Marketing](https://about.gitlab.com/handbook/marketing/field-marketing/): Be the feet on the street, creating local and regional experiences, learning and evangelism in close partnership with Sales.
 
 #### Channel Marketing 
 
-[Channel](/handbook/marketing/channel-marketing/): Exponentially grow GitLab’s reach through the ecosystem to build awareness and generate demand. 
+[Channel](https://about.gitlab.com/handbook/marketing/channel-marketing/): Exponentially grow GitLab’s reach through the ecosystem to build awareness and generate demand. 
 
 ### Corporate Events
 
-[Corporate Events](/handbook/marketing/integrated-marketing/corporate-events/): Create experiences through 1st and 3rd party events to bring awareness to the GitLab story and build our presence with key audiences.
+[Corporate Events](https://about.gitlab.com/handbook/marketing/integrated-marketing/corporate-events/): Create experiences through 1st and 3rd party events to bring awareness to the GitLab story and build our presence with key audiences.
 
 ### Account Based Marketing (ABM)
 
-[Account Based Marketing](/handbook/marketing/account-based-marketing/abm-campaign-approach/)
+[Account Based Marketing](https://about.gitlab.com/handbook/marketing/account-based-marketing/abm-campaign-approach/)
 
 ### Campaigns
 
-[Campaigns](/handbook/marketing/demand-generation/campaigns/): Deliver creative ways of telling the GitLab narrative, through different channels, formats and platforms.
+[Campaigns](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/): Deliver creative ways of telling the GitLab narrative, through different channels, formats and platforms.
 
 ### Lifecycle Marketing
 
-[Lifecycle Marketing](/handbook/marketing/lifecycle-marketing/): Engage, nurture and convert customers across the customer journey. 
+[Lifecycle Marketing](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/): Engage, nurture and convert customers across the customer journey. 
 
 ### Digital Strategy
 
-[Digital Strategy](/handbook/marketing/integrated-marketing/digital-strategy/): Leverage paid and owned media tactics to foster awareness, generate leads and reach audiences where they engage. 
+[Digital Strategy](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/): Leverage paid and owned media tactics to foster awareness, generate leads and reach audiences where they engage. 
 
 #### Social Marketing
 
-[Social Marketing](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/): The social marketing team is responsible for the stewardship of the GitLab brand social channels. 
+[Social Marketing](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/): The social marketing team is responsible for the stewardship of the GitLab brand social channels. 
 
 ## OKRs/Goal/Plan (how we impact)
 

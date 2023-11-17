@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Team Member Social Media Advocacy
 description: Strategies and details to enable team members to share GitLab-related news on personal social media channels
 twitter_image: /images/opengraph/handbook/social-marketing/team-member-social-advocacy-opengraph.png
@@ -7,11 +7,11 @@ twitter_image_alt: GitLab's Social Media Handbook branded image
 twitter_site: gitlab
 twitter_creator: gitlab
 ---
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 [Login to Bambu via Okta SSO](https://gitlab.getbambu.com/login){:.btn .btn-purple-inv}
 
@@ -355,7 +355,7 @@ Sometimes, the best course of action is to walk away and not engage with the per
 
 You can choose not to engage with arguments, step away from the conversation and delegate to someone else, or give a simple acknowledgment (e.g. “Thanks for sharing your opinion.”)
 
-For a foundational understanding of these nuances, read [GitLab's guide to communicating effectively and responsibly through text](/company/culture/all-remote/effective-communication/).
+For a foundational understanding of these nuances, read [GitLab's guide to communicating effectively and responsibly through text](/handbook/company/culture/all-remote/effective-communication/).
 
 - Assume good faith. People have opinions and sometimes they’re strong ones. It’s usually not personal.
 - Sometimes all people need is acknowledgment. Saying “Sorry things aren’t working for you” can go a long way.

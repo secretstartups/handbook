@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Social Marketing Handbook
 description: 'Strategies, Workflows, and Emoji for Social Media at GitLab'
 twitter_image: /images/opengraph/handbook/social-marketing/social-handbook-top.png
@@ -7,24 +7,24 @@ twitter_image_alt: GitLab's Social Media Handbook branded image
 twitter_site: gitlab
 twitter_creator: gitlab
 ---
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 📖 **Welcome to the Social Marketing Handbook**. The social marketing team is responsible for the stewardship of the GitLab brand social channels. We’re accountable for the organic editorial calendar and work with partners across the Developer Relations, digital marketing, talent brand, and other teams to orchestrate the social media landscape for GitLab.
 {:.alert .alert-info .text-justify}
 
 ### Social Marketing Handbook Pages
 
-[Admin and Project Management](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/){:.btn .btn-purple-inv}
-[Community Management](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/community-management/){:.btn .btn-purple-inv}
-[Social Reporting](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-reporting/){:.btn .btn-purple-inv}
-[Take a Social Training](/handbook/marketing/corporate-communications/resources-trainings/#social-media-trainings){:.btn .btn-purple-inv}
-[Team Member Social Policy](/handbook/marketing/team-member-social-media-policy/){:.btn .btn-purple-inv}
-[Team Member Advocacy](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/){:.btn .btn-purple-inv}
-[Advocacy Curators](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/){:.btn .btn-purple-inv}
+[Admin and Project Management](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/){:.btn .btn-purple-inv}
+[Community Management](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/community-management/){:.btn .btn-purple-inv}
+[Social Reporting](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-reporting/){:.btn .btn-purple-inv}
+[Take a Social Training](https://about.gitlab.com/handbook/marketing/corporate-communications/resources-trainings/#social-media-trainings){:.btn .btn-purple-inv}
+[Team Member Social Policy](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/){:.btn .btn-purple-inv}
+[Team Member Advocacy](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/){:.btn .btn-purple-inv}
+[Advocacy Curators](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/){:.btn .btn-purple-inv}
 
 ### Contact the Social Marketing Team
 
@@ -114,7 +114,7 @@ No hard selling 🥎 - We throw softballs only.
 The FY23 content strategy will enable our objectives of engagement and elevation. 
 
 ### Engagement
-{:.no_toc}
+
 
 Because engagement is our principal metric focus, it's important that we consider all social content for engagement opportunities. [Our reporting handbook page defines engagement and engagement rate](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-reporting/#social-media-metric-definitions): 
 
@@ -129,7 +129,7 @@ Because engagement is our principal metric focus, it's important that we conside
 To learn more about the specifics of engagement and conversations, [check out our community management handbook page](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/community-management/).
 
 ### Elevation 
-{:.no_toc}
+
 
 Elevate our brand on social by delivering on intentional and properly planned campaigns with cross-functional support to align with overall marketing OKRs. We'll look to polish visuals, write higher quality and shorter copy, and experiment with rich content like Twitter Spaces, livestreaming video, and other formats.
 
@@ -146,7 +146,7 @@ Elevation requires siginficant campaign planning, above years' past. The social 
 [Social Quarterly Brief Form](https://forms.gle/7J7X28Pm6Ti12Ein9){:.btn .btn-purple-inv}
 
 ### Remember when considering OKRs for organic social media 
-{:.no_toc}
+
 
 - It's about storytelling, not direct marketing
 - Because our content goes worldwide and untargeted, organic social is top-of-funnel activity driving impressions, engagements, and conversations with assistance in link clicks to move users further down the funnel for the next team to work with

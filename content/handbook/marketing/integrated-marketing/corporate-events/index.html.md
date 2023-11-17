@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Corporate Event Marketing at GitLab
 description: For corporate event marketing at GitLab
 twitter_image: null
@@ -8,11 +8,11 @@ twitter_site: gitlab
 twitter_creator: gitlab
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 
 ## Mission Statement
@@ -189,7 +189,7 @@ If the event we are sponsoring is not on the Developer Evangelism team's radar t
     * Recruiting - Onsite booth support
     * Design — Look & feel, tone, collateral (print), digital, environmental
     * Large & MidMarket sales teams - Attending & setting up meetings
-    * [Leading Organization Team](/handbook/marketing/developer-relations/leading-organizations/) — Executive/customer meetings, attending social events (ex: receptions, dinners), panel discussions, speaking engagements, media interviews
+    * [Leading Organization Team](https://about.gitlab.com/handbook/marketing/developer-relations/leading-organizations/) — Executive/customer meetings, attending social events (ex: receptions, dinners), panel discussions, speaking engagements, media interviews
 
 ### Staffing 3rd party sponsored event booths
 
@@ -431,7 +431,7 @@ For both GitLab-owned and external events, speakers and content DRIs should buil
 
 ## Virtual Events at GitLab
 
-At GitLab, the Corporate Events team owns events that meet specific criteria (link), including those events that have a global hybrid or virtual element. By design, virtual events at GitLab are not a simple video call nor are they a static playlist. GitLab virtual events aim to retain the same [brand personality](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/), engagement, inclusivity, and fun as our in-person events.
+At GitLab, the Corporate Events team owns events that meet specific criteria (link), including those events that have a global hybrid or virtual element. By design, virtual events at GitLab are not a simple video call nor are they a static playlist. GitLab virtual events aim to retain the same [brand personality](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/), engagement, inclusivity, and fun as our in-person events.
 
 ### Lead time
 
@@ -501,7 +501,7 @@ As part of the event planning and execution process at GitLab, the event lead wi
 #### Content Creation
 
 The planning committee will ensure that there is an inclusive environment when selecting CFP/keynote/speakers which aligns with [GitLab's event requirements for speaking](https://about.gitlab.com/handbook/marketing/corporate-communications/speaking-resources/#event-requirements).
-This includes researching and sourcing for speakers from [underrepresented groups](https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups) and with various backgrounds including:
+This includes researching and sourcing for speakers from [underrepresented groups](/handbook/company/culture/inclusion/#examples-of-select-underrepresented-groups) and with various backgrounds including:
 * Ability, disability, and ableism
 * Faith and/or religious identity
 * Gender identity
@@ -536,7 +536,7 @@ When working with a vendor or supplier, the team will ensure that the selected v
 
 At GitLab, the Corporate Events team wants to continue to play our part and operate with integrity when we are making decisions. The team is consciously making decisions that help align with the company’s social and environmental efforts.
 
-The Corporate Events team works with our [swag vendor](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/) that sources swag with a goal of 95% of swag is sustainable or eco-friendly or work with companies that have sustainable initiatives. Some categories that the Corporate Events team considers when selecting suppliers are:
+The Corporate Events team works with our [swag vendor](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/) that sources swag with a goal of 95% of swag is sustainable or eco-friendly or work with companies that have sustainable initiatives. Some categories that the Corporate Events team considers when selecting suppliers are:
 * Union Made Products
 * Give-Back Programs
 * Eco Products

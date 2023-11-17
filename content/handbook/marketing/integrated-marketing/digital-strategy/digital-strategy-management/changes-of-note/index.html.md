@@ -1,13 +1,13 @@
 ---
-layout: handbook-page-toc
+
 title: "Digital Marketing changes of note"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## What is a change of note?
 
