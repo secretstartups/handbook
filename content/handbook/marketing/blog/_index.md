@@ -1,7 +1,7 @@
 ---
 
 title: "Blog Handbook"
-description: "Everything you need to know about suggesting and publishing a post on GitLab's blog."
+description: "Everything you need to know about suggesting and publishing a post on the GitLab Blog."
 ---
 
 Welcome to the GitLab Blog handbook! The [GitLab Blog](https://about.gitlab.com/blog/) is managed by the Content Marketing team. The managing editor of the blog is Sandra Gittlen (@sgittlen).
