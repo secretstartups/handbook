@@ -981,29 +981,6 @@ Whenever presenting a diagram, we should still allow everyone to contribute.
 Where possible, take advantage of the handbook's support for [Mermaid](https://docs.gitlab.com/ee/user/markdown.html#mermaid). If you are new to using Mermaid or need help troubleshooting errors in your Mermaid code, the [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) can be a helpful tool.
 Where taking advantage of Mermaid isn't possible, link to the original in our Google Drive so that the diagram can be edited by anyone.
 
-### Situation-Complication-Implication-Position-Action-Benefit (SCI-PAB®)
-
-[Mandel Communications refers to SCI-PAB®](https://www.mandel.com/why-mandel/SCI-PAB-how-to-start-a-presentation) at the "surefire, six-step method for starting any conversation or presentation." When you only have a few minutes to present your case or grab your listener's attention, this six-step process can help you communicate better and faster.
-
-1. Situation - Expresses the current state for discussion.
-1. Complication - Summarizes the critical issues, challenges, or opportunities.
-1. Implication - Provides insight into the consequences that will be a result of if the Complications are not addressed.
-1. Position - Notes the presenter's opinion on the necessary changes which should be made.
-1. Action - Defines the expectations of the target audience/listeners.
-1. Benefit - Clearly concludes how the Position and Action sections will address the Complications.
-   This method can be used in presentations, emails, and everyday conversations.
-
-Example - The Management team asking for time to resolve a problem
-
-1. S - The failure rate last year for product X1 was an acceptable 1.5%.
-1. C - Because of supply shortages in the current fiscal year we are forced to change the material of a key component.
-1. I - Unfortunately, that resulted in the failure rate doubling this year.
-1. P - It is critical we address this problem immediately.
-1. A - Please approve the team 5 days to investigate the specific causes of the increase and establish the necessary next steps.
-1. B - By doing this we will reduce the failure rate to an acceptable level and develop guidelines for preventing such problems in the future.
-
-Some examples can be found at [SCI-PAB - Six Steps To Reach Your Audience](https://dzone.com/articles/scipab-six-steps-to-reach-your-audience).
-
 ### Ubiquitous language
 
 At GitLab we use [ubiquitous language](https://martinfowler.com/bliki/UbiquitousLanguage.html) to increase communication efficiency.
