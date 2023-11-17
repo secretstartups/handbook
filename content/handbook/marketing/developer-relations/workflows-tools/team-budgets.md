@@ -65,4 +65,4 @@ There is a recurring maintenance cost of the community program's campaigns on Pr
 
 ### Community Event Sponsorship
 
-Please see the [Suggesting an Event](/handbook/marketing/events/#suggesting-an-event) section of the Events handbook page for more information on we handle sponsorship requests. 
+Please see the [Suggesting an Event](https://about.gitlab.com/handbook/marketing/events/#suggesting-an-event) section of the Events handbook page for more information on we handle sponsorship requests. 

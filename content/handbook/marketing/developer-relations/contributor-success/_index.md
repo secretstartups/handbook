@@ -21,22 +21,22 @@ description: "Contributor Success Team"
 
 ## Sub-pages
 
-| **Workflows** | [Contributor Success Contributor Workflows](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html) |
-| **Metrics** | [Contributor metrics & dashboards](/handbook/marketing/developer-relations/contributor-success/metrics.html) |
-| **Contributing Organization Tracking** | [Contributing Organization Tracking](/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker.html) |
-| **A Contributor's User Journey** | [User Journey](/handbook/marketing/developer-relations/contributor-success/user-journey.html) |
-| **Community pairing sessions** | [Community pairing sessions](/handbook/marketing/developer-relations/contributor-success/community-pairing-sessions.html) |
+| **Workflows** | [Contributor Success Contributor Workflows](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html) |
+| **Metrics** | [Contributor metrics & dashboards](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/metrics.html) |
+| **Contributing Organization Tracking** | [Contributing Organization Tracking](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker.html) |
+| **A Contributor's User Journey** | [User Journey](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/user-journey.html) |
+| **Community pairing sessions** | [Community pairing sessions](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-pairing-sessions.html) |
 
 - - -
 
 ## Strategy
 
-This team directly follows the strategy outlined in our [open source growth strategy](/handbook/engineering/open-source/growth-strategy.html).
+This team directly follows the strategy outlined in our [open source growth strategy](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html).
 
 ## Mission
 
 The goal of the team is to increase the technical improvements and efficiency of our contribution process to sustain our
-ambition of [1000+ contributors with merged MRs per month to GitLab](/company/strategy/#2-build-on-our-open-core-strength).
+ambition of [1000+ contributors with merged MRs per month to GitLab](/handbook/company/strategy/#2-build-on-our-open-core-strength).
 
 ### FY23 Direction
 
@@ -53,7 +53,7 @@ business intelligence around it. This will allow us to create some predictabilit
 with Engineering and Product Development.
 This accounts for 70 - 80% of the workload. The remaining 20 - 30% is ad-hoc work. The ad-hoc work is eclectic and
 ranges from supporting customers on contributions, supporting various open source initiatives and supporting the
-[Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/).
+[Engineering Productivity team](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/).
 
 #### Unique New Monthly Contributors
 
@@ -66,7 +66,7 @@ ranges from supporting customers on contributions, supporting various open sourc
 #### Community Contributed Value Observability
 
 1. Introduce measurement points in various places in the contribution pipeline
-1. [Collect objective and subjective feedback from contributors about the process](/handbook/engineering/quality/triage-operations/#code-review-experience-feedback)
+1. [Collect objective and subjective feedback from contributors about the process](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#code-review-experience-feedback)
 1. Create insight into actual community contribution pipeline size
 1. Standardize contribution MRARR valuation
 1. Categorize contribution and measure value per type
@@ -80,35 +80,35 @@ ranges from supporting customers on contributions, supporting various open sourc
 #### Open Community MR Age (OCMA)
 
 1. Minimize reliance on human factors that contribute to a large standard deviation
-1. Identify & drive tooling improvements to decrease OCMA, and collaborate with the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/) 
-through shared tooling for [automated triaging](/handbook/engineering/quality/engineering-productivity/#automated-triage-policies)
+1. Identify & drive tooling improvements to decrease OCMA, and collaborate with the [Engineering Productivity team](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/) 
+through shared tooling for [automated triaging](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/#automated-triage-policies)
 
 #### Leading Organizations
 
-The GitLab [Leading Organizations program](/handbook/marketing/developer-relations/leading-organizations/) is a
-cross-functional initiative that is led by the [Contributor Success team](/handbook/marketing/developer-relations/contributor-success/) 
-and [Developer Relations team](/handbook/marketing/developer-relations/). 
+The GitLab [Leading Organizations program](https://about.gitlab.com/handbook/marketing/developer-relations/leading-organizations/) is a
+cross-functional initiative that is led by the [Contributor Success team](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/) 
+and [Developer Relations team](https://about.gitlab.com/handbook/marketing/developer-relations/). 
 
-The Leading Organization program supports GitLab's [mission](/company/mission/#mission) by recognizing and incentivizing
+The Leading Organization program supports GitLab's [mission](/handbook/company/mission/#mission) by recognizing and incentivizing
 organizations who are among our most active contributors. A company or individual
-[qualifies](/handbook/marketing/developer-relations/leading-organizations/#qualification) for unique benefits by
+[qualifies](https://about.gitlab.com/handbook/marketing/developer-relations/leading-organizations/#qualification) for unique benefits by
 reaching 20 merged merge requests or more over a trailing three full calendar month basis.
 
-See our workflows on [how to add or remove an organization](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#leading-organizations)
+See our workflows on [how to add or remove an organization](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#leading-organizations)
 to the program.
 
 ## Team Responsibilities
 
-* Improve GitLab's Contribution Efficiency and [merge request coaching](https://handbook.gitlab.com/job-families/expert/merge-request-coach/) process.
-* Contribute as a [merge request coach](https://handbook.gitlab.com/job-families/expert/merge-request-coach/) in one or more specialties by providing guidance to community contributors on technical and non-technical aspects.
+* Improve GitLab's Contribution Efficiency and [merge request coaching](/job-families/expert/merge-request-coach/) process.
+* Contribute as a [merge request coach](/job-families/expert/merge-request-coach/) in one or more specialties by providing guidance to community contributors on technical and non-technical aspects.
 * Be a point of escalation for community contributors and identify GitLab DRIs to resolve blockers.
 * Organize community contributors into [community teams](#gitlab-community-teams-structure) and ensure their success.
 * Track [contribution](/community/contribute/) delivery of the Community Contributors and Cohorts.
 * Nominate impactful community contributors and contributions for recognition.
-* Select and recognize a [GitLab MVP](/handbook/marketing/developer-relations/contributor-success/mvp-process.html) for each release post
-* Collaborate closely with our [Marketing counterparts](/handbook/marketing/developer-relations/) and [Core team](/community/core-team/).
-* Engineering representative that can ride along with the [Developer evangelist](https://handbook.gitlab.com/job-families/marketing/developer-evangelist/).
-* Improve community recognition system and awards in collaboration with the [Developer Relations team](/handbook/marketing/developer-relations/).
+* Select and recognize a [GitLab MVP](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/mvp-process.html) for each release post
+* Collaborate closely with our [Marketing counterparts](https://about.gitlab.com/handbook/marketing/developer-relations/) and [Core team](/community/core-team/).
+* Engineering representative that can ride along with the [Developer evangelist](/job-families/marketing/developer-evangelist/).
+* Improve community recognition system and awards in collaboration with the [Developer Relations team](https://about.gitlab.com/handbook/marketing/developer-relations/).
 * Participate in GitLab's overall Engineering open source outreach events and processes.
 * [Triage community issues](https://about.gitlab.com/handbook/engineering/quality/issue-triage/) to be picked up by the community or GitLab team members
 * [Triage community merge requests](https://about.gitlab.com/handbook/engineering/quality/merge-request-triage/#partial-triage-gitlab-org) from the daily merge request coach report
@@ -141,7 +141,7 @@ All issues that relate to the inner working of the company GitLab, including spe
 
 ## OKRs
 
-Every quarter, the team commits to [Objectives and Key Results (OKRs)](/company/okrs/). The below links to our current and
+Every quarter, the team commits to [Objectives and Key Results (OKRs)](/handbook/company/okrs/). The below links to our current and
 previous quarter OKRs, it updates automatically as the quarter progresses.
 
 Note: Due to the switch to GitLab's OKR system, we no longer have the ability to view the OKRs from FY23Q4. A hard-copy was made of the state of these OKRs as of 2023-01-30.
@@ -191,7 +191,7 @@ Note: Due to the switch to GitLab's OKR system, we no longer have the ability to
 
 We have the following Performance Indicators
 
-#### [Unique Wider Community Contributors per Month](/handbook/marketing/developer-relations/performance-indicators/#unique-wider-community-contributors-per-month)
+#### [Unique Wider Community Contributors per Month](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#unique-wider-community-contributors-per-month)
 
 - Activities:
   - Partnership with Developer Relations and Technical Marketing team.
@@ -200,7 +200,7 @@ We have the following Performance Indicators
   - Allow running of QA tests from forks.
   - Shorten the CI runtime for community contributions (in forks).
 
-More details can be found in the [Unique Wider Community Contributors per Month Marketing PI section](/handbook/marketing/developer-relations/performance-indicators/#unique-wider-community-contributors-per-month)
+More details can be found in the [Unique Wider Community Contributors per Month Marketing PI section](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#unique-wider-community-contributors-per-month)
 
 #### Leading Organizations MR Time-to-review
 
@@ -209,7 +209,7 @@ More details can be found in the [Unique Wider Community Contributors per Month 
   - Hold contribution trainings.
   - Connect Leading Organization contributors with team members to incentivize a faster review cycle.
 
-More details can be found at the [Leading Organizations MR Time-to-review Quality PI section](/handbook/marketing/developer-relations/performance-indicators/#leading-organizations-mr-time-to-review)
+More details can be found at the [Leading Organizations MR Time-to-review Quality PI section](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#leading-organizations-mr-time-to-review)
 
 #### Open Community MR Age (OCMA)
 
@@ -220,7 +220,7 @@ More details can be found at the [Leading Organizations MR Time-to-review Qualit
   - Increase number of coaches
   - Partner with Engineering Productivity to provide feedback to improve contribution tooling (currently GDK).
 
-More details can be found in the [OCMA Community-Relations PI section](/handbook/marketing/developer-relations/performance-indicators/#open-community-mr-age)
+More details can be found in the [OCMA Community-Relations PI section](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#open-community-mr-age)
 
 #### MRARR
 
@@ -235,7 +235,7 @@ More details can be found in the [OCMA Community-Relations PI section](/handbook
 Please see [Contributing Orgs tracker](contributing-org-tracker.html) for details how to onboard or offboard a GitLab
 account from being linked to a customer account, and being counted into the MRARR metric.
 
-More details can be found at the [MRARR Community-Relations PI section](/handbook/marketing/developer-relations/performance-indicators/#mrarr)
+More details can be found at the [MRARR Community-Relations PI section](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#mrarr)
 
 #### Community Coaches per Month
 
@@ -245,7 +245,7 @@ More details can be found at the [MRARR Community-Relations PI section](/handboo
   - Refresh MR coaches as “Community coaches” so non-code review work can be encouraged (design, etc)
   - Launch training materials for coaches
 
-More details can be found at the [Community Coaches per Month Community-Relations PI section](/handbook/marketing/developer-relations/performance-indicators/#community-mr-coaches-per-month)
+More details can be found at the [Community Coaches per Month Community-Relations PI section](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#community-mr-coaches-per-month)
 
 #### Community Contribution MRs as Features per Month
 
@@ -253,7 +253,7 @@ More details can be found at the [Community Coaches per Month Community-Relation
   - Encourage features at Developer Relations hackathons.
   - Published list of feature issues with Marketing team.
 
-More details can be found at the [Community Contribution MRs as Features per Month Community-Relations PI section](/handbook/marketing/developer-relations/performance-indicators/#feature-community-contribution-mrs)
+More details can be found at the [Community Contribution MRs as Features per Month Community-Relations PI section](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#feature-community-contribution-mrs)
 
 ### How do we collaborate with other teams?
 
@@ -295,13 +295,13 @@ Everything that we're working actively is present above the cut-line. Our planni
 5 labels are present
 
 * `~contributorgrowth::velocity`
-  * Everything that relates to [Improving Contribution Velocity](/handbook/engineering/open-source/growth-strategy.html#improve-contribution-velocity) as defined by our [Open Source Growth Strategy](/handbook/engineering/open-source/growth-strategy.html)
+  * Everything that relates to [Improving Contribution Velocity](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html#improve-contribution-velocity) as defined by our [Open Source Growth Strategy](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html)
 * `~contributorgrowth::increase value`
-  * Everything that relates to [Increasing Contribution Value](/handbook/engineering/open-source/growth-strategy.html#increase-contribution-value) as defined by our [Open Source Growth Strategy](/handbook/engineering/open-source/growth-strategy.html)
+  * Everything that relates to [Increasing Contribution Value](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html#increase-contribution-value) as defined by our [Open Source Growth Strategy](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html)
 * `~contributorgrowth::expand outreach`
-  * Everything that relates to [Expanding Outreach](/handbook/engineering/open-source/growth-strategy.html#expand-outreach) as defined by our [Open Source Growth Strategy](/handbook/engineering/open-source/growth-strategy.html)
+  * Everything that relates to [Expanding Outreach](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html#expand-outreach) as defined by our [Open Source Growth Strategy](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html)
 * `~contributorgrowth::scale the community`
-  * Everything that relates to [Scaling the Community](/handbook/engineering/open-source/growth-strategy.html#scale-the-community) as defined by our [Open Source Growth Strategy](/handbook/engineering/open-source/growth-strategy.html)
+  * Everything that relates to [Scaling the Community](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html#scale-the-community) as defined by our [Open Source Growth Strategy](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html)
 * `~contributorgrowth::internal`
   * Everything that relates to internal processes such as onboarding, internal issues such as tooling or customer & company specific tasks.
 
@@ -381,7 +381,7 @@ or drop a request in `#contributor-success` on Slack.
 
 ### Promotion
 
-We recommend [adding an event to the GitLab Team Meetings calendar](https://handbook.gitlab.com/handbook/tools-and-tips/#adding-an-event-to-the-gitlab-team-meetings-calendar)
+We recommend [adding an event to the GitLab Team Meetings calendar](/handbook/tools-and-tips/#adding-an-event-to-the-gitlab-team-meetings-calendar)
 (internal) and creating:
 
 - An event in the [GitLab Virtual Community Events](https://www.meetup.com/gitlab-virtual-meetups/)
