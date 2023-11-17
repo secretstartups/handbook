@@ -40,7 +40,7 @@ Once a blog pitch is approved, the author will use the [Blog Submission template
 
 The author will tag @sgittlen in the issue, put the doc link in a comment, and share the Google Doc once it is ready to be edited (after all necessary approvals and reviews have been completed). **Note:** All images must be included inline in the Google Doc.
 
-** Note:** All blog submissions now require a **call to action** or CTA and you will be asked to provide one in the blog draft template. A CTA is what you want the reader to do next after reading your blog. Do you want them to go to another page and learn more, sign up for a trial, register for a webinar, view a demo, etc.? We will be able to track the CTA as part of our overall blog metrics.
+**Note:** All blog submissions now require a **call to action** or CTA and you will be asked to provide one in the blog draft template. A CTA is what you want the reader to do next after reading your blog. Do you want them to go to another page and learn more, sign up for a trial, register for a webinar, view a demo, etc.? We will be able to track the CTA as part of our overall blog metrics.
 
 ## The blog edit process
 
