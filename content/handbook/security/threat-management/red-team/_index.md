@@ -131,13 +131,13 @@ GitLab team members can view the model [here](https://gitlab.com/gitlab-com/gl-s
 
 ### "Assumed Breach" First
 
-Security breaches happen. We read about them every day. Most of our operations are not meant to prove this risk, as it is a well-accepted industry fact. 
+Security breaches happen. We read about them every day. Most of our operations are not meant to prove this risk, as it is a well-accepted industry fact.
 
 Our Red Team operations often start from an "assumed breach" scenario where we gain initial access to GitLab's systems through a trusted insider. From there, we focus on post-exploitation tactics and techniques such as establishing persistence and elevating privileges.
 
 The [MITRE ATT&CK matrix](https://attack.mitre.org) is a great way to visualize the depth and variety of attack techniques that come after initial access. Focusing on those techniques provides the best opportunity to assess and improve our detection and response capabilities.
 
-In some cases, we may conduct operations specifically looking for initial access vectors to exploit. These require substantial time and resources, so we ensure the investment is justified by the potential for security improvements and learning. 
+In some cases, we may conduct operations specifically looking for initial access vectors to exploit. These require substantial time and resources, so we ensure the investment is justified by the potential for security improvements and learning.
 
 Red Team members can also hunt for ways to "break in" to GitLab at any time in the context of an [Opportunistic Attack](#opportunistic-attacks). This allows us to quickly remediate any discoveries. Successful intrusions can then be re-used in future stealth operations as proof of a realistic initial access vector.
 
