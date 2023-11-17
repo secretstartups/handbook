@@ -23,18 +23,19 @@ at GitLab, [there are a few options](#1password-for-your-private-passwords).
 Please note our 1Password for Business license agreement [includes the 1Password for Families feature](https://support.1password.com/link-family/), which you can share with up to 5 family members.
 
 For your Okta password and other passwords that you won't store in Okta, use [1Password](https://1password.com/) as your password manager and set a **strong and unique** master password.
-   - Keep your Master Password a secret. No other team members
-   should know it, including admins. If the Master Password is known or
-   disclosed to someone else, it should be changed immediately.
-   - Post a message in #it-ops if you forget your Master Password.
-   - Consider using a generated Master Password. Most human-created passwords
-   are easy to guess. Let 1Password create a strong Master Password. But: you *will*
-   need to memorize this Master Password.
-   - Do not let your password manager store the **master password**. It is okay to
-     store the username.
-   - For more information, review [1Password's Getting Started guide](https://support.1password.com/explore/team-member/)
-    and view [this video](https://youtu.be/2cFWk0sBgyM) that guides you through the sign-up process.
-   - For account administrators, review [1Password's admin guide](https://support.1password.com/explore/teams-admin/).
+
+- Keep your Master Password a secret. No other team members
+  should know it, including admins. If the Master Password is known or
+  disclosed to someone else, it should be changed immediately.
+- Post a message in #it-ops if you forget your Master Password.
+- Consider using a generated Master Password. Most human-created passwords
+  are easy to guess. Let 1Password create a strong Master Password. But: you *will*
+  need to memorize this Master Password.
+- Do not let your password manager store the **master password**. It is okay to
+  store the username.
+- For more information, review [1Password's Getting Started guide](https://support.1password.com/explore/team-member/)
+  and view [this video](https://youtu.be/2cFWk0sBgyM) that guides you through the sign-up process.
+- For account administrators, review [1Password's admin guide](https://support.1password.com/explore/teams-admin/).
 
 ### Terminology
 
