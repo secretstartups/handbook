@@ -1,5 +1,5 @@
 ---
-
+aliases: /handbook/marketing/integrated-marketing/digital-strategy/social-marketing/open-source/open-source-social.html
 title: "Open Social Media Strategies from GitLab"
 description: Use these micro-strategies to up your social game
 twitter_image: "/images/opengraph/open-social-strategies.png"
@@ -14,15 +14,15 @@ twitter_creator: "gitlab"
 
 
 ## Open Social Media Strategies
-GitLab-based social media strategies to aid in developing your own social media department. 
+GitLab-based social media strategies to aid in developing your own social media department.
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text"><a rel="cc:attributionURL" href="/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/open-source/open-source-social.html"><span rel="dct:title">Open Social Media Strategies</span></a> by <a rel="cc:attributionURL" href="/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/"><span rel="cc:attributionName">the GitLab Social Team</span></a> CC BY-SA 4.0 <a href="https://creativecommons.org/licenses/by-sa/4.0"><img style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc-sa_icon.svg" /></a></p>
 
 *Please use the table of contents to the right to find something helpful.*
 
 ## High Impact World Events; Going "dark", pausing posts
-In times of crisis, it may be appropriate for the social team to pause all brand channel social posts. This is called "going dark", and is a regular part of evaluating whether or not company messaging is appropriate to share at any given time. It is considered good practice to minimize the digital space brands occupy on social media during times of crisis. This can help to not distract social conversation but can also reduce the probability of being accidentally caught up in conversation unintentionally, sounding tone-deaf, or otherwise coming across as insensitive. 
+In times of crisis, it may be appropriate for the social team to pause all brand channel social posts. This is called "going dark", and is a regular part of evaluating whether or not company messaging is appropriate to share at any given time. It is considered good practice to minimize the digital space brands occupy on social media during times of crisis. This can help to not distract social conversation but can also reduce the probability of being accidentally caught up in conversation unintentionally, sounding tone-deaf, or otherwise coming across as insensitive.
 
-When this occurs, time-sensitive posts will be the first to be rescheduled. In the event time-sensitive posts could not be rescheduled, the social team will do what we can to update our stakeholders on what posts won't be published. Non-time sensitive posts will be moved to Sprout drafts, which can then be rescheduled at a later time.  
+When this occurs, time-sensitive posts will be the first to be rescheduled. In the event time-sensitive posts could not be rescheduled, the social team will do what we can to update our stakeholders on what posts won't be published. Non-time sensitive posts will be moved to Sprout drafts, which can then be rescheduled at a later time.
 
 Going dark could have a negative impact on social metrics, depending on the severity and length of time we're dark. Going dark could also negatively impact specific CTAs if we're relying on organic social to perform. These considerations are a part of making the decision and will be communicated as often as appropriate.
 
@@ -44,7 +44,7 @@ Here's what you need to get started.
    - Create a process that allows you to write, approve, and publish a public statement within 24-48 hours. This means identifying all approproate stakeholders beforehand (for example, do you need legal review?), and perhaps creating new workflows to enable expedited approvals
 - In the first day, review all drafts and future posts for copy and creative that is out of touch with the new reality
    - Be conservative with this review - rewrite or remove anything that could be viewed as inappropriate
- 
+
 #### Why These Recommendations
 - If you need to question your brands' involvement in the story of the moment, you need to pause all publishing to assess the situation correctly.
 - Many high impact events and social movements are intended to be brand-free and it's ultimately your responsibility to consider the risk in inserting your brand into the conversation
