@@ -22,7 +22,7 @@ Blogs fall into the following categories:
 
 ## Who can publish content to the GitLab blog?
 
-[Everyone can contribute at GitLab](/handbook/company/mission/#mission). For the blog, this means we welcome your blog suggestions, ideas, and drafts. However, the [main blog](/blog) is one of the many official voices of GitLab – meaning content that is published there must be carefully vetted to ensure we are accurately representing GitLab – both the company and the product. The Blog Managing Editor and the Director of Global Content Marketing are the [directly responsible individuals (DRIs) for the official GitLab blog](/handbook/people-group/directly-responsible-individuals/) and are tasked with this responsibility.
+[Everyone can contribute at GitLab](/handbook/company/mission/#mission). For the blog, this means we welcome your blog suggestions, ideas, and drafts. However, the [main blog](about.gitlab.com/blog/) is one of the many official voices of GitLab – meaning content that is published there must be carefully vetted to ensure we are accurately representing GitLab – both the company and the product. The Blog Managing Editor and the Director of Global Content Marketing are the [directly responsible individuals (DRIs) for the official GitLab blog](/handbook/people-group/directly-responsible-individuals/) and are tasked with this responsibility.
 
 ## How to suggest a blog idea - NEW PROCESS
 
@@ -215,12 +215,6 @@ This is an `in-line` code block.
 
 "Fenced" code blocks look like the block below. We use these for longer code snippets. To create a fenced code block, put triple backticks on one line directly above and one line directly below the code.
 
-**Example:**
-
-![how to create fenced code block](/images/handbook/marketing/fenced-code-example.png){: .shadow.small.left}
-
-**Results in:**
-
 ```
 this is my code block
    here's another line
@@ -331,5 +325,3 @@ Animated GIFs are very useful to illustrate short dynamic processes, which might
 There are a few ways to create animated GIFs, one of them is using [Giphy Capture], a light-weight app for Mac.
 
 Avoid GIFs with a huge file size, they will be difficult to load for users with bad internet connection. In those cases, you can either cut the GIFs in smaller pieces, or record a video, or use a sequential image.
-
-Read more on [Making Gifs in the Product Handbook](/handbook/product/making-gifs/).
