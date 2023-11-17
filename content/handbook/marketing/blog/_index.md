@@ -186,22 +186,6 @@ You can include as many tags as you like, separated by commas. Please only inclu
 - workflow
 - zero trust
 
-
-#### Post type
-
-We use these to make it faster to track the effectiveness of different types of blog posts. There are several post type categories we use to differentiate blog content:
-
-1. **`content-marketing`:** Examples, education, reporting, storytelling, thought leadership, and use cases. Most blog posts fall into this category.
-1. **`corporate`:** Company news, announcements, and community updates (ex: issue bash, contributor profiles).
-1. **`product`:** Release posts, critical updates, and partnership announcements.
-1. **`dev-evangelism`:** Blog posts authored or contributed to by members of the [Developer Evangelism](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/) team.
-1. **`product-marketing`:** Blog posts authored or contributed to by members of the [Product Marketing](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/) team.
-1. **`edu-program`:** Blog posts authored or contributed by [Education Program Team](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/)
-1. **`oss-program`:** Blog posts authored or contributed by [Open Source Program Team](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/opensource-program/)
-1. **`gitlab-duo`:** Blog posts authored or contributed on GitLab Duo
-1. **`engineering`** Blog posts authored or contributed by members of the Engineering organization
-1. **`general-blog`:** Where a blog post doesn't fall into any of the categories above, using the `general-blog` helps ensure every blog post has a post type and can be tracked.
-
 ### Media embeds
 
 We limit media embeds to the following providers:
