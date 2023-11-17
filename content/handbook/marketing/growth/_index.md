@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Growth Direction
 canonical_path: "/handbook/marketing/growth/"
 ---
@@ -57,7 +57,7 @@ The growth division is currently grouped under the Acquisition team that contain
 ## Product ownership
 The Growth section owns the following areas of the product experience.
 * The [free user](https://gitlab.com/users/sign_up/) and [trial registration](https://about.gitlab.com/free-trial/) experience
-* The new user [onboarding experience](https://about.gitlab.com/handbook/product/growth/#contributing-to-the-learn-gitlab-project)
+* The new user [onboarding experience](/handbook/product/growth/#contributing-to-the-learn-gitlab-project)
 * [Broadcast messages](https://docs.gitlab.com/ee/administration/broadcast_messages.html)
 * [GitLab Experiment Gem (also refered to as GLEX)](https://docs.gitlab.com/ee/development/experiment_guide/)
 * [Instance review](https://docs.gitlab.com/ee/administration/instance_review.html)
@@ -91,4 +91,4 @@ Growth requires constant learning, and many compaines face similar challenges or
 
 ### Helpful Links
 *   [Engineering Growth Section](https://about.gitlab.com/handbook/engineering/development/growth/)
-*   [Growth Product Handbook](https://about.gitlab.com/handbook/product/growth/)
+*   [Growth Product Handbook](/handbook/product/growth/)
