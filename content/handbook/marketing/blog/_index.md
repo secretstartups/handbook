@@ -22,7 +22,7 @@ Blogs fall into the following categories:
 
 ## Who can publish content to the GitLab blog?
 
-[Everyone can contribute at GitLab](/handbook/company/mission/#mission). For the blog, this means we welcome your blog suggestions, ideas, and drafts. However, the [main blog](/blog) is one of the many official voices of GitLab – meaning content that is published there must be carefully vetted to ensure we are accurately representing GitLab – both the company and the product. The Blog Managing Editor and the Director of Global Content Marketing are the [directly responsible individuals (DRIs) for the official GitLab blog](/handbook/people-group/directly-responsible-individuals/) and are tasked with this responsibility.
+[Everyone can contribute at GitLab](/handbook/company/mission/#mission). For the blog, this means we welcome your blog suggestions, ideas, and drafts. However, the [main blog](about.gitlab.com/blog/) is one of the many official voices of GitLab – meaning content that is published there must be carefully vetted to ensure we are accurately representing GitLab – both the company and the product. The Blog Managing Editor and the Director of Global Content Marketing are the [directly responsible individuals (DRIs) for the official GitLab blog](/handbook/people-group/directly-responsible-individuals/) and are tasked with this responsibility.
 
 ## How to suggest a blog idea - NEW PROCESS
 
@@ -52,7 +52,7 @@ The blog team will share the blog's URL with the author once it is published.
 
 Publishing of blog posts occurs according to an editorial calendar. However, that is subject to change based on blogs that are urgent. The blog team will update authors as to their expected publish dates.
 
-### Legal reviews process
+### Legal review process
 
 Some blog posts must be reviewed by legal, in accordance with our [Materials Legal Review Process/SAFE program](https://about.gitlab.com/handbook/legal/materials-legal-review-process/). Authors are responsible for reviewing SAFE guidelines and getting Legal approval before sharing the Google Doc with the blog team. This process can take time, so please plan target publication dates accordingly.
 
@@ -69,7 +69,7 @@ Chat channels:
 
 ## Other related pages
 
-- [Editorial style guide)](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/)
+- [Editorial style guide](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/)
 - [Brand guidelines](https://design.gitlab.com/)
 - [Monthly release post](https://about.gitlab.com/handbook/marketing/blog/release-posts/)
 
@@ -95,7 +95,7 @@ It is important that our blog content represents our company values of diversity
 - If you're still not sure about your use of inclusive language (or just want to check to be sure) test it out against the [inclusiveness check tool](https://inclusiveness-check.herokuapp.com/) developed by GitLab team member, [Lien Van Den Steen](/handbook/company/team/#lienvdsteen). Here's [how the tool works](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-operations-engineering/-/issues/72) and the [words it checks against are listed in the linked project](https://gitlab.com/lienvdsteen/linter/-/tree/master/data).
 - Is every individual in the blog post quoted using their [preferred pronoun](/handbook/people-group/orientation-identity/#how-do-i-know-which-pronouns-to-use)? Tip: If you don't know someone's preferred pronoun, just ask them. It should also be included on the [team page profile](/handbook/company/team/#close-modal) and Slack profile.
 
-### More DIB writing tips
+#### More DIB writing tips
 
 - Is your blog post biased? We all have unconscious biases. Take our [recognizing bias training](/handbook/company/culture/inclusion/unconscious-bias/#recognizing-bias-training), check the [list of unconscious biases in our DIB handbook page](/handbook/company/culture/inclusion/unconscious-bias/#unconscious-biases-to-look-out-for-in-ourselves-and-in-others) and practice strategies for [recognizing and managing yours](/handbook/company/culture/inclusion/unconscious-bias/#tips-on-recognizing-and-avoiding-bias).
 - If you still have questions, don't hesitate to tag the editorial team lead @sgittlen, leads of the appropriate [team member resource group (TMRG)](/handbook/company/culture/inclusion/erg-guide/) in your blog issue, or email diversityinclusionandbelonging@gitlab.com with your questions.
@@ -199,7 +199,7 @@ We limit media embeds to the following providers:
 
 Below are the two types of code blocks we commonly use on the blog. Find a number of other options in the [Markdown guide](https://about.gitlab.com/handbook/markdown-guide/#code-blocks).
 
-#### In-line code
+#### Inline code
 
 We use this for short words or phrases included in a paragraph. For inline code, surround the word or code with single backticks (`).
 
@@ -214,12 +214,6 @@ This is an `in-line` code block.
 #### Fenced code blocks
 
 "Fenced" code blocks look like the block below. We use these for longer code snippets. To create a fenced code block, put triple backticks on one line directly above and one line directly below the code.
-
-**Example:**
-
-![how to create fenced code block](/images/handbook/marketing/fenced-code-example.png){: .shadow.small.left}
-
-**Results in:**
 
 ```
 this is my code block
@@ -331,5 +325,3 @@ Animated GIFs are very useful to illustrate short dynamic processes, which might
 There are a few ways to create animated GIFs, one of them is using [Giphy Capture], a light-weight app for Mac.
 
 Avoid GIFs with a huge file size, they will be difficult to load for users with bad internet connection. In those cases, you can either cut the GIFs in smaller pieces, or record a video, or use a sequential image.
-
-Read more on [Making Gifs in the Product Handbook](/handbook/product/making-gifs/).
