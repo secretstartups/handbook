@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Localization
 description: Handbook page for localization processes.
 ---
@@ -48,11 +48,11 @@ We use Slack internally as a communication tool. The Localization channels are a
 
 ### Translating content for campaigns
 
-Localized campaigns currently follow the [integrated campaign process](/handbook/marketing/campaigns/#campaign-planning). The Integrated Marketing team is responsible for content localization for integrated campaigns. 
+Localized campaigns currently follow the [integrated campaign process](https://about.gitlab.com/handbook/marketing/campaigns/#campaign-planning). The Integrated Marketing team is responsible for content localization for integrated campaigns. 
 
 ### Language preference segmentation
 
-In order to offer content and events in preferred languages where available, we have a `Language Preference` Segmentation created in Marketo. Only Marketing Ops can edit these segments. Available languages for this segmentation can be found on the [Marketo page](/handbook/marketing/marketing-operations/marketo/#segmentations). A person will be added to a `Language Preference` segment if they complete a form on our website or respond to a campaign that was offered in one of the available languages.
+In order to offer content and events in preferred languages where available, we have a `Language Preference` Segmentation created in Marketo. Only Marketing Ops can edit these segments. Available languages for this segmentation can be found on the [Marketo page](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#segmentations). A person will be added to a `Language Preference` segment if they complete a form on our website or respond to a campaign that was offered in one of the available languages.
 
 ### Translated URL structure
 
