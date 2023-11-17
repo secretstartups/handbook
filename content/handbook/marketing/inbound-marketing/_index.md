@@ -70,7 +70,7 @@ Inbound Marketing sets quarterly OKRs, and also maintains a backlog of future OK
 
 #### Brand and Design Issue Templates
 
-The brand and design team is now the Brand Activation team under Corporate Marketing. Please see their [Handbook page](/handbook/marketing/brand-and-product-marketing/design/#requesting-support) for requesting support.
+The brand and design team is now the Brand Activation team under Corporate Marketing. Please see their [Handbook page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/#requesting-support) for requesting support.
 
 #### Inbound Marketing Issue Templates
 
@@ -251,7 +251,7 @@ This is how we work with Issues and their scope
 - This type of Issue is submitted by a team OUTSIDE of Inbound Marketing.
 - This serves as a brief to us.
 - For each type of request we have a corresponding **Request [Type] Issue Template** that should be filled out to begin the process.
-    - [Requesting Support](/handbook/marketing/inbound-marketing/#requesting-support)
+    - [Requesting Support](https://about.gitlab.com/handbook/marketing/inbound-marketing/#requesting-support)
 - Actions taken on issue:
     - Reviewed for all information and label changed to `mktg-status::PLAN` if all there or `mktg-status::blocked` if not all info is there
     - Assigned to a team member to execute on
@@ -385,7 +385,7 @@ If you know of a brand or digital vendor, whether “an agency of one” (aka fr
 
 #### Vendor buddy
 
-- Ensure you know enough about the [invoicing process](https://about.gitlab.com/handbook/finance/accounting/#invoicing-in-coupa) to assist when directing invoicing questions from the vendor to the appropriate party.
+- Ensure you know enough about the [invoicing process](/handbook/finance/accounting/#invoicing-in-coupa) to assist when directing invoicing questions from the vendor to the appropriate party.
     - Please don’t drop the ball, we want vendors to be happy and get paid.
     - Please follow any questions from start to finish to keep things moving along.
         - Ex: “I’m having trouble with Coupa, who can help me?” (Accounts Payable Team)
@@ -415,4 +415,4 @@ If you know of a brand or digital vendor, whether “an agency of one” (aka fr
 
 - - -
 
-Return to the main [Marketing Handbook](/handbook/marketing/).
+Return to the main [Marketing Handbook](https://about.gitlab.com/handbook/marketing/).
