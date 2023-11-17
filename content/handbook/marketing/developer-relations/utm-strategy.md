@@ -11,7 +11,7 @@ title: "Developer Relations workflow: UTM Tracking Strategy"
 
 ## <i class="" id="overview"></i> Overview
 
-The purpose of this page is to outline the UTM strategy of the Community team and how it drives dashboards of the team in Sisense. This strategy is designed inline with [Marketing UTM Strategy](/handbook/marketing/utm-strategy/) and reviewed by the Marketing Strategy & Analytics team.
+The purpose of this page is to outline the UTM strategy of the Community team and how it drives dashboards of the team in Sisense. This strategy is designed inline with [Marketing UTM Strategy](https://about.gitlab.com/handbook/marketing/utm-strategy/) and reviewed by the Marketing Strategy & Analytics team.
 
 ## <i class="" id="utm-usecases"></i> Use Cases
 
@@ -22,7 +22,7 @@ The purpose of this page is to outline the UTM strategy of the Community team an
 
 ### Campaign manager
 
-[CommunityApps](https://campaign-manager.gitlab.com) makes using working with this UTM Strategy easier, you can learn more in the CommunityApps [User Guide](/handbook/marketing/developer-relations/community-apps/campaign-manager/).
+[CommunityApps](https://campaign-manager.gitlab.com) makes using working with this UTM Strategy easier, you can learn more in the CommunityApps [User Guide](https://about.gitlab.com/handbook/marketing/developer-relations/community-apps/campaign-manager/).
 
 ## <i class="" id="utm-parameters"></i> UTM Parameters
 

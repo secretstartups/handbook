@@ -482,8 +482,7 @@ elif [[ $IS_ENGINEERING == true ]]; then
   echo "content/handbook/engineering/$SECTION/**/*.md" >> .markdownlintignore
   sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/engineering/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
 elif [[ $IS_MARKETING == true ]]; then
-  echo "content/handbook/marketing/$SECTION/**/*.md" >> .markdownlintignore
-  sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/marketing/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
+  echo "Skipping mdlintignore as already have a blanket one for marketing"
 elif [[ $IS_HANDBOOK == true ]]; then
   echo "content/handbook/$SECTION/**/*.md" >> .markdownlintignore
   sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
@@ -506,6 +505,35 @@ to fix most markdown liniting errors although a number will still persist.  We h
 "
 HANDBOOK_MR_OUTPUT=$(glab mr create --push --no-editor -y -b main -a jamiemaynard -l "handbook::operations" -t "$MR_TITLE" -d "$MR_DESCRIPTION")
 echo $HANDBOOK_MR_OUTPUT
+
+if [[ $IS_MARKETING == "true" ]]; then
+  echo "Skipping cleaning up www-gitlab-com"
+
+  cat << EOF >> $REPORT_OUT
+---
+title: $TITLE
+Description: Migration report for moving the handbooks $SECTION section
+---
+
+## Migration Report for "$TITLE"
+
+**Section:** $SECTION
+
+**Completed:** $(date)
+
+Please complete the following tasks:
+
+- [ ] Review the MR in handbook for the new content
+  - MR Link: [$HANDBOOK_MR_OUTPUT]($HANDBOOK_MR_OUTPUT)
+- [ ] Move files in to place
+- [ ] Convert .erb files to markdown and shortcodes
+- [ ] Fix outstanding markdown lint errors (optional)
+- [ ] Merge MR for \`handbook\`
+
+EOF
+  cat $REPORT_OUT
+  exit 0
+fi
 
 echo -e "${bold}Moving on to clean up of www-gitlab-com repo...${normal}"
 cd $DUBDUBDUB_REPO

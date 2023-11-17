@@ -11,7 +11,7 @@ title: "Developer Relations Workflows: Content Review"
 
 
 
-The Developer Relations team provides ongoing support to a number of stakeholders who create content including Product Marketing, Brand, and numerous Sales teams. In order to ensure the technical accuracy of content being created across GitLab, we conduct regular reviews of top-performing content across GitLab's main public facing content channels, notably [about.gitlab.com](https://about.gitlab.com) and [Highspot](/handbook/sales/field-communications/gitlab-highspot/#faqs).
+The Developer Relations team provides ongoing support to a number of stakeholders who create content including Product Marketing, Brand, and numerous Sales teams. In order to ensure the technical accuracy of content being created across GitLab, we conduct regular reviews of top-performing content across GitLab's main public facing content channels, notably [about.gitlab.com](https://about.gitlab.com) and [Highspot](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/#faqs).
 
 ## Fix Fridays 
 
@@ -22,7 +22,7 @@ The checklist for Fix Fridays is as follows:
 1. Prior to the review, a Fix Friday issue will be created documenting GitLab's top performing content over the past 30 days. The focus is webpages or Highspot content ranking among the top 20 pages on either channel. The docs site is excluded from these regular reviews.
 1. Once the issue has been created, items will be assigned by a DRI (typically Director, Developer Relations) for review based on team member's areas of expertise, familiarity, recent reviews, and other considerations. 
 1. After you are assigned an item, each team member will be responsible for reviewing their items. These Fix Fridays, however, are intentionally designed to be collaborative so feel free to consult with other team members from across GitLab, as needed. This is a chance to surface issues to our stakeholders, gain a better understanding of our marketing messaging, and deepen our knowledge of GitLab and our customers. 
-1. Address feedback following [the steps for providing feedback](/handbook/marketing/developer-relations/workflows-tools/content-review/#providing-feedback) outlined below. 
+1. Address feedback following [the steps for providing feedback](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/content-review/#providing-feedback) outlined below. 
 1. Once you have completed review of your items, please ensure that the tasks created during your review are assigned to the appropriate DRIs to be resolved.
 1. After the review is complete and tasks are assigned, check the corresponding box in the FixFriday issue to show that the review for each item has been completed.  
 

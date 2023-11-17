@@ -13,7 +13,7 @@ title: "Evangelist Program"
 
 At GitLab our mission is to change all creative work from read-only to read-write so that **everyone can contribute**. In order to fulfill this mission, we need to create both the tools and platform to enable this change and a community of contributors who share our mission. We are just getting started in building the GitLab community and we encourage everyone to contribute to its growth.
 
-There are many ways to participate in the GitLab community today: [contributing to an open source project](/handbook/marketing/developer-relations/contributor-success/), [contributing to our documentation](https://docs.gitlab.com/ee/development/documentation/), [hosting your open source project on GitLab](/solutions/open-source/), or teaching your colleagues and collaborators about the value of [Concurrent DevOps](/topics/devops/ ).
+There are many ways to participate in the GitLab community today: [contributing to an open source project](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/), [contributing to our documentation](https://docs.gitlab.com/ee/development/documentation/), [hosting your open source project on GitLab](/solutions/open-source/), or teaching your colleagues and collaborators about the value of [Concurrent DevOps](/topics/devops/ ).
 
 We are building an evangelist program to support people who share our mission and want to give tech talks, run local meetups, or create videos or blogs. For now, please email `evangelists@gitlab.com` if you have feedback on our vision, ideas for how we can build our community, or suggestions for a name for our evangelist program.
 
@@ -31,7 +31,7 @@ We are actively looking at ways to improve the data collection for our Evangelis
 
 #### KPIs
 
-Key Performance Indicators for the Evangelist Program can be found in the [Marketing section](/company/kpis/#marketing-kpis) of GitLab's KPI index.
+Key Performance Indicators for the Evangelist Program can be found in the [Marketing section](/handbook/company/kpis/#marketing-kpis) of GitLab's KPI index.
 
 #### How to report on program metrics and activity
 
@@ -349,7 +349,7 @@ Gitlab Heroes swag fulfillment is managed by Boundless.
 Note: Process will be updated soon, new merch is coming soon.
 
 
-To replish Heroes swag, please follow the necessary steps in the [Merchandise workflow](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#ordering-new-swag) pages of the Handbook.
+To replish Heroes swag, please follow the necessary steps in the [Merchandise workflow](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#ordering-new-swag) pages of the Handbook.
 
 ### GitLab Heroes Project
 
@@ -361,7 +361,7 @@ If you are organizing or speaking at a community-driven GitLab-centric event, we
 
 #### Student-run hackathons
 
-Student hackathons are the events most frequently submitting requests for support from GitLab. Hackathon organizers who wish to leverage GitLab's DevOps platform for their events are encouraged to use free trials for their events. This can be done by directing hackathon participants to apply for a [free trial of GitLab](/free-trial/) for use during the hackathon which will allow them to use all of GitLab's features. In some cases, if your event meets [the criteria](/handbook/marketing/developer-relations/workflows-tools/team-budgets/#community-event-sponsorship) above at a score of 9 or higher, we may also send stickers for participants or swags as prizes. Given the volume of requests we receive, providing financial support for these events is not feasible.
+Student hackathons are the events most frequently submitting requests for support from GitLab. Hackathon organizers who wish to leverage GitLab's DevOps platform for their events are encouraged to use free trials for their events. This can be done by directing hackathon participants to apply for a [free trial of GitLab](/free-trial/) for use during the hackathon which will allow them to use all of GitLab's features. In some cases, if your event meets [the criteria](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/team-budgets/#community-event-sponsorship) above at a score of 9 or higher, we may also send stickers for participants or swags as prizes. Given the volume of requests we receive, providing financial support for these events is not feasible.
 
 ## Beyond Code Series
 
@@ -525,9 +525,9 @@ Join GitLab developer evangelists and community program managers as they host Co
 
 - [Community Events Calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_90t5ue1q8kbjoq5b0r91nu7rvc%40group.calendar.google.com&ctz=America%2FNew_York)
 - [Meetups Checklist](/community/meetups/checklist/)
-- [Swag](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#ordering-new-swag)
-- [Speakers Bureau](/handbook/marketing/developer-relations/developer-evangelism/speakers-bureau/)
+- [Swag](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#ordering-new-swag)
+- [Speakers Bureau](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/speakers-bureau/)
 
 ### Resources for speakers
 
-For resources for GitLab team members who are planning on attending events or speaking at conferences, see [Speaker Resources](/handbook/marketing/corporate-communications/speaking-resources/).
+For resources for GitLab team members who are planning on attending events or speaking at conferences, see [Speaker Resources](https://about.gitlab.com/handbook/marketing/corporate-communications/speaking-resources/).

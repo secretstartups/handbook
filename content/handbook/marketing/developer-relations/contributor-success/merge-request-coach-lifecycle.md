@@ -22,8 +22,8 @@ If you are no longer able to serve as a Merge Request Coach, you should identify
 
 ## References/resources
 
-1. [Merge Request Coach responsibilities](https://handbook.gitlab.com/job-families/expert/merge-request-coach#responsibilities)
-1. [Merge Request Coach collaboration guidelines](https://handbook.gitlab.com/job-families/expert/merge-request-coach#collaboration-guidelines)
+1. [Merge Request Coach responsibilities](/job-families/expert/merge-request-coach#responsibilities)
+1. [Merge Request Coach collaboration guidelines](/job-families/expert/merge-request-coach#collaboration-guidelines)
 1. [Community Discord channel](https://discord.gg/gitlab): please join if you haven't already!
 
 <% coaches = Gitlab::Homepage.team.merge_request_coaches %>
