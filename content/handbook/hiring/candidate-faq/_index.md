@@ -233,7 +233,7 @@ Our [mission]({{< ref "mission" >}}) makes it clear that we believe in a world w
 - [Life at GitLab](https://about.gitlab.com/jobs/)
 - [How We're Changing the Look of DevOps and Remote Work, One Iteration at a Time](https://builtin.com/brand-studio/gitlab-changing-look-devops-remote-work?utm_source=linkedin&utm_medium=social_media&utm_campaign=gitlab)
 - [GitLab's guide to starting a new remote role](/handbook/company/culture/all-remote/getting-started/)
-- [Life at GitLab Content Library]({{< ref "content-library" >}})
+- [Life at GitLab Content Library]({{< ref "/handbook/people-group/employment-branding/content-library" >}})
 {{% /details %}}
 
 ### What our team members are saying
