@@ -64,7 +64,7 @@ As a Red Team, we emulate attackers. That means the information we share may be 
 
 We maintain [public issue templates](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-public/red-team-issue-templates) for planning, executing, and reporting on Red Team operations. At the start of an operation, we open a new epic and use these templates to create issues corresponding to each stage of work.
 
-By using these templates, everyone on the team knows where we are at and what comes next. This helps us to operate asynchornously and to iterate on our processes based on how well the templates work.
+By using these templates, everyone on the team knows where we are at and what comes next. This helps us to operate asynchronously and to iterate on our processes based on how well the templates work.
 
 ### Red Team Report Delivery
 
@@ -123,7 +123,7 @@ This is s great way to visualize the types of attack techniques we've emulated, 
 
 #### Red Team Maturity Model
 
-We use a custom maturity model to measure our progress and help guide our decisions. This is losely based on the [Capabilities Maturity Model (CMM)](https://en.wikipedia.org/wiki/Capability_Maturity_Model). Our model contains five stages of maturity, each with very specific behaviors we strive to demonstrate and states we hope to achieve.
+We use a custom maturity model to measure our progress and help guide our decisions. This is loosely based on the [Capabilities Maturity Model (CMM)](https://en.wikipedia.org/wiki/Capability_Maturity_Model). Our model contains five stages of maturity, each with very specific behaviors we strive to demonstrate and states we hope to achieve.
 
 We built this using a GitLab issue board, with each maturity level being a list and each item being an issue. We can collaborate inside the issues, discussing our progress and providing links to related issues and merge requests. As we work on specific items, we will add custom labels to indicate an item is in progress, established, or replaced by an item in a latter maturity level.
 
@@ -133,7 +133,7 @@ GitLab team members can view the model [here](https://gitlab.com/gitlab-com/gl-s
 
 We often use an "assumed breach" strategy in Red Team operations. This means we will work with a trusted insider to provide some level of initial access to GitLab's systems. From there, we will focus on post-exploitation tactics and techniques such as establishing persistence and elevating privileges.
 
-Security breaches happen. We read about them every day. Most of our operations are not meant to prove this risk as it is a well-accepted industry fact. 
+Security breaches happen. We read about them every day. Most of our operations are not meant to prove this risk as it is a well-accepted industry fact.
 
 The [MITRE ATT&CK matrix](https://attack.mitre.org) is a great way to visualize the depth and variety of attack techniques that come after initial access. Focusing our efforts there provides the best opportunity to assess and improve our detection and response capabilities.
 
@@ -157,7 +157,7 @@ When we need to create a single portable application, such as emulated malware, 
 
 Other factors may influence the decision on which language to use, such as forking an existing project or a requirement to emulate a specific attack scenario.
 
-To help ensure consistency, we have created a [project template](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-internal/templates/red-team-tooling-template) available internally. This template includes a standard set best practices for testing, building, and relasing new tools.
+To help ensure consistency, we have created a [project template](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-internal/templates/red-team-tooling-template) available internally. This template includes a standard set best practices for testing, building, and releasing new tools.
 
 ## Is This the Red Team?
 
