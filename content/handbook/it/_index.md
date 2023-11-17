@@ -218,7 +218,7 @@ As we continue to iterate, we are creating public handbook pages with user guide
 
 ### IT Tech Stack
 
-- [1Password User Guide](/handbook/security/#accounts-and-passwords) - Password management and security best practices guide
+- [1Password User Guide]({{ ref "password-guidelines##1password" }}) - Password management and security best practices guide
 - 1Password Shared Vault Guide - Accessing and managing vaults with shared credentials
 - [Apple iCloud User Guide](/handbook/business-technology/team-member-enablement/onboarding101/#apple-id) - Apple identity and sync services
 - [Calendly User Guide](/handbook/tools-and-tips/other-apps/#calendly) - Calendar scheduling assistant
