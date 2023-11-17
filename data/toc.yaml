@@ -200,9 +200,9 @@
   url: /handbook/security
   links:
   - name: Security Engineering
-    url: /handbook/security#secure-the-product--security-engineering
+    url: /handbook/security/security-engineering/
   - name: Security Operations
-    url: /handbook/security/security-operations
+    url: /handbook/security/security-operations/
   - name: Threat Management
     url: /handbook/security/threat-management
   - name: Security Assurance
