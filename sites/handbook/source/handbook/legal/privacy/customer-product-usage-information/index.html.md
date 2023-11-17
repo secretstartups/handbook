@@ -116,7 +116,7 @@ _Types of Data_: The Metrics collected include name, email and company of the in
 _Opting-Out_:  By default, all paid Self-Managed subscriptions on 14.1 or higher with an internet connection will have Subscription Data collected via License Sync.  If a customer wishes to opt-out of License Sync, they should consult with Gitlab Sales to obtain a Legacy or Offline License. For paid SaaS subscriptions, you cannot opt-out of Subscription Data collected via Service Ping.
 
 ## Usage Data for AI-Powered Features
-AI-powered features, such as Code Suggestions, are not encompassed by the descriptions on this page.  Those features are each individually subject to their own usage data collection configuration.
+AI-powered features, such as Code Suggestions, are not encompassed by the descriptions on this page.  Those features are each individually subject to their own usage data collection configuration.  Telemetry collected for a specific AI-feature will be detailed under that respective feature's page listed [here](https://docs.gitlab.com/ee/user/ai_features.html).   
 
 
 
