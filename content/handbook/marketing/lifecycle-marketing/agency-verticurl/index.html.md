@@ -1,16 +1,16 @@
 ---
-layout: handbook-page-toc
+
 title: Verticurl Agency
 description: 'Verticurl agency projects, processes, and notes'
 twitter_image: /images/tweets/handbook-marketing.png
 twitter_site: '@gitlab'
 twitter_creator: '@gitlab'
 ---
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Verticurl Agency Overview
 {: #overview .gitlab-purple}
@@ -23,9 +23,9 @@ The Verticurl team will be working with GitLab to execute various tasks in Marke
 {: #shortcuts .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- [Sales Nominated Invitations](/handbook/marketing/lifecycle-marketing/email-processes-requests/#sales-nominated)
-- [Marketo Program + Salesforce Campaigns](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up)
-- [Workshop Landing Page and Marketo Setup](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-logistical-set-up)
+- [Sales Nominated Invitations](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-processes-requests/#sales-nominated)
+- [Marketo Program + Salesforce Campaigns](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up)
+- [Workshop Landing Page and Marketo Setup](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-logistical-set-up)
 
 ### Team Members
 {: #team}
@@ -169,7 +169,7 @@ Should a requested send time be missed, Verticurl can take the liberty to schedu
 ## EMEA/APAC FMC Coordinator 
 The EMEA Field Marketing team has contracted for XYZ hours with Verticurl to augment their FMC duties as that team grows. 
 
-The FMC resources can be found [here](/handbook/marketing/lifecycle-marketing/agency-verticurl/#team). 
+The FMC resources can be found [here](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/agency-verticurl/#team). 
 
 EMEA FMC DRI - Helena Dixon. 
 
@@ -189,7 +189,7 @@ Verticurl FMC
 1. **GitLab**: EMEA/APAC FMC reviews Field Marketing Issue, confirms the campaign tag and Allocadia ID has been created and adds in the allocadia line item to the event details.
 1. **GitLab**: EMEA/APAC FMC adds the label `FMM-Verticurl::wip` to the Field Markeitng Issue, provides instructions on what is required and EMEA/APAC FMC will assign issue to a Verticurl FMC DRI (Directly Responsible Individual) 
 1. **Verticurl**: Verticurl FMC reviews Field Marketing Issue espcially that the FMC Checklist is complete. If information is incomplete the Verticurl FMC will message the FM DRI to clarify and to provide the missing information before they proceed
-1. **Verticurl**: Verticurl FMC creates the epic and sub-issues utilizing this [list of epics](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status)  
+1. **Verticurl**: Verticurl FMC creates the epic and sub-issues utilizing this [list of epics](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status)  
 1. **Verticurl**: Verticurl FMC adds the event to the appropriate events calendar. All events should be added to the [internal calendar](https://about.gitlab.com/handbook/marketing/virtual-events/#gitlab-virtual-events-calendar)
 1. **Verticurl**: Verticurl FMC creates the Marketo program and SFDC campaign utilizing the Program Tracking sub-issue previously created
 1. **Verticurl**: Verticurl FMC pings the FMM in the Program Tracking issue that the Marketo program and SFDC campaign have been created and closes issue

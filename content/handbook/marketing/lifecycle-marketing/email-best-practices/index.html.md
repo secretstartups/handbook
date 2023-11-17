@@ -1,16 +1,16 @@
 ---
-layout: handbook-page-toc
+
 title: Email Best Practices
 description: An overview of GitLab's email best practices.
 twitter_image: '/images/tweets/handbook-marketing.png'
 twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
 ---
-## On this page 
-{:.no_toc .hidden-md .hidden-lg}
+ 
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
 
 ## Overview
 {: #overview .gitlab-purple}

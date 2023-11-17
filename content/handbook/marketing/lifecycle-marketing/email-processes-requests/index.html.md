@@ -1,16 +1,16 @@
 ---
-layout: handbook-page-toc
+
 title: Emails Processes
 description: An overview of email processes at GitLab.
 twitter_image: '/images/tweets/handbook-marketing.png'
 twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
 ---
-## On this page 
-{:.no_toc .hidden-md .hidden-lg}
+ 
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
 
 ## Overview
 {: #overview .gitlab-purple}
@@ -19,7 +19,7 @@ twitter_creator: "@gitlab"
 This page focuses on emails processes, owned and managed by Lifecycle Marketing, Marketing Campaigns, and Marketing Operations.
 
 
-**Related Handbook: [Email Management](/handbook/marketing/marketing-operations/email-management/)**
+**Related Handbook: [Email Management](https://about.gitlab.com/handbook/marketing/marketing-operations/email-management/)**
 
 
 ## GitLab Email Calendar
@@ -92,7 +92,7 @@ Below are the information from the issue template that will need to be filled ou
 {: #email-request-types}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-Go to [this page](/handbook/marketing/marketing-operations/email-management/#types-of-email) to read more about email management and the different types of emails.
+Go to [this page](https://about.gitlab.com/handbook/marketing/marketing-operations/email-management/#types-of-email) to read more about email management and the different types of emails.
 
 #### Approvals and notifications for email requests
 {: #email-request-approval}
@@ -174,12 +174,12 @@ To assist in building email target lists, MktgOps has developed a series of Mark
 ## QA process
 {: #qa-processes .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-**FY23-Q4**: Lifecycle Marketing will be running a Q4 trial of reviewing **all** emails prior to send to ensure compliance with email best practices. Team members are responsible fo reviewing and optimizing their own emails, following the latest [email best practices from lifecycle marketing](/handbook/marketing/lifecycle-marketing/email-best-practices). Lifecycle will be partnering will email stakeholders to improve email performance and drive the best results for our campaigns, as well as maintain brand consistency across all email touchpoints.
+**FY23-Q4**: Lifecycle Marketing will be running a Q4 trial of reviewing **all** emails prior to send to ensure compliance with email best practices. Team members are responsible fo reviewing and optimizing their own emails, following the latest [email best practices from lifecycle marketing](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-best-practices). Lifecycle will be partnering will email stakeholders to improve email performance and drive the best results for our campaigns, as well as maintain brand consistency across all email touchpoints.
 
 **FY24-Q1**: In Q1 of FY24, we will share out how we will continue to scale the email review process.
 
 Email workflow:
-First step in requesting an email from lifecycle begins by creating an issue using the appropriate [issue template](/handbook/marketing/lifecycle-marketing/#request-issue-templates) in GitLab.
+First step in requesting an email from lifecycle begins by creating an issue using the appropriate [issue template](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/#request-issue-templates) in GitLab.
 
 ### Team variations to QA process
 {: #qa-processes-by-team}
@@ -228,7 +228,7 @@ The process must kick off a month before the event, to ensure we have all of the
 #### Newsletter QA process
 {: #qa-process-newsletter}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-Full newsletter request information can be found [here](/handbook/marketing/lifecycle-marketing/email-processes-requests/#newsletter).
+Full newsletter request information can be found [here](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-processes-requests/#newsletter).
 
 ### Email QA Checklist - Technical
 {: #qa-checklist-technical}
@@ -302,7 +302,7 @@ All Campaign Managers and reviewers should adhere to the following protocol for 
 
  Marketo is the primary system for all marketing emails and the regularly scheduled security updates. Iterable or Marketo should be used for emails to gitlab.com users as these users are not in our marketing systems (unless they have signed up for content).
 
-To send an operational email, fill out an issue and follow protocol found [here](/handbook/marketing/marketing-operations/email-management/operational-email-sends/#customer-comms-email).
+To send an operational email, fill out an issue and follow protocol found [here](https://about.gitlab.com/handbook/marketing/marketing-operations/email-management/operational-email-sends/#customer-comms-email).
 
 ## Sales nominated flows in Marketo
 {: #sales-nominated .gitlab-purple}
@@ -342,14 +342,14 @@ Send sample to the DRI for the program (i.e. workshop owner) who is responsible 
 
 You can remove specific recurrences of scheduled sales nominated deployments. The FMC is responsible for this change for field marketing activities, and campaign managers are responsible for this change for demand generation activities.
 
-To cancel a send, follow [these directions](/handbook/marketing/marketing-operations/campaigns-and-programs/#canceling-an-email-send).
+To cancel a send, follow [these directions](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#canceling-an-email-send).
 
 
 #### Adding a nurture email program to Intelligent Nurture programs/streams
 {: #add-nurture-email}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-After you have created the Email Program (see above: [Creating a nurture email program for the Intelligent Nurture](/handbook/marketing/lifecycle-marketing/email-processes-requests/#create-nurture-email)) and tested your email (including checking UTM parameters), your email is ready to be activated in the Intelligent Nurture.
+After you have created the Email Program (see above: [Creating a nurture email program for the Intelligent Nurture](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-processes-requests/#create-nurture-email)) and tested your email (including checking UTM parameters), your email is ready to be activated in the Intelligent Nurture.
 
 Work with the Campaigns Team to indicate the appropriate streams for the offer to be included (this is based on segment/region/funnel stage).
 
@@ -381,12 +381,12 @@ Instead, we should take the following steps:
 2. Add it as a random sample in the send controller as shown in the flow below (use 50% for 2 versions, or split between 100% for more versions):
 
 
-    ![email-ab-test](/handbook/marketing/lifecycle-marketing/emails-nurture/image-4.png){: .medium.center}
+    ![email-ab-test](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/image-4.png){: .medium.center}
     
 3. Monitor results on an email report
 4. Document results on [A/B testing tracker](https://docs.google.com/spreadsheets/d/1BaGJbiYIG8187nnXXy2tvNtJyKXLV4CenCAZMYJbmeI/edit#gid=2079991889)
 
-Please see the [A/B testing section](/handbook/marketing/lifecycle-marketing/email-best-practices/#best-practices-testing) below for best practices for conducting an A/B test.
+Please see the [A/B testing section](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-best-practices/#best-practices-testing) below for best practices for conducting an A/B test.
 
 
 #### Intelligent Nurture - Event promotion
@@ -447,7 +447,7 @@ A day or two before the issue due date, create the newsletter draft. It's easies
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. When the edit view has closed, click on the main newsletter item in the left-hand column.
-1. If there are over 250,000 recipients due to be sent, you must request Marketing Operations to temporarily lift the [Campaign Limits](/handbook/marketing/marketing-operations/marketo/#campaign-limits), otherwise the email will not send.
+1. If there are over 250,000 recipients due to be sent, you must request Marketing Operations to temporarily lift the [Campaign Limits](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#campaign-limits), otherwise the email will not send.
 1. In the `Schedule` box, enter the send date and select `Recipient time zone` if the option is available.
 1. Make sure `Head start` is checked too.
 1. In the `Approval` box, click on `Approve program`.
