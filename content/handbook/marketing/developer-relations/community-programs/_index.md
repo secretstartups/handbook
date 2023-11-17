@@ -1,7 +1,7 @@
 ---
 
 title: "Community Programs"
-description: "This page describes the Community Programs at GitLab and their workflows."
+description: "This page describes the structure of the Community Programs team at GitLab, explains the team's work, and outlines basic team workflows."
 ---
 
 ## About Community Programs
