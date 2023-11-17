@@ -129,6 +129,18 @@ We built this using a GitLab issue board, with each maturity level being a list 
 
 GitLab team members can view the model [here](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-internal/red-team-maturity-model).
 
+### The "Assumed Breach" Model
+
+We often use an "assumed breach" strategy in Red Team operations. This means we will work with a trusted insider to provide some level of initial access to GitLab's systems. From there, we will focus on post-exploitation tactics and techniques such as establishing persistence and elevating privileges.
+
+Security breaches happen. We read about them every day. Most of our operations are not meant to prove this risk as it is a well-accepted industry fact. 
+
+The [MITRE ATT&CK matrix](https://attack.mitre.org) is a great way to visualize the depth and variety of attack techniques that come after initial access. Focusing our efforts there provides the best opportunity to assess and improve our detection and response capabilities.
+
+Some operations may have a specific goal of finding an initial access vector and exploiting it. These operations will require significantly more time and effort, so we want to make sure that the investment is justified by the potential learning outcomes and improvements.
+
+Red Team members may hunt for ways to "break in" to GitLab at any time in the context of an [Opportunistic Attack](#opportunistic-attacks). This allows us to quickly remediate any discoveries. Successful intrusions can then be re-used in future stealth operations as proof of a realistic initial access vector.
+
 ### Red Team Technique Handover
 
 The Red Team will develop new adversary emulation techniques on a regular basis, both during formalized operations and opportunistic attacks. For example, the Red Team may create a bot that logs into development instances and attempts to exploit a specific configuration. Once the risk has been proven and existing detection/response capabilities have been tested, it is time for the technique to be fully disclosed internally.
