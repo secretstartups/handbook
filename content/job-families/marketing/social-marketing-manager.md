@@ -221,6 +221,11 @@ The Senior Manager, Social Media is a [grade 9](/handbook/total-rewards/compensa
 
 
 ### Director, Global Social Media 
+
+#### Job Grade
+
+The Director, Global Social Media is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+
 - Defines and owns the global social media strategy and execution
 - Point of contact for all crises, incidents, and other emergencies
 - Ability to act discreetly with non-public information
