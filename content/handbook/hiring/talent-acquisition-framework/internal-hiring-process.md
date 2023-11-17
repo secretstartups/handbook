@@ -32,7 +32,7 @@ description: "This page discusses the Internal Hiring Process"
 - Once the Recruiter receives an internal team members application, they will proceed with the following:
    - Review the application as you would with an external candidate and determine if they are qualified for the role. If they are not qualified, please ensure you communicate the decision via email (or slack) and provide clear feedback as to why they are not qualified, and add the hiring manager so they are looped in and can add additional feedback if appropriate.
    - Ensure the internal team members GitLab email is associated with their application. If it is not, then update it as such and notify the team member of this change.
-   - Reach out to People Connect by emailing people-connect@gitlab.com with the following subject line “Eligibility Check for internal team member”. In the body of the email please include the team member name and the link to their Greenhouse application.
+   - Reach out to People Connect by emailing people-connect@gitlab.com with the following subject line “Eligibility Check for internal team member”. In the body of the email please include the team member name and the link to their Greenhouse application. People-connect will respond wthin 48 hours. If you need a response sooner than 48 hours please list your request as "URGENT" in the subject line. 
    - Once the Recruiter is notified that the eligibility check is completed via the private notes in Greenhouse, and if eligible, Recruiter will reach out to the team member to introduce themselves and set expectations around the process and discuss compensation expectations to ensure the internal candidate is in line with the range, leveling, and budget for the role. If a team member is not eligible, Recruiter will send the appropriate decline email template.
 - Recruiter will then continue the process as described in the [Talent Acquisition Process Framework]({{< ref "talent-acquisition-framework" >}}) for all candidates. Recruiter will use identified templates in Greenhouse to communicate with candidates, current managers and hiring managers throughout the internal hiring process.
 - Once an internal candidate verbally accepts an offer, the Recruiter will notify CES to get the Job Change Letter (JCL) to the team member.
@@ -50,7 +50,7 @@ description: "This page discusses the Internal Hiring Process"
 - People Connect Leads will handle all eligibility checks for team members applying for an internal opportunity.
    - For eligibility checks for candidates on the people-connect team please reach out directly to the Director of People Operations.
 - Engage People Connect by emailing people-connect@gitlab.com with the following subject line “Eligibility Check for Internal Team Member”. In the body of the email please include the team member name and the link to their Greenhouse application.
-- People Connect Leads will notify the Recruiter that the eligibility check is completed via the private notes in Greenhouse within 48 hours. They will also include the appropriate PBP on CC.
+- People Connect Leads will notify the Recruiter that the eligibility check is completed by tagging them in the private note section in Greenhouse within 48 business hours. 
 Ensure you have met your department specific eligibility requirements:
    - Guidelines for performance eligibility:
       - Team members who are assessed at a Performing or Exceeding Performance level during Talent Assessment are eligible to be considered for another role
