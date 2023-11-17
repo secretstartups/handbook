@@ -22,6 +22,6 @@ The body of work can be divided between:
 
 More detailed information about the team and how to contact us can be found in the [team's wiki.](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Billing%20Operations%20&%20Accounts%20Receivable%20Wiki#bar_chart-gpo-team)
 
-# Our partners
+## Our partners
 
 We're happy to partner and collaborate with various teams across GitLab.
