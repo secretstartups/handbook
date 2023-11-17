@@ -135,8 +135,11 @@ If a Risk Acceptance was put in place at the time of the previous assessment, in
 | ------ | ------ |------ |------ |------ |------ | ------ |
 |Red*     |3rd Party Attest & [SIG Lite Plus](https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true) (or equiv)|     Yes|          If applicable|     Yes|    If Applicable | Yes |
 |Orange SaaS Systems or Locally Hosted/Installed Systems with Data Exchange| 3rd Party Attest & [SIG Lite Plus](https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true) (or equiv)|     Yes|          Yes|     Yes|     Yes | Yes |
+| Orange Individual Use Software* | 3rd Party Attest or [SIG Lite Plus](https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true) (or equiv) | No | No | No | Yes | No|
 |Orange Professional Services | 3rd Party Attest or [SIG Prof Svcs](https://docs.google.com/spreadsheets/d/1xiReZd5heUl5YVFCqPxEfXJIYlqtz_LS/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true)|          N/A|     N/A| N/A|   N/A| N/A|
-|Yellow/Green**     |-|     -|     -|     Yes*|    - | - |
+|Yellow/Green**     | N/A |  N/A |  N/A |     Yes*| N/A  | N/A  |
+
+*See **Individual Use Software** section for more details.
 
 Software is inventoried in the tech stack regardless of data classification. See [Tech Stack Application Handbook](/handbook/business-technology/tech-stack-applications/#tech-stack-updates) for more details.
 
@@ -252,19 +255,10 @@ In specific instances, requirements for the performance or contents of TPRM revi
 
 ### Other Types of Third Party Assessments
 
-#### Annual High-Risk Vendor Assessments
+#### Individual Use Software
 
-GitLab places particular reliance on a subset of vendors that either have access to Red data or are in-scope for compliance activities. With this in mind, Security Risk follows an annual assessment cadence for these vendors to ensure ongoing coverage and identification of potential security risks. This is scheduled to take place between late-Q3 and Q4 of each Fiscal Year.
+GitLab Team Members leverage [Individual Use Software](/handbook/finance/procurement/personal-use-software/) for various tasks on a user-by-user basis. Generally, these tools are categorized as having a [Critical System Tier](/handbook/security/security-assurance/security-risk/storm-program/critical-systems/#determining-critical-system-tiers) of '4'. Because Individual Use Software does not have a technical and/or business owner, it is not required to be represented in the [Tech Stack](/handbook/business-technology/tech-stack-applications/). Security Risk reserves the right to disallow or not approve the use of Individual Use Software that does not meet GitLab Security requirements. Exceptions to this process (such as Risk Acceptances) will be considered on a case-by-case basis. For more information, refer to GitLab's [Internal Acceptable Use Policy](/handbook/people-group/acceptable-use-policy/).
 
-Scoping for this activity is based on the below populations, and is finalized in coordination with various teams within GitLab to ensure accuracy in our scoping:
-1. [GitLab's Third Party Sub-Processors](https://about.gitlab.com/privacy/subprocessors/#third-party-sub-processors)
-1. [GitLab's Professional Services Sub-processors](https://about.gitlab.com/privacy/subprocessors/#professional-services-sub-processors)
-1. SOC 2-scoped Applications
-1. Red Applications
-
-Vendors within the above populations are assessed in alignment with our Red vendor assessment criteria. Deficiencies identified are reported to Business Owners in alignment with our TPRM Risk Acceptance process.
-
-*Is there a vendor you'd like to see included in our annual assessment procedures? Reach out to @Security-Risk in the #Sec-Assurance channel.*
 
 #### Change Requests
 
@@ -305,10 +299,10 @@ TPRM utilizes a risk-based approach when assessing third parties. Specific proce
 The Security Risk Team will take reasonable steps to collaborate with vendors and obtain the documentation necessary to complete our review. Depending on the service provided and the data being transmitted, this may include requests for a Third Party Security Attestation and other relevant documentation such as a penetration testing summary and business continuity plan test. In the event that a vendor does not maintain this documentation, or refuses to provide it, the Security Risk team may suggest that the requestor find an alternative solution to meet their needs. In the event that the requestor decides to move forward with the vendor or service in question, a [Risk Acceptance](#tprm-risk-acceptance-process) may be drafted and presented to relevant members of the business to ensure an understanding of the identified risk.
 
 In the performance of these reviews, deficiencies may be identified that could present a risk to GitLab data that exceeds our tolerance. These deficiencies commonly include the below items:
-1. Inability to integrate with [Okta](/handbook/business-technology/okta/#what-is-okta)*
 1. Lack of third-party Security attestation (ISO 270001, SOC2 Type 2)
 1. Lack of background checks for employees and contractors
-1. Systems lacking multi-factor authentication (MFA) capabilities
+1. Inability to integrate with [Okta](/handbook/business-technology/okta/#what-is-okta)* (in alignment with [GitLab's Password Standard](/handbook/security/password-standard/#application-authentication-requirements))
+1. Systems lacking multi-factor authentication (MFA) capabilities (in alignment with [GitLab's Password Standard](/handbook/security/password-standard/#application-authentication-requirements))
 1. Systems lacking evidence of a recent penetration test
 1. Unresolved deficiencies documented within the penetration test with no apparent remediation plan or expected remediation date
 

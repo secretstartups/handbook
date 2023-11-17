@@ -23,7 +23,7 @@ Since GitLab is a [handbook first](/handbook/company/culture/all-remote/handbook
 
 If you are unable to find the information you are looking for, please be sure to reach out to your Manager; Onboarding Buddy; People Connect Team member or Enablement Program Manager for support by tagging them in the comments section of this issue. If you need to troubleshoot specific issues with tools, you can add a screenshot of the issue directly in the comment to help them diagnose the problem.
 
-Alternatively once you are active on [Slack](/handbook/communication/#key-slack-channels), which is used solely for informal communication, you will notice that you have been automatically added to a handful of useful support channels such #questions, #cs-questions, #solutions-architects, #it-help, etc.
+Alternatively once you are active on [Slack](/handbook/communication/chat), which is used solely for informal communication, you will notice that you have been automatically added to a handful of useful support channels such #questions, #cs-questions, #solutions-architects, #it-help, etc.
 
 ## 30-60-90 Day Program
 
