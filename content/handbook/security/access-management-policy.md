@@ -154,7 +154,7 @@ GitLab operates its access management under the [principle of least privilege](h
 
 - All attempts will be made for individual access removal requests to be processed within the SLA requested. If no SLA is noted, access will be deprovisioned within 5 business days of the submission of the issue.
 
-- If access removal needs to occur immediately, please follow the [panic email procedures]({{< ref "_index.md#panic-email" >}}), which will alert the on-call Security team member(s).
+- If access removal needs to occur immediately, please follow the [panic email procedures]({{< ref "#reporting-an-incident" >}}), which will alert the on-call Security team member(s).
 
 ### Job Transfers
 

@@ -120,7 +120,7 @@ Remember, an account-centric micro-campaign consists of at least 2 different acc
 
 # Confidentiality in GitLab Issues and Epics
 
-When working in GitLab issues and epics, please remember that due to GitLab's value of [Transparency](/handbook/values/#transparency), many of our issues and epics are, by default, public. Best practice is to avoid including any PII or login details in issues and epics directly. If posting details of this nature is a necessity, please remember to always make your [issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#make-an-issue-confidential) or [epic](https://docs.gitlab.com/ee/user/group/epics/manage_epics.html#make-an-epic-confidential) `Confidential` when doing so. Please also be diligent in your issues and epics regarding comments made by other team members as well. If you notice another team member has posted details that should not remain public, immediately make the [issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#make-an-issue-confidential) or [epic](https://docs.gitlab.com/ee/user/group/epics/manage_epics.html#make-an-epic-confidential) `Confidential`. Other options to allow our issues to remain public, are including PII in a spreadsheet or document posted in the issue or epic that are only accessible by certain people. If logins need to be shared, please utilize the Marketing Vault in [1pass](/handbook/security/#security-process-and-procedures-for-team-members).
+When working in GitLab issues and epics, please remember that due to GitLab's value of [Transparency](/handbook/values/#transparency), many of our issues and epics are, by default, public. Best practice is to avoid including any PII or login details in issues and epics directly. If posting details of this nature is a necessity, please remember to always make your [issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#make-an-issue-confidential) or [epic](https://docs.gitlab.com/ee/user/group/epics/manage_epics.html#make-an-epic-confidential) `Confidential` when doing so. Please also be diligent in your issues and epics regarding comments made by other team members as well. If you notice another team member has posted details that should not remain public, immediately make the [issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#make-an-issue-confidential) or [epic](https://docs.gitlab.com/ee/user/group/epics/manage_epics.html#make-an-epic-confidential) `Confidential`. Other options to allow our issues to remain public, are including PII in a spreadsheet or document posted in the issue or epic that are only accessible by certain people. If logins need to be shared, please utilize the Marketing Vault in [1Password](password-guidelines#1password).
 
 For more information regarding confidentiality levels and compliancy, please visit [this handbook page](/handbook/communication/confidentiality-levels/).
 
@@ -236,8 +236,8 @@ The schedule provided below presents a 20-week planning timeline meticulously de
 <summary><b>We delve into content creation, design, and finalizing key stakeholder involvement while maintaining a clear timeline.</b></summary>
 
 - Review the Issues/Epics, adding estimated completion dates for each task.
-- Confirm availability and roles of requested cross-functional team members and finalize team member assignments. Note: Internal team members must have permission from their managers to travel.  Once approved, send placeholders to their calendars for events. 
-- Work with the design team to conceptualize event branding and design if needed. 
+- Confirm availability and roles of requested cross-functional team members and finalize team member assignments. Note: Internal team members must have permission from their managers to travel.  Once approved, send placeholders to their calendars for events.
+- Work with the design team to conceptualize event branding and design if needed.
 - Begin drafting the Copy document to form the events foundation.
 - Collect  concise abstracts from speakers and presenters for their sessions, to enhance your landing page and agenda.
 - Review initial content drafts and design concepts.
@@ -246,7 +246,7 @@ The schedule provided below presents a 20-week planning timeline meticulously de
 
 </details>
 
-## 11-12 Weeks Out: Review, Refine Content, Develop Landing Page and Collateral 
+## 11-12 Weeks Out: Review, Refine Content, Develop Landing Page and Collateral
 
 <details markdown=1>
 
@@ -274,7 +274,7 @@ The schedule provided below presents a 20-week planning timeline meticulously de
 
 </details>
 
-## 3-7 Weeks Out: Enriching Engagement and Preparing for Event Second Email Communication 
+## 3-7 Weeks Out: Enriching Engagement and Preparing for Event Second Email Communication
 
 <details markdown=1>
 
@@ -330,7 +330,7 @@ The schedule provided below presents a 20-week planning timeline meticulously de
 
 <summary><b>Following the event, we analyze its performance, gather insights, and embark on improvement strategies.</b></summary>
 
-- Analyze key event performance metrics, encompassing attendance, engagement, conversions, and participant feedback 
+- Analyze key event performance metrics, encompassing attendance, engagement, conversions, and participant feedback
 - Conduct 360 Review with key stakeholders on the effectiveness of the event, lessons learned and to identify areas for improvement.
 - Compile and prepare leads for upload to Marketo within 48 hours, , including detailed corresponding notes. Ensure all lead information is accurate and ready for upload
 - Upload event leads
@@ -338,7 +338,7 @@ The schedule provided below presents a 20-week planning timeline meticulously de
 - Wrap up and close campaign issue and archive relevant materials.
 
 </details>
- 
+
 ## 1-2 Weeks Post Event: Evolving for the Future
 
 <details markdown=1>
@@ -366,7 +366,7 @@ after Field Marketing has executed a campaign, the Field Marketing Manager is re
 
 # ROI tracking for Field Marketing
 
-For complete instructions on FMM ROI, [please see here](https://about.gitlab.com/handbook/marketing/strategy-performance/marketing-metrics/#field-marketing-metrics). 
+For complete instructions on FMM ROI, [please see here](https://about.gitlab.com/handbook/marketing/strategy-performance/marketing-metrics/#field-marketing-metrics).
 
 ## Adding SFDC Campaigns to Leads for Attribution
 
@@ -408,7 +408,7 @@ The following is the process for when a Field Marketing issue moves from `mktg-s
 
 Please plan your timelines accordingly based on the below SLAs. Keep in mind these SLAs must also include additional time for any Friends & Family Days or holidays.
 
-*FMMs - For the asset copy process, please allow for a total of 8 business days (which encompasses the SLAs below).* 
+*FMMs - For the asset copy process, please allow for a total of 8 business days (which encompasses the SLAs below).*
 
 - **Contract Requests:** 3 business days
 - **Plan to WIP Requests** - 5 business days
@@ -572,7 +572,7 @@ See instructions [here](https://about.gitlab.com/handbook/marketing/field-market
 
 ## Adding and Removing Workshop Postings on the Regional Workshop Demo Pages
 
-We market our workshops on both the [GitLab events page](https://about.gitlab.com/events/) and via the below EMEA regional workshop/demo page (the AMER and APAC demo pages have been deprecated). The GitLab events page listings require an MR to add new events (see instructions [here](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents)) and events will automatically drop off the page once the event date passes. But the regional workshop/demo pages require manual adjustment. When an EMEA workshop LP is created by Marketing Ops, they will add to the EMEA workshop/demo page once the LP is approved. When the workshop is completed and the FMC requests that Marketing Ops closes the LP, Marketing Ops will also remove the listing from the regional workshop/demo page. 
+We market our workshops on both the [GitLab events page](https://about.gitlab.com/events/) and via the below EMEA regional workshop/demo page (the AMER and APAC demo pages have been deprecated). The GitLab events page listings require an MR to add new events (see instructions [here](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents)) and events will automatically drop off the page once the event date passes. But the regional workshop/demo pages require manual adjustment. When an EMEA workshop LP is created by Marketing Ops, they will add to the EMEA workshop/demo page once the LP is approved. When the workshop is completed and the FMC requests that Marketing Ops closes the LP, Marketing Ops will also remove the listing from the regional workshop/demo page.
 
 - [EMEA Workshop/Demo Page](https://page.gitlab.com/technical-demo-series-emea.html)
 
@@ -733,20 +733,20 @@ The Field Marketing team utilizes the Field Marketing Fedex Account for shipping
 
 # Field Marketing Food and Beverage Vendors for Virtual Events
 
-## AMER Field Marketing Virtual Food and Beverage Vendors 
+## AMER Field Marketing Virtual Food and Beverage Vendors
 
 The AMER Field Marketing team utilizes [Grubhub](https://www.grubhub.com/) and [Pizzatime](https://pizzatime.xyz/) for all virtual events with a food and beverage component. Both vendors offer a wide range of food and beverage options to fit the needs of your virtual event best.
 
 ### [Grubhub](https://www.grubhub.com/)
 
 #### When to use Grubhub
-Grubhub will be utilized for smaller, owned, and partner events that will host executive-level registrants. Cost per person to be between $35-$50. 
+Grubhub will be utilized for smaller, owned, and partner events that will host executive-level registrants. Cost per person to be between $35-$50.
 
 It is important to note that Grubhub will be utilized for _post-event meal credit distribution_. The FMM is responsible for taking account of registrants who attend in the first 30 minutes of the event. The FMM will utilize the list of attended registrants to upload to Grubhub prior to the conclusion of the event.
 
-#### Order Link Sharing 
+#### Order Link Sharing
 
-It is important to note that there is a limit on link sharing when utilizing the Grubhub platform. When registrant information is uploaded to the platform for event preparation, said registrants will receive a **unique, non-sharable link** to place their order. 
+It is important to note that there is a limit on link sharing when utilizing the Grubhub platform. When registrant information is uploaded to the platform for event preparation, said registrants will receive a **unique, non-sharable link** to place their order.
 
 #### Details Regarding Grubhub Financials and Budgeting
 
@@ -797,7 +797,7 @@ _If you do not see the Business account page, you are not an assigned Admin user
 - Grubhub Corporate Support Number: (844)-478-2249
     - Press 1 for order status
     - Press 2 for all other order issues
-    - Press 3 for questions about your account setup 
+    - Press 3 for questions about your account setup
 
 </details>
 
@@ -805,11 +805,11 @@ _If you do not see the Business account page, you are not an assigned Admin user
 
 _More detailed instructions are listed below._
 
-1. FMM to log into their Grubhub Admin Portal. 
-2. FMM to create a group, naming the group the title of the event. 
+1. FMM to log into their Grubhub Admin Portal.
+2. FMM to create a group, naming the group the title of the event.
 3. FMM to create a meal credit for the event, assigning the meal credit to the created group.
-4. FMM to take account of the attended registrants in the first 30 minutes and bulk upload the _attended_ registrant information and assign it to the created Group prior to the conclusion of the event.  
-5. FMC to bulk remove registrant information once the event has concluded and the invoice has been received (all invoices are sent to FMCs on a monthly cadence).   
+4. FMM to take account of the attended registrants in the first 30 minutes and bulk upload the _attended_ registrant information and assign it to the created Group prior to the conclusion of the event.
+5. FMC to bulk remove registrant information once the event has concluded and the invoice has been received (all invoices are sent to FMCs on a monthly cadence).
 
 #### Creating Group Accounts
 
@@ -827,10 +827,10 @@ Before you [create a Meal Credit](https://corporate.grubhub.com/resource/meal-cr
 2. In the navigation bar, hover over Employees & Groups and click “Groups”.
 3. Here, you can manage all your Groups. Select Add new group.
 4. Give your new Group a name (event name) and description, then click Add group.
-5. Now, assign employees to that Group. Employees must first be added to your account before they can be assigned to a Group. 
+5. Now, assign employees to that Group. Employees must first be added to your account before they can be assigned to a Group.
     - If you already have employees added to your account, click Add employees and select the employees you want to add to this Group.
     - If you don’t already have employees added to your account, hover over Employees & Groups in the navigation bar and click Employees. You can manually add employees one by one with the “Add New Employee” button, or [bulk add employees](https://corporate.grubhub.com/resource/admin-portal/uploading-employees-in-bulk/).
-        - It is important to note that when bulk-adding employees you must include the name of the group in the upload file where applicable. This ensures the employees are assigned to a group. 
+        - It is important to note that when bulk-adding employees you must include the name of the group in the upload file where applicable. This ensures the employees are assigned to a group.
 6. Now you can [create your meal credits](https://corporate.grubhub.com/resource/meal-credits/).
 7. FMC to bulk remove registrant information once the event has concluded and the invoice has been received (all invoices are sent to FMCs on a monthly cadence).
 
@@ -905,7 +905,7 @@ Before you create a Meal Credit, make sure that you have [created a Group to ass
 <details markdown=1>
 
 <summary><b>Expand below to see details regarding Meal Credits</b></summary>
- 
+
 **How do I create meal credits?**
 - Please see the above section, Creating Meal Credits, for a step-by-step guide.
 
@@ -923,26 +923,26 @@ There could be a few reasons. Check to make sure all the below items are address
 - The order exceeds the amount budgeted to the user (a credit card may be required to cover overages).
 - The user is attempting to order outside of your company’s allotted ordering times.
 
-</details> 
+</details>
 
-### [Pizzatime](https://pizzatime.xyz/) 
+### [Pizzatime](https://pizzatime.xyz/)
 
 #### When to use Pizzatime
-Pizzatime will be utilized for larger, virtual-owned events that will host mid to executive-level registrants. Cost per person to be between $20-$40. 
+Pizzatime will be utilized for larger, virtual-owned events that will host mid to executive-level registrants. Cost per person to be between $20-$40.
 
-It is important to note that Pizzatime will be utilized for _pre-event meal credit distribution_. 
+It is important to note that Pizzatime will be utilized for _pre-event meal credit distribution_.
 
-#### Order Link Sharing 
+#### Order Link Sharing
 
 It is important to note that there is no limit on link sharing when utilizing the Pizzatime platform. Meaning, once registrants receive the link to place their order, **they can share it with non-registrants** who can then redeem it for a meal.
 
 #### Details Regarding Pizzatime Financials and Budgeting
 
-- It is important to note that in order to place an order with Pizzatime, you will be required to request a [Coupa Virtual Card](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/) for payment. 
-- Please submit a [Contract Request](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing-contract-requests) for the Coupa Virtual Card to your FMC with all the required details pertaining to your event. 
-- **Note**: Ensure all cost estimates have been added to Allocadia. If the final Pizzatime order cost is 10% above the requested Coupa Virtual Card amount, please inform your FMC as they will need to submit a [PO Change Request](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-do-a-purchase-order-change-request). 
+- It is important to note that in order to place an order with Pizzatime, you will be required to request a [Coupa Virtual Card](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/) for payment.
+- Please submit a [Contract Request](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing-contract-requests) for the Coupa Virtual Card to your FMC with all the required details pertaining to your event.
+- **Note**: Ensure all cost estimates have been added to Allocadia. If the final Pizzatime order cost is 10% above the requested Coupa Virtual Card amount, please inform your FMC as they will need to submit a [PO Change Request](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-do-a-purchase-order-change-request).
 - **Note**: The order confirmation page on Pizzatime will serve as your SOW. The steps below detail how to get to the confirmation page.
-- _To confirm which month the spend will hit, please refer to our [Prepaid Policy](/handbook/finance/accounting/#prepaid-expense-policy)._ 
+- _To confirm which month the spend will hit, please refer to our [Prepaid Policy](/handbook/finance/accounting/#prepaid-expense-policy)._
 
 #### Pizzatime Training
 
@@ -957,7 +957,7 @@ It is important to note that there is no limit on link sharing when utilizing th
 - [Pizzatime Help Desk](https://pizzatime.helpscoutdocs.com/)
 - Pizzatime Support Email: pizza@pizzatime.xyz
 
-</details> 
+</details>
 
 #### Details Regarding Pizzatime Ordering
 
@@ -968,7 +968,7 @@ It is important to note that there is no limit on link sharing when utilizing th
 
 1. Proceed to [book your Pizzatime order](https://app.pizzatime.xyz/book/date).
 1. Follow all of the prompts, selecting food & drink options relative to your event.
-1. Once you reach the confirmation/payment page, take a screenshot of the entire page. Attach this screenshot to your contract request (this serves as your SOW). 
+1. Once you reach the confirmation/payment page, take a screenshot of the entire page. Attach this screenshot to your contract request (this serves as your SOW).
 1. Submit a [Contract Request](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing-contract-requests) to your FMC. They will provide you with your Coupa virtual card information, once the order has been approved and the card has been issued.
 1. Once you have the Coupa virtual card information from your FMC, proceed to book/pay for your Pizzatime order via the Pizzatime website.
 1. Provide the payment receipt to your FMC for reference.
@@ -1024,7 +1024,7 @@ In Field Marketing, the FMCs manage all [Zip requisitions](/handbook/business-te
 
 # Corporate Memberships Owned by GitLab Field Marketing
 
-- [AFCEA](https://www.afcea.org/site/) - Membership is handled by the Public Sector Field Marketing Manager. Account information is stored in the marketing 1Pass vault. Please ping Kira Aubrey or Haley McComber for assistance. 
+- [AFCEA](https://www.afcea.org/site/) - Membership is handled by the Public Sector Field Marketing Manager. Account information is stored in the marketing 1Pass vault. Please ping Kira Aubrey or Haley McComber for assistance.
 - [ACT-IAC](https://www.actiac.org) - Membership is handled by the Public Sector Field Marketing Manager. Please ping Kira Aubrey for details if you'd like to join.
 - [Charleston DCA](https://www.charlestondca.org/) - Membership is handled by the Public Sector Field Marketing Manager. Please ping Kira Aubrey for details if you'd like to join.
 - [G2xExchange](https://www.g2xchange.com) - Membership is handled by the Public Sector Field Marketing Manager. Please ping Haley McComber for details if you'd like to join.
@@ -1114,28 +1114,28 @@ This deck should also be used to present the regional plans to the sales teams.
 ## Next Steps after Quarterly  plans are complete
 In an effort to share the FMM team plans with the rest of the marketing team, the below steps will be followed.
 
-### [Marketing SSOT calendar](https://about.gitlab.com/handbook/marketing/#marketing-calendar) 
+### [Marketing SSOT calendar](https://about.gitlab.com/handbook/marketing/#marketing-calendar)
 
 Within two days of the FMM plan being [locked by Finance](/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) in Allocadia, the WW Field & Channel Marketing Director will download the team's plans from Allocadia and will upload to the shared [marketing calendar](https://about.gitlab.com/handbook/marketing/#marketing-calendar).
 
-In order to ensure the formulas carry over properly, the download from Allocadia will need to be cleaned, similiar to how we clean our leads for list upload. 
+In order to ensure the formulas carry over properly, the download from Allocadia will need to be cleaned, similiar to how we clean our leads for list upload.
 
-The [Calendar cleaner spreadsheet](https://docs.google.com/spreadsheets/d/19XsjDlnAJ_lmWysIcD1XSL1JT3R0awDUd_7MRCGgMgs/edit#gid=777223734&range=A1) should be used to do this. Once the data is cleaned, it then can be copied into the [marketing calendar](https://about.gitlab.com/handbook/marketing/#marketing-calendar). 
+The [Calendar cleaner spreadsheet](https://docs.google.com/spreadsheets/d/19XsjDlnAJ_lmWysIcD1XSL1JT3R0awDUd_7MRCGgMgs/edit#gid=777223734&range=A1) should be used to do this. Once the data is cleaned, it then can be copied into the [marketing calendar](https://about.gitlab.com/handbook/marketing/#marketing-calendar).
 
-[Video walk through on how to clean.](https://youtu.be/xiABH1Gjkw4) *on GitLab Unfiltered. 
+[Video walk through on how to clean.](https://youtu.be/xiABH1Gjkw4) *on GitLab Unfiltered.
 
 After the initial pull, the FMMs are responsible for adding any new tactics for the quarter. The FMCs will handle adjusting the existing tactics in the SSoT calendar based on the event [rescheduling or cancellation guidelines](https://about.gitlab.com/handbook/marketing/field-marketing/#rescheduling-or-cancelling-events).
 
-### Channel plans 
-All plans with the various channel partners can be found within the [marketing calendar](https://about.gitlab.com/handbook/marketing/#marketing-calendar). 
+### Channel plans
+All plans with the various channel partners can be found within the [marketing calendar](https://about.gitlab.com/handbook/marketing/#marketing-calendar).
 
 ### Asks into Digital Campaigns
 Details on how Field Marketing shares quarterly plans with the Digital team can be [found here](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/).
 
-### Asks into Product Marketing 
-~~By the 15th of the 3rd month of the quarter, all asks for the Portfolio Marketing team for the upcoming quarter should be opened up for their review. Following their process outlined here. It's the responsibility of each FMM to ensure their asks are in by this time. The ~Field Marketing label must be added to the request in order for the PM team to review. We will use [this list](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues?label_name%5B%5D=Field+Marketing&label_name%5B%5D=sm_request&scope=all&sort=due_date&state=opened&utf8=%E2%9C%93) to review.~~ 
+### Asks into Product Marketing
+~~By the 15th of the 3rd month of the quarter, all asks for the Portfolio Marketing team for the upcoming quarter should be opened up for their review. Following their process outlined here. It's the responsibility of each FMM to ensure their asks are in by this time. The ~Field Marketing label must be added to the request in order for the PM team to review. We will use [this list](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues?label_name%5B%5D=Field+Marketing&label_name%5B%5D=sm_request&scope=all&sort=due_date&state=opened&utf8=%E2%9C%93) to review.~~
 
-This section is WIP as we have new team members and will need to build a new process. 
+This section is WIP as we have new team members and will need to build a new process.
 
 #### Asks into the Customer Reference team
 After the quarterly FMM plans have been added to the [marketing calendar](https://about.gitlab.com/handbook/marketing/#marketing-calendar), the regional Manager of FMM will set up an alignemnt meeting with the Director of Market Strategy & Insights. The regional FMMs as well as the regional customer reference manager should also be invited to this meeting. During this meeting, the team will review asks into the [Customer reference team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/) and agree on asks for the quarter.
@@ -1154,7 +1154,7 @@ You will note in Allocadia in the details panel if you need SA support. [Video w
 
 # Field Marketing/Channel Marketing Engagement and GTM Strategy
 
-WIP TO BE UPATED based on FY24. 
+WIP TO BE UPATED based on FY24.
 
 The complete list of Select Channel Partners are identified in SFDC [here](https://gitlab.my.salesforce.com/00O4M000004aSq6). (*Please note, SFDC is the SSOT for our roster of Select Partners.)
 
@@ -1234,11 +1234,11 @@ If you are a FMM receiving questions about the Channel Portal, then please direc
 Please head over to [their page](https://about.gitlab.com/handbook/marketing/channel-marketing/) to check out their work and process.
 For more details on what the Channel Programs team does, please head to their [page](https://about.gitlab.com/handbook/sales/channel/).
 
-# Field Marketing with Alliance Partners 
-## AWS 
-## Google 
-### Register your event with Google 
-* If you have a joint event you are running with Google and you would like for their sales and marketing teams to help recruit attendees, you must [register your event here](https://docs.google.com/forms/d/e/1FAIpQLSfWoX35znH5PpR2LTlL7DQzCf3CoW2KkOc9egEa_FoaH6XC4A/viewform). 
+# Field Marketing with Alliance Partners
+## AWS
+## Google
+### Register your event with Google
+* If you have a joint event you are running with Google and you would like for their sales and marketing teams to help recruit attendees, you must [register your event here](https://docs.google.com/forms/d/e/1FAIpQLSfWoX35znH5PpR2LTlL7DQzCf3CoW2KkOc9egEa_FoaH6XC4A/viewform).
 
 # Field Marketing - Public Sector
 
@@ -1696,10 +1696,10 @@ You will be notified via the Geekbot plug in on slack at 9 AM your local time on
 ## Out of Office Processes
 We follow the processes documented in the [Communicating your time off section](/handbook/paid-time-off/#communicating-your-time-off) of our handbook page.
 
-Specifically: 
-1. Add your OOO to [Time Off by Deel](/handbook/paid-time-off/#time-off-by-deel) 
+Specifically:
+1. Add your OOO to [Time Off by Deel](/handbook/paid-time-off/#time-off-by-deel)
 1. Add an OOO message for your email. Please ensure you are including a DRI in your OOO email response for people outside the company to contact.
-1. Turn on [Google Calendar's "out of office" setting](https://support.google.com/calendar/answer/7638168?hl=en) (scroll down to "Show when you’re out of office") to create an out of office event that will automatically decline new and existing meetings for you. Or, please ensure to manually cancel/decline/reschedule any meetings if you will not be in attendance. 
+1. Turn on [Google Calendar's "out of office" setting](https://support.google.com/calendar/answer/7638168?hl=en) (scroll down to "Show when you’re out of office") to create an out of office event that will automatically decline new and existing meetings for you. Or, please ensure to manually cancel/decline/reschedule any meetings if you will not be in attendance.
 1. Add an OOO to your Slack profile (this will occur automatically when you submit your OOO to Time Off by Deel). If you’re traveling for an event and not necessarily on PTO/vacation, please ensure you are manually updating your Slack status accordingly.
 1. Add an OOO to your GitLab profile and mark yourself as `busy`
 1. For the AMER FM Team, please add your OOO to the [FM AMER Team PTO Google calender](https://calendar.google.com/calendar/u/0?cid=Y18yZjA0OGVhNzc3YjcyZWQzYTRmY2VkOTZjZWI5NjRiMTNlNWM1YmMxOTA4M2FjNmE5YWNjYjUwMzc0NWZhNjlhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
