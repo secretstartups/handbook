@@ -119,7 +119,9 @@ All personal mobile computing devices used to access GitLab-managed data, includ
 
 For new employees who have not received a company laptop, there are [exception processes](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#exception-processes) for using non-company devices.
 
-The same exception processes apply in the case of a corporate laptop being unavailable or unusable due to loss, theft or disrepair. See [lost or stolen procedures](/handbook/security/#panic-email) for additional information. You must open [a Policy Exception Request](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/exceptions/issues/new?issuable_template=exception_request). While the exception processes are considered a temporary solution, you still need to make sure the non-company system meets [basic configuration standards](/handbook/security/#laptop-or-desktop-system-configuration).
+The same exception processes apply in the case of a corporate laptop being unavailable or unusable due to loss, theft or disrepair. See [lost or stolen procedures]({{< ref "/handbook/security#reporting-an-incident" >}}) for additional information. You must open [a Policy Exeption Request](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/exceptions/issues/new?issuable_template=exception_request). While the exception processes are considered a temporary solution, you still need to make sure the non-company system meets [basic configuration standards](/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration), and a Microsoft Windows system is still not allowed access under any circumstances.
+
+Do not sign in to any GitLab related accounts using public computers, such as library or hotel kiosks.
 
 ### Mobile Messaging
 
@@ -142,7 +144,7 @@ When creating an account with and using a file sharing service other that Google
 
 ### Lost or Stolen Procedures
 
-GitLab provides a `panic@gitlab.com` email address and a [lost or stolen procedure](/handbook/security/#panic-email) for Team Members to use in situations that require an immediate security response. Should a Team Member lose a device such as a thumb drive, Yubikey, mobile phone, tablet, laptop, etc. that contains their credentials or other GitLab-sensitive data, they should send an email to `panic@gitlab.com` right away. When the production and security teams receive an email sent to this address it will be handled immediately. Using this address provides an excellent way to limit the damage caused by a loss of one of these devices.
+GitLab provides a `panic@gitlab.com` email address and a [lost or stolen procedure]({{< ref "/handbook/security#reporting-an-incident" >}}) for team members to use in situations that require an immediate security response. Should a team member lose a device such as a thumb drive, Yubikey, mobile phone, tablet, laptop, etc. that contains their credentials or other GitLab-sensitive data, they should send an email to `panic@gitlab.com` right away. When the production and security teams receive an email sent to this address it will be handled immediately. Using this address provides an excellent way to limit the damage caused by a loss of one of these devices.
 
 GitLab reserves the right to request documentation of the theft and/or a related police report in the case of a stolen laptop.
 
@@ -163,7 +165,7 @@ Exceptions to this policy must be approved by Security, Legal and PeopleOps Depa
 - [Onboarding Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md)
 - [Data Classification Standard]({{< ref "data-classification-standard" >}})
 - [Asset return procedure]({{< ref "offboarding#returning-property-to-gitlab" >}})
-- [Lost or stolen asset procedure]({{< ref "/handbook/security/#panic-email" >}})
+- [Lost or stolen asset procedure]({{< ref "/handbook/security#reporting-an-incident" >}})
 
 ## References
 

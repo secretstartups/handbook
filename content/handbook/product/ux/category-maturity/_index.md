@@ -1,18 +1,10 @@
 ---
-
 title: Assessing Category Maturity
 description: >-
   We assess the maturity of our product categories based on market evaluations and user testing
 ---
 
-
-
-
-
-
-
 As GitLab product maturity evolves, we must determine the capabilities that will move us to ‘Best in Class’ in the product categories we support. Our goal is to identify functionality and usability gaps as early as possible in the product development lifecycle using a lightweight and repeatable process that measures the maturity of our own capabilities against top competitors within the DevOps market.
-
 
 ## How we assess category maturity
 

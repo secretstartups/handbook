@@ -1,14 +1,7 @@
 ---
-
 title: "First Look UX Research panel"
 description: "This page details information about the First Look panel used for UX Research studies"
 ---
-
-
-
-
-
-
 
 UX Research participant panels are common throughout the research industry and are used as a way to streamline the recruiting process for user research studies. **First Look** is our own panel of individuals who have volunteered to participate in research at GitLab. When teams generate research questions, the First Look panel is a potential [option](/handbook/product/ux/ux-research-coordination/recruitment-methods/) that can be used to obtain user feedback.
 
@@ -17,6 +10,7 @@ Individuals can sign up for First Look by going to the [First Look page](https:/
 ### What types of individuals are in the First Look panel?
 
 As of 2022-02-08, the panel currently contains the following types of potential participants (N = 4,238):
+
 - GitLab users (both SaaS and Self-Managed)
 - Non-GitLab users
 - Mostly small-to-medium size businesses, with some large enterprise businesses

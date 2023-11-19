@@ -14,14 +14,59 @@ Search for channels using either the `Search GitLab` toolbar, using a channel na
 
 ## Channels
 
+### Key Slack channels
+
+The alphabetically sorted starter list below spotlights a few of GitLab's many Slack channels in an effort to provide guidance to team members regarding the best places to ask specific questions and/or engage in discussion on a variety of topics. See Slack's [Help Center](https://slack.com/help/articles/205239967-Join-a-channel) for instructions on browsing all available channels.
+
+| Channel                              | Purpose                                                                                                                                                                                                                              |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `#company-fyi`                       | Official company announcements, [restricted permission levels](#posting-in-company-fyi) to ensure high-signal; all GitLab team members are automatically added to this channel.                                                      |
+| `#whats-happening-at-gitlab`         | Open to all team members for unofficial updates which are important and/or useful to **most or all** of GitLab, including reminders, events, project updates, etc.; all GitLab team members are automatically added to this channel. |
+| `#diversity_inclusion_and_belonging` | Stay up to date on GitLab’s latest [Diversity, Inclusion and Belonging](/handbook/company/culture/inclusion/) initiatives and share feedback and thoughts about how we can make our environment even more inclusive.                          |
+| `#expense-reporting-inquiries`       | For questions pertaining to [expenses](/handbook/spending-company-money/) (e.g. Expensify).                                                                                                                                          |
+| `#git-help`                          | Specific questions about using Git in the terminal.                                                                                                                                                                                  |
+| `#is-this-known`                     | Get help in finding existing issues for existing problems.                                                                                                                                                                           |
+| `#it_help`                           | Create a Help Request in this channel should you have any IT general questions or trouble with setup (e.g. 2FA, accounts, etc.).                                                                                                     |                                                                             |
+| `#mr-buddies`                        | For any questions regarding merge requests.                                                                                                                                                                                          |
+| `#new_team_members`                  | For new GitLab team members to introduce themselves to the company and for existing team members to share updates with new hires.                                                                                                    |
+| `#new-vacancies`                  | For all GitLab team members to be aware of internal opportunities, as well as all job openings as they are listed. Please review the [referral process](/handbook/hiring/referral-process/) page to find out more about referring someone for a role.                                                                                                   |
+| `#payroll`                           | For questions pertaining to [payroll](/handbook/finance/payroll/) and [contractor invoices](/handbook/finance/payroll/#non-us) (e.g. ADP, etc.).                                                                                     |
+| `#people-connect`                         | For general People Ops questions (e.g. [onboarding](/handbook/people-group/general-onboarding/), [offboarding](/handbook/people-group/offboarding/), [team meetings](/handbook/company/culture/all-remote/meetings/), etc.). Also for anything related to compensation, benefits, or equity. You can also check out the Total Rewards [issue tracker](https://gitlab.com/gitlab-com/people-group/total-rewards/issues) and [handbook page](/handbook/total-rewards/)!                  |
+| `#safe`                            | SAFE                                                                                  |
+| `#security`                            | Security                                                                                  |
+| `#talent-acquisition`                | For questions about [referrals](/handbook/hiring/referral-process/), the [hiring process](/handbook/hiring/), and/or candidate status.                                                                                               |
+| `#team-member-updates`               | To stay updated on transitions/promotions, new GitLab team members joining, work anniversaries, etc.                                                                                                                                 |
+
 ### General Channels
+
+{: #random-room}
 
 There are a lot of general channels, just to name a few:
 
-- **[`#whats-happening-at-gitlab`](https://gitlab.slack.com/archives/general)**: General announcements and company-wide broadcasts
 - **[`#questions`](https://gitlab.slack.com/archives/questions)**: Ask all of GitLab for help with any question you have... and then go document it after you find the answer :)
 - **[`#thanks`](https://gitlab.slack.com/archives/thanks)**: Where GitLab team-members can [say thanks](/handbook/communication/#say-thanks) to those GitLab team-members who did a great job, helped a customer, or helped you!
+- **[`#office-today`](https://gitlab.slack.com/archives/office-today)**: GitLab is an [all-remote](/handbook/company/culture/all-remote/) organization. Where’s your office today?
+- **[`#remote`](https://gitlab.slack.com/archives/travel)**: To share news, thoughts, feedback and anything else pertaining to remote work! Learn more about [GitLab's approach to remote work](/handbook/company/culture/all-remote/)
+- **[`#travel`](https://gitlab.slack.com/archives/travel)**: A place to discuss all things [travel](/handbook/company/culture/all-remote/people/#travelers)
+- **[`#women`](https://gitlab.slack.com/archives/travel)**: Employee resource group for members and allies.
+- **[`#values`](https://gitlab.slack.com/archives/travel)**: Channel to discuss iterations on GitLab values
 - **[`#random`](https://gitlab.slack.com/archives/random)**:  Socialize and share random snippets with your fellow GitLab team-members.
+
+### Getting in touch with the e-group
+
+To get in touch with the [e-group](/handbook/company/team/?department=executive) on Slack, you can use the following channels. When in doubt, you can use the general `#e-group` channel to reach out to the entire group.
+
+| Member | Channel      |
+| ------ | ------------ |
+| CEO    | `#ceo`       |
+| CFO    | `#finance`   |
+| CProdO | `#product`   |
+| CTO    | `#cto`       |
+| CRO    | `#cro`       |
+| CMO    | `#cmo` |
+| CPO    | `#cpo` |
+| CLO    | `#legal`     |
+| CISO   | `#ciso`      |
 
 ### Team Channels
 

@@ -25,48 +25,39 @@
 # either because they relate to the function of the Handbook or because
 # they are a controlled Document.
 
+# The following entries relate to the operation of the handbook repo or the handbook site itself.
+[handbook-operations]
+/.editorconfig @gitlab-com/handbook
+/.gitignore @gitlab-com/handbook
+/.gitlab-ci.yml @gitlab-com/handbook
+/.markdownlint-cli2.jsonc @gitlab-com/handbook
+/.markdownlint.yaml @gitlab-com/handbook
+/go.sum @gitlab-com/handbook
+/go.mod @gitlab-com/handbook
+/package-lock.json @gitlab-com/handbook
+/package.json @gitlab-com/handbook
+/.gitlab/ @gitlab-com/handbook
+/config/ @gitlab-com/handbook
+/layouts/ @gitlab-com/handbook
+/scripts/ @gitlab-com/handbook
+
+# handbook content
+/content/_index.html @gitlab-com/handbook
+/content/featured-background.png @gitlab-com/handbook
+/content/handbook/about/ @gitlab-com/handbook
+/content/handbook/content-websites/ @gitlab-com/handbook
+/content/preferences/ @gitlab-com/handbook
+
+# handbook docs
+/LICENCE @gitlab-com/handbook
+/README.md @gitlab-com/handbook
+/CONTRIBUTING.md @gitlab-com/handbook
+/content/docs/ @gitlab-com/handbook
+
 # No point having a controlled documents section if anyone can just update
 # The CODEOWNERS file.
 [CODEOWNERS]
-.gitlab/CODEOWNERS @david @timzallmann @gitlab-com/ceo-chief-of-staff-team @gitlab-com/egroup @gitlab-com/handbook
-
-# The following entries relate to the operation of the handbook repo or the handbook site itself.
-[handbook-operations]
-/.gitignore @jamiemaynard @marshall007 @gitlab-com/handbook
-/.gitlab-ci.yml @jamiemaynard @marshall007 @gitlab-com/handbook
-/.markdownlint-cli2.jsonc @jamiemaynard @marshall007 @gitlab-com/handbook
-/.markdownlint.yaml @jamiemaynard @marshall007 @gitlab-com/handbook
-/go.sum @jamiemaynard @marshall007 @gitlab-com/handbook
-/go.mod @jamiemaynard @marshall007 @gitlab-com/handbook
-/package-lock.json @jamiemaynard @marshall007 @gitlab-com/handbook
-/package.json @jamiemaynard @marshall007 @gitlab-com/handbook
-/.gitlab/ @gitlab-com/ceo-chief-of-staff-team @gitlab-com/handbook
-/config/ @jamiemaynard @marshall007 @gitlab-com/handbook
-/scripts/ @jamiemaynard @marshall007 @gitlab-com/handbook
-/static/ @jamiemaynard @marshall007 @gitlab-com/handbook
-/content/handbook/about/ @jamiemaynard @gitlab-com/handbook
-/content/handbook/content-websites/ @jamiemaynard @gitlab-com/handbook
-/content/preferences/ @jamiemaynard @gitlab-com/handbook
-
-[handbook-homepage]
-/content/_index.html @jamiemaynard @marshall007 @gitlab-com/handbook
-/content/featured-background.png @jamiemaynard @marshall007 @gitlab-com/handbook
-/layouts/home.html @jamiemaynard @marshall007 @gitlab-com/handbook
-
-[redirects]
-/layouts/index.redirects @jamiemaynard @marshall007 @gitlab-com/handbook
-
-[ide-configs]
-/.editorconfig @jamiemaynard @marshall007 @gitlab-com/handbook
-/.nova/ @jamiemaynard @marshall007 @gitlab-com/handbook
-/.vscode/ @jamiemaynard @marshall007 @gitlab-com/handbook
-/.idea/ @jamiemaynard @marshall007 @gitlab-com/handbook
-
-[docs]
-/LICENCE @jamiemaynard @marshall007 @gitlab-com/handbook
-/README.md @jamiemaynard @marshall007 @gitlab-com/handbook
-/CONTRIBUTING.md @jamiemaynard @marshal007 @gitlab-com/handbook
-/content/docs/ @jamiemaynard @marshall007 @gitlab-com/handbook
+/.gitlab/CODEOWNERS @gitlab-com/egroup @gitlab-com/ceo-chief-of-staff-team @gitlab-com/handbook
 
 # This is the controlled documents section where approval from a CODEOWNER is always required
 # Please make sure that  @gitlab-com/handbook and  @gitlab-com/egroup groups are part of all
@@ -121,7 +112,7 @@
 
 # These optional entries are for when no codeowner is found.
 ^[content-sites]
-* @jamiemaynard @marshall007 @gitlab-com/egroup @gitlab-com/handbook
+* @gitlab-com/egroup @gitlab-com/handbook
 
 ^[job-families]
 /content/job-families/ @sytses @streas @gitlab-com/egroup
@@ -269,12 +260,12 @@
 /content/handbook/people-group/engineering/ @anechan
 
 ^[product]
-/content/handbook/direction/ @david @fseifoddini @brhea
-/content/handbook/product/ @david @fseifoddini @brhea
+/content/handbook/direction/ @david
+/content/handbook/product/ @david 
 /content/handbook/product/efficiency/ @joshlambert
 /content/handbook/product/saas-efficiency/ @ipedowitz @dsteer @s_awezec @joshlambert @gl-free-saas-user-efficiency-leaders
-/data/performance_indicators/ @david @fseifoddini @brhea
-/content/handbook/company/performance-indicators/product/ @david @fseifoddini @brhea
+/data/performance_indicators/ @david
+/content/handbook/company/performance-indicators/product/ @david
 /data/performance_indicators/enablement_section.yml @joshlambert
 /content/handbook/company/performance-indicators/product/ops-section/ @kbychu @jreporter
 /data/performance_indicators/ops_section.yml @kbychu @jreporter
@@ -355,7 +346,7 @@
 /content/handbook/values/ @sytses @gitlab-com/ceo-chief-of-staff-team @gitlab-com/egroup @gitlab-com/handbook
 
 ^[working-groups]
-/content/handbook/company/structure/working-groups/ @sytses @streas
+/content/handbook/company/structure/working-groups/ @gitlab-com/egroup
 /content/handbook/company/structure/working-groups/clickhouse-datastore.md @clefelhocz1 @sgoldstein @nhxnguyen @nicolewilliams
 /content/handbook/company/structure/working-groups/cross-functional-prioritization.md @clefelhocz1 @vkarnes @meks @justinfarris
 /content/handbook/company/structure/working-groups/demo-test-data.md @grantyoung @poffey21 @vincywilson @meks

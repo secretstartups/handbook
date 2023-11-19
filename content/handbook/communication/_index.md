@@ -1185,6 +1185,8 @@ Only 90 days of Slack activity will be retained, so Slack should specifically NO
 
 Internal Slack messages between team members are still considered professional communication. Please do not use or add emoji's to Slack that are of a political, religious or of a sexual nature. You can refer to the [Religion and politics at work](/handbook/values/#religion-and-politics-at-work) section of the handbook. When in doubt do not use or add the emoji. If you have any concerns about an emoji that was used, please reach out to the author or if you are not comfortable doing so please reach out to your [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
 
+There is a lot of information pertaining to Slack, as it is a critical part of GitLab's communication. See the [Slack tools and tips page](/handbook/tools-and-tips/slack).
+
 ### General guidelines
 
 1. Everyone can contribute, and while opinions are important to provide perspective, we value [proposals](/handbook/values/#make-a-proposal) and [iteration](/handbook/values/#iteration). If the subject is of value to the wider community, consider commenting on an existing issue or opening a new [merge request](#start-with-a-merge-request) instead.
@@ -1263,14 +1265,6 @@ Earlier in our history, 50% of all communication *was* in public channels.
 - It's not rude to leave a channel. When you've had your questions answered or are no longer interested, feel free to leave the channel so it won't distract you anymore.
 - The usage of ChatBots for integrations can sometimes depend upon the name of the channel. You should consult the channel about such integrations before changing the name of commonly used/popular channels to avoid inadvertently breaking integrations.
 
-### Be respectful of your own time
-
-You should try to avoid information overload in order to be productive and efficient with your time. While it can be tempting to read every message in every Slack channel you subscribe to, it’s very challenging, not expected, and not necessary.
-
-One method for avoiding Slack overload is to focus your Slack reading on [Starred channels](https://slack.com/intl/en-nl/help/articles/201331016-Star-channels-and-direct-messages) and [Threads](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-). Starred channels are like "favorites" and allow you to follow messages from those channels easily. Threads consist of any conversation in which you are mentioned and allow you to easily track conversations in which you have direct involvement.
-
-Use your notification settings liberally. Depending on how you use Slack this could range from limiting notifications to critical messages outside of your working hours to turning off Slack notifications entirely. Find the right balance for you and stick to it.
-
 ### Be respectful of others' time
 
 Start by understanding what we mean by respecting time. We should err toward putting material into channels over DMs and public channels over private channels even though we understand that this will generate more messages that can be read by more people. Respecting time is not about reducing the overall volume of channel messages that team members receive. It's about making sure that messages are targeted, expectations for asynchronous responses are clear, and we are communicating with consideration.
@@ -1280,7 +1274,6 @@ The following tips provide ways to work respectfully with others given this cont
 - If you're only referring to someone, but don't actually need their attention, and want to spare them from getting notified, spell out their name normally without `@` mentioning them.
 - You also do not need to `@` mention someone if they are part of a Slack thread unless you need their attention as soon as possible, since Slack has a dedicated view for threads.
 - Slack messages should be considered asynchronous communication, and you should not expect an instantaneous response; you have no idea what the other person is doing.
-- Because we work globally, you may receive Slack mentions at any time of day. Please consider enabling [Slack's Do not disturb functionality](https://slack.com/intl/en-ie/help/articles/214908388-Pause-notifications-with-Do-Not-Disturb) so you don't get interrupted, for example, in your offtime. You can also use Slack's Notification schedule tool, this can be found in Slack's Preferences tab. To access this, open Slack, hover your cursor at the top of your screen, click Slack, then preferences, under the notifications tab you will see notification schedule. This tool allows you to pick what days / times you get notifications.
 - Do not feel obligated to respond to Slack messages when you are not working.
 - Feel free to send a colleague a link to these guidelines if the communication in Slack should be done **asynchronously**.
 - **Please avoid using @here or @channel unless this is about something urgent and important.** In chat, try to keep the use of keywords that mention the whole channel to a minimum. They should only be used for pings that are both urgent and important, not just important. By overusing channel mentions, you make it harder to respond to personal mentions promptly since people get pinged too frequently. Additionally, if you are planning to `@mention` a specific team ([Slack User Group](https://get.slack.help/hc/en-us/articles/212906697-Create-a-user-group#browse-user-groups-and-view-members)), consider the size of the group you are mentioning ([see group membership](https://gitlab.com/gitlab-com/security-tools/report-slack-group-members)) and the impact of pinging all of these people for the particular situation. If something is urgent and important:
@@ -1288,136 +1281,15 @@ The following tips provide ways to work respectfully with others given this cont
   - Use `@channel` to notify *ALL* members in the room, irrespective of away status. Please only use `@channel` if the message is important *and* urgent.
 - If you are aware that your teammate is on vacation, avoid mentioning them in a high volume channel. It will be difficult to find the information or question when they return. If you need to ensure they refer back to the thread, ensure to send them a link to the relevant Slack message through a direct message.
 
-### Managing noise and creating focus in Slack
-
-Slack can be a disorderly place in its default state. Consider implementing the below to add structure and focus, but remember that there will likely be more useful information shared on Slack than you are able to ingest and process on a daily basis, regardless of your approach.
-
-While an intentional effort to organize is important, remember that [it's impossible to know everything](/handbook/values/#its-impossible-to-know-everything). As a team, we may spot information that is missed by others, and we should surface that information when pertinent as we strive to [see others succeed](/handbook/values/#see-others-succeed). For managing Slack channels, consider blocking a set period of time to review certain channels that makes the most sense for you (i.e. multiple times a day, daily, weekly).
-
-### Organizing your Slack sidebar by priority
-
-Consider using Slack's <b>[Starred channel](https://slack.com/help/articles/201331016-Star-channels-and-direct-messages)</b> function to spotlight three categories of channels, its <b>[Mute function](https://slack.com/help/articles/204411433-Mute-channels-and-direct-messages)</b> to quiet channels which are pulling your focus away too often, and most importantly, its **Mark all messages as read** function (easily toggled by pressing `Shift` and `Esc` simultaneously while on a desktop) to achieve an instantly clear slate.
-
-An example of three spotlight channels approach is below. Slack allows you to organize your sidebar of starred channels with <b>[custom sections](https://slack.com/help/articles/360043207674-Organize-your-sidebar-with-custom-sections)</b> to visibly raise or lower their priority level, giving you control over what you see first.
-
-1. Channels important to my job (e.g. a team member in Corporate Marketing may star `#marketing`, `#corp-mktg`, `#newswire`, `#external-comms`, `#website`, `#handbook`)
-1. Channels important to GitLab (e.g. `#company-fyi`, `#whats-happening-at-gitlab`, `#team-member-updates`, `#e-group`, `#ceo`, `#new-vacancies`)
-1. Channels important to my interests (e.g. `#travel`, `#remote`, `#daily-gratitude`, `#mental_health_aware`, `#intheparenthood`, `#women`, `#diversity_inclusion_and_belonging`)
-
-### Manage your Slack notifications
-
-Below are helpful links to best practices and tips on managing your notifications and reducing noise in Slack. We encourage you to regularly check your notification settings to ensure you get more notifications of what *is* important/relevant to you, and less of what *isn't*.
-
-- [Reduce noise in Slack](https://slack.com/intl/en-gb/help/articles/218551977-Reduce-noise-in-Slack)
-- [Configure Your Notifications](https://slack.com/intl/en-gb/help/articles/201355156-Guide-to-desktop-notifications#configure-your-notifications)
-- [Guide to Desktop Notifications](https://slack.com/intl/en-gb/help/articles/201355156-Guide-to-desktop-notifications#channel-specific-and-group-dm-notifications)
-- [Channel-specific and group DM Notifications](https://slack.com/intl/en-gb/help/articles/201355156-Guide-to-desktop-notifications#channel-specific-and-group-dm-notifications)
-- [Display only unread conversations](https://slack.com/help/articles/360043207674-Organize-your-sidebar-with-custom-sections-Organize-your-sidebar-with-custom-sections-Organize-your-sidebar-with-custom-sections#manage-conversation-display)
-- [GitLab team member Brendan O'leary on how he uses Slack](https://boleary.dev/blog/2020-05-27-how-i-slack.html)
-
-#### Set aside time to work through notifications
-
-Building dedicated time into your day can help minimize the distractions that Slack can create. Consider using a 15 or 30 minute block in your morning or afternoon to enjoy a cup of coffee and catch up on messages you might have missed. When the time you set comes to an end, close out of the Slack app and move on to your next project. Having a set end time can help you feel more in control, and serves as a reminder that [it's impossible to know everything](/handbook/values/#its-impossible-to-know-everything)
-
-### Getting in touch with the e-group
-
-To get in touch with the [e-group](/handbook/company/team/?department=executive) on Slack, you can use the following channels. When in doubt, you can use the general `#e-group` channel to reach out to the entire group.
-
-| Member | Channel      |
-| ------ | ------------ |
-| CEO    | `#ceo`       |
-| CFO    | `#finance`   |
-| CProdO | `#product`   |
-| CTO    | `#cto`       |
-| CRO    | `#cro`       |
-| CMO    | `#cmo` |
-| CPO    | `#cpo` |
-| CLO    | `#legal`     |
-| CISO   | `#ciso`      |
-
-### Key Slack channels
-
-The alphabetically sorted starter list below spotlights a few of GitLab's [many Slack channels](/handbook/communication/chat/) in an effort to provide guidance to team members regarding the best places to ask specific questions and/or engage in discussion on a variety of topics. See Slack's [Help Center](https://slack.com/help/articles/205239967-Join-a-channel) for instructions on browsing all available channels.
-
-<b>Learn more in our [Chat handbook section](/handbook/communication/chat/)</b>.
-
-| Channel                              | Purpose                                                                                                                                                                                                                              |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `#company-fyi`                       | Official company announcements, [restricted permission levels](#posting-in-company-fyi) to ensure high-signal; all GitLab team members are automatically added to this channel.                                                      |
-| `#whats-happening-at-gitlab`         | Open to all team members for unofficial updates which are important and/or useful to **most or all** of GitLab, including reminders, events, project updates, etc.; all GitLab team members are automatically added to this channel. |
-| `#diversity_inclusion_and_belonging` | Stay up to date on GitLab’s latest [Diversity, Inclusion and Belonging](/handbook/company/culture/inclusion/) initiatives and share feedback and thoughts about how we can make our environment even more inclusive.                          |
-| `#expense-reporting-inquiries`       | For questions pertaining to [expenses](/handbook/spending-company-money/) (e.g. Expensify).                                                                                                                                          |
-| `#git-help`                          | Specific questions about using Git in the terminal.                                                                                                                                                                                  |
-| `#intheparenthood`                   | Cute kid photos, tips on getting your children ready for school, etc.                                                                                                                                                                |
-| `#is-this-known`                     | Get help in finding existing issues for existing problems.                                                                                                                                                                           |
-| `#it_help`                           | Create a Help Request in this channel should you have any IT general questions or trouble with setup (e.g. 2FA, accounts, etc.).                                                                                                     |
-| `#loc-specific channels`             | Search loc\*insert your location* to connect with GitLab team members in your location (e.g `#loc_italy`, `#loc_chicagoland`, `#loc_mexico`, etc.).                                                                                 |
-| `#mr-buddies`                        | For any questions regarding merge requests.                                                                                                                                                                                          |
-| `#new_team_members`                  | For new GitLab team members to introduce themselves to the company and for existing team members to share updates with new hires.                                                                                                    |
-| `#new-vacancies`                  | For all GitLab team members to be aware of internal opportunities, as well as all job openings as they are listed. Please review the [referral process](/handbook/hiring/referral-process/) page to find out more about referring someone for a role.                                                                                                   |
-| `#office-today`                      | GitLab is an [all-remote](/handbook/company/culture/all-remote/) organization. Where’s your office today? Share a photo or use words to describe it.                                                                                          |
-| `#payroll`                           | For questions pertaining to [payroll](/handbook/finance/payroll/) and [contractor invoices](/handbook/finance/payroll/#non-us) (e.g. ADP, etc.).                                                                                     |
-| `#people-connect`                         | For general People Ops questions (e.g. [onboarding](/handbook/people-group/general-onboarding/), [offboarding](/handbook/people-group/offboarding/), [team meetings](/handbook/company/culture/all-remote/meetings/), etc.). Also for anything related to compensation, benefits, or equity. You can also check out the Total Rewards [issue tracker](https://gitlab.com/gitlab-com/people-group/total-rewards/issues) and [handbook page](/handbook/total-rewards/)!                  |
-| `#questions`                         | You may have a question that you can’t find the answer to in our handbook (or you need help finding something in the handbook). If your question relates to one or more of [these topics](/handbook/communication/#questions), go directly to the subject matter experts/source in the designated slack channel to ensure your question is addressed. If your question doesn’t relate to any of these topics, ask it in #questions.                                                               |
-| `#random`                            | Anything and everything from photos, news, food, music, etc.                                                                                                                                                                         |
-| `#talent-acquisition`                | For questions about [referrals](/handbook/hiring/referral-process/), the [hiring process](/handbook/hiring/), and/or candidate status.                                                                                               |
-| `#remote`                            | To share news, thoughts, feedback and anything else pertaining to remote work! Learn more about [GitLab's approach to remote work](/handbook/company/culture/all-remote/).                                                                    |
-| `#team-member-updates`               | To stay updated on transitions/promotions, new GitLab team members joining, work anniversaries, etc.                                                                                                                                 |
-| `#thanks`                            | Recognition is an [important part of GitLab's culture](/handbook/communication/#say-thanks); give a public "thanks" to your teammates and recognize bonuses awarded to team members here!                                                                                          |
-| `#travel`                            | A place to discuss all things [travel](/handbook/company/culture/all-remote/people/#travelers)!                                                                                                                                               |
-| `#values`                             | Channel to discuss iterations on GitLab values                                                                                                                                                                                |
-| `#women`                             | Employee resource group for members and allies.                                                                                                                                                                                      |
-
 #### Questions
 
-If you have a question that you can’t find the answer to in our handbook (or you need help finding something in the handbook) team members across the company are here to help.
+If you have a question that you can’t find the answer to in our handbook (or you need help finding something in the handbook) team members across the company are here to help. Go directly to the subject matter experts/source in the [designated slack channel](/handbook/communication/chat) to ensure your question is addressed.
 
-If your question relates to one or more of the following topics, go directly to the subject matter experts/source in the designated slack channel to ensure your question is addressed.
-
-Are you a subject matter expert in your role or knowledgeable in a topic-specific channel on Slack? Add the topic and channel to the grid so team members know where to go if they have questions on that topic.
-
-
-| Topic                              | Ask your question in                                                                                                                                                                                                                              |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Any People Team related questions                       | `#people-connect`                                                      |
-| Brand assets         | `#marketing`|
-| Diversity, Inclusion, and Belonging | `#diversity_inclusion_and_belonging`                         |
-| Existing issues for existing problems       | `#is-this-known`                                                                                                                                          |
-| Expenses                          | `#expense-reporting-inquiries`                                                                                                                                                                                  |
-| GitLab gear, swag                   | `#swag`                                                                                                                                                                |
-| IT                     | `#it_help`                                                                                                                                                                           |
-| Merge requests                           | `#mr-buddies`                                                                                                     |
-| Pay slips, pay dates             | `#payroll`                                                                                 |
-| Product                        | `#product`                                                                                                                                                                                          |
-| Referrals, hiring process, candidate status                  | `#talent-acquisition`                                                                                                    |
-| SAFE                  | `#safe`                                                                                                   |
-| Sales                      | `#sales`                                                                                          |
-| Security | `#security` |
-| Stock options, RSUs, vesting schedule                           | `#stock-admin`                                                                                     |
-| Using Git in the terminal                         | `#git-help`                 |
-
-If your question doesn’t relate to any of the above topics:
+If your question doesn’t relate to any of the existing topics:
 
 - Ask it in the `#questions` Slack channel
 - Once you receive an answer, document it in the handbook and post the MR link in your question thread
 - :heavy_check_mark: once you’ve been helped
-
-### Random
-
-{: #random-room}
-
-1. The `[#random](https://gitlab.slack.com/archives/random)` Slack channel is your go-to place to share random ideas, pictures, articles, and more. It's a great channel to check out when you need a mental break.
-
-### Slackbots
-
-We have a few slackbots to help us with frequently asked questions and other slackbots that directly help us to remain inclusive in our language and align closely with our [Diversity, Inclusion and Belonging Value](/handbook/values/#diversity-inclusion).
-The following list is reflective of the ones we use for Diversity, Inclusion and Belonging and the suggested changes to use. This list is representative, not complete; terms will be added and removed as we iterate on the list.
-As a GitLab Team Member, you can view the active slackbots that we use in Slack, under: GitLab > Customize Your Workspace > Slackbot.
-
-| `hey guys, hi guys, you guys, salesman, salesmen, businessman, businessmen` | Are you including people of multiple genders? Please consider using "everyone," "team," "y'all," or similar instead. You can read [more about inclusive language in our handbook](/handbook/values/#inclusive-language--pronouns) |
-| `on your toes, on anybody's toes` | It's probably okay.<br><br>As companies grow, their speed of decision making goes down since there are more people involved. We should counteract that [by having short toes](/handbook/values/#short-toes), and feel comfortable letting others contribute to our domain. |
-| `aggressive` | Did you mean ambitious? |
-| `gitlabber, gitlabbers` | The term `gitlabber` is a commonly misused term. Please use "GitLab team member" instead. You can [read more about this in our handbook](/handbook/communication/top-misused-terms/) |
 
 #### When would GitLab use Corporate Export?
 
@@ -1432,17 +1304,6 @@ No. The Slack Workspace Owner has the ability to export data from all direct mes
 Please keep [GitLab values](/handbook/values/) in mind when communicating directly with other team members.
 If you have a confidential personal issue that you do not feel comfortable discussing via a business-provided internal communications tool, it is recommended to use a personal form of communication such as a text message or phone call.
 For additional questions, please address in the [issue](https://gitlab.com/gitlab-com/business-ops/change-management/issues/3).
-
-### Need to add a new app to Slack
-
-GitLab has chosen to restrict the ability to install apps, and we have a process to approve or restrict certain apps for our workspace. In order to add a new app to Slack, you need to create a [vendor approval issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=app_integrations). Once that's approved by all parties, please request approval to add the app to Slack:
-
-1. Make sure the app hasn't been pre-approved by our team by clicking on Apps in the left sidebar and find Available Apps. To find pre-approved apps in the App Directory, click Pre-Approved below Categories in the left column.
-1. If the app isn't pre-approved, you can click on Add to Slack.
-1. Add a custom message with more context about your request and also link the vendor approval issue.
-1. Click Submit. You'll receive a direct message from Slackbot when your request has been reviewed by the team.
-
-**Please note that this is only required for new apps that have not been reviewed or approved.** If your request is to add a new process or update an existing process for how an application works in slack, please refer to our [Business Technology Change Management](/handbook/business-technology/change-management/) process.
 
 ### Emergency chat
 
@@ -1520,7 +1381,7 @@ Reference Google's [documentation](https://support.google.com/drive/answer/24948
 1. You can set the notifications on a Google Doc so you only get emailed when someone tags you directly instead of getting emails for every comment. Click on "notifications" and select "Only yours". By the way, when you create the doc, it defaults to All, but when you are just shared with it, it defaults to Only yours. There is [no global default](https://productforums.google.com/forum/#!msg/docs/1C3PZX1AY7Q/6EXXQKQSPCMJ).<br>
     ![Google Doc Notifications](google-docs-notifications.png)
 1. You can find a template of the [GitLab letterhead](https://docs.google.com/document/d/1gN1Z2FHPIfPk7QLIey1KF9dR1yTl0R7QrMSb5_Iqfh4/edit) on the shared Google Drive. Please be sure to make a copy of the document to your Google Drive before customizing the template for your use.
-1. If you want to have the Google Doc be readable to the public, do not change the sharing settings from 'Editable by Everyone at GitLab', [publish the document](#how-to-publish-a-google-doc) instead.
+1. If you want to have the Google Doc be readable to the public, do not change the sharing settings from 'Editable by Everyone at GitLab', [publish the document](https://support.google.com/docs/answer/183965) instead.
 1. In all cases, the sharing settings (who a document is shared with, if it is visible to the whole company, etc.) on a Google Doc should be the single source of truth for the confidentiality of the document.
 1. Avoid using your initials when adding content to Google Docs or referring to someone else. Use your full name, as Google Docs [Smart Compose](https://support.google.com/docs/answer/9643962?hl=en) will auto-complete names for you, and display information about the GitLab team member on hover. It makes documents more readable and consumable, especially for people outside your team/department.
 1. When there is a synchronous discussion about an issue or MR captured in a Google Doc, be sure to summarize the discussion into the issue or MR and link to the agenda item where it was discussed with a [bookmark](https://support.google.com/docs/answer/45893?hl=en&co=GENIE.Platform%3DDesktop). If the notes are [limited access](/handbook/communication/confidentiality-levels/#limited-access) or no notes were taken, please say so. This will ensure that interested GitLab Team Members can see both the summary and context of the discussion.
@@ -1529,16 +1390,6 @@ Reference Google's [documentation](https://support.google.com/drive/answer/24948
    1. Greater visibility when it is a long URL and specific. Links are important but easy to miss otherwise (short and only a different color and/or underlined).
    1. Ability to see what the content is without hovering over (which isn't quick on mobile).
    1. Makes it easier to paste the content as formatting free text (not rich text), which we prefer and is sometimes the only option.
-
-
-#### How to publish a Google Doc
-
-1. Under the 'File' menu, go to 'Publish to the web'.
-1. A new pop-up 'Publish to the web' will appear, click 'Publish'.
-1. A confirmation will appear on the top of the doc, click 'OK'.
-1. Back in the pop-up 'Publish to the web', a link to share will appear.
-1. Add the link to the top of the document after the text: "Publicly shared via"
-1. Use this link to share to your audience.
 
 #### How to deprecate a Google Doc
 

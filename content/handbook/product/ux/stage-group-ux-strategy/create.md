@@ -1,14 +1,7 @@
 ---
-
 title: Create UX Team
 description: "The Create design team's goal is to facilitate DevSecOps processes across the entire software delivery workflow"
 ---
-
-
-
-
-
-
 
 ## Overview
 
@@ -131,6 +124,6 @@ Teams working closely with Source code:
 Tech writers in Create are very busy due to multiple factors. However, it is still important to collaborate with them and solicit their feedback on UI text. We ask you to follow these guidelines to make sure our teams are operating as efficiently as possible:
 
 1. **UI Text to be reviewed should be in a comment**. Mocks are useful for showing context and are encouraged, but we also ask that you paste your text into a comment and `@mention` the assigned tech writer. This way, they can copy the text of the message rather than have to rewrite it.
-2. **Communicate the intent of your UI text** when asking for feedback from Tech Writing. By answering these questions, you will avoid any potential back and forth in the issue:
+1. **Communicate the intent of your UI text** when asking for feedback from Tech Writing. By answering these questions, you will avoid any potential back and forth in the issue:
     - What is the task the user is trying to achieve when they encounter this messaging?
     - What is the problem you are trying to solve with this messaging?

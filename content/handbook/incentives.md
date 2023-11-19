@@ -288,18 +288,14 @@ All team members can make nominations for both The DZ Award and Values Awards. W
 
 ## Referral Bonuses
 
-Chances are that if you work at GitLab, you have great friends and peers who would be fantastic additions to our [Team](/handbook/company/team/) and who may be interested in joining our team. To help us grow with exceptional people, we have [Referral Bonuses](/handbook/hiring/referral-process/) that work as follows:
+Chances are that if you work at GitLab, you have great friends and peers who would be fantastic additions to our [Team](/handbook/company/team/) and who may be interested in joining our team. To help us grow with exceptional people, we have a [Referral Bonus](/handbook/hiring/referral-process/) that work as follows:
 
-We encourage and support [diversity]({{< ref "values#diversity-inclusion" >}}) and [frugality]({{< ref "values#frugality" >}}) on our team and in our hiring practices, so we will offer the following referral bonuses once the new team member has been with the company for 3 months. We will award the highest cumulative dollar amount as outlined below:
-
+- We offer a referral bonus once the new team member has been employed with the company for 3 months.
+- In the past, we had a tiered system of referral bonuses, but we've simplified the structure to add a flat bonus amount.
 - [$1,500](/handbook/total-rewards/compensation/#exchange-rates) base referral bonus for a new hire.
-- [$1,500](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a ["select underrepresented group"](https://about.gitlab.com/culture/inclusion/#examples-of-select-underrepresented-groups).
 
-The following is an *example* of a cumulative Referral Bonus:
+We encourage and support [diversity]({{< ref "values#diversity-inclusion" >}}) on our team and in our hiring practices and encourage team members to consider whether their are potential candidates in their networks who identify as members of underrepresented groups in tech.
 
-- Hire a referred Sales Development Representative: $1,500
-- Who self-identifies as a member of a ["select underrepresented group"](/culture/inclusion/#examples-of-select-underrepresented-groups): + $1,500
-- Cumulative referral bonus to the referring team member: **$3,000**
 
 Please note if the referral bonus was submitted **before 2022-06-01**, then the [here](/handbook/hiring/referral-operations/#adding-a-referral-to-workday-people-connect-team) mentioned referral bonus amounts apply.
 
@@ -307,7 +303,7 @@ Please note if the referral bonus was submitted **before 2022-06-01**, then the 
 
 For information regarding the program details and team member eligibility and understanding, please visit our [guide in the Hiring section of GitLab's handbook](/handbook/hiring/referral-process/).
 
-If a team member has been referred, the People Connect team will review team members' self-identification data in Workday including Gender, Ethnicity and Veteran status to determine if the team member qualifies as belonging to a select underrepresented group. The People Connect team will edit the referrer's referral bonus as applicable. People Connect will confirm the bonus amount when it is entered into Workday and will process the bonus.
+If a team member has been referred, the People Connect team will review team members' self-identification data in Workday including Gender, Ethnicity and Veteran status to determine if the team member qualifies as belonging to a select underrepresented group.
 
 ### Exceptions
 

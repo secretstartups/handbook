@@ -1,14 +1,7 @@
 ---
-
 title: "Cross-stage design collaboration"
 description: "The UX Department works alongside the community, Product Management, Development, Quality, and Brand teams to design the GitLab product. Our users' workflows often cross multiple areas of the GitLab product. In these instances, it's best for our teams to work collaboratively across stages."
 ---
-
-
-
-
-
-
 
 ### How do we determine if the topic is cross-stage design
 

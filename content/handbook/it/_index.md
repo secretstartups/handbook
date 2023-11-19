@@ -196,7 +196,7 @@ These policies are a cross-collaboration between the IT and Security department.
 - [Mobile Device Application Policy](/handbook/people-group/acceptable-use-policy/#bring-your-own-device-byod)
 - Other Services and Devices Policy
 - [Password and MFA Policy](/handbook/security/password-standard.html)
-- [Personal Access Token Policy](/handbook/security/#personal-access-tokens)
+- [Personal Access Token Policy]({{ ref "security#tokens" }})
 - [Security Awareness Policy](/handbook/security/#security-awareness)
 - [Security Phishing User Guide](/handbook/security/#how-to-identify-a-basic-phishing-attack)
 
@@ -218,7 +218,7 @@ As we continue to iterate, we are creating public handbook pages with user guide
 
 ### IT Tech Stack
 
-- [1Password User Guide](/handbook/security/#accounts-and-passwords) - Password management and security best practices guide
+- [1Password User Guide]({{ ref "password-guidelines##1password" }}) - Password management and security best practices guide
 - 1Password Shared Vault Guide - Accessing and managing vaults with shared credentials
 - [Apple iCloud User Guide](/handbook/business-technology/team-member-enablement/onboarding101/#apple-id) - Apple identity and sync services
 - [Calendly User Guide](/handbook/tools-and-tips/other-apps/#calendly) - Calendar scheduling assistant

@@ -1,16 +1,9 @@
 ---
-
 title: UX Showcase
 description: >-
   The UX Showcase is a recurring meeting that allows each stage group to walk
   through various research findings and design solutions.
 ---
-
-##
-
-
-
-
 
 ## About UX Showcase
 
@@ -49,9 +42,9 @@ If a Product Designer can't present on the assigned date, it's their responsibil
 - after you identify a trade, make an MR to update the schedule
 - ask your Product Design Manager to review and merge.
 
-<%= partial("includes/ux-showcase/schedule") %>
+<!-- <%= partial("includes/ux-showcase/schedule") %> -->
 
-<a href="https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/includes/ux-showcase/_schedule.md" class="btn btn-default btn-sm">Update schedule</a>
+<a href="https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/includes/ux-showcase/_schedule.md" class="btn btn-primary">Update schedule</a>
 
 ## Sharing your work
 
@@ -73,7 +66,7 @@ Examples of minimal UX Showcase presentations:
 Preparation time should be minimal, as you'll present the work you've done thus far.
 
 - Prior to the UX Showcase, communicate your specific topic in the meeting agenda.
-- If this is an APAC showcase and there is no host yet, consider [hosting](/handbook/product/ux/ux-showcase/#hosting). 
+- If this is an APAC showcase and there is no host yet, consider [hosting](/handbook/product/ux/ux-showcase/#hosting).
 - Provide context for the problem you were trying to solve:
     - The scope of the problem
     - Why was it important to solve?

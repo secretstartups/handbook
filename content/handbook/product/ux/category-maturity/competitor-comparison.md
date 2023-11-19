@@ -1,15 +1,8 @@
 ---
-
 title: Category Maturity - Competitor Comparison
 description: >-
   Leveraging the existing Category Maturity Scorecard process and Jobs to be Done (JTBDs), this competitor comparison process allows us to establish best in class by looking closely at how we solve (features) for the problems we're solving for (jobs) vs. our competitors.
 ---
-
-
-
-
-
-
 
 This handbook page outlines the competitor comparison process to use in conjunction with Category Maturity Scorecards.
 

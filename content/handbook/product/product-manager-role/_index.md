@@ -158,6 +158,10 @@ We use two templates, so the Product Manager can focus on GitLab onboarding for 
 
 Onboarding issues can be tracked in the [Product Onboarding Issue Board](https://gitlab.com/gitlab-com/Product/-/boards/1283554?&label_name%5B%5D=onboarding).
 
+### Product Manager Onboarding Buddy
+
+As part of onboarding a new hire will be given an [Onboarding Buddy](/handbook/people-group/general-onboarding/onboarding-buddies/). As a Product Manager onboarding buddy there are many processes and resources to share with the new hire. A list of tasks and resources specific to Product Managers can be found [here](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/main/content/handbook/product/product-manager-role/product-manager-buddy-tasks.md)
+
 ## Interviewing Product Management Candidates
 
 A unique and important step in the interview process for Product Management candidates is our Deep Dive Interview. The goal of this interview is to understand the candidate's ability to communicate a long term vision as well as a short term MVC, both verbally during the interview itself, and written via two follow up issues. Once the issues are ready for you to read, it is an opportunity to provide feedback and see how the candidate responds to that feedback.

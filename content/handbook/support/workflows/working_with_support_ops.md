@@ -108,27 +108,35 @@ timely in nature, make sure you are available to work with Support Operations.
 
 ### Make changes to Zendesk Global macros
 
-If you need changed made to a macro in Zendesk Global, you can file an issue in
-the
-[macros issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/issues/new).
-Keep in mind that macro changes normally need a manager to review them. This
-might occur in the issue itself or the merge request that is created later.
+If you want to create, edit, or deactivate a macro in Zendesk Global, you can do
+one of two options:
 
-Once the issue is created, Support Operations will work the issue. They may
-create new issues or move the original request as needed.
+- Create a merge request doing the modifications in the
+  [macros project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros)
+  - NOTE: If creating a new macro, leave the `id` field blank. The pipeline
+    will fail, but Support readiness will rectify that.
+- Create an issue in the
+  [macros project issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/issues/new)
+
+If making an issue, Support Readiness will assist you in getting a merge request
+created. If making a merge request, it will be reviewed by the appropriate
+CODEOWNERS.
 
 ### Make changes to Zendesk US Government macros
 
-If you need changed made to a macro in Zendesk US Government, you can file an
-issue in the
-[zendesk-us-government issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/-/issues/new)
-using the
-[zendesk-us-government macros issue template](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/-/issues/new?issuable_template=Macros).
-Keep in mind that macro changes normally need a manager to review them. This
-might occur in the issue itself or the merge request that is created later.
+If you want to create, edit, or deactivate a macro in Zendesk US Government,
+you can do one of two options:
 
-Once the issue is created, Support Operations will work the issue. They may
-create new issues or move the original request as needed.
+- Create a merge request doing the modifications in the
+  [macros project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/macros)
+  - NOTE: If creating a new macro, leave the `id` field blank. The pipeline
+    will fail, but Support readiness will rectify that.
+- Create an issue in the
+  [macros project issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/macros/-/issues/new)
+
+If making an issue, Support Readiness will assist you in getting a merge request
+created. If making a merge request, it will be reviewed by the appropriate
+CODEOWNERS.
 
 ### Support Team page requests
 
