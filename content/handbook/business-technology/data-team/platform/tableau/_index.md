@@ -22,6 +22,7 @@ description: "Tableau at GitLab"
 - [External Slack channel](https://app.slack.com/client/T02592416/C031QE95QJU)
 - [Gitlab Tableau Developer Guide](/handbook/business-technology/data-team/platform/tableau/tableau-developer-guide/)
 - [Reporting Data Catalog](/handbook/business-technology/data-team/platform/tableau/reporting-data-catalog/)
+- [Test Embed](/handbook/business-technology/data-team/platform/tableau/embed-demo/)
 
 ## Tableau
 
