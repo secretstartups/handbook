@@ -748,26 +748,6 @@ For example:
 1. It is unusual to smoke in an open office or video conference, vaping is associated with this. For this reason we ask that you don't vape during calls, and if you absolutely have to, kindly switch your camera off.
 1. Speak up when you notice something is not working. If you notice someone's microphone, web cam or latency is causing issues for them it is good to speak up. On a video call it can be harder for the speaker to notice that they aren't being understood compared to a face to face conversation. As such you will be doing them a favour by speaking up early to let them know that they are having a problem. Also see [Hear nothing say something](https://www.youtube.com/watch?v=LZ5spXU5HbU) for further explanation.
 
-#### Headphones
-
-As a remote company we strive to have the highest fidelity collaborative conversations. Use of a headset with a microphone is strongly suggested.
-
-Reasons to use headphones:
-
-- If other people are using headphones then no-headphones works fine. But if multiple people aren't using headphones you get distractions.
-- Computer speakers can cause an echo and accentuate background noise.
-- Using headphones decreases the likelihood of talking over one another, enabling a more lively conversation.
-- Headphones improve sound quality by avoiding dynamic volume suppression due to echo cancellation.
-
-Leave the no headphones to:
-
-- People who don't have them handy at that time
-- People from outside the company
-
-Further headphone advice can be found in the [home office setup](/handbook/company/culture/all-remote/workspace/#headphones) guide.
-
-If you want to use your [Bose headphones](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones.html), that is fine, but please ensure the microphone is active.
-
 #### You are the manager of your attention
 
 <a id="paying-attention-in-meetings">
