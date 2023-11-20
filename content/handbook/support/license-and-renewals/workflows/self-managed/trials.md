@@ -38,11 +38,11 @@ With the release of [Temporary renewal extensions](/handbook/product/fulfillment
         - If the license expires **within the next 14 days**, redirect the salesperson to use the SFDC feature by using the `Deviation from SM License Extension Workflow` macro and close the ticket.
         - If it expires **more than 14 days later**, the salesperson should wait until the expiry is within 14 days and then use the SFDC feature. Redirect the salesperson to use the SFDC feature by using the `Deviation from SM License Extension Workflow` macro and close the ticket.
         - If the license expiry has passed, then proceed with step 2 (2).
-    1. the customer does not have a valid temporary extension:
+    1. The customer does not have a valid temporary extension:
         1. Go to https://customers.gitlab.com/admin/temporary_extension_history
         1. Search using the `Subscription Name` that was in the license.
-        1. If a temp extension exists and its expiry date is not within 5 days, tell the salesperson to open the request when the license will expire within 5 days and close the ticket.
-        1. If a temp extension exists and it's expiry date is in 5 days or less, proceed to step 2 (3).
+        1. If a temp extension exists **and** its expiry date is not within 5 days, tell the salesperson to open the request when the license will expire within 5 days and close the ticket.
+        1. If a temp extension exists **and** its expiry date is in 5 days or less, proceed to step 2 (3).
         1. If a temp extension does not exist, proceed to step 2 (3).
     1. The ticket type is `Extend an (almost) expired subscription`.
         - If the salesperson selects a different form (e.g. the IR `Other`), then redirect them to submit a new ticket by using the `Deviation from SM License Extension Workflow` macro and close the ticket.
