@@ -32,7 +32,7 @@ Successful change management initiatives require expert facilitation by empowere
 
 ### Practicing TeamOps in GitLab
 
-Inspired by our GitLab’s rapid growth and success, many organizations want to "work the GitLab way." The first step to achieving this goal is using the tool we do: GitLab. The second step is using that tool the same way we use it: TeamOps. The Practicing TeamOps in GitLab course teaches our customers how to apply the TeamOps operating model while using GitLab tools. It explains how anyone — regardless of job role or function — can easily activate the action tenets of virtual-first ways of working for managing people and projects.
+Inspired by our GitLab’s rapid growth and success, many organizations want to "work the GitLab way." The first step to achieving this goal is using the tool we do: GitLab. The second step is using that tool the same way we use it: TeamOps. The [Practicing TeamOps in GitLab course](https://levelup.gitlab.com/learn/course/practicing-teamops-in-gitlab) teaches our customers how to apply the TeamOps operating model while using GitLab tools. It explains how anyone — regardless of job role or function — can easily activate the action tenets of virtual-first ways of working for managing people and projects.
 
 #### Contact Us
 
