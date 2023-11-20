@@ -264,7 +264,7 @@ Be sure to highlight notable incidents in your 1:1 notes doc.
 | Level        | How it might look |
 | ------------ | ----------------- |
 | Intermediate | Aim for two pairing sessions per week |
-| Senior       | [Aim for one pairing or help session per day](/handbook/support/engineering/mentorship.html) |
+| Senior       | [Aim for one pairing or help session per day](/handbook/support/engineering/mentorship) |
 
 ## Create and update issues for bugs and feature requests (Weekly)
 
