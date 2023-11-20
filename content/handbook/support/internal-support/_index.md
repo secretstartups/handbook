@@ -112,7 +112,7 @@ Note that you cannot send public replies to customers with a Light Agent account
 
 | Request    | What To Do                                                   |
 | ---------- | ------------------------------------------------------------ |
-| Upgrade Assistance | **Global organizations:** [Review the offering](https://about.gitlab.com/support/scheduling-upgrade-assistance/), then open a new ticket in the global support portal <br> **Public Sector organizations:** [Open a ticket](https://about.gitlab.com/support/scheduling-upgrade-assistance/#us-federal-support) in the U.S. Federal support portal |
+| Upgrade Assistance | **Global organizations:** [Review the offering](https://about.gitlab.com/support/scheduling-upgrade-assistance/), then open a new ticket in the global support portal <br> **Public Sector organizations:** [Open a ticket](https://about.gitlab.com/support/scheduling-upgrade-assistance/#us-federal-support) in the U.S. Government support portal |
 | Who is on-call for Customer Emergencies? | Run `/chatops run oncall support` in a direct message to `GitLab Chatops` and review the results. This will **not** page the on-call engineer. |
 | Who is on-call for GitLab.com CMOC? | Run `/chatops run oncall cmoc` in a direct message to `GitLab Chatops` and review the results. This will **not** page the on-call engineer. |
 | Excessive reCaptcha on GitLab.com | While it's happening, post in [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) and link to the issue/MR in question to be added to the allowlist. |
@@ -263,9 +263,9 @@ A copy of the license email sent to the customer is automatically logged under t
 
 ---
 
-### US Federal Internal Requests
+### US Government Support Internal Requests
 
-**Public Sector organizations:** For confidential license issues relating to US Federal customers, GitLab team members can [open a case with US Federal Support](https://gitlab-com.gitlab.io/support/support-ops/forms/us-federal-internal-request-form/).
+**Public Sector organizations:** For confidential license issues relating to US Government support customers, GitLab team members can [open a case with US Government Support](https://gitlab-com.gitlab.io/support/support-ops/forms/us-federal-internal-request-form/).
 
 ### Request for a license as a GitLab Team Member
 
