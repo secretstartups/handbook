@@ -58,6 +58,12 @@ Through that process you may:
    In this situation, proceed according to the guidance in our SGG FAQ about
    [responding to other SEs’ tickets](/handbook/support/support-global-groups/sgg-faq/#1-should-ses-respond-to-other-ses-tickets).
 
+### Reduced capacity
+
+At certain times, the Support team will experience reduced operational capacity due to factors such as scheduled meet-ups, holidays, Summits, and other similar events. During these instances, the team will operate in a designated 'reduced capacity' mode, in which we will switch our primary focus from the normal SGG views to the special 'All FRT and Emergencies' and 'All NRT' views. Through these views each Support Engineer will see all incoming tickets, regardless of SGG assignment.
+
+We will expect Support Engineers to proactively claim ownership of any unassigned tickets they engage with during a reduced capacity period.
+
 ## Assigning tickets
 
 When you begin work on a new ticket, as your first step please assign the ticket
