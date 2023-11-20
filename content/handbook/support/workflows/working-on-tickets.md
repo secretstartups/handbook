@@ -60,7 +60,9 @@ Through that process you may:
 
 ### Reduced capacity
 
-There will be times when the Support team is operating at a reduced capacity due to any number of reasons (Meet-ups, Holidays, Summit, etc.). During these times of reduced capacity, the team will need to work in a special "reduced capacity" mode. When working in a "reduced capacity" mode, Support Engineers will utilize the `All FRT and Emergencies` and `All NRT` views. This will include all tickets, not just those in the Support Engineer's SGG. Support Engineers should still assign tickets that they respond to if the ticket does not already have an assignee.
+At certain times, the Support team will experience reduced operational capacity due to factors such as scheduled meet-ups, holidays, Summits, and other similar events. During these instances, the team will operate in a designated 'reduced capacity' mode, in which we will switch our primary focus from the normal SGG views to the special 'All FRT and Emergencies' and 'All NRT' views. Through these views each Support Engineer will see all incoming tickets, regardless of SGG assignment.
+
+We will expect Support Engineers to proactively claim ownership of any unassigned tickets they engage with during a reduced capacity period.
 
 ## Assigning tickets
 
