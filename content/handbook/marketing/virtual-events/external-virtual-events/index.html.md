@@ -1,15 +1,15 @@
 ---
-layout: handbook-page-toc
+
 title: External Virtual Events
 description: An overview of external virtual events including virtual conferences where we sponsor a booth, and sponsored webinars with third party vendors.
 twitter_image: '/images/tweets/handbook-marketing.png'
 twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
 ---
-## On this page 
-{:.no_toc .hidden-md .hidden-lg}
-- TOC
-{:toc .hidden-md .hidden-lg}
+ 
+
+
+
 
 # Overview
 {: #overview .gitlab-purple}
@@ -18,11 +18,11 @@ twitter_creator: "@gitlab"
 
 External virtual events are, by definition, not owned and hosted by GitLab. They are hosted by an external third party (i.e. a partner or paid vendor). The goal of external virtual events is to drive net new leads, and we do not promote to our internal database. The various types of external virtual events are below, and involve epic and issue creation, designation of DRIs, and workback schedule definition within the issue due dates.
 
-* [Partner-Hosted Webinars](/handbook/marketing/virtual-events/external-virtual-events/#partner-hosted-webinars): hosted by a channel partner (i.e. WWT), this is an unpaid tactic. The channel partner manages landing page, moderating and hosting the webinar on their platform. GitLab represents as a speaker at the event, sometimes jointly with an alliance partner. A lead list is often not shared after the event, as the channel partner will work the leads. We will sometimes promote, and determine which channels are appropriate.
-* [Sponsored Webinars](/handbook/marketing/virtual-events/external-virtual-events/#sponsored-webinars): hosted on an external vendor platform (i.e. DevOps.com), this is a paid tactic. The vendor is responsible for driving registration, moderating and hosting the webinar on their platform, and delivering a lead list after the event. The goal of a sponsored webinar is net new leads - we do not promote to our existing database as it is a paid activity.
-* [Virtual Conferences](/handbook/marketing/virtual-events/external-virtual-events/#virtual-conferences): hosted on an external vendor platform (i.e. Hopin), this is a paid tactic. GitLab pays a sponsorship fee to receive a virtual booth and often speaking session or panel presence. The goal of a sponsored virtual conference is net new leads - we do not promote to our existing database as it is a paid activity.
-* [Executive Roundtable](/handbook/marketing/virtual-events/external-virtual-events/#executive-roundtables):  hosted on an external vendor platform, this is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer. The goal of an executive roundtable is net new leads - we do not promote to our existing database as it is a paid activity.
-* [Vendor Arranged Meetings](/handbook/marketing/virtual-events/external-virtual-events/#vendor-arranged-meetings): hosted by an external vendor, the vendor organizes one-to-one meetings with prospect or customer accounts. This does not include meetings set internally by GitLab team members. An example would be a "speed dating" style meeting setup where a vendor organizes meetings with prospects of interest to GitLab. The goal of a venor arranged meeting is to generate meetings with accounts of interest that we are finding challenging to break into directly - we do not promote to our existing database as it is a paid activity.
+* [Partner-Hosted Webinars](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/#partner-hosted-webinars): hosted by a channel partner (i.e. WWT), this is an unpaid tactic. The channel partner manages landing page, moderating and hosting the webinar on their platform. GitLab represents as a speaker at the event, sometimes jointly with an alliance partner. A lead list is often not shared after the event, as the channel partner will work the leads. We will sometimes promote, and determine which channels are appropriate.
+* [Sponsored Webinars](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/#sponsored-webinars): hosted on an external vendor platform (i.e. DevOps.com), this is a paid tactic. The vendor is responsible for driving registration, moderating and hosting the webinar on their platform, and delivering a lead list after the event. The goal of a sponsored webinar is net new leads - we do not promote to our existing database as it is a paid activity.
+* [Virtual Conferences](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/#virtual-conferences): hosted on an external vendor platform (i.e. Hopin), this is a paid tactic. GitLab pays a sponsorship fee to receive a virtual booth and often speaking session or panel presence. The goal of a sponsored virtual conference is net new leads - we do not promote to our existing database as it is a paid activity.
+* [Executive Roundtable](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/#executive-roundtables):  hosted on an external vendor platform, this is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer. The goal of an executive roundtable is net new leads - we do not promote to our existing database as it is a paid activity.
+* [Vendor Arranged Meetings](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/#vendor-arranged-meetings): hosted by an external vendor, the vendor organizes one-to-one meetings with prospect or customer accounts. This does not include meetings set internally by GitLab team members. An example would be a "speed dating" style meeting setup where a vendor organizes meetings with prospects of interest to GitLab. The goal of a venor arranged meeting is to generate meetings with accounts of interest that we are finding challenging to break into directly - we do not promote to our existing database as it is a paid activity.
 
 # Partner Webinars
 {: #partner-hosted-webinars .gitlab-purple}
@@ -420,15 +420,15 @@ Due dates for each action item and DRIs are outlined on the [Conference Planning
 Here are some basic tips to help ensure that you have a good experience preparing for and presenting on a video conference. See [speaker preparation best practices](https://about.gitlab.com/handbook/marketing/virtual-events/best-practices#speakers).
 
 ##### Before Committing as a Speaker
-{:.no_toc}
+
 Ask us any questions you have about the time commitment etc. and what exactly our expectations are. Talk about it with your manager if you're on the fence about your availability, bandwidth, or interest. Make sure you're both on the same page. We want this to be a meaningful professional development exercise for you, not a favor to us that you're lukewarm about — if you feel that way, none of will be able to do our best job. We'll be honest with you, so please do the same for us.
 
 ##### Before the Dry Run
-{:.no_toc}
+
 Select and set up your presentation space. Pick a spot with good wifi, and we recommend setting up an external mic for better audio quality, although this is optional. If you will be presenting from your home, alert your spouse/roommates of the time/date & ask them to be out of the house if necessary. Depending on your preferences and comfort level with public speaking, run through the script several times.
 
 ##### Before the Presentation
-{:.no_toc}
+
 Try to get a good sleep the night before, and, if the presentation is in the morning, wake up early enough to run through your notes at least once. Review our [Positioning FAQ](https://about.gitlab.com/handbook/positioning-faq/), or keep the page handy in case you are asked in the Q&A about how GitLab compares to our competitors.
 
 ### Logistical Set up 
@@ -527,7 +527,7 @@ Needs updating to be confernece specific:
 17. Modify the webpage link with the webcast landing page url without the https (e.g: `about.gitlab.com/webcast/securing-serverless/`), then activate the `Viewed On Demand` smart campaign.
 18. Deactivate the `Attended` ,`Registration from Landing Page`, and `Registration From Zoom` smart campaigns within your webcast program.
 19. **Go back to your MR.** Once the pipeline passes and if everything looks okay in the review app remove WIP and merge (if you have merge access). If you don't have merge access, ping @jgragnola or @aoetama in the MR comment to merge.
-20. Add your webcast to the /resources page by following the instructions [outlined here](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/).
+20. Add your webcast to the /resources page by following the instructions [outlined here](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/content-in-campaigns/).
 
 # Executive Roundtables
 {: #executive-roundtables .gitlab-purple}

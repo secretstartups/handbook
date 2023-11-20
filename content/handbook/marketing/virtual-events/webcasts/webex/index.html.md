@@ -1,15 +1,15 @@
 ---
-layout: handbook-page-toc
+
 title: Webex Webcasts
 description: An overview of Webex webcasts at GitLab
 twitter_image: '/images/tweets/handbook-marketing.png'
 twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
 ---
-## On this page 
-{:.no_toc .hidden-md .hidden-lg}
-- TOC
-{:toc .hidden-md .hidden-lg}
+ 
+
+
+
 
 ---
 
@@ -48,7 +48,7 @@ twitter_creator: "@gitlab"
 1. In the Marketo program Summary view, you will see `Event Partner:` with a link that says "not set".
 1. Click on "not set"
 1. In the Event Partner drop down, select `WebEx` and in the Login drop down, select `WebEx API`.
-1. In the Event drop-down, select the name of the WebEx webcast you set up in [Step 1: Configure WebEx](/handbook/marketing/virtual-events/webcasts/#step-1-configure-webex)
+1. In the Event drop-down, select the name of the WebEx webcast you set up in [Step 1: Configure WebEx](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#step-1-configure-webex)
 
 #### Create campaign in Salesforce - WebEx
 

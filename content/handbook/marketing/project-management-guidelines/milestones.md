@@ -7,8 +7,8 @@ title: "Milestones project management guidelines"
 ## Background
 
 There are two concepts of time-based tracking in GitLab.
-* [Milestones](/handbook/marketing/project-management-guidelines/milestones/#milestones): useful for tracking the progress of multiple issues across a specific time period, and when planning and managing epics.
-* [Iterations](/handbook/marketing/project-management-guidelines/milestones/#iterations): useful for planning agile or agile-like sprints to capture action items to be completed within a specific time period.
+* [Milestones](https://about.gitlab.com/handbook/marketing/project-management-guidelines/milestones/#milestones): useful for tracking the progress of multiple issues across a specific time period, and when planning and managing epics.
+* [Iterations](https://about.gitlab.com/handbook/marketing/project-management-guidelines/milestones/#iterations): useful for planning agile or agile-like sprints to capture action items to be completed within a specific time period.
 
 ## Milestones
 
@@ -16,7 +16,7 @@ There are two concepts of time-based tracking in GitLab.
 
 Milestones are **very useful** when tracking the progress of multiple issues and when planning and managing epics.
 
-![Milestone4](/handbook/marketing/project-management-guidelines/images/milestone.png)
+![Milestone4](https://about.gitlab.com/handbook/marketing/project-management-guidelines/images/milestone.png)
 
 Here are two examples of milestones:
 
@@ -81,7 +81,7 @@ Because the milestone does not yet include change history or details about who c
 - **Issue management**: via workflow and iteration issue boards
 - **Scope**: default to lowest scope. Define at the [top `marketing` group](https://gitlab.com/groups/gitlab-com/marketing/-/milestones/) for executive topics and integrated campaigns.
 
-![Project Milestone](/handbook/marketing/project-management-guidelines/images/project-milestones.png)
+![Project Milestone](https://about.gitlab.com/handbook/marketing/project-management-guidelines/images/project-milestones.png)
 
 Recommended dates and duration: it depends, though shorter is often better. Because the milestone has dates for start and finish, the implication is that issues and MRs in the milestone are completed in this time window.  If the milestone window is 3 weeks, then the expectation is that the work in the milestone is completed in that time frame.
 
@@ -103,10 +103,10 @@ A consistent **Naming Convention** is helpful to ensure similar iterations (i.e.
 - **Implement with**: [iterations](https://docs.gitlab.com/ee/user/group/iterations/)
 - **Time and duration**: 2 weeks, from Mondays to the following Sunday
 - **Naming convention**: `Mktg: YYYY-MM-DD`, with the ISO-formatted date being the **end date** of the milestone. `Mktg:` allows for filtering to only the Marketing-wide iterations, and the ISO date can help further filtering on month/day when assigning the milestone to an issue.
-- **Issue management**: via [workflow](/handbook/marketing/project-management-guidelines/boards/#workflow-board) and [iteration](/handbook/marketing/project-management-guidelines/boards/#iteration-board) issue boards
+- **Issue management**: via [workflow](https://about.gitlab.com/handbook/marketing/project-management-guidelines/boards/#workflow-board) and [iteration](https://about.gitlab.com/handbook/marketing/project-management-guidelines/boards/#iteration-board) issue boards
 - **Scope**: defined at the [top `marketing` group](https://gitlab.com/groups/gitlab-com/marketing/-/milestones/), essentially for executive topics and integrated campaigns, but it is encouraged that all groups in Marketing use this one set of iterations for a unified workflow. These are the only iterations that will be defined at this level.
 
-![Iterations](/handbook/marketing/project-management-guidelines/images/iterations.png)
+![Iterations](https://about.gitlab.com/handbook/marketing/project-management-guidelines/images/iterations.png)
 
 ### Backlog
 

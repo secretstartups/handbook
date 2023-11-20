@@ -1,15 +1,15 @@
 ---
-layout: handbook-page-toc
+
 title: Self-Service Virtual Events
 description: An overview of self-service virtual events at GitLab.
 twitter_image: '/images/tweets/handbook-marketing.png'
 twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
 ---
-## On this page 
-{:.no_toc .hidden-md .hidden-lg}
-- TOC
-{:toc .hidden-md .hidden-lg}
+ 
+
+
+
 
 ## Overview
 {: #overview .gitlab-purple}
@@ -35,7 +35,7 @@ To provide feedback on the Self-service virtual events process please kindly fil
 - [Zoom cancellation](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#cancelling-for-self-service-virtual-events-with-or-without-promotion)
 - [Zoom during event](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#setting-up-the-event-in-zoom)
 - [Zoom post-event](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#post-event)
-- [Marketo Set up with Landing Page](/handbook/marketing/virtual-events/self-service-virtual-events/#marketo-set-up-with-landing-page)
+- [Marketo Set up with Landing Page](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#marketo-set-up-with-landing-page)
 
 [Results](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#results)
 - [Responses by month](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#responses-by-month)
@@ -411,7 +411,7 @@ Make sure these settings are enabled in your personal zoom account settings as n
 
 **[Optional] Add a poll to your meeting**
 
-1. Make sure you have [enabled `Polling` in your account settings](/handbook/marketing/virtual-events/self-service-virtual-events/#prerequisites).
+1. Make sure you have [enabled `Polling` in your account settings](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#prerequisites).
 2. In the meeting that you have set up, click the `Poll` tab.
 3. Click `Add`.
 4. Put a descriptive title for the Poll.
@@ -433,11 +433,11 @@ This set up is for when you are hosting a self-service webcast, but using a Mark
 
 ### Rescheduling Self-Service Virtual Events with or without Promotion
 
-For the most up-to-date rescheduling instructions, please visit [this handbook page](/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
+For the most up-to-date rescheduling instructions, please visit [this handbook page](https://about.gitlab.com/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
 
 ### Cancelling for Self-Service Virtual Events with or without Promotion
 
-For the most up-to-date cancellation instructions, please visit [this handbook page](/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
+For the most up-to-date cancellation instructions, please visit [this handbook page](https://about.gitlab.com/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
 
 #### During the event
 

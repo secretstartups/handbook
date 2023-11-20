@@ -1,15 +1,15 @@
 ---
-layout: handbook-page-toc
+
 title: Virtual Events
 description: An overview of virtual events at GitLab including webcasts, virtual workshops, and external virtual events.
 twitter_image: '/images/tweets/handbook-marketing.png'
 twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
 ---
-## On this page 
-{:.no_toc .hidden-md .hidden-lg}
-- TOC
-{:toc .hidden-md .hidden-lg}
+ 
+
+
+
 
 # Overview
 {: #overview .gitlab-purple}
@@ -71,11 +71,11 @@ Once the sponsorship has been confirmed, go to your calendar event and remove `H
 
 ## Rescheduling external virtual events
 
-For the most up-to-date rescheduling instructions, please visit [this handbook page](/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
+For the most up-to-date rescheduling instructions, please visit [this handbook page](https://about.gitlab.com/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
 
 ## Cancelling external virtual events
 
-For the most up-to-date rescheduling instructions, please visit [this handbook page](/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
+For the most up-to-date rescheduling instructions, please visit [this handbook page](https://about.gitlab.com/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
 
 ## Virtual events decision tree
 {: #decision-tree .gitlab-purple}
@@ -112,7 +112,7 @@ Field Marketing runs hands-on workshops virtually. Regardless or not if there wi
 - By using Zoom webcast for these workshops we are able to more easily track and manage the Q&A coming in from the larger audience. With the chat feature in the Self Service Zoom offering, the chat runs long and can become confusing.
 - There is a more professional look and feel of a Webcast run event vs a self-service run event.
 
-For details regarding Virtual Workshops, please visit the [Field Marketing Page](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshops).
+For details regarding Virtual Workshops, please visit the [Field Marketing Page](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshops).
 
 ### Virtual Conference
 {: #virtual-conference}
@@ -272,7 +272,7 @@ In order to stay compliant with all regulatory policies as it relates to marketi
 
 Please add the following language when creating your Zoom registration landing page:
 
->By registering for this event, you agree that GitLab may email you about its products, services and events. You may opt-out at anytime by unsubscribing in emails or visit our [communication preference center](https://about.gitlab.com/company/preference-center/).
+>By registering for this event, you agree that GitLab may email you about its products, services and events. You may opt-out at anytime by unsubscribing in emails or visit our [communication preference center](/handbook/company/preference-center/).
 
 If you are creating a self-service partner virtual event, please add the following language when creating your Zoom registration landing page and replace `[partner name]` with the name of the partner:
 
@@ -327,7 +327,7 @@ Due to current security concerns, live streaming to YouTube from Zoom has been [
 ## Virtual Event Best Practices
 {: #best-practices .gitlab-purple}
 
-You may also want to review the [GitLab Video Playbook](https://about.gitlab.com/handbook/communication/video-playbook/), which offers guidance on creating engaging video content, much of which also applies to virtual events.
+You may also want to review the [GitLab Video Playbook](/handbook/communication/video-playbook/), which offers guidance on creating engaging video content, much of which also applies to virtual events.
 
 ### Event Planner Best Practices
 {: #best-practices-event-planners}
