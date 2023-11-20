@@ -1,19 +1,19 @@
 ---
-layout: handbook-page-toc
+
 title: Team Member Social Media Policy 
 description: This is the GitLab employee social media policy
 twitter_image: "/images/opengraph/handbook/social-marketing/team-member-social-media-policy.png"
 twitter_image_alt: GitLab Social Media Policy
 
 ---
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Introduction
-{:.no_toc}
+
 
 We recognize that many team members engage in social media activity. This policy establishes a set of rules and guidelines for any activity and participation on social media channels when commenting about GitLab or GitLab-related topics.
 
@@ -39,12 +39,12 @@ The term "social media" applies to any online technology in use now or in the fu
 This policy is not intended to limit team members from sharing their feedback or reviews of their experiences at GitLab on sites like Glassdoor, Fishbowl, Indeed, or similar sites. While we encourage you to share feedback with your manager and the people ops team, we celebrate our value of transparency and welcome feedback from team members on these sites, as long as the feedback follows our [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/).
 
 ### All other GitLab codes of conduct and policies also apply to our social media policy
-{:.no_toc}
 
-Please adhere to the [Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/), [Anti-Harrassment Policy](https://about.gitlab.com/handbook/anti-harassment/), which includes sexual harrassment and discrimination policies, and our [Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d). These policies all apply to team member behavior within social media and in public online spaces.
+
+Please adhere to the [Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/), [Anti-Harrassment Policy](/handbook/anti-harassment/), which includes sexual harrassment and discrimination policies, and our [Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d). These policies all apply to team member behavior within social media and in public online spaces.
 
 ##### Social Media sometimes generates press and media attention or legal questions. Please refer all inquires to the Communications Team in the #external-comms Slack channel.
-{:.no_toc}
+
 
 ### What you should do
 
