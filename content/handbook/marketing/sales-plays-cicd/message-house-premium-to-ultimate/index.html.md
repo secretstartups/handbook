@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Upsell Premium to Ultimate message house"
 description: "Messaging related to the GTM-CICD motion"
 twitter_image: '/images/tweets/handbook-marketing.png'

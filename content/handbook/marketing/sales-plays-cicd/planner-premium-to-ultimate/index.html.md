@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Upsell Premium to Ultimate sales play planner"
 description: "description to add"
 twitter_image: '/images/tweets/handbook-marketing.png'
@@ -14,7 +14,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 
 #### **Sales play name**  {#sales-play-name}
 
-Premium => Ultimate CI/CD: [find and use the sales playbook here.](/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate)
+Premium => Ultimate CI/CD: [find and use the sales playbook here.](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate)
 
 
 #### **Description**  {#description}

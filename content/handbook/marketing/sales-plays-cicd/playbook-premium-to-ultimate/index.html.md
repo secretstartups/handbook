@@ -1,17 +1,17 @@
 ---
-layout: markdown_page
+
 title: "Sales Play: Upsell Premium to Ultimate"
 description: "This page has all the information for the GTM-CICD sales play."
 
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
+
 
 Note: Think of a sales play as a recipe. If you follow the recipe, we can achieve more predictable, consistent results. And if we find an asset or approach that works best (or flops), then we can tweak the recipe to continuously improve. **If you have improvements to suggest, please contribute comments to [this MR](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5095) to suggest your edits and upvote on others.
 
@@ -189,7 +189,7 @@ Other objections and responses can be found in the [FAQ deck](https://docs.googl
 
 GitLab (or a GitLab partner) offers the below services to help accelerate time to value and mitigate risk:
 * [Security Essentials Training](/services/education/security-essentials/) that will enable students to take the [security specialist certification](/services/education/gitlab-security-specialist/). 
-* [Secure Advisory Services](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/consulting/secure-advisory) can help provide guidance to a customer who wants to rebuild their security processes to shift left and/or secure their SDLC Supply Chain. The target audience for these services are a central secuirty or SDLC Governance/Compliance team. Pricing varies on this offering. Talk with @em in the [professional services slack channel](/handbook/customer-success/professional-services-engineering/working-with/#slack) to learn more. 
+* [Secure Advisory Services](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/consulting/secure-advisory) can help provide guidance to a customer who wants to rebuild their security processes to shift left and/or secure their SDLC Supply Chain. The target audience for these services are a central secuirty or SDLC Governance/Compliance team. Pricing varies on this offering. Talk with @em in the [professional services slack channel](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/working-with/#slack) to learn more. 
 
 # Sales Play Tactics {#sales-play-tactics}
 {: .alert .alert-gitlab-purple}
@@ -384,5 +384,5 @@ Note: progress of the GTM Motion will be measured at the campaign level with cli
 
 Marketing is running a related demand gen campaign.  
 
-* Initial launch will include the email campaign outlined above for SMB to drive leads using the [Message house](/handbook/marketing/sales-plays-cicd/message-house-premium-to-ultimate).
+* Initial launch will include the email campaign outlined above for SMB to drive leads using the [Message house](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/message-house-premium-to-ultimate).
 * An 'air cover' campaign will raise awareness of GitLab's Ultimate capabilities. It will likely include Security (first) and Planning capabilities (next).
