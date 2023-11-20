@@ -118,6 +118,30 @@ If an Objective description also needs other sections, these can be added after 
 
 All the statuses of the Epics linked to the OKR (`Linked Epics` table) should be updated each Wednesday, to prevent drift between OKR's and linked epics.
 
+#### OKR Retrospective
+
+At the end of the quarter, each OKR should have a retrospective section at the top of the Description field,
+with the format below:
+
+```
+### Retro
+
+#### Good
+
+<2-3 bullet points summarising what went well during this OKR>
+
+#### Bad
+
+<2-3 bullet points summarising what didn't go well during this OKR>
+
+#### Try
+
+<2-3 bullet points summarising what we should try to do differently next time>
+
+```
+
+After the Retro section is finalized, the OKR can be closed.
+
 ## Platforms Learning Path
 
 All team members are encouraged to schedule time for personal development. The following links may help you get started with Platforms-relevant learning. Please add your own contributions to this list to help others with their personal development. 
