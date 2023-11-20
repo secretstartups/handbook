@@ -413,7 +413,7 @@ Additional details can be found on the [Adding/Removing Team Members Help@hand G
 1. Team Member reaches out to Total Rewards to start the Income Protection request.
 1. Total Rewards Team retrieves the Absence Management form from Unum and completes the form.
 1. Total Rewards sends the completed form to premier.referral@unum.co.uk
-1. Unum will do a case review and send the claims forms to the Team Member
+1. Unum will do a case review and send the claims forms to the Team Member.
 
 ### Reporting AXA Premiums to Payroll for Deduction and P11D reporting
 
