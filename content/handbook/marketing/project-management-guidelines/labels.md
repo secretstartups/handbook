@@ -20,7 +20,7 @@ There are two types of labels in GitLab:
 - **Group labels** can be assigned to epics, issues and merge requests in any project in
   the selected group or its subgroups.
 
-*([Learn more](/handbook/marketing/project-management-guidelines/groups/) about Groups and Projects)*
+*([Learn more](https://about.gitlab.com/handbook/marketing/project-management-guidelines/groups/) about Groups and Projects)*
 
 #### Label exclusivity
 
@@ -29,7 +29,7 @@ supporting many different use cases and views. The exception to this rule is the
 exclusive Labels. When one Scoped Label is applied, it automatically replaces any previous Label in that set. Scoped Labels are used
 to assign status, support workflows, or otherwise segment items into "either / or" situations.
 
-![Multiple Labels per issue](/handbook/marketing/project-management-guidelines/images/labels-multiple.png)
+![Multiple Labels per issue](https://about.gitlab.com/handbook/marketing/project-management-guidelines/images/labels-multiple.png)
 
 ### Known limitations
 
@@ -76,19 +76,19 @@ also grouping your Labels together in the UI.
 Labels only work properly when they are applied consistently. Wherever possible, automate the creation of appropriate Labels by adding them to
 [Issue templates](https://docs.gitlab.com/ee/user/project/description_templates.html#create-an-issue-template).
 
-![Sample scoped labels](/handbook/marketing/project-management-guidelines/images/labels-template.png)
+![Sample scoped labels](https://about.gitlab.com/handbook/marketing/project-management-guidelines/images/labels-template.png)
 
 ### Apply Scoped Labels to remove confusion
 
 To minimize clutter and reduce the possibility of incorrect double-counts, always consider creating Scoped Labels to automate Label management,
 rather than depending on users to remove invalid labels as they assign new ones.
 
-![Sample scoped labels](/handbook/marketing/project-management-guidelines/images/labels-scoped.png)
+![Sample scoped labels](https://about.gitlab.com/handbook/marketing/project-management-guidelines/images/labels-scoped.png)
 
 ### Automate Label Hygiene
 
 The Triage Bot is an open source project that makes it possible to automate many issue and merge request hygiene tasks to ensure that your projects
-are more consistently following a process. Use the [Triage Bot scripts](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/getting-started/105/)
+are more consistently following a process. Use the [Triage Bot scripts](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/getting-started/105/)
 to minimize the impact of human error, automating proper Labeling and workflow. Common uses of the Triage Bot include identifying missing or improperly
 applied Labels, notifying issue or merge request owners of Label-related problems, and applying Labels based on predefined criteria.
 
