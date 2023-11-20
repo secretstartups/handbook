@@ -79,11 +79,9 @@ Contact Details for Fullerton Health:
 Email ehs@fullertonhealth.com
 +65 6333 3636 (Option 3)
 
-As with all benefit offerings, GitLab may modify or remove this benefit at it's discretion.
-
 ### Administration of Health Screening
 
-Fullerton Health will send the invoice directly to total-rewards@gitlab.com team for payment and the nonuspayoll@gitlab.com. The Non US Payroll Team will use the invoice to report the amount covered by GitLab as a CPF payable amount on the team member’s payroll. These entries will be added on an ad-hoc basis.
+Fullerton Health will send the invoice directly to total-rewards@gitlab.com team for payment and the nonuspayoll@gitlab.com. The Non US Payroll Team will use the invoice to report the amount covered by GitLab as a CPF payable amount on the team member’s payroll. These entries will be added on an ad-hoc basis. As with all discretionary benefit offerings, GitLab may modify or remove this benefit at its discretion.
 
 ## Pension
 
