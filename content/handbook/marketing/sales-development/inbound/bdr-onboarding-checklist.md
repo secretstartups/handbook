@@ -1,5 +1,5 @@
 ---
-
+aliases: /handbook/marketing/sales-development/inbound/bdr-onboarding-checklist.html
 title: "BDR Onboarding Checklist"
 ---
 
