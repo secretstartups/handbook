@@ -1,15 +1,8 @@
 ---
-
 title: "Issue and Kanban boards project management guidelines"
 ---
 
-
-
-
-
-
-
-<%= partial("handbook/marketing/project-management-guidelines/includes/_wip-notice.html.md.erb") %>
+{{< include "includes/wip-notice.md" >}}
 
 ## Background
 
@@ -101,6 +94,6 @@ If the relevant issues that need to be managed in a board are at the project lev
 - Uses the [main marketing iterations](/handbook/marketing/project-management-guidelines/milestones/#iterations) as lists
 - Backlog is a milestone (permanently dragged to the left, and collapsed)
 - Optionally: at their discretion groups can add a milestones board for project milestones
-- [Iteration board example](https://gitlab.com/groups/gitlab-com/-/boards/1672643?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=tech-evangelism)  
+- [Iteration board example](https://gitlab.com/groups/gitlab-com/-/boards/1672643?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=tech-evangelism)
 
 ![Iteration board](/handbook/marketing/project-management-guidelines/images/iteration-board.png)

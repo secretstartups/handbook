@@ -1,15 +1,8 @@
 ---
-
 title: "Epics project management guidelines"
 ---
 
-
-
-
-
-
-
-<%= partial("handbook/marketing/project-management-guidelines/includes/_wip-notice.html.md.erb") %>
+{{< include "includes/wip-notice.md" >}}
 
 ## Background
 

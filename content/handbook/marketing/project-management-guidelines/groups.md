@@ -1,15 +1,8 @@
 ---
-
 title: "Marketing Groups and Projects guidelines"
 ---
 
-
-
-
-
-
-
-<%= partial("handbook/marketing/project-management-guidelines/includes/_wip-notice.html.md.erb") %>
+{{< include "includes/wip-notice.md" >}}
 
 ## Background
 
@@ -17,7 +10,7 @@ GitLab helps to organize teams and work through a hierarchy of [Groups](https://
 
 ### Key things to know
 
-Groups can contain other groups ([subgroups](https://docs.gitlab.com/ee/user/group/subgroups/index.html)) and projects.   
+Groups can contain other groups ([subgroups](https://docs.gitlab.com/ee/user/group/subgroups/index.html)) and projects.
 
 ![groups and subgroups](/handbook/marketing/project-management-guidelines/images/groups-subgroups.svg){: .margin-right20 .margin-left20 .margin-top20 .margin-bottom20 .image-width50pct }
 

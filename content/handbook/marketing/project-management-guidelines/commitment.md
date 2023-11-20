@@ -1,15 +1,8 @@
 ---
-
 title: "Managing Commitment"
 ---
 
-
-
-
-
-
-
-<%= partial("handbook/marketing/project-management-guidelines/includes/_wip-notice.html.md.erb") %>
+{{< include "includes/wip-notice.md" >}}
 
 ## Background
 
@@ -78,7 +71,7 @@ style legend fill:#FBFBF2, stroke: #b0b0a9
 There are two key labels that allow a team to define and manage the process:
 
 1. A **project label** that tags all issues in the process for example
-`sm_request` - is the **Product and Solution Marketing** label for **all** requests.   Need to explore the potential of these being common group level labels (shared across projects).   
+`sm_request` - is the **Product and Solution Marketing** label for **all** requests.   Need to explore the potential of these being common group level labels (shared across projects).
 
 2. A set of scoped labels that define the workflow.  Here is the list of labels from the Product and Solution Marketing workflow:
 - `sm_req::New`
