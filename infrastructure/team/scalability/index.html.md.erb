@@ -516,7 +516,34 @@ or
 - Go to the [Planning Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697168) and try to advance issues
 to the next appropriate column.
 
-## History
+## Regarding Coding at Scale
+
+Software development often happens on a single machine, with a single application version and almost no load.
+
+This configuration is very different from what happens on GitLab.com and our customers' installations.
+
+The problem _"at scale"_ comes from a different order of magnitude than the development and testing environments.  
+Things like the number of servers, the number of incoming requests, the number of rows on a table or 
+the number of application versions will make the difference between something that works on your computer and 
+something that works in production.
+
+An extra challenge, almost unique to GitLab, is that we deploy from the main branch multiple times each day, but we have a monthly release cycle 
+and [zero downtime updates](https://docs.gitlab.com/ee/update/zero_downtime.html) is a requirement for both releases.
+
+Overlooking the [compatibility with multiple versions of the application running at the same time](https://docs.gitlab.com/ee/development/multi_version_compatibility.html)
+can induce a production incident.
+
+You can find more detailed information in the links below. If this is not enough, please reach out to the
+[delivery](/handbook/engineering/infrastructure/team/delivery/) or
+[scalability](/handbook/engineering/infrastructure/team/scalability/) team.
+
+1. [Expand and Contract pattern](https://docs.gitlab.com/ee/development/multi_version_compatibility.html)
+2. [Zero Downtime Updates](https://docs.gitlab.com/ee/update/zero_downtime.html)
+3. [Sidekiq Compatibility across Updates](https://docs.gitlab.com/ee/development/sidekiq_style_guide.html#sidekiq-compatibility-across-updates)
+4. [Avoiding downtime in migrations](https://docs.gitlab.com/ee/development/database/avoiding_downtime_in_migrations.html) 
+5. [Uploads development documentation](https://docs.gitlab.com/ee/development/uploads.html)
+
+## Team History
 
 The Scalability team became a reality during [the fourth organizational iteration in the Infrastructure department](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/28542) on 2019-08-22, although it only became a reality once [the first team member joined the team](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/35882) on 2019-11-29.
 
