@@ -244,6 +244,20 @@ An example report: [Feature Flags requiring attention for `group::continuous int
 
 The feature flag triage reports are generated in a [quality toolbox scheduled pipeline](https://gitlab.com/gitlab-org/quality/toolbox/-/pipeline_schedules) with the [gitlab-feature-flag-alert](https://gitlab.com/gitlab-org/gitlab-feature-flag-alert) project.
 
+#### Group level Bug Prioritization report
+
+This report contains [group](/handbook/product/categories/) level the Top 10 open issues of  `~"type::bug"` which needs to be prioritized for the upcoming milestone. It is divided further into issues with `~"severity::`, `~"bug::vulnerability"` and `~"customer"` labels and listed based on the oldest age of the issues
+
+* Triage owner: Product Manager(s) and Engineering Manager(s) for that group.
+* Triage frequency: On 2nd of every month.
+* Triage actions:
+     1. Close the issue if it is no longer relevant or a duplicate.
+     1. Prioritize these issues and identify the ones that needs to be picked into the upcoming milestone
+     1. Assign either a versioned milestone or to the `Backlog`.
+* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/template/group/bug-prioritization.yml.erb>
+
+An example report: [2023-11-01 - Bugs Prioritization for "group::source code" for upcoming milestone - 16.7](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/14732). Current reports can be found in the [triage-reports project](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/?sort=updated_desc&state=all&search=Bugs%20Prioritization%20for&first_page_size=100)
+
 #### Auto closure of triage reports
 
 Reports open for more than 2 weeks with the `~"triage report"` label will be closed automatically with the [close old triage reports](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/close-reports/close-old-triage-reports.yml) automation.
