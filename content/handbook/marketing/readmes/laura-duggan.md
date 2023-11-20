@@ -1,5 +1,5 @@
 ---
-
+aliases: /handbook/marketing/readmes/laura-duggan.html
 title: "Laura Duggan's README"
 description: "Learn more about working with Laura Duggan"
 ---
@@ -12,7 +12,7 @@ description: "Learn more about working with Laura Duggan"
 
 ## Laura Duggan's README
 
-**Laura Duggan, Senior Frontend Engineer** 
+**Laura Duggan, Senior Frontend Engineer**
 
 This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before.
 
@@ -35,17 +35,17 @@ Here's a [conference talk](https://www.youtube.com/watch?v=VQJnk2B_p5s) I did at
 
 * **Ruined By Design, by Mike Monteiro** takes a look at the ethical considerations designers need to fight for when building a product.
 * **Reset, by Ellen Pao** tells the journey of the former venture-capitalist-turned-Reddit-CEO and her experiences of mysogony, discrimination, and retaliation in the tech and finance industries.
-* **The Undoing Project, by Michael Lewis** examines the Nobel-Prize-winning duo of behavioural psychologists Daniel Kahneman and Amos Tversky, and how they changed perceptions on decision-making. 
+* **The Undoing Project, by Michael Lewis** examines the Nobel-Prize-winning duo of behavioural psychologists Daniel Kahneman and Amos Tversky, and how they changed perceptions on decision-making.
 
 
 ## Strengths/Weaknesses/Musings
 
 * I am not a morning person - I apologize in advance.
-* I might second-guess myself, and love having a sounding board of teammates to talk through ideas. 
+* I might second-guess myself, and love having a sounding board of teammates to talk through ideas.
 * Everything I build is going to be as pixel-perfect as possible.
 * I'm a cat person, but I've been told I have 'dog person energy' so do with that what you will.
 * I like wine and coffee. Not in like, a snobby way; more in a 'just happy to be here' way.
-* I celebrate my birthday with a week-long event called LauraPalooza. Is that a strength or a weakness? I'll let you decide. 
+* I celebrate my birthday with a week-long event called LauraPalooza. Is that a strength or a weakness? I'll let you decide.
 
 ## Communication Preferences
 

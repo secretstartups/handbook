@@ -1,5 +1,5 @@
 ---
-
+aliases: /handbook/marketing/readmes/christine-lee.html
 title: "Christine Lee README (Sr. Director Marketing Strategy & Analytics)"
 description: "Learn more about working with Christine Lee"
 ---

@@ -1,5 +1,5 @@
 ---
-
+aliases: /handbook/marketing/readmes/jean-baptiste-larramendy.html
 title: "Jean-Baptiste Larramendy README (AVP, Sales Dev)"
 description: "Learn more about working with Jean-Baptiste Larramendy"
 ---

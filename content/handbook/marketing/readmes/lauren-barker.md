@@ -1,5 +1,5 @@
 ---
-
+aliases: /handbook/marketing/readmes/lauren-barker.html
 title: "Lauren Barker's README"
 description: "Learn more about working with Lauren Barker"
 ---
@@ -12,7 +12,7 @@ I'm [Lauren Barker](/handbook/company/team/#laurenbarker), Engineering Manager f
 
 #### I work daily on building and maintaining trust
 
-Trusting people and being able to be trusted is crucial to a happy and productive work environment for everyone and it takes continuous work. 
+Trusting people and being able to be trusted is crucial to a happy and productive work environment for everyone and it takes continuous work.
 
 #### My focus as a manager
 
@@ -52,7 +52,7 @@ I'm a huge fan of Coffee Chats, they are an important part of the culture when a
 
 Please don't hesitate to schedule one with me!
 
-#### Books 
+#### Books
 
 These are books that have made an impact on me along with a great book on baking bread =)
 
@@ -65,7 +65,7 @@ These are books that have made an impact on me along with a great book on baking
 
 - 🤙 I'm born and raised on the Central Coast of California.
 - 🏄 Surfing and the ocean is where I feel at home.
-- 🛶 I race outrigger canoes with [Pale Kai](https://www.palekai.org/). 
+- 🛶 I race outrigger canoes with [Pale Kai](https://www.palekai.org/).
 - ❤️ I love design and development.
 - 📖 I'm a lifelong learner who values knowledge and teamwork.
 - 🍸 Coffee or wine please.

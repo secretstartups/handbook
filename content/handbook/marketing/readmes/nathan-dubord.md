@@ -1,12 +1,12 @@
 ---
-
+aliases: /handbook/marketing/readmes/nathan-dubord.html
 title: "Nathan Dubord's README"
 description: "Learn more about working with Nathan Dubord"
 ---
 
 ## Nathan Dubord's README
 
-**Nathan Dubord, Senior Frontend Engineer** 
+**Nathan Dubord, Senior Frontend Engineer**
 
 ## Related pages
 

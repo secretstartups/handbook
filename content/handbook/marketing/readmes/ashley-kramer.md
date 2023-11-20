@@ -1,5 +1,5 @@
 ---
-
+aliases: /handbook/marketing/readmes/ashley-kramer.html
 title: "Ashley Kramer README (Chief Marketing and Strategy Officer)"
 description: "Learn more about working with Ashley Kramer"
 ---

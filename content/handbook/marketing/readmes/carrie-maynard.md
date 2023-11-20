@@ -1,5 +1,5 @@
 ---
-
+aliases: /handbook/marketing/readmes/carrie-maynard.html
 title: "Carrie Maynard README (VP, Integrated Marketing)"
 description: "Learn more about working with Carrie Maynard"
 ---
