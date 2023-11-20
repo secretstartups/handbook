@@ -1,22 +1,22 @@
 ---
-layout: handbook-page-toc
+
 title: Content contribution to the GitLab marketing website via Netlify CMS
 description: How to contribute content to the GitLab marketing website using Netlify CMS
 ---
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Introduction
-{:.no_toc}
+
 
 Thanks for checking out how to contribute to the GitLab marketing website with Netlify CMS! We have three goals:
 
-1. Improve [efficiency for the right group](https://about.gitlab.com/handbook/values/#efficiency-for-the-right-group) and make [self-service](https://about.gitlab.com/handbook/values/#self-service-and-self-learning) easier for team members who are [collaborating](https://about.gitlab.com/handbook/values/#collaboration) on the GitLab marketing website.
-2. Provide clear [documentation](https://about.gitlab.com/handbook/values/#write-things-down) about using [Netlify CMS](https://www.netlifycms.org/) to edit the GitLab marketing website.
-3. Enable GitLabs marketing team to [iteraterate](https://about.gitlab.com/handbook/values/#iteration) efficiently on content
+1. Improve [efficiency for the right group](/handbook/values/#efficiency-for-the-right-group) and make [self-service](/handbook/values/#self-service-and-self-learning) easier for team members who are [collaborating](/handbook/values/#collaboration) on the GitLab marketing website.
+2. Provide clear [documentation](/handbook/values/#write-things-down) about using [Netlify CMS](https://www.netlifycms.org/) to edit the GitLab marketing website.
+3. Enable GitLabs marketing team to [iteraterate](/handbook/values/#iteration) efficiently on content
 
 Netlify CMS is an open-source content management system for your Git workflow that enables you to provide editors with a friendly UI and intuitive workflows. Content is stored in your Git repository alongside your code for easier versioning, multi-channel publishing, and the option to handle content updates directly in Git.
 
@@ -56,9 +56,9 @@ Access the workflow tab in Netlify CMS by selecting "Workflow" at the top of the
 
 ## Creating a new or editing an existing page with Netlify CMS
 
-To edit an existing or create a new page in Netlify CMS, make sure that the [content type](/handbook/marketing/netlifycms#content-types-enabled-in-netlify-cms) is enabled. If it is one of the supported content types, follow these steps to create an MR with your changes using Netlify CMS:
+To edit an existing or create a new page in Netlify CMS, make sure that the [content type](https://about.gitlab.com/handbook/marketing/netlifycms#content-types-enabled-in-netlify-cms) is enabled. If it is one of the supported content types, follow these steps to create an MR with your changes using Netlify CMS:
 
-1. Follow steps above for [accessing the admin](/handbook/marketing/netlifycms#accessing-the-admin)
+1. Follow steps above for [accessing the admin](https://about.gitlab.com/handbook/marketing/netlifycms#accessing-the-admin)
 2. Select the content type you wish to add **or** edit an existing page from the left sidebar.
 3. Select the page you want to edit or select "New (content type)" from the top.
 4. Update your content.
@@ -67,7 +67,7 @@ To edit an existing or create a new page in Netlify CMS, make sure that the [con
 7. Visit GitLab and locate the associated merge request with your edit.
     - If it's in the draft stage, you can find the MR with the [netlify-cms/draft label](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=netlify-cms%2Fdraft)
 8. Assign the merge request to yourself, and assign a reviewer if it's ready to be reviewed.
-9. Assign a reviewer with maintainer access to the `www-gitlab-com` repository when it's ready to be merged. **Note**: There is a separate approval process if you are planning to publish a new blog post. Please see the [blog handbook](/handbook/marketing/blog/) for instructions.
+9. Assign a reviewer with maintainer access to the `www-gitlab-com` repository when it's ready to be merged. **Note**: There is a separate approval process if you are planning to publish a new blog post. Please see the [blog handbook](https://about.gitlab.com/handbook/marketing/blog/) for instructions.
 
 ## Content types enabled in Netlify CMS
 
