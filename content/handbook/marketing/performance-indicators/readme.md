@@ -1,1 +1,0 @@
-If you are looking for the Marketing handbook and are finding this page, please note that the url structure has moved. What you are looking for is now at https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites
