@@ -17,6 +17,8 @@ status: active
 
 We aim to create a working group to establish a repeatable process and framework to measure CI build speed and performance (time-to-result). The objective is to communicate to the market and customers a GitLab point of view, position GitLab CI build performance as the market leader, and provide guidance to customers on optimization considerations so that they can maximize developer efficiency while balancing compute costs for CI builds.
 
+This group is primarily focused on measuring CI build speed, comparing GitLab-hosted runners to 3rd party solutions and other platform-hosted runners such as GitHub-hosted runners, Circle CI.
+
 **Context**:
 
 CI build speed and performance (time-to-result) and CI build cost efficiency are essential competitive vectors especially given the improved maturity of the CI/CD solutions in the market. The [brand Q4 FY23 qualitative research study](https://docs.google.com/presentation/d/1z8hwWLLXJOr3jZOA1ol9jPvOXEmesSrA45sdM-RdMeo/edit?usp=sharing) data indicates that "GitLab leads the pack in associations with speed." However, our internal benchmark testing, ([slides](https://docs.google.com/presentation/d/1x79Nv-YaYOba_fPTOqQRlMfullYeW49IkiIh0Og3zvs/edit?usp=sharing), [report](https://docs.google.com/document/d/1FobCrVqtUtUjXJkBRtoi39bjVRqEFORifN4jDFQgbMs/edit?usp=sharing), of CI build performance on GitLab SaaS had mixed results. Therefore GitLab SaaS customers' perception of CI build performance could be different than self-managed customers or even GitLab SaaS customers that choose to manage their own CI build environment.
