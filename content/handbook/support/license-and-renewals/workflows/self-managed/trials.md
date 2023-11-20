@@ -42,11 +42,11 @@ With the release of [Temporary renewal extensions](/handbook/product/fulfillment
         1. Go to https://customers.gitlab.com/admin/temporary_extension_history
         1. Search using the `Subscription Name` that was in the license.
         1. If a temp extension exists and its expiry date is not within 5 days, tell the salesperson to open the request when the license will expire within 5 days and close the ticket.
-        1. If a temp extension exists and it's expiry date is in 5 days or less, proceed to step 3.
-        1. If a temp extension does not exist, proceed to step 3.
+        1. If a temp extension exists and it's expiry date is in 5 days or less, proceed to step 2 (3).
+        1. If a temp extension does not exist, proceed to step 2 (3).
     1. The ticket type is `Extend an (almost) expired subscription`.
         - If the salesperson selects a different form (e.g. the IR `Other`), then redirect them to submit a new ticket by using the `Deviation from SM License Extension Workflow` macro and close the ticket.
-        - If the ticket type is correct and the license expiry has passed, then proceed with step 4.
+        - If the ticket type is correct and the license expiry has passed, then proceed with step 3.
 1. Select `Duplicate License`.
 1. Set the `License type` to `Legacy License`.
 1. Delete the contents of `Zuora subscription ID` field if present.
