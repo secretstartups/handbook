@@ -133,7 +133,7 @@ GitLab team members can view the model [here](https://gitlab.com/gitlab-com/gl-s
 
 Security breaches happen. We read about them every day. Most of our operations are not meant to prove this risk, as it is a well-accepted industry fact.
 
-Our Red Team operations often start from an "assumed breach" scenario where we gain initial access to GitLab's systems through a trusted insider. This initial access is obtained in a most realistic way as possible, leaving indicators of compromises ([IoCs](https://en.wikipedia.org/wiki/Indicator_of_compromise)) that would have been there if the trusted insider was not assisting. From there, we focus on post-exploitation tactics and techniques such as establishing persistence and elevating privileges.
+Our Red Team operations often start from an "assumed breach" scenario where we gain initial access to GitLab's systems through a trusted insider. This is done in a realistic manner, leaving indicators of compromises ([IoCs](https://en.wikipedia.org/wiki/Indicator_of_compromise)) that reflect an actual breach. From there, we focus on post-exploitation tactics and techniques such as establishing persistence and elevating privileges.
 
 The [MITRE ATT&CK matrix](https://attack.mitre.org) is a great way to visualize the depth and variety of attack techniques that come after initial access. Focusing on those techniques provides the best opportunity to assess and improve our detection and response capabilities.
 
