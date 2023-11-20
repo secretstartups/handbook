@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: User Engagement
 description: >-
   User Engagement is one of GitLab's top 12 cross-functional initiatives. The goal is to strengthen our developer brand and increase contributors per month to GitLab.
