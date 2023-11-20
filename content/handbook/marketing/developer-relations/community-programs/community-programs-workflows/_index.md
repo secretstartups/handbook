@@ -19,7 +19,7 @@ The Community Programs team processes applications to [GitLab's community progra
 | 0. [Application](/handbook/marketing/developer-relations/community-programs/automated-community-programs/#application) | Applicant completes an application form and submits it for eligibility verification. |
 | 1. [Verification](/handbook/marketing/developer-relations/community-programs/automated-community-programs/#verification) | SheerID and/or Commuity Programs team verifies applicant's eligibility. |
 | 2. [Booking](/handbook/marketing/developer-relations/community-programs/automated-community-programs/#booking) | Successfully verified applicants receive an email with instructions for activating complimentary GitLab licenses. Applicants receive coupon codes and enter those codes during checkout via a program-specific checkout page in the GitLab Customers Portal. |
-| 3. [Provisioning]/handbook/marketing/developer-relations/community-programs/automated-community-programs/#provisioning) | Subscription licenses are provisioned through the web direct process on the GitLab Customers Portal. |
+| 3. [Provisioning](/handbook/marketing/developer-relations/community-programs/automated-community-programs/#provisioning) | Subscription licenses are provisioned through the web direct process on the GitLab Customers Portal. |
 | 4. [Compliance](/handbook/marketing/developer-relations/community-programs/automated-community-programs/#compliance) | (Stage handled by Sales-Support and Billing Ops teams. |
 | 5. [Renewal](/handbook/marketing/developer-relations/community-programs/automated-community-programs/#renewal) | Program members receive notifications when their subscriptions are due to expire. They also receive insturctions for renewing those subscriptions. |
 | 6. [Support](/handbook/marketing/developer-relations/community-programs/automated-community-programs/#support) | Both new applicants and renewing members can seek support for issues they encounter during most stages of the application process. |
@@ -76,9 +76,7 @@ During the checkout process:
 
 The GitLab for Startups Terms:
 
-```
-If you meet the requirements of the GitLab for Startups Program, you will be eligible to receive twelve (12) months Ultimate [SaaS or Self-Managed] at no cost, without Support. Renewal of the User(s) will be at the current published List Price. Your use of the GitLab Software is subject to the GitLab Subscription Agreement. Software is provided as “Free Software”.
-```
+> If you meet the requirements of the GitLab for Startups Program, you will be eligible to receive twelve (12) months Ultimate [SaaS or Self-Managed] at no cost, without Support. Renewal of the User(s) will be at the current published List Price. Your use of the GitLab Software is subject to the GitLab Subscription Agreement. Software is provided as “Free Software”.
 
 ### Provisioning
 
