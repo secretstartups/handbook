@@ -27,8 +27,6 @@ We currently maintain all groups via Zendesk itself.
 - [Billing](https://gitlab.zendesk.com/groups/360003910679)
 - [China Comms](https://gitlab.zendesk.com/groups/360007080959)
 - [General](https://gitlab.zendesk.com/groups/360002757414)
-- [Partner Support](https://gitlab.zendesk.com/groups/4560424672028)
-- [Professional Services Group](https://gitlab.zendesk.com/groups/360002771760)
 - [SGG: Baobab](https://gitlab.zendesk.com/groups/4725956857884)
 - [SGG: Ginkgo](https://gitlab.zendesk.com/groups/4427347212434)
 - [SGG: Kapook](https://gitlab.zendesk.com/groups/4725931534108)
