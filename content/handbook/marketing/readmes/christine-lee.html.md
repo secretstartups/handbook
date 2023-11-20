@@ -1,14 +1,14 @@
 ---
-layout: markdown_page
+
 title: "Christine Lee README (Sr. Director Marketing Strategy & Analytics)"
 description: "Learn more about working with Christine Lee"
 ---
 
-## On this page
-{:.no_toc}
 
-- TOC
-{:toc}
+
+
+
+
 
 ## README: Christine Lee
 
@@ -27,7 +27,7 @@ Please feel free to contribute to this page by opening a merge request.
 
 - **Problem Solving**: I am a problem solver at heart and get the most job satisfaction when I am working on challenging projects with people I enjoy working with. I think critically and try to understand “the why” behind “the why”.
 - **Organizing**: My natural tendency is to organize chaos, i.e. bringing structure and clarity to unstructured or ambiguous situations.
-- **Collaboration**: I enjoy working with diverse teams to accomplish a goal. I strive to ensure that team members can contribute with their individual strengths, so that we can collectively get to the best outcome. I find great satisfaction when we have globally optimized as a team to do what’s best for the whole. I am equally happy leading or contributing to an initiative; I care little about power and have [no ego](https://about.gitlab.com/handbook/values/#no-ego).
+- **Collaboration**: I enjoy working with diverse teams to accomplish a goal. I strive to ensure that team members can contribute with their individual strengths, so that we can collectively get to the best outcome. I find great satisfaction when we have globally optimized as a team to do what’s best for the whole. I am equally happy leading or contributing to an initiative; I care little about power and have [no ego](/handbook/values/#no-ego).
 - **Communication**: I communicate clearly and in a structured way. I think about how to deliver messages in the most effective way to various audiences. I value context and try to share as much as I can without causing information overload. I am able to simplify and explain complex concepts.
 - **Persistence**: I don’t give up easily. I am meticulous and will sweat the details.
 - **Care**: I care a lot - about the integrity of my work and the people that I work with. I will often put extra effort into work and work relationships.
@@ -38,7 +38,7 @@ Please feel free to contribute to this page by opening a merge request.
 - **Balance**: I am easily consumed by things when I am focused on them, and tend to go full-force. This can sometimes cause me to lose balance (e.g. experiencing burnout) or lose perspective. It can also come off as intense / serious to others.
     - How you can help me: Please make me aware and remind me to rest or take time off. If my intensity is too high, let me know so I can dial it back a bit.
 - **Overthinking**: When I encounter situations where I can’t figure out the “why” behind something is happening, or if decisions appear to be illogical, my brain goes into overdrive to try to make sense out of the situation.
-    - How you can help me: [Say why not just what](https://about.gitlab.com/handbook/values/#say-why-not-just-what). Feel free to tell me “you might be overthinking.”
+    - How you can help me: [Say why not just what](/handbook/values/#say-why-not-just-what). Feel free to tell me “you might be overthinking.”
 - **Solutioning**: Because I gravitate towards problem solving, I sometimes jump to solutioning instead of listening. I am an active listener, but sometimes I cut people off too early.
     - How you can help me: Please don’t be shy to point this out to me, for example “I just wanted to vent for a bit, before solutioning.”
 - **Risk-Averseness and Decisiveness**: At the same time, my analytical nature sometimes causes me to be slow to make decisions, so that I can gather more information to inform that decision. I can often see both sides of a situation, which can make me seem like I lack conviction. I am risk-averse by nature and sometimes need to be pushed to take calculated risks.
@@ -64,7 +64,7 @@ Please feel free to contribute to this page by opening a merge request.
     - I prefer Slack and I try to respond as quickly as possible. I am not as responsive over email as I use it mostly for external communication. If something is urgent, please text me.
     - I try to stay on top of my GitLab To-Do’s but if something is time-sensitive or if I am blocking something, I appreciate it if you ping me the comment over slack.
     - If we’ve already talked about scheduling a meeting, please feel free to put time on my calendar in a spot that looks open. I tend to have more mindspace on Fridays for coffee chats. If you need help finding time, please reach out to Blaire Sullivan, EBA to the Marketing Leadership team.
-    - I really appreciate context. When you ask me for something, please explain the context for where the request is coming from, and [say why not just what](https://about.gitlab.com/handbook/values/#say-why-not-just-what). You’ll also find that, when I am communicating information, I try to share as much context as possible.
+    - I really appreciate context. When you ask me for something, please explain the context for where the request is coming from, and [say why not just what](/handbook/values/#say-why-not-just-what). You’ll also find that, when I am communicating information, I try to share as much context as possible.
 - **Other Notes:**
     - I tend to be colloquial in my written communications and use a lot of emojis. In text communication, I believe emojis help a lot with non-verbal cues that we could miss otherwise.
     - I have a terrible memory, and if I don’t write something down chances are I will forget it. That’s why you may see me always taking notes. Sometimes I might forget something that you have told me about your personal life - it’s not that I don’t care! Please be patient with me.

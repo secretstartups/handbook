@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: "Nathan Dubord's README"
 description: "Learn more about working with Nathan Dubord"
 ---

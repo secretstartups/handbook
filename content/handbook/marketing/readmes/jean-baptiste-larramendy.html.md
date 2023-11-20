@@ -1,14 +1,14 @@
 ---
-layout: markdown_page
+
 title: "Jean-Baptiste Larramendy README (AVP, Sales Dev)"
 description: "Learn more about working with Jean-Baptiste Larramendy"
 ---
 
-## On this page
-{:.no_toc}
 
-- TOC
-{:toc}
+
+
+
+
 
 ## Jean-Baptiste Larramendy's README
 
@@ -44,7 +44,7 @@ I'm pretty informal, message me on Slack, send an email, or tag me on a thread, 
 
 ### What I Assume about Others
 
-- [Positive intent](https://about.gitlab.com/handbook/values/#assume-positive-intent).
+- [Positive intent](/handbook/values/#assume-positive-intent).
 - There are plenty of things I can learn from you.
 - You’ll ask for my input and help if it’s needed.
 - You have more going on than the one thing we're discussing.

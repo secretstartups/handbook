@@ -1,14 +1,14 @@
 ---
-layout: markdown_page
+
 title: "Dave Steer README (VP Product Marketing)"
 description: "Learn more about working with Dave Steer"
 ---
 
-## On this page
-{:.no_toc}
 
-- TOC
-{:toc}
+
+
+
+
 
 ## Dave README
 

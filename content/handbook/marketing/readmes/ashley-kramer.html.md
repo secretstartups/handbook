@@ -1,14 +1,14 @@
 ---
-layout: markdown_page
+
 title: "Ashley Kramer README (Chief Marketing and Strategy Officer)"
 description: "Learn more about working with Ashley Kramer"
 ---
 
-## On this page
-{:.no_toc}
 
-- TOC
-{:toc}
+
+
+
+
 
 ## Ashley Kramer's README
 
@@ -38,13 +38,13 @@ Ashley has an MSBA with a Concentration in Computer Information Science from Col
 
 ## Interests
 
-I spend most of my time in Lake Tahoe with my husband, Bobby, and two yellow labs, Bruce and Betty - you can find them on the [GitLab Pet page](https://about.gitlab.com/company/team-pets/#360-bruce-and-betty)! For fun I enjoy skiing, snowboarding and snow shoeing in the winter, and surfing, paddle boarding and golfing in the summer. I am an avid traveler and particularly love visiting Hawaii, New Zealand and anywhere in Europe.
+I spend most of my time in Lake Tahoe with my husband, Bobby, and two yellow labs, Bruce and Betty - you can find them on the [GitLab Pet page](/handbook/company/team-pets/#360-bruce-and-betty)! For fun I enjoy skiing, snowboarding and snow shoeing in the winter, and surfing, paddle boarding and golfing in the summer. I am an avid traveler and particularly love visiting Hawaii, New Zealand and anywhere in Europe.
 
 I also love engaging with earlier stage companies and up and coming entrepreneurs and am a Board Director for [Seeq Corporation](https://www.seeq.com/), an Advisor for [Snorkel AI](https://snorkel.ai/) and [Alation](https://www.alation.com/), an L.P. in the Stage 2 Capital and Artisanal funds, as well as an angel investor.
 
 ## My working style
 
-I try to always assume positive intent and encourage others to do the same. Trust is important to me. I work hard to gain it from others and hope for the same in return. Authenticity is important to me in everything from the way I show up every day to the presentations I give to my day to day interactions. I live my personal and professional life completely aligned with [GitLab’s Values](https://about.gitlab.com/handbook/values/) - one of the main reasons I joined this journey.
+I try to always assume positive intent and encourage others to do the same. Trust is important to me. I work hard to gain it from others and hope for the same in return. Authenticity is important to me in everything from the way I show up every day to the presentations I give to my day to day interactions. I live my personal and professional life completely aligned with [GitLab’s Values](/handbook/values/) - one of the main reasons I joined this journey.
 
 ### My goals as the leader of Marketing
 
@@ -77,9 +77,9 @@ Understand that when I say something, it is just me thinking out loud (collabora
 
 ### Reaching me
 
-- Please follow the [CMO handbook for review requests](/handbook/marketing/cmo/) of MRs, slides, docs, etc. This workflow includes content updates/news to read async.
+- Please follow the [CMO handbook for review requests](https://about.gitlab.com/handbook/marketing/cmo/) of MRs, slides, docs, etc. This workflow includes content updates/news to read async.
 - For most other communications, Slack is best.
-- If looking to book time with me, please reach out to Jeanette via the [#eba-team Slack channel](https://gitlab.slack.com/archives/C61RXLLDR). Learn [more](https://about.gitlab.com/handbook/eba/#contact-us).
+- If looking to book time with me, please reach out to Jeanette via the [#eba-team Slack channel](https://gitlab.slack.com/archives/C61RXLLDR). Learn [more](/handbook/eba/#contact-us).
 - For urgent matters, please text me.
 
 ## My Strengths/Weaknesses

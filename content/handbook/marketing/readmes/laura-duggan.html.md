@@ -1,14 +1,14 @@
 ---
-layout: markdown_page
+
 title: "Laura Duggan's README"
 description: "Learn more about working with Laura Duggan"
 ---
 
-## On this page
-{:.no_toc}
 
-- TOC
-{:toc}
+
+
+
+
 
 ## Laura Duggan's README
 
@@ -22,7 +22,7 @@ Please feel free to contribute to this page by opening a merge request.
 
 * [GitLab Handle](https://gitlab.com/lduggan)
 * [LinkedIn](https://www.linkedin.com/in/lauracduggan/)
-* [Team Page](https://about.gitlab.com/company/team/#lduggan)
+* [Team Page](/handbook/company/team/#lduggan)
 * [Website](https://www.lauraduggan.ca/)
 
 ## About me
