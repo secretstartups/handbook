@@ -57,7 +57,7 @@ Suggestions for improvements to these workflows are encouraged at any time, from
 
 ## How to handle tickets before going to PTO
 
-- Follow the global guide on [preparing for time off](/handbook/support/support-time-off.html#preparing-for-time-off) and [coverage for assigned tickets](/handbook/support/support-time-off.html).
+- Follow the global guide on [preparing for time off](/handbook/support/support-time-off/#preparing-for-time-off) and [coverage for assigned tickets](/handbook/support/support-time-off/#coverage-for-assigned-tickets).
 - Notify the team the day before you start PTO that you are leaving, and thank them in advance for responding to
 any that need it while you are away.
 - All team members should make a note of this to assist with determining whether to respond immediately to an open
