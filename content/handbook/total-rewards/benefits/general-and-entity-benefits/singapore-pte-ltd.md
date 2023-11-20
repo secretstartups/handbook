@@ -65,7 +65,7 @@ When adding a new dependent to the plan, please include the following informatio
 - Gender
 - Nationality
 
-## Annual Health Screening 
+## Annual Health Screening
 
 Effective November 20, 2023, GitLab offers all Singapore Team Members an annual Health Screening through Fullerton Health.
 
