@@ -1,15 +1,15 @@
 ---
-layout: handbook-page-toc
+
 title: Marketing Strategy & Platforms
 description: >-
   Learn more about the Marketing Strategy & Platforms.
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 
 ## Marketing Strategy, Operations, and Analytics Team Charter
