@@ -8,13 +8,13 @@ title: "Marketing Project Management Guidelines"
 ### Sub Pages
 
 
-1. Organization - [Groups and Projects](/handbook/marketing/project-management-guidelines/groups/)
-2. [Labels](/handbook/marketing/project-management-guidelines/labels/)
-3. [Epics](/handbook/marketing/project-management-guidelines/epics/)
-4. [Milestones](/handbook/marketing/project-management-guidelines/milestones/)
-5. [Managing Commitment](/handbook/marketing/project-management-guidelines/commitment/)
-6. [Issues](/handbook/marketing/project-management-guidelines/issues/)
-7. [Boards](/handbook/marketing/project-management-guidelines/boards/)
+1. Organization - [Groups and Projects](https://about.gitlab.com/handbook/marketing/project-management-guidelines/groups/)
+2. [Labels](https://about.gitlab.com/handbook/marketing/project-management-guidelines/labels/)
+3. [Epics](https://about.gitlab.com/handbook/marketing/project-management-guidelines/epics/)
+4. [Milestones](https://about.gitlab.com/handbook/marketing/project-management-guidelines/milestones/)
+5. [Managing Commitment](https://about.gitlab.com/handbook/marketing/project-management-guidelines/commitment/)
+6. [Issues](https://about.gitlab.com/handbook/marketing/project-management-guidelines/issues/)
+7. [Boards](https://about.gitlab.com/handbook/marketing/project-management-guidelines/boards/)
 
 # <i class="fas fa-toolbox fa-fw color-orange font-awesome"></i> Marketing Project Management Guidelines
 
@@ -24,22 +24,22 @@ Marketing uses GitLab for agile project management including [groups](https://do
 
 Marketing Departments collaborate to produce Integrated Campaigns. An Integrated Campaign is a communication effort that includes several campaign tactics such as blog posts, emails, events, advertisements, content on about.gitlab.com, videos, case studies, whitepapers, surveys, social outreach, and webcasts. An Integrated Campaign will have a campaign theme that summarizes the message we are communicating to our market.
 
-### [Active integrated campaigns](/handbook/marketing/campaigns/#active-marketing-campaigns)
+### [Active integrated campaigns](https://about.gitlab.com/handbook/marketing/campaigns/#active-marketing-campaigns)
 {: .no_toc}
 
-**Have a new campaign idea?** [Make a suggestion](/handbook/marketing/campaigns#new-ideas-for-marketing-campaigns-or-events)
+**Have a new campaign idea?** [Make a suggestion](https://about.gitlab.com/handbook/marketing/campaigns#new-ideas-for-marketing-campaigns-or-events)
 
 
 ## Project Management Processes
 
 We cultivate a deep understanding of our own product by using GitLab to manage our planning, collaboration, and execution of Marketing activities.
 
-[The latest Project Management recommendations can be found here](/handbook/marketing/project-management-guidelines) from FY21-Q2 Agility Project
+[The latest Project Management recommendations can be found here](https://about.gitlab.com/handbook/marketing/project-management-guidelines) from FY21-Q2 Agility Project
 
 ### Milestones
 {: .no_toc}
 
-[The latest recommendations for Milestones](/handbook/marketing/project-management-guidelines/milestones/) from FY21-Q2 Agility Project
+[The latest recommendations for Milestones](https://about.gitlab.com/handbook/marketing/project-management-guidelines/milestones/) from FY21-Q2 Agility Project
 
 #### Weekly Sprints
 {: .no_toc}
@@ -51,12 +51,12 @@ Each week on Monday, any open MRs and issues still assigned to the previous week
 ### Groups and projects
 {: .no_toc}
 
-[The latest recommendations for Groups and Projects](/handbook/marketing/project-management-guidelines/groups/) from FY21-Q2 Agility Project
+[The latest recommendations for Groups and Projects](https://about.gitlab.com/handbook/marketing/project-management-guidelines/groups/) from FY21-Q2 Agility Project
 
 1. The Marketing Group houses all marketing projects.
 1. Labels should be created at the **group** level so they can be used in all projects within Marketing group.
     - Labels **should not** be duplicated in individual projects. It creates board/tracking conflicts.
-1. The following are the approved marketing projects, [CMO approval](/handbook/marketing/cmo/) is needed to begin a new project.
+1. The following are the approved marketing projects, [CMO approval](https://about.gitlab.com/handbook/marketing/cmo/) is needed to begin a new project.
     - [Product Marketing](https://gitlab.com/gitlab-com/marketing/strategic-marketing) (includes PMM, TMM, and Market Insights)
     - [Developer Relations](https://gitlab.com/gitlab-com/marketing/community-relations)
     - [Digital Marketing Programs](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing)
@@ -76,7 +76,7 @@ Each week on Monday, any open MRs and issues still assigned to the previous week
 ### Issues, Milestones, and Epics
 {: .no_toc}
 
-[The latest recommendations for Epics](/handbook/marketing/project-management-guidelines/epics/) and [the latest for Issues](/handbook/marketing/project-management-guidelines/issues/) from FY21-Q2 Agility Project
+[The latest recommendations for Epics](https://about.gitlab.com/handbook/marketing/project-management-guidelines/epics/) and [the latest for Issues](https://about.gitlab.com/handbook/marketing/project-management-guidelines/issues/) from FY21-Q2 Agility Project
 
 1. Each issue represents a discrete unit of work with a deliverable. For example [1](https://gitlab.com/gitlab-com/marketing/product-marketing/issues/10) [2](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/36) [3](https://gitlab.com/gitlab-com/marketing/general/-/issues/2574)
 1. Every MR should have an issue so that it can be tracked on issue boards.
@@ -90,7 +90,7 @@ Each week on Monday, any open MRs and issues still assigned to the previous week
 ### Boards and Labels
 {: .no_toc}
 
-[The latest recommendations for Labels](/handbook/marketing/project-management-guidelines/labels/) and [the latest for boards](/handbook/marketing/project-management-guidelines/boards/) from FY21-Q2 Agility Project
+[The latest recommendations for Labels](https://about.gitlab.com/handbook/marketing/project-management-guidelines/labels/) and [the latest for boards](https://about.gitlab.com/handbook/marketing/project-management-guidelines/boards/) from FY21-Q2 Agility Project
 
 1. Each team has one or more boards to track ongoing workstreams.
 1. Generally, create a board for each function. (For example PMM has boards for Sales Enablement, Analyst Relations, Customer Relations, etc.)
@@ -117,11 +117,11 @@ Each week on Monday, any open MRs and issues still assigned to the previous week
 
 Each Department within Marketing can have "additive" labels - meaning they are used to enhance the tracking and workflows for that respective team. These "additive" labels are used in conjunction with the broader [Marketing labels](#boards-and-labels). The Department label usage is documented on each of the respective handbook pages:
 
-- [Marketing Programs](/handbook/marketing/integrated-marketing/digital-strategy/)
-- [Operations](/handbook/marketing/marketing-operations/)
-- [Sales Development Organization](/handbook/marketing/revenue-marketing/sdr/)
-- [Field Marketing](/handbook/marketing/field-marketing/#field-marketing-labels-in-gitlab)
-- [Account Based Marketing](/handbook/marketing/account-based-marketing/)
+- [Marketing Programs](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/)
+- [Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/)
+- [Sales Development Organization](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/)
+- [Field Marketing](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing-labels-in-gitlab)
+- [Account Based Marketing](https://about.gitlab.com/handbook/marketing/account-based-marketing/)
 
 ### Default Issue Text
 {: .no_toc}

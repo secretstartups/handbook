@@ -1,10 +1,10 @@
 ---
-layout: markdown_page
+
 title: "Tanuki Tech"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
+
+
 
 ## Tanuki Tech
 
@@ -154,7 +154,7 @@ TT332: Leadership Perspectives
 > 3 credit hours
 
 TT380: Technical Questions for Sales (deprecated)
-> This is a class offered by the sales enablement organization equipping salespeople to answer the most commonly asked technical questions. You may see the curriculum [here](/handbook/sales/training/technical-questions-for-sales/). This class is delivered async only.
+> This is a class offered by the sales enablement organization equipping salespeople to answer the most commonly asked technical questions. You may see the curriculum [here](https://about.gitlab.com/handbook/sales/training/technical-questions-for-sales/). This class is delivered async only.
 >
 > 5 credit hours
 
@@ -203,5 +203,5 @@ To qualify for promotions, sales development team members are required to keep u
 To see your current progress, see [here](https://docs.google.com/spreadsheets/d/1P7QvZ09F8OT7LJTeMRYbu6_Oxjw9UdouaJ5Oeo8SU8k/edit?usp=sharing).
 
 ## Tanuki Tech Faculty
-* [Christopher Wang](https://about.gitlab.com/company/team/#cs.wang) currently serves as the first dean of Tanuki Tech.
+* [Christopher Wang](/handbook/company/team/#cs.wang) currently serves as the first dean of Tanuki Tech.
 * [Ed Bao](https://gitlab.com/ebao2) serves as a teaching assistant for Tanuki Tech.

@@ -8,7 +8,7 @@ Getting started with Zip:
 1. Login to Zip via your [Okta home page](https://gitlab.okta.com/app/UserHome#).
 1. If you need Zip access, [submit an access request here](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request&_gl=1*bsfkbc*_ga*MzkwMDUyMjg5LjE2MzU3NzYxMDA.*_ga_ENFH3X7M5Y*MTY3NzYyMDEwMi4xMzkuMS4xNjc3NjIwOTc3LjAuMC4w).
 1. Review Zip training materials:
-   - [Zip End Users Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/) - Provides a step-by-step guide on how to submit different types of requests, how to review and approve requests for approver groups, how to check the status of your request, etc.
+   - [Zip End Users Guide](/handbook/business-technology/enterprise-applications/guides/zip-guide/) - Provides a step-by-step guide on how to submit different types of requests, how to review and approve requests for approver groups, how to check the status of your request, etc.
 
 ## Tips for Request Types
 
@@ -36,9 +36,9 @@ A Contractor or an Independent Contractor (IC) **is an individual** (not an enti
 1. Before submitting a Zip request for a Contractor:
    - Confirm you have internal approval from FP&A and your management to hire a Contractor and that this role is (i) not currently being performed by a GitLab Employee or (ii) there is not an open headcount position for this role.
    - Confirm the potential Independent Contractor does not own / operate a business or entity which should be used to enter into applicable terms and conditions
-   - If the Contractor requires access to GitLab [Orange or Red data](https://internal.gitlab.com/handbook/security/data_classification/), [a background screening](https://about.gitlab.com/handbook/people-policies/#background-screenings) and subsequent Zip approval must be obtained from PeopleOps. Additionally, access to Orange or Red data requires [appropriate security measures](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html#independent-contractors) are in place. As such, a GitLab laptop must be issued followed by a Zip approval from IT Ops validating laptop issuance.
-   - If the Contractor requires [GitLab equipment](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/a97ab3e71d08b55aea70f119caf5d41689ae9549/sites/handbook/source/handbook/finance/procurement/index.html.md#security-approval-requirements-for-contractors-consultants) (i.e. has access to Orange or Red data), the Zip purchase requisition will need to be submitted 10 days in advance of the normal approval [timeline](https://about.gitlab.com/handbook/finance/procurement/#-review-steps-timeline-and-considerations) to account for ordering and shipping of the equipment. [Certain locations](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/127746#note_1497241068) will require IT Approval before providing the equipment. If you are unsure if the IC will require GitLab equipment, please reach out to the #it_help channel in slack.
-      - Lead times start once the purchase requisition has been fully approved and the PO is released. Please account for this time and the [Zip approval times](https://about.gitlab.com/handbook/finance/procurement/#-review-steps-timeline-and-considerations) to determine how far in advance your Zip Request needs to be submitted prior to the IC’s start date.
+   - If the Contractor requires access to GitLab [Orange or Red data](https://internal.gitlab.com/handbook/security/data_classification/), [a background screening](/handbook/people-policies/#background-screenings) and subsequent Zip approval must be obtained from PeopleOps. Additionally, access to Orange or Red data requires [appropriate security measures](/handbook/security/security-assurance/security-risk/third-party-risk-management.html#independent-contractors) are in place. As such, a GitLab laptop must be issued followed by a Zip approval from IT Ops validating laptop issuance.
+   - If the Contractor requires [GitLab equipment](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/a97ab3e71d08b55aea70f119caf5d41689ae9549/sites/handbook/source/handbook/finance/procurement/index.html.md#security-approval-requirements-for-contractors-consultants) (i.e. has access to Orange or Red data), the Zip purchase requisition will need to be submitted 10 days in advance of the normal approval [timeline](/handbook/finance/procurement/#-review-steps-timeline-and-considerations) to account for ordering and shipping of the equipment. [Certain locations](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/127746#note_1497241068) will require IT Approval before providing the equipment. If you are unsure if the IC will require GitLab equipment, please reach out to the #it_help channel in slack.
+      - Lead times start once the purchase requisition has been fully approved and the PO is released. Please account for this time and the [Zip approval times](/handbook/finance/procurement/#-review-steps-timeline-and-considerations) to determine how far in advance your Zip Request needs to be submitted prior to the IC’s start date.
 1. Open Zip to submit your request for a contractor by selecting “Request a Purchase”
    - You must select the following to receive the required approvals:
       - Category = Consulting, Professional Services & Training
@@ -50,15 +50,15 @@ A Contractor or an Independent Contractor (IC) **is an individual** (not an enti
          - Once this template is complete, you can download it and attach it to your Zip request.
 1. The Zip Request will be reviewed by the applicable stakeholders
 1. Once the Zip Request is approved, open and complete the [Individual Contributor Onboarding Issue](https://gitlab.com/gitlab-com/temporary-service-providers/lifecycle/-/issues/new?issuable_template=orientation-issue)
-1. If you need to extend the contract term of an IC, submit a [Zip Change Request](https://about.gitlab.com/handbook/finance/procurement/#step-2-submit-your-zip-request)
-1. If you need to cancel / terminate the Contractor’s agreement earlier than the specified term, review the [Cancellation process](https://about.gitlab.com/handbook/finance/procurement/#6-cancellation) and reach out to the Procurement Team in the #procurement slack channel
+1. If you need to extend the contract term of an IC, submit a [Zip Change Request](/handbook/finance/procurement/#step-2-submit-your-zip-request)
+1. If you need to cancel / terminate the Contractor’s agreement earlier than the specified term, review the [Cancellation process](/handbook/finance/procurement/#6-cancellation) and reach out to the Procurement Team in the #procurement slack channel
 
-*Contractors / Consultants that require Orange and Red Data access, that will be processed or stored outside GitLab's systems, are considered "Professional Services" and are subject to a full security review. Please see the [Security Third Party Risk Management Handbook](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html) for more details.
+*Contractors / Consultants that require Orange and Red Data access, that will be processed or stored outside GitLab's systems, are considered "Professional Services" and are subject to a full security review. Please see the [Security Third Party Risk Management Handbook](/handbook/security/security-assurance/security-risk/third-party-risk-management.html) for more details.
 
 
 #### Submitting a request for New Software
 
-1. All new software purchases also need reviewed by [IT](https://about.gitlab.com/handbook/finance/procurement/#it-review-if-purchasing-new-software)
+1. All new software purchases also need reviewed by [IT](/handbook/finance/procurement/#it-review-if-purchasing-new-software)
 1. New software vendors will need to complete the [IT Questionnaire tab](https://docs.google.com/spreadsheets/d/17-NdZF0SeOS_b59XE9lLg9cuCD9iKKlO/edit#gid=392482466).
    - IT requests this information to perform a comprehensive assessment of applications against GitLab technology requirements.
    - Please make a copy of this tab (if not filled out during a formal RFP), have the vendor complete, and attach in the documents section of your Zip Request for IT review.
@@ -67,13 +67,13 @@ A Contractor or an Independent Contractor (IC) **is an individual** (not an enti
 #### Other tips for submitting requests:
 
 1. Will a virtual card be used to pay this vendor?
-   - This applies to instances where the supplier only accepts online credit card payments or for one-time vendor use such as events. More info on allowed uses [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/)
-   - More information in the [Zip End Users Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/) on how to submit a request using for a virtual card
+   - This applies to instances where the supplier only accepts online credit card payments or for one-time vendor use such as events. More info on allowed uses [here](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/)
+   - More information in the [Zip End Users Guide](/handbook/business-technology/enterprise-applications/guides/zip-guide/) on how to submit a request using for a virtual card
 1. Vendor Name and Primary Contact
    - If an existing vendor or you are unsure, start typing the vendor name in Zip. If vendor exists, Zip will populate it in the dropdown. You can then select the existing Primary Vendor Contact or select ‘Add new contact’ and complete the the contact information
    - If New Vendor:
       - Review the [Vendor Selection Process](/handbook/finance/procurement/#1-rfp-and-vendor-selection) and the [RFP guidelines](https://internal.gitlab.com/handbook/finance/procurement/) or reach out to your Procurement Category Manager if you have questions or need support
-      - If this supplier is not already in our system, you will need to click the “add new” option once you type in the supplier name. Please be sure to fill in all details so that the Procurement team can complete the [New Vendor Onboarding step](https://about.gitlab.com/handbook/finance/procurement/#4-vendor-onboarding). While we use Zip internally now, Coupa will still be the tool used to pay our suppliers.
+      - If this supplier is not already in our system, you will need to click the “add new” option once you type in the supplier name. Please be sure to fill in all details so that the Procurement team can complete the [New Vendor Onboarding step](/handbook/finance/procurement/#4-vendor-onboarding). While we use Zip internally now, Coupa will still be the tool used to pay our suppliers.
 1. Spend Information
    - Provide all of the spend details including required budget amount, contract term, and line item details.
    - The Line Item Breakdown should match the line items on the Order Form/Contract and should be entered separately for each year of the contract if a multi-year term.
@@ -94,7 +94,7 @@ A Contractor or an Independent Contractor (IC) **is an individual** (not an enti
 
 ### Zip Change Requests
 
-If you have a PO with an existing supplier and the costs have increased, end date has changed, and/or the scope or terms and conditions need to be amended, a [Zip Change Request](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/#how-to-do-a-request-change) can be submitted.
+If you have a PO with an existing supplier and the costs have increased, end date has changed, and/or the scope or terms and conditions need to be amended, a [Zip Change Request](/handbook/business-technology/enterprise-applications/guides/zip-guide/#how-to-do-a-request-change) can be submitted.
 
 By submitting a Zip Change Request, the applicable approvers will be added to the Zip workflow for review, and the Procurement team will amend the PO in Coupa on your behalf. Note, changes to an existing PO also must be approved by Finance, Functional, and Executive (if applicable) team members in Coupa like a new Purchase Request.
 
@@ -107,7 +107,7 @@ By submitting a Zip Change Request, the applicable approvers will be added to th
    - Send invoice to ap@gitlab.com with PO number included on the invoice
    - Failure to follow these instructions will delay payment
    - Invoices uploaded to Coupa by a GitLab team member are not routed for payment.
-1. If your request was new software, update the [tech stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#add-new-system-to-the-tech-stack) after the Zip Request is fully approved and the contract signed.
+1. If your request was new software, update the [tech stack](/handbook/business-technology/tech-stack-applications/#add-new-system-to-the-tech-stack) after the Zip Request is fully approved and the contract signed.
 
 ## Procurement Office Hours
 

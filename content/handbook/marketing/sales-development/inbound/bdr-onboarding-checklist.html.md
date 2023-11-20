@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: "BDR Onboarding Checklist"
 ---
 
@@ -12,7 +12,7 @@ Create issue for new hire in marketing with following checklist.
 
 1. [ ] Watch [Intro to Git](https://www.codeschool.com/users/sign_in) video
 1. [ ] Watch the [Vision Demo](/learn/): Idea to Production
-1. [ ] Read [GitLab Direction](/direction/)
+1. [ ] Read [GitLab Direction](https://about.gitlab.com/direction/)
 1. [ ] Read the [Handbook](/handbook/)
 1. [ ] Study GLU: [GitLab University](https://docs.gitlab.com/ee/university/)
 1. [ ] Create an email signature [Sample](https://docs.google.com/document/d/1NvfC4a26G0WZwxB1K2oeXyGvI0DGqy-LbTKa9iPP6kU/edit)
@@ -34,7 +34,7 @@ Create issue for new hire in marketing with following checklist.
 
 1. [ ] Study [GitLab University](https://docs.gitlab.com/ee/university/)
 1. [ ] SFDC Training TBD
-1. [ ] [Sales Process](/handbook/sales/) and [Qualification](https://docs.google.com/document/d/1GR0v4cvBYUoTSn66kVAqzY5q_imWbDWW4ifo7ag6Gow/edit#heading=h.ebl8fraqpynv)
+1. [ ] [Sales Process](https://about.gitlab.com/handbook/sales/) and [Qualification](https://docs.google.com/document/d/1GR0v4cvBYUoTSn66kVAqzY5q_imWbDWW4ifo7ag6Gow/edit#heading=h.ebl8fraqpynv)
 1. [ ] Prospecting 101 by Scheduled Chet
 
 ### For Inbound BDR's
@@ -43,7 +43,7 @@ Create issue for new hire in marketing with following checklist.
 1. [ ] Add these suggested [canned responses](https://docs.google.com/a/gitlab.com/document/d/1EektuIAJKo9fBe-EiAnPR3BHhlkdaWE4wqG2z3QuP5o/edit?usp=sharing) to your gmail for quick replies
 1. [ ] Create SFDC tasks for the leads you choose to work
 1. [ ] Create a task list in SFDC of at least 15 leads
-1. [ ] Shadow 3 Inbound BDRs for one hour (See [Team Page](/company/team/))
+1. [ ] Shadow 3 Inbound BDRs for one hour (See [Team Page](/handbook/company/team/))
 
 #### Metrics
 
@@ -56,7 +56,7 @@ Create issue for new hire in marketing with following checklist.
 1. [ ] Mine 5 leads each day using LinkedIn Sales Navigator and Inside View then add them as contacts to SFDC
 1. [ ] Create tasks for each contact
 1. [ ] Create a task list in SFDC of at least 25 contacts/leads
-1. [ ] Shadow 3 Outbound BDRs for one hour (See [Team Page](/company/team/))
+1. [ ] Shadow 3 Outbound BDRs for one hour (See [Team Page](/handbook/company/team/))
 
 #### Metrics
 
@@ -89,7 +89,7 @@ Create issue for new hire in marketing with following checklist.
 1. [ ] Start receiving live leads
 1. [ ] Schedule time with 3 AE's to collaborate and learn about lead management **Note** There is no agenda for this meeting, attend prepared with questions
 1. [ ] Develop a healthy task list of at least 25 leads to target
-1. [ ] Sit in on three discovery calls with the AE's (See [Team Page](/company/team/))
+1. [ ] Sit in on three discovery calls with the AE's (See [Team Page](/handbook/company/team/))
 
 #### Metrics
 
@@ -102,7 +102,7 @@ Create issue for new hire in marketing with following checklist.
 
 1. [ ] Schedule 30 minutes with the AE’s that own your accounts (Accounts will assigned to you by your team lead) to collaborate, strategize, and plan.
 1. [ ] Have a healthy task list of at least 30 contacts/leads to target
-1. [ ] Sit in on three discovery calls with the AE's (See [Team Page](/company/team/))
+1. [ ] Sit in on three discovery calls with the AE's (See [Team Page](/handbook/company/team/))
 
 #### Metrics
 

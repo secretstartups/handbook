@@ -4,7 +4,7 @@ title: Individual Use Software
 
 ## Individual Use Software Overview
 
-- Here we are defining individual use software as specific software that you need to perform your job function, outside of the existing software and platforms your team already owns/has access to. This spend should not exceed $5,000 annually. Should the cost of your software exceed this threshold, or if multiple people on your team need access, please follow the process outlined in the [New Software Procurement](https://handbook.gitlab.com/handbook/finance/procurement/new-software/) handbook page.
+- Here we are defining individual use software as specific software that you need to perform your job function, outside of the existing software and platforms your team already owns/has access to. This spend should not exceed $5,000 annually. Should the cost of your software exceed this threshold, or if multiple people on your team need access, please follow the process outlined in the [New Software Procurement](/handbook/finance/procurement/new-software/) handbook page.
 - Please note that **all software purchases charged to either personal or corporate credit cards will be DENIED for reimbursement.** You must follow the process below to cover your software purchases, which will be paid via Coupa virtual card once all necessary approvals are obtained and documented.
 
 ## I Need Individual Use Software- Where Do I Start?
@@ -23,7 +23,7 @@ title: Individual Use Software
 
 ## Pre-Approved Individual-Use Software Requests
 
-- GitLab's Security Risk team evaluates software requests upon submission to determine the level of risk that may be associated with it's usage. Commonly requested software that has been reviewed and approved by Security Risk is documented in the [internal handbook](https://internal.gitlab.com/handbook/finance/procurement/individual-use-software/) and is subject to the listed pre-approval windows listed. See the [Third Party Risk Management Handbook Page](https://handbook.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management/) for more information on these procedures. Access requests associated to pre-approved software can bypass Security review.
+- GitLab's Security Risk team evaluates software requests upon submission to determine the level of risk that may be associated with it's usage. Commonly requested software that has been reviewed and approved by Security Risk is documented in the [internal handbook](https://internal.gitlab.com/handbook/finance/procurement/individual-use-software/) and is subject to the listed pre-approval windows listed. See the [Third Party Risk Management Handbook Page](/handbook/security/security-assurance/security-risk/third-party-risk-management/) for more information on these procedures. Access requests associated to pre-approved software can bypass Security review.
 - To get access for pre-approved software, please see the internal handbook for instructions on submitting the request to obtain necessary manager and budget approval.
 
 
