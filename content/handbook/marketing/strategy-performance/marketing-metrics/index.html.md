@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Marketing Metrics"
 description: "We use Sisense to view and analyze our marketing metrics from multiple data sources."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Marketing Metrics
 
@@ -255,7 +255,7 @@ Our demo conversion rate in December 2020 was 8.3% (600/7,226).
 
 ### Marketing Metrics Dashboard
 
-The [Marketing Metrics Dashboard](https://app.periscopedata.com/app/gitlab/798262/TD---Marketing-Metrics) is the centralized hub of all major marketing metrics and [marketing KPIs](/handbook/marketing/revenue-marketing/#revenue-marketing-kpi-definitions). It is an evergreen source of information brought in from Salesforce that is comprised of numerous individual graphs/charts and allows the viewer to quickly filter results using pre-defined filters on the dashboard itself.
+The [Marketing Metrics Dashboard](https://app.periscopedata.com/app/gitlab/798262/TD---Marketing-Metrics) is the centralized hub of all major marketing metrics and [marketing KPIs](https://about.gitlab.com/handbook/marketing/revenue-marketing/#revenue-marketing-kpi-definitions). It is an evergreen source of information brought in from Salesforce that is comprised of numerous individual graphs/charts and allows the viewer to quickly filter results using pre-defined filters on the dashboard itself.
 
 ### Marketing Attribution
 
@@ -299,8 +299,8 @@ Filters are a native and integral piece of any dashboard! They allow you to quic
 
 ### Salesforce Data Filters
 All of these filters pull from the linked/specified field(s) from Salesforce. Notes will indicate when there are groupings used. As all of these pull directly from SFDC and are not cleaned (except for those specified as being bucketed/grouped, anomalies may occur when our data is not properly maintained in SFDC)
-1. User Segment Name - this pulls from SoT for `Segment` for each object as shown below in the [Reporting Fields Source of Truth](/handbook/marketing/strategy-performance/marketing-metrics/#reporting-fields-source-of-truth) section.
-1. Source Bucket - this pulls from the `Lead Source` for Leads/Contacts as shown below in the [Reporting Fields Source of Truth](/handbook/marketing/strategy-performance/marketing-metrics/#reporting-fields-source-of-truth) section. Note: these are grouped into **buckets** which, once updatd, will be displayed in a table below. This is considered the SoT for where a specific Lead/Contact came from/was sourced.
+1. User Segment Name - this pulls from SoT for `Segment` for each object as shown below in the [Reporting Fields Source of Truth](https://about.gitlab.com/handbook/marketing/strategy-performance/marketing-metrics/#reporting-fields-source-of-truth) section.
+1. Source Bucket - this pulls from the `Lead Source` for Leads/Contacts as shown below in the [Reporting Fields Source of Truth](https://about.gitlab.com/handbook/marketing/strategy-performance/marketing-metrics/#reporting-fields-source-of-truth) section. Note: these are grouped into **buckets** which, once updatd, will be displayed in a table below. This is considered the SoT for where a specific Lead/Contact came from/was sourced.
 1. Sales Qualified Source - this pulls from the [Sales Qualified Source](https://gitlab.my.salesforce.com/00N6100000HZPjd?setupid=OpportunityFields) of the Opportunity. This is considered the SoT for where an Opportunity came from/was sourced.
 1. Order Type - this pulls from the [Order Type](https://gitlab.my.salesforce.com/00N4M00000Ib8Ok?setupid=OpportunityFields) field on the Opportunity. It is used to define whether an Opportunity is `New First Order`, `New Connected`, etc.
 1. User Region Name - Using the [Opportunity Owner's](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Owner&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&_CONFIRMATIONTOKEN=VmpFPSxNakF5TVMwd05DMHhObFF4TnpveE56bzBPUzR5TURGYSxWQmZIWkc5eUh2TmFZdmtNbXhOeVBSLFl6UTNNekF5&setupid=OpportunityFields) `User Region`
@@ -395,7 +395,7 @@ Below is the table mapping for each lead source and its Source Bucket.
 ## Reporting Fields Source of Truth
 This section captures and links the most often used fields in reporting so that anyone pulling a Salesforce report can and is using the correct fields and the same fields that are being used in Periscope reports/dashboards.    
 
-Note: There is a current transition to move towards the [Territory Success Planning fields](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/)
+Note: There is a current transition to move towards the [Territory Success Planning fields](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/)
 
 ### Lead
 1. [Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Lead&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DLead%26setupid%3DLeadFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DLead&setupid=LeadFields)
@@ -463,7 +463,7 @@ This section provides links to relevant reports that may live outside of the Fie
 
 #### 3rd Party digital agency
 
-In order to track engagement for any work we do with on the digital side of the house, a campaign UTM code will be created. For more information on UTM's at GitLab [can be found here](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#utm-tracking).
+In order to track engagement for any work we do with on the digital side of the house, a campaign UTM code will be created. For more information on UTM's at GitLab [can be found here](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#utm-tracking).
 
 You will follow this process when you are working with our 3rd party digital agency to serve your target audience ads/LinkedIn InMails.
 
@@ -480,7 +480,7 @@ If you did not have a specific SFDC Campaign you were driving to, and you wanted
 Please note that whilst you can track leads via SFDC campaigns or UTM reports, pipeline generated should be viewed on [Sisense](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965070/WIP:-TD-Attribution) only, as SFDCs last touch model is different from our multi touch attribution model.
 
 ## Channel Marketing Reporting 
-We track marketing influence on channel opportunies as well as deal regisiration impact from [Market Development Funds](/handbook/resellers/Channel-Program-Guide/MDF/). 
+We track marketing influence on channel opportunies as well as deal regisiration impact from [Market Development Funds](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/MDF/). 
 
 | Report Name                                    | Platform   | Description                                                                                                                                                                                                                                  | Link                                                                                                                                  |
 | ---------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -515,7 +515,7 @@ The above reports are Bizible attribution reports at the person level, you will 
 
 [Example SFDC report](https://gitlab.my.salesforce.com/00O4M000004opfA) and an [example google sheet](https://docs.google.com/spreadsheets/d/12vKuafod5__ORqv0bCGiasMr1ANPlzPUY_95RN6Pwr0/edit#gid=48544605&range=P1) with the forumla.
 
-* [Records passed to partners](https://gitlab.my.salesforce.com/00O8X000008RSHg) - As part of our [campaigns we run jointly with channel partners](/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-campaigns), we would like to understand the status of records we've passed to partners, this report give us that insight.
+* [Records passed to partners](https://gitlab.my.salesforce.com/00O8X000008RSHg) - As part of our [campaigns we run jointly with channel partners](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-campaigns), we would like to understand the status of records we've passed to partners, this report give us that insight.
 
 ### Contribution to sales pipeline
 

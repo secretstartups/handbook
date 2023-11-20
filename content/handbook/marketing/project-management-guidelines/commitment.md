@@ -84,7 +84,7 @@ There are two key labels that allow a team to define and manage the process:
 
 Typically - you would replace the **"sm_"** with the team initials.
 
-*Important Note:  Managing a process like this based on labels, can create overhead in keeping everything in the right status. Expecting everyone to memorize all labels and right steps might be a challenge. It is possible to **automate rules/policies** that will either **automatically close issues, add a label**, etc.*  [Learn how to automate label hygiene](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/getting-started/105/)
+*Important Note:  Managing a process like this based on labels, can create overhead in keeping everything in the right status. Expecting everyone to memorize all labels and right steps might be a challenge. It is possible to **automate rules/policies** that will either **automatically close issues, add a label**, etc.*  [Learn how to automate label hygiene](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/getting-started/105/)
 
 ### An Issue Template Starts the process
 

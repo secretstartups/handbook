@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: Allocadia
 description: Allocadia is Marketing Performance Management Software.
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## About Allocadia
 
@@ -168,7 +168,7 @@ Any line items within a category or subcategory default inherit the details from
 - GL Account - will be selected for you based on your input in Spend Type above. Note that we have three different fields for GL Account - one for FMM, one for Contribute and one for the rest of marketing. If there are any problems with the GL account during integrations, remind support of this fact to expedite a response.
 
 ##### Useful tricks inside the Activity Grid 
-1. Do you find yourself wanting to copy & paste a line item from a differnt activity plan into your activity plan? If so, then you will need to (right click) Copy/Paste the line item within the same activity plan, and then use the right-click "Move" option to move the line item copy to the correct activity plan. Within the Field Marketing team, we ask FMMs to transfer dollars to the ALL plans for shared activity, vs. having multiple line items for the same activity in multiple activity plans. Those instructions can be [found here](/handbook/marketing/field-marketing/#the-field-marketing-budget) pt. 12. 
+1. Do you find yourself wanting to copy & paste a line item from a differnt activity plan into your activity plan? If so, then you will need to (right click) Copy/Paste the line item within the same activity plan, and then use the right-click "Move" option to move the line item copy to the correct activity plan. Within the Field Marketing team, we ask FMMs to transfer dollars to the ALL plans for shared activity, vs. having multiple line items for the same activity in multiple activity plans. Those instructions can be [found here](https://about.gitlab.com/handbook/marketing/field-marketing/#the-field-marketing-budget) pt. 12. 
 
 #### Channel Marketing Set up
 **Category:** FY + Quarter
@@ -203,7 +203,7 @@ Certain groups within GitLab have the ability to create a calendar invite direct
                 - use the `External Virtual Events` calendar
         - All else, do not create calendar invite and present error message `Cannot create calendar invite for this Spend Type`.
 
-While Workshops & Webcasts DO require a calendar invite, we intentionally left the auto create calendar invite out of the plug in. We did this because the `GitLab Hosted Zoom Webcasts` calendar requires Zoom integration work and is a locked calendar, given the technical work required to run the campaign types. For more information on booking a GitLab-hosted Workshop or Webcast, please visit [this handbook page](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#securing-a-virtual-workshop-or-webcast-date).
+While Workshops & Webcasts DO require a calendar invite, we intentionally left the auto create calendar invite out of the plug in. We did this because the `GitLab Hosted Zoom Webcasts` calendar requires Zoom integration work and is a locked calendar, given the technical work required to run the campaign types. For more information on booking a GitLab-hosted Workshop or Webcast, please visit [this handbook page](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#securing-a-virtual-workshop-or-webcast-date).
 
 The calendar invite is set for the entire day. If you would like the event to be on the calendar for a specific time, then you may go in and manually change the time.
 
@@ -308,7 +308,7 @@ Please be mindful of where you are creating a sub-category. The system will allo
 Should a date on a campaign need to change and the issue has already been created, you can systematically change the date & name. In order to do so, all changes must be made in Allocadia and then overnight will push the change to the GitLab FMM issue. Should you want to manually change both the issue AND Allocadia, you should feel empowered to do so. The automation is there to help you. 
 
 ##### Help! The feature to create a GitLab issue is missing from the details panel 
-You can **ONLY** create a GitLab issue from within a **SUB-CATEGORY**. Please double check you have created a subcategory, and a line item as listed in the [instructions here.](/handbook/marketing/strategy-performance/allocadia/#how-to-create-a-fmm-issue-from-within-allocadia) 
+You can **ONLY** create a GitLab issue from within a **SUB-CATEGORY**. Please double check you have created a subcategory, and a line item as listed in the [instructions here.](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/#how-to-create-a-fmm-issue-from-within-allocadia) 
 
 [Video walk through](https://www.youtube.com/watch?v=D-rxIHhbF0Q) of how to diagnose this problem and then how to also correct the problem if you've created a Category and need to move it to a sub-category. 
 
@@ -353,11 +353,11 @@ If you've hit the GitLab issue template button and the wrong issue template has 
 
 ### SalesForce.com (SFDC)
 
-As mentioned above, there is a listing of available FY23 SFDC campaigns to choose from in the detail panel. Once the initial connection has been made between Allocadia and SFDC on a given campaign (which is done by either manually connecting them via choosing a campaign from the drop down or by using your Allocadia sub-category ID to create your SFDC campaign, instructions in [pt.2 & 5 here](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up)), Allocadia will push over all the fields that have been completed in the details panel. 
+As mentioned above, there is a listing of available FY23 SFDC campaigns to choose from in the detail panel. Once the initial connection has been made between Allocadia and SFDC on a given campaign (which is done by either manually connecting them via choosing a campaign from the drop down or by using your Allocadia sub-category ID to create your SFDC campaign, instructions in [pt.2 & 5 here](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up)), Allocadia will push over all the fields that have been completed in the details panel. 
 
 In addition, we will be sending over planned amounts into the SFDC Campaign Budget field and actuals will synch nightly. This ONLY happens if the connection is there by having a campaign selected in the `Existing SFDC Campaign` field. If there are multiple line items for a given SFDC campaign, they will be combined for the updated SFDC Campaign Budget, since we use the Allocadia sub-category ID to sync Allocadia to the SFDC campaign. 
 
-Full detailed instructions on how to set this synch up, which does have to be done campaign by campaign, can be [found here](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up).
+Full detailed instructions on how to set this synch up, which does have to be done campaign by campaign, can be [found here](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up).
 
 #### Influenced MQLs 
 If entered in, the MQLs entered used in the impact modeller will be pushed to the SFDC campaign to a field called `Total Planned MQL` in the planning section of the campaign.  That data can then be pushed from SFDC into the company's BI tool and displayed on the SFDC attribution reporting so we can understand how good we are at forecasting MQL impact. 
@@ -375,7 +375,7 @@ We will be using CSV transfer files to upload plans from Allocadia to Adaptive. 
 
 ### Marketo
 
-There is no integration with Marketo. However, through the [Marketo program/SFDC campaign creation process](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up), Marketo will update the SFDC campaign description with an ID. Allocadia ingests this ID and in return, updates SFDC campaign fields to match. 
+There is no integration with Marketo. However, through the [Marketo program/SFDC campaign creation process](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up), Marketo will update the SFDC campaign description with an ID. Allocadia ingests this ID and in return, updates SFDC campaign fields to match. 
 
 ### NetSuite
 
@@ -390,7 +390,7 @@ Think of each line item ID as its own budget line. Each Allocadia line item ID w
 
 **Example Event in Allocadia:**  
 
-![Example Event](/handbook/marketing/strategy-performance/allocadia/Alloscreenshot.png)
+![Example Event](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/Alloscreenshot.png)
 
 In this example, you would use your sponsorship line item ID when submitting your sponsorship contract through Zip. You would then use your swag line item ID when submitting your swag order through Zip. If you used your Navan card for shipping charges and additional booth charges, you would enter those individual line item IDs into Navan when submitting your receipts (see below for more information regarding the new Navan field.)
 

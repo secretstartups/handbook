@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Marketing Analytics
 description: >-
   Marketing Analytics supports the entire Marketing team to
@@ -10,11 +10,11 @@ description: >-
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## <i id="biz-tech-icons" class="far fa-newspaper"></i>Charter
 
@@ -22,12 +22,12 @@ Marketing Analytics supports the entire Marketing team to develop and execute a 
 
 ## <i id="biz-tech-icons" class="fas fa-users"></i>Meet the Team
 
-- [Christine Lee, VP, Marketing Operations & Analytics](https://about.gitlab.com/company/team/#christinelee)
-- [Jerome Ahye, Manager, Data Analytics](https://about.gitlab.com/company/team/#jahye1)
-- [Robert Kohnke, Senior Data Engineer](https://about.gitlab.com/company/team/#rkohnke)
-- [David Egan, Staff Data Analyst](https://about.gitlab.com/company/team/#dwegan)
-- [Djordje Micovic, Senior Data Analyst](https://about.gitlab.com/company/team/#dmicovic)
-- [Dennis Charukulvanich, Digital Experience Analyst](https://about.gitlab.com/company/team/#dennischarukulvanich)
+- [Christine Lee, VP, Marketing Operations & Analytics](/handbook/company/team/#christinelee)
+- [Jerome Ahye, Manager, Data Analytics](/handbook/company/team/#jahye1)
+- [Robert Kohnke, Senior Data Engineer](/handbook/company/team/#rkohnke)
+- [David Egan, Staff Data Analyst](/handbook/company/team/#dwegan)
+- [Djordje Micovic, Senior Data Analyst](/handbook/company/team/#dmicovic)
+- [Dennis Charukulvanich, Digital Experience Analyst](/handbook/company/team/#dennischarukulvanich)
 
 ## <i id="biz-tech-icons" class="fas fa-users"></i>Teams We Work Closely With
 
@@ -51,7 +51,7 @@ Marketing Analytics supports the entire Marketing team to develop and execute a 
 
 **Slack channels**
 
-We can be reached via our own [#mktg-analytics](https://gitlab.slack.com/archives/C01HTAYQBM5) channel, although we also monitor the general [#marketing](https://gitlab.slack.com/archives/C0AKZRSQ5) channel and [#mktgops](https://gitlab.slack.com/archives/mktgops). We attempt to [avoid direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration.
+We can be reached via our own [#mktg-analytics](https://gitlab.slack.com/archives/C01HTAYQBM5) channel, although we also monitor the general [#marketing](https://gitlab.slack.com/archives/C0AKZRSQ5) channel and [#mktgops](https://gitlab.slack.com/archives/mktgops). We attempt to [avoid direct messages](/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration.
 
 
 ## <i id="biz-tech-icons" class="far fa-life-ring"></i>How to Get Help
@@ -170,7 +170,7 @@ If there are handbook updates that need to be made as a result of work done in a
 
 ### Focus Fridays
 
-The Marketing Analytics team has continued our experiment with MOps on 2020-04-20 to commit to no internal meetings one day of the week. Now the entire Marketing team has moved to [Focus Fridays](https://about.gitlab.com/handbook/communication/#focus-fridays). Please try not to schedule meetings for team members on Fridays, so they can devote time for deep work in milestone-related issues.
+The Marketing Analytics team has continued our experiment with MOps on 2020-04-20 to commit to no internal meetings one day of the week. Now the entire Marketing team has moved to [Focus Fridays](/handbook/communication/#focus-fridays). Please try not to schedule meetings for team members on Fridays, so they can devote time for deep work in milestone-related issues.
 
 ### Operational Timeline of Changes
 
@@ -197,25 +197,25 @@ To give each functional marketing team has a single point of contact for marketi
 
 ## <i id="biz-tech-icons" class="far fa-folder-open"></i>Important Resources
 
-- [Marketing Metrics](/handbook/marketing/strategy-performance/marketing-metrics)
+- [Marketing Metrics](https://about.gitlab.com/handbook/marketing/strategy-performance/marketing-metrics)
 
 ## <i id="biz-tech-icons" class="fas fa-toolbox"></i>We are the Bussiness Owners Of the Following Applications: 
 
-- [Bizible](/handbook/marketing/marketing-operations/bizible/)
-- [Allocadia](/handbook/marketing/strategy-performance/allocadia/)
+- [Bizible](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/)
+- [Allocadia](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/)
 - Google Analytics
 
 
 ### Requesting access to an existing tool
 
-To request access to Bizible or Allocadia, [please follow the access request process](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) as outlined in the business operations handbook.
+To request access to Bizible or Allocadia, [please follow the access request process](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) as outlined in the business operations handbook.
 
-If you are working with a contractor or consultant that requires access to one of these tools, [please follow the professional services access request process](https://about.gitlab.com/handbook/finance/procurement/) as outlined in the procurement handbook.
+If you are working with a contractor or consultant that requires access to one of these tools, [please follow the professional services access request process](/handbook/finance/procurement/) as outlined in the procurement handbook.
 
 
 ## Campaigns and Programs
 
-As is typical of any marketing organization, we often look at our Campaigns to see how they are doing. The [Campaigns and Programs Page](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaigns) shows all of the campaign types, their progression statuses and cost tracking.
+As is typical of any marketing organization, we often look at our Campaigns to see how they are doing. The [Campaigns and Programs Page](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#campaigns) shows all of the campaign types, their progression statuses and cost tracking.
 
 ## Initial Source
 
@@ -227,8 +227,8 @@ The Lead & Contact objects in Salesforce have unified statuses with [set definit
 
 ## Touchpoints & Attribution
 
-We use Adobe Marketo Measure (Bizible) for marketing attribution and tracking times when there is engagement with our prospects. The [Adobe Marketo Measure handbook page](/handbook/marketing/marketing-operations/bizible/) has more details.
+We use Adobe Marketo Measure (Bizible) for marketing attribution and tracking times when there is engagement with our prospects. The [Adobe Marketo Measure handbook page](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/) has more details.
 
 ## Web Traffic Analysis
 
-Google Analytics data is used to gain insights about the visitors and their behavior on our websites. The [web traffic analysis data catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/web-traffic-analysis/) provides details about how to leverage GitLab specific web data (key terms, definitions, KPIs, caveats, data structure)
+Google Analytics data is used to gain insights about the visitors and their behavior on our websites. The [web traffic analysis data catalog](/handbook/business-technology/data-team/data-catalog/web-traffic-analysis/) provides details about how to leverage GitLab specific web data (key terms, definitions, KPIs, caveats, data structure)

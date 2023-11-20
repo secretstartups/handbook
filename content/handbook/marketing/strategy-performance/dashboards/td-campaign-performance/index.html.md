@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: TD Campaign Performance Dashboard
 description: >- 
    Campaign Performance is designed as a source of truth dashboard on campaign performance.
@@ -9,11 +9,11 @@ description: >-
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 
 ## What is TD: Campaign Performance Dashboard
