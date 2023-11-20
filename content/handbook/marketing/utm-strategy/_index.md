@@ -1,16 +1,16 @@
 ---
-layout: handbook-page-toc
+
 title: UTM Strategy
 description: Everything you need to know about our UTM strategy, which enables insights through the connected/resulting Sisense dashboards.
 twitter_image: /images/tweets/handbook-marketing.png
 twitter_site: '@gitlab'
 twitter_creator: '@gitlab'
 ---
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Overview
 {: #overview .gitlab-purple}
@@ -208,7 +208,7 @@ Values (available as picklist in the UTM builder googlesheet):
 Values available as an open picklist in the UTM builder googlesheet.
 
 #### utm_partnerid
-This is used for events where we are passing the lead to that specific partner. For a running list of partner Ids, [go here](/handbook/marketing/channel-marketing/partner-campaigns/#crm-partner-id).
+This is used for events where we are passing the lead to that specific partner. For a running list of partner Ids, [go here](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#crm-partner-id).
 
 ## UTMs in Practice
 {: #utms-in-practice .gitlab-purple}
@@ -241,11 +241,11 @@ More examples and different scenarios are covered in [FAQ doc](https://docs.goog
 * UTM Source = `marketo` (never changes)
 * UTM campaign = `campaign short hand` (the campaign that the content aligns to)
    - Limited options; keep consistent with other channels.
-   - [See utm_campaign](/handbook/marketing/utm-strategy/#utm-campaign) for accepted options.
+   - [See utm_campaign](https://about.gitlab.com/handbook/marketing/utm-strategy/#utm-campaign) for accepted options.
    - Using proper utm_campaign will minimize number of manual updates required for DG Dashboard.
 * UTM content = `shorthand of content` (i.e. ``)
    - Limited options; keep consistent with other channels.
-   - [See utm_content](/handbook/marketing/utm-strategy/#utm-content) for accepted options.
+   - [See utm_content](https://about.gitlab.com/handbook/marketing/utm-strategy/#utm-content) for accepted options.
    - Do not use `nurture` for utm_content.
 * UTM GTM = `overarching GTM`
 
@@ -283,7 +283,7 @@ In order to retain historical campaign tracking data we will keep existing UTM s
 * UTM Source = `demandbase`
 * UTM campaign = `campaign short hand` (the campaign that the content aligns to)
   - Limited options; keep consistent with other channels.
-  - [See utm_content](/handbook/marketing/utm-strategy/#utm-content) for accepted options.
+  - [See utm_content](https://about.gitlab.com/handbook/marketing/utm-strategy/#utm-content) for accepted options.
   - For ad variations, use shorthand addition (i.e. `-accl1` `-accel2`) to the end of the content option
   - Example in practice: `utm_content=acceldigtransformation` would add the following for 4 ad variations with different ad copy:
      - `utm_content=acceldigtransformation-accel2`
@@ -298,7 +298,7 @@ In order to retain historical campaign tracking data we will keep existing UTM s
 * UTM Source = `linkedin`
 * UTM campaign = `campaign short hand` (the campaign that the content aligns to)
   - Limited options; keep consistent with other channels.
-  - [See utm_content](/handbook/marketing/utm-strategy/#utm-content) for accepted options.
+  - [See utm_content](https://about.gitlab.com/handbook/marketing/utm-strategy/#utm-content) for accepted options.
   - For ad variations, use shorthand addition (i.e. `-accl1` `-accel2`) to the end of the content option
   - Example in practice: `utm_content=acceldigtransformation` would add the following for 4 ad variations with different ad copy:
      - `utm_content=acceldigtransformation-accel2`
@@ -308,7 +308,7 @@ In order to retain historical campaign tracking data we will keep existing UTM s
 
 ### UTM structure for partner campaigns
 {: #utms-structure-for-partner-campaigns}
-* See [UTM Parameter URL](/handbook/marketing/channel-marketing/partner-campaigns/#utm-parameter-url) structure for partner campaigns.
+* See [UTM Parameter URL](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#utm-parameter-url) structure for partner campaigns.
 * [Most TBD](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1986)
 
 
