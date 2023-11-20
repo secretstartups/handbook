@@ -1,17 +1,17 @@
 ---
-layout: markdown_page
+
 title: "Sales Play: Expand with Package"
 description: "This page has all the information for the expand with Package sales play."
 
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
+
 
 Note: Think of a sales play as a recipe. If you follow the recipe, we can achieve more predictable, consistent results. And if we find an asset or approach that works best (or flops), then we can tweak the recipe to continuously improve. **If you have improvements to suggest, please contribute comments to [this issue](https://gitlab.com/gitlab-com/Product/-/issues/4440) to suggest your edits and upvote on others.
 

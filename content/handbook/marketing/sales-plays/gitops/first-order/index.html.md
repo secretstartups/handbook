@@ -1,17 +1,17 @@
 ---
-layout: markdown_page
+
 title: "Sales Play: GitOps for First Order"
 description: "This page has all the information for the FO GitOps sales play."
 
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
+
 
 ### **GitOps Sales Play for FO AEs**
 

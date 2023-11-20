@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: "Sales Play: Infrastructure Automation with GitOps"
 ---
 
@@ -300,7 +300,7 @@ Advisory/Consulting services to help with GitOps rollout are planned to be rolle
 
 As you position services, you can use our [Services Pitch Deck](https://docs.google.com/presentation/d/1CFR8_ZyE9r4Dk_mjoWGe4ZkhtBimSdN0pylIPu-NAeU/edit#slide=id.g2823c3f9ca_0_9) to help establsh the value of engaging with PS. Other services can be found in our [Complete list of professional service offerings](https://about.gitlab.com/services/)
 
-Talk with @em in the [professional services slack channel](/handbook/customer-success/professional-services-engineering/working-with/#slack) to learn more. 
+Talk with @em in the [professional services slack channel](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/working-with/#slack) to learn more. 
 
 ### Webinars, e-books, whitepapers, videos  {#resources-list}
 - [Pathfactory track for GitOps](https://learn.gitlab.com/l/gitops-gtm-content) to share with customers

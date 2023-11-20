@@ -1,16 +1,16 @@
 ---
-layout: handbook-page-toc
+
 title: "Sales Plays"
 description: "Sales plays are designed to improve the quantity of opportunities and closed business with defined Land and Expand sales motions"
 ---
 
-{::options parse_block_html="true" /}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
+
 
 ## Why Sales Plays
 
@@ -54,15 +54,15 @@ Sales plays will include but are not necessarily limited to:
 
 | Sales Play | Target Customer Segment(s) | Ideal Customer Profile | Target Personas |
 | ------ | ------ | ------ | ------ |
-| [Upsell Premium to Ultimate](/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/) | ENT and COM; Growth | existing Premium customers who are already taking advantage of GitLab CI/CD capabilities | Economic buyers and technical influencers |
-| [Infrastructure Automation (GitOps)](/handbook/marketing/sales-plays/gitops/) | primarily ENT; First Order and Growth | organizations that want to increase the elasticity and scale of their IT infrastructure via a prescriptive workflow for using Infrastructure as Code | CIO or VP of IT; VP of IT Infrastructure; VP of Platform Engineering |
+| [Upsell Premium to Ultimate](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/) | ENT and COM; Growth | existing Premium customers who are already taking advantage of GitLab CI/CD capabilities | Economic buyers and technical influencers |
+| [Infrastructure Automation (GitOps)](https://about.gitlab.com/handbook/marketing/sales-plays/gitops/) | primarily ENT; First Order and Growth | organizations that want to increase the elasticity and scale of their IT infrastructure via a prescriptive workflow for using Infrastructure as Code | CIO or VP of IT; VP of IT Infrastructure; VP of Platform Engineering |
 | [BitBucket Sales Play](https://docs.google.com/presentation/d/1M6lKn7F2vajcP2au4i0GMVVMu4n4UCG1EJyy-RLfmzU/edit?usp=sharing) | ENT and COM; First Order | organizations that currently use BitBucket Server, Cloud, or Data Center | CIO, with App Dev Exec/Director/Manager as champion |
-| [Expand with Package Management](/handbook/marketing/sales-plays/package/) | primarily ENT; First Order and Growth | organizations that migrate off of JFrog's Artifactory or Sonatype's Nexus in order to reduce costs, improve developer experience, and be more efficient. | Economic buyers and technical influencers |
+| [Expand with Package Management](https://about.gitlab.com/handbook/marketing/sales-plays/package/) | primarily ENT; First Order and Growth | organizations that migrate off of JFrog's Artifactory or Sonatype's Nexus in order to reduce costs, improve developer experience, and be more efficient. | Economic buyers and technical influencers |
 | Agile Planning (including competitive take-out) | TBD | organizations looking for better and/or more cost-effective ways to manage projects, programs, and portfolios using agile methodologies | VP of Application Development |
 | Land with CI (including competitive take-out) | ENT and COM; First Order | organizations looking for better ways to increase the quality of their code while decreasing complexity and time to delivery | Application Development Manager or Director; Software Developer and Team Lead; DevOps Engineer |
 | Land Ultimate (CD + DevSecOps) | ENT and COM; First Order | organizations looking for a comprehensive DevSecOps solution | CIO or VP of IT; CISO; IT Security Manager |
 | GitHub Compete | ENT and COM; First Order and Growth | organizations looking to standardize on a comprehensive Value Stream Delivery Platform (VSDP) | Economic buyers and technical influencers |
 | Source Code Management Competitive Take-out | ENT and COM; primarily First Order | organizations looking to migrate off legacy SCM solutions to a best-of-breed on-prem or SaaS SCM solution with ability to consolidate their DevSecOps toolchain | CIO or VP of IT; VP, Director, and Manager of Application Development |
 | Security Take-out and/or Augmentation | primarily ENT; Growth | organizations that want to improve their application security posture | CIO or VP of IT; CISO; IT Security Manager |
-| [Digital Transformation / DevOps Platform](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/) | ENT and COM; First Order and Growth | organizations that want to accelerate the speed and improve the visibility of application development and delivery supporting broader digital transformation initiative(s) | Economic buyers and technical influencers |
+| [Digital Transformation / DevOps Platform](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/) | ENT and COM; First Order and Growth | organizations that want to accelerate the speed and improve the visibility of application development and delivery supporting broader digital transformation initiative(s) | Economic buyers and technical influencers |
 | Cloud-Native & Application Modernization | ENT and COM; First Order and Growth | organizations that want to use more modern, cloud-native approaches to application development (e.g. containers, Kubernetes, serverless) | Economic buyers and technical influencers |
