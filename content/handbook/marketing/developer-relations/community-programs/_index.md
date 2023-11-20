@@ -1,7 +1,7 @@
 ---
 
 title: "Community Programs"
-description: "Meet the Community Programs team at GitLab."
+description: "Meet the Community Programs team at GitLab"
 ---
 
 ## About Community Programs
@@ -35,8 +35,7 @@ We do this by partnering with members of these communities to spotlight (via cas
 The Community Programs team is the DRI for establishing community program requirements and benefits.
 As each of these programs provides free, unlimited seats of GitLab Ultimate to qualifying applicants (in addition to other benefits), the Community Programs team also oversees the entitlement process.
 As part of this work, the team leads community outreach efforts, marketing activities, and other strategic engagements (which may include serving on foundation boards, building partnerships, creating enablement and marketing content, delivering public presentations and learning sessions, and sponsoring events).
-We continually strive to be thought leaders in each respective community.
-
+We strive to be thought leaders in each respective community.
 
 ## Meet the programs
 
@@ -48,26 +47,3 @@ We continually strive to be thought leaders in each respective community.
 
 Please see the GitLab [Environment, Social, and Governance (ESG)](/handbook/legal/ESG/) handbook page for information about the GitLab for Non-Profits Program.
 
-## Team workflows
-
-The Community Programs team is responsible for all processes involved in issuing licenses for GitLab's community programs.
-The team also maintains program support queues, through which all Community Programs emails are funneled.
-
-Below are details related to various Commuity Programs workflows.
-
-### Program application and renewal workflows
-
-The Community Programs team processes program applications according to [an automated workflow](/handbook/marketing/developer-relations/community-programs/automated-community-programs/).
-(We also maintain a record of our previous, [manual application processing workflow](/handbook/marketing/developer-relations/community-programs/community-program-applications/).)
-
-### Inbound sales requests routing workflows
-
-Sales team members receiving inbound requests regarding community programs should adhere to the following workflow and direct leads according to the routing table below.
-
-| If the lead is inquiring about | Then take this action|
-| ------------------------------ | --------------------- |
-| Whether they qualify for a specific program | Send the relevant [marketing or handbook page](/handbook/marketing/developer-relations/community-programs/#meet-the-programs) detailing the program's requirements |
-| How to apply for program membership | Send the relevant [marketing or application page](/handbook/marketing/developer-relations/community-programs/#meet-the-programs) with instructions and an application form |
-| How to renew | Send the [relevant marketing or application page](/handbook/marketing/developer-relations/community-programs/#meet-the-programs) with renewal instructions and the application form |
-| How to alter some aspect of a subscription | Ask them to [email the relevant program](/handbook/marketing/developer-relations/community-programs/#meet-the-programs) for assistance |
-| An edge case | Ask them to [email the relevant program](/handbook/marketing/developer-relations/community-programs/#meet-the-programs) for assistance | 
