@@ -100,7 +100,7 @@ Once you join the incident Zoom call, take note of any updates that have been ma
 
 #### Administrative Tasks on Status.io
 
-Any updates **outside documented incident updates** that require administrator access to the GitLab System Status page should be initiated with [this template](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Status%20page%20administrative%20task.md).
+Any updates **outside documented incident updates** that require administrator access to the GitLab System Status page should be initiated with [this template](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Status%20page%20administrative%20task).
 
 The template will ping CMOC DRIs in scenarios where we need to update or add components. Before adding or changing components, please ensure to get a review from infrastructure counterparts from the appropriate [Reliability Team](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#reliability-teams).
 
