@@ -107,7 +107,7 @@ Upcoming terminations/non-renewals should be discussed with Procurement during t
 
 ## The Procurement Process
 
-Anytime a group of suppliers are being evaluated for services/goods or a purchase is being made on behalf of GitLab that does not qualify as a [personal expense](https://about.gitlab.com/handbook/finance/expenses/) or meet the list of [exceptions](#what-are-the-exceptions-to-the-po-policy), Procurement must be engaged BEFORE a purchase and/or work can begin. Start the Procurement Process
+Anytime a group of suppliers are being evaluated for services/goods or a purchase is being made on behalf of GitLab that does not qualify as a [personal expense](/handbook/finance/expenses/) or meet the list of [exceptions](#what-are-the-exceptions-to-the-po-policy), Procurement must be engaged BEFORE a purchase and/or work can begin. Start the Procurement Process
 
 1. Before agreeing to any business, legal and/or pricing terms with a supplier, whether in conversation or email
 1. Immediately when you receive a contract and/or quote for new and/or recurring business
@@ -123,13 +123,13 @@ For more Zip training materials, review the [Zip End Users Guide](/handbook/busi
 
 Depending on a few factors of your purchase, there are different ways to engage Procurement and start the Procurement process:
 1. Submit a Zip Request for
-   1. [Purchase Requests for renewals of existing vendor's services](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/#how-to-initiate-a-new-request)
-   1. [Purchase Requests for new spend **under $25k**](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/#how-to-initiate-a-new-request)
-   1. [Change Requests to existing POs](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/#how-to-do-a-request-change)
-   1. [$0 contract reviews including demos and trials](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/#how-to-request-a-signature-on-a-poc-agreement)
+   1. [Purchase Requests for renewals of existing vendor's services](/handbook/business-technology/enterprise-applications/guides/zip-guide/#how-to-initiate-a-new-request)
+   1. [Purchase Requests for new spend **under $25k**](/handbook/business-technology/enterprise-applications/guides/zip-guide/#how-to-initiate-a-new-request)
+   1. [Change Requests to existing POs](/handbook/business-technology/enterprise-applications/guides/zip-guide/#how-to-do-a-request-change)
+   1. [$0 contract reviews including demos and trials](/handbook/business-technology/enterprise-applications/guides/zip-guide/#how-to-request-a-signature-on-a-poc-agreement)
    1. Partner Revenue Payments
-   1. [Individual Use Software](https://about.gitlab.com/handbook/finance/procurement/personal-use-software/)
-   1. [Providing Termination or Non-Renewal Notice](https://about.gitlab.com/handbook/finance/procurement/#6-cancellation)
+   1. [Individual Use Software](/handbook/finance/procurement/personal-use-software/)
+   1. [Providing Termination or Non-Renewal Notice](/handbook/finance/procurement/#6-cancellation)
 1. For new spend, changing vendors for existing services, or after 3 years of renewing a service, follow the [RFP Process](https://internal.gitlab.com/handbook/finance/procurement/)
    1. Over $250K: Procurement led RFP, typically 5+ vendor bids
    1. $100K - $250K: Business led RFP, 2-3 vendor bids required
@@ -144,7 +144,7 @@ Requests can take 5 days to 3+ weeks for processing depending on a number of fac
 1. New or existing vendor
 1. If negotiation is required
 1. Types of data being shared with the vendor and if Security and Privacy need to review
-1. Contract complexity and alignment with GitLab’s [Vendor Terms and Conditions](https://about.gitlab.com/handbook/finance/procurement/vendor-guidelines/)
+1. Contract complexity and alignment with GitLab’s [Vendor Terms and Conditions](/handbook/finance/procurement/vendor-guidelines/)
 1. Vendor’s response time and willingness to negotiate
 
 Each review’s targeted approval time is outlined below, but as mentioned above, this is dependent on many factors and the accuracy and completeness of information provided by the requester. If your request meets any of the additional approval criterias outlined below, please plan accordingly and submit your Zip request allowing each cross-functional team enough time to complete their review. Please follow the [steps outlined for urgent requests](#what-if-i-have-an-urgent-request) that cannot meet the below timeline and have specific and quantifiable impact to the business.
@@ -199,11 +199,11 @@ Each review’s targeted approval time is outlined below, but as mentioned above
 - SLA can extend based on level of negotiation required for large and/or complex contracts, and the suppliers willingness to meet budget and benchmark indicators. For larger spend purchases, it is beneficial to engage Procurement prior to submitting the request in Zip so negotiations can start earlier.
 - For communicating Legal's redlines to the vendor,
    - If the contract value is >$100k or Procurement is already actively negotiating or communicating with the vendor, Procurement will take responsibility for sending any legal redlines to the vendor. Procurement will comment in the req if/when they have sent redlines to the vendor for visibility. Otherwise the Stakeholder/Requester will be responsible.
-   - [Review here for more details on when and who is responsible](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/#legal-approval--redlines)
+   - [Review here for more details on when and who is responsible](/handbook/business-technology/enterprise-applications/guides/zip-guide/#legal-approval--redlines)
 
 #### 3.C. Security Review: 4-14 Days
 
-- [Security Third Party Risk Management](https://handbook.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management/) reviews are required for vendors that collect, process, or store Orange / Red Data, software providers (SaaS and On-premise), and independent contractors / consultants. (Excluding field marketing events)
+- [Security Third Party Risk Management](/handbook/security/security-assurance/security-risk/third-party-risk-management/) reviews are required for vendors that collect, process, or store Orange / Red Data, software providers (SaaS and On-premise), and independent contractors / consultants. (Excluding field marketing events)
 - This activity cannot begin until **after** the supplier completes the security questionnaire and supplies their security documentation. Oftentimes, it can take 1-2 weeks for the supplier to respond and complete the requested materials. The security review SLA begins once that is completed. Time before this activity can begin is entirely dependent upon the supplier's response time and maturity of security protocols.
 - **TIP:** To increase speed of approval, upload any security compliance documentation (SOC-2 Report, ISO27001 Certificate) to the ZipHQ Request and notify your supplier contact they will be receiving a request from ZenGRC for completion ASAP.
 - For any inquiries and questions, please tag @securityrisk in the #procurement slack channel.
@@ -211,7 +211,7 @@ Each review’s targeted approval time is outlined below, but as mentioned above
 #### 3.D. PeopleOps Review: 1-4 Days
 
 - PeopleOps serve as reviewers on all professional services requisitions to determine if a background screening is necessary.
-- Per GitLab's [People Policies](https://about.gitlab.com/handbook/people-policies/#background-screenings) contractors are subject to complete a background screening. GitLab will accept a completed background screening from a contractor's employer. However, if a background screening was never conducted GitLab will either complete one or ask that one be completed.
+- Per GitLab's [People Policies](/handbook/people-policies/#background-screenings) contractors are subject to complete a background screening. GitLab will accept a completed background screening from a contractor's employer. However, if a background screening was never conducted GitLab will either complete one or ask that one be completed.
 - A background screening can be requested by opening an issue in the [Lifecycle Management](https://gitlab.com/gitlab-com/temporary-service-providers/lifecycle/-/issues) project by using the `background_check_request` template.
 - Approval will occur once proof of a completed or an initiated background screening has been shared or once the contractor has submitted their background screening for processing.
 - The Sr. Background Check Specialist will only follow up if a result of concern returns on the background screening.
@@ -234,7 +234,7 @@ Each review’s targeted approval time is outlined below, but as mentioned above
 - At this point, the req has been created in Coupa for final FP&A, Functional, and Executive approvals (as applicable).
 - Once these approvals are received, Procurement will route the contract for GitLab and vendor signatures and will comment in the Coupa req when it is routing. After both parties have signed the Agreement(s), Procurement will attach a copy of the executed agreement in Coupa, approve the Purchase Req, and release the PO.
    - Note: only certain GitLab team members can sign contracts based on the [Authorization Matrix](https://internal.gitlab.com/handbook/company/authorization-matrix/)
-- To see how to check approval status in Coupa, visit the [Zip End Users Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/#how-to-check-status-of-a-new-request).
+- To see how to check approval status in Coupa, visit the [Zip End Users Guide](/handbook/business-technology/enterprise-applications/guides/zip-guide/#how-to-check-status-of-a-new-request).
    - Note: the completion of this step is dependent on how quickly the required approvers approve in Coupa and the contract is signed
 
 #### 6. Finalize Request Details
