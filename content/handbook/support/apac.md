@@ -67,9 +67,9 @@ feedback in the [discussion issue](https://gitlab.com/gitlab-com/support/support
 
 ## Operating metrics and measurements
 
-### Cliff of definite underperformance
+### Cliff of definite underperformance (CoDU)
 
-A support engineer is definitively underperforming when they handle less than 7 tickets in any of 3 of the past 4 weeks. <i class="fa-solid fa-triangle-exclamation"></i>
+A support engineer is definitively underperforming when they handle less than 8 tickets in any of 3 of the past 4 weeks. <i class="fa-solid fa-triangle-exclamation"></i>
 
 A support engineer is considered to have handled a ticket when they leave either
 a public or internal comment on a ticket.
