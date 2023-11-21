@@ -1,5 +1,7 @@
 ---
-title: "GitLab Security Operations On-Call Guide"
+title: "Security Operations On-Call Guide"
+description: " "
+weight: 30
 ---
 
 {{% alert title="This is a Controlled Document" color="danger" %}}
