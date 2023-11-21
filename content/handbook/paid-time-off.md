@@ -410,7 +410,7 @@ Understanding the PTO that teams have taken, and plan to take, helps managers ha
     - How many vacation days did your team take? Remind team members to take time off of work to rest and recharge.
         - How much sick leave did your team take? If you have a team member who has taken 5 or more consecutive sick days, or non-consecutive if related to the same illness, please contact the Absence Management Team at `leaves@gitlab.com` to address the next steps to take in line with applicable law.
         - Did your team take days off for Family and Friends day? Remind team members to take off F&F day following the [documented policy]({{< ref "family-and-friends-day#im-in-a-role-which-requires-me-to-work-that-day-how-can-i-still-benefit-from-this-initiative" >}}) and labeling the time away as `Friends and Family` in Time Off by Deel.
-        - Has your team logged any local holiday time off? Remind team members to take off local holidays even if the rest of the team is working and lableing the time away as `Public Holiday` in Time Off by Deel.
+        - Has your team logged any local holiday time off? Remind team members to take off local holidays even if the rest of the team is working and labeling the time away as `Public Holiday` in Time Off by Deel.
 1. Use your 1:1s to check in with team members and make sure they are taking enough PTO.
 
 #### Planning and decision making for future projects
