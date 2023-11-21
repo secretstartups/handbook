@@ -1133,6 +1133,10 @@ When a GitLab Team Member comes across an ask or material (MR, handbook, etc.) t
 {:.no_toc}
 Enable everybody involved to come to the same conclusion as you. This not only involves [reasoning](#say-why-not-just-what), but also providing, for example: raw data and not just plots; scripts to automate tasks and not just the work they have done; and documenting steps while analyzing a problem. Do your best to make the line of thinking transparent to others, even [if they may disagree](/handbook/leadership/#making-decisions).
 
+##### Transparency != Democracy
+{:.no_toc}
+As a transparent company it is important that we do not confuse transparency with democracy. We want to inform the GitLab community to the greatest degree possible and collaborate while avoiding the many pitfalls such as group think, decision by committee, and similar consensus-based decision making modalities. GitLab uses a [Directly Responsible Individual (DRI) model](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/) where a single person is the decision maker.
+
 ##### Transparency Competency
 {:#transparency-competency .no_toc}
 [Competencies](/handbook/competencies/) are the Single Source of Truth (SSoT) framework for things we need team members to learn.
