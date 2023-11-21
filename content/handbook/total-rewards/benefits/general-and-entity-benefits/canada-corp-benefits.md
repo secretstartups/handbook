@@ -265,7 +265,7 @@ Québec - [La Loi sur les normes du travail (N-1.1)](http://www.legisquebec.gouv
 
 ### Maternity Leave Payment
 
-- Team members in Ontario, British Columbia, Alberta, and Manitoba may be eligible to receive [Employment Insurance Maternity Benefit](https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/maternity-parental.html#h2.1) through the Government of Canada for up to 15 weeks of Maternity Leave if they meet the required eligibility criteria..
+- Team members in Ontario, British Columbia, Alberta, and Manitoba may be eligible to receive [Employment Insurance Maternity Benefit](https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/maternity-parental.html#h2.1) through the Government of Canada for up to 15 weeks of Maternity Leave if they meet the required eligibility criteria.
   - The Province of Québec is responsible for providing maternity, paternity, parental, and adoption benefits to residents of Quebec through a program called the [Québec Parental Insurance Plan](https://www.rqap.gouv.qc.ca/en/about-the-plan/general-information/premiums-and-maximum-insurable-earnings).
 - Team members may also be eligible to receive Employment Insurance Parental Benefit (see below) if they meet the required eligibility criteria.
 - If a team member is eligible to receive Employment Insurance and also eligible to receive payments under [GitLab's paid Parental Leave]({{< ref "general-and-entity-benefits#parental-leave" >}}), GitLab will supplement Employment Insurance payments for up to 16 weeks such that the gross amount of the Employment Insurance payments plus GitLab’s top-up payment under Parental Leave will equal 100% of the team members’ normal weekly salary during each week of the top-up payments.
@@ -293,6 +293,8 @@ The combined amount of Employment Insurance payments and supplementary payments 
 
 Per the statutory requirements in Canada, a team member is ineligible to receive any Employment Insurance payments if they are receiving full parental leave pay from GitLab.
 
+- The ROE is provided through the payroll provider. You can visit [My Service Canada Account (MSCA)](https://www.canada.ca/en/employment-social-development/services/my-account.html) to view ROEs issued for you by past and recent employers, but if it's not there you can email or ping the Non-US payroll team and they will ask the payroll provider to provide one.
+
 **It is important to be aware that the eligibility requirements for Employment Insurance benefits and eligibility to take a job-protected leave in your province may be different. For more information on Employment Insurance, contact [Government of Canada](https://www.canada.ca/en/services/benefits/ei/ei-maternity-parental.html) or [Government of Quebec](https://www.rqap.gouv.qc.ca/en/what-is-the-quebec-parental-insurance-plan)**
 
 ## Other Leave Types
@@ -301,7 +303,9 @@ Per the statutory requirements in Canada, a team member is ineligible to receive
 
 <summary>Ontario</summary>
 
-The following statutory leave types run concurrently with GitLab PTO. Each leave is separate, and the right to each leave is independent of any right a team member may have to other leave(s). A team member may be entitled to more than one leave for the same event. A team member’s entitlement to any statutory leaves of absence is governed by the legislation applicable in the province in which the employee works for the Company. Statutory leaves of absence will be tracked separately. Any additional paid or unpaid leaves provided by GitLab, are inclusive of, and not in addition to, any concurrent paid or unpaid leaves provided by the applicable employment standards legislation. Additional information can be found on the [Government of Ontario website](https://www.ontario.ca/document/your-guide-employment-standards-act-0). Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days.
+The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). 
+
+Each leave is separate, and the right to each leave is independent of any right a team member may have to other leave(s). A team member may be entitled to more than one leave for the same event. A team member’s entitlement to any statutory leaves of absence is governed by the legislation applicable in the province in which the employee works for the Company. Statutory leaves of absence will be tracked separately. Any additional paid or unpaid leaves provided by GitLab, are inclusive of, and not in addition to, any concurrent paid or unpaid leaves provided by the applicable employment standards legislation. Additional information can be found on the [Government of Ontario website](https://www.ontario.ca/document/your-guide-employment-standards-act-0). 
 
 To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact `leaves@domain.com` and then submit the time off request by selecting the appropriate option in Time Off by Deel. If you do not feel comfortable submitting your time away in Time Off by Deel, the Absence Management team can enter your time off in Workday on your behalf.
 
@@ -369,9 +373,9 @@ To initiate leave, and ensure that statutory entitlements are properly tracked, 
 
 <summary>Québec</summary>
 
-The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days.
+The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). 
 
-To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact the Absence Management team `leaves@gitlab.com` and then submit the time off request by selecting the appropriate option in Time Off by Deel. If you do not feel comfortable submitting your time away in Time Off by Deel, the Absence Management team can enter your time off in Workday on your behalf.  More information on these leave entitlements can be found on the [Commission des Normes, de l’Equité website](https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/lies-famille).
+To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact the Absence Management team `leaves@gitlab` and then submit the time off request by selecting the appropriate option in Time Off by Deel. If you do not feel comfortable submitting your time away in Time Off by Deel, the Absence Management team can enter your time off in Workday on your behalf.  More information on these leave entitlements can be found on the [Commission des Normes, de l’Equité website](https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/lies-famille).
 
 **Reservist Leave**
 
@@ -451,7 +455,7 @@ The following leave types **do not** run concurrently with GitLab time away poli
 
 <summary>British Columbia</summary>
 
-- The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days.
+The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). 
 
 To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact the Absence Management team `leaves@gitlab.com` then submit the time off request by selecting the appropriate option in Time Off by Deel. If you do not feel comfortable submitting your time away in Time Off by Deel, the Absence Management team can enter your time off in Workday on your behalf.
 
@@ -522,9 +526,9 @@ More information on these leave entitlements can be found on the [Government of 
 
 <summary>Alberta</summary>
 
-The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days.
+The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). 
 
-To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact the Absence Management team `leaves@gitlab.com` then submit the time off request by selecting the appropriate option in Time Off by Deel. If you do not feel comfortable submitting your time away in Time Off by Deel, the Absence Management team can enter your time off in Workday on your behalf.
+To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact the Absence Management team `leaves@gitlab` and then submit the time off request by selecting the appropriate option in Time Off by Deel. If you do not feel comfortable submitting your time away in Time Off by Deel, the Absence Management team can enter your time off in Workday on your behalf.
 
 More information about these leave types can be found on the [Government of Alberta website](https://www.alberta.ca/job-protected-leaves.aspx).
 
@@ -536,7 +540,7 @@ More information about these leave types can be found on the [Government of Albe
 **Citizenship Ceremony Leave** *Team members who have been employed with GitLab for at least 90 days*
 
 - Up to a half-day of unpaid leave to attend citizenship ceremony
-- Team Members should select `Public Service / Volunteer` in Time Off by Deel.
+- Team Members should select `Vacation` in Time Off by Deel.
 
 **Compassionate Care Leave** *Team members who have been employed with GitLab for at least 90 days*
 
@@ -547,8 +551,8 @@ More information about these leave types can be found on the [Government of Albe
 
 **COVID-19 Leave**
 
-= 14 days of unpaid leave for team members who are in quarantine due to COVID-19
-= Team Members should select `Out Sick` in Time Off by Deel.
+- 14 days of unpaid leave for team members who are in quarantine due to COVID-19
+- Team Members should select `Out Sick` in Time Off by Deel.
 
 **Critical Illness of a Child Leave** *Team members who have been employed with GitLab for at least 90 days*
 
@@ -591,9 +595,11 @@ More information about these leave types can be found on the [Government of Albe
 
 <summary>Manitoba</summary>
 
-The following statutory leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days.  A team member’s entitlement to any statutory leaves of absence is governed by the legislation applicable in the province in which the employee works for the Company. Statutory leaves of absence will be tracked separately. Any additional paid or unpaid leaves provided by GitLab, are inclusive of, and not in addition to, any concurrent paid or unpaid leaves provided by the applicable employment standards legislation.
+The following statutory leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). 
 
-To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact the Absence Management team `leaves@gitlab.com` then submit the time off request by selecting the appropriate option in Time Off by Deel. If you do not feel comfortable submitting your time away in Time Off by Deel, the Absence Management team can enter your time off in Workday on your behalf.
+A team member’s entitlement to any statutory leaves of absence is governed by the legislation applicable in the province in which the employee works for the Company. Statutory leaves of absence will be tracked separately. Any additional paid or unpaid leaves provided by GitLab, are inclusive of, and not in addition to, any concurrent paid or unpaid leaves provided by the applicable employment standards legislation.
+
+To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact the Absence Management team `leaves@gitlab` and then submit the time off request by selecting the appropriate option in Time Off by Deel. If you do not feel comfortable submitting your time away in Time Off by Deel, the Absence Management team can enter your time off in Workday on your behalf.
 
 More information can be found on the [Government of Manitoba website](https://www.gov.mb.ca/labour/standards/doc,unpaid-leave,factsheet.html).
 
@@ -625,7 +631,7 @@ More information can be found on the [Government of Manitoba website](https://ww
 **Leave for Citizenship** *Team members who have been employed with GitLab for at least 30 days*
 
 - 4 hours of unpaid leave for a new Canadian to receive their certificate of citizenship.
-- Team Members should select `Public Service/Volunteer` in Time Off by Deel.
+- Team Members should select `Vacation` in Time Off by Deel.
 
 **Leave Related to the Death or Disappearance of a Child** *Team members who have been employed with GitLab for at least 30 days*
 
