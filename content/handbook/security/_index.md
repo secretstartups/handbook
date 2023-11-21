@@ -281,7 +281,7 @@ issues across all GitLab projects, especially:
 - [infrastructure](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/)
 - [production](https://gitlab.com/gitlab-com/gl-infra/production/issues/)
 
-When opening issues, please follow the [Creating New Security Issues]({{ ref "engaging-with-security#creating-new-security-issues" }}) process for using labels and the confidential flag.
+When opening issues, please follow the [Creating New Security Issues]({{% ref "engaging-with-security#creating-new-security-issues" %}}) process for using labels and the confidential flag.
 
 #### Other Resources for GitLab Team Members
 
