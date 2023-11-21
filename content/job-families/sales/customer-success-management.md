@@ -435,7 +435,7 @@ The Staff CSE is a [grade 9](/handbook/total-rewards/compensation/compensation-c
 ##### Staff Customer Success Engineer Responsibilities
 
 - Extends the Senior Customer Success Engineer responsibilities
-- Demonstrates seniority in 3 or more [customer use cases](https://about.gitlab.com/handbook/use-cases/)
+- Demonstrates seniority in 3 or more [customer use cases](/handbook/use-cases/)
 - Provides subject matter expertise within a defined technical GitLab product area or as a trusted advisor
 - Is proficient with DevOps frameworks (e.g., LeSS, SaFe, etc.) and can communicate customers' goals and capabilities as they relate to customers' adoption roadmaps
 - Overlays with the global book of customers in roadblock areas for strategic customers removing barriers to growth and adoption concerning their area of expertise

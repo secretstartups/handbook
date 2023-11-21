@@ -174,7 +174,7 @@ We can address this concern by:
 ### Technical debt ineffectively managed
 
 This is especially a problem if there are acquisitions of new technologies.
-We address this for acquired technology by having [acquired organizations](https://about.gitlab.com/handbook/acquisitions/) remake their functionality inside our [single application](/handbook/product/single-application/).
+We address this for acquired technology by having [acquired organizations](/handbook/acquisitions/) remake their functionality inside our [single application](/handbook/product/single-application/).
 
 Otherwise, we have a [clear and consistent prioritization framework across engineering](https://about.gitlab.com/handbook/engineering/development/principles/#prioritizing-technical-decisions) and [product](/handbook/product/product-processes/#how-we-prioritize-work) that helps ensure we are continuously making progress on the most important issues.
 
@@ -194,7 +194,7 @@ As we continue to grow and potentially acquire additional companies, we want to 
 
 In order to address this concern:
 
-- Follow our [acquisition strategy](https://about.gitlab.com/handbook/acquisitions/#acquisition-strategy)
+- Follow our [acquisition strategy](/handbook/acquisitions/#acquisition-strategy)
 - For Engineering, the deciding factor is whether the senior-most technical stakeholder--who is not a founder--is on board or not. Because this person will either get the engineers on board or foment resistance.
 
 ### Inability to respond to technological change

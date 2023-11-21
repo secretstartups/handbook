@@ -49,5 +49,5 @@ The following are recommended questions for discovering customer needs.
 
 ### Learning Resources
 
-- [Customer Use Case CD](https://about.gitlab.com/handbook/use-cases/#2-software-delivery-automation)
+- [Customer Use Case CD](/handbook/use-cases/#2-software-delivery-automation)
 - CS Skills Exchange: CD Deep Dive: coming soon
