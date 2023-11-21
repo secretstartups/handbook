@@ -15,10 +15,10 @@ The team members who participate in this competition will be awarded as follows:
 
 | |Winners|Award|
 | :---:  | :---:  | :---:  |
-|<img src="Gold.png"  width="120">|First place| Apple watch (series 7) |
-|<img src="Silver.png"  width="120">|Second place| Allbirds shoes|
-|<img src="Bronze.png"  width="120">|Third place| Back Massager|
-|<img src="Finance.png"  width="120">|Participation (Movement of at least 40 mins per week) | TBD |
+|<img src="Gold.png" alt="Tanuki-logo-Gold" width="120">|First place| Apple watch (series 7) |
+|<img src="Silver.png" alt="Tanuki-logo-Silver" width="120">|Second place| Allbirds shoes|
+|<img src="Bronze.png" alt="Tanuki-logo-Bronce" width="120">|Third place| Back Massager|
+|<img src="Finance.png" alt="Tanuki-logo-with-hat" width="120">|Participation (Movement of at least 40 mins per week) | TBD |
 
 Consistency and sustained motivation are important in order to achieve the goals you set for yourself. Team members will earn awards on the time they dedicate to move. It can be a 1 hour walk or a 1 hour rock climbing.
 

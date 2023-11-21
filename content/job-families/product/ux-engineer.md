@@ -6,7 +6,7 @@ description: At GitLab, UX Engineers collaborate closely with Product Designers,
 
 ## UX Engineer Roles at GitLab
 
-At GitLab, UX Engineers collaborate closely with [Product Designers](/job-families/product/product-designer/), [Product Managers](/job-families/product/product-manager/), and [Engineers](/job-families/engineering/) to create a [productive, minimal, and human][pajamas] experience.
+At GitLab, UX Engineers collaborate closely with [Product Designers](/job-families/product/product-designer/), [Product Managers](/job-families/product/product-manager/), and [Engineers](/job-families/engineering/) to create a productive, minimal, and human experience.
 
 
 UX Engineers report to a [Product Design Manager](/job-families/product/product-design-management/#product-design-manager).

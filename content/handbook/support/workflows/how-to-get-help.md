@@ -60,10 +60,10 @@ You can also do one or more of the following:
    to the [Support Stable Counterpart]({{< ref "support-stable-counterparts" >}})
    for the appropriate product area. Mention those
    people in the thread and in the ticket to let them know you think they can help.
-1. [Request help from the relevant GitLab Development Team](#how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-development-team).
+1. [Request help from the relevant GitLab Development Team](#how-to-formally-request-help-from-the-gitlab-development-team).
    Gather what information you have and fill in as much detail as possible for the dev team in the issue. To get more attention, you can post in the relevant group Slack channel with a message and link to the issue.
    If you don't get a response within the SLO, contact the listed engineering manager in the project readme.
-   See [below](#how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-development-team) for more details.
+   See [below](#how-to-formally-request-help-from-the-gitlab-development-team) for more details.
    If you have a reproducible issue, then go straight to a bug issue in the appropriate [GitLab product tracker](https://gitlab.com/gitlab-org).
 
 #### Bring the ticket to managers
@@ -137,7 +137,7 @@ Use the following repositories and resources for identifying similar issues or r
 
 #### Tips on getting timely responses
 
-1. Review the [Opening a request for help](#opening-a-request-for-help) to ensure all steps were covered.
+1. Review the Opening a request for help to ensure all steps were covered.
 1. Mention the engineer who is helping or assigned with *every* comment where you need them to review or respond.
 1. If an issue is moved to another group (through a label change or moving to another project), check the corresponding template for the new group to see who to assign or mention in a comment.
 1. When linking to Kibana, also upload a copy of relevant entries, a screenshot of the graph, etc. as logs rotate out after 7 days. If possible, also link to the relevant Sentry entry.

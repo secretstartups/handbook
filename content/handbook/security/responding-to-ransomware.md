@@ -6,7 +6,7 @@ Ransomware is a persistent threat to many organizations, including GitLab.  In t
 
 ***Critical First Steps:***
 
-- [Engage the SIRT](#-contacting-the-team) team as soon as a ransomware attack is detected
+- Engage the SIRT team as soon as a ransomware attack is detected
 - The SIRT team will then follow the [incident response guide]({{< ref "sec-incident-response" >}}) and [incident communication plan]({{< ref "security-incident-communication-plan" >}}) and reference the [relevant run book](https://gitlab.com/gitlab-com/gl-security/runbooks/-/blob/master/sirt/infrastructure/ransomware-attack.md).
 - Responders should leverage GitLab's established [rapid engineering response](https://about.gitlab.com/handbook/engineering/workflow/#rapid-engineering-response) plan during the mitigation phase.
 - The Business Continuity & Disaster Recovery Controls handbook page should be referenced for relevant information.

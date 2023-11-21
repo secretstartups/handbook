@@ -10,8 +10,8 @@ A highly visible and customer-facing position, within the Professional Services 
 
 | Level | Grade |
 | -- | - |
-| [Intermediate](#program-manager) | [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
-| [Senior](#senior-program-manager) | [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
+| [Intermediate](#professional-services-program-manager) | [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
+| [Senior](#senior-professional-services-program-manager) | [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
 
 ## Performance Indicator
 
