@@ -152,6 +152,7 @@ description: "Weekly Project Plan for converting the primary keys to bigint - Pi
 
 ##### Bigint conversion
 
+
 ### Week of October 16, 2023
 
 #### Team Capacity:
@@ -187,6 +188,7 @@ description: "Weekly Project Plan for converting the primary keys to bigint - Pi
   - [~] p_ci_builds.upstream_pipeline_id
   - [~] p_ci_builds.commit_id
 
+
 ### Milestone 16.6 (October 17, 2023 - November 10, 2023)
 
 #### Team Capacity:
@@ -198,23 +200,24 @@ description: "Weekly Project Plan for converting the primary keys to bigint - Pi
 ##### Bigint conversion
 
 - For `ci_pipelines.auto_canceled_by_id`
-    - [ ] Swap columns
+    - [x] Swap columns
 - For `ci_pipeline_variables.pipeline_id`
-    - [ ] Swap columns
+    - [x] Swap columns
 - For `ci_stages.pipeline_id`
-    - [ ] Swap columns
+    - [x] Swap columns
 - Init conversion for:
-    - [ ] p_ci_builds.auto_canceled_by_id
-    - [ ] p_ci_builds.upstream_pipeline_id
-    - [ ] p_ci_builds.commit_id
+    - [x] p_ci_builds.auto_canceled_by_id
+    - [x] p_ci_builds.upstream_pipeline_id
+    - [x] p_ci_builds.commit_id
 - **Stretch:** Remove the triggers and integer columns for:
-    - [ ] ci_sources_pipelines.pipeline_id
-    - [ ] ci_sources_pipelines.source_pipeline_id
-    - [ ] ci_pipeline_chat_data.pipeline_id
-    - [ ] ci_pipeline_messages.pipeline_id
-    - [ ] ci_stages.pipeline_id
-    - [ ] ci_pipeline_variables.pipeline_id
-    - [ ] ci_pipelines.auto_canceled_by_id
+    - [x] ci_sources_pipelines.pipeline_id
+    - [x] ci_sources_pipelines.source_pipeline_id
+    - [x] ci_pipeline_chat_data.pipeline_id
+    - [x] ci_pipeline_messages.pipeline_id
+    - [~] ci_stages.pipeline_id
+    - [x] ci_pipeline_variables.pipeline_id
+    - [~] ci_pipelines.auto_canceled_by_id
+
 
 ### Milestone 16.7 (November 13, 2023 - December 8, 2023)
 
@@ -228,19 +231,15 @@ We'll monitor progress of the foreign key backfill on ci_builds this milestone.
 We will continue to create the necessary MRs for updating the indexes
 
 ##### Bigint conversion
+- Remove the triggers and integer columns for:
+    - [ ] ci_stages.pipeline_id
+    - [ ] ci_pipelines.auto_canceled_by_id
 - Remove the ignore rules for:
-    - [ ] ci_sources_pipelines.pipeline_id
-    - [ ] ci_sources_pipelines.source_pipeline_id
     - [ ] ci_pipeline_chat_data.pipeline_id
     - [ ] ci_pipeline_messages.pipeline_id
-    - [ ] ci_stages.pipeline_id
+    - [ ] ci_sources_pipelines.pipeline_id
+    - [ ] ci_sources_pipelines.source_pipeline_id
     - [ ] ci_pipeline_variables.pipeline_id
-    - [ ] ci_pipelines.auto_canceled_by_id
-- Create indexes and/or foreign key constraint and swap columns for:
-    - [ ] p_ci_builds.auto_canceled_by_id
-    - [ ] p_ci_builds.upstream_pipeline_id
-    - [ ] p_ci_builds.commit_id
-
 
 ### Milestone 16.8 (December 11, 2023 - January 12, 2024)
 
@@ -250,12 +249,11 @@ We will continue to create the necessary MRs for updating the indexes
 
 #### Goals:
 
-    
 ##### Bigint conversion
-- Remove the triggers and integer columns for:
-    - [ ] p_ci_builds.auto_canceled_by_id
-    - [ ] p_ci_builds.upstream_pipeline_id
-    - [ ] p_ci_builds.commit_id
+
+- Remove the ignore rules for:
+    - [ ] ci_stages.pipeline_id
+    - [ ] ci_pipelines.auto_canceled_by_id
 - [ ] Swap columns for ci_pipelines.id
 
 
@@ -268,10 +266,7 @@ We will continue to create the necessary MRs for updating the indexes
 #### Goals:
 
 ##### Bigint conversion
-- Remove the ignore rules for:
-    - [ ] p_ci_builds.auto_canceled_by_id
-    - [ ] p_ci_builds.upstream_pipeline_id
-    - [ ] p_ci_builds.commit_id
+
 - [ ] Remove the triggers and integer columns for ci_pipelines.id
 
 
@@ -288,7 +283,6 @@ We will continue to create the necessary MRs for updating the indexes
 
 ### Milestone 16.11 (March 11, 2024 - April 12, 2024)
 
-
 #### Team Capacity:
 
 - 1 BE
@@ -297,11 +291,19 @@ We will continue to create the necessary MRs for updating the indexes
 
 ### Milestone 17.0 (April 15, 2024 - May 10, 2024)
 
+- Backfill of bigint Pipeline FKs is projected to finish near the end of April 2024
+
 #### Team Capacity:
 
 - 0 BE (Note: Tian will be frontline responder this milestone)
 
 #### Goals:
+
+- Create indexes and/or foreign key constraint and swap columns for:
+    - [ ] p_ci_builds.auto_canceled_by_id
+    - [ ] p_ci_builds.upstream_pipeline_id
+    - [ ] p_ci_builds.commit_id
+
 
 ### Milestone 17.1 (May 13, 2024 - June 14, 2024)
 
@@ -311,3 +313,21 @@ We will continue to create the necessary MRs for updating the indexes
 
 #### Goals:
 
+- Remove the triggers and integer columns for:
+    - [ ] p_ci_builds.auto_canceled_by_id
+    - [ ] p_ci_builds.upstream_pipeline_id
+    - [ ] p_ci_builds.commit_id
+
+
+### Milestone 17.2 (June 15, 2024 - July 19, 2024)
+
+#### Team Capacity:
+
+- 1 BE
+
+#### Goals:
+
+- Remove the ignore rules for:
+    - [ ] p_ci_builds.auto_canceled_by_id
+    - [ ] p_ci_builds.upstream_pipeline_id
+    - [ ] p_ci_builds.commit_id
