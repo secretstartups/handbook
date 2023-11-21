@@ -105,7 +105,8 @@ each financial quarter.
 
 | **Quarter** | **CoDU Number** | **Notification Issue**  |
 |------------| -------- |------|--------------------------|
-| FY24-Q3 (Current) | 7 | [STM#5494](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5494) |
+| FY24-Q4 (Current) | 8 | [STM#5672](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5672) |
+| FY24-Q3 | 7 | [STM#5494](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5494) |
 | FY24-Q2 | 7 | Nil - practice started in FY24-Q3 |
 | FY24-Q1 | 6 | |
 | FY23-Q4 | 5 | |
