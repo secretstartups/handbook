@@ -4,26 +4,27 @@ title: "Open Source Program"
 description: Learn about the GitLab for Open Source Program and other open source programs from GitLab's Developer Relations team
 ---
 
-# About
-
 GitLab's open source program is part of the [Developer Relations team](/handbook/marketing/developer-relations/). It consists of three sub-programs:
 
-* [**GitLab for Open Source Program**](/handbook/marketing/developer-relations/community-programs/opensource-program/#gitlab-for-open-source-program), through which qualifying open source projects [receive benefits](/solutions/open-source/) like GitLab Ultimate with 50,000 compute minutes for free.
-* [**GitLab Open Source Partners**](/handbook/marketing/developer-relations/community-programs/opensource-program/#gitlab-open-source-partners), a [partnership program](/solutions/open-source/partners) designed for large or prominent open source projects and organizations.
-* [**Consortium Memberships**](/handbook/marketing/developer-relations/community-programs/opensource-program/#consortium-memberships-and-sponsorships), which allow us to [extend GitLab's leadership in key open source initiatives](https://gitlab.com/gitlab-com/marketing/community-relations/open-source-program/consortium-memberships), enhance GitLab's brand, and/or improve engineering alignment
+* [**GitLab for Open Source Program**](/handbook/marketing/developer-relations/community-programs/open-source-program/#gitlab-for-open-source-program), through which qualifying open source projects [receive benefits](/solutions/open-source/) like GitLab Ultimate with 50,000 compute minutes for free.
+* [**GitLab Open Source Partners**](/handbook/marketing/developer-relations/community-programs/open-source-program/#gitlab-open-source-partners), a [partnership program](/solutions/open-source/partners) designed for large or prominent open source projects and organizations.
+* [**Consortium Memberships**](/handbook/marketing/developer-relations/community-programs/opensource-program/#consortium-memberships-and-sponsorships), which allow us to [extend GitLab's leadership in key open source initiatives](/handbook/marketing/developer-relations/community-programs/open-source-program/#consortium-memberships-and-sponsorships), enhance GitLab's brand, and/or improve engineering alignment
 
-# How to reach us
+## How to reach us
 
 * DRI: [@bbehr](https://gitlab.com/bbehr)
-* Slack channel: #community-programs
-* Email: opensource@gitlab.com
+* Slack channel: `#community-programs`
+* Email: `opensource@gitlab.com`
 
-# What we're working on
-We track our work as part of the Developer Relations [team roadmap](https://go.gitlab.com/community-relations-team-roadmap). Our work aligns with [quarterly objectives and key results](https://gitlab.com/groups/gitlab-com/marketing/community-relations/-/epics?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=OSS%20OKR). See the [Developer Relations project management page](/handbook/marketing/developer-relations/project-management/) for more detail.
+## What we're working on
+
+We track our work as part of the Developer Relations [team roadmap](https://go.gitlab.com/community-relations-team-roadmap).
+See the [Developer Relations project management page](/handbook/marketing/developer-relations/project-management/) for more detail.
 
 # GitLab for Open Source Program
 
-By empowering open source projects with our most advanced features, the [GitLab for Open Source Program](/solutions/open-source/) supports GitLab's mission to make the world a place where anyone can contribute. We help make GitLab the best place for open source projects to grow and thrive.
+By empowering open source projects with our most advanced features, the [GitLab for Open Source Program](/solutions/open-source/) supports GitLab's mission to make the world a place where anyone can contribute.
+We help make GitLab the best place for open source projects to grow and thrive.
 
 Send questions about the GitLab for Open Source Program to `opensource@gitlab.com`.
 
@@ -31,10 +32,8 @@ Send questions about the GitLab for Open Source Program to `opensource@gitlab.co
 
 ### What are the benefits of the GitLab for Open Source Program?
 
-At no cost, members of the GitLab for Open Source Program receive a [GitLab Ultimate](/pricing/) subscription (self-managed or SaaS), which includes 50,000 compute minutes (users can purchase 1,000 [additional compute minutes](https://docs.gitlab.com/ee/ci/pipelines/cicd_minutes.html#purchase-additional-cicd-minutes) for a one-time, $8 fee). Product support is not included as part of this subscription.
-
-While members of the GitLab for Open Source Program receive features of GitLab Ultimate at no cost, they do not receive support as part of their subscription.
-{: .alert .alert-info}
+At no cost, members of the GitLab for Open Source Program receive a [GitLab Ultimate](/pricing/) subscription (self-managed or SaaS), which includes 50,000 compute minutes calculated at a [program-specific cost factor](https://docs.gitlab.com/ee/ci/pipelines/cicd_minutes.html#cost-factor).
+Product support is not included as part of this subscription.
 
 ### Who qualifies for the GitLab for Open Source Program?
 
@@ -44,8 +43,8 @@ In order to be accepted into the GitLab for Open Source Program, applicants must
 *  **Not seek profit:** An organization can accept donations to sustain its work, but it can’t seek to make a profit by selling services, by charging for enhancements or add-ons, or by other means.
 * **Be publicly visible:** Both the applicant's GitLab.com group or self-managed instance and source code must be publicly visible and publicly available.
 
-Benefits of the GitLab for Open Source Program apply to a namespace. To qualify, every project in an applicant’s namespace must carry an OSI-approved open source license.
-{: .alert .alert-info}
+**Please note:** Benefits of the GitLab for Open Source Program apply to a namespace.
+To qualify for the program, every project in an applicant’s namespace must carry an OSI-approved open source license.
 
 #### Qualification exceptions
 
@@ -71,35 +70,38 @@ For more specific instructions on obtaining and submitting required screenshots,
 
 ### How are GitLab for Open Source Program applications processed?
 
-Gitlab uses SheerID, a trusted partner, to verify that applicants meet the GitLab for Open Source Program requirements. In most cases, applicants receive a decision on their application within three to five business days of submission. During periods of high submission volume, processing an application requires up to ten business days. When verified, applicants receive a verification email containing specific instructions for activating their subscription.
+Gitlab uses SheerID, a trusted partner, to verify that applicants meet the GitLab for Open Source Program requirements.
+In most cases, applicants receive a decision on their application within three to five business days of submission.
+During periods of high submission volume, processing an application requires up to ten business days.
+When verified, applicants receive a verification email containing specific instructions for activating their subscriptions.
+The GitLab for Open Source team processes applications according to the [Community Programs application workflow](/handbook/marketing/developer-relations/community-programs/community-programs-workflows/#automated-applications-workflow-overview).
 
-The GitLab for Open Source team processes applications according to the [Community Programs application workflow](/handbook/marketing/developer-relations/community-programs/automated-community-programs/).
-
-Some users may need to input a VAT number when completing their program applications. GitLab for Open Source Program members can simply input `N/A` into the VAT field during registration.
-{: .alert .alert-warning}
+Some users may need to input a VAT number when completing their program applications.
+GitLab for Open Source Program members can simply input `N/A` into the VAT field during registration.
 
 ### Must members of the GitLab for Open Source Program renew their memberships?
 
-Yes. Program members must renew their memberships annually. If they don’t renew, [their accounts will be downgraded](https://about.gitlab.com/pricing/licensing-faq/#what-happens-when-my-subscription-is-about-to-expire-or-has-expired).
+Yes.
+Program members must renew their memberships annually.
+If they don’t renew, [their accounts will be downgraded](https://about.gitlab.com/pricing/licensing-faq/#what-happens-when-my-subscription-is-about-to-expire-or-has-expired).
 
-We recommend that applicants begin the renewal process at least one month in advance of their renewal dates to ensure sufficient processing time. Note that applications will not be processed during U.S. holidays and responses may be delayed during those periods.
-{: .alert .alert-warning}
+Subscriptions granted under the GitLab for Open Source Program do not auto-renew.
+
+We recommend that applicants begin the renewal process at least one month in advance of their renewal dates to ensure sufficient processing time.
+Note that applications will not be processed during U.S. holidays; responses may be delayed during those periods.
 
 ### How does someone renew their membership in the GitLab for Open Soure Program?
 
-To request a renewal, program members should complete the [program application](/solutions/open-source/join/). The team will use this form to determine whether the entity applying for renewal still meets the program's eligibility criteria. Whether applying to the program for the first time or renewing a pre-existing membership, applicants complete the same form.
+Subscriptions granted under the GitLab for Open Source Program do not auto-renew.
+To request a renewal, program members should complete the [program application](/solutions/open-source/join/).
+The team will use this form to determine whether the entity applying for renewal still meets the program's eligibility criteria.
+Whether applying to the program for the first time or renewing a pre-existing membership, applicants complete the same form.
 
-The person claiming the renewal for the subscription must be the same person who created the subscription for this open source project or organization in the GitLab Customer Portal. If a different person wishes to initiate the renewal, the existing owner needs to [transfer ownership of the Customers Portal account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-account-owner-information). If the existing owner is no longer able to transfer ownership or renew, the project should [open a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000071293) to change the owner of the subscription before initiating renewal.
-{: .alert .alert-danger}
+The person claiming the renewal for the subscription must be the same person who created the subscription for this open source project or organization in the GitLab Customer Portal.
+If a different person wishes to initiate the renewal, the existing owner needs to [transfer ownership of the Customers Portal account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-account-owner-information).
+If the existing owner is no longer able to transfer ownership or renew, the project should [open a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000071293) to change the owner of the subscription before initiating renewal.
 
-After completing application form, verified applicants receive a verification email with instructions for activating subscription.
-
-### How else can GitLab assist open source projects?
-
-Members of the GitLab for Open Source Program may also be interested in:
-
-* **Migration services:** Open source communities requiring assistance with their migration to GitLab can receive help from the GitLab team. See the [professional services page](/services/) for more information.
-* **Technology partners:** Many of GitLab's [technology partners](/partners/technology-partners/) offer services GitLab doesn't provide, such as hosting for Community Edition instances. We've partnered with others to help expand the options for our users. Browse our [GitLab Alliance Partners](/partners/technology-partners/) to learn more.
+After completing application form, verified applicants receive a verification email with instructions for activating their subscriptions.
 
 ### Where can members of the GitLab for Open Source Program find support?
 
@@ -118,11 +120,18 @@ When seeking to edit the GitLab for Open Source application page, find the appro
 
 ### Managing the program support queue
 
-Members of the [Developer Relations team](/handbook/marketing/developer-relations/) use GitLab Service Desk to manage program members' support requests. Because these requests often contain sensitive data and personally identifying information, we file them as issues in [a private project](https://gitlab.com/gitlab-com/marketing/community-relations/open-source-program/open-source-program-support). When a new request arrives, Service Desk will label the issue as `OS Program Support::Intake`. When the ticket is under active review and remediation with a team member, that team member should assign it to themselves and add the `OS Program Support::Open` label. When a support issue is pending program member review and/or additional details, it should receive the `OS Program Supprt::Pending` label. And when a a support issue has been resolved, it should receive the `OS Program Support::Closed` label. View the current status of all open program support issues on [a private project board](https://gitlab.com/gitlab-com/marketing/community-relations/open-source-program/open-source-program-support/-/boards/5749258).
+Members of the [Developer Relations team](/handbook/marketing/developer-relations/) use GitLab Service Desk to manage program members' support requests.
+Because these requests often contain sensitive data and personally identifying information, we file them as issues in [a private project](https://gitlab.com/gitlab-com/marketing/community-relations/open-source-program/open-source-program-support). 
+When a new request arrives, Service Desk will label the issue as `OS Program Support::Intake`.
+When the ticket is under active review and remediation with a team member, that team member should assign it to themselves and add the `OS Program Support::Open` label.
+When a support issue is pending program member review and/or additional details, it should receive the `OS Program Supprt::Pending` label.
+And when a a support issue has been resolved, it should receive the `OS Program Support::Closed` label.
+View the current status of all open program support issues on [a private project board](https://gitlab.com/gitlab-com/marketing/developer-relations/open-source-program/open-source-program-support/-/boards/5749258).
 
 ### Viewing program application reports
 
-Community Programs team members can access data regarding GitLab for Open Source Program applications via SheerID. These data are useful for understanding application trends, changes in application volume, and more.
+Community Programs team members can access data regarding GitLab for Open Source Program applications via SheerID.
+These data are useful for understanding application trends, changes in application volume, and more.
 
 To access a report:
 
@@ -170,7 +179,6 @@ Membership in GitLab Open Source Partners program is largely by invitation. Memb
 Additionally, GitLab team members can nominate open source projects or organizations to become partners. To do so, they can simply open an issue in the [Open Source Partners Program project](https://gitlab.com/gitlab-com/marketing/community-relations/open-source-program/open-source-partners-program) and use the `open-source-partner-nomination` issue template.
 
 The GitLab Open Source Partners Program project contains sensitive data and personally identifying information about program members. It is therefore accessible only to GitLab team members.
-{: .alert .alert-info}
 
 ## Program management resources
 
