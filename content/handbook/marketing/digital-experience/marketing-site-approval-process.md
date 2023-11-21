@@ -107,8 +107,8 @@ The MR will have `dex-approval::2-standard` automatically applied, but please up
 
 Depending on which label is used, you may tag the following people as a `Reviewer` on this MR:
 
-1. **Level 1**: Any member of the [Digital Experience Team](https://about.gitlab.com/handbook/marketing/digital-experience/#groups-metrics--team-members)
-1. **Level 2**: Any member of the [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/#groups-metrics--team-members)
+1. **Level 1**: Any member of the [Digital Experience Team](/handbook/marketing/digital-experience/#groups-metrics--team-members)
+1. **Level 2**: Any member of the [Digital Experience team](/handbook/marketing/digital-experience/#groups-metrics--team-members)
 1. **Level 3**: Ping `@gitlab-com/marketing/digital-experience` in a comment. This will tag the [Digital Experience Leadership team](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/group_members?with_inherited_permissions=exclude) using `@gitlab-com/marketing/digital-experience`, and they can review. When in doubt, tag `@mpreuss` as a reviewer. 
 1. **Level 4**: This will need Legal approval. Tag `@mpreuss` and he can loop in the legal team.
 

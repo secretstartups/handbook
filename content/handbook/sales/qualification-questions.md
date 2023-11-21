@@ -75,12 +75,12 @@ Target buyer personas include CIO, CTO, VP of Application Development, Product O
 - What is the current process for finding vulnerabilities around Static Application Security Testing, Dependency Scanning, and/or License Compliance?
 - What is the financial impact on your organization/teams budget with other test and review tools?
 - For additional customer use case-based discovery questions, please reference the following:
-    - [Version Control and Collaboration (VC&C)](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/#discovery-questions)
-    - [Continuous Integration (CI)](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#discovery-questions)
-    - [DevSecOps](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#discovery-questions)
-    - [Agile Planning and Management](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/agile/#discovery-questions)
-    - [Continuous Delivery (CD)](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/#discovery-questions)
-    - [GitOps](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#discovery-questions)
+    - [Version Control and Collaboration (VC&C)](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/#discovery-questions)
+    - [Continuous Integration (CI)](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#discovery-questions)
+    - [DevSecOps](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#discovery-questions)
+    - [Agile Planning and Management](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/agile/#discovery-questions)
+    - [Continuous Delivery (CD)](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/#discovery-questions)
+    - [GitOps](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#discovery-questions)
 
 ### Level of Satisfaction
 - How is your current application development & delivery tool stack working overall?

@@ -12,11 +12,11 @@ description: >-
 
 
 
-GitLab's Marketing Site (about.gitlab.com) is led by the [Digital Experience Team](https://about.gitlab.com/handbook/marketing/digital-experience) and anyone can contribute.
+GitLab's Marketing Site (about.gitlab.com) is led by the [Digital Experience Team](/handbook/marketing/digital-experience) and anyone can contribute.
 
 The [DRI](/handbook/people-group/directly-responsible-individuals/) for the Marketing Site is [Michael Preuss](https://gitlab.com/mpreuss22), and internal GitLab team members can drop questions in Slack at #digital-experience-team
 
-The Digital Experience team is migrating GitLab's Marketing Site to the [Buyer Experience Repository](https://about.gitlab.com/handbook/marketing/digital-experience/buyer-experience-repository).
+The Digital Experience team is migrating GitLab's Marketing Site to the [Buyer Experience Repository](/handbook/marketing/digital-experience/buyer-experience-repository).
 
 ## Objectives
 
@@ -112,7 +112,7 @@ Examples of companies who have product/features pages:
 
 There are two comparison sections on our website, `/compare/` and [DevOps tools](/competition/).
 
-The DevOps tools section provides an in-depth, feature by feature comparison of GitLab and our competitors. Pages in the DevOps tools section are maintained by the Competitive Intelligence team, which is part of the [Product and Solution Marketing](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) team.
+The DevOps tools section provides an in-depth, feature by feature comparison of GitLab and our competitors. Pages in the DevOps tools section are maintained by the Competitive Intelligence team, which is part of the [Product and Solution Marketing](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) team.
 
 Pages in `/compare/` are shorter and focused on a single Call to Action that offers relevant resources to visitors arriving via paid advertising. Pages in `/compare/` are maintained by Growth Marketing team and Marketing Program Managers.
 
@@ -129,7 +129,7 @@ Similar content can appear as a topic, solution, and in the product section with
 - A category page `/product/continuous-integration` would talk about the capabilities and features that are part of GitLab's CI functionality and the value it has.
 
 ## Requesting Support
-If you need support please review the information on the [Digital Experience Hanbook Page](https://about.gitlab.com/handbook/marketing/digital-experience/#requesting-support)
+If you need support please review the information on the [Digital Experience Hanbook Page](/handbook/marketing/digital-experience/#requesting-support)
 
 ## Updating the Marketing Website
 
@@ -472,12 +472,12 @@ The Digital Experience team is implementing [Contentful CMS](https://www.content
 - Some content will only be available to certain teams, based on roles and permissions. 
 - New pages and new components will need an [issue](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues/new#) with the Digital Experience team to work with design and engineering. 
 
-Read the [Contentful handbook page](https://about.gitlab.com/handbook/marketing/digital-experience/contentful-cms/) for up to date directions and status of the system.
+Read the [Contentful handbook page](/handbook/marketing/digital-experience/contentful-cms/) for up to date directions and status of the system.
 
 
 # Merge requests
 
-For best practices regarding testing and reviewing merge requests, please see our related handbook page for [reviewing merge requests](https://about.gitlab.com/handbook/marketing/digital-experience/website/merge-requests/).
+For best practices regarding testing and reviewing merge requests, please see our related handbook page for [reviewing merge requests](/handbook/marketing/digital-experience/website/merge-requests/).
 
 # Working in Modules
 
@@ -523,7 +523,7 @@ If you need to **temporarily** preview an item in the review app before release,
 
 ### What logos do we have permission to use?
 
-On the about.gitlab.com website we have approval to use the customer logos lisited at the following link, [Approved customer logos for promotion](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#approved-customer-logos-for-promotion)
+On the about.gitlab.com website we have approval to use the customer logos lisited at the following link, [Approved customer logos for promotion](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#approved-customer-logos-for-promotion)
 </details>
 <details markdown="1">
 

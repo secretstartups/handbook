@@ -27,7 +27,7 @@ Make sure to save these credentials as distinct from your regular GitLab credent
     - [renew subscription quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#renew-subscription-quote)
 - [Quote Approval instruction](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-submit-a-quote-for-discount-and-payment-term-approval)
 - [Good resource of helpful links from CSMs](https://gitlab.com/gitlab-com/account-management/commercial/triage/blob/master/LINKS.md)
-- [How GitLab.com Subscriptions Work](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/dotcom-subscriptions/)
+- [How GitLab.com Subscriptions Work](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/dotcom-subscriptions/)
 
 ## Important Links for Customers and Prospects
 

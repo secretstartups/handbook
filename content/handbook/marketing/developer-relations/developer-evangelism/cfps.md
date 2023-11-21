@@ -45,6 +45,6 @@ Once a submission has been submitted, the author should add it to the [CFP Libra
 
 #### Issue Workflow
 
-All submissions, accepted talks, feedback and other result tracking happens in the CFP issue. The CFP workflow uses [scoped labels](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/workflow/#cfp-labels) to transition the issues through different stages. Please follow the [CFP workflow handbook](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/workflow/#cfp-workflow) to apply required labels accordingly. 
+All submissions, accepted talks, feedback and other result tracking happens in the CFP issue. The CFP workflow uses [scoped labels](/handbook/marketing/developer-relations/developer-evangelism/workflow/#cfp-labels) to transition the issues through different stages. Please follow the [CFP workflow handbook](/handbook/marketing/developer-relations/developer-evangelism/workflow/#cfp-workflow) to apply required labels accordingly. 
 
 All issues with the `CFP` label appear on the dedicated [CFP Issue board](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/boards/2415569?&label_name[]=CFP).

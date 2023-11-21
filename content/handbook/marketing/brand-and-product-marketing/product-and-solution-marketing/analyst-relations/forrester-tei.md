@@ -115,7 +115,7 @@ A: As this was a commissioned study, we retain the rights to the study itself an
 
 *Q: If I have other questions about the TEI, who do I reach out to?*
 
-A: Your Industry Analyst Relations team ([Handbook Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/), [Team Members](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#which-analyst-relations-team-member-should-i-contact)) is always here to help answer any and all questions you may have, be sure to reach out if you need any help!
+A: Your Industry Analyst Relations team ([Handbook Page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/), [Team Members](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#which-analyst-relations-team-member-should-i-contact)) is always here to help answer any and all questions you may have, be sure to reach out if you need any help!
 
 ## Competitive Positioning Guidance
 

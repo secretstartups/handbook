@@ -60,7 +60,7 @@ Head to the [corporate marketing project](https://gitlab.com/gitlab-com/marketin
 
 - Sometimes it is not possible to schedule posts when desired due to any number of reasons, but the social team will work with you to make sure you're supported.
 - The social team reserves the right to not publish for a myriad of reasons including crisis moments, calendar priorities, and other elements. We'll do our best to explain why when asked.
-- If you haven't done so already, consider [GitLab's Social Advocacy Program](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/) as an additional resource for amplification. Advocacy allows your marketing messages to be given to GitLab Team Members to share on their own personal social media channels. If your team does not have a designated [curator](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/#current-list-of-curators), you can suggest the piece of content through [Bambu](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/#bambu-our-social-advocacy-tool) for approval.
+- If you haven't done so already, consider [GitLab's Social Advocacy Program](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/) as an additional resource for amplification. Advocacy allows your marketing messages to be given to GitLab Team Members to share on their own personal social media channels. If your team does not have a designated [curator](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/#current-list-of-curators), you can suggest the piece of content through [Bambu](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/#bambu-our-social-advocacy-tool) for approval.
 
 ### Request workflows
 
@@ -208,7 +208,7 @@ UTMs are used to track traffic sources & reach of posts/links. All posts that co
 
 ### Other UTMs for Tracking
 
-Please see [details in the Digital Marketing handbook](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#utm-tracking). In short, it's important to outline UTM campaign, content, and other variables if you're looking to measure more deeply. Campaign section is a requirement, and is likely connected to your ongoing marketing campaign. If you have questions or are unsure how to tag a URL please reach out to the Digital Marketing team &/or the Social Media Manager responsible for the campaign.
+Please see [details in the Digital Marketing handbook](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#utm-tracking). In short, it's important to outline UTM campaign, content, and other variables if you're looking to measure more deeply. Campaign section is a requirement, and is likely connected to your ongoing marketing campaign. If you have questions or are unsure how to tag a URL please reach out to the Digital Marketing team &/or the Social Media Manager responsible for the campaign.
 
 ### Links in bio with LinkTree
 [LinkTree](https://linktr.ee/) is bio link tool. The Social Media team uses LinkTree to drive traffic to the GitLab website. Folks will click the link in bio and have a few options to choose from before landing on a webpage. The GitLab brand Linktree is: https://linktr.ee/GitLab

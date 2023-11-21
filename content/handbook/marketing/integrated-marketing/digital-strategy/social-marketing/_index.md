@@ -18,13 +18,13 @@ twitter_creator: gitlab
 
 ### Social Marketing Handbook Pages
 
-[Admin and Project Management](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/){:.btn .btn-purple-inv}
-[Community Management](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/community-management/){:.btn .btn-purple-inv}
-[Social Reporting](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-reporting/){:.btn .btn-purple-inv}
-[Take a Social Training](https://about.gitlab.com/handbook/marketing/corporate-communications/resources-trainings/#social-media-trainings){:.btn .btn-purple-inv}
-[Team Member Social Policy](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/){:.btn .btn-purple-inv}
-[Team Member Advocacy](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/){:.btn .btn-purple-inv}
-[Advocacy Curators](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/){:.btn .btn-purple-inv}
+[Admin and Project Management](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/){:.btn .btn-purple-inv}
+[Community Management](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/community-management/){:.btn .btn-purple-inv}
+[Social Reporting](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-reporting/){:.btn .btn-purple-inv}
+[Take a Social Training](/handbook/marketing/corporate-communications/resources-trainings/#social-media-trainings){:.btn .btn-purple-inv}
+[Team Member Social Policy](/handbook/marketing/team-member-social-media-policy/){:.btn .btn-purple-inv}
+[Team Member Advocacy](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/){:.btn .btn-purple-inv}
+[Advocacy Curators](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/){:.btn .btn-purple-inv}
 
 ### Contact the Social Marketing Team
 
@@ -116,7 +116,7 @@ The FY23 content strategy will enable our objectives of engagement and elevation
 ### Engagement
 
 
-Because engagement is our principal metric focus, it's important that we consider all social content for engagement opportunities. [Our reporting handbook page defines engagement and engagement rate](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-reporting/#social-media-metric-definitions): 
+Because engagement is our principal metric focus, it's important that we consider all social content for engagement opportunities. [Our reporting handbook page defines engagement and engagement rate](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-reporting/#social-media-metric-definitions): 
 
 ℹ️ **Engagements** are the number of times that users took action on our posts during the reporting period. This includes likes, retweets, comments, saves, replies, reactions, and shares. Does not include quote retweets.
 {:.alert .alert-info .text-justify}
@@ -126,7 +126,7 @@ Because engagement is our principal metric focus, it's important that we conside
 
 **Content for organic social media should inherently be engaging to our audiences. Content should drive users to take an action**: to share/retweet the post, to click an attached link, or to respond and create a two-way conversation with an individual user. Rather than years' past where simple support for linked assets and coverage was provided, we'll need to better understand why the user would want this information and whether or not in commands an action, particularly whether or not it would invite them to respond to us. This puts responses and 1-to-1 conversations of much higher importance than we previously focused on.
 
-To learn more about the specifics of engagement and conversations, [check out our community management handbook page](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/community-management/).
+To learn more about the specifics of engagement and conversations, [check out our community management handbook page](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/community-management/).
 
 ### Elevation 
 
@@ -179,7 +179,7 @@ Our content pillars provide strategic direction for the social team and the GitL
 
 A note on DevOps Leadership vs Product: Product pillar is only about GitLab the product. DevOps Leadership is more about perspective and point of view on the space, not necessarily about GitLab the product.
 
-For more info on the Sprout tags for Pillars, [refer to the Reporting Handbook page](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-reporting/#content-pillar-tags).
+For more info on the Sprout tags for Pillars, [refer to the Reporting Handbook page](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-reporting/#content-pillar-tags).
 
 ## Only the social team can manage GitLab's social channels 
 
@@ -200,7 +200,7 @@ If the blog is connected to an integrated campaign, it will be picked up in the 
 
 On a quarterly basis the social media team will identify the best performing blogs. The top 2-3 blogs will then be reintroduced and scheduled to publish on GitLab's Brand Social Channels.
 
-[Check out the blog content workflow for social on our admin page](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/#blog-coverage-workflow){:.btn .btn-purple-inv}
+[Check out the blog content workflow for social on our admin page](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/#blog-coverage-workflow){:.btn .btn-purple-inv}
 
 ## Sharing monthly releases
 
@@ -331,7 +331,7 @@ Though LinkedIn doesn't function like Twitter, you can strategically encourage o
    Responding as the company
  </summary>
  
-It is important to amplify partner mentions, contributors and their wins, and GitLab team members' channels when the social media manager sees fit. So if there is an exciting partnership that announces a new integration, a hackathon winner, or even a "we belong here" story- these are all great examples that should be engaged with or shared directly to our company page on LinkedIn. [Please see this section of the handbook for instructions on how to do that.](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/#responding-as-the-company-on-linkedin-for-any-post) 
+It is important to amplify partner mentions, contributors and their wins, and GitLab team members' channels when the social media manager sees fit. So if there is an exciting partnership that announces a new integration, a hackathon winner, or even a "we belong here" story- these are all great examples that should be engaged with or shared directly to our company page on LinkedIn. [Please see this section of the handbook for instructions on how to do that.](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/#responding-as-the-company-on-linkedin-for-any-post) 
 </details>
 
 <details>
@@ -431,7 +431,7 @@ Each campaign/theme executed on the Instagram Brand Channel should include hasht
 
 ### YouTube <a name="youtube"></a>
 
-The social media team does not manage GitLab's YouTube presence. Please reach out to [the digital production team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/digital-production/).
+The social media team does not manage GitLab's YouTube presence. Please reach out to [the digital production team](/handbook/marketing/brand-and-product-marketing/content/digital-production/).
 
 ## Social Media Design
 

@@ -246,7 +246,7 @@ As we continue to build on [inclusion](/handbook/values/#diversity-inclusion), r
 1. Please do not mention working outside of working hours, we want to minimize the pressure to do so.
 1. Please do not celebrate GitLab contribution graphs that include working for uninterrupted weeklong cycles, as this does not foster healthy [work/life harmony](/handbook/company/culture/all-remote/people/#worklife-harmony) for all team members. While GitLab team members are free to time-shift and work weekends in place of weekdays, we discourage celebrating the absence of time away from work.
 1. Do not thank the CEO or other executives for something that the company paid for, thank GitLab instead.
-1. To thank someone who is not a team member, you can [nominate them for community swag](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-appreciation/).
+1. To thank someone who is not a team member, you can [nominate them for community swag](/handbook/marketing/developer-relations/contributor-success/community-appreciation/).
 1. Understand that everyone doesn't need or want recognition. Once this is advised, please respect when they don't.
 
 #### Values emoji
@@ -325,7 +325,7 @@ When possible, it's best practice to start a discussion with a [Merge Request (M
 1. If any follow-up actions are required on the issue after the merge request is merged (like reporting back to any customers or writing documentation), avoid auto-closing the issue.
 1. If a project requires multiple approvals to accept your MR, feel free to assign multiple reviewers concurrently. This way the earliest available reviewer can start right away rather than being blocked by the preceding reviewer.
 1. If the MR involved gets a lot of comments, you can turn it into a [Manager Mention MR](/handbook/communication/#scaling-merge-requests-through-manager-mention-mrs-formerly-consolidated-mrs).
-1. Consider recording a concise video or audio file outlining the merge request and uploading it to the GitLab [Unfiltered channel](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#channels) on YouTube. This will make content more accessible, prevent future confusion, allow for multitasking (e.g. cooking dinner and listening to the video), and increase participation for folks who digest audio information better than visual.
+1. Consider recording a concise video or audio file outlining the merge request and uploading it to the GitLab [Unfiltered channel](/handbook/marketing/marketing-operations/youtube/#channels) on YouTube. This will make content more accessible, prevent future confusion, allow for multitasking (e.g. cooking dinner and listening to the video), and increase participation for folks who digest audio information better than visual.
 
 #### Scaling Merge Requests through "Manager Mention MRs" (formerly Consolidated MRs)
 
@@ -391,7 +391,7 @@ Below are a few things to remember when creating issues:
 1. Once a feature is [**done**](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done), update the description to add a link to the corresponding documentation. When using a Search Engine, issues often appear before documentation pages, which makes it harder to find the relevant information about the feature.
 1. Write issues so that they exclude private information. This way, the issue can be public. Only use confidential issues, if the issue must contain [non-public information](/handbook/communication/confidentiality-levels/#not-public). **Note:** Confidential issues are [accessible to all members of the project with Reporter access and above](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#permissions-and-access-to-confidential-issues). You may consider using a Google Doc for items that require a stricter level of confidentiality.
 1. If the content within a public issue transitions to become what is deemed confidential [non-public information](/handbook/communication/confidentiality-levels/#not-public), the issue may be made confidential.
-1. If the content of a public issue draws comments that are deemed in violation of our [code of conduct](https://about.gitlab.com/community/contribute/code-of-conduct/) the issue may be locked and may [undergo moderation](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/#overview).
+1. If the content of a public issue draws comments that are deemed in violation of our [code of conduct](https://about.gitlab.com/community/contribute/code-of-conduct/) the issue may be locked and may [undergo moderation](/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/#overview).
 
 ### How to make a company wide announcement
 
@@ -744,7 +744,7 @@ For example:
 1. Do not use the chat of products like Zoom to communicate during the call, use the linked document instead. This allows everyone to contribute additional questions, answers, and links in the relevant place. It also makes it easier for people in conflicting timezones to contribute questions before the call and makes it easier to review questions and answers after the call, which can be before watching the recording.
 1. You do not need to remind other people to vocalize their questions. Just say their name and a keyword of the question, e.g. 'Jay about credit-cards'.
 1. Every comment is document worthy, even small support comments such as `+1` or `Very Cool!`.
-1. We encourage the recording and [sharing of everything to our YouTube Unfiltered channel](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/).
+1. We encourage the recording and [sharing of everything to our YouTube Unfiltered channel](/handbook/marketing/marketing-operations/youtube/).
 1. It is unusual to smoke in an open office or video conference, vaping is associated with this. For this reason we ask that you don't vape during calls, and if you absolutely have to, kindly switch your camera off.
 1. Speak up when you notice something is not working. If you notice someone's microphone, web cam or latency is causing issues for them it is good to speak up. On a video call it can be harder for the speaker to notice that they aren't being understood compared to a face to face conversation. As such you will be doing them a favour by speaking up early to let them know that they are having a problem. Also see [Hear nothing say something](https://www.youtube.com/watch?v=LZ5spXU5HbU) for further explanation.
 
@@ -853,7 +853,7 @@ for the version that will be released in the following month. The product team a
 discussions on what should be prioritized for that release. The purpose of this kickoff is
 to get everyone on the same page and to invite comments.
 
-Both the retrospectives and kickoffs are [live streamed to our GitLab Unfiltered YouTube channel](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/)
+Both the retrospectives and kickoffs are [live streamed to our GitLab Unfiltered YouTube channel](/handbook/marketing/marketing-operations/youtube/)
 and posted to our [Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A).
 
 #### Deep Dives
@@ -939,7 +939,7 @@ Watch the replay below:
    1. Use `yyyy-mm-dd`, for example 2015-04-13, and never 04-13-2015, 13-04-2015, 2015/04/13, 20150413, 2015.04.13, nor April 13, 2015. Even if you use an unambiguous alternative format it is still harder to search for a date, sort on a date, and for other team members to know we use the ISO standard.
    1. For months use `yyyy-mm`, so 2018-01 for January.
    1. Refer to a year with CY18 (never with 2018) and a quarter with CY18-Q1 to prevent confusion with fiscal years and quarters. If the year is obvious from the context it is OK to use Dec 4, but not 12/4, since the ordering isn't obvious when using two numbers but when naming the month it is clear that the number is the day of the month.
-   1. **Note:** The blog uses Associated Press Style for dates as its guide because it's a publication. See the [editorial guidance](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/#dates) for how to format dates in the blog.
+   1. **Note:** The blog uses Associated Press Style for dates as its guide because it's a publication. See the [editorial guidance](/handbook/marketing/brand-and-product-marketing/content/editorial-team/#dates) for how to format dates in the blog.
 1. GitLab operates on a [Fiscal Year](/handbook/finance/#fiscal-year) offset from the calendar year. When referring to a fiscal year or quarter, please use the following abbreviations:
    1. "FY20" is the preferred format and means: Fiscal Year 2020, the period running from February 1, 2019 through January 31, 2020
    1. "Q1" = the first quarter of the current Fiscal Year, so on Feb 1, 2020, "Q1" is the period from Feb. 1, 2020 through April 30, 2020. Note that Epics in GitLab follow Calendar Years and Quarters.
@@ -1000,9 +1000,9 @@ If a term is ambiguous don't use it, for example our hiring team uses the terms 
 
 Make sure that projects and working groups have clear and direct names. Prefer "CI Spend Reduction Working Group" to "Project Raven Working Group".
 
-Make sure that people can infer as much as possible from the word, for example our [subscription options](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/) allow you to know if someone is using self-managed or GitLab.com.
+Make sure that people can infer as much as possible from the word, for example our [subscription options](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/) allow you to know if someone is using self-managed or GitLab.com.
 
-Make sure terms don't overlap without clearly defining how and why, for example see our [tier definitions](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#definitions).
+Make sure terms don't overlap without clearly defining how and why, for example see our [tier definitions](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#definitions).
 
 Keep terms to one or at most two words to prevent people from introducing ambiguity by shortening a term. When using two words make the first word unique because people tend to drop the second word more often.
 
@@ -1438,7 +1438,7 @@ Key practices to consider during any meeting are listed below.
 
 GitLab team members are not authorized to speak with the media or analysts on behalf of our company unless authorized by our Marketing department. Unless authorized, do not give the impression that you are speaking on behalf of GitLab in any communication that may become public. This includes posts to online forums, social media sites, blogs, chat rooms, and bulletin boards. This policy also applies to comments to journalists about specific matters that relate to our businesses, as well as letters to the editor and endorsements of products or services.
 
-For more, please visit the [Corporate Communications handbook section](https://about.gitlab.com/handbook/marketing/corporate-communications/).
+For more, please visit the [Corporate Communications handbook section](/handbook/marketing/corporate-communications/).
 
 ### Paid external speaking requests
 
@@ -1446,11 +1446,11 @@ GitLab as the leader in all remote work creates opportunities for our team membe
 
 ### Social media
 
-Please see our [team member social media policy](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/).
+Please see our [team member social media policy](/handbook/marketing/team-member-social-media-policy/).
 
 ### Posting or streaming to YouTube
 
-See the [YouTube page](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/) for options and instructions for posting recordings and live streaming to our YouTube channels.
+See the [YouTube page](/handbook/marketing/marketing-operations/youtube/) for options and instructions for posting recordings and live streaming to our YouTube channels.
 
 ### Guidelines for vendor meetings
 
@@ -1496,7 +1496,7 @@ In an all-remote organization effective communication is key to exchanging knowl
 
 - Uses [asynchronous](/handbook/company/culture/all-remote/asynchronous/) communication as the starting point and stays as open and transparent as we can by [communicating via text](/handbook/communication/#writing-style-guidelines) through public issues, merge requests, and Slack channels (over DMs).
 - Places an emphasis on ensuring that conclusions of offline conversations are written down ensuring a [Single Source of Truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot).
-- [Produces video](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/) when necessary.
+- [Produces video](/handbook/marketing/marketing-operations/youtube/) when necessary.
 
 If you would like to improve your skills or expand your knowledge on topics relating to Communication at GitLab, check out our resources:
 

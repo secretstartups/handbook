@@ -89,7 +89,7 @@ The persona interested in GitOps is in general different from your development o
 | **Economic Buyer** | Director/VP/CIO of IT, Head of IT Infrastructure / Platform Engineering / Operations | SVP of Technology Operations, Sr. Manager Systems Engineering, Cloud Architect, Information Systems Architect |
 | **User** | SRE, Infra Engineer, Sys Admin, Platform Engineer - have to execute frequent repetitive tasks to support dynamically changing elastic environments | DevOps engineer, Architect, Team Lead, DevOps Ninja |
 
-More details [here](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#personas)
+More details [here](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#personas)
 
 ### Keywords to listen for  {#keywords}
 {: .alert .alert-gitlab-orange}
@@ -128,7 +128,7 @@ Marketing is running a related demand gen campaign.
 | - Are you able to ensure that changes are reviewed and approved by the right individuals - to ensure minimal disruption to your staging / production environments? | Higher risk as unauthorized changes can be shipped to production - causing performance issues / downtime, high skilled / highly paid resources may be doing menial tasks |
 | - Is your infrastructure team able to consistently repeat the steps to setup an environment every single time? | No standardization, manual process - more error prone |
 
-More questions [here](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#discovery-questions)
+More questions [here](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#discovery-questions)
 
 
 ### Common benefits  {#common-benefits}
@@ -167,7 +167,7 @@ Have you faced infrastructure downtime and have not been able to trace it back t
 
 Unlike other vendors, GitOps with GitLab helps you manage physical, virtual and cloud native infrastructures. We use a tight integration with industry-leading infrastructure automation tools like Terraform, AWS Cloud Formation, and the like to meet you where you are - all with a single application.
 
-Detailed section on How GitLab meets the market requirements [here](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#market-requirements)
+Detailed section on How GitLab meets the market requirements [here](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#market-requirements)
 
 ### Differentiators (How GitLab does it better?)
 
@@ -176,13 +176,13 @@ Detailed section on How GitLab meets the market requirements [here](https://abou
 - Most competitors support predominantly cloud native - GitLab meets customers where they are supporting On-premise & cloud, physical, virtual, cloud native infrastructures
 - Agent-based and Agentless approach - giving customers a choice to pick the right approach for their environments
 
-More details [here](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#top-3-differentiators)
+More details [here](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#top-3-differentiators)
 
 ### Competitors
 Primary competitors: Flux (Weaveworks), Argo CD, Terraform Cloud
 Secondary competitors: Codefresh, Transposit, Red Hat/IBM
 
-Detailed competitive against primary competitors [here](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#competitive-comparison)
+Detailed competitive against primary competitors [here](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#competitive-comparison)
 
 ### Handling Objections
 
@@ -192,7 +192,7 @@ Typical questions:
 - GitOps gives more access to developers to fiddle with deployments, and infra teams are not comfortable with that
 - (Infra / DevOps Engineer) I'm going to lose control over my work and environment
 
-Detailed list of Q&A [here](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#objection-handling)
+Detailed list of Q&A [here](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#objection-handling)
 
 
 ## Sales Play Tactics {#sales-tactics}
@@ -221,7 +221,7 @@ How to identify if you need to lead with a GitOps conversation?
 #### During evaluation
 1. Share GitOps related [customer references](#customer-stories)
 1. Share technical demos, webinars that are path of the [pathfactory track for GitOps](https://learn.gitlab.com/l/gitops-gtm-content)
-1. Share [Gartner Peer Insights](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#gartner-peer-insights)
+1. Share [Gartner Peer Insights](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#gartner-peer-insights)
 1. Work with your SA to showcase a technical demo of GitOps
 1. After your call, consider emailing your customer the [GitOps Demo email template](https://docs.google.com/document/d/1uvZPw39OAExz7sIivIlPi3jNlUXKodVNy0mmIb-X0Cs/edit#) custom made for GitOps conversations.
 
@@ -304,7 +304,7 @@ Talk with @em in the [professional services slack channel](https://about.gitlab.
 
 ### Webinars, e-books, whitepapers, videos  {#resources-list}
 - [Pathfactory track for GitOps](https://learn.gitlab.com/l/gitops-gtm-content) to share with customers
-- Complete list of presentations, web pages, whitepapers, blogs and videos available [here](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#resources).
+- Complete list of presentations, web pages, whitepapers, blogs and videos available [here](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#resources).
 - GitOps [Enablement presentation](https://docs.google.com/presentation/d/1o728pUdk1rrNqWAZpzZVdfZ3gzADvTXSssVzqL-6WB4/edit#slide=id.g8d846209b0_25_172)
 
 ### Customer Stories  {#customer-stories}
@@ -318,7 +318,7 @@ Talk with @em in the [professional services slack channel](https://about.gitlab.
 - [ValidaTek](https://learn.gitlab.com/gitops-gtm-all/valida-tek-iac?lx=AZeFEd)
 And many more [here](https://learn.gitlab.com/l/gitops-gtm-content) 
 
-- [Gartner Peer Insights](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#gartner-peer-insights)
+- [Gartner Peer Insights](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#gartner-peer-insights)
 
 ### Finding Last interesting moment and most viewed content on SFDC {#lim-anchor}
 

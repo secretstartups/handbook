@@ -25,7 +25,7 @@ We develop our brand visual identity design to ensure it stays relevant in the m
 
 *Why we exist*
 
-As stewards of the [GitLab brand](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/), our goal is to educate and enable the wider organization with resources to effetively and honestly communicate what the company does to our internal and external audiences.
+As stewards of the [GitLab brand](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/), our goal is to educate and enable the wider organization with resources to effetively and honestly communicate what the company does to our internal and external audiences.
 
 ### Vision
 
@@ -83,11 +83,11 @@ The best way to get in contact with the Brand design team is to fill out one of 
 
 In the past we have accommodated internal team logo requests, typically in the form of customized tanukis. As our company grows, this approach is not scalable for the Brand Design team. Additionally, altering the logo or using too many logos diminishes the integrity of our brand identity and dilutes our brand awareness. We understand the desire for teams within GitLab to have their own identity, but this should not be prioritized over the business value that comes from preserving our core branding. For this reason, all designs should complement and adhere to our brand guidelines.
 
-If your team works on a larger initiative, please refer to our [program lockup guidelines](https://design.gitlab.com/brand-logo/branded-lockups#program-lockups). These lockups should be used in conjunction with the GitLab logo and branding. If you are unsure if your program or initiative requires a lockup, please [contact the Brand Design team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/#contacting-the-team).
+If your team works on a larger initiative, please refer to our [program lockup guidelines](https://design.gitlab.com/brand-logo/branded-lockups#program-lockups). These lockups should be used in conjunction with the GitLab logo and branding. If you are unsure if your program or initiative requires a lockup, please [contact the Brand Design team](/handbook/marketing/brand-and-product-marketing/design/#contacting-the-team).
 
 ### Working with the brand
 
-To learn more about our [Brand Guidelines](https://design.gitlab.com/brand/overview?_gl=1%2a19y18w7%2a_ga%2aNzk5NDI4OTg0LjE2ODA4MDA5Nzk.%2a_ga_ENFH3X7M5Y%2aMTY4MjAyMjM3Ni4xMS4xLjE2ODIwMjI5MDUuMC4wLjA.), self-service resources and assets, and training materials, check out the [Brand Resources](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/#brand-resources) handbook. Below you will find more details about working with our brand and creative materials.
+To learn more about our [Brand Guidelines](https://design.gitlab.com/brand/overview?_gl=1%2a19y18w7%2a_ga%2aNzk5NDI4OTg0LjE2ODA4MDA5Nzk.%2a_ga_ENFH3X7M5Y%2aMTY4MjAyMjM3Ni4xMS4xLjE2ODIwMjI5MDUuMC4wLjA.), self-service resources and assets, and training materials, check out the [Brand Resources](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/#brand-resources) handbook. Below you will find more details about working with our brand and creative materials.
 
 ## Brand extensions vs sub-brands
 
@@ -117,7 +117,7 @@ Here are the style guides for existing sub-brands:
 
 When it comes to our brand, photography is a powerful medium that can better contextualize and humanize the complex stories we tell. Our team has gathered approved images in our [photo library](https://drive.google.com/drive/folders/1VHErs-KSNX1FIIVgXJR3OmIzwU7M4E1M?usp=sharing) that are ready-to-use. If you need images beyond what are in that library (this will be common until the library becomes larger over time), the Brand Design team has a license to download unlimited images from [Adobe Stock](https://stock.adobe.com/) (Note: Premium images are not included in our license).
 
-Review our [photography guidelines](https://design.gitlab.com/brand-design/photography) before searching for new images. For approval, download, and questions, [contact our team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/#contacting-the-team) in Slack or the relevant issue.
+Review our [photography guidelines](https://design.gitlab.com/brand-design/photography) before searching for new images. For approval, download, and questions, [contact our team](/handbook/marketing/brand-and-product-marketing/design/#contacting-the-team) in Slack or the relevant issue.
 
 #### Partnership with third parties
 
@@ -166,11 +166,11 @@ We take a unique, creative approach specifically for [TMRGs](/handbook/company/c
 
 ## Canva best practices
 
-Canva enables team members to self-service their design needs and create on-brand assets. Canva is a great tool for items that need a quick-turnaround or that have ever-changing content (like A/B ad testing). Canva supports print and digital designs, as well as video and animation; team members most frequently use it for digital ads and promotional items. For larger projects that require greater detail or concepting, we recommend you [submit a design request](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/#requesting-support) to the Brand Design team instead.
+Canva enables team members to self-service their design needs and create on-brand assets. Canva is a great tool for items that need a quick-turnaround or that have ever-changing content (like A/B ad testing). Canva supports print and digital designs, as well as video and animation; team members most frequently use it for digital ads and promotional items. For larger projects that require greater detail or concepting, we recommend you [submit a design request](/handbook/marketing/brand-and-product-marketing/design/#requesting-support) to the Brand Design team instead.
 
 **To get started in Canva, please complete the checklist below:**
 
-1. [Request access](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/#gitlab-enterprise-access) to the GitLab Enterprise account.
+1. [Request access](/handbook/marketing/brand-and-product-marketing/design/#gitlab-enterprise-access) to the GitLab Enterprise account.
 1. Explore Canva’s [help center](https://www.canva.com/help/) and [YouTube channel](https://www.youtube.com/c/canva) for detailed tutorials (their [Canva Pro playlist](https://www.youtube.com/watch?v=50x1QczKuB4&list=PLATYfhN6gQz9kEbAk2d1--dY9ca8vZy1b) is a good place to start).
 1. Read the best practices outlined below.
 1. Watch our [demo](https://www.youtube.com/watch?v=SUlaEWej_SI&ab_channel=GitLabUnfiltered) to orient yourself to the GitLab Enterprise account (must be logged into GitLab Unfiltered on YouTube to view).
@@ -191,7 +191,7 @@ We have a limited number of seats available, so we encourage teams to consolidat
 
 - Make sure you are logged in to your GitLab Enterprise account when in Canva, as it is easy to be logged into the wrong one if you have pre-existing logins.
 - You can toggle between your designs (`Projects`) and the team’s designs (`GitLab Enterprise`) on the left navigation menu.
-- [Contact the Brand Design team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/#contacting-the-team) if you need to change your [permissions](https://www.canva.com/help/roles-and-permissions/) in Canva. Team members who join the account are automatically set to `member` status, which allows editing and sharing of files.
+- [Contact the Brand Design team](/handbook/marketing/brand-and-product-marketing/design/#contacting-the-team) if you need to change your [permissions](https://www.canva.com/help/roles-and-permissions/) in Canva. Team members who join the account are automatically set to `member` status, which allows editing and sharing of files.
 
 ### Files and folders
 
@@ -264,7 +264,7 @@ Depending on your Canva permissions, you may be able to share the file as a temp
 
 ### Requesting design approval
 
-Always share your work for review. If you are working from an existing Canva template, you will see the option to request [design approval](https://www.canva.com/help/get-approval/) in the top right of the file. If you are creating your own design, you can open a [brand review issue](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/#requesting-support) and link your file. For expedited requests, please reach out in the `#marketing-design` channel on Slack with a link to the issue or file.
+Always share your work for review. If you are working from an existing Canva template, you will see the option to request [design approval](https://www.canva.com/help/get-approval/) in the top right of the file. If you are creating your own design, you can open a [brand review issue](/handbook/marketing/brand-and-product-marketing/design/#requesting-support) and link your file. For expedited requests, please reach out in the `#marketing-design` channel on Slack with a link to the issue or file.
 
 
 ## How we work
@@ -279,7 +279,7 @@ We are all brand designers, brand champions, critically thinking problem solvers
 - **Wear many hats:** have the flexibility to tackle a variety of tasks demanded by the role - all for the greater good of the team and company.
 - **Develop creative concepts:** drive the creative direction of your individual projects. For large-scale projects, Adam and Luke are responsible for core concept development, which is then presented to the wider team for discussion, feedback, and refinement.
 - **Carry out the creative:** bring a creative direction to life with touch-point collateral informed by the creative direction, all while [managing your time accordingly](/handbook/leadership/#managers-of-one).
-- **Advocate for the GitLab Brand:** know, contribute to, and uphold our [brand standards](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/), and review materials from within and outside our team to preserve our brand’s integrity.
+- **Advocate for the GitLab Brand:** know, contribute to, and uphold our [brand standards](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/), and review materials from within and outside our team to preserve our brand’s integrity.
 - **Know the tools:** be proficient in the Adobe Suite and Figma (for designing), Mural and
 FigJam (for brainstorming), Canva (for creating self-service assets), and the Google Suite
 (for company-wide materials).
@@ -291,7 +291,7 @@ The team should feel empowered to make the best decisions possible for the GitLa
 ### Team workflow
 
 - **Team check-ins:** We have three recurring team syncs: (1) Monday [design hours](https://docs.google.com/document/d/1SOxh6UPZ7n0oGUdxc1p4CggCXbz-uLzQN8DL-_AUEMg/edit?usp=sharing) call where we catch up and talk about work for the upcoming week. (2) Tuesday async GeekBot status reports in the `#marketing-design` slack channel. (3) Wednesday design hours call where we get feedback and collaborate on topics that need to be addressed.
-- **Working in issues:** All design requests should use our [issue templates](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/#requesting-support) and include the `mktg-status::triage`, `corporate-marketing`, and `design` issue labels to show up on our [team’s triage board](https://gitlab.com/groups/gitlab-com/-/boards/2233942?label_name%5B%5D=Corporate%20Marketing&label_name%5B%5D=design&label_name%5B%5D=mktg-status%3A%3Atriage). Michelle, the Creative Operations Manager on the team, triages work at the beginning of the week, and team members are able to assign work to themselves, too. We use issue [weights](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html) (1 weight = approx. 4 hours of work) to measure bandwidth and [milestones](https://docs.gitlab.com/ee/user/project/milestones/) to track capacity for each week. Everyone can see their work for the week by looking at their individual [issue board](https://docs.gitlab.com/ee/user/project/issue_board.html).
+- **Working in issues:** All design requests should use our [issue templates](/handbook/marketing/brand-and-product-marketing/design/#requesting-support) and include the `mktg-status::triage`, `corporate-marketing`, and `design` issue labels to show up on our [team’s triage board](https://gitlab.com/groups/gitlab-com/-/boards/2233942?label_name%5B%5D=Corporate%20Marketing&label_name%5B%5D=design&label_name%5B%5D=mktg-status%3A%3Atriage). Michelle, the Creative Operations Manager on the team, triages work at the beginning of the week, and team members are able to assign work to themselves, too. We use issue [weights](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html) (1 weight = approx. 4 hours of work) to measure bandwidth and [milestones](https://docs.gitlab.com/ee/user/project/milestones/) to track capacity for each week. Everyone can see their work for the week by looking at their individual [issue board](https://docs.gitlab.com/ee/user/project/issue_board.html).
 - **Collaborating together:** We work together as a team by playing to each of our strengths. Work is usually triaged out to team members whose design skills fit the request, or we collaborate together on a project using our combined talents.
 - **Small projects:** Smaller projects are typically assigned to one designer and completed within 2 weeks. Given the quick turnaround at GitLab, we work in small iterations, referred to as the MVC ([minimum viable change](/handbook/product/product-principles/#the-minimal-viable-change-mvc)) approach.
 - **Medium and large projects:** For larger projects, we assess the request and then propose a timeline. For campaigns or projects with a unique concept, we kick off a brainstorming session either async or on a cross-functional call with the larger team, or whoever has been assigned, and then we pitch the concept(s) to the stakeholders.

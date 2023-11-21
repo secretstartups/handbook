@@ -23,7 +23,7 @@ description: "Marketo is our marketing automation platform used for email market
 
 ## Marketo Tech Stack Guide
 
-Visit the [Marketo Tech Stack Guide](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/tech-stack-guide-marketo/#integrations) for more information around provisioning, integrations and system diagrams.
+Visit the [Marketo Tech Stack Guide](/handbook/marketing/marketing-operations/marketo/tech-stack-guide-marketo/#integrations) for more information around provisioning, integrations and system diagrams.
 
 
 
@@ -45,7 +45,7 @@ Data is shared between the two via the Marketo User Permission Set with either `
 - [Accounts](https://gitlab.my.salesforce.com/0PS4M000001136E?s=EntityPermissions&o=Account)
 
 
-Marketo also can create and edit SFDC campaigns. The `Active` checkbox must be checked in order for Marketo to be able to map to that campaign. [Go here for campaign set up directions](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up).
+Marketo also can create and edit SFDC campaigns. The `Active` checkbox must be checked in order for Marketo to be able to map to that campaign. [Go here for campaign set up directions](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up).
 
 When large updates are made to an SFDC field value, they could cause a sync backlog back to Marketo. To check the backlog, go to [this page](https://app-ab13.marketo.com/supportTools/sfdcSyncStats) and select the object you want to review and click `Get Stats`. Marketo>SFDC is a push count, while SFDC>Marketo is considered Pull. You must be logged in to Marketo to view this information. Backlogs clear automatically, they are slower during working hours due to system usage (Marketo's user base, not just GitLab), but the sync speeds up off-hours and on weekends.
 
@@ -54,7 +54,7 @@ Because certain processes create records with a blank email address in SFDC we w
 
 Together with Sales Systems, we implemented a custom formula field called `Block_Marketo_Sync__c`. When the field is checked, records will be blocked from syncing by the custom sync rule. Likewise, when the field is unchecked, it will flow to Marketo.
 
-For the sandbox, we have a different set of [syncing rules](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#sandbox).
+For the sandbox, we have a different set of [syncing rules](/handbook/marketing/marketing-operations/marketo/#sandbox).
 
 
 ### Multi-thread Sync
@@ -97,9 +97,9 @@ Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded fo
 
 Form documentation can be found [here](https://docs.google.com/spreadsheets/d/1cV_hI2wAzLxYYDI-NQYF5-FDDPXPXH0VV5qRBUJAQQk). It contains all of our current forms, as well as standardized country and state picklists.
 
-**Translated Forms Available**: Spanish, French, Italian, Korean, German, Portuguese, and Japanese. These are global forms, go to the Design Studio > Forms > Translated Forms. It is important to use these (and not clone) as they influence the [localization segmentation](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#segmentations) of `Language Preference`. 
+**Translated Forms Available**: Spanish, French, Italian, Korean, German, Portuguese, and Japanese. These are global forms, go to the Design Studio > Forms > Translated Forms. It is important to use these (and not clone) as they influence the [localization segmentation](/handbook/marketing/marketing-operations/marketo/#segmentations) of `Language Preference`. 
 
-If you require a new language or need a new form, please gather the [translations](https://about.gitlab.com/handbook/marketing/localization/#current-state) and then create an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request). Due to resource constraints, we are only creating new forms for [P0 countries](https://about.gitlab.com/handbook/marketing/localization/#priority-countries).
+If you require a new language or need a new form, please gather the [translations](/handbook/marketing/localization/#current-state) and then create an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request). Due to resource constraints, we are only creating new forms for [P0 countries](/handbook/marketing/localization/#priority-countries).
 
 All forms should follow these guidelines:  
 - Do not use lightboxes
@@ -148,7 +148,7 @@ dataLayer.push(
 ```
 ### Program Asset Expiration
 
-Starting in November 2022, teams within Marketo will transition to utilizing the [asset expiration feature](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.html?lang=en#:~:text=Right%2Dclick%20on%20your%20desired,Choose%20an%20expiration%20date) added to the product in early 2022 as a way to declutter our expired landing pages and no longer relevant smart campaigns. Detailed instructions on this process can be found in our handbook on the [Campaigns and Programs](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/) page.
+Starting in November 2022, teams within Marketo will transition to utilizing the [asset expiration feature](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.html?lang=en#:~:text=Right%2Dclick%20on%20your%20desired,Choose%20an%20expiration%20date) added to the product in early 2022 as a way to declutter our expired landing pages and no longer relevant smart campaigns. Detailed instructions on this process can be found in our handbook on the [Campaigns and Programs](/handbook/marketing/marketing-operations/campaigns-and-programs/) page.
 
 ### Product data in Marketo
 
@@ -177,16 +177,16 @@ All of the standardization smart campaigns are contained in:
 
 
 ## MQL and Lead Scoring
-A Marketing Qualified Lead is a lead that has reached a threshold of `100` points, based on demographic/firmographic and/or behavioral information. The [MQL Scoring](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#scoring-model) is detailed below and is comprised of various actions and/or profile data that are weighted with positive or negative point values.
+A Marketing Qualified Lead is a lead that has reached a threshold of `100` points, based on demographic/firmographic and/or behavioral information. The [MQL Scoring](/handbook/marketing/marketing-operations/marketo/#scoring-model) is detailed below and is comprised of various actions and/or profile data that are weighted with positive or negative point values.
 
 For a visual overview, please use this [slide](https://docs.google.com/presentation/d/1KMyzQm_-7V7jeSJZuiedmIINti_uEWiW0NBYiX5viSA).
 
 ### Re-MQL
-For additional information, visit the lead lifecycle page](https://about.gitlab.com/handbook/marketing/marketing-operations/lead-lifecycle/#lead-lifecycle).
+For additional information, visit the lead lifecycle page](/handbook/marketing/marketing-operations/lead-lifecycle/#lead-lifecycle).
 
-A Lead/Contact will be allowed to re-MQL if they are in a `Recycle` status and reach the [MQL threshold](https://about.gitlab.com/handbook/marketing/marketing-operations/) again. 
+A Lead/Contact will be allowed to re-MQL if they are in a `Recycle` status and reach the [MQL threshold](/handbook/marketing/marketing-operations/) again. 
 
-The number of times they `MQL` will be counted with the `MQL Counter` field.  The `Initial MQL DateTime` contains the very first time a prospect reached the [MQL threshold](https://about.gitlab.com/handbook/marketing/marketing-operations/#lead-scoring-lead-lifecycle-and-mql-criteria).  `MQL Date` will be overwritten to be the most recent date that a lead has reached the MQL threshold.
+The number of times they `MQL` will be counted with the `MQL Counter` field.  The `Initial MQL DateTime` contains the very first time a prospect reached the [MQL threshold](/handbook/marketing/marketing-operations/#lead-scoring-lead-lifecycle-and-mql-criteria).  `MQL Date` will be overwritten to be the most recent date that a lead has reached the MQL threshold.
 
 When a lead is set to `Recycle`, their `Behavior Score` is reset to 0. Their `Person Score` is reset to the value of the `Demographic Score`. Additionally, a person who has reached `MQL` in the past, is given an additional score of `+20` when they are reset to `Recycle` and take an action to increase their behaviour score. If a lead was `Accepted` before it reached the MQL threshold, and is then set to `Recycle` within 30 days, the lead's `Behavior Score` will reset to the value it was while in `Inquiry` when they take an action, the `Demographic Score` will be re-run and their overall `Person Score` will be the sum of those two values.
 
@@ -220,7 +220,7 @@ Based on certain criteria, a lead may auto-MQL. The scenarios are listed below:
 
 #### Behavior Scoring
 
-Behavior scoring is based on the actions that person has taken. The cadence of how often they can be scored is listed below. For campaign scoring, there must be a success in order to capture the score, those below are marked with a *. Refer to the [programs page and progression statuses](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs) to see what constitues a `success`.
+Behavior scoring is based on the actions that person has taken. The cadence of how often they can be scored is listed below. For campaign scoring, there must be a success in order to capture the score, those below are marked with a *. Refer to the [programs page and progression statuses](/handbook/marketing/marketing-operations/campaigns-and-programs) to see what constitues a `success`.
 
 |**Action**|Campaign Type|**Points**|**Token**|**Type**|**Schedule/Flow Limit**|
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
@@ -287,7 +287,7 @@ For Job role/function and seniority descriptions can be found [here](https://doc
 |Function - Med|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|+15|	{{my.Function - Med}}|	Trigger on creation or Update to Title|	Once|
 |Function - Low|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|	+10|	{{my.Function - Low}}	|	Trigger on creation or Update to Title|	Once|
 |Function - Negative|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|	-20	|{{my.Function - Negative}}		|Trigger on creation or Update to Title|	Once|
-|Country - Tier 1, Tier 2 |[Country = Tier 1, Tier 2](https://about.gitlab.com/handbook/marketing/localization/#priority-countries)|	+5	|{{my.Country - P0, P1}}|	Trigger on creation or Update 	|Once|
+|Country - Tier 1, Tier 2 |[Country = Tier 1, Tier 2](/handbook/marketing/localization/#priority-countries)|	+5	|{{my.Country - P0, P1}}|	Trigger on creation or Update 	|Once|
 | Key Account | Key Account = True |	+20	|{{my.Focus Account}}|	Trigger on creation or Update 	|Once|
 
 ## Lists and Segmentation
@@ -301,7 +301,7 @@ The following segmentations that are approved and live.
 <summary markdown='span'>
 [Buyer Personas - Function](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1008A1)
 </summary>
-Based off of guidance on [Buyer Persona page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/#buyer-personas).
+Based off of guidance on [Buyer Persona page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/#buyer-personas).
 - App Dev
 - Back Office
 - Blank title
@@ -585,19 +585,19 @@ There are a few main components to MSI:
 #### Insights
 This tab shows a timeline of the most recent activity of a person. It shows `ALL` upcoming email campaigns and events (NOTE: This contains ALL upcoming emails/events, not just the ones sent to that prospect). In the timeline you can see web activity, email opens/clicks, and intersting moments. You can click into the lead timeline to see the specifics of each action. You will also see their overall score and a graph of the changes in the last 30 days. See screenshot below:
 
-![Marketo Sales Insight](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/MSI.png)
+![Marketo Sales Insight](/handbook/marketing/marketing-operations/marketo/MSI.png)
 
 
 #### Interesting Moments
 Interesting moments are captured when a milestone is reached, usually when a person attends an event, program status changes or they fill out a form. SDRs use the `Last Interesting Moments` field in their lead views to quickly see what the last action the prospect took before becoming an Inquiry or MQL. If you would like an intersting moment added for a certain activity, reach out to Mops to have them build it for you.
 
-For additional information, visit [this page](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/interesting-moments)
+For additional information, visit [this page](/handbook/marketing/marketing-operations/marketo/interesting-moments)
 
 #### Web Activity 
 This tab shows all of the web activity of a cookied user in this view and includes the referring page. For lead/contacts it shows the activity for that particular person, for Accounts it shows activity for all contacts related to that account.
 
 #### Score
-Use this tab to see what the most recent score changes are. This is helpful to see all the different activities the person took to achieve the score they have. The campaign that caused the scoring can be cross referenced to the [scoring rubric](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#scoring-model) above.
+Use this tab to see what the most recent score changes are. This is helpful to see all the different activities the person took to achieve the score they have. The campaign that caused the scoring can be cross referenced to the [scoring rubric](/handbook/marketing/marketing-operations/marketo/#scoring-model) above.
 
 #### Email
 This tab shows all the emails sent to that specific person, the date and check boxes for if they opened or clicked.

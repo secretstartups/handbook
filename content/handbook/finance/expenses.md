@@ -528,7 +528,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 ### Swag
 
 - All Swag related to customers, your team, events, giveaways, TMRG’s, etc., are not to be expensed.
-- Please refer to the [Merchandise Workflow Guidance](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#swag-shop) in the Handbook.
+- Please refer to the [Merchandise Workflow Guidance](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#swag-shop) in the Handbook.
 - Exceptions are only reimbursable with approval from the VP of department or the Swag team.
 
 ### Team Building

@@ -22,8 +22,8 @@ The goals of this page are to:
 ### Common Tasks and Zendesk Macros
 
 People processing applications will also need to refer to the following pages:
- * [Common Tasks](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/common-tasks) - These are common tasks, requests, and errors that you'll come across when processing community program applications.
- * [Email and Zendesk Macros](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros) - These are templates you'll use to respond to applicants throughout the process.
+ * [Common Tasks](/handbook/marketing/developer-relations/community-programs/community-program-applications/common-tasks) - These are common tasks, requests, and errors that you'll come across when processing community program applications.
+ * [Email and Zendesk Macros](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros) - These are templates you'll use to respond to applicants throughout the process.
 
 
 ### Tools
@@ -35,10 +35,10 @@ We use several different tools to manage these programs:
 1. Salesforce
 1. Customer Portal
 1. License Portal
-1. [Email aliases](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#using-gmail-as-an-alternative-to-zendesk) - For education@gitlab.com, opensource@gitlab.com and startups@gitlab.com
+1. [Email aliases](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#using-gmail-as-an-alternative-to-zendesk) - For education@gitlab.com, opensource@gitlab.com and startups@gitlab.com
 
 <i class="fas fa-info-circle" aria-hidden="true" style="color: rgb(49, 112, 143)
-;"></i> You'll find more information on the specific usage of these tools on the [Developer Relations Workflows tools section](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/).
+;"></i> You'll find more information on the specific usage of these tools on the [Developer Relations Workflows tools section](/handbook/marketing/developer-relations/workflows-tools/).
 {: .alert .alert-info}
 
 ### Responsibilities
@@ -47,7 +47,7 @@ Education and Open Source Program Managers monitor the following:
 1. **Slack channels:** `#community-programs`
 1. **Email aliases:** education@gitlab.com, opensource@gitlab.com, and startups@gitlab.com.
     * **In order to setup these email aliases in your inbox:**
-         * [Read more about when to use email vs Zendesk](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#using-gmail-as-an-alternative-to-zendesk). On that page, you'll find instructions on how to set up the aliases. If you do not have access please submit an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
+         * [Read more about when to use email vs Zendesk](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#using-gmail-as-an-alternative-to-zendesk). On that page, you'll find instructions on how to set up the aliases. If you do not have access please submit an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
          * Follow these [steps to set up a filter in your inbox](/handbook/tools-and-tips/#apply-label-to-all-gitlab-generated-emails) to forward all emails sent from dse_NA3@docusign.net to community@gitlab.com. This filter is required because all notifications from DocuSign regarding action on a quote are sent to the *senders* personal email inbox. These notifications need to appear in Zendesk so proper action can be taken.To avoid confusion within your email inbox forward DocuSign documents titled "Voided" "Viewed" and "Declined" using a inbox filter.
 
 **The priorities for the daily workflow are as follows, in order of priority:**
@@ -63,12 +63,12 @@ Once someone applies to a community program, there are 5 phases to the workflow:
 
 | Phase | Description |
 | ------ | ------ |
-| 0. [Application](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#phase-0-application) | Application form is filed and appears in Zendesk |
-| 1. [Qualification](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#phase-1--qualification) | Determine whether or not to grant license |
-| 2. [Booking](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#phase-2-booking) | Gather all information needed to create a quote and collect signature |
-| 3. [Provisioning](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#phase-3-provisioning-and-phase-4-compliance) | Handled by Sales-Support and Billing Ops |
-| 4. [Compliance](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#phase-3-provisioning-and-phase-4-compliance) | Handled by Sales-Support and Billing Ops. Results in granting the license and notifying customer of how to access |
-| 5. [Renewal](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#phase-5-renewal) | Contains phases 0 - 4, just processed as a renewal |
+| 0. [Application](/handbook/marketing/developer-relations/community-programs/community-program-applications/#phase-0-application) | Application form is filed and appears in Zendesk |
+| 1. [Qualification](/handbook/marketing/developer-relations/community-programs/community-program-applications/#phase-1--qualification) | Determine whether or not to grant license |
+| 2. [Booking](/handbook/marketing/developer-relations/community-programs/community-program-applications/#phase-2-booking) | Gather all information needed to create a quote and collect signature |
+| 3. [Provisioning](/handbook/marketing/developer-relations/community-programs/community-program-applications/#phase-3-provisioning-and-phase-4-compliance) | Handled by Sales-Support and Billing Ops |
+| 4. [Compliance](/handbook/marketing/developer-relations/community-programs/community-program-applications/#phase-3-provisioning-and-phase-4-compliance) | Handled by Sales-Support and Billing Ops. Results in granting the license and notifying customer of how to access |
+| 5. [Renewal](/handbook/marketing/developer-relations/community-programs/community-program-applications/#phase-5-renewal) | Contains phases 0 - 4, just processed as a renewal |
 
 See diagram below for how these phases all flow together.
 
@@ -144,7 +144,7 @@ Each program has a different qualification process. After reading the federal ex
 Federal entities in the United States have additional [rules of engagement](https://about.gitlab.com/handbook/sales/public-sector) and most do not qualify for our free licenses.
 
 If you receive an application with the words "U.S.", "Military", "Naval", "Airforce", "National Laboratory" in the institution title, and/or the applicant email has a .mil or .gov domain, please do the following:
-- Reach out to the account owner directly by following the [sales handoff process](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#handoff-process-to-sales) **before** sending a rejection email to let them know of the application.
+- Reach out to the account owner directly by following the [sales handoff process](/handbook/marketing/developer-relations/community-programs/community-program-applications/#handoff-process-to-sales) **before** sending a rejection email to let them know of the application.
 - Ask the Sales rep if we should proceed with the rejection email or if they would like to contact the applicant directly. The Sales rep may have an existing relationship with the applicant and we want to be sensitive to any ongoing communication.
 
 Note: If you are a non-US Citizen you may not be able to view existing accounts for U.S. Federal entities in Salesforce due to restrictions. If you do not see an account and you are not sure who to contact in Salesforce, inquire in the [#public-sector slack channel](https://gitlab.slack.com/archives/C57F94Y8H).
@@ -161,31 +161,31 @@ After someone applies to the GitLab for Education program, here's what to expect
 
 1. The Applicant will submit the application form.
    - If an applicant selects `Role` = `Student` an automated email from *Marketo* is sent informing them of available options to students & how to encourage the University to apply. Zendesk ticket won't be created and no action is required.
-   - If a student contacts us directly and does not use the application form, send the [EDU::EDU Rejecting Students](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/) from Zendesk if there a ticket or from the education@gitlab.com email alias.
+   - If a student contacts us directly and does not use the application form, send the [EDU::EDU Rejecting Students](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/) from Zendesk if there a ticket or from the education@gitlab.com email alias.
    - If an applicant selects any other `Role`, the data from the form will be forwarded to Salesforce as LEAD (if they are not in our database) or CONTACT object (if they are already in our database).  The source of the *lead/contact* is set to *Education*.  A Zendesk Ticket is automatically created with a link to the lead/contact object. CONTACT objects contain the same data LEAD objects do, the record is just stored differently.
 1. View the applicant's form in Zendesk.
 1. **Check Email Address:** Check the applicant's email address to verify that it is from the same domain as the institution noted in the application.
-   - We cannot issue licenses to email domains outside of the applying institution. If the applicant uses a gmail or other non-related domain, please send the [EDU::EDU Requesting Email Domain macro](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/).
-   - If the applicant has a .gov or .mil email domain, please follow the [Federal Sector Exemption steps](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#federal-sector-exception).
+   - We cannot issue licenses to email domains outside of the applying institution. If the applicant uses a gmail or other non-related domain, please send the [EDU::EDU Requesting Email Domain macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/).
+   - If the applicant has a .gov or .mil email domain, please follow the [Federal Sector Exemption steps](/handbook/marketing/developer-relations/community-programs/community-program-applications/#federal-sector-exception).
    - Make sure to hand them over to the [US Public Sector team](/handbook/business-technology/#public-sector) for a review
    - This is **extremely important** because they probably aren't qualified for this program even if it looks like they are.
-1. **Check Institution:** Verify that the educational institution is an actual accredited, academic, **non-profit** institution. See the [Education Program Requirements and examples of qualifying institutions](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/#gitlab-for-education-program-requirements).
+1. **Check Institution:** Verify that the educational institution is an actual accredited, academic, **non-profit** institution. See the [Education Program Requirements and examples of qualifying institutions](/handbook/marketing/developer-relations/community-programs/education-program/#gitlab-for-education-program-requirements).
    - If the region is within the U.S., go to the [National Center for Education Statistics database](https://nces.ed.gov/globallocator/) and search by the name of the educational institution. The results will list the type of institution (public, private, for-profit).  Any institutions that are categorized as 'for-profit' do not qualify.
-   - If the region is not within the U.S., search for the institution on the web and view the institution's about page. Generally, the description will indicate if it is a non-profit institution. If you are unable to determine whether or not the institution is non-profit, email the applicant from the education@ email alias using the [EDU::EDU Requesting Non-Profit Verification macro](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/).
+   - If the region is not within the U.S., search for the institution on the web and view the institution's about page. Generally, the description will indicate if it is a non-profit institution. If you are unable to determine whether or not the institution is non-profit, email the applicant from the education@ email alias using the [EDU::EDU Requesting Non-Profit Verification macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/).
    - *IMPORTANT*: If the institution is K-12 and may enroll children under the age of 13, GitLab cannot issue a GitLab.com license for any purpose which may include the use by any students in the K-12 institution. However, the institution can apply for a self-managed GitLab license.
-   -  If the institution does not qualify, use the [EDU::EDU General Rejection macro](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/) to notify the applicant and follow the [handoff to Sales process](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/).
-   - Note: Non-profit entities regularly apply to the Education Program that are not primarily an educational institution and/or wish to use the license for uses cases outside of the EULA. At this time, we do not have a [formal non-profit program](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/). These requests are handled on a case-by-case basis by the DRI (the appropriate sales team member for that region and their manager). In these cases, follow the [handoff to Sales process](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#handoff-process-to-sales) or the send the [NP::Rejecting Non-profits macro](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/)  depending on the response. We cannot guarantee that non-profit requests will be granted as the decision is at the discretion of the DRI.
+   -  If the institution does not qualify, use the [EDU::EDU General Rejection macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/) to notify the applicant and follow the [handoff to Sales process](/handbook/marketing/developer-relations/community-programs/community-program-applications/).
+   - Note: Non-profit entities regularly apply to the Education Program that are not primarily an educational institution and/or wish to use the license for uses cases outside of the EULA. At this time, we do not have a [formal non-profit program](/handbook/marketing/developer-relations/community-programs/education-program/). These requests are handled on a case-by-case basis by the DRI (the appropriate sales team member for that region and their manager). In these cases, follow the [handoff to Sales process](/handbook/marketing/developer-relations/community-programs/community-program-applications/#handoff-process-to-sales) or the send the [NP::Rejecting Non-profits macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/)  depending on the response. We cannot guarantee that non-profit requests will be granted as the decision is at the discretion of the DRI.
 1. **Check Use Case**: View the applicant's form in Zendesk to view the `Use Case` and `Use Case Notes` response from the form submission.
    - If the response = `Instructional Use` or `Non-Commercial Academic Research` the use case is acceptable and you can proceed to the next step.
-   - Note: If the applicant mentions anything in the `Use Case Notes` field indicating IT professional use, administrative use, or anything else questionable, you will need to follow up directly. Start by sending the [EDU::EDU Collection EDU Qualification Information macro](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#educollecting-edu-qualification-info) via the education@ email alias to get more information about their GitLab usage and to make sure they are aligned with our Education program terms.
-      - Verifying the use case may take several back and forth emails with the applicant. If the first email does not contain sufficient information needed to verify the use case, send the [EDU::EDU Second email asking for participants usage data macro](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/). If you are unsure if the use case meets the terms, please reach out to the Education Program Manager via the [#community-programs slack channel](https://gitlab.slack.com/messages/community-programs). It is better to qualify the lead now than issue a license in error.
+   - Note: If the applicant mentions anything in the `Use Case Notes` field indicating IT professional use, administrative use, or anything else questionable, you will need to follow up directly. Start by sending the [EDU::EDU Collection EDU Qualification Information macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#educollecting-edu-qualification-info) via the education@ email alias to get more information about their GitLab usage and to make sure they are aligned with our Education program terms.
+      - Verifying the use case may take several back and forth emails with the applicant. If the first email does not contain sufficient information needed to verify the use case, send the [EDU::EDU Second email asking for participants usage data macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/). If you are unsure if the use case meets the terms, please reach out to the Education Program Manager via the [#community-programs slack channel](https://gitlab.slack.com/messages/community-programs). It is better to qualify the lead now than issue a license in error.
       - Once you have verified that the use case is acceptable continue to the next step.   
-    - If the response = `IT Professional Services` the use case is not acceptable under our terms. Change the lead status to unqualified and send the [EDU::EDU General Rejection macro](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/) via Zendesk. Then follow the [handoff to Sales process](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#handoff-process-to-sales).
+    - If the response = `IT Professional Services` the use case is not acceptable under our terms. Change the lead status to unqualified and send the [EDU::EDU General Rejection macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/) via Zendesk. Then follow the [handoff to Sales process](/handbook/marketing/developer-relations/community-programs/community-program-applications/#handoff-process-to-sales).
 1. **Check Existing Account Status:** Search Salesforce to see if there is an existing account and/or opportunity for this educational institution.
-     - Note: If you notice that there is a duplicate account for the same educational institution, please follow the steps for [merging duplicated accounts](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/common-tasks/#merging-duplicated-accounts). It is acceptable for separate entities within a single educational institution to have separate accounts. For example, it is acceptable for  *University of Missouri Hospital and Clinics* and *University of Missouri Astrophysics Center* to have separate accounts But it is not acceptable to have separate accounts for *University of Wisconsin Madison* and *UW Madison*.
+     - Note: If you notice that there is a duplicate account for the same educational institution, please follow the steps for [merging duplicated accounts](/handbook/marketing/developer-relations/community-programs/community-program-applications/common-tasks/#merging-duplicated-accounts). It is acceptable for separate entities within a single educational institution to have separate accounts. For example, it is acceptable for  *University of Missouri Hospital and Clinics* and *University of Missouri Astrophysics Center* to have separate accounts But it is not acceptable to have separate accounts for *University of Wisconsin Madison* and *UW Madison*.
      - If there is an existing account with an active sales opportunity (stage = anything less than Closed-Won), chatter the account owner in Salesforce directly from the account to let them know of the application and make sure there are no conflicts with the issuing the license. Make a note in the Zendesk ticket that you are waiting for the AO to respond. Wait 2 days to hear back. If there is no conflict, proceed with issuing the Education license.
      - If there is an existing account owned by someone from the Sales Team (SAE/SDR) but there are no active opportunities, chatter the account owner and the ASM/ISR/SDR in Salesforce directly from the account and make sure there are no preliminary conversations occurring with the account and no conflicts with issuing the license. Make a note in the Zendesk ticket that you are waiting for the AO to respond. Wait 2 days to hear back. If there is no conflict, proceed with issuing the Education license.  Note: SALS/SDRs will open Salesforce accounts for any existing conversations with prospects, or for those accounts in a quarterly plan.
- 1. Once you have verified the **email address**, **educational institution**, **use case**, and **existing account status** proceed to [Phase 2:Booking](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#phase-2-booking) below.
+ 1. Once you have verified the **email address**, **educational institution**, **use case**, and **existing account status** proceed to [Phase 2:Booking](/handbook/marketing/developer-relations/community-programs/community-program-applications/#phase-2-booking) below.
 
 #### Open Source program
 After someone applies to the GitLab for Open Source program, you'll need to make sure they qualify.
@@ -212,7 +212,7 @@ When someone submits an application form, the information is captured in Salesfo
  1. Look at the `Open Source License` field on the Salesforce form and check the link that they send against the list of [OSI approved licenses](https://opensource.org/licenses).
  1. Make sure that they have copied the license text into each of their GitLab projects. To check their instance, click on the `Overview` of projects in their group.
 
-If they do not meet this requirement, use the [`OSS:: OSI-approved license` Zendesk macro](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#oss-osi-approved-license) to ask them to add an OSI-approved license to their projects.
+If they do not meet this requirement, use the [`OSS:: OSI-approved license` Zendesk macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#oss-osi-approved-license) to ask them to add an OSI-approved license to their projects.
 
 Note: Sometimes, people will apply to the GitLab for Open Source program to see if they qualify before moving their project over. We ask them to at least create a skeleton GitLab instance following our guidelines before approving their license, and we let them know that they'll need to continue to meet our requirements at time of renewal.
 
@@ -223,7 +223,7 @@ Applicants must check a box at time of application to certify that their organiz
  1. Look at the `OSS supporting evidence` field in the Salesforce form and see if they provide additional information about meeting the requirement.
  1. Do a quick google search of their project, or see if they include a website. If they provide paid support or are affiliated with a company, they may not qualify.
 
-If you believe they may not qualify, send them the [`OSS:: Clarifying "not-seeking-profit" req and Qualification Examples` macro](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#oss-clarifying-not-seeking-profit-req-and-qualification-examples) to ask if they can clarify their use case.
+If you believe they may not qualify, send them the [`OSS:: Clarifying "not-seeking-profit" req and Qualification Examples` macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#oss-clarifying-not-seeking-profit-req-and-qualification-examples) to ask if they can clarify their use case.
 
 Further not-seeking-profit qualification guidance:
 
@@ -245,12 +245,12 @@ Further not-seeking-profit qualification guidance:
 **If an application does NOT meet the requirements**
 If you have worked with them to better understand their use case and have decided they do not qualify, proceed with these steps:
 
- 1. Send them the [`OSS:: OSS Rejection` macro](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros). Edit it to make sure that they understand why their application cannot be approved and offer to do a [Handoff to Sales](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#handoff-process-to-sales).
+ 1. Send them the [`OSS:: OSS Rejection` macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros). Edit it to make sure that they understand why their application cannot be approved and offer to do a [Handoff to Sales](/handbook/marketing/developer-relations/community-programs/community-program-applications/#handoff-process-to-sales).
  1. Close the lead in Salesforce as unqualified.
 
 **If an application DOES meet the requirements**
 
- Proceed to the [Create an Opportunity](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/) section using OSS naming convention.
+ Proceed to the [Create an Opportunity](/handbook/marketing/developer-relations/community-programs/community-program-applications/) section using OSS naming convention.
 
 #### Startups program
 Currently, only YCombinator Startups (YC Startups) qualify for our Startups program. We get a lot of startups that do not meet our current requirements.
@@ -258,11 +258,11 @@ Currently, only YCombinator Startups (YC Startups) qualify for our Startups prog
 Here's how to qualify them:
 
  1. Make sure they are part of the current or two most recent [YCombinator batches](https://www.ycombinator.com/companies/).
- 1. If they are not on that list, follow up with the [`Startups:: Qualification for program` macro](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#startups-qualification-for-program) to ask them to provide verification that they are a YC startup.
+ 1. If they are not on that list, follow up with the [`Startups:: Qualification for program` macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#startups-qualification-for-program) to ask them to provide verification that they are a YC startup.
 
-If they do qualify, continue to [create an opportunity](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/).
+If they do qualify, continue to [create an opportunity](/handbook/marketing/developer-relations/community-programs/community-program-applications/).
 
-If they do not qualify, send them the [Startups:: Rejection macro](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros) and offer to connect them to sales via the [Sales handoff process](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#handoff-process-to-sales).
+If they do not qualify, send them the [Startups:: Rejection macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros) and offer to connect them to sales via the [Sales handoff process](/handbook/marketing/developer-relations/community-programs/community-program-applications/#handoff-process-to-sales).
 
 
 #### Handoff Process to Sales
@@ -275,7 +275,7 @@ If an applicant does not meet the program terms, the lead or contact should be t
 1. For contacts (the applicant is already in our Salesforce database), navigate to the account and identify the SDR.  
 1. Reassign the lead/contact to the appropriate SDR for the Region/Vertical in Salesforce. If you are unable to do so, chatter @Sales-support for assistance.
 1. Chatter the SDR in Salesforce directly from the account to let them know the lead/contact has been reassigned and there is no current action item.
-    - If the lead responds to the offer in the rejection macro for an introduction to the SDR using the [Common Requests:: Handing off to sales team template](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#common-requests-handing-off-to-sales-team---send-via-gmail). Make sure to send it via gmail so that you can connect them directly with the SDR (Sales cannot access the Community Zendesk instance). Then, chatter the SDR so that they can follow up.
+    - If the lead responds to the offer in the rejection macro for an introduction to the SDR using the [Common Requests:: Handing off to sales team template](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#common-requests-handing-off-to-sales-team---send-via-gmail). Make sure to send it via gmail so that you can connect them directly with the SDR (Sales cannot access the Community Zendesk instance). Then, chatter the SDR so that they can follow up.
 1. Any relevant emails regarding the use case or the scope of the opportunity should be tracked within Salesforce in the account's activity history. Follow [these steps](https://about.gitlab.com/handbook/customer-success/using-salesforce-within-customer-success/#tracking-emails-within-salesforce) to forward any relevant email correspondance to Salesforce.
     -  Note: If the person you are contacting is not yet a contact associated with an opportunity or account in Salesforce, you will need to search for the email by pasting the applicant email address in the Salesforce search bar, finding the email in the list, and then manually associate the email to the appropriate account in Salesforce.
 
@@ -299,7 +299,7 @@ When you click on the Salesforce link in a new application request in Zendesk, y
       - Turn off the `Reminder` at the very bottom of the page
       - Then click `Convert`
       - The *Opportunity* will then be created and appear under the Account.
- 1. Navigate to the new Opportunity and procceed to [Step 3: Create a new quote](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#step-3-create-a-new-quote)
+ 1. Navigate to the new Opportunity and procceed to [Step 3: Create a new quote](/handbook/marketing/developer-relations/community-programs/community-program-applications/#step-3-create-a-new-quote)
 
 
 
@@ -316,7 +316,7 @@ When you click on the Salesforce link in a new application request in Zendesk, y
  1. Set the `Amount` to $0.00 if they didn't purchase support or the annual amount of the support price if they did.
 1. Click `Save` and proceed to the next step.
 
-NOTE: Sometimes, a contact that is already associated with an account will apply for a new account under one of our programs. If you run into this, follow the steps to [process New Opportunities for Contacts with multiple accounts](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/common-tasks/).
+NOTE: Sometimes, a contact that is already associated with an account will apply for a new account under one of our programs. If you run into this, follow the steps to [process New Opportunities for Contacts with multiple accounts](/handbook/marketing/developer-relations/community-programs/community-program-applications/common-tasks/).
 
 ### Step 3: Create a new Quote
 For an overview of the process, see [Create a New Quote and Send to Applicant](https://www.youtube.com/watch?v=gKrjz8WL1XA).
@@ -353,17 +353,17 @@ Note: In order to see the license type and number of seats, view the opportunity
 1. From the Opportunity, select the *Send with DocuSign* button.
     - For step-by-step directions see the [DocuSign section] (/handbook/sales/field-operations/order-processing/#how-to-send-an-order-form-to-the-customer-for-signature-via-docusign) of the Order Processing Handbook page.
     - Note that the email subject will be `Please DocuSign: [filename]`.
-    - In the *Email Invite Message* window paste the [Common Requests: e-signature request via DocuSign - Salesforce macro](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/).
+    - In the *Email Invite Message* window paste the [Common Requests: e-signature request via DocuSign - Salesforce macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/).
     - Continue to follow the DocuSign directions.
     - Double-check the quote to make sure the following is correct: Sold To Details, Subscription Details (product, quantity, total), and terms.
     - Click *Send*.
-1. Notify the applicant that their application was approved and the quote was sent by replying in Zendesk with the [EDU:: EDU new application approval Zendesk notification](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#edu-edu-new-application-approval-zendesk-notification) or the [OSS:: OSS new application approval Zendesk notification](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#oss-oss-new-application-approval---zendesk-notification). Submit the ticket as closed in Zendesk. Note: We send this additional email because the quote will come directly from DocuSign and we want to make sure they are aware it is coming from a different sender and it could get blocked by spam filters.
+1. Notify the applicant that their application was approved and the quote was sent by replying in Zendesk with the [EDU:: EDU new application approval Zendesk notification](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#edu-edu-new-application-approval-zendesk-notification) or the [OSS:: OSS new application approval Zendesk notification](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#oss-oss-new-application-approval---zendesk-notification). Submit the ticket as closed in Zendesk. Note: We send this additional email because the quote will come directly from DocuSign and we want to make sure they are aware it is coming from a different sender and it could get blocked by spam filters.
     - Note: Notifications regarding any action (delivery, signature, or comment) on the quote will be sent from dse_NA3@docusign.net to the individual who sent the quote. Each individual team member **must** have [the filter set up](/handbook/tools-and-tips/#apply-label-to-all-gitlab-generated-emails) in their personal inbox to forward all DocuSign emails to community@gitlab.com which will create a Zendesk ticket to take action on the quote.
-1. After the applicant receives the quote, we will receive the `Delivery Receipt For File` email notification (sent to the individual and then forwarded with the filter to community@gitlab.com). Use the [`Common Requests:: License Update` macro](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#common-requests-license-update) and make sure the related ticket's status is set to *Solved*. The [signed quote can be viewed](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/).
+1. After the applicant receives the quote, we will receive the `Delivery Receipt For File` email notification (sent to the individual and then forwarded with the filter to community@gitlab.com). Use the [`Common Requests:: License Update` macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#common-requests-license-update) and make sure the related ticket's status is set to *Solved*. The [signed quote can be viewed](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/).
 1. The quote may need to be signed manually or without DocuSign for a number of reasons. For example, it is fairly common that the DocuSign email was blocked by spam filters or the applicant was unable to sign electronically. To send the quote for signature via email:
     - Navigate to the *Opportunity* in Salesforce.
     - In the *Google Docs, Notes & Attachments* section, the preview.pdf quote generated earlier will be available. Click the preview link and then click on the link for *View file*. The PDF of the quote will open and you can download it from your browser.
-    - Download the PDF to your local machine and attach it to an email. Use the [Common Requests:: Send Quote via Email macro](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#common-requests-send-quote-via-email).
+    - Download the PDF to your local machine and attach it to an email. Use the [Common Requests:: Send Quote via Email macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#common-requests-send-quote-via-email).
 
 
 ### Step 5: Submitting the Opportunity for the approval
@@ -396,14 +396,14 @@ To submit the signed quote for approval, you'll need to do the following:
 **Email applicant with notification:**
 Once you've submitted the quote for approval via Salesforce, you'll need to go back to Zendesk to notify the applicant.
 
- 1. Apply the [`Common Requests:: License Update`](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#common-requests-license-update) macro to the `File {FileExternalID2} has been signed at GitLab` notification and close as *Solved*.
+ 1. Apply the [`Common Requests:: License Update`](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#common-requests-license-update) macro to the `File {FileExternalID2} has been signed at GitLab` notification and close as *Solved*.
  1. Search Zendesk by the contact's email to find your previous correspondence with them. Send them the appropriate macro to notify them that their new application or renewal has been sent for final review (send as *Solved*):
 
- * For EDU: [EDU::EDU Welcome macro](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/) or [EDU::EDU Renewal Thank You macro](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/)
+ * For EDU: [EDU::EDU Welcome macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/) or [EDU::EDU Renewal Thank You macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/)
 
- * For OSS: [OSS:: OSS Welcome (new applicants)](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#oss-oss-welcome-new-applicants) or [`OSS:: OSS Welcome (Renewals)` macro](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#oss-oss-welcome-renewals)
+ * For OSS: [OSS:: OSS Welcome (new applicants)](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#oss-oss-welcome-new-applicants) or [`OSS:: OSS Welcome (Renewals)` macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#oss-oss-welcome-renewals)
 
- * For Startups: [Startups:: Startups Welcome](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#startups-startups-welcome). Note: Startups are not eligible for renewal.
+ * For Startups: [Startups:: Startups Welcome](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#startups-startups-welcome). Note: Startups are not eligible for renewal.
 
 **What to expect next:** Once approved, sales-support will handle the rest of the provisioning process and will send the applicant their license. A renewal opportunity will be created at that time.
 
@@ -425,8 +425,8 @@ Here are the different ways that you may come across a new renewal request:
 
 | Request Type | Where to find it | What to do | Notes |
 | ------ | ------ | ------ | ------ |
-| **Email to a program alias** | Zendesk (in the view for [Education](https://gitlab-community.zendesk.com/agent/filters/360044571213) or [Open Source](https://gitlab-community.zendesk.com/agent/filters/360049919533)) | Send the appropriate requesting renewal information macro for [EDU::EDU Requesting Renewal Information](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications) or [OSS::OSS Renewal Reminder and Request for info](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications) to the member if they have not sent the needed renewal information and submit the Zendesk ticket as `Pending`. When they respond with the needed information, submit the ticket as `Solved` and proceed to Step 1 of the renewal process. | Make sure there are no active sales opportunities |
-| **Sales reassigns a renewal opportunity** | Salesforce personal chatter or personal email inbox  | If the date on the renewal is less than three months away, send the [Requesting renewal information macro](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros) to the member and close the case. If the renewal date is more than three months away, change the ownership to Alex Karsten for EDU and OSS and close the case. | Program members will receive 3 and 6 month automatic reminder emails regarding the subscription renewal. The renewal opportunity may be assigned well ahead of the actual renewal date. |
+| **Email to a program alias** | Zendesk (in the view for [Education](https://gitlab-community.zendesk.com/agent/filters/360044571213) or [Open Source](https://gitlab-community.zendesk.com/agent/filters/360049919533)) | Send the appropriate requesting renewal information macro for [EDU::EDU Requesting Renewal Information](/handbook/marketing/developer-relations/community-programs/community-program-applications) or [OSS::OSS Renewal Reminder and Request for info](/handbook/marketing/developer-relations/community-programs/community-program-applications) to the member if they have not sent the needed renewal information and submit the Zendesk ticket as `Pending`. When they respond with the needed information, submit the ticket as `Solved` and proceed to Step 1 of the renewal process. | Make sure there are no active sales opportunities |
+| **Sales reassigns a renewal opportunity** | Salesforce personal chatter or personal email inbox  | If the date on the renewal is less than three months away, send the [Requesting renewal information macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros) to the member and close the case. If the renewal date is more than three months away, change the ownership to Alex Karsten for EDU and OSS and close the case. | Program members will receive 3 and 6 month automatic reminder emails regarding the subscription renewal. The renewal opportunity may be assigned well ahead of the actual renewal date. |
 | **Email to Support Team** | Support Zendesk Instance | If someone contacts Support about renewals, Support sends them a macro to redirect them to us | [Support Zendesk Macro](/handbook/support/workflows/special-programs.html): `General::EDU Renewal Response` `General::OSS Response`|
 
 
@@ -436,11 +436,11 @@ Here are the different ways that you may come across a new renewal request:
 
 ##### Step 1: Create or update the renewal Opportunity
 
-1. **Find the relevant *Renewal Opportunity*.** Rename the renewal opportunity using this format: `Company Name - Number of Users, Product Program [w/ Support], Renewal, Renewal Date` (Example: `Company Name-100 SaaS-Ultimate EDU Renewal 01/19`). The `Renewal Date` should be the month and year that the existing subscription expires or when the subscription is set to renew. If you can't find the relevant renewal opportunity, or if the renewal opportunity has expired, you'll need to create a new one ([See the 'Common Tasks in SFDC' section for process details.](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/common-tasks/#common-tasks-in-sfdc)). Chatter *@sales-support* if you need help.
+1. **Find the relevant *Renewal Opportunity*.** Rename the renewal opportunity using this format: `Company Name - Number of Users, Product Program [w/ Support], Renewal, Renewal Date` (Example: `Company Name-100 SaaS-Ultimate EDU Renewal 01/19`). The `Renewal Date` should be the month and year that the existing subscription expires or when the subscription is set to renew. If you can't find the relevant renewal opportunity, or if the renewal opportunity has expired, you'll need to create a new one ([See the 'Common Tasks in SFDC' section for process details.](/handbook/marketing/developer-relations/community-programs/community-program-applications/common-tasks/#common-tasks-in-sfdc)). Chatter *@sales-support* if you need help.
 1. **Make sure that the *Opportunity Type* is set to Renewal**. Set the *Close date* to today and *Stage* to '6-Awaiting Signature'. Also, double-check that the *Amount* is correct and click Save.
 
 ##### Step 2: Create the new renewal Quote
-This step is for renewing subscriptions before they expire. If the subscription has already expired, please follow the steps for [Expired Renewals](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#quotes-for-expired-renewal-requests).
+This step is for renewing subscriptions before they expire. If the subscription has already expired, please follow the steps for [Expired Renewals](/handbook/marketing/developer-relations/community-programs/community-program-applications/#quotes-for-expired-renewal-requests).
 
 1. Click on `New quote`
 1. **On the `Select Billing Account` page,** select appropriate *existing billing account*. Under `Choose Quote Type` select **Renew existing subscription for this billing account** and find the Opportunity that you want to renew under *Subscription name*. Then click `Next`.
@@ -448,11 +448,11 @@ This step is for renewing subscriptions before they expire. If the subscription 
 1. **Check the *Sold to* and *Bill to Contact*.** The contact should be the same person as the person who sent the renewal email. If is not the same, see the _note_ below. Otherwise, everything else should stay the same. Click `Next`.
 1. Update the number of seats and/or attached product, if needed, and click `Submit`
 
-_Note:_ The license key will be issued to the existing primary contact's GitLab [CustomersDot](https://customers.gitlab.com/) account. This is generally the *Sold to* contact. If the primary account owner has changed, the new primary account owner needs to create an account on the *CustomersDot* and the license needs to be [associated with the new account](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/common-tasks/#associating-customersdot-subscriptions-with-new-accounts). If the previous primary contact is no longer with the institution/entity, the subscription will need to be removed from that account in the CustomersDot as well.
+_Note:_ The license key will be issued to the existing primary contact's GitLab [CustomersDot](https://customers.gitlab.com/) account. This is generally the *Sold to* contact. If the primary account owner has changed, the new primary account owner needs to create an account on the *CustomersDot* and the license needs to be [associated with the new account](/handbook/marketing/developer-relations/community-programs/community-program-applications/common-tasks/#associating-customersdot-subscriptions-with-new-accounts). If the previous primary contact is no longer with the institution/entity, the subscription will need to be removed from that account in the CustomersDot as well.
 
 ##### Step 3: Sending the Quote and final steps
 
-- [Send the quote to the member](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications) and [submit the opportunity for approval](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications) as described in [Phase 2: Booking](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#phase-2-booking).
+- [Send the quote to the member](/handbook/marketing/developer-relations/community-programs/community-program-applications) and [submit the opportunity for approval](/handbook/marketing/developer-relations/community-programs/community-program-applications) as described in [Phase 2: Booking](/handbook/marketing/developer-relations/community-programs/community-program-applications/#phase-2-booking).
 - The renewed license will become active only after the original expires (even if the renewal quote is approved before that).
 
 #### Quotes for Expired Renewal Requests
@@ -472,12 +472,12 @@ A program member may out to renew a license that is already expired. In this cas
 1. Click Save.
 
 ##### Creating the Quote    
-Follow [Step 3: Create a new Quote](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#step-3-create-a-new-quote) with the **exception**:
+Follow [Step 3: Create a new Quote](/handbook/marketing/developer-relations/community-programs/community-program-applications/#step-3-create-a-new-quote) with the **exception**:
 1. For any expired renewals, the *Quote Type* must be set to **new** subscription for this account. The new subscription option will set the start day to the present day rather than back date to when the license expired.
 1. **Generate a new subscription quote** for the correct product and seat count
 1. Proceed with the regular renewal process
 
-Note: Remember to [close out expired renewals](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/common-tasks/#closing-expired-renewals-in-salesforce).
+Note: Remember to [close out expired renewals](/handbook/marketing/developer-relations/community-programs/community-program-applications/common-tasks/#closing-expired-renewals-in-salesforce).
 
 If this process is not followed for an expired renewal, the Program Manager processing the renewal will likely get a ping from sales support indicating that the quote cannot be processed due to the expired renewal. Please follow this process to avoid confusion with the program member and with sales support.
 

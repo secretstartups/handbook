@@ -102,11 +102,11 @@ The Data Directory is designed to provide quick access to / better organize key 
 **MARKETING**
 <details>
   <summary markdown="span">About Marketing</summary>
-  [Handbook Page](https://about.gitlab.com/handbook/marketing/)
+  [Handbook Page](/handbook/marketing/)
   <br>
-  [Field Marketing](https://about.gitlab.com/handbook/marketing/field-marketing/)
+  [Field Marketing](/handbook/marketing/field-marketing/)
   <br>
-  [Marketing Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/)
+  [Marketing Operations](/handbook/marketing/marketing-operations/)
   <br>
   [All-Remote Marketing](/handbook/ceo/chief-of-staff-team/workplace/)
 </details>
@@ -255,13 +255,13 @@ Here is a reference for the Data Program Teams meeting series, subject DRIs, and
 
 | **TEAM** | **PRIMARY PARTNERS** | **PRIMARY SLACK CHANNEL** | **MEETING CADENCE** | **DATA DRI** | 
 | :--------------- | :--------------- | :--------------- | :--------------- | :--------------- | 
-| [**Marketing**](https://about.gitlab.com/handbook/marketing/) |  |  |  |  |  |  |
-| [Marketing - Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/) |  | [#marketing-data-ops](https://gitlab.slack.com/archives/C017D7P3Q72) | Bi-weekly |  | 
-| [Marketing - Strategy & Performance](https://about.gitlab.com/handbook/marketing/strategy-performance/) | @degan, @jahye1, @rkohnke | [#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A) |  |  |
+| [**Marketing**](/handbook/marketing/) |  |  |  |  |  |  |
+| [Marketing - Operations](/handbook/marketing/marketing-operations/) |  | [#marketing-data-ops](https://gitlab.slack.com/archives/C017D7P3Q72) | Bi-weekly |  | 
+| [Marketing - Strategy & Performance](/handbook/marketing/strategy-performance/) | @degan, @jahye1, @rkohnke | [#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A) |  |  |
 | Marketing - SDR |  |  |  |  | 
 | Marketing - Field |  |  |  |  | 
 | Marketing - Corporate |  |  |  |  | 
-|   [Marketing - Campaigns / Demand Gen](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/) | @jgragnola | |  |  | 
+|   [Marketing - Campaigns / Demand Gen](/handbook/marketing/demand-generation/campaigns/) | @jgragnola | |  |  | 
 | Marketing - Digital Experience |  |  | 
 | Marketing - Developer Relations |  |  |  
 | Marketing - Portfolio |  |  | 
@@ -275,7 +275,7 @@ Here is a reference for the Data Program Teams meeting series, subject DRIs, and
 | Sales - Field Operations |  |  | 
 | |  |  |  |  |  
 | [**Product**](/handbook/product/) |  |  |  |  |  
-| [Growth](https://about.gitlab.com/handbook/marketing/growth/) | @s_awezec  | [#s_growth](https://gitlab.slack.com/archives/CDLCBGEDV) | Monthly x-functional series |  |
+| [Growth](/handbook/marketing/growth/) | @s_awezec  | [#s_growth](https://gitlab.slack.com/archives/CDLCBGEDV) | Monthly x-functional series |  |
 | [Product Data Insights](/handbook/product/product-analysis/) | @cbraza | [#data](https://gitlab.slack.com/archives/C8D1LGC23) | Weekly (team meeting), Bi-weekly (office hours), X-functional series |  |
 | |  |  |  |  |  
 | **Engineering** |  |  |  |  |  |  |

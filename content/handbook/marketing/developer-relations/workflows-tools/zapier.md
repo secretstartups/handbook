@@ -35,7 +35,7 @@ List of Zaps that are enabled on the [Developer Relations folder](https://zapier
 | [Developer Relations MR Updates](https://zapier.com/app/editor/92097020) | All merged MRs with `Developer Relations` label posted to #developer-relations Slack channel | GitLab.com, Slack |  
 | [GitLab Swag Store](https://zapier.com/app/editor/18836033) | GitLab store order to Printfection order | Printfection, Shopify |
 | [Student Spotlights Application Alerts](https://zapier.com/app/editor/90643179) | Student Spotlights form submission notifications to `#student-spotlights-applications` Slack channel | Google forms/sheets, Slack | 
-| [Post new Blogs to the GitLab forum](https://zapier.com/app/editor/148450001) | GitLab blog post is posted as [a new forum topic](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/#gitlab-blog-forum-bot) | about.gitlab.com/blog, Discourse | 
+| [Post new Blogs to the GitLab forum](https://zapier.com/app/editor/148450001) | GitLab blog post is posted as [a new forum topic](/handbook/marketing/developer-relations/workflows-tools/#gitlab-blog-forum-bot) | about.gitlab.com/blog, Discourse | 
 
 #### Zaps for Developer Evangelism 
 

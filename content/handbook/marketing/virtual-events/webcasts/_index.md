@@ -20,16 +20,16 @@ twitter_creator: "@gitlab"
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23B39DDB&amp;ctz=America%2FLos_Angeles&amp;src=Z2l0bGFiLmNvbV9uMnNibXZmMjlqczBzM3BiM2ozaHRwa3FmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Z2l0bGFiLmNvbV8xOGVqOHN0NmlxajZpYXB1NTNrajUzNHBsa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%239E69AF&amp;color=%23009688&amp;title=All%20GitLab%20Virtual%20Events&amp;showCalendars=1" style="border:solid 1px #777" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
 </figure>
 
-[See calendar glossary here](https://about.gitlab.com/handbook/marketing/virtual-events/#calendar-glossary)
+[See calendar glossary here](/handbook/marketing/virtual-events/#calendar-glossary)
 
 # Overview
 {: #overview .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 There are four types of GitLab-hosted webcasts and workshops using the Zoom webcast license and On24, with differing DRIs depending on the webcast goal and owner.
 
-* **[Top-Funnel Campaign Webcasts](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#campaign-webcasts):** goal is net new customer acquisition, managed by Campaign Managers in **On24**, aligned to use cases amd overarching campaign themes to drive MQLs in target accounts
-* **[Partner Webcasts](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#partner-webcasts):** goal is net new customer acquisition, managed by Partner Marketing in **On24**, teaming with Partners to drive registration together
-* **[Virtual Workshops](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#virtual-workshops):** goal is to increase conversion/velocity of MQLs to SAO, and/or SAO to Closed Won, using hands-on labs with demo environment, capped registration, managed by Field Marketing in **Zoom**
+* **[Top-Funnel Campaign Webcasts](/handbook/marketing/virtual-events/webcasts/#campaign-webcasts):** goal is net new customer acquisition, managed by Campaign Managers in **On24**, aligned to use cases amd overarching campaign themes to drive MQLs in target accounts
+* **[Partner Webcasts](/handbook/marketing/virtual-events/webcasts/#partner-webcasts):** goal is net new customer acquisition, managed by Partner Marketing in **On24**, teaming with Partners to drive registration together
+* **[Virtual Workshops](/handbook/marketing/virtual-events/webcasts/#virtual-workshops):** goal is to increase conversion/velocity of MQLs to SAO, and/or SAO to Closed Won, using hands-on labs with demo environment, capped registration, managed by Field Marketing in **Zoom**
 
 ## Campaign Webcasts
 {: #campaign-webcasts .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -158,20 +158,20 @@ Partner webcasts are managed and moderated by Partner Marketing, working closely
 * Create the copy for the invite emails, and determine how many invite emails will be sent pre-webcast. 
   + Campaign Manager and Partner marketing: reviews emails before sending*
 * Within the main issue of the webcast, identify the target audience, previous campaigns, and previous events for the lead list for the invitation emails.
-* Campaign Manager is responsible for setting up [calendar invites for kick-off call, content reviews, dry run and webcast](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#step-1-configure-webex)
+* Campaign Manager is responsible for setting up [calendar invites for kick-off call, content reviews, dry run and webcast](/handbook/marketing/virtual-events/webcasts/#step-1-configure-webex)
 
 **Step 2: Pre-webcast work** 
 * If applicable, work with digital marketing (paid advertising), Campaign Manager on where the budget coming for paid advertising will come from.
   + *Provide guidance on targeting which includes but is not limited to job titles to target and twitter accounts and hashtags recommended.*
 * Set up SDR outreach issue with SDR outreach template in the Product Marketing Board.
-  + *Tag [global SDR managers and SDR enablement manager](https://about.gitlab.com/handbook/marketing/sales-development/)*
+  + *Tag [global SDR managers and SDR enablement manager](/handbook/marketing/sales-development/)*
   + *Post the issue in the #sdr_global slack channel for visibility* 
-* Work with Campaign Manager to set up organic social promotion with the [social marketing team](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/).
+* Work with Campaign Manager to set up organic social promotion with the [social marketing team](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/).
 
 **Step 3: Executing the webcast**
 * Campaign Manager acts as the project manager and the moderator for the webcast
   + *Make sure the slides and that the webcast is made available as on-demand asset post webcast*
-* If applicable, [set up a swag link](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-appreciation/) to give to the partner presenter as a thank you.
+* If applicable, [set up a swag link](/handbook/marketing/developer-relations/contributor-success/community-appreciation/) to give to the partner presenter as a thank you.
 
 **Step 4: Post-event follow up**
 * Work with the Campaign Manager on the follow up email for attendees and no shows of the webcast. The follow-up email(s) should be prepped and ready to go (minus links to the recording) 48 hours prior to the live event. The following is minimum guidance for what should be included in the follow-up email:
@@ -187,14 +187,14 @@ Partner webcasts are managed and moderated by Partner Marketing, working closely
 ## Webcasts
 {: #field-abm-webcasts .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- For details on how the Field Marketing team runs Hosted Webcasts, please review [this page](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#webcasts-1).
+- For details on how the Field Marketing team runs Hosted Webcasts, please review [this page](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#webcasts-1).
 
 ## Virtual Workshops
 {: #field-workshops .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 Virtual Workshops are managed and moderated by Field Marketing, working closely with Solution Architects and other GitLab team members, with partial technical setup by Campaign Managers.  
 
-For details regarding Virtual Workshops, please visit the [Field Marketing Page](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshops-1).
+For details regarding Virtual Workshops, please visit the [Field Marketing Page](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshops-1).
 
 # Best Practices
 {: #webcast-best-practices .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -212,7 +212,7 @@ For details regarding Virtual Workshops, please visit the [Field Marketing Page]
 9. Send the recording to all registrants, whether they attended or not within 48 hours post webcast.
 10. Review Zoom's guide on [in person chat](https://support.zoom.us/hc/en-us/articles/203650445-In-Meeting-Chat) which explains the various ways you can utilize the chat feature.
 
-Review GitLab's general [virtual events best practices](https://about.gitlab.com/handbook/marketing/virtual-events/#best-practices) for additional suggestions on how to make your virtual event a success. 
+Review GitLab's general [virtual events best practices](/handbook/marketing/virtual-events/#best-practices) for additional suggestions on how to make your virtual event a success. 
 
 ## Speaker Approval
 {: #webcast-speaker-approval .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -314,7 +314,7 @@ Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom li
 
 * [On24 rollout session recording](https://youtu.be/5ioBk6h_dP0)
 * [On24 rollout session slides](https://docs.google.com/presentation/d/1Iyw8XjrkmFpiLvehjqMr4TUSJ4qmjHBFGs0HZ0bZcRI/edit#slide=id.g139e148a631_0_188)
-* [Dedicated On24 handbook page](https://about.gitlab.com/handbook/marketing/marketing-operations/on24/)
+* [Dedicated On24 handbook page](/handbook/marketing/marketing-operations/on24/)
 * [On24 Support Portal](https://on24support.force.com/Support/s/article/ON24-Contact-Support)
 * [On24 Knowledge Center](https://on24support.force.com/Support/s/knowledge)
 
@@ -362,7 +362,7 @@ Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom li
     * There is limited editing capabilities within Zoom. In the confirmation email you can add a snippet of text after the templatized body text and the footer of the email can be edited. In the reminder email, only the footer can be edited.
 12. *Optional* **HEADER IMAGE**: If applicable, click on branding and update the header.
 13. *Optional* **POLLING**: If applicable, add polling questions to the webcast by following the instructions in the video below. Note there is a character limit on poll answer options of 40 characters.
-14. **WATCH ATTENDEE MAX**: In advance of the webcast going live, if you notice that the number of attendees may go over our current max [listed here](https://about.gitlab.com/handbook/marketing/virtual-events/#zoom-capabilities) for Zoom Webcast, please open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues) for IT Ops, as [IT Ops owns the operations of Zoom](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). 
+14. **WATCH ATTENDEE MAX**: In advance of the webcast going live, if you notice that the number of attendees may go over our current max [listed here](/handbook/marketing/virtual-events/#zoom-capabilities) for Zoom Webcast, please open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues) for IT Ops, as [IT Ops owns the operations of Zoom](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). 
 
 **Adding poll questions to a webcast**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QIrRcUIYEwo?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -388,7 +388,7 @@ Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom li
 1. In the Marketo program Summary view, you will see `Event Partner:` with a link that says "not set".
 1. Click on "not set"
 1. In the Event Partner drop down, select `Zoom` and in the Login drop down, select `Zoom Webcast`.
-1. In the Event drop-down, select the name of the Zoom webcast you set up in [Step 1: Configure Zoom](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#step-1-configure-zoom)
+1. In the Event drop-down, select the name of the Zoom webcast you set up in [Step 1: Configure Zoom](/handbook/marketing/virtual-events/webcasts/#step-1-configure-zoom)
 
 #### Create campaign in Salesforce - Zoom
 {: #zoom-sfdc-campaign} <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -617,7 +617,7 @@ This is considered a complex set-up. It is recommended that you engage Marketing
 ### Step 4: Add the webcast to the /events page
 {: #zoom-add-events-page} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-*  To add the webcast to the /events page follow this [step by step guide](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents).
+*  To add the webcast to the /events page follow this [step by step guide](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents).
 
 ### Step 5: Test your set up
 {: #zoom-testing} <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -639,7 +639,7 @@ This is considered a complex set-up. It is recommended that you engage Marketing
    * Make sure the video is set as `Unlisted` so only people with the URL to the video can find it
    * In YouTube Studio, navigate to the bottom of the page to expand the `Show More` option and check the box for `allow embedding`
 1. **YouTube**: Once the recording has been uploaded, copy the video link on the right
-1. **Pathfactory**: Login to PathFactory and add the copied youtube link to Pathfactory as new content by following the instructions outlined [here](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#issue-templates).
+1. **Pathfactory**: Login to PathFactory and add the copied youtube link to Pathfactory as new content by following the instructions outlined [here](/handbook/marketing/marketing-operations/pathfactory/#issue-templates).
 1. **Marketo**: Navigate to the webcast program and update the following My Tokens
    * Update the `formButtonCopy` token to be `Watch now`
    * Update the `formHeaderCopy` token to be `Watch the webcast today`
@@ -707,10 +707,10 @@ In the event you need to change the date of your webcast, please follow the step
 3. Update the webcast date on the [FY21 webcast planning issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2300).
 4. Update the webcast epic and subsequent issues so the new date is reflected on the title and issue due dates are updated based on the new timeline. *Field/Corporate DRI make sure to change the date in the Field/Corporate Marketing issue and adjust date in the Budget Document.*
 5. Leave a comment on the epic stating the event has been rescheduled and tag all internal panelists and hosts.
-6. If webcast is on the Events Page, [submit MR](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) to change the date.
+6. If webcast is on the Events Page, [submit MR](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) to change the date.
 7. Go to marketo, send a webcast reschedule email to all registrants, telling them they will be receiving a new email with the new join link from zoom shortly (this will be covered in step 11). See example reschedule email [here](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#bookmark=id.eqjyly5at0fb).
 8. Create a new zoom program with the new webcast date/time following the steps outlined in [the section above](https://about.gitlab.comhandbook/marketing/virtual-events/webcasts/#step-1-configure-zoom).
-9. Create a new marketo program with the new webcast date/time following the steps outlined in [the section above](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#step-2-set-up-the-webcast-in-marketosfdc-and-integrate-to-webex) minus the create new campaign in SFDC step since we will be syncing to the existing SFDC program in a later step (step 14).
+9. Create a new marketo program with the new webcast date/time following the steps outlined in [the section above](/handbook/marketing/virtual-events/webcasts/#step-2-set-up-the-webcast-in-marketosfdc-and-integrate-to-webex) minus the create new campaign in SFDC step since we will be syncing to the existing SFDC program in a later step (step 14).
 10. Move the landing page from the Marketo program with old webcast date/time to the newly created marketo program with new webcast date/time.
 11. Move the registrants from the Marketo program with old webcast date/time to the newly created marketo program with new webcast date/time by running a one time bulk update on the `(Optional: for rescheduled webcast only) Import registrants from old program` smart campaign. Doing this will also re-trigger the confirmation email to existing registrants.
 12. Remove the SFDC campaign sync on the Marketo program with old webcast date/time by clicking salesforce campaign sync and selecting `None`.
@@ -728,7 +728,7 @@ In the event you need to cancel your webcast, please follow the steps outlined b
 2. Add [Cancelled] to the webcast epic and subsequent issues title then close it out. *Field/Corporate DRI make sure to add [Cancelled] to the Field/Corporate issue title and close out.*
 3.  Leave a comment on the epic stating the event has been canceled and tag all internal panelists and hosts.
 4. Field/Corporate DRI to cancel the line item on the Budget Document.
-5. If webcast is on the Events Page, [submit MR](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) to remove.
+5. If webcast is on the Events Page, [submit MR](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) to remove.
 6. Go to the Marketo program, configure and send a webcast cancellation email to all registrants. *To be added: example cancellation email.*
 7. In the Marketo program, deactivate all active smart campaigns and append [Cancelled] to the program name.
 8. Go to Salesforce, append [Cancelled] to the SFDC campaign name.
@@ -1008,7 +1008,7 @@ In the event you need to cancel your webcast, please follow the steps outlined b
 ### Add the webcast to the /events/ and /resources/ pages
 {: #on24-webpage-listings} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-*  To add the webcast to the /events/ page follow this [step by step guide](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents).
+*  To add the webcast to the /events/ page follow this [step by step guide](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents).
 *  To add the webcast to the /resources/ page follow this [step by step guide](/https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/content-in-campaigns/#add-to-resources-page).
 
 ### ON24 Webcast Testings / QA
@@ -1025,13 +1025,13 @@ Submit a test lead using your GitLab email on the LIVE landing page to make sure
 ON24 will automatically convert the video to on-demand in the ON24 platform. The steps below allow us to further leverage the webcast in Pathfactory. If you are going to drive to On24 directly for On-demand viewing (such as for large corporate events), skip to the instructions below starting at `Using On24 for On-Demand Viewing`.
 
 1. **Vimeo**: vimeo provides an ads free user expierence, therefore should be primary video platform used for on-demand recording uploads. To request an upload, open [an issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=upload-request) with Digital Production Team.
-   - Instructions on uploading Vimeo videos to Pathfactory can be found [here](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/content-library/#vimeo-links)
+   - Instructions on uploading Vimeo videos to Pathfactory can be found [here](/handbook/marketing/marketing-operations/pathfactory/content-library/#vimeo-links)
 1. **YouTube**: upload the recording to our main GitLab channel:
    * Fill in the title with the webcast title matching the Marketo token (`{{my.webcastTitle}}`)
    * Fill in the description with the short description matching the Marketo tokens (`{{my.contentDescription}}`)
    * Make sure the video is set as `Unlisted` so only people with the URL to the video can find it
 1. **YouTube**: Once the recording has been uploaded, copy the video link on the right
-1. **Pathfactory**: Login to PathFactory and add the YouTube or Vimeo link to Pathfactory as new content by following the instructions outlined [here](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory).
+1. **Pathfactory**: Login to PathFactory and add the YouTube or Vimeo link to Pathfactory as new content by following the instructions outlined [here](/handbook/marketing/marketing-operations/pathfactory).
 
 #### Converting the webcast to an On-Demand gated asset - On24
 {: #zoom-on-demand-switch} <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -1041,7 +1041,7 @@ ON24 will automatically convert the video to on-demand in the ON24 platform. The
 1. **Vimeo**: Upload the recording to Vimeo
    * Fill in the title with the webcast title matching the Marketo token (`{{my.webcastTitle}}`)
    * Fill in the description with the short description matching the Marketo tokens (`{{my.contentDescription}}`)
-1. **Vimeo**: Once the recording has been uploaded, copy the video embed link in Vimeo. Instructions on adjusting the privacy settings of your video to embed in specific domains like Pathfactory can be found [here](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/content-library/#vimeo-links)
+1. **Vimeo**: Once the recording has been uploaded, copy the video embed link in Vimeo. Instructions on adjusting the privacy settings of your video to embed in specific domains like Pathfactory can be found [here](/handbook/marketing/marketing-operations/pathfactory/content-library/#vimeo-links)
 1. **Pathfactory**: Login to PathFactory and add the copied Vimeo link to Pathfactory as new content by following the instructions outlined [here](https://support.pathfactory.com/kb/add-content/).
 1. **Marketo**: Navigate to the webcast program and update the following My Tokens
    * Update the `formButtonCopy` token to be `Watch now`
@@ -1174,7 +1174,7 @@ The process is very similar to rescheduling.
 1. In the Marketo program Summary view, you will see `Event Partner:` with a link that says "not set".
 1. Click on "not set"
 1. In the Event Partner drop down, select `WebEx` and in the Login drop down, select `WebEx API`.
-1. In the Event drop-down, select the name of the WebEx webcast you set up in [Step 1: Configure WebEx](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#step-1-configure-webex)
+1. In the Event drop-down, select the name of the WebEx webcast you set up in [Step 1: Configure WebEx](/handbook/marketing/virtual-events/webcasts/#step-1-configure-webex)
 
 #### Create campaign in Salesforce - WebEx
 
@@ -1289,11 +1289,11 @@ If additional assistance is required, please comment in the [#marketing_programs
    
 
 ### Step 4: Add the webcast to the /events page
-*  To add the webcast to the /events page follow this [step by step guide](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents).
+*  To add the webcast to the /events page follow this [step by step guide](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents).
 
 ### Step 5: Test your set up
 
 1. Submit a test lead using your gitlab email on the LIVE landing page to make sure the registration is tracked appropriately in the Marketo program and you get a confirmation email. * Check and test the registration confirmation email. Do not forget to update the `Add to calendar` token and the email values for the Google calendar in the Registration Confirmation, Reminder 1 and Reminder 2.*
 
 ### Live Webcasts - ON24
-TBD - WIP - Go to [ON24](https://about.gitlab.com/handbook/marketing/marketing-operations/on24) page for more information.
+TBD - WIP - Go to [ON24](/handbook/marketing/marketing-operations/on24) page for more information.

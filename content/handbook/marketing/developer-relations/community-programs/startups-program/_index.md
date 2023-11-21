@@ -72,4 +72,4 @@ $20 million in funding.
  * If you have any additional questions regarding this program, feel free to reach us at startups@gitlab.com.
 
 Program application page: https://about.gitlab.com/solutions/startups/join/
-#### Startup Program [FAQ](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/startups-program/startups-program-faq/)
+#### Startup Program [FAQ](/handbook/marketing/community-relations/community-programs/startups-program/startups-program-faq/)

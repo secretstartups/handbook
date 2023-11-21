@@ -53,7 +53,7 @@ The combined score of all three criteria categories determines a tool's tier:
 
 ## List of Tools by Tier
 
-A list of tools in the marketing technology stack can be found [here](https://about.gitlab.com/handbook/marketing/marketing-operations/#-marketing-technology-stack).
+A list of tools in the marketing technology stack can be found [here](/handbook/marketing/marketing-operations/#-marketing-technology-stack).
 
 
 ## Roles and Responsibilities 

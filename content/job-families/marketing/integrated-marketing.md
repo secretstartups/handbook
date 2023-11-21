@@ -43,8 +43,8 @@ The next step in the Demand Generation job family is not yet defined at GitLab.
 
 ## Performance Indicators
 
-- [Net new business pipeline created ($'s) v plan > 1](https://about.gitlab.com/handbook/marketing/revenue-marketing/#revenue-marketing-kpi-definitions)
-- [Total number of  Marketo Qualified Leads by month](https://about.gitlab.com/handbook/marketing/revenue-marketing/#revenue-marketing-kpi-definitions)
+- [Net new business pipeline created ($'s) v plan > 1](/handbook/marketing/revenue-marketing/#revenue-marketing-kpi-definitions)
+- [Total number of  Marketo Qualified Leads by month](/handbook/marketing/revenue-marketing/#revenue-marketing-kpi-definitions)
 
 ## Hiring Process
 

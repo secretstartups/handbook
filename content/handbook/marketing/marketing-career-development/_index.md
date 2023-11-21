@@ -58,10 +58,10 @@ Know how to read and interpret the marketing analytics GitLab’s marketing team
 - [Leading Projects](https://www.linkedin.com/learning/leading-projects/project-management-simplified?u=2255073)
 
 ### Marketing Campaigns 
-- [Understand GitLab GTM Plans, Motions and Use Cases](https://about.gitlab.com/handbook/marketing/plan-fy23/)
-- [What is Demand Generation at GitLab](https://about.gitlab.com/handbook/marketing/demand-generation/)
+- [Understand GitLab GTM Plans, Motions and Use Cases](/handbook/marketing/plan-fy23/)
+- [What is Demand Generation at GitLab](/handbook/marketing/demand-generation/)
 - [Email marketing from Tanuki Tech](https://gitlab.com/gitlab-com/marketing/sdr/-/issues/628) 
-- [Demand Generation metrics](https://app.periscopedata.com/app/gitlab/793304/Demand-Gen-Dashboard) [and how to understand the data](https://about.gitlab.com/handbook/marketing/demand-generation/#dashboard-metrics)
+- [Demand Generation metrics](https://app.periscopedata.com/app/gitlab/793304/Demand-Gen-Dashboard) [and how to understand the data](/handbook/marketing/demand-generation/#dashboard-metrics)
 - [Mastering Digital Marketing](https://www.linkedin.com/learning/paths/master-digital-marketing?u=2255073)
 - [Connecting with Customers Online](https://www.linkedin.com/learning/digital-marketing-foundations/connecting-with-customers-online?u=2255073)
 - [Building an Integrated Online Marketing Plan](https://www.linkedin.com/learning/building-an-integrated-online-marketing-plan/welcome?u=2255073)
@@ -75,10 +75,10 @@ Know how to read and interpret the marketing analytics GitLab’s marketing team
 
 ### Systems
 - [Allocadia training](https://drive.google.com/file/d/1zjl1VATgCZEd4EojWcpcC_9D2kljz92S/view) 
-- [Allocadia handbook page](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/)
-- [Marketo](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/)
-- [PathFactory](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/)
-- [LeanData](https://about.gitlab.com/handbook/marketing/marketing-operations/leandata/)
-- [Sigstr](https://about.gitlab.com/handbook/marketing/marketing-operations/terminus-email-experiences/)
-- [Outreach](https://about.gitlab.com/handbook/marketing/marketing-operations/outreach/)
+- [Allocadia handbook page](/handbook/marketing/strategy-performance/allocadia/)
+- [Marketo](/handbook/marketing/marketing-operations/marketo/)
+- [PathFactory](/handbook/marketing/marketing-operations/pathfactory/)
+- [LeanData](/handbook/marketing/marketing-operations/leandata/)
+- [Sigstr](/handbook/marketing/marketing-operations/terminus-email-experiences/)
+- [Outreach](/handbook/marketing/marketing-operations/outreach/)
 - [Salesforce](https://trailhead.salesforce.com/en/content/learn/trails/getting_started_crm_basics) (Trailhead with Classic UI, but more admin level details)

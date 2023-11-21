@@ -32,7 +32,7 @@ The objective of this process is to reduce the SLA for list imports to a minimum
 **Step 1 - Before the import**
 {: .alert .alert-info}
 
-At time of upload, a program should already exist in `Marketo` . Campaigns are to be created by the campaign owner. For a running list of program templates, go [here](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#how-to-clone-the-marketo-program).
+At time of upload, a program should already exist in `Marketo` . Campaigns are to be created by the campaign owner. For a running list of program templates, go [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#how-to-clone-the-marketo-program).
 
 Make sure that the campaign's `tokens` are filled in, which are found under the `My Tokens` tab in the main campaign. `Tokens` are used via `Smart Campaigns` to apply `Last Interesting Moments` to all leads whom appear in the campaign. The minimum `tokens` that should be used relate to the campaign's `Event Name`, `Event Date` and `Landing Page URL`. Without these filled out, `Last Interesting Moments` will fill in permanently `blank`. This does not mean your upload will fail or not complete. It just means in the LIM field you will see blank datapoints, for example: `Attended {{my.event name}}, which starts on {{my.event date}}. Location: {{my.event location}}` instead of `Attended Developer Conference, which starts on May 29, 2022, Location: San Francisco`.
 
@@ -46,7 +46,7 @@ Go to the import template [Google Sheet](https://docs.google.com/spreadsheets/d/
 <details>
   <summary markdown="span"> Click to expand screenshot</summary>
 
-![ALT](https://about.gitlab.com/handbook/marketing/marketing-operations/automated-list-import/images/make-a-copy.png)
+![ALT](/handbook/marketing/marketing-operations/automated-list-import/images/make-a-copy.png)
 
 </details>
 
@@ -58,7 +58,7 @@ After you populated your spreadsheet with lead data, Download the leads tab as a
 <details>
   <summary markdown="span">Click  to expand screenshot</summary>
 
-![Download CSV](https://about.gitlab.com/handbook/marketing/marketing-operations/automated-list-import/images/download-csv.png)
+![Download CSV](/handbook/marketing/marketing-operations/automated-list-import/images/download-csv.png)
 
 </details>
 
@@ -83,7 +83,7 @@ After you populated your spreadsheet with lead data, Download the leads tab as a
 <details>
   <summary markdown="span"> Click to expand screenshot</summary>
 
-![Slack alert](https://about.gitlab.com/handbook/marketing/marketing-operations/automated-list-import/images/slack-alert-import.png)
+![Slack alert](/handbook/marketing/marketing-operations/automated-list-import/images/slack-alert-import.png)
 
 </details>
 
@@ -101,7 +101,7 @@ Pubsec field marketers need to use `List Upload Complete - PubSec` label on eith
 <details>
   <summary markdown="span"> Click to expand screenshot</summary>
 
-![Report status column](https://about.gitlab.com/handbook/marketing/marketing-operations/automated-list-import/images/report-status.png)
+![Report status column](/handbook/marketing/marketing-operations/automated-list-import/images/report-status.png)
 
 </details> 
   
@@ -184,17 +184,17 @@ The following data cleanup is required for any list prior to sending it to the M
 
 1. `Zip Codes` contain five (5) numbers, States in US East may start with a `0`, make sure the `Zip/Postal Code` field is **plain text** and the leading `0` appears.
 
-1. Member Statuses must match exactly to the program type and member status [listed](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status). If you are updating the member status for an event where we collected registrations through a form, you must include both `No Show` and `Attended` records.
+1. Member Statuses must match exactly to the program type and member status [listed](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status). If you are updating the member status for an event where we collected registrations through a form, you must include both `No Show` and `Attended` records.
 
 1. If list contains non-Latin characters (ex. Asian languages), it must be uploaded to Marketo using UTF-8 and UTF-16. [Marketo instructions here](https://docs.marketo.com/display/public/DOCS/Import+a+Non-Latin+Characters+List). Salesforce Data Loader requires UTF-8 encoding, [instructions here](https://help.salesforce.com/articleView?id=faq_import_dataloader_specialchars.htm&type=5).
 
 1. If there are notes added to the `Last Event Notes` column, add the `SFDC campaign name` to the column titled `Last Event SFDC Campaign Name` for each lead that has notes. If there are no notes for that lead, do not add anything to either column. This column is used to automatically move notes to the `Qualification Notes` field found on lead and contact pages in Salesforce. That field is not overridden like the `Last Event Notes` field and it's where we can keep the notes for much longer.
 
-- Use the correct member statuses based on the definitions and type [here](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status). They must be exact matches, no abbreviations.
+- Use the correct member statuses based on the definitions and type [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status). They must be exact matches, no abbreviations.
 
 - Format of the import file has to be CSV. Any other type of import will cause an error and a message tagging the file owner on slack will alert of this issue.
 
-- Record ownership will be assigned using established lead routing, which is [controlled by Traction Complete](https://about.gitlab.com/handbook/marketing/marketing-operations/traction-lead-complete/)
+- Record ownership will be assigned using established lead routing, which is [controlled by Traction Complete](/handbook/marketing/marketing-operations/traction-lead-complete/)
 
 - In order to mark leads as `Opt-in = TRUE`, a record of the terms and conditions the leads agreed to upon having their data collected must be recorded. Check the `terms of service` wording has been recorded in the upload issue **before** opting in leads to receive marketing communications. No ToS, no `Opt-in`. Period. To find the appropriate language, refer to [Marketing Rules and Consent Language](https://about.gitlab.com/handbook/legal/marketing-collaboration/#marketing-rules-and-consent-language)
 
@@ -215,7 +215,7 @@ The following data cleanup is required for any list prior to sending it to the M
 | Country                | Yes                                       | See values [here](#reference-values-for-picklists)                                                                                        | Missing this value will result in an **error**                                                                                                                                                                                                                          |
 | Campaign Member Status | Yes                                       | See values [here](#reference-values-for-picklists)                                                                                        | This will determine the status in the Marketo Program                                                                                                                                                                                                                   |
 | Label as Opt-In?       | No                                        | Yes/No or True/False                                                                                                                      | Leave blank if no option is provided                                                                                                                                                                                                                                    |
-| CRM Partner ID         | No                                        | You can find a list of these IDs [here](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids) | If this import is a part of a joint event with partners, you must include the CRM Partner ID as a column in your list upload. You can find a list of these IDs [here](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids) |
+| CRM Partner ID         | No                                        | You can find a list of these IDs [here](/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids) | If this import is a part of a joint event with partners, you must include the CRM Partner ID as a column in your list upload. You can find a list of these IDs [here](/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids) |
 
 ## Reference values for picklists
 

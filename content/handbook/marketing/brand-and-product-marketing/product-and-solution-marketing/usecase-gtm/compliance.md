@@ -319,7 +319,7 @@ Many great opportunities will not entirely fit this ideal profile. An ideal cust
 
 ### References to help you close
 
-[SFDC report of referenceable secure customers](https://gitlab.my.salesforce.com/a6l4M000000kDw2) Note: Sales team members should have access to this report. If you do not have access, reach out to the [customer reference team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact) for assistance.
+[SFDC report of referenceable secure customers](https://gitlab.my.salesforce.com/a6l4M000000kDw2) Note: Sales team members should have access to this report. If you do not have access, reach out to the [customer reference team](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact) for assistance.
 
 ## Assets to share
 
@@ -366,8 +366,8 @@ GitLab offers a [variety of pre-packaged and custom services](https://about.gitl
 ## Resources
 
 ### Clickthrough & Live Demos
-- [All Marketing Click Through Demos](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#click-throughs)
-- [All Marketing Live Demos](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#live-instructions)
+- [All Marketing Click Through Demos](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#click-throughs)
+- [All Marketing Live Demos](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#live-instructions)
 
 ### Roadmap
 - [Manage Direction](https://about.gitlab.com/direction/manage/)

@@ -16,7 +16,7 @@ title: "Sacha Persona snippets"
 **Overview**
 - description
 
-#### [VC&C use case](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/#personas)
+#### [VC&C use case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/#personas)
 
 ##### SDR Discovery Questions
 
@@ -26,7 +26,7 @@ title: "Sacha Persona snippets"
 
 - ...
 
-#### [CI use case](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#personas)
+#### [CI use case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#personas)
 
 ##### SDR Discovery Questions
 
@@ -45,7 +45,7 @@ title: "Sacha Persona snippets"
 - A complete platform for automating each step of your SDLC, GitLab CI enables you to spend more time writing code, innovating, and creating lovable features that end up providing value to your customers
 
 
-#### [CD use case](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/#personas)
+#### [CD use case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/#personas)
 
 ##### SDR Discovery Questions
 
@@ -55,7 +55,7 @@ title: "Sacha Persona snippets"
 
 - ...
 
-#### [DevSecOps use case](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#personas)
+#### [DevSecOps use case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#personas)
 
 ##### SDR Discovery Questions
 

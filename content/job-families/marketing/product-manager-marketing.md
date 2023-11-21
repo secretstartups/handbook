@@ -9,7 +9,7 @@ The Product Manager - Marketing Job Family educates people on the entire [DevOps
 
 ### Product Manager - Marketing (Intermediate)
 
-The Product Manager - Marketing reports to the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience), and is part of the [Digital Experience](https://about.gitlab.com/handbook/marketing/digital-experience/) team.
+The Product Manager - Marketing reports to the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience), and is part of the [Digital Experience](/handbook/marketing/digital-experience/) team.
 
 #### Product Manager - Marketing (Intermediate) Job Grade
 
@@ -84,9 +84,9 @@ The Senior Product Manager is a [grade 9](/handbook/total-rewards/compensation/c
 
 ## Performance Indicators
 
-- [Contributing to the success of Digital Experience's Quarterly Initiatives](https://about.gitlab.com/handbook/marketing/digital-experience/#okrs)
-- [Identifying and organizing epics into executable Sprint plans](https://about.gitlab.com/handbook/marketing/digital-experience/#iteration-process)
-- [Successfully completing bi-weekly Sprint tasks](https://about.gitlab.com/handbook/marketing/digital-experience/#sprint-cycle)
+- [Contributing to the success of Digital Experience's Quarterly Initiatives](/handbook/marketing/digital-experience/#okrs)
+- [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/digital-experience/#iteration-process)
+- [Successfully completing bi-weekly Sprint tasks](/handbook/marketing/digital-experience/#sprint-cycle)
 
 ## Career Ladder
 

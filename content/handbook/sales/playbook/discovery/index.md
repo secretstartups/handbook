@@ -60,7 +60,7 @@ Researching your prospect may include but is not limited to:
 #### Understand the Persona
 
 Different roles within the prospect's organization will inherently care about and be motivated by different things. Leverage the below resources to understand the challenges and motivations of the persona you are engaging.
-- [Buyer personas](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/)
+- [Buyer personas](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/)
 - [User personas](/handbook/product/personas/#user-personas)
 
 <!-- blank line -->

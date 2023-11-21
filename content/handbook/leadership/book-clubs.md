@@ -95,7 +95,7 @@ This book club was internal-only.
        the more people can attend.
 1. [Set up the meeting schedule.]({{< ref "tools-and-tips#gitlab-team-meetings-calendar" >}})
     1. Record the meetings and [post them to
-       YouTube](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/). If the participants
+       YouTube](/handbook/marketing/marketing-operations/youtube/). If the participants
        agree, make the videos public.
     1. Consider having the same section of the book covered in different
        meeting slots, to allow people in different time zones to attend.

@@ -8,7 +8,7 @@ title: "Reseller Marketing Kit"
 The information contained in this section will provide you with solid understanding of who is GitLab, what do we do and where are we going in the future.
 
 - [GitLab narrative and high-level deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/edit#slide=id.g39d65c7ce1_12_233)
-- [GitLab elevator pitch](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/)
+- [GitLab elevator pitch](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/)
 - [GitLab solutions](/solutions/)
 - [GitLab pricing](/pricing/)
     - [Value of selling GitLab Ultimate](/pricing/ultimate/)

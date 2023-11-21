@@ -21,11 +21,11 @@ description: "Contributor Success Team"
 
 ## Sub-pages
 
-| **Workflows** | [Contributor Success Contributor Workflows](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html) |
-| **Metrics** | [Contributor metrics & dashboards](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/metrics.html) |
-| **Contributing Organization Tracking** | [Contributing Organization Tracking](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker.html) |
-| **A Contributor's User Journey** | [User Journey](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/user-journey.html) |
-| **Community pairing sessions** | [Community pairing sessions](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-pairing-sessions.html) |
+| **Workflows** | [Contributor Success Contributor Workflows](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html) |
+| **Metrics** | [Contributor metrics & dashboards](/handbook/marketing/developer-relations/contributor-success/metrics.html) |
+| **Contributing Organization Tracking** | [Contributing Organization Tracking](/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker.html) |
+| **A Contributor's User Journey** | [User Journey](/handbook/marketing/developer-relations/contributor-success/user-journey.html) |
+| **Community pairing sessions** | [Community pairing sessions](/handbook/marketing/developer-relations/contributor-success/community-pairing-sessions.html) |
 
 - - -
 
@@ -85,16 +85,16 @@ through shared tooling for [automated triaging](https://about.gitlab.com/handboo
 
 #### Leading Organizations
 
-The GitLab [Leading Organizations program](https://about.gitlab.com/handbook/marketing/developer-relations/leading-organizations/) is a
-cross-functional initiative that is led by the [Contributor Success team](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/) 
-and [Developer Relations team](https://about.gitlab.com/handbook/marketing/developer-relations/). 
+The GitLab [Leading Organizations program](/handbook/marketing/developer-relations/leading-organizations/) is a
+cross-functional initiative that is led by the [Contributor Success team](/handbook/marketing/developer-relations/contributor-success/) 
+and [Developer Relations team](/handbook/marketing/developer-relations/). 
 
 The Leading Organization program supports GitLab's [mission](/handbook/company/mission/#mission) by recognizing and incentivizing
 organizations who are among our most active contributors. A company or individual
-[qualifies](https://about.gitlab.com/handbook/marketing/developer-relations/leading-organizations/#qualification) for unique benefits by
+[qualifies](/handbook/marketing/developer-relations/leading-organizations/#qualification) for unique benefits by
 reaching 20 merged merge requests or more over a trailing three full calendar month basis.
 
-See our workflows on [how to add or remove an organization](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#leading-organizations)
+See our workflows on [how to add or remove an organization](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#leading-organizations)
 to the program.
 
 ## Team Responsibilities
@@ -105,10 +105,10 @@ to the program.
 * Organize community contributors into [community teams](#gitlab-community-teams-structure) and ensure their success.
 * Track [contribution](/community/contribute/) delivery of the Community Contributors and Cohorts.
 * Nominate impactful community contributors and contributions for recognition.
-* Select and recognize a [GitLab MVP](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/mvp-process.html) for each release post
-* Collaborate closely with our [Marketing counterparts](https://about.gitlab.com/handbook/marketing/developer-relations/) and [Core team](/community/core-team/).
+* Select and recognize a [GitLab MVP](/handbook/marketing/developer-relations/contributor-success/mvp-process.html) for each release post
+* Collaborate closely with our [Marketing counterparts](/handbook/marketing/developer-relations/) and [Core team](/community/core-team/).
 * Engineering representative that can ride along with the [Developer evangelist](/job-families/marketing/developer-evangelist/).
-* Improve community recognition system and awards in collaboration with the [Developer Relations team](https://about.gitlab.com/handbook/marketing/developer-relations/).
+* Improve community recognition system and awards in collaboration with the [Developer Relations team](/handbook/marketing/developer-relations/).
 * Participate in GitLab's overall Engineering open source outreach events and processes.
 * [Triage community issues](https://about.gitlab.com/handbook/engineering/quality/issue-triage/) to be picked up by the community or GitLab team members
 * [Triage community merge requests](https://about.gitlab.com/handbook/engineering/quality/merge-request-triage/#partial-triage-gitlab-org) from the daily merge request coach report
@@ -191,7 +191,7 @@ Note: Due to the switch to GitLab's OKR system, we no longer have the ability to
 
 We have the following Performance Indicators
 
-#### [Unique Wider Community Contributors per Month](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#unique-wider-community-contributors-per-month)
+#### [Unique Wider Community Contributors per Month](/handbook/marketing/developer-relations/performance-indicators/#unique-wider-community-contributors-per-month)
 
 - Activities:
   - Partnership with Developer Relations and Technical Marketing team.
@@ -200,7 +200,7 @@ We have the following Performance Indicators
   - Allow running of QA tests from forks.
   - Shorten the CI runtime for community contributions (in forks).
 
-More details can be found in the [Unique Wider Community Contributors per Month Marketing PI section](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#unique-wider-community-contributors-per-month)
+More details can be found in the [Unique Wider Community Contributors per Month Marketing PI section](/handbook/marketing/developer-relations/performance-indicators/#unique-wider-community-contributors-per-month)
 
 #### Leading Organizations MR Time-to-review
 
@@ -209,7 +209,7 @@ More details can be found in the [Unique Wider Community Contributors per Month 
   - Hold contribution trainings.
   - Connect Leading Organization contributors with team members to incentivize a faster review cycle.
 
-More details can be found at the [Leading Organizations MR Time-to-review Quality PI section](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#leading-organizations-mr-time-to-review)
+More details can be found at the [Leading Organizations MR Time-to-review Quality PI section](/handbook/marketing/developer-relations/performance-indicators/#leading-organizations-mr-time-to-review)
 
 #### Open Community MR Age (OCMA)
 
@@ -220,7 +220,7 @@ More details can be found at the [Leading Organizations MR Time-to-review Qualit
   - Increase number of coaches
   - Partner with Engineering Productivity to provide feedback to improve contribution tooling (currently GDK).
 
-More details can be found in the [OCMA Community-Relations PI section](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#open-community-mr-age)
+More details can be found in the [OCMA Community-Relations PI section](/handbook/marketing/developer-relations/performance-indicators/#open-community-mr-age)
 
 #### MRARR
 
@@ -235,7 +235,7 @@ More details can be found in the [OCMA Community-Relations PI section](https://a
 Please see [Contributing Orgs tracker](contributing-org-tracker.html) for details how to onboard or offboard a GitLab
 account from being linked to a customer account, and being counted into the MRARR metric.
 
-More details can be found at the [MRARR Community-Relations PI section](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#mrarr)
+More details can be found at the [MRARR Community-Relations PI section](/handbook/marketing/developer-relations/performance-indicators/#mrarr)
 
 #### Community Coaches per Month
 
@@ -245,7 +245,7 @@ More details can be found at the [MRARR Community-Relations PI section](https://
   - Refresh MR coaches as “Community coaches” so non-code review work can be encouraged (design, etc)
   - Launch training materials for coaches
 
-More details can be found at the [Community Coaches per Month Community-Relations PI section](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#community-mr-coaches-per-month)
+More details can be found at the [Community Coaches per Month Community-Relations PI section](/handbook/marketing/developer-relations/performance-indicators/#community-mr-coaches-per-month)
 
 #### Community Contribution MRs as Features per Month
 
@@ -253,7 +253,7 @@ More details can be found at the [Community Coaches per Month Community-Relation
   - Encourage features at Developer Relations hackathons.
   - Published list of feature issues with Marketing team.
 
-More details can be found at the [Community Contribution MRs as Features per Month Community-Relations PI section](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#feature-community-contribution-mrs)
+More details can be found at the [Community Contribution MRs as Features per Month Community-Relations PI section](/handbook/marketing/developer-relations/performance-indicators/#feature-community-contribution-mrs)
 
 ### How do we collaborate with other teams?
 
@@ -414,7 +414,7 @@ It is your meeting and you can adapt the agenda to suit your needs.
 
 ### Recording/steaming
 
-It is recommended that you [livestream](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#livestream-with-zoom)
+It is recommended that you [livestream](/handbook/marketing/marketing-operations/youtube/#livestream-with-zoom)
 to GitLab Unfiltered and/or record the Zoom call to later upload to GitLab Unfiltered.
 
 Be sure to add the video to the `community office hours` playlist on YouTube.

@@ -116,7 +116,7 @@ Learn about our Product Leadership Team and learn about them via their personal 
 - [**Product Manager SAFE (legal) Guidance**](/handbook/product/product-safe-guidance/)
 - [**Product Operations Releases**](/handbook/product/product-operations/#product-operations-releases)
 - [**Product Pricing Model**](/handbook/company/pricing/)
-- [**Release Posts**](https://about.gitlab.com/handbook/marketing/blog/release-posts/)
+- [**Release Posts**](/handbook/marketing/blog/release-posts/)
 - [**Tiering Guidance for Features**](/handbook/product/tiering-guidance-for-features/#learning-opportunities)
 
 ### Communicating with the Product Division

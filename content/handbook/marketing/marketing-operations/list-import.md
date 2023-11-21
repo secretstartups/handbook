@@ -11,7 +11,7 @@ description: "The MktgOps team is responsible for importing records into Marketo
 
 
 ### FYI - Future State
-MktgOps is in the process of moving list imports to a [self-service and automated model](https://about.gitlab.com/handbook/marketing/marketing-operations/automated-list-import). We are still manually importing, but the future state will remove Mops uploading lists. For `event` related imports, please default to the `self-service` procedure as noted in the handbook and [event-clean-upload-list](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/event-clean-upload-list.md) issue template but ask for assistance from MktgOps, if needed. For `general` list imports, please continue using the issue template found in the Marketing Operations project titled [general-list-import-request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/general-list-import-request.md).
+MktgOps is in the process of moving list imports to a [self-service and automated model](/handbook/marketing/marketing-operations/automated-list-import). We are still manually importing, but the future state will remove Mops uploading lists. For `event` related imports, please default to the `self-service` procedure as noted in the handbook and [event-clean-upload-list](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/event-clean-upload-list.md) issue template but ask for assistance from MktgOps, if needed. For `general` list imports, please continue using the issue template found in the Marketing Operations project titled [general-list-import-request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/general-list-import-request.md).
 
 Currently, the MktgOps team is responsible for importing records into Marketo for both field events and prospecting. List imports are processed in **Marketo** which has native matching by `Email Address` functionality.
 
@@ -23,10 +23,10 @@ There are three primary ways to import records into the database:
 
 | Import Method | SLA | Submission Instructions | Operations Instructions |
 | :------------ | :-- | :---------- | :-------- |
-| Zoominfo w/in SFDC | self-managed | [Instruction video how to do this can be found in the handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/) | Not applicable |
+| Zoominfo w/in SFDC | self-managed | [Instruction video how to do this can be found in the handbook](/handbook/marketing/marketing-operations/zoominfo/) | Not applicable |
 | csv file | **Accepted by OPS** - 24 business hours<br><br>**Upload to SFDC** - up to 5 business days | Use [MktgOPS **general** list import request template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=general-list-import-request), format as a Google Sheet (Gsheet) & place **link to Gsheet in issue**<br><br>[Written Instructions how to use template](#import-cleaning-template) | [Ad Hoc Upload](#ad-hoc-import) |
 | List from Field Event, Sposorship or Advertising | **Accepted & uploaded by OPS** - 24 business hours | Use [MktgOPS **event** clean and upload issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list), format and clean csv per instruction & place **link to Gsheet in issue**<br><br>[Written Instructions how to use template](#import-cleaning-template) | [Field Event Upload](#field-and-corporate-event-import)<br><br>[Alliance Event Upload](#alliance-event-upload) |
-|[Zapier](https://about.gitlab.com/handbook/marketing/marketing-operations/zapier/) Connection|2-3 weeks prior to start date| Use [Zapier Request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/zapier_connection_request.md)|N/A|
+|[Zapier](/handbook/marketing/marketing-operations/zapier/) Connection|2-3 weeks prior to start date| Use [Zapier Request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/zapier_connection_request.md)|N/A|
 
 #### Import Methods and their SLA
 The SLA for each import method has been decided based on the perceived optimal response time. The turnaround time for an `Event, Sponsorship and or Advertising` list upload is deemed a high priority due to the nature of necessary `SDR` outreach on "warm" prospects. If a list of prospects cannot be considered "warm", please expect a turnaround time of the listed 5 day SLA and use the appropriate template.
@@ -57,9 +57,9 @@ The following data cleanup is required for any list prior to sending it to the M
      - Duplicates must be reviewed and reduced
      - Address separated into individual fields (`Street`, `City`, `State/Province`, `Zip/Postal Code`, `Country`)
      - `Country` that **are not** `United States`, `Australia` or `Canada` *must* have `State` field deleted or cleared as it will create conflicts and will not sync to SFDC
-- Please use the correct member statuses based on the definitions and type [here](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status). They must be exact matches, no abbreviations.
+- Please use the correct member statuses based on the definitions and type [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status). They must be exact matches, no abbreviations.
 - Preferred format for Marketo upload is .csv, but will accept an .xls, or .xlsx. Provide as Google Sheet in the upload issue. **DO NOT** upload the file directly on the issue. Uploading files to the issue exposes ALL collected personal data to the internet and opens GitLab up to litigation
-- Record ownership will be assigned using established lead routing, which is [controlled by Traction Complete](https://about.gitlab.com/handbook/marketing/marketing-operations/traction-lead-complete)
+- Record ownership will be assigned using established lead routing, which is [controlled by Traction Complete](/handbook/marketing/marketing-operations/traction-lead-complete)
 - In order to mark leads as `Opt-in = TRUE`, a record of the terms and conditions the leads agreed to upon having their data collected must be recorded. Check the `terms of service` wording has been recorded in the upload issue **before** opting in leads to receive marketing communications. No ToS, no `Opt-in`. Period. To find the appropriate language, refer to [Marketing Rules and Consent Language](https://about.gitlab.com/handbook/legal/marketing-collaboration/#marketing-rules-and-consent-language)
 - If there are any records who have opted out of contact for any reason, define that on the spreadsheet by selecting `Opt-in = FALSE`
 - Leave `Opt-In` empty if no other option is available
@@ -98,7 +98,7 @@ Video of how this works tbd.
 1. Remove all [embargoed country](https://about.gitlab.com/handbook/legal/trade-compliance/) records. 
 1. `Washington DC` is a `State` value and is not to be split up between `City` `State`. 
 1. `Zip Codes` contain five (5) numbers, States in US East may start with a `0`, make sure the `Zip/Postal Code` field is **plain text** and the leading `0` appears. 
-1. Member Statuses must match exactly to the program type and member status [listed](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status).
+1. Member Statuses must match exactly to the program type and member status [listed](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status).
 1. If list contains non-Latin characters (ex. Asian languages), it must be uploaded to Marketo using UTF-8 and UTF-16. [Marketo instructions here](https://docs.marketo.com/display/public/DOCS/Import+a+Non-Latin+Characters+List). Salesforce Data Loader requires UTF-8 encoding, [instructions here](https://help.salesforce.com/articleView?id=faq_import_dataloader_specialchars.htm&type=5).
 1. If there are notes added to the `Last Event Notes` column, add the `SFDC campaign name` to the column titled `Last Event SFDC Campaign Name` for each lead that has notes. If there are no notes for that lead, do not add anything to either column. This column is used to automatically move notes to the `Qualification Notes` field found on lead and contact pages in Salesforce. That field is not overridden like the `Last Event Notes` field and it's where we can keep the notes for much longer.
 1. MktgOps reserves the right to remove irrelevant notes from the spreadsheet. Only upload important notes and please make sure they are cohesive.
@@ -106,7 +106,7 @@ Video of how this works tbd.
 ##### Notes at the record level 
 We strive to gather as many notes as possible about each person who stops by the GitLab booth and talks with us. In an effort to speed up our list upload process, when notes are present, the campaign member status should ALWAYS be `Follow Up Requested`. The FMM no longer needs to read through the notes and make a judgement call on the status. If there are notes, campaign member status should ALWAYS be `Follow Up Requested`. 
 
-With a record marked as `Follow Up Requested`, this will score the record with 100pts, as [noted here](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#behavior-scoring), which will then in turn show up in the [Sales Dev's team P1 (Priority 1) view](https://about.gitlab.com/handbook/marketing/sales-development/#bdr-event-promotion-and-sales-dev-org-follow-up). The Sales Dev team is happy to have potential unrelevant records routed to them in an effort to speed up the records getting to them. 
+With a record marked as `Follow Up Requested`, this will score the record with 100pts, as [noted here](/handbook/marketing/marketing-operations/marketo/#behavior-scoring), which will then in turn show up in the [Sales Dev's team P1 (Priority 1) view](/handbook/marketing/sales-development/#bdr-event-promotion-and-sales-dev-org-follow-up). The Sales Dev team is happy to have potential unrelevant records routed to them in an effort to speed up the records getting to them. 
 
 Its also super important that if there are notes, the notes are clear to someone who both was onsite and those who were not. Think to yourself, if someone was not there onsite, will they know what action to take as a result of these notes? 
 
@@ -119,7 +119,7 @@ Its also super important that if there are notes, the notes are clear to someone
      - Email Address
      - Country
      - State (United States and Canada only)
-     - [Campaign Member Status](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status)
+     - [Campaign Member Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status)
      - Opt-In status: `True`, `False`, or `leave blank` (determines if leads are **legally** signed up for GitLab's marketing emails)
 - Additionally, there is data required for leads to be successfully routed to SDRs. While this information is not mandatory, it is strongly preferred.. GitLab employs tools that enrich leads and `Accounts`, but those tools are not guaranteed to work, so if the data can be found at the source it is preferred. Lastly, while it is less likely to have an upload refused due to missing this data, **missing this data is still considered grounds for refusal by the MktgOps team**. The recommended information is as follows:
      - Employee Bucket or Number of Employees
@@ -128,14 +128,14 @@ Its also super important that if there are notes, the notes are clear to someone
 
 #### Partner Lead Imports
 
-If this import is part of a Channel or Alliance marketing campaign, you must include the `CRM Partner ID` as a column in your list upload. You can find a list of these IDs [here](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#crm-partner-id)
+If this import is part of a Channel or Alliance marketing campaign, you must include the `CRM Partner ID` as a column in your list upload. You can find a list of these IDs [here](/handbook/marketing/channel-marketing/partner-campaigns/#crm-partner-id)
 
 If the lead is not associated to a partner, leave that field blank. 
 
 
 ### Campaign Templates - Info for Post-MktgOps Hand-off
 
-At time of upload, a campaign should already exist in `Marketo` . Campaigns are to be created by the campaign owner. For a running list of campaign templates, go [here](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#how-to-clone-the-marketo-program).
+At time of upload, a campaign should already exist in `Marketo` . Campaigns are to be created by the campaign owner. For a running list of campaign templates, go [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#how-to-clone-the-marketo-program).
 
 ### Upload Process
 

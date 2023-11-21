@@ -56,9 +56,9 @@ Access the workflow tab in Netlify CMS by selecting "Workflow" at the top of the
 
 ## Creating a new or editing an existing page with Netlify CMS
 
-To edit an existing or create a new page in Netlify CMS, make sure that the [content type](https://about.gitlab.com/handbook/marketing/netlifycms#content-types-enabled-in-netlify-cms) is enabled. If it is one of the supported content types, follow these steps to create an MR with your changes using Netlify CMS:
+To edit an existing or create a new page in Netlify CMS, make sure that the [content type](/handbook/marketing/netlifycms#content-types-enabled-in-netlify-cms) is enabled. If it is one of the supported content types, follow these steps to create an MR with your changes using Netlify CMS:
 
-1. Follow steps above for [accessing the admin](https://about.gitlab.com/handbook/marketing/netlifycms#accessing-the-admin)
+1. Follow steps above for [accessing the admin](/handbook/marketing/netlifycms#accessing-the-admin)
 2. Select the content type you wish to add **or** edit an existing page from the left sidebar.
 3. Select the page you want to edit or select "New (content type)" from the top.
 4. Update your content.
@@ -67,7 +67,7 @@ To edit an existing or create a new page in Netlify CMS, make sure that the [con
 7. Visit GitLab and locate the associated merge request with your edit.
     - If it's in the draft stage, you can find the MR with the [netlify-cms/draft label](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=netlify-cms%2Fdraft)
 8. Assign the merge request to yourself, and assign a reviewer if it's ready to be reviewed.
-9. Assign a reviewer with maintainer access to the `www-gitlab-com` repository when it's ready to be merged. **Note**: There is a separate approval process if you are planning to publish a new blog post. Please see the [blog handbook](https://about.gitlab.com/handbook/marketing/blog/) for instructions.
+9. Assign a reviewer with maintainer access to the `www-gitlab-com` repository when it's ready to be merged. **Note**: There is a separate approval process if you are planning to publish a new blog post. Please see the [blog handbook](/handbook/marketing/blog/) for instructions.
 
 ## Content types enabled in Netlify CMS
 
@@ -86,7 +86,7 @@ Typeform pages managed through Netlify CMS. The content is located/stored in the
 
 ### GitLab blog posts
 
-Blog posts can be created and edited using Netlify CMS. Netlify CMS is especially good for starting your blog post, creating the proper markdown file that is structured correctly, and starting a merge request. Blog posts can be created with the traditional merge request workflow or through the Netlify CMS workflow. Be sure to read the [Blog Handbook](https://about.gitlab.com/handbook/marketing/blog/) for all instructions related to writing and creating a blog post.
+Blog posts can be created and edited using Netlify CMS. Netlify CMS is especially good for starting your blog post, creating the proper markdown file that is structured correctly, and starting a merge request. Blog posts can be created with the traditional merge request workflow or through the Netlify CMS workflow. Be sure to read the [Blog Handbook](/handbook/marketing/blog/) for all instructions related to writing and creating a blog post.
 
 Blog posts managed through Netlify CMS can be found at [https://about.gitlab.com/blog/](https://about.gitlab.com/blog/). The content is located/stored in the [`/sites/uncategorized/source/blog/blog-posts`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/uncategorized/source/blog/blog-posts) directory in the `www-gitlab-com` repository. Netlify CMS allows the user to edit these markdown files.
 
@@ -190,7 +190,7 @@ Every two weeks, we create a Netlify CMS learning resource video. In the video, 
 
 ## Report an issue
 
-If you experience an issue or bug using the system, submit an issue! GitLab's marketing website (about.gitlab.com) is led by the Inbound Marketing Team and anyone can contribute. Please visit the [the Inbound Marketing handbook](https://about.gitlab.com/handbook/marketing/inbound-marketing/#requesting-support) to submit a support issue and make merge requests.
+If you experience an issue or bug using the system, submit an issue! GitLab's marketing website (about.gitlab.com) is led by the Inbound Marketing Team and anyone can contribute. Please visit the [the Inbound Marketing handbook](/handbook/marketing/inbound-marketing/#requesting-support) to submit a support issue and make merge requests.
 
 ### Known issues in Netlify CMS
 

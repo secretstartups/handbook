@@ -65,11 +65,11 @@ description: "The GitLab Field team includes multiple functions: Enterprise Sale
 | [Delivering a Quote via DocuSign](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-send-an-order-form-to-a-customer) |  |  |  |
 | **Marketing Resources** | **Strategic Marketing** | **Product Resources** |  |
 | ------ | ------ | ------ | ------ |
-| [Marketing](https://about.gitlab.com/handbook/marketing/) | [Strategic Marketing Handbook](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) | [Product Team Handbook](/handbook/product/) |  |
-| [Sales Development Handbook](https://about.gitlab.com/handbook/marketing/sales-development/) | [Product Marketing Manager Assignments](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/#which-product-marketing-manager-should-i-contact) | [Engaging Product Management](/handbook/product/how-to-engage/) |  |
-| [Gitlab Value Proposition](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/messaging/#gitlab-value-proposition) | [Customer-Facing Presentations](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/#customer-facing-presentations) | [Asking Questions/Giving Feedback on a Feature](/handbook/product/categories/#devops-stages) | |
-| [Lead and Contact Statuses](https://about.gitlab.com/handbook/marketing/marketing-operations/#lead-and-contact-statuses) |[Print Collateral](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/#print-collateral) | [Product Categories](/handbook/product/categories/) |  |
-| [Inbound Lead Generation](https://about.gitlab.com/handbook/marketing/sales-development/#inbound-lead-generation) | [Sales Collateral Google Drive](https://drive.google.com/open?id=0B-ytP5bMib9TaUZQeDRzcE9idVk) | [Features by Group](/handbook/product/categories/features/) |  |
+| [Marketing](/handbook/marketing/) | [Strategic Marketing Handbook](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) | [Product Team Handbook](/handbook/product/) |  |
+| [Sales Development Handbook](/handbook/marketing/sales-development/) | [Product Marketing Manager Assignments](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/#which-product-marketing-manager-should-i-contact) | [Engaging Product Management](/handbook/product/how-to-engage/) |  |
+| [Gitlab Value Proposition](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/messaging/#gitlab-value-proposition) | [Customer-Facing Presentations](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/#customer-facing-presentations) | [Asking Questions/Giving Feedback on a Feature](/handbook/product/categories/#devops-stages) | |
+| [Lead and Contact Statuses](/handbook/marketing/marketing-operations/#lead-and-contact-statuses) |[Print Collateral](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/#print-collateral) | [Product Categories](/handbook/product/categories/) |  |
+| [Inbound Lead Generation](/handbook/marketing/sales-development/#inbound-lead-generation) | [Sales Collateral Google Drive](https://drive.google.com/open?id=0B-ytP5bMib9TaUZQeDRzcE9idVk) | [Features by Group](/handbook/product/categories/features/) |  |
 | **Finance Process** | **Business Operations Process** | **Legal Process** | |
 | ------ | ------ | ------ | ------ |
 | [Deal Desk: Assistance with Quotes](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#assistance-with-quotes) | [Business Operations Handbook](/handbook/business-technology/) | [Collaborating with Legal - Sales](https://about.gitlab.com/handbook/legal/customer-negotiations/) |  |
@@ -153,7 +153,7 @@ This team sits within the Marketing department and provides territory support to
    1. BDRs and SDRs are to set 'at bat' meetings utilizing sales development best practices
    1. Drive brand awareness within target accounts
 
-See the [Sales Development page](https://about.gitlab.com/handbook/marketing/sales-development/#sdr-expectations) in the Handbook for more details.
+See the [Sales Development page](/handbook/marketing/sales-development/#sdr-expectations) in the Handbook for more details.
 
 #### Support
 

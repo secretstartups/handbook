@@ -45,7 +45,7 @@ catch-all term for any other metric.
 and [hostname](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/license/20210204124827_hostname.yml).
   - Analysis is done at the installation level
 - [Paid User](#paid-xmau-definition)
-- [Product Tier](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#overview)
+- [Product Tier](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#overview)
 - [Service Ping](https://docs.gitlab.com/ee/development/service_ping/)
 - [Version](https://about.gitlab.com/handbook/sales/process/version-check/#what-is-the-functionality-of-the-gitlab-version-check)
 - [Instance User Count](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/license/20210204124829_active_user_count.yml) -

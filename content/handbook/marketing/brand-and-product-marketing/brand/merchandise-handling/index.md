@@ -14,7 +14,7 @@ description: "This page outlines the swag program at GitLab."
 
 This page outlines everything you need to know about the swag program at GitLab. Whether you're ordering swag for yourself or others, follow the processes below to get started.
 
-Don't see what you need on this page? Reach out to us via the `#swag` Slack channel and tag [the DRI](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#dris-for-the-swag-program) for your question.
+Don't see what you need on this page? Reach out to us via the `#swag` Slack channel and tag [the DRI](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#dris-for-the-swag-program) for your question.
 
 ## Swag shop
 
@@ -96,11 +96,11 @@ Please open an issue [with this template](https://gitlab.com/gitlab-com/marketin
 
 ### Swag for GitLab-owned or sponsored events
 
-[See more details on the Events page.](https://about.gitlab.com/handbook/marketing/events/#swag-for-events)
+[See more details on the Events page.](/handbook/marketing/events/#swag-for-events)
 
 ### Stickers
 
-You can order stickers for customers or events by following the [swag order process](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#ordering-swag).
+You can order stickers for customers or events by following the [swag order process](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#ordering-swag).
 
 ### Delayed or lost orders
 

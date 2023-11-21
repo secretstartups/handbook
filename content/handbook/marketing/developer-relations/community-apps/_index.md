@@ -20,7 +20,7 @@ The applications are built and currently maintained by [Abubakar Siddiq Ango](ht
 
 The tools available in the suite are described below. 
 
-### <i class="" id="campaign-manager"></i> [Campaign Manager](https://about.gitlab.com/handbook/marketing/developer-relations/community-apps/campaign-manager/)
+### <i class="" id="campaign-manager"></i> [Campaign Manager](/handbook/marketing/developer-relations/community-apps/campaign-manager/)
 
 [Campaign Manager](https://campaign-manager.gitlab.com) brings together UTM tracking, URL shortening & QR Code, allowing teams at GitLab to manage campaign links from an easy to use application. Features of the tool include:
 
@@ -31,7 +31,7 @@ The tools available in the suite are described below.
 - Shortened URL mode for campaign links in cases where UTM tracking is not required
 - QR Codes generated for Campaign links, which can be used on physical assets.
 
-Learn more about the GitLab Campaign Manager with the [User guide](https://about.gitlab.com/handbook/marketing/developer-relations/community-apps/campaign-manager/).
+Learn more about the GitLab Campaign Manager with the [User guide](/handbook/marketing/developer-relations/community-apps/campaign-manager/).
 
 
 

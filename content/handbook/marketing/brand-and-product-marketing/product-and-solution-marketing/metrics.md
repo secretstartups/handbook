@@ -199,4 +199,4 @@ Forrester reprint info (views, d/l, dwell)
 - [Marketing KPIs](/handbook/company/kpis/#marketing-kpis)
 - Slack Channel - #keymonthlymarketingmetric
 - [Tech Stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml)
-    - [Pathfactory](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/)
+    - [Pathfactory](/handbook/marketing/marketing-operations/pathfactory/)

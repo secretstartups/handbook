@@ -38,7 +38,7 @@ GitLab Channel Partners need a landing page with information about GitLab as par
 
 - Your organization's GitLab webpage should use the Authorized Reseller logo (available on the Partner Portal) and link back to us at [about.gitlab.com](https://about.gitlab.com/).
 
-- Your webpage should include a “What Is GitLab?” paragraph which can be found in our [press kit](https://about.gitlab.com/press/press-kit/) along with our logo. You can find additional information in our [reseller marketing kit](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/reseller-kit/).
+- Your webpage should include a “What Is GitLab?” paragraph which can be found in our [press kit](https://about.gitlab.com/press/press-kit/) along with our logo. You can find additional information in our [reseller marketing kit](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/reseller-kit/).
 
 - To ensure you are consistently representing our product on your website, we ask that wherever you mention the GitLab product or features, there should be a link back to the corresponding item on [about.gitlab.com](https://about.gitlab.com/).
 
@@ -61,7 +61,7 @@ The GitLab Authorized Reseller logo allows your prospects and customers to know 
 
 ### **GitLab Public Relations Request**
 
-Any requests for public relations support must go through the CAM as well as the GitLab PR team. Please refer to the [Corporate Communications handbook page](https://about.gitlab.com/handbook/marketing/corporate-communications/#partner-requests-for-press-release-support) for more information on the process.
+Any requests for public relations support must go through the CAM as well as the GitLab PR team. Please refer to the [Corporate Communications handbook page](/handbook/marketing/corporate-communications/#partner-requests-for-press-release-support) for more information on the process.
 
 ### **Partner Instant Marketing Campaigns**
 

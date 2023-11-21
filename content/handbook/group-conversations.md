@@ -128,7 +128,7 @@ Use presentations to document everything people should know about your group. If
 
 Functions with Key Reviews should not create a new deck for a Group Conversation but should use their [Key Review deck](/handbook/key-review/#group-conversations-and-key-review-metrics) for the Group Conversation.
 
-You can also record and upload a [YouTube video](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement the slides.
+You can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement the slides.
 
 **Please remember that you should NOT present during a Group Conversation.** Synchronous calls are for conversation and discussion. It is the responsibility of the attendees to prepare questions before the call to maximize value of time spent synchronously. If someone does start to present the slides in the group conversation everyone is encouraged to say: 'At GitLab we use meetings for conversation and not presentation, but please do consider recording a video for next time.' Expect to be interrupted if presenting more than a 15 second welcome statement.
 
@@ -142,7 +142,7 @@ Best practices for presentations:
 1. Save time and ensure asynchronous communication by writing information on the slides. Many people will not be able to participate in Group Conversations, either live or recorded, but can read through the slides.
 1. To better engage team members outside of your team or function, presentations should ideally assume [low context](/handbook/company/culture/all-remote/effective-communication/#understanding-low-context-communication).
 1. Slides with a lot of text that can be read on their own with lots of links are appreciated.
-1. If you want to present, please consider [posting a recording to YouTube](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/) at least 72 hours before the meeting. Link it to the Google Doc (including specifying whether the video is private or public), and mention it in the relevant slack channels.
+1. If you want to present, please consider [posting a recording to YouTube](/handbook/marketing/marketing-operations/youtube/) at least 72 hours before the meeting. Link it to the Google Doc (including specifying whether the video is private or public), and mention it in the relevant slack channels.
 1. Once a quarter, add a slide covering items being actioned from the engagement survey.
 1. Use this [slide deck](https://docs.google.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing) as the template for your presentation. Presentations should allow editing (preferred) or commenting from everyone at GitLab so that [everyone can contribute](/handbook/company/strategy/#why).
 1. We encourage you to share metrics and key results during your Group Conversation. Please do not use cumulative metrics in your Group Conversations since those will usually show an upward trend and make it difficult to assess current performance. It is more appropriate to share cumulative metrics externally. See [#8 of the general presentation suggestions](/handbook/communication/#presentations) for more information about cumulative metrics.
@@ -197,11 +197,11 @@ The `Host` of the meeting is responsible for starting the livestream or designat
 
 Whoever schedules the Zoom meeting (it is often the EBA) will enter who the host/s are in Zoom and can update the hosts at any time prior to the meeting. If you are delegating the hosting duties to another team member, please ping the #group-conversations channel and tag the @eba-team for to ensure the new host has host permissions to stream the meeting.
 
-To review how to livestream to youtube, please watch this [video](https://www.youtube.com/watch?v=mWWWdbS2q9U), which is linked in the [Livestream with Zoom](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#livestream-with-zoom) section of the handbook.
+To review how to livestream to youtube, please watch this [video](https://www.youtube.com/watch?v=mWWWdbS2q9U), which is linked in the [Livestream with Zoom](/handbook/marketing/marketing-operations/youtube/#livestream-with-zoom) section of the handbook.
 
 ### Preparing for the Group Conversation
 
-All Group Conversations (Public and Private) will be streamed to YouTube within the [GitLab Unfiltered](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#channels) channel. Guidelines around streaming including initiating the livestream and troubleshooting should you hit a snag can be found on the [YouTube Uses and Access](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#starting-a-recorded-video) page.
+All Group Conversations (Public and Private) will be streamed to YouTube within the [GitLab Unfiltered](/handbook/marketing/marketing-operations/youtube/#channels) channel. Guidelines around streaming including initiating the livestream and troubleshooting should you hit a snag can be found on the [YouTube Uses and Access](/handbook/marketing/marketing-operations/youtube/#starting-a-recorded-video) page.
 
 Additional links which may be useful when preparing to moderate a call include:
 
@@ -212,7 +212,7 @@ Additional links which may be useful when preparing to moderate a call include:
 
 1. Ping the [DRI](/handbook/group-conversations/#schedule--dri) of the Group Conversation you will be moderating in the `#group-conversations` Slack channel at least 72 hours prior to confirm whether they will be hosting or have nominated another team member to do so.
 1. If the host for the particular Group Conversation you are moderating has not hosted a call of this nature before, be sure to assign a [Group Conversation Training Issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/group-conversation-host.md) to them to support their preparation for the call.
-1. Be sure to confirm ahead of time whether this will be a [Public or Private Stream](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#never-call-it-a-livestream-or-just-a-recording) as you will need to mention this at the beginning of the call.
+1. Be sure to confirm ahead of time whether this will be a [Public or Private Stream](/handbook/marketing/marketing-operations/youtube/#never-call-it-a-livestream-or-just-a-recording) as you will need to mention this at the beginning of the call.
 1. Review the `Group Conversation Agenda` to ensure there are 15 numbered lines below the Date; Topic; Host Name; and Slide Deck Link - this is where team members will be able to insert any questions they may have for the host.
 1. Log into Zoom `5-minutes prior` to the start of the Group Conversation using `EBA Zoom Account' if you are successfully logged into Zoom as the GitLab Moderator the Tanuki Logo will be visible in the upper right hand corner of your Zoom screen.
 1. Ensure that you as the moderator hold the Zoom hosting rights as you will not be able to livestream the call otherwise i.e. co-hosting rights are not sufficient so please be sure to request a handover from the DRI using the `manage participants feature` if necessary.
@@ -220,7 +220,7 @@ Additional links which may be useful when preparing to moderate a call include:
 
 ### During the Call
 
-1. It is important to start Start the Group Conversation at the exact time indicated within the calendar invite; it is at this point which you will start the livestream using the following [guidelines](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#starting-a-livestream). Do not start the livestream earlier than the scheduled time to avoid long silence at the beginning of the video.
+1. It is important to start Start the Group Conversation at the exact time indicated within the calendar invite; it is at this point which you will start the livestream using the following [guidelines](/handbook/marketing/marketing-operations/youtube/#starting-a-livestream). Do not start the livestream earlier than the scheduled time to avoid long silence at the beginning of the video.
 1. If an error which reads `Please grant necessary Privilege for Livestreaming` pops up, click on the option that appears beside the GitLab Unfiltered account in the middle of the page reading `Not Me` - you will then be prompted to sign in again, please do so and click `Go Live` afterwhich Zoom should indicate `Live on YouTube` in the upper left hand orner.
 1. Be sure to either close or mute the YouTube page to prevent an echo.
 1. In the event that you are unable to stream to YouTube for any reason, inform the Host that you will record the conversation via Zoom and upload the video to YouTube after the conversation has ended. In addition to this be sure to post the YouTube link to the #group-conversations Slack channel once it has been uploaded.
@@ -233,7 +233,7 @@ Additional links which may be useful when preparing to moderate a call include:
 1. End the Group Conversation by clicking `End Meeting` and then `End Meeting for All` within Zoom - making this selection should end both the call and the stream - should this not be the case it is more than likely because an outdated version of Zoom is being used and the moderator will need to log directly into YouTube Studio and manually end the stream.
 1. Once the call ended, audit the YouTube video for any issues such as another stream on the video or errant transcript in the description. If you identify any issues with the video, immediately reach out to [Security](/handbook/security/security-operations/sirt/engaging-security-on-call.html) for support.
 1. Once the stream has ended, copy and paste the YouTube link to the Group Conversation agenda. This will allow easy access to the stream without having to search for it in the GitLab Unfiltered channel.
-1. If livestreaming was not possible manually upload the video to YouTube using these [guidelines](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube).
+1. If livestreaming was not possible manually upload the video to YouTube using these [guidelines](/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube).
 
 <figure class="video_container">
  <iframe src="https://youtube.com/embed/yuFlj8Zv7vQ" frameborder="0" allowfullscreen="true"> </iframe>
@@ -264,7 +264,7 @@ Additional links which may be useful when preparing to moderate a call include:
 
 The Group Conversation schedule is set quarterly. The schedule is finalized the week before the start of each quarter by the EBA to the CEO.
 
-The Scheduling DRI for each GC is responsible for ensuring the GC Zoom is setup correctly, set to record to the cloud automatically, and that there is a specified person for livestreaming. If someone other than the EBA is livestreaming, the EBA will add that individual as an alternate host to the meeting via zoom. For details on how to successfully livestream, please see the [considerations for livestreams](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#considerations-for-livestreams) in the handbook.
+The Scheduling DRI for each GC is responsible for ensuring the GC Zoom is setup correctly, set to record to the cloud automatically, and that there is a specified person for livestreaming. If someone other than the EBA is livestreaming, the EBA will add that individual as an alternate host to the meeting via zoom. For details on how to successfully livestream, please see the [considerations for livestreams](/handbook/marketing/marketing-operations/youtube/#considerations-for-livestreams) in the handbook.
 
 There is a [rotating schedule](/handbook/group-conversations/#schedule--dri) with each Department having a conversation on a regular interval.
 We usually do not have Group Conversations or Company calls during the last two weeks of December. We also tend to cancel these during [Contribute](https://about.gitlab.com/events/gitlab-contribute/).

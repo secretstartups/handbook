@@ -19,7 +19,7 @@ Product Marketing communicates GitLab business value internally and externally t
 
 - The PMM Team
 - PM:PMM stable counterparts are listed on the [Product Sections page](/handbook/product/categories/).
-- Solution DRIs are listed on the [Solutions GTM page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/).
+- Solution DRIs are listed on the [Solutions GTM page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/).
 
 ### Core Competencies
 
@@ -41,7 +41,7 @@ PMMs require a broad set of skills, knowledge, and expertise. This lists core co
 
 ### Onboarding
 
-- <b>[Go to the PMM onboarding page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/onboarding)</b> and check out our onboarding guide.
+- <b>[Go to the PMM onboarding page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/onboarding)</b> and check out our onboarding guide.
 
 ### Product Marketing Collaboration
 
@@ -75,7 +75,7 @@ In additional to enabling sales, PMMs should partner with sales and actively eng
 
 ### Solutions Go To Market
 
-[Solutions GTM Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/)
+[Solutions GTM Page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/)
 
 ### Project Management
 
@@ -104,13 +104,13 @@ In additional to enabling sales, PMMs should partner with sales and actively eng
 
 ### Key links
 
-- [Messaging](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/messaging/)
+- [Messaging](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/messaging/)
 - [GitLab positioning](https://about.gitlab.com/handbook/positioning-faq/)
-- [Hidden IT Groups](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/it-groups/)
+- [Hidden IT Groups](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/it-groups/)
 - [Defining GitLab roles and personas](/handbook/product/personas/)
-- [GitLab tiers](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/)
-- [Market segmentation - Industry verticals](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/market-segmentation/)
-- [Use Case - Go to market](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm)
+- [GitLab tiers](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/)
+- [Market segmentation - Industry verticals](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/market-segmentation/)
+- [Use Case - Go to market](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm)
 
 ### PMM Talk Inventory
 

@@ -123,7 +123,7 @@ Your Routes to Market/Territory Plan will help you determine which GitLab resour
 
 At this point, the selected engagement activities should have generated a significant number of leads. It’s now time to sift through those leads and determine which may become opportunities. This requires an initial qualifying meeting and the quality the preparation you take for that meeting can mean the difference in having a deal or losing a deal. The steps that necessary to prepare and execute a successful meeting are:
 
-1. <b>[Determine your Buyer Persona](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/)</b> - a buyer persona is a fictional representation of your key buyers. This helps you pre-identify obstacles, objections, initiatives, and metrics that are important to your buyer. This step will give you an edge in understanding your customers better than your competition. There are typically 5 buyer personas you may encounter.
+1. <b>[Determine your Buyer Persona](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/)</b> - a buyer persona is a fictional representation of your key buyers. This helps you pre-identify obstacles, objections, initiatives, and metrics that are important to your buyer. This step will give you an edge in understanding your customers better than your competition. There are typically 5 buyer personas you may encounter.
     - Technology Leader
     - Business Application Leader
     - Security Leaders
@@ -202,7 +202,7 @@ Below are **DAILY TASKS** you’ll need to perform within Salesforce.
     1. Set a response time to respond to inbound leads
     1. Set a number of touches per lead spread out over one month
     1. Set a number and a variety of email, phone, and social media touches a lead receives
-    1. Every touch a lead receives should include new information or resources from the **[Use Case GTM Bill of Material Priorities](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/)** matrix.
+    1. Every touch a lead receives should include new information or resources from the **[Use Case GTM Bill of Material Priorities](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/)** matrix.
 
 ### Forecasting
 

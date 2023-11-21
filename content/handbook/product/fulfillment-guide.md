@@ -256,7 +256,7 @@ There’s an automated process (Zuora Workflow) that sets `Subscription.TurnOnAu
 ##### Other public docs
 
 - [Auto-renewals FAQ](https://about.gitlab.com/pricing/faq-improved-billing-and-subscription-management/#auto-renewals)
-- [Community programs renewal workflow](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/#renewal)
+- [Community programs renewal workflow](/handbook/marketing/developer-relations/community-programs/automated-community-programs/#renewal)
 
 ##### Developer docs
 

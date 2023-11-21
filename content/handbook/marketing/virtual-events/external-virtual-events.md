@@ -18,11 +18,11 @@ twitter_creator: "@gitlab"
 
 External virtual events are, by definition, not owned and hosted by GitLab. They are hosted by an external third party (i.e. a partner or paid vendor). The goal of external virtual events is to drive net new leads, and we do not promote to our internal database. The various types of external virtual events are below, and involve epic and issue creation, designation of DRIs, and workback schedule definition within the issue due dates.
 
-* [Partner-Hosted Webinars](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/#partner-hosted-webinars): hosted by a channel partner (i.e. WWT), this is an unpaid tactic. The channel partner manages landing page, moderating and hosting the webinar on their platform. GitLab represents as a speaker at the event, sometimes jointly with an alliance partner. A lead list is often not shared after the event, as the channel partner will work the leads. We will sometimes promote, and determine which channels are appropriate.
-* [Sponsored Webinars](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/#sponsored-webinars): hosted on an external vendor platform (i.e. DevOps.com), this is a paid tactic. The vendor is responsible for driving registration, moderating and hosting the webinar on their platform, and delivering a lead list after the event. The goal of a sponsored webinar is net new leads - we do not promote to our existing database as it is a paid activity.
-* [Virtual Conferences](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/#virtual-conferences): hosted on an external vendor platform (i.e. Hopin), this is a paid tactic. GitLab pays a sponsorship fee to receive a virtual booth and often speaking session or panel presence. The goal of a sponsored virtual conference is net new leads - we do not promote to our existing database as it is a paid activity.
-* [Executive Roundtable](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/#executive-roundtables):  hosted on an external vendor platform, this is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer. The goal of an executive roundtable is net new leads - we do not promote to our existing database as it is a paid activity.
-* [Vendor Arranged Meetings](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/#vendor-arranged-meetings): hosted by an external vendor, the vendor organizes one-to-one meetings with prospect or customer accounts. This does not include meetings set internally by GitLab team members. An example would be a "speed dating" style meeting setup where a vendor organizes meetings with prospects of interest to GitLab. The goal of a venor arranged meeting is to generate meetings with accounts of interest that we are finding challenging to break into directly - we do not promote to our existing database as it is a paid activity.
+* [Partner-Hosted Webinars](/handbook/marketing/virtual-events/external-virtual-events/#partner-hosted-webinars): hosted by a channel partner (i.e. WWT), this is an unpaid tactic. The channel partner manages landing page, moderating and hosting the webinar on their platform. GitLab represents as a speaker at the event, sometimes jointly with an alliance partner. A lead list is often not shared after the event, as the channel partner will work the leads. We will sometimes promote, and determine which channels are appropriate.
+* [Sponsored Webinars](/handbook/marketing/virtual-events/external-virtual-events/#sponsored-webinars): hosted on an external vendor platform (i.e. DevOps.com), this is a paid tactic. The vendor is responsible for driving registration, moderating and hosting the webinar on their platform, and delivering a lead list after the event. The goal of a sponsored webinar is net new leads - we do not promote to our existing database as it is a paid activity.
+* [Virtual Conferences](/handbook/marketing/virtual-events/external-virtual-events/#virtual-conferences): hosted on an external vendor platform (i.e. Hopin), this is a paid tactic. GitLab pays a sponsorship fee to receive a virtual booth and often speaking session or panel presence. The goal of a sponsored virtual conference is net new leads - we do not promote to our existing database as it is a paid activity.
+* [Executive Roundtable](/handbook/marketing/virtual-events/external-virtual-events/#executive-roundtables):  hosted on an external vendor platform, this is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer. The goal of an executive roundtable is net new leads - we do not promote to our existing database as it is a paid activity.
+* [Vendor Arranged Meetings](/handbook/marketing/virtual-events/external-virtual-events/#vendor-arranged-meetings): hosted by an external vendor, the vendor organizes one-to-one meetings with prospect or customer accounts. This does not include meetings set internally by GitLab team members. An example would be a "speed dating" style meeting setup where a vendor organizes meetings with prospects of interest to GitLab. The goal of a venor arranged meeting is to generate meetings with accounts of interest that we are finding challenging to break into directly - we do not promote to our existing database as it is a paid activity.
 
 # Partner Webinars
 {: #partner-hosted-webinars .gitlab-purple}
@@ -101,14 +101,14 @@ The project owner is responsible for following the steps below to create the epi
 
 ## :books: Tasks and Issues Created and Linked to Epic
 
-## If GitLab is hosting, follow [Webcast process in handbook](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#partner-webcasts)
+## If GitLab is hosting, follow [Webcast process in handbook](/handbook/marketing/virtual-events/webcasts/#partner-webcasts)
 
 ## General Checklist
 - [ ] Make sure partner is adhering to the GitLab Branding guides and logo usage
 - [ ] Provide opt in language to partner
 - [ ] Review and approve all email and landing page copy
 - [ ] Consider creating separate invite htmls with UTMs for each partner and GitLab to send to GitLab and the partner sales orgs to help drive attendance.  Separate UTMs will help us track registrations coming from each sales org
-* [ ] Add to /events/ page - [Handbook Instructions](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents)
+* [ ] Add to /events/ page - [Handbook Instructions](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents)
 * [ ] [Speaker request issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new?issuable_template=pmm-speaker-request) (optional)
 * [ ] [Organic social promotion issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-gtm-organic) (optional)
 * [ ] [Paid digital promotion issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=mktg-promotion-template) (optional)
@@ -125,7 +125,7 @@ The project owner is responsible for following the steps below to create the epi
 * [ ] [Pathfactory track issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) (only open if we receive and can use recording)
 
 ## Post event tasks:
-- [ ] [Ordering a swag appreciation gift](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-appreciation/) for speakers
+- [ ] [Ordering a swag appreciation gift](/handbook/marketing/developer-relations/contributor-success/community-appreciation/) for speakers
 - [ ] [Request add to Resources](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition)
 
 #### Opt in language applicable to all scenarios below and all geographies:
@@ -417,7 +417,7 @@ Due dates for each action item and DRIs are outlined on the [Conference Planning
 
 #### Tips for Speakers
 
-Here are some basic tips to help ensure that you have a good experience preparing for and presenting on a video conference. See [speaker preparation best practices](https://about.gitlab.com/handbook/marketing/virtual-events/best-practices#speakers).
+Here are some basic tips to help ensure that you have a good experience preparing for and presenting on a video conference. See [speaker preparation best practices](/handbook/marketing/virtual-events/best-practices#speakers).
 
 ##### Before Committing as a Speaker
 
@@ -454,7 +454,7 @@ The [virtual event calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLm
 * see the steps on how to set up an event with Hopin below. 
 
 ##### Add the conference to the /events page
-*  To add the webcast to the /events page follow this [step by step guide](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents).
+*  To add the webcast to the /events page follow this [step by step guide](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents).
 
 ## Setting up an Event with Hopin- for hopin Admin only
 * You need admin access to do so. Only 5 accounts are held internally and shared bwteen the marketing team. 
@@ -508,8 +508,8 @@ Needs updating to be confernece specific:
 
 1. Upload the recording to our main GitLab channel, fill in the title with the event title, and fill in the description with a short paragraph of what the webcast is about. Make sure the video set as `Unlisted` so only people with the URL to the video can find it.
 2. Once the recording has been uploaded, copy the video link on the right.
-3. **Login to PathFactory.** Add the copied youtube link to Pathfactory as a new content by following the instructions outlined [here](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#how-to-upload-content). 
-4. **Login to Marketo.** Create the [listening campaign](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#listening-campaigns) in Marketo by cloning this [program template](https://app-ab13.marketo.com/#PG3875A1). In the  `PF - Listening (Triggered)` smart campaign nested to the program, modify the `PathFactory Content Journey` filter to reflect your asset's Pathfactory custom url slug in the following format `[your assets custom url slug]`. Activate the smart campaign and then set up the Salesforce campaign sync for the listening campaign.
+3. **Login to PathFactory.** Add the copied youtube link to Pathfactory as a new content by following the instructions outlined [here](/handbook/marketing/marketing-operations/pathfactory/#how-to-upload-content). 
+4. **Login to Marketo.** Create the [listening campaign](/handbook/marketing/marketing-operations/pathfactory/#listening-campaigns) in Marketo by cloning this [program template](https://app-ab13.marketo.com/#PG3875A1). In the  `PF - Listening (Triggered)` smart campaign nested to the program, modify the `PathFactory Content Journey` filter to reflect your asset's Pathfactory custom url slug in the following format `[your assets custom url slug]`. Activate the smart campaign and then set up the Salesforce campaign sync for the listening campaign.
 5. **Login to Salesforce.** Find the subsequent SFDC campaign for the listening campaign. Add the subsequent webcast campaign to the `Parent Campaign` field. Set the `Enable Bizible Touchpoints` field to `Include only "Responded" Campaign Members`.
 6. **Navigate back to:  www-gitlab-com/data/webcast.yml.**
 7. Click edit and add the following code snippet `youtube_url: ''`under the `url` code snippet for your landing page.
@@ -527,7 +527,7 @@ Needs updating to be confernece specific:
 17. Modify the webpage link with the webcast landing page url without the https (e.g: `about.gitlab.com/webcast/securing-serverless/`), then activate the `Viewed On Demand` smart campaign.
 18. Deactivate the `Attended` ,`Registration from Landing Page`, and `Registration From Zoom` smart campaigns within your webcast program.
 19. **Go back to your MR.** Once the pipeline passes and if everything looks okay in the review app remove WIP and merge (if you have merge access). If you don't have merge access, ping @jgragnola or @aoetama in the MR comment to merge.
-20. Add your webcast to the /resources page by following the instructions [outlined here](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/content-in-campaigns/).
+20. Add your webcast to the /resources page by following the instructions [outlined here](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/).
 
 # Executive Roundtables
 {: #executive-roundtables .gitlab-purple}
@@ -674,11 +674,11 @@ The project owner is responsible for following the steps below to create the epi
 ###  Posting external virtual event recordings to youtube
 {: #post-youtube}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-Follow this handbook documentation on how to [upload external webcast recordings](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube) to the [GitLab branded YouTube channel](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#channels).
+Follow this handbook documentation on how to [upload external webcast recordings](/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube) to the [GitLab branded YouTube channel](/handbook/marketing/marketing-operations/youtube/#channels).
 
 **This process must be completed by the tactic owner.**
 
-*Note: because these requests move through the Campaign Managers currently and their focus and priority is planning, implementing, and optimizing top-funnel campaign strategies, there is a [5 Business Day SLA](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/#turnaround-time-and-slas).*
+*Note: because these requests move through the Campaign Managers currently and their focus and priority is planning, implementing, and optimizing top-funnel campaign strategies, there is a [5 Business Day SLA](/handbook/marketing/demand-generation/campaigns/#turnaround-time-and-slas).*
 
 For immediate follow-up emails, it is recommended to point directly to the GitLab YouTube link (uploaded by the tactic owner) to avoid delays in the send.
 

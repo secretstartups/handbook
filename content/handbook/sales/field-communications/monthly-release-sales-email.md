@@ -12,7 +12,7 @@ description: "Following each GitLab release every month, Field Communications se
 
 ## Overview
 
-Following each GitLab release [every month](https://about.gitlab.com/handbook/marketing/blog/release-posts/), Product Marketing creates a pitch template in Highspot that members of the Field organization can repurpose to send to their customers and prospects. The purpose of this pitch template is to make it easy for team members to quickly share the technical details of the latest release and create a meaningful touch-point with their customer or prospect.
+Following each GitLab release [every month](/handbook/marketing/blog/release-posts/), Product Marketing creates a pitch template in Highspot that members of the Field organization can repurpose to send to their customers and prospects. The purpose of this pitch template is to make it easy for team members to quickly share the technical details of the latest release and create a meaningful touch-point with their customer or prospect.
 
 ### Format
 

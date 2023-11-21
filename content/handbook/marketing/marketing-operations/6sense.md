@@ -14,7 +14,7 @@ description: 6sense is an Account Based Marketing platform that uses a predictiv
 
 ## Overview
 
-[6sense](https://6sense.com/) is a an [Account Based Marketing](https://about.gitlab.com/handbook/marketing/account-based-marketing/) platform that uses a predictive model to identify the right customers at the ideal time.
+[6sense](https://6sense.com/) is a an [Account Based Marketing](/handbook/marketing/account-based-marketing/) platform that uses a predictive model to identify the right customers at the ideal time.
 
 **This page contains public information about 6sense and how we use it. In addition to this page, additional, non-public information for GitLab team members can be found in the [internal handbook](https://internal.gitlab.com/handbook/marketing/marketing-strategy-and-platforms/marketing-operations/6sense/).**
 
@@ -123,7 +123,7 @@ Tags should be used to help organize lists by topic. For example, you may want t
 
 ### Sales Dev Naming Convention
 {: .no_toc}
-Sales Dev users should name any lists with the same naming convention that is used in Outreach. The naming convention guidance can be found on the [Outreach Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/outreach/#sequences).
+Sales Dev users should name any lists with the same naming convention that is used in Outreach. The naming convention guidance can be found on the [Outreach Handbook Page](/handbook/marketing/marketing-operations/outreach/#sequences).
 
 ## Useful Terms
 **Reach Activities:**

@@ -30,10 +30,10 @@ For this reason, we choose to have a team with credibility from real-world educa
 
 
 ## What we do
-[Social media](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/education-evangelism/#social-media){:.btn .btn-purple-inv}
-[Content creation](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/education-evangelism/#content-creation){:.btn .btn-purple-inv}
-[Presentations and events](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/education-evangelism/#presentations-and-events){:.btn .btn-purple-inv}
-[Student Spotlight Program](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/education-evangelism){:.btn .btn-purple-inv}
+[Social media](/handbook/marketing/developer-relations/community-programs/education-program/education-evangelism/#social-media){:.btn .btn-purple-inv}
+[Content creation](/handbook/marketing/developer-relations/community-programs/education-program/education-evangelism/#content-creation){:.btn .btn-purple-inv}
+[Presentations and events](/handbook/marketing/developer-relations/community-programs/education-program/education-evangelism/#presentations-and-events){:.btn .btn-purple-inv}
+[Student Spotlight Program](/handbook/marketing/developer-relations/community-programs/education-program/education-evangelism){:.btn .btn-purple-inv}
 
 
 
@@ -46,11 +46,11 @@ There are specific goals for the team:
 
 
 ### Social media
-The GitLab for Education team builds thought leadership, connects with our community, and increases our reach on social media.  See the [Education Evangelism on Social Media](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/education-evangelism/social-media/) handbook page to learn more about our social media strategy.
+The GitLab for Education team builds thought leadership, connects with our community, and increases our reach on social media.  See the [Education Evangelism on Social Media](/handbook/marketing/developer-relations/community-programs/education-program/education-evangelism/social-media/) handbook page to learn more about our social media strategy.
 
 #### Bambu
 
-[Bambu](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/#bambu-our-social-advocacy-tool) is an app used to create suggested posts so other team members can use their own social media accounts to tweet relevant and useful articles, media, and other information to their own networks. The Education Evangelist should take the [training available](https://www.youtube.com/watch?v=HqeGYKkcovs) (Note: you must be logged into your GitLab unfiltered youtube account to view) to become a curator in order to be able to provide content to spread awareness of the Education program. Once you've finished the training, tag the Social Media specialist in an issue and request access. From there, follow the instructions in the [handbook](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/). Finally, add yourself to the table of known curators on the [curator page.](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/) 
+[Bambu](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/#bambu-our-social-advocacy-tool) is an app used to create suggested posts so other team members can use their own social media accounts to tweet relevant and useful articles, media, and other information to their own networks. The Education Evangelist should take the [training available](https://www.youtube.com/watch?v=HqeGYKkcovs) (Note: you must be logged into your GitLab unfiltered youtube account to view) to become a curator in order to be able to provide content to spread awareness of the Education program. Once you've finished the training, tag the Social Media specialist in an issue and request access. From there, follow the instructions in the [handbook](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/). Finally, add yourself to the table of known curators on the [curator page.](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/) 
 
 Types of content that work well for Bambu include: 
 - Media like podcasts, videos, interviews, and live streams related to the Education program
@@ -67,11 +67,11 @@ We build out content to help educate developers around best practices related to
 
 Content is especially valuable when connected between mediums. Consider making a video version of a blog, or livestreaming the creation of a code demo or lesson plan.
 
-Livestreaming guidelines can be found on our [Twitch handbook page](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/education-evangelism/twitch/)
+Livestreaming guidelines can be found on our [Twitch handbook page](/handbook/marketing/developer-relations/community-programs/education-program/education-evangelism/twitch/)
 
 
 #### Blog Posts
-Content will either be published on the [GitLab Blog](https://about.gitlab.com/blog/), where all our blogposts include the `education-program` [postType](https://about.gitlab.com/handbook/marketing/blog/#post-type) in their [front matter](https://about.gitlab.com/handbook/marketing/blog/#frontmatter) for proper tracking.
+Content will either be published on the [GitLab Blog](https://about.gitlab.com/blog/), where all our blogposts include the `education-program` [postType](/handbook/marketing/blog/#post-type) in their [front matter](/handbook/marketing/blog/#frontmatter) for proper tracking.
 
 If the blog post is not featured on the GitLab blog, posts will publish on the GitLab group[Dev.to](https://dev.to/gitlab)
 
@@ -85,13 +85,13 @@ When preparing for presentations and talks, post your slides to the [Developer E
 
 Education Evangelists should consider being a part of the [Speakers Bureau.](https://about.gitlab.com/speakers/)
 
-An overview of how to handle events where the Education team has a booth, see [this handbook page](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/education-conferences)
+An overview of how to handle events where the Education team has a booth, see [this handbook page](/handbook/marketing/developer-relations/community-programs/education-program/education-conferences)
 
 #### CFPs
 We directly contribute to the wider community by speaking at education and tech conferences. If you've come across a conference you feel is valuable to the Education Team, please open an issue in the [Outreach project](https://gitlab.com/gitlab-com/marketing/community-relations/community-programs/education-program/outreach/) and use the `edu-conference` label to suggest a conference for attendance.
 
 #### Campus Visits (In Person)
-Some events will include visiting a campus directly and providing a lecture or workshop for educators or students. We have a variety of workshops and lectures, some of which are listed in the [DevOps Education Guide Project](https://gitlab.com/devops-education). These are organized by the Education Evangelist directly with a student group or professor or other relevant campus representative. Make sure you create an issue in the [outreach project](https://gitlab.com/gitlab-com/marketing/community-relations/community-programs/education-program/outreach/) with details of the time, location, and tentative plans. Update this as you communicate with the relevant campus representative. Tag the GitLab Community Programs manager or your direct manager in the issue to receive written approval for the event. Swag should be coordinated with [Boundless](https://about.gitlab.com/handbook/marketing/field-marketing/#boundless-portal) and shipping coordinated with the relevant campus representative. Providing food for an event outside of normal class hours is not expected, but is highly encouraged. The food budget is part of the swag budget for the quarter. 
+Some events will include visiting a campus directly and providing a lecture or workshop for educators or students. We have a variety of workshops and lectures, some of which are listed in the [DevOps Education Guide Project](https://gitlab.com/devops-education). These are organized by the Education Evangelist directly with a student group or professor or other relevant campus representative. Make sure you create an issue in the [outreach project](https://gitlab.com/gitlab-com/marketing/community-relations/community-programs/education-program/outreach/) with details of the time, location, and tentative plans. Update this as you communicate with the relevant campus representative. Tag the GitLab Community Programs manager or your direct manager in the issue to receive written approval for the event. Swag should be coordinated with [Boundless](/handbook/marketing/field-marketing/#boundless-portal) and shipping coordinated with the relevant campus representative. Providing food for an event outside of normal class hours is not expected, but is highly encouraged. The food budget is part of the swag budget for the quarter. 
 
 An Education Evangelist will likely only do campus visits in the 1st and 3rd quarters since these most overlap with university semesters. Every effort should be made to have several events in one visit, either with one school or with surrounding schools in order to justify the cost of an overnight trip (airfare, lodging, food, etc.). Discuss plans with a manager before agreeing to or offering an in-person visit in order to ensure you are only offering what can be done. Since in-person events are more intensive and require more planning, an Education Evangelist should consider doing only 1-2 campus visits a quarter in addition to other events (Education Specific conferences, community events, etc.). We can always schedule a virtual lecture or workshop instead of in person. 
 
@@ -145,7 +145,7 @@ We track impressions for all content created (videos, blog posts, articles, etc)
 
 We collect Twitter impressions and LinkedIn views as part of our impressions metrics. Social Media impressions originating from Education team member's account are entered in the `Social Media Impressions` tab of the [Education Asset Inventory Google Sheet](https://docs.google.com/spreadsheets/d/1k1ci9BPEDDb_CxrR9-uQ_YQD_UXBMDeAU-KTpfQfHD4/edit#gid=0). This sheet currently serves as our record while we working on adding a social media widget to the dashboard itself.
 
-Social media impressions originating from the official GitLab account at the request of the Education team may be reported at the discretion and availability of the [Social Marketing team](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/). If you wish to record impressions from an official post, request metrics on the social coverage issue 30 days after the post goes live.
+Social media impressions originating from the official GitLab account at the request of the Education team may be reported at the discretion and availability of the [Social Marketing team](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/). If you wish to record impressions from an official post, request metrics on the social coverage issue 30 days after the post goes live.
 
 Impressions are recorded at the end of each month and entered into the sheet:
 

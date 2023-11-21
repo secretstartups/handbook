@@ -410,10 +410,10 @@ Additional information about composing and reviewing UI text:
 ## Release posts
 
 The Technical Writer for each [stage group](/handbook/product/categories/#devops-stages)
-is a reviewer of their group's [feature blocks](https://about.gitlab.com/handbook/marketing/blog/release-posts/#content-reviews) (also known as release post items) authored by the Product Manager.
+is a reviewer of their group's [feature blocks](/handbook/marketing/blog/release-posts/#content-reviews) (also known as release post items) authored by the Product Manager.
 
-For each release, a single Technical Writer is also assigned as the [Technical Writing Lead](https://about.gitlab.com/handbook/marketing/blog/release-posts/#tw-lead) to perform
-the [Structural Check](https://about.gitlab.com/handbook/marketing/blog/release-posts/#structural-check) and other duties.
+For each release, a single Technical Writer is also assigned as the [Technical Writing Lead](/handbook/marketing/blog/release-posts/#tw-lead) to perform
+the [Structural Check](/handbook/marketing/blog/release-posts/#structural-check) and other duties.
 
 ## Monthly documentation releases
 

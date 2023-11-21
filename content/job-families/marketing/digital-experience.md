@@ -23,8 +23,8 @@ The Digital Experience Analyst  (Intermediate) is a [grade 6](/handbook/total-re
 - Ensure successful measurement and reporting aligned with online media, marketing landing pages, and other initiatives. Share insights on how these initiatives are performing.
 - Collaborate with key stakeholders in Marketing (e.g. Demand Gen, Content) as well as other functions (e.g. Sales, Product) to capture data needed to drive business decisions
 - Contribute to A/B testing strategy using platforms such as LaunchDarkly, Google Optimize
-- Partner closely with the [Marketing Strategy and Performance Team](https://about.gitlab.com/handbook/marketing/strategy-performance/) and other data teams at GitLab to follow and contribute to internal standards
-- Member of the [Digital Experience Team](https://about.gitlab.com/handbook/marketing/digital-experience/)
+- Partner closely with the [Marketing Strategy and Performance Team](/handbook/marketing/strategy-performance/) and other data teams at GitLab to follow and contribute to internal standards
+- Member of the [Digital Experience Team](/handbook/marketing/digital-experience/)
 
 #### Digital Experience Analyst Requirements
 
@@ -128,7 +128,7 @@ The Senior Manager, Digital Experience is a [grade 9](/handbook/total-rewards/co
 - Collaborating with cross-functional leaders to define quarterly OKRs that support Marketing's goals.
 - Organizational design to increase collaboration and efficiency.
 - Engaging with Finance teams to contribute to forecasting and reporting on business performance.
-- Conducting skip level 1:1s every quarter with the [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/)
+- Conducting skip level 1:1s every quarter with the [Digital Experience team](/handbook/marketing/digital-experience/)
 - Proactively connecting with cross-functional GitLab team members to identify opportunities.
 - Demonstrating GitLab's CREDIT values and modelling GitLab's Leadership traits.
 
@@ -176,9 +176,9 @@ The Director, Digital Experience is a [grade 10](/handbook/total-rewards/compens
 
 ## Performance Indicators
 
-- [Contributing to the success of Digital Experience's Quarterly Initiatives](https://about.gitlab.com/handbook/marketing/digital-experience/#okrs)
-- [Identifying and organizing epics into executable Sprint plans](https://about.gitlab.com/handbook/marketing/digital-experience/#iteration-process)
-- [Successfully completing bi-weekly Sprint tasks](https://about.gitlab.com/handbook/marketing/digital-experience/#sprint-cycle)
+- [Contributing to the success of Digital Experience's Quarterly Initiatives](/handbook/marketing/digital-experience/#okrs)
+- [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/digital-experience/#iteration-process)
+- [Successfully completing bi-weekly Sprint tasks](/handbook/marketing/digital-experience/#sprint-cycle)
 
 ## Career Ladder
 

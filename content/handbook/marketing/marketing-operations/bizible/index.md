@@ -67,7 +67,7 @@ AMM tracks the position of a touchpoint based on its timing to other touchpoints
 
 ### Attribution Models
 
-GitLab uses [AMM's Custom Attribution model](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#custom-attribution-based-on-bizible-machine-learning-algorithm) based on a unique machine learning algorithm from AMM. The Custom model uses our touchpoint data to calculate attribution weights for each stage based on how much each opportunity stage drove the deal to close. 
+GitLab uses [AMM's Custom Attribution model](/handbook/marketing/marketing-operations/bizible/#custom-attribution-based-on-bizible-machine-learning-algorithm) based on a unique machine learning algorithm from AMM. The Custom model uses our touchpoint data to calculate attribution weights for each stage based on how much each opportunity stage drove the deal to close. 
 
 Adobe Marketo Mesure supports [other attribution methods](https://www.bizible.com/blog/marketing-attribution-models-complete-list) not used by GitLab.
 
@@ -104,7 +104,7 @@ Online Touchpoints are created when users submit a form on a GitLab web property
 
 While offline Touchpoints need an SFDC campaign created beforehand to create touchpoints, online Touchpoints do not.
 
-**Important:** Users must have allowed or not rejected cookies for AMM to create online Touchpoints. GitLab uses OneTrust to manage user [consent on our web properties](https://about.gitlab.com/handbook/marketing/digital-experience/onetrust/#consent-models), [depending on the user's location](https://about.gitlab.com/handbook/marketing/digital-experience/onetrust/#banner-rules) they may have to allow cookies for the AMM script to load. **If the user rejects or opts out of OneTrust consent, AMM will not create online Touchpoints.** 
+**Important:** Users must have allowed or not rejected cookies for AMM to create online Touchpoints. GitLab uses OneTrust to manage user [consent on our web properties](/handbook/marketing/digital-experience/onetrust/#consent-models), [depending on the user's location](/handbook/marketing/digital-experience/onetrust/#banner-rules) they may have to allow cookies for the AMM script to load. **If the user rejects or opts out of OneTrust consent, AMM will not create online Touchpoints.** 
 
 #### Offline
 Offline Touchpoints are created from interactions outside the web, including visiting a trade show booth, attending a hospitality event, and being sent a direct mailer. These interactions are for channels where a person's engagement cannot be tracked digitally or where they physically attended an event. A quick rule of thumb: if there is a list uploaded and the person took action, they are offline buyer touchpoints.
@@ -117,7 +117,7 @@ As of January 2023, we are creating offline Touchpoints through the campaign syn
 
 The [current campaign sync rules](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564) and are largely based on the `Campaign Type`, `Campaign Member Status`, `Campaign Name`, and `Campaign Member Created Date` fields in SFDC. 
 
-[See progression statuses for the standard `Campaign Types` that will have offline buyer touchpoints enabled](https://about.gitlab.com/handbook/marketing/marketing-operations/)
+[See progression statuses for the standard `Campaign Types` that will have offline buyer touchpoints enabled](/handbook/marketing/marketing-operations/)
 
 ### Page View Tracking
 

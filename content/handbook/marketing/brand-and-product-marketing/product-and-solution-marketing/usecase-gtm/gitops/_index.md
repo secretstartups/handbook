@@ -111,7 +111,7 @@ List key analyst coverage of this usecase
 
 ## Market Requirements
 
-Below are the [market requirements](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/#market-requirements) for GitOps
+Below are the [market requirements](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/#market-requirements) for GitOps
 
 ### Foster Collaboration
 
@@ -282,7 +282,7 @@ The WeaveWorks Cloud solution also works together with GitLab - with GitLab SCM 
 
 ### Industry Analyst Relations (IAR) Plan
 
-- The IAR Handbook page has been updated to reflect our plans for [incorporating Use Cases into our analyst conversations](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#how-we-incorporate-use-cases-into-our-industry-analyst-interactions).
+- The IAR Handbook page has been updated to reflect our plans for [incorporating Use Cases into our analyst conversations](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#how-we-incorporate-use-cases-into-our-industry-analyst-interactions).
 - For  details specific to each use case, and in respect of our contractual confidentiality agreements with Industry Analyst firms, our engagement plans are available to GitLab team members in the following protected document: [IAR Use Case Profile and Engagement Plan](https://docs.google.com/spreadsheets/d/14UthNcgQNlnNfTUGJadHQRNZ-IrAe6T7_o9zXnbu_bk/edit#gid=1124037301).
 
 For a list of analysts with a current understanding of GitLab's capabilities for this use case, please reach out to Analyst Relations via Slack (#analyst-relations) or by submitting an [issue](https://gitlab.com/gitlab-com/marketing/product-marketing/issues/new) and selecting the "AR-Analyst-Validation" template.

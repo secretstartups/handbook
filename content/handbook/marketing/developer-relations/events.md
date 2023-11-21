@@ -25,7 +25,7 @@ The Developer Relations team regularly attends the following event types:
 ### Community events 
 
 GitLab's Developer Relations team regularly organizes virtual events including [GitLab Hackathons](/community/hackathon/)
-and [community office hours](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#community-office-hours).
+and [community office hours](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#community-office-hours).
 We also support in-person contributor days and [community-organized meetups](/community/meetups/). Many of these activities
 are organized through the [GitLab network](https://www.meetup.com/pro/gitlab/) page on Meetup. 
 
@@ -34,14 +34,14 @@ are organized through the [GitLab network](https://www.meetup.com/pro/gitlab/) p
 Corporate Events include conferences with large attendance such as [KubeCon](https://about.gitlab.com/events/kubecon/), [AWS Re:Invent](https://about.gitlab.com/events/aws-reinvent/), as well as
 user conferences ([DevSecOps World Tour](https://about.gitlab.com/events/devsecops-world-tour/)), and internal conferences (GitLab Summit).
 
-To learn more about Corporate Marketing Events, See the [Corporate Event Marketing at GitLab Handbook page](https://about.gitlab.com/handbook/marketing/integrated-marketing/corporate-events/).
+To learn more about Corporate Marketing Events, See the [Corporate Event Marketing at GitLab Handbook page](/handbook/marketing/integrated-marketing/corporate-events/).
 
 ### Field Marketing Events
 
 Field Marketing Events are events that strategically support the Large, Mid-Market & Public Sector go-to-market teams at a
 regional level through in-person and virtual interactions.
 
-To learn more about Field Marketing Events, See the [Field Marketing GitLab Handbook page](https://about.gitlab.com/handbook/marketing/field-marketing/).
+To learn more about Field Marketing Events, See the [Field Marketing GitLab Handbook page](/handbook/marketing/field-marketing/).
 
 ## Evaluation Criteria for Event Attendance
 
@@ -74,11 +74,11 @@ they require less time and travel from the team.
 ## Event Content Generation
 
 The Developer Evangelism and Technical Marketing teams create content for events
-including managing the [Call for Paper submission process](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/cfps/)
+including managing the [Call for Paper submission process](/handbook/marketing/developer-relations/developer-evangelism/cfps/)
 and producing presentations, demos, lightning talks, and other content. 
 
 GitLab team members who are seeking support for a speaking opportunity should review the
-[Speaking Resources](https://about.gitlab.com/handbook/marketing/corporate-communications/speaking-resources/) in the
+[Speaking Resources](/handbook/marketing/corporate-communications/speaking-resources/) in the
 handbook. This page documents the process for a team member to secure approval including the
 requirements an event must meet for a GitLab speaker to participate. 
 
@@ -112,7 +112,7 @@ community members present the lightning talks.
 
 Talk topics provide a range of informal, technical, and cultural insights, sometimes enriched with a
 live demo when time permits. The topics are aligned through a lightning talk CFP in collaboration with
-the [corporate events team](https://about.gitlab.com/handbook/marketing/integrated-marketing/corporate-events/), for example,
+the [corporate events team](/handbook/marketing/integrated-marketing/corporate-events/), for example,
 at [KubeCon NA 2023 (internal)](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/8318).
 
 A recommended structure for lightning talks is as follows:
@@ -241,23 +241,23 @@ We love to support team members and members of the wider community on their pres
 ### CFP
 
 The Developer Evangelism team directly contributes to the wider community by speaking at conferences themselves.
-The team also [supports and manages responses to CFPs](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/cfps/)
+The team also [supports and manages responses to CFPs](/handbook/marketing/developer-relations/developer-evangelism/cfps/)
 for team members across GitLab through issue boards.
 
 ### Speaker Enablement
 
 The Developer Evangelism team provides support to new and experienced speakers where necessary. These can range from presentation reviews,
-CFP ideation, or dry-run. We also host [Speakers Lean Coffee](https://about.gitlab.com/handbook/marketing/corporate-communications/speaking-resources/#speakers-lean-coffee)
-to help folks prepare to speak. You can also [learn more](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/speaker-enablement/) about
+CFP ideation, or dry-run. We also host [Speakers Lean Coffee](/handbook/marketing/corporate-communications/speaking-resources/#speakers-lean-coffee)
+to help folks prepare to speak. You can also [learn more](/handbook/marketing/developer-relations/developer-evangelism/speaker-enablement/) about
 the different resources and activities you can benefit from.
 
-**Note**: People who regularly speak about GitLab may be interested in joining the [GitLab Speakers Bureau](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/speakers-bureau/).
+**Note**: People who regularly speak about GitLab may be interested in joining the [GitLab Speakers Bureau](/handbook/marketing/developer-relations/developer-evangelism/speakers-bureau/).
 
 ## Code Challenges
 
 Code Challenges provide a way for event attendees to get directly involved with using and/or contributing
 directly to GitLab. These challenges involve solving a particular problem using GitLab. The challenges are usually hosted at events coordinated by Developer Evangelism in collaboration with the
-[corporate events team](https://about.gitlab.com/handbook/marketing/integrated-marketing/corporate-events/), and other teams.
+[corporate events team](/handbook/marketing/integrated-marketing/corporate-events/), and other teams.
 
 [CodeChallenge.dev](https://codechallenge.dev/) is the application used to create challenges tied to features in GitLab.
 You can review the application's [documentation](https://docs.codechallenge.dev/en/introduction/) on how to use
@@ -265,13 +265,13 @@ the application.
 
 Please use the [Code challenge checklist template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=codechallenge-checklist) to
 create a new Code challenge issue for the event. Review the requirements and use them as a guide to ensure every component is in place.
-Add the new code challenge issue into the event epic in the [event roadmap](https://about.gitlab.com/handbook/marketing/community-relations/developer-evangelism/workflow/#roadmap-view).
+Add the new code challenge issue into the event epic in the [event roadmap](/handbook/marketing/community-relations/developer-evangelism/workflow/#roadmap-view).
 
 ## Sponsorship 
 
 GitLab's Developer Relations team does not hold or allocate a budget for event sponsorships.
-All events sponsorship requests should be directed to [Corporate Events](https://about.gitlab.com/handbook/marketing/integrated-marketing/corporate-events/) or
-[Field Marketing](https://about.gitlab.com/handbook/marketing/field-marketing/). Please follow the [decision path for suggesting an event for sponsoring](https://about.gitlab.com/handbook/marketing/events/#suggesting-an-event).
+All events sponsorship requests should be directed to [Corporate Events](/handbook/marketing/integrated-marketing/corporate-events/) or
+[Field Marketing](/handbook/marketing/field-marketing/). Please follow the [decision path for suggesting an event for sponsoring](/handbook/marketing/events/#suggesting-an-event).
 
 ## Diversity, inclusion, and belonging
 
@@ -295,5 +295,5 @@ and GitLab teams should keep in mind as they plan events and activities.
 
  ## Additional Resources 
 
- Additional information about events can be found on the [Events](https://about.gitlab.com/handbook/marketing/events) page of the
+ Additional information about events can be found on the [Events](/handbook/marketing/events) page of the
  GitLab Handbook. For a list of upcoming GitLab events see the [Events](/events) page of our website. 

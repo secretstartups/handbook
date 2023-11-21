@@ -11,7 +11,7 @@ title: "Education Evangelism on Social Media"
 
 ## Introduction
 
-Education Evangelism uses social media and community engagement to reach stakeholders across the world. This page shares methods of outreach and is based on the [Developer Evangelism Social Media Page](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/)
+Education Evangelism uses social media and community engagement to reach stakeholders across the world. This page shares methods of outreach and is based on the [Developer Evangelism Social Media Page](/handbook/marketing/developer-relations/developer-evangelism/social-media/)
 
 Topics:
 
@@ -80,14 +80,14 @@ This strategy can help amplify impressions and build out thought leadership.
 - Engage with tweets, like often, add replies and join the discussion.
   - Say `Thanks for sharing :emoji:` whenever needed
   - Share positive vibes
-  - Follow the [team member social media policy](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/)
+  - Follow the [team member social media policy](/handbook/marketing/team-member-social-media-policy/)
 - Listen to criticism and ignore hate speech. 
 - Do not criticize GitLab competitors. 
   - Instead, engage with their communities and learn how to improve.  
 - Channel back feedback to product and engineering teams.
 - Adopt new ideas with live streaming or community coffee chats. 
   - Engage community members in discussions.
-  - Tag people and keep the tone ["at the table"](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/)
+  - Tag people and keep the tone ["at the table"](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/)
 
 
 ### Build your Social Profile

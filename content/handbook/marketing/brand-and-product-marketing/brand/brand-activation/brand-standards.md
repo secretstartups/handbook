@@ -38,7 +38,7 @@ GitLab's official brand guidelines can be found at **[design.gitlab.com](https:/
 - [GitLab Slide Template](https://docs.google.com/presentation/d/1XhGp21FKlIBiJMI9OpvwyneF6fkrQeOQjFxDJF678Ys/edit#slide=id.g1e546bbceaf_0_817)
 
 *Email templates*
-- [General templates for email assets](https://www.canva.com/folder/FAFTVmFzaI0) (Access to GitLab's [Canva Enterprise](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/#gitlab-enterprise-access)  account required)
+- [General templates for email assets](https://www.canva.com/folder/FAFTVmFzaI0) (Access to GitLab's [Canva Enterprise](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/#gitlab-enterprise-access)  account required)
 - [Email signature template](https://docs.google.com/document/d/1iSOYSi69R-OWqzn11GheH-IipmbhDwvc3PnVDxdHxRY/edit?usp=sharing)
 
 *Google Doc templates*
@@ -84,9 +84,9 @@ GitLab's official brand guidelines can be found at **[design.gitlab.com](https:/
 ### Additional resources
 
 - [Brand guidelines](https://design.gitlab.com/brand/overview)
-- [Brand handbook](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/)
-- [Brand Design handbook](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/)
-- [QR code design guidelines](https://about.gitlab.com/handbook/marketing/events/#steps-to-generating-a-qr-code)
+- [Brand handbook](/handbook/marketing/brand-and-product-marketing/brand/)
+- [Brand Design handbook](/handbook/marketing/brand-and-product-marketing/design/)
+- [QR code design guidelines](/handbook/marketing/events/#steps-to-generating-a-qr-code)
 - [Marketing pop-up event materials (i.e. pop-up banners, back walls, tablecloths, etc.)](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/events-conferences/field-marketing-popup-events)
 
 

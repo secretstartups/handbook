@@ -109,7 +109,7 @@ Source: GitLab's People Analytics Team, WorkDay
 - Have a request for DIB support?  [Open an issue here](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/issues/new?issue%5Bmilestone_id%5D=).
 - Stay updated via our slack channel - `#diversity_inclusion_and_belonging`
 - Have questions or suggestions for diversity, inclusion and belonging?  Please email `diversityinclusion@gitlab.com`
-- **Monthly DIB Initiatives Company Call**. This call will allow time for GitLab team members to gain an understanding of what we are doing with DIB here at GitLab. It is the second Wednesday of every month. If you aren't able to attend live calls, and would like to listen in on past calls, you can do so [here](https://www.youtube.com/playlist?list=PL05JrBw4t0KqB4N2ruo8nsCwQzBocw-Hn) with our DIB playlist.  You have to be logged into GitLab Unfiltered. If you are not sure how to log into GitLab Unfiltered, you can review how to [here](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).
+- **Monthly DIB Initiatives Company Call**. This call will allow time for GitLab team members to gain an understanding of what we are doing with DIB here at GitLab. It is the second Wednesday of every month. If you aren't able to attend live calls, and would like to listen in on past calls, you can do so [here](https://www.youtube.com/playlist?list=PL05JrBw4t0KqB4N2ruo8nsCwQzBocw-Hn) with our DIB playlist.  You have to be logged into GitLab Unfiltered. If you are not sure how to log into GitLab Unfiltered, you can review how to [here](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).
 
 ## Values
 

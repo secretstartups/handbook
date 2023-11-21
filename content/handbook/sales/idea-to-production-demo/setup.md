@@ -13,7 +13,7 @@ title: "Set up your own test OpenShift Origin instance for the Idea to Productio
 
 
 This document is meant to outline a simple way of setting up an OpenShift Origin
-test box for demonstrating our Idea to Production [demo](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/).
+test box for demonstrating our Idea to Production [demo](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/).
 
 
 ## Hardware and OS Requirements
@@ -279,7 +279,7 @@ output the two hostnames you will need to populate the demo with.
 
 The output from the previous step should have given you the link to the template.
 
-The rest of the demo process can be mostly followed from the [Demo Script](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/)
+The rest of the demo process can be mostly followed from the [Demo Script](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/)
 But you will want to use the template link provided from our setup script.
 
 Which is: `https://gitlab.com/gitlab-org/omnibus-gitlab/raw/i2ptest/docker/openshift/idea-2-prod-template.json`

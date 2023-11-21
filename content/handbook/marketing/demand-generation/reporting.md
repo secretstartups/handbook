@@ -22,7 +22,7 @@ This handbook page covers key dashboards and reports, and tips on how we leverag
 **Main reports used (in order from zoomed-out to zoomed-in):**
 * [(Gsheet) Pipeline X-Ray](https://docs.google.com/spreadsheets/d/1B4M60jehG4lfxoHgZeUCXRw9HUECFZarkKvFAvBwrR8/edit#gid=395575352): proactively review and address areas of concern in pipeline coverage in future quarters; based on trending from previous quarters
    - Visual: [SS&A - Pipeline Velocity & Generation](https://app.periscopedata.com/app/gitlab/799969/SS&A---Pipeline-Velocity-&-Generation)
-   - [See more deails on the metrics and what to look at in the sheet](https://about.gitlab.com/handbook/marketing/demand-generation/#pipeline-xray)
+   - [See more deails on the metrics and what to look at in the sheet](/handbook/marketing/demand-generation/#pipeline-xray)
 * [(Sisense) WIP: Key Monthly Marketing Metrics](https://app.periscopedata.com/app/gitlab/775108/WIP:-Key-Monthly-Marketing-Metrics)
    - expand here
 * [(Sisense) TD - Marketing Metrics](https://app.periscopedata.com/app/gitlab/798262/TD---Marketing-Metrics)
@@ -38,7 +38,7 @@ This handbook page covers key dashboards and reports, and tips on how we leverag
 * [(Sisense) Demand Gen Dashboard](https://app.periscopedata.com/app/gitlab/793304/Demand-Gen-Dashboard): zoom-in to results with metrics on campaigns, channels, offers, and more by segment/region.
    - Use only for directional data on channels and campaigns (note that it won't match up with other dashboards, but is the best we have to answer questions about which campaigns/channels are resonating. We are working with MS&P on a dashboard to give holistic view - ETA TBD)
    - Missing touchpoints for SaaS trial (does not create a bizible touchpoint)
-   - [See more deails on the metrics and what to look at in the dash](https://about.gitlab.com/handbook/marketing/demand-generation/#demand-gen-dash)
+   - [See more deails on the metrics and what to look at in the dash](/handbook/marketing/demand-generation/#demand-gen-dash)
 * [(DataStudio) PMG Dashboard](https://datastudio.google.com/u/1/reporting/19WMqzyDxrl1fK3puZ3kI7Pzig3Oex_BL/page/bFpBB): track spend, impressions, inquiries, and more down to detils of campaigns 
    - Use this for spend data and front-end metrics
    - *Cannot* filter by segment, but can filter by region
@@ -57,7 +57,7 @@ The below table shares some key metrics, with our current SSoT source, filters t
 | Spend (past actuals) by segment/region | PMG | Notes |
 | Conversion rates by segment/region | DG Dash | Notes |
 | Velocity by segment/region | DG Dash | Notes |
-| Cost-per by segment/region | DG Dash | [Jump to details on filters and calculation](https://about.gitlab.com/handbook/marketing/demand-generation/#cost-per) |
+| Cost-per by segment/region | DG Dash | [Jump to details on filters and calculation](/handbook/marketing/demand-generation/#cost-per) |
 | Pipeline coverage | [Pipeline X-Ray](https://docs.google.com/spreadsheets/d/1B4M60jehG4lfxoHgZeUCXRw9HUECFZarkKvFAvBwrR8/edit#gid=395575352) | Breaks out by segment and New FO/Growth |
 | SDR SAOs by segment/region | TD: Marketing Metrics Dash | This CAN be filtered down to segment/region for SAOs only - details below |
 | INQ > SAO conversion rate by segment | TD: Marketing Metrics Dash | Need to confirm if this is accurate by region |
@@ -132,8 +132,8 @@ In Google Drive look up `Pipeline X-Ray:  Net ARR - Current & Next Quarter Overv
 **[(Sisense) Demand Gen Dashboard](https://app.periscopedata.com/app/gitlab/793304/Demand-Gen-Dashboard)**
 
 The Demand Generation Dashboard uses
-* [Bizible touchpoints](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#bizible-touchpoints) to track Inquiries, MQLs, and SDR Accepted metrics
-* [Linear Bizible Attribution touchpoints model](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#linear-attribution) to track Opportunities, Total IACV$, SAO, Pipeline IACV$, Won Deals count, and Won IACV $
+* [Bizible touchpoints](/handbook/marketing/marketing-operations/bizible/#bizible-touchpoints) to track Inquiries, MQLs, and SDR Accepted metrics
+* [Linear Bizible Attribution touchpoints model](/handbook/marketing/marketing-operations/bizible/#linear-attribution) to track Opportunities, Total IACV$, SAO, Pipeline IACV$, Won Deals count, and Won IACV $
 
 [See this epic for additional updates being requested/made to the Demand Gen Dashboard](https://gitlab.com/groups/gitlab-com/-/epics/629). 
 
@@ -168,7 +168,7 @@ To add a new integrated campaign group, open an issue by using the [demand-gen-d
 - **Estimated Free Trial Paid MQLs**: This is based on estimation by using a benchmark for conversion rate. Conversion rate benchmark = SaaS Trial Submit / Trial unique pageviews. Estimated nbr of MQLs = Conversion rate benchmark * PMG Free Trial GA Conversion. Since Free Trials auto-MQL, they are not counted in inquiries. Find more details in [this issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/180)
 - **Estimated Free Trial Paid SAOs**: MQL>SAO Est. Conversion rate * Estimated PMG Free Trial Submit. The MQL>SAO Est. Conversion rate is ~3.6% = for the users who submits Trials and engage with other campaigns. Find more info in [this issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/184#note_484817882) (Won Deals, Won $, Pipeline and Velocity is not calculated for Trials)
 
-The above [Linear] attribution metrics are also available in other attribution models: First touch, U-shaped, W-shaped. Find more information about these attribution models on the [Bizible Handbook page](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#attribution-models)
+The above [Linear] attribution metrics are also available in other attribution models: First touch, U-shaped, W-shaped. Find more information about these attribution models on the [Bizible Handbook page](/handbook/marketing/marketing-operations/bizible/#attribution-models)
 
 
 
@@ -253,7 +253,7 @@ The below table shows the rules how we select the demand gen related touchpoints
 
 **How to make sure that the LinkedIn Lead Gen campaigns will be captured properly by the dashboard?**
 
- You need to follow this steps while setting up the LinkedIn Lead Gen campaigns: [Steps to Setup LinkedIn Lead Gen Form *Gated Content Only](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only). Important to note that the campaign name should include the campaign parameters, as the dashboard is using them to add into the different campaign groups.
+ You need to follow this steps while setting up the LinkedIn Lead Gen campaigns: [Steps to Setup LinkedIn Lead Gen Form *Gated Content Only](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only). Important to note that the campaign name should include the campaign parameters, as the dashboard is using them to add into the different campaign groups.
 
   
 | Campaign group                      | UTM string                                                                                        | Ad Campaign name                                                                                                                               |

@@ -2,7 +2,7 @@
 
 title: "Product and Solution Marketing Asset Inventory"
 ---
-This page used to provide an inventory of assets created and maintained by the [Product and Solution Marketing](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) team. We have since updated the inventory so it includes all assets and it can now be found within [Marketing Strategy & Performance](https://about.gitlab.com/handbook/marketing/strategy-performance/)
+This page used to provide an inventory of assets created and maintained by the [Product and Solution Marketing](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) team. We have since updated the inventory so it includes all assets and it can now be found within [Marketing Strategy & Performance](/handbook/marketing/strategy-performance/)
 
 We have kept the following info specific to the Product and Solution Marketing team as it may assist them in determining how to enter into the Marketing inventory.
 

@@ -287,9 +287,9 @@ Models used to report on trials, subscriptions and charges.
 
 <details markdown="1"><summary>Click to expand</summary>
 
-- [How GitLab SaaS subscriptions work](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/dotcom-subscriptions/) is a handbook page that covers SaaS subscriptions in depth.
+- [How GitLab SaaS subscriptions work](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/dotcom-subscriptions/) is a handbook page that covers SaaS subscriptions in depth.
 
-- [GitLab Tiers](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/) covers all SM and SaaS Tiers in the GitLab handbook.
+- [GitLab Tiers](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/) covers all SM and SaaS Tiers in the GitLab handbook.
 
 - [This pricing page](https://about.gitlab.com/pricing/) is our customer facing page covering all GitLab tiers.
 

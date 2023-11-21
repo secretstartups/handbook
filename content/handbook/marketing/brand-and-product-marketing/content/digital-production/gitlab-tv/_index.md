@@ -103,9 +103,9 @@ GitLab.tv channels can take many forms as long as they satisfy the GitLab.tv ove
 
 To contribute to an existing channel, visit the channel playbook for more information on contribution guidelines.
 
-1. [All-Remote](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/digital-production/gitlab-tv/all-remote-channel-playbook/)
-1. [Events](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/digital-production/events-channel-playbook/)
-1. [Community](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/digital-production/gitlab-tv/community-video-playbook/)
+1. [All-Remote](/handbook/marketing/brand-and-product-marketing/content/digital-production/gitlab-tv/all-remote-channel-playbook/)
+1. [Events](/handbook/marketing/brand-and-product-marketing/content/digital-production/events-channel-playbook/)
+1. [Community](/handbook/marketing/brand-and-product-marketing/content/digital-production/gitlab-tv/community-video-playbook/)
 
 ### Create a new channel
 
@@ -113,5 +113,5 @@ GitLab.tv Video Channel Playbooks define the channel audience, measurable goals,
 
 ----
 
-Return to the main [Inbound Marketing Handbook](https://about.gitlab.com/handbook/marketing/inbound-marketing/).
+Return to the main [Inbound Marketing Handbook](/handbook/marketing/inbound-marketing/).
 

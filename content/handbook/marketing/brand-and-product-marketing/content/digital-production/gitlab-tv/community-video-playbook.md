@@ -128,4 +128,4 @@ Here are some possible avenues of promotion for your video:
 
 ----
 
-Return to the main [Inbound Marketing Handbook](https://about.gitlab.com/handbook/marketing/inbound-marketing/).
+Return to the main [Inbound Marketing Handbook](/handbook/marketing/inbound-marketing/).

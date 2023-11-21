@@ -19,7 +19,7 @@ The Community Newsletter is scheduled to send on last Thursday of each month at 
 * [Open an issue](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=community-newsletter) using the [`community-newsletter` template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/blob/main/.gitlab/issue_templates/community-newsletter.md) for the upcoming draft at least two weeks before the due date.
 * [label `Community Newsletter::Draft`](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/?label_name%5B%5D=Community%20Newsletter::Draft): the newsletter is put together in an issue with submissions from the community and GitLab team members. 
 * Send a slack reminder for the content deadline. Content is due the week before the planned send date to allow time for building the draft, design, and reviews.
-* Collaborate with the [Social Marketing team](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) on copy for sharing and promoting the newsletter issue.
+* Collaborate with the [Social Marketing team](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) on copy for sharing and promoting the newsletter issue.
 * [label `Community Newsletter::Ready`](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/?label_name%5B%5D=Community%20Newsletter::Ready): the newsletter is ready to be compiled in Mailjet. [Mailjet](https://www.mailjet.com/) is an email marketing used amongst other teams at GitLab to build and send newsletters.
 * [label `Community Newsletter::Feedback`](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/?label_name%5B%5D=Community%20Newsletter::Feedback): After the newsletter has been sent, we leave the issue open for a week to collect feedback.
 * Capture the newsletter performance data in the issue, address any feedback for future iterations, and then close the issue. 
@@ -31,7 +31,7 @@ The Community Newsletter is scheduled to send on last Thursday of each month at 
 * GitLab Release Highlights
 * Resources: technical content from the GitLab Blog and other newsletters or resources.
 * Upcoming opportunities (e.g CFPs, projects)
-* Community Spotlight: a spotlight on our [Community Programs](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/) or [GitLab Heroes](https://about.gitlab.com/community/heroes/)
+* Community Spotlight: a spotlight on our [Community Programs](/handbook/marketing/developer-relations/community-programs/) or [GitLab Heroes](https://about.gitlab.com/community/heroes/)
 * Community Shoutout: sharing a tweet, video, or fun clip from the community.
 
 #### Submissions 

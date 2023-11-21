@@ -7,7 +7,7 @@ title: "Set up GitLab CE or EE on Azure Container Service"
 
 
 The video below shows how to install GitLab EE onto Azure Container Service. For
-the DevOps lifecycle, please refer to the [sales demo](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/).
+the DevOps lifecycle, please refer to the [sales demo](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/).
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/MoLKFQxRaGE" frameborder="0" allowfullscreen="true"> </iframe>

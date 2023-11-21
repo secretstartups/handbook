@@ -11,14 +11,14 @@ description: "This page describes automated workflows for processing application
 
 
 Community Programs workflows have been automated since FY23Q3. For details on the team's legacy workflows, see the 
-[Community Programs Legacy Application Workflow](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/) handbook.
+[Community Programs Legacy Application Workflow](/handbook/marketing/developer-relations/community-programs/community-program-applications/) handbook.
 {: .alert .alert-warning}
 
 ## About
 
 The goals of this handbook page are to:
 
-* Provide an overview of the automated workflows the [Community Programs team](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/) uses to process applications to [GitLab's community programs](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/#what-is-a-community-program)
+* Provide an overview of the automated workflows the [Community Programs team](/handbook/marketing/developer-relations/community-programs/) uses to process applications to [GitLab's community programs](/handbook/marketing/developer-relations/community-programs/#what-is-a-community-program)
 * Provide detailed descriptions of each step in those workflows
 * Establish more transparency into our workflows so GitLab team members can integrate with them
 
@@ -27,25 +27,25 @@ The goals of this handbook page are to:
 The Community Programs team partners with a third party, [SheerID](https://www.sheerid.com/shoppers/aboutsheerid/), to assist in processing applications to community programs.
 {: .alert .alert-warning}
 
-The Community Programs team processes applications to [GitLab's community programs](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/#meet-the-programs) with a seven-stage workflow:
+The Community Programs team processes applications to [GitLab's community programs](/handbook/marketing/developer-relations/community-programs/#meet-the-programs) with a seven-stage workflow:
 
 | Stage | Description |
 | ------ | ------ |
-| 0. [Application](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/#application) | Applicant completes an application form and submits it for eligibility verification. |
-| 1. [Verification](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/#verification) | SheerID and/or Commuity Programs team verifies applicant's eligibility. |
-| 2. [Booking](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/#booking) | Successfully verified applicants receive an email with instructions for activating complimentary GitLab licenses. Applicants receive coupon codes and enter those codes during checkout via a program-specific checkout page in the GitLab Customers Portal. |
-| 3. [Provisioning](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/#provisioning) | Subscription licenses are provisioned through the web direct process on the GitLab Customers Portal. |
-| 4. [Compliance](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/#compliance) | (Stage handled by Sales-Support and Billing Ops teams. |
-| 5. [Renewal](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/#renewal) | Program members receive notifications when their subscriptions are due to expire. They also receive insturctions for renewing those subscriptions. |
-| 6. [Support](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/#support) | Both new applicants and renewing members can seek support for issues they encounter during most stages of the application process. |
+| 0. [Application](/handbook/marketing/developer-relations/community-programs/automated-community-programs/#application) | Applicant completes an application form and submits it for eligibility verification. |
+| 1. [Verification](/handbook/marketing/developer-relations/community-programs/automated-community-programs/#verification) | SheerID and/or Commuity Programs team verifies applicant's eligibility. |
+| 2. [Booking](/handbook/marketing/developer-relations/community-programs/automated-community-programs/#booking) | Successfully verified applicants receive an email with instructions for activating complimentary GitLab licenses. Applicants receive coupon codes and enter those codes during checkout via a program-specific checkout page in the GitLab Customers Portal. |
+| 3. [Provisioning](/handbook/marketing/developer-relations/community-programs/automated-community-programs/#provisioning) | Subscription licenses are provisioned through the web direct process on the GitLab Customers Portal. |
+| 4. [Compliance](/handbook/marketing/developer-relations/community-programs/automated-community-programs/#compliance) | (Stage handled by Sales-Support and Billing Ops teams. |
+| 5. [Renewal](/handbook/marketing/developer-relations/community-programs/automated-community-programs/#renewal) | Program members receive notifications when their subscriptions are due to expire. They also receive insturctions for renewing those subscriptions. |
+| 6. [Support](/handbook/marketing/developer-relations/community-programs/automated-community-programs/#support) | Both new applicants and renewing members can seek support for issues they encounter during most stages of the application process. |
 
 ## Application
 
-SheerID hosts [applications](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/#meet-the-programs) for the GitLab for Open Education and GitLab for Open Source programs. All communications (email and browser notifications) sent during the verification phase for these two programs are hosted and sent by SheerID.
+SheerID hosts [applications](/handbook/marketing/developer-relations/community-programs/#meet-the-programs) for the GitLab for Open Education and GitLab for Open Source programs. All communications (email and browser notifications) sent during the verification phase for these two programs are hosted and sent by SheerID.
 
 SheerID provides [customer service](https://drive.google.com/file/d/13AW0BYt4HNFzGfM6iRuMtpjZ1J8tAXyI/view?usp=sharing) specific to GitLab. [MySheerID](https://my.sheerid.com/) is the customer portal for the verification system. The portal contains details on each application form, a reporting system, and account settings. Anyone requiring access to the MySheerID portal can request an account through an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
 
-The [application](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/#meet-the-programs) to GitLab for Startups is a Marketo form.
+The [application](/handbook/marketing/developer-relations/community-programs/#meet-the-programs) to GitLab for Startups is a Marketo form.
 
 We review GitLab's contract with SheerID on an annual basis. Costs are based on the total number of verifications across all programs.
 {: .alert .alert-warning}
@@ -54,9 +54,9 @@ We review GitLab's contract with SheerID on an annual basis. Costs are based on 
 
 The verification process differs by program. See these handbook pages for more detail:
 
-- [GitLab for Education verification](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/edu-program-verification/)
-- [GitLab for Open Source verification](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/oss-program-verification/)
-- [GitLab for Startups verification](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/startups-program-verification/)
+- [GitLab for Education verification](/handbook/marketing/developer-relations/community-programs/automated-community-programs/edu-program-verification/)
+- [GitLab for Open Source verification](/handbook/marketing/developer-relations/community-programs/automated-community-programs/oss-program-verification/)
+- [GitLab for Startups verification](/handbook/marketing/developer-relations/community-programs/automated-community-programs/startups-program-verification/)
 
 The links below contain helpful resources for navigating the SheerID review portal:
 
@@ -147,7 +147,7 @@ Debooking a subscription revokes its associated Ultimate license.
 
 ## Renewal
 
-Applicants renewing their program memberships must re-apply to their respective programs to ensure continued eligibility. To do this, they use [the same application forms](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/#meet-the-programs) they used when initially enrolling in the program.
+Applicants renewing their program memberships must re-apply to their respective programs to ensure continued eligibility. To do this, they use [the same application forms](/handbook/marketing/developer-relations/community-programs/#meet-the-programs) they used when initially enrolling in the program.
 
 The success email will contain a direct link to a program-specific page for each program (Education/Open Source) in the GitLab Customers Portal. The program-specific pages are not available directly in the GitLab Customers Portal without the direct link. The applicant will need to enter the unique coupon code during the checkout process. Links for community-specific customer portal are [here](https://gitlab.com/gitlab-com/marketing/community-relations/community-operations/community-operations/-/issues/169).
 

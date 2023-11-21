@@ -78,7 +78,7 @@ Forwarding of confidential business emails or documents to personal external ema
 
 > Note: GitLab may retrieve messages from archives and servers without prior notice if GitLab has sufficient reason to do so. If deemed necessary, this investigation will be conducted with the knowledge and approval of the Security, People Business Partners, and Legal Departments.
 
-In addition to following the [Team Member Social Media Policy](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/), when utilizing social media think about the effects of statements that you make. Keep in mind that these transmissions are permanent and easily transferable, and can affect our company’s reputation and relationships with team members and customers. When using social media tools like blogs, Facebook, Twitter or wikis, ensure that you do not make comments on behalf of GitLab without proper authorization. Also, you must not disclose our company’s confidential or proprietary information about our business, our suppliers, or our customers.
+In addition to following the [Team Member Social Media Policy](/handbook/marketing/team-member-social-media-policy/), when utilizing social media think about the effects of statements that you make. Keep in mind that these transmissions are permanent and easily transferable, and can affect our company’s reputation and relationships with team members and customers. When using social media tools like blogs, Facebook, Twitter or wikis, ensure that you do not make comments on behalf of GitLab without proper authorization. Also, you must not disclose our company’s confidential or proprietary information about our business, our suppliers, or our customers.
 
 ### Return of GitLab-Owned Assets
 

@@ -58,17 +58,17 @@ On a monthly cadence, the **Marketing Key Review** will be used as the venue for
 {: #roles-responsibilities}
 <!-- DO NOT CHANGE ANCHOR -->
 
-[See roles and responsibilities section on the campaigns handbook](https://about.gitlab.com/handbook/marketing/campaigns/#roles-responsibilities)
+[See roles and responsibilities section on the campaigns handbook](/handbook/marketing/campaigns/#roles-responsibilities)
 
 ## Glossary of terminology
 {: #glossary .gitlab-purple}
 
-- **[GTM Motion](https://about.gitlab.com/handbook/marketing/plan-fy22#gtm-motions)**: a set of sales and marketing activities and asssets centered around a [solution](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/).
-- **[Campaign Core Team](https://about.gitlab.com/handbook/marketing/plan-fy23#campaign-core-teams)**: a group of marketers as functional DRIs for specific campaigns, led by marketing campaigns
-- **[Integrated Campaign](https://about.gitlab.com/handbook/marketing/campaigns/#overview)**: managed by Campaign Managers, these are global campaigns that are leveraged across marketing and sales to drive pipeline.
-* **[Key Account Lists)](https://about.gitlab.com/handbook/marketing/account-based-marketing/key-account-lists)**: key accounts determined by sales that will be a focus for integrated ABM campaigns.
+- **[GTM Motion](/handbook/marketing/plan-fy22#gtm-motions)**: a set of sales and marketing activities and asssets centered around a [solution](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/).
+- **[Campaign Core Team](/handbook/marketing/plan-fy23#campaign-core-teams)**: a group of marketers as functional DRIs for specific campaigns, led by marketing campaigns
+- **[Integrated Campaign](/handbook/marketing/campaigns/#overview)**: managed by Campaign Managers, these are global campaigns that are leveraged across marketing and sales to drive pipeline.
+* **[Key Account Lists)](/handbook/marketing/account-based-marketing/key-account-lists)**: key accounts determined by sales that will be a focus for integrated ABM campaigns.
 - **[LAM]()**: Landed Addressable Market; annual revenue opportunity of the entirety of GitLab's market within our current customer base
-- **[ICP](https://about.gitlab.com/handbook/marketing/account-based-marketing/ideal-customer-profile/)**: Ideal Customer Profile; description of our "perfect" customer company, taking into consideration firmographic, environmental and additional factors to develop our focus list of highest value accounts
+- **[ICP](/handbook/marketing/account-based-marketing/ideal-customer-profile/)**: Ideal Customer Profile; description of our "perfect" customer company, taking into consideration firmographic, environmental and additional factors to develop our focus list of highest value accounts
 
 ## GTM Motions & Campaigns
 {: #gtm-motions .gitlab-purple}
@@ -84,9 +84,9 @@ View this [Figjam](https://www.figma.com/file/NjcRe0cN3mHFg4ESib8UCD/FY23-Campai
 ## Campaign Core Teams & Campaign Bundles
 {: #campaign-core-teams .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
-A campaign core team is comprised of teams across marketing and revenue programs, working togehter to build new campaigns and optimize ongoing campaigns. [Learn more here >>](https://about.gitlab.com/handbook/marketing/campaigns/#campaign-core-teams)
+A campaign core team is comprised of teams across marketing and revenue programs, working togehter to build new campaigns and optimize ongoing campaigns. [Learn more here >>](/handbook/marketing/campaigns/#campaign-core-teams)
 
-When a new campaign is being developed, the campaign core team will work together to develop a campaign bundle, which is then leveraged by all teams across marketing and sales for a cohesive approach from top funnel tactics to sales conversations. [Learn more here >>](https://about.gitlab.com/handbook/marketing/campaigns/#campaign-bundles)
+When a new campaign is being developed, the campaign core team will work together to develop a campaign bundle, which is then leveraged by all teams across marketing and sales for a cohesive approach from top funnel tactics to sales conversations. [Learn more here >>](/handbook/marketing/campaigns/#campaign-bundles)
 
 ## Value Plays
 {: #value-plays .gitlab-purple}
@@ -125,7 +125,7 @@ If your team or name is not listed as part of the core team, don't worry! As par
 {: #marketing-calendar .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-The following is a single all-marketing calendar where everyone can contribute, and we can answer key questions (using filters) related to upcoming marketing plans. The calendar also lives at the top of the [Marketing Handbook Page](https://about.gitlab.com/handbook/marketing/#marketing-calendar).
+The following is a single all-marketing calendar where everyone can contribute, and we can answer key questions (using filters) related to upcoming marketing plans. The calendar also lives at the top of the [Marketing Handbook Page](/handbook/marketing/#marketing-calendar).
 
 In your [Google Drive](https://drive.google.com/drive/u/1/my-drive), search for (and bookmark) `FY23 All-Marketing Calendar SSoT`.**
 
@@ -135,4 +135,4 @@ This is where all teams will input and categorize planned activities, content pr
 {: #project-management .gitlab-purple}
 
 <!-- DO NOT CHANGE ANCHOR -->
-Each GTM campaign will each have an epic, where all teams can reference plans and the issues (i.e. action items) to accomplish the plans. We will be making use of 2 week milestones (Marketing - 2022-MM-DD). The Cammpaign Core Teams themselves will decide how often to have stand-ups, whether live or through slack, as well as any other synchronous calls. See more on the [Campaigns handbook page >>](https://about.gitlab.com/handbook/marketing/campaigns/)
+Each GTM campaign will each have an epic, where all teams can reference plans and the issues (i.e. action items) to accomplish the plans. We will be making use of 2 week milestones (Marketing - 2022-MM-DD). The Cammpaign Core Teams themselves will decide how often to have stand-ups, whether live or through slack, as well as any other synchronous calls. See more on the [Campaigns handbook page >>](/handbook/marketing/campaigns/)

@@ -18,7 +18,7 @@ description: "The FACE is a cross-functional group of functional analytics teams
 
 **Why was this created?** The product org realized the importance of how an user's email domain impacts their probability of conversion. Segmenting new namespaces and users by this information is a crucial way to study and identify high-value customers.
 
-Marketing also segments by email domain for communications and [scores new leads with a business email differently](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#demographic-scoring) to those with personal or generic email domains.
+Marketing also segments by email domain for communications and [scores new leads with a business email differently](/handbook/marketing/marketing-operations/marketo/#demographic-scoring) to those with personal or generic email domains.
 
 Previously, there have been a few Sisense snippets or sheets with email domain classifications, but this approach was not performant and did not act as a SSOT (Source of Truth) for classifying email domains. The Email Domain Classification table solves both of these issues.
 

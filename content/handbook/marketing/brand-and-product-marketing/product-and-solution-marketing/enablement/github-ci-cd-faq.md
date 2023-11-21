@@ -172,7 +172,7 @@ GitLab SaaS: Premium, Ultimate (after 2019-09-22)
 
 ### Q: Do we have current customers using GitLab CI/CD for GitHub?
 
-A: No, GitLab CI/CD for GitHub is being [released and launched](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) on the same day. As such, it will not be available for customers to use until after GitLab 10.6  is released on 2018-03-22.
+A: No, GitLab CI/CD for GitHub is being [released and launched](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) on the same day. As such, it will not be available for customers to use until after GitLab 10.6  is released on 2018-03-22.
 
 
 

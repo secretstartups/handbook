@@ -76,7 +76,7 @@ GitLab Premium customers may be experiencing one or more of the below challenges
 |   How to ensure scans are executed consistently and policies applied          |      teams may skip scans or use exceptions to push ahead, difficult to see across tools when this happens      |
 | Security costs are unpredictable or concerning as DevOps scales | must find more money as number of apps grows |
 
-An in-depth view of security pain points and probing questions around them can be found on the [DevSecOps resource page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#discovery-questions)
+An in-depth view of security pain points and probing questions around them can be found on the [DevSecOps resource page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#discovery-questions)
 
 
 ### Common Benefits  
@@ -105,7 +105,7 @@ To achieve the positive business outcomes highlighted above, what required capab
 
 ## Engaging the Customer
 
-Note: maybe we use [this link as mvc1](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#discovery-questions) and then change the resource pages to the suggested format?
+Note: maybe we use [this link as mvc1](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#discovery-questions) and then change the resource pages to the suggested format?
 
 | Questions to Better Understand the Customer’s needs  | Discovery questions  |
 | ------------- | ------------- |
@@ -129,7 +129,7 @@ GitLab Ultimate enables IT transformation by optimizing and accelerating deliver
 
 ### How GitLab Does It
 
-[How GitLab meets the market requirements for security](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#how-gitlab-meets-the-market-requirements) (link includes benefits, videos, and more.)
+[How GitLab meets the market requirements for security](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#how-gitlab-meets-the-market-requirements) (link includes benefits, videos, and more.)
 
 ### How GitLab Does It Better
 
@@ -144,7 +144,7 @@ With GitLab Ultimate, organizations are able to truly shift security left (and r
 
 Advantages of a single application for DevOps and Security together include unparalleled visibility and insights/traceability with consistent compliance to policies and regulatory requirements for cleaner, easier audits.
 
-**[Key GitLab differentiators](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#top-differentiators)** include:
+**[Key GitLab differentiators](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#top-differentiators)** include:
 
 1. Detailed and Actionable Scan Results Displayed in MRs created from Feature Branch
    * Microsoft does this for SAST and Dependencies. Other scan types require integration and bring-your-own licenses.
@@ -167,7 +167,7 @@ Advantages of a single application for DevOps and Security together include unpa
 
 *see provided link for additional details including value and videos*
 
-### [Proof points](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#proof-points---customers)
+### [Proof points](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#proof-points---customers)
 
 
 ## Objection handling
@@ -179,9 +179,9 @@ Advantages of a single application for DevOps and Security together include unpa
 | ------------- | ------------- |
 | How does your scanning capability compare to leading scanners? How accurate are they?    | [accuracy slide](https://docs.google.com/presentation/d/1mLnmgQ5hqTzcwk3Vjh0BEIdx9SYgORV-2g7zPKmFKFc/edit#slide=id.g9e2080204d_0_1084), [G2 SAST](https://www.g2.com/categories/static-application-security-testing-sast#grid) |
 | Can you integrate with my  incumbent scanner? | We can [work with other scanners](https://docs.gitlab.com/ee/development/integrations/secure.html) or [replace them](https://docs.google.com/presentation/d/1mLnmgQ5hqTzcwk3Vjh0BEIdx9SYgORV-2g7zPKmFKFc/edit#slide=id.g9e2080204d_0_3374) |
-| Ultimate is 5x.       | [Why Ultimate](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#ultimate)         |
+| Ultimate is 5x.       | [Why Ultimate](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#ultimate)         |
 
-Other objections and responses can be found in the [FAQ deck](https://docs.google.com/presentation/d/1mLnmgQ5hqTzcwk3Vjh0BEIdx9SYgORV-2g7zPKmFKFc/edit#slide=id.g2823c3f9ca_0_9) with more detail on [Potential objections](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#potential-objections) here.
+Other objections and responses can be found in the [FAQ deck](https://docs.google.com/presentation/d/1mLnmgQ5hqTzcwk3Vjh0BEIdx9SYgORV-2g7zPKmFKFc/edit#slide=id.g2823c3f9ca_0_9) with more detail on [Potential objections](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#potential-objections) here.
 
 ## Services
 
@@ -351,7 +351,7 @@ Will have specific resources under actions above. This is for additional resourc
 * [GitLab Ultimate specific features and value handbook page](https://about.gitlab.com/pricing/ultimate/#ultimate-specific-features)
 * [SKO Expanding to Ultimate slide deck](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit#slide=id.gb4749ff26b_0_85)
 * [Why GitLab Ultimate slide deck](https://docs.google.com/presentation/d/1TP5cXH5Nr0VkH7mE6M_-DFXT_Jnq7o5LPxuMUz2paI4/edit?usp=sharing)
-* [Selling DevSecOps resource page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#ultimate)
+* [Selling DevSecOps resource page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#ultimate)
 *  Selling security (need link) see John Blevin's online classroom material
 *  New Gartner MQ for Plan (Expected in May)
 *  Gartner MQ for AST (expected in May 2021)
@@ -384,5 +384,5 @@ Note: progress of the GTM Motion will be measured at the campaign level with cli
 
 Marketing is running a related demand gen campaign.  
 
-* Initial launch will include the email campaign outlined above for SMB to drive leads using the [Message house](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/message-house-premium-to-ultimate).
+* Initial launch will include the email campaign outlined above for SMB to drive leads using the [Message house](/handbook/marketing/sales-plays-cicd/message-house-premium-to-ultimate).
 * An 'air cover' campaign will raise awareness of GitLab's Ultimate capabilities. It will likely include Security (first) and Planning capabilities (next).

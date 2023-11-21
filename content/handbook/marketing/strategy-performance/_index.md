@@ -182,27 +182,27 @@ To give each functional marketing team has a single point of contact for marketi
 
 | Functional Marketing Team  | MS&A Team Member |
 | ------ | ------ |
-| [Brand](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/)  | Jerome Ahye |
-| [SEO](https://about.gitlab.com/handbook/marketing/inbound-marketing/search-marketing/seo-strategy/) | Dennis Charukulvanich |
-| [Account Based Marketing](https://about.gitlab.com/handbook/marketing/account-based-marketing/) | Jerome Ahye |
-| [Sales Dev](https://about.gitlab.com/handbook/marketing/sales-development/)  | Djordje Micovic |
-| [Demand Generation Campaigns Team](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/) | David Egan |
-| [Partner](https://about.gitlab.com/handbook/marketing/channel-marketing/#how-we-communicate-with-channel-partners)  | David Egan |
-| [Digital Strategy](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/) | David Egan |
-| [Lifecycle Marketing](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/) | David Egan |
-| [Field Marketing](https://about.gitlab.com/handbook/marketing/field-marketing/) | Djordje Micovic |
-| [Global Channel Marketing](https://about.gitlab.com/handbook/marketing/channel-marketing/) | Djordje Micovic |
-| [Digital Experience](https://about.gitlab.com/handbook/marketing/digital-experience/) | Dennis Charukulvanich |
-| [Developer Relations](https://about.gitlab.com/handbook/marketing/developer-relations/) | Robert Kohnke |
+| [Brand](/handbook/marketing/brand-and-product-marketing/brand/)  | Jerome Ahye |
+| [SEO](/handbook/marketing/inbound-marketing/search-marketing/seo-strategy/) | Dennis Charukulvanich |
+| [Account Based Marketing](/handbook/marketing/account-based-marketing/) | Jerome Ahye |
+| [Sales Dev](/handbook/marketing/sales-development/)  | Djordje Micovic |
+| [Demand Generation Campaigns Team](/handbook/marketing/demand-generation/campaigns/) | David Egan |
+| [Partner](/handbook/marketing/channel-marketing/#how-we-communicate-with-channel-partners)  | David Egan |
+| [Digital Strategy](/handbook/marketing/integrated-marketing/digital-strategy/) | David Egan |
+| [Lifecycle Marketing](/handbook/marketing/lifecycle-marketing/) | David Egan |
+| [Field Marketing](/handbook/marketing/field-marketing/) | Djordje Micovic |
+| [Global Channel Marketing](/handbook/marketing/channel-marketing/) | Djordje Micovic |
+| [Digital Experience](/handbook/marketing/digital-experience/) | Dennis Charukulvanich |
+| [Developer Relations](/handbook/marketing/developer-relations/) | Robert Kohnke |
 
 ## <i id="biz-tech-icons" class="far fa-folder-open"></i>Important Resources
 
-- [Marketing Metrics](https://about.gitlab.com/handbook/marketing/strategy-performance/marketing-metrics)
+- [Marketing Metrics](/handbook/marketing/strategy-performance/marketing-metrics)
 
 ## <i id="biz-tech-icons" class="fas fa-toolbox"></i>We are the Bussiness Owners Of the Following Applications: 
 
-- [Bizible](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/)
-- [Allocadia](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/)
+- [Bizible](/handbook/marketing/marketing-operations/bizible/)
+- [Allocadia](/handbook/marketing/strategy-performance/allocadia/)
 - Google Analytics
 
 
@@ -215,19 +215,19 @@ If you are working with a contractor or consultant that requires access to one o
 
 ## Campaigns and Programs
 
-As is typical of any marketing organization, we often look at our Campaigns to see how they are doing. The [Campaigns and Programs Page](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#campaigns) shows all of the campaign types, their progression statuses and cost tracking.
+As is typical of any marketing organization, we often look at our Campaigns to see how they are doing. The [Campaigns and Programs Page](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaigns) shows all of the campaign types, their progression statuses and cost tracking.
 
 ## Initial Source
 
-Similarly, we are interested in the`Initial Source` of a given prospect. It is the first "known" touch attribution or when a website visitor becomes a known name in our database. The list of currently supported values for `initial source` can be found on the [Mktg Ops page](https://about.gitlab.com/handbook/marketing/marketing-operations/#initial-source).
+Similarly, we are interested in the`Initial Source` of a given prospect. It is the first "known" touch attribution or when a website visitor becomes a known name in our database. The list of currently supported values for `initial source` can be found on the [Mktg Ops page](/handbook/marketing/marketing-operations/#initial-source).
 
 ## Lead and Contact Statuses
 
-The Lead & Contact objects in Salesforce have unified statuses with [set definitions](https://about.gitlab.com/handbook/marketing/marketing-operations/#lead-and-contact-statuses).
+The Lead & Contact objects in Salesforce have unified statuses with [set definitions](/handbook/marketing/marketing-operations/#lead-and-contact-statuses).
 
 ## Touchpoints & Attribution
 
-We use Adobe Marketo Measure (Bizible) for marketing attribution and tracking times when there is engagement with our prospects. The [Adobe Marketo Measure handbook page](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/) has more details.
+We use Adobe Marketo Measure (Bizible) for marketing attribution and tracking times when there is engagement with our prospects. The [Adobe Marketo Measure handbook page](/handbook/marketing/marketing-operations/bizible/) has more details.
 
 ## Web Traffic Analysis
 

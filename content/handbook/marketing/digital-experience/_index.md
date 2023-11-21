@@ -84,10 +84,10 @@ To be defined by each group on a quarterly basis.
 | **Focus**<br>Awareness & Consideration<br><br>- Navigation<br>- Footer<br>- Search Bar & Results<br>- No Search Results<br>- 404 page<br>- Support<br>- Get Help<br>- Sales<br>- Analysts<br>- Update<br>- AB Testing       | **Focus**<br>Consideration & Evaluation<br><br>- Features<br>- Solutions<br>- Use Cases<br>- Get Started<br>- DevOps Lifecycle<br>- Customer Case Studies<br>- Blog<br>- Lightning Strikes<br>- AB Testing                                                                                                                                                   | **Focus**<br>Conversion & Purchase<br><br>- Homepage<br>- Pricing<br>- Why GitLab<br>- Install<br>- Demo<br>- Ecommerce / No Touch<br>- Path to purchase<br>- User/Buyer Journeys<br>- 3rd Party Marketplace<br>- AB Testing                                                                                                                                                                     | **Focus**<br>Loyalty & Advocacy<br><br>- Partners<br>- Events<br>- Jobs<br>- Learn<br>- Community<br>- All Remote<br>- Company                                                                             |
 | **Metrics**<br>Increased engagement<br><br>- Lower bounce rate<br>- Increased pages/session<br>- Increased time on site                                                                                                                                                                                                                                        | **Metrics**<br>Click through from focus pages to:<br><br>- Pricing Page<br>- Free Trial                                                                                                                                                                                                                                           | **Metrics**<br>Conversion rate past key pages:<br><br>- Pricing Page<br>- Free Trial                                                                                                                                                                                                                                                                                                             | **Metrics**<br>Increased engagement<br><br>- Lower bounce rate<br>- Increased pages/session<br>- Increased time on site                                                                                    |
 | **Product Manager**<br>- [Filza Qureshi](https://gitlab.com/fqureshi)                                                                                                                                                                                                                                                                                      | **Product Manager**<br>- [Filza Qureshi](https://gitlab.com/fqureshi)                                                                                                                                                                                                                                                                                    | **Product Manager**<br>- [Filza Qureshi](https://gitlab.com/fqureshi) | **Product Manager**<br>- [Filza Qureshi](https://gitlab.com/fqureshi)                                                                       |
-| **Engineering Manager**<br>- [Lauren Barker](https://gitlab.com/laurenbarker), [ReadMe](https://about.gitlab.com/handbook/marketing/readmes/lauren-barker.html)|**Engineering Manager**<br>- [Justin Vetter](https://gitlab.com/justin.vetter) |**Engineering Manager**<br>- [Justin Vetter](https://gitlab.com/justin.vetter) | **Engineering Manager**<br>- [Lauren Barker](https://gitlab.com/laurenbarker), [ReadMe](https://about.gitlab.com/handbook/marketing/readmes/lauren-barker.html)|
+| **Engineering Manager**<br>- [Lauren Barker](https://gitlab.com/laurenbarker), [ReadMe](/handbook/marketing/readmes/lauren-barker.html)|**Engineering Manager**<br>- [Justin Vetter](https://gitlab.com/justin.vetter) |**Engineering Manager**<br>- [Justin Vetter](https://gitlab.com/justin.vetter) | **Engineering Manager**<br>- [Lauren Barker](https://gitlab.com/laurenbarker), [ReadMe](/handbook/marketing/readmes/lauren-barker.html)|
 | **Product Design**<br>- [Carrie Tsang](https://gitlab.com/ctsang-ext)<br>- [Trevor Storey](https://gitlab.com/trevor-storey)                               | **Product Design**<br>- [Jess Halloran](https://gitlab.com/jhalloran)                                                                                                                                                                                                                                                                                    | **Product Design**<br>- [Tina Lise Ng](https://gitlab.com/Tinaliseng)                                                                                                                                                                                                                                                                                                                        | **Product Design**<br>- [Jess Halloran](https://gitlab.com/jhalloran)<br>- [Tina Lise Ng](https://gitlab.com/Tinaliseng)                                                                                                                 |
-| **Engineering**<br>- [Megan Filo](https://gitlab.com/meganfilo) (Lead), [ReadMe](https://gitlab.com/meganfilo/meganfilo/-/blob/main/README.md)<br>- [Javi Garcia](https://gitlab.com/jgarc)<br>- [John Arias](https://gitlab.com/jariasc-ext)<br>- [Tieme Akamine](https://gitlab.com/takamine-ext) | **Engineering**<br>- [Laura Duggan](https://gitlab.com/lduggan) (Lead), [ReadMe](https://about.gitlab.com/handbook/marketing/readmes/laura-duggan.html)<br>- [Miguel Duque](https://gitlab.com/mduque-ext) <br>- [Mateo Penagos](https://gitlab.com/mpenagos-ext) | **Engineering**<br>- [Nathan Dubord](https://gitlab.com/ndubord) (Lead), [ReadMe](https://about.gitlab.com/handbook/marketing/readmes/nathan-dubord.html)<br>- [Miracle Banks](https://gitlab.com/miraclebanks)<br>- [Marg Mañunga](https://gitlab.com/mmanunga-ext) | **Engineering**<br>- TBH<br>- TBH<br>- TBH<br>- TBH                                                                                                                                                    |
-| **Director**<br>- [Michael Preuss](https://gitlab.com/mpreuss22), [ReadMe](https://about.gitlab.com/handbook/marketing/readmes/michael-preuss.html)                                                                                                                                                                 | **Director**<br>- [Michael Preuss](https://gitlab.com/mpreuss22), [ReadMe](https://about.gitlab.com/handbook/marketing/readmes/michael-preuss.html)                                                                                                                                                               | **Director**<br>- [Michael Preuss](https://gitlab.com/mpreuss22), [ReadMe](https://about.gitlab.com/handbook/marketing/readmes/michael-preuss.html)                                                                                                                                                                                                   | **Director**<br>- [Michael Preuss](https://gitlab.com/mpreuss22), [ReadMe](https://about.gitlab.com/handbook/marketing/readmes/michael-preuss.html)             |
+| **Engineering**<br>- [Megan Filo](https://gitlab.com/meganfilo) (Lead), [ReadMe](https://gitlab.com/meganfilo/meganfilo/-/blob/main/README.md)<br>- [Javi Garcia](https://gitlab.com/jgarc)<br>- [John Arias](https://gitlab.com/jariasc-ext)<br>- [Tieme Akamine](https://gitlab.com/takamine-ext) | **Engineering**<br>- [Laura Duggan](https://gitlab.com/lduggan) (Lead), [ReadMe](/handbook/marketing/readmes/laura-duggan.html)<br>- [Miguel Duque](https://gitlab.com/mduque-ext) <br>- [Mateo Penagos](https://gitlab.com/mpenagos-ext) | **Engineering**<br>- [Nathan Dubord](https://gitlab.com/ndubord) (Lead), [ReadMe](/handbook/marketing/readmes/nathan-dubord.html)<br>- [Miracle Banks](https://gitlab.com/miraclebanks)<br>- [Marg Mañunga](https://gitlab.com/mmanunga-ext) | **Engineering**<br>- TBH<br>- TBH<br>- TBH<br>- TBH                                                                                                                                                    |
+| **Director**<br>- [Michael Preuss](https://gitlab.com/mpreuss22), [ReadMe](/handbook/marketing/readmes/michael-preuss.html)                                                                                                                                                                 | **Director**<br>- [Michael Preuss](https://gitlab.com/mpreuss22), [ReadMe](/handbook/marketing/readmes/michael-preuss.html)                                                                                                                                                               | **Director**<br>- [Michael Preuss](https://gitlab.com/mpreuss22), [ReadMe](/handbook/marketing/readmes/michael-preuss.html)                                                                                                                                                                                                   | **Director**<br>- [Michael Preuss](https://gitlab.com/mpreuss22), [ReadMe](/handbook/marketing/readmes/michael-preuss.html)             |
 
 
 ## Scope
@@ -206,7 +206,7 @@ Iteration planning is an event that kicks off the start of an iteration. The pur
 
 **Cadence:** 25min, bi-weekly (zoom)
 
-**Who:** [Digital Experience groups](https://about.gitlab.com/handbook/marketing/digital-experience/#groups-metrics--team-members)
+**Who:** [Digital Experience groups](/handbook/marketing/digital-experience/#groups-metrics--team-members)
 
 **What:**
 * The team distributes the prioritized list of issues.
@@ -218,7 +218,7 @@ An event to showcase what the team has accomplished over the past iteration. The
 
 **When:** Thursdays, 25min, bi-weekly (zoom)
 
-**Who:** [Digital Experience groups](https://about.gitlab.com/handbook/marketing/digital-experience/#groups-metrics--team-members)
+**Who:** [Digital Experience groups](/handbook/marketing/digital-experience/#groups-metrics--team-members)
 
 **What:**
 * Showcase what has been released in the past iteration.
@@ -336,7 +336,7 @@ Team members who create a Merge Request should factor in a suitable amount of ti
 
 When a team member is requested for review, it is good practice for them to post a comment in the Merge Request with an estimated timeline by which they expect to complete the review. For example, it is understandable to take 3 days to do a review, as long as you’ve let the MR creator know it may take that long. This gives the MR creator an opportunity to request a review from another team member.
 
-Digital Experience code request reviews should include the [merge request checklist](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-Checklist-Basic.md) as referenced on the [reviewing merge requests](https://about.gitlab.com/handbook/marketing/digital-experience/website/merge-requests/) handbook page. Merge requests involving a URL redirect should also include the [redirect checklist](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-Redirect-Checklist.md).
+Digital Experience code request reviews should include the [merge request checklist](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-Checklist-Basic.md) as referenced on the [reviewing merge requests](/handbook/marketing/digital-experience/website/merge-requests/) handbook page. Merge requests involving a URL redirect should also include the [redirect checklist](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-Redirect-Checklist.md).
 
 ## Production Change Lock (PCL)
 
@@ -354,13 +354,13 @@ During PCL periods, merge requests and deployments can only be made by senior te
 
 ## Figma Process
 
-- [How we use Figma](https://about.gitlab.com/handbook/marketing/digital-experience/figma/)
+- [How we use Figma](/handbook/marketing/digital-experience/figma/)
 
 ## GitLab Product Process
 
-From time to time, our team has objectives that require us to collaborate on the [GitLab product](https://gitlab.com/gitlab-org/gitlab). [Read more about the process for our engineers to onboard](https://about.gitlab.com/handbook/marketing/digital-experience/engineering-gitlab-product)
+From time to time, our team has objectives that require us to collaborate on the [GitLab product](https://gitlab.com/gitlab-org/gitlab). [Read more about the process for our engineers to onboard](/handbook/marketing/digital-experience/engineering-gitlab-product)
 
-**Special cases during release post schedule:** we hold off on making changes to the `www-gitlab-com` repository during [release post](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-posts) days. The release post process is handled by a different team, and it can be disruptive to their work when we release changes to dependencies, CI/CD, or other major changes around their monthly release cadence.
+**Special cases during release post schedule:** we hold off on making changes to the `www-gitlab-com` repository during [release post](/handbook/marketing/blog/release-posts/#release-posts) days. The release post process is handled by a different team, and it can be disruptive to their work when we release changes to dependencies, CI/CD, or other major changes around their monthly release cadence.
 
 ## Repository Health Contributions
 
@@ -435,7 +435,7 @@ Watch our team in action on YouTube!
 
 ## Digital Experience Shadow Program
 
-We're piloting a new Shadow program, details here: [Digital Experience Shadow Program](https://about.gitlab.com/handbook/marketing/digital-experience/digital-experience-shadow-program/)
+We're piloting a new Shadow program, details here: [Digital Experience Shadow Program](/handbook/marketing/digital-experience/digital-experience-shadow-program/)
 
 # Requesting Support
 
@@ -445,14 +445,14 @@ We do our best to assist team members but do not operate as an internal agency s
 
 ### Approving Changes to the Marketing Site
 
-Beginning in FY23Q3, all changes to the marketing site made by team members outside of Digital Experience will need to go through the [Marketing Site Approval Process](https://about.gitlab.com/handbook/marketing/digital-experience/marketing-site-approval-process). This ensures all changes align with the goals our Marketing team is working towards. Merge requests created in the [Buyer Experience Repository](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) should utilize the `marketing-site-change` [MR template](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/.gitlab/merge_request_templates/marketing-site-change.md). 
+Beginning in FY23Q3, all changes to the marketing site made by team members outside of Digital Experience will need to go through the [Marketing Site Approval Process](/handbook/marketing/digital-experience/marketing-site-approval-process). This ensures all changes align with the goals our Marketing team is working towards. Merge requests created in the [Buyer Experience Repository](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) should utilize the `marketing-site-change` [MR template](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/.gitlab/merge_request_templates/marketing-site-change.md). 
 
 
 ### Lightning Strikes 
 
 #### What are lightning strikes? 
 
-Lightning strikes are when [work outside of iteration planning](https://about.gitlab.com/handbook/marketing/digital-experience/#planning-iteration-plan-sync) must be performed; these are usually both business critical and time sensitive tasks. 
+Lightning strikes are when [work outside of iteration planning](/handbook/marketing/digital-experience/#planning-iteration-plan-sync) must be performed; these are usually both business critical and time sensitive tasks. 
 
 #### How do you know if a lightning strike is necessary? 
 
@@ -466,7 +466,7 @@ There are no specific guidelines we have set in place to what warrants a lightni
 If you have answered no to all of these questions, it is likely to be a lightining strike. There are exceptions to this heuristic that may exist and can change as our work does. Generally speaking, anything outside of this definition will **not warrant a lightning strike**
 
 
-Just because something isn’t a lightning strike doesn’t mean we won’t get to that work. However, that body of work will have to go through the [normal triage process](https://about.gitlab.com/handbook/marketing/digital-experience/#triage) and be [prioritized there](https://about.gitlab.com/handbook/marketing/digital-experience/#requesting-support).
+Just because something isn’t a lightning strike doesn’t mean we won’t get to that work. However, that body of work will have to go through the [normal triage process](/handbook/marketing/digital-experience/#triage) and be [prioritized there](/handbook/marketing/digital-experience/#requesting-support).
 
 
 #### Are there any risks to operating under a lighting strike?
@@ -482,10 +482,10 @@ An essential aspect of our work efficiency revolves around receiving approved co
 ### Things we don't do
 
 1. **Content changes**. You can do these yourself using our CMS, Contentful:
-    1. [Here's a quick video](https://www.youtube.com/embed/6pdXijDzYkg?si=8JbdUBmzPHcWgzTk) on how to search for and edit existing content for the marketing site. For completely new pages, please fill out an [issue](https://about.gitlab.com/handbook/marketing/digital-experience/#issue-template-to-submit-an-idea-to-drive-our-business-goals)
-    1. Want to learn more about our Contentful CMS? [Here's the documentation](https://about.gitlab.com/handbook/marketing/digital-experience/contentful-cms)
-2. **Create content**. You can collaborate with our excellent [Global Content team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/) for these needs.
-3. **Create branded assets, custom graphics, illustrations**. Our [Brand design team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/) is so good at this, you definitely want their expertise.
+    1. [Here's a quick video](https://www.youtube.com/embed/6pdXijDzYkg?si=8JbdUBmzPHcWgzTk) on how to search for and edit existing content for the marketing site. For completely new pages, please fill out an [issue](/handbook/marketing/digital-experience/#issue-template-to-submit-an-idea-to-drive-our-business-goals)
+    1. Want to learn more about our Contentful CMS? [Here's the documentation](/handbook/marketing/digital-experience/contentful-cms)
+2. **Create content**. You can collaborate with our excellent [Global Content team](/handbook/marketing/brand-and-product-marketing/content/) for these needs.
+3. **Create branded assets, custom graphics, illustrations**. Our [Brand design team](/handbook/marketing/brand-and-product-marketing/design/) is so good at this, you definitely want their expertise.
 
 ### Issue template to submit an idea to drive our business goals
 

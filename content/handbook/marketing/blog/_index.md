@@ -69,9 +69,9 @@ Chat channels:
 
 ## Other related pages
 
-- [Editorial style guide](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/)
+- [Editorial style guide](/handbook/marketing/brand-and-product-marketing/content/editorial-team/)
 - [Brand guidelines](https://design.gitlab.com/)
-- [Monthly release post](https://about.gitlab.com/handbook/marketing/blog/release-posts/)
+- [Monthly release post](/handbook/marketing/blog/release-posts/)
 
 
 ## Considerations when drafting a blog
@@ -82,8 +82,8 @@ It is important that our blog content represents our company values of diversity
 
 #### Inclusive formatting
 
-- Did you select an [inclusive](https://about.gitlab.com/handbook/marketing/blog/#inclusive-photos) cover image and/or screengrab?
-- Write descriptive alternative text for all [inline images and screengrabs](https://about.gitlab.com/handbook/marketing/blog/#inline-images). Alternative text is important for SEO and accessibility. Read this [article from Moz to learn more about writing alternative text](https://moz.com/learn/seo/alt-text).
+- Did you select an [inclusive](/handbook/marketing/blog/#inclusive-photos) cover image and/or screengrab?
+- Write descriptive alternative text for all [inline images and screengrabs](/handbook/marketing/blog/#inline-images). Alternative text is important for SEO and accessibility. Read this [article from Moz to learn more about writing alternative text](https://moz.com/learn/seo/alt-text).
 - Ensure that all links are meaningful and descriptive (e.g. avoid link text such as "read here" or "this article"). Descriptive links are more useful and accessible for people using screen readers.
 
 #### Inclusive writing
@@ -120,7 +120,7 @@ If you're not sure which category your post belongs in, just put a placeholder i
 - `insights` – industry, data, newsjacking, developer survey, etc.
 - `news` – company or product announcements (including policy changes, operational announcements, and breaking changes), news, or events
 - `security` – security-related posts
-- `releases` - release posts, security and patch releases. Posts in the `releases` category need to be in the `sites/uncategorized/source/releases/posts` directory, not `sites/uncategorized/source/blog/blog-posts`. Please see the [Release Post handbook](https://about.gitlab.com/handbook/marketing/blog/release-posts/) for more.
+- `releases` - release posts, security and patch releases. Posts in the `releases` category need to be in the `sites/uncategorized/source/releases/posts` directory, not `sites/uncategorized/source/blog/blog-posts`. Please see the [Release Post handbook](/handbook/marketing/blog/release-posts/) for more.
 
 #### Tags
 

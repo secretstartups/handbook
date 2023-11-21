@@ -17,7 +17,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 
 The goal of a GitLab integrated campaign is to strategically land a cohesive message to a target audience across a variety of channels and offers, dependent on the goals of the campaign. Content types include a combination of blog posts, webinars, whitepapers, reports, videos, case studies, and more. Activation of the campaigns takes place in a number of marketing channels include digital ads, social, paid social, SEO, PR, email, and more.
 
-**[Global Campaign Managers](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/)** are responsible for the strategizing of integrated campaigns and organizing timelines and DRIs for deliverables to execute on the campaigns.
+**[Global Campaign Managers](/handbook/marketing/demand-generation/campaigns/)** are responsible for the strategizing of integrated campaigns and organizing timelines and DRIs for deliverables to execute on the campaigns.
 
 **Questions? Please feel free to ask in the [#marketing-campaigns slack channel](https://gitlab.slack.com/archives/CCWUCP4MS) or ask in the [#marketing slack channel](https://gitlab.slack.com/messages/C0AKZRSQ5) and tag @marketing-campaigns.**
 
@@ -27,7 +27,7 @@ To understand the thought process behind our FY24 integrated campaigns structure
 
 ## What is involved in an Integrated Campaign?
 
-An integrated campaign is aligned to key go-to-market motions, decided in collaboration between marketing and sales, and built out by a [campaign core team](https://about.gitlab.com/handbook/marketing/campaigns/#campaign-core-teams). A [global campaign manager](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/) will lead the effort, working closely with the campaign core team, to develop a [campaign bundle](https://about.gitlab.com/handbook/marketing/campaigns/#campaign-bundles) that is then activated by the regional campaign managers [across various channels and tactics](https://about.gitlab.com/handbook/marketing/campaigns/#campaign-activation) in conjunction with ABM, Paid Digital, Lifecycle, Field Marketing, SDRs/BDRs, and Channel Partners.
+An integrated campaign is aligned to key go-to-market motions, decided in collaboration between marketing and sales, and built out by a [campaign core team](/handbook/marketing/campaigns/#campaign-core-teams). A [global campaign manager](/handbook/marketing/demand-generation/campaigns/) will lead the effort, working closely with the campaign core team, to develop a [campaign bundle](/handbook/marketing/campaigns/#campaign-bundles) that is then activated by the regional campaign managers [across various channels and tactics](/handbook/marketing/campaigns/#campaign-activation) in conjunction with ABM, Paid Digital, Lifecycle, Field Marketing, SDRs/BDRs, and Channel Partners.
 
 ### What is in a campaign bundle?
 
@@ -79,7 +79,7 @@ Campaign bundles are leveraged by all teams in marketing and sales to drive a co
 
 {: #campaign-core-teams}
 
-A `Campaign Core Team` is led by a [Global Marketing Campaign Manager](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/) and is comprised of functional DRIs across marketing and revenue programs.
+A `Campaign Core Team` is led by a [Global Marketing Campaign Manager](/handbook/marketing/demand-generation/campaigns/) and is comprised of functional DRIs across marketing and revenue programs.
 
 **Campaign Core Team Members:**
 - Campaigns (DRI)
@@ -106,7 +106,7 @@ A `Campaign Core Team` is led by a [Global Marketing Campaign Manager](https://a
 - The Core Teams are comprised of functional DRIs from teams aligned to product specializations (SMEs within their teams)
 - The Core Teams will kickoff together with the freedom to drive their campaigns as desired and with a strong team-oriented approach
 - The Core Teams will ensure nothing happens in a vacuum, by proactively integrating corresponding activities across marketing, and including those beyond the core team for input
-- The Core Teams are responsible for clearly communicating plans to all of Marketing ([also see Core Team communication](https://about.gitlab.com/handbook/marketing/campaigns/#core-team-communication))
+- The Core Teams are responsible for clearly communicating plans to all of Marketing ([also see Core Team communication](/handbook/marketing/campaigns/#core-team-communication))
 
 #### Roles & Responsibilities
 
@@ -182,7 +182,7 @@ A `Campaign Core Team` is led by a [Global Marketing Campaign Manager](https://a
 {: #campaign-performance .gitlab-purple}
 We leverage multi-touch attribution reporting in Sisense and Tableau to help us understand which campaigns, activities, and channels drive the best results, with a goal of SAO and Pipeline. We review these metrics at a segment/region breakout level, as well as reviewing overall campaign metrics with the campaign core teams to identify optimization opportunities to maximize results.
 
-Our dashboards are owned and managed by the Marketing Strategy and Performance team. [Learn more in the Bizible Handbook >>](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible)
+Our dashboards are owned and managed by the Marketing Strategy and Performance team. [Learn more in the Bizible Handbook >>](/handbook/marketing/marketing-operations/bizible)
 
 ## Campaign terminology
 
@@ -200,7 +200,7 @@ Our dashboards are owned and managed by the Marketing Strategy and Performance t
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 - **[See FY23 Integrated Campaigns here>>](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2851)**
-- **[See FY22 Integrated Campaigns and GTM Motions here >>](https://about.gitlab.com/handbook/marketing/plan-fy22/)**
+- **[See FY22 Integrated Campaigns and GTM Motions here >>](/handbook/marketing/plan-fy22/)**
 - **[See FY21 Integrated Camapigns here >>](https://gitlab.com/groups/gitlab-com/marketing/-/epics/749)**
 
 The below global integrated campaigns are continally optimized by the Marketing Campaigns team, in collaboration wit Digtial Marketing, Technical Marketing, Product Marketing, and beyond. These campaign bundles are leveraged by all teams in Marketing to apply cohesive and consistent messaging and approach across all marketing channels and tactics.
@@ -276,10 +276,10 @@ The below were campaigns run historically, and aligned to overall GTM. They have
 - [Campaign Core Team Members](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850#busts_in_silhouette-campaign-core-team)
 - [Current/Planned Content and Events](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850#fy23-new-planned-content-events)
 - [Epic in GitLab](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850)
-- [Handbook: CI Solution Resource](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/)
-- [Handbook: CD Solution Resource](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/)
-- [Handbook: CI Message House](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/message-house/)
-- [Handbook: CD Message House](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/message-house/)
+- [Handbook: CI Solution Resource](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/)
+- [Handbook: CD Solution Resource](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/)
+- [Handbook: CI Message House](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/message-house/)
+- [Handbook: CD Message House](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/message-house/)
 - [Website: CI Solution Page](https://about.gitlab.com/features/continuous-integration/)
 - [Website: CI Solution Page](https://about.gitlab.com/stages-devops-lifecycle/continuous-delivery/)
 - [2022-04-07 CI/CD Campaign Review Deck](https://docs.google.com/presentation/d/1mqYScmF1bjON0PsjfurmsChcVdCkMsjkDvTK5YyOlIQ/edit#slide=id.g5e411f22b2_0_0) - GitLab Team Members Only
@@ -302,8 +302,8 @@ The below were campaigns run historically, and aligned to overall GTM. They have
 - [Current/Planned Content and Events](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2858#fy23-new-planned-content-events)
 - [Campaign Core Team Members](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2858#busts_in_silhouette-campaign-core-team)
 - [Epic in GitLab](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2858)
-- [Handbook: DevOps Platform Solution Resource](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/)
-- [Handbook: DevOps Platform Message House](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/message-house/)
+- [Handbook: DevOps Platform Solution Resource](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/)
+- [Handbook: DevOps Platform Message House](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/message-house/)
 - [Website: DevOps Platform Solution Page](https://about.gitlab.com/solutions/devops-platform/)
 - [2022-04-05 DevOps Platform Campaign Review Deck](https://docs.google.com/presentation/d/1SaUSVSMr2vviMtZ6B30ld-or1bd4TuUjMn0EPFWT1QU/edit#slide=id.g5e411f22b2_0_0) - GitLab Team Members Only
 - [2022-10-28 DevOps Platform Campaign Review Deck](https://docs.google.com/presentation/d/1yGif0bLL2xiC_fFUVzM4eSRcU9g-aOkqpPVAElby1KY/edit#slide=id.gaf9c1b1f24_0_0) - GitLab Team Members Only
@@ -322,7 +322,7 @@ The below were campaigns run historically, and aligned to overall GTM. They have
 #### [FigJam of FY23 campaign flow>>](https://www.figma.com/file/OuFSfs8Eb1DRepmDxG6OKj/DevOps-GTM-Campaign-Flow-FY23_2023-08-22_10-36-34?type=whiteboard&t=elKOAakWTl8snIYW-1)
 
 - [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/743)
-- [Solution Resource](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/)
+- [Solution Resource](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/)
 - [Campaign Review 2021-07-26](https://docs.google.com/presentation/d/1gPMLjIRPNOCt8DqHUWYdwxW2tNH528qg_YbmZaDYzl8/edit#slide=id.g5e411f22b2_0_0) - GitLab Team Members Only
 - [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/874)
 - [Live landing page](https://about.gitlab.com/solutions/dev-sec-ops/)
@@ -579,7 +579,7 @@ Ideally, campaigns will be agreed at least a quarter in advance to allow for amp
 - **Reporting:** Campaign Manager organizes reporting issue with clear DRI to include overall metrics and more detailed drill-in by channel (one month post-launch)
 - **Optimization:** Campaign Manager creates issues for optimizing the landing page, channels, etc. and assigning to relevant DRIs
 
-[See more in Core Team Communication section >>](https://about.gitlab.com/handbook/marketing/campaigns/#core-team-communication)
+[See more in Core Team Communication section >>](/handbook/marketing/campaigns/#core-team-communication)
 
 ## Campaign Manager Epic Creation
 

@@ -66,4 +66,4 @@ Qualified candidates will be invited to schedule a 30 minute [screening call](/h
 
 ## Relevant Links
 
-- [Marketing Handbook](https://about.gitlab.com/handbook/marketing/)
+- [Marketing Handbook](/handbook/marketing/)

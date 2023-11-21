@@ -40,7 +40,7 @@ It is important to note that Sales Development opportunities could come from inb
 
 - Begin filling out [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) (in required qualification criteria section of the opportunity) - Identify pain/need, Economic buyer, or path to the economic buyer for prospects, plus decision process for inbound leads or current customers.
 - Schedule discovery call with AE or SAE
-- For SDR sourced opportunities, the opportunity meets [Sales Accepted Opportunity](https://about.gitlab.com/handbook/marketing/sales-development/#qualification-criteria-and-saos) criteria.
+- For SDR sourced opportunities, the opportunity meets [Sales Accepted Opportunity](/handbook/marketing/sales-development/#qualification-criteria-and-saos) criteria.
 - SDR schedules call, sends invites, creates an event on the account object, names the event: GitLab Introductory Meeting - {{Account Name}}. -
 - Input the next step date to highlight when the meeting is set for. Once the invite is accepted by both parties the opportunity ownership will be transferred to the AE/SAE.
 - After the discovery conversation and once the sales team has validated that the opportunity meets our Sales Accepted Opportunity criteria, the SAE or AE will move the opportunity to the next stage (Stage 1) and the Amount field must be populated with estimated pipeline. The date the opportunity moves from this to the next stage in the sales cycle will populate the Sales Accepted Date field on the opportunity record.
@@ -117,7 +117,7 @@ It is important to note that Sales Development opportunities could come from inb
 - Review how GitLab will be implemented and by who, opening a discussion about GitLab and/or partner [professional services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/#selling-gitlab-professional-services) where appropriate
 - Introduce [partner/channel](https://docs.google.com/document/d/18xqRRCkIXlR7r4BvBQnK9n9zE70q-KPga-lVHhVw4n4/edit) where appropriate
 - [Competitive differentiation](https://internal.gitlab.com/handbook/sales/command-of-the-message/#gitlab-differentiators)
-- Provide [proof points](https://about.gitlab.com/handbook/sales/command-of-the-message/proof-points/), [case studies](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/boards/1804878?scope=all&utf8=%E2%9C%93), and [competitive info](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/#competitive-intelligence-at-gitlab) (defensible differentiators)
+- Provide [proof points](https://about.gitlab.com/handbook/sales/command-of-the-message/proof-points/), [case studies](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/boards/1804878?scope=all&utf8=%E2%9C%93), and [competitive info](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/#competitive-intelligence-at-gitlab) (defensible differentiators)
 - Create a [GitLab maturity/adoption](/handbook/product/product-principles/#multi-feature-usage-adoption-journey) roadmap with customer
 - [Multi-thread](https://about.gitlab.com/handbook/sales/playbook/discovery/#lack-of-multi-threading) across the customer org
 - Create an SA engagement request using the **SA Request button** on the Salesforce Opportunity. Read more about engaging SAs in the [Commercial SA Engagement Model Handbook Page](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/commercial/).
@@ -193,7 +193,7 @@ It is important to note that Sales Development opportunities could come from inb
 
 - Quote through partner where applicable
 - [Next steps](https://about.gitlab.com/handbook/sales/commercial/#opportunity-next-steps-best-practices) updated
-- If a [referenceable customer](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/) update the Referenceable Customer section on the Account object with appropriate reference information
+- If a [referenceable customer](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/) update the Referenceable Customer section on the Account object with appropriate reference information
 - AE builds the quote and prepares for review with buyer
 - Deliver formal contract to prospect
 - Proposal is aligned with customers [Positive Business Outcomes](https://about.gitlab.com/handbook/sales/command-of-the-message/metrics/#connect-metrics-with-positive-business-outcomes)

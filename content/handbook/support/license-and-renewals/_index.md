@@ -329,8 +329,8 @@ The queue should not be used for the following:
 - [Sales](https://about.gitlab.com/handbook/sales/)
   - [Sales Segmentation](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/)
   - [Sales Territories](https://about.gitlab.com/handbook/sales/territories/)
-- [Marketing](https://about.gitlab.com/handbook/marketing/)
-  - [Sales Enablement: GitLab.com subscriptions](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/dotcom-subscriptions/)
+- [Marketing](/handbook/marketing/)
+  - [Sales Enablement: GitLab.com subscriptions](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/dotcom-subscriptions/)
 
 ### Issue trackers
 

@@ -12,7 +12,7 @@ description: "Marketing Operations manages the majority of marketing-owned syste
 
 ## Marketing Owned Systems
 
-Marketing Operations manages the majority of marketing-owned systems. These can be found on the [Marketing Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/) page under **Tech Stack**.   
+Marketing Operations manages the majority of marketing-owned systems. These can be found on the [Marketing Operations](/handbook/marketing/marketing-operations/) page under **Tech Stack**.   
 
 ## Instructions
 Below are instructions and accompnaying screenshots of how to provision new users within various marketing-owned systems.   

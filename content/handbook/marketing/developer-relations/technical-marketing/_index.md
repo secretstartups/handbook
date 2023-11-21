@@ -31,13 +31,13 @@ View the [Developer Relations roadmap](https://go.gitlab.com/community-roadmap) 
 
 You can find the content we create in the following places: 
 1. [Highspot](https://gitlab.highspot.com/) - Highspot is a sales enablement tool we use to gather, categorize, and share content within GitLab and externally to our customers. Any content that can support our customers or sales teams should be added to Highspot. More info on how we use Highspot can be found in the Highspot section of this page. 
-1. [Content Library](https://about.gitlab.com/handbook/marketing/developer-relations/technical-marketing/content-library) - this houses some of the assets our team has created in the past. This can be helpful for historical context but our most recent resources will be available in Highspot. 
+1. [Content Library](/handbook/marketing/developer-relations/technical-marketing/content-library) - this houses some of the assets our team has created in the past. This can be helpful for historical context but our most recent resources will be available in Highspot. 
 1. [GitLab Snapshots YouTube playlist](https://www.youtube.com/playlist?list=PLFGfElNsQthYDx0A_FaNNfUm9NHsK6zED) - this playlist houses technical videos created by Technical Marketing Managers.
 ### Request support from Technical Makreting 
-To make a request of the Technical Marketing team please follow the [content request process](https://about.gitlab.com/handbook/marketing/developer-relations/content-request/) for the Developer Relations team. 
+To make a request of the Technical Marketing team please follow the [content request process](/handbook/marketing/developer-relations/content-request/) for the Developer Relations team. 
 
 ## Prioritizing work
-Our work is mainly driven and prioritized by the following Marketing defined [Core DevOps Solutions](https://about.gitlab.com/handbook/use-cases/) and can be tracked on the [Solutions Go-to-market](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/). Specifically, our deliverables contributing to this effort are sorted by priority below (subject to change).
+Our work is mainly driven and prioritized by the following Marketing defined [Core DevOps Solutions](https://about.gitlab.com/handbook/use-cases/) and can be tracked on the [Solutions Go-to-market](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/). Specifically, our deliverables contributing to this effort are sorted by priority below (subject to change).
 
 * Analyst Demos/Analyst Evaluations
 * Core Solutions Demos
@@ -82,14 +82,14 @@ Presentations are prepared and delivered at conferences, meetups, or any relevan
 
 ### Lightning talks
 
-Fast-paced presentations that last for a few minutes to spark new conversations and collaborations. These are commonly requested for the GitLab booth at conferences sponsored by the [Corporate Events](https://about.gitlab.com/handbook/marketing/integrated-marketing/corporate-events/) team. Where slides are used, they are often not more than 5 slides.
+Fast-paced presentations that last for a few minutes to spark new conversations and collaborations. These are commonly requested for the GitLab booth at conferences sponsored by the [Corporate Events](/handbook/marketing/integrated-marketing/corporate-events/) team. Where slides are used, they are often not more than 5 slides.
 
 ### Blog posts
 
 Blog posts are informative or descriptive articles that present an idea or viewpoint. Blog posts are mainly for awareness, without necessarily going into the details of how the idea presented can be achieved. Blog posts are published on the GitLab blog, third-party blogs or personal websites.
 
 ### Webinars/Webcasts
-Presentations delivered to an audience online, who can be customers or prospects. Webinars are typically lead by the [Campaigns](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/) team. Webinars are often demonstrative in nature. 
+Presentations delivered to an audience online, who can be customers or prospects. Webinars are typically lead by the [Campaigns](/handbook/marketing/demand-generation/campaigns/) team. Webinars are often demonstrative in nature. 
 
 ### Click-through demos
 Click-through demos are content that visually walks users through the features of a product. They are used to educate prospects and customers at events or self-paced.
@@ -104,11 +104,11 @@ Slack channel: [#dev-evangelism-and-technical-marketing](https://gitlab.slack.co
 
 ### Content requests
 
-To request content from our team, please follow the [content request](https://about.gitlab.com/handbook/marketing/developer-relations/content-request/) process which starts by opening an issue using the Developer Relations [content request template](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues/new?issuable_template=content-request). 
+To request content from our team, please follow the [content request](/handbook/marketing/developer-relations/content-request/) process which starts by opening an issue using the Developer Relations [content request template](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues/new?issuable_template=content-request). 
 
 ### Content distribution
 
-Content we create is distributed internally and externally to our stakeholders, customers, and community. We follow the [content distribution](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/#content-distribution) process from the Developer Evangelism handbok page. 
+Content we create is distributed internally and externally to our stakeholders, customers, and community. We follow the [content distribution](/handbook/marketing/developer-relations/developer-evangelism/#content-distribution) process from the Developer Evangelism handbok page. 
 
 ## Which Technical Marketing Manager?
 

@@ -110,7 +110,7 @@ Much of the data within and supporting the Product Usage Data is [Orange](/handb
 1. [GitLab Self-Managed Subscription](https://docs.gitlab.com/ee/subscriptions/self_managed)
 1. [GitLab SaaS subscription](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#gitlab-saas-subscription)
 1. [Seat Link](https://docs.gitlab.com/ee/subscriptions/self_managed/#seat-link)
-1. [Product Category, Product Tier, Delivery](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#overview)
+1. [Product Category, Product Tier, Delivery](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#overview)
 1. [Version Check](https://about.gitlab.com/handbook/sales/process/version-check/)
 1. Billable Members: [API](https://docs.gitlab.com/ee/api/members.html#list-all-billable-members-of-a-group), [Definition](https://docs.gitlab.com/ee/subscriptions/self_managed/#billable-users), EDM Field Name: `billable_user_count`
 1. Active Users: [Customer Docs](https://docs.gitlab.com/ee/administration/index.html#users-statistics), [Metric Dictionary](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html#active_user_count), EDM Field Name: `active_user_count`
@@ -121,7 +121,7 @@ Partnering with cross-functional teams, the Data Team is defining metrics indica
 
 #### North Star Metrics
 
-A North Star Metric is a *single value* that gives a high-level summary of product adoption. Each [Use Case](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/#capabilities--use-cases) has one North Star Metric. A North Star Metric must meet three criteria:
+A North Star Metric is a *single value* that gives a high-level summary of product adoption. Each [Use Case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/#capabilities--use-cases) has one North Star Metric. A North Star Metric must meet three criteria:
 1. The metric must directly connect to the value that customers realize from a Use Case. Ideally, it measures a customer's *breadth* and/or *depth* of Use Case adoption.
 1. The metric must be available for a high proportion of customers and ARR.
 1. The metric must be easy to understand and explain. All else being equal, we prefer a simple metric to an aggregate or composite metric.

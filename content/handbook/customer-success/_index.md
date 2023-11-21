@@ -185,8 +185,8 @@ Customer Success team members maintain a [FAQ](https://about.gitlab.com/handbook
 - [Client Use Cases](https://about.gitlab.com/handbook/use-cases/)
 - [Proof of Value Guidelines](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov)
 - [Account Planning Template for Large/Strategic Accounts](https://docs.google.com/presentation/d/1yQ6W7I30I4gW5Vi-TURIz8ZxnmL88uksCl0u9oyRrew/edit?ts=58b89146#slide=id.g1c9fcf1d5b_0_24))
-- [Sales Demo](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/)
-- [Sales Development Group Handbook](https://about.gitlab.com/handbook/marketing/sales-development/)
+- [Sales Demo](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/)
+- [Sales Development Group Handbook](/handbook/marketing/sales-development/)
 - [With Whom to Talk to Ask Questions or Give Feedback on a GitLab feature](/handbook/product/categories/#devops-stages)
 - [CEO Preferences when speaking with prospects and customers](/handbook/ceo/#sales-meetings)
 

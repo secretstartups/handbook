@@ -35,7 +35,7 @@ If this page serves it's purpose, Product Analysts should be able to visit this 
 
 - [Centralized SMAU/GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard) contains CMAU, SMAU, and GMAU charts for each section, stage, and group.
 
-- The [Technical Marketing handbook page](https://about.gitlab.com/handbook/marketing/developer-relations/technical-marketing/) contains links to product demos, webinars and release videos.  
+- The [Technical Marketing handbook page](/handbook/marketing/developer-relations/technical-marketing/) contains links to product demos, webinars and release videos.  
 
 - GitLab's Fiscal Year runs from February 1 to January 31. [Here](/handbook/finance/#fiscal-year) is a link to GitLab's Fiscal Quarter to Month map.
 
@@ -823,7 +823,7 @@ OR
 
 ### Growth Section
 
-Although the [Growth Section](https://about.gitlab.com/handbook/marketing/growth/) falls within the Maketing & Strategy division, the Growth Section has dedicated support from Product Data Insights on topics within our ownership areas.
+Although the [Growth Section](/handbook/marketing/growth/) falls within the Maketing & Strategy division, the Growth Section has dedicated support from Product Data Insights on topics within our ownership areas.
 
 
 #### Growth Stage (Acquisition, Activation Groups)
@@ -858,7 +858,7 @@ Growth owns the free and trial registration and new user onboarding experiences.
 
 **Product roadmap link**
 
-[Growth Direction handbook page](https://about.gitlab.com/handbook/marketing/growth/)
+[Growth Direction handbook page](/handbook/marketing/growth/)
 
 **Performance indicators**
 
@@ -872,7 +872,7 @@ Growth owns the free and trial registration and new user onboarding experiences.
 
 [Overall Growth Section Handbook page for Engineering](https://about.gitlab.com/handbook/engineering/development/growth/)
 
-[Growth Direction Page](https://about.gitlab.com/handbook/marketing/growth/)
+[Growth Direction Page](/handbook/marketing/growth/)
 
 **Slack channels**
 

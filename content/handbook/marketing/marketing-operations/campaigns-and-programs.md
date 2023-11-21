@@ -13,11 +13,11 @@ description: "Campaigns are used to track efforts of marketing tactics - field e
 
 Campaigns are used to track efforts of marketing tactics - field events, webcasts, content downloads. The campaign types align with how marketing tracks spend and align the way records are tracked across three of our core systems (Marketo, Salesforce and Bizible) for consistent tracking. Leveraging campaign aligns our efforts across Marketing, Sales and Finance.
 
-Marketing Ops partners with the Field Marketing and Corporate Events teams to provide Marketo program set-up and configuration, providing these teams with an internal partner to provide advise on the best technical set-up to reach their goals and streamlining more complex program requirements. Visit the [Marketo Program/Campaign Support page](https://about.gitlab.com/handbook/marketing/marketing-operations/campaign-operations/) for additional details.
+Marketing Ops partners with the Field Marketing and Corporate Events teams to provide Marketo program set-up and configuration, providing these teams with an internal partner to provide advise on the best technical set-up to reach their goals and streamlining more complex program requirements. Visit the [Marketo Program/Campaign Support page](/handbook/marketing/marketing-operations/campaign-operations/) for additional details.
 
 ### Campaign Cost Tracking
 
-For information on how Marketing tracks campaign costs, please visit [this page](https://about.gitlab.com/handbook/marketing/#how-marketing-tracks-campaign-expenses).
+For information on how Marketing tracks campaign costs, please visit [this page](/handbook/marketing/#how-marketing-tracks-campaign-expenses).
 
 ### Campaign Type & Progression Status
 
@@ -30,9 +30,9 @@ i.e. Record is put into `Registered` cannot be moved backwards to `Waitlisted`
 
 Any event  that we have paid to sponsor, have a booth/presence and are sending representatives from GitLab (example: AWS re:Invent, DevOps Enterprise Summit). This also includes any virtual event that we sponsor and/or participate in that we do not own the registration but will generate a list of attendees, engagement.
 
-In a virtual conference, GitLab will pay a sponsorship fee to receive a virtual booth and sometimes a speaking session slot or panel presence. Presence of a virtual booth is a requirement due to success criteria. [Read more](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/#virtual-conferences).
+In a virtual conference, GitLab will pay a sponsorship fee to receive a virtual booth and sometimes a speaking session slot or panel presence. Presence of a virtual booth is a requirement due to success criteria. [Read more](/handbook/marketing/virtual-events/external-virtual-events/#virtual-conferences).
 
-For list loads greater than 5,000 `attendees`, Mktgops will need to confer with the `Field Marketing Director` on legitimacy of labeling the program members as `success` as doing so affects `Bizible Touchpoints`. Follow [directions here](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#instructions-how-to-update-conferences-with-more-than-5000-attendees) on how to do this (MktgOps only).
+For list loads greater than 5,000 `attendees`, Mktgops will need to confer with the `Field Marketing Director` on legitimacy of labeling the program members as `success` as doing so affects `Bizible Touchpoints`. Follow [directions here](/handbook/marketing/marketing-operations/campaigns-and-programs/#instructions-how-to-update-conferences-with-more-than-5000-attendees) on how to do this (MktgOps only).
 
 **Bizible:** This is tracked as an _offline_ channel, because we do not host a registration page, and receive a list of booth visitors post-event. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
@@ -103,7 +103,7 @@ This program type is used in conjunction with Marketo email programs. This progr
 
 #### Executive Roundtables
 
-This is used for campaigns that can either be organised through a 3rd party vendor or GitLab, covering both in-person and virtual roundtables. It is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer. [Read More](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/#overview).
+This is used for campaigns that can either be organised through a 3rd party vendor or GitLab, covering both in-person and virtual roundtables. It is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer. [Read More](/handbook/marketing/virtual-events/external-virtual-events/#overview).
 
 **Bizible:** This is tracked as an _offline_ channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
@@ -197,7 +197,7 @@ This is an event that we have created, own registration and arrange speaker/venu
 
 #### Partner - MDF
 
-This is for an activity that our partner is executing utilizing MDF Funds. We track membership, but the partner, not GitLab follows up with these leads. See more details [here](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#mdf-campaigns).
+This is for an activity that our partner is executing utilizing MDF Funds. We track membership, but the partner, not GitLab follows up with these leads. See more details [here](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-campaigns).
 
 **Bizible:** This is tracked as an _offline_ channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
@@ -259,7 +259,7 @@ This campaign type can be part of a larger Field/Conference/Owned event but we t
 
 #### Sponsored Webcast
 
-This is webcast hosted on an external partner/vendor platform. The status of `Attended On-demand` accounts for GitLab hosted On-Demand and non-GitLab hosted On-demand webcasts. [Read more](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/#overview).
+This is webcast hosted on an external partner/vendor platform. The status of `Attended On-demand` accounts for GitLab hosted On-Demand and non-GitLab hosted On-demand webcasts. [Read more](/handbook/marketing/virtual-events/external-virtual-events/#overview).
 
 **Bizible:** This is tracked as an _online_ channel if registrants come through a marketo form, otherwise it will be an _offline_ channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
@@ -300,7 +300,7 @@ Track cohort of Trials for each product line (Self-managed or SaaS) to see their
 
 #### Vendor Arranged Meetings
 
-Used for campaigns where a third party vendor is organizing one-to-one meetings with prospect or customer accounts. This does not organize meetings set internally by GitLab team members. An example would be a "speed dating" style meeting setup where a vendor organized meetings with prospects of interest to GitLab. [Read more](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/#overview).
+Used for campaigns where a third party vendor is organizing one-to-one meetings with prospect or customer accounts. This does not organize meetings set internally by GitLab team members. An example would be a "speed dating" style meeting setup where a vendor organized meetings with prospects of interest to GitLab. [Read more](/handbook/marketing/virtual-events/external-virtual-events/#overview).
 
 **Bizible:** This is tracked as an _offline_ Bizible channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
@@ -315,10 +315,10 @@ Used for campaigns where a third party vendor is organizing one-to-one meetings 
 #### Webcast
 
 Any webcast that is hosted and held by GitLab. There are a few different groups that run webcasts. Go their specific pages to see additional details on setup.
-- [Campaign webcasts](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#campaign-webcasts)
-- [Field Marketing webcasts](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#webcasts-1)
-- [Partner webcasts](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#partner-webcasts)
-- [On24 webcasts](https://about.gitlab.com/handbook/marketing/marketing-operations/on24)
+- [Campaign webcasts](/handbook/marketing/virtual-events/webcasts/#campaign-webcasts)
+- [Field Marketing webcasts](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#webcasts-1)
+- [Partner webcasts](/handbook/marketing/virtual-events/webcasts/#partner-webcasts)
+- [On24 webcasts](/handbook/marketing/marketing-operations/on24)
 
 **Bizible:** This is tracked as an _online_ Bizible channel as well as an _offline_ channel. We own the registration process so whenever a person registers to a webcast, a TP will be created based on the Bizible snippet that lives on our landing pages, while another TP is created for campaign members with success/responded statuses. 
 
@@ -338,7 +338,7 @@ Any webcast that is hosted and held by GitLab. There are a few different groups 
 
 An in-person or virtual workshop where the attendees are guided through an agenda of real life use cases within GitLab.
 
-For logistical setup and more information, go [here](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshops-1).
+For logistical setup and more information, go [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshops-1).
 **Bizible:** This is tracked as an _offline_ Bizible channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
 | Member Status | Definition | Success |
@@ -358,9 +358,9 @@ For logistical setup and more information, go [here](https://about.gitlab.com/ha
 
 The Marketo programs for the corresponding campaign types have been prebuilt to include all the possible necessary smart campaigns, email programs, reminder emails and tokens that are to be leveraged in the building of the program.
 
-For **LinkedIn Social Ads** follow the instructions documented in [the LinkedIn section](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form)
+For **LinkedIn Social Ads** follow the instructions documented in [the LinkedIn section](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form)
 
-For **virtual events**, there are additional set up details on this [page](https://about.gitlab.com/handbook/marketing/virtual-events).
+For **virtual events**, there are additional set up details on this [page](/handbook/marketing/virtual-events).
 
 For all other campaign types, follows steps below. All steps are required.   
 
@@ -397,7 +397,7 @@ An example of a folder setup in Marketo is:
 
 Be advised that some templates are being used for both `in-person` and `virtual events`. These templates have been marked as `Hybrid template`. For these templates, the naming convention is slightly different in that additional campaign information appears in the name. When naming the program, `EventType` is replaced with either `Virtual`, `In-Person`, or `Hybrid` (if an event will be both in-person and virtual).  
 
-If this is to set up a program that involves a channel partner, you must also follow the directions on that [setup page](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-campaigns). You will still clone the program from the list below to get started.
+If this is to set up a program that involves a channel partner, you must also follow the directions on that [setup page](/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-campaigns). You will still clone the program from the list below to get started.
 
 #### How to Clone the Marketo program
 
@@ -416,7 +416,7 @@ If this is to set up a program that involves a channel partner, you must also fo
 - Speaking Session - `Hybrid template`: [YYYYMMDD_SpeakingSession_EventType_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME5092A1)
 - Vendor Arranged Meetings (1:1 meetings) - `Hybrid template`: [YYYYMMDD_ArrangedMeetingsVendorName_Region_EventType_template](https://app-ab13.marketo.com/#PG5698A1)
 - GitLab Hosted Workshops - `Hybrid template`:   
-[For virtual workshops, please follow directions in the virtual workshop set-up section.](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-logistical-set-up) In-person workshops utilize a similar setup, but do not involve the Zoom requirements. If you have a workshop to set up that is not one of the workshops listed below, you can still utilize any of these templates for backend setup and then use a [copy dock](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#heading=h.tl82wncgutxu) to indicate all copy adjustments that are required (you will also update the baseline Marketo tokens during the setup process).
+[For virtual workshops, please follow directions in the virtual workshop set-up section.](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-logistical-set-up) In-person workshops utilize a similar setup, but do not involve the Zoom requirements. If you have a workshop to set up that is not one of the workshops listed below, you can still utilize any of these templates for backend setup and then use a [copy dock](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#heading=h.tl82wncgutxu) to indicate all copy adjustments that are required (you will also update the baseline Marketo tokens during the setup process).
    - Project Management: [YYYYMMDD_Workshop_ProjectManagement_EventType](https://app-ab13.marketo.com/#ME6536A1)
    - Security: [YYYYMMDD_Workshop_SecurityWorkshop_EventType](https://app-ab13.marketo.com/#ME6521A1)
    - DevOps Automation: [YYYYMMDD_Workshop_DevOpsAutomation_EventType](https://app-ab13.marketo.com/#ME6532A1)
@@ -428,16 +428,16 @@ If this is to set up a program that involves a channel partner, you must also fo
 
 ##### Other Tactic Marketo Templates
 - Conference - `Virtual`: [YYYYMMDD_YYYYMMDD_Vendor_VirtualConfName1 (Virtual Conference Template)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME7624A1)
-- Conference - `In person`: [skip to specific setup details here](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-in-person-conferences)
-- Content Syndicaton: [skip to specific setup details here](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc)
+- Conference - `In person`: [skip to specific setup details here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-in-person-conferences)
+- Content Syndicaton: [skip to specific setup details here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc)
 - Direct Mail: [YYYYMMDD_DirectMail_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG5392A1)
-    - Direct Mail not needing a Marketo Program: [skip to specific setup detais here](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-direct-mail-campaigns)
+    - Direct Mail not needing a Marketo Program: [skip to specific setup detais here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-direct-mail-campaigns)
 - Gated Content: [YYYY_Type_Content_Template](https://app-ab13.marketo.com/#PG5111A1)
 - Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1) 
-- Surveys - For templates and setup instructions for surveys, skip to specific setup details [here](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-surveys-in-marketo-and-sfdc).
+- Surveys - For templates and setup instructions for surveys, skip to specific setup details [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-surveys-in-marketo-and-sfdc).
 - Owned Event - `Hybrid`: [YYYYMMDD_OwnedEvent_EventType_Template](https://app-ab13.marketo.com/#ME4722A1)
 - Owned Event - `Virtual - Hopin only`: [YYYYMMDD_OwnedEvent_Hopin_EventType_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME11445A1) 
-    - For Events using HopIn, follow all steps below in addition to steps outlined [here](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-use-hopin-connector). 
+    - For Events using HopIn, follow all steps below in addition to steps outlined [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-use-hopin-connector). 
 
 ##### Webcasts and Self-Service Marketo Templates
 - Zoom GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region](https://app-ab13.marketo.com/#ME5512A1)
@@ -446,9 +446,9 @@ If this is to set up a program that involves a channel partner, you must also fo
 - Sponsored Webcast: [YYYYMMDD_ExternalWebcastVendorName_Topic_Region](https://app-ab13.marketo.com/#PG5523A1)
 
 #### Partner Campaign Setup
-- Partner MDF Funded campaigns go [this page](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#mdf-campaigns).
-- Joint GitLab/Partner campaigns, follow the directions for each campaign type above/below. There are additional steps [here](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-campaigns) you'll need to complete as well.
-- Partner Trials setup, go to [this page](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#trials-from-partners)
+- Partner MDF Funded campaigns go [this page](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-campaigns).
+- Joint GitLab/Partner campaigns, follow the directions for each campaign type above/below. There are additional steps [here](/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-campaigns) you'll need to complete as well.
+- Partner Trials setup, go to [this page](/handbook/marketing/channel-marketing/partner-campaigns/#trials-from-partners)
 
 ### Step 2: Sync to Salesforce
 
@@ -465,7 +465,7 @@ If this is to set up a program that involves a channel partner, you must also fo
     - You do not need to update the following tokens upon setup:
         - ((my.email header image url}} - This is optional. You will need this if you had custom images created.
         - {{my.ondemandurl}} - This will be entered AFTER the event date. It is the link to the recorded webcast. You will need to come back after the event and update this token.
-- Update the utm_campaign field following the process outlined [here](https://about.gitlab.com/handbook/marketing/utm-strategy/#utm-campaign). 
+- Update the utm_campaign field following the process outlined [here](/handbook/marketing/utm-strategy/#utm-campaign). 
 - **Partner Campaigns** will need to also to update the `{{my.partner name}}` and `{{my.partner crm id}}` for proper routing 
 - For live events, be sure to update the `reply email` token. This is used in the confirmation email. You need to add the correct email address for cancellations or special accomodations, and update the subject to something descriptive. Keep the `%20` between each word in the subject so the subject populates correctly.
 
@@ -503,7 +503,7 @@ If this is to set up a program that involves a channel partner, you must also fo
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
      * Click to the `Schedule` tab and click `Activate`  
      * LIST UPLOAD ONLY: If you do not have a registration page and responses will be uploaded via a list load, MOps will activate the `02b - Manual Upload Processing` campaign if necessary.
-* If this is an `Owned Event` (Hopin), follow the `Update the Salesforce campaign` instructions in Step 5, then follow the activation instructions [here](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-use-hopin-connector)).
+* If this is an `Owned Event` (Hopin), follow the `Update the Salesforce campaign` instructions in Step 5, then follow the activation instructions [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-use-hopin-connector)).
 * For all other campaign types, follow the below activation instructions:
      * Click the "Smart Campaigns" folder
      * Select the `Interesting Moments` smart campaign. 
@@ -559,10 +559,10 @@ All programs have different necessities so it will be important to determine how
     - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
     - Update `Region` and `Sub-region`, if these are local or targeted to a specific region
     - Update `Budget Holder` -  Do keep in mind that the `Budget Holder` field should be updated **only if**:
-        -  the campaign results in offline Bizible touchpoints based on campaign type (i.e. content syndication, sponsored webcast, etc.) - **NOTE:** an offline Bizible touchpoint happens when we gather a lead offline and in order for the system to have this name you must go through a [list upload process](https://about.gitlab.com/handbook/marketing/marketing-operations/list-import/);     
+        -  the campaign results in offline Bizible touchpoints based on campaign type (i.e. content syndication, sponsored webcast, etc.) - **NOTE:** an offline Bizible touchpoint happens when we gather a lead offline and in order for the system to have this name you must go through a [list upload process](/handbook/marketing/marketing-operations/list-import/);     
 **OR:**
         -  there were Gitlab Dollars spent on the campaign (Field, Digital, Corporate, Community etc.) - can be left blank in the cases when we have campaigns that do not utilize budget; - **NOTE:** By updating the budget holder, we do **NOT** run the risk of double counting touchpoints, however, do keep in mind that since the field is not always filled out, it shouldn't be used for measuring each team's performance.   
-    - All other fields on the campaign are not required and are not used for reporting - take `Status` as an example. You WOULD update this field to `Aborted` if the campaign was cancelled for any reason. We have a process that goes into more detail specifically when [offline events are cancelled](https://about.gitlab.com/handbook/marketing/events/#cancellation-of-offline-events). 
+    - All other fields on the campaign are not required and are not used for reporting - take `Status` as an example. You WOULD update this field to `Aborted` if the campaign was cancelled for any reason. We have a process that goes into more detail specifically when [offline events are cancelled](/handbook/marketing/events/#cancellation-of-offline-events). 
     - Click "Save"
 - Add the Marketo program link and SFDC campaign link to the epic.
 - For all SFDC campaign types run by Corporate Events or Field Marketing, please check the `High Priority` check box on the campaign level. 
@@ -571,14 +571,14 @@ All programs have different necessities so it will be important to determine how
 ### Step 8: Update the Salesforce campaign - Using Allocadia 
 Using an integration from Allocadia > Marketo, Marketo > SFDC, the information you've provided in Allocadia will push to your SFDC campaign.  
 
-**Please Note:** You must NOT edit the campaign until the Allocadia connector has time to work. This is normally done near-real time, but if the data does not push immediately, be aware it can take minutes to hours to do so. You'll know the Allocadia connect has completed its work when you see the SFDC campaign owner change from Marketo Integration to the name of the actual person who is running the camapign as well as well as when all details are populated from Allocadia to SFDC. If you edit the campaign before the connector pushes the data over, it will break the build and you will manually have to edit all of the fields listed. For additional Allocadia details [go here](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/#salesforcecom-sfdc).    
+**Please Note:** You must NOT edit the campaign until the Allocadia connector has time to work. This is normally done near-real time, but if the data does not push immediately, be aware it can take minutes to hours to do so. You'll know the Allocadia connect has completed its work when you see the SFDC campaign owner change from Marketo Integration to the name of the actual person who is running the camapign as well as well as when all details are populated from Allocadia to SFDC. If you edit the campaign before the connector pushes the data over, it will break the build and you will manually have to edit all of the fields listed. For additional Allocadia details [go here](/handbook/marketing/strategy-performance/allocadia/#salesforcecom-sfdc).    
 
 #### Training Videos for Setting up SFDC Campaign - Using Allocadia
 
 * [Instructional Video](https://youtu.be/1681EBw5344)
 * [Sync Results Video](https://youtu.be/PocOPnJY4w0)
 
-Based on the [Step 5. list above](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign), the only thing you will need to manually update in SFDC is the following: 
+Based on the [Step 5. list above](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign), the only thing you will need to manually update in SFDC is the following: 
     - `Budgeted Cost` in SFDC pulls from your `plan` number, not your `forecast` number from Allocadia. If you do not have a `plan` cost in Allocadia then Budgeted Cost in SFDC will remain blank. If this is the case, you will want to add in your Budgeted Cost manually into your SFDC campaign. The initial Plan Cost in the campaign needs 1 night to synch. The campaign meta data is a one time synch, where as the Actual Cost in Campaign (which is run off of the Campaign Tag to be Created field in Allocadia), synchs every nightly. **Please Note:** `Budgeted Cost` in SFDC pulls from your plan number, not your forecast number from Allocadia. If you do not have a plan cost in Allocadia then `Budgeted Cost` in SFDC will remain blank. If this is the case, you will want to add in your `Budgeted Cost` manually into your SFDC campaign. If cost is $0 list `$1` in the `Budgeted Cost` field. There needs to be at least a $1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
 
 ### Waitlist processing - Owned Event, Workshop, Webcasts
@@ -660,14 +660,14 @@ These steps are not yet configured. If you are planning to do this for your next
 - Add the Marketo program link and SFDC campaign link to the epic.
 - If the program is being ran by Digital Marketing, add the SFDC campaign under the parent campaign `Demand Gen Pulishers/Sponsorships`  
 
-**If utilizing Allocadia, follow these [steps](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#step-8-update-the-salesforce-campaign---using-allocadia).**  
+**If utilizing Allocadia, follow these [steps](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-8-update-the-salesforce-campaign---using-allocadia).**  
 
 ## Steps to Setup Content Syndication in Marketo and SFDC
-Use these instructions if you are NOT working through Integrate DAP. For the instructions for campaigns through DAP, go to the [section below](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc---campaigns-through-integrate-dap).
+Use these instructions if you are NOT working through Integrate DAP. For the instructions for campaigns through DAP, go to the [section below](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc---campaigns-through-integrate-dap).
 
 ### Step 1: [Clone this program](https://app-ab13.marketo.com/#PG5149A1)
 
-- Do not use this program if your campaign is running through Integrate DAP. See instructions [below](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc---campaigns-through-integrate-dap) for DAP.
+- Do not use this program if your campaign is running through Integrate DAP. See instructions [below](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc---campaigns-through-integrate-dap) for DAP.
 - Use format `YYYY_Vendor_NameofAsset`
 - If the content syndication is part of a package with an external vendor, promoting several assets or webcasts, keep all of the Marketo programs together in a folder for easy access as part of a single vendor program.
 
@@ -723,10 +723,10 @@ Use these instructions if you are NOT working through Integrate DAP. For the ins
 - Add the Marketo program link and SFDC campaign link to the epic.
 - If the program is being ran by Digital Marketing, add the SFDC campaign under the parent campaign `Demand Gen Pulishers/Sponsorships`  
 
-**If utilizing Allocadia, follow these [steps](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#step-8-update-the-salesforce-campaign---using-allocadia).**  
+**If utilizing Allocadia, follow these [steps](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-8-update-the-salesforce-campaign---using-allocadia).**  
 
 ## Steps to Setup Content Syndication in Marketo and SFDC - Campaigns through Integrate DAP
-If your content syndication program is not running through Integrate DAP, please use the instructions [above](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc). 
+If your content syndication program is not running through Integrate DAP, please use the instructions [above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc). 
 
 The SFDC campaigns for these are set-up by Region/Vendor/Asset combination. The Marketo programs are created by Region/Vendor pair. If your region/vendor already exists in Marketo, you only need to add the new asset to the tokens and automation. If you only need to add a new asset to an existing Region/Vendor pair in Marketo, skip to the instructions below. 
 
@@ -790,7 +790,7 @@ It is critical that any reference to asset number in the upload or send from the
 
 
 ### Steps to Setup Content Syndication in Marketo and SFDC - Campaigns through Integrate DAP - adding a new asset
-If your content syndication program is not running through DAP, please use the instructions [above](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc). 
+If your content syndication program is not running through DAP, please use the instructions [above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc). 
 
 The SFDC campaigns for these are set-up by Region/Vendor/Asset combination. The Marketo programs are created by Region/Vendor pair. If your region/vendor already exists in Marketo, you only need to add the new asset to the tokens and automation. These instructions are to add a new asset to an existing region/vendor program in Marketo. You can also use these instructions to add additional assets (beyond the 15 already determined) to a new Region/Vendor Marketo program.
 
@@ -901,7 +901,7 @@ The 7 webhook feedback automations we send to Integrate are:
     - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
 
-**If utilizing Allocadia, follow these [steps](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#step-8-update-the-salesforce-campaign---using-allocadia).**  
+**If utilizing Allocadia, follow these [steps](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-8-update-the-salesforce-campaign---using-allocadia).**  
 
 ### Step 5: Troubleshooting:
 1. Look at the `Results` tab of the smart campaign, if there are errors, you will clearly see them there.
@@ -917,7 +917,7 @@ The 7 webhook feedback automations we send to Integrate are:
 - NOTE: You do NOT need a corresponding Marketo campaign. All information and tracking is done via this campaign.
 
 ### Step 2: Update the Salesforce campaign
-- Click on `Advanced Setup` to make sure statuses correspond to those listed in the [Direct Mail progression statuses](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#direct-mail). Do not edit these, if you need them updated, please reach out to MktgOps.
+- Click on `Advanced Setup` to make sure statuses correspond to those listed in the [Direct Mail progression statuses](/handbook/marketing/marketing-operations/campaigns-and-programs/#direct-mail). Do not edit these, if you need them updated, please reach out to MktgOps.
 - Change the `Campaign Owner` to your name
 - Confirm the `type` is `Direct Mail`
 - Update the event epic
@@ -929,7 +929,7 @@ The 7 webhook feedback automations we send to Integrate are:
 - Click Save
 
 ## Steps to Use HopIn Connector
-Follow all of the set up steps to clone the template, update tokens, and update the Salesforce campaign [above](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-marketo-programs-and-salesforce-campaigns). You will also need to follow the instructions below to activate the Hopin campaigns.
+Follow all of the set up steps to clone the template, update tokens, and update the Salesforce campaign [above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-marketo-programs-and-salesforce-campaigns). You will also need to follow the instructions below to activate the Hopin campaigns.
 
 Important Notes:
 * **YOU MUST CONNECT HOPIN TO MARKETO BEFORE YOU TURN ON REGISTRATION IN HOPIN** (STEPS 2 OR 3 BELOW)**
@@ -997,7 +997,7 @@ If this form is in a different language, make sure that the LinkedIn Form has th
 - German
 - Portuguese
 
-When someone fills out these forms, they will be automatically added to the [Language Segmentation](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#segmentations) allowing them to receive messages in their local language.
+When someone fills out these forms, they will be automatically added to the [Language Segmentation](/handbook/marketing/marketing-operations/marketo/#segmentations) allowing them to receive messages in their local language.
 
 ### Create LinkedIn Lead Gen Form in LinkedIn (digital marketing)
 
@@ -1022,7 +1022,7 @@ When someone fills out these forms, they will be automatically added to the [Lan
 
 ### Step 1: For new campaigns not listed above, [clone this program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG8361A1)
 - Use format `YYYY_Social_[Name]_[parameter]_LinkedIn Lead Gen`
-- Campaign parameter must be one of the [GTM campaign parameters](https://about.gitlab.com/handbook/marketing/utm-strategy/#utm-campaign) (usually used as utm_campaign - ex. `devopsgtm` or `autosd`). The Salesforce campaign name must include the campaign parameter for the responses to roll up to the correct campaign on the Sisense dashboards.
+- Campaign parameter must be one of the [GTM campaign parameters](/handbook/marketing/utm-strategy/#utm-campaign) (usually used as utm_campaign - ex. `devopsgtm` or `autosd`). The Salesforce campaign name must include the campaign parameter for the responses to roll up to the correct campaign on the Sisense dashboards.
 
 _e.g.: 2020_Social_AutomatedSoftwareDelivery_autoSD_LinkedIn Lead Gen_
 
@@ -1051,9 +1051,9 @@ _e.g.: 2020_Social_AutomatedSoftwareDelivery_autoSD_LinkedIn Lead Gen_
 **Smart List**
 - Update the campaign smart list filter with `contains` and the prefix
    - `Fills out LinkedIn Lead Gen Form`, `Lead Gen Form Name contains [parameter]` 
-   - Available parameters are [listed above](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form), or create new if not listed.
+   - Available parameters are [listed above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form), or create new if not listed.
 - `Filled out LinkedIn Lead Gen Form` filter - Make sure that other programs are excluded if your new campaign will use a similar LinkedIn Lead Gen form name. Common exclusions are `amer-pubsec` and `abmkey`as these flow through separate campaigns. This is not a full list of all exclusions required as this will be based on what you are setting up. You can review existing LI Lead Gen programs for examples of exclusions.
-- Other programs are looking for the parameters [listed above](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form). If your LI Lead Gen form contains any of these, you will need to exclude your campaign from the existing program processing (for example, if your LI Lead Gen Form contains `devsecopsusecase`, you will need to exclude your LI Lead Gen form name from processing through the others that use `devsecopsusecase`). Please see the testing section below as this provides instructions to make sure you captured exclusions properly. Note that the ABM Team runs LinkedIn campaigns using `abmkey` and the campaign parameters above, so `abmkey` must always be excluded.
+- Other programs are looking for the parameters [listed above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form). If your LI Lead Gen form contains any of these, you will need to exclude your campaign from the existing program processing (for example, if your LI Lead Gen Form contains `devsecopsusecase`, you will need to exclude your LI Lead Gen form name from processing through the others that use `devsecopsusecase`). Please see the testing section below as this provides instructions to make sure you captured exclusions properly. Note that the ABM Team runs LinkedIn campaigns using `abmkey` and the campaign parameters above, so `abmkey` must always be excluded.
 **Flow**
 - No change to `1 - Remove from Flow` - If you remove this temporarily to test, be sure to add it back in before going live. `Remove from Flow`: Choice 1: If Email Address contains @gitlab.com. Campaign: this campaign. Default Choice: Campaign is Do nothing
 - `2 - Send Email` - This step will vary. In general, you will set Choice 1: If Filled out LinkedIn Lead Gen Form contains [content name from form] then, Email [select appropriate email autoresponder]. You can have multiple choices here, one for each asset. Even if you only have one asset, best practice is to set up a choice with the default of Do Nothing. This is another backup in case the automation fails and will make sure that people don't receive an autoresponder email for another asset because the content name won't be found. You can view an example with multiple assets [here](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC21615C3ZN19).
@@ -1081,7 +1081,7 @@ _e.g.: 2020_Social_AutomatedSoftwareDelivery_autoSD_LinkedIn Lead Gen_
    1. Confirm that the test record was not sent any other emails or added to other programs as a result of this test (campaigns)
 
 ### Step 7: Update this Handbook page
-- Update this [handbook page with the parameter](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form) with a `yes` and a link to the parameter and campaign you have set up.
+- Update this [handbook page with the parameter](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form) with a `yes` and a link to the parameter and campaign you have set up.
 
 ## Raffles
 Raffles can be associated with many different campaign types and have various ways to enter. You must complete the [legal requirements](https://about.gitlab.com/handbook/legal/marketing-collaboration/#engaging-legal-for-approval) before launching your raffle. 
@@ -1093,18 +1093,18 @@ In general, the [YYYYMMDD_SurveyName](https://engage-ab.marketo.com/?munchkinId=
 - Name the program using the following syntax: `YYYYMMDD_NameofProgram_Raffle`. You will likely have another campaign type associated as well (for example, a Conference) and this program should be housed in the folder for that event. This is a similar process to creating a speaking session associated to a conference.
 - Sync to SFDC at the program main screen in Marketo, where it says Salesforce Sync with "not set", click on "not set", Click "Create New." The program will automatically populate the campaign tag, so you do not need to edit anything except click `Save`. 
    - If you are a user of Allocadia, you will need to add the Allocadia raffle line item ID to the `Description` field. Click `Save`.
-- [Update the SFDC campaign](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4-update-the-salesforce-campaign) and associate it to the [parent campaign](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#parentchild-campaigns) where applicable.
-   - If you are a user of Allocadia, please see instructions [here](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#step-8-update-the-salesforce-campaign---using-allocadia).
+- [Update the SFDC campaign](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4-update-the-salesforce-campaign) and associate it to the [parent campaign](/handbook/marketing/marketing-operations/campaigns-and-programs/#parentchild-campaigns) where applicable.
+   - If you are a user of Allocadia, please see instructions [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-8-update-the-salesforce-campaign---using-allocadia).
 - Go back to the Marketo program and complete the tokens. Update the {{my.Survey Name}} token with the word "Default" - do not use another entry on this token.
-- If you are using a landing page: Update your [Registration page](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/landing-pages/#general-marketo-landing-page-creation-instructions), thank you page, and registration confirmation email.
+- If you are using a landing page: Update your [Registration page](/handbook/marketing/demand-generation/campaigns/landing-pages/#general-marketo-landing-page-creation-instructions), thank you page, and registration confirmation email.
 - If you are using a landing page: Click into the `01a Registration Flow` and change the Smart List to "Form Name is any" and "Web page is" should already be populated with the registration page for this program. The Flow should already be populated for you, but update Step 5 - Interesting Moment to read: "Filled out form to enter raffle {{my.Survey Title}}" in the `Description` field of Step 5. Go to `Schedule` and click "Activate".
-- Responders to the form will be added to the program and SFDC campaign as `Filled out Survey` and will be scored according to the `Survey - Low` entry in the [scoring model](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#behavior-scoring).
+- Responders to the form will be added to the program and SFDC campaign as `Filled out Survey` and will be scored according to the `Survey - Low` entry in the [scoring model](/handbook/marketing/marketing-operations/marketo/#behavior-scoring).
 - Due to the potential set-up complexities for raffles, Marketing Ops will need to be involved. You can add the `MktgOps::00:Triage` and `MktgOps-Support` labels to your `Marketo LP and Automation` issue for assistance with set-up.
 - If you are not using a landing page, MarketingOps will help you determine the correct processing for this campaign.
 
 ## Updating Member Statuses for Owned Events from Marketo Programs
 
-Once an `Owned Event` (that included a GitLab-run landing page where we collected leads) is complete, DRIs are able to update the member statuses directly from Marketo, versus submitting a [lead list upload](https://about.gitlab.com/handbook/marketing/marketing-operations/automated-list-import/). **NOTE:** This is **ONLY** for status changes. If you have notes to add to leads, you will need to submit a [lead list upload](https://about.gitlab.com/handbook/marketing/marketing-operations/automated-list-import/).
+Once an `Owned Event` (that included a GitLab-run landing page where we collected leads) is complete, DRIs are able to update the member statuses directly from Marketo, versus submitting a [lead list upload](/handbook/marketing/marketing-operations/automated-list-import/). **NOTE:** This is **ONLY** for status changes. If you have notes to add to leads, you will need to submit a [lead list upload](/handbook/marketing/marketing-operations/automated-list-import/).
 
 1. Log into Marketo and click into the appropriate program for your campaign
 1. Click on the `Members` tab at the top of the page

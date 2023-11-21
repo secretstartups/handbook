@@ -46,7 +46,7 @@ Through these programs, we seek to raise awareness of GitLab in specific markets
 
 ## 🔎 Meet the programs
 
-Learn more about GitLab's community programs and their respective DRIs in the [Community Programs handbook pages](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/#meet-the-programs).
+Learn more about GitLab's community programs and their respective DRIs in the [Community Programs handbook pages](/handbook/marketing/developer-relations/community-programs/#meet-the-programs).
 
 ## 📃 Rules of engagement
 
@@ -58,9 +58,9 @@ Please note that even if there is not a sales related opportunity on an account,
 
 ### Lead routing
 
-GitLab does not currently have routing in place for leads related to Community Programs. If you are routed a lead that has contacted GitLab about a Community Program, please reply directly to the lead with the appropriate response whenever possible. Consider using one of [Community Programs' email templates](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#zendesk-macros-and-email-templates) to structure correspondence. Replying directly provides the optimal experience for the wider community member and the most efficient path for everyone.
+GitLab does not currently have routing in place for leads related to Community Programs. If you are routed a lead that has contacted GitLab about a Community Program, please reply directly to the lead with the appropriate response whenever possible. Consider using one of [Community Programs' email templates](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#zendesk-macros-and-email-templates) to structure correspondence. Replying directly provides the optimal experience for the wider community member and the most efficient path for everyone.
 
-Please use the [lead routing workflow](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/#inbound-sales-requests-routing-workflows) to determine the best course of action.
+Please use the [lead routing workflow](/handbook/marketing/developer-relations/community-programs/#inbound-sales-requests-routing-workflows) to determine the best course of action.
 
 Please do not forward leads or emails from individual program members to Community Programs team members' personal email addresses. With 4,700 license holders (and growing), we are not able to provide efficient and optimal response times from personal email addresses.
 
@@ -68,11 +68,11 @@ Please do not forward leads or emails from individual program members to Communi
 
 In Q3FY23, Community Programs launched an automated system which allows wider community members to apply, receive verification, and obtain new or renewed subscriptions directly through a specific portal on `gitlab.customers.com`. After successful verification, applicants will receive a coupon code to use in the Community Self-Checkout Portal.
 
-Below are details on the application process most pertinent to Sales team members. To learn about the application and renewal process in its entirety, please see the [Community Programs Applications Automated Workflow](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/) handbook page.
+Below are details on the application process most pertinent to Sales team members. To learn about the application and renewal process in its entirety, please see the [Community Programs Applications Automated Workflow](/handbook/marketing/developer-relations/community-programs/automated-community-programs/) handbook page.
 
 ### Application
 
-The Community Programs team uses a third party vendor, [SheerID](https://www.sheerid.com/), to host the application forms for its programs. More details are in the [Application](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/) section of the Community Programs handbook page.
+The Community Programs team uses a third party vendor, [SheerID](https://www.sheerid.com/), to host the application forms for its programs. More details are in the [Application](/handbook/marketing/developer-relations/community-programs/automated-community-programs/) section of the Community Programs handbook page.
 
 Important points:
 
@@ -82,7 +82,7 @@ Important points:
 
 ### Verification
 
-SheerID provides automated verification for applications to the GitLab for Education Program, while the Community Programs Associate Program Manager manually reviews applications for the open source and startups programs. Additional details are in the [Verification](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/) section of the Community Programs handbook page.
+SheerID provides automated verification for applications to the GitLab for Education Program, while the Community Programs Associate Program Manager manually reviews applications for the open source and startups programs. Additional details are in the [Verification](/handbook/marketing/developer-relations/community-programs/automated-community-programs/) section of the Community Programs handbook page.
 
 Important points:
 
@@ -94,9 +94,9 @@ Important points:
 
 ### Booking
 
-After successful verification, program members receive a coupon code, which members then use in the Community Programs self-checkout portal on CustomerDOT to obtain their subscription license or renew. Additional details are in the [Booking](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/) section of the Community Programs handbook page.
+After successful verification, program members receive a coupon code, which members then use in the Community Programs self-checkout portal on CustomerDOT to obtain their subscription license or renew. Additional details are in the [Booking](/handbook/marketing/developer-relations/community-programs/community-program-applications/) section of the Community Programs handbook page.
 
-Add-ons or license-type changes cannot be made on through self-service. Program members need to [email the corresponding program](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/#meet-the-programs) with the request.
+Add-ons or license-type changes cannot be made on through self-service. Program members need to [email the corresponding program](/handbook/marketing/developer-relations/community-programs/#meet-the-programs) with the request.
 
 ### Provisioning
 
@@ -110,7 +110,7 @@ Sales Support and Billing Ops handle compliance. This phase results in granting 
 
 Community program members need to renew their subscriptions annually.
 
-Self-checkout renewal functionality on CustomerDOT launched in 2022-09. Program members use the same form for both new and renewing subscriptions. For renewal instructions please see the programs' respective [marketing pages](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/#meet-the-programs). Additional details on the renewal process are in the [Renewal](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/) section of the Community Programs handbook page.
+Self-checkout renewal functionality on CustomerDOT launched in 2022-09. Program members use the same form for both new and renewing subscriptions. For renewal instructions please see the programs' respective [marketing pages](/handbook/marketing/developer-relations/community-programs/#meet-the-programs). Additional details on the renewal process are in the [Renewal](/handbook/marketing/developer-relations/community-programs/automated-community-programs/) section of the Community Programs handbook page.
 
 Important points:
 
@@ -122,13 +122,13 @@ Important points:
 
 ### Support
 
-Details on the Support workflow for Community Programs are in the [Support](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/) section of the Community Programs handbook page.  
+Details on the Support workflow for Community Programs are in the [Support](/handbook/marketing/developer-relations/community-programs/automated-community-programs/) section of the Community Programs handbook page.  
 
 Important points:
 
 - Program members do not receive Ultimate support with subscriptions granted through community programs. They are able to open a support ticket via the [GitLab Support Portal](/support/#issues-with-billing-purchasing-subscriptions-or-licenses) with errors involving the Community Self-checkout Portal on CustomersDOT or any errors relating to their subscription.
 
-- If GitLab for Education applicants are having issues during the application or verification stages, they first contact SheerID as indicated in the [Support table](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/).
+- If GitLab for Education applicants are having issues during the application or verification stages, they first contact SheerID as indicated in the [Support table](/handbook/marketing/developer-relations/community-programs/automated-community-programs/).
 
 ## 🤝 Engaging with the Community Programs team
 

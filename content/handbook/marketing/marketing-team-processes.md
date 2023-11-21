@@ -96,22 +96,22 @@ Marketing uses GitLab for agile project management including [groups](https://do
 
 Marketing Departments collaborate to produce Integrated Campaigns. An Integrated Campaign is a communication effort that includes several campaign tactics such as blog posts, emails, events, advertisements, content on about.gitlab.com, videos, case studies, whitepapers, surveys, social outreach, and webcasts. An Integrated Campaign will have a campaign theme that summarizes the message we are communicating to our market.
 
-### [Active integrated campaigns](https://about.gitlab.com/handbook/marketing/campaigns/#active-marketing-campaigns)
+### [Active integrated campaigns](/handbook/marketing/campaigns/#active-marketing-campaigns)
 {: .no_toc}
 
-**Have a new campaign idea?** [Make a suggestion](https://about.gitlab.com/handbook/marketing/campaigns#new-ideas-for-marketing-campaigns-or-events)
+**Have a new campaign idea?** [Make a suggestion](/handbook/marketing/campaigns#new-ideas-for-marketing-campaigns-or-events)
 
 
 ## Project Management Processes
 
 We cultivate a deep understanding of our own product by using GitLab to manage our planning, collaboration, and execution of Marketing activities.
 
-[The latest Project Management recommendations can be found here](https://about.gitlab.com/handbook/marketing/project-management-guidelines) from FY21-Q2 Agility Project
+[The latest Project Management recommendations can be found here](/handbook/marketing/project-management-guidelines) from FY21-Q2 Agility Project
 
 ### Milestones
 {: .no_toc}
 
-[The latest recommendations for Milestones](https://about.gitlab.com/handbook/marketing/project-management-guidelines/milestones/) from FY21-Q2 Agility Project
+[The latest recommendations for Milestones](/handbook/marketing/project-management-guidelines/milestones/) from FY21-Q2 Agility Project
 
 #### Weekly Sprints
 {: .no_toc}
@@ -123,12 +123,12 @@ Each week on Monday, any open MRs and issues still assigned to the previous week
 ### Groups and projects
 {: .no_toc}
 
-[The latest recommendations for Groups and Projects](https://about.gitlab.com/handbook/marketing/project-management-guidelines/groups/) from FY21-Q2 Agility Project
+[The latest recommendations for Groups and Projects](/handbook/marketing/project-management-guidelines/groups/) from FY21-Q2 Agility Project
 
 1. The Marketing Group houses all marketing projects.
 1. Labels should be created at the **group** level so they can be used in all projects within Marketing group.
     - Labels **should not** be duplicated in individual projects. It creates board/tracking conflicts.
-1. The following are the approved marketing projects, [CMO approval](https://about.gitlab.com/handbook/marketing/cmo/) is needed to begin a new project.
+1. The following are the approved marketing projects, [CMO approval](/handbook/marketing/cmo/) is needed to begin a new project.
     - [Product Marketing](https://gitlab.com/gitlab-com/marketing/brand-product-marketing) (includes PMM, TMM, and Market Insights)
     - [Developer Relations](https://gitlab.com/gitlab-com/marketing/community-relations)
     - [Digital Marketing Programs](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing)
@@ -148,7 +148,7 @@ Each week on Monday, any open MRs and issues still assigned to the previous week
 ### Issues, Milestones, and Epics
 {: .no_toc}
 
-[The latest recommendations for Epics](https://about.gitlab.com/handbook/marketing/project-management-guidelines/epics/) and [the latest for Issues](https://about.gitlab.com/handbook/marketing/project-management-guidelines/issues/) from FY21-Q2 Agility Project
+[The latest recommendations for Epics](/handbook/marketing/project-management-guidelines/epics/) and [the latest for Issues](/handbook/marketing/project-management-guidelines/issues/) from FY21-Q2 Agility Project
 
 1. Each issue represents a discrete unit of work with a deliverable. For example [1](https://gitlab.com/gitlab-com/marketing/product-marketing/issues/10) [2](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/36) [3](https://gitlab.com/gitlab-com/marketing/general/-/issues/2574)
 1. Every MR should have an issue so that it can be tracked on issue boards.
@@ -162,7 +162,7 @@ Each week on Monday, any open MRs and issues still assigned to the previous week
 ### Boards and Labels
 {: .no_toc}
 
-[The latest recommendations for Labels](https://about.gitlab.com/handbook/marketing/project-management-guidelines/labels/) and [the latest for boards](https://about.gitlab.com/handbook/marketing/project-management-guidelines/boards/) from FY21-Q2 Agility Project
+[The latest recommendations for Labels](/handbook/marketing/project-management-guidelines/labels/) and [the latest for boards](/handbook/marketing/project-management-guidelines/boards/) from FY21-Q2 Agility Project
 
 1. Each team has one or more boards to track ongoing workstreams.
 1. Generally, create a board for each function. (For example PMM has boards for Sales Enablement, Analyst Relations, Customer Relations, etc.)
@@ -189,11 +189,11 @@ Each week on Monday, any open MRs and issues still assigned to the previous week
 
 Each Department within Marketing can have "additive" labels - meaning they are used to enhance the tracking and workflows for that respective team. These "additive" labels are used in conjunction with the broader [Marketing labels](#boards-and-labels). The Department label usage is documented on each of the respective handbook pages:
 
-- [Marketing Programs](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/)
-- [Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/)
-- [Sales Development Organization](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/)
-- [Field Marketing](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing-labels-in-gitlab)
-- [Account Based Marketing](https://about.gitlab.com/handbook/marketing/account-based-marketing/)
+- [Marketing Programs](/handbook/marketing/integrated-marketing/digital-strategy/)
+- [Operations](/handbook/marketing/marketing-operations/)
+- [Sales Development Organization](/handbook/marketing/revenue-marketing/sdr/)
+- [Field Marketing](/handbook/marketing/field-marketing/#field-marketing-labels-in-gitlab)
+- [Account Based Marketing](/handbook/marketing/account-based-marketing/)
 
 ### Default Issue Text
 {: .no_toc}
@@ -244,9 +244,9 @@ Marketing Managers track costs associated with campaigns - such as events, conte
 
 ### Allocadia IDs
 
-**[Allocadia Handbook Page](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/)**  
+**[Allocadia Handbook Page](/handbook/marketing/strategy-performance/allocadia/)**  
 
-Marketing tracks campaign costs utilizing [Allocadia line items](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/#line-item). Once you have created your line item in Allocadia, follow [these instructions](https://about.gitlab.com/handbook/marketing/#how-to-create-and-manage-allocadia-idscampaign-tags).
+Marketing tracks campaign costs utilizing [Allocadia line items](/handbook/marketing/strategy-performance/allocadia/#line-item). Once you have created your line item in Allocadia, follow [these instructions](/handbook/marketing/#how-to-create-and-manage-allocadia-idscampaign-tags).
 
 ### Campaign Tags
 
@@ -262,15 +262,15 @@ GitLab makes use of campaign tags throughout our systems in order to better trac
 > - Years expressed as "0" prior to year 1 and as "-1" for the year prior to year 0 (and so forth)
 > - Thus, March 30, 1998 would be: 19980330.
 
-Once you have created your Campaign Tag, follow [these instructions](https://about.gitlab.com/handbook/marketing/#how-to-create-and-manage-allocadia-idscampaign-tags).
+Once you have created your Campaign Tag, follow [these instructions](/handbook/marketing/#how-to-create-and-manage-allocadia-idscampaign-tags).
 
 ### How to Create and Manage Allocadia IDs/Campaign Tags
 
 1. Marketing Managers and Field Marketing Coordinators request the creation of an Allocadia ID or Campaign Tag in [this tracker](https://docs.google.com/spreadsheets/d/1wBqvCvmou4afnb0p8lBXVvFmsl-j0IehS7GdfJybGzg/edit?usp=sharing). They will add all requested details outlined in the tracker.
    * The GL accounting team will create the IDs/tags at the end of each day. 
    * The ID/tag is created in NetSuite and syncs with Expensify and Coupa.
-1. The Allocadia ID/Campaign Tag must be noted in the Coupa requisition and in the main tactic issue (for Field Marketing, this information lives under the Event Details section in the main issue). Additional details on the Allocadia > Coupa integration can be found [here](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/#coupa).
-1. Information on utilizing Allocadia IDs for SFDC campaign creation can be found [here](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/#salesforcecom-sfdc).
+1. The Allocadia ID/Campaign Tag must be noted in the Coupa requisition and in the main tactic issue (for Field Marketing, this information lives under the Event Details section in the main issue). Additional details on the Allocadia > Coupa integration can be found [here](/handbook/marketing/strategy-performance/allocadia/#coupa).
+1. Information on utilizing Allocadia IDs for SFDC campaign creation can be found [here](/handbook/marketing/strategy-performance/allocadia/#salesforcecom-sfdc).
    * For the MCM team, additional details can be found in the campaign epic. 
 
 ### Postponement of Tactics
@@ -279,7 +279,7 @@ If your event or tactic gets postponed to a new date, you only need to request a
 
 ### Travel Costs
 
-Travel expenses (food, hotel stays, arline tickets, etc.) must also be tracked utilizing Allocadia IDs/Campaign Tags. You will include the Allocadia ID/Campaign Tag in the `classification` field in Expensify when you are completing your expense report. The instructions for how to request the Allocadia ID/Campaign Tag be created in NetSuite > Expensify can be found [here](https://about.gitlab.com/handbook/marketing/#how-to-create-and-manage-allocadia-idscampaign-tags). Additional information regarding travel can be found [here](/handbook/travel/).
+Travel expenses (food, hotel stays, arline tickets, etc.) must also be tracked utilizing Allocadia IDs/Campaign Tags. You will include the Allocadia ID/Campaign Tag in the `classification` field in Expensify when you are completing your expense report. The instructions for how to request the Allocadia ID/Campaign Tag be created in NetSuite > Expensify can be found [here](/handbook/marketing/#how-to-create-and-manage-allocadia-idscampaign-tags). Additional information regarding travel can be found [here](/handbook/travel/).
 
 # <i class="fas fa-forward fa-fw color-orange font-awesome"></i> Marketing Rapid Response Process
 
@@ -289,9 +289,9 @@ There are times when a rapid response is needed to address industry changes, com
 
 ## Process
 
-If a rapid response opportunity arises, please alert the head of [corporate communications](https://about.gitlab.com/handbook/marketing/corporate-communications/) (or [CMO](https://about.gitlab.com/handbook/marketing/cmo/) if head of corporate communications is unavailable) via slack or text message. Rapid response collaboration will happen in either the [#competition channel](https://gitlab.slack.com/messages/C1BBL1V3K) (if it is competitive) or in the [#external-comms channel](https://gitlab.slack.com/messages/CB274TZRR) (if it is about other news). The head of corporate communications will propose a recommendation on how to best proceed with an external company message and recruit the resources to accomplish the plan (this becomes the #1 priority for each resource, unless physically impossible or their manager provides a replacement). A template for a rapid response can be found [here](https://docs.google.com/document/d/19Kc-GZ5B7V_zOA46zF1SXoD5qfavqmCAnXFJKS7P3sI/edit).
+If a rapid response opportunity arises, please alert the head of [corporate communications](/handbook/marketing/corporate-communications/) (or [CMO](/handbook/marketing/cmo/) if head of corporate communications is unavailable) via slack or text message. Rapid response collaboration will happen in either the [#competition channel](https://gitlab.slack.com/messages/C1BBL1V3K) (if it is competitive) or in the [#external-comms channel](https://gitlab.slack.com/messages/CB274TZRR) (if it is about other news). The head of corporate communications will propose a recommendation on how to best proceed with an external company message and recruit the resources to accomplish the plan (this becomes the #1 priority for each resource, unless physically impossible or their manager provides a replacement). A template for a rapid response can be found [here](https://docs.google.com/document/d/19Kc-GZ5B7V_zOA46zF1SXoD5qfavqmCAnXFJKS7P3sI/edit).
 
-The head of corporate communications will assess the rapid response request within 1 HOUR (9amEST-6pmPST). Urgency will be assessed and will be determined to be 3 HOURS (ASAP) or 24 HOURS turnaround, and the action plan will be scoped accordingly - with a bias towards releasing an MVC as soon as possible, and iterating as more news becomes available. Any disagreements on urgency or action will be escalated immediately to the [CMO](https://about.gitlab.com/handbook/marketing/cmo/) for a final decision.
+The head of corporate communications will assess the rapid response request within 1 HOUR (9amEST-6pmPST). Urgency will be assessed and will be determined to be 3 HOURS (ASAP) or 24 HOURS turnaround, and the action plan will be scoped accordingly - with a bias towards releasing an MVC as soon as possible, and iterating as more news becomes available. Any disagreements on urgency or action will be escalated immediately to the [CMO](/handbook/marketing/cmo/) for a final decision.
 
 While each response will be a custom plan, the rapid response team will leverage appropriate resources to execute on the agreed upon plan:
 
@@ -319,4 +319,4 @@ The investment checklist at each priority level is a wishlist of how we are aimi
 
 ## Marketing Career Development 
 
-Check out the [handbook page](https://about.gitlab.com/handbook/marketing/marketing-career-development) on the marketing career development program. 
+Check out the [handbook page](/handbook/marketing/marketing-career-development) on the marketing career development program. 

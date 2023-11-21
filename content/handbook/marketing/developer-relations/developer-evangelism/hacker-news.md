@@ -15,7 +15,7 @@ Hacker News is an important social channel. Threads that mention GitLab's struct
 
 Hacker News posts are important because they can generate traffic for our website, backlinks to our content, and, most importantly, value feedback on our product and processes. As an example, a [Hacker News post about this page](https://news.ycombinator.com/item?id=30003221) from January 2022 generated valuable feedback for our team. 
 
-GitLab mentions on Hacker News are tracked on the [#hn-mentions](https://gitlab.slack.com/messages/hn-mentions) Slack channel. Posts about GitLab that land on the front page of Hacker News generate a notification that is shared in [#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/messages/developer-evangelism). More details in the [automation documentation](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/hacker-news/#automation). 
+GitLab mentions on Hacker News are tracked on the [#hn-mentions](https://gitlab.slack.com/messages/hn-mentions) Slack channel. Posts about GitLab that land on the front page of Hacker News generate a notification that is shared in [#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/messages/developer-evangelism). More details in the [automation documentation](/handbook/marketing/developer-relations/developer-evangelism/hacker-news/#automation). 
 
 ## What performs well 
 
@@ -32,25 +32,25 @@ When considering what types of content to publish on social media, these are all
 
 ## Release days
 
-GitLab Release Posts frequently perform well on Hacker News. Given that we know the post will be released [every month](https://about.gitlab.com/handbook/engineering/releases/), we should always plans for these posts to warrant a [community response](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/community-response/). For release days, we follow these steps to organize our response: 
+GitLab Release Posts frequently perform well on Hacker News. Given that we know the post will be released [every month](https://about.gitlab.com/handbook/engineering/releases/), we should always plans for these posts to warrant a [community response](/handbook/marketing/developer-relations/developer-evangelism/community-response/). For release days, we follow these steps to organize our response: 
 
 1. Manager, Developer Evangelism will send out a recurring calendar invite for release days with a link to this section of the handbook in the body of the invite as a reminder to Developer Evangelism team members.
 1. If a notification that a release post has reached the Hacker News Front Page is posted to the #dev-evangelism-and-technical-marketing Slack channel by the "Hacker News Front Page" bot, a Developer Evangelism team member should quickly repost the message to the #product and #release-post channels to alert our Product Managers. 
 1. As questions / comments are added to the Hacker News post, Developer Evangelists should quickly respond to address community feedback.
 1. For questions / comments that the Developer Evangelists are unable to address on their own, they should quickly activate to engage experts. The most efficient way to engage experts are to: notify product managers via `@` mentions in the thread created in the #product channel with a link to the comment which they should address. Note: Don't be shy about engaging experts as the community feedback is valuable to them as they work to improve GitLab. 
 
-More information on [Release Posts](https://about.gitlab.com/handbook/marketing/blog/release-posts/), including the [Release Post Managers schedule](https://about.gitlab.com/handbook/marketing/blog/release-posts/managers/), is available in the handbook. 
+More information on [Release Posts](/handbook/marketing/blog/release-posts/), including the [Release Post Managers schedule](/handbook/marketing/blog/release-posts/managers/), is available in the handbook. 
 
 ## Responding on Hacker News 
 
 When new posts or comments about GitLab are added to Hacker News, team members can find alerts about these posts in the [#hn-mentions](https://gitlab.slack.com/messages/hn-mentions) Slack channel. You are welcome to share these with other team members and members of the wider GitLab community who may want to engage in the discussion. Please join the [#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/messages/dev-evangelism-and-technical-marketing) Slack channel for questions, response coordination for front page posts, guidance on responding, etc.  
 
-[Developer Evangelism team members](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/) are encouraged to address comments and questions on new posts when appropriate. 
+[Developer Evangelism team members](/handbook/marketing/developer-relations/developer-evangelism/) are encouraged to address comments and questions on new posts when appropriate. 
 
 ### Response workflow
 
 1. When alerted by the "Hacker News Front Page Bot" that an article referencing GitLab is on the Front Page of Hacker News, the Developer Evangelists should coordinate to ensure a DRI is assigned to the post to review, monitor the comments, and respond accordingly. 
-1. If the post is a result of a [Zap](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/zapier/#current-zaps) for which Sid is not tagged by the bot, verify that the post is relevant and, if so, ping @Sid in the thread on Slack. 
+1. If the post is a result of a [Zap](/handbook/marketing/developer-relations/workflows-tools/zapier/#current-zaps) for which Sid is not tagged by the bot, verify that the post is relevant and, if so, ping @Sid in the thread on Slack. 
 1. Posts that reach the front page should be shared in Slack channels relative to the topic of the post for greater visibility among team members who may wish to respond. For example, a remote work blog should be shared in the [#remote](https://gitlab.slack.com/messages/remote) channel and a post related to trackers on our marketing site should be shared in [#marketing](https://gitlab.slack.com/messages/marketing). Whenever posts are shared outside of [#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/messages/dev-evangelism-and-technical-marketing), the Slack comment should be cross-linked in the alert thread in `#dev-evangelism-and-technical-marketing` for visibility and to create a single source of truth. 
 1. Developer Evangelists should also review the [#hn-mentions](https://gitlab.slack.com/messages/hn-mentions) Slack channel 1-2 times per day for mentions that require a response. If you are able to provide a quick response/resource, reply on [news.ycombinator.com](https://news.ycombinator.com) using your personal Hacker News account and indicate that you replied by leaving a :white_check_mark: on the Slack comment. _Note that [the window to edit a comment is 2 hours](https://github.com/minimaxir/hacker-news-undocumented#editdelete-time-limits), afterwards you cannot edit or delete a Hacker News comment._
 1. If necessary, you may also wish to share comments with relevant experts who may be able to provide more detailed or insightful comments. This can be done by sharing relevant posts or comments in an appropriate Slack channel if you judge additional input is required.
@@ -82,7 +82,7 @@ A [comment](https://news.ycombinator.com/item?id=30006193) on Hacker News sums i
 
 ## Blog comments
 
-Blog comments can be easily monitored by filtering forum topics by the [feedback tags](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/forum/#tags).
+Blog comments can be easily monitored by filtering forum topics by the [feedback tags](/handbook/marketing/developer-relations/workflows-tools/forum/#tags).
 
 ## Social media guidelines
 
@@ -98,7 +98,7 @@ Blog comments can be easily monitored by filtering forum topics by the [feedback
 - Try to teach people something interesting they didn’t know already.
 - Add value to your post with data points or direct links.
 
-**Note:** You should [review our team member social media policy](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/) before using social media relating to GitLab.
+**Note:** You should [review our team member social media policy](/handbook/marketing/team-member-social-media-policy/) before using social media relating to GitLab.
 
 ## Automation
 
@@ -107,4 +107,4 @@ Hacker News mentions of configured keywords for GitLab are monitored using [Zapi
 - Keyword mentions are tracked in the [#hn-mentions](https://gitlab.slack.com/messages/hn-mentions) Slack channel.
 - Front page notifications are posted into the [#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/messages/dev-evangelism-and-technical-marketing) Slack channel.
 
-All Zapier workflows with keywords are documented in the [Developer Relations handbook](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/zapier/#current-zaps), including details on [how the Algolia Search for Hacker News](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/zapier/#zaps-for-hacker-news) is used. 
+All Zapier workflows with keywords are documented in the [Developer Relations handbook](/handbook/marketing/developer-relations/workflows-tools/zapier/#current-zaps), including details on [how the Algolia Search for Hacker News](/handbook/marketing/developer-relations/workflows-tools/zapier/#zaps-for-hacker-news) is used. 
