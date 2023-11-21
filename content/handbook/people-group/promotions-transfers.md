@@ -331,7 +331,7 @@ This section describes the approval chain after the People Business Partner subm
 
 ### For People Connect Team: Processing Promotions, Internal Transfers & Compensation Changes
 
-1. If the request is approved through Workday, the People Connect Team will create the [Job Change Letter]({{< ref "promotions-transfers#job-change-letter" >}}), whereas if the request is through Greenhouse the `People Connect Team will be notified via the People Connect team email` inbox that the [Job Change Letter](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#letter-of-adjustment) has been created by the CES team and signed.
+1. If the request is approved through Workday, the People Connect Team will create the [Job Change Letter]({{< ref "promotions-transfers#job-change-letter" >}}), whereas if the request is through Greenhouse the `People Connect Team will be notified via the People Connect team email` inbox that the [Job Change Letter](https://handbook.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#job-change-letter) has been created by the CES team and signed.
 1. The People Connect Team member notifies Payroll of the changes by adding the relevant details to the applicable payroll sheet depending on the country under the 'Compensation' header and starting month tab
     - [Non-US payroll changes](https://docs.google.com/spreadsheets/d/1M_puIKHLWkHnVzOJ2MwjIpQ-mwxolae-LpT2VPlByv0/edit#gid=261391927)
     - [(US)Payroll Changes](https://docs.google.com/spreadsheets/d/1163qL1tIG32vAVUNNIbhnPnzkL5euPAD9DGlOaapTjY/edit#gid=1431873926)
@@ -375,7 +375,7 @@ As highlighted in the Definition section, all interim roles (regardless of the n
 
 *Once a team member successfully completes the interview process and is selected for the interim period, the following steps should be taken to ensure the team member is set up for success in their interim role.*
 
-1. *CES*: Issue a [Job Change Letter](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#job-change-letter) to finalize the beginning of the interim period. The Letter should include: interim job title, start date, and end date (if known). Letters of adjustment are important as this is the process by which Total Rewards is notified of change from Greenhouse.
+1. *CES*: Issue a [Job Change Letter](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#job-change-letter) to finalize the beginning of the interim period. The Letter should include: interim job title, start date, and end date (if known). Job Change letters are important as this is the process by which Total Rewards is notified of change from Greenhouse.
 1. *People Connect*: Update the team member's job and business titles in Workday to reflect that they have started an interim role e.g. `Senior Manager, Engineering (Interim)`. This update serves as the SSOT for tracking interim start and end dates, in addition to providing transparency pertaining to who is currently executing in an interim role. Job code and job grade will remain the same, as interim periods have no impact on compensation i.e. do not update any other fields when initiating the [Change Job Process](https://docs.google.com/document/d/1hpPikG0STncYKamaY8XlfMTwYdoszP-0Xogvpp5hyZ4/edit).
 1. *Current Manager*: In the instance that there are direct reports that need to be moved to an Interim Manager this change needs to be initiated by the Current Manager or where necessary the People Business Partner for the respective group in Workday by following the [Change Manager Process](https://docs.google.com/document/d/1JEobACNSMeHU4pU5DaaF7aqmv9wmSDoXx7veZ6_SM_I/edit).  The philosophy here is that if a team member has successfully gone through the interview process and has demonstrated they are ready/able for an interim period in a manager role, they have the required level of EQ and discretion to have direct reports in Workday. It is, of course, expected that should the interim period not end in promotion, the team member continue to treat confidential information confidentially.
 
@@ -395,7 +395,7 @@ Regardless of the outcome, when the interim period ends, the manager should revi
 
 #### Updating Interim Movements in Workday
 
-If you receive a job change or letter of adjustment to an interim role, process the change by:
+If you receive a [Job Change letter](https://handbook.gitlab.com/handbook/people-group/contracts-probation-periods/#job-change-letter) to an interim role, process the change by:
 
 1. Saving the letter to `Documents` > `Contracts & Changes` Document Category (Do not choose `Contracts & Changes - Confidential (No Employee View)`)
 1. Review for compensation change
@@ -572,7 +572,7 @@ If you are interested in another position within your department and the manager
 
 If a GitLab team member is chosen for a new role, the managers should agree on a reasonable and speedy transfer plan. Up to 4 weeks is usually a reasonable period, but good judgment should be used on completing the transfer in a way that is in the best interest of the company, impacted people, and projects.
 
-The agreed upon transfer date should be reflected in the offer letter in Greenhouse to ensure transfer date alignment between current manager, new manager, and transferring team member. This is essential to ensure that both teams are able to plan and be set up for success. It is important to note that it is typically the former team of the team member that shuffles to ensure workload of the departing team member is covered while a backfill is hired. This is to ensure a smooth and speedy transfer and a positive team member experience. When aligning on a start date, please also consider [payroll alignment]({{< ref "promotions-transfers#letter-of-adjustment" >}}) when selecting a start date.
+The agreed upon transfer date should be reflected in the offer letter in Greenhouse to ensure transfer date alignment between current manager, new manager, and transferring team member. This is essential to ensure that both teams are able to plan and be set up for success. It is important to note that it is typically the former team of the team member that shuffles to ensure workload of the departing team member is covered while a backfill is hired. This is to ensure a smooth and speedy transfer and a positive team member experience. When aligning on a start date, please also consider [payroll alignment](https://handbook.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#job-change-letter) when selecting a start date.
 
 Delaying transfers should be avoided to ensure a good team member experience for the transferring individual, however, if due to extenuating circumstances a transfer date needs to be pushed out, both managers need to agree on a new transfer date to communicate to the team member.
 
@@ -654,7 +654,7 @@ Consideration should be given to impacts on [product category maturity](https://
 
 ##### Compliance
 
-The Team Alignment Change process below serves to ensure that DRIs are consulting with their [aligned People Business Partner (PBP)]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}) at appropriate touch points during the team alignment process. The PBP can help determine whether additional involvement from Legal and/or People Operations team is necessary. Depending on the team alignment change type, Letters of Adjustment may be a necessary part of ensuring compliance during team member alignment changes. The PBP can help determine if additional steps like these are or are not necessary, which is why it is essential that they are looped in early.
+The Team Alignment Change process below serves to ensure that DRIs are consulting with their [aligned People Business Partner (PBP)]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}) at appropriate touch points during the team alignment process. The PBP can help determine whether additional involvement from Legal and/or People Operations team is necessary. Depending on the team alignment change type, Job Change letters may be a necessary part of ensuring compliance during team member alignment changes. The PBP can help determine if additional steps like these are or are not necessary, which is why it is essential that they are looped in early.
 
 #### Team Alignment Change Process
 
