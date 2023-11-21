@@ -50,6 +50,55 @@ Quality Engineering Manager: Ramya Authappan
 (<a href="https://app.periscopedata.com/app/gitlab/736012/Quality-Embedded-Dashboard" target="_blank">Sisense↗</a>)
 <embed width="100%" height="250" src="<%= signed_periscope_url({ dashboard: 736012, embed: 'v2', filters: [{name: 'Development_Section' , value: 'dev' }]}) %>">
 
+
+### CustomersDot End-to-End pipeline efficiency
+
+(<a href="https://app.periscopedata.com/app/gitlab/817532/CustomersDot-End-to-End-Dashboard" target="_blank">Sisense↗</a>)
+
+#### Success rate
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 10916864, dashboard: 817532, embed: "v2"}) %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 11111156, dashboard: 817532, embed: "v2"}) %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 11111389, dashboard: 817532, embed: "v2"}) %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 11111428, dashboard: 817532, embed: "v2"}) %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>
+
+#### Durations
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 11111438, dashboard: 817532, embed: "v2"}) %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>
+
 ### Bugs Prioritization
 
 As part of the [Cross functional prioritization](https://about.gitlab.com/handbook/product/cross-functional-prioritization), the SETs or the QEMs (in the absence of a dedicated SET for the product group) prioritise the list of bugs and help in the planning of the upcoming milestone. The [Bug Prioritization Dashoard](https://app.periscopedata.com/app/gitlab/1037965/Bug-Prioritization) is used for this process.
