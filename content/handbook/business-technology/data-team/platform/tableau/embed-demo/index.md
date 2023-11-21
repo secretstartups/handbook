@@ -35,7 +35,7 @@ This chart should be filtered to a preselected Sevetity and Subtype.
 
 ## Views Availble for Public Embedding
 
-{{< tableau toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/PublicSiteViews/PublicViews" >}}
+{{< tableau toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/PublicSiteViews/PublicViewTable" >}}
 {{< /tableau >}}
 
 
