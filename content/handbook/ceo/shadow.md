@@ -136,25 +136,26 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2022-12-05 | 2022-12-09 | [Kurt Dusek](https://gitlab.com/kdusek) - Alliances Solutions Architect | None |
-| 2022-12-12 | 2022-12-16 | AVAILABLE - REMOTE | [Kurt Dusek](https://gitlab.com/kdusek) - Alliances Solutions Architect |
-| 2022-12-19 | 2022-12-23 | NO SHADOWS | NO SHADOWS |
-| 2022-12-26 | 2022-12-30 | NO SHADOWS | NO SHADOWS |
-| 2023-01-02 | 2023-01-06 | [Aaron Burgess](https://gitlab.com/GitLabAaron) - IBM Alliance Business Development Manager | AVAILABLE - REMOTE |
-| 2022-01-09 | 2023-01-13 | NO SHADOWS | NO SHADOWS |
-| 2023-01-16 | 2023-01-20 | [Stacy Cline](https://gitlab.com/slcline) - Sr Director, ESG | [Aaron Burgess](https://gitlab.com/GitLabAaron) - IBM Alliance Business Development Manager  |
-| 2023-01-23 | 2023-01-27 | NO SHADOWS | NO SHADOWS |
-| 2023-01-30 | 2023-02-02 | NO SHADOWS | NO SHADOWS |
-| 2023-02-06 | 2023-02-09 | NO SHADOWS | NO SHADOWS |
-| 2023-02-13 | 2023-02-17 | NO SHADOWS | NO SHADOWS |
-| 2023-02-20 | 2023-02-24 | NO SHADOWS | NO SHADOWS |
-| 2023-02-27 | 2023-03-03 | NO SHADOWS | NO SHADOWS |
-| 2023-03-06 | 2023-03-10 | NO SHADOWS | NO SHADOWS |
-| 2023-03-13 | 2023-03-17 | NO SHADOWS | NO SHADOWS |
-| 2023-03-20 | 2023-03-24 | NO SHADOWS | NO SHADOWS |
-| 2023-03-27 | 2023-03-31 | NO SHADOWS | NO SHADOWS |
+| 2024-01-01 | 2024-01-05 | AVAILABLE - REMOTE | [Arty Ng] (https://gitlab.com/cynthia) - Staff, Strategy & Operations |
+| 2024-01-08 | 2024-01-12 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2024-01-15 | 2024-01-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2024-01-22 | 2024-01-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2024-01-29 | 2024-02-02 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2024-02-05 | 2024-02-09 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2024-02-12 | 2024-02-16 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2024-02-19 | 2024-02-23 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2024-02-26 | 2024-03-01 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2024-03-04 | 2024-03-08 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2024-03-11 | 2023-03-15 | AVAILABLE - SUMMIT | AVAILABLE - SUMMIT |
+| 2024-03-18 | 2024-03-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2024-03-25 | 2024-03-29 | AVAILABLE - BAY AREA | AVAILABLE - BAY AREA |
+| 2024-04-01 | 2024-04-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2024-04-08 | 2024-04-12 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2024-04-15 | 2024-04-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2024-04-22 | 2024-04-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2024-04-29 | 2024-05-03 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
-If you have questions regarding the planned rotation schedule, please ping the [EBA to the CEO]({{< ref "eba#executive-business-administrator-team" >}}) and [Chief of Staff to the CEO]({{< ref chief-of-staff >}}). The CoS to the CEO to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
+If you have questions regarding the planned rotation schedule, please ping the [EBA to the CEO]({{< ref "eba#executive-business-administrator-team" >}}) and [Chief of Staff to the CEO]({{< ref chief-of-staff >}}). The CoS and EBA to the CEO manage the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
 
 ## Preparing for the Program
 
