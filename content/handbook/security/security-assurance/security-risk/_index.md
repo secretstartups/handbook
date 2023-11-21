@@ -69,6 +69,7 @@ DRIs are responsible for ensuring a [handbook-first approach](/handbook/company/
 |TPRM Data Quality and Emerging Requirements Management | Eric Geving |
 |[StORM Metrics and Reporting](storm-program#step-5-annual-storm-reports)     |Kyle Smith|
 |TPRM Metrics and Reporting     |Ryan Lawson|
+|TPRM Application Integrations  |Ryan Lawson|
 
 ## <i class="fas fa-id-card" style="color:rgb(110,73,203)" aria-hidden="true"></i> Contact the Team{#contact}
 
