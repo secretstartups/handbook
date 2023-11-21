@@ -77,7 +77,7 @@ as well as a general guide to Core Platform Engineering continuity in the event 
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Enablement|Enablement:/, direct_manager_role: 'Director of Engineering, Enablement') %>
+<%= stable_counterparts(role_regexp: /[,&] Core Platform|Core Platform:/, direct_manager_role: 'Director of Engineering, Core Platform') %>
 
 ## How We Work
 
@@ -94,7 +94,7 @@ In order to embody GitLab [CREDIT values](/handbook/values/#credit), we take tea
 3. Highlights & Accomplishments
 4. Announcements & topics of interest to those reading the report
 
-We use issues to communicate status asynchronously. The reporting issues reside in [Enablement Status Update](https://gitlab.com/gitlab-org/enablement-section/enablement-status-update) project. There are two types of report issues - issues for each group, stage, and Director; summary issues for each week and month for quick access. The creation of these issues is automated by scripts and a cron job in the same project. The summary issues are also updated regularly by the same cron job to pull the latest together.
+We use issues to communicate status asynchronously. The reporting issues reside in [Core Platform Status Update](https://gitlab.com/gitlab-org/enablement-section/enablement-status-update) project. There are two types of report issues - issues for each group, stage, and Director; summary issues for each week and month for quick access. The creation of these issues is automated by scripts and a cron job in the same project. The summary issues are also updated regularly by the same cron job to pull the latest together.
 
 #### To make a weekly async update
 
@@ -106,7 +106,7 @@ Engineering managers are encouraged to make as many updates as needed throughout
 
 #### To review Core Platform weekly async updates
 
-1. All issues with the `~Enablement::Weekly-Update` label are summarized in weekly and monthly issues, for example [W23 Enablement Sub-Dept Status Summary (2022-06-12 - 2022-06-18)](https://gitlab.com/gitlab-org/enablement-section/enablement-status-update/-/issues/13), [M6 Enablement Sub-Dept Status Summary (Jun 2022)](https://gitlab.com/gitlab-org/enablement-section/enablement-status-update/-/issues/6).
+1. All issues with the `~Core Platform::Weekly-Update` label are summarized in weekly and monthly issues, for example [W23 Core Platform Sub-Dept Status Summary (2022-06-12 - 2022-06-18)](https://gitlab.com/gitlab-org/enablement-section/enablement-status-update/-/issues/13), [M6 Enablement Sub-Dept Status Summary (Jun 2022)](https://gitlab.com/gitlab-org/enablement-section/enablement-status-update/-/issues/6).
 2. You are encouraged to comment and ask questions in weekly async update issues.  This provides useful feedback to the author and opportunities to collaborate.
 
 #### Benefits of reporting and reviewing status async vs. synchronously in meetings
@@ -126,7 +126,7 @@ To address this need, the enablement sub-department has established a cross-grou
 
 The process itself consists of managing a unified enablement frontend roadmap and backlog. The DRI of this process is the Engineering Manager of Geo (@juan-silva). While the frontend engineers' primary focus is still their own groups' roadmap, they can be made available for this backlog based on demand, availability, and overall priority assessment upon agreements between respective groups' PMs and EMs coordinated by the DRI. 
 
-The roadmap is depicted in the table below. This roadmap is reviewed regularly on a monthly cadence during one of the Core Platform staff meetings. Additionally, ad-hoc planning sessions can be scheduled on request by other Enablement EMs, when more prioritization is needed to balance the needs of different group stakeholders. 
+The roadmap is depicted in the table below. This roadmap is reviewed regularly on a monthly cadence during one of the Core Platform staff meetings. Additionally, ad-hoc planning sessions can be scheduled on request by other Core Platform EMs, when more prioritization is needed to balance the needs of different group stakeholders. 
 
 | Group | Roadmap Item | Milestones | Links | Notes
 | ------ | ------ | ------ | ------ | ------ |
@@ -137,9 +137,9 @@ The roadmap is depicted in the table below. This roadmap is reviewed regularly o
 Effort is based on T-shirt sizes as follows: 
 Small = Up to 1 week, Medium = 2-6 weeks, Large = 2-3 months, XL = more than 3 months
 
-As the frontend roadmap items above are broken down into specific Epics and Issues, they are added to each individual group's backlog using that group’s own labels. Additionally, those issues must be labelled with `Enablement-FE`.
+As the frontend roadmap items above are broken down into specific Epics and Issues, they are added to each individual group's backlog using that group’s own labels. Additionally, those issues must be labelled with `Core Platform-FE`.
 
-New issues must initially be labeled `workflow::planning breakdown` where they can be assessed from a technical perspective and estimated accordingly. From there, issues are expected to follow the workflow steps outlined in the [Enablement Frontend Backlog](https://gitlab.com/groups/gitlab-org/-/boards/5604213) board. Geo's FE Engineer is the DRI for updating the board regularly as development progresses.
+New issues must initially be labeled `workflow::planning breakdown` where they can be assessed from a technical perspective and estimated accordingly. From there, issues are expected to follow the workflow steps outlined in the [Core Platform Frontend Backlog](https://gitlab.com/groups/gitlab-org/-/boards/5604213) board. Geo's FE Engineer is the DRI for updating the board regularly as development progresses.
 
 ### Increasing Efficiency through Documenting Decisions
 Documenting development decisions is another way to increase efficiency.  These decisions can be either in an issue explicitly stating that we will not work on this issue, the product category page for your group or a more formal decision log in your group's section of the handbook.  Whatever your chosen desitination, each group should try to maintain a [single source of truth](https://about.gitlab.com/handbook/values/#single-source-of-truth) for the decisions.  A recent example (without mentioning specific product name) had a development team researching an open source product to accelerate development time only to find out later that this research had been previously completed and the product was eliminated from consideration.  If this decision had been discoverable via documentation or issue it would have saved precious development time.
