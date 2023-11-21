@@ -132,30 +132,6 @@ It's important to add captions to videos whenever possible. The steps below outl
     1. Paste in a short amount of text.
     1. Watch it back. You can easily edit the captions (they are listed all together below the video window) so it’s not hard to adjust and make them fit.
 
-#### Custom Content Fields
-
-The Custom Content Field requirements for internal courses can be found [here](https://docs.google.com/spreadsheets/d/1zPJu3PSr40Xa5dUEe6Wj1Sm8gUkQpJG-NwUybxJOMfE/edit#gid=587118744) for GitLab team members. To add a new field, navigate to `Settings` -> `Content` -> `Organization and Display`.
-
-![Adding custom content field in Thought Industries](custom-content.jpg)
-
-Add custom content fields directly to each course in the `Design` tab.
-
-![Adding custom content field in Thought Industries](course-content.jpg)
-
-Please review the **application rules** and **best practices** below:
-
-**Application Rules:**
-
-1. All content should be tagged with `Audience` custom content field + appropriate sub field
-1. Most content should be tagged with `Topic` custom field + appropriate sub field
-1. Some content should be tagged with `Role` customfield + appropriate sub field
-1. To create a new custom content field, it must be documented in this Google sheet and communicated to the entire TI implementation team
-
-**Best Practices:**
-
-1. All custom content fields and sub fields are case sensitive - avoid mistakes like `Communication`, `Communications`, `Communicating`
-1. Wherever possible, use existing custom content fields and sub fields as opposed to creating new ones
-1. Review [TI support docs](https://support.thoughtindustries.com/hc/en-us/categories/360003519553-Content) when questions arise
 
 #### Publishing a course for internal team members
 
@@ -171,7 +147,7 @@ Please review the **application rules** and **best practices** below:
 
 #### Publishing a course for external users
 
-Before publishing a course to be visible for external users, check the content thoroughly to ensure it fits within [GitLab's SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/#safe). The steps needed to publish a course externally are:
+Before publishing a course to be visible for external users, check the content thoroughly to ensure it fits within [GitLab's SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/#safe). It's also best practice to notify the Education Services team via `#education_services` slack channel, as they manage the external content catalogues. The steps needed to publish a course externally are:
 
 1. From the admin view, navigate to the course by choosing Content > Manage Content, then finding the relevant course
 1. Once in the course editor, in the `Content` page check all relevant changes have been published.
