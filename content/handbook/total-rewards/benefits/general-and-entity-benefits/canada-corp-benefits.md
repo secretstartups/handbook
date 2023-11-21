@@ -303,9 +303,7 @@ Per the statutory requirements in Canada, a team member is ineligible to receive
 
 <summary>Ontario</summary>
 
-The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). 
-
-Each leave is separate, and the right to each leave is independent of any right a team member may have to other leave(s). A team member may be entitled to more than one leave for the same event. A team member’s entitlement to any statutory leaves of absence is governed by the legislation applicable in the province in which the employee works for the Company. Statutory leaves of absence will be tracked separately. Any additional paid or unpaid leaves provided by GitLab, are inclusive of, and not in addition to, any concurrent paid or unpaid leaves provided by the applicable employment standards legislation. Additional information can be found on the [Government of Ontario website](https://www.ontario.ca/document/your-guide-employment-standards-act-0). 
+The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.).  Each leave is separate, and the right to each leave is independent of any right a team member may have to other leave(s). A team member may be entitled to more than one leave for the same event. A team member’s entitlement to any statutory leaves of absence is governed by the legislation applicable in the province in which the employee works for the Company. Statutory leaves of absence will be tracked separately. Any additional paid or unpaid leaves provided by GitLab, are inclusive of, and not in addition to, any concurrent paid or unpaid leaves provided by the applicable employment standards legislation. Additional information can be found on the [Government of Ontario website](https://www.ontario.ca/document/your-guide-employment-standards-act-0). 
 
 To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact `leaves@domain.com` and then submit the time off request by selecting the appropriate option in Time Off by Deel. If you do not feel comfortable submitting your time away in Time Off by Deel, the Absence Management team can enter your time off in Workday on your behalf.
 
@@ -373,9 +371,7 @@ To initiate leave, and ensure that statutory entitlements are properly tracked, 
 
 <summary>Québec</summary>
 
-The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). 
-
-To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact the Absence Management team `leaves@gitlab` and then submit the time off request by selecting the appropriate option in Time Off by Deel. If you do not feel comfortable submitting your time away in Time Off by Deel, the Absence Management team can enter your time off in Workday on your behalf.  More information on these leave entitlements can be found on the [Commission des Normes, de l’Equité website](https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/lies-famille).
+The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact the Absence Management team `leaves@domain` and then submit the time off request by selecting the appropriate option in Time Off by Deel. If you do not feel comfortable submitting your time away in Time Off by Deel, the Absence Management team can enter your time off in Workday on your behalf.  More information on these leave entitlements can be found on the [Commission des Normes, de l’Equité website](https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/lies-famille).
 
 **Reservist Leave**
 
@@ -455,9 +451,7 @@ The following leave types **do not** run concurrently with GitLab time away poli
 
 <summary>British Columbia</summary>
 
-The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). 
-
-To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact the Absence Management team `leaves@gitlab.com` then submit the time off request by selecting the appropriate option in Time Off by Deel. If you do not feel comfortable submitting your time away in Time Off by Deel, the Absence Management team can enter your time off in Workday on your behalf.
+The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact the Absence Management team `leaves@domain` and then submit the time off request by selecting the appropriate option in Time Off by Deel. If you do not feel comfortable submitting your time away in Time Off by Deel, the Absence Management team can enter your time off in Workday on your behalf.
 
 More information on these leave entitlements can be found on the [Government of British Columbia’s website](https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/time-off/leaves-of-absence).
 
@@ -526,9 +520,7 @@ More information on these leave entitlements can be found on the [Government of 
 
 <summary>Alberta</summary>
 
-The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). 
-
-To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact the Absence Management team `leaves@gitlab` and then submit the time off request by selecting the appropriate option in Time Off by Deel. If you do not feel comfortable submitting your time away in Time Off by Deel, the Absence Management team can enter your time off in Workday on your behalf.
+The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact the Absence Management team `leaves@domain` and then submit the time off request by selecting the appropriate option in Time Off by Deel. If you do not feel comfortable submitting your time away in Time Off by Deel, the Absence Management team can enter your time off in Workday on your behalf.
 
 More information about these leave types can be found on the [Government of Alberta website](https://www.alberta.ca/job-protected-leaves.aspx).
 
@@ -595,11 +587,9 @@ More information about these leave types can be found on the [Government of Albe
 
 <summary>Manitoba</summary>
 
-The following statutory leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). 
+The following statutory leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). A team member’s entitlement to any statutory leaves of absence is governed by the legislation applicable in the province in which the employee works for the Company. Statutory leaves of absence will be tracked separately. Any additional paid or unpaid leaves provided by GitLab, are inclusive of, and not in addition to, any concurrent paid or unpaid leaves provided by the applicable employment standards legislation.
 
-A team member’s entitlement to any statutory leaves of absence is governed by the legislation applicable in the province in which the employee works for the Company. Statutory leaves of absence will be tracked separately. Any additional paid or unpaid leaves provided by GitLab, are inclusive of, and not in addition to, any concurrent paid or unpaid leaves provided by the applicable employment standards legislation.
-
-To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact the Absence Management team `leaves@gitlab` and then submit the time off request by selecting the appropriate option in Time Off by Deel. If you do not feel comfortable submitting your time away in Time Off by Deel, the Absence Management team can enter your time off in Workday on your behalf.
+To initiate leave, and ensure that statutory entitlements are properly tracked, team members should contact the Absence Management team `leaves@domain` and then submit the time off request by selecting the appropriate option in Time Off by Deel. If you do not feel comfortable submitting your time away in Time Off by Deel, the Absence Management team can enter your time off in Workday on your behalf.
 
 More information can be found on the [Government of Manitoba website](https://www.gov.mb.ca/labour/standards/doc,unpaid-leave,factsheet.html).
 
