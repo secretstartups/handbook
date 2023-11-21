@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Acquisition Process: Technical Due Diligence"
 ---
 
@@ -68,16 +68,16 @@ The technical diligence is part of our [acquisition process](/handbook/acquisiti
         - Complexity
             - Is the code over-engineered, difficult to comprehend, or architecturally opaque?
         - Documentation
-            - Are there sufficient inline comments, both tactical (documenting segments) and strategic (high level), to make the coding clear to new eyes? Does the code owner preserve offline documentation for coding standards and enforce them? 
+            - Are there sufficient inline comments, both tactical (documenting segments) and strategic (high level), to make the coding clear to new eyes? Does the code owner preserve offline documentation for coding standards and enforce them?
     - Design
         - Architectural Definition
-            - Is the architecture documented and does the reality conform to the documentation? 
+            - Is the architecture documented and does the reality conform to the documentation?
         - Organization and Structure
             - Is the architecture well-designed to be modular and hierarchical?
         - Maintainability
             - Is the architecture a drag on development, and will the software need to be refactored?
         - Scalability
-          -  Is the architecture scalable or will it need to be refactored? Are infrastructure and frameworks fit to purpose and future purpose?
+          - Is the architecture scalable or will it need to be refactored? Are infrastructure and frameworks fit to purpose and future purpose?
         - External dependencies
             - Is the application relying on third party functionality/services we would not want to adopt or have trouble finding an alternative service to?
 

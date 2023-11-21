@@ -170,11 +170,10 @@ git pull
 # Prepare directories
 echo -e "${bold}Making a copy of the www-gitlab-com repo directory...${normal}"
 mkdir -p $TMP_REPO
-
 TMP_REPO=$TMP_REPO/$(echo $DUBDUBDUB_REPO |rev| cut -d '/' -f 1|rev)
+cp -r $DUBDUBDUB_REPO $TMP_REPO
 
 echo -e "${bold}Switch to copy of www-gitlab-com at ${TMP_REPO}...${normal}"
-cp -r $DUBDUBDUB_REPO $TMP_REPO
 cd $TMP_REPO
 
 if [[ $USE_FILTER_REPO == "true" ]]; then

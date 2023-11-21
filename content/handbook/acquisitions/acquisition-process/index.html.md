@@ -1,13 +1,13 @@
 ---
-layout: handbook-page-toc
+
 title: "Acquisition Process"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 This is a detailed view of our acquisition process. For more information about
 our acquisitions approach visit our [acquisitions handbook](/handbook/acquisitions/).
@@ -37,7 +37,7 @@ The process is comprised of five key stages:
     1. Company overview including team, products, financials, and funding
     1. Discuss which features could accelerate GitLab's roadmap
     1. Review the GitLab acquisition process including deal terms, as appropriate ([acquisitions handbook](/handbook/acquisitions/))
-    - TARGET TEAM: Ahead of this call please review our [roadmap](/direction/) and outline which of your current and future product features can be implemented into GitLab's product categories. Outline a simple integration timeline for those features, considering an [MVC](/handbook/product/product-principles/#the-minimal-viable-change-mvc) release on the first month after joining GitLab and monthly releases following with quick iterations.
+    - TARGET TEAM: Ahead of this call please review our [roadmap](https://about.gitlab.com/direction/) and outline which of your current and future product features can be implemented into GitLab's product categories. Outline a simple integration timeline for those features, considering an [MVC](/handbook/product/product-principles/#the-minimal-viable-change-mvc) release on the first month after joining GitLab and monthly releases following with quick iterations.
 1. Share call summary Initial Acquisition Review Template (located in the Corp Dev shared drive under Acquisition Templates - GitLab internal-only) of companies that are aligned with GitLab's acquisition strategy ("Qualified Pipeline") with relevant product lead.
     - Create a new, private Slack channel (format: `#acq-company_name`) and add the internal GitLab document ("Main Acquisition Document") to the topic. Add Chief Product Officer (CPO) and the relevant product and engineering leaders to help with the initial assessment of the opportunity.
 1. Product call: If the [Product Champion](/handbook/acquisitions/acquisition-process/#acquisition-team) sees a potential fit and wants to proceed, set up an initial 90-minute product call to dive into the product and tech. The call must include the Product champion and may also include Stage Leaders and specific Product Managers relevant to the call. [Stage Leaders and Product Managers](/handbook/product/categories/#devops-stages) should keep in mind the early stage of this evaluation and attempt to think expansively about how the potential acquisition could be additive to GitLab. Include the Chief Product Officer as optional attendee. The agenda for the call is:
@@ -46,11 +46,11 @@ The process is comprised of five key stages:
     1. [GitLab roadmap](https://about.gitlab.com/direction/) fit - discuss which features could be built into GitLab and into which product stage
     1. Start the discussion about what an integration into GitLab's code base will look like
 
-    A mutual NDA will be shared by GitLab and will be required to be signed prior to the Product Call. For more details about our MNDA and process for signing see [GitLab Legal Handbook](/handbook/legal/).
+    A mutual NDA will be shared by GitLab and will be required to be signed prior to the Product Call. For more details about our MNDA and process for signing see [GitLab Legal Handbook](https://about.gitlab.com/handbook/legal/).
 1. Initial internal review:
-   1. Preliminary assessment of product and technology fit of the potential opportunity to GitLab's [product roadmap](/direction/) as well as integration options into GitLab. 
-   1. Before moving to early technical diligence, the Product Champion will need to confirm annual fiscal budget with the Chief Product Officer and finance team. 
-      1. It is necessary to understand whether onboarding the target's employees can be funded through existing or planned requisitions either within the Product Champion's section, across the R&D budget or other operating expense reallocations. If not, budget must be secured by Product, with the help of Finance, before proceeding. 
+   1. Preliminary assessment of product and technology fit of the potential opportunity to GitLab's [product roadmap](https://about.gitlab.com/direction/) as well as integration options into GitLab.
+   1. Before moving to early technical diligence, the Product Champion will need to confirm annual fiscal budget with the Chief Product Officer and finance team.
+      1. It is necessary to understand whether onboarding the target's employees can be funded through existing or planned requisitions either within the Product Champion's section, across the R&D budget or other operating expense reallocations. If not, budget must be secured by Product, with the help of Finance, before proceeding.
       1. This step is intended to optimize cross-functional collaboration and prevent a case where during final approval it is determined that budget does not exist for us to onboard the target's employees, threatening the deal outcome.
 
 ### Early Diligence
@@ -97,7 +97,7 @@ The process is comprised of five key stages:
             - Risk Register and status of risks
             - Results of security reviews the entity has performed over it's current vendors
 1. Early technical diligence:
-    1. In case the target company has open source components, the respective Dir. Engineering (dependent on GitLab stage) will start an early code review to determine: code quality, development practices, contributions, license compliance and more. That should be turned around within 2-3 business days. 
+    1. In case the target company has open source components, the respective Dir. Engineering (dependent on GitLab stage) will start an early code review to determine: code quality, development practices, contributions, license compliance and more. That should be turned around within 2-3 business days.
         1. The Corporate Development deal lead will create a new document (`Project [code-name] - Technical Diligence`) for the Technical Call meeting notes, separate from the main acquisition document. Future diligence findings, and all other technical diligence related note-taking of meetings (external and internal), which are engineering-centric should be recorded in this Technical Diligence document, a separate and internal Google Doc from the main acquisition document. The Technical Diligence document will be bookmarked to the Slack channel topic of `#code_name-technical-diligence`
 
     1. Technical call: a hands-on product and code screen-share session (2 hours) in which the technical lead, as assigned by the respective Engineering champion, together with the respective Product champion will lead a screen-share session aimed at a hands-on validation of the product functionalities and an overview of the code. The objectives and agenda for the call are:
@@ -113,9 +113,9 @@ The process is comprised of five key stages:
         1. Internal notes of the call should be recorded in the Technical Evaluation Google Doc
     1. Founder technical interviews - founders will go through two rounds of interviews to assess technical and cultural alignment.
 1. Resume review - Review of all employee resumes
-    1. Set your own LinkedIn profile to [private mode viewing](https://www.linkedin.com/help/linkedin/answer/a564182/private-mode-viewers-of-profiles?lang=en) when reviewing target employee profiles. Private mode viewing will prevent target employees from being alerted to GitLab's examination of their LinkedIn profiles. 
+    1. Set your own LinkedIn profile to [private mode viewing](https://www.linkedin.com/help/linkedin/answer/a564182/private-mode-viewers-of-profiles?lang=en) when reviewing target employee profiles. Private mode viewing will prevent target employees from being alerted to GitLab's examination of their LinkedIn profiles.
 1. Compensation review to identify any gaps and possible flags led by the HR Business Partner
-1. Optional interviews for the key technical employees - to increase the success rate of the deal post-Term Sheet, we recommend conducting interviews for the key technical employees identified before signing the Term Sheet. This will greatly reduce the likelihood of personnel gaps becoming a blocker during the Confirmatory Due Diligence stage. The interviews will include a technical interview and a manager interview as detailed in the Confirmatory Due Diligence stage below. The Corporate Development deal lead will engage with People Operations to coordinate interviews and follow the [talent acquisition process framework for acquisitions](/handbook/hiring/talent-acquisition-framework/acquisitions/) 
+1. Optional interviews for the key technical employees - to increase the success rate of the deal post-Term Sheet, we recommend conducting interviews for the key technical employees identified before signing the Term Sheet. This will greatly reduce the likelihood of personnel gaps becoming a blocker during the Confirmatory Due Diligence stage. The interviews will include a technical interview and a manager interview as detailed in the Confirmatory Due Diligence stage below. The Corporate Development deal lead will engage with People Operations to coordinate interviews and follow the [talent acquisition process framework for acquisitions](/handbook/hiring/talent-acquisition-framework/acquisitions/)
     1. The key technical employees are those identified as critical to the success of the acquisition, the proposed integration plan and the future of the team at GitLab post integration.
 1. An Application Security Review performed by GitLab's Application Security Team
     1. Identifies application vulnerabilities that need to be considered by GitLab by applying a threat modeling approach to conduct the review
@@ -138,7 +138,7 @@ The process is comprised of five key stages:
             1. Will help establish focus on both acquired target and our product team
             1. Be able to complete post-closing payouts (if any earned and due) to the target's entity and shut it down as soon as practicable and in accordance with the terms of the deal documents
         1. At least one milestone will focus on developing new functionality which will be based on the integration delivered in earlier milestones
-1. To determine the deal ROI, the acquisition team will perform the analysis using the [cost-revenue acquisition calculator](https://docs.google.com/spreadsheets/d/1ke36-mtEi8MhfMKXpYGMRP6H3HH6MimxXt86Zv_QkzM/edit#gid=0) (_internal_ GitLab document). Make a copy of the master cost-revenue acquisition calculator file and save it in the relevant project folder in Google Drive before making changes to the file.
+1. To determine the deal ROI, the acquisition team will perform the analysis using the [cost-revenue acquisition calculator](https://docs.google.com/spreadsheets/d/1ke36-mtEi8MhfMKXpYGMRP6H3HH6MimxXt86Zv_QkzM/edit#gid=0) (*internal* GitLab document). Make a copy of the master cost-revenue acquisition calculator file and save it in the relevant project folder in Google Drive before making changes to the file.
 1. Presenting the business case for approvals (by order of occurrence):
     1. Champions' approval: The acquisition team will review the business case together and approve the suggested deal. This includes approval of all the following:
         1. Complete executive summary (with link to term sheet draft) including budget and headcount allocation for the acquisition
@@ -152,7 +152,7 @@ The process is comprised of five key stages:
     1. Once the terms to start negotiations have been approved, the corporate development acquisition lead will reach out to the target company to share the offer and term sheet.
     1. Once an agreement on terms with the target has been reached, the term sheet (with any changes) will be brought forward for approval from: CLO, CFO, CEO (in that order). These approvals will be captured in the term sheet approval issue.
     1. Once all approvals have been obtained, the corporate development acquisition lead will stage the term sheet for signing on DocuSign for target CEO and GitLab CEO (in that order). Add CLO, CFO, and CPO on Cc on the agreement.
-        1. Approval tracking will be tracked on the term sheet approval issue mentioned earlier. Any changes to previously-approved terms need to be reviewed and approved once more by the following: Product champion, Engineering champion, CPO, CTO, CLO, CFO, CEO. The changes should be referenced on the term sheet approval tracking issue _before_ seeking approvals.
+        1. Approval tracking will be tracked on the term sheet approval issue mentioned earlier. Any changes to previously-approved terms need to be reviewed and approved once more by the following: Product champion, Engineering champion, CPO, CTO, CLO, CFO, CEO. The changes should be referenced on the term sheet approval tracking issue *before* seeking approvals.
 
 ### Confirmatory Due Diligence
 
@@ -196,7 +196,7 @@ The integration process is outlined in our [acquisition integration page](/handb
     1. Set time for an **optional** live sync
     1. Solicit feedback on all related acquisition channels
     1. Once sync has completed, continue with the steps below.
-1. The corporate development acquisition lead will archive all slack channels associated with the acquisition. 
+1. The corporate development acquisition lead will archive all slack channels associated with the acquisition.
 1. In accordance with the signed NDA, the GitLab corporate development acquisition lead, and all other deal participants in possession of preliminary and confirmatory deal diligence materials, will make best effort to remove the materials from GitLab's internal drives and repositories.
 
 ## Acquisition Team
@@ -237,7 +237,7 @@ To assign the engineering team member, contact the engineering manager of the re
 
 ## Acquisitions Are Confidential
 
-At GitLab, we treat all acquisition discussions as confidential and share any information internally on a need-to-know basis. We apply [compartmentalization](https://en.wikipedia.org/wiki/Compartmentalization_(information_security)) for the various topics coming up during the acquisition process in order to maintain confidentiality and reduce unnecessary exposure. 
+At GitLab, we treat all acquisition discussions as confidential and share any information internally on a need-to-know basis. We apply [compartmentalization](https://en.wikipedia.org/wiki/Compartmentalization_(information_security)) for the various topics coming up during the acquisition process in order to maintain confidentiality and reduce unnecessary exposure.
 
 To ensure confidentiality during the acquisition process, we assign [code names](/handbook/communication/confidentiality-levels/#project-names) to each potential transaction once we enter the Early Diligence stage. Project name themes are defined by GitLab Legal, Corporate Development's theme is Movie / TV Show characters.
 
@@ -251,19 +251,19 @@ To maintain confidentiality, we follow the following guidelines:
 1. We collect all notes on an acquisition in the main acquisition doc shared on the topic of the acquisition's slack channel. If you must create a new document, make sure it is set to invite-only and add the relevant people manually. That document needs to be kept inside the acquisition G-Drive folder on the Corporate Development Shared Drive.
 1. Everyone involved in the project should use the code name in place of the actual company name in all communication about the deal until it is publicly announced.
 
-### Shared Slack Channels with Targets 
+### Shared Slack Channels with Targets
 
 If and when our team and the target's would like to open a shared Slack channel for streamlined communication, please engage Corporate Development for that purpose so that we can ensure we have persistent process visibility.
 
 ### Social Media
 
-As an operating principal, all team members are advised not to accept social media invites or follow requests (LinkedIn, Facebook) from individuals at companies with which we are actively engaged in acquisition discussions. Third-parties can view these connections and deduce that GitLab is having, or has had, discussions relating to M&A or investments. 
+As an operating principal, all team members are advised not to accept social media invites or follow requests (LinkedIn, Facebook) from individuals at companies with which we are actively engaged in acquisition discussions. Third-parties can view these connections and deduce that GitLab is having, or has had, discussions relating to M&A or investments.
 
 If you have an existing connection, or a regular cadence of interaction, with a company that then becomes engaged in M&A discussion with GitLab you do not need to disassociate. The spirit of this guidance is intended to keep the status-quo and not create the perception of change in relationship between GitLab and the company being evaluated.
 
 ## Prioritizing Acquisition Opportunities
 
-Each quarter the Corporate Development team defines a set of [three categories](/handbook/acquisitions/#acquisition-strategy) which are prioritized for that quarter for outbound activity. We commonly refer to them as Quarterly Focus Areas. While this is true especially for our outbound efforts, these categories will be at the center of our overall efforts and focus for that quarter, taking into account inbound prospects as well. 
+Each quarter the Corporate Development team defines a set of [three categories](/handbook/acquisitions/#acquisition-strategy) which are prioritized for that quarter for outbound activity. We commonly refer to them as Quarterly Focus Areas. While this is true especially for our outbound efforts, these categories will be at the center of our overall efforts and focus for that quarter, taking into account inbound prospects as well.
 
 Although we have our quarterly focus areas, we are open to discussing and potentially pursuing an opportunity outside of those focus areas. For us to look into an opportunity outside of our quarterly focus areas, it needs to satisfy one, or more, of the following criteria:
 1. Present an outsized revenue potential

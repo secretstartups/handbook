@@ -1,28 +1,28 @@
 ---
-layout: handbook-page-toc
+
 title: "Acquisition Integration"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 This is a detailed view of our acquisition integration process. For more information about
 our acquisitions approach visit our [acquisitions process](/handbook/acquisitions/acquisition-process/).
 
 ## Overview
 
-Integration planning begins well before a transaction closes. At the appropriate time during the deal process, the Sr. Dir. Corporate Development, the DRI for the integration stage, will help facilitate the integration between the relevant divisions and functions involved. To accomplish that, an integration working group (IWG) will be established with representatives from divisions across GitLab (e.g., Finance, Legal, Product, Engineering, People, etc.). 
+Integration planning begins well before a transaction closes. At the appropriate time during the deal process, the Sr. Dir. Corporate Development, the DRI for the integration stage, will help facilitate the integration between the relevant divisions and functions involved. To accomplish that, an integration working group (IWG) will be established with representatives from divisions across GitLab (e.g., Finance, Legal, Product, Engineering, People, etc.).
 
 Importantly, each integration will have an executive sponsor from the E-Group as well as two additional DRIs:
 1. Roadmap DRI - the Product Champion for the acquisition, will be responsible the direction, impact, scope, and alignment of the integration
 1. Engagement DRI - the Engineering Champion for the acquisition, will be responsible for the implementation of the technical integration milestones and retention of the acquired team members within GitLab.
 
-We use the deal documents, findings from diligence and other data and information to establish a written Day 1 Plan and Long-Term Plan. The former documents what exactly needs to occur or needs to be in place on Day 1 following the closing of the transaction. The Long-Term Plan includes key milestones developed as part of the Acquisition Process. Each of the subject matter experts on the IWG identifies what needs to be done in advance of, and on, Day 1 and for the period during which the Long-Term Plan is effective until integration is complete. 
+We use the deal documents, findings from diligence and other data and information to establish a written Day 1 Plan and Long-Term Plan. The former documents what exactly needs to occur or needs to be in place on Day 1 following the closing of the transaction. The Long-Term Plan includes key milestones developed as part of the Acquisition Process. Each of the subject matter experts on the IWG identifies what needs to be done in advance of, and on, Day 1 and for the period during which the Long-Term Plan is effective until integration is complete.
 
-The IWG will meet regularly (cadence will be determined on a deal by deal basis) and the IWG members will use that time to discuss issues or other items that could impact integration. Integration is iterative, as such the IWG revises the integration plan as necessary while making sure all stakeholders are aware of the revisions and updates, as appropriate. 
+The IWG will meet regularly (cadence will be determined on a deal by deal basis) and the IWG members will use that time to discuss issues or other items that could impact integration. Integration is iterative, as such the IWG revises the integration plan as necessary while making sure all stakeholders are aware of the revisions and updates, as appropriate.
 
 Examples of areas and tasks, some of which are determined by deal structure and deal documents, that may be part of the post-closing integration process include:
 
@@ -46,17 +46,17 @@ Examples of areas and tasks, some of which are determined by deal structure and 
 1. Open, close or transfer bank accounts, as necessary, and update signing authority if appropriate.
 1. Change/update remittance on invoices, if necessary.
 1. Reconcile accounts payable and accounts receivable and transition the same to GitLab's systems, if appropriate.
-1. Notify target company vendors, as necessary, and by any required deadline. 
-1. Work with the People team to onboard new team members to the GitLab payroll system. 
+1. Notify target company vendors, as necessary, and by any required deadline.
+1. Work with the People team to onboard new team members to the GitLab payroll system.
 1. Log any deal-specific payroll and other considerations into our systems
 
 ### Legal
 
 1. Track and manage all post-closing deadlines, deliverables, escrow release, post-closing notices required by customers and/or vendors, etc.
-1. Work with appropriate team members to address issues and items identified during diligence and the deal process. 
+1. Work with appropriate team members to address issues and items identified during diligence and the deal process.
 1. Operational shutdown of target company if, as and when appropriate or as specified in the deal documentation.
 1. Organize and obtain the closing binder related to the acquisition and upload to ContractWorks.
-1. Work with target company's counsel for a smooth transition, as appropriate and permissible, of legal matters from target company's counsel to GitLab legal. 
+1. Work with target company's counsel for a smooth transition, as appropriate and permissible, of legal matters from target company's counsel to GitLab legal.
 
 ### Technical integration
 
@@ -74,13 +74,13 @@ Examples of areas and tasks, some of which are determined by deal structure and 
 
 ### People Integration
 
-1. Onboarding of target team members (as specified in the deal documents) using the GitLab onboarding issue. 
-1. Ensure all new team members are on the GitLab payroll system as of Day 1, which will require contacting the payroll provider well in advance of Day 1. 
-1. Confirm with target company that the target company's employee benefits vendors are aware of the pending closing and ensure all target team members (as specified in the deal documents) timely receive information regarding benefits. All such benefits to be provided post-closing must comply with any relevant terms set forth in the acquisition agreement. 
-1. Identify any particular training courses (in addition to those in the GitLab onboarding issue) needed for the new team members. 
+1. Onboarding of target team members (as specified in the deal documents) using the GitLab onboarding issue.
+1. Ensure all new team members are on the GitLab payroll system as of Day 1, which will require contacting the payroll provider well in advance of Day 1.
+1. Confirm with target company that the target company's employee benefits vendors are aware of the pending closing and ensure all target team members (as specified in the deal documents) timely receive information regarding benefits. All such benefits to be provided post-closing must comply with any relevant terms set forth in the acquisition agreement.
+1. Identify any particular training courses (in addition to those in the GitLab onboarding issue) needed for the new team members.
 1. Address any change of control issues present in any employment agreement and which have an impact post-closing; unless otherwise specified in the acquisition agreement, the target company is generally responsible for such issues, subject to the terms of the applicable employment agreement.
-1.  During the first 12 months after the team members join GitLab, the People Ops team will administer two pulse surveys to assess integration. The first [Acquisition Integration Survey](https://gitlab.com/gitlab-com/people-group/people-business-partners/-/issues/35) will be released on or about the three month anniversary of closing and the second pulse Acquisition Integration Survey will be released on or about the nine month anniversary of the closing.
-1. Internal Transfers - For any internal team members that wish to transition to/apply for roles on acquired teams, hiring managers should be particularly diligent about reviewing context and information pertaining to the acquisition details, charter, milestones, goals, etc. Acquired teams, particularly in early stages, can operate differently than a typical team at GitLab in that the first 6-12 months (or more) of work given that the milestones and directions are pre-defined as part of the acquisition agreement. We want to ensure full transparency is maintained with team members who transition in an effort to set them up for success. 
+1. During the first 12 months after the team members join GitLab, the People Ops team will administer two pulse surveys to assess integration. The first [Acquisition Integration Survey](https://gitlab.com/gitlab-com/people-group/people-business-partners/-/issues/35) will be released on or about the three month anniversary of closing and the second pulse Acquisition Integration Survey will be released on or about the nine month anniversary of the closing.
+1. Internal Transfers - For any internal team members that wish to transition to/apply for roles on acquired teams, hiring managers should be particularly diligent about reviewing context and information pertaining to the acquisition details, charter, milestones, goals, etc. Acquired teams, particularly in early stages, can operate differently than a typical team at GitLab in that the first 6-12 months (or more) of work given that the milestones and directions are pre-defined as part of the acquisition agreement. We want to ensure full transparency is maintained with team members who transition in an effort to set them up for success.
 
 ### Field enablement
 
@@ -91,8 +91,8 @@ Sales and marketing of the target company product(s) covers three different area
     1. Messaging
 The GitLab Field and Marketing organizations have aligned on a go-to-market approach based on a standard and consistent customer value-based messaging framework. As such, the Acquisition Integration team should partner with Product Marketing and document the following:
 
-1. What [**customer value driver(s)**](/handbook/sales/command-of-the-message/#customer-value-drivers) does this acquisition augment and how?
-1. How does this acquisition augment [**GitLab's differentiators**](/handbook/sales/command-of-the-message/#gitlab-differentiators) and/or introduce new ones?
+1. What [**customer value driver(s)**](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers) does this acquisition augment and how?
+1. How does this acquisition augment [**GitLab's differentiators**](https://about.gitlab.com/handbook/sales/command-of-the-message/#gitlab-differentiators) and/or introduce new ones?
 1. How does this acquisition augment our existing [**customer use cases**](/handbook/use-cases/)?
 
     2. Role-based learning objectives
@@ -112,11 +112,11 @@ Once the above is completed, the team proceeds to enablement development and exe
 1. **Prospect FAQ** - A prospect FAQ document will be created answering questions which are likely to come up from our customers
 1. **Overview webcast** - A webcast for our field teams will be scheduled 1-2 months from announcement providing a more in-depth overview of the acquisition and its impact for our product, customers and prospects.
 1. **Technical webcast** - Scheduled around the delivery of the MVC of the integration efforts, a technical webcast for our field teams will be scheduled to provide a demo of the new functionality and new product workflows.
-1. **Field Communication Plan** - Field Communications will work with the Product DRI to create a communications plan using the [Field Communication Playbook](/handbook/sales/field-communications/#field-communications-playbook) that disseminates key resources and information to field team members.
+1. **Field Communication Plan** - Field Communications will work with the Product DRI to create a communications plan using the [Field Communication Playbook](https://about.gitlab.com/handbook/sales/field-communications/#field-communications-playbook) that disseminates key resources and information to field team members.
 
 ### Document Management Process
 
-- Pre-closing documents will be stored on Google Drive and made accessible to those involved with the prospective acquisition process. 
-- Upon closing, a member of the Legal & Corporate Affairs team will be responsible for organizing and obtaining the closing binder related to the acquisition. 
+- Pre-closing documents will be stored on Google Drive and made accessible to those involved with the prospective acquisition process.
+- Upon closing, a member of the Legal & Corporate Affairs team will be responsible for organizing and obtaining the closing binder related to the acquisition.
 - Once received, the Legal Operations team will upload the binder as well as the rest of the documents in the original Google Drive folder into a new folder in ContractWorks.
 - Each month a Reconciliation Issue will be created for the previous month, included in this Issue will be an obligation from Corporate Counsel to confirm either, (i) there are no Agreements for the previous month, or (ii) all executed Agreements have been provided to the Legal Operations Team Member(s) for upload.
