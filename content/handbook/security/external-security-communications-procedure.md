@@ -46,7 +46,7 @@ There are typically three communications areas that might warrant a Security Dep
 
 Remember that it is not unusual for security-related patches to be in the regular GitLab release [every month](https://about.gitlab.com/handbook/engineering/releases/) as the GitLab codebase is updated continuously, but vulnerabilities are addressed in the monthly security release happens roughly one week after the regular GitLab release.
 
-NOTE: If the security incident or issue is considering critical and an emergency patch and release outside the normal release schedule is needed, refer to the [Marketing - Emergency Response](https://about.gitlab.com/handbook/marketing/emergency-response/) handbook page.
+NOTE: If the security incident or issue is considering critical and an emergency patch and release outside the normal release schedule is needed, refer to the [Marketing - Emergency Response](/handbook/marketing/emergency-response/) handbook page.
 
 ## Exceptions
 

@@ -68,7 +68,7 @@ Once you have a customer who either (1) has an excellent use case or (2) has com
 1. Customer Reference: Submit audio recording for transcription using [Rev.com](https://rev.com/) `standard` (2-3 day turnaround) option.
 2. Customer Reference: Sends transcript to customer for approval.
 4. Customer Reference: Once transcription is returned, label issue `case study - production` and assign to Content Marketing.
-3. Content Marketing: Create a draft following the [case study format](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/case-studies/#case-study-format).
+3. Content Marketing: Create a draft following the [case study format](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/case-studies/#case-study-format).
 5. Once the draft is completed, writer will label `Staus-WIP` and ping the Content Marketing Manager to review.
 6. Customer Reference assigns to Product Marketing for review.
 7. Customer Reference sends to customer after PM reviews.

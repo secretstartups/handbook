@@ -15,7 +15,7 @@ twitter_creator: gitlab
 
 ## What is Social Advocacy? 
 
-Through a [social media advocacy program](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/), we are able to provide GitLab team members fresh news and updates about our organization and as well as throughout our industry. By having a tool in place that provides curated content, you'll be able to build your personal brand, become an expert in your topic, and contribute  to the growth of GitLab.
+Through a [social media advocacy program](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/), we are able to provide GitLab team members fresh news and updates about our organization and as well as throughout our industry. By having a tool in place that provides curated content, you'll be able to build your personal brand, become an expert in your topic, and contribute  to the growth of GitLab.
 
 Curators are selected intentionally by the Social Media team to drive our advocacy content strategy. You are responsible for curating stories to be shared by GitLab team members by adding content to the Bambu platform. Each piece of content added to Bambu should benefit your team or your topic. Please take the training and complete the issue you are assigned to. This will certify you as a curator in this program. 
 

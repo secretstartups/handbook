@@ -15,7 +15,7 @@ This page holds the email templates used to interact with people who are interet
 
 Since we interact with program members and applicants mainly via Zendesk, we have created Zendesk macros for most emails we need to send.
 
-The macros below are organized into the various stages of our [community programs application workflow](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#application-workflow).
+The macros below are organized into the various stages of our [community programs application workflow](/handbook/marketing/developer-relations/community-programs/community-program-applications/#application-workflow).
 
 ### Using Gmail as an alternative to Zendesk
 
@@ -23,22 +23,22 @@ We use Zendesk to interface with our community in most cases.
 
 However, in some cases, like when you need to loop in a Sales representative, you may need to send an email from your Gmail inbox instead. That's why this page mainly holds Zendesk macros, but also includes email templates at the end.
 
-When sending from your Gmail account, be sure to send these emails from the education@gitlab.com / opensource@gitlab.com / startups@gitlab.com email alias. To configure your inbox, [follow these instructions](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/e-mail/#setting-up-aliases) or take a look at [the official GMail documentation](https://support.google.com/mail/answer/22370?hl=en).
+When sending from your Gmail account, be sure to send these emails from the education@gitlab.com / opensource@gitlab.com / startups@gitlab.com email alias. To configure your inbox, [follow these instructions](/handbook/marketing/developer-relations/workflows-tools/e-mail/#setting-up-aliases) or take a look at [the official GMail documentation](https://support.google.com/mail/answer/22370?hl=en).
 
 If you end up using Gmail on a regular basis, consider adding the relevant templates to your Gmail inbox by [enabling templates and creating a template](https://support.google.com/a/users/answer/9308990?hl=en).
 
 ### Community program workflows and common tasks
 Since this page is part of the community program application workflow, the following pages hold more context on when to use each of the macros and email templates:
 
- * [Community program workflows](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/) - this page holds the application workflow for the community programs.
- * [Common tasks](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/common-tasks/) - this page holds common requests, tasks, and errors related to the community applicaiton workflow.
+ * [Community program workflows](/handbook/marketing/developer-relations/community-programs/community-program-applications/) - this page holds the application workflow for the community programs.
+ * [Common tasks](/handbook/marketing/developer-relations/community-programs/community-program-applications/common-tasks/) - this page holds common requests, tasks, and errors related to the community applicaiton workflow.
 
 
 # Zendesk Macros and Email Templates
 
-A [Zendesk macro](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/zendesk/#zendesk-macros) is essentially an email template that allows you to send messages that are often used.
+A [Zendesk macro](/handbook/marketing/developer-relations/workflows-tools/zendesk/#zendesk-macros) is essentially an email template that allows you to send messages that are often used.
 
-Below are Zendesk macros that are regularly used when communicating with community program participants. We have mapped them out to match the various phases of the [community program workflows](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#application-workflow).
+Below are Zendesk macros that are regularly used when communicating with community program participants. We have mapped them out to match the various phases of the [community program workflows](/handbook/marketing/developer-relations/community-programs/community-program-applications/#application-workflow).
 
 Not everyone at GitLab can access the [Community Zendesk instance](https://gitlab-community.zendesk.com/), so this page is meant to document all of the Zendesk macros we use. This provides transparency around our messaging, and it also allows others to integrate with our workflows.
 
@@ -55,7 +55,7 @@ Below, you'll find macros that are program specific. Macros which span multiple 
 ### How to edit or add a new Zendesk Macro
 If you'll need to send a message more than once, consider creating a Zendesk macro to save time. When creating or editing a new macro, make sure to document it on this page.
 
-[Here's how to edit or create Zendesk Macros](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/zendesk/#zendesk-macros).
+[Here's how to edit or create Zendesk Macros](/handbook/marketing/developer-relations/workflows-tools/zendesk/#zendesk-macros).
 
 ### Handling Zendesk Ticket Status
 
@@ -73,7 +73,7 @@ Use the following guidelines when processing tickets for all programs.
 
 The following Zendesk macros are meant to help you interface with people interested in one of our community programs. We've designated them as common requests because they can be used for multiple programs.
 
-For more context on when to send them, please reference the [Community program workflow page](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/).
+For more context on when to send them, please reference the [Community program workflow page](/handbook/marketing/developer-relations/community-programs/community-program-applications/).
 
 ## Pre-Qualification Phase
 
@@ -360,7 +360,7 @@ Best,
 
 # Education program - Zendesk Macros
 
-The following Zendesk macros are meant to help interface with people interested in our [GitLab for Education program](/solutions/education/). For more context on when to send them, please reference the [Community program workflow page](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/).
+The following Zendesk macros are meant to help interface with people interested in our [GitLab for Education program](/solutions/education/). For more context on when to send them, please reference the [Community program workflow page](/handbook/marketing/developer-relations/community-programs/community-program-applications/).
 
 ## Pre-Qualificaiton Phase
 
@@ -376,7 +376,7 @@ Hello {{ticket.requester.first_name}},
 
 Thanks for your interest in our Education Program at GitLab!
 
-If you would like to learn more about our program please visit our [Education Program Website](https://about.gitlab.com/solutions/education/) and our [handbook](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/). If you wish to apply, please fill out our [application form](https://about.gitlab.com/solutions/education/join/#application). Specific program requirements can be found [here](https://about.gitlab.com/solutions/education/join/).
+If you would like to learn more about our program please visit our [Education Program Website](https://about.gitlab.com/solutions/education/) and our [handbook](/handbook/marketing/developer-relations/community-programs/education-program/). If you wish to apply, please fill out our [application form](https://about.gitlab.com/solutions/education/join/#application). Specific program requirements can be found [here](https://about.gitlab.com/solutions/education/join/).
 
 We encourage you to apply to our program by filling out the application form. Once you apply, one of our team members will reach out to you directly! Please note that it may take up to 10 business days for us to review your application.
 
@@ -402,7 +402,7 @@ Hello {{ticket.requester.first_name}},
 
 Thanks for your interest in GitLab and for applying to our Education Program!
 
-We are so excited that you would like to learn about GitLab. Unfortunately, we are unable to accept your application because you do not meet our [program requirements](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/#students).
+We are so excited that you would like to learn about GitLab. Unfortunately, we are unable to accept your application because you do not meet our [program requirements](/handbook/marketing/developer-relations/community-programs/education-program/#students).
 
 Your application indicates that you are currently a student. Our GitLab Education Program only offers a centralized license to the University via a campus faculty or staff member. Please encourage a University representative to apply [here](https://about.gitlab.com/solutions/education/).
 
@@ -446,7 +446,7 @@ Hello {{ticket.requester.first_name}},
 
 Thank you for your interest in GitLab and applying to our Education Program!
 
-In order to qualify for our Education Program, we need to verify that the Educational Institution you are applying on behalf of is a non-profit entity. Applications from for-profit educational entities do not qualify.  [Please see our handbook](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/) for more details on GitLab for Education Program requirements.
+In order to qualify for our Education Program, we need to verify that the Educational Institution you are applying on behalf of is a non-profit entity. Applications from for-profit educational entities do not qualify.  [Please see our handbook](/handbook/marketing/developer-relations/community-programs/education-program/) for more details on GitLab for Education Program requirements.
 
 Please respond to this email with proof that the Educational Institution you are applying on behalf of is a non-profit entity. Acceptable proof can consist of a webpage on your institution's domain or an official document.
 
@@ -465,7 +465,7 @@ Best regards,
 
 Hello {{ticket.requester.first_name}},
 
-Thank you for the additional details regarding your institution and proposed use of GitLab. Unfortunately, your application does not qualify for our GitLab for Education Program. Please see our [program requirements](https://about.gitlab.com/solutions/education/join/) and [our handbook](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/) for more details on the program requirements including the types of educational institutions that qualify and acceptable use cases. Please feel free to email us directly with questions.
+Thank you for the additional details regarding your institution and proposed use of GitLab. Unfortunately, your application does not qualify for our GitLab for Education Program. Please see our [program requirements](https://about.gitlab.com/solutions/education/join/) and [our handbook](/handbook/marketing/developer-relations/community-programs/education-program/) for more details on the program requirements including the types of educational institutions that qualify and acceptable use cases. Please feel free to email us directly with questions.
 
 We are happy to connect you with a sales representative within your region to discuss licensing options.
 
@@ -490,7 +490,7 @@ Hello {{ticket.requester.first_name}},
 
 Thanks for your interest in GitLab and applying to the GitLab for Education Program!
 
-In order to qualify for a free Educational Program License, we need to verify that your use case meets the requirements of our [GitLab for Education Program requirements](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/#gitlab-for-education-program-requirements). Once we receive verification of the use case, we will send a  zero dollar quote with the End User License Agreement attached.
+In order to qualify for a free Educational Program License, we need to verify that your use case meets the requirements of our [GitLab for Education Program requirements](/handbook/marketing/developer-relations/community-programs/education-program/#gitlab-for-education-program-requirements). Once we receive verification of the use case, we will send a  zero dollar quote with the End User License Agreement attached.
 
 **In order to proceed, please reply to this email with the following:**
 * A description of how the license will be used at your educational institution
@@ -522,7 +522,7 @@ Best regards,
 
 Hello {{ticket.requester.first_name}},
 
-Thanks for your reply. In order to process your application we need more details on how the license will be used at your educational institution. Please see our [GitLab for Education Program requirements](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/#-gitlab-for-education-program-requirements).
+Thanks for your reply. In order to process your application we need more details on how the license will be used at your educational institution. Please see our [GitLab for Education Program requirements](/handbook/marketing/developer-relations/community-programs/education-program/#-gitlab-for-education-program-requirements).
 
 In order to proceed:
 * Please reply to this email and **describes specifically how the license will be used at your educational institution**.
@@ -630,7 +630,7 @@ Thank you for being a valued GitLab Education Program member!
 
 In order to renew, please reply directly to this email with the following information:
  - The number of seats desired for the education license renewal.
- - Describe your use case for the education license. See the [GitLab for Education Program requirements](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/#gitlab-for-education-program-requirements). Professional IT and infrastructure operations do not fall within the stated terms of the Education Program.
+ - Describe your use case for the education license. See the [GitLab for Education Program requirements](/handbook/marketing/developer-relations/community-programs/education-program/#gitlab-for-education-program-requirements). Professional IT and infrastructure operations do not fall within the stated terms of the Education Program.
  - Will the current account owner on the license stay the same? If not, please see the steps below for adding a new account owner.
 
 Steps for adding a new account owner:
@@ -676,7 +676,7 @@ Thank you for reaching out to GitLab support.
 In order to renew your GitLab for Education license, please email education@gitlab.com with the following information:
 
 - The number of seats desired for the education license.
-- Describe your use case for the education license. See the [GitLab for Education Program requirements](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/#education-program-requirements). Professional IT and infrastructure operations do not fall within the stated terms of the Education Program.
+- Describe your use case for the education license. See the [GitLab for Education Program requirements](/handbook/marketing/developer-relations/community-programs/education-program/#education-program-requirements). Professional IT and infrastructure operations do not fall within the stated terms of the Education Program.
 - Will the current account owner on the license stay the same? If not, please see the steps below for adding a new account owner.
 
 Steps for adding a new account owner:
@@ -741,7 +741,7 @@ Did you know that your Education License includes access to our world-class Comm
 
 # Open Source program - Zendesk Macros
 
-The following Zendesk macros are meant to help interface with people interested in our [GitLab for Open Source program](/solutions/open-source/). For more context on when to send them, please reference the [Community program workflow page](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/).
+The following Zendesk macros are meant to help interface with people interested in our [GitLab for Open Source program](/solutions/open-source/). For more context on when to send them, please reference the [Community program workflow page](/handbook/marketing/developer-relations/community-programs/community-program-applications/).
 
 ## Pre-Qualification Phase
 
@@ -1303,7 +1303,7 @@ We look forward to getting to know you better, welcome again to the GitLab Start
 
 
 # Non-profits Program (not active yet)
-We are currently exploring the creation of a non-profit program ([see handbook page](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/) with more info). In the meantime, these responses help us respond to inquiries about the program's status.
+We are currently exploring the creation of a non-profit program ([see handbook page](/handbook/marketing/developer-relations/community-programs/education-program/) with more info). In the meantime, these responses help us respond to inquiries about the program's status.
 
 
 ### Email Response to request from Sales
@@ -1313,9 +1313,9 @@ Thanks for reaching out. This certainly does look like an interesting non-profit
 
 We currently do not have a formal non-profit program. Non-profit subscriptions are rarely granted as of now, and generally, the ones that are granted have a champion or approval from the E-group or Sales leadership. If you are able to obtain such support, we are able to help issue the license.
 
-[Here](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/) is our handbook link.  Please let me know if you have any questions. At this time, I would recommend that they follow the issue in that handbook page and stay tuned. We hope to have more progress on this in the coming months.
+[Here](/handbook/marketing/developer-relations/community-programs/education-program/) is our handbook link.  Please let me know if you have any questions. At this time, I would recommend that they follow the issue in that handbook page and stay tuned. We hope to have more progress on this in the coming months.
 
-We are happy to send our [template non-profit](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/) response if you'd like.
+We are happy to send our [template non-profit](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/) response if you'd like.
 
 Best Regards,
 

@@ -90,9 +90,9 @@ When adding yourself to the Speakers Bureau, you may get a linting error in the 
 
 ## Speaker Enablement
 
-The Developer Evangelism team provides support to new and experienced speakers where necessary. These can range from presentation review, CFP ideation, or dry-run. [Learn more](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/speaker-enablement/) about the different resources and activities you can benefit from or drop a message in the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B) if you need direct support. 
+The Developer Evangelism team provides support to new and experienced speakers where necessary. These can range from presentation review, CFP ideation, or dry-run. [Learn more](/handbook/marketing/developer-relations/developer-evangelism/speaker-enablement/) about the different resources and activities you can benefit from or drop a message in the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B) if you need direct support. 
 
 ## Speaking at Events
 
-For resources for GitLab team members who are planning on attending events or speaking at conferences, see [Speaker Resources](https://about.gitlab.com/handbook/marketing/corporate-communications/speaking-resources/). 
+For resources for GitLab team members who are planning on attending events or speaking at conferences, see [Speaker Resources](/handbook/marketing/corporate-communications/speaking-resources/). 
 

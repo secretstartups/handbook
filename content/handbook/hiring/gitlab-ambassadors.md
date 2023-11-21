@@ -66,7 +66,7 @@ Candidates will do their research in places far beyond our jobs site to find out
 
 We want to be sure we're telling an authentic story about life at GitLab, and one of the best ways to do that is through our team members.
 
-Once you've reviewed the [team member social media policy](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/), you'll find a library of suggested posts to share using our social media advocacy platform, [Bambu by Sprout](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/#suggesting-content-for-team-members-to-share-on-bambu).
+Once you've reviewed the [team member social media policy](/handbook/marketing/team-member-social-media-policy/), you'll find a library of suggested posts to share using our social media advocacy platform, [Bambu by Sprout](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/#suggesting-content-for-team-members-to-share-on-bambu).
 
 #### Being an advocate for our talent brand on social media
 
@@ -80,7 +80,7 @@ There are several important things to keep in mind when sharing your opinions ab
 1. Actively invite people to help us on our journey.
     - Future candidates will be more interested in hearing about what we're building toward rather than where we have already arrived. Think about ways in which your messaging can invite others to "help us build a special company" rather than "joining a special company".
 1. Be considerate of tone and how your message may be perceived by the audience reading it.
-    - As a general guideline, we [don't bash our competitors](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/#its-your-job-to-protect-gitlab-our-customers-and-our-team-members) on social media
+    - As a general guideline, we [don't bash our competitors](/handbook/marketing/team-member-social-media-policy/#its-your-job-to-protect-gitlab-our-customers-and-our-team-members) on social media
     - For our talent brand, this extends to the employment practices of our competitors. Especially given there have been a number of tech companies lay off staff in 2023, it's important that any messaging to those who may have been impacted by a lay off clearly convey sympathy and compassion.
     - An example of a compassionate tone: "With many layoffs in the tech industry, please know that GitLab is currently hiring."
     - It is ok to mention companies by name if it is relevant to the post, and the employees losing their jobs and the company doing the layoffs are treated with empathy and respect.
@@ -105,7 +105,7 @@ There are several important things to keep in mind when sharing your opinions ab
 
 #### On X (formerly Twitter)
 
-- Be sure to follow the [@gitlab X (formerly Twitter) account](https://twitter.com/gitlab) and reshare content our [social media team](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) is posting.
+- Be sure to follow the [@gitlab X (formerly Twitter) account](https://twitter.com/gitlab) and reshare content our [social media team](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) is posting.
 - Consider tweeting some of the content ideas above, and tag the GitLab account for potential retweets.
 - Just like on LinkedIn, use the hashtags `#LifeAtGitLab` and `#AllRemote` as you deem suitable in your tweets.
 - If you're sharing a job opening on X (formerly Twitter), we require team members to use only the provided templates to ensure we have consistent messaging when sharing jobs.Messaging options include:

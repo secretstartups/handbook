@@ -27,8 +27,8 @@ title: "Epics project management guidelines"
 1. Epics cannot be created from templates ([issue](https://gitlab.com/gitlab-org/gitlab/-/issues/37079))
 however, there are three workarounds.
     1. First - Epics **Can** be created from an issue that is promoted to an Epic (in this case, an issue template could be a substitute for an epic template).
-    1. Second - The mixture of issues related to an epic can be templatized in a spreadsheet and uploaded to populate the issues related to a given epic.  See this [epic template overview](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/getting-started/104/) - note for collaborative epics that span multiple GitLab projects/teams: with this process, for the total number of projects/teams the issues span, you will need to complete that number of uploads of the spreadsheet, broken out by project/team.
-    1. Third - Include code for the epic in the relevant handbook page to be copy/pasted, with issuable template hyperlinks. See [this handbook page](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/#epic-code) for an example.
+    1. Second - The mixture of issues related to an epic can be templatized in a spreadsheet and uploaded to populate the issues related to a given epic.  See this [epic template overview](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/getting-started/104/) - note for collaborative epics that span multiple GitLab projects/teams: with this process, for the total number of projects/teams the issues span, you will need to complete that number of uploads of the spreadsheet, broken out by project/team.
+    1. Third - Include code for the epic in the relevant handbook page to be copy/pasted, with issuable template hyperlinks. See [this handbook page](/handbook/marketing/lifecycle-marketing/#epic-code) for an example.
 1. Epics do not have an assignee.
 1. Epics cannot be created in projects ([issue](https://gitlab.com/gitlab-org/gitlab/-/issues/31840)).
 1. Epics cannot be cloned ([issue](https://gitlab.com/gitlab-org/gitlab/-/issues/29115)).
@@ -55,13 +55,13 @@ In order for the roadmap view to be displayed and to provide meaningful visual t
 
 ### Use executive theme labels
 
-All epics that are part of a strategic theme or an OKR should carry the associated [executive label](https://about.gitlab.com/handbook/marketing/project-management-guidelines/labels/#guideline-create-labels-at-the-lowest-possible-level), so that they can be filtered on the roadmap view. Optionally they can also carry one or more of the approved group-level labels.
+All epics that are part of a strategic theme or an OKR should carry the associated [executive label](/handbook/marketing/project-management-guidelines/labels/#guideline-create-labels-at-the-lowest-possible-level), so that they can be filtered on the roadmap view. Optionally they can also carry one or more of the approved group-level labels.
 
 ### Define weight for child issues
 
 As an additional piece of information to track completion status, the roadmap offers a completion percentage based on the weight of the children issues that have been completed over the total issue weight of all direct descendant issues combined.
 
-It's recommended to [set the relative issue weight](https://about.gitlab.com/handbook/marketing/project-management-guidelines/issues/#set-issue-weight) for all child issues to be able to track and report epic completion on the roadmap view.
+It's recommended to [set the relative issue weight](/handbook/marketing/project-management-guidelines/issues/#set-issue-weight) for all child issues to be able to track and report epic completion on the roadmap view.
 
 ### Set health status for child issues
 

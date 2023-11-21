@@ -43,9 +43,9 @@ All AEs are expected to have good pipeline generation coverage (3.5x) regardless
 
 Working backwards from your target, you'll be able to calculate how many accounts and opportunities you need to be successful. When looking at your target list, make sure you have a mix of those who are likely to buy now and those who may take a year or longer. Strategic partnerships take time so you need to diversify both your list and your outreach.
 
-Work with your [Sales Development team member](https://about.gitlab.com/handbook/marketing/sales-development/#working-with-sales) to:
+Work with your [Sales Development team member](/handbook/marketing/sales-development/#working-with-sales) to:
 - Get input on your territory plan and how that maps to their activities.
-- Review activity and engagement in [6Sense](https://about.gitlab.com/handbook/marketing/marketing-operations/6sense/).
+- Review activity and engagement in [6Sense](/handbook/marketing/marketing-operations/6sense/).
 - Develop your approach and identify the right messaging.
 
 **Use data to support your assumptions:**
@@ -65,9 +65,9 @@ Work with your Sales Development team member to:
 
 **Work with partners:** Work with your Channel Account Manager (CAM), talk to your peers, or use the [Partner Directory](https://partners.gitlab.com/English/directory/) to identify if there is a partner that supports specific accounts and can provide insight into target contacts or stakeholders.
 
-**Work with Field Marketing:** Learn what [events are currently scheduled in your region](https://about.gitlab.com/handbook/marketing/field-marketing/#whats-currently-scheduled-in-my-region) and view the name of your aligned field marketer.
+**Work with Field Marketing:** Learn what [events are currently scheduled in your region](/handbook/marketing/field-marketing/#whats-currently-scheduled-in-my-region) and view the name of your aligned field marketer.
 
-View the below YouTube video hosted on GitLab Unfiltered to see how AEs typically work with their sales development team member to get results. Remember that to view these, you have to switch your YouTube account to the GitLab Unfiltered account first. [View instructions for this on the YouTube handbook page here.](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube)
+View the below YouTube video hosted on GitLab Unfiltered to see how AEs typically work with their sales development team member to get results. Remember that to view these, you have to switch your YouTube account to the GitLab Unfiltered account first. [View instructions for this on the YouTube handbook page here.](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube)
 
 <!-- blank line -->
 <figure class="video_container">
@@ -145,10 +145,10 @@ Holding hurts our prospective customers because while they’re sitting there, t
 
 #### Support
 
-- [Field Marketing events and support](https://about.gitlab.com/handbook/marketing/field-marketing/#types-of-programs-field-marketing-runs)
-- [Compete support](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/#account-specific-support) and [Competition Slack channel](https://gitlab.slack.com/archives/C1BBL1V3K)
+- [Field Marketing events and support](/handbook/marketing/field-marketing/#types-of-programs-field-marketing-runs)
+- [Compete support](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/#account-specific-support) and [Competition Slack channel](https://gitlab.slack.com/archives/C1BBL1V3K)
 - [Executive sponsorship program](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#executive-sponsorship-program)
-- [Nominate account for ABM marketing support](https://about.gitlab.com/handbook/marketing/account-based-marketing/)
+- [Nominate account for ABM marketing support](/handbook/marketing/account-based-marketing/)
 
 **Partner support:** [#channel-sales Slack channel](https://gitlab.slack.com/archives/CT9KKE5RR) is a great place to get help from a Channel Account Manager that can share partner contacts with you
 - Find a partner in the [GitLab Partner Directory](https://partners.gitlab.com/English/directory/)
@@ -163,9 +163,9 @@ The toolkit above will be your main resource and contains things like a sequenci
 
 **[LinkedIn Sales Navigator](https://www.linkedin.com/business/sales/blog/sales-navigator/what-is-linkedin-sales-navigator)** is one of the main prospecting tools we use at GitLab. It features a powerful set of search capabilities, improved visibility into extended networks, and personalized algorithms to help you reach the right decision maker. All AEs have access to LSN. [Click to go to the EdCast training.](https://gitlab.edcast.com/insights/learning-linkedin-sales) And view additional videos and tutorials on [the handbook page](https://about.gitlab.com/handbook/sales/training/social-selling/).
 
-**[6Sense](https://about.gitlab.com/handbook/marketing/marketing-operations/6sense/)** is used by Sales Development who can show you relevant data related to your target prospects. It has a wealth of intent and propensity to buy data that is married with account engagement indicators to create a holistic intent mapping for each account.
+**[6Sense](/handbook/marketing/marketing-operations/6sense/)** is used by Sales Development who can show you relevant data related to your target prospects. It has a wealth of intent and propensity to buy data that is married with account engagement indicators to create a holistic intent mapping for each account.
 
-**[Conversica](https://about.gitlab.com/handbook/marketing/marketing-operations/conversica/)** is a conversational AI tool that helps enterprise marketing, sales, customer success, and finance teams attract, acquire and grow customers at scale across the customer revenue lifecycle. The AI Assistant works by engaging the prospect in a human-like conversation over email in an effort to further qualify the prospect.
+**[Conversica](/handbook/marketing/marketing-operations/conversica/)** is a conversational AI tool that helps enterprise marketing, sales, customer success, and finance teams attract, acquire and grow customers at scale across the customer revenue lifecycle. The AI Assistant works by engaging the prospect in a human-like conversation over email in an effort to further qualify the prospect.
 
 **[Salesforce Inbox](https://www.salesforce.com/products/sales-cloud/features/crm-email-connector/?d=cta-conf-1)** is a productivity tool to integrate Salesforce with emails. You may need to request access. View the [Associating emails to Salesforce handbook](https://about.gitlab.com/handbook/sales/prospect-engagement-best-practices/) page for more information on how to use Salesforce to track outreach.
 

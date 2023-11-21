@@ -47,11 +47,11 @@ Sam, the SRE: Sam is responsible for the uptime and reliability of the applicati
 
 ### Buyer Personas
 
-[Infrastructure Engineering Director](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/), Kennedy
+[Infrastructure Engineering Director](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/), Kennedy
 
 The Infrastructure Engineering Director is responsible for building and scaling highly available environments. They frequently have the agenda of cloud initiatives and cost optimization in the organization.
 
-[Release and Change Management Director](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/), Casey
+[Release and Change Management Director](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/), Casey
 
 The Release and Change Management Director is responsible for managing complex releases from concept to delivery. The CIO may be the final decision maker or buyer, but the Release and Change Management Director has significant influence in the buying process.
 

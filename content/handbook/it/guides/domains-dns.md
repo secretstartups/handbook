@@ -17,7 +17,7 @@ If you have any questions, please reach out to Jeff Martin or Vlad Stoianovici.
 
 The full list of GitLab IT and Infrastructure managed domain names can be found in the [GitLab Owned Domains](https://docs.google.com/spreadsheets/d/187C_xXgaR_L55PeaFVqd9C0E28qrCvmDZnGgQT_4eNI/edit#gid=0) spreadsheet. All recent purchase and transfer issues are linked to [gitlab/it/infra#117](https://gitlab.com/gitlab-com/it/infra/issue-tracker/-/issues/117).
 
-If you want to purchase any domain name that includes any of our [trademarks](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/) (ex. `gitlab`, `gl`, `gtlb`, etc.) or any domain that will host RED or ORANGE data, please use the issue template to request a domain from IT. You do not need strong justification, it just needs to be managed by IT Infrastructure for compliance reasons.
+If you want to purchase any domain name that includes any of our [trademarks](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/) (ex. `gitlab`, `gl`, `gtlb`, etc.) or any domain that will host RED or ORANGE data, please use the issue template to request a domain from IT. You do not need strong justification, it just needs to be managed by IT Infrastructure for compliance reasons.
 
 [DNS Domain Purchase Request Issue Template](https://gitlab.com/gitlab-com/it/infra/issue-tracker/-/issues/new?issuable_template=dns_domain_purchase_request)
 

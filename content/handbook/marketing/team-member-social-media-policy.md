@@ -102,7 +102,7 @@ If it's written in a blog, presented at a public conference, or simply on GitLab
 - All of the above from our eco and alliance partners
 - Items that are not connected to your job or GitLab at all! Social Media is best when you bring your true-self to the mix. DevOps isn't the only thing you're interested in, so consider posting about other passions and topics.
 
-[Learn more about what is encouraged and how GitLab helps to enable you to become great at using social media on our team member advocacy page.](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/)
+[Learn more about what is encouraged and how GitLab helps to enable you to become great at using social media on our team member advocacy page.](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/)
 
 ### It's your job to protect GitLab, our customers, and our team members 
 Whether you're an intern or our CEO, protecting the GitLab brand, the company, and our entire team is a part of your job description.
@@ -220,7 +220,7 @@ Upon first glance of your social media profile, there should be immense clarity 
 
 ### Unauthorized GitLab brand social media accounts
 
-As a Team Member of GitLab, you aren't authorized to create company/brand social media profiles to use for your work. If promoting content should come from the company, you'll need to [open a request issue with the organic social team](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/#requesting-social-promotion-). If the corporate marketing team encounters unauthorized profiles, they will be treated as external threats and reported for impersonation. There is no formal method for requesting new brand channels, nor is there an outline for managing to do so. It's best to use personally identified social media profiles to share your posts.
+As a Team Member of GitLab, you aren't authorized to create company/brand social media profiles to use for your work. If promoting content should come from the company, you'll need to [open a request issue with the organic social team](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/#requesting-social-promotion-). If the corporate marketing team encounters unauthorized profiles, they will be treated as external threats and reported for impersonation. There is no formal method for requesting new brand channels, nor is there an outline for managing to do so. It's best to use personally identified social media profiles to share your posts.
 
 ### Contests or sweepstakes on your social media profiles
 
@@ -258,4 +258,4 @@ You may not use data obtained in the course of your employment with GitLab in an
 
 ## Transform this policy into action with a social media training and certification
 
-Take this policy and turn it into a social media certification in less than 45 minutes with the [social media 101 training and certification](https://about.gitlab.com/handbook/marketing/corporate-communications/resources-trainings/#social-media-101-training--certification). You'll find details on the training and what to expect [here](https://about.gitlab.com/handbook/marketing/corporate-communications/resources-trainings/#social-media-101-training--certification).
+Take this policy and turn it into a social media certification in less than 45 minutes with the [social media 101 training and certification](/handbook/marketing/corporate-communications/resources-trainings/#social-media-101-training--certification). You'll find details on the training and what to expect [here](/handbook/marketing/corporate-communications/resources-trainings/#social-media-101-training--certification).

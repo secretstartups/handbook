@@ -403,7 +403,7 @@ Once a lead is recalled, it will be reassigned to Gitlab Inc. for internal follo
 
 [​​Channel Partner Marketing Resources](https://about.gitlab.com/handbook/resellers/channel-tools-resources/#marketing-resources)
 
-[Welcome to the GitLab Marketing Handbook](https://about.gitlab.com/handbook/marketing/)
+[Welcome to the GitLab Marketing Handbook](/handbook/marketing/)
 
 [Channel Partner Field Team Enablement](https://about.gitlab.com/handbook/resellers/partner-enablement/)
 

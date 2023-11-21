@@ -11,7 +11,7 @@ description: "This page lists some of the most common tasks, requests from appli
 
 
 # Overview
-This page lists some of the most common tasks, requests from applicants, and errors from our [community program application workflow](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/).
+This page lists some of the most common tasks, requests from applicants, and errors from our [community program application workflow](/handbook/marketing/developer-relations/community-programs/community-program-applications/).
 
 Current community programs include: [GitLab for Education](/solutions/education/), [GitLab for Open Source](/solutions/open-source/), and [GitLab for Startups](/solutions/startups/).
 
@@ -65,7 +65,7 @@ Once the quote is signed and the opportunity is submitted for approval, the Lice
 ### End user license agreement or terms modification requests
 
 - An institution may request slight modifications to our terms. To request a modification of our terms on behalf of an institution:
-    - Send the [requesting term modification template email](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#common-requests-request-modification-to-our-terms) indicating that the institution should provide the specific changes in a document to us via email.
+    - Send the [requesting term modification template email](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#common-requests-request-modification-to-our-terms) indicating that the institution should provide the specific changes in a document to us via email.
     - Submit these changes to our legal team [review of customer edits process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#request-for-gitlab-review-of-customer-edits-to-gitlab-template-or-review-of-customer-agreement-template).
 - We maybe able to renew a license with modified terms if legal approved them in previously years. If the terms were previously approved, follow the same process to submit the prior terms for review. Note: Our terms may have changed so we need to check with legal even if they approved the modifications in the prior year.
 - We cannot accept a quote returned from an institution with a addendum or their own agreement. Send the requesting term modification template email and add a note indicating that we are not able to accept terms provided by individual institutions.
@@ -113,10 +113,10 @@ An applicant may email education@gitlab.com and indicate that they signed the qu
     - Search for the customer's name and/or institution and locate the customer from the results. Note that the CustomersDot account is in the name of the *Sold to* contact on the quote.
     - Click on the home icon in the results list for that customer.
     - The *Manage purchases* page will open.
-    - For Ultimate, the license should appear with links to *Copy the license to clipboard*. If the license does appear with the correct renewal date, then send the [Check the CustomersDot for Ultimate license template](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#common-requests-self-managed-license-download-instructions) to the customer. Note: Before sending the email check the *Sold to* contact from the *Quote* in SFDC. The CustomersDot account is in the name of the *Sold to* contact. The person requesting where to receive the license may be the *Bill to* contact (and they don't have access to the portal). Adjust the template accordingly.
-    - For Gold, the Gold Plan subscription should be listed with a proper expiration date. If there is an option to *Link my GitLab.com account*, send the applicant the [Authenticating SaaS template](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#common-requests-authenticating-saas).
+    - For Ultimate, the license should appear with links to *Copy the license to clipboard*. If the license does appear with the correct renewal date, then send the [Check the CustomersDot for Ultimate license template](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#common-requests-self-managed-license-download-instructions) to the customer. Note: Before sending the email check the *Sold to* contact from the *Quote* in SFDC. The CustomersDot account is in the name of the *Sold to* contact. The person requesting where to receive the license may be the *Bill to* contact (and they don't have access to the portal). Adjust the template accordingly.
+    - For Gold, the Gold Plan subscription should be listed with a proper expiration date. If there is an option to *Link my GitLab.com account*, send the applicant the [Authenticating SaaS template](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#common-requests-authenticating-saas).
     - If the subscription is incorrectly associated with a different account in the CustomersDot, send the documentation on [Change account owner information](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-account-owner-information) .
-1. If the license is expired or instead of a license the option to purchase plans appears, this means that the license key was not properly issued and posted to the applicants' account after it was sent to Z-billing. In this case, you'll need to create a licensing support issue and escalate the issue if it is urgent by following the steps in [Requesting Assistance from GitLab Support for License Issues](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/common-tasks/).
+1. If the license is expired or instead of a license the option to purchase plans appears, this means that the license key was not properly issued and posted to the applicants' account after it was sent to Z-billing. In this case, you'll need to create a licensing support issue and escalate the issue if it is urgent by following the steps in [Requesting Assistance from GitLab Support for License Issues](/handbook/marketing/developer-relations/community-programs/community-program-applications/common-tasks/).
 
 ### Associating CustomersDot subscriptions with new accounts
 For an overview of the process, see [Associating CustomersDot Accounts](https://youtu.be/yuainNUzxuc).
@@ -169,7 +169,7 @@ If the Program Manager determines that an extension is appropriate:
 1. The Education Program Manager will review and approve applicants from the [Google Form responses sheet](https://docs.google.com/spreadsheets/d/1eYiwV9lfgK_SOz760_3zmFwhkDzjVmx6iLZN5NEwMJw?usp=forms_web_b#gid=837712298).
 1. Program Manager will send email to approved applicants with [Calendly link to schedule an interview time](https://calendly.com/gitlab-edu/gitlab-student-spotlight-interview) and [interview questions](#interview-questions).
 1. The Education Program Manager will host recorded interviews via Zoom.
-1. Program Manager will send follow up email to participants thanking them for their participation, linking to their featured project on GitLab Unfiltered/GitLab.com, and including a [GitLab Community Swag giveaway link](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-appreciation/).
+1. Program Manager will send follow up email to participants thanking them for their participation, linking to their featured project on GitLab Unfiltered/GitLab.com, and including a [GitLab Community Swag giveaway link](/handbook/marketing/developer-relations/contributor-success/community-appreciation/).
 
 #### Interview questions
 
@@ -187,7 +187,7 @@ We are working on [simpliyfing the process to help Linux Foundation projects](ht
 #### LF Project Qualification
 The Linux Foundation has been given a list of coupon codes and a [set of instructions](https://docs.google.com/document/d/1TZMo65pRbtRODz7rUzT3_F2Sr-oKMfkwUbi7DvVdBBg/edit) for how to grant coupon codes to member projects and help them skip the SheerID verification process.
 
-When their coupon codes run out, GitLab will need to issue more coupon codes for the Linux Foundation by [following these instructions]](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/#coupon-codes).
+When their coupon codes run out, GitLab will need to issue more coupon codes for the Linux Foundation by [following these instructions]](/handbook/marketing/developer-relations/community-programs/automated-community-programs/#coupon-codes).
 
 #### LF Project Booking
 
@@ -221,12 +221,12 @@ Double check to make sure you send for signature to the correct Signer contact. 
   1. Click on *Submit for Approval* on the quote object.
 - Error:`The Zuora GetTax Call to Avalara returned the following errors(s): Address not geocoded. (Address cannot be geocoded). An exact street name match could not be found.......` can be encountered after choosing the product on the quote and clicking submit.
   1. Scroll down on the Quote view and click on the name of *Sold to Contact* to view the account details. On the account view, scroll down to the *Address information* section. Inspect the address to determine if the applicant included an actual street number and name. Commonly, applicants will list enter  *Mailing Street: Department of Computer Science*. This type of address cannot be geocoded and will prevent the quote from being issued. There may be other issues such as a typo.
-  1. Email the applicant from the Zendesk with the [`Requesting valid address' template](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros).
-  1. When the applicant replies, the ticket will appear in Zendesk. Follow the steps to [update an account address](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/common-tasks/#editing-an-address) and proceed with the [Step 3: Send the quote to the applicant.](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#step-4-send-the-quote-to-the-applicant)
+  1. Email the applicant from the Zendesk with the [`Requesting valid address' template](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros).
+  1. When the applicant replies, the ticket will appear in Zendesk. Follow the steps to [update an account address](/handbook/marketing/developer-relations/community-programs/community-program-applications/common-tasks/#editing-an-address) and proceed with the [Step 3: Send the quote to the applicant.](/handbook/marketing/developer-relations/community-programs/community-program-applications/#step-4-send-the-quote-to-the-applicant)
      - Note: The address needs to be updated for both the *Account* and the *Opportunity* for the quote to generate properly.
 
 ### Application Form Error
-- Error: An applicant may inform us that they are not able to view the application form in their browser. Most likely, the web browser is blocking the content of the form through a content or privacy blocker because the form is generated from Marketo. This happens most often in Firefox. Send the applicant the [application form not visible email template](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/).
+- Error: An applicant may inform us that they are not able to view the application form in their browser. Most likely, the web browser is blocking the content of the form through a content or privacy blocker because the form is generated from Marketo. This happens most often in Firefox. Send the applicant the [application form not visible email template](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/).
 
 ### Flagged for Compliance Review Error
 

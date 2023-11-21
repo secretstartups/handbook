@@ -126,7 +126,7 @@ Otherwise,
 - If you cannot find the videos in your Zoom account, reach out to the calendar event owner, as it probably uploaded to their account.
 - In iMovie, you can upload a video straight to YouTube, as long as it's under 15 minutes long. But you still have to go to YouTube to select the playlist.
 - You can pick a better thumbnail and edit other settings after uploading by going to the [Uploads page](https://studio.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/videos/upload) and selecting your video
-- [More info about using YouTube](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/)
+- [More info about using YouTube](/handbook/marketing/marketing-operations/youtube/)
 
 ### Updating the schedule
 

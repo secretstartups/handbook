@@ -535,11 +535,11 @@ For assistance with a Subscription Transfer Agreement please open a Legal Reques
 
 ### Open Source, Education, and Startup Application Opportunities
 
-GitLab provides free licenses to qualifying entities through the [Community Programs](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/): [GitLab for Education Program](/solutions/education/), [GitLab for Open Source Program](/solutions/open-source/) and [GitLab for Startups Program](/solutions/startups/). All applications to these programs are routed through the [Community Programs applications automated workflows](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs). **Only Developer Relations team members** should handle these applications and opportunities because the team verifies program requirements before issuing/renewing licenses and these opportunities are handled differently since the opportunities are free.
+GitLab provides free licenses to qualifying entities through the [Community Programs](/handbook/marketing/developer-relations/community-programs/): [GitLab for Education Program](/solutions/education/), [GitLab for Open Source Program](/solutions/open-source/) and [GitLab for Startups Program](/solutions/startups/). All applications to these programs are routed through the [Community Programs applications automated workflows](/handbook/marketing/developer-relations/community-programs/automated-community-programs). **Only Developer Relations team members** should handle these applications and opportunities because the team verifies program requirements before issuing/renewing licenses and these opportunities are handled differently since the opportunities are free.
 
 #### Inquiry and Application Process (Leads or Contacts)
 
-1. If an existing contact or new lead is interested in applying to one of the programs, use the [Community Programs lead routing matrix](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/#inbound-sales-requests-routing-workflows) to determine how best to assist. If the lead has specific questions, direct them to send an email to `education@gitlab.com`, `startups@gitlab.com`, or `opensource@gitlab.com`. Then reassign the lead to the appropriate program manager.
+1. If an existing contact or new lead is interested in applying to one of the programs, use the [Community Programs lead routing matrix](/handbook/marketing/developer-relations/community-programs/#inbound-sales-requests-routing-workflows) to determine how best to assist. If the lead has specific questions, direct them to send an email to `education@gitlab.com`, `startups@gitlab.com`, or `opensource@gitlab.com`. Then reassign the lead to the appropriate program manager.
 1. In the situation that you need direct assistance with the lead/contact, chatter the program manager in Salesforce with a note about the requested action.
 
 #### Assigning Opportunities and Renewal Opportunities
@@ -867,7 +867,7 @@ To send a digital copy of an Order Form to the customer via DocuSign:
 
 **Internal Resources:**
 - For a visual demo of GitLab’s DocuSign instance, review this [LevelUP Webinar from 2021-05-13](https://youtu.be/Dch4zaUQOeg)
-- Note: If you cannot view the video, make sure you are logged in to GitLab Unfiltered. [You can learn more about how to log in or request access to GitLab Unfiltered here!](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube)
+- Note: If you cannot view the video, make sure you are logged in to GitLab Unfiltered. [You can learn more about how to log in or request access to GitLab Unfiltered here!](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube)
 
 **DocuSign University:**
 - [Send Your First Envelope](https://dsu.docebosaas.com/learn/course/620)

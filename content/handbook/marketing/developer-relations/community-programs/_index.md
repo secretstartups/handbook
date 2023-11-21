@@ -36,9 +36,9 @@ Through these programs, we seek to raise awareness of GitLab in specific markets
 
 | Community Program | Handbook Page | Marketing Page | Application Page | Program Owner | Email Address|
 | ----------------- | ------------- | -------------- | ---------------- | ------------- |-----------|
-| GitLab for Education | [Handbook](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/) | [Marketing page](/solutions/education/) | [Application page](/solutions/education/join/) | [Alexander Karsten](https://gitlab.com/akarsten1) | education@gitlab.com |
-| GitLab for Open Source | [Handbook](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/opensource-program/) | [Marketing page](/solutions/open-source/) | [Application page](/solutions/open-source/join/) | [Bryan Behrenshausen](https://gitlab.com/bbehr) | opensource@gitlab.com |
-| GitLab for Startups | [Handbook](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/startups-program/) | [Marketing page](/solutions/startups/) | [Application page](/solutions/startups/join/)| [Alexander Karsten](https://gitlab.com/akarsten1) | startups@gitlab.com |
+| GitLab for Education | [Handbook](/handbook/marketing/developer-relations/community-programs/education-program/) | [Marketing page](/solutions/education/) | [Application page](/solutions/education/join/) | [Alexander Karsten](https://gitlab.com/akarsten1) | education@gitlab.com |
+| GitLab for Open Source | [Handbook](/handbook/marketing/developer-relations/community-programs/opensource-program/) | [Marketing page](/solutions/open-source/) | [Application page](/solutions/open-source/join/) | [Bryan Behrenshausen](https://gitlab.com/bbehr) | opensource@gitlab.com |
+| GitLab for Startups | [Handbook](/handbook/marketing/developer-relations/community-programs/startups-program/) | [Marketing page](/solutions/startups/) | [Application page](/solutions/startups/join/)| [Alexander Karsten](https://gitlab.com/akarsten1) | startups@gitlab.com |
 
 Please see the GitLab [Environment, Social, and Governance (ESG)](https://about.gitlab.com/handbook/legal/ESG/) handbook page for details about non-profits. 
 
@@ -53,17 +53,17 @@ Below are details related to various Commuity Programs workflows.
 
 Beginning in FY22 and continuing through FY23, the Community Programs team is adopting an automated application processing workflow. As we transition to this workflow, we will maintain two distinct workflow handbook pages:
 
-* [Community Programs Applications Automated Workflows](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/) 
-* [Community Programs Applications Legacy Workflows](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/)
+* [Community Programs Applications Automated Workflows](/handbook/marketing/developer-relations/community-programs/automated-community-programs/) 
+* [Community Programs Applications Legacy Workflows](/handbook/marketing/developer-relations/community-programs/community-program-applications/)
 
 ### Inbound sales requests routing workflows
 
-Sales team members receiving inbound requests regarding community programs, should adhere to the following workflow and route leads accordingly, using [Community Programs' email templates](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#zendesk-macros-and-email-templates) if desired:
+Sales team members receiving inbound requests regarding community programs, should adhere to the following workflow and route leads accordingly, using [Community Programs' email templates](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#zendesk-macros-and-email-templates) if desired:
 
 | If the lead is inquiring about | Then take this action|
 | ------------------------------ | --------------------- |
-| Whether they qualify for a specific program | Send the relevant [marketing or handbook page](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/#meet-the-programs) detailing the program's requirements |
-| How to apply for program membership | Send the relevant [marketing or application page](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/#meet-the-programs) with instructions and an application form |
-| How to renew | Send the [relevant marketing or application page](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/#meet-the-programs) with renewal instructions and the application form |
-| How to alter some aspect of a subscription | Ask them to [email the relevant program](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/#meet-the-programs) for assistance |
-| An edge case | Ask them to [email the relevant program](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/#meet-the-programs) for assistance | 
+| Whether they qualify for a specific program | Send the relevant [marketing or handbook page](/handbook/marketing/developer-relations/community-programs/#meet-the-programs) detailing the program's requirements |
+| How to apply for program membership | Send the relevant [marketing or application page](/handbook/marketing/developer-relations/community-programs/#meet-the-programs) with instructions and an application form |
+| How to renew | Send the [relevant marketing or application page](/handbook/marketing/developer-relations/community-programs/#meet-the-programs) with renewal instructions and the application form |
+| How to alter some aspect of a subscription | Ask them to [email the relevant program](/handbook/marketing/developer-relations/community-programs/#meet-the-programs) for assistance |
+| An edge case | Ask them to [email the relevant program](/handbook/marketing/developer-relations/community-programs/#meet-the-programs) for assistance | 

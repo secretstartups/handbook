@@ -60,8 +60,8 @@ In the table at the bottom  - Person Status Change [Post Campaign by Record ID],
 
 ## Filter Definitions 
 
-- **Alternative_Segment** - Segment of the Person that interacted with the campaign defined using [waterfall logic from multiple fields](https://about.gitlab.com/handbook/marketing/strategy-performance/marketing-metrics/#alternative-method-for-account-demographics-fields-on-leads)
-- **Alternative_Geo** - Geo Region of the person that interacted with the campaign defined using [waterfall logic from multiple fields](https://about.gitlab.com/handbook/marketing/strategy-performance/marketing-metrics/#alternative-method-for-account-demographics-fields-on-leads)
+- **Alternative_Segment** - Segment of the Person that interacted with the campaign defined using [waterfall logic from multiple fields](/handbook/marketing/strategy-performance/marketing-metrics/#alternative-method-for-account-demographics-fields-on-leads)
+- **Alternative_Geo** - Geo Region of the person that interacted with the campaign defined using [waterfall logic from multiple fields](/handbook/marketing/strategy-performance/marketing-metrics/#alternative-method-for-account-demographics-fields-on-leads)
 - **Bizible_Channel** - Marketing channel that the campaign belongs to
 - **Budget Holder** - Filters for Campaign Owner based on Budget Holder field in SFDC/UTM Parameters
 - **Campaign_Name** - Include only touchpoints from a specific campaign 

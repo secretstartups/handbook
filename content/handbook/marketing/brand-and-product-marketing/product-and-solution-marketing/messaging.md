@@ -48,7 +48,7 @@ GitLab is The DevOps platform that empowers organizations to maximize the overal
 
 GitLab is The DevOps platform that empowers organizations to maximize the overall return on software development by delivering software faster and efficiently, while strengthening security and compliance. With GitLab, every team in your organization can collaboratively plan, build, secure, and deploy software to drive business outcomes faster with complete transparency, consistency and traceability.
 
-For more information on messaging The DevOps Platform, please see the [DevOps Platform Message House](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/message-house/).
+For more information on messaging The DevOps Platform, please see the [DevOps Platform Message House](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/message-house/).
 
 ### Company overview text
 
@@ -88,7 +88,7 @@ Sometimes, we will use headlines with the purpose of grabbing someone's attentio
 
 ### Pricing tier messaging
 
-Go to the [Pricing tier page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/) to see [Tier Messaging](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#tier-messaging)
+Go to the [Pricing tier page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/) to see [Tier Messaging](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#tier-messaging)
 
 ### GitLab positioning FAQs
 

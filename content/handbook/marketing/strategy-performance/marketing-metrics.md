@@ -16,7 +16,7 @@ Below are the definitions of our primay Marketing Metrics.
 
 #### Inquiry
 
-An inquiry is a stage of the lead/contact objects in SFDC. GitLab defines inquiry as an Inbound request or response to [an outbound marketing effort](https://about.gitlab.com/handbook/marketing/marketing-operations/#lead-and-contact-statuses).
+An inquiry is a stage of the lead/contact objects in SFDC. GitLab defines inquiry as an Inbound request or response to [an outbound marketing effort](/handbook/marketing/marketing-operations/#lead-and-contact-statuses).
 
 ##### First Order Inquiries
 Inquiries that are part of a parent account that has not made an order through GitLab are classified as first-order inquiries. To find them, we join the account table to the person table on the inquiry account ID. If the field `has_first_order_available` is true on the account object, the inquiry is first order. If the inquiry does not have an account associated with it, it is also first order.
@@ -51,7 +51,7 @@ Sisense View: [rpt_crm_person_inquiry](https://app.periscopedata.com/app/gitlab:
 
 #### MQL
 
-A Marketing Qualified Lead (MQL) is a stage of the lead/contact objects in SFDC. GitLab defines an MQL as a person who is [Marketing Qualified through systematic means](https://about.gitlab.com/handbook/marketing/marketing-operations/#lead-and-contact-statuses).
+A Marketing Qualified Lead (MQL) is a stage of the lead/contact objects in SFDC. GitLab defines an MQL as a person who is [Marketing Qualified through systematic means](/handbook/marketing/marketing-operations/#lead-and-contact-statuses).
 
 ##### First Order MQLs
 MQLs that are part of a parent account that has not made an order through GitLab are classified as first-order MQLs. To find them, we join the account table to the person table on the MQL account ID. If the field `has_first_order_available` is true on the account, the MQL is first order. If the MQL does not have an account associated with it, it is also first order.
@@ -255,7 +255,7 @@ Our demo conversion rate in December 2020 was 8.3% (600/7,226).
 
 ### Marketing Metrics Dashboard
 
-The [Marketing Metrics Dashboard](https://app.periscopedata.com/app/gitlab/798262/TD---Marketing-Metrics) is the centralized hub of all major marketing metrics and [marketing KPIs](https://about.gitlab.com/handbook/marketing/revenue-marketing/#revenue-marketing-kpi-definitions). It is an evergreen source of information brought in from Salesforce that is comprised of numerous individual graphs/charts and allows the viewer to quickly filter results using pre-defined filters on the dashboard itself.
+The [Marketing Metrics Dashboard](https://app.periscopedata.com/app/gitlab/798262/TD---Marketing-Metrics) is the centralized hub of all major marketing metrics and [marketing KPIs](/handbook/marketing/revenue-marketing/#revenue-marketing-kpi-definitions). It is an evergreen source of information brought in from Salesforce that is comprised of numerous individual graphs/charts and allows the viewer to quickly filter results using pre-defined filters on the dashboard itself.
 
 ### Marketing Attribution
 
@@ -299,8 +299,8 @@ Filters are a native and integral piece of any dashboard! They allow you to quic
 
 ### Salesforce Data Filters
 All of these filters pull from the linked/specified field(s) from Salesforce. Notes will indicate when there are groupings used. As all of these pull directly from SFDC and are not cleaned (except for those specified as being bucketed/grouped, anomalies may occur when our data is not properly maintained in SFDC)
-1. User Segment Name - this pulls from SoT for `Segment` for each object as shown below in the [Reporting Fields Source of Truth](https://about.gitlab.com/handbook/marketing/strategy-performance/marketing-metrics/#reporting-fields-source-of-truth) section.
-1. Source Bucket - this pulls from the `Lead Source` for Leads/Contacts as shown below in the [Reporting Fields Source of Truth](https://about.gitlab.com/handbook/marketing/strategy-performance/marketing-metrics/#reporting-fields-source-of-truth) section. Note: these are grouped into **buckets** which, once updatd, will be displayed in a table below. This is considered the SoT for where a specific Lead/Contact came from/was sourced.
+1. User Segment Name - this pulls from SoT for `Segment` for each object as shown below in the [Reporting Fields Source of Truth](/handbook/marketing/strategy-performance/marketing-metrics/#reporting-fields-source-of-truth) section.
+1. Source Bucket - this pulls from the `Lead Source` for Leads/Contacts as shown below in the [Reporting Fields Source of Truth](/handbook/marketing/strategy-performance/marketing-metrics/#reporting-fields-source-of-truth) section. Note: these are grouped into **buckets** which, once updatd, will be displayed in a table below. This is considered the SoT for where a specific Lead/Contact came from/was sourced.
 1. Sales Qualified Source - this pulls from the [Sales Qualified Source](https://gitlab.my.salesforce.com/00N6100000HZPjd?setupid=OpportunityFields) of the Opportunity. This is considered the SoT for where an Opportunity came from/was sourced.
 1. Order Type - this pulls from the [Order Type](https://gitlab.my.salesforce.com/00N4M00000Ib8Ok?setupid=OpportunityFields) field on the Opportunity. It is used to define whether an Opportunity is `New First Order`, `New Connected`, etc.
 1. User Region Name - Using the [Opportunity Owner's](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Owner&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&_CONFIRMATIONTOKEN=VmpFPSxNakF5TVMwd05DMHhObFF4TnpveE56bzBPUzR5TURGYSxWQmZIWkc5eUh2TmFZdmtNbXhOeVBSLFl6UTNNekF5&setupid=OpportunityFields) `User Region`
@@ -463,7 +463,7 @@ This section provides links to relevant reports that may live outside of the Fie
 
 #### 3rd Party digital agency
 
-In order to track engagement for any work we do with on the digital side of the house, a campaign UTM code will be created. For more information on UTM's at GitLab [can be found here](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#utm-tracking).
+In order to track engagement for any work we do with on the digital side of the house, a campaign UTM code will be created. For more information on UTM's at GitLab [can be found here](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#utm-tracking).
 
 You will follow this process when you are working with our 3rd party digital agency to serve your target audience ads/LinkedIn InMails.
 
@@ -484,12 +484,12 @@ We track marketing influence on channel opportunies as well as deal regisiration
 
 | Report Name                                    | Platform   | Description                                                                                                                                                                                                                                  | Link                                                                                                                                  |
 | ---------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Partner Lead Status                            | Sisense    | This dashboard shows the overview of the leads shared with partners via [Vartopia](https://about.gitlab.com/handbook/marketing/marketing-operations/vartopia/). This includes the Share Status by partners, partner leads, campaign and geo. | [🖇️](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/992265/TD-Partner-Lead-Status)                             |
+| Partner Lead Status                            | Sisense    | This dashboard shows the overview of the leads shared with partners via [Vartopia](/handbook/marketing/marketing-operations/vartopia/). This includes the Share Status by partners, partner leads, campaign and geo. | [🖇️](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/992265/TD-Partner-Lead-Status)                             |
 | Partner Sourced Opportunities                  | Sisense    | This dashboard shows the opportunities generated by Marketing campaigns.                                                                                                                                                                     | [🖇️](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/983640/TD:-Partner-Sourced-Opportunities)                  |
 | Focus Partner Tech Capabilities                | Salesforce | This report shows all the focus partner and an overview of their company information.                                                                                                                                                        | [🖇️](https://gitlab.my.salesforce.com/00O8X00000963VI)                                                                               |
 | Partner Marketing Trials Funnel - SaaS         | Sisense    | This dashboard shows an overview of all the SaaS free trial submissions by partners.                                                                                                                                                         | [🖇️](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/1114685/Draft:-New-Partner-Marketing-Trials-Funnel---SaaS) |
 | Partner Marketing Trials Funnel - Self Managed | Sisense    | This dashboard shows an overview of all the Self-Managed free trial submissions by partners.                                                                                                                                                 | [🖇️](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/1060854/Partner-Marketing-Trials-Funnel---Self-Managed)    |
-| Channel Partner Participation                  | Salesforce | This report captures an overview of [partner program offerings](https://about.gitlab.com/handbook/marketing/channel-marketing/#channel-partner-program-participation-overview) that partners are actively enrolled in.                       | [🖇️](https://gitlab.my.salesforce.com/00O8X00000963dq)                                                                               |
+| Channel Partner Participation                  | Salesforce | This report captures an overview of [partner program offerings](/handbook/marketing/channel-marketing/#channel-partner-program-participation-overview) that partners are actively enrolled in.                       | [🖇️](https://gitlab.my.salesforce.com/00O8X00000963dq)                                                                               |
 | Partner Recall Records                          | Google Sheets | This report captures the partner leads that have been recalled in the current FY.                                                                                                                                                            | [🖇️](https://docs.google.com/spreadsheets/d/1A8Z_vKazprQJDkniX9kvfYuGXuzVBeG0JBXk51FAnHA/edit#gid=0)                                                                               |
 | MDF Funds Request with Funds Claim                       | Salesforce | This report captures a list of the current FY Funds Requests received and their respected. claims                                                                                                                                                            | [🖇️](https://gitlab.my.salesforce.com/00OPL0000002ILp)                                                                               |
 | MDF Funds Request with Partner Account                       | Salesforce | This report captures a list of the current FY Funds Requests with Partner Account name filtered by status.                                                                                                                                                            | [🖇️](https://gitlab.my.salesforce.com/00OPL0000002IP3)                                                                               |
@@ -515,7 +515,7 @@ The above reports are Bizible attribution reports at the person level, you will 
 
 [Example SFDC report](https://gitlab.my.salesforce.com/00O4M000004opfA) and an [example google sheet](https://docs.google.com/spreadsheets/d/12vKuafod5__ORqv0bCGiasMr1ANPlzPUY_95RN6Pwr0/edit#gid=48544605&range=P1) with the forumla.
 
-* [Records passed to partners](https://gitlab.my.salesforce.com/00O8X000008RSHg) - As part of our [campaigns we run jointly with channel partners](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-campaigns), we would like to understand the status of records we've passed to partners, this report give us that insight.
+* [Records passed to partners](https://gitlab.my.salesforce.com/00O8X000008RSHg) - As part of our [campaigns we run jointly with channel partners](/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-campaigns), we would like to understand the status of records we've passed to partners, this report give us that insight.
 
 ### Contribution to sales pipeline
 

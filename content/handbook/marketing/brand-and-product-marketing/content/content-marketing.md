@@ -37,9 +37,9 @@ The Global Content team is responsible for showcasing GitLab’s expertise and l
 
 We’re here to help with your content, writing, and editing needs! Ask us for help with:
 - Writing content for GTM campaigns (mostly awareness- and consideration-level eBooks, landing pages, nurture emails, related blog posts and/or articles)
-- Writing blog posts to support strategic [Editorial team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/) needs
+- Writing blog posts to support strategic [Editorial team](/handbook/marketing/brand-and-product-marketing/content/editorial-team/) needs
 - Writing [topic pages and subtopic pages](/topics/)
-- Writing and reviewing [customer case studies](/customers/), in collaboration with the [Customer Reference team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/)
+- Writing and reviewing [customer case studies](/customers/), in collaboration with the [Customer Reference team](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/)
 - Reviewing content for web pages, emails, or other marketing assets
 - Reviewing customer-facing emails and other communications
 
@@ -82,9 +82,9 @@ The team will review all incoming requests in the [Content Marketing project](ht
 
 #### Campaigns and lightning strikes
 
-- [Capability Campaign: DevOps Platform](https://about.gitlab.com/handbook/marketing/campaigns/#devops-platform)
-- [Solution Campaign: Automated Software Delivery](https://about.gitlab.com/handbook/marketing/campaigns/#cicd)
-- [Solution Campaign: Security & Compliance](https://about.gitlab.com/handbook/marketing/campaigns/#-security--compliance-solution-campaign)
+- [Capability Campaign: DevOps Platform](/handbook/marketing/campaigns/#devops-platform)
+- [Solution Campaign: Automated Software Delivery](/handbook/marketing/campaigns/#cicd)
+- [Solution Campaign: Security & Compliance](/handbook/marketing/campaigns/#-security--compliance-solution-campaign)
 
 ### Content types: Definitions and workflows
 
@@ -94,9 +94,9 @@ At GitLab, everyone can contribute. While the content marketing team produces a 
 
 #### Blog post
 
-A post on the GitLab blog is used during the Awareness or Consideration stage of the buyer's journey. A blog post can educate, entertain, tell a story, take an opinionated stance, etc. A blog post is dated, so it only reflects thoughts, ideas, and processes from a specific period of time. For communicating long-term/evergreen ideas or processes, consider using a [topic page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/content-marketing/#topic-page) or [web article](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/content-marketing/#web-article) instead.
+A post on the GitLab blog is used during the Awareness or Consideration stage of the buyer's journey. A blog post can educate, entertain, tell a story, take an opinionated stance, etc. A blog post is dated, so it only reflects thoughts, ideas, and processes from a specific period of time. For communicating long-term/evergreen ideas or processes, consider using a [topic page](/handbook/marketing/brand-and-product-marketing/content/content-marketing/#topic-page) or [web article](/handbook/marketing/brand-and-product-marketing/content/content-marketing/#web-article) instead.
 
-Visit the blog handbook to learn more about the [blog publishing process](https://about.gitlab.com/handbook/marketing/blog/).
+Visit the blog handbook to learn more about the [blog publishing process](/handbook/marketing/blog/).
 
 #### Blog repurpose
 
@@ -124,9 +124,9 @@ Any technical GitLab team member is welcome to write a whitepaper and collaborat
 
 An eBook tends to be broader in scope than a whitepaper and provides a clear definition of the topic, along with various industry standard best practices. eBooks typically provide awareness-level content, but can dive deeper into GitLab if it's intended for late-stage consumption. eBooks should be related to specific use cases and support campaigns, when possible.
 
-**Content Marketer workflow**: A Content Marketing team member develops eBook content with input and review from their product marketing counterpart. More technical or instructive eBooks may require more collaboration with product marketing. eBooks follow the [internal gated content](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/content-in-campaigns/) asset workflow.
+**Content Marketer workflow**: A Content Marketing team member develops eBook content with input and review from their product marketing counterpart. More technical or instructive eBooks may require more collaboration with product marketing. eBooks follow the [internal gated content](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/) asset workflow.
 
-Follow the instructions for creating an internal gated asset and start the eBook process by creating an epic using the [epic template](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/content-in-campaigns/).
+Follow the instructions for creating an internal gated asset and start the eBook process by creating an epic using the [epic template](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/).
 
 **For other GitLab team members:** To request an eBook from the content team, feel free to open a [content request](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) issue. If you would like to write an eBook, we have an [eBook google doc template](https://docs.google.com/document/d/1V944SVbjBxUVMtZiWIS-Baoxc7Ui-gjq3fCYf8tK0D4/edit?usp=sharing) available for GitLab team members to use with general best practices.
 
@@ -160,7 +160,7 @@ Web articles are educational, informational content, designed to support topic p
 
 Case studies are in-depth customer stories that provide insight as to how GitLab has resolved significant software workflow problems for a company. The case study tells the story using quotes from customer interviews and straightforward metrics that broadly show the impact of adopting GitLab.
 
-[Case studies](/customers/) are created in partnership with the customer reference team. The customer reference team has a process in place for how they add new references and provide a list of [customer value drivers](https://about.gitlab.com/handbook/marketing/product-marketing/customer-reference-program/customer-insight/#command-of-message-questions). The content team is responsible for writing the case study asset using [this template](https://docs.google.com/document/d/1UbhW2AEP7BfEZJGcp7w4LS6-W-xSeGET4K4NDr7bP0E/edit?usp=sharing), [publishing the case study](https://about.gitlab.com/handbook/marketing/product-marketing/customer-reference-program/customer-insight/#publishing-to-the-website) to the website, [adding the customer logo](https://about.gitlab.com/handbook/marketing/product-marketing/customer-reference-program/customer-insight/#adding-customer-logo-and-case-study-to-customers-grid) to the customer logo grid, and ensuring that the case study goes through proper social media and newsletter steps.
+[Case studies](/customers/) are created in partnership with the customer reference team. The customer reference team has a process in place for how they add new references and provide a list of [customer value drivers](/handbook/marketing/product-marketing/customer-reference-program/customer-insight/#command-of-message-questions). The content team is responsible for writing the case study asset using [this template](https://docs.google.com/document/d/1UbhW2AEP7BfEZJGcp7w4LS6-W-xSeGET4K4NDr7bP0E/edit?usp=sharing), [publishing the case study](/handbook/marketing/product-marketing/customer-reference-program/customer-insight/#publishing-to-the-website) to the website, [adding the customer logo](/handbook/marketing/product-marketing/customer-reference-program/customer-insight/#adding-customer-logo-and-case-study-to-customers-grid) to the customer logo grid, and ensuring that the case study goes through proper social media and newsletter steps.
 
 **Examples:**
 1. [How Hotjar deploys 50% faster with GitLab](/customers/hotjar/)

@@ -11,7 +11,7 @@ title: "OSS Contributions"
 
 ## Contributions to OSS
 
-The Developer Evangelism team believes in Open Source and wants to lead by example, contributing to GitLab and the OSS ecosystem. Our workshops, community activities and projects are documented in the [projects overview](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/projects/).
+The Developer Evangelism team believes in Open Source and wants to lead by example, contributing to GitLab and the OSS ecosystem. Our workshops, community activities and projects are documented in the [projects overview](/handbook/marketing/developer-relations/developer-evangelism/projects/).
 
 ### Projects maintained by Developer Evangelism
 

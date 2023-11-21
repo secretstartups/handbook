@@ -327,13 +327,13 @@ Issue Status: `Closed`
 
 | Role          | Function |
 |---------------|----------|
-| DRI           | **Development**: Close issue after it's available in production and any needed verification is complete. <br/>**Product Manager**: Initiate [release post item creation](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-post-item-generator) if they decide it's warranted. <br/>**Product Manager**: Continue the [dogfooding process](/handbook/product/product-processes/#dogfooding-process) if they decide it's applicable. <br/>**Product Manager**: Consider alerting relevant stakeholders in appropriate Slack channels. |
+| DRI           | **Development**: Close issue after it's available in production and any needed verification is complete. <br/>**Product Manager**: Initiate [release post item creation](/handbook/marketing/blog/release-posts/#release-post-item-generator) if they decide it's warranted. <br/>**Product Manager**: Continue the [dogfooding process](/handbook/product/product-processes/#dogfooding-process) if they decide it's applicable. <br/>**Product Manager**: Consider alerting relevant stakeholders in appropriate Slack channels. |
 | Collaborators | Development team, Quality counterpart, and Product Manager may verify the feature is working as expected in production. (Primary verification is, of course, performed prior to production whenever possible.) <br/>-Technical Writers create any documentation issues or MRs required to address issues identified during review that weren't resolved. |
 | Informed      | [Stakeholders](/handbook/product/product-processes/#what-is-a-stakeholder) for the change (including customers, open-source users, and GitLab team members) will be informed about the feature by the change in the status of the issue or the release post. GitLab team members may also be informed by posts in relevant Slack channels. |
 
 #### Description
 
-When the change becomes available in production and any needed verification is complete, the issue is closed by the development team and the `workflow::complete` label is added so stakeholders know work on it has been completed. Afterward, the Product Manager coordinates the [release post](https://about.gitlab.com/handbook/marketing/blog/release-posts/) and [dogfooding process](/handbook/product/product-processes/#dogfooding-process) when they apply.
+When the change becomes available in production and any needed verification is complete, the issue is closed by the development team and the `workflow::complete` label is added so stakeholders know work on it has been completed. Afterward, the Product Manager coordinates the [release post](/handbook/marketing/blog/release-posts/) and [dogfooding process](/handbook/product/product-processes/#dogfooding-process) when they apply.
 
 #### Outcomes and Activities
 

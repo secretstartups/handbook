@@ -108,7 +108,7 @@ See also: [Business Operations - Salesforce Reference](https://about.gitlab.com/
 
 Zendesk is our support queue for customer inquiries. Each case is then converted into a Zendesk ticket and filtered into a `View`, ordered by category. As part of their daily workflow, the Billing Operations Team monitor these views and process tickets through completion.
 
-See also: [Zendesk](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/zendesk/)
+See also: [Zendesk](/handbook/marketing/developer-relations/workflows-tools/zendesk/)
 
 ## How to get Help
 

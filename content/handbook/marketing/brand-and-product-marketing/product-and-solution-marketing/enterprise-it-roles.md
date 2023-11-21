@@ -99,9 +99,9 @@ Related Reading:
           - GitLab’s single application that supports the entire DevOps lifecycle is of significant importance.  The DevOps tool chain crisis is real and there is a lot of ‘bubble gum and duct tape’ going on in and around integrating all these point DevOps tools in order to convey the full story of what’s really happening.
           - Finding new areas across the SDLC to automate is top of mind to this role.  GitLab’s [Auto DevOps](/stages-devops-lifecycle/auto-devops/) will be a competitive differentiator
       1. There are several critical challenges that application development leaders are facing.
-         - [Cycle time - how to improve velocity](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/it-groups/build/cycle-time/)
-         - [How deliver secure Applications](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/it-groups/build/secure-applications/)
-         - [How to navigate hybrid cloud and not lock in.](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/it-groups/build/modernize/)
+         - [Cycle time - how to improve velocity](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/it-groups/build/cycle-time/)
+         - [How deliver secure Applications](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/it-groups/build/secure-applications/)
+         - [How to navigate hybrid cloud and not lock in.](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/it-groups/build/modernize/)
       1. Resources:
           - [GitLab Pitch Deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/)
           - [GitLab home page](https://about.gitlab.com)

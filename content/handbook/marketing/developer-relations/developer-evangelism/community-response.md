@@ -44,7 +44,7 @@ Our team uses the [Community response board](https://gitlab.com/groups/gitlab-co
 * The forum DRI navigates to `+ New topic` and selects [Internal](https://forum.gitlab.com/c/internal/) as category. This is a private category accessible by team members.
   * Set the topic title and link the blog post URL which will later render a preview.
   * Create the forum topic, and send the URL to the response requestor.
-  * Share the URL to the [Forum Community Response Workflow](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/forum/#forum-community-response-workflow) handbook, providing instructions how to review and edit the topic on the forum. 
+  * Share the URL to the [Forum Community Response Workflow](/handbook/marketing/developer-relations/workflows-tools/forum/#forum-community-response-workflow) handbook, providing instructions how to review and edit the topic on the forum. 
 
 **Coordinate blog post publishing with forum topic publishing.** This has a circular dependency on each other, and needs to be done in the same minutes.
 
@@ -65,13 +65,13 @@ Tip: If the blog post URL is not ready yet, create an empty forum topic, and add
 
 ### Monitoring 
 
-* Our team will typically monitor the [GitLab Forum](https://forum.gitlab.com/), [Hacker News](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/hacker-news/), Reddit, and other online forums.
+* Our team will typically monitor the [GitLab Forum](https://forum.gitlab.com/), [Hacker News](/handbook/marketing/developer-relations/developer-evangelism/hacker-news/), Reddit, and other online forums.
 * We will flag any content that we identify on social media in the appropriate channels, as needed. 
 * The goal of monitoring these forums is to identify comments that require a response from GitLab and to respond directly or share those comments with the appropriate team member to respond. 
 
 #### Monitoring automation
 
-We should strive to automate manual tasks for efficiency and to avoid unnecessary stress to individuals in the response team. In many cases, we use [Zapier integrations](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/zapier/#current-zaps) to post mentions of GitLab in a Slack channel. 
+We should strive to automate manual tasks for efficiency and to avoid unnecessary stress to individuals in the response team. In many cases, we use [Zapier integrations](/handbook/marketing/developer-relations/workflows-tools/zapier/#current-zaps) to post mentions of GitLab in a Slack channel. 
 
 While we strive for consistency in the process of monitoring the individual community response channels, in some cases it might not be possible due to the nature of the platform (e.g. lack of an API). In cases where automation is not possible,  we distribute monitoring tasks amongst that team.
 
@@ -82,10 +82,10 @@ This is a set of general recommendations for automating the monitoring processes
   * Posts that reach the front page and contain the keyword "GitLab" are shared in the [#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/archives/CMELFQS4B) Slack channel with additional tags for @dev-evangelism and @sytses 
   * Note: for both of these automations many posts and comments are captured that do not require a response. For example, posts that link to an open source project hosted on GitLab. 
 * **GitLab Forum**:
-  * [Set up a Zap](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/zapier/) that posts on the relevant Slack channel created for internal response coordination. The trigger will be any new post created on the monitored thread in the forum. Depending on the topic's activity, this might mean quite a lot of unfiltered traffic. In this case, the Zap updates could be temporarily turned off at the discretion of the DRI assigned to monitor, and only manually posts that require a response.
+  * [Set up a Zap](/handbook/marketing/developer-relations/workflows-tools/zapier/) that posts on the relevant Slack channel created for internal response coordination. The trigger will be any new post created on the monitored thread in the forum. Depending on the topic's activity, this might mean quite a lot of unfiltered traffic. In this case, the Zap updates could be temporarily turned off at the discretion of the DRI assigned to monitor, and only manually posts that require a response.
   * Optionally, everyone in the response team can subscribe to the specific forum thread to distribute the task of monitoring.
 * **Blog Posts**:
-  * When there is a forum post linked to from the blog post announcing a change, it is recommended that comments will be disabled to encourage engagement on the forum post and for more efficient monitoring. Check the blog handbook [to disable comments](https://about.gitlab.com/handbook/marketing/blog/#comments). 
+  * When there is a forum post linked to from the blog post announcing a change, it is recommended that comments will be disabled to encourage engagement on the forum post and for more efficient monitoring. Check the blog handbook [to disable comments](/handbook/marketing/blog/#comments). 
   * If comments are enabled, new comments will be posted in the [#mentions-of-gitlab](https://gitlab.slack.com/messages/mentions-of-gitlab) Slack channel. Please join that channel for more efficient monitoring.
 
 ### Response 
@@ -104,8 +104,8 @@ Review these additional steps:
 
 * If necessary, the Developer Evangelists will provide responses to community questions and concerns on the GitLab Forum, Hacker News, and other forums. 
 * If a post about GitLab reaches the front page of Hacker News, we may use a Zoom room and Google Doc to collaborate on responses in synchrously. We will link to the Zoom room and Google Doc in the Slack thread or channel where the situation is being discussed or the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B).
-* The Developer Evangelism team will rarely engage in responding on Twitter and other social media channels during these announcements and breaking news situations. Twitter, Facebook, and LinkedIn are primarily owned by the [Social Media team](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) in these situations.  
-* For situations where messaging is sensitive, we will rely on approved messaging from the [Corporate Communications team](https://about.gitlab.com/handbook/marketing/corporate-communications/) to create our responses. 
+* The Developer Evangelism team will rarely engage in responding on Twitter and other social media channels during these announcements and breaking news situations. Twitter, Facebook, and LinkedIn are primarily owned by the [Social Media team](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) in these situations.  
+* For situations where messaging is sensitive, we will rely on approved messaging from the [Corporate Communications team](/handbook/marketing/corporate-communications/) to create our responses. 
 
 #### Rapid Action Responses
 
@@ -117,7 +117,7 @@ When there is an ongoing discussion with many threads and requiring multiple ans
 * Update issue descriptions from feedback, if they remain unclear or discussion points.
 * Copy the context of linked URLs into replies. Not everyone clicks the URLs and may miss the context.
 * Ask for feedback and contributions on how to improve the functionality or code quality. 
-* Ensure all responses are [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) and adhere to GitLab's [team member social media policy](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/) before sending. 
+* Ensure all responses are [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) and adhere to GitLab's [team member social media policy](/handbook/marketing/team-member-social-media-policy/) before sending. 
 
 Example analysis for the [file extensions not being allowed in usernames thread on HackerNews](https://news.ycombinator.com/item?id=28535298):
 

@@ -104,7 +104,7 @@ As a SaaS company, our Engineering division also has an [infrastructure SRE team
 - [Engineering Productivity](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/)
 - [Engineering Security](/handbook/security/)
 - [Finance Systems](/handbook/business-technology/enterprise-applications/financeops/)
-- [Marketing Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/)
+- [Marketing Operations](/handbook/marketing/marketing-operations/)
 - [People Connect](/handbook/people-group/people-connect/)
 - [People Group Engineering](/handbook/people-group/engineering/)
 - [Sales Systems](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/)

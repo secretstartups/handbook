@@ -157,9 +157,9 @@ In consideration: personas from an Agile Planning perspective might include and 
 
 ### Buyer Personas
 
-Purchasing for Integrated Agile Planning may not require executive involvement, with one possible exception being the influence of the [VP Application Development](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/).
+Purchasing for Integrated Agile Planning may not require executive involvement, with one possible exception being the influence of the [VP Application Development](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/).
 
-#### [Erin the Application Development Executive (VP, etc.)](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/)
+#### [Erin the Application Development Executive (VP, etc.)](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/)
 
 - Erin is a strategic leader focused on business challenges and the big picture.
 - Erin's top goal is predictable business results.
@@ -225,7 +225,7 @@ TBD - will be a comparison grid leveraging the capabilities
 
 ### Industry Analyst Relations (IAR) Plan (UPDATE AS NEEDED FOR THIS USE CASE)
 
-- The IAR Handbook page has been updated to reflect our plans for [incorporating Use Cases into our analyst conversations](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#how-we-incorporate-use-cases-into-our-industry-analyst-interactions).
+- The IAR Handbook page has been updated to reflect our plans for [incorporating Use Cases into our analyst conversations](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#how-we-incorporate-use-cases-into-our-industry-analyst-interactions).
 - For  details specific to each use case, and in respect of our contractual confidentiality agreements with Industry Analyst firms, our engagement plans are available to GitLab team members in the following protected document: [IAR Use Case Profile and Engagement Plan](https://docs.google.com/spreadsheets/d/14UthNcgQNlnNfTUGJadHQRNZ-IrAe6T7_o9zXnbu_bk/edit#gid=1124037301).
 
 For a list of analysts with a current understanding of GitLab's capabilities for this use case, please reach out to Analyst Relations via Slack (#analyst-relations) or by submitting an [issue](https://gitlab.com/gitlab-com/marketing/product-marketing/issues/new) and selecting the "AR-Analyst-Validation" template.

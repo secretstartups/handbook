@@ -104,12 +104,12 @@ Customer success planning should be broken into three categories based off the p
 
 ### Tools
 
-- [Bambu](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/#topics-in-bambu) - Used for [Social Advocacy](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/#what-is-social-advocacy)
+- [Bambu](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/#topics-in-bambu) - Used for [Social Advocacy](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/#what-is-social-advocacy)
 - [Chorus](/handbook/business-technology/tech-stack/#chorus) - Call/Demo Recording
 - [Clari](https://about.gitlab.com/handbook/sales/forecasting/) - Forecasting
 - [CustomersDot Admin](https://customers.gitlab.com/admin/) (see overview video [here](https://youtu.be/G9JuHXqV5LM))
 - [LinkedIn Sales Navigator](https://docs.google.com/document/d/1UF69ieck4AdHadzgPmZ5X1GBs3085JhlYaMowLj0AOg/edit) - Social Selling
-- [Outreach](https://about.gitlab.com/handbook/marketing/marketing-operations/outreach/) - Email Sequencing
+- [Outreach](/handbook/marketing/marketing-operations/outreach/) - Email Sequencing
 - [Periscope](https://app.periscopedata.com/app/gitlab/403199/Welcome-Dashboard-%F0%9F%91%8B) - Data Visualization
 - Salesforce - Customer Relationship Management
 - [Scratchpad](https://scratchpad.com/) - Editing tool for Salesforce

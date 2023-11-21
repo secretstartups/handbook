@@ -81,7 +81,7 @@ Watch the below video and check out GitLab's [Value Stream Management](/solution
     - Check out the [GitLab Standard ROI Models enablement webcast](https://youtu.be/znCrnpTDRoE) (36 minutes, Sept 2020)
     - [GitLab Standardized ROI Model](https://docs.google.com/spreadsheets/d/1zYeKV51thbqUjKKQqOtE0a0iVuXBWytc_5ThNV6U_1c/edit?usp=sharing) (GitLab internal only)
     - [Standardized GitLab ROI Model presentation](https://docs.google.com/presentation/d/1-Qq6TLpgOuooAlmHj1tumwHxUTK86uWBD_7Lv6K47w8/edit?usp=sharing) (GitLab internal only)
-- Check out the [Forrester Total Economic Impact Study](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/forrester-tei/) Handbook page
+- Check out the [Forrester Total Economic Impact Study](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/forrester-tei/) Handbook page
      - Watch the [Forrester TEI Report webcast](https://youtu.be/J_6QgemCz2E) (1 hour, July 2020, internal only) featuring Forrester analysts
      - Check out the [online Forrester TEI Estimator/Calculator](https://tools.totaleconomicimpact.com/go/gitlab/devopsplatform/index.html)
      - More resources in the Handbook page referenced above!
@@ -95,7 +95,7 @@ Listen to Nico Ochoa (Strategic Account Executive, US West) describe his role in
 ### Technical Metrics
 
 **Technical metrics** highlight measurable results that prove the solution's capabilities.
-- Review [Getting Started with Agile Metrics](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/devops-metrics/)
+- Review [Getting Started with Agile Metrics](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/devops-metrics/)
 - Consider reading ["Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations"](https://itrevolution.com/book/accelerate/)
 
 Hear what Nico says about cycle time compression, helping organizations do more with less, and improving developer satisfaction.
@@ -121,8 +121,8 @@ Link your **technical buyers** to the metrics and their role in driving the posi
 
 | **Value Driver** | **Metrics** |
 | :------: | ------ |
-| **Increase Operational Efficiencies** | - Lower costs (license, FTEs and compute) of development<br> - Increase developer/team productivity<br> - Reduce cycle time (lead time)<br> - Increase [deployment frequency](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/devops-metrics/#deployment-frequency)<br> - Reduce [change failure rate](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/devops-metrics/#change-failure-rate-cfr)<br> - Reduce [MTTR (mean time to recover/restore)](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/devops-metrics/#mean-time-to-recover-mttr)<br> - Improve developer satisfaction and retention |
-| **Deliver Better Products Faster** | - Improve revenue, # of customers, and/or market share<br> - Increase developer/team productivity<br> - Reduce cycle time (lead time)<br> - Increase [deployment frequency](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/devops-metrics/#deployment-frequency)<br> - Reduce [change failure rate](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/devops-metrics/#change-failure-rate-cfr)<br> - Reduce [MTTR (mean time to recover/restore)](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/devops-metrics/#mean-time-to-recover-mttr) |
+| **Increase Operational Efficiencies** | - Lower costs (license, FTEs and compute) of development<br> - Increase developer/team productivity<br> - Reduce cycle time (lead time)<br> - Increase [deployment frequency](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/devops-metrics/#deployment-frequency)<br> - Reduce [change failure rate](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/devops-metrics/#change-failure-rate-cfr)<br> - Reduce [MTTR (mean time to recover/restore)](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/devops-metrics/#mean-time-to-recover-mttr)<br> - Improve developer satisfaction and retention |
+| **Deliver Better Products Faster** | - Improve revenue, # of customers, and/or market share<br> - Increase developer/team productivity<br> - Reduce cycle time (lead time)<br> - Increase [deployment frequency](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/devops-metrics/#deployment-frequency)<br> - Reduce [change failure rate](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/devops-metrics/#change-failure-rate-cfr)<br> - Reduce [MTTR (mean time to recover/restore)](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/devops-metrics/#mean-time-to-recover-mttr) |
 | **Reduce Security and Compliance Risk** | - Decrease % of critical security vulnerabilities that escaped development<br> - increase the % of code scanned<br> - improve audit pass rate<br> - Reduce time spent on audits and/or compliance adherence efforts<br> - Reduce mean time to resolve security vulnerabilities |
 
 ## Know Your Proof Points

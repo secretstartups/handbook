@@ -49,7 +49,7 @@ just that we think that other buyers are relatively more likely to care about it
 The more of GitLab that you use the more likely it is that you benefit from a higher tier.
 Even a single person using GitLab might be best off using our highest tier.
 
-It is hard to get [the tier](https://about.gitlab.com/handbook/marketing/strategic-marketing/tiers/) right, and if we put something in a tier that is too high we won't hesitate to [open-source](/releases/2016/12/24/were-bringing-gitlab-pages-to-community-edition/) [it](https://news.ycombinator.com/item?id=10931347) or move it to a lower tier. We listen to our community in order to find what we feel is the right balance, and we iterate and make changes based on their feedback. At the same time, the premium product needs to hold value, and we believe we provide that.
+It is hard to get [the tier](/handbook/marketing/strategic-marketing/tiers/) right, and if we put something in a tier that is too high we won't hesitate to [open-source](/releases/2016/12/24/were-bringing-gitlab-pages-to-community-edition/) [it](https://news.ycombinator.com/item?id=10931347) or move it to a lower tier. We listen to our community in order to find what we feel is the right balance, and we iterate and make changes based on their feedback. At the same time, the premium product needs to hold value, and we believe we provide that.
 
 All stages of the [DevOps lifecycle](https://about.gitlab.com/direction/#scope) have at least some features available in GitLab Core. There are companies using GitLab Core with more than 10,000 users.
 
@@ -106,7 +106,7 @@ GitLab the product [plays well with others](/handbook/product/gitlab-the-product
 Community is seen as a marketing tool instead of as participants working to make the product better together. -
 We care deeply about our community and depend on all GitLabbers to help us improve our [category and stage maturity](https://about.gitlab.com/direction/maturity/).
 We have [Merge Request Coaches](/job-families/expert/merge-request-coach/) who help contributors get their merge requests to meet the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria),
-and [wider community contributions per release](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release) is [a GitLab KPI](/handbook/company/kpis/#gitlab-kpis).
+and [wider community contributions per release](/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release) is [a GitLab KPI](/handbook/company/kpis/#gitlab-kpis).
 
 **Deployment Constrained.**
 Customers are afraid of confusing or unsanctioned licenses entering a business environment. -

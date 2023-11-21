@@ -92,7 +92,7 @@ See also: [Zuora](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/stag
 
 Zendesk is our support queue for customer inquiries. Each case is then converted into a Zendesk ticket and filtered into a `View`, ordered by category. As part of their daily workflow, the Accounts Receivable Team monitors these views and processes tickets through completion.
 
-See also: [Zendesk](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/zendesk/)
+See also: [Zendesk](/handbook/marketing/developer-relations/workflows-tools/zendesk/)
 
 ### Tesorio
 

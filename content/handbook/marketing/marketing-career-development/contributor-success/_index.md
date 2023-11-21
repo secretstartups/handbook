@@ -12,12 +12,12 @@ These are the expected competencies of the Fullstack Engineer, Contributor Succe
 
 ### Intermediate
 
-- [Fullstack Engineer](https://about.gitlab.com/handbook/marketing/career-development/contributor-success/intermediate/)
+- [Fullstack Engineer](/handbook/marketing/career-development/contributor-success/intermediate/)
 
 ### Senior
 
-- [Fullstack Engineer](https://about.gitlab.com/handbook/marketing/career-development/contributor-success/senior/)
+- [Fullstack Engineer](/handbook/marketing/career-development/contributor-success/senior/)
 
 ### Staff
 
-- [Fullstack Engineer](https://about.gitlab.com/handbook/marketing/career-development/contributor-success/staff/)
+- [Fullstack Engineer](/handbook/marketing/career-development/contributor-success/staff/)

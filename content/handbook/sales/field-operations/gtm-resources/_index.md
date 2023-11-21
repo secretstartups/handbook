@@ -131,17 +131,17 @@ Sales capacity is an individual metric that is based on several factors (lead so
 Conferences, Field Events, Owned Events
 
 Event details are owned by the Field Marketing Team with execution of system tracking, landing pages, reminders, and follow up completed by Marketing Program Managers.
-See the [events handbook page](https://about.gitlab.com/handbook/marketing/events/) for more details.
+See the [events handbook page](/handbook/marketing/events/) for more details.
 
 ### How to do Step 1 cleanup of lead lists before passing to MktgOPS
 
-[List cleaning instructions](https://about.gitlab.com/handbook/marketing/marketing-operations/list-import/#import-cleaning-template---info-for-pre-mktgops-hand-off)
+[List cleaning instructions](/handbook/marketing/marketing-operations/list-import/#import-cleaning-template---info-for-pre-mktgops-hand-off)
 
 ## Record Management
 
 ### MQL Definition and Scoring
 
-A breakdown of MQLs and lead scoring can be found in the [marketing operations handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/).
+A breakdown of MQLs and lead scoring can be found in the [marketing operations handbook](/handbook/marketing/marketing-operations/).
 
 ### Segmentation
 
@@ -263,11 +263,11 @@ In the event that the account is linked to an individual that uses a free email 
 
 #### Initial Source
 
-A breakdown of `Initial Source` can be found in the [marketing operations handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/#initial-source).
+A breakdown of `Initial Source` can be found in the [marketing operations handbook](/handbook/marketing/marketing-operations/#initial-source).
 
 #### Lead & Contact Statuses
 
-A breakdown of lead and contact statuses can be found in the [marketing operations handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/#lead-and-contact-statuses).
+A breakdown of lead and contact statuses can be found in the [marketing operations handbook](/handbook/marketing/marketing-operations/#lead-and-contact-statuses).
 
 #### Routing
 
@@ -277,7 +277,7 @@ Routing is determined by `Sales Segmentation`, `Region`, and `Global Account Own
 
 **Traction** works within the Salesforce ecosystem and is the primary tool leveraged to manage all routing workflows.
 The Marketing Operations team is responsible for ongoing management and customizations within Traction.
-For more information see the [dedicated Traction Complete  page](https://about.gitlab.com/handbook/marketing/marketing-operations/traction-lead-complete).
+For more information see the [dedicated Traction Complete  page](/handbook/marketing/marketing-operations/traction-lead-complete).
 
 #### Contact Requests
 
@@ -429,11 +429,11 @@ It is important to note that by following this process that all contacts must me
 1. There already is a primary contact, or one of the new contacts will be the primary contact on the opportunity.
 
 
-Territories are assigned based on [Sales Segmentation](#segmentation) and routing for each type of inbound request is [through Traction Complete](https://about.gitlab.com/handbook/marketing/marketing-operations/traction-lead-complete).
+Territories are assigned based on [Sales Segmentation](#segmentation) and routing for each type of inbound request is [through Traction Complete](/handbook/marketing/marketing-operations/traction-lead-complete).
 
 LEAD/CONTACT Records with the `Initial Source` of `GitLab.com` are **not** to be engaged, prospected or targeted unless they have taken a handraising 'active' activity, such as `Trial - Enterprise`, `Trial - GitLab.com`, `Contact Us`, `Demo`, 'Webcast', 'Content' and/or engaged in `Web Chat`.
 
-For information about GitLab's email policy and the types and number of emails we send, please see our [Email Communication Policy](https://about.gitlab.com/handbook/marketing/marketing-operations/).
+For information about GitLab's email policy and the types and number of emails we send, please see our [Email Communication Policy](/handbook/marketing/marketing-operations/).
 
 #### Active vs. Passive
 
@@ -448,7 +448,7 @@ For example: the record is considered 'Active' for entire duration of EE trial, 
 
 Salesforce campaigns are used to track efforts of marketing tactics - field events, webcasts, content downloads, etc.
 The campaign types align with how marketing tracks spend and align the way records are tracked across three of our core systems (Marketo, Salesforce and Bizible) for consistent tracking.
-Leveraging campaign aligns our efforts across Marketing, Sales and Finance. For information on integrated campaigns (managed by Marketing Programs), please see the [Integrated Campaigns handbook page](https://about.gitlab.com/handbook/marketing/campaigns/) and to learn more about planned, in progress, and previously executed campaign tactics, please see the [Marketing Programs handbook page](https://about.gitlab.com/handbook/marketing/).
+Leveraging campaign aligns our efforts across Marketing, Sales and Finance. For information on integrated campaigns (managed by Marketing Programs), please see the [Integrated Campaigns handbook page](/handbook/marketing/campaigns/) and to learn more about planned, in progress, and previously executed campaign tactics, please see the [Marketing Programs handbook page](/handbook/marketing/).
 
 ## Outreach & Tracking End of Availability Customers
 
@@ -469,7 +469,7 @@ To ensure that we're engaged with those customers who were a part of the Starter
 
 The Marketo programs for the corresponding campaign types have been prebuilt to include all the possible necessary smart campaigns, email programs, reminder emails and tokens that are to be leveraged in the building of the program.
 
-You can find a breakdown of all Marketo program types and progression statuses in the [Marketing Operations handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/)
+You can find a breakdown of all Marketo program types and progression statuses in the [Marketing Operations handbook](/handbook/marketing/marketing-operations/)
 
 ### Reports and Dashboard Naming Convention
 

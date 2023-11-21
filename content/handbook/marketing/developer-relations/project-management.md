@@ -84,14 +84,14 @@ Note: These are samples for guidance, please add relevant labels for activity re
 | [Code Contributor Program](https://gitlab.com/groups/gitlab-com/marketing/community-relations/-/boards/1034162?&label_name[]=Code%20contributor%20program) | Code contributors | Work related to the Code Contributor Program |  |
 | [Education Program](https://gitlab.com/groups/gitlab-com/marketing/community-relations/-/boards/952267?&label_name[]=education) | Education | Work related to the Education Program |  |
 | [Developer Evangslism](https://gitlab.com/groups/gitlab-com/-/boards/1565342?label_name[]=dev-evangelism) | Developer Evangelism | Developer Evangelism issues across the entire `gitlab-com` group |  |
-| [Consortium Memberships](https://gitlab.com/gitlab-com/marketing/community-relations/opensource-program/consortium-memberships/-/boards) | Open Source | Track all activities related to GitLab's [consortium memberships](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/opensource-program/#consortium-memberships-and-sponsorships) | |
+| [Consortium Memberships](https://gitlab.com/gitlab-com/marketing/community-relations/opensource-program/consortium-memberships/-/boards) | Open Source | Track all activities related to GitLab's [consortium memberships](/handbook/marketing/developer-relations/community-programs/opensource-program/#consortium-memberships-and-sponsorships) | |
 | [Open Source Partners Support (Internal)](https://gitlab.com/gitlab-com/marketing/community-relations/open-source-program/open-source-partners-program/-/boards/2150795) | Open Source | Contains sensitive partner requests and therefore confidential. | |
 | [Community Sponsorship Requests](https://gitlab.com/gitlab-com/marketing/community-relations/community-operations/community-sponsorship-requests/-/boards) | Community Ops | Requests from the community for event and other types of sponsorship | |
 
 ## Developer Relations labels
 
-- We track the workflow with the [Marketing Status labels](https://about.gitlab.com/handbook/marketing/#boards-and-labels).
-- Some programs use [scoped labels in addition](https://about.gitlab.com/handbook/marketing/#functional-team-labels).
+- We track the workflow with the [Marketing Status labels](/handbook/marketing/#boards-and-labels).
+- Some programs use [scoped labels in addition](/handbook/marketing/#functional-team-labels).
 - Main program labels are defined either at the top `gitlab-com` or the `gitlab-com/marketing` group level to facilitate cross-collaboration and visibility across issue boards
 
 | Label | Program | Usage | Notes |
@@ -113,10 +113,10 @@ Note: These are samples for guidance, please add relevant labels for activity re
 | `heroes-talk` | Evangelists |  For issues related to a CFP submission or tech talk given by a GitLab Hero  | Project label |
 | `request-for-heroes` | Evangelists | Share speaking, blogging, and other contribution opportunities with GitLab Heroes  | Project label |
 | `Code contributor program` | Code contributors |  **Main program label**: for general issues related to the program  |  |
-| `1st contribution` | Code contributors | [Automatic contribution label](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#labels) | `gitlab-com` group label |
-| `1st contribution` | Code contributors | [Automatic contribution label](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#labels) | `gitlab-org` group label |
-| `Community contribution` | Code contributors | [Automatic contribution label](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#labels) | `gitlab-com` group label |
-| `Community contribution` | Code contributors | [Automatic contribution label](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#labels) | `gitlab-org` group label |
+| `1st contribution` | Code contributors | [Automatic contribution label](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#labels) | `gitlab-com` group label |
+| `1st contribution` | Code contributors | [Automatic contribution label](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#labels) | `gitlab-org` group label |
+| `Community contribution` | Code contributors | [Automatic contribution label](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#labels) | `gitlab-com` group label |
+| `Community contribution` | Code contributors | [Automatic contribution label](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#labels) | `gitlab-org` group label |
 | `Hackathon` | Code contributors | Community contribution during GitLab Hackathon events | `gitlab-org` group label |
 | `GitLab Hackathon` | Code contributors | Community contribution during GitLab Hackathon events | `gitlab-com` group label |
 | `OKRs` | _Team_ | Quarterly team OKRs |  |

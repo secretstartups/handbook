@@ -95,7 +95,7 @@ Most of the resources here are free but any content requiring payment [can be re
 
 - [Minimum Viable Experiment](https://about.gitlab.com/handbook/engineering/development/growth/experimentation/#minimum-viable-experiment-mve)
 - [How Growth launches experiments](/handbook/product/growth/#how-growth-launches-experiments)
-- [Growth Experiments Knowledge Base](https://about.gitlab.com/handbook/marketing/growth/)
+- [Growth Experiments Knowledge Base](/handbook/marketing/growth/)
 
 ### Videos
 

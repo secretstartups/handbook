@@ -30,8 +30,8 @@ product categories defined on this page:
 - [Documentation](https://docs.gitlab.com/)
 - [Engineering](https://about.gitlab.com/handbook/engineering/) Engineering Manager/Developer/Designer titles, their expertise, and department, and team names.
 - [Product manager](/handbook/product/) responsibilities which are detailed on this page
-- [Our pitch deck](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/#company-pitch-deck), the slides that we use to describe the company
-- [Strategic marketing](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) specializations
+- [Our pitch deck](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/#company-pitch-deck), the slides that we use to describe the company
+- [Strategic marketing](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) specializations
 
 ## Hierarchy
 
@@ -50,10 +50,10 @@ Each group has a corresponding [`group::<group>` label](https://docs.gitlab.com/
 1. **Categories**: A group has one or more categories. Categories are high-level
 capabilities that may be a standalone product at another company. e.g.
 Portfolio Management. To the extent possible we should map categories to
-vendor categories defined by [analysts](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/).
+vendor categories defined by [analysts](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/).
 There are a maximum of 8 high-level categories per stage to ensure we can
 display this on our website and pitch deck.
-([Categories that do not show up on marketing pages](https://about.gitlab.com/handbook/marketing/digital-experience/website/#working-with-stages-groups-and-categories)
+([Categories that do not show up on marketing pages](/handbook/marketing/digital-experience/website/#working-with-stages-groups-and-categories)
 show up here in _italics_ and do not count toward this limit.) There may need
 to be fewer categories, or shorter category names, if the aggregate number of
 lines when rendered would exceed 13 lines, when accounting for category names
@@ -64,7 +64,7 @@ Each category has a corresponding [`Category:<Category>` label](https://docs.git
 common features are listed within parentheses to facilitate finding
 responsible PMs by keyword.
 Features are maintained in [`data/features.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/features.yml).
-It's recommended to associate [feature labels](https://docs.gitlab.com/ee/development/labels/index.html#feature-labels) to a category or a group with `feature_labels` in the [`data/categories.yml` or `data/stages.yml`](https://about.gitlab.com/handbook/marketing/digital-experience/website/#working-with-stages-groups-and-categories).
+It's recommended to associate [feature labels](https://docs.gitlab.com/ee/development/labels/index.html#feature-labels) to a category or a group with `feature_labels` in the [`data/categories.yml` or `data/stages.yml`](/handbook/marketing/digital-experience/website/#working-with-stages-groups-and-categories).
 
 Notes:
 
@@ -176,7 +176,7 @@ The impact of changes to sections, stages and groups is felt [across the company
 All new category creation needs to be specifically approved via our Opportunity Canvas review process. This is to avoid scope creep and breadth at the expense of depth and user experience.
 
 Merge requests with
-[changes to sections, stages and groups and significant changes to categories](https://about.gitlab.com/handbook/marketing/digital-experience/website/#working-with-stages-groups-and-categories)
+[changes to sections, stages and groups and significant changes to categories](/handbook/marketing/digital-experience/website/#working-with-stages-groups-and-categories)
 need to be created, approved, and/or merged by each of the below:
 
 1. Chief Product Officer
@@ -223,7 +223,7 @@ Changes that require the above approvers include:
 
 Changes that require approval only from the relevant [Product Leadership Team](/handbook/product/product-leadership/#product-leadership-team-structure) member include:
 
-- Changing name or removing a [non-marketing category](https://about.gitlab.com/handbook/marketing/digital-experience/website/#stage-attributes), per the `marketing` attribute.
+- Changing name or removing a [non-marketing category](/handbook/marketing/digital-experience/website/#stage-attributes), per the `marketing` attribute.
 
 Changes that require approval only from the relevant Product Director include:
 

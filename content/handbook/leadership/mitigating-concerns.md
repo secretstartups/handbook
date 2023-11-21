@@ -22,7 +22,7 @@ Listed below are some of our concerns bucketed by type. We do not view the list 
 1. Keep our [promises]({{< ref "stewardship#promises" >}})
 1. Keep listening
 1. Assign [Merge Request Coaches]({{< ref "merge-request-coach" >}})
-1. Have [Leading Organizations](https://about.gitlab.com/handbook/marketing/developer-relations/leading-organizations)
+1. Have [Leading Organizations](/handbook/marketing/developer-relations/leading-organizations)
 
 ### Loss of the values that bind us
 
@@ -99,7 +99,7 @@ While this could be reflected in [loss of velocity](#loss-of-velocity), innovati
 In addition to [keeping our hiring bar high](#lowering-the-hiring-bar), we have the benefit of our community to help bring new insights and use cases creating issues.
 We can keep this momentum by continuing to value and engage with our community.
 We have [Merge Request Coaches](/job-families/expert/merge-request-coach/) who help contributors to get their merge requests to meet the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria),
-and [wider community contributions per release](https://about.gitlab.com/handbook/marketing/performance-indicators/#wider-community-merged-mrs-per-release) is [a GitLab KPI]({{< ref "kpis#gitlab-kpis" >}}).
+and [wider community contributions per release](/handbook/marketing/performance-indicators/#wider-community-merged-mrs-per-release) is [a GitLab KPI]({{< ref "kpis#gitlab-kpis" >}}).
 
 ### Irresponsible transparency
 

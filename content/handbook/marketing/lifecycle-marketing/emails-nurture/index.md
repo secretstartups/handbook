@@ -18,17 +18,17 @@ twitter_creator: "@gitlab"
 
 This page focuses on emails and nurture programs, owned and managed by Lifecycle Marketing, Marketing Campaigns, and Marketing Operations. We are focused on progressing leads throughout their funnel and have programs encompassing prospects (aimed at progressing Unknown > Inquiry > MQL > SAO) and product user journeys (free > trial >paid campaigns).  We leverage "always on", logic-based, trigger-based, and persona-driven nurture engines.
 
-Please visit our other pages for more information on [email best practices](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-best-practices), [email processes and requests](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-processes-requests), and [general team information](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/).
+Please visit our other pages for more information on [email best practices](/handbook/marketing/lifecycle-marketing/email-best-practices), [email processes and requests](/handbook/marketing/lifecycle-marketing/email-processes-requests), and [general team information](/handbook/marketing/lifecycle-marketing/).
 
 
-*The [Intelligent Email Nurture](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/#intelligent-email-nurture) (launched originally 2021-12-17, re-launched 2023-11-06) aims at progressing leads from INQ > SAO, and leverages segment/region data to provide the *right offer* to the *right person* at the *right time* - based on their region and persona.*
+*The [Intelligent Email Nurture](/handbook/marketing/lifecycle-marketing/emails-nurture/#intelligent-email-nurture) (launched originally 2021-12-17, re-launched 2023-11-06) aims at progressing leads from INQ > SAO, and leverages segment/region data to provide the *right offer* to the *right person* at the *right time* - based on their region and persona.*
 
-**Related Handbook: [Email Management](https://about.gitlab.com/handbook/marketing/marketing-operations/email-management/)**
+**Related Handbook: [Email Management](/handbook/marketing/marketing-operations/email-management/)**
 
 **Key foundational elements to achieve this:**
 * A strategically segmented Marketo database
     - this is an ongoing effort led by MOps in collaboration with Campaigns
-    - *please see [note below regarding segmentation and email requests](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/#one-time-emails)*
+    - *please see [note below regarding segmentation and email requests](/handbook/marketing/lifecycle-marketing/emails-nurture/#one-time-emails)*
     - [see the overall database segmentation epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1331)
     - [see this epic for more campaign-based tactical segmentations](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1467)
 * A persona-based prescriptive buyer journey
@@ -78,7 +78,7 @@ Below we explain the labels created and what each one is for:
 * [intel-nurture::email-build](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/?sort=due_date&state=opened&label_name%5B%5D=intel-nurture%3A%3Aemail-build&first_page_size=20): This label helps us to know that the email is in production. Verticurl is responsible for building the emails.
 * [intel-nurture::email-test](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/?sort=due_date&state=opened&label_name%5B%5D=intel-nurture%3A%3Aemail-test&first_page_size=20): This label tells us that the email has already been built and that the Verticurl team has sent tests to both the requesters AND the lifecycle marketing team for review. In this step we check that the links work correctly, that the content of the email is correct and that the correct utm values are used for appropriate tracking of the links. Once the email is approved, we proceed to the last step.
 * [intel-nurture::add-to-streams](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/?sort=due_date&state=opened&label_name%5B%5D=intel-nurture%3A%3Aadd-to-streams&first_page_size=20): This label helps us to identify that the issue is in its final stage where we proceed to add the email to the relevant nurture streams.
-   - **PLEASE NOTE: the requester indicates the desired streams in the description of the issue, but the Lifecycle Marketing team makes the final decision on which streams are relevant. Please reference [the stream alignment rules](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-processes-requests/#nurture-stream-offer-alignment) for what content type is relevant for each stream.**
+   - **PLEASE NOTE: the requester indicates the desired streams in the description of the issue, but the Lifecycle Marketing team makes the final decision on which streams are relevant. Please reference [the stream alignment rules](/handbook/marketing/lifecycle-marketing/email-processes-requests/#nurture-stream-offer-alignment) for what content type is relevant for each stream.**
 
 ### Intelligent Email Nurture Stream Schedule
 {: #intelligent-nurture-stream-schedule}
@@ -110,7 +110,7 @@ The following shows the day of the week and cadence of the different streams in 
 {: #intelligent-nurture-processes}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-Our Intelligent Nurture processes have moved to our [email processes handbook page](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-processes-requests#intelligent-nurture-processes).
+Our Intelligent Nurture processes have moved to our [email processes handbook page](/handbook/marketing/lifecycle-marketing/emails-processes-requests#intelligent-nurture-processes).
 
 #### Reading for those unfamiliar with Marketo
 {: #marketo-nurutre-reading}

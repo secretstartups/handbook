@@ -194,10 +194,10 @@ Is our single source of truth (SSoT) for processes and relevant links
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. [Campaigns Team - Prioritization](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2532209?&label_name[]=mktg-demandgen)
-   - At start of milestone, ensure that issues are in the proper category of prioritization. Align them to the [priority definitions](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/#prioritization-labels).
+   - At start of milestone, ensure that issues are in the proper category of prioritization. Align them to the [priority definitions](/handbook/marketing/demand-generation/campaigns/#prioritization-labels).
    - Consider the time you have available in a 2 week period, recognizing meeting commitments and planned PTO.
    - Only add issues to account for 70% of your available work hours. Don't max out at 100% since there will likely be things that arise and need immediate attention throughout milestone.
-   - *Ask yourself: considering realistic time this milestone, am I overcommitting? The first to drop from a milestone should be "Low" priority issues based on [definitions](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/#prioritization-labels).*
+   - *Ask yourself: considering realistic time this milestone, am I overcommitting? The first to drop from a milestone should be "Low" priority issues based on [definitions](/handbook/marketing/demand-generation/campaigns/#prioritization-labels).*
    - Discuss milestone with Agnes and if need help determining what to drop and how to communicate (potentially) to issue requestors.
 1. [Campaigns Team - Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?milestone_title=%23started&)
    - Minimize the "Low" and "Medium" columns. Your focus should first be on the "Top" and "High" priority issues.
@@ -431,13 +431,13 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 {: #demand-gen-dash .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-See reporting on Demand Generation Hanbook Page: [https://about.gitlab.com/handbook/marketing/demand-generation/#reporting](https://about.gitlab.com/handbook/marketing/demand-generation/#reporting)
+See reporting on Demand Generation Hanbook Page: [https://about.gitlab.com/handbook/marketing/demand-generation/#reporting](/handbook/marketing/demand-generation/#reporting)
 
 ### Key metrics tracked on the Demand Gen Dashboard
 {: #dashboard-key-metrics}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-See reporting on Demand Generation Hanbook Page: [https://about.gitlab.com/handbook/marketing/demand-generation/#reporting](https://about.gitlab.com/handbook/marketing/demand-generation/#reporting)
+See reporting on Demand Generation Hanbook Page: [https://about.gitlab.com/handbook/marketing/demand-generation/#reporting](/handbook/marketing/demand-generation/#reporting)
 
 ### 💡 Questions that the Integrated Campaign dashboards attempt to answer
 {: #dashboard-questions-to-answer}
@@ -447,34 +447,34 @@ See reporting on Demand Generation Hanbook Page: [https://about.gitlab.com/handb
 {: #questions-overall}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-See reporting on Demand Generation Hanbook Page: [https://about.gitlab.com/handbook/marketing/demand-generation/#reporting](https://about.gitlab.com/handbook/marketing/demand-generation/#reporting-questions-overall)
+See reporting on Demand Generation Hanbook Page: [https://about.gitlab.com/handbook/marketing/demand-generation/#reporting](/handbook/marketing/demand-generation/#reporting-questions-overall)
 
 #### By Campaign
 {: #questions-by-campaign}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-See reporting on Demand Generation Hanbook Page: [https://about.gitlab.com/handbook/marketing/demand-generation/#reporting](https://about.gitlab.com/handbook/marketing/demand-generation/#questions-by-campaign)
+See reporting on Demand Generation Hanbook Page: [https://about.gitlab.com/handbook/marketing/demand-generation/#reporting](/handbook/marketing/demand-generation/#questions-by-campaign)
 
 #### Drilling down into the dashboards
 {: #dashboard-drilldowns}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-See reporting on Demand Generation Hanbook Page: [https://about.gitlab.com/handbook/marketing/demand-generation/#reporting](https://about.gitlab.com/handbook/marketing/demand-generation/#dashboard-drilldowns)
+See reporting on Demand Generation Hanbook Page: [https://about.gitlab.com/handbook/marketing/demand-generation/#reporting](/handbook/marketing/demand-generation/#dashboard-drilldowns)
 
 ## Offer-Specific Dashboards
 {: #dashboard-by-offer}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-See reporting on Demand Generation Hanbook Page: [https://about.gitlab.com/handbook/marketing/demand-generation/#reporting](https://about.gitlab.com/handbook/marketing/demand-generation/#dashboard-by-tactic)
+See reporting on Demand Generation Hanbook Page: [https://about.gitlab.com/handbook/marketing/demand-generation/#reporting](/handbook/marketing/demand-generation/#dashboard-by-tactic)
 
 ### Key Metrics tracked on ALL virtual events dashboards
 {: #dashboard-virtual-events}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-See reporting on Demand Generation Hanbook Page: [https://about.gitlab.com/handbook/marketing/demand-generation/#reporting](https://about.gitlab.com/handbook/marketing/demand-generation/#dashboard-virtual-events)
+See reporting on Demand Generation Hanbook Page: [https://about.gitlab.com/handbook/marketing/demand-generation/#reporting](/handbook/marketing/demand-generation/#dashboard-virtual-events)
 
 #### Virtual Events Reporting
 {: #reporting-virtual-events}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-See reporting on Demand Generation Hanbook Page: [https://about.gitlab.com/handbook/marketing/demand-generation/#reporting](https://about.gitlab.com/handbook/marketing/demand-generation/#reporting-virtual-events)
+See reporting on Demand Generation Hanbook Page: [https://about.gitlab.com/handbook/marketing/demand-generation/#reporting](/handbook/marketing/demand-generation/#reporting-virtual-events)

@@ -13,7 +13,7 @@ title: "Projects"
 
 We maintain our projects in the public [gitlab-de group](https://gitlab.com/gitlab-de). This group has access to an Ultimate subscription. 
 
-The group organizes use cases, workshops, tutorials, maintained [open source projects](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/oss-contributions/), demo playgrounds, thought leadership research, and more learning resources.
+The group organizes use cases, workshops, tutorials, maintained [open source projects](/handbook/marketing/developer-relations/developer-evangelism/oss-contributions/), demo playgrounds, thought leadership research, and more learning resources.
 
 ## Organisation Structure
 
@@ -133,7 +133,7 @@ Assigned resources:
 
 The [log4j-resources](https://gitlab.com/gitlab-de/log4j-resources) project provides a collection of resources to learn about, detect and mitigate the impact of the log4j vulnerability, more formally known as [CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228).
 
-Maintainers: [Developer Evangelism team](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/)
+Maintainers: [Developer Evangelism team](/handbook/marketing/developer-relations/developer-evangelism/)
 
 ### o11y.love
 
@@ -283,7 +283,7 @@ A shorter version of the workshop [as a talk](https://docs.google.com/presentati
 
 ## OSS Projects
 
-The Developer Evangelism team maintains [OSS projects](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/oss-contributions/) as part of community activities. 
+The Developer Evangelism team maintains [OSS projects](/handbook/marketing/developer-relations/developer-evangelism/oss-contributions/) as part of community activities. 
 
 ### CodeChallenge.dev
 
@@ -316,8 +316,8 @@ Maintainer: [Abubakar Siddiq Ango](/handbook/company/team/#abuango)
 
 This bot aims to automate the team tasks such as:
 
-* Create [release evangelism](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism) issues for team members.
-* Triage issues following the [Developer Evangelism workflows](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/workflow/).
+* Create [release evangelism](/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism) issues for team members.
+* Triage issues following the [Developer Evangelism workflows](/handbook/marketing/developer-relations/developer-evangelism/workflow/).
 * Generate an issue letter (created, closed, open CFPs) on every Monday.
 
 Project: [DE Bot](https://gitlab.com/gitlab-com/marketing/corporate_marketing/developer-evangelism/code/de-bot)
@@ -360,7 +360,7 @@ The coffee chats are organized as [meetup.com group events](https://www.meetup.c
 * Do pair programming/debugging sessions.
 * Start discussions and share ideas on the latest technology.
 
-The sessions are hosted by Michael Friedrich. Developer Evangelism team members are assigned as alternative hosts in Zoom. The meetups are hosted in Zoom with a waiting room as default, the Zoom URL is hidden in the meetup group event. team members can access the URL in the [Developer Evangelism team calendar](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/). For joining the group, users need a profile picture and provide their name for joining an event. This is to protect against Zoom bombing and otherwise harmful intentions. 
+The sessions are hosted by Michael Friedrich. Developer Evangelism team members are assigned as alternative hosts in Zoom. The meetups are hosted in Zoom with a waiting room as default, the Zoom URL is hidden in the meetup group event. team members can access the URL in the [Developer Evangelism team calendar](/handbook/marketing/developer-relations/developer-evangelism/). For joining the group, users need a profile picture and provide their name for joining an event. This is to protect against Zoom bombing and otherwise harmful intentions. 
 
 Next to Zoom, everyone can hangout with text or audio in [Discord](https://everyonecancontribute.com/page/handbook/#discord).
 

@@ -80,7 +80,7 @@ BA/BS degree, MBA or other related advanced degree preferred
 
 ## Performance Indicators
 
-- [Total number of SAOs by month](https://about.gitlab.com/handbook/marketing/performance-indicators/#total-number-of-mqls-by-month)
+- [Total number of SAOs by month](/handbook/marketing/performance-indicators/#total-number-of-mqls-by-month)
 - INQ to SAO conversion rate
 - Marketing influenced pipeline
 

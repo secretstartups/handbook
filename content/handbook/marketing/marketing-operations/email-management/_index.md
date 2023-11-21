@@ -14,22 +14,22 @@ description: "Email database management is a core responsibility for MktgOps. En
 
 Email database management is a core responsibility for MktgOps. Ensuring GitLab is following email best practices, in compliance with Global spam laws and overall health of active database are all priorities.
 
-Email creation and email nurture programs are managed by the Campaigns Team. To learn more about GitLab email communication or request an email, please see the [Emails/Nurture Handbook](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/) in the demand generation section of the handbook.
+Email creation and email nurture programs are managed by the Campaigns Team. To learn more about GitLab email communication or request an email, please see the [Emails/Nurture Handbook](/handbook/marketing/lifecycle-marketing/emails-nurture/) in the demand generation section of the handbook.
 
-All emails sent should be updated in the [FY23 All-Marketing SSOT Calendar](https://about.gitlab.com/handbook/marketing/#marketing-calendar-inputs)
+All emails sent should be updated in the [FY23 All-Marketing SSOT Calendar](/handbook/marketing/#marketing-calendar-inputs)
 
 ### Types of Email
 
 **Emergency / Security Incidents**
 These are transactional emails, almost always to our user base, that provide very selective needed information. This is an `operational` email that overrides the unsubscribe and would not need to comply with marketing email opt-out. 
 
-It is very important to have Engineering and/or Product team (whoever is requesting this type of email) help us narrow these announcements to the people that actually should be warned or notified, so we are communicating to a very specific focused list. The email platform the send will come from will be determined by a few different factors, but mainly list size. If you need to request an email like this, use this the `incident_communications` [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications) and reference [this section](https://about.gitlab.com/handbook/marketing/marketing-operations/).
+It is very important to have Engineering and/or Product team (whoever is requesting this type of email) help us narrow these announcements to the people that actually should be warned or notified, so we are communicating to a very specific focused list. The email platform the send will come from will be determined by a few different factors, but mainly list size. If you need to request an email like this, use this the `incident_communications` [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications) and reference [this section](/handbook/marketing/marketing-operations/).
 
 **Non-Demand Generation**
-Emails that are not cosidered `operational` but also do not fit the categories below. Usage example: GitLab Hosted billing change, Release update 9.0.0 changes, GitLab Page change and Old CI Runner clients. If you need a non-dg email, please use [follow directions below](https://about.gitlab.com/handbook/marketing/marketing-operations/email-management/#request-non-demand-generation-emails)
+Emails that are not cosidered `operational` but also do not fit the categories below. Usage example: GitLab Hosted billing change, Release update 9.0.0 changes, GitLab Page change and Old CI Runner clients. If you need a non-dg email, please use [follow directions below](/handbook/marketing/marketing-operations/email-management/#request-non-demand-generation-emails)
 
 **Newsletter**
-The newsletter is a collaboration between the Content Team and the Campaigns Team. [Learn more here!](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-processes-requests/#newsletter) Users can [subscribe to the newsletter](/handbook/company/contact/) on the website.
+The newsletter is a collaboration between the Content Team and the Campaigns Team. [Learn more here!](/handbook/marketing/lifecycle-marketing/email-processes-requests/#newsletter) Users can [subscribe to the newsletter](/handbook/company/contact/) on the website.
 
 **Security Releases**
 Sent on an as needed basis containing important information about any security patches, identified vulnerabilities, etc. related to the GitLab platform. These emails are purely text based and again are transactional in nature.  Users can [subscribe to security notices](/handbook/company/contact/#security-notices) on the GitLab Contact us page.
@@ -79,10 +79,10 @@ We have a Marketo enforced limit on how many emails a single address can receive
 
 The email limits are not set in campaign templates, however, if your email is set to send to more than 20,000 people, you must include a filter for `Not Sent Email in last 2 Days`.
 
-Please reference and use the [All-Marketing SSOT Calendar](https://about.gitlab.com/handbook/marketing/#marketing-calendar-inputs) to see other sends happening around the same time.
+Please reference and use the [All-Marketing SSOT Calendar](/handbook/marketing/#marketing-calendar-inputs) to see other sends happening around the same time.
 
 ## Request non-Demand Generation Emails
-Non-DG emails are sometimes required for product updates, security alerts, survey emails and more. If this is an emergency, follow the directions [here](https://about.gitlab.com/handbook/marketing/emergency-response/#marketing-emergency-response) Otherwise, please [visit this page for more information](https://about.gitlab.com/handbook/marketing/marketing-operations/email-management/operational-email-sends/)
+Non-DG emails are sometimes required for product updates, security alerts, survey emails and more. If this is an emergency, follow the directions [here](/handbook/marketing/emergency-response/#marketing-emergency-response) Otherwise, please [visit this page for more information](/handbook/marketing/marketing-operations/email-management/operational-email-sends/)
 
 
 
@@ -96,7 +96,7 @@ Emails that contain mostly marketing or promotional content like newsletters, ev
 
 
 ## How to Unsubscribe
-If a person asks a team member to remove them from email marketing from GitLab, the team member can take a few different steps stated below. If a person unsubscribes, they may still receive [operational emails](https://about.gitlab.com/handbook/marketing/marketing-operations/email-management/#operational--bypass-unsubscribe) related to their account.
+If a person asks a team member to remove them from email marketing from GitLab, the team member can take a few different steps stated below. If a person unsubscribes, they may still receive [operational emails](/handbook/marketing/marketing-operations/email-management/#operational--bypass-unsubscribe) related to their account.
 1. Send the person to the [Email Subscription Center](/handbook/company/preference-center/index.html) to update their preferences
 1. Send the person to the unsubscribe page (https://page.gitlab.com/UnsubscribePage.html) to unsubscribe from ALL communication
 1. On the person's SFDC record, check the `email opt out` box, which will then update the unsubscribe checkbox in Marketo and Outreach.

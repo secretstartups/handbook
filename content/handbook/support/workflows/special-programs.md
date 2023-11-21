@@ -6,11 +6,11 @@ description: Instructions for redirecting community programs subscription inquir
 
 GitLab offers several programs to help introduce GitLab's most powerful features to communities who may not otherwise have the means to access them. These include:
 
-- [GitLab for Education](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/)
-- [GitLab for Open Source](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/opensource-program/)
-- [GitLab for Startups](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/startups-program/)
+- [GitLab for Education](/handbook/marketing/developer-relations/community-programs/education-program/)
+- [GitLab for Open Source](/handbook/marketing/developer-relations/community-programs/opensource-program/)
+- [GitLab for Startups](/handbook/marketing/developer-relations/community-programs/startups-program/)
 
-[The Community Programs team](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/) is the DRI for these programs.
+[The Community Programs team](/handbook/marketing/developer-relations/community-programs/) is the DRI for these programs.
 
 For registered non-profit organizations, GitLab also offers discounts. Contact GitLab's [Environmental, Social, and Governance (ESG) team](https://about.gitlab.com/handbook/legal/ESG/#faq) for more information regarding this program.
 
@@ -77,7 +77,7 @@ For enquiries relating to specific programs (that aren't otherwise handled by th
 
 ## Troubleshooting
 
-GitLab's Community Programs team processess program applications according to [an automated workflow](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/). Review the handbook pages related to that workflow for additional details on how it works.
+GitLab's Community Programs team processess program applications according to [an automated workflow](/handbook/marketing/developer-relations/community-programs/automated-community-programs/). Review the handbook pages related to that workflow for additional details on how it works.
 
 To troubleshoot errors during the registration process, follow the [Troubleshoot Errors While Making Purchases on CustomersDot document](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases.html#getting-error-message-from-sentry).
 

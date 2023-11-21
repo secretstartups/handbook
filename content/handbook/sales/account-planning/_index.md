@@ -47,7 +47,7 @@ There are two types of Account Plans, one for Land and one for Expand. The Land 
 
 ### Land Account Plans
 
-Choose the "Land Account Plan" template in Gainsight. The team will not have as much information for this type of plan, but [Demandbase](https://about.gitlab.com/handbook/marketing/account-based-marketing/demandbase/) has a wealth of information to help the team strategically approach the prospect.
+Choose the "Land Account Plan" template in Gainsight. The team will not have as much information for this type of plan, but [Demandbase](/handbook/marketing/account-based-marketing/demandbase/) has a wealth of information to help the team strategically approach the prospect.
 
 ### Expand Account plans
 

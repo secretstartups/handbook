@@ -99,7 +99,7 @@ At GitLab we have access to valuable resources that help inform, validate and ev
 
 A brief overview of some of the most valuable resources and assets that are utilized as part of the cyclical keyword planning stage.
 
-1. [**Product and Solution Marketing**](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/#some-key-resources) - linking with a member of the team and accessing their wealth of information and research resources provides exceptional insight into our customers allowing for up to date targeting using customer focus language and needs.
+1. [**Product and Solution Marketing**](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/#some-key-resources) - linking with a member of the team and accessing their wealth of information and research resources provides exceptional insight into our customers allowing for up to date targeting using customer focus language and needs.
 
 1. [**Key personas &amp; pain points**](/handbook/product/personas/) - user persona research assists in the identification of possible keyword targets for a specific audience based on their requirements, motivations and pain points. As a resource, this is excellent for establishing problem solving keyword targets for specific segments.
 

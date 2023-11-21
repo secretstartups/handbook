@@ -11,7 +11,7 @@ title: "Keeping Yourself Informed"
 
 ## Communications within Product and Solution  Marketing
 
-As a distributed organization, GitLab and [our Product and Solution Marketing department and teams](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) use [asynchronous](/handbook/people-group/employment-branding/people-communications/), [transparent](/handbook/values/#transparency), [frequent](/handbook/values/#iteration), and [multimodal communication](/handbook/communication/#multimodal-communication) to keep ourselves informed.
+As a distributed organization, GitLab and [our Product and Solution Marketing department and teams](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) use [asynchronous](/handbook/people-group/employment-branding/people-communications/), [transparent](/handbook/values/#transparency), [frequent](/handbook/values/#iteration), and [multimodal communication](/handbook/communication/#multimodal-communication) to keep ourselves informed.
 
 Our most important communication channels are issues, boards, and GitLab itself, followed by [this handbook](/handbook/), Slack, Zoom, and other tools. See [the general GitLab Communication page](/handbook/communication/) and [Tools and Tips](/handbook/tools-and-tips/) for more information.
 
@@ -19,7 +19,7 @@ Below are the parts of GitLab and Slack that are used most in Product and Soluti
 
 ### GitLab trackers, boards, handbook, etc.
 
-Copy in from [/product-marketing](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/).
+Copy in from [/product-marketing](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/).
 
 ### Slack channels
 

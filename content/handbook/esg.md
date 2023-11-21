@@ -188,11 +188,11 @@ As we look toward FY24, we will continue to iterate on our programs, our metrics
 
 (UN SDG #8)
 
-From the beginning, GitLab has been an [open source project](/handbook/company/stewardship/#:~:text=GitLab%20is%20open%20core%20built,Source%20As%20Part%20Of%20GitLab.) made possible by contributions from the [community](https://about.gitlab.com/handbook/marketing/community-relations/community-pathway/#how-community-fits-into-gitlabs-strategy). Our active worldwide community has been fundamental to the transparency of GitLab helping to build trust in the product, as decisions, changes, and the overall direction of the open source project are open for everyone to see.
+From the beginning, GitLab has been an [open source project](/handbook/company/stewardship/#:~:text=GitLab%20is%20open%20core%20built,Source%20As%20Part%20Of%20GitLab.) made possible by contributions from the [community](/handbook/marketing/community-relations/community-pathway/#how-community-fits-into-gitlabs-strategy). Our active worldwide community has been fundamental to the transparency of GitLab helping to build trust in the product, as decisions, changes, and the overall direction of the open source project are open for everyone to see.
 
 Contributors to GitLab, the platform and the company, make up the GitLab community and are a critical part of GitLab’s strategy and mission to make it so that everyone can contribute.
 
-Our work with the wider community goes beyond code and can include blog posts, documentation, discussions on forums/social media, meetups, presentations, translations, collaboration on UX design, and more. The [Community Relations Team](https://about.gitlab.com/handbook/marketing/community-relations/) works with our GitLab community to ensure that all receive support and recognition for contributing to GitLab.
+Our work with the wider community goes beyond code and can include blog posts, documentation, discussions on forums/social media, meetups, presentations, translations, collaboration on UX design, and more. The [Community Relations Team](/handbook/marketing/community-relations/) works with our GitLab community to ensure that all receive support and recognition for contributing to GitLab.
 
 We also support community programs aimed at organizations that align with our [values]({{< ref values >}}). We strive to help these organizations grow and thrive by putting GitLab’s most powerful features in the hands of communities that may not otherwise have the means to access them. Each program is unique in its organization and execution; however, in general, community programs offer GitLab customers benefits such as:
 
@@ -202,9 +202,9 @@ We also support community programs aimed at organizations that align with our [v
 
 GitLab community programs
 
-- The [GitLab for Education](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/education-program/) program's mission is to facilitate and drive the adoption of GitLab at educational institutions around the globe and to build an engaged community of GitLab evangelists and contributors in the next generation of the workforce. As of January 2023, the GitLab for Education program has over 3 million seats of GitLab’s top-tier subscription plan at over 1,000 educational institutions in more than 65 countries.
+- The [GitLab for Education](/handbook/marketing/community-relations/community-programs/education-program/) program's mission is to facilitate and drive the adoption of GitLab at educational institutions around the globe and to build an engaged community of GitLab evangelists and contributors in the next generation of the workforce. As of January 2023, the GitLab for Education program has over 3 million seats of GitLab’s top-tier subscription plan at over 1,000 educational institutions in more than 65 countries.
 - The [GitLab for Open Source](https://about.gitlab.com/solutions/open-source/) program supports GitLab's mission to make the world a place where anyone can contribute. We help make GitLab the best place for open source projects to grow and thrive.
-- The [GitLab for Startups](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/startups-program/) program launched early in 2023 and helps qualifying startups get access to our top tiers for free or at a deep discount for up to two years.
+- The [GitLab for Startups](/handbook/marketing/community-relations/community-programs/startups-program/) program launched early in 2023 and helps qualifying startups get access to our top tiers for free or at a deep discount for up to two years.
 
 
 *“Community is core to who we are and what we do. Our mission is to help these communities experience GitLab’s vision of a world where everyone can contribute.”*
@@ -291,7 +291,7 @@ Over the last few years, GitLab has continued to hold the [ISO/IEC 27001:2013](/
 
 GitLab's [product mission](/handbook/product-development-flow/) is to consistently create products and experiences that users love and value. Responsible product development is integral to this mission.
 
-We are committed to secure and ethical operations as an organization and, beyond that, strive to set an example by empowering our wider GitLab [community](https://about.gitlab.com/handbook/marketing/developer-relations/community-pathway/#how-community-fits-into-gitlabs-strategy) to build and work with the highest levels of security through our DevSecOps platform.
+We are committed to secure and ethical operations as an organization and, beyond that, strive to set an example by empowering our wider GitLab [community](/handbook/marketing/developer-relations/community-pathway/#how-community-fits-into-gitlabs-strategy) to build and work with the highest levels of security through our DevSecOps platform.
 
 Artificial Intelligence (AI) marks a big industry shift that will make it easier to develop, secure and operate software. GitLab infuses AI throughout the software development lifecycle by incorporating it into our comprehensive enterprise DevSecOps platform. We lead with a customer-centric approach focused on privacy first, helping customers secure their intellectual property.
 

@@ -9,7 +9,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 
 This page details processes for the Chief Marketing Officer at GitLab, including review and approval requests, communication guidelines, and information-sharing best practices.
 
-Learn more about GitLab's Chief Marketing and Strategy Officer [Ashley Kramer](/handbook/company/team/#akramer) in [her README](https://about.gitlab.com/handbook/marketing/readmes/ashley-kramer.html).
+Learn more about GitLab's Chief Marketing and Strategy Officer [Ashley Kramer](/handbook/company/team/#akramer) in [her README](/handbook/marketing/readmes/ashley-kramer.html).
 
 ## Communication guidelines
 

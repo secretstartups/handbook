@@ -35,7 +35,7 @@ The Director, Marketing Operations is a [grade 10](/handbook/total-rewards/compe
 - Excellent planning, organizational and project management skills
 - Demonstrated experience designing an innovative marketing technology stack.
 - Proven experience with change management and organizational transformation
-- Familiarity with [our tech stack](https://about.gitlab.com/handbook/marketing/marketing-operations/#-tech-stack) is a strong plus
+- Familiarity with [our tech stack](/handbook/marketing/marketing-operations/#-tech-stack) is a strong plus
 - BA or equivalent experience
 - [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 - Ability to use GitLab

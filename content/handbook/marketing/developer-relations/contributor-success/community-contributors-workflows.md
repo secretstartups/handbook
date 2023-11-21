@@ -38,7 +38,7 @@ Wider community merge requests are MRs opened by a person that's not present on 
   - [Learn more about the cadence and conditions for this automation](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#label-community-contributions).
 - The `1st contribution` label is added to first-time contributions. Every time a contributor is opening a merge request under the `gitlab-org` namespace for the first time, the label `1st contribution` is automatically applied to the merge request.
   - You can see the list of MRs in [`gitlab-org` list of merge requests](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name%5B%5D=1st+contribution).
-  - [First-time contributors](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#first-time-contributors) are also awarded a gift as our way to say thanks.
+  - [First-time contributors](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#first-time-contributors) are also awarded a gift as our way to say thanks.
 
 ### Triage reports
 
@@ -69,7 +69,7 @@ There is also the [`#mr-coaching`](https://gitlab.slack.com/archives/C2T9APP9C) 
 members have any questions related to community contributions.
 
 More information on merge request coaches (including how to become a merge request coach) can be found in the
-[MR coach lifecycle page](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/merge-request-coach-lifecycle.html).
+[MR coach lifecycle page](/handbook/marketing/developer-relations/contributor-success/merge-request-coach-lifecycle.html).
 
 ## Contributing to the GitLab Enterprise Edition (EE)
 
@@ -123,21 +123,21 @@ Adding a new corporate group under this namespace is as follows:
 
 ### How do I add an organization or a user to an organization?
 
-* Navigate to the [Contributing Org Tracker](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker.html).
+* Navigate to the [Contributing Org Tracker](/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker.html).
 * Go to the **MRARR Organization** tab.
 * If a user is not listed here, you can add it to the respective row, or add a new
 row at the bottom with the same structure.
 
 ### How do I enable the Leading Organizations program benefits for organizations
 
-* Navigate to the [Contributing Org Tracker](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker.html).
+* Navigate to the [Contributing Org Tracker](/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker.html).
 * Go to the **Leading Organization** tab.
 * Add the organization to the list with the exact same name as found in the **MRARR Organization** tab.
 * Make sure you enter an entry date & current MR count from the last 3 months so we can look back and understand their performance over time.
 
 ### How do I stop the Leading Organizations program benefits for organizations
 
-* Navigate to the [Contributing Org Tracker](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker.html).
+* Navigate to the [Contributing Org Tracker](/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker.html).
 * Go to the **Leading Organization** tab.
 * Enter the exit date next to the respective organization that should no longer receive the benefits.
 
@@ -145,7 +145,7 @@ Caution: If an organization reaches the threshold it will be auto-enrolled in th
 
 ## GitLab MVP Selection Process
 
-See [GitLab MVP Selection Process](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/mvp-process.html).
+See [GitLab MVP Selection Process](/handbook/marketing/developer-relations/contributor-success/mvp-process.html).
 
 ## Contributor Thanks messages
 
@@ -213,7 +213,7 @@ To generate the external community message:
   - Open floor for the community to bring topics
 - Include instructions on how to join
   - Link to zoom (or any other video platform)
-- Add the event to the [Developer Evangelism calendar](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/calendar). If you are not a GitLab Team Member, ask a member of the [Developer Relations](https://about.gitlab.com/handbook/marketing/developer-relations/) team to add the event to the calendar.
+- Add the event to the [Developer Evangelism calendar](/handbook/marketing/developer-relations/developer-evangelism/calendar). If you are not a GitLab Team Member, ask a member of the [Developer Relations](/handbook/marketing/developer-relations/) team to add the event to the calendar.
 - Follow the instructions below for social support or open a request at the [Code Contributor's planning repo](https://gitlab.com/gitlab-com/marketing/community-relations/contributor-program/general/issues/new?issuable_template=event-support-request).
 
 ### Social
@@ -238,7 +238,7 @@ GitLab teams are encouraged to use the following [Hackathon issue template](http
 
 ### Virtual hackathons/hackathon-in-a-box
 
-We also encourage wider community members to organize events to encourage and support new contributors to GitLab. This could be done as a part of in-person or virtual [GitLab meetups](https://about.gitlab.com/handbook/marketing/developer-relations/evangelist-program/#meetups).
+We also encourage wider community members to organize events to encourage and support new contributors to GitLab. This could be done as a part of in-person or virtual [GitLab meetups](/handbook/marketing/developer-relations/evangelist-program/#meetups).
 
 If wider community members are interested in including a hackathon as a part of a meetup, ask them to include this information when they open a [meetup issue](https://gitlab.com/gitlab-com/marketing/community-relations/evangelist-program/general/issues/new?issuable_template=meetup-organizer). Contributor Success team members will get in touch with the organizer and provide the necessary resources to support the event.
 
@@ -250,14 +250,14 @@ To facilitate communication between the wider community and GitLab team members,
 
 Calls will be open to everyone and recordings will be posted after the call. See examples of past office hours from [this playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrXZEInAfyddFlalvwaxL-I). To make it easier for the community to find the videos, each stage should create their own office hours playlist and link to it from their handbook page.
 
-All the community office hour calls should be added to the [Developer Evangelism calendar](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/#-team-calendar) and [meetup.com group](https://www.meetup.com/gitlab-virtual-meetups/).
+All the community office hour calls should be added to the [Developer Evangelism calendar](/handbook/marketing/developer-relations/developer-evangelism/#-team-calendar) and [meetup.com group](https://www.meetup.com/gitlab-virtual-meetups/).
 
 #### How to organize a community office hour call
 
 **Preparation**
 - Once you have a finalized date and time, add it to:
   - the [meetup.com group](https://www.meetup.com/gitlab-virtual-meetups/) (meetup.com account available at your GitLab's 1Password vault)
-  - the [developer evangelism calendar](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/#-team-calendar)
+  - the [developer evangelism calendar](/handbook/marketing/developer-relations/developer-evangelism/#-team-calendar)
 - Update [the office hour running notes doc](https://docs.google.com/document/d/18ddf5d5xASImrYnAG9P8VJXe0I63SBXy7ufDBBNB5H4/edit#) with the Zoom URL and call details
 - Announce it [on Discord](https://discord.gg/gitlab)
 - Tweet about it, [tagging GitLab](https://twitter.com/gitlab)
@@ -278,7 +278,7 @@ All the community office hour calls should be added to the [Developer Evangelism
 To encourage contribution to priority issues on an on-going basis (and not just during Hackathons), we will maintain a list of up to 5 priority issues for each [product stage](/handbook/product/categories/) and prizes will be given to wider community members who have MRs merged for these issues. These issues will have the label [`Community challenge`](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=Community+challenge) and more details such as prizes, assignment of these issues, etc.
 
 ### Community Newsletter
-We run a [Community Newsletter](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/#community-newsletter) to share developer-focused content, alert community members about upcoming events, and keep contributors engaged. The focus of the newsletter is on driving contributions and engagement. It will not be used to generate or nurture leads and allow us to connect with and share our community's contributions.
+We run a [Community Newsletter](/handbook/marketing/developer-relations/developer-evangelism/#community-newsletter) to share developer-focused content, alert community members about upcoming events, and keep contributors engaged. The focus of the newsletter is on driving contributions and engagement. It will not be used to generate or nurture leads and allow us to connect with and share our community's contributions.
 
 #### Issues for new contributors
 
@@ -316,12 +316,12 @@ The first-time contributors can be identified after each release in the [First t
 
 Every time a contributor is opening a merge request to a GitLab namespace for the first time, the label "~1st contribution" is automatically applied to the merge request.
 
-Once the merge request is reviewed and merged, the contributor can apply for the `#myfirstMRmerged` gift via a self-nomination form on the [nominations for GitLab swag page](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-appreciation/#nomination-process).
+Once the merge request is reviewed and merged, the contributor can apply for the `#myfirstMRmerged` gift via a self-nomination form on the [nominations for GitLab swag page](/handbook/marketing/developer-relations/contributor-success/community-appreciation/#nomination-process).
 
-Contributor Success team members can use the [outreach email/message template](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/templates/email-templates.html) when sending the link for the first-time contributor gift.
+Contributor Success team members can use the [outreach email/message template](/handbook/marketing/developer-relations/contributor-success/templates/email-templates.html) when sending the link for the first-time contributor gift.
 
 ### Working with the Core Team
-More information on the [Core Team](/community/core-team/) is available in the [Core Team handbook page](https://about.gitlab.com/handbook/marketing/developer-relations/core-team/).
+More information on the [Core Team](/community/core-team/) is available in the [Core Team handbook page](/handbook/marketing/developer-relations/core-team/).
 
 ### For contributors who don't own a credit card
 
@@ -346,7 +346,7 @@ Here are some ways to reach out to contributors to e.g. distribute Hackathon pri
 - A user might have e-mail or Twitter info on their GitLab profile. Sometimes users have the same username in other platforms (e.g. GitHub), and might have more information on their profiles there.
 - Their e-mail address is stored in their git commits, unless they choose to use a [private commit e-mail](https://docs.gitlab.com/ee/user/profile/index.html#private-commit-email).
 
-If you need assistance finding a contributor's email address please see [Finding Community Member Contact Information](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-appreciation/#finding-community-member-contact-information)
+If you need assistance finding a contributor's email address please see [Finding Community Member Contact Information](/handbook/marketing/developer-relations/contributor-success/community-appreciation/#finding-community-member-contact-information)
 
 Once you've found out the best way to contact them, you can choose to use a mention, e-mail or Twitter for instance.
 
@@ -354,13 +354,13 @@ Once you've found out the best way to contact them, you can choose to use a ment
 
 Goal is to publish a regular blog post featuring contributors from the community.  The format will be a [casual Q&A with a community member](https://about.gitlab.com/blog/2018/08/08/contributor-post-vitaliy/) and will be posted on the [GitLab blog page](https://about.gitlab.com/blog/).
 
-When developing a blog post, follow the [blog guidelines](https://about.gitlab.com/handbook/marketing/blog/).
+When developing a blog post, follow the [blog guidelines](/handbook/marketing/blog/).
 
 ## Recognition for contributors
 
 ### Appreciation for highlighted contributions
 
-From time to time, a wider community member will submit a particularly outstanding contribution. Other than thanking them on the MR, we might want to additionally show our appreciation by sending them some GitLab merchandise. Anyone in the GitLab team or in the wider community can follow the process to [nominate a contributor](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-appreciation/).
+From time to time, a wider community member will submit a particularly outstanding contribution. Other than thanking them on the MR, we might want to additionally show our appreciation by sending them some GitLab merchandise. Anyone in the GitLab team or in the wider community can follow the process to [nominate a contributor](/handbook/marketing/developer-relations/contributor-success/community-appreciation/).
 
 ### Top Annual Contributors
 
@@ -373,7 +373,7 @@ In order to recognize regular contributors, the list of top contributors for eac
 Customized GitLab merchandise will be created for these contributors and will be available on Printfection. For GitLab team members, you can follow the steps below to get the awards to the wider community members.
 
 1. Login to Printfection using the credentials in 1Password.
-1. Under `Campaigns`, go to `Giveaways` and create a new `GIVEAWAY CAMPAIGN` (you may need to [create a new `Kit`](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#sending-gift-cards) under the `Merchandise` tab if you want to include more than one item).
+1. Under `Campaigns`, go to `Giveaways` and create a new `GIVEAWAY CAMPAIGN` (you may need to [create a new `Kit`](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#sending-gift-cards) under the `Merchandise` tab if you want to include more than one item).
 1. Add the item/kit to the campaign.
 1. Generate Giveaway links for each contributors.
 1. Include the Giveaway link in the individual email to the Top Annual Contributors.
@@ -382,7 +382,7 @@ Customized GitLab merchandise will be created for these contributors and will be
 
 In an effort to understand, support, and empower the GitLab code contributor community, we have come up with the following lifecycle segments.
 
-These lifecycle segments are assigned on an individual user level. For organizational recognition, see [Leading Organizations](https://about.gitlab.com/handbook/marketing/developer-relations/leading-organizations/).
+These lifecycle segments are assigned on an individual user level. For organizational recognition, see [Leading Organizations](/handbook/marketing/developer-relations/leading-organizations/).
 
 | Contributor Experience level | MRs merged
 | ------ | ------ |
@@ -439,7 +439,7 @@ Internally, GitLab uses [SiSense](/handbook/business-technology/data-team/platfo
 | Dashboard | Description |
 | --- | --- |
 | [Wider Community Dashboard](https://app.periscopedata.com/app/gitlab/593556/Wider-Community-Dashboard) | Metrics associated to contributors (people) and organizations |
-| [Community Contributions KPI](https://app.periscopedata.com/app/gitlab/729542/Community-Contributions-KPI) | Metrics associated to [Developer Relations KPIs](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#unique-community-contributors-per-month) (like unique contributors per month, etc) |
+| [Community Contributions KPI](https://app.periscopedata.com/app/gitlab/729542/Community-Contributions-KPI) | Metrics associated to [Developer Relations KPIs](/handbook/marketing/developer-relations/performance-indicators/#unique-community-contributors-per-month) (like unique contributors per month, etc) |
 | [Wider Community Contribution Dashboard](https://app.periscopedata.com/app/gitlab/833190/Wider-Community-Contribution-Dashboard) | Metrics associated to community contributions, including time to triage, [MRARR](https://about.gitlab.com/handbook/engineering/performance-indicators/#mrarr) forecast for merging month, etc |
 
 

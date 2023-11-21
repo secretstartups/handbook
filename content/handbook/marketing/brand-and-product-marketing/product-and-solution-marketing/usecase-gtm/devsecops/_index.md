@@ -385,7 +385,7 @@ GitLab customer, Arctic Engine, [shares their experience](https://about.gitlab.c
 
 ### References to help you close
 
-[SFDC report of referenceable secure customers](https://gitlab.my.salesforce.com/a6l4M000000kDw2) Note: Sales team members should have access to this report. If you do not have access, reach out to the [customer reference team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact) for assistance.
+[SFDC report of referenceable secure customers](https://gitlab.my.salesforce.com/a6l4M000000kDw2) Note: Sales team members should have access to this report. If you do not have access, reach out to the [customer reference team](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact) for assistance.
 
 ## Adoption Guide
 
@@ -463,7 +463,7 @@ GitLab offers a [variety of pre-packaged and custom services](https://about.gitl
 - [Ungated](https://drive.google.com/file/d/0B-ZpQfvLs-2AVFI5VmNybTBvWWttRWxENWpGVnlNbVBFODNZ/view?usp=sharing)
 
 ### Integration with third party commercial scanners
-- [WhiteSource](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/security-integrations-whitesource/)
+- [WhiteSource](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/security-integrations-whitesource/)
 
 ### Blogs
 - [How application security engineers can use GitLab to secure their projects](https://about.gitlab.com/blog/2020/07/07/secure-stage-for-appsec/)
@@ -474,8 +474,8 @@ GitLab offers a [variety of pre-packaged and custom services](https://about.gitl
 - See how [integration is the key to successful DevSecOps](https://about.gitlab.com/blog/2018/09/11/what-south-africa-taught-me-about-cybersecurity/)
 
 ### Clickthrough & Live Demos
-- [All Marketing Click Through Demos](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#click-throughs)
-- [All Marketing Live Demos](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#live-instructions)
+- [All Marketing Click Through Demos](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#click-throughs)
+- [All Marketing Live Demos](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#live-instructions)
 
 ### Roadmap
 - [Secure and Govern Roadmap](https://docs.google.com/presentation/d/1XcOmwUvaSEYhj87dvHj05l3t-JuBEcLaFdhSEDvX4EY/edit#slide=id.g1364cbe562a_0_269)

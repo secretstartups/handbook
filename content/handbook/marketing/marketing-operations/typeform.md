@@ -32,7 +32,7 @@ When you're creating your embed code, make sure to choose the ["standard" size](
 
 - [How to build a Typeform](https://help.typeform.com/hc/en-us/articles/360053660271-My-first-typeform-)
 - [How to generate a Typeform embed code](https://help.typeform.com/hc/en-us/articles/360029249212-Embed-your-typeform)
-- [Typeform landing pages with Netlify CMS](https://about.gitlab.com/handbook/marketing/netlifycms/#typeform-landing-pages)
+- [Typeform landing pages with Netlify CMS](/handbook/marketing/netlifycms/#typeform-landing-pages)
 
 ### Data Deletion Process 
 

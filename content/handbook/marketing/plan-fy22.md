@@ -13,7 +13,7 @@ twitter_creator: '@gitlab'
 
 
 ## Looking for FY23?
-To view the FY23 Marketing Plan, go here: [https://about.gitlab.com/handbook/marketing/plan-fy23/](https://about.gitlab.com/handbook/marketing/plan-fy23/)
+To view the FY23 Marketing Plan, go here: [https://about.gitlab.com/handbook/marketing/plan-fy23/](/handbook/marketing/plan-fy23/)
 
 ## Overview FY22 Marketing Plan
 {: #overview .gitlab-purple}
@@ -98,24 +98,24 @@ On a monthly cadence, the **Marketing Key Review** will be used as the venue for
 {: #budgets}
 
 <!-- DO NOT CHANGE ANCHOR -->
-All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Allocadia handbook page](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/) for more details on the tool.
+All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Allocadia handbook page](/handbook/marketing/strategy-performance/allocadia/) for more details on the tool.
 
 ### Glossary of terminology
 {: #glossary}
 
 <!-- DO NOT CHANGE ANCHOR -->
 
-- <b>[GTM Motion](https://about.gitlab.com/handbook/marketing/plan-fy22/#gtm-motions)</b>: a set of sales and marketing activities and asssets centered around a [use case solution](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/).
-- <b>[GTM Motion Core Team](https://about.gitlab.com/handbook/marketing/plan-fy22/#core-teams)</b>: a group of marketers as functional DRIs for specific GTM strategies, campaigns, and aligned Sales Plays
-- <b>[Theme](https://about.gitlab.com/handbook/marketing/plan-fy22/#themes)</b>: time-bound "push" in marketing calendar (example: focus on Partner Showcase in a specific month)
-- <b>[Solution GTM Strategy](https://about.gitlab.com/handbook/marketing/plan-fy22/#solution-gtm-strategy)</b>: a document that describes what problem the solution solves for customers, buyer personas, messaging, positioning, and relevant competitive points. This doc is used to inform content for the Sales Play (sales audience) and the GTM Motion campaign (marketing audience).
-- <b>[Sales Play](https://about.gitlab.com/handbook/marketing/plan-fy22/#sales-plays)</b>: A repeatable set of steps a sales rep can take to drive revenue. The Sales Play document includes background information such as which company profiles and personas to target, messaging and positioning, and resources to utilize along with the specific steps to take. 
-- <b>[GTM Motion Campaign](https://about.gitlab.com/handbook/marketing/plan-fy22/#gtm-motion-campaign)</b>: campaign briefing document used to communicate relevant info to internal and external marketing teams to generate demand for solutions (aka GTM Motions) (aligned to sales playbooks).
-- <b>[GTM 4x2](https://about.gitlab.com/handbook/marketing/plan-fy22/#gtm-4x2)</b>: document used to ensure that sales and marketing are aligned on all aspects of the strategy for different market segments
-- <b>[Prescriptive Buyer Journey](https://about.gitlab.com/handbook/marketing/prescriptive-buyer-journeys/)</b>: content aligned to buyer journey stages, leveraged in email nurture, digital marketing, and more
-- <b>[Project Compass](https://about.gitlab.com/handbook/marketing/plan-fy22/#project-compass)</b>:
+- <b>[GTM Motion](/handbook/marketing/plan-fy22/#gtm-motions)</b>: a set of sales and marketing activities and asssets centered around a [use case solution](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/).
+- <b>[GTM Motion Core Team](/handbook/marketing/plan-fy22/#core-teams)</b>: a group of marketers as functional DRIs for specific GTM strategies, campaigns, and aligned Sales Plays
+- <b>[Theme](/handbook/marketing/plan-fy22/#themes)</b>: time-bound "push" in marketing calendar (example: focus on Partner Showcase in a specific month)
+- <b>[Solution GTM Strategy](/handbook/marketing/plan-fy22/#solution-gtm-strategy)</b>: a document that describes what problem the solution solves for customers, buyer personas, messaging, positioning, and relevant competitive points. This doc is used to inform content for the Sales Play (sales audience) and the GTM Motion campaign (marketing audience).
+- <b>[Sales Play](/handbook/marketing/plan-fy22/#sales-plays)</b>: A repeatable set of steps a sales rep can take to drive revenue. The Sales Play document includes background information such as which company profiles and personas to target, messaging and positioning, and resources to utilize along with the specific steps to take. 
+- <b>[GTM Motion Campaign](/handbook/marketing/plan-fy22/#gtm-motion-campaign)</b>: campaign briefing document used to communicate relevant info to internal and external marketing teams to generate demand for solutions (aka GTM Motions) (aligned to sales playbooks).
+- <b>[GTM 4x2](/handbook/marketing/plan-fy22/#gtm-4x2)</b>: document used to ensure that sales and marketing are aligned on all aspects of the strategy for different market segments
+- <b>[Prescriptive Buyer Journey](/handbook/marketing/prescriptive-buyer-journeys/)</b>: content aligned to buyer journey stages, leveraged in email nurture, digital marketing, and more
+- <b>[Project Compass](/handbook/marketing/plan-fy22/#project-compass)</b>:
 - <b>[LAM](https://about.gitlab.com/handbook/sales/sales-term-glossary/)</b>: Landed Addressable Market; annual revenue opportunity of the entirety of GitLab's market within our current customer base
-- <b>[ICP](https://about.gitlab.com/handbook/marketing/account-based-marketing/ideal-customer-profile/)</b>: Ideal Customer Profile; description of our "perfect" customer company, taking into consideration firmographic, environmental and additional factors to develop our focus list of highest value accounts
+- <b>[ICP](/handbook/marketing/account-based-marketing/ideal-customer-profile/)</b>: Ideal Customer Profile; description of our "perfect" customer company, taking into consideration firmographic, environmental and additional factors to develop our focus list of highest value accounts
 - **FIT Score**: a mathematical representation of how well a prospective customer fits within your ICP (ideal customer profile)
 
 ## GTM Motions
@@ -126,7 +126,7 @@ Based on discussions with Sales and Marketing leadership, feedback from Product 
 
 To view the GTM Motions Googlesheet, please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `GTM Motions FY22 Marketing Plan`.
 
-The GTM Motions each include a [Core Team](https://about.gitlab.com/handbook/marketing/plan-fy22/#core-teams), comprised of functional DRIs for subject-matter specific teams within marketing. If your specific group is not listed as a Core Team, don't worry! Each team and each individual in Marketing plays an integral role in making the FY22 Marketing Plan a reality and a success. Please see more information in [GTM Motion Core Teams](https://about.gitlab.com/handbook/marketing/plan-fy22/#core-teams) and [Beyond the GTM Motion Core Teams](https://about.gitlab.com/handbook/marketing/plan-fy22/#beyond-core-teams) below.
+The GTM Motions each include a [Core Team](/handbook/marketing/plan-fy22/#core-teams), comprised of functional DRIs for subject-matter specific teams within marketing. If your specific group is not listed as a Core Team, don't worry! Each team and each individual in Marketing plays an integral role in making the FY22 Marketing Plan a reality and a success. Please see more information in [GTM Motion Core Teams](/handbook/marketing/plan-fy22/#core-teams) and [Beyond the GTM Motion Core Teams](/handbook/marketing/plan-fy22/#beyond-core-teams) below.
 All marketing team members should aim to focus ~70% of their time and plans around these GTM motions, allowing for ~30% of their time to be spent testing new messaging that's not a GTM motion.
 
 ### What is included in a GTM Motion?
@@ -137,14 +137,14 @@ _The list below includes potential and recommended items to include in a GTM Mot
 
 **Potential/Recommended Pieces of a GTM Motion:**
 
-- [Solution GTM Strategy Doc](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/), including:
+- [Solution GTM Strategy Doc](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/), including:
     - Buyer personas
     - Messaging and positioning framework
     - Market landscape
     - Product capabilities
     - etc.
-- [Campaign Brief(s)](https://about.gitlab.com/handbook/marketing/plan-fy22/#gtm-motion-campaign)
-- [Sales Play(s)](https://about.gitlab.com/handbook/marketing/plan-fy22/#sales-plays)
+- [Campaign Brief(s)](/handbook/marketing/plan-fy22/#gtm-motion-campaign)
+- [Sales Play(s)](/handbook/marketing/plan-fy22/#sales-plays)
 - Supporting content
     - Buyer journey content (including awareness, consideration, and decision)
     - Competitive assets
@@ -153,7 +153,7 @@ _The list below includes potential and recommended items to include in a GTM Mot
 - Alliance partner joint GTM campaigns and activities
 - Channel partner campaigns
 - Web ROI model
-- [Sales enablement](https://about.gitlab.com/handbook/marketing/plan-fy22/#sales-enablement)
+- [Sales enablement](/handbook/marketing/plan-fy22/#sales-enablement)
 
 ## Solution GTM Strategy
 
@@ -194,7 +194,7 @@ The Sales Play should include (at minimum):
 
 Sales Plays should be delivered as a handbook page, or as an interactive guide leveraging PathFactory - or both.
 
-To see the planned Sales Plays, see **column C** in [GTM Motions](https://about.gitlab.com/handbook/marketing/plan-fy22/#gtm-motions).
+To see the planned Sales Plays, see **column C** in [GTM Motions](/handbook/marketing/plan-fy22/#gtm-motions).
 
 ## Sales enablement to support a Sales Play and/or GTM Campaign
 {: #sales-enablement}
@@ -230,7 +230,7 @@ Campaigns and Sales Plays.
 - The Core Teams are comprised of functional DRIs from teams aligned to product specializations (SMEs within their teams)
 - The Core Teams will kickoff together with the freedom to drive their GTM Motions as desired and with a strong team-oriented approach
 - The Core Teams will ensure nothing happens in a vacuum, by proactively integrating corresponding activities across marketing, and including those beyond the core team for input
-- The Core Teams are responsible for clearly communicating plans to all of Marketing ([also see Core Team communication](https://about.gitlab.com/handbook/marketing/plan-fy22/#core-team-communication))
+- The Core Teams are responsible for clearly communicating plans to all of Marketing ([also see Core Team communication](/handbook/marketing/plan-fy22/#core-team-communication))
 
 ### Roles & Responsibilities
 {: #roles-responsibilities}
@@ -388,7 +388,7 @@ To view the Project Compass Googlesheet, please go to your [Google Drive](https:
 {: #marketing-calendar .gitlab-purple}
 
 <!-- DO NOT CHANGE ANCHOR -->
-In kicking off FY22, let's work together to create a single all-marketing calendar where everyone can contribute, and we can answer key questions (using filters) related to upcoming marketing plans. The calendar also lives at the top of the [Marketing Handbook Page](https://about.gitlab.com/handbook/marketing/#marketing-calendar).
+In kicking off FY22, let's work together to create a single all-marketing calendar where everyone can contribute, and we can answer key questions (using filters) related to upcoming marketing plans. The calendar also lives at the top of the [Marketing Handbook Page](/handbook/marketing/#marketing-calendar).
 
 ### Mockup of All-Marketing Calendar
 {: #marketing-calendar-mockup}
@@ -428,7 +428,7 @@ As a Field Marketer, you will be leveraging the GTM Motions in your regional str
 
 *You do not have to use all GTM Motions and you may go outside of these GTM Motions, although, as mentioned in the GTM Motions section, ~70% of your time should be spent focusing on the GTM Motions.
 
-While the majority of Field Marketing activities should be focused on middle of the funnel activies (i.e. grabbing the leads from our [focus account list](https://about.gitlab.com/handbook/marketing/account-based-marketing/) (4300/4000) that are already in our system & pulling them through to SAO), there may be times where there is a gap in the focus account MQLs and Field Marketing will need to run a top of funnel campaign with the main goal being SAOs that support the Field Marketing FY22 goals. When Field Marketers run top of the funnel campaigns, they need to be sure to collaborate with the campaign manager aligned to their segment. This should be done to ensure there is alignment and that there is no overlap in team plans. This can be done in the bi-weekly FMM/MCM meetings that take place. There is not a formal approval process that the Field Marketer needs to go through with the campaigns team. There is much power in the teams working together and we already seeing the success of this happening!
+While the majority of Field Marketing activities should be focused on middle of the funnel activies (i.e. grabbing the leads from our [focus account list](/handbook/marketing/account-based-marketing/) (4300/4000) that are already in our system & pulling them through to SAO), there may be times where there is a gap in the focus account MQLs and Field Marketing will need to run a top of funnel campaign with the main goal being SAOs that support the Field Marketing FY22 goals. When Field Marketers run top of the funnel campaigns, they need to be sure to collaborate with the campaign manager aligned to their segment. This should be done to ensure there is alignment and that there is no overlap in team plans. This can be done in the bi-weekly FMM/MCM meetings that take place. There is not a formal approval process that the Field Marketer needs to go through with the campaigns team. There is much power in the teams working together and we already seeing the success of this happening!
 
 ### Campaigns Team
 {: #commentary-campaigns-team}

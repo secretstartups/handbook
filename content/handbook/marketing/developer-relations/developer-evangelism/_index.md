@@ -24,15 +24,15 @@ description: "We build GitLab's technical brand with deep, meaningful conversati
 
 ### Team Workflow
 
-[<i class="far fa-clipboard"></i> Team Workflow](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/workflow/){:.btn .btn-purple-inv} [ <i class="far fa-chart-line"></i> Metrics / Reports](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/metrics/){:.btn .btn-purple-inv}  [ <i class="far fa-edit"></i> CFP Issue Template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=cfp){:.btn .btn-purple-inv} [ <i class="far fa-clipboard"></i> Team General Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1565342?&label_name[]=dev-evangelism){:.btn .btn-purple-inv} [ <i class="far fa-clipboard"></i> Team Activity Type Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/3811304?label_name[]=dev-evangelism){:.btn .btn-purple-inv} [ <i class="far fa-clipboard"></i> CFP Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1616902?label_name[]=CFP){:.btn .btn-purple-inv} [ <i class="far fa-calendar-alt"></i> Team Calendar](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/calendar){:.btn .btn-purple-inv}
+[<i class="far fa-clipboard"></i> Team Workflow](/handbook/marketing/developer-relations/developer-evangelism/workflow/){:.btn .btn-purple-inv} [ <i class="far fa-chart-line"></i> Metrics / Reports](/handbook/marketing/developer-relations/developer-evangelism/metrics/){:.btn .btn-purple-inv}  [ <i class="far fa-edit"></i> CFP Issue Template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=cfp){:.btn .btn-purple-inv} [ <i class="far fa-clipboard"></i> Team General Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1565342?&label_name[]=dev-evangelism){:.btn .btn-purple-inv} [ <i class="far fa-clipboard"></i> Team Activity Type Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/3811304?label_name[]=dev-evangelism){:.btn .btn-purple-inv} [ <i class="far fa-clipboard"></i> CFP Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1616902?label_name[]=CFP){:.btn .btn-purple-inv} [ <i class="far fa-calendar-alt"></i> Team Calendar](/handbook/marketing/developer-relations/developer-evangelism/calendar){:.btn .btn-purple-inv}
 
 ### Team Resources
 
-[<i class="fas fa-project-diagram"></i> Team Projects](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/projects){:.btn .btn-purple-inv} [<i class="fas fa-toolbox"></i> Team Tools](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/tools/){:.btn .btn-purple-inv} [ <i class="far fa-object-group"></i> OSS Contributions](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/#oss-contributions){:.btn .btn-purple-inv}  [ <i class="far fa-edit"></i> Action Template for Announcement Responses](https://docs.google.com/document/d/1Dhe2hFFZCDRK6eLhrfFqa-iz0bFX8gTZ4keoHo5KrtM/edit){:.btn .btn-purple-inv} [ <i class="fas fa-chalkboard-teacher"></i> CFPs](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/cfps){:.btn .btn-purple-inv} [ <i class="far fa-edit"></i> Content creation](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/#content-creation){:.btn .btn-purple-inv} [ <i class="far fa-folder-open"></i> Team Shared Drive](https://drive.google.com/drive/u/0/folders/0AEUOlCStMBC9Uk9PVA){:.btn .btn-purple-inv}
+[<i class="fas fa-project-diagram"></i> Team Projects](/handbook/marketing/developer-relations/developer-evangelism/projects){:.btn .btn-purple-inv} [<i class="fas fa-toolbox"></i> Team Tools](/handbook/marketing/developer-relations/developer-evangelism/tools/){:.btn .btn-purple-inv} [ <i class="far fa-object-group"></i> OSS Contributions](/handbook/marketing/developer-relations/developer-evangelism/#oss-contributions){:.btn .btn-purple-inv}  [ <i class="far fa-edit"></i> Action Template for Announcement Responses](https://docs.google.com/document/d/1Dhe2hFFZCDRK6eLhrfFqa-iz0bFX8gTZ4keoHo5KrtM/edit){:.btn .btn-purple-inv} [ <i class="fas fa-chalkboard-teacher"></i> CFPs](/handbook/marketing/developer-relations/developer-evangelism/cfps){:.btn .btn-purple-inv} [ <i class="far fa-edit"></i> Content creation](/handbook/marketing/developer-relations/developer-evangelism/#content-creation){:.btn .btn-purple-inv} [ <i class="far fa-folder-open"></i> Team Shared Drive](https://drive.google.com/drive/u/0/folders/0AEUOlCStMBC9Uk9PVA){:.btn .btn-purple-inv}
 
 ### Want to work with the team?
 
-[ <i class="fas fa-chalkboard-teacher"></i> Learn about Developer Evangelism](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/learn-developer-evangelism/){:.btn .btn-purple-inv} [<i class="far fa-edit"></i>Technical Marketing](https://about.gitlab.com/handbook/marketing/developer-relations/technical-marketing/){:.btn .btn-purple-inv} [<i class="far fa-edit"></i> Request a Developer Evangelist Issue Template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=developer-evangelist-request){:.btn .btn-purple-inv} [ <i class="far fa-edit"></i>Request Community Response support](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=community-response-plan){:.btn .btn-purple-inv} [<i class="far fa-edit"></i> Request Content](https://about.gitlab.com/handbook/marketing/developer-relations/content-request/#how-to-work-with-the-developer-evangelism-team){:.btn .btn-purple-inv}
+[ <i class="fas fa-chalkboard-teacher"></i> Learn about Developer Evangelism](/handbook/marketing/developer-relations/developer-evangelism/learn-developer-evangelism/){:.btn .btn-purple-inv} [<i class="far fa-edit"></i>Technical Marketing](/handbook/marketing/developer-relations/technical-marketing/){:.btn .btn-purple-inv} [<i class="far fa-edit"></i> Request a Developer Evangelist Issue Template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=developer-evangelist-request){:.btn .btn-purple-inv} [ <i class="far fa-edit"></i>Request Community Response support](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=community-response-plan){:.btn .btn-purple-inv} [<i class="far fa-edit"></i> Request Content](/handbook/marketing/developer-relations/content-request/#how-to-work-with-the-developer-evangelism-team){:.btn .btn-purple-inv}
 
 ***
 
@@ -75,17 +75,17 @@ If the answer to any of the above questions is "no", we ask the requestor to tak
 
 ## <i class="fa fa-users" aria-hidden="true"></i> Team members and focus areas
 
-We are members of the [Developer Relations team](https://about.gitlab.com/handbook/marketing/developer-relations/).
+We are members of the [Developer Relations team](/handbook/marketing/developer-relations/).
 
 | Team member |  Focus areas | Language skills | Projects | Technologies | Speaker Portfolio |
 |-------------|-------------|--------------|-------------|--------------|-------------------|
-| [Abubakar Siddiq Ango](/handbook/company/team/#abuango) <br/> Developer Evangelism Program Manager |  Program management, team content creation and repurpose. DevSecOps with a focus on the Cloud Native Ecosystem | English, Yoruba, Hausa | [DE Bot](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/projects/#developer-evangelism-bot), [Evangelists Dashboard](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/projects/#evangelist-dashboards) |  Kubernetes, CI/CD, Ruby, JavaScript, Rust | [Website](https://abuango.me/) |
+| [Abubakar Siddiq Ango](/handbook/company/team/#abuango) <br/> Developer Evangelism Program Manager |  Program management, team content creation and repurpose. DevSecOps with a focus on the Cloud Native Ecosystem | English, Yoruba, Hausa | [DE Bot](/handbook/marketing/developer-relations/developer-evangelism/projects/#developer-evangelism-bot), [Evangelists Dashboard](/handbook/marketing/developer-relations/developer-evangelism/projects/#evangelist-dashboards) |  Kubernetes, CI/CD, Ruby, JavaScript, Rust | [Website](https://abuango.me/) |
 | [John Coghlan](/handbook/company/team/#john-coghlan) <br/> Manager, Developer Evangelism | Strategy and Planning in Developer Evangelism | English | | | [Website](https://coghlan.me/) |
-| [Fatima Sarah Khalid](/handbook/company/team/#sugaroverflow) <br/> Developer Evangelist | Community Engagement, DevSecOps | English | [Beyond Code Series](https://about.gitlab.com/handbook/marketing/developer-relations/evangelist-program/#beyond-code-series) | CI, Verify, PHP, JavaScript | |
-| [Michael Friedrich](/handbook/company/team/#dnsmichi) <br/> Senior Developer Evangelist | DevSecOps with a focus on the SRE, Ops and Sec engineers' perspective | English, German, Austrian | [EveryoneCanContribute cafe meetup](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/projects/#everyonecancontribute-cafe), [opsindev.news newsletter](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/projects/#opsindevnews-newsletter), [o11y.love](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/projects/#o11ylove) | CI/CD, Observability, SRE, IaC, Security, Python, Go, C/C++, Rust, Ruby | [Talks](https://dnsmichi.at/talks/), [Portfolio](https://dnsmichi.at/talks/) , [cfps.dev](https://cfps.dev/u/dnsmichi/events) |
+| [Fatima Sarah Khalid](/handbook/company/team/#sugaroverflow) <br/> Developer Evangelist | Community Engagement, DevSecOps | English | [Beyond Code Series](/handbook/marketing/developer-relations/evangelist-program/#beyond-code-series) | CI, Verify, PHP, JavaScript | |
+| [Michael Friedrich](/handbook/company/team/#dnsmichi) <br/> Senior Developer Evangelist | DevSecOps with a focus on the SRE, Ops and Sec engineers' perspective | English, German, Austrian | [EveryoneCanContribute cafe meetup](/handbook/marketing/developer-relations/developer-evangelism/projects/#everyonecancontribute-cafe), [opsindev.news newsletter](/handbook/marketing/developer-relations/developer-evangelism/projects/#opsindevnews-newsletter), [o11y.love](/handbook/marketing/developer-relations/developer-evangelism/projects/#o11ylove) | CI/CD, Observability, SRE, IaC, Security, Python, Go, C/C++, Rust, Ruby | [Talks](https://dnsmichi.at/talks/), [Portfolio](https://dnsmichi.at/talks/) , [cfps.dev](https://cfps.dev/u/dnsmichi/events) |
 | [William Arias](/handbook/company/team/#warias) <br/> Senior Developer Evangelist | DevSecOps with a focus on AI/ML, Sec and Data | English, Spanish |  | CI/CD, AI/ML, Kubernetes, Security, Python, C |  |
 
-We collaborate closely with the [Technical Marketing team](https://about.gitlab.com/handbook/marketing/developer-relations/technical-marketing/). Their focus is user education/research via technical deep dives that includes workshops, demos, technical blog posts, interactive webinars, external evangelism, internal/external product enablement and analyst debriefings.
+We collaborate closely with the [Technical Marketing team](/handbook/marketing/developer-relations/technical-marketing/). Their focus is user education/research via technical deep dives that includes workshops, demos, technical blog posts, interactive webinars, external evangelism, internal/external product enablement and analyst debriefings.
 
 | Team member |  Focus areas | Language skills | Projects | Technologies | Speaker Portfolio |
 |-------------|-------------|--------------|-------------|--------------|-------------------|
@@ -124,7 +124,7 @@ Our developer evangelism team can be summarized by the "Three Cs":
 
 ### Social media
 
-We build our thought leadership on social media. See [Developer Evangelism on Social Media](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/) to learn more about our strategies and become an evangelist yourself.
+We build our thought leadership on social media. See [Developer Evangelism on Social Media](/handbook/marketing/developer-relations/developer-evangelism/social-media/) to learn more about our strategies and become an evangelist yourself.
 
 ### Content creation
 
@@ -132,15 +132,15 @@ We build out content to help educate developers around best practices related to
 
 ### Corporate event support 
 
-The Developer Evangelism and Technical Marketing teams play a key role in supporting events. We work closely alongside [Corporate Event Marketing](https://about.gitlab.com/handbook/marketing/integrated-marketing/corporate-events/) to provide strategic content and assistance for both corporate and third-party sponsored events. This collaboration ensures the success and seamless execution of various gatherings. To learn more please refer to the [Events page](https://about.gitlab.com/handbook/marketing/developer-relations/events/).
+The Developer Evangelism and Technical Marketing teams play a key role in supporting events. We work closely alongside [Corporate Event Marketing](/handbook/marketing/integrated-marketing/corporate-events/) to provide strategic content and assistance for both corporate and third-party sponsored events. This collaboration ensures the success and seamless execution of various gatherings. To learn more please refer to the [Events page](/handbook/marketing/developer-relations/events/).
 
 ### Spokespersons
 
-Developer Evangelists are subject matter experts (SMEs) in their focus areas, and collaborate with the [Corporate Communications team](https://about.gitlab.com/handbook/marketing/corporate-communications/) to provide media coverage in the form of interviews, podcasts, content by-lines, etc. Developer Evangelists are [GitLab spokespersons](https://about.gitlab.com/handbook/marketing/corporate-communications/#spokesperson-criteria) and are required to take relevant training as determined by the [Corporate Communications team](https://about.gitlab.com/handbook/marketing/corporate-communications/).  
+Developer Evangelists are subject matter experts (SMEs) in their focus areas, and collaborate with the [Corporate Communications team](/handbook/marketing/corporate-communications/) to provide media coverage in the form of interviews, podcasts, content by-lines, etc. Developer Evangelists are [GitLab spokespersons](/handbook/marketing/corporate-communications/#spokesperson-criteria) and are required to take relevant training as determined by the [Corporate Communications team](/handbook/marketing/corporate-communications/).  
 
 ### Community Engagement
 
-Our team regularly engages with the wider GitLab community. We do this organically on social media when prompted by our social media team or other GitLab team members and by [monitoring GitLab and other selected keywords on Hacker News](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/hacker-news/). We also manage a few social media platforms ourselves.
+Our team regularly engages with the wider GitLab community. We do this organically on social media when prompted by our social media team or other GitLab team members and by [monitoring GitLab and other selected keywords on Hacker News](/handbook/marketing/developer-relations/developer-evangelism/hacker-news/). We also manage a few social media platforms ourselves.
 
 The Developer Evangelism team is the DRI for questions and strategy on the platforms below:
 
@@ -148,12 +148,12 @@ The Developer Evangelism team is the DRI for questions and strategy on the platf
 
 | Platform | Description | Workflows |
 |-------------|-------------|-----------|
-| Discourse | The [GitLab Forum](https://forum.gitlab.com) is a place to ask and respond to questions and share projects or snippets of code. | [Forum Workflows](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/forum/) |
-| Reddit | The [GitLab Subreddit r/gitlab](https://www.reddit.com/r/gitlab) is a place to ask questions and share interesting use cases of GitLab and related workshops and tools. | [r/gitlab Workflows ](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/reddit/) |
-| StackOverflow | Use [gitlab tags](https://stackoverflow.com/questions/tagged/gitlab) for programming questions related to GitLab or the GitLab API.| [GitLab on StackOverflow](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/stackoverflow/) |
-| Discord | A [GitLab Community Discord](https://discord.gg/gitlab) is a place to connect with the community, join pair coding sessions and live streams, and discuss all things GitLab and contribution. | [Community Discord Workflows](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/discord/) |
-| Meetup | Our [GitLab Virtual Meetup](https://www.meetup.com/gitlab-virtual-meetups/) includes Office hours, GitLab deep dives, Hackathon calls, project specific office hours, and more!  | [GitLab Meetups](https://about.gitlab.com/handbook/marketing/developer-relations/evangelist-program/#meetups), [GitLab Meetups Checklist](https://about.gitlab.com/community/meetups/checklist/) |
-| Common Room | We use [Common Room](https://www.commonroom.io) to aggregate and review insights from our community engagement. | [Common Room Workflows](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/common-room/)
+| Discourse | The [GitLab Forum](https://forum.gitlab.com) is a place to ask and respond to questions and share projects or snippets of code. | [Forum Workflows](/handbook/marketing/developer-relations/workflows-tools/forum/) |
+| Reddit | The [GitLab Subreddit r/gitlab](https://www.reddit.com/r/gitlab) is a place to ask questions and share interesting use cases of GitLab and related workshops and tools. | [r/gitlab Workflows ](/handbook/marketing/developer-relations/workflows-tools/reddit/) |
+| StackOverflow | Use [gitlab tags](https://stackoverflow.com/questions/tagged/gitlab) for programming questions related to GitLab or the GitLab API.| [GitLab on StackOverflow](/handbook/marketing/developer-relations/workflows-tools/stackoverflow/) |
+| Discord | A [GitLab Community Discord](https://discord.gg/gitlab) is a place to connect with the community, join pair coding sessions and live streams, and discuss all things GitLab and contribution. | [Community Discord Workflows](/handbook/marketing/developer-relations/workflows-tools/discord/) |
+| Meetup | Our [GitLab Virtual Meetup](https://www.meetup.com/gitlab-virtual-meetups/) includes Office hours, GitLab deep dives, Hackathon calls, project specific office hours, and more!  | [GitLab Meetups](/handbook/marketing/developer-relations/evangelist-program/#meetups), [GitLab Meetups Checklist](https://about.gitlab.com/community/meetups/checklist/) |
+| Common Room | We use [Common Room](https://www.commonroom.io) to aggregate and review insights from our community engagement. | [Common Room Workflows](/handbook/marketing/developer-relations/workflows-tools/common-room/)
 
 #### Community Engagement Initiatives
 
@@ -161,40 +161,40 @@ The Developer Evangelism team is dedicated to building, supporting, and retainin
 
 ##### Community Response
 
-Given the Developer Evangelism team's understanding of our community and broad knowledge of GitLab, we regularly engage in the response of situations that require intervention to address urgent and important concerns of our community members. We have a documented process for how we [manage these situations](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/community-response/).
+Given the Developer Evangelism team's understanding of our community and broad knowledge of GitLab, we regularly engage in the response of situations that require intervention to address urgent and important concerns of our community members. We have a documented process for how we [manage these situations](/handbook/marketing/developer-relations/developer-evangelism/community-response/).
 
 ##### Community Newsletter
 
-We run a monthly [Community Newsletter](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/community-newsletter) dedicated to sharing relevant developer content, highlighting contribution opportunities, and updating community members on upcoming events. We aim to keep our contributors involved and connected with the wider community.
+We run a monthly [Community Newsletter](/handbook/marketing/developer-relations/developer-evangelism/community-newsletter) dedicated to sharing relevant developer content, highlighting contribution opportunities, and updating community members on upcoming events. We aim to keep our contributors involved and connected with the wider community.
 
 ##### Mentoring and Coaching
 
-We make our practices and processes publicly available to foster a diverse and inclusive community. We also offer [mentor and coaching](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/mentoring-coaching/) opportunities to share our expertise, encourage professional growth, and promote a welcoming environment.
+We make our practices and processes publicly available to foster a diverse and inclusive community. We also offer [mentor and coaching](/handbook/marketing/developer-relations/developer-evangelism/mentoring-coaching/) opportunities to share our expertise, encourage professional growth, and promote a welcoming environment.
 
 ### Release Evangelism
 
-Developer Evangelists should always be prepared to promote our [monthly release](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism) and engage in [community response on release days](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/hacker-news/#release-days) given the historical performance of release posts on Hacker News.
+Developer Evangelists should always be prepared to promote our [monthly release](/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism) and engage in [community response on release days](/handbook/marketing/developer-relations/developer-evangelism/hacker-news/#release-days) given the historical performance of release posts on Hacker News.
 
 #### The Lab
 
-Once a month typically a few days after the release, we work with DevOps.com, TechStrong TV, and Highwire to produce [The Lab](https://techstrong.tv/videos/the-lab). For more details see [The Lab Handbook Page](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/the-lab/)
+Once a month typically a few days after the release, we work with DevOps.com, TechStrong TV, and Highwire to produce [The Lab](https://techstrong.tv/videos/the-lab). For more details see [The Lab Handbook Page](/handbook/marketing/developer-relations/developer-evangelism/the-lab/)
 
 ### Tools
 
-Our team uses different tools to grow and analyze our thought leadership, automate workflows, and improve written and presentation skills. See [Developer Evangelism Tools](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/tools/) for a list of all of those tools.
+Our team uses different tools to grow and analyze our thought leadership, automate workflows, and improve written and presentation skills. See [Developer Evangelism Tools](/handbook/marketing/developer-relations/developer-evangelism/tools/) for a list of all of those tools.
 
 ### Projects
 
-Our team maintains many projects to help show off technical concepts, engage with communities, provide examples of using GitLab with other technologies, and automate our team processes. See [Developer Evangelism Projects](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/projects/) for a list of all of those projects.
+Our team maintains many projects to help show off technical concepts, engage with communities, provide examples of using GitLab with other technologies, and automate our team processes. See [Developer Evangelism Projects](/handbook/marketing/developer-relations/developer-evangelism/projects/) for a list of all of those projects.
 
 ### OSS Contributions
 
-We actively contribute to OSS projects and share our technical expertise. You can learn more about our ideas and visions in our [OSS contributions](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/oss-contributions/) handbook page.
+We actively contribute to OSS projects and share our technical expertise. You can learn more about our ideas and visions in our [OSS contributions](/handbook/marketing/developer-relations/developer-evangelism/oss-contributions/) handbook page.
 
 
 ### Metrics Collection and Analysis
 
-Measuring what we do is very important to understand our impact and how we are able to reach our OKRs. A key metric is the Developer Evangelists' cumulative Twitter impressions. [Learn more](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/metrics/) about the our tools, data collection and how to access the data sources for integrations.
+Measuring what we do is very important to understand our impact and how we are able to reach our OKRs. A key metric is the Developer Evangelists' cumulative Twitter impressions. [Learn more](/handbook/marketing/developer-relations/developer-evangelism/metrics/) about the our tools, data collection and how to access the data sources for integrations.
 
 #### YouTube playlist 
 
@@ -207,9 +207,9 @@ Learn about how we use tags and UTMs for tracking our work.
 
 #### UTMs for URL tagging and tracking
 
-The Developer Evangelism team works with the Developer Relations Team [UTM Strategy](https://about.gitlab.com/handbook/marketing/developer-relations/utm-strategy/), which is based on the larger [Marketing UTM strategy](https://about.gitlab.com/handbook/marketing/utm-strategy/). The `utm_content` prefix for the Developer Evangelism team is `de_`, this allows for easily filtering of the team's data in Sisense.
+The Developer Evangelism team works with the Developer Relations Team [UTM Strategy](/handbook/marketing/developer-relations/utm-strategy/), which is based on the larger [Marketing UTM strategy](/handbook/marketing/utm-strategy/). The `utm_content` prefix for the Developer Evangelism team is `de_`, this allows for easily filtering of the team's data in Sisense.
 
-You can use the [UTM Generator](https://about.gitlab.com/handbook/marketing/developer-relations/utm-strategy/#utm-generator) on the Community UTM Page to easily generate UTM Codes for your campaigns.
+You can use the [UTM Generator](/handbook/marketing/developer-relations/utm-strategy/#utm-generator) on the Community UTM Page to easily generate UTM Codes for your campaigns.
 
 We use the following campaigns:
 
@@ -218,7 +218,7 @@ We use the following campaigns:
 1. [Talk resources (general)](https://campaign-manager.gitlab.com/campaigns/view/13) - QR codes and short URLs for talk slides. 
 1. [Community newsletter](https://campaign-manager.gitlab.com/campaigns/view/27) - community newsletter short URLs. 
 1. [Demos (TMM, DE)](https://campaign-manager.gitlab.com/campaigns/view/50) - technical demos with standalone URLs. 
-1. [Release Evangelism](https://campaign-manager.gitlab.com/campaigns/view/3) - [Release evangelism activities](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism). 
+1. [Release Evangelism](https://campaign-manager.gitlab.com/campaigns/view/3) - [Release evangelism activities](/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism). 
 1. [Podcast resources](https://campaign-manager.gitlab.com/campaigns/view/38) - URLs shared with podcast hosts. 
 1. [Contributed articles](https://campaign-manager.gitlab.com/campaigns/view/47) - external articles shared on social media. 
 
@@ -226,7 +226,7 @@ Event and content specific tracking examples are [KubeCon EU 2023](https://campa
 
 #### Blog Post PostType
 
-We write across diverse platforms, but a primary destination for our writings is the [GitLab Blog](https://about.gitlab.com/blog/), where all our blogposts include the `dev-evangelism` [postType](https://about.gitlab.com/handbook/marketing/blog/#post-type) in their [frontmatter](https://about.gitlab.com/handbook/marketing/blog/#frontmatter) for proper tracking.
+We write across diverse platforms, but a primary destination for our writings is the [GitLab Blog](https://about.gitlab.com/blog/), where all our blogposts include the `dev-evangelism` [postType](/handbook/marketing/blog/#post-type) in their [frontmatter](/handbook/marketing/blog/#frontmatter) for proper tracking.
 
 #### Content Reuse
 
@@ -243,7 +243,7 @@ Learn about the steps we take to share our content.
 
 After content has been crafted and published, the next step is distribution. Here are some steps to assist in the process:
 
-1. Use the [UTM Generator](https://about.gitlab.com/handbook/marketing/developer-relations/utm-strategy/#utm-generator) to create UTM codes and short URLs for your content. Further insights about this can be found in the Developer Evangelism [UTM Strategy](https://about.gitlab.com/handbook/marketing/developer-relations/utm-strategy/). 
+1. Use the [UTM Generator](/handbook/marketing/developer-relations/utm-strategy/#utm-generator) to create UTM codes and short URLs for your content. Further insights about this can be found in the Developer Evangelism [UTM Strategy](/handbook/marketing/developer-relations/utm-strategy/). 
 
 For documentation and community:
 
@@ -252,8 +252,8 @@ For documentation and community:
 
 For social media: 
 
-1. Draft some copy for sharing your content on social media. See [Content Sharing](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#content) for tips and an overview of different platforms. Review the [message tips](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#message-tips) for additional engagement ideas, e.g. emojis.
-1. Suggest your content as a story on Bambu so other GitLab team members can also share it. [Details on how to suggest content on Bambu](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/#suggesting-content-for-team-members-to-share-on-bambu).
+1. Draft some copy for sharing your content on social media. See [Content Sharing](/handbook/marketing/developer-relations/developer-evangelism/social-media/#content) for tips and an overview of different platforms. Review the [message tips](/handbook/marketing/developer-relations/developer-evangelism/social-media/#message-tips) for additional engagement ideas, e.g. emojis.
+1. Suggest your content as a story on Bambu so other GitLab team members can also share it. [Details on how to suggest content on Bambu](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/#suggesting-content-for-team-members-to-share-on-bambu).
 1. After posting your content on social media, share a link in the [`#social-media-action`](https://gitlab.slack.com/archives/C01AZ9C8Z4G) Slack channel to request promotion from the social media team. 
 
 For GitLab teams:
@@ -301,11 +301,11 @@ Thanks a lot @HelpfulCoworker for editing this long read :handshake: :purple_hea
 
 GitLab team members can also reach us at any time on the [#dev-evangelism-and-technical-marketing](https://app.slack.com/client/T02592416/CMELFQS4B) Slack channel where we share updates, ideas, and thoughts with each other and the wider team.
 
-We use [developer-evangelism-updates](https://gitlab.slack.com/archives/C04R2RME4F7) for content shares and other updates that don't warrant generating noise in the larger channel. Many updates are automated using [Zapier workflows](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/zapier/)
+We use [developer-evangelism-updates](https://gitlab.slack.com/archives/C04R2RME4F7) for content shares and other updates that don't warrant generating noise in the larger channel. Many updates are automated using [Zapier workflows](/handbook/marketing/developer-relations/workflows-tools/zapier/)
 
 ## <i class="fa fa-calendar" aria-hidden="true"></i> Calendar
 
-The Developer Evangelism calendar provides insights into speaking engagements, important events, CFP timelines, and other dates. Learn more in our [CFP handbook](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/cfps/).
+The Developer Evangelism calendar provides insights into speaking engagements, important events, CFP timelines, and other dates. Learn more in our [CFP handbook](/handbook/marketing/developer-relations/developer-evangelism/cfps/).
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_7930fcb0c9e4783bdd3d23858ae9af4306f28d976a40c833f50710c7cb86ba82%40group.calendar.google.com&ctz=UTC" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 

@@ -161,7 +161,7 @@ Note: Live webinars, the start time, duration, and present type, cannot be chang
 
 8. `Registration confirmation`, `24 Hour Reminder` and `1 Hour Reminder` emails are handled through On24 rather than Marketo, for setup simplicity. Make sure `Registration Confirmation Email`, `Reminder email` and `Reminder 2 email` are all toggled on. You can also click `Preview/Edit` to view the email and check for any formatting you'd like to change or to review active tokens. If you make changes, remember to `Save` and send yourself a `preview` email to make sure nothing is broken. 
 
-![Email toggles](https://about.gitlab.com/handbook/marketing/marketing-operations/on24/on24-emails.png)
+![Email toggles](/handbook/marketing/marketing-operations/on24/on24-emails.png)
 
 9. ON24 captures Benchmark data from all the webcasts run through Webcast Elite.  Help them organize that data by choosing a Category and Application, if you'd like.
 
@@ -200,11 +200,11 @@ Follow these steps to apply a console template:
 2. Open the Template Library, housed in the Select a Template drop-down
 3. Double click on the name of the desired template
 
-![Select a template screenshot](https://about.gitlab.com/handbook/marketing/marketing-operations/on24/template-screenshot.jpeg) 
+![Select a template screenshot](/handbook/marketing/marketing-operations/on24/template-screenshot.jpeg) 
 
 4. When applying a console template, all setting and tools from the saved template will override the existing console. A confirmation dialogue will pop-up to prevent you from accidentally wiping out your current console.
 
-![confirmation dialogue screenshot](https://about.gitlab.com/handbook/marketing/marketing-operations/on24/confirmation-screenshot.jpeg) 
+![confirmation dialogue screenshot](/handbook/marketing/marketing-operations/on24/confirmation-screenshot.jpeg) 
 
 ### Connecting On24 Web Events to Marketo Programs
 
@@ -306,7 +306,7 @@ In order to get `Q&A`, `poll` and `survey` data into Marketo from On24, a list u
     - `On24 Note Upload Activate` should should be filled in with `True`.
     - The Marketo Program Name must match 1:1 with what is in Marketo.
     - For every poll or survey answer uploaded, be sure to include the question asked. 
-1. To start, these will be treated the same as manual list uploads to be completed by MktgOps. Please follow the regular process of sharing the spreadsheet with MktgOps to have them upload via a list upload issue. Soon this will be moved to more of a drag-and-drop process, similar to the [self-service list import process](https://about.gitlab.com/handbook/marketing/marketing-operations/automated-list-import/). This page will be updated when that is ready.
+1. To start, these will be treated the same as manual list uploads to be completed by MktgOps. Please follow the regular process of sharing the spreadsheet with MktgOps to have them upload via a list upload issue. Soon this will be moved to more of a drag-and-drop process, similar to the [self-service list import process](/handbook/marketing/marketing-operations/automated-list-import/). This page will be updated when that is ready.
 
 ##### Field Matching Instructions for Marketing Ops
 

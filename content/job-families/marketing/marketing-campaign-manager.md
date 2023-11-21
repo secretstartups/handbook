@@ -221,9 +221,9 @@ The lifecycle marketing manager is responsible for strategizing, executing, and 
 
 ## Performance Indicators - Marketing Campaigns
 
-- [Outbound MQLs](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/#demand-generation-key-metrics)
-- [Cost per MQL](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/#demand-generation-key-metrics)
-- [Closed-Won Attribution/Spend](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/#demand-generation-key-metrics)
+- [Outbound MQLs](/handbook/marketing/demand-generation/campaigns/#demand-generation-key-metrics)
+- [Cost per MQL](/handbook/marketing/demand-generation/campaigns/#demand-generation-key-metrics)
+- [Closed-Won Attribution/Spend](/handbook/marketing/demand-generation/campaigns/#demand-generation-key-metrics)
 
 ### Additional Performance Indicators - User Lifecycle
 

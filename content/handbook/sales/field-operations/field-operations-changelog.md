@@ -151,7 +151,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **Deal Desk/Fulfillment: [Quarterly Subscription Reconciliation (QSR) Notifications Now Available in SFDC](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4592)**
 
-**Marketing Ops: [Marketo Sales Insights Access Removal](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#marketo-sales-insight)**
+**Marketing Ops: [Marketo Sales Insights Access Removal](/handbook/marketing/marketing-operations/marketo/#marketo-sales-insight)**
 
 **Marketing Ops/Sales Systems: [Changes to MQL fields](systems#2697)**
 

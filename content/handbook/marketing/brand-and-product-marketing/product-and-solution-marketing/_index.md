@@ -75,7 +75,7 @@ Each team within Product and Solution Marketing contributes uniquely and equally
    - key questions for sales to ask, competitive positioning, overcoming objections, other sales resources
    - influencing the influencers (press and analysts), responding to analyst RFIs for magic quadrants (MQs) and waves.
 
-[Solutions GTM Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/) has links to all of this and more.
+[Solutions GTM Page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/) has links to all of this and more.
 
 
 # <i class="fas fa-star fa-fw color-orange font-awesome"></i>Subject matter expertise

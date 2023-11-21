@@ -557,7 +557,7 @@ See also [Live Doc Meetings]({{< ref "live-doc-meetings" >}}) for more Google Do
 
 [Google Analytics (GA)](https://analytics.google.com/) is an essential tool for making data-driven decisions.
 It receives data from both about.gitlab.com and docs.gitlab.com websites.
-Read through the [Inbound Marketing Handbook](https://about.gitlab.com/handbook/marketing/inbound-marketing/search-marketing/analytics/) for more information on GA.
+Read through the [Inbound Marketing Handbook](/handbook/marketing/inbound-marketing/search-marketing/analytics/) for more information on GA.
 
 For example, you can look at the GA data to analyze how visited is a certain page, in a period of your choice.
 You can also look at the GA referrals data to understand where the users are coming from and where they go when they leave a certain page.

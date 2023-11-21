@@ -26,7 +26,7 @@ The [Buyer Experience Group Internal Handbook](https://internal.gitlab.com/handb
 
 ### Resources
 
-[Resources](https://about.gitlab.com/handbook/marketing/digital-experience/buyer-experience-repository/)
+[Resources](/handbook/marketing/digital-experience/buyer-experience-repository/)
 
 ### Core Team Members
 

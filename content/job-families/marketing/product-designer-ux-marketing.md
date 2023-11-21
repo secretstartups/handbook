@@ -32,8 +32,8 @@ The Product Designer (UX) - Marketing (Intermediate) is a [grade 6](/handbook/to
 
 - **Product knowledge:** Understand the technology and features of GitLab.
 - **Research:** Conduct [solution validation](/handbook/product-development-flow/#validation-phase-4-solution-validation) with guidance of your Product Manager and incorporate insights into design decisions to fulfill user and business needs.
-- **Deliverables:** Create deliverables for our [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/) (for example: competitive analyses, user flows, low fidelity wireframes, high fidelity mockups, prototypes, etc.) that solve real user problems through the user experience.
-- **Communication:** Communicate the results of UX activities with the [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/), cross-functional partners, and other interested GitLab team-members using clear language that simplifies complexity.
+- **Deliverables:** Create deliverables for our [Digital Experience team](/handbook/marketing/digital-experience/) (for example: competitive analyses, user flows, low fidelity wireframes, high fidelity mockups, prototypes, etc.) that solve real user problems through the user experience.
+- **Communication:** Communicate the results of UX activities with the [Digital Experience team](/handbook/marketing/digital-experience/), cross-functional partners, and other interested GitLab team-members using clear language that simplifies complexity.
 - **Usability:** Proactively identify both small and large usability issues with the Marketing site.
 - **Iteration:** Practice design iteration and take part in our 2 week sprint cadence by breaking down the designs to fit release cadence, reviewing and approving merge requests (visual quality assurance).
 - **Design system:** Keep design components available and up to date in prototyping tools, ensuring that reusable components fit visually and functionally together as well as meeting accessibility requirements. Actively contribute to the [Slippers Design System](https://gitlab-com.gitlab.io/marketing/inbound-marketing/slippers-ui/) and document usage.
@@ -53,8 +53,8 @@ The Senior Product Designer is a [grade 7](/handbook/total-rewards/compensation/
 - Extends that of the Product Designer (UX) - Marketing responsibilities
 - **Product knowledge:** Understand GitLab's Marketing vison and goals as well as proactively learn other product areas.
 - **Research:** Independently conduct [solution validation](/handbook/product-development-flow/#validation-phase-4-solution-validation) with minimal guidance from your Product Manager and incorporate insights into design decisions to fulfill user and business needs.
-- **Deliverables:** Create deliverables for our [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/) (for example: competitive analyses, low fidelity wireframes, high fidelity mockups, prototypes, journey maps, storyboards, personas, design vision, strategic planning, etc.) that help define the vision and execution of solving real user problems through the user experience.
-- **Communication:** Communicate the results of UX activities with a strong point of view within our [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/), cross-functional partners, and other interested GitLab team-members using clear language that simplifies complexity.
+- **Deliverables:** Create deliverables for our [Digital Experience team](/handbook/marketing/digital-experience/) (for example: competitive analyses, low fidelity wireframes, high fidelity mockups, prototypes, journey maps, storyboards, personas, design vision, strategic planning, etc.) that help define the vision and execution of solving real user problems through the user experience.
+- **Communication:** Communicate the results of UX activities with a strong point of view within our [Digital Experience team](/handbook/marketing/digital-experience/), cross-functional partners, and other interested GitLab team-members using clear language that simplifies complexity.
 - **Usability:** Proactively identify both small and large usability issues within GitLab's Marketing experience, and help influence your Product  Manager and Technical Product Owner to prioritize them.
 - **Iteration:** Lead and coach iteration of design work. Take part in the bi-weekly sprint cycle by breaking down the designs to fit release cadence, reviewing and approving merge requests submitted by developers.
 - **Design reviews:** Participate in [Design Reviews](/handbook/product/ux/product-designer/#design-reviews), and model best practices for giving and receiving feedback
@@ -63,15 +63,15 @@ The Senior Product Designer is a [grade 7](/handbook/total-rewards/compensation/
 - **Public presence:** Help promote GitLab publicly by writing blog articles, giving talks, or responding on social media, where appropriate.
 - **Recruiting:** Interview potential UX candidates.
 - **Cross-stage collaboration:** Support your Product Manager and Technical Product Owner in identifying dependencies and advocating for cross collaboration when needed.
-- **Mentoring:** Mentor other members of the [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/), both inside and outside of Marketing.
+- **Mentoring:** Mentor other members of the [Digital Experience team](/handbook/marketing/digital-experience/), both inside and outside of Marketing.
 
 #### Senior Product Designer (UX) - Marketing Requirments
 
 ## Performance Indicators
 
-- [Contributing to the success of Digital Experience's Quarterly Initiatives](https://about.gitlab.com/handbook/marketing/digital-experience/#okrs)
-- [Identifying and organizing epics into executable Sprint plans](https://about.gitlab.com/handbook/marketing/digital-experience/#iteration-process)
-- [Successfully completing bi-weekly Sprint tasks](https://about.gitlab.com/handbook/marketing/digital-experience/#sprint-cycle)
+- [Contributing to the success of Digital Experience's Quarterly Initiatives](/handbook/marketing/digital-experience/#okrs)
+- [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/digital-experience/#iteration-process)
+- [Successfully completing bi-weekly Sprint tasks](/handbook/marketing/digital-experience/#sprint-cycle)
 
 ## Career Ladder
 

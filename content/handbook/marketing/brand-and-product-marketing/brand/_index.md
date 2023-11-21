@@ -25,11 +25,11 @@ Learn more about each part of the team in our handbook pages below.
 
 ## Brand team handbook pages
 
-- [Brand Strategy team page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-strategy/)
-- [Brand Creative team page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design)
-  - [Brand guidelines and resources](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/#brand-resources)
-  - [Trademark guidelines](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/)
-  - [GitLab swag](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/)
+- [Brand Strategy team page](/handbook/marketing/brand-and-product-marketing/brand/brand-strategy/)
+- [Brand Creative team page](/handbook/marketing/brand-and-product-marketing/design)
+  - [Brand guidelines and resources](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/#brand-resources)
+  - [Trademark guidelines](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/)
+  - [GitLab swag](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/)
 
 ## Contact us
 

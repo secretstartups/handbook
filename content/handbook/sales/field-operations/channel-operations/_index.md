@@ -339,7 +339,7 @@ The process to request the [legal team’s involvement in partner contracts](htt
   - *Partner*: The Partner has converted the Lead/PQL to a qualified opportunity, or has created a brand new opportunity without a prior lead being in the system. This field defaults to Partner when `Initial Source = PQL`.
 - **DR - Deal Engagement**:
   - *Partner Sourced*: Partner has either found the original opportunity or an upsell to a current customer. If the `Initial Source  = Partner Qualified Lead` or `Sales Qualified Source = Partner Generated`, then the deal is Partner Sourced.
-*Please visit the [Marketing Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/#initial-source) for Intial Source definition and context.
+*Please visit the [Marketing Handbook Page](/handbook/marketing/marketing-operations/#initial-source) for Intial Source definition and context.
 
 
 ## Managing Partner Opportunities

@@ -77,7 +77,7 @@ Learn how to identify the most valuable challenges and leverage the GitLab DevSe
     - Discovery is a crucial skill for any Solutions Architect (SA).  Here is how GitLab SA’s do their Discovery (10 min)
   - [User Personas](/handbook/product/personas/) (Handbook)
     - These are the persona types that are the primary users of GitLab inside your customer.
-  - [Buyer Personas](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) (Handbook)
+  - [Buyer Personas](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) (Handbook)
     - There are different buyer personas to understand when selling a Platform like GitLab.  Which do you value more? (20 min)
 
 **Competitive Information**

@@ -48,7 +48,7 @@ These sites require further investigation, evaluation of current ownership, and 
     1. Triaging all issues and support requests, and delegating them to other responsible groups as appropriate.
     1. Providing on-call support for high-priority incidents or outages, and [escalating to infrastructure, reliability engineering, or other groups](/handbook/about/on-call#when-to-hand-over-to-reliability-engineering) as appropriate.
     1. Project management, [planning](https://gitlab.com/groups/gitlab-com/-/epics/423), and reporting for the above.
-1. The [Digital Experience](https://about.gitlab.com/handbook/marketing/digital-experience/) team under [Michael Preuss](https://gitlab.com/mpreuss22) also has responsibility for the marketing-related areas of the site. These areas include the [`gitlab-com/marketing/digital-experience/buyer-experience`](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) project and repo, as well as other content. The exact areas are still not fully defined, and this should also be clarified as part of [the definition of DRIs.](https://gitlab.com/gitlab-com/Product/-/issues/3273)
+1. The [Digital Experience](/handbook/marketing/digital-experience/) team under [Michael Preuss](https://gitlab.com/mpreuss22) also has responsibility for the marketing-related areas of the site. These areas include the [`gitlab-com/marketing/digital-experience/buyer-experience`](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) project and repo, as well as other content. The exact areas are still not fully defined, and this should also be clarified as part of [the definition of DRIs.](https://gitlab.com/gitlab-com/Product/-/issues/3273)
 
 ## Support process for content websites
 

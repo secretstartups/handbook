@@ -8,7 +8,7 @@ Use this questionnaire to determine what information to cover in the workshop yo
 A few things to keep in mind about this questionnaire:
 
 - The capabilities listed are based on what the [Secure Workshop materials](https://about.gitlab.com/handbook/customer-success/workshops/secure/#workshop-materials) currently support. As additional materials are added, this list will be expanded.
-- Tailor the questions to your customer and your understanding of their objectives. As appropriate, add [discovery questions provided by the Marketing team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#discovery-questions).
+- Tailor the questions to your customer and your understanding of their objectives. As appropriate, add [discovery questions provided by the Marketing team](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#discovery-questions).
 
 ```markdown
 ## Product Capabilities

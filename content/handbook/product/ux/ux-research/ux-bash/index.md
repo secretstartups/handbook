@@ -57,7 +57,7 @@ Bashes are useful when [foundational research](/handbook/product/ux/ux-research/
 
 ##### For Recruiting External Participants
 
-- [Join the GitLab Discord server](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/discord/), where the community and external users are active
+- [Join the GitLab Discord server](/handbook/marketing/developer-relations/workflows-tools/discord/), where the community and external users are active
 - Reach out to Fatima Sarah Khalid (GitLab and Discord handle: sugaroverflow) to have your Discord profile noted as a GitLab employee.
 - Create an [Incentives Request issue](/handbook/product/ux/ux-research-coordination/incentives/) to pay participants.
 - Announce the Bash in the #announcements Discord channel with a link to a [screener survey](/handbook/product/ux/ux-research/write-effective-screener/)

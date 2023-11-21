@@ -41,7 +41,7 @@ These assets have two different purposes:
 
 #### About Crayon
 
-All our internal competitive intelligence (competitor cards, internal webinars and documents) are hosted on our [Highspot page](https://gitlab.highspot.com/spots/615dd78be6303bc4429268a1), leveraging our [Crayon](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/#crayon) competitive intelligence tool, which hosts the competitor cards.
+All our internal competitive intelligence (competitor cards, internal webinars and documents) are hosted on our [Highspot page](https://gitlab.highspot.com/spots/615dd78be6303bc4429268a1), leveraging our [Crayon](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/#crayon) competitive intelligence tool, which hosts the competitor cards.
 
 For more information on Crayon, see our [competitive intelligence page in the internal handbook](https://internal.gitlab.com/handbook/marketing/brand-and-product-marketing/)
 
@@ -162,4 +162,4 @@ The diagram below captures the overall approach.  The idea is that for each use 
 ![Competitive Framework](compintel-strategy.png)
 
 
-[See the Solutions Marketing page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) for more information.  
+[See the Solutions Marketing page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) for more information.  

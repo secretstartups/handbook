@@ -18,7 +18,7 @@ A new member can be added to the [Core Team](/community/core-team/) at any time 
 
 1. Any Core Team member or GitLab Team member can nominate a new member from the wider community at any time using a confidential issue in [the Core Team group](https://gitlab.com/groups/gitlab-org/gitlab-core-team/-/issues) to limit any possible negative feedback in the smallest setting possible.
 2. The nominee will be added to the Core Team if they have received positive votes from two-thirds (2/3) of all current core team members within a four-week period and accept the nomination.
-3. Once a new member has been added, start the onboarding process by following the steps outlined in the [Core Team member orientation section](https://about.gitlab.com/handbook/marketing/developer-relations/core-team/#core-team-member-orientation) below.
+3. Once a new member has been added, start the onboarding process by following the steps outlined in the [Core Team member orientation section](/handbook/marketing/developer-relations/core-team/#core-team-member-orientation) below.
   
 ## Monthly Core Team meetings
 
@@ -172,7 +172,7 @@ A list of the up-to-date channels the Core should/have access to can be found in
 
 #### Requesting Core Team access to Slack channels
 1. Please submit an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) with the new channel(s) requested.
-1. Assign the issue to a member of [Contributor Success](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/#team-members) who will complete the next steps.
+1. Assign the issue to a member of [Contributor Success](/handbook/marketing/developer-relations/contributor-success/#team-members) who will complete the next steps.
 1. Contributor Success to: Identify the channel(s) owner and invite them to review the request by leaving a comment on whether they agree on having Core Team members in their channel(s).
 1. After successful review, issue is handed/assigned to Slack Admins, for inviting Core Team members to the channels and the list above is updated.
 
@@ -189,19 +189,19 @@ To improve their development experience, Core Team members are granted [`Develop
 
 At this time, Core Team members are not added to the [`gitlab-com` group](https://gitlab.com/gitlab-com), which is used for projects and processes associated to the GitLab company.
 
-[Contributor Success](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/#team-members) will generally take the action to grant this permission as part of the new Core Team member's orientation issue.
+[Contributor Success](/handbook/marketing/developer-relations/contributor-success/#team-members) will generally take the action to grant this permission as part of the new Core Team member's orientation issue.
 
 ### Team page listing
 
-To emphasize their affiliation and closeness to the GitLab team, and to raise visibility on their profile, Core Team members can [add themselves to the GitLab team page](https://about.gitlab.com/handbook/git-page-update/#12-add-yourself-to-the-team-page) and ask a review from any member of [Contributor Success](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/#team-members).
+To emphasize their affiliation and closeness to the GitLab team, and to raise visibility on their profile, Core Team members can [add themselves to the GitLab team page](https://about.gitlab.com/handbook/git-page-update/#12-add-yourself-to-the-team-page) and ask a review from any member of [Contributor Success](/handbook/marketing/developer-relations/contributor-success/#team-members).
 
 This will list their profile on [the Core Team page](/community/core-team/) as well.
 
 ### GitLab top tier license
 
-To enable contributions and to gain insight on GitLab capabilities, Core Team members can [request a free top tier license for development purposes](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#contributing-to-the-gitlab-enterprise-edition-ee).
+To enable contributions and to gain insight on GitLab capabilities, Core Team members can [request a free top tier license for development purposes](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#contributing-to-the-gitlab-enterprise-edition-ee).
 
-GitLab top tier licenses in SaaS or self-managed instances are granted to Core Team members for 1 year and can be renewed for another year during the Core Team member term. If a member decides to step down but still wishes to contribute to GitLab occasionally, they will still be eligible for a GitLab license, but the renewal period will be the [standard 3 months given to other GitLab community members](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#contributing-to-the-gitlab-enterprise-edition-ee).
+GitLab top tier licenses in SaaS or self-managed instances are granted to Core Team members for 1 year and can be renewed for another year during the Core Team member term. If a member decides to step down but still wishes to contribute to GitLab occasionally, they will still be eligible for a GitLab license, but the renewal period will be the [standard 3 months given to other GitLab community members](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#contributing-to-the-gitlab-enterprise-edition-ee).
 
 There is no specific limit on the number of seats that Core Team members can request. We trust Core Team members to use their own judgement to estimate the number of users they will need for development purposes, and not to use the license for for-profit purposes.
 

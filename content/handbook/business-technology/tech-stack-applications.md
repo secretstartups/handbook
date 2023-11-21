@@ -73,7 +73,7 @@ Please ensure that whenever you update the tech stack, you follow the instructio
 | collected_data | Text or Unknown**  | Data that is collected by the tool | MR Author and contributors |
 | employee_or_customer_facing_app | Text (employee, customer) | If access is limited to GitLab team members, then please add the `employee` word. If access can be granted to external parties, then add `customer` | MR Author and contributors |
 | notes | Text or Unknown** | Additional relevant information about the system that is not captured in any other field. Examples include the GitLab Epic for implementation and rollout. | Optional, MR Author and contributors |
-| handbook_link | Text/Markdown or Unknown** | Link to the `Tech Stack Guide` handbook page that includes function and system information.  Example: "The Marketing handbook contains the [Marketo Tech Stack Guide](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/tech-stack-guide-marketo/)." | Optional, MR Author and contributors |
+| handbook_link | Text/Markdown or Unknown** | Link to the `Tech Stack Guide` handbook page that includes function and system information.  Example: "The Marketing handbook contains the [Marketo Tech Stack Guide](/handbook/marketing/marketing-operations/marketo/tech-stack-guide-marketo/)." | Optional, MR Author and contributors |
 | external_link | Text/Markdown or Unknown** | Link to the app's primary website. Example: "[ContractWorks](https://www.contractworks.com/)" | Optional, MR Author and contributors |
 | google_group | Text or Unknown** | Google group being used to manage access to the systems through Okta | Optional, MR Author and contributors |
 

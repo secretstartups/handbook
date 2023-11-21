@@ -21,7 +21,7 @@ The Brand Strategy team is responsible for accelerating GitLab’s path to marke
 - Matthew Jordan: Senior Brand Manager - `@jmatthewj`
 - Betsy Bula: Senior Brand Manager - `@bbula`
 
-We’re part of the broader [Brand and Product Marketing team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/) at GitLab, and we’re close counterparts of the Brand Creative team. Looking for design-related resources? Check out the [Brand Creative handbook](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/).
+We’re part of the broader [Brand and Product Marketing team](/handbook/marketing/brand-and-product-marketing/) at GitLab, and we’re close counterparts of the Brand Creative team. Looking for design-related resources? Check out the [Brand Creative handbook](/handbook/marketing/brand-and-product-marketing/design/).
 
 # What we do
 
@@ -50,7 +50,7 @@ Have a creative request for the Brand team? Please [open an issue](https://gitla
 
 ### Swag requests
 
-Check out the GitLab [swag handbook page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/) for more details on the swag process. You can also ask questions in the #swag Slack channel.
+Check out the GitLab [swag handbook page](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/) for more details on the swag process. You can also ask questions in the #swag Slack channel.
 
 ### Outdated logo or messaging requests
 
@@ -64,7 +64,7 @@ Please reach out in the #brand Slack channel if you have questions.
 
 If you receive a vendor request for GitLab to act as a reference (case study, blog post or GitLab logo on their website, etc.) for the product, service, or technology that your GitLab team is using, please refer to these guidelines and check to see if the request meets the criteria. If it does, you can move through the approval process to notify the Brand team of your request.
 
-For Public Relations requests, please reference the [Corporate Communications handbook page](https://about.gitlab.com/handbook/marketing/corporate-communications/#partner-requests-for-press-release-support).
+For Public Relations requests, please reference the [Corporate Communications handbook page](/handbook/marketing/corporate-communications/#partner-requests-for-press-release-support).
 
 #### Vendor reference criteria
 
@@ -74,8 +74,8 @@ Please ensure that the vendor meets this criteria before proceeding with the app
 - The product, service, and/or technology has met or exceeded your expectations.
 - E-group member approval for all reference requests except logo use. (E-group member will be for the specific organization using the vendor. For example, if it is a tool the Product team uses, David DeSanto will be the approver for e-group.)
 - If the request involves GitLab logo/brand use, please ensure the vendor follows the below:
-    1. [Trademark Guidelines](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/)
-    1. [Brand Standards](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/#brand-guidelines)
+    1. [Trademark Guidelines](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/)
+    1. [Brand Standards](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/#brand-guidelines)
 
 #### Approval process
 
@@ -99,7 +99,7 @@ GitLab's official brand guidelines can be found at [design.gitlab.com](https://d
 
 GitLab's official logo files can be found and downloaded in the [press kit](/press/press-kit/).
 
-Refer to GitLab's [trademark guidelines](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/) for details on how our trademarks can and can't be used.
+Refer to GitLab's [trademark guidelines](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/) for details on how our trademarks can and can't be used.
 
 
 

@@ -22,7 +22,7 @@ Depending on the impacted resources, the following teams should be engaged and m
 - [Support Team](https://about.gitlab.com/support/) - responding to customer or employee inquiries regarding system outages
 - [Legal & Corporate Affairs](https://about.gitlab.com/handbook/legal/)
 - [Security Assurance]({{< ref "security-assurance" >}}) - assuring the security of GitLab as an enterprise application
-- [Marketing](https://about.gitlab.com/handbook/marketing/emergency-response/) - accurately represent GitLab and our products in our marketing, advertising, and sales materials.
+- [Marketing](/handbook/marketing/emergency-response/) - accurately represent GitLab and our products in our marketing, advertising, and sales materials.
 
 ***Communications:***
 

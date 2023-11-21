@@ -29,10 +29,10 @@ The epic code in each section below outlines the necessary issues to open in ord
 {: #content-types .gitlab-orange}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 * **Content for use in marketing campaigns:** we leverage the content in our marketing channels (website, email nurture, paid digital, organic social, etc.)
-    * [Internal GitLab-created content](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/content-in-campaigns#internal-content): We created and developed the content in house
-    * [External content (i.e. Analyst Relations)](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/content-in-campaigns#external-content): We have bought the rights to use the content from an external vendor (analysts or publishers, for example) or received the content from a partner
-    * [On-Demand Webcasts](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/)
-* **[Content syndication](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#content-syndication)** (under Digital Marketing): We have promoted our content through a third-party vendor, but do not drive people back to our website. In these cases, we often have given them the resource to make available for download to their audience, and receive the leads to be uploaded.
+    * [Internal GitLab-created content](/handbook/marketing/demand-generation/campaigns/content-in-campaigns#internal-content): We created and developed the content in house
+    * [External content (i.e. Analyst Relations)](/handbook/marketing/demand-generation/campaigns/content-in-campaigns#external-content): We have bought the rights to use the content from an external vendor (analysts or publishers, for example) or received the content from a partner
+    * [On-Demand Webcasts](/handbook/marketing/virtual-events/webcasts/)
+* **[Content syndication](/handbook/marketing/marketing-operations/campaigns-and-programs/#content-syndication)** (under Digital Marketing): We have promoted our content through a third-party vendor, but do not drive people back to our website. In these cases, we often have given them the resource to make available for download to their audience, and receive the leads to be uploaded.
 
 ## How to pick content for campaigns
 {: #picking-content-for-campaigns .gitlab-purple}
@@ -136,7 +136,7 @@ If you have any questions on this process, please contact `@aoetama` in the [#ma
 * [ ] [Landing Page Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-content-landing-page) - Content & Campaigns _(only if promoting via Facebook and Google AdWords)_
 * [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - Digital Marketing
 * [ ] [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-gtm-organic) - Social
-* [ ] [Blog](https://about.gitlab.com/handbook/marketing/blog/) - Editorial
+* [ ] [Blog](/handbook/marketing/blog/) - Editorial
 * [ ] [PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) - PR
 
 </details>
@@ -149,7 +149,7 @@ If you have any questions on this process, please contact `@aoetama` in the [#ma
 <!-- DO NOT CHANGE THIS ANCHOR -->
 External content can be sourced from Analyst Relations, partners, and other vendors with whom we work. Some examples would be vendor comparisons (i.e. Gartner/Forrester) or industry/market analyses (i.e. DevOps Institute).
 
-When a GitLab team member (i.e. AR) is evaluating a potential content for sponsorship, they are responsible for working with the [GTM Motion teams](https://about.gitlab.com/handbook/marketing/plan-fy22/#core-teams) to discuss how to leverage the content and if it makes sense for us to sponsor. They can do so by opening a [decision matrix issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=decision-tree-matrix) (see step by step process below). The campaign manager will evaluate the decision matrix inputs and give the final go/no go on sponsorship decision. If the decision is to sponsor the external content, the campaign manager will create the content activation epic and associated issues to request work of all relevant teams (outlined below to try to make it efficient, comprehensive, and repeatable!).
+When a GitLab team member (i.e. AR) is evaluating a potential content for sponsorship, they are responsible for working with the [GTM Motion teams](/handbook/marketing/plan-fy22/#core-teams) to discuss how to leverage the content and if it makes sense for us to sponsor. They can do so by opening a [decision matrix issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=decision-tree-matrix) (see step by step process below). The campaign manager will evaluate the decision matrix inputs and give the final go/no go on sponsorship decision. If the decision is to sponsor the external content, the campaign manager will create the content activation epic and associated issues to request work of all relevant teams (outlined below to try to make it efficient, comprehensive, and repeatable!).
 
 All external content should be planned in advance of purchase with `at least a 30 business day time to launch date`. This allows time to plan activation into existing and future integrated campaigns and GTM Motions.
 
@@ -277,12 +277,12 @@ Adjust list as applicable for each report activation. [Use the workback timeline
 {: #add-to-resources-page .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 *Note from `@aoetama`: [open issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1030) to investigate how to leverage Pathfactory to automatically tap into all content for a better user experience and more efficient process on the GitLab side.*
-1. The process for **Changes to the Marketing Site** is owned by the Digital Experience (DEX) Team. Refer to their Handbook process for [Approving Changes to the Marketing Site](https://about.gitlab.com/handbook/marketing/digital-experience/#approving-changes-to-the-marketing-site) and [Marketing Site Approval Process](https://about.gitlab.com/handbook/marketing/digital-experience/marketing-site-approval-process/).
+1. The process for **Changes to the Marketing Site** is owned by the Digital Experience (DEX) Team. Refer to their Handbook process for [Approving Changes to the Marketing Site](/handbook/marketing/digital-experience/#approving-changes-to-the-marketing-site) and [Marketing Site Approval Process](/handbook/marketing/digital-experience/marketing-site-approval-process/).
 1. Begin a new MR from [the resources-list yml](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/resources/resources-list.yml). Use the `marketing-site-change` [MR template](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/.gitlab/merge_request_templates/marketing-site-change.md)
 1. Use the code below to add a new entry with the relevant variables
 1. Add commit message `Add [resource name] to Resources page`, rename your target branch, leave "start a new merge request with these changes" and click "Commit Changes"
 1. Assign the merge request to yourself
-1. Tag any member of the [Digital Experience Team](https://about.gitlab.com/handbook/marketing/digital-experience/#groups-metrics--team-members) as `Reviewer`
+1. Tag any member of the [Digital Experience Team](/handbook/marketing/digital-experience/#groups-metrics--team-members) as `Reviewer`
 1. Comment to the `Reviewer` that the MR is ready to merge
 
 *Note: For ungated journeys, the URL drives to the PF asset/track, instead of a landing page.*
@@ -393,7 +393,7 @@ Adjust list as applicable for each report activation. [Use the workback timeline
 <!-- DO NOT CHANGE THIS ANCHOR -->
 At times, we will extend the rights to an asset if it is heavily used by sales or performing in campaigns. In that case the decision is indicated in the [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst).
 
-Follow the steps outlined [in the Pathfactory Content Library Handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/content-library/#replacing-or-updating-the-verson-of-an-asset-after-initial-upload). 
+Follow the steps outlined [in the Pathfactory Content Library Handbook](/handbook/marketing/marketing-operations/pathfactory/content-library/#replacing-or-updating-the-verson-of-an-asset-after-initial-upload). 
 
 ## How to retire analyst assets when they expire
 {: #retire-analyst-assets .gitlab-purple}
@@ -419,12 +419,12 @@ An [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/
 ### Remove from Intelligent Nurture
 {: #remove-intelligent-nurture}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-Please follow the process outlined in the [Emails/Nurture Handbook](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture).
+Please follow the process outlined in the [Emails/Nurture Handbook](/handbook/marketing/lifecycle-marketing/emails-nurture).
 
 ### Remove from Pathfactory
 {: #remove-pathfactory}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-Please follow the process outlined in the [Pathfactory Handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/content-library/#removing-an-asset-from-the-library).
+Please follow the process outlined in the [Pathfactory Handbook](/handbook/marketing/marketing-operations/pathfactory/content-library/#removing-an-asset-from-the-library).
 
 ### Marketo automation and setup for gated landing page
 {: #steps-gated-landing-pages}
@@ -502,7 +502,7 @@ Please follow the process outlined in the [Pathfactory Handbook](https://about.g
   * Filter 1 - `Filled Out Form` should already be set properly. This will be `Form Name` is any. `Web Page` is (the name of your landing page).
   * Filter 2 - `Filled Out Form` should be set to `Form Name` is "Form 2074: PF General". In `Referrer` contains, enter the Pathfactory asset name slug. For example `guide-to-devops`.
   * Filter 3 - `Filled out Form` should be set to `Form Name` is "Pathfactory Webhook". In `Referrer` contains, enter the Pathfactory asset name slug. For example `guide-to-devops`. `Date of Activity` should already be set to in the past 1 hour.
-  * Filter 4 - `Pathfactory Engagement Time` greater than 60 is set as the default. 60 is the Pathfactory view threshold for eBooks and Whitepapers. If your content falls into this category, no updates are necessary. Any other content types should be updated with the threshold outlined under [Pathfactory Scoring](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#pathfactory-scoring). For example, if you are creating an analyst report, you will enter 120 instead of 60.
+  * Filter 4 - `Pathfactory Engagement Time` greater than 60 is set as the default. 60 is the Pathfactory view threshold for eBooks and Whitepapers. If your content falls into this category, no updates are necessary. Any other content types should be updated with the threshold outlined under [Pathfactory Scoring](/handbook/marketing/marketing-operations/pathfactory/#pathfactory-scoring). For example, if you are creating an analyst report, you will enter 120 instead of 60.
   * Advanced filters will be set to `1 or 2 or (3 and 4)`
   * Flow: it's all set! For your first few, feel free to review the flows (but they are all using tokens, so it should be ready to go automatically)
   * Schedule tab: click "Activate" (note: the settings should be that "each person can run through the flow once every 7 days" - this is to avoid bots resubmitting repeatedly)

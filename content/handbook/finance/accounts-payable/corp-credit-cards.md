@@ -60,7 +60,7 @@ anything over $50.   You can add the receipt once the charge reflects in Navan C
 **Shipping & Postage Fees**
 
 - Shipping for items related to events, prizes, gifts for significant life events.
-- Details for SWAG shipping can be found in the [merchandise workflow](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#swag-shop).
+- Details for SWAG shipping can be found in the [merchandise workflow](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#swag-shop).
 
 ## 4. Non- Permissible Items
 
@@ -143,7 +143,7 @@ Along with any charges that are over $5,000 USD (or equivalent local currency) t
 ### Prizes
 
 - Of any kind need to run through the virtual card procurement process.
-- For Swag related prizes please see the [merchandise workflow page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#swag-shop).
+- For Swag related prizes please see the [merchandise workflow page](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#swag-shop).
 
 ## 5. Out of Policy Transactions
 

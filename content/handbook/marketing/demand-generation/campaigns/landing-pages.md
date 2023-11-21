@@ -31,7 +31,7 @@ twitter_creator: "@gitlab"
 
 # Resources and related issues
 * [Character Count Checker](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=868164112)
-* [Documentation of Modular Marketo Landing Page](https://about.gitlab.com/handbook/marketing/digital-experience/marketo-page-template/)
+* [Documentation of Modular Marketo Landing Page](/handbook/marketing/digital-experience/marketo-page-template/)
 * Related Brand & Digital Issues:
   * [Create a new Marketo landing page template phase 1](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/7259)
   * [Marketo Landing Page Phase 1 - KPIs & Validation](https://gitlab.com/gitlab-com/marketing/growth-marketing/brand-and-digital/brand-and-digital/-/issues/52)
@@ -54,28 +54,28 @@ The following section point to more detailed processes for Marketo landing pages
 _Curious how to estimate when a landing page due date should be set? We've tried to make it easy with a workback, so that you can also clearly see the **dependencies** for a landing page to be created (including landing page copy, which is a separate issue teamplate)._
 
 * Gated content (in-house content, analyst content, and competitive content)
-  * [Handbook page to reference process and details](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/content-in-campaigns/)
+  * [Handbook page to reference process and details](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/)
   * [Workback schedule calculator](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=1648326617)
   * [Character limit checker](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679)
 * Webcast registration page
-  * [Handbook page to reference process and details](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#step-3c-create-the-landing-page)
+  * [Handbook page to reference process and details](/handbook/marketing/virtual-events/webcasts/#step-3c-create-the-landing-page)
   * [Workback schedule calculator](https://docs.google.com/spreadsheets/d/1A4c2OodEAsOlN4Ek-rBiLlwkdF0AvX5YBiY4mhkZd-M/edit#gid=666473040)
   * [Character limit checker](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=43971442)
 * Event meeting request or general info pages
-  * [Handbook page to reference for process and details](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) (YML)
+  * [Handbook page to reference for process and details](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) (YML)
 
 #### General Marketo landing page creation instructions
-1. In Marketo, you will have already [cloned the correct template](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#step-1-clone-the-marketo-program-indicated-below) for your campaign type and followed the standard process for Marketo program creation and SFDC campaign creation via sync.
+1. In Marketo, you will have already [cloned the correct template](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-1-clone-the-marketo-program-indicated-below) for your campaign type and followed the standard process for Marketo program creation and SFDC campaign creation via sync.
 1. In your Marketo program, fill in the appropriate Marketo tokens (Marketo program > `My Tokens`) for the template you are creating
 1. In the `Assets` folder, left-click `Landing Page` > `Edit Draft`
 1. In most cases, the Maketo landing page copy will include the `My Tokens` referenced above, with then does not require any edits to the landing page.
-1. Use the approved copy that meets the character limits to update the landing page. Please ensure your copy meets [conversion best practices](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/landing-pages/#landing-page-conversion-best-practices).
+1. Use the approved copy that meets the character limits to update the landing page. Please ensure your copy meets [conversion best practices](/handbook/marketing/demand-generation/campaigns/landing-pages/#landing-page-conversion-best-practices).
 1. When the landing page is finished, click `Preview` to ensure all tokens are correctly applied and the page appears as intended (copy, design, etc). Click `Preview Actions` > `Approve and Close`.
   * Note: if you see tokens instead of the desired text, you may need to troubleshoot. Make sure your token code in the page exactly matches the Marketo program token name.
-1. Update URL by clicking `Landing Page Actions` > `URL Tools` > `Edit URL setting`. The new URL should reflect our [landing page naming convention](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/landing-pages/#landing-page-naming-convention)
+1. Update URL by clicking `Landing Page Actions` > `URL Tools` > `Edit URL setting`. The new URL should reflect our [landing page naming convention](/handbook/marketing/demand-generation/campaigns/landing-pages/#landing-page-naming-convention)
 1. Edit any related emails, such as `confirmation` or `sales alert` and approve the edits
 1. Review flow steps and activate related smart campaigns
-1. Test your landing page using the [QA Review Steps](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/landing-pages/#landing-page-qa-review-steps)
+1. Test your landing page using the [QA Review Steps](/handbook/marketing/demand-generation/campaigns/landing-pages/#landing-page-qa-review-steps)
 1. Once tested and any necessary updates made, comment in the relevant issue to alert other approvers to review and approve
 1. When the page is live, do final QA on live version to test all flows are working appropriately via Marketo
 1. Enter the URL of the landing page in the `landingpageURL` token. You will need to remove the `https://` before `page.gitlab.com` in the token for use in emails as this will cause issues with Marketo tracking. Our email templates are coded to have the `https://` hard coded so you do not experience a problem if you properly use the token.
@@ -83,9 +83,9 @@ _Curious how to estimate when a landing page due date should be set? We've tried
 
 
 **Specific landing page instructions**
-* Event landing pages (events yml) - [See Events Handbook Page](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) (for now)
-* Gated content landing pages - [See Gated Content Handbook Page](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/content-in-campaigns/) 
-* Webcast landing pages - [See Webcast Handbook Page](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#step-3c-create-the-landing-page)
+* Event landing pages (events yml) - [See Events Handbook Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) (for now)
+* Gated content landing pages - [See Gated Content Handbook Page](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/) 
+* Webcast landing pages - [See Webcast Handbook Page](/handbook/marketing/virtual-events/webcasts/#step-3c-create-the-landing-page)
 
 ## Landing page naming convention
 
@@ -135,6 +135,6 @@ This standardizes our page names for use in reporting and systems such as our AB
     * For Marketo landing pages, open an incognito window and go to the URL of the page you are testing
     * For landing pages in an MR, when the pipeline approves, go to the review app and navigate to the page you are testing
 * Check for spelling and grammatical errors (note: these should ideally be caught during copy review prior to landing page creation)
-* Check that [conversion best practices](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/landing-pages/#landing-page-conversion-best-practices) are met
+* Check that [conversion best practices](/handbook/marketing/demand-generation/campaigns/landing-pages/#landing-page-conversion-best-practices) are met
 * Fill out the form and ensure all flow steps in Marketo trigger appropriately (i.e. you receive confirmation email, interesting moment applied, program membership updated, alert sent if applicable, etc.) 
 * Confirm correct location is arrived at post-form submit (i.e. correct form success message or a resulting thank you page)

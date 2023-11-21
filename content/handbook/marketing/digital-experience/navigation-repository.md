@@ -11,7 +11,7 @@ title: "Navigation Repository"
 
 # Navigation Repository
 
-The [navigation repository](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation) (also known as `be-navigation`) is a separate package that is updated and maintained independently from the rest of the marketing website. This is so that we can make changes in one place, and have any consuming repositories pull from that single source of truth. The navigation is currently maintained by the [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/). 
+The [navigation repository](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation) (also known as `be-navigation`) is a separate package that is updated and maintained independently from the rest of the marketing website. This is so that we can make changes in one place, and have any consuming repositories pull from that single source of truth. The navigation is currently maintained by the [Digital Experience team](/handbook/marketing/digital-experience/). 
 
 Navigation is following [Semantic Versioning](https://semver.org/). The current released version can be found on this [npm page](https://www.npmjs.com/package/be-navigation) under `Versions`. 
 
@@ -34,7 +34,7 @@ To ensure that changes become visible in production, it's necessary to **publish
 
 To request changes to the Navigation repository, please fill out an issue [here](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation/-/issues/new) to be triaged by the Digital Experience team. 
 
-If you would like to self-serve changes to the navigation, feel free to clone the project locally following the instructions in the [readme](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation/-/blob/main/README.md). Once you make changes, please tag a member of the [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/#groups-metrics--team-members) to review your MR. We are consistently running tests on navigation links, and doing research and design spikes on navigation changes, so all changes will need to be approved by a member of our team.
+If you would like to self-serve changes to the navigation, feel free to clone the project locally following the instructions in the [readme](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation/-/blob/main/README.md). Once you make changes, please tag a member of the [Digital Experience team](/handbook/marketing/digital-experience/#groups-metrics--team-members) to review your MR. We are consistently running tests on navigation links, and doing research and design spikes on navigation changes, so all changes will need to be approved by a member of our team.
 
 **When making a change to the navigation, it's important to check for an AB test**. The quickest check is to look at the file system for the navigation repository. Is there a folder for `Navigation` as well as a folder for `NavigationB` (or some other duplicate name that contains similar files)? If so, be sure to make your changes in both folders, so that both variants will see the updates.
 

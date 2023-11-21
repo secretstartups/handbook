@@ -42,7 +42,7 @@ From the customer side, these may include:
 
 - [Economic buyer](https://about.gitlab.com/handbook/sales/meddppicc/#economic-buyer)
 - [Champion](https://about.gitlab.com/handbook/sales/meddppicc/#champion)
-- [Executives](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/#tech-exec-tristan)
+- [Executives](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/#tech-exec-tristan)
 - Managers & leadership responsible for GitLab use case implementation
 - [Key customer personas](https://about.gitlab.com/handbook/customer-success/csm/engagement/#customer-personas)
 

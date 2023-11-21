@@ -34,7 +34,7 @@ Web Traffic Analysis helps to gain insights about visitors and their behavior on
 
 - Learn Google Analytics fundamentals: [Analytics Academy Online Courses](https://analytics.google.com/analytics/academy/)
 - Understand format and schema of BigQuery data: [BigQuery Export Schema - Columns](https://support.google.com/analytics/answer/3437719?hl=en)
-- Information about Google Analytics implementation for GitLab public websites [Marketing Web Analytics - Inbound Mktg](https://about.gitlab.com/handbook/marketing/growth-marketing/inbound-marketing/analytics/#dimensions-vs-metrics)
+- Information about Google Analytics implementation for GitLab public websites [Marketing Web Analytics - Inbound Mktg](/handbook/marketing/growth-marketing/inbound-marketing/analytics/#dimensions-vs-metrics)
 - SaaS Trial Sisense dashboard using BigQuery data: [SaaS Trial Dashboard](https://app.periscopedata.com/app/gitlab/697554/SaaS-Trial-Dashboard)
 
 ### Data Caveats and Constraints

@@ -58,7 +58,7 @@ Note: If travel is required for a customer speaker, this will not be funded by t
 
 **Process for fulfilling a request to support a Partner/Alliance Associated event**
    1. Requestor opens an issue on the [Customer Reference Board](https://gitlab.com/groups/gitlab-com/marketing/-/boards/927283?&label_name[]=Customer%20Reference%20Program) with the label "Customer Speaking Requests" a minimum of 75 days before the event. Ideally 90 days.
-   2. Please send a slack notification to the regional [Customer Reference Manager](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact)  with a link to the issue.
+   2. Please send a slack notification to the regional [Customer Reference Manager](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact)  with a link to the issue.
    3. In the issue, please identify Partner/Alliance organization and anticipated outcome.
    4. Requestor to identify tier of customer requested. (Enterprise, Commercial, SMB)
    5. Customer Reference Manager identifies pool of proposed customers with Reference Edge, SFDC, and Alliance customer stories.
@@ -74,7 +74,7 @@ Note: If travel is required for a customer speaker, it is covered by different p
 ### Requesting a customer for a webinar
 
    1. Please open an issue on the [Customer Reference Board](https://gitlab.com/groups/gitlab-com/marketing/-/boards/927283?&label_name[]=Customer%20Reference%20Program) with the label "Customer Speaking Requests" a minimum of 75 days before the event. Please note if the customer needs to approve and collaborate on a marketing plan; we require 90 days notice as we will need to work with the customers marketing team etc.
-   2. Please send a slack notification to the regional [Customer Reference Manager](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact)  with a link to the issue.
+   2. Please send a slack notification to the regional [Customer Reference Manager](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact)  with a link to the issue.
    3. CRM will pull a SFDC report of customers to view an applicable pool of speakers as well as a report in Reference Edge.
    4. CRM will create a table from the report in the issue listing AE/SAE and customers. CRM will tag any additional AEs/SAEs in the issue.
    5. CRM will work with AEs/SAEs to identify customer stories (if known).
@@ -116,7 +116,7 @@ Note: If travel is required for a customer speaker, it is covered by different p
 ### Requesting a customer for Public Relations activities
 
  1. Please open an issue on the [Customer Reference Board](https://gitlab.com/groups/gitlab-com/marketing/-/boards/927283?&label_name[]=Customer%20Reference%20Program) with the label "Customer Speaking Requests"
- 2. Please send a slack notification to the regional [Customer Reference Manager](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact)  with a link to the issue.
+ 2. Please send a slack notification to the regional [Customer Reference Manager](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact)  with a link to the issue.
  3. CRM will review the request and suggest customers for the PR activity to the requestor
  4. CRM will partner with the AO's for the customer outreach to request their participation in the PR activity.
  4. CRM will introduce the PR Manager to the customer to liaise with them on the PR activity.
@@ -126,7 +126,7 @@ Note: If travel is required for a customer speaker, it is covered by different p
 
  Requesting customers for research and review purposes (an email or a survey **not** a speaking event)
  1. Please open an issue on the [Customer Reference Board](https://gitlab.com/groups/gitlab-com/marketing/-/boards/927283?&label_name[]=Customer%20Reference%20Program) with the label "Customer Review Requests" at least 30 days before the request is due.
- 2. Please send a slack notification to the regional [Customer Reference Manager](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact)  with a link to the issue.
+ 2. Please send a slack notification to the regional [Customer Reference Manager](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact)  with a link to the issue.
  3. CRM will review the request and work with the requestor to create a list of vetted customers for the research.
  4. CRM will confirm with the AO and support teams that the customer would be appropriate for the outreach.
  5. CRM will confirm with the requestor the process for the customer engagement re the request.

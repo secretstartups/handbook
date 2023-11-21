@@ -21,7 +21,7 @@ The page below is intended to align GitLab's sales and marketing efforts with a 
 | ---- | --- |
 | Saumya Upadhyaya (@supadhyaya) | [William Galindez Arias](https://gitlab.com/warias) |
 
-**NOTE: If you are looking for messaging guidelines regarding The DevOps Platform, please visit [The DevOps Platform Message House](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/message-house/index.html).**
+**NOTE: If you are looking for messaging guidelines regarding The DevOps Platform, please visit [The DevOps Platform Message House](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/message-house/index.html).**
 
 ## How to use this value play
 
@@ -65,9 +65,9 @@ End-to-end DevOps requirements typically involve executive involvement - VP of D
 
 The two primary buyer personas are:
 
-1. [Erin - the Application Development Executive](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/)
+1. [Erin - the Application Development Executive](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/)
 The consistency of a DevOps platform and the productivity gains of transparency and contextual aggregation of relevant information align to her primary goal of *predictable business results*.
-1. [Kennedy - the Infrastructure Engineering Director](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/)
+1. [Kennedy - the Infrastructure Engineering Director](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/)
 For Kennedy, the most important benefit of a DevOps Platform delivered as a single application is a decreased cost-to-performance ration while enhancing security and compliance.
 
 Both buyer personas are also secondary user personas. While their day-to-day tasks may not revolve around the DevOps lifecycle, the collaboration and broad visibility the DevOps Platform provides will offer benefit to all adjacent roles. For example, a Product Management executive may not have historically engaged with developers, but the DevOps Platform's ability to provide a value stream view of the product roadmap's execution may encourage the executive to engage more, help discover and remove blockers, and otherwise become more collaboratve.
@@ -134,7 +134,7 @@ The DevOps Platform is relevant to all market segments and industries, though di
 
 ### Operational efficiency
 
-One common set of pain points solved by the DevOps Platform involves the inefficiency of [DIY DevOps implementations](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/message-house/#phase-3-do-it-yourself-diy-custom-integration). Custom toolchains are inefficient, diminishing the potential of workers who interact with it. This typically manifests in two ways.
+One common set of pain points solved by the DevOps Platform involves the inefficiency of [DIY DevOps implementations](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/message-house/#phase-3-do-it-yourself-diy-custom-integration). Custom toolchains are inefficient, diminishing the potential of workers who interact with it. This typically manifests in two ways.
 
 - Productivity lost to toolchain creation and maintenance: By definition, DIY DevOps requires organizations to create and maintain a toolchain that often depends on a mix of APIs, third-party plugins, and custom code. None of the work necessary to build and maintain that toolchain produces measurable end-user value. Many organizations have tasked entire teams with toolchain maintenance, sapping resources from revenue-generating activities and, in many case, decreasing employee satisfaction by assigning less-visible, less-rewarding tasks to development and operations staff.
 - Productivity lost to context switching: Even in a fully-integrated toolchain, moving from one set of tools to another creates a measurable dip in productivity, compounded by each additional tool in a toolchain. Industry experts such as Forrester have [noted the benefits of platforms in reducing this cost](https://www.forrester.com/report/accelerate-sustainable-innovation-with-platforms/) (please contact Analyst Relations for more information on this or other reports).
@@ -163,8 +163,8 @@ The DevOps Platform is more than a collection of features and capabilties—it p
 | Market Requirement | Description | Typical capability-enabling features | Value/ROI |
 |---------|-------------|-----------|------|
 | 1. Agile Planning | The solution supports the planning, initiating, monitoring, controlling, closing, and measuring the value created by Agile teams and projects. | Requirements, Epics, Features, Stories, Iterations, Backlogs, Roadmaps, Boards | Allows businesses to budget for, prioritize, deliver, and assess the success of innovation initiatives. |
-| 2. Source Code Management (Version Control & Collaboration) | Control and manage different versions of the application assets from code to configuration and from design to deployment. | Single sign-on, code ownership, change reviews and approvals, IP allowlist/denylist, activity stream, signed commits, branching and protected branches, diffing, merging, object storage, committer access rules, WebIDE, Geo and Geo HA, disaster recovery, project and file templates, design management, workflow automation, wiki, snippets, and [see full list](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/#market-requirements) | Share and reuse code, prevent rework, and make reviews more efficient. Streamline reviews and collaboration around code changes. Ease compliance with approvals of code changes. |
-| 3. Continuous Integration | Automate and streamline build and test to improve quality and velocity. | Build automation, test automation, pipeline configuration management, visibility & collaboration, multi-platform and language support, pipeline security, and more ([see full list](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#market-requirements)) | CI makes software development easier, faster and less risky for development teams. |
+| 2. Source Code Management (Version Control & Collaboration) | Control and manage different versions of the application assets from code to configuration and from design to deployment. | Single sign-on, code ownership, change reviews and approvals, IP allowlist/denylist, activity stream, signed commits, branching and protected branches, diffing, merging, object storage, committer access rules, WebIDE, Geo and Geo HA, disaster recovery, project and file templates, design management, workflow automation, wiki, snippets, and [see full list](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/#market-requirements) | Share and reuse code, prevent rework, and make reviews more efficient. Streamline reviews and collaboration around code changes. Ease compliance with approvals of code changes. |
+| 3. Continuous Integration | Automate and streamline build and test to improve quality and velocity. | Build automation, test automation, pipeline configuration management, visibility & collaboration, multi-platform and language support, pipeline security, and more ([see full list](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#market-requirements)) | CI makes software development easier, faster and less risky for development teams. |
 | 4. Security | Shift security left and make it relevant throughout the delivery lifecycle. | AST, DAST, IAST, license compliance, fuzz testing, load testing, real-time reporting | Test early to eliminate vulnerabilities at the source and reduce time and cost of remediation.  |
 | 5. Continuous Delivery | Streamline and automate delivering and deploying code to different environments. | Progressive Delivery, Roll out scenarios, Feature Flags, Review Apps, Post Deployment Monitoring | Consistent and repeatable release processes, faster time to market and lower risk releases |
 | 6. Governance, Risk Management, and Compliance | Define, enforce and report on compliance policies and frameworks | Requirements Management, Policy Management, Audit Management | Reduce risk exposure, educate developers about compliance in real-time, provide evidence of compliance to third parties. |
@@ -228,7 +228,7 @@ When viewed through the lens of "the most comprehensive suite of end-to-end func
 
 ### Industry Analyst Relations (IAR) plan
 
-- The IAR Handbook page has been updated to reflect our plans for [incorporating Use Cases into our analyst conversations](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#how-we-incorporate-use-cases-into-our-industry-analyst-interactions).
+- The IAR Handbook page has been updated to reflect our plans for [incorporating Use Cases into our analyst conversations](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#how-we-incorporate-use-cases-into-our-industry-analyst-interactions).
 - For  details specific to each use case, and in respect of our contractual confidentiality agreements with Industry Analyst firms, our engagement plans are available to GitLab team members in the following protected document: [IAR Use Case Profile and Engagement Plan](https://docs.google.com/spreadsheets/d/14UthNcgQNlnNfTUGJadHQRNZ-IrAe6T7_o9zXnbu_bk/edit#gid=1124037301).
 
 For a list of analysts with a current understanding of GitLab's capabilities for this use case, please reach out to Analyst Relations via Slack (#analyst-relations) or by submitting an [issue](https://gitlab.com/gitlab-com/marketing/product-marketing/issues/new) and selecting the "AR-Analyst-Validation" template.
@@ -254,8 +254,8 @@ GitLab offers a [variety of pre-packaged and custom services](https://about.gitl
 - [Auto DevOps Click Through Demo Video](https://youtu.be/V_6bR0Kjju8?t=315)
 
 ### Clickthrough & Live Demos
-- [All Marketing Click Through Demos](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#click-throughs)
-- [All Marketing Live Demos](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#live-instructions)
+- [All Marketing Click Through Demos](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#click-throughs)
+- [All Marketing Live Demos](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#live-instructions)
 
 ### [Message House](./message-house/)
 

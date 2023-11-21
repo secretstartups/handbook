@@ -67,7 +67,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - Please click on the link below and go through the course modules.
    - [Our Customers](https://gitlabfieldenablement.s3.us-east-2.amazonaws.com/Our+Customers+-+Storyline+output/story.html)
 - **QUIZ: Buyer Personas (Assignment - 5 Points - Pre Work)**
-   - Please take a moment to complete this short [quiz](https://docs.google.com/forms/d/e/1FAIpQLSeIDnYn4kWcBZSeRJ98AjUZK7pfj0DqOsnVIcbZjE-atYFExg/viewform) based on information in the [handbook.](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/)
+   - Please take a moment to complete this short [quiz](https://docs.google.com/forms/d/e/1FAIpQLSeIDnYn4kWcBZSeRJ98AjUZK7pfj0DqOsnVIcbZjE-atYFExg/viewform) based on information in the [handbook.](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/)
 - **QUESTION: Personas & Pain Points (Assignment - 1 Point - Pre Work)**
    - Please share your thoughts on the question below. This is a classroom discussion board, let's crowdsource some knowledge! Why is it important to understand different buyer personas as a salesperson?
 - **Customer Success Stories & Proof Points (Material - Handbook - 10 Minutes)**
@@ -167,7 +167,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 - **Social Selling 101 ( Material - Video - 20 Minutes)**
    - Social selling is the art of using social networks to find, connect with, and nurture your customers and prospects. Watch the [video](https://www.youtube.com/watch?v=w-C4jts-zUw) and use this [guide](https://drive.google.com/open?id=1UCRF6PC6al8XxT8E_4rDKkQjkW6WGPA6gybWeuRIg7A&authuser=0) to learn how to make a profile that will resonate with your prospects.
 - **QUESTION: Business Development (Assignment - 15 Minutes - 10 Points - Pre Work)**
-   - Business development is hard... because not everyone gets marketing qualified leads or has a big referral network. Take a look at the [Sales Development](https://about.gitlab.com/handbook/marketing/sales-development/) handbook page to understand more about your XDR partners and their processes. Please share 1-2 insights on strategy or best practices from your experience. How do you consistently keep the pipeline full of leads? Let's crowdsource some best practices!
+   - Business development is hard... because not everyone gets marketing qualified leads or has a big referral network. Take a look at the [Sales Development](/handbook/marketing/sales-development/) handbook page to understand more about your XDR partners and their processes. Please share 1-2 insights on strategy or best practices from your experience. How do you consistently keep the pipeline full of leads? Let's crowdsource some best practices!
 - **QUESTION: Account Development (Assignment - 15 Minutes - 10 Points - Pre Work)**
    - One of the most important parts of a salesperson's job is account development. Your clients bought from you once, and they are very likely to do it again! Please share 1-2 insights on strategy or best practices from your experience. How do you keep your clients buying more and sending referrals? Let's crowdsource some experience!
 
@@ -197,7 +197,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 - **ACTIVITY: Phone-A-Friend: Competitors (Assignment - 45 Minutes - 10 Points - Pre Work)**
    - Talk with 3 tenured GitLab sales professionals (individual contributors or people managers) and ask them for their tips and tricks on successfully beating the competition. Please take notes from your calls and briefly summarize one or two things you learned from each conversation in the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdCwvGRS_-fV9J57KGYIjkXNEUHDigKoPXss-kf9r3Zjozo9w/viewform?usp=sf_link) to submit the assignment.
 - **QUIZ: Competitors (Assignment - 5 Points - Pre Work)**
-Please take a moment to answer the questions in this short [quiz.](https://docs.google.com/forms/d/e/1FAIpQLSc6-LgwwSBBnsXDn1spi68FCseBY8OjP0rur_DKqa9RmEwQIg/viewform) The information in this quiz is covered in the handbook pages on [Competitive Intelligence](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/) and [DevOps Tools Landscape.](https://about.gitlab.com/competition/)
+Please take a moment to answer the questions in this short [quiz.](https://docs.google.com/forms/d/e/1FAIpQLSc6-LgwwSBBnsXDn1spi68FCseBY8OjP0rur_DKqa9RmEwQIg/viewform) The information in this quiz is covered in the handbook pages on [Competitive Intelligence](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/) and [DevOps Tools Landscape.](https://about.gitlab.com/competition/)
 
 </details>
 
@@ -215,7 +215,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 - **GitLab Tech Stack Details (Material - Handbook - 10 Minutes)**
    - Take a look to understand all the [tools that GitLab uses](/handbook/business-technology/tech-stack/) to keep the business running smoothly.
 - **ACTIVITY: You've Got Issues! (Assignment - 20 Minutes - 10 Points - Pre Work)**
-   - Please find the [Sales Enablement Sandbox](https://gitlab.com/gitlab-com/sales-team/sales-enablement-sandbox) Project, and read the handbook page ["No Tissues with Issues"](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/getting-started/101/). Create an issue with a label, due date, weight, and assign it to yourself. Submit the link to your issue to complete this assignment. Also take a look at the [Markdown syntax guide](https://www.markdownguide.org/basic-syntax/) to learn more about how to code using Markdown. This will be very helpful as you create issues and merge requests.
+   - Please find the [Sales Enablement Sandbox](https://gitlab.com/gitlab-com/sales-team/sales-enablement-sandbox) Project, and read the handbook page ["No Tissues with Issues"](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/getting-started/101/). Create an issue with a label, due date, weight, and assign it to yourself. Submit the link to your issue to complete this assignment. Also take a look at the [Markdown syntax guide](https://www.markdownguide.org/basic-syntax/) to learn more about how to code using Markdown. This will be very helpful as you create issues and merge requests.
 - **ACTIVITY: Practice Searching Issues and Filtering Labels (Assignment - 10 minutes - 10 points)**
    - Practice [searching issues and filtering using labels](https://gitlab.com/gitlab-org/gitlab-foss/-/labels)
 - **Update Your LinkedIn Profile! (Assignment - 30 Minutes - 10 Points - Pre Work)**
@@ -334,7 +334,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    -It is essential that you understand the Kubernetes (k8s) fundamentals. Based on your existing Kubernetes experience you should either take the first course "Kubernetes for the Absolute Beginner" (6 hours) or "Learn DevOps: the Complete Kubernetes Course" (13 hours).
 - **Resources (Optional Material)
    -Bookmark these [AWS and CI references](https://docs.google.com/document/d/1bB7vlefsD_jwVgRxwaGuc8-AmR5sMyGSssS_alkNxuc/edit)
-   -Bookmark these [Marketing Demos](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/)
+   -Bookmark these [Marketing Demos](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/)
 
 </details>
 

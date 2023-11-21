@@ -29,7 +29,7 @@ Traditional sales typically bypasses understanding the customer. Traditional sal
 
 ### 1.1 Research
 
-#### 1.1.1 [Determine your Buyer Persona](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/)
+#### 1.1.1 [Determine your Buyer Persona](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/)
 
 A buyer persona is a fictional representation of your key buyers. This helps you pre-identify obstacles, objections, initiatives, and metrics that are important to your buyer. This step will give you an edge in understanding your customers better than your competition. There are typically 5 buyer personas you may encounter.
 

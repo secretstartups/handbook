@@ -132,7 +132,7 @@ For more info, read the **Getting Started.html**  in your DemoEasel folder.
 ### Package and Share
 
 There are two types of packages we use at GitLab: **browser**(HTML5) and **simulation** (Windows/macOS executables).
-The Technical Marketing produces and upload **browser** demo packages to the [demo page in handbook](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#click-throughs) so employees and customers can learn the product and use cases. As it supports iOS, we also use the **browser** type to demo GitLab in demo booths in events.
+The Technical Marketing produces and upload **browser** demo packages to the [demo page in handbook](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#click-throughs) so employees and customers can learn the product and use cases. As it supports iOS, we also use the **browser** type to demo GitLab in demo booths in events.
 
 For customer facing demos or keynotes, it is recommended to use the **simulation** version as it has better performance and actually gives the audience a more live-like demon experience. However, for transparency, when we present a simulation demo, we always announce at the beginning that this is a product simulation, not a live demo.
 

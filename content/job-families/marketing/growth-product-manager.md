@@ -5,7 +5,7 @@ summary: Lead the Growth section which is dedicated to making it easier for team
 
 ## Intro
 
-The GitLab Growth section is dedicated to making it easier for teams to find value and increased efficiency within the GitLab platform. We work across stages within the product experience to make the product as easy as possible to adopt and use. We recommending reviewing our [Growth direction page](https://about.gitlab.com/handbook/marketing/growth) for more in-depth team information.
+The GitLab Growth section is dedicated to making it easier for teams to find value and increased efficiency within the GitLab platform. We work across stages within the product experience to make the product as easy as possible to adopt and use. We recommending reviewing our [Growth direction page](/handbook/marketing/growth) for more in-depth team information.
 
 ## Growth Product Manager Role
 

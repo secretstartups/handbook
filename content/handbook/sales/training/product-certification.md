@@ -36,9 +36,9 @@ graph TD;
 
 ### What the Field Needs to Know
 
-Product training and certification learning objectives are defined for [customer use cases](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/) based on what and how key GitLab features and capabilities deliver against prioritized [market requirements](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/#market-requirements) for each customer use case.
+Product training and certification learning objectives are defined for [customer use cases](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/) based on what and how key GitLab features and capabilities deliver against prioritized [market requirements](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/#market-requirements) for each customer use case.
 
- Learning objectives are also defined for what the field needs to know about GitLab’s [product tiers](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/). Two sets of prioritized product learning objectives are maintained--one for Sales roles and one for Customer Success roles.
+ Learning objectives are also defined for what the field needs to know about GitLab’s [product tiers](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/). Two sets of prioritized product learning objectives are maintained--one for Sales roles and one for Customer Success roles.
 
 ### Training
 

@@ -373,7 +373,7 @@ While we iterate with small changes, we strive for large, ambitious results. We 
       1. [Have outside experts rate us](https://about.gitlab.com/why-gitlab/)
       1. [Have users compare us to the alternative](https://about.gitlab.com/competition/)
    1. Increasing engagement with GitLab
-      1. [Pageviews](https://about.gitlab.com/handbook/marketing/inbound-marketing/#measuring-progress)
+      1. [Pageviews](/handbook/marketing/inbound-marketing/#measuring-progress)
       1. [Certifications](https://about.gitlab.com/learn/certifications/public/)
       1. [Surveys](https://about.gitlab.com/developer-survey/)
    1. [Not tolerating low performance](/handbook/leadership/underperformance/#introduction)

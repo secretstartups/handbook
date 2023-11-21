@@ -27,7 +27,7 @@ This portal shows the items you can claim, given the right coupon code. This is 
 ## Inventory Portal
 
 This portal shows everything we've ordered and that is in stock & ready to ship.
-Access can be requested through an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Access_Change_Request). Mention "MyBrightSites" as the tech stack, and ping a manager from the [Developer Relations department](https://about.gitlab.com/handbook/marketing/developer-relations/). 
+Access can be requested through an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Access_Change_Request). Mention "MyBrightSites" as the tech stack, and ping a manager from the [Developer Relations department](/handbook/marketing/developer-relations/). 
 
 As of 2023-03-20, this tool is not present yet in the [tech_stack.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) file yet. This is a known issue that will soon be resolved. Only Boundless (the external vendor) has the capabilities to provision accounts today.
 
@@ -44,7 +44,7 @@ Note: You can also watch a recorded screencast:
 1. Go to the Google Sheet "Developer Relations Swag Coupon Codes & Delivery Tracking".
 1. Go to the tab "One-time Coupon codes"
 1. Add the `Email recipient` to a code of the corresponding price Tier.
-  *  See [Finding Community Member Contact information](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#contacting-contributors) how to obtain this information.
+  *  See [Finding Community Member Contact information](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#contacting-contributors) how to obtain this information.
 1. Select a `Prize` level.
   * First MR Merged
   * Grand Prize (Event result link required)
@@ -63,7 +63,7 @@ Note: You can also watch a recorded screencast:
 
 ## Swag Nomination
 
-If you think that a community member, contributor, or GitLab team member deserves a prize, [nominate them for some swag](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-appreciation/#nomination-process)! This also applies if you've reached an important milestone with your contributor (e.g First MR merged).
+If you think that a community member, contributor, or GitLab team member deserves a prize, [nominate them for some swag](/handbook/marketing/developer-relations/contributor-success/community-appreciation/#nomination-process)! This also applies if you've reached an important milestone with your contributor (e.g First MR merged).
 
 ## Tiers & Categories
 
@@ -123,10 +123,10 @@ There is a possibility to create access for, say, Meetup organizers, to self-ser
 
 ## Additional resources
 
-- [Merchandise handling](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/)
-- [Field Marketing](https://about.gitlab.com/handbook/marketing/field-marketing/)
-- [Email templates for sending swag links](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-appreciation/#templates-for-sending-swag-links)
-- [Finding Community Member Contact information](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-appreciation/#finding-community-member-contact-information)
+- [Merchandise handling](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/)
+- [Field Marketing](/handbook/marketing/field-marketing/)
+- [Email templates for sending swag links](/handbook/marketing/developer-relations/contributor-success/community-appreciation/#templates-for-sending-swag-links)
+- [Finding Community Member Contact information](/handbook/marketing/developer-relations/contributor-success/community-appreciation/#finding-community-member-contact-information)
 
 ## FAQ
 
