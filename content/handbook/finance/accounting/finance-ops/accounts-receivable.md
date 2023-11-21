@@ -19,7 +19,8 @@ Please see the internal [Wiki](https://gitlab.com/gitlab-com/Finance-Division/fi
 - [Sarah McCauley](/handbook/company/team/#s_mccauley) - Director, Billing & Accounts Receivable
 - [Shannon Williams](/handbook/company/team/#ssilmon) - Manager, Accounts Receivable
 - [Crystal Kelly](/handbook/company/team/#crystalk) - Accounts Receivable Associate
-- [Grace Jackson](/handbook/company/team/#gjackson5) - Accounts Receivable Analyst
+- Israel Gomez - Accounts Receivable Analyst
+- Bradley Medford - Accounts Receivable Analyst
 
 Accounts Receivable works closely with Sales, Deal Desk, Billing Operations, and Revenue Operations Teams.
 
