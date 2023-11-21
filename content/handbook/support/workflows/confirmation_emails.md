@@ -25,7 +25,7 @@ Before the issue can be resolved we first need to locate the account in question
 1. Click the `Apps` button located in the top right of the Zendesk interface, while viewing the ticket.
 1. Scroll down to the `GitLab User Lookup` app.
 1. Observe the results. Check if the app found an account associated with the username or email address provided by the user. If a result was returned for the username lookup only, go to the provided `Admin Link` and check what email address is listed on the account.
-1. Proceed to Step 2 under [Check GitLab Admin](#check-gitlab-admin).
+1. Proceed to Step 2 under Check GitLab Admin.
 
 **If no account was found** use the Zendesk macro [`Support::SaaS::Account does not exist`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/SaaS/Account%20does%20not%20exist.yaml) or, if you believe it's applicable, use [`General::Verify account self-managed or .com`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/General/Verify%20account%20self-managed%20or%20.com.yaml) and then wait for a followup from the user.
 
@@ -61,7 +61,7 @@ Users are recommended to wait for GitLab to automatically delete the account.
 1. Click the `Remove the suppression?` button.
 1. Send the user a new confirmation email.
 
-If this process doesn't work you'll need to remove the suppression in Mailgun. See 👉 [Removing a Suppression in Mailgun](#removing-a-suppression-in-mailgun).
+If this process doesn't work you'll need to remove the suppression in Mailgun. See 👉 [Removing a Suppression in Mailgun](#manually-remove-a-suppression-in-mailgun).
 
 ### Manually remove a Suppression in Mailgun
 
@@ -111,7 +111,7 @@ This is useful to check if emails have been delivered successfully from our end,
 1. Ensure that `mg.gitlab.com` is set as the domain above the activity graph.
 1. Enter the email address to be checked into the search bar, search, and then scan the results to see if mail is being delivered to that address.
     - If email is delayed, respond to the user and ask them to wait.
-    - If email is bouncing due to a suppression (evidenced by the message `Not delivering to previously bounced address` in the log) proceed to [Removing a Suppression in Zendesk](#removing-a-suppression-in-zendesk) or [Removing a Suppression in Mailgun](#removing-a-suppression-in-mailgun).
+    - If email is bouncing due to a suppression (evidenced by the message `Not delivering to previously bounced address` in the log) proceed to [Removing a Suppression in Zendesk](#manually-remove-a-suppression-in-zendesk) or [Removing a Suppression in Mailgun](#manually-remove-a-suppression-in-mailgun).
     - If email is marked as `Delivered` and the response code under `delivery-status` is `"code": 250`, this indicates that the user's mail server acknowledged the receipt, and the email delivery was successful.
 
 ### Identifying Multiple Suppressions on a Single Domain

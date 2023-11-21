@@ -11,7 +11,7 @@ description: GitLab is one of the world's largest all-remote companies
         <a href="https://about.gitlab.com/teamops/" class="btn btn-lg my-2 btn-white">TeamOps Course <i class="fa-solid fa-chevron-right"></i></a>
     </div>
     <div class="col p-4">
-        <a href="https://learn.gitlab.com/allremote/remote-playbook"><img src="/images/remote-playbook-cover.png" style="min-width: 400px;"></a>
+        <a href="https://learn.gitlab.com/allremote/remote-playbook"><img src="/images/remote-playbook-cover.png" alt="Report cover image" style="min-width: 400px;"></a>
     </div>
 </div>
 

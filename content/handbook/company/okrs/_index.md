@@ -326,8 +326,8 @@ At GitLab, we typically create OKRs at each level where some OKRs align with the
 
 Based on the current methodology and feature set in the product, there are two ways to align OKRs to CEO OKRs:
 
-1. [Add relevant OKRs as related items](#method-1--add-relevant-okrs-as-related-items). Most of the time, this is what teams use.
-1. [Have all relevant OKRs as children of a CEO KR](#method-2--all-okrs-added-as-children-of-ceo-kr).
+1. [Add relevant OKRs as related items](#method-1-add-relevant-okrs-as-related-items). Most of the time, this is what teams use.
+1. [Have all relevant OKRs as children of a CEO KR](#method-2-add-all-okrs-as-children-of-ceo-kr).
 
 The second method should be used only if *all* relevant OKRs can be added as children, because **Progress** is automatically scored based on the children if any exist.
 

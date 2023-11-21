@@ -209,90 +209,90 @@
     url: /handbook/security/security-assurance
 - name: Marketing
   icon: fa-solid fa-lightbulb
-  url: https://about.gitlab.com/handbook/marketing/
+  url: /handbook/marketing
   links:
     - name: Team Member Social Media Policy
-      url: https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/
+      url: /handbook/marketing/team-member-social-media-policy
     - name: Blog
-      url: https://about.gitlab.com/handbook/marketing/blog/
+      url: /handbook/marketing/blog
     - name: Brand and Product Marketing
-      url: https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/
+      url: /handbook/marketing/brand-and-product-marketing
       links:
         - name: Brand
-          url: https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/
+          url: /handbook/marketing/brand-and-product-marketing/brand
           links:
             - name: Merchandise Handling (Swag)
-              url: https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/
+              url: /handbook/marketing/brand-and-product-marketing/brand/merchandise-handling
         - name: Product and Solution Marketing
-          url: https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/
+          url: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing
           links:
             - name: Demos
-              url: https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/
+              url: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo
             - name: Core Product Marketing
-              url: https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/
+              url: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing
             - name: Technical Marketing
-              url: https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/technical-marketing/
+              url: /handbook/marketing/developer-relations/technical-marketing
             - name: Competitive intelligence
-              url: https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/
+              url: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence
             - name: Customer Advocacy
-              url: https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/
+              url: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy
         - name: Design
-          url: https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/
+          url: /handbook/marketing/brand-and-product-marketing/design
         - name: Content
-          url: https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/
+          url: /handbook/marketing/brand-and-product-marketing/content
     - name: Integrated Marketing
-      url: https://about.gitlab.com/handbook/marketing/integrated-marketing/
+      url: /handbook/marketing/integrated-marketing
       links:
         - name: Field Marketing
-          url: https://about.gitlab.com/handbook/marketing/field-marketing/
+          url: /handbook/marketing/field-marketing
         - name: Channel & Alliances Marketing
-          url: https://about.gitlab.com/handbook/marketing/channel-marketing/
+          url: /handbook/marketing/channel-marketing
         - name: Corporate Events
-          url: https://about.gitlab.com/handbook/marketing/integrated-marketing/corporate-events/
+          url: /handbook/marketing/integrated-marketing/corporate-events
         - name: Account Based Marketing
-          url: https://about.gitlab.com/handbook/marketing/account-based-marketing/
+          url: /handbook/marketing/account-based-marketing
         - name: Campaigns
-          url: https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/
+          url: /handbook/marketing/demand-generation/campaigns
         - name: Lifecycle Marketing
-          url: https://about.gitlab.com/handbook/marketing/lifecycle-marketing/
+          url: /handbook/marketing/lifecycle-marketing
         - name: Digital Strategy
-          url: https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/
+          url: /handbook/marketing/integrated-marketing/digital-strategy
         - name: Digital Experience
-          url: https://about.gitlab.com/handbook/marketing/digital-experience/
+          url: /handbook/marketing/digital-experience
           links:
             - name: Marketing Site
-              url: https://about.gitlab.com/handbook/marketing/digital-experience/website/
+              url: /handbook/marketing/digital-experience/website
     - name: Sales Development
-      url: https://about.gitlab.com/handbook/marketing/sales-development/
+      url: /handbook/marketing/sales-development
     - name: Marketing Strategy, Ops, & Analytics
-      url: https://about.gitlab.com/handbook/marketing/marketing-strategy-and-platforms/
+      url: /handbook/marketing/marketing-strategy-and-platforms
       links:
         - name: Marketing Operations
-          url: https://about.gitlab.com/handbook/marketing/marketing-operations/
+          url: /handbook/marketing/marketing-operations
         - name: Marketing Strategy & Analytics
-          url: https://about.gitlab.com/handbook/marketing/strategy-performance/
+          url: /handbook/marketing/strategy-performance
     - name: Growth
-      url: https://about.gitlab.com/handbook/marketing/growth
+      url: /handbook/marketing/growth
     - name: Developer Relations & Community
-      url: https://about.gitlab.com/handbook/marketing/developer-relations/
+      url: /handbook/marketing/developer-relations
       links:
       - name: Evangelist Program
-        url: https://about.gitlab.com/handbook/marketing/developer-relations/evangelist-program/
+        url: /handbook/marketing/developer-relations/evangelist-program
       - name: Community Programs
-        url: https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/
+        url: /handbook/marketing/developer-relations/community-programs
       - name: Developer Evangelism
-        url: https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/
+        url: /handbook/marketing/developer-relations/developer-evangelism
       - name: Contributor Success
-        url: https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/
+        url: /handbook/marketing/developer-relations/contributor-success
     - name: Corporate Communications
-      url: https://about.gitlab.com/handbook/marketing/corporate-communications/
+      url: /handbook/marketing/corporate-communications
       links:
       - name: Analyst Relations
-        url: https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/
+        url: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations
       - name: Speaking Resources
-        url: https://about.gitlab.com/handbook/marketing/corporate-communications/speaking-resources/
+        url: /handbook/marketing/corporate-communications/speaking-resources
       - name: Incident Communications Plan
-        url: https://about.gitlab.com/handbook/marketing/corporate-communications/incident-communications-plan/
+        url: /handbook/marketing/corporate-communications/incident-communications-plan
 - name: Sales
   icon: fa-solid fa-handshake
   url: /handbook/sales
