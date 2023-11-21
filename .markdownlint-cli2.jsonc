@@ -5,6 +5,7 @@
   ],
   "fix": false,
   "ignores": [
+    "content/handbook/use-cases/**/*.md",
     "content/handbook/acquisitions/**/*.md",
     "content/handbook/marketing/developer-relations/**/*.md",
     "content/handbook/marketing/emergency-response/**/*.md",

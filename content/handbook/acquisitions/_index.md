@@ -35,11 +35,11 @@ We value strong teams and technology and are looking for a combination of both t
 
 Below is a set of general, yet not strict, characteristics of companies that are a potential fit for our acquisition process:
 
-- Have built features or functionalities which are aligned with GitLab's [long term strategy](/direction/)
-- Engineers that meet our [standard hiring guidelines](https://handbook.gitlab.com/job-families/engineering/backend-engineer/)
+- Have built features or functionalities which are aligned with GitLab's [long term strategy](https://about.gitlab.com/direction/)
+- Engineers that meet our [standard hiring guidelines](/job-families/engineering/backend-engineer/)
 - Ideally bring a solution which accelerates our maturity in a product category
 - R&D team size under 30 people
-according to our [category maturity](/direction/maturity/) or fits into the new categories on our roadmap:
+according to our [category maturity](https://about.gitlab.com/direction/maturity/) or fits into the new categories on our roadmap:
 
 <div class="sdlc-partial"><%= partial "direction/breadth/sdlc" %></div>
 
@@ -50,14 +50,14 @@ according to our [category maturity](/direction/maturity/) or fits into the new 
 
 ### Additional criteria specific to soft-landing acquisitions
 - Built a great product but is missing distribution
-- Located in a country without [GitLab hiring restrictions](https://about.gitlab.com/handbook/people-group/employment-solutions/#country-hiring-guidelines) with a particular focus on EMEA
+- Located in a country without [GitLab hiring restrictions](/handbook/people-group/employment-solutions/#country-hiring-guidelines) with a particular focus on EMEA
 - Team size under 10 people
 
 
 ## Considering joining forces with GitLab
 
 1. Please review our [handbook](/handbook/); it is the central repository for how we run the company.
-1. Spend time understanding if a [remote culture](/company/culture/all-remote/) is right for you and your team.
+1. Spend time understanding if a [remote culture](/handbook/company/culture/all-remote/) is right for you and your team.
 
 ## Why join GitLab?
 
@@ -95,7 +95,7 @@ For soft-landing acquisitions we offer the following:
 The founders made themselves available for us at anytime, and we had regular meetings for several months until we all estimated the situation stable enough. Onboarding a whole team at once is a challenge: the peopleops team did everything they could to help and to make them feel comfortable with their new positions. They were happy to continue on the foundations we’ve built over the years while being able to contribute to a greater goal. We managed to identify with the management where we could have the best impact, and provide results as soon as possible.
 I don’t see anything GitLab could have done differently to make this acquisition smoother. The most important value to follow in this kind of event is Trust (because you can only lose it once). GitLab, and especially its CEO, was incredibly clear and respectful during all the process and beyond."
 
-**[Gemnasium: Our GitLab journey](/blog/2019/04/30/gemnasium-our-gitlab-journey/)**
+**[Gemnasium: Our GitLab journey](https://about.gitlab.com/blog/2019/04/30/gemnasium-our-gitlab-journey/)**
 
 ## Keys to successful acquisitions
 
