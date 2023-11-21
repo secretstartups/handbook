@@ -12,6 +12,7 @@ A highly visible and customer-facing position, within the Professional Services 
 | -- | - |
 | [Intermediate](#program-manager) | [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
 | [Senior](#senior-program-manager) | [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
+| [Manager](Manager-program-delivery) | (Grade 8)
 
 ## Performance Indicator
 
@@ -73,6 +74,31 @@ A highly visible and customer-facing position, within the Professional Services 
 ### Public Sector
 
 The Responsibilities, Requirements, and Additional Sklls for Public Sector Professional Services Program Managers are identical to the commensurate Level and Grade of their non-Public Sector peers. The only additional job requirement is the necessary clearance to work on Government Contracts.
+
+### Manager Professional Services Program Delivery
+
+#### Responsiblities
+
+- Standardization: Establish and maintain project management standards and methodologies to ensure consistency across all projects. Including the definition of processes, templates, and guidelines that project managers and teams follow as a way of ensuring consistent delivery.
+
+- Team Member Oversight: Oversee the work of the Program Delivery team, including project managers and program managers. This involves providing guidance, support, and feedback to ensure that projects are on track and aligned with Professional Services and customer objectives.
+
+- Project Oversight: Monitor the progress of all Professional Services customer projects. The Program Delivery Manager is responsible for ensuring that projects are delivered on time, within scope, within budget, and meet/exceed the customer’s defined success criteria.
+
+- Resource Management: Work closely with PS Operations and technical managers to ensure effective resource allocations to meet project demands. This includes personnel, budget, and any other resources necessary for project success.
+
+- Risk Management: Identify and mitigate risks associated with projects. The Program Manager team manager will work closely with Program and Project Managers to anticipate potential issues and develop strategies to address them before they impact customer project delivery.
+
+- Communication: Facilitate communication between different project teams, stakeholders, and organizational leadership. Clear and effective communication is essential for successful customer project management.
+
+#### Requirements
+
+- A Bachelor's degree in Business, Administration, or a related field
+- A minimum of three year's experience in a supervisory position (required)
+- DevOps industry-specific understanding of services and technology involved 
+- A minimum of five years of experience in the industry
+- A Project Management Professional (PMP) Certification (preferred)
+
 
 ## Career Ladder
 
