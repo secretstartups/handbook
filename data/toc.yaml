@@ -19,7 +19,7 @@
       url: communication
       links:
       - name: YouTube
-        url: https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/
+        url: /handbook/marketing/marketing-operations/youtube
       - name: Zoom Webinars
         url: webinars
     - name: Culture
@@ -359,7 +359,7 @@
   url: /handbook/product
   links:
   - name: Release posts
-    url: https://about.gitlab.com/handbook/marketing/blog/release-posts/
+    url: /handbook/marketing/blog/release-posts
   - name: About the GitLab Product
     url: /handbook/product/gitlab-the-product
   - name: Being a Product Manager at GitLab
@@ -381,7 +381,7 @@
   - name: Data analysis
     url: /handbook/business-technology/data-team/
   - name: Corporate Development / Acquisitions
-    url: https://about.gitlab.com/handbook/acquisitions/
+    url: /handbook/acquisitions
   - name: UX Department
     url: /handbook/product/ux
     links:

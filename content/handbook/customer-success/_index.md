@@ -182,7 +182,7 @@ Customer Success team members maintain a [FAQ](https://about.gitlab.com/handbook
 - [EE Product Qualification Questions](https://about.gitlab.com/handbook/sales/qualification-questions/)
 - [GitLab Positioning](https://about.gitlab.com/handbook/positioning-faq/)
 - [FAQ from prospects](https://about.gitlab.com/handbook/sales/faq-from-prospects/)
-- [Client Use Cases](https://about.gitlab.com/handbook/use-cases/)
+- [Client Use Cases](/handbook/use-cases/)
 - [Proof of Value Guidelines](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov)
 - [Account Planning Template for Large/Strategic Accounts](https://docs.google.com/presentation/d/1yQ6W7I30I4gW5Vi-TURIz8ZxnmL88uksCl0u9oyRrew/edit?ts=58b89146#slide=id.g1c9fcf1d5b_0_24))
 - [Sales Demo](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/)

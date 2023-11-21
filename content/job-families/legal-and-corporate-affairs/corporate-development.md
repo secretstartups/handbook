@@ -132,7 +132,7 @@ Collaboration:
 ### Director, Corporate Development
 
 As a Director, Corporate Development, you will be responsible for sourcing,
-negotiating, and closing [acquisitions](https://about.gitlab.com/handbook/acquisitions/).
+negotiating, and closing [acquisitions](/handbook/acquisitions/).
 
 #### Job Grade
 
@@ -173,7 +173,7 @@ The Director, Corporate Development is a [grade 10](/handbook/total-rewards/comp
 ### Senior Director of Corporate Development
 
 As the Senior Director of Corporate Development, you will be responsible for
-building the team to source, negotiate, and close [acquisitions](https://about.gitlab.com/handbook/acquisitions/).
+building the team to source, negotiate, and close [acquisitions](/handbook/acquisitions/).
 
 #### Job Grade
 
