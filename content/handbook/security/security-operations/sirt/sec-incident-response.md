@@ -1,5 +1,7 @@
 ---
-title: "GitLab Security Incident Response Guide"
+title: "Security Incident Response Guide"
+description: " "
+weight: 20
 ---
 
 {{% alert title="This is a Controlled Document" color="danger" %}}
