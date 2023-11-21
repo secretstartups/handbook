@@ -17,7 +17,7 @@ This Records Retention Policy promotes and assists with the implementation of pr
 **1. Records Management**
 Records management addresses the life cycle of records, i.e., the period of time the records are in the possession of GitLab.
 
-The life cycle usually consists of three stages: 1) Creation or receipt; 2) Maintenance or use; and 3) Destruction or retention.  This policy is used in conjunction with the [Records Retention and Disposal Standard](/handbook/security/records-retention-deletion.html).
+The life cycle usually consists of three stages: 1) Creation or receipt; 2) Maintenance or use; and 3) Destruction or retention.  This policy is used in conjunction with the [Records Retention and Disposal Standard](/handbook/security/records-retention-deletion).
 Records retention does not mean permanent retention.  There are certain situations where documents must be preserved permanently, but most records need only be retained for a specified period of time.  When the retention period for a particular record expires, we should destroy or delete the record.  However, if we destroy or delete a record before its retention period expires, GitLab may be subject to penalties and sanctions.
 Unnecessary retention of records creates significant burdens for GitLab.  For example, unnecessary records take up valuable storage space and make retrieval of needed records more difficult and costly.  Consequently, GitLab recommends destruction of records after the retention period expires, except in those instances where GitLab directs otherwise (such as when a Litigation Hold is issued by the Legal Department).  In other words, GitLab requires adherence to the records retention requirements and recommends the destruction of records according to the Retention Schedule.
 
@@ -70,7 +70,7 @@ GitLab employees are discouraged from printing or creating hard copies of confid
 The retention periods for specific types of records are set forth in GitLab Records Retention Schedule. The Records Retention Schedule will ensure that records are safely preserved until the retention period has expired. GitLab recommends that the records be destroyed in the normal course of business in accordance with the Records Retention Policy and Records Retention Schedule. In some instances, GitLab may choose to permanently preserve information for business or historical reasons. Such records are specifically designated in the Records Retention Schedule.
 
 **6.  GitLab Records Retention Schedule**
-[GitLab Records Retention and Disposal Standard](/handbook/security/records-retention-deletion.html) establishes the retention periods for various types of records. It applies to all records, regardless of format.  Retention of records according to the Records Retention and Disposal standard must be observed to ensure consistent application of reasonable due diligence in recordkeeping practices.
+[GitLab Records Retention and Disposal Standard](/handbook/security/records-retention-deletion) establishes the retention periods for various types of records. It applies to all records, regardless of format.  Retention of records according to the Records Retention and Disposal standard must be observed to ensure consistent application of reasonable due diligence in recordkeeping practices.
 
 GitLab’s Records Retention Policy promotes the destruction of records and other documents at the earliest possible time, in accordance with the following principles:
 
@@ -86,7 +86,7 @@ Storage will be in such a form as to preserve the integrity of the data and prev
 
 Protection of the stored information will be in such a form as to ensure the integrity of the storage mechanism.
 
-Retention will be, at a minimum, for the time period set forth in the [Records Retention and Disposal Standard](/handbook/security/records-retention-deletion.html).
+Retention will be, at a minimum, for the time period set forth in the [Records Retention and Disposal Standard](/handbook/security/records-retention-deletion).
 
 Records will be properly disposed of once the respective retention period has lapsed.
 
@@ -141,12 +141,12 @@ A personnel file generally includes:
 * _separation of employment documents_ (including resignation letters, termination, separation or severance agreements, correspondence and reference statements).
 
 
-GitLab maintains, retains, and destroys personnel records in accordance with its [Record Retention Policy](/handbook/legal/record-retention-policy/) and [Records Retention and Disposal Standard](/handbook/security/records-retention-deletion.html). The retention period for personnel file records may vary and the criteria used to determine the required retention period will be based on an assessment of requirements under local laws, the purpose for which the record was created and stored and the basis on which the information is being processed.
+GitLab maintains, retains, and destroys personnel records in accordance with its [Record Retention Policy](/handbook/legal/record-retention-policy/) and [Records Retention and Disposal Standard](/handbook/security/records-retention-deletion). The retention period for personnel file records may vary and the criteria used to determine the required retention period will be based on an assessment of requirements under local laws, the purpose for which the record was created and stored and the basis on which the information is being processed.
 
 GitLab’s Records Retention Policy promotes the destruction of records and other documents at the earliest possible time and records will be properly disposed of once the respective retention period has lapsed. Disposal of the information will be in such a form as to protect the sensitive nature of the information therein and prevent release into the public domain. 
 
 GitLab is occasionally the subject of threatened or pending litigation or administrative proceedings. Such proceedings may suspend the normal operation of the GitLab Records Retention Policy. Where appropriate, GitLab will issue a [Litigation Hold](/handbook/legal/) to certain team members, departments or the entire GitLab organization. The Litigation Hold will provide a description of records and other documents that must be preserved. The failure to preserve records, documents and other evidence could subject GitLab to fines or sanctions. It is therefore very important to manage documents and other evidence in strict accordance with the Litigation Hold. Note, that Litigation Holds or other non-destruct directives issued by GitLab’s Legal Department will override any destruction authority. If you have any questions about a Litigation Hold, please reach out to the legal team at [legal@gitlab.com](mailto:legal@gitlab.com). 
 
-Team members can consult the [Data Classification and Handling Procedures](/handbook/security/security-assurance/security-compliance/guidance/data-classification-and-handling.html) for details on retention, destruction and storage of all records.
+Team members can consult the [Data Classification and Handling Procedures](/handbook/security/data-classification-standard/#security-and-privacy-controls) for details on retention, destruction and storage of all records.
 
 Current and former team members may request a copy of their personnel file by submitting a request through this [form](https://docs.google.com/forms/d/e/1FAIpQLSfwhoBBpU7WmOxqXUoEzJ5TetD9aiFgskh-DNZwPGkALdb2PA/viewform?usp=sf_link). Additionally, team members can access and edit certain records at any time via Workday.
