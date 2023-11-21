@@ -85,19 +85,56 @@ Every month, we create a Milestone Planning issue that serves as the single sour
 
 This issue provides us with a centralized location to discuss our upcoming milestone work, plan for feature, bug, and maintenance tasks, and provides us with the necessary flexibility to iterate mid-milestone if required.
 
-Populate the milestone planning issue with issues from the prioritized boards placed in the ~"workflow::ready for development" column. Feel free to add maintenance issues that aren’t directly related to the group as well.
-
 You can find all milestone planning issues in the [AI Framework team’s project](https://gitlab.com/gitlab-org/ai-powered/ai-framework/team-hq/-/issues/?sort=title_asc&state=opened&label_name%5B%5D=Planning%20Issue&first_page_size=20).
 
 The layout for these Milestone issues are automated and can be found [here](https://gitlab.com/gitlab-org/ai-powered/ai-framework/team-hq/-/blob/main/.gitlab/issue_templates/planning_issue.md).
-
-To check the team activities and priorities, visit [the milestone board](https://gitlab.com/groups/gitlab-org/-/boards/364216?label_name%5B%5D=group%3A%3Aai%20framework&milestone_title=00.0)
-and change the `Milestone` filter to the current milestone.
 
 Additionaly, you can filter by:
 
 - To find the issues you're currently working on, change the filter to `Assignee=<your-handle-name>`.
 - To find a new issue that you will work on, change the filter to `Assignee=None` (And assign yourself to the issue to prevent other people from working on it).
+
+### 📚 AI Framework Board Outline
+
+Our workflow process for our [board](https://gitlab.com/gitlab-org/gitlab/-/boards/5518200?label_name[]=group%3A%3Aai%20framework) is outlined below.
+
+1. **Open** 📝: This list contains all identified issues. An engineering manager will be assigned if either the Milestone or the label "workflow::ready for development" is missing.
+2. **workflow::ready for development** 🎯: Issues that have been prioritized and assigned to a specific milestone are moved to this list and the "ready for development" label is applied.
+3. **workflow::in dev** 👩‍💻: When a developer starts working on an issue, they should move it to this list and apply the "in dev" label.
+4. **workflow::in review** 👀: Once the development work on an issue is complete, it should be moved to this list and the "in review" label should be applied.
+5. **workflow::verification** ✅: After the code and UX review is complete, the issue should be moved to this list and the "verification" label should be applied.
+6. **workflow::complete** 🎉: Once the issue has been verified and everything is working, it should be moved to this list, the "complete" label should be applied, and the issue should be closed.
+
+### 🔄 Processes
+
+#### Weekly 🗓️
+
+1. **Issue Review** 🕵️‍♂️: (DRI: Engineering Manager and Product Manager) Review all the issues in the Open list. Prioritize them based on their importance, urgency, and input from development EM, Quality, and UX. Move the top priority issues to the "workflow::ready for development" list.
+2. **Progress Check** 🔄: (DRI: Assigned Developer) Check the "workflow::in dev" list to see the status of the ongoing tasks. If a task has been in progress for too long, find out why and try to resolve any blockers.
+3. **Review Completed Tasks** 👥: (DRI: Assigned Developer and Reviewer) Review the tasks in the "workflow::in review" list. Test them to ensure they've been completed correctly. If they pass the review, move them to the "workflow::verification" list.
+
+#### Monthly 📅
+
+1. **Board Cleanup** 🧹: (DRI: Engineering Manager, Product Manager) On the last day of each milestone (e.g., for milestone 16.7, this would be December 15, 2023), clean up the board. Close all the issues in the "workflow::complete" list. Archive any issues in the "Open" list that are no longer relevant.
+2. **Milestone Planning** 🗓️: (DRI: Product Manager) 19 days before the next milestone begins (e.g., for milestone 16.8, this would be November 27, 2023), plan for the next milestone. Identify the tasks that need to be completed in the next month and move them to the "workflow::ready for development" list. This
+3. **Performance Review** 📈: (DRI: Engineering Manager, Product Manager) On the third Friday of the month (e.g., for milestone 16.7, this would be December 15, 2023, the day after the release date), review the team's performance. See how many issues were completed in the past month and how many are still in progress. Use this information to improve your planning and workflow.
+
+#### Milestone Running Dates 2023 - 2024 📅
+
+| Milestone | Start Date | End Date |
+|-----------|------------|----------|
+| 16.7 | Nov 11, 2023 | Dec 15, 2023 |
+| 16.8 | Dec 16, 2023 | Jan 19, 2024 |
+| 16.9 | Jan 20, 2024 | Feb 16, 2024 |
+| 16.10 | Feb 17, 2024 | Mar 15, 2024 |
+| 16.11 | Mar 16, 2024 | Apr 19, 2024 |
+| 16.12 | Apr 20, 2024 | May 17, 2024 |
+| 17.0 | May 18, 2024 | Jun 21, 2024 |
+| 17.1 | Jun 22, 2024 | Jul 19, 2024 |
+| 17.2 | Jul 20, 2024 | Aug 16, 2024 |
+| 17.3 | Aug 17, 2024 | Sep 20, 2024 |
+| 17.4 | Sep 21, 2024 | Oct 18, 2024 |
+| 17.5 | Oct 19, 2024 | Nov 15, 2024 |
 
 ### 📝 Issue Guidelines
 
