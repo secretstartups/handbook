@@ -94,7 +94,14 @@ The Platforms section builds and maintains various tools to help deploy, operate
 
 ### OKR
  
-OKRs (or other items outside of projects) that require progress tracking should be updated **every Wednesday**.
+[OKRs](https://handbook.gitlab.com/handbook/company/okrs/) (or other items outside of projects) that require progress tracking should be updated **every Wednesday**.
+
+
+When writing OKRs, the guidance is that: 
+
+* Objective is defined as “**What** do you want to achieve?”
+* Key Results is defined as “How will you know **when** you’ve achieved the objective?”
+* As part of a KR, you can also have a sub point - which will likely tie to an epic. This would be an “Initiative”, defined as “**How** are you going to achieve your key result?”
 
 The OKR Description should have the following format:
 
