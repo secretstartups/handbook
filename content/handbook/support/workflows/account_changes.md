@@ -250,4 +250,4 @@ Impersonating a user is considered performing an action as another account, impe
 
 When impersonating a user, the administrator account will receive a slack message from the **SIRTbot** app asking to confirm if the impersonation was a legit action.
 
-The action of impersonation is in accordance with our [Confidentiality Terms of the Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/#7-confidentiality).
+The action of impersonation is in accordance with our [Confidentiality Terms of the Subscription Agreement](/handbook/legal/subscription-agreement/#7-confidentiality).

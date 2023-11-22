@@ -69,7 +69,7 @@ Send a personalised note. However there are character limitations
 ### Marketplace
 Reachdesk marketplace allows you to choose from a range of confectionary, flowers, cakes and other perishables from approved third party providers so you can send gifts on a 1-to-1 basis as an out-of-the- box feature. All items can be customised to give that personal touch. Items can be viewed [here](https://airtable.com/shrIR5jn2LQuADwWg/tblWVU3FlI11uBivB) or you can also view items on the campaign build section without actually building the campaign.
 
-Please refer to GitLab's policies related to Gifts and Contributions [here](https://about.gitlab.com/handbook/legal/policies/gifts-contributions/)
+Please refer to GitLab's policies related to Gifts and Contributions [here](/handbook/legal/policies/gifts-contributions/)
 
 # How to send a campaign
 

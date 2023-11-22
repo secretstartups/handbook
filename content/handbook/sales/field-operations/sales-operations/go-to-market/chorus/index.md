@@ -21,7 +21,7 @@ Log into Chorus by clicking on the Chorus SSO tile in your [Okta dashboard](http
 
 ## Chorus Training & Enablement
 
-- Please familiarize yourself with [GitLab's SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) before utilizing Chorus.
+- Please familiarize yourself with [GitLab's SAFE Framework](/handbook/legal/safe-framework/) before utilizing Chorus.
 
 - All ROW team members are required to complete the [Chorus GDPR Training](https://gitlab.edcast.com/insights/chorus-ai-compliance) in order to be granted Recorder access. SalesOps will provide team members with the link to the EdCast Chorus training once their [Baseline Role-Based Entitlement](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/) is submitted by their manager.
 

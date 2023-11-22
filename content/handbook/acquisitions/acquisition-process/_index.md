@@ -46,7 +46,7 @@ The process is comprised of five key stages:
     1. [GitLab roadmap](https://about.gitlab.com/direction/) fit - discuss which features could be built into GitLab and into which product stage
     1. Start the discussion about what an integration into GitLab's code base will look like
 
-    A mutual NDA will be shared by GitLab and will be required to be signed prior to the Product Call. For more details about our MNDA and process for signing see [GitLab Legal Handbook](https://about.gitlab.com/handbook/legal/).
+    A mutual NDA will be shared by GitLab and will be required to be signed prior to the Product Call. For more details about our MNDA and process for signing see [GitLab Legal Handbook](/handbook/legal/).
 1. Initial internal review:
    1. Preliminary assessment of product and technology fit of the potential opportunity to GitLab's [product roadmap](https://about.gitlab.com/direction/) as well as integration options into GitLab.
    1. Before moving to early technical diligence, the Product Champion will need to confirm annual fiscal budget with the Chief Product Officer and finance team.

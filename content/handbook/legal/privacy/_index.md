@@ -7,17 +7,17 @@ The Privacy Team is part of the Legal and Corporate Affairs Team. We provide sup
 
 ## Quick Links
 
-- [What is data privacy](https://about.gitlab.com/handbook/legal/privacy/#what-data-privacy-means)
-- [Privacy Terms](https://about.gitlab.com/handbook/legal/privacy/#privacy-terms)
-- [Vendor Privacy Review Process](https://about.gitlab.com/handbook/legal/privacy/#privacy-review-process)
-- [Internal Product Feature/Release Privacy Review](https://about.gitlab.com/handbook/legal/privacy/#internal-privacy-review)
-- [Guidelines for Law Enforcement Requests](https://about.gitlab.com/handbook/legal/privacy/law-enforcement-guidelines/)
+- [What is data privacy](/handbook/legal/privacy/#what-data-privacy-means)
+- [Privacy Terms](/handbook/legal/privacy/#privacy-terms)
+- [Vendor Privacy Review Process](/handbook/legal/privacy/#privacy-review-process)
+- [Internal Product Feature/Release Privacy Review](/handbook/legal/privacy/#internal-privacy-review)
+- [Guidelines for Law Enforcement Requests](/handbook/legal/privacy/law-enforcement-guidelines/)
 
 ## Privacy Statement Links
 
 - [GitLab Privacy Statement](https://about.gitlab.com/privacy/)
 - [GitLab Cookie Policy](https://about.gitlab.com/privacy/cookies/)
-- [GitLab Team Member Privacy Notice](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/)
+- [GitLab Team Member Privacy Notice](/handbook/legal/privacy/employee-privacy-policy/)
 
 ## Contact the Team
 
@@ -69,7 +69,7 @@ Tell people what you are doing with personal data and why you are doing it so th
 **Right Not to be Subject to Fully Automated Decisions** This is a request that the data subject not be subjected to a decison based solely on automated processing, including profiling, which would have a significant legal impact. An example might be an algorithm that excludes someone of a certain race from obtaining a credit card.
 {{% /details %}}
 
-***DPIA*** A Data Protection Impact Assessment is a method to review and document identified privacy compliance risks, as well as evalute higher risks to the rights and freedoms of individuals, including any that pose potential for significant harm. Learn more about GitLab's process for completing DPIAs [here](https://about.gitlab.com/handbook/legal/privacy/dpia/).
+***DPIA*** A Data Protection Impact Assessment is a method to review and document identified privacy compliance risks, as well as evalute higher risks to the rights and freedoms of individuals, including any that pose potential for significant harm. Learn more about GitLab's process for completing DPIAs [here](/handbook/legal/privacy/dpia/).
 
 ***Personal Data*** Any data, individually or when combined with other data, that identifies, relates to, describes or is reasonably capable of being associated with or linked to an identifiable natural person (a ‘data subject’), whether directly or indirectly. See also, Sensitive Personal Data.
 

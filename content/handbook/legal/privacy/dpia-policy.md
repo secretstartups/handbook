@@ -135,4 +135,4 @@ Exceptions to this procedure will be tracked as per the [Information Security Po
 ## References
 
 - Parent Policy: [Information Security Policy](/handbook/security/)
-- [GitLab Privacy](https://about.gitlab.com/handbook/legal/privacy/#data-protection-impact-assessments-dpias)
+- [GitLab Privacy](/handbook/legal/privacy/#data-protection-impact-assessments-dpias)

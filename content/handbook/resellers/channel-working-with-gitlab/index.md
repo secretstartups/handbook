@@ -224,7 +224,7 @@ To submit a Support Ticket, navigate to the "Support" tab in the partner portal,
 
 ###### Execute the GitLab EULA
 
-All orders require an executed [EULA](https://about.gitlab.com/handbook/legal/subscription-agreement/) when there's a new subscription or an add-on. There are 2 methods of obtaining a EULA:
+All orders require an executed [EULA](/handbook/legal/subscription-agreement/) when there's a new subscription or an add-on. There are 2 methods of obtaining a EULA:
 
 
 

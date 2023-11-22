@@ -98,7 +98,7 @@ To mitigate a potential incident and/or if an incident has occurred, please foll
 
 Speaking on behalf of GitLab via a public channel such as a media interview (in-person or via phone), on a podcast, in a public issue on GitLab.com, on a forum, at a conference/event (live or virtual), in a blog or an external platform is a significant responsibility.
 
-**As of September 13, 2021, all GitLab team members who speak with the media are required to first complete the [GitLab Media Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-media-training) and all GitLab team members who speak externally at a conference or event are required to first complete the [GitLab Speaker Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-speaker-training-2021).** Both of these trainings have been designed to keep us aligned in representing the company following GitLab’s [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/). Being mindful of how you say things within open issues, on social media, or at a booth during an event will help keep the company SAFE. We all represent the company. Note, any spokesperson who violates the Speaking on Behalf of GitLab guidelines will have their spokesperson privileges revoked.
+**As of September 13, 2021, all GitLab team members who speak with the media are required to first complete the [GitLab Media Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-media-training) and all GitLab team members who speak externally at a conference or event are required to first complete the [GitLab Speaker Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-speaker-training-2021).** Both of these trainings have been designed to keep us aligned in representing the company following GitLab’s [SAFE framework](/handbook/legal/safe-framework/). Being mindful of how you say things within open issues, on social media, or at a booth during an event will help keep the company SAFE. We all represent the company. Note, any spokesperson who violates the Speaking on Behalf of GitLab guidelines will have their spokesperson privileges revoked.
 
 If you are unsure whether or not you should accept a speaking opportunity, create a public issue to gather feedback/communicate a message, or provide comments representing GitLab please see below for guidance.
 
@@ -157,7 +157,7 @@ For ways to amplify your speaking opportunity, check out the “[How to make you
 
 #### Pursuing Speaking Opportunities Separate from GitLab
 
-We know GitLab team members are multi-faceted and there may be opportunities to speak publicly that don’t overlap with your role at GitLab. In these cases, it is okay to do that assuming the opportunity will not be in conflict with GitLab’s [Code of Business Conduct & Ethics](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/).
+We know GitLab team members are multi-faceted and there may be opportunities to speak publicly that don’t overlap with your role at GitLab. In these cases, it is okay to do that assuming the opportunity will not be in conflict with GitLab’s [Code of Business Conduct & Ethics](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/).
 
 In these instances, it’s necessary to keep your role at GitLab and affiliation with the company separate from the presentation. Additionally, you should not use GitLab branding, resources, or time allocated to your work at GitLab to prepare or deliver your presentation. Please add “these views are my own” to your comments, presentation, or social media. 
 
@@ -166,7 +166,7 @@ If you’re considering a speaking opportunity that could be perceived as being 
 
 #### Event Booth Staffing
 
-If you are staffing the GitLab booth at an in-person or virtual event, you are representing GitLab. Please follow the company’s [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/) when engaging with booth visitors and event attendees.
+If you are staffing the GitLab booth at an in-person or virtual event, you are representing GitLab. Please follow the company’s [SAFE framework](/handbook/legal/safe-framework/) when engaging with booth visitors and event attendees.
 
 ### Research-oriented requests
 
@@ -182,7 +182,7 @@ For media inquiries that are more research oriented, please share the request an
 
 If the request has an honorarium offered (for example, a gift card or cash amount awarded for participation), please go through our [Approvals for Outside Projects & Activities process](/handbook/people-group/contracts-probation-periods/#approval-for-outside-projects--activities-aka-exceptions-to-piaa) to ensure a [conflict of interest is not present](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 
-You may be approached by external parties seeking to provide payment for a GitLab team member's time to discuss GitLab remote practice to help them guide a client. While this is not a traditional research or speaking opportunity (i.e. event or Meetup) it is still considered an external speaking opportunity. We ask that team members verify who they are speaking with to make sure the source is indeed valid and the request legitimate. Remember that you represent GitLab and if any question makes you uncomfortable or gives you a pause on whether you should answer, we recommend that you do not answer. Questions regarding GitLab financials, sales, compliance, executives or where the company is heading should adhere to the [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/) and be treated with caution, as should anything which is not already available in the GitLab handbook. We encourage all team members to be company evangelists and this can be done without sharing [Not Public](/handbook/communication/confidentiality-levels/#not-public) information about GitLab.
+You may be approached by external parties seeking to provide payment for a GitLab team member's time to discuss GitLab remote practice to help them guide a client. While this is not a traditional research or speaking opportunity (i.e. event or Meetup) it is still considered an external speaking opportunity. We ask that team members verify who they are speaking with to make sure the source is indeed valid and the request legitimate. Remember that you represent GitLab and if any question makes you uncomfortable or gives you a pause on whether you should answer, we recommend that you do not answer. Questions regarding GitLab financials, sales, compliance, executives or where the company is heading should adhere to the [SAFE framework](/handbook/legal/safe-framework/) and be treated with caution, as should anything which is not already available in the GitLab handbook. We encourage all team members to be company evangelists and this can be done without sharing [Not Public](/handbook/communication/confidentiality-levels/#not-public) information about GitLab.
 
 ### Social Media
 
@@ -190,13 +190,13 @@ Please consult the [Social Marketing Handbook](/handbook/marketing/integrated-ma
 
 ### Writing about GitLab on your personal blog or for external platforms
 
-You are welcome to write about your experience as a GitLab team member on your personal blog or for other publications and you do not need permission to do so, as long as you follow the company’s [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/). If you would like someone to check your draft before submitting it, you can share it with the Corporate Communications team who will be happy to review. Please post it in the `#external-comms` Slack channel with a short summary and allow 5 business days for review.
+You are welcome to write about your experience as a GitLab team member on your personal blog or for other publications and you do not need permission to do so, as long as you follow the company’s [SAFE framework](/handbook/legal/safe-framework/). If you would like someone to check your draft before submitting it, you can share it with the Corporate Communications team who will be happy to review. Please post it in the `#external-comms` Slack channel with a short summary and allow 5 business days for review.
 
 ### Public GitLab Issues
 
 Posting in and discussions occurring within a public GitLab issue should follow the same guidelines as if you were posting about GitLab on social media, engaging with community members in a forum or conducting an interview with a media outlet. You are externally representing and communicating on behalf of GitLab.
 
-When representing and/or communicating externally on behalf of GitLab, please follow the [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/). Being mindful of how you say things within open issues will help keep the company SAFE. We all represent the company.
+When representing and/or communicating externally on behalf of GitLab, please follow the [SAFE framework](/handbook/legal/safe-framework/). Being mindful of how you say things within open issues will help keep the company SAFE. We all represent the company.
 
 ## Communications resources and training available to all team members
 

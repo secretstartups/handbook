@@ -103,7 +103,7 @@ Please see the [Anti-Harassment Policy]({{< ref "anti-harassment" >}}).
 
 ### Anti-Retaliation
 
-Please see the [Anti-Retaliation Policy](https://about.gitlab.com/handbook/legal/anti-retaliation-policy/).
+Please see the [Anti-Retaliation Policy](/handbook/legal/anti-retaliation-policy/).
 
 ### Complaint Procedure
 
@@ -226,7 +226,7 @@ Any questions or concerns? Please feel free to contact the People Connect team i
 
 ## Gitlab Legal Policies
 
-There are a number of GitLab Legal Policies which are important for GitLab team members to read and understand, and they are listed [here](https://about.gitlab.com/handbook/legal/#gitlab-policies).
+There are a number of GitLab Legal Policies which are important for GitLab team members to read and understand, and they are listed [here](/handbook/legal/#gitlab-policies).
 
 ## Entity-Specific Employment Policies
 
@@ -405,7 +405,7 @@ To ensure the physical and mental health and safety of our team members in New Z
 
 **Data Protection/Privacy Policy**
 
-- [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/)
+- [Employee Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/)
 - [GitLab Privacy Policy](https://about.gitlab.com/privacy/)
 
 **Workplace Harassment Policy**

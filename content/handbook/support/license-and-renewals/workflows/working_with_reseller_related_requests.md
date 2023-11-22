@@ -13,7 +13,7 @@ description: This is a guide on how to handle requests involving Reseller.
 Reseller is another word for [Channel Partner](https://about.gitlab.com/handbook/resellers/).
 Note that an [Alliance Partner](/handbook/support/partnerships/alliance.html)
 is different from a Channel Partner, and is **not** a reseller. See the
-[GitLab Alliances Handbook Page](https://about.gitlab.com/handbook/alliances/) and the
+[GitLab Alliances Handbook Page](/handbook/alliances/) and the
 [Internal Alliances Handbook Page](https://internal.gitlab.com/handbook/alliances/)
 for more on alliances.
 

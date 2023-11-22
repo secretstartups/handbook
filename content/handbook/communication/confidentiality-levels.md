@@ -28,7 +28,7 @@ The following items are internal:
    - Team member retention (analysts may make business assumptions based on this)
    - The Sales pipeline (but the Marketing pipeline can be public)
    - Net and gross retention KPIs. Only the actual numbers can't be public. Everything else--the goal, their calculation, etc.--can be.
-1. All external communications about any financial information should be in line with the company's [SAFE Guidelines](https://about.gitlab.com/handbook/legal/safe-framework/) and [Social Media Policy](/handbook/marketing/team-member-social-media-policy/). If you have any questions please reach out via the [#Safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) Slack channel.
+1. All external communications about any financial information should be in line with the company's [SAFE Guidelines](/handbook/legal/safe-framework/) and [Social Media Policy](/handbook/marketing/team-member-social-media-policy/). If you have any questions please reach out via the [#Safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) Slack channel.
 1. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/accounting/#procure-to-pay).
 1. Content that would compromise a GitLab team member, customer, or user's personal data as defined by [GDPR](https://gdpr.eu/article-4-definitions/), unless explicit consent has been provided by the data owner. Examples of compromising content include a name, an identification number, location data, an online identifier, or one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
 1. Legal discussions are not public due to the purpose of Attorney-Client Privilege.
@@ -44,7 +44,7 @@ The following items are internal:
 1. When there is a product offering being developed that is expected to generate very high demand that cannot be quickly met, it should be kept internal in order to give the team the time to create the right solution.
 1. Changes to GitLab.com free tier limits such as storage, data transfer, user limits or compute minutes are not public as they are similar to Pricing and Packaging as discussed below in limited access.
 1. Specific details about our hiring processes such as our scoring rubrics & criteria are not public as we want to ensure candidates provide an accurate overview of their experience and do not falsify their responses to meet our criteria. [High-level interview plans are public and documented in each job family](/handbook/hiring/job-families/#job-family-template-1).
-1. GitLab's [strategy](/handbook/company/strategy), [Yearlies](/handbook/company/yearlies/), and [OKRs](/handbook/company/okrs/) are internal-only. GitLab goal setting is intentional ambitious. External folks, without context, could make misinterpretations about the company’s financial health and strategic plans, so sharing this information may have [an unintended and undesirable effects](https://about.gitlab.com/handbook/legal/safe-framework/#effect).
+1. GitLab's [strategy](/handbook/company/strategy), [Yearlies](/handbook/company/yearlies/), and [OKRs](/handbook/company/okrs/) are internal-only. GitLab goal setting is intentional ambitious. External folks, without context, could make misinterpretations about the company’s financial health and strategic plans, so sharing this information may have [an unintended and undesirable effects](/handbook/legal/safe-framework/#effect).
 
 ### Limited access
 

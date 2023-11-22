@@ -151,7 +151,7 @@ The Data Directory is designed to provide quick access to / better organize key 
   - [Product sections, stages, groups, and categories](/handbook/product/categories/)
   - [Product Handbook](/handbook/product/)
   - [Product Performance Indicators](https://internal.gitlab.com/handbook/company/performance-indicators/product/) (internal handbook)
-  - [Services Usage Data](https://about.gitlab.com/handbook/legal/privacy/customer-product-usage-information/)
+  - [Services Usage Data](/handbook/legal/privacy/customer-product-usage-information/)
   - [Our Commitment to Individual User Privacy in relation to Service Usage Data](/handbook/product/analytics-instrumentation-guide/service-usage-data-commitment/)
 
 </details>
@@ -242,9 +242,9 @@ The Data Directory is designed to provide quick access to / better organize key 
 **LEGAL & CORPORATE AFFAIRS**
 <details>
   <summary markdown="span">About Legal & Corporate Affairs</summary>
-  [Handbook Page](https://about.gitlab.com/handbook/legal/)
+  [Handbook Page](/handbook/legal/)
   <br>
-  [Legal Operations](https://about.gitlab.com/handbook/legal/legalops/)
+  [Legal Operations](/handbook/legal/legalops/)
 </details>
 
 

@@ -187,7 +187,7 @@ has more details about xMAU-related snippets.
 
 Due to the sensitive nature of metrics like user counts, PI charts are not publicly accessible
 and must reside in the [internal handbook](https://internal.gitlab.com/handbook/company/performance-indicators/product/).
-However, this data is not considered to be [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) and therefore
+However, this data is not considered to be [SAFE](/handbook/legal/safe-framework/) and therefore
 is visible to all GitLab team members and is available in the [general GitLab space in Sisense](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index).
 
 Some data supporting xMAU Analysis is classified as [Orange](/handbook/security/data-classification-standard.html#orange)

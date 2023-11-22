@@ -70,8 +70,8 @@ During the checkout process:
 
 * Applicants must enter the unique coupon codes they receive in their verification emails
 * Applicants must accept a program agreement
-  * [GitLab for Education Program Agreement](https://about.gitlab.com/handbook/legal/education-agreement/)
-  * [GitLab for Open Source Agreement](https://about.gitlab.com/handbook/legal/opensource-agreement/)
+  * [GitLab for Education Program Agreement](/handbook/legal/education-agreement/)
+  * [GitLab for Open Source Agreement](/handbook/legal/opensource-agreement/)
   * GitLab for Startups Agreement is presented directly upon checkout
 
 The GitLab for Startups Terms:

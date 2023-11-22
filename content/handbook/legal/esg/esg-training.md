@@ -38,7 +38,7 @@ By ensuring that good ESG practices are embedded into the organization, this wil
 
 ### Materiality Assessment Overview
 
- - GitLab completed its first [double materiality assessment](https://about.gitlab.com/handbook/legal/ESG/#esg-materiality-matrix) in January 2023. The assessment considered the perspectives of all of GitLab’s stakeholders including team members, senior leadership, customers, community members, board members, investors. The assessment involved speaking with GitLab’s stakeholders to understand the key topics they believe have the biggest impact on the success of the business and where GitLab has the biggest impact on the environment, society and people. We also considered ESG regulation, our peers, competitors and nonprofit organizations.The materiality assessment was the first step in developing the company’s first ESG strategy.
+ - GitLab completed its first [double materiality assessment](/handbook/legal/ESG/#esg-materiality-matrix) in January 2023. The assessment considered the perspectives of all of GitLab’s stakeholders including team members, senior leadership, customers, community members, board members, investors. The assessment involved speaking with GitLab’s stakeholders to understand the key topics they believe have the biggest impact on the success of the business and where GitLab has the biggest impact on the environment, society and people. We also considered ESG regulation, our peers, competitors and nonprofit organizations.The materiality assessment was the first step in developing the company’s first ESG strategy.
 
 ### GitLab's 6 Key Topcs
 
@@ -99,13 +99,13 @@ By ensuring that good ESG practices are embedded into the organization, this wil
 
 ## GitLab Philanthropy
 
-In 2023, GitLab launched its first philanthropy policy. The goal of this policy is to provide guidance for GitLab’s philanthropic giving and activities to Registered Nonprofit Organizations that align with GitLab’s [Values](/handbook/values/), environmental, social, and governance [(ESG) strategy](https://about.gitlab.com/handbook/legal/ESG/), and help advance GitLab’s [mission](/handbook/company/mission/) to make it so that everyone can contribute.
+In 2023, GitLab launched its first philanthropy policy. The goal of this policy is to provide guidance for GitLab’s philanthropic giving and activities to Registered Nonprofit Organizations that align with GitLab’s [Values](/handbook/values/), environmental, social, and governance [(ESG) strategy](/handbook/legal/ESG/), and help advance GitLab’s [mission](/handbook/company/mission/) to make it so that everyone can contribute.
 
-To learn more about how GitLab supports and encourages team members to support Nonprofit Organizations, please review our [policy](https://about.gitlab.com/handbook/legal/philanthropy-policy/#gitlab-inc-philanthropy-policy) and [program information,](https://about.gitlab.com/handbook/legal/ESG/#esg-request-process) including how to request support.
+To learn more about how GitLab supports and encourages team members to support Nonprofit Organizations, please review our [policy](/handbook/legal/philanthropy-policy/#gitlab-inc-philanthropy-policy) and [program information,](/handbook/legal/ESG/#esg-request-process) including how to request support.
 
 ## Responding to customer requests for ESG information
 
-- If a customer reaches out to you for information on our ESG practices, please direct them to our [handbook page](https://about.gitlab.com/handbook/legal/ESG/) or provide them with [our report](/handbook/esg/). Please also advise them that we utilize [EcoVadis](https://ecovadis.com/) for ESG reporting and they can request a full copy of our ESG report.
+- If a customer reaches out to you for information on our ESG practices, please direct them to our [handbook page](/handbook/legal/ESG/) or provide them with [our report](/handbook/esg/). Please also advise them that we utilize [EcoVadis](https://ecovadis.com/) for ESG reporting and they can request a full copy of our ESG report.
 
 ## Responding to ESG questions in RFPs
 
@@ -117,7 +117,7 @@ To learn more about how GitLab supports and encourages team members to support N
 
 ## Where to get more info
 
- - Learn more about GitLab’s current progress on [ESG initiatives](https://about.gitlab.com/handbook/legal/ESG/) and read our first ESG report [here](/handbook/esg/). Follow #ESG on slack.
+ - Learn more about GitLab’s current progress on [ESG initiatives](/handbook/legal/ESG/) and read our first ESG report [here](/handbook/esg/). Follow #ESG on slack.
 
 
 

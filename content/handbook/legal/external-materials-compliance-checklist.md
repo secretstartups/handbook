@@ -3,7 +3,7 @@ title: "External Materials Compliance Checklist"
 description: "Checklist for use when developing materials for external use"
 ---
 
-When developing materials for external use, follow the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) and the [Guidelines for Use of Third-party IP in External Materials](https://about.gitlab.com/handbook/legal/ip-public-materials-guidelines/) (the "**IP Guidelines**"). If you have any questions, reach out to the Legal & Corporate Affairs Team via the [#safe Slack channel](https://app.slack.com/client/T02592416/C01UZQ63WFQ).
+When developing materials for external use, follow the [SAFE Framework](/handbook/legal/safe-framework/) and the [Guidelines for Use of Third-party IP in External Materials](/handbook/legal/ip-public-materials-guidelines/) (the "**IP Guidelines**"). If you have any questions, reach out to the Legal & Corporate Affairs Team via the [#safe Slack channel](https://app.slack.com/client/T02592416/C01UZQ63WFQ).
 
 In addition to following the SAFE Framework and the IP Guidelines, review the following Checklist before publishing or using materials you’ve created. This Checklist serves as a quick-reference guide, and should not be used as a substitute for reviewing and following the SAFE Framework and the IP Guidelines in full.
 
@@ -18,7 +18,7 @@ In addition to following the SAFE Framework and the IP Guidelines, review the fo
 - If indicated by the [Required Disclaimers guidance](/handbook/product/product-safe-guidance/#required-disclaimers/), the [appropriate roadmap disclaimer](https://docs.google.com/presentation/d/1hbf9AnFj_E5Y_Yg_WWoy_R0WJXZZLV0zWpMUHqnIs3c/edit#slide=id.ge2b39964d2_0_144) is included.
 - All audio and visual content (including images, video, sounds, and music) is obtained from a permissively-licensed source, or is subject to a license permitting the proposed use.
 - All content is appropriate for a professional setting and neither offensive nor misleading.
-- Where [necessary](https://about.gitlab.com/handbook/legal/publicity-waiver-release), signed Publicity Waiver and Release agreements are in place with named individuals, and individuals appearing in audio or visual content.
+- Where [necessary](/handbook/legal/publicity-waiver-release), signed Publicity Waiver and Release agreements are in place with named individuals, and individuals appearing in audio or visual content.
 
 ## Examples - is Legal Review Necessary?
 

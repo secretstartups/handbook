@@ -100,7 +100,7 @@ Inspired by GitLab's [collaboration value](/handbook/values/#collaboration), the
 
 | Division  | Stable counterpart | Activities | 
 |-----------|--------------------|------------|
-| Alliances & Infrastructure | [Abubakar Siddiq Ango](https://gitlab.com/abuango) | [Infrastructure Meetings](https://about.gitlab.com/handbook/engineering/infrastructure/#meetings), [Alliances](https://about.gitlab.com/handbook/alliances/) | 
+| Alliances & Infrastructure | [Abubakar Siddiq Ango](https://gitlab.com/abuango) | [Infrastructure Meetings](https://about.gitlab.com/handbook/engineering/infrastructure/#meetings), [Alliances](/handbook/alliances/) | 
 | Product   | [Michael Friedrich](https://gitlab.com/dnsmichi)   | [Dev](/handbook/product/categories/features/#dev-section): Create:IDE ([Web IDE](https://about.gitlab.com/direction/create/ide/web_ide/), [Remote Development](https://about.gitlab.com/direction/create/ide/remote_development/)), [CI](/handbook/product/categories/features/#ci-section): [Monthly CI Section Field Sync (internal)](https://gitlab.com/gitlab-com/Product/-/issues/?sort=updated_desc&state=all&label_name%5B%5D=Field%20Sync&label_name%5B%5D=section%3A%3Aci&first_page_size=20), Ops: [Monitor:Observability direction](https://about.gitlab.com/direction/monitor/observability/), [Sec section](/handbook/product/categories/features/#sec-section): [Secure, Govern](https://about.gitlab.com/direction/govern/) | 
 
 As stable counterparts, Developer Evangelists are expected to actively engage with the divisions to identify collaboration opportunities and act as the primary point of contact for requests for Developer Evangelism support from these divisions. 

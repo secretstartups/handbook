@@ -18,7 +18,7 @@ In 2023, we released our inaugural [FY23 ESG Report](/handbook/esg/) in the Hand
 
 ### Philanthropic Requests
 
-Information on how GitLab Inc. supports Registered Nonprofit Organizations can be found in the [Philanthropy Policy](https://about.gitlab.com/handbook/legal/philanthropy-policy/)
+Information on how GitLab Inc. supports Registered Nonprofit Organizations can be found in the [Philanthropy Policy](/handbook/legal/philanthropy-policy/)
 
 Please note that for all Philanthropic Requests, including requests for GitLab to join as a member to an association, program or organization, approval by the ESG team and CLO is required as defined by the Oversight Responsibility section of the Policy.
 
@@ -62,7 +62,7 @@ Below are summaries of the events we held in August and October 2023.
 
 [GitLab for Nonprofits](https://about.gitlab.com/solutions/nonprofit/) is an in-kind donation program that provides licenses and seats at no cost to eligible Registered Nonprofit Organizations.
 
-GitLab for Nonprofits operates on a first come first served basis. Once the [annual donation of 5,000 seats](https://about.gitlab.com/handbook/legal/philanthropy-policy/#2-in-kind-product-donation) is met, the application will remain closed for the year.
+GitLab for Nonprofits operates on a first come first served basis. Once the [annual donation of 5,000 seats](/handbook/legal/philanthropy-policy/#2-in-kind-product-donation) is met, the application will remain closed for the year.
 
 **FAQs**
 
@@ -76,7 +76,7 @@ Nonprofits accepted into the program will be provided a free Ultimate license fo
 
 GitLab supports Registered 501c3 (or jurisdictional equivalent) Nonprofit Organizations in good standing that align with our [Values](/handbook/values/). A “Registered Nonprofit Organization” is one that has been registered with the local government or authorized agency within its applicable local, state, provincial, federal or national government.
 
-GitLab prioritizes Registered Nonprofit Organizations that help advance GitLab’s social and environmental key topics that were defined in GitLab’s [2022 materiality assessment](https://about.gitlab.com/handbook/legal/ESG/). GitLab’s current social and environmental key topics are:
+GitLab prioritizes Registered Nonprofit Organizations that help advance GitLab’s social and environmental key topics that were defined in GitLab’s [2022 materiality assessment](/handbook/legal/ESG/). GitLab’s current social and environmental key topics are:
 
 - Diversity, Inclusion, and Belonging
 - Talent Management & Engagement
@@ -86,7 +86,7 @@ For the calendar year 2023, we will limit the in-kind program to 5,000 seats, wh
 
 **What are the terms of the GitLab for Nonprofits program?**
 
-Upon acceptance, program members are subject to the [GitLab Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/). The decision to issue a GitLab for Nonprofits license is always at the sole discretion of GitLab.
+Upon acceptance, program members are subject to the [GitLab Subscription Agreement](/handbook/legal/subscription-agreement/). The decision to issue a GitLab for Nonprofits license is always at the sole discretion of GitLab.
 
 **How does someone apply?**
 
@@ -126,7 +126,7 @@ NOTE: For any request(s) that require payment, please be certain to follow appli
 
 Six key topics were identified in GitLab’s materiality assessment. These key topics will drive GitLab’s ESG strategy and program development. This page will continue to be updated as we make progress towards developing plans and programs to advance our ESG goals.
 
-![2023 Materiality Matrix](https://about.gitlab.com/handbook/legal/ESG/GitLab_2022_MaterialityMatrix_062123.PNG)
+![2023 Materiality Matrix](/handbook/legal/ESG/GitLab_2022_MaterialityMatrix_062123.PNG)
 
 Here are GitLab’s current key topics with their drivers:
 
@@ -191,7 +191,7 @@ Please read our [ESG report](/handbook/esg/) to learn about our progress.
 
 ## ESG Training
 
-To learn more about ESG at GitLab, please take our ESG Training course available on [LevelUp](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/esg-training) and in the [Handbook](https://about.gitlab.com/handbook/legal/ESG/ESG-Training/).
+To learn more about ESG at GitLab, please take our ESG Training course available on [LevelUp](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/esg-training) and in the [Handbook](/handbook/legal/ESG/ESG-Training/).
 
 ## Measuring Results
 

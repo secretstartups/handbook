@@ -59,7 +59,7 @@ The information contained on this page is organized into two distinct categories
 1. Once the Agreement has been stamped by Legal, follow the [DocuSign Process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-send-an-order-form-to-the-customer-for-signature-via-docusign) to send the agreement for signature within SFDC.
 1. All Sales Team Members have DocuSign access, please work with Sales Ops for any questions on how to use it. **Please be sure to copy the applicable Legal team member for all fully executed agreements**
 
-Need an NDA signed? Follow the process for [Team Members with DocuSign access](https://about.gitlab.com/handbook/legal/NDA/).
+Need an NDA signed? Follow the process for [Team Members with DocuSign access](/handbook/legal/NDA/).
 {.h3}
 
 ### How to Get a Data Processing Addendum (DPA) Signed
@@ -124,7 +124,7 @@ In instances where a customer or a partner has requested material non-standard t
 
 ### How to get a Data Processing Addendum (DPA) signed
 
-GitLab includes a signed version of the DPA on the [Terms of Service](https://about.gitlab.com/terms/), as stated within the [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) this DPA is applicable to all Enterprise Customer's and does not need to be counter-signed. In addition, as stated within the header of the DPA, a Customer’s acceptance of the Subscription Agreement shall be treated as its execution of the DPA.
+GitLab includes a signed version of the DPA on the [Terms of Service](https://about.gitlab.com/terms/), as stated within the [Subscription Agreement](/handbook/legal/subscription-agreement/) this DPA is applicable to all Enterprise Customer's and does not need to be counter-signed. In addition, as stated within the header of the DPA, a Customer’s acceptance of the Subscription Agreement shall be treated as its execution of the DPA.
 
 ### Request for Name Change or Change in Control
 
@@ -245,7 +245,7 @@ If the net ARR threshold requirements are met, a Sales team member must open a L
 
 1. Why will GitLab not sign a BAA?
     -GitLab is transparent with respect to information it requires, or does not require, in order to provide our products and services.
-    -GitLab does not require, nor is it  designed to be used to store, Protected Health Information (PHI). In addition, GitLab, as an organization, does not desire or need to receive, process, store, transact or otherwise possess PHI in order to provide our products and services. Please view [Section 14.3](https://about.gitlab.com/handbook/legal/subscription-agreement/#14-security--data-protection) of the Subscription Agreement, which specifically highlights that GitLab should not receive PHI. As such, GitLab does not meet, and has no intention of meeting, the definition of a "Business Associate" as defined under the Health Insurance Portability and Accountability Act (HIPAA).
+    -GitLab does not require, nor is it  designed to be used to store, Protected Health Information (PHI). In addition, GitLab, as an organization, does not desire or need to receive, process, store, transact or otherwise possess PHI in order to provide our products and services. Please view [Section 14.3](/handbook/legal/subscription-agreement/#14-security--data-protection) of the Subscription Agreement, which specifically highlights that GitLab should not receive PHI. As such, GitLab does not meet, and has no intention of meeting, the definition of a "Business Associate" as defined under the Health Insurance Portability and Accountability Act (HIPAA).
     -In the event a customer questions "incidental disclosures," please highlight the HIPAA definition itself, which states: “Business associate functions or activities on behalf of a covered entity include claims processing, data analysis, utilization review, and billing. Business associate services to a covered entity are limited to legal, actuarial, accounting, consulting, data aggregation, management, administrative, accreditation, or financial services. **However, persons or organizations are not considered business associates if their functions or services do not involve the use or disclosure of protected health information, and where any access to protected health information by such persons would be incidental, if at all.**”
 
 ### Data Privacy, Security and the GitLab Data Processing Addendum

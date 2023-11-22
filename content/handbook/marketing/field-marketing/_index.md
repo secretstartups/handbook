@@ -1003,7 +1003,7 @@ Once you feel confident that you have chosen the right 3rd party vendor, now is 
 1. FMM to open a Field Marketing issue and detail out the justification for the potential new vendor/product. Include any presentations, slides and demos that have been provided to help explain the product. Tag your regional manager in the issue to review and discuss. Approval must be received to move forward. Make sure to attach all of the following issues to your main Field Marketing Issue for easy access.
 1. FMM to open a [Contract Request](/handbook/marketing/field-marketing/#field-marketing-contract-requests) issue and assign to the regional FMC.
     - SLA for FMC to complete the Contract Request issue is 3 business days from the date all needed info is filled out by the FMM in the Contract Request issue. FMM to leave a note if turnaround is urgent (FMCs have been averaging 1-2 business days currently).
-1. FMC to process an NDA with the vendor, specified in the procurement handbook [here](https://about.gitlab.com/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/#nda-process). Remember to attach your executed NDA when opening your Zip requisition in the steps below.
+1. FMC to process an NDA with the vendor, specified in the procurement handbook [here](/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/#nda-process). Remember to attach your executed NDA when opening your Zip requisition in the steps below.
 1. If you're requesting a new tool, FMM to open a Marketing Ops Eval issue. Marketing Ops will help evaluate the product and will assist in the procurement process. They will also help you determine if an integration is required with any products in our current tech stack and if so, which team will be the DRI for the integration.
 1. FMC to follow [these instructions](/handbook/business-technology/enterprise-applications/guides/zip-guide) for opening a Zip requisition. Please note that you can submit the Zip requisition even before a contract has been provided. This template details the following approvals:
     - NDA requirement
@@ -1620,7 +1620,7 @@ It should be a rare occasion (and not a result of poor planning), that a contrac
 
 ## Sweepstakes
 
-Field Marketing follows the legal team's process [here](https://about.gitlab.com/handbook/legal/marketing-collaboration/#promotional-games) for contests and sweepstakes.
+Field Marketing follows the legal team's process [here](/handbook/legal/marketing-collaboration/#promotional-games) for contests and sweepstakes.
 
 ## Working with vendors that are brand new
 New vendors are popping up frequently and in the spirit of iteration and testing, the Field Marketing team at time may want to engage with a vendor that is brand new to the space (remember, at one point in time way back in 2011, GitLab the company was brand new too!). You should work with your leader to assess these opportunties. To ensure we are protecting our own company, you should follow these steps when working with a brand new vendor:

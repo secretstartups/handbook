@@ -6,8 +6,8 @@ description: "Follow this process to obtain legal review of materials for intern
 ## Self-serve materials compliance resources
 
 When creating materials:
-- for [external](./#external-vs-internal-use) use, always refer to the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/), the [Guidelines for Use of Third-party IP in External Materials](https://about.gitlab.com/handbook/legal/ip-public-materials-guidelines/), and as a quick-reference guide, the [External Materials Compliance Checklist](https://about.gitlab.com/handbook/legal/external-materials-compliance-checklist).
-- for [internal](./#external-vs-internal-use) use, always refer to the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/).
+- for [external](./#external-vs-internal-use) use, always refer to the [SAFE Framework](/handbook/legal/safe-framework/), the [Guidelines for Use of Third-party IP in External Materials](/handbook/legal/ip-public-materials-guidelines/), and as a quick-reference guide, the [External Materials Compliance Checklist](/handbook/legal/external-materials-compliance-checklist).
+- for [internal](./#external-vs-internal-use) use, always refer to the [SAFE Framework](/handbook/legal/safe-framework/).
 
 ## When to use this process
 
@@ -15,8 +15,8 @@ For materials listed in the Mandatory Review section, a review by the Legal & Co
 
 For all other materials, a review is **not required** provided the materials comply with:
 
-1. the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/); and
-1. the [Guidelines for Use of Third-party IP in External Materials](https://about.gitlab.com/handbook/legal/ip-public-materials-guidelines/).
+1. the [SAFE Framework](/handbook/legal/safe-framework/); and
+1. the [Guidelines for Use of Third-party IP in External Materials](/handbook/legal/ip-public-materials-guidelines/).
 
 The DRI is responsible for ensuring materials are compliant. If you're unsure whether certain materials need to be reviewed, or have a question about compliance with the SAFE Framework, the IP Guidelines, or the Checklist, reach out in the [#safe](https://app.slack.com/client/T02592416/C01UZQ63WFQ) Slack channel.
 
@@ -24,7 +24,7 @@ The DRI is responsible for ensuring materials are compliant. If you're unsure wh
 
 Review is **always** required for:
 
-- Internal and external materials requiring review as determined by the [SAFE Framework Flowchart](https://about.gitlab.com/handbook/legal/safe-framework/#safe-flowchart);
+- Internal and external materials requiring review as determined by the [SAFE Framework Flowchart](/handbook/legal/safe-framework/#safe-flowchart);
 - External materials which quote, or are written in the name of, the CEO; CFO; CLO; CRO; CTO; VP, Investor Relations; or a member of the [Board of Directors](/handbook/company/team/board-of-directors);
 - Quarterly and year-end earnings reports, and materials which include financial data that has not been publicly disclosed, or a variation previously disclosed financial data;
 - Materials relating to:
@@ -37,7 +37,7 @@ Review is **always** required for:
 
 This process should never be used for:
 
-- NDAs, contracts, or other commercial agreements which should instead be routed through the [Commercial Legal Team](https://about.gitlab.com/handbook/legal/commercial/#how-to-work-with-gitlab-legal-commercial).
+- NDAs, contracts, or other commercial agreements which should instead be routed through the [Commercial Legal Team](/handbook/legal/commercial/#how-to-work-with-gitlab-legal-commercial).
 - [AMAs](/handbook/communication/ask-me-anything/), [Key Review](/handbook/key-review/) meetings, and [Group Conversations](/handbook/group-conversations/) streamed or published [publicly](/handbook/marketing/marketing-operations/youtube/#visibility) to GitLab Unfiltered. However, these recordings should not be streamed or published if they contain material non-public information, confidential information, or are required to be kept SAFE;
 - External or internal handbook updates;
 - GitLab issues or merge requests; nor
@@ -53,8 +53,8 @@ The Legal & Corporate Affairs Team will not review materials sent in Slack becau
 
 Sometimes, legal review entails two separate reviews:
 
-- Materials for external use are reviewed (i) against the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/), and (ii) for compliance with third-party intellectual property (IP) rights; and
-- Materials for internal use are reviewed solely against the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/); an IP review is not required unless it is contemplated that such materials will be used externally.
+- Materials for external use are reviewed (i) against the [SAFE Framework](/handbook/legal/safe-framework/), and (ii) for compliance with third-party intellectual property (IP) rights; and
+- Materials for internal use are reviewed solely against the [SAFE Framework](/handbook/legal/safe-framework/); an IP review is not required unless it is contemplated that such materials will be used externally.
 
 ### Turnaround time
 
@@ -93,7 +93,7 @@ Follow this process to obtain legal review of a **single piece of material**. A 
     - yes <!-- if yes, identify the type of material from the list of materials subject to mandatory review -->
     - no
     
-    ## Does the material comply with the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) and the [Guidelines for Use of Third-party IP in External Materials](https://about.gitlab.com/handbook/legal/ip-public-materials-guidelines/)?
+    ## Does the material comply with the [SAFE Framework](/handbook/legal/safe-framework/) and the [Guidelines for Use of Third-party IP in External Materials](/handbook/legal/ip-public-materials-guidelines/)?
     <!-- Delete as appropriate -->
     - yes
     - no

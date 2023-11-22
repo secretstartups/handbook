@@ -60,7 +60,7 @@ The following data cleanup is required for any list prior to sending it to the M
 - Please use the correct member statuses based on the definitions and type [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status). They must be exact matches, no abbreviations.
 - Preferred format for Marketo upload is .csv, but will accept an .xls, or .xlsx. Provide as Google Sheet in the upload issue. **DO NOT** upload the file directly on the issue. Uploading files to the issue exposes ALL collected personal data to the internet and opens GitLab up to litigation
 - Record ownership will be assigned using established lead routing, which is [controlled by Traction Complete](/handbook/marketing/marketing-operations/traction-lead-complete)
-- In order to mark leads as `Opt-in = TRUE`, a record of the terms and conditions the leads agreed to upon having their data collected must be recorded. Check the `terms of service` wording has been recorded in the upload issue **before** opting in leads to receive marketing communications. No ToS, no `Opt-in`. Period. To find the appropriate language, refer to [Marketing Rules and Consent Language](https://about.gitlab.com/handbook/legal/marketing-collaboration/#marketing-rules-and-consent-language)
+- In order to mark leads as `Opt-in = TRUE`, a record of the terms and conditions the leads agreed to upon having their data collected must be recorded. Check the `terms of service` wording has been recorded in the upload issue **before** opting in leads to receive marketing communications. No ToS, no `Opt-in`. Period. To find the appropriate language, refer to [Marketing Rules and Consent Language](/handbook/legal/marketing-collaboration/#marketing-rules-and-consent-language)
 - If there are any records who have opted out of contact for any reason, define that on the spreadsheet by selecting `Opt-in = FALSE`
 - Leave `Opt-In` empty if no other option is available
 
@@ -95,7 +95,7 @@ Video of how this works tbd.
      - Field events that have not gained consent from the attendees that their name will be shared **are not** compliant.
      - Agreements to be contacted must explicitly state the individual has `opted-in` to receive communication and cannot leave room for nuance
      - Getting someone's name and/or business card from a meetup **does not** qualify as compliant.
-1. Remove all [embargoed country](https://about.gitlab.com/handbook/legal/trade-compliance/) records. 
+1. Remove all [embargoed country](/handbook/legal/trade-compliance/) records. 
 1. `Washington DC` is a `State` value and is not to be split up between `City` `State`. 
 1. `Zip Codes` contain five (5) numbers, States in US East may start with a `0`, make sure the `Zip/Postal Code` field is **plain text** and the leading `0` appears. 
 1. Member Statuses must match exactly to the program type and member status [listed](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status).

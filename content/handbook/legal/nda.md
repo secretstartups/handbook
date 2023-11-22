@@ -41,6 +41,6 @@ description: "How to complete an NDA Request"
 
 The processes above are only for standard GitLab NDAs. In the event a non-standard NDA is requested, please follow the applicable steps below:
 
-- NDAs regarding Customers and/or Partners require a [Legal Request](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-to-reach-legal) to be opened;
+- NDAs regarding Customers and/or Partners require a [Legal Request](/handbook/legal/customer-negotiations/#how-to-reach-legal) to be opened;
 - If this request is tied to the procurement (or potential procurement) of goods or services, follow the directions provided by the [Procurement Team](/handbook/finance/procurement/), where GitLab Legal will be engaged accordingly; or
 - If the request is not applicable for either of the above, create a [Legal Issue](https://gitlab.com/gitlab-com/legal-and-compliance) and tag the Issue with “NDA Request”.

@@ -55,7 +55,7 @@ Benefits of the GitLab for Open Source Program apply to a namespace. To qualify,
 
 ### What are the terms of the GitLab for Open Source Program?
 
-Upon acceptance to the GitLab for Open Source Program, all program members are subject to the [GitLab for Open Source Program Agreement](https://about.gitlab.com/handbook/legal/opensource-agreement/).
+Upon acceptance to the GitLab for Open Source Program, all program members are subject to the [GitLab for Open Source Program Agreement](/handbook/legal/opensource-agreement/).
 
 ### How does someone apply for the GitLab for Open Source Program?
 

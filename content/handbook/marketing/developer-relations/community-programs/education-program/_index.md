@@ -141,7 +141,7 @@ You'll need to create an EndNote account from the [EndNote homepage](https://end
 
 
 # <i class="far fa-newspaper" id="biz-tech-icons"></i>  GitLab for Education Program
-In order to qualify for the GitLab for Education Program applicants must meet the GitLab for Education Program Requirements. Once accepted in the program, institutions must agree and are subject to the [GitLab for Education Program Agreement](https://about.gitlab.com/handbook/legal/education-agreement/).
+In order to qualify for the GitLab for Education Program applicants must meet the GitLab for Education Program Requirements. Once accepted in the program, institutions must agree and are subject to the [GitLab for Education Program Agreement](/handbook/legal/education-agreement/).
 
 ## GitLab for Education Program Requirements
 
@@ -149,7 +149,7 @@ In order to qualify for the GitLab for Education Program applicants must meet th
 
 Country of origin:
 * GitLab, Inc. does not issue license to educational institutions located in China. JiHu, an independent company provides a specific Chinese distribution of GitLab's DevOps platform available as both a self-managed and SaaS offering (GitLab.cn) that is only available in China and specifically tailored for the Chinese market. [Read more here](https://about.gitlab.com/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/).
-* Please see our [trade compliance policy handbook](https://about.gitlab.com/handbook/legal/trade-compliance/) for a list of embargoed countries.  
+* Please see our [trade compliance policy handbook](/handbook/legal/trade-compliance/) for a list of embargoed countries.  
 
 * **Meet the use case requirements**: The GitLab educational license can be used solely for the purposes of **instructional use** or **non-commercial academic research**. Instructional use includes activities related to learning, training, research and development.  Non-commercial academic means conducting not-for-profit research projects conducted by the program member, and not at the request of a third party, which are not intended to, or in fact, produce results, works, services, or data for commercial use by anyone to generate revenue, or for the benefit of a third party.
 

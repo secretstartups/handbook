@@ -22,7 +22,7 @@ My main focus is providing legal support to all functions that bring revenue to 
 
 ## Communication
 
-I can be contacted through Slack, email or any other communication channel you feel more comfortable with (as long as I have it and know how to work with). **However, please keep in mind that,** for record purposes and in accordance with our [GitLab internal process](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-to-reach-legal), legal revenue related questions should be asked by opening a Legal Request in SFDC. The Legal slack channel is also available so that other GitLab colleagues can also have access to the question and respective answer (if not project related and/or confidential).
+I can be contacted through Slack, email or any other communication channel you feel more comfortable with (as long as I have it and know how to work with). **However, please keep in mind that,** for record purposes and in accordance with our [GitLab internal process](/handbook/legal/customer-negotiations/#how-to-reach-legal), legal revenue related questions should be asked by opening a Legal Request in SFDC. The Legal slack channel is also available so that other GitLab colleagues can also have access to the question and respective answer (if not project related and/or confidential).
 
 ## Outside of GitLab
 

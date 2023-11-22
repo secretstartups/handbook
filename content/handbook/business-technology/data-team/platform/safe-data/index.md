@@ -16,16 +16,16 @@ description: "SAFE Data Guide"
 
 ## What is SAFE Data?
 
-The Data Team follows the GitLab SAFE [Framework](https://about.gitlab.com/handbook/legal/safe-framework/) when it comes to SAFE Data. Sometimes also `MNPI` and `RESTRICTED_SAFE` is used in relation to SAFE Data and the SAFE Framework.
+The Data Team follows the GitLab SAFE [Framework](/handbook/legal/safe-framework/) when it comes to SAFE Data. Sometimes also `MNPI` and `RESTRICTED_SAFE` is used in relation to SAFE Data and the SAFE Framework.
 
 ## Access to SAFE Data
 
 ### Sisense
 
-Access to Sisense dashboards is based on job role and governed by the [SAFE Data Access Framework](https://about.gitlab.com/handbook/legal/safe-framework/). In Sisense, dashboards are classified into the following spaces:
+Access to Sisense dashboards is based on job role and governed by the [SAFE Data Access Framework](/handbook/legal/safe-framework/). In Sisense, dashboards are classified into the following spaces:
 - the **GitLab** space is a General Access area which houses dashboards which do not require SAFE handling. General Access Dashboards are accessible by all GitLab Team Members. Access instructions are covered in the [Sisense overview and development page.](/handbook/business-technology/data-team/platform/sisensecdt/#access)
 - the **SAFE Intermediate Dashboard** space houses dashboards which do not require SAFE handling, but reference data models that contain SAFE Data. SAFE Intermediate Dashboards are available to GitLab Team Members based on job role or demonstrated need.
-- the **SAFE Dashboard** space houses all dashboards that meet [GitLab's SAFE criteria](https://about.gitlab.com/handbook/legal/safe-framework/#safe-flowchart). SAFE Dashboards are available to GitLab Team Members based on job role or demonstrated need.
+- the **SAFE Dashboard** space houses all dashboards that meet [GitLab's SAFE criteria](/handbook/legal/safe-framework/#safe-flowchart). SAFE Dashboards are available to GitLab Team Members based on job role or demonstrated need.
 
 A complete list of Dashboards, including SAFE Dashboards, is available in the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index).
 
@@ -90,9 +90,9 @@ This space is only about limiting access to sensitive sales organization dashboa
 
 ### Tableau
 
-Access to Tableau dashboards is based on job role and governed by the [SAFE Data Access Framework](https://about.gitlab.com/handbook/legal/safe-framework/). In Tableau, we apply the SAFE security framework using [User Groups](/handbook/business-technology/data-team/platform/tableau/#user-groups).
+Access to Tableau dashboards is based on job role and governed by the [SAFE Data Access Framework](/handbook/legal/safe-framework/). In Tableau, we apply the SAFE security framework using [User Groups](/handbook/business-technology/data-team/platform/tableau/#user-groups).
 
-The development workflow for Tableau Creators that work with data that meet [GitLab's SAFE criteria](https://about.gitlab.com/handbook/legal/safe-framework/#safe-flowchart) is to publish into the SAFE folder in their department's development project. Should the Creator want to publish the workbook outside of the SAFE folder within the development project, they should open an [issue](https://gitlab.com/gitlab-data/tableau/-/issues/new) using the `All Requests` template in the Tableau project and request a review of the content by the BI Platform team. The BI Platform team will provide a yes or no decision on whether it is SAFE to publish the content outside of the SAFE folder in the development project.
+The development workflow for Tableau Creators that work with data that meet [GitLab's SAFE criteria](/handbook/legal/safe-framework/#safe-flowchart) is to publish into the SAFE folder in their department's development project. Should the Creator want to publish the workbook outside of the SAFE folder within the development project, they should open an [issue](https://gitlab.com/gitlab-data/tableau/-/issues/new) using the `All Requests` template in the Tableau project and request a review of the content by the BI Platform team. The BI Platform team will provide a yes or no decision on whether it is SAFE to publish the content outside of the SAFE folder in the development project.
 
 ### Snowflake
 
@@ -114,7 +114,7 @@ SAFE Data in Snowflake is stored in separate schemas. Schemas with SAFE Data are
 
 - `mnpi` tag to be applied when reading out of a table/model that holds MNPI data and MNPI is used in the model. Subsequently the data must be stored in a `RESTRICTED_SAFE_*` schema.
 - `mnpi_exception` tag to be applied when reading out of a table/model that holds MNPI data and MNPI is **not** used in the model. I.e. only a NON-MNPI field is used from a MNPI model.
-- It's up to the engineer to determine if and which tag needs to be applied. Check the data that is exposed in your model against the GitLab SAFE [Framework](https://about.gitlab.com/handbook/legal/safe-framework/). If there is doubt, reach out in the. `#SAFE` channel in Slack.
+- It's up to the engineer to determine if and which tag needs to be applied. Check the data that is exposed in your model against the GitLab SAFE [Framework](/handbook/legal/safe-framework/). If there is doubt, reach out in the. `#SAFE` channel in Slack.
 - The CI pipeline is there to help and check fact based (upstream model tags versus current model tags).
 
 The following diagram describes the process in detail when handling or referencing SAFE Data.

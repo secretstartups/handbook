@@ -146,7 +146,7 @@ Vesting means that you have to remain employed by, or are otherwise a service pr
 
 RSUs are grants of shares of the Company’s common stock, the vesting of which is based on the requisite service requirement. Generally, the Company’s RSUs are subject to forfeiture and are expected to vest over two to four years ratably on a combination of bi-annual and quarterly basis. New hire grants vest after 6 months, quarterly thereafter over the 4 years.  Refresh grants vest quarterly over 4 years.
 
-Per our [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/), we do not add specific dates to the handbook regarding equity. For more information on grant cadence & vesting, please see the following [slide deck](https://docs.google.com/presentation/d/1x65JGyptF3_eRQHcrESxWkBMEvbn5JVs/edit#slide=id.gf031717001_1_447).
+Per our [SAFE framework](/handbook/legal/safe-framework/), we do not add specific dates to the handbook regarding equity. For more information on grant cadence & vesting, please see the following [slide deck](https://docs.google.com/presentation/d/1x65JGyptF3_eRQHcrESxWkBMEvbn5JVs/edit#slide=id.gf031717001_1_447).
 
 - RSUs begin vesting on the corresponding grant date.
 - RSUs are reviewed for approval quarterly.

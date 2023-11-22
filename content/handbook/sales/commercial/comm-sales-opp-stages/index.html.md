@@ -258,7 +258,7 @@ It is important to note that Sales Development opportunities could come from inb
 - Fully executed documents received
 - PO (if applicable) has been received
 - Complete vendor registration process
-- [EULA](https://about.gitlab.com/handbook/legal/subscription-agreement/#subscription-agreement) (End User License Agreement) accepted by end-user
+- [EULA](/handbook/legal/subscription-agreement/#subscription-agreement) (End User License Agreement) accepted by end-user
 
 ----
 

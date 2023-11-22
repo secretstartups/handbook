@@ -11,7 +11,7 @@ Legal reviewed a requested list of countries for inclusion in the territory of e
 
 The pilot program features an automated workflow for the UX Research Team to generate rules. This is accomplished through a Google Form and not through a GitLab issue. Provided that the request satisfies certain pre-determined requirements, the requestor will receive a set of Abbreviated Rules almost immediately (minutes to an hour). If the request does not satisfy the pre-determined requirements use of the [Promotional Games Legal Template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=promotional_games_legal_template) will be required.
 
-As part of launching this pilot, Legal has updated the definitions and wording used in association with promotional games.  Please review [this section](https://about.gitlab.com/handbook/legal/marketing-collaboration/#promotional-games) of the handbook to learn about the three types of promotional games which are generally permitted at GitLab.
+As part of launching this pilot, Legal has updated the definitions and wording used in association with promotional games.  Please review [this section](/handbook/legal/marketing-collaboration/#promotional-games) of the handbook to learn about the three types of promotional games which are generally permitted at GitLab.
 
 Benefits of the pilot program:
 - Prize draws are able to be launched very quickly in connection with a survey opportunity.
@@ -21,7 +21,7 @@ Benefits of the pilot program:
 
 ## Pilot Program Workflow
 
-1. Review the [Eligibility Requirements](#eligibility-requirements-for-pilot-program) for the Pilot Program. Promotional Games which do not meet the Eligibility Requirements **in full* cannot proceed under the Pilot Program. Refer to the [mainstream review and approval process](https://about.gitlab.com/handbook/legal/marketing-collaboration/#promotional-games) for Promotional Games that do not meet the Eligibility Requirements.
+1. Review the [Eligibility Requirements](#eligibility-requirements-for-pilot-program) for the Pilot Program. Promotional Games which do not meet the Eligibility Requirements **in full* cannot proceed under the Pilot Program. Refer to the [mainstream review and approval process](/handbook/legal/marketing-collaboration/#promotional-games) for Promotional Games that do not meet the Eligibility Requirements.
 1. Complete the [Request Rules for a Promotional Game](https://docs.google.com/forms/d/e/1FAIpQLSdVxpGQDt-lPKPIEuGaUnrR2F8F_wS43dVkmVs4ugoaGSNVqA/viewform?usp=sf_link) Google form.
 1. You will receive an email with the Abbreviated Rules as an attachment. Please review the [Standard Promotional Rules and Abbreviated Rules](#standard-promotional-rules-and-abbreviated-rules) section for details on how the Abbreviated Rules work in connection with the standard set of rules created for this pilot.
 1. Create a separate screen/page within the survey where the participant can select to be entered into the Prize Draw and view the Abbreviated Rules. Follow the [guidelines for the proper administration of the Prize Draw](#proper-administration-of-the-prize-draw) when creating this screen/page.
@@ -67,7 +67,7 @@ Benefits of the pilot program:
                 Zip/Postal Code:
 
 1. You may not advertise the prize draw outside of the email distribution. If you are advertising the prize draw at an in-person event, the abbreviated rules should be a part of the same visual space as the remainder of the advertising message and should not be made available to any person not attending the in-person event. If you are advertising the prize draw at a virtual event, we recommend an approach similar to the survey screen language described above. The prize draw should not be advertised to attendees of an in-person or virtual event ahead of time or after the event has ended.
-1. No changes are permitted to the prize draw, the abbreviated rules, or the plan for advertising after the time period to enter has begun. The reason for this is that the countries designated as eligible in this pilot program were selected in part on the basis that the prize draw is a closed audience, meaning it is not advertised to the general public. If you wish to advertise to additional persons or a broader audience to raise interest in your study or survey using the prize draw as an incentive, then you should not use the pilot program workflow and instead use the [regular channel of seeking legal approval for a promotional game](https://about.gitlab.com/handbook/legal/marketing-collaboration/#promotional-games).
+1. No changes are permitted to the prize draw, the abbreviated rules, or the plan for advertising after the time period to enter has begun. The reason for this is that the countries designated as eligible in this pilot program were selected in part on the basis that the prize draw is a closed audience, meaning it is not advertised to the general public. If you wish to advertise to additional persons or a broader audience to raise interest in your study or survey using the prize draw as an incentive, then you should not use the pilot program workflow and instead use the [regular channel of seeking legal approval for a promotional game](/handbook/legal/marketing-collaboration/#promotional-games).
 
 ## Administrative Responsibilities
 
@@ -77,7 +77,7 @@ Benefits of the pilot program:
 
 ## Standard Promotional Rules and Abbreviated Rules
 
-There is a set of Official Rules which applies for every Promotional Game offered and is permanently hosted [here](https://about.gitlab.com/handbook/legal/promotional-game-standard-rules/). The Official Rules are structured and formatted so that they apply to every prize draw. The details which apply to a specific prize draw are outlined in the Abbreviated Rules - generated through the automated workflow of the Google form.
+There is a set of Official Rules which applies for every Promotional Game offered and is permanently hosted [here](/handbook/legal/promotional-game-standard-rules/). The Official Rules are structured and formatted so that they apply to every prize draw. The details which apply to a specific prize draw are outlined in the Abbreviated Rules - generated through the automated workflow of the Google form.
 
 Abbreviated Rules will generate upon submission of the Google Form and will look similar to this:
 

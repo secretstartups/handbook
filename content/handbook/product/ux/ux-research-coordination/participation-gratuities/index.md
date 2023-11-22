@@ -35,7 +35,7 @@ If you are unsure as to whether your study qualifies for incentives, reach out t
 
 - Swag can also be sent on an ad hoc basis, as requested by researchers, PMs, and others. This is a nice touch and an opportunity for personalization after a particularly good conversation. UX Research Operations Coordinators can reach out to the corporate events team (Emily Kyle) for swag codes.
 
-If you are planning to recruit users through a promotional game or contest (e.g., Opportunity to win 1 of 3 $30 (or equivalent currency) Amazon Gift cards), please review the following information in the [handbook](https://about.gitlab.com/handbook/legal/ux-research-pilot/) and consult with legal. For information on contacting legal, please refer to [how to reach us](https://about.gitlab.com/handbook/legal/#how-to-reach-us) in the Legal Team handbook page. Engaging legal for approval and creating an incentive request must be completed before conducting research involving promotional games or contests.
+If you are planning to recruit users through a promotional game or contest (e.g., Opportunity to win 1 of 3 $30 (or equivalent currency) Amazon Gift cards), please review the following information in the [handbook](/handbook/legal/ux-research-pilot/) and consult with legal. For information on contacting legal, please refer to [how to reach us](/handbook/legal/#how-to-reach-us) in the Legal Team handbook page. Engaging legal for approval and creating an incentive request must be completed before conducting research involving promotional games or contests.
 
 ## Fulfillment
 

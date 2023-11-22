@@ -101,7 +101,7 @@ This Policy is not intended to restrict communications or actions protected or r
 This Policy is in addition to, and does not replace or supersede the anti-retaliation provisions set out in any policies that include anti-retaliation provisions including, without limitation:
 
 - [Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d)
-- [Anti-Fraud Policy](https://about.gitlab.com/handbook/legal/anti-fraud-policy/)
+- [Anti-Fraud Policy](/handbook/legal/anti-fraud-policy/)
 - [Whistleblower Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk)
 - [Leave of Absence Policies](/handbook/people-policies/leave-of-absence/)
 - [Protected Disclosures Policy](https://docs.google.com/document/d/1cIRHYLBCKJy2doHcpL4Yg-A4PWaw16IgjWLUCb34OyE/edit?usp=sharing)

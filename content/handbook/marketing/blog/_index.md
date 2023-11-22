@@ -54,11 +54,11 @@ Publishing of blog posts occurs according to an editorial calendar. However, tha
 
 ### Legal review process
 
-Some blog posts must be reviewed by legal, in accordance with our [Materials Legal Review Process/SAFE program](https://about.gitlab.com/handbook/legal/materials-legal-review-process/). Authors are responsible for reviewing SAFE guidelines and getting Legal approval before sharing the Google Doc with the blog team. This process can take time, so please plan target publication dates accordingly.
+Some blog posts must be reviewed by legal, in accordance with our [Materials Legal Review Process/SAFE program](/handbook/legal/materials-legal-review-process/). Authors are responsible for reviewing SAFE guidelines and getting Legal approval before sharing the Google Doc with the blog team. This process can take time, so please plan target publication dates accordingly.
 
 GitLab has a bias for action, and the Blog team is no different. However, the GitLab Blog is a public-facing asset and represents the company. If the Blog team has concerns or questions about the information contained in the blog post, the Blog team has the authority to hold a blog post until Legal, Corporate Commmunications, Partner Marketing, the CMO, etc., can review the blog post to mitigate any potential risk for the company.
 
-Learn more about the [SAFE Guidelines by reading the handbook page](https://about.gitlab.com/handbook/legal/safe-framework/) and following the [Materials Legal Review Process](https://about.gitlab.com/handbook/legal/materials-legal-review-process/).
+Learn more about the [SAFE Guidelines by reading the handbook page](/handbook/legal/safe-framework/) and following the [Materials Legal Review Process](/handbook/legal/materials-legal-review-process/).
 
 ## Communication with Blog team
 

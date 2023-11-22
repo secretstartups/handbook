@@ -45,7 +45,7 @@ All GitLab data is categorized and must be handled in accordance with the [Data 
 
 [Freeware, browser extensions, add-ons and plugins]({{< ref "other-apps#browser-extensions" >}}) can pose a risk to GitLab as they may contain viruses, spyware or adware. The use of freeware could result in the loss of GitLab data and the inability to protect the data in accordance with GitLab security and privacy requirements. Not all freeware contains malware, but team members should carefully consider the terms of service and [types of data]({{< ref "data-classification-standard" >}}) that will be shared before installing anything on your computer.
 
-Security reserves the right to execute security reviews against this software and dissallow use if they do not meet GitLab's [technical and organizational security measures]({{< ref "technical-and-organizational-measures" >}}). Further, you must receive full GitLab Security and Privacy approval before transmitting any data that may be [unSAFE](https://about.gitlab.com/handbook/legal/safe-framework/#what-if-unsafe-information-is-shared) to a software provider.
+Security reserves the right to execute security reviews against this software and dissallow use if they do not meet GitLab's [technical and organizational security measures]({{< ref "technical-and-organizational-measures" >}}). Further, you must receive full GitLab Security and Privacy approval before transmitting any data that may be [unSAFE](/handbook/legal/safe-framework/#what-if-unsafe-information-is-shared) to a software provider.
 
 ### Unacceptable Use
 
