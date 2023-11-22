@@ -40,6 +40,80 @@ Other strategic initiatives to achieve this vision are driven by the needs of en
 
 <%= partial "includes/we-are-also-product-development.md" %>
 
+## Organization structure
+
+(click the boxes for more details)
+
+```mermaid
+flowchart LR
+    I[Infrastructure]
+    click I "/handbook/engineering/infrastructure/"
+
+    I --> TPM
+
+    I --> EP[Engineering Productivity]
+    click EP "/handbook/engineering/quality/engineering-productivity/"
+    I --> C[Core Platform]
+    click C "/handbook/engineering/infrastructure/core-platform/"
+    I --> EA[Engineering Analytics]
+    click EA "/handbook/engineering/quality/engineering-analytics/"
+    I --> TP[Test Platform]
+    click TP "https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/"
+    I --> SP[SaaS Platforms]
+
+    C --> SS[Systems Stage]
+    click SS "/handbook/engineering/infrastructure/core-platform/systems/"
+
+    SS --> GC[Gitaly::Cluster]
+    click GC "/handbook/engineering/infrastructure/core-platform/systems/gitaly/"
+    SS --> GG[Gitaly::Git]
+    click GG "/handbook/engineering/infrastructure/core-platform/systems/gitaly/"
+    SS --> Geo
+    click Geo "/handbook/engineering/infrastructure/core-platform/systems/geo/"
+    SS --> DB[Distribution::Build]
+    click DB "/handbook/engineering/infrastructure/core-platform/systems/distribution/"
+    SS --> DD[Distribution::Deploy]
+    click DD "/handbook/engineering/infrastructure/core-platform/systems/distribution/"
+
+    C --> DS[Data Stores Stage]
+    click DS "/handbook/engineering/infrastructure/core-platform/data_stores/"
+    DS --> CC[Cloud Connector]
+    click CC "/handbook/engineering/infrastructure/core-platform/data_stores/cloud-connector/"
+    DS --> TS[Tenant Scale]
+    click TS "/handbook/engineering/infrastructure/core-platform/data_stores/tenant-scale/"
+    DS --> Database
+    click Database "/handbook/engineering/infrastructure/core-platform/data_stores/database/"
+    DS --> GS[Global Search]
+    click GS "/handbook/engineering/infrastructure/core-platform/data_stores/search/"
+
+    SP --> DE[Delivery]
+    click DE "/handbook/engineering/infrastructure/team/delivery/"
+    DE --> Deployments
+    DE --> Releases 
+    SP --> Ops
+    SP --> Foundations
+    SP --> Scalability
+    click Scalability "/handbook/engineering/infrastructure/team/scalability/"
+    Scalability --> Observability
+    Scalability --> Practices
+
+    SP --> D[Dedicated]
+    click D "/handbook/engineering/infrastructure/team/gitlab-dedicated/"
+    D --> E[Environment Automation]
+    click E "/handbook/engineering/infrastructure/team/gitlab-dedicated/"
+    D --> PSS[Public Sector Services]
+    click PSS "/handbook/engineering/infrastructure/team/gitlab-dedicated/us-public-sector-services/"
+    D --> Switchboard
+    click Switchboard "/handbook/engineering/infrastructure/team/gitlab-dedicated/switchboard/"
+
+    TP --> TTI[Test and Tools Infrastructure]
+    click TTI "engineering/infrastructure/test-platform/dev-qe-team/"
+    TP --> SMP[Self-Managed Platform]
+    click SMP "/handbook/engineering/infrastructure/test-platform/enablement-saas-platforms-qe-team/"
+    TP --> TE[Test Engineering]
+    click TE "/handbook/engineering/infrastructure/test-platform/fulfillment-growth-qe-team/"
+```
+
 ## Design
 
 The [**Infrastructure Library**][library] contains documents that outline our thinking about the problems we are solving and represents the ***current state*** for any topic, playing a significant role in how we produce technical solutions to meet the challenges we face.
