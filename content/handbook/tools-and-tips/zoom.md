@@ -250,7 +250,7 @@ Meeting Surveys is enabled for everyone at GitLab, however to get this to work, 
 
 ### Zoom Clips
 
-**Enable for Zoom Clips**
+**Enable Zoom Clips**
 
 Zoom Clips is enabled for everyone at GitLab, however to get this to work, you will need to enable the feature within your account.
 
@@ -263,7 +263,7 @@ Zoom Clips is enabled for everyone at GitLab, however to get this to work, you w
 1. Open the Zoom app on your computer.
 1. On the top menu bar, click `Clips`.
     1. Note: If you have many products on your menu bar, click the More icon `(...)`` to access Clips.
-1. Click on `Create Clip`. 
+1. Click on `Create Clip`.
 
 **How to Access Your Clips**
 
