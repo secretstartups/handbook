@@ -438,7 +438,7 @@ Highspot's search algorithm is designed to get users in contact with the right c
 
 **Can I download content found in Highspot?**
 
-Generally, no. To help us maintain GitLab’s [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/) and cultivate Highspot as a single source of truth, most content found in Highspot is not available for download. Please reach out to the Highspot admins in #highspot-help-center if you have any questions about a specific piece of content.
+Generally, no. To help us maintain GitLab’s [SAFE framework](/handbook/legal/safe-framework/) and cultivate Highspot as a single source of truth, most content found in Highspot is not available for download. Please reach out to the Highspot admins in #highspot-help-center if you have any questions about a specific piece of content.
 
 **Can teams have an area where they can post content specific to their team?**
 
@@ -558,7 +558,7 @@ Using the embed code will allow Highspot users to view the webpage content direc
 
 #### Internal vs. External Content
 
-**Only mark a resource as external if you are absolutely certain it follows the [SAFE Guidelines](https://about.gitlab.com/handbook/legal/safe-framework/).** Under NO circumstances should anything marked as `External` contain material non-public information including financial/performance metrics, non-approved customer logos, etc. Also ensure external content follows our [Image/Logo Guidelines](/handbook/marketing/digital-experience/image-guidelines/) and [Trademark Guidelines](https://about.gitlab.com/handbook/legal/trademarks-training-materials/).
+**Only mark a resource as external if you are absolutely certain it follows the [SAFE Guidelines](/handbook/legal/safe-framework/).** Under NO circumstances should anything marked as `External` contain material non-public information including financial/performance metrics, non-approved customer logos, etc. Also ensure external content follows our [Image/Logo Guidelines](/handbook/marketing/digital-experience/image-guidelines/) and [Trademark Guidelines](/handbook/legal/trademarks-training-materials/).
 
 As a good best-practice, items marked as `External` should only include decks that have been signed off by Marketing and Legal as fit for external use (ex. DevOps Platform deck) or resources that focus on the GitLab product.
 

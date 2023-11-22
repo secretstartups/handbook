@@ -103,7 +103,7 @@ The Metrics Dictionary was [introduced](https://gitlab.com/gitlab-org/gitlab/-/i
 1. **Export**. You can now download the entire metrics dictionary as a .csv file.
 1. **Metric Version**. Starting with miletone 13.9, we've begun to attribute the version associated with the metric. Unfortunately we couldn't populate the historical values for existing metrics so all prior metrics are labeled as `<13.9`.
 1. **Metric Product Section/Stage/Group**. You can display and/or filter by Section, Stage and Group as needed.
-1. **Service Usage Data Category**. View and/or filter by [Service Usage Data](https://about.gitlab.com/handbook/legal/privacy/customer-product-usage-information/) category (Optional, Operational, Subscription).
+1. **Service Usage Data Category**. View and/or filter by [Service Usage Data](/handbook/legal/privacy/customer-product-usage-information/) category (Optional, Operational, Subscription).
 
 
 ## Instrumenting Metrics and Events

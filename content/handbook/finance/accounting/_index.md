@@ -611,7 +611,7 @@ Record to report process is governed by the following accounting policies:
 
 ### GITLAB INC. RELATED PARTY TRANSACTIONS POLICY
 
-Refer to Legal page for [Related Party Transactions policy](https://about.gitlab.com/handbook/legal/#gitlab-inc-related-party-transactions-policy)
+Refer to Legal page for [Related Party Transactions policy](/handbook/legal/#gitlab-inc-related-party-transactions-policy)
 
 ### Accounting Team PTO Guidelines
 

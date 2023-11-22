@@ -38,7 +38,7 @@ A Product Manager will lead their quad team, in collaboration with a Product Mar
   - Depending on the competitor, you may need to gain approval through the [Individual Use Software process](/handbook/finance/procurement/personal-use-software/#how-do-i-submit-a-request-for-new-individual-use-software).
 
 - **Step 2 - Follow Legal guidelines**
-  - Since we’re reviewing competitors, it’s important that you review and follow the [Guidelines for leveraging third-party SaaS free trials to gain competitive intelligence](https://internal.gitlab.com/handbook/legal-and-compliance/productguidance/) (only available to team members) and the [Guidelines on public discussion of competitor product features](https://about.gitlab.com/handbook/legal/competitor-discussion-guidelines/).
+  - Since we’re reviewing competitors, it’s important that you review and follow the [Guidelines for leveraging third-party SaaS free trials to gain competitive intelligence](https://internal.gitlab.com/handbook/legal-and-compliance/productguidance/) (only available to team members) and the [Guidelines on public discussion of competitor product features](/handbook/legal/competitor-discussion-guidelines/).
   - We also need to be mindful of the acceptable use policies of the competitors we’re evaluating.  It’s often difficult to understand the acceptable use policies of the competitors you’re about to evaluate.  Rather than try to interpret it yourself, ask your question on the #legal Slack channel before proceeding with the competitor comparison.
 
 - **Step 3 - Decide on the JTBDs to focus on**

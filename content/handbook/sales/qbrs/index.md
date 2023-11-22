@@ -241,7 +241,7 @@ A: In order to serve as an active participant in QBRs, there is no need to take 
 
 ### Where to Find Past Field Manager QBRs
 
-1. In accordance with our [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/), Field Manager QBR sessions are not recorded. Please refer to session notes instead. If you do not have access to the session notes, please request this directly from the QBR host.
+1. In accordance with our [SAFE framework](/handbook/legal/safe-framework/), Field Manager QBR sessions are not recorded. Please refer to session notes instead. If you do not have access to the session notes, please request this directly from the QBR host.
 
 ## Field Operations QBR Ask/Request Process
 

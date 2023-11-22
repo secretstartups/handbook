@@ -43,7 +43,7 @@ By submitting this form, you understand that your information will be shared wit
 
 `For more information please see the [GitLab's Privacy Policy](/privacy/).`
 
-If you are accepted into the GitLab for Open Source Program, you will be subject to [GitLab's terms and conditions](https://about.gitlab.com/handbook/legal/opensource-agreement/). All use of GitLab products must comply with United States export control and economic sanction laws.
+If you are accepted into the GitLab for Open Source Program, you will be subject to [GitLab's terms and conditions](/handbook/legal/opensource-agreement/). All use of GitLab products must comply with United States export control and economic sanction laws.
 ```
 
 ## Verifying applicants

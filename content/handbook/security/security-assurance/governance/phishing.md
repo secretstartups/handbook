@@ -115,7 +115,7 @@ Feel free to complete the assigned training and consider it as taking an extra s
 
 *Is this an invasion of privacy?*
 
-- The phishing program is covered by the [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/).
+- The phishing program is covered by the [Employee Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/).
 
 *Will I be publicly shamed?*
 

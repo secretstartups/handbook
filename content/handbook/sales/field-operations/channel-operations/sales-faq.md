@@ -338,7 +338,7 @@ Please refer to the guidelines listed in the [Sales Order Processing handbook](h
 My partner asked for GitLab's ECCN. Where can I find this information?
 </summary>
 
-You can find our ECCN in our [Trade Compliance handbook](https://about.gitlab.com/handbook/legal/trade-compliance/#how-do-trade-control-laws-apply-to-gitlab-software).
+You can find our ECCN in our [Trade Compliance handbook](/handbook/legal/trade-compliance/#how-do-trade-control-laws-apply-to-gitlab-software).
 
 </details>
 

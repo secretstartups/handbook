@@ -5,20 +5,20 @@ description: "Legal Product team page"
 
 ## Marketing
 
-- Visit the [Marketing Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/marketing-collaboration/), which covers amongst other things [Promotional Games](https://about.gitlab.com/handbook/legal/marketing-collaboration/#promotional-games) and [Media Consent and Model Release Requests](https://about.gitlab.com/handbook/legal/marketing-collaboration/#media-consent-and-model-release).
+- Visit the [Marketing Guide: Collaborating with GitLab Legal](/handbook/legal/marketing-collaboration/), which covers amongst other things [Promotional Games](/handbook/legal/marketing-collaboration/#promotional-games) and [Media Consent and Model Release Requests](/handbook/legal/marketing-collaboration/#media-consent-and-model-release).
 - If the request is not addressed in the Marketing Guide, open a new [General Legal Issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=general-legal-template).
-- For all materials requiring legal review, refer to the [Materials Legal Review Process](https://about.gitlab.com/handbook/legal/materials-legal-review-process).
+- For all materials requiring legal review, refer to the [Materials Legal Review Process](/handbook/legal/materials-legal-review-process).
 
 ## Patents
 
-- Visit the [GitLab Patent Program](https://about.gitlab.com/handbook/legal/patent-program/) for information on how to participate in this initiative.
+- Visit the [GitLab Patent Program](/handbook/legal/patent-program/) for information on how to participate in this initiative.
 - Visit the [Guidelines for reviewing third-party patents](https://internal.gitlab.com/handbook/legal-and-corporate-affairs/legal-and-compliance/productguidance/#guidelines-on-reviewing-third-party-patents) (accessible to team members only).
 
 ## Trademark
 
 - Visit [Brand Resources](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/#trademark) and [Trademark Guidelines](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/) for information about using GitLab's trademark.
-- [Use of Third-party Trademarks in GitLab](https://about.gitlab.com/handbook/legal/policies/product-third-party-trademarks-guidelines/)
-- [Trademarks Training Materials](https://about.gitlab.com/handbook/legal/trademarks-training-materials/)
+- [Use of Third-party Trademarks in GitLab](/handbook/legal/policies/product-third-party-trademarks-guidelines/)
+- [Trademarks Training Materials](/handbook/legal/trademarks-training-materials/)
 
 ## Cleanroom Development Process
 

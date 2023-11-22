@@ -13,7 +13,7 @@ Also, consistent with our [CREDIT](/handbook/values/) values, this is a living f
 
 By contributing, team members will help GitLab continue to keep our [CREDIT](/handbook/values/#credit) values front and center while making sure we continue to prioritize [Transparency](/handbook/values/#transparency). If you have any questions, please ask them in the [#safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) slack channel. Please do keep in mind that if you do reach out via the [#safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) slack channel, you should not include any sensitive information in that message because that is an open public channel. Instead, wait for a response from someone on the legal team as the sensitive information can be shared with the legal team using a DM.
 
-For all materials requiring legal review, refer to the [Materials Legal Review Process](https://about.gitlab.com/handbook/legal/materials-legal-review-process).
+For all materials requiring legal review, refer to the [Materials Legal Review Process](/handbook/legal/materials-legal-review-process).
 
 #### **WHAT IS SAFE?**
 

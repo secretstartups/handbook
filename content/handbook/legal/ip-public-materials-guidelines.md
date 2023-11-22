@@ -5,7 +5,7 @@ description: "Guidelines for the use of third-party content in external material
 
 ## Scope and purpose
 
-These guidelines apply to the use of third-party content in all [external](https://about.gitlab.com/handbook/legal/materials-legal-review-process/#external-vs-internal-use) materials, including:
+These guidelines apply to the use of third-party content in all [external](/handbook/legal/materials-legal-review-process/#external-vs-internal-use) materials, including:
 
 - Pitch decks;
 - Presentations and talk tracks (including those delivered at conferences and marketing events);
@@ -14,11 +14,11 @@ These guidelines apply to the use of third-party content in all [external](https
 
 If you’re unsure, reach out to [#legal](https://app.slack.com/client/T02592416/C78E74A6L) to confirm.
 
-These guidelines do not apply to the use of trademarks in the GitLab product itself. Refer to the guidelines of the [Use of Third-party Trademarks in GitLab](https://about.gitlab.com/handbook/legal/policies/product-third-party-trademarks-guidelines/#dos--donts-for-use-of-third-party-trademarks-in-gitlab) instead.
+These guidelines do not apply to the use of trademarks in the GitLab product itself. Refer to the guidelines of the [Use of Third-party Trademarks in GitLab](/handbook/legal/policies/product-third-party-trademarks-guidelines/#dos--donts-for-use-of-third-party-trademarks-in-gitlab) instead.
 
 When used in these guidelines:
 
-“**external materials**” has the meaning given in the [Materials Legal Review Process](https://about.gitlab.com/handbook/legal/materials-legal-review-process/#external-vs-internal-use).
+“**external materials**” has the meaning given in the [Materials Legal Review Process](/handbook/legal/materials-legal-review-process/#external-vs-internal-use).
 
 “**third-party content**” means any content, including trademarks, visual content, and written content, created or owned by a third party.
 
@@ -53,7 +53,7 @@ Just because something is available for free on the internet (including on Googl
 
 - Obtain visual content from permissively-licensed sources, like [unsplash.com*](https://unsplash.com/) for images, or use content created by GitLab. If you’re unsure, reach out to [#legal](https://app.slack.com/client/T02592416/C78E74A6L) to review the license covering the content you want to use.
 - If required by the applicable license, provide attribution, ensuring you follow any attribution guidelines which apply.
-- For visual content containing identifiable individuals (including GitLab team members), review and follow the [Publicity Waiver and Release Guidelines and Process](https://about.gitlab.com/handbook/legal/publicity-waiver-release).
+- For visual content containing identifiable individuals (including GitLab team members), review and follow the [Publicity Waiver and Release Guidelines and Process](/handbook/legal/publicity-waiver-release).
 - For stock house visual content that includes identifiable individuals, ensure the stock house has obtained a model release covering all individuals who appear.
 
 *For Unsplash images, it’s good practice to credit Unsplash as the source and photographer. This helps team members repurposing materials determine if images can be used, and is courteous to the photographer.

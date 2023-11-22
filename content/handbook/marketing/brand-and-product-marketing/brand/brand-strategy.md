@@ -87,7 +87,7 @@ If the vendor has met the above criteria, please [submit an issue](https://gitla
 - [ ] Brand
 - [ ] Corporate Communications
 - [ ] E-group member for organization using the vendor (all reference requests except logo use)
-- [ ] Legal ([Legal Materials Review Process](https://about.gitlab.com/handbook/legal/materials-legal-review-process/))
+- [ ] Legal ([Legal Materials Review Process](/handbook/legal/materials-legal-review-process/))
 
 # Additional brand resources
 

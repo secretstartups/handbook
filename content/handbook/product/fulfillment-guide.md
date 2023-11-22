@@ -25,7 +25,7 @@ description: "The Fulfillment Sub-department is responsible for the infrastructu
 | [Internal Support](/handbook/support/internal-support/) | Submitting all requests around licensing, subscription, trials, and grace periods. |
 | [Licensing FAQ](/pricing/licensing-faq/) | Common questions around purchasing, licensing, billing, contacting sales, and more |
 | [Finance and Legal Authorization Matrix](/handbook/finance/authorization-matrix/) | |
-| [Trade Compliance](https://about.gitlab.com/handbook/legal/trade-compliance/) | |
+| [Trade Compliance](/handbook/legal/trade-compliance/) | |
 | [Billing, invoice and payment requests](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html) | Zuora contact change, Zuora entity change and effects on SM/SaaS subscriptions, cancellations, downgrades, refunds, invoices, payments, credit card removals, renewal reversals, split payment requests |
 | [Troubleshooting: True Ups, licenses + EULAs](/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/) | |
 | [Quote-to-Cash systems documentation (EntApps)](/handbook/business-technology/enterprise-applications/quote-to-cash/) | Overview of systems, EntApps Architecture, Process Flow Diagrams, Entity Relationship Diagrams |
@@ -762,7 +762,7 @@ You can look at sample code that generates the counts by searching for `subscrip
 
 **What is Operational vs Optional Data?**
 
-Our [service usage data](https://about.gitlab.com/handbook/legal/privacy/customer-product-usage-information/) primarily aggregate counts from your instance (e.g. counts of issues or MRs) and is sent to GitLab on a weekly (or slower) cadence.
+Our [service usage data](/handbook/legal/privacy/customer-product-usage-information/) primarily aggregate counts from your instance (e.g. counts of issues or MRs) and is sent to GitLab on a weekly (or slower) cadence.
 
 1. Operational Data: This is the data that is tied to your subscription account/license. Our goal with this data is to capture aggregate counts to help the GitLab Customer Success and Sales teams help customers better adopt GitLab and get value out of their investment. Those counters can be viewed on metrics.gitlab.com by searching for "operational" and looking for the operational category. These operational events are agnostic of how you've activated your instance.
 2. Optional Data: [Optional Data](https://metrics.gitlab.com/?q=optional) is a similar type of metric (aggregate counts) but a much larger set than the Operational metrics. This is configured/opted-out by you, in your instance, and has nothing to do with your subscription. If you choose to share that data our Product teams would appreciate the insights to understand where to invest R&D resources to continue to mature our platform. Otherwise, you can ignore for your renewal and follow the opt-out steps documented [here](https://docs.gitlab.com/ee/development/service_ping/index.html#disable-service-ping).

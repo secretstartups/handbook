@@ -179,7 +179,7 @@ Generally, we do not edit other peoples' posts. If we see something that can be 
 
 That being said, there are instances when moderators can edit posts directly. Here are some examples and how to do it:
 
-- Violation of GitLab's [Code of Business Conduct & Ethics](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/) and [Events Code of Conduct](/handbook/company/culture/ecoc/) (Ex. redacting swear words, if they are unable or unwilling to edit it themselves)
+- Violation of GitLab's [Code of Business Conduct & Ethics](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/) and [Events Code of Conduct](/handbook/company/culture/ecoc/) (Ex. redacting swear words, if they are unable or unwilling to edit it themselves)
 - Redact private information (Ex. license keys, account info, email addresses, etc.)
 - Editing can be achieved via the grey pencil icon in the post toolbar (... > pencil)
 

@@ -61,7 +61,7 @@ When drafting social posts for team members to share, curators should be sure to
 - Does this information include **Financial** data, metrics, or predictions?
 - Could sharing this information have a harmful **Effect** on our team members or the business? 
 
-[Please be sure to review the SAFE Handbook page for detailed information.](https://about.gitlab.com/handbook/legal/safe-framework/)
+[Please be sure to review the SAFE Handbook page for detailed information.](/handbook/legal/safe-framework/)
 
 ### Curator Checklist cheat sheet
 When you add content into Bambu, consider the following: 

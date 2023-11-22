@@ -147,7 +147,7 @@ It's important to add captions to videos whenever possible. The steps below outl
 
 #### Publishing a course for external users
 
-Before publishing a course to be visible for external users, check the content thoroughly to ensure it fits within [GitLab's SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/#safe). It's also best practice to notify the Education Services team via `#education_services` slack channel, as they manage the external content catalogues. The steps needed to publish a course externally are:
+Before publishing a course to be visible for external users, check the content thoroughly to ensure it fits within [GitLab's SAFE framework](/handbook/legal/safe-framework/#safe). It's also best practice to notify the Education Services team via `#education_services` slack channel, as they manage the external content catalogues. The steps needed to publish a course externally are:
 
 1. From the admin view, navigate to the course by choosing Content > Manage Content, then finding the relevant course
 1. Once in the course editor, in the `Content` page check all relevant changes have been published.

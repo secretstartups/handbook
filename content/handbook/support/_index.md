@@ -485,7 +485,7 @@ Any workflow changes or announcements should be shared in the SWIR and we recomm
 
 - You can read the Support Week in Review by viewing the [more recent issue](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review/-/issues/?sort=created_date&state=all&label_name%5B%5D=SWIR%3A%3ADigest&first_page_size=20) with the `SWIR::Digest` label in the [SWIR project](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review).
 - You can subscribe to this label to be notified when the latest SWIR has been generated.
-- For audio editions recorded after 2022/07/01, you can find a link to the audio edition of the SWIR within the respective issue (this is so we comply with the [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/). An archive of all audio editions can be found in the [Support Week in Review - Audio Edition folder](https://drive.google.com/drive/search?q=support%20week%20in%20review%20-%20audio%20edition) on Google Drive (internal only).
+- For audio editions recorded after 2022/07/01, you can find a link to the audio edition of the SWIR within the respective issue (this is so we comply with the [SAFE framework](/handbook/legal/safe-framework/). An archive of all audio editions can be found in the [Support Week in Review - Audio Edition folder](https://drive.google.com/drive/search?q=support%20week%20in%20review%20-%20audio%20edition) on Google Drive (internal only).
 
 We encourage anyone in the team to share.
 

@@ -97,7 +97,7 @@ GitLab for Campuses can be sold through GitLab resellers. The specific language 
 
 ### GitLab for Campuses Agreeement
 
-The standard [GitLab Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) is applicable to the GitLab for Campuses offering.
+The standard [GitLab Subscription Agreement](/handbook/legal/subscription-agreement/) is applicable to the GitLab for Campuses offering.
 
 
 #### Definitions of Qualifying Education Institutions and Associated Entities

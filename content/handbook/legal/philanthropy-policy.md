@@ -9,7 +9,7 @@ description: "View Gitlab's Philanthropy Policy"
 
 ### Overview and Purpose
 
-The purpose of the GitLab Inc. (“GitLab”) Philanthropy Policy (“Policy”) is to provide guidance for GitLab’s philanthropic giving and activities to Registered Nonprofit Organizations (as defined below) that align with GitLab’s [Values](/handbook/values/), environmental, social, and governance [(ESG) strategy](https://about.gitlab.com/handbook/legal/ESG/), and help advance GitLab’s [mission](/handbook/company/mission/) to make it so that everyone can contribute.
+The purpose of the GitLab Inc. (“GitLab”) Philanthropy Policy (“Policy”) is to provide guidance for GitLab’s philanthropic giving and activities to Registered Nonprofit Organizations (as defined below) that align with GitLab’s [Values](/handbook/values/), environmental, social, and governance [(ESG) strategy](/handbook/legal/ESG/), and help advance GitLab’s [mission](/handbook/company/mission/) to make it so that everyone can contribute.
 
 ### Oversight Responsibility
 
@@ -26,7 +26,7 @@ Any budget request outside of the amount approved under GitLab’s annual operat
 
 GitLab supports Registered 501c3 (or jurisdictional equivalent) Nonprofit Organizations in good standing that align with our [Values](/handbook/values/). A “Registered Nonprofit Organization” is one that has been registered with the local government or authorized agency within its applicable local, state, provincial, federal or national government.
 
-GitLab prioritizes Registered Nonprofit Organizations that help advance GitLab’s social and environmental key topics that were defined in GitLab’s [2022 materiality assessment](https://about.gitlab.com/handbook/legal/ESG/). GitLab’s current social and environmental key topics are:
+GitLab prioritizes Registered Nonprofit Organizations that help advance GitLab’s social and environmental key topics that were defined in GitLab’s [2022 materiality assessment](/handbook/legal/ESG/). GitLab’s current social and environmental key topics are:
 
 - Diversity, Inclusion, and Belonging
 - Talent Management & Engagement
@@ -44,7 +44,7 @@ GitLab anticipates contributing financially to Registered Nonprofit Organization
 
 GitLab anticipates donating up to 5,000 seats annually to Registered Nonprofit Organizations. Interested Registered Nonprofit Organizations will be required to apply and will be vetted for registration and standing status. Licenses will be donated on a first come first serve basis in this first iteration. The number of seats to be donated within a fiscal year will be reviewed annually by the ESG Team,  the FP&A Business Partner, and Chief Legal Officer.
 
-Please see GitLab’s [Trade Compliance Policy Handbook](https://about.gitlab.com/handbook/legal/trade-compliance/) for a list of embargoed countries. Registered Nonprofit Organizations in embargoed countries are not eligible for the in-kind donation program.
+Please see GitLab’s [Trade Compliance Policy Handbook](/handbook/legal/trade-compliance/) for a list of embargoed countries. Registered Nonprofit Organizations in embargoed countries are not eligible for the in-kind donation program.
 
 ##### 3. Volunteerism and team member engagement
 

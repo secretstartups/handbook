@@ -253,7 +253,7 @@ I submitted a renewal PO in advance of the renewal date, when will the PO be boo
 What is GitLab's ECCN?
 </summary>
 
-You can find our ECCN in our [Trade Compliance handbook](https://about.gitlab.com/handbook/legal/trade-compliance/#how-do-trade-control-laws-apply-to-gitlab-software).
+You can find our ECCN in our [Trade Compliance handbook](/handbook/legal/trade-compliance/#how-do-trade-control-laws-apply-to-gitlab-software).
 
 </details>
 

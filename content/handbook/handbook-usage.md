@@ -19,7 +19,7 @@ This process is not unlike writing tests for your software. Only communicate a (
 
 Having a **"handbook first"** mentality ensures there is no duplication; the handbook is always up to date, and others are better able to contribute.
 
-Beyond being "handbook first," we are also "public handbook first." When information is [internal-only](/handbook/communication/confidentiality-levels/#internal), it should be captured in the internal handbook, but we default to the public handbook for anything that can be [made public](/handbook/communication/confidentiality-levels/#not-public). This ensures that everyone has access to any information that can be [SAFEly](https://about.gitlab.com/handbook/legal/safe-framework/) shared. This supports the GitLab [values](/handbook/values/), including transparency, efficiency, and results. It also protects against the internal handbook becoming a home for information that should otherwise be public or a conflicting or duplicative source of truth.
+Beyond being "handbook first," we are also "public handbook first." When information is [internal-only](/handbook/communication/confidentiality-levels/#internal), it should be captured in the internal handbook, but we default to the public handbook for anything that can be [made public](/handbook/communication/confidentiality-levels/#not-public). This ensures that everyone has access to any information that can be [SAFEly](/handbook/legal/safe-framework/) shared. This supports the GitLab [values](/handbook/values/), including transparency, efficiency, and results. It also protects against the internal handbook becoming a home for information that should otherwise be public or a conflicting or duplicative source of truth.
 <!-- blank line -->
 
 <figure class="video_container">
@@ -219,7 +219,7 @@ All team members will have this added to their Okta access when they join the co
 
 #### What if I have questions about the internal handbook or want to help with it?
 
-- Questions about what should be in the internal handbook vs in the public handbook?  See the [safe framework](https://about.gitlab.com/handbook/legal/safe-framework/#safe) or ask in `#safe`.
+- Questions about what should be in the internal handbook vs in the public handbook?  See the [safe framework](/handbook/legal/safe-framework/#safe) or ask in `#safe`.
 - Questions about updating the internal handbook or volunteering to help with enhancing it?  Join the `#internal-handbook` channel.
 
 ## Moving Pages and Adding Redirects to the Handbook

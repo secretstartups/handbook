@@ -19,7 +19,7 @@ Every process where Security is involved should be documented in this page. Each
 
 Diagrams are maintained by the team or department responsible for the process described. The ecosystems should be available in each departments subfolders, so that the [`CODEOWNERS`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS) file is leveraged to require the right approvers. A dedicated page is recommanded for each department, and even each sub-department.
 
-Diagrams referring to non [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) content can be kept in the [internal handbook](https://internal.gitlab.com/handbook/security/).
+Diagrams referring to non [SAFE](/handbook/legal/safe-framework/) content can be kept in the [internal handbook](https://internal.gitlab.com/handbook/security/).
 
 The Security Division Ecosystem should be maintained and updated as processes are updated to keep it as the single source of truth for these processes.
 The Security Leadership will review the ecosystem diagrams prior to every offsite.

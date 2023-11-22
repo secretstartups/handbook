@@ -655,7 +655,7 @@ Adapt this process as needed, and consider changing it to an asynchronous mode o
    1. **Visualize**: [Review your voting session results](https://support.mural.co/en/articles/2113758-run-a-voting-session#h_7cb8e4f588) and everyone helps place the stickies on the matrix, depending on their number of votes for each criterion.
    1. If there's still time, discuss the most-voted issues as a group.
 1. After:
-   1. The facilitator [uploads the recording to GitLab Unfiltered](/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube), sets its visibility (see [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/)), adds to relevant playlists, and includes the URL of the mural and planning issue in the description.
+   1. The facilitator [uploads the recording to GitLab Unfiltered](/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube), sets its visibility (see [SAFE framework](/handbook/legal/safe-framework/)), adds to relevant playlists, and includes the URL of the mural and planning issue in the description.
    1. The facilitator shares the recording URL and voting results in the planning issue, preferably with a screenshot of the matrix and links to the highest voted issues (see an [example](https://gitlab.com/gitlab-org/create-stage/-/issues/12980#note_843540512).
 
 <details markdown="1">
@@ -1929,7 +1929,7 @@ new features that we release, and help them to adopt all our own features.
 
 Each quarter we reach out to [Paid NPS (PNPS)](/handbook/product/performance-indicators/#paid-net-promoter-score-pnps) responders who opted-in to speak with us. This is a fantastic opportunity to build bridges to users and for product managers to get direct feedback for their specific product area. If a customer has taken the time to share a verbatim with us and offered to have a conversation, they deserve to be followed up with - especially if that customer is a detractor.
 
-When we speak to users and customers directly during this workflow, we must be mindful of [Product Legal guidance](/handbook/product/product-safe-guidance/) and the  [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/, just as we would be with any other documentation or communication we do as product managers.
+When we speak to users and customers directly during this workflow, we must be mindful of [Product Legal guidance](/handbook/product/product-safe-guidance/) and the  [SAFE framework](/handbook/legal/safe-framework/, just as we would be with any other documentation or communication we do as product managers.
 
 #### Overall process
 

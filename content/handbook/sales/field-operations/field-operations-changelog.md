@@ -241,7 +241,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **Sales Ops: [Sales Managers Alerted in #wins-key-deals](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2136)**
 
-**Alliance Ops: [Introducing the New GitLab Alliance Partner Program](https://about.gitlab.com/handbook/alliances/)**
+**Alliance Ops: [Introducing the New GitLab Alliance Partner Program](/handbook/alliances/)**
 
 ### 2022-03-07 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/94))
 

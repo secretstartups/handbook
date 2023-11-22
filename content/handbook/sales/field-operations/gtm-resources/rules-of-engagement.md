@@ -33,7 +33,7 @@ The purpose of this page is to provide clear guidelines around GitLab's FY24 GTM
 
 ### ROE for Banned Countries:
 
-Additional information on Trade Compliance can be found on the [Legal HB Page for Embargoed Countries](https://about.gitlab.com/handbook/legal/trade-compliance/)
+Additional information on Trade Compliance can be found on the [Legal HB Page for Embargoed Countries](/handbook/legal/trade-compliance/)
 1. Embargoed Accounts (Countries and Cities):
     - Account Address Country equals CU,IR,SS,SD,SY,KP OR [ZI] Country OR  [Admin] Address Country equals Crimea,Cuba,Iran,North Korea,Sudan,Syria
     - Account Address City, [ZI] City OR [Admin] Address City equals Sevastopol, Simferopol, Kerch, Yevpatoria, Yalta, Feodosia, Dzhankoi, Alushta, Bakhchysarai,Krasnoperekopsk, Saky, Armiansk, Sudak, Bilohirsk, Shcholkine, Inkerman, Staryi Krym,Alupka (Cities in Crimea Region)

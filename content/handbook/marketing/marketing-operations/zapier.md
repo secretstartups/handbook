@@ -25,7 +25,7 @@ These fields must be required and captured in order to allow for proper routing 
 * Company
 * Country (must be a [picklist containing all or some of these values](https://docs.google.com/spreadsheets/d/1cV_hI2wAzLxYYDI-NQYF5-FDDPXPXH0VV5qRBUJAQQk/edit?usp=sharing))
 * Number of employees (Can be range, or number)
-* Email Consent (Whether or not we received consent to send email, can be `TRUE` of `FALSE`) [Reference the legal handbook](https://about.gitlab.com/handbook/legal/marketing-collaboration/#marketing-rules-and-consent-language) for the language that should be used.
+* Email Consent (Whether or not we received consent to send email, can be `TRUE` of `FALSE`) [Reference the legal handbook](/handbook/legal/marketing-collaboration/#marketing-rules-and-consent-language) for the language that should be used.
 
 
 

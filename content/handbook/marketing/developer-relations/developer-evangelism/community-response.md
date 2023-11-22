@@ -117,7 +117,7 @@ When there is an ongoing discussion with many threads and requiring multiple ans
 * Update issue descriptions from feedback, if they remain unclear or discussion points.
 * Copy the context of linked URLs into replies. Not everyone clicks the URLs and may miss the context.
 * Ask for feedback and contributions on how to improve the functionality or code quality. 
-* Ensure all responses are [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) and adhere to GitLab's [team member social media policy](/handbook/marketing/team-member-social-media-policy/) before sending. 
+* Ensure all responses are [SAFE](/handbook/legal/safe-framework/) and adhere to GitLab's [team member social media policy](/handbook/marketing/team-member-social-media-policy/) before sending. 
 
 Example analysis for the [file extensions not being allowed in usernames thread on HackerNews](https://news.ycombinator.com/item?id=28535298):
 

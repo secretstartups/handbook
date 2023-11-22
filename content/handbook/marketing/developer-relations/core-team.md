@@ -176,7 +176,7 @@ A list of the up-to-date channels the Core should/have access to can be found in
 1. Contributor Success to: Identify the channel(s) owner and invite them to review the request by leaving a comment on whether they agree on having Core Team members in their channel(s).
 1. After successful review, issue is handed/assigned to Slack Admins, for inviting Core Team members to the channels and the list above is updated.
 
-All the channels Core Team members have access to, should follow the [SAFE guidelines](https://about.gitlab.com/handbook/legal/safe-framework/) when posting in the channel. Even though the Core Team Members have signed an NDA, they are not considered GitLab team members.
+All the channels Core Team members have access to, should follow the [SAFE guidelines](/handbook/legal/safe-framework/) when posting in the channel. Even though the Core Team Members have signed an NDA, they are not considered GitLab team members.
 
 ### Developer permissions for GitLab projects
 

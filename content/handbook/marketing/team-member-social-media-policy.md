@@ -36,7 +36,7 @@ The GitLab Social Media policy for team members applies to traditional social me
 The term "social media" applies to any online technology in use now or in the future that enables you to send or receive information and communicate or interact with others. Any site where you can share a post or comment on a post would be considered a social media website for the purposes of this policy.
 
 ##### Exclusions for anonymous review sites 
-This policy is not intended to limit team members from sharing their feedback or reviews of their experiences at GitLab on sites like Glassdoor, Fishbowl, Indeed, or similar sites. While we encourage you to share feedback with your manager and the people ops team, we celebrate our value of transparency and welcome feedback from team members on these sites, as long as the feedback follows our [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/).
+This policy is not intended to limit team members from sharing their feedback or reviews of their experiences at GitLab on sites like Glassdoor, Fishbowl, Indeed, or similar sites. While we encourage you to share feedback with your manager and the people ops team, we celebrate our value of transparency and welcome feedback from team members on these sites, as long as the feedback follows our [SAFE Framework](/handbook/legal/safe-framework/).
 
 ### All other GitLab codes of conduct and policies also apply to our social media policy
 
@@ -224,7 +224,7 @@ As a Team Member of GitLab, you aren't authorized to create company/brand social
 
 ### Contests or sweepstakes on your social media profiles
 
-As part of your role at GitLab, you may be responsible for a contest or a sweepstakes with social media elements. It's important to follow legal guidelines. Essentially, as a representative of GitLab, if you're promoting the contest on your social media channels, it will need to follow the same rules as what the GitLab brand channels will need to follow. You can [learn more about legal and contests in the handbook here](https://about.gitlab.com/handbook/legal/marketing-collaboration/#contests-and-sweepstakes).
+As part of your role at GitLab, you may be responsible for a contest or a sweepstakes with social media elements. It's important to follow legal guidelines. Essentially, as a representative of GitLab, if you're promoting the contest on your social media channels, it will need to follow the same rules as what the GitLab brand channels will need to follow. You can [learn more about legal and contests in the handbook here](/handbook/legal/marketing-collaboration/#contests-and-sweepstakes).
 
 ### Follow website terms of use
 

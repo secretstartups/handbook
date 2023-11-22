@@ -100,5 +100,5 @@ Another approach is to click the ✎ icon in the table you want to download. Thi
 
 ### Sharing data
 
-While our SUS data does not contain SAFE material, always remember to follow the Gitlab [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) when sharing or using data.
+While our SUS data does not contain SAFE material, always remember to follow the Gitlab [SAFE Framework](/handbook/legal/safe-framework/) when sharing or using data.
 There are two ways to share data in Sisense. First, click the ☰ icon. Then, you can either `Share a Link` or `Post to Slack`. If you select share a link, Sisense will redirect you to a new page, and you can copy the link from your browser. If you select `Post to Slack`, then remember to set up the [Sisense Slack app](https://gitlab.slack.com/apps/A4C6CSAFM-sisense-for-cloud-data-teams?tab=more_info).

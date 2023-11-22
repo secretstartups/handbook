@@ -20,7 +20,7 @@ Depending on the impacted resources, the following teams should be engaged and m
 - [Infrastructure Security Team](/handbook/security/security-engineering/infrastructure-security/) - infrastructure teams stable counterpart focused on cloud infrastructure security, best practices, and vulnerability management
 - [Business Technology Engineering](/handbook/business-technology/engineering/) - endpoint and systems access management
 - [Support Team](https://about.gitlab.com/support/) - responding to customer or employee inquiries regarding system outages
-- [Legal & Corporate Affairs](https://about.gitlab.com/handbook/legal/)
+- [Legal & Corporate Affairs](/handbook/legal/)
 - [Security Assurance]({{< ref "security-assurance" >}}) - assuring the security of GitLab as an enterprise application
 - [Marketing](/handbook/marketing/emergency-response/) - accurately represent GitLab and our products in our marketing, advertising, and sales materials.
 

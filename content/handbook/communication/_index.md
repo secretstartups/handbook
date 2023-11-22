@@ -44,7 +44,7 @@ Escalate to management if you are not getting the support you need. Remember tha
 
 ## Communicating Potentially GitLab Sensitive Topics
 
-(This guidance supplements and overlaps with [GitLab's SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/), the guidance on the use of [the internal handbook](/handbook/handbook-usage/#the-internal-handbook), and the additional guidance on this page. We ask our team members to consider the factors below in their communication. )
+(This guidance supplements and overlaps with [GitLab's SAFE Framework](/handbook/legal/safe-framework/), the guidance on the use of [the internal handbook](/handbook/handbook-usage/#the-internal-handbook), and the additional guidance on this page. We ask our team members to consider the factors below in their communication. )
 
 As GitLab matures, we want to continue to foster discussion while evolving our communication guidelines so that topics that are potentially GitLab sensitive are discussed in appropriate forums. This is particularly relevant as team members heavily leverage async modes of communication including merge requests, issues and epics, and in Slack communication.
 
@@ -61,7 +61,7 @@ At GitLab, we are [public by default](/handbook/values/#public-by-default), but 
 1. Customer or partner information (logos, trademarks, spend)
 1. Material nonpublic information
 
-The above examples overlap with the [GitLab's SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) examples. We recommend you to further review that page for more information and context.
+The above examples overlap with the [GitLab's SAFE Framework](/handbook/legal/safe-framework/) examples. We recommend you to further review that page for more information and context.
 
 ### What are the risks?
 
@@ -1256,7 +1256,7 @@ Examples of instances where GitLab may need to use this feature may include, but
 
 ### Are my direct messages and private channel conversations completely private?
 
-No. The Slack Workspace Owner has the ability to export data from all direct messages and private channel conversations for the maximum retention period set by GitLab, which is currently set for 90-days. All messages that are older than 90-days cannot be exported by the Workspace Owner or any other Team Member at GitLab. While messages are not actively monitored, GitLab reserves the right to monitor its software for the reasons stated in its [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/), including, but not limited to, the safety and protection of our Team Members, the protection of our intellectual property, and the exercise or defense of legal claims.
+No. The Slack Workspace Owner has the ability to export data from all direct messages and private channel conversations for the maximum retention period set by GitLab, which is currently set for 90-days. All messages that are older than 90-days cannot be exported by the Workspace Owner or any other Team Member at GitLab. While messages are not actively monitored, GitLab reserves the right to monitor its software for the reasons stated in its [Employee Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/), including, but not limited to, the safety and protection of our Team Members, the protection of our intellectual property, and the exercise or defense of legal claims.
 
 Please keep [GitLab values](/handbook/values/) in mind when communicating directly with other team members.
 If you have a confidential personal issue that you do not feel comfortable discussing via a business-provided internal communications tool, it is recommended to use a personal form of communication such as a text message or phone call.

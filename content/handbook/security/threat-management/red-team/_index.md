@@ -76,7 +76,7 @@ After an operation has concluded, we will create a short video summarizing the o
 - A very short summary of the operation, including the video overview
 - A link to the final report
 - A link to the retrospective issue to solicit questions and feedback
-- A disclaimer to keep the information [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/#how-do-we-reinforce-safe).
+- A disclaimer to keep the information [SAFE](/handbook/legal/safe-framework/#how-do-we-reinforce-safe).
 - A tagged list of individual operation participants as well as the Security Incident Response Team (SIRT) as a whole for awareness since not all team members participate in an operation each time.
 
 By doing this, we help foster a culture of security awareness throughout the organization and ensure that everyone can benefit from our work.

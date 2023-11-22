@@ -20,7 +20,7 @@ Please note the content of this page needs to remain aligned with Legal team gui
 
 ## General Guidelines
 
-GitLab Legal has put together a comprehensive framework to help team members determine which information is internal only and that which can be shared publicly. Following the [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/) will help you comply with the requirements of Regulation Fair Disclosure. 
+GitLab Legal has put together a comprehensive framework to help team members determine which information is internal only and that which can be shared publicly. Following the [SAFE framework](/handbook/legal/safe-framework/) will help you comply with the requirements of Regulation Fair Disclosure. 
 
 ### If you're not sure 
 
@@ -28,7 +28,7 @@ Please reach out to Slack #SAFE with any questions that are still unclear after 
 
 ###  Required Disclaimers
 
-The following applies to GitLab artifacts that have product and specific feature information. Please remember these artifacts should only contain information that is [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/). Links to various disclaimers are available in the ["helpful legal references"](#helpful-legal-references) section on this page. 
+The following applies to GitLab artifacts that have product and specific feature information. Please remember these artifacts should only contain information that is [SAFE](/handbook/legal/safe-framework/). Links to various disclaimers are available in the ["helpful legal references"](#helpful-legal-references) section on this page. 
 
 |Topic | Disclaimer | Legal Review Required (Y/N) | Other Considerations| 
 |[3 year direction videos](https://www.youtube.com/watch?v=2By7ipuQk1o) | Y | Y | | 
@@ -82,7 +82,7 @@ The list of examples is not a comprehensive list of what could be considered mat
 
 #### Do product PIs (performance indicators) need to be marked private?
 
-Yes. Whether in epics, issues or handbook pages, PIs should be internal-only and follow the [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/).
+Yes. Whether in epics, issues or handbook pages, PIs should be internal-only and follow the [SAFE framework](/handbook/legal/safe-framework/).
 
 #### What are some practical examples of things that are SAFE to share and those that need to remain internal-only?
 
@@ -101,7 +101,7 @@ See the table above. If you are recording a video that requires a disclaimer but
 
 #### What limitations do we have on sharing specific instrumentation data in public issues?
 
-None, so long as the instrumentation data does not contain [sensitive](https://about.gitlab.com/handbook/legal/safe-framework/#sensitive), [financial](https://about.gitlab.com/handbook/legal/safe-framework/#financial), or [internal-only](/handbook/communication/confidentiality-levels/#internal) data.
+None, so long as the instrumentation data does not contain [sensitive](/handbook/legal/safe-framework/#sensitive), [financial](/handbook/legal/safe-framework/#financial), or [internal-only](/handbook/communication/confidentiality-levels/#internal) data.
 
 #### What third-party materials (like images, diagrams, and quotes) can be included in publicly-available artifacts?
 
@@ -109,7 +109,7 @@ Guidelines covering the use of third-aprty materials are being prepared and will
 
 #### What third-party company and product names and logos can be included in publicly-available artifacts?
 
-The [Third-party Trademark Usage Guidelines](https://about.gitlab.com/handbook/legal/policies/product-third-party-trademarks-guidelines/) cover the use of third-party trademarks in GitLab (the product), and set out the process for adding new third-party logos to GitLab.
+The [Third-party Trademark Usage Guidelines](/handbook/legal/policies/product-third-party-trademarks-guidelines/) cover the use of third-party trademarks in GitLab (the product), and set out the process for adding new third-party logos to GitLab.
 
 [This advice](https://gitlab.com/groups/gitlab-com/marketing/strategic-marketing/-/epics/321#note_558193816) covers the use of third-party trademarks in the context of comparative advertising.
 
@@ -126,4 +126,4 @@ If the information is not SAFE, do not link to it or share it publicly.
 
 ####  Can you provide a definition for Information that is considered material?
 
-Referencing the [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) handbook page is a great place to start. If you're still unsure, please reach out to Legal in [#legal](https://slack.com/app_redirect?channel=C78E74A6L) and someone will be glad to assist you. 
+Referencing the [SAFE](/handbook/legal/safe-framework/) handbook page is a great place to start. If you're still unsure, please reach out to Legal in [#legal](https://slack.com/app_redirect?channel=C78E74A6L) and someone will be glad to assist you. 

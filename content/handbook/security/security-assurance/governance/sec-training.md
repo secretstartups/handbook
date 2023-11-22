@@ -51,7 +51,7 @@ Remember: If you see something, say something, and always report suspicious emai
 
 ### Data Classification Training
 
-To maintain our culture of security and transparency, and to minimize the risk to our sensitive data and our customers, GitLab team members are encouraged to complete [Data Classification Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-data-classification-training) to help understand the different types of data at GitLab and how to keep it [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/). This is a recommended training.
+To maintain our culture of security and transparency, and to minimize the risk to our sensitive data and our customers, GitLab team members are encouraged to complete [Data Classification Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-data-classification-training) to help understand the different types of data at GitLab and how to keep it [SAFE](/handbook/legal/safe-framework/). This is a recommended training.
 
 ### Secure Coding Training
 

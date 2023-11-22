@@ -296,7 +296,7 @@ Partners and GitLab Sellers frequently ask questions on how to collaborate with 
 
 ### Legal Requests for Partner Contracts
 
-The process to request the [legal team’s involvement in partner contracts](https://about.gitlab.com/handbook/legal/customer-negotiations/#to-request-a-legal-review-for-a-channel-partner-contract) can be found on the legal team’s handbook page. Please note that the process for getting partner contracts signed is different from the [process for any other legal request](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-to-reach-legal).
+The process to request the [legal team’s involvement in partner contracts](/handbook/legal/customer-negotiations/#to-request-a-legal-review-for-a-channel-partner-contract) can be found on the legal team’s handbook page. Please note that the process for getting partner contracts signed is different from the [process for any other legal request](/handbook/legal/customer-negotiations/#how-to-reach-legal).
 
 
 ## Channel Reporting and Tagging
@@ -923,7 +923,7 @@ All forecasting for the partner organization is done in Clari. Please use the fo
 
 ## Alliances and OEMs
 
-Please visit the [Alliances Handbook](https://about.gitlab.com/handbook/alliances/) for an overview of the GitLab Alliance Team. If you are a GitLab employee, the [Private Alliance Handbook](https://internal.gitlab.com/handbook/alliances/) is another available resource. The [Alliances Salesforce Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYAp) is also available.
+Please visit the [Alliances Handbook](/handbook/alliances/) for an overview of the GitLab Alliance Team. If you are a GitLab employee, the [Private Alliance Handbook](https://internal.gitlab.com/handbook/alliances/) is another available resource. The [Alliances Salesforce Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYAp) is also available.
 For any questions regarding our Alliance partners, please reach out to the #alliances Slack channel. If your inquiry is deal-specific, please use one of these Slack channels: **#a_gcp_deal_registration, #a_aws_deal_registration, #a_ibm_deal_registration**.
 
 ### Opportunity Tagging for Marketplace Deals

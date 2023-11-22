@@ -72,8 +72,8 @@ description: "The GitLab Field team includes multiple functions: Enterprise Sale
 | [Inbound Lead Generation](/handbook/marketing/sales-development/#inbound-lead-generation) | [Sales Collateral Google Drive](https://drive.google.com/open?id=0B-ytP5bMib9TaUZQeDRzcE9idVk) | [Features by Group](/handbook/product/categories/features/) |  |
 | **Finance Process** | **Business Operations Process** | **Legal Process** | |
 | ------ | ------ | ------ | ------ |
-| [Deal Desk: Assistance with Quotes](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#assistance-with-quotes) | [Business Operations Handbook](/handbook/business-technology/) | [Collaborating with Legal - Sales](https://about.gitlab.com/handbook/legal/customer-negotiations/) |  |
-| [Deal Desk: Approval Process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#deal-desk-approval-process) | [Data Team Handbook](/handbook/business-technology/data-team/) | [Legal Page](https://about.gitlab.com/handbook/legal/) |  |
+| [Deal Desk: Assistance with Quotes](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#assistance-with-quotes) | [Business Operations Handbook](/handbook/business-technology/) | [Collaborating with Legal - Sales](/handbook/legal/customer-negotiations/) |  |
+| [Deal Desk: Approval Process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#deal-desk-approval-process) | [Data Team Handbook](/handbook/business-technology/data-team/) | [Legal Page](/handbook/legal/) |  |
 | [Sending a Quote to Zuora](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#step-8--sending-the-quote-to-zuora) | [Data Quality Process](/handbook/business-technology/data-team/data-quality/) | [Engaging Legal in Deals](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#process-for-agreement-terms-negotiations-when-applicable) |  |
 | [How to Initiate a Refund](/handbook/finance/accounting/#7-invoice-cancellations-and-refunds) | [IT Ops Handbook](/handbook/business-technology/team-member-enablement/onboarding-access-requests/) |  |  |
 |  | [Access Requests](https://gitlab.com/gitlab-com/team-member-epics/access-requests) |  |  |
@@ -140,7 +140,7 @@ The Inside Sales department is part of the GitLab Sales function and partners wi
 
 #### Channels & Alliances
 
-These teams help accelerate GitLab’s trajectory by connecting our business and customers to companies that can help compliment our product mission and/or drive customer adoption and usage of the GitLab platform. See our [Channel](https://about.gitlab.com/handbook/sales/channel/) and [Alliances](https://about.gitlab.com/handbook/alliances/) Handbook pages for more details.
+These teams help accelerate GitLab’s trajectory by connecting our business and customers to companies that can help compliment our product mission and/or drive customer adoption and usage of the GitLab platform. See our [Channel](https://about.gitlab.com/handbook/sales/channel/) and [Alliances](/handbook/alliances/) Handbook pages for more details.
 
 #### Sales Development Organization 
 

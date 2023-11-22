@@ -48,7 +48,7 @@ This Report was first published on July 20, 2023.
 
 *Key ESG topics identified during GitLab’s materiality assessment.
 
-For questions and information on GitLab’s ESG Team, please visit the [ESG handbook page](https://about.gitlab.com/handbook/legal/ESG/).
+For questions and information on GitLab’s ESG Team, please visit the [ESG handbook page](/handbook/legal/ESG/).
 
 #### Our Approach to ESG
 
@@ -64,7 +64,7 @@ In December 2022, we completed an ESG materiality assessment to determine which 
 
 Six key topics, which drive GitLab’s ESG strategy and program development, were identified in GitLab’s materiality assessment.
 
-![Materiality_Matrix](https://about.gitlab.com/handbook/legal/ESG/GitLab_2022_MaterialityMatrix_062123.PNG)
+![Materiality_Matrix](/handbook/legal/ESG/GitLab_2022_MaterialityMatrix_062123.PNG)
 
 GitLab’s current key topics are listed below:
 
@@ -214,7 +214,7 @@ GitLab community programs
 
 (UN SDG #4 and 10)
 
-GitLab launched its first [Philanthropy Policy](https://about.gitlab.com/handbook/legal/philanthropy-policy/) in March 2023. This policy supports the launch of a formal corporate social impact program in 2023. The purpose of this program will be to support nonprofit organizations that align with the focus areas identified in our materiality assessment and to support team member efforts to get involved with community organizations.
+GitLab launched its first [Philanthropy Policy](/handbook/legal/philanthropy-policy/) in March 2023. This policy supports the launch of a formal corporate social impact program in 2023. The purpose of this program will be to support nonprofit organizations that align with the focus areas identified in our materiality assessment and to support team member efforts to get involved with community organizations.
 
 *“Giving back has been key to GitLab’s culture since our inception. We are excited to formalize our corporate social impact program commitment to ensure that we continue to use our resources for good and in alignment with our Values.”*
 -Robin Schulman, GitLab Chief Legal Officer and Head of Corporate Affairs
@@ -279,7 +279,7 @@ GitLab takes the security of our user’s data seriously. We employ administrati
 
 GitLab acknowledges the importance of our privacy obligations and the requirements and rights of our customers and users. We provide detailed information to everyone on the personal data we collect to operate our business. For more information on the personal data we collect, please see our [Privacy Statement](https://about.gitlab.com/privacy/). GitLab makes the necessary documentation available to our customers to enable compliance with privacy regulations. Users also have the right to access, correct, restrict, or delete personal data, and to port personal data to another company. While these rights may vary by jurisdiction, GitLab provides users with the same rights and choices, no matter where they live. For more information on our privacy practices, see our [Privacy Statement](https://about.gitlab.com/privacy/).
 
-The [Privacy Team](https://about.gitlab.com/handbook/legal/privacy/), which is part of the [Legal and Corporate Affairs Team]({{< ref legal-and-corporate-affairs >}}), provides support and guidance to uphold consistent business processes around the protection of personal data as it relates to GitLab customers, users, team members, and other natural persons. The team serves as advocates to ensure that the data privacy practices of GitLab meet the needs of cross-functional partners and are continually balanced with an ever-changing global data privacy and protection landscape.
+The [Privacy Team](/handbook/legal/privacy/), which is part of the [Legal and Corporate Affairs Team]({{< ref legal-and-corporate-affairs >}}), provides support and guidance to uphold consistent business processes around the protection of personal data as it relates to GitLab customers, users, team members, and other natural persons. The team serves as advocates to ensure that the data privacy practices of GitLab meet the needs of cross-functional partners and are continually balanced with an ever-changing global data privacy and protection landscape.
 
 GitLab maintains a [Data Classification Standard](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html) using a color system to denote data classification levels: green, yellow, orange, and red. All customer-generated private data is classified as the most sensitive data in the environment and is automatically labeled as red, demonstrating GitLab’s commitment to data security on behalf of our customers. This classification standard extends to customer application programming interfaces (“APIs”), code, private user profiles, and confidential repos/epics/issues. Red data classification is reserved exclusively for customer-generated data.
 
@@ -334,14 +334,14 @@ Our FY23 priorities in this area included:
 
 #### Business Ethics*
 
-GitLab is committed to the highest standards of legal and ethical business conduct. It has long operated its business consistent with written operating principles and policies that reinforce this commitment. GitLab complies with all laws and governmental regulations that are applicable to its activities, and expects all team members to adhere to our ethical standards, and legal and regulatory obligations. We require each team member to read and become familiar with the ethical standards described in GitLab’s [policies](https://about.gitlab.com/handbook/legal/#gitlab-policies). A team member who violates the law and/or our corporate policies may face disciplinary action, up to and including dismissal.
+GitLab is committed to the highest standards of legal and ethical business conduct. It has long operated its business consistent with written operating principles and policies that reinforce this commitment. GitLab complies with all laws and governmental regulations that are applicable to its activities, and expects all team members to adhere to our ethical standards, and legal and regulatory obligations. We require each team member to read and become familiar with the ethical standards described in GitLab’s [policies](/handbook/legal/#gitlab-policies). A team member who violates the law and/or our corporate policies may face disciplinary action, up to and including dismissal.
 
 Compliance with GitLab’s policies, and local and federal rules and laws is the individual responsibility of each team member. Team members are required to deal honestly, ethically, and fairly with customers, partners, suppliers, competitors, and other third parties. For example, we:
 
 - Prohibit bribes, kickbacks, or any other form of improper payment (and payment acceptance), direct or indirect, to (by) any representative of a government, labor union, customer, or supplier to obtain a contract, some other commercial benefit or government action; and
 - Protect, in accordance with applicable agreements and law, all proprietary data our customers, partners, or suppliers provided to us; and prohibit our representatives from otherwise taking unfair advantage of our customers, partners, or suppliers, or other third parties, through manipulation, concealment, abuse of privileged information, or any other unfair-dealing practice.
 
-GitLab strives to foster a work environment in which ethical issues and concerns may be raised and discussed with supervisors or with others without [fear of retribution](https://about.gitlab.com/handbook/legal/anti-retaliation-policy/#:~:text=Any%20Team%20Member%20who%20participates,or%20substantiated%20following%20an%20investigation.). If a team member is aware of a suspected or actual policy violation by others, they have a responsibility to report it in accordance with the procedures outlined below and in our [Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d?_gl=1*1ajdvmc*_ga*OTgxNjAzNjM1LjE2ODMyMDg3MTk.*_ga_ENFH3X7M5Y*MTY4NDk2MTE4MC4xMy4xLjE2ODQ5NjE3MDYuMC4wLjA.).
+GitLab strives to foster a work environment in which ethical issues and concerns may be raised and discussed with supervisors or with others without [fear of retribution](/handbook/legal/anti-retaliation-policy/#:~:text=Any%20Team%20Member%20who%20participates,or%20substantiated%20following%20an%20investigation.). If a team member is aware of a suspected or actual policy violation by others, they have a responsibility to report it in accordance with the procedures outlined below and in our [Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d?_gl=1*1ajdvmc*_ga*OTgxNjAzNjM1LjE2ODMyMDg3MTk.*_ga_ENFH3X7M5Y*MTY4NDk2MTE4MC4xMy4xLjE2ODQ5NjE3MDYuMC4wLjA.).
 
 **Reporting of Concerns and Violations**
 
@@ -351,13 +351,13 @@ At any time, team members may contact [EthicsPoint](/handbook/people-group/), Gi
 
 **Partner Ethics**
 
-Business ethics go beyond our immediate team members. GitLab will only do business with suppliers, contractors, resellers, agents, and consultants (collectively referenced as “Partners”) who comply with applicable and controlling laws, rules, and regulations and at a minimum, with standards of business conduct consistent with those set forth in GitLab’s [Partner Code of Ethics](https://about.gitlab.com/handbook/legal/partner-code-of-ethics/).
+Business ethics go beyond our immediate team members. GitLab will only do business with suppliers, contractors, resellers, agents, and consultants (collectively referenced as “Partners”) who comply with applicable and controlling laws, rules, and regulations and at a minimum, with standards of business conduct consistent with those set forth in GitLab’s [Partner Code of Ethics](/handbook/legal/partner-code-of-ethics/).
 
 As with our own team members, GitLab holds the highest expectations for our Partners regarding ethical issues including human rights, health and safety, corruption, the working environment and more. GitLab expects that Partners, as well as their employees, sub-suppliers, and any other parties involved with the execution of GitLab work, similarly comply with the applicable laws and the standards set forth in the Partner Code of Ethics.
 
 **Anti-Fraud Policy**
 
-GitLab is continually iterating to enhance policies that help guide team members in conducting business in a lawful and ethical manner. Most recently, GitLab formalized an [Anti-Fraud Policy](https://about.gitlab.com/handbook/legal/anti-fraud-policy/#:~:text=Any%20Team%20Member%20who%20has,%2C%20investigation%20and%2For%20prosecution.) in FY23. The policy builds on existing requirements set forth in other policies. The primary objectives of the policy are to prevent fraud, help maintain GitLab’s culture of compliance and integrity in GitLab’s business dealings, establish procedures and protections that allow team members to act on suspected fraud or corruption with potentially adverse ramifications, and achieve GitLab’s legitimate business objectives.
+GitLab is continually iterating to enhance policies that help guide team members in conducting business in a lawful and ethical manner. Most recently, GitLab formalized an [Anti-Fraud Policy](/handbook/legal/anti-fraud-policy/#:~:text=Any%20Team%20Member%20who%20has,%2C%20investigation%20and%2For%20prosecution.) in FY23. The policy builds on existing requirements set forth in other policies. The primary objectives of the policy are to prevent fraud, help maintain GitLab’s culture of compliance and integrity in GitLab’s business dealings, establish procedures and protections that allow team members to act on suspected fraud or corruption with potentially adverse ramifications, and achieve GitLab’s legitimate business objectives.
 
 Team members are expected to immediately report suspected, observed, or otherwise known fraudulent activity to their direct supervisor (who shall notify GitLab’s Chief Legal Officer and Head of Corporate Affairs, Chair of the Audit Committee, or outside counsel, as appropriate). If the team member has reason to believe that their direct supervisor may be involved in fraudulent activity, the team member is obligated to report the activity to the Chief Legal Officer and Head of Corporate Affairs. The reporting team member shall refrain from discussing the matter with any team member unless directed to do so by the Chief Legal Officer and Head of Corporate Affairs.
 

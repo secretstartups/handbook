@@ -15,10 +15,10 @@ The Legal Operations Team manages the [Legal Tech Stack](https://docs.google.com
 
 For information on GitLab’s Procurement Team, policies, and processes, visit the [GitLab Procurement Team handbook](/handbook/finance/procurement/).
 
-Use the [Procurement Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/) to learn about how Legal assists and interacts with the procurement of products and services.
+Use the [Procurement Guide: Collaborating with GitLab Legal](/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/) to learn about how Legal assists and interacts with the procurement of products and services.
 
 **Processes:**
-- [Uploading executed contracts to ContractWorks](https://about.gitlab.com/handbook/legal/vendor-contract-filing-process/)
+- [Uploading executed contracts to ContractWorks](/handbook/legal/vendor-contract-filing-process/)
 
 ## Legal & Corporate Affairs Billing Process
 

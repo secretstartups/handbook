@@ -360,7 +360,7 @@ GitLab is contractually obligated to provide Partners with **30 days notificatio
 
 If you have something to be communicated to our Partners, kindly submit a **Channel Partner Announcement request** using [this template](https://gitlab.com/gitlab-com/channel/channels/-/blob/master/.gitlab/issue_templates/Channel%20Partner%20Communication%20Request.md).
 
-For all materials requiring legal review, please refer to the [Materials Legal Review Process](https://about.gitlab.com/handbook/legal/materials-legal-review-process)
+For all materials requiring legal review, please refer to the [Materials Legal Review Process](/handbook/legal/materials-legal-review-process)
 
 The Channel Program team has a standard communication cadence and vehicles to deliver notifications to Partners. Please take into account the communication cadence and delivery dates below, we appreciate and encourage as much notification as possible to allow the team to prepare and schedule requests properly.
 

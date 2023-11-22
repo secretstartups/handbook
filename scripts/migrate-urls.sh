@@ -53,6 +53,9 @@ find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbo
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/marketing/~](/handbook/marketing/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/use-cases/~](/handbook/use-cases/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/acquisitions/~](/handbook/acquisitions/~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/alliances/~](/handbook/alliances/~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/legal/~](/handbook/legal/~g" {} +
+
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/company/~](/handbook/company/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/job-families~](/job-families~g" {} +
 
@@ -111,12 +114,13 @@ find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/han
 find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/marketing/~](/handbook/marketing/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/use-cases/~](/handbook/use-cases/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/acquisitions/~](/handbook/acquisitions/~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/alliances/~](/handbook/alliances/~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/legal/~](/handbook/legal/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/company/~](/handbook/company/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/job-families~](/job-families~g" {} +
 
 # Sections not yet migrated
 echo "Fixing links which haven't been migrated yet..."
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/alliances/~](https://about.gitlab.com/handbook/alliances/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/create-directory/~](https://about.gitlab.com/handbook/create-directory/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/customer-success/~](https://about.gitlab.com/handbook/customer-success/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/developer-onboarding/~](https://about.gitlab.com/handbook/developer-onboarding/~g" {} +
@@ -128,7 +132,6 @@ find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/git-page-update/~](ht
 find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/glossary/~](https://about.gitlab.com/handbook/glossary/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/integrator/~](https://about.gitlab.com/handbook/integrator/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/journeys/~](https://about.gitlab.com/handbook/journeys/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/legal/~](https://about.gitlab.com/handbook/legal/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/markdown-guide/~](https://about.gitlab.com/handbook/markdown-guide/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/organizational-change-management/~](https://about.gitlab.com/handbook/organizational-change-management/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/positioning-faq/~](https://about.gitlab.com/handbook/positioning-faq/~g" {} +
