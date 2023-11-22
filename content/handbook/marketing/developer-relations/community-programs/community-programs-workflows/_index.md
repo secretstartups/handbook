@@ -204,7 +204,7 @@ Sales team members receiving inbound requests regarding community programs shoul
 
 ### Apply naming conventions
 
-[Naming conventions](/handbook/sales/field-operations/gtm-resources/)
+[Naming conventions](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/)
   - Lead status: *Accepted* means Program Manager reached out to the lead/contact
   - Lead status: *Qualifying* means Program Manager is in 2-way conversation with lead/contact
   - Lead status: *Unqualified* means Applicant is not qualified for that program
