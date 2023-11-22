@@ -78,15 +78,9 @@ In addition to the `Platforms leads call`, we have some recurring events and rem
 
 The Director of Product and Director of Infrastructure for SaaS Platforms conduct weekly progress reviews. During `Platforms Grand Review`, they review [progress across all groups](https://gitlab.com/groups/gitlab-com/-/epics/2115) with the goals of being informed of progress made, learning about existing blockers, and supporting the team. The review is private streamed to the GitLab Unfiltered channel because the review covers confidential issues. All recordings are made available in the [Platforms Grand Review YouTube Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqDXSHdlUvPWHOj_Hw8JdQ1).
 
-### Projects
+### Project Management
 
-We endeavor to keep issues and epics up to date with the latest status of our work. Every Wednesday, the DRI for a project is expected to update the status block in the epic description to: 
-1. Indicate any project blockers.
-2. Briefly highlight progress since the last update.
-3. Indicate planned next steps, or mitigations required to progress.
-This enables other engineers and other managers to have good information about projects in an asynchronous fashion. 
-
-Completed epics should remain "Open" with the ~"workflow-infra::In Progress" label. Update the status block in the epic description to summarize the project and share the completed status. Completed epics will be reviewed, celebrated, and updated to closed in the next `Platforms Grand Review`.  
+We use epics and issues to manage our work. [Our project management process](https://about.gitlab.com/handbook/engineering/infrastructure/platforms/project-management/) is shared between all teams in SaaS Plaforms. 
 
 ### Tools
 
