@@ -990,15 +990,13 @@ See [IBM (OEM) Partner Requests & QTC Process](https://docs.google.com/document/
 
 For more information on our AWS CPPO Pilot Program, please reference the following [program guide.](https://docs.google.com/document/d/1cH0pJP6xaY0I-Fxra212VjYwn_MvNTH1hHOtkhGVC-4/edit#heading=h.lpzn62rdfa90)
 
-## Compensation on Channel Opportunities
+## Compensation on Partner Opportunities
 
 The executed compensation letter should be the approved and legal source of truth for compensation. However please use the following resources to assist in clarification or exceptions.
 
-[FY23 Channel & Alliance Comp & Splits Matrix](https://docs.google.com/spreadsheets/d/1jkdVDYeToAHjNhkF4xAs5wuMaw-TTOU8Ow286CXoznc/edit?usp=sharing)
+[FY24 Partner Comp & Splits Matrix](https://docs.google.com/spreadsheets/d/1LpNM636JnqQxLtMphxzcyZbdF5MDTgnIXkJEARCV_-4/edit#gid=1399522836)
 
-[FY23 Channel & Alliance Comp FAQ](https://docs.google.com/document/d/1ZKwXfzsT3xSCoI8Il9FSgwHG-GtOYwLMj3JX0mj9dcw/edit?usp=sharing)
-
-[FY23 Channel & Alliance Comp Exception Process](https://docs.google.com/document/d/1sUVZDDua5JB1omVUbqBkxA1NAhSed66sjzfIBaVIkGg/edit?usp=sharing)
+[FY24 Partner Comp Exception Process](https://docs.google.com/document/d/1sUVZDDua5JB1omVUbqBkxA1NAhSed66sjzfIBaVIkGg/edit?usp=sharing)
 
 
 ### Channel Neutral
