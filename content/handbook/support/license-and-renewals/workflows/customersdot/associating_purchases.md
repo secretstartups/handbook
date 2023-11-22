@@ -87,7 +87,7 @@ If the requestor is not an existing CustomersDot user when doing an email search
 
 **Note 2:** We do not accept vouches from GitLab Team Members (including Account Owners listed in SFDC) as proof of a customer's association to a subscription.
 
-**Note 3:** If you need to escalate any ownership verification requests to the Legal and Compliance team, open an issue in the Legal and Compliance project using the Subscription-Ownership-Change-Escalation template.
+**Note 3:** If you need to escalate any ownership verification requests to the Legal and Compliance team please open a [Subscription-Ownership-Change-Escalation](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=Subscription-Ownership-Change-Escalation) issue. 
 
 We need **one** of the following in order to verify eligibility for the subscription ownership change:
 
