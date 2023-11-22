@@ -331,7 +331,7 @@ This section describes the approval chain after the People Business Partner subm
 
 ### For People Connect Team: Processing Promotions, Internal Transfers & Compensation Changes
 
-1. If the request is approved through Workday, the People Connect Team will create the [Job Change Letter]({{< ref "promotions-transfers#job-change-letter" >}}), whereas if the request is through Greenhouse the `People Connect Team will be notified via the People Connect team email` inbox that the [Job Change Letter](https://handbook.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#job-change-letter) has been created by the CES team and signed.
+1. If the request is approved through Workday, the People Connect Team will create the [Job Change Letter]({{< ref "promotions-transfers#job-change-letter" >}}), whereas if the request is through Greenhouse the `People Connect Team will be notified via the People Connect team email` inbox that the [Job Change Letter](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#job-change-letter) has been created by the CES team and signed.
 1. The People Connect Team member notifies Payroll of the changes by adding the relevant details to the applicable payroll sheet depending on the country under the 'Compensation' header and starting month tab
     - [Non-US payroll changes](https://docs.google.com/spreadsheets/d/1M_puIKHLWkHnVzOJ2MwjIpQ-mwxolae-LpT2VPlByv0/edit#gid=261391927)
     - [(US)Payroll Changes](https://docs.google.com/spreadsheets/d/1163qL1tIG32vAVUNNIbhnPnzkL5euPAD9DGlOaapTjY/edit#gid=1431873926)
@@ -395,7 +395,7 @@ Regardless of the outcome, when the interim period ends, the manager should revi
 
 #### Updating Interim Movements in Workday
 
-If you receive a [Job Change letter](https://handbook.gitlab.com/handbook/people-group/contracts-probation-periods/#job-change-letter) to an interim role, process the change by:
+If you receive a [Job Change letter](/handbook/people-group/contracts-probation-periods/#job-change-letter) to an interim role, process the change by:
 
 1. Saving the letter to `Documents` > `Contracts & Changes` Document Category (Do not choose `Contracts & Changes - Confidential (No Employee View)`)
 1. Review for compensation change
@@ -572,7 +572,7 @@ If you are interested in another position within your department and the manager
 
 If a GitLab team member is chosen for a new role, the managers should agree on a reasonable and speedy transfer plan. Up to 4 weeks is usually a reasonable period, but good judgment should be used on completing the transfer in a way that is in the best interest of the company, impacted people, and projects.
 
-The agreed upon transfer date should be reflected in the offer letter in Greenhouse to ensure transfer date alignment between current manager, new manager, and transferring team member. This is essential to ensure that both teams are able to plan and be set up for success. It is important to note that it is typically the former team of the team member that shuffles to ensure workload of the departing team member is covered while a backfill is hired. This is to ensure a smooth and speedy transfer and a positive team member experience. When aligning on a start date, please also consider [payroll alignment](https://handbook.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#job-change-letter) when selecting a start date.
+The agreed upon transfer date should be reflected in the offer letter in Greenhouse to ensure transfer date alignment between current manager, new manager, and transferring team member. This is essential to ensure that both teams are able to plan and be set up for success. It is important to note that it is typically the former team of the team member that shuffles to ensure workload of the departing team member is covered while a backfill is hired. This is to ensure a smooth and speedy transfer and a positive team member experience. When aligning on a start date, please also consider [payroll alignment](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#job-change-letter) when selecting a start date.
 
 Delaying transfers should be avoided to ensure a good team member experience for the transferring individual, however, if due to extenuating circumstances a transfer date needs to be pushed out, both managers need to agree on a new transfer date to communicate to the team member.
 

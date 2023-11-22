@@ -111,7 +111,7 @@ Please see the [Complaint Procedure](/handbook/people-group/#how-to-report-viola
 
 ### Social Responsibility
 
-Please see our [Environmental, Social, and Governance]({{< ref "esg" >}}) page.
+Please see our [Environmental, Social, and Governance]({{< ref "/handbook/esg" >}}) page.
 
 ### Personal Appearance
 
