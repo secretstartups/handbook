@@ -393,7 +393,7 @@
       url: /handbook/product/ux/product-design
 - name: Legal and Compliance
   icon: fa-solid fa-scale-balanced
-  url: https://about.gitlab.com/handbook/legal/
+  url: /handbook/legal
   links:
   - name: GitLab Code of Business Conduct and Ethics
     url: https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d
