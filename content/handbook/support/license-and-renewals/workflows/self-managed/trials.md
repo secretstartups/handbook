@@ -30,7 +30,7 @@ We are allowed to issue trial licenses because they:
 ### How to extend an expired or soon to expire license
 
 **Note:** Unlike [SaaS](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials), a Self-managed extension does **not** require a pre-existing Trial license. Instead, start with the current almost-expired license, or most-recent expired license.
-With the release of [Temporary renewal extensions](/handbook/product/fulfillment-guide/#temporary-renewal-extensions), Sales are expected to use the [SFDC process](#sales-ar-requests-for-a-manual-temporary-extension) first before requesting L&R Support to manually generate a license.
+With the release of [Temporary renewal extensions](/handbook/product/fulfillment-guide/#temporary-renewal-extensions), Sales are expected to use the [SFDC process](#sales-ae-requests-for-a-manual-temporary-extension) first before requesting L&R Support to manually generate a license.
 
 1. Open the expired or soon to expire license.
 1. Confirm that:
