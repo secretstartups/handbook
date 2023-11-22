@@ -248,6 +248,28 @@ Meeting Surveys is enabled for everyone at GitLab, however to get this to work, 
 
 1. Go to [Reports](https://zoom.us/account/report?isPersonal=true#/usageReports/meeting) > Meeting > change the `Registration Report` drop down to `Survey Report`.
 
+### Zoom Clips
+
+**Enable for Zoom Clips**
+
+Zoom Clips is enabled for everyone at GitLab, however to get this to work, you will need to enable the feature within your account.
+
+1. Sign in to the [Zoom web portal](https://zoom.us/signin).
+1. Go to your [account settings](https://gitlab.zoom.us/profile/setting).
+1. Search for `Clips` and toggle the feature on.
+
+**How to Create a Clip**
+
+1. Open the Zoom app on your computer.
+1. On the top menu bar, click `Clips`.
+    1. Note: If you have many products on your menu bar, click the More icon `(...)`` to access Clips.
+1. Click on `Create Clip`. 
+
+**How to Access Your Clips**
+
+1. Sign in to the [Zoom web portal](https://zoom.us/signin).
+1. Go to [Clips](https://gitlab.zoom.us/clips/library) in the left sidebar.
+
 ---
 
 ## Setting up a Zoom Meeting
