@@ -179,6 +179,9 @@ Pool 1: On call engineer -> Support Manager on call -> Directors
 Pool 2: Backup engineers
 ```
 
+Changes to the backup policy (including adding/removing members) can be made by Support Managers and Support Engineers by creating an issue within the PagerDuty project using the
+[Edit an existing escalation policy](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/-/blob/master/.gitlab/issue_templates/Edit%20an%20existing%20escalation%20policy.md?ref_type=heads) issue template.
+
 *For further details, please refer to [STM#4583](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4583).*
 
 ##### Escalate to initiate page to backup engineers
