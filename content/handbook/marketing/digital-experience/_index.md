@@ -131,21 +131,21 @@ We use issue boards to track issue progress throughout a iteration. Issue boards
 
 The Digital Experience team uses the following issue titles for distinguishing ownership of issues between specialities:
 
-| Who          | Title       | 
-| ----------    | -----------| 
+| Who          | Title       |
+| ----------    | -----------|
 | User Experience| `UX:`     |
 | Engineering| `ENG:`     |
 
 The Digital Experience team uses the following labels for tracking merge request rate and ownership of issues and merge requests.
 
-| What & Current Issues | Label                   |  
-| ----------    | -----------             |  
-| [Work to be triaged](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-status%3A%3Atriage&first_page_size=100)| `~"dex-status::traige"`   |  
-| [Refinement on issue is needed](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-status%3A%3Arefinement&first_page_size=100)| `~"dex-status::refinement"`   |  
-| [Issues in the backlog](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-status%3A%3Abacklog&first_page_size=100) | `~"dex-status::backlog"`   |  
-| [Issues to be worked on](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-status%3A%3Atodo&first_page_size=100)| `~"dex-status::to-do"`   |  
-| [Currently being actioned](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-status%3A%3Adoing&first_page_size=100)| `~"dex-status::doing"`   
-| [Work in review](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-status%3A%3Areview&first_page_size=100)| `~"dex-status::review"`  | 
+| What & Current Issues | Label                   |
+| ----------    | -----------             |
+| [Work to be triaged](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-status%3A%3Atriage&first_page_size=100)| `~"dex-status::traige"`   |
+| [Refinement on issue is needed](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-status%3A%3Arefinement&first_page_size=100)| `~"dex-status::refinement"`   |
+| [Issues in the backlog](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-status%3A%3Abacklog&first_page_size=100) | `~"dex-status::backlog"`   |
+| [Issues to be worked on](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-status%3A%3Atodo&first_page_size=100)| `~"dex-status::to-do"`   |
+| [Currently being actioned](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-status%3A%3Adoing&first_page_size=100)| `~"dex-status::doing"`
+| [Work in review](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-status%3A%3Areview&first_page_size=100)| `~"dex-status::review"`  |
 | [Unplanned work](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-unplanned&first_page_size=100)| `~"dex-unplanned"`  |
 | [Issue for Search, Nav, & Support team to complete](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-group%3A%3Asearch-nav-support&first_page_size=100) |  `~"dex-group::search-nav-support"` |
 | [Issue for Conversion team to complete](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-group%3A%3Aconversion&first_page_size=100) |  `~"dex-group::conversion"` |
@@ -256,7 +256,7 @@ Burnup charts have separate lines for total work and completed work. The total l
 
 ### Iteration Changelogs
 
-At the end of every iteration we run a scheduled pipeline job that generates a [changelog for the Buyer Expeirence repository](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/CHANGELOG.md). It shows all the chnages made to the project with semanitc commits. 
+At the end of every iteration we run a scheduled pipeline job that generates a [changelog for the Buyer Expeirence repository](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/CHANGELOG.md). It shows all the chnages made to the project with semanitc commits.
 
 ## **FAQ:**
 ### Iteration boards
@@ -304,7 +304,7 @@ The suggested task duration is between 2-4 weight points (1-2 days). There will 
 ### Issues
 **What should I do if I’m assigned new issues mid-iteration?**
 
-Generally if an issue is added mid-iteration, it's high priority. It’s recommended to work with your team to remove the same amount of weight points from your iteration to make room. These removed issues should go back in the backlog. 
+Generally if an issue is added mid-iteration, it's high priority. It’s recommended to work with your team to remove the same amount of weight points from your iteration to make room. These removed issues should go back in the backlog.
 
 Apply the `dex-unplanned` label.
 
@@ -366,18 +366,18 @@ From time to time, our team has objectives that require us to collaborate on the
 
 At the end of every sprint cycle, Digital Experience team members can spend 10% or one day to work on issues related to improving the health of about.gitlab.com, the developer experience, tackle tech debt, or improve our documentation.
 
-The structure of Repository Health Day is as follows: 
-1. Team members will choose what they wish to work on for this day. 
-1. Each team member will submit a single merge request to the [Slippers Design System](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui), [Navigation](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation), or [Buyer Experience](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) repository by the end of repository health day. 
+The structure of Repository Health Day is as follows:
+1. Team members will choose what they wish to work on for this day.
+1. Each team member will submit a single merge request to the [Slippers Design System](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui), [Navigation](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation), or [Buyer Experience](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) repository by the end of repository health day.
 1. This merge request will be related to an issue from any partner or group within GitLab.
 
 By allowing our team members to contribute to the health of our repositories for a day, we can contribute low-effort, high-impact solutions that will drive results for our team, partners, and the entire marketing site. This will enable Digital Experience team members to use their strengths to efficiently drive results for https://about.gitlab.com/. We’re all good at different things and come from different backgrounds. Let’s use that to our advantage to build a better tech stack that is inclusive of the team members that use it everyday.
 
 ## Analytics
 
-The Digital Experience team utilizes [Looker Studio](https://datastudio.google.com/reporting/c47c1759-6d08-4f9b-aae3-3f6b4a3f8d0e/page/PUsnC), a dashboarding tool that visualizes data from Google Analytics, to monitor metrics related to web traffic, engagements, conversions, and site health over time. Team members can interact with the dashboard accordingly by changing the data range, filter by device type or traffic source, or drill-down certain reports with a secondary dimension. A detailed walk-through video of the dashboard is available [here](https://www.youtube.com/watch?v=z-JgjKfltoE). 
+The Digital Experience team utilizes [Looker Studio](https://datastudio.google.com/reporting/c47c1759-6d08-4f9b-aae3-3f6b4a3f8d0e/page/PUsnC), a dashboarding tool that visualizes data from Google Analytics, to monitor metrics related to web traffic, engagements, conversions, and site health over time. Team members can interact with the dashboard accordingly by changing the data range, filter by device type or traffic source, or drill-down certain reports with a secondary dimension. A detailed walk-through video of the dashboard is available [here](https://www.youtube.com/watch?v=z-JgjKfltoE).
 
-For any Digital Experience analytics request, please create an issue within the [Marketing Strategy and Analytics](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) project using the `dex_analytics_request` template to outline specific requirements. To ensure a smooth milestone planning, please assign the issue to [@dennischarukulvanich](https://gitlab.com/dennischarukulvanich) ideally a week or more in advance.  
+For any Digital Experience analytics request, please create an issue within the [Marketing Strategy and Analytics](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) project using the `dex_analytics_request` template to outline specific requirements. To ensure a smooth milestone planning, please assign the issue to [@dennischarukulvanich](https://gitlab.com/dennischarukulvanich) ideally a week or more in advance.
 
 ##  Sales Shadows
 ### How to set up a Sales Shadow
@@ -429,7 +429,7 @@ Whoever gets closest to the customer wins. With this in mind, the Digital Experi
 
 ## GitLab Unfiltered Playlist
 
-Watch our team in action on YouTube! 
+Watch our team in action on YouTube!
 
 [Digital Experience](https://www.youtube.com/playlist?list=PL05JrBw4t0KrakNGW0ruM5UL7DDlrMBba)
 
@@ -445,16 +445,16 @@ We do our best to assist team members but do not operate as an internal agency s
 
 ### Approving Changes to the Marketing Site
 
-Beginning in FY23Q3, all changes to the marketing site made by team members outside of Digital Experience will need to go through the [Marketing Site Approval Process](/handbook/marketing/digital-experience/marketing-site-approval-process). This ensures all changes align with the goals our Marketing team is working towards. Merge requests created in the [Buyer Experience Repository](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) should utilize the `marketing-site-change` [MR template](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/.gitlab/merge_request_templates/marketing-site-change.md). 
+Beginning in FY23Q3, all changes to the marketing site made by team members outside of Digital Experience will need to go through the [Marketing Site Approval Process](/handbook/marketing/digital-experience/marketing-site-approval-process). This ensures all changes align with the goals our Marketing team is working towards. Merge requests created in the [Buyer Experience Repository](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) should utilize the `marketing-site-change` [MR template](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/.gitlab/merge_request_templates/marketing-site-change.md).
 
 
-### Lightning Strikes 
+### Lightning Strikes
 
-#### What are lightning strikes? 
+#### What are lightning strikes?
 
-Lightning strikes are when [work outside of iteration planning](/handbook/marketing/digital-experience/#planning-iteration-plan-sync) must be performed; these are usually both business critical and time sensitive tasks. 
+Lightning strikes are when [work outside of iteration planning](/handbook/marketing/digital-experience/#planning-iteration-plan-sync) must be performed; these are usually both business critical and time sensitive tasks.
 
-#### How do you know if a lightning strike is necessary? 
+#### How do you know if a lightning strike is necessary?
 
 There are no specific guidelines we have set in place to what warrants a lightning strike, but these are general guidelines to follow:
 
@@ -471,9 +471,9 @@ Just because something isn’t a lightning strike doesn’t mean we won’t get 
 
 #### Are there any risks to operating under a lighting strike?
 
-Be aware that lightning strikes under quick turnarounds are at a higher risk of error due to the nature of time-sensitive work. It can lead to [ineffiency in code](/handbook/leadership/mitigating-concerns/#technical-debt-ineffectively-managed) which will [slow down our velocity](/handbook/leadership/mitigating-concerns/#loss-of-velocity).
+Be aware that lightning strikes under quick turnarounds are at a higher risk of error due to the nature of time-sensitive work. It can lead to [ineffiency in code](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns/#technical-debt-ineffectively-managed) which will [slow down our velocity](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns/#loss-of-velocity).
 
-It is worth noting that the majority of our churn originates from discussions initiated in a Slack thread, and can [improperly set expectations to other teams to what our team can deliver](/handbook/leadership/mitigating-concerns/#setting-expectations-incorrectly). Starting in Slack threads leaves room for [interpretation to the deliverable](/handbook/leadership/mitigating-concerns/#confusion-about-the-expected-output). To maintain efficiency in our operations, we need to acknowledge and address these factors accordingly.
+It is worth noting that the majority of our churn originates from discussions initiated in a Slack thread, and can [improperly set expectations to other teams to what our team can deliver](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns/#setting-expectations-incorrectly). Starting in Slack threads leaves room for [interpretation to the deliverable](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns/#confusion-about-the-expected-output). To maintain efficiency in our operations, we need to acknowledge and address these factors accordingly.
 
 ### The importance of providing assets and content on time
 
@@ -519,7 +519,7 @@ We love collaborating on work that drives our North Star and supporting metrics.
     <li><a href="https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/136">FY23Q3 Digital Experience Quarterly Plan & OKRs</a></li>
     <li><a href="https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/107">FY23Q2 Digital Experience Quarterly Plan & OKRs</a></li>
     <li><a href="https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/85">FY23Q1 Digital Experience Quarterly Plan & OKRs</a></li>
-    <li><a href="https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/3">FY22Q4 Digital Experience Quarterly Plan & OKRs</a></li>    
+    <li><a href="https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/3">FY22Q4 Digital Experience Quarterly Plan & OKRs</a></li>
     <li><a href="https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/385">FY22Q3 Digital Experience Quarterly Plan & OKRs</a></li>
 </details>
 <details>

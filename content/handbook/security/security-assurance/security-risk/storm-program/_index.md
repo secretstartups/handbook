@@ -23,7 +23,7 @@ The scope of the StORM program is limited to operational, technology-agnostic se
 1. Product/GitLab subscription-specific risks (e.g., specific vulnerabilty found within GitLab.com)
 1. Operational risks that are not security-related are out of scope (e.g., accounting-related risks)
 1. [Individual security compliance observations]({{< ref "observation-management-procedure" >}}) (e.g., inadequate password settings for a specific system)
-1. [Enterprise Risk Management (ERM)](https://internal.gitlab.com/handbook/internal-audit/erm/) - internal only. Examples of ERM risks can be found on our [Mitigating Concerns](/handbook/leadership/mitigating-concerns/) handbook page.
+1. [Enterprise Risk Management (ERM)](https://internal.gitlab.com/handbook/internal-audit/erm/) - internal only. Examples of ERM risks can be found on our [Mitigating Concerns](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns/) handbook page.
 
 ## Roles and Responsibilities
 
