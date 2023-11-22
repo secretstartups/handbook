@@ -1,14 +1,14 @@
 ---
 
 title: "Open Source Program"
-description: Learn about the GitLab for Open Source Program and other open source programs from GitLab's Developer Relations team
+description: "Learn about the GitLab for Open Source Program and other open source programs from GitLab's Developer Relations team"
 ---
 
 GitLab's open source program is part of the [Developer Relations team](/handbook/marketing/developer-relations/). It consists of three sub-programs:
 
 * [**GitLab for Open Source Program**](/handbook/marketing/developer-relations/community-programs/open-source-program/#gitlab-for-open-source-program), through which qualifying open source projects [receive benefits](/solutions/open-source/) like GitLab Ultimate with 50,000 compute minutes for free.
 * [**GitLab Open Source Partners**](/handbook/marketing/developer-relations/community-programs/open-source-program/#gitlab-open-source-partners), a [partnership program](/solutions/open-source/partners) designed for large or prominent open source projects and organizations.
-* [**Consortium Memberships**](/handbook/marketing/developer-relations/community-programs/opensource-program/#consortium-memberships-and-sponsorships), which allow us to [extend GitLab's leadership in key open source initiatives](/handbook/marketing/developer-relations/community-programs/open-source-program/#consortium-memberships-and-sponsorships), enhance GitLab's brand, and/or improve engineering alignment
+* [**Consortium Memberships**](/handbook/marketing/developer-relations/community-programs/opensource-program/#consortium-memberships-and-sponsorships), which allow us to extend GitLab's leadership in key open source initiatives, enhance GitLab's brand, and/or improve engineering alignment
 
 ## How to reach us
 
@@ -39,12 +39,12 @@ Product support is not included as part of this subscription.
 
 In order to be accepted into the GitLab for Open Source Program, applicants must:
 
-* **Use OSI-approved licenses for their projects:** Every project in the applying namespace must be published under an [OSI-approved open source license](https://opensource.org/licenses/alphabetical).
+* **Use OSI-approved licenses for their projects:** Every project in the applying namespace must be published under an [OSI-approved open source license](https://opensource.org/licenses/).
 *  **Not seek profit:** An organization can accept donations to sustain its work, but it can’t seek to make a profit by selling services, by charging for enhancements or add-ons, or by other means.
 * **Be publicly visible:** Both the applicant's GitLab.com group or self-managed instance and source code must be publicly visible and publicly available.
 
 **Please note:** Benefits of the GitLab for Open Source Program apply to a namespace.
-To qualify for the program, every project in an applicant’s namespace must carry an OSI-approved open source license.
+To qualify for the program, every project in an applicant’s namespace must carry an [OSI-approved open source license](https://opensource.org/licenses/).
 
 We make the following exceptions to our eligibility criteria:
 
@@ -85,7 +85,7 @@ Yes.
 Program members must renew their memberships annually.
 If they don’t renew, [their accounts will be downgraded](https://about.gitlab.com/pricing/licensing-faq/#what-happens-when-my-subscription-is-about-to-expire-or-has-expired).
 
-Subscriptions granted under the GitLab for Open Source Program do not auto-renew.
+Subscriptions granted under the GitLab for Open Source Program **do not auto-renew**.
 
 We recommend that applicants begin the renewal process at least one month in advance of their renewal dates to ensure sufficient processing time.
 Note that applications will not be processed during U.S. holidays; responses may be delayed during those periods.
@@ -122,26 +122,13 @@ When seeking to edit the GitLab for Open Source application page, find the appro
 
 Members of the [Developer Relations team](/handbook/marketing/developer-relations/) use GitLab Service Desk to manage program members' support requests.
 Because these requests often contain sensitive data and personally identifying information, we file them as issues in [a private project](https://gitlab.com/gitlab-com/marketing/community-relations/open-source-program/open-source-program-support). 
-When a new request arrives, Service Desk will label the issue as `OS Program Support::Intake`.
-When the ticket is under active review and remediation with a team member, that team member should assign it to themselves and add the `OS Program Support::Open` label.
-When a support issue is pending program member review and/or additional details, it should receive the `OS Program Supprt::Pending` label.
-And when a a support issue has been resolved, it should receive the `OS Program Support::Closed` label.
+
+* When a new request arrives, Service Desk will label the issue as `OS Program Support::Intake`.
+* When the ticket is under active review and remediation with a team member, that team member should assign it to themselves and add the `OS Program Support::Open` label.
+* When a support issue is pending program member review and/or additional details, it should receive the `OS Program Supprt::Pending` label.
+* When a a support issue has been resolved, it should receive the `OS Program Support::Closed` label.
+
 View the current status of all open program support issues on [a private project board](https://gitlab.com/gitlab-com/marketing/developer-relations/open-source-program/open-source-program-support/-/boards/5749258).
-
-#### Viewing program application reports
-
-Community Programs team members can access data regarding GitLab for Open Source Program applications via SheerID.
-These data are useful for understanding application trends, changes in application volume, and more.
-
-To access a report:
-
-1. Log into SheerID at `https://my.sheerid.com/`
-1. In the left-side navigation bar, click `Reporting`
-1. Set a time parameter in the `Timeline` selector
-1. Choose `Member OSS` from the `Program Name` pulldown selector
-1. Click the blue `Update` button
-
-[View a video tutorial](https://drive.google.com/file/d/1umJ7t0K3BRSI3HwQ090IBWZ3g64Ae2hN/view?usp=drive_link) of this process.
 
 ## GitLab Open Source Partners
 
