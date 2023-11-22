@@ -56,7 +56,7 @@ As a commercial organization, we always want to grow the number of paying custom
 1. Third party support/Platform: Free users increase our total user base, and a large user base makes 3rd party tools/APIs/integrations more likely to support GitLab, growing our ecosystem and enhancing our platform status.
 1. Enable product-led growth & Reduce Customer Acquisition Cost: our free product enables GitLab to acquire more users at a lower customer acquisition cost, as some of them will purchase via self-service funnel since they are already familiar with GitLab and won't require a full sales cycle to be convinced to buy.
 1. User habit/Retention lever: offering a free product allows users to develop a habit before they pay, therefore the paid customers are more likely to see higher ROI of GitLab. Additionally, even if the customer stays on the free plan, we are not losing the customer to a competitor.
-  
+
 ## Pricing Philosophy
 
 Our pricing philosophy is aligned with our [GitLab Values](/handbook/values/).
@@ -537,7 +537,7 @@ Alternatives that don't work:
 
 More detail about this in Sid's presentations about Buyer-Based-Open-Core at the [Open Source Leadership Summit in 2019](https://about.gitlab.com/blog/2019/04/03/five-ways-resist-service-wrapping-buyer-based-open-core/) and at [Heavybit](https://www.heavybit.com/library/video/commercial-open-source-business-strategies/).
 
-Also see [fork and commoditize](/handbook/leadership/mitigating-concerns/#fork-and-commoditize) in the list of our concerns.
+Also see [fork and commoditize](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns/#fork-and-commoditize) in the list of our concerns.
 
 ### Example template for customer response
 
