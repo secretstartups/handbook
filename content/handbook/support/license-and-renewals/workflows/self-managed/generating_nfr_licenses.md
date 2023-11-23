@@ -8,7 +8,7 @@ category: GitLab Self-Managed licenses
 
 ## Overview
 
-As part of GitLab's [NFR program policy](https://about.gitlab.com/handbook/resellers/#nfr-programpolicy), [Channel Partner team](https://gitlab.com/gitlab-com/support/internal-requests-form/-/issues/10#note_1085735806) will open internal request for NFR license using the internal request form.
+As part of GitLab's [NFR program policy](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#not-for-resale-nfr-program-and-policy), [Channel Partner team](https://gitlab.com/gitlab-com/support/internal-requests-form/-/issues/10#note_1085735806) will open internal request for NFR license using the internal request form.
 
 ### Actioning the Request
 
