@@ -1,13 +1,7 @@
 ---
-
 title: "Contributor Success Team"
 description: "Contributor Success Team"
 ---
-
-
-
-
-
 
 ## Common Links
 
@@ -46,10 +40,10 @@ In FY23 we will be focused on growing the number of unique new monthly contribut
 (OCMA)](#open-community-mr-age-ocma) and increasing [MRARR](#mrarr). This will increase development velocity without
 requiring additional engineering resources.
 
-Parallel to this we'll increase 
-[observability of community contributed value](#community-contributed-value-observability) through improving the 
-business intelligence around it. This will allow us to create some predictability through 
-[foreshadowing](#community-metrics-foreshadowing). These efforts are cross-functional and require working together 
+Parallel to this we'll increase
+[observability of community contributed value](#community-contributed-value-observability) through improving the
+business intelligence around it. This will allow us to create some predictability through
+[foreshadowing](#community-metrics-foreshadowing). These efforts are cross-functional and require working together
 with Engineering and Product Development.
 This accounts for 70 - 80% of the workload. The remaining 20 - 30% is ad-hoc work. The ad-hoc work is eclectic and
 ranges from supporting customers on contributions, supporting various open source initiatives and supporting the
@@ -80,14 +74,14 @@ ranges from supporting customers on contributions, supporting various open sourc
 #### Open Community MR Age (OCMA)
 
 1. Minimize reliance on human factors that contribute to a large standard deviation
-1. Identify & drive tooling improvements to decrease OCMA, and collaborate with the [Engineering Productivity team](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/) 
+1. Identify & drive tooling improvements to decrease OCMA, and collaborate with the [Engineering Productivity team](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/)
 through shared tooling for [automated triaging](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/#automated-triage-policies)
 
 #### Leading Organizations
 
 The GitLab [Leading Organizations program](/handbook/marketing/developer-relations/leading-organizations/) is a
-cross-functional initiative that is led by the [Contributor Success team](/handbook/marketing/developer-relations/contributor-success/) 
-and [Developer Relations team](/handbook/marketing/developer-relations/). 
+cross-functional initiative that is led by the [Contributor Success team](/handbook/marketing/developer-relations/contributor-success/)
+and [Developer Relations team](/handbook/marketing/developer-relations/).
 
 The Leading Organization program supports GitLab's [mission](/handbook/company/mission/#mission) by recognizing and incentivizing
 organizations who are among our most active contributors. A company or individual
@@ -99,45 +93,45 @@ to the program.
 
 ## Team Responsibilities
 
-* Improve GitLab's Contribution Efficiency and [merge request coaching](/job-families/expert/merge-request-coach/) process.
-* Contribute as a [merge request coach](/job-families/expert/merge-request-coach/) in one or more specialties by providing guidance to community contributors on technical and non-technical aspects.
-* Be a point of escalation for community contributors and identify GitLab DRIs to resolve blockers.
-* Organize community contributors into [community teams](#gitlab-community-teams-structure) and ensure their success.
-* Track [contribution](/community/contribute/) delivery of the Community Contributors and Cohorts.
-* Nominate impactful community contributors and contributions for recognition.
-* Select and recognize a [GitLab MVP](/handbook/marketing/developer-relations/contributor-success/mvp-process.html) for each release post
-* Collaborate closely with our [Marketing counterparts](/handbook/marketing/developer-relations/) and [Core team](/community/core-team/).
-* Engineering representative that can ride along with the [Developer evangelist](/job-families/marketing/developer-evangelist/).
-* Improve community recognition system and awards in collaboration with the [Developer Relations team](/handbook/marketing/developer-relations/).
-* Participate in GitLab's overall Engineering open source outreach events and processes.
-* [Triage community issues](https://about.gitlab.com/handbook/engineering/quality/issue-triage/) to be picked up by the community or GitLab team members
-* [Triage community merge requests](https://about.gitlab.com/handbook/engineering/quality/merge-request-triage/#partial-triage-gitlab-org) from the daily merge request coach report
-* [Review merge requests](https://docs.gitlab.com/ee/development/code_review.html) assigned as a merge request coach or from the reviewer roulette 
+- Improve GitLab's Contribution Efficiency and [merge request coaching](/job-families/expert/merge-request-coach/) process.
+- Contribute as a [merge request coach](/job-families/expert/merge-request-coach/) in one or more specialties by providing guidance to community contributors on technical and non-technical aspects.
+- Be a point of escalation for community contributors and identify GitLab DRIs to resolve blockers.
+- Organize community contributors into [community teams](#gitlab-community-teams-structure) and ensure their success.
+- Track [contribution](/community/contribute/) delivery of the Community Contributors and Cohorts.
+- Nominate impactful community contributors and contributions for recognition.
+- Select and recognize a [GitLab MVP](/handbook/marketing/developer-relations/contributor-success/mvp-process.html) for each release post
+- Collaborate closely with our [Marketing counterparts](/handbook/marketing/developer-relations/) and [Core team](/community/core-team/).
+- Engineering representative that can ride along with the [Developer evangelist](/job-families/marketing/developer-evangelist/).
+- Improve community recognition system and awards in collaboration with the [Developer Relations team](/handbook/marketing/developer-relations/).
+- Participate in GitLab's overall Engineering open source outreach events and processes.
+- [Triage community issues](https://about.gitlab.com/handbook/engineering/quality/issue-triage/) to be picked up by the community or GitLab team members
+- [Triage community merge requests](https://about.gitlab.com/handbook/engineering/quality/merge-request-triage/#partial-triage-gitlab-org) from the daily merge request coach report
+- [Review merge requests](https://docs.gitlab.com/ee/development/code_review.html) assigned as a merge request coach or from the reviewer roulette
 
 ## Team Members
 
-<%= direct_team(manager_role: 'Director, Contributor Success') %>
+{{< team-by-department "Contributor Success" >}}
 
 ### File an issue
 
 #### gitlab-org/gitlab
 
-All issues that relate to the Open Source project GitLab and that can serve to enhance the contributor flow and are public by nature should be created here by default. We aim to not have any distinction between contributors or GitLab team-members for which we expect by default that everyone should be able to contribute to. 
+All issues that relate to the Open Source project GitLab and that can serve to enhance the contributor flow and are public by nature should be created here by default. We aim to not have any distinction between contributors or GitLab team-members for which we expect by default that everyone should be able to contribute to.
 
-* Location: [gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab)
-* Required label: `Contributor Success`
+- Location: [gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab)
+- Required label: `Contributor Success`
 
 #### gitlab-org/developer-relations/contributor-success/team-task
 
 All issues that relate to the inner working of the company GitLab, including specific internal team workings, onboardings-issues or issues relating to customers that should be separated from the Open Source project GitLab can be placed here.
 
-* Location: [gitlab-org/developer-relations/contributor-success/team-task](https://gitlab.com/gitlab-org/developer-relations/contributor-success/team-task/)
-* Required label: `Contributor Success`
+- Location: [gitlab-org/developer-relations/contributor-success/team-task](https://gitlab.com/gitlab-org/developer-relations/contributor-success/team-task/)
+- Required label: `Contributor Success`
 
 ## Project Management
 
-* Our [team project](https://gitlab.com/gitlab-org/developer-relations/contributor-success/team-task) is our single source of truth for all tasks & backlog.
-* Epics that contain cross-functional work across multiple departments can be created at the `gitlab-org` [level](https://gitlab.com/groups/gitlab-org/-/epics?label_name[]=Contributor+Success).
+- Our [team project](https://gitlab.com/gitlab-org/developer-relations/contributor-success/team-task) is our single source of truth for all tasks & backlog.
+- Epics that contain cross-functional work across multiple departments can be created at the `gitlab-org` [level](https://gitlab.com/groups/gitlab-org/-/epics?label_name[]=Contributor+Success).
 
 ## OKRs
 
@@ -230,7 +224,7 @@ More details can be found in the [OCMA Community-Relations PI section](/handbook
   - Partner with CSMs to enlist and facilitate contribution from customers
   - Launch contribution materials targeting large enterprises
   - Partner with Developer Relations team (David P)
-  - Maintain a list of known contributors with a mapping to their accounts and the accounts ARR contribution as input to this KPI  
+  - Maintain a list of known contributors with a mapping to their accounts and the accounts ARR contribution as input to this KPI
   
 Please see [Contributing Orgs tracker](contributing-org-tracker.html) for details how to onboard or offboard a GitLab
 account from being linked to a customer account, and being counted into the MRARR metric.
@@ -289,27 +283,27 @@ graph TD
 
 ## How we plan work
 
-The team uses the [Contributor Growth board](https://gitlab.com/groups/gitlab-org/-/boards/4879276). 
+The team uses the [Contributor Growth board](https://gitlab.com/groups/gitlab-org/-/boards/4879276).
 Everything that we're working actively is present above the cut-line. Our planning is always focussed on achieving our PIs & [OKRs](#okrs).
 
 5 labels are present
 
-* `~contributorgrowth::velocity`
-  * Everything that relates to [Improving Contribution Velocity](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html#improve-contribution-velocity) as defined by our [Open Source Growth Strategy](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html)
-* `~contributorgrowth::increase value`
-  * Everything that relates to [Increasing Contribution Value](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html#increase-contribution-value) as defined by our [Open Source Growth Strategy](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html)
-* `~contributorgrowth::expand outreach`
-  * Everything that relates to [Expanding Outreach](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html#expand-outreach) as defined by our [Open Source Growth Strategy](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html)
-* `~contributorgrowth::scale the community`
-  * Everything that relates to [Scaling the Community](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html#scale-the-community) as defined by our [Open Source Growth Strategy](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html)
-* `~contributorgrowth::internal`
-  * Everything that relates to internal processes such as onboarding, internal issues such as tooling or customer & company specific tasks.
+- `~contributorgrowth::velocity`
+  - Everything that relates to [Improving Contribution Velocity](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html#improve-contribution-velocity) as defined by our [Open Source Growth Strategy](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html)
+- `~contributorgrowth::increase value`
+  - Everything that relates to [Increasing Contribution Value](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html#increase-contribution-value) as defined by our [Open Source Growth Strategy](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html)
+- `~contributorgrowth::expand outreach`
+  - Everything that relates to [Expanding Outreach](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html#expand-outreach) as defined by our [Open Source Growth Strategy](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html)
+- `~contributorgrowth::scale the community`
+  - Everything that relates to [Scaling the Community](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html#scale-the-community) as defined by our [Open Source Growth Strategy](https://about.gitlab.com/handbook/engineering/open-source/growth-strategy.html)
+- `~contributorgrowth::internal`
+  - Everything that relates to internal processes such as onboarding, internal issues such as tooling or customer & company specific tasks.
 
 
 ### Monthly planning meeting
 
-Once a month, in the 3rd week of the month, we use the [Contributor Success stand-up](#contributor-success-stand-up) to review how we progressed. 
-We define what goes above the cutline and what should go below the cutline in order to meet our OKRs & PIs for the 
+Once a month, in the 3rd week of the month, we use the [Contributor Success stand-up](#contributor-success-stand-up) to review how we progressed.
+We define what goes above the cutline and what should go below the cutline in order to meet our OKRs & PIs for the
 quarter. We re-assess the importance and make sure to disseminate our learnings.
 
 ## Contributor Success Retrospective
@@ -317,13 +311,13 @@ quarter. We re-assess the importance and make sure to disseminate our learnings.
 Every 2 weeks we hold an asynchronous retrospective in the [`#contributor-success-confidential`](https://gitlab.slack.com/archives/C04KENT97K7) channel using Geekbot.
 Questions asked are
 
-* What should we start?
-* What should we stop?
-* What should we continue?
+- What should we start?
+- What should we stop?
+- What should we continue?
 
-Contributor Success' DRI is responsible for summarizing the discussion and creating an issue in the team tracker 
-[`gitlab-org/developer-relations/contributor-success/team`](https://gitlab.com/gitlab-org/developer-relations/contributor-success/team/-/issues) 
-so that it can be easily retrieved in the future. 
+Contributor Success' DRI is responsible for summarizing the discussion and creating an issue in the team tracker
+[`gitlab-org/developer-relations/contributor-success/team`](https://gitlab.com/gitlab-org/developer-relations/contributor-success/team/-/issues)
+so that it can be easily retrieved in the future.
 
 Contributor Success' DRI is responsible for taking the feedback to the monthly planning meeting.
 
