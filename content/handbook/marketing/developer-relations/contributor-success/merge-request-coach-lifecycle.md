@@ -26,40 +26,8 @@ If you are no longer able to serve as a Merge Request Coach, you should identify
 1. [Merge Request Coach collaboration guidelines](/job-families/expert/merge-request-coach#collaboration-guidelines)
 1. [Community Discord channel](https://discord.gg/gitlab): please join if you haven't already!
 
-<% coaches = Gitlab::Homepage.team.merge_request_coaches %>
-
 ## Current Merge Request Coaches
 
-GitLab currently has <%= coaches.length %> merge request coaches:
+GitLab currently has {{< merge-request-coaches-count >}} merge request coaches:
 
-<table>
-<thead>
-  <tr>
-    <th>Name</th>
-    <th>Group</th>
-    <%#<th>Location</th> %>
-    <th>Departments</th>
-  </tr>
-</thead>
-
-<tbody>
-<% coaches.sort_by(&:group).each do |member| %>
-  <tr><td><a href="/company/team/#<%= member.anchor %>"><%= member.name %></a></td>
-  <td>
-    <%= member.group %>
-  </td>
-  <%# <td> %>
-      <%# if member.locality || member.country %>
-      <%# location = [member.locality, member.country].compact.join(", ") %>
-      <%#= location %>
-      <%#= member.country_info&.emoji_flag %>
-      <%# end %>
-   <%# </td> %>
-   <td>
-     <%= member.departments.to_sentence %>
-   </td>
-
-  </tr>
-  <% end %>
-  </tbody>
-</table>
+{{< merge-request-coaches >}}

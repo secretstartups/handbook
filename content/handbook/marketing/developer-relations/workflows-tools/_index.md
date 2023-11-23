@@ -1,15 +1,6 @@
 ---
-
 title: "Developer Relations Workflows and Tools"
 ---
-
-
-
-
-
-
-
-
 
 ## Workflows
 
@@ -47,54 +38,7 @@ title: "Developer Relations Workflows and Tools"
 
 These are the tools the Developer Relations team is the DRI for:
 
-<div class="responsive-table">
-  <table>
-    <thead>
-      <tr>
-        <th>
-          Tool
-        </th>
-        <th>
-          Description
-        </th>
-        <th>
-          How we use it
-        </th>
-        <th>
-          Technical owner
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-    <%# Generate the toolstack table from the data/tech_stack.yml file: -%>
-    <%# See the file's key-value pair schema at: https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#what-data-lives-in-the-tech-stack -%>
-    <% data.tech_stack.each do |tool| -%>
-      <% if (tool.group_owner == 'Developer Relations') or (['Zapier', ].include?(tool.title)) -%>
-        <tr>
-          <td>
-            <%= tool.title %>
-          </td>
-          <td>
-            <%# Filter out null entries before rendering markdown -%>
-            <% if tool.description -%>
-              <%= kramdown(tool.description) %>
-            <% end %>
-          </td>
-          <td>
-            <%# Filter out null entries before rendering markdown -%>
-            <% if tool.handbook_link -%>
-              <%= kramdown(tool.handbook_link) %>
-            <% end %>
-          </td>
-          <td>
-            <%= tool.technical_owner %>
-          </td>
-        </tr>
-      <% end %>
-    <% end %>
-    </tbody>
-  </table>
-</div>
+{{< workflows-tools >}}
 
 ##### Community Operations Tool Stack (deprecated)
 
