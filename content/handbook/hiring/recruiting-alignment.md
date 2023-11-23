@@ -7,31 +7,31 @@ description: "This page is an overview of the search team alignment and the tale
 
 | Department                    | Recruiter   | Candidate Experience Specialist    |
 |--------------------------|-----------------|-------------------------------------|
-| Executive          | Rich Kahn    | Sruthy Menon  |
-| Executive          | Zach Choquette   | Sruthy Menon  |
-| Enterprise Sales, NA | Kevin Rodrigues |Michelle Jubrey |
+| Executive          | Rich Kahn    | Michelle Jubrey  |
+| Executive          | Zach Choquette   | Michelle Jubrey  |
+| Enterprise Sales, NA | Kevin Rodrigues |Fernando Khubeir |
 | Enterprise Sales, EMEA | Kannwal Matharu | Lerato Thipe |
 | Commercial Sales, AMER | Marcus Carter | Michelle Jubrey |
-| Commercial Sales, AMER | Hannah Stewart  | Michelle Jubrey |
+| Commercial Sales, AMER | Hannah Stewart  | Fernando Khubeir |
 | Commercial Sales, EMEA | Ben Cowdry | Lerato Thipe |
 | Channel Sales, EMEA | Kanwal Matharu  | Lerato Thipe |
-| Field Operations, US/EMEA | Kelsey Hart  | Alice Crosbie |
+| Field Operations, US/EMEA | Kelsey Hart  | Fernando Khubeir |
 | Customer Success, EMEA | Joanna Tourne | Lerato Thipe |
-| Customer Success, NA | Barbara Dinoff |  Sruthy Menon |
+| Customer Success, NA | Barbara Dinoff |  Fernando Khubeir |
 | All Sales, APAC | Yas Priatna  | Lerato Thipe |
 | Marketing, Global | Steph Sarff | Michelle Jubrey |
 | Marketing, BDR/SDR (Global)| Caroline Rebello |  Alice Crosbie |
-| G&A, Legal | Jenna VanZutphen | Sruthy Menon |
-| G&A, Accounting, People | Jenna VanZutphen | Sruthy Menon |
-| G&A, IT | Jenna VanZutphen | Sruthy Menon |
-| Development | Mark Deubel & Sara Currie | Guido Rolli |
-| Quality | Riley Smith |  Guido Rolli |
-| Infrastructure   | Michelle Kemp | Guido Rolli |
+| G&A, Legal | Jenna VanZutphen | Fernando Khubeir |
+| G&A, Accounting, People | Jenna VanZutphen | Fernando Khubeir |
+| G&A, IT | Jenna VanZutphen | Fernando Khubier |
+| Development | Mark Deubel & Sara Currie | Alice Crosbie |
+| Quality | Riley Smith |  Alice Crosbie  |
+| Infrastructure   | Michelle A. Kemp | Alice Crosbie  |
 | Support | Joanna Michniewicz  |  Alice Crosbie |
 | Security | Holly Nesselroad | Michelle Jubrey |
 | Incubation | Holly Nesselroad  | Michelle Jubrey |
 | Product Management  | Holly Nesselroad | Michelle Jubrey |
-| UX  | Riley Smith | Guido Rolli |
+| UX  | Riley Smith | Alice Crosbie  |
 
 For urgent requests of the Candidate Experience Specialist team, we encourage you to contact them by also tagging @CES in Slack messages and CC'ing CES@gitlab.com on emails.
 
