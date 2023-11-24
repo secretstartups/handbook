@@ -43,7 +43,7 @@ Each release post GitLab recognizes a community contributor as the MVP ("Most Va
   - Complete by the second Thursday of the month.
   - If no MVP nominations have been added to the MVP issue by the second Thursday of the month, resend reminders to the Slack/Discord channels by sharing the original solicitation posts again. Ping the channel and note the lack of nominations and due date. E.g. in #developer-relations:
       ```md
-      @community-team - We only have one (or none) MVP nomination. I’m going to wait until the end of the day, 12pm UTC for other nominations. Please nominate a community contributor that delivered something great for X-Y!
+      @devrel-team - We only have one (or none) MVP nomination. I’m going to wait until the end of the day, 12pm UTC for other nominations. Please nominate a community contributor that delivered something great for X-Y!
       ```
 1. From the current release branch, draft a merge request for adding the new MVP
   - The first step is switching to the current release branch `release-x-y` in the `www-gitlab-org` project. Using the 15.8 release as an example, navigate to the current release branch directly on GitLab by selecting the `release-15-8` branch from the dropdown menu. If working locally, checkout the `release-15-8` branch.
