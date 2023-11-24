@@ -76,35 +76,35 @@ Teams within Developer Relations are reachable in these Slack channels:
 
 Community engagement:
 
-[<i class="fas fa-shield-alt"></i> Code of Conduct Enforcement](/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/){:.btn .btn-purple-inv}
-[<i class="fas fa-volume-up"></i> Community Response Process](/handbook/marketing/developer-relations/developer-evangelism/community-response/){:.btn .btn-purple-inv}
-[<i class="fas fa-calendar-alt"></i> Events](/handbook/marketing/developer-relations/events/){:.btn .btn-purple-inv}
+[<i class="fas fa-shield-alt"></i> Code of Conduct Enforcement](/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/)
+[<i class="fas fa-volume-up"></i> Community Response Process](/handbook/marketing/developer-relations/developer-evangelism/community-response/)
+[<i class="fas fa-calendar-alt"></i> Events](/handbook/marketing/developer-relations/events/)
 
 Community platforms:
 
-[<i class="fab fa-discourse"></i> Discourse Forum](/handbook/marketing/developer-relations/workflows-tools/forum/){:.btn .btn-purple-inv}
-[<i class="fab fa-discord"></i> Discord](/handbook/marketing/developer-relations/workflows-tools/discord/){:.btn .btn-purple-inv}
-[<i class="fab fa-reddit"></i> Reddit](/handbook/marketing/developer-relations/workflows-tools/reddit/){:.btn .btn-purple-inv}
-[<i class="fab fa-stack-overflow"></i> StackOverflow](/handbook/marketing/developer-relations/workflows-tools/stackoverflow/){:.btn .btn-purple-inv}
-[<i class="fas fa-eye"></i> Common Room](/handbook/marketing/developer-relations/workflows-tools/common-room/){:.btn .btn-purple-inv}
+[<i class="fab fa-discourse"></i> Discourse Forum](/handbook/marketing/developer-relations/workflows-tools/forum/)
+[<i class="fab fa-discord"></i> Discord](/handbook/marketing/developer-relations/workflows-tools/discord/)
+[<i class="fab fa-reddit"></i> Reddit](/handbook/marketing/developer-relations/workflows-tools/reddit/)
+[<i class="fab fa-stack-overflow"></i> StackOverflow](/handbook/marketing/developer-relations/workflows-tools/stackoverflow/)
+[<i class="fas fa-eye"></i> Common Room](/handbook/marketing/developer-relations/workflows-tools/common-room/)
 
 Content:
 
-[<i class="far fa-edit"></i> Community newsletter](/handbook/marketing/developer-relations/developer-evangelism/community-newsletter/){:.btn .btn-purple-inv}
-[<i class="far fa-edit"></i> Content Review / Fix Fridays](/handbook/marketing/developer-relations/workflows-tools/content-review/){:.btn .btn-purple-inv}
-[<i class="fas fa-chart-line"></i> UTM Tracking Strategy](/handbook/marketing/developer-relations/utm-strategy/){:.btn .btn-purple-inv}
-[<i class="far fa-folder-open"></i> Campaign management](/handbook/marketing/developer-relations/community-apps/campaign-manager/){:.btn .btn-purple-inv}
+[<i class="far fa-edit"></i> Community newsletter](/handbook/marketing/developer-relations/developer-evangelism/community-newsletter/)
+[<i class="far fa-edit"></i> Content Review / Fix Fridays](/handbook/marketing/developer-relations/workflows-tools/content-review/)
+[<i class="fas fa-chart-line"></i> UTM Tracking Strategy](/handbook/marketing/developer-relations/utm-strategy/)
+[<i class="far fa-folder-open"></i> Campaign management](/handbook/marketing/developer-relations/community-apps/campaign-manager/)
 
 Organization:
 
-[<i class="fas fa-credit-card"></i> Team Budgets](/handbook/marketing/developer-relations/workflows-tools/team-budgets){:.btn .btn-purple-inv}
-[<i class="fas fa-shopping-cart"></i> Swag operations](/handbook/marketing/developer-relations/workflows-tools/swag/){:.btn .btn-purple-inv}
-[<i class="fas fa-magic"></i> Automated Community Programs](/handbook/marketing/developer-relations/community-programs/automated-community-programs/){:.btn .btn-purple-inv}
-[<i class="fas fa-robot"></i> Zapier](/handbook/marketing/developer-relations/workflows-tools/zapier/){:.btn .btn-purple-inv}
-[<i class="fas fa-inbox"></i> Zendesk](/handbook/marketing/developer-relations/workflows-tools/zendesk/){:.btn .btn-purple-inv}
-[<i class="fas fa-envelope"></i> Email](/handbook/marketing/developer-relations/workflows-tools/e-mail/){:.btn .btn-purple-inv}
-[<i class="fab fa-twitter"></i> Twitter/X](/handbook/marketing/developer-relations/workflows-tools/twitter/){:.btn .btn-purple-inv}
- 
+[<i class="fas fa-credit-card"></i> Team Budgets](/handbook/marketing/developer-relations/workflows-tools/team-budgets)
+[<i class="fas fa-shopping-cart"></i> Swag operations](/handbook/marketing/developer-relations/workflows-tools/swag/)
+[<i class="fas fa-magic"></i> Automated Community Programs](/handbook/marketing/developer-relations/community-programs/automated-community-programs/)
+[<i class="fas fa-robot"></i> Zapier](/handbook/marketing/developer-relations/workflows-tools/zapier/)
+[<i class="fas fa-inbox"></i> Zendesk](/handbook/marketing/developer-relations/workflows-tools/zendesk/)
+[<i class="fas fa-envelope"></i> Email](/handbook/marketing/developer-relations/workflows-tools/e-mail/)
+[<i class="fab fa-twitter"></i> Twitter/X](/handbook/marketing/developer-relations/workflows-tools/twitter/)
+
 #### Community Interest
 
 If you are working on changes to the company, product, or pricing that are expected to have a meaningful impact on members of the wider GitLab community or the GitLab brand, we encourage you to use the label `~Community Interest` so that the Developer Relations team can represent the interests of the wider GitLab community in the planning process.
