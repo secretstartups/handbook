@@ -33,7 +33,7 @@ Please feel free to [subscribe to this GitLab issue to receive notifications](ht
 **Watch the latest video**
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/sGaw5QHvKBU" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/9Fwqt8EcZ-g" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 We publish [short mid month update videos](https://about.gitlab.com/handbook/engineering/development/incubation/#mid-month-update-video) and
@@ -42,6 +42,7 @@ longer [end of month showcase videos](https://about.gitlab.com/handbook/engineer
 
 | Date | Summary / written version | Video |
 | ---- | ------------------------- | ----- |
+| October Showcase (2023-11-24) | [October 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/19) | [Showcase Video](https://www.youtube.com/watch?v=9Fwqt8EcZ-g){:target="_blank"} |
 | September Showcase (2023-10-20) | [September 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/17) | [Showcase Video](https://www.youtube.com/watch?v=sGaw5QHvKBU){:target="_blank"} |
 | August Showcase (2023-09-19) | [August 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/15) | [Showcase Video](https://www.youtube.com/watch?v=OIFDH5L6VwA){:target="_blank"} |
 | July Showcase | - | - |
