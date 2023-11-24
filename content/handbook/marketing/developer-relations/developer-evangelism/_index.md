@@ -16,7 +16,7 @@ description: "We build GitLab's technical brand with deep, meaningful conversati
 
 # <i class="fas fa-bullhorn fa-fw color-purple font-awesome"></i> Welcome to the Developer Evangelism Handbook
 
-{: .no_toc}
+
 
 ***
 
@@ -24,15 +24,15 @@ description: "We build GitLab's technical brand with deep, meaningful conversati
 
 ### Team Workflow
 
-[<i class="far fa-clipboard"></i> Team Workflow](/handbook/marketing/developer-relations/developer-evangelism/workflow/){:.btn .btn-purple-inv} [ <i class="far fa-chart-line"></i> Metrics / Reports](/handbook/marketing/developer-relations/developer-evangelism/metrics/){:.btn .btn-purple-inv}  [ <i class="far fa-edit"></i> CFP Issue Template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=cfp){:.btn .btn-purple-inv} [ <i class="far fa-clipboard"></i> Team General Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1565342?&label_name[]=dev-evangelism){:.btn .btn-purple-inv} [ <i class="far fa-clipboard"></i> Team Activity Type Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/3811304?label_name[]=dev-evangelism){:.btn .btn-purple-inv} [ <i class="far fa-clipboard"></i> CFP Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1616902?label_name[]=CFP){:.btn .btn-purple-inv} [ <i class="far fa-calendar-alt"></i> Team Calendar](/handbook/marketing/developer-relations/developer-evangelism/calendar){:.btn .btn-purple-inv}
+[<i class="far fa-clipboard"></i> Team Workflow](/handbook/marketing/developer-relations/developer-evangelism/workflow/) [ <i class="far fa-chart-line"></i> Metrics / Reports](/handbook/marketing/developer-relations/developer-evangelism/metrics/)  [ <i class="far fa-edit"></i> CFP Issue Template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=cfp) [ <i class="far fa-clipboard"></i> Team General Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1565342?&label_name[]=dev-evangelism) [ <i class="far fa-clipboard"></i> Team Activity Type Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/3811304?label_name[]=dev-evangelism) [ <i class="far fa-clipboard"></i> CFP Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1616902?label_name[]=CFP) [ <i class="far fa-calendar-alt"></i> Team Calendar](/handbook/marketing/developer-relations/developer-evangelism/calendar)
 
 ### Team Resources
 
-[<i class="fas fa-project-diagram"></i> Team Projects](/handbook/marketing/developer-relations/developer-evangelism/projects){:.btn .btn-purple-inv} [<i class="fas fa-toolbox"></i> Team Tools](/handbook/marketing/developer-relations/developer-evangelism/tools/){:.btn .btn-purple-inv} [ <i class="far fa-object-group"></i> OSS Contributions](/handbook/marketing/developer-relations/developer-evangelism/#oss-contributions){:.btn .btn-purple-inv}  [ <i class="far fa-edit"></i> Action Template for Announcement Responses](https://docs.google.com/document/d/1Dhe2hFFZCDRK6eLhrfFqa-iz0bFX8gTZ4keoHo5KrtM/edit){:.btn .btn-purple-inv} [ <i class="fas fa-chalkboard-teacher"></i> CFPs](/handbook/marketing/developer-relations/developer-evangelism/cfps){:.btn .btn-purple-inv} [ <i class="far fa-edit"></i> Content creation](/handbook/marketing/developer-relations/developer-evangelism/#content-creation){:.btn .btn-purple-inv} [ <i class="far fa-folder-open"></i> Team Shared Drive](https://drive.google.com/drive/u/0/folders/0AEUOlCStMBC9Uk9PVA){:.btn .btn-purple-inv}
+[<i class="fas fa-project-diagram"></i> Team Projects](/handbook/marketing/developer-relations/developer-evangelism/projects) [<i class="fas fa-toolbox"></i> Team Tools](/handbook/marketing/developer-relations/developer-evangelism/tools/) [ <i class="far fa-object-group"></i> OSS Contributions](/handbook/marketing/developer-relations/developer-evangelism/#oss-contributions)  [ <i class="far fa-edit"></i> Action Template for Announcement Responses](https://docs.google.com/document/d/1Dhe2hFFZCDRK6eLhrfFqa-iz0bFX8gTZ4keoHo5KrtM/edit) [ <i class="fas fa-chalkboard-teacher"></i> CFPs](/handbook/marketing/developer-relations/developer-evangelism/cfps) [ <i class="far fa-edit"></i> Content creation](/handbook/marketing/developer-relations/developer-evangelism/#content-creation) [ <i class="far fa-folder-open"></i> Team Shared Drive](https://drive.google.com/drive/u/0/folders/0AEUOlCStMBC9Uk9PVA)
 
 ### Want to work with the team?
 
-[ <i class="fas fa-chalkboard-teacher"></i> Learn about Developer Evangelism](/handbook/marketing/developer-relations/developer-evangelism/learn-developer-evangelism/){:.btn .btn-purple-inv} [<i class="far fa-edit"></i>Technical Marketing](/handbook/marketing/developer-relations/technical-marketing/){:.btn .btn-purple-inv} [<i class="far fa-edit"></i> Request a Developer Evangelist Issue Template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=developer-evangelist-request){:.btn .btn-purple-inv} [ <i class="far fa-edit"></i>Request Community Response support](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=community-response-plan){:.btn .btn-purple-inv} [<i class="far fa-edit"></i> Request Content](/handbook/marketing/developer-relations/content-request/#how-to-work-with-the-developer-evangelism-team){:.btn .btn-purple-inv}
+[ <i class="fas fa-chalkboard-teacher"></i> Learn about Developer Evangelism](/handbook/marketing/developer-relations/developer-evangelism/learn-developer-evangelism/) [<i class="far fa-edit"></i>Technical Marketing](/handbook/marketing/developer-relations/technical-marketing/) [<i class="far fa-edit"></i> Request a Developer Evangelist Issue Template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=developer-evangelist-request) [ <i class="far fa-edit"></i>Request Community Response support](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=community-response-plan) [<i class="far fa-edit"></i> Request Content](/handbook/marketing/developer-relations/content-request/#how-to-work-with-the-developer-evangelism-team)
 
 ***
 
@@ -98,14 +98,14 @@ We collaborate closely with the [Technical Marketing team](/handbook/marketing/d
 
 Inspired by GitLab's [collaboration value](/handbook/values/#collaboration), the Developer Evangelism team has chosen to align ourselves as [stable counterparts](/handbook/leadership/#stable-counterparts) with divisions outside of Marketing. The alignment is as follows:
 
-| Division  | Stable counterpart | Activities | 
+| Division  | Stable counterpart | Activities |
 |-----------|--------------------|------------|
-| Alliances & Infrastructure | [Abubakar Siddiq Ango](https://gitlab.com/abuango) | [Infrastructure Meetings](https://about.gitlab.com/handbook/engineering/infrastructure/#meetings), [Alliances](/handbook/alliances/) | 
-| Product   | [Michael Friedrich](https://gitlab.com/dnsmichi)   | [Dev](/handbook/product/categories/features/#dev-section): Create:IDE ([Web IDE](https://about.gitlab.com/direction/create/ide/web_ide/), [Remote Development](https://about.gitlab.com/direction/create/ide/remote_development/)), [CI](/handbook/product/categories/features/#ci-section): [Monthly CI Section Field Sync (internal)](https://gitlab.com/gitlab-com/Product/-/issues/?sort=updated_desc&state=all&label_name%5B%5D=Field%20Sync&label_name%5B%5D=section%3A%3Aci&first_page_size=20), Ops: [Monitor:Observability direction](https://about.gitlab.com/direction/monitor/observability/), [Sec section](/handbook/product/categories/features/#sec-section): [Secure, Govern](https://about.gitlab.com/direction/govern/) | 
+| Alliances & Infrastructure | [Abubakar Siddiq Ango](https://gitlab.com/abuango) | [Infrastructure Meetings](https://about.gitlab.com/handbook/engineering/infrastructure/#meetings), [Alliances](/handbook/alliances/) |
+| Product   | [Michael Friedrich](https://gitlab.com/dnsmichi)   | [Dev](/handbook/product/categories/features/#dev-section): Create:IDE ([Web IDE](https://about.gitlab.com/direction/create/ide/web_ide/), [Remote Development](https://about.gitlab.com/direction/create/ide/remote_development/)), [CI](/handbook/product/categories/features/#ci-section): [Monthly CI Section Field Sync (internal)](https://gitlab.com/gitlab-com/Product/-/issues/?sort=updated_desc&state=all&label_name%5B%5D=Field%20Sync&label_name%5B%5D=section%3A%3Aci&first_page_size=20), Ops: [Monitor:Observability direction](https://about.gitlab.com/direction/monitor/observability/), [Sec section](/handbook/product/categories/features/#sec-section): [Secure, Govern](https://about.gitlab.com/direction/govern/) |
 
-As stable counterparts, Developer Evangelists are expected to actively engage with the divisions to identify collaboration opportunities and act as the primary point of contact for requests for Developer Evangelism support from these divisions. 
+As stable counterparts, Developer Evangelists are expected to actively engage with the divisions to identify collaboration opportunities and act as the primary point of contact for requests for Developer Evangelism support from these divisions.
 
-Collaboration examples that source from stable counterpart activities:  
+Collaboration examples that source from stable counterpart activities:
 
 - [Blog/Videos - Remote Development awareness in FY24](https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/190)
 - [Support Web IDE Beta Launch, 2022-12-19](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/185)
@@ -130,13 +130,13 @@ We build our thought leadership on social media. See [Developer Evangelism on So
 
 We build out content to help educate developers around best practices related to DevOps, GitLab, remote work, and other topics where we have expertise. Content includes presentations, demos, workshops, blog posts, and media engagements.
 
-### Corporate event support 
+### Corporate event support
 
 The Developer Evangelism and Technical Marketing teams play a key role in supporting events. We work closely alongside [Corporate Event Marketing](/handbook/marketing/integrated-marketing/corporate-events/) to provide strategic content and assistance for both corporate and third-party sponsored events. This collaboration ensures the success and seamless execution of various gatherings. To learn more please refer to the [Events page](/handbook/marketing/developer-relations/events/).
 
 ### Spokespersons
 
-Developer Evangelists are subject matter experts (SMEs) in their focus areas, and collaborate with the [Corporate Communications team](/handbook/marketing/corporate-communications/) to provide media coverage in the form of interviews, podcasts, content by-lines, etc. Developer Evangelists are [GitLab spokespersons](/handbook/marketing/corporate-communications/#spokesperson-criteria) and are required to take relevant training as determined by the [Corporate Communications team](/handbook/marketing/corporate-communications/).  
+Developer Evangelists are subject matter experts (SMEs) in their focus areas, and collaborate with the [Corporate Communications team](/handbook/marketing/corporate-communications/) to provide media coverage in the form of interviews, podcasts, content by-lines, etc. Developer Evangelists are [GitLab spokespersons](/handbook/marketing/corporate-communications/#spokesperson-criteria) and are required to take relevant training as determined by the [Corporate Communications team](/handbook/marketing/corporate-communications/).
 
 ### Community Engagement
 
@@ -196,7 +196,7 @@ We actively contribute to OSS projects and share our technical expertise. You ca
 
 Measuring what we do is very important to understand our impact and how we are able to reach our OKRs. A key metric is the Developer Evangelists' cumulative Twitter impressions. [Learn more](/handbook/marketing/developer-relations/developer-evangelism/metrics/) about the our tools, data collection and how to access the data sources for integrations.
 
-#### YouTube playlist 
+#### YouTube playlist
 
 We maintain a [YouTube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq-bYO9jCJaN45BBpzWSLAQ) with our talks, workshops and community engagements.
 
@@ -213,16 +213,16 @@ You can use the [UTM Generator](/handbook/marketing/developer-relations/utm-stra
 
 We use the following campaigns:
 
-1. [Blog posts (general)](https://campaign-manager.gitlab.com/campaigns/view/17) - All GitLab blog where we are not authors. Content tracking for social media. 
-1. [Blog posts (authors)](https://campaign-manager.gitlab.com/campaigns/view/18) - GitLab blog posts where we are authors. Content tracking for social media. 
-1. [Talk resources (general)](https://campaign-manager.gitlab.com/campaigns/view/13) - QR codes and short URLs for talk slides. 
-1. [Community newsletter](https://campaign-manager.gitlab.com/campaigns/view/27) - community newsletter short URLs. 
-1. [Demos (TMM, DE)](https://campaign-manager.gitlab.com/campaigns/view/50) - technical demos with standalone URLs. 
-1. [Release Evangelism](https://campaign-manager.gitlab.com/campaigns/view/3) - [Release evangelism activities](/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism). 
-1. [Podcast resources](https://campaign-manager.gitlab.com/campaigns/view/38) - URLs shared with podcast hosts. 
-1. [Contributed articles](https://campaign-manager.gitlab.com/campaigns/view/47) - external articles shared on social media. 
+1. [Blog posts (general)](https://campaign-manager.gitlab.com/campaigns/view/17) - All GitLab blog where we are not authors. Content tracking for social media.
+1. [Blog posts (authors)](https://campaign-manager.gitlab.com/campaigns/view/18) - GitLab blog posts where we are authors. Content tracking for social media.
+1. [Talk resources (general)](https://campaign-manager.gitlab.com/campaigns/view/13) - QR codes and short URLs for talk slides.
+1. [Community newsletter](https://campaign-manager.gitlab.com/campaigns/view/27) - community newsletter short URLs.
+1. [Demos (TMM, DE)](https://campaign-manager.gitlab.com/campaigns/view/50) - technical demos with standalone URLs.
+1. [Release Evangelism](https://campaign-manager.gitlab.com/campaigns/view/3) - [Release evangelism activities](/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism).
+1. [Podcast resources](https://campaign-manager.gitlab.com/campaigns/view/38) - URLs shared with podcast hosts.
+1. [Contributed articles](https://campaign-manager.gitlab.com/campaigns/view/47) - external articles shared on social media.
 
-Event and content specific tracking examples are [KubeCon EU 2023](https://campaign-manager.gitlab.com/campaigns/view/36), [External articles - infoq eBPF](https://campaign-manager.gitlab.com/campaigns/view/37), [Newsletter - opsindev.news (external)](https://campaign-manager.gitlab.com/campaigns/view/43). 
+Event and content specific tracking examples are [KubeCon EU 2023](https://campaign-manager.gitlab.com/campaigns/view/36), [External articles - infoq eBPF](https://campaign-manager.gitlab.com/campaigns/view/37), [Newsletter - opsindev.news (external)](https://campaign-manager.gitlab.com/campaigns/view/43).
 
 #### Blog Post PostType
 
@@ -243,22 +243,22 @@ Learn about the steps we take to share our content.
 
 After content has been crafted and published, the next step is distribution. Here are some steps to assist in the process:
 
-1. Use the [UTM Generator](/handbook/marketing/developer-relations/utm-strategy/#utm-generator) to create UTM codes and short URLs for your content. Further insights about this can be found in the Developer Evangelism [UTM Strategy](/handbook/marketing/developer-relations/utm-strategy/). 
+1. Use the [UTM Generator](/handbook/marketing/developer-relations/utm-strategy/#utm-generator) to create UTM codes and short URLs for your content. Further insights about this can be found in the Developer Evangelism [UTM Strategy](/handbook/marketing/developer-relations/utm-strategy/).
 
 For documentation and community:
 
 1. Tutorial blog posts, demos, etc. that are helpful to everyone should be added to the [GitLab documentation](https://docs.gitlab.com/). Follow the contribution docs and create [related topics](https://docs.gitlab.com/ee/development/documentation/topic_types/#related-topics) headings if not existing. Raise an MR, use content short URLs, and ask the [designed technical writer](/handbook/product/ux/technical-writing/#designated-technical-writers) to review. Example MR: [Add tutorial blog posts to workspaces docs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/127500)
 1. Consider sharing your content on one of our community platforms like the [GitLab Forum](https://forum.gitlab.com/) or the [r/gitlab](https://www.reddit.com/r/gitlab) subreddit. If you're covering a topic that's broader than GitLab, you can also consider other subreddits or cross-posting your content on blogging sites like dev.to.
 
-For social media: 
+For social media:
 
 1. Draft some copy for sharing your content on social media. See [Content Sharing](/handbook/marketing/developer-relations/developer-evangelism/social-media/#content) for tips and an overview of different platforms. Review the [message tips](/handbook/marketing/developer-relations/developer-evangelism/social-media/#message-tips) for additional engagement ideas, e.g. emojis.
 1. Suggest your content as a story on Bambu so other GitLab team members can also share it. [Details on how to suggest content on Bambu](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/#suggesting-content-for-team-members-to-share-on-bambu).
-1. After posting your content on social media, share a link in the [`#social-media-action`](https://gitlab.slack.com/archives/C01AZ9C8Z4G) Slack channel to request promotion from the social media team. 
+1. After posting your content on social media, share a link in the [`#social-media-action`](https://gitlab.slack.com/archives/C01AZ9C8Z4G) Slack channel to request promotion from the social media team.
 
 For GitLab teams:
 
-1. Content that can be useful to our Field Teams, should also be posted in [Highspot](https://gitlab.highspot.com/). 
+1. Content that can be useful to our Field Teams, should also be posted in [Highspot](https://gitlab.highspot.com/).
 1. Share an update in the [#dev-evangelism-and-technical-marketing](https://app.slack.com/client/T02592416/CMELFQS4B) Slack channel using the following message template:
 
 
@@ -269,7 +269,7 @@ Social short UTM URLs:
 
 1. LinkedIn:
 2. Twitter:
-3. Mastodon: 
+3. Mastodon:
 
 Content epic: <URL>
 
@@ -289,7 +289,7 @@ Social short UTM URLs:
 
 Content epic: <URL>
 
-Thanks a lot @HelpfulCoworker for editing this long read :handshake: :purple_heart:  
+Thanks a lot @HelpfulCoworker for editing this long read :handshake: :purple_heart:
 ```
 
 </details>
