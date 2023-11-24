@@ -7,7 +7,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 <i class="fas fa-bullhorn fa-fw color-orange font-awesome"></i> Welcome to the GitLab Marketing Handbook
 {.h2}
 
-The GitLab Marketing team operates as one team and is organized by the following departments: [Integrated Marketing](/handbook/marketing/#integrated-marketing), [Brand and Product Marketing](/handbook/marketing/#brand-and-product-marketing), [Marketing Operations and Analytics](/handbook/marketing/#marketing-strategy-and-platforms), [Sales Development](/handbook/marketing/#sales-development), [Growth](/handbook/marketing/growth/), [Corporate Communications](/handbook/marketing/#corporate-communications), and [Developer Relations & Community](/handbook/marketing/#developer-relations--community). This page documents our shared team philosophy and processes, while the individual department handbooks contain more detailed information.
+The GitLab Marketing team operates as one team and is organized by the following departments: [Integrated Marketing](/handbook/marketing/#integrated-marketing), [Brand and Product Marketing](/handbook/marketing/#brand-and-product-marketing), [Marketing Operations and Analytics](/handbook/marketing/#marketing-strategy-and-platforms), [Sales Development](/handbook/marketing/#sales-development), [Growth](/handbook/marketing/growth/), [Corporate Communications](/handbook/marketing/#corporate-communications), and [Developer Relations](/handbook/marketing/#developer-relations). This page documents our shared team philosophy and processes, while the individual department handbooks contain more detailed information.
 
 ## Marketing Purpose
 
@@ -94,12 +94,12 @@ Weekly Direct Reports Meetings (Each manager with their direct reports)
 
 | Topic | Where to reach out | Sub-Team |
 | ------ | ------ | ------ |
-| Blog posts, webcasts, the newsletter or other marketing content | `#content`  | [Content](/handbook/marketing/brand-and-product-marketing/content/) |
-| Swag | `#swag` | Brand strategy |
-| Design requests, logo usage questions | `#marketing-design` | Brand |
-| External PR (public relations) agency, discuss GitLab media mentions, and evaluate speaking/podcasting/commentary opportunities | `#external-comms` | Corporate Comms |
-| Anything regarding the marketing website and website development | `#digital-experience-team` | Digital experience |
-| Questions about tools in the [marketing tech stack](/handbook/marketing/marketing-operations/), evaluating new marketing tools, marketing system process improvement | `#mktgops` | Marketing Operations |
+| Blog posts, webcasts, the newsletter or other marketing content | `#content`  | [Content] |
+| Swag | `#swag` | [Brand] strategy |
+| Design requests, logo usage questions | `#marketing-design` | [Brand] |
+| External PR (public relations) agency, discuss GitLab media mentions, and evaluate speaking/podcasting/commentary opportunities | `#external-comms` | [Corporate Communications] |
+| Anything regarding the marketing website and website development | `#digital-experience-team` | [Digital experience] |
+| Questions about tools in the [marketing tech stack][Marketing Operations], evaluating new marketing tools, marketing system process improvement | `#mktgops` | Marketing Operations |
 | Salesforce | `#sfdc-users` | Sales Operations (not marketing) |
 
 A complete list of marketing slack channels can be found [here](/handbook/marketing/#marketing-slack-channels).
@@ -111,32 +111,32 @@ A complete list of marketing slack channels can be found [here](/handbook/market
 
 ### CMO Requests
 
-Please follow the [CMO handbook](/handbook/marketing/cmo/) for review request workflows, and communication guidelines.
+Please follow the [CMO handbook] for review request workflows, and communication guidelines.
 
 ### Social Requests
 
-All teams are responsible for requesting social posts themselves. If you are not the DRI on a specific category or campaign and want to request a social post, please reach out to the teams’ point person identified below as a first step. Team Members in these roles reserve the right to say no to your request. If they say yes, coordinate with them to [create a new social request issue](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) so that the social team can process the request and schedule the post(s). The point person on the team or a member of the marketing or social teams may adjust copy to ensure consistency in brand voice.
+All teams are responsible for requesting social posts themselves. If you are not the DRI on a specific category or campaign and want to request a social post, please reach out to the teams’ point person identified below as a first step. Team Members in these roles reserve the right to say no to your request. If they say yes, coordinate with them to [create a new social request issue][Social Marketing] so that the social team can process the request and schedule the post(s). The point person on the team or a member of the marketing or social teams may adjust copy to ensure consistency in brand voice.
 
 - Events: Jr. Content Editor
-- Release & technical posts/product updates: Technical writer
-- User questions/comments on Twitter: [Social Marketing](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) or [Developer Relations](/handbook/marketing/developer-relations/) team
-- Leadgen campaigns: Content team
+- Release & technical posts/product updates: [Technical writing]
+- User questions/comments on Twitter/X: [Social Marketing] or [Developer Relations] team
+- Leadgen campaigns: [Content] team
 - UX Design: UX Lead
 - Press/media coverage: Post in `#external-comms` for assistance
 - Social media, RTs of mentions, CEO Statements/posts: Post in `#social_media_action` for assistance
 
 ### Company Spokesperson
 
-Speaking on behalf of GitLab at a conference, to media or on a podcast as a GitLab team member is a significant responsibility. Please see the [Corporate Communications Handbook Page](/handbook/marketing/corporate-communications/) for guidelines and trainings.
+Speaking on behalf of GitLab at a conference, to media or on a podcast as a GitLab team member is a significant responsibility. Please see the [Corporate Communications Handbook Page][Corporate Communications] for guidelines and trainings.
 
 ### Blog post editing
 
-- Product release posts: Product team
-- Technical community posts/tutorials: Dev Evangelism team and Blog editorial team
-- CEO statements/updates: CMO
-- All other blog posts: Blog editorial team
+- Product release posts: [Product team][Product handbook]
+- Technical community posts/tutorials: [Developer Evangelism] and [Technical Marketing] teams, and Blog editorial team
+- CEO statements/updates: [CMO][CMO handbook]
+- All other blog posts: [Blog editorial team][Content]
 
-Guidelines for how to pitch and submit a blog, including templates and formatting, can be found in the [Blog Handbook](/handbook/marketing/blog/).
+Guidelines for how to pitch and submit a blog, including templates and formatting, can be found in the [Blog Handbook][Blog Handbook].
 
 ### Newsletter
 
@@ -152,9 +152,15 @@ To request a newsletter to be sent to an audience outside the [newsletter subscr
 
 Newsletter requests should be submitted no less than 5 business days before the intended send date to ensure there is enough time for Content and Marketing Programs Manager's (MPM) review and set up workflow.
 
+**Community Newsletter**
+
+The community newsletter is managed by the [Developer Relations] team, dedicated to sharing relevant developer content, highlighting contribution opportunities, and updating community members on upcoming events. We aim to keep our contributors involved and connected with the wider community. This newsletter will not be used to drive or generate leads.
+
+To submit to the newsletter, please follow the [handbook instructions](/handbook/marketing/developer-relations/developer-evangelism/community-newsletter/#submissions).
+
 ### Sponsorship
 
-We are happy to sponsor events and meet-ups where a marketing benefit exists, subject to approval by Field Marketing Managers. These sponsorships may be in cash or in kind, depending on individual circumstances.
+We are happy to sponsor events and meet-ups where a marketing benefit exists, subject to approval by [Field Marketing] Managers. These sponsorships may be in cash or in kind, depending on individual circumstances.
 
 Organizational or project sponsorships may also be considered where a marketing benefit exists. Typically, these sponsorships will be in kind - e.g., developer time commitments, or [subsidized / free GitLab licenses](https://about.gitlab.com/blog/2018/06/05/gitlab-ultimate-and-gold-free-for-education-and-open-source/).
 
@@ -167,42 +173,37 @@ Cash sponsorship of projects or organizations may be considered only in exceptio
 We use Slack internally as a communication tool. The Marketing channels are as follows:
 
 - `#marketing`: General marketing channel. Don't know where to ask a question? Start here.
-- `#all-marketing`: Read-Only channel for marketing team members, with the ability to post comments. CMO staff has the ability to post. Should a team member want to make a post, please reach out to our Marketing EBA with your written statement and as much as possible, provide an issue or MR with more details.
+- `marketing-team-internal`: (Private) Read-Only channel for marketing team members, with the ability to post comments. CMO staff has the ability to post. Should a team member want to make a post, please reach out to our Marketing EBA with your written statement and as much as possible, provide an issue or MR with more details.
 - `#brand`: Connect with Brand Strategy, Brand Marketing, and Brand Design here.
-- `#cfp`: All call for speakers will be posted here.
-- `#cmo`: [CMO review requests](/handbook/marketing/cmo) and content shares.
+- `#brand_video`: Video production and marketing support.
+- `#cfp`: All event call for papers will be posted here. Learn more in the [speaking resources](/handbook/marketing/corporate-communications/speaking-resources/) handbook.
+- `#cmo`: [CMO review requests][CMO] and content shares.
 - `cmo-staff`: (Private) CMO's private staff discussion room
-- `#content`: Questions about blog posts, webcasts, the newsletter or other marketing content? This is the place to ask.
+- `#content`: Questions about blog posts, webcasts, the newsletter or other [marketing content][Content]? This is the place to ask.
 - `#developer-relations`: A channel for the [developer relations](/handbook/marketing/developer-relations/) team to collaborate.
 - `#dev-evangelism-and-technical-marketing`: Discuss the latest tech in DevSecOps and Cloud-Native with the [Developer Evangelism](/handbook/marketing/developer-relations/developer-evangelism/) and [Technical Marketing](/handbook/marketing/developer-relations/technical-marketing/) teams. You can request speakers and ask for technical content collaboration and guidance.
-- `#digital-experience-team`: Channel for connecting with the website development and design teams
+- `#digital-experience-team`: Channel for connecting with the [website development and design teams][Digital experience]
 - `#digital-marketing`: Channel for all advertising, website analytic and general digital programs.
-- `#digital_production`: Channel for communicating with the video production team
 - `#external-comms`: To collaborate with our external PR (public relations) agency, discuss GitLab media mentions, and evaluate speaking/podcasting/commentary opportunities.
 - `#fieldmarketing`: Discuss, ask questions, stay up-to-date on events that are being organized by Field Marketing
-- `#fyi-only-all-marketing`: This is an FYI only channel for CMO Staff to post important marketing only announcements
-- `#inbound-mktg`: Growth Marketing channel, including global content, awareness campaigns, brand and digital design.
-- `#marketing-design`: Discuss, feedback, and share ideas on Marketing Design here.
-- `#marketing-campaigns`: Discuss, ask questions, stay up-to-date on campaigns and events that are being organized by the Marketing Program Managers
-- `#mktgops`: Marketing Ops communication channel for questions and project updates
-- `#mktg-budget-holders`: (Private) Discussion among all Marketing team members with budget responsibility
+- `#marketing-design`: Discuss, feedback, and share ideas on [Marketing Design](/handbook/marketing/brand-and-product-marketing/design/) here.
+- `#marketing-campaigns`: Discuss, ask questions, stay up-to-date on [campaigns](/handbook/marketing/demand-generation/campaigns/) and events that are being organized by the Marketing Program Managers
+- `#mktgops`: [Marketing Ops](/handbook/marketing/marketing-operations/) communication channel for questions and project updates
+- `mktg-budget-holders`: (Private) Discussion among all Marketing team members with budget responsibility
 - `#product-marketing`: Discuss, feedback related to product news, features and vision
-- `#remote`: Discuss and share impressions on the `#allremote` campaign, playbook and strategy.
-- `#sdr_amer`: Americas team (North, Latin and South) all segnents
-- `#sdr_amer_commercial`: Americas team (North, Latin and South) Commercial segment only
-- `#sdr_apac`: Asia Pacific SDR channel - all segments
-- `#sdr_emea`: Europe, Middle East and Africa all segments
-- `#sdr_emea_commercial`: Europe, Middle East and Africa Commercial segment only
-- `#sdr_global`: Worldwide SDR team channel
-- `#sdr_global_commercial`: Worldwide SDR Commercial team channel
-- `#sdr_amer_east`: Enterprise SDRs for Americas East (formerly NORAM - US East)
-- `#sdr_amer_central`: Enterprise SDRs for Americas Central (formerly NORAM - US Central)
-- `#sdr_amer_west`: Enterprise SDRs for Americas West (formerly NORAM - US West)
-- `#sdr-conversations`: place for SDR team brainstorm & sharing of ideas
+- `#remote`: Discuss and share impressions on remote work experience, playbook and strategy.
+- `#sales_dev_global`: Place for the sales development team to brainstorm amd share ideas. Please refer to the [regional Slack channel list](/handbook/marketing/sales-development/#reaching-the-sales-development-organization-internally) to reach SDR/BDR teams in AMER, EMEA, APAC.
 - `#sfdc-users`: Having issues with SFDC? Ask here first.
-- `#social_media_action`: Use this channel to communicate and coordinate with the Social Media team. You can ask for amplification help and share cool tweets, posts, etc.
+- `#social_media_action`: Use this channel to communicate and coordinate with the [Social Marketing](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) team. You can ask for amplification help and share cool tweets, posts, etc.
 - `#swag`: Request or question regarding swag.
 - `#website`: Discuss topics related to website redesign project
+
+Automated channels with feeds from different sources:
+
+- `#developer-evangelism-updates`: [Zapier workflows](/handbook/marketing/developer-relations/workflows-tools/zapier/) automatically post GitLab blog posts, Developer Relations social shares, competitive insights, Common Room updates, etc. 
+- `hn-mentions`: Hacker News post feed, automated with [Zapier](/handbook/marketing/developer-relations/workflows-tools/zapier/) and maintained by the Developer Relations team.
+- `social_media_posts`: Automated social media post feed.
+
 
 ### Marketing email alias list
 
@@ -263,7 +264,7 @@ Handbook Links
 
 The Integrated Marketing team is focused on creating awareness, generating demand and collaborating with the broader ecosystem globally, through a co-ordinated and unified approach.  We connect the dots and bring content and messaging to life by leveraging various channels as our levers to communicate across segments, regions and personas.
 
-The team includes [Field Marketing], [Channel](/handbook/marketing/channel-marketing/), [Corporate Events], [Account Based Marketing], [Campaigns], [Lifecycle Marketing], [Digital Strategy], [Social Marketing] and [Digital Experience].
+The team includes [Field Marketing], [Channel](/handbook/marketing/channel-marketing/), [Corporate Events], [Account Based Marketing], [Campaigns], [Lifecycle Marketing], [Digital Strategy] and [Digital Experience].
 
 <a href="/handbook/marketing/integrated-marketing/" class="btn btn-primary">Handbook</a>
 
@@ -277,7 +278,6 @@ Handbook Links
 - [Campaigns]
 - [Lifecycle Marketing]
 - [Digital Strategy]
-- [Social Marketing]
 - [Digital Experience]
   - [Marketing Website]
 
@@ -312,35 +312,20 @@ The GitLab Growth department is dedicated to making it easier for teams to find 
 
 <a href="/handbook/marketing/growth/" class="btn btn-primary">Handbook</a>
 
-### Developer Relations & Community
+### Developer Relations
 
-Developer Relations & Community includes community advocacy, code contributor program and evangelist program functions. The team is focused on answering the following questions:
-
-- What are scalable developer education tools?
-- How do we turn in person feedback at events into actionable product requests?
-- What are the best and most engaging talks we can give to help educate developers?
-- How do we support the community?
-- How do we make the documentation even better?
-- How do we make it even more fun and easy to get started?
-- What is engaging developer content for blog, video, social media?
-- How do we build our global meetup plan + make it easy to love GitLab?
-- What is the developer GitLab experience?
-- How do we use social media to support the community?
-- How do field marketing and developer relations work together to support the community?
-- How do we enable and retain contributors through enablement & support?
+Developer Relations drives platform awareness and adoption by reaching deep into wider communities and engaging developers where they are. GitLab currently engages with more than 3000 developers every month on GitLab.com alone, and receives more than 250 contributions every month, giving us a unique level of influence in the DevSecOps space and helping accelerate our innovation. Our ultimate goal is to raise awareness of GitLab and drive customer success by winning the hearts & minds of developers through best-in-class technical enablement and an active community of contributors.
 
 <a href="/handbook/marketing/integrated-marketing/" class="btn btn-purple">Handbook</a>
 
 Handbook Links
 {.h4}
 
-- [Code Contributor Program]
 - [Contributor Success]
-- [Evangelist Program]
-- [Education Program]
-- [Open Source Program]
-- [Developer Evangelism]
-- [Technical Marketing]
+- [Developer Evangelism] and [Technical Marketing]
+- [Community Programs]
+  - [Education Program]
+  - [Open Source Program]
 
 ### Corporate Communications
 
@@ -351,6 +336,7 @@ The mission of GitLab’s Corporate Communications team is to amplify GitLab's p
 Handbook Links
 {.h4}
 
+- [Social Marketing]
 - [Speaking Resources]
 - [Incident Communications Plan]
 
@@ -393,35 +379,70 @@ This front page of the Marketing Handbook is intended to serve as the external f
 <a href="/handbook/marketing/marketing-team-processes/" class="btn btn-primary">Visit the Page</a>
 
 <!-- IDENTIFIERS -->
+[cmo]: /job-families/chief-marketing-officer/
+[create a ToC]: /handbook/markdown-guide/#table-of-contents-toc
+[Markdown Style Guide]: /handbook/markdown-guide/
 
 <!-- HANDBOOKS -->
-[Account Based Marketing]: /handbook/marketing/account-based-marketing/
-[Analyst Relations]: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/
+[CMO Handbook]: /handbook/marketing/cmo
+[Blog Handbook]: /handbook/marketing/blog/
+[Website]: /handbook/marketing/digital-experience/website/
+[Brand and Product Marketing]: /handbook/marketing/brand-and-product-marketing/
 [Brand]: /handbook/marketing/brand-and-product-marketing/brand/
-[Campaigns]: /handbook/marketing/campaigns/
-[Channel Marketing]: /handbook/marketing/channel-marketing/
-[Competitive Intelligence]: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/
-[Content]: /handbook/marketing/brand-and-product-marketing/content/
-[Contributor Success]: /handbook/marketing/developer-relations/contributor-success/
+[Product and Solution Marketing]: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/
 [Core Product Marketing]: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/
-[Corporate Events]: /handbook/marketing/integrated-marketing/corporate-events/
+[Competitive Intelligence]: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/
+[Analyst Relations]: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/
 [Customer Advocacy]: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/
 [Design]: /handbook/marketing/brand-and-product-marketing/design/
-[Developer Evangelism]: /handbook/marketing/developer-relations/developer-evangelism/
+[Content]: /handbook/marketing/brand-and-product-marketing/content/
+[Corporate Communications]: /handbook/marketing/corporate-communications/
+[Corporate Events]: /handbook/marketing/integrated-marketing/corporate-events/
+[Campaigns]: /handbook/marketing/campaigns/
+[Inbound Marketing]: /handbook/marketing/inbound-marketing/
+[Integrated Marketing]: /handbook/marketing/integrated-marketing/
 [Digital Experience]: /handbook/marketing/digital-experience/
-[Digital Strategy]: /handbook/marketing/integrated-marketing/digital-strategy/
-[Education Program]: /handbook/marketing/developer-relations/community-programs/education-program/
-[Evangelist Program]: /handbook/marketing/developer-relations/evangelist-program/
-[Field Marketing]: /handbook/marketing/field-marketing/
-[Globalization & Localization]: /handbook/marketing/localization/
-[Incident Communications Plan]: /handbook/marketing/corporate-communications/incident-communications-plan/
-[Lifecycle Marketing]: /handbook/marketing/lifecycle-marketing/
-[Marketing Operations]: /handbook/marketing/marketing-operations/
-[Marketing Strategy & Analytics]: /handbook/marketing/strategy-performance/
 [Marketing Website]: /handbook/marketing/digital-experience/website/
-[Merchandise Handling (Swag)]: /handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/
+[Global Content]: /handbook/marketing/brand-and-product-marketing/content/
+[Editorial]: /handbook/marketing/brand-and-product-marketing/content/editorial-team/
+[Developer Relations]: /handbook/marketing/developer-relations/
+[Contributor Success]: /handbook/marketing/developer-relations/contributor-success/
+[Evangelist Program]: /handbook/marketing/developer-relations/evangelist-program/
+[Community Programs]: /handbook/marketing/developer-relations/community-programs/
+[Education Program]: /handbook/marketing/developer-relations/community-programs/education-program/
 [Open Source Program]: /handbook/marketing/developer-relations/community-programs/opensource-program/
-[Product and Solution Marketing]: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/
-[Social Marketing]: /handbook/marketing/integrated-marketing/digital-strategy/social-marketing/
-[Speaking Resources]: /handbook/marketing/corporate-communications/speaking-resources/
+[Startup Program]: /handbook/marketing/developer-relations/community-programs/startups-program/
+[Developer Evangelism]: /handbook/marketing/developer-relations/developer-evangelism/
 [Technical Marketing]: /handbook/marketing/developer-relations/technical-marketing/
+[Inbound Marketing]: /handbook/marketing/inbound-marketing/
+[Field Marketing]: /handbook/marketing/field-marketing/
+[Account Based Marketing]: /handbook/marketing/account-based-marketing/
+[Revenue Marketing]: /handbook/marketing/revenue-marketing/
+[Marketing Programs]: /handbook/marketing/
+[Marketing Strategy and Platforms]: /handbook/marketing/marketing-strategy-and-platforms/
+[Marketing Strategy & Analytics]: /handbook/marketing/strategy-performance/
+[Marketing Operations]: /handbook/marketing/marketing-operations/
+[Globalization & Localization]: /handbook/marketing/localization/
+[Growth]: /handbook/marketing/growth/
+[Digital Strategy]: /handbook/marketing/integrated-marketing/digital-strategy/
+[Demand Generation]: /handbook/marketing/demand-generation/
+[Campaigns Team]: /handbook/marketing/demand-generation/campaigns/
+[Campaigns]: /handbook/marketing/demand-generation/campaigns/
+[Lifecycle Marketing]: /handbook/marketing/lifecycle-marketing/
+[Channel Marketing]: /handbook/marketing/channel-marketing/
+[Product Marketing]: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/
+[Business Operations]: /handbook/business-technology/
+[Sales Development Organization]: /handbook/marketing/sales-development/
+[Social Marketing]: /handbook/marketing/integrated-marketing/digital-strategy/social-marketing/
+[Incident Communications Plan]: /handbook/marketing/corporate-communications/incident-communications-plan/
+[Speaking Resources]: /handbook/marketing/corporate-communications/speaking-resources/
+[Team Member Social Media Policy]: /handbook/marketing/team-member-social-media-policy/
+[Merchandise Handling (Swag)]: /handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/
+[Events]: /handbook/marketing/events/
+[Marketing Career Development]: /handbook/marketing/career-development
+[Emergency Response]: /handbook/marketing/emergency-response
+[Growth]: /handbook/marketing/growth/
+
+[Product Handbook]: /handbook/product
+[Technical writing]: /handbook/product/ux/technical-writing/ 
+
