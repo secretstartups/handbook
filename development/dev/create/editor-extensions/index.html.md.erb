@@ -59,8 +59,9 @@ When the discussion is finished, we stop the recording and stay on the call for 
 Additionally to our main team's slack channels, each extension/project we work on has its own slack channel:
 
 - Team:
-  - [#g_editor_extensions](https://gitlab.slack.com/archives/C058YCHP17C) - [Sync Agenda](https://docs.google.com/document/d/1UJg-Prf5qGjiGImvaYl5HNjMcJddoeE4u33Ri6SxQ6g)
-  - [#g_editor_extensions_social](https://gitlab.slack.com/archives/C062W19B8NR)
+  - [#g_editor-extensions](https://gitlab.slack.com/archives/C058YCHP17C) - [Sync Agenda](https://docs.google.com/document/d/1UJg-Prf5qGjiGImvaYl5HNjMcJddoeE4u33Ri6SxQ6g)
+  - [#g_editor-extensions_social](https://gitlab.slack.com/archives/C062W19B8NR)
+  - [#g_editor-extensions-standup](https://gitlab.slack.com/archives/C058YCWPKMG)
 - Projects
   - Language Server: [#f_language_server](https://gitlab.slack.com/archives/C05B1PFHRPU)
   - VS Code extension: [#f_vscode_extension](https://gitlab.slack.com/archives/C013QJ9NEPL)
@@ -106,11 +107,28 @@ Epics and issues are created in the project that matches their scope in the narr
 
 ### Prioritizing
 
+We use [Milestone Planning Issues](https://gitlab.com/gitlab-org/editor-extensions/meta/-/issues/?sort=created_date&state=all&label_name%5B%5D=Planning%20Issue) 
+to define our goals for the current/upcoming milestone.
+The PM and EM are responsible for aligning on the goals.
+The planning issues are [created automatically](https://gitlab.com/gitlab-org/editor-extensions/meta/-/tree/main#issue-creation-process) every month.
+
 We use the [Editor Extensions Priority Board](https://gitlab.com/groups/gitlab-org/-/boards/7088820?label_name[]=group%3A%3Aeditor%20extensions)
 to track the relative [priority of issues](/handbook/product/product-processes/#boards). Issues at the top of a column have the highest priority.
 
 Separately, the technical writer for this group also triages open issues for potential documentation and UI text changes,
 and follows the Technical Writing [triage process](/handbook/product/ux/technical-writing/workflow/#documentation-feedback-and-improvements). After review, each issue receives the `~tw::triaged` label.
+
+### Temporary silos
+
+Our team owns several projects, written in different languages (Typescript, Kotlin, C#, Lua) and targeting different platforms.
+
+We are currently intentionally working in silos, by assigning engineers to the project/technology that they can contribute to most efficiently.
+This increases speed of development as we aim to reach GA for Code Suggestions, at the cost of knowledge sharing and team resiliency.
+
+This intentional siloing is a temporary measure.
+While we do need to cultivate deep expertise in each project,
+the mid-term vision for the team is to provide opportunities for [everyone to contribute](https://handbook.gitlab.com/handbook/company/mission/) across each project.
+This will increase collaboration, team resiliency, and provide opportunities for growth.
 
 ## Knowledge sharing
 
