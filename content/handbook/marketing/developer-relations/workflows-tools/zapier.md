@@ -32,9 +32,6 @@ List of Zaps that are enabled on the [Developer Relations folder](https://zapier
 
 | Zap | Description | Involved Tools |
 | --- | --- | --- |
-| [Developer Relations MR Updates](https://zapier.com/app/editor/92097020) | All merged MRs with `Developer Relations` label posted to #developer-relations Slack channel | GitLab.com, Slack |  
-| [GitLab Swag Store](https://zapier.com/app/editor/18836033) | GitLab store order to Printfection order | Printfection, Shopify |
-| [Student Spotlights Application Alerts](https://zapier.com/app/editor/90643179) | Student Spotlights form submission notifications to `#student-spotlights-applications` Slack channel | Google forms/sheets, Slack | 
 | [Post new Blogs to the GitLab forum](https://zapier.com/app/editor/148450001) | GitLab blog post is posted as [a new forum topic](/handbook/marketing/developer-relations/workflows-tools/#gitlab-blog-forum-bot) | about.gitlab.com/blog, Discourse | 
 
 #### Zaps for Developer Evangelism 
@@ -43,19 +40,10 @@ The Zaps are organized in the [Developer Evangelism folder](https://zapier.com/a
 
 | Zap | Description | Involved Tools |
 | --- | --- | --- |
-| [New blog posts](https://zapier.com/editor/183958722) | Reads GitLab blog RSS feed and posts to `#developer-evangelism-updates` channel. | GitLab Blog, Slack | 
-| [MRs merged](https://zapier.com/editor/184083806/published) | www-gitlab-com MRs with the label `dev-evangelism`, posts to the `#developer-evangelism-updates` channel. | GitLab, Slack | 
-| [Twitter, text `@gitlab`: @dnsmichi](https://zapier.com/editor/184085778/published/) | Parses account tweets for text `@gitlab` and posts to Slack | Twitter, Slack |
-| [Twitter, text `@gitlab`: @sarki247](https://zapier.com/editor/184108158/published) | Parses account tweets for text `@gitlab` and posts to Slack | Twitter, Slack |
-| [Twitter, text `@gitlab`: @sugaroverflow](https://zapier.com/editor/184108427/published) | Parses account tweets for text `@gitlab` and posts to Slack | Twitter, Slack |
-| [Twitter, text `@gitlab`: @john_cogs](https://zapier.com/editor/184108655/published) | Parses account tweets for text `@gitlab` and posts to Slack | Twitter, Slack |
-| [Twitter, text `@gitlab`: @pywarias](https://zapier.com/editor/194076400/published) | Parses account tweets for text `@gitlab` and posts to Slack | Twitter, Slack |
-| [Twitter, text `@gitlab`: @cesar_saavedr](https://zapier.com/editor/194073117/published) | Parses account tweets for text `@gitlab` and posts to Slack | Twitter, Slack |
-| [Twitter, text `@gitlab`: @awkwardferny](https://zapier.com/editor/194076914/published) | Parses account tweets for text `@gitlab` and posts to Slack | Twitter, Slack |
-| [Twitter, text `@gitlab`: @itzikgb](https://zapier.com/editor/194077532) | Parses account tweets for text `@gitlab` and posts to Slack | Twitter, Slack |
-| [Twitter @GHChangelog](https://zapier.com/editor/188095515/published) | Posts new account tweets to Slack | Twitter, Slack | 
-| [Twitter @GitHubNext](https://zapier.com/editor/188096407/published) | Posts new account tweets to Slack | Twitter, Slack | 
-| [Twitter @DiscourseStatus](https://zapier.com/editor/193755545/published) | Posts hosting status updates to Slack | Twitter, Slack | 
+| [New blog posts - GitLab](https://zapier.com/editor/183958722) | Reads GitLab blog RSS feed and posts to `#developer-evangelism-updates` channel. | GitLab Blog, Slack | 
+| [New blog posts - GitHub](https://zapier.com/editor/216104703) | Reads GitHub blog RSS feed and posts to `#developer-evangelism-updates` channel. | GitHub Blog, Slack | 
+| [New blog posts - CNCF](https://zapier.com/editor/216110068) | Reads CNCF blog RSS feed and posts to `#developer-evangelism-updates` channel. | CNCF Blog, Slack | 
+| [New status updates - Discourse](https://zapier.com/editor/216106524) | Reads Discourse Status RSS feed and posts to `#developer-evangelism-updates` channel. | Discourse status page, Slack | 
 
 
 ##### Zaps for Hacker News
