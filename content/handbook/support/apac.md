@@ -324,8 +324,7 @@ To refer to past planning issues, see issues linked to the [[APAC] Holiday Cover
           <li>Release Review Party</li>
           <li>APAC Office Hours</li>
           <li>Social Call</li>
-          <li>APAC Book Club - [Tribal Leadership](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4854) <br>weekly between 2023-02-16 to 2023-04-06</li>
-         </ul>
+        </ul>
       </td>
     </tr>
   </tbody>
