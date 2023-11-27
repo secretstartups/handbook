@@ -4,7 +4,7 @@ category: Handling tickets
 description: "Support Engineering workflow detailing how to work on US Government Tickets"
 ---
 
-US Government Support generally follows the [working on tickets](/handbook/support/workflows/working-on-tickets.html#what-is-the-working-on-tickets-workflow) flow for global with a few exceptions.
+US Government Support generally follows the [working on tickets](/handbook/support/workflows/working-on-tickets#what-is-the-working-on-tickets-workflow) flow for global with a few exceptions.
 
 US Government Support has a number of engineers with [verified US Citizenship](#access-limited-to-us-citizens) that have a 100% focus on addressing new and existing cases in the US Government Support Portal. The agents focused on this instance should distribute effort and work new cases from the [Support view](https://gitlab-federal-support.zendesk.com/agent/filters/360196736831). When replying to a new case the agent making the public comment should also assign the case to themselves. Those without a 50% or higher focus on US Government but do have access to the instance are still encouraged to participate through pairing sessions, joining customer calls, and assisting with gaps in knowledge where possible. Non-fully focused global engineers are not encouraged to assign new cases to themselves.
 

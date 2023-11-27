@@ -123,7 +123,7 @@ L&R Support cannot:
 ## Specific workflows to pass to Sales
 
 Many of the following workflows advise you to `Chatter Sales`.  How to do this
-is described in the [expired license](/handbook/support/workflows/sla_and_views.html#handling-customers-with-incorrect-expired-support)
+is described in the [expired license](/handbook/support/workflows/sla_and_views#handling-customers-with-incorrect-expired-support)
 process.
 
 The following workflows use the [Pass to Sales Zendesk macro](https://gitlab.zendesk.com/agent/admin/macros/360025924680)

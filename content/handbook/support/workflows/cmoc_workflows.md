@@ -245,7 +245,7 @@ After all [Stage 1](#stage-1-engage) tasks have been complete we will manage the
 
 #### Update Incident
 
-To publicly communicate attention and progress incidents should be updated according to the [frequency of incident updates table](/handbook/support/workflows/cmoc_workflows.html#frequency-of-updates) unless you communicate otherwise.
+To publicly communicate attention and progress incidents should be updated according to the [frequency of incident updates table](/handbook/support/workflows/cmoc_workflows#frequency-of-updates) unless you communicate otherwise.
 
 To update an active incident, click the incidents icon from the dashboard.
 
@@ -476,7 +476,7 @@ Some example training activities are:
 - Tabletop exercises
 - A "CMOC Squawk" in which CMOCs in a region synchronously or asynchronously discuss process improvements, tips and tricks
 - Being the CMOC or shadowing an actual incident: real life training is training too!
-- [Practice Events](/handbook/support/workflows/cmoc_workflows.html#cmoc-practice-events)
+- [Practice Events](/handbook/support/workflows/cmoc_workflows#cmoc-practice-events)
 
 #### CMOC Practice events
 

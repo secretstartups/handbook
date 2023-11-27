@@ -14,7 +14,7 @@ As part of GitLab's [NFR program policy](https://about.gitlab.com/handbook/resel
 
 The internal request will come through similar to [example ticket #322932](https://gitlab.zendesk.com/agent/tickets/322932) and [example ticket #323497](https://gitlab.zendesk.com/agent/tickets/323497).
 
-Follow the [procedure to create a new Legacy License](/handbook/support/license-and-renewals/workflows/self-managed/creating_licenses.html#create-a-legacy-license) using the provided information in the ticket, and generate a trial license.
+Follow the [procedure to create a new Legacy License](/handbook/support/license-and-renewals/workflows/self-managed/creating_licenses#create-a-legacy-license) using the provided information in the ticket, and generate a trial license.
 
 See [this generated license](https://customers.gitlab.com/admin/license/1038429) for an example of the completed license.
 

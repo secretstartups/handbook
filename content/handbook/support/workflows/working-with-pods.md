@@ -50,8 +50,8 @@ This is intended to allow each Support Pod to determine their own approach to
 working with tickets and customer issues.
 
 In general, each Support Pod's approach to work should keep to the
-[Key Principles](/handbook/support/workflows/working-on-tickets.html#key-principles)
-and [Priorities & Impact](/handbook/support/workflows/working-on-tickets.html#priorities-and-impact)
+[Key Principles](/handbook/support/workflows/working-on-tickets#key-principles)
+and [Priorities & Impact](/handbook/support/workflows/working-on-tickets#priorities-and-impact)
 guidelines for working on tickets, and contribute to the team's achievement of
 positive customer outcomes.
 

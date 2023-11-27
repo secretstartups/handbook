@@ -343,13 +343,13 @@ Kibana can be used to search for specific errors related to a purchase attempt. 
 
 Feeling Lazy? Go to `https://log.gprd.gitlab.net/goto/6aac4580-9d9b-11ed-85ed-e7557b0a598c` and update the value of `json.user.username`.
 
-If you encounter a generic error message try checking CustomersDot purchase error logs in [Kibana](#customersdot-purchase-errors) or [GCP](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases.html#getting-error-messages-from-gcp-logs-explorer) for a more specific error.
+If you encounter a generic error message try checking CustomersDot purchase error logs in [Kibana](#customersdot-purchase-errors) or [GCP](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases#getting-error-messages-from-gcp-logs-explorer) for a more specific error.
 
 **Tip:** To see the details of a user's purchase attempt, go to `https://log.gprd.gitlab.net/goto/45bb89c0-6ccc-11ed-9f43-e3784d7fe3ca` and update the value of `json.username`.
 
 ##### CustomersDot purchase errors
 
-**Note**: You need to have the **CustomersDot customer ID** of the account used to make the purchase. Refer to `Step 1` under [this section](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases.html#getting-error-message-from-sentry) on how to get the customer ID.
+**Note**: You need to have the **CustomersDot customer ID** of the account used to make the purchase. Refer to `Step 1` under [this section](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases#getting-error-message-from-sentry) on how to get the customer ID.
 
 1. Navigate to [Kibana](https://log.gprd.gitlab.net/)
 1. Ensure the `pubsub-rails-inf-prdsub-*` index pattern (CustomersDot logs) is selected.

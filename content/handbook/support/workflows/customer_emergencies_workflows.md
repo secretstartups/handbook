@@ -34,7 +34,7 @@ Due to an increase in concurrent emergencies, we have split the AMER shift into 
 - AMER 2 hours: 1:00 PM to 7:00 PM EDT (17:00 to 23:00 UTC)
 - AMER 3 hours: 2:00 PM to 8:00 PM EDT (18:00 to 24:00 UTC)
 
-This leaves the first and last hours of the AMER on-call window with a single engineer on-call. If multiple emergencies come in during these times, follow the [Handling multiple simultaneous emergencies](/handbook/support/workflows/customer_emergencies_workflows.html#handling-multiple-simultaneous-emergencies) workflow.
+This leaves the first and last hours of the AMER on-call window with a single engineer on-call. If multiple emergencies come in during these times, follow the [Handling multiple simultaneous emergencies](/handbook/support/workflows/customer_emergencies_workflows#handling-multiple-simultaneous-emergencies) workflow.
 
 Each group is encouraged to coordinate a DRI role for the shift. The DRI will be responsible for taking assignment of the first emergency. The non-DRIs will take concurrent emergencies as they come in.
 
@@ -46,7 +46,7 @@ An example DRI schedule is below. Note that AMER 2 is DRI for 30 minutes longer 
 
 ### Communicate
 
-When you get an alert, you should immediately use the PagerDuty message in Slack to start a thread and take notes therein. Tag the Customer Success Manager (CSM) - "cc @user" is good enough - if the customer has one (steps [here](/handbook/support/workflows/support-sales-escalations.html#role-customer-success-manager-csm) for how to identify CSMs). This creates visibility around the situation and opens the door to let the team join in.
+When you get an alert, you should immediately use the PagerDuty message in Slack to start a thread and take notes therein. Tag the Customer Success Manager (CSM) - "cc @user" is good enough - if the customer has one (steps [here](/handbook/support/workflows/support-sales-escalations#role-customer-success-manager-csm) for how to identify CSMs). This creates visibility around the situation and opens the door to let the team join in.
 
 Good notes in Slack help others follow along, and help you with your follow-ups after the call.
 
@@ -65,7 +65,7 @@ We [assume positive intent](/handbook/values/#assume-positive-intent) and use ou
 | When you decide the request... | Then apply the Zendesk macro... | and communicate to the customer... |
 | ------------------------------ | ------------------------------- | ---------------------------------- |
 | ...meets the [definition of Severity 1](https://about.gitlab.com/support/definitions/#severity-1), | `General::Emergency::Strict Definition` | ...your plan to work the emergency. |
-| ...qualifies under one of our [exception criteria](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria), | `General::Emergency::Exception` | ...that the situation is being treated as an emergency as a courtesy. |
+| ...qualifies under one of our [exception criteria](/handbook/support/workflows/emergency_exception_workflow#exception-criteria), | `General::Emergency::Exception` | ...that the situation is being treated as an emergency as a courtesy. |
 | ...needs more information to allow us to determine whether it qualifies as an emergency, | `General::Emergency::Needs more info` | ...that you [will proceed asynchronously](#communicating-that-you-need-more-info) until that determination can be made. |
 | ...does not meet the criteria for an [emergency](https://about.gitlab.com/support/definitions/#severity-1) or an [exception](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria), | `General::Emergency::Not an Emergency` | ...that their situation [does not qualify for emergency service](#communicate-the-priority-downgrade). |
 
@@ -205,7 +205,7 @@ If this situation arises during the weekend:
 - Handle the page as a `high` priority ticket that requires an immediate response. Work with the customer to try to resolve or mitigate the issue before it becomes an emergency.
 - If you are actively engaged with another emergency, [contact the on-call Support Manager](/handbook/support/on-call/#paging-the-on-call-manager) to request assistance. They will assist the customer or work to find another Support Engineer to handle the ticket as a `high` priority that requires an immediate response.
 
-See more examples of [situations that might be emergencies](/handbook/support/workflows/emergency_exception_workflow.html#examples-of-situations-that-might-or-might-not-qualify-for-an-exception) and [situations that are not emergencies](/handbook/support/workflows/emergency_exception_workflow.html#situations-that-are-not-emergencies).
+See more examples of [situations that might be emergencies](/handbook/support/workflows/emergency_exception_workflow#examples-of-situations-that-might-or-might-not-qualify-for-an-exception) and [situations that are not emergencies](/handbook/support/workflows/emergency_exception_workflow#situations-that-are-not-emergencies).
 
 ### Taking an emergency customer call
 
@@ -291,8 +291,8 @@ Your primary job is to coordinate the emergency response. That could mean:
 
 It could *equally* mean:
 
-- [identifying other experts](/handbook/support/workflows/how-to-get-help.html#expand-to-support-pods-and-other-subject-matter-experts) on the Support team to help do the above
-- [reaching out to development teams](/handbook/support/workflows/how-to-get-help.html#how-to-find-the-correct-development-section-and-group-to-reach-out-for-help) to find a subject matter expert (SME)
+- [identifying other experts](/handbook/support/workflows/how-to-get-help#expand-to-support-pods-and-other-subject-matter-experts) on the Support team to help do the above
+- [reaching out to development teams](/handbook/support/workflows/how-to-get-help#how-to-find-the-correct-development-section-and-group-to-reach-out-for-help) to find a subject matter expert (SME)
 - suggesting that the customer reach out to additional experts on their side (for example, if the problem is slow storage, you might suggest getting someone from their storage team)
 
 Remember to say only things that help the customer and that maintain their confidence in you as the person in charge of getting their problem resolved. When you're not sure what to do, you might also be unsure what to say. Here are some phrases that might help:
@@ -333,12 +333,12 @@ Otherwise, follow the [Self-Managed Weekend Emergencies - License Request](/hand
 
 A customer may be blocked because of a license expiring or neglecting to apply a renewal. If this happens over the weekend:
 
-1. Look up the namespace details using [chatops](/handbook/support/workflows/chatops.html#namespace) or a GitLab.com Admin account via the namespaces API (https://gitlab.com/api/v4/namespaces/<NAMESPACE>)
+1. Look up the namespace details using [chatops](/handbook/support/workflows/chatops#namespace) or a GitLab.com Admin account via the namespaces API (https://gitlab.com/api/v4/namespaces/<NAMESPACE>)
 1. Check the `Trial ends on` date.
     - If it has a date, you will not need to provide a `Subscription Name` in the next step. Proceed to step 3.
     - If it is empty or null **and the namespace is on a Free plan**, guide the customer to navigate to the Settings -> Billing page and click on `Start a Free Ultimate trial`.
 1. In the ticket, apply the `Trial Subscription - Exclusions Sign Off` macro and send the generated message to the customer. Do not proceed further until the customer has provided a **written** response confirming they understand the trial subscription exclusions.
-1. In the `Mechanizer` app on the ticket use the [`Manage GitLab Plan and Trials`](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#manage-gitlabcom-plan-and-trials) option to resolve the situation.
+1. In the `Mechanizer` app on the ticket use the [`Manage GitLab Plan and Trials`](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer#manage-gitlabcom-plan-and-trials) option to resolve the situation.
     - Enter the namespace path.
     - Select the Plan the customer had initially purchased, or use `Ultimate` if you do not have this information.
     - Set the end date to 10 days later.
@@ -347,7 +347,7 @@ A customer may be blocked because of a license expiring or neglecting to apply a
     - Click `Submit request`.
 1. Wait for the pipeline to complete and check the output of Mechanizer in the [Internal Requests issue tracker](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) where Mechanizer will have automatically assigned you to a new issue.
     - If it is successful, proceed to the next step.
-    - If there are any failures, please see [Problems extending trials](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#problems-extending-trials) for some troubleshooting steps.
+    - If there are any failures, please see [Problems extending trials](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change#problems-extending-trials) for some troubleshooting steps.
 1. When the customer confirms, close the emergency ticket.
 1. Alert [`#support_licensing-subscription`](https://gitlab.slack.com/archives/C018C623KBJ) by linking to the ticket for follow-up.
 
@@ -426,7 +426,7 @@ If there is a known incident, it's acceptable to link to the public status page 
 A customer may be blocked because they have run out of compute minutes.
 
 1. Advise them to purchase additional compute minutes or set up individual runners.
-1. At your discretion, as a courtesy, [set an additional 1000 compute minutes on their namespace through ChatOps](/handbook/support/workflows/chatops.html#setting-additional-minutes-quota-for-a-namespace)
+1. At your discretion, as a courtesy, [set an additional 1000 compute minutes on their namespace through ChatOps](/handbook/support/workflows/chatops#setting-additional-minutes-quota-for-a-namespace)
 
 #### Customer has exceeded their storage quota
 
@@ -446,7 +446,7 @@ Success in such a situation is two-fold:
 If this occurs:
 
 1. Don't panic! Slack and PD alerts may come quickly and frequently. Consider silencing both temporarily and focus on ZD.
-1. Verify that an [incident has been declared](/handbook/support/workflows/cmoc_workflows.html#how-are-incidents-declared) and that the incident is actively being worked.
+1. Verify that an [incident has been declared](/handbook/support/workflows/cmoc_workflows#how-are-incidents-declared) and that the incident is actively being worked.
 1. If there is no update on the status page yet, advocate for urgency with the [CMOC](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#communications-manager-on-call-cmoc-responsibilities) so that you can point to it in responses.
 1. Choose a unique tag that will help you identify tickets, using the incident number would be typical. For example: `incident-12345`
 1. Create a bulk response that points to the incident on the status page, `@gitlabstatus` on Twitter and the production issue. If any of these aren't available yet, you can send a response without to keep customers informed. You can include them in a future update.

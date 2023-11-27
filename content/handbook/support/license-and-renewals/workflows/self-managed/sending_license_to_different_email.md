@@ -31,4 +31,4 @@ To forward or resend a license or activation code:
     1. Navigate to the `Forward license email` tab if it's a license file or to the `Forward Cloud activation email` tab if it's an activation code.
     1. Enter the `Destination email address`. **NOTE** It is currently not possible to copy (cc) or send to multiple contacts at once.
     1. Click the **Forward** button.
-    1. [Confirm whether the license was delivered](/handbook/support/license-and-renewals/workflows/self-managed/license_delivery.html#check-whether-the-license-has-been-delivered)
+    1. [Confirm whether the license was delivered](/handbook/support/license-and-renewals/workflows/self-managed/license_delivery#check-whether-the-license-has-been-delivered)

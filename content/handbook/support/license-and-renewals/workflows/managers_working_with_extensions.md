@@ -30,7 +30,7 @@ description: How to manage plan/license Support Ticket Attention Requests
 ### SaaS
 
 1. Is the request for a trial extension, or grace period extension?
-    - Use the [`Manage GitLab Plan and Trials`](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#update-gitlab-subscription-or-customer-trial) option in the Zendesk Mechanizer App.
+    - Use the [`Manage GitLab Plan and Trials`](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer#update-gitlab-subscription-or-customer-trial) option in the Zendesk Mechanizer App.
     - This option [extends an active or expired trial](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change#extending-trials) in the namespace. But it cannot start a new trial.
     - The mechanizer will fail if the namespace has never had a trial. However, you can use a [subscription to create a trial](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change#extending-trials) and extend it as needed.
 1. Is the customer's (paid) group unexpectedly on a Free plan?

@@ -72,7 +72,7 @@ Especially if you feel you're stalled on a ticket and need assistance identifyin
 
 1. Always feel free to reach out to any available manager (such as your manager, or the [Support Manager On-call](/handbook/support/workflows/support_manager-on-call) in the `#spt_managers` channel. They will help you to determine next steps.
    - Avoid messages with no identified DRI for responding in `#spt_managers` as they can be missed or be a victim to the bystander effect.
-1. [Open a STAR](/handbook/support/internal-support/support-ticket-attention-requests.html#submitting-a-support-ticket-attention-request-star--starring-a-ticket) in situations where getting help is urgent and important because:
+1. [Open a STAR](/handbook/support/internal-support/support-ticket-attention-requests#submitting-a-support-ticket-attention-request-star--starring-a-ticket) in situations where getting help is urgent and important because:
    - the customer has expressed unhappiness with the service we're delivering via the ticket
    - the support engineer has noticed a correlation between several of a customers tickets that could use a more cohesive response
    - there is an urgent need for action in a different region (for example, finding a ticket owner or scheduling a call)

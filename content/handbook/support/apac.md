@@ -278,7 +278,7 @@ coverage.
 
 ## Holiday Coverage Planning
 
-We are mindful of [holidays](/handbook/support/support-time-off.html#holiday-time-off-ticket-management) that impact large parts of the team. The following are official holidays for mostly APAC team members, which we plan coverage for outside of global practices:
+We are mindful of [holidays](/handbook/support/support-time-off#holiday-time-off-ticket-management) that impact large parts of the team. The following are official holidays for mostly APAC team members, which we plan coverage for outside of global practices:
 
 | **Holiday**                             | **Date**           | **Countries**              | **Notes**                                                                                                                                  |
 |-----------------------------------------|--------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|

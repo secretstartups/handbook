@@ -12,9 +12,9 @@ This page outlines workflows relevant to folks using the `L&R` form in Zendesk.
 
 Support Engineers that work on Licensing and Renewal (L&R) tickets should apply the same guidelines documented within the [Support - Working on Tickets workflow](/handbook/support/workflows/working-on-tickets):
 
-1. [Selecting tickets](/handbook/support/workflows/working-on-tickets.html#selecting-tickets)
-1. [Assigning tickets](/handbook/support/workflows/working-on-tickets.html#assigning-tickets)
-1. Responding to next-to-breach ticket, both your own and [responding to other SEs tickets](/handbook/support/support-global-groups/sgg-faq.html#1-should-ses-respond-to-other-ses-tickets)
+1. [Selecting tickets](/handbook/support/workflows/working-on-tickets#selecting-tickets)
+1. [Assigning tickets](/handbook/support/workflows/working-on-tickets#assigning-tickets)
+1. Responding to next-to-breach ticket, both your own and [responding to other SEs tickets](/handbook/support/support-global-groups/sgg-faq#1-should-ses-respond-to-other-ses-tickets)
 
 ### The workflow
 

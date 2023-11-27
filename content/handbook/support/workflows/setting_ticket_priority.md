@@ -17,7 +17,7 @@ If a customer submits a ticket via the web ticket form, they can choose the star
 
 If a customer emails in a ticket it will get a `Priority` of 'Normal' (unless it is sent to the special emergency contact).
 
-Manually setting a ticket's priority in the `Priority` field (not `Customer Priority`) in Zendesk will change the overall ticket [SLA](/handbook/support/workflows/working-on-tickets.html#understanding-slas), for both the first and next replies. This allows support to prioritize tickets and update the urgency during the life of the ticket (for example the initial request may be 'High' priority and then follow up questions may need 'Low' priority.) Customers don't receive automatic notifications upon priority change.
+Manually setting a ticket's priority in the `Priority` field (not `Customer Priority`) in Zendesk will change the overall ticket [SLA](/handbook/support/workflows/working-on-tickets#understanding-slas), for both the first and next replies. This allows support to prioritize tickets and update the urgency during the life of the ticket (for example the initial request may be 'High' priority and then follow up questions may need 'Low' priority.) Customers don't receive automatic notifications upon priority change.
 
 ## Resetting Ticket Priority
 

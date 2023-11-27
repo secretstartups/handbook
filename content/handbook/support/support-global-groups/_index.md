@@ -167,7 +167,7 @@ deciding which of them to do first.
 1. Make sure there are no unassigned tickets in your group by:
    1. Taking assignment if you have capacity
    1. Asking others in the group to do so if you don't
-   1. [Bring the ticket to managers](/handbook/support/workflows/how-to-get-help.html#bring-the-ticket-to-managers) if the group is at capacity
+   1. [Bring the ticket to managers](/handbook/support/workflows/how-to-get-help#bring-the-ticket-to-managers) if the group is at capacity
 1. Help on tickets assigned to others in your group by:
    1. posting an internal note with relevant helpful information, OR
    1. answering questions from the assignee in your group Slack channel, OR

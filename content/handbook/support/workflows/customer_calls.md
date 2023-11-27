@@ -11,7 +11,7 @@ prepare for, manage and follow-up on customer calls.
 
 ## Emotional Headwinds
 
-We [hire smart humans to provide smart support](/handbook/support/workflows/how-to-respond-to-tickets.html#smart-humans-provide-smart-support). Humans have *feelings*. It is important to recognize that there are emotional headwinds that can make it harder to schedule or be in calls. During a call you're putting yourself into a situation where you have to manage:
+We [hire smart humans to provide smart support](/handbook/support/workflows/how-to-respond-to-tickets#smart-humans-provide-smart-support). Humans have *feelings*. It is important to recognize that there are emotional headwinds that can make it harder to schedule or be in calls. During a call you're putting yourself into a situation where you have to manage:
 
 - your own feelings
 - the customer's experience
@@ -129,7 +129,7 @@ A Troubleshooting call is a longer call where you'll work real-time with the cus
 
 #### Purpose
 
-A Reset & Review call is an opportunity for an engineer to connect with a customer on a long-running or high priority ticket to review the troubleshooting that's taken place so far and explain the next steps to be taken towards resolution. For high priority tickets that [aren't quite emergencies](/handbook/support/workflows/customer_emergencies_workflows.html#situations-that-might-or-might-not-be-emergencies) in particular, establishing a cadence of Reset & Review calls early can help avoid (or ease the transition into) an [account escalation](https://about.gitlab.com/handbook/customer-success/csm/escalations/).
+A Reset & Review call is an opportunity for an engineer to connect with a customer on a long-running or high priority ticket to review the troubleshooting that's taken place so far and explain the next steps to be taken towards resolution. For high priority tickets that [aren't quite emergencies](/handbook/support/workflows/customer_emergencies_workflows#situations-that-might-or-might-not-be-emergencies) in particular, establishing a cadence of Reset & Review calls early can help avoid (or ease the transition into) an [account escalation](https://about.gitlab.com/handbook/customer-success/csm/escalations/).
 
 #### Duration
 
@@ -175,10 +175,10 @@ Calendly link.
 
 When sending a customer a call link:
 
-- Always use [single-use Calendly link](/handbook/support/workflows/calendly.html#generating-a-single-use-calendly-link)
+- Always use [single-use Calendly link](/handbook/support/workflows/calendly#generating-a-single-use-calendly-link)
   to invite customers to a call so that we can avoid ghost calls.
 - Ensure the [event title](https://calendly.com/event_types)
-  [includes the word `Support`](/handbook/support/workflows/calendly.html#support-calls-in-the-team-calendar)
+  [includes the word `Support`](/handbook/support/workflows/calendly#support-calls-in-the-team-calendar)
   (case insensitive). This is necessary for the event to appear in the
   `GitLab Support` Calendar.
 - Make sure your calendly event includes a required Invitee Question asking
@@ -241,7 +241,7 @@ Example:
 1. **Treat customers as technical peers**: Be courteous and professional, and be human and try to connect with the other humans on the call.
 1. **If you don't know, say you don't know (and what you'll do to find the answer)**: customers don't expect you to know the intimate details of every configuration of GitLab live. If you don't know, that's okay - it's better to be transparent and explain what the path forward is. You can:
    - look things up in the docs live on the call
-   - move async to [request help from development](/handbook/support/workflows/how-to-get-help.html#how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-development-team) or a peer
+   - move async to [request help from development](/handbook/support/workflows/how-to-get-help#how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-development-team) or a peer
    - try something in your own environment or (if it's safe) in the customer's environment
 1. **Adapt your tactics to the situation**: Large calls with many teams represented require a different level of formality and precision than a single engineer on a lower priority case.
 

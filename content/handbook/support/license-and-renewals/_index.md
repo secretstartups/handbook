@@ -89,7 +89,7 @@ representative to request an exemption as part of the sales purchase or renewal 
   - As noted on GitLab's [statement of support](https://about.gitlab.com/support/statement-of-support/#version-support),
   our Support team are (in almost all circumstances) unable to assist customers running below
   GitLab `14.x`, so this should provide further encouragement for customers to upgrade.
-- [Post-sales exemptions for Cloud Licensing](/handbook/support/license-and-renewals/workflows/self-managed/cloud-licensing.html#post-sale-exemptions-support)
+- [Post-sales exemptions for Cloud Licensing](/handbook/support/license-and-renewals/workflows/self-managed/cloud-licensing#post-sale-exemptions-support)
 are rare and require an internal request and Sales VP approval.
 - License files are still used for Self-Managed **Trials**.
 
@@ -274,7 +274,7 @@ When creating an [individual/bulk access request](https://gitlab.com/gitlab-com/
 As you work through the queue and on issues, if you spot something in the
 [Fulfillment backlog](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=group%3A%3Afulfillment)
 that would makes things better for customers and Support, please label it with
-`Support Interest::Categorize`. See [Support's issue list for Fulfillment](./workflows/managing_product_issues.html#supports-issue-list-for-fulfillment) for more information.
+`Support Interest::Categorize`. See [Support's issue list for Fulfillment](/handbook/support/license-and-renewals/workflows/managing_product_issues#supports-issue-list-for-fulfillment) for more information.
 
 ##### Fulfillment stage
 

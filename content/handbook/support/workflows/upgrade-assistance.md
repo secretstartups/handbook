@@ -10,8 +10,8 @@ subcategory: Upgrade Assistance
 
 ### Overview
 
-As a part of our [Priority Support](/support/index.html#priority-support),
-GitLab Support offers [Upgrade Assistance](/support/scheduling-upgrade-assistance/).
+As a part of our [Priority Support](https://about.gitlab.com/support/index.html#priority-support),
+GitLab Support offers [Upgrade Assistance](https://about.gitlab.com/support/scheduling-upgrade-assistance/).
 That is, we'll review upgrade and rollback plans, providing feedback and
 suggestions to the customer to help ensure a smooth upgrade. Customers may also
 request a 30-minute call with a support engineer to answer any final questions
