@@ -53,7 +53,7 @@ experience related to managing subscriptions. We achieve this by:
 
 ## Regional L&R Teams
 
-- AMER Team [Page](amer-region.html)
+- AMER Team [Page](/handbook/support/license-and-renewals/amer-region)
 - APAC Team Page
 - EMEA Team Page
 
@@ -119,7 +119,7 @@ that customers apply to their Self-Managed instance. Some benefits of a Cloud Li
 - Allows for the ability to use **Quarterly Subscription Reconciliation (QSR)** to reconcile
 Users over Subscription
 
-[**Quarterly Subscription Reconciliation (QSR)**](./workflows/quarterly_subscription_reconciliations.html)
+[**Quarterly Subscription Reconciliation (QSR)**](/handbook/support/license-and-renewals/workflows/quarterly_subscription_reconciliations)
 is a method to reconcile any additional usage over the subscription agreement, such as when there
 are **Users over Subscription**. When enabled, QSR is performed each quarter (every three months)
 and generates an invoice if seat usage has increased over the current maximum.
@@ -169,7 +169,7 @@ for further information.
   tickets from customers as well as from GitLab Team Members (Sales, CSMs,
   etc.). The tickets from team members are called "internal requests," and
   information about those is available on the
-  [working internal requests workflow page](/handbook/support/license-and-renewals/workflows/working_internal_requests.html).
+  [working internal requests workflow page](/handbook/support/license-and-renewals/workflows/working_internal_requests).
 - Creating and/or updating [marketing pages](#marketing-pages),
   [product documentation](#product-documentation) and the
   [GitLab Handbook](#handbook-pages) and [workflows](#workflows) around
@@ -202,7 +202,7 @@ CustomersDot, use this information:
 
 A Salesforce.com (SFDC) account makes collaboration with Sales team members more
 efficient, primarily because you'll be able to receive notifications when you're
-tagged in a Chatter message (see the [working with Sales workflow](/handbook/support/license-and-renewals/workflows/working_with_sales.html)).
+tagged in a Chatter message (see the [working with Sales workflow](/handbook/support/license-and-renewals/workflows/working_with_sales)).
 
 When creating an [individual/bulk access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request), use the following information:
 
@@ -257,7 +257,7 @@ When creating an [individual/bulk access request](https://gitlab.com/gitlab-com/
 
 ### Workflows
 
-- [License & renewals workflows](workflows/index.html)
+- [License & renewals workflows](/handbook/support/license-and-renewals/workflows/index.html)
 
 ### Useful tools
 

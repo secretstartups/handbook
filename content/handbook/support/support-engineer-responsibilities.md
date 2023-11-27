@@ -16,7 +16,7 @@ description: A detailed listing of the responsibilities of Support Engineers in 
 1. The '**What does success look like?**' subsections help encourage consistent contributions across our global team. They're not hard targets that must be met. They're to help you know how and where to contribute to succeed in your role.
 1. **Performance measurement for annual reviews and promotions are separate activities to the core responsibilities described here.**
      1. The People Group is responsible for the [GitLab annual review process](/handbook/people-group/360-feedback/).
-     1. Read about [Support Engineer Career Path](/handbook/support/support-engineer-career-path.html) for further resources on promotions, and understanding the role at different levels.
+     1. Read about [Support Engineer Career Path](/handbook/support/support-engineer-career-path) for further resources on promotions, and understanding the role at different levels.
 1. Support Engineering has [team level performance indicators](/handbook/support/#how-we-measure-our-performance). Successfully carrying out the responsibilities on this page will, directly or indirectly, help improve our KPIs. All team-level KPIs are, in turn, related to GitLab's company-level [Objectives and Key Results](/handbook/company/okrs/).
 
 ## Support Engineer Areas of Focus
@@ -26,7 +26,7 @@ We currently have two main areas of focus for Support Engineers:
 1. GitLab - helping customers who encounter product-related problems in SaaS (gitlab.com) or self-managed installations
 1. License and Renewals - helping customers with License and Renewals problems
 
-To view the team's current distribution among Areas of Focus, see our internal [Support Team info site](https://gitlab-com.gitlab.io/support/team/areas-of-focus.html).
+To view the team's current distribution among Areas of Focus, see our internal [Support Team info site](https://gitlab-com.gitlab.io/support/team/areas-of-focus).
 
 During onboarding, your initial area of focus will be made clear.
 
@@ -89,7 +89,7 @@ and so all of Support, to meet that goal. How?
    you, will be monitoring the group's view throughout each day, taking tickets
    as they can, and calling out to the rest of the group when there are new
    tickets that others could take.
-1. See our [Working on Tickets page](/handbook/support/workflows/working-on-tickets.html) for
+1. See our [Working on Tickets page](/handbook/support/workflows/working-on-tickets) for
    guidance on finding and selecting tickets on which to work, assigning
    tickets, and providing a first response.
 1. Watch your group's view for tickets showing up in the `Needs org` section
@@ -104,7 +104,7 @@ and so all of Support, to meet that goal. How?
 
 #### Processing 'Needs org' tickets (triaging)
 
-Everyone is responsible for [Triaging tickets](/handbook/support/workflows/ticket_triage.html) to make sure they have:
+Everyone is responsible for [Triaging tickets](/handbook/support/workflows/ticket_triage) to make sure they have:
 
 1. An associated organization
 1. The correct ticket form (such as `SaaS`, if they're asking for
@@ -134,7 +134,7 @@ Here are a few tips for maintaining good progress:
    will need to be addressed in additional tickets and that your focus will
    remain on the original problem or question
 1. As soon as you're unclear on what your next steps should be, seek help.
-   See our [How to get help](/handbook/support/workflows/how-to-get-help.html) page for
+   See our [How to get help](/handbook/support/workflows/how-to-get-help) page for
    details
 1. If you are unsure of what message to deliver to the customer, or how to
    word the message to achieve a positive impact, seek help in the
@@ -182,7 +182,7 @@ such as:
 1. Live troubleshooting and discussion are
    the best way to make progress toward resolution
 
-See the [Customer Calls page](/handbook/support/workflows/customer_calls.html)
+See the [Customer Calls page](/handbook/support/workflows/customer_calls)
 for our recommended practices and workflows for arranging, conducting and
 managing calls.
 
@@ -193,7 +193,7 @@ offers you a daily opportunity to live that value. When all higher priority
 items are under control (see
 [Prioritizing work](/handbook/support/support-global-groups/#prioritizing-work)),
 please find tickets in your group's view. See the
-[Support Global Groups FAQ page](/handbook/support/support-global-groups/sgg-faq.html) for topics
+[Support Global Groups FAQ page](/handbook/support/support-global-groups/sgg-faq) for topics
 about how to help other SEs.
 
 **What does success look like?**
@@ -234,7 +234,7 @@ shows the current values.
 The following on-call rotations are staffed by Support Engineers:
 
 1. [Self-managed customer emergency on-call](/handbook/support/on-call/)
-1. [GitLab.com Communications Manager on Call (CMOC)](/handbook/support/workflows/cmoc_workflows.html)
+1. [GitLab.com Communications Manager on Call (CMOC)](/handbook/support/workflows/cmoc_workflows)
 
 All Support Engineers participate in one of these rotations - not both, unless you absolutely love being on-call!
 
@@ -256,7 +256,7 @@ Be sure to highlight notable incidents in your 1:1 notes doc.
 
 **What does success look like?**
 
-1. [Pairing sessions](https://gitlab.com/gitlab-com/support/support-pairing). You can see how you're doing on this [pairing summary page](https://gitlab-com.gitlab.io/support/team/pairings.html)
+1. [Pairing sessions](https://gitlab.com/gitlab-com/support/support-pairing). You can see how you're doing on this [pairing summary page](https://gitlab-com.gitlab.io/support/team/pairings)
 1. Ask and answer questions in Slack. (We don't have a way to easily make this visible, but feel free to share things you're proud of with your manager in your 1:1 notes doc.)
 1. If you have volunteered to be a [Support Stable Counterpart](/handbook/support/#support-stable-counterpart), collaborate with the group(s) you are assigned to and share knowledge with the Support Team.
 1. There are many other ways you can collaborate. Make a note of your collaborations in your 1:1 notes doc.
@@ -268,7 +268,7 @@ Be sure to highlight notable incidents in your 1:1 notes doc.
 
 ## Create and update issues for bugs and feature requests (Weekly)
 
-Reducing future customer problems is an important part of being a Support Engineer. [Creating, updating and escalating issues for bugs and feature requests](/handbook/support/workflows/working-with-issues.html) helps achieve this.
+Reducing future customer problems is an important part of being a Support Engineer. [Creating, updating and escalating issues for bugs and feature requests](/handbook/support/workflows/working-with-issues) helps achieve this.
 
 **What does success look like?**
 
@@ -283,7 +283,7 @@ Reducing future customer problems is an important part of being a Support Engine
 
 ## Improve documentation and publicly share knowledge (Weekly)
 
-You are encouraged to [update documentation](/handbook/support/workflows/improving-documentation.html) regularly. This helps prevent ticket creation by improving the information available for customers to use in solving problems without contacting us.
+You are encouraged to [update documentation](/handbook/support/workflows/improving-documentation) regularly. This helps prevent ticket creation by improving the information available for customers to use in solving problems without contacting us.
 
 [Creating blog posts](/handbook/marketing/blog/unfiltered/) and other publicly available knowledge that is accessible by search engines is valuable to help prevent ticket creation.
 
@@ -360,7 +360,7 @@ There's no goal for this area. If you have ideas of materials you'd like to crea
 
 ## Help with hiring (Occasionally)
 
-We encourage the whole team to help with the [Hiring Process](/handbook/support/managers/hiring.html). If you would like to help in this area, discuss with your manager and start an [Interview Training modules](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#)
+We encourage the whole team to help with the [Hiring Process](/handbook/support/managers/hiring). If you would like to help in this area, discuss with your manager and start an [Interview Training modules](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#)
 
 **What does success look like?**
 

@@ -21,7 +21,7 @@ Leadership at GitLab is a unique opportunity to embody and model the GitLab Valu
 | Consistently ensure high Customer Support Satisfaction | Results, Efficiency, Iteration, Transparency |
 | Support and nurture team members in Customer Support and SGG (Support Global Groups) | Collaboration, Diversity Inclusion Belonging |
 
-Our [Hazards and Challenges page](/handbook/support/managers/hazards-and-challenges.html) describes some known issues and how we handle them.
+Our [Hazards and Challenges page](/handbook/support/managers/hazards-and-challenges) describes some known issues and how we handle them.
 
 ## Consistently ensure high Customer Support Satisfaction
 
@@ -32,13 +32,13 @@ Our primary responsibility in the Support Leadership team is to ensure high qual
 | Help support engineers to resolve tickets accurately and efficiently | Understand GitLab [Support Service Levels](/support/#gitlab-support-service-levels) and [KPIs](/handbook/support/#how-we-measure-our-performance) |
 |  | Know how we use Zendesk, [Slack](#working-in-slack), and GitLab for ticket management |
 |  | Serve as [Support Manager On-Call](/handbook/support/on-call/) for Customer Emergencies and Escalations |
-|  | Serve as [SSAT Reviewing Manager](/handbook/support/workflows/how-to-respond-to-feedback.html) for handling Customer Feedback |
+|  | Serve as [SSAT Reviewing Manager](/handbook/support/workflows/how-to-respond-to-feedback) for handling Customer Feedback |
 |  | Know how to use Zendesk Explore to monitor KPIs |
 |  | Work with GitLab Sales, Pricing, Product, and other teams when company initiatives change Support requirements |
 | Help Support Engineers to manage tickets, manage customer expectations, and communicate well | Coach SEs on communication techniques |
 |  | Understand Support Workflows and escalation paths |
 |  | Support your team members' [participation in on-call rotations](/handbook/support/on-call/) to coordinate and resolve emergencies
-|  | Join [Customer Calls](/handbook/support/workflows/customer_calls.html) with SEs on request or according to your judgement |
+|  | Join [Customer Calls](/handbook/support/workflows/customer_calls) with SEs on request or according to your judgement |
 |  | Propose, develop, and evaluate improvements to Support processes by acting as DRI for [issues in the Support Meta project](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues) |
 | Stay up-to-date on GitLab Product, Strategy, Pricing, etc. | Contribute to and read the [Support Week in Review](/handbook/support/#support-week-in-review) document every week |
 |  | Participate (at the Section level or cross-functional level) in [Support Stable Counterparts](/handbook/support/#support-stable-counterparts) or [Cross-functional non-product counterparts](/handbook/support/#cross-functional-non-product-counterparts)
@@ -66,7 +66,7 @@ We are equally responsible to ensure our team members are supported in their Git
 |  | [Develop your skills through direct interactions with customers and Support Engineers](#develop-your-skills-through-direct-interactions-with-customers-and-support-engineers) |
 | Interview and hire new team members | Complete Interview Training learning module |
 |  | Maintain a flexible schedule for interview timeslots |
-|  | Stay up-to-date with the current [Hiring Process](/handbook/support/managers/hiring.html) |
+|  | Stay up-to-date with the current [Hiring Process](/handbook/support/managers/hiring) |
 |  | Stay up-to-date with hiring plans in the weekly Manager Sync documents/meetings |
 |  | Grade assessments for SE and Manager candidates in Greenhouse |
 |  | Work with your regional Recruiter to source potential candidates |
@@ -98,7 +98,7 @@ Important Slack channels:
 
 ### Conducting weekly 1:1 meetings
 
-Weekly 1:1 meetings are a crucial part of Remote Culture at GitLab. Refer to the [Support Engineer Responsibilities page](/handbook/support/support-engineer-responsibilities.html) to understand what your team members are aiming to achieve.
+Weekly 1:1 meetings are a crucial part of Remote Culture at GitLab. Refer to the [Support Engineer Responsibilities page](/handbook/support/support-engineer-responsibilities) to understand what your team members are aiming to achieve.
 
 1. [Review at least two tickets per team-member in 1:1 calls](/handbook/support/workflows/working-on-tickets.html#1-weekly-ticket-review). This helps maintain and improve quality (technical, communication and collaboration).
 1. Monitor for team members to have [around 50% to 60% of public replies to be on tickets that are assigned to them](/handbook/support/workflows/working-on-tickets.html#2-public-replies-on-your-assigned-tickets). Assigning tickets helps resolve customer problems quickly and efficiently as well as encouraging learning and collaboration.

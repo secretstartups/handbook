@@ -6,7 +6,7 @@ description: Workflow for Support Engineers on how to get help when working on a
 
 ## Getting Help on a Ticket
 
-When [working on tickets](/handbook/support/workflows/working-on-tickets.html), collaboration is critical, especially when troubleshooting complex issues, or technical areas of focus that fall outside of your experience level. Asking for help means having a [low level of shame](/handbook/values/#low-level-of-shame), and also shows that you are putting the customer first because you are working towards resolving their problem.
+When [working on tickets](/handbook/support/workflows/working-on-tickets), collaboration is critical, especially when troubleshooting complex issues, or technical areas of focus that fall outside of your experience level. Asking for help means having a [low level of shame](/handbook/values/#low-level-of-shame), and also shows that you are putting the customer first because you are working towards resolving their problem.
 
 ### How to Get Help Workflow
 
@@ -46,7 +46,7 @@ Other Support Engineers are a great resource to help out with tickets. To get he
     - Senior Support Office Hours (varying times)
 1. Ask for help in one of the broader
    [Support Slack channels](/handbook/support/#slack).
-1. Initiate a [Branch Out session](/handbook/support/support-global-groups/branch-out-sessions.html)
+1. Initiate a [Branch Out session](/handbook/support/support-global-groups/branch-out-sessions)
    - This is like a crush session, with the specific intention of helping 1 or 2
      groups with FRTs
 
@@ -55,7 +55,7 @@ Other Support Engineers are a great resource to help out with tickets. To get he
 You can also do one or more of the following:
 
 1. See if there is a [Support Pod]({{< ref "working-with-pods" >}}) that covers the area your ticket is in and ask one of the Pod members for help.
-1. Ask an expert within Support. You can check the [Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html)
+1. Ask an expert within Support. You can check the [Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject)
    Support page to see who might have the skills to assist, or reach out
    to the [Support Stable Counterpart]({{< ref "support-stable-counterparts" >}})
    for the appropriate product area. Mention those
@@ -70,7 +70,7 @@ You can also do one or more of the following:
 
 Especially if you feel you're stalled on a ticket and need assistance identifying next steps:
 
-1. Always feel free to reach out to any available manager (such as your manager, or the [Support Manager On-call](/handbook/support/workflows/support_manager-on-call.html) in the `#spt_managers` channel. They will help you to determine next steps.
+1. Always feel free to reach out to any available manager (such as your manager, or the [Support Manager On-call](/handbook/support/workflows/support_manager-on-call) in the `#spt_managers` channel. They will help you to determine next steps.
    - Avoid messages with no identified DRI for responding in `#spt_managers` as they can be missed or be a victim to the bystander effect.
 1. [Open a STAR](/handbook/support/internal-support/support-ticket-attention-requests.html#submitting-a-support-ticket-attention-request-star--starring-a-ticket) in situations where getting help is urgent and important because:
    - the customer has expressed unhappiness with the service we're delivering via the ticket
@@ -164,7 +164,7 @@ If you encounter any problems, such as obtaining a timely response from Developm
 - Create a Support [pairing session issue](https://gitlab.com/gitlab-com/support/support-pairing).
 - [Support Workflows](/handbook/support/workflows/) to follow relevant troubleshooting workflow.
 - [Support Documentation links](/handbook/support/#documentation) for quick references to helpful GitLab documentation.
-- [Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) to find a Support Engineer scoped to the skill set needed for help.
+- [Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject) to find a Support Engineer scoped to the skill set needed for help.
 - [DevOps Stages](/handbook/product/categories/#devops-stages) to find the right development or product team to reach out to.
 - [Emergency runbooks](https://gitlab.com/gitlab-com/support/emergency-runbook/-/tree/master/.gitlab/issue_templates) with troubleshooting tips, even if not an emergency.
 - See which [manager is on-call](https://gitlab.pagerduty.com/escalation_policies#PGNLUZ1) if guidance is needed on something urgent.

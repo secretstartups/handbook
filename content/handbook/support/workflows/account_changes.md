@@ -33,7 +33,7 @@ In cases where Support needs to take action on the project or group, such as for
 
 1. Verify the user is a group *Owner* or project *Maintainer*. Otherwise, ask the user to have an owner/maintainer contact us.
 1. Ask for permission to take action. See the [Asking Permission](#asking-permission) section below.
-1. Consider adding an [Admin Note](/handbook/support/workflows/admin_note.html) to the group admin page if Support may need to know the action was taken in the future.
+1. Consider adding an [Admin Note](/handbook/support/workflows/admin_note) to the group admin page if Support may need to know the action was taken in the future.
 
 You can continue working with the original requester once an owner/maintainer provides permission if that is their preference.
 
@@ -43,12 +43,12 @@ In cases where a user has lost access to their account, all other options (such 
 
 For unconfirmed accounts, the only account action support will typically take is an [email typo fix]({{< ref "confirmation_emails#typo-fix" >}}).
 
-Before taking any action on confirmed accounts, ensure that you have verified the account owner using the [Account Ownership Verification](/handbook/support/workflows/account_verification.html) workflow.
+Before taking any action on confirmed accounts, ensure that you have verified the account owner using the [Account Ownership Verification](/handbook/support/workflows/account_verification) workflow.
 
 If ownership is verified, then:
 
 1. [Confirm permission for the changes](#asking-permission).
-1. Add an [Admin Note](/handbook/support/workflows/admin_note.html) to the user's account.
+1. Add an [Admin Note](/handbook/support/workflows/admin_note) to the user's account.
 
 Example cases include:
 

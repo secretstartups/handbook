@@ -26,7 +26,7 @@ During your time as onboarding buddy, you'll be working alongside the new Suppor
 | |Call to help them update the team page, GitLab Sandbox Cloud for GCP, the GDK, or anything else they may have questions about or trouble with. |
 | [Weeks 3+](#pairings)| Pair at least twice, but more often if you can. Ideally, aim for once a week. |
 | | Invite them to shadow you on any customer calls. |
-| | Identify tickets that help push the engineer out of their comfort zone, and encourage the engineer to [self-assign](/handbook/support/workflows/working-on-tickets.html) these tickets. |
+| | Identify tickets that help push the engineer out of their comfort zone, and encourage the engineer to [self-assign](/handbook/support/workflows/working-on-tickets) these tickets. |
 
 ## Ideas & Suggestions
 
@@ -45,7 +45,7 @@ Note that everyone's needs are different, so consider the following as a list of
 - Show them the GitLab [architecture diagrams](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/artifacts/arch-diagram.html)
 - Show them some product or [support-team-meta](https://gitlab.com/gitlab-com/support/support-team-meta) issues and clarify that they can contribute to anything
 - Remind them they can get reimbursed for any books or training, and show them the [Spending Company Money](/handbook/spending-company-money/) page. If it's expensive, talk to their manager first.
-- Show them our [Testing Environments](/handbook/support/workflows/test_env.html), and introduce them to GitLab Sandbox Cloud for GCP (which replaced [support-resources](https://gitlab.com/gitlab-com/support/support-resources))
+- Show them our [Testing Environments](/handbook/support/workflows/test_env), and introduce them to GitLab Sandbox Cloud for GCP (which replaced [support-resources](https://gitlab.com/gitlab-com/support/support-resources))
 - Help them update the [GitLab team page](/handbook/company/team/) with their info (one of their Onboarding Issue checklist items)
 
 ### Pairings

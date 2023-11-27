@@ -16,12 +16,12 @@ The Support Manager On-call is one of the rotations that make up [GitLab Support
 As part of [GitLab Support on-call](/handbook/support/on-call/), Support Managers serve in a rotation. The support manager on-call is responsible generally for:
 
 1. Ensuring customer emergencies are [handled promptly and accurately](#handling-customer-emergencies-and-incidents), [according to SLAs](https://about.gitlab.com/support/)
-1. [Handling Support Ticket Attention Requests](/handbook/support/internal-support/support-ticket-attention-requests.html) during [Global Support Hours](https://about.gitlab.com/support/#hours-of-operation)
+1. [Handling Support Ticket Attention Requests](/handbook/support/internal-support/support-ticket-attention-requests) during [Global Support Hours](https://about.gitlab.com/support/#hours-of-operation)
 1. Acting as a [notification point for security incidents](#act-as-a-notification-point-for-security-incidents)
-1. Help avoid SLA breaches. See [Working on Tickets](/handbook/support/workflows/working-on-tickets.html) for details.
+1. Help avoid SLA breaches. See [Working on Tickets](/handbook/support/workflows/working-on-tickets) for details.
 1. Ensure any ticket or call regional handover requests [you are mentioned on](/handbook/support/workflows/working-on-tickets.html#assigning-a-ticket-with-a-different-preferred-region), gets an assignee in your region
 
-**Note:** You (or the CMOC/CEOC) may sometimes be required to contact GitLab users on behalf of another GitLab team (such as the SIRT team). Please follow the [Sending Notices workflow](/handbook/support/workflows/sending_notices.html) to action these requests.
+**Note:** You (or the CMOC/CEOC) may sometimes be required to contact GitLab users on behalf of another GitLab team (such as the SIRT team). Please follow the [Sending Notices workflow](/handbook/support/workflows/sending_notices) to action these requests.
 
 ## Handling customer emergencies and incidents
 
@@ -34,7 +34,7 @@ The [Support Engineer on-call](/handbook/support/on-call/) is the first responde
 - Be aware of ongoing emergencies and assist or lead in our initial response as appropriate
 - During an emergency: find additional staff for subject-matter expertise; replace the on-call engineer if needed; lead any Zoom call(s) as needed; hand off the emergency to the next on-call manager.
 - Find additional staff when there are [multiple emergencies](/handbook/support/on-call/#handling-multiple-simultaneous-emergencies).
-- Convert [customer emergencies into Account Escalations](/handbook/support/workflows/emergency-to-escalation-process.html) as needed.
+- Convert [customer emergencies into Account Escalations](/handbook/support/workflows/emergency-to-escalation-process) as needed.
 
 ### Situations that Might or Might not Be Emergencies
 
@@ -44,7 +44,7 @@ See more examples of [situations that might be emergencies](/handbook/support/wo
 
 ### Paging backup engineers on weekends in APAC
 
-The APAC region has a pool of [**backup engineers**](/handbook/support/workflows/customer_emergencies_workflows.html) that are available to reach out to during the weekend on-call hours, in the event that a concurrent emergency occurs.
+The APAC region has a pool of [**backup engineers**](/handbook/support/workflows/customer_emergencies_workflows) that are available to reach out to during the weekend on-call hours, in the event that a concurrent emergency occurs.
 
 If you are the Support Manager on-call and a concurrent emergency occurs, you will be paged by the Support Engineer On-call escalated via Pagerduty. You will then be responsible for checking the current situation and determining if the **backup engineers** need to be paged. If so, the Support Manager will then **manually page** the **backup engineers**. At this point, the backup engineers are all pinged. Only one backup engineer needs to acknowledge the page and lend assistance, and there is no expectation that **backup engineers** will be available to respond to a page.
 
@@ -64,23 +64,23 @@ When prompted, update:
 
 ## Handling Support Ticket Attention Requests during business hours
 
-STARs ([Support Ticket Attention Requests](/handbook/support/internal-support/support-ticket-attention-requests.html)) are handled by the Support Manager on-call.
+STARs ([Support Ticket Attention Requests](/handbook/support/internal-support/support-ticket-attention-requests)) are handled by the Support Manager on-call.
 
 Your responsibilities are as follows:
 
 1. Triage and investigate customer tickets and Internal Requests that are announced in the `#support_ticket-attention-requests` Slack channel.
 1. Establish ownership and assignment for starred tickets.
 
-You can use [Support Team Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) to find appropriate engineers to assign.
+You can use [Support Team Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject) to find appropriate engineers to assign.
 
-A very high percentage of starred tickets involve licenses and renewals. For guidance in handling these, please see the [Workflow for handling Plan/License Ticket Attention Requests](/handbook/support/license-and-renewals/workflows/managers_working_with_extensions.html).
+A very high percentage of starred tickets involve licenses and renewals. For guidance in handling these, please see the [Workflow for handling Plan/License Ticket Attention Requests](/handbook/support/license-and-renewals/workflows/managers_working_with_extensions).
 
 **NOTE:** GitLab team members may attempt to draw attention to tickets in regular support Slack channels (`#support_self-managed`, `#support_gitlab-com`, `#spt_managers`). Redirect the team member by responding to their post with **only the `:escalate:` emoji**, which will send an automated and anonymous reply describing the correct process.
 
 **NOTE:** There are two other distinct situations, not discussed on this page:
 
 1. [Account Escalations / Escalated Customers](https://about.gitlab.com/handbook/customer-success/csm/escalations/)
-1. [Emergencies that become Account Escalations](/handbook/support/workflows/emergency-to-escalation-process.html)
+1. [Emergencies that become Account Escalations](/handbook/support/workflows/emergency-to-escalation-process)
 
 ### Mechanics of handling starred tickets
 
@@ -101,7 +101,7 @@ Some steps of STAR treatment are handled by bots and auto-responders. The text `
 
 ### Unstarring a ticket - rejecting the request for additional attention
 
-There are times when a STAR does not meet the threshold for additional attention. See the [main STAR page](/handbook/support/internal-support/support-ticket-attention-requests.html) for details. In such situations, return to the thread in `#support_ticket-attention-requests` and notify the initiator.
+There are times when a STAR does not meet the threshold for additional attention. See the [main STAR page](/handbook/support/internal-support/support-ticket-attention-requests) for details. In such situations, return to the thread in `#support_ticket-attention-requests` and notify the initiator.
 
 ### Resolving a STAR
 
@@ -133,11 +133,11 @@ The following action should be taken promptly:
 
 ## Act as a notification point for security incidents
 
-When GitLab experiences a [security incident](/handbook/security/security-operations/sirt/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact), the Support Manager on-call is responsible for triaging and responding to customer communications stemming from the security incident. This may include involving the [CMOC](/handbook/support/workflows/cmoc_workflows.html).
+When GitLab experiences a [security incident](/handbook/security/security-operations/sirt/security-incident-communication-plan#extended-team-roles-responsibilities-and-points-of-contact), the Support Manager on-call is responsible for triaging and responding to customer communications stemming from the security incident. This may include involving the [CMOC](/handbook/support/workflows/cmoc_workflows).
 
 ## Provide assistance with Upgrade Assistance Requests
 
-[Upgrade assistance requests](https://about.gitlab.com/support/scheduling-upgrade-assistance/) are currently triaged by engineers as part of the [Working on Tickets](/handbook/support/workflows/working-on-tickets.html) but in some cases the triaging agent(s) may need assistance from Support management.
+[Upgrade assistance requests](https://about.gitlab.com/support/scheduling-upgrade-assistance/) are currently triaged by engineers as part of the [Working on Tickets](/handbook/support/workflows/working-on-tickets) but in some cases the triaging agent(s) may need assistance from Support management.
 
 #### Example situations and potential solutions
 
@@ -176,7 +176,7 @@ No other fields need to be filled out, therefore you may then click **Create Inc
 
 ## Special Handling Notes
 
-[Special handling notes](/handbook/support/workflows/customer_emergencies_workflows.html#special-handling-notes) are documented on the [customer emergencies on-call workflow](/handbook/support/workflows/customer_emergencies_workflows.html). As a Support Manager, you are empowered to handle these (and other) unique situations
+[Special handling notes](/handbook/support/workflows/customer_emergencies_workflows#special-handling-notes) are documented on the [customer emergencies on-call workflow](/handbook/support/workflows/customer_emergencies_workflows). As a Support Manager, you are empowered to handle these (and other) unique situations
 according to your judgment. If you need help or advice, don't hesitate to [escalate to unblock](/handbook/values/#escalate-to-unblock).
 
 ### Compromised instances

@@ -21,7 +21,7 @@ Manually setting a ticket's priority in the `Priority` field (not `Customer Prio
 
 ## Resetting Ticket Priority
 
-Everyone is responsible for setting priority during ticket [triage](/handbook/support/workflows/ticket_triage.html). If it comes to pass that a ticket has an incorrect priority, feel free to reset the priority.
+Everyone is responsible for setting priority during ticket [triage](/handbook/support/workflows/ticket_triage). If it comes to pass that a ticket has an incorrect priority, feel free to reset the priority.
 
 There is a Zendesk Macro [`General::Changed priority`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360093631494) that includes language and links that will be helpful if you need to do this.
 

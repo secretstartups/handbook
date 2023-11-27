@@ -10,7 +10,7 @@ category: GitLab Self-Managed licenses
 
 The support team is responsible for generating licenses when the automated systems are unable to do so or an error is made. This is done via [CustomerDot](https://customers.gitlab.com/admin) and the `Licenses` section.
 
-Generating a license may originate from an [internal request](/handbook/support/license-and-renewals/workflows/working_internal_requests.html) or may be a required action to help move a support ticket forward.
+Generating a license may originate from an [internal request](/handbook/support/license-and-renewals/workflows/working_internal_requests) or may be a required action to help move a support ticket forward.
 
 In both cases, CustomersDot will automatically email the license to the customer directly after creation. Unless the circumstances require, we should not send the licenses to any GitLab employee. Exceptions may include air-gapped installs or other situations where the customer cannot receive the license via the email.
 

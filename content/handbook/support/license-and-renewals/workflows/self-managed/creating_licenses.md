@@ -45,7 +45,7 @@ To re-issue a license:
 
 The license should be emailed out immediately. Please note that a license should always be sent to the end user.
 Do not email the license to a Gitlab team member or a reseller.
-**Note:** If you want to send the license to a different email address use [this handbook page](/handbook/support/license-and-renewals/workflows/self-managed/sending_license_to_different_email.html) instead.
+**Note:** If you want to send the license to a different email address use [this handbook page](/handbook/support/license-and-renewals/workflows/self-managed/sending_license_to_different_email) instead.
 
 When an existing license isn't available to duplicate, use the [create new license section](#create-a-new-license).
 

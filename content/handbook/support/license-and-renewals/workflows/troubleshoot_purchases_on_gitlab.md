@@ -160,7 +160,7 @@ please report if you encounter it again.
       - Check the listed products whose `Start Date` is 1 year ago. These products will have expired.
       - Check the Title of the product that is usually located above the subscription name (A-S000xxxx). If this title is the same as the `Product Name` listed in the table, then it is **NOT** linked. Otherwise, this title displays the **Name of the group** (not the [namespace](https://docs.gitlab.com/ee/user/group/#namespaces)) that it is linked to.
       - Confirm the subscription name of the product whose title shows the customer's namespace. You will use the **Subscription Name** in the next step
-   1. Open the [Clear Subscription form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/clear_subscription.html) to unlink the expired subscription:
+   1. Open the [Clear Subscription form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/clear_subscription) to unlink the expired subscription:
       - Enter your GitLab username
       - Enter the **Subscription Name**
       - Click `Send`

@@ -10,16 +10,16 @@ description: Learning Pathways available to Support team members
 
 ## Support Learning Pathways
 
-All the learning pathways we have in Support are listed [here](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html). Each pathway contains a set of modules, and a module may reside in multiple pathways.
+All the learning pathways we have in Support are listed [here](https://gitlab-com.gitlab.io/support/team/skills-by-subject). Each pathway contains a set of modules, and a module may reside in multiple pathways.
 
 To create an issue for yourself with one of the module templates:
 
-- Click on the module you want to pursue from the [Skills Catalog](https://gitlab-com.gitlab.io/support/team/skills-catalog.html) page
+- Click on the module you want to pursue from the [Skills Catalog](https://gitlab-com.gitlab.io/support/team/skills-catalog) page
 - Title it as ***Your Name*: *Module Name***
 - Assign it to yourself
 - Now you're all set to follow the instructions in the module!
 
-**NOTE:** Contact your [Onboarding Buddy](/handbook/support/training/onboarding_buddy.html) if you have any questions about these pathways. Buddies are always happy to help!
+**NOTE:** Contact your [Onboarding Buddy](/handbook/support/training/onboarding_buddy) if you have any questions about these pathways. Buddies are always happy to help!
 
 ## Support hybrid model
 

@@ -18,7 +18,7 @@ As a Support Manager at GitLab, you will be focusing on the following things:
 
 You can read more about the role below:
 
-- [Support Manager Responsibilities](/handbook/support/managers/manager-responsibilities.html)
+- [Support Manager Responsibilities](/handbook/support/managers/manager-responsibilities)
 - [Support Management Job Family](/job-families/engineering/support-management/)
 
 ### Regional Variations
@@ -35,7 +35,7 @@ The Support Team uses [Epics](https://gitlab.com/groups/gitlab-com/support/-/epi
 
 ## Support Leadership Meetings
 
-As a larger leadership team, it's important that we remain in constant communication to ensure that we're building relationships and avoiding siloing. [You can read more about how we run our Leadership syncs in our handbook.](/handbook/support/managers/leadership-sync.html)
+As a larger leadership team, it's important that we remain in constant communication to ensure that we're building relationships and avoiding siloing. [You can read more about how we run our Leadership syncs in our handbook.](/handbook/support/managers/leadership-sync)
 
 ### Senior Leadership Meetings
 
@@ -43,12 +43,12 @@ While managers won't generally directly participate in Senior Leadership Meeting
 
 ## Working with your team
 
-1. [Getting To Know Your Team Members](/handbook/support/managers/getting-to-know-you.html)
-1. [Support 1-1s](/handbook/support/managers/support-1-1s.html) - guidance on conducting 1 to 1 calls.
+1. [Getting To Know Your Team Members](/handbook/support/managers/getting-to-know-you)
+1. [Support 1-1s](/handbook/support/managers/support-1-1s) - guidance on conducting 1 to 1 calls.
 
 ## Hiring
 
-See [Support Hiring](hiring.html)
+See [Support Hiring](/handbook/support/managers/hiring)
 
 ## Promotions
 
@@ -98,9 +98,9 @@ The purpose of the group will be unique to each situation that triggers it, but 
 - form testable statements (e.g. *FRT has gone down because a lot of people have taken vacation*)
 - gather and analyze data that falsify those statements (e.g. *After taking a look at PTO data, we can see that we've had a consistent 90% coverage for the period in question, which is consistent with other times in the year*)
 - build a set of recommendations based on the data for how we can achieve consistent results
-- document *how* they analyzed their hypothesis and include it in [Hypothesis and Actions](metrics-analysis/actions.html)
+- document *how* they analyzed their hypothesis and include it in [Hypothesis and Actions](/handbook/support/managers/metrics-analysis/actions)
 
-These criteria and actions came from the [Metrics Analysis Workgroup](metrics-analysis/index.html).
+These criteria and actions came from the [Metrics Analysis Workgroup](/handbook/support/managers/metrics-analysis/index).
 
 ### Forming a Group
 

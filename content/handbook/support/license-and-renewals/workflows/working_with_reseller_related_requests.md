@@ -11,7 +11,7 @@ description: This is a guide on how to handle requests involving Reseller.
 ## Overview
 
 Reseller is another word for [Channel Partner](https://about.gitlab.com/handbook/resellers/).
-Note that an [Alliance Partner](/handbook/support/partnerships/alliance.html)
+Note that an [Alliance Partner](/handbook/support/partnerships/alliance)
 is different from a Channel Partner, and is **not** a reseller. See the
 [GitLab Alliances Handbook Page](/handbook/alliances/) and the
 [Internal Alliances Handbook Page](https://internal.gitlab.com/handbook/alliances/)
@@ -59,9 +59,9 @@ If a reseller partner needs to have the end-user contact details updated (who sh
 
 ### Handling reseller customers' requests for direct renewal
 
-To assist a customer who requests to renew their subscription directly with GitLab instead of through their reseller, follow the [working with sales workflow](/handbook/support/license-and-renewals/workflows/working_with_sales.html) and ensure you mention that the customer first had a Reseller purchase.
+To assist a customer who requests to renew their subscription directly with GitLab instead of through their reseller, follow the [working with sales workflow](/handbook/support/license-and-renewals/workflows/working_with_sales) and ensure you mention that the customer first had a Reseller purchase.
 
-If a customer with a reseller purchase decides to make a new purchase on a different account, their subscription would be a new purchase instead of a renewal. The license generated would therefore not include the previous subscription counts. Follow the [troubleshooting license upload errors](/handbook/support/license-and-renewals/workflows/self-managed/troubleshoot_license_upload_issues.html) workflow to move the ticket forward.
+If a customer with a reseller purchase decides to make a new purchase on a different account, their subscription would be a new purchase instead of a renewal. The license generated would therefore not include the previous subscription counts. Follow the [troubleshooting license upload errors](/handbook/support/license-and-renewals/workflows/self-managed/troubleshoot_license_upload_issues) workflow to move the ticket forward.
 
 ### More Reseller Workflows
 

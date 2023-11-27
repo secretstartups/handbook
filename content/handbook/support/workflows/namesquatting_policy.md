@@ -52,7 +52,7 @@ If the namespace owner makes a response (don’t remove my namespace) follow the
 
   <p>Hi,</p>
 
-  <p>Thank you for confirming that you wish to maintain control of the requested namespace.  Per our [Name Squatting Policy](/handbook/support/workflows/namesquatting_policy.html#namespace-owner-responded), we have cancelled this request and will not release your namespace.</p>
+  <p>Thank you for confirming that you wish to maintain control of the requested namespace.  Per our [Name Squatting Policy](https://about.gitlab.com/handbook/support/workflows/namesquatting_policy#namespace-owner-responded), we have cancelled this request and will not release your namespace.</p>
 
   <p>I'll mark this ticket as solved, please reach out if you have any further questions.</p>
 </details>
@@ -74,14 +74,14 @@ If the request is successful, follow these steps:
 For users, change the owner's username with [Chatops](https://docs.gitlab.com/ee/development/chatops_on_gitlabcom.html):
 
 1. In Slack, run `/chatops run user idle <owner_username>`.
-1. Add an [Admin note](/handbook/support/workflows/admin_note.html).
+1. Add an [Admin note](/handbook/support/workflows/admin_note).
 
 If you'd prefer to use admin, or for groups, rename the owner's namespace with these steps:
 
 1. Navigate to the namespace in admin - [users](https://gitlab.com/admin/users) or [groups](https://gitlab.com/admin/groups)
 1. Select “Edit” on the profile.
 1. Append "_idle" to the username in case of a user, or to the group URL in case of a group.
-1. Add an [Admin note](/handbook/support/workflows/admin_note.html).
+1. Add an [Admin note](/handbook/support/workflows/admin_note).
 1. Save changes.
 
 In Zendesk:

@@ -146,7 +146,7 @@ If they want to pause, put the ticket on-hold. Otherwise:
    1. Work to resolve and close as many of your assigned tickets as possible.
    1. Contribute more to first responses and other people's tickets - internal comments, pairing
       sessions - to make up for not taking new tickets of your own.
-1. Follow the [OOO Ticket Management](/handbook/support/workflows/ooo-ticket-management.html)
+1. Follow the [OOO Ticket Management](/handbook/support/workflows/ooo-ticket-management)
    process to arrange for others to take care of your tickets in your absence.
 1. Update your [GitLab status](https://docs.gitlab.com/ee/user/profile/index.html#set-your-current-status) to ensure you're not auto-assigned to GDPR requests:
 

@@ -13,7 +13,7 @@ See also [opstrace#1949](https://gitlab.com/gitlab-org/opstrace/opstrace/-/issue
 
 A standard response is available as a macro: [`Support::SaaS::Temp IP Ban`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360045599533))
 
-Please also see [the log requests workflow](/handbook/support/workflows/log_requests.html) for what information we can provide when responding.
+Please also see [the log requests workflow](/handbook/support/workflows/log_requests) for what information we can provide when responding.
 
 ## Searching
 

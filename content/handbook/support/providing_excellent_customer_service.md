@@ -53,7 +53,7 @@ do not promise that it will be. See more in our [documentation style-guide](http
 
 When customers are putting negative emotions into ticket communications, refer
 to the handbook entry on
-[how to keep a ticket moving toward resolution when emotions are getting involved](/handbook/support/workflows/emotionally-charged-tickets.html)
+[how to keep a ticket moving toward resolution when emotions are getting involved](/handbook/support/workflows/emotionally-charged-tickets)
 for helpful tips and guidance.
 
 ## A ticket is close to breaching; I need more time for my full reply
