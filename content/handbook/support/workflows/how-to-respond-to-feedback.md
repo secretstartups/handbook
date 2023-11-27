@@ -77,7 +77,7 @@ issue within 7 days of its creation.
 
 ## Workflows for reviewing feedback
 
-Our [Feedback and Complaints handbook page](/handbook/support/workflows/feedbacks_and_complaints.html) provides general guidance on assessing and responding to feedback.
+Our [Feedback and Complaints handbook page](/handbook/support/workflows/feedbacks_and_complaints) provides general guidance on assessing and responding to feedback.
 
 ## Handling "Good" Reviews
 

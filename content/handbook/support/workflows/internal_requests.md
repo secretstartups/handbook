@@ -73,7 +73,7 @@ GitLab team members should use [the Contact Request template](https://gitlab.com
 
 Usually, these are assigned to [CMOC](/handbook/support/internal-support/#regarding-gitlab-support-plans-and-namespaces), but can also be completed by anyone with admin-level access to GitLab.com. `Admin Escalation` label is applied and everyone with admin access is supposed to be subscribed and working on such issues.
 
-See the [Sending notices workflow](/handbook/support/workflows/sending_notices.html) for complete instructions on how to contact users.
+See the [Sending notices workflow](/handbook/support/workflows/sending_notices) for complete instructions on how to contact users.
 
 ## Repo Size Limit Increases
 
@@ -100,7 +100,7 @@ See [internal wiki page](https://gitlab.com/gitlab-com/support/internal-requests
 
 There is a [generic template](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab.com%20Console%20Escalation) used to request an engineer with GitLab.com console access to take action.
 
-Before submitting a console escalation request, ensure that you perform [Account Ownership Verification](/handbook/support/workflows/account_verification.html) workflow for the following types of customer request:
+Before submitting a console escalation request, ensure that you perform [Account Ownership Verification](/handbook/support/workflows/account_verification) workflow for the following types of customer request:
 
 1. To extract and release information.
 1. To make changes to account(s).

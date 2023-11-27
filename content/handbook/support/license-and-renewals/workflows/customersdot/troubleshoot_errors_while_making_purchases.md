@@ -40,7 +40,7 @@ To find the error specifically related to a customer on sentry, try the followin
 
 You can access the CustomersDot production logs or staging logs in [Kibana](https://log.gprd.gitlab.net/) by filtering using `prdsub*` or `stgsub*` respectively.
 
-To have an idea on how to use and search Kibana, review the [Support Workflow's Kibana](/handbook/support/workflows/kibana.html) page.
+To have an idea on how to use and search Kibana, review the [Support Workflow's Kibana](/handbook/support/workflows/kibana) page.
 
 For purchase attempts made on CustomersDot, refer to the tips under [CustomersDot purchase errors in Kibana](/handbook/support/workflows/kibana.html#customersdot-purchase-errors).
 

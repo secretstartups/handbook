@@ -68,7 +68,7 @@ There are several reasons why Support cannot respond to customer-specific reques
 - When we are trying to solve a current customer problem, we frequently [search resolved tickets in Zendesk](/handbook/support/readiness/operations/docs/zendesk/searching/). Since Slack content is deleted after 90 days, we may lose valuable information if a customer's problem and/or the solutions to it are discussed in Slack instead of a Zendesk ticket.
 - We want to keep all of our records of a customer's technical support problems and their solutions in a single place (Zendesk).
 
-If you want to request that we place additional attention on an **existing** ticket or internal request, please use the [Support Ticket Attention Request Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/support_escalation/) ([handbook entry](/handbook/support/internal-support/support-ticket-attention-requests.html)).
+If you want to request that we place additional attention on an **existing** ticket or internal request, please use the [Support Ticket Attention Request Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/support_escalation/) ([handbook entry](/handbook/support/internal-support/support-ticket-attention-requests)).
 
 ### Requesting support for GitLab.com users that have account or login issues
 
@@ -316,7 +316,7 @@ any of these are true:
 - the ticket requires immediate intervention to address a high level of customer dissatisfaction
 - Support Management oversight is required in order to bring structure and focus to the situation
 
-[More about support ticket attention requests](/handbook/support/internal-support/support-ticket-attention-requests.html)
+[More about support ticket attention requests](/handbook/support/internal-support/support-ticket-attention-requests)
 
 Please open an **[account escalation](https://about.gitlab.com/handbook/customer-success/csm/escalations/)** if:
 
@@ -329,7 +329,7 @@ Please open an **emergency ticket** if:
 
 - a customer is facing a situation that meets our [Definitions of Support Impact](https://about.gitlab.com/support/definitions/#Definitions%20of%20Support%20Impact) for "Emergency"
 
-[More about how Support Engineers handle emergency tickets](/handbook/support/workflows/customer_emergencies_workflows.html)
+[More about how Support Engineers handle emergency tickets](/handbook/support/workflows/customer_emergencies_workflows)
 
 Please declare a **GitLab.com incident** if:
 

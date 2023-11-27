@@ -26,7 +26,7 @@ Indexes closely correlate for the most part with our [log structure](https://doc
 - `pubsub-pages-inf-gprd-*`
 - `pubsub-runner-inf-gprd-*`
 
-For example, if you're trying to track down failed logins you would search the index `pubsub-rails-inf-gprd-*`. To search for [`500` errors](/handbook/support/workflows/500_errors.html) involving a controller you'd search in `pubsub-rails-inf-gprd-*`, the default index.
+For example, if you're trying to track down failed logins you would search the index `pubsub-rails-inf-gprd-*`. To search for [`500` errors](/handbook/support/workflows/500_errors) involving a controller you'd search in `pubsub-rails-inf-gprd-*`, the default index.
 
 Along with the index, knowing *when* a specific error or event ocurred that you're trying to track down  is important and it's important to keep in mind that Kibana logs on GitLab.com persist for seven days. Kibana allows you to choose relative and absolute time ranges for search results and this can be changed by manipulating the date range:
 

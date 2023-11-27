@@ -21,7 +21,7 @@ Staff Support Engineers at GitLab will generally focus on the following things:
 
 You can read more about the role in:
 
-- [Support Engineer Responsibilities](/handbook/support/support-engineer-responsibilities.html).
+- [Support Engineer Responsibilities](/handbook/support/support-engineer-responsibilities).
 - [Support Career Path: Staff Engineer resources](/handbook/support/support-engineer-career-path.html#considerations-and-recommendations-1).
 
 ## Reporting structure

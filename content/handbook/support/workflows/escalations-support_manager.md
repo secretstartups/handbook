@@ -8,7 +8,7 @@ category: Manager
 
 This page guides Support Managers on the Support Manager DRI role for [Customer Account Escalations](https://about.gitlab.com/handbook/customer-success/csm/escalations/).
 
-An Account Escalation may be initiated by Support Engineering (Support Managers or Engineers) through [converting a customer emergency into an escalation](/handbook/support/workflows/emergency-to-escalation-process.html), or as the result of a [STAR](/handbook/support/internal-support/support-ticket-attention-requests.html). The Customer Success Team may also [initiate an Account Escalation](https://about.gitlab.com/handbook/customer-success/csm/escalations/#initiating-managing-and-closing-an-escalation), engaging the Support team for assistance, depending on the escalation type (not all Account Escalations require Support engagement) and [severity](https://about.gitlab.com/handbook/customer-success/csm/escalations/#definitions-of-severity-levels).
+An Account Escalation may be initiated by Support Engineering (Support Managers or Engineers) through [converting a customer emergency into an escalation](/handbook/support/workflows/emergency-to-escalation-process), or as the result of a [STAR](/handbook/support/internal-support/support-ticket-attention-requests). The Customer Success Team may also [initiate an Account Escalation](https://about.gitlab.com/handbook/customer-success/csm/escalations/#initiating-managing-and-closing-an-escalation), engaging the Support team for assistance, depending on the escalation type (not all Account Escalations require Support engagement) and [severity](https://about.gitlab.com/handbook/customer-success/csm/escalations/#definitions-of-severity-levels).
 
 ### Account Escalation Team
 
@@ -146,7 +146,7 @@ Before closing the Account Escalation:
 
 - How do we handle emergency tickets opened by the customer during an Account Escalation?
 
-    > The Lead Support Engineer's main priority during their workday is the escalated customer. In general, an escalated customer should **not** trigger the [regular emergency process](/handbook/support/workflows/customer_emergencies_workflows.html). The Lead Support Engineer will work directly with the customer, and if necessary, request additional resources. The Account Owner must notify support of the emergency in the `#a_customer_escalation` channel.
+    > The Lead Support Engineer's main priority during their workday is the escalated customer. In general, an escalated customer should **not** trigger the [regular emergency process](/handbook/support/workflows/customer_emergencies_workflows). The Lead Support Engineer will work directly with the customer, and if necessary, request additional resources. The Account Owner must notify support of the emergency in the `#a_customer_escalation` channel.
 
 - What if an emergency occurs out-of-hours for the Lead Engineer?
 

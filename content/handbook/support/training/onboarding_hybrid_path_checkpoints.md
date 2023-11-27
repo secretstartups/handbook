@@ -16,7 +16,7 @@ Checkpoints for new starters who are working through their support hybrid learni
 
 - You understand GitLab's mission, vision, values, and culture
 - You understand what is expected of you in your role and what it means to be a successful [support engineer](/job-families/engineering/support-engineer/#support-engineer)
-- You've met most of your region (if you're in EMEA or APAC) in the [Support Team call](/handbook/support/workflows/team/weekly_team_call.html)
+- You've met most of your region (if you're in EMEA or APAC) in the [Support Team call](/handbook/support/workflows/team/weekly_team_call)
 - You've met up for '[coffee](/handbook/company/culture/all-remote/informal-communication/#coffee-chats)' with some of your teammates
 - You understand how to make edits to a handbook page
 - You've completed your compliance tasks in the Onboarding Issue

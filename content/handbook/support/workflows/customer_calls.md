@@ -92,7 +92,7 @@ Our customer-facing [Statement of Support section on video calls](/support/#phon
 
 1. **The customer asks for a call**: One of the fastest ways to get a negative SSAT rating is to flat out refuse a call. You don't have to immediately jump to a call. However, you should strongly consider communicating your availability and how to gather and upload any information that will make the call effective.
 1. **The ticket has failed to progress after several interactions**: If a customer isn't providing needed data, is having trouble describing the problem or is signalling that our urgency isn't matching their urgency in resolving the problem you should strongly consider moving to a call.
-1. **The ticket has received a [STAR](/handbook/support/internal-support/support-ticket-attention-requests.html)**: STARred tickets represent situations that have been highlighted where SSAT has been threatened by some factors within or outside of our control. Moving to a call may help restore the relationship. Providing quick, high quality counsel may calm customer concerns.
+1. **The ticket has received a [STAR](/handbook/support/internal-support/support-ticket-attention-requests)**: STARred tickets represent situations that have been highlighted where SSAT has been threatened by some factors within or outside of our control. Moving to a call may help restore the relationship. Providing quick, high quality counsel may calm customer concerns.
 1. **There's a critical missing element between the customer's reported experience and your reproduction**: Sometimes a customer leaves out an important contextual detail that isn't within your immediate troubleshooting tree. Moving to a call can help make sure you're both starting from the same spot.
 1. **The customer's tone within the ticket has shifted negatively**: Sometimes offering and initiating a call can show our commitment to solving the customer's problem. Talking with a technical peer helps build trust and empathy on both sides.
 1. **The next steps in the ticket are complex or have a branching decision tree**: There can be points in the troubleshooting process where it's best to switch into the more highly interactive communications mode of a call so that you can provide direction, observe results and provide real-time feedback until it makes sense to go back to async.
@@ -139,7 +139,7 @@ A Reset & Review call is an opportunity for an engineer to connect with a custom
 
 #### Purpose
 
-Premium Support customers may request a call as a part of upgrade assistance. Read more about this in the dedicated [Upgrade Assistance workflow](/handbook/support/workflows/upgrade-assistance.html).
+Premium Support customers may request a call as a part of upgrade assistance. Read more about this in the dedicated [Upgrade Assistance workflow](/handbook/support/workflows/upgrade-assistance).
 
 #### Duration
 

@@ -10,7 +10,7 @@ At GitLab we have [weekly 1-1s](/handbook/leadership/1-1/).
 
 The **aim** of this page is to:
 
-1. Encourage consistency across the global Support team when discussing [Support Engineer Responsibilities](/handbook/support/support-engineer-responsibilities.html)
+1. Encourage consistency across the global Support team when discussing [Support Engineer Responsibilities](/handbook/support/support-engineer-responsibilities)
 1. Help make work visible
 
 This page **does not**:
@@ -91,7 +91,7 @@ There may be activities that the Support Engineer would like to discuss that are
 
 - Ask whether the SE has had a day off in the past month, and if not encourage them to plan for one soon
 - Ask whether they have upcoming time off, and if they do:
-  - remind them to review the [Support Team Member Time Off page](/handbook/support/support-time-off.html) and then to get appropriate coverage for their tickets and roles
+  - remind them to review the [Support Team Member Time Off page](/handbook/support/support-time-off) and then to get appropriate coverage for their tickets and roles
   - ask them if they have any questions about what to do
   - set a reminder for the day before the first PTO date to check with the SE if they've not yet reported to you on their progress in getting coverage
 - If they've had time off recently, ask whether they made all necessary coverage arrangements and discuss any problems that either of you observed

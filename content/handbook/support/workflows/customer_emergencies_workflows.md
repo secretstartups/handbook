@@ -54,7 +54,7 @@ Try to communicate complete ideas rather than snippets of thought. Something lik
 
 Take and share screenshots of useful info the customer is showing you. Make sure you're not sharing anything sensitive. Let the customer know you're taking screenshots: "Could you pause there? I want to screenshot this part to share with my team".
 
-**Note:** You may sometimes be required to contact GitLab users on behalf of another GitLab team (such as the SIRT team). Please follow the [Sending Notices workflow](/handbook/support/workflows/sending_notices.html) to action these requests.
+**Note:** You may sometimes be required to contact GitLab users on behalf of another GitLab team (such as the SIRT team). Please follow the [Sending Notices workflow](/handbook/support/workflows/sending_notices) to action these requests.
 
 ### Determine if the situation qualifies as an emergency
 
@@ -189,7 +189,7 @@ Changes to the backup policy (including adding/removing members) can be made by 
 In the event that a concurrent emergency comes through while you are still working on the current emergency:
 
 1. **You**: **Escalate** the page, instead of acknowledging/resolving it. The Support Manager is responsible for finding an engineer to own the new emergency page.
-1. **Support Manager**: Assess the situation. It's possible to [initiate a page of the backup pool](/handbook/support/workflows/support_manager-on-call.html) to request assistance from backup engineers if the situation calls for it.
+1. **Support Manager**: Assess the situation. It's possible to [initiate a page of the backup pool](/handbook/support/workflows/support_manager-on-call) to request assistance from backup engineers if the situation calls for it.
 1. **Backup Support Engineer**: Acknowledge and resolve the emergency page to indicate that you are assisting the customer with the case.
 
 ### Situations that Might or Might not Be Emergencies
@@ -369,8 +369,8 @@ During a SaaS Emergency, you have additional visibility into problems that a cus
 
 Review:
 
-- [Using Kibana](/handbook/support/workflows/kibana.html) - explore GitLab.com log files to find the errors customers are encountering.
-- [Using Sentry](/handbook/support/workflows/sentry.html) - get access to the full stacktrace of errors a customer might encounter.
+- [Using Kibana](/handbook/support/workflows/kibana) - explore GitLab.com log files to find the errors customers are encountering.
+- [Using Sentry](/handbook/support/workflows/sentry) - get access to the full stacktrace of errors a customer might encounter.
 
 We're expecting, broadly that emergencies will fall into one of five categories:
 

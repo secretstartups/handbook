@@ -135,7 +135,7 @@ To extend a trial SaaS extension.
 
 1. The NFR partner needs to either signup for a trial at: <https://about.gitlab.com/free-trial/> or start a trial from within their current GitLab namespace.
 1. Once they have a valid namespace for their trial they need to provide this to support.
-1. The support engineer requires [console access to CustomersDot](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html) to GitLab Rails to update the namespace.
+1. The support engineer requires [console access to CustomersDot](/handbook/support/license-and-renewals/workflows/customersdot/customer_console) to GitLab Rails to update the namespace.
 1. Within the CustomersDot rails console you should execute the command: ``` view_namespace '<group name space>' ```
 1. This will return the partners namespace information and order information. Get the order 'id' (i.e. 123456), you will need it for the next command.
 

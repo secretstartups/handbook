@@ -45,15 +45,15 @@ When you Force Associate a subscription, Compute Minute usage is not reset.  For
 
 While associating the subscription with a namespace if there are any errors(example: errors like: `unable to associate the subscription as the destination namespace is already associated with a subscription`), we can unlink the subscription associated with that namespace.
 
-[Clear subscription form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/clear_subscription.html) is used to clear the subscription associated with that namespace. Please follow the below steps:
+[Clear subscription form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/clear_subscription) is used to clear the subscription associated with that namespace. Please follow the below steps:
 
-Navigate to the [Clear subscription form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/clear_subscription.html) page -> enter the ```Subscription Name``` and submit the form. This will create an internal issue and updates the issue description with the response of the force association script
+Navigate to the [Clear subscription form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/clear_subscription) page -> enter the ```Subscription Name``` and submit the form. This will create an internal issue and updates the issue description with the response of the force association script
 
 - If it's successful then the namespace will be switched to free plan: `"name"=>"Free"` -> You can also verify the namespace and close the issue.
 - If it's not successful then add the `~Console Escalation - customers` label and this will be investigated by the engineers with console access.
 
  ***
- FYI: You can read more about using the Zendesk Mechanizer app for Licensing & Renewals tickets [here](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html).
+ FYI: You can read more about using the Zendesk Mechanizer app for Licensing & Renewals tickets [here](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer).
 
 ## Customer self-serve: associating the subscription and namespace
 
@@ -82,5 +82,5 @@ Associating a group with a subscription in CustomersDot:
 ### If the user does not see the subscription in CustomersDot
 
 If the user doesn't see a subscription in CustomersDot,
-follow the [associating purchases workflow](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html)
+follow the [associating purchases workflow](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases)
 to give the user access to the subscription.

@@ -69,7 +69,7 @@ Users should initiate a request on their own by clicking on the following link: 
 
 ### Emergency Weekend Licenses
 
-If you're on call and you need a license generated, but don't have access to the CustomersDot interface, follow the [Weekend Emergencies - License Request](/handbook/support/license-and-renewals/workflows/self-managed/license_for_weekend_emergencies.html) workflow.
+If you're on call and you need a license generated, but don't have access to the CustomersDot interface, follow the [Weekend Emergencies - License Request](/handbook/support/license-and-renewals/workflows/self-managed/license_for_weekend_emergencies) workflow.
 
 ### SFDC generated trial license extensions
 
