@@ -42,7 +42,7 @@ You can access the CustomersDot production logs or staging logs in [Kibana](http
 
 To have an idea on how to use and search Kibana, review the [Support Workflow's Kibana](/handbook/support/workflows/kibana) page.
 
-For purchase attempts made on CustomersDot, refer to the tips under [CustomersDot purchase errors in Kibana](/handbook/support/workflows/kibana.html#customersdot-purchase-errors).
+For purchase attempts made on CustomersDot, refer to the tips under [CustomersDot purchase errors in Kibana](/handbook/support/workflows/kibana#customersdot-purchase-errors).
 
 ### Getting error messages from GCP Logs Explorer
 
@@ -80,7 +80,7 @@ In the Log Fields panel, you can also choose specific log files, as well as seve
 
 Sometimes a customer reports that they did not receive an email from the portal, such as a password reset request or new account confirmation.  GitLab uses Mailgun as a service to send outgoing mail. We can login to Mailgun to view the message logs, and when appropriate, remove suppressions.
 
-The general workflow that Support uses for this process is documented in the [Support handbook page on confirmation emails](/handbook/support/workflows/confirmation_emails.html#check-mailgun), and that page has a full description on navigating the Mailgun dashboard and searching through the logs.
+The general workflow that Support uses for this process is documented in the [Support handbook page on confirmation emails](/handbook/support/workflows/confirmation_emails#check-mailgun), and that page has a full description on navigating the Mailgun dashboard and searching through the logs.
 
 The process here is much the same, but since we are investigating mail from CustomerDot, in Step 4 of the general workflow ensure that `customers.gitlab.com` is selected as the domain to search under.
 

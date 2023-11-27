@@ -19,7 +19,7 @@ As part of [GitLab Support on-call](/handbook/support/on-call/), Support Manager
 1. [Handling Support Ticket Attention Requests](/handbook/support/internal-support/support-ticket-attention-requests) during [Global Support Hours](https://about.gitlab.com/support/#hours-of-operation)
 1. Acting as a [notification point for security incidents](#act-as-a-notification-point-for-security-incidents)
 1. Help avoid SLA breaches. See [Working on Tickets](/handbook/support/workflows/working-on-tickets) for details.
-1. Ensure any ticket or call regional handover requests [you are mentioned on](/handbook/support/workflows/working-on-tickets.html#assigning-a-ticket-with-a-different-preferred-region), gets an assignee in your region
+1. Ensure any ticket or call regional handover requests [you are mentioned on](/handbook/support/workflows/working-on-tickets#assigning-a-ticket-with-a-different-preferred-region), gets an assignee in your region
 
 **Note:** You (or the CMOC/CEOC) may sometimes be required to contact GitLab users on behalf of another GitLab team (such as the SIRT team). Please follow the [Sending Notices workflow](/handbook/support/workflows/sending_notices) to action these requests.
 
@@ -28,7 +28,7 @@ As part of [GitLab Support on-call](/handbook/support/on-call/), Support Manager
 The [Support Engineer on-call](/handbook/support/on-call/) is the first responder for customer emergencies. Managers support this work as follows:
 
 - Act as the next-tier escalation point for emergency pages that get missed (you will be notified automatically by PagerDuty).
-- Respond to new emergency requests by helping the on-call engineer [determine if the situation qualifies as an emergency](/handbook/support/workflows/customer_emergencies_workflows.html#determine-if-the-situation-qualifies-as-an-emergency) or should be [granted an exception](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria)
+- Respond to new emergency requests by helping the on-call engineer [determine if the situation qualifies as an emergency](/handbook/support/workflows/customer_emergencies_workflows#determine-if-the-situation-qualifies-as-an-emergency) or should be [granted an exception](/handbook/support/workflows/emergency_exception_workflow#exception-criteria)
 - Assist the on-call engineer in difficult communications with the customer,
   such as [telling them that their request does not qualify as an emergency]({{< ref "customer_emergencies_workflows#communicate-the-priority-downgrade" >}})
 - Be aware of ongoing emergencies and assist or lead in our initial response as appropriate
@@ -40,7 +40,7 @@ The [Support Engineer on-call](/handbook/support/on-call/) is the first responde
 
 At times, an emergency page may come in for a situation that is not quite yet an emergency, but may quickly become one. In this situation, we want to assist the customer in preventing the situation from becoming an emergency. If this situation arises during working hours, the Support Engineer on-call may reach out for assistance. The on-call manager should respond by finding additional staff to handle the request as a `high` priority ticket that requires an immediate response. If this situation arises on a weekend, the Support Engineer on-call will reach out to the manager on-call if they are handling another emergency. In that case, the manager on-call should assist or attempt to find additional staff to assist.
 
-See more examples of [situations that might be emergencies](/handbook/support/workflows/emergency_exception_workflow.html#examples-of-situations-that-might-or-might-not-qualify-for-an-exception) and [situations that are not emergencies](/handbook/support/workflows/emergency_exception_workflow.html#situations-that-are-not-emergencies).
+See more examples of [situations that might be emergencies](/handbook/support/workflows/emergency_exception_workflow#examples-of-situations-that-might-or-might-not-qualify-for-an-exception) and [situations that are not emergencies](/handbook/support/workflows/emergency_exception_workflow#situations-that-are-not-emergencies).
 
 ### Paging backup engineers on weekends in APAC
 
@@ -181,7 +181,7 @@ according to your judgment. If you need help or advice, don't hesitate to [escal
 
 ### Compromised instances
 
-We advise Support Engineers to contact a Support Manager before offering a call in the case of a [compromised instance](/handbook/support/workflows/customer_emergencies_workflows.html#compromised-instances).
+We advise Support Engineers to contact a Support Manager before offering a call in the case of a [compromised instance](/handbook/support/workflows/customer_emergencies_workflows#compromised-instances).
 
 Support's role in these cases is to help the customer get to a good, known working state as quickly as possible. The fastest route will be to restore to a previously known good state (most often by restoring from a backup). Customers with an instance in this state will have other concerns though, and likely be in a heightened emotional state:
 

@@ -343,7 +343,7 @@ Please declare a **security incident** if:
 
 - you have information about a critical issues that may affect the confidentiality, integrity, or availability of GitLab services or data
 
-[More about Security incidents](/handbook/security/security-operations/sirt/engaging-security-on-call.html#incident-severity)
+[More about Security incidents](/handbook/security/security-operations/sirt/engaging-security-on-call#incident-severity)
 
 ---
 

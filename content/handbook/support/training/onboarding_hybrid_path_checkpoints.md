@@ -38,7 +38,7 @@ Checkpoints for new starters who are working through their support hybrid learni
 ### Working in Support at GitLab
 
 - You are attending [crush sessions and started pairing](https://gitlab.com/gitlab-com/support/support-pairing/-/issues/?sort=popularity&state=all) for your training modules
-- You understand how to triage, assign and [provide a first response on a ticket](/handbook/support/workflows/working-on-tickets.html#providing-a-first-response-to-a-ticket) within your SGG
+- You understand how to triage, assign and [provide a first response on a ticket](/handbook/support/workflows/working-on-tickets#providing-a-first-response-to-a-ticket) within your SGG
 - You understand the types of customer tickets that are being worked on by support engineers
 - You understand what your role as a support engineer entails
 - You know which teams and roles outside of Support work closely with Support Engineers
@@ -76,11 +76,11 @@ Checkpoints for new starters who are working through their support hybrid learni
 - You have been DRI on upgrade assistance tickets
 - You are comfortable initiating customer calls as necessary
 - You have updated your Areas of Focus in the Support Team Page
-- You have discussed which on-call roster you will be working towards ([CMOC](/handbook/support/workflows/cmoc_workflows.html#contacting-a-user) or [Customer Emergencies](/handbook/on-call/#sts=Customer%20Emergency%20On-Call%20Rotation)) with your manager
+- You have discussed which on-call roster you will be working towards ([CMOC](/handbook/support/workflows/cmoc_workflows#contacting-a-user) or [Customer Emergencies](/handbook/on-call/#sts=Customer%20Emergency%20On-Call%20Rotation)) with your manager
 
 ### On-call, Onboarding Buddy and Technical Assessment Interview Rotations
 
-- You have begun shadowing for addition to the on-call roster for [Customer Emergencies](/handbook/on-call/#sts=Customer%20Emergency%20On-Call%20Rotation) or [CMOC](/handbook/support/workflows/cmoc_workflows.html#contacting-a-user)
+- You have begun shadowing for addition to the on-call roster for [Customer Emergencies](/handbook/on-call/#sts=Customer%20Emergency%20On-Call%20Rotation) or [CMOC](/handbook/support/workflows/cmoc_workflows#contacting-a-user)
 - You are ready to be nominated as an Onboarding buddy for new team members
 - You are working towards completion of the Technical Assessment Interview module
 - You have scheduled in [The 90-Day Checkin](https://docs.google.com/document/d/1yTy8z0UQv84RmCkt3dLAYR8SWAXfcR7dcCnkixrbhKk/) discussion where several of your onboarding checklist items are reviewed

@@ -78,7 +78,7 @@ Check the user's activity page:
       - The user is unverified
       - The user has never logged in
       - The user has no data (No groups or projects)
-1. If the account **is** verified or data exists, inform the original requestor that the email is **not eligible** for release. They can [request an account deletion](/handbook/support/workflows/personal_data_access_account_deletion.html#zendesk) if necessary.
+1. If the account **is** verified or data exists, inform the original requestor that the email is **not eligible** for release. They can [request an account deletion](/handbook/support/workflows/personal_data_access_account_deletion#zendesk) if necessary.
 
 ### If eligible for email release
 

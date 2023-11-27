@@ -7,7 +7,7 @@ category: Handling tickets
 
 ## Improving Documentation
 
-As outlined in the [Documentation section](/handbook/support/workflows/how-to-respond-to-tickets.html#documentation) of the **How to Respond to Tickets** workflow, comprehensive documentation is a powerful tool for ticket deflection.
+As outlined in the [Documentation section](/handbook/support/workflows/how-to-respond-to-tickets#documentation) of the **How to Respond to Tickets** workflow, comprehensive documentation is a powerful tool for ticket deflection.
 
 > By taking a [docs-first](https://docs.gitlab.com/ee/development/documentation/styleguide/#docs-first-methodology) approach to answering, we can ensure that the documentation remains a highly useful [single source of truth](https://docs.gitlab.com/ee/development/documentation/styleguide/#documentation-is-the-single-source-of-truth-ssot). By building up a corpus of documentation informed by real-world problems, we help GitLab customers find the answers or solutions they need before they come into the queues.
 

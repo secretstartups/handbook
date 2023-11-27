@@ -55,7 +55,7 @@ We are equally responsible to ensure our team members are supported in their Git
 |  | Build strong working relationships with your colleagues in Support leadership through [informal communication](/handbook/company/culture/all-remote/informal-communication/)
 |  | [Conduct weekly 1:1s](#conducting-weekly-11-meetings) with each direct report |
 |  | Recommend projects, training, and leadership roles for your direct reports |
-|  | [Support your direct reports](/handbook/support/support-stable-counterparts.html#expectations-from-managers) who are [Support Stable Counterparts](/handbook/support/#support-stable-counterparts) or [Cross-functional non-product counterparts](/handbook/support/#cross-functional-non-product-counterparts)
+|  | [Support your direct reports](/handbook/support/support-stable-counterparts#expectations-from-managers) who are [Support Stable Counterparts](/handbook/support/#support-stable-counterparts) or [Cross-functional non-product counterparts](/handbook/support/#cross-functional-non-product-counterparts)
 |  | Ensure regular professional/career development for each direct report |
 |  | Perform annual [360 Reviews](/handbook/people-group/360-feedback/) and Performance Factor Reviews (compensation) |
 |  | Conduct [Performance Factor reviews](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor) and [Compensation reviews](/handbook/total-rewards/compensation/compensation-review-cycle/)
@@ -100,9 +100,9 @@ Important Slack channels:
 
 Weekly 1:1 meetings are a crucial part of Remote Culture at GitLab. Refer to the [Support Engineer Responsibilities page](/handbook/support/support-engineer-responsibilities) to understand what your team members are aiming to achieve.
 
-1. [Review at least two tickets per team-member in 1:1 calls](/handbook/support/workflows/working-on-tickets.html#1-weekly-ticket-review). This helps maintain and improve quality (technical, communication and collaboration).
-1. Monitor for team members to have [around 50% to 60% of public replies to be on tickets that are assigned to them](/handbook/support/workflows/working-on-tickets.html#2-public-replies-on-your-assigned-tickets). Assigning tickets helps resolve customer problems quickly and efficiently as well as encouraging learning and collaboration.
-1. Help ensure your team members [meet the ticket baseline](/handbook/support/workflows/working-on-tickets.html#3-meet-the-ticket-baseline) for solved tickets, public replies, and internal notes for the type of tickets they are working on. This encourages the even distribution of ticket volume across the team.
+1. [Review at least two tickets per team-member in 1:1 calls](/handbook/support/workflows/working-on-tickets#1-weekly-ticket-review). This helps maintain and improve quality (technical, communication and collaboration).
+1. Monitor for team members to have [around 50% to 60% of public replies to be on tickets that are assigned to them](/handbook/support/workflows/working-on-tickets#2-public-replies-on-your-assigned-tickets). Assigning tickets helps resolve customer problems quickly and efficiently as well as encouraging learning and collaboration.
+1. Help ensure your team members [meet the ticket baseline](/handbook/support/workflows/working-on-tickets#3-meet-the-ticket-baseline) for solved tickets, public replies, and internal notes for the type of tickets they are working on. This encourages the even distribution of ticket volume across the team.
 1. Review notable Incidents/Emergencies and Customer Calls in 1:1 notes/meetings with your team members.
 1. Discuss [career development](/handbook/people-group/learning-and-development/career-development/) plans with team members at least once per quarter.
 

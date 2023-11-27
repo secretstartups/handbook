@@ -79,7 +79,7 @@ For enquiries relating to specific programs (that aren't otherwise handled by th
 
 GitLab's Community Programs team processess program applications according to [an automated workflow](/handbook/marketing/developer-relations/community-programs/automated-community-programs/). Review the handbook pages related to that workflow for additional details on how it works.
 
-To troubleshoot errors during the registration process, follow the [Troubleshoot Errors While Making Purchases on CustomersDot document](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases.html#getting-error-message-from-sentry).
+To troubleshoot errors during the registration process, follow the [Troubleshoot Errors While Making Purchases on CustomersDot document](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases#getting-error-message-from-sentry).
 
 **Note:** Since the customer has not signed up yet, there is no `user:customerID`. Use `user.ip:CustomerIP` instead.
 {: .alert .alert-info}

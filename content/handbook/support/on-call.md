@@ -175,8 +175,8 @@ Generally: if there's a situation that occurred (or is actively happening) durin
 
 Some rotations have specific handover procedures:
 
-- [CMOC - End of Shift Handover Procedure](/handbook/support/workflows/cmoc_workflows.html#end-of-shift-handover-procedure)
-- [CEOC - Post-call](/handbook/support/workflows/customer_emergencies_workflows.html#post-call)
+- [CMOC - End of Shift Handover Procedure](/handbook/support/workflows/cmoc_workflows#end-of-shift-handover-procedure)
+- [CEOC - Post-call](/handbook/support/workflows/customer_emergencies_workflows#post-call)
 
 ### Viewing all on-call pages in one place
 

@@ -29,7 +29,7 @@ We are allowed to issue trial licenses because they:
 
 ### How to extend an expired or soon to expire license
 
-**Note:** Unlike [SaaS](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials), a Self-managed extension does **not** require a pre-existing Trial license. Instead, start with the current almost-expired license, or most-recent expired license.
+**Note:** Unlike [SaaS](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change#extending-trials), a Self-managed extension does **not** require a pre-existing Trial license. Instead, start with the current almost-expired license, or most-recent expired license.
 With the release of [Temporary renewal extensions](/handbook/product/fulfillment-guide/#temporary-renewal-extensions), Sales are expected to use the [SFDC process](#sales-ae-requests-for-a-manual-temporary-extension) first before requesting L&R Support to manually generate a license.
 
 1. Open the expired or soon to expire license.
@@ -60,7 +60,7 @@ With the release of [Temporary renewal extensions](/handbook/product/fulfillment
 1. Set `Notes` to the ticket or issue URL.
 1. Click `Save`. The license will be automatically sent to the email specified in the `Email` field.
 
-If you need to [send a trial license to another contact](/handbook/support/license-and-renewals/workflows/self-managed/sending_license_to_different_email.html#overview),
+If you need to [send a trial license to another contact](/handbook/support/license-and-renewals/workflows/self-managed/sending_license_to_different_email#overview),
 use the `Forward license email` tab after saving the new license.
 
 ### How to create a new trial license

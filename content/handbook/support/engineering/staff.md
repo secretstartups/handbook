@@ -8,7 +8,7 @@ description: Staff Support Engineer activities and references
 This page is not meant to cover everything one needs to know about a Staff Support Engineer.
 Instead, it's meant to cover things that are specific to the role.
 
-You can learn about the promotion process to the Staff level in [Support Engineer Career Path](/handbook/support/support-engineer-career-path.html#path-to-promotion-staff-engineering).
+You can learn about the promotion process to the Staff level in [Support Engineer Career Path](/handbook/support/support-engineer-career-path#path-to-promotion-staff-engineering).
 
 ## Role and Responsibilities
 
@@ -22,7 +22,7 @@ Staff Support Engineers at GitLab will generally focus on the following things:
 You can read more about the role in:
 
 - [Support Engineer Responsibilities](/handbook/support/support-engineer-responsibilities).
-- [Support Career Path: Staff Engineer resources](/handbook/support/support-engineer-career-path.html#considerations-and-recommendations-1).
+- [Support Career Path: Staff Engineer resources](/handbook/support/support-engineer-career-path#considerations-and-recommendations-1).
 
 ## Reporting structure
 

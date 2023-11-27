@@ -27,7 +27,7 @@ When a user has been identified as locked, you can use the [`Support::SaaS::Acco
 - There have been 5 or more failed login attempts within 10 minutes.
 - Accounts are unlocked automatically after a 10 minute waiting period.
 
-If the user does not receive a verification email with the 6-digit code, it's likely that the primary email address is inactive or inaccessible. If a user does not have access to their primary email address, they cannot unlock their account or reset their password. Consider other workflows such as [swapping email addresses](/handbook/support/workflows/account_changes.html#account-access-requests) if a user is not able to access their primary email.
+If the user does not receive a verification email with the 6-digit code, it's likely that the primary email address is inactive or inaccessible. If a user does not have access to their primary email address, they cannot unlock their account or reset their password. Consider other workflows such as [swapping email addresses](/handbook/support/workflows/account_changes#account-access-requests) if a user is not able to access their primary email.
 
 All verification emails with unlock codes and password reset emails bypass Mailgun suppressions. Mail delivery of these emails can also be seen in Mailgun.
 
@@ -54,7 +54,7 @@ Feature request for group owners to self-serve is in [anti-abuse#339](https://gi
 
 ### Change risk assessment (Credit Card verification)
 
-If a user has failed credit card verification or cannot use a credit card, follow the below process to verify the user in order to change their risk level. Please see [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5154#what-impact-will-this-have-on-users) and the [documentation](https://docs.gitlab.com/ee/security/identity_verification.html#stages) for more details.
+If a user has failed credit card verification or cannot use a credit card, follow the below process to verify the user in order to change their risk level. Please see [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5154#what-impact-will-this-have-on-users) and the [documentation](https://docs.gitlab.com/ee/security/identity_verification#stages) for more details.
 
 **Note**: This process can only be done for free users if it's determined that they are impacted by a GitLab bug, such as [customers#3811](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/3811).
 

@@ -133,7 +133,7 @@ If they want to pause, put the ticket on-hold. Otherwise:
 
 1. Use the [OOO Ticket Summary](https://gitlab.com/search?search=360080271299&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar)
    macro, providing the same information as described in the
-   [Workflow](/handbook/support/workflows/ooo-ticket-management.html#workflow)
+   [Workflow](/handbook/support/workflows/ooo-ticket-management#workflow)
    topic of the `OOO Ticket Management` page.
 1. Notify your group of the list of tickets that need responses during your
    absence and ask for volunteers to take responsibility for those.
