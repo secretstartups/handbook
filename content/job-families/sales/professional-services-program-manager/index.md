@@ -12,7 +12,7 @@ A highly visible and customer-facing position, within the Professional Services 
 | -- | - |
 | [Intermediate](#program-manager) | [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
 | [Senior](#senior-program-manager) | [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
-| [Manager](Manager-program-delivery) | (Grade 8)
+| [Manager](Manager-program-delivery) | [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
 
 ## Performance Indicator
 
@@ -73,9 +73,9 @@ A highly visible and customer-facing position, within the Professional Services 
 
 ### Public Sector
 
-The Responsibilities, Requirements, and Additional Sklls for Public Sector Professional Services Program Managers are identical to the commensurate Level and Grade of their non-Public Sector peers. The only additional job requirement is the necessary clearance to work on Government Contracts.
+The responsibilities, requirements, and additional sklls for Public Sector Professional Services Program Managers are identical to the commensurate Level and Grade of their non-Public Sector peers. The only additional job requirement is the necessary clearance to work on Government Contracts.
 
-### Manager Professional Services Program Delivery
+### Manager, Professional Services Program Delivery
 
 #### Responsiblities
 
