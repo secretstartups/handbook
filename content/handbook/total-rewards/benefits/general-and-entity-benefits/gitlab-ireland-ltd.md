@@ -126,7 +126,7 @@ From 1 January 2023, team members in Ireland are entitled to 3 days of paid sick
 - 2025: 7 days
 - 2026: 10 days
 
-Ireland's statutory sick leave policy is separate from GitLab's [Sick Time policy]({{< ref "paid-time-off#sick-time---taking-and-reporting" >}}) but when allowed by law will run concurrently with this leave policy.  If a team member needs more time away, GitLab's Sick Time policy will take precedence.
+Ireland's statutory sick leave policy offers a floor level of protection and does not interfere with existing, more favorable, sick pay schemes such as GitLab's [Sick Time policy]({{< ref "paid-time-off#sick-time---taking-and-reporting" >}}). When allowed by law, GitLab's Sick Leave policy will run concurrently with this leave policy.
 
 #### Statutory Sick Leave Pay Calculations
 
