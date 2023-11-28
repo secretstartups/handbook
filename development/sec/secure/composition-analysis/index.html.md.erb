@@ -144,25 +144,24 @@ We use the [security-triage-automation](https://gitlab.com/gitlab-org/secure/too
 1. [Process vulnerabilities for a given project](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#process-vulnerabilities-for-a-given-project)
 1. [Resolve vulnerabilities and close their issues](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#resolve-vulnerabilities-and-close-their-issues)
 
+Note: Our goal is to migrate from [security-triage-automation](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation)
+to [Vulnmapper tool in the nearest future](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnmapper/-/issues/83). However, so far we're following the existing process. 
+
 When using this tool to update vulnerabilities and issues, please keep track of the commands that were executed and add them to a private note in the reaction rotation issue.
 
 1. On a weekly basis: review the vulnerability report to resolve no longer detected ones and close related issues. Note: It is not necessary to investigate vulnerabilities that are no longer detected in detail.
     1. Visit `Vulnerability Report Dashboards` to verify that there are vulnerabilities that can be resolved.
         - [Analyzer vulnerabilities that are no longer detected][Analyzer vulnerabilities that are no longer detected].
-            - Note: If you want to configure the report manually, select all [shared](#shared), [container scanning](#container-scanning), [dependency scanning](#dependency-scanning) and [license compliance](#license-compliance) projects, and apply the `No longer detected` activity filter and apply the `Confirmed` and `Needs triage` status.
+            - Note: If you want to configure the report manually, select all [shared](#shared), [container scanning](#container-scanning), [dependency scanning](#dependency-scanning) projects, and apply the `No longer detected` activity filter and apply the `Confirmed` and `Needs triage` status.
         - [Upstream scanner vulnerabilities that are no longer detected][Upstream scanner vulnerabilities that are no longer detected]
             - Note: If you want to configure the report manually, select all [upstream scanner](#upstream-scanner-mirrors) projects, and apply the `No longer detected` activity filter, and apply the `No longer detected` activity filter and apply the `Confirmed` and `Needs triage` status.
     2. Execute the `security-triage-automation` tool to [resolve vulnerabilities and close their issues](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#resolve-vulnerabilities-and-close-their-issues). This tool must be executed separately for each of the projects in the following categories:
-       - [shared](#shared)
        - [container scanning](#container-scanning)
        - [dependency scanning](#dependency-scanning)
-       - [license db](#license-db)
     3. Verify in `Vulnerability Report Dashboards` that vulnerabilities have been resolved.
-1. As close to but not after the 1<sup>st</sup> of the month, `create` FedRAMP vulnerability issues by executing the `security-triage-automation` tool to [process vulnerabilities for a given project](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#process-vulnerabilities-for-a-given-project). This tool must be executed separately for each of the projects in the following categories:
-    - [shared](#shared)
+1. As close to but not after the 1<sup>st</sup> of the month, `create` FedRAMP vulnerability issues with `CRITICAL, HIGH, MEDIUM, LOW`, and `UNKNOWN` severity levels by executing the `security-triage-automation` tool to [process vulnerabilities for a given project](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#process-vulnerabilities-for-a-given-project).This tool must be executed separately for each of the projects in the following categories:
     - [container scanning](#container-scanning)
     - [dependency scanning](#dependency-scanning)
-    - [license db](#license-db)
 
 > All vulnerabilities **must** be remediated by their respective [SLA][Vulnerability SLAs]. This process only describes how to generate the required FedRAMP vulnerability issues required for the report.
 
