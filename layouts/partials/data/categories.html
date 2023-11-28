@@ -1,0 +1,9 @@
+{{- $categories := dict }}
+{{- with resources.GetRemote "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/data/categories.yml" }}
+  {{- with .Err }}
+    <h2>Unable to fetch categories.yml Data</h2>
+  {{- else }}
+      {{- $categories = . | transform.Unmarshal }}
+  {{- end }}
+{{- end }}
+{{- return $categories }}

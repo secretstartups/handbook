@@ -1,0 +1,18 @@
+{{- /*  Initialize. */}}
+{{- $department := "" }}
+
+{{- /* Get params. */}}
+{{- with (.Get 0) }}
+  {{- $department = . }}
+{{- else }}
+  {{- errorf "The %q shortcode requires a single positional argument."}}
+{{- end }}
+
+{{- $coaches := slice }}
+{{- $teamMembers := partials.IncludeCached "data/team-by-name" page }}
+{{- range $teamMembers }}
+  {{- if in .departments $department  }}
+    {{- $coaches = append . $coaches }}
+  {{- end }}
+{{- end }}
+{{ len $coaches }}

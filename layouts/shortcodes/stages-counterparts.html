@@ -1,36 +1,32 @@
-{{ with resources.GetRemote "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/data/stages.yml" }}
-  {{ with .Err}}
-    <h2>Unable to fetch stages Data</h2>
-  {{ else }}
-      <table>
-          <tr>
-              <th>Group</th>
-              <th>Support Counterpart</th>
-          </tr>
+{{ $stages := partials.IncludeCached "data/stages" page }}
 
-      {{ $data := . | transform.Unmarshal }}
-      {{ range $data.stages }}
-      {{ $.Scratch.Set "display_name" .display_name }}
-      {{ range .groups }}
+<table>
+  <thead>
+    <tr>
+        <th>Group</th>
+        <th>Support Counterpart</th>
+    </tr>
+  </thead>
+  <tbody>
+  {{ range $stages }}
+    {{ $.Scratch.Set "display_name" .display_name }}
+    {{ range .groups }}
       {{ if .support }}
-      <tr>
-      <td>{{ $.Scratch.Get "display_name" }} : {{.name}}</td>
-      <td>{{ if reflect.IsSlice .support }}
-                <ul>
-                {{ range .support }}
-                    <li>{{.}}</li>
-                {{ end }}
-                </ul>
-            {{ else }}
-            <ul>
-                <li>{{ .support }}</li>
-            </ul>
-            {{ end }}
-      </td>
-      </tr>
+        <tr>
+          <td>{{ $.Scratch.Get "display_name" }} : {{ .name }}</td>
+          <td>{{- if reflect.IsSlice .support }}
+                {{- range .support}}
+                {{- $name := replaceRE `\s\(.*\)` "" . }}
+                {{- $region := findRE `\s\(.*\)` . }}
+                  <div class="mb-2">{{ partial "member-by-name" $name }} {{index $region 0}}</div>
+                {{- end }}
+              {{- else }}
+                {{ partial "member-by-name" .support }}
+              {{- end }}
+          </td>
+        </tr>
       {{ end }}
-      {{ end }}
-      {{ end }}
-      </table>
+    {{ end }}
   {{ end }}
-{{ end }}
+  </tbody>
+</table>

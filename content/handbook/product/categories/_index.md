@@ -267,8 +267,9 @@ When downgrading product maturity, we adjust our customer's current expectations
 ![Dev Ops Diagram](devops-diagram.svg)
 
 <!-- Short code in progress -->
-<!--{{%/* categories */%}}-->
+{{% categories %}}
 
+<!-- Disalbed as it didn't produce output in the about site -->
 <!-- <%= partial("includes/product/categories-names") %> -->
 
 ## Possible future Stages
@@ -383,4 +384,4 @@ It does not mean, however, that a single group should necessarily be solely resp
 
 For more information please review [this section in the quality department handbook](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#shared-responsibility-issues) to learn more about a decentralized approach to triaging these types of issues.
 
-<%= partial("includes/product/categories_index") %>
+{{< categories-index >}}

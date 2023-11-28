@@ -28,6 +28,6 @@ If you are no longer able to serve as a Merge Request Coach, you should identify
 
 ## Current Merge Request Coaches
 
-GitLab currently has {{< merge-request-coaches-count >}} merge request coaches:
+GitLab currently has {{< department-member-count "Merge Request Coach" >}} merge request coaches:
 
-{{< merge-request-coaches >}}
+{{< department-members "Merge Request Coach" >}}
