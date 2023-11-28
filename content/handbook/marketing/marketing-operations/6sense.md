@@ -106,6 +106,12 @@ Segments drive every use case within 6sense, and consist of groups of accounts c
 
 6sense segment names sync to Salesforce via an orchestration. In order for a segment to sync to Salesforce, the segment must be published. If a segment is unpublished, the record of that segment will be removed from Salesforce. This is a good way to keep the 6sense segment name field relevant, however is important to note for historical reporting purposes.  
 
+### Publishing Segments
+
+Publishing a 6sense segment extends its account membership to specific 6sense experiences and external system workflows. Publishing a segment enables us to better cross-reference segments and accounts, and is an effective method to communicate messaging recommendations, increase visibility into the status of segments and accounts, and facilitate internal alignment. Marketing users can use this issue request template to request a segment get published in 6sense.
+
+Only `admin users` and `operations users` are able to publish segments in 6sense. If you need to publish a segment in 6sense, please [open a new Marketing Operations issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=6sense_publish_segment_req).
+
 ## Best Practices 
 
 ### Folder Naming Convention
