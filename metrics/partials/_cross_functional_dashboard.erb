@@ -15,3 +15,10 @@ MR Type labels help us report what we're working on to industry analysts in a wa
 Flaky test are problematic [for many reasons](/handbook/engineering/quality/engineering-productivity/flaky-tests/).
 
 <%= partial "handbook/engineering/metrics/partials/_flaky_test_issues_dashboard.erb", locals: { filter_type: filter_type_for("quality", "group"), filter_value: filter_value_for("quality", "group", filter_value) } %>
+
+#### Slow RSpec Test Issues
+
+(<a href="https://app.periscopedata.com/app/gitlab/1166661/Slow-RSpec-tests-issues" target="_blank">Sisense↗</a>)
+Slow tests are impacting the [GitLab pipeline duration](https://docs.gitlab.com/ee/development/pipelines/index.html).
+
+<%= partial "handbook/engineering/metrics/partials/_slow_test_issues_dashboard.erb", locals: { filter_type: filter_type_for("quality", "group"), filter_value: filter_value_for("quality", "group", filter_value) } %>
