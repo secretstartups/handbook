@@ -25,9 +25,9 @@ This role works closely across Marketing for all things email, and directly with
 [Read the job family here >>](/job-families/marketing/marketing-campaign-manager/#user-lifecycle-marketing)
 
 For more information on email marketing at GitLab, please visit the following pages:
-* [Nurture programs](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/) 
-* [Best practices](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-best-practices), 
-* [Email processes and requests](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-processes-requests)
+* [Nurture programs](/handbook/marketing/lifecycle-marketing/emails-nurture/) 
+* [Best practices](/handbook/marketing/lifecycle-marketing/email-best-practices), 
+* [Email processes and requests](/handbook/marketing/lifecycle-marketing/email-processes-requests)
 
 Please reach out to Allie Klatzkin or Luis Diego D'ambrosio with any questions.
 
@@ -111,10 +111,10 @@ Is our single source of truth (SSoT) for processes and relevant links
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. [Lifecycle Marketing - Prioritization](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2532209?&label_name[]=mktg-demandgen)
-   - At start of milestone, ensure that issues are in the proper category of prioritization. Align them to the [priority definitions](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/#prioritization-labels).
+   - At start of milestone, ensure that issues are in the proper category of prioritization. Align them to the [priority definitions](/handbook/marketing/lifecycle-marketing/#prioritization-labels).
    - Consider the time you have available in a 2 week period, recognizing meeting commitments and planned PTO.
    - Only add issues to account for 70% of your available work hours. Don't max out at 100% since there will likely be things that arise and need immediate attention throughout milestone.
-   - *Ask yourself: considering realistic time this milestone, am I overcommitting? The first to drop from a milestone should be "Low" priority issues based on [definitions](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/#prioritization-labels).*
+   - *Ask yourself: considering realistic time this milestone, am I overcommitting? The first to drop from a milestone should be "Low" priority issues based on [definitions](/handbook/marketing/demand-generation/campaigns/#prioritization-labels).*
    - Discuss milestone with Jackie and if you need help determining what to drop and how to communicate (potentially) to issue requestors.
 1. [Lifecycle Marketing - Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?milestone_title=%23started&)
    - Minimize the "Low" and "Medium" columns. Your focus should first be on the "Top" and "High" priority issues.
@@ -163,7 +163,7 @@ Note on timelines: The campaigns team is focused on campaign strategy, execution
 #### Request Issue Templates
 {: #request-issue-templates}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-Below are the issue templates to make a lifecycle request. For processes, please see our [processes handbook page](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-processes-requests).
+Below are the issue templates to make a lifecycle request. For processes, please see our [processes handbook page](/handbook/marketing/lifecycle-marketing/email-processes-requests).
 
 - [lifecycle-add-to-nurture](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=lifecycle-add-to-nurture)
 - [request-email-followup](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-followup) 

@@ -69,7 +69,7 @@ We work across other teams often and are striving to get better at engaging with
 
 #### Product Marketing Enagement 
 
-We partner really closely with [Product Marketing Management](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/). In the Verify Stage, we have a stable counterpart assigned, as defined in the [PMM Team Structure](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/#pmm-team-structure), which aligns to the [CI Use Case](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/).
+We partner really closely with [Product Marketing Management](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/). In the Verify Stage, we have a stable counterpart assigned, as defined in the [PMM Team Structure](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/#pmm-team-structure), which aligns to the [CI Use Case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/).
 
 We have four main processes: 
 
@@ -112,7 +112,7 @@ These are intended to help guide themes and present opportunities to build stori
 * **Assets Produced**: Copy/text 
 * **Goal**:  Deliver written communication in Merge Requests with Product Manager in the Release Post Items or blog posts.
 
-We sometimes ship feature specific blog posts such as [Moving CI to Lovable...again](https://about.gitlab.com/blog/2021/02/22/continuously-improving-ci-lovability/) or this expose on [the Pipeline Editor](https://about.gitlab.com/blog/2021/02/22/pipeline-editor-overview/). These are great opportunities to include PMM alongside the [Release Post review and positioning](https://about.gitlab.com/handbook/marketing/blog/release-posts/#pmm-reviewers).
+We sometimes ship feature specific blog posts such as [Moving CI to Lovable...again](https://about.gitlab.com/blog/2021/02/22/continuously-improving-ci-lovability/) or this expose on [the Pipeline Editor](https://about.gitlab.com/blog/2021/02/22/pipeline-editor-overview/). These are great opportunities to include PMM alongside the [Release Post review and positioning](/handbook/marketing/blog/release-posts/#pmm-reviewers).
 
 #### Customer Success & Renewal Engagement 
 

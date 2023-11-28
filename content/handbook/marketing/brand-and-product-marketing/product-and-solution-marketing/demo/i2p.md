@@ -39,7 +39,7 @@ issues](https://gitlab.com/gitlab-org/gitlab-ce/boards/814228?label_name[]=idea-
 
 > - Disable desktop notifications (on a Mac, top-right corner, option click).
 > - Open up new browser window so the audience doesn’t see all your other open tabs.
-> - Resize your browser window to something reasonable for sharing. 1280x720 is a good option. [Here](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/720p.scpt)'s a handy AppleScript if you're on a Mac and using Chrome. Add it to your User Scripts folder and show the Script menu in your menu bar, and it'll be really easy to trigger.
+> - Resize your browser window to something reasonable for sharing. 1280x720 is a good option. [Here](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/720p.scpt)'s a handy AppleScript if you're on a Mac and using Chrome. Add it to your User Scripts folder and show the Script menu in your menu bar, and it'll be really easy to trigger.
 > - Consider just sharing web browser window so the audience isn’t distracted by notes or other windows.
 > - If displaying full-screen, go to 'Displays' settings, Resolution: Scaled, Larger text.
 > - Consider opening this page on an iPad that has screen lock disabled.

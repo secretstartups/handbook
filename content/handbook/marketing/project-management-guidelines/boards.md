@@ -23,7 +23,7 @@ title: "Issue and Kanban boards project management guidelines"
 
 The scope of issues that are displayed on a board are filtered either by `label`, `assignee`, `milestone`, or possibly `weight`.
 
-![board scope](https://about.gitlab.com/handbook/marketing/project-management-guidelines/images/board-scope.png)
+![board scope](/handbook/marketing/project-management-guidelines/images/board-scope.png)
 
 Boards support groups of lists that are defined by a combination of
 1. A single label
@@ -72,7 +72,7 @@ If the relevant issues that need to be managed in a board are at the project lev
 1. There should be a minimum of 2 boards per Marketing group: Workflow and Iteration.
 1. Each group should have its own label to be able to create the board
 1. Each issue the group is working on should use at the very least that label
-1. These two main issue boards should be listed on each team's section on the [Marketing handbook landing page](https://about.gitlab.com/handbook/marketing/).
+1. These two main issue boards should be listed on each team's section on the [Marketing handbook landing page](/handbook/marketing/).
 
 ### Workflow board
 
@@ -84,16 +84,16 @@ If the relevant issues that need to be managed in a board are at the project lev
 - Uses the `mktg-status::` scoped labels as lists
 - [Workflow board example](https://gitlab.com/groups/gitlab-com/-/boards/1781956?milestone_title=%23started&&label_name[]=tech-evangelism)
 
-![Workflow board](https://about.gitlab.com/handbook/marketing/project-management-guidelines/images/workflow-board.png)
+![Workflow board](/handbook/marketing/project-management-guidelines/images/workflow-board.png)
 
 ### Iteration board
 
 **Goal**: describes the planned workload through iterations
 
 - Can be further filtered by assignee
-- Uses the [main marketing iterations](https://about.gitlab.com/handbook/marketing/project-management-guidelines/milestones/#iterations) as lists
+- Uses the [main marketing iterations](/handbook/marketing/project-management-guidelines/milestones/#iterations) as lists
 - Backlog is a milestone (permanently dragged to the left, and collapsed)
 - Optionally: at their discretion groups can add a milestones board for project milestones
 - [Iteration board example](https://gitlab.com/groups/gitlab-com/-/boards/1672643?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=tech-evangelism)
 
-![Iteration board](https://about.gitlab.com/handbook/marketing/project-management-guidelines/images/iteration-board.png)
+![Iteration board](/handbook/marketing/project-management-guidelines/images/iteration-board.png)

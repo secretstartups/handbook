@@ -278,7 +278,7 @@ The 5-Minute Demo Framework is a method to quickly produce technical content tha
 ##### Tips for searchability
 
 * For videos, please add the video to GitLab Unfiltered YouTube channel under "Solutions Architecture" playlist. Additionally [link the video within Highspot](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/#gitlab-highspot-best-practices-for-content-owners) for the AE's to create email pitches.
-* For blog posts, please refer to the [marketing handbook page](https://about.gitlab.com/handbook/marketing/blog/) on how to publish to the Blog. See [MR1](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/113595) and [MR2](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/108728) as an example.
+* For blog posts, please refer to the [marketing handbook page](/handbook/marketing/blog/) on how to publish to the Blog. See [MR1](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/113595) and [MR2](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/108728) as an example.
 * For repository examples, please store the repository within the [Guided Exploration group](https://gitlab.com/guided-explorations).
 
 ##### Practice and review

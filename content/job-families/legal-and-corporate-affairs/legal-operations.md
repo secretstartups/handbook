@@ -70,9 +70,9 @@ The Director, Contracts and Legal Operations is a [grade 10](/handbook/total-rew
 
 #### Director, Contracts and Legal Operations Performance Indicators
 
-- [Negotiation cycle average days per Quarter](https://about.gitlab.com/handbook/legal/#negotiation-cycle-average-days-per-quarter--90-days)
-- [Number of Opportunities closed by Contract Manager(s) per Quarter](https://about.gitlab.com/handbook/legal/#number-of-opportunities-closed-by-contract-managers-per-quarter--66)
-- [Percentage of contract negotiations per quarter](https://about.gitlab.com/handbook/legal/#percentage-of-contract-negotiations-per-quarter-15)
+- [Negotiation cycle average days per Quarter](/handbook/legal/#negotiation-cycle-average-days-per-quarter--90-days)
+- [Number of Opportunities closed by Contract Manager(s) per Quarter](/handbook/legal/#number-of-opportunities-closed-by-contract-managers-per-quarter--66)
+- [Percentage of contract negotiations per quarter](/handbook/legal/#percentage-of-contract-negotiations-per-quarter-15)
 
 ### Senior Director, Contracts and Legal Operations
 

@@ -9,7 +9,7 @@ When everyone can contribute, consumers become contributors, and we greatly incr
 
 Product marketing managers at GitLab help tell the story about the value of how GitLab helps to unlock the potential of sharing and contribution. As a Product Marketing Manager, you understand our customers, our community, and the challenges they face.  You write about their story and help them understand how GitLab can help them become the heroes they really are.
 
-We work in a unique way at GitLab, where flexibility meets a high paced, pragmatic way of working. And everything we do is in the open. We recommend looking at our [product marketing handbook](https://about.gitlab.com/handbook/marketing/strategic-marketing/) to get started.
+We work in a unique way at GitLab, where flexibility meets a high paced, pragmatic way of working. And everything we do is in the open. We recommend looking at our [product marketing handbook](/handbook/marketing/strategic-marketing/) to get started.
 
 ### Job Grade
 

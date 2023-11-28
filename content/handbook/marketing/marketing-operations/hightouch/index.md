@@ -27,7 +27,7 @@ twitter_creator: "@gitlab"
 
 ## Hightouch Handbook - Syncing Data to Iterable
 
-Welcome to the Hightouch Handbook! This documentation page provides essential information on using the Hightouch tool to sync data to [Iterable](https://about.gitlab.com/handbook/marketing/marketing-operations/iterable/). As the Marketing Operations Manager, it's crucial to have a reliable and efficient data synchronization process, and Hightouch plays a vital role in achieving that. Let's dive into the key components: syncs, models, sources, and objects.
+Welcome to the Hightouch Handbook! This documentation page provides essential information on using the Hightouch tool to sync data to [Iterable](/handbook/marketing/marketing-operations/iterable/). As the Marketing Operations Manager, it's crucial to have a reliable and efficient data synchronization process, and Hightouch plays a vital role in achieving that. Let's dive into the key components: syncs, models, sources, and objects.
 
 ## Syncs
 

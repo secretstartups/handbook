@@ -16,7 +16,7 @@ description: "MailJet is used for large scale transactional email sends"
 
 
 ### About MaailJet
-[MailJet](https://www.mailjet.com/) is an email platform used for large transactional sends. MailJet charges based on volume sent, not database size, so it is more cost effective (among other reasons) to use vs [Marketo](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/).
+[MailJet](https://www.mailjet.com/) is an email platform used for large transactional sends. MailJet charges based on volume sent, not database size, so it is more cost effective (among other reasons) to use vs [Marketo](/handbook/marketing/marketing-operations/marketo/).
 
 MailJet is used by only certain Marketing Ops and Marketing Campaigns users. 
 
@@ -29,9 +29,9 @@ MailJet is used by only certain Marketing Ops and Marketing Campaigns users.
      - Community alerts + newsletter
 
 ### Requesting Email Send from MailJet
-If the email is an emergency, please follow directions on [this page](https://about.gitlab.com/handbook/marketing/emergency-response).
+If the email is an emergency, please follow directions on [this page](/handbook/marketing/emergency-response).
 
-If the email is a non-emergency, please follow directions on [this page](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/#overview).
+If the email is a non-emergency, please follow directions on [this page](/handbook/marketing/lifecycle-marketing/emails-nurture/#overview).
 
 
 ## Using MailJet

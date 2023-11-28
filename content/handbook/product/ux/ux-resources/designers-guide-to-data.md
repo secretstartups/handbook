@@ -89,5 +89,5 @@ The issues and merge requests below are examples of how we have used data for de
 - [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/)
 - [Internal Analytics at GitLab](https://docs.gitlab.com/ee/development/internal_analytics/)
 - [Experimentation Design & Analysis](/handbook/product/product-analysis/experimentation/)
-- [Growth Experiments Knowledge Base](https://about.gitlab.com/handbook/marketing/growth/)
+- [Growth Experiments Knowledge Base](/handbook/marketing/growth/)
 - [Using Data to Find Insights](/handbook/product/ux/ux-research/quantitative-data/)

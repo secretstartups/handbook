@@ -19,7 +19,7 @@ The content library is where all your uploaded assets are stored and tagged in P
 1. Use the search to determine if it’s already been added. Be thorough, as the asset could also have a different URL. If you try to add a file or URL that's already in the library, the system will tell you it already exists. For example, uploading `https://about.gitlab.com/customers/extra-hop-networks/` and `https://about.gitlab.com/customers/extra-hop-networks` would be considered different URLs and both would be uploaded to the library (note the trailing `/`). 
 1. Ensure you have the most valuable version of the asset (blog post vs. case study or PDF).
 1. Ensure you have the most recent version of the asset.
-1. Follow the [blog style guide](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/).
+1. Follow the [blog style guide](/handbook/marketing/brand-and-product-marketing/content/editorial-team/).
 
 ### How to upload content
 
@@ -35,7 +35,7 @@ The content library is where all your uploaded assets are stored and tagged in P
 1. Copy and paste the public title into the internal title field.
 1. Funnel stage and estimated cost is set automatically based on the content type you chose earlier. Please leave these auto-generated tags as is and do not force change. 
 1. Set the language of the asset.
-1. Select the Business Unit of the asset based on [GTM motion](https://about.gitlab.com/handbook/marketing/plan-fy22/#gtm-motions).
+1. Select the Business Unit of the asset based on [GTM motion](/handbook/marketing/plan-fy22/#gtm-motions).
 1. Set the expiry date of the asset if one exists.
 1. Leave External ID blank.
 1. Select the content topics on the right-hand side that categorize the asset. Follow the [content tag map below](#tracking-content) when tagging content with topics.
@@ -79,7 +79,7 @@ Expiry dates will not automatically deactive content after expiration. You must 
 
 ### Vimeo links
 
-To upload a Vimeo video to PathFactory, you must first [upload your video to Vimeo](https://about.gitlab.com/handbook/marketing/marketing-operations/vimeo/#upload). Once your video is uploaded to Vimeo, follow these steps to add to PathFactory:
+To upload a Vimeo video to PathFactory, you must first [upload your video to Vimeo](/handbook/marketing/marketing-operations/vimeo/#upload). Once your video is uploaded to Vimeo, follow these steps to add to PathFactory:
 
 1. Navigate to the `Settings` of your video in Vimeo.
 1. Under `General > Privacy`, select `Hide this video from vimeo.com`. **Note:** Other privacy settings will not allow the video to be embedded in a content track. 
@@ -107,7 +107,7 @@ When the asset is added to a content track, you'll have a working, embedded, pri
 1. Scroll to the bottom of the preview pane to view which content tracks the asset is in.
 1. Collaborate with the `Author` of the respective tracks the asset resides in to ensure it is not linked within an ad, email, etc.
 1. After confirming the asset is not directly linked in any external channel, remove the asset first from each content track, and then from the content library.
-1. Post this change in the [PathFactory changelog](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#changelog). 
+1. Post this change in the [PathFactory changelog](/handbook/marketing/marketing-operations/pathfactory/#changelog). 
 
 ### Asset thumbnails
 
@@ -137,7 +137,7 @@ To use a thumbnail image, visit the [web design repository](https://gitlab.com/g
 
 #### Adding a thumbnail for newly uploaded content
 
-1. [Follow the regular process](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/content-library/#how-to-upload-content) for uploading new content to the library.
+1. [Follow the regular process](/handbook/marketing/marketing-operations/pathfactory/content-library/#how-to-upload-content) for uploading new content to the library.
 1. Directly under `Public Configurations`, you'll find the thumbnail for the asset. Hover over the image and click the edit icon.
 1. Under the thumbnail images tab, click to upload the thumbnail image you just downloaded. All images are already properly sized for PathFactory.
 
@@ -267,16 +267,16 @@ Industry verticals are set using a standard list in SFDC per [this issue](https:
 
 If you try to upload a web page from a domain that you do not own and that web page has not whitelisted your PathFactory track URLs, you will be served an error message telling you that you cannot upload this content to the Content Library.
 
-Because you do not own this web page, your options are limited. You will be unable to add these third party web pages to the Content Library. You can use this content in an [End Promoter](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#promoters) in a content track if the following is true:
+Because you do not own this web page, your options are limited. You will be unable to add these third party web pages to the Content Library. You can use this content in an [End Promoter](/handbook/marketing/marketing-operations/pathfactory/#promoters) in a content track if the following is true:
 
-1. You are building your [Content Track in Target](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#content-tracks) (this is not currently supported in Recommend)
-1. You are using the [Flow or Signpost Promoter](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#promoters) (this is not currently supported for other Target promoter types)
+1. You are building your [Content Track in Target](/handbook/marketing/marketing-operations/pathfactory/#content-tracks) (this is not currently supported in Recommend)
+1. You are using the [Flow or Signpost Promoter](/handbook/marketing/marketing-operations/pathfactory/#promoters) (this is not currently supported for other Target promoter types)
 
 **What you can do:**
 
 When you enable the `End Promoter`, add the destination URL of the blocked content. When a visitor reaches the end of the Content Track, they will be prompted with your call to action `End Promoter`. If the visitor clicks on this promoter, the destination URL (of the blocked content) will open in a new tab.
 
-More on iFrame blocking can be found [here](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#about-iframes).
+More on iFrame blocking can be found [here](/handbook/marketing/marketing-operations/pathfactory/#about-iframes).
 
 When uploading third-party assets, always ensure they are secure URLs (`https://`). Content that is not secure will not display in content tracks. Also, third-party web pages would need to allow iFraming as PathFactory tracks are served within an iFrame.
 

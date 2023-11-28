@@ -56,11 +56,11 @@ Please see the [README.md](https://gitlab.com/gitlab-com/people-group/compliance
 
 ## Relevant Handbook Pages
 
-- [Privacy](https://about.gitlab.com/handbook/legal/privacy/) and [Privacy Laws and GitLab](https://about.gitlab.com/handbook/legal/privacy/privacy-laws.html) - More information on GitLab's privacy practices.
-- [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/) - GitLab's policy for how we handle the personal information of our team members.
-- [Records Retention Policy](https://about.gitlab.com/handbook/legal/record-retention-policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records.
+- [Privacy](/handbook/legal/privacy/) and [Privacy Laws and GitLab](/handbook/legal/privacy/privacy-laws.html) - More information on GitLab's privacy practices.
+- [Employee Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/) - GitLab's policy for how we handle the personal information of our team members.
+- [Records Retention Policy](/handbook/legal/record-retention-policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records.
 - [Data Classification Policy]({{< ref "data-classification-standard" >}}) - GitLab's Security Compliance policies related to data retention and disposal.
-- [Data Protection Impact Assessment (DPIA) Policy](https://about.gitlab.com/handbook/legal/privacy/dpia-policy) - GitLab's policies related to Data Protection.
+- [Data Protection Impact Assessment (DPIA) Policy](/handbook/legal/privacy/dpia-policy) - GitLab's policies related to Data Protection.
 - [GitLab Audit Committee](/handbook/board-meetings/committees/audit/) - Information regarding GitLab's Audit Committee of the Board of Directors of GitLab Inc.
 - [Total Rewards Audits]({{< ref "total-rewards-processes" >}}) - Information on some of our People Group audits.
 

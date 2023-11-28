@@ -40,7 +40,7 @@ GitLab.com runs GitLab Enterprise Edition.
 To keep our code easy to maintain and to make sure everyone reaps the benefits
 of all our efforts, we will not separate GitLab.com codebase from the Enterprise Edition codebase.
 
-To avoid complexity, [GitLab.com tiers and GitLab self-managed tiers](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/) are named the same.
+To avoid complexity, [GitLab.com tiers and GitLab self-managed tiers](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/) are named the same.
 
 #### GitLab.com subscription scope and tiers
 
@@ -160,7 +160,7 @@ _For example, if the intended removal milestone is `16.0`, given the following r
 
 **If you believe you need to push a breaking change outside a major release, tag your manager into the deprecation issue for approval. Upon manager approval, tag in [Delivery group](/handbook/product/categories/features/#saas-platformsdelivery-group) PM `@swiskow` into the deprecation issue for advisement/collaboration on whether any additional communication to users is required. Communicating to SaaS users on breaking changes is critical, it is recommended you set up a [broadcast message](/handbook/product/product-processes/#gitlabcom-in-app-messages-broadcast-messaging) one milestone ahead of the milestone in which the breaking change will happen.**
 
-1. Review the overall [workflow for announcing deprecations and removals](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations-removals-and-breaking-changes) and follow guidance to [announce the deprecation in GitLab Docs and the release post](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations-and-other-planned-breaking-change-announcements).
+1. Review the overall [workflow for announcing deprecations and removals](/handbook/marketing/blog/release-posts/#deprecations-removals-and-breaking-changes) and follow guidance to [announce the deprecation in GitLab Docs and the release post](/handbook/marketing/blog/release-posts/#deprecations-and-other-planned-breaking-change-announcements).
 1. Potentially mention it in the [Kickoff Videos](/handbook/product/product-processes/#kickoff-meetings).
 1. Engage the support team to discuss support procedures for deprecated features and update the [Statement of Support](https://about.gitlab.com/support/statement-of-support/) as necessary
 1. Label the feature accordingly in documentation and the application
@@ -227,7 +227,7 @@ When renaming a feature other items to consider are updates to documentation, bl
 
 ### Using What's New to communicate updates to users
 
-What's New is a feature that is part of GitLab.com and Self-managed GitLab that is used to communicate highlights from each release. After each major release, a [yaml file is published](https://about.gitlab.com/handbook/marketing/blog/release-posts/index.html#creating-an-mr-for-whats-new-entries) that contains 3-10 highlights from the release along with links to the relevant documentation to get started using them.
+What's New is a feature that is part of GitLab.com and Self-managed GitLab that is used to communicate highlights from each release. After each major release, a [yaml file is published](/handbook/marketing/blog/release-posts/index.html#creating-an-mr-for-whats-new-entries) that contains 3-10 highlights from the release along with links to the relevant documentation to get started using them.
 
 A small notification dot appears above the "?" icon, and when users click on "What's new" in the menu, a drawer containing the updates slides into view.
 

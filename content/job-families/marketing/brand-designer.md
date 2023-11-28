@@ -13,7 +13,7 @@ At GitLab, Brand Designers are responsible for ensuring strategic, seamless expe
 
 - Define and create a visual language as an extension of the brand (illustrations, icons, colors, typography, animations, etc.)
 - Be an advocate for consistent and cohesive design throughout the company.
-- Contribute to GitLab's [Brand Standards](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/).
+- Contribute to GitLab's [Brand Standards](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/).
 - Educate others on design thinking, brand experience, and design-driven storytelling.
 - Collaborate with Content Marketing, and others, to establish a clear and concise brand voice, tone, and personality.
 - Collaborate with UX Design to create and maintain a cohesive and consistent brand experience between Marketing and Product.
@@ -52,7 +52,7 @@ Everything in the Associate Brand Designer role, plus:
 
 - Develop visual concepts for digital campaigns, webpages, print, and events.
 - Enable others, non-designers, to create on-brand assets.
-- Actively contribute to GitLab's [Brand Standards](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/).
+- Actively contribute to GitLab's [Brand Standards](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/).
 
 #### Job Grade
 
@@ -163,7 +163,7 @@ Everything in the Staff Brand Designer role, plus:
 Everything in the Senior Brand Designer role, plus:
 
 - Lead the Brand Design team fostering innovation, collaboration, and continual evolution of GitLab's brand experience.
-- Oversee the definition, prioritization, and improvement of GitLab's [Brand Standards](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/).
+- Oversee the definition, prioritization, and improvement of GitLab's [Brand Standards](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/).
 - Research and develop a greater understanding of GitLab's audience(s); iterating to keep our brand experience relevant and relatable.
 
 #### Job Grade

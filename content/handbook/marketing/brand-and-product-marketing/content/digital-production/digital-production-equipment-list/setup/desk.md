@@ -70,11 +70,11 @@ OR
 
 - Mount the Elgato Keylight, desk mic boom arm (if present), and camera mounting arm to your desk. Face the light towards the wall.
 
-- **PROFESSIONAL CAMERA ONLY:** [follow the instructions](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/digital-production/digital-production-equipment-list/black-magic-pocket-cinema-camera/) for setting up your camera.
+- **PROFESSIONAL CAMERA ONLY:** [follow the instructions](/handbook/marketing/brand-and-product-marketing/content/digital-production/digital-production-equipment-list/black-magic-pocket-cinema-camera/) for setting up your camera.
      - Mount the camera desk mount to your desk and position it roughly where you would like the camera. A good place is at eye level when your thighs and chin are paraellel to the floor. Your eyes should be placed the upper 1/3rd of the frame.
      - Connect the HDMI cable to a monitor or capture card so you can see the image as you position the camera.
 
 - **WEBCAM ONLY:** Mount the webcam to your monitor. Aditionally, you can use the camera desk mount if you'd like to place the webcam in a specific place. A good place is at eye level when your thighs and chin are paraellel to the floor. Your eyes should be placed the upper 1/3rd of the frame.
-1. [Follow the instructions](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/digital-production/digital-production-equipment-list/black-magic-pocket-cinema-camera/) to turn on your Elgato Key Light.
+1. [Follow the instructions](/handbook/marketing/brand-and-product-marketing/content/digital-production/digital-production-equipment-list/black-magic-pocket-cinema-camera/) to turn on your Elgato Key Light.
 1. Place the desk mic within 6"-12" (~30cm) from your mouth. It should be in a place where it will not interfere with your work. Ideally, it should sit out of view of the camera.
 1. Optional: If you have GMV light panels, you can place one out of view of the camera, raised high and facing the ceiling, turned on full power. This will significantly brighten your entire space and appear better on camera.

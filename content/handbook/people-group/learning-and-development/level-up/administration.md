@@ -147,7 +147,7 @@ Please review the **best practices** below:
 
 ### Publishing a course for external users
 
-Before publishing a course to be visible for external users, check the content thoroughly to ensure it fits within [GitLab's SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/#safe). The steps needed to publish a course externally are:
+Before publishing a course to be visible for external users, check the content thoroughly to ensure it fits within [GitLab's SAFE framework](/handbook/legal/safe-framework/#safe). The steps needed to publish a course externally are:
 
 1. From the admin view, navigate to the course by choosing Content > Manage Content, then finding the relevant course
 1. Once in the course editor, in the `Content` page check all relevant changes have been published.

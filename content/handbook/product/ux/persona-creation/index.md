@@ -9,7 +9,7 @@ At GitLab, we use two kinds of personas that we create based on data-driven insi
 
 - [User personas](/handbook/product/personas/) - Used by UX professionals and Product Managers (PM) as a mechanism to connect with end users' needs, motivations, behaviors, and skills. Owned by Product Managers, who are also the DRI on persona-related research efforts.
 
-- [Buyer personas](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) - Focus on the high-level goals of potential customers who may or may not be potential users. Owned by the Marketing team.
+- [Buyer personas](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) - Focus on the high-level goals of potential customers who may or may not be potential users. Owned by the Marketing team.
 
 This insightful [article by UX Collective](https://uxdesign.cc/while-we-are-talking-about-personas-what-exactly-are-we-talking-525a645eb61a) goes into great detail on these differences and more.
 

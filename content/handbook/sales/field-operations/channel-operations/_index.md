@@ -296,7 +296,7 @@ Partners and GitLab Sellers frequently ask questions on how to collaborate with 
 
 ### Legal Requests for Partner Contracts
 
-The process to request the [legal team’s involvement in partner contracts](https://about.gitlab.com/handbook/legal/customer-negotiations/#to-request-a-legal-review-for-a-channel-partner-contract) can be found on the legal team’s handbook page. Please note that the process for getting partner contracts signed is different from the [process for any other legal request](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-to-reach-legal).
+The process to request the [legal team’s involvement in partner contracts](/handbook/legal/customer-negotiations/#to-request-a-legal-review-for-a-channel-partner-contract) can be found on the legal team’s handbook page. Please note that the process for getting partner contracts signed is different from the [process for any other legal request](/handbook/legal/customer-negotiations/#how-to-reach-legal).
 
 
 ## Channel Reporting and Tagging
@@ -339,7 +339,7 @@ The process to request the [legal team’s involvement in partner contracts](htt
   - *Partner*: The Partner has converted the Lead/PQL to a qualified opportunity, or has created a brand new opportunity without a prior lead being in the system. This field defaults to Partner when `Initial Source = PQL`.
 - **DR - Deal Engagement**:
   - *Partner Sourced*: Partner has either found the original opportunity or an upsell to a current customer. If the `Initial Source  = Partner Qualified Lead` or `Sales Qualified Source = Partner Generated`, then the deal is Partner Sourced.
-*Please visit the [Marketing Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/#initial-source) for Intial Source definition and context.
+*Please visit the [Marketing Handbook Page](/handbook/marketing/marketing-operations/#initial-source) for Intial Source definition and context.
 
 
 ## Managing Partner Opportunities
@@ -923,7 +923,7 @@ All forecasting for the partner organization is done in Clari. Please use the fo
 
 ## Alliances and OEMs
 
-Please visit the [Alliances Handbook](https://about.gitlab.com/handbook/alliances/) for an overview of the GitLab Alliance Team. If you are a GitLab employee, the [Private Alliance Handbook](https://internal.gitlab.com/handbook/alliances/) is another available resource. The [Alliances Salesforce Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYAp) is also available.
+Please visit the [Alliances Handbook](/handbook/alliances/) for an overview of the GitLab Alliance Team. If you are a GitLab employee, the [Private Alliance Handbook](https://internal.gitlab.com/handbook/alliances/) is another available resource. The [Alliances Salesforce Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYAp) is also available.
 For any questions regarding our Alliance partners, please reach out to the #alliances Slack channel. If your inquiry is deal-specific, please use one of these Slack channels: **#a_gcp_deal_registration, #a_aws_deal_registration, #a_ibm_deal_registration**.
 
 ### Opportunity Tagging for Marketplace Deals
@@ -990,15 +990,13 @@ See [IBM (OEM) Partner Requests & QTC Process](https://docs.google.com/document/
 
 For more information on our AWS CPPO Pilot Program, please reference the following [program guide.](https://docs.google.com/document/d/1cH0pJP6xaY0I-Fxra212VjYwn_MvNTH1hHOtkhGVC-4/edit#heading=h.lpzn62rdfa90)
 
-## Compensation on Channel Opportunities
+## Compensation on Partner Opportunities
 
 The executed compensation letter should be the approved and legal source of truth for compensation. However please use the following resources to assist in clarification or exceptions.
 
-[FY23 Channel & Alliance Comp & Splits Matrix](https://docs.google.com/spreadsheets/d/1jkdVDYeToAHjNhkF4xAs5wuMaw-TTOU8Ow286CXoznc/edit?usp=sharing)
+[FY24 Partner Comp & Splits Matrix](https://docs.google.com/spreadsheets/d/1LpNM636JnqQxLtMphxzcyZbdF5MDTgnIXkJEARCV_-4/edit#gid=1399522836)
 
-[FY23 Channel & Alliance Comp FAQ](https://docs.google.com/document/d/1ZKwXfzsT3xSCoI8Il9FSgwHG-GtOYwLMj3JX0mj9dcw/edit?usp=sharing)
-
-[FY23 Channel & Alliance Comp Exception Process](https://docs.google.com/document/d/1sUVZDDua5JB1omVUbqBkxA1NAhSed66sjzfIBaVIkGg/edit?usp=sharing)
+[FY24 Partner Comp Exception Process](https://docs.google.com/document/d/1sUVZDDua5JB1omVUbqBkxA1NAhSed66sjzfIBaVIkGg/edit?usp=sharing)
 
 
 ### Channel Neutral

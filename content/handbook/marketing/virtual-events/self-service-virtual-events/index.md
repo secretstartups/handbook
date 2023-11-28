@@ -17,28 +17,28 @@ This section focuses on best practices and logistical set up for self-service vi
 
 To provide feedback on the Self-service virtual events process please kindly fill out [this survey](https://forms.gle/AuVt9XmZpGs8MwnS7). Everyone can contribute, so feel free to also open an MR to suggest improvements to this page.
 
-[Project Planning](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#project-planning)
-- [Epic Code for Self-Service](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#epic-code-for-self-service)
-- [Epic Code for Self-Service with Promotion](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#epic-code-for-self-service-with-promotion)
+[Project Planning](/handbook/marketing/virtual-events/self-service-virtual-events/#project-planning)
+- [Epic Code for Self-Service](/handbook/marketing/virtual-events/self-service-virtual-events/#epic-code-for-self-service)
+- [Epic Code for Self-Service with Promotion](/handbook/marketing/virtual-events/self-service-virtual-events/#epic-code-for-self-service-with-promotion)
 
-[Best Practices](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#best-practices)
+[Best Practices](/handbook/marketing/virtual-events/self-service-virtual-events/#best-practices)
 
-[Self-Service Virtual Event Promotion Guide](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#self-service-virtual-event-promotion-guide)
-- [Write Copy](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#how-to-write-copy-for-your-self-service-virtual-event)
-- [Image Design](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#how-to-make-images-for-your-self-service-virtual-event)
-- [Getting word out](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#getting-the-word-out---launching-your-self-service-virtual-event-promotion)
+[Self-Service Virtual Event Promotion Guide](/handbook/marketing/virtual-events/self-service-virtual-events/#self-service-virtual-event-promotion-guide)
+- [Write Copy](/handbook/marketing/virtual-events/self-service-virtual-events/#how-to-write-copy-for-your-self-service-virtual-event)
+- [Image Design](/handbook/marketing/virtual-events/self-service-virtual-events/#how-to-make-images-for-your-self-service-virtual-event)
+- [Getting word out](/handbook/marketing/virtual-events/self-service-virtual-events/#getting-the-word-out---launching-your-self-service-virtual-event-promotion)
 
-[Logistical Set up](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#logistical-set-up)
-- [Add to Calendar](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#adding-your-self-service-virtual-event-into-the-calendar)
-- [Zoom pre-event](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#setting-up-the-event-in-zoom)
-- [Zoom reschedule](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#rescheduling-self-service-virtual-events-with-or-without-promotion)
-- [Zoom cancellation](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#cancelling-for-self-service-virtual-events-with-or-without-promotion)
-- [Zoom during event](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#setting-up-the-event-in-zoom)
-- [Zoom post-event](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#post-event)
-- [Marketo Set up with Landing Page](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#marketo-set-up-with-landing-page)
+[Logistical Set up](/handbook/marketing/virtual-events/self-service-virtual-events/#logistical-set-up)
+- [Add to Calendar](/handbook/marketing/virtual-events/self-service-virtual-events/#adding-your-self-service-virtual-event-into-the-calendar)
+- [Zoom pre-event](/handbook/marketing/virtual-events/self-service-virtual-events/#setting-up-the-event-in-zoom)
+- [Zoom reschedule](/handbook/marketing/virtual-events/self-service-virtual-events/#rescheduling-self-service-virtual-events-with-or-without-promotion)
+- [Zoom cancellation](/handbook/marketing/virtual-events/self-service-virtual-events/#cancelling-for-self-service-virtual-events-with-or-without-promotion)
+- [Zoom during event](/handbook/marketing/virtual-events/self-service-virtual-events/#setting-up-the-event-in-zoom)
+- [Zoom post-event](/handbook/marketing/virtual-events/self-service-virtual-events/#post-event)
+- [Marketo Set up with Landing Page](/handbook/marketing/virtual-events/self-service-virtual-events/#marketo-set-up-with-landing-page)
 
-[Results](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#results)
-- [Responses by month](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#responses-by-month)
+[Results](/handbook/marketing/virtual-events/self-service-virtual-events/#results)
+- [Responses by month](/handbook/marketing/virtual-events/self-service-virtual-events/#responses-by-month)
 
 ## Project Planning
 {: #project-planning .gitlab-purple}
@@ -55,9 +55,9 @@ Once you have an idea and abstract for a self-service virtual event with or with
 ```
 <--- Name this epic using the following format, then delete this line: Virtual Event - Event Title - [3-letter Month] [Date], [Year] --->
 
-* **[Best practices for setting up your own virtual event](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#best-practices)**
-* **[Best practices for promoting your own virtual event](https://about.gitlab.com/handbook/marketing/virtual-events/#self-service-virtual-event-promotion-guide)**
-* **[Step-by-step instructions](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#logistical-set-up)**
+* **[Best practices for setting up your own virtual event](/handbook/marketing/virtual-events/self-service-virtual-events/#best-practices)**
+* **[Best practices for promoting your own virtual event](/handbook/marketing/virtual-events/#self-service-virtual-event-promotion-guide)**
+* **[Step-by-step instructions](/handbook/marketing/virtual-events/self-service-virtual-events/#logistical-set-up)**
 
 ## :notepad_spiral: Key Details 
 * **Project Owner:** 
@@ -74,20 +74,20 @@ Once you have an idea and abstract for a self-service virtual event with or with
 * [ ] Campaign UTM - Project owner to fill in (Format: campaign tag - change to all lowercase, no spaces, hyphens, underscores, or special characters)
 
 ## Manage presenters and create calendar event (DRI: Requestor)
-* [ ] Secure date/time/presenters and add event to [Self-service virtual event calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9uMnNibXZmMjlqczBzM3BiM2ozaHRwa3FmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Instructions on how to add to the calendar can be found [here](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#adding-your-self-service-virtual-event-into-the-calendar).
+* [ ] Secure date/time/presenters and add event to [Self-service virtual event calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9uMnNibXZmMjlqczBzM3BiM2ozaHRwa3FmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Instructions on how to add to the calendar can be found [here](/handbook/marketing/virtual-events/self-service-virtual-events/#adding-your-self-service-virtual-event-into-the-calendar).
 * [ ] Block presenters calendars (starting 30 minutes prior to start) by sending them an invite with the zoom links from your personal Gcal
 * [ ] Schedule dry run (optional)
 
 ## Create Zoom meeting for the event and add to /events (DRI: Requestor)
 * [ ] Make sure your zoom account settings are customized accordingly for the event
 * [ ] Add title, description, event details
-* [ ] [Add GDPR language to description](https://about.gitlab.com/handbook/marketing/virtual-events/index.html#gdpr-and-privacy-compliance)
+* [ ] [Add GDPR language to description](/handbook/marketing/virtual-events/index.html#gdpr-and-privacy-compliance)
 * [ ] (Optional: Only if you want to track registration) Update registration required
 * [ ] Update Meeting options as necessary (join before host, mute participants upon entry, enable waiting room, etc.)
 * [ ] Add alternate hosts as needed to support your event
 * [ ] (Optional: Only if you enabled registration tracking) Once event is created, customize the registration form to include complete contact info
 * [ ] Once event is created, scroll to the bottom and click email settings, then edit your confirmation email messaging
-* [ ] Once event is created, add your event to about.gitlab.com/events by following the [handbook instructions](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents)
+* [ ] Once event is created, add your event to about.gitlab.com/events by following the [handbook instructions](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents)
 
 ## Issue creation for tracking
 * [ ] [Program Tracking](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-program-tracking)
@@ -105,8 +105,8 @@ Add the team label to indicate the team running the event (Example: Corporate Ma
 
 ## [Copy for emails >>]() - [template](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit)
 
-* **[Best practices for setting up your event](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#best-practices)**
-* **[Step-by-step instructions](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#logistical-set-up)**
+* **[Best practices for setting up your event](/handbook/marketing/virtual-events/self-service-virtual-events/#best-practices)**
+* **[Step-by-step instructions](/handbook/marketing/virtual-events/self-service-virtual-events/#logistical-set-up)**
 
 ## :notepad_spiral: Key Details 
 * **Project Owner:** 
@@ -123,20 +123,20 @@ Add the team label to indicate the team running the event (Example: Corporate Ma
 * [ ] Campaign UTM - Project owner to fill in (Format: campaign tag - change to all lowercase, no spaces, hyphens, underscores, or special characters) 
 
 ## Manage presenters and create calendar event (DRI: Requestor)
-* [ ] Secure date/time/presenters and add event to [Self-service virtual event calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9uMnNibXZmMjlqczBzM3BiM2ozaHRwa3FmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Instructions on how to add to the calendar can be found [here](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#adding-your-self-service-virtual-event-into-the-calendar).
+* [ ] Secure date/time/presenters and add event to [Self-service virtual event calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9uMnNibXZmMjlqczBzM3BiM2ozaHRwa3FmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Instructions on how to add to the calendar can be found [here](/handbook/marketing/virtual-events/self-service-virtual-events/#adding-your-self-service-virtual-event-into-the-calendar).
 * [ ] Block presenters calendars (starting 30 minutes prior to start) by sending them an invite with the zoom links from your personal Gcal
 * [ ] Schedule dry run (optional)
 
 ## Create Zoom meeting for the event and add to /events (DRI: Requestor)
 * [ ] Make sure your zoom account settings are customized accordingly for the event
 * [ ] Add title, description, and event details
-* [ ] [Add GDPR language to description](https://about.gitlab.com/handbook/marketing/virtual-events/index.html#gdpr-and-privacy-compliance)
+* [ ] [Add GDPR language to description](/handbook/marketing/virtual-events/index.html#gdpr-and-privacy-compliance)
 * [ ] (Optional: Only if you want to track registration) Update registration required
 * [ ] Update Meeting options as necessary (join before host, mute participants upon entry, enable waiting room, etc.)
 * [ ] Add alternate hosts as needed to support your event
 * [ ] (Optional: Only if you enabled registration tracking) Once event is created, customize the registration form to include complete contact info
 * [ ] Once event is created, scroll to the bottom and click email settings, then edit your confirmation email messaging
-* [ ] Once event is created, add your event to about.gitlab.com/events by following the [handbook instructions](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents)
+* [ ] Once event is created, add your event to about.gitlab.com/events by following the [handbook instructions](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents)
 
 ## Issue creation (`See DRIs and assignments below`)
 * [ ] [Program Tracking](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-program-tracking)
@@ -184,7 +184,7 @@ This section pulls all the pertinent best practices from the step-by-step instru
 * Download the usage report within 24 hours of event close and deliver to Marketing Ops via list upload [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=general-list-import-request).
 
 
-Review GitLab's general [virtual events best practices](https://about.gitlab.com/handbook/marketing/virtual-events/#best-practices) for additional suggestions on how to make your virtual event a success. 
+Review GitLab's general [virtual events best practices](/handbook/marketing/virtual-events/#best-practices) for additional suggestions on how to make your virtual event a success. 
 
 **Basic Zoom Settings:** *These settings should be updated in your personal zoom account settings by logging into the [Zoom](https://zoom.us/) web client*
 * Deactivate `play sound when participants join or leave`
@@ -211,12 +211,12 @@ Review GitLab's general [virtual events best practices](https://about.gitlab.com
 
 ### Self-service virtual event promotion guide
 
-**If you have not yet identified if a self-service virtual event is the correct event type of event for you, visit the [Virtual Events Decision Tree](https://about.gitlab.com/handbook/marketing/virtual-events/#gitlab-virtual-events-decision-tree)
+**If you have not yet identified if a self-service virtual event is the correct event type of event for you, visit the [Virtual Events Decision Tree](/handbook/marketing/virtual-events/#gitlab-virtual-events-decision-tree)
 to determine which type is right for your event.**
 
 Self-service events are organized for quick turnarounds and additional support or guidance from the team is not necessary. Using personal channels to self-promote your event comes with many benefits: it’s an authentic way for you to build your personal audience, reach people beyond GitLab’s corporate channels, and boosts your credibility online. This page outlines everything that you'll need to promote your own virtual event. `This checklist should take less than 2 hours`. 
 
-Please consider reviewing and applying our [GitLab Team Member Social Media Guidelines](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/) prior to promoting your own event. Specifically, review our [GitLab Voice information](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/#gitlab-voice).
+Please consider reviewing and applying our [GitLab Team Member Social Media Guidelines](/handbook/marketing/team-member-social-media-policy/) prior to promoting your own event. Specifically, review our [GitLab Voice information](/handbook/marketing/team-member-social-media-policy/#gitlab-voice).
 
 #### Checklist of deliverables to get your self-service virtual event started (details below)
 * [ ]  Copy to promote your event
@@ -291,7 +291,7 @@ Are you a part of a tech-focused nonprofit? Do you have former coworkers who wou
 It’s important to note that you should be aware of sharing practices in your groups - some groups have a strict “no advertising” policy. For all Facebook and LinkedIn groups, consider reviewing any group rules and don’t get in trouble with the moderators.
 
 ##### Extra: Add to the events page
-Add your virtual event to about.gitlab events page by following [instructions](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) for adding to event master.yml 
+Add your virtual event to about.gitlab events page by following [instructions](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) for adding to event master.yml 
 
 ##### Extra: Specific Twitter options
 While we’re not suggesting that you spam your audiences, Twitter is not used in the same way LinkedIn is. On the day of your webcast, consider tweeting a photo of you prepping the webcast, tweeting a “thank you” to everyone that attended, and even consider linking to a recording (if available) for those who could not join live. It’s completely acceptable for a list of tweets on the day of your webcast to include 3-5 tweets. Ultimately, if you have something else to say, say it on Twitter.
@@ -411,7 +411,7 @@ Make sure these settings are enabled in your personal zoom account settings as n
 
 **[Optional] Add a poll to your meeting**
 
-1. Make sure you have [enabled `Polling` in your account settings](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#prerequisites).
+1. Make sure you have [enabled `Polling` in your account settings](/handbook/marketing/virtual-events/self-service-virtual-events/#prerequisites).
 2. In the meeting that you have set up, click the `Poll` tab.
 3. Click `Add`.
 4. Put a descriptive title for the Poll.
@@ -433,11 +433,11 @@ This set up is for when you are hosting a self-service webcast, but using a Mark
 
 ### Rescheduling Self-Service Virtual Events with or without Promotion
 
-For the most up-to-date rescheduling instructions, please visit [this handbook page](https://about.gitlab.com/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
+For the most up-to-date rescheduling instructions, please visit [this handbook page](/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
 
 ### Cancelling for Self-Service Virtual Events with or without Promotion
 
-For the most up-to-date cancellation instructions, please visit [this handbook page](https://about.gitlab.com/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
+For the most up-to-date cancellation instructions, please visit [this handbook page](/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
 
 #### During the event
 
@@ -445,7 +445,7 @@ For the most up-to-date cancellation instructions, please visit [this handbook p
 **[Optional] Starting Livestream for your event**
 
 1. Make sure you have enabled `Livestream` in your account settings.
-2. During the virtual event, follow this [step by step instructions](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#livestream-with-zoom) to start LIVESTREAM.
+2. During the virtual event, follow this [step by step instructions](/handbook/marketing/marketing-operations/youtube/#livestream-with-zoom) to start LIVESTREAM.
 
 **[Optional] Playing pre-recorded video during the meeting**
 1. Make sure you have your video pulled up in a video player (quicktime/youtube) on your computer
@@ -476,9 +476,9 @@ Note: Although we can leverage this functionality for a semi-live virtual event,
 4. For `From` input the date of your event, click `Search`.
 5. Find your event, scroll right to the `Participants` column, click the number of participants in blue fonts, select `Show unique users` checkbox on the top left of the pop up page, click `Export`.
 
-**[Optional] Upload recording to the [appropriate youtube channel](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#channels).**
+**[Optional] Upload recording to the [appropriate youtube channel](/handbook/marketing/marketing-operations/youtube/#channels).**
 
-[Instructions on how to upload](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube).
+[Instructions on how to upload](/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube).
 
 **[Optional] Gating self-service virtual event recording**
 

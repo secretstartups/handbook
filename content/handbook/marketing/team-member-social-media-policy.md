@@ -36,7 +36,7 @@ The GitLab Social Media policy for team members applies to traditional social me
 The term "social media" applies to any online technology in use now or in the future that enables you to send or receive information and communicate or interact with others. Any site where you can share a post or comment on a post would be considered a social media website for the purposes of this policy.
 
 ##### Exclusions for anonymous review sites 
-This policy is not intended to limit team members from sharing their feedback or reviews of their experiences at GitLab on sites like Glassdoor, Fishbowl, Indeed, or similar sites. While we encourage you to share feedback with your manager and the people ops team, we celebrate our value of transparency and welcome feedback from team members on these sites, as long as the feedback follows our [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/).
+This policy is not intended to limit team members from sharing their feedback or reviews of their experiences at GitLab on sites like Glassdoor, Fishbowl, Indeed, or similar sites. While we encourage you to share feedback with your manager and the people ops team, we celebrate our value of transparency and welcome feedback from team members on these sites, as long as the feedback follows our [SAFE Framework](/handbook/legal/safe-framework/).
 
 ### All other GitLab codes of conduct and policies also apply to our social media policy
 
@@ -102,7 +102,7 @@ If it's written in a blog, presented at a public conference, or simply on GitLab
 - All of the above from our eco and alliance partners
 - Items that are not connected to your job or GitLab at all! Social Media is best when you bring your true-self to the mix. DevOps isn't the only thing you're interested in, so consider posting about other passions and topics.
 
-[Learn more about what is encouraged and how GitLab helps to enable you to become great at using social media on our team member advocacy page.](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/)
+[Learn more about what is encouraged and how GitLab helps to enable you to become great at using social media on our team member advocacy page.](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/)
 
 ### It's your job to protect GitLab, our customers, and our team members 
 Whether you're an intern or our CEO, protecting the GitLab brand, the company, and our entire team is a part of your job description.
@@ -220,11 +220,11 @@ Upon first glance of your social media profile, there should be immense clarity 
 
 ### Unauthorized GitLab brand social media accounts
 
-As a Team Member of GitLab, you aren't authorized to create company/brand social media profiles to use for your work. If promoting content should come from the company, you'll need to [open a request issue with the organic social team](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/#requesting-social-promotion-). If the corporate marketing team encounters unauthorized profiles, they will be treated as external threats and reported for impersonation. There is no formal method for requesting new brand channels, nor is there an outline for managing to do so. It's best to use personally identified social media profiles to share your posts.
+As a Team Member of GitLab, you aren't authorized to create company/brand social media profiles to use for your work. If promoting content should come from the company, you'll need to [open a request issue with the organic social team](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/#requesting-social-promotion-). If the corporate marketing team encounters unauthorized profiles, they will be treated as external threats and reported for impersonation. There is no formal method for requesting new brand channels, nor is there an outline for managing to do so. It's best to use personally identified social media profiles to share your posts.
 
 ### Contests or sweepstakes on your social media profiles
 
-As part of your role at GitLab, you may be responsible for a contest or a sweepstakes with social media elements. It's important to follow legal guidelines. Essentially, as a representative of GitLab, if you're promoting the contest on your social media channels, it will need to follow the same rules as what the GitLab brand channels will need to follow. You can [learn more about legal and contests in the handbook here](https://about.gitlab.com/handbook/legal/marketing-collaboration/#contests-and-sweepstakes).
+As part of your role at GitLab, you may be responsible for a contest or a sweepstakes with social media elements. It's important to follow legal guidelines. Essentially, as a representative of GitLab, if you're promoting the contest on your social media channels, it will need to follow the same rules as what the GitLab brand channels will need to follow. You can [learn more about legal and contests in the handbook here](/handbook/legal/marketing-collaboration/#contests-and-sweepstakes).
 
 ### Follow website terms of use
 
@@ -258,4 +258,4 @@ You may not use data obtained in the course of your employment with GitLab in an
 
 ## Transform this policy into action with a social media training and certification
 
-Take this policy and turn it into a social media certification in less than 45 minutes with the [social media 101 training and certification](https://about.gitlab.com/handbook/marketing/corporate-communications/resources-trainings/#social-media-101-training--certification). You'll find details on the training and what to expect [here](https://about.gitlab.com/handbook/marketing/corporate-communications/resources-trainings/#social-media-101-training--certification).
+Take this policy and turn it into a social media certification in less than 45 minutes with the [social media 101 training and certification](/handbook/marketing/corporate-communications/resources-trainings/#social-media-101-training--certification). You'll find details on the training and what to expect [here](/handbook/marketing/corporate-communications/resources-trainings/#social-media-101-training--certification).

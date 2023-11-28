@@ -68,11 +68,11 @@ The operations specialist ensures that the deployed application is available and
 
 The typical **buyer personas** for this use case are:
 
-#### [Infrastructure Engineering Director](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/), Kennedy
+#### [Infrastructure Engineering Director](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/), Kennedy
 
 The Infrastructure Engineering Director is responsible for building and scaling highly available environments. He/She frequently has the agenda of Cloud initiatives and Cost Optimization in the organization.
 
-#### [Release and Change Management Director](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/), Casey
+#### [Release and Change Management Director](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/), Casey
 
 The Release and Change Management Director is responsible for managing complex releases from concept to delivery. The CIO may be the final decision maker or buyer, but the Release and Change Management Director has significant influence in the buying process.
 
@@ -165,7 +165,7 @@ The message house provides a structure to describe and discuss the value and dif
 
 ### Industry Analyst Relations (IAR) Plan
 
-- The IAR Handbook page has been updated to reflect our plans for [incorporating Use Cases into our analyst conversations](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#how-we-incorporate-use-cases-into-our-industry-analyst-interactions).
+- The IAR Handbook page has been updated to reflect our plans for [incorporating Use Cases into our analyst conversations](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#how-we-incorporate-use-cases-into-our-industry-analyst-interactions).
 - For  details specific to each use case, and in respect of our contractual confidentiality agreements with Industry Analyst firms, our engagement plans are available to GitLab team members in the following protected document: [IAR Use Case Profile and Engagement Plan](https://docs.google.com/spreadsheets/d/14UthNcgQNlnNfTUGJadHQRNZ-IrAe6T7_o9zXnbu_bk/edit#gid=0).
 
 For a list of analysts with a current understanding of GitLab's capabilities for this use case, please reach out to Analyst Relations via Slack (#analyst-relations) or by submitting an [issue](https://gitlab.com/gitlab-com/marketing/product-marketing/issues/new) and selecting the "AR-Analyst-Validation" template.
@@ -274,7 +274,7 @@ For a list of analysts with a current understanding of GitLab's capabilities for
 
 ### References to help you close
 
-[SFDC Report of referencable Release customers](https://gitlab.my.salesforce.com/a6l4M000000kDwa).  Note: Sales team members should have access to this report. If you do not have access, reach out to the [customer reference team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact) for assistance.
+[SFDC Report of referencable Release customers](https://gitlab.my.salesforce.com/a6l4M000000kDwa).  Note: Sales team members should have access to this report. If you do not have access, reach out to the [customer reference team](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact) for assistance.
 
 Request reference calls by pressing the "Find Reference Accounts" button at the top of your stage 3 or later opportunity.
 

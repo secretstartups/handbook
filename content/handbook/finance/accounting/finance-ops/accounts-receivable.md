@@ -19,7 +19,8 @@ Please see the internal [Wiki](https://gitlab.com/gitlab-com/Finance-Division/fi
 - [Sarah McCauley](/handbook/company/team/#s_mccauley) - Director, Billing & Accounts Receivable
 - [Shannon Williams](/handbook/company/team/#ssilmon) - Manager, Accounts Receivable
 - [Crystal Kelly](/handbook/company/team/#crystalk) - Accounts Receivable Associate
-- [Grace Jackson](/handbook/company/team/#gjackson5) - Accounts Receivable Analyst
+- Israel Gomez - Accounts Receivable Analyst
+- Bradley Medford - Accounts Receivable Analyst
 
 Accounts Receivable works closely with Sales, Deal Desk, Billing Operations, and Revenue Operations Teams.
 
@@ -27,9 +28,9 @@ Accounts Receivable works closely with Sales, Deal Desk, Billing Operations, and
 
 - [Importance of Cash Collection]({{< ref "../../sales-comp-plan#importance-of-cash-collection" >}})
 - [Authorization Matrix]({{< ref "../../authorization-matrix#authorization-matrix" >}})
-- [GitLab Subscription Agreement 101](https://about.gitlab.com/handbook/legal/customer-negotiations/#gitlab-subscription-agreement-101)
-- [Request GitLab Financial information, Tax and/or Insurance Certificates](https://about.gitlab.com/handbook/legal/customer-negotiations/#requests-for-gitlab-financial-information-tax-and-insurance-certificates)
-- [Completing Vendor Request Forms](https://about.gitlab.com/handbook/legal/customer-negotiations/#completing-vendor-request-forms)
+- [GitLab Subscription Agreement 101](/handbook/legal/customer-negotiations/#gitlab-subscription-agreement-101)
+- [Request GitLab Financial information, Tax and/or Insurance Certificates](/handbook/legal/customer-negotiations/#requests-for-gitlab-financial-information-tax-and-insurance-certificates)
+- [Completing Vendor Request Forms](/handbook/legal/customer-negotiations/#completing-vendor-request-forms)
 
 **Please note:** As a private company, we will not share the following information:
 
@@ -50,7 +51,7 @@ The AR team is responsible for the internal controls, authorizations and procedu
 - Standard billing is annual and up front
 - Invoices are generated 24-48 hours after an opportunity is closed won depending on the complexity and/or accuracy of the related opportunity
 - Invoices are submitted via email to the `Bill-To` contact reflected on the order form
-- Fees under agreements shall be paid without any withholding or deduction as per our terms of service found [here](https://about.gitlab.com/handbook/legal/subscription-agreement/#6-payment-of-fees).
+- Fees under agreements shall be paid without any withholding or deduction as per our terms of service found [here](/handbook/legal/subscription-agreement/#6-payment-of-fees).
 
 *Customers with overdue accounts may be contacted directly at any time throughout the collection process to discuss payment of outstanding account balances.*
 
@@ -92,7 +93,7 @@ See also: [Zuora](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/stag
 
 Zendesk is our support queue for customer inquiries. Each case is then converted into a Zendesk ticket and filtered into a `View`, ordered by category. As part of their daily workflow, the Accounts Receivable Team monitors these views and processes tickets through completion.
 
-See also: [Zendesk](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/zendesk/)
+See also: [Zendesk](/handbook/marketing/developer-relations/workflows-tools/zendesk/)
 
 ### Tesorio
 
@@ -172,7 +173,7 @@ Section 6. PAYMENT OF FEES, article 6.7 in our standard terms of service.
 
 > 6.7 Any unpaid Fees are subject to a finance charge of one percent (1.0%) per month, or the maximum permitted by law, whichever is lower, plus all expenses of collection, including reasonable attorneys’ fees. Fees under this Agreement are exclusive of any and all taxes or duties, now or hereafter imposed by any governmental authority, including, but not limited to any national, state or provincial tax, sales tax, value-added tax, property and similar taxes, if any. Fees under this Agreement shall be paid without any withholding or deduction. **In the case of any deduction or withholding requirements, Customer will pay any required withholding itself and will not reduce the amount to be paid to GitLab on account thereof.**
 
-You can view our GitLab Subscription Agreement [here](https://about.gitlab.com/handbook/legal/subscription-agreement/)
+You can view our GitLab Subscription Agreement [here](/handbook/legal/subscription-agreement/)
 
 </details>
 

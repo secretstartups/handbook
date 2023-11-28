@@ -562,9 +562,9 @@ As our finance processes are a use it or lose it policy we want to ensure that i
 Purchases made on behalf of Gitlab should follow the [procurement process outlined in the handbook](/handbook/finance/procurement/#--what-is-procurement).
 Prior to submitting a Coupa requisition, please adjust the Billing portion of the requisition for each line item by selecting the magnifying glass. Confirm that the expense is coded to Department: G&A: DIB and Class (tag): TMRG. If procurement or The DIB Team are submitting the requisition on your behalf, please give them instructions to make these adjustments. If these changes are not made, then the expense will default to the team member’s department and the expense will not align to the TMRG budget.
 
-**Swag-** If the purchase is Swag, please follow the outlined process in the [handbook](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#swag-for-tmrgs).
+**Swag-** If the purchase is Swag, please follow the outlined process in the [handbook](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#swag-for-tmrgs).
 
-**Charitable Contributions-** Please follow the [Philanthropy Policy](https://about.gitlab.com/handbook/legal/philanthropy-policy/)
+**Charitable Contributions-** Please follow the [Philanthropy Policy](/handbook/legal/philanthropy-policy/)
 
 **Team Member Expensed-** In some instances, TMRG team members will need to follow the [expense reimbursement policy](/handbook/finance/expenses/). If an item is purchased individually upfront (i.e. meals, books) and the item was budgeted, the team member will submit the receipt to get reimbursed. Reach out in #expense-reporting-inquiries for a new expense tag prior to the event.
 When submitting expenses for reimbursement, please add the “TMRG” classification and the expense tag to your expense when submitting the report.

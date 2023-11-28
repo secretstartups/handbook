@@ -199,7 +199,7 @@ From a competitive comparison for Automated Software Delivery, the following are
 - Jenkins - Complex to manage, many fragile integrations, not suitable for cloud native transformation
 - [JFrog](https://about.gitlab.com/competition/jfrog/) - Strong on CI, but requires integrations or has limited capabilities for rest of the areas.
 - [Circle CI](https://about.gitlab.com/competition/circleci/)
-- [Weaveworks Flux CD](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#weaveworks---using-flux-oss-operator) - Main solution only for the GitOps operator, requires multiple integrations to achieve end to end GitOps flow.
+- [Weaveworks Flux CD](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/#weaveworks---using-flux-oss-operator) - Main solution only for the GitOps operator, requires multiple integrations to achieve end to end GitOps flow.
 
 
 ### Handling Objections
@@ -254,10 +254,10 @@ For up-to-date list of value at Ultimate, visit [Why Premium](https://about.gitl
 
 ### Related Pages  {#resource-page}
 
-- Continuous integration ([Sales Resource Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/), [Customer Solution Page](https://about.gitlab.com/features/continuous-integration/))
-- Continuous Delivery ([Sales Resource Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/), [Customer Solution Page](https://about.gitlab.com/stages-devops-lifecycle/continuous-delivery/))
-- Source Code Management ([Sales Resource Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/), [Customer Solution Page](https://about.gitlab.com/stages-devops-lifecycle/source-code-management/))
-- GitOps ([Sales Resource Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/), [Customer Solution Page](https://about.gitlab.com/solutions/gitops/))
+- Continuous integration ([Sales Resource Page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/), [Customer Solution Page](https://about.gitlab.com/features/continuous-integration/))
+- Continuous Delivery ([Sales Resource Page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/), [Customer Solution Page](https://about.gitlab.com/stages-devops-lifecycle/continuous-delivery/))
+- Source Code Management ([Sales Resource Page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/), [Customer Solution Page](https://about.gitlab.com/stages-devops-lifecycle/source-code-management/))
+- GitOps ([Sales Resource Page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/), [Customer Solution Page](https://about.gitlab.com/solutions/gitops/))
 
 ### Customer Stories  {#customer-stories}
 
@@ -328,8 +328,8 @@ More case studies here -> Filter by Usecase *CI* or *CD* or *SCM* or *GitOps* to
 
 
 #### Demo Videos and Click through demos
-- [All Marketing Click Through Demos](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#click-throughs)
-- [All Marketing Live Demos](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#live-instructions)
+- [All Marketing Click Through Demos](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#click-throughs)
+- [All Marketing Live Demos](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#live-instructions)
 - [Jira & Jenkins Integration Video](https://www.youtube.com/embed/Jn-_fyra7xQ)
 - [How to setup the Jira Integration](https://www.youtube.com/watch?v=p56zrZtrhQE)
 - [GitHub Integration Video](https://www.youtube.com/embed/qgl3F2j-1cI)

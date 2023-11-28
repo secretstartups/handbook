@@ -56,8 +56,8 @@ GitLab is the DevOps Platform, made possible by contributions from the community
   * [Percent of MRs from Community](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#percent-of-mrs-from-community)
   * [Unique Wider Community Contributors Per Month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month)
   * [Percent of Feature Community Contributions](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#percent-of-feature-community-contribution-mrs)
-  * [Wider Community merged MRs per release](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release)
-  * [Developer Evangelism Monthly Impressions](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#developer-evangelism-monthly-impressions)
+  * [Wider Community merged MRs per release](/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release)
+  * [Developer Evangelism Monthly Impressions](/handbook/marketing/developer-relations/performance-indicators/#developer-evangelism-monthly-impressions)
 
 ### GitLab's community programs
 
@@ -67,12 +67,12 @@ Ensuring everyone can contribute requires a concious effort to ensure the commun
 
 #### Community Programs
 * Free community programs:
-  * [OSS](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/opensource-program/)
-  * [Developer Evangslism](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/)
-  * [Education Program](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/)
-  * [StartUps Program](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/startups-program/)
+  * [OSS](/handbook/marketing/developer-relations/community-programs/opensource-program/)
+  * [Developer Evangslism](/handbook/marketing/developer-relations/developer-evangelism/)
+  * [Education Program](/handbook/marketing/developer-relations/community-programs/education-program/)
+  * [StartUps Program](/handbook/marketing/developer-relations/community-programs/startups-program/)
 * Meetups and evangelism
-  * [Evangelist Program](https://about.gitlab.com/handbook/marketing/developer-relations/evangelist-program/)
+  * [Evangelist Program](/handbook/marketing/developer-relations/evangelist-program/)
 * [GitLab Diversity Scholarship program](https://about.gitlab.com/community/sponsorship/)
 
 #### Education Program at GitLab
@@ -101,7 +101,7 @@ Building an inclusive and transparent community is a top-most priority for the C
 The community team has always partenered with internal and external teams to empower the community and we are always seeking collaboration to do more. Every community program has an Issue board where you can create an issue to kickstart a collaboration of if you are a GitLab team member and unsure of where to start, you can always drop by the `#developer-relations` channel on slack.
 
 * How to collaborate with the Developer Relations team
-  * [Project management](https://about.gitlab.com/handbook/marketing/developer-relations/project-management/)
-  * [Community Response](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/community-response/)
+  * [Project management](/handbook/marketing/developer-relations/project-management/)
+  * [Community Response](/handbook/marketing/developer-relations/developer-evangelism/community-response/)
 * Get started contributing to GitLab
   * [Developer Portal](https://developer.gitlab.com/)

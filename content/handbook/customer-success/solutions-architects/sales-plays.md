@@ -71,11 +71,11 @@ Consider the following questions:
 
 1. For SAEs/SDRs please make sure the customers are on the qualification list for your region. Eg: For enterprise west look at [this](https://gitlab.my.salesforce.com/00O4M000004aULR)
 1. During qualification, make sure to identify the pain points, customer profile using the collaterals highlighted below:
-    1. [Questions](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#engaging-the-customer) to better understand customer needs, future state & required capabilities
-    1. Customer presentations & GTM use cases link [here](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/#customer-facing-presentations)
-    1. [Discovery questions](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#discovery-questions) for Gitlab Protect/Secure
-    1. Potential [objections](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#objection-handling) from prospects/customers
-1. Review how to position gitlab's values & why does gitlab does it better [here](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#positioning-value)
+    1. [Questions](/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#engaging-the-customer) to better understand customer needs, future state & required capabilities
+    1. Customer presentations & GTM use cases link [here](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/#customer-facing-presentations)
+    1. [Discovery questions](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#discovery-questions) for Gitlab Protect/Secure
+    1. Potential [objections](/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#objection-handling) from prospects/customers
+1. Review how to position gitlab's values & why does gitlab does it better [here](/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#positioning-value)
 
 **Expected Outcome**
 
@@ -93,10 +93,10 @@ Secondary: SA
 1. Choose & create a list of discovery questions based on your customer profile in order to identify pain points
     1. Discover the pain points through general discovery questions & resources below:
     1. SA technical discovery [questionaire](https://docs.google.com/document/d/1GZnbqE_rtGFRAJxoeje4mtFyP1AfpLLueESijXgikm4/edit#heading=h.4b6ktib5prk9)
-    1. Market [requirements](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#market-requirements-in-priority-order)
-    1. Pick the ones that apply from value discovery pains, benefits & required capabilities[here](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#value-discovery)
-    1. Discovery questions for customer currently not on secure/protect with specific entry points [highlighted](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#discovery-questions)
-    1. Please review potential [objections](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#objection-handling)from prospects/customers before the meeting
+    1. Market [requirements](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#market-requirements-in-priority-order)
+    1. Pick the ones that apply from value discovery pains, benefits & required capabilities[here](/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#value-discovery)
+    1. Discovery questions for customer currently not on secure/protect with specific entry points [highlighted](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#discovery-questions)
+    1. Please review potential [objections](/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#objection-handling)from prospects/customers before the meeting
 1. Identify & get access to high-level DRI for security
 1. Identify & get access to high-level exec for higher-level initiatives using collateral below
         1. [Accelerating Digital Transformation](https://about.gitlab.com/solutions/digital-transformation/)
@@ -118,11 +118,11 @@ SA and SAE
 1. Choose & create a list of discovery questions based on your customer profile in order to identify pain points
     1. Discover the pain points through general discovery questions & resources below:
     1. SA technical discovery [questionaire](https://docs.google.com/document/d/1GZnbqE_rtGFRAJxoeje4mtFyP1AfpLLueESijXgikm4/edit#heading=h.4b6ktib5prk9)
-    1. Market [requirements](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#market-requirements-in-priority-order)
-    1. Pick the ones that apply from value discovery pains, benefits & required capabilities[here](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#value-discovery)
-    1. Discovery questions for customer currently not on secure/protect with specific entry points [highlighted](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#discovery-questions)
-    1. Please review potential [objections](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#objection-handling)from prospects/customers before the meeting
-    1. Please review all the this [sales play](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#meetings-to-get-to-a-pov-agreement) if your customer is already on Premium
+    1. Market [requirements](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#market-requirements-in-priority-order)
+    1. Pick the ones that apply from value discovery pains, benefits & required capabilities[here](/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#value-discovery)
+    1. Discovery questions for customer currently not on secure/protect with specific entry points [highlighted](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#discovery-questions)
+    1. Please review potential [objections](/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#objection-handling)from prospects/customers before the meeting
+    1. Please review all the this [sales play](/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#meetings-to-get-to-a-pov-agreement) if your customer is already on Premium
 1. Identify & get access to high-level DRI for security
 1. Identify & get access to high-level exec for higher-level initiatives using collateral below
         1. [Accelerating Digital Transformation](https://about.gitlab.com/solutions/digital-transformation/)
@@ -144,10 +144,10 @@ SA and SAE
 1. Strategize with your sales team on which play would you like to run & agree on the expected outcome before the meeting. We dont recommend starting a technical evaluation with a POV.
     - Demo/Deck: Vision & transformation play, where you would likely focus on Gitlab holistically
     1. [Customer facing slides](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit)
-    1. [Why choose ultimate](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#ultimate)
-    1. [Customer proof point](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#proof-points---customers)
-    1. [How Gitlab meets market requirements](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#how-gitlab-meets-the-market-requirements)
-    1. [Differentiators](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#top-differentiators) - Feel free to pick as many you would like
+    1. [Why choose ultimate](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#ultimate)
+    1. [Customer proof point](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#proof-points---customers)
+    1. [How Gitlab meets market requirements](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#how-gitlab-meets-the-market-requirements)
+    1. [Differentiators](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#top-differentiators) - Feel free to pick as many you would like
     1. [SA Demo Repo](https://gitlabdemo.com/catalog/libraries/3c68d4b8) : break this down into multiple play
     1. [Demo catalog](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/demo-catalog)
     1. [End to End TCO planning workshop](https://docs.google.com/spreadsheets/d/1wVghmLv3E_IKs7rz-quc6jtjZW0p-u3h4iSaDqmm1Nc/edit#gid=467701643), Recording
@@ -158,7 +158,7 @@ SA and SAE
     1. [Additional info including TCO workshop](https://gitlab.com/gitlab-com/customer-success/tko/nuts-and-bolts-devsecops-motion-feedback)
     - Demo/Deck: Integrate vs Compete play
     1. [Compete : Argo CD/TeamCity](https://gitlabdemo.com/catalog/libraries/categories/ac509772)
-    1. [Gitlab advantages over competitors](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#competitive-comparison)
+    1. [Gitlab advantages over competitors](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#competitive-comparison)
 
 **Expected Outcome**
 
@@ -179,7 +179,7 @@ Will have specific resources under actions above. This is for additional resourc
 - [GitLab Ultimate specific features and value handbook page](https://about.gitlab.com/pricing/ultimate/#ultimate-specific-features)
 - [SKO Expanding to Ultimate slide deck](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit#slide=id.gb4749ff26b_0_85)
 - [Why GitLab Ultimate slide deck](https://docs.google.com/presentation/d/1TP5cXH5Nr0VkH7mE6M_-DFXT_Jnq7o5LPxuMUz2paI4/edit?usp=sharing)
-- [Selling DevSecOps resource page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#ultimate)
+- [Selling DevSecOps resource page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#ultimate)
 - Selling security (need link) see John Blevin's online classroom material
 - New Gartner MQ for Plan (Expected in May)
 - Gartner MQ for AST (expected in May 2021)

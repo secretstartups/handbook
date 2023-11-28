@@ -175,7 +175,7 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 | 2020-03-19 | **[True-Ups](https://youtu.be/vNWUz1BGs2E)** | Public |
 | 2020-03-12 | **[The GitLab Journey & The SCM Use Case](https://youtu.be/GN891Bqc6QY)** | Public |
 | 2020-03-05 | **[The GitLab Journey & The CI Use Case](https://youtu.be/JoeaTYIH5lI)** | Public |
-| 2020-02-27 | **[Q1 FY21 GitLab Release Update](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/release-updates/#123128-sales-enablement)** | Public |
+| 2020-02-27 | **[Q1 FY21 GitLab Release Update](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/release-updates/#123128-sales-enablement)** | Public |
 | 2020-02-06 | **[SKO Preview](https://youtu.be/wFqMfGSXsXQ)** | Public |
 | 2020-01-13 | **[FY21 Product Outlook - Ops Section](https://youtu.be/dLBPS1T5Wbk)** | Public |
 | 2020-01-13 | **[FY21 Product Outlook - Secure and Protect](https://youtu.be/jbuvqD2Ge3M)** | Public |
@@ -200,7 +200,7 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 </details>
 
 
-**Note: To watch private videos on GitLab Unfiltered, please look at the Handbook page on [watching private videos.](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube) which includes a link to [this 2-minute video](https://www.youtube.com/watch?v=dZtCuOf5aGk).**
+**Note: To watch private videos on GitLab Unfiltered, please look at the Handbook page on [watching private videos.](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube) which includes a link to [this 2-minute video](https://www.youtube.com/watch?v=dZtCuOf5aGk).**
 
 ## Get an invite to the weekly session
 
@@ -232,12 +232,12 @@ There are a few places to see previous Sales Enablement sessions:
 
 ## Enablement pages
 
-- [GitLab CI/CD for GitHub FAQ](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/github-ci-cd-faq/)
-- [Cloud Native Ecosystem](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/cloud-native-ecosystem/)
-- [Enterprise IT Roles](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enterprise-it-roles/)
+- [GitLab CI/CD for GitHub FAQ](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/github-ci-cd-faq/)
+- [Cloud Native Ecosystem](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/cloud-native-ecosystem/)
+- [Enterprise IT Roles](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enterprise-it-roles/)
 - [How to set up Chorus.ai call recording](/handbook/business-technology/tech-stack/#chorus)
-- [GitLab Serverless FAQ](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/serverless-faq/)
-- [GitLab.com Subscriptions](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/dotcom-subscriptions/)
+- [GitLab Serverless FAQ](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/serverless-faq/)
+- [GitLab.com Subscriptions](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/dotcom-subscriptions/)
 - [Services to Accelerate Customer Adoption](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/sales-enablement)
 - [Collaborating with Community Programs](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/enablement/collaborating-community-programs/)
 

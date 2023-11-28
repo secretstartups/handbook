@@ -13,7 +13,7 @@ description: "A page containing links to helpful CI resources for the CSM team a
 
 ## Discovery Questions
 
-1. Robust list of initial discovery questions to help better understand the customer use case: [Public Handbook Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#discovery-questions)
+1. Robust list of initial discovery questions to help better understand the customer use case: [Public Handbook Page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#discovery-questions)
 
 ## Quickstart Guides
 
@@ -25,7 +25,7 @@ description: "A page containing links to helpful CI resources for the CSM team a
      - **Ultimate version:**
        - [Pitch Template](https://gitlab.highspot.com/items/64d9afedc17499f9125f9ca3?lfrm=srp.1)
        - [Pitch Style](https://gitlab.highspot.com/items/63ca2a7a7d574a620e8b41e0?lfrm=srp.0)
-2. DevOps Solution Resource: Continous Integration: [Public Handbook Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#sample-discovery-questions)
+2. DevOps Solution Resource: Continous Integration: [Public Handbook Page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#sample-discovery-questions)
 3. CI Workshop Planning Overview: [Public Handbook Page](https://about.gitlab.com/handbook/customer-success/workshops/ci-workshop.html)
 
 ## Migrating to GitLab

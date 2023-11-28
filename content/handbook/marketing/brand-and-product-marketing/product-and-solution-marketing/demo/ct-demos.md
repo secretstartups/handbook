@@ -14,7 +14,7 @@ noindex: true
 # Click-throughs
 
 Click-through demos can be run in multiple ways:
-- [Run them off-line](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/off-line-click-throughs/) (for conferences, practice on the airplane, etc)
+- [Run them off-line](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/off-line-click-throughs/) (for conferences, practice on the airplane, etc)
 - Run them while online, [from the files](https://drive.google.com/drive/folders/1Qm8Y3oVLRa0nS1BARA631Ex6SKVzYp3C?usp=sharing), same as running a presentation
 - Or run them online from the web, using the links bellow:
 

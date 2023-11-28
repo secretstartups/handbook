@@ -54,11 +54,11 @@ Publishing of blog posts occurs according to an editorial calendar. However, tha
 
 ### Legal review process
 
-Some blog posts must be reviewed by legal, in accordance with our [Materials Legal Review Process/SAFE program](https://about.gitlab.com/handbook/legal/materials-legal-review-process/). Authors are responsible for reviewing SAFE guidelines and getting Legal approval before sharing the Google Doc with the blog team. This process can take time, so please plan target publication dates accordingly.
+Some blog posts must be reviewed by legal, in accordance with our [Materials Legal Review Process/SAFE program](/handbook/legal/materials-legal-review-process/). Authors are responsible for reviewing SAFE guidelines and getting Legal approval before sharing the Google Doc with the blog team. This process can take time, so please plan target publication dates accordingly.
 
 GitLab has a bias for action, and the Blog team is no different. However, the GitLab Blog is a public-facing asset and represents the company. If the Blog team has concerns or questions about the information contained in the blog post, the Blog team has the authority to hold a blog post until Legal, Corporate Commmunications, Partner Marketing, the CMO, etc., can review the blog post to mitigate any potential risk for the company.
 
-Learn more about the [SAFE Guidelines by reading the handbook page](https://about.gitlab.com/handbook/legal/safe-framework/) and following the [Materials Legal Review Process](https://about.gitlab.com/handbook/legal/materials-legal-review-process/).
+Learn more about the [SAFE Guidelines by reading the handbook page](/handbook/legal/safe-framework/) and following the [Materials Legal Review Process](/handbook/legal/materials-legal-review-process/).
 
 ## Communication with Blog team
 
@@ -69,9 +69,9 @@ Chat channels:
 
 ## Other related pages
 
-- [Editorial style guide](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/)
+- [Editorial style guide](/handbook/marketing/brand-and-product-marketing/content/editorial-team/)
 - [Brand guidelines](https://design.gitlab.com/)
-- [Monthly release post](https://about.gitlab.com/handbook/marketing/blog/release-posts/)
+- [Monthly release post](/handbook/marketing/blog/release-posts/)
 
 
 ## Considerations when drafting a blog
@@ -82,8 +82,8 @@ It is important that our blog content represents our company values of diversity
 
 #### Inclusive formatting
 
-- Did you select an [inclusive](https://about.gitlab.com/handbook/marketing/blog/#inclusive-photos) cover image and/or screengrab?
-- Write descriptive alternative text for all [inline images and screengrabs](https://about.gitlab.com/handbook/marketing/blog/#inline-images). Alternative text is important for SEO and accessibility. Read this [article from Moz to learn more about writing alternative text](https://moz.com/learn/seo/alt-text).
+- Did you select an [inclusive](/handbook/marketing/blog/#inclusive-photos) cover image and/or screengrab?
+- Write descriptive alternative text for all [inline images and screengrabs](/handbook/marketing/blog/#inline-images). Alternative text is important for SEO and accessibility. Read this [article from Moz to learn more about writing alternative text](https://moz.com/learn/seo/alt-text).
 - Ensure that all links are meaningful and descriptive (e.g. avoid link text such as "read here" or "this article"). Descriptive links are more useful and accessible for people using screen readers.
 
 #### Inclusive writing
@@ -120,7 +120,7 @@ If you're not sure which category your post belongs in, just put a placeholder i
 - `insights` – industry, data, newsjacking, developer survey, etc.
 - `news` – company or product announcements (including policy changes, operational announcements, and breaking changes), news, or events
 - `security` – security-related posts
-- `releases` - release posts, security and patch releases. Posts in the `releases` category need to be in the `sites/uncategorized/source/releases/posts` directory, not `sites/uncategorized/source/blog/blog-posts`. Please see the [Release Post handbook](https://about.gitlab.com/handbook/marketing/blog/release-posts/) for more.
+- `releases` - release posts, security and patch releases. Posts in the `releases` category need to be in the `sites/uncategorized/source/releases/posts` directory, not `sites/uncategorized/source/blog/blog-posts`. Please see the [Release Post handbook](/handbook/marketing/blog/release-posts/) for more.
 
 #### Tags
 

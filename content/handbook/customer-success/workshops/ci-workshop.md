@@ -24,7 +24,7 @@ This workshop is intended to provide enablement for new or existing customers su
 - Select either the "Basic" or "Advanced" CI Workshop deck that's best suited to the customer's level of experience and areas of interest
 - Pitch to a customer using our [Collaboration Project Issue Template](#collaboration-project-issue-template)
 - Create a [zoom meeting](#how-to-get-started) complete with customer registration to facilitate follow-up contact with interested parties (potentially broadening or deepening the relationship)
-- Ask appropriate [discovery questions](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#discovery-questions)
+- Ask appropriate [discovery questions](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#discovery-questions)
 - Drive followup actions
 
 This workshop is *not* intended to provide a "hands-on-keyboard" demo experience.
@@ -66,5 +66,5 @@ Reference: [CI Sell Sheet issue template](https://gitlab.com/gitlab-com/customer
 
 ## Discovery Questions
 
-It's highly recommended to review Strategic Marketing's list of usecase-centric [discovery questions](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#discovery-questions) ahead of the session.
+It's highly recommended to review Strategic Marketing's list of usecase-centric [discovery questions](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#discovery-questions) ahead of the session.
 When you introduce yourself and the workshop, it can be helpful to ask discovery questions about the team(s) in attendance, the roles individuals hold, and invite commentary on their current goals or challenges.

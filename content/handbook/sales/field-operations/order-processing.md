@@ -28,7 +28,7 @@ This page outlines the Quote to Cash process. Topics include account and opportu
 - **Frequently Used Handbook Pages**
 
     - [Sales Order Processing](https://about.gitlab.com/handbook/sales/field-operations/order-processing/)
-    - [How to Work with Legal](https://about.gitlab.com/handbook/legal/customer-negotiations/)
+    - [How to Work with Legal](/handbook/legal/customer-negotiations/)
     - [Deal Desk Opportunity Approval Process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#submit-an-opportunity-for-booking)
     - [Bookings Policy](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#bookings-policy)
     - [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
@@ -39,7 +39,7 @@ This page outlines the Quote to Cash process. Topics include account and opportu
     - [Troubleshooting: True Ups, Licenses + EULAS](/handbook/support/internal-support/#regarding-licensing-and-subscriptions)
     - [Licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/)
     - [Legal Authorization Matrix](/handbook/finance/authorization-matrix/)
-    - [Trade Compliance](https://about.gitlab.com/handbook/legal/trade-compliance/)
+    - [Trade Compliance](/handbook/legal/trade-compliance/)
 
 - **Other Resources**
 
@@ -189,7 +189,7 @@ For customers who are not exempt, the default values will be "Yes" for all field
 | Turn On Operational Data | (Yes/No) Shows whether Operational Data is enabled for the subscription |
 | Turn On Cloud Licensing | (Yes/Offline/No) Shows whether a customer activated with Cloud Licensing, Offline Cloud Licensing or a Legacy License File |
 
-Note: there is no contractual field for Cloud Licensing as sending Cloud License [Subscription Data](https://about.gitlab.com/handbook/legal/privacy/customer-product-usage-information/#subscription-data) is part of the standard GitLab's standard Subscription Agreement.
+Note: there is no contractual field for Cloud Licensing as sending Cloud License [Subscription Data](/handbook/legal/privacy/customer-product-usage-information/#subscription-data) is part of the standard GitLab's standard Subscription Agreement.
 
 **Cloud Licensing Fields**
 
@@ -282,7 +282,7 @@ The following resources pertaining to the SuperSonics Billing and Subscription M
 
 ### **Working with Legal**
 
-There are several scenarios where you might need Legal assistance on an opportunity. Thouroughly review the information below. You can also learn more about the team and their scope by [visiting their handbook page](https://about.gitlab.com/handbook/legal/) or by checking out these [best practices on how to Collaborate with Legal](https://about.gitlab.com/handbook/legal/customer-negotiations/).
+There are several scenarios where you might need Legal assistance on an opportunity. Thouroughly review the information below. You can also learn more about the team and their scope by [visiting their handbook page](/handbook/legal/) or by checking out these [best practices on how to Collaborate with Legal](/handbook/legal/customer-negotiations/).
 
 #### Contact Legal
 
@@ -349,7 +349,7 @@ To add our SaaS SLA Addendum to an order form, please open a Legal case after al
     1. IT’S THE LAW!
     1. Not complying could result in fines or penalties for GitLab and/or GitLab team members
     1. Non-compliance could result in the inability to sell to federal customers, lose the trust of our customers, partners and investors and result in fines or jail time for officers and offenders
-1. For more information see the [Trade Compliance](https://about.gitlab.com/handbook/legal/trade-compliance/) handbook page and the [Code of Business Conduct & Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d) page.
+1. For more information see the [Trade Compliance](/handbook/legal/trade-compliance/) handbook page and the [Code of Business Conduct & Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d) page.
 1. GitLab uses a third party tool called “Visual Compliance” that is connected to our GitLab SalesForce account
 1. This tool checks Account information against various databases to ensure no matches, Accounts are checked repeatedly to ensure GitLab's continued compliance
 
@@ -521,7 +521,7 @@ To update the terms of a quote, follow these steps:
 
 #### Adding Custom Terms to a Quote
 
-If custom terms need to be added to a quote, notify the Deal Desk team. The team will review and determine if we can fulfill the request or if we will need to work with Legal. Please check out the [Legal handbook page](https://about.gitlab.com/handbook/legal/) for more information on how to open Legal cases, responding to Vendor Set Up forms, or questions on GitLab's Standard Agreement.
+If custom terms need to be added to a quote, notify the Deal Desk team. The team will review and determine if we can fulfill the request or if we will need to work with Legal. Please check out the [Legal handbook page](/handbook/legal/) for more information on how to open Legal cases, responding to Vendor Set Up forms, or questions on GitLab's Standard Agreement.
 
 </details>
 
@@ -535,11 +535,11 @@ For assistance with a Subscription Transfer Agreement please open a Legal Reques
 
 ### Open Source, Education, and Startup Application Opportunities
 
-GitLab provides free licenses to qualifying entities through the [Community Programs](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/): [GitLab for Education Program](/solutions/education/), [GitLab for Open Source Program](/solutions/open-source/) and [GitLab for Startups Program](/solutions/startups/). All applications to these programs are routed through the [Community Programs applications automated workflows](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs). **Only Developer Relations team members** should handle these applications and opportunities because the team verifies program requirements before issuing/renewing licenses and these opportunities are handled differently since the opportunities are free.
+GitLab provides free licenses to qualifying entities through the [Community Programs](/handbook/marketing/developer-relations/community-programs/): [GitLab for Education Program](/solutions/education/), [GitLab for Open Source Program](/solutions/open-source/) and [GitLab for Startups Program](/solutions/startups/). All applications to these programs are routed through the [Community Programs applications automated workflows](/handbook/marketing/developer-relations/community-programs/automated-community-programs). **Only Developer Relations team members** should handle these applications and opportunities because the team verifies program requirements before issuing/renewing licenses and these opportunities are handled differently since the opportunities are free.
 
 #### Inquiry and Application Process (Leads or Contacts)
 
-1. If an existing contact or new lead is interested in applying to one of the programs, use the [Community Programs lead routing matrix](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/#inbound-sales-requests-routing-workflows) to determine how best to assist. If the lead has specific questions, direct them to send an email to `education@gitlab.com`, `startups@gitlab.com`, or `opensource@gitlab.com`. Then reassign the lead to the appropriate program manager.
+1. If an existing contact or new lead is interested in applying to one of the programs, use the [Community Programs lead routing matrix](/handbook/marketing/developer-relations/community-programs/#inbound-sales-requests-routing-workflows) to determine how best to assist. If the lead has specific questions, direct them to send an email to `education@gitlab.com`, `startups@gitlab.com`, or `opensource@gitlab.com`. Then reassign the lead to the appropriate program manager.
 1. In the situation that you need direct assistance with the lead/contact, chatter the program manager in Salesforce with a note about the requested action.
 
 #### Assigning Opportunities and Renewal Opportunities
@@ -867,7 +867,7 @@ To send a digital copy of an Order Form to the customer via DocuSign:
 
 **Internal Resources:**
 - For a visual demo of GitLab’s DocuSign instance, review this [LevelUP Webinar from 2021-05-13](https://youtu.be/Dch4zaUQOeg)
-- Note: If you cannot view the video, make sure you are logged in to GitLab Unfiltered. [You can learn more about how to log in or request access to GitLab Unfiltered here!](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube)
+- Note: If you cannot view the video, make sure you are logged in to GitLab Unfiltered. [You can learn more about how to log in or request access to GitLab Unfiltered here!](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube)
 
 **DocuSign University:**
 - [Send Your First Envelope](https://dsu.docebosaas.com/learn/course/620)

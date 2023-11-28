@@ -54,7 +54,7 @@ Currently, the following methods create feedback issues for review:
 1. [Automatic email survey](/handbook/support/readiness/operations/docs/zendesk/ssat/) -- sent to customers when tickets are closed.
 1. Mid-ticket feedback link -- each Public Comment from a GitLab Support Engineer or Manager has a link to a form where a customer can provide feedback or request contact from a manager while the ticket is open (introduced in issue [2913](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2913)).
    1. This feedback form creates issues in the customer feedback project, with a subject format of **Positive/Negative/Neutral feedback for ticket nnnnnn**, and is automatically assigned to the **SSAT reviewing manager**.
-   1. If the feedback is negative, there is an option to request manager contact (within 48hrs Mon-Fri). If this option is chosen, a Slack notification is sent to the #support_ticket-attention-requests channel. The [**On Call Manager**](/handbook/support/workflows/support_manager-on-call.html#expectations-for-support-manager-on-call) should promptly follow the guidance in [Handling mid ticket feedback requesting manager contact during business hours](/handbook/support/workflows/support_manager-on-call.html#handling-mid-ticket-feedback-requesting-manager-contact-during-business-hours).
+   1. If the feedback is negative, there is an option to request manager contact (within 48hrs Mon-Fri). If this option is chosen, a Slack notification is sent to the #support_ticket-attention-requests channel. The [**On Call Manager**](/handbook/support/workflows/support_manager-on-call#expectations-for-support-manager-on-call) should promptly follow the guidance in [Handling mid ticket feedback requesting manager contact during business hours](/handbook/support/workflows/support_manager-on-call#handling-mid-ticket-feedback-requesting-manager-contact-during-business-hours).
 1. GitLab team members (such as CSMs and Sales team) can open an [Indirect Feedback](https://gitlab.com/gitlab-com/support/feedback/-/issues/new?issuable_template=Indirect+Feedback) issue with details they received from the customer.
 1. Any issue requiring contact can also be identified by applying the `SSAT::Contact` label. In the Description or in a Comment, specify that manager contact was requested.
 
@@ -77,7 +77,7 @@ issue within 7 days of its creation.
 
 ## Workflows for reviewing feedback
 
-Our [Feedback and Complaints handbook page](/handbook/support/workflows/feedbacks_and_complaints.html) provides general guidance on assessing and responding to feedback.
+Our [Feedback and Complaints handbook page](/handbook/support/workflows/feedbacks_and_complaints) provides general guidance on assessing and responding to feedback.
 
 ## Handling "Good" Reviews
 

@@ -10,7 +10,7 @@ As a refresher, Continuous Integration empowers developers to regularly integrat
 
 Thinking more broadly in terms of Continuous Integration and Continuous Delivery (referencing [CI/CD](/topics/ci-cd/) together as one has become more common today), CI ensures software is automatically validated pre-deployment and ready for the next step in the application delivery process. CD acts as an extension of CI to automate the actual release process and gets software in a state where "it can be deployed to production at any time with the touch of a button," to reference Jez Humble's take on CD.  
 
-Below, you'll find messaging and positioning focused on the [CI use case](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/) and [GitLab's CI capabilities](/features/continuous-integration/). Please feel free to provide input and help improve the content for future iterations. [Everyone can contribute](/handbook/company/strategy/#how)!
+Below, you'll find messaging and positioning focused on the [CI use case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/) and [GitLab's CI capabilities](/features/continuous-integration/). Please feel free to provide input and help improve the content for future iterations. [Everyone can contribute](/handbook/company/strategy/#how)!
 
 ### Messaging and Positioning
 

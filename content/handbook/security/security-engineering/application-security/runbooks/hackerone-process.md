@@ -203,7 +203,7 @@ Remediation of this vulnerability happens within the SIRT issue and typically in
   - Once a fix is shipped, award the remaining amount (or full amount if none was awarded at time of triage) using the `02 - Bounty Award` common response
   - Add a 💰 emoji to the bug bounty council thread after paying the bounty award.
 
-We can award GitLab swag to reporters who have submitted a quality report that did not qualify for a monetary reward in our Bug Bounty program. To award swag, please follow the [swag nomination process](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-appreciation/#nomination-process) that is managed by our Developer Relations team.
+We can award GitLab swag to reporters who have submitted a quality report that did not qualify for a monetary reward in our Bug Bounty program. To award swag, please follow the [swag nomination process](/handbook/marketing/developer-relations/contributor-success/community-appreciation/#nomination-process) that is managed by our Developer Relations team.
 
 ## Managing issues
 

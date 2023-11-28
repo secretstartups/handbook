@@ -46,7 +46,7 @@ this workflow.
 - Fulfillment Product Management will decide the appropriate section and PM to
   which to assign each new issue
 - If you believe a high priority issue is not being addressed quickly enough,
-  then please contact any of the L&R Support [Regional DRIs](../index.html#regional-dris)
+  then please contact any of the L&R Support [Regional DRIs](/handbook/support/license-and-renewals/#support-management-contacts)
 
 ### Support's issue list for Fulfillment
 
@@ -118,7 +118,7 @@ possible reprioritization should:
 
 - Engineering Managers
   - provide progress state updates
-- L&R Support [Regional DRIs](../index.html#regional-dris)
+- L&R Support [Regional DRIs](/handbook/support/license-and-renewals/#support-management-contacts)
   - facilitate the monthly review of items labeled
     `Support Priority::Categorize` or `Support Prioritize::Review`
   - set the priority of each item based on the
@@ -133,7 +133,7 @@ possible reprioritization should:
 
 On a monthly basis, aligned with the product release cycle, L&R Support will
 determine what changes, if any, are needed in the list. At this time the
-[Regional DRIs](../index.html#regional-dris) will:
+[Regional DRIs](/handbook/support/license-and-renewals/#support-management-contacts) will:
 
 1. Request that L&R Support Engineers set a Support Priority Score for each
    issue and epic labeled `Support Priority::Categorize` by creating a new
@@ -239,4 +239,4 @@ of the children are. In this situation, we will:
 
 ### How to get help from the Fulfillment Section development team
 
-If you require technical assistance from any Fulfillment Development Section Sub Group for issues that are not bugs or feature requests, then you can use GitLab.com to create an issue and request help. The workflow for this process is documented in the following handbook section [How to Use GitLab.com to Formally Request Help from the GitLab Development Team](/handbook/support/workflows/how-to-get-help.html#how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-development-team).
+If you require technical assistance from any Fulfillment Development Section Sub Group for issues that are not bugs or feature requests, then you can use GitLab.com to create an issue and request help. The workflow for this process is documented in the following handbook section [How to Use GitLab.com to Formally Request Help from the GitLab Development Team](/handbook/support/workflows/how-to-get-help#how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-development-team).

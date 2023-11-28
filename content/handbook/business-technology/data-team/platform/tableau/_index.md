@@ -296,7 +296,7 @@ Tableau Cloud leverages GitLab's existing technology investments and integrates 
 
 ### Permissions
 
-Pursuant to GitLab's Transparency value, all GitLab team members will have access to all content in Tableau by default. However, as a Public Company, we have to abide by the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) and limit access to certain sensitive and confidential data in Tableau to team members that need SAFE data to do their jobs. In Tableau, we set these SAFE data permissions via User Groups at the Project level.
+Pursuant to GitLab's Transparency value, all GitLab team members will have access to all content in Tableau by default. However, as a Public Company, we have to abide by the [SAFE Framework](/handbook/legal/safe-framework/) and limit access to certain sensitive and confidential data in Tableau to team members that need SAFE data to do their jobs. In Tableau, we set these SAFE data permissions via User Groups at the Project level.
 
 #### User Groups
 
@@ -307,7 +307,7 @@ User Groups are the only prescribed method we use for setting permissions across
 Limited access user groups will allow business teams to manage accessibility to their published content based on rules that they've identified. Request for the creation of a limited access user group can be made through the All Requests template in [Issues](https://gitlab.com/gitlab-data/tableau/-/issues/?sort=created_date&state=opened&first_page_size=100) section of the Tableau project and requires the approval of that department's [sub-project lead](/handbook/business-technology/data-team/platform/tableau/#biops-roles-and-responsibilities).
 
 - General SAFE Access
-  - This group allows viewing of and development with data that contains material non-pulic information that should be kept [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/).  Team members must be on the [Designated Insiders](https://about.gitlab.com/handbook/legal/publiccompanyresources/#sts=Designated%20Insiders) list to be added to this group.
+  - This group allows viewing of and development with data that contains material non-pulic information that should be kept [SAFE](/handbook/legal/safe-framework/).  Team members must be on the [Designated Insiders](/handbook/legal/publiccompanyresources/#sts=Designated%20Insiders) list to be added to this group.
   - To gain [access to SAFE data](/handbook/business-technology/data-team/platform/safe-data/) and be part of the SAFE Access group please submit an AR like this [example](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/24284), which requires manager and VP approval.
 
 - ASM EMEA Commercial Restricted Access

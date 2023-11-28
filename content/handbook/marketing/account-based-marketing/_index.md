@@ -19,7 +19,7 @@ twitter_creator: '@gitlab'
 {: #overview .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-ABM is a marketing strategy that concentrates resources on a set of target accounts. We create personalized campaigns designed to engage each account on a singular basis or a cohort of accounts based on specific attributes and needs of the accounts. The ultimate goal is for ABM to align with teams across Marketing and Sales to work in tandem to create personalized buying experiences for a mutually-identified set of high-value accounts — the goal for which is increased deal velocity and pipeline. Attainment of our KPIs and goals is a collaborative effort across [interlocking teams](https://about.gitlab.com/handbook/marketing/account-based-marketing/#fy24-interlocking-teams).
+ABM is a marketing strategy that concentrates resources on a set of target accounts. We create personalized campaigns designed to engage each account on a singular basis or a cohort of accounts based on specific attributes and needs of the accounts. The ultimate goal is for ABM to align with teams across Marketing and Sales to work in tandem to create personalized buying experiences for a mutually-identified set of high-value accounts — the goal for which is increased deal velocity and pipeline. Attainment of our KPIs and goals is a collaborative effort across [interlocking teams](/handbook/marketing/account-based-marketing/#fy24-interlocking-teams).
 
 ## Team Structure
 
@@ -87,13 +87,13 @@ These accounts will be grouped together based on specific attributes (industry, 
      - Sponsored ads: Sponsored Content allows us to publish ads in the LinkedIn newsfeed across both desktop and mobile. We can target a specific audience of people which helps us raise awareness and drive quality leads.
      - Sponsored InMail: targets specific audiences through the platform’s message center.
 - Display Advertising: Mobile and desktop advertisements served to a specific audience on a specific list of websites
-- [Qualified](https://about.gitlab.com/handbook/marketing/marketing-operations/qualified/): a chat platform to engage visitors on our webpages
-- [Reachdesk](https://about.gitlab.com/handbook/marketing/marketing-operations/reachdesk/): a global gifting platform
-- [Terminus Email Signature Banners](https://about.gitlab.com/handbook/marketing/marketing-operations/terminus-email-experiences/): Ads within an email signature that are targeted based on email address domain.
-- [Pathfactory](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/):
+- [Qualified](/handbook/marketing/marketing-operations/qualified/): a chat platform to engage visitors on our webpages
+- [Reachdesk](/handbook/marketing/marketing-operations/reachdesk/): a global gifting platform
+- [Terminus Email Signature Banners](/handbook/marketing/marketing-operations/terminus-email-experiences/): Ads within an email signature that are targeted based on email address domain.
+- [Pathfactory](/handbook/marketing/marketing-operations/pathfactory/):
      - Content tracks: Allow us to bundle assets together (around 5-7) in a "content track" and shared as one link. Instead of sharing multiple links to individual assets, one link provides a curated content experience.
      - Microsites: PathFactory’s Microsite Builder enables us to display multiple types of Content Tracks within a custom-designed landing page that aligns to our Tier 1 accounts or a Tier 2 cohort of accounts.
-- [Outreach](https://about.gitlab.com/handbook/marketing/marketing-operations/outreach/): The core tool for BDR outbound efforts, ABM will write custom sequences for 1:1 and cohort plays as needed.
+- [Outreach](/handbook/marketing/marketing-operations/outreach/): The core tool for BDR outbound efforts, ABM will write custom sequences for 1:1 and cohort plays as needed.
 
 ## Communication
 

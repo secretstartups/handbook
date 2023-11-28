@@ -21,9 +21,9 @@ twitter_creator: "@gitlab"
 
 ## Teams
 {: #teams .gitlab-purple}
-- [Marketing Campaigns](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/)
-- [Digital Marketing](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/)
-- [Global Channel and Alliances Marketing](https://about.gitlab.com/handbook/marketing/channel-marketing/)
+- [Marketing Campaigns](/handbook/marketing/demand-generation/campaigns/)
+- [Digital Marketing](/handbook/marketing/integrated-marketing/digital-strategy/)
+- [Global Channel and Alliances Marketing](/handbook/marketing/channel-marketing/)
 
 [See team members in org chart](https://comp-calculator.gitlab.net/org_chart)
 
@@ -31,4 +31,4 @@ twitter_creator: "@gitlab"
 {: #reporting .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-Please see [Demand Generation Reporting Handbook Page](https://about.gitlab.com/handbook/marketing/demand-generation/reporting/) for all details related to our reporting and dashboard analysis, as well as deeper dives into opporutnities to optimize and drive results against targets.
+Please see [Demand Generation Reporting Handbook Page](/handbook/marketing/demand-generation/reporting/) for all details related to our reporting and dashboard analysis, as well as deeper dives into opporutnities to optimize and drive results against targets.

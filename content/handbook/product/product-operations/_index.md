@@ -31,7 +31,7 @@ Product operations work happens in alignment with GitLab's [product development 
 
 - [Product development flow releases](/handbook/product-development-flow/releases/)
 - [Product handbook updates](/handbook/product/handbook-updates/)
-- [Release post updates](https://about.gitlab.com/handbook/marketing/blog/release-posts/process-updates/)
+- [Release post updates](/handbook/marketing/blog/release-posts/process-updates/)
 - [Template specific updates](/handbook/product/product-operations/template-updates/)
 
 **Information on all work currently in progress for product operations can be seen here:**

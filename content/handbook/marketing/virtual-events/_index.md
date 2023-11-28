@@ -71,11 +71,11 @@ Once the sponsorship has been confirmed, go to your calendar event and remove `H
 
 ## Rescheduling external virtual events
 
-For the most up-to-date rescheduling instructions, please visit [this handbook page](https://about.gitlab.com/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
+For the most up-to-date rescheduling instructions, please visit [this handbook page](/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
 
 ## Cancelling external virtual events
 
-For the most up-to-date rescheduling instructions, please visit [this handbook page](https://about.gitlab.com/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
+For the most up-to-date rescheduling instructions, please visit [this handbook page](/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
 
 ## Virtual events decision tree
 {: #decision-tree .gitlab-purple}
@@ -92,7 +92,7 @@ This is a light weight virtual event that can be hosted on GitLabber's personal 
 
 We can track registration, but there is **NO Marketo integration and NO Marketo landing page**, requiring manual list upload to Marketo post event by MOps. For this virtual event type, no Campaigns Team program support pre/post event will be required.
 
-[Self-service handbook](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/)
+[Self-service handbook](/handbook/marketing/virtual-events/self-service-virtual-events/)
 
 This is the same format as a self-service event, except **Campaigns Team** will support 1-2 invitations and follow-up email. 
 
@@ -102,7 +102,7 @@ This is a GitLab-hosted virtual event with `Webcast` type configuration, which *
 * On24 (Campaigns Team): goal is net new customer acquisition, aligned to campaign motions to drive MQLs in target accounts and broader prospect database. Requires registration on On24.
 * Zoom (Field Marketing): goal is to increase conversion/velocity of MQLs to SAO, and/or SAO to Closed Won, aligned to campaign motions. Capped registration at 1000 attendee, requires registration on Marketo landing page.
 
-[Webcast handbook](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/)
+[Webcast handbook](/handbook/marketing/virtual-events/webcasts/)
 
 #### Webcast Subcategory - Virtual Hands-on Workshops 
 {: #workshops}
@@ -112,15 +112,15 @@ Field Marketing runs hands-on workshops virtually. Regardless or not if there wi
 - By using Zoom webcast for these workshops we are able to more easily track and manage the Q&A coming in from the larger audience. With the chat feature in the Self Service Zoom offering, the chat runs long and can become confusing.
 - There is a more professional look and feel of a Webcast run event vs a self-service run event.
 
-For details regarding Virtual Workshops, please visit the [Field Marketing Page](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshops).
+For details regarding Virtual Workshops, please visit the [Field Marketing Page](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshops).
 
 ### Virtual Conference
 {: #virtual-conference}
-Please work with the Corporate Marketing Events team on planning these large scale events. [Virtual Conference handbook](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/#virtual-conference) This event type is only intended if you need more tracked attendees than is capable with zoom and/ or you need multiple simultaneous tracks. It also allows for a partner expo hall. The tool we have in place allows for a cleaner experience for the end user than switchign between zoom calls. It more mirrors a physical event experience, with a keynote stage, tracks, expo halls and networking options. 
+Please work with the Corporate Marketing Events team on planning these large scale events. [Virtual Conference handbook](/handbook/marketing/virtual-events/external-virtual-events/#virtual-conference) This event type is only intended if you need more tracked attendees than is capable with zoom and/ or you need multiple simultaneous tracks. It also allows for a partner expo hall. The tool we have in place allows for a cleaner experience for the end user than switchign between zoom calls. It more mirrors a physical event experience, with a keynote stage, tracks, expo halls and networking options. 
 
 ### External virtual events
 {: #external}
-Note: these events are not included in the above decision tree as they are not GitLab-hosted events. [External virtual events handbook](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/)
+Note: these events are not included in the above decision tree as they are not GitLab-hosted events. [External virtual events handbook](/handbook/marketing/virtual-events/external-virtual-events/)
 
 * **Sponsored demand gen webcast:** This is webcast hosted on an external partner/vendor platform (e.g: DevOps.com). The partner/vendor is responsible for driving registration, moderating and hosting the webcast on their platform. Mktg-OPs will be responsible for uploading the list to our database and MPMs will be responsible for sending post-event follow-up emails. *[Link to Marketo program template.](https://app-ab13.marketo.com/#PG5523A1)*
 * **Sponsored Virtual Conference:** This is not a webcast but rather a virtual conference where we pay a sponsorship fee to get a virtual booth and sometimes a speaking session slot. Campaigns Team will primarily be responsible for sending the post-event follow-up emails. *[Link to Marketo program template.](https://app-ab13.marketo.com/#ME5121A1)*
@@ -153,11 +153,11 @@ Note: these events are not included in the above decision tree as they are not G
 
 ### Self-service virtual events 
 {: #go-live-self-service}
-In the spirit of efficiency, we encourage team members to host self-service events when they have interesting content to share with the GitLab community. See the project planning and best practices for producing self-service events in the [self-service virtual events execution page](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/) to get started. 
+In the spirit of efficiency, we encourage team members to host self-service events when they have interesting content to share with the GitLab community. See the project planning and best practices for producing self-service events in the [self-service virtual events execution page](/handbook/marketing/virtual-events/self-service-virtual-events/) to get started. 
 
 ### Webcasts 
 {: #go-live-webcast}
-Currently, only the Campaigns Team team can run GitLab hosted virtual event with `Webcast` type configuration in zoom since this configuration requires a special Zoom license and integration with Marketo. To begin a webcast request, visit the [webcast page](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/) and follow the instructions.
+Currently, only the Campaigns Team team can run GitLab hosted virtual event with `Webcast` type configuration in zoom since this configuration requires a special Zoom license and integration with Marketo. To begin a webcast request, visit the [webcast page](/handbook/marketing/virtual-events/webcasts/) and follow the instructions.
 
 ## How to promote your virtual event?
 {: #promotion}
@@ -166,11 +166,11 @@ Currently, only the Campaigns Team team can run GitLab hosted virtual event with
 {: #promotion-self-service-no-promo}
 **If you have not yet identified if a self-service virtual event is the correct event type of event for you, please scroll to the top of this page to find out.**
 
-Please see the self-service virtual [event promotion guide](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/) for best practice instructions on how to promote.
+Please see the self-service virtual [event promotion guide](/handbook/marketing/virtual-events/self-service-virtual-events/) for best practice instructions on how to promote.
 
 ### Self-service with promotion
 {: #promotion-self-service}
-Below are Marketing promotion options for self-service virtual event, including requirements and DRI to contact to get the promotions started. Issue links are included in the [epic code template](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#epic-code-with-promotion) for self-service with promotion. The requestor will create the relevant promotion issues for the event and assign to DRI. 
+Below are Marketing promotion options for self-service virtual event, including requirements and DRI to contact to get the promotions started. Issue links are included in the [epic code template](/handbook/marketing/virtual-events/self-service-virtual-events/#epic-code-with-promotion) for self-service with promotion. The requestor will create the relevant promotion issues for the event and assign to DRI. 
 
 * **Organic Social Post:** 1 post, requires 5 BD turnaround, DRI = Social team
 * **Targeted email blast:** 1-2 sends, requires 5 BD turnaround, DRI = MPM
@@ -241,9 +241,9 @@ The question & answer (Q&A) feature for webcasts allows attendees to ask questio
 
 #### Polling
 {: #zoom-polling}
-You can enable polling in your meeting or virtual event to survey your attendees. See the [prerequisites](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#prerequisites) for how to enable polling.
+You can enable polling in your meeting or virtual event to survey your attendees. See the [prerequisites](/handbook/marketing/virtual-events/self-service-virtual-events/#prerequisites) for how to enable polling.
 
-You can also download the results of your poll - see [reporting](https://about.gitlab.com/handbook/marketing/virtual-events/#reporting).
+You can also download the results of your poll - see [reporting](/handbook/marketing/virtual-events/#reporting).
 
 *  [Polling for webcasts](https://support.zoom.us/hc/en-us/articles/203749865-Polling-for-Webinars)
 *  [Polling for meetings](https://support.zoom.us/hc/en-us/articles/213756303-Polling-for-Meetings)
@@ -259,7 +259,7 @@ There are currently no networking features available in Zoom outside of the part
 
 ### Security
 {: #zoom-security}
-Please follow the [prerequisites](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#prerequisites) when setting up your virtual event. The [prerequisites](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#prerequisites) include steps for ensuring your virtual event and account are secure.
+Please follow the [prerequisites](/handbook/marketing/virtual-events/self-service-virtual-events/#prerequisites) when setting up your virtual event. The [prerequisites](/handbook/marketing/virtual-events/self-service-virtual-events/#prerequisites) include steps for ensuring your virtual event and account are secure.
 
 ### GDPR and privacy compliance
 {: #zoom-compliance}
@@ -310,7 +310,7 @@ For attendee lists:
 
 ### List uploads
 {: #list-uploads}
-If you have a **minimum of 20 leads** to upload from a virtual event, you can utilize the [same list upload process](https://about.gitlab.com/handbook/marketing/marketing-operations/list-import/) through marketing operations. Please create an issue in the marketing operations project using the [`event-clean-list-upload.md`](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/event-clean-upload-list.md) issue template and assign it to `@jburton`.
+If you have a **minimum of 20 leads** to upload from a virtual event, you can utilize the [same list upload process](/handbook/marketing/marketing-operations/list-import/) through marketing operations. Please create an issue in the marketing operations project using the [`event-clean-list-upload.md`](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/event-clean-upload-list.md) issue template and assign it to `@jburton`.
 
 ### Zoom landing page registration source tracking
 {: #zoom-registration}
@@ -318,7 +318,7 @@ When driving webcast registration to a Zoom landing page, Zoom registration sour
 
 [Registration source tracking on zoom landing page](https://support.zoom.us/hc/en-us/articles/360000315683-Webinar-registration-source-tracking) is only available for MPM run `Webcast` type and not the self-service virtual events `Meeting` type set up.
 
-Currently, we do not use Zoom's landing page for webcast registration as MPMs manage the webcast registration process by creating an about.gitlab landing page and integrating form fills to Zoom via Marketo. The Zoom integration tracks sources that drove the registration using UTM parameters. See [full documentation on when and how to use utms](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#utms-for-url-tagging-and-tracking).
+Currently, we do not use Zoom's landing page for webcast registration as MPMs manage the webcast registration process by creating an about.gitlab landing page and integrating form fills to Zoom via Marketo. The Zoom integration tracks sources that drove the registration using UTM parameters. See [full documentation on when and how to use utms](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#utms-for-url-tagging-and-tracking).
 
 ### Live streaming
 {: #live-streaming}

@@ -38,7 +38,7 @@ Each release post GitLab recognizes a community contributor as the MVP ("Most Va
 1. Link the nomination issue in the `#announcements` Discord channel.
 1. Encourage team members and the wider community to vote by sharing reminders in the above Slack and Discord channels.
   - Complete by the Monday before the MVP is selected.
-1. Select the MVP in the nomination issue by choosing the [eligible nominee](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/mvp-process.html#mvp-eligibility) with the most votes
+1. Select the MVP in the nomination issue by choosing the [eligible nominee](/handbook/marketing/developer-relations/contributor-success/mvp-process.html#mvp-eligibility) with the most votes
   - Votes are cast as :thumbsup: emoji under the nominee thread in the issue. Other emoji are not counted, but if a vote is close please remind voters they must use the :thumbsup: to vote.
   - Complete by the second Thursday of the month.
   - If no MVP nominations have been added to the MVP issue by the second Thursday of the month, resend reminders to the Slack/Discord channels by sharing the original solicitation posts again. Ping the channel and note the lack of nominations and due date. E.g. in #developer-relations:
@@ -130,6 +130,6 @@ Every release GitLab chooses a [Most Valuable Person (MVP)](https://about.gitlab
 
 1. Determine MVP after release post is published to the [blog](https://about.gitlab.com/releases/categories/releases/)
 1. Find MVP's contact information
-  * [Contacting contributors](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#contacting-contributors)
-1. Send Swag according to our [SWAG operations guide](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/swag/)
+  * [Contacting contributors](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#contacting-contributors)
+1. Send Swag according to our [SWAG operations guide](/handbook/marketing/developer-relations/workflows-tools/swag/)
   * Note that MVPs currently receive a Tier 3 swag prize

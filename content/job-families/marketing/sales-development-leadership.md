@@ -154,4 +154,4 @@ Additional details about our process can be found on our [hiring page](/handbook
 
 ### Relevant links
 
-- [Sales Development Handbook](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/)
+- [Sales Development Handbook](/handbook/marketing/revenue-marketing/sdr/)

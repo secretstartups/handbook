@@ -121,7 +121,7 @@ As we create campaigns, post jobs, sponsor events, and attract top talent to Git
 **Written articles are a great way to provide insight to candidates about a specific team, project, or exciting aspect of GitLab. There's several different ways to contribute an article including (please slack @cchiodo for further information about each option):**
 - [Builtin](https://builtin.com/company/gitlab), the online community for United States-based startups and national tech companies
 - [Venturefizz](https://venturefizz.com/gitlab), one of the leading authorities for jobs & careers in the tech industry
-- Write your own blog, or have a team member write it, and publish on the GitLab blog. Learn more about [how to contribute a blog to GitLab](https://about.gitlab.com/handbook/marketing/blog/#how-to-suggest-a-blog-post)
+- Write your own blog, or have a team member write it, and publish on the GitLab blog. Learn more about [how to contribute a blog to GitLab](/handbook/marketing/blog/#how-to-suggest-a-blog-post)
 - Asked to participate in an article? Learn more about what you can expect by scrolling to the bottom of [this page](/handbook/hiring/gitlab-ambassadors/)
 
 </details>
@@ -134,7 +134,7 @@ Our [GitLab jobs site](https://about.gitlab.com/jobs/) is where candidates can f
 
 ### Social media
 
-We incorporate content about hiring and our culture on GitLab's [social media](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) accounts so that there's one central place for candidates and the community to find out more about the company as a whole.
+We incorporate content about hiring and our culture on GitLab's [social media](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) accounts so that there's one central place for candidates and the community to find out more about the company as a whole.
 
 On LinkedIn, we have a specific [career page](https://www.linkedin.com/company/gitlab-com/life) where candidates can find out more about life at GitLab.
 
@@ -231,7 +231,7 @@ We're hiring across the company. Check out our opportunities: https://about.gitl
 **HackerNews Notes:**
 
 - Sid's HackerNews credentials should not to be used for the "Who's Hiring" post. The team member posting the comment should use their own account.
-- When posting on HackerNews, remember that it is our most important social channel. Please follow the [best practices](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/hacker-news/#best-practices-when-responding-on-hacker-news) and [social media guidelines](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/hacker-news/#social-media-guidelines).
+- When posting on HackerNews, remember that it is our most important social channel. Please follow the [best practices](/handbook/marketing/developer-relations/developer-evangelism/hacker-news/#best-practices-when-responding-on-hacker-news) and [social media guidelines](/handbook/marketing/developer-relations/developer-evangelism/hacker-news/#social-media-guidelines).
 
 ## Employer awards and recognition
 

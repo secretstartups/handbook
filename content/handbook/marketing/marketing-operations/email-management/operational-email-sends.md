@@ -17,10 +17,10 @@ The Marketing Operations team works very closely with the Lifecyle Marketing tea
 ### Issue Templates
 - Security Release Notification
 - [General non-demand generation template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=request-operational-email) (product updates, sub-processor updates, customer notifications)
-- Emergency or incidents should follow [separate processes and templates](https://about.gitlab.com/handbook/marketing/emergency-response/#marketing-emergency-response)
+- Emergency or incidents should follow [separate processes and templates](/handbook/marketing/emergency-response/#marketing-emergency-response)
 
 
-These issue templates are different from `marketing` emails and have their own checklists that apply. The SLA is 5 business days from final assets to send, but please put in issues as soon as you know you need to complete a send (even if you do not have final deliverables) as complexity may push out the SLA. Here are some [helpful tips](https://about.gitlab.com/handbook/marketing/marketing-operations/email-management/operational-email-sends/#customer-comms-email) to consider when sending a customer email. If you require a marketing email, please work with the [lifecycle team](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/#issue-templates).
+These issue templates are different from `marketing` emails and have their own checklists that apply. The SLA is 5 business days from final assets to send, but please put in issues as soon as you know you need to complete a send (even if you do not have final deliverables) as complexity may push out the SLA. Here are some [helpful tips](/handbook/marketing/marketing-operations/email-management/operational-email-sends/#customer-comms-email) to consider when sending a customer email. If you require a marketing email, please work with the [lifecycle team](/handbook/marketing/lifecycle-marketing/#issue-templates).
 
 Marketing Ops is not responsible for the list pull. You must open an [list request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=request-target-list) issue with the Marketing Strategy and Analytics team, or the appropriate data engineers.
 
@@ -28,11 +28,11 @@ Marketing Ops is not responsible for the list pull. You must open an [list reque
 ## Common Email Types
 
 ### Security Incidents
-Please follow information found on [this page](https://about.gitlab.com/handbook/marketing/emergency-response/#marketing-emergency-response), as these emails are highly important, urgent and follow a different order of operations for deploy.
+Please follow information found on [this page](/handbook/marketing/emergency-response/#marketing-emergency-response), as these emails are highly important, urgent and follow a different order of operations for deploy.
 
 
 ### Security Release Notifications
-If there is going to be a release during EMEA work hours, please notify us ahead of time to arrange for coverage. If unplanned and urgent, follow the [coverage matrix defined here](https://about.gitlab.com/handbook/marketing/emergency-response/#coverage-matrix)
+If there is going to be a release during EMEA work hours, please notify us ahead of time to arrange for coverage. If unplanned and urgent, follow the [coverage matrix defined here](/handbook/marketing/emergency-response/#coverage-matrix)
 
 Requestor Responsibilities:
 Fill out the issue template with the following information:
@@ -106,7 +106,7 @@ The email should answer the following questions in the following order:
 1.  What is your call to action? What should you do?
 1.  Where should you go if you need support? If applicable, where do you provide feedback (e.g., forum, issue, other)? If additional updates will be provided, when and how will that information be shared? 
 
-To request an email, follow directions on [this page](https://about.gitlab.com/handbook/marketing/marketing-operations/email-management/#request-non-demand-generation-emails)
+To request an email, follow directions on [this page](/handbook/marketing/marketing-operations/email-management/#request-non-demand-generation-emails)
 
 ##### Sample email 
 

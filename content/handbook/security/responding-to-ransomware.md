@@ -6,7 +6,7 @@ Ransomware is a persistent threat to many organizations, including GitLab.  In t
 
 ***Critical First Steps:***
 
-- [Engage the SIRT](#-contacting-the-team) team as soon as a ransomware attack is detected
+- Engage the SIRT team as soon as a ransomware attack is detected
 - The SIRT team will then follow the [incident response guide]({{< ref "sec-incident-response" >}}) and [incident communication plan]({{< ref "security-incident-communication-plan" >}}) and reference the [relevant run book](https://gitlab.com/gitlab-com/gl-security/runbooks/-/blob/master/sirt/infrastructure/ransomware-attack.md).
 - Responders should leverage GitLab's established [rapid engineering response](https://about.gitlab.com/handbook/engineering/workflow/#rapid-engineering-response) plan during the mitigation phase.
 - The Business Continuity & Disaster Recovery Controls handbook page should be referenced for relevant information.
@@ -20,9 +20,9 @@ Depending on the impacted resources, the following teams should be engaged and m
 - [Infrastructure Security Team](/handbook/security/security-engineering/infrastructure-security/) - infrastructure teams stable counterpart focused on cloud infrastructure security, best practices, and vulnerability management
 - [Business Technology Engineering](/handbook/business-technology/engineering/) - endpoint and systems access management
 - [Support Team](https://about.gitlab.com/support/) - responding to customer or employee inquiries regarding system outages
-- [Legal & Corporate Affairs](https://about.gitlab.com/handbook/legal/)
+- [Legal & Corporate Affairs](/handbook/legal/)
 - [Security Assurance]({{< ref "security-assurance" >}}) - assuring the security of GitLab as an enterprise application
-- [Marketing](https://about.gitlab.com/handbook/marketing/emergency-response/) - accurately represent GitLab and our products in our marketing, advertising, and sales materials.
+- [Marketing](/handbook/marketing/emergency-response/) - accurately represent GitLab and our products in our marketing, advertising, and sales materials.
 
 ***Communications:***
 

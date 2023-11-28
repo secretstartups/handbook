@@ -349,4 +349,4 @@ Additional details about our process can be found on our [hiring page](/handbook
 
 ### Relevant Links
 
-[Marketing Handbook](https://about.gitlab.com/handbook/marketing/)
+[Marketing Handbook](/handbook/marketing/)

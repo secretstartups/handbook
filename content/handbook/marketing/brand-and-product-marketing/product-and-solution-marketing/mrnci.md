@@ -20,13 +20,13 @@ title: "Market Strategy and Insights"
 - Activate - Turning Insights Into Action
 
 **How We Do It**
-- [**Customer Reference Program**](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/)
-  - [Customer Advisory Board](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/CAB/)
+- [**Customer Reference Program**](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/)
+  - [Customer Advisory Board](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/CAB/)
   - [Customer Case Studies](https://about.gitlab.com/customers/)
-  - [Peer Review Site Management](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/peer-reviews/) (Gartner Peer Insights, G2, Trust Radius, etc.)
-  - [Customer Insight Portraits](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/customer-insight/)
-- [**Industry Analyst Relations (IAR)**](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/)
-  - Interactions ([Briefings](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#how-we-conduct-industry-analyst-briefings), [Inquiry](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#how-we-conduct-industry-analyst-inquiries), Strategic Advisory)
+  - [Peer Review Site Management](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/peer-reviews/) (Gartner Peer Insights, G2, Trust Radius, etc.)
+  - [Customer Insight Portraits](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/customer-insight/)
+- [**Industry Analyst Relations (IAR)**](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/)
+  - Interactions ([Briefings](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#how-we-conduct-industry-analyst-briefings), [Inquiry](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#how-we-conduct-industry-analyst-inquiries), Strategic Advisory)
   - [Publications](https://about.gitlab.com/analysts/) (Comparative Research, Market Landscape, Best Practices, Thought Leadership)
   - View the [Analyst Relations Issue Board](https://gitlab.com/gitlab-com/marketing/product-marketing/-/boards/940099?&label_name[]=Analyst%20Relations) and [AR-Cats Issue Board](https://gitlab.com/gitlab-com/marketing/product-marketing/-/boards/940116?&label_name[]=Analyst%20Relations) to see what's currently in progress.
 

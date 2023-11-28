@@ -22,7 +22,7 @@ Whitesource is the first security partner to integrate with GitLab's security da
 
 GitLab offers built in security scans, including static application security testing (SAST), dynamic application security testing (DAST), dependency, container and license compliance scanning early in development before the individual developer's code is merged with anyone else's. This workflow provides clear accountability and actionable insight empowering the developer to find and fix vulnerable code.
 
-What type of integration - [Technical, Inbound](https://about.gitlab.com/handbook/alliances/#technology-partners)
+What type of integration - [Technical, Inbound](/handbook/alliances/#technology-partners)
 
 **Communications**  
 WhiteSource will launch a press release on 14 January 2020 to accompany GitLab Commit SFO event.

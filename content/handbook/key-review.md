@@ -83,7 +83,7 @@ Important notes:
 1. Every department KPI should be covered. This can be in the presentation and/or links to the handbook.
 1. [Top cross-functional initiatives](/handbook/company/team/structure/working-groups/#top-cross-functional-initiatives) should be covered in the sessions that map to the E-Group sponsor. Related issues and epics should be updated in advance of the meeting.
 1. Wherever possible, the KPI or KR being reviewed should be compared to Plan, Target, or industry benchmark.
-1. There is no presentation; the meeting is purely Q&A. Of course, people can ask to talk them through a slide. If you want to present, please [post a YouTube video](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/) like [Todd did](https://www.youtube.com/watch?v=hpyR39y_1d0) and link that from the slide deck, agenda, and/or Slack.
+1. There is no presentation; the meeting is purely Q&A. Of course, people can ask to talk them through a slide. If you want to present, please [post a YouTube video](/handbook/marketing/marketing-operations/youtube/) like [Todd did](https://www.youtube.com/watch?v=hpyR39y_1d0) and link that from the slide deck, agenda, and/or Slack.
 1. The functional owner is responsible for updating and posting their Key Review agenda 24 hours in advance of the meeting, post in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
 1. Video is not required, but if there is a video it should be posted 24hrs in advance in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
 1. The agenda document should include a presentation link that is accessible by all team members, as well as a Q&A section.
@@ -101,7 +101,7 @@ Function DRIs are expected to use and share their function's Key Review deck, me
 
 ### Recordings
 
-To view a recording of a Key Review, visit the playlist on YouTube Unfiltered titled [Key Reviews](https://www.youtube.com/playlist?list=PL05JrBw4t0KrlBfo0IBmV0BwJcPN59swi). If you are unable to view a video, please ensure you are logged in as [GitLab Unfiltered](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).
+To view a recording of a Key Review, visit the playlist on YouTube Unfiltered titled [Key Reviews](https://www.youtube.com/playlist?list=PL05JrBw4t0KrlBfo0IBmV0BwJcPN59swi). If you are unable to view a video, please ensure you are logged in as [GitLab Unfiltered](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).
 
 
 ### Automated KPI Slides

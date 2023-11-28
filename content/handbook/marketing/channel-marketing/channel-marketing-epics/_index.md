@@ -35,8 +35,8 @@ Create epic here: https://gitlab.com/groups/gitlab-com/marketing/-/epics/new
 * **Campaign Type:** `Partner - MDF`
 * **Allocadia Sub-Category ID** 
 * **Date(s):** 
-* [ ] [**Salesforce Campaign**]() - [process to follow](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up) 
-* [ ] [**Marketo Program**]() - [process to follow](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up) Remember to paste Allocadia Sub-Category ID into Marketo Description field when syncing to SFDC. The sub-category in Allocadia will auto-tag/update once the SFDC Campaign is created and an ID match found.
+* [ ] [**Salesforce Campaign**]() - [process to follow](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up) 
+* [ ] [**Marketo Program**]() - [process to follow](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up) Remember to paste Allocadia Sub-Category ID into Marketo Description field when syncing to SFDC. The sub-category in Allocadia will auto-tag/update once the SFDC Campaign is created and an ID match found.
 
 ## :notepad_spiral: Campaign Details 
 
@@ -76,14 +76,14 @@ Make a copy of the [Planning Spreadsheet](https://docs.google.com/spreadsheets/d
 (Fill in if applicable, delete if not.)
 
 ## :busts_in_silhouette: Staffing 
-Please read through the [Event Handbook page](https://about.gitlab.com/handbook/marketing/events/#employee-booth-guidelines) for best practices at events. Once you commit to an event, please make sure to plan to attend.  
+Please read through the [Event Handbook page](/handbook/marketing/events/#employee-booth-guidelines) for best practices at events. Once you commit to an event, please make sure to plan to attend.  
    * [ ] CAM: 
-   * [ ] Channel SA: If you need an SA to attend, [please follow their triage process](https://about.gitlab.com/handbook/marketing/events/#requesting-technical-staffing). 
-   * [ ] Speaker: If you need a customer speaker, [please follow the Customer Reference Process](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/customer-events.html#requesting-a-reference-customer). 
+   * [ ] Channel SA: If you need an SA to attend, [please follow their triage process](/handbook/marketing/events/#requesting-technical-staffing). 
+   * [ ] Speaker: If you need a customer speaker, [please follow the Customer Reference Process](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/customer-events.html#requesting-a-reference-customer). 
    * [ ] other:  
 
 ### Lead follow-up with Channel Partner 
-- [ ] Will the partner do initial lead follow-up? YES, based on [process outlined here](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#passing-to-vartopia-and-partner-visibility).    
+- [ ] Will the partner do initial lead follow-up? YES, based on [process outlined here](/handbook/marketing/channel-marketing/partner-campaigns/#passing-to-vartopia-and-partner-visibility).    
    - [ ] Please describe how the partner plans to follow-up on leads received from this event/campaign:    
 - [ ] Please add any additional, relevant notes regarding the partnership on this event/campaign here:
 
@@ -97,7 +97,7 @@ Please read through the [Event Handbook page](https://about.gitlab.com/handbook/
    * [ ]  Kick-off call with all DRI's scheduled 6 weeks pre-event
    * [ ]  Prep call scheduled 1 week pre-event
 * [ ]  Logo, company description and artwork sent to organizer - [Company description, product messaging and 
-GitLab positioning](https://about.gitlab.com/handbook/marketing/product-marketing/) and [GitLab Logos](https://about.gitlab.com/press/#press-kit)
+GitLab positioning](/handbook/marketing/product-marketing/) and [GitLab Logos](https://about.gitlab.com/press/#press-kit)
 * [ ]  Press list requested and shared with GitLab PR (Highwire PR for AMER, Speakeasy for EMEA, Bench PR for APAC) 
 * [ ]  Slack channel created and attendees invited
 * [ ]  Tickets allocated and ordered
@@ -138,7 +138,7 @@ GitLab positioning](https://about.gitlab.com/handbook/marketing/product-marketin
 <details> 
 <summary> Expand  </summary>
 
-For all details regarding swag, [please see here](https://about.gitlab.com/handbook/marketing/channel-marketing/#requesting-swag-for-channel-events-and-awards).
+For all details regarding swag, [please see here](/handbook/marketing/channel-marketing/#requesting-swag-for-channel-events-and-awards).
 
 ### Shipping Details
 - [ ] Ship from Vendor: 
@@ -209,7 +209,7 @@ Utilize the [Workshop/Webcast SLA Workback Schedule](https://docs.google.com/spr
 
 ### PMM Creates and assigns all to self except Marketo LP&A
 
-* [ ] [On24 Event Creation](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#on24-webcast-setup)
+* [ ] [On24 Event Creation](/handbook/marketing/virtual-events/webcasts/#on24-webcast-setup)
 * [ ] [Program Tracking](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=program-tracking)
 * [ ] [Webcast Prep Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=webcast-prep)
 * [ ] [Dry Run Scheduling Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=webcast_dry_run_scheduling)

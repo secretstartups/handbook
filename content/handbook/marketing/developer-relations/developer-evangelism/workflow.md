@@ -17,7 +17,7 @@ Welcome to the Developer Evangelism team workflow page. Learn how the team works
 
 Opening an issue is the best way to get a conversation started. The `dev-evangelism` label is at the `gitlab-com` group level, which means it can be added to any issue or merge request in the group's structure.
 
-The `dev-evangelism` label is required, other labels are optional. The [DE-Bot](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/projects/#developer-evangelism-bot) or a team member will do the triage and add the necessary labels. To reduce noise in the comments, please add the `DE-Type::Consulting` and the relevant `Consulting` team labels yourself.
+The `dev-evangelism` label is required, other labels are optional. The [DE-Bot](/handbook/marketing/developer-relations/developer-evangelism/projects/#developer-evangelism-bot) or a team member will do the triage and add the necessary labels. To reduce noise in the comments, please add the `DE-Type::Consulting` and the relevant `Consulting` team labels yourself.
 
 You can use the [request an evangelist issue template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=developer-evangelist-request) to submit a request. It provides a guide to collect the required information to triage the request.
 
@@ -115,7 +115,7 @@ Please use this template when creating Epics for activities that should appear f
 
 On completion:
 
-- [ ] [Distribute the content](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/#content-distribution)
+- [ ] [Distribute the content](/handbook/marketing/developer-relations/developer-evangelism/#content-distribution)
 - [ ] Add results to the epic, and to the technical content sheet. Mark the sheet row as completed (green).
 
 <!-- these labels should be included on all templates -->
@@ -183,7 +183,7 @@ https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/98 --
 
 On completion:
 
-- [ ] [Create event report slides and share them](https://about.gitlab.com/handbook/marketing/developer-relations/events/#event-reporting)
+- [ ] [Create event report slides and share them](/handbook/marketing/developer-relations/events/#event-reporting)
 
 <!-- these labels should be included on all templates -->
 /label ~"dev-evangelism" 
@@ -213,7 +213,7 @@ Note: These are samples for guidance, please add relevant labels for activity re
 ```markdown
 ## 👀 Pins
 
-* [Dev Evangelism Release Evangelism handbook](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism) provides all resources. 
+* [Dev Evangelism Release Evangelism handbook](/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism) provides all resources. 
 * [#release-post](https://gitlab.slack.com/archives/C3TRESYPJ) Slack channel (internal)
 
 ### ✍ Release post
@@ -358,11 +358,11 @@ Requests from other teams for the Developer Evangelism to own, participate or co
 
 These labels are required where an issue has `DE-Issue-Type::External` and `DE-Type::Consulting`, aside the team label `dev-evangelism` and `DE-Status` scoped label. If your team is not listed, you can still submit a request and it will be triaged appropriately
 
-Issues created for Consulting count against team quarterly budgets, you can learn more in the [Request budgets section below](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/workflow/#request-budgets).
+Issues created for Consulting count against team quarterly budgets, you can learn more in the [Request budgets section below](/handbook/marketing/developer-relations/developer-evangelism/workflow/#request-budgets).
 
 #### Bot Labels
 
-These labels are automatically assigned by the [DE-Bot](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/projects/#developer-evangelism-bot) for triaging purposes.
+These labels are automatically assigned by the [DE-Bot](/handbook/marketing/developer-relations/developer-evangelism/projects/#developer-evangelism-bot) for triaging purposes.
 
 
 | Label | Use |
@@ -458,7 +458,7 @@ Example CFP workflow using [quick actions](https://docs.gitlab.com/ee/user/proje
 ```
 
 5. When the event is done, update the issue with feedback and results.
-    1. Add talk videos to the [YouTube playlist](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/#youtube-playlist), if existing.
+    1. Add talk videos to the [YouTube playlist](/handbook/marketing/developer-relations/developer-evangelism/#youtube-playlist), if existing.
     2. Mark the issue as `DE-Status::Done` and close it.
 
 ```
@@ -496,7 +496,7 @@ Event requests include both event attendance (ex: attending client meetings, eve
 
 CFP requests include asking a Developer Evangelist to submit a proposal for an event or media opportunity or support a fellow team member in submitting to an open CFP.
 
-See [Requesting a Developer Evangelist to submit a CFP](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/cfps/) to request a Developer Evangelist to submit to a CFP for a corporate, field, or partner event.
+See [Requesting a Developer Evangelist to submit a CFP](/handbook/marketing/developer-relations/developer-evangelism/cfps/) to request a Developer Evangelist to submit to a CFP for a corporate, field, or partner event.
 
 #### Content requests
 

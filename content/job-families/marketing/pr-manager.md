@@ -107,15 +107,15 @@ The content specialty covers developing and overseeing the PR content strategy, 
 
 ### Events
 
-This specialty maps to the [Field Marketing](https://about.gitlab.com/handbook/marketing/field-marketing/) and [Corporate Event](https://about.gitlab.com/handbook/marketing/integrated-marketing/corporate-events/) departments at GitLab. The event specialty covers developing and overseeing the PR strategy for 3rd party tradeshows and GitLab hosted-events.
+This specialty maps to the [Field Marketing](/handbook/marketing/field-marketing/) and [Corporate Event](/handbook/marketing/integrated-marketing/corporate-events/) departments at GitLab. The event specialty covers developing and overseeing the PR strategy for 3rd party tradeshows and GitLab hosted-events.
 
 ### Partner and Channel
 
-This specialty maps to the [partner and channel marketing](https://about.gitlab.com/handbook/marketing/channel-marketing/) department at GitLab. The partner and channel specialty covers developing and overseeing the PR strategy, announcements and campaigns related to any <!-- 404 Broken link [tech partners](https://about.gitlab.com/handbook/marketing/strategic-marketing/partner-marketing/) --> tech partners or channel partners. This includes promotion of key technology integrations and alliances, promotion of key channel partnerships, reviewing partner-led announcements around joining the GitLab Partner Program, and developing proactive partner storylines for press engagements and events. Additionally, this role is responsible for ensuring partner and channel storylines are integrated for a holistic GitLab offering view.
+This specialty maps to the [partner and channel marketing](/handbook/marketing/channel-marketing/) department at GitLab. The partner and channel specialty covers developing and overseeing the PR strategy, announcements and campaigns related to any <!-- 404 Broken link [tech partners](/handbook/marketing/strategic-marketing/partner-marketing/) --> tech partners or channel partners. This includes promotion of key technology integrations and alliances, promotion of key channel partnerships, reviewing partner-led announcements around joining the GitLab Partner Program, and developing proactive partner storylines for press engagements and events. Additionally, this role is responsible for ensuring partner and channel storylines are integrated for a holistic GitLab offering view.
 
 ### Product
 
-This specialty maps to the [Product Marketing](https://about.gitlab.com/handbook/marketing/strategic-marketing/) department at GitLab. The product specialty covers developing and overseeing the PR product strategy, which includes promotion of releases, developing product storylines for press engagements, and product awards submissions. Additionally, this role is responsible for ensuring partner and channel storylines are integrated for a holistic GitLab offering view.
+This specialty maps to the [Product Marketing](/handbook/marketing/strategic-marketing/) department at GitLab. The product specialty covers developing and overseeing the PR product strategy, which includes promotion of releases, developing product storylines for press engagements, and product awards submissions. Additionally, this role is responsible for ensuring partner and channel storylines are integrated for a holistic GitLab offering view.
 
 ### Public Sector
 

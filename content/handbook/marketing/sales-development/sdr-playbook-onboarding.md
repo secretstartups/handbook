@@ -8,7 +8,7 @@ As BDRs and SDRs, you work closely with the larger marketing org as well as the 
 
 This learning experience involves virtual self-paced learning paths in the form of a general company-wide onboarding issue, a Sales Development specific issue, as well as a Google Classroom course to prep you for [Sales Quick Start (SQS)](https://about.gitlab.com/handbook/sales/onboarding/SQS-workshop/). SQS is a 3-day in-person immersive and hands-on workshop for all new hires in a sales development or sales role. In parallel, you will meet regularly with your manager, onboarding buddy and members of our sales development enablement team to chat through and dig a bit deeper into the topics within your onboarding.
 
-The goal in all of this is to ensure that you feel confident and comfortable to hit the ground running at the start of your second month on the job when you will have a [ramped quota](https://about.gitlab.com/handbook/marketing/sales-development/#bdr-and-sdr-compensation-and-quota). Our hope is that along this journey you are not only gaining the tactical skills needed to complete your job, but that you form connections with colleagues, gain a strong understanding of our culture, and begin to develop industry knowledge.
+The goal in all of this is to ensure that you feel confident and comfortable to hit the ground running at the start of your second month on the job when you will have a [ramped quota](/handbook/marketing/sales-development/#bdr-and-sdr-compensation-and-quota). Our hope is that along this journey you are not only gaining the tactical skills needed to complete your job, but that you form connections with colleagues, gain a strong understanding of our culture, and begin to develop industry knowledge.
 
 ## Sales Development Onboarding Process
 

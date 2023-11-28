@@ -14,7 +14,7 @@ twitter_creator: 'gitlab'
 
 
 ## Community Management is a team effort
-In order to communicate and respond to our community effectively, management of responses and conversations is a shared effort between Social Media, [Developer Relations](https://about.gitlab.com/handbook/marketing/developer-relations/), [Developer Evangelists](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism), various experts, and our Support Teams. The two key teams in our processes are the Social and Developer Relations teams. Both act as either the final point of contact or the responsible party to forward messages to the other teams.
+In order to communicate and respond to our community effectively, management of responses and conversations is a shared effort between Social Media, [Developer Relations](/handbook/marketing/developer-relations/), [Developer Evangelists](/handbook/marketing/developer-relations/developer-evangelism), various experts, and our Support Teams. The two key teams in our processes are the Social and Developer Relations teams. Both act as either the final point of contact or the responsible party to forward messages to the other teams.
 
 ## Engaging with team member social Posts
 _non-executive, non-evangelist, non-brand personality team members_
@@ -89,7 +89,7 @@ This chart defines who owns what channels, sources, and how often they are revie
 
 ## Community Management on Instagram
 
-It is worth calling out platform specifics for [Instagram](https://www.instagram.com/gitlab) in [our handbook](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/#instagram-) because the channel does not operate like any other Brand Social Channel. Since Instagram is a visual first platform, we take an editorial approach that prioritizes brand awareness, and 1:1 conversation. This is GitLab's opportunity to share real team member stories, and express our values. 
+It is worth calling out platform specifics for [Instagram](https://www.instagram.com/gitlab) in [our handbook](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/#instagram-) because the channel does not operate like any other Brand Social Channel. Since Instagram is a visual first platform, we take an editorial approach that prioritizes brand awareness, and 1:1 conversation. This is GitLab's opportunity to share real team member stories, and express our values. 
 
 One of the challenges we face as an all-remote organization on Instagram, is that we typically have lower quality images. We have to depend on team members and their cell phone photos. So our approach to each post is to be authentic. Don't filter the image. These are photos of real offices or experiences, and portray actual team members.
 

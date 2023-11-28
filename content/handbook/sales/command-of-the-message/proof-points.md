@@ -432,7 +432,7 @@ _[The original and internal-to-GitLab proof points Google Doc is online here,](h
 
 #### 2020
 
-<big>[Forrester Total Economic Impact Study Commissioned By GitLab, June 2020](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/forrester-tei/)</big><br>
+<big>[Forrester Total Economic Impact Study Commissioned By GitLab, June 2020](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/forrester-tei/)</big><br>
 *GitLab commissioned Forrester Consulting to conduct a Total Economic Impact (TEI) study examining the potential return on investment (ROI) enterprises may realize by using GitLab.*<br>
 GitLab customers were interviewed and related data was collected independently by Forrester Consulting in this process. The data collected, resulting model, and study itself was reviewed independently by Forrester Research analysts. GitLab stakeholders were also interviewed as part of the data gathering and review process. This study looked at the cost savings and business benefits of enterprises using GitLab for Version Control & Collaboration (VC&C)/SCM, Continuous Integration (CI), and Continuous Delivery (CD).
 **Value Drivers:** Efficiency, Speed, Risk<br>

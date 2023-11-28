@@ -23,7 +23,7 @@ Topics:
 
 ### UTM Tracking
 
-Developer Evangelists at GitLab are encouraged to add [UTMs for URL tagging and tracking](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/#utms-for-url-tagging-and-tracking) to provide analytics and insights on how well content shares are performing. This method helps to verify [KPI metrics](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/metrics/).
+Developer Evangelists at GitLab are encouraged to add [UTMs for URL tagging and tracking](/handbook/marketing/developer-relations/developer-evangelism/#utms-for-url-tagging-and-tracking) to provide analytics and insights on how well content shares are performing. This method helps to verify [KPI metrics](/handbook/marketing/developer-relations/developer-evangelism/metrics/).
 
 ## Target Platforms
 
@@ -87,19 +87,19 @@ LinkedIn provides [groups](https://www.linkedin.com/help/linkedin/answer/a540824
 - [DevOps and SRE discussions](https://www.linkedin.com/groups/6585254/): 137,000 members as of 2023-07-04
 - [Artificial Intelligence (AI), Digital Transformation, Data Science, Automation, Machine Learning, and Analytics Group](https://www.linkedin.com/groups/4376214/): 101,000 members as of 2023-07-04
 
-Benefits: Increase reach of content shares (e.g. the [GitLab blog](https://about.gitlab.com/blog/)), attract new followers using the [creator mode profile](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#linkedin-use-creator-mode-profile). 
+Benefits: Increase reach of content shares (e.g. the [GitLab blog](https://about.gitlab.com/blog/)), attract new followers using the [creator mode profile](/handbook/marketing/developer-relations/developer-evangelism/social-media/#linkedin-use-creator-mode-profile). 
 
 Some groups require moderators to approve the posts. Please follow these guidelines:
 
 - Ensure that the post is helpful, provides a short summary of the linked article
-- Check the [social card preview](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#social-card-validators) and replace them with screenshots or [GIFs](/handbook/product/making-gifs/) that make folks stop scrolling. 
+- Check the [social card preview](/handbook/marketing/developer-relations/developer-evangelism/social-media/#social-card-validators) and replace them with screenshots or [GIFs](/handbook/product/making-gifs/) that make folks stop scrolling. 
 - Do not spam the groups with messages every day. Be thoughtful about shares and help the group owners to create a helpful stream of free learning content. 
 
 Example: The [GitLab CLI announcement post by Michael](https://www.linkedin.com/posts/dnsmichi_everyonecancontribute-activity-7006375881359130624-1812) which shows the CLI interface with CI/CD pipelines, job traces, and CLI API calls as attached screenshots created 92 likes, and 5,200 impressions in 24 hours. The [same post](https://www.linkedin.com/feed/update/urn:li:activity:7006803920949755904) to the [DevOps group on LinkedIn](https://www.linkedin.com/groups/2825397/), once approved, got 40 likes and 9000 impressions in 9 hours. 
 
 #### LinkedIn: Use Creator Mode Profile 
 
-LinkedIn defaults to connections between users, and everyone uses a different strategy to manage connections, i.e. only having met in person, etc. Sometimes users want to follow and engage with your content, without the direct need of a LinkedIn connection. This is a great strategy to share thought leadership content on LinkedIn too, for example [automated schedules](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#sharing-content) in the same way as Twitter. 
+LinkedIn defaults to connections between users, and everyone uses a different strategy to manage connections, i.e. only having met in person, etc. Sometimes users want to follow and engage with your content, without the direct need of a LinkedIn connection. This is a great strategy to share thought leadership content on LinkedIn too, for example [automated schedules](/handbook/marketing/developer-relations/developer-evangelism/social-media/#sharing-content) in the same way as Twitter. 
 
 LinkedIn provides the [Creator Mode](https://www.linkedin.com/help/linkedin/answer/a522537/creator-mode) for profiles which brings multiple benefits: 
 
@@ -159,7 +159,7 @@ Note: be cautious of phishing, spam, and other undesirable messages arriving via
     - Metatext on [iOS](https://apps.apple.com/de/app/metatext/id1523996615?l=en)
 1. A Tweetdeck alternative is built into the Mastodon web interface.
     - Navigate into [`Preference > Appearance`](https://docs.joinmastodon.org/user/preferences/) and select `enable advanced web interface`. 
-1. Mastodon does not track post impressions. **Always** use [UTM tracking with short URLs](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#utm-tracking) for GitLab owned content.     
+1. Mastodon does not track post impressions. **Always** use [UTM tracking with short URLs](/handbook/marketing/developer-relations/developer-evangelism/social-media/#utm-tracking) for GitLab owned content.     
 
 ## Content
 
@@ -172,7 +172,7 @@ The composer features of Twitter, Linked, Mastodon, etc. are available for posti
 - Mastodon: Log into your instance and use the composer form. The [Mastodon scheduler](https://www.scheduler.mastodon.tools/) allows to schedule posts. 
 - Bluesky Social: Log into the app and post content.
 
-Paid platforms provide more features, such as scheduling content shares with calendar views, threads on Twitter, live sharing across multiple social media platforms, etc. You can use [Buffer](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/tools/#buffer) to create scheduling queues from browser extensions, mobile apps, and managed campaigns for LinkedIn, Twitter and Mastodon. In July 2023, Twitter announced a [new Tweetdeck feature exclusively for Twitter Blue subscribers](https://www.theverge.com/2023/7/3/23783092/twitter-tweetdeck-new-preview-force-legacy-apis) and deprecated the old free versions. 
+Paid platforms provide more features, such as scheduling content shares with calendar views, threads on Twitter, live sharing across multiple social media platforms, etc. You can use [Buffer](/handbook/marketing/developer-relations/developer-evangelism/tools/#buffer) to create scheduling queues from browser extensions, mobile apps, and managed campaigns for LinkedIn, Twitter and Mastodon. In July 2023, Twitter announced a [new Tweetdeck feature exclusively for Twitter Blue subscribers](https://www.theverge.com/2023/7/3/23783092/twitter-tweetdeck-new-preview-force-legacy-apis) and deprecated the old free versions. 
 
 _2023-07-01:_ Twitter [announced rate limits](https://techcrunch.com/2023/07/01/twitter-imposes-limits-on-the-number-of-tweets-users-can-read-amid-extended-outage/) for all users on the platform, and only authenticated users can see tweets. This introduces an accessibility problem: Website-embedded tweets and previews are visible, but additional engagement requires a Twitter account and login. According to Twitter, these limits are temporary. 
 
@@ -235,7 +235,7 @@ General topics
 
 ## Analytics
 
-Please see [Metrics Collection & Analysis](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/metrics/) for our methods and tools.
+Please see [Metrics Collection & Analysis](/handbook/marketing/developer-relations/developer-evangelism/metrics/) for our methods and tools.
 
 ## Thought Leadership Strategy
 
@@ -253,7 +253,7 @@ This strategy can help amplify impressions and build out thought leadership.
 - Engage with tweets, like often, add replies and join the discussion.
   - Say `Thanks for sharing :emoji:` whenever needed
   - Share positive vibes
-  - Follow the [team member social media policy](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/)
+  - Follow the [team member social media policy](/handbook/marketing/team-member-social-media-policy/)
 - Listen to criticism and ignore hate speech. 
 - Do not criticize GitLab competitors. 
   - Instead, engage with their communities and learn how to improve.  
@@ -296,12 +296,12 @@ When you find something interesting to be shared with our brand account, please 
 
 The following tips evolved from @dnsmichi experimenting with thought leadership strategies and efficiency. 
 
-- Follow [thought leaders](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#thought-leader-examples) and engineers who share thoughts and interesting content.
+- Follow [thought leaders](/handbook/marketing/developer-relations/developer-evangelism/social-media/#thought-leader-examples) and engineers who share thoughts and interesting content.
   - Eventually users follow back - the more invisible benefit is that the Twitter and LinkedIn algorithms will show you more content you potentially like to see. 
 - Repurpose everyone's content and use it as a way to learn and educate. 
-- Subscribe to the [newsletters](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#content-sources) and extract your focus topics and content.
+- Subscribe to the [newsletters](/handbook/marketing/developer-relations/developer-evangelism/social-media/#content-sources) and extract your focus topics and content.
 - Do not immediately retweet/reshare tweets or content you see in your social streams. Collect them in a GitLab issue, Markdown file in Git, etc. 
-  - Evaluate potential trending topics and prioritize the [scheduled tweets queue](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#sharing-content).
+  - Evaluate potential trending topics and prioritize the [scheduled tweets queue](/handbook/marketing/developer-relations/developer-evangelism/social-media/#sharing-content).
 - Collect all blog articles, tweets, and tools for daily use and compile them into a monthly blog post or newsletter issue.
   - Create 1-2 sentences sharing your thoughts on the article, its content, what you liked, what you see as a emerging trend, etc. 
   - Publish the newsletter / blog post and tag all folks who contributed to your success in a Twitter thread / LinkedIn post. This shows appreciation and helps with engagement and reshares. Example: Dotan appreciated his talk being shared, and [reshared the newsletter post](https://www.linkedin.com/posts/horovits_how-much-observability-is-enough-activity-6935487128235569152-beqn/).
@@ -329,7 +329,7 @@ The [product kick-off](https://about.gitlab.com/direction/kickoff/) provides ins
 
 Workflow:
 
-- Our [DE Bot](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/projects/#developer-evangelism-bot) automatically creates and assigns issues.
+- Our [DE Bot](/handbook/marketing/developer-relations/developer-evangelism/projects/#developer-evangelism-bot) automatically creates and assigns issues.
 - Developer Evangelists review the release blog post draft. 
   - Use the review app.
   - Add feedback and suggestions to the merge request before release day.
@@ -353,11 +353,11 @@ KPIs:
 
 #### Release Post share  
 
-Use the [social card validator](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#social-card-validators) to verify the social preview of the release blog post. There might be a situation where the preview does not render correctly, or otherwise needs more attention from readers. As a boring solution, resize your browser and [take a screenshot](/handbook/tools-and-tips/mac/#taking-screenshots-and-videos) from the header, including the sub title listing the features, and attach the image to the social shares. Examples for 15.1: [Twitter](https://twitter.com/dnsmichi/status/1539646159500853248), [LinkeDIn](https://www.linkedin.com/posts/dnsmichi_it-is-the-22nd-of-the-month-gitlab-activity-6945411563717574656-ZZdr?utm_source=linkedin_share&utm_medium=member_desktop_web)
+Use the [social card validator](/handbook/marketing/developer-relations/developer-evangelism/social-media/#social-card-validators) to verify the social preview of the release blog post. There might be a situation where the preview does not render correctly, or otherwise needs more attention from readers. As a boring solution, resize your browser and [take a screenshot](/handbook/tools-and-tips/mac/#taking-screenshots-and-videos) from the header, including the sub title listing the features, and attach the image to the social shares. Examples for 15.1: [Twitter](https://twitter.com/dnsmichi/status/1539646159500853248), [LinkeDIn](https://www.linkedin.com/posts/dnsmichi_it-is-the-22nd-of-the-month-gitlab-activity-6945411563717574656-ZZdr?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 #### Release Evangelism MVP
 
-The monthly release post awards the [MVP](https://about.gitlab.com/handbook/marketing/blog/release-posts/#mvp) to a community contributor. A personal shoutout from a Developer Evangelist helps with community engagement, and helps increasing visibibility so that everyone wants to contribute. 
+The monthly release post awards the [MVP](/handbook/marketing/blog/release-posts/#mvp) to a community contributor. A personal shoutout from a Developer Evangelist helps with community engagement, and helps increasing visibibility so that everyone wants to contribute. 
 
 Workflow:
 

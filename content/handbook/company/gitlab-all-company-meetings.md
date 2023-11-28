@@ -64,7 +64,7 @@ The Quarterly Kickoff is a [CoST](/handbook/ceo/chief-of-staff-team/) initiative
     1. Once the recording dates are more certain, file a [video editing request](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=video-editing-request) with the Digital Production team so they can prepare to merge the slides and the video together.
         - [Example issue from FY23-Q4 Quarterly Kickoff](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/339)
     1. Reach out to the Learning and Development team, specifically [Jamie Allen](https://gitlab.com/jallen16), to let them know this is coming to be posted on `Level Up`
-    1. After the first review session and the majority of the feedback is addressed, use the [Single material legal review process](https://about.gitlab.com/handbook/legal/materials-legal-review-process/#track-1-single-material-legal-review-process) to get Legals review of the content and announcement
+    1. After the first review session and the majority of the feedback is addressed, use the [Single material legal review process](/handbook/legal/materials-legal-review-process/#track-1-single-material-legal-review-process) to get Legals review of the content and announcement
         - [Example issue from FY23-Q4 Quarterly Kickoff](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/1237)
     1. Use the following settings in Zoom to record. It is best for the recorder to own the Zoom link in the invite otherwise the recorder needs to be granted permission.
         1. Pin the CEO

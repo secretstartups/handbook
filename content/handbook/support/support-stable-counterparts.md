@@ -154,7 +154,7 @@ Note: We encourage having more than 1 SSC for a group - so if the group you are 
 
 ## Non-group specific SSCs
 
-A couple of roles are not product group specific, but involve all the same expectations and responsibilities with some overlap of the [Support Liaison role](/handbook/support/support-liaisons.html).
+A couple of roles are not product group specific, but involve all the same expectations and responsibilities with some overlap of the [Support Liaison role](/handbook/support/support-liaisons).
 Non-group specific counterparts typically also step in when the related group has questions where there is no SSC currently.
 
 | Section          | Group          | Group Contact       | Support Counterpart | Frequency           |

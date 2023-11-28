@@ -73,7 +73,7 @@ In order to understand how the experiences of our Self-Managed users compare to 
 
 ### Distribution
 
-We distribute survey invites via email using Qualtrics, our survey tool. Responses are incentivized using a sweepstakes ([Promotional Games workflow](https://about.gitlab.com/handbook/legal/ux-research-pilot/)). Those that complete the survey are entered into a quarterly sweepstakes to win one of three $200 gift cards. The Self-Managed cohort is incentivized at the same rate of three $200 gift card winners in order to maximize the response rate of the limited population.
+We distribute survey invites via email using Qualtrics, our survey tool. Responses are incentivized using a sweepstakes ([Promotional Games workflow](/handbook/legal/ux-research-pilot/)). Those that complete the survey are entered into a quarterly sweepstakes to win one of three $200 gift cards. The Self-Managed cohort is incentivized at the same rate of three $200 gift card winners in order to maximize the response rate of the limited population.
 
 We aim to start sending email distributions every couple of days in the last month of the quarter until we achieve our desired sample size.
 

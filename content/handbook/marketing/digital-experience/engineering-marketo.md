@@ -13,7 +13,7 @@ description: >-
 
 # Engineering Marketo
 
-For more detailing instructions, visit Marketing Operation's handbook page related to [snippets](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#snippets) and [forms](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#forms)
+For more detailing instructions, visit Marketing Operation's handbook page related to [snippets](/handbook/marketing/marketing-operations/marketo/#snippets) and [forms](/handbook/marketing/marketing-operations/marketo/#forms)
 
 ## Snippets
 Snippets are reusable chunks of content used in Marketo emails, landing pages, and templates. They can include a variety of content types.

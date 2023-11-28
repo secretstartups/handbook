@@ -17,7 +17,7 @@ This handbook page documents best practices how Developer Evangelists can help w
 
 ### Finding a mentor
 
-GitLab Developer Evangelists actively engage with mentoring wider community members. The team's time is limited with [our many activities](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/), please understand when we decline a request. [Polywork](https://www.polywork.com/collaborators/mentoring) and other platforms can help finding mentors.
+GitLab Developer Evangelists actively engage with mentoring wider community members. The team's time is limited with [our many activities](/handbook/marketing/developer-relations/developer-evangelism/), please understand when we decline a request. [Polywork](https://www.polywork.com/collaborators/mentoring) and other platforms can help finding mentors.
 
 ### Resources
 
@@ -26,9 +26,9 @@ GitLab Developer Evangelists actively engage with mentoring wider community memb
 
 ### Topics 
 
-If the career path is to becoming a Developer Evangelist, the [Developer Evangelism handbook](https://about.gitlab.com/handbook/marketing/developer-relations/) provides many resources. 
+If the career path is to becoming a Developer Evangelist, the [Developer Evangelism handbook](/handbook/marketing/developer-relations/) provides many resources. 
 
-Engineering and coding sessions depend on the knowledge and [focus area of the mentor](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/).
+Engineering and coding sessions depend on the knowledge and [focus area of the mentor](/handbook/marketing/developer-relations/developer-evangelism/).
 
 Other examples are:
 
@@ -90,7 +90,7 @@ Make it a coffee chat with an agenda, following [GitLab communication best pract
 
 - Create a public group and projects for code snippets, learning projects, etc. in the [EveryoneCanContribute DevRel group](https://gitlab.com/everyonecancontribute/devrel) on GitLab.com 
   - Organize learning activities in a group epic for one year ([example for FY24 (Feb 2023 - Jan 2024)](https://gitlab.com/groups/everyonecancontribute/devrel/learn-julia/-/epics/1)).
-- Re-use best practices from [Developer Evangelism workflows](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/workflow/)
+- Re-use best practices from [Developer Evangelism workflows](/handbook/marketing/developer-relations/developer-evangelism/workflow/)
 - Use GitLab for learning technologies, practice CI/CD and DevSecOps, and create talk demos   
 
 Example in FY23: [Julia Furst Morgado](https://gitlab.com/everyonecancontribute/devrel/learn-julia) changes careers to learn DevRel, related technologies (cloud native, Kubernetes, etc.) and CFP talk submissions.
@@ -114,7 +114,7 @@ Start drafting talk ideas in a dedicated Google doc for each topic, and discuss 
 Organisation and workflow tips:
 
 1. Create a calendar with events in the coming year, and keep track of Call for Paper due dates. Use [cfps.dev](https://cfps.dev/) by Brendan. 
-1. Copy the [Developer Evangelism CFP workflow](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/workflow/#cfp-workflow) with issues and scoped labels into a new group/project for CFPs. Example for [KubeCon EU 2023](https://gitlab.com/everyonecancontribute/devrel/learn-julia/cfps/-/issues/2).
+1. Copy the [Developer Evangelism CFP workflow](/handbook/marketing/developer-relations/developer-evangelism/workflow/#cfp-workflow) with issues and scoped labels into a new group/project for CFPs. Example for [KubeCon EU 2023](https://gitlab.com/everyonecancontribute/devrel/learn-julia/cfps/-/issues/2).
 1. Add issue references to Developer Evangelism CFP issue tracking to coordinate efforts. 
 1. Review the talk title and abstract in the Gdoc async or sync. As a mentor, change to `suggesting` mode in the Gdoc and provide suggestions with all thoughts. Encourage the mentee to review the suggestions, and accept if reasonable. This workflow will enable mentees to take feedback from everyone in the future. 
 1. Encourage social shares when the CFP has been submitted. Start without the talk title, later encourage to add the topic that has been submitted. Example from Julia Furst Morgado in [this tweet](https://twitter.com/juliafmorgado/status/1593696600366391299) for KubeCon EU 2023.
@@ -154,8 +154,8 @@ Engage with public replies in Twitter threads, LinkedIn posts, etc. and offer co
 
 Developer Evangelists are encouraged to help with
 
-- [Review talk abstracts and slide decks](https://about.gitlab.com/handbook/marketing/developer-relations/events/#speaker-enablement)
-- [Social media best practices](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/)
+- [Review talk abstracts and slide decks](/handbook/marketing/developer-relations/events/#speaker-enablement)
+- [Social media best practices](/handbook/marketing/developer-relations/developer-evangelism/social-media/)
 - Help with advice on detecting and preventing burnout
   - [Twitter Thread](https://twitter.com/dnsmichi/status/1534256896135335936) as a response to the question `How do I know when I'm showing signs of burnout?`
 
@@ -165,7 +165,7 @@ Developer Evangelists are encouraged to help with
 
 Getting started in the cloud-native community with a huge landscape of tools to understand can be overwhelming. Learning technologies and frameworks, from Kubernetes to beyond, requires guidance and a plan for individual growth. 
 
-Michael had a [coffee chat with Edidiong Asikpo](https://twitter.com/Didicodes/status/1436280427505930240) who started her cloud-native journey as Developer Advocate at AmbassadorLabs in 2021. They discussed a learning plan as a DevRel in cloud-native, and shared ideas on demo deployments, learning with Observability, and also looked into the [Developer Evangelism social media handbook](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/).
+Michael had a [coffee chat with Edidiong Asikpo](https://twitter.com/Didicodes/status/1436280427505930240) who started her cloud-native journey as Developer Advocate at AmbassadorLabs in 2021. They discussed a learning plan as a DevRel in cloud-native, and shared ideas on demo deployments, learning with Observability, and also looked into the [Developer Evangelism social media handbook](/handbook/marketing/developer-relations/developer-evangelism/social-media/).
 
 In 2022, Edidiong shared her promotion to Senior Developer Advocate, [responding to Michael's wishes](https://twitter.com/Didicodes/status/1547337357434753027):
 

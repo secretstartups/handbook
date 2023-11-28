@@ -373,7 +373,7 @@ While we iterate with small changes, we strive for large, ambitious results. We 
       1. [Have outside experts rate us](https://about.gitlab.com/why-gitlab/)
       1. [Have users compare us to the alternative](https://about.gitlab.com/competition/)
    1. Increasing engagement with GitLab
-      1. [Pageviews](https://about.gitlab.com/handbook/marketing/inbound-marketing/#measuring-progress)
+      1. [Pageviews](/handbook/marketing/inbound-marketing/#measuring-progress)
       1. [Certifications](https://about.gitlab.com/learn/certifications/public/)
       1. [Surveys](https://about.gitlab.com/developer-survey/)
    1. [Not tolerating low performance](/handbook/leadership/underperformance/#introduction)
@@ -1058,7 +1058,7 @@ and processes with the **whole community** and the world in the spirit of open s
 
 In line with our value of transparency and being public by default, all GitLab team member [profiles](https://docs.gitlab.com/ee/user/profile/#user-profile) should be public. Public profiles also enable broader collaboration and efficiencies between teams. To do so, please make sure that the checkbox under the [Private profile](https://docs.gitlab.com/ee/user/profile/#private-profile) option is unchecked [in your profile settings](https://gitlab.com/-/profile). If you do not feel comfortable with your full name or location on your profile, please change it to what feels appropriate to you as these are displayed even on private profiles.
 
-Because we are public by default and have the [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/) we don't need to make cases for why things should be transparent. If something is unSAFE and needs to remain [not public](/handbook/communication/confidentiality-levels/#not-public) it can be.
+Because we are public by default and have the [SAFE framework](/handbook/legal/safe-framework/) we don't need to make cases for why things should be transparent. If something is unSAFE and needs to remain [not public](/handbook/communication/confidentiality-levels/#not-public) it can be.
 
 ##### Not public
 
@@ -1294,12 +1294,6 @@ In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitL
 
 Our values are updated frequently and as needed. Everyone is welcome to make a suggestion to improve them. To update: make a merge request and assign it to the CEO. If you're a [team member](/handbook/company/team/) or in the [core team](https://about.gitlab.com/community/core-team/) please post a link to the MR in the `#values` Slack channel. If you're not part of those groups, please send a direct Twitter message to [@sytses](https://twitter.com/sytses).
 
-## Number of contributors and updates over time
-
-To reinforce that GitLab's values are a living document, we [capture contributions to this page in a Sisense dashboard](https://app.periscopedata.com/app/gitlab/796025/Values-Page-Contributions). The dashboard tracks number of contributors as well as number of Git commits. You can also view individual changes on the [list of recent commits](https://gitlab.com/gitlab-com/content-sites/handbook/-/commits/main/).
-
-<iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/9af373c1-2c9a-4329-a314-4f38595cf2e6??embed=true" style="height: 40em; width: 100%;"> </iframe>
-
 ## How do we reinforce our values
 
 Whatever behavior you reward will become your values. We reinforce our values by:
@@ -1409,7 +1403,7 @@ Our [mission](/handbook/company/mission/#mission) is that **everyone can contrib
 
 ## Mitigating Concerns
 
-We have a page which documents our [Mitigating Concerns](/handbook/leadership/mitigating-concerns/). Many of our values help to mitigate some of these concerns.
+We have a page which documents our [Mitigating Concerns](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns/). Many of our values help to mitigate some of these concerns.
 
 ## GitLab Values Quiz
 

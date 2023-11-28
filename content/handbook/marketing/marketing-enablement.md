@@ -27,7 +27,7 @@ Intra-Department Learning is a Key Result (KR) of a CMO OKR in Q3&4FY24-Q1FY24 t
 ## Structure
 The Intra-Department Learning Sessions consists of three parts:
 
-**Session Recording:** The recorded session will be linked to the table below and hosted on unfiltered (private or public depending on [SAFE guidelines](https://about.gitlab.com/handbook/legal/safe-framework/)). 
+**Session Recording:** The recorded session will be linked to the table below and hosted on unfiltered (private or public depending on [SAFE guidelines](/handbook/legal/safe-framework/)). 
 
 **Functional Conversation + Deck:** After the recording is posted and shared, a Functional Conversation will occur during regularly occurring and pre-scheduled time slots. The Functional Conversation is hosted by the team and is an AMA-style session where all marketing team members can attend and ask questions about the shared materials. All team members are encouraged to ask questions and and dig deeper in order to gain a better understanding. Team members who want to participate but are not able to attend synchronously are encouraged to embrace asynchronous communication by contributing questions or comments in advance of meetings and watching recordings or reading notes after.
 

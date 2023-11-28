@@ -59,7 +59,7 @@ description: IT Business Technology
 
 ## Role of IT Business Technology
 
-Our department focuses on managing the framework of how GitLab procures, implements, integrates, secures, exports analytics, and supports our [tech stack applications](/handbook/business-technology/tech-stack-applications) while providing strategic enablement and integration support for all departments and team members that allows us to scale efficiently, [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/)ly, and securely.
+Our department focuses on managing the framework of how GitLab procures, implements, integrates, secures, exports analytics, and supports our [tech stack applications](/handbook/business-technology/tech-stack-applications) while providing strategic enablement and integration support for all departments and team members that allows us to scale efficiently, [SAFE](/handbook/legal/safe-framework/)ly, and securely.
 
 ### Direction
 
@@ -104,7 +104,7 @@ As a SaaS company, our Engineering division also has an [infrastructure SRE team
 - [Engineering Productivity](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/)
 - [Engineering Security](/handbook/security/)
 - [Finance Systems](/handbook/business-technology/enterprise-applications/financeops/)
-- [Marketing Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/)
+- [Marketing Operations](/handbook/marketing/marketing-operations/)
 - [People Connect](/handbook/people-group/people-connect/)
 - [People Group Engineering](/handbook/people-group/engineering/)
 - [Sales Systems](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/)

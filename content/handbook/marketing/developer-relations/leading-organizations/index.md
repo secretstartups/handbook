@@ -94,8 +94,8 @@ GitLab hosts workshops with organizations interested in increasing their contrib
 Email: [leadingorganizations AT gitlab DOT com](mailto:leadingorganizations@gitlab.com)
 
 Contribution Help:
-- [Developer Relations team](https://about.gitlab.com/handbook/marketing/developer-relations/)
-- [Contributor Success team](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/)
+- [Developer Relations team](/handbook/marketing/developer-relations/)
+- [Contributor Success team](/handbook/marketing/developer-relations/contributor-success/)
 - [Core team](/community/core-team/)
 - [MR Coaches](/job-families/expert/merge-request-coach/)
 

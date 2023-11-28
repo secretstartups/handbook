@@ -72,8 +72,8 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 #### Marketing Ops Expectation
 {: .no_toc}
 
-- To use [labels](https://about.gitlab.com/handbook/marketing/marketing-operations/#labeling) to denote where the issue is
-- To use [Milestones](https://about.gitlab.com/handbook/marketing/marketing-operations/#milestones) to denote when the work will be done 
+- To use [labels](/handbook/marketing/marketing-operations/#labeling) to denote where the issue is
+- To use [Milestones](/handbook/marketing/marketing-operations/#milestones) to denote when the work will be done 
 - To provide solution options for the problem statement with clear outline of timeline/ potential blockers.
 - To verify possibility of the suggested solution(if there is one).
 
@@ -83,8 +83,8 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
  New issues will be prioritized within the bi-weekly meeting where Salina can understand if/what work should be deprioritised to complete the new work.
 
 Salina to
-- Add [Priority label](https://about.gitlab.com/handbook/marketing/marketing-operations/#labeling)
-- Add [Stage Label](https://about.gitlab.com/handbook/marketing/marketing-operations/#labeling)
+- Add [Priority label](/handbook/marketing/marketing-operations/#labeling)
+- Add [Stage Label](/handbook/marketing/marketing-operations/#labeling)
 - Add milestone to the issue of when she thinks the work will be started
 
 If no new issues- can either discuss issues or skip a week. 
@@ -118,7 +118,7 @@ If a field needs to be created in Marketo AND SFDC, it must be created in SFDC f
 If you need assistance with Sales Systems follow the next steps:
 1. Open an [Sales System issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new) in their project and assign the label `EntAppsCustomer::MOPS`. Then, add to the corresponding Epic as a related issue, or in the description ([FY23Q4 Example](https://gitlab.com/groups/gitlab-com/-/epics/2043).
 2. If Mops member can create a changeset, please do so shortly after creating the issue to decrease time to deploy,
-3. Add [prioritization label](https://about.gitlab.com/handbook/marketing/marketing-operations/#labeling) of `MktgOpsPrio::00: Requested`
+3. Add [prioritization label](/handbook/marketing/marketing-operations/#labeling) of `MktgOpsPrio::00: Requested`
 4. Business process owner (Amy or Christine) will review, and if they approve of the request from a business standpoint, they will check the appropriate box and add the `MktgOpsPrio::01: Approved` label. If not, the request will stay in `MktgOpsPrio::00: Requested` status until blockers or outstanding questions are resolved.
 5. Once approved, requests will be added to the prioritization queue by the business proess owner to review with with Sales Systems or the PMO and labeled `MktgOpsPrio::02: In Queue - Mops`
 4. Once Systems or PMO has agreed to take on work, the request will be added to a `Temp` holding milestone for further prioritization, and labeled `MktgOpsPrio::03: In Queue - Systems`
@@ -187,7 +187,7 @@ The Marketing Operations team has created the '@mktgops-support' Chatter in Sale
 
 **Emergency Comms**
 
-If an emergency communication needs to be send out, Marketing Ops will need to assist. Follow directions on this [page](https://about.gitlab.com/handbook/marketing/emergency-response/) to initiate the emergency response and view the [coverage matrix](https://about.gitlab.com/handbook/marketing/emergency-response#coverage-matrix). You can also follow the [security incident communication plan](/handbook/security/security-operations/sirt/security-incident-communication-plan.html) for security related issues.
+If an emergency communication needs to be send out, Marketing Ops will need to assist. Follow directions on this [page](/handbook/marketing/emergency-response/) to initiate the emergency response and view the [coverage matrix](/handbook/marketing/emergency-response#coverage-matrix). You can also follow the [security incident communication plan](/handbook/security/security-operations/sirt/security-incident-communication-plan.html) for security related issues.
 
 
 
@@ -341,17 +341,17 @@ Periodically Marketing Operations and other teams through the marketing org make
 
 ## <i class="far fa-folder-open" id="biz-tech-icons"></i> Important Resources
 
-- [Marketing Metrics](https://about.gitlab.com/handbook/marketing/strategy-performance/marketing-metrics)
-- [Marketing Owned Provisioning Instructions](https://about.gitlab.com/handbook/marketing/marketing-operations/marketing-owned-provisioning)
+- [Marketing Metrics](/handbook/marketing/strategy-performance/marketing-metrics)
+- [Marketing Owned Provisioning Instructions](/handbook/marketing/marketing-operations/marketing-owned-provisioning)
 
-## <i class="fas fa-file-import" id="biz-tech-icons"></i> [List Imports](https://about.gitlab.com/handbook/marketing/marketing-operations/list-import)
+## <i class="fas fa-file-import" id="biz-tech-icons"></i> [List Imports](/handbook/marketing/marketing-operations/list-import)
 
 ## <i class="fas fa-toolbox" id="biz-tech-icons"></i> Marketing Technology Stack
 
 ### Marketing Technology Tiering System
 {: .no_toc}
 
-The Marketing Operations team maintains the [Marketing technology tiering system](https://about.gitlab.com/handbook/marketing/marketing-operations/marketing-technology-tiering-system/) in order to prioritize requests, provide support, and optimize processes.
+The Marketing Operations team maintains the [Marketing technology tiering system](/handbook/marketing/marketing-operations/marketing-technology-tiering-system/) in order to prioritize requests, provide support, and optimize processes.
 
 ### Tools in the Stack
 
@@ -367,56 +367,56 @@ Below are tools in the Marketing Technology stack, organized by tier.
 
 #### Business Critical Technology - Tier 1
 
-- [6sense](https://about.gitlab.com/handbook/marketing/marketing-operations/6sense/)
-- [Bizible / Marketo Measure](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/)
-- [Cognism](https://about.gitlab.com/handbook/marketing/marketing-operations/Cognism/)
-- [Iterable](https://about.gitlab.com/handbook/marketing/marketing-operations/iterable/)
-- [Marketo](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo)
-- [On24](https://about.gitlab.com/handbook/marketing/marketing-operations/on24)
-- [Outreach.io](https://about.gitlab.com/handbook/marketing/marketing-operations/outreach)
-- [PathFactory](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/)
-- [Qualified](https://about.gitlab.com/handbook/marketing/marketing-operations/qualified/)
-- [Traction](https://about.gitlab.com/handbook/marketing/marketing-operations/traction-lead-complete)
-- [ZoomInfo](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/)
-- [Vartopia - Lead Sharing Module](https://about.gitlab.com/handbook/marketing/marketing-operations/vartopia/)
+- [6sense](/handbook/marketing/marketing-operations/6sense/)
+- [Bizible / Marketo Measure](/handbook/marketing/marketing-operations/bizible/)
+- [Cognism](/handbook/marketing/marketing-operations/Cognism/)
+- [Iterable](/handbook/marketing/marketing-operations/iterable/)
+- [Marketo](/handbook/marketing/marketing-operations/marketo)
+- [On24](/handbook/marketing/marketing-operations/on24)
+- [Outreach.io](/handbook/marketing/marketing-operations/outreach)
+- [PathFactory](/handbook/marketing/marketing-operations/pathfactory/)
+- [Qualified](/handbook/marketing/marketing-operations/qualified/)
+- [Traction](/handbook/marketing/marketing-operations/traction-lead-complete)
+- [ZoomInfo](/handbook/marketing/marketing-operations/zoominfo/)
+- [Vartopia - Lead Sharing Module](/handbook/marketing/marketing-operations/vartopia/)
 
 #### Operational Technology - Tier 2
 
-- [Allocadia](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/)
+- [Allocadia](/handbook/marketing/strategy-performance/allocadia/)
 - Base
 - Hopin
-- [Hightouch](https://about.gitlab.com/handbook/marketing/marketing-operations/hightouch/)
+- [Hightouch](/handbook/marketing/marketing-operations/hightouch/)
 - [LinkedIn Sales Navigator](https://about.gitlab.com/handbook/sales/training/social-selling/)
-- [MailJet](https://about.gitlab.com/handbook/marketing/marketing-operations/mailjet/)
-- [OneTrust](https://about.gitlab.com/handbook/marketing/digital-experience/onetrust/)
-- [RingLead](https://about.gitlab.com/handbook/marketing/marketing-operations/ringlead/)
+- [MailJet](/handbook/marketing/marketing-operations/mailjet/)
+- [OneTrust](/handbook/marketing/digital-experience/onetrust/)
+- [RingLead](/handbook/marketing/marketing-operations/ringlead/)
 
 #### Management Technology - Tier 3
 
-- [Litmus](https://about.gitlab.com/handbook/marketing/marketing-operations/litmus)
-- [Reachdesk](https://about.gitlab.com/handbook/marketing/marketing-operations/reachdesk/)
+- [Litmus](/handbook/marketing/marketing-operations/litmus)
+- [Reachdesk](/handbook/marketing/marketing-operations/reachdesk/)
 - Google Analytics (Search Discovery)
 - Survey Monkey
-- [Terminus Email Experiences](https://about.gitlab.com/handbook/marketing/marketing-operations/terminus-email-experiences)
-- [Typeform](https://about.gitlab.com/handbook/marketing/marketing-operations/typeform/)
+- [Terminus Email Experiences](/handbook/marketing/marketing-operations/terminus-email-experiences)
+- [Typeform](/handbook/marketing/marketing-operations/typeform/)
 
 #### Functional Technology - Tier 4
 
-- [Bitergia](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview)
+- [Bitergia](/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview)
 - [Canva](handbook/marketing/brand-and-product-marketing/design/#canva-best-practices)
 - Cision
-- [Common Room](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview)
+- [Common Room](/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview)
 - ContentKing
 - Frame.io
 - Figma
 - [Launch Darkly](handbook/marketing/digital-experience/engineering-ab-tests/)
-- [MeetUp](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview)
+- [MeetUp](/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview)
 - Quantum Metric
-- [SEMRush](https://about.gitlab.com/handbook/marketing/inbound-marketing/search-marketing/seo-strategy/)
+- [SEMRush](/handbook/marketing/inbound-marketing/search-marketing/seo-strategy/)
 - SheerID
-- [Sprout Social + Bambu](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/#team-member-social-media-advocacy-and-enablement)
-- [Vimeo](https://about.gitlab.com/handbook/marketing/marketing-operations/vimeo/)
-- [Zendesk Community](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview)
+- [Sprout Social + Bambu](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/#team-member-social-media-advocacy-and-enablement)
+- [Vimeo](/handbook/marketing/marketing-operations/vimeo/)
+- [Zendesk Community](/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview)
 
 
 ### Requesting access to an existing tool
@@ -535,21 +535,21 @@ Once the evaluation Epic is created, the following evaluation steps should be fo
 
 ## Lead Scoring, Lead Lifecycle, and MQL Criteria
 
-For more information about lead lifecycle, visit [this handbook page](https://about.gitlab.com/handbook/marketing/marketing-operations/lead-lifecycle/)
+For more information about lead lifecycle, visit [this handbook page](/handbook/marketing/marketing-operations/lead-lifecycle/)
 
-A Marketing Qualified Lead (MQL) is a lead that has reached a certain threshold, we have determined to be 100 points accumulated, based on demographic/firmographic and/or behavioral information. The `Person Score` is comprised of various actions and/or profile data that are weighted with positive or negative point values. You can find more details about the scoring model on the [Marketo Page](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#scoring-model)
+A Marketing Qualified Lead (MQL) is a lead that has reached a certain threshold, we have determined to be 100 points accumulated, based on demographic/firmographic and/or behavioral information. The `Person Score` is comprised of various actions and/or profile data that are weighted with positive or negative point values. You can find more details about the scoring model on the [Marketo Page](/handbook/marketing/marketing-operations/marketo/#scoring-model)
 
 ## Campaigns and Programs
 
 Campaigns are used to track efforts of marketing tactics - field events, webcasts, content downloads. The campaign types align with how marketing tracks spend and align the way records are tracked across three of our core systems (Marketo, Salesforce and Bizible) for consistent tracking. Leveraging campaigns aligns our efforts across Marketing, Sales and Finance.
 
-Go to the [Campaigns and Programs Page](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#campaigns) to view all of the campaign types, their progression statuses and cost tracking. That page also includes directions for set up in Marketo and Salesforce.
+Go to the [Campaigns and Programs Page](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaigns) to view all of the campaign types, their progression statuses and cost tracking. That page also includes directions for set up in Marketo and Salesforce.
 
-Marketing Ops partners with the Field Marketing and Corporate Events teams to provide Marketo program set-up and configuration, providing these teams with an internal partner to provide advise on the best technical set-up to reach their goals and streamlining more complex program requirements. Visit the [Marketo Program/Campaign Support page](https://about.gitlab.com/handbook/marketing/marketing-operations/campaign-operations/) for additional details.
+Marketing Ops partners with the Field Marketing and Corporate Events teams to provide Marketo program set-up and configuration, providing these teams with an internal partner to provide advise on the best technical set-up to reach their goals and streamlining more complex program requirements. Visit the [Marketo Program/Campaign Support page](/handbook/marketing/marketing-operations/campaign-operations/) for additional details.
 
 ## Email Management
 
-Marketing Ops is responsible for maintaining the email marketing database. Go to the [Email Management Page](https://about.gitlab.com/handbook/marketing/marketing-operations/email-management) for policies and more detailed information.
+Marketing Ops is responsible for maintaining the email marketing database. Go to the [Email Management Page](/handbook/marketing/marketing-operations/email-management) for policies and more detailed information.
 
 ## Initial Source
 
@@ -629,7 +629,7 @@ Status in the table below means:
 
 ## Lead and Contact Statuses
 
-The Lead & Contact objects in Salesforce have unified statuses with the following definitions. Also reference [Re-MQL workflows](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#re-mql) for how to move from status to status. To learn more on how we manage our lifecycle including lead/contact status and Lifecycle Classifications, please see [here](https://about.gitlab.com/handbook/marketing/marketing-operations/lead-lifecycle/).
+The Lead & Contact objects in Salesforce have unified statuses with the following definitions. Also reference [Re-MQL workflows](/handbook/marketing/marketing-operations/marketo/#re-mql) for how to move from status to status. To learn more on how we manage our lifecycle including lead/contact status and Lifecycle Classifications, please see [here](/handbook/marketing/marketing-operations/lead-lifecycle/).
 
 | Status | Definition |
 | ------ | ---------- |
@@ -647,7 +647,7 @@ The Lead & Contact objects in Salesforce have unified statuses with the followin
 One of the following must occur to have a lead move from `Raw` to `Inquiry`
 1. Become a member of a marketing program (except no-action/default statuses, nor email)
 1. Fill out a form (social or website)
-1. [Behavior score](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#behavior-scoring) > 10 pts.
+1. [Behavior score](/handbook/marketing/marketing-operations/marketo/#behavior-scoring) > 10 pts.
 
 ## Lead Address Fields
 
@@ -657,7 +657,7 @@ On the lead object we have three types of address information, the local/persona
      - This is the address that Marketo references for email lists. It contains the local address of the record, if known through form fill, list upload, or ZI enrichment.
 - `UPA Company Address` - stored on the `Company Adress: Country`, `Company Adress: State`, `Company Adress: City`, `Company Adress: Street`, `Company Adress: Postal Code` text fields. These fields are updated through APEX code through a 3-step waterfall approach. 
   1. `Account Demographics Fields` (i.e: `Account Demographics: UPA City`) - If the lead matches to an existing account the address is populated through the Account Demographic fields, taken from the account associated with this lead;
-  2. `Admin Override Fields` (i.e: `[Admin] Company Address Country`) - If a lead doesn't match to an account, the Company Address fields are either blank or  are populated through step 3 in the waterfall (see below). If the address is blank or the address information from step 3 is wrong, SDRs/BDRs can update the address information themselves using these Admin Override fields. You can see more information about this process in the [Overriding Incorrect Account Assignments section from Sales Dev Handbook](https://about.gitlab.com/handbook/marketing/sales-development/#overriding-incorrect-account-assignments) or in this [video](https://www.youtube.com/watch?v=QT-oOceFU6k&ab_channel=GitLabUnfiltered).
+  2. `Admin Override Fields` (i.e: `[Admin] Company Address Country`) - If a lead doesn't match to an account, the Company Address fields are either blank or  are populated through step 3 in the waterfall (see below). If the address is blank or the address information from step 3 is wrong, SDRs/BDRs can update the address information themselves using these Admin Override fields. You can see more information about this process in the [Overriding Incorrect Account Assignments section from Sales Dev Handbook](/handbook/marketing/sales-development/#overriding-incorrect-account-assignments) or in this [video](https://www.youtube.com/watch?v=QT-oOceFU6k&ab_channel=GitLabUnfiltered).
   3. `Zoominfo Company Address Fields` (i.e: `[ZI] Company Country`) - If the lead doesn't match an account, it was not overwritten using the Admin Override Fields mentioned above and the lead matches to Zoominfo's database, the Company Address fields are populted with Zoominfo Company Address information from the Zoominfo Company Address fields. 
 - `Zoominfo enrichment address information` which as can be of two types, personal (local) or company level address;
 1. Zoominfo personal (local) address information can be found in the `[ZI] Contact Country`, `[ZI] Contact State`, `[ZI] Contact City`, `[ZI] Contact Street`, `[ZI] Contact Zip Code` fields;
@@ -669,7 +669,7 @@ Marketing Operations has the responsibility for cleaning and enriching our datab
 
 The cleaning part of this process is being done with the Cleanse functionality of the lead/contact deduplication tool, Ringlead.
 
-The enrichment part of the process is done using the data appending/enrichment tool, [Zoominfo](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/), our SSOT when it comes to account/lead/contact data. [Cognism](https://about.gitlab.com/handbook/marketing/marketing-operations/Cognism/), is another enrichment tool but only for a smaller subset of our lead data. As of now, only the BDRs and Cognism admins have login access. However, Cognism data, can be found in the Cognism fields on the lead/contact layout.
+The enrichment part of the process is done using the data appending/enrichment tool, [Zoominfo](/handbook/marketing/marketing-operations/zoominfo/), our SSOT when it comes to account/lead/contact data. [Cognism](/handbook/marketing/marketing-operations/Cognism/), is another enrichment tool but only for a smaller subset of our lead data. As of now, only the BDRs and Cognism admins have login access. However, Cognism data, can be found in the Cognism fields on the lead/contact layout.
 
 This cleaning & enrichment process has 5 main priorities:
 
@@ -685,7 +685,7 @@ This cleaning & enrichment process has 5 main priorities:
     * Lead to Contact Deduplication (This part of the process will start once Contact Deduplication is completed)
     * Deduplication of Custom Objects (Bizible Person IDs - On hold until Contact Deduplication and Lead to Contact Deduplication are completed)
 
-For more information regarding our data deduplication process visit the [Ringlead Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/ringlead/).
+For more information regarding our data deduplication process visit the [Ringlead Handbook Page](/handbook/marketing/marketing-operations/ringlead/).
 
 **Cleaning & Enrichment Frequency:** While the enrichment jobs for net new leads, work on a continuous bases, when it comes to enrichment of our existing leads & contacts in SFDC, this is done via scheduled enrichment jobs as follows:
 
@@ -693,7 +693,7 @@ For more information regarding our data deduplication process visit the [Ringlea
 2. All leads created in the last 7 Days are enriched daily to make sure no new leads from list uploads miss enrichment and also to make sure our sales teams have the most up to date information when working them.
 3. All contacts in our SFDC instance get enriched weekly, last Saturday of the month.
 
-You can find more details on the enrichment process in our [Zoominfo Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/).
+You can find more details on the enrichment process in our [Zoominfo Handbook Page](/handbook/marketing/marketing-operations/zoominfo/).
 
 ### Lead List Upload Enrichment 
 {: .no_toc}
@@ -720,7 +720,7 @@ Notice any test leads? Please open an [issue](https://gitlab.com/gitlab-com/mark
 ### Internal DNC (Do Not Call) Lists
 {: .no_toc}
 
-Internal DNC List are maintained using the `Do Not Call` checkbox on the lead/contact record layouts. The sales development organization has a clear process on how and in what context should the box be checked. Please visit the [Sales Development Handbook page - Cold Calling Checklist](https://about.gitlab.com/handbook/marketing/sales-development/#cold-calling-checklist) section to find out more about it.
+Internal DNC List are maintained using the `Do Not Call` checkbox on the lead/contact record layouts. The sales development organization has a clear process on how and in what context should the box be checked. Please visit the [Sales Development Handbook page - Cold Calling Checklist](/handbook/marketing/sales-development/#cold-calling-checklist) section to find out more about it.
 
 ### External DNC (Do Not Call) Lists
 {: .no_toc}
@@ -741,7 +741,7 @@ In some cases, there are companies we do not do business with. If an account is 
 ### Zoominfo Opt Out Lists
 {: .no_toc}
 
-[Zoominfo](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/) is our SSOT when it comes to data enrichment of our leads/contacts and accounts.
+[Zoominfo](/handbook/marketing/marketing-operations/zoominfo/) is our SSOT when it comes to data enrichment of our leads/contacts and accounts.
 
 To be compliant with the latest privacy policies and safeguard our database from potential litigation, Zoominfo's recommendation for contacts that have opted out of their database is to:
 

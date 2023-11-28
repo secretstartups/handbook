@@ -123,7 +123,7 @@ L&R Support cannot:
 ## Specific workflows to pass to Sales
 
 Many of the following workflows advise you to `Chatter Sales`.  How to do this
-is described in the [expired license](/handbook/support/workflows/sla_and_views.html#handling-customers-with-incorrect-expired-support)
+is described in the [expired license](/handbook/support/workflows/sla_and_views#handling-customers-with-incorrect-expired-support)
 process.
 
 The following workflows use the [Pass to Sales Zendesk macro](https://gitlab.zendesk.com/agent/admin/macros/360025924680)
@@ -187,4 +187,4 @@ Workflow: Ask in Slack for advice on the best solution for the situation you are
 
 **SaaS - DOWNGRADE PLAN TO FREE**
 
-Follow the workflow in the `Downgrading to a free plan` section of the [Handling trials, extensions, and plan changes on GitLab.com](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html) page.
+Follow the workflow in the `Downgrading to a free plan` section of the [Handling trials, extensions, and plan changes on GitLab.com](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change) page.

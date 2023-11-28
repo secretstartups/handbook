@@ -224,7 +224,7 @@ To submit a Support Ticket, navigate to the "Support" tab in the partner portal,
 
 ###### Execute the GitLab EULA
 
-All orders require an executed [EULA](https://about.gitlab.com/handbook/legal/subscription-agreement/) when there's a new subscription or an add-on. There are 2 methods of obtaining a EULA:
+All orders require an executed [EULA](/handbook/legal/subscription-agreement/) when there's a new subscription or an add-on. There are 2 methods of obtaining a EULA:
 
 
 
@@ -403,7 +403,7 @@ Once a lead is recalled, it will be reassigned to Gitlab Inc. for internal follo
 
 [​​Channel Partner Marketing Resources](https://about.gitlab.com/handbook/resellers/channel-tools-resources/#marketing-resources)
 
-[Welcome to the GitLab Marketing Handbook](https://about.gitlab.com/handbook/marketing/)
+[Welcome to the GitLab Marketing Handbook](/handbook/marketing/)
 
 [Channel Partner Field Team Enablement](https://about.gitlab.com/handbook/resellers/partner-enablement/)
 

@@ -16,7 +16,7 @@ At times GitLab needs to communicate a "breaking" change or details related to a
 
 <!-- Note to Amy: should we put a timeframe on what we consider an emergency? -->
 
-**Not an emergency?** For important planned customer communications, please use [the customer update/announcement process](https://about.gitlab.com/handbook/marketing/marketing-operations/email-management/operational-email-sends/#customer-comms-email), to enable teams to work together and plan without the urgency of an emergency request.
+**Not an emergency?** For important planned customer communications, please use [the customer update/announcement process](/handbook/marketing/marketing-operations/email-management/operational-email-sends/#customer-comms-email), to enable teams to work together and plan without the urgency of an emergency request.
 
 **As soon as an emergency communication is recognized, the Requesting team MUST:**
 1. Create an **[incident communication request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications)** 
@@ -65,7 +65,7 @@ For Marketing Operations - When OOO/PTO please add this to the backup team membe
      * NOTE: The addition of each item will increase scope and potentially delay announcement
 * [Requesting target list](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new?issuable_template=list-request) from the Marketing Strategy & Analytics team
 * Creating epic and corresponding issues
-      * Creating Epic - [Template here](https://about.gitlab.com/handbook/marketing/marketing-operations/email-management/operational-email-sends/#epic-code-and-issues)
+      * Creating Epic - [Template here](/handbook/marketing/marketing-operations/email-management/operational-email-sends/#epic-code-and-issues)
       * Creating [Email request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications)
       * Creating [Form request issue (if necessary)](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request)
       * Creating [Landing Page request issue (if necessary)](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=marketo_landing_page_request)
@@ -112,7 +112,7 @@ This is the process to follow when there is an announcement that is an emergency
 
 3. **Issue in Process**
 - Marketing team will work closely with you to develop a communication plan and cadence. Please continue to addinformation as you receive it and over communicate with us via slack/issue.
-- List size and complexity will determine what [email platform](https://about.gitlab.com/handbook/marketing/emergency-response/#email-platform-to-use) we will need to use. 
+- List size and complexity will determine what [email platform](/handbook/marketing/emergency-response/#email-platform-to-use) we will need to use. 
 
 4. **Approvals**
 
@@ -162,8 +162,8 @@ The following approvers are needed for the copy and list size:
 
 ## Email platform to use
 Marketing Operations will decide what the best email platform to send from will be. The decision is based on many factors, including the ones below.
-- [Marketo](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/): Quickest deployment, but most costly. Can be used for large sends if being sent to customers, but free users should be send via MailJet or Mailgun if the list is over 20k.
-- [MailJet](https://about.gitlab.com/handbook/marketing/marketing-operations/mailjet/): Platform for large deployment, marketing can set up and send without engineering help.
+- [Marketo](/handbook/marketing/marketing-operations/marketo/): Quickest deployment, but most costly. Can be used for large sends if being sent to customers, but free users should be send via MailJet or Mailgun if the list is over 20k.
+- [MailJet](/handbook/marketing/marketing-operations/mailjet/): Platform for large deployment, marketing can set up and send without engineering help.
 - MailGun: Large lists that need verification. This involves engineering and will add 1 day minimum to send
 
 # Marketing Operations Set-Up
@@ -187,8 +187,8 @@ For sends over 100k sending from Marketo, there are several steps to follow to d
      1. [Nurture movement](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC21912A1)
      1. [Spam catcher](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC2929A1)
 1. Set up priority send controller campaign to improve speed of send
-1. If send list is over 250,000, you must update the [smart campaign limits](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#campaign-limits).
-1. Ensure email is marked operational, otherwise you may need to update [email communication limits](https://about.gitlab.com/handbook/marketing/marketing-operations/email-management/#send-frequency)
+1. If send list is over 250,000, you must update the [smart campaign limits](/handbook/marketing/marketing-operations/marketo/#campaign-limits).
+1. Ensure email is marked operational, otherwise you may need to update [email communication limits](/handbook/marketing/marketing-operations/email-management/#send-frequency)
 1. After send, discuss with legal to delete unnecessary records out of Marketo.
 
 ### Common Troubleshooting

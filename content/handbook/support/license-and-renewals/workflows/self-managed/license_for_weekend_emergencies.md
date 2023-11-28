@@ -15,7 +15,7 @@ This workflow describes the steps to be followed by anyone in Support,
 regardless of whether they have CustomersDot access, to generate a short-term
 temporary Ultimate license to de-escalate a **weekend** emergency.
 
-This workflow does not cover SaaS Subscription Emergencies, see [Customer Emergencies Workflow - SaaS License Emergencies](/handbook/support/workflows/customer_emergencies_workflows.html#saas-subscription-emergencies).
+This workflow does not cover SaaS Subscription Emergencies, see [Customer Emergencies Workflow - SaaS License Emergencies](/handbook/support/workflows/customer_emergencies_workflows#saas-subscription-emergencies).
 
 ## Scope
 

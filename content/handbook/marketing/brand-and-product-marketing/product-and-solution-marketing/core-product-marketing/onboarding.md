@@ -13,7 +13,7 @@ description: "GitLab's onboarding guide: important information for new team memb
 
 ## **Onboarding Guide**
 
-Welcome to the [Product Marketing team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/)! Use the resources/videos on this page as a guide to help facilitate new team member onboarding. As more recording links and resources become available, we'll update this page accordingly.
+Welcome to the [Product Marketing team](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/)! Use the resources/videos on this page as a guide to help facilitate new team member onboarding. As more recording links and resources become available, we'll update this page accordingly.
 
 **Each topic** covered in the tables below should be presented in 3-5 minutes or less through the handbook/screen share and recorded.  Exceptions: Vision, Pitch Deck, etc.  The goal of the completion time for PMM onboarding specific tasks is 1 day (except coffee chats).
 
@@ -55,7 +55,7 @@ Pay special attention to the [**coffee chats**](/handbook/company/culture/all-re
 
 | **PMM Workflow**: | Recording |
 | ------ | ------ |
-| 1.  Everything starts with the handbook - [Product Marketing handbook](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) | [Recording](https://drive.google.com/open?id=148hAcVdRLfcfcDzH3UR9XJrCbVwoF45l)   |
+| 1.  Everything starts with the handbook - [Product Marketing handbook](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) | [Recording](https://drive.google.com/open?id=148hAcVdRLfcfcDzH3UR9XJrCbVwoF45l)   |
 | 2.  Use issues to drive your work - [Product Marketing board](https://gitlab.com/gitlab-com/marketing/product-marketing/boards/922483) | [Recording](https://drive.google.com/open?id=12T8osPtjSSpX-Fxjv4DF-ulJPtw4KX9k)  |
 | 3. Everything you create/update for the field should be linked from - [Sales resource page](https://gitlab.highspot.com/spots/615dd7e3911d70c4887812a7) | [Recording](https://drive.google.com/open?id=1YlcgG1C9gRFJdShaDRzH1LNKrj4ztYxD) |
 
@@ -66,7 +66,7 @@ Pay special attention to the [**coffee chats**](/handbook/company/culture/all-re
 |  1. [GitLab communication overview](/handbook/communication/)  |  tbd  |
 |  2. [GitLab Slack tips](/handbook/communication/#slack)  |  tbd |
 |  3. [Markdown 101](/handbook/product/ux/technical-writing/) | [Recording](https://www.youtube.com/watch?v=Ix416lAYRSg)  |
-|  4. [GitLab project management](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/getting-started/101/index.html) | [Recording](https://drive.google.com/open?id=1CSUvzrPhWtP7082e0iTCfjVsPU8U6WTR)  |
+|  4. [GitLab project management](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/getting-started/101/index.html) | [Recording](https://drive.google.com/open?id=1CSUvzrPhWtP7082e0iTCfjVsPU8U6WTR)  |
 |  5. [Working Remotely to update the website with Git](https://about.gitlab.com/handbook/git-page-update/) | [Recording](https://drive.google.com/open?id=1lPxAJsq9k4GN_d3H4zCGVzlNcDKVgqrm)  |
 
 ### **Messaging and Go-To-Market (GTM)**
@@ -78,11 +78,11 @@ Pay special attention to the [**coffee chats**](/handbook/company/culture/all-re
 
 | **Know the GitLab Messaging and GTM:** | Recordings |
 | ------ | ------ |
-|    1. [Know the GitLab value proposition - Company elevator pitch(es)](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/messaging/#gitlab-value-proposition)  | [Recording](https://drive.google.com/open?id=1kxdGiKN7wZpk1iYUV7i6IcOxOxbgVc31)  |
+|    1. [Know the GitLab value proposition - Company elevator pitch(es)](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/messaging/#gitlab-value-proposition)  | [Recording](https://drive.google.com/open?id=1kxdGiKN7wZpk1iYUV7i6IcOxOxbgVc31)  |
 |    2. [Company pitch deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/edit?ts=5a8f54da#slide=id.g38db9fdb05_0_1136)  | [Recording](https://drive.google.com/open?id=1vRgU1o-o4kcOblQCxNi3h6xrN7KQZY1H) |
 |    3. Security pitch {::comment} William: for PMMs we should have a comprehensive "this is the product knowledge you should come up to speed on" ⇒ Ashish: Yes, eventually 1 list for each function. {:/comment}  | tbd {::comment} @cblake - let's discuss when {:/comment} |
 |    4. [Walkthrough of stages on GitLab home page](https://about.gitlab.com/) .  | tbd |
-|    5. Explore our [click-through demos](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#click-throughs)  | tbd |
+|    5. Explore our [click-through demos](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/#click-throughs)  | tbd |
 |    6. How to navigate our Product vision and roadmap webpages   | tbd |
 
 ### **Technical Skills**

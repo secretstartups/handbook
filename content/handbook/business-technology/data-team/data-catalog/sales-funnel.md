@@ -75,7 +75,7 @@ Dimensions:
 - **Sales Qualified Source:** How the opportunity was created.
 - **Purchase Channel:** The method in which the account purchased.
 - **Focus Account:** These represent the accounts where our Account Based Marketing team is working closely with Sales and Field Marketing to specifically target. GTM Strategy values of Account Centric, Account Based - Net New, and Account Based - Expand GTM Strategy Accounts represent Focus Accounts.
-- [Marketing Channel (Initial Source)](https://about.gitlab.com/handbook/marketing/marketing-operations/#initial-source)
+- [Marketing Channel (Initial Source)](/handbook/marketing/marketing-operations/#initial-source)
 - **Sales Hierarchy Live:** Sales Area > Sales Region > Location Region > Sales Segment
 - **Sales Hierarchy Stamped:** Sales Area > Sales Region > Location Region > Sales Segment
 

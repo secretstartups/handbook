@@ -79,7 +79,7 @@ planned, not come up with every idea or change.
 - Specific Git related questions should be asked in `#git-help`.
 - If you have problems with a MR, ask in `#mr-buddies`.
 - HR questions should be asked in `#people-connect`.
-- Anything Release Post related can be found in the [Release Post handbook](https://about.gitlab.com/handbook/marketing/blog/release-posts/#pm-contributors) and `#release-post`
+- Anything Release Post related can be found in the [Release Post handbook](/handbook/marketing/blog/release-posts/#pm-contributors) and `#release-post`
 
 ### Job Requirements
 

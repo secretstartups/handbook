@@ -108,7 +108,7 @@ See also: [Business Operations - Salesforce Reference](https://about.gitlab.com/
 
 Zendesk is our support queue for customer inquiries. Each case is then converted into a Zendesk ticket and filtered into a `View`, ordered by category. As part of their daily workflow, the Billing Operations Team monitor these views and process tickets through completion.
 
-See also: [Zendesk](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/zendesk/)
+See also: [Zendesk](/handbook/marketing/developer-relations/workflows-tools/zendesk/)
 
 ## How to get Help
 
@@ -188,7 +188,7 @@ Section 6. PAYMENT OF FEES, article 6.7 in our standard terms of service.
 
 > 6.7 Any unpaid Fees are subject to a finance charge of one percent (1.0%) per month, or the maximum permitted by law, whichever is lower, plus all expenses of collection, including reasonable attorneys’ fees. Fees under this Agreement are exclusive of any and all taxes or duties, now or hereafter imposed by any governmental authority, including, but not limited to any national, state or provincial tax, sales tax, value-added tax, property and similar taxes, if any. Fees under this Agreement shall be paid without any withholding or deduction. **In the case of any deduction or withholding requirements, Customer will pay any required withholding itself and will not reduce the amount to be paid to GitLab on account thereof.**
 
-You can view our GitLab Subscription Agreement [here](https://about.gitlab.com/handbook/legal/subscription-agreement/)
+You can view our GitLab Subscription Agreement [here](/handbook/legal/subscription-agreement/)
 
 </details>
 

@@ -61,7 +61,7 @@ DevOps Engineers have a deep understanding of their organization's SDLC and prov
 
 ### Buyer Personas
 
-CI purchasing typically does not require executive involvement. It is usually acquired and installed via our freemium offering without procurement or IT's approval. This process is commonly known as shadow IT. When the upgrade is required, the [Application Development Manager](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) is the most frequent decision-maker. The influence of the [Application Development Director](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) is notable too.
+CI purchasing typically does not require executive involvement. It is usually acquired and installed via our freemium offering without procurement or IT's approval. This process is commonly known as shadow IT. When the upgrade is required, the [Application Development Manager](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) is the most frequent decision-maker. The influence of the [Application Development Director](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) is notable too.
 
 ## Industry Analyst Resources
 
@@ -179,7 +179,7 @@ Please see the [Jenkins-specific questions](https://docs.google.com/document/d/1
 
 ### Industry Analyst Relations (IAR) Plan
 
-- The IAR Handbook page has been updated to reflect our plans for [incorporating Use Cases into our analyst conversations](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#how-we-incorporate-use-cases-into-our-industry-analyst-interactions).
+- The IAR Handbook page has been updated to reflect our plans for [incorporating Use Cases into our analyst conversations](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#how-we-incorporate-use-cases-into-our-industry-analyst-interactions).
 - For  details specific to each use case, and in respect of our contractual confidentiality agreements with Industry Analyst firms, our engagement plans are available to GitLab team members in the following protected document: [IAR Use Case Profile and Engagement Plan](https://docs.google.com/spreadsheets/d/14UthNcgQNlnNfTUGJadHQRNZ-IrAe6T7_o9zXnbu_bk/edit#gid=0).
 
 For a list of analysts with a current understanding of GitLab's capabilities for this use case, please reach out to Analyst Relations via Slack (#analyst-relations) or by submitting an [issue](https://gitlab.com/gitlab-com/marketing/product-marketing/issues/new) and selecting the "AR-Analyst-Validation" template.
@@ -286,7 +286,7 @@ All the new strategic pieces of ’software development platforms are tied into 
 
 ### References to help you close
 
-[SFDC report of referenceable Verify customers](https://gitlab.my.salesforce.com/a6l4M000000kDwk) Note: Sales team members should have access to this report. If you do not have access, reach out to the [customer reference team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact) for assistance.
+[SFDC report of referenceable Verify customers](https://gitlab.my.salesforce.com/a6l4M000000kDwk) Note: Sales team members should have access to this report. If you do not have access, reach out to the [customer reference team](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact) for assistance.
 
 Request reference calls by pressing the "Find Reference Accounts" button at the top of your stage 3 or later opportunity.
 

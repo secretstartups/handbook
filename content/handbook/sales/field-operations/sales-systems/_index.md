@@ -28,7 +28,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 - [Go-To-Market Integrated Environments](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-integrated-environments/)
 - [License Usage App Documentation](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/license-usage-app/)
 - [Salesforce Configuration Documentation](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/salesforce-config/)
-- [Lead Source Master Data Set](https://about.gitlab.com/handbook/marketing/marketing-operations/#initial-source)
+- [Lead Source Master Data Set](/handbook/marketing/marketing-operations/#initial-source)
 - [Salesforce Dataloader Install/Uninstall/Upgrade Instructions](dataloader-installation.html)
 
 ## Working with us

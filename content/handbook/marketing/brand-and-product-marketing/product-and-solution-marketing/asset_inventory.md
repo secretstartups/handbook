@@ -2,7 +2,7 @@
 
 title: "Product and Solution Marketing Asset Inventory"
 ---
-This page used to provide an inventory of assets created and maintained by the [Product and Solution Marketing](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) team. We have since updated the inventory so it includes all assets and it can now be found within [Marketing Strategy & Performance](https://about.gitlab.com/handbook/marketing/strategy-performance/)
+This page used to provide an inventory of assets created and maintained by the [Product and Solution Marketing](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) team. We have since updated the inventory so it includes all assets and it can now be found within [Marketing Strategy & Performance](/handbook/marketing/strategy-performance/)
 
 We have kept the following info specific to the Product and Solution Marketing team as it may assist them in determining how to enter into the Marketing inventory.
 
@@ -118,7 +118,7 @@ Accepted field descriptions are (fields in bold are required):
    date_published*:                    (month and year content first published. In iso-date format. eg 2020-05)
    last_changed                        (date the asset was last changed)
    gitlab_release:                     (major.minor GitLab release # the asset is built about/on. eg 12.10)
-   use_case*:                          (use case the asset focuses on. [Derived from customer use case page](https://about.gitlab.com/handbook/use-cases/). Acceptable values are:   )
+   use_case*:                          (use case the asset focuses on. [Derived from customer use case page](/handbook/use-cases/). Acceptable values are:   )
       - vcc
       - ci
       - cd

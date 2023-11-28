@@ -58,7 +58,7 @@ Below is a list of resources considered highly valuable for continuous learning 
 - [GitLab Unfiltered YouTube](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) A YouTube channel private to GitLab employees with video recordings and playlists on company meetings, enablement sessions and other topics. Access GitLab's [Sales Enablement playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX).
 - [Chorus Recordings](/handbook/business-technology/tech-stack/#chorus) Our team's history of call and demo recordings is a valuable training resource for new and existing sales team members.
 - [Sales & SDR Enablement Sessions](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/) Weekly training sessions covering popular product, market and sales training topics chosen by the sales and marketing team members.
-- [Product Study Guide](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/) A study course for team members to understand the current full scope of capabilities offered in each tier of GitLab and reasons for tier upgrades.
+- [Product Study Guide](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/) A study course for team members to understand the current full scope of capabilities offered in each tier of GitLab and reasons for tier upgrades.
 - [Sales Training](https://about.gitlab.com/handbook/sales/training/) page
 - [Commercial Sales Enablement](https://about.gitlab.com/handbook/sales/commercial/enablement/) page
 
@@ -94,7 +94,7 @@ Please follow the best practice process and use the [trip note template](https:/
 1. Commercial attendee will write up their notes in a google doc.
 1. Please save your notes as GitLab internal read only for Commercial Team review in the [Commercial Sales Drive Trip Notes Folder](https://drive.google.com/drive/folders/1e71aL5OP_QlaAHTmMNwAAqIUfc2aD6Dt).
 1. Once saved, please slack and share a link to your notes in the commercial_global_all channel to alert the team of your recent trip.
-1. Finally, please share your [Post Trip feedback](https://about.gitlab.com/handbook/marketing/events/#post-event) for the entire company and the Field Marketing team directly in the specific Event Issue on the ‘Post Event Recap & Feedback’ spreadsheet.
+1. Finally, please share your [Post Trip feedback](/handbook/marketing/events/#post-event) for the entire company and the Field Marketing team directly in the specific Event Issue on the ‘Post Event Recap & Feedback’ spreadsheet.
 
 ### Give Back Project
 

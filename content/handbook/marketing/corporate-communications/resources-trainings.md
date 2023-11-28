@@ -94,9 +94,9 @@ Anyone can become certified in the GitLab Social Media Training. To obtain certi
 
 _Team members should familiarize themselves with personal brand tips and the GitLab Branded Social Media Channels._
 
-- [Social Media Policy and Guidelines](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/)
-- [Social Marketing Handbook](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/)
-- [GitLab Branded Social Channels](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/#primary-social-channels-audiences-and-calendaring-)
+- [Social Media Policy and Guidelines](/handbook/marketing/team-member-social-media-policy/)
+- [Social Marketing Handbook](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/)
+- [GitLab Branded Social Channels](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/#primary-social-channels-audiences-and-calendaring-)
 - [Contribute 2020: How to be a Social Media Contributor](https://www.youtube.com/watch?v=csWMZuUM3w8#action=share)
 
 ### General Social Media Resources

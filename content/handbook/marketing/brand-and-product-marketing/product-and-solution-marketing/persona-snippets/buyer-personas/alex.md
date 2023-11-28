@@ -11,12 +11,12 @@ title: "Alex Persona snippets"
 
 ## SDR persona snippets by use case
 
-### [Alex (App Dev Manager)](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/#alex---the-application-development-manager)
+### [Alex (App Dev Manager)](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/#alex---the-application-development-manager)
 
 **Overview**
 - description
 
-#### [VC&C use case](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/#personas)
+#### [VC&C use case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/#personas)
 
 ##### SDR Discovery Questions
 
@@ -26,7 +26,7 @@ title: "Alex Persona snippets"
 
 - ...
 
-#### [CI use case](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#personas)
+#### [CI use case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#personas)
 
 ##### SDR Discovery Questions
 
@@ -44,7 +44,7 @@ title: "Alex Persona snippets"
 - Your development teams can't afford to add more complexity to the DevOps toolchain they maintain, and you shouldn't have to invest in manual development work to modify an existing CI implementation to fit modern needs.
 - ...
 
-#### [CD use case](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/#personas)
+#### [CD use case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/#personas)
 
 ##### SDR Discovery Questions
 
@@ -54,7 +54,7 @@ title: "Alex Persona snippets"
 
 - ...
 
-#### [DevSecOps use case](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#personas)
+#### [DevSecOps use case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#personas)
 
 ##### SDR Discovery Questions
 

@@ -104,7 +104,7 @@ You may request new collections by opening an issue in the Marketing Operations 
     - It's best to set this view as your `default view`. Without this filter in place, the `Accounts` section's usefulness is primarily steered away from `SDRs` and moreso to Sales team members. 
 
 ### Outreach Meetings
-The current meeting templates will sync to an SFDC event. Please be aware that Outreach will only create SFDC events for meetings `Booked from Outreach`. Per Outreach's [support documentation](https://support.outreach.io/hc/en-us/articles/360001407934-How-To-Configure-a-Meeting-Booked-Trigger-in-Outreach-), `Booked from Outreach` is defined as "The meeting was booked using the Outreach Public Calendar Link, insert availability, or by sending an invite through Outreach." This is important for xDRs to keep in mind to ensure any [Initial Qualified Meetings (IQMs)](https://about.gitlab.com/handbook/marketing/sales-development/) are tracked appropriately.
+The current meeting templates will sync to an SFDC event. Please be aware that Outreach will only create SFDC events for meetings `Booked from Outreach`. Per Outreach's [support documentation](https://support.outreach.io/hc/en-us/articles/360001407934-How-To-Configure-a-Meeting-Booked-Trigger-in-Outreach-), `Booked from Outreach` is defined as "The meeting was booked using the Outreach Public Calendar Link, insert availability, or by sending an invite through Outreach." This is important for xDRs to keep in mind to ensure any [Initial Qualified Meetings (IQMs)](/handbook/marketing/sales-development/) are tracked appropriately.
 
 |Meeting Type|Use Case|Notes|
 |----|----|----|
@@ -328,7 +328,7 @@ On these reports please look for the following information to ensure your teams 
 
 ### Activity:
 
-This is a great report to monitor your team's KPIs- currently XDRs need 45 touchpoints a day (this report will only show emails, calls, tasks, it will not give a full picture of the [different touchpoints](https://about.gitlab.com/handbook/marketing/sales-development/#activity--results-metrics) that count towards this KPI. ) You want to see a steady trickle of prospects added weekly. Overdue tasks are a sign that they are not completely their tasks and are possibly overwhelmed if there are over 100. You can filter all the following tabs by individual users or team. Below are the questions that you can answer using these reports:
+This is a great report to monitor your team's KPIs- currently XDRs need 45 touchpoints a day (this report will only show emails, calls, tasks, it will not give a full picture of the [different touchpoints](/handbook/marketing/sales-development/#activity--results-metrics) that count towards this KPI. ) You want to see a steady trickle of prospects added weekly. Overdue tasks are a sign that they are not completely their tasks and are possibly overwhelmed if there are over 100. You can filter all the following tabs by individual users or team. Below are the questions that you can answer using these reports:
 
 Email Tab Questions:
 - How effective are my teams emails/templates?

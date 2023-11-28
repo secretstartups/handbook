@@ -541,7 +541,7 @@ Please review this [page]({{< ref "../accounts-payable/corp-credit-cards" >}}) f
 
 #### Marketing Campaign Expenses
 
-Please see the [campaign expense guidelines in the Marketing handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/).
+Please see the [campaign expense guidelines in the Marketing handbook](/handbook/marketing/marketing-operations/).
 
 #### GitLab Contribute Cost Tracking
 
@@ -611,7 +611,7 @@ Record to report process is governed by the following accounting policies:
 
 ### GITLAB INC. RELATED PARTY TRANSACTIONS POLICY
 
-Refer to Legal page for [Related Party Transactions policy](https://about.gitlab.com/handbook/legal/#gitlab-inc-related-party-transactions-policy)
+Refer to Legal page for [Related Party Transactions policy](/handbook/legal/#gitlab-inc-related-party-transactions-policy)
 
 ### Accounting Team PTO Guidelines
 
@@ -997,7 +997,7 @@ If the tag needed will incur costs greater than $5K, a Coupa PO needs to be crea
 
 **Marketers**
 
-Please refer to : [Campaigns and Programs](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#campaigns)
+Please refer to : [Campaigns and Programs](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaigns)
 
 **Other Departments/teams:**
 

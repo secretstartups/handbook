@@ -10,7 +10,7 @@
 	    - [How to work as a PM](/handbook/product/product-processes/#how-to-work-as-a-pm)
 	- Pricing / tier related
 	    - https://about.gitlab.com/company/pricing/#three-tiers
-		- [Buyer Personas](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/)	
+		- [Buyer Personas](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/)	
 	- [Product Categories page](/handbook/product/categories/) to find who is the DRI for a category
 	- [Features by tier and group](/handbook/product/categories/features/)
 	- [Analytics Direction Page](https://about.gitlab.com/direction/analytics/)	

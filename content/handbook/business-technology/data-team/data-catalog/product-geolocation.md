@@ -52,7 +52,7 @@ We want to make sure you understand the following about the [Self-Managed Produc
 - **[Paid Installation](/handbook/business-technology/data-team/data-catalog/xmau-analysis/index.html#paid-xmau-definition)**
 - **Total Accounts/Accounts Reporting** - the total number of reported installations that can be mapped to a billing account
 - **[Unique Monthly Active Users (UMAU)](https://internal.gitlab.com/handbook/company/performance-indicators/product/#unique-monthly-active-users-umau)**
-- **[Product Tier](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#overview)**
+- **[Product Tier](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#overview)**
 - **[Service Ping](https://docs.gitlab.com/ee/development/service_ping/)**
 - **[Version](https://about.gitlab.com/handbook/sales/process/version-check/#what-is-the-functionality-of-the-gitlab-version-check)**
 

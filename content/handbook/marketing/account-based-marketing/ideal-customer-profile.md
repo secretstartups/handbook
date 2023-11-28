@@ -18,7 +18,7 @@ twitter_creator: '@gitlab'
 
 {: #overview .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-An ideal customer profile is a hypothetical description of the type of **company** (not individual or end user) that would realize the most value from your product or solution. This is different than [buyer personas](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) which look at the individual end user.
+An ideal customer profile is a hypothetical description of the type of **company** (not individual or end user) that would realize the most value from your product or solution. This is different than [buyer personas](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) which look at the individual end user.
 
 The ICP focuses on characteristics such as landed addressable market (LAM), Industry/vertical, company size or size of key departments, technologies used, technological maturity, and more. Our definition is outlined below.
 

@@ -16,7 +16,7 @@ title: "Zendesk for GitLab Developer Relations"
 
 The Developer Relations team uses a [dedicated Zendesk instance](https://gitlab-community.zendesk.com/) to centralize the management of relevant community mentions, and to process Education Program, Open Source Program, and Startup Program applications and requests. This instance is separate from [other Zendesk instances GitLab uses](/handbook/support/readiness/operations/docs/zendesk/#instances). 
 
-The majority of cases in Zendesk are routed there via [Zapier automation](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/zapier/), or a native Zendesk integration.
+The majority of cases in Zendesk are routed there via [Zapier automation](/handbook/marketing/developer-relations/workflows-tools/zapier/), or a native Zendesk integration.
 
 Each case is then converted into a Zendesk ticket and filtered into a [View](#zendesk-views), ordered by category. As part of their daily workflow, the Community Operations Team, and the Education and Open Source Program Managers monitor these views and process tickets through completion.
 
@@ -277,7 +277,7 @@ There is an option to view a description of a macro, and preview the update it w
 
 ## Sending emails through Zendesk
 
-Emails sent to [our list of contact emails](https://about.gitlab.com/handbook/marketing/developer-relations/program-resources/#contact-e-mails) create a new ticket in Zendesk, and public comments in Zendesk are sent as an email from that contact email back to the recipient.
+Emails sent to [our list of contact emails](/handbook/marketing/developer-relations/program-resources/#contact-e-mails) create a new ticket in Zendesk, and public comments in Zendesk are sent as an email from that contact email back to the recipient.
 
 There are instances where it is necessary to change the email address of the recipient, the sender, or both, which can be done through Zendesk.
 
@@ -309,7 +309,7 @@ There are instances where it is necessary to change the email address of the rec
    [Change sender step 2](/images/handbook/marketing/developer-relations/zendesk-emails/sender-2.png)
 3. The app panel on the right-hand side will open up. Click the dropdown next to `Select an Email`
    ![Change sender step 3](/images/handbook/marketing/developer-relations/zendesk-emails/sender-3.png)
-4. Select the email address you want to send the email from via the drop-down [list of email addresses](https://about.gitlab.com/handbook/marketing/developer-relations/program-resources/#contact-e-mails).
+4. Select the email address you want to send the email from via the drop-down [list of email addresses](/handbook/marketing/developer-relations/program-resources/#contact-e-mails).
    ![Change sender step 4](/images/handbook/marketing/developer-relations/zendesk-emails/sender-4.png)
 5. If the sender address has been successfully changed, a notification saying `This ticket will be sent from {email address}` will pop up by the `Apps` tab, and the field at the top of the ticket will change.
    ![Change sender step 5](/images/handbook/marketing/developer-relations/zendesk-emails/sender-5.png)

@@ -18,13 +18,13 @@ This page is to act as your guide to the many tools and best practices that the 
 
 #### SDR Lead Views
 
-* **S1 View** - [MQL’s](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#mql-and-lead-scoring) and Hot leads that require quick follow up (i.e event)s, and Drift conversation leads for tenured SDRs
+* **S1 View** - [MQL’s](/handbook/marketing/marketing-operations/marketo/#mql-and-lead-scoring) and Hot leads that require quick follow up (i.e event)s, and Drift conversation leads for tenured SDRs
 * **S2 View** - Only leads that are active in a HT touch sequence and have a phone number
 * **S3 View** - Qualifying leads. These are leads that you are actively qualifying in a back and forth conversation either by email or through phone calls.  Each lead needs to either be active in a follow-up sequence, have an active task, or have a future meeting scheduled which can be seen in a future “last activity” date.
 
 #### BDR Lead Views
 
-* **B1 View** - [MQL’s](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#mql-and-lead-scoring) and Hot leads that require quick follow up 
+* **B1 View** - [MQL’s](/handbook/marketing/marketing-operations/marketo/#mql-and-lead-scoring) and Hot leads that require quick follow up 
 * **B2 View** - Leads associated with “Actively Working” accounts where you are the BDR Assigned
 * **B3 View** - Needs to be sequenced. They’re leads you chose to move into your name but they have not yet been sequenced
 * **B4 View** - Active HT sequenced leads that have a phone number - to help with call downs
@@ -49,7 +49,7 @@ This page is to act as your guide to the many tools and best practices that the 
 * [Intro Slide Deck](https://docs.google.com/presentation/d/1IpTVE4-Nkblfuiu6f1OUnFbi8IpjRPK7UDSx4eSfQCg/edit#slide=id.g5a343b482a_2_10) and [Training Video](https://gitlab.edcast.com/journey/weeks/cards/7257647)
     * password should be in onboarding issue or ask your manager
 * GitLab Edcast: [Advanced Outreach Training](https://gitlab.edcast.com/journey/weeks)
-* Best Practices: [Our Outreach Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/outreach/)
+* Best Practices: [Our Outreach Handbook Page](/handbook/marketing/marketing-operations/outreach/)
 
 ### Outreach Sequences
 
@@ -102,7 +102,7 @@ Content created for BDRS and SDRs to use to create hyper-personalized sequences,
 
 #### Prior to Building a New Sequence
 
-Please review the BDR or SDR process and conceptualize what iteration does a new sequence bring to our existing library, from the moment you have clarified your intent please [follow the steps here](https://about.gitlab.com/handbook/marketing/sales-development/#new-outreach-sequenceworkflow-creation) to request a new sequence, we'll work with you to develop the best possible iteration we can. 
+Please review the BDR or SDR process and conceptualize what iteration does a new sequence bring to our existing library, from the moment you have clarified your intent please [follow the steps here](/handbook/marketing/sales-development/#new-outreach-sequenceworkflow-creation) to request a new sequence, we'll work with you to develop the best possible iteration we can. 
 
 #### Building a New Sequence, Prior to Setting it Live
 As you begin building your new sequence, make sure you are following the proper guidelines:
@@ -180,7 +180,7 @@ Managers then need to add a tag of “manager approved” on the sequence in Out
 
 ## ZoomInfo
 
-[Zoominfo](https://www.zoominfo.com/) provides our Sales Development Representatives and Account Executives with access to hundreds of thousands of prospects and their contact information, company information, tech stack, revenue, and other relevant data. Individual records or bulk exports can be imported into Salesforce using extensive search criteria such as job function, title, industry, location, tech stack, employee count, and company revenue. More information can be found on the Marketing Operations [Zoominfo handbook page.](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/)
+[Zoominfo](https://www.zoominfo.com/) provides our Sales Development Representatives and Account Executives with access to hundreds of thousands of prospects and their contact information, company information, tech stack, revenue, and other relevant data. Individual records or bulk exports can be imported into Salesforce using extensive search criteria such as job function, title, industry, location, tech stack, employee count, and company revenue. More information can be found on the Marketing Operations [Zoominfo handbook page.](/handbook/marketing/marketing-operations/zoominfo/)
 
 ### ZoomInfo Training Resources 
 
@@ -190,7 +190,7 @@ Managers then need to add a tag of “manager approved” on the sequence in Out
 * ZI 101 Video: [Quick Saved Searches](https://www.youtube.com/watch?v=OpTgvoOQ1jM)
 * ZI 101 Video: [Leveraging List Match](https://www.youtube.com/watch?v=vl1kpsNa874)
 * ZI 101 Video: [Tagging Prospects in LinkedIn](https://www.youtube.com/watch?v=GQWTZWbMgg8) 
-* GitLab Handbook: [Zoominfo handbook page](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/)
+* GitLab Handbook: [Zoominfo handbook page](/handbook/marketing/marketing-operations/zoominfo/)
 
 ## LinkedIn Sales Navigator
 
@@ -206,7 +206,7 @@ Managers then need to add a tag of “manager approved” on the sequence in Out
 
 ## 6Sense
 
-6Sense is a targeting and personalization platform that we use to reach our different audiences based on intent data and our ideal customer profiles. [6Sense Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/6sense/)
+6Sense is a targeting and personalization platform that we use to reach our different audiences based on intent data and our ideal customer profiles. [6Sense Handbook Page](/handbook/marketing/marketing-operations/6sense/)
 
 ### 6Sense Training Resources
 
@@ -246,16 +246,16 @@ Onboarding is essential for all Sales Development Managers at GitLab. As part of
 
 The BDR process that we have defined here in GitLab is meant to provide a repeatable set of steps that an outbound BDR can follow to achieve results. It is very important for an onboarding manager to align themselves as quickly as possible to this process as it is a proven method that will help them manage their team in a efficient and data-driven way. 
 
-The BDR Process is explained step-by-step in the [main SDR handbook page here](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#bdr-outbound-process)
+The BDR Process is explained step-by-step in the [main SDR handbook page here](/handbook/marketing/revenue-marketing/sdr/#bdr-outbound-process)
 
-For a newcoming manager, we provide the [Watch and Help Dashboards](https://about.gitlab.com/handbook/marketing/sales-development/sales-development-tools/#tracking--monitoring-resources) that will be your main tool in understanding where your team is aligned to our BDR process, and where they need assistance. 
+For a newcoming manager, we provide the [Watch and Help Dashboards](/handbook/marketing/sales-development/sales-development-tools/#tracking--monitoring-resources) that will be your main tool in understanding where your team is aligned to our BDR process, and where they need assistance. 
 
 To help structure your usage of the above, you can follow the steps below during your first month at GitLab while [the document here will be your main go-to resource](https://docs.google.com/document/d/18k1_jDHVgNzy2SzcPZ7GAOdJ6zb9i37Z4-V1-dEFKiU/edit#)
 
 | Action | Benefit | 
 | ------ | ------- | 
 | Clone the W&H Dashboard and edit each report to be exclusive to your team's names | Gives you a SSoT that you and your team can easily reference | 
-| Review the dashboard with your team, and discuss how the data on it connect to the [BDR KPIs](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#sdrbdr-roe-and-inbound-lead-management) | Allows you to understand your team's level of maturity and each team member's current level of alignment to existing processes |
+| Review the dashboard with your team, and discuss how the data on it connect to the [BDR KPIs](/handbook/marketing/revenue-marketing/sdr/#sdrbdr-roe-and-inbound-lead-management) | Allows you to understand your team's level of maturity and each team member's current level of alignment to existing processes |
 | Take note of any discrepancies or points of feedback from the team, either transcribe them to 1:1s for individual conversations or to the SDR Issue board for org-wide improvements | Enables you to filter between discrepancies that are caused because of a team member's lack of diligence that should be improved upon by the individual OR for discrepancies that were caused by an org-wide operational shortcoming that should be improved upon on a global scale. |
 | Set realistic expectations with the team about adherance to org KPIs and set a review mechanism to go over them on a reccuring basis | Helps maintain a repeatable structure of accountability for your entire team | 
 
@@ -304,7 +304,7 @@ To help structure your usage of the above, you can follow the steps below during
 |  [SDR Sisense Dashboard](https://app.periscopedata.com/app/gitlab/641469/WIP:-SDR-Metrics-Update) | Dashboard to monitor SDR leads and meetings  |  
 |  [MQL & SAO Performance vs. Target Sisense Dashboard](https://app.periscopedata.com/app/gitlab/628196/Revised-Marketing-Metrics) | Monitoring MQL and SAO performance in comparison to our goals  |
 
-|  [Lead View Descriptions](https://about.gitlab.com/handbook/marketing/sales-development/#lead-and-contact-views) | There are Manager Lead views in SFDC mirroring the SDR and BDR views which are described on the linked Handbook page on the left. These views need to be checked regularly by managers to ensure all necessary leads are being worked.
+|  [Lead View Descriptions](/handbook/marketing/sales-development/#lead-and-contact-views) | There are Manager Lead views in SFDC mirroring the SDR and BDR views which are described on the linked Handbook page on the left. These views need to be checked regularly by managers to ensure all necessary leads are being worked.
 
 ##  Watch and Help Boards
 
@@ -413,7 +413,7 @@ On your new hire's first day, the assigned People Connect Team member will [sche
      * When you have available time feel free to move ahead as some onboarding task lists for the day won't take you all day.
      * How to manage meeting invites in your inbox (there are a ton!)
      * You will receive numerous emails in their first two weeks asking you to register or activate your license to a specific tool we use, please go ahead and do all of this.
-     * What you can expect in regards to [onboarding at GitLab as an SDR](https://about.gitlab.com/handbook/marketing/sales-development/sdr-playbook-onboarding/)
+     * What you can expect in regards to [onboarding at GitLab as an SDR](/handbook/marketing/sales-development/sdr-playbook-onboarding/)
     
 ##### After new hire has started
 

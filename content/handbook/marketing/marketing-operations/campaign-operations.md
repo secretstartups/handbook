@@ -22,7 +22,7 @@ Marketo campaign/program creation and support is a function of Marketing Operati
 
 Field Marketing issue templates (used by both Field Marketing and Corporate Events) for landing page and email requests have been updated with the appropriate labels to route to Marketing Ops. 
 
-Additional labels that can be used on issues to [track the status of the issue](https://about.gitlab.com/handbook/marketing/marketing-operations/#labeling) can be found in on the Marketing Operations page.
+Additional labels that can be used on issues to [track the status of the issue](/handbook/marketing/marketing-operations/#labeling) can be found in on the Marketing Operations page.
 
 ### Team Members
 {: #team}
@@ -37,9 +37,9 @@ Additional labels that can be used on issues to [track the status of the issue](
 {: #shortcuts .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- [Sales Nominated Invitations](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-processes-requests/#sales-nominated)
-- [Marketo Program + Salesforce Campaigns](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up)
-- [Workshop Landing Page and Marketo Setup](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-logistical-set-up)
+- [Sales Nominated Invitations](/handbook/marketing/lifecycle-marketing/email-processes-requests/#sales-nominated)
+- [Marketo Program + Salesforce Campaigns](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up)
+- [Workshop Landing Page and Marketo Setup](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-logistical-set-up)
 
 ## Project Management 
 {: #project-management}
@@ -59,13 +59,13 @@ In an effort to avoid manually adding the issues we are working on, Field Market
 Please note there is a 5 business day SLA with MktgOps, so please plan ahead accordingly. The SLA begins on the day after the issue is put into `~MktgOps::00: Triage`. For example, if the issue goes to triage on Tuesday, day 1 is Wednesday, day 5 is the following Tuesday. Day 5 is the earliest deployment/live date available. Please allow for US holidays and Family & Friends days as well. Using the same example, if day 4 is a US holiday, this will push day 5 to Wednesday. 
 
 #### Field Marketing
-Please see Field Marketing SLAs pertaining to this process [here](https://about.gitlab.com/handbook/marketing/field-marketing/#slas).
+Please see Field Marketing SLAs pertaining to this process [here](/handbook/marketing/field-marketing/#slas).
 
 ### Triage Steps
 {: #triage}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-1. **Field Marketing / Corporate Events**: Marketo asset issues are created (in Field Marketing, the FMC will create the issues during the [plan to WIP process](https://about.gitlab.com/handbook/marketing/field-marketing/#process-for-issues-moving-from-plan-to-wip)). When opening issues via the appropriate templates, the `~MktgOps::07: Blocked` and the `~MktgOps-Support` labels will automatically be associated with the issues. This allows for the issues to be opened in advance and to be available while copy is being finalized.
+1. **Field Marketing / Corporate Events**: Marketo asset issues are created (in Field Marketing, the FMC will create the issues during the [plan to WIP process](/handbook/marketing/field-marketing/#process-for-issues-moving-from-plan-to-wip)). When opening issues via the appropriate templates, the `~MktgOps::07: Blocked` and the `~MktgOps-Support` labels will automatically be associated with the issues. This allows for the issues to be opened in advance and to be available while copy is being finalized.
 1. **Field Marketing / Corporate Events**: If the copy references analyst reports, the FMM must open the [Analyst Citation Review issue](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/product-marketing/-/issues/new?issuable_template=AR-CitationReview) and associate it to the MOps email request. You do not need to complete the entire issue, but you must link the email issue and the copy doc with your proposed copy. To expedite email approval, you can use the content found [here](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/product-marketing/-/issues/7130#previously-approved-email-copy-still-requires-reapproval) as it is most likely to be approved quickly. We do not have previously approved landing page copy.
 1. **Field Marketing / Corporate Events**: FMM/FMC/Event Manager will submit the reviewed and final issue/copy to that team's Triage Manager by tagging the Triage Manager and moving the issue's label from `~MktgOps::07: Blocked` to `~MktgOps::Events/FM Copy Review`.
     - At this time, all details must be provided and final (including copy reviewed by relevant stakeholders, and all hyperlinks double-checked and confirmed).
@@ -76,10 +76,10 @@ Please see Field Marketing SLAs pertaining to this process [here](https://about.
 1. **MktgOps**: DRI adds email to the [Marketing Calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=1705692818) for the anticipated send date.
     - The requested send date is the due date of the issue. If the requested send date is less than 5 Business Days from the date it is passed to Mktg Ops, the date of the issue may be scheduled 5 business days out to abide by SLAs. This is at the discretion of Mktg Ops based on other work in progress and upcoming.
 1. **Lifeycle**: Reviews the email copy and once final and approved, add the `~Lifecycle 02 Copy Approved` labels.
-1. **MktgOps**: DRI completes the setup in Marketo, and for email, completes all steps on the [Technical Email QA checklist](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-processes-requests/#qa-checklist-technical). 
+1. **MktgOps**: DRI completes the setup in Marketo, and for email, completes all steps on the [Technical Email QA checklist](/handbook/marketing/lifecycle-marketing/email-processes-requests/#qa-checklist-technical). 
 1. **MktgOps**: DRI sends a test email to the "Reviewers/Approvers" listed in the issue and posts a screenshot of the email in the issue.
 1. **MktgOps**: DRI comments into the issue tagging the reviewers/approvers and documenting that the test email was sent to their inbox and changes status label to `~MktgOps::05: Business Owner Review`.
-1. **Field Marketing / Corporate Events**: The issue approver must be listed in the issue and complete all steps in the [Business Owner Email QA checklist](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-processes-requests/#qa-checklist-requestor) approve email (or provide corrections) via comment in the issue
+1. **Field Marketing / Corporate Events**: The issue approver must be listed in the issue and complete all steps in the [Business Owner Email QA checklist](/handbook/marketing/lifecycle-marketing/email-processes-requests/#qa-checklist-requestor) approve email (or provide corrections) via comment in the issue
     - SLA: 24 hours *from when the test email is sent and comment added to issue). Feedback and approval in a timeley manner is critical.
 1. **MktgOps**: DRI makes any necessary corrections. If no corrections needed and approval provided by reviewer, DRI sets the email to send (time for send to be determined in issue description/comments) and adds the `~MktgOps::06: Ready to Deploy`.
 1. **MktgOps**: DRI checks that email was sent, confirms in comments (tagging issue requester), adds the `~MktgOps::08: Completed` and closes out the issue.
@@ -93,7 +93,7 @@ Please see Field Marketing SLAs pertaining to this process [here](https://about.
 
 - Issue (email) requesters are responsible for submitting **all details**, including **final approved copy**, reviewed by all stakeholders, PRIOR to moving the issue to triage.
 - Issue (email) requesters are responsible for **timely feedback and answers**.
-- Issue (email) requesters are responsible for **FINAL QA** (including spelling, grammar, readability, and checking that all links direct to the proper URLs and contain proper tracking parameters). Refer to the [QA checklist](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-processes-requests/#qa-checklist-requestor).
+- Issue (email) requesters are responsible for **FINAL QA** (including spelling, grammar, readability, and checking that all links direct to the proper URLs and contain proper tracking parameters). Refer to the [QA checklist](/handbook/marketing/lifecycle-marketing/email-processes-requests/#qa-checklist-requestor).
 
 ### Review Process
 {: #review-process}
@@ -125,17 +125,17 @@ Should a requested send time be missed, MktgOps can schedule the email within 8 
 
 * Specialized email headers (not the standard header used in templates) - Typically used for large events such as Commit or DevSecOps World Tour. 
      - The images will be requested either by Lifecycle Marketing or the event DRI
-     - Image dimensions can be found on the [email marketing page](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-best-practices/#email-templates). 
+     - Image dimensions can be found on the [email marketing page](/handbook/marketing/lifecycle-marketing/email-best-practices/#email-templates). 
      - The requested image must be transparent. We cannot use a solid image as it will not render properly in all clients. 
      - In the email code (under "Edit Code"), you should use a solid email background (the color will change depending on the design for the event). Example code from the `B - Advanced modular template - light mode` template (aka Advanced Webcast Template). The variables to edit are bgcolor=`#xxxxxx` and border-bottom: 4px solid `#xxxxxx`  
      `<tr class="mktoModule" id="bgImagewText4990312b-fd20-449c-a184-d0500cdcc1aa" mktoname="Background Image with CTA"> 
                         <td background="${heroBackgroundImage}" bgcolor="#171321" valign="middle" style="max-width: 600px; width: 100%; text-align: center; height: 200px; background-repeat:no-repeat ;background-position: 100% !important; background-size: cover !important; border-bottom: 4px solid #171321;" width="100%" height="auto">` 
       - After saving the edits in the code, you can then click on the existing header, and the Variable sidebar will appear. Add the new transparent image to the `Hero Background Image` section, and confirm the link and button Copy
-      - All emails using specialized images must be [sent to Litmus](https://about.gitlab.com/handbook/marketing/marketing-operations/litmus/#steps-to-test-an-email) for previewing various clients. Refer to the Litmus page for details on what to check.
+      - All emails using specialized images must be [sent to Litmus](/handbook/marketing/marketing-operations/litmus/#steps-to-test-an-email) for previewing various clients. Refer to the Litmus page for details on what to check.
 * When using the URL in emails or other uses with utm values, Marketo page URLs (starting with page.gitlab.com) should not have a `/` at the end of the page URL before the `?`. This will likely cause the page to redirect. (Correct example: https://page.gitlab.com/webcast-example?{{my.utm}}). 
 * When using the URL in emails or other uses with utm values, about.gitlab.com page URLs (starting with about.gitlab.com) must have a `/` at the end of the page URL before the `?`. Omitting the `/` can cause the form not to display on the page. (Correct example: https://about.gitlab.com/webcast-example/?{{my.utm}}).
-* For localized emails, be sure to use the [Localized Email Snippet](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#snippets)
-* Prior to sending to the business owner review, the email creator must complete all steps in the [Technical email QA checklist](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-processes-requests/#qa-checklist-technical)     
+* For localized emails, be sure to use the [Localized Email Snippet](/handbook/marketing/marketing-operations/marketo/#snippets)
+* Prior to sending to the business owner review, the email creator must complete all steps in the [Technical email QA checklist](/handbook/marketing/lifecycle-marketing/email-processes-requests/#qa-checklist-technical)     
 
 ### Technical set-up - landing pages
 {: #technical-tips-landingpages}

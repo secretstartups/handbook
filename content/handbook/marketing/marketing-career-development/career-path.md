@@ -115,6 +115,6 @@ Note: `Manager` denotes a management of a certain specialty, whereas `Manager,` 
 
 These are the expected competencies of the Fullstack Engineer, Contributor Success role by career level.
 
-1. [Intermediate](https://about.gitlab.com/handbook/marketing/career-development/matrix/marketing/community-relations/contributor-success/intermediate/)
-1. [Senior](https://about.gitlab.com/handbook/marketing/career-development/matrix/marketing/community-relations/contributor-success/senior/)
-1. [Staff](https://about.gitlab.com/handbook/marketing/career-development/matrix/marketing/community-relations/contributor-success/staff/)
+1. [Intermediate](/handbook/marketing/career-development/matrix/marketing/community-relations/contributor-success/intermediate/)
+1. [Senior](/handbook/marketing/career-development/matrix/marketing/community-relations/contributor-success/senior/)
+1. [Staff](/handbook/marketing/career-development/matrix/marketing/community-relations/contributor-success/staff/)

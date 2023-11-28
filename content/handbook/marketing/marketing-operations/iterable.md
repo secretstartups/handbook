@@ -106,7 +106,7 @@ Whenever an `unsubscribe` event occurs in Marketo, an event is sent to Workato a
 
 ### Hightouch
 
-[Hightouch](https://about.gitlab.com/handbook/marketing/marketing-operations/hightouch/) is a data integration platform that specializes in real-time data synchronization, allowing us to leverage the power of Snowflake's data and transfer it to Iterable for personalized and targeted marketing campaigns. It automates the data synchronization process between Snowflake and Iterable, reducing manual effort. Hightouch can handle large datasets and ensure that all data is accurately synced to Iterable, enabling us to scale marketing operations effectively.
+[Hightouch](/handbook/marketing/marketing-operations/hightouch/) is a data integration platform that specializes in real-time data synchronization, allowing us to leverage the power of Snowflake's data and transfer it to Iterable for personalized and targeted marketing campaigns. It automates the data synchronization process between Snowflake and Iterable, reducing manual effort. Hightouch can handle large datasets and ensure that all data is accurately synced to Iterable, enabling us to scale marketing operations effectively.
 
 Every 24 hours, Iterable is synced with namespace data from Snowflake. Namespace information is stored in a JSON nested object in the `SENSITIVE.POC_PUMP_MARKETING_CONTACT_NAMESPACE_DETAIL` which is then accessed by `Hightouch` to map fields downstream to Iterable and sync events and bulk update information.
 

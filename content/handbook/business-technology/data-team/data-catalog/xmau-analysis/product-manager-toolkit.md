@@ -453,7 +453,7 @@ GROUP BY 1
 #### Interpreting product_tier/ping_product_tier
 
 Currently in our data models, we use the value `Core` to represent installations on the free tier.
-To help align with how we [define and talk about product tiers](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#overview)
+To help align with how we [define and talk about product tiers](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#overview)
 at GitLab, we have [an issue](https://gitlab.com/gitlab-data/analytics/-/issues/14535) to update
 the logic and use `Free` instead.
 
@@ -472,7 +472,7 @@ The snippet called `feature_usage_this_agg_period_and_growth(feature)` ([SQL sou
 
 This snippet can be used with the date-range and aggregation filters. It has been used in several dashboards, one of them is the [Secure Metrics dashboard](https://app.periscopedata.com/app/gitlab/410654/Secure-Metrics)
 
-We are planning to build a second snippet to report on the adoption rate per [product tier](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/). This snippet will allow to easily calculate among the installations that send us service pings in a given period, the number of installations that use a specific feature.
+We are planning to build a second snippet to report on the adoption rate per [product tier](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/). This snippet will allow to easily calculate among the installations that send us service pings in a given period, the number of installations that use a specific feature.
 
 ###### Examples
 

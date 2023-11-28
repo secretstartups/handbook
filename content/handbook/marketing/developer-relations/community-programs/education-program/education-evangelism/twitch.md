@@ -75,7 +75,7 @@ Currently, our Education Evangelist is the co-host of a stream/podcast called 8-
 
 ## After a Stream
 
-Once you've finished a stream, make sure to download the video so you can upload it to the [Unfiltered YouTube Channel](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/). Follow the upload procedures found in the [handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube). Make sure to name the upload according to the following template:
+Once you've finished a stream, make sure to download the video so you can upload it to the [Unfiltered YouTube Channel](/handbook/marketing/marketing-operations/youtube/). Follow the upload procedures found in the [handbook](/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube). Make sure to name the upload according to the following template:
 `Name of Show season.episode: Name of Guest`.
 In the description, make sure to include any relevant links, especially ones you shared onstream. Be sure to include the [GitLab for Education](/solutions/education/) link every time as well. While uploading, make sure to add it to the correct playlist: `Meet the Tanukis`.
 

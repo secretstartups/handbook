@@ -45,7 +45,7 @@ catch-all term for any other metric.
 and [hostname](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/license/20210204124827_hostname.yml).
   - Analysis is done at the installation level
 - [Paid User](#paid-xmau-definition)
-- [Product Tier](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#overview)
+- [Product Tier](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#overview)
 - [Service Ping](https://docs.gitlab.com/ee/development/service_ping/)
 - [Version](https://about.gitlab.com/handbook/sales/process/version-check/#what-is-the-functionality-of-the-gitlab-version-check)
 - [Instance User Count](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/license/20210204124829_active_user_count.yml) -
@@ -187,7 +187,7 @@ has more details about xMAU-related snippets.
 
 Due to the sensitive nature of metrics like user counts, PI charts are not publicly accessible
 and must reside in the [internal handbook](https://internal.gitlab.com/handbook/company/performance-indicators/product/).
-However, this data is not considered to be [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) and therefore
+However, this data is not considered to be [SAFE](/handbook/legal/safe-framework/) and therefore
 is visible to all GitLab team members and is available in the [general GitLab space in Sisense](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index).
 
 Some data supporting xMAU Analysis is classified as [Orange](/handbook/security/data-classification-standard.html#orange)

@@ -33,7 +33,7 @@ description: Learn about the Sisense SQL snippets that are used in community-rel
 - [MRARR Diagnostics](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965418/MRARR-Diagnostics)
    - Identifies MRs from customers that are not being tracked yet
    - Identifies projects with contributions that are not being tracked yet
-   - See [Contributing Orgs tracker](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker.html) for details
+   - See [Contributing Orgs tracker](/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker.html) for details
 
 ## Sisense SQL snippets
 

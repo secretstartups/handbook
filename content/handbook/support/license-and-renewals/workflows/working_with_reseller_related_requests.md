@@ -11,9 +11,9 @@ description: This is a guide on how to handle requests involving Reseller.
 ## Overview
 
 Reseller is another word for [Channel Partner](https://about.gitlab.com/handbook/resellers/).
-Note that an [Alliance Partner](/handbook/support/partnerships/alliance.html)
+Note that an [Alliance Partner](/handbook/support/partnerships/alliance)
 is different from a Channel Partner, and is **not** a reseller. See the
-[GitLab Alliances Handbook Page](https://about.gitlab.com/handbook/alliances/) and the
+[GitLab Alliances Handbook Page](/handbook/alliances/) and the
 [Internal Alliances Handbook Page](https://internal.gitlab.com/handbook/alliances/)
 for more on alliances.
 
@@ -54,18 +54,18 @@ Note:  Sometimes you can also see Partners section in the end-user's SFDC accoun
 
 If a reseller partner needs to have the end-user contact details updated (who should receive the license), you have the following options:
 
-- Have the current Sold-To contact file a support ticket with us, following the workflow [Add subscription management contact workflow](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#add-subscription-management-contact-workflow)
+- Have the current Sold-To contact file a support ticket with us, following the workflow [Add subscription management contact workflow](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases#add-subscription-management-contact-workflow)
 - The reseller partner **must** attach a copy of the subscription invoice to verify any contact change requested on an end-user's behalf
 
 ### Handling reseller customers' requests for direct renewal
 
-To assist a customer who requests to renew their subscription directly with GitLab instead of through their reseller, follow the [working with sales workflow](/handbook/support/license-and-renewals/workflows/working_with_sales.html) and ensure you mention that the customer first had a Reseller purchase.
+To assist a customer who requests to renew their subscription directly with GitLab instead of through their reseller, follow the [working with sales workflow](/handbook/support/license-and-renewals/workflows/working_with_sales) and ensure you mention that the customer first had a Reseller purchase.
 
-If a customer with a reseller purchase decides to make a new purchase on a different account, their subscription would be a new purchase instead of a renewal. The license generated would therefore not include the previous subscription counts. Follow the [troubleshooting license upload errors](/handbook/support/license-and-renewals/workflows/self-managed/troubleshoot_license_upload_issues.html) workflow to move the ticket forward.
+If a customer with a reseller purchase decides to make a new purchase on a different account, their subscription would be a new purchase instead of a renewal. The license generated would therefore not include the previous subscription counts. Follow the [troubleshooting license upload errors](/handbook/support/license-and-renewals/workflows/self-managed/troubleshoot_license_upload_issues) workflow to move the ticket forward.
 
 ### More Reseller Workflows
 
-- [Associating purchases - ownership verification](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#ownership-verification)
-- [Pass to Sales - reseller exemption request](/handbook/support/license-and-renewals/workflows/self-managed/cloud-licensing.html#2-are-reseller-purchases-considered-the-same-as-sales-assisted-if-a-customer-purchased-after-2022-07-07-and-needs-a-legacy-license-should-we-send-them-to-their-account-manager-to-go-through-the-exemption-process-or-do-we-treat-them-the-same-as-web-direct-and-give-them-a-legacy-license-file-no-questions-asked)
-- [Pass to Sales - reseller subscription change or question](/handbook/support/license-and-renewals/workflows/working_with_sales.html#a-reseller-or-reseller-customer-wants-to-change-their-subscription-or-ask-a-question)
+- [Associating purchases - ownership verification](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases#ownership-verification)
+- [Pass to Sales - reseller exemption request](/handbook/support/license-and-renewals/workflows/self-managed/cloud-licensing#2-are-reseller-purchases-considered-the-same-as-sales-assisted-if-a-customer-purchased-after-2022-07-07-and-needs-a-legacy-license-should-we-send-them-to-their-account-manager-to-go-through-the-exemption-process-or-do-we-treat-them-the-same-as-web-direct-and-give-them-a-legacy-license-file-no-questions-asked)
+- [Pass to Sales - reseller subscription change or question](/handbook/support/license-and-renewals/workflows/working_with_sales#a-reseller-or-reseller-customer-wants-to-change-their-subscription-or-ask-a-question)
 - [Not-for-Resale (NFR) program and policy](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#not-for-resale-nfr-program-and-policy)

@@ -24,7 +24,7 @@ The general steps required for creating a partner campaign include:
 
 ## Email Management
 
-When a lead is passed to a partner, they will be suspended from GitLab marketing unless they opt-in specifically to GitLab marketing after being passed, or the partner returns the lead to GitLab. Read more on the [email management page](https://about.gitlab.com/handbook/marketing/marketing-operations/email-management/#partners-and-email-communication).
+When a lead is passed to a partner, they will be suspended from GitLab marketing unless they opt-in specifically to GitLab marketing after being passed, or the partner returns the lead to GitLab. Read more on the [email management page](/handbook/marketing/marketing-operations/email-management/#partners-and-email-communication).
 
 Keep in mind, they will still be eligible for `operational` email sends - which includes most follow up emails. If you want to exclude them, you will need to add a parameter to the smart list of that send campaign to say `Prospect Share Status` not equal to `Pending, Sending to Partner, Accepted`.
 
@@ -32,11 +32,11 @@ Note that the smart list, [SSOT - ALL EMAILABLE](https://engage-ab.marketo.com/?
 
 ## Scoring
 
-Leads that are actively being worked by the partner will be excluded from scoring. Once they are no longer being worked by the partner, they will be scored again. More details on the [scoring page](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#scoring-model).
+Leads that are actively being worked by the partner will be excluded from scoring. Once they are no longer being worked by the partner, they will be scored again. More details on the [scoring page](/handbook/marketing/marketing-operations/marketo/#scoring-model).
 
 ## Passing to Vartopia and Partner Visibility
 
-Leads generated from partner campaigns are shared to Partner in Vartopia where they can accept, reject and action by Partners. There are specific fields that are required to allow leads to sync, to list a few: `Vartopia Partner Account`, `Prospect Share Status` and `Partner Prospect Status`. Learn more, see the [Vartopia](https://about.gitlab.com/handbook/marketing/marketing-operations/vartopia/) handbook page.
+Leads generated from partner campaigns are shared to Partner in Vartopia where they can accept, reject and action by Partners. There are specific fields that are required to allow leads to sync, to list a few: `Vartopia Partner Account`, `Prospect Share Status` and `Partner Prospect Status`. Learn more, see the [Vartopia](/handbook/marketing/marketing-operations/vartopia/) handbook page.
 
 Note that Channel Partners refer to Vartopia as `Prospects` in the Partner Portal, as they can only access Vartopia through SSO via the portal.
 
@@ -46,21 +46,21 @@ For a running list of Channel Partners and their CRM IDs, which is critical to t
 
 ### Partner Recall
 
-The recall process is built to be able to pull back partner leads that are not being actioned in Vartopia. Not all partner leads are subject to recall, only Joint GitLab and Partner campaign leads can be recalled. [See the full overview.](https://about.gitlab.com/handbook/marketing/marketing-operations/vartopia/#partner-recall)
+The recall process is built to be able to pull back partner leads that are not being actioned in Vartopia. Not all partner leads are subject to recall, only Joint GitLab and Partner campaign leads can be recalled. [See the full overview.](/handbook/marketing/marketing-operations/vartopia/#partner-recall)
 
 ## Types of Partner Campaigns
 
 Partners have many different type of campaigns that fit into specific categories. Each campaign has it's own ROE for lead routing and email practices. See the campaign [flow chart](https://www.figma.com/file/vOe7ohMpZfYCGEG3siIpbU/Partner-%2B-GitLab-Campaign-Workflows_2023-08-28_19-18-38?type=whiteboard&t=QvcXdK9p5nlkFL2I-1) to understand how leads are distributed.
 
-- [MDF Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#mdf-campaigns)
-- [Joint Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-campaigns)
+- [MDF Campaigns](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-campaigns)
+- [Joint Campaigns](/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-campaigns)
      - Events
      - Webinar
-     - [Partner Sponsored Events](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#partner-sponsored-events)
-- [Trial Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#trials-from-partners)
+     - [Partner Sponsored Events](/handbook/marketing/channel-marketing/partner-campaigns/#partner-sponsored-events)
+- [Trial Campaigns](/handbook/marketing/channel-marketing/partner-campaigns/#trials-from-partners)
      - SaaS Free Trial
      - Self-Managed Free Trial
-- [Partner Managed Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#partner-managed-campaigns)
+- [Partner Managed Campaigns](/handbook/marketing/channel-marketing/partner-campaigns/#partner-managed-campaigns)
      - Impartner Program
      - Partner Campaign
 
@@ -72,14 +72,14 @@ In an attempt to extend our GitLab [CREDIT](/handbook/values/#credit) values to 
 
 [MDF campaigns](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/MDF/) involve financial support or funds provided by GitLab to the Channel Partners to manage a lead generation campaign. These campaigns follow their own processes not found on the campaigns-and-programs page.
 
-🖇️ Quick Links: [Lead Routing](https://about.gitlab.com/handbook/marketing/marketing-operations/traction-lead-complete/#mdf-campaign)
+🖇️ Quick Links: [Lead Routing](/handbook/marketing/marketing-operations/traction-lead-complete/#mdf-campaign)
 
-Before starting this steps, note you'll need to have already set up the [Allocadia](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/#channel-marketing-set-up) subcategory and line item.
+Before starting this steps, note you'll need to have already set up the [Allocadia](/handbook/marketing/strategy-performance/allocadia/#channel-marketing-set-up) subcategory and line item.
 
 **Step 1: Setup Marketo Program**
 1. Clone Marketo Template and update program name: [YYYYMMDD__MDF_000_Partner_Name_Region_Event_Name](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG11842A1).
 1. Select the Program Name on the Summary page, this will unlock a description, where you will update description with the links to the SFDC MDF request, Coupa ID and Allocadia ID (if you have it), then `Save`.
-1. Update the Marketo tokens: `{{my.Partner Name}}` with Partner Name and `{{my.CRM Partner ID}}` with [Account ID (18)](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#crm-ids-for-channel-and-alliance-partners).
+1. Update the Marketo tokens: `{{my.Partner Name}}` with Partner Name and `{{my.CRM Partner ID}}` with [Account ID (18)](/handbook/marketing/channel-marketing/partner-campaigns/#crm-ids-for-channel-and-alliance-partners).
 
 **Step 2: Sync Marketo Program to SFDC**
 1. In the Marketo Program Summary page, in `Salesforce Campaign Sync`, click on `Not Set`.
@@ -93,30 +93,30 @@ Before starting this steps, note you'll need to have already set up the [Allocad
 
 **Step 4: Update List Upload Request Issue**
 
-The list import issue will be automatically be created via [Allocadia - GitLab issue integration](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/#how-to-create-a-channel-marketing-epicissues-from-allocadia).
+The list import issue will be automatically be created via [Allocadia - GitLab issue integration](/handbook/marketing/strategy-performance/allocadia/#how-to-create-a-channel-marketing-epicissues-from-allocadia).
 
-Skip to step 2 of the list import [instructions](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#list-import-for-partner-leads) for partner leads.
+Skip to step 2 of the list import [instructions](/handbook/marketing/channel-marketing/partner-campaigns/#list-import-for-partner-leads) for partner leads.
 
 ### Joint GitLab and Partner Campaigns
 
 When GitLab and Partners participate in campaigns together including events, webinars and more.
 
-🖇️ Quick Links: [Lead Routing](https://about.gitlab.com/handbook/marketing/marketing-operations/traction-lead-complete/#joint-partner-campaign)
+🖇️ Quick Links: [Lead Routing](/handbook/marketing/marketing-operations/traction-lead-complete/#joint-partner-campaign)
 
 **NOTE**: For Vartopia sync, the campaign field, `Is Channel Partner Involved?` = `Yes`.
 
-First, use the general set up, found in [campaigns and programs page](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up). The partner steps are nested in the typical Marketo program templates to clone. Once the campaign is cloned, follow the steps below in addition to the other setup steps found on the campaigns and programs page.
+First, use the general set up, found in [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up). The partner steps are nested in the typical Marketo program templates to clone. Once the campaign is cloned, follow the steps below in addition to the other setup steps found on the campaigns and programs page.
 
 All Marketo templates will have 2 tokens added to them that the campaign owner should update, {{My.Partner Name}} and {{My.CRM Partner ID}}.
 
 - Partner Name: Does not need to be official, it will be used on the form consent language and interesting moments, so needs to be customer facing. Example:  `By registering for this GitLab and {{My.Partner Name}} event....`
-- Partner ID: All partner IDs can be [found here](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#crm-ids-for-channel-and-alliance-partners).
+- Partner ID: All partner IDs can be [found here](/handbook/marketing/channel-marketing/partner-campaigns/#crm-ids-for-channel-and-alliance-partners).
 
 **Online Campaign - Lead Capture via Form/Landing Page**
 
 These instructions must be completed prior to launch.
 
-1. Update the Marketo tokens: `{{my.Partner Name}}` with Partner Name and `{{my.CRM Partner ID}}` with [Account ID (18)](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#crm-ids-for-channel-and-alliance-partners).
+1. Update the Marketo tokens: `{{my.Partner Name}}` with Partner Name and `{{my.CRM Partner ID}}` with [Account ID (18)](/handbook/marketing/channel-marketing/partner-campaigns/#crm-ids-for-channel-and-alliance-partners).
 1. Update `Registration Landing Page` to use `FORM 3146: Partner + GitLab Joint Event with Token`
    - To update the page:
        - Right click `Registration Landing Page`, edit draft.
@@ -126,19 +126,19 @@ These instructions must be completed prior to launch.
 1. Processing `Registration` Smart Campaign
     1. Processing smart campaign's Smart list must reference the landing page used in Program.
     2. Schedule, `Activate` smart campaign.
-1. Set up asset expiration as [described here](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#asset-expiration-use-cases), if needed.
+1. Set up asset expiration as [described here](/handbook/marketing/marketing-operations/campaigns-and-programs/#asset-expiration-use-cases), if needed.
 1. (no setup needed) Marketo will process.
     1. If there is a `CRM Partner ID`,
         1. Set `Vartopia Partner Account`
         1. Set `Partner Consent` = `True`.
 1. (no setup needed) Interesting moments will dynamically change if there is a partner involved to reflect that.
-1. (no setup needed) [Traction](https://about.gitlab.com/handbook/marketing/marketing-operations/traction-lead-complete/#joint-partner-campaign) picks up from there, and the lead is routed accordingly to either GitLab or the Partner in Vartopia.
+1. (no setup needed) [Traction](/handbook/marketing/marketing-operations/traction-lead-complete/#joint-partner-campaign) picks up from there, and the lead is routed accordingly to either GitLab or the Partner in Vartopia.
 
-The process above will work for an event with **multiple partners** driving to it. Make sure they have their [UTM Paramter URL](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#utm-parameter-url) correct when sending traffic to the registration page. You still need to fill out the token, but only one value will be accepted. Please decide ahead of time who the `default` partner is that will receive the leads they did not source.
+The process above will work for an event with **multiple partners** driving to it. Make sure they have their [UTM Paramter URL](/handbook/marketing/channel-marketing/partner-campaigns/#utm-parameter-url) correct when sending traffic to the registration page. You still need to fill out the token, but only one value will be accepted. Please decide ahead of time who the `default` partner is that will receive the leads they did not source.
 
 **Offline Campaign - Lead Capture via List Upload**
 
-If a form/landing page isn't available to capture registrations, see [List Import for Partner Leads](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#list-import-for-partner-leads).
+If a form/landing page isn't available to capture registrations, see [List Import for Partner Leads](/handbook/marketing/channel-marketing/partner-campaigns/#list-import-for-partner-leads).
 
 The process above will work for an event with multiple partners driving to it. Make sure they have the partner ID properly appended to each person on the list. You still need to fill out the token, but only one value will be accepted. Please decide ahead of time who the `default` partner is that will receive the leads they did not source.
 
@@ -170,10 +170,10 @@ GitLab allows Channel Partners to sponsor our owned events. The leads acquired b
 
 #### Self-Managed Free Trial
 
-Partners can host our self-managed trial form. They will have a specific UTM parameter that is captured upon form submit that allows us to pass that lead directly to the partner. Each page must have the UTM `utm_partnerid` in the URL populated, otherwise we cannot pass to the partner. See the [UTM Paramter URL](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#utm-parameter-url) section for more on how to set up the URL for partners.
+Partners can host our self-managed trial form. They will have a specific UTM parameter that is captured upon form submit that allows us to pass that lead directly to the partner. Each page must have the UTM `utm_partnerid` in the URL populated, otherwise we cannot pass to the partner. See the [UTM Paramter URL](/handbook/marketing/channel-marketing/partner-campaigns/#utm-parameter-url) section for more on how to set up the URL for partners.
 
 🖇️ Quick Links:
-- [Lead Routing](https://about.gitlab.com/handbook/marketing/marketing-operations/traction-lead-complete/#free-trial-campaign)
+- [Lead Routing](/handbook/marketing/marketing-operations/traction-lead-complete/#free-trial-campaign)
 - [Self-Managed Free Trial Page](https://page.gitlab.com/sm-free-trial-partner.html)
 - [Salesforce Campaign](https://gitlab.my.salesforce.com/7014M000001dqjG?srPos=1&srKp=701)
 
@@ -183,14 +183,14 @@ Every partner trial campaign can utilize setup from `Partner - Trial - Self-mana
 
 GitLab allows only one self-managed trial license key per user. In the case, when a lead returns and attempts to fill out the self-managed trial form from Partners, they will be prompt with a rejection email.
 
-As partner leads are [suspended](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#email-management) from receiving marketing communications, the `Marketing Suspended` status is temporarily switch to `False` to send the email to the recipient.
+As partner leads are [suspended](/handbook/marketing/channel-marketing/partner-campaigns/#email-management) from receiving marketing communications, the `Marketing Suspended` status is temporarily switch to `False` to send the email to the recipient.
 
 #### SaaS Free Trial
 
 Partners can use the SaaS free trial submission via GitLab.com. They will have a specific UTM parameter that is captured upon form submit that allows us to pass that lead directly to the partner. Below explains the backend for the activity.
 
 🖇️ Quick Links:
-- [Lead Routing](https://about.gitlab.com/handbook/marketing/marketing-operations/traction-lead-complete/#free-trial-campaign)
+- [Lead Routing](/handbook/marketing/marketing-operations/traction-lead-complete/#free-trial-campaign)
 - [SaaS Free Trial Page](https://gitlab.com/-/trial_registrations/new)
 - [Salesforce Campaign](https://gitlab.my.salesforce.com/7018X000001OHIF?srPos=0&srKp=701)
 
@@ -216,7 +216,7 @@ Note that this type of campaign are not generated by MDF.
 **Step 1: Setup in Marketo**
 
 1. Clone the Marketo program template: [YYYYMMDD__Partner_Name_Event_Name_Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG16629A1)
-2. Update the Marketo tokens: `{{my.Partner Name}}` with Partner Name and `{{my.CRM Partner ID}}` with [Account ID (18)](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#crm-ids-for-channel-and-alliance-partners).
+2. Update the Marketo tokens: `{{my.Partner Name}}` with Partner Name and `{{my.CRM Partner ID}}` with [Account ID (18)](/handbook/marketing/channel-marketing/partner-campaigns/#crm-ids-for-channel-and-alliance-partners).
 
 **Step 2: Sync to Salesforce Campaign**
 1. In the Marketo Program Summary page, in `Salesforce Campaign Sync`, click on `Not Set`.
@@ -236,11 +236,11 @@ Note that this type of campaign are not generated by MDF.
 
 **Step 4: List Import**
 
-Follow the steps in [List Import for Partner Leads](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#list-import-for-partner-leads).
+Follow the steps in [List Import for Partner Leads](/handbook/marketing/channel-marketing/partner-campaigns/#list-import-for-partner-leads).
 
 # Alliance Marketing Campaigns
 
-This section is to walk through the technical setup of webcasts hosted by GitLab and/or Alliance Partner. Unlike Channel leads, Alliance leads follow the regular [lead and contact statuses](https://about.gitlab.com/handbook/marketing/marketing-operations/#lead-and-contact-statuses) and [scoring model](https://about.gitlab.com/handbook/marketing/marketing-operations/#lead-scoring-lead-lifecycle-and-mql-criteria).
+This section is to walk through the technical setup of webcasts hosted by GitLab and/or Alliance Partner. Unlike Channel leads, Alliance leads follow the regular [lead and contact statuses](/handbook/marketing/marketing-operations/#lead-and-contact-statuses) and [scoring model](/handbook/marketing/marketing-operations/#lead-scoring-lead-lifecycle-and-mql-criteria).
 
 ## Webcast Setup
 
@@ -248,15 +248,15 @@ All Marketo templates will have 2 tokens added to them that the campaign owner s
 
 The `CRM Partner ID` can be retrieved by identifying the `Account ID (18)` of the Alliance Partner - refer to this [list](https://gitlab.my.salesforce.com/00O8X000008mxIb).
 
-First, use the general set up found in [campaigns and programs page](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up). The partner steps are nested in the typical Marketo program templates to clone. Once the campaign is cloned, follow the steps below in addition to the other setup steps found on the campaigns and programs page.
+First, use the general set up found in [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up). The partner steps are nested in the typical Marketo program templates to clone. Once the campaign is cloned, follow the steps below in addition to the other setup steps found on the campaigns and programs page.
 
 ### On24 Webcast Hosted by GitLab - Lead Capture via Form
 
-GitLab can drive webcasts with Alliance Partners using [On24](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#on24-webcast-setup). To incorporate the steps required for partners, follow these additional steps.
+GitLab can drive webcasts with Alliance Partners using [On24](/handbook/marketing/virtual-events/webcasts/#on24-webcast-setup). To incorporate the steps required for partners, follow these additional steps.
 
 **Step 1: Setup in Marketo**
 
- 1. Update the Marketo tokens: `{{my.Partner Name}}` with Partner Name and `{{my.CRM Partner ID}}` with [Account ID (18)](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#crm-ids-for-channel-and-alliance-partners).
+ 1. Update the Marketo tokens: `{{my.Partner Name}}` with Partner Name and `{{my.CRM Partner ID}}` with [Account ID (18)](/handbook/marketing/channel-marketing/partner-campaigns/#crm-ids-for-channel-and-alliance-partners).
  3. The registration landing page must have the following:
     - `FORM 3299: Alliances` with a hidden field that captures  `utm_partnerid`.
     - The **URL must include the utm parameter with the CRM Partner ID** to the landing page to lead to be associated with the Alliance partner.
@@ -288,7 +288,7 @@ If a form isn't available to capture registration, follow these additional steps
 
 **Step 1: Update Tokens in Marketo**
 
-- Update the Marketo tokens: `{{my.Partner Name}}` with Partner Name and `{{my.CRM Partner ID}}` with [Account ID (18)](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#crm-ids-for-channel-and-alliance-partners).
+- Update the Marketo tokens: `{{my.Partner Name}}` with Partner Name and `{{my.CRM Partner ID}}` with [Account ID (18)](/handbook/marketing/channel-marketing/partner-campaigns/#crm-ids-for-channel-and-alliance-partners).
 
 **Step 2: Update SFDC Campaign**
 
@@ -309,17 +309,17 @@ If a form isn't available to capture registration, follow these additional steps
 
 **Step 4: Update List Upload Request Issue**
 
-- Please follow the [list import criteria and guidelines](https://about.gitlab.com/handbook/marketing/marketing-operations/list-import/#import-methods-and-their-sla).
+- Please follow the [list import criteria and guidelines](/handbook/marketing/marketing-operations/list-import/#import-methods-and-their-sla).
 
 # List Import for Partner Leads
 
 1. Create a list import issue using the issue template found in the Marketing Operations project titled [general-list-import-request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/general-list-import-request.md).
-1. For the list import spreadsheet (found in the list import issue), be sure to follow the general [instructions](https://about.gitlab.com/handbook/marketing/marketing-operations/list-import/#import-methods-and-their-sla).
+1. For the list import spreadsheet (found in the list import issue), be sure to follow the general [instructions](/handbook/marketing/marketing-operations/list-import/#import-methods-and-their-sla).
    1. For specific instructions related to Partner, here what you need to know:
         1. Ensure the `CRM Partner ID` column is populated with the Account 18 (ID)
         1. Lead should not be marked as `Opt-In`, unless they specifically opted in to **GitLab** emails.
         1. Phone number is mandatory for Vartopia sync, make sure that field is populated.
-1. Once spreadsheet is completed, proceed with [self service list import](https://about.gitlab.com/handbook/marketing/marketing-operations/automated-list-import/) instructions.
+1. Once spreadsheet is completed, proceed with [self service list import](/handbook/marketing/marketing-operations/automated-list-import/) instructions.
 1. (no setup needed) Marketo will process.
     1. If there is a `CRM Partner ID`
         1. Set `Vartopia Partner Account` - if CRM Partner ID is asociated to a Channel Partner.
@@ -330,7 +330,7 @@ If a form isn't available to capture registration, follow these additional steps
 
 The UTM parameter URL plays a huge part on partner lead routing and reporting. We utilize `utm_partnerid` in the UTM parameter URL to capture the Account ID (18) of the Partner Account, which populates into the `CRM Partner ID`. This process is embedded as a hidden field in all our partner-related Marketo forms. Each page must have the `utm_partnerid` in the URL, otherwise we cannot pass to the partner.
 
-You can use the [UTM link builder](https://about.gitlab.com/handbook/marketing/utm-strategy/#utm-builder) to create your URLs.
+You can use the [UTM link builder](/handbook/marketing/utm-strategy/#utm-builder) to create your URLs.
 
 Note that, the `Account ID (18)` is case sensitive when populating `utm_partnerid` into the URL. This means it has to be an **exact match** when you input the ID in the URL, otherwise partners will not receive their leads.
 
@@ -358,7 +358,7 @@ Below are the glossary of fields used for Channel and Alliance partner campaigns
 | [Vartopia Partner Account](https://gitlab.my.salesforce.com/00N8X00000FnjVo?setupid=LeadFields) | X               |                 |             |             |                  |
 
 
-Go to the [Vartopia page](https://about.gitlab.com/handbook/marketing/marketing-operations/vartopia/) to review fields that are relevant to Vartopia.
+Go to the [Vartopia page](/handbook/marketing/marketing-operations/vartopia/) to review fields that are relevant to Vartopia.
 
 ### Alliance Record
 
@@ -380,7 +380,7 @@ The lookup field retrieves the name of the partner account associated with the `
 
 This field records the source type of the partner lead. The biggest driver for this field is to isolate the source type that applies to the recall process including `Owned Event` and `Trial - Enterprise`.
 
-The reason why [`Initial Source`](https://about.gitlab.com/handbook/marketing/marketing-operations/#initial-source) isn’t used for this use case is because the field value must equal to `Partner Qualified Lead` to be attributed to and sourced by Partner.
+The reason why [`Initial Source`](/handbook/marketing/marketing-operations/#initial-source) isn’t used for this use case is because the field value must equal to `Partner Qualified Lead` to be attributed to and sourced by Partner.
 
 ### Partner Consent
 

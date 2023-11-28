@@ -115,7 +115,7 @@ Feel free to complete the assigned training and consider it as taking an extra s
 
 *Is this an invasion of privacy?*
 
-- The phishing program is covered by the [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/).
+- The phishing program is covered by the [Employee Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/).
 
 *Will I be publicly shamed?*
 
@@ -224,6 +224,18 @@ What should you do if you receive a potential phishing email or text [\(smishing
 1. If the email is determined to be fake, follow the instructions for [phishing attacks]({{< ref "phishing#what-to-do-if-you-suspect-an-email-is-a-phishing-attack" >}}) below.
 1. If the text, including those received on apps like WhatsApp or Signal, is determined to be fake: block the number, notify [Security](/handbook/security/#-contacting-the-team), and delete the text.
   - If using iOS, [report the message as spam or junk](https://support.apple.com/guide/iphone/block-filter-and-report-messages-iph203ab0be4/ios)
+
+### Suspicious LinkedIn profiles
+
+Team members can [verify their employment at GitLab on LinkedIn](https://www.linkedin.com/help/linkedin/answer/a1423367).
+
+If a person on LinkedIn claims to work at GitLab:
+
+1. Look for a verification badge on their LinkedIn profile. It should read `GitLab: Verified using work email`.
+1. Look up their name on Workday, which is our Single Source of Truth for current team members. Note that alumni and those who have not yet joined GitLab will not appear in Workday.
+
+If you believe that the profile has inaccurate information, [report inaccurate information on another member's LinkedIn profile](https://www.linkedin.com/help/linkedin/answer/a1337291). If the user reaches out to you with a suspicious work-related message please
+[use the `/security` Slack command]({{< ref "engaging-security-on-call#engage-the-security-engineer-on-call" >}}).
 
 ### What to do if you suspect something else is suspicious
 

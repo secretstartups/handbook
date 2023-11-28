@@ -17,7 +17,7 @@ Vartopia is a partner lead sharing and deal registration system designed to maxi
 # Prospects Module
 
 ## Channel Partner Lead Flow Overview
-Channel Partners can work with the Channel Marketing team to create campaigns that will be shared to the Vartopia Prospects module. The [campaign types](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#types-of-partner-campaigns) include Partner sponsored, MDF funded, free trial and joint partner campaign. 
+Channel Partners can work with the Channel Marketing team to create campaigns that will be shared to the Vartopia Prospects module. The [campaign types](/handbook/marketing/channel-marketing/partner-campaigns/#types-of-partner-campaigns) include Partner sponsored, MDF funded, free trial and joint partner campaign. 
 
 The flow starts from Marketo > Salesforce > Traction > Vartopia.
 

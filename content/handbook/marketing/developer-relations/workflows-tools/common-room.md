@@ -11,12 +11,12 @@ title: "Common Room workflows"
 
 [Common Room](https://docs.commonroom.io/) is a community growth platform that helps manage, engage, and grow digital communities by integrating data across different platforms, identifying members, and reporting trends and sentiment. 
 
-The [Developer Relations](https://about.gitlab.com/handbook/marketing/developer-relations/) team uses Common Room to aggregate, review, and take action on insights from across our community platforms. It is also used to track trends and community sentiment. 
+The [Developer Relations](/handbook/marketing/developer-relations/) team uses Common Room to aggregate, review, and take action on insights from across our community platforms. It is also used to track trends and community sentiment. 
 
 ## Business Cases for Developer Relations
 
 ### Supporting GitLab Contributors and Super Users
-**DRI**: [Contributor Success team](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/)
+**DRI**: [Contributor Success team](/handbook/marketing/developer-relations/contributor-success/)
 
 **Description**:
 * Monitor [segments](https://docs.commonroom.io/using-common-room/segments-page) Heroes, Core Team, and MVPs. 
@@ -49,7 +49,7 @@ The [Developer Relations](https://about.gitlab.com/handbook/marketing/developer-
 * Prompt discussions or strategies around low activity or engagement.
 
 ### Identifying and Monitoring Keyword Trends for Thought Leadership
-**DRI**: [Developer Evangelism](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/) and [Technical Marketing](https://about.gitlab.com/handbook/marketing/developer-relations/technical-marketing/)
+**DRI**: [Developer Evangelism](/handbook/marketing/developer-relations/developer-evangelism/) and [Technical Marketing](/handbook/marketing/developer-relations/technical-marketing/)
 
 **Description**:
 * Track trending keywords and conversations via team alerts. 
@@ -67,7 +67,7 @@ The [Developer Relations](https://about.gitlab.com/handbook/marketing/developer-
 **DRI**: [Bryan Behrenshausen](https://gitlab.com/bbehr)
 
 **Description**: 
-* Monitor potential organizations for the [Open Source program](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/opensource-program/).
+* Monitor potential organizations for the [Open Source program](/handbook/marketing/developer-relations/community-programs/opensource-program/).
 * Review the activities, trending keywords, and sentiment of existing partners (via segment) to identify potential collaborations. 
 
 **KPI**:
@@ -81,7 +81,7 @@ The [Developer Relations](https://about.gitlab.com/handbook/marketing/developer-
 **DRI**: [Alex Karsten](https://gitlab.com/akarsten1)
 
 **Description**: 
-* Monitor potential organizations for the [Startups program](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/startups-program/).
+* Monitor potential organizations for the [Startups program](/handbook/marketing/developer-relations/community-programs/startups-program/).
 * Review the activities, trending keywords, and sentiment of existing partners in Community Programs to identify potential collaborations.
 
 **KPI**:

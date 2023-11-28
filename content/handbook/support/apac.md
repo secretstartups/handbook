@@ -278,7 +278,7 @@ coverage.
 
 ## Holiday Coverage Planning
 
-We are mindful of [holidays](/handbook/support/support-time-off.html#holiday-time-off-ticket-management) that impact large parts of the team. The following are official holidays for mostly APAC team members, which we plan coverage for outside of global practices:
+We are mindful of [holidays](/handbook/support/support-time-off#holiday-time-off-ticket-management) that impact large parts of the team. The following are official holidays for mostly APAC team members, which we plan coverage for outside of global practices:
 
 | **Holiday**                             | **Date**           | **Countries**              | **Notes**                                                                                                                                  |
 |-----------------------------------------|--------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -324,8 +324,7 @@ To refer to past planning issues, see issues linked to the [[APAC] Holiday Cover
           <li>Release Review Party</li>
           <li>APAC Office Hours</li>
           <li>Social Call</li>
-          <li>APAC Book Club - [Tribal Leadership](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4854) <br>weekly between 2023-02-16 to 2023-04-06</li>
-         </ul>
+        </ul>
       </td>
     </tr>
   </tbody>

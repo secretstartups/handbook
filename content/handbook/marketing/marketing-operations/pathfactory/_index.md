@@ -12,7 +12,7 @@ description: "PathFactory is an intelligent B2B content experience platform used
 
 ## What is PathFactory?
 
-PathFactory is an intelligent B2B content experience platform used to create personalized content journeys for your audience. The [global content](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/) team is primarily responsible for all the of the content within the PathFactory. Campaign managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels.
+PathFactory is an intelligent B2B content experience platform used to create personalized content journeys for your audience. The [global content](/handbook/marketing/brand-and-product-marketing/content/) team is primarily responsible for all the of the content within the PathFactory. Campaign managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels.
 
 ## What is PathFactory used for?
 
@@ -103,7 +103,7 @@ For more info on the capabilities of each role, [see the knowledge base article]
 
 ## Issue Templates
 
-**[Marketing Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/)**
+**[Marketing Operations](/handbook/marketing/marketing-operations/)**
 
 1. [PathFactory Author Onboarding](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_author_onboarding) 
 1. [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_request)
@@ -113,9 +113,9 @@ For more info on the capabilities of each role, [see the knowledge base article]
 1. [PathFactory Bulk Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_bulk_upload)
 1. [PathFactory Microsite Request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_microsite_request)
 
-**[Campaigns](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/)**
+**[Campaigns](/handbook/marketing/demand-generation/campaigns/)**
 
-1. [Pathfactory Upload Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) - per [rules of engagement](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#rules-of-engagement-by-team), the content owner is DRI on uploading their new content
+1. [Pathfactory Upload Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) - per [rules of engagement](/handbook/marketing/marketing-operations/pathfactory/#rules-of-engagement-by-team), the content owner is DRI on uploading their new content
    - *The upload issue may be created in the content owner's GitLab project; this issue template may be helpful in outlining the steps, campaigns team is not responsible for uploads.*
 1. [Pathfactory Bulk Upload Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload-bulk)
    - *This issue template should be used sparingly, as content should be added to Pathfactory by content owners ongoing as it becomes available. This is helpful for examples like a number of videos produced during a Commit event with many sessions.*
@@ -159,7 +159,7 @@ Periodically, significant changes are made or added to PathFactory and processes
 
 ## Content Library
 
-The [content library](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/content-library/) is where all content uploaded to PathFactory is added and tagged for use in content tracks and experiences. An asset must exist in the content library first before it can be utilized in a PathFactory experience.
+The [content library](/handbook/marketing/marketing-operations/pathfactory/content-library/) is where all content uploaded to PathFactory is added and tagged for use in content tracks and experiences. An asset must exist in the content library first before it can be utilized in a PathFactory experience.
 
 ## PathFactory Campaign Tools
 
@@ -175,13 +175,13 @@ There are multiple types of PathFactory experiences that you can create under `C
 
 ### Assets
 
-When adding assets to the [content library](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/content-library/), please ensure both the public and internal titles match the title of the asset. Do not add any extra prefixes to the asset title (ex: `[BLOG] - Title of blog`). Content types are already indicated by the content type field. Remove any extra SEO meta title information such as `|GitLab` that is appended to the title once PathFactory pulls in the information about the asset from the URL. Follow the [editorial team's guidelines](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/) for formatting and [case](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/#case) (sentence case).
+When adding assets to the [content library](/handbook/marketing/marketing-operations/pathfactory/content-library/), please ensure both the public and internal titles match the title of the asset. Do not add any extra prefixes to the asset title (ex: `[BLOG] - Title of blog`). Content types are already indicated by the content type field. Remove any extra SEO meta title information such as `|GitLab` that is appended to the title once PathFactory pulls in the information about the asset from the URL. Follow the [editorial team's guidelines](/handbook/marketing/brand-and-product-marketing/content/editorial-team/) for formatting and [case](/handbook/marketing/brand-and-product-marketing/content/editorial-team/#case) (sentence case).
 
 When adding localized content to Pathfactory, enter the localized title and description in the `Public Configuration` section. This is what external viewers of the content will see. Under `Internal Configuration`, enter the language with the English asset name (example: [Japanese] GitLab in Action Overview Demo). `Internal Configuration` is only viewable internally in Pathfactory.
 
 ### Tracks 
 
-When creating and editing content tracks, please use the following naming convention to let others know the status of your track. These track names are not shown to the visitor of the track. Name the track so that other `Author` roles understand the use of your track. Add start and end dates for your campaign if relevant so it can be archived/deleted at a later date. Add [persona](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/content-library/#personas) in the track title if the track is for a specific persona. [Add a GTM motion](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/content-library/#how-to-upload-content) to the title if the track assets are focused toward a specific GTM motion.
+When creating and editing content tracks, please use the following naming convention to let others know the status of your track. These track names are not shown to the visitor of the track. Name the track so that other `Author` roles understand the use of your track. Add start and end dates for your campaign if relevant so it can be archived/deleted at a later date. Add [persona](/handbook/marketing/marketing-operations/pathfactory/content-library/#personas) in the track title if the track is for a specific persona. [Add a GTM motion](/handbook/marketing/marketing-operations/pathfactory/content-library/#how-to-upload-content) to the title if the track assets are focused toward a specific GTM motion.
 
 1. `[WIP] - [Campaign Name]` - work in progress track; not live
 1. `[LIVE] - [Campaign Name]` - live track; traffic is flowing to track
@@ -202,7 +202,7 @@ Track labels are used to document the channels that a content track is distribut
 | internal use only | content track is distributed to GitLab team members only |
 | landing page | content track is sent to a visitor after filling out a form on a landing page |
 | organic social | content track is shared in an organic social media post |
-| outreach | content track is sent via [Outreach](https://about.gitlab.com/handbook/marketing/marketing-operations/outreach/) |
+| outreach | content track is sent via [Outreach](/handbook/marketing/marketing-operations/outreach/) |
 | paid search | content track is part of a paid search campaign |
 | paid social | content track is part of a paid social campaign |
 | SAE inbound | content track is enabled for PathFactory for Sales for SAEs to share inbound |
@@ -265,7 +265,7 @@ Before creating a new content track, decide what type of content track (target v
 
 #### Configure Content Track Settings
 
-1. **DO NOT SKIP THIS STEP!** Set the `custom URL slug` for the content track. [Follow the instructions](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/content-library/) for creating a custom URL slug for an asset.
+1. **DO NOT SKIP THIS STEP!** Set the `custom URL slug` for the content track. [Follow the instructions](/handbook/marketing/marketing-operations/pathfactory/content-library/) for creating a custom URL slug for an asset.
    - **Important:** All content tracks should be set up with custom URL slugs to prevent any future changes to the track from breaking the link and thus the user experience.
    - If you change the custom URL slug after a PathFactory link has been implemeneted, those links have to be updated wherever they were used (ads, emails, website, etc.).
 1. Ensure that the Search Engine Directive is set to `No Index, No Follow`.
@@ -322,7 +322,7 @@ Before creating a new content track, decide what type of content track (target v
 
 Form strategy is used on content tracks to collect data from unknown visitors. This is done by "gating" an asset within a track or by creating a track rule with an engagement threshold (example: spent at least 60 seconds in the track and viewed 2 assets). Not all content tracks will or should have form strategy turned on - it depends on the goal of your campaign. Form strategy should only be used when a track entry point is a direct link from a digital ad bypassing a webform or gated landing page. Please bypass from strategy entirely when linking to PathFactory from emails since we are sending to known users. In the event the recipients (known users) forwards the emails to unknown users, we chose to forgo capturing their information for better user experience.
 
-**Please Note:**  PathFactory activity is tied into the [MQL scoring model](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page.
+**Please Note:**  PathFactory activity is tied into the [MQL scoring model](/handbook/marketing/marketing-operations/marketo/#scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page.
 
 - [Form strategy best practices](https://nook.pathfactory.com/nook/s/article/form-strategy-best-practices)
 - [Form strategy FAQ](https://nook.pathfactory.com/nook/s/article/forms-strategy-faq)
@@ -358,7 +358,7 @@ Form strategy is used on content tracks to collect data from unknown visitors. T
 
 1. Click through the experience to ensure assets, CTAs, and forms load properly and that promoters are working as intended.
 1. Remove any extraneous `?` (there should only be one immediately after the end of the URL).
-1. Watch for extra `&` when [appending UTMs](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#utm-tracking). 
+1. Watch for extra `&` when [appending UTMs](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#utm-tracking). 
 1. Test and ensure the experience is working as intended.
 
 **When a track is LIVE (in use):**
@@ -381,12 +381,12 @@ Form strategy is used on content tracks to collect data from unknown visitors. T
 
 * [This GDoc](https://docs.google.com/spreadsheets/d/1MYGePezz7666yXJJNRkif0ekJwxnIoJMBgFPshOm1IY/edit#gid=1504719228) tracks progress toward all prescriptive buyer journeys being built out in Pathfactory, *including live links*.
 * These tracks live under [Target Tracks](https://gitlab.lookbookhq.com/authoring/content-library/target) > Demand Gen > `Segment Campaigns` (subject to change if the folders get massive - HB to update as needed)
-* These tracks align to the [Prescriptive Buyer Journeys ("PBJs")](https://about.gitlab.com/handbook/marketing/prescriptive-buyer-journeys/) which will be iterated on collaboratively across marketing
+* These tracks align to the [Prescriptive Buyer Journeys ("PBJs")](/handbook/marketing/prescriptive-buyer-journeys/) which will be iterated on collaboratively across marketing
 * The Campaigns Team will iterate and test out different styles, form strategy, end promoter settings, and . 
 * The [Example "PBJ" Track](https://gitlab.lookbookhq.com/authoring/content-library/target/57384) has the following elements and settings applied (for easy cloning) but only contains one asset when the future ones would have 3-4 assets:
    - *Reminder Campaigns Team: The example below is just a starting point. Experimentation and testing recommended!*
-   - Track settings: (FYI) set to default according to [these instructions](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#configure-content-track-settings)
-   - Track Settings: Custom URL Slug (REQUIRED): `[motion]-[stage]-[persona][#]` (i.e. `ci-awareness-prac1` or `vcc-`) - [see more](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#configure-content-track-settings)
+   - Track settings: (FYI) set to default according to [these instructions](/handbook/marketing/marketing-operations/pathfactory/#configure-content-track-settings)
+   - Track Settings: Custom URL Slug (REQUIRED): `[motion]-[stage]-[persona][#]` (i.e. `ci-awareness-prac1` or `vcc-`) - [see more](/handbook/marketing/marketing-operations/pathfactory/#configure-content-track-settings)
    - Flow: `ON` > `Start Free SaaS Trial`
    - End Promoter: `ON`
    - End Promoter Link: Set this to point to the next track in the prescriptive buyer journey. (i.e. if you're on `CI Awareness Practitioner 1`, set the end promoter to go to `CI Awareness Practitioner 2` to move them to the next stage and continue binging)
@@ -569,7 +569,7 @@ You are able to change the appearance of the following components of a content t
 
 The [Languages feature](https://nook.pathfactory.com/nook/s/article/getting-started-languages) gives you complete control over the text displayed to visitors on your promoters within content tracks and on website promoters. This feature also allows you to create language groups for languages other than English, and to customize the text that will be displayed for those languages.
 
-There is no native integration between [Smartling](https://about.gitlab.com/handbook/marketing/localization/smartling) and PathFactory. To create a new language configuration in PathFactory and submit the default English source text available in PathFactory's language configuration menu, you must create a CSV. You can only include/exclude columns for translation in CSV. [See the help center article](https://help.smartling.com/hc/en-us/articles/360008000593-CSV-Files) for more info on formatting CSV files to submit for translation.
+There is no native integration between [Smartling](/handbook/marketing/localization/smartling) and PathFactory. To create a new language configuration in PathFactory and submit the default English source text available in PathFactory's language configuration menu, you must create a CSV. You can only include/exclude columns for translation in CSV. [See the help center article](https://help.smartling.com/hc/en-us/articles/360008000593-CSV-Files) for more info on formatting CSV files to submit for translation.
 
 1. We currently have English, French, German, Korean, and Japanese configurations for `Languages`.
 1. [Languages PathFactory currently supports](https://nook.pathfactory.com/s/article/using-languages)
@@ -594,7 +594,7 @@ We currently use the `Visitor Session Webhook` to connect to Marketo. The `Visit
 
 ### PathFactory Scoring 
 
-PathFactory applies a score to a person based on how much time they spent viewing an asset by its content type. The PathFactory score is incorporated into the [Behavior score in Marketo](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#behavior-scoring).
+PathFactory applies a score to a person based on how much time they spent viewing an asset by its content type. The PathFactory score is incorporated into the [Behavior score in Marketo](/handbook/marketing/marketing-operations/marketo/#behavior-scoring).
 
 | Content Type | Content Engagement Score | Engagement Time Threshold (seconds) |
 | ------ | ------ | ------ |
@@ -626,7 +626,7 @@ There are 2 external forms in PathFactory with apply Bizible touchpoints using J
 1. `MOps: Form Submit-Bizible`: Applies a Bizible touchpoint upon form submit within a PathFactory track
 1. `MOps: Bizible-Met Threshold`: Applies a Bizible touchpoint when a visitor to a track has met the engagement threshold
 
-- [Bizible attribution with PathFactory](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#bizible-attribution-with-pathfactory)
+- [Bizible attribution with PathFactory](/handbook/marketing/marketing-operations/bizible/#bizible-attribution-with-pathfactory)
 
 ## Custom PathFactory Fields
 
@@ -658,7 +658,7 @@ There are custom PathFactory fields available in Salesforce and Marketo.
 
 ## PathFactory Analytics
 
-There are a variety of analytics and reports available in PathFactory that show the overall effectiveness of content. See more info [here](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/pathfactory-analytics).
+There are a variety of analytics and reports available in PathFactory that show the overall effectiveness of content. See more info [here](/handbook/marketing/marketing-operations/pathfactory/pathfactory-analytics).
 
 ## About iFrames
 
@@ -745,7 +745,7 @@ The PathFactory Google Chrome Extension will only de-anonymize users who view co
 
 <! --- ## Using Drift with PathFactory
 
-You can use Drift within your PathFactory tracks to incorporate a "white glove" experience on a high-value campaign. For available Drift playbooks, [see the Drift handbook page](https://about.gitlab.com/handbook/marketing/marketing-operations/drift/#playbooks).
+You can use Drift within your PathFactory tracks to incorporate a "white glove" experience on a high-value campaign. For available Drift playbooks, [see the Drift handbook page](/handbook/marketing/marketing-operations/drift/#playbooks).
 
 To set up Drift on your PathFactory track:
 

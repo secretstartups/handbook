@@ -117,7 +117,7 @@ Otherwise,
 1. Upload the videos to [GitLab Unfiltered](https://m.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz)
 1. Add the videos to the [UX Showcase playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz) and [UX Team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqkW0oPW3n0HqVgKcONVnO5)
 1. Set the visibility to Public
-    * NOTE: If the video content contains items that are un[SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) mark the video as Private.
+    * NOTE: If the video content contains items that are un[SAFE](/handbook/legal/safe-framework/) mark the video as Private.
 1. Share the YouTube links in `#ux` and `#product` Slack channels with a brief description of each presentation
     - Add the same update to the Engineering FYI document. The document is available in the description of our internal ["engineering-fyi" Slack channel](https://gitlab.slack.com/archives/CJWA4E9UG).
 
@@ -126,7 +126,7 @@ Otherwise,
 - If you cannot find the videos in your Zoom account, reach out to the calendar event owner, as it probably uploaded to their account.
 - In iMovie, you can upload a video straight to YouTube, as long as it's under 15 minutes long. But you still have to go to YouTube to select the playlist.
 - You can pick a better thumbnail and edit other settings after uploading by going to the [Uploads page](https://studio.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/videos/upload) and selecting your video
-- [More info about using YouTube](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/)
+- [More info about using YouTube](/handbook/marketing/marketing-operations/youtube/)
 
 ### Updating the schedule
 

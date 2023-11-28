@@ -68,7 +68,7 @@ To access additional Zoominfo on-demand training follow [this link](https://univ
 
 ### Do Not Call and Do Not Email Automation
 
-If the proper criteria is set, Zoominfo can cause a lead/contact in SFDC to be labeled as `Do not email` and `Do not call`. Read more about the rules on the [sales development handbook page](https://about.gitlab.com/handbook/marketing/sales-development/#do-not-call-and-do-not-email-automations).
+If the proper criteria is set, Zoominfo can cause a lead/contact in SFDC to be labeled as `Do not email` and `Do not call`. Read more about the rules on the [sales development handbook page](/handbook/marketing/sales-development/#do-not-call-and-do-not-email-automations).
 
 ### Zoominfo Licensing Policy and Procedures
 
@@ -120,7 +120,7 @@ Each user has 1,000 monthly credits to use for prospecting. A credit is consumed
 -   **Leads** - Max number of leads a user can export to SFDC is set at 1,000. This ensures that the user will not max out their monthly allotment in one export.
 -   **Bulk requests** If a bulk download is needed for a campaign, please open an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) for the marketing operations project. Admins have unlimited credits to be able to export bulk lists or a temporary lift can be made for individual users.
 -   **Reporting bad leads** - If a lead is found to be incorrect the user can submit a `Suggest Contact Update` and the research team will usually update it within 1-2 business days. When the lead is updated the user can manually append it or re-push the prospect into SFDC without expending a credit (for two months while it's "under management").
--   **API Credits**- Leads, Contacts & Accounts are being enriched [as detailed below](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/#sfdc-account-enrichment) and an API Credit is used everytime the webhook is called (1 per lead/contac/account), regardless of how many fields, on that particlar record, are updated.
+-   **API Credits**- Leads, Contacts & Accounts are being enriched [as detailed below](/handbook/marketing/marketing-operations/zoominfo/#sfdc-account-enrichment) and an API Credit is used everytime the webhook is called (1 per lead/contac/account), regardless of how many fields, on that particlar record, are updated.
 
 ### Field Mappings
 All current field mappings are documented [here](https://docs.google.com/spreadsheets/d/1lZ2BgNER_OYR5jjYDHreCMRbpODQbprUpGKVRD5TMnY/edit#gid=504148174). 

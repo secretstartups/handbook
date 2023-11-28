@@ -32,7 +32,7 @@ Solutions Architects are occasionally called on at a moments notice to give a de
 - The [production monitoring for GitLab.com](https://gitlab.com/gitlab-org/charts/gitlab/-/metrics?environment=190276) is useful for any discussion regarding custom and in-app monitoring
 - The [production Grafana instance](https://dashboards.gitlab.com/d/000000159/ci?refresh=5m&orgId=1) showing GitLab Runner details is a great way to represent the art of the possible as it relates to monitoring and dashboards
 - The GitLab [Direction](https://about.gitlab.com/direction/) page in the Handbook is often beneficial for future-looking product vision questions and discussions about upcoming features
-- Optional: [Integrations](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/integrations/) may be loaded and ready to discuss by leveraging the standard demo environments
+- Optional: [Integrations](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/integrations/) may be loaded and ready to discuss by leveraging the standard demo environments
 - Other Existing demo groups and projects are listed in the next section
 
 ## Repeatable process for maintenance of recording GitLab Flow-style demos

@@ -9,7 +9,7 @@ Welcome to the Marketing Finance Handbook!
 
 - [Financial Planning & Analysis (FP&A)]({{< ref "_index.md" >}})
 - [Accounting]({{< ref "../accounting" >}})
-- [Allocadia (Marketing Financial Planning tool)](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/)
+- [Allocadia (Marketing Financial Planning tool)](/handbook/marketing/strategy-performance/allocadia/)
 
 ## Allocadia Training Materials
 

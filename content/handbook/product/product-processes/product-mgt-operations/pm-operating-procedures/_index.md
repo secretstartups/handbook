@@ -37,7 +37,7 @@ The intent of this review and collaboration workflow is not to "block" but to he
 - **Who:** Product along with interested parties across departments. The meeting is open to all GitLab team members.
 - **When:** Every other Tuesday for 50 minutes. The start time alternates each week between <time datetime="15:00">3 pm UTC (10 am ET / 7 am PT)</time> and <time datetime="21:00">9 pm UTC (4 pm ET / 1 pm PT)</time> to accommodate timezones.
 - **Format:** The agenda is curated and moderated by Product Operations in partnership with the Chief Product Officer
-- **Recordings:** The meetings are set as Private Recordings and are saved to the [Product Team](https://www.youtube.com/playlist?list=PL05JrBw4t0Ko7HO427nXkoz9kovi_2dBi) playlist on YouTube Unfiltered. If you are unable to view a video, please ensure you are logged in as [GitLab Unfiltered](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).
+- **Recordings:** The meetings are set as Private Recordings and are saved to the [Product Team](https://www.youtube.com/playlist?list=PL05JrBw4t0Ko7HO427nXkoz9kovi_2dBi) playlist on YouTube Unfiltered. If you are unable to view a video, please ensure you are logged in as [GitLab Unfiltered](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).
 
 **Potential Topics:**
 
@@ -135,7 +135,7 @@ To request approval for an increase in the expected spend for a pre-existing ite
 
 ### Working with Content Marketing
 
-Content marketers and Product Managers can partner together when using a Blog to communicate product changes and engaging the market with thoughtful changes. See the [blog post handbook page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/content-marketing/#blog-post) for guidelines on when and how to start engaging Content Marketing for creating a blog post for a feature.
+Content marketers and Product Managers can partner together when using a Blog to communicate product changes and engaging the market with thoughtful changes. See the [blog post handbook page](/handbook/marketing/brand-and-product-marketing/content/content-marketing/#blog-post) for guidelines on when and how to start engaging Content Marketing for creating a blog post for a feature.
 
 ### Working with Product Marketing (PMM)
 

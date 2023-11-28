@@ -22,7 +22,7 @@ title: "Customer Advisory Boards"
 
 ***Please reach out to the Product CAB Manager (slack the cab-internal channel) before you nominate a customer for the Product CAB. Typically the customer profile is enterprise level with over 1200 licenses; however we review every nomination on its own merit***
 1. SAE's can nominate their customers for CAB membership via the customer contact view in SFDC (Nominate as a Reference tab).
-2. Process outlined [here](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#process-for-nominating-new-reference-customers)
+2. Process outlined [here](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#process-for-nominating-new-reference-customers)
 3. Complete the relevant fields, tick the CAB reference type and the details will be forwarded to the Customer Reference Team for review.
 4. We will revert to the nominator with regards to the membership.
 

@@ -75,7 +75,7 @@ graph BT;
 | More Users | [Stage Monthly Active Users](/handbook/product/performance-indicators/) | Product |
 | More Contributions | [Unique Wider Community Contributors per month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month) | Developer Relations and Engineering |
 | More Contributions | [MRARR](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#mrarr) | Developer Relations and Engineering |
-| More Contributions | [Wider community contributions per release](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release) | Developer Relations and Engineering |
+| More Contributions | [Wider community contributions per release](/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release) | Developer Relations and Engineering |
 | More Features | [Merge Requests per release per engineer in product development](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#average-mrs-development-engineers-month) | Engineering and Product Management |
 | More Revenue | [IACV](https://about.gitlab.com/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan | Sales and Marketing |
 
@@ -118,7 +118,7 @@ graph TB
 
 Legend with links to the relevant metrics:
 
-1. [Wider community contributions Turbo](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release)
+1. [Wider community contributions Turbo](/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release)
 1. [R&D Overall MR Rate](https://about.gitlab.com/handbook/engineering/performance-indicators/#rd-overall-mr-rate)
 1. [Stage maturity](https://about.gitlab.com/direction/maturity/) increase
 1. [MAU](/handbook/product/performance-indicators/) increase

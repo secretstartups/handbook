@@ -15,7 +15,7 @@ Buyer personas represent the people who serve as the main buyers in an organizat
 the champions within an enterprise that drive the buying conversation and
 coordinate various teams to make a purchase. We've updated our approach to include persona groups, in addition to specific roles or titles within a group, based on the Jobs To Be Done (JTBD) framework.
 
-![IT Orgchart](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/images/buyerpersonaorgchart-2022-09-29.png)
+![IT Orgchart](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/images/buyerpersonaorgchart-2022-09-29.png)
 
 1. [CIO](#tech-exec-tristan)
 2. [App Dev](#app-dev-avery)
@@ -35,7 +35,7 @@ a) if they are even someone who may have an interest in GitLab (don't waste time
 b) what questions to ask to learn more and qualify the lead,
 c) what value prop they'll want to hear that could get them to a demo, discussion, or POC.
 
-See the [Enterprise IT Roles page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enterprise-it-roles/) for more details about who we sell to and how to approach them.
+See the [Enterprise IT Roles page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enterprise-it-roles/) for more details about who we sell to and how to approach them.
 
 #### Writing for all personas
 
@@ -57,15 +57,15 @@ See the [Enterprise IT Roles page](https://about.gitlab.com/handbook/marketing/b
 
 #### Comparing the personas
 
-![Comparison motivations and challenges](https://about.gitlab.com/handbook/marketing/strategic-marketing/images/comparison-buyer-persona-motivations-challenges-v3.png)
+![Comparison motivations and challenges](/handbook/marketing/strategic-marketing/images/comparison-buyer-persona-motivations-challenges-v3.png)
 
-![Comparison how they gather tech info](https://about.gitlab.com/handbook/marketing/strategic-marketing/images/comparison-how-they-gather-tech-info.png)
+![Comparison how they gather tech info](/handbook/marketing/strategic-marketing/images/comparison-how-they-gather-tech-info.png)
 
 ---
 
 ### Tech Exec Tristan
 
-![techexectristan](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/images/techexectristan.png)
+![techexectristan](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/images/techexectristan.png)
 
 - **Job To Be Done:**  
    - Lead the technology vision, strategy, innovation, and execution for the organization
@@ -139,7 +139,7 @@ See the [Enterprise IT Roles page](https://about.gitlab.com/handbook/marketing/b
 
 ### App Dev Avery
 
-![appdevavery](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/images/appdevavery.png)
+![appdevavery](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/images/appdevavery.png)
 
 - **Job To Be Done:**  
    - Drive application and product development activities
@@ -213,7 +213,7 @@ See the [Enterprise IT Roles page](https://about.gitlab.com/handbook/marketing/b
 
 ### InfoSec Shiloh
 
-![infosecshiloh](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/images/infosecshiloh.png)
+![infosecshiloh](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/images/infosecshiloh.png)
 
 - **Job To Be Done:**  
    - Secure and protect the organization against cyber risks
@@ -286,7 +286,7 @@ See the [Enterprise IT Roles page](https://about.gitlab.com/handbook/marketing/b
 
 ### Platform Perry
 
-![platformperry](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/images/platformperry.png)
+![platformperry](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/images/platformperry.png)
 
 - **Job To Be Done:**  
    - Drive digital transformation, cloud migration / IT modernization, and DevSecOps transformation efforts
@@ -364,7 +364,7 @@ Engineers / C-Suite / Heads of Engineering & Data Science / DevOps Engineers / I
 
 ### Compliance Cooper
 
-![compliancecooper](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/images/compliancecooper.png)
+![compliancecooper](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/images/compliancecooper.png)
 
 - **Job To Be Done:**  
    - Maintain the company's legal and ethical integrity
@@ -427,7 +427,7 @@ Engineers / C-Suite / Heads of Engineering & Data Science / DevOps Engineers / I
 
 ### Release Rory
 
-![releaserory](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/images/releaserory.png)
+![releaserory](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/images/releaserory.png)
 
 - **Job To Be Done:**  
    - Ensure delivery milestones are met on time and with quality
@@ -491,7 +491,7 @@ Engineers / C-Suite / Heads of Engineering & Data Science / DevOps Engineers / I
 
 ### Program Management Payton
 
-![pmpayton](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/images/pmpayton.png)
+![pmpayton](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/images/pmpayton.png)
 
 - **Job To Be Done:**  
    - Plan, govern, and oversee the delivery of new capabilities
@@ -560,7 +560,7 @@ Engineers / C-Suite / Heads of Engineering & Data Science / DevOps Engineers / I
 
 ### Back Office Blake
 
-![backofficeblake](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/images/backofficeblake.png)
+![backofficeblake](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/images/backofficeblake.png)
 
 - **Job To Be Done:**  
    - Manage, coordinate, and facilitate operational, (and often cross-functional) non-development related business activities
