@@ -1,43 +1,8 @@
-{{ $sections := "" }}
-{{ $stages := "" }}
-{{ $categories := "" }}
-{{ $team_dict := dict  }}
-
-{{ with resources.GetRemote "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/data/sections.yml" }}
-  {{ with .Err}}
-    <h2>Unable to fetch stages Data</h2>
-  {{ else }}
-      {{ $sections = . | transform.Unmarshal }}
-  {{ end }}
-{{ end }}
-
-{{ with resources.GetRemote "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/data/stages.yml" }}
-  {{ with .Err}}
-    <h2>Unable to fetch stages Data</h2>
-  {{ else }}
-      {{ $stages = . | transform.Unmarshal }}
-  {{ end }}
-{{ end }}
-
-{{ with resources.GetRemote "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/data/categories.yml" }}
-  {{ with .Err}}
-    <h2>Unable to fetch stages Data</h2>
-  {{ else }}
-      {{ $categories = . | transform.Unmarshal }}
-  {{ end }}
-{{ end }}
-
-{{ with resources.GetRemote "https://about.gitlab.com/company/team/team.yml" (dict "mediaType" "application/yaml")}}
-  {{ with .Err}}
-    <h2>Unable to fetch Team Member Data File</h2>
-  {{ else }}
-      {{ $data := .Content | transform.Unmarshal }}
-      {{ $team := sort $data "name" }}
-      {{ range $team }}
-      {{ $team_dict = merge $team_dict (dict .name .gitlab) }}
-      {{ end }}
-  {{ end }}
-{{ end }}
+{{ $sections := partials.IncludeCached "data/sections" . }}
+{{ $categories := partials.IncludeCached "data/categories" . }}
+{{ $stages := partials.IncludeCached "data/stages" . }}
+{{ $features := partials.IncludeCached "data/features" . }}
+{{ $team_dict := partials.IncludeCached "data/team-by-name" . }}
 
 {{ range $section_key, $section_data := $sections }}
 {{ $section_name := $section_data.name }}
@@ -62,10 +27,10 @@
 {{ with $section_data.pm }}
 **Product:** {{ if reflect.IsSlice . }}
 {{ range . }}
-- [{{.}}](https://about.gitlab.com/company/team#{{ index $team_dict . }})
+{{ partial "member-by-name" . }}
 {{ end }}
 {{ else }}
-[{{.}}](https://about.gitlab.com/company/team#{{ index $team_dict . }})
+{{ partial "member-by-name" . }}
 {{end}}
 {{ end }}
 {{ with $section_data.development_team_tag }}
@@ -75,7 +40,7 @@
 **Development:**
 {{ if reflect.IsSlice . }}
 {{ range . }}
-- [{{.}}](https://about.gitlab.com/company/team#{{ index $team_dict . }})
+{{ partial "member-by-name" . }}
 {{ end }}
 {{ else }}
 {{.}}
@@ -84,7 +49,7 @@
 {{ with $section_data.pdm }}
 **Product Design:**
 {{range .}}
-- [{{.}}](https://about.gitlab.com/company/team#{{ index $team_dict . }})
+{{ partial "member-by-name" . }}
 {{ end }}
 {{ end }}
 {{ with $section_data.spd }}
@@ -94,10 +59,10 @@
 {{ if reflect.IsSlice . }}
 **UX Research:**
 {{ range . }}
-- [{{.}}](https://about.gitlab.com/company/team#{{ index $team_dict . }})
+{{ partial "member-by-name" . }}
 {{ end }}
 {{ else }}
-**UX Research:** [{{.}}](https://about.gitlab.com/company/team#{{ index $team_dict . }})
+**UX Research:** {{ partial "member-by-name" . }}
 {{end}}
 {{ end }}
 {{ with $section_data.focus }}
@@ -180,3 +145,17 @@ K = {{ $k }}
 {{ end }}
 {{ end }}
 {{ end }}
+<style>
+    img.avatar {
+    width: 30px;
+    height: 30px;
+    max-width: 30px;
+    max-height: 30px;
+    overflow: hidden;
+    margin-right: 10px;
+    border-radius: 50%;
+    border: 1px solid lightgray;
+    aspect-ratio: auto 90 / 90;
+    overflow-clip-margin: content-box;
+    }
+</style>
