@@ -39,7 +39,7 @@ As a Sales Development Representative (SDR) or Business Development Representati
 
 **AMER**
 * **SDR AMER (Manager - Allison Graban)** = [`#sdr_amer_inbound`](https://gitlab.slack.com/archives/C0322NFAY9W)
-* **BDR COMM AMER MM (Interim Manager - Brian Tabbert)** = [`#bdr_amer_mm`](https://app.slack.com/client/T02592416/C014PHFNE2U)
+* **BDR COMM AMER MM (Manager - Christie Park)** = [`#bdr_amer_mm`](https://app.slack.com/client/T02592416/C014PHFNE2U)
 * **BDR ENTG AMER CENT (Manager - Mauricio Nogales)** = [`#bdr_entg_amer_cent`](https://gitlab.slack.com/archives/CUFRP6U6Q)
 * **BDR ENTG AMER WEST & LATAM (Manager - Charlotte Platt)** = [`#bdr_entg_amer_west_latam`](https://gitlab.slack.com/archives/C01LK4EFDNW)
 * **BDR ENTG AMER EAST (Manager - Shamit Paul)** = [`#bdr_entg_amer_east`](https://gitlab.slack.com/archives/C01LK4EFDNW)
