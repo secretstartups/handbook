@@ -178,12 +178,11 @@ Employees of GitLab B.V. have further rights and responsibilities regarding sick
 - Team members must notify their manager of any sick leave needed.
 - Team members must then enter the sick time via Time Off by Deel as aligned above.
 - If the sick leave extends 8 days it should be reported to the Absence Management team via `leaves@gitlab.com` by the Manager and team member (if able).
-- If team members are reporting multiple instances of sick leave in a 28 day timeframe, please reach out to the Absence Management team and your People Business Partner to discuss.
+- If team members are reporting multiple instances of sick leave in a 28 day timeframe, please reach out to the Absence Management team.
 - Once the Absence Management team has been notified of the sick time they will inform HRSavvy.
 - HRSavvy will be registering the sick time in their HR portal from the first day of absence (retrospectively).
-- GitLab has engaged with an occupational health and safety centre, called [Zorg van de Zaak](https://www.zorgvandezaak.nl/), to assist employees of GitLab B.V. who may need support while being on long-term sick leave.
+- GitLab has engaged with an occupational health and safety centre, called Leuk Personeel, to assist employees of GitLab B.V. who may need support while being on long-term sick leave.
 - If the team members is on long-term sick leave (8 days of more), the Absence Management team will instruct HRSavvy to register the team member at the occupational health and safety service, depending on the situation and agreement with the team member.
-- Zorg van de Zaak's contact details can be found in the People Operations 1Password vault.
 
 #### Sick Time Procedures - France
 
