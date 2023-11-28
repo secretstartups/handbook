@@ -16,9 +16,7 @@
           <td>{{ $.Scratch.Get "display_name" }} : {{ .name }}</td>
           <td>{{- if reflect.IsSlice .support }}
                 {{- range .support}}
-                {{- $name := replaceRE `\s\(.*\)` "" . }}
-                {{- $region := findRE `\s\(.*\)` . }}
-                  <div class="mb-2">{{ partial "member-by-name" $name }} {{index $region 0}}</div>
+                  <div class="mb-2">{{ partial "member-by-name" . }}</div>
                 {{- end }}
               {{- else }}
                 {{ partial "member-by-name" .support }}
