@@ -103,7 +103,7 @@ each financial quarter.
    - the number for the Cliff of Definite Underperformance (CoDU) as observed for the 12 month period concluding prior to the listed quarter.
    - a link to the notification issue when the number was reviewed for that period.
 
-| **Quarter** | **CoDU Number** | **Notification Issue**  |
+| **Quarter** | **Cliff Number** | **Notification Issue**  |
 |------------| -------- |------|--------------------------|
 | FY24-Q4 (Current) | 8 | [STM#5672](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5672) |
 | FY24-Q3 | 7 | [STM#5494](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5494) |
