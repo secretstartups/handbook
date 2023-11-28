@@ -71,6 +71,7 @@ FP&A comprises five different sub-teams to support our FP&A goals:
 - Review product investments vs expected revenue generation
 - Set expected amount for annual compensation increases
 - Set targets for any contributors on a company based performance plan
+- Provide a budget envelope to each eGroup leader based on dollars that they can allocate into headcount and program spend
 - Generate the expense Plan based on a headcount list, TBH list, vendor level spend list
 - Headcount list communicated to talent acquisition, proposed vendor list communicated to procurement (future with Purchase Orders in place for existing vendors)
 - Generate and document key assumptions
@@ -301,7 +302,7 @@ Key accounts and expenses by division should be within +/- 2% versus Plan or rol
 
 #### Variance Meeting with EVPs
 
-Each finance business partner will run a meeting with their Finance leader and the EVP to review the past month. The information should be presented as timely as possible. Given the accounting close is 8 days, the team is asked to use pre-close numbers for the review to increase the speed of information. During the meeting, the Finance Business Partners will review GitLab results in addition to a detailed overview. Each division can expect to review the following during the monthly meetings:
+EVPs are held accountable to meet the budget in dollars that they are given. The budgets typically are broken into headcount and progaram spend. Each finance business partner will run a meeting with their Finance leader and the EVP to review the past month. The information should be presented as timely as possible. Given the accounting close is 8 days, the team is asked to use pre-close numbers for the review to increase the speed of information. During the meeting, the Finance Business Partners will review GitLab results in addition to a detailed overview. Each division can expect to review the following during the monthly meetings:
 
 - Company results
 - Spending OpEx vs Plan
@@ -311,7 +312,7 @@ Each finance business partner will run a meeting with their Finance leader and t
 - Detailed variance details that helps the EVP understand the financial picture of their expenses
 - Discuss upcoming changes to financial processes that EVPs need to be aware of
 - Discuss upcoming changes to help Finance Business Partner update the rolling forecast
-- Discuss any budget lines that underspent and if money can be reallocated before quarter-end
+- Discuss any budget lines that underspent and if money can be reallocated before quarter-end. Noting that converting program dollars to headcount is usually difficult as it impacts future periods.
 - At quarter end, review the upcoming  quarter vs Plan for the Division and for each department on the quarter
 
 Following the month-end close, the Finance Business Partners will create a variance deck and distribute department income statements to the related budget owners and the e-group members. Each department is then responsible for comparing these reports, which contain actual costs, to the budget. Departments, with guidance from the Finance Business Partners, should analyze their data and if necessary, discuss items of interest and take appropriate action. Any questions regarding the cost data should be discussed with the Finance Business Partner.
