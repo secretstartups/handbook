@@ -789,8 +789,8 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2022-06-27 | 2022-07-15 | [Tiffany Rea](https://gitlab.com/treagitlab) | SET - Verify::Pipeline Authoring | |
 | 2022-09-27 | 2022-09-30 | [Ellie Bertani](https://www.linkedin.com/in/ellie-bertani-1000/) | CEO, GitLab Foundation | |
 | 2022-10-27 | 2022-10-30 | [Ed Bao](https://gitlab.com/ebao2) | Assoc Sales Dev Operations Manager | |
+| 2022-11-07 | 2022-11-18 | [Jacki Bauer](https://gitlab.com/jackib) | Product Design Manager, UX |  |
+| 2022-11-14 | 2022-11-18 | [Adrienne Rimmer](https://gitlab.com/arimmer) | Manager, Executive Communications | |
 | 2022-12-05 | 2022-12-09 | [Kurt Dusek](https://gitlab.com/kdusek) | Alliances Solutions Architect | |
 | 2023-01-02 | 2023-01-06 | [Aaron Burgess](https://gitlab.com/GitlabAaron) | IBM Alliance Business Development Manager | |
 | 2023-01-16 | 2023-01-20 | [Stacy Cline](https://gitlab.com/slcline) | Sr Director, ESG | |
-| 2022-11-07 | 2022-11-18 | [Jacki Bauer](https://gitlab.com/jackib) | Product Design Manager, UX |  |
-| 2022-11-07 | 2022-11-18 | [Adrienne Rimmer](https://gitlab.com/arimmer) | Manager, Executive Communications | |
