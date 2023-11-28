@@ -200,6 +200,8 @@ The lead scoring model is a 100 point system in order to MQL. Positive and negat
 
 There is a flow that runs everynight to reset leads that have gone negative back to `0`. 
 
+The `Demographic`, `Behavior` and `Person` scores at the moment of MQL are recorded within Marketo via 3 separate fields, titled `X Score at MQL`.
+
 Some leads are exluded from scoring if they:
 * Have a `@gitlab.com` email address
 * Are a competitor
