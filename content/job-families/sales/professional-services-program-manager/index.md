@@ -95,7 +95,7 @@ The responsibilities, requirements, and additional sklls for Public Sector Profe
 
 - A Bachelor's degree in Business, Administration, or a related field
 - A minimum of three year's experience in a supervisory position (required)
-- DevOps industry-specific understanding of services and technology involved 
+- DevOps industry-specific understanding of services and technology involved
 - A minimum of five years of experience in the industry
 - A Project Management Professional (PMP) Certification (preferred)
 
