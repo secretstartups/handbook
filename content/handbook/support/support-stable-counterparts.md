@@ -159,8 +159,8 @@ Non-group specific counterparts typically also step in when the related group ha
 
 | Section          | Group          | Group Contact       | Support Counterpart | Frequency           |
 |:----------------:|:--------------:|:-------------------:|:-------------------:|:-------------------:|
-| UX               | Tech Writing   | Susan Tacker        | Mike Lockhart       | weekly team meeting |
-| Quality          | Reference Architecture | Grant Young | Simon Street        | TBD |
+| UX               | Tech Writing   | {{< member-by-name "Susan Tacker" >}} | {{< member-by-name "Mike Lockhart" >}}       | weekly team meeting |
+| Quality          | Reference Architecture | {{< member-by-name "Grant Young" >}} | {{< member-by-name "Simon Street" >}}        | TBD |
 
 ## Product counterparts
 
