@@ -34,6 +34,11 @@ The following people are permanent members of the SIRT
 |Bala Allam|[Security Engineer, SIRT]({{< ref "security-incident-response-team#security-incident-response-team-engineer-intermediate" >}})|
 |Leslie Anzures|[Security Engineer, SIRT]({{< ref "security-incident-response-team#security-incident-response-team-engineer-intermediate" >}})|
 |Ellis Coulson|[Security Engineer, SIRT]({{< ref "security-incident-response-team#security-incident-response-team-engineer-intermediate" >}})|
+|Jason Hawkins|[Senior Security Engineer, SIRT]({{< ref "security-incident-response-team#senior-security-incident-response-team-engineer" >}})|
+|Neil McDonald|[Senior Security Engineer, SIRT]({{< ref "security-incident-response-team#senior-security-incident-response-team-engineer" >}})|
+|Yunus Khan|[Senior Security Engineer, SIRT]({{< ref "security-incident-response-team#senior-security-incident-response-team-engineer" >}})|
+
+
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> Services We Provide:
 
