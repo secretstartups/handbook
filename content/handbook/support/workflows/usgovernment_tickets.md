@@ -135,5 +135,34 @@ The US Government shift engineers are a hybrid role between US Government suppor
 
 1. US Government Emergencies (while on-call)
 1. US Government High priority cases for 24x7 Eligible customers ([24x7 Entitled Customers view](https://gitlab-federal-support.zendesk.com/agent/filters/20166453511316))
-1. Global Support cases in Custom Personal view ([Create the view]())
+1. Global Support cases in Custom Personal view ([Create the view](#create-the-personal-view-in-global-support))
 1. US Government cases that are breached or soon to breach
+
+
+#### Create the personal view in Global Support
+
+The following will describe how to create the personal view to list cases in Global where US Gov shift engineers can contribute.
+
+1. Navigate to the [create new view](https://gitlab.zendesk.com/admin/workspaces/agent-workspace/views/new) section of Gitlab's Global Support Portal.
+1. Set the name to `US Government Shift View`
+1. Use the following conditions for **Tickets must meet all of these conditions to appear in the view**:
+    - `Status` - `Less than` - `Pending`
+    - `Tags` - `Contains at least one of the following` - `org_region_amer` `all_regions`
+    - `Ticket Stage` - `is` - `FRT`
+1. Use the following conditions for **Tickets can meet any of these conditions to appear in the view**
+    - `Form` - `is` - `Self-Managed`
+    - `Form` - `is` - `SaaS`
+    - `Form` - `is` - `SaaS Account`
+    - `Form` - `is` - `GitLab Dedicated`
+1. For **Formatting Options** please use the following columns:
+    - `ID`
+    - `SLA`
+    - `Subject`
+    - `Requester`
+    - `Assignee`
+    - `Organization`
+    - `Priority`
+    - `Request date`
+1. Group by: `Priority` - Descending
+1. Order by: `SLA` - Ascending
+
