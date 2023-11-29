@@ -180,21 +180,22 @@ Merge requests with
 need to be created, approved, and/or merged by each of the below:
 
 1. Chief Product Officer
-1. VP of Product
+1. PLT Leader relevant to the affected Section(s)
 1. The Director of Product relevant to the affected Section(s)
 1. The Director of Engineering relevant to the affected Section(s)
 1. Director of Product Design
 
-_**Note:** Chief Product Officer approval should be requested once all other approvals have been completed._
+_**Note:** Chief Product Officer approval should be requested once all other approvals have been completed. To request approval, post the MR link in the #chief-product-officer channel tagging both the Chief Product Offcer and cc'ing the EBA to the Chief Product Officer.
 
 The following people need to be on the merge request so they stay informed:
 
 1. Chief Technology Officer
-1. VP of Development
-1. Director of Quality Engineering
+1. Development Leader relevant to the affected Section(s)
+1. VP of Infrastructure & Quality Engineering
+1. VP of UX
+1. Director, Technical Writing
 1. Engineering Productivity (by @ mentioning `@gl-quality/eng-prod`)
 1. The Product Marketing Manager relevant to the stage group(s)
-1. Director, Technical Writing
 
 After approval and prior to merging, ping the Engineering Manager for Quality Engineering  in the MR, if there are changes that:
 
