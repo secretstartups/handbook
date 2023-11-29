@@ -19,6 +19,10 @@ Once/day we run a pipeline that syncs the the following fields for all team memb
 
 This means that if team members edit that field in the file, this will result in the sync overwriting when it runs again. The reason for this is that we consider Workday as the single source of truth for this data. Thus team members and managers will need to make adjustments in Workday first and this will be automatically propagated in the team page entry.
 
+### Diagram
+
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/236d061a-50b5-4917-a74d-29715ed035e1" id="ZwPRKLUTflmI"></iframe></div>
+
 ## Parental leave PTO to BambooHR
 
 We run a daily check to see if any new Parental leave PTO was requested for the day before on Time Off by Deel. If there are any PTO events created on that day, we will add 3 employment statuses to the team member's BambooHR profile:
