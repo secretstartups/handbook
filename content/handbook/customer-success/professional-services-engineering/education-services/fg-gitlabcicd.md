@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/education-services/fg-gitlabcicd.html
 title: "Facilitator Guide for Certified Trainers for the GitLab CI/CD course"
 description: "This Facilitator Guide is intended to walk you through all important links, preparation items, and after class items for our GitLab CI/CD course."
 ---

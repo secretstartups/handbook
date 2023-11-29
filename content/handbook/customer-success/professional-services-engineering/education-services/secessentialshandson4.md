@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/education-services/secessentialshandson4.html
 title: "GitLab Security Essentials<br/>Hands-On Guide: Lab 4"
 description: "This Hands-On Guide walks you through the lab exercises used in the GitLab Security Essentials course."
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/education-services/secessentialshandson5.html
 title: "GitLab Security Essentials - Hands-On Guide: Lab 5"
 description: "This hands-on guide walks you through the lab exercises used in the GitLab Security Essentials course."
 ---
@@ -66,15 +65,15 @@ Fuzz testing is the only type of GitLab scanning that requires you to write code
     ```python
    from codeundertest import is_third_byte_zero  # import function to be tested
    from pythonfuzz.main import PythonFuzz        # import fuzz test infrastructure
-   
+
    # The fuzz engine calls a function called `fuzz` in the fuzz target and
    # passes it random bytes, so we need to define a function with that name,
    # and that function must accept 1 parameter.
-   
+
    @PythonFuzz                           # Python decorator required by fuzz test infrastructure
    def fuzz(random_bytes):               # Accept random data...
        is_third_byte_zero(random_bytes)  # ...and pass it on to the code-under-test.
-   
+
    if __name__ == '__main__':            # required by fuzz test infrastructure
        fuzz()
     ```
@@ -107,7 +106,7 @@ Fuzz testing is the only type of GitLab scanning that requires you to write code
        script:
            # Install the fuzz engine from a GitLab-hosted PyPi repo.
            - pip install --extra-index-url https://gitlab.com/api/v4/projects/19904939/packages/pypi/simple pythonfuzz==1.0.8
-   
+
            # Run a language-agnostic binary, specifying the type of fuzz engine,
            # the root of the project, and the fuzz target.
            - ./gitlab-cov-fuzz run --engine pythonfuzz --project-path ./ -- FuzzTarget.py

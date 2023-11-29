@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/education-services/fg-gitlabwithgitbasics.html
 title: Facilitator Guide for GitLab with Git Basics
 description: >-
   This Facilitator Guide is intended to walk you through all important links,

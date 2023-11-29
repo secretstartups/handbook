@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/workflows/artifacts/arch-diagram.html
 title: Architecture Diagrams
 category: Artifacts
 ---

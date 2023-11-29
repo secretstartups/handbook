@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/marketing/developer-relations/contributor-success/community-pairing-sessions.html
 title: Community pairing sessions
 description: Informations and guidelines about community pairing sessions
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/business-technology/data-team/data-catalog/xmau-analysis/estimation-xmau-algorithm.html
 title: "Self-Managed Metric Estimation Algorithm"
 ---
 

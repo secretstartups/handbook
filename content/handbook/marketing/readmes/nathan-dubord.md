@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/marketing/readmes/nathan-dubord.html
 title: "Nathan Dubord's README"
 description: "Learn more about working with Nathan Dubord"
 ---

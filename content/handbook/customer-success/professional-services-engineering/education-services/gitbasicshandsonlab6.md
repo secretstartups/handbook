@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/education-services/gitbasicshandsonlab6.html
 title: "GitLab with Git Basics Hands-On Guide: Lab 6"
 description: "This Hands-On Guide walks you through the lab exercises used in the GitLab with Git Basics course."
 ---

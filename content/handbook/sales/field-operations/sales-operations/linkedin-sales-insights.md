@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/sales/field-operations/sales-operations/linkedin-sales-insights.html
 title: "LinkedIn Sales Insights"
 description: "LinkedIn Sales Insights provides access to LinkedIn data and insights at scale, giving sales operations the clarity they need to do smarter sales planning."
 ---

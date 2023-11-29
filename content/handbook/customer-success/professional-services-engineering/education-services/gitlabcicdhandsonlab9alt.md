@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab9alt.html
 title: "GitLab CI/CD Hands-On Guide: Lab 9 (alternative)"
 description: "This Hands-On Guide walks you through the lab exercises in the GitLab CI/CD course."
 ---
@@ -52,7 +51,7 @@ The training environment disables code quality scanning by default. This section
     ```yml
     stages:
       - test
-    
+
     test-job:
       stage: test
       script:
@@ -60,7 +59,7 @@ The training environment disables code quality scanning by default. This section
 
     include:
       - template: Code-Quality.gitlab-ci.yml
-   
+
     # TODO: should we refactor this file?
     ```
 

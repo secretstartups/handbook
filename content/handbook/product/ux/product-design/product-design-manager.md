@@ -1,5 +1,4 @@
 ---
-aliases:  /handbook/content/handbook/product/ux/product-design/product-design-manager.html
 title: "Product Design Manager Workflows"
 description: "We support the business of GitLab by becoming experts in our stage group, educating ourselves about the entire product, and staying engaged with user and business goals. This page contains workflows specifix to Product Design Managers"
 ---

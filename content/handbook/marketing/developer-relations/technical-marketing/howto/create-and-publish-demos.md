@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/marketing/developer-relations/technical-marketing/howto/create-and-publish-demos.html
 title: "Creating and Publishing Technical Marketing Demo Videos"
 ---
 

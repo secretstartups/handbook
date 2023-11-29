@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/education-services/gitlab-education-services-support.html
 title: "GitLab Education Services Support Handbook"
 description: "This handbook will detail how to handle support inquiries for the Education Services team and the applicable systems that are used."
 ---

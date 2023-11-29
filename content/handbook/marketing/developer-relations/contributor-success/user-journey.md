@@ -1,19 +1,7 @@
 ---
-aliases: /handbook/marketing/developer-relations/contributor-success/user-journey.html
 title: "Contributor Success Team - Code Contributor User Journey"
 description: "Code Contributor User Journey"
 ---
-
-
-
-
-
-
-
-
-
-
-- - -
 
 ## Journey Map
 

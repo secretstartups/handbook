@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/marketing/readmes/dave-steer.html
 title: "Dave Steer README (VP Product Marketing)"
 description: "Learn more about working with Dave Steer"
 ---

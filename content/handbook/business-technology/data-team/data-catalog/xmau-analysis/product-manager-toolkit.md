@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/business-technology/data-team/data-catalog/xmau-analysis/product-manager-toolkit.html
 title: Product Manager Toolkit
 ---
 

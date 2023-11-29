@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/marketing/developer-relations/technical-marketingevent-booth-questions.html
 title: "Guide to Working the Booth at Events"
 ---
 

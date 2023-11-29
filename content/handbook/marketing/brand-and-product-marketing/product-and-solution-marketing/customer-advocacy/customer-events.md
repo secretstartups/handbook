@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/customer-events.html
 title: "Customer Events"
 ---
 
