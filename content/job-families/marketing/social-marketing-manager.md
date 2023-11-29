@@ -1,5 +1,5 @@
 ---
-title: "Social Marketing Manager"
+title: "Social Media Manager"
 description: "Requirements for Social Media roles at GitLab"
 twitter_image: ""
 twitter_image_alt: ""
@@ -7,23 +7,23 @@ twitter_site: "gitlab"
 twitter_creator: "gitlab"
 ---
 
-## Social Marketing Jobs at GitLab
+## Social Media Jobs at GitLab
 
 Social Media requires a balance of work behind each of the two words that make up the practice. *Social*, by building trust with our audiences and connecting as personally as appropriate, and *Media*, by scaling our storytelling efforts to brand-level corporate marketing initiatives.
 
 #### The "Social" in Social Media
 
-The world's best brands feel more like a trusted source of information to their audience than a company. They could even develop friendly relationships with their followers. This is because the world's best brands understand people and weave that understanding into everything they do. Social Marketing at GitLab is a key part of building GitLab's brand into one that is loved by its audience of developers, remote work pros, and IT folks up and down the ladder.
+The world's best brands feel more like a trusted source of information to their audience than a company. They could even develop friendly relationships with their followers. This is because the world's best brands understand people and weave that understanding into everything they do. Social Media at GitLab is a key part of building GitLab's brand into one that is loved by its audience of developers, remote work pros, and IT folks up and down the ladder.
 
-Social Marketing at GitLab focuses on understanding people who make up the GitLab community, creating and sharing content over social channels that they'll find valuable, and educating team members in marketing and beyond on social media best practices for brands, personalities, and how we measure success.
+Social Media at GitLab focuses on understanding people who make up the GitLab community, creating and sharing content over social channels that they'll find valuable, and educating team members in marketing and beyond on social media best practices for brands, personalities, and how we measure success.
 
 #### The "Media" in Social Media
 
-The world's most renowned brands are perceived to be larger than life. As GitLab scales to new heights, the Social Marketing team prioritizes opportunities for brand-level storytelling initiatives. By sharing our company values, perspectives on remote work, or leaning into our product's features, we'll help users understand how they feel about GitLab overall.
+The world's most renowned brands are perceived to be larger than life. As GitLab scales to new heights, the Social Media team prioritizes opportunities for brand-level storytelling initiatives. By sharing our company values, perspectives on remote work, or leaning into our product's features, we'll help users understand how they feel about GitLab overall.
 
 ### You must share our [values](/handbook/values/) and work under those values
 
-*A sample of how GitLab's core values show up in Social Marketing:*
+*A sample of how GitLab's core values show up in Social Media:*
 
 ##### 🤝 Collaboration
 
@@ -43,7 +43,7 @@ Be comfortable or willing to get comfortable with communication with team member
 
 ##### 👣 Iteration
 
-Don't wait to contribute. Just make a change today. Make progress for our work in minimum viable changes consistently. Remember that all of our work is in draft. We don't do big reveals at GitLab, so be ready to share your rough drafts with everyone throughout the process (This is scary for social marketers, but our team is prepared to help you grow into this practice.)
+Don't wait to contribute. Just make a change today. Make progress for our work in minimum viable changes consistently. Remember that all of our work is in draft. We don't do big reveals at GitLab, so be ready to share your rough drafts with everyone throughout the process (This is scary for social media managers, but our team is prepared to help you grow into this practice.)
 
 ##### 👁️ Transparency
 
@@ -93,8 +93,8 @@ The Senior Social Media Manager is a [grade 7](/handbook/total-rewards/compensat
 - General management of the social calendar and crafting social campaigns that will help engage, educate, entertain, inspire, and increase our followers
 - Contribute your perspective on what to publish, when, and where in support of campaigns
 - Contribute to reporting on OKRs and other metrics
-- Independently develop and execute social marketing campaigns
-- Articulate and document social marketing strategy and process in the GitLab handbook
+- Independently develop and execute social media campaigns
+- Articulate and document social media strategy and process in the GitLab handbook
 - Staying up-to-date and educating others on current technologies and trends in social media
 - Work with an in-house creative team to create engaging assets, sometimes designing quick needs yourself
 - Provide insight into navigating communications risks and crises, sometimes executing on this alone
@@ -116,13 +116,13 @@ The Senior Social Media Manager is a [grade 7](/handbook/total-rewards/compensat
 
 Market Justification
 
-- The Staff Social Media Manager role will provide a high level of expertise in solving complex problems with a strong understanding of integrated marketing campaigns, audience, and paid & organic social marketing strategy.
-- Additionally, this role will be key in bridging existing gaps between organic social marketing efforts and more enterprise integrated digital marketing initiatives, helping to shape GitLab’s new digital marketing experience.
+- The Staff Social Media Manager role will provide a high level of expertise in solving complex problems with a strong understanding of integrated marketing campaigns, audience, and paid & organic social media strategy.
+- Additionally, this role will be key in bridging existing gaps between organic social media efforts and more enterprise integrated digital marketing initiatives, helping to shape GitLab’s new digital marketing experience.
 - Within public enterprise B2B technology organizations, approximately 1-3 team members exist in similar or the same role(s), particularly as a cross-section between social and digital marketing.
 
 This Staff Social Media Manager role bridges the gap between two functional areas, social media, and digital marketing. The “Manager” designation indicates this role's ability to influence decisions across teams for a candidate who can drive innovation and experimentation beyond social media and their title in a specific department and is considered a problem solver.
 
-Staff Social Media Managers on the Social Marketing team are prolific and creative social media strategists with experience in digital marketing and customer journey marketing. They define GitLab’s social media marketing strategy and create full-funnel campaign strategies that intersect areas of paid media, content, and sales. They own the delivery and results of associated Social Marketing deliverables and OKRs and the social media customer journey. They are focused on improving campaign results, productivity, operational efficiency, brand reputation and influencing customer decision making. They collaborate across digital marketing, sales, and content marketing, bridging more traditional organic social marketing efforts with integrated campaigns and digital marketing.
+Staff Social Media Managers on the Social Media team are prolific and creative social media strategists with experience in digital marketing and customer journey marketing. They define GitLab’s social media marketing strategy and create full-funnel campaign strategies that intersect areas of paid media, content, and sales. They own the delivery and results of associated Social Media deliverables and OKRs and the social media customer journey. They are focused on improving campaign results, productivity, operational efficiency, brand reputation and influencing customer decision making. They collaborate across digital marketing, sales, and content marketing, bridging more traditional organic social media efforts with integrated campaigns and digital marketing.
 
 #### Job Grade
 
@@ -206,7 +206,7 @@ The Manager, Social Media is a [grade 8](/handbook/total-rewards/compensation/co
 
 Adding "Manager," to the front of the job title indicates that this role is a practice and people manager.
 
-Senior Managers in the Social Marketing team take their role as a people manager and social media expert to the next level. They lead with data and influence. Senior Managers need to balance the "social" and the "media" of social media. They don't just define GitLab’s social media strategy, Senior Managers bring their personal philosophies and practices to teach everyone else on the team.
+Senior Managers in the Social Media team take their role as a people manager and social media expert to the next level. They lead with data and influence. Senior Managers need to balance the "social" and the "media" of social media. They don't just define GitLab’s social media strategy, Senior Managers bring their personal philosophies and practices to teach everyone else on the team.
 
 #### Job Grade
 
