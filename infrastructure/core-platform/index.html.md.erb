@@ -19,6 +19,7 @@ Offer enterprise-grade operational experience of GitLab products from streamline
 Core Platform focuses on improving our capabilities and metrics in the following areas:
 
  * [Database](/handbook/engineering/infrastructure/core-platform/data_stores/database/)
+ * [Database Reliability](/handbook/engineering/infrastructure/core-platform/data_stores/database-reliability/)
  * [Distribution:Build](/handbook/engineering/infrastructure/core-platform/systems/distribution/#distribution-build)
  * [Distribution:Deploy](/handbook/engineering/infrastructure/core-platform/systems/distribution/#distribution-deploy)
  * [Geo](/handbook/engineering/infrastructure/core-platform/systems/geo/)
@@ -30,6 +31,7 @@ Core Platform focuses on improving our capabilities and metrics in the following
 <%
   departments = [
     { name: 'Database', manager: 'alexives' },
+    { name: 'Database Reliability', manager: 'rmar1' },
     { name: 'Distribution:Build', manager: 'david-mountney', regexp: /Build/  },
     { name: 'Distribution:Deploy', manager: 'plu8', regexp: /Deploy/ },
     { name: 'Geo', manager: 'juan-silva' },
@@ -37,7 +39,6 @@ Core Platform focuses on improving our capabilities and metrics in the following
     { name: 'Global Search', manager: 'cliu', regexp: /Global Search/ },
     { name: 'Cloud Connector', manager: 'pjphillips', regexp: /Cloud Connector/ },
     { name: 'Tenant Scale', manager: 'arturo-herrero' },
-
  ]
  department_regexp = /(#{Regexp.union(departments.map{ |d| d[:name] })})/
 %>
@@ -50,28 +51,6 @@ The following people are permanent members of teams that belong to the Core Plat
 ### <%= dep[:name] %>
   <%= direct_team(manager_slug: dep[:manager], role_regexp: dep[:regexp]) %>
 <% end %>
-
-## Business Continuity - Coverage and Escalation
-
-The following table shows who will provide cover if one or more of the Core Platform Engineering management team are unable to work for any reason.
-
-| Team Member     | Issues/MRs Backup        | People Management Backup    | Escalation    |
-| -----           | -----                    | -----                       | -----         |
-| Chun Du         | Mek Stittri    | Mek Stittri       | Jörg Heilig   |
-| Nick Nguyen     | Dylan Griffith           | Changzheng Liu, Alex Ives   | Chun Du       |
-| Changzheng Liu  | Dmitry Gruzd             | Nick Nguyen                 | Chun Du       |
-| Paul Phillips   | Matthias Käppler         | Nick Nguyen                 | Chun Du       |
-| Alex Ives       | Andreas Brandl           | Nick Nguyen                 | Chun Du       |
-| DJ Mountney     | Jason Plum               | Chun Du                     | Chun Du       |
-| Andras Horvath  | Patrick Steinhardt       | Chun Du                     | Chun Du       |
-| Arturo Herrero  | Thong Kuah               | Nick Nguyen                 | Chun Du       |
-
-If an Engineer is unavailable the person providing `Issues/MRs` coverage will reassign open issues and merge requests to another engineer, preferably in the same [group](#all-team-members).
-
-Some people management functions may require escalation or delegation, such as [Workday](/handbook/people-group/workday/workday-guide/) and [Navan Expense](/handbook/business-technology/enterprise-applications/guides/navan-expense-guide/).
-
-This can be used as the basis for a BCP [Communication Plan and Role Assignments](/handbook/business-technology/gitlab-business-continuity-plan/#communication-plan-and-role-assignments),
-as well as a general guide to Core Platform Engineering continuity in the event of one or more team members being unavailable for any reason.
 
 ## Stable Counterparts
 
