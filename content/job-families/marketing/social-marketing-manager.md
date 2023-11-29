@@ -67,6 +67,7 @@ The Social Media Manager is a [grade 6](/handbook/total-rewards/compensation/com
 - Support creative community activations.
 
 #### Requirements
+
 - Minimum of 3 years of social media experience, preferably at a high-growth enterprise software company or agency.
 - Ability to coordinate with multiple stakeholders, perform in a fast-moving environment, and work on multiple projects simultaneously.
 - Experience with UTM tracking URLs, social media management tools like Sprout Social, and employee social advocacy tools.
@@ -99,6 +100,7 @@ The Senior Social Media Manager is a [grade 7](/handbook/total-rewards/compensat
 - Provide insight into navigating communications risks and crises, sometimes executing on this alone
 
 #### Requirements
+
 - At least 3-5 years of experience in a social media role at a high-growth enterprise software company or agency
 - Proven experience managing B2B social media channels
 - In-depth industry and technical community knowledge
@@ -114,17 +116,17 @@ The Senior Social Media Manager is a [grade 7](/handbook/total-rewards/compensat
 
 Market Justification
 
-- The Staff Social Marketing Manager role will provide a high level of expertise in solving complex problems with a strong understanding of integrated marketing campaigns, audience, and paid & organic social marketing strategy.
+- The Staff Social Media Manager role will provide a high level of expertise in solving complex problems with a strong understanding of integrated marketing campaigns, audience, and paid & organic social marketing strategy.
 - Additionally, this role will be key in bridging existing gaps between organic social marketing efforts and more enterprise integrated digital marketing initiatives, helping to shape GitLab’s new digital marketing experience.
 - Within public enterprise B2B technology organizations, approximately 1-3 team members exist in similar or the same role(s), particularly as a cross-section between social and digital marketing.
 
-This staff social media marketing manager role bridges the gap between two functional areas, social media, and digital marketing. The “Manager” designation indicates this role's ability to influence decisions across teams for a candidate who can drive innovation and experimentation beyond social media and their title in a specific department and is considered a problem solver.
+This Staff Social Media Manager role bridges the gap between two functional areas, social media, and digital marketing. The “Manager” designation indicates this role's ability to influence decisions across teams for a candidate who can drive innovation and experimentation beyond social media and their title in a specific department and is considered a problem solver.
 
-Staff Social Marketing Managers on the Social Marketing team are prolific and creative social media strategists with experience in digital marketing and customer journey marketing. They define GitLab’s social media marketing strategy and create full-funnel campaign strategies that intersect areas of paid media, content, and sales. They own the delivery and results of associated Social Marketing deliverables and OKRs and the social media customer journey. They are focused on improving campaign results, productivity, operational efficiency, brand reputation and influencing customer decision making. They collaborate across digital marketing, sales, and content marketing, bridging more traditional organic social marketing efforts with integrated campaigns and digital marketing.
+Staff Social Media Managers on the Social Marketing team are prolific and creative social media strategists with experience in digital marketing and customer journey marketing. They define GitLab’s social media marketing strategy and create full-funnel campaign strategies that intersect areas of paid media, content, and sales. They own the delivery and results of associated Social Marketing deliverables and OKRs and the social media customer journey. They are focused on improving campaign results, productivity, operational efficiency, brand reputation and influencing customer decision making. They collaborate across digital marketing, sales, and content marketing, bridging more traditional organic social marketing efforts with integrated campaigns and digital marketing.
 
 #### Job Grade
 
-The Staff Social Social Marketing is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) individual contributor role.
+The Staff Social Media Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) individual contributor role.
 
 #### Responsibilities
 
@@ -139,6 +141,7 @@ The Staff Social Social Marketing is a [grade 8](/handbook/total-rewards/compens
 - Manages daily/weekly/monthly, and quarterly reporting
 
 #### Requirements
+
 - At least 5-8 years of experience in a social media role at a high-growth enterprise software company or agency.
 - Attention to detail
 - Experience running social listening, executive visibility, and influencer engagement programs
@@ -146,7 +149,12 @@ The Staff Social Social Marketing is a [grade 8](/handbook/total-rewards/compens
 
 ### Principal Social Media Manager
 
+#### Job Grade
+
+The Principal Social Media Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) individual contributor role.
+
 #### Responsibilities
+
 - Lead campaigns, positioning, and messaging as the expert on the GitLab brand
 - Integrate GitLab’s brand voice and GitLab’s values into our social media strategy and content
 - Ability to act discreetly with non-public information
@@ -155,6 +163,7 @@ The Staff Social Social Marketing is a [grade 8](/handbook/total-rewards/compens
 - Supports social programs beyond channels, including team member engagement, executive visibility, and reputation management
 
 #### Requirements
+
 - 10 years of social media experience in a high-growth enterprise software company or agency.
 - Experience with crisis communications
 - Strong sense of and experience with high-level concept development, strategy, research, and problem-solving
@@ -214,6 +223,7 @@ The Senior Manager, Social Media is a [grade 9](/handbook/total-rewards/compensa
 - Supports social programs beyond channels, including team member engagement, executive visibility, and reputation management
 
 #### Requirements
+
 - 10 years of social media and at least five years of people management in a high-growth enterprise software company or agency.
 - Strong sense of and experience with high-level concept development, strategy, research, and problem-solving
 - Exceptional communication skills and ability to develop, pitch, execute, and report on creative ideas, strategies, and campaigns
@@ -234,6 +244,7 @@ The Director, Global Social Media is a [grade 10](/handbook/total-rewards/compen
 - Mentor team, ensure local direction is in alignment with and furthers top-line brand objectives
 
 #### Requirements
+
 - 12-15 years of social media and people management in a high-growth enterprise software company or agency.
 - Direct experience rolling out social programs globally and establishing new channels in key markets outside of the United States
 - Experience in crisis management and public companies
