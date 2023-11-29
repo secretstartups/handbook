@@ -330,7 +330,7 @@ Identified deficiencies are reported to the Business Owner via a [Risk Acceptanc
 1. **Acknowledgement** of the [Accept the Risk](/handbook/security/security-assurance/security-risk/storm-program/#accept-the-risk) section of the StORM handbook page and their understanding of its contents.
 1. **Justification** for moving forward with the vendor in light of the identified deficiencies.
 1. **Approval** of the risk. Note that this may require multiple levels of approval based on the level of risk identified. See below.
-1. **Annual Recertification** In the event that the risk is unremediated, annual recertification is required.
+1. **Annual Recertification** In the event that the risk is unremediated, annual recertification is required. This will include a new assessment of the vendor or system along with associated approvals.
 
 Deficiencies require different stakeholder input based on the level of risk associated with the deficiency. Note that additional levels of approval may be required at the discretion of the Security team. For example, if a "Moderate Risk" system has financial reporting implications, eGroup approval may be required.
 
