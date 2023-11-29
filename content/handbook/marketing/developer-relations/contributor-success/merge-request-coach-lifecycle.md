@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/marketing/developer-relations/contributor-success/merge-request-coach-lifecycle.html
 title: "Merge Request Coach Lifecycle"
 ---
 

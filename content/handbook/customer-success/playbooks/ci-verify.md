@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/playbooks/ci-verify.html
 title: "Continuous Integration (CI) / Verify Workshop"
 ---
 

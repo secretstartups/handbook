@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/content/handbook/product/ux/performance-indicators/system-usability-scale/sus-outreach.html
 title: "System Usability Scale responder outreach"
 description: "The System Usability Scale (SUS) is a performance indicator we use to measure the long term usability of our product. This page outlines the process for reaching out to survey respondents who have opted-in to having a follow-up discussion with our UX team."
 ---

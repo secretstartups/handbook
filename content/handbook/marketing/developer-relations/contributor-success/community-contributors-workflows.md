@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html
 title: "Workflows for working with community contributions"
 description: All processes that Contributor Success work with
 ---

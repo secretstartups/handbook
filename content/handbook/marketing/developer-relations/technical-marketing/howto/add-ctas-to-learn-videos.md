@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/marketing/developer-relations/technical-marketing/howto/add-ctas-to-learn-videos.html
 title: "Adding CTAs to Learn@GitLab YouTube Videos"
 ---
 

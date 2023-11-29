@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/education-services/partner-gitlab-basics-fg.html
 title: "Partner Facilitator Guide for GitLab with Git Basics"
 description: "This Facilitator Guide is intended to walk you through all important links, preparation items, and after class items for our GitLab with Git Basics course."
 ---

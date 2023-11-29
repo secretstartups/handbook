@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/marketing/developer-relations/technical-marketing/assets2stakeholders.html
 title: "Technical Marketing Asset to Stakeholder Matrix"
 description: "This page contains a matrix of which assets might be usefull for which stakeholders."
 ---

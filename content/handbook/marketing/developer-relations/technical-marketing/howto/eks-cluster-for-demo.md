@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/marketing/developer-relations/technical-marketing/howto/eks-cluster-for-demo.html
 title: "Creating an AWS EKS cluster for a GitLab demo"
 ---
 

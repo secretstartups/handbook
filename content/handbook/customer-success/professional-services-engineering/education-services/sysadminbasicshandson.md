@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/education-services/sysadminbasicshandson.html
 title: "GitLab System Administration Basics Hands On Guide"
 description: "This Hands On Guide is designed to walk you through the lab exercises used in the GitLab System Administration Basics course."
 ---

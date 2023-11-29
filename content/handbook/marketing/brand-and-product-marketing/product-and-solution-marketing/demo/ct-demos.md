@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/ct-demos.html
 title: "Click Through Demos"
 noindex: true
 ---

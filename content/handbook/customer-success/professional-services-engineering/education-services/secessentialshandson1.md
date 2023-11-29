@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/education-services/secessentialshandson1.html
 title: "GitLab Security Essentials<br/>Hands-On Guide: Lab 1"
 description: "This Hands-On Guide walks you through the lab exercises used in the GitLab Security Essentials course."
 ---
@@ -106,21 +105,21 @@ Configure Secret Detection to ignore test files by pasting this job definition a
    stages:
      - test
      - dast
-   
+
    dummy-job:
      stage: test
      script:
        - echo "pipeline must contain at least 1 job definition"
-   
+
    include:
      - template: Security/SAST.gitlab-ci.yml
      - template: Security/Secret-Detection.gitlab-ci.yml
      - template: DAST.gitlab-ci.yml
-   
+
    variables:
      SAST_BANDIT_EXCLUDED_PATHS: docs/
      DAST_WEBSITE: https://example.com
-   
+
    secret_detection:
      variables:
        SECRET_DETECTION_EXCLUDED_PATHS: tests/
