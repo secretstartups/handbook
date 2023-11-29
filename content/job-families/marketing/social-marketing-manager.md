@@ -60,21 +60,21 @@ The Social Media Manager is a [grade 6](/handbook/total-rewards/compensation/com
 #### Responsibilities
 
 - Support community management efforts, daily monitoring, and engagement.
-- Develop content, including creative assets, working with agencies and the internal creative team. 
+- Develop content, including creative assets, working with agencies and the internal creative team.
 - Schedule organic social content across channels.
 - Work with the team to ensure social amplification and engagement are incorporated as part of integrated campaign strategy and execution.
 - Contribute to reporting efforts across campaigns and milestones.
-- Support creative community activations. 
+- Support creative community activations.
 
-####  Requirements
-- Minimum of 3 years of social media experience, preferably at a high-growth enterprise software company or agency. 
+#### Requirements
+- Minimum of 3 years of social media experience, preferably at a high-growth enterprise software company or agency.
 - Ability to coordinate with multiple stakeholders, perform in a fast-moving environment, and work on multiple projects simultaneously.
-- Experience with UTM tracking URLs, social media management tools like Sprout Social, and employee social advocacy tools. 
+- Experience with UTM tracking URLs, social media management tools like Sprout Social, and employee social advocacy tools.
 - General management of the social calendar and crafting social campaigns that will help engage, educate, entertain, inspire, and increase our followers
 - Contribute your perspective on what to publish, when, and where in support of campaigns
 - Contribute to reporting on OKRs and other metrics
-- Attention to detail 
-- Understanding of how social media, public relations, and content strategies intersect to drive business outcomes. 
+- Attention to detail
+- Understanding of how social media, public relations, and content strategies intersect to drive business outcomes.
 - Previous experience working in a remote environment.
 
 ------
@@ -88,25 +88,25 @@ The Senior Social Media Manager is a [grade 7](/handbook/total-rewards/compensat
 #### Responsibilities
 
 - Able to coordinate with multiple stakeholders and perform in a fast-moving environment, and ability to work on multiple projects at a time
-- Experience with UTM tracking URLs, social media management tools like Sprout Social, and employee social advocacy tools. 
+- Experience with UTM tracking URLs, social media management tools like Sprout Social, and employee social advocacy tools.
 - General management of the social calendar and crafting social campaigns that will help engage, educate, entertain, inspire, and increase our followers
 - Contribute your perspective on what to publish, when, and where in support of campaigns
 - Contribute to reporting on OKRs and other metrics
-- Attention to detail 
-- Understanding of how social media, public relations, and content strategies intersect to drive business outcomes. 
-- Previous experience working in a remote environment.
-- Independently develop and execute social marketing campaigns 
+- Independently develop and execute social marketing campaigns
 - Articulate and document social marketing strategy and process in the GitLab handbook
 - Staying up-to-date and educating others on current technologies and trends in social media
 - Work with an in-house creative team to create engaging assets, sometimes designing quick needs yourself
 - Provide insight into navigating communications risks and crises, sometimes executing on this alone
 
 #### Requirements
-- At least  3-5 years of experience in a social media role at a high-growth enterprise software company or agency
+- At least 3-5 years of experience in a social media role at a high-growth enterprise software company or agency
 - Proven experience managing B2B social media channels
 - In-depth industry and technical community knowledge
 - Proven ability to identify new audiences and channels, create a strategy, and execute the strategy
 - Exposure to crisis communications and desire to learn more
+- Attention to detail
+- Understanding of how social media, public relations, and content strategies intersect to drive business outcomes.
+- Previous experience working in a remote environment.
 
 ------
 
@@ -130,8 +130,8 @@ The Staff Social Social Marketing is a [grade 8](/handbook/total-rewards/compens
 
 - Defines, implements, and regularly iterates on GitLab’s social media strategies
 - Leads end-to-end brand-level or product-related social campaigns - including paid social where appropriate
-- Oversees external contributors, including agency vendors 
-- Collaborates with the campaigns team on campaign strategy, position, messaging, and customer journey mapping and engagement, ensuring the social team’s contribution 
+- Oversees external contributors, including agency vendors
+- Collaborates with the campaigns team on campaign strategy, position, messaging, and customer journey mapping and engagement, ensuring the social team’s contribution
 - Performs regular gap analysis to identify areas of success, improvement, and opportunity
 - Directly engages with influencers and media, as needed
 - Identifies and executes “surprise and delight” moments
@@ -140,10 +140,9 @@ The Staff Social Social Marketing is a [grade 8](/handbook/total-rewards/compens
 
 #### Requirements
 - At least 5-8 years of experience in a social media role at a high-growth enterprise software company or agency.
-- Attention to detail 
+- Attention to detail
 - Experience running social listening, executive visibility, and influencer engagement programs
 - Experience creating and managing budgets
-
 
 ### Principal Social Media Manager
 
@@ -151,15 +150,15 @@ The Staff Social Social Marketing is a [grade 8](/handbook/total-rewards/compens
 - Lead campaigns, positioning, and messaging as the expert on the GitLab brand
 - Integrate GitLab’s brand voice and GitLab’s values into our social media strategy and content
 - Ability to act discreetly with non-public information
-- Take ownership of the delivery and results of social media deliverables and OKRs. 
+- Take ownership of the delivery and results of social media deliverables and OKRs.
 - Strong focus on improving results, productivity, and operational efficiency.
 - Supports social programs beyond channels, including team member engagement, executive visibility, and reputation management
 
 #### Requirements
-- 10 years of social media experience in a high-growth enterprise software company or agency. 
+- 10 years of social media experience in a high-growth enterprise software company or agency.
 - Experience with crisis communications
 - Strong sense of and experience with high-level concept development, strategy, research, and problem-solving
-- Exceptional communication skills and ability to develop, pitch, execute, and report on creative ideas, strategies, and campaigns 
+- Exceptional communication skills and ability to develop, pitch, execute, and report on creative ideas, strategies, and campaigns
 
 ------
 
@@ -208,19 +207,18 @@ The Senior Manager, Social Media is a [grade 9](/handbook/total-rewards/compensa
 
 - Lead campaigns, positioning, and messaging as the expert on the GitLab brand
 - Integrate GitLab’s brand voice and GitLab’s values into our social media strategy and content
-- Scale, develop, and manage the social media team to expand GitLab’s influence and awareness and engage followers 
-- Willingness to be a player/coach and to roll up your sleeves 
-- Own the delivery and results of social media deliverables and OKRs. 
+- Scale, develop, and manage the social media team to expand GitLab’s influence and awareness and engage followers
+- Willingness to be a player/coach and to roll up your sleeves
+- Own the delivery and results of social media deliverables and OKRs.
 - Strong focus on improving results, productivity, and operational efficiency.
 - Supports social programs beyond channels, including team member engagement, executive visibility, and reputation management
 
 #### Requirements
-- 10 years of social media and at least five years of people management in a high-growth enterprise software company or agency. 
+- 10 years of social media and at least five years of people management in a high-growth enterprise software company or agency.
 - Strong sense of and experience with high-level concept development, strategy, research, and problem-solving
-- Exceptional communication skills and ability to develop, pitch, execute, and report on creative ideas, strategies, and campaigns 
+- Exceptional communication skills and ability to develop, pitch, execute, and report on creative ideas, strategies, and campaigns
 
-
-### Director, Global Social Media 
+### Director, Global Social Media
 
 #### Job Grade
 
@@ -238,18 +236,17 @@ The Director, Global Social Media is a [grade 10](/handbook/total-rewards/compen
 #### Requirements
 - 12-15 years of social media and people management in a high-growth enterprise software company or agency.
 - Direct experience rolling out social programs globally and establishing new channels in key markets outside of the United States
-- Experience in crisis management and public companies 
+- Experience in crisis management and public companies
 - Strong sense of and experience with high-level concept development, strategy, research, and problem-solving
-- Exceptional communication skills and ability to develop, pitch, execute, and report on creative ideas, strategies, and campaigns 
+- Exceptional communication skills and ability to develop, pitch, execute, and report on creative ideas, strategies, and campaigns
 
 ------
 
-#### Career Ladder 
+#### Career Ladder
 
-- Individual contributor roles within Social Media will move from one job grade to the next for career advancement 
-- Staff and Principal Social Media Managers may shift toward team leadership or people management by moving to a grade 8 or grade 9 manager role
-- People leadership roles will move from one job grade to the next for career advancement 
-
+- Individual contributor roles within Social Media will move from one job grade to the next for career advancement
+- Staff and Principal Social Media Managers may shift toward team leadership or people management by moving to a grade 8 or grade 9 people manager role
+- People leadership roles will move from one job grade to the next for career advancement
 
 ## Hiring Process
 
@@ -259,8 +256,8 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule a series of 30-45 minute interviews that may include:
 - At least one member of the social media team
 - A member of a supporting team in events, evangelism, brand, partner marketing, or digital marketing
-- Our Vice President of Corporate Communications and other leaders on the Communications team 
+- Our Vice President of Corporate Communications and other leaders on the Communications team
 - If Director level, our CMSO and People Business Partner Director will also conduct final interviews
-- Successful candidates will subsequently be made an offer 
+- Successful candidates will subsequently be made an offer
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
