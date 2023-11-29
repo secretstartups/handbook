@@ -302,7 +302,7 @@ Key accounts and expenses by division should be within +/- 2% versus Plan or rol
 
 #### Variance Meeting with EVPs
 
-EVPs are held accountable to meet the budget in dollars that they are given. The budgets typically are broken into headcount and progaram spend. Each finance business partner will run a meeting with their Finance leader and the EVP to review the past month. The information should be presented as timely as possible. Given the accounting close is 8 days, the team is asked to use pre-close numbers for the review to increase the speed of information. During the meeting, the Finance Business Partners will review GitLab results in addition to a detailed overview. Each division can expect to review the following during the monthly meetings:
+EVPs are held accountable to meet the budget in dollars that they are given. The budgets typically are broken into headcount and program spend. Each finance business partner will run a meeting with their Finance leader and the EVP to review the past month. The information should be presented as timely as possible. Given the accounting close is 8 days, the team is asked to use pre-close numbers for the review to increase the speed of information. During the meeting, the Finance Business Partners will review GitLab results in addition to a detailed overview. Each division can expect to review the following during the monthly meetings:
 
 - Company results
 - Spending OpEx vs Plan
