@@ -9,29 +9,27 @@ description: "This page is an overview of the search team alignment and the tale
 |--------------------------|-----------------|-------------------------------------|
 | Executive          | Rich Kahn    | Michelle Jubrey  |
 | Executive          | Zach Choquette   | Michelle Jubrey  |
-| Enterprise Sales, NA | Kevin Rodrigues |Fernando Khubeir |
+| Enterprise Sales, AMER | Kevin Rodrigues |Fernando Khubeir |
 | Enterprise Sales, EMEA | Kannwal Matharu | Lerato Thipe |
-| Commercial Sales, AMER | Marcus Carter | Michelle Jubrey |
-| Commercial Sales, AMER | Hannah Stewart  | Fernando Khubeir |
-| Commercial Sales, EMEA | Ben Cowdry | Lerato Thipe |
-| Channel Sales, EMEA | Kanwal Matharu  | Lerato Thipe |
-| Field Operations, US/EMEA | Kelsey Hart  | Fernando Khubeir |
+| Sales, AMER | Marcus Carter | Michelle Jubrey |
+| Sales/ G&A | Hannah Stewart  | Fernando Khubeir |
+| Commercial Sales/R&D, EMEA | Ben Cowdry | Lerato Thipe |
+| Enterprise Sales, EMEA | Kanwal Matharu  | Lerato Thipe |
+| Sales | Kelsey Hart  | Fernando Khubeir |
 | Customer Success, EMEA | Joanna Tourne | Lerato Thipe |
-| Customer Success, NA | Barbara Dinoff |  Fernando Khubeir |
-| All Sales, APAC | Yas Priatna  | Lerato Thipe |
-| Marketing, Global | Steph Sarff | Michelle Jubrey |
-| Marketing, BDR/SDR (Global)| Caroline Rebello |  Alice Crosbie |
-| G&A, Legal | Jenna VanZutphen | Fernando Khubeir |
-| G&A, Accounting, People | Jenna VanZutphen | Fernando Khubeir |
-| G&A, IT | Jenna VanZutphen | Fernando Khubier |
+| Customer Success, AMER | Barbara Dinoff |  Fernando Khubeir |
+| All Business, APAC | Yas Priatna  | Lerato Thipe |
+| Marketing/ G&A, Global | Steph Sarff | Michelle Jubrey |
+| Marketing, BDR/SDR/G&A (Global)| Caroline Rebello |  Alice Crosbie |
+| G&A | Jenna VanZutphen | Fernando Khubeir |
 | Development | Mark Deubel & Sara Currie | Alice Crosbie |
-| Quality | Riley Smith |  Alice Crosbie  |
-| Infrastructure   | Michelle A. Kemp | Alice Crosbie  |
-| Support | Joanna Michniewicz  |  Alice Crosbie |
-| Security | Holly Nesselroad | Michelle Jubrey |
-| Incubation | Holly Nesselroad  | Michelle Jubrey |
+ R&D | Mark Deubel | Alice Crosbie |
+| R&D | Riley Smith |  Alice Crosbie  |
+| R&D   | Michelle A. Kemp | Alice Crosbie  |
+| R&D | Joanna Michniewicz  |  Alice Crosbie |
+| R&D | Holly Nesselroad | Michelle Jubrey |
 | Product Management  | Holly Nesselroad | Michelle Jubrey |
-| UX  | Riley Smith | Alice Crosbie  |
+| R&D  | Riley Smith | Lerato Thipe  |
 
 For urgent requests of the Candidate Experience Specialist team, we encourage you to contact them by also tagging @CES in Slack messages and CC'ing CES@gitlab.com on emails.
 
