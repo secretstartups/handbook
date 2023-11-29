@@ -136,8 +136,8 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2024-01-02 | 2024-01-05 | AVAILABLE - REMOTE | [Cynthia "Arty" Ng] (https://gitlab.com/cynthia) - Staff, Strategy & Operations |
-| 2024-01-08 | 2024-01-12 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2024-01-02 | 2024-01-05 | [Yin Yu] (https://gitlab.com/yyugitlab) | [Cynthia "Arty" Ng] (https://gitlab.com/cynthia) - Staff, Strategy & Operations |
+| 2024-01-08 | 2024-01-12 | AVAILABLE - REMOTE | [Yin Yu] (https://gitlab.com/yyugitlab) |
 | 2024-01-15 | 2024-01-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-01-22 | 2024-01-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-01-29 | 2024-02-02 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
