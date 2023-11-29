@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/workflows/internal/biz-ops.html
 title: Professional Services Business Operations
 category: Internal
 ---

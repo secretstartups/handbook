@@ -1,14 +1,7 @@
 ---
-aliases: /handbook/customer-success/workshops/innersource-workshop.html
 title: "Innersource Workshop"
 Description: "Guidance for CSMs on leading innersource workshops and deep-dives."
 ---
-
-
-
-
-
-
 
 ## InnerSource Workshop Overview
 

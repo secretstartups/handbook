@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/marketing/readmes/laura-duggan.html
 title: "Laura Duggan's README"
 description: "Learn more about working with Laura Duggan"
 ---

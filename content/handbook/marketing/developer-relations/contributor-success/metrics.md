@@ -1,21 +1,7 @@
 ---
-aliases: /handbook/marketing/developer-relations/contributor-success/metrics.html
 title: "Metrics & SiSense Dashboards"
 description: Learn about the Sisense SQL snippets that are used in community-related dashboards!
 ---
-
-
-
-
-
-
-
-
-
-
-- - -
-
-## Metrics & Sisense Dashboards
 
 ### Dashboards we use
 

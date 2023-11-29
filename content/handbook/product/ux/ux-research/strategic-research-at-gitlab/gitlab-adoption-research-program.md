@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/product/ux/ux-research/strategic-research-at-gitlab/gitlab-adoption-research-program.html
 title: "GitLab Adoption Research Program"
 ---
 

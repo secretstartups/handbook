@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/business-technology/data-team/data-catalog/xmau-analysis/predicted-xmau-algorithm.html
 title: "Predicted XMAU Algorithm"
 ---
 

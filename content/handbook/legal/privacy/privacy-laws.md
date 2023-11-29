@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/legal/privacy/privacy-laws.html
 title: "Privacy Laws and GitLab"
 description: "This is an educational page about commonly referenced data privacy laws"
 ---

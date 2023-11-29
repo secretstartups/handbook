@@ -1,8 +1,6 @@
 ---
-aliases: /handbook/customer-success/initiatives/communities-of-practice.html
 title: "Communities of Practice"
 description: "Cross Functional team focusing on specific topics. Learn more!"
-canonical_path: "/handbook/customer-success/initiatives/communities-of-practice.html"
 ---
 
 ### What's a Community of Practice?

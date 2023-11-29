@@ -1,21 +1,7 @@
 ---
-aliases: /handbook/marketing/developer-relations/contributor-success/contributing-org-tracker.html
 title: "How to recognize organizations within the contributor ecosystem for GitLab"
 description: Learn how to add and maintain usernames to organizations for recognition and award purposes within GitLab
 ---
-
-
-
-
-
-
-
-
-
-
-- - -
-
-# How to recognize organizations within the contributor ecosystem for GitLab
 
 Learn how to add and maintain usernames to organizations for recognition and award purposes within GitLab
 

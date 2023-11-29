@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/education-services/gitlabpmhandsonlab4.html
 title: "GitLab Project Management Hands-On Guide: Lab 4"
 description: "This Hands-On Guide walks you through the lab exercises used in the GitLab Project Management course."
 ---

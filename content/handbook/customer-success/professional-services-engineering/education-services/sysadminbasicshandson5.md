@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/education-services/sysadminbasicshandson5.html
 title: "GitLab System Admin Basics Hands On Guide- Lab 5"
 description: "This Hands On Guide Lab is designed to walk you through the lab exercises used in the GitLab System Admin Basics course."
 ---
@@ -137,7 +136,7 @@ If the command doesn’t work, continue with the next section.
      sudo gitlab-runner list
 
        ```
-     
+
     * In a **macOS** terminal:
 
        ```
@@ -145,7 +144,7 @@ If the command doesn’t work, continue with the next section.
      gitlab-runner list
 
        ```
-     
+
      * In a normal (not elevated) **Windows** PowerShell window:
 
         ```

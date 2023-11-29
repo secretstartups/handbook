@@ -1,14 +1,7 @@
 ---
-aliases: /handbook/customer-success/workshops/ci-workshop.html
 title: "CI Workshop"
 Description: "Guidance for CSMs on leading continuous integration deep-dive workshops"
 ---
-
-
-
-
-
-
 
 - [CI Workshop Overview](#ci-workshop-overview)
 - [Workshop Materials](#workshop-materials)

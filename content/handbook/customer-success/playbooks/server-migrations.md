@@ -1,14 +1,6 @@
 ---
-aliases: /handbook/customer-success/playbooks/server-migrations.html
 title: "GitLab Server Migrations Playbook"
 ---
-
-
-
-
-
-
-
 
 View the [Customer Success homepage](https://about.gitlab.com/handbook/customer-success/) for additional Customer Success handbook content.
 

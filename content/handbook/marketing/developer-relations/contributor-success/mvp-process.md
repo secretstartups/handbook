@@ -1,21 +1,8 @@
 ---
-aliases: /handbook/marketing/developer-relations/contributor-success/mvp-process.html
 title: "GitLab MVP Selection Process"
 description: Process for Contributor Success to select GitLab MVPs
 ---
 
-
-
-
-
-
-
-
-
-
-- - -
-
-# GitLab MVP Selection Process
 
 ## GitLab MVP
 
