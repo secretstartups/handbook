@@ -128,3 +128,12 @@ It is recommended to continue working the case async while awaiting the discover
 When the scheduled session occurs the agent should set the expectations that we will be asking the customer to demonstrate the issue and then work with them to create a collection of artifacts that will be uploaded to the case at a later time.
 
 A short post call synopsis reminding the customer of what artifacts were collected and providing a technical description of what was observed is recommended to ensure both parties have the same understanding of next steps.
+
+## US Government Shift Engineer Workflow
+
+The US Government shift engineers are a hybrid role between US Government support and global support, they work in both support portals. This workflow outlines the heirarchy of priorities for shift engineers to follow:
+
+1. US Government Emergencies (while on-call)
+1. US Government High priority cases for 24x7 Eligible customers ([24x7 Entitled Customers view](https://gitlab-federal-support.zendesk.com/agent/filters/20166453511316))
+1. Global Support cases in Custom Personal view ([Create the view]())
+1. US Government cases that are breached or soon to breach
