@@ -22,3 +22,4 @@ The Application Security team uses a number of automation initiatives to help se
   - detects potentially sensitive files posted in public issues
 - [depSASTer](https://gitlab.com/gitlab-com/gl-security/appsec/tooling/depsaster) runs SAST on the dependencies used by GitLab
 - [Maintainer Watcher](https://gitlab.com/gitlab-com/gl-security/appsec/tooling/maintainer-watcher) monitors potentially compromisable dependency maintainer accounts
+- [depscore](https://gitlab.com/gitlab-com/gl-security/appsec/tooling/depscore) runs dependency review checks on new/updated depndencies in `gitlab-org/gitlab` project.
