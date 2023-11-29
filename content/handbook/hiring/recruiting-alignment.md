@@ -24,7 +24,6 @@ description: "This page is an overview of the search team alignment and the tale
 | G&A | Jenna VanZutphen | Fernando Khubeir |
 | Development | Mark Deubel & Sara Currie | Alice Crosbie |
  R&D | Mark Deubel | Alice Crosbie |
-| R&D | Riley Smith |  Alice Crosbie  |
 | R&D   | Michelle A. Kemp | Alice Crosbie  |
 | R&D | Joanna Michniewicz  |  Alice Crosbie |
 | R&D | Holly Nesselroad | Michelle Jubrey |
