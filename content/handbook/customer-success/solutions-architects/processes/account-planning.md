@@ -4,18 +4,12 @@ title: Account Planning for Solutions Architects
 ---
 
 
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 ## Account Planning in Gainsight Overview 
 
-[Account planning](https://about.gitlab.com/handbook/sales/account-planning/) helps the SAE and the SA develop a plan to elevate opportunity-driven conversations into value-based conversations that focus on the customer's value drivers. This is is a critical step is helping the team evaluate the customer's organization and work more strategically across the territory. Gainsight is a the tool for Strategic Account Leaders (SAEs), Solutions Architects (SAs), and Customer Success Managers (CSMs) to manage the account planning process. Since it sits within SalesForce, it provides a comprehensive view of your customers, allows you to understand trends and risks, and empowers you to execute a strategy to help you win deals.
+[Account planning](/handbook/sales/account-planning/) helps the SAE and the SA develop a plan to elevate opportunity-driven conversations into value-based conversations that focus on the customer's value drivers. This is is a critical step is helping the team evaluate the customer's organization and work more strategically across the territory. Gainsight is a the tool for Strategic Account Leaders (SAEs), Solutions Architects (SAs), and Customer Success Managers (CSMs) to manage the account planning process. Since it sits within SalesForce, it provides a comprehensive view of your customers, allows you to understand trends and risks, and empowers you to execute a strategy to help you win deals.
 
 # Accessing Gainsight
-- Steps to access Gainsight are outlined on this [Handbook Page](https://about.gitlab.com/handbook/sales/gainsight/#getting-started)
+- Steps to access Gainsight are outlined on this [Handbook Page](/handbook/sales/gainsight/#getting-started)
 
 
 # SA Role Specific Gainsight Usage
@@ -27,7 +21,7 @@ title: Account Planning for Solutions Architects
   [Creating a Technical Win Plan Using Gainsight - Video](https://drive.google.com/file/d/1dLeFXZsU-1ArzQlpeSEcdqCP6u59vJSd/view)
 
 # How does an SA contribute to the Account Planning?
-A rationale describing how an SA can contribute to the Account Planning is documented here in the [Handbook](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html)
+A rationale describing how an SA can contribute to the Account Planning is documented here in the [Handbook](/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html)
 
 
 # Collaborating with Other Team Members
@@ -50,7 +44,7 @@ It is important to note that Gainsight brings the entire account team onto a sin
 - **How is it going to help me in my daily job?**
   - It's going to help in our daily jobs since now all the account plans by SAEs, Success plans by TAMS are listed in the same system encouraging collaboration.
 - **Why use gainsight for account planning**
-  - It's an existing platform already loved by existing teams in Gitlab. Gainsight provides metrics, timelines, call to action like reminders. It also has the ability to create playbooks defining different steps in a process for eg: [an ultimate play](https://about.gitlab.com/handbook/customer-success/solutions-architects/sales-plays/)
+  - It's an existing platform already loved by existing teams in Gitlab. Gainsight provides metrics, timelines, call to action like reminders. It also has the ability to create playbooks defining different steps in a process for eg: [an ultimate play](/handbook/customer-success/solutions-architects/sales-plays/)
 - **How is it related to SFDC?**
   - SFDC is still the best place to record customer information for accurate forecating, creating accounts so on. Gainsight gives you the power to forecast plans for accounts, create objectives, identify tasks to be completed for those objectives. The timeline, attributes section of gainsight is fed back into SFDC.
 - **What if there is no account plan from the SAE?**
@@ -63,12 +57,12 @@ It is important to note that Gainsight brings the entire account team onto a sin
 
 
 # Gainsight Enablement 
-* [Account Planning Handbook Page](https://about.gitlab.com/handbook/sales/account-planning/)
+* [Account Planning Handbook Page](/handbook/sales/account-planning/)
 * [Account Planning with Gainsight Overview and Demo](https://www.youtube.com/watch?v=Xhor2IIsCQQ)
 * [Account Planning for SAs](https://gitlab.edcast.com/pathways/gainsight-for-solutions-architects-sas)
 * [Using Gainsight in Team Meetings](https://www.youtube.com/watch?v=gT_pz9PoHHg)
 
 # Additional Reading:
-- Documentation about Gainsight Go-To-Market Technical Documentation is located [here](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html)
-- More information about how Sales uses Gainsight can be found on the Using [Gainsight within Sales page](https://about.gitlab.com/handbook/sales/gainsight/account-planning/)
-- Information about how Customer Success uses Gainsight is located on the [Using Gainsight within Customer Success page](https://about.gitlab.com/handbook/customer-success/csm/gainsight/)
+- Documentation about Gainsight Go-To-Market Technical Documentation is located [here](/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html)
+- More information about how Sales uses Gainsight can be found on the Using [Gainsight within Sales page](/handbook/sales/gainsight/account-planning/)
+- Information about how Customer Success uses Gainsight is located on the [Using Gainsight within Customer Success page](/handbook/customer-success/csm/gainsight/)

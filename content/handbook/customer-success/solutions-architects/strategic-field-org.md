@@ -5,10 +5,6 @@ description: "The Strategic Field Organization is a team of Principal Solutions 
 ---
 
 
-
-
-
-
 ## Solutions Architecture - Strategic Field Organization
 
 The Strategic Field Organization is a team of [Principal Solutions Architects](/job-families/sales/solutions-architect/#principal-solutions-architect-responsibilities) that support global strategic prospects and customers. This team collaborates with the regional account teams to work together on large engagements that require a high degree of strategic planning - such as DevSecOps transformation, solution recommendations, and advisory for our customer's senior technical leadership.

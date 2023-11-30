@@ -5,13 +5,6 @@ description: “Discover GitLab Solutions Architects’ Sales Plays practices”
 ---
  
 
-
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 ## Sales Plays for new account & teams(existing customer) lands
 
 The SA should either be included in a discovery call or provided with Outcome / Infrastructure / Challenges information uncovered by prior interactions with the account. Occasionally, SA's may support a combination call of discovery and technical demonstration/deep-dive on a single call, but this is suboptimal as the latter approach does not allow the SA time to prepare for and/or tailor the discussion.
@@ -164,7 +157,7 @@ SA and SAE
 
 1. Deeper Dive Demo
 2. Workshops 
-3. [POV](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/)
+3. [POV](/handbook/customer-success/solutions-architects/tools-and-resources/pov/)
 4. [Professional Services Engagement](#professional-service-resources)
 
 **Owner**

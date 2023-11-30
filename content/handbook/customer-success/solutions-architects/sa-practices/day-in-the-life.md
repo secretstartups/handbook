@@ -4,12 +4,6 @@ title: Day In The Life of a Developer
 ---
 
 
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 # Day In The Life of a Developer
 
 
@@ -36,8 +30,8 @@ Day In The Life of a Developer requires commitment by both the GitLab field team
 
 - The account has a total addressable market of at least 100 GitLab users
 - The prospect or customer is focused on improving their software delivery performance
-- We have a relationship with the [economic buyer](https://about.gitlab.com/handbook/sales/meddppicc/#economic-buyer)
-- We have identified and established a relationship with the [champion](https://about.gitlab.com/handbook/sales/meddppicc/#champion)
+- We have a relationship with the [economic buyer](/handbook/sales/meddppicc/#economic-buyer)
+- We have identified and established a relationship with the [champion](/handbook/sales/meddppicc/#champion)
 - We suggest pitching a Day In The Life of a Developer prior to a Proof of Value (PoV) to understand bottlenecks and development opportunities important to the company's stakeholders. This also gives us an opportunity to agree upon success criteria for value drivers if a PoV is required for deal closure.
 
 In case a Day In The Life of a Developer is conducted by a customer success manager (CSM), the following criteria should be met:
@@ -62,7 +56,7 @@ The scope of a Day In The Life of a Developer should always be clearly defined. 
 
 A successful Day In The Life of a Developer requires a commitment by the software delivery stakeholders and the personnel experienced with the various processes that constitute their development process. Without understanding the assessment process and its value to their organization, key participants will lack the commitment to ensure a successful Day In The Life of a Developer. Educate the prospect or customer on the benefits, process details, and the required commitment. 
 
-_While a Day In The Life of a Developer is an advanced discovery workshop, it's expected that initial [opportunity discovery](https://about.gitlab.com/handbook/sales/playbook/discovery/) and [technical discovery](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/technical-discovery/) have been conducted._
+_While a Day In The Life of a Developer is an advanced discovery workshop, it's expected that initial [opportunity discovery](/handbook/sales/playbook/discovery/) and [technical discovery](/handbook/customer-success/solutions-architects/processes/technical-discovery/) have been conducted._
 
 #### Key Benefits
 
@@ -174,15 +168,15 @@ The process which we will go through, at a high level, is as follows:
 
 ##### Idea to Production
 
-![Idea to Production](handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments/workflow-02.png)
+![Idea to Production](handbook/customer-success/solutions-architects/sa-practices/value-stream-discovery/workflow-02.png)
 
 ##### Response to Production Incident
 
-![Response to Production Incident](handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments/workflow-01.png)
+![Response to Production Incident](handbook/customer-success/solutions-architects/sa-practices/value-stream-discovery/workflow-01.png)
 
 ##### Toolchain Upgrading and Maintenance
 
-![Toolchain Upgrading and Maintenance](handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments/workflow-03.png)
+![Toolchain Upgrading and Maintenance](handbook/customer-success/solutions-architects/sa-practices/value-stream-discovery/workflow-03.png)
 
 ### Executive Briefing - Summarize the Findings
 
@@ -193,7 +187,7 @@ The final meeting as part of the Day in the Life of a Developer process is the f
 1. Summary of the proposed future state mapping 
 1. Highlight the key differences, expected process and business benefits
 1. Walkthrough of recommendations
-1. Walkthrough and gain agreement for the transformation plan. The transformation plan should be built in conjunction with professional services to yield best results. Please read how to position professional services in an opportunity [here](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/#positioning-professional-services)
+1. Walkthrough and gain agreement for the transformation plan. The transformation plan should be built in conjunction with professional services to yield best results. Please read how to position professional services in an opportunity [here](/handbook/customer-success/solutions-architects/processes/#positioning-professional-services)
 1. Define next steps and suggest a review date
 
 Example template of the executive briefing can be found [here](https://docs.google.com/presentation/d/133mECaV2vfUQGIn03mixXSI6ENrc4T-R_vRwXBRManA/edit?usp=sharing). Please modify accordingly to suit your customer's need.

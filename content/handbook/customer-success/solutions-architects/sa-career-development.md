@@ -7,13 +7,6 @@ description: >-
 ---
 
 
-
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 ## Career Development
 
 Solutions Architecture team members you should review the [GitLab People Group Career Development page](/handbook/people-group/learning-and-development/career-development/) for the roles, responsibilities, and helpful career development resources.
@@ -66,7 +59,7 @@ The Associate SA Program aims to embody as many GitLab values as possible as it 
 * [Iteration](/handbook/values/#iteration)
 * [Transparency](/handbook/values/#transparency)
 
-The content is supplemental to the [30/60/90 day onboarding](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-onboarding/#30-60-90-day-program) that all SAs go through.
+The content is supplemental to the [30/60/90 day onboarding](/handbook/customer-success/solutions-architects/sa-onboarding/#30-60-90-day-program) that all SAs go through.
 
 | Activity / Content                       | Timeline / Frequency            | Description                             |
 |------------------------------------------|---------------------------------|-----------------------------------------|
@@ -123,7 +116,7 @@ Recognizing the hard work that the Solutions Architects bring to the sales proce
 Recognizing (and being recognized) by your peers is extremely fulfilling.  If an SA is recognized by a peer, it may appear in one or more of these places:
 
 - The #thanks Slack Channel (Used by the entire organization for all manner of appreciation.)
-- The #deal-gratitude Slack Channel (Used primarily by the [Field Organization](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/field-team-recognition/#deal-gratitude-slack-channel) for recognizing work on sales deals.)
+- The #deal-gratitude Slack Channel (Used primarily by the [Field Organization](/handbook/sales/field-operations/field-enablement/field-team-recognition/#deal-gratitude-slack-channel) for recognizing work on sales deals.)
 - The #wins-key-deals Slack Channel (When an SA is associated with a high profile win, they are automatically added to the details of the win within this channel. SA Leadership is working with Sales Ops to bring more attention to this notification.)
 - Various team meetings (At the start of most SA calls, there is a devoted section for expressing gratitude and appreciation.)
 - [Discretionary Bonuses](/handbook/incentives/#discretionary-bonuses-for-individuals) (If an SA has gone above and beyond and truly lived up to GitLab's CREDIT values, a discretionary bonus of $1000 US can be awarded. These nominations can come from anyone in the company and at any time.)
@@ -133,5 +126,5 @@ Recognizing (and being recognized) by your peers is extremely fulfilling.  If an
 ### Management Recognition
 At various points of the year, SA's have the opportunity to be recognized by their managers and/or Customer Success leadership.
 
-- [Field Organization Quarterly Achievers](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/field-team-recognition/#field-quarterly-achievers-chat) (12 various winners from accross the Field Organization for outstanding performance in the Quarter. A designated chat with the CEO, CRO and the other winners as well as a $250 US expensed dinner are included)
+- [Field Organization Quarterly Achievers](/handbook/sales/field-operations/field-enablement/field-team-recognition/#field-quarterly-achievers-chat) (12 various winners from accross the Field Organization for outstanding performance in the Quarter. A designated chat with the CEO, CRO and the other winners as well as a $250 US expensed dinner are included)
 - [President's Club](https://internal.gitlab.com/handbook/sales/presidents-club/) (8 SA's from across the company are selected based on sales contributions throughout the year. More on the selection criteria can be found in the internal link)

@@ -5,14 +5,7 @@ description: "This page provides an overview on relevant SA Managers processes. 
 ---
 
 
-
-
-
-
-
-
-
-View the [SA Handbook homepage](https://about.gitlab.com/handbook/customer-success/solutions-architects/) for additional SA-related handbook pages.
+View the [SA Handbook homepage](/handbook/customer-success/solutions-architects/) for additional SA-related handbook pages.
 
 
 ## Purpose
@@ -41,7 +34,7 @@ Meeting regularly with your ASM counterpart provides time to discuss SAE/ SA/ CS
 
 ### Quarterly Business Reviews
 
-The SA Manager is responsible for developing and delivering a [Quarterly Business Review](https://about.gitlab.com/handbook/sales/qbrs/) for their team each quarter.
+The SA Manager is responsible for developing and delivering a [Quarterly Business Review](/handbook/sales/qbrs/) for their team each quarter.
 
 SA Managers typically cover the following information:
 - Review past quarter
@@ -54,11 +47,11 @@ SA Managers typically cover the following information:
 
 ### Cognitive Bias Sessions
 
-It is important to pland and schedule [Coginitive Bias](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/recognizing-cognitive-bias/) Sessions for the team quarterly. Be sure to think about assigning a facilitator and role players, as needed.
+It is important to pland and schedule [Coginitive Bias](/handbook/customer-success/solutions-architects/sa-practices/recognizing-cognitive-bias/) Sessions for the team quarterly. Be sure to think about assigning a facilitator and role players, as needed.
 
 ### Identifying and Recruiting
 
-SA Managers should always be recruiting! It is important that SA Managers always be on the lookout for talent and be conscientious in building a talent network. Make time to interview prospective candidates and be able to artiulate the value of a job at GitLab as outlined in the [Winning Top Talent](https://about.gitlab.com/handbook/sales/field-manager-development/#winning-top-talent) portion of the GitLab Field Manager Development Program.  
+SA Managers should always be recruiting! It is important that SA Managers always be on the lookout for talent and be conscientious in building a talent network. Make time to interview prospective candidates and be able to artiulate the value of a job at GitLab as outlined in the [Winning Top Talent](/handbook/sales/field-manager-development/#winning-top-talent) portion of the GitLab Field Manager Development Program.  
 
 **Key Resources**
 - Success Profile
@@ -68,16 +61,16 @@ SA Managers should always be recruiting! It is important that SA Managers always
 
 ### Onboarding
 
-SA Managers should ensure the new SA team members are set up for success by working to make sure they have access to necessary tools and have an assigned onboarding buddy. Additionally, they should work with new SAs to set clear performance expectations and provide regular feedback during the onboarding process. SA Managers should encourage new SAs to complete their general GitLab onboarding issue and ensure that they actively participate in and complete [Sales Quick Start](https://about.gitlab.com/handbook/sales/onboarding/).
+SA Managers should ensure the new SA team members are set up for success by working to make sure they have access to necessary tools and have an assigned onboarding buddy. Additionally, they should work with new SAs to set clear performance expectations and provide regular feedback during the onboarding process. SA Managers should encourage new SAs to complete their general GitLab onboarding issue and ensure that they actively participate in and complete [Sales Quick Start](/handbook/sales/onboarding/).
 
 Common slack channels within GitLab are #thanks and #deal-graditude are manual from an announcement and celebration point of view. The #wins-key-deals are automated listings and announcements. Those automated slack channels require a SFDC mapping of the team and organisational roll ups. SA Managers are encouraged to review the SFDC mapping on a quarterly basis to ensure consistency for new starters and existing team members (i.e. after promotions).  
 
 
 ### Developing and Retaining
 
-Developing and retaining key talent is constantly top-of-mind for high-performing SA Managers. The best SA Managers provide regular [coaching](/handbook/leadership/coaching/), follow [Performance Management](https://about.gitlab.com/handbook/sales/field-manager-development/#performance-management-and-giving-feedback) best practices, and leverage GitLab's [Field Functional Competencies](https://about.gitlab.com/handbook/sales/training/field-functional-competencies/) to reinforce the critical skills and behaviors that will lead to desired outcomes/results.
+Developing and retaining key talent is constantly top-of-mind for high-performing SA Managers. The best SA Managers provide regular [coaching](/handbook/leadership/coaching/), follow [Performance Management](/handbook/sales/field-manager-development/#performance-management-and-giving-feedback) best practices, and leverage GitLab's [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/) to reinforce the critical skills and behaviors that will lead to desired outcomes/results.
 
-Additionally, SA Managers should reinforce [key enablement initiatives](https://gitlab.edcast.com/teams/solution-architects-sas) and encourage participation in the [CS Skills Exchange](https://about.gitlab.com/handbook/sales/training/customer-success-skills-exchange/).
+Additionally, SA Managers should reinforce [key enablement initiatives](https://gitlab.edcast.com/teams/solution-architects-sas) and encourage participation in the [CS Skills Exchange](/handbook/sales/training/customer-success-skills-exchange/).
 
 SA Managers should encourage and lead team member's proactively to discuss [individual development and growth path](/handbook/people-group/learning-and-development/career-development/#roles-and-responsibilities) and always aim to assist team members to grow careers.
 

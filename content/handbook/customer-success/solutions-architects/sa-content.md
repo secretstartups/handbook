@@ -5,12 +5,6 @@ description: "Content calendar for Solutions Architects."
 ---
 
 
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 ## Introduction
 
 The purpose of this effort is to consistently create content that:

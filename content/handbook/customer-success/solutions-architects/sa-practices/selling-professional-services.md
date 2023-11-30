@@ -4,17 +4,10 @@ title: Selling Professional Services
 ---
 
 
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
-
 # Selling Professional Services
 
 
-This is a practice guide for a Solutions Architect (SA) to position Professional Services to a customer during the sales cycle and gather the appropriate information to provide to the Professional Services Engagement Management Team for custom scoping, if necessary.  The overall workflow for selling Professional Services is defined in the [Professional Services Handbook - Selling Professional Services page](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/).
+This is a practice guide for a Solutions Architect (SA) to position Professional Services to a customer during the sales cycle and gather the appropriate information to provide to the Professional Services Engagement Management Team for custom scoping, if necessary.  The overall workflow for selling Professional Services is defined in the [Professional Services Handbook - Selling Professional Services page](/handbook/customer-success/professional-services-engineering/selling/).
 
 - See the [Positioning Professional Services Class](https://levelup.gitlab.com/courses/positioning-professional-services) on LevelUp for an overview.
 
@@ -32,7 +25,7 @@ GitLab provides a wide array of [Professional Services offerings](https://about.
 
 ## Cross-team Collaboration
 
-It is expected that the Solutions Architect lead in the positioning of Professional Services for new license opportunities as they transition from stage 3- Technical Evaluation to stage 4- Proposal.  Solutions Architects should be able to articulate the value of using Professional Services vs the customer doing the work on their own and should be able to choose the appropriate Professional Services offerings that will most benefit the customer.  If it is determined that a custom service package is likely the best option, then the Solution Architect or appropriate sales role (AE, SAE) should initiate the [custom services scoping workflow](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/#custom-scoped-services) by using the services calculator to create a scoping issue.  A Professional Services Engagement Manager will pick up the scoping issue and will collaborate with the account team to scope the appropriate services package.
+It is expected that the Solutions Architect lead in the positioning of Professional Services for new license opportunities as they transition from stage 3- Technical Evaluation to stage 4- Proposal.  Solutions Architects should be able to articulate the value of using Professional Services vs the customer doing the work on their own and should be able to choose the appropriate Professional Services offerings that will most benefit the customer.  If it is determined that a custom service package is likely the best option, then the Solution Architect or appropriate sales role (AE, SAE) should initiate the [custom services scoping workflow](/handbook/customer-success/professional-services-engineering/selling/#custom-scoped-services) by using the services calculator to create a scoping issue.  A Professional Services Engagement Manager will pick up the scoping issue and will collaborate with the account team to scope the appropriate services package.
 
 When an existing customer is interested in Professional Services and there is not a current license opportunity, the CSM would typically work with the AE/SAE to identify the appropriate services and custom scope any needs, when applicable.  The CSM and/or PS Engagement Manager may request SA assistance when the customer has specific questions regarding GitLab capabilities as they are considering Professional Services options, e.g. if a customer is considering migrating from self-managed to SaaS, they may have questions about the differences between self-managed GitLab features vs. using the SaaS platform, limitations of SaaS, SaaS security considerations, consumption fees, etc.
 
@@ -61,4 +54,4 @@ To appropriately scope custom services engagements, the PS Engagement Manager wi
 - What version of GitLab is the customer on, or planning on deploying?  And what license tier - Premium or Ultimate?
 - If the customer is looking to migrate from GitLab self-managed to SaaS, it will be helpful to have the customer run the [Evaluate](https://gitlab.com/gitlab-org/professional-services-automation/tools/utilities/evaluate) script.  This tool will provide a count of users and repositories, show which GitLab features are used in each project, and flag any project where the type or amount of data might be problematic for migration.
 
-The Professional Services Team keeps a more detailed list of scoping questions pertaining to different types of services that customers request.  Details can be found on the [Professional Services EM Scoping Guidelines](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/#scoping-specific-types-of-services) page.
+The Professional Services Team keeps a more detailed list of scoping questions pertaining to different types of services that customers request.  Details can be found on the [Professional Services EM Scoping Guidelines](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/#scoping-specific-types-of-services) page.
