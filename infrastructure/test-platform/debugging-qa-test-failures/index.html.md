@@ -74,8 +74,8 @@ flowchart TB
         click eyes "https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/#emoji-used"
         click fire_engine "https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/#emoji-used"
         click boom "https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/#emoji-used"
-      	click tag_issue_for_report "https://gitlab.com/gitlab-org/quality/dri#configuration"
-			  click publish_results "https://gitlab.com/gitlab-org/quality/dri#4-publish"
+      	click tag_issue_for_report "https://gitlab.com/gitlab-org/ruby/gems/dri#configuration"
+			  click publish_results "https://gitlab.com/gitlab-org/ruby/gems/dri#4-publish"
         click notify_incident "https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/#failure-needs-escalation"
         click update_incident "https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/#notify-group-in-all-cases"
 

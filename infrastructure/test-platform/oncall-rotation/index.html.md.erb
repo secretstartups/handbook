@@ -39,7 +39,7 @@ and for [specific instructions on how to do an appropriate level of investigatio
 - Everyone in the Test Platform sub-department should support the on-call DRI and be available to jump on a zoom call or offer help if needed.
   - If a change needs to be made to CI/CD variables in [gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab/-/settings/ci_cd) and the DRI does not have access, they can ask for help in the #quality_maintainers and #development Slack channels. Any Quality maintainer should have sufficient access to be able to assist.
 - Every day the APAC/EMEA/AMER DRI summarizes the failures found for that day in the triage issue like [this](https://gitlab.com/gitlab-org/quality/pipeline-triage/-/issues/45#note_408358615). This serves as an asynchronous handoff to the DRI in the other timezone.
-- The DRI can make use of the [dri gem](https://gitlab.com/gitlab-org/quality/dri) to automate reporting handoff and surface useful triage information, such as newly created failures or feature flags enabled by environment.
+- The DRI can make use of the [dri gem](https://gitlab.com/gitlab-org/ruby/gems/dri) to automate reporting handoff and surface useful triage information, such as newly created failures or feature flags enabled by environment.
 - Be aware that failing reliable and smoke specs in staging/canary will block the deployer pipeline and may be treated as production incidents.
 
 ### Schedule
