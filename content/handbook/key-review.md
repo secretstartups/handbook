@@ -21,7 +21,7 @@ A forum for members of [E-Group](/handbook/company/team/structure/#executives), 
 
 ## Timing
 
-Key Reviews are once per quarter. 
+Key Reviews are once per quarter.
 
 ## Scheduling
 
