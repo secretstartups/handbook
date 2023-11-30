@@ -35,6 +35,7 @@ Follow these steps to create a new ticket to start communications with a custome
   - For the ticket **requestor**, use the first operational email address listed.
   - **CC** the other operational email addresses and the Customer TAM.
   - Set the **Preferred Region for Support** to the region similar to where the tenants' `Primary Region` is located in.
+  - Add a `dedicated_contacted_request` **tag** to the ticket.
 - Once the first response has been submitted, change the Zendesk Form over to `GitLab Dedicated`.
 
 ## Keep the customer informed
