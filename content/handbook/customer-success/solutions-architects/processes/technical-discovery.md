@@ -4,13 +4,6 @@ title: Technical Discovery
 ---
 
 
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
-
 # Technical Discovery
 
 

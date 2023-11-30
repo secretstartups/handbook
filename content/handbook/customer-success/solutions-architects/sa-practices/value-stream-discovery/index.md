@@ -1,26 +1,32 @@
 ---
 
-title: Value Stream Assessments
+title: Value Stream Discovery
 ---
 
 
+When working with GitLab, many prospects and customers have software delivery performance improvements as critical business outcomes. Unfortunately, due to the inherent and increasing complexity in the software delivery process, an organization's software delivery value streams often consist of dozens, if not hundreds, of manual configuration touch points and handoffs. Typically, there is a lack of visibility and understanding into the current process, making it challenging to identify and measure software delivery improvements. Without understanding the current software development value streams, organizations risk putting time, effort and money into areas that will not improve their software delivery capability in any meaningful way.
 
+GitLab account teams should offer to assist prospects and customers in helping to provide an overview and understanding of their value stream(s).
 
+The content on this page outlines the various approaches, tools, and artifacts we have available to help achieve a better understanding of our prospects and customers value streams. With this better understanding of the current state; identifying bottlenecks and establishing a baseline measurement of software delivery performance, GitLab can ensure our prospects and customers can achieve their critical business outcomes through implementation of impactful changes and improvements, delivered quickly and continuously.
 
+## Approaches
 
-{{% include "includes/solutions-architects-navigation.md" %}}
+At GitLab, the Value Stream Discovery process can be tailored to accommodate the diverse needs of our clients, ranging from basic discussions to elaborate explorations filled with metrics and data.
 
+The journey might commence with a straightforward conversation, offering initial insights into software delivery challenges and business goals impacted. Another, more detailed starting point, could involve multiple discussions with various teams, providing a holistic yet concise view of the current software delivery processes, yet without delving deeply into metrics. An alternative more 'hands-on' experience could be in the form of a full-day session, focusing on 'a day in the life' of a developer, offering practical insights into daily workflows. Finally, for those who require a strategic, in-depth and outcome driven approach, we offer comprehensive, executive-sponsored workshops. These structured, multi-day, multi-team events present an end-to-end overview of the entire value stream, complete with detailed metrics and tailored recommendations. 
 
-# Value Stream Assessments
+This spectrum of approaches, from simple dialogues to intensive workshops, ensures that we can adapt to the varying depths of engagement required, with a constant aim to deliver relevant and impactful insights for enhancing our clients' software delivery efficiency and effectiveness.
 
+## Value Stream Discovery Sessions
 
-When working with GitLab, many prospects and customers have software delivery performance improvement as a critical business outcome. Unfortunately, due to the inherent and increasing complexity in the software delivery process, an organization's software delivery value stream often consists of dozens, if not hundreds, of manual configuration touch points and handoffs. Usually, there is a lack of understanding and visibility into the current process, making it challenging to identify and measure software delivery improvements. Without understanding the current software development value stream, organizations risk slower progress in improving their software delivery performance.
+TBD.
 
-Where applicable, GitLab account teams should assist prospects and customers by providing an assessment of their value stream. The content on this page outlines the approaches, tools, and artifacts used to conduct a value stream assessment for our prospects and customers. By creating a better understanding of the current process by identifying bottlenecks and establishing a baseline measurement of software delivery performance, GitLab can ensure our prospects and customers can realize improvements more quickly and continuously.
+## Value Stream Workshop
 
-## Process
+### Process
 
-1. [Qualify the Opportunity for a value stream assessment](#qualify)
+1. [Qualify the Opportunity for a Value Stream Workshop](#qualify)
 1. [Educate potential participants and obtain commitment to the workshop](#education-and-commitment)
 1. [Prepare for the Value Stream Workshop](#prepare)
 1. [Initial customer positioning](#position)
@@ -31,38 +37,38 @@ Where applicable, GitLab account teams should assist prospects and customers by 
 
 ### Qualify
 
-Value stream assessments require a non-trivial investment of time by both the GitLab field teams and our prospects and customers. To ensure the appropriate return on this investment of time, the opportunities should meet the following criteria, and if not, please give any justification for why an exception should be made:
+Running a Value Stream Workshop requires a non-trivial investment of time by both the GitLab field teams and our prospects and customers. To ensure the appropriate return on this investment of time, the opportunities should meet the following criteria, and if not, please give any justification for why an exception should be made:
 
 - We have a strong relationship with an executive sponsor
-- The opportunity has a Net ARR value of over $500k (this is not applicable for Commercial Accounts)
 - The account has a total addressable market of at least 1000 GitLab users (100 users for Commercial Accounts)
 - The prospect or customer is focused on improving their software delivery performance or related practies (e.g., securing their software supply chain, cloud migrations, application modernization, developer experience and efficiency)
-- We have a relationship with the [economic buyer](https://about.gitlab.com/handbook/sales/meddppicc/#economic-buyer)
-- We have identified and established a relationship with the [champion](https://about.gitlab.com/handbook/sales/meddppicc/#champion)
-- We suggest positioning a Value Stream Assessment prior to POVs (Proof of Value) to understand bottlenecks, key metrics important to stakeholder. This also gives us an opportunity to agree to the success criterias before starting the POV as value drivers for deal closure.
+- We have a relationship with the [economic buyer](/handbook/sales/meddppicc/#economic-buyer)
+- We have identified and established a relationship with the [internal champion](/handbook/sales/meddppicc/#champion)
+- We suggest positioning a Value Stream Workshop prior to POVs (Proof of Value) to understand bottlenecks, key metrics important to stakeholder. This also gives us an opportunity to agree to the success criterias before starting the POV as value drivers for deal closure.
 
 
 Key indicators that the opportunity is well-suited include:
 
 - There is a specific initiative to accomplish one or more of the following by a specific date
-    - Modernize a specific application or applications
-    - Deliver a new critical application to the market
+    - Improve developer experience and efficiency
     - Transform or objectively improve their ability to deliver software
     - Modernize their DevOps capabilities
-    - Migration to the cloud
     - Security their software supply chain
-    - Improve developer experience and efficiency
+    - Modernize a specific application or applications
+    - Deliver a new critical application to the market
+    - Migration to the cloud
+        
 - The customer is currently using some features of GitLab and is interested in how leveraging more of the platform will drive software delivery outcomes
-- For customer success, a value stream assessment should help uncover opportunities to expand into new use cases or improve current adoption by identifying bottlenecks in the current software delivery value stream
+- For customer success, a value stream workshop should help uncover opportunities to expand into new use cases or improve current adoption by identifying bottlenecks in the current software delivery value stream
 - An existing customer shows interest in adopting our value stream analytics feature to drive software delivery performance
 
-The scope of a value stream assessment should always be clearly defined. A clearly defined scope ensures that the correct people are being included in the team and reduces the risk of time lost agreeing what should be focussed on. For this reason, the scope of a GitLab facilitated assessment must always be within the DevSecOps space.
+The scope of a value stream workshop should always be clearly defined. A clearly defined scope ensures that the correct people are being included in the team and reduces the risk of time lost agreeing what should be focussed on. For this reason, the scope of a GitLab facilitated workshop must always be within the DevSecOps space.
 
 ### Education and Commitment
 
-A successful Value Stream Assessment requires a commitment to the workshop by the software delivery stakeholders and the personnel experienced with the various processes that constitute their value stream. Without understanding the assessment process and its value to their organization, key participants will lack the commitment to ensure a successful value stream assessment. Educate the prospect or customer on the benefits, process details, and the required commitment. Leverage the [Value Stream Assessment Positioning Deck](https://docs.google.com/presentation/d/1dOy-YGmsQio3v4EVjhFoCJWekzG0Z8PIpwsqliTyku0/edit?usp=sharing) - ([Recording](https://youtu.be/oxYjSrYLML4)) by customizing it for the prospect or customer to assist with this step.
+A successful value stream workshop requires a commitment to the workshop by the software delivery stakeholders and the personnel experienced with the various processes that constitute their value stream. Without understanding the process and its value to their organization, participants will lack the commitment to ensure a successful value stream workshop. Educate the prospect or customer on the benefits, process details, and the required commitment. Leverage the [Value Stream Workshop Positioning Deck](https://docs.google.com/presentation/d/1dOy-YGmsQio3v4EVjhFoCJWekzG0Z8PIpwsqliTyku0/edit?usp=sharing) - ([Recording](https://youtu.be/oxYjSrYLML4)) by customizing it for the prospect or customer to assist with this step.
 
-_While a Value Stream Assessment is an advanced discovery workshop, it's expected that initial [opportunity discovery](https://about.gitlab.com/handbook/sales/playbook/discovery/) and [technical discovery](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/technical-discovery/) have been conducted._
+_While a Value Stream Workshop is an advanced discovery session, it's expected that initial [opportunity discovery](/handbook/sales/playbook/discovery/) and [technical discovery](/handbook/customer-success/solutions-architects/processes/technical-discovery/) have both been conducted prior._
 
 #### Key Benefits
 
@@ -73,43 +79,43 @@ _While a Value Stream Assessment is an advanced discovery workshop, it's expecte
     - Understand the return on investment of a value delivery platform
     - Promote collaboration amongst traditionally siloed functions within the DevSecOps lifecycle
 
-After the prospect or customer understands the process and its benefits, confirm commitment from the stakeholders and workshop participants by scheduling the facilitated workshop and/or interviews. Estimate the duration of the assessment and set the expectation that the documented value stream, recommendations, and readout will be delivered.
+After the prospect or customer understands the process and its benefits, confirm commitment from the stakeholders and workshop participants by scheduling the facilitated workshop and/or interviews. Estimate the duration of the discovery session and set the expectation that the documented value stream, recommendations, and readout will be delivered.
 
 #### What is The Required Time Commitment?
 
-Focusing on the goals and benefits listed above, the time required to complete a minimally viable value stream assessment will vary from organization to organization. The workshop should NOT require exhaustive discussion and research. Depending on the availability and commitment of the various value stream participants and stakeholders, the practice could take as little as 4 hours to complete or up to 15 hours spread out through multiple sessions over multiple days.
+Focusing on the goals and benefits listed above, the time required to complete a minimally viable value stream workshop will vary from organization to organization. The workshop should NOT require exhaustive discussion and research. Depending on the availability and commitment of the various value stream participants and stakeholders, the practice could take as little as 4 hours to complete or up to 15 hours spread out through multiple sessions over multiple days.
 
 ### Prepare
 
-#### Value Stream Assessment Tracking Issue
+#### Value Stream Workshop Tracking Issue
 
-The **very first step** when considering a Value Stream Assessment is to notify the Value Stream Assessment team of the intent, and provide as much information as possible regarding the prospect/customer. To do so:
+The **very first step** when considering a value stream workshop is to notify the Value Stream Discovery team of the intent, and provide as much information as possible regarding the prospect/customer. To do so:
 
-- Please create a new issue in [value stream assessment project](https://gitlab.com/gitlab-com/customer-success/value-stream-assessment)
+- Please create a new issue in [value stream discovery project](https://gitlab.com/gitlab-com/customer-success/value-stream-assessment)
 - Use the template labeled `request_value_stream_assessment`
 
-This gives the team at GitLab the ability to both track the progress of the Value Stream Assessment and allocate team members to the effort, a key requirement for the next preparation steps.
+This gives the team at GitLab the ability to both track the progress of the Value Stream Discovery and allocate team members to the effort, a key requirement for the next preparation steps.
 
 #### Internal Preparation Meeting
 
-It is extremely important to have an internal preparation meeting (can be async) prior to positioning a Value Stream Assessment to the customer. The goal of the meeting is to be able to discuss:
+It is extremely important to have an internal preparation meeting (can be async) prior to positioning a Value Stream Workshop to the customer. The goal of the meeting is to be able to discuss:
 - The opportunity (should include SFDC link for SA engagement)
 - The key players & their roles
 - What metrics are these key players measured by
 - Any OKRs for these key players that the account team is aware of
-- What will be the succesful outcome from a Value Stream Assessment
+- What will be the succesful outcome from a Value Stream Workshop
 - Pick key slides to deliver to customer
 - Pick key discovery questions to be asked during positioning & customer planning session
 - Important chorus recordings to review
-- Identify and communicate to a [GitLab Executive Sponsor](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#executive-sponsorship-program)
+- Identify and communicate to a [GitLab Executive Sponsor](/handbook/sales/field-operations/gtm-resources/#executive-sponsorship-program)
 
 ### Position
 
 The initial customer positioning allows us to position value stream assesment to our key stakeholders & get their buy in. The customer positioning should include:
-- What is a Value Stream Assessment?
-- What does a Value Stream Assessment entail?
-- Who are the key participants involved in the Value Stream Assessment?
-- What are some of the expected outcomes of a Value Stream Assessment for them?
+- What is a Value Stream Workshop?
+- What does a Value Stream Workshop entail?
+- Who are the key participants involved in the Value Stream Workshop?
+- What are some of the expected outcomes of a Value Stream Workshop for them?
 
 It is important to identify a project or few projects as next step for the planning meeting with customer.
 
@@ -153,7 +159,7 @@ Without the answers to these questions we risk spending significant time and ene
 | -------- | ------- |------- |
 | Scribe(s)  |A team member who's primary purpose is to document the session, capture key metrics as they emerge which will later be used to create a executive briefing template. |  AE, Shadow SA, CSM |
 | Facilitator |A team member fully versed in the Value Stream Mapping process who is responsible for leading the session; ensuring that discussion is staying on-topic, at the right level and at the required pace.    |  SA |
-| Account Leader |Ensure that the long term strategic vision for the prospect is considered when discussing desired future state and they can also provide additional context to the current state.  Schedule meetings with the Value Stream Assessment participants.  Send summary followup emails after each session ([template](https://docs.google.com/document/d/1Aq9J8akzXOngW2vP4GmObviZDP1lo9uRvbEl4ytxgQM/edit))Update VSA Tracking fields in Salesforce.| AE |
+| Account Leader |Ensure that the long term strategic vision for the prospect is considered when discussing desired future state and they can also provide additional context to the current state.  Schedule meetings with the Value Stream Workshop participants.  Send summary followup emails after each session ([template](https://docs.google.com/document/d/1Aq9J8akzXOngW2vP4GmObviZDP1lo9uRvbEl4ytxgQM/edit))Update VSA Tracking fields in Salesforce.| AE |
 
 #### Process
 
@@ -213,21 +219,21 @@ The process which we will go through, at a high level, is as follows  (per funct
 
 ### Executive Briefing - Summarize the Findings
 
-The final meeting as part of the Value Stream Assessment process is the findings and next steps presentation (though it's called an executive presentation, it's expected to be a two-way discussion). The high level topics of this meeting are:
+The final meeting as part of the Value Stream Workshop process is the findings and next steps presentation (though it's called an executive presentation, it's expected to be a two-way discussion). The high level topics of this meeting are:
 
 1. Summary of planning outcomes; what process was to be mapped and what target goals were created
 1. Summary of the current state mapping (with VSM diagram)
 1. Summary of the proposed future state mapping (with VSM diagram)
 1. Highlight the key differences, expected process and business benefits
 1. Walkthrough of recommendations
-1. Walkthrough and gain agreement for the transformation plan. The transformation plan should be built in conjunction with professional services to yield best results. Please read how to position professional services in an opportunity [here](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/#positioning-professional-services)
+1. Walkthrough and gain agreement for the transformation plan. The transformation plan should be built in conjunction with professional services to yield best results. Please read how to position professional services in an opportunity [here](/handbook/customer-success/solutions-architects/processes/#positioning-professional-services)
 1. Define next steps and suggest a review date
 
 Example template of the executive briefing can be found [here](https://docs.google.com/presentation/d/130KJLxGJlVxU0CiuofLwaPV7rV-_uEC31FV8xf62mCg/edit?usp=sharing). Please modify accordingly to suit your customer's need.
 
 It is recommended to review the executive briefing with your champion, key stakeholder before the final meeting to collect additional feedback. The goal is to then deliver it jointly to the broader team to gain agreement.
 
-## FAQs from customers/prospects
+### FAQs from customers/prospects
 
 1. What's in it for me - the customer?
 
@@ -237,10 +243,10 @@ It is recommended to review the executive briefing with your champion, key stake
 
 1. What are typical outcomes for a customer?
 
-    - For one medical device company in Silicon Valley, doing a Value Stream Assessment provided them with a tangible adoption plan to decrease their release cycle from 6 months to 1 months. It was specific, actionable, and realistic. 
-    - For a financial service bank, doing a Value Stream Assessment provided them with a comparison of their process with their peers, and the clear path forward to improve their processes, and ultimately allowed them to achieve a desired ROI of releasing software faster while increasing quality.
+    - For one medical device company in Silicon Valley, doing a Value Stream Workshop provided them with a tangible adoption plan to decrease their release cycle from 6 months to 1 months. It was specific, actionable, and realistic. 
+    - For a financial service bank, doing a Value Stream Workshop provided them with a comparison of their process with their peers, and the clear path forward to improve their processes, and ultimately allowed them to achieve a desired ROI of releasing software faster while increasing quality.
 
-    - Financial Services customers have realized the below outcomes when coupling a Value Stream Assessment with GitLab investment: 
+    - Financial Services customers have realized the below outcomes when coupling a Value Stream Workshop with GitLab investment: 
         - Faster time to market
         - Increase deployment frequency
         - Reduced lead time to change
@@ -256,7 +262,7 @@ It is recommended to review the executive briefing with your champion, key stake
 
 1. That's a lot of time investment from our teams Or Our teams are busy with other projects.
 
-    - It takes 1 or 1.5 hr per team to do focused discovery for a Value Stream Assessment. We interviewed 4 different teams for our silicon valley customer in 4.5 hrs. We can start with the least busy team if you don't want it to be pursued in a group setting.
+    - It takes 1 or 1.5 hr per team to do focused discovery for a Value Stream Workshop. We interviewed 4 different teams for our silicon valley customer in 4.5 hrs. We can start with the least busy team if you don't want it to be pursued in a group setting.
 
 1. Can you interview 1 team at a time?
 
@@ -264,7 +270,7 @@ It is recommended to review the executive briefing with your champion, key stake
 
 
 
-## Salesforce Tracking
+### Salesforce Tracking
 
 [Three minute video overview](https://youtu.be/k_pJJuk-qTE) covering the fields and process described below.
 
@@ -286,22 +292,22 @@ The Account Leader (AE) is responsible for maintaining the Salesforce opportunit
 - **VSA URL** - The URL to the the google drive folder containing the readout presentation and any other VSA artifacts.
 - **VSA Start Date Net ARR** - (Auto populated field) The opportunity Net ARR when the VSA start date is populated.  
 
-Solutions Architects should leverage the following [SA Actiity Types](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#description-for-value-stream-assessment) when [loggin activity](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#description-for-value-stream-assessment)  
+Solutions Architects should leverage the following [SA Actiity Types](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#description-for-value-stream-workshop) when [loggin activity](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#description-for-value-stream-workshop)  
 
 - VSA Pitch
 - VSA Execution
 
-## Training and Enablement
+### Training and Enablement
 
 The single source of truth for training and VSA artifacts can be found on the associated [HighSpot page](https://gitlab.highspot.com/items/6418507b8913729120197bbf).
 
-### Value Stream Assessment Overview
+#### Value Stream Workshop Overview
 
 This course is designed to provide an overview of how GitLab account teams should assist prospects and customers by providing a lightweight assessment of their value stream. The course outlines the approaches, tools, and artifacts used to conduct a value stream assessment for our prospects and customers.
 
-- [GitLab Value Stream Assessment Accreditation on LevelUp](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/value-stream-assessment-accreditation)
+- [GitLab Value Stream Workshop Accreditation on LevelUp](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/value-stream-assessment-accreditation)
 
-### Past Enablement
+#### Past Enablement
 - [2023-03-23 Webcast - Winning With Value Stream Assessments - Jonathan Fullam](https://gitlab.highspot.com/items/641d1b3c054fb79cebe7288f)
 - [2022-02-03 Webcast - Value Stream Assessment - Simon Mansfield, Reshmi Krishna](https://youtu.be/jfM3AG6dBFY)
 
@@ -310,7 +316,7 @@ This course is designed to provide an overview of how GitLab account teams shoul
 In the spirit of collaboration and iteration, please help to continuously improve this framework. Ways to contribute include:
 
 - Create a merge request to improve this page
-- Add feedback or tasks to the [Value Stream Assessment Issue](https://gitlab.com/gitlab-com/customer-success/solutions-architecture-leaders/sa-initiatives/-/issues/44)
+- Add feedback or tasks to the [Value Stream Workshop Issue](https://gitlab.com/gitlab-com/customer-success/solutions-architecture-leaders/sa-initiatives/-/issues/44)
 - Share your experiences in the **#customer-success** and **#solutions-architects** slack channels
 - Provide feedback and/or updates to the positioning deck or provide links to your own variations
 - Provide links to your facilitation recordings, summary documentation, and/or other artifacts to this page

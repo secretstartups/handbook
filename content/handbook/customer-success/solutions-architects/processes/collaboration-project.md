@@ -4,8 +4,6 @@ title: Solutions Architecture Collaboration Project
 description: >-
   Collaboration project with the customer and product as a forum to discuss
 ---
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 
 # SA Collaboration Project
 

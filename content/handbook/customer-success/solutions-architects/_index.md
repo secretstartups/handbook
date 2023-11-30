@@ -5,17 +5,11 @@ description: "Solutions Architects (SA) are the trusted advisors to GitLab prosp
 ---
 
 
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 ## Solutions Architecture Mission
 
 To drive our customers' success through technical and business consultation. 
 
-While using technical and domain-specific expertise, Solutions Architects strive to become [trusted advisors](https://about.gitlab.com/handbook/customer-success/solutions-architects/#trusted-advisors) to our prospects, customers, and partners. Solutions Architects have the following primary objectives:
+While using technical and domain-specific expertise, Solutions Architects strive to become [trusted advisors](/handbook/customer-success/solutions-architects/#trusted-advisors) to our prospects, customers, and partners. Solutions Architects have the following primary objectives:
 
 - Gain a deep technical understanding of our customers biggest challenges, the impacts they have on their business, and collaborate as a strategic partner when determining the most effective solutions
 
@@ -39,7 +33,7 @@ In addition, SA's identify and propose comprehensive solutions to complex busine
 Our Field SA's also engage proactively with existing GitLab customer to provide thought-leadership, engage in innovative solutions, collaborate around evangalism activities around unique customer requirements (i.e. meetups and presentations) and continously seek market feedback to improve the GitLab platform.
 
 ### Strategic Field Organization
-The [Strategic Field Organization](https://about.gitlab.com/handbook/customer-success/solutions-architects/strategic-field-org/) is a team of [Principal Solutions Architects](/job-families/sales/solutions-architect/#principal-solutions-architect-responsibilities) that support global strategic sales opportunities and customers. This team collaborates with the regional account teams to work together on large engagements that require a higher degree of strategic planning, consulting, executive-level technical leadership, and internal GitLab cross-departmental collaboration.
+The [Strategic Field Organization](/handbook/customer-success/solutions-architects/strategic-field-org/) is a team of [Principal Solutions Architects](/job-families/sales/solutions-architect/#principal-solutions-architect-responsibilities) that support global strategic sales opportunities and customers. This team collaborates with the regional account teams to work together on large engagements that require a higher degree of strategic planning, consulting, executive-level technical leadership, and internal GitLab cross-departmental collaboration.
 
 ### Alliance & Channel Solutions Architects
 [Alliance and Channel Solutions Architects](/job-families/sales/solutions-architect/#specialties) are the trusted advisors to our channel resellers, professional services partners, and strategic alliances partners. The focus of this team is to develop relationships and provide technical assistance and leadership to drive joint GTM strategies. This team helps grow and strengthen the partner ecosystem by building new capabilities and growing GitLab revenue together with partners.
@@ -58,13 +52,13 @@ See the [Solutions Architect role description](/job-families/sales/solutions-arc
 
 ### Demo Architects 
 
-- [Demo Architect Offerings](https://about.gitlab.com/handbook/customer-success/solutions-architects/demo-architect/)
+- [Demo Architect Offerings](/handbook/customer-success/solutions-architects/demo-architect/)
 
 Demo Architects are tasks with maintaining public facing demo content (Workshops/Hands on Labs/ Pre-baked demos) as well as running the systems these events run on. There main goal is to create processes & new tools to help assist & enable Solution Architects when selling to customers.
 
 ### SA Managers 
 
-- [SA Manager Process](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-manager/)
+- [SA Manager Process](/handbook/customer-success/solutions-architects/sa-manager/)
 
 The Field and Alliance/Channels SA Management (referred as SA management going forward) around the globe collaborates around unique requirements, identifies improvements in the go-to-market approaches and focussed on prioritises on strategies to address the market's requirements. The SA management is aligned in the interest of technical matters to address exisiting needs raised by customers and priotise on innovative requirements. The SA management will collaborate with product teams to achieve required outcomes.  
 
@@ -75,9 +69,9 @@ Being a Trusted Advisor is referencing a role/skill that a person takes on when 
 > **Building Trust (Trusted Advisor)**:  
 > Connects with key stakeholders on both a personal and professional level and shows up as a credible and reliable champion for customers. Effectively positions GitLab as a partner to the customer rather than just another vendor with a focus on following through on commitments and delivering results.
 >
-> --<cite> [Solution Focus Field Competency](https://about.gitlab.com/handbook/sales/training/field-functional-competencies/#solution-focus)
+> --<cite> [Solution Focus Field Competency](/handbook/sales/training/field-functional-competencies/#solution-focus)
 
-For more information and development see the "Trusted Advisor Skill Development", [Community of Practice](https://about.gitlab.com/handbook/customer-success/initiatives/communities-of-practice.html#active-communities-of-practice)
+For more information and development see the "Trusted Advisor Skill Development", [Community of Practice](/handbook/customer-success/initiatives/communities-of-practice.html#active-communities-of-practice)
 
 
 ## Changing the Solutions Architects Handbook Content

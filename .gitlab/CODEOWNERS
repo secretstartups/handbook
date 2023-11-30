@@ -1,7 +1,7 @@
 #####
 # Quick intro to Codeowners
 #
-# The formmat is:
+# The format is:
 # [section]
 # /<directory> <gitlab-user>
 #
@@ -410,6 +410,10 @@
 /content/handbook/security/security-engineering/automation.md  @agroleau
 /content/handbook/security/security-engineering/infrastructure-security.md @joe-dub
 /content/handbook/security/security-engineering/security-logging/ @joe-dub
+
+^[solutions-architects]
+/content/handbook/customer-success/solutions-architects/ @sa-leaders
+/content/handbook/customer-success/solutions-architects/sa-practices/value-stream-discovery/ @simon_mansfield @reshmikrishna @jfullam
 
 [support]
 /content/handbook/support/ @gitlab-com/support @gitlab-com/egroup @gitlab-com/handbook

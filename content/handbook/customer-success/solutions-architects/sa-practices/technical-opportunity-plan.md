@@ -4,12 +4,6 @@ title: Technical Opportunity Plan
 ---
 
 
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 # Technical Opportunity Plan
 
 
@@ -32,7 +26,7 @@ Within the template, the following primary slides will be found:
 - [Known Risks](#known-risks)
 
 ### Business Outcomes
-On one side, you’ll want to mention the customer's critical business needs and outcomes. Here you should focus on the customer rather than what GitLab provides. The second half of the slide will map actions, focus areas, and features to initiatives and then to Value Drivers. GitLab’s value drivers can be found [here](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers). 
+On one side, you’ll want to mention the customer's critical business needs and outcomes. Here you should focus on the customer rather than what GitLab provides. The second half of the slide will map actions, focus areas, and features to initiatives and then to Value Drivers. GitLab’s value drivers can be found [here](/handbook/sales/command-of-the-message/#customer-value-drivers). 
 
 ### Notional Architecture
 You’ll want to create two notional architectures capturing the current and proposed states here. What you choose to highlight here should be relevant information about the opportunity. 

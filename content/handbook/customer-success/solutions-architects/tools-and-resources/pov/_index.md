@@ -5,12 +5,6 @@ description: Proof of Value (POV)
 ---
 
 
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 ## Proof of Value (POV)
 
 Proof of value is a combination of technical evaluation and the communication of the expected business value of a solution.  The solution, its practical application, and how it drives specific business value are proven and documented through the POV process.
@@ -62,10 +56,10 @@ A POV is conducted with a GitLab trial license either using GitLab.com or a self
 
 SA working with SAE and AE can define the POV scope with the customer, with alignment to the business values and the GitLab solution. For each solution, the typical scope and acceptances are listed for reference but the team should define the scope, time and execution with acceptance for each engagement.
 
-- [DevSecOps](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/devsecops/)
-- [Software Compliance](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/compliance/)
-- [Automated Software Delivery](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/automation/)
-- and cumulatively, The DevOps [Platform](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/platform/)
+- [DevSecOps](/handbook/customer-success/solutions-architects/tools-and-resources/pov/devsecops/)
+- [Software Compliance](/handbook/customer-success/solutions-architects/tools-and-resources/pov/compliance/)
+- [Automated Software Delivery](/handbook/customer-success/solutions-architects/tools-and-resources/pov/automation/)
+- and cumulatively, The DevOps [Platform](/handbook/customer-success/solutions-architects/tools-and-resources/pov/platform/)
 
 ### Tracking a POV in Salesforce
 
@@ -111,7 +105,7 @@ Sales and SA leader participation in the POV approval process will ensure we can
 - When a new POV object is created, a notification is posted to the `#troops-pov-created` slack channel.
 - In addition to a weekly review of a region's ongoing POVs and technical win work, Area sales and SA leaders monitor the `#troops-pov-created` slack channel for new POVs.  When a new POV is created, asynchronous or synchronous collaboration on the quality of the opportunity commences.
 - The ASM or SA Manager marks the POV for approval via the Salesforce object or through a troops action in Slack.
-- The ASM or SA Manager will query about plans to position professional services at this stage. All SAEs/SAs are required to position Professional services in opportunities with a qualified POV to guarantee continued success for the customer. Please read more about how to positon [here](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/#positioning-professional-services)
+- The ASM or SA Manager will query about plans to position professional services at this stage. All SAEs/SAs are required to position Professional services in opportunities with a qualified POV to guarantee continued success for the customer. Please read more about how to positon [here](/handbook/customer-success/solutions-architects/processes/#positioning-professional-services)
 
 ### POV Best Practices
 
@@ -151,11 +145,11 @@ Below is best practice guidance for conducting each type of POV. These processes
 
 - SA: Ensure the customer architecture is prepared to support the POV (if self-managed)
 - SA: Ensure customer network has access to GitLab.com (if SaaS evaluation)
-- SA: Customer Success project is created in GitLab as per the [CSM Handbook page](https://about.gitlab.com/handbook/customer-success/csm/#to-start-a-new-customer-engagement)
+- SA: Customer Success project is created in GitLab as per the [CSM Handbook page](/handbook/customer-success/csm/#to-start-a-new-customer-engagement)
 - SA: POV document is created if this is required by the customer, otherwise default to the Customer Success project
 - SA: Ensure POV goals and business outcomes are clearly identified prior to kickoff
 - SA: For the largest strategic opportunities, notify GitLab Support of POV dates, customer, and other relevant information using the applicable Slack channel related to Self-Managed or GitLab.com support
-- SAE/AE: Opportunity updated in Salesforce, set to Stage 3-Technical Evaluation, with POV Information entered per the [handbook](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/)
+- SAE/AE: Opportunity updated in Salesforce, set to Stage 3-Technical Evaluation, with POV Information entered per the [handbook](/handbook/sales/field-operations/gtm-resources/)
 - SAE/AE: Signed NDA by the legal team if required
 - SAE/AE: Review [Customer Assurance Package](https://about.gitlab.com/security/cap/) with customer (if SaaS evaluation)
     - The Customer Package requires an NDA, and contains commonly requested security information (SOC2, Penetration Test Results, etc) and can be requested via a [Field Security Issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/customer-assurance-activities/caa-servicedesk/-/issues/new?issuable_template=Security%20Documents%20CAA)
@@ -315,7 +309,7 @@ Commercial Sales POV's are commonly executed as a variety of the Lite POV, thoug
 
 ### Commercial Sales - POV and Customer Success Plan Creation
 
-- Create and track the POV in Salesforce according to [this process](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/#tracking-a-pov-in-salesforce)
+- Create and track the POV in Salesforce according to [this process](/handbook/customer-success/solutions-architects/tools-and-resources/pov/#tracking-a-pov-in-salesforce)
 - Create a new [customer project](https://gitlab.com/gitlab-com/account-management/commercial/pre-sales) in the Commercial/Pre-sales group. To use the template, select the 'Create from Template' tab, select the 'Group' templates, and then click 'Use template' for the 'New Customer Project - Commercial Sales' template.
 - Edit README.md with information specific to POV under the Proof of Value section and fill in any additional relevant fields.
 - Upon completion of POV, update Salesforce record with POV result as successful or unsuccessful and provide supportive reasons in the associated freeform fields

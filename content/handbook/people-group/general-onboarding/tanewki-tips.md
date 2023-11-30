@@ -86,7 +86,8 @@ As point 36 on our [communication handbook page](/handbook/communication/#writin
 
 | Acronym| Word/Saying/Title |
 |:---------------|:---------------|
-| VSA |  [Value Stream Assessment](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments) |
+| VSD |  [Value Stream Disovery](/handbook/customer-success/solutions-architects/sa-practices/value-stream-discovery) |
+| VSW |  [Value Stream Workshop](/handbook/customer-success/solutions-architects/sa-practices/value-stream-discovery/#value-stream-workshop) |
 | L28D |  Short form for "Last 28 days". |
 
 **People Group Related Acronyms**

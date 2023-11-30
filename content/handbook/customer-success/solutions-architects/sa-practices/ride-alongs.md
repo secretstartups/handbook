@@ -5,14 +5,6 @@ description: "Ride alongs allow for Solutions Architects to learn from one anoth
 ---
 
 
-
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
-
 # Ride Alongs
 
 
@@ -94,7 +86,7 @@ Passengers debriefing after a customer call should:
 
 ##### Troops Feedback Template
 
-Record your ride along activity in Troops as a call to **the account** (and not the opportunity) with the [appropriate activity type](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/). Recording at the account level is required because ride alongs that are inter-segment or inter-region will not have their opportunities available to the riders. 
+Record your ride along activity in Troops as a call to **the account** (and not the opportunity) with the [appropriate activity type](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/). Recording at the account level is required because ride alongs that are inter-segment or inter-region will not have their opportunities available to the riders. 
 The following can be used to guide how you record the description of your
 troops activity.
 
