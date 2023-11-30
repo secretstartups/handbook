@@ -199,6 +199,44 @@ To create a new content type:
 1. Fill in the details for your new content type, and choose a template based off one of the existing content types in the platform. When you've added all relevant information, click `Save`.
 1. Now, when you go to add a new item of content, you will be able to select your new content type as an option from which to start building.
 
+### Page Types
+
+Level Up's native content creation functionality allows for complex course creation using a variety of content types in order to help create learning experiences that are varied, interactive, and fun. Here are a list of the different page types that you can utilise when creating a course in Level Up
+
+#### Content Pages
+
+- **Text** - Add a page of simple text using a WYSIWYG editor to include images, links, embeds, etc. within the page. Used to embed handbook pages within an iframe.
+- **Slideshow** - Create your own in-platform slide deck with text, audio and images.
+- **Presentation** - Upload existing presentations or slides with accompanying audio files/ text for each slide.
+- **Video** - Present learners with video content along with captions and additional text.
+- **List Roll** - Present large amounts of content in a clear list and topic format.
+- **PDF Viewer** - Share and display PDF files directly after one easy upload.
+- **Audio** - Upload an audio file with a single image.
+
+#### Interactive Pages
+
+- **Interactive** - Breakdown an image into multiple parts using interactive hotspots
+- **Assignemnt** - Create, assign and collect work for learners
+- **Flip Cards** - Present content and imagery using interactive tiles that learners can click on to flip
+- **Note Book**. - Give your learner the ability to take notes or reflect on content privately within a course
+- **Highlight Zones** - Present learners with an interactive image with additional context
+- **Highlight Zone Challenge** - Challenge learners using an interactive image with headers as clues
+- **Match Pairs** - Engage learners to match associated content cards. This also makes for a great study tool.
+- **Discussion Board** - Prompt discussions among learners using discussion prompts.
+
+#### Assessment Pages
+
+- **Quiz** - Assess learner knowledge added teaching tools like hints, multiple attempts and the ability to review assessment results.
+- **Test** - Assess your learners knowledge and allow them to review their results after completion.
+- **Survey** - Collect learner feedback through a configurable assessment.
+- **Reflection** - Create a virtual or printable reflection for your learners to use as a learning or organizational tool.
+- **Tally** - Use this score tier based assessment tool to present information that varies based on learner selected responses.
+
+#### Other
+
+- **SCORM / xAPI** - Present an embedded SCORM file or set it to launch in a new window.
+- **HTML Embed** - Create a page from scratch or embed 3rd party content using HTML.
+
 ### Manually assigning completion to a user
 
 1. Go to Users > Learners and search for the relevant user
