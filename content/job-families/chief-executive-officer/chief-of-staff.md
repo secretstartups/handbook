@@ -51,7 +51,7 @@ The responsibilities include both directed work that will mostly be triggered by
 1. Capacity to be a [senior leader](/handbook/company/team/structure/#senior-leaders) at GitLab.
 1. Proven ability to quickly learn new things.
 1. Concise written and verbal communication.
-1. Ability to work during PST friendly hours.
+1. Ability to work during Pacific Time (PT) friendly hours.
 1. Structured about how to prioritize work and time.
 1. Able to make a clear business case for proposals.
 1. Master’s degree in Engineering or Business Administration or equivalent experience.
