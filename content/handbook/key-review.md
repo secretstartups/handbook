@@ -36,7 +36,7 @@ A Key Review does not need to be scheduled if everything is on track and awarene
 ## Invitees
 
 Required invites are the CEO, the CFO, and the function head.
-Optional attendees are all other members of [the e-group](/handbook/company/team/structure/#e-group), [VP-Directs](/handbook/company/structure/#vp-directs-group), the Chief of Staff to the CEO, and other folks as designated by their E-Group member. 
+Optional attendees are all other members of [the e-group](/handbook/company/team/structure/#e-group), [VP-Directs](/handbook/company/structure/#vp-directs-group), the Chief of Staff to the CEO, and other folks as designated by their E-Group member.
 
 Key Review Meetings may contain MNPI. As materials are limited access, participation is limited.
 
