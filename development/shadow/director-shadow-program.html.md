@@ -163,7 +163,7 @@ No, not at this time.
 | January 8 |  [Sameera Perera](https://www.linkedin.com/in/perera-sameera) | Non-GitLab Shadow - Director of R&D @ Celigo |
 | January 15 | Available | |
 | January 22 | Available | |
-| January 29 | Available | |
+| January 29 | [Carla Drago](https://gitlab.com/carlad-gl) | Senior Backend Engineer |
 
 
 ## Shadow Alumni
