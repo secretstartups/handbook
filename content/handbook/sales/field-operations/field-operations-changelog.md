@@ -16,6 +16,9 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q4-FY24
 
+### 2023-12-18 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/427))
+
+
 ### 2023-12-04 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/424))
 
 **[Update to Clari Session Timeout Configuration](https://internal.gitlab.com/handbook/sales/sales-tools/sales-forecasting/#logging-into-clari)**
