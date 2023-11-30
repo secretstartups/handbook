@@ -58,7 +58,7 @@ Sometimes, legal review entails two separate reviews:
 
 ### Turnaround time
 
-The Legal & Corporate Affairs Team aims to complete single material reviews within two business days of submission. The turnaround time for multiple materials reviews will depend on the volume of material submitted for review.
+The Legal & Corporate Affairs Team aims to complete single material reviews within two business days of submission (note: business days used here and elsewhere in the Materials Legal Review Process means United States business days). The time to complete a review is subject to (i) the submission being complete (i.e., no missing materials and all other approvals are in place before legal review), and (ii) the volume of the material submitted for review. The turnaround time for multiple materials reviews will depend on the volume of material submitted for review.
 
 ### Two-track process
 
@@ -103,14 +103,14 @@ Follow this process to obtain legal review of a **single piece of material**. A 
     <!-- if the materials are subject to mandatory review, or do not comply with the SAFE Framework or IP Guidelines, skip to the next question -->
     
     ## Due date for review
-    <!-- State the due date for review, noting that the Legal & Corporate Affairs Team requires at least two business days to complete a review. -->
+    <!-- State the due date for review, noting that the Legal & Corporate Affairs Team requires at least two business days to complete a review. See note above under Turnaround Time regarding the two business day review cycle. -->
     ```
 
 1. If no working issue already exists, complete the [single material legal review issue template](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=single-material-legal-review), following the instructions in the template.
 
 1. Note that:
    - To obtain the review appropriate to your proposed use, you must tag the correct Legal & Corporate Affairs Team members in the issue description ([`@sfriss`](https://gitlab.com/srissmiller) for internal materials, and [`@sfriss`](https://gitlab.com/srissmiller) and [`@LeeFalc`](https://gitlab.com/LeeFalc) for external materials). IP review is not required for materials created for internal use, only SAFE review is required. Internal use and external use are [defined here](#external-vs-internal-use).
-   - The Legal & Corporate Affairs Team aims to review materials **within two business days of submission**; clearly state the due date when creating the issue as the template requires.
+   - The Legal & Corporate Affairs Team aims to review materials **within two business days of submission**; clearly state the due date when creating the issue as the template requires. The time to complete a review is subject to (i) the submission being complete (i.e., no missing materials and all other approvals are in place before legal review), and (ii) the volume of the material submitted for review.
 
 1. Put a link in the material being reviewed to the legal review issue or comment you created:
    - Google Docs: add the link at the top of the first page of the doc.
@@ -136,7 +136,7 @@ Follow this process to obtain legal review of **multiple pieces of material** wi
 1. Complete the [multiple materials review issue template](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=multiple-materials-legal-review), following the instructions in the template. Note that:
    - IP review is not required for materials created for [internal use](#external-vs-internal-use), only SAFE review is required;
    - For a given related purpose (like an event), only one multiple materials review issue needs to be created;
-   - For multiple materials legal review requests involving five or fewer pieces of material, legal aims to complete the review within 5 business days of submission; and
+   - For multiple materials legal review requests involving five or fewer pieces of material, legal aims to complete the review within 5 business days of submission; as noted above, the time to complete a review is subject to (i) the submission being complete (i.e., no missing materials and all other approvals are in place before legal review), and (ii) the volume of the material submitted for review; and
    - For multiple materials legal review requests involving more than five pieces of material, the DRI must, no less than 5 business days before the materials will be ready for review, (i) notify the Legal & Corporate Affairs Team in [#legal](https://app.slack.com/client/T02592416/C78E74A6L) of the upcoming event, and (ii) arrange a sync with the Team to agree a timeline for the completion of the review.
 1. As each of piece of material is ready for review, make a comment in the issue which:
    - Tags the appropriate reviewers ([`@sfriss`](https://gitlab.com/srissmiller) for internal materials, and [`@sfriss`](https://gitlab.com/srissmiller) and [`@LeeFalc`](https://gitlab.com/LeeFalc) requesting review);
