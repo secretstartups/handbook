@@ -295,6 +295,8 @@ GitLab Team Members leverage [Individual Use Software](/handbook/finance/procure
 
 Commonly requested individual-use software is added to the Pre-Approved Application Listing located [here](/handbook/finance/procurement/personal-use-software/#pre-approved-individual-use-software-requests). This listing is used to document approved vendors, their data classification, and the expiration of their most recent TPRM assessment where applicable. Assessments that have aged out are re-performed on an ad-hoc basis or upon entry of a new procurement request.
 
+Orange Individual-Use Software is assessed under a reduced scope in consideration of vendor resourcing and the limited scope of usage wihtin GitLab. See the **TPRM Assessment Requirements** section above for more detail on requirements for these vendors. Assessors are encouraged to perform a full-scope assessment if they feel one is warranted.
+
 #### Independent Assessments
 
 Want to vet a third party before initiating a new procurement request? [Click here to open a new Third Party Risk Intake Request](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new?issuable_template=TPRM%20Intake%20Request).
