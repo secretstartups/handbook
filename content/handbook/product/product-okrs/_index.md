@@ -105,12 +105,12 @@ Product groups should limit the number of OKRs they commit to so they have reaso
 
 This aligns with a focus on outcomes and business results instead of KRs tracking tasks or launches.
 
-## Organizational Structure of OKRs
+### Organizing Product OKRs in GitLab
 
-The R&D org as a whole encompasses many stages, groups, and teams. As a result, it can be challenging to track all OKRs in one place. As of Q4FY24, we are using the following organizational structure to track our OKRs in GitLab:
+Product Objectives and Key Results are drafted and entered into GitLab by PLT as per (/handbook/product/product-okrs/#timeline-and-process-for-every-quarter). This includes all Chief Product Officer level OKRs that the Product Division is tracking and reporting on. The R&D org as a whole encompasses many stages, groups, and teams. As a result, it can be challenging to track all OKRs in one place. As of Q4FY24, we are using the following organizational structure to track our OKRs in GitLab:
 
 - R&D's OKRs
-   - FY24Q4 Top Priority R&D OKRs
+   - FY24Q4 Top Priority R&D OKRs _(entered by PLT)_
       - Objective 1: [high priority item A]
          - KR1…
       - Objective 2: [high priority item B]
@@ -119,7 +119,7 @@ The R&D org as a whole encompasses many stages, groups, and teams. As a result, 
          - KR1…
       - Objective 4: [high priority item D]
         - KR1…
-   - FY24Q4 Other R&D OKRs
+   - FY24Q4 Other R&D OKRs _(entered by all stage/group leaders per area)_
       - Monetization & Operations
          - OKR1...
       - Sec & Data Science
@@ -128,6 +128,7 @@ The R&D org as a whole encompasses many stages, groups, and teams. As a result, 
          - OKR1...
       - Dev & Analytics
          - OKR1...
+
 
 
 ## Additional Resources
