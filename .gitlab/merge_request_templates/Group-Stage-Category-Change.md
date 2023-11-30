@@ -20,7 +20,7 @@ _**Note:** Chief Product Officer approval should be requested once all other app
 
 The following people need to be on the merge request so they stay informed:
 
-- [ ] Chief Product Officer `@joergheilig`
+- [ ] Chief Technology Officer `@joergheilig`
 - [ ] Development Leader relevant to the affected Section(s) `@timzallmann OR @bmarnane OR @meks`
 - [ ] VP of Infrastructure & Quality Engineering `@meks`
 - [ ] VP of UX `@david (Acting VP of UX leader)`
