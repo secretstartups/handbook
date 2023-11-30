@@ -1,5 +1,7 @@
 ---
-title: "Security incident communications plan"
+title: "Security Incident Communications Plan"
+description: " "
+weight: 40
 ---
 
 {{% alert title="This is a Controlled Document" color="danger" %}}

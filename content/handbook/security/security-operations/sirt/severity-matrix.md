@@ -1,6 +1,7 @@
 ---
-title: "Security Incident Classification"
-description: How we determine severity and priority within Security Incidents
+title: "Security Incident Severity and Priority Matrix"
+description: " "
+weight: 30
 ---
 
 Incidents will be classified using `Priority` and `Severity` labels.  SIRT will use the criteria defined below when assigning labels and the [SIRT Escalation Guide]({{< ref "sirt#-engaging-sirt" >}}) for escalations.
