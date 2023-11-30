@@ -1,6 +1,49 @@
 ---
 title: Enterprise Applications
 ---
+## CRM Systems, Director
+
+The CRM Systems, Director reports to the Senior Director, Enterprise Applications, and leads a team of highly-collaborative and results-oriented IT staff tasked with delivering global, high value IT applications across the company. The Director has the skills, experience, drive and passion to ensure that GitLab has the appropriate IT applications to achieve/exceed corporate objectives; to ensure business alignment with team members and sponsors; and to anticipate the needs of the business and scale the team to stay ahead of the curve. This position has deep technical skills in Salesforce and can drive the roadmap across the Sales Systems tech stack including such systems as Billing systems (Zuora, NetSuite), Marketing systems (Marketo), ZenDesk/Service Cloud/ServiceNow, Sales Enablement tools (WalkMe, SpekIt), CLM, and Integrations. This function challenges the status quo; thrives and is successful in a dynamic environment. This team member must be motivated and successful at mentoring by building and sustaining professional relationships at all levels of an organization. The Director has well-honed problem solving and decision making skills, is agile and adaptable, and can effectively manage change. This function is both strategic and tactical, can influence adoption, is results oriented, and has a strong client service orientation. The Director has the reputation for raising the bar in terms of quality and execution.
+
+### Job Grade
+
+CRM Systems, Director is a [grade 10](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/)
+
+### Responsibilities
+
+- Business Partnership: Influences leadership within the cross-functional team and assists in roadmap planning. Solid relationships with key stakeholders at the VP level.
+- Business Operations: Analyze and plan improvements in technical implementations to continue to deliver value to business partners. Drive the business to adopt recommended technical solutions
+- Document related processes and technical configurations in the handbook.
+- Technical Delivery: Provide hands-on, expert-level technical assistance to delivery teams. Drives adoption of technology and process changes. Drive end to end delivery on large, complex, cross-functional projects across multiple systems or integrations with minimal oversight.
+- Proactively provides recommendations for system improvements.
+- Project Management: Run the technical implementation of large-sized projects which improve our ability to make better data driven insights, or make the company more efficient. Drive intake and prioritization process for functional areas of expertise.
+- Communication: Target audience Director, Sr. Director, VP, with presentations targeted to CFO staff for critical projects.
+Mentorship: Build and manage global teams. Guide and coach team members. Mentors junior team members and models GitLab values for the team.
+- Measure, monitor, and maintain team’s ability to meet or exceed Service Level Agreements (SLA), Objectives and Key Results (OKRs), and Key Performance Indicators (KPIs). Experience and comfort working in a culture of measurement
+
+
+### Requirements
+
+- Bachelor’s degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience. 10-15 years of experience implementing, configuring, customizing and integrating SaaS software Eg: SalesForce, DocuSign CLM, Netsuite, Zuora Billing, Zuora Revenue, Coupa, Zip, Navan, Workday, ADP, eTrade etc.
+- 10-15 years’ experience in IT, with 7+ years’ experience leading and managing an IT organization or Applications group at a fast growing high technology company.
+- Be a self-starter, and thrive in a fast paced environment, customer centric and have the interpersonal skills necessary to manage business and technology relationships.
+- Exceptional time management and prioritization skills, resilient under pressure, able to meet deadlines and able to work in a constantly changing environment.
+- Exhibit strong security and confidentiality practices with systems that handle sensitive data. Experience partnering with internal information security and compliance teams. SOX experience is preferred
+- Strong understanding of GTM and LTC business processes in a Salesforce environment.
+- Industry certifications a plus: Salesforce, PMP, ITIL, CISSP or similar certification
+- Proven ability to effectively lead and meet business objectives in a global, collaborative and high performance work environment
+- Change management knowledge and ability to operate effectively in fast paced environment
+- Demonstrated experience in vendor management and capacity planning in a fast growth environment
+- Nice to have, application specific skills:
+    - Salesforce - Development experience with advanced Salesforce.com development tools and techniques (e.g. Apex language, Force.com custom development, triggers, controllers, JavaScript, Force.com SOAP and REST APIs, JSON, AngularJS, jQuery, JavaScript, sObjects, SOQL, SOSL, Chatter APIs, outbound messaging, Bootstrap, Lightning Design System (LDS), Lightning Components and Visualforce pages).
+    - Marketo
+    - GainSight
+    - ZenDesk / Service Cloud / ServiceNow
+    - Enablement tools, such as WalkMe, SpekIt, etc.
+    - CLM: DocuSign CLM, Ironclad
+    - Billing Systems: CPQ, Billing, Revenue (Zuora, NetSuite, etc.)
+    - Integration: Mulesoft, Talend, Workato etc.
+
 
 ## Senior Director, Enterprise Applications
 
