@@ -8,7 +8,7 @@ title: "Scale CSE Operating Rhythm"
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM/CSE-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM/CSE-related handbook pages.
 
 ---
 
@@ -106,6 +106,17 @@ Once the call is complete, the call must be [logged as an activity](https://abou
 The CSE should then prepare a follow-up email to be sent to the customer through the email-assist in the task: `Follow Up Email Post One-off Scale CSM Outreach Call Completion`
 
 This ensures that a CSAT survey is deployed to the recipients of the email.
+
+## Monthly Webinars and Hands On Workshops
+
+The CSE Team delivers monthly webinars and hands-on workshops that are available to all.  The [webinar calendar](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/) is published to our website, with a registration link for each.  Webinars are pre-recorded content with CSEs answering Q&A.  Workshops provide a hands-on learning experience for each attendee with their own lab environment to work through lab exercises during the session.
+
+### Preparing for a Webinar
+The upcoming month's webinar dates are added to an issue in the 
+
+### Preparing for a Hands-on Workshop
+
+
 
 ## Scale Onboarding Cohorts
 
