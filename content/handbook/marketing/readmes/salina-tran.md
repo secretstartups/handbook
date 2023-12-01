@@ -6,7 +6,7 @@ description: "Welcome to my ReadMe - Get to know me and how I work"
 
 ## 🙋🏻‍♀️ About Me 
 
-- I am Salina, Senior Marketing Operations Manager part of the Marketing Operations.
+- I am Salina, Senior Marketing Operations Manager part of the Marketing Operations team.
 - I am born and raised in Ottawa, Ontario 🇨🇦.
 - I currently live in Manotick, 30 minutes south of downtown Ottawa with my boyfriend, Eric and our 13 year old dog, Nala, who is a shepherd/husky mix (she’s absolutely adorable).
 - I like to keep myself busy by creating and making objects and I enjoy picking up new hobbies and learning new things including:
@@ -33,10 +33,10 @@ I do my best to mask the characteristics of Dyslexia, but there are times when I
 
 - I often switch words when I’m typing including
     - Words that look similar: “down” and “done”; “no” and “not”; “coach” and “couch”
-    - Words that a negative to each other which I understand can be problematic and confusing: “can” and “can’t”.
+    - Words that are negative to each other which I understand can be problematic and confusing: “can” and “can’t”.
 - I say idioms completely wrong and out of order!
 - I write out a sentence I may remove or add a word.
-- I read numbers and words incorrectly when read out loud. For numbers, I always recall the last number first. For example, if I see the number 259, I read the number 9 first. Whereas reading words/sentences out loud is _very nervewracking_ for me, I often skip or add words when reading.
+- I read numbers and words incorrectly when read out loud. For numbers, I always recall the last number first. For example, if I see the number 259, I read the number 9 first. Whereas reading words/sentences out loud is _very nervewracking_ for me, I often skip, add or say words completely wrong when reading. It always takes me 2-3 times of reading a sentence to comprehend it fully.
 - I am a visual person - I process new information by visualizing what it would look like. When I am learning or being explained something new, I need to see it in my mind to be able to follow along. 
 - and the list goes on...
 
@@ -44,7 +44,7 @@ I do my best to mask the characteristics of Dyslexia, but there are times when I
 ## 💪 Strengths
 
 I covered a number of challenges with Dyslexia, however there are tons of positives associated with this. I am…
-- 🖼️ **A big picture and visual analytical problem solver** - I can effortlessly pick out trends and patterns from a pool of data/information for quick troubleshooting. I also use 3-dimensional thinking to seek the whole picture to bring new ideas for effective decision-making.
+- 🖼️ **A big picture and visual analytical problem solver** - I can effortlessly pick out trends and patterns from a pool of data/information for quick troubleshooting. I also use 3-dimensional thinking to seek the whole picture to bring new ideas.
 - 🧠 **Self-aware** - I have a strong understanding of my strengths and weaknesses as I have spent hours studying how and what makes my brain tick. I can easily find solutions to compensate for my weaknesses or know when it's time to ask for help.
 - 🎯 **Goal oriented** - I am motivated by an end goal, and determined to achieve the goal that is set before me.
 - 😁 **Emotionally intelligent** - I am able to stay calm in stressful and difficult situations as I am used to things not going my way, and I can compose and regulate my emotions. Additionally, I am mindful of what I do/say and how it can affect others.
@@ -55,7 +55,7 @@ I covered a number of challenges with Dyslexia, however there are tons of positi
 
 - I prefer written communication and requests - if you have a question, drop a slack, however if you have a request, I ask you to create a GitLab issue with a clear problem statement and any additional context/examples. Every written message sent to me via Slack and GitLab, I rely on speech to text to ensure I fully understand what’s communicated to me.
 - Should there be a task that is urgent - I ask that you are clear with the deadline and when you expect it to be completed, so I know to prioritize the items and finish it in the requested time frame.
-- The asynchronous work culture at GitLab makes information processing easy for me. This includes:
+- The asynchronous work culture at GitLab makes information processing easier for me. This includes:
    - Having the agenda provided prior to a meeting 
    - Active note taking during meetings 
    - Written request captured via GitLab issues
