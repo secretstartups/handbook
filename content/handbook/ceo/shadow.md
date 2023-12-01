@@ -137,8 +137,8 @@ Exceptional community members may be able to participate, as well.
 | 2024-02-26 | 2024-03-01 | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) | AVAILABLE - REMOTE |
 | 2024-03-04 | 2024-03-08 | AVAILABLE - REMOTE | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) |
 | 2024-03-11 | 2023-03-15 | AVAILABLE - SUMMIT | AVAILABLE - SUMMIT |
-| 2024-03-18 | 2024-03-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2024-03-25 | 2024-03-29 | AVAILABLE - BAY AREA | AVAILABLE - BAY AREA |
+| 2024-03-18 | 2024-03-22 | [Javier Garcia](https://gitlab.com/jgarc) | AVAILABLE - REMOTE |
+| 2024-03-25 | 2024-03-29 | AVAILABLE - BAY AREA | [Javier Garcia](https://gitlab.com/jgarc) |
 | 2024-04-01 | 2024-04-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-04-08 | 2024-04-12 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-04-15 | 2024-04-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
