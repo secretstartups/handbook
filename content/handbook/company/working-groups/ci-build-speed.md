@@ -48,4 +48,4 @@ Additionally, new players are entering the market advocating for up to 5x GitLab
 | Executive sponsor     | Mike Flouton @mflouton |
 | Facilitator           | Gabriel Engel @gabrielengel_gl |
 | Functional Lead(s)    | tbd                    |
-| Member                | tbd                    |
+| Member                | tbd                     |
