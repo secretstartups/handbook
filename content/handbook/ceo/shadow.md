@@ -129,8 +129,8 @@ Exceptional community members may be able to participate, as well.
 | 2024-01-02 | 2024-01-05 | [Yin Yu] (https://gitlab.com/yyugitlab) | [Cynthia "Arty" Ng] (https://gitlab.com/cynthia) - Staff, Strategy & Operations |
 | 2024-01-08 | 2024-01-12 | AVAILABLE - REMOTE | [Yin Yu] (https://gitlab.com/yyugitlab) |
 | 2024-01-15 | 2024-01-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2024-01-22 | 2024-01-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2024-01-29 | 2024-02-02 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2024-01-22 | 2024-01-26 | [Riley Longo](https://gitlab.com/rilongo) | AVAILABLE - REMOTE |
+| 2024-01-29 | 2024-02-02 | AVAILABLE - REMOTE | [Riley Longo](https://gitlab.com/rilongo) |
 | 2024-02-05 | 2024-02-09 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-02-12 | 2024-02-16 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-02-19 | 2024-02-23 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
