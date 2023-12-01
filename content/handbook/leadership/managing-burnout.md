@@ -4,7 +4,7 @@ title: Identifying & Addressing Burnout
 
 ## Manager Guide: Identifying & Addressing Burnout
 
-With GitLab’s results-driven culture, the demands of product innovation around AI, the fast-paced and ever-evolving business environment, our organization recognizes the crucial balance between achieving ambitious goals and maintaining the well-being of our team members.
+With GitLab’s results-driven culture, the demands of product innovation around AI, the fast-paced and ever-evolving business environment, our organization recognizes the crucial balance between **achieving ambitious goals** _and_ **maintaining the well-being of our team members**.
 
 ### Defining Burnout
 
@@ -13,9 +13,9 @@ The World Health Organization defines Burnout as “a syndrome conceptualized as
 ### Goal
 The primary objective of this resource is to set expectations of leaders when it comes to managing burnout and to provide practical strategies to proactively identify and address signs of burnout. People leaders play a key role in ensuring a healthy, productive, and engaged workforce.
 
-This guide serves as a toolkit for fostering a supportive work culture where team members feel recognized for high performance and motivated to excel, without compromising on their mental and physical health. We encourage managers to utilize these insights in their regular interactions and decision-making processes, adapting them to their team's unique dynamics and needs. By doing so, we aim not only to enhance our team's overall well-being but also to sustain GitLab's innovative momentum and long-term success.
+This guide serves as a toolkit for fostering a supportive work culture where team members feel recognized for high performance and motivated to excel, _without_ compromising on their mental and physical health. We encourage managers to utilize these insights in their regular interactions and decision-making processes, adapting them to their team's unique dynamics and needs. By doing so, we aim not only to enhance our team's overall well-being but also to sustain GitLab's innovative momentum and long-term success.
 
-**Resource**
+#### Resource
 🏁 Begin by reading [“Preventing Burnout: A Manager’s Toolkit”](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/) and watching the included video from Sid. (12 min)
 - Highlight: From the article: “Identifying burnout in a remote environment is more difficult than in a co-located workplace, but looking for early hallmarks such as exhaustion and reduced enthusiasm can help managers get ahead of the problem.
 - Reflect: What are other ways “burnout” might show up?
@@ -30,7 +30,7 @@ Here are some  team member considerations inspired by GitLab’s culture, values
 - **Sense of “urgency”:**  Some team members may read this excerpt from GitLab Values… > “At an exponentially-scaling startup, time gained or lost has compounding effects. Try to get the results as fast as possible, but without compromising our other values and ways we communicate, so the compounding of results can begin and we can focus on the next improvement.” ...and only hear the “urgency” without recognizing the emphasis GitLab puts on effectively managing work, agency, and family + friends first.
 - **Ask around:** Managers may hear about burnout and workload issues directly from team members, but there may be a need to _appropriately_ source information from cross-functional partners or People Business partners to help understand how team members are feeling around workload.
 
-**Resource**
+#### Resource
 🦊 GitLab Handbook: “[Recognizing Burnout](https://handbook.gitlab.com/handbook/paid-time-off/#recognizing-burnout)” (5 min)
 
 ### Addressing Burnout
@@ -52,5 +52,16 @@ Burnout Index: [Yerbo’s Risk Check](https://methods.yerbo.co/burnout-index/)
 ### Where to ask questions
 You can direct questions to [#people-managers-and-above](https://gitlab.slack.com/archives/C01SFG8EDGA) Slack channel.
 
-**Resource Repository**
+#### Resource Respository
 Below, you can access all the referenced in this guide:
+| Reference | Notes |
+| :------ | :------ |
+|[Preventing Burnout: A Manager's Toolkit](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)        |Audience: Managers        |
+|[GitLab team members share how to recognize burnout (and how to prevent it)](https://about.gitlab.com/blog/2018/03/08/preventing-burnout/)        |Audience: All team members        |
+|[Recognizing Burnout](https://handbook.gitlab.com/handbook/paid-time-off/#recognizing-burnout)        |Audience: All team members        |
+|[Combating burnout, isolation, and anxiety in the remote workplace](https://handbook.gitlab.com/handbook/company/culture/all-remote/mental-health/)        |Audience: All team members        |
+|[Yerbo’s Risk Check](https://methods.yerbo.co/burnout-index/)        |Managers can share this with their teams. It’s recommended that managers go through this for themselves as well.        |
+
+#### Additional Resources
+LinkedIn Learning Course: [How to Beat Burnout, Exhaustion, and Stress](https://levelup.gitlab.com/learn/course/avoiding-burnout/main/how-to-beat-burnout-exhaustion-and-stress?client=internal-team-members)
+[Modern Health](https://handbook.gitlab.com/handbook/total-rewards/benefits/modern-health/#mental-wellness-services): Burnout at work can also be influenced by a multitude of experiences happening inside and outside of work. EAP offers benefits the serve a variety of needs.
