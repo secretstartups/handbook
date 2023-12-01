@@ -139,9 +139,9 @@ Exceptional community members may be able to participate, as well.
 | 2024-03-11 | 2023-03-15 | AVAILABLE - SUMMIT | AVAILABLE - SUMMIT |
 | 2024-03-18 | 2024-03-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-03-25 | 2024-03-29 | AVAILABLE - BAY AREA | AVAILABLE - BAY AREA |
-| 2024-04-01 | 2024-04-05 | [Karen Kwentus] (https://gitlab.com/kkwentus1) | AVAILABLE - REMOTE |
-| 2024-04-08 | 2024-04-12 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | [Karen Kwentus] (https://gitlab.com/kkwentus1)
-| 2024-04-15 | 2024-04-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2024-04-01 | 2024-04-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2024-04-08 | 2024-04-12 | [Karen Kwentus] (https://gitlab.com/kkwentus1) | AVAILABLE - REMOTE |
+| 2024-04-15 | 2024-04-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | [Karen Kwentus] (https://gitlab.com/kkwentus1)
 | 2024-04-22 | 2024-04-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-04-29 | 2024-05-03 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
