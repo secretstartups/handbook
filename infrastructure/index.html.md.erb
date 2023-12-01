@@ -74,11 +74,11 @@ flowchart LR
     click DB "/handbook/engineering/infrastructure/core-platform/systems/distribution/"
     SS --> DD[Distribution::Deploy]
     click DD "/handbook/engineering/infrastructure/core-platform/systems/distribution/"
+    SS --> CC[Cloud Connector]
+    click CC "/handbook/engineering/infrastructure/core-platform/systems/cloud-connector/"
 
     C --> DS[Data Stores Stage]
     click DS "/handbook/engineering/infrastructure/core-platform/data_stores/"
-    DS --> CC[Cloud Connector]
-    click CC "/handbook/engineering/infrastructure/core-platform/data_stores/cloud-connector/"
     DS --> TS[Tenant Scale]
     click TS "/handbook/engineering/infrastructure/core-platform/data_stores/tenant-scale/"
     DS --> Database
