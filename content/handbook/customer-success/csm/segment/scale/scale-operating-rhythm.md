@@ -112,10 +112,45 @@ This ensures that a CSAT survey is deployed to the recipients of the email.
 The CSE Team delivers monthly webinars and hands-on workshops that are available to all.  The [webinar calendar](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/) is published to our website, with a registration link for each.  Webinars are pre-recorded content with CSEs answering Q&A.  Workshops provide a hands-on learning experience for each attendee with their own lab environment to work through lab exercises during the session.
 
 ### Preparing for a Webinar
-The upcoming month's webinar dates are added to an issue in the 
+
+The upcoming month's webinar dates are added to an issue in the [Customer Success Operations Project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/?label_name%5B%5D=CSOps%20-%20Scale) and the CSE team is asked to sign up as host or Q&A support.  The zoom webinars are created by CS Operations and then the webinar details are added to the webinar calendar.
+
+The host of the webinar should download the recording from [Webinar Master Recordings folder](https://drive.google.com/drive/folders/1x0_7J30cTpfbRXjrXgG_2XOIARLusNt3?usp=drive_link) and do a practice session in the zoom webinar to ensure it plays successfully.  Detailed instructions for playing the video and correctly sharing it via zoom are contained in the [Notes - APAC Scale Webinars google doc](https://docs.google.com/document/d/16a2oQZIm22Uz1hg6in8-shRoEvepvqMeURm0elVs3sI/edit?usp=sharing).
+
+The host and Q&A panelist should start/join the webinar at least 30 minutes before the webinar start time so that they can test the video sharing and ensure everything is set for the webinar.  There is no need for the host to say any opening remarks prior to playing the video.  All housekeeping items are handled as part of the recording.
+
+Question - who sends the recording after the session?
 
 ### Preparing for a Hands-on Workshop
 
+The upcoming month's hands-on workshops are added to an issue in the [Customer Success Operations Project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/?label_name%5B%5D=CSOps%20-%20Scale) (separate from the webinar schedule) and the CSE team is asked to sign up as Presenter or Q&A support. 
+
+The Presenter should add the workshop to the [FY23 and FY24 Lab Schedule issue](https://gitlab.com/gitlab-com/customer-success/demo-engineering/workshop-library/demo-engineering-workshop-issues/-/issues/8) in the Demo Engineering Workshop Issues Project.  This should be added at least one week before the workshop to give the Demo Engineering team enough time to prepare the lab environment.  
+
+The workshop slide deck is stored in the [Scale Team / 2. Global Adoption Workshops folder](https://drive.google.com/drive/folders/1zh2qF8HV5e-3J9TvXDd5aR5LwH-ae9AN?usp=drive_link).  The workshop lab content is contained in the [GitLab.com Workshop Library group](https://gitlab.com/gitlab-com/customer-success/demo-engineering/workshop-library).  The host should run through the lab exercises in their entirety at least once before the workshop to ensure there are no technical issues.
+
+The #scale_workshops_planning slack channel is used for any pre-workshop questions, set up, demo environment issues, etc.
+
+On the day of the workshop, the host should login at least 20 minutes prior to the workshop start to get set up.  
+
+To document:
+- housekeeping items
+   - all attendees are muted (are they able to unmute, do we have to monitor this and make sure they stay muted?)
+   - ask questions in the Q&A
+   - account on gitlab.com is needed before starting
+   - access to lab environment for x days (is this in the slide deck?)
+- tips and tricks for presenting
+   - 2 chrome windows side by side when working through labs
+   - full screen for presentation
+   - turn off all notifications
+   - go slower than you think you need to
+
+Questions:
+- Does the CSE have to send any emails prior to the workshop?  Who lets the attendees know that they need an account on gitlab.com prior to the workshop?
+- When/how does the CSE get a registration code for that workshop?  
+- Who updates the slide deck with the appropriate code for that month's workshop?  
+- Where is the month-specific slide deck stored?
+- Who follows up after the workshop?
 
 
 ## Scale Onboarding Cohorts
@@ -123,6 +158,8 @@ The upcoming month's webinar dates are added to an issue in the
 As a supplement to the [monthly webinars](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/) presented by the CSM/CSE team, the CSE team also invites net-new scale eligible customers to participate in a monthly onboardhing cohort.
 
 The onboarding cohort will have a duration of 4 weeks, starting at the beginning of each month, with 90-minute live weekly training led by a Customer Success Engineer. Customers will be grouped with other new GitLab customers during each training. In addition to the weekly hands-on calls, customers will have access to a shared Slack channel monitored by Customer Success Engineers throughout the program to help answer questions and provide best practice guidance.
+
+TO DO: Update  Week 4 and any links to presentations
 
 - Week 1: [Getting Started and Project Management with GitLab](https://docs.google.com/presentation/d/1Aq0DrBv-EGXAP13pX8wD1RepPesNqq1wkjXjMkLaLus/edit?usp=sharing)
 - Week 2: [CI/CD in GitLab](https://docs.google.com/presentation/d/1WDfTfaK7AyPOXAT3HJkKoSODx5YLtxAPhj0Bf-CadNQ/edit?usp=sharing)
