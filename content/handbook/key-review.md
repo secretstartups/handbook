@@ -58,7 +58,7 @@ Functions that have these quarterly meetings are:
 1. Infrastructure & Quality (Mek Stittri - function DRI), month 3
 
 
-If you would like to be added to a function's Key Review ask your functionl's E-Group membrer to ask the EBA to the CFO to add you.
+If you would like to be added to a function's Key Review ask your functional E-Group member to ask the EBA to the CFO to add you.
 
 ## Meeting Format
 
