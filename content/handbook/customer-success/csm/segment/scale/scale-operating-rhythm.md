@@ -117,7 +117,7 @@ The upcoming month's webinar dates are added to an issue in the [Customer Succes
 
 The host of the webinar should download the recording from [Webinar Master Recordings folder](https://drive.google.com/drive/folders/1x0_7J30cTpfbRXjrXgG_2XOIARLusNt3?usp=drive_link) and do a practice session in the zoom webinar to ensure it plays successfully.  Detailed instructions for playing the video and correctly sharing it via zoom are contained in the [Notes - APAC Scale Webinars google doc](https://docs.google.com/document/d/16a2oQZIm22Uz1hg6in8-shRoEvepvqMeURm0elVs3sI/edit?usp=sharing).
 
-The host and Q&A panelist should start/join the webinar at least 30 minutes before the webinar start time so that they can test the video sharing and ensure everything is set for the webinar.  There is no need for the host to say any opening remarks prior to playing the video.  All housekeeping items are handled as part of the recording.
+The host and Q&A panelist should start/join the webinar at least 10 minutes before the webinar start time so that they can test the video sharing and ensure everything is set for the webinar.  There is no need for the host to say any opening remarks prior to playing the video.  All housekeeping items are handled as part of the recording.
 
 Question - who sends the recording after the session?
 
@@ -127,11 +127,17 @@ The upcoming month's hands-on workshops are added to an issue in the [Customer S
 
 The Presenter should add the workshop to the [FY23 and FY24 Lab Schedule issue](https://gitlab.com/gitlab-com/customer-success/demo-engineering/workshop-library/demo-engineering-workshop-issues/-/issues/8) in the Demo Engineering Workshop Issues Project.  This should be added at least one week before the workshop to give the Demo Engineering team enough time to prepare the lab environment.  
 
-The workshop slide deck is stored in the [Scale Team / 2. Global Adoption Workshops folder](https://drive.google.com/drive/folders/1zh2qF8HV5e-3J9TvXDd5aR5LwH-ae9AN?usp=drive_link).  The workshop lab content is contained in the [GitLab.com Workshop Library group](https://gitlab.com/gitlab-com/customer-success/demo-engineering/workshop-library).  The host should run through the lab exercises in their entirety at least once before the workshop to ensure there are no technical issues.
+A registration code will then be created for the workshop.  Registration codes are tracked in the [2023 Demo Team Scale/CSM Workshop Registrations google sheet](https://docs.google.com/spreadsheets/d/1H0Ym78QqXeufzsHMWMsFBSi9mIav0apUBm7D-D7-haU/edit?usp=sharing).  Workshop attendees will use the registration code at the beginning of the workshop to have lab credentials and an subgroup created to use for the hands-on exercises, [provisioned via gitlabdemo.com](https://gitlabdemo.com/login).  Each slide deck has detailed instructions for the attendees that the host will guide them through to create the subgroup and access it.
+
+Before the workshop, the host should make a copy of the appropriate master slide deck, change the registration codes to match the current workshop, and add their name and profile picture to the presenter slide. The workshop slide deck is stored in the [Scale Team / 2. Global Adoption Workshops folder](https://drive.google.com/drive/folders/1zh2qF8HV5e-3J9TvXDd5aR5LwH-ae9AN?usp=drive_link).  
+
+Once the slide deck customizations are complete, the host should upload the deck to their personal space in Highspot and create a link that will be shared in the follow up email.  The Customer Success Operations Program Manager will handle all pre-workshop and post-workshop communication with the attendees, and will request the Highspot link to add to the post-workshop email.
+
+The workshop lab content is contained in the [GitLab.com Workshop Library group](https://gitlab.com/gitlab-com/customer-success/demo-engineering/workshop-library).  The host should run through the lab exercises in their entirety at least once before the workshop to ensure there are no technical issues.
 
 The #scale_workshops_planning slack channel is used for any pre-workshop questions, set up, demo environment issues, etc.
 
-On the day of the workshop, the host should login at least 20 minutes prior to the workshop start to get set up.  
+On the day of the workshop, the host should login at least 10 minutes prior to the workshop start to get set up.  
 
 To document:
 - housekeeping items
@@ -145,13 +151,6 @@ To document:
    - turn off all notifications
    - go slower than you think you need to
 
-Questions:
-- Does the CSE have to send any emails prior to the workshop?  Who lets the attendees know that they need an account on gitlab.com prior to the workshop?
-- When/how does the CSE get a registration code for that workshop?  
-- Who updates the slide deck with the appropriate code for that month's workshop?  
-- Where is the month-specific slide deck stored?
-- Who follows up after the workshop?
-
 
 ## Scale Onboarding Cohorts
 
@@ -164,6 +163,6 @@ TO DO: Update  Week 4 and any links to presentations
 - Week 1: [Getting Started and Project Management with GitLab](https://docs.google.com/presentation/d/1Aq0DrBv-EGXAP13pX8wD1RepPesNqq1wkjXjMkLaLus/edit?usp=sharing)
 - Week 2: [CI/CD in GitLab](https://docs.google.com/presentation/d/1WDfTfaK7AyPOXAT3HJkKoSODx5YLtxAPhj0Bf-CadNQ/edit?usp=sharing)
 - Week 3: [GitLab Security & Compliance](https://docs.google.com/presentation/d/11kBdYaW7b_2FiZZUOJNp7OQ9qRQzD_LaWiqRJ_YJJtQ/edit?usp=sharing)
-- Week 4: [GitLab GitOps Deployments](https://docs.google.com/presentation/d/1G6uFXNG3U1VD13BM8rj1MZf_VMH99j9R2lFqG_09R2Y/edit?usp=sharing)
+- Week 4: [AI in DevSecOps](https://docs.google.com/presentation/d/1G6uFXNG3U1VD13BM8rj1MZf_VMH99j9R2lFqG_09R2Y/edit?usp=sharing)
 
-All customers participating will complete their training using a sandbox sub-group on gitlab.com [provisioned via gitlabdemo.com](https://about.gitlab.com/handbook/customer-success/demo-systems/#how-to-get-started). Additionally, customers participating in GitLab GitOps Deployments will also gain access to the [Instruqt platform](/handbook/business-technology/tech-stack/#instruqt) to allow hands-on access to a kubernetes cluster for deployments.
+All customers participating will complete their training using a sandbox sub-group on gitlab.com [provisioned via gitlabdemo.com](https://gitlabdemo.com/login). 
