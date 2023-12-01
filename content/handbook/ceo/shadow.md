@@ -94,7 +94,8 @@ Learn more about what to expect from a [remote shadow rotation](#remote-shadow-r
 
 1. Create a merge request to add yourself to the [rotation schedule](#rotation-schedule), assigning yourself.
 1. Add your manager as a reviewer and ask them to approve (**but not to merge**) the merge request.
-1. Once your manager approves the merge request, add the [Chief of Staff to the CEO]({{< ref chief-of-staff >}}) as a reviewer, link to the merge request in the `#ceo-shadow` channel, and `@mention` the [Executive Business Admin (EBA)]({{< ref eba >}}) supporting the CEO in the message.
+1. Once your manager approves the merge request, add the [Executive Business Admin (EBA) to CEO]({{< ref eba >}}) as a reviewer.
+1. Post in the `#ceo-shadow` channel with a link to the merge request, and `@mention` the EBA in the message.
 
 Please keep in mind when selecting dates that the CEO's schedule is fluid and subject to constant change, which also means that the CEO Shadow rotation is subject to constant change. The posted dates are not guaranteed. We will work with you to reschedule your rotation if a conflict arises.
 
