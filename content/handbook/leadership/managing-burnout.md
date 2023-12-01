@@ -49,9 +49,11 @@ Here are some  team member considerations inspired by GitLab’s culture, values
 - **Longer-Term Solutions:** Encourage participation in wellness programs, explicitly communicate with teams about GitLabs culture of flexible work, and review job/role descriptions for potential stressors and opportunities to address scope.
 - **Dogfood:** Managers must model healthy/balanced working behaviors! Taking time away, sharing challenges and success around effectively managing workload, storytelling centered on output as a result of effective workload management. 
 
-**Resource to share with team members:** 
+#### Resource to share with team members:
 [Combating burnout, isolation, and anxiety in the remote workplace](https://handbook.gitlab.com/handbook/company/culture/all-remote/mental-health/)
 Burnout Index: [Yerbo’s Risk Check](https://methods.yerbo.co/burnout-index/)
+
+----
 
 ### Where to ask questions
 You can direct questions to [#people-managers-and-above](https://gitlab.slack.com/archives/C01SFG8EDGA) Slack channel.
