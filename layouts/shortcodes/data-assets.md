@@ -1,6 +1,6 @@
-{{ $dataStages := partials.IncludeCached "data/data-stages" . }}
+{{ $dataStages := partials.IncludeCached "data/data-assets" . }}
 {{ range $dataStages }}
-## {{ .title }}
+### {{ .title }}
 
 {{ .description | markdownify }}
 {{ end }}

@@ -1,16 +1,8 @@
 ---
-
 title: Product Development Flow
 ---
 
-
-
-
-
-
-
-
-Please follow this [guidance](#contributing-to-this-page) on how to contribute to this page. To see a list of the latest updates to this page, visit [Product development flow releases](/handbook/product-development-flow/releases).
+Please follow this [guidance](#contributing-to-this-page) on how to contribute to this page. <!-- To see a list of the latest updates to this page, visit [Product development flow releases](/handbook/product-development-flow/releases). -->
 
 ## Overview & philosophy
 

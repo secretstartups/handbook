@@ -324,7 +324,7 @@
                     {{- with page.GetPage $pagePath }}
             <td><a href="{{ .Permalink }}">[<i class="fa fa-book"></i> {{ .Title }}</a></td>
                 {{- else }}
-            <td><i class="fa-solid fa-file-circle-exclamation"></i> /handbook/{{.}} (Page Missing)</td>
+            <td><i class="fa-solid fa-file-circle-exclamation"></i> /handbook/{{.}}<br>(Page Missing)</td>
                     {{- end }}
             {{- end -}}
             {{- if gt (len $pmTeam) 0 }}
@@ -406,3 +406,4 @@
         </tr>
     </tbody>
 </table>
+

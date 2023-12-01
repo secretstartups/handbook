@@ -263,14 +263,9 @@ When downgrading product maturity, we adjust our customer's current expectations
 
 ## DevOps Stages
 
-<!-- <%= devops_diagram(["All"]) %> -->
 ![Dev Ops Diagram](devops-diagram.svg)
 
-<!-- Short code in progress -->
 {{% categories %}}
-
-<!-- Disalbed as it didn't produce output in the about site -->
-<!-- <%= partial("includes/product/categories-names") %> -->
 
 ## Possible future Stages
 

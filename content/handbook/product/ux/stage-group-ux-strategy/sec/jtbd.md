@@ -56,4 +56,4 @@ Note that most, but not all, Jobs fit under the Aspirational Job of “Safeguard
 
 ### Job Statements
 
-<!-- <%= partial("direction/secure/secure-jtbd-list", locals: { stage_key: "Secure and Govern" }) %> -->
+{{% jtbd "Secure and Govern" %}}

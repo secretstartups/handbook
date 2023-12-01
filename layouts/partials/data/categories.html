@@ -3,7 +3,9 @@
   {{- with .Err }}
     <h2>Unable to fetch categories.yml Data</h2>
   {{- else }}
-      {{- $categories = . | transform.Unmarshal }}
+      {{-  range $k, $v := . | transform.Unmarshal }}
+        {{- $categories = merge $categories (dict $k $v) }}
+      {{ end }}
   {{- end }}
 {{- end }}
 {{- return $categories }}

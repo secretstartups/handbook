@@ -20,12 +20,14 @@ You can collaborate or contribute to any work in progress with the Product Opera
 
 Product operations work happens in alignment with GitLab's [product development timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline), releasing [every month](https://about.gitlab.com/handbook/engineering/releases/). However, in order to avoid overlap with the product release peak work time and allow teams the bandwidth to understand and adopt updates into their workflow, product operations release notes will push between the 23rd and 30th of every month, and be adjusted as needed around holidays and weekends.
 
+<!-- Removed as the new handbook doesn't support this
 **Information on the most recent product operations releases can be seen here:**
 
 - [Product development flow releases](/handbook/product-development-flow/releases/)
 - [Product handbook updates](/handbook/product/handbook-updates/)
 - [Release post updates](/handbook/marketing/blog/release-posts/process-updates/)
 - [Template specific updates](/handbook/product/product-operations/template-updates/)
+-->
 
 **Information on all work currently in progress for product operations can be seen here:**
 

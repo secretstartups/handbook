@@ -8,18 +8,18 @@
 ## {{ .name }} Section
 
 {{ $section_name := $key }}
-{{ range $key, $data := $stages.stages }}
-
-{{ if eq $data.section $section_name }}
-{{ $stage_name := $data.display_name }}
+{{ range $stages }}
+{{ $stageData := .}}
+{{ if eq .section $section_name }}
+{{ $stage_name := .display_name }}
 
 ### {{ $stage_name }}
 
-{{ range $k, $v :=  $data.groups }}
+{{ range $k, $v :=  .groups }}
 
 #### {{ $stage_name }}: {{ .name }} Group
 
-{{ partial "group_table" . }}
+{{ partial "group-table" . }}
 
 {{- if $v.categories }}
 
@@ -36,7 +36,7 @@
             {{- range $k, $v := $categories }}
                 {{- if eq $k $cat }}
         <tr>
-        <td>{{- $cat := lower $k }}<a href="{{ partial "category-best-link" . }}">{{ $v.name }}</a></td>
+        <td>{{- $cat := lower $k }}<a href="{{ partial "categories/best-link" . }}">{{ $v.name }}</a></td>
         <td>
             {{- range $features.features }}
                 {{- if in .category $cat }}
