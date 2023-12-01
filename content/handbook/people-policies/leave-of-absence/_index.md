@@ -70,4 +70,4 @@ Team members should first review their own country's Military Leave policies to 
 
 - For any questions about how to initiate a military leave or requests for reinstatement, please contact the Absence Management team (`leaves@gitlab.com`). For GitLab Inc or GitLab Federal team members, please additionally review the [Military Leave]({{< ref "us#military-leave" >}}) policy.
 
-**Your Absence Managment team is here to help before, during, or after your leave. If you have any questions related to your time away after reviewing this page, please contact `leaves@gdoman` to discuss or request a 1:1 with the Absence Management team.**
+**Your Absence Managment team is here to help before, during, or after your leave. If you have any questions related to your time away after reviewing this page, please contact `leaves@gdoman` to discuss or request a 1:1 with the Absence Management team.*
