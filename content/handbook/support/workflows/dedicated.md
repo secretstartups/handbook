@@ -147,7 +147,7 @@ Support Engineers will forward emergencies by:
 1. Noting initial triage and analysis findings in [a `new-incident` issue](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/incident-management/-/issues/new?issuable_template=new-incident).
 1. Using the Slack command `/pd trigger` and choosing "Dedicated Platform Service" as the Impacted Service to escalate an emergency to an SRE.
 
-Alternatively, [manually creating a PD Incident](/handbook/support/workflows/support_manager-on-call.html#manually-triggering-a-pagerduty-notification_) for  the [Dedicated Platform Service](https://gitlab.pagerduty.com/service-directory/P1H70IW) is also possible.
+Alternatively, [manually creating a PD Incident](/handbook/support/workflows/support_manager-on-call#manually-triggering-a-pagerduty-notification_) for  the [Dedicated Platform Service](https://gitlab.pagerduty.com/service-directory/P1H70IW) is also possible.
 The GitLab Dedicated Infrastructure team has a 24/7 PagerDuty rotation: [GitLab Dedicated Platform Escalation](https://gitlab.pagerduty.com/schedules#PE57MNA).
 
 ### Troubleshooting tips
