@@ -85,12 +85,6 @@ Other public Slack channels of interest to me are often:
 * `#sec-section_social`
 * `#s_growth_social`
 
-And when I need a break from work:
-* `#ALL-CAPS`
-* `#random`
-* `#gaming`
-* `#reality_tv_talk`
-
 # Engineering Director shadow program
 
 I created and continue to operate the [Engineering director shadow program](/handbook/engineering/development/shadow/director-shadow-program.html), which allows those at GitLab and also non-GitLab team members to shadow me for a week and provides mentoring, learning opportunities, and career development exploration.
