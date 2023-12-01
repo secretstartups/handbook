@@ -20,6 +20,7 @@ This guide serves as a toolkit for fostering a supportive work culture where tea
 - Highlight: From the article: “Identifying burnout in a remote environment is more difficult than in a co-located workplace, but looking for early hallmarks such as exhaustion and reduced enthusiasm can help managers get ahead of the problem.
 - Reflect: What are other ways “burnout” might show up?
 
+
 ### Understanding Burnout:
 Here are some  team member considerations inspired by GitLab’s culture, values, and ways of working. You’ll see some tips, but we’ll share more advice and talking points below:
 Here are some  team member considerations inspired by GitLab’s culture, values, and ways of working. You’ll see some tips, but we’ll share more advice and talking points below:
@@ -27,7 +28,10 @@ Here are some  team member considerations inspired by GitLab’s culture, values
 - **Flexibility:** GitLab encourages team members to be directly involved in when, where, and how they get their best work done. Managers still play a key role in allowing space while also remaining dialed into progress, output, and managing capacity.
 - **Results-driven:** Burnout has a direct impact on deliverables and overall results. Managers must continuously strive to improve workload management, output, and their team’s well being. This is, in itself, a result of a manager’s leadership capability and there should be a sense of ownership of the work for which their team is responsible. 
 - **Common Pitfall:**  “_Taking time away resolves any issues related to burnout._” While taking time away is a great way to set boundaries and strike a healthy balance between work and personal time; it’s not a catch-all solution. Time away should be supported and modeled by leaders, but leaders also need to recognize that addressing a team member’s potential burnout can come from a variety of approaches. This might include coaching on time management, additional targeted feedback, more effective delegation, or goal clarification. Note: Time Away is CRUCIAL to wellbeing and quality work. This is part of GitLab’s culture around work beyond combating burnout.
-- **Sense of “urgency”:**  Some team members may read this excerpt from GitLab Values… > “At an exponentially-scaling startup, time gained or lost has compounding effects. Try to get the results as fast as possible, but without compromising our other values and ways we communicate, so the compounding of results can begin and we can focus on the next improvement.” ...and only hear the “urgency” without recognizing the emphasis GitLab puts on effectively managing work, agency, and family + friends first.
+- **Sense of “urgency”:**  Some team members may read this excerpt from GitLab Values… 
+    > “_At an exponentially-scaling startup, time gained or lost has compounding effects. Try to get the results as fast as possible, but without compromising our other values and ways we communicate, so the compounding of results can begin and we can focus on the next improvement._”
+ 
+     ...and only hear the “urgency” without recognizing the emphasis GitLab puts on effectively managing work, agency, and family + friends first.
 - **Ask around:** Managers may hear about burnout and workload issues directly from team members, but there may be a need to _appropriately_ source information from cross-functional partners or People Business partners to help understand how team members are feeling around workload.
 
 #### Resource
