@@ -120,14 +120,14 @@ On completion:
 
 <!-- these labels should be included on all templates -->
 /label ~"dev-evangelism" 
-<!-- Example: 
 
-/label ~"DevRel-Content" ~"FY24-Q3" 
+<!-- Note: These are samples for guidance, please add relevant labels for activity region, type, quarter or any other labels relevant to your team/program. Please update or include additional relevant labels here. -->
 
-Note: These are samples for guidance, please add relevant labels for activity region, type, quarter or any other labels relevant to your team/program. Please include additional relevant labels here.  -->
+/label ~"DevRel-Content" ~"FY24-Q4" 
 
-<!--Link to parent epic where necessary. Please choose the quarterly epic from the FY24 main epic
-https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/98 -->
+<!-- Link to parent epic where necessary. Please choose the quarterly epic from the FY24 epic
+https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/98 
+and FY25 epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/339 -->
 
 <!-- FY24Q4 -->
 /parent_epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/241 
@@ -187,16 +187,16 @@ On completion:
 
 <!-- these labels should be included on all templates -->
 /label ~"dev-evangelism" 
-<!-- Example: 
 
-/label ~"DevRel-Events" ~"Region-AMER" ~"FY24-Q3" 
+<!-- Example: These are samples for guidance, please add relevant labels for activity region, type, quarter or any other labels relevant to your team/program. Please include additional relevant labels here.  -->
 
-Note: These are samples for guidance, please add relevant labels for activity region, type, quarter or any other labels relevant to your team/program. Please include additional relevant labels here.  -->
+/label ~"DevRel-Events" ~"Region-AMER" ~"FY25-Q1" 
+
 
 <!--Link to parent epic where necessary -->
 
-<!-- Events epic (default) -->
-/parent_epic https://gitlab.com/groups/gitlab-com/marketing/community-relations/-/epics/97 
+<!-- Events epic (FY25) -->
+/parent_epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/326 
  
 
 <!-- Link to Child epic where necessary -->
@@ -213,7 +213,7 @@ Note: These are samples for guidance, please add relevant labels for activity re
 ```markdown
 ## 👀 Pins
 
-* [Dev Evangelism Release Evangelism handbook](/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism) provides all resources. 
+* [Release Evangelism handbook](/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism) provides all resources. 
 * [#release-post](https://gitlab.slack.com/archives/C3TRESYPJ) Slack channel (internal)
 
 ### ✍ Release post
@@ -223,9 +223,9 @@ Note: These are samples for guidance, please add relevant labels for activity re
 
 #### CommunityApps Campaign Links
 
-> Create campaign links in the [Release Evagelism Campaign](https://campaign-manager.gitlab.com/campaigns/view/3), under the Community Team in [CommunityApps](https://campaign-manager.gitlab.com/), and add them here. 
+> Create campaign short URLs in the [Release Evagelism Campaign](https://campaign-manager.gitlab.com/campaigns/view/3), under the Community Team in [CommunityApps](https://campaign-manager.gitlab.com/), and add them here. 
 
-  - Twitter:
+  - Twitter/X:
   - LinkedIn:
   - Mastodon:
 
@@ -233,47 +233,48 @@ Note: These are samples for guidance, please add relevant labels for activity re
 
 ### MVP
 
-<!-- Create a screenshot from the MVP section, tag the user if possible, and give a shoutout, linking the blog post `#mvp` anchor. -->
-
-### Plan/Create/Manage
-
-<!-- Issues, epics, code review, editor, roadmaps, etc. -->
-
-- [ ] Text:
-  - URL:
-
-### CI/CD 
-
-<!-- CI config, editor, runner, deployments, environments, etc. -->
-
-- [ ] Text:
-  - URL:
-
-### IaC/GitOps
-
-<!-- Configure, Package, Release, Deploy, etc. -->
-
-- [ ] Text:
-  - URL:
+> Create a screenshot from the MVP section, tag the user if possible, and give a shoutout, linking the blog post `#mvp` anchor.
 
 ### DevSecOps 
 
-<!-- Secure, Protect, SAST, container/dependency scanning, etc. -->
+_Secure, Govern, Compliance, SAST, container/dependency scanning, etc._
 
-- [ ] Text:
-  - URL:
+- [ ] Text:  URL:
+
+### GitLab Duo 
+
+_AI-powered workflows, use cases, new GitLab Duo features, etc._
+
+- [ ] Text:  URL:
+
+### Plan/Create/Manage
+
+_Issues, epics, code review, editor, roadmaps, etc._
+
+- [ ] Text:  URL:
+
+### CI/CD 
+
+_CI/CD config, editor, runner, deployments, environments, etc._
+
+- [ ] Text:  URL:
+
+### IaC/GitOps
+
+_Configure, Package, Release, Deploy, etc._
+
+- [ ] Text:  URL:
 
 ### Observability
 
-<!-- Metrics, Opstrace, -->
+_Metrics, traces, analytics, value stream dashboards, etc._
 
-- [ ] Text:
-  - URL:
+- [ ] Text:  URL:
 
 ## ❤️ Social Shares
 
-- Item:
-  - Twitter:
+- Item:  
+  - Twitter/X:
   - LinkedIn: 
 
 > 💡 Add a new buffer campaign and post screenshots into this issue. 
