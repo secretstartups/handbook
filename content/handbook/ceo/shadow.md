@@ -133,7 +133,7 @@ Exceptional community members may be able to participate, as well.
 | 2024-01-29 | 2024-02-02 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-02-05 | 2024-02-09 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-02-12 | 2024-02-16 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2024-02-19 | 2024-02-23 | AVAILABLE - REMOTE | AVAILABLE - REMOTE  |
+| 2024-02-19 | 2024-02-23 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-02-26 | 2024-03-01 | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) | AVAILABLE - REMOTE |
 | 2024-03-04 | 2024-03-08 | AVAILABLE - REMOTE | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) |
 | 2024-03-11 | 2023-03-15 | AVAILABLE - SUMMIT | AVAILABLE - SUMMIT |
