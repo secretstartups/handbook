@@ -36,11 +36,11 @@ Here are some  team member considerations inspired by GitLab’s culture, values
 ### Addressing Burnout
 - **Again, Rest and Time Off are PRODUCTIVE!:** With GitLab’s recent [updates to the paid time off policy](https://gitlab.slack.com/archives/C010XFJFTHN/p1701277010756539), prioritizing time away remains top of mind.
 - **Workload Management:** Managers are expected to delegate work effectively. Doing this effectively means strategically distributing workload and creating space for team members to express support or push back when needed.
-   Encourage open dialogue whenever possible
-   Transparently share workload management strategies and systems
-   Discuss how workload and demand informs delegation
+- [ ] Encourage open dialogue whenever possible
+- [ ] Transparently share workload management strategies and systems
+- [ ] Discuss how workload and demand informs delegation
 - **Growth & Development:** There are several ways to improve/enhance capabilities for managers and team members when it comes to combating burnout through professional development opportunities centered around stress management, time management, and professional counseling.
-   Preventative training for the whole team
+- [ ] Preventative training for the whole team
 - **Creating a Supportive Work Environment:** Foster an environment of open communication and support, encouraging team members to speak up about their challenges.
 - **Longer-Term Solutions:** Encourage participation in wellness programs, explicitly communicate with teams about GitLabs culture of flexible work, and review job/role descriptions for potential stressors and opportunities to address scope.
 - **Dogfood:** Managers must model healthy/balanced working behaviors! Taking time away, sharing challenges and success around effectively managing workload, storytelling centered on output as a result of effective workload management. 
