@@ -4,7 +4,7 @@ title: Handbook Embedding Demonstration Page
 type: docs
 ---
 
-This is our Tableau embed demo page.  It is used to demonistate how we can embed Tableau visualizations into the handbook and provide the url for views that are availbe to be embedded publicly.  To facilitate uniform experaince and presination we use a [shortcode](https://handbook.gitlab.com/docs/shortcodes/#tableau-embeds) to embed Tableau charts and dashboards.
+This is our Tableau embed demo page.  It is used to demonstrate how we can embed Tableau visualizations into the handbook and provide the url for views that are available to be embedded publicly.  To facilitate uniform experience and presentation we use a [shortcode](https://handbook.gitlab.com/docs/shortcodes/#tableau-embeds) to embed Tableau charts and dashboards.
 
 ## Embedd Demponstation
 
