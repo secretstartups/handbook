@@ -126,16 +126,16 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2024-01-02 | 2024-01-05 | [Yin Yu] (https://gitlab.com/yyugitlab) | [Cynthia "Arty" Ng] (https://gitlab.com/cynthia) - Staff, Strategy & Operations |
-| 2024-01-08 | 2024-01-12 | AVAILABLE - REMOTE | [Yin Yu] (https://gitlab.com/yyugitlab) |
+| 2024-01-02 | 2024-01-05 | [Yin Yu](https://gitlab.com/yyugitlab) - Director, Strategy & Operations | [Cynthia "Arty" Ng](https://gitlab.com/cynthia) - Staff, Strategy & Operations |
+| 2024-01-08 | 2024-01-12 | AVAILABLE - REMOTE | [Yin Yu](https://gitlab.com/yyugitlab) - Director, Strategy & Operations |
 | 2024-01-15 | 2024-01-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-01-22 | 2024-01-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-01-29 | 2024-02-02 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-02-05 | 2024-02-09 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-02-12 | 2024-02-16 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-02-19 | 2024-02-23 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2024-02-26 | 2024-03-01 | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) | AVAILABLE - REMOTE |
-| 2024-03-04 | 2024-03-08 | AVAILABLE - REMOTE | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) |
+| 2024-02-26 | 2024-03-01 | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Senior Product Manager, Deploy:Environments | AVAILABLE - REMOTE |
+| 2024-03-04 | 2024-03-08 | AVAILABLE - REMOTE | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Senior Product Manager, Deploy:Environments |
 | 2024-03-11 | 2023-03-15 | AVAILABLE - SUMMIT | AVAILABLE - SUMMIT |
 | 2024-03-18 | 2024-03-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-03-25 | 2024-03-29 | AVAILABLE - BAY AREA | AVAILABLE - BAY AREA |
