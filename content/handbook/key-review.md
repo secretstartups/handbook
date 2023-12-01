@@ -57,7 +57,7 @@ Functions that have these quarterly meetings are:
 1. Development (Christopher Lefelhocz - function DRI), month 3
 1. Infrastructure & Quality (Mek Stittri - function DRI), month 3
 
-Function DRIs are expected to review the invite list in advance of each Key Review. If cross-functional topics are being discussed, they are encouraged to invite folks who should be involved in the conversation. If there are MNPI concerns, they may choose to link to a separate agenda for this part of the discussion. 
+Function DRIs are expected to review the invite list in advance of each Key Review. If cross-functional topics are being discussed, they are encouraged to invite folks who should be involved in the conversation. If there are MNPI concerns, they may choose to link to a separate agenda for this part of the discussion.
 
 If you would like to be added to a function's Key Review ask your functional E-Group member to ask the EBA to the CFO to add you.
 
@@ -71,7 +71,7 @@ Some teams leverage Sisense's existing automation functionality to prepare Googl
 Content to cover in each Key Review:
 
 1. Review of 3-5 Discussion Topics. (65% of review time)
-   1.  Leaders are encouraged to **highlight one or two specific discussion topic(s)** they would like to discuss or one decision they want to get alignment on. This helps to focus the conversation on important topics.
+   1.  Leaders are encouraged to **highlight one or two specific discussion topics** they would like to discuss or one decision they want to get alignment on. This helps to focus the conversation on important topics.
    1. We often share a lot of details within Key Review decks. The Discussion Topic section should clearly identify and elevate a 3-5 key items that warrant greater leadership awareness and attention. These could include progress on key contributors success contributors, an update on areas of urgent concern, or other topics which are valuable to surface to a broader group for awareness & collaboration.
    1. Review action items in prior quarter: results, learnings
    1. Review actions being taken now, expected impact, measurement plan
