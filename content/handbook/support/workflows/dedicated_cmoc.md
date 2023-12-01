@@ -6,7 +6,7 @@ description: "Describes the role and responsibilities for the GitLab Dedicated C
 
 ## Introduction
 
-The GDCMOC is strictly limited to communications and contact outreach via Zendesk. There is no expectation from the GitLab Dedicated CMOC to be performing troubleshooting responsibilities. It is primiarily an async based approach, communicating with team members in slack or GitLab issues, and then relaying the information to the customer in Zendesk to keep them up to date. GDCMOCs do not need to dedicate all their focus to keeping an eye on the relevant threads/issues, but they should regularly check communication threads for updates they can communicate to customers.
+The GDCMOC is an async role with the purpose of contact outreach via Zendesk. There is no expectation from the GDCMOC to be performing troubleshooting responsibilities. It involves communicating with team members in slack or GitLab issues, and then relaying the information to the customer in Zendesk to keep them up to date. GDCMOCs do not need to dedicate all their focus to keeping an eye on the relevant threads/issues, but they should regularly check communication threads for updates they should communicate to customers.
 
 The GitLab Dedicated CMOC (GDCMOC) rotation currently uses the GitLab.com CMOC rotation to determine who is oncall. This means that when you go oncall as a GitLab.com CMOC, you will also be the GDCMOC. This may change at a later date if it's determined we need to split this out to its' own rotation.
 
