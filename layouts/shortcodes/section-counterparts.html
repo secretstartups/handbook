@@ -1,20 +1,34 @@
-{{ with resources.GetRemote "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/data/sections.yml" }}
-  {{ with .Err}}
-    <h2>Unable to fetch sections Data</h2>
-  {{ else }}
+{{ $sections := partials.IncludeCached "data/sections" page }}
   <table>
+    <thead>
       <tr>
           <th>Section</th>
           <th>Support Counterpart</th>
       </tr>
-      {{ $data := . | transform.Unmarshal }}
-      {{ range $data }}
-          {{ if .sm }}
-          <tr>
-              <td>{{ .name }}</td>
-              <td>{{ .sm }}</td>
-          </tr>
-          {{ end }}
-      {{ end }}
-  {{ end }}
-{{ end }}
+    </thead>
+    <tbody>
+    {{- range $sections }}
+      {{- if .sm }}
+      <tr>
+          <td>{{ .name }}</td>
+          <td>{{ partial "member-by-name" .sm }}</td>
+      </tr>
+      {{- end }}
+    {{- end }}
+    </tbody>
+</table>
+
+<style>
+    img.avatar {
+    width: 30px;
+    height: 30px;
+    max-width: 30px;
+    max-height: 30px;
+    overflow: hidden;
+    margin-right: 10px;
+    border-radius: 50%;
+    border: 1px solid lightgray;
+    aspect-ratio: auto 90 / 90;
+    overflow-clip-margin: content-box;
+    }
+</style>
