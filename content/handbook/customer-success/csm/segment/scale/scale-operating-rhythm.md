@@ -125,7 +125,7 @@ Question - who sends the recording after the session?
 
 The upcoming month's hands-on workshops are added to an issue in the [Customer Success Operations Project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/?label_name%5B%5D=CSOps%20-%20Scale) (separate from the webinar schedule) and the CSE team is asked to sign up as Presenter or Q&A support. 
 
-The Presenter should add the workshop to the [FY23 and FY24 Lab Schedule issue](https://gitlab.com/gitlab-com/customer-success/demo-engineering/workshop-library/demo-engineering-workshop-issues/-/issues/8) in the Demo Engineering Workshop Issues Project.  This should be added at least one week before the workshop to give the Demo Engineering team enough time to prepare the lab environment.  
+The Presenter should add the workshop to the [FY23 and FY24 Lab Schedule issue](https://gitlab.com/gitlab-com/customer-success/demo-engineering/workshop-library/demo-engineering-workshop-issues/-/issues/8) in the Demo Engineering Workshop Issues Project.  This should be added at least one week before the workshop to give the Demo Engineering team enough time to prepare the lab environment.  Then add a comment mentioning @sgrahamgl to let him know you added your workshops.
 
 A registration code will then be created for the workshop.  Registration codes are tracked in the [2023 Demo Team Scale/CSM Workshop Registrations google sheet](https://docs.google.com/spreadsheets/d/1H0Ym78QqXeufzsHMWMsFBSi9mIav0apUBm7D-D7-haU/edit?usp=sharing).  Workshop attendees will use the registration code at the beginning of the workshop to have lab credentials and an subgroup created to use for the hands-on exercises, [provisioned via gitlabdemo.com](https://gitlabdemo.com/login).  Each slide deck has detailed instructions for the attendees that the host will guide them through to create the subgroup and access it.
 
@@ -134,6 +134,9 @@ Before the workshop, the host should make a copy of the appropriate master slide
 Once the slide deck customizations are complete, the host should upload the deck to their personal space in Highspot and create a link that will be shared in the follow up email.  The Customer Success Operations Program Manager will handle all pre-workshop and post-workshop communication with the attendees, and will request the Highspot link to add to the post-workshop email.
 
 The workshop lab content is contained in the [GitLab.com Workshop Library group](https://gitlab.com/gitlab-com/customer-success/demo-engineering/workshop-library).  The host should run through the lab exercises in their entirety at least once before the workshop to ensure there are no technical issues.
+
+To do: You should also create a paste notes doc...example
+Chris creates a short link from a Highspot page and a QR code  
 
 The #scale_workshops_planning slack channel is used for any pre-workshop questions, set up, demo environment issues, etc.
 
