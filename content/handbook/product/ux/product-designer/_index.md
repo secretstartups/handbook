@@ -455,6 +455,21 @@ Each milestone we focus on a specific area of the product (previous milestone th
 - Try pinging the developers on your MR suggested by reviewer roulette
 - People are super helpful in Slack channels `#g_manage_foundations` and `#gitlab-ui`
 
+### Suggesting Paper Cuts to the team
+
+The Paper Cuts team welcomes suggestions as an input to their planning.
+
+When there is a problem you think may be a good fit for the Paper Cuts team:
+
+- If an issue already exists:
+    1. Add the `~"UX Paper Cuts"` label and a group label appropriate to the functionality affected.
+    1. Leave a brief comment on the issue explaining why it may be a good fit for Paper Cuts work.
+- If an issue does not exist:
+    1. Mention the problem in the [Paper cuts possibilities & requests](https://gitlab.com/gitlab-org/gitlab/-/issues/417911) issue for discussion.
+
+UX Paper Cuts team members will triage existing issues and ideas mentioned in the possibilities and requests discussion and incorporate actionable changes as they plan their work.
+Issues that are not good candidates for Paper Cuts work will have the `~"UX Paper Cuts"` label removed and a Paper Cuts team member will leave a brief comment on why the issue is not a good fit.
+
 ## Approach to communication
 
 As design can be subjective, discussion can heat up. Sometimes team members won't agree on the best approach. Always try to be [direct](/handbook/values/#directness) but [kind](/handbook/values/#kindness). Try to give your best reasoning for your choices, and evaluate everyone's ideas and suggestions. Come up with a solution instead of discussing endlessly. If you think additional perspective is needed, mention a fellow Product Designer in the issue, or take it a step further and suggest that we perform some [solution validation](/handbook/product/ux/ux-research/#solution-validation) to let the data guide our design direction. Finally, remember that at GitLab we can [disagree, commit, and disagree](/handbook/values/#disagree-commit-and-disagree).

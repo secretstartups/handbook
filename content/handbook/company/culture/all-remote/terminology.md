@@ -10,7 +10,7 @@ twitter_creator: "@gitlab"
 ![GitLab all-remote team](/images/all-remote/gitlab-com-all-remote-1280x270.png)
 {style="max-width: 50%;"}
 
-GitLab is the world's largest all-remote company. We are 100% remote, with no company-owned offices *anywhere* on the planet. We have <%= team_size %> team members in more than 65 countries. On this page, we're detailing why we refer to this structure as **all-remote**, and why we prefer this term over others.
+GitLab is the world's largest all-remote company. We are 100% remote, with no company-owned offices *anywhere* on the planet. We have {{< team-size >}} team members in more than 65 countries. On this page, we're detailing why we refer to this structure as **all-remote**, and why we prefer this term over others.
 
 ## What does "all-remote" mean?
 
