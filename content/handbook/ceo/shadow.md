@@ -94,7 +94,8 @@ Learn more about what to expect from a [remote shadow rotation](#remote-shadow-r
 
 1. Create a merge request to add yourself to the [rotation schedule](#rotation-schedule), assigning yourself.
 1. Add your manager as a reviewer and ask them to approve (**but not to merge**) the merge request.
-1. Once your manager approves the merge request, add the [Chief of Staff to the CEO]({{< ref chief-of-staff >}}) as a reviewer, link to the merge request in the `#ceo-shadow` channel, and `@mention` the [Executive Business Admin (EBA)]({{< ref eba >}}) supporting the CEO in the message.
+1. Once your manager approves the merge request, add the [Executive Business Admin (EBA) to CEO]({{< ref eba >}}) as a reviewer.
+1. Post in the `#ceo-shadow` channel with a link to the merge request, and `@mention` the EBA in the message.
 
 Please keep in mind when selecting dates that the CEO's schedule is fluid and subject to constant change, which also means that the CEO Shadow rotation is subject to constant change. The posted dates are not guaranteed. We will work with you to reschedule your rotation if a conflict arises.
 
@@ -139,8 +140,8 @@ Exceptional community members may be able to participate, as well.
 | 2024-03-11 | 2023-03-15 | AVAILABLE - SUMMIT | AVAILABLE - SUMMIT |
 | 2024-03-18 | 2024-03-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-03-25 | 2024-03-29 | [Reshmi Krishna](https://gitlab.com/reshmikrishna) - Director, Enterprise Solutions Architecture | AVAILABLE - BAY AREA |
-| 2024-04-01 | 2024-04-05 | AVAILABLE - REMOTE | [Reshmi Krishna](https://gitlab.com/reshmikrishna) - Director, Enterprise Solutions Architceture |
-| 2024-04-08 | 2024-04-12 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2024-04-01 | 2024-04-05 | [Jeremy Wagner](https://gitlab.com/jeremywagner) | [Reshmi Krishna](https://gitlab.com/reshmikrishna) - Director, Enterprise Solutions Architecture |
+| 2024-04-08 | 2024-04-12 | AVAILABLE - REMOTE | [Jeremy Wagner](https://gitlab.com/jeremywagner) |
 | 2024-04-15 | 2024-04-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-04-22 | 2024-04-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-04-29 | 2024-05-03 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
