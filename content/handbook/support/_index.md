@@ -202,7 +202,7 @@ The continued growth of the support team provides an opportunity to review how b
 
 ## Dogfooding in Support
 
-We sometimes get questions like "Why doesn't GitLab support using [Service Desk](https://docs.gitlab.com/ee/user/project/service_desk/)?" citing our [dogfooding](/handbook/values/#dogfooding) operating principle.
+Citing our [dogfooding](/handbook/values/#dogfooding) operating principle, people sometimes ask why GitLab Support doesn't use [Service Desk](https://docs.gitlab.com/ee/user/project/service_desk/).
 
 Dogfooding is using a piece of GitLab *for its intended purpose*. For example, one *could* use GitLab issues as a newsletter (and we do! See: [Support Week in Review](#support-week-in-review)), but creating merge requests to help Issues serve as a newsletter more effectively wouldn't be dogfooding unless that improvement also helps its core use case.
 
@@ -614,7 +614,7 @@ After getting promoted, make sure to update your title in:
 - our [Support team page](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/support-team.yaml), and the change would be reflected in Zendesk
 - the company team page following the same steps in [Add yourself to the Team Page](https://about.gitlab.com/handbook/git-page-update/#12-add-yourself-to-the-team-page)
 
-Consider updating the title on slack and on zoom as well, following the guidelines in [zoom name format](#zoom-name-format).
+Consider updating the title on Slack and on Zoom, following the guidelines in [Zoom name format](#zoom-name-format).
 
 ### Support Pods
 
