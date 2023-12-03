@@ -50,8 +50,7 @@ but they should always take each suggestion seriously and try to respond and exp
 
 We value caring for others.
 Demonstrating we care for people provides an effective framework for challenging directly and delivering feedback.
-We disagree with companies that say [Evaluate People Accurately, Not "Kindly"](https://inside.bwater.com/publications/principles_excerpt).
-We're all for accurate assessment, but we think it must be done in a kind way.
+We disagree with companies that say Evaluate People Accurately, Not "Kindly". We're all for accurate assessment, but we think it must be done in a kind way.
 Give as much positive feedback as you can, and do it in a public way.
 
 ##### Share
