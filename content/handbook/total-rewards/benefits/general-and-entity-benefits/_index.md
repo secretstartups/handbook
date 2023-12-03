@@ -237,7 +237,7 @@ Sales management has discretion on how to cover a team member's territory while 
 
 For Solution Architects and Management and Customer Success Managers and Management, payment will be calculated for individuals using actual team performance while on leave. These roles will not be eligible for quota relief during parental leave.
 
-For Sales roles with a utilization attainment, like the [Professional Services Engineer](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#team-metrics), since the utilization attainment is based on delivering above 70% of available billable hours, we apply the baseline attainment linked to utilization attainment, 50%.
+For Sales roles with a utilization attainment, like the [Professional Services Engineer](/handbook/customer-success/professional-services-engineering/#team-metrics), since the utilization attainment is based on delivering above 70% of available billable hours, we apply the baseline attainment linked to utilization attainment, 50%.
 
 At the end of 90 continuous days of parental or medical leave, a one time payment of the 50% billable utilization attainment will be paid. Utilization payout during parental or medical leave is not based on prior individual performance, since projects identified for billable utilization are based on sales engagements and services attached, and not determined by individual performance.
 

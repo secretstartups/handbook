@@ -47,8 +47,8 @@ These KPIs are determined by a combination of their stand alone importance to th
 1. [Net New Business Pipeline Created ($s)](/handbook/marketing/performance-indicators/#net-new-business-pipeline-created) 🐔 (leading)
 1. [Pipeline coverage start of quarter stage 3+](/handbook/marketing/performance-indicators/#pipeline-coverage) (leading)
 1. [Percent of Ramped Reps at or Above Quota](https://internal.gitlab.com/handbook/company/performance-indicators/sales/#percent-of-ramped-reps-at-or-above-quota) [📊](https://app.periscopedata.com/app/gitlab/832223/Sales-KPI's?widget=11433770&udv=0) (lagging)
-1. [Net Retention](https://about.gitlab.com/handbook/customer-success/vision/#retention-and-reasons-for-churn) [🔗](https://app.periscopedata.com/app/gitlab/832223/Sales-KPI's?widget=11155475&udv=0) (lagging)
-1. [Gross Retention](https://about.gitlab.com/handbook/customer-success/vision/#retention-and-reasons-for-churn) [🔗](https://app.periscopedata.com/app/gitlab/403244/Retention?widget=5435598&udv=1067274) (lagging)
+1. [Net Retention](/handbook/customer-success/vision/#retention-and-reasons-for-churn) [🔗](https://app.periscopedata.com/app/gitlab/832223/Sales-KPI's?widget=11155475&udv=0) (lagging)
+1. [Gross Retention](/handbook/customer-success/vision/#retention-and-reasons-for-churn) [🔗](https://app.periscopedata.com/app/gitlab/403244/Retention?widget=5435598&udv=1067274) (lagging)
 1. [12 Month Team Member Voluntary Retention](/handbook/people-group/people-success-performance-indicators/#team-member-voluntary-retention-rolling-12-months) [🔗](https://app.periscopedata.com/app/gitlab/482006/People-KPIs?widget=9592672&udv=904340) (lagging)
 1. [Unique Wider Community Contributors per Month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month) [📊](https://app.periscopedata.com/app/gitlab/729542/Community-Efficiency-PIs?widget=9522755&udv=1125629) (lagging)
 
@@ -130,8 +130,8 @@ We have the following abbreviation letter before SAT, please don’t use SAT wit
 Since we track retention in a lot of ways, we should never refer to just "Retention" without indicating what kind of retention.
 We track:
 
-- [Net Retention](https://about.gitlab.com/handbook/customer-success/vision/#retention-and-reasons-for-churn)
-- [Gross Retention](https://about.gitlab.com/handbook/customer-success/vision/#retention-and-reasons-for-churn)
+- [Net Retention](/handbook/customer-success/vision/#retention-and-reasons-for-churn)
+- [Gross Retention](/handbook/customer-success/vision/#retention-and-reasons-for-churn)
 - User Retention
 - [Team Member Retention](/handbook/people-group/people-group-metrics/#team-member-retention)
 

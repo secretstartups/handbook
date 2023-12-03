@@ -155,7 +155,7 @@ deciding which of them to do first.
 1. Handle:
    - Emergencies if you are the Support Engineer On-Call, or if the Engineer On-Call needs help
    - Incidents if you are the CMOC
-   - [Account escalations](https://about.gitlab.com/handbook/customer-success/csm/escalations/) if you are a DRI or contributing member on an active escalation.
+   - [Account escalations](/handbook/customer-success/csm/escalations/) if you are a DRI or contributing member on an active escalation.
 1. Handle [STARred tickets](/handbook/support/internal-support/support-ticket-attention-requests) that are assigned to you or your group.
    - Assigned tickets that are STARred will ping the assignee and on-call manager.
    - If your ticket is STARred during your business hours, plan to engage in the STAR thread created in the #support_ticket-attention-requests Slack channel to help address any questions or concerns.

@@ -44,7 +44,7 @@ You have access to an always-on GitLab Demo Cloud self-managed GitLab Omnibus in
 
 When you provision your credentials, a new top-level group will be created with your name that you can store your projects in. This is a shared environment so please do not change any admin-level settings so you don't break another team member's demo.
 
-- [ ] **Action:** Follow the [self-service instructions](https://about.gitlab.com/handbook/customer-success/demo-systems/#access-shared-omnibus-instances) to provision credentials for the `cs.gitlabdemo.cloud` instance.
+- [ ] **Action:** Follow the [self-service instructions](/handbook/customer-success/demo-systems/#access-shared-omnibus-instances) to provision credentials for the `cs.gitlabdemo.cloud` instance.
 - [ ] **Action:** Join the `#demo-systems` Slack channel for system maintenance announcements and a safe space to ask questions if you have any problems.
 
 ## Personal AWS Account and GCP Project

@@ -8,7 +8,7 @@ Welcome to the Sales Finance Handbook!
 ## Common Links
 
 - [Financial Planning & Analysis (FP&A)]({{< ref "financial-planning-and-analysis" >}}/)
-- [Sales Strategy & Analytics (SS&A)](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/)
+- [Sales Strategy & Analytics (SS&A)](/handbook/sales/field-operations/sales-strategy/)
 - [GTM Analytics Hub]({{< ref "gtm-analytics-hub" >}})
 
 ## Finance Business Partner Alignment

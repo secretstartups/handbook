@@ -22,10 +22,10 @@ Make sure to save these credentials as distinct from your regular GitLab credent
 - [Support: Common Licensing, Transaction and Billing Troubleshooting](/handbook/support/license-and-renewals/workflows/license_troubleshooting.html)
 - [Sales Enablement Renewal Doc](https://docs.google.com/document/d/15WKHS-LxE4c4BbZ4eNREwwH_n_DhX_Q2yzT0OYTNjh0/edit)
 - How to create a quote
-    - [new subscription quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote)
-    - [amend subscription quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote)
-    - [renew subscription quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#renew-subscription-quote)
-- [Quote Approval instruction](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-submit-a-quote-for-discount-and-payment-term-approval)
+    - [new subscription quote](/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote)
+    - [amend subscription quote](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote)
+    - [renew subscription quote](/handbook/sales/field-operations/sales-operations/deal-desk/#renew-subscription-quote)
+- [Quote Approval instruction](/handbook/sales/field-operations/order-processing/#how-to-submit-a-quote-for-discount-and-payment-term-approval)
 - [Good resource of helpful links from CSMs](https://gitlab.com/gitlab-com/account-management/commercial/triage/blob/master/LINKS.md)
 - [How GitLab.com Subscriptions Work](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/dotcom-subscriptions/)
 
@@ -312,7 +312,7 @@ Note, if there are more users associated with the group (including its subgroups
    - This will create a new oppty for your upgrade
    - Name the oppty appropriately
    - From the new add-on oppty view click `New Quote`
-   - [Amend subscription](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote)
+   - [Amend subscription](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote)
      - add the new SKU
      - remove the old items
      - `Save`

@@ -45,8 +45,8 @@ Know how to read and interpret the marketing analytics GitLab’s marketing team
 - [Learning GitLab](https://www.linkedin.com/learning/learning-gitlab-2/version-control-and-more?u=2255073) - This training teaches markdown basics and even directs folks to GitLab flavored markdown. These simple tips can transform your epics and issues. It covers headings, bulleted lists, numbered lists, bold and italic text, and how to insert links and images.
 
 ### Revenue basics  
-- [Annual recurring revenue](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/) (HB)
-- [Customer lifecycle at GitLab](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#customer-lifecycle) (HB)
+- [Annual recurring revenue](/handbook/sales/sales-term-glossary/arr-in-practice/) (HB)
+- [Customer lifecycle at GitLab](/handbook/sales/field-operations/gtm-resources/#customer-lifecycle) (HB)
 
 ### Product knowledge 
 - [Product Marketing Foundations](https://www.linkedin.com/learning/product-marketing-foundations/product-marketing-metrics?u=2255073) 

@@ -7,7 +7,7 @@ The CRM Systems, Director reports to the Senior Director, Enterprise Application
 
 ### Job Grade
 
-CRM Systems, Director is a [grade 10](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/)
+CRM Systems, Director is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the [Director, Enterprise Applications](/job-families/finance/senior-director-enterprise-applications/)
 
 ### Responsibilities
 

@@ -26,7 +26,7 @@ You may wish to use the UX Cloud Sandbox if you are interested in:
 
 ### Access to the UX Cloud Sandbox
 
-To gain access to the UX Cloud Sandbox, the first step is to generate credentials. You can self-serve on that by [following the steps on this handbook page](https://about.gitlab.com/handbook/customer-success/demo-systems/#access-shared-omnibus-instances) under ‘Access Shared Omnibus Instances’.
+To gain access to the UX Cloud Sandbox, the first step is to generate credentials. You can self-serve on that by [following the steps on this handbook page](/handbook/customer-success/demo-systems/#access-shared-omnibus-instances) under ‘Access Shared Omnibus Instances’.
 
 Once you have generated credentials and accessed [the sandbox instance](https://ux.gitlabdemo.cloud/), you will be automatically granted your own group space with your name on it (see picture below). This group is like any other group in GitLab, it just has your name on it, and will act as the container for all of the work you do in the sandbox.
 

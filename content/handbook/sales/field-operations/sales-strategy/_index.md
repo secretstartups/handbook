@@ -39,11 +39,11 @@ Create an issue in the [analytics project](https://gitlab.com/gitlab-com/sales-t
 
 ## Sales Headcount Change Management Process
 
-Please find instructions on how to initiate a Sales Headcount change [here](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/sales-headcount)
+Please find instructions on how to initiate a Sales Headcount change [here](/handbook/sales/field-operations/sales-strategy/sales-headcount)
 
 ## Projects
 
-You can find information about specific projects [here](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/projects)
+You can find information about specific projects [here](/handbook/sales/field-operations/sales-strategy/projects)
 
 ## Sales Analytics
 
@@ -53,12 +53,12 @@ The SS&A team is reponsible of maintaining a set of key reports for the Sales or
 
 | Report | Description |
 | ----- | ----- |
-| [Pipeline X-Ray](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/analytics/pipeline-x-ray) | Pipeline coverage & generation by segment, region, order type & sales qualified source for current and future fiscal quarters
-| [SAE Heatmap](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/analytics/sal-heatmap) | Achievement, coverage and pipeline generation summary by SAE by region |
+| [Pipeline X-Ray](/handbook/sales/field-operations/sales-strategy/analytics/pipeline-x-ray) | Pipeline coverage & generation by segment, region, order type & sales qualified source for current and future fiscal quarters
+| [SAE Heatmap](/handbook/sales/field-operations/sales-strategy/analytics/sal-heatmap) | Achievement, coverage and pipeline generation summary by SAE by region |
 | [SS&A - Pipeline Velocity & Generation](https://app.periscopedata.com/app/gitlab:safe-dashboard/919343/SS&A---Pipeline-Velocity-&-Generation)|  Pipeline and Pacing progression by day of current and previous fiscal quarters |
 | [SS&A - Pipeline Movement Tracker](https://app.periscopedata.com/app/gitlab:safe-dashboard/919348/SS&A---Pipeline-Movement-Tracker) | Helps to identify root causes of Open Pipeline and Pipeline Generation movements |
 
-For detailed explanations on Pipeline Management tools, please visit [here](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/analytics/pipeline-management-tools)
+For detailed explanations on Pipeline Management tools, please visit [here](/handbook/sales/field-operations/sales-strategy/analytics/pipeline-management-tools)
 
 
 ## FY22 Field Planning

@@ -22,7 +22,7 @@ We communicate respectfully and professionally at all times.
 1. **Feedback is Essential.** It is difficult to know what is appropriate in every one of our team members 60+ countries. We encourage team members to give feedback and receive feedback in a considerate way.
 1. **Do not underestimate a 1:1.** Asynchronous communication (e.g., via text) is helpful and necessary. In some cases (e.g., to clarify misunderstandings) it can be much more effective to jump on a Zoom video call.
 1. **Always Adhere to our [Anti-Harassment Policy](/handbook/anti-harassment/) and [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).** Everyone should be comfortable in their work environment.
-1. **Focus on what we can directly influence.** There are many factors we can't directly influence and we should avoid spending time discussing those things. For example, we don't talk about our [market capitalization](/handbook/being-a-public-company/#market-capitalization) because aspects of this are out of our control. Instead, we should focus on our KPIs and growing [annual recurring revenue](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/).
+1. **Focus on what we can directly influence.** There are many factors we can't directly influence and we should avoid spending time discussing those things. For example, we don't talk about our [market capitalization](/handbook/being-a-public-company/#market-capitalization) because aspects of this are out of our control. Instead, we should focus on our KPIs and growing [annual recurring revenue](/handbook/sales/sales-term-glossary/arr-in-practice/).
 1. **Commit to [active and effective listening](/handbook/people-group/learning-and-development/manager-coaching-and-leadership-resources/#demonstrating-active-listening)**.
 
 Embracing asynchronous communication and learning to use it effectively requires a mental shift. This can feel unusual or even uncomfortable for those who come from a colocated environment, where in-person meetings and communiques are the norm. Learn more about [mastering the use of the written word in an all-remote setting](/handbook/company/culture/all-remote/effective-communication/).
@@ -914,7 +914,7 @@ Watch the replay below:
 1. Do not use acronyms when you can avoid them. Acronyms have the effect of excluding people from the conversation if they are not familiar with a particular term. Example: instead of `MR`, write `merge request (MR)`.
    1. If acronyms are used, expand them at least once in the conversation or document and define them in the document using [Kramdown abbreviation syntax](https://kramdown.gettalong.org/syntax.html#abbreviations). Alternatively, link to the definition.
    1. If you don't know the meaning of an acronym, ask. It's always ok to [speak up](/handbook/values/#share).
-1. We segment our customers/prospects into 4 segments [Strategic, Large, Mid-Market, and Small Medium Business (SMB)](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/).
+1. We segment our customers/prospects into 4 segments [Strategic, Large, Mid-Market, and Small Medium Business (SMB)](/handbook/sales/field-operations/gtm-resources/).
 
 ### Communicating dates and time
 
@@ -954,7 +954,7 @@ We use it for activities in GitLab, even ones not implemented in software.
 
 By having ubiquitous words to identify concepts we prevent confusion over what is meant, for example we refer to [parts of our organization](/handbook/company/team/structure/) as a function, department, or group depending on exactly what is meant.
 
-Make sure that domains don't overlap, for example [organization size](https://about.gitlab.com/handbook/sales/#organization-size) and [deal size](https://about.gitlab.com/handbook/sales/sales-term-glossary/) don't reuse words to prevent overlap.
+Make sure that domains don't overlap, for example [organization size](/handbook/sales/#organization-size) and [deal size](/handbook/sales/sales-term-glossary/) don't reuse words to prevent overlap.
 
 If a term is ambiguous don't use it, for example our hiring team uses the terms `roles` and `vacancies`, but avoid the ambiguous word `job`.
 
@@ -979,7 +979,7 @@ We want to use MECEFU terms to describe a domain to ensure efficient communicati
 1. Few words: the longer terms are the more likely it is people will not use all of them and cause confusion, therefore consider two words as the upper limit for a single term. Avoid acronyms because they are hard to remember (we're open to a few words to replace MECEFU as an acronym :)
 1. Ubiquitous language: [defined above](#ubiquitous-language)
 
-An example of a MECEFU term is our [sales segmentation](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/):
+An example of a MECEFU term is our [sales segmentation](/handbook/sales/field-operations/gtm-resources/):
 
 1. Mutually Exclusive: There is no overlap between the numbers and there is a single dimension.
 1. Collectively Exhaustive: Everything for 0 to infinite employees is covered.

@@ -21,12 +21,12 @@ The #field-fyi channel is the official field announcements channel. This is a re
    1. Use numbered lists when possible to summarize key points.
    1. Link out to relevant documentation for any points that need additional context. Hit on the highlights in the update and let the documentation take it from there.
    1. Avoid having multiple link previews accompanying a post. Only keep the ones that are valuable to getting the point across. Delete all others. (Deleting all is okay, too.)
-1. ALL #field-fyi messages should contain a header in the approved format. Please see [#field-FYI Post Headers](https://about.gitlab.com/handbook/sales/sales-google-groups/field-fyi-channel/#field-fyi-post-headers) section below for more details.
+1. ALL #field-fyi messages should contain a header in the approved format. Please see [#field-FYI Post Headers](/handbook/sales/sales-google-groups/field-fyi-channel/#field-fyi-post-headers) section below for more details.
 1. A peripheral goal of the field-fyi channel is to cut down on noise in other channels like #sales and #customer-success to make them more easily consumable. As a result, this channel should be the single source of Slack truth for important field announcements. Avoid cross posting to other channels when possible, as this will create more noise and defeat the purpose of the channel.
 
 ## #field-fyi Post Headers
 
-Based on team member feedback, each #field-fyi post has a bolded header that helps team members quickly identify the audience, topic and level of urgency/type of action. The header follows this format: `[AUDIENCE] | [TOPIC] | [TYPE] | [URGENCY]`. You can find instructions on what to include in this header and how to format it in the [Field announcement request issue template](https://about.gitlab.com/handbook/sales/field-communications/#requesting-field-announcements) when requesting an announcement.
+Based on team member feedback, each #field-fyi post has a bolded header that helps team members quickly identify the audience, topic and level of urgency/type of action. The header follows this format: `[AUDIENCE] | [TOPIC] | [TYPE] | [URGENCY]`. You can find instructions on what to include in this header and how to format it in the [Field announcement request issue template](/handbook/sales/field-communications/#requesting-field-announcements) when requesting an announcement.
 
 1. Audience
    - All Field (Sales, CS, Channel & Alliances, Ops)
@@ -81,5 +81,5 @@ Based on team member feedback, each #field-fyi post has a bolded header that hel
 1. Yes! Field Comms' primary responsibility is to ensure that the Field team gets their information in the most effective and efficient way. They are here as a resource for you to help you get the largest reach possible out of your announcement by collaborating with you on the best timing and a milti-channel communication plan.
 
 **If someone has an update fitting for #field-fyi but doesn't have posting permissions, how can they get their news shared?**
-1. If it's a one-off request, please reach out to #field-enablement-team or create a brief issue summarizing your requested announcement using the [Field announcements request process](https://about.gitlab.com/handbook/sales/field-communications/#requesting-field-announcements).
-1. If a team member needs the ability to share updates on a recurring basis, they can work directly with the [Field Enablement team](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/) to discuss posting permissions.
+1. If it's a one-off request, please reach out to #field-enablement-team or create a brief issue summarizing your requested announcement using the [Field announcements request process](/handbook/sales/field-communications/#requesting-field-announcements).
+1. If a team member needs the ability to share updates on a recurring basis, they can work directly with the [Field Enablement team](/handbook/sales/field-operations/field-enablement/) to discuss posting permissions.

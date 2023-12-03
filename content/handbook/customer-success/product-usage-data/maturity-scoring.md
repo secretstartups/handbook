@@ -12,9 +12,9 @@ description: "An overview of Adoption Scoring, how it is calculated, and how CSM
 
 
 
-*For an overview of Gainsight, and information about how to login, please refer to the [Gainsight Overview Page](https://about.gitlab.com/handbook/sales/gainsight/).*
+*For an overview of Gainsight, and information about how to login, please refer to the [Gainsight Overview Page](/handbook/sales/gainsight/).*
 
-For an overview of how CSMs use Gainsight, please refer to the [Gainsight CSM Overview Page](https://about.gitlab.com/handbook/customer-success/csm/gainsight)
+For an overview of how CSMs use Gainsight, please refer to the [Gainsight CSM Overview Page](/handbook/customer-success/csm/gainsight)
 
 ## Adoption Scoring
 

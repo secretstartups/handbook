@@ -76,7 +76,7 @@ GitLab understands the value of our customer relationships and values customers 
 
 ### Approved Customer Slides
 
-1. Customer Slide in the [Pitch Deck](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/positioning/#pitch-deck)
+1. Customer Slide in the [Pitch Deck](/handbook/customer-success/professional-services-engineering/positioning/#pitch-deck)
 This [slide](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/edit#slide=id.gcc362bfe78_0_84) is reviewed and updated on a 6 monthly basis by the PMM team and the Reference team. The CRM creates the review issue and works with the assigned PMM to review new logos and create a revised slide. Once the strategic marketing team approves the new slide; the CRM creates an [issue](/handbook/marketing/inbound-marketing/#brand-and-design-issue-templates) for the brand team to review the slide. The CRM co-ordinates with the Pitch deck editor to update the new slide into the pitch deck.
 
 2. Customer Case Study Slides

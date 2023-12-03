@@ -38,7 +38,7 @@ It's important to note that ultimately the Customer Portal admin will have the m
 
 ###### License Usage App
 
-The best way to understand seat utilization for self-managed customers is by using the [License Usage Salesforce App](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/license-usage-app/)
+The best way to understand seat utilization for self-managed customers is by using the [License Usage Salesforce App](/handbook/sales/field-operations/sales-systems/license-usage-app/)
 
 ###### Version App
 

@@ -381,7 +381,7 @@ Should you come across an account you believe should be owned (or perhaps NOT ow
 1. Within the account in SFDC, please chatter @sales-support and provide reason why this account should be updated
 1. If more than 10 accounts need updated or if a FMM changes regions, then please open a [sales ops issue](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/new?issuable_template=General%20Request) requesting the update be made.
 
-Complete details on how GitLab Sales handles rules of Account Engagement can be [found here](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/).
+Complete details on how GitLab Sales handles rules of Account Engagement can be [found here](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/).
 
 #### PathFactory
 
@@ -1232,7 +1232,7 @@ If you are a FMM receiving requests to add a partner logo to our website, then p
 If you are a FMM receiving questions about the Channel Portal, then please direct the CAM or partner to Channel Programs.
 
 Please head over to [their page](/handbook/marketing/channel-marketing/) to check out their work and process.
-For more details on what the Channel Programs team does, please head to their [page](https://about.gitlab.com/handbook/sales/channel/).
+For more details on what the Channel Programs team does, please head to their [page](/handbook/sales/channel/).
 
 # Field Marketing with Alliance Partners
 ## AWS

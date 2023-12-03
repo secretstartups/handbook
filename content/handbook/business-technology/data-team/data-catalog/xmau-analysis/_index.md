@@ -47,7 +47,7 @@ and [hostname](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics
 - [Paid User](#paid-xmau-definition)
 - [Product Tier](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#overview)
 - [Service Ping](https://docs.gitlab.com/ee/development/service_ping/)
-- [Version](https://about.gitlab.com/handbook/sales/process/version-check/#what-is-the-functionality-of-the-gitlab-version-check)
+- [Version](/handbook/sales/process/version-check/#what-is-the-functionality-of-the-gitlab-version-check)
 - [Instance User Count](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/license/20210204124829_active_user_count.yml) -
 the total number of registered non-blocked users on an installation
   - This metric is *NOT* synonymous with what we consider "active users" for xMAU and PIs.

@@ -13,7 +13,7 @@ GitLab's main use case for this tool currently is to populate developer count nu
    - We will also use the LinkedIn Developer Count as an input to our LAM calculation, which will help us understand potential future growth of our accounts.
 
 LSI also provides info on employee count, industry, location of the HQ and/or the person, as well as how many jobs have been posted recently on LinkedIn for that company (an indicator of growth), and connectivity (how many employees from this company are connected to GitLab employees on LinkedIn).
-   - Since we are already getting employee count, industry, and address data from other more reliable sources, we do not intend to use that information from LSI.  We will continue to follow the steps and data sources outlined in the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement) for segmentation and assignment.
+   - Since we are already getting employee count, industry, and address data from other more reliable sources, we do not intend to use that information from LSI.  We will continue to follow the steps and data sources outlined in the [ROE](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement) for segmentation and assignment.
 
 
 

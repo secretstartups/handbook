@@ -148,7 +148,7 @@ The Senior Manager, Digital CS is a [grade 9](/handbook/total-rewards/compensati
 
 ### Digital CS
 
-Digital CS Program Managers focuse on enabling the onboarding-only and digital customer segments. They support and enable our digital only (email, surveys, etc) segment of customers and are are responsible for increasing stickiness and customer satisfaction of this segment along with the other members of the [Customer Success team](https://about.gitlab.com/handbook/customer-success/).
+Digital CS Program Managers focuse on enabling the onboarding-only and digital customer segments. They support and enable our digital only (email, surveys, etc) segment of customers and are are responsible for increasing stickiness and customer satisfaction of this segment along with the other members of the [Customer Success team](/handbook/customer-success/).
 
 - Extends responsibilities of the Program Manager, Senior, or Staff level
 - Drive collaboration with webinars, Education Services, surveys, and other means for a fully integrated customer experience
@@ -176,10 +176,10 @@ Customer Operations manage operational duties of and increase effectiveness and 
 
 ## Performance Indicators
 
-- [Time-to-Value KPI's](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis)
-- [Net Retention](https://about.gitlab.com/handbook/customer-success/vision/#retention-and-reasons-for-churn)
-- [Retention, Gross & Net](https://about.gitlab.com/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
-- [Reason for Churn/Expansion, Dollar Weighted](https://about.gitlab.com/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
+- [Time-to-Value KPI's](/handbook/customer-success/vision/#time-to-value-kpis)
+- [Net Retention](/handbook/customer-success/vision/#retention-and-reasons-for-churn)
+- [Retention, Gross & Net](/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
+- [Reason for Churn/Expansion, Dollar Weighted](/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
 
 ## Career Ladder
 

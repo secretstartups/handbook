@@ -11,13 +11,13 @@ description: “Discover how GitLab Scopes Professional Services for customers w
 
 ## Overview
 
-The purpose of this page is to document the sales-assisted selling motion used by Professional Services Engagement Managers and Regional Delivery Managers. If you're on a GitLab sales account team looking for information, try these pages on [positioning professional services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/positioning) or [selling professional services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/#custom-scoped-services).
+The purpose of this page is to document the sales-assisted selling motion used by Professional Services Engagement Managers and Regional Delivery Managers. If you're on a GitLab sales account team looking for information, try these pages on [positioning professional services](/handbook/customer-success/professional-services-engineering/positioning) or [selling professional services](/handbook/customer-success/professional-services-engineering/selling/#custom-scoped-services).
 
 This page will help outline the when and how to get involved with positioning and scoping services, how to estimate, how to use SOW generation software, and the processes to gain approval.
 
-> *Note: Services engagements can take [two forms](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling). This will focus on the **custom SOW scoping** process, not the Standard SKU process.*
+> *Note: Services engagements can take [two forms](/handbook/customer-success/professional-services-engineering/selling). This will focus on the **custom SOW scoping** process, not the Standard SKU process.*
 
-For custom SOWs, the [workflow for SOW creation](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/#custom-scoped-services) involves a partnership between the Account Team and the Professional Services Team.
+For custom SOWs, the [workflow for SOW creation](/handbook/customer-success/professional-services-engineering/selling/#custom-scoped-services) involves a partnership between the Account Team and the Professional Services Team.
 
 ![](./scoping-workflow.png)
 [Source](https://docs.google.com/presentation/d/1TOI2aoseBoyWYQC6-xpJVMknEncCNreSFfMvOHO7EBA/edit#slide=id.gbfb62d0c00_0_58) (GitLab Team Members Only)
@@ -29,17 +29,17 @@ For custom SOWs, the [workflow for SOW creation](https://about.gitlab.com/handbo
 
 ### MEDDPICC
 
-Professional services can be positioned when a prospect becomes a customer (e.g. the Land of a new deal) or when an already existing customer is growing their staff or interesting in adopting new features of GitLab (e.g. expansion). The SA, SAE, AE, or CSM (e.g. "Account Team") is primarily responsible for this process, following the [Command of the Message](https://about.gitlab.com/handbook/sales/command-of-the-message/) and [MEDDPICC](https://about.gitlab.com/handbook/sales/meddppicc/) messaging frameworks.
+Professional services can be positioned when a prospect becomes a customer (e.g. the Land of a new deal) or when an already existing customer is growing their staff or interesting in adopting new features of GitLab (e.g. expansion). The SA, SAE, AE, or CSM (e.g. "Account Team") is primarily responsible for this process, following the [Command of the Message](/handbook/sales/command-of-the-message/) and [MEDDPICC](/handbook/sales/meddppicc/) messaging frameworks.
 
 For the larger, more strategic customers PS Engagement Managers tend to get involved earlier in the selling process to help with discovery and provide lessons learned on rollout from past engagements. For the medium sized customers, Engagement managers tend to get involved with account teams when the SFDC stage 4 (Proposal) is achieved.
 
 ### Customer Success Discovery
 
-The Account team should be encouraged to use the [Customer Terrain Mapping templates](https://about.gitlab.com/handbook/customer-success/customer-terrain-mapping/#catalog-of-customer-terrain-mapping-engagements) to help the customer to start thinking about *how* they will achieve their longer term success. This typically results in conversations about services to aide them in their journey.
+The Account team should be encouraged to use the [Customer Terrain Mapping templates](/handbook/customer-success/customer-terrain-mapping/#catalog-of-customer-terrain-mapping-engagements) to help the customer to start thinking about *how* they will achieve their longer term success. This typically results in conversations about services to aide them in their journey.
 
 ### Services Needed
 
-Once its identified that the customer will likely want to engage with professional services, its the responsibility of the Account Team to [get in touch with the Engagement Manager](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/#how-to-contact-or-collaborate-with-us).
+Once its identified that the customer will likely want to engage with professional services, its the responsibility of the Account Team to [get in touch with the Engagement Manager](/handbook/customer-success/professional-services-engineering/engagement-mgmt/#how-to-contact-or-collaborate-with-us).
 
 ## 2. Scoping
 
@@ -52,11 +52,11 @@ After the [services calculator](https://services-calculator.gitlab.io/) is run b
 
 ### Create Engagement Estimate
 
-A PS Engagement Estimate spreadsheet used for scoping services. The Engagement Manager uses the [PS engagement estimate spreadsheet](https://docs.google.com/spreadsheets/d/1wkmKhhGyLoxqWCXFtiI99tNgVaEJ-hTQJRwTOsU0j_Y/edit#gid=1815139260) to define the services in scope and estimate the amount of time for each activity. There is a catalog of activities in the [SOW generation automation](https://gitlab.com/services-calculator/services-calculator.gitlab.io) project or a list of services can be found at our [offerings framework](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/framework) page.
+A PS Engagement Estimate spreadsheet used for scoping services. The Engagement Manager uses the [PS engagement estimate spreadsheet](https://docs.google.com/spreadsheets/d/1wkmKhhGyLoxqWCXFtiI99tNgVaEJ-hTQJRwTOsU0j_Y/edit#gid=1815139260) to define the services in scope and estimate the amount of time for each activity. There is a catalog of activities in the [SOW generation automation](https://gitlab.com/services-calculator/services-calculator.gitlab.io) project or a list of services can be found at our [offerings framework](/handbook/customer-success/professional-services-engineering/framework) page.
 
 ### Iterate / Review Engagement Estimate
 
-After the first iteration of building detail into the straw-man, the Engagement manager posts a request for review in the [professional services slack channel](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/working-with/#slack) to the Account team. Often the Engagement Manager will get on a zoom call with the customer and provide context and gather feedback from the customer.
+After the first iteration of building detail into the straw-man, the Engagement manager posts a request for review in the [professional services slack channel](/handbook/customer-success/professional-services-engineering/working-with/#slack) to the Account team. Often the Engagement Manager will get on a zoom call with the customer and provide context and gather feedback from the customer.
 
 ### Generate SOW
 
@@ -68,7 +68,7 @@ Once the SOW is generated, it is ready for review by the account team. Iteration
 
 ### SOW Review/Approval
 
-After one or more rounds of iteration on feedback from the account team, the SOW will be ready for Review and Approval by Sr. Director of Professional Services. The review processes are signaled in the [professional services slack channel](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/working-with/#slack) and **at-mention** the GitLab engagement stakeholders.
+After one or more rounds of iteration on feedback from the account team, the SOW will be ready for Review and Approval by Sr. Director of Professional Services. The review processes are signaled in the [professional services slack channel](/handbook/customer-success/professional-services-engineering/working-with/#slack) and **at-mention** the GitLab engagement stakeholders.
 
 ## 3. Delivery Prep
 

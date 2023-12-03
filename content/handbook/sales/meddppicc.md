@@ -15,17 +15,17 @@ description: "MEDDPPICC is a proven methodology used for strategic opportunity m
 ## Overview
 
 MEDDPPICC is a proven methodology used for strategic opportunity management and complex sales process orchestration for enterprise organizations and is an acronym for:
-- [Metrics](https://about.gitlab.com/handbook/sales/meddppicc/#metrics)
-- [Economic Buyer](https://about.gitlab.com/handbook/sales/meddppicc/#economic-buyer)
-- [Decision Process](https://about.gitlab.com/handbook/sales/meddppicc/#decision-process)
-- [Decision Criteria](https://about.gitlab.com/handbook/sales/meddppicc/#decision-criteria)
-- [Partner](https://about.gitlab.com/handbook/sales/meddppicc/#partner)
-- [Paper Process](https://about.gitlab.com/handbook/sales/meddppicc/#paper-process)
-- [Identify Pain](https://about.gitlab.com/handbook/sales/meddppicc/#identify-pain)
-- [Champion](https://about.gitlab.com/handbook/sales/meddppicc/#champion)
-- [Competition](https://about.gitlab.com/handbook/sales/meddppicc/#competition)
+- [Metrics](/handbook/sales/meddppicc/#metrics)
+- [Economic Buyer](/handbook/sales/meddppicc/#economic-buyer)
+- [Decision Process](/handbook/sales/meddppicc/#decision-process)
+- [Decision Criteria](/handbook/sales/meddppicc/#decision-criteria)
+- [Partner](/handbook/sales/meddppicc/#partner)
+- [Paper Process](/handbook/sales/meddppicc/#paper-process)
+- [Identify Pain](/handbook/sales/meddppicc/#identify-pain)
+- [Champion](/handbook/sales/meddppicc/#champion)
+- [Competition](/handbook/sales/meddppicc/#competition)
 
-Qualify your opportunities throughout the sales process (but especially during the "1-Discovery" and "2-Scoping" stages) leveraging the resources below to put yourself in the best position to earn the customer's business. MEDDPPICC is part of the Command Plan and is required for all new business opportunities above a certain threshold (see [Opportunity Management Requirements](https://about.gitlab.com/handbook/sales/forecasting/) for additional details).
+Qualify your opportunities throughout the sales process (but especially during the "1-Discovery" and "2-Scoping" stages) leveraging the resources below to put yourself in the best position to earn the customer's business. MEDDPPICC is part of the Command Plan and is required for all new business opportunities above a certain threshold (see [Opportunity Management Requirements](/handbook/sales/forecasting/) for additional details).
 
 ### Resources
 
@@ -39,7 +39,7 @@ Qualify your opportunities throughout the sales process (but especially during t
 
 ### Video
 
-Check out the [Demystifying the Metrics Conversation](https://about.gitlab.com/handbook/sales/command-of-the-message/metrics/) Handbook page.
+Check out the [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics/) Handbook page.
 
 ### Qualifying Questions
 

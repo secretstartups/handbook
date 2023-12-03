@@ -114,7 +114,7 @@ You can learn more about Platypus and our capabilities and offerings on our [han
 - [Handbook Page](/handbook/business-technology/engineering/infrastructure)
 - [Issue Tracker](https://gitlab.com/gitlab-com/business-technology/engineering/infrastructure/issue-tracker)
 - [Project Repositories](https://gitlab.com/gitlab-com/business-technology/engineering/infrastructure)
-- [Related - Demo Systems and Training Systems](https://about.gitlab.com/handbook/customer-success/demo-systems/)
+- [Related - Demo Systems and Training Systems](/handbook/customer-success/demo-systems/)
 - [Related - Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/)
 - [Related - Infrastructure Standards](/handbook/infrastructure-standards/)
 - [Related - Infrastructure Security Handbook Page](/handbook/security/security-engineering/infrastructure-security/)
@@ -126,7 +126,7 @@ We collaborate closely with the [Infrastructure Security ("InfraSec") team](/han
 
 We also provide escalation engineering and triage support for the [Security Incident Response Team ("SIRT")](/handbook/security/security-operations/sirt/) and [Security Red Team](/handbook/security/threat-management/red-team/) when security anomalies, events, or incidents require AWS/GCP subject matter expertise.
 
-In FY20-Q4, we launched the Demo Systems for the Customer Success department to have a shared sandbox environment for demonstration and training class purposes. You can learn more on the [demo systems handbook page](https://about.gitlab.com/handbook/customer-success/demo-systems/).
+In FY20-Q4, we launched the Demo Systems for the Customer Success department to have a shared sandbox environment for demonstration and training class purposes. You can learn more on the [demo systems handbook page](/handbook/customer-success/demo-systems/).
 
 In FY21-Q4, we launched the [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/), a deployment of our open source [HackyStack](https://gitlab.com/hackystack/hackystack-portal) project (powered by [Laravel](https://laravel.com/docs/8.x)) to automate the provisioning of AWS accounts, AWS IAM users, GCP projects, and GCP users. This has allowed us to automate a large portion of our AWS and GCP access requests.
 

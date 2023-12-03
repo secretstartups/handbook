@@ -248,7 +248,7 @@ Adjust list as applicable for each report activation. [Use the workback timeline
 * [ ] Provide reprint link and expiration date
 * [ ] Secure analyst citation review / approval
 * [ ] [Open Analyst Report Commentary Page Issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new?issuable_template=AR-Commentary-Page)
-* [ ] Add to the open Product Marketing / Field Communications Planning epic (see [handbook entry](https://about.gitlab.com/handbook/sales/field-communications/#recurring-announcements) for more detail & link to latest epic)
+* [ ] Add to the open Product Marketing / Field Communications Planning epic (see [handbook entry](/handbook/sales/field-communications/#recurring-announcements) for more detail & link to latest epic)
 
 **Product Marketing** `@DRI`
 * [ ] Add to HighSpot

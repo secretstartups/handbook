@@ -40,7 +40,7 @@ Given that support team has no influence over the process at this point, direct 
 
 **Important:** Support team should not be disabling QSR on a subscription except in the cases of confirmed bug behavior.
 
-1. If QSR needs to be disabled on a subscription due to a customer dispute or any other non-bug issue, refer to the sales-ops handbook page on [How To Temporarily Pause Quarterly Subscription Reconciliation](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-temporarily-pause-auto-renewal-quarterly-subscription-reconciliation-and-operational-data).  The sales account manager should be following this workflow to request a temporary pause on QSR.
+1. If QSR needs to be disabled on a subscription due to a customer dispute or any other non-bug issue, refer to the sales-ops handbook page on [How To Temporarily Pause Quarterly Subscription Reconciliation](/handbook/sales/field-operations/order-processing/#how-to-temporarily-pause-auto-renewal-quarterly-subscription-reconciliation-and-operational-data).  The sales account manager should be following this workflow to request a temporary pause on QSR.
 
 1. In the event a bug has been confirmed which is causing an incorrect QSR amount to be quoted, due to the time-sensitive nature of reconciliations Support team have the ability to disable QSR manually on a subscription through the customersDot Admin interface, and we should do so in these cases.
 
@@ -56,7 +56,7 @@ Given that support team has no influence over the process at this point, direct 
 
 ## Resolving Max Seats Overages
 
-**Important:** Do not reset a namespace's `Max Seats` without the necessary approvals in chatter. View this step as waiving trueups, and refer to the sales-ops handbook page [Waived True-Ups: Policy and Approval Requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#waived-true-ups-policy-and-approval-requirements)
+**Important:** Do not reset a namespace's `Max Seats` without the necessary approvals in chatter. View this step as waiving trueups, and refer to the sales-ops handbook page [Waived True-Ups: Policy and Approval Requirements](/handbook/sales/field-operations/order-processing/#waived-true-ups-policy-and-approval-requirements)
 
 If approvals are given for resetting `Max Seats`, you can use the ZenDesk Mechanizer App > [Max Seats tool](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer/#set-max-seats), or do so through console access.  Document the action in the relevant ticket, or in an [internal-request](https://gitlab-com.gitlab.io/support/internal-requests-form/). In the case where QSR is approved for refund, approval for `Max seats` reset is still needed.
 

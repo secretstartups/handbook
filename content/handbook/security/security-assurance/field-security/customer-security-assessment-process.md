@@ -11,7 +11,7 @@ title: "GitLab's Customer Assurance Activities"
 <a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/customer-assurance-activities/caa-servicedesk/-/issues/new?issuable_template=Contract%20Review%20CAA" class="btn bg-primary text-white btn-lg">Contract Review Request</a>
 
 
-*The above are for GitLab Team Members only. Customers should contact their GitLab [Account Owner](https://about.gitlab.com/handbook/sales/#initial-account-owner---based-on-segment) to initiate their requests. If a customer doesn't know their Account Owner or does not yet have an assigned Account Owner, they can [contact the sales team](https://about.gitlab.com/sales/). Once you have submitted the issue, it is now in our queue and will be assigned to one of our Field Security Engineers when it is next up (please see SLA's listed below).*
+*The above are for GitLab Team Members only. Customers should contact their GitLab [Account Owner](/handbook/sales/#initial-account-owner---based-on-segment) to initiate their requests. If a customer doesn't know their Account Owner or does not yet have an assigned Account Owner, they can [contact the sales team](https://about.gitlab.com/sales/). Once you have submitted the issue, it is now in our queue and will be assigned to one of our Field Security Engineers when it is next up (please see SLA's listed below).*
 
 ## Customer Assurance Activity Requests Overview
 

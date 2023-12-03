@@ -13,7 +13,7 @@ description: "Explore how GitLab Professional Services certifies trainers to val
 
 ## GitLab Certified Trainer Program
 
-To be able to scale the availaility of GitLab learning offerings, [GitLab Professional Education Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/) offers certification pathways for individuals who want to deliver GitLab standard instructor-led training (ILT) courses. The program is currently available to GitLab team members as well as selected [GitLab Certified Services Partners](https://about.gitlab.com/handbook/resellers/services/). Customers who order the GitLab Train the Trainer option for a standard ILT course can request participation in the program.
+To be able to scale the availaility of GitLab learning offerings, [GitLab Professional Education Services](/handbook/customer-success/professional-services-engineering/education-services/) offers certification pathways for individuals who want to deliver GitLab standard instructor-led training (ILT) courses. The program is currently available to GitLab team members as well as selected [GitLab Certified Services Partners](/handbook/resellers/services/). Customers who order the GitLab Train the Trainer option for a standard ILT course can request participation in the program.
 
 The program provides a systematic approach to developing and validating the skills and knowledge needed to successfully deliver each course offered by GitLab Professional Education Services.
 

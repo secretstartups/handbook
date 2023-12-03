@@ -27,11 +27,11 @@ Once a TA has provided the requested assistance, they will change the label to `
 
 See the detailed notes pages for each service type below.
 
-- [GitLab implementation scoping](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/implementation/)
-- [GitLab Readiness Assessment (Health Check)](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/readiness/)
-- [GitLab migration scoping - GitLab, Bitbucket Server, or GitHub (Enterprise or .com) -> GitLab](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/migrations/)
-- [CI pipeline migration scoping](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/ci-pipeline/)
-- [Transformational Services scoping](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/transformational-services/)
+- [GitLab implementation scoping](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/implementation/)
+- [GitLab Readiness Assessment (Health Check)](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/readiness/)
+- [GitLab migration scoping - GitLab, Bitbucket Server, or GitHub (Enterprise or .com) -> GitLab](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/migrations/)
+- [CI pipeline migration scoping](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/ci-pipeline/)
+- [Transformational Services scoping](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/transformational-services/)
 
 ## Escalations in Scoping
 

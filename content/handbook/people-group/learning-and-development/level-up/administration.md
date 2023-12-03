@@ -16,7 +16,7 @@ The L&D team uses Thought Industries to support training for GitLab team members
 
 ### Education Services
 
-The primary mission of Education Services is to plan and implement effective and scalable educational offerings to accelerate customer time to value and drive expanding product adoption. Education Services deliver [Technical Certifications](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/) via Level Up.
+The primary mission of Education Services is to plan and implement effective and scalable educational offerings to accelerate customer time to value and drive expanding product adoption. Education Services deliver [Technical Certifications](/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/) via Level Up.
 
 ### Field Enablement
 

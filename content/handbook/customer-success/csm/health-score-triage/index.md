@@ -12,16 +12,16 @@ title: "Customer Health Assessment and Management"
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ----
 This page covers the factors to consider for customer health, guidelines for selecting the appropriate rating, communication guidelines, CSM responsibilities and instructions for the account triage issue creation.
 
-See [Customer Health Scoring](https://about.gitlab.com/handbook/customer-success/customer-health-scoring) for an overview on how customer health scoring is defined and calculated at GitLab.
+See [Customer Health Scoring](/handbook/customer-success/customer-health-scoring) for an overview on how customer health scoring is defined and calculated at GitLab.
 
 ## CSM Responsibilities
 
-The CSM is responsible for coordinating with all relevant parties to develop a plan to address account risks. Typically, this will involve the account team and communication group ([Communication Guidelines](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#communication-guidelines)), as well as other relevant stakeholders such as Product Managers, marketing, executive, or engineering team members to develop and deliver the plan to address the risks. The CSM then drives execution of the strategy and is responsible for logging regular updates. When the risks have been addressed bringing the customer to a healthy / green status, the account team can agree to move the account out of triage.
+The CSM is responsible for coordinating with all relevant parties to develop a plan to address account risks. Typically, this will involve the account team and communication group ([Communication Guidelines](/handbook/customer-success/csm/health-score-triage/#communication-guidelines)), as well as other relevant stakeholders such as Product Managers, marketing, executive, or engineering team members to develop and deliver the plan to address the risks. The CSM then drives execution of the strategy and is responsible for logging regular updates. When the risks have been addressed bringing the customer to a healthy / green status, the account team can agree to move the account out of triage.
 
 ## Tracking Customer Health
 
@@ -52,7 +52,7 @@ Potential risk or significant lack of information leading to uncertainty. Indica
 - Poor experiences with Support, Professional Services or another part of GitLab
 - Working with a single contact at a company (single-threaded).
 
-There might be well understood reasons within the account team why a customer is flagged as Yellow within the current phase of the customer lifecycle. If the CSM decides that corrective actions and follow up from team members outside of the CSM group is required the CSM must create an [At Risk Timeline Entry](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#at-risk-timeline-entries).
+There might be well understood reasons within the account team why a customer is flagged as Yellow within the current phase of the customer lifecycle. If the CSM decides that corrective actions and follow up from team members outside of the CSM group is required the CSM must create an [At Risk Timeline Entry](/handbook/customer-success/csm/health-score-triage/#at-risk-timeline-entries).
 
 ### Red
 
@@ -61,8 +61,8 @@ Examples:
 
 - Potential risk of contraction or churn (even if this is unconfirmed)
 - Lack of alignment with stakeholders who can drive outcomes...
-   - [Economic Buyer](https://about.gitlab.com/handbook/sales/meddppicc/#economic-buyer)
-   - [Champion](https://about.gitlab.com/handbook/sales/meddppicc/#champion)
+   - [Economic Buyer](/handbook/sales/meddppicc/#economic-buyer)
+   - [Champion](/handbook/sales/meddppicc/#champion)
    - Key [Personas](/handbook/product/personas/)
       - [Cameron (Compliance Manager)](/handbook/product/personas/#cameron-compliance-manager)
       - [Delaney (Development Team Lead)](/handbook/product/personas/#delaney-development-team-lead)
@@ -111,7 +111,7 @@ For any account that is Red or Yellow, the following steps for an At Risk timeli
       1. Log Account-level Timeline `At-Risk Update` type with final update
       1. Change customer Lifecycle Stage to: Will Churn for a churning customer and Adopting for downgrade customer
 
-These can then be discussed with the [Account Team](https://about.gitlab.com/handbook/customer-success/account-team/) during account reviews.
+These can then be discussed with the [Account Team](/handbook/customer-success/account-team/) during account reviews.
 
 #### At-Risk Update Format
 
@@ -155,17 +155,17 @@ Here is a sample entry for risk resolution:
 ### Frequency of At Risk Timeline Entries
 
 1. If customer renewal is this fiscal quarter or next:
-   1. Weekly [At-Risk Timeline](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#at-risk-timeline-entries) updates
+   1. Weekly [At-Risk Timeline](/handbook/customer-success/csm/health-score-triage/#at-risk-timeline-entries) updates
       - Entry should include progress towards risk mitigation over the past week and plans for the upcoming week.
 1. If customer renewal is after next fiscal quarter:
-   1. Monthly [At-Risk Timeline](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#at-risk-timeline-entries) updates
+   1. Monthly [At-Risk Timeline](/handbook/customer-success/csm/health-score-triage/#at-risk-timeline-entries) updates
       - Entry should include progress towards risk mitigation over the past month and plans for the upcoming month.
 
 ![GitLab At-Risk Customer Process](/CSM_At-Risk_Customer_Process.png)
 
 ### When to open an Account Escalation
 
-If a CSM has marked an account as [Red](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#red) and further assistance from Product, Support or Managers+ is needed, open an [Account Escalation](https://about.gitlab.com/handbook/customer-success/csm/escalations/).
+If a CSM has marked an account as [Red](/handbook/customer-success/csm/health-score-triage/#red) and further assistance from Product, Support or Managers+ is needed, open an [Account Escalation](/handbook/customer-success/csm/escalations/).
 
 ### Risk impact definitions
 
@@ -205,7 +205,7 @@ Due to management decision or policy, the prospect or customer chose a different
 
 ### Mitigation Strategies
 
-For CSM guidance on mitigating risk, please see the [Risk Types, Discovery & Mitigation Strategies](https://about.gitlab.com/handbook/customer-success/csm/risk-mitigation) page.
+For CSM guidance on mitigating risk, please see the [Risk Types, Discovery & Mitigation Strategies](/handbook/customer-success/csm/risk-mitigation) page.
 
 
 ## At Risk Communication Guidelines
@@ -228,5 +228,5 @@ The following are guidelines on who to notify when an account is yellow or red. 
 
 ## Related Processes
 
-[Customer Success Escalations Process](https://about.gitlab.com/handbook/customer-success/csm/escalations/)
+[Customer Success Escalations Process](/handbook/customer-success/csm/escalations/)
 
