@@ -99,12 +99,6 @@ Learn more about what to expect from a [remote shadow rotation](#remote-shadow-r
 
 Please keep in mind when selecting dates that the CEO's schedule is fluid and subject to constant change, which also means that the CEO Shadow rotation is subject to constant change. The posted dates are not guaranteed. We will work with you to reschedule your rotation if a conflict arises.
 
-### Parental participation
-
-We understand that participation in the CEO Shadow Program is optional and can cause hardships at home. To help overcome these challenges and to allow flexibility for parents to participate, there will be some rotations identified as "parent-friendly" weeks. These are weeks when Sid doesn't need a shadow for the full 5 workdays or where the program is split so the weeks are not consecutive.
-
-See the [childcare](#childcare) section in [Travel & Expenses](#travel--expenses) for guidance on how to expense childcare costs.
-
 ### Rotation rhythm
 
 We want many people to be able to benefit from this program, therefore we rotate often.
@@ -123,8 +117,32 @@ This program is not limited to long-term GitLab team members.
 For new team members, this might even be the first thing they do after completing our [onboarding](/handbook/people-group/general-onboarding/).
 Exceptional community members may be able to participate, as well.
 
+For those with regular commitments, look for shorter weeks or timezone variations in the schedule notes. To allow flexibility for parents to participate, please see the [childcare](#childcare) section in [Travel & Expenses](#travel--expenses) for guidance on how to expense childcare costs.
+
 ### Rotation schedule
 
+<<<<<<< content/handbook/ceo/shadow.md
+| Start date | End date | See one | Teach one | Schedule Notes |
+| ---------- | -------- | ------- | --------- | -------------- |
+| 2024-01-02 | 2024-01-05 | [Yin Yu](https://gitlab.com/yyugitlab) - Director, Strategy & Operations | [Cynthia "Arty" Ng](https://gitlab.com/cynthia) - Staff, Strategy & Operations | REMOTE - PT, TUES - FRI |
+| 2024-01-08 | 2024-01-12 | AVAILABLE | [Yin Yu](https://gitlab.com/yyugitlab) - Director, Strategy & Operations | REMOTE - PT |
+| 2024-01-15 | 2024-01-19 | AVAILABLE | AVAILABLE | REMOTE - PT, TUES - FRI |
+| 2024-01-22 | 2024-01-26 | AVAILABLE | AVAILABLE | REMOTE - PT |
+| 2024-01-29 | 2024-02-02 | AVAILABLE | AVAILABLE | REMOTE - PT |
+| 2024-02-05 | 2024-02-09 | AVAILABLE | AVAILABLE | REMOTE - PT |
+| 2024-02-12 | 2024-02-14 | AVAILABLE | AVAILABLE | REMOTE - PT, MON - WED |
+| 2024-02-20 | 2024-02-23 | AVAILABLE | AVAILABLE | REMOTE - PT, TUES - FRI |
+| 2024-02-26 | 2024-03-01 | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Senior Product Manager, Deploy:Environments | AVAILABLE | REMOTE - PT |
+| 2024-03-04 | 2024-03-08 | AVAILABLE | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Senior Product Manager, Deploy:Environments | REMOTE - PT |
+| 2024-03-11 | 2023-03-15 | NO SHADOW | NO SHADOW | SUMMIT - PT |
+| 2024-03-18 | 2024-03-22 | AVAILABLE | AVAILABLE - VP-Directs Only | REMOTE - PT |
+| 2024-03-25 | 2024-03-29 | [Reshmi Krishna](https://gitlab.com/reshmikrishna) - Director, Enterprise Solutions Architecture | AVAILABLE - VP-Directs Only | TBC - PT |
+| 2024-04-01 | 2024-04-05 | [Jeremy Wagner](https://gitlab.com/jeremywagner) | [Reshmi Krishna](https://gitlab.com/reshmikrishna) - Director, Enterprise Solutions Architecture | REMOTE - PT |
+| 2024-04-08 | 2024-04-12 | AVAILABLE | AVAILABLE | REMOTE - PT |
+| 2024-04-15 | 2024-04-19 | AVAILABLE | AVAILABLE | REMOTE - PT |
+| 2024-04-22 | 2024-04-26 | AVAILABLE | AVAILABLE | REMOTE - PT |
+| 2024-04-29 | 2024-05-03 | AVAILABLE | AVAILABLE | REMOTE - PT |
+=======
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
 | 2024-01-02 | 2024-01-05 | [Yin Yu](https://gitlab.com/yyugitlab) - Director, Strategy & Operations | [Cynthia "Arty" Ng](https://gitlab.com/cynthia) - Staff, Strategy & Operations |
@@ -145,6 +163,7 @@ Exceptional community members may be able to participate, as well.
 | 2024-04-15 | 2024-04-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-04-22 | 2024-04-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2024-04-29 | 2024-05-03 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+>>>>>>> content/handbook/ceo/shadow.md
 
 If you have questions regarding the planned rotation schedule, please ping the [EBA to the CEO]({{< ref "eba#executive-business-administrator-team" >}}) and [Chief of Staff to the CEO]({{< ref chief-of-staff >}}) in the `#ceo-shadow` Slack channel. The CoS and EBA to the CEO manage the rotation schedule. Please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
 
