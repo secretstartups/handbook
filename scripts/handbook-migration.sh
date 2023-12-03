@@ -179,7 +179,7 @@ cd $TMP_REPO
 if [[ $USE_FILTER_REPO == "true" ]]; then
   echo -e "${bold}Performing git filter repo... this might take a few minutes...${normal}"
   git remote rm origin
-  git filter-repo --force --path $DIRECTORY_TO_SPLIT
+  git filter-repo --preserve-commit-encoding --force --path $DIRECTORY_TO_SPLIT
 else
   # subtree split the directories
   echo -e "${bold}Performing git subtree split... this might take a few minutes...${normal}"
