@@ -1,5 +1,5 @@
 ---
-
+aliases: /handbook/engineering/communication
 title: Engineering Communication
 ---
 
