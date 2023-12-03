@@ -38,8 +38,8 @@ They work with a combined team of Business Systems Engineers, Data Analysts, and
 
 ### Performance Indicators
 
-- [Net ARR vs. plan > 1](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
-- [Net ARR efficiency > 1.0](https://about.gitlab.com/handbook/sales/#iavc-efficiency-ratio)
+- [Net ARR vs. plan > 1](/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
+- [Net ARR efficiency > 1.0](/handbook/sales/#iavc-efficiency-ratio)
 - [System Roll Out vs Plan](/handbook/business-technology/metrics/#system-roll-out-vs-plan)
 
 {{% job-families/sales/performance %}}
@@ -87,8 +87,8 @@ The Junior Business Systems Administrator is a [grade 5](/handbook/total-rewards
 
 #### Performance Indicators
 
-- [Net ARR vs. plan > 1](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
-- [Net ARR efficiency > 1.0](https://about.gitlab.com/handbook/sales/#iavc-efficiency-ratio)
+- [Net ARR vs. plan > 1](/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
+- [Net ARR efficiency > 1.0](/handbook/sales/#iavc-efficiency-ratio)
 - [System Roll Out vs Plan](/handbook/business-technology/metrics/#system-roll-out-vs-plan)
 
 ### Intermediate Business Systems Administrator
@@ -128,8 +128,8 @@ The Business Systems Administrator is a [grade 6](/handbook/total-rewards/compen
 
 #### Performance Indicators
 
-- [Net ARR vs. plan > 1](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
-- [Net ARR efficiency > 1.0](https://about.gitlab.com/handbook/sales/#iavc-efficiency-ratio)
+- [Net ARR vs. plan > 1](/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
+- [Net ARR efficiency > 1.0](/handbook/sales/#iavc-efficiency-ratio)
 - [System Roll Out vs Plan](/handbook/business-technology/metrics/#system-roll-out-vs-plan)
 
 ### Senior Business Systems Administrator
@@ -166,8 +166,8 @@ The Senior Business Systems Administrator is a [grade 7](/handbook/total-rewards
 
 #### Performance Indicators
 
-- [Net ARR vs. plan > 1](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
-- [Net ARR efficiency > 1.0](https://about.gitlab.com/handbook/sales/#iavc-efficiency-ratio)
+- [Net ARR vs. plan > 1](/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
+- [Net ARR efficiency > 1.0](/handbook/sales/#iavc-efficiency-ratio)
 - [System Roll Out vs Plan](/handbook/business-technology/metrics/#system-roll-out-vs-plan)
 
 ### Staff Business Systems Administrator
@@ -201,8 +201,8 @@ The Staff Business Systems Administrator is a [grade 8](/handbook/total-rewards/
 
 #### Performance Indicators
 
-- [Net ARR vs. plan > 1](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
-- [Net ARR efficiency > 1.0](https://about.gitlab.com/handbook/sales/#iavc-efficiency-ratio)
+- [Net ARR vs. plan > 1](/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
+- [Net ARR efficiency > 1.0](/handbook/sales/#iavc-efficiency-ratio)
 - [System Roll Out vs Plan](/handbook/business-technology/metrics/#system-roll-out-vs-plan)
 
 ### Manager, Sales Systems
@@ -240,8 +240,8 @@ The Staff Business Systems Administrator is a [grade 8](/handbook/total-rewards/
 
 #### Performance Indicators
 
-- [Net ARR vs. plan > 1](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
-- [Net ARR efficiency > 1.0](https://about.gitlab.com/handbook/sales/#iavc-efficiency-ratio)
+- [Net ARR vs. plan > 1](/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
+- [Net ARR efficiency > 1.0](/handbook/sales/#iavc-efficiency-ratio)
 - [System Roll Out vs Plan](/handbook/business-technology/metrics/#system-roll-out-vs-plan)
 
 ## Career Ladder

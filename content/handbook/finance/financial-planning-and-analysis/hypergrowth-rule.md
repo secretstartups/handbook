@@ -4,7 +4,7 @@ title: "The Hypergrowth Rule"
 
 A company in hypergrowth mode typically trades higher spending now for higher future revenue/profits. In other words, the expenses incurred today is reflective of how the company will be positioned in the future, whereas the revenue is current.
 
-GitLab is in hypergrowth mode at the moment. We are intentionally spending at a higher rate in all groups (except G&A and cost of sales) compared to companies at similar stages of growth. We do this to advance the product, increase our CSM, and increase market share through a new [channel strategy](https://about.gitlab.com/handbook/sales/channel/). We believe this investment will result in higher growth rates compared to similar companies.
+GitLab is in hypergrowth mode at the moment. We are intentionally spending at a higher rate in all groups (except G&A and cost of sales) compared to companies at similar stages of growth. We do this to advance the product, increase our CSM, and increase market share through a new [channel strategy](/handbook/sales/channel/). We believe this investment will result in higher growth rates compared to similar companies.
 
 ## What is Hypergrowth and how it came about?
 

@@ -2,7 +2,7 @@
 
 title: "APJ Customer Success"
 ---
-The APJ Customer Success department is part of the [GitLab Sales](https://about.gitlab.com/handbook/sales/) function under the WW Customer Success organisation who partners with our large, mid-market and strategic customers to deliver value throughout their GitLab adoption in the code development lifecycle.
+The APJ Customer Success department is part of the [GitLab Sales](/handbook/sales/) function under the WW Customer Success organisation who partners with our large, mid-market and strategic customers to deliver value throughout their GitLab adoption in the code development lifecycle.
 
 The team can be reached in WW Customer Success [Slack channel](https://gitlab.slack.com/archives/customer-success) (internal only).  Further to that, the APJ Customer Success team also communicates via our [Slack channel](https://gitlab.slack.com/archives/a-team_customer_success) (internal & private only) amongst themselves.
 
@@ -29,16 +29,16 @@ To deliver value to all customers by engaging in a consistent, repeatable, scala
 
 ## Vision Page
 
-The WW ["Customer Success Vision Page"](https://about.gitlab.com/handbook/customer-success/vision/) provides the long-term vision which we also follow in the APJ Customer Success team.
+The WW ["Customer Success Vision Page"](/handbook/customer-success/vision/) provides the long-term vision which we also follow in the APJ Customer Success team.
 
 ## APJ Customer Success Team
 
 Currently the local APJ CS team has Solutions Architects & Customer Success Managers in the team. The team reports to the Manager, Solutions Architects and the Manager, Customer Success Manager respectively.
 
 - [Manager, Solutions Architects](/job-families/sales/solutions-architect/#manager-solutions-architects) responsibilities
-- [Solutions Architect](https://about.gitlab.com/handbook/customer-success/solutions-architects/) responsibilities
+- [Solutions Architect](/handbook/customer-success/solutions-architects/) responsibilities
 - [Manager, Customer Success Manager](/job-families/sales/customer-success-management/#manager-csm) responsibilities
-- [Customer Success Manager](https://about.gitlab.com/handbook/customer-success/csm/) responsibilities
+- [Customer Success Manager](/handbook/customer-success/csm/) responsibilities
 
 Starting from the GitLab [org chart](https://comp-calculator.gitlab.net/org_chart) the [Manager, Solutions Architects](/handbook/company/team/#adriansmolski) reports to the [WW Senior Director for Solutions Architecture](/handbook/company/team/#jfullam) who reports to the [Vice President, Customer Success](/handbook/company/team/#dsakamoto). The [Manager, Customer Success Manager](/handbook/company/team/#dthompson3) reports to the
 [Senior Director, Technical Account Management](/handbook/company/team/#spatching) who reports the [Vice President, Customer Success](/handbook/company/team/#dsakamoto).
@@ -59,7 +59,7 @@ Starting from the GitLab [org chart](https://comp-calculator.gitlab.net/org_char
 | Customer Success Manager | [**Rohan Shah**](https://gitlab.com/rmsrohan) | Mumbai, India |
 | Customer Success Manager | [**Zane J Chua**](https://gitlab.com/zchua-gtlb) | Singapore, Singapore |
 
-The APJ CS team currently does not follow a strict territory alignment. The only exception is that customers in the home base location would have a preference for Customer Success team members to ensure GitLab adoption. The APJ Customer Success team supports the [Large](https://about.gitlab.com/handbook/sales/territories/) and [Mid-Market](https://about.gitlab.com/handbook/sales/territories/) APJ outlines territories.
+The APJ CS team currently does not follow a strict territory alignment. The only exception is that customers in the home base location would have a preference for Customer Success team members to ensure GitLab adoption. The APJ Customer Success team supports the [Large](/handbook/sales/territories/) and [Mid-Market](/handbook/sales/territories/) APJ outlines territories.
 
 ## Engagement options with the APJ Customer Success team
 

@@ -92,7 +92,7 @@ Managers can submit an issue in the [Sales Operations project](https://gitlab.co
 
 ## Why is My Meeting "Livestreamed"?
 
-![live-on-zoom](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/go-to-market/chorus/live-on-zoom.png)
+![live-on-zoom](/handbook/sales/field-operations/sales-operations/go-to-market/chorus/live-on-zoom.png)
 
 The banner "Live on Zoom with Chorus.ai" is controlled and set by Zoom, therefore neither Chorus nor GitLab can make changes to the text.
 

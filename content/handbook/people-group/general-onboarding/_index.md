@@ -123,7 +123,7 @@ The People team is not involved in the process for hiring, onboarding, or offboa
 - [Merge Request buddies]({{< ref "/handbook/people-group/general-onboarding/mr-buddies" >}})
 - [Onboarding Processes](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/onboarding_process/)
 - [Quality team onboarding](https://about.gitlab.com/handbook/engineering/quality/onboarding/)
-- [Sales team onboarding](https://about.gitlab.com/handbook/sales/onboarding/)
+- [Sales team onboarding](/handbook/sales/onboarding/)
 - [Support team onboarding]({{< ref "/handbook/support/training" >}})
 - [SRE onboarding](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/sre-onboarding/)
 - [Product Designer onboarding](/handbook/product/ux/product-designer-onboarding/)

@@ -24,8 +24,8 @@ in each region to notify changes the week of deployment (at least 72 hours prior
 ### Internal Stakeholders
 
 If this change will have an impact on how Field Team members collaborate with L&R
-Support Team members, follow the steps outlined in the [Field Communications Playbook](https://about.gitlab.com/handbook/sales/field-communications/#field-communications-playbook)
-to announce the change to the Field Team. Generally, a workflow-related update will qualify as a [Tier 2 update](https://about.gitlab.com/handbook/sales/field-communications/#tier-2-update).
+Support Team members, follow the steps outlined in the [Field Communications Playbook](/handbook/sales/field-communications/#field-communications-playbook)
+to announce the change to the Field Team. Generally, a workflow-related update will qualify as a [Tier 2 update](/handbook/sales/field-communications/#tier-2-update).
 
 L&R team members generally work with Sales and CSMs in the following Slack channels, so you might also
 consider posting an update to these channels:

@@ -859,7 +859,7 @@ The [Email Data Mart](/handbook/business-technology/data-team/data-catalog/email
 
 #### Trusted Data Model to Gainsight
 
-The [Data Model to Gainsight Pump](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/) is designed to automatically power updates to Gainsight to enable creation of visualizations, action plans, and strategies for Customer Success to help our customers succeed in their use of GitLab.
+The [Data Model to Gainsight Pump](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/) is designed to automatically power updates to Gainsight to enable creation of visualizations, action plans, and strategies for Customer Success to help our customers succeed in their use of GitLab.
 
 #### Qualtrics Mailing List Data Pump / Qualtrics SheetLoad
 
@@ -960,7 +960,7 @@ A GitLab Team Member that creates any artifacts in Google Studio owns the owner 
 
 ## Sales Analytics Notebooks
 
-The [Sales Analytics](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/) have a couple (but expanding) list of regular update processes that will benefit from being able to be run automatically without human intervention.
+The [Sales Analytics](/handbook/sales/field-operations/sales-strategy/) have a couple (but expanding) list of regular update processes that will benefit from being able to be run automatically without human intervention.
 
 Some of those are:
 1. **X-Ray fitted curves calculation:** Quarterly process that create a table with fitted curves to historical coverage ratios. This data is used within the X-Ray dashboard.
@@ -1044,7 +1044,7 @@ The `gCloud SERVICE ACCOUNT` requires  `Google Workspace Delegated Admin` permis
 
 ## Sales Systems Use-Case: Using the Snowflake API
 
-The [Sales Systems](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/) team needs to run the same query several times per day against Snowflake and load that data into Salesforce.
+The [Sales Systems](/handbook/sales/field-operations/sales-systems/) team needs to run the same query several times per day against Snowflake and load that data into Salesforce.
 
 The data team provided an API user so the Sales Analytics team can automate this process, instead of manually downloading the data and uploading it into Salesforce.
 More detail on this use-case can be found in the original issue [#15456](https://gitlab.com/gitlab-data/analytics/-/issues/15456).

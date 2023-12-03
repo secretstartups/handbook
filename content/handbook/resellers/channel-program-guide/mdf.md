@@ -22,7 +22,7 @@ GitLab Open and Select partners have access to the proposal-based GitLab Marketi
 
 #### To be considered for funding support you must:
 
-  - Be a Marketing Ready Select or Open GitLab Partner. Marketing ready means: partner has an approved business plan with GitLab; has a list of focus accounts mapped with GitLab; has a dedicated person who manages leads sent to the partner by GitLab (Partner Prospect Admin); ackowledges [the lead passing and recall process](/handbook/marketing/marketing-operations/vartopia/#partner-recall); has a dedicated marketing resposible person to work on the join activties with GitLab; has regular calls with the GitLab CHannel Marketing Manager; acknowledges [the MDF Policy](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/MDF/) and requirements for MDF process (Reqests and Claims)
+  - Be a Marketing Ready Select or Open GitLab Partner. Marketing ready means: partner has an approved business plan with GitLab; has a list of focus accounts mapped with GitLab; has a dedicated person who manages leads sent to the partner by GitLab (Partner Prospect Admin); ackowledges [the lead passing and recall process](/handbook/marketing/marketing-operations/vartopia/#partner-recall); has a dedicated marketing resposible person to work on the join activties with GitLab; has regular calls with the GitLab CHannel Marketing Manager; acknowledges [the MDF Policy](/handbook/resellers/Channel-Program-Guide/MDF/) and requirements for MDF process (Reqests and Claims)
   - Comply with GitLab Proof of Performance (POP) requirements for the activity
   - Meet minimum required MDF request amount of **$1,000 USD**
   - GitLab will cover up to **50%** of the total cost of the activity
@@ -74,7 +74,7 @@ Instructions on how to accept/reject/reassign a lead or register a deal and subm
 
 ### Funds reimbursement Requirements
 - Submission of a payment claim (invoice) within 30 calendar days of completion of the activity via the MDF Reimbursement Request form on the GitLab Partner Portal.
-- Supporting documentation based on the activity, [documented here](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/MDF/#eligible-activities-and-required-proof-of-performance-mdf-activities) <br/>
+- Supporting documentation based on the activity, [documented here](/handbook/resellers/Channel-Program-Guide/MDF/#eligible-activities-and-required-proof-of-performance-mdf-activities) <br/>
 **AND**<br/>
 - Invoice
       *Invoice will be accepted from the Partner only
@@ -104,7 +104,7 @@ For partners who are claiming reimbursement for the **first time** only: <br/>
 - GitLab reserves the right to audit and verify all MDF claims and request additional documentation at any time. GitLab may deny any MDF claims that it believes, at its sole and absolute discretion, do not conform to these guidelines.
 - If GitLab subsequently denies an MDF claim for good cause after reimbursement, you must immediately return such funding to GitLab.
 - The terms of these MDF guidelines are in addition to the applicable Channel Partner Agreement in place with GitLab; they are valid only when specifically referenced from the applicable Channel Partner Agreement, program guide, or otherwise made available to a channel party by GitLab in writing. All terms not otherwise defined herein have the meaning set forth in the applicable Channel Partner Agreement.
-- You are authorized to use GitLab’s names, marks, logos, and other identifiers as approved in advance in writing, on or in connection with your own marketing and promotion of GitLab products and services. Your use of GitLab logos needs to be solely in accordance with the [GitLab Partner Program Agreement](https://about.gitlab.com/handbook/resellers/reseller-agreement/#master-partner-agreement) and any additional trademark guidelines GitLab provides.
+- You are authorized to use GitLab’s names, marks, logos, and other identifiers as approved in advance in writing, on or in connection with your own marketing and promotion of GitLab products and services. Your use of GitLab logos needs to be solely in accordance with the [GitLab Partner Program Agreement](/handbook/resellers/reseller-agreement/#master-partner-agreement) and any additional trademark guidelines GitLab provides.
 
 ### GitLab's internal MDF Process Workflow
 

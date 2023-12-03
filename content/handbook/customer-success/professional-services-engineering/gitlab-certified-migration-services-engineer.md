@@ -13,7 +13,7 @@ description: "How GitLab Professional Services validates engineering readiness t
 
 ## GitLab Certified Migration Services Engineer
 
-To be able to scale the availaility of GitLab Migration Services, [GitLab Professional Services](https://about.gitlab.com/services/migration/) offers a certification process for engineers who want to deliver this service to customers. The program is currently available to GitLab team members as well as selected [GitLab Certified Services Partners](https://about.gitlab.com/handbook/resellers/services/).
+To be able to scale the availaility of GitLab Migration Services, [GitLab Professional Services](https://about.gitlab.com/services/migration/) offers a certification process for engineers who want to deliver this service to customers. The program is currently available to GitLab team members as well as selected [GitLab Certified Services Partners](/handbook/resellers/services/).
 
 The program provides a systematic approach to developing and validating the skills and knowledge needed to successfully migrate a customer's data from their legacy systems to GitLab.
 

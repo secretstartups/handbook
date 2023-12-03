@@ -83,7 +83,7 @@ When a lead/contact engages with GitLab in any shape or form, for example, via a
 
 The scope of the contact assignment flow is very limited. Records are only processed by the lead assignment flow if they are meant to be managed by partners via the Vartopia Prospect module. 
 
-All other [SFDC contact ownership rules](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#changing-contact-ownership-in-salesforce) are maintained outside of Traction. If you have questions or concerns about contact routing outside of partner record management processes, please reach out to [Sales Systems](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/).
+All other [SFDC contact ownership rules](/handbook/sales/field-operations/gtm-resources/#changing-contact-ownership-in-salesforce) are maintained outside of Traction. If you have questions or concerns about contact routing outside of partner record management processes, please reach out to [Sales Systems](/handbook/sales/field-operations/sales-systems/).
 
 ## Account Routing
 

@@ -30,7 +30,7 @@ In his book [*Closing Time*](https://www.amazon.com/Closing-immutable-Sales-Nego
 
 ## When do negotiations start?
 
-Preparing for a negotiation starts as early as your first conversation, and successful negotiation outcomes begin with embracing a value-based sales methodology like [Command of the Message](https://about.gitlab.com/handbook/sales/command-of-the-message/) from the very onset of the sales process.
+Preparing for a negotiation starts as early as your first conversation, and successful negotiation outcomes begin with embracing a value-based sales methodology like [Command of the Message](/handbook/sales/command-of-the-message/) from the very onset of the sales process.
 
 ## 5 1/2 tips for how to approach price-lock negotiations at GitLab
 
@@ -42,7 +42,7 @@ In this video, VP of Enterprise Sales - Mike Pyle, gives tips for how to approac
 
 Conduct effective, ongoing discovery to:
 
-- Obtain a deep understanding of the customer's current state (see [Sales Discovery and Qualification Questions](https://about.gitlab.com/handbook/sales/qualification-questions/))
+- Obtain a deep understanding of the customer's current state (see [Sales Discovery and Qualification Questions](/handbook/sales/qualification-questions/))
 - Identify the Positive Business Outcomes they want or need to achieve (and why), and
 - Co-create a shared vision for the Required Capabilities to get from the current state to the desired future state
 
@@ -51,12 +51,12 @@ Conduct effective, ongoing discovery to:
 Don't start a negotiation if you are not the buyer's first choice. With a thorough understanding of your customer's needs, be sure to:
 
 - Effectively articulate how GitLab will address the customer's requirements (leverage [these core resources](https://internal.gitlab.com/handbook/sales/command-of-the-message/#resources-core-content)) (internal only)
-- Successfully connect the dots between technical metrics and the business value that GitLab delivers (see [Demystifying the Metrics Conversation](https://about.gitlab.com/handbook/sales/command-of-the-message/metrics/)), and
-- Share relevant [proof points](https://about.gitlab.com/handbook/sales/command-of-the-message/proof-points/) that highlight how and why GitLab can deliver against the customer's requirements better than any other option(s) available
+- Successfully connect the dots between technical metrics and the business value that GitLab delivers (see [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics/)), and
+- Share relevant [proof points](/handbook/sales/command-of-the-message/proof-points/) that highlight how and why GitLab can deliver against the customer's requirements better than any other option(s) available
 
 ## Closing
 
-The [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/) provides a framework to maximize your likelihood of winning and securing the customer's business for a defined purchase initiative. Before even attempting to move to Close, be sure you have compelling answers to every component of the [Opportunity Overview](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#opportunity-overview) section of the Command Plan.
+The [Command Plan](/handbook/sales/command-of-the-message/command-plan/) provides a framework to maximize your likelihood of winning and securing the customer's business for a defined purchase initiative. Before even attempting to move to Close, be sure you have compelling answers to every component of the [Opportunity Overview](/handbook/sales/command-of-the-message/command-plan/#opportunity-overview) section of the Command Plan.
 
 While there are [numerous closing techniques](https://spotio.com/blog/sales-closing-techniques/) out there, the LinkedIn Learning course referenced below recommends four common closing techniques (these need not be mutually exclusive):
 

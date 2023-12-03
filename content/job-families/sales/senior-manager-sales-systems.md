@@ -90,7 +90,7 @@ The Director, Sales Systems is a [grade 10](/handbook/total-rewards/compensation
 - Manage the full application life cycle: Requirements Gathering, Architecture, Development, User Acceptance, Roll Out, Support.
 - Create a technology to business feedback loop with other Field Operations leaders, helping to make iterative improvements to business processes.
 - Manage data governance processes and adherence of guidelines between internal business units and systems.
-- Maintain excellent documentation and team processes in the [Sales Systems](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/) and  [Go-To-Market Technical Documentation](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/) handbook pages.
+- Maintain excellent documentation and team processes in the [Sales Systems](/handbook/sales/field-operations/sales-systems/) and  [Go-To-Market Technical Documentation](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/) handbook pages.
 
 ### Requirements
 

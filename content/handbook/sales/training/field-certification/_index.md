@@ -13,11 +13,11 @@ description: "To support and scale GitLab’s continued growth and success, the 
 
 ## Field Accreditation Program Overview
 
-During [Sales Quick Start](https://about.gitlab.com/handbook/sales/onboarding/), every GitLab field team member is trained on [customer value drivers](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers) and GitLab’s value-based messaging framework (see the [Command of the Message](https://about.gitlab.com/handbook/sales/command-of-the-message/) page). Once new team members complete SQS, they will begin their role-based certifiction program.
+During [Sales Quick Start](/handbook/sales/onboarding/), every GitLab field team member is trained on [customer value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) and GitLab’s value-based messaging framework (see the [Command of the Message](/handbook/sales/command-of-the-message/) page). Once new team members complete SQS, they will begin their role-based certifiction program.
 
-To improve efficiency & predictability with a consistent and scalable customer engagement, the Field Enablement Team has developed a role based accreditation program that includes functional, soft skills, and [product training](https://about.gitlab.com/handbook/sales/training/product-certification/) for field team members.  
+To improve efficiency & predictability with a consistent and scalable customer engagement, the Field Enablement Team has developed a role based accreditation program that includes functional, soft skills, and [product training](/handbook/sales/training/product-certification/) for field team members.  
 
-The Accreditations align to the customer's journey and the [field functional competencies](https://about.gitlab.com/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, and tools to successfully execute customer engagements.
+The Accreditations align to the customer's journey and the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, and tools to successfully execute customer engagements.
 
 
 Note: This accreditation program is different from resources like other [GitLab Certifications](/learn/certifications/public/) that focus on how to *use GitLab* or tied to GitLab competencies (though we encourage field team members to take these as well)!
@@ -35,11 +35,11 @@ The goal of the Field Accreditation Program is to validate that:
 ### Audience
 
 The Field Accreditation Program will include functional and soft skills training for:
-- [Strategic Account Leaders](https://about.gitlab.com/handbook/sales/training/field-certification/sal/)
-- [Account Executives](https://about.gitlab.com/handbook/sales/commercial/enablement/required7/)  
-- [Solution Architects](https://about.gitlab.com/handbook/sales/training/field-certification/sa/)  
-- [Customer Success Managers](https://about.gitlab.com/handbook/sales/training/field-certification/csm/)
-- [Partners](https://about.gitlab.com/handbook/resellers/training/)
+- [Strategic Account Leaders](/handbook/sales/training/field-certification/sal/)
+- [Account Executives](/handbook/sales/commercial/enablement/required7/)  
+- [Solution Architects](/handbook/sales/training/field-certification/sa/)  
+- [Customer Success Managers](/handbook/sales/training/field-certification/csm/)
+- [Partners](/handbook/resellers/training/)
 
 
 ### Architecture and Approach

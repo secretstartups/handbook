@@ -17,11 +17,11 @@ The documentation below is organized by feature.  Each section will have links t
 
 ## ARR
 
-Please see the dedicated [ARR Technical Documentation Page](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/sfdc-booking-metric-fields/)
+Please see the dedicated [ARR Technical Documentation Page](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/sfdc-booking-metric-fields/)
 
 ## Gainsight
 
-Please see the dedicated [Gainsight Technical Documentation Page](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html)
+Please see the dedicated [Gainsight Technical Documentation Page](/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html)
 
 ## Xactly
 
@@ -29,7 +29,7 @@ More information to come. If you need a new field brought into Xactly please lev
 
 ## Territory Success Planning
 
-**Business Process this supports:** [Territory Success Planning](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/)
+**Business Process this supports:** [Territory Success Planning](/handbook/sales/field-operations/sales-operations/)
 
 **Overview:** The goal of TSP is to keep a set of staging fields consistently up to date from a variety of data sources, then at given intervals copy these values to the "Actual" set of fields for general use. This allows for us to constantly receive changes but only apply those changes in a controlled fashion. This also allows us to easily track exceptions. Note: This project was originally referred to as ATAM, which is why the API names of the fields reference that instead of TSP.
 
@@ -133,7 +133,7 @@ The LAM calculation runs in four parts:
 
 ## Contact Ownership
 
-**Business Process this supports:** This supports our [contact ownership rules](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/)
+**Business Process this supports:** This supports our [contact ownership rules](/handbook/sales/field-operations/gtm-resources/)
 
 **Overview:** The goal of the Contact Ownership code is to ensure that contacts are owned by the appropriate user within salesforce in an automated fashion so that contact ownership is maintained without any work needed by team members.
 
@@ -150,7 +150,7 @@ Code Units:
 
 Please see our internal [document](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#heading=h.7meftl8rz0pi) for details.
 
-For manual sharing of opportunity record, please refer Field Operations handbook [here](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#how-to-share-an-opportunity)
+For manual sharing of opportunity record, please refer Field Operations handbook [here](/handbook/sales/field-operations/gtm-resources/#how-to-share-an-opportunity)
 
 ## Quote Approval System
 
@@ -205,7 +205,7 @@ Manage Approval Process For:
 
 ## Salesforce Chatter to Cases
 
-**Business Process this supports:** The field needs a streamlined process to address their concerns on specific salesforce records [within salesforce](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/). This is also used by the finance team to help address record specific billing issues, as well as the Community Advocate team to manage the influx of requests the team receives.
+**Business Process this supports:** The field needs a streamlined process to address their concerns on specific salesforce records [within salesforce](/handbook/sales/field-operations/sales-operations/). This is also used by the finance team to help address record specific billing issues, as well as the Community Advocate team to manage the influx of requests the team receives.
 
 **Overview:** The goal of the Chatter To Cases functionality is to allow a streamlined communication channel that the field can leverage while also providing a streamlined case management system for the supporting team members to manage the requests that are sent to them from the field. If a team member uses an appropriate tag in salesforce a salesforce case record will automatically be created. Once these records are created supporting team members can work through the respective cases that are created to address the needs and concerns of the field team.
 
@@ -235,7 +235,7 @@ Code Units:
 - `@SMB Flat Renewals`
  - This alias is used by our SMB team for flat renewal support. Please see this [Section of the handbook](###) for how this is used.
 - `@Partner Help Desk`
- - This alias is used by the Channel Partner Help Desk (PHD) Team. Please see this [Section of the handbook](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-help-desk-support-and-communication) for more information.
+ - This alias is used by the Channel Partner Help Desk (PHD) Team. Please see this [Section of the handbook](/handbook/sales/field-operations/channel-operations/#partner-help-desk-support-and-communication) for more information.
 - `@Sales-Comp`
  - This alias is used by our Compensation Team and should be used to reach out to them regarding, splits, compensation etc. as it pertains to specific opportunities.
 - `@Partner-Ops`
@@ -324,7 +324,7 @@ Code Units:
 
 ## Order Type System
 
-**Business Process this supports:** [New vs Connected New vs Growth](https://about.gitlab.com/handbook/sales/sales-term-glossary/)
+**Business Process this supports:** [New vs Connected New vs Growth](/handbook/sales/sales-term-glossary/)
 
 **Overview:** The goal of the Order Type system is to determine a given Opportunity's relationship with the business. Did it start a new customer relationship, cross into a related segment of the customer, or grow an existing relationship.
 
@@ -348,7 +348,7 @@ Code Units:
 
 ## Lead Segmentation
 
-**Business Process this supports:** [Sales Segmentation](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/)
+**Business Process this supports:** [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/)
 
 **Overview:** Leads should be sorted into different Sales Segments based on their company's employee count so the appropriate salesperson can pursue them. We have a number of different information sources to get company size, so we must also establish a hierarchy for them.
 
@@ -368,7 +368,7 @@ Code Unit:
 
 ## Force Management / Command of The Message / Command Plan
 
-**Business Process this supports:** [Command of The Message](https://about.gitlab.com/handbook/sales/command-of-the-message/)
+**Business Process this supports:** [Command of The Message](/handbook/sales/command-of-the-message/)
 
 **Overview:** This Visualforce page and supporting controller provide the sales team with an easy to use button on their opportunities to populate the needed information.
 
@@ -450,7 +450,7 @@ Please see our internal [document](https://docs.google.com/document/d/1UaKPTQePA
 
 ## Refund Opportunity
 
-**Business Process this supports:** [Decommission Opportunity Process](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#creating-decomission-opportunties)
+**Business Process this supports:** [Decommission Opportunity Process](/handbook/sales/field-operations/sales-operations/deal-desk/#creating-decomission-opportunties)
 
 **Overview:**  For this process to function properly there is a button that has been added to the Opportunity layout. This button should only be visible to users who should be working on our bookings (Deal Desk, Finance Users, etc.). This button, when clicked, updated a checkbox on that opportunity to mark it as a refunded opportunity. If the button is clicked for an already refunded Opportunity, the user will be presented with an error informing them that the refund has already been completed.
 
@@ -484,7 +484,7 @@ Code Unit:
 
 ## Link Credit Opportunities and Contract Reset Opportunities
 
-**Business Process this supports:** This supports the Deal Desk process of processing Credit Opportunities and Contract Reset Opportunities. See the Sales Order Processing [Handbook Page](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#what-quotes-can-deal-desk-assist-me-with)
+**Business Process this supports:** This supports the Deal Desk process of processing Credit Opportunities and Contract Reset Opportunities. See the Sales Order Processing [Handbook Page](/handbook/sales/field-operations/order-processing/#what-quotes-can-deal-desk-assist-me-with)
 
 **Relevant fields**
  - Opportunity.Contract_Reset_Opportunity__c
@@ -504,7 +504,7 @@ Code Unit:
 
 ## SQS [ Sales Qualified Source] Override
 
-  **Business Process this supports:** Sales Cycle & Operations  [Tracking Sales Qualified Source in the Opportunity](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#tracking-sales-qualified-source-in-the-opportunity)
+  **Business Process this supports:** Sales Cycle & Operations  [Tracking Sales Qualified Source in the Opportunity](/handbook/sales/field-operations/gtm-resources/#tracking-sales-qualified-source-in-the-opportunity)
 
   **Overview:** There are times in which we may need to override Sales Qualified Source. In this event, we have a system that will allow this. This ability is limited to James Harrison and Colleen Farris. To override Sales Qualified Source, enabling user with perform the following steps:
 
@@ -633,8 +633,8 @@ Please see our internal [document](https://docs.google.com/document/d/1UaKPTQePA
 
 ### Late Renewals Notifications and Closure
 
-**Business Process this supports:** Sales Cycle - [Late Renewal Notification & Auto Close Process](https://about.gitlab.com/handbook/sales/sales-renewal-process/#closed-lost-renewal-management)
-**Overview:** To keep the Sales Pipeline clean and for a systematic way to notify opportunity owners (and their managers) of renewal opportunities that are at risk of lapsing, automatically close late renewals that fall out of adherence to our [Bookings Policy](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#fy22-bookings-policy). This automation triggers for all Open Renewal Opportunities based on Quote Start Date in the opportunity. There is an exception process that is built into this functionality as well. This allows Sales Ops to accept exceptions for this automation that would exptend the window of when an Opportunity is automatically Closed Lost to `90` days after the Opportunity Quote Start Date. This is acchomplished by checking the `Exempt Late Renewal Automation` checkbox on the relevant Opportunity.
+**Business Process this supports:** Sales Cycle - [Late Renewal Notification & Auto Close Process](/handbook/sales/sales-renewal-process/#closed-lost-renewal-management)
+**Overview:** To keep the Sales Pipeline clean and for a systematic way to notify opportunity owners (and their managers) of renewal opportunities that are at risk of lapsing, automatically close late renewals that fall out of adherence to our [Bookings Policy](/handbook/sales/field-operations/order-processing/#fy22-bookings-policy). This automation triggers for all Open Renewal Opportunities based on Quote Start Date in the opportunity. There is an exception process that is built into this functionality as well. This allows Sales Ops to accept exceptions for this automation that would exptend the window of when an Opportunity is automatically Closed Lost to `90` days after the Opportunity Quote Start Date. This is acchomplished by checking the `Exempt Late Renewal Automation` checkbox on the relevant Opportunity.
 This logic is included in the `OpportunityJob` to trigger the action (Field Update) & alert. The recipients who receive these emails are Opportunity Owner, Opportunity Owner's Manager & Renewals Manager. Specific templates have been created to match up with the notifications. The field updates made to the `Admin Poke` field are used to trigger `Troops` to send email alerts to the SAs(Primary Solution Architect).
 To request updating these emails alerts/recipients/actions, please create an [issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new) in SalesSystems Board for Systems Team Member to review & make necessary updates.
 Here is the config table for the automation logic for reference:

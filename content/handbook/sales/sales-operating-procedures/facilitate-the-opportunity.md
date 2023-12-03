@@ -19,13 +19,13 @@ You have qualified a lead and now you need to turn it into a sale. This phase is
 - Technical Evaluation/Technical Commit from a Technical Buyer
 - Economic Commit from an Economic Buyer
 
-Again the four tasks above are demonstrable outputs of correctly applying **[MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/)** and **[Command of the Message (CoM)](https://about.gitlab.com/handbook/sales/command-of-the-message/)** within each of the tasks. This also supports your transition from appearing as a common software sales person into a trusted consultant that brings business solutions instead of multiple invoices and a smile.
+Again the four tasks above are demonstrable outputs of correctly applying **[MEDDPPICC](/handbook/sales/meddppicc/)** and **[Command of the Message (CoM)](/handbook/sales/command-of-the-message/)** within each of the tasks. This also supports your transition from appearing as a common software sales person into a trusted consultant that brings business solutions instead of multiple invoices and a smile.
 
 ## Step 1: Discovery Questioning
 
 Traditional sales typically bypasses understanding the customer. Traditional sales relies heavily on **getting a foot in the door** with a customer by overwhelming them with product information in the hopes that a buzz word or some random product feature will catch the customer’s attention and build urgency in the customer. GitLab doesn’t operate that way. GitLab uses Discovery Questioning.
 
-[**Discovery Questions**](https://about.gitlab.com/handbook/sales/qualification-questions/) help to uncover existing customer needs, problems, pain points, goals etc. Regardless of the opportunity being handed off from an SDR or qualified by you, you should always create discovery questions based on the following research process and criteria.
+[**Discovery Questions**](/handbook/sales/qualification-questions/) help to uncover existing customer needs, problems, pain points, goals etc. Regardless of the opportunity being handed off from an SDR or qualified by you, you should always create discovery questions based on the following research process and criteria.
 
 ### 1.1 Research
 
@@ -53,16 +53,16 @@ This step includes a number of sub-tasks necessary to obtain additional buyer in
 
 #### 1.1.4 Create discovery questions
 
-Leverage **[MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/)** to gather the information necessary to qualify the opportunity.
+Leverage **[MEDDPPICC](/handbook/sales/meddppicc/)** to gather the information necessary to qualify the opportunity.
 
-- [Discovery Questions](https://about.gitlab.com/handbook/sales/meddppicc/) are designed to identify existing customer needs, problems, pain points, goals etc.
-- [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) is a qualification framework that will help you determine if the opportunity is worth your time, effort, and company resources. This is an aspect of **Pre-Call Planning**. The pre-call planning questions will cause you as the seller to further validate and reference the buyer persona you will engage with. It will help you to more quickly determine what stage the buyer falls in the sales process. The framework will also expose problems and clarify next steps. It will help make you more efficient and focused sales representatives by making it easier to sort the good deals from no deals, and quick deals from long term deals.
+- [Discovery Questions](/handbook/sales/meddppicc/) are designed to identify existing customer needs, problems, pain points, goals etc.
+- [MEDDPPICC](/handbook/sales/meddppicc/) is a qualification framework that will help you determine if the opportunity is worth your time, effort, and company resources. This is an aspect of **Pre-Call Planning**. The pre-call planning questions will cause you as the seller to further validate and reference the buyer persona you will engage with. It will help you to more quickly determine what stage the buyer falls in the sales process. The framework will also expose problems and clarify next steps. It will help make you more efficient and focused sales representatives by making it easier to sort the good deals from no deals, and quick deals from long term deals.
 
 #### 1.1.5 Develop a persona-based call plan
 
 This step helps to ensure you gather more pertinent information from the buyer. More specifically, it will help you identify information gaps, set specific objectives, and ultimately increase your buyer’s confidence in you. Use the two job aids below to prepare for your discovery calls.
 
-- Use [Sales Discovery and Qualification Questions](https://about.gitlab.com/handbook/sales/qualification-questions/) to create questions that are tailored to the specific buyer persona with whom you’ll be engaging.
+- Use [Sales Discovery and Qualification Questions](/handbook/sales/qualification-questions/) to create questions that are tailored to the specific buyer persona with whom you’ll be engaging.
 - Use the [Customer Requirements Document](https://docs.google.com/spreadsheets/d/1y1nk7TmjxOxaO8nUg6w1YO04X9wwtz39MnP7NHXq6ec/edit#gid=0) to list all of your questions as part of your discovery call meeting preparation.
 
 #### 1.1.6 Conduct discovery call meetings
@@ -71,7 +71,7 @@ Discovery doesn’t take place in just one call. It takes place over a series of
 
 1. **Prepare a meeting agenda** to identify how the buyer wants will match what you will cover. This can be sent ahead to the buyer to ensure alignment. For each agenda item, include some questions from the BPM, prepare statements, industry case studies. Research 1-3 items in the Objectives and Obstacles section of the personas. Finalize your meeting objectives in order to show the buyer you are prepared, listening, and empathic. Structure the meeting so that the prospect is relaxed and is comfortable going deep with their problems and needs.
 1. **Use the [Customer Requirements Document](https://docs.google.com/spreadsheets/d/1y1nk7TmjxOxaO8nUg6w1YO04X9wwtz39MnP7NHXq6ec/edit#gid=0)** during the meeting to capture the feedback from your discovery questioning.
-1. **Use the [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/)** to track the progress of a deal. It’s an iterative document within Salesforce that gives you and your team macro and micro level visibility into an opportunity. It is designed to align and guide you through the necessary [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) process to quickly capture the information necessary to properly qualify an opportunity. Here is a sample [Command Plan](https://docs.google.com/spreadsheets/d/16m5_w4NiNSXfJFt9576IktNUp6uTCOKxaLBtoyR0lrA/edit#gid=299910663).
+1. **Use the [Command Plan](/handbook/sales/command-of-the-message/command-plan/)** to track the progress of a deal. It’s an iterative document within Salesforce that gives you and your team macro and micro level visibility into an opportunity. It is designed to align and guide you through the necessary [MEDDPPICC](/handbook/sales/meddppicc/) process to quickly capture the information necessary to properly qualify an opportunity. Here is a sample [Command Plan](https://docs.google.com/spreadsheets/d/16m5_w4NiNSXfJFt9576IktNUp6uTCOKxaLBtoyR0lrA/edit#gid=299910663).
 1. **Create a customer deck.** The customer deck should be specific to the opportunity and utilize the customers branding when possible. Additionally, the customer deck should be created with input from a primary point of contact or an identified champion.
 
 ### 1.2 Creating the customer deck (Phase 1)
@@ -91,7 +91,7 @@ It is also recommended that the presentation be more visual rather than text hea
 
 #### 1.2.1 Align customer problems with value drivers
 
-As a GitLab sales representative you should know from your discovery calls and research your customers pain points well enough to match them to one if not all of the GitLab Value Drivers. GitLab has the following three [value drivers](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers):
+As a GitLab sales representative you should know from your discovery calls and research your customers pain points well enough to match them to one if not all of the GitLab Value Drivers. GitLab has the following three [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers):
 
 - Increase Operational Efficiencies
 - Deliver Better Products Faster
@@ -115,7 +115,7 @@ The data gathered from the discovery calls is analyzed by **AE/SAE** to make the
 
 1. **AE/ SAE performs a Gap Analysis** of data captured from discovery questioning and is held in the Customer Requirements document. Align customer requirements on the spreadsheet to the specific GitLab product line and denote if GitLab does or does not meet the requirement. This analysis will also provide you with possible devOps cycle entry points as customer requirements and goals do vary.
 1. **AE/SAE introduces and engages** the Solution Architect in technical conversations and reviews Customer Requirement Document with Solution Architect.
-1. **AE/SAE updates relevant SFDC** fields with new information for formal handoff to the Solution Architect for **Scoping**. Utilize the **[Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/)** to track the progress of a deal. It’s an iterative document within Salesforce that gives you and your team macro and micro level visibility into an opportunity.
+1. **AE/SAE updates relevant SFDC** fields with new information for formal handoff to the Solution Architect for **Scoping**. Utilize the **[Command Plan](/handbook/sales/command-of-the-message/command-plan/)** to track the progress of a deal. It’s an iterative document within Salesforce that gives you and your team macro and micro level visibility into an opportunity.
 
 ## Step 2: Scoping
 
@@ -124,21 +124,21 @@ Scoping represents an opportunity to discuss customer requirements in more detai
 1. **Review the Customer Requirements** document and any associated meeting notes to identify gaps and create more indepth discovery questions related to technical capabilities.
 1. **Perform high-level technical discovery calls** with the customer and work together to review the [Customer Requirements Document](https://docs.google.com/spreadsheets/d/1y1nk7TmjxOxaO8nUg6w1YO04X9wwtz39MnP7NHXq6ec/edit#gid=0) and gather more context and insight into the customer’s requirements.
 1. **Analyze** the updated requirements against GitLab products to determine a fit assessment. If a fit is determined, initiate a Technical Evaluation.
-1. **[Identify Opportunities to Sell Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/)**. The SAE/ISR can find the general services the PS team offers on the services page or for more details specific SKU offerings, on the full catalog. The SAE/ISR can pull the SA in for help selecting services needed based on customer requirements.
+1. **[Identify Opportunities to Sell Professional Services](/handbook/customer-success/professional-services-engineering/selling/)**. The SAE/ISR can find the general services the PS team offers on the services page or for more details specific SKU offerings, on the full catalog. The SAE/ISR can pull the SA in for help selecting services needed based on customer requirements.
 
-## Step 3: [Technical Evaluation](https://about.gitlab.com/handbook/customer-success/comm-sales/customer-buyer-journey.html#step-2-technical-evaluation)
+## Step 3: [Technical Evaluation](/handbook/customer-success/comm-sales/customer-buyer-journey.html#step-2-technical-evaluation)
 
-Technical evaluation is where the prospective customer evaluates the fit of GitLab to their organization and their specific business outcomes. This may be driven by a Lite POV, a free trial, real time or asynchronous Q&A, a workshop and/or other approach requiring technical guidance from an SA. If Discovery did not include the SA, the AE should follow the triage process to engage an SA for the opportunity, filling out the issue template and providing [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) information as well as the known required capabilities in Salesforce. The following are tasks the SA must review and manage during technical evaluation.
+Technical evaluation is where the prospective customer evaluates the fit of GitLab to their organization and their specific business outcomes. This may be driven by a Lite POV, a free trial, real time or asynchronous Q&A, a workshop and/or other approach requiring technical guidance from an SA. If Discovery did not include the SA, the AE should follow the triage process to engage an SA for the opportunity, filling out the issue template and providing [MEDDPPICC](/handbook/sales/meddppicc/) information as well as the known required capabilities in Salesforce. The following are tasks the SA must review and manage during technical evaluation.
 
 1. **Update Customer Requirements documents** and review Google Docs and Salesforce for running meeting notes with customer environment and technical specifications.
-1. **Setup a free trial of GitLab** based on the following [Technical Evaluation Criteria](https://about.gitlab.com/handbook/customer-success/comm-sales/customer-buyer-journey.html#responsibilities-1).
+1. **Setup a free trial of GitLab** based on the following [Technical Evaluation Criteria](/handbook/customer-success/comm-sales/customer-buyer-journey.html#responsibilities-1).
 1. **Create a solution design blueprint** from requirements gathering, tech discovery, and customer meta-records.
-1. **Create a [Proof of Value](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov)** when necessary which focuses on specific customer business outcomes that cannot be achieved through other technical and/or business interactions.
+1. **Create a [Proof of Value](/handbook/customer-success/solutions-architects/tools-and-resources/pov)** when necessary which focuses on specific customer business outcomes that cannot be achieved through other technical and/or business interactions.
 1. **Submit a Proof of Value** (PoV/PoC) plan to stakeholders for approval.
 
 **Hold a strategy meeting**: Once the SA has completed the solution design blueprint and/or the Proof of Value, the sales representative will need to hold a strategy meeting with the SA to discuss the highpoints of the solution in order to prepare and present a pitch deck to the customer. If the sales representative does not have deep technical product depth, it will be even more important to debrief the solution blueprint with the SA.
 
-[Command of the Message](https://about.gitlab.com/handbook/sales/command-of-the-message/) is defined as "being audible ready to define solutions to customers’ problems in a way that differentiates you from your competitors & allows you to charge a premium for your products & services.” This means you must in many ways understand the customers pain points and goals better than they do and speak to real solutions. The solution is presented to the customer through a pitch deck.
+[Command of the Message](/handbook/sales/command-of-the-message/) is defined as "being audible ready to define solutions to customers’ problems in a way that differentiates you from your competitors & allows you to charge a premium for your products & services.” This means you must in many ways understand the customers pain points and goals better than they do and speak to real solutions. The solution is presented to the customer through a pitch deck.
 
 At this point, it may also be beneficial to egage the [Risk and Field Security Team](/handbook/security/security-assurance/field-security/) to provide security assurance support. Prior to making a financial commit, many customers will require security due diligence. The AE, SAE or SA may utilize the [Customer Assurance Package](/handbook/security/security-assurance/field-security/customer-assurance-package.html) for self-service resources or request assistance through the [Customer Assurance Activities Procedure](/handbook/security/security-assurance/field-security/customer-security-assessment-process.html).
 
@@ -204,8 +204,8 @@ Additionally, test your champion during the late stage of the Technical Evaluati
 
 #### 4.1.4 Ask for the Business & Next Steps
 
-1. **Set next steps and dates** with the customer to move into the Deal Closure phase. Engage with the champions and economic buyer to create a mutually agreed upon action plan to deployment. This is called a Mutual Close Plan and should be documented in the [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/).
+1. **Set next steps and dates** with the customer to move into the Deal Closure phase. Engage with the champions and economic buyer to create a mutually agreed upon action plan to deployment. This is called a Mutual Close Plan and should be documented in the [Command Plan](/handbook/sales/command-of-the-message/command-plan/).
 1. **Update the opportunity stage and status** in Salesforce from Proposal to Negotiating
 1. **Update Clari** with the latest forecasting projections based on your most recent sales motions.
 
-At this point the opportunity now moves the **[Deal Closure](https://about.gitlab.com/handbook/sales/sales-operating-procedures/deal-closure/)** phase, phase three of the GitLab sales cycle.
+At this point the opportunity now moves the **[Deal Closure](/handbook/sales/sales-operating-procedures/deal-closure/)** phase, phase three of the GitLab sales cycle.

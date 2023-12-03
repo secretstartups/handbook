@@ -2,7 +2,7 @@
 title: "Continuous Delivery (CD) / Release Stage Playbook"
 ---
 
-View the [Customer Success homepage](https://about.gitlab.com/handbook/customer-success/) for additional Customer Success handbook content.
+View the [Customer Success homepage](/handbook/customer-success/) for additional Customer Success handbook content.
 
 ---
 

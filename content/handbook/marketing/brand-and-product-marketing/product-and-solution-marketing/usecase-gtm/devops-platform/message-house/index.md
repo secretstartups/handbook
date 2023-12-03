@@ -5,7 +5,7 @@ title: "DevOps Platform Message House"
 
 ## Overview
 
-In the spirit of [Command of the Message](https://about.gitlab.com/handbook/sales/command-of-the-message/), this page will help GitLab team members understand and define the GitLab DevOps Platform solutions to customers in an authentic, consistent manner than differentiates us from our competitors. It includes:
+In the spirit of [Command of the Message](/handbook/sales/command-of-the-message/), this page will help GitLab team members understand and define the GitLab DevOps Platform solutions to customers in an authentic, consistent manner than differentiates us from our competitors. It includes:
 
 - [Historical context of the market evolution](./index.html#the-four-phases-of-devops)
 - [General messaging guidelines](./index.html#messaging-guidelines)
@@ -55,7 +55,7 @@ As we look ahead to software-led organizations becoming even more distributed an
 | **Single Sentence (Engineers)** | GitLab is The DevOps Platform, which combines the ability to develop, secure, and operate software in a single application that is easier to use and leads to a faster cycle time. |
 | **Single Paragraph (Engineers)** | GitLab is The DevOps Platform, which combines the ability to develop, secure, and operate software in a single application that is easier to use and leads to faster cycle time. With GitLab, every team in your organization can collaborate in a single tool to manage the end-to-end development lifecycle, delivering more value faster, increasing visibility, and removing context switching.  |
 
-| **[Key Values](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers)** | Value 1: [Increase Operational Efficiencies](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers)  | Value 2: [Deliver Better Products Faster](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers)  | Value 3: [Reduce Security & Compliance Risk](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers) |
+| **[Key Values](/handbook/sales/command-of-the-message/#customer-value-drivers)** | Value 1: [Increase Operational Efficiencies](/handbook/sales/command-of-the-message/#customer-value-drivers)  | Value 2: [Deliver Better Products Faster](/handbook/sales/command-of-the-message/#customer-value-drivers)  | Value 3: [Reduce Security & Compliance Risk](/handbook/sales/command-of-the-message/#customer-value-drivers) |
 |--------------|----------|----------|----------|
 | **Promise** | **Efficiency**:<br>Maximize R&D and IT productivity. | **Velocity**:<br>Accelerate speed to market. | **Security**:<br>Compliance without compromise. |
 | **Customer pain** |  Organizations waste time and resources maintaining toolchain integrations, create silos of tool-specific competencies, create "Data gaps" in integrations resulting in incomplete context and manual workarounds. | DIY toolchains limit visibility into critical DevOps data that should inform decisions. They are also unreliable and inconsistent, prohibiting organizations from executing on decisions at scale without dramatically increasing risk. | Security scanning happens too late--if at all--requiring extensive rework as developers trace vulnerabilities back to their source and repair both the vulnerable code and other code changes built upon it. |

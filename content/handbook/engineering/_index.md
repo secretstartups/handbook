@@ -4,7 +4,7 @@ title: Engineering
 
 ## FY24 Direction
 
-GitLab has a [Three-Year Strategy](https://about.gitlab.com/company/strategy/), and we're excited to see every member of the Engineering division contribute to achieving it. Whether you're creating something new or improving something that already exists, we want you to feel empowered to bring your best ideas for influencing the product direction through improved scalability, usability, resilience, and system architectures. And when you feel like you need to expand your knowledge in a particular area, know that you're supported in having the resources to learn and improve your skills.
+GitLab has a [Three-Year Strategy](/handbook/company/strategy/), and we're excited to see every member of the Engineering division contribute to achieving it. Whether you're creating something new or improving something that already exists, we want you to feel empowered to bring your best ideas for influencing the product direction through improved scalability, usability, resilience, and system architectures. And when you feel like you need to expand your knowledge in a particular area, know that you're supported in having the resources to learn and improve your skills.
 
 Our focus on FY24 is to make sure that GitLab is enterprise grade in all its abilities and to support the AI efforts required to successfully launch Code Suggestions and GitLab Duo to General Availability.
 
@@ -13,7 +13,7 @@ Making sure that GitLab is enterprise grade involves several teams collaborating
 ## Engineering Culture
 
 Engineering culture at GitLab encompasses the processes, workflows, principles
-and priorities that all stem from our [GitLab Values](/company/culture/all-remote/values).
+and priorities that all stem from our [GitLab Values](/handbook/company/culture/all-remote/values).
 All these things continuously strengthen our engineering craftsmanship and
 allow engineers to achieve engineering excellence, while growing and having a
 significant, positive impact on the product, people and the company as a whole.
@@ -40,7 +40,7 @@ Engineering is the primary advocate for the performance, availability, and secur
 
 ### Community Contributions
 
-We have a 3-year goal of [reaching 1,000 monthly contributors](https://about.gitlab.com/company/strategy/#2-build-on-our-open-core-strength) as a way to mature new stages, add customer-desired features that aren’t on our roadmap, and even translate our product into multiple languages.
+We have a 3-year goal of [reaching 1,000 monthly contributors](/handbook/company/strategy/#2-build-on-our-open-core-strength) as a way to mature new stages, add customer-desired features that aren’t on our roadmap, and even translate our product into multiple languages.
 
 ### Diversity
 
@@ -92,7 +92,7 @@ There are four departments within the Engineering Division:
 
 ### Workflows
 
-- [Developer onboarding](/handbook/developer-onboarding/)
+- [Developer onboarding](https://about.gitlab.com/handbook/developer-onboarding/)
 - [Engineering Demo Process](/handbook/engineering/demos/)
 - [Engineering Workflow](/handbook/engineering/workflow/)
     - [Code Review](/handbook/engineering/workflow/code-review/)

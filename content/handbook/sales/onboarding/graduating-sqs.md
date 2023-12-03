@@ -20,7 +20,7 @@ In order to officially “graduate” from Sales Onboarding at GitLab and be awa
    - 4 Free Response Questions
    - 3 Coffee Chats
    - 2 Surveys (Pre & Post Workshop)
-- The [Sales Quick Start Workshop](https://about.gitlab.com/handbook/sales/onboarding/SQS-workshop/#sqs-remote-agenda) is a 16 hour time commitment consisting of 12 instructor led trainings including Command of the Message, our value based selling methodology, with 4 hands on group activities.
+- The [Sales Quick Start Workshop](/handbook/sales/onboarding/SQS-workshop/#sqs-remote-agenda) is a 16 hour time commitment consisting of 12 instructor led trainings including Command of the Message, our value based selling methodology, with 4 hands on group activities.
    - Command of the Message - (6 hours)
    - MEDDPPICC - (1 hour 30 minutes)
    - No Tissues for Issues + Product Tiering - (50 minutes)

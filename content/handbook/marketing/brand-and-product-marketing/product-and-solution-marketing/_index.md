@@ -109,7 +109,7 @@ All Product and Solution Marketing work is aligned to the overall Marketing OKRs
 
 Through research and iteration, Product and Solution Marketing becomes the subject matter experts around key product capabilities and/or solutions. We provide the voice of the customer to help to connect the dots across the marketing functions (web, campaigns, digital ads, ABM, events) and sales stages (SDR nurture, SAEs/SAs pursuit/close, CSM expansion) by providing an outside-in perspective of our buyer's journey experience, along with that of their key influencers, from pain to purchase and from interest to sales. We strive to optimize the journey to efficiently achieve return on marketing and sales investment.
 
-Product and Solution Marketing team members serve as subject matter experts and conduct in-house and partner sales trainings scheduled by the [Sales Training team](https://about.gitlab.com/handbook/sales/training/) and Partner Marketing. For info go to the [Sales Enablement page](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/).
+Product and Solution Marketing team members serve as subject matter experts and conduct in-house and partner sales trainings scheduled by the [Sales Training team](/handbook/sales/training/) and Partner Marketing. For info go to the [Sales Enablement page](/handbook/sales/training/sales-enablement-sessions/).
 
 
 

@@ -10,4 +10,4 @@ noindex: true
 
 
 
-This page has been deprecated and moved to [Business Operations](https://about.gitlab.com/handbook/sales/field-operations/order-processing/)
+This page has been deprecated and moved to [Business Operations](/handbook/sales/field-operations/order-processing/)

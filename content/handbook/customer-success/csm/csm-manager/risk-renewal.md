@@ -10,7 +10,7 @@ This page outlines the different actions and processes CSM management have for a
 
 ## Renewal management & forecasting
 
-CSM Managers work with their team members, and with colleagues in other groups (e.g. [Sales](/handbook/sales), [Renewals Management](https://about.gitlab.com/handbook/customer-success/renewals-managers/what/)), to manage and plan for upcoming renewals.
+CSM Managers work with their team members, and with colleagues in other groups (e.g. [Sales](/handbook/sales), [Renewals Management](/handbook/customer-success/renewals-managers/what/)), to manage and plan for upcoming renewals.
 
 ### Alignment between CSM Manager & Manager of Renewals
 

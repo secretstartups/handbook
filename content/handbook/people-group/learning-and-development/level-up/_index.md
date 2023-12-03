@@ -58,5 +58,5 @@ For questions not answered below, reach out in the #learninganddevelopment Slack
 1. If you have questions about Level Up functionality or capabilities, the Thought Industries [Academy](https://academy.thoughtindustries.com/) includes self-paced training and support articles. Access the academy by clicking the `Need Help` button on the left side bar when logged into Thought Industries and scroll down to `Learn More in the Academy`
 1. Admin in Level Up can use the `Help Center` to report technical problems with platform directly to Thought Industries.
 1. [Platform Settings PDF Guide](https://drive.google.com/file/d/1MXf8NTGRHWloO4WWZYwcRcDzrVucOfcW/view?usp=sharing)
-1. You can also review the [Level Up Administration Guide](https://handbook.gitlab.com/handbook/people-group/learning-and-development/level-up/administration/#content-types) for more information on platform capabilities.
+1. You can also review the [Level Up Administration Guide](/handbook/people-group/learning-and-development/level-up/administration/#content-types) for more information on platform capabilities.
 
