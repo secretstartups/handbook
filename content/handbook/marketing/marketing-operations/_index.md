@@ -339,7 +339,7 @@ Stakeholder mapping is a tool to help define roles and to delegate cross-functio
 
 Stakeholder mapping is NOT a way to gatekeep, nor is it meant to stifle communication, collaboration, or efficiency. A particular function is not limited to communicating only with the strategic partner or supporting team members mapped to that function. Similarly, marketing operations team members who are not strategic partners or supporting team members for a particular function may still support that function in various ways. 
 
-#### Why is Stakeholder Mapping important? 
+### Why is Stakeholder Mapping important? 
 Stakeholder mapping is important because it helps to formalize a process for setting the strategic direction of marketing operations initiatives. Stakeholder mapping will help marketing operations better understand the challenges and opportunities that our stakeholders face, allowing the marketing operations team to be more proactive business partners, and better able to plan for and deliver on strategic projects.
 
 Additionally, Stakeholder Mapping creates tighter alignment between Marketing Operations and our stakeholders. It provides our stakeholders with a specific point of contact and a predictable cadence with which they can collaborate on strategic initiatives. 
@@ -349,10 +349,10 @@ Strategic partners are the main point of contact for understanding, documenting,
 
 Findings of Discovery research are then used as inputs for the marketing operations roadmap and backlog. 
 
-#### What does it mean to be a supporting team member? 
+### What does it mean to be a supporting team member? 
 Supporting team members are typically subject matter experts in a specific use case or area within a function. Supporting team members participate in Discovery research and should feel free to ask questions directed toward their particular focus area in order to capture additional insights. Supporting team members typically take point on note taking during Discovery research calls. 
 
-#### What is Discovery research and how do we conduct it?
+### What is Discovery research and how do we conduct it?
 Discovery research is a way to learn more about our users. Our users are members of the marketing division who use tier 1 and 2 marketing technology. Discovery research can be conducted through synchronous interviews or asynchronously. When possible, synchronous interviews are preferred because they allow us to build relationships and ask follow up questions in real time. Discovery research calls should happen quarterly, up to the discretion of the strategic partner and the stakeholder. 
 
 #### What will Discovery research insights be used for? 
