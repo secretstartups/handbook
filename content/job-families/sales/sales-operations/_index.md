@@ -26,7 +26,7 @@ The Associate Sales Operations Analyst is a [grade 5](/handbook/total-rewards/co
 - Assist with operational deployment of sales processes and initiatives.
 - Collaborate with cross-functional operations teams to ensure compliance to standardized processes.
 - Provide insights and recommendations for process improvements to the sales operations team.
-- Monitor system adoption and data compliance with data governance policy. 
+- Monitor system adoption and data compliance with data governance policy.
 - Maintain and evangelize communication best practices for sales and sales support functions.
 - Respond to Sales Support slack channel to resolve questions and issues. 
 
@@ -36,7 +36,7 @@ The Associate Sales Operations Analyst is a [grade 5](/handbook/total-rewards/co
 - Strong written and verbal communication skills
 - Basic knowledge and experience of the sales operations function
 - Demonstrated ability to interpret GTM policies and concept application
-- Strong analytical and prioritization skills 
+- Strong analytical and prioritization skills
 - Salesforce experience and knowledge of enterprise SaaS tools
 - Strong problem solving, project management, interpersonal and organizational skills
 - Ability to use GitLab
@@ -69,7 +69,7 @@ The Sales Operations Analyst is a [grade 6](/handbook/total-rewards/compensation
 #### Sales Operations Analyst Requirements
 
 - Extends that of the Associate Sales Operations Analyst requirements
-- Proficient understanding of the entire sales operations function 
+- Proficient understanding of the entire sales operations function
 - Demonstrated progressive experience in GTM policies and processes
 - Demonstrated concept application
 - Intermediate experience in strategic thinking
@@ -115,9 +115,9 @@ The Manager, Sales Operations is a [grade 8](/handbook/total-rewards/compensatio
 
 #### Manager, Sales Operations Responsibilities
 
-- Manage and lead a team responsible for the sales operations policies and process supporting Field Sales. 
+- Manage and lead a team responsible for the sales operations policies and process supporting Field Sales.
 - Conduct 1:1s with directs to review key deliverables and support eliminating any obstacles to complete the tasks
-- Manage team performance and conduct talent assessments 
+- Manage team performance and conduct talent assessments
 - Develop and guide directs through documented professional development plans
 - Effectively align and collaborate with cross-functional partners to support GTM initiatives.
 - Implement sales tools and processes for the sales organization that focuses on improving efficiency, effectiveness, and productivity at scale
@@ -133,7 +133,7 @@ The Manager, Sales Operations is a [grade 8](/handbook/total-rewards/compensatio
 
 - Progressive and demonstrated relevant experience with all facets of sales operations.
 - Ability to work collaboratively and foster strong cross-functional partnerships.
-- Ability to manage and prioritize multiple projects and adapt to a changing, fast-paced environment. 
+- Ability to manage and prioritize multiple projects and adapt to a changing, fast-paced environment.
 - Ability to delegate initiatives and drive results through team performance.
 - Proven and relevant management experience in a fast paced Sales Operations organization.
 - Demonstrated management skill and ability to oversee a team.
@@ -164,7 +164,7 @@ The Senior Manager, Sales Operations is a [grade 9](/handbook/total-rewards/comp
 
 - Extends that of the Manager, Sales Operations requirements.
 - Proven strategic thought leader with the ability to influence and drive informed decision-making.
-- Demonstrated experience in Go-To-Market motions and how sales operations supports the execution of those initiatives. 
+- Demonstrated experience in Go-To-Market motions and how sales operations supports the execution of those initiatives.
 - Demonstrated experience in employee professional development.
 
 ## Director, Sales Operations Levels
@@ -186,7 +186,7 @@ The Director, Sales Operations is a [grade 10](/handbook/total-rewards/compensat
 - Create board-level presentations for the Chief Revenue Officer
 - Collaborate with regional sales leaders and teams to develop and execute sales management disciplines and processes (territory assignment & reviews, weekly/quarterly forecast, QBRs, pipeline analysis and development, account planning, account assignments, quota/budget allocation)
 - Partner with cross-functional operations leaders to align on sales policies and processes.
-- Lead and manage the data governance model to drive sales data integrity. 
+- Lead and manage the data governance model to drive sales data integrity.
 
 #### Director, Sales Operations Requirements
 
@@ -206,7 +206,7 @@ The Director, Sales Operations is a [grade 10](/handbook/total-rewards/compensat
 
 ##### Sales Tools Responsibilities
 
-Focus on the development and execution of the global sales tools strategy and policy that drives standardization in tool utilization and optimization across the sales process continuum that contributes to Field Sales productivity and efficiency. 
+Focus on the development and execution of the global sales tools strategy and policy that drives standardization in tool utilization and optimization across the sales process continuum that contributes to Field Sales productivity and efficiency.
 
 ##### Account and Territory Operations Responsibilities
 
@@ -214,11 +214,11 @@ Focus on centralizing and implementing the Account and Territory operations func
 
 ##### GTM Planning, Policy and Process Responsibilities
 
-Focus on leading the operational deployment of the Fiscal Year Planning through cross-functional engagement and orchestration of milestone deliverables. Lead and manage the iteration of the Go-To-Market policies and processes through automation and best practices. 
+Focus on leading the operational deployment of the Fiscal Year Planning through cross-functional engagement and orchestration of milestone deliverables. Lead and manage the iteration of the Go-To-Market policies and processes through automation and best practices.
 
 ##### Data Quality and Governance Responsibilities
 
-Focus on creating the Sales Data Governance policies to result in continuous data cleansing, enrichment and augmentation that results in increased data accuracy and confidence. Manage sales data cleansing to support pre and post Fiscal Year Planning. 
+Focus on creating the Sales Data Governance policies to result in continuous data cleansing, enrichment and augmentation that results in increased data accuracy and confidence. Manage sales data cleansing to support pre and post Fiscal Year Planning.
 
 
 ### Senior Director, Sales Operations
