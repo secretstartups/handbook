@@ -6,9 +6,9 @@ description: "This Hands-on Guide is designed to walk you through the lab exerci
 
 
 ## GitLab Advanced System Administration Labs
-- [Lab 1: Manage GitLab Logs](/handbook/customer-success/professional-services-engineering/education-services/advancedsysadminhandsonlab1.html)
-- [Lab 2: Configure Instance Monitoring](/handbook/customer-success/professional-services-engineering/education-services/advancedsysadminhandsonlab2.html)
-- [Lab 3: Troubleshoot GitLab Services](/handbook/customer-success/professional-services-engineering/education-services/advancedsysadminhandsonlab3.html)
+- [Lab 1: Manage GitLab Logs](/handbook/customer-success/professional-services-engineering/education-services/advancedsysadminhandsonlab1)
+- [Lab 2: Configure Instance Monitoring](/handbook/customer-success/professional-services-engineering/education-services/advancedsysadminhandsonlab2)
+- [Lab 3: Troubleshoot GitLab Services](/handbook/customer-success/professional-services-engineering/education-services/advancedsysadminhandsonlab3)
 
 ## Quick links
 
