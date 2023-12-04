@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Practical Handbook Edits Examples"
+title: "Practical Handbook Editing Tips"
 description: "Video recordings and written tips for non-engineering team members on how to work Handbook-First"
 ---
 
