@@ -175,6 +175,19 @@
 {{- with $section_data.tw }}
     {{- if reflect.IsSlice . }}
         {{- range . }}
+            {{- if not (eq . "true") }}
+            {{- $twTeam = append . $twTeam }}
+            {{- end }}
+        {{- end }}
+    {{- else }}
+        {{- if not (eq . "true") }}
+            {{- $twTeam = append . $twTeam }}
+        {{ end }}
+    {{- end }}
+{{- end }}
+{{- with $section_data.tech_writer }}
+    {{- if reflect.IsSlice . }}
+        {{- range . }}
             {{- $twTeam = append . $twTeam }}
         {{- end }}
     {{- else }}

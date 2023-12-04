@@ -1,13 +1,6 @@
 ---
-
 title: Core Development Department
 ---
-
-
-
-
-
-
 
 ## Vision
 
@@ -59,48 +52,25 @@ The core development team is responsible for developing products in the followin
 
 The following people are permanent members of the Development Department:
 
-<%
-departments = ['Verify', 'Package', 'Release', 'Dev' , 'Enablement', 'Ops', 'Fellow']
-department_regexp = /(#{Regexp.union(departments)})/
-%>
-
-<%=  direct_team(role_regexp: department_regexp, manager_role: 'VP of Development') %>
+{{< team-by-departments departments="Verify,Package,Release,Dev,Enablement,Ops,Fellow" manager="VP of Development" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Development/, direct_manager_role: 'VP of Development') %>
+<!-- <%= stable_counterparts(role_regexp: /[,&] Development/, direct_manager_role: 'VP of Development') %> -->
 
 ## Team Composition
 
 This is the breakdown of our department by section and by stage.
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 8817664,dashboard: 673088 , embed: "v2"}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{< sisense chart="8817664" dashboard="673088" >}}
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 8817717,dashboard: 673088, embed: "v2"}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{< sisense chart="8817717" dashboard="673088" >}}
 
 This is the stack-up of our engineers, by level.
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 8737993,dashboard: 673088, embed: "v2"}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{< sisense chart="8737993" dashboard="673088" >}}
 
 ## Development-Specific People Processes
 
@@ -190,15 +160,9 @@ Here are some curated resources to get you started:
 
 [Link to dashboard](https://app.periscopedata.com/app/gitlab/1008238/Next-Prioritization---VP-of-Development)
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="100%" style="min-height:1000px;" src="<%= signed_periscope_url({ dashboard: 1008238 , embed: "v2"}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{< sisense dashboard="1008238" >}}
 
-<%= partial "includes/_cross-functional-prioritization.erb" %>
+{{% include "includes/cross-functional-prioritization.md" %}}
 
 ### Cross-Functional Collaboration
 
