@@ -109,7 +109,7 @@ This ensures that a CSAT survey is deployed to the recipients of the email.
 
 ## Monthly Webinars and Hands On Workshops
 
-The CSE Team delivers monthly webinars and hands-on workshops that are available to all.  The [webinar calendar](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/) is published to our website, with a registration link for each.  Webinars are pre-recorded content with CSEs answering Q&A.  Workshops provide a hands-on learning experience for each attendee with their own lab environment to work through lab exercises during the session.
+The CSE Team delivers monthly webinars and hands-on workshops that are available to all.  The [webinar calendar](/handbook/customer-success/csm/segment/scale/webinar-calendar/) is published to our website, with a registration link for each.  Webinars are pre-recorded content with CSEs answering Q&A.  Workshops provide a hands-on learning experience for each attendee with their own lab environment to work through lab exercises during the session.
 
 ### Preparing for a Webinar
 
