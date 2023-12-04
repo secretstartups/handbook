@@ -15,6 +15,29 @@
 {{- $arTeam := slice }}
 {{- $remTeam := slice }}
 {{- $legalTeam := slice }}
+{{- $appsecEngineer := slice }}
+{{- $infrasecEngineer := slice }}
+
+
+{{- with $section_data.appsec_engineer }}
+    {{- if reflect.IsSlice . }}
+        {{- range . }}
+            {{- $appsecEngineer =  $appsecEngineer | append . }}
+        {{- end }}
+    {{ else }}
+        {{- $appsecEngineer =  $appsecEngineer | append . }}
+    {{ end }}
+{{- end }}
+
+{{- with $section_data.infrasec_engineer }}
+    {{- if reflect.IsSlice . }}
+        {{- range . }}
+            {{- $infrasecEngineer =  $infrasecEngineer | append . }}
+        {{- end }}
+    {{ else }}
+        {{- $infrasecEngineer =  $infrasecEngineer | append . }}
+    {{ end }}
+{{- end }}
 
 {{- with $section_data.pm_team_tag }}
     {{- $pmTeamTag := . }}
