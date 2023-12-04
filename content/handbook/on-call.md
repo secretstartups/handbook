@@ -78,14 +78,13 @@ The Infrastructure department's Reliability Engineering teams provide 24x7 on-ca
 - In the event of a high-impact security incident to GitLab, the Security Manager on-call will be engaged to assist with cross-team/department coordination.
 
 
-## Quality Team On-Call Rotation
+## Test Platform Team On-Call Rotation
 
-- Quality department's on-call do not include work outside GitLab's normal business hours. The process is defined on our [pipeline on-call rotation](https://about.gitlab.com/engineering/quality/quality-engineering/oncall-rotation) page.
-- The rotation is on a weekly basis separated out into 2 timezones APAC/EMEA and AMER and each timezone has a primary and secondary on-call DRI.
-- The primary DRI is responsible for reporting and resolving triage activities while the secondary DRI is involved to prepare for taking over as primary in the following week.
+- Test Platform sub-department's on-call do not include work outside GitLab's normal business hours. The process is defined on our [pipeline on-call rotation](https://about.gitlab.com/engineering/infrastructure/test-platform/oncall-rotation) page.
+- The rotation is on a weekly basis across 3 timezones (APAC, EMEA, AMER) and triage activities happen during each team member's working hours.
 - This on-call rotation is to ensure accurate and stable test pipeline results that directly affects our continuous release process.
-- The list of pipelines which are monitored are defined on our [pipeline](https://about.gitlab.com/engineering/quality/quality-engineering/debugging-qa-test-failures/#qa-test-pipelines) page.
-- The schedule and roster is defined on our [schedule](https://about.gitlab.com/engineering/quality/quality-engineering/oncall-rotation/#schedule) page.
+- The list of pipelines which are monitored are defined on our [pipeline](https://about.gitlab.com/engineering/infrastructure/test-platform/debugging-qa-test-failures/#qa-test-pipelines) page.
+- The schedule and roster is defined on our [schedule](https://about.gitlab.com/engineering/infrastructure/test-platform/oncall-rotation/#schedule) page.
 
 ## PagerDuty
 

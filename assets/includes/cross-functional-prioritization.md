@@ -31,7 +31,7 @@ Our backlog should be prioritized on an ongoing basis. Prioritization will be do
 
 1. Product Manager provides prioritized `type::feature` issues
 1. Engineering Manager in development provides prioritized `type::maintenance` issues
-1. [Quality Managers](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/#milestone-planning) provide prioritized `type::bug` issues using the [bug prioritization dashboard](https://app.periscopedata.com/app/gitlab/1037965/Bug-Prioritization)
+1. [Quality Managers](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/#milestone-planning) provide prioritized `type::bug` issues using the [bug prioritization dashboard](https://app.periscopedata.com/app/gitlab/1037965/Bug-Prioritization)
 
 *Note: UX-related work items would be prioritized in accordance with the appropriate sub-types. UX related bugs are included in the automated process (S1/2 and so on), UX-related maintenance items will be included in the EM's prioritized list, Product (feature) UX items will have been included as part of our normal [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/).*
 

@@ -185,8 +185,8 @@
   - name: Quality Department
     url: https://about.gitlab.com/handbook/engineering/quality/
     links:
-    - name: Quality Engineering
-      url: https://about.gitlab.com/handbook/engineering/quality/quality-engineering/
+    - name: Test Platform
+      url: https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/
     - name: Engineering Productivity
       url: https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/
     - name: Engineering Analytics

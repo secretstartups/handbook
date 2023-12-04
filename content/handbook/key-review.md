@@ -55,7 +55,7 @@ Functions that have these quarterly meetings are:
 1. Business Technology (Nabitha Rao - function DRI), beginning of month 3
 1. Data (Amie Bright - function DRI), mid-month 3
 1. Development (Christopher Lefelhocz - function DRI), month 3
-1. Infrastructure & Quality (Mek Stittri - function DRI), month 3
+1. Infrastructure (Mek Stittri - function DRI), month 3
 
 Function DRIs are expected to review the invite list in advance of each Key Review. If cross-functional topics are being discussed, they are encouraged to invite folks who should be involved in the conversation. If there are MNPI concerns, they may choose to link to a separate agenda for this part of the discussion.
 
