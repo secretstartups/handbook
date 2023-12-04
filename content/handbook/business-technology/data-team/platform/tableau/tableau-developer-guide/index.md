@@ -14,7 +14,7 @@ description: "Giltab's Tableau Developer guide"
 
 ## Embedding in the Handbook
 
-In order for views from workbooks to be embedded and viewable in the handbook, public or internal, the workbook and their data sources must be prepared in a specific way. To be embedded in the public handbook the workbook and relevant datasource must be copied from the [Internal GitLab Tableau](https://10az.online.tableau.com/#/site/gitlab) site to the [Public GitLab Tableau](https://us-west-2b.online.tableau.com/#/site/gitlabpublic) site. To facilitate correct viewing of embedded views and the migration of content to the public site, workbooks must be set up in a specific way and be in a specific location.
+In order for views from workbooks to be embedded and viewable in the handbook, public or internal, the workbook and their data sources must be prepared in a specific way. To be embedded in the public handbook the workbook and relevant datasource must be copied from the [Internal GitLab Tableau](https://10az.online.tableau.com/#/site/gitlab) site to the [Public GitLab Tableau](https://us-west-2b.online.tableau.com/#/site/gitlabpublic) site. To facilitate correct viewing of embedded views and the migration of content to the public site, workbooks must be set up in a specific way and be in a specific location.  The sharing URL for views intended for embedding on the public site can be found on the [Handbook Embedding Demonstration](/handbook/business-technology/data-team/platform/tableau/embed-demo/) page.
 
 ### Workbook Set Up
 

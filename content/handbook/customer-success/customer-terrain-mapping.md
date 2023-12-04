@@ -11,7 +11,7 @@ Customer Terrain Mapping Engagements provide customers with the benefit of GitLa
 
 - Focus on discovering customer concerns in a scoped area (a Terrain) to apply GitLab solutions to their specific challenges on the ground.
 - Facilitate collaboration with customers on articulating critical success factors by co-creating a first draft of a terrain map.
-- To help customers and GitLab team members understand scenarios where professional services may play a significant and direct role in ensuring customers can be more successful with implementing and gaining value from GitLab. This directly supports the [publicly stated mission](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#professional-services-handbook) of GitLab Professional Services as being an extension of Customer Success.
+- To help customers and GitLab team members understand scenarios where professional services may play a significant and direct role in ensuring customers can be more successful with implementing and gaining value from GitLab. This directly supports the [publicly stated mission](/handbook/customer-success/professional-services-engineering/#professional-services-handbook) of GitLab Professional Services as being an extension of Customer Success.
 - Generate results rapidly and efficiently through a co-worked document outlining considerations and scope in as little as one 60 minute session.
 - To enable reuse and extension, leverage single templates that include brief embedded training and instructions.
 - To enable diversity and inclusivity of inputs by using an open collaboration event to build out the deliverable.

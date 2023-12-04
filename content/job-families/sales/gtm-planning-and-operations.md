@@ -179,7 +179,7 @@ The Senior Director, GTM Planning and Operations is a [grade 11](/handbook/total
 
 ## Performance Indicators
 
-- Bookings and revenue growth as measured by [ARR](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/), including gross renewal, expansion, and net retention
+- Bookings and revenue growth as measured by [ARR](/handbook/sales/sales-term-glossary/arr-in-practice/), including gross renewal, expansion, and net retention
 - [Sales KPIs](/handbook/company/kpis/#sales-kpis)
 
 ## Career Ladder

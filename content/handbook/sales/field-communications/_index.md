@@ -14,24 +14,24 @@ description: "The Field Communications team is responsible for creating effectiv
 
 This team is responsible for creating effective, timely, and easily consumable communications with the Field team (Sales, Customer Success, Channel, Alliances, Revenue Strategy, Operations & Enablement). Our goal is to help the field sell better, faster, and smarter with communication programs that keep them better informed of organizational/business updates that impact their roles, as well as useful resources that will enable day-to-day work.
 
-For more information about the Field Enablement team, visit the [team handbook page.](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/)
+For more information about the Field Enablement team, visit the [team handbook page.](/handbook/sales/field-operations/field-enablement/)
 
 ## How to work with us
 
 1. Review this page for information about our Field Communications programs, channels and processes.
-2. Engage the Field Communications team by submitting a [Field Announcement Request](https://about.gitlab.com/handbook/sales/field-communications/#requesting-field-announcements)
+2. Engage the Field Communications team by submitting a [Field Announcement Request](/handbook/sales/field-communications/#requesting-field-announcements)
 
 
 ## Primary Field Communications Programs
 
 Field Communications uses the channels outlined in this [communication channel map](https://docs.google.com/presentation/d/1gedEhDc9X77TmHbED2AR1JhSTm2FjKeISdMvqlIdnzk/edit?usp=sharing) to communicate with the Field. Key programs include:
 
-- [Field-FYI Slack Channel](https://about.gitlab.com/handbook/sales/sales-google-groups/field-fyi-channel/)
-- [Field Flash Newsletter](https://about.gitlab.com/handbook/sales/field-communications/field-flash-newsletter/)
-- [Field Update Tickers](https://about.gitlab.com/handbook/sales/field-communications/field-update-tickers/)
-- [Field Alerts](https://about.gitlab.com/handbook/sales/field-communications/field-alerts/)
-- [WW Field Org & WW Field Manager Calls](https://about.gitlab.com/handbook/sales/sales-meetings/#ww-field-org-call)
-- [Field Google Group and Slack Channel landscape](https://about.gitlab.com/handbook/sales/sales-google-groups/)
+- [Field-FYI Slack Channel](/handbook/sales/sales-google-groups/field-fyi-channel/)
+- [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
+- [Field Update Tickers](/handbook/sales/field-communications/field-update-tickers/)
+- [Field Alerts](/handbook/sales/field-communications/field-alerts/)
+- [WW Field Org & WW Field Manager Calls](/handbook/sales/sales-meetings/#ww-field-org-call)
+- [Field Google Group and Slack Channel landscape](/handbook/sales/sales-google-groups/)
    - See this link for how best to communicate with the Field team on Slack or via email.
 
 
@@ -66,7 +66,7 @@ To support the GitLab value of transparency, an overview of each Tier along with
 
 ## Tier 1 Update
 
-This update highly impacts the Field’s current priorities and/or day-to-day work, is highly relevant to all segments of the Field organization and is highly urgent (requiring immediate action and/or focus by a particular date). **These updates are deemed the most important for the Field and will be addressed in all available Field Communication channels/motions**. Field Enablement is likely required, and the [Field Enablement team](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/) should be engaged.
+This update highly impacts the Field’s current priorities and/or day-to-day work, is highly relevant to all segments of the Field organization and is highly urgent (requiring immediate action and/or focus by a particular date). **These updates are deemed the most important for the Field and will be addressed in all available Field Communication channels/motions**. Field Enablement is likely required, and the [Field Enablement team](/handbook/sales/field-operations/field-enablement/) should be engaged.
 
 **Use Cases**: Major process changes impacting the Field’s day-to-day work and/or selling activities, CRO/CEO/e-group calls-to-action, major pricing and packaging changes, significant new product offerings, company initiatives and/or priorities that affect how GitLab is sold or how the Field interacts with customers.
 
@@ -145,10 +145,10 @@ Once you've reviewed the playbook above and would like to request Field Communic
 
 If you have an internal announcement that is also relevant to GitLab's external Channel/Alliances Partner audience, please use the Field Announcement Request process outlined above and add the appropriate details in the `Enablement Scope` section of the issue. Also select the `GitLab Partners (external)` audience in addition to the relevant internal audiences. By selecting this audience, the Field Communications team will engage the appropriate team members in Partner Communications to disseminate the announcement to partners.
 
-If you have an announcement that is relevant *only* for the external partner audience, please open a [Channel Partner Communication Request issue](https://gitlab.com/gitlab-com/channel/channels/-/issues/new?issue%5Bmilestone_id%5D=) so the [Partner Communication team](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#partner-communications) can assist you.
+If you have an announcement that is relevant *only* for the external partner audience, please open a [Channel Partner Communication Request issue](https://gitlab.com/gitlab-com/channel/channels/-/issues/new?issue%5Bmilestone_id%5D=) so the [Partner Communication team](/handbook/sales/channel/channel-programs-ops/#partner-communications) can assist you.
 
 ## Sharing Feedback
 
-Ongoing feedback and participation from the Field is imperative to the success of the Field Communications team and its programs. Field Communications incorporates surveys and other opportunities for feedback directly into [key communication programs](https://about.gitlab.com/handbook/sales/field-communications/#key-field-communications-programs). Team members are encouraged to provide ongoing feedback via these avenues.
+Ongoing feedback and participation from the Field is imperative to the success of the Field Communications team and its programs. Field Communications incorporates surveys and other opportunities for feedback directly into [key communication programs](/handbook/sales/field-communications/#key-field-communications-programs). Team members are encouraged to provide ongoing feedback via these avenues.
 
 In addition, Field Communications provides team members an opportunity to provide feedback about their Field Communications experience in annual Field and/or company surveys.

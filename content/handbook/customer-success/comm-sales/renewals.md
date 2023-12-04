@@ -10,7 +10,7 @@ description: "A key part of the customer relationship lifecycle is the renewal p
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 
 

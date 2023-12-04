@@ -90,5 +90,5 @@ Evaluation Design is the most complex part of the PoV.
 | [Data for Product Analysis](/handbook/product/product-analysis/) | Information to help Product Analysts |
 | [Analytics Instrumentation Group](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/) | Information covering the Analytics Instrumentation team |
 | [Data for Marketing Analysts](/handbook/marketing/inbound-marketing/search-marketing/analytics/) | Information to help Marketing Analysts |
-| [Data for Sales Analysts](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/) | Information to help Sales Analysts |
+| [Data for Sales Analysts](/handbook/sales/field-operations/sales-strategy/) | Information to help Sales Analysts |
 | [Data Triage](/handbook/business-technology/data-team/how-we-work/triage/) | Daily process to ensure the data platform remains available for analytics. |

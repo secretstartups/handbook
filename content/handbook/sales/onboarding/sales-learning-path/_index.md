@@ -71,7 +71,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 - **QUESTION: Personas & Pain Points (Assignment - 1 Point - Pre Work)**
    - Please share your thoughts on the question below. This is a classroom discussion board, let's crowdsource some knowledge! Why is it important to understand different buyer personas as a salesperson?
 - **Customer Success Stories & Proof Points (Material - Handbook - 10 Minutes)**
-   - References are an age old tenet of sales pros! Your prospective clients will definitely be impressed by the positive business outcomes of our customers. Check out our [customer case studies](https://about.gitlab.com/customers/) and [proof points](https://about.gitlab.com/handbook/sales/command-of-the-message/proof-points/) on GitLab value.
+   - References are an age old tenet of sales pros! Your prospective clients will definitely be impressed by the positive business outcomes of our customers. Check out our [customer case studies](https://about.gitlab.com/customers/) and [proof points](/handbook/sales/command-of-the-message/proof-points/) on GitLab value.
 - **Marketing Materials Repository (Material - Gitlab.com - 10 Minutes)**
    - Check out the GitLab [marketing materials repository](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit?usp=sharing) to see all of our best and most relevant sales collateral. Please be careful to only view or download these files, and feel free to send copies to your clients to help them understand GitLab value. If you would like to share one of these assests on social media please be careful to only use the gated links to content.
 
@@ -96,8 +96,8 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - [GitLab Secure Doc](https://docs.gitlab.com/ee/user/application_security/index.html)
    - [GitLab Security and Compliance Capabilities Deck](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit)
 - **Selling Professional Services (Material - Video - 30 Minutes)**
-   - Our [Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/) team is made up of not only GitLab subject matter experts but seasoned DevOps professionals who have experience in deploying and maintaining both large-scale applications as well as creating and teaching best practices throughout the SDLC. Our experts help lead Concurrent DevOps Transformations, providing direct support to our customer’s strategic business initiatives. GitLab's Professional Services team exists to enable your clients realize the full value of their GitLab installation. We can provide direct implementation support to ensure the GitLab installation is resilient and secure. We also offer migration services to facilitate the transition to GitLab by delivering a clean dataset to resume operations at once. Our education and specialized training provide training in best practices, such as CI/CD, version control, metrics, and more.
-   - You can also watch the [Sales Enablement Session](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/sales-enablement/) about how to sell services
+   - Our [Professional Services](/handbook/customer-success/professional-services-engineering/selling/) team is made up of not only GitLab subject matter experts but seasoned DevOps professionals who have experience in deploying and maintaining both large-scale applications as well as creating and teaching best practices throughout the SDLC. Our experts help lead Concurrent DevOps Transformations, providing direct support to our customer’s strategic business initiatives. GitLab's Professional Services team exists to enable your clients realize the full value of their GitLab installation. We can provide direct implementation support to ensure the GitLab installation is resilient and secure. We also offer migration services to facilitate the transition to GitLab by delivering a clean dataset to resume operations at once. Our education and specialized training provide training in best practices, such as CI/CD, version control, metrics, and more.
+   - You can also watch the [Sales Enablement Session](/handbook/customer-success/professional-services-engineering/sales-enablement/) about how to sell services
 - **GitLab Direction & Latest Releases**
    - Our vision is to replace disparate DevOps toolchains with a single application that is pre-configured to work by default across the entire DevOps lifecycle. We aim to make it faster and easier for groups of contributors to deliver value to their users, and we achieve this by enabling:
    - Faster cycle time, driving an improved time to innovation
@@ -124,7 +124,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 ### 5. Field Roles & Expectations
 - **Sales Roles (Material, - Handbook - 30 minutes)**
    - Review the sales roles based on the customer segment you will cover.
-   - Read the [Handbook](https://about.gitlab.com/handbook/sales/)
+   - Read the [Handbook](/handbook/sales/)
    - Read the [Strategic Account Executive (Enterprise) Role Description](/job-families/sales/enterprise-account-executive/)
    - Read the [Account Executive (Mid-Market) Role Description](/job-families/sales/account-executive/)
    - Read the [Customer Advocate (SMB) Role Description](/job-families/sales/smb-customer-advocate/)
@@ -132,19 +132,19 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 - **Solutions Architects (Material - Handbook - 15 minutes)**
    - GitLab's Solutions Architects (SAs) are trusted advisors to GitLab prospects and customers during the presales motion, demonstrating how the GitLab application and GitLab Professional Services address common and unique business requirements.
    - Read the [Solutions Architect Role Description](/job-families/sales/solutions-architect/)
-   - Read about the [Proof of Value Deliverable](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov)
+   - Read about the [Proof of Value Deliverable](/handbook/customer-success/solutions-architects/tools-and-resources/pov)
 - **Customer Success Managers (Material, - Handbook - 15 minutes)**
    - GitLab's Customer Success Managers serve as trusted advisors to GitLab's customers. This section outlines to CSM role and their key deliverables: Health Checks, Sucess Plans, and Executive Business Reviews.
-   - Read the [CSM Handbook](https://about.gitlab.com/handbook/customer-success/csm/#what-is-a-customer-success-manager-csm)
-   - Read about [Customer Health Scores in the Handbook](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/)
-   - Read about [Success Plans in the Handbook](https://about.gitlab.com/handbook/customer-success/csm/success-plans/)
-   - Read about [Executive Business Reviews in the Handbook](https://about.gitlab.com/handbook/customer-success/csm/ebr/)
+   - Read the [CSM Handbook](/handbook/customer-success/csm/#what-is-a-customer-success-manager-csm)
+   - Read about [Customer Health Scores in the Handbook](/handbook/customer-success/csm/health-score-triage/)
+   - Read about [Success Plans in the Handbook](/handbook/customer-success/csm/success-plans/)
+   - Read about [Executive Business Reviews in the Handbook](/handbook/customer-success/csm/ebr/)
 - **Professional Services Engineers (Material - Handbook - 10 minutes)**
    -Professional Services Engineers (PSEs) provide professional services on-site or remote deployment of GitLab technology and solutions as well as training. The PSE will act as the technical representative leading the direct interaction with the customer’s personnel and project teams by rolling out best practices.
    - Read the [PSE Role job description](/job-families/sales/professional-services-engineer/)
-   - Read the [Handbook](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/)
+   - Read the [Handbook](/handbook/customer-success/professional-services-engineering/)
 - **Customer Success Handbook (Material - Handbook - 10 minutes)**
-   - Skim and bookmark the [Handbook](https://about.gitlab.com/handbook/customer-success/)
+   - Skim and bookmark the [Handbook](/handbook/customer-success/)
 
 </details>
 
@@ -157,7 +157,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - Please complete the Command of the Message learning path.
    - Time to complete is approximately 1.5 hours
 - **MEDDPPICC Full E-Learning Course (Assignment - 2 Hours - 10 Points - Pre Work)**
-   - Please review the [MEDDPPICC handbook page](https://about.gitlab.com/handbook/sales/meddppicc/). The full elearning is optional.
+   - Please review the [MEDDPPICC handbook page](/handbook/sales/meddppicc/). The full elearning is optional.
    - Time to complete is approximately 1.5 hours
 - **GitLab Value Framework (Material - Sales Collateral - 35 Minutes)**
    - The GitLab [value framework](https://internal.gitlab.com/handbook/sales/command-of-the-message/#resources-core-content) (internal only) is one of the most useful tools available for salespeople. Take a look to understand our value drivers, how to uncover customer needs, and how to articulate value and differentiation. A [framework summary](https://internal.gitlab.com/handbook/sales/command-of-the-message/#resources-core-content) (internal only) is also avaliable for quick reference.
@@ -221,9 +221,9 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 - **Update Your LinkedIn Profile! (Assignment - 30 Minutes - 10 Points - Pre Work)**
    - Check out the [slide deck](https://drive.google.com/open?id=1UCRF6PC6al8XxT8E_4rDKkQjkW6WGPA6gybWeuRIg7A&authuser=0) on creating a great profile that will look good to your prospects and clients!
 - **Salesforce - Booking Orders (Material - Handbook - 10 Minutes)**
-   - [Learn how to create](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) Accounts, Contacts, Opportunities, and [Quotes](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) in Salesforce.
+   - [Learn how to create](/handbook/sales/field-operations/order-processing/) Accounts, Contacts, Opportunities, and [Quotes](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) in Salesforce.
 - **Reference Edge (Material - Video - 10 Minutes)**
-   - Reference Edge Software will help reps to easily see what available references are the best fit for their current opportunity. Check out the [video](https://about.gitlab.com/handbook/sales/training/#functional-and-technical-skills--processes), and [Powerpoint](https://docs.google.com/presentation/d/18odHX0PTzifRJaeAr-yxa9jdg1_nw4RYDiBqAkYFAyM/edit?usp=sharing) on this new tool.
+   - Reference Edge Software will help reps to easily see what available references are the best fit for their current opportunity. Check out the [video](/handbook/sales/training/#functional-and-technical-skills--processes), and [Powerpoint](https://docs.google.com/presentation/d/18odHX0PTzifRJaeAr-yxa9jdg1_nw4RYDiBqAkYFAyM/edit?usp=sharing) on this new tool.
 
 </details>
 
@@ -234,7 +234,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 - **The Product Teams (Material - Handbook - 60 minutes)**
    -Review the Product Stages Handbook page to see who you should reach out if you have questions or need assistance with a [particular product.](/handbook/product/categories/)
 - **The GitLab Legal Team (Material - Handbook - 10 Minutes)**
-   - Familiarize yourself with submitting Contract Requests for Legal/Contract assistance. [Presentation](https://docs.google.com/presentation/d/1lesWNvPAFd1B3RuCgKsqQlE85ZEwLuE01QpVAKPhQKw/edit#slide=id.g5d6196cc9d_2_0), [Video](https://www.youtube.com/watch?v=CIWdsqRX7E0&amp=&feature=youtu.be) and [Handbook Page](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal)
+   - Familiarize yourself with submitting Contract Requests for Legal/Contract assistance. [Presentation](https://docs.google.com/presentation/d/1lesWNvPAFd1B3RuCgKsqQlE85ZEwLuE01QpVAKPhQKw/edit#slide=id.g5d6196cc9d_2_0), [Video](https://www.youtube.com/watch?v=CIWdsqRX7E0&amp=&feature=youtu.be) and [Handbook Page](/handbook/sales/field-operations/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal)
    - You can reach out to the [Legal Team](/handbook/legal/) on the #legal Slack chat channel. The legal Slack chat channel is reserved for everyday legal questions. If you are making a request that requires some sort of deliverable, please do not use the legal Slack chat channel. Slack is reserved for immediate, informal communications. Also, please do not share confidential information on Slack that is not meant for the entire company to see, and do not use it to seek legal advice. You can email the legal team at legal@gitlab.com.
 - **Support for GitLab Team Members (Material - Handbook - 10 Minutes)**
    - [GitLab Support](/handbook/support/internal-support/#what-does-the-support-team-do) provides technical support to our Self-managed and GitLab.com customers for the GitLab product. We are not internal IT Support, so we probably can't help you with your MacBook, 1Password or similar issues.
@@ -284,7 +284,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 - **Searching GitLab Like a Pro (Assignment - 10 Minutes - 10 Points - In-Class)**
    - At GitLab, we're prolific at documenting what we do in the handbook, the website, and in GitLab documentation. This may make it difficult to find specific pieces of content. Google already indexes all our public facing pages and there is a search modifier google offers that will help. Take a look at the handbook page on how to [set up your search engine like the pros!](/handbook/tools-and-tips/searching/)
 - **Role Play Notes (Assignment - 10 Minutes - 10 Points - In-Class)**
-   - Please submit your notes from one of the role plays that you observed using the [notes template](https://docs.google.com/document/d/1bzuO-ngACn4Z1S55Z7EtNOb2HYCZbcBZZRYIVpkeMtw/edit?usp=sharing). Dont forget to check out the [handbook page](https://about.gitlab.com/handbook/sales/#sales-note-taking) on how we take notes at GitLab.
+   - Please submit your notes from one of the role plays that you observed using the [notes template](https://docs.google.com/document/d/1bzuO-ngACn4Z1S55Z7EtNOb2HYCZbcBZZRYIVpkeMtw/edit?usp=sharing). Dont forget to check out the [handbook page](/handbook/sales/#sales-note-taking) on how we take notes at GitLab.
 
 </details>
 
@@ -365,13 +365,13 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 - **ACTIVITY: Obtain Gold Level Access to Enable All Features on GitLab.com (Assignment - 15 minutes - 10 points)**
    -An [example request](https://gitlab.com/gitlab-com/support/internal-requests/issues/310)
 - **ACTIVITY: Create a demo account on gitlabdemo.com (Assignment - 10 points)**
-   - Log in with your GitLab credentials using Okta. After login, a GitLab group will be created automatically and accessible on the [Cloud Sandbox](https://gitlabsandbox.cloud). From there, this group can serve as a ground for future demo projects. For an oveview of our demo systems, please review the [Demo Systems Handbook page](https://about.gitlab.com/handbook/customer-success/demo-systems/). For an overview of the Cloud Sandbox, please review the [Sandbox Cloud Realm Handbook Page](/handbook/infrastructure-standards/realms/sandbox/).
+   - Log in with your GitLab credentials using Okta. After login, a GitLab group will be created automatically and accessible on the [Cloud Sandbox](https://gitlabsandbox.cloud). From there, this group can serve as a ground for future demo projects. For an oveview of our demo systems, please review the [Demo Systems Handbook page](/handbook/customer-success/demo-systems/). For an overview of the Cloud Sandbox, please review the [Sandbox Cloud Realm Handbook Page](/handbook/infrastructure-standards/realms/sandbox/).
 - **ACTIVITY: Set Up Standby Demo Project (Assignment - 1 day - 10 points)**
    - At any point in the day, you may be called in to do a quick demo and its helpful to have a standby project in your back pocket with commonly requested workflows.
    - Pair up with a member of your team on creating a standby project. Bonus - Collaborate on storytelling ideas when creating the standby project.
    - Create a project in a familiar framework and language. Add the following capabilities to the project:
      - Containerize the application and push to the container registry
-     - Enable GitLab Kubernetes integration and [connect to the demo cluster](https://about.gitlab.com/handbook/customer-success/demo-systems/tutorials/getting-started/configuring-group-cluster/)
+     - Enable GitLab Kubernetes integration and [connect to the demo cluster](/handbook/customer-success/demo-systems/tutorials/getting-started/configuring-group-cluster/)
      - Add unit tests to the project and include [unit test reports](https://docs.gitlab.com/ee/ci/unit_test_reports.html)
      - Add [static analysis](https://docs.gitlab.com/ee/user/application_security/sast/) to identify vulnerabilities in the codebase
      - Add [dependency scanning](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/) to identify vulnerabilities in the projects dependencies
@@ -401,8 +401,8 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 #### Customer Onboarding
 - **Customer Onboarding (Material - Handbook and Video - 60 Minutes)**
    - Customer on-boarding is a 45 day time period. Customer Success Managers and Professional Services Engineers should work closely together throughout the on-boarding process, with support from Solutions Architects and Strategic Account Leaders/Account Managers where appropriate. The Customer Kickoff is a moment that matters in the customer's journey. Below are resources you should familiarize yourself with as you get ready to start interacting with customers.
-   - [Customer Onboarding](https://about.gitlab.com/handbook/customer-success/csm/onboarding/)
-   - [Using Gainsight within Customer Success](https://about.gitlab.com/handbook/customer-success/csm/gainsight/)
+   - [Customer Onboarding](/handbook/customer-success/csm/onboarding/)
+   - [Using Gainsight within Customer Success](/handbook/customer-success/csm/gainsight/)
    - [Customer Onboarding Dashboard](https://gitlab--jbcxm.na129.visual.force.com/apex/GainsightNXT?sfdc.tabName=01r4M000000wqZv#home%2358502af5-e7c2-4cbd-8645-d612b74424ff)
 - **ACTIVITY: Record a Customer Kickoff Call (Assignment - 60 minutes - 10 points)**
    -Using Zoom, record a short mock customer kickoff call. Be sure to invite your manager and your onboarding buddy.
@@ -416,7 +416,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 ### 16. PSEs Only: Statement of Work
 - **The Statement of Work (SOW) Process (Material - Handbook - 20 minutes)**
    - Review the SOW Creation Process, and review the below reference deck for details on creating a Professional Services SOW.
-   - [Workflow for the SOW](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/)
+   - [Workflow for the SOW](/handbook/customer-success/professional-services-engineering/selling/)
    - [SOW Creation Instructions](https://docs.google.com/presentation/d/1ro9wlLHsoOMC-iYJpxy_RTCD4PfjDFZEdbuMyDD6WOk/edit#slide=id.g2823c3f9ca_0_9)
 - **ACTIVITY: Create a Mock SOW (Assignment - 60 minutes - 10 points)**
    -Create a mock SOW using the calculator below and the automatic SOW creator on that page. This is for 1000 users. The prospect wants an HA deployment on AWS, admin training for 20 people, CI/CD training for 60 people and a migration of their existing data from their existing SVN system (assume this costs $15K). Send the link of the Google doc you create to your manager when it's complete.

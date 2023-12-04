@@ -157,7 +157,7 @@ Other key benefits of making `User Experience` an official part of group's miles
 Part of the role of product designers is to lead and facilitate idea generation within our teams. We are all very busy working with PMs to drive forward our product roadmaps and solve known UX problems, but remember there are also undiscovered problems out there that are definitely worth solving. Here are a few activities and resources to inspire you!
 
 - Run a sync (such as a [ThinkBig!](/handbook/product/ux/thinkbig/) session), async, or combination workshop to generate ideas. Define a scope and invite  participants from product, engineering, ux research, and other areas for best results.
-- Reach out to [sales](https://about.gitlab.com/handbook/sales/), [customer success](https://about.gitlab.com/handbook/customer-success/) or [marketing](/handbook/marketing/brand-and-product-marketing/design/) counterparts for a new perspective. You can also invite these counterparts as optional attendees to your regular meetings.
+- Reach out to [sales](/handbook/sales/), [customer success](/handbook/customer-success/) or [marketing](/handbook/marketing/brand-and-product-marketing/design/) counterparts for a new perspective. You can also invite these counterparts as optional attendees to your regular meetings.
 - Prioritize a round of [problem validation research](/handbook/product/ux/ux-research/problem-validation-and-methods/) together with Product Managers and UX research. Talk to customers about their experiences building software in a very open-ended way, see what keeps them up at night, what slows them down, and what impedes their productivity.
 - Discover unknown pain points:
     - [Dovetail](/handbook/product/ux/dovetail/) is used to analyze data, collaborate on insights, and as our current research repository.
@@ -454,6 +454,21 @@ Each milestone we focus on a specific area of the product (previous milestone th
 
 - Try pinging the developers on your MR suggested by reviewer roulette
 - People are super helpful in Slack channels `#g_manage_foundations` and `#gitlab-ui`
+
+### Suggesting Paper Cuts to the team
+
+The Paper Cuts team welcomes suggestions as an input to their planning.
+
+When there is a problem you think may be a good fit for the Paper Cuts team:
+
+- If an issue already exists:
+    1. Add the `~"UX Paper Cuts"` label and a group label appropriate to the functionality affected.
+    1. Leave a brief comment on the issue explaining why it may be a good fit for Paper Cuts work.
+- If an issue does not exist:
+    1. Mention the problem in the [Paper cuts possibilities & requests](https://gitlab.com/gitlab-org/gitlab/-/issues/417911) issue for discussion.
+
+UX Paper Cuts team members will triage existing issues and ideas mentioned in the possibilities and requests discussion and incorporate actionable changes as they plan their work.
+Issues that are not good candidates for Paper Cuts work will have the `~"UX Paper Cuts"` label removed and a Paper Cuts team member will leave a brief comment on why the issue is not a good fit.
 
 ## Approach to communication
 

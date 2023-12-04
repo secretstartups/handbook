@@ -8,7 +8,7 @@ The Solutions Architect helps drive value and change with software development f
 
 This role provides technical guidance and support throughout the entire sales cycle. Solution Architects can help shape and execute a strategy to build mindshare and broad use of the GitLab platform with customers by becoming the trusted advisor. The ideal candidate must be self-motivated with a proven track record in software/technology sales or consulting. Proficiency in connecting technology solutions to measurable business value is critical to a Solutions Architect. Candidates should also have a demonstrated skill to think strategically about business, products, and technical problems.
 
-To learn more, see the [Solutions Architect handbook](https://about.gitlab.com/handbook/customer-success/solutions-architects)
+To learn more, see the [Solutions Architect handbook](/handbook/customer-success/solutions-architects)
 
 ## Responsibilities and Requirements
 
@@ -43,7 +43,7 @@ The Associate Solutions Architect is a [grade 5](/handbook/total-rewards/compens
 #### Associate Solutions Architect Requirements
 
 - Technical presentation and communication skills
-- Experience in or familiarity with (for the [early-in-career program](https://about.gitlab.com/handbook/customer-success/solutions-architects/career-development/#associate-solution-architecture-program) candidates) the field of information technology or technical pre-sales
+- Experience in or familiarity with (for the [early-in-career program](/handbook/customer-success/solutions-architects/career-development/#associate-solution-architecture-program) candidates) the field of information technology or technical pre-sales
 - Understanding of the end-to-end software development lifecycle
 - Understanding of continuous integration and continuous deployment
 - Ability to use GitLab
@@ -208,7 +208,7 @@ The Senior Manager, Solutions Architects is a [grade 9](/handbook/total-rewards/
 
 ### Director, Solutions Architects
 
-The Director, Solutions Architects reports to the VP, Customer Success.
+The Director, Solutions Architects reports to the VP, Solutions Architecture.
 
 #### Director, Solutions Architects Job Grade
 
@@ -241,7 +241,7 @@ The Director, Solutions Architects is a [grade 10](/handbook/total-rewards/compe
 
 ### Senior Director, Solutions Architects
 
-The Senior Director, Solutions Architects reports to the VP, Customer Success.
+The Senior Director, Solutions Architects reports to the VP, Solutions Architecture.
 
 #### Senior Director, Solutions Architects Job Grade
 
@@ -379,7 +379,7 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 
 #### Commercial Solutions Architect Responsibilities
 
-- The responsibilities for a Commercial Solutions Architect are the same as a Solutions Architect but support the [Commercial Sales](https://about.gitlab.com/handbook/sales/commercial/) by focusing on [SMB and Mid-Market](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#segmentation) customers.
+- The responsibilities for a Commercial Solutions Architect are the same as a Solutions Architect but support the [Commercial Sales](/handbook/sales/commercial/) by focusing on [SMB and Mid-Market](/handbook/sales/field-operations/gtm-resources/#segmentation) customers.
 
 #### Commercial Solutions Architect Requirements
 

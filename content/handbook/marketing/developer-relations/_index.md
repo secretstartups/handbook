@@ -11,7 +11,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 
 Developer Relations drives platform awareness and adoption by reaching deep into wider communities and engaging developers where they are. GitLab currently engages with more than 3000 developers every month on GitLab.com alone, and receives more than 250 contributions every month, giving us a unique level of influence in the DevSecOps space and helping accelerate our innovation. Our ultimate goal is to raise awareness of GitLab and drive customer success by winning the hearts & minds of developers through best-in-class technical enablement and an active community of contributors.
 
-In Developer Relations, we align our mission and vision with the company's [three year strategy](/company/strategy/). We believe that [everyone can contribute](/company/mission/#mission). To help GitLab reach this goal, we aim to double outreach and engagement, strengthen our community presence, secure a healthy contributor base of 1,000 by the end of FY25. Ultimately, these goals help boost platform adoption and GitLab revenue. We aspire to be recognized as thought leaders and key influencers across technical communities. Developer Relations takes developers from awareness to consideration, learning, and adoption. Moreover, Developer Relations is critical in establishing GitLab as the industry leader and platform of choice: more than 85% of developers either make purchase decisions or have a strong influence on technical decisions on platforms and tools (Source: Evans Data, Cloud Development Survey 2019).
+In Developer Relations, we align our mission and vision with the company's [three year strategy](/handbook/company/strategy/). We believe that [everyone can contribute](/handbook/company/mission/#mission). To help GitLab reach this goal, we aim to double outreach and engagement, strengthen our community presence, secure a healthy contributor base of 1,000 by the end of FY25. Ultimately, these goals help boost platform adoption and GitLab revenue. We aspire to be recognized as thought leaders and key influencers across technical communities. Developer Relations takes developers from awareness to consideration, learning, and adoption. Moreover, Developer Relations is critical in establishing GitLab as the industry leader and platform of choice: more than 85% of developers either make purchase decisions or have a strong influence on technical decisions on platforms and tools (Source: Evans Data, Cloud Development Survey 2019).
 
 ## <i class="fas fa-map-marked-alt fa-fw color-orange font-awesome"></i> Our Strategy
 
@@ -137,14 +137,14 @@ Every quarter, we work on [team Objectives and Key Results (OKRs)](https://gitla
 
 OKRs we seek to align with:
 
-- [CEO OKRs](https://handbook.gitlab.com/handbook/company/okrs/#most-recent-okrs)
+- [CEO OKRs](/handbook/company/okrs/#most-recent-okrs)
 - [Marketing OKRs](/handbook/marketing/#marketing-okrs)
 
 #### How we update our OKRs
 
 To update our [list of current OKRs](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=division%3A%3AMarketing&label_name%5B%5D=OKR&label_name%5B%5D=Department%3A%3ADeveloper%20Relations&first_page_size=20):
 
-1. Follow the [OKRs in GitLab handbook](https://handbook.gitlab.com/handbook/company/okrs/#how-to-use-gitlab-for-okrs)
+1. Follow the [OKRs in GitLab handbook](/handbook/company/okrs/#how-to-use-gitlab-for-okrs)
 1. Create OKRs, and KR items.
 1. Add the following labels: `Division::Marketing`, `Department::Developer Relations`, `OKR`.
 
@@ -195,7 +195,7 @@ As DEI (Diversity, Equity and Inclusion) allies in the open source community, Gi
   - Offer GitLab swag and GitLab contributor points coupons at qualifying events.
   - Incentivize community members and potential contributors with coupon codes.
 - **GitLab contributor resource groups:**
-  - Form GitLab contributor resource groups similar to GitLab [Team Member Resource Groups](https://about.gitlab.com/company/culture/inclusion/erg-guide/) (TMRGs).
+  - Form GitLab contributor resource groups similar to GitLab [Team Member Resource Groups](/handbook/company/culture/inclusion/erg-guide/) (TMRGs).
   - Include mentoring/coaching opportunities.
   - Consider groups for non-contributing developers or for Developer Relations team members.
   - Consider hosting events/days for specified underrepresented groups.
@@ -265,7 +265,7 @@ By collaborating as part of this group, members aim to:
 - **Create space for support and growth.** Working with communities requires emotional labor, and people who undertake it often benefit from spaces to discuss the work's challenges with like-minded collaborators. This group would function as one such space.
 - **Generate and share resources.** Working with communities is easier with knowledge of best practices and trusted frameworks. By reading and reviewing materials on the state of the art, members generate a knowledge commons others can access and from which they can learn.
 
-Any GitLab team member interested in community-building practices is welcome to participate in and contribute to the group. Unlike typical [GitLab book clubs](https://about.gitlab.com/handbook/leadership/book-clubs/), this reading group:
+Any GitLab team member interested in community-building practices is welcome to participate in and contribute to the group. Unlike typical [GitLab book clubs](/handbook/leadership/book-clubs/), this reading group:
 
 - is an ongoing effort rather than a discrete and time-delimited event
 - is focused on a series of works rather than a single one

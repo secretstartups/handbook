@@ -53,9 +53,9 @@ Below are select dashboards, with descriptions of what each widget on the dashbo
 1. **Stage Adoption >175 Days Total Age**
     1. Count of customers who have open stage adoption CTAs that are over 175 days old
 1. **Pr1 No GitLab Admin Assigned**
-    1. Count of P1 customers who do not have a [GitLab Admin](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#gitlab-admin-contacts) persona assigned in the contact list
+    1. Count of P1 customers who do not have a [GitLab Admin](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#gitlab-admin-contacts) persona assigned in the contact list
 1. **Pr2 No GitLab Admin Assigned**
-    1. Count of P2 customers who do not have a [GitLab Admin](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#gitlab-admin-contacts) persona assigned in the contact list
+    1. Count of P2 customers who do not have a [GitLab Admin](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#gitlab-admin-contacts) persona assigned in the contact list
 
 #### Risk
 
@@ -69,7 +69,7 @@ Below are select dashboards, with descriptions of what each widget on the dashbo
 #### Product Usage Data
 
 1. **Unknown Instances - CSM Owned**
-    1. Count of self-managed customers who have instances populated but are not [labeled](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#updating-self-managed-instance-type)
+    1. Count of self-managed customers who have instances populated but are not [labeled](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#updating-self-managed-instance-type)
 
 ### CSM Proactive Dashboard
 
@@ -103,10 +103,10 @@ Below are select dashboards, with descriptions of what each widget on the dashbo
     1. Count of customers whose License Utilization exceeds 90%
 1. **License Utilization Health**
     1. Bar chart comparing License Utilization Health across selected filters, which varies depending on how long they've been a customer.
-    1. Details on how License Utilization is measured here: [Customer Health Assessment and Management - License Usage Health Table](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#license-usage-health-table)
+    1. Details on how License Utilization is measured here: [Customer Health Assessment and Management - License Usage Health Table](/handbook/customer-success/csm/health-score-triage/#license-usage-health-table)
 1. **CI Adoption Health**
     1. Bar chart comparing CI Adoption Health across selected filters.
-    1. Details on how CI Adoption is measured here: [Customer Use Case Adoption](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/)
+    1. Details on how CI Adoption is measured here: [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/)
 1. **Customers Using Secure**
     1. This report shows a customer's usage of Free/Premium scanning features such as `SAST`, `Container Scanning`, and `Secret Detection`. This should allow CSMs to gauge the customer's interest in DevSecOps and prompt conversations around up-tiering to Ultimate.
 

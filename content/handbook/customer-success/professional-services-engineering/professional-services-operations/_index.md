@@ -18,7 +18,7 @@ ___
 
 #### How to contact us
 
-Our [Team Slack Channels](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/working-with/#slack)
+Our [Team Slack Channels](/handbook/customer-success/professional-services-engineering/working-with/#slack)
 
 The Project Coordinators can be reached by tagging the group `@ps-scheduling`
 
@@ -34,11 +34,11 @@ ___
 
 #### Consulting Project Scheduling
 
-[Lead Time for Professional Services Engagement](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/working-with/#lead-time-for-starting-a-professional-services-engagement)
+[Lead Time for Professional Services Engagement](/handbook/customer-success/professional-services-engineering/working-with/#lead-time-for-starting-a-professional-services-engagement)
 
-[The PS Opportunity has closed, whats next](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/working-with/#scheduling-professional-services)
+[The PS Opportunity has closed, whats next](/handbook/customer-success/professional-services-engineering/working-with/#scheduling-professional-services)
 
-If project work is required to start the project prior to the opportunity booking, then the [Work At Risk Process](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/project-mgmt/#work-at-risk) would need to be followed and approved.
+If project work is required to start the project prior to the opportunity booking, then the [Work At Risk Process](/handbook/customer-success/professional-services-engineering/project-mgmt/#work-at-risk) would need to be followed and approved.
 
 #### Customer Consulting Project Scheduling
 
@@ -481,7 +481,7 @@ CURRENT PROCESS VIA COUPA:
 
 Kantata is our current Professional Services Automation (PSA) system.  Follow the link below to view process steps.
 
-[Link to Kantata Processes](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/)
+[Link to Kantata Processes](/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/)
 
 #### Kantata Reports
 

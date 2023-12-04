@@ -26,7 +26,7 @@ To view these stages in Google sheet format please [click this link](https://doc
 
 [Exit Criteria at a Glance:](https://docs.google.com/presentation/d/1x6ycY7SdPET5ioD2bPyV6RURafdU_fn4P7vD6X0QRsM/edit#slide=id.p)
 
-![comm-sales-stages-exit-criteria](https://about.gitlab.com/handbook/sales/commercial/comm-sales-opp-stages/comm-sales-stages-exit-criteria.png)
+![comm-sales-stages-exit-criteria](/handbook/sales/commercial/comm-sales-opp-stages/comm-sales-stages-exit-criteria.png)
 
 ----
 
@@ -38,7 +38,7 @@ It is important to note that Sales Development opportunities could come from inb
 
 **Primary Activities** to Complete in This Stage:
 
-- Begin filling out [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) (in required qualification criteria section of the opportunity) - Identify pain/need, Economic buyer, or path to the economic buyer for prospects, plus decision process for inbound leads or current customers.
+- Begin filling out [MEDDPPICC](/handbook/sales/meddppicc/) (in required qualification criteria section of the opportunity) - Identify pain/need, Economic buyer, or path to the economic buyer for prospects, plus decision process for inbound leads or current customers.
 - Schedule discovery call with AE or SAE
 - For SDR sourced opportunities, the opportunity meets [Sales Accepted Opportunity](/handbook/marketing/sales-development/#qualification-criteria-and-saos) criteria.
 - SDR schedules call, sends invites, creates an event on the account object, names the event: GitLab Introductory Meeting - {{Account Name}}. -
@@ -65,26 +65,26 @@ It is important to note that Sales Development opportunities could come from inb
 
 **Primary Activities** to Complete in This Stage:
 
-- Begin filling out [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) - Partner, Identify Pain, Competition
+- Begin filling out [MEDDPPICC](/handbook/sales/meddppicc/) - Partner, Identify Pain, Competition
 - Send Plan Letter/Recap Email to Attendees- [Example](https://docs.google.com/document/d/16Gurj_MVREmKoqXTdB1F0OQ3eyq1gzbTNU8LNHHuoEM/edit)
-- Create [custom deck](https://about.gitlab.com/handbook/sales/commercial/#opportunity-specific-slide-deck) and share with customer
-- Identify Customer [contact role](https://about.gitlab.com/handbook/sales/meddppicc/#economic-buyer)
+- Create [custom deck](/handbook/sales/commercial/#opportunity-specific-slide-deck) and share with customer
+- Identify Customer [contact role](/handbook/sales/meddppicc/#economic-buyer)
 - Confirm Cloud Strategy & Partner engagement
 
 **Secondary Activities** to Complete in This Stage:
 
 *These are the more granular steps required to complete the primary activities in this stage*
 
-- Fill out the [Opportunity Overview](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#opportunity-overview) of the Command Plan (Deal amount requirement thresholds: $5k SMB, $10k MM)
-- [Rank](https://about.gitlab.com/handbook/sales/commercial/#account-ranking) account
-- [Size the opportunity](https://about.gitlab.com/handbook/sales/commercial/enablement/#opp-management---managers-check-this)
+- Fill out the [Opportunity Overview](/handbook/sales/command-of-the-message/command-plan/#opportunity-overview) of the Command Plan (Deal amount requirement thresholds: $5k SMB, $10k MM)
+- [Rank](/handbook/sales/commercial/#account-ranking) account
+- [Size the opportunity](/handbook/sales/commercial/enablement/#opp-management---managers-check-this)
 - Understand the customers' partner landscape
-- [Custom deck](https://about.gitlab.com/handbook/sales/commercial/#opportunity-specific-slide-deck) shared with customer
+- [Custom deck](/handbook/sales/commercial/#opportunity-specific-slide-deck) shared with customer
 - Understand customer's cloud strategy
-- [Identify the role](https://about.gitlab.com/handbook/sales/meddppicc/#economic-buyer) of customer contact: Champion, Influencer, Economic Buyer, Technical Buyer, etc.
-- Deliver the [GitLab single app pitch](https://about.gitlab.com/handbook/sales/commercial/#custom-deck-requirements) and gather feedback from customer on vision
+- [Identify the role](/handbook/sales/meddppicc/#economic-buyer) of customer contact: Champion, Influencer, Economic Buyer, Technical Buyer, etc.
+- Deliver the [GitLab single app pitch](/handbook/sales/commercial/#custom-deck-requirements) and gather feedback from customer on vision
 - Customers' [near and long term priorities](https://gitlab.edcast.com/journey/introduction-to-the-required-introduction/cards/1342269) identified
-- [Next steps](https://about.gitlab.com/handbook/sales/commercial/#opportunity-next-steps-best-practices) filled out
+- [Next steps](/handbook/sales/commercial/#opportunity-next-steps-best-practices) filled out
 
 **Exit Criteria:**
 
@@ -105,7 +105,7 @@ It is important to note that Sales Development opportunities could come from inb
 - High-level technical requirements discussion
 - Understand & document business requirements
 - Internal technical resources identified
-- [MEDDPPICC:](https://about.gitlab.com/handbook/sales/meddppicc/) Decision Criteria, Decision Process, Metrics, Champion, Economic Buyer, Competition
+- [MEDDPPICC:](/handbook/sales/meddppicc/) Decision Criteria, Decision Process, Metrics, Champion, Economic Buyer, Competition
 
 **Secondary Activities** to Complete in This Stage
 
@@ -113,26 +113,26 @@ It is important to note that Sales Development opportunities could come from inb
 - High-level technical requirements discussion
 - Understand & document business requirements
 - Technical requirements captured
-- [Metrics/ROI](https://about.gitlab.com/handbook/sales/command-of-the-message/metrics/) conversation started
-- Review how GitLab will be implemented and by who, opening a discussion about GitLab and/or partner [professional services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/#selling-gitlab-professional-services) where appropriate
+- [Metrics/ROI](/handbook/sales/command-of-the-message/metrics/) conversation started
+- Review how GitLab will be implemented and by who, opening a discussion about GitLab and/or partner [professional services](/handbook/customer-success/professional-services-engineering/selling/#selling-gitlab-professional-services) where appropriate
 - Introduce [partner/channel](https://docs.google.com/document/d/18xqRRCkIXlR7r4BvBQnK9n9zE70q-KPga-lVHhVw4n4/edit) where appropriate
 - [Competitive differentiation](https://internal.gitlab.com/handbook/sales/command-of-the-message/#gitlab-differentiators)
-- Provide [proof points](https://about.gitlab.com/handbook/sales/command-of-the-message/proof-points/), [case studies](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/boards/1804878?scope=all&utf8=%E2%9C%93), and [competitive info](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/#competitive-intelligence-at-gitlab) (defensible differentiators)
+- Provide [proof points](/handbook/sales/command-of-the-message/proof-points/), [case studies](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/boards/1804878?scope=all&utf8=%E2%9C%93), and [competitive info](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/#competitive-intelligence-at-gitlab) (defensible differentiators)
 - Create a [GitLab maturity/adoption](/handbook/product/product-principles/#multi-feature-usage-adoption-journey) roadmap with customer
-- [Multi-thread](https://about.gitlab.com/handbook/sales/playbook/discovery/#lack-of-multi-threading) across the customer org
-- Create an SA engagement request using the **SA Request button** on the Salesforce Opportunity. Read more about engaging SAs in the [Commercial SA Engagement Model Handbook Page](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/commercial/).
-- [Custom deck](https://about.gitlab.com/handbook/sales/commercial/#opportunity-specific-slide-deck) is shared with GitLab internal team members to ensure the SA that picks up the opportunity has immediate access to the custom deck
+- [Multi-thread](/handbook/sales/playbook/discovery/#lack-of-multi-threading) across the customer org
+- Create an SA engagement request using the **SA Request button** on the Salesforce Opportunity. Read more about engaging SAs in the [Commercial SA Engagement Model Handbook Page](/handbook/customer-success/solutions-architects/processes/commercial/).
+- [Custom deck](/handbook/sales/commercial/#opportunity-specific-slide-deck) is shared with GitLab internal team members to ensure the SA that picks up the opportunity has immediate access to the custom deck
 - Meeting set with SA to create a shared agenda/strategy/outcome for the technical evaluation
 - SA/Account team create pre-engagement discovery/demo questions  based off of reviewed information
-- [Next Steps](https://about.gitlab.com/handbook/sales/commercial/#opportunity-next-steps-best-practices) updated
+- [Next Steps](/handbook/sales/commercial/#opportunity-next-steps-best-practices) updated
 
 **Exit Criteria:**
 
 - Stakeholders and engagement plan identified
-- [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/) updated
+- [Command Plan](/handbook/sales/command-of-the-message/command-plan/) updated
 - Completed SA/AE strategy session/meeting
 - Channel and/or Alliances partner(s) engaged (if applicable)
-- Establish [two engagement approaches](https://about.gitlab.com/handbook/sales/commercial/#custom-deck-requirements) to evaluation ([Two-Lane Selling](https://docs.google.com/document/d/1h7DCIRAQ1pRiqDF6Aebl354uoMXiXbSVLaC_XefzM6w/edit))
+- Establish [two engagement approaches](/handbook/sales/commercial/#custom-deck-requirements) to evaluation ([Two-Lane Selling](https://docs.google.com/document/d/1h7DCIRAQ1pRiqDF6Aebl354uoMXiXbSVLaC_XefzM6w/edit))
 
 ----
 
@@ -146,23 +146,23 @@ It is important to note that Sales Development opportunities could come from inb
 - Customized demo
 - Trial if applicable; SA determines if this will be SA assisted or self-managed by customer
 - Follow up with additional stakeholders as needed
-- [MEDDPPICC:](https://about.gitlab.com/handbook/sales/meddppicc/#economic-buyer) Decision Criteria, Decision Process, Paper Process
+- [MEDDPPICC:](/handbook/sales/meddppicc/#economic-buyer) Decision Criteria, Decision Process, Paper Process
 - Vision pitch (why you should buy)
 
 **Secondary Activities** to Complete in This Stage:
 
 - Review/validate understanding of technical requirements with customer
 - Recorded Tailored Demo with customer
-- [First Order](https://about.gitlab.com/handbook/sales/commercial/#mid-market-key-accounts-first-order) or [Named Accounts](https://about.gitlab.com/handbook/sales/commercial/#mid-market-account-executive): SA may submit a request for a Slack channel if the technical evaluation has a need for a more asynchronous communication approach.
+- [First Order](/handbook/sales/commercial/#mid-market-key-accounts-first-order) or [Named Accounts](/handbook/sales/commercial/#mid-market-account-executive): SA may submit a request for a Slack channel if the technical evaluation has a need for a more asynchronous communication approach.
 - SA will determine if trial is assisted by the SA or self-managed by customer
 - Work with customer to determine success criteria for eval, time frame, and next steps
 - Understand buying process, e.g. paper process, approvals, signatures, etc.
 - If a [trial license extension](/handbook/support/license-and-renewals/workflows/self-managed/trials.html) is being requested from a customer, discuss with AE and prepare a project plan with the customer before granting an extension.
 - Other teams/business units identified that may need to be involved  (Other points of entry)
 - Additional demos scheduled for stakeholders with unique needs
-- [Opportunity Consults and Lightweight Deal Reviews](https://about.gitlab.com/handbook/sales/commercial/#opportunity-consults-and-lightweight-deal-reviews) with manager if monetary thresholds are met
+- [Opportunity Consults and Lightweight Deal Reviews](/handbook/sales/commercial/#opportunity-consults-and-lightweight-deal-reviews) with manager if monetary thresholds are met
 - Identify  the "why" if customer decides not to move forward and document reasons in SFDC/notes
-- [Next steps](https://about.gitlab.com/handbook/sales/commercial/#opportunity-next-steps-best-practices) updated
+- [Next steps](/handbook/sales/commercial/#opportunity-next-steps-best-practices) updated
 - If the relationship is owned by a Partner, share applicable case studies, example projects, and/or relevant documentation
 - If going through a Partner, ensure SA is briefed on the opportunity and any services SOWs
 
@@ -172,7 +172,7 @@ It is important to note that Sales Development opportunities could come from inb
 - ROI measures determined and validated
 - Mutual agreement to move to proposal and identified next steps
 - Professional Services identified and sourced (Partner or internal) if applicable
-- [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/#economic-buyer): Decision Criteria, Decision Process, Paper Process
+- [MEDDPPICC](/handbook/sales/meddppicc/#economic-buyer): Decision Criteria, Decision Process, Paper Process
 
 ----
 
@@ -192,11 +192,11 @@ It is important to note that Sales Development opportunities could come from inb
 **Secondary Activities** to Complete in This Stage:
 
 - Quote through partner where applicable
-- [Next steps](https://about.gitlab.com/handbook/sales/commercial/#opportunity-next-steps-best-practices) updated
+- [Next steps](/handbook/sales/commercial/#opportunity-next-steps-best-practices) updated
 - If a [referenceable customer](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/) update the Referenceable Customer section on the Account object with appropriate reference information
 - AE builds the quote and prepares for review with buyer
 - Deliver formal contract to prospect
-- Proposal is aligned with customers [Positive Business Outcomes](https://about.gitlab.com/handbook/sales/command-of-the-message/metrics/#connect-metrics-with-positive-business-outcomes)
+- Proposal is aligned with customers [Positive Business Outcomes](/handbook/sales/command-of-the-message/metrics/#connect-metrics-with-positive-business-outcomes)
 - Partner includes any relevant services SOWs
 - Deliver MSA separately if applicable
 - Create mutual close plan
@@ -208,7 +208,7 @@ It is important to note that Sales Development opportunities could come from inb
 - Agreement on mutual close plan/timeline (work with the customer on short/long term purchase options to understand timeline)
 - Procurement process confirmed (consider if using a Partner)
 - Implementation strategy confirmed
-- [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/#economic-buyer) - paper process
+- [MEDDPPICC](/handbook/sales/meddppicc/#economic-buyer) - paper process
 
 ----
 
@@ -221,13 +221,13 @@ It is important to note that Sales Development opportunities could come from inb
 - Negotiate business terms
 - Negotiate pricing
 - Negotiate [legal terms](https://about.gitlab.com/terms/#subscription/)
-- Confirm contacts to receive the [digital onboarding](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#digital-customer-programs) emails post deal closure (< $50K)
+- Confirm contacts to receive the [digital onboarding](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#digital-customer-programs) emails post deal closure (< $50K)
 
 **Secondary Activities** to Complete in This Stage:
 
-- Under $50K: SA and AE can begin preparing the contacts to receive [digital onboarding](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#digital-customer-programs) emails upon closing of a deal
+- Under $50K: SA and AE can begin preparing the contacts to receive [digital onboarding](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#digital-customer-programs) emails upon closing of a deal
 - Agreement on business terms (All proposals should include the standard [GitLab Terms](https://about.gitlab.com/terms/#subscription/))
-- If the Account is seeking to use their own paper, requests will only be entertained if the opportunity is greater than $100k, and the request should be sent to Legal by creating a Legal case in SalesForce, following the process found [here](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#request-for-gitlab-review-of-customer-edits-to-gitlab-template-or-review-of-customer-agreement-template).
+- If the Account is seeking to use their own paper, requests will only be entertained if the opportunity is greater than $100k, and the request should be sent to Legal by creating a Legal case in SalesForce, following the process found [here](/handbook/sales/field-operations/order-processing/#request-for-gitlab-review-of-customer-edits-to-gitlab-template-or-review-of-customer-agreement-template).
 - Determine if customer will be referenceable when the opportunity closes
 - Price/ Final terms negotiations
 - Leverage partner to help close deal or support them in closing a Partner Sourced deal
@@ -247,9 +247,9 @@ It is important to note that Sales Development opportunities could come from inb
 
 **Primary Activities** to Complete in This Stage:
 
-- $50K+ deals- [SA/AE introduce CSM](https://about.gitlab.com/handbook/customer-success/comm-sales/#sa-to-csm-new-accounts) (introducing Partner were applicable)
-- Under $50K: SA and AE can begin preparing the contacts for receiving [digital onboarding](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#digital-customer-programs) emails upon closing of a deal
-- CSM creates [Success Plan](https://about.gitlab.com/handbook/customer-success/csm/csm-manager/#success-plan-review) (working with Partner where applicable)
+- $50K+ deals- [SA/AE introduce CSM](/handbook/customer-success/comm-sales/#sa-to-csm-new-accounts) (introducing Partner were applicable)
+- Under $50K: SA and AE can begin preparing the contacts for receiving [digital onboarding](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#digital-customer-programs) emails upon closing of a deal
+- CSM creates [Success Plan](/handbook/customer-success/csm/csm-manager/#success-plan-review) (working with Partner where applicable)
 
 **Exit Criteria:**
 
@@ -270,7 +270,7 @@ It is important to note that Sales Development opportunities could come from inb
 
 - SFDC Opp, AE clicks "Submit for Approval" and adds Closed Won reason and details. This submits opp for approval and puts it to 7-Closing and locks the record from any further edits.
 - Opp flows into a report for Deal Desk to review for booking
-- Signed Order Form (OF) or [PO referencing Quote](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements)
+- Signed Order Form (OF) or [PO referencing Quote](/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements)
 - Order Form matches quote and opportunity
 - Order Form fully executed (Signature & Date)
 - Approve with optional reason noted
@@ -289,17 +289,17 @@ It is important to note that Sales Development opportunities could come from inb
 
 *Congratulations!! The terms have been agreed to by both parties and the quote has been approved by Finance.*
 
-- CSM starts new [customer engagement](https://about.gitlab.com/handbook/customer-success/comm-sales/#account-executive-to-csm-existing-accounts-without-a-csm) ($50K+)
+- CSM starts new [customer engagement](/handbook/customer-success/comm-sales/#account-executive-to-csm-existing-accounts-without-a-csm) ($50K+)
 - AE engages with the customer & Partner (where applicable) to ensure success
 - Kick-off Partner Services (if applicable)
 - AE to schedule an initial 30 day follow up meeting with the customer (Named/Territory, + higher value opportunities)
 - Named/Territory AE - create account review cadence with customer
-- Named/Territory AE creates 18-24 month growth plan based on [Account Rank](https://about.gitlab.com/handbook/sales/commercial/#account-ranking) of 1, 1.5, and 2
+- Named/Territory AE creates 18-24 month growth plan based on [Account Rank](/handbook/sales/commercial/#account-ranking) of 1, 1.5, and 2
 - AE builds case study expectations with the customer (how far out will you be able to give me feedback about what's working, what's not, and when we might be able to go to legal with a case study? What would we need to do to earn your respect to build a case study, or would you be willing to meet with another customer as a reference? Or participate in a panel, e.g.)
-- CSM assigned account - establish [EBR](https://about.gitlab.com/handbook/customer-success/csm/ebr/) process for high priority accts
+- CSM assigned account - establish [EBR](/handbook/customer-success/csm/ebr/) process for high priority accts
 - Professional Services introduced (if applicable)
 - Initiate customer onboarding or premium support onboarding (accts with no CSM)
-- [First Order handoff](https://about.gitlab.com/handbook/sales/commercial/#first-order-handoff-process) to Named Account AE
+- [First Order handoff](/handbook/sales/commercial/#first-order-handoff-process) to Named Account AE
 
 ----
 

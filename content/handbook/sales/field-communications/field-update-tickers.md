@@ -59,7 +59,7 @@ This is the current iteration of the Update Ticker:
 
 ## Process
 
-1. During the [Field Communications triage process](https://about.gitlab.com/handbook/sales/field-communications/#how-to-use), each Field Announcement Request is evaluated to determine if the update should also be included in the relevant Update Ticker.
+1. During the [Field Communications triage process](/handbook/sales/field-communications/#how-to-use), each Field Announcement Request is evaluated to determine if the update should also be included in the relevant Update Ticker.
 
    - In some cases, Field Communications will determine that a Field Announcement request is not relevant to the entire Field and will instead include this information in the Update Ticker vs. #field-fyi. For example, in cases where a Field Announcement request is only applicable to specific segement(s) vs. applcable to the entire Field, Field Communications will advise that an update be made in the applicable Update Ticker vs. a broader #field-fyi announcement.
    - All Field Announcements posted to #field-fyi Monday-Thursday  will be included in the week’s Update Ticker. Field Announcements posted in #field-fyi on Fridays will be included in the following week’s tickers.

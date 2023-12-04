@@ -206,7 +206,7 @@ Some **internal** methods for communication include:
 - Sharing the updates various product-based Slack channels such as: `#product`, `#s_`, `#g_`, or `#f_` Slack channels
 - Cross-posting changes in direction or categories into #customer-success and if they impact [use cases](/handbook/use-cases/) tag `@cs-leadership` for awareness
 - Recording a quick video and sharing with Customer Success that discusses direction updates. Use sync meetings [as needed](/handbook/company/culture/all-remote/asynchronous/#when-to-start-synchronous-first) to facilitate efficient communication.
-- [Collaborate with the Field Communications team](https://about.gitlab.com/handbook/sales/field-communications/#field-communications-playbook) to determine if a larger internal communications plan/approach is necessary for the Field (Sales, Customer Success, Channel & Alliances) team.
+- [Collaborate with the Field Communications team](/handbook/sales/field-communications/#field-communications-playbook) to determine if a larger internal communications plan/approach is necessary for the Field (Sales, Customer Success, Channel & Alliances) team.
 - Aggregating and sharing highlights of monthly direction page updates at the Section-level across the organization
 
 **External** channels for consideration linking direction pages to:
@@ -906,7 +906,7 @@ Any problem with both high severity and broad impact is a potential Rapid Action
 
 #### What if it only affects one customer?
 
-If the problem only affects one customer, consider a [customer escalation process](https://about.gitlab.com/handbook/customer-success/csm/escalations/#definitions-of-severity-levels) as the alternative.
+If the problem only affects one customer, consider a [customer escalation process](/handbook/customer-success/csm/escalations/#definitions-of-severity-levels) as the alternative.
 
 #### Rapid Action Process
 
@@ -1312,7 +1312,7 @@ We recently [conducted a GTM and R&D sensing mechanism survey](https://gitlab.co
 
 Many of the sensing mechanisms described are directly relevant to individual product managers performing regular product group prioritization. There are also a set of unique sensing mechanisms that act as summaries for [Product Leadership](/handbook/product/product-leadership/).
 
-- Attending [QBRs](https://about.gitlab.com/handbook/sales/qbrs/) and consuming QBR summaries/highlights
+- Attending [QBRs](/handbook/sales/qbrs/) and consuming QBR summaries/highlights
 - Reviewing [Top ARR Drivers](#top-arr-drivers)
 - Consuming [weekly opportunity review highlights](#opportunity-reviews)
 - Regularly reviewing validation track activities ([example](https://about.gitlab.com/direction/ops/#current-validation-track-initiatives))
@@ -1482,7 +1482,7 @@ Continuously improving the software we write is important. If we don't proactive
 
 For large projects, consider separating the announcement from the actual feature launch. By doing so, it can create more freedom to iterate during the customer rollout. For example, you could announce in advance to give customers ample notice, and then roll it out to new customers first, then to existing Free customers, then to existing paid customers. Or you could do the opposite, and roll it out to customers first, before announcing broadly, to ensure the user experience is great before making a marketing splash.
 
-When considering dates for a product announcement or launch that may impact our Field team, consider the [blackout restrictions](https://about.gitlab.com/handbook/sales/field-communications/#field-communications-playbook-flowchart) recognized by the Field team to ensure there won't be any major disruption to the business near quarter end.
+When considering dates for a product announcement or launch that may impact our Field team, consider the [blackout restrictions](/handbook/sales/field-communications/#field-communications-playbook-flowchart) recognized by the Field team to ensure there won't be any major disruption to the business near quarter end.
 
 #### Four phase transition
 

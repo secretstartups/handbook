@@ -228,7 +228,7 @@ NOTE: The Epic is the main hub for all event information. **All issues** associa
 1. Leads and Campaign Setup
    - Field Marketing DRI is responsible for pulling, cleaning and sharing the lead list with MktgOps within 24 hours of event close or as soon as received by event coordinators.
    - If the event had multiple parts (booth, happy hour, meetings, etc) each will have its own Salesforce campaign and [Member status progressions](/handbook/marketing/marketing-operations/).
-   - Use template to standardize the data following the [list import guidelines](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/).
+   - Use template to standardize the data following the [list import guidelines](/handbook/sales/field-operations/gtm-resources/).
 
 ### Securing a hotel room block
 Should the event organizer offer a hotel room block option at a discounted rate and the GitLab event DRI would like to secure this room block, there are two options you can take to secure the contract:
@@ -400,7 +400,7 @@ The above planning list is not exhaustive - see planning issue template in field
 - We lean towards those who might be thought leaders, specialists, or more social for a specific show - i.e. if we are sponsoring an AWS show, we would like for a GitLab + AWS expert to staff the event.
 - We aim to bring minimal team members to keep costs and disruption to normal workflow low. We take into account what value everyone will provide as well as coverage balance. Please check with the event DRI if you personally would like to attend or if you would like to suggest someone participate in an event.
 - Once you have agreed to attend an event, you are not able to back out unless there is a customer facing obligation you need to tend to. We have this in place to avoid unnecessary rework on the event DRI’s behalf.
-- A lot of times a technical sales resource needs to also be assigned to attend an event. In order to do so, please review the SA handbook for [instructions](https://about.gitlab.com/handbook/customer-success/solutions-architects/#when-and-how-to-engage-a-solutions-architect) on how to secure one of our awesome SA's. Tag the issue with technical-staff::required and once staffing attained change to label technical-staff::complete.
+- A lot of times a technical sales resource needs to also be assigned to attend an event. In order to do so, please review the SA handbook for [instructions](/handbook/customer-success/solutions-architects/#when-and-how-to-engage-a-solutions-architect) on how to secure one of our awesome SA's. Tag the issue with technical-staff::required and once staffing attained change to label technical-staff::complete.
 - All those attending will need their manager's approval.
 - If you have been approved by the DRI and your manager to help staff an event, all your travel will be included during the time for the event/ expo days. You need to be onsite and ready to help out as soon as the first expo hall shift opens up and you may book travel any time after the expo hall closes. We will cover the night of lodging before the expo hall opens through to the night it closes. Any additional nights will need to be covered by the individual.
 - Event staffing list will close 2 weeks for **field** events or 3 weeks for **corporate** events before commencement of the event.
@@ -408,7 +408,7 @@ The above planning list is not exhaustive - see planning issue template in field
 
 ### Requesting Technical Staffing
 
-Some events require technical staffing (Solutions Architects and/or others from the Customer Success team). To request technical staffing, please [follow this process](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/#requesting-an-sa-to-support-events). 
+Some events require technical staffing (Solutions Architects and/or others from the Customer Success team). To request technical staffing, please [follow this process](/handbook/customer-success/solutions-architects/processes/#requesting-an-sa-to-support-events). 
 
 ### COVID-19 Event Outreach
 
@@ -626,10 +626,10 @@ The sales nominated process allows for records to be added to the campaign in or
 
 Common lead questions:
 
-- Record ownership will be assigned using the [Global Ownership](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/) rules
+- Record ownership will be assigned using the [Global Ownership](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/) rules
 - All followup needs to be tracked in SFDC
 - List upload needs to be done **before** follow up is done so we can ensure proper order of operations & attribution is given correctly
-- Record Owner and/or SDR doing follow up need to be sure to update the [`Contact Status`](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/) on the record as follow up is done.
+- Record Owner and/or SDR doing follow up need to be sure to update the [`Contact Status`](/handbook/sales/field-operations/gtm-resources/) on the record as follow up is done.
 - Campaign type & meaning of [Campaign Member status](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status) can be found in the Marketing Ops handbook
 
 #### Onsite registration form & landing page

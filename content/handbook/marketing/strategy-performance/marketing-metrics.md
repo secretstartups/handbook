@@ -105,7 +105,7 @@ Sisense Snippet: [rpt_crm_person_mql](https://app.periscopedata.com/app/gitlab:s
 
 #### SAO
 
-A Sales Accepted Opportunity (SAO) is an Opportunity that has reached the accepted stage, the criteria to accept or reject an opportunity is set by sales and defined in [their handbook](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#criteria-for-sales-accepted-opportunity-sao).
+A Sales Accepted Opportunity (SAO) is an Opportunity that has reached the accepted stage, the criteria to accept or reject an opportunity is set by sales and defined in [their handbook](/handbook/sales/field-operations/gtm-resources/#criteria-for-sales-accepted-opportunity-sao).
 
 ##### First Order SAOs
 SFDC stamps the order type on each SAO when it is created, meaning that each SAO knows its order type. The `order_type` field stores this information.
@@ -148,7 +148,7 @@ When querying for First Order Closed Won, it’s best to use the `is_new_logo_fi
 To find the date the opportunity closed, use the `close_date` field.
 
 ##### Finding Net ARR for an Opportunity
-When reporting on the [Net ARR](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/) of a closed deal, we need to ensure the deal will contribute to the company's Net ARR. To this, add the `is_net_arr_closed_deal` flag as true to the query. 
+When reporting on the [Net ARR](/handbook/sales/sales-term-glossary/arr-in-practice/) of a closed deal, we need to ensure the deal will contribute to the company's Net ARR. To this, add the `is_net_arr_closed_deal` flag as true to the query. 
 
 ##### Technical Definition
 Any opportunity from the [fct_crm_opportunity](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_crm_opportunity#description) table where the stage_name is not `10-Duplicate` and `is_edu_oss` is 0, and the `is_won` is true, and `is_closed` is true.
@@ -395,7 +395,7 @@ Below is the table mapping for each lead source and its Source Bucket.
 ## Reporting Fields Source of Truth
 This section captures and links the most often used fields in reporting so that anyone pulling a Salesforce report can and is using the correct fields and the same fields that are being used in Periscope reports/dashboards.    
 
-Note: There is a current transition to move towards the [Territory Success Planning fields](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/)
+Note: There is a current transition to move towards the [Territory Success Planning fields](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/)
 
 ### Lead
 1. [Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Lead&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DLead%26setupid%3DLeadFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DLead&setupid=LeadFields)
@@ -437,7 +437,7 @@ Given the way that our systems are connected and synched, you may see a discrepa
 ## Field Marketing Metrics 
 This section will go into specifics on the workflow for a Field Marketer to check their results.
 
-At the highest level, Field Marketing is responsible for helping to progress MQLs with the rest of the Integrated Marketing team. Those MQLs will ultimately create [Sales Accepted Opportunities](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunities) by the Sales Development team.  We also track campaign contribution to the sales pipeline as well as velocity of the opportunities that interact with our campaigns. 
+At the highest level, Field Marketing is responsible for helping to progress MQLs with the rest of the Integrated Marketing team. Those MQLs will ultimately create [Sales Accepted Opportunities](/handbook/sales/field-operations/gtm-resources/#opportunities) by the Sales Development team.  We also track campaign contribution to the sales pipeline as well as velocity of the opportunities that interact with our campaigns. 
 
 Field Marketing also has an 8X spend to pipeline goal. So if the company gives us $1, we need to give $8 in pipeline back. 
 
@@ -480,7 +480,7 @@ If you did not have a specific SFDC Campaign you were driving to, and you wanted
 Please note that whilst you can track leads via SFDC campaigns or UTM reports, pipeline generated should be viewed on [Sisense](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965070/WIP:-TD-Attribution) only, as SFDCs last touch model is different from our multi touch attribution model.
 
 ## Channel Marketing Reporting 
-We track marketing influence on channel opportunies as well as deal regisiration impact from [Market Development Funds](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/MDF/). 
+We track marketing influence on channel opportunies as well as deal regisiration impact from [Market Development Funds](/handbook/resellers/Channel-Program-Guide/MDF/). 
 
 | Report Name                                    | Platform   | Description                                                                                                                                                                                                                                  | Link                                                                                                                                  |
 | ---------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |

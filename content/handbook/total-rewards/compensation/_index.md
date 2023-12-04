@@ -332,7 +332,7 @@ Directors and above are eligible for the Company Bonus Plan.
 
 GitLab reserves the right to change or discontinue the bonus program at any time. All bonus payouts are discretionary and require the achieving of specific company results that will be communicated each year.
 
-[Sales Commissions handbook page](https://about.gitlab.com/handbook/sales/commissions/).
+[Sales Commissions handbook page](/handbook/sales/commissions/).
 
 ### Bonus Payout Approvals
 

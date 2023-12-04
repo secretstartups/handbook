@@ -12,7 +12,7 @@ description: "Strategies on how to research customer questions to find answers."
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ---
 
@@ -55,7 +55,7 @@ There are a few ways to determine which product group works on which feature.
 
 After finding the appropriate product group for your question, search Slack for the product group's public Slack channel and post your question.
 
-If it will help to connect your customer with someone in Product directly, provide as much detail as possible in a [Collaboration Project](https://about.gitlab.com/handbook/customer-success/csm/customer-collaboration-project/) issue and @ mention the Product Manager, whom you'll find on the [Product Categories](/handbook/product/categories/) page. Ask the Product Manager if someone on their team could assist with the inquiry.
+If it will help to connect your customer with someone in Product directly, provide as much detail as possible in a [Collaboration Project](/handbook/customer-success/csm/customer-collaboration-project/) issue and @ mention the Product Manager, whom you'll find on the [Product Categories](/handbook/product/categories/) page. Ask the Product Manager if someone on their team could assist with the inquiry.
 
 **Note:** Before involving others, please do your due diligence to research the answer based on the methods provided on this page and remember as part of GitLab's values, we are [biased towards asynchronous communication](/handbook/values/#bias-towards-asynchronous-communication).
 
@@ -73,6 +73,6 @@ First, start in the https://gitlab.com/gitlab-com/ top-level group. Then, use th
 
 [Highspot](https://gitlab.highspot.com/) provides access to approved customer-facing content, whether a presentation on GitLab Ultimate, competitive intelligence, whitepapers, and more.
 
-Learn more about [Highspot at GitLab](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/).
+Learn more about [Highspot at GitLab](/handbook/sales/field-communications/gitlab-highspot/).
 
 Additionally, searching [Google Drive](https://drive.google.com/) will allow you to see Google Presentations and Google Docs related to your search.

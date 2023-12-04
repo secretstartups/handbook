@@ -91,8 +91,8 @@ Sales and marketing of the target company product(s) covers three different area
     1. Messaging
 The GitLab Field and Marketing organizations have aligned on a go-to-market approach based on a standard and consistent customer value-based messaging framework. As such, the Acquisition Integration team should partner with Product Marketing and document the following:
 
-1. What [**customer value driver(s)**](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers) does this acquisition augment and how?
-1. How does this acquisition augment [**GitLab's differentiators**](https://about.gitlab.com/handbook/sales/command-of-the-message/#gitlab-differentiators) and/or introduce new ones?
+1. What [**customer value driver(s)**](/handbook/sales/command-of-the-message/#customer-value-drivers) does this acquisition augment and how?
+1. How does this acquisition augment [**GitLab's differentiators**](/handbook/sales/command-of-the-message/#gitlab-differentiators) and/or introduce new ones?
 1. How does this acquisition augment our existing [**customer use cases**](/handbook/use-cases/)?
 
     2. Role-based learning objectives
@@ -112,7 +112,7 @@ Once the above is completed, the team proceeds to enablement development and exe
 1. **Prospect FAQ** - A prospect FAQ document will be created answering questions which are likely to come up from our customers
 1. **Overview webcast** - A webcast for our field teams will be scheduled 1-2 months from announcement providing a more in-depth overview of the acquisition and its impact for our product, customers and prospects.
 1. **Technical webcast** - Scheduled around the delivery of the MVC of the integration efforts, a technical webcast for our field teams will be scheduled to provide a demo of the new functionality and new product workflows.
-1. **Field Communication Plan** - Field Communications will work with the Product DRI to create a communications plan using the [Field Communication Playbook](https://about.gitlab.com/handbook/sales/field-communications/#field-communications-playbook) that disseminates key resources and information to field team members.
+1. **Field Communication Plan** - Field Communications will work with the Product DRI to create a communications plan using the [Field Communication Playbook](/handbook/sales/field-communications/#field-communications-playbook) that disseminates key resources and information to field team members.
 
 ### Document Management Process
 

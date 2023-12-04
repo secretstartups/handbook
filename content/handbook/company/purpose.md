@@ -37,7 +37,7 @@ Our knowledge sharing empowers everyone, not only to GitLab team members but als
 
 #### Using GitLab the DevSecOps platform
 
-1. [Certifications](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/) to demonstrate proficiency with GitLab
+1. [Certifications](/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/) to demonstrate proficiency with GitLab
 1. Best practices in DevSecOps are [easy through GitLab](https://about.gitlab.com/platform/)
 1. Best inclusive practices are easy through GitLab ([rename of the default branch](https://about.gitlab.com/blog/2021/03/10/new-git-default-branch-name/), [pronouns in the product](https://twitter.com/gitlab/status/1402306208967561222))
 

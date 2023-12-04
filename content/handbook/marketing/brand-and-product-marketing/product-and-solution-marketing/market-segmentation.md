@@ -21,7 +21,7 @@ Various verticals and industries face specific challenges as they address their 
  - Advanced manufacturing (as opposed to automotive)
  - Oil & Gas/Energy
 
- More information about Sales Segmentation can be found in our [Go To Market Resources page](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/).
+ More information about Sales Segmentation can be found in our [Go To Market Resources page](/handbook/sales/field-operations/gtm-resources/).
 
 ### Financial services
 

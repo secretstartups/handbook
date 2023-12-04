@@ -231,7 +231,7 @@ We are developing HackyStack as an open source project to allow other infrastruc
 - [GitLab API](https://github.com/GitLabPHP/Client) - For Git SCM of Terraform configurations
 - [GitLab CI](https://docs.gitlab.com/ee/ci/) - For automated Terraform deployments
 
-This project was built using Laravel instead of other viable languages due to Jeff's prior experience and proficiency with Laravel to achieve the most efficient time to business value. This builds on the success of the [GitLab Demo Systems](https://about.gitlab.com/handbook/customer-success/demo-systems/) that is powered by the [demosys-portal](https://gitlab.com/gitlab-com/customer-success/demo-systems/infrastructure/demosys-portal).
+This project was built using Laravel instead of other viable languages due to Jeff's prior experience and proficiency with Laravel to achieve the most efficient time to business value. This builds on the success of the [GitLab Demo Systems](/handbook/customer-success/demo-systems/) that is powered by the [demosys-portal](https://gitlab.com/gitlab-com/customer-success/demo-systems/infrastructure/demosys-portal).
 
 For those who are not familiar with Laravel, it is the PHP equivalent of [Ruby on Rails](https://trends.google.com/trends/explore?date=all&q=ruby%20on%20rails,laravel) and [Django](https://trends.google.com/trends/explore?date=all&q=Django,laravel) and has seen [tremendous community popularity](https://packagist.org/packages/laravel/framework/stats) in recent years since PHP has made revolutionary improvements in recent years with PHP 5.x and PHP 7.x. This project also allows us to dogfood GitLab CI/CD capabilities for PHP projects.
 

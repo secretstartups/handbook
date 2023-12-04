@@ -71,7 +71,7 @@ Your mission is to organize data and generate deep customer insight in order to 
 - Partner with the VP Field Ops and sales leadership on all issues and challenges impacting the success of the sales team
 - Lead, manage and evaluate the sales tools, processes, policies, and programs to ensure continuous productivity and effectiveness
 - Partner with the Sales Strategy, Finance and HR to design, document, implement and monitor sales compensation plans
-- Improve and manage the [Sales Handbook](https://about.gitlab.com/handbook/sales/)
+- Improve and manage the [Sales Handbook](/handbook/sales/)
 - Create board-level presentations for the Chief Revenue Officer
 - Manage, analyze, and summarize the weekly Sales Forecast
 - Pricing and Contract Support: Given the pace of business, its imperative that sales operations enable the sales team with high-quality proposals that can be

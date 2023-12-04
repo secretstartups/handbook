@@ -8,7 +8,7 @@ title: "Customer Onboarding Best Practices"
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM/CSE-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM/CSE-related handbook pages.
 
 ---
 

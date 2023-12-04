@@ -1,0 +1,56 @@
+{{- $team_dict := partials.IncludeCached "data/team-by-name" page }}
+{{- $groupTeam := slice }}
+{{- $feTeam := slice }}
+{{- $beTeam := slice }}
+{{- $fsTeam := slice }}
+{{- $be_team_tag := .be_team_tag }}
+{{- $fe_team_tag := .fe_team_tag }}
+{{- $fs_team_tag := .fs_team_tag }}
+
+{{- range $team_dict }}
+    {{- if in .departments $be_team_tag }}
+        {{- $beTeam = $beTeam | append . }}
+        {{- $groupTeam = $beTeam | append . }}
+    {{- end }}
+    {{- if in .departments $fe_team_tag }}
+        {{- $feTeam = $feTeam | append . }}
+        {{- $groupTeam = $beTeam | append . }}
+    {{- end }}
+    {{- if in .departments $fs_team_tag }}
+        {{- $fsTeam = $fsTeam | append . }}
+        {{- $groupTeam = $beTeam | append . }}
+    {{- end }}
+{{- end }}
+
+{{- if gt (len $groupTeam) 0 }}
+<table>
+    <thead>
+        <tr>
+            <td></td>
+            {{- if gt (len $beTeam) 0 }}
+            <th>Backend</th>
+            {{- end }}
+            {{- if gt (len $feTeam) 0 }}
+            <th>Frontend</th>
+            {{- end }}
+            {{- if gt (len $fsTeam) 0 }}
+            <th>Fullstack</th>
+            {{- end }}
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Development Totals</th>
+            {{- if gt (len $beTeam) 0 }}
+            <td class="text-center">{{ len $beTeam }}</td>
+            {{- end }}
+            {{- if gt (len $feTeam) 0 }}
+            <td class="text-center">{{ len $feTeam }}</td>
+            {{- end }}
+            {{- if gt (len $fsTeam) 0 }}
+            <td class="text-center">{{ len $fsTeam }}</td>
+            {{- end }}
+        </tr>
+    </tbody>
+</table>
+{{- end }}

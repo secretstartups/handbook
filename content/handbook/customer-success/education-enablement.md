@@ -371,9 +371,9 @@ If you want to share an answer in a direct message you’ll need to create a gro
 
 ## Additional Resources
 
-- [Field Enablement Handbook Page](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/)
-- [Field Accreditation Handbook Page](https://about.gitlab.com/handbook/sales/training/field-certification/)
-- [Sales Training](https://about.gitlab.com/handbook/sales/training/)
-- [Communities of Practice](https://about.gitlab.com/handbook/customer-success/initiatives/communities-of-practice.html)
+- [Field Enablement Handbook Page](/handbook/sales/field-operations/field-enablement/)
+- [Field Accreditation Handbook Page](/handbook/sales/training/field-certification/)
+- [Sales Training](/handbook/sales/training/)
+- [Communities of Practice](/handbook/customer-success/initiatives/communities-of-practice.html)
 - [Learn at GitLab](https://about.gitlab.com/learn/)
 - [GitLab Releases](https://about.gitlab.com/releases/)

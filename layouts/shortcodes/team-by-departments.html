@@ -1,0 +1,65 @@
+{{- /*  Initialize. */}}
+{{- $departments := slice }}
+{{- $managerRoles := slice }}
+
+{{- if .IsNamedParams }}
+  {{- with .Get "departments"}}
+    {{- $departments = strings.Split . "," }}
+  {{- end }}
+  {{- with .Get "manager-roles" }}
+    {{- $managerRoles = strings.Split . "," }}
+  {{- end }}
+  {{- with .Get "department" }}
+    {{- $department = append (strings.Split . ",") $departments }}
+  {{- end }}
+{{- else }}
+  {-{ $department = .Get 0 }}
+{{- end }}
+
+{{- $teamDict := dict }}
+{{- range $departments }}
+  {{- $department := . }}
+  {{ range $k, $v := partials.IncludeCached "data/team-by-name" . }}
+    {{- if in .departments $department }}
+      {{- $teamDict = merge $teamDict (dict .name . ) }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{- range $managerRoles }}
+  {{- $role := . }}
+  {{ range $k, $v := partials.IncludeCached "data/team-by-name" . }}
+    {{- if eq .job_title $role}}
+      {{- $teamDict = merge $teamDict (dict .name . ) }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+<table>
+    <thead>
+        <th>Name</th>
+        <th>Role</th>
+    </thead>
+    <tbody>
+        {{ range $k, $v := $teamDict }}
+          <tr>
+              <td>{{ partial "member-by-name" $v.name }}</td>
+              <td>{{ $v.role | safe.HTML }}</td>
+          </tr>
+        {{- end }}
+    </tbody>
+</table>
+
+<style>
+    img.avatar {
+    width: 30px;
+    height: 30px;
+    max-width: 30px;
+    max-height: 30px;
+    overflow: hidden;
+    margin-right: 10px;
+    border-radius: 50%;
+    border: 1px solid lightgray;
+    aspect-ratio: auto 90 / 90;
+    overflow-clip-margin: content-box;
+    }
+</style>

@@ -77,8 +77,8 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 
 #### Success Planning and Outcome Delivery
 
-- When a CSM is engaged, the usage data will be a key measure for the [customer success plan](https://about.gitlab.com/handbook/customer-success/csm/success-plans/) to ensure the customer is successfully adopting the use cases and features to deliver to their goals and objectives. Data and metrics will be leveraged and shared throughout the engagement and in customer [Executive Business Reviews](https://about.gitlab.com/handbook/customer-success/csm/ebr/).
-- In a digital-only engagement, the usage data will serve as a measure to ensure the customer adopts the [desired customer use cases](https://about.gitlab.com/handbook/customer-success/csm/success-plans/). The digital journey will be developed to serve key content to help customers adopt these use cases and progress through their customer journey.
+- When a CSM is engaged, the usage data will be a key measure for the [customer success plan](/handbook/customer-success/csm/success-plans/) to ensure the customer is successfully adopting the use cases and features to deliver to their goals and objectives. Data and metrics will be leveraged and shared throughout the engagement and in customer [Executive Business Reviews](/handbook/customer-success/csm/ebr/).
+- In a digital-only engagement, the usage data will serve as a measure to ensure the customer adopts the [desired customer use cases](/handbook/customer-success/csm/success-plans/). The digital journey will be developed to serve key content to help customers adopt these use cases and progress through their customer journey.
 
 #### Onboarding
 
@@ -114,8 +114,8 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 
 ### Metrics
 
-- [Time-to-First Value](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis) uses license data and potentially use case stats in the future
-- [License Utilization](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/): Assist the customer in determining how well utilized licenses are, how they could be used, and assess their future needs
+- [Time-to-First Value](/handbook/customer-success/vision/#time-to-value-kpis) uses license data and potentially use case stats in the future
+- [License Utilization](/handbook/customer-success/product-usage-data/use-case-adoption/): Assist the customer in determining how well utilized licenses are, how they could be used, and assess their future needs
 - [xMAU](/handbook/product/performance-indicators/#three-versions-of-xmau) leverages usage stats and is a key performance indicator (KPI) for the Product Team
 - Use case expansion playbook success will be measured by customer use case adoption
 - Use case health score will leverage use case adoption (scored as minimum to advanced). This is used to understand which use cases have been adopted and what is the progress on adopting those use cases.
@@ -127,12 +127,12 @@ The collection and use of operational data will governed in accordance with the 
 
 ## Relevant Links
 
-- [Customer Success Vision Page](https://about.gitlab.com/handbook/customer-success/vision/)
-- [Operational Data in Gainsight](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/): Gainsight is a customer lifecycle management platform used for CSM and digital engagement
-- [Customer Use Case Adoption](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/): includes definitions on how each product usage health score is calculated
-- [License Utilization in Gainsight](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/): includes definitions and calculation methodology for License Utilization
+- [Customer Success Vision Page](/handbook/customer-success/vision/)
+- [Operational Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/): Gainsight is a customer lifecycle management platform used for CSM and digital engagement
+- [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/): includes definitions on how each product usage health score is calculated
+- [License Utilization in Gainsight](/handbook/customer-success/product-usage-data/use-case-adoption/): includes definitions and calculation methodology for License Utilization
 - [Customer Use Cases and Stage Mapping](https://docs.google.com/presentation/d/1bC_TdQO917hLbj4jfdkhtP0l7w8p1SKEK9vVjga5Wec/edit#slide=id.g7fe53431a5_0_33) (internal document)
-- [Product Usage in Gainsight FAQ Guide](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
+- [Product Usage in Gainsight FAQ Guide](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
 - [Metrics Dictionary](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html)
 - [Analytics Instrumentation Overview](/handbook/product/analytics-instrumentation-guide/) (details on operational data)
 - [Email Marketing Data Mart](/handbook/business-technology/data-team/data-catalog/email-data-mart/)

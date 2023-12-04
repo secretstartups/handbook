@@ -52,7 +52,7 @@ Learn more about GitLab's community programs and their respective DRIs in the [C
 
 ### Account and Opportunity Ownership
 
-See point 13 on the [Go to Market Rules of Engagement Handbook page](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/) for details on handling accounts with a Community Programs-related opportunity.
+See point 13 on the [Go to Market Rules of Engagement Handbook page](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/) for details on handling accounts with a Community Programs-related opportunity.
 
 Please note that even if there is not a sales related opportunity on an account, all accounts must remain in the AE/SAE name. If a Community Programs-related opportunity is incorrectly in the AE/SAE name, please chatter @Sales-Support in SFDC for assistance with changing the owner to the proper Community Programs team member.
 

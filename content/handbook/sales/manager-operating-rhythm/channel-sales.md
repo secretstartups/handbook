@@ -50,7 +50,7 @@ Regional Channel Sales leaders typically host weekly team calls and have weekly 
 
 ### Recruiting
 
-Always be recruiting! As outlined in the [Winning Top Talent](https://about.gitlab.com/handbook/sales/field-manager-development/#winning-top-talent) portion of the GitLab Field Manager Development Program, the importance of effective recruiting to GitLab's continued growth and success cannot be understated. Channel Sales leaders should meet regularly with your Talent Acquisition Recruiter (exact cadence will vary based on hiring needs) and should also be comfortable and confident in selling the amazing opportunity here at GitLab.
+Always be recruiting! As outlined in the [Winning Top Talent](/handbook/sales/field-manager-development/#winning-top-talent) portion of the GitLab Field Manager Development Program, the importance of effective recruiting to GitLab's continued growth and success cannot be understated. Channel Sales leaders should meet regularly with your Talent Acquisition Recruiter (exact cadence will vary based on hiring needs) and should also be comfortable and confident in selling the amazing opportunity here at GitLab.
 
 **Key Resources**
 - Success Profile
@@ -60,7 +60,7 @@ Always be recruiting! As outlined in the [Winning Top Talent](https://about.gitl
 
 ### Onboarding
 
-Channel Sales leaders should work with new Channel Account Managers to develop and monitor progress against a documented 30/60/90 day plan, set clear performance expectations, and provide regular feedback during the onboarding process. New CAMs should be encouraged to complete their general GitLab onboarding issue, and Channel Sales leaders should ensure that they actively participate in and complete [Sales Quick Start](https://about.gitlab.com/handbook/sales/onboarding/).
+Channel Sales leaders should work with new Channel Account Managers to develop and monitor progress against a documented 30/60/90 day plan, set clear performance expectations, and provide regular feedback during the onboarding process. New CAMs should be encouraged to complete their general GitLab onboarding issue, and Channel Sales leaders should ensure that they actively participate in and complete [Sales Quick Start](/handbook/sales/onboarding/).
 
 ### Performance Management
 
@@ -68,7 +68,7 @@ Individual performance assessments are conducted on a semi-annual basis within t
 
 ### Developing and Retaining
 
-Developing and retaining key talent is constantly top-of-mind for high-performing Channel Sales leaders. The best Channel Sales leaders provide regular [coaching](/handbook/leadership/coaching/), follow [Performance Management](https://about.gitlab.com/handbook/sales/field-manager-development/#performance-management-and-giving-feedback) best practices, and leverage GitLab's [Field Functional Competencies](https://about.gitlab.com/handbook/sales/training/field-functional-competencies/) to reinforce the critical skills and behaviors that will lead to desired outcomes/results.
+Developing and retaining key talent is constantly top-of-mind for high-performing Channel Sales leaders. The best Channel Sales leaders provide regular [coaching](/handbook/leadership/coaching/), follow [Performance Management](/handbook/sales/field-manager-development/#performance-management-and-giving-feedback) best practices, and leverage GitLab's [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/) to reinforce the critical skills and behaviors that will lead to desired outcomes/results.
 
 ### Team Assessment
 

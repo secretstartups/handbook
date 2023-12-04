@@ -24,7 +24,7 @@ The Data Directory is designed to provide quick access to / better organize key 
 **CUSTOMER SUCCESS**
 <details>
   <summary markdown="span">About Customer Success</summary>
-  [Handbook Page](https://about.gitlab.com/handbook/customer-success/)
+  [Handbook Page](/handbook/customer-success/)
   <br>
 </details>
 
@@ -223,7 +223,7 @@ The Data Directory is designed to provide quick access to / better organize key 
 **SALES**
 <details>
   <summary markdown="span">About Sales</summary>
-  [Handbook Page](https://about.gitlab.com/handbook/sales/)
+  [Handbook Page](/handbook/sales/)
   <br>
 </details>
 
@@ -266,11 +266,11 @@ Here is a reference for the Data Program Teams meeting series, subject DRIs, and
 | Marketing - Developer Relations |  |  |  
 | Marketing - Portfolio |  |  | 
 | |  |  |  
-| [**Sales**](https://about.gitlab.com/handbook/sales/) |  |  |   
+| [**Sales**](/handbook/sales/) |  |  |   
 | Sales - New |  |  |  |  | 
-| [Sales - Customer Success](https://about.gitlab.com/handbook/customer-success/) | @bbutterfield | various / project-based |     
-| [Sales - Customer Success Operations](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/) | @jdbeaumont, @emcinerney | [#wg-gtm-product-analytics](https://gitlab.slack.com/archives/C01BMJKC8UF) | Monthly x-functional series |  |
-| [Sales - Strategy & Analytics](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/) | @jakebielecki, @mvilain, @nfiguera | [#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A) |  Monthly x-functional series |  |
+| [Sales - Customer Success](/handbook/customer-success/) | @bbutterfield | various / project-based |     
+| [Sales - Customer Success Operations](/handbook/sales/field-operations/customer-success-operations/) | @jdbeaumont, @emcinerney | [#wg-gtm-product-analytics](https://gitlab.slack.com/archives/C01BMJKC8UF) | Monthly x-functional series |  |
+| [Sales - Strategy & Analytics](/handbook/sales/field-operations/sales-strategy/) | @jakebielecki, @mvilain, @nfiguera | [#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A) |  Monthly x-functional series |  |
 | Sales - Support |  |  |  |
 | Sales - Field Operations |  |  | 
 | |  |  |  |  |  

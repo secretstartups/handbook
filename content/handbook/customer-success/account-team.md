@@ -23,7 +23,7 @@ An Enterprise account team is comprised of the following people:
 
 - [Strategic Account Executive (SAE)](/job-families/sales/strategic-account-executive/)
 - [Solutions Architect (SA)](/job-families/sales/solutions-architect/)
-- [Customer Success Manager (CSM)](/job-families/sales/customer-success-management/) for [qualifying accounts](https://about.gitlab.com/handbook/customer-success/csm/services/#csm-alignment)
+- [Customer Success Manager (CSM)](/job-families/sales/customer-success-management/) for [qualifying accounts](/handbook/customer-success/csm/services/#csm-alignment)
 
 
 ### Commercial/Mid-Market
@@ -31,7 +31,7 @@ An Enterprise account team is comprised of the following people:
 A Mid-Market account team is comprised of the following people:
 
 - [Account Executive (AE)](/job-families/sales/account-executive/)
-- [Customer Success Manager (CSM)](/job-families/sales/customer-success-management/) for [qualifying accounts](https://about.gitlab.com/handbook/customer-success/csm/services/#csm-alignment)
+- [Customer Success Manager (CSM)](/job-families/sales/customer-success-management/) for [qualifying accounts](/handbook/customer-success/csm/services/#csm-alignment)
 
 In Mid-Market, Solutions Architects are pooled so they are not aligned with specific account teams.
 
@@ -55,16 +55,16 @@ In Mid-Market, Solutions Architects are pooled so they are not aligned with spec
 ### Customer Success Manager (CSM)
 
 - Trusted strategic advisor to the customer
-- [Responsible](https://about.gitlab.com/handbook/customer-success/csm/#high-level-responsibilities-of-a-csm) for the post-sales customer journey
-   - [Onboarding]](https://about.gitlab.com/handbook/customer-success/csm/onboarding/)
-   - [Success Planning](https://about.gitlab.com/handbook/customer-success/csm/success-plans/)
-   - [Stage adoption & expansion](https://about.gitlab.com/handbook/customer-success/csm/stage-enablement-and-expansion/)
-   - [Executive Business Reviews](https://about.gitlab.com/handbook/customer-success/csm/ebr/)
-   - [Risk Mitigation](https://about.gitlab.com/handbook/customer-success/csm/risk-mitigation/)
-   - [Renewal Discussions](https://about.gitlab.com/handbook/customer-success/csm/renewals/)
-- Leads regular [cadence calls](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/) and keeps the [customer collaboration projects](https://about.gitlab.com/handbook/customer-success/csm/customer-collaboration-project/) up-to-date
-- Maintains [Gainsight](https://about.gitlab.com/handbook/customer-success/csm/gainsight/) records of customer health and triaging as necessary
-- Account escalation point of contact for [High or Critical Escalations](https://about.gitlab.com/handbook/customer-success/csm/escalations/)
+- [Responsible](/handbook/customer-success/csm/#high-level-responsibilities-of-a-csm) for the post-sales customer journey
+   - [Onboarding]](/handbook/customer-success/csm/onboarding/)
+   - [Success Planning](/handbook/customer-success/csm/success-plans/)
+   - [Stage adoption & expansion](/handbook/customer-success/csm/stage-enablement-and-expansion/)
+   - [Executive Business Reviews](/handbook/customer-success/csm/ebr/)
+   - [Risk Mitigation](/handbook/customer-success/csm/risk-mitigation/)
+   - [Renewal Discussions](/handbook/customer-success/csm/renewals/)
+- Leads regular [cadence calls](/handbook/customer-success/csm/cadence-calls/) and keeps the [customer collaboration projects](/handbook/customer-success/csm/customer-collaboration-project/) up-to-date
+- Maintains [Gainsight](/handbook/customer-success/csm/gainsight/) records of customer health and triaging as necessary
+- Account escalation point of contact for [High or Critical Escalations](/handbook/customer-success/csm/escalations/)
 
 ## Account Team Meetings
 
@@ -72,7 +72,7 @@ The account team should meet in order to drive strategic growth towards accounts
 
 - Coordinated customer growth/expansion strategies, including renewals and upgrades
 - Onboarding of new customers requiring additional attention
-- Triage if they have a [health score other than Green](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#health-assessment-guidelines)
+- Triage if they have a [health score other than Green](/handbook/customer-success/csm/health-score-triage/#health-assessment-guidelines)
 
 As a recommendation to [make the most efficient use of everyone’s time](/handbook/values/#be-respectful-of-others-time), these calls should not happen more than once a week, unless there is a specific and urgent need. There is no requirement to have recurring account team calls, but different regions and segments may approach account team alignments and engagement differently. For clarity on specific regions' or segments' approaches, reach out to the corresponding CSM Manager(s).
 
@@ -88,10 +88,10 @@ Account teams may choose to include the [Sales Development Representative (SDR)]
 
 ### Tools to Use During the Meeting
 
-- [Working Agreement](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/#working-agreements)
+- [Working Agreement](/handbook/customer-success/solutions-architects/processes/#working-agreements)
 - Salesforce
 - Gainsight
-- [Customer collaboration project](https://about.gitlab.com/handbook/customer-success/csm/customer-collaboration-project/)
+- [Customer collaboration project](/handbook/customer-success/csm/customer-collaboration-project/)
 - Customer meeting notes
 
 ## Leadership Alignment - Sales and CSM Management
@@ -109,7 +109,7 @@ The CSM Manager is the DRI for the meeting, and topics to be covered at a manage
 
 The SA owns all pre-sales technical relationships and activities. The SA coordinates conversations related to product, sales, business, and technical initiatives prior to the sale. CSM involvement during pre-sales models the expectations for the customer relationship after the sale, but should be limited to only after we achieve a technical win. CSM involvement should supplement, not displace, SA pre-sales ownership of the account.
 
-When an account moves from pre-sales to post-sales, it is [handed off from the Account Executive/Solutions Architect to the Customer Success Manager](https://about.gitlab.com/handbook/customer-success/pre-sales-post-sales-transition/).
+When an account moves from pre-sales to post-sales, it is [handed off from the Account Executive/Solutions Architect to the Customer Success Manager](/handbook/customer-success/pre-sales-post-sales-transition/).
 
 The CSM takes primary responsibility for the account once a customer becomes CSM-qualifying and focuses on ensuring customer success and driving adoption. SAs can be reintroduced in the following situations:
 - A new POV for upgrade or additional team

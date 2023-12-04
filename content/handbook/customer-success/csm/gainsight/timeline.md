@@ -31,7 +31,7 @@ The following activities can be logged in Gainsight:
 - **Customer Call**: Conversation with the customer via Zoom or other synchronous channel.
 - **In-Person Meeting**: On-site or otherwise in-person meeting with the customer.
 - **Email**: Message sent to the customer, or message thread between the CSM and the customer.
-- **At-Risk Update**: An update (similar to above) and used exclusively with red customers for providing updates specific to a risk. See [At-Risk CTA](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#at-risk-cta) for details.
+- **At-Risk Update**: An update (similar to above) and used exclusively with red customers for providing updates specific to a risk. See [At-Risk CTA](/handbook/customer-success/csm/health-score-triage/#at-risk-cta) for details.
 - **Workshop**: A customer workshop, which can include GitLab Days, Workshops, Lunch and & Learns, and more.
 
 ### Chorus Recordings
@@ -85,9 +85,9 @@ Tip: When searching for external attendees, you can use "%%%" as your search pat
 1. Add internal and external attendees (more details on that immediately below) if applicable
 1. Choose the meeting type if applicable
 1. Check off if an executive sponsor attended if applicable
-1. Optionally update the CSM and Product sentiments to reflect [health score](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/)
+1. Optionally update the CSM and Product sentiments to reflect [health score](/handbook/customer-success/csm/health-score-triage/)
 1. Add "Milestone Type" if applicable
-1. Add notes (e.g. a link to the Google doc of your [cadence call](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/), a summary of health score change, etc.)
+1. Add notes (e.g. a link to the Google doc of your [cadence call](/handbook/customer-success/csm/cadence-calls/), a summary of health score change, etc.)
 1. Add any action items as "tasks"
 
 The other options to log activities are (1) on the Scorecard while recording CSM Sentiment or Product Risk or (2) on the Success Plan to log a Timeline activity specific to the plan.
@@ -126,6 +126,6 @@ BCCing emails to Gainsight is *not* a required step. However, if you want an ema
 1. Emails logged in Salesforce stay in Salesforce
 1. Emails logged in Gainsight appear in Gainsight and then are synced to Salesforce during the nightly sync
 
-For more information on using emails with Gainsight, see the [Gainsight workflow handbook page](https://about.gitlab.com/handbook/customer-success/csm/gainsight/#emails).
+For more information on using emails with Gainsight, see the [Gainsight workflow handbook page](/handbook/customer-success/csm/gainsight/#emails).
 
 

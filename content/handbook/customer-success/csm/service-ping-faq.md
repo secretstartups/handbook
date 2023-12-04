@@ -9,7 +9,7 @@ title: "Service Ping FAQ"
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ----
 
@@ -26,7 +26,7 @@ Service Ping generates customer analytics on self-managed instances that enable 
 
 For the definition of each metric, please see our [Service Ping Metrics Dictionary](https://metrics.gitlab.com).  
 
-[Links to other ways Service Ping is used by Customer Success](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
+[Links to other ways Service Ping is used by Customer Success](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
 
 
 ## How Does Service Ping Help Me?

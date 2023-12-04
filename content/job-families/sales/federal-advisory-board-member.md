@@ -23,7 +23,7 @@ The Gitlab PubSec Advisory Board (the "Advisory Board") will support the leaders
 
 ## Relevant Links
 
-- [Sales Handbook](https://about.gitlab.com/handbook/sales/public-sector/)
+- [Sales Handbook](/handbook/sales/public-sector/)
 
 ## Hiring Process
 

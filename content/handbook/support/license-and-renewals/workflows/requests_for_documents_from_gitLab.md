@@ -21,7 +21,7 @@ Account Owner involved.
 Additional information on this topic can be found in the following handbook pages:
 
 - [Sales Guide: Collaborating with GitLab Legal - How to reach Legal](/handbook/legal/customer-negotiations/)
-- [Sales Order Processing - Contact Legal](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#contact-legal)
+- [Sales Order Processing - Contact Legal](/handbook/sales/field-operations/order-processing/#contact-legal)
 
 Other types of documents may be covered by the [general Support workflows]({{< ref "/content/handbook/support/workflows/_index.md" >}}).
 

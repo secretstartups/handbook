@@ -23,10 +23,10 @@ This page details processes and general guidelines specific to the Executive Bus
 | [People](/handbook/people-group/) | **Julia Nishioki**<br>EBA  | Wendy Barnes (CPO)<br>Pattie Egan (VP of People Operations, Technology and Analytics)<br> Rob Allen (VP of Talent Acquisition)<br>Sherida McMullan (VP of Diversity, Inclusion and Belonging)
 | [Product](/handbook/product/) | **Gena Schwam**<br>Sr EBA|  David DeSanto (CProdO)
 | [Product](/handbook/product/) | **Jennifer Garcia**<br>EBA | Justin Farris (Sr Director of Product Monetization)<br>Hillary Benson (Sr Director of Product Management)<br>Mike Flouton (VP of Product Management)
-| [Sales](https://about.gitlab.com/handbook/sales/) | **Alexa Schrauth**<br>Sr EBA | Chris Weber (CRO)
-| [Sales](https://about.gitlab.com/handbook/sales/) | **Becky Piccone**<br>Sr EBA | David Sakamoto (VP of Customer Success)<br>Jonathan Fullam (VP of Global Solutions Architecture)
-| [Sales](https://about.gitlab.com/handbook/sales/) | **Kiran Gill**<br>Sr EBA | Jake Bielecki (VP of Field Operations) <br> Patty Cheung (VP of WW Channels & Alliances)
-| [Sales](https://about.gitlab.com/handbook/sales/) | **Victoria Reinhardt**<br>Sr EBA | Bob Stevens (VP of Public Sector Sales) <br> TBH (VP of AMER Sales)
+| [Sales](/handbook/sales/) | **Alexa Schrauth**<br>Sr EBA | Chris Weber (CRO)
+| [Sales](/handbook/sales/) | **Becky Piccone**<br>Sr EBA | David Sakamoto (VP of Customer Success)<br>Jonathan Fullam (VP of Global Solutions Architecture)
+| [Sales](/handbook/sales/) | **Kiran Gill**<br>Sr EBA | Jake Bielecki (VP of Field Operations) <br> Patty Cheung (VP of WW Channels & Alliances)
+| [Sales](/handbook/sales/) | **Victoria Reinhardt**<br>Sr EBA | Bob Stevens (VP of Public Sector Sales) <br> TBH (VP of AMER Sales)
 | [Security](/handbook/security/) | **Marisa Carlson**<br>Sr EBA  | Josh Lemos (CISO)
 
 ## Contact us

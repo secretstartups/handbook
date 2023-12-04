@@ -36,7 +36,7 @@ If you choose to conduct Usability Testing, take advantage of our tips on how to
 
 There is a [UX Cloud Sandbox](/handbook/product/ux/ux-research/ux-cloud-sandbox/) which is a reserved instance of GitLab for UX testing and research. The referenced handbook page has everything you need to get started, and there is also a #ux-cloud-sandbox Slack channel to reach out to for help.
 
-If you want help creating a pristine test environment separate from the sandbox be sure to reach out to the [Demo Systems](https://about.gitlab.com/handbook/customer-success/demo-systems/) group on the #demo-systems Slack channel. They can create a demo environment for users and help build any particular parameters needed for your testing environment. Be aware that setting up a test environment for a research study this way can be time consuming and difficult.
+If you want help creating a pristine test environment separate from the sandbox be sure to reach out to the [Demo Systems](/handbook/customer-success/demo-systems/) group on the #demo-systems Slack channel. They can create a demo environment for users and help build any particular parameters needed for your testing environment. Be aware that setting up a test environment for a research study this way can be time consuming and difficult.
 
 To choose the right **solution validation** research method, you need to identify the purpose for your research. Ask yourself ***“What information do I need to learn to increase my confidence in the design?”*** Your answer will help you choose which method to use. If you are still unsure, please reach out to your UX Researcher.
 
