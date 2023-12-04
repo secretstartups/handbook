@@ -63,6 +63,16 @@ Tamland will attempt to predict a range of outcomes. For saturation, we focus on
 
 The forecast process, Tamland, runs as a GitLab CI job on `ops.gitlab.net`. This job will run on a schedule defined [in the scheduled pipeline](https://ops.gitlab.net/gitlab-com/gl-infra/tamland/-/pipeline_schedules) (set to execute daily). The process starts by reading the historical short-term saturation metric data from Thanos, up to 1-year period, using an hourly resolution.
 
+## Data classification
+
+Per the [Data Classification Standard](/handbook/security/data-classification-standard/#orange), Tamland's output data is considered ORANGE data and must remain confidential. This includes forecast plots and information about SLO violations.
+
+Therefore, the recommended practice when including Tamland data is:
+
+1. On public facing projects, turn on confidentiality on issues or comments
+1. Recordings published to GitLab Unfiltered must be labeled *private*
+
+
 ## Workflow
 
 ### Stakeholders: Scalability team and Service Owners
