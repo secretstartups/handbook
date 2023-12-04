@@ -1,22 +1,14 @@
 ---
-
 title: "Development Department - Engineering Allocation Dashboard"
 ---
-
-
-
-
-
-
-
-## Engineering Allocation Dashboard
 
 Engineering Allocation for a stage/group is 0% and we are following normal [prioritization](https://about.gitlab.com/handbook/product/product-processes/#prioritization). More details can be found on the [Engineering Allocation section](https://about.gitlab.com/handbook/engineering/#engineering-allocation).
 
 To help us stay on track, we track this in our [Engineering Allocation dashboard](https://app.periscopedata.com/app/gitlab/862396/Engineering-Allocation) which has the ability to filter down to a specific section, stage, or group. We monitor the number of closed issues and closed MRs with the ~Engineering Allocation label against closed issues and closed MRs without the label over time. These charts include data for all product MRs.
 
-<embed width="49.7%" height="300" src="<%= signed_periscope_url(dashboard: 862396, chart: 11685310, embed: 'v2') %>">
-<embed width="49.7%" height="300" src="<%= signed_periscope_url(dashboard: 862396, chart: 11695177, embed: 'v2') %>">
+{{< sisense dashboard="862396" chart="11685310" >}}
+
+{{< sisense dashboard="862396" chart="11695177" >}}
 
 ## Labels
 
