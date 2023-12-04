@@ -190,7 +190,7 @@ The Director, Sales Operations is a [grade 10](/handbook/total-rewards/compensat
 
 #### Director, Sales Operations Requirements
 
-- Demonstrated progressive experience in a global SAAS sales or sales operations environment
+- Demonstrated progressive experience in a global B2B SaaS sales or sales operations environment
 - Ability to work independently with a high degree of accountability, while also able to collaborate cross-functionally (finance, marketing, sales enablement, etc) with exceptional intrapersonal skills
 - Demonstrated passion for information and business intelligence; thorough understanding of sales processes and methodologies
 - Demonstrated progressive experience in Salesforce.com
@@ -203,6 +203,8 @@ The Director, Sales Operations is a [grade 10](/handbook/total-rewards/compensat
 - [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 
 #### Specialties
+- Ability to manage customer facing Rules of Engagement disputes, both internal to GitLab as well as through external partnerships
+- Experience in managing cross-deparmental projects to specific timelines
 
 ##### Sales Tools Responsibilities
 
