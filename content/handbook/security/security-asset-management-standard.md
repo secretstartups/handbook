@@ -46,7 +46,7 @@ GitLab has two distinct security zones:
 
 - Utilize trusted networks when available. If you are connecting from an untrusted network, you should use a [personal VPN](https://handbook.gitlab.com/handbook/tools-and-tips/personal-vpn/). GitLab has selected [NordLayer](https://handbook.gitlab.com/handbook/it/guides/nordlayer/) as the preferred provider.
 
-- Keep [Clear Desk/Clear Screen](https://handbook.gitlab.com/handbook/business-technology/it/security/system-configuration/#clean-deskclear-screen)requirements.
+- Keep [Clear Desk/Clear Screen](https://handbook.gitlab.com/handbook/business-technology/it/security/system-configuration/#clean-deskclear-screen) requirements.
 
 - Ensure devices are not left unattended in public areas and locked when not in use. [Activate a screensaver with password lock, lock the desktop, close the lid](https://handbook.gitlab.com/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration).
 
