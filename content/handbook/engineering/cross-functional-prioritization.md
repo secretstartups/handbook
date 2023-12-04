@@ -1,8 +1,7 @@
 ---
-
 title: Cross Functional Prioritization
 canonical_path: "/handbook/product/cross-functional-prioritization/"
 noindex: true
 ---
 
-<%= partial "includes/_cross-functional-prioritization.erb" %>
+{{% include "includes/cross-functional-prioritization.md" %}}
