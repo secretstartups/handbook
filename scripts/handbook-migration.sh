@@ -280,6 +280,8 @@ menu:
 EOF
 fi
 
+
+if [[ $IS_MARKETING != "true" || $IS_ENGINEERING != "true" ]]; then
 cd content
 
 # Migrated Sections using fully qualified url on about
@@ -463,6 +465,7 @@ find . -type f -name "*.erb" -exec sed -i '' "s~{: .shadow}~~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~{:toc}~~g" {} +
 
 cd ..
+fi
 
 # Run markdownlint to try to fix as many errors as possible
 
