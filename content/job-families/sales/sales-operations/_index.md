@@ -203,6 +203,7 @@ The Director, Sales Operations is a [grade 10](/handbook/total-rewards/compensat
 - [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 
 #### Specialties
+
 - Ability to manage customer facing Rules of Engagement disputes, both internal to GitLab as well as through external partnerships
 - Experience in managing cross-deparmental projects to specific timelines
 
