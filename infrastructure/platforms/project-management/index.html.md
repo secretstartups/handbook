@@ -82,3 +82,15 @@ This was discussed on a [Scalability issue](https://gitlab.com/gitlab-com/gl-inf
 
 Stage groups use [type labels](/handbook/engineering/metrics/#data-classification) to label merge requests in projects in the `gitlab-org` group. 
 If you need a stage group to perform work, it is best to apply the relevant stage group label when the issue is created. 
+
+## Issue Trackers 
+
+This is a list of the group issue trackers:
+
+| Group | Tracker |
+|-------|---------|
+| Dedicated | [issue tracker](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues)|
+| Delivery | [issue tracker](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues) |
+| Production Engineering | [issue tracker](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues)|
+| Scalability | [issue tracker](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues) |
+
