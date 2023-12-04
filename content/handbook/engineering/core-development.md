@@ -4,7 +4,7 @@ title: Core Development Department
 
 ## Vision
 
-Scale and develop our diverse, global team to drive results that support our product and customer growth, while maintaining [our values](/handbook/values/) and [unique way of working](/company/culture/all-remote/guide/).
+Scale and develop our diverse, global team to drive results that support our product and customer growth, while maintaining [our values](/handbook/values/) and [unique way of working](/handbook/company/culture/all-remote/guide/).
 
 ## Mission
 
@@ -18,7 +18,7 @@ As we have set ourselves at the end of FY22, FY23 will focus on growth, efficien
 
 ### Growth
 
-This year we have goals to increase the size of the Development Department by over 20% to increase our team's capacity to deliver in new and existing product areas. To achieve this, we are focused on collaborating closely with our recruiting team, building a diverse pipeline of candidates, and successfully onboarding new team members into our way of working. Each sub-department will set goals for their teams to hire based on planned headcount increases. We expect to meet our hiring goals while not going over, which is essential to 1) meeting the growing development needs of GitLab's [business strategy](/company/strategy/) and 2) hiring at a predictable rate in-line with our financial plans. We commit to investing dedicated time and budget in learning and development, specifically to development topics through internal courses, such as O'Reilly Learn, etc.
+This year we have goals to increase the size of the Development Department by over 20% to increase our team's capacity to deliver in new and existing product areas. To achieve this, we are focused on collaborating closely with our recruiting team, building a diverse pipeline of candidates, and successfully onboarding new team members into our way of working. Each sub-department will set goals for their teams to hire based on planned headcount increases. We expect to meet our hiring goals while not going over, which is essential to 1) meeting the growing development needs of GitLab's [business strategy](/handbook/company/strategy/) and 2) hiring at a predictable rate in-line with our financial plans. We commit to investing dedicated time and budget in learning and development, specifically to development topics through internal courses, such as O'Reilly Learn, etc.
 
 ### Efficiency
 
@@ -84,7 +84,7 @@ Aligned with the [company-wide promotion cadence](/handbook/people-group/promoti
 - Ensure alignment with overall company [promotion rate](/handbook/people-group/people-success-performance-indicators/#promotion-rate)
 - Add another layer of review to reduce bias in the promotion process
 
-Development adheres to the company-wide quarterly timeline outlined [here](https://about.gitlab.com/handbook/people-group/promotions-transfers/#promotions-process--timeline) as our SSOT.
+Development adheres to the company-wide quarterly timeline outlined [here](/handbook/people-group/promotions-transfers/#promotions-process--timeline) as our SSOT.
 
 **The Development Department has an additional formal step built in to our promotion process beyond what the company is currently adhering to through our peer review process**. Ahead of the commencement of the [Calibration](/handbook/people-group/promotions-transfers/#calibration) stage of our process, all promotion documents should be peer reviewed by a Senior Manager or Director. The due date to complete the peer review is _before_ the scheduled Calibration session.
 
@@ -96,7 +96,7 @@ FY'23 Calibration sessions:
 
 Calibration session attendees are the following team members: Senior Managers, Directors, Sr. Directors, VP, and Development's aligned People Business Partner. Leaders are welcome to conduct Calibration sessions prior to the scheduled sessions above with their sub-departments as well (though this is not a requirement).
 
-In addition to the [company-wide calibration preparation](https://about.gitlab.com/handbook/people-group/promotions-transfers/#calibration), for the Development department we also ask that leaders come prepared to discuss:
+In addition to the [company-wide calibration preparation](/handbook/people-group/promotions-transfers/#calibration), for the Development department we also ask that leaders come prepared to discuss:
 
 1. Status of maintainership
 2. Most recent talent assessment
@@ -121,7 +121,7 @@ The calibration agenda will consist of the following for each candidate:
 
 To allow time for review and the addition of questions/feedback, summaries should be included in the agenda no less than one week prior to the Development Leadership scheduled calibration date.
 
-In line with our [guidance on feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback), feedback should be regular and ongoing. Calibration sessions are meant to discuss team member promotion readiness and calibrate promotions across the department, but they should not replace the regular and ongoing feedback provided throughout the year. Any relevant feedback should be given promptly and not wait until talent assessments or promotion calibration. This will ensure that both the team member and their manager have an opportunity to address feedback in a timely manner.
+In line with our [guidance on feedback](/handbook/people-group/guidance-on-feedback), feedback should be regular and ongoing. Calibration sessions are meant to discuss team member promotion readiness and calibrate promotions across the department, but they should not replace the regular and ongoing feedback provided throughout the year. Any relevant feedback should be given promptly and not wait until talent assessments or promotion calibration. This will ensure that both the team member and their manager have an opportunity to address feedback in a timely manner.
 
 ### Talent Assessment Process
 
@@ -129,7 +129,7 @@ Talent Assessment Process guidelines specific for the Core Development Departmen
 
 ### Annual Compensation Review
 
-The SSOT timeline for the upcoming Annual Compensation Review can be found [here](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#january). Below you will find additional dates specific to the Development department to ensure all levels have time to review as we move through the process.
+The SSOT timeline for the upcoming Annual Compensation Review can be found [here](/handbook/total-rewards/compensation/compensation-review-cycle/#january). Below you will find additional dates specific to the Development department to ensure all levels have time to review as we move through the process.
 
 Phase 1 (cash only):
 - January 9-13 @5pm PT - Manager level finalizes comp recommendations
@@ -153,7 +153,7 @@ In [this handbook page](./processes/hiring-contractors.html) we document the pro
 Welcome to GitLab! We are excited for you to join us.
 Here are some curated resources to get you started:
 
-- [Joining as an Engineer](/handbook/developer-onboarding/)
+- [Joining as an Engineer](https://about.gitlab.com/handbook/developer-onboarding/)
 - [Joining as an Engineering Manager](/handbook/engineering/development/onboarding/manager/)
 
 ### Cross-Functional Metrics
@@ -195,7 +195,7 @@ At GitLab we value [freedom and responsibility over rigidity](/handbook/values/#
 
 Development's headcount planning follows the Engineering [headcount planning](/handbook/engineering/#headcount-planning) and [long term profitability targets](/handbook/engineering/#long-term-profitability-targets). Development headcount is a percentage of overall engineering headcount. For FY20, the headcount size is 271 or ~58% of overall engineering headcount.
 
-We follow normal span of control both for our managers and directors of [4 to 10](/company/team/structure/#management-group). Our sub-departments and teams match as closely as we can to the [Product Hierarchy](/handbook/product/categories/#hierarchy) to best map 1:1 to [Product Managers](/handbook/product/).
+We follow normal span of control both for our managers and directors of [4 to 10](/handbook/company/team/structure/#management-group). Our sub-departments and teams match as closely as we can to the [Product Hierarchy](/handbook/product/categories/#hierarchy) to best map 1:1 to [Product Managers](/handbook/product/).
 
 ### Development Staff Meeting
 
@@ -220,7 +220,7 @@ The following is a non exhaustive list of daily duties for engineering directors
 1. Review hiring dashboards
 1. Personal todo list
 1. Personal GitLab board(s) if any
-1. [Working groups](/company/team/structure/working-groups/) that the director drives or participates in
+1. [Working groups](/handbook/company/team/structure/working-groups/) that the director drives or participates in
     1. Action items in agenda documents
     1. Issue boards
     1. Slack channel
@@ -249,12 +249,12 @@ In general, OKRs flow top-down and align to the company and upper level organiza
 
 #### Managers and Directors
 
-For managers and directors, please refer to a good [walk-through example of OKR format](/company/okrs/#example-developments-approach-to-okrs) for developing team OKRs. Consider stubbing out OKRs early in the last month of the current quarter, and get the OKRs in shape (e.g. fleshing out details and making them [SMART](https://en.wikipedia.org/wiki/SMART_criteria)) no later than the end of the current quarter.
+For managers and directors, please refer to a good [walk-through example of OKR format](/handbook/company/okrs/#example-developments-approach-to-okrs) for developing team OKRs. Consider stubbing out OKRs early in the last month of the current quarter, and get the OKRs in shape (e.g. fleshing out details and making them [SMART](https://en.wikipedia.org/wiki/SMART_criteria)) no later than the end of the current quarter.
 
 It is recommended to assess progress **weekly**.
 
 1. Append the percentage score to the subject of Objective epics and Key Result issues.
-1. Set the [Health status](https://about.gitlab.com/company/okrs/#maintaining-the-status-of-okrs) of epics and issues.
+1. Set the [Health status](/handbook/company/okrs/#maintaining-the-status-of-okrs) of epics and issues.
 1. In the case where weekly assessment is impractical, an assessment shall be made by the end of each month.
 
 #### Staff Engineers, Distinguished Engineers, and Fellows
@@ -263,7 +263,7 @@ Below are tips for developing individual's OKRs:
 
 1. Align OKRs to team goals. However, it's unnecessary to derive from all organizational OKRs. Simply decide what makes sense to your personal situation.
 1. Follow the same timeline of managers and directors, i.e. stubbing out early and bring OKRs in shape by the end of the current quarter.
-1. Refer to the same [walk-through example of OKR format](/company/okrs/#example-developments-approach-to-okrs).
+1. Refer to the same [walk-through example of OKR format](/handbook/company/okrs/#example-developments-approach-to-okrs).
 1. Make [SMART](https://en.wikipedia.org/wiki/SMART_criteria) OKRs - Specific, Measurable, Achievable, Relevant, Time-bound.
 1. Follow the same progress assessment instructions above.
 
@@ -381,9 +381,9 @@ quality, product management, and development.
 
 Execution of a Global prioritization can take many forms.  This is worked with both Product and Engineering Leadership engaged.  Either party can activate a proposal in this area.  The options available and when to use them are the following:
 
-* [Rapid action](https://about.gitlab.com/handbook/product/product-processes/#rapid-action) - use when reassignment isn't necessary, the epic can have several issues assigned to multiple teams
-* [Borrow](https://about.gitlab.com/handbook/product/product-processes/#borrow) - use when a temporary assignment to a team is required to help resolve an issue/epic
-* [Realignment](https://about.gitlab.com/handbook/people-group/promotions-transfers/#realignment-of-team-members-impacting-multiple-teams) - use when a permanent assignment to a team is required to resolve ongoing challenges
+* [Rapid action](/handbook/product/product-processes/#rapid-action) - use when reassignment isn't necessary, the epic can have several issues assigned to multiple teams
+* [Borrow](/handbook/product/product-processes/#borrow) - use when a temporary assignment to a team is required to help resolve an issue/epic
+* [Realignment](/handbook/people-group/promotions-transfers/#realignment-of-team-members-impacting-multiple-teams) - use when a permanent assignment to a team is required to resolve ongoing challenges
 
 ### Email alias and roll-up
 
@@ -403,11 +403,11 @@ Teams roll up by the org chart hierarchy -
 
 When Development collaborates with Support it provides invaluable insight into how customers are using the product and the challenges they run into. A few tips to make the process efficient:
 
- - Get [access to Zendesk](https://about.gitlab.com/handbook/support/internal-support/#requesting-a-zendesk-light-agent-account) so you view the question and communication from customers.
+ - Get [access to Zendesk](/handbook/support/internal-support/#requesting-a-zendesk-light-agent-account) so you view the question and communication from customers.
  - Always write answers in a way that they can be "cut-and-pasted" and sent to a customer.
  - Reference documentation in your responses and make updates to GitLab documentation when needed.
  - Refer to existing issues and epics to reiterate our transparency value and to invite participation from the customer.
-- If you are unclear about the support-development collaboration process or workflow then please refer to the handbook page [how to use gitlab.com to request help from the GitLab development team](https://about.gitlab.com/handbook/support/workflows/how-to-get-help.html#how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-development-team)
+- If you are unclear about the support-development collaboration process or workflow then please refer to the handbook page [how to use gitlab.com to request help from the GitLab development team](/handbook/support/workflows/how-to-get-help.html#how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-development-team)
 
 ### Incident Management
 
@@ -465,7 +465,7 @@ Some areas have already been identified that meet the definition above, and may 
 | [Specific fulfillment product areas](/handbook/engineering/development/fulfillment/#revenue-impacting-changes) | potentially impact revenue |                                                                                                                       |
 | Runtime language updates | impacts to multiple services | [Ruby Upgrade Guidelines](https://docs.gitlab.com/ee/development/ruby_upgrade.html#ruby-upgrade-guidelines)           |
 | Application framework updates | impacts to multiple services | [Rails Upgrade Guidelines](https://docs.gitlab.com/ee/development/rails_update.html)                                  |
-| Navigation | impact to entire application | [Proposing a change that impacts navigation](https://about.gitlab.com/handbook/product/ux/navigation                  |
+| Navigation | impact to entire application | [Proposing a change that impacts navigation](/handbook/product/ux/navigation                  |
 
 ## AI-powered stakeholders
 
