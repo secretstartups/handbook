@@ -7,12 +7,12 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 
 ## GitLab with Git Basics labs
 
-- [Lab 1: Create a project and an issue](/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandsonlab1.html)
-- [Lab 2: Work with Git locally](/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandsonlab2.html)
-- [Lab 3: Use GitLab to merge code](/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandsonlab3.html)
-- [Lab 4: Build a `.gitlab-ci.yml` file](/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandsonlab4.html)
-- [Lab 5: Auto DevOps with a predefined project template](/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandsonlab5.html)
-- [Lab 6: Static Application Security Testing (SAST)](/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandsonlab6.html)
+- [Lab 1: Create a project and an issue](/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandsonlab1)
+- [Lab 2: Work with Git locally](/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandsonlab2)
+- [Lab 3: Use GitLab to merge code](/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandsonlab3)
+- [Lab 4: Build a `.gitlab-ci.yml` file](/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandsonlab4)
+- [Lab 5: Auto DevOps with a predefined project template](/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandsonlab5)
+- [Lab 6: Static Application Security Testing (SAST)](/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandsonlab6)
 
 ## Quick links
 
