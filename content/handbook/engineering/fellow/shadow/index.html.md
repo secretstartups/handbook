@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: "Engineering Fellow Shadow"
 description: "GitLab engineers: work with an Engineering Fellow for a week"
 ---
@@ -22,7 +22,7 @@ The Engineering Fellow Shadow Program is not a performance evaluation or the nex
 
 ### Things to know
 
-* The Engineering Fellow Shadow Program is temporarily fully remote because of COVID-19 [travel restrictions](https://about.gitlab.com/handbook/ceo/shadow/#travel-guidance-covid-19). The shadows will participate in all meetings from their usual work environment
+* The Engineering Fellow Shadow Program is temporarily fully remote because of COVID-19 [travel restrictions](/handbook/ceo/shadow/#travel-guidance-covid-19). The shadows will participate in all meetings from their usual work environment
 * The duration is one week per person.
 * Don't plan to do any of your usual work. Tell your team you're on paid time off.
 * The company will pay for travel and hotel when the programs returns to in-person.
