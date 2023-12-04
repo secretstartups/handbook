@@ -286,9 +286,9 @@ The Vice President of Solution Architecture is a job grade [12](/handbook/total-
 
 Specialty responsibilities and requirements may extend or overlay [Level roles](#levels) for a team member who has a specialty role.
 
-### Channel Solution Architect
+### Channel Solutions Architect
 
-#### Channel Solution Architect Responsibilities
+#### Channel Solutions Architect Responsibilities
 
 - Since this role deals primarily with partner relationships, any responsibilities in an individual's [Role Level](#levels) that reference customers can also be fulfilled by Partners. If responsibilities appear duplicated, the version in this description has priority due to being more specific to your role.
 - Engage in a technical consultancy role for channel and system integrator partners, providing technical assistance and guidance specific to the selling and service delivery readiness of Gitlab Channel partners.
@@ -298,13 +298,13 @@ Specialty responsibilities and requirements may extend or overlay [Level roles](
 - Educate channel partners of all sizes on the value proposition of GitLab, and participate in all levels of discussions throughout the organization to ensure our solution is set up for successful deployment.
 - Work on site with strategic channel partners, delivering solutions architecture consulting, technical guidance, knowledge transfer, and earn “trusted advisor status.”
 - Enable the partners to provide technical evaluations via POC/POV ownership, RFP/audit support, and workshop design.
-- Capture and share best-practice knowledge amongst the GitLab community and other channel solution architects.
+- Capture and share best-practice knowledge amongst the GitLab community and other channel solutions architects.
 - Author or otherwise contribute to GitLab customer-facing publications such as whitepapers, blogs, diagrams, reference architectures, or the GitLab Handbook.
 - Build deep relationships with senior technical people within partnerships to enable them to be GitLab advocates.
 - Serve as the partner advocate to other GitLab teams, including Product Development, Sales, and Marketing.
 - Present GitLab platform strategy, concepts, and roadmap to technical leaders within channel partner organizations.
 
-#### Channel Solution Architect Requirements
+#### Channel Solutions Architect Requirements
 
 - Extends the Solutions Architect requirements
 - Experience building solutions and professional services through channel partnerships
