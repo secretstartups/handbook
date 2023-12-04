@@ -1,13 +1,6 @@
 ---
-
 title: Expansion Development Department
 ---
-
-
-
-
-
-
 
 ## Vision
 
@@ -51,18 +44,13 @@ The development team is responsible for developing products in the following cat
 
 The following people are permanent members of the Development Department:
 
-<%
-departments = ['Expansion', 'Fulfillment', 'Growth', 'Sec']
-department_regexp = /(#{Regexp.union(departments)})/
-%>
-
-<%=  direct_team(role_regexp: department_regexp, manager_role: 'VP of Incubation Engineering') %>
+{{< team-by-departments departments="Expansion,Fulfillment,Growth,Sec" manager="VP of Incubation Engineering" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Development/, direct_manager_role: 'VP of Incubation Engineering') %>
+<!-- <%= stable_counterparts(role_regexp: /[,&] Development/, direct_manager_role: 'VP of Incubation Engineering') %> -->
 
 ## Development-Specific People Processes
 
@@ -137,15 +125,9 @@ Here are some curated resources to get you started:
 
 [Link to dashboard](https://app.periscopedata.com/app/gitlab/1008238/Next-Prioritization---VP-of-Development)
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="100%" style="min-height:1000px;" src="<%= signed_periscope_url({ dashboard: 1008238 , embed: "v2"}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{< sisense dashboard="1008238" >}}
 
-<%= partial "includes/_cross-functional-prioritization.erb" %>
+{{% include "includes/cross-functional-prioritization.md" %}}
 
 ### Cross-Functional Collaboration
 
