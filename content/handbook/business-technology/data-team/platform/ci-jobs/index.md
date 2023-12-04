@@ -189,8 +189,9 @@ You can also add `--fail-fast` to the end of the model selection to quickly end 
 
 If removing a model it's useful to run any dbt pipeline just to check it still compiles. In example you could run +dim_date to check that it works.
 
+{{% alert title="Attention" color="warning" %}}
 The jobs in this state are in the process of being updated.  Be aware that some jobs may not be available or may not function as described in full.
-{: .alert .alert-warning}
+{{% /alert %}}
 
 #### `🏗️🏭build_changes`
 
