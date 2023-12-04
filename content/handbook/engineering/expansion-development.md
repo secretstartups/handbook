@@ -1,5 +1,5 @@
 ---
-title: Core Development Department
+title: Expansion Development Department
 ---
 
 ## Vision
@@ -10,23 +10,13 @@ Scale and develop our diverse, global team to drive results that support our pro
 
 GitLab's unique way of working asynchronously, handbook first, using the product we develop, and with clear focus on our values enables very high productivity. In delivering on growth, we maintain our values and ways of working while developing team members and increasing the diversity of our team. We focus on constantly improving usability and reliability of our product to reach maximum customer satisfaction. Community contributions and customer interactions rely on efficient and effective communication. We are a data-driven, customer experience first, open core organization delivering one secure, reliable, world leading DevOps platform.
 
-## FY23 Direction
-
-FY23 has similar ambitions as FY22. During FY22, the Development department focused on reliability/security, team, SUS, and product. We added EA (Engineering Allocation) and the FCL (Feature Change Lock) processes to support the improvements in reliability and security. We reduced the number of past due issues in both categories by 77% and 72% respectively, and continue focusing on reducing this further. We have grown the team by 22% during FY22 while retaining 90% of team members, and have set ourselves up for further growth in FY23. We have begun investing further in SUS improvements after seeing a 7% improvement via various activities, including component migrations. We have improved the product using standard product management and development processes. Users want to see these improvements as well as improvements in reliability and security.
-
-As we have set ourselves at the end of FY22, FY23 will focus on growth, efficiency, usability, product, and diversity.
-
-### Growth
-
-This year we have goals to increase the size of the Development Department by over 20% to increase our team's capacity to deliver in new and existing product areas. To achieve this, we are focused on collaborating closely with our recruiting team, building a diverse pipeline of candidates, and successfully onboarding new team members into our way of working. Each sub-department will set goals for their teams to hire based on planned headcount increases. We expect to meet our hiring goals while not going over, which is essential to 1) meeting the growing development needs of GitLab's [business strategy](/handbook/company/strategy/) and 2) hiring at a predictable rate in-line with our financial plans. We commit to investing dedicated time and budget in learning and development, specifically to development topics through internal courses, such as O'Reilly Learn, etc.
-
 ### Efficiency
 
-GitLab's Development group ships thousands of product merge requests per month. Continuing to scale our development process to an ever larger number of contributors requires efficiency, collaboration, and iteration. In FY23, we want to keep our MR Rate stable as we continue to onboard new team members, increasing our overall output and demonstrating the scalability of our approach to development. We will focus on training our new hires on iteration and process improvements, saving team members time. We will also review the best metrics to focus on and are considering moving back to an overall MR Rate measure (from an authorship one). Doing so will help us measure the efficiency of our responsiveness to our peers for the company and the community.
+GitLab's Development group ships thousands of product merge requests per month. Continuing to scale our development process to an ever larger number of contributors requires efficiency, collaboration, and iteration. In FY24, we want to keep our MR Rate stable as we continue to onboard new team members, increasing our overall output and demonstrating the scalability of our approach to development. We will focus on training our new hires on iteration and process improvements, saving team members time. We will also review the best metrics to focus on and are considering moving back to an overall MR Rate measure (from an authorship one). Doing so will help us measure the efficiency of our responsiveness to our peers for the company and the community.
 
 ### Usability
 
-User experience is a continued focus area for FY23.  Millions of customers use GitLab so UX improvements can have a huge collective impact across all of these individuals.  We support this effort both in the product development as well as in our architecture. This includes continued conversion of [Pajamas components](https://about.gitlab.com/handbook/engineering/ux/pajamas-design-system/) in order to continue to improve performance experienced by users.   Also efforts like burning down significant ([Sev 1](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=SUS%3A%3AImpacting&label_name%5B%5D=severity%3A%3A1&first_page_size=100) and [Sev 2](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=SUS%3A%3AImpacting&label_name%5B%5D=severity%3A%3A2&first_page_size=100)) usability issues, addressing [Usability Benchmark insights](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Usability%20benchmark&first_page_size=100), are part of our short and long term goals.
+User experience is a continued focus area for FY24.  Millions of customers use GitLab so UX improvements can have a huge collective impact across all of these individuals.
 
 Development team members should also constantly suggest and investigate how to improve the overall user experience of the product. These can range from enhancing performance (actual and perceived), suggesting new technologies, solving user experience issues efficiently, etc.
 
@@ -42,35 +32,25 @@ We will follow our parent department [Engineering](https://about.gitlab.com/hand
 
 ## Organizational responsibilities
 
-The core development team is responsible for developing products in the following categories:
+The development team is responsible for developing products in the following categories:
 
-- [Dev](/handbook/engineering/development/dev/)
-- [Ops](/handbook/engineering/development/ops/)
-- [Enablement](/handbook/engineering/infrastructure/core-platform/)
+- [Sec](/handbook/engineering/development/sec/)
+- [Data Science](/handbook/engineering/development/data-science/)
+- [Fulfillment](/handbook/engineering/development/fulfillment/)
+- [Growth](/handbook/engineering/development/growth/)
+
 
 ## Team Members
 
 The following people are permanent members of the Development Department:
 
-{{< team-by-departments departments="Verify,Package,Release,Dev,Enablement,Ops,Fellow" manager="VP of Development" >}}
+{{< team-by-departments departments="Expansion,Fulfillment,Growth,Sec" manager="VP of Incubation Engineering" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<!-- <%= stable_counterparts(role_regexp: /[,&] Development/, direct_manager_role: 'VP of Development') %> -->
-
-## Team Composition
-
-This is the breakdown of our department by section and by stage.
-
-{{< sisense chart="8817664" dashboard="673088" >}}
-
-{{< sisense chart="8817717" dashboard="673088" >}}
-
-This is the stack-up of our engineers, by level.
-
-{{< sisense chart="8737993" dashboard="673088" >}}
+<!-- <%= stable_counterparts(role_regexp: /[,&] Development/, direct_manager_role: 'VP of Incubation Engineering') %> -->
 
 ## Development-Specific People Processes
 
@@ -89,10 +69,10 @@ Development adheres to the company-wide quarterly timeline outlined [here](/hand
 **The Development Department has an additional formal step built in to our promotion process beyond what the company is currently adhering to through our peer review process**. Ahead of the commencement of the [Calibration](/handbook/people-group/promotions-transfers/#calibration) stage of our process, all promotion documents should be peer reviewed by a Senior Manager or Director. The due date to complete the peer review is _before_ the scheduled Calibration session.
 
 FY'23 Calibration sessions:
-1. FY23-Q1: January 13, 2022
-2. FY23-Q2: April 7, 2022
-3. FY23-Q3: June 30, 2022
-4. FY23-Q4: October 5, 2022
+1. FY24-Q1: January 13, 2022
+2. FY24-Q2: April 7, 2022
+3. FY24-Q3: June 30, 2022
+4. FY24-Q4: October 5, 2022
 
 Calibration session attendees are the following team members: Senior Managers, Directors, Sr. Directors, VP, and Development's aligned People Business Partner. Leaders are welcome to conduct Calibration sessions prior to the scheduled sessions above with their sub-departments as well (though this is not a requirement).
 
@@ -125,26 +105,11 @@ In line with our [guidance on feedback](/handbook/people-group/guidance-on-feedb
 
 ### Talent Assessment Process
 
-Talent Assessment Process guidelines specific for the Core Development Department is documented in [this handbook page](./processes/talent-assessment/).
-
-### Annual Compensation Review
-
-The SSOT timeline for the upcoming Annual Compensation Review can be found [here](/handbook/total-rewards/compensation/compensation-review-cycle/#january). Below you will find additional dates specific to the Development department to ensure all levels have time to review as we move through the process.
-
-Phase 1 (cash only):
-- January 9-13 @5pm PT - Manager level finalizes comp recommendations
-- January 16-17 @5pm PT - Sr Mgr (or next level; Director in some cases) finalize comp recommendations
-- January 18-19 @5pm PT - VP, Development direct reports (Dir/Sr Dir) finalize comp recommendations
-- January 20-23 @ 5pm PT - VP/PBP finalize comp recommendations
-
-Phase 2 (equity only):
-- February TBD
-
+Talent Assessment Process guidelines specific for the Expansion Development Department is documented in [this handbook page](/handbook/engineering/development/processes/talent-assessment/).
 
 ### How we hire contractors
 
-
-In [this handbook page](./processes/hiring-contractors.html) we document the process that the development department follows, including planning budget, candidate sourcing, interview process, contracting and onboarding.
+In [this handbook page](/handbook/engineering/development/processes/hiring-contractors.html) we document the process that the development departments follow, including planning budget, candidate sourcing, interview process, contracting and onboarding.
 
 ## How We Work
 
@@ -339,14 +304,14 @@ The shared services and components below are extracted from the GitLab [product 
 | HAproxy |  | Centralized with Specific Team | @amoter | [Infrastructure](/handbook/engineering/infrastructure/team/reliability/foundations.html) |  |
 | Jaeger |  | Centralized with Specific Team | @dawsmith | Infrastructure:Observability | Observability team made the [initial implementation/deployment](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/210). |
 | LFS |  | Centralized with Specific Team | @sean_carroll | [Create:Source Code](https://about.gitlab.com/handbook/engineering/development/dev/create/source-code-be/) |  |
-| Logrotate |  | Centralized with Specific Team | @plu8  | [Distribution](/handbook/engineering/infrastructure/core-platform/systems/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
-| Mattermost |  | Centralized with Specific Team | @plu8  | [Distribution](/handbook/engineering/infrastructure/core-platform/systems/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
+| Logrotate |  | Centralized with Specific Team | @twk3 | [Distribution](/handbook/engineering/infrastructure/core-platform/systems/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
+| Mattermost |  | Centralized with Specific Team | @twk3 | [Distribution](/handbook/engineering/infrastructure/core-platform/systems/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
 | MinIO |  | Decentralized |  |  | Some issues can be broken down into group-specific issues. Some issues may need more work identifying user or developer impact in order to find a DRI. |
-| NGINX |  | Centralized with Specific Team | @plu8  | [Distribution](/handbook/engineering/infrastructure/core-platform/systems/distribution/) |  |
+| NGINX |  | Centralized with Specific Team | @twk3 | [Distribution](/handbook/engineering/infrastructure/core-platform/systems/distribution/) |  |
 | Object Storage |  | Centralized with Specific Team |  @lmcandrew | [Scalability::Frameworks](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#scalabilityframeworks) |  |
-| Patroni | General except Geo secondary clusters | Centralized with Specific Team | @plu8  | [Distribution](/handbook/engineering/infrastructure/core-platform/systems/distribution/) |  |
+| Patroni | General except Geo secondary clusters | Centralized with Specific Team | @twk3 | [Distribution](/handbook/engineering/infrastructure/core-platform/systems/distribution/) |  |
 |  | Geo secondary standby clusters | Centralized with Specific Team | @juan-silva | [Geo](/handbook/engineering/infrastructure/core-platform/systems/geo/) |  |
-| PgBouncer |  | Centralized with Specific Team | @plu8  | [Distribution](/handbook/engineering/infrastructure/core-platform/systems/distribution/) |  |
+| PgBouncer |  | Centralized with Specific Team | @twk3 | [Distribution](/handbook/engineering/infrastructure/core-platform/systems/distribution/) |  |
 | PostgreSQL | PostgreSQL Framework and Tooling | Centralized with Specific Team | @alexives | [Database](/handbook/engineering/infrastructure/core-platform/data_stores/database/) | Specific to the development portion of PostgreSQL, such as the fundamental architecture, testing utilities, and other productivity tooling |
 |  | GitLab Product Features | Decentralized |  |  | Examples like feature specific schema changes and/or performance tuning, etc. |
 | Prometheus |  | Decentralized |  |  | Each group maintains their own metrics.  |
@@ -420,8 +385,8 @@ These [frequently asked questions](/handbook/engineering/infrastructure/incident
 
 ### Development Escalation Process
 
-- [General information](./processes/Infra-Dev-Escalation/)
-- [Process outline](./processes/Infra-Dev-Escalation/process.html)
+- [General information](/handbook/engineering/development/processes/Infra-Dev-Escalation/)
+- [Process outline](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html)
 
 ### Reducing the impact of far-reaching work
 
@@ -465,7 +430,7 @@ Some areas have already been identified that meet the definition above, and may 
 | [Specific fulfillment product areas](/handbook/engineering/development/fulfillment/#revenue-impacting-changes) | potentially impact revenue |                                                                                                                       |
 | Runtime language updates | impacts to multiple services | [Ruby Upgrade Guidelines](https://docs.gitlab.com/ee/development/ruby_upgrade.html#ruby-upgrade-guidelines)           |
 | Application framework updates | impacts to multiple services | [Rails Upgrade Guidelines](https://docs.gitlab.com/ee/development/rails_update.html)                                  |
-| Navigation | impact to entire application | [Proposing a change that impacts navigation](/handbook/product/ux/navigation                  |
+| Navigation | impact to entire application | [Proposing a change that impacts navigation](/handbook/product/ux/navigation)                  |
 
 ## AI-powered stakeholders
 
@@ -473,16 +438,16 @@ This section provides an overview of all teams invested in implementing and main
 
 These are the stakeholders:
 
+
 | Team                                                                                                                                                           | Stake |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |
 | [Create:IDE](https://about.gitlab.com/handbook/engineering/development/dev/create/ide)                                                                         | Owns the WebIDE ([maintainers](https://gitlab-org.gitlab.io/gitlab-roulette/?currentProject=gitlab-web-ide&mode=show&hidden=reviewer))  |
 | [Editor Extensions](https://about.gitlab.com/handbook/engineering/development/dev/create/editor_extensions/)                                                   | Maintains the GitLab Workflow VS Code Extension ([maintainers](https://gitlab-org.gitlab.io/gitlab-roulette/?currentProject=gitlab-vscode-extension&mode=show&hidden=reviewer)), [Jetbrains](https://gitlab.com/groups/gitlab-org/-/epics/6349), [Neovim](https://gitlab.com/groups/gitlab-org/-/epics/10739), [Visual Studio](https://gitlab.com/groups/gitlab-org/-/epics/10668) extensions and the [language server](https://gitlab.com/groups/gitlab-org/-/epics/2431). Also contributes with UX improvements for Code Suggestions within GitLab Workflow. |
 | [Enablement:Cloud Connector](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/cloud-connector/) (`@mkaeppler`, `@nmilojevic1`) | AI-Assissted for Self-Managed |
-| [AI Framework](https://about.gitlab.com/handbook/engineering/development/data-science/ai-framework/)                                                           | GitLab Chat / Abstraction Layer and GitLab Chat for VSCode and WebIDE|
+| [AI Framework](https://about.gitlab.com/handbook/engineering/development/data-science/ai-framework/)                                                           | GitLab Chat / Abstraction Layer and  GitLab Chat for VSCode and WebIDE|
 | [Create:Code Creation](https://about.gitlab.com/handbook/engineering/development/dev/create/code-creation/)                                                    | Code Suggestions |
 | [AI Model Validation Group](https://about.gitlab.com/handbook/engineering/development/data-science/ai-assisted/)                                               | Suggested Reviewer, Code Suggestions AI Gateway functionality, Evaluating and tuning ML Models |
 | [Infrastructure](https://about.gitlab.com/handbook/engineering/infrastructure/)                                                                                | Code Suggestions AI Gateway scalability |
-
 ## ClickHouse Datastore usage
 
 [ClickHouse usage by Monitor:Observability group](/handbook/engineering/development/ops/monitor/observability/#clickhouse-datastore)
@@ -505,16 +470,6 @@ If development is the DRI or actively participating in a [Customer Account Escal
 Remind GitLab team members in Slack to update the status of items they are the DRI for before recurring meetings.
 * Post a link to the meeting notes and recording in a Slack channel for the customer escalation, so those who did not attend know that the notes and recording are available for review.
 * When there is an action item for someone in a meeting (whether they are present or not), tag them in an issue or MR (or in Slack) so they will see it.
-
-## Books
-
-Note: books in this section [can be expensed](/handbook/spending-company-money/).
-
-Interested in reading this as part of a group? We occasionally self-organize [book](/handbook/leadership/book-clubs/)
-clubs around these books and those listed on our [Leadership page](/handbook/leadership/#books).
-
-1. [The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009/)
-1. [Software Engineering at Google](https://gitlab.com/gitlab-com/book-clubs/-/issues/10)
 
 ## FY24 Team Building "Fun" Budget
 
@@ -552,5 +507,5 @@ The team building budget may be used for a variety of activities, including but 
 
 * [Development department board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1008667?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Development%20Department)
 * [Current OKR's](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1008667?scope=all&utf8=✓&state=opened&label_name[]=Development%20Department&label_name[]=OKR)
-* Slack channel [#development](https://gitlab.slack.com/messages/C02PF508L)
+* Slack channel #expansion-development
 * [Manager Notes](/handbook/engineering/development/managers/)

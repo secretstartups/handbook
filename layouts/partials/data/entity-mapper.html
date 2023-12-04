@@ -1,10 +1,9 @@
 {{- $entityMapper := dict }}
-{{- $dataURL := printf "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/data/entity_mapper.yml"}}
-{{- with resources.GetRemote $dataURL }}
+{{- with resources.GetRemote "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/data/entity_mapper.yml" }}
   {{- with .Err}}
     <h2>Unable to fetch performance indicator Data</h2>
   {{- else }}
-      {{- $entityMapper := . | transform.Unmarshal }}
+      {{- $entityMapper = . | transform.Unmarshal }}
   {{- end }}
 {{- end }}
 {{- return $entityMapper }}
