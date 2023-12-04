@@ -1,14 +1,7 @@
 ---
-layout: handbook-page-toc
 title: "Infrastructure and Quality department"
 description: ""
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 # Vision
 
@@ -16,9 +9,9 @@ Our vision is to be a world-class Infrastructure & Tools department that enables
 
 We:
 
-1. Build critical infrastructure, metrics & tools that enable GitLab Engineering & Product teams to do their best work efficiently and ship high-quality & reliable products to our customers.  
+1. Build critical infrastructure, metrics & tools that enable GitLab Engineering & Product teams to do their best work efficiently and ship high-quality & reliable products to our customers.
 1. Are customer focused. We have an ambitious drive to attain high availability & reliability for SaaS platforms and self-managed customers.
-1. Provide and maintain best practice tools and methodologies that create a platform for engineering teams to do their work productively. 
+1. Provide and maintain best practice tools and methodologies that create a platform for engineering teams to do their work productively.
 1. Enable GitLab Engineering & Product teams to run services effectively using our tools, to meet business needs & SLOs.
  
 # Direction
@@ -29,8 +22,8 @@ Direction is set within the [Infrastructure](/handbook/engineering/infrastructur
 
 With the consolidation of previously separate departments (Infrastructure, Quality), we are in the process of also consolidating previously separate handbook pages:
 
-* [Infrastructure](/handbook/engineering/infrastructure/)
-* [Quality](/handbook/engineering/quality/)
+- [Infrastructure](/handbook/engineering/infrastructure/)
+- [Quality](/handbook/engineering/quality/)
 
 We welcome contributions, and if you find an opportunity to consolidate information, please submit a Merge Request!
 
@@ -38,16 +31,16 @@ We welcome contributions, and if you find an opportunity to consolidate informat
 
 Two distinct groups are responsible for infrastructure at GitLab:
 
-* [**Platforms**](/handbook/engineering/infrastructure/platforms/), responsible for software delivery, scaling and operations of single and multi tenant GitLab SaaS
-* [**Reliability**](/handbook/engineering/infrastructure/team/reliability/), which operate all user-facing GitLab.com services.
+- [**Platforms**](/handbook/engineering/infrastructure/platforms/), responsible for software delivery, scaling and operations of single and multi tenant GitLab SaaS
+- [**Reliability**](/handbook/engineering/infrastructure/team/reliability/), which operate all user-facing GitLab.com services.
 
 To create an issue, or find how to engage with the related teams you can use the links below:
 
-* [Delivery](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/new) - Follow [directions how to reach us urgently](/handbook/engineering/infrastructure/team/delivery/#reaching-our-team)
-* [Reliability](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=default)
-  * You can [read more about how reliability triages issues here.](/handbook/engineering/infrastructure/team/reliability/issues.html#issue-board)
-* [Scalability](/handbook/engineering/infrastructure/team/scalability/#working-with-us)
-* [GitLab Dedicated](/handbook/engineering/infrastructure/team/gitlab-dedicated/#working-with-us)
+- [Delivery](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/new) - Follow [directions how to reach us urgently](/handbook/engineering/infrastructure/team/delivery/#reaching-our-team)
+- [Reliability](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=default)
+  - You can [read more about how reliability triages issues here.](/handbook/engineering/infrastructure/team/reliability/issues.html#issue-board)
+- [Scalability](/handbook/engineering/infrastructure/team/scalability/#working-with-us)
+- [GitLab Dedicated](/handbook/engineering/infrastructure/team/gitlab-dedicated/#working-with-us)
 
 
 ## Engaging with the Quality teams
@@ -81,11 +74,11 @@ GitLab is an all-remote, timezone distributed company as such we optimize for as
 
 A well prepared meeting:
 
-1. _must_ have a Google Doc agenda attached to the invite, organized by date, and with edit rights open to GitLab. This allows participants to prepare before the start of each meeting, and take notes druing the meeting.
-1. _must_ [start on time](/company/culture/all-remote/meetings/#3-start-on-time-end-on-time)
-1. _can_ have a read-only, and discussion section. Read-only section does not get verbalized, but the questions around read-only items can be asked in the discussion section
-1. _can_ have multiple topics.
-1. _can_ be deliberately be scheduled to occur twice to better include all global participants. This is considered to be the _same_ meeting, just held at different times.
+1. *must* have a Google Doc agenda attached to the invite, organized by date, and with edit rights open to GitLab. This allows participants to prepare before the start of each meeting, and take notes druing the meeting.
+1. *must* [start on time](/company/culture/all-remote/meetings/#3-start-on-time-end-on-time)
+1. *can* have a read-only, and discussion section. Read-only section does not get verbalized, but the questions around read-only items can be asked in the discussion section
+1. *can* have multiple topics.
+1. *can* be deliberately be scheduled to occur twice to better include all global participants. This is considered to be the *same* meeting, just held at different times.
 
 The following cross-functional meetings are regularly scheduled:
 
@@ -102,14 +95,16 @@ The following cross-functional meetings are regularly scheduled:
 |Anything for Reliability Leadership | Reliability [Ask me Anything](https://handbook.gitlab.com/handbook/communication/ask-me-anything/) | Reliability (anyone is welcome) | Monthly (last Wednesday) |
 
 ## OKR
+
 Department level view of [OKR](/company/okrs/) and scoring is on our [Infrastructure & Quality OKR page](/handbook/engineering/infrastructure-quality/okrs/)
 
 Each sub-department has different guidance on OKR:
-* [Reliability](/handbook/engineering/infrastructure/team/reliability/#okrs)
-* [Platforms](/handbook/engineering/infrastructure/platforms/#okr)
-* [Test Platform](/handbook/engineering/infrastructure/test-platform/#okrs)
-* [Engineering Productivity](/handbook/engineering/quality/engineering-productivity/#okrs)
-* [Engineering Analytics](/handbook/engineering/quality/engineering-analytics/#okrs)
+
+- [Reliability](/handbook/engineering/infrastructure/team/reliability/#okrs)
+- [Platforms](/handbook/engineering/infrastructure/platforms/#okr)
+- [Test Platform](/handbook/engineering/infrastructure/test-platform/#okrs)
+- [Engineering Productivity](/handbook/engineering/quality/engineering-productivity/#okrs)
+- [Engineering Analytics](/handbook/engineering/quality/engineering-analytics/#okrs)
 
 ## Key Review
 
@@ -128,10 +123,10 @@ Group Conversation DRI [Schedule](/handbook/group-conversations/#current-schedul
 Quick checklist for the host (time order):
 
 1. Make the GC slides (copy from a prior presentation) ~ 10 days before the GC
-2. [Watch how to stream on youtube](/handbook/marketing/marketing-operations/youtube/#livestream-with-zoom)
-3. Do a test stream on youtube.
-4. Review the [handbook instructions for Group Conversation Meeting Leaders](/handbook/group-conversations/#for-meeting-leaders) and follow the required process.
-5. 20 minutes before - open up Zoom and check for any updates.
+1. [Watch how to stream on youtube](/handbook/marketing/marketing-operations/youtube/#livestream-with-zoom)
+1. Do a test stream on youtube.
+1. Review the [handbook instructions for Group Conversation Meeting Leaders](/handbook/group-conversations/#for-meeting-leaders) and follow the required process.
+1. 20 minutes before - open up Zoom and check for any updates.
 
 |**GC Date**|**DRI**|
 | 2023-04-26 | Platforms EM |
