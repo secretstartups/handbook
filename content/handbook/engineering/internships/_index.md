@@ -1,16 +1,16 @@
 ---
-layout: handbook-page-toc
+
 title: "Engineering Internships"
 description: "Learn about GitLab's engineering internship program."
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 # <i class="far fa-newspaper" id="biz-tech-icons"></i>  About
 
