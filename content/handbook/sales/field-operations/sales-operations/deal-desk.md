@@ -24,18 +24,18 @@ The Deal Desk team's mission is to streamline the opportunity management process
     - [Deal Desk Pending Opportunity Approvals Report](https://gitlab.my.salesforce.com/00O4M000004e0Dp)
 
 - **Frequently Used Handbook Pages**
-    - [Sales Order Processing](https://about.gitlab.com/handbook/sales/field-operations/order-processing/)
-    - [Deal Desk Opportunity Approval Process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/)
+    - [Sales Order Processing](/handbook/sales/field-operations/order-processing/)
+    - [Deal Desk Opportunity Approval Process](/handbook/sales/field-operations/order-processing/)
     - [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
-    - [Account Ownership Rules of Engagement](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement)
+    - [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement)
     - [ARR in Practice](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#heading=h.yycfjurntovz)
-    - [Vendor Setup Form Process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
+    - [Vendor Setup Form Process](/handbook/sales/field-operations/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
     - [Security Questionnaire Process](/handbook/security/#process)
     - [Troubleshooting: True Ups, Licenses + EULAS](
 https://about.gitlab.com/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/)
     - [Licensing FAQ](/pricing/licensing-faq/)
     - [Legal Authorization Matrix](/handbook/finance/authorization-matrix/)
-    - [Trade Compliance (Export/Import)](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#trade-compliance-export--import-and-visual-compliance-tool-in-salesforce)
+    - [Trade Compliance (Export/Import)](/handbook/sales/field-operations/order-processing/#trade-compliance-export--import-and-visual-compliance-tool-in-salesforce)
 
 - **Other Resources**
     - [Quote Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.ag75fqu12pf0)
@@ -155,7 +155,7 @@ Supported topics include:
 
 #### Deal Desk AMA
 
-Deal Desk AMA's are an opportunity to invite someone from Deal Desk to your local team call. We can help address any questions regarding quote processes, best practices, or unique deal structures. Think of this as an opportunity for your team to learn together on general topics for quoting or opportunity management. For specific questions related to in-flight opportunities, it is best to join [Deal Desk Office Hours](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#deal-desk-office-hours).
+Deal Desk AMA's are an opportunity to invite someone from Deal Desk to your local team call. We can help address any questions regarding quote processes, best practices, or unique deal structures. Think of this as an opportunity for your team to learn together on general topics for quoting or opportunity management. For specific questions related to in-flight opportunities, it is best to join [Deal Desk Office Hours](/handbook/sales/field-operations/sales-operations/deal-desk/#deal-desk-office-hours).
 
 Chatter or Slack #sales-support if you are interested in having Deal Desk join your team call!
 
@@ -220,7 +220,7 @@ The Deal Desk team will be responsible for taking action on feedback received in
 
 ### Key Performance Indicators: Results
 
-To review quarterly KPI results, see: [Deal Desk & Order Management KPI - Results](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/Deal-Desk-Order-Mgmt-KPIs/)
+To review quarterly KPI results, see: [Deal Desk & Order Management KPI - Results](/handbook/sales/field-operations/sales-operations/Deal-Desk-Order-Mgmt-KPIs/)
 
 ### Proactive Opportunity Review
 
@@ -244,7 +244,7 @@ The team will review opps on a monthly basis, as time allows throughout the work
 
 ### Calculating ARR
 
-To calculate ARR, please review the [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#annual-recurring-revenue-arr-and-salesforce) handbook page.
+To calculate ARR, please review the [ARR in Practice](/handbook/sales/sales-term-glossary/arr-in-practice/#annual-recurring-revenue-arr-and-salesforce) handbook page.
 
 ### **Zuora Quote Configuration Guide - Standard Quotes**
 
@@ -324,7 +324,7 @@ F.  **Add Annual Payments** to a order form by:
 - Updating "Initial Term" to 24, 36, 48, or 60. **If Intital Term is not updated correctly, the quote will not generate the correct Total**"
 - **All Annual Payment quotes** must use the 1 - Year Product SKU. You will see an error message if you select Annual Payments and anything other than the 1 - Year SKU.
 
-G. SuperSonics: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions)
+G. SuperSonics: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions)
 
 H.  **Order Form Generation**
 - If no discounts or special terms are requested, click “Generate PDF.”
@@ -523,7 +523,7 @@ The following is intended as a step by step guide for opportunity owners or ISRs
     - Updating "Renewal Term" to 24, 36, 48, or 60. **If Renewal Term is not updated correctly, the quote will not generate the correct Total**".
     - All Annual Payment quotes **must use the 1 Year Product SKU**. You will see an error message if you select Annual Payments and anything other than the 1 Year SKU.
 
-- **SuperSonics**: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions).
+- **SuperSonics**: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions).
 
 ##### **B. Renewal Using a New Subscription Quote**
 
@@ -544,7 +544,7 @@ This button launches the first of two pages in the quoting experience: The Billi
 
 ##### **C. Late renewal**
 
-For information on how to quote late renewals, [see here](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#late-renewals) .
+For information on how to quote late renewals, [see here](/handbook/sales/field-operations/order-processing/#late-renewals) .
 
 
 **To supplement these steps, review the [Highspot Page](https://gitlab.highspot.com/items/63c04679ce74a0ae63ca5e49) or the [RISE Course](https://rise.articulate.com/share/HzJgdaWzK1C_SwlMSCwQchgV9PbpRNvi#/) to see each step live for a New Subscription quote.**
@@ -587,7 +587,7 @@ A **Managed Service Provider (MSP)** purchases licenses on behalf of an end user
 A. MSP Opportunity Details:
 - MSP opportunities are always linked to the MSP partner account, not to the end user (i.e., customer) account
 - MSP opportunities should be owned by the sales rep that owns the underlying end user (i.e., customer) account
-- MSP new business opportunities are created by the Channel Manager via the [Deal Registration](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-msp-opportunities) process. If the end user has an existing subscription either directly or via partner, the related renewal opp will need to be set to Closed Lost by the opp owner on the customer account
+- MSP new business opportunities are created by the Channel Manager via the [Deal Registration](/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-msp-opportunities) process. If the end user has an existing subscription either directly or via partner, the related renewal opp will need to be set to Closed Lost by the opp owner on the customer account
 - MSP opportunities should have the following standard naming convention "[MSP End User] - [# of Seats] [Product Tier] [Deployment] [Order Type] (MSP via [Partner Name])". For example, "CompanyABC - 100 Premium SaaS Renewal (MSP via PartnerXYZ)"
 
 B. MSP Quote Creation Steps:
@@ -606,7 +606,7 @@ B. MSP Quote Creation Steps:
 
 Refer to the [MSP step-by-step quoting guide](https://gitlab.highspot.com/items/641241c62d511fd525a390e1) for further information.
 
-More details on MSP Deal Registration can be found in the [Partner Ops handbook](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-msp-opportunities).
+More details on MSP Deal Registration can be found in the [Partner Ops handbook](/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-msp-opportunities).
 
 
 #### Quoting Annual True-Ups
@@ -700,10 +700,10 @@ Salesforce Guided Selling filters have been updated. Legacy SKUs have been remov
 GitLab's Cloud Licensing experience allows for the activation and provisioning of Quarterly Subscription Reconciliation and Auto-Renewals, which apply to both SaaS and Self-Managed Subscription plans. In addition, the Cloud Licensing experience introduces Operational Data.
 
 To learn more about the SuperSonics Billing and Subscription Management experience and how it impacts your quote, review the following:
-- [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#auto-renewal-quarterly-subscription-reconciliation-and-operational-data-sales-assisted-transactions)
-- [How To Opt-Out of SuperSonics Features](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-opt-out-of-auto-renewal-quarterly-subscription-reconciliation-and-operational-data)
-- [How to Temporarily Pause SuperSonics Features](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-temporarily-pause-auto-renewal-quarterly-subscription-reconciliation-and-operational-data)
-- [More Resources](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#resources)
+- [SuperSonics and Sales Assisted Transactions](/handbook/sales/field-operations/order-processing/#auto-renewal-quarterly-subscription-reconciliation-and-operational-data-sales-assisted-transactions)
+- [How To Opt-Out of SuperSonics Features](/handbook/sales/field-operations/order-processing/#how-to-opt-out-of-auto-renewal-quarterly-subscription-reconciliation-and-operational-data)
+- [How to Temporarily Pause SuperSonics Features](/handbook/sales/field-operations/order-processing/#how-to-temporarily-pause-auto-renewal-quarterly-subscription-reconciliation-and-operational-data)
+- [More Resources](/handbook/sales/field-operations/order-processing/#resources)
 
 #### Quoting Professional Services
 
@@ -714,11 +714,11 @@ To learn more about the SuperSonics Billing and Subscription Management experien
 - Standard services are those for which a SKU exists in Zuora CPQ.
 - Standard services can be added to any New Business, Add-On, or Renewal quote alongside subscription product SKUs. (i.e. If you are selling a 12 month SaaS Ultimate deal, you can add a separate SKU on the same quote to sell the Rapid Results offering.)
 - For Standard Services, a signed Order Form is sufficient to book the deal. (Note, some customers may also require issuance of a PO)
-- More information on [Professional Services SKUs](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#professional-services-skus)
+- More information on [Professional Services SKUs](/handbook/customer-success/professional-services-engineering/#professional-services-skus)
 
 ##### Before submitting a Scoped/Custom Professional Services Opportunity for Closure:
 
-- For [standard professional services SKUs](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/SKUs/), only a signed order form is required.
+- For [standard professional services SKUs](/handbook/customer-success/professional-services-engineering/SKUs/), only a signed order form is required.
 
 ##### Creating a Professional Services Quote for Scoped/Custom Education or Services
 
@@ -735,7 +735,7 @@ To learn more about the SuperSonics Billing and Subscription Management experien
 
 
 **Note: You do not need to submit the quote for Custom services for approval.** Approvals will be handled by the Engagement Manager via the scoping issue, and any discounts in rate should be handled separately via Chatter, as per the [Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.dccvx02huo2y). The SAE/AE remains responsible for obtaining any approvals required. As well as discounts in price, this also includes increased payment terms. Once approved, the SOW will be sent to the customer for signature, not the quote/order form.
-- To gain support from the Professional Services team with a Custom SOW, initiate a scoping issue using the [Services Calculator](https://services-calculator.gitlab.io/) and work with a Professional Services [Engagement Manager](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/).
+- To gain support from the Professional Services team with a Custom SOW, initiate a scoping issue using the [Services Calculator](https://services-calculator.gitlab.io/) and work with a Professional Services [Engagement Manager](/handbook/customer-success/professional-services-engineering/engagement-mgmt/).
 
 ##### Before submitting a Scoped/Custom Professional Services Opportunity for Closure:
 
@@ -792,7 +792,7 @@ On the main contract reset opportunity, Deal Desk will populate the "Opportunity
 
 All Contract Reset opportunities will be classified as a "Renewal" and will be subject to ARR Basis, which will impact overall Net ARR depending on the scenario.
 
-For more information on ARR calculation for Contract Resets, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-contract-resets).
+For more information on ARR calculation for Contract Resets, see [ARR in Practice](/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-contract-resets).
 
 
 #### Concurrent Subscriptions
@@ -829,14 +829,14 @@ In the case of multi-year deals, the Initial Term should be updated to reflect t
 - Additional users can only be added on the same route to market a multi-year deal via add-on and amend subscription quote object.  To switch route to market, use an add-on opportunity with a new subscription quote object, co-termed with the existing subscription (there is no daily SKU, therefore the start date should be adjusted based on the end date; if the term is less than 12 months, use a monthly SKU).
 - Mid-term product upgrade can only be processed via the same route to market.
 
-For more information on ARR calculation for Multi-Year Deals, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#how-net-arr-is-calculated-for-standard-deals).
+For more information on ARR calculation for Multi-Year Deals, see [ARR in Practice](/handbook/sales/sales-term-glossary/arr-in-practice/#how-net-arr-is-calculated-for-standard-deals).
 
 #### Ramp Deals
 
 A Ramp Deal is a multi-year deal in which products can vary in price, quantity, or discount over set annual schedule or can remain flat for the entire duration of the subscription term.
 Customer pays upfront or annually, for all users planned in the ramp schedule.
-- In a ramp [add-on](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote), customer adds users throughout the subscription with no set schedule and pays a pro-rata rate.
-- Ramp deals are limited to multi-year deals, with 12 month ramp periods. See [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals) for more information.
+- In a ramp [add-on](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote), customer adds users throughout the subscription with no set schedule and pays a pro-rata rate.
+- Ramp deals are limited to multi-year deals, with 12 month ramp periods. See [ARR in Practice](/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals) for more information.
 
 
 ##### How to Create a Ramp Deal
@@ -901,7 +901,7 @@ On the opportunity, Deal Desk will populate the "Opportunity Category" field wit
 
 ###### How to create a Ramp Deal via CPQ X: Quote Studio
 
-To create a ramp deal, follow the foundational steps shared in the relevant [New Subscription Quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote), [Amend Subscription Quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote), or [Renew Subscription](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#renew-subscription-quote) quote sections above.
+To create a ramp deal, follow the foundational steps shared in the relevant [New Subscription Quote](/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote), [Amend Subscription Quote](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote), or [Renew Subscription](/handbook/sales/field-operations/sales-operations/deal-desk/#renew-subscription-quote) quote sections above.
 
 **Quote Detail Section**
 
@@ -927,7 +927,7 @@ Items to Note:
 
 **To supplement these steps, review the [Highspot Page](https://gitlab.highspot.com/items/63c04679ce74a0ae63ca5e49) or the [RISE Course](https://rise.articulate.com/share/HzJgdaWzK1C_SwlMSCwQchgV9PbpRNvi#/) to see each step live for a New Subscription quote.**
 
-For more information on ARR calculation for Ramp Deals, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals).
+For more information on ARR calculation for Ramp Deals, see [ARR in Practice](/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals).
 
 ### **Quotes - Miscellanous**
 
@@ -990,7 +990,7 @@ Can we have different term lengths on one quote?
 
 #### How to Create a Draft Proposal
 
-Follow the standard process for [quote creation](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes). The Quote Object **does not** need to be approved before generating a Draft proposal.
+Follow the standard process for [quote creation](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes). The Quote Object **does not** need to be approved before generating a Draft proposal.
 
 1. Click Edit Quote Details.
 2. Select the DRAFT - New Proposal quote template. Save.

@@ -6,7 +6,7 @@ description: "Solutions Architects (SA) who work with the Public Sector provide 
 # Public Sector Solutions Architect Handbook
 
 
-Solutions Architects (SA) who work with the [Public Sector](https://about.gitlab.com/handbook/sales/public-sector/) provide subject matter expertise and industry experience throughout the sales process to Public Sector customers within the United States.
+Solutions Architects (SA) who work with the [Public Sector](/handbook/sales/public-sector/) provide subject matter expertise and industry experience throughout the sales process to Public Sector customers within the United States.
 
 Because specific requirements and common engagement practices differ from Enterprise or Commercial customers, the guidance below exists to assist Solutions Architects who work with customers in the Public Sector specifically.
 
@@ -42,18 +42,18 @@ When the opportunity progresses to stage 4, the technical close plan is complete
 
 ## Success Management Program Introduction
 
-During each greenfield (new customer) sale, customers will move from the presales technical evaluation into procurement. During the presales period, the account sales team will introduce the Customer Success Management Program to [eligible customers](https://about.gitlab.com/handbook/customer-success/csm/services/#enterprise). This call will be led by the Solutions Architect.The introduction provides guidance on accessing GitLab Support, available CSM programs and GitLab Professional Services.
+During each greenfield (new customer) sale, customers will move from the presales technical evaluation into procurement. During the presales period, the account sales team will introduce the Customer Success Management Program to [eligible customers](/handbook/customer-success/csm/services/#enterprise). This call will be led by the Solutions Architect.The introduction provides guidance on accessing GitLab Support, available CSM programs and GitLab Professional Services.
 
 The goals of this introduction are many:
 1. Smoothly transition the new customer to post-sales relationships for support, guidance, advocacy and growth
-2. Ensure a smooth conversational shift from [Go to Market use cases](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/) to [DevOps stage adoption](https://about.gitlab.com/handbook/customer-success/csm/stage-adoption/)
+2. Ensure a smooth conversational shift from [Go to Market use cases](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/) to [DevOps stage adoption](/handbook/customer-success/csm/stage-adoption/)
 3. Validate customer access to [GitLab Support](/handbook/support/)
 4. Help the customer choose their level of CSM engagement after procurement
 5. Ensure the customer understands available [GitLab Professional Services and Enablement](https://about.gitlab.com/services/catalog/) options
 
 ### Program Flow
 
-Prior to introducing the program, the SA should ensure that all sales stage data is recorded and available to kick off the Success Management Program. The required workflow within [each sales stage](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/) is as follows:
+Prior to introducing the program, the SA should ensure that all sales stage data is recorded and available to kick off the Success Management Program. The required workflow within [each sales stage](/handbook/sales/field-operations/gtm-resources/) is as follows:
 
 Stages 0-2
 - As discovery occurs in early sales stages, the Stage Technology fields on the Account record in Salesforce should begin to be populated.

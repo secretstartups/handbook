@@ -56,7 +56,7 @@ The information contained on this page is organized into two distinct categories
     *NOTE - the Legal Stamp is not a signature*
     {.h4}
 
-1. Once the Agreement has been stamped by Legal, follow the [DocuSign Process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-send-an-order-form-to-the-customer-for-signature-via-docusign) to send the agreement for signature within SFDC.
+1. Once the Agreement has been stamped by Legal, follow the [DocuSign Process](/handbook/sales/field-operations/order-processing/#how-to-send-an-order-form-to-the-customer-for-signature-via-docusign) to send the agreement for signature within SFDC.
 1. All Sales Team Members have DocuSign access, please work with Sales Ops for any questions on how to use it. **Please be sure to copy the applicable Legal team member for all fully executed agreements**
 
 Need an NDA signed? Follow the process for [Team Members with DocuSign access](/handbook/legal/NDA/).
@@ -68,7 +68,7 @@ GitLab includes a signed version of the DPA on the Terms of Use website. As stat
 
 ### Letters of Authorization (LOA)
 
-Visit the [Partner Operations page](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#letters-of-authorization) to learn how partners can request a Letter of Authorization.
+Visit the [Partner Operations page](/handbook/sales/field-operations/channel-operations/#letters-of-authorization) to learn how partners can request a Letter of Authorization.
 
 **LOA Review Steps:**
 
@@ -105,7 +105,7 @@ With regards to completing RFPs, sometimes referred to as RFIs, RFQs or RFXs, pl
 1. If there are answers which are not found in the Company Information Page, the Sales team member should read, understand, and determine which GitLab departments should be involved and are the owner of the remaining matters. If you are uncertain, Legal  can assist in guiding you to the right department or contact.
 1. W9 is located on the Finance [Forms page](/handbook/finance/#forms)
 1. If there are Security-related questions that are not found at the GitLab [Trust Center Page](https://about.gitlab.com/security/) or the GitLab [Customer Assurance Package Page](https://about.gitlab.com/security/cap/), the Sales team member should engage the Field Security Team per their process, which can be found at GitLab's [Customer Assurance Activities Pag](/handbook/security/security-assurance/field-security/customer-security-assessment-process.html).
-1. If there are questions / elements that are not found in the Company Information Page, the Sales Rep should engage Deal Desk to organize requests of finance and tax. Information regarding contacting Deal Desk and overall process can be found at the [Sales Order Process Page](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-process-customer-requested-vendor-setup-forms).
+1. If there are questions / elements that are not found in the Company Information Page, the Sales Rep should engage Deal Desk to organize requests of finance and tax. Information regarding contacting Deal Desk and overall process can be found at the [Sales Order Process Page](/handbook/sales/field-operations/order-processing/#how-to-process-customer-requested-vendor-setup-forms).
 1. If there are Security related questions / elements that are not found at the [GitLab Trust Center Page](https://about.gitlab.com/security/) or the [GitLab Customer Assurance Package Page](https://about.gitlab.com/security/cap/), the Sales Rep should engage the Field Security Team per their process, which can be found at [GitLab's Customer Assurance Activities Page](/handbook/security/security-assurance/field-security/customer-security-assessment-process.html).
 1. If there are tax related questions, the Sales team member should engage the Tax Team within the Tax Slack Channel. For Tax Certificate requests please email the Finance team at 'tax@gitlab.com'.
 1. If there are finance related questions, the Sales team member should engage the Finance team within the Finance Slack channel.
@@ -192,7 +192,7 @@ Order Form Process for Sales:
 
 ### Request for a Trial or Evaluation Agreement
 
-All customers that desire free access to GitLab Software should be directed to initiate a [free trial](https://gitlab.com/-/trials/new) for access to the GitLab Software, which is subject to and governed by GitLab’s Subscription Agreement.  A free trial is typically used by a customer for internal evaluation, and, as applicable, may also support a more involved [proof of value](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/) guided by GitLab.
+All customers that desire free access to GitLab Software should be directed to initiate a [free trial](https://gitlab.com/-/trials/new) for access to the GitLab Software, which is subject to and governed by GitLab’s Subscription Agreement.  A free trial is typically used by a customer for internal evaluation, and, as applicable, may also support a more involved [proof of value](/handbook/customer-success/solutions-architects/tools-and-resources/pov/) guided by GitLab.
 
 If a customer declines the trial process and is adamant to have a separate Evaluation Agreement, the sales team member or solutions architect should open a Legal Request to request an Evaluation Agreement with Request Form. The Legal Request should first include a request for approval from the Area Sales Manager or higher and also set forth applicable details to fill out the Request Form, such as customer contact information, length of evaluation, number of users, etc.
 
@@ -208,7 +208,7 @@ Once the Request Form is executed, the sales team member or solutions architect 
 1. GitLab provides full transparency by including historic versions of the subscription terms. These can be found within the Agreement History section.
 1. The Subscription Agreement is agreed to by either: (i) customer clicking-through when purchasing (or downloading) software via the GitLab website, (ii) referenced in an order form that is signed by a customer, (iii) signing the negotiated subscription agreement, or (iv) passed through via partner if a customer is buying through an authorized partner.
 1. Please note that for a net-new customer that meets the negotiation thresholds, a Legal Request may be opened to request a single agreement that covers both Subscription and Professional Service Terms.
-1. GitLab has a [Master Partner Agreement](https://about.gitlab.com/handbook/resellers/reseller-agreement/) that can include multiple exhibits to enable partners to: (i) resell, (ii) refer, or (iii) distribute GitLab software and professional services.
+1. GitLab has a [Master Partner Agreement](/handbook/resellers/reseller-agreement/) that can include multiple exhibits to enable partners to: (i) resell, (ii) refer, or (iii) distribute GitLab software and professional services.
 
 ### When does GitLab Negotiate?
 

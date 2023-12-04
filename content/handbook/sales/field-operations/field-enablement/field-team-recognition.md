@@ -71,10 +71,10 @@ The United Win is identified by the CRO leadership team. The "United Win" recogn
    1. Note: Can be done as a part of the Leadership QBRs.
 1. *[4 weeks after quarter close]* CRO LT identifies the United Win and associated team members. A delegate from the CRO LT provides a brief (3-4 sentence) description of why this deal / team was chosen.
    1. Note: This can be done as a part of the CRO QBR.
-1. *[5 weeks after quarter close]* CRO recognizes Quarterly MVPs on the [WW Field Org Call](https://about.gitlab.com/handbook/sales/sales-meetings/#ww-field-org-call).
+1. *[5 weeks after quarter close]* CRO recognizes Quarterly MVPs on the [WW Field Org Call](/handbook/sales/sales-meetings/#ww-field-org-call).
    1. 2 minutes per MVP + 4 minutes for the United win = +/- 15 minutes total for recognition.
 1. *[5 weeks after quarter close]* e-Cards send from CRO including details about recognition dinner
-1. *[5-6 weeks after quarter close]* Achievers recognized in the next-available [Field Flash](https://about.gitlab.com/handbook/sales/field-communications/field-flash-newsletter/)
+1. *[5-6 weeks after quarter close]* Achievers recognized in the next-available [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/)
 
 ### Quarterly MVP Recognition Dinner
 

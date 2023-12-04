@@ -1,0 +1,9 @@
+{{- /*  Initialize. */}}
+{{- $name := "" }}
+{{- /* Get params. */}}
+{{- with (.Get 0) }}
+  {{- $name = . }}
+{{- else }}
+  {{- errorf "The %q shortcode requires a single positional argument."}}
+{{- end }}
+{{partial "member-by-name" $name }}

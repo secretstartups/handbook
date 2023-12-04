@@ -16,7 +16,7 @@ description: >-
 
 {: .no_toc}
 
-Small and Medium Size Business Account Executives "SMB AE" act as Account Executives and the face of GitLab for SMB prospects and customers. They are the primary point of contact for companies that employ between [1 to 99 employees](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/). These GitLab team members are responsible for working new business in their territory as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their GitLab evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions.
+Small and Medium Size Business Account Executives "SMB AE" act as Account Executives and the face of GitLab for SMB prospects and customers. They are the primary point of contact for companies that employ between [1 to 99 employees](/handbook/sales/field-operations/gtm-resources/). These GitLab team members are responsible for working new business in their territory as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their GitLab evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions.
 
 ### Reaching the SMB team (internally)
 
@@ -47,7 +47,7 @@ Small and Medium Size Business Account Executives "SMB AE" act as Account Execut
 
 ### Onboarding
 
-The goal of [onboarding](https://about.gitlab.com/handbook/sales/commercial/enablement) in all of this is to ensure that you feel confident and comfortable to hit the ground running. Our hope is that along this journey you are not only gaining the tactical skills needed to complete your job, but that you form connections with colleagues, gain a strong understanding of the GitLab culture, and begin to develop industry knowledge. This section highlights some areas to consider.
+The goal of [onboarding](/handbook/sales/commercial/enablement) in all of this is to ensure that you feel confident and comfortable to hit the ground running. Our hope is that along this journey you are not only gaining the tactical skills needed to complete your job, but that you form connections with colleagues, gain a strong understanding of the GitLab culture, and begin to develop industry knowledge. This section highlights some areas to consider.
 
 #### Team Dashboards
 
@@ -61,7 +61,7 @@ These Dasboards are used to keep track on team performance globally as well as p
 
 #### Required 7
 
-All team members from Commercial Sales are expected to implement the [Required 7](https://about.gitlab.com/handbook/sales/commercial/#required-7). None of the 7 should be missing at any time. The Required 7 will help to stay on top of your territory, deliver what is promised to the prospect / customer and have quality meetings.
+All team members from Commercial Sales are expected to implement the [Required 7](/handbook/sales/commercial/#required-7). None of the 7 should be missing at any time. The Required 7 will help to stay on top of your territory, deliver what is promised to the prospect / customer and have quality meetings.
 
 #### Call Preps
 
@@ -92,7 +92,7 @@ Additionally, [quarterly subscription reconciliations](/handbook/support/license
 The GitLab usage phases are broken down into the following:
 
 - Implementation: 12-9 months left
-- Adoption 9-6 months left ([Live Optimization](https://about.gitlab.com/handbook/sales/commercial/smb/live-optimization/))
+- Adoption 9-6 months left ([Live Optimization](/handbook/sales/commercial/smb/live-optimization/))
 - Expansion 6-3 months left
 - Renewal less than 3 months left
 
@@ -106,7 +106,7 @@ Customer success planning should be broken into three categories based off the p
 
 - [Bambu](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/#topics-in-bambu) - Used for [Social Advocacy](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/#what-is-social-advocacy)
 - [Chorus](/handbook/business-technology/tech-stack/#chorus) - Call/Demo Recording
-- [Clari](https://about.gitlab.com/handbook/sales/forecasting/) - Forecasting
+- [Clari](/handbook/sales/forecasting/) - Forecasting
 - [CustomersDot Admin](https://customers.gitlab.com/admin/) (see overview video [here](https://youtu.be/G9JuHXqV5LM))
 - [LinkedIn Sales Navigator](https://docs.google.com/document/d/1UF69ieck4AdHadzgPmZ5X1GBs3085JhlYaMowLj0AOg/edit) - Social Selling
 - [Outreach](/handbook/marketing/marketing-operations/outreach/) - Email Sequencing
@@ -121,7 +121,7 @@ Customer success planning should be broken into three categories based off the p
 
 #### Opportunity Consults
 
-[Opportunity Consults](https://about.gitlab.com/handbook/sales/commercial/#opportunity-consults-ocf-and-lightweight-deal-review-ldr-process) regulary are a part of top deal review meetings, 1:1s, or individual sessions. They are open to all commercial teams as a framework for any sales person to leverage. Get the most out of these sessions with specific examples and let your teammates help you get creative with your opportunities. An example structure is below.
+[Opportunity Consults](/handbook/sales/commercial/#opportunity-consults-ocf-and-lightweight-deal-review-ldr-process) regulary are a part of top deal review meetings, 1:1s, or individual sessions. They are open to all commercial teams as a framework for any sales person to leverage. Get the most out of these sessions with specific examples and let your teammates help you get creative with your opportunities. An example structure is below.
 
 **During the meeting Account Executive summarizes:**
 
@@ -156,13 +156,13 @@ Customer success planning should be broken into three categories based off the p
 - [Account management: starting the relationship](https://docs.google.com/presentation/d/1ZvxdJEZIH8Cr7U2R_rF9gGlh_CjzUHyAz69ljo3zhTg/edit?usp=sharing) (video [here](https://youtu.be/GbET3hZrajk))
 - [Upselling Premium & Ultimate](https://docs.google.com/presentation/d/1u93b2TC3NDXQI1Ej8wKFOacBbfzra4wAgz5A2q2Ny_A/edit?usp=sharing) (video [here](https://youtu.be/XcTi8lWWnnI))
 - [Our Pricing Model](/handbook/company/pricing/)
-- [Process for Agreement Terms Negotiations](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal)
+- [Process for Agreement Terms Negotiations](/handbook/sales/field-operations/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal)
 - [Recommended books for SMB team](https://docs.google.com/document/d/19KOw5A84uUvKLBI9zdspbGpP4t3OOqsQLLKj6eTBjFw/edit)
 
 ### Solutions Architect & Customer Success Manager Rules of Engagement
 
-- Follow the [Commercial Sales standards](https://about.gitlab.com/handbook/customer-success/comm-sales/#additional-engagement-guidelines-for-sales) for engaging a Customer Success Manager or Solution Architect into the conversation with a customer or prospect.
-- Consider a [Live Optimization Session](https://about.gitlab.com/handbook/sales/commercial/smb/live-optimization/) with a Solutions Architect.
+- Follow the [Commercial Sales standards](/handbook/customer-success/comm-sales/#additional-engagement-guidelines-for-sales) for engaging a Customer Success Manager or Solution Architect into the conversation with a customer or prospect.
+- Consider a [Live Optimization Session](/handbook/sales/commercial/smb/live-optimization/) with a Solutions Architect.
 - If limited on resources, encourage clients to submit questions to the following communities:
     - Community Forum: https://forum.gitlab.com/
     - Reddit: https://www.reddit.com/r/gitlab/

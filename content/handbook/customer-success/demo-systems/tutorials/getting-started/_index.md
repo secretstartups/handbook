@@ -10,7 +10,7 @@ description: "The GitLab Demo Systems getting started tutorials provide step-by-
 
 
 
-### [Configuring GitLab with group-level Kubernetes cluster](https://about.gitlab.com/handbook/customer-success/demo-systems/tutorials/getting-started/configuring-group-cluster)
+### [Configuring GitLab with group-level Kubernetes cluster](/handbook/customer-success/demo-systems/tutorials/getting-started/configuring-group-cluster)
 
 After your GitLab Demo Cloud account has been created, your runners and CI jobs will use the pre-configured instance-level cluster by default. The instance-level cluster is designed to be transparent behind the scenes and does not support customization or administration and reporting capabilities as a demo systems user.
 

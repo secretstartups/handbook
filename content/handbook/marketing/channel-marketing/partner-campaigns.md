@@ -70,7 +70,7 @@ In an attempt to extend our GitLab [CREDIT](/handbook/values/#credit) values to 
 
 ### MDF Campaigns
 
-[MDF campaigns](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/MDF/) involve financial support or funds provided by GitLab to the Channel Partners to manage a lead generation campaign. These campaigns follow their own processes not found on the campaigns-and-programs page.
+[MDF campaigns](/handbook/resellers/Channel-Program-Guide/MDF/) involve financial support or funds provided by GitLab to the Channel Partners to manage a lead generation campaign. These campaigns follow their own processes not found on the campaigns-and-programs page.
 
 🖇️ Quick Links: [Lead Routing](/handbook/marketing/marketing-operations/traction-lead-complete/#mdf-campaign)
 

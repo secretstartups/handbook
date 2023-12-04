@@ -5,9 +5,11 @@ description: "GitLab's Company-wide Leave of Absence policies."
 
 ## Company-Wide Leave of Absence Policies
 
-GitLab's leave policies are intended to provide team members time away from work to care for themselves as they recover from a serious health condition, care for a family member recovering from a serious health condition, to bond with a newborn or a newly placed child for adoption.
+GitLab's leave policies are intended to provide team members time away from work to care for themselves as they recover from a serious health condition, care for a family member recovering from a serious health condition, to bond with a newborn or a newly placed child for adoption, to serve in the military, etc.
 
-This page is designed to educate our team members about the different GitLab-specific leave policies available.  Whenever allowed by law these leave programs are coordinated and run concurrently any entity specific leaves a team member may be eligible for.  To find any entity specific leave programs you may be eligible for, please click on the link below.
+Your Absence Managment team is here to help before, during, or after your leave. If you have any questions related to your time away after reviewing this page, please contact `leaves@domain` to discuss or request a 1:1 with the Absence Management team.
+
+This page is designed to educate our team members about the different GitLab-specific leave policies available.  Whenever allowed by law these leave programs are coordinated and run concurrently any entity specific leaves a team member may be eligible for. To find any entity-specific leave programs you may be eligible for, please click on the link below.
 
 - [GitLab B.V. Netherlands Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/bv-benefits-netherlands/#gitlab-bv-netherlands-leave-policy)
 - [GitLab B.V. Belgium Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/bv-benefits-belgium/#gitlab-bv-belgium-leave-policy)
@@ -69,52 +71,3 @@ When team members return from military service, they will be entitled to return 
 Team members should first review their own country's Military Leave policies to ensure they are reporting their leave in accordance with any reporting requirements. Whenever possible team members need to provide at least 30 days advanced notice by selecting `Mandatory Civilian Service` in Time Off by Deel. GitLab reserves the right to request documentation related to the team member's Military service. The Absence Management Team will contact you if documentation is needed.
 
 - For any questions about how to initiate a military leave or requests for reinstatement, please contact the Absence Management team (`leaves@gitlab.com`). For GitLab Inc or GitLab Federal team members, please additionally review the [Military Leave]({{< ref "us#military-leave" >}}) policy.
-
-## Unpaid Leave of Absence
-
-Unpaid Personal Leave is a GitLab company policy which affords team members up to 30 calendar days of unpaid, unprotected time away from work.  This leave policy is intended to provide time away when a team member's leave reason does not meet eligibility for our other [leave policies]({{< ref "." >}}) or additional paid time under our PTO policy can not be provided. This policy is not intended to be used to extend, replace, or delay reporting time away under our other leave policies.
-
-Requests of more than 30 calendar days must receive functional Vice President and group People Business Partner approval.
-
-### Requesting this Leave
-
-1. Team members should first email leaves@gitlab.com. The Absence Management team will review the request to determine if there are statutory leave programs they may be eligible for in their country.
-1. If the Absence Management team informs you that you are not eligible for any statutory leave programs, this request should then be discussed with your Manager.
-    - Team members must be fully performing in role (including both attendance and performance) and the business must be able to support the time away.
-
-Managers may deny this request if a team member does not meet these requirements or the business can not support the time away, but they should reach out to Team Member Relations to discuss the reason for the denial prior to communicating with the Team Member.
-
-#### Additional Information
-
-- If a team member incorrectly receives a payroll payment while on unpaid leave, they are to immediately notify leaves@gitlab.com via email.  Any funds paid in error are subject to immediate repayment.
-- The team member should confirm their intent to return to work at least 2 weeks prior to their return to work date.
-- Vesting and company-sponsored benefits will be paused as soon as this leave is approved.
-    - Vesting and benefits will be reinstated effective the date the team member returns to work.
-- Time away should be categorized as `Vacation` in Time Off by Deel.
-
-### Admin Steps:
-
-#### Managers, please follow these steps to process a Personal leave request:
-
-Ensure the team member has first reached out to leaves@gitlab.com, and then follow the steps below.  If the team member has not yet emailed the Absence Management team, please direct them to do so next.
-
-#### If approving the leave:
-
-- Please email leaves@gitlab.com. Include in the email:
-    - Team Member's Name
-    - Confirm your approval of the leave
-    - Start date and End date of the leave
-    - Confirm you have explained to the team member their leave will be unpaid, and both vesting and benefits will be paused.
-
-#### If denying the leave:
-
-- Please email team Team Member Relations (teammemberrelations@gitlab.com).  Include in your email:
-    - Team Member's Name
-    - Reason(s) why you are denying their request.
-
-#### Absence Management Team:
-
-- Once an unpaid personal leave request has been approved, the Absence Management team will update Bamboohr and inform Payroll.
-- Once the team member has a confirmed their return to work date, the Absence Management team will notify the team member's manager, update BambooHR (if applicable) and notify payroll, benefits and stock admin to reinstate benefits.
-
-**Your Absence Managment team is here to help before, during, or after your leave. If you have any questions related to your time away after reviewing this page, please contact `leaves@gitlab.com` to discuss or request a 1:1 with the Absence Management team.**

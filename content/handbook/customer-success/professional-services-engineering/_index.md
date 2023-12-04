@@ -6,7 +6,7 @@ description: "The Professional Services team at GitLab is a part of the Customer
 # Professional Services Handbook
 
 
-The Professional Services team at GitLab is a part of the [Customer Success](https://about.gitlab.com/handbook/customer-success/) department. 
+The Professional Services team at GitLab is a part of the [Customer Success](/handbook/customer-success/) department. 
 
 ## Quick links
 
@@ -26,7 +26,7 @@ Here are links to the most popular Professional Services topics.
 * [Partner Collaboration](partner-collaboration/)
 * [Sales enablement](sales-enablement/)
 * [Professional Services Operations](professional-services-operations/)
-* [Escalation Process](https://about.gitlab.com/handbook/customer-success/csm/escalations/)
+* [Escalation Process](/handbook/customer-success/csm/escalations/)
 
 
 

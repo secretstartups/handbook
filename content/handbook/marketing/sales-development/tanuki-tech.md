@@ -154,7 +154,7 @@ TT332: Leadership Perspectives
 > 3 credit hours
 
 TT380: Technical Questions for Sales (deprecated)
-> This is a class offered by the sales enablement organization equipping salespeople to answer the most commonly asked technical questions. You may see the curriculum [here](https://about.gitlab.com/handbook/sales/training/technical-questions-for-sales/). This class is delivered async only.
+> This is a class offered by the sales enablement organization equipping salespeople to answer the most commonly asked technical questions. You may see the curriculum [here](/handbook/sales/training/technical-questions-for-sales/). This class is delivered async only.
 >
 > 5 credit hours
 

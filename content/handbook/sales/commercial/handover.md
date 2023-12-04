@@ -93,7 +93,7 @@ In this scenario an Expand AE should leverage the FYE Web Direct [report](https:
 
 #### Assisted FO & Web Direct to Pooled
 
-All Pooled accounts go through a specific low touch digital journey, and will only speak to an AE when they ‘hand raise’, or we have identified that they required sales assistance.  Further info on this model can be found [here](https://about.gitlab.com/handbook/sales/commercial/pooled_model/).
+All Pooled accounts go through a specific low touch digital journey, and will only speak to an AE when they ‘hand raise’, or we have identified that they required sales assistance.  Further info on this model can be found [here](/handbook/sales/commercial/pooled_model/).
 
 Upon entering this Low Touch digital journey, customers will be welcomed to the Pool via the below [email](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/1918).
 

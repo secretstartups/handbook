@@ -238,8 +238,8 @@ There are a few places to see previous Sales Enablement sessions:
 - [How to set up Chorus.ai call recording](/handbook/business-technology/tech-stack/#chorus)
 - [GitLab Serverless FAQ](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/serverless-faq/)
 - [GitLab.com Subscriptions](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/dotcom-subscriptions/)
-- [Services to Accelerate Customer Adoption](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/sales-enablement)
-- [Collaborating with Community Programs](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/enablement/collaborating-community-programs/)
+- [Services to Accelerate Customer Adoption](/handbook/customer-success/professional-services-engineering/sales-enablement)
+- [Collaborating with Community Programs](/handbook/sales/training/sales-enablement-sessions/enablement/collaborating-community-programs/)
 
 ## To request new sales enablement sessions
 
@@ -349,7 +349,7 @@ The moderator should serve as the host of the call and overall wingperson for th
 
 - Upload recorded session to the [Continuing Education](https://drive.google.com/drive/folders/1-d_XgvwChwJhqyVAkasoaJfbEvX6Db-f?usp=sharing) Google Drive folder.
 - Upload recorded session to the [Field Strategy & Enablement](https://gitlab.highspot.com/spots/615dd82071cff4c4b2bcbc32) spot on Highspot. Make sure the video properties are set to "internal" and to "prevent downloading or remixing."
-- Update future & past sessions list with the Google Drive recording link in the [Sales Enablement Sessions Handbook.](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/#sales-enablement-sessions)
+- Update future & past sessions list with the Google Drive recording link in the [Sales Enablement Sessions Handbook.](/handbook/sales/training/sales-enablement-sessions/#sales-enablement-sessions)
 - Add session recording to the [Field Enablement Spotlight: Continuous Education at GitLab](https://gitlab.highspot.com/items/6480e56aff37cbf397ac752f) Highspot page.
 - Promote the recorded session availability on #Sales & #customer-success Slack channels.
 - Check the zoom meeting report & record the number of total attendees as a comment in the issue.

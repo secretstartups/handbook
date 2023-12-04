@@ -20,7 +20,7 @@ Programs are developed using input from CSMs, customers, and other GitLab resour
 - Education, best practices, and planning resources for customers and GitLab team members
 - Gainsight playbook setup and maintenance
 
-For more information about Customer Programs, including how to request new or contribute to existing programs, or add contacts to Gainsight, see the [Customer Programs page](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/).
+For more information about Customer Programs, including how to request new or contribute to existing programs, or add contacts to Gainsight, see the [Customer Programs page](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/).
 
 ## Onboarding resources
 

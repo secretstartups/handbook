@@ -9,6 +9,18 @@ At GitLab, we are [family and friends first, work second](/handbook/values/#fami
 
 Team members can share about their Family and Friends Day in the `#family-and-friends-day` Slack channel after the event, or publicly on social media such as Twitter, LinkedIn, or wherever they're most comfortable using the hashtag #FamilyFriends1st. Sharing is optional. Taking the day off is strongly encouraged if your role allows it.
 
+## FY'25 Family and Friends Days
+
+We started our Family & Friends day benefit in early 2020 to help team members cope with the COVID-19 pandemic. We planned to continue Family & Friends days for as long as the majority of the world was dealing with the pandemic. While the World Health Organization declared an [end to the COVID-19 global health emergency](https://www.nbcnews.com/health/health-news/who-ends-covid-global-health-emergency-rcna83046) in early 2023, we will maintain 4 Family & Friends days per year.
+
+In FY'25, the dates for Family & Friends Day will be:
+
+1. 2024-04-05
+1. 2024-06-14
+1. 2024-09-13
+1. 2024-12-23
+
+
 ## FY'24 Family and Friends Days
 
 1. 2023-09-22

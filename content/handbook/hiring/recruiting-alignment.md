@@ -47,14 +47,12 @@ For urgent requests of the Candidate Experience Specialist team, we encourage yo
 | Talent Acquisition (R&D: Infrastructure/Quality, Security, Product/UX, Incubation) | Ursela Knezevic |
 | Talent Acquisition (Executive) | Rich Kahn |
 | Enablement | Marissa Ferber |
-| Candidate Experience | Ale Ayala/Marissa Ferber |
+| Candidate Experience | Ale Ayala + Marissa Farris |
 
 ## Talent Acquisition Platform Directly Responsible Individual
 
 | Platform                    | Responsibility        | DRI     |
 |--------------------------|-----------------|-----------------|
-| Comparably | Admin  | Devin Rogozinski/Marissa Ferber |
-| Comparably | Content Management | Devin Rogozinski |
 | Glassdoor | Admin  | Devin Rogozinski |
 | Glassdoor | Responding to Reviews  | Devin Rogozinski |
 | Glassdoor | Content Management | Devin Rogozinski |

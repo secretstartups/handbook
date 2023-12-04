@@ -10,7 +10,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 
 ### Add a `Dockerfile`
 
-1. Verify that your **CICD Demo** project contains the `main.go` file from the [GitLab CICD Hands On Demo](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-ci-cd/gitlab-cicd-hands-on-demo) project. If it does not, follow [these steps from Lab 7](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab7.html#add-a-maingo-file) to add the file.
+1. Verify that your **CICD Demo** project contains the `main.go` file from the [GitLab CICD Hands On Demo](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-ci-cd/gitlab-cicd-hands-on-demo) project. If it does not, follow [these steps from Lab 7](/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab7.html#add-a-maingo-file) to add the file.
 1. Go to the [GitLab CICD Hands On Demo](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-ci-cd/gitlab-cicd-hands-on-demo) project.
 1. Open `Dockerfile`.
 1. In the upper right corner of the file, select the **Copy file contents** icon.

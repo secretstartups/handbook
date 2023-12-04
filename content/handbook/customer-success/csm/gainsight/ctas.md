@@ -18,7 +18,7 @@ Watch a quick [video on Gainsight CTAs](https://www.youtube.com/watch?v=qkjmTh3Q
 
 ### Cockpit
 
-The Cockpit is the main place you'll go to manage CTAs, which can be opened from several methods. They can be automatically opened due to trigger points in a customer's lifecycle, a CSM can manually open them, or if a CSM logs a task in a [Timeline](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/) event that task will populate in the Cockpit.
+The Cockpit is the main place you'll go to manage CTAs, which can be opened from several methods. They can be automatically opened due to trigger points in a customer's lifecycle, a CSM can manually open them, or if a CSM logs a task in a [Timeline](/handbook/customer-success/csm/gainsight/timeline/) event that task will populate in the Cockpit.
 
 The main Cockpit is located by using the far left navigation panel (under "Home") and clicking "Cockpit" to see all CTAs for all customers (this can be customized and refined, discussed below).
 
@@ -42,10 +42,10 @@ Please note that any customizations you do for a Cockpit view will be consistent
 
 ### Types of CTAs
 
-There are several "types" of CTAs, which will have different corresponding playbooks, so if you're looking for a particular playbook be sure to select the appropriate type. See below for each type and the corresponding [playbooks](https://about.gitlab.com/handbook/customer-success/playbooks/) for that type.
+There are several "types" of CTAs, which will have different corresponding playbooks, so if you're looking for a particular playbook be sure to select the appropriate type. See below for each type and the corresponding [playbooks](/handbook/customer-success/playbooks/) for that type.
 
 - Risk
-  - [At-Risk](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#triage-cta)
+  - [At-Risk](/handbook/customer-success/csm/health-score-triage/#triage-cta)
   - DevSecOps Risk
   - Low License Utilization
   - Non-Engaged Customer
@@ -56,18 +56,18 @@ There are several "types" of CTAs, which will have different corresponding playb
 - Lifecycle
   - Create Success Plan
   - Customer Offboarding
-  - [Executive Business Review (EBR)](https://about.gitlab.com/handbook/customer-success/csm/ebr/#how-to-prepare-an-ebr)
+  - [Executive Business Review (EBR)](/handbook/customer-success/csm/ebr/#how-to-prepare-an-ebr)
   - Existing Customer Onboarding
   - High License Utilization
-  - [New Customer Onboarding](https://about.gitlab.com/handbook/customer-success/csm/onboarding/)
+  - [New Customer Onboarding](/handbook/customer-success/csm/onboarding/)
   - New Customer Onboarding - SaaS email assist
   - New Customer Onboarding - Self-Managed email assist
   - Usage Data Enablement
   - Webinar Attended by Customer  
 - Activity
-  - [New Account Handoff](https://about.gitlab.com/handbook/customer-success/csm/account-handoff/#account-handoff-cta)
+  - [New Account Handoff](/handbook/customer-success/csm/account-handoff/#account-handoff-cta)
 - Renewal
-  - [Upcoming Renewal](https://about.gitlab.com/handbook/customer-success/csm/renewals/)
+  - [Upcoming Renewal](/handbook/customer-success/csm/renewals/)
 - Digital Journey
   - Digital Adoption - CI Enablement
   - Digital Onboarding - SaaS Email Series

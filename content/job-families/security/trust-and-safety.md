@@ -42,7 +42,7 @@ The Security Analyst, Trust and Safety is a [grade 6](/handbook/total-rewards/co
 #### Security Analyst, Trust and Safety (Intermediate) Responsibilities
 
 - Respond to incidents of abusive activity originating from `GitLab.com`
-- Participate in the Trust and Safety Team [on-call rotation](/handbook/security/secops-oncall.html)
+- Participate in the Trust and Safety Team [on-call rotation]({{< ref "secops-oncall" >}})
 - Process abuse reports and DMCA notices relating to GitLab.com
 - Mitigate detected abusive activity on GitLab.com and it's related products and services
 - Manage internal requests from other teams inside and outside the Security Department
@@ -136,7 +136,7 @@ The Security Engineer, Trust and Safety is a [grade 6](/handbook/total-rewards/c
 #### Security Engineer, Trust and Safety (Intermediate) Responsibilities
 
 - Respond to incidents of abusive activity originating from GitLab.com
-- Participate in the Trust and Safety Team [on-call rotation](/handbook/security/secops-oncall.html)
+- Participate in the Trust and Safety Team [on-call rotation]({{< ref "secops-oncall" >}})
 - Utilize log ingestion platforms for analyzing and identifying the tactics, techniques and patterns of abusive users
 - Contribute to the creation of documentation and runbooks
 - Contribute to the production and tuning of anti-abuse detection and mitigation tooling
@@ -213,7 +213,7 @@ The Trust and Safety Manager is a [grade 8](/handbook/total-rewards/compensation
 #### Manager, Trust and Safety Responsibilities
 
 - Hire a world class team of security engineers to work on their team
-- Participate in the Trust and Safety Team [on-call rotation](/handbook/security/secops-oncall.html) as the `Trust and Safety Manager On-call (TSMOC)`
+- Participate in the Trust and Safety Team [on-call rotation]({{< ref "secops-oncall" >}}) as the `Trust and Safety Manager On-call (TSMOC)`
 - Help their team grow their skills and experience
 - Provide input on security architecture, issues, and features
 - Hold regular 1:1's with all members of their team

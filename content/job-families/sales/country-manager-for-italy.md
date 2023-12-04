@@ -12,7 +12,7 @@ The Country Sales Manager for Italy is a [grade 9](/handbook/total-rewards/compe
 
 ### Country Sales Manager for Italy Responsibilities
 
-- Support GitLab for our [strategic and large](https://about.gitlab.com/handbook/sales/#market-segmentation) prospects
+- Support GitLab for our [strategic and large](/handbook/sales/#market-segmentation) prospects
 - Contribute to root cause analysis on wins/losses
 - Communicate lessons learned to the team, including account managers, the marketing team, and the technical team
 - Take ownership of your book of business:
@@ -20,7 +20,7 @@ The Country Sales Manager for Italy is a [grade 9](/handbook/total-rewards/compe
   - document the buying process
   - document next steps and owners
   - ensure pipeline accuracy based on evidence and not hope
-- Contribute to documenting improvements in our [sales handbook](https://about.gitlab.com/handbook/sales/)
+- Contribute to documenting improvements in our [sales handbook](/handbook/sales/)
 - Provide account leadership and direction in the pre- and post-sales process
 - Conduct sales activities including prospecting and developing opportunities in large/strategic accounts
 - Ensure the successful rollout and adoption of GitLab products through strong account management activities and coordination with pre-and-post sales engineering and support resources

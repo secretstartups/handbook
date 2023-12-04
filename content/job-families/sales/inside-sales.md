@@ -131,6 +131,6 @@ Additional details about our process can be found on our [hiring page](/handbook
 ## Compensation
 
 You will typically get 50% as base and 50% based on commission. See our
-[market segmentation](https://about.gitlab.com/handbook/sales/#market-segmentation) for
+[market segmentation](/handbook/sales/#market-segmentation) for
 typical quotas in the U.S.
 Also see the [Sales Compensation Plan](/handbook/finance/sales-comp-plan/).

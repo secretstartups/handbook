@@ -323,8 +323,8 @@ The Director, Professional Services Engagement Management is a [grade 10](/handb
 
 ## Performance Indicators
 
-- [Bookings per agreed plan (75%)](https://about.gitlab.com/handbook/sales/#closed-deal---won)
-- [Revenue per agreed plan (25%)](https://about.gitlab.com/handbook/sales/#pcv)
+- [Bookings per agreed plan (75%)](/handbook/sales/#closed-deal---won)
+- [Revenue per agreed plan (25%)](/handbook/sales/#pcv)
 
 ## Career Ladder
 

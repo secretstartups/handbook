@@ -42,7 +42,7 @@ Note that everyone's needs are different, so consider the following as a list of
 - Which Slack channels to keep track of daily
 - Which Google docs to keep track of (SWIR, etc.)
 - Show them some helpful handbook pages to read during onboarding
-- Show them the GitLab [architecture diagrams](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/artifacts/arch-diagram.html)
+- Show them the GitLab [architecture diagrams](/handbook/customer-success/professional-services-engineering/workflows/artifacts/arch-diagram.html)
 - Show them some product or [support-team-meta](https://gitlab.com/gitlab-com/support/support-team-meta) issues and clarify that they can contribute to anything
 - Remind them they can get reimbursed for any books or training, and show them the [Spending Company Money](/handbook/spending-company-money/) page. If it's expensive, talk to their manager first.
 - Show them our [Testing Environments](/handbook/support/workflows/test_env), and introduce them to GitLab Sandbox Cloud for GCP (which replaced [support-resources](https://gitlab.com/gitlab-com/support/support-resources))

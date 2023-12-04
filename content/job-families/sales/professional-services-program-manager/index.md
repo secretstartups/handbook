@@ -16,7 +16,7 @@ A highly visible and customer-facing position, within the Professional Services 
 
 ## Performance Indicator
 
-- <span style="text-decoration:underline;">PSE: [Billable utilization](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#implementation-plan)</span> target >= 70%
+- <span style="text-decoration:underline;">PSE: [Billable utilization](/handbook/customer-success/professional-services-engineering/#implementation-plan)</span> target >= 70%
 - Achieve 100% of the global quarterly revenue target
 - Manage customer long-term and/or multi-phased programs and projects to a successful, on budget, on schedule completion
 - Successfully manage the quarterly revenue forecast (within your pervue) within a 5% margin

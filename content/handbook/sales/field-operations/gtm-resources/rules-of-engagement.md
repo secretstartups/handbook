@@ -22,7 +22,7 @@ The purpose of this page is to provide clear guidelines around GitLab's FY24 GTM
 2. Opportunity Ownership
 3. Opportunity Order Type
 
-**For more information on terms and other sales information, please visit GitLab's [Go to Market](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/) page.**
+**For more information on terms and other sales information, please visit GitLab's [Go to Market](/handbook/sales/field-operations/gtm-resources/) page.**
 
 
 ### Account Ownership Rules of Engagement
@@ -101,7 +101,7 @@ Account ownership will be determined by the Sales Segment and Address.  All chil
 
 #### Parent/Child Segmentation:
 
-All Accounts in a hierarchy will adopt the MAX Segmentation of any account in the hierarchy. Expanded definitions and examples can be found in the handbook’s [Systems Terminology Definitions](https://about.gitlab.com/handbook/sales/sales-term-glossary/#parent-and-child-accounts).
+All Accounts in a hierarchy will adopt the MAX Segmentation of any account in the hierarchy. Expanded definitions and examples can be found in the handbook’s [Systems Terminology Definitions](/handbook/sales/sales-term-glossary/#parent-and-child-accounts).
 
 #### Named Account
 
@@ -138,7 +138,7 @@ An account that clearly has their own buying authority and purchasing process.
 1. **Private Equity or Holding Company** - Accounts where the governing entity is a Private Equity firm or Holding Company will be considered standalone Accounts. As such, they will not be parented and will include the name of the holding company in the `Holding Company Name` field. Ownership & segmentation will be based on the individual account attributes and NOT the Holding Company or PE account attributes.
 2. **Joint Venture**:A business entity created by two or more parties, generally characterized by shared ownership, shall be considered as a stand-alone entity. As such, they will not be parented, and segmentation will be based on the employee count of this particular account.
 3. **Government Holding Entity - Child Accounts:**: Public Sector accounts are identified by the Public Sector Account Checkbox on the Account. Once identified, ownership would be determined by the country alignment below. The definition of a PubSec account is the same for United States Public Sector and Rest of World Public Sector.
-    1. **United States:** [Gitlab Public Sector Rules of Engagement Handbook Page](https://about.gitlab.com/handbook/sales/public-sector/)
+    1. **United States:** [Gitlab Public Sector Rules of Engagement Handbook Page](/handbook/sales/public-sector/)
     2. **Rest of World:** [ROW Public Sector Rules of Engagement Handbook Page](https://docs.google.com/document/d/1GR8fFQQhaGlH18quMkbEbY1gIvj0_4-LVRxdHpuZW20/edit#heading=h.kk8kup16ppw8)
         1. **APAC:** All countries covered by Enterprise.
         2. **EMEA:** All countries covered by Enterprise.
@@ -222,7 +222,7 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
         1. Holdover opportunities
         1. When an Renewals Manager or SDR has created an opportunity but has not yet transitioned it to the correct AE/SAE
         1. Stage of the opportunity at time of account ownership change
-        1. [GSI or MSP opportunties](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-msp-opportunities), where the end user is different to whom gets the license. In this case, the opportunity will be assigned to the owner of the end user account.
+        1. [GSI or MSP opportunties](/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-msp-opportunities), where the end user is different to whom gets the license. In this case, the opportunity will be assigned to the owner of the end user account.
 1. **Sales Admin Owned Opportunities:** When new opportunities are created due to web portal purchases, they are temporarily assigned to the Sales Admin User and are changed to the correct (and active) Sales User in the following cadences:
     - For accounts with known attributes (employees and location), the account gets routed to the correct owner via the Account Demographics process.  Twice weekly Sales Operations reviews the corresponding opportunity and updates the Opportunity owner to match the Account owner (unless exceptions apply).  
     - For accounts without known attributes (employees and location not identified), the account and corresponding opportunity are manually reviewed by Sales Operations twice weekly and assigned to the correct owners.
@@ -289,10 +289,10 @@ Within a Geo under one Sales VP, it is the Sales VP's responsibility to obtain a
 
 **Understanding Order Type Assignment, Rules and Definitions**
 
-**Source of Data:** The account attributes used to properly assign Order Type are defined and explained in the [Sales Term Glossary](https://about.gitlab.com/handbook/sales/sales-term-glossary/#customer-definitions-for-external-reporting) section of the handbook.
+**Source of Data:** The account attributes used to properly assign Order Type are defined and explained in the [Sales Term Glossary](/handbook/sales/sales-term-glossary/#customer-definitions-for-external-reporting) section of the handbook.
 
 **Common Manual Override Scenarios:** Although Order Type is generated automatically on an opportunity, there are common scenarios in which it could require updating via a manual override:
-- [Customers Returning More Than 180 Days After Subscription Term End Date](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-returning-customers)
+- [Customers Returning More Than 180 Days After Subscription Term End Date](/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-returning-customers)
 - Refunds
 - Incorrect Parenting/Hierarchies
 

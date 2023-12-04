@@ -51,7 +51,7 @@ We accomplish this through:
 1. A single content hub that is easy to find, search, and interact with.
 1. Consistency in quality and format. Our audience knows what to expect.
 1. A mix of journalistic and entertainment style content.
-1. Exceptional communication standards. We prioritize a clear and direct tone of voice over cutsy, convoluted language.
+1. Exceptional communication standards. We prioritize a clear and direct tone of voice over cutesy, convoluted language.
 
 ### Content Strategy Principles
 
@@ -91,7 +91,7 @@ Areas of focus:
 
 ## Requesting content team support
 
-*Need help finding relevant content to use in an email or to send to a customer?* Ask for help in the #content channel.*
+*Need help finding relevant content to use in an email or to send to a customer? Ask for help in the #content channel.*
 
 ### Requesting content and copy reviews
 

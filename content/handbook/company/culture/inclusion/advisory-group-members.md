@@ -4,4 +4,4 @@ title: Advisory Group Members
 description: "This page lists the members of the Diversity, Inclusion & Belonging Advisory Group."
 ---
 
-{{< advisory-group-members >}}
+{{< group-by-expertise "Diversity, Inclusion & Belonging Advisory Group" >}}

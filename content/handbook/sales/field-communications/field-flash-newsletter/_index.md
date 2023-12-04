@@ -15,7 +15,7 @@ description: "Field Flash is a monthly newsletter that recaps all important Sale
 Field Flash is a monthly newsletter that recaps all important Sales/CS-related information from the month and highlights important upcoming information. The main goal of this communication is to **help the field sell better, faster, and smarter.**
 
 Ongoing feedback and participation from the field is imperative to the success of this program. If you have feedback on the current process or would like to request a certain type of content or update for future newsletters:
-- [Capture it using this quick process](https://about.gitlab.com/handbook/sales/field-communications/#sharing-feedback)
+- [Capture it using this quick process](/handbook/sales/field-communications/#sharing-feedback)
 - Reach out in the #field-enablement-team Slack channel
 
 ## Target Audience
@@ -36,7 +36,7 @@ The newsletter will...
 
 **Uphold our [values](/handbook/values/) of transparency**
 - The newsletter is for communication, the Handbook is for documentation. This means that the newsletter disseminates updates but leans on the Handbook (and other relevant resources) as the main source of documentation, linking back to it wherever possible.
-   - Note: A tangential benefit of this approach is that it allows us to improve the [Sales Handbook](https://about.gitlab.com/handbook/sales/) during this process.
+   - Note: A tangential benefit of this approach is that it allows us to improve the [Sales Handbook](/handbook/sales/) during this process.
 
 **Prioritize repetition, brevity, user-friendliness and added value**
 - The newsletter focuses on short lists and bullet points and links out to more robust resources (e.g. Slack and Highspot).
@@ -68,7 +68,7 @@ The newsletter will...
 **Be built out in the open**
 - The newsletter content will be compiled in an issue each month within the [Enablement project](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement). Any team member is welcome to contribute or make requests. See more information in the Process section below.
 
-**Uphold our value of "everyone can contribute" – we will measure success and [gather feedback often](https://about.gitlab.com/handbook/sales/field-communications/#sharing-feedback)**
+**Uphold our value of "everyone can contribute" – we will measure success and [gather feedback often](/handbook/sales/field-communications/#sharing-feedback)**
 - We will measure success using a combination of quantitative and qualitative success metrics. See Measurement section below.
 - Giving feedback or making requests will be easy, and all input will be considered and addressed.
 - The team is committed to upholding the value of the newsletter – information should be relevant, feedback should be actioned on, and leadership should help reiterate by pointing to it as a useful resource for their teams.

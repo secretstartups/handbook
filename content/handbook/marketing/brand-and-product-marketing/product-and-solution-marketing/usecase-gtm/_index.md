@@ -17,7 +17,7 @@ Solutions are a product or suite or products and services that business purchase
 1. Business segment requirements (e.g. enterprise vs SMB)
 
 Relevant solutions will differ by audience.
-- **C-level executives** care about broad business solutions, often characterized by well-funded strategic business initiatives - things that help them improve productivity, reduce cost, or deliver value faster - things that align with Command of the Message [Customer Value Drivers](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers). The C-level audience are important influencers who set an organizations agendas, strategic objectives, and fund major IT initiatives.
+- **C-level executives** care about broad business solutions, often characterized by well-funded strategic business initiatives - things that help them improve productivity, reduce cost, or deliver value faster - things that align with Command of the Message [Customer Value Drivers](/handbook/sales/command-of-the-message/#customer-value-drivers). The C-level audience are important influencers who set an organizations agendas, strategic objectives, and fund major IT initiatives.
 - **DevOps buyers** are tasked with determining HOW to meet the transformational business objectives backed by their C suite. They likely have a budget to buy or replace specific DevOps capabilities (like CI) and the more Directors and VPs often look at the bigger picture of how to simplify a complex DevOps environment.
 - **DevOps users** are tasked with using the tools to make the transformation happen. They care about how a given tool makes their job easier, their time more productive, and their code more secure.
 

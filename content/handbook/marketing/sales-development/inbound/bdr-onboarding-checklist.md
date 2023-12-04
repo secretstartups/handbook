@@ -33,7 +33,7 @@ Create issue for new hire in marketing with following checklist.
 
 1. [ ] Study [GitLab University](https://docs.gitlab.com/ee/university/)
 1. [ ] SFDC Training TBD
-1. [ ] [Sales Process](https://about.gitlab.com/handbook/sales/) and [Qualification](https://docs.google.com/document/d/1GR0v4cvBYUoTSn66kVAqzY5q_imWbDWW4ifo7ag6Gow/edit#heading=h.ebl8fraqpynv)
+1. [ ] [Sales Process](/handbook/sales/) and [Qualification](https://docs.google.com/document/d/1GR0v4cvBYUoTSn66kVAqzY5q_imWbDWW4ifo7ag6Gow/edit#heading=h.ebl8fraqpynv)
 1. [ ] Prospecting 101 by Scheduled Chet
 
 ### For Inbound BDR's

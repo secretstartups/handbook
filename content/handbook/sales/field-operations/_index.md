@@ -23,16 +23,16 @@ The term *"sales"* refers to the Sales Team and *"field"* includes the Customer 
 **Scalability**: for processes and systems that allows for growth
 
 ### Teams
-- [Sales Operations](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/)
-    - [Deal Desk](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#welcome-to-the-deal-desk-handbook)
-    - [Order Management](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/order-management/)
-    - [Sales Commissions](https://about.gitlab.com/handbook/sales/commissions/)
-    - [Data Intelligence](https://about.gitlab.com/handbook/sales/field-operations/data-intelligence/)
-- [Sales Systems](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/)
-- [Sales Strategy](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/)
-- [Field Enablement](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/)
-- [Channel Operations](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/)
-- [Customer Success Operations](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations)
+- [Sales Operations](/handbook/sales/field-operations/sales-operations/)
+    - [Deal Desk](/handbook/sales/field-operations/sales-operations/deal-desk/#welcome-to-the-deal-desk-handbook)
+    - [Order Management](/handbook/sales/field-operations/sales-operations/order-management/)
+    - [Sales Commissions](/handbook/sales/commissions/)
+    - [Data Intelligence](/handbook/sales/field-operations/data-intelligence/)
+- [Sales Systems](/handbook/sales/field-operations/sales-systems/)
+- [Sales Strategy](/handbook/sales/field-operations/sales-strategy/)
+- [Field Enablement](/handbook/sales/field-operations/field-enablement/)
+- [Channel Operations](/handbook/sales/field-operations/channel-operations/)
+- [Customer Success Operations](/handbook/sales/field-operations/customer-success-operations)
 
 ### Field Operations Calendar
 - Field Operations utilizes a team calendar to communicate team member availability as well as office hour meetings.
@@ -50,6 +50,6 @@ The term *"sales"* refers to the Sales Team and *"field"* includes the Customer 
 
 ### Field Operations Releases and Changelog
 
-Field Operations works to deliver Field Ops changes related to Sales Ops, CS Ops, Channel Ops & Deal Desk (QTC) in a batched, bi-weekly release cadence. To learn more, see the [Field Ops Release Schedule page](https://about.gitlab.com/handbook/sales/field-operations/release-schedule/).
+Field Operations works to deliver Field Ops changes related to Sales Ops, CS Ops, Channel Ops & Deal Desk (QTC) in a batched, bi-weekly release cadence. To learn more, see the [Field Ops Release Schedule page](/handbook/sales/field-operations/release-schedule/).
 
-For a running log of Field Ops changes related to Sales Ops, CS Ops, Channel Ops & Deal Desk since Q3-FY22, see the [Field Ops Changelog page](https://about.gitlab.com/handbook/sales/field-operations/changelog/).
+For a running log of Field Ops changes related to Sales Ops, CS Ops, Channel Ops & Deal Desk since Q3-FY22, see the [Field Ops Changelog page](/handbook/sales/field-operations/changelog/).
