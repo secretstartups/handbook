@@ -1,13 +1,13 @@
 ---
-layout: handbook-page-toc
+
 title: GitLab Repositories
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 GitLab consists of many subprojects. A curated list of GitLab projects can be found at the [GitLab Engineering projects](/handbook/engineering/projects/) page.
 
@@ -98,4 +98,4 @@ If a job requires the usage of Windows, SaaS runners on Windows should be used. 
 
 ### Publishing a Project
 
-To publish a project to a package repository, please follow [these directions](/handbook/developer-onboarding/#ruby-gems).
+To publish a project to a package repository, please follow [these directions](https://about.gitlab.com/handbook/developer-onboarding/#ruby-gems).
