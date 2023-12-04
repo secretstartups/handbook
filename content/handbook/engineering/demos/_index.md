@@ -1,13 +1,13 @@
 ---
-layout: handbook-page-toc
+
 title: Engineering Demo Process
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 Occasionally, it is useful to set up a demo on a regular cadence to ensure cross-functional iterative alignment.
 This is helpful for high-impact deliverables that require integration across multiple functional teams. This is in-line with the seventh principle of the [Agile Manifesto](https://agilemanifesto.org/principles.html): "Working Software is the best measure of progress".
@@ -52,7 +52,7 @@ Our scoring definitions are as follows:
 
 ## Single Engineer Groups Demo
 
-A different demo process is used by the [Single-Engineer Groups](/company/team/structure/#single-engineer-groups) and does not require a demo score card.
+A different demo process is used by the [Single-Engineer Groups](/handbook/company/team/structure/#single-engineer-groups) and does not require a demo score card.
 
 * Record a video on your computer or via Zoom livestream of the working software
 * Upload to the [GitLab Unfiltered Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A)
