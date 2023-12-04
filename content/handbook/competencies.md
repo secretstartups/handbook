@@ -35,13 +35,13 @@ For example, we should have one SSoT for how to articulate the value of GitLab.
 1. [PDPs/PIPs]({{< ref "underperformance" >}})
 1. [Career development]({{< ref "career-development" >}})
 1. [360 reviews]({{< ref "360-feedback" >}})
-1. [Sales training](https://about.gitlab.com/handbook/sales/training/)
-1. [Sales enablement sessions](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/)
-1. [Field enablement](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/)
+1. [Sales training](/handbook/sales/training/)
+1. [Sales enablement sessions](/handbook/sales/training/sales-enablement-sessions/)
+1. [Field enablement](/handbook/sales/field-operations/field-enablement/)
 1. [GitLab Training tracks](https://about.gitlab.com/learn/)
 1. [GitLab University](https://docs.gitlab.com/ee/university/)
-1. [Customer Success Skills Exchange Sessions](https://about.gitlab.com/handbook/sales/training/customer-success-skills-exchange/)
-1. [Professional services offerings](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/framework/#service-offering-framework/)
+1. [Customer Success Skills Exchange Sessions](/handbook/sales/training/customer-success-skills-exchange/)
+1. [Professional services offerings](/handbook/customer-success/professional-services-engineering/framework/#service-offering-framework/)
 1. [Onboarding]({{< ref "general-onboarding" >}}) both general and department specific
 1. [Learn@GitLab](https://about.gitlab.com/learn/)
 1. [Customer Success GitLab Demos platform & catalog](https://gitlabdemo.com/)
@@ -103,7 +103,7 @@ Test your knowledge and self-reflect on the Remote Work Competencies by completi
 
 ### Functional Competencies
 
-1. [Field Competencies](https://about.gitlab.com/handbook/sales/training/field-functional-competencies/)
+1. [Field Competencies](/handbook/sales/training/field-functional-competencies/)
 1. [Engineering Competencies](https://about.gitlab.com/handbook/engineering/career-development/matrix/engineering/)
 1. [Product Management Competencies](/handbook/product/product-manager-role/product-CDF-competencies/)
 

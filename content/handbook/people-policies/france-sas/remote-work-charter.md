@@ -300,7 +300,7 @@ In particular, the team member will ensure that no information is passed on to t
 
 The expenses incurred by the use of the team member's domicile for remote work purposes (wifi, heating, electricity, etc) will be covered by the Company in accordance with the local regulations applicable at the time of expense.
 
-This means that you shall receive a minimum payment of €57.20 per month, up to the limits set out in our [expenses policy](https://handbook.gitlab.com/handbook/finance/expenses/) and provided that your remote work expenses actually incurred monthly reach, at least, this amount.
+This means that you shall receive a minimum payment of €57.20 per month, up to the limits set out in our [expenses policy](/handbook/finance/expenses/) and provided that your remote work expenses actually incurred monthly reach, at least, this amount.
 
 Currently, this is incorporated into our general approach to managing expenses and reimbursement via our expensing tool (Navan).
 

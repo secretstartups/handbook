@@ -298,13 +298,13 @@ The following section provides resources to help CSMs lead capabilities adoption
 
 1. Ask Discovery Questions to identify customer need
 2. Complete the deeper dive discovery sharing demo, proof points, value positioning, etc.
-3. Deliver [pipeline conversion workshop](https://about.gitlab.com/handbook/customer-success/playbooks/ci-verify.html) and user enablement example
+3. Deliver [pipeline conversion workshop](/handbook/customer-success/playbooks/ci-verify.html) and user enablement example
 4. Agree to adoption roadmap, timeline and change management plans, offering relevant services (as needed) and updating the success plan (as appropriate)
 5. Lead the adoption plan with the customer, enabling teams and tracking progress through engagement and/or product analytics data showing use case adoption
 
 ### Adoption Recommendation
 
-This table shows the recommended features to adopt, links to product documentation, the respective subscription tier for the feature, and [Service Ping](https://about.gitlab.com/handbook/customer-success/csm/service-ping-faq/) metrics.
+This table shows the recommended features to adopt, links to product documentation, the respective subscription tier for the feature, and [Service Ping](/handbook/customer-success/csm/service-ping-faq/) metrics.
 
 | Feature                                           | F  | P  | U  | Service Ping metrics | Notes |
 | ------------------------------------------------------------ | -----| ---- | ---- | --------- | ---- |

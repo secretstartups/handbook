@@ -9,9 +9,9 @@ description: >-
 
 ## Important Links
 
-1. [Hands On Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandson.html)
+1. [Hands On Guide](/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandson.html)
 2. [GitLab Template Projects for VMs](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-with-git-basics)
-3. [Remote Sessions Tips and Tricks](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-tips/)
+3. [Remote Sessions Tips and Tricks](/handbook/customer-success/professional-services-engineering/remote-training-tips/)
 
 
 ## Things to do Ahead
@@ -24,7 +24,7 @@ description: >-
     2. Test each hands-on activity in the lab environment
 3. Websites to have up prior to class
     1. [Related GitLab Docs pages](https://docs.gitlab.com/ee/gitlab-basics/)
-    2. [Hands on Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandson.html)
+    2. [Hands on Guide](/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandson.html)
     3. Lab environment
     4. Example demo projects
 4. Slides

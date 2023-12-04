@@ -155,7 +155,7 @@ This role will provide business operations support for the Professional Services
 ## Performance Indicators
 
 - [CSAT](/handbook/support/support-ops/#customer-satisfaction-survey-csat ) >8.0/10
-- [Project Margin](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#long-term-profitability-targets ) > 20% for assigned projects
+- [Project Margin](/handbook/customer-success/professional-services-engineering/#long-term-profitability-targets ) > 20% for assigned projects
 
 ## Career Ladder
 

@@ -41,8 +41,8 @@ The Director, Digital Success is a [grade 10](/handbook/total-rewards/compensati
 
 ## Performance Indicators
 
-- Bookings and revenue growth as measured by [ARR](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/), including gross renewal, expansion, and net retention
-- Key [customer success](https://about.gitlab.com/handbook/customer-success/vision/#measurement-and-kpis) measures (e.g., time-to-value, product adoption / health score, expansion win rates, etc.). A number of these measures need to evolve to be developed.
+- Bookings and revenue growth as measured by [ARR](/handbook/sales/sales-term-glossary/arr-in-practice/), including gross renewal, expansion, and net retention
+- Key [customer success](/handbook/customer-success/vision/#measurement-and-kpis) measures (e.g., time-to-value, product adoption / health score, expansion win rates, etc.). A number of these measures need to evolve to be developed.
 
 ## Career Ladder
 

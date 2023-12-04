@@ -14,7 +14,7 @@ This page contains guidance to help you better understand how our customers are 
 
 ## Adoption - GitLab Usage Statistics
 
-Using [GitLab Version Check](https://about.gitlab.com/handbook/sales/process/version-check/), GitLab usage data is pushed into Salesforce for both CE, EE and EE trial users.
+Using [GitLab Version Check](/handbook/sales/process/version-check/), GitLab usage data is pushed into Salesforce for both CE, EE and EE trial users.
 Once in Salesforce application, you will see a tab called "Usage Statistics".
 Using the drop down view, you can select CE, EE trails or EE to see all usage data sent to Gitlab.
 Since version check is pulling the host name, the lead will be recorded as the host name.  Once you have identified the correct company name, please update the company name.
@@ -87,4 +87,4 @@ Please enter the following data in the "White Space (Use Case)" section of a spe
 - `uc_(Use Case) Contract End Date`: As exact as possible date their current technology contract end
 
 
-See the [License Usage Handbook](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/license-usage-app/) for more information.
+See the [License Usage Handbook](/handbook/sales/field-operations/sales-systems/license-usage-app/) for more information.

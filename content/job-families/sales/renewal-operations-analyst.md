@@ -132,7 +132,7 @@ The Senior Manager, Renewal Operations is a [grade 9](/handbook/total-rewards/co
 - SMAU
 - [CSAT](/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
 - [PNPS](/handbook/product/performance-indicators/#gitlab-com-paid-net-promoter-score-pnps)
-- [Churn & customer retention metrics](https://about.gitlab.com/handbook/customer-success/vision/#retention-and-reasons-for-churn)
+- [Churn & customer retention metrics](/handbook/customer-success/vision/#retention-and-reasons-for-churn)
 
 ## Career Ladder
 

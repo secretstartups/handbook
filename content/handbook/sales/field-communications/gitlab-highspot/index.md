@@ -30,7 +30,7 @@ GitLab ultimately chose to onboard Highspot as a sales asset management system t
 
 ### Communicating with the Highspot Team
 
-Highspot is managed by the [Field Enablement organization](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/), specifically, the [Field Communications & Content](https://about.gitlab.com/handbook/sales/field-communications) team. The team leverages a contract agency, [Arnic Business Solutions](https://arnicbizsolutions.com/), to help manage the day-to-day administration of our Highspot instance.
+Highspot is managed by the [Field Enablement organization](/handbook/sales/field-operations/field-enablement/), specifically, the [Field Communications & Content](/handbook/sales/field-communications) team. The team leverages a contract agency, [Arnic Business Solutions](https://arnicbizsolutions.com/), to help manage the day-to-day administration of our Highspot instance.
 
 There are two primary Slack channels to communicate with platform DRIs and other content owners / contributors about Highspot at GitLab:
 1. #highspot-help-center: Public channel for team members to ask questions and get updates regarding Highspot.
@@ -45,7 +45,7 @@ The Highspot team creates GitLab Issue Templates within the Enablement Project f
 
 ### Key definitions
 
-1. **Spots** - Spots are similar to an asset folder. We use spots to provide quick access to specific content for a certain group or purpose. Spots are the basic building blocks of Highspot. User access to content is determined at the Spot level. See [GitLab Spots](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/#gitlab-spots) for a full list of Spots.
+1. **Spots** - Spots are similar to an asset folder. We use spots to provide quick access to specific content for a certain group or purpose. Spots are the basic building blocks of Highspot. User access to content is determined at the Spot level. See [GitLab Spots](/handbook/sales/field-communications/gitlab-highspot/#gitlab-spots) for a full list of Spots.
 1. **SmartPage** - SmartPages are similar to landing pages. Content Owners can create SmartPages to display curated content and provide instructions and CTAs for field members.
 1. **Lists & List Groups** - Lists work as filters, and make it easier to find the content you need. Lists can then be collected under list groups for further organization.
 1. **Role: Field User** - Field users, or Contributors, have the ability to pitch items to prospects and customers, view pitch performance analytics, and submit content to Highspot Spot Owners for reivew and publishing. This is the access level that most GitLab GTM team members will have.
@@ -105,23 +105,23 @@ Highspot provides powerful ways to browse and filter content and helps you pinpo
 
 To quickly explore a spot, you can click on a tag list in the left nav pane. The main area will show only the items tagged within that list. For example, in the screenshot below, the **eBook** tag list shows all items that match that asset type found in the **Customer-Facing Content** spot.
 
-![Screenshot_AddBookmark](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Example_BrowseTagLists2.png)
+![Screenshot_AddBookmark](/handbook/sales/field-communications/gitlab-highspot/images/Example_BrowseTagLists2.png)
 
 #### Filter Tag Lists
 
 You can also use Filter mode to narrow down all items in a spot to just the content you need, much like filtering for products in an e-commerce application. To enter **Filter** mode, click the funnel icon in the left nav pane.
 
-![Screenshot_AddBookmark](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Example_FilterTagLIsts.png)
+![Screenshot_AddBookmark](/handbook/sales/field-communications/gitlab-highspot/images/Example_FilterTagLIsts.png)
 
 You'll see lists with checkboxes for narrowing down the results. In the filtered view of the **Solution Selling** spot, pictured below, you can filter results based on Asset Type and Buyer Persona, for example. You can also use your own activity to filter results. In this case, if you've copied or viewed an asset, you can click Copied and Viewed under Your Activity.
 
-![Screenshot_AddBookmark](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Example_ListsAndCheckboxes.png)
+![Screenshot_AddBookmark](/handbook/sales/field-communications/gitlab-highspot/images/Example_ListsAndCheckboxes.png)
 
 #### Spot Sort
 
 Another way to navigate a spot is by using Sort under the spot title:
 
-![Screenshot_AddBookmark](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Example_SpotSort.png)
+![Screenshot_AddBookmark](/handbook/sales/field-communications/gitlab-highspot/images/Example_SpotSort.png)
 
 Here is an overview of each sort:
 - **Popularity:** Item determined by the following types of activities: Views, Pitches, Shares, Downloads, Bookmarks, Remixes, and Copies. Shows each item only once, grouped by:
@@ -137,11 +137,11 @@ Here is an overview of each sort:
 
 One of the quickest and easiest ways to find content in Highspot is through search. You can run a quick search across the entire site by entering your query and clicking return. When you type in a search term, individual items will appear at the top of the list. Different types of items in the search results are divided by lines. You can use the icons to quickly identify results by type: a target for Spot, a headshot outline for person, three heads for Group, etc.
 
-![Screenshot_AddBookmark](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Example_SearchforContent.png)
+![Screenshot_AddBookmark](/handbook/sales/field-communications/gitlab-highspot/images/Example_SearchforContent.png)
 
 You’ll see the Search results page, pictured below:
 
-![Screenshot_AddBookmark](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Example_SearchResultsPage.png)
+![Screenshot_AddBookmark](/handbook/sales/field-communications/gitlab-highspot/images/Example_SearchResultsPage.png)
 
 You can scroll through the search results and use the left nav to filter down the results.
 
@@ -181,7 +181,7 @@ Once these steps are complete, you will see your custom signature included under
 
 ### Pitching Types & Use Cases
 
-![Screenshot_AddBookmark](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Example_PitchExamples.png)
+![Screenshot_AddBookmark](/handbook/sales/field-communications/gitlab-highspot/images/Example_PitchExamples.png)
 
 #### Email Pitch
 
@@ -236,7 +236,7 @@ Once these steps are complete, you will see your custom signature included under
 
 - **When to use:** If you have an existing email thread going and want to share content inline. And/or if you just don’t feel like going into the Highspot web app.
 
-![Screenshot_AddBookmark](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Example_PitchDirectlyFromGmail.png)
+![Screenshot_AddBookmark](/handbook/sales/field-communications/gitlab-highspot/images/Example_PitchDirectlyFromGmail.png)
 
 - **Gmail Pitch Settings:** When preparing to send a pitch directly through Gmail, you can control the following activities:
    - Set expiration on pitch
@@ -344,13 +344,13 @@ Once these steps are complete, you will see your custom signature included under
 The following steps are used to create Pitches using specific Pitch Style and Pitch Templates:
 
 - Select **New Pitch**:
-![Pitch_template_step1](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Pitch_template_step1.png)
+![Pitch_template_step1](/handbook/sales/field-communications/gitlab-highspot/images/Pitch_template_step1.png)
 - Select **Link Pitch**:
-![Pitch_template_step2](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Pitch_template_step2.png)
+![Pitch_template_step2](/handbook/sales/field-communications/gitlab-highspot/images/Pitch_template_step2.png)
 - Select the **Pitch Template** - choose "Browse all templates" and select the appropriate *Template*:
-![Pitch_template_step3](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Pitch_template_step3.png)
+![Pitch_template_step3](/handbook/sales/field-communications/gitlab-highspot/images/Pitch_template_step3.png)
 - Select the **Pitch Style** - choose "Browse all templates" and select the appropriate *Style*:
-![Pitch_template_step4](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Pitch_template_step4.png)
+![Pitch_template_step4](/handbook/sales/field-communications/gitlab-highspot/images/Pitch_template_step4.png)
 
 ### Editing Content in Highspot
 
@@ -384,15 +384,15 @@ At this time, the entire GitLab GTM organization, which includes the global Fiel
 
 **How do I get access to Highspot?**
 
-All members of GitLab's GTM organization have access to the tool via their Okta dashboard. For a full list of teams with Highspot access, see the [Availability section](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/#availability) above. If you are on one of these teams and still do not have Highspot access via Okta, please open an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#how-do-i-choose-which-template-to-use).
+All members of GitLab's GTM organization have access to the tool via their Okta dashboard. For a full list of teams with Highspot access, see the [Availability section](/handbook/sales/field-communications/gitlab-highspot/#availability) above. If you are on one of these teams and still do not have Highspot access via Okta, please open an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#how-do-i-choose-which-template-to-use).
 
 **If I have a recommendation for a piece of content that should be in Highspot for all to access, how do I contribute?**
 
 Contributing to Highspot is easy, and we encourage all team members to contribute resources that you think the entire GTM org or specific teams could benefit from. This could be anything from a Marketing resource you found that isn't already in Highspot or a presentation/document you created or found that would be helpful for team members to reference as an example of "what good looks like." If it's helpful for the team, we want to include it in Highspot!
 
-To submit content, navigate to the Highspot homepage and click on the `Contribute Content to Highspot` button. From there, you'll see [these instructions](https://gitlab.highspot.com/spots/61a55821bfc73fc1b19395f1?list=61e8a12843d672fdfa27e199) that will guide you through how to submit a piece / pieces of content in less than one minute! Please follow the instructions for [adding a piece of content from Google Drive](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/#links-from-google-drive) or [adding a piece of content via a URL](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/#embedding-links) below when contributing content.
+To submit content, navigate to the Highspot homepage and click on the `Contribute Content to Highspot` button. From there, you'll see [these instructions](https://gitlab.highspot.com/spots/61a55821bfc73fc1b19395f1?list=61e8a12843d672fdfa27e199) that will guide you through how to submit a piece / pieces of content in less than one minute! Please follow the instructions for [adding a piece of content from Google Drive](/handbook/sales/field-communications/gitlab-highspot/#links-from-google-drive) or [adding a piece of content via a URL](/handbook/sales/field-communications/gitlab-highspot/#embedding-links) below when contributing content.
 
-![Screenshot_ContributeContent](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Example_ContributeContent.png)
+![Screenshot_ContributeContent](/handbook/sales/field-communications/gitlab-highspot/images/Example_ContributeContent.png)
 
 **Who can upload content to Highspot?**
 
@@ -408,7 +408,7 @@ Please request access from the owner of the spot where you would like to gain ac
 
 **How do I determine the owner(s) of a spot?**
 
-You can find the spot owner in the top right-hand corner of a spot and/or at the bottom of the spot overview page. To get in touch with the spot owner, we recommend [reaching out on Slack](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/#communicating-with-the-highspot-team).
+You can find the spot owner in the top right-hand corner of a spot and/or at the bottom of the spot overview page. To get in touch with the spot owner, we recommend [reaching out on Slack](/handbook/sales/field-communications/gitlab-highspot/#communicating-with-the-highspot-team).
 
 **What's the best way to save a piece of content that I want to come back to later?**
 
@@ -475,7 +475,7 @@ Yes. PathFactory tracks are a type of asset that can be shared using Highspot. C
 
 Not from within Highspot. The Highspot pitch function and analytics are currently designed for a 1:1 or 1:few experience. The tool is optimized to provide tracking and insights into what customers are opening and viewing (i.e. what content they value) through the 1:1 motion.
 
-If you would like to send Highspot content or a pitch template to a mass audience, consider leveraging the [Outreach integration](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/#outreach-pitch).
+If you would like to send Highspot content or a pitch template to a mass audience, consider leveraging the [Outreach integration](/handbook/sales/field-communications/gitlab-highspot/#outreach-pitch).
 
 **Is Highspot a tool for Marketing automation and email nurture?**
 Highspot is not a replacement for marketing automation or email nurture tools such as Marketo. All email pitches are sent by a member of the Field team, who can then view insights.
@@ -519,13 +519,13 @@ Please note: Highspot Lists are not auto-populated. It is best practice to check
 
 Highspot offers the ability to link files directly from GitLab's Google Drive. **When adding a piece of content from Google Drive, you should *always* add the file directly from Drive versus add the link** – i.e. select the + button --> Add Files --> From Cloud Services (Google Drive) vs. + --> Add Link. This will allow Highspot to keep that piece of content up-to-date as changes are made to the Google Drive file.
 
-![Screenshot_LinkVSFile](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Example_AddFiles_vs_AddLink.png)
+![Screenshot_LinkVSFile](/handbook/sales/field-communications/gitlab-highspot/images/Example_AddFiles_vs_AddLink.png)
 
-![Screenshot_AddFromDrive](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Example_AddFromDrive.png)
+![Screenshot_AddFromDrive](/handbook/sales/field-communications/gitlab-highspot/images/Example_AddFromDrive.png)
 
 In addition, when adding files directly from Drive, ALWAYS select the `Automatically update content from Google Drive` option to maintain version control.
 
-![Screenshot_DriveAutoUpdate](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Example_AutoUpdate.png)
+![Screenshot_DriveAutoUpdate](/handbook/sales/field-communications/gitlab-highspot/images/Example_AutoUpdate.png)
 
 #### Google Slide Considerations
 
@@ -554,7 +554,7 @@ Using the embed code will allow Highspot users to view the webpage content direc
 1. External - Some external links (ex. industry articles) will not allow embedding. You can test this by selecting `Use embed code` and then clicking on the item to check. You will see a broken link message if that link is unable to be embedded.
 1. Private YouTube Unfiltered - Links for videos set to private will not embed.
 
-![Screenshot_DriveAutoUpdate](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Example_EmbedCode.png)
+![Screenshot_DriveAutoUpdate](/handbook/sales/field-communications/gitlab-highspot/images/Example_EmbedCode.png)
 
 #### Internal vs. External Content
 
@@ -566,7 +566,7 @@ For any internal Google Drive resources, you should also select the option to `P
 
 If you are unsure about whether a piece of content is fit to be external, please contact GitLab Legal in the #legal channel.
 
-![Screenshot_DriveAutoUpdate](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Example_InternalContentPermissions.png)
+![Screenshot_DriveAutoUpdate](/handbook/sales/field-communications/gitlab-highspot/images/Example_InternalContentPermissions.png)
 
 #### Content expiration 101
 
@@ -578,12 +578,12 @@ The recommendation is to set a piece of content to expire one year from the uplo
 
 When a piece of content does expire, it will not be deleted. Instead, it will be moved into an Archived folder. All spot owners will receive a notification and can easily reset the content expiration date with the click of a button.
 
-![Screenshot_ScheduleContent](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Example_ScheduleContent.png)
+![Screenshot_ScheduleContent](/handbook/sales/field-communications/gitlab-highspot/images/Example_ScheduleContent.png)
 
 #### Validation Rules
 
 There are three validation rules set in GitLab's Highspot instance. Each piece of content must include:
-1. An expiration date - A built-in checkpoint to maintain the quality of content in Highspot (see [Content expiration 101](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/#content-expiration-101) for more details)
+1. An expiration date - A built-in checkpoint to maintain the quality of content in Highspot (see [Content expiration 101](/handbook/sales/field-communications/gitlab-highspot/#content-expiration-101) for more details)
 1. A description - Whether one sentence or a full paragraph, a description will help make content more discoverable by users when searching for key words
 1. At least one list - Content should be tagged to at least one list (but preferably more) to help increase discoverability
 
@@ -591,9 +591,9 @@ If one of these validation rules is broken, you will see a `Validates Policy` fl
 
 A piece of content that has this flag will still be visible in Highspot for users to see. The flag is more of a visual cue to help content owners maintain Highspot best-practices.
 
-![Screenshot_ViolatesPolicyFlag](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Example_ViolatesPolicyFlag.png)
+![Screenshot_ViolatesPolicyFlag](/handbook/sales/field-communications/gitlab-highspot/images/Example_ViolatesPolicyFlag.png)
 
-![Screenshot_ValidationRuleMessage](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Example_ValidationRuleMessage.png)
+![Screenshot_ValidationRuleMessage](/handbook/sales/field-communications/gitlab-highspot/images/Example_ValidationRuleMessage.png)
 
 
 #### Including content in more than one spot
@@ -602,7 +602,7 @@ Some content might fit in more than one spot. When this happens, you should book
 
 It is likely that this scenario will happen most often with the Customer-Facing Content spot, as content that fits under Marketing could also fit under Customer-Facing Content. Always default to adding the content within the primary spot first and then bookmark into Customer-Facing Content. In this scenario, you'd add the link/file to `Marketing` and then bookmark to `Customer-Facing Content`.
 
-![Screenshot_AddBookmark](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/images/Example_AddBookmark.png)
+![Screenshot_AddBookmark](/handbook/sales/field-communications/gitlab-highspot/images/Example_AddBookmark.png)
 
 #### Designing and building SmartPages
 
@@ -635,8 +635,8 @@ As of 2023-07-17, the [GitLab Duo (AI) spot](https://gitlab.highspot.com/spots/6
 
 Moving forward, **all AI-related content – internal and external – should be added to the GitLab Duo (AI) spot.** Stakeholders have been given edit access to this spot so they can add content. If you are a Highspot content contributor adding content to this spot, please review and follow the below guidelines to ensure we maintain an efficient user experience in this spot. If you need access to add content to this spot, please reach out in #highspot-content-owners.
 
-1. Review the [guidance for uploading content above](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/#gitlab-highspot-best-practices-for-content-owners) to ensure you are adding content in accordance with our best-practices.
-1. If it makes sense in a secondary spot (i.e. Customer Outreach, Customer Success, Field Strategy & Enablement, etc.) [bookmark](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/#including-content-in-more-than-one-spot) the content into another spot once added in the AI spot.
+1. Review the [guidance for uploading content above](/handbook/sales/field-communications/gitlab-highspot/#gitlab-highspot-best-practices-for-content-owners) to ensure you are adding content in accordance with our best-practices.
+1. If it makes sense in a secondary spot (i.e. Customer Outreach, Customer Success, Field Strategy & Enablement, etc.) [bookmark](/handbook/sales/field-communications/gitlab-highspot/#including-content-in-more-than-one-spot) the content into another spot once added in the AI spot.
 1. Apply at LEAST one of the eight lists (tags) available in the AI spot.
 1. New content will appear in the "Revenue-Focused" (owned by PMM) and "Techincal Resources" (owned by Dev Rel/Technical Marketing) sections automatically based on the lists applied. No action is needed from teams owning these sections.
 1. To ensure the most relevant resources are served up on the homepage, featured content in “What to Know” section (owned by PMM), “Key Messaging” (owned by PMM) and “Competitive Resources” (owned by Competitive Intelligence) will have to be added manually by owners by editing the overview page for the spot.

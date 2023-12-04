@@ -37,7 +37,7 @@ All AEs are expected to have good pipeline generation coverage (3.5x) regardless
 
 ## Build your strategy
 
-**Start from [your territory plan](https://about.gitlab.com/handbook/sales/territory-planning/#overview).** This exercise should be your source of information on where you’re prioritizing your time and what activities you and your team think will be most effective. It's also where you've set your **pipeline generation target.**
+**Start from [your territory plan](/handbook/sales/territory-planning/#overview).** This exercise should be your source of information on where you’re prioritizing your time and what activities you and your team think will be most effective. It's also where you've set your **pipeline generation target.**
 
 *How to determine your target?* A general rule of thumb is to plan to create 3.5x your target in pipeline and then work backwards to determine what value you need to deliver every quarter and every month. As you measure your success, you’ll learn whether that’s too high or too low based on how you implement your strategy and the results you deliver.
 
@@ -60,7 +60,7 @@ Work with your [Sales Development team member](/handbook/marketing/sales-develop
 Work with your Sales Development team member to:
 - Decide which format of approach is best (email, linkedin, phone), and what your cadence will be:
 - Customize the [Prospecting Sequences for AEs](https://docs.google.com/document/d/1ksEGBsDVjQGkSeq8ESKf9Jdy-N7wREq_stnLutJBPTo/edit#heading=h.ufep756p4z4j) template or create your own.
-- Organize the [qualifying questions](https://about.gitlab.com/handbook/sales/qualification-questions/) and [customer use cases](/handbook/use-cases/) that might be relevant.
+- Organize the [qualifying questions](/handbook/sales/qualification-questions/) and [customer use cases](/handbook/use-cases/) that might be relevant.
 - **Practice your elevator pitch.** Both you and your SD teammate need to practice your pitches together to make sure you’re aligned on what you want the customer or prospect to hear. Really work on your tone of voice. You know you’re ready if you can easily tweak it based on who you’re talking to and what’s relevant to them.
 
 **Work with partners:** Work with your Channel Account Manager (CAM), talk to your peers, or use the [Partner Directory](https://partners.gitlab.com/English/directory/) to identify if there is a partner that supports specific accounts and can provide insight into target contacts or stakeholders.
@@ -132,27 +132,27 @@ Holding hurts our prospective customers because while they’re sitting there, t
 
 ## Resources
 
-- [Sales discovery and qualifying questions handbook page](https://about.gitlab.com/handbook/sales/qualification-questions/)
-- [Effective discovery handbook page](https://about.gitlab.com/handbook/sales/playbook/discovery/)
+- [Sales discovery and qualifying questions handbook page](/handbook/sales/qualification-questions/)
+- [Effective discovery handbook page](/handbook/sales/playbook/discovery/)
 - [Most common customer use cases handbook page](/handbook/use-cases/)
 
 #### Training
 
 - [Pipeline Generation at GitLab](https://gitlab.edcast.com/pathways/pipeline-generation-at-gitlab) (GitLab Learn - EdCast, 35 minutes)
 - [Effective discovery course](https://gitlab.edcast.com/insights/ECL-c0a6e34d-a997-4200-b0d9-65e3305e3761) (GitLab Learn - EdCast, 40 minutes)
-- [Demystifying the metrics conversation](https://about.gitlab.com/handbook/sales/command-of-the-message/metrics/#embrace-your-role-as-the-trusted-advisor) (Nico Ochoa video, 10 minutes)
+- [Demystifying the metrics conversation](/handbook/sales/command-of-the-message/metrics/#embrace-your-role-as-the-trusted-advisor) (Nico Ochoa video, 10 minutes)
 - [Pipeline Generation - Leading with Insights](https://www.youtube.com/watch?v=fNiGq5uOxgo) (GitLab Unfiltered, Nov 2019, 10 minutes)
 
 #### Support
 
 - [Field Marketing events and support](/handbook/marketing/field-marketing/#types-of-programs-field-marketing-runs)
 - [Compete support](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/#account-specific-support) and [Competition Slack channel](https://gitlab.slack.com/archives/C1BBL1V3K)
-- [Executive sponsorship program](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#executive-sponsorship-program)
+- [Executive sponsorship program](/handbook/sales/field-operations/gtm-resources/#executive-sponsorship-program)
 - [Nominate account for ABM marketing support](/handbook/marketing/account-based-marketing/)
 
 **Partner support:** [#channel-sales Slack channel](https://gitlab.slack.com/archives/CT9KKE5RR) is a great place to get help from a Channel Account Manager that can share partner contacts with you
 - Find a partner in the [GitLab Partner Directory](https://partners.gitlab.com/English/directory/)
-- Register a deal [with our technology partners](https://about.gitlab.com/handbook/resellers/#deal-registration-instructions)
+- Register a deal [with our technology partners](/handbook/resellers/#deal-registration-instructions)
 
 
 #### Tools
@@ -161,11 +161,11 @@ The toolkit above will be your main resource and contains things like a sequenci
 
 **[Outreach.io](https://university.outreach.io/page/prospector-learning-track)** is a tool used to automate emails in the form of sequences. Users can track open rates, click through rates, response rates for various templates and update sequences based on these metrics. Outreach.io also helps to track sales activities such as calls. All emails/calls/tasks that are made through Outreach.io are automatically logged in Salesforce with a corresponding disposition. See below for a list of current call dispositions, what they mean and scenarios on when to use each of them. All AEs can request access to Outreach.io by submitting an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) (if you do not already have access).
 
-**[LinkedIn Sales Navigator](https://www.linkedin.com/business/sales/blog/sales-navigator/what-is-linkedin-sales-navigator)** is one of the main prospecting tools we use at GitLab. It features a powerful set of search capabilities, improved visibility into extended networks, and personalized algorithms to help you reach the right decision maker. All AEs have access to LSN. [Click to go to the EdCast training.](https://gitlab.edcast.com/insights/learning-linkedin-sales) And view additional videos and tutorials on [the handbook page](https://about.gitlab.com/handbook/sales/training/social-selling/).
+**[LinkedIn Sales Navigator](https://www.linkedin.com/business/sales/blog/sales-navigator/what-is-linkedin-sales-navigator)** is one of the main prospecting tools we use at GitLab. It features a powerful set of search capabilities, improved visibility into extended networks, and personalized algorithms to help you reach the right decision maker. All AEs have access to LSN. [Click to go to the EdCast training.](https://gitlab.edcast.com/insights/learning-linkedin-sales) And view additional videos and tutorials on [the handbook page](/handbook/sales/training/social-selling/).
 
 **[6Sense](/handbook/marketing/marketing-operations/6sense/)** is used by Sales Development who can show you relevant data related to your target prospects. It has a wealth of intent and propensity to buy data that is married with account engagement indicators to create a holistic intent mapping for each account.
 
 **[Conversica](/handbook/marketing/marketing-operations/conversica/)** is a conversational AI tool that helps enterprise marketing, sales, customer success, and finance teams attract, acquire and grow customers at scale across the customer revenue lifecycle. The AI Assistant works by engaging the prospect in a human-like conversation over email in an effort to further qualify the prospect.
 
-**[Salesforce Inbox](https://www.salesforce.com/products/sales-cloud/features/crm-email-connector/?d=cta-conf-1)** is a productivity tool to integrate Salesforce with emails. You may need to request access. View the [Associating emails to Salesforce handbook](https://about.gitlab.com/handbook/sales/prospect-engagement-best-practices/) page for more information on how to use Salesforce to track outreach.
+**[Salesforce Inbox](https://www.salesforce.com/products/sales-cloud/features/crm-email-connector/?d=cta-conf-1)** is a productivity tool to integrate Salesforce with emails. You may need to request access. View the [Associating emails to Salesforce handbook](/handbook/sales/prospect-engagement-best-practices/) page for more information on how to use Salesforce to track outreach.
 

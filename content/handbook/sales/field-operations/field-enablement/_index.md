@@ -79,7 +79,7 @@ The Field Enablement and Communications teams track and measure success in three
 When considering how to engage with the Field Enablement team, stakeholders should take into account the following questions:
 
 1. Does the Field need to **know** something? (Field Comms-only motion)
-   1. A Field Comms motion seeks to inform the Field team of important updates/information via the communication channels outlined on the [Field Communications page](https://about.gitlab.com/handbook/sales/field-communications).
+   1. A Field Comms motion seeks to inform the Field team of important updates/information via the communication channels outlined on the [Field Communications page](/handbook/sales/field-communications).
 1. Does the Field need to **know** AND **do** something? (Field Comms and Enablement motion)
    1. A Field Enablement motion seeks to enable  the Field team on a particular skill via trainings or accreditations.
 
@@ -87,7 +87,7 @@ The answer to the above questions will dictate how the Enablement team triages r
 
 ### Field Announcement Request Issue
 
-The **[Field Announcement request issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=field-announcement-request&_gl=1*jp1h94*_ga*NTUxMTYwMTU0LjE2MDIwOTI5Nzc.*_ga_ENFH3X7M5Y*MTY4OTM2ODc3NS4zMjQuMS4xNjg5MzY4OTQ1LjAuMC4w)** gathers requests from DRIs/stakeholders across the business to launch or announce something to the Field team – either the full team or a large segment of it. Segment-specific communications are currently out of scope and will require an [Field Enablement request flow](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/#field-enablement-request-issue). **Requesters / DRIs should open an issue using this template to track:**
+The **[Field Announcement request issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=field-announcement-request&_gl=1*jp1h94*_ga*NTUxMTYwMTU0LjE2MDIwOTI5Nzc.*_ga_ENFH3X7M5Y*MTY4OTM2ODc3NS4zMjQuMS4xNjg5MzY4OTQ1LjAuMC4w)** gathers requests from DRIs/stakeholders across the business to launch or announce something to the Field team – either the full team or a large segment of it. Segment-specific communications are currently out of scope and will require an [Field Enablement request flow](/handbook/sales/field-operations/field-enablement/#field-enablement-request-issue). **Requesters / DRIs should open an issue using this template to track:**
 
 1. Upcoming projects or initiatives that will impact the Field team’s processes or workflows
 1. Announcements that teams would like the Field to be aware of (organizational or otherwise)
@@ -96,7 +96,7 @@ The **[Field Announcement request issue](https://gitlab.com/gitlab-com/sales-tea
 
 The issue template includes questions and instructions to assist the Enablement team in determining if the announcement requires a Field Comms-only or Field Comms and Enablement motion. Please complete the required sections of the issue template in full, providing as much detail as possible. Note that ALL questions must be answered prior to Field Enablement triaging your request.
 
-Once the request has been triaged by Field Communications, the team will collaborate with you to clarify any outstanding details and define a launch plan. If a Field Comms and Enablement motion is required, Field Enablement will open a [Field Enablement issue](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/#field-enablement-request-issue) (below) to scope enablement-related activities and deliverables.
+Once the request has been triaged by Field Communications, the team will collaborate with you to clarify any outstanding details and define a launch plan. If a Field Comms and Enablement motion is required, Field Enablement will open a [Field Enablement issue](/handbook/sales/field-operations/field-enablement/#field-enablement-request-issue) (below) to scope enablement-related activities and deliverables.
 
 ### Field Enablement Request Issue
 
@@ -126,36 +126,36 @@ To reach the Field Enablement team on Slack, use #field-enablement-team
 ## Key Programs
 
 1. Sales Enablement
-    - [Enterprise Enablement](https://about.gitlab.com/handbook/sales/playbook/)
-    - [Commercial Enablement](https://about.gitlab.com/handbook/sales/commercial/enablement/)
+    - [Enterprise Enablement](/handbook/sales/playbook/)
+    - [Commercial Enablement](/handbook/sales/commercial/enablement/)
 1. Customer Success Enablement
-    - [Customer Success Manager (CSM) Enablement](https://about.gitlab.com/handbook/customer-success/csm/csm-development/)
+    - [Customer Success Manager (CSM) Enablement](/handbook/customer-success/csm/csm-development/)
 1. Partner Enablement
-     - [Channel Partner Training, Accreditations and Enablement](https://about.gitlab.com/handbook/resellers/training/)
+     - [Channel Partner Training, Accreditations and Enablement](/handbook/resellers/training/)
 1. Field Onboarding & Ramp
-    - [Sales & Customer Success Onboarding and Sales Quick Start (SQS)](https://about.gitlab.com/handbook/sales/onboarding/)
-1. [Field Communications](https://about.gitlab.com/handbook/sales/field-communications/)
-    - [#field-fyi Slack channel](https://about.gitlab.com/handbook/sales/sales-google-groups/field-fyi-channel/)
-    - [Field Update Tickers](https://about.gitlab.com/handbook/sales/field-communications/field-update-tickers/)
-    - [Field Flash Newsletter](https://about.gitlab.com/handbook/sales/field-communications/field-flash-newsletter/)
-    - [Field team All-Hands meetings](https://about.gitlab.com/handbook/sales/sales-meetings/)
-    - [Monthly GitLab Release Email to Sales](https://about.gitlab.com/handbook/sales/field-communications/monthly-release-sales-email)
-    - [Field Team Recognition Programs](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/field-team-recognition)
+    - [Sales & Customer Success Onboarding and Sales Quick Start (SQS)](/handbook/sales/onboarding/)
+1. [Field Communications](/handbook/sales/field-communications/)
+    - [#field-fyi Slack channel](/handbook/sales/sales-google-groups/field-fyi-channel/)
+    - [Field Update Tickers](/handbook/sales/field-communications/field-update-tickers/)
+    - [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
+    - [Field team All-Hands meetings](/handbook/sales/sales-meetings/)
+    - [Monthly GitLab Release Email to Sales](/handbook/sales/field-communications/monthly-release-sales-email)
+    - [Field Team Recognition Programs](/handbook/sales/field-operations/field-enablement/field-team-recognition)
 1. Field Content
-    - [Highspot at GitLab](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/)
-1. [Field Manager Development Program](https://about.gitlab.com/handbook/sales/field-manager-development/)
-     - [Sales Manager Best Practices](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/sales-manager-best-practices)
-     - [CRO Development Day](https://about.gitlab.com/handbook/sales/crodevday/)
+    - [Highspot at GitLab](/handbook/sales/field-communications/gitlab-highspot/)
+1. [Field Manager Development Program](/handbook/sales/field-manager-development/)
+     - [Sales Manager Best Practices](/handbook/sales/field-operations/field-enablement/sales-manager-best-practices)
+     - [CRO Development Day](/handbook/sales/crodevday/)
 1. Selling Excellence
-    - [Command of the Message](https://about.gitlab.com/handbook/sales/command-of-the-message) (value-based sales messaging methodology) and [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) (strategic opportunity qualification)
-    - [Field Functional Competencies](https://about.gitlab.com/handbook/sales/training/field-functional-competencies/)
-    - [Field Accreditation Program](https://about.gitlab.com/handbook/sales/training/field-certification)
-    - [Effective Discovery](https://about.gitlab.com/handbook/sales/playbook/discovery/)
+    - [Command of the Message](/handbook/sales/command-of-the-message) (value-based sales messaging methodology) and [MEDDPPICC](/handbook/sales/meddppicc/) (strategic opportunity qualification)
+    - [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/)
+    - [Field Accreditation Program](/handbook/sales/training/field-certification)
+    - [Effective Discovery](/handbook/sales/playbook/discovery/)
     - Continuous Learning
-        - [Customer Success Skills Exchange](https://about.gitlab.com/handbook/sales/training/customer-success-skills-exchange)
-        - [Field Enablement Spotlight Sessions](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/)
-        - [Sales Training Resources](https://about.gitlab.com/handbook/sales/training/)
-        - [Technical Questions for Sales](https://about.gitlab.com/handbook/sales/training/technical-questions-for-sales/)
+        - [Customer Success Skills Exchange](/handbook/sales/training/customer-success-skills-exchange)
+        - [Field Enablement Spotlight Sessions](/handbook/sales/training/sales-enablement-sessions/)
+        - [Sales Training Resources](/handbook/sales/training/)
+        - [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/)
         - [Level Up: Learning & Development Platform](https://levelup.gitlab.com/learn/dashboard)
 
 ## Field Enablement groups, projects, and labels

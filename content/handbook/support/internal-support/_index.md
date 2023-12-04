@@ -222,7 +222,7 @@ A list of common scenarios and the appropriate option are detailed in the follow
 | **SaaS Subscription Related** | |
 | Extend an (almost) expired subscription | Use this when the customer has a subscription with us and their grace period is (almost) expired. Please note we cannot extend the actual subscription. This instead makes a trial for the namespace and uses that for the extension. Check the [What is included and excluded in trials](https://about.gitlab.com/free-trial/#what-is-included-in-my-free-trial-what-is-excluded) page for more context. |
 | Investigate incorrect subscription info | Use this when the customer has a subscription with us and something is incorrect in their subscription information. This includes problems with: true-ups, subscription mismatches, can't apply subscription to group/namespace, and current seat usage counts. |
-| Reset max seats for QSR | Use this after [approval to waive the overage](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#waived-true-ups-policy-and-approval-requirements) has been granted and documented via SFDC chatter. Once that is done, file the form to request that Support reset the max seats. |
+| Reset max seats for QSR | Use this after [approval to waive the overage](/handbook/sales/field-operations/order-processing/#waived-true-ups-policy-and-approval-requirements) has been granted and documented via SFDC chatter. Once that is done, file the form to request that Support reset the max seats. |
 | SaaS NFR license request | Ensure the group on GitLab.com has started a trial, then use this option to request a SaaS NFR subscription generation. |
 | Billing Entity Change | Use this as part of the process of a billing entity change, to check whether the correct subscription is associated with the customer's group. |
 | Link Subscription to Namespace | Use this when a customer has contacted you to request that their subscription is linked to a provided namespace. Prior to submitting the request, please ensure that you have first received written confirmation from the account owner to link their subscription to the provided namespace. We require sales to upload evidence of this into SFDC and then provide a link to it. An email link or screenshot should be added to the `Google Docs, Notes, & Attachments object` section of the customer's account record in SalesForce.|
@@ -306,7 +306,7 @@ Customers can get their subscription information and a list of users using a sea
 ### I Want to Escalate a Ticket
 
 To keep the term "*escalation*" [MECEFU](/handbook/communication/#mecefu-terms), Support uses the term "**support ticket attention request**" (STAR) to make sure
-[account escalations](https://about.gitlab.com/handbook/customer-success/csm/escalations/) are distinct. "Escalation" can also be confused with "emergency" or "incident."
+[account escalations](/handbook/customer-success/csm/escalations/) are distinct. "Escalation" can also be confused with "emergency" or "incident."
 
 Please open a **support ticket attention request**, during [GitLab Global Support Hours](https://about.gitlab.com/support/#definitions-of-gitlab-global-support-hours) only, if
 any of these are true:
@@ -318,12 +318,12 @@ any of these are true:
 
 [More about support ticket attention requests](/handbook/support/internal-support/support-ticket-attention-requests)
 
-Please open an **[account escalation](https://about.gitlab.com/handbook/customer-success/csm/escalations/)** if:
+Please open an **[account escalation](/handbook/customer-success/csm/escalations/)** if:
 
 - There is account level risk because of a single ticket or an aggregation of several issues.
 - Visibility and attention from multiple departments is required to restore customer confidence and resolve the issue.
 
-[More about account escalations](https://about.gitlab.com/handbook/customer-success/csm/escalations)
+[More about account escalations](/handbook/customer-success/csm/escalations)
 
 Please open an **emergency ticket** if:
 

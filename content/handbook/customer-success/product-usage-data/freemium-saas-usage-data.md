@@ -25,7 +25,7 @@ Empower our internal team with lightweight Free/Trial usage insights in Salesfor
 
 ### Using the Data
 
-For more information on general Product Usage Statistics, see [Using Product Usage Reporting in Gainsight](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/).
+For more information on general Product Usage Statistics, see [Using Product Usage Reporting in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/).
 
 ##### Video Overview
 

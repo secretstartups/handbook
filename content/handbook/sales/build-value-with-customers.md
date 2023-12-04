@@ -10,7 +10,7 @@ description: "An overview of some of the GitLab Field team's best-practices to b
 
 
 
-The below page overviews some best-practices to build value with customers. For a full overview of Sales Operating Procedures, see the four phases [here](https://about.gitlab.com/handbook/sales/sales-operating-procedures/).
+The below page overviews some best-practices to build value with customers. For a full overview of Sales Operating Procedures, see the four phases [here](/handbook/sales/sales-operating-procedures/).
 
 ## Studying your customer and prospects accounts to bring maximum value
 

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.457 87.457" fill="#548" stroke="#548" preserveAspectRatio="xMidYMid meet">
+  <title>Minimal</title>
+  <desc>Minimal Maturity</desc>
+  <g transform="translate(-12.933 -27.696)">
+    <circle cx="56.661" cy="71.425" r="42.229" fill="none" stroke-width="3"/>
+    <path fill="none" stroke-width=".17" d="M56.765 28.691V70.92"/>
+    <path fill="none" stroke-width=".1" d="M56.765 70.92H14.403v.4"/>
+    <path stroke-width=".5000562" d="M16.048 69.285c.513-8.653 3.503-16.487 8.888-23.286 1.429-1.804 4.758-5.105 6.554-6.5 4.698-3.647 9.776-6.143 15.303-7.523 2.756-.687 6.584-1.207 8.916-1.21l.902-.001v40.09H15.954z" paint-order="markers stroke fill"/>
+  </g>
+</svg>

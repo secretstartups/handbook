@@ -9,7 +9,7 @@ The GitLab Growth section is dedicated to making it easier for teams to find val
 
 ## Growth Product Manager Role
 
-Growth Product Managers help us grow our customer base by improving our net new signup & trial flow (Acquisition) and team activation (Activation) experiences as well as assisting in improving our [LAM](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#landed-addressable-market-lam) efforts. Our Growth Product Managers play a critical role in GitLab ensuring our product is easy and initiative to use while ensuring we also acheive business objectives.
+Growth Product Managers help us grow our customer base by improving our net new signup & trial flow (Acquisition) and team activation (Activation) experiences as well as assisting in improving our [LAM](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#landed-addressable-market-lam) efforts. Our Growth Product Managers play a critical role in GitLab ensuring our product is easy and initiative to use while ensuring we also acheive business objectives.
 
 ### Requirements
 

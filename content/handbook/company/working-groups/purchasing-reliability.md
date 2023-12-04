@@ -79,9 +79,9 @@ lack of observability and insight into this app.
 
 ### Sales
 
-- [Sales Systems](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/) (i.e. Salesforce)
+- [Sales Systems](/handbook/sales/field-operations/sales-systems/) (i.e. Salesforce)
 - [Internal Sales Handbook Definitions](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.4z6lmbtfepzq)
-- [Booking Metric Technical Docs](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/sfdc-booking-metric-fields/)
+- [Booking Metric Technical Docs](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/sfdc-booking-metric-fields/)
 
 ## Exit Criteria
 

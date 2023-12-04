@@ -114,15 +114,15 @@ These dashboards represent the relative importance of a given issue to the speci
 
 #### Customer collaboration projects
 
-Customers that are assigned a Customer Success Manager typically have a [collaboration project](https://about.gitlab.com/handbook/customer-success/csm/customer-collaboration-project/) on GitLab.com, which is used to share information, document customer details, and track issues in a place that both the GitLab team and the customer's team can access.
+Customers that are assigned a Customer Success Manager typically have a [collaboration project](/handbook/customer-success/csm/customer-collaboration-project/) on GitLab.com, which is used to share information, document customer details, and track issues in a place that both the GitLab team and the customer's team can access.
 
 Generally, CSMs maintain a main issue and/or enable the [CS-Tool - TAM issue tracker](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools/tam-issue-tracking), which lists out all feature requests the customer is interested in with links to the public GitLab issue.
 
-When a customer expresses interest in a feature, the CSM should capture that in the public GitLab issue, as well as add it as an entry in the main feature tracking issue of the [customer's collaboration project](https://about.gitlab.com/handbook/customer-success/csm/customer-collaboration-project/).
+When a customer expresses interest in a feature, the CSM should capture that in the public GitLab issue, as well as add it as an entry in the main feature tracking issue of the [customer's collaboration project](/handbook/customer-success/csm/customer-collaboration-project/).
 
 The feature tracking issue should be maintained regularly by updating priority (elaborated on below) and milestones as the single source of truth on customer product needs. It can also be used for reviewing metrics of previously delivered feature requests.
 
-If there is a lot of discussion with the customer about a specific feature request, create an issue on the customer [collaboration project](https://about.gitlab.com/handbook/customer-success/csm/engagement/) about it and list that issue as a related issue on the main GitLab issue. This is another signal of the main product issue of customer interest and also allows discussion with the customer and internal GitLab team members about their needs and concerns.
+If there is a lot of discussion with the customer about a specific feature request, create an issue on the customer [collaboration project](/handbook/customer-success/csm/engagement/) about it and list that issue as a related issue on the main GitLab issue. This is another signal of the main product issue of customer interest and also allows discussion with the customer and internal GitLab team members about their needs and concerns.
 
 #### How do I escalate a feature request?
 
@@ -130,7 +130,7 @@ If you have followed the process of creating/commenting on issues and have not g
 
 If a customer has identified an issue that is high priority for them, such as a work-stoppage bug or a feature required for the customer to meet a deadline, follow the expected steps for logging and tracking customer feature requests above by adding the customer's interest in a GitLab issue and including it in the collaboration project issue. In addition, [reach out to the Product Manager](/handbook/product/how-to-engage/#where-to-reach-product-managers) who is [responsible for the corresponding group](/handbook/product/how-to-engage/#which-product-manager-should-i-contact) and discuss it with them directly. A general idea of high priority is that the customer needs a particular feature as soon as possible.
 
-**Critical Priority Requests** are extremely rare, but, when they occur, they are agreed upon by both Product and Engineering, with the CSM facilitating the request. If a customer is unable to continue using GitLab without a specific feature, the CSM should begin the [triaging the account](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/), follow the process to indicate customer interest in the issue, then set up regular check-ins with the Product and Engineering teams to assess the status of the feature, expectations, and potential secondary plans. For the product & engineering process, please refer to the details of a [critical customer merge request](https://docs.gitlab.com/ee/development/code_review.html#customer-critical-merge-requests).
+**Critical Priority Requests** are extremely rare, but, when they occur, they are agreed upon by both Product and Engineering, with the CSM facilitating the request. If a customer is unable to continue using GitLab without a specific feature, the CSM should begin the [triaging the account](/handbook/customer-success/csm/health-score-triage/), follow the process to indicate customer interest in the issue, then set up regular check-ins with the Product and Engineering teams to assess the status of the feature, expectations, and potential secondary plans. For the product & engineering process, please refer to the details of a [critical customer merge request](https://docs.gitlab.com/ee/development/code_review.html#customer-critical-merge-requests).
 
 ### Why do product teams prefer we ask about the problem rather than the solution?
 
@@ -264,7 +264,7 @@ Ideally, provide them as much of the following details as possible:
 
 ### EBR Preparation
 
-CSMs regularly hold [Executive Business Reviews](https://about.gitlab.com/handbook/customer-success/csm/ebr/) with their customers and often request involvement from Product Managers. When a CSM is looking for Product involvement, they will reach out to the PM (in their group Slack channel) with the date, time, and desired topic.
+CSMs regularly hold [Executive Business Reviews](/handbook/customer-success/csm/ebr/) with their customers and often request involvement from Product Managers. When a CSM is looking for Product involvement, they will reach out to the PM (in their group Slack channel) with the date, time, and desired topic.
 
 The CSM will involve the PM in preparation for the EBR, working with them to ensure expectations of content, timing, and desired outcomes are fully established.
 
@@ -293,7 +293,7 @@ When a support request is opened, labels will automatically be assigned to categ
 Three fields are particularly important when triaging requests:
 
 - Priority: How time critical the request is, `urgent` requests should be treated with a high priority
-- Impact: Potential impact to the business, based on [total contract value (TCV)](https://about.gitlab.com/handbook/sales/sales-term-glossary/)
+- Impact: Potential impact to the business, based on [total contract value (TCV)](/handbook/sales/sales-term-glossary/)
 - Stage: Which stage the request relates to
 
 All Product Managers should ensure they are set up to receive label notifications for their respective stages:

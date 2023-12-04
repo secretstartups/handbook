@@ -12,7 +12,7 @@ Below are the current SKUs broken out by services category. For a detailed list 
 
 ### Implementation and Integration Services Standard SKUs
 
-<%= partial "../skus_table", :locals => { :include_category=>1, :categories => ["Implementation","Integration"], :maturities => ["Viable","Lovable","Minimal"] } %>
+{{% sku-tables categories="Implementation,Integration" maturities="Viable,Lovable,Minimal" %}}
 
 ### Education Services Standard SKUs
 
@@ -28,7 +28,7 @@ Here are answers to anticipated frequently-asked questions.
 
 2. **What is the process for making an exception?** If you have a quote in flight we will honor the number of students you may have already requested an exception for from us. For all new quotes you should create an order that includes the per-seat SKU quantities and request a discount as needed using the standard discount approval process.
 
-<%= partial "../skus_table", :locals => { :include_stages=>1, :categories => ["Education"], :maturities => ["Viable","Lovable","Minimal"] } %>
+{{% sku-tables categories="Education" maturities="Viable,Lovable,Minimal" stages=true %}}
 
 #### Planned SKUs
 We are planning to release additional Education Services SKUs designed to increase our scale and reach to GitLab customers. For details review the issues in the [Education Services Project](https://gitlab.com/gitlab-com/customer-success/professional-services-group/education-services).

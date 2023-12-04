@@ -13,7 +13,7 @@ description: "Discover how to work with the GitLab Professional Services Team."
 
 ### How to Contact Professional Services
 
-At GitLab, Professional Services (PS) is part of the [Customer Success department](https://about.gitlab.com/handbook/customer-success/). As such, you can engage with PS by following the guidelines for engaging with any [Solutions Architect (SA)](https://about.gitlab.com/handbook/customer-success/solutions-architects#when-and-how-to-engage-a-solutions-architect). This process ensures that the Customer Success department as a whole can understand the inbound needs of the account executive and our customers.
+At GitLab, Professional Services (PS) is part of the [Customer Success department](/handbook/customer-success/). As such, you can engage with PS by following the guidelines for engaging with any [Solutions Architect (SA)](/handbook/customer-success/solutions-architects#when-and-how-to-engage-a-solutions-architect). This process ensures that the Customer Success department as a whole can understand the inbound needs of the account executive and our customers.
 
 #### Slack
 
@@ -39,7 +39,7 @@ Individual GitLab team members can request to audit a customer-facing training s
 
 ### For Sales Reps and SAs: How to order Professional Services
 
-1. To order Professional Services, the SAE or ISR [creates an Opportunity in SFDC](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/) using the record type "Professional Services Only."
+1. To order Professional Services, the SAE or ISR [creates an Opportunity in SFDC](/handbook/sales/field-operations/gtm-resources/) using the record type "Professional Services Only."
 
 1. The next steps depend on whether the services needed are standard or custom.
 
@@ -59,9 +59,9 @@ graph LR;
   b-->z;
 ```
 
-For more details on selling professional services, see [Selling Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling).
+For more details on selling professional services, see [Selling Professional Services](/handbook/customer-success/professional-services-engineering/selling).
 
-For information on how to position Professional Services to your customer, see [Positioning Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/positioning).
+For information on how to position Professional Services to your customer, see [Positioning Professional Services](/handbook/customer-success/professional-services-engineering/positioning).
 
 #### Lead time for starting a Professional Services Engagement
 
@@ -86,7 +86,7 @@ When scoping custom SOWs, the Professional Services Engagement Manager partners 
 
 ##### SOW Proposal Approval Board
 
-![SOW proposal board screenshot](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/sow-approvals-board.png)
+![SOW proposal board screenshot](/handbook/customer-success/professional-services-engineering/sow-approvals-board.png)
 
 The [SOW Proposal Approval Board](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/boards/1353982?label_name[]=Services%20Calculator) is used to progress all SOWs through the scoping and approval process before sending them to a customer for review and signature.
 
@@ -98,7 +98,7 @@ The labels are (from left to right):
 - `proposal::Awaiting_Discovery`: Gathering information from the account team and customer required to scope the engagement
 - `proposal::Strawman_WIP`: The Engagement Manager is drafting an initial estimate for review
 - `proposal::Estimate_Feedback`: The Estimate is with the account team and/or Customer for review. The Engagement Manager is awaiting feedback and confirmation prior to moving to SOW.
-- `proposal::SOW_WIP`: The Engagement Manager is drafting the SOW and preparing a [Cost Estimate](https://about.gitlab.com/handbook/customer-success/vision/#professional-services-standard-cost) using the [SOW Cost Estimate Calculator](https://docs.google.com/spreadsheets/d/16KFNRFe4E_oaqU7_ZGivoO7eU3-65dkMgVvK5Jvb7ZQ/edit#gid=158441360) for margin calculation purposes
+- `proposal::SOW_WIP`: The Engagement Manager is drafting the SOW and preparing a [Cost Estimate](/handbook/customer-success/vision/#professional-services-standard-cost) using the [SOW Cost Estimate Calculator](https://docs.google.com/spreadsheets/d/16KFNRFe4E_oaqU7_ZGivoO7eU3-65dkMgVvK5Jvb7ZQ/edit#gid=158441360) for margin calculation purposes
 - `proposal::Ready For Approval`: The Engagement Manager has prepared the required SOW, and triggered the approval requests. Approvals are now required prior to releasing the SOW.
 - `proposal::Approved`: The SOW is now approved, and ready for execution. The SAE/AE should gain a Legal stamp via a Legal Case in SFDC before releasing the SOW for signature.
 

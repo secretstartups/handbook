@@ -109,7 +109,7 @@ The marketing operations team uses collective merge requests, known as our miles
 
 ### Working with Sales Systems for New Fields and/or Permission Set Updates
 
-The MktgOps team frequently works with the [Sales Systems team](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#sales-systems-charter) to make changes in Salesforce.com (SFDC). See the below information regarding the process for working with Sales Systems for these changes and SLAs we adhere to.
+The MktgOps team frequently works with the [Sales Systems team](/handbook/sales/field-operations/sales-systems/#sales-systems-charter) to make changes in Salesforce.com (SFDC). See the below information regarding the process for working with Sales Systems for these changes and SLAs we adhere to.
 
 Video: [Marketing Salesforce.com Sandbox Training - Creating Changesets](https://www.youtube.com/watch?v=tTaepVgxoe8)
 
@@ -132,8 +132,8 @@ If you need assistance with Sales Systems follow the next steps:
 
 **Other helpful links:**
 
-- [Steps to getting help from Sales Systems](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#steps-to-getting-help-from-sales-systems)
-- [Sales Systems Charter](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#sales-systems-charter)
+- [Steps to getting help from Sales Systems](/handbook/sales/field-operations/sales-systems/#steps-to-getting-help-from-sales-systems)
+- [Sales Systems Charter](/handbook/sales/field-operations/sales-systems/#sales-systems-charter)
 
 ### Working with the Integrations team on Workato related issues
 
@@ -386,7 +386,7 @@ Below are tools in the Marketing Technology stack, organized by tier.
 - Base
 - Hopin
 - [Hightouch](/handbook/marketing/marketing-operations/hightouch/)
-- [LinkedIn Sales Navigator](https://about.gitlab.com/handbook/sales/training/social-selling/)
+- [LinkedIn Sales Navigator](/handbook/sales/training/social-selling/)
 - [MailJet](/handbook/marketing/marketing-operations/mailjet/)
 - [OneTrust](/handbook/marketing/digital-experience/onetrust/)
 - [RingLead](/handbook/marketing/marketing-operations/ringlead/)

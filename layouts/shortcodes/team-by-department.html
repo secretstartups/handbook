@@ -8,51 +8,22 @@
   {{- errorf "The %q shortcode requires a single positional argument for department."}}
 {{- end }}
 
-
-{{ $dataURL := printf "https://about.gitlab.com/company/team/team.yml" }}
-{{ with resources.GetRemote $dataURL (dict "mediaType" "application/yaml")}}
-  {{ with .Err}}
-    <h2>Unable to fetch Team Member Data File</h2>
-  {{ else }}
-      {{ $data := .Content | transform.Unmarshal  }}
-      <table>
-          <thead>
-              <th>Name</th>
-              <th>Role</th>
-          </thead>
-          <tbody>
-              {{- $img := "" }}
-              {{- $username := "" }}
-              {{ range $data }}
-              {{ $username = .gitlab }}
-              {{ if in .departments $department }}
-              {{- with (partial "gitlab/api" (dict
-                            "path" "/users"
-                            "query" (dict
-                              "username" $username
-                            )
-                    ))
-                -}}
-                  {{- /* GitLab returns '[]' instead of nothing. */}}
-                  {{- if gt (len .) 0 }}
-                    {{- $u := index . 0 }}
-                    {{- with $u.avatar_url }}
-                      {{- with resources.GetRemote . }}
-                        {{- $img = .Fill "90x90" }}
-                      {{- end }}
-                    {{- end }}
-                  {{- end }}
-                {{- end }}
-              <tr>
-                  <td><a href="https://gitlab.com/{{ .gitlab }}"><img class="avatar" src="{{ $img.RelPermalink }}" width="{{ .img.Width }}" height="{{ .img.Height }}" alt="{{ .name }}">{{.name}}</a></td>
-                  <td>{{.role | safe.HTML}}</td>
-              </tr>
-              {{ end }}
-              {{ end }}
-          </tbody>
-      </table>
-  {{ end }}
-{{ end }}
+<table>
+    <thead>
+        <th>Name</th>
+        <th>Role</th>
+    </thead>
+    <tbody>
+        {{ range $k, $v := partials.IncludeCached "data/team-by-name" . }}
+          {{ if in .departments $department }}
+          <tr>
+              <td>{{ partial "member-by-name" .name }}</td>
+              <td>{{ .role | safe.HTML }}</td>
+          </tr>
+          {{ end }}
+        {{ end }}
+    </tbody>
+</table>
 
 <style>
     img.avatar {

@@ -11,11 +11,11 @@ description: "The Customer Success Management team at GitLab is a part of the Cu
 
 
 
-[<button class="btn btn-primary" type="button" style="padding: 15px 30px; font-size: 24px;">Digital Touch</button>](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
-[<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">Scale</button>](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/)
-[<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">Commercial</button>](https://about.gitlab.com/handbook/customer-success/csm/segment/commercial/)
-[<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">Enterprise</button>](https://about.gitlab.com/handbook/customer-success/csm/segment/enterprise/)
-[<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">CSE</button>](https://about.gitlab.com/handbook/customer-success/csm/cse/)
+[<button class="btn btn-primary" type="button" style="padding: 15px 30px; font-size: 24px;">Digital Touch</button>](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
+[<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">Scale</button>](/handbook/customer-success/csm/segment/scale/)
+[<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">Commercial</button>](/handbook/customer-success/csm/segment/commercial/)
+[<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">Enterprise</button>](/handbook/customer-success/csm/segment/enterprise/)
+[<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">CSE</button>](/handbook/customer-success/csm/cse/)
 
 ## Mission Statement
 
@@ -91,8 +91,8 @@ CSMs are accountable for customer adoption, measurable outcomes, customer satisf
   </tr>
 </tbody></table>
 
-Please reference this page for an overview of the [CSM Rhythm of Business (daily to yearly)](https://about.gitlab.com/handbook/customer-success/csm/rhythm/)
-Please reference this page for an overview of the areas your CSM will engage with you in: [CSM Points of Engagement](https://about.gitlab.com/handbook/customer-success/csm/services/)
+Please reference this page for an overview of the [CSM Rhythm of Business (daily to yearly)](/handbook/customer-success/csm/rhythm/)
+Please reference this page for an overview of the areas your CSM will engage with you in: [CSM Points of Engagement](/handbook/customer-success/csm/services/)
 
 ### Customer Journey
 
@@ -196,7 +196,7 @@ What are their technical milestones to get to this business outcome?
 
 ### Big Rock Archive
 
-- [FY23](https://about.gitlab.com/handbook/customer-success/csm/fy23)
+- [FY23](/handbook/customer-success/csm/fy23)
 
 
 ## Handbook Directory
@@ -211,70 +211,70 @@ What are their technical milestones to get to this business outcome?
 
 ### CSM Learning & Development
 
-- [CSM Objectives and Key Results (OKRs)](https://about.gitlab.com/handbook/customer-success/csm/csm-okrs)
-- [Overview of available resources, training plans & career paths](https://about.gitlab.com/handbook/customer-success/csm/csm-development/)
-- [CSM Aspiring Leaders Program](https://about.gitlab.com/handbook/customer-success/csm/aspiring-leaders-program/)
+- [CSM Objectives and Key Results (OKRs)](/handbook/customer-success/csm/csm-okrs)
+- [Overview of available resources, training plans & career paths](/handbook/customer-success/csm/csm-development/)
+- [CSM Aspiring Leaders Program](/handbook/customer-success/csm/aspiring-leaders-program/)
 
 ### CSM Activities
 
-- [CSM Onboarding](https://about.gitlab.com/handbook/customer-success/csm/csm-onboarding/)
-- [CSM Rhythm of Business](https://about.gitlab.com/handbook/customer-success/csm/rhythm/)
-- [Using Gainsight](https://about.gitlab.com/handbook/customer-success/csm/gainsight/)
-- [CSM Responsibilities and Services](https://about.gitlab.com/handbook/customer-success/csm/services/)
-- [CSM and Product Interaction](https://about.gitlab.com/handbook/customer-success/csm/product/)
-- [CSM and Professional Services Interaction](https://about.gitlab.com/handbook/customer-success/csm/engaging-with-ps/)
-- [CSM and Support Interaction](https://about.gitlab.com/handbook/customer-success/csm/support/)
-- [CSM and Partner Interaction](https://about.gitlab.com/handbook/customer-success/csm/engaging-with-partners/)
-- [Escalation Process](https://about.gitlab.com/handbook/customer-success/csm/escalations/)
-  - [Infrastructure Escalation & Incident Process](https://about.gitlab.com/handbook/customer-success/csm/escalations/infrastructure/)
-- [CSM-to-CSM Account Handoff](https://about.gitlab.com/handbook/customer-success/csm/account-handoff/)
-- [CSM Roleplay Scenarios](https://about.gitlab.com/handbook/customer-success/csm/roleplays/)
-- [CSM Retrospectives](https://about.gitlab.com/handbook/customer-success/csm/retrospectives/)
-- [CSM PTO Guidelines](https://about.gitlab.com/handbook/customer-success/csm/pto/)
-- [CSM READMEs](https://about.gitlab.com/handbook/customer-success/csm/readmes/) (Optional)
+- [CSM Onboarding](/handbook/customer-success/csm/csm-onboarding/)
+- [CSM Rhythm of Business](/handbook/customer-success/csm/rhythm/)
+- [Using Gainsight](/handbook/customer-success/csm/gainsight/)
+- [CSM Responsibilities and Services](/handbook/customer-success/csm/services/)
+- [CSM and Product Interaction](/handbook/customer-success/csm/product/)
+- [CSM and Professional Services Interaction](/handbook/customer-success/csm/engaging-with-ps/)
+- [CSM and Support Interaction](/handbook/customer-success/csm/support/)
+- [CSM and Partner Interaction](/handbook/customer-success/csm/engaging-with-partners/)
+- [Escalation Process](/handbook/customer-success/csm/escalations/)
+  - [Infrastructure Escalation & Incident Process](/handbook/customer-success/csm/escalations/infrastructure/)
+- [CSM-to-CSM Account Handoff](/handbook/customer-success/csm/account-handoff/)
+- [CSM Roleplay Scenarios](/handbook/customer-success/csm/roleplays/)
+- [CSM Retrospectives](/handbook/customer-success/csm/retrospectives/)
+- [CSM PTO Guidelines](/handbook/customer-success/csm/pto/)
+- [CSM READMEs](/handbook/customer-success/csm/readmes/) (Optional)
 
 
 ### Driving Platform Adoption
 
 Landing Zones
- - [CI Landing Zone](https://about.gitlab.com/handbook/customer-success/csm/adoption-landing-zones/CI/)
+ - [CI Landing Zone](/handbook/customer-success/csm/adoption-landing-zones/CI/)
 
  Customer Metrics
-  - [Sample Questions & Techniques for Getting to Good Customer Metrics](https://about.gitlab.com/handbook/customer-success/csm/success-plans/questions-techniques/)
+  - [Sample Questions & Techniques for Getting to Good Customer Metrics](/handbook/customer-success/csm/success-plans/questions-techniques/)
 
  Platform Metrics
-   - [Customer Use Case Adoption](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/)
-   - [How To: DevSecOps Adoption Tracking in Gainsight](https://about.gitlab.com/handbook/customer-success/csm/devsecops-adoption-tracking/)
-   - [Use Case Adoption Metrics](https://about.gitlab.com/handbook/customer-success/csm/stage-adoption/)
-   - [The Customer Value Received with Service Ping](https://about.gitlab.com/handbook/customer-success/csm/service-ping-faq/)
-   - [Product Usage Data - Definitive Guide to Product Usage Data in Gainsight](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
-   - [Metrics Based Product Usage Playbooks](https://about.gitlab.com/handbook/customer-success/product-usage-data/metrics-based-playbooks/)
+   - [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/)
+   - [How To: DevSecOps Adoption Tracking in Gainsight](/handbook/customer-success/csm/devsecops-adoption-tracking/)
+   - [Use Case Adoption Metrics](/handbook/customer-success/csm/stage-adoption/)
+   - [The Customer Value Received with Service Ping](/handbook/customer-success/csm/service-ping-faq/)
+   - [Product Usage Data - Definitive Guide to Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
+   - [Metrics Based Product Usage Playbooks](/handbook/customer-success/product-usage-data/metrics-based-playbooks/)
 
 ### Other Lifecycle Management Activities
 
-- [Transitioning a Customer from Pre-Sales to Post-Sales](https://about.gitlab.com/handbook/customer-success/pre-sales-post-sales-transition/)
-- [Account Engagement and Prioritization](https://about.gitlab.com/handbook/customer-success/csm/engagement/)
-   - [Non-Engaged Customer Strategies](https://about.gitlab.com/handbook/customer-success/csm/engagement/Non-engaged-customer-strategies/)
-- [Account Onboarding](https://about.gitlab.com/handbook/customer-success/csm/onboarding/)
-- [Success Plans](https://about.gitlab.com/handbook/customer-success/csm/success-plans/)
-- [Cadence Calls](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/)
-- [Managing Executive Relationships](https://about.gitlab.com/handbook/customer-success/csm/executive-relationships/)
-- [Executive Business Reviews (EBRs)](https://about.gitlab.com/handbook/customer-success/csm/ebr/)
-- [Customer Renewal Tracking](https://about.gitlab.com/handbook/customer-success/csm/renewals/)
-- [Customer Health Assessment and Risk Triage](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/)
-- [Risk Types, Discovery & Mitigation](https://about.gitlab.com/handbook/customer-success/csm/risk-mitigation/)
-- [Workshops and/or Lunch-and-Learns](https://about.gitlab.com/handbook/customer-success/csm/workshops/)
+- [Transitioning a Customer from Pre-Sales to Post-Sales](/handbook/customer-success/pre-sales-post-sales-transition/)
+- [Account Engagement and Prioritization](/handbook/customer-success/csm/engagement/)
+   - [Non-Engaged Customer Strategies](/handbook/customer-success/csm/engagement/Non-engaged-customer-strategies/)
+- [Account Onboarding](/handbook/customer-success/csm/onboarding/)
+- [Success Plans](/handbook/customer-success/csm/success-plans/)
+- [Cadence Calls](/handbook/customer-success/csm/cadence-calls/)
+- [Managing Executive Relationships](/handbook/customer-success/csm/executive-relationships/)
+- [Executive Business Reviews (EBRs)](/handbook/customer-success/csm/ebr/)
+- [Customer Renewal Tracking](/handbook/customer-success/csm/renewals/)
+- [Customer Health Assessment and Risk Triage](/handbook/customer-success/csm/health-score-triage/)
+- [Risk Types, Discovery & Mitigation](/handbook/customer-success/csm/risk-mitigation/)
+- [Workshops and/or Lunch-and-Learns](/handbook/customer-success/csm/workshops/)
 
 
 ##### Digital Customer Programs:
 
-- [Digital Customer Programs Handbook Page](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
-  - [CSM Assigned Customer Programs](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/available-programs/index.html#csm-assigned-account-programs)
+- [Digital Customer Programs Handbook Page](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
+  - [CSM Assigned Customer Programs](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/available-programs/index.html#csm-assigned-account-programs)
 
 
 ### CSM Managers
 
-- [CSM Manager Processes and CSM Leadership Team](https://about.gitlab.com/handbook/customer-success/csm/csm-manager/)
+- [CSM Manager Processes and CSM Leadership Team](/handbook/customer-success/csm/csm-manager/)
 - [CSM Manager QBR Template](https://docs.google.com/presentation/d/1M18LeKTrzTIKNgl3Y_URC3z9xBUNUtPRJFiWXaEUuzM/edit?usp=sharing) (GitLab Internal)
 - [CSM Promotion Template](https://docs.google.com/document/d/1UOcfUtrseaucIbnFmJkL8XsQwz4xKfj0IQcYbcRGSvI/edit) (GitLab Internal)
 
@@ -286,16 +286,16 @@ Landing Zones
 
 The following articulates where collaboration and customer management is owned:
 
-1. [**Customer Collaboration Projects**](https://about.gitlab.com/handbook/customer-success/csm/customer-collaboration-project/): Shared project between GitLab team members and customer. Used to prioritize/plan work with customer.
+1. [**Customer Collaboration Projects**](/handbook/customer-success/csm/customer-collaboration-project/): Shared project between GitLab team members and customer. Used to prioritize/plan work with customer.
 1. [**Google Drive**](https://drive.google.com/drive/u/0/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U): Internal. Used to capture call notes and other customer related documents.
 1. [**Chorus**](/handbook/business-technology/tech-stack/#chorus): Internal. Used to record Zoom calls.
-   1. [**Using Calendly with Chorus**](https://about.gitlab.com/handbook/customer-success/csm/calendly/): Instructions on Calendly set up with Chorus.
-1. [**Gainsight**](https://about.gitlab.com/handbook/customer-success/csm/gainsight/): Internal. Used to track customer health score, logging [customer activity](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/#activity-types) (i.e. calls, emails, meetings)
-1. [**Issue Prioritization Dashboard**](https://about.gitlab.com/handbook/customer-success/csm/issue-prioritization/): Internal. Used to track customer requested issues.
+   1. [**Using Calendly with Chorus**](/handbook/customer-success/csm/calendly/): Instructions on Calendly set up with Chorus.
+1. [**Gainsight**](/handbook/customer-success/csm/gainsight/): Internal. Used to track customer health score, logging [customer activity](/handbook/customer-success/csm/gainsight/timeline/#activity-types) (i.e. calls, emails, meetings)
+1. [**Issue Prioritization Dashboard**](/handbook/customer-success/csm/issue-prioritization/): Internal. Used to track customer requested issues.
 
 ### Education and Enablement
 
-In Customer Success Management, it is important to be continuously learning more about our product and related industry topics. The [education and enablement handbook page](https://about.gitlab.com/handbook/customer-success/education-enablement) provides a dashboard of aggregated resources that we encourage you to use to get up to speed.
+In Customer Success Management, it is important to be continuously learning more about our product and related industry topics. The [education and enablement handbook page](/handbook/customer-success/education-enablement) provides a dashboard of aggregated resources that we encourage you to use to get up to speed.
 
 ## SFDC useful reports
 
@@ -308,22 +308,22 @@ Next steps for you:
 1. Customize [this SFDC report](https://gitlab.my.salesforce.com/00O4M000004agfP) where “Account Owner = your SAEs”; “CSM = You”
 1. Save report
 1. Subscribe to report when “Record Count Greater Than 0” and Frequency = Weekly (You’ll get a weekly email as a reminder to look at the report)
-1. If you find an opp that is tagged incorrectly, chatter (@Sales-Support) in the opportunity and let them know there is a mistake ([example](https://about.gitlab.com/handbook/customer-success/csm/#csm-tools))
+1. If you find an opp that is tagged incorrectly, chatter (@Sales-Support) in the opportunity and let them know there is a mistake ([example](/handbook/customer-success/csm/#csm-tools))
 
 ## Related pages
 
-- [Dogfooding in Customer Success](https://about.gitlab.com/handbook/customer-success/#dogfooding)
-- [Customer Success & Market Segmentation](https://about.gitlab.com/handbook/customer-success/#customer-success--market-segmentation)
-- [Responsibility Matrix and Transitions](https://about.gitlab.com/handbook/customer-success/#responsibility-matrix-and-transitions)
-- [Commercial Sales Customer Success](https://about.gitlab.com/handbook/customer-success/comm-sales/)
-- [Customer Success' FAQ](https://about.gitlab.com/handbook/customer-success/faq/)
-- [Using Salesforce within Customer Success](https://about.gitlab.com/handbook/customer-success/using-salesforce-within-customer-success/)
-- [Customer Success Vision](https://about.gitlab.com/handbook/customer-success/vision/)
+- [Dogfooding in Customer Success](/handbook/customer-success/#dogfooding)
+- [Customer Success & Market Segmentation](/handbook/customer-success/#customer-success--market-segmentation)
+- [Responsibility Matrix and Transitions](/handbook/customer-success/#responsibility-matrix-and-transitions)
+- [Commercial Sales Customer Success](/handbook/customer-success/comm-sales/)
+- [Customer Success' FAQ](/handbook/customer-success/faq/)
+- [Using Salesforce within Customer Success](/handbook/customer-success/using-salesforce-within-customer-success/)
+- [Customer Success Vision](/handbook/customer-success/vision/)
 - [GitLab Positioning](https://about.gitlab.com/handbook/positioning-faq/)
 - [Product Stages and the POCs for each](/handbook/product/categories/#devops-stages)
 - [How to Provide Feedback to Product](/handbook/product/how-to-engage/#feedback-template)
-- [Sales handbook](https://about.gitlab.com/handbook/sales/)
+- [Sales handbook](/handbook/sales/)
 - [Support handbook](/handbook/support/)
 - [Workshops and Lunch-and-Learn slides](https://drive.google.com/drive/folders/1qAymFTiXFEk-lRSNreIhaZ6Z62fdo_y2)
-- [Researching Customer Questions](https://about.gitlab.com/handbook/customer-success/csm/researching-customer-questions/)
+- [Researching Customer Questions](/handbook/customer-success/csm/researching-customer-questions/)
 

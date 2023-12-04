@@ -108,4 +108,4 @@ GitLab uses Credly to award our Technical Certifications and Accreditations. Onc
 - **Partner Marketing Webcasts** - GitLab Partners’ Marketing team members are invited to join our monthly webcast to learn about the latest Partner marketing campaigns, resources and more.
 - **The [GitLab Partner Portal](https://partners.gitlab.com/English/)** - provides Partners with easy access to additional sales resources, webcast replays, competitive analysis, event calendar, Marketing campaigns, support and more.
 - **Newsletter** - sign up [here](https://partnerflash.gitlab.com/registration)
-- **GitLab Handbook** - start your Handbook search on the [Channel Partner Handbook Page](https://about.gitlab.com/handbook/resellers/)
+- **GitLab Handbook** - start your Handbook search on the [Channel Partner Handbook Page](/handbook/resellers/)

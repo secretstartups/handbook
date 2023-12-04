@@ -23,7 +23,7 @@ the deck presented, also internal:
 
 ### 14.1–14.4 Sales enablement
 
-See also: [upcoming sessions](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/#upcoming-training) in the Sales Enablement handbook. The Q3 FY22 Product Update was 2021-11-04, and embedded below are internal versions of [the video](https://www.youtube.com/watch?v=z6hFnUtm2Gk) and [deck presented](https://docs.google.com/presentation/d/1WECT2c2d7FmfjR0woYhU-PY0FjFl8a54Y_DbQE3yinA/edit?usp=sharing). *Here are links to the external versions of: [the video recording](https://www.youtube.com/watch?v=BSxhSrzhJeQ) and [the deck presented](https://docs.google.com/presentation/d/1IfsxSGsZqx0tyNAW4L5noMAtMLx1LBR26xrvSN3X5jk/edit?usp=sharing).*
+See also: [upcoming sessions](/handbook/sales/training/sales-enablement-sessions/#upcoming-training) in the Sales Enablement handbook. The Q3 FY22 Product Update was 2021-11-04, and embedded below are internal versions of [the video](https://www.youtube.com/watch?v=z6hFnUtm2Gk) and [deck presented](https://docs.google.com/presentation/d/1WECT2c2d7FmfjR0woYhU-PY0FjFl8a54Y_DbQE3yinA/edit?usp=sharing). *Here are links to the external versions of: [the video recording](https://www.youtube.com/watch?v=BSxhSrzhJeQ) and [the deck presented](https://docs.google.com/presentation/d/1IfsxSGsZqx0tyNAW4L5noMAtMLx1LBR26xrvSN3X5jk/edit?usp=sharing).*
 
 <figure class="video_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z6hFnUtm2Gk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

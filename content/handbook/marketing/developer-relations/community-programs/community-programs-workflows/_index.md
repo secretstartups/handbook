@@ -161,7 +161,7 @@ Each step of the automated application workflow has different set of potential e
 | Booking | GitLab Customers Portal | Coupon Code has already been used | GitLab Support |Error message on the portal. `The code has already been used.` There is no CTA on the portal, user will go back to email which directs them to open a support ticket under [`Issues with billing, purchasing, subscriptions, or licenses.`](https://about.gitlab.com/support/#issues-with-billing-purchasing-subscriptions-or-licenses)|
 | Booking | GitLab Customers Portal | Coupon Code is invalid | GitLab Support | Error message on the portal. `This code is not valid. Try re-entering the code from your email`. There is no CTA message on the portal, the user will go back to email which directs them to open a support ticket under [`Issues with billing, purchasing, subscriptions, or licenses.`](https://about.gitlab.com/support/#issues-with-billing-purchasing-subscriptions-or-licenses) |
 | Fulfillment | GitLab Customers Portal | Any problems with Customers Portal itself after coupon code succeeds.| GitLab Support | Open Support Ticket [`Issues with billing, purchasing, subscriptions, or licenses.`](https://about.gitlab.com/support/#issues-with-billing-purchasing-subscriptions-or-licenses) )|
-| Fulfillment | GitLab Customers Portal | If the applicant enters the incorrect number of seats or choses the incorrect hosting type (self-managed or Saas) and the license has already been granted, the application will need to obtain an [add on quote to change](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#a--add-on-quote-creation) the license parameters | Community Programs | Email `education@gitlab.com`, `opensource@gitlab.com`, or `startups@gitlab.com` requesting changes |
+| Fulfillment | GitLab Customers Portal | If the applicant enters the incorrect number of seats or choses the incorrect hosting type (self-managed or Saas) and the license has already been granted, the application will need to obtain an [add on quote to change](/handbook/sales/field-operations/sales-operations/deal-desk/#a--add-on-quote-creation) the license parameters | Community Programs | Email `education@gitlab.com`, `opensource@gitlab.com`, or `startups@gitlab.com` requesting changes |
 
 The Community Programs team is responsible for all processes involved in issuing licenses for GitLab's community programs.
 The team also maintains program support queues, through which all Community Programs emails are funneled.
@@ -204,7 +204,7 @@ Sales team members receiving inbound requests regarding community programs shoul
 
 ### Apply naming conventions
 
-[Naming conventions](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/)
+[Naming conventions](/handbook/sales/field-operations/gtm-resources/)
   - Lead status: *Accepted* means Program Manager reached out to the lead/contact
   - Lead status: *Qualifying* means Program Manager is in 2-way conversation with lead/contact
   - Lead status: *Unqualified* means Applicant is not qualified for that program

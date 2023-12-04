@@ -35,11 +35,11 @@ You can see more information about what we do and our strategy in the following 
 | [John Gamboa](https://gitlab.com/johnpgamboa) | [Program Manager, Customer Programs](/job-families/sales/program-manager-customer-programs) |
 
 ## Related Content
-- [Available Programs](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/available-programs/)
-- [Getting Help from Digital Customer Success](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/getting-help-from-dcs/)
-- [NPS/CSAT Surveys](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/nps-csat-scores/)
-- [CS Content Guide](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/cs-content-guide.html)
-- [Customer Newsletter](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/customer-newsletter/)
+- [Available Programs](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/available-programs/)
+- [Getting Help from Digital Customer Success](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/getting-help-from-dcs/)
+- [NPS/CSAT Surveys](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/nps-csat-scores/)
+- [CS Content Guide](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/cs-content-guide.html)
+- [Customer Newsletter](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/customer-newsletter/)
 
 
 
@@ -56,7 +56,7 @@ Segment specific journey - [Tech Touch](https://lucid.app/documents/embedded/6e7
 
 ### Programs Overview
 
-Please refer to the [Available Programs](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/available-programs/) page for a list of active DCS Programs. A program can be any of the following:
+Please refer to the [Available Programs](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/available-programs/) page for a list of active DCS Programs. A program can be any of the following:
 
 - Email, either single or a series, sent automatically or manually through Gainsight
 - Webinar invitations and promotion through Zoom and Gainsight
@@ -71,13 +71,13 @@ When an email program is sent, Gainsight collects data about the following point
 - To whom the program was sent
 - Open, bounce, and click rates
 
-If an email contains a survey, Gainsight will collect information about who opens and responds to the survey (unless the survey is stated to be anonymous). For more information about surveys, visit [Customer NPS/CSAT surveys](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/nps-csat-scores/).
+If an email contains a survey, Gainsight will collect information about who opens and responds to the survey (unless the survey is stated to be anonymous). For more information about surveys, visit [Customer NPS/CSAT surveys](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/nps-csat-scores/).
 
 New programs typically take *30 to 60 days* to show meaningful data.
 
 If the information requested is already available in Gainsight, please expect *1-3 business days* beyond 30 days to respond to the request.
 
-If a new dashboard or report must be created, [CS Ops](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/) will provide more accurate time expectations.
+If a new dashboard or report must be created, [CS Ops](/handbook/sales/field-operations/customer-success-operations/) will provide more accurate time expectations.
 
 ## Program Recipients
 
@@ -87,7 +87,7 @@ The GitLab Admin contact user is the primary recipient of communication sent by 
 
 Configuring the GitLab Admin contact is a required step in the Sales process. GitLab Admin contacts can be changed or added at any point in the customer journey in Gainsight or Salesforce.
 
-Learn more about the GitLab Admin contact role requirement [on the Gainsight Go-To-Market Technical Documentation page](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#gitlab-admin-contact-required).
+Learn more about the GitLab Admin contact role requirement [on the Gainsight Go-To-Market Technical Documentation page](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#gitlab-admin-contact-required).
 
 ### Owner and Maintainer users (SaaS Customers Only)
 

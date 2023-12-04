@@ -75,7 +75,7 @@ Watch the below video and check out GitLab's [Value Stream Management](/solution
 ### Economic Metrics
 
 **Economic metrics** highlight how your solution attaches to the customer's large strategic initiatives.
-- Economic metrics typically align to one or more of three [customer value drivers](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers)
+- Economic metrics typically align to one or more of three [customer value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers)
 - To help you document your customer's ROI of adopting GitLab, use the GitLab ROI Model
     - Watch the video below
     - Check out the [GitLab Standard ROI Models enablement webcast](https://youtu.be/znCrnpTDRoE) (36 minutes, Sept 2020)
@@ -127,7 +127,7 @@ Link your **technical buyers** to the metrics and their role in driving the posi
 
 ## Know Your Proof Points
 - Reference and leverage the proof points listed in the GitLab Value Framework and in slides 22 and 23 of the Customer Deck (see the [Command of the Message Core Content](https://internal.gitlab.com/handbook/sales/command-of-the-message/#resources-core-content)) (internal only)
-- Familiarize yourself with GitLab's [Proof Points](https://about.gitlab.com/handbook/sales/command-of-the-message/proof-points/) to the point where you can talk about various success stories in a conversational manner
+- Familiarize yourself with GitLab's [Proof Points](/handbook/sales/command-of-the-message/proof-points/) to the point where you can talk about various success stories in a conversational manner
 - Check out the short videos in the [Customer Success Stories playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRRGEIdtGsiCtgLy8dJhlk) on GitLab Unfiltered (GitLab internal-only)
 - [Listen to the Maximize the Effectiveness of Proof Points](https://podcasts.apple.com/us/podcast/26-maximize-the-effectiveness-of-proof-points-w-john-kaplan/id991362894?i=1000488439478) podcast (12.5 minutes)
 

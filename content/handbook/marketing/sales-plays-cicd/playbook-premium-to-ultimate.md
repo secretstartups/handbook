@@ -189,7 +189,7 @@ Other objections and responses can be found in the [FAQ deck](https://docs.googl
 
 GitLab (or a GitLab partner) offers the below services to help accelerate time to value and mitigate risk:
 * [Security Essentials Training](/services/education/security-essentials/) that will enable students to take the [security specialist certification](/services/education/gitlab-security-specialist/). 
-* [Secure Advisory Services](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/consulting/secure-advisory) can help provide guidance to a customer who wants to rebuild their security processes to shift left and/or secure their SDLC Supply Chain. The target audience for these services are a central secuirty or SDLC Governance/Compliance team. Pricing varies on this offering. Talk with @em in the [professional services slack channel](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/working-with/#slack) to learn more. 
+* [Secure Advisory Services](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/consulting/secure-advisory) can help provide guidance to a customer who wants to rebuild their security processes to shift left and/or secure their SDLC Supply Chain. The target audience for these services are a central secuirty or SDLC Governance/Compliance team. Pricing varies on this offering. Talk with @em in the [professional services slack channel](/handbook/customer-success/professional-services-engineering/working-with/#slack) to learn more. 
 
 # Sales Play Tactics {#sales-play-tactics}
 {: .alert .alert-gitlab-purple}
