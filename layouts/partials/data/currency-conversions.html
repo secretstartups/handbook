@@ -4,7 +4,7 @@
   {{- with .Err}}
     <h2>Unable to fetch performance indicator Data</h2>
   {{- else }}
-      {{- $currency := . | transform.Unmarshal }}
+      {{- $currency = . | transform.Unmarshal }}
   {{- end }}
 {{- end }}
 {{- return $currency }}

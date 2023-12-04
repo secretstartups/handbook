@@ -1,13 +1,6 @@
 ---
-
 title: Engineering Demo Process
 ---
-
-
-
-
-
-
 
 Occasionally, it is useful to set up a demo on a regular cadence to ensure cross-functional iterative alignment.
 This is helpful for high-impact deliverables that require integration across multiple functional teams. This is in-line with the seventh principle of the [Agile Manifesto](https://agilemanifesto.org/principles.html): "Working Software is the best measure of progress".
@@ -54,7 +47,7 @@ Our scoring definitions are as follows:
 
 A different demo process is used by the [Single-Engineer Groups](/handbook/company/team/structure/#single-engineer-groups) and does not require a demo score card.
 
-* Record a video on your computer or via Zoom livestream of the working software
-* Upload to the [GitLab Unfiltered Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A)
-* Post the YouTube link to the appropriate Slack channel
-* Repeat periodically
+- Record a video on your computer or via Zoom livestream of the working software
+- Upload to the [GitLab Unfiltered Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A)
+- Post the YouTube link to the appropriate Slack channel
+- Repeat periodically
