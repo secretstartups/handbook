@@ -1,10 +1,10 @@
 ---
-title: "Physical Asset Security Policy"
+title: "Security Asset Management Standard"
 ---
 
 ## Purpose
 
-This policy document establishes the physical protection measures and guidelines to ensure the security and safety of devices used by GitLab team members, contractors, advisors, and contracted parties. These policies are designed to create a secure work environment and protect sensitive information from physical threats.
+This document defines asset management measures and guidelines to support the protection of information assets in GitLab's all remote organizational environment. The measures and guidelines noted within the standard are designed to create a secure infrastructure, work environment, and protect sensitive information from physical threats.
 
 
 ## Scope
@@ -15,26 +15,53 @@ This policy applies to all GitLab team-members, contractors, advisors, and contr
 
 | Role | Responsibility |
 |----|-------|
-| Security Assurance | Responsible for implementing and executing this policy |
-| Security Assurance Management (Code Owners) | Responsible for approving significant changes and exceptions to this policy |
-| Team Members, Contractors, Advisors | Responsible for adhering to the requirements of this policy |
+| Security Assurance | Responsible for implementing and executing this standard |
+| Security Assurance Management (Code Owners) | Responsible for approving significant changes and exceptions to this standard |
+| Team Members, Contractors, Advisors, Contracting Parties | Responsible for adhering to the requirements of this standard |
 
 ## Overview
 
-GitLab is an all-remote company and the infrastructure for its SaaS products are hosted and physically secured by third party service providers, GCP & AWS. Physical devices such as laptops are used to manage services provided to customers and should be secured and used in accordance with this policy. 
+As an all remote company, physical protection of information assets can be broken out into a defined " security zones". Security zones are defined as requirements for the handling of information assets in their physical location. 
 
-Laptops are protected through [Endpoint Management Procedures](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/) and [IT Security - System Configurations](https://handbook.gitlab.com/handbook/business-technology/it/security/system-configuration/#clean-deskclear-screen) including but not limited to: passwords, screen timeout, encryption, endpoint detection and response.
+GitLab has two distinct security zones:
 
-To enhance the physical security of devices, especially when working in public places, the following measures should be implemented:
-- Utilize trusted networks when available
-    - If you are connecting from an untrusted network you should use a VPN connection to avoid MITM Attack or similar.
--  Utilize privacy screen
-    - Protect your screen with a special film that ensures your privacy. 
-- Keep Clean Desk/Clear Screen
-    - Devices should be locked when not actively being used.
-- Devices should not be left unattended in public areas.
-- Sensitive data should not be stored on removable storage devices, such as USB drives or external hard drives.
-- Printing documents containing sensitive information is prohibited.
-- Ensure that when you are talking about restricted data you are in a secure place and no-one can hear you.
+1. Infrastructure (for SaaS products)
 
-For additional information, refer to the [Acceptable Use Policy](https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/).
+* Hosted and physically secured by third party service provider(s)
+* [Shared responsibility model](https://handbook.gitlab.com/handbook/security/isms/#assets)
+* Adherance to physical security requrements reviewed annually as part of the Third Party Risk Management (TPRM) review and Complementary User Entity Contro (CUEC) review. This includes confirmation that independent third parties attest to effective physical security procedures including but not limited to:
+    * Vistor Management
+    * Premisis Protection
+    * Environmental Securities
+    * Access Management
+
+2. Physical Device and Location
+
+* Laptops are protected through [Endpoint Management Procedures](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/) and secured through system configurations defined in the [IT Security - System Configurations handbook page](https://handbook.gitlab.com/handbook/business-technology/it/security/system-configuration/#clean-deskclear-screen) which include, but not limited to: 
+
+   * Passwords
+   * Screen timeout
+   * Encryption
+   * Endpoint detection and response
+
+* Utilize trusted networks when available. If you are connecting from an untrusted network, you should use a [personal VPN](https://handbook.gitlab.com/handbook/tools-and-tips/personal-vpn/). GitLab has selected [NordLayer](https://handbook.gitlab.com/handbook/it/guides/nordlayer/) as the preferred provider.
+
+* Keep [Clear Desk/Clear Screen](https://handbook.gitlab.com/handbook/business-technology/it/security/system-configuration/#clean-deskclear-screen)requirements.
+
+* Devices should not be left unattended in public areas and locked when not in use. [Activate a screensaver with password lock, lock the desktop, close the lid](https://handbook.gitlab.com/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration).
+
+* Personal mobile phone and tablet usage [must be passcode enabled](https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#personal-mobile-phone-and-tablet-usage).
+
+* Sensitive data should not be stored on removable storage devices, such as USB drives or external hard drives. External media on company assets [is not sanctioned](https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#use-of-external-media-on-company-assets).
+
+* Printing documents containing sensitive information as defined by the [Data Classification Standard](https://handbook.gitlab.com/handbook/security/data-classification-standard/) is prohibited.
+
+* [Secure your data during travels](https://handbook.gitlab.com/handbook/travel/#secure-your-data-during-travels) including utilizing a VPN, ensure that when you are talking about restricted data you are in a secure place and no-one can hear you, lock your device.
+
+* Do not bring company-owned devices to [embargoed countries](https://handbook.gitlab.com/handbook/sales/#export-control-classification-and-countries-we-do-not-do-business-in) without consulting the Legal Department.
+
+## References
+
+* [Internal Acceptable Use Policy](https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/)
+* [IT Security System Configuration](https://handbook.gitlab.com/handbook/business-technology/it/security/system-configuration/#secure-system-configuration)
+* [Information Security Management System](https://handbook.gitlab.com/handbook/security/isms/)
