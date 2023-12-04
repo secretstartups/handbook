@@ -137,8 +137,8 @@ For those with regular commitments, look for shorter weeks or timezone variation
 | 2024-03-18 | 2024-03-22 | AVAILABLE | AVAILABLE - VP-Directs Only | REMOTE - PT |
 | 2024-03-25 | 2024-03-29 | [Reshmi Krishna](https://gitlab.com/reshmikrishna) - Director, Enterprise Solutions Architecture | AVAILABLE - VP-Directs Only | TBC - PT |
 | 2024-04-01 | 2024-04-05 | [Jeremy Wagner](https://gitlab.com/jeremywagner) | [Reshmi Krishna](https://gitlab.com/reshmikrishna) - Director, Enterprise Solutions Architecture | REMOTE - PT |
-| 2024-04-08 | 2024-04-12 | AVAILABLE | AVAILABLE | REMOTE - PT |
-| 2024-04-15 | 2024-04-19 | AVAILABLE | AVAILABLE | REMOTE - PT |
+| 2024-04-08 | 2024-04-12 | [Djordje Micovic](https://gitlab.com/dmicovic) | AVAILABLE | REMOTE - PT |
+| 2024-04-15 | 2024-04-19 | AVAILABLE | [Djordje Micovic](https://gitlab.com/dmicovic)  | REMOTE - PT |
 | 2024-04-22 | 2024-04-26 | AVAILABLE | AVAILABLE | REMOTE - PT |
 | 2024-04-29 | 2024-05-03 | AVAILABLE | AVAILABLE | REMOTE - PT |
 
