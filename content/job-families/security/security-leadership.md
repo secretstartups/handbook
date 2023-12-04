@@ -293,7 +293,7 @@ Great candidates will have some meaningful proportion of the following.
 - Relevant academic background
 - US Government security clearance
 
-#### VP, Security Performance Indicators 
+#### VP, Security Performance Indicators
 
 
 
