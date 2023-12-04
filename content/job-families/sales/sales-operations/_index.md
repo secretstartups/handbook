@@ -28,7 +28,7 @@ The Associate Sales Operations Analyst is a [grade 5](/handbook/total-rewards/co
 - Provide insights and recommendations for process improvements to the sales operations team.
 - Monitor system adoption and data compliance with data governance policy.
 - Maintain and evangelize communication best practices for sales and sales support functions.
-- Respond to Sales Support slack channel to resolve questions and issues. 
+- Respond to Sales Support slack channel to resolve questions and issues.
 
 #### Associate Sales Operations Analyst Requirements
 
