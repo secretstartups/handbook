@@ -281,7 +281,7 @@ EOF
 fi
 
 
-if [[ $IS_MARKETING != "true" || $IS_ENGINEERING != "true" ]]; then
+if [[ $IS_MARKETING != "true" && $IS_ENGINEERING != "true" ]]; then
 cd content
 
 # Migrated Sections using fully qualified url on about
