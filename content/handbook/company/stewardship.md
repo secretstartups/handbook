@@ -138,7 +138,7 @@ When someone contributes an *existing* feature to open-source it, we weigh a num
 1. Is it a complete replacement of the source-available functionality?
 1. Does it meet the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria)?
 1. Is it [more relevant for mid-market organizations or larger](/handbook/product/gitlab-the-product/#paid-tiers)?
-1. Is the person or organization submitting this using GitLab in an [SMB](https://about.gitlab.com/handbook/sales/#market-segmentation)?
+1. Is the person or organization submitting this using GitLab in an [SMB](/handbook/sales/#market-segmentation)?
 1. Did the person or organization submitting this contribute to GitLab before?
 1. Is it something that many of our existing customers chose our paid tiers for?
 1. Is it relevant for running a large open source forge?

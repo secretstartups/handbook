@@ -71,7 +71,7 @@ background-color: #6666c4; color: black; padding: 5px; text-align: center;
 </summary>
 Dimensions:
 
-- [Order Type](https://about.gitlab.com/handbook/sales/sales-term-glossary/#order-type-20-field-values)
+- [Order Type](/handbook/sales/sales-term-glossary/#order-type-20-field-values)
 - **Sales Qualified Source:** How the opportunity was created.
 - **Purchase Channel:** The method in which the account purchased.
 - **Focus Account:** These represent the accounts where our Account Based Marketing team is working closely with Sales and Field Marketing to specifically target. GTM Strategy values of Account Centric, Account Based - Net New, and Account Based - Expand GTM Strategy Accounts represent Focus Accounts.
@@ -256,7 +256,7 @@ To use the dashboard select a Fiscal Quarter in the filters and any of the optio
 
 #### Key Fields and Business Logic
 
-* [ATR (Available To Renew)](https://about.gitlab.com/handbook/sales/sales-term-glossary/#available-to-renew-atr)
+* [ATR (Available To Renew)](/handbook/sales/sales-term-glossary/#available-to-renew-atr)
 * %ATR: Net ARR for a given category / subtotal ATR. E.g. when calculating %ATR for the segment SMB and growth type Contraction: `Net ARR for SMB | Contraction` / `ATR for SMB`
 * TRX: Number of opportunities
 * %MIX(ARR): Net ARR for a given category / subtotal ARR. E.g. when calculating %MIX(ARR) for the segment SMB and Deal Size 5-25k: `Net ARR for SMB | 5-25k` / `ARR for SMB`

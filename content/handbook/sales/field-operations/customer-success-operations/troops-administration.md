@@ -16,11 +16,11 @@ description: "This page covers the administration and oversight of Troops.ai"
 
 ## Overview
 
-Troops is primarily used by our Solutions Architects for [activity capture](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/) to capture customer calls, efficiently log them, and run reporting in Salesforce and our BI tool.
+Troops is primarily used by our Solutions Architects for [activity capture](/handbook/customer-success/solutions-architects/processes/activity-capture/) to capture customer calls, efficiently log them, and run reporting in Salesforce and our BI tool.
 
 ## Troops training videos
 
-For SA end-users, see [Troops Setup page](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/#troops-setup).
+For SA end-users, see [Troops Setup page](/handbook/customer-success/solutions-architects/processes/activity-capture/#troops-setup).
 
 For Troops administrators:
 

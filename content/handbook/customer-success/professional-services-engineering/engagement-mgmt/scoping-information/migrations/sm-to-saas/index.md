@@ -55,11 +55,11 @@ There will be a `<Customer Name> - Scope Issue and Write SOW` issue created by t
 
 Once you have provided the required scoping info, an Engagement Manager will generate an Engagement Estimate, using standard formulas we have created for scoping.  We will produce a Google sheet that you can pdf and use for discussions with your customer, either async via email or sync via a live meeting.  The Engagement Manager would be happy to support a live meeting, schedule permitting, to review the information with the customer.  You can see a [sample Engagement Estimate](https://docs.google.com/spreadsheets/d/1-RuKHcijvHyyZJeYL1jSJrn5olqDODJjz6lf9y2ZIOc/edit?usp=sharing) with descriptions of each activities.
 
-If the customer agrees to the estimate, and a conversation validates that the information used in scoping is accurate for the customer's situation, then the final step will be for the Engagement Manager to create an SOW that will be approved internally, and then you can send that to the customer for signature.  See [Selling Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/) for additional details on this process.
+If the customer agrees to the estimate, and a conversation validates that the information used in scoping is accurate for the customer's situation, then the final step will be for the Engagement Manager to create an SOW that will be approved internally, and then you can send that to the customer for signature.  See [Selling Professional Services](/handbook/customer-success/professional-services-engineering/selling/) for additional details on this process.
 
 ## Gathering data to help scope a migration
 
-There are a few questions GitLab uses to assist in the SM to SaaS transition process.   Two of those [questions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/migrations/#migration-scoping-details) require a Customer Admin to provide data to the GitLab team:
+There are a few questions GitLab uses to assist in the SM to SaaS transition process.   Two of those [questions](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/migrations/#migration-scoping-details) require a Customer Admin to provide data to the GitLab team:
     - 1. How many GL repos are larger than 5GB approximately?
     - 2. What is the typical container/package registry size of your projects?
 

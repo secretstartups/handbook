@@ -119,7 +119,7 @@ The following 3 sites are included in the extract:
 ## Service ping
 
 Service Ping is a method for GitLab Inc to collect usage data about a given GitLab instance.
-More information about `Service ping` (formerly known as `Service ping`) from a Product perspective, should be found **[here](https://about.gitlab.com/handbook/customer-success/csm/service-ping-faq/)**. Comprehensive guide with rich documentation is exposed in [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/).
+More information about `Service ping` (formerly known as `Service ping`) from a Product perspective, should be found **[here](/handbook/customer-success/csm/service-ping-faq/)**. Comprehensive guide with rich documentation is exposed in [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/).
 
 Service ping has two major varieties:
 - Self-Managed Service Ping

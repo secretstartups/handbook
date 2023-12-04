@@ -61,7 +61,7 @@ The board uses scoped labels with the `proposal` key to track the standard scopi
 
 #### Delivery Team Review and Approval
 
-During `proposal::Strawman_WIP` stage, its good practice (for anything that is not-straighforward) to bring in a Technical Architect to review the initial estimate. You can do this by adding a label and signaling in slack. Specific process is defined on the [TA Handbook page here](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/technical-architect/#engage-with-an-architect).
+During `proposal::Strawman_WIP` stage, its good practice (for anything that is not-straighforward) to bring in a Technical Architect to review the initial estimate. You can do this by adding a label and signaling in slack. Specific process is defined on the [TA Handbook page here](/handbook/customer-success/professional-services-engineering/technical-architect/#engage-with-an-architect).
 
 During the `proposal::SOW_WIP` stage, it is required to gain Regional Delivery Manager (RDM) approval as the RDM is responsible for succesful delivery of the proejct being scoped. You can do this by adding the `RDM::needs-review` label on the issue and signaling in the [#ps-engagement-mgrs](https://gitlab.slack.com/archives/C021J8Z88AJ) channel to `@ps-deliverymanagers`.
 

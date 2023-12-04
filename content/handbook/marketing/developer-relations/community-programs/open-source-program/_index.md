@@ -325,7 +325,7 @@ We are currently members of the following consortia:
 * [TODO Group](https://todogroup.org/)
 
 [Complete details of GitLab's activities](https://gitlab.com/gitlab-com/marketing/developer-relations/open-source-program/consortium-memberships) with these groups are available in the `Consortium Memberships` project.
-Note that because this project contains sensitive data and personally identifying information, it is [only accessible to GitLab team members](https://handbook.gitlab.com/handbook/legal/safe-framework/#safe).
+Note that because this project contains sensitive data and personally identifying information, it is [only accessible to GitLab team members](/handbook/legal/safe-framework/#safe).
 
 ### Program management resources
 

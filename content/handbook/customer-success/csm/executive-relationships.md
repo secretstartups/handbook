@@ -9,7 +9,7 @@ title: CSM Executive Relationships
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 - - -
 
@@ -24,7 +24,7 @@ Sometimes, we can establish an executive contact and relationship early on, whet
 
 ### Build Relationships with GitLab Admin & Champions
 
-Strong first impressions are important in building a successful and collaborative relationship with your customer. When being introduced to a new account, it is critical that you and the account team position the [Customer Success Manager role](https://about.gitlab.com/handbook/customer-success/csm/) as more than “technical support” or “technical point of contact.” This limits the scope of the CSM role and lowers the probability of gaining access to executives. By positioning the CSM as a consultant focused on their business success and enablement, it opens up conversations around high-level business outcomes.
+Strong first impressions are important in building a successful and collaborative relationship with your customer. When being introduced to a new account, it is critical that you and the account team position the [Customer Success Manager role](/handbook/customer-success/csm/) as more than “technical support” or “technical point of contact.” This limits the scope of the CSM role and lowers the probability of gaining access to executives. By positioning the CSM as a consultant focused on their business success and enablement, it opens up conversations around high-level business outcomes.
 
 From there, asking deeper questions during the intro call is a great way to uncover the outcomes that are the highest priority for the customer. This could happen right after the initial sale, when you inherit a customer from another CSM, or even after having the account for a while in order to ensure continued alignment. Asking discovery questions such as those listed below are key to uncovering the problems your account is experiencing, the business impact of those problems, and the benefit that fixing those problems will have on their business.
 
@@ -37,7 +37,7 @@ From there, asking deeper questions during the intro call is a great way to unco
 
 It is critical to identify the champions and key influencers within the organization and make an effort to engage with them regularly. Schedule regular check-ins and provide updates on customer health, success stories, and any opportunities for growth or improvement. Oftentimes, successful customer partnerships require cross-functional collaboration. Make sure you work with your champion to identify stakeholders from other teams or departments that need to be involved in supporting the customer's success and coordinate efforts between the teams to ensure everyone is aligned on goals and priorities.
 
-Sometimes, the day-to-day team might not understand the value of executive partnership and therefore defaults to gatekeeping us from engaging with executive personas, as they see us as "just another vendor". To handle this objection, CSMs should equip the team with value-led messaging to pitch [Executive Business Reviews](https://about.gitlab.com/handbook/customer-success/csm/ebr/) internally by displaying EBRs as great opportunities to demonstrate to their leadership all the great work our champions have done to meet their wider business goals, and ensure the team understands that our focus is on making them be successful, which can more easily be achieved if we are all aware of and in sync with leadership's expectations and objectives.
+Sometimes, the day-to-day team might not understand the value of executive partnership and therefore defaults to gatekeeping us from engaging with executive personas, as they see us as "just another vendor". To handle this objection, CSMs should equip the team with value-led messaging to pitch [Executive Business Reviews](/handbook/customer-success/csm/ebr/) internally by displaying EBRs as great opportunities to demonstrate to their leadership all the great work our champions have done to meet their wider business goals, and ensure the team understands that our focus is on making them be successful, which can more easily be achieved if we are all aware of and in sync with leadership's expectations and objectives.
 
 If you continue to have trouble engaging with your account, work with your colleagues in other departments to identify any existing relationships and collaborate on how to best engage with leadership in the account. For example, ask your sales colleagues if they have any existing relationships with the stakeholders in the account, or ask your CSM leadership if they know any peers at the customer.
 
@@ -100,7 +100,7 @@ Finally, when working with executives, make sure to use [language that executive
 
 ### Continuous Engagement
 
-Finally, it's essential to continuously improve your partnership with executives. Solicit feedback from the executive team on how the partnership is progressing and areas for improvement. Use this feedback to refine your approach and identify opportunities for growth and innovation. An annual [EBR](https://about.gitlab.com/handbook/customer-success/csm/ebr/) is a great opportunity to open this dialogue and learn ways in which we at GitLab can improve to make the customer’s experience better. By implementing these best practices, CSMs can build strong partnerships with executives and drive successful outcomes for our customers.
+Finally, it's essential to continuously improve your partnership with executives. Solicit feedback from the executive team on how the partnership is progressing and areas for improvement. Use this feedback to refine your approach and identify opportunities for growth and innovation. An annual [EBR](/handbook/customer-success/csm/ebr/) is a great opportunity to open this dialogue and learn ways in which we at GitLab can improve to make the customer’s experience better. By implementing these best practices, CSMs can build strong partnerships with executives and drive successful outcomes for our customers.
 
 It's recommended for each CSM to speak with an executive stakeholder at least annually, however each segment/region may warrant more frequent engagement, as follows:
 

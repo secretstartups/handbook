@@ -151,7 +151,7 @@ Examples of how we engage with analysts include:
     - AR adds the preliminary analyst information to the top section.
     - PM/PMM adds content on the GitLab response
     - AR gets the webpage link to the industry analyst firm for citations approval
-- PMM [requests a slot on the Sales Enablement calendar](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/#to-request-new-sales-enablement-sessions) to discuss the report results and the web page with sales
+- PMM [requests a slot on the Sales Enablement calendar](/handbook/sales/training/sales-enablement-sessions/#to-request-new-sales-enablement-sessions) to discuss the report results and the web page with sales
 
 
 ### Once the report is published by the industry analyst firm:

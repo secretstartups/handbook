@@ -1,17 +1,10 @@
 ---
-
 title: Acquisitions Handbook
 description: "GitLab's key goal in pursuing acquisitions is to accelerate our roadmap and offer better tools to customers more quickly."
 extra_css:
   - maturity.css
   - direction.css
 ---
-
-
-
-
-
-
 
 ## Acquisition strategy
 
@@ -29,7 +22,7 @@ We are looking for companies interested in helping deliver on our [vision](https
 
 We value strong teams and technology and are looking for a combination of both that will help us accelerate our roadmap. We're pursuing two types of acquisitions:
 1. Growth stage: For companies with proven traction and growth we follow our [acquisition process](/handbook/acquisitions/acquisition-process/), designed to identify the mutual potential and create a joint-vision to deliver on post-acquisition. We're looking for acquisitions which can either present a strategic value-add or create potential for significant revenue upside.
-1. Soft-landing: for mature start-ups with limited business success or very early stage start-ups we've created an accelerated process (described below) for exits with a total deal consideration of less than $1M. 
+1. Soft-landing: for mature start-ups with limited business success or very early stage start-ups we've created an accelerated process (described below) for exits with a total deal consideration of less than $1M.
 
 ## Acquisition target profile
 
@@ -41,7 +34,7 @@ Below is a set of general, yet not strict, characteristics of companies that are
 - R&D team size under 30 people
 according to our [category maturity](https://about.gitlab.com/direction/maturity/) or fits into the new categories on our roadmap:
 
-<div class="sdlc-partial"><%= partial "direction/breadth/sdlc" %></div>
+{{< sdlc >}}
 
 - Willing to [reimplement products into GitLab](/handbook/product/single-application/) in Ruby and Go
 - Willing to sunset old customers within 90 days or less, with an option to transition to GitLab. GitLab follows an [open-core model](/install/ce-or-ee/)
@@ -61,7 +54,7 @@ according to our [category maturity](https://about.gitlab.com/direction/maturity
 
 ## Why join GitLab?
 
-1. Leverage the unique data and user-experience GitLab has as [complete DevOps platform](/handbook/product/single-application/) to act as a force-multiplier in helping you build the vision for your product area 
+1. Leverage the unique data and user-experience GitLab has as [complete DevOps platform](/handbook/product/single-application/) to act as a force-multiplier in helping you build the vision for your product area
 1. Focus on building great technology at scale to reach millions of users and some of the largest enterprise companies. We can ensure what you made will be used by more than 100,000 organizations and millions of users.
 1. Quick transaction - We move fast and aim to close the deal in 2-4 months, if you are able to drive a fast process with us
 1. We take care of people who won't work at GitLab - Every employee will have a soft landing. We will either make them an offer or we will pay up to 3 months or until they find a new job.
@@ -105,7 +98,7 @@ I don’t see anything GitLab could have done differently to make this acquisiti
 
 ## Starting an acquisition discussion with GitLab
 
-If you are interested in starting acquisition discussions with GitLab, please send an email to [Corporate Development](mailto:acquisitions@gitlab.com) to connect and start the process. 
+If you are interested in starting acquisition discussions with GitLab, please send an email to [Corporate Development](mailto:acquisitions@gitlab.com) to connect and start the process.
 <iframe src="https://www.youtube.com/embed/hcAaD3ujlqc" height="315" width="560"></iframe>
 
 ## Acquisition process

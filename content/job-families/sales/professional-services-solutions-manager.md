@@ -90,8 +90,8 @@ The Senior Solutions Manager is a [grade 7](/handbook/total-rewards/compensation
 
 ## Performance Indicators
 
-- [Bookings attached rate per agreed plan](https://about.gitlab.com/handbook/sales/#pcv)
-- [Services bookings and revenue per agreed plan](https://about.gitlab.com/handbook/sales/#pcv)
+- [Bookings attached rate per agreed plan](/handbook/sales/#pcv)
+- [Services bookings and revenue per agreed plan](/handbook/sales/#pcv)
 
 ## Career Ladder
 

@@ -54,11 +54,11 @@ The content is divided into three key categories of competencies. [LevelUp](http
 - [Sales: Customer Success](https://www.linkedin.com/learning/sales-customer-success) (LinkedIn Learning)
 - [Customer Success by Nick Mehta, Dan Steinman, Lincoln Murphy, Maria Martinez](https://learning.oreilly.com/library/view/customer-success/9781119167969/) (O'Reilly Books)
 - [The Customer Success Professional's Handbook](https://learning.oreilly.com/library/view/the-customer-success/9781119624615/) (O'Reilly Books)
-- [Sales & Customer Success Learning Path in SQS](https://about.gitlab.com/handbook/sales/onboarding/sales-learning-path/): Parallel to the scheduled training sessions in the [Sales Quick Start (SQS)](https://about.gitlab.com/handbook/sales/onboarding/), with [Role-based content](https://about.gitlab.com/handbook/sales/onboarding/sales-learning-path/#customer-success-quick-start---role-based-curriculum) (Instructor-Led Sessions)
+- [Sales & Customer Success Learning Path in SQS](/handbook/sales/onboarding/sales-learning-path/): Parallel to the scheduled training sessions in the [Sales Quick Start (SQS)](/handbook/sales/onboarding/), with [Role-based content](/handbook/sales/onboarding/sales-learning-path/#customer-success-quick-start---role-based-curriculum) (Instructor-Led Sessions)
 
 #### Leadership
 
-- [CSM Aspiring Leaders Program](https://about.gitlab.com/handbook/customer-success/csm/aspiring-leaders-program/)
+- [CSM Aspiring Leaders Program](/handbook/customer-success/csm/aspiring-leaders-program/)
 
 #### Executive Communication
 
@@ -107,7 +107,7 @@ As CSMs have positioned themselves to be more strategic and reach Director, VP, 
 
 #### GitLab for CSMs
 
-- [Customer Success Education & Enablement (All-CS)](https://about.gitlab.com/handbook/customer-success/education-enablement/)
+- [Customer Success Education & Enablement (All-CS)](/handbook/customer-success/education-enablement/)
 - Self Certifications are available on [LevelUp](https://levelup.gitlab.com/pages/certifications). Each exam has a corresponding free, self-paced course that covers the needed knowledge and skills:
   - [GitLab Certified Git Associate](https://levelup.gitlab.com/courses/gitlab-with-git-essentials-certification-exam)
   - [GitLab Certified Project Management Associate](https://levelup.gitlab.com/courses/gitlab-project-management-certification-exam)

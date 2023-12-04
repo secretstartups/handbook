@@ -352,7 +352,7 @@ Additional details about our process can be found on our [hiring page](/handbook
 
 ### Performance Indicator
 
-- <span  style="text-decoration:underline;">Technical Instructor: [Billable utilization](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#implementation-plan)</span> target >= 40%
+- <span  style="text-decoration:underline;">Technical Instructor: [Billable utilization](/handbook/customer-success/professional-services-engineering/#implementation-plan)</span> target >= 40%
 
 ### Career Ladder
 
@@ -450,8 +450,8 @@ The Senior Director, Education Services is a [grade 11](/handbook/total-rewards/
 
 ### Performance Indicators
 
-- [Bookings attached rate per agreed plan](https://about.gitlab.com/handbook/sales/#pcv)
-- [Services bookings and revenue per agreed plan](https://about.gitlab.com/handbook/sales/#pcv)
+- [Bookings attached rate per agreed plan](/handbook/sales/#pcv)
+- [Services bookings and revenue per agreed plan](/handbook/sales/#pcv)
 
 ## Career Ladder
 

@@ -29,7 +29,7 @@ Thank you,
 
 ```
 
-Once you receive the Project Sign off, via signed document or email acceptance, or passive acceptance, you'll need to follow these steps to process in [Mavenlink](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/professional-services-operations/#revenue-sign-off)
+Once you receive the Project Sign off, via signed document or email acceptance, or passive acceptance, you'll need to follow these steps to process in [Mavenlink](/handbook/customer-success/professional-services-engineering/professional-services-operations/#revenue-sign-off)
 
 
 

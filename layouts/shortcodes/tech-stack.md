@@ -8,28 +8,20 @@
   {{- errorf "The %q shortcode requires a single positional argument."}}
 {{- end }}
 
-{{ $dataURL := printf "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/data/tech_stack.yml"}}
-{{ with resources.GetRemote $dataURL }}
-  {{ with .Err}}
-    <h2>Unable to fetch performance indicator Data</h2>
-  {{ else }}
-    {{ $data := . | transform.Unmarshal }}
-    {{ range $data }}
-        {{ if eq .title $title }}
+
+{{- $techStack := partials.IncludeCached "data/tech-stack-by-title" page }}
+{{- with (index $techStack $title) }}
 - **Description:** {{ .description }}
-{{ with .provisioner }}
+{{- with .provisioner }}
 - **Provisioner:** {{ . }}
-{{ end }}
-{{ with .deprovisioner }}
+{{- end }}
+{{- with .deprovisioner }}
 - **Deprovisioner:** {{ . }}
-{{ end }}
-{{ with .need_move_to_okta }}
+{{- end }}
+{{- with .need_move_to_okta }}
 - **Okta Enabled:** {{ . }}
-{{ end }}
-{{ with .critical_systems_tier }}
+{{- end }}
+{{- with .critical_systems_tier }}
 - **Critical Systems Tier:** {{ . }}
-{{ end }}
-        {{ end }}
-    {{ end }}
-    {{ end }}
-{{ end }}
+{{- end }}
+{{- end }}

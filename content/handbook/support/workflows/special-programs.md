@@ -101,4 +101,4 @@ You can retrieve `CustomerIP` by:
 
 ## See Also
 
-- [Collaborating with Community Programs (Sales Training)](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/enablement/collaborating-community-programs/)
+- [Collaborating with Community Programs (Sales Training)](/handbook/sales/training/sales-enablement-sessions/enablement/collaborating-community-programs/)

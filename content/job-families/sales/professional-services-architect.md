@@ -16,7 +16,7 @@ You will play a critical role in the success of Professional Services engagement
 
 ### Performance Indicator
 
-- <span style="text-decoration:underline;">PSE: [Billable utilization](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#implementation-plan)</span> target >= 55%
+- <span style="text-decoration:underline;">PSE: [Billable utilization](/handbook/customer-success/professional-services-engineering/#implementation-plan)</span> target >= 55%
 
 ### Technical Architect
 

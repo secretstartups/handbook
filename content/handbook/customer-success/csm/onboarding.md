@@ -9,11 +9,11 @@ title: "Customer Onboarding"
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ---
 
-Customer Onboarding is the [beginning phase of the customer lifecycle](https://about.gitlab.com/handbook/customer-success/vision/#lifecycle-stages).
+Customer Onboarding is the [beginning phase of the customer lifecycle](/handbook/customer-success/vision/#lifecycle-stages).
 
 ## Overview
 
@@ -21,13 +21,13 @@ The customer onboarding phase is critical to getting a customer started on a suc
 
 ## Onboarding steps
 
-The onboarding process should begin when the [customer opportunity reaches stage "5-Negotiating" for Booked ARR](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/) in order to introduce the CSM while we have high-touch engagement to close the opportunity. Once an [opportunity that will newly qualify a customer for CSM alignment](https://about.gitlab.com/handbook/customer-success/csm/services/#csm-alignment) reaches stage 5, a [Gainsight CTA will be created](#cta-creation-criteria) for the CSM Manager to assign the customer to a CSM. The assigned CSM should then start the onboarding process with the rest of the [account team](https://about.gitlab.com/handbook/customer-success/account-team/).
+The onboarding process should begin when the [customer opportunity reaches stage "5-Negotiating" for Booked ARR](/handbook/sales/field-operations/gtm-resources/) in order to introduce the CSM while we have high-touch engagement to close the opportunity. Once an [opportunity that will newly qualify a customer for CSM alignment](/handbook/customer-success/csm/services/#csm-alignment) reaches stage 5, a [Gainsight CTA will be created](#cta-creation-criteria) for the CSM Manager to assign the customer to a CSM. The assigned CSM should then start the onboarding process with the rest of the [account team](/handbook/customer-success/account-team/).
 
 ⚠️ **NOTE:** Please review the [time to value metrics](#time-to-value-metrics) for target completion timeline.
 
 ### Internal transition
 
-The first step is [completing the handoff from pre-sales to post-sales](https://about.gitlab.com/handbook/customer-success/pre-sales-post-sales-transition/). This will ensure the entire account team is clear on the customer's status, and the CSM can be properly introduced to the customer. This sync on the background of the account is **essential** and must happen before the CSM is on a call with the customer, so the CSM has the full background and the account team approaches the call as a united front, already understanding the customer goals and working towards achieving them.
+The first step is [completing the handoff from pre-sales to post-sales](/handbook/customer-success/pre-sales-post-sales-transition/). This will ensure the entire account team is clear on the customer's status, and the CSM can be properly introduced to the customer. This sync on the background of the account is **essential** and must happen before the CSM is on a call with the customer, so the CSM has the full background and the account team approaches the call as a united front, already understanding the customer goals and working towards achieving them.
 
 If a customer will be on Dedicated, the CSM should familiarize themselves with the [best practices for CSMs of Dedicated Customers](https://internal.gitlab.com/handbook/customer-success/csm/gitlab-dedicated/).
 
@@ -49,7 +49,7 @@ Review email copy [here](https://docs.google.com/document/d/1rS1mV_8eKpM49Oh-35s
 
 ⏰ [**Target time:** within 14 days of customer start date](#time-to-engage)
 
-The kickoff call is the first conversation between the CSM and the customer. This is when the CSM describes their role to the customer, and starts their own discovery process to fill in details they don't have from the [internal transition](#internal-transition) in order to start an effective engagement and create a [success plan](https://about.gitlab.com/handbook/customer-success/csm/success-plans/).
+The kickoff call is the first conversation between the CSM and the customer. This is when the CSM describes their role to the customer, and starts their own discovery process to fill in details they don't have from the [internal transition](#internal-transition) in order to start an effective engagement and create a [success plan](/handbook/customer-success/csm/success-plans/).
 
 The goal of the kickoff call is to align on desired business outcomes, key upcoming milestones, and create clarity on our partnership as CSMs.
 
@@ -68,11 +68,11 @@ Ideally, the following information has been collected in the presales process an
 1. `Why did you buy GitLab?` Ideally you've already answered this question in your handoff from pre-sales, so if that's the case, reframe the question to validate that you understand they purchased GitLab for X reason and confirm your understanding of what challenges the customer is looking to solve.
 1. `What other tools are you using?` Understanding what the tool landscape is for the customer is crucial in being able to help them adopt GitLab in relation to their desired use cases. Try to write down their tool for each of the following use cases: SCM, CI, CD, Package, Security, Monitoring, Agile
 1. `What are your business goals?` After they achieve their immediate goal of whatever they want to use GitLab for, what's next for them?
-1. `Are there other stakeholders to involve?` Is there anyone else who would benefit from having business discussions with GitLab? CSMs should always have at least 2 regular contacts they speak with, ideally in line with our [target personas](https://about.gitlab.com/handbook/customer-success/csm/engagement/#customer-personas).
+1. `Are there other stakeholders to involve?` Is there anyone else who would benefit from having business discussions with GitLab? CSMs should always have at least 2 regular contacts they speak with, ideally in line with our [target personas](/handbook/customer-success/csm/engagement/#customer-personas).
 
-In addition to the above questions, make sure to review the [tasklist for the first cadence call](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/#tasklist-for-the-first-cadence-call) to ensure you cover additional important items, such as support and training.
+In addition to the above questions, make sure to review the [tasklist for the first cadence call](/handbook/customer-success/csm/cadence-calls/#tasklist-for-the-first-cadence-call) to ensure you cover additional important items, such as support and training.
 
-One of the most important action items coming out of the kickoff call is [establishing the cadence call](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/). The CSM should have the ongoing cadence call schedule determined with the customer by the end of the kickoff call, as well as a plan for the [first cadence call](#1st-cadence-call-future-growth-discussion--checklist).
+One of the most important action items coming out of the kickoff call is [establishing the cadence call](/handbook/customer-success/csm/cadence-calls/). The CSM should have the ongoing cadence call schedule determined with the customer by the end of the kickoff call, as well as a plan for the [first cadence call](#1st-cadence-call-future-growth-discussion--checklist).
 
 #### Major Enterprise CSM Journey Spreadsheet
 
@@ -80,17 +80,17 @@ It is recommended for Major Enterprise CSMs to use a [Customer Journey Spreadshe
 
 ### Success plan development (document key attributes)
 
-Once the [kickoff call](#kickoff-call) is complete, the CSM should have sufficient information to [start developing the success plan](https://about.gitlab.com/handbook/customer-success/csm/success-plans/). This is a critical step in successful onboarding and long-term customer engagement.
+Once the [kickoff call](#kickoff-call) is complete, the CSM should have sufficient information to [start developing the success plan](/handbook/customer-success/csm/success-plans/). This is a critical step in successful onboarding and long-term customer engagement.
 
-⚠️ **NOTE:** While the CSM should be able to create an effective first iteration of the success plan at this point in onboarding, the [success plan is a living document](https://about.gitlab.com/handbook/customer-success/csm/success-plans/#success-plans-are-living-documents), so the CSM should continue iterating the success plan throughout the customer lifecycle.
+⚠️ **NOTE:** While the CSM should be able to create an effective first iteration of the success plan at this point in onboarding, the [success plan is a living document](/handbook/customer-success/csm/success-plans/#success-plans-are-living-documents), so the CSM should continue iterating the success plan throughout the customer lifecycle.
 
-Please review the [success plan handbook page](https://about.gitlab.com/handbook/customer-success/csm/success-plans/) for more details on how to do this.
+Please review the [success plan handbook page](/handbook/customer-success/csm/success-plans/) for more details on how to do this.
 
 ### 1st Cadence Call: Future Growth Discussion & Checklist
 
 ⏰ **Target time:** Within 30 days of customer start date
 
-The first [cadence call](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/) is typically the CSM's second conversation with the customer and when we start to deliver value through our efforts as a trusted advisor.
+The first [cadence call](/handbook/customer-success/csm/cadence-calls/) is typically the CSM's second conversation with the customer and when we start to deliver value through our efforts as a trusted advisor.
 
 The completion of this second customer call marks the completion of customer onboarding, as we have collected all information needed and given the customer the tools they need to be successful going forward.
 
@@ -106,10 +106,10 @@ By accomplishing the following tasks, you'll know you have completed onboarding:
    - [ ] Asks about the customer's DevSecOps toolstack
    - [ ] Asks about any additional customer stakeholders
    - [ ] Advises the customer on how to get [support](/support/)
-- [ ] Complete initial draft of success plan, with the objective being their primary use case with the relevant [Stage Enablement playbook](https://about.gitlab.com/handbook/customer-success/playbooks/)
+- [ ] Complete initial draft of success plan, with the objective being their primary use case with the relevant [Stage Enablement playbook](/handbook/customer-success/playbooks/)
 - [ ] Complete second call (first cadence), where the CSM:
    - [ ] Discusses how they will work with the customer towards their goals, collecting metrics for success, milestones/timelines, and establishing next steps
-   - [ ] Discusses enablement opportunities (e.g. [workshops](https://about.gitlab.com/handbook/customer-success/csm/workshops/), Professional Services, GitLab documentation, etc.)
+   - [ ] Discusses enablement opportunities (e.g. [workshops](/handbook/customer-success/csm/workshops/), Professional Services, GitLab documentation, etc.)
    - [ ] Shares available content for workshops and webinars and advocates for the customer to attend a session on Intro to GitLab and/or their primary use case
    - [ ] Discusses the monthly upgrade cadence for releases
    - [ ] (If self-managed) Discusses usage ping
@@ -119,7 +119,7 @@ If you haven't been able to achieve all of this by the end of the second call, [
 
 ## Time to Value Metrics
 
-The [Time to Value KPIs](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis) are developed to help us understand key facts about how we are serving our customers, and how we could improve. Below are the processes for how CSMs should update and track their Time to Value KPIs. For definitions, please see [Time to Value KPIs](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis). For data visualization, see [Customer Onboarding Dashboard](https://gitlab.gainsightcloud.com/v1/ui/home#58502af5-e7c2-4cbd-8645-d612b74424ff).
+The [Time to Value KPIs](/handbook/customer-success/vision/#time-to-value-kpis) are developed to help us understand key facts about how we are serving our customers, and how we could improve. Below are the processes for how CSMs should update and track their Time to Value KPIs. For definitions, please see [Time to Value KPIs](/handbook/customer-success/vision/#time-to-value-kpis). For data visualization, see [Customer Onboarding Dashboard](https://gitlab.gainsightcloud.com/v1/ui/home#58502af5-e7c2-4cbd-8645-d612b74424ff).
 
 ### Time to Engage
 
@@ -207,21 +207,21 @@ Given the importance of onboarding to the customer's journey and our ability to 
 The details around why onboarding is delayed should be documented in the following places:
 
 - Onboarding CTA comments field
-- Update timeline entry, with a [revised CSM Sentiment](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#tracking-customer-health)
+- Update timeline entry, with a [revised CSM Sentiment](/handbook/customer-success/csm/health-score-triage/#tracking-customer-health)
 
 ### Risk and triage
 
-If the delay is caused by the customer (e.g. disinterest, lack of engagement/"going dark") then the [account has risk](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#tracking-customer-health) and should be flagged.
+If the delay is caused by the customer (e.g. disinterest, lack of engagement/"going dark") then the [account has risk](/handbook/customer-success/csm/health-score-triage/#tracking-customer-health) and should be flagged.
 
-- Add an [At-Risk timeline entry](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#at-risk-timeline-entries)
-- [Communicate the customer risk](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#at-risk-communication-guidelines)
-- Determine if an [account escalation](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#when-to-open-an-account-escalation) is required.
+- Add an [At-Risk timeline entry](/handbook/customer-success/csm/health-score-triage/#at-risk-timeline-entries)
+- [Communicate the customer risk](/handbook/customer-success/csm/health-score-triage/#at-risk-communication-guidelines)
+- Determine if an [account escalation](/handbook/customer-success/csm/health-score-triage/#when-to-open-an-account-escalation) is required.
 
 ## Gainsight for Onboarding
 
 ### CTA Creation Criteria
 
-[CSM-assigned accounts](https://about.gitlab.com/handbook/customer-success/csm/services/): When a customer signs at or reaches the CSM-assigned threshold, a [Call To Action (CTA)](https://about.gitlab.com/handbook/customer-success/csm/gainsight/ctas/) is triggered within Gainsight.
+[CSM-assigned accounts](/handbook/customer-success/csm/services/): When a customer signs at or reaches the CSM-assigned threshold, a [Call To Action (CTA)](/handbook/customer-success/csm/gainsight/ctas/) is triggered within Gainsight.
 
 If the CSM field is not populated, a CTA is created for the CSM Manager. Once populated, an onboarding CTA is kicked off for the CSM. While the opening of an onboarding CTA is an automated process, it can also be created manually by going to the Cockpit, clicking `+ CTA` and then choosing the onboarding playbook.
 

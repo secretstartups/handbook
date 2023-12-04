@@ -10,7 +10,7 @@ description: "This page includes a deep-dive into the definition of ARR at GitLa
 
 
 
-The below page includes a deep-dive into the definition of ARR at GitLab and is a sub-page of the [Sales Term Glossary Page](https://about.gitlab.com/handbook/sales/sales-term-glossary/).
+The below page includes a deep-dive into the definition of ARR at GitLab and is a sub-page of the [Sales Term Glossary Page](/handbook/sales/sales-term-glossary/).
 
 ## Annual Recurring Revenue (ARR)
 

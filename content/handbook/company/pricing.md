@@ -183,7 +183,7 @@ When building integrations to partners it is possible to make exceptions to our 
 
 We've found that bundling our features within tiers into themes [resulted in improved conversion performance on our pricing page](https://gitlab.com/groups/gitlab-com/marketing/growth-marketing/-/epics/11). While it is how we present the value of our tiers, this themes-based representation serves as an additive filter for, and is not a replace of, our Buyer Based Tiering decision.
 
-Themes are then bundled into [customer value drivers](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers).
+Themes are then bundled into [customer value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers).
 
 ```mermaid
 graph TD;
@@ -329,7 +329,7 @@ The disadvantages are:
 
 We believe having a single plan for one customer works because the advantages outweigh the disadvantages.
 
-For the GitLab sales team and for GitLab customers, we suggest handling the objection by focusing on the [value and business outcomes](https://about.gitlab.com/handbook/sales/training/)
+For the GitLab sales team and for GitLab customers, we suggest handling the objection by focusing on the [value and business outcomes](/handbook/sales/training/)
 
 ### Reporter User Permission Pricing
 

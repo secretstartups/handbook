@@ -25,7 +25,7 @@ For a more inutitive UI for managing your cluster resources, we recommend using 
 This method of connecting your cluster was deprecated in GitLab v14.5. This tutorial is preserved for educational purposes. See the [Kubernetes Agent](https://docs.gitlab.com/ee/user/clusters/agent/) documentation for the new method for connecting clusters to GitLab.
 
 #### Pre-Requisites
-- Creating and accessing your [Demo Systems account](https://about.gitlab.com/handbook/customer-success/demo-systems/#access-shared-omnibus-instances)
+- Creating and accessing your [Demo Systems account](/handbook/customer-success/demo-systems/#access-shared-omnibus-instances)
 - Create a GCP project using the [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/#individual-aws-account-or-gcp-project)
 
 ## Step-by-Step Instructions
@@ -188,7 +188,7 @@ For additional assistance with accessing your GCP project, see the [GitLab Sandb
 
 ### Task 4. Accessing the GitLab Instance
 
-See the [demo systems handbook page](https://about.gitlab.com/handbook/customer-success/demo-systems/#access-shared-omnibus-instances) instructions for accessing the GitLab Omnibus instance.
+See the [demo systems handbook page](/handbook/customer-success/demo-systems/#access-shared-omnibus-instances) instructions for accessing the GitLab Omnibus instance.
 
 ### Task 6. Add Kubernetes Cluster to GitLab Group
 

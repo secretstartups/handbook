@@ -8,7 +8,7 @@ title: "CSM/CSE Webinar Calendar"
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM/CSE-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM/CSE-related handbook pages.
 
 Watch previously recorded webinars on our [YouTube Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kpczt4pRtyF147Uvn2bGGvq).
 

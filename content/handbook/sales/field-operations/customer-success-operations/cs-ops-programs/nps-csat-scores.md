@@ -10,7 +10,7 @@ description: "A deep dive into the NPS/CSAT scores, how they are defined and cal
 
 
 
-For an overview of how CSMs use Customer360 (or C360), please refer to the [Gainsight CSM C360 Overview Page](https://about.gitlab.com/handbook/customer-success/csm/gainsight/c360-overview)
+For an overview of how CSMs use Customer360 (or C360), please refer to the [Gainsight CSM C360 Overview Page](/handbook/customer-success/csm/gainsight/c360-overview)
 
 ## Customer NPS/CSAT surveys
 
@@ -18,7 +18,7 @@ Customers at GitLab periodically receive surveys sent via Gainsight by the Digit
 
 Customer Satisfaction score, or CSAT, are surveys sent directly to customers to measure satisfaction of a service, product, interaction or experience with GitLab. A customer may receive a CSAT survey at any point in their life cycle depending on the survey’s configuration.
 
-In order for customers to receive these surveys, a [`GitLab admin` role needs to be assigned](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#gitlab-admin-contacts) in Gainsight to the appropriate contacts.
+In order for customers to receive these surveys, a [`GitLab admin` role needs to be assigned](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#gitlab-admin-contacts) in Gainsight to the appropriate contacts.
 
 It is the CSM/CSE’s responsibility to ensure the role assignment is completed. This process is a task in the Customer Onboarding playbook, and also in the Customer Renewal playbook. If an account doesn’t have a CSM or CSE, the AE must configure the role.
 
@@ -58,7 +58,7 @@ Customers receive NPS surveys at multiple points in their customer lifecycle and
    - NPS: Considering your experience with us so far, how likely are you to recommend GitLab to a friend or colleague?
    - CSAT: Overall, how satisfied are you with your onboarding experience?
    - CSAT: How can we improve your readiness to adopt the product?
-   - Sent to net-new customers one day after [Time to First Value (TTFV)](https://about.gitlab.com/handbook/customer-success/csm/onboarding/#time-to-first-value) has been identified by using product data, or on day 90, whichever comes first.
+   - Sent to net-new customers one day after [Time to First Value (TTFV)](/handbook/customer-success/csm/onboarding/#time-to-first-value) has been identified by using product data, or on day 90, whichever comes first.
       - Provides an early warning system for the customer beyond what CSM/CSE or AE sentiment or product usage data can tell us.
 
 - **Pre-Renewal**

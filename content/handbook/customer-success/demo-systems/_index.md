@@ -75,7 +75,7 @@ The <code>gitlab-core.us.gitlabdemo.cloud</code> instance was deprecated on 2021
 - **AWS Account**: See the [instructions](#aws-account-or-gcp-project-sandbox-cloud) for provisioning your own isolated AWS account with the GitLab Sandbox Cloud.
 - **GCP Project**: See the [instructions](#aws-account-or-gcp-project-sandbox-cloud) for provisioning your own isolated GCP project with the GitLab Sandbox Cloud.
 - **AWS Elastic Kubernetes Service (EKS) Cluster:** You can use your AWS account to provision an EKS cluster using the [Adding EKS clusters](https://docs.gitlab.com/ee/user/project/clusters/add_eks_clusters.html) GitLab documentation.
-- **GCP Google Kubernetes Enginge (GKE) Cluster:** Send a message to Jeff Martin with questions about clusters that are in the `group-cs` GCP project. See the tutorial for [configuring GitLab with group-level Kubernetes cluster](https://about.gitlab.com/handbook/customer-success/demo-systems/tutorials/getting-started/configuring-group-cluster/) to add your cluster to your GitLab group.
+- **GCP Google Kubernetes Enginge (GKE) Cluster:** Send a message to Jeff Martin with questions about clusters that are in the `group-cs` GCP project. See the tutorial for [configuring GitLab with group-level Kubernetes cluster](/handbook/customer-success/demo-systems/tutorials/getting-started/configuring-group-cluster/) to add your cluster to your GitLab group.
 
 ## How to Get Started
 
@@ -223,16 +223,16 @@ For demo and sandbox use cases requiring an older version, you can deploy a GitL
 
 ## Tutorials
 
-- [Configuring GitLab with group-level Kubernetes cluster](https://about.gitlab.com/handbook/customer-success/demo-systems/tutorials/getting-started/configuring-group-cluster/)
-- [Create a Jenkins Pipeline (Deprecated, Educational only)](https://about.gitlab.com/handbook/customer-success/demo-systems/tutorials/integrations/create-jenkins-pipeline/)
+- [Configuring GitLab with group-level Kubernetes cluster](/handbook/customer-success/demo-systems/tutorials/getting-started/configuring-group-cluster/)
+- [Create a Jenkins Pipeline (Deprecated, Educational only)](/handbook/customer-success/demo-systems/tutorials/integrations/create-jenkins-pipeline/)
 
 ## Sample Data
 
 Historically, there has not been a consistent set of demo data. Each of our Solutions Architects are responsible for creating their own demo data or forking projects from other team members.
 
-See the handbook page for [Demo Readiness](https://about.gitlab.com/handbook/customer-success/solutions-architects/demonstrations/#demo-readiness) and [Existing Demonstrations](https://about.gitlab.com/handbook/customer-success/solutions-architects/demonstrations/#existing-demonstrations) to get started.
+See the handbook page for [Demo Readiness](/handbook/customer-success/solutions-architects/demonstrations/#demo-readiness) and [Existing Demonstrations](/handbook/customer-success/solutions-architects/demonstrations/#existing-demonstrations) to get started.
 
-Please see the <a href="https://gitlab.com/gitlab-com/customer-success/solutions-architecture-leaders/sa-initiatives/-/issues">Solutions Architecture Initiatives issue tracker</a> for more information on the crowd sourced OKRs that are in progress and the development of our [Communities of Practice](https://about.gitlab.com/handbook/customer-success/initiatives/communities-of-practice.html).
+Please see the <a href="https://gitlab.com/gitlab-com/customer-success/solutions-architecture-leaders/sa-initiatives/-/issues">Solutions Architecture Initiatives issue tracker</a> for more information on the crowd sourced OKRs that are in progress and the development of our [Communities of Practice](/handbook/customer-success/initiatives/communities-of-practice.html).
 
 ## Projects and Code Repositories
 
@@ -288,8 +288,8 @@ The Demo Systems v1 repositories can be found in [gitlab.com/gitlab-com/customer
 - [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/)
 - [GitLab Infrastructure Standards](/handbook/infrastructure-standards/)
 - [GitLab Infrastructure Standards - Labels and Tags](/handbook/infrastructure-standards/labels-tags/)
-- [Demo Systems Kubernetes Architecture Docs](https://about.gitlab.com/handbook/customer-success/demo-systems/infrastructure/kubernetes/)
-- [Demo Systems Network Architecture and Subnet Docs](https://about.gitlab.com/handbook/customer-success/demo-systems/infrastructure/networking/)
+- [Demo Systems Kubernetes Architecture Docs](/handbook/customer-success/demo-systems/infrastructure/kubernetes/)
+- [Demo Systems Network Architecture and Subnet Docs](/handbook/customer-success/demo-systems/infrastructure/networking/)
 
 ### Help and Support
 

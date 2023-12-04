@@ -9,7 +9,7 @@ title: "CSM Paid Time Off"
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ---
 
@@ -39,7 +39,7 @@ Be sure to confirm with whoever will be covering for you the dates you'll be out
 
 ### Backup CSMs
 
-Backup CSMs should not be expected to support the entire book of business of the vacationing CSM; however, they should stay abreast of what is going on with those accounts during the coverage period. For example, you should respond to any customers that reach out to you, but it's also recommended to spend 5 minutes each day of coverage checking if the CSM has been pinged in either Slack or in GitLab.com [collaboration projects](https://about.gitlab.com/handbook/customer-success/csm/engagement/). Here are some tips on how to do this quickly and easily:
+Backup CSMs should not be expected to support the entire book of business of the vacationing CSM; however, they should stay abreast of what is going on with those accounts during the coverage period. For example, you should respond to any customers that reach out to you, but it's also recommended to spend 5 minutes each day of coverage checking if the CSM has been pinged in either Slack or in GitLab.com [collaboration projects](/handbook/customer-success/csm/engagement/). Here are some tips on how to do this quickly and easily:
 
 Slack:
 1. Use the search bar and search the person's name, then review any pings they may have gotten and answer appropriately.  
