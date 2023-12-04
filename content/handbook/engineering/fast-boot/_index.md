@@ -1,13 +1,13 @@
 ---
-layout: handbook-page-toc
+
 title: Fast Boot
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 A Fast Boot is an event that gathers the members of a team or group in one
 physical location to work together and bond in order to accelerate the
