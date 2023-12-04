@@ -28,9 +28,9 @@ The quarterly Engineering offsite provides a forum for longer-form discussion am
 
 ### Schedule
 
-The Enginering offsite happens after the quarter's corresponding [E-group offsite](/company/offsite/).
+The Enginering offsite happens after the quarter's corresponding [E-group offsite](/handbook/company/offsite/).
 
-It runs Tuesday to Thursday inclusive in EMEA and AMER, which is Wednesday to Friday inclusive in APAC. It does not start on the Monday because that is reserved for the [All-directs zoom call](/company/offsite/#all-directs-zoom-call) following the E-group offsite. The dates below are the dates in AMER timezones for previous and upcoming offsites.
+It runs Tuesday to Thursday inclusive in EMEA and AMER, which is Wednesday to Friday inclusive in APAC. It does not start on the Monday because that is reserved for the [All-directs zoom call](/handbook/company/offsite/#all-directs-zoom-call) following the E-group offsite. The dates below are the dates in AMER timezones for previous and upcoming offsites.
 
 1. [FY22-Q4](https://docs.google.com/document/d/1MGbJFWg9ltrKor5ZhZbWS0-rLg26NYlYJI3f108_4SA/edit)
 1. [FY23-Q1](https://docs.google.com/document/d/1C7DyvpZorxpiFOAUJCbrcQ8fJb2Lab0eS6y6xf-EkMA/edit)
@@ -66,7 +66,7 @@ In general, we prefer to have more items than we can fit into the agenda, and th
 
 ## Acting Chief of Staff to the CTO Rotation
 
-The acting of Chief of Staff to the CTO role is an opportunity for anyone in Engineering with an interest in leadership and upper management to get exposure. The acting role is there to make the rest of CTO Staff (CTO's direct reports) more effective. For more information check out the [job family](https://handbook.gitlab.com/job-families/engineering/acting-cos-to-the-cto/) for this acting position.
+The acting of Chief of Staff to the CTO role is an opportunity for anyone in Engineering with an interest in leadership and upper management to get exposure. The acting role is there to make the rest of CTO Staff (CTO's direct reports) more effective. For more information check out the [job family](/job-families/engineering/acting-cos-to-the-cto/) for this acting position.
 
 To get a better idea of the role, consider these resources:
 
@@ -98,7 +98,7 @@ You are eligible to apply for this rotation if you have been with GitLab for at 
 - Team members interested in applying should confirm availability from a bandwidth perspective with their manager prior to applying
 - Performance in current role
 - Good standing within GitLab (for example, not on a PIP or recently received a written warning)
-- Participation in [Team Member Resource Groups](/company/culture/inclusion/erg-guide/) is a nice-to-have
+- Participation in [Team Member Resource Groups](/handbook/company/culture/inclusion/erg-guide/) is a nice-to-have
 
 **In keeping with our DIB value, we do extra work to make certain that members of underrepresented groups are aware of the opportunity, feel welcome to apply, and have equal opportunity to serve a term.**
 
