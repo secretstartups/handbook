@@ -30,7 +30,6 @@ The Associate Sales Operations Analyst is a [grade 5](/handbook/total-rewards/co
 - Maintain and evangelize communication best practices for sales and sales support functions.
 - Respond to Sales Support slack channel to resolve questions and issues. 
   
-
 #### Associate Sales Operations Analyst Requirements
 
 - Ability to continuously execute on deliverables and meet deadlines
@@ -67,7 +66,6 @@ The Sales Operations Analyst is a [grade 6](/handbook/total-rewards/compensation
 - Create & leverage Salesforce dashboards to maintain data integrity.
 - Support ad hoc reporting requests.
 
-
 #### Sales Operations Analyst Requirements
 
 - Extends that of the Associate Sales Operations Analyst requirements
@@ -81,7 +79,6 @@ The Sales Operations Analyst is a [grade 6](/handbook/total-rewards/compensation
 - Strong interpersonal skills
 - Proficient with Salesforce and maintaining complex spreadsheets
 - Strong understanding of the sales territory carving process and annual planning cycle
-
 
 ### Sr. Sales Operations Analyst
 
@@ -99,14 +96,12 @@ The Sr. Sales Operations Analyst & Sr. Sales Operations Manager are a [grade 7](
 - Establish a cross-functional operational cadence to drive transparency, collaboration and alignment on GTM policies, processes and tools.
 - Collaborate with Field Enablement to design enablement practices at scale and communicate updates to users.
 
-
 #### Sr. Sales Operations Analyst Requirements
 
 - Extends that of the Sales Operations Analyst requirements
 - Self-starter and works effectively with cross-functional teams
 - Proficiency with sales tech stack
 - Execute at a tactical level with minimal manager guidance
-
 
 ## Manager, Sales Operations Levels
 
@@ -120,10 +115,10 @@ The Manager, Sales Operations is a [grade 8](/handbook/total-rewards/compensatio
 
 #### Manager, Sales Operations Responsibilities
 
--  Manage and lead a team responsible for the sales operations policies and process supporting  Field Sales.   
+- Manage and lead a team responsible for the sales operations policies and process supporting  Field Sales.   
 - Conduct 1:1s with directs to review key deliverables and support eliminating any obstacles to complete the tasks
-- Manage team performance and conduct talent assessments
-Develop and guide directs through documented professional development plans
+- Manage team performance and conduct talent assessments 
+- Develop and guide directs through documented professional development plans
 - Effectively align and collaborate with cross-functional partners to support GTM initiatives.
 - Implement sales tools and processes for the sales organization that focuses on improving efficiency, effectiveness, and productivity at scale
 - Be the point of escalation for sales leadership as it relates to GTM policies, processes and sales tools.
@@ -133,7 +128,6 @@ Develop and guide directs through documented professional development plans
 - Perform continuous reviews of sales policies and processes to drive standardization
 - Provide feedback to maintain data integrity within customer records in Salesforce.com and other systems
 - Monitor system adoption and data compliance and governance
-
 
 #### Manager, Sales Operations Requirements
 
@@ -164,16 +158,14 @@ The Senior Manager, Sales Operations is a [grade 9](/handbook/total-rewards/comp
 - Partners with sales leadership to support operationalizing Go-To-Market sales initiatives.
 - Leads the operational deployment of Fiscal Year Planning through the orchestration and partnership of cross-functional partners.
 - Leads the iteration of the Go-To-Market policies and processes through automation and best practices.
--Contributes to the evaluation, selection, implementation and integration of Sales Tool stack.
-
+- Contributes to the evaluation, selection, implementation and integration of Sales Tool stack.
 
 #### Senior Manager, Sales Operations Requirements
 
--  Extends that of the Manager, Sales Operations requirements.
+- Extends that of the Manager, Sales Operations requirements.
 - Proven strategic thought leader with the ability to influence and drive informed decision-making.
 - Demonstrated experience in Go-To-Market motions and how sales operations supports the execution of those initiatives. 
 - Demonstrated experience in employee professional development.
-
 
 ## Director, Sales Operations Levels
 
@@ -193,9 +185,8 @@ The Director, Sales Operations is a [grade 10](/handbook/total-rewards/compensat
 - Improve and manage the [Sales Handbook](https://about.gitlab.com/handbook/sales/)
 - Create board-level presentations for the Chief Revenue Officer
 - Collaborate with regional sales leaders and teams to develop and execute sales management disciplines and processes (territory assignment & reviews, weekly/quarterly forecast, QBRs, pipeline analysis and development, account planning, account assignments, quota/budget allocation)
--Partner with cross-functional operations leaders to align on sales policies and processes.
+- Partner with cross-functional operations leaders to align on sales policies and processes.
 - Lead and manage the data governance model to drive sales data integrity. 
-
 
 #### Director, Sales Operations Requirements
 
@@ -214,15 +205,19 @@ The Director, Sales Operations is a [grade 10](/handbook/total-rewards/compensat
 #### Specialties
 
 ##### Sales Tools Responsibilities
+
 Focus on the development and execution of the global sales tools strategy and policy that drives standardization in tool utilization and optimization across the sales process continuum that contributes to Field Sales productivity and efficiency.   
 
 ##### Account and Territory Operations Responsibilities
+
 Focus on centralizing and implementing the Account and Territory operations function to support the pre and post annual planning cycle.  Create and manage Enterprise Territory Management (ETM) tool rules to support Salesforce hierarchy alignment to the annual planning model.
 
 ##### GTM Planning, Policy and Process Responsibilities
+
 Focus on leading the operational deployment of the Fiscal Year Planning through cross-functional engagement and orchestration of milestone deliverables.  Lead and manage the iteration of the Go-To-Market policies and processes through automation and best practices. 
 
 ##### Data Quality and Governance Responsibilities
+
 Focus on creating the Sales Data Governance policies to result in continuous data cleansing, enrichment and augmentation that results in increased data accuracy and confidence. Manage sales data cleansing to support pre and post Fiscal Year Planning. 
 
 
@@ -248,7 +243,6 @@ The Senior Director, Sales Operations is a [grade 11](/handbook/total-rewards/co
 
 #### Senior Director, Sales Operations Requirements
 
-- BA/BS degree
 - Demonstrated progressive relevant experience in a software business and sales operations capacity
 - Excellent quantitative analytical skills, creativity in problem-solving, empowering teams and a keen business sense
 - Ability to think strategically, but also have exceptional attention to detail to drive program management, execution and results
