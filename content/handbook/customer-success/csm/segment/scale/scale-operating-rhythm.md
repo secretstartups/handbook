@@ -119,7 +119,8 @@ The host of the webinar should download the recording from [Webinar Master Recor
 
 The host and Q&A panelist should start/join the webinar at least 10 minutes before the webinar start time so that they can test the video sharing and ensure everything is set for the webinar.  There is no need for the host to say any opening remarks prior to playing the video.  All housekeeping items are handled as part of the recording.
 
-Question - who sends the recording after the session?
+The Scale Program Manager will handle all pre- and post-webinar communication with the attendees.
+
 
 ### Preparing for a Hands-on Workshop
 
@@ -131,28 +132,25 @@ A registration code will then be created for the workshop.  Registration codes a
 
 Before the workshop, the host should make a copy of the appropriate master slide deck, change the registration codes to match the current workshop, and add their name and profile picture to the presenter slide. The workshop slide deck is stored in the [Scale Team / 2. Global Adoption Workshops folder](https://drive.google.com/drive/folders/1zh2qF8HV5e-3J9TvXDd5aR5LwH-ae9AN?usp=drive_link).  
 
-Once the slide deck customizations are complete, the host should upload the deck to their personal space in Highspot and create a link that will be shared in the follow up email.  The Customer Success Operations Program Manager will handle all pre-workshop and post-workshop communication with the attendees, and will request the Highspot link to add to the post-workshop email.
+Once the slide deck customizations are complete, the host should upload the deck to their personal space in Highspot and create a link that will be shared in the follow up email.  The Scale Program Manager will handle all pre-workshop and post-workshop communication with the attendees, and will request the Highspot link to add to the post-workshop email.
 
-The workshop lab content is contained in the [GitLab.com Workshop Library group](https://gitlab.com/gitlab-com/customer-success/demo-engineering/workshop-library).  The host should run through the lab exercises in their entirety at least once before the workshop to ensure there are no technical issues.
+The workshop lab content is contained in the [GitLab Learn Labs Sample Projects group](https://gitlab.com/gitlab-learn-labs/sample-projects).  The correct project should be linked in the slide deck you are using for the workshop.  The host should run through the lab exercises in their entirety at least once before the workshop to ensure there are no technical issues.
 
-To do: You should also create a paste notes doc...example
-Chris creates a short link from a Highspot page and a QR code  
-
-The #scale_workshops_planning slack channel is used for any pre-workshop questions, set up, demo environment issues, etc.
+You should also create a paste notes doc that has all of the information and links that you will want to put in the chat for the workshop participants.  See [Sample Paste Notes for Security and Compliance Workshop](https://docs.google.com/document/d/1rNF2PvfJrunZgoI9PW4mPIirLLhyXH9ohXgLEmsXeRI/edit?usp=sharing). Provide the link in the #scale-workshops-planning slack channel for anyone who is helping with Q&A.  The #scale-workshops-planning slack channel is used for any pre-workshop questions, set up, demo environment issues, etc.
 
 On the day of the workshop, the host should login at least 10 minutes prior to the workshop start to get set up.  
 
-To document:
-- housekeeping items
-   - all attendees are muted (are they able to unmute, do we have to monitor this and make sure they stay muted?)
-   - ask questions in the Q&A
-   - account on gitlab.com is needed before starting
-   - access to lab environment for x days (is this in the slide deck?)
-- tips and tricks for presenting
-   - 2 chrome windows side by side when working through labs
-   - full screen for presentation
+Workshop housekeeping items - these should be called out in the workshop slide deck as well:
+   - all attendees are muted - ask participants to stay muted and add their questions in the Q&A panel
+   - an account on gitlab.com is needed before starting
+   - access to lab environment for x days (it's 2 days for some workshops and 4 days for others - should be called out in the appropriate slide deck)
+
+Tips and tricks for presenting:
+   - open 2 chrome windows side by side when working through labs - one with the issue instructions and one with the workshop project you're using to work through each step
+   - put your slides in full screen presentation mode for presentation
    - turn off all notifications
-   - go slower than you think you need to
+   - hide your bookmarks bar and be conscious not to share anything related to other customers
+   - go slower than you think you need to through the exercises
 
 
 ## Scale Onboarding Cohorts
@@ -161,7 +159,6 @@ As a supplement to the [monthly webinars](https://about.gitlab.com/handbook/cust
 
 The onboarding cohort will have a duration of 4 weeks, starting at the beginning of each month, with 90-minute live weekly training led by a Customer Success Engineer. Customers will be grouped with other new GitLab customers during each training. In addition to the weekly hands-on calls, customers will have access to a shared Slack channel monitored by Customer Success Engineers throughout the program to help answer questions and provide best practice guidance.
 
-TO DO: Update  Week 4 and any links to presentations
 
 - Week 1: [Getting Started and Project Management with GitLab](https://docs.google.com/presentation/d/1Aq0DrBv-EGXAP13pX8wD1RepPesNqq1wkjXjMkLaLus/edit?usp=sharing)
 - Week 2: [CI/CD in GitLab](https://docs.google.com/presentation/d/1WDfTfaK7AyPOXAT3HJkKoSODx5YLtxAPhj0Bf-CadNQ/edit?usp=sharing)
