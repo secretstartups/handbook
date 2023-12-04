@@ -317,6 +317,12 @@
             {{- if gt (len $twTeam) 0 }}
                 <th>Technical Writing</th>
             {{- end }}
+            {{- if gt (len $appsecEngineer) 0 }}
+                <th>Application Security Engineer</th>
+            {{- end }}
+            {{- if gt (len $appsecEngineer) 0 }}
+                <th>Infrastructure Security Engineer</th>
+            {{- end }}
             {{- if gt (len $csTeam) 0 }}
                 <th>Customer Success</th>
             {{- end }}
@@ -403,6 +409,16 @@
             {{- if gt (len $twTeam) 0 }}
             <td>{{- range $twTeam -}}{{ partial "member-by-name" . -}}<br>
             {{- end -}}
+            </td>
+            {{- end }}
+            {{- if gt (len $appsecEngineer) 0 }}
+            <td>{{- range $appsecEngineer -}}{{ partial "member-by-name" . -}}<br>
+            {{- end }}
+            </td>
+            {{- end }}
+            {{- if gt (len $infrasecEngineer) 0 }}
+            <td>{{- range $infrasecEngineer -}}{{ partial "member-by-name" . -}}<br>
+            {{- end }}
             </td>
             {{- end }}
             {{- if gt (len $csTeam) 0 }}
