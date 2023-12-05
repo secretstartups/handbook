@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Engineering Error Budgets for Stage Groups"
 description: "Engineering Error Budget by stage groups example." 
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Error Budgets for Stage Groups (worked example)
 
