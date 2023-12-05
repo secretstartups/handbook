@@ -570,7 +570,7 @@ A “Capital Asset” is a unit of property that has an economic useful life ext
 
 **Capitalization Thresholds**
 
-GitLab establishes [$5,000 (USD)]({{< ref "compensation#exchange-rates" >}}) as the minimum amount required for capitalization. Any item with a cost below this amount is expensed on the date of purchase. Exceptions are Key Component Assets (i.e. computer laptops). 
+GitLab establishes [$5,000 (USD)]({{< ref "compensation#exchange-rates" >}}) as the minimum amount required for capitalization. Any item with a cost below this amount is expensed on the date of purchase. Exceptions are Key Component Assets (i.e. computer laptops).
 
 Bulk purchases ("like" items acquired with a single purchase order, which are received within a reasonable period of time of one another (less than 60 days) and that indvidually have an Acquisition Cost less than the Individual Purchases Capitalization Threshold) have a Capitalization Threshold of $50,000 (USD)
 
@@ -601,7 +601,7 @@ Once the information is captured in NetSuite FAM a depreciation schedule will po
 
 ### Disposition of an Asset
 
-Assets will be disposed of if purchased by an employee upon termination (if approved by ITOps) or if the item is no longer useful before the useful life. 
+Assets will be disposed of if purchased by an employee upon termination (if approved by ITOps) or if the item is no longer useful before the useful life.
 
 1. If a team member would like to purchase an asset from the company (i.e. a laptop), they would request through an issue to IT Ops and Accounting to obtain the amount to be paid. This is derived from original cost less accumulated depreciation.  If an asset is purchased, Accounting will collect the funds and will book the appropriate accounting treatment to dispose of the asset.
 1. If an asset is no longer usable before the useful life has been reached the employee needs to submit an issue to IT Ops and Accounting to inform them.  IT Ops will evaluate and if they deem the item is no longer useful, Accounting will book the appropriate accounting treatment to dispose of the asset.
