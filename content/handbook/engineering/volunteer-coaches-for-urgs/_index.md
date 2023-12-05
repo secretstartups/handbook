@@ -1,13 +1,13 @@
 ---
-layout: markdown_page
+
 title: "Volunteer Coaches for URGs"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Pilot Program Overview
 
