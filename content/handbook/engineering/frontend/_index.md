@@ -1,13 +1,13 @@
 ---
-layout: handbook-page-toc
+
 title: "Frontend Group"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Teams
 
