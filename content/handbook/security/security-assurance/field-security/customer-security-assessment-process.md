@@ -6,12 +6,12 @@ title: "GitLab's Customer Assurance Activities"
 ## Submit a Request!
 
 
-<a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/customer-assurance-activities/caa-servicedesk/-/issues/new?issuable_template=main_template" class="btn bg-primary text-white btn-lg">Questionnaire or Customer Call Request</a>
-<a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/customer-assurance-activities/caa-servicedesk/-/issues/new?issuable_template=cap_request_template" class="btn bg-primary text-white btn-lg">CAP Request</a>
+<a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/customer-assurance-activities/caa-servicedesk/-/issues/new?issuable_template=main_template" class="btn bg-primary text-white btn-lg">Customer Call Request</a>
+<a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/customer-assurance-activities/caa-servicedesk/-/issues/new?issuable_template=cap_request_template" class="btn bg-primary text-white btn-lg">General Request</a>
 <a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/customer-assurance-activities/caa-servicedesk/-/issues/new?issuable_template=Contract%20Review%20CAA" class="btn bg-primary text-white btn-lg">Contract Review Request</a>
 
 
-*The above are for GitLab Team Members only. Customers should contact their GitLab [Account Owner](https://about.gitlab.com/handbook/sales/#initial-account-owner---based-on-segment) to initiate their requests. If a customer doesn't know their Account Owner or does not yet have an assigned Account Owner, they can [contact the sales team](https://about.gitlab.com/sales/). Once you have submitted the issue, it is now in our queue and will be assigned to one of our Field Security Engineers when it is next up (please see SLA's listed below).*
+*The above are for GitLab Team Members only. Customers should contact their GitLab [Account Owner](/handbook/sales/#initial-account-owner---based-on-segment) to initiate their requests. If a customer doesn't know their Account Owner or does not yet have an assigned Account Owner, they can [contact the sales team](https://about.gitlab.com/sales/). Once you have submitted the issue, it is now in our queue and will be assigned to one of our Field Security Engineers when it is next up (please see SLA's listed below).*
 
 ## Customer Assurance Activity Requests Overview
 
@@ -19,16 +19,15 @@ It's no surprise that GitLab Customers and Prospects conduct Security due dilige
 
 ### **GitLab Team Members**
 
-We will start all CAA requests (with the exception of Contract Reviews) by sending the Customer Assurance Package to the customer. The CAP will answer many of the customers questions and will enable us to provide the customer with a more efficient and comprehensive experience. Please select the appropriate box for your request below, it will direct you to an issue template on our board.
+We will start all CAA requests (with the exception of Contract Reviews) by sharing the Trust Center to the customer. The Trust Center will answer many of the customers questions and will enable us to provide the customer with a more efficient and comprehensive experience. Please select the appropriate box for your request below, it will direct you to an issue template on our board.
 Please be sure to complete **all** of the requested information in the template, and please reach out to us in #sec-fieldsecurity with any questions.
 
 **Please do not assign the issue. Field Security will assign the issue to the appropriate team member. Thank you!**
 
-### For Documentation, Questionnaires, and Customer Calls
+### For Customer Calls and General Requests
 
-Please use the `Customer Request Box` above and follow the instructions.
+Please use the `Customer Call Box` above and follow the instructions.
 
-- An email address and name should be included so the CAP can be sent to the customer
 - Be sure to include all requested information to expedite the process.
 - ARR or potential ARR is required
 - Customer calls require a preview of the topics the customer would like to cover to ensure we bring in any required subject matter experts for the call.
