@@ -1,13 +1,13 @@
 ---
-layout: markdown_page
+
 title: "Releases"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Overview and terminology
 This page describes the processes used to release packages to self-managed users. 
