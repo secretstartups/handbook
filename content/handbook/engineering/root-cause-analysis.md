@@ -1,13 +1,6 @@
 ---
-
 title: Root Cause Analysis
 ---
-
-
-
-
-
-
 
 At GitLab [transparency](/handbook/values/#transparency) is one of our core values, as it helps create an open and honest working environment and service, which it turn accelerates growth and innovation. We treat a root cause analysis (RCA) as an opportunity to be transparent amongst our organization and community by investigating what went well and what didn't after working on a project, incident, or issue. This page defines an RCA, the benefits of completing them, and how to complete a successful RCA here at GitLab.
 
@@ -39,12 +32,12 @@ For a more in-depth overview of an established RCA process, please review [this 
 
 Root cause analysis findings are useful beyond those participating in the project and analysis. Sharing these findings can help others learn from the experience of others. Utilize [multimodal communication](/handbook/communication/#multimodal-communication) to share your RCA findings including:
 
-* Engineering week in review [Slack channel](https://gitlab.slack.com/messages/CJWA4E9UG) / [Google document](https://drive.google.com/drive/search?q=%22engineering%20week%20in%20review%22%20source:domain)
-* [#development Slack channel](https://gitlab.slack.com/messages/C02PF508L)
-* Your team's monthly (or more regular) retrospective(s)
+- Engineering week in review [Slack channel](https://gitlab.slack.com/messages/CJWA4E9UG) / [Google document](https://drive.google.com/drive/search?q=%22engineering%20week%20in%20review%22%20source:domain)
+- [#development Slack channel](https://gitlab.slack.com/messages/C02PF508L)
+- Your team's monthly (or more regular) retrospective(s)
 
 ## Notes
 
 The following links expand upon RCAs, what they are, how to perform them, and their value:
 
-* [Quality One International - Root Cause Analysis](https://quality-one.com/rca/)
+- [Quality One International - Root Cause Analysis](https://quality-one.com/rca/)
