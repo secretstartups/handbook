@@ -1,13 +1,7 @@
 ---
-
 title: "Engineering Productivity team"
 description: "The Engineering Productivity team increases productivity of GitLab team members and contributors by shortening feedback loops and improving workflow efficiency for GitLab projects."
 ---
-
-
-
-
-
 
 ## Mission
 
@@ -31,13 +25,13 @@ Here is an [overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=c
 
 ### Members
 
-<%= direct_team(manager_role: 'Director of Engineering Productivity', extra_slugs: ['remy-c']) %>
+{{< team-by-manager-role "Director of Engineering Productivity" >}}
 
 ### Stable Counterpart
 
 | Person | Role |
 | --- | --- |
-| Greg Alfaro | [GDK Project Stable Counterpart](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/gdk/), Application Security |
+| {{< member-by-name "Greg Alfaro" >}} | [GDK Project Stable Counterpart](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/gdk/), Application Security |
 
 ### Structure
 

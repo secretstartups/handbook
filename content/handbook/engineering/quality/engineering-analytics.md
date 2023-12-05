@@ -1,19 +1,7 @@
 ---
-
 title: "Engineering Analytics Team"
 description: "Engineering Analytics Team"
 ---
-
-
-
-
-
-
-
-
-
-
-- - -
 
 ## Vision
 
@@ -24,19 +12,20 @@ Engineering Analytics enables Engineering at GitLab to understand how quickly we
 Engineering Analytics is responsible for building and evolving analytics capabilities and creating insights for Engineering to understand how well we are building our product. In this case, "wellness" is measured in terms of efficiency, as well as cost.
 
 Areas of focus and core competencies for Engineering Analytics include:
-* Own creation, implementation, optimization, and standardization of the KPIs and metrics for the Engineering Division and its departments.
-* Collaborate across Engineering departments to find common themes in KPIs and other metrics, and determine the best ways to represent metrics with these shared or common themes.
-* Create new metrics, data analyses, and data visualizations to provide additional clarity for existing operational metrics for Engineering, built on top of the data infrastructure provided by GitLab’s Data Team's.
-* Propose strategic improvements to Engineering leadership by analyzing trends and behavior in Engineering's KPIs and metrics.
+
+- Own creation, implementation, optimization, and standardization of the KPIs and metrics for the Engineering Division and its departments.
+- Collaborate across Engineering departments to find common themes in KPIs and other metrics, and determine the best ways to represent metrics with these shared or common themes.
+- Create new metrics, data analyses, and data visualizations to provide additional clarity for existing operational metrics for Engineering, built on top of the data infrastructure provided by GitLab’s Data Team's.
+- Propose strategic improvements to Engineering leadership by analyzing trends and behavior in Engineering's KPIs and metrics.
 
 
 ## Internal Team Responsibilities
 
 In addition to the areas of focus and core competencies listed above, the Engineering Analytics team is continually improving and evolving, in order to keep up with the improvement and evolution of Engineering at GitLab. Areas of focus for the evolution of the team include:
-* Collaborate regularly and frequently with Engineering teams in order to understand how various teams' work aligns with the key objectives for each Department
-* Collaborate regularly with GitLab's Data Team to ensure that the internal data platform for GitLab continues to meet the needs of Engineering and Engineering Analytics
-* Improve our internal team processes so that the Engineering Analytics team can scale along with the rest of Engineering
-* Improve documentation of our team's processes and the outcomes we drive in the Handbook
+- Collaborate regularly and frequently with Engineering teams in order to understand how various teams' work aligns with the key objectives for each Department
+- Collaborate regularly with GitLab's Data Team to ensure that the internal data platform for GitLab continues to meet the needs of Engineering and Engineering Analytics
+- Improve our internal team processes so that the Engineering Analytics team can scale along with the rest of Engineering
+- Improve documentation of our team's processes and the outcomes we drive in the Handbook
 
 ## OKRs
 
@@ -75,34 +64,39 @@ graph TD
     style BD fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
 ```
 
-## On-boarding 
+## On-boarding
 
 Please open a new issue in [our team project](https://gitlab.com/gitlab-com/quality/engineering-analytics/-/issues/new) using the `on-boarding.md` template.
 
 ## Key Reviews
+
 Key Reviews are meetings a department has with other GitLab team members to discuss any progress or updates related to KPIs & OKRs with the rest of the organization. More information can be found on the [Key Review Handbook Page](https://about.gitlab.com/handbook/key-review/)
 
 In Engineering our key reviews are handbook driven. Each department's KPIs are defined in www-gitlab-com repo under data/performance-indicators, & metrics are in handbook with URL structure like engineering/department/performance-indicators. For example, Infrastructure's [full URL](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators) is https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators.
 
 ### Performance Indicator DRI
-The Performance Indicator [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is an optional attribute in the PI page `.yml` file that specifies an individual as the DRI for a particular KPI/PI. 
+
+The Performance Indicator [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is an optional attribute in the PI page `.yml` file that specifies an individual as the DRI for a particular KPI/PI.
 
 The DRI is responsible for updating the health & health reasons for the metric. In cases where the health is at problem or attention level, the actions being taken to fix the metric should be specified. The DRI is also responsible for verifying the data & if needed talking with an analyst to make sure the metric is ready for the key review.
 
-The DRI is a delegation of responsibility for the things listed above from the respective department head, although the department head is still generally responsible for all of their PIs. 
+The DRI is a delegation of responsibility for the things listed above from the respective department head, although the department head is still generally responsible for all of their PIs.
 
 If no DRI is listed, the default DRI would be the department head.
 
 ### Roles & Responsibilities
 
 #### Head of Engineering (CTO)
+
 This position is responsible for defining the division level PIs that are shared across departments or solely at Engineering Division level. They are also responsible for working with department heads on setting targets for these.
 
 #### Department Heads
+
 Department Heads in Engineering are generally responsible for their overall PI page & making sure they have what they need for the metrics before & after the key meetings.
 
 #### Engineering Analysts
-Our main role as engineering analysts is to support department heads or DRI in creating or updating their metrics so that they can use them in the key meetings. 
+
+Our main role as engineering analysts is to support department heads or DRI in creating or updating their metrics so that they can use them in the key meetings.
 Your stable counterpart may also ask to delegate a set of metrics from their department to you so in that case you would also be the DRI for those metrics & assume the responsibilities listed above in DRI section
 
 ## How We Work
@@ -135,26 +129,30 @@ Aside from the below listed scheduled meetings, the team will also have schedule
 #### Engineering Key Reviews
 
 Each Engineering department has a monthly or bi-monthly [key review](/handbook/key-review/) where e-group goes over the department's metrics and can ask the department heads any general questions regarding the department's progress towards its goals. Analysts are expected to go to their stable counterpart's key meeting & participate if needed, & are encouraged to attend other department key reviews as time permits.
-* If stable counterpart department head has delegated you as DRI for a particular metric, provide updates during meeting for those metrics.
-* Support department heads in metric preparation ahead of reviews
-* Capture follow-up asks related to metrics from key review
+
+- If stable counterpart department head has delegated you as DRI for a particular metric, provide updates during meeting for those metrics.
+- Support department heads in metric preparation ahead of reviews
+- Capture follow-up asks related to metrics from key review
 
 #### Recurring sync with stable counterparts
 
 Engineering Analysts will hold recurring 1-1 with their assigned VP of an Engineering Department to:
-* Review work prioritization
-* Capture strategic asks
-* Ensure completion of follow up for Key Reviews
+
+- Review work prioritization
+- Capture strategic asks
+- Ensure completion of follow up for Key Reviews
 
 #### Bi-Weekly review with GitLab’s Data Team
 
 This team will have standing bi-weekly sync with the Data team to:
-* Drive data dependencies to resolution
-* Propose initiatives to improve our data accuracy and hygiene
+
+- Drive data dependencies to resolution
+- Propose initiatives to improve our data accuracy and hygiene
 
 ### Issue Boards
-* [Engineering Analytics board](https://gitlab.com/gitlab-org/quality/engineering-analytics/team-tasks/-/boards/2650515?group_by=epic)
-* [FinOps issue board](https://gitlab.com/gitlab-org/quality/engineering-analytics/finops-analysis/-/boards/5046766?group_by=epic)
+
+- [Engineering Analytics board](https://gitlab.com/gitlab-org/quality/engineering-analytics/team-tasks/-/boards/2650515?group_by=epic)
+- [FinOps issue board](https://gitlab.com/gitlab-org/quality/engineering-analytics/finops-analysis/-/boards/5046766?group_by=epic)
 
 ### Issue Weighting
 
@@ -167,10 +165,10 @@ These weights are used to estimate analyst time needed to fulfill a request by 1
 | 5 | 1 week | Creating new dashboard with granular details around existing metric|
 | 8 | 2 weeks | introducing new metric based from data source that doesn't currently exist in data warehouse|
 
-
 ### Communicating Priority & Status
 
 #### Status
+
 The Engineering Analytics team uses scoped status labels to track different stages of issues on the board. This is also used to clearly communicate to stakeholders the status of each requests.
 
 | Status | Description |
@@ -181,7 +179,7 @@ The Engineering Analytics team uses scoped status labels to track different stag
 | `~"eng-analytics::waiting"` | Team is waiting for dependency to complete work to continue progress, or work has been de-prioritized. Issue will also have blocking dependency linked. |
 | `~"eng-analytics::in-review"` | Issue has been completed & work is under review by stakeholder|
 
-### Priority 
+### Priority
 
 Work is prioritized using table below. Work type is stacked ranked within each priority.
 
@@ -189,9 +187,8 @@ Work is prioritized using table below. Work type is stacked ranked within each p
 | -------- | ---- | ---- |
 | `~"priority::1"` | Urgent Key Review requests <br> [Free User Efficiency Rapid Action](https://gitlab.com/groups/gitlab-com-top-initiatives/free-saas-user-efficiency/-/epics/7) <br> Passedthrough OKRs <br> Hiring & Onboarding | |
 | `~"priority::2"` | Non passthrough OKRs <br> Walk-up request from Engineering | We have capacity to take this on, OKRs will be prioritized first. |
-| `~"priority::3"` | New Data Sources <br> Walk-up request outside of Engineering | We do not have capacity to take this on at the moment | 
-| `~"priority::4"` | Nice to have Improvements |  We do not have capacity to take this on at the moment | 
-
+| `~"priority::3"` | New Data Sources <br> Walk-up request outside of Engineering | We do not have capacity to take this on at the moment |
+| `~"priority::4"` | Nice to have Improvements |  We do not have capacity to take this on at the moment |
 
 ### How to Engage with Us
 
@@ -201,13 +198,13 @@ Please reach out to us by opening an issue on the [Engineering Analytics board](
 
 To ensure that the issue gets visibility by our team, when creating an issue on the [Engineering Analytics board](https://gitlab.com/gitlab-org/quality/engineering-analytics/team-tasks/-/boards/2650515?group_by=epic), please add the `~"Engineering Metrics"` label in addition to one of the below labels and ping the [analyst](https://about.gitlab.com/handbook/engineering/quality/engineering-analytics/#counterpart-assignments) assigned to that department.
 
-* `~"Eng Metrics::Eng Division"`
-* `~"Eng Metrics::Development Department"`
-* `~"Eng Metrics::Infrastructure Department"`
-* `~"Eng Metrics::Quality Department"`
-* `~"Eng Metrics::Support Department"`
-* `~"Eng Metrics::Incubation Engineering"`
-* `~"Eng Metrics::General"`
+- `~"Eng Metrics::Eng Division"`
+- `~"Eng Metrics::Development Department"`
+- `~"Eng Metrics::Infrastructure Department"`
+- `~"Eng Metrics::Quality Department"`
+- `~"Eng Metrics::Support Department"`
+- `~"Eng Metrics::Incubation Engineering"`
+- `~"Eng Metrics::General"`
 
 #### Slack Channels
 
@@ -224,5 +221,4 @@ To ensure that the issue gets visibility by our team, when creating an issue on 
 
 The handbook is essential to working remote successfully, to keeping up our transparency, and to recruiting successfully. Our processes are constantly evolving and we need a way to make sure the handbook is being updated at a regular cadence. This is measured by Merge Requests that update the handbook contents related to the performance indicator pages, our team page, and engineering metrics pages.
 
-(<a href="https://app.periscopedata.com/shared/3b0299cf-1023-4a7a-a728-4b6754ba0077?" target="_blank">Sisense↗</a>)
-<embed width="100%" height="300" src="<%= signed_periscope_url(dashboard: 902602, chart: 12625524, embed: 'v2') %>">
+{{< sisense dashboard="902602" chart="12625524" >}}
