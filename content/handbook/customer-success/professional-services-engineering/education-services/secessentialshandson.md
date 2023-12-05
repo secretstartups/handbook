@@ -6,11 +6,11 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 # GitLab Security Essentials Hands-On Guide
 
 ## GitLab Security Essentials Labs
-- [Lab 1: Enable, configure, and run SAST, Secret Detection, and DAST](./secessentialshandson1.html)
-- [Lab 2: Enable, configure, and run Dependency Scanning](./secessentialshandson2.html)
-- [Lab 3: Enable, configure, and run Container Scanning](./secessentialshandson3.html)
-- [Lab 4: Enable, configure, and run License Compliance](./secessentialshandson4.html)
-- [Lab 5: Enable, configure, and run Coverage-Guided Fuzz Testing](./secessentialshandson5.html)
+- [Lab 1: Enable, configure, and run SAST, Secret Detection, and DAST](/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson1)
+- [Lab 2: Enable, configure, and run Dependency Scanning](/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson2)
+- [Lab 3: Enable, configure, and run Container Scanning](/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson3)
+- [Lab 4: Enable, configure, and run License Compliance](/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson4)
+- [Lab 5: Enable, configure, and run Coverage-Guided Fuzz Testing](/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson5)
 
 
 ## Quick links
