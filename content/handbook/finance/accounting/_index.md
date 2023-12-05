@@ -570,7 +570,9 @@ A “Capital Asset” is a unit of property that has an economic useful life ext
 
 **Capitalization Thresholds**
 
-GitLab establishes [$5,000 (USD)]({{< ref "compensation#exchange-rates" >}}) as the minimum amount required for capitalization. Any item with a cost below this amount is expensed on the date of purchase.
+GitLab establishes [$5,000 (USD)]({{< ref "compensation#exchange-rates" >}}) as the minimum amount required for capitalization. Any item with a cost below this amount is expensed on the date of purchase. Exceptions are Key Component Assets (i.e. computer laptops). 
+
+Bulk purchases ("like" items acquired with a single purchase order, which are received within a reasonable period of time of one another (less than 60 days) and that indvidually have an Acquisition Cost less than the Individual Purchases Capitalization Threshold) have a Capitalization Threshold of $50,000 (USD)
 
 ### Depreciation/Amortization
 
@@ -578,32 +580,33 @@ GitLab establishes [$5,000 (USD)]({{< ref "compensation#exchange-rates" >}}) as 
 
 All capital assets are recorded at historical cost as of the acquisition date. These assets are depreciated on a straight-line basis, with the number of depreciation periods being determined by asset class.
 
-- **Equipment:** For our purposes, equipment generally consists of computers and other related office tools. Equipment under our INC entity is assigned a standard useful life of three (3) years. However, equipment under our BV entity is depreciated over five (5) years due to Dutch tax laws, which limit depreciation of capitals assets to a maximum of 20% of the asset cost per year. The following link contains additional information on Dutch tax laws surrounding capital and fixed  assets: [Netherlands Capital and Fixed Assets Guide](https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/tax/tax-guides/2022/ey-worldwide-capital-and-fixed-assets-guide-fy22.pdf#page=156)
-- **Furniture:** Furniture includes office furniture and other fixtures. The standard useful life for furniture is seven (7) years. This depreciation schedule applies to all entities.
+- **Computer and I/T Equipment:** For our purposes, Computer and I/T Equipment generally consists of computers (laptops). Computer and I/T Equipment under our INC entity is assigned a standard useful life of two (2) years. However, Computer and I/T Equipment under our BV entity is depreciated over five (5) years due to Dutch tax laws, which limit depreciation of capitals assets to a maximum of 20% of the asset cost per year. The following link contains additional information on Dutch tax laws surrounding capital and fixed assets: [Netherlands Capital and Fixed Assets Guide](https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/tax/tax-guides/2022/ey-worldwide-capital-and-fixed-assets-guide-fy22.pdf#page=156)
+- **Office Equipment and Furniture & Fixtures:** The standard useful life for Office Equipment and Furniture & Fixtures is five (5) years. This depreciation schedule applies to all entities.
 
-Invoices and purchase receipts for capital assets are retained for a minimum of five years.
+Invoices and purchase receipts for capital assets are retained for a minimum of five (5) years.
 
 ### Fixed Asset Register and Asset Tracking
 
-Items paid for by the company are property of the company. Assets with purchasing value in excess of [$5000 USD]({{< ref "compensation#exchange-rates" >}}) are recorded through NetSuite and tracked using Floqast with an account reconciliation which includes details by individual asset purchased. The account reconciliation serves as an asset register. The accounting team  captures each individual asset purchased with the following information:
+Items paid for by the company are property of the company. Assets with purchasing value in excess of [$5000 USD]({{< ref "compensation#exchange-rates" >}}) or Key Component Assets are recorded and tracked through NetSuite Fixed Asset Management (FAM) module, which includes details of individual asset purchased. The Asset Register report provided by NetSuite FAM provides each individual asset purchased with the following information:
 
 1. Period and Date of purchase
 1. Asset Cost
 1. Asset Category
 1. Asset Description
 1. Useful life
-1. Name of employee assets was purchased on behalf of
 1. Serial number, if available
 1. GL Coding
 
-Once the information is captured in BlackLine a depreciation schedule will populate and accounting will book an entry in NetSuite each month to record the depreciation of the asset until it is fully depreciated.
+Once the information is captured in NetSuite FAM a depreciation schedule will populate and NetSuite FAM will post a journal entry each month to record the depreciation of the asset until it is fully depreciated. The asset will remain on GitLab's balance sheet until the asset is no longer being used and is identified to be disposed.
 
 ### Disposition of an Asset
 
-Assets will be disposed of if purchased by an employee upon termination (if approved by ITOps) or if the item is no longer useful before the useful life.
+Assets will be disposed of if purchased by an employee upon termination (if approved by ITOps) or if the item is no longer useful before the useful life. 
 
-1. If a team member would like to purchase an asset from the company (i.e. a laptop), they would request through an issue to IT Ops and accounting to obtain the amount to be paid. This is derived from original cost less accumulated depreciation.  If and asset is purchased accounting team will collect the funds and will book the appropriate accounting treatment to dispose of the asset.
-1. If an asset is no longer usable before the useful life has been reached the employee needs to submit an issue to IT Ops and accounting to inform them.  IT Ops will evaluate and if they deem the item is no longer useful accounting will book the appropriate accounting treatment to dispose of the asset.
+1. If a team member would like to purchase an asset from the company (i.e. a laptop), they would request through an issue to IT Ops and Accounting to obtain the amount to be paid. This is derived from original cost less accumulated depreciation.  If an asset is purchased, Accounting will collect the funds and will book the appropriate accounting treatment to dispose of the asset.
+1. If an asset is no longer usable before the useful life has been reached the employee needs to submit an issue to IT Ops and Accounting to inform them.  IT Ops will evaluate and if they deem the item is no longer useful, Accounting will book the appropriate accounting treatment to dispose of the asset.
+
+ITOps will need to identify the asset and inform Accounting to properly dispose of the asset from NetSuite FAM.
 
 ## Accounting Policies
 
