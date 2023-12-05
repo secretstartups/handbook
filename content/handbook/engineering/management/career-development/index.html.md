@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Engineering Management Career Development"
 description: "Career development information and process to follow for Engineering Managers at GitLab."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 Outside of [hiring](/handbook/engineering/management/hiring/), the best way to improve the strengths of your team
 is to practice career development coaching with your developers. Not all team members will want to become Staff Developers or Managers. Instead, identifying their individual career goals and proactively working towards those goal is the most effective way to help team members improve and have ownership over their careers. In addition to the company-wide notes on [career

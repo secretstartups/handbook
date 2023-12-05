@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Engineering Management"
 ---
 
@@ -17,11 +17,11 @@ professional leadership can be more difficult to master.
 
 This page will serve as a training resource and operational guide for current and future managers.
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## General leadership principles
 

@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Engineering Management Project Management"
 description: "Project Management information and process to follow for Engineering Managers at GitLab."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 [Product](/handbook/product/) is responsible for guiding the direction of our
 product, and [technical leaders](../#how-engineering-management-works-at-gitlab)

@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Engineering Manager Hiring"
 description: "Hiring information and process to follow for Engineering Managers at GitLab."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 - **Hiring is a priority.** GitLab is a fast-growing company, and paying
   attention to hiring is one of the highest-leverage activities a manager can
