@@ -4,12 +4,6 @@ title: "Data Guide for Adding Service Ping Metrics to Gainsight"
 description: "Instructions for adding Service Ping metrics to Gainsight models"
 ---
 
-## On this page
-- TOC
-{:toc}
-
-{::options parse_block_html="true" /}
-
 ---
 # Process Overview
 The Gainsight Data Pump delivers information on key customer usage metrics for Self-Managed, Dedicated, and GitLab.com customers, and is used by GitLab Customer Success Managers to maximize customer health and encourage product adoption. This document will explain each step required to properly add new metrics to the Gainsight Data Pump.
