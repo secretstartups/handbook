@@ -1,13 +1,6 @@
 ---
-
 title: "Backports"
 ---
-
-
-
-
-
-
 
 ## Backports overview
 
@@ -49,10 +42,10 @@ Backporting is a multi-step process. Here we outline the basic steps to develop 
 1. Engineer + Quality conduct robust testing to ensure that the backported code or backport package maintains full functionality within the system.
 1. Engineer addresses any unwanted side effects identified in the previous step. Repeat as many times as necessary
 1. Release Manager tags a new release containing the fixes
-1. Release Manager creates an official release 
+1. Release Manager creates an official release
 1. Release Manager publishes the release under a new tagged version.
 
-Backporting can be a very involved process requiring many cycles of back and forth for teams and individuals involved in the process. 
+Backporting can be a very involved process requiring many cycles of back and forth for teams and individuals involved in the process.
 
 ### How do I know if my backport is covered by the maintenance policy?
 
@@ -62,7 +55,7 @@ You can check the [Maintenance Policy](https://docs.gitlab.com/ee/policy/mainten
 
 If your backport is not covered by the maintenance policy then it is not guaranteed. However, we realize that there is sometimes a need to backport a fix to more than one stable release, depending on the severity of the bug. Backports that are outside of the maintenance policy are performed at the sole discretion of the [Release Managers](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/#delivery-domain-ownership-between-delivery-teams) .
 
-You can request a backport by: 
+You can request a backport by:
 
 1. Raising an MR to the stable branches that you want to backport to
 1. Ensuring that the pipelines are green and no new issues are introduced
@@ -78,13 +71,13 @@ You can request a backport by:
 1. Communicate to your stakeholders if/when the release is available on our [releases blog](https://about.gitlab.com/releases/categories/releases/)
 
 
-Please note that this is done on a case by case basis and not covered by any of our Maintenance Policies or releases. 
+Please note that this is done on a case by case basis and not covered by any of our Maintenance Policies or releases.
 
 ## Backports FAQ
 
 ### What is a Backport?
 
-Backporting is when a software fix or update is taken from a recent software version and applied to an older version of the same software. 
+Backporting is when a software fix or update is taken from a recent software version and applied to an older version of the same software.
 
 This process can be as straightforward as updating several lines of code; it can also involve a major overhaul that is spread across multiple areas of the software requiring tight coordination. In the latter case, applying a backport may be impractical as compared to upgrading to the latest version of the software.
 
@@ -94,7 +87,7 @@ At GitLab, we backport security fixes and bug fixes according to the [Maintenanc
 
 No it’s not. Backporting is a catch-all term for any activity that applies updates or patches from a newer version of software to an older version. At GitLab we have a specific [Patch Release process](/handbook/engineering/releases/#patch-releases-overview) that is applied according to the [Maintenance Policy](https://docs.gitlab.com/ee/policy/maintenance.html). This is one of the release methods we use to ship self-managed, along with the security release and regular monthly release. There is a separate [exception process](https://docs.gitlab.com/ee/policy/maintenance.html#backporting-to-older-releases) for backports that are outside the scope of our maintenance policy and these are delivered on a best effort basis and not guaranteed.
 
-### How do I get a backport for my bugfix/security issues? 
+### How do I get a backport for my bugfix/security issues?
 
 If your backport is a bug fix and covered by the maintenance policy, please follow the [Patch Release Process](/handbook/engineering/releases/#patch-release-process).
 
@@ -113,7 +106,7 @@ Backports can be intensive and require many interactions between different group
 
 Backports can be an effective way to address security flaws and vulnerabilities in older versions of software. However, each backport introduces a fair amount of complexity within the system architecture and can be costly to maintain.
 
-For example, Python 2.7.18 was the final official release of Python 2. In order to remain current with security patches and continue enjoying all of the new developments Python has to offer, organizations needed to upgrade to Python 3 or start freezing requirements and commit to legacy long-term support. 
+For example, Python 2.7.18 was the final official release of Python 2. In order to remain current with security patches and continue enjoying all of the new developments Python has to offer, organizations needed to upgrade to Python 3 or start freezing requirements and commit to legacy long-term support.
 
 #### Backporting Side Effects
 

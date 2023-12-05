@@ -1,36 +1,32 @@
 ---
-
 title: "Releases"
 ---
 
-
-
-
-
-
-
 ## Overview and terminology
-This page describes the processes used to release packages to self-managed users. 
+
+This page describes the processes used to release packages to self-managed users.
 
 **Monthly self-managed release**
 
-GitLab version (XX.YY.0) [is published every month][process-monthly-release]. From this monthly release, [patch][process-patch-release], [non-critical][process-security-release-non-critical], and [critical][process-security-release-critical] security releases are created as needed. 
+GitLab version (XX.YY.0) [is published every month][process-monthly-release]. From this monthly release, [patch][process-patch-release], [non-critical][process-security-release-non-critical], and [critical][process-security-release-critical] security releases are created as needed.
 
 Our [maintenance policy] describes in detail the cadence of our major, minor and patch releases for self-managed users. The major release yearly cadence was defined [after an all stakeholder discussion](https://gitlab.com/gitlab-com/Product/issues/50).
 
-## Self-managed overview 
+## Self-managed overview
+
 The `self-managed release` is a [semver] versioned package containing changes from many successful [deployments on GitLab.com](/handbook/engineering/deployments-and-releases/deployments/). Users on GitLab.com, therefore, receive features and bug fixes earlier than users of self-managed installations.
 
-The [deployments and releases page](/handbook/engineering/deployments-and-releases/) details how the two processes work together. 
+The [deployments and releases page](/handbook/engineering/deployments-and-releases/) details how the two processes work together.
 
 ### Self-managed releases process
 
 The `monthly self-managed release` timelines are concentrated around the [release date](/handbook/engineering/releases/).
 
-Overview of the steps involved on the self-managed release process:  
+Overview of the steps involved on the self-managed release process:
 
 ![Self-managed release overview](self_managed_release_overview.png)
-* [Diagram source](https://docs.google.com/presentation/d/1YRjA1dYCXNXp06VltDYlik1MdFyzUvaeXKk69mMPcA4/edit#slide=id.g2951f7d5d31_1_0)
+
+- [Diagram source](https://docs.google.com/presentation/d/1YRjA1dYCXNXp06VltDYlik1MdFyzUvaeXKk69mMPcA4/edit#slide=id.g2951f7d5d31_1_0)
 
 The end-to-end process consists on the following stages:
 
@@ -39,9 +35,9 @@ The end-to-end process consists on the following stages:
     deployments per day. For application changes to be considered in a self-managed release they need to be successfully deployed to GitLab.com.
 1. **Candidate commit** - One week before the release date a candidate commit is selected and broadcasted by release managers, the commit is usually
     the current commit running on GitLab.com. Pending GitLab.com availability, a different commit might be choosen, this means that the availability and
-    stability of GitLab.com deployments will determine the cutoff date for inclusion in the release. This commit is announced in multiple Slack engineering channels, including 
+    stability of GitLab.com deployments will determine the cutoff date for inclusion in the release. This commit is announced in multiple Slack engineering channels, including
     [#releases], [#development], [#backend] and [#frontend].
-1. **Release candidate** - A test release candidate (RC) is created, along with a stable branch for the targeted [semver] version. The release candidate package is built, 
+1. **Release candidate** - A test release candidate (RC) is created, along with a stable branch for the targeted [semver] version. The release candidate package is built,
     tested and deployed to the [pre environment]. A successful outcome indicates this package can be used as the final version. At this point [release managers] will
     announce the final commit to be included in the release.
 1. **Tag** - Release managers tag the final version of the release based on the release candidate. The release is built and deployed to the [Release environment].
@@ -99,12 +95,13 @@ fixes must be requested and agreed upon by the release managers and the requeste
 
 Patches are released on an as-needed basis in order to fix regressions in the current self-managed release.
 
-If you're a GitLab engineer looking to include a bug fix in a release, please follow the steps on the [patch release runbook for GitLab engineers]. 
+If you're a GitLab engineer looking to include a bug fix in a release, please follow the steps on the [patch release runbook for GitLab engineers].
 
-Overview of the steps involved with creating a patch release:  
+Overview of the steps involved with creating a patch release:
 
 ![Patch release overview](patch_release_overview.png)
-* [Diagram source](https://docs.google.com/presentation/d/1YRjA1dYCXNXp06VltDYlik1MdFyzUvaeXKk69mMPcA4/edit#slide=id.g226a611e9ec_0_0)
+
+- [Diagram source](https://docs.google.com/presentation/d/1YRjA1dYCXNXp06VltDYlik1MdFyzUvaeXKk69mMPcA4/edit#slide=id.g226a611e9ec_0_0)
 
 The end-to-end process consists on the following stages:
 
@@ -137,7 +134,7 @@ The release process has a few labels of specific importance.
 
 #### Delivery impact labels
 
-Incidents may optionally have a `Delivery impact:*` label to indicate the impact the incident has when active. This label is intended to help with prioritizing between multiple incidents.  
+Incidents may optionally have a `Delivery impact:*` label to indicate the impact the incident has when active. This label is intended to help with prioritizing between multiple incidents.
 
 | **Impact label** | **Definition** |
 | ----- | ---------- |
@@ -180,19 +177,19 @@ going, what the state is of GitLab.com, etc.
 Release candidates are created whenever possible, and as such there are no
 guarantees on creation timing. This will depend on factors such as:
 
-* Any incidents on GitLab.com that are or have been going on in the run-up to
+- Any incidents on GitLab.com that are or have been going on in the run-up to
   the release.
-* Any (critical) [security releases](../security/index.html#security-releases) that require the attention of release
+- Any (critical) [security releases](../security/index.html#security-releases) that require the attention of release
   managers.
-* Any issues with our auto-deployment pipelines.
-* Other release related work that may delay or prevent the creation of a release
+- Any issues with our auto-deployment pipelines.
+- Other release related work that may delay or prevent the creation of a release
   candidate until said work is dealt with.
 
 In other words, if you want to know when a release candidate is created your
 best option is to join one of the following Slack channels:
 
-* [#releases]
-* [#f_upcoming_release]
+- [#releases]
+- [#f_upcoming_release]
 
 Release candidates are deployed to [pre.gitlab.com] for both automated and
 manual testing.
@@ -237,11 +234,12 @@ The different processes are documented here:
 
 ### How can I get a high severity bug fix released?
 
-Any high severity issue should start with an issue labelled with the appropriate bug and severity labels. 
+Any high severity issue should start with an issue labelled with the appropriate bug and severity labels.
 
-Depending on the bug details, follow one of the following processes: 
-- For [high severity security bugs][process-security-release-critical] 
-- For [high severity bugs affecting self-managed users][process-patch-release]. If the bug has been found close to the [release date](/handbook/engineering/releases/) of the month please also alert the Release Managers in [#releases]. 
+Depending on the bug details, follow one of the following processes:
+
+- For [high severity security bugs][process-security-release-critical]
+- For [high severity bugs affecting self-managed users][process-patch-release]. If the bug has been found close to the [release date](/handbook/engineering/releases/) of the month please also alert the Release Managers in [#releases].
 - For [high severity bugs affecting GitLab.com](/handbook/engineering/deployments-and-releases/deployments/#gitlabcom-pick-label)
 - For [high security bugs affecting security merge requests](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/bugs_introduced_by_security_merge_request.md)
 
