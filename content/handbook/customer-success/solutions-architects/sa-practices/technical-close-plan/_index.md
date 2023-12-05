@@ -1,8 +1,7 @@
 ---
 title: Technical Close Plan
+description: A Technical Close Plan is an internal strategy that Solutions Architects can use to secure a technical win for a given opportunity. It is built off the information in the Command Plan and expands on it by including the customer’s desired business outcomes, notional architectures of the current and proposed states, key stakeholders, and known risks. This strategy can also be a subset of the Opportunity Plan created by AEs or live on its own.
 ---
-
-A Technical Close Plan is an internal strategy that Solutions Architects can use to secure a technical win for a given opportunity. It is built off the information in the Command Plan and expands on it by including the customer’s desired business outcomes, notional architectures of the current and proposed states, key stakeholders, and known risks. This strategy can also be a subset of the Opportunity Plan created by AEs or live on its own.
 
 ## Why Use a Technical Close Plan 
 ### Primary Objectives
