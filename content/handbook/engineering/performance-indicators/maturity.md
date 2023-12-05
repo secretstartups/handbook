@@ -1,6 +1,6 @@
 ---
-
 title: Engineering Function Performance Indicators Maturity
+draft: true
 ---
 
 ## Summary
@@ -9,14 +9,15 @@ This page contains a table of performance indicators order by their maturity (as
 
 ## Other PI Pages
 
-<%= partial 'includes/performance_indicator_links' %>
+{{% include "includes/performance_indicator_links.md" %}}
 
 ## Maturity Legend
 
-<%= partial 'includes/performance_indicator_maturities' %>
+{{% include "includes/performance-indicator-maturities.md" %}}
 
 ## Performance Indicators by Maturity
 
+<!-- Depricating as original code is broken as gives all departments
 <table>
     <tr>
         <td>Name</td>
@@ -35,3 +36,4 @@ This page contains a table of performance indicators order by their maturity (as
     </tr>
     <% end %>
 <table>
+--->

@@ -1,9 +1,5 @@
 ---
-title: performance-indicators
-cascade:
-  type: docs
-menu:
-  main:
-    name: performance-indicators
-    pre: '<i class="fa-brands fa-gitlab"></i>'
+title: Engineering Function Performance Indicators
 ---
+
+{{< performance-indicators "engineering_function" >}}
