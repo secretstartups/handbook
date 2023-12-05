@@ -1,13 +1,13 @@
 ---
-layout: handbook-page-toc
+
 title: Monitoring of GitLab.com
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## GitLab.com Service Availability
 

@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Staging Monitoring"
 description: "How Staging is monitored and how traffic is generated"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Staging Monitoring
 
