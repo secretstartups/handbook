@@ -1,10 +1,10 @@
 ---
-layout: markdown_page
+
 title: "Flaky tests Primer"
 ---
 
-- TOC
-{:toc}
+
+
 
 | ------ | ------ |
 | **Last reviewed** | 2021-10-28 |

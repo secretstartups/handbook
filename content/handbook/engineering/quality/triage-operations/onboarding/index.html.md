@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Issue Triage Onboarding"
 description: "Onboarding guidelines for Issue Triaging team"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ----
 

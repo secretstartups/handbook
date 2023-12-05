@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Triage Operations"
 description: "Automation and tooling for processing un-triaged issues at GitLab"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 Any GitLab team-member can triage issues. Keeping the number of [un-triaged issues](/handbook/engineering/quality/issue-triage/#triaging-issues) low is essential for maintainability, and is our collective responsibility.
 

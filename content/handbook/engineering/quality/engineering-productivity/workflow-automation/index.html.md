@@ -1,10 +1,10 @@
 ---
-layout: markdown_page
+
 title: "Workflow Automation"
 ---
 
-- TOC
-{:toc}
+
+
 
 # Introduction
 

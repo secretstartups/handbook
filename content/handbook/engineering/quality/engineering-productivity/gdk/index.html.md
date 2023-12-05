@@ -1,10 +1,10 @@
 ---
-layout: markdown_page
+
 title: "Direction - GDK"
 ---
 
-- TOC
-{:toc}
+
+
 
 | ------ | ------ |
 | **Last reviewed** | 2021-01-16 |

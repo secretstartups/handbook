@@ -1,15 +1,15 @@
 ---
-layout: handbook-page-toc
+
 title: Issue Triage
 description: "Guidelines for triaging new issues opened on GitLab.com projects"
 ---
 
-## On this page
 
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 GitLab believes in [Open Development][open-development], and we encourage the community to file issues and open merge requests for our projects on [GitLab.com](https://gitlab.com/groups/gitlab-org). Their contributions are valuable, and we should handle them as effectively as possible. A central part of this is triage - the process of categorization according to type and severity.
 
