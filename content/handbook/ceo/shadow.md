@@ -83,12 +83,17 @@ Exceptions to eligibility:
 
 CEO Shadow rotations will be reserved for [Functional Leaders]({{< ref "/content/handbook/company/structure.md#functional-leaders" >}}) during the week of [E-Group Offsites](/handbook/company/offsite/#schedule). An exception will be made if there is last minute availability as two functional leaders are not available to serve in this role during this window.
 
-**Note:** At this time, all shadow rotations are fully remote.
-Given the CEO generally works from 8 a.m. to 6 p.m. Pacific,
-it's best for remote shadows to be in Pacific, Mountain, or Central time zones.
-Other time zones will be considered on a case-by-case basis.
+**Note:** At this time, all shadow rotations are fully remote. Learn more about what to expect from a [remote shadow rotation](#remote-shadow-rotations).
 
-Learn more about what to expect from a [remote shadow rotation](#remote-shadow-rotations).
+### Expectations for hours of participation
+
+The CEO generally works from 8am to 6pm Pacific. This means that shadows from Pacific, Mountain, or Central time zones can participate without dramatic shifts to their usual working hours. To the degree possible, these folks should plan to clear their schedule during the CEO's working hours.
+
+If a person is applying from over 3 time zones from the Pacific time zones or has special considerations (for example, inflexible care duties), they can still participate. We ask that they:
+1. Commit to participating at least 6 hours a day between 8am and 6pm Pacific
+1. Confirm with their "See One" and "Teach One" partners that they can provide sufficient coverage during the times that the participant will not be participating
+
+If you have questions about your individual case, please contact the EBA to the CEO.
 
 ### How to apply
 
