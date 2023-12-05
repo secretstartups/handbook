@@ -1,13 +1,13 @@
 ---
-layout: handbook-page-toc
+
 title: "Performance"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Performance Facets 
 
@@ -44,7 +44,7 @@ Performance Indicators:
 - [GitLab.com known application scaling bottlenecks](/handbook/engineering/infrastructure/performance-indicators/#gitlabcom-known-application-scaling-bottlenecks)
 
 ## Other Related Pages
-{:.no_toc}
+
 
 - [GitLab.com (infra) Architecture](/handbook/engineering/infrastructure/production/architecture/)
 - [Monitoring GitLab.com](/handbook/engineering/monitoring/)
