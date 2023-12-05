@@ -8,7 +8,7 @@ title: "Scale CSE Operating Rhythm"
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM/CSE-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM/CSE-related handbook pages.
 
 ---
 
@@ -69,12 +69,12 @@ Meetings are integral to interfacing with customers; whether we are joining a ca
    1. Any other pertinent resources for quick reference (See Appendix of [Scale CSE - Kickoff / Discovery Questions Template](https://docs.google.com/document/d/159Bxv_H7Ds9QoGsmFW7c7Zoq5nqugAChN_a7XuKUeLs/edit?usp=sharing) for ideas)
 1. Make sure to manage expectations about short term engagements and not being permanently aligned.
 1. After the call is complete, set expectations for follow up email in the upcoming 2-3 days.
-1. Once the call is complete, the call must be [logged as an activity](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/#review-and-update-account-details) against the customer’s timeline in Gainsight.
+1. Once the call is complete, the call must be [logged as an activity](/handbook/customer-success/csm/cadence-calls/#review-and-update-account-details) against the customer’s timeline in Gainsight.
 1. Review call and/or sync with AE if applicable and produce follow up email for customer.
 
 ## Scale Engagement Request Process
 
-Account owners (AEs, SAEs) working with customers that [qualify](https://gitlab.com/gitlab-com/customer-success/csm/-/wikis/CSM-Segments) for Scale CSE may find that their customer would benefit from a Scale CSE engagement outside of the [normal operating rhythm during the customer lifecycle](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/#customer-lifecycle) (programmatic call invitations from Gainsight, manual outreach by CSE in Outreach, Office Hours and Webinars). In these cases, it is best to submit ad-hoc engagement requests through Salesforce. You can submit a case for a CSE to engage with you on an account by clicking on "CSE Help" at the top of the Salesforce account page chatter (click "Show Feed" to open it first ). This will help to qualify the engagement and help the CSE prepare for a productive conversation with the customer.
+Account owners (AEs, SAEs) working with customers that [qualify](https://gitlab.com/gitlab-com/customer-success/csm/-/wikis/CSM-Segments) for Scale CSE may find that their customer would benefit from a Scale CSE engagement outside of the [normal operating rhythm during the customer lifecycle](/handbook/customer-success/csm/segment/scale/#customer-lifecycle) (programmatic call invitations from Gainsight, manual outreach by CSE in Outreach, Office Hours and Webinars). In these cases, it is best to submit ad-hoc engagement requests through Salesforce. You can submit a case for a CSE to engage with you on an account by clicking on "CSE Help" at the top of the Salesforce account page chatter (click "Show Feed" to open it first ). This will help to qualify the engagement and help the CSE prepare for a productive conversation with the customer.
 
 This brief screencast demonstrates how to reveal the CSE Help button when on an account page in Salesforce:
 
@@ -91,7 +91,7 @@ To make a request, click "CSE Help" at the top of the Salesforce account page ch
 
 ### Tracking Ad-Hoc Scale CSE Engagements in Gainsight (CSEs only)
 
-When a CSE has accepted a Scale CSE engagement request, the CSE must then create a [CTA](https://about.gitlab.com/handbook/customer-success/csm/gainsight/ctas/) in Gainsight for proper tracking and CSAT survey deployment post-follow-up email.
+When a CSE has accepted a Scale CSE engagement request, the CSE must then create a [CTA](/handbook/customer-success/csm/gainsight/ctas/) in Gainsight for proper tracking and CSAT survey deployment post-follow-up email.
 
 - Create CTA from the Cockpit with the following details
    - Name: [Customer Name] - Ad-Hoc Scale CSE Engagement Request
@@ -101,7 +101,7 @@ When a CSE has accepted a Scale CSE engagement request, the CSE must then create
    - Priority: (select the most appropriate type based on the request)
    - Playbook: One-Off Scale CSM Outreach
 
-Once the call is complete, the call must be [logged as an activity](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/#review-and-update-account-details) against the customer’s timeline in Gainsight.
+Once the call is complete, the call must be [logged as an activity](/handbook/customer-success/csm/cadence-calls/#review-and-update-account-details) against the customer’s timeline in Gainsight.
 
 The CSE should then prepare a follow-up email to be sent to the customer through the email-assist in the task: `Follow Up Email Post One-off Scale CSM Outreach Call Completion`
 
@@ -109,7 +109,7 @@ This ensures that a CSAT survey is deployed to the recipients of the email.
 
 ## Scale Onboarding Cohorts
 
-As a supplement to the [monthly webinars](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/) presented by the CSM/CSE team, the CSE team also invites net-new scale eligible customers to participate in a monthly onboardhing cohort.
+As a supplement to the [monthly webinars](/handbook/customer-success/csm/segment/scale/webinar-calendar/) presented by the CSM/CSE team, the CSE team also invites net-new scale eligible customers to participate in a monthly onboardhing cohort.
 
 The onboarding cohort will have a duration of 4 weeks, starting at the beginning of each month, with 90-minute live weekly training led by a Customer Success Engineer. Customers will be grouped with other new GitLab customers during each training. In addition to the weekly hands-on calls, customers will have access to a shared Slack channel monitored by Customer Success Engineers throughout the program to help answer questions and provide best practice guidance.
 
@@ -118,4 +118,4 @@ The onboarding cohort will have a duration of 4 weeks, starting at the beginning
 - Week 3: [GitLab Security & Compliance](https://docs.google.com/presentation/d/11kBdYaW7b_2FiZZUOJNp7OQ9qRQzD_LaWiqRJ_YJJtQ/edit?usp=sharing)
 - Week 4: [GitLab GitOps Deployments](https://docs.google.com/presentation/d/1G6uFXNG3U1VD13BM8rj1MZf_VMH99j9R2lFqG_09R2Y/edit?usp=sharing)
 
-All customers participating will complete their training using a sandbox sub-group on gitlab.com [provisioned via gitlabdemo.com](https://about.gitlab.com/handbook/customer-success/demo-systems/#how-to-get-started). Additionally, customers participating in GitLab GitOps Deployments will also gain access to the [Instruqt platform](/handbook/business-technology/tech-stack/#instruqt) to allow hands-on access to a kubernetes cluster for deployments.
+All customers participating will complete their training using a sandbox sub-group on gitlab.com [provisioned via gitlabdemo.com](/handbook/customer-success/demo-systems/#how-to-get-started). Additionally, customers participating in GitLab GitOps Deployments will also gain access to the [Instruqt platform](/handbook/business-technology/tech-stack/#instruqt) to allow hands-on access to a kubernetes cluster for deployments.

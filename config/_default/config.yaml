@@ -20,7 +20,6 @@ params:
   defaultContentLanguage: en
   locale: en-US
   description: Learn more about GitLab and what makes us tick.
-  algolia_docsearch: true
   search:
     algolia:
       appId: 3IIMMA8IDY

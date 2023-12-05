@@ -26,8 +26,8 @@ GLabIT is a platform that hosts many automation related (micro-)services and scr
 | `it-eng` | [ARCHIE Group Provisioner](https://gitlab-it.gitlab.io/glabit-docs/archie/overview)      | FY23-Q2 (WIP)     |
 | `it-eng` | [HackyStack](/handbook/infrastructure-standards/realms/sandbox/) | FY23-Q3 (Planned) |
 | `it-eng` | [IT Ops CLI Scripts](https://gitlab.com/gitlab-com/it/dev/it-ops-laravel-cli-scripts)    | FY23-Q3 (Planned) |
-| `it-eng` | [Demo Systems](https://about.gitlab.com/handbook/customer-success/demo-systems/)         | FY23-Q3 (Planned) |
-| `it-eng` | [Training Systems](https://about.gitlab.com/handbook/customer-success/demo-systems/)     | FY23-Q3 (Planned) |
+| `it-eng` | [Demo Systems](/handbook/customer-success/demo-systems/)         | FY23-Q3 (Planned) |
+| `it-eng` | [Training Systems](/handbook/customer-success/demo-systems/)     | FY23-Q3 (Planned) |
 
 This is an early incubation project. We are in the process of onboarding team members from IT Security, People Ops, Security Automation, Security Compliance, and Vulnerability Management to be able to contribute and/or migrate their scripts to this consolidated platform. Feel free to add projects to this list.
 

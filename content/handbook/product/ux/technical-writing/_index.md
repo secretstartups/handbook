@@ -141,7 +141,7 @@ section, referencing the group shown in metadata with the listed Subjects in the
 Not sure who's responsible for a feature? Review feature assignments by [stage](https://about.gitlab.com/features/) or [group](/handbook/product/categories/features/).
 {{% /alert %}}
 
-<!-- <%= partial("includes/stages/tech-writing") %> -->
+{{% tech-writing %}}
 
 <!--
   To update the table above:
@@ -163,34 +163,16 @@ For collaboration in other projects and subjects:
 
 | Subject                                                                                                         | Assigned technical writer                                                                                                                      |
 |:----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
-| The documentation site                                      | [Susan Tacker]                                                                                                                              |
-| The documentation site backend (code, automation)                                             | [Sarah German]                                                                                                                              |
-| [GitLab Design System ("Pajamas")](https://design.gitlab.com/) information under [`content`](https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com/-/tree/main/contents/content)                                               | [Suzanne Selhorn]                                                                                                                              |
-| [Style Guide](#style-guide)                                                                                     | [Suzanne Selhorn]                                                                                                                              |
-| [Testing/Vale/markdownlint](#testing)                                                                           | [Diana Logan]                                                                                                                                  |
-| [Documentation handbook](/handbook/documentation/)                                                              | [Diana Logan]                                                                                                                                  |
-| [Technical Writing handbook](https://about.gitlab.com/handbook/engineering/ux/technical-writing/)                                       | [Susan Tacker]                                                                                                                                 |
-| [Tutorials](https://docs.gitlab.com/ee/tutorials/)                                                              | [Kati Paizee]                                                                                                                                  |
-| [What's new](https://docs.gitlab.com/ee/administration/whats-new.html)                                          | [Kati Paizee]                                                                                                                                  |
-| [GitLab Development Kit (GDK)](https://gitlab.com/gitlab-org/gitlab-development-kit)                            | [Ashraf Khamis], [Axil], [Evan Read], [Fiona Neill], [Jon Glassman], [Lorena Ciutacu], [Marcel Amirault], [Phillip Wells], [Russell Dickenson] |
-
-[Amy Qualls]: https://gitlab.com/aqualls
-[Ashraf Khamis]: https://gitlab.com/ashrafkhamis
-[Axil]: https://gitlab.com/axil
-[Diana Logan]: https://gitlab.com/dianalogan
-[Evan Read]: https://gitlab.com/eread
-[Fiona Neill]: https://gitlab.com/fneill
-[Jon Glassman]: https://gitlab.com/jglassman1
-[Kati Paizee]: https://gitlab.com/kpaizee
-[Lorena Ciutacu]: https://gitlab.com/lciutacu
-[Lysanne Pinto]: https://gitlab.com/lyspin
-[Marcel Amirault]: https://gitlab.com/marcel.amirault
-[Marcin Sędłak-Jakubowski]: https://gitlab.com/msedlakjakubowski
-[Phillip Wells]: https://gitlab.com/phillipwells
-[Russell Dickenson]: https://gitlab.com/rdickenson
-[Sarah German]: https://gitlab.com/sarahgerman
-[Susan Tacker]: https://gitlab.com/susantacker
-[Suzanne Selhorn]: https://gitlab.com/sselhorn
+| The documentation site                                      | {{< member-by-name "Susan Tacker" >}}                                                                                                                              |
+| The documentation site backend (code, automation)                                             | {{< member-by-name "Sarah German" >}}                                                                                                                              |
+| [GitLab Design System ("Pajamas")](https://design.gitlab.com/) information under [`content`](https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com/-/tree/main/contents/content)                                               | {{< member-by-name "Suzanne Selhorn" >}}                                                                                                                              |
+| [Style Guide](#style-guide)                                                                                     | {{< member-by-name "Suzanne Selhorn" >}}                                                                                                                              |
+| [Testing/Vale/markdownlint](#testing)                                                                           | {{< member-by-name "Diana Logan" >}}                                                                                                                                  |
+| [Documentation handbook](/handbook/documentation/)                                                              | {{< member-by-name "Diana Logan" >}}                                                                                                                                  |
+| [Technical Writing handbook](https://about.gitlab.com/handbook/engineering/ux/technical-writing/)                                       | {{< member-by-name "Susan Tacker" >}}                                                                                                                                 |
+| [Tutorials](https://docs.gitlab.com/ee/tutorials/)                                                              | {{< member-by-name "Kati Paizee" >}}                                                                                                                                  |
+| [What's new](https://docs.gitlab.com/ee/administration/whats-new.html)                                          | {{< member-by-name "Kati Paizee" >}}                                                                                                                                  |
+| [GitLab Development Kit (GDK)](https://gitlab.com/gitlab-org/gitlab-development-kit)                            | {{< member-by-name "Ashraf Khamis" >}}, {{< member-by-name "Achilleas Pipinellis" >}}, {{< member-by-name "Evan Read" >}}, {{< member-by-name "Fiona Neill" >}}, {{< member-by-name "Jon Glassman" >}}, {{< member-by-name "Lorena Ciutacu" >}}, {{< member-by-name "Marcel Amirault" >}}, {{< member-by-name "Phillip Wells" >}}, {{< member-by-name "Russell Dickenson" >}} |
 
 ### Content not reviewed by TWs
 
@@ -221,6 +203,7 @@ The number of pages in the five primary repositories (GitLab, Omnibus, Charts, O
 
 | Date          | # of pages | Increase from previous quarter |
 |---------------|------------| ------------|
+| Dec  2023     | 2,201      | 5 %         |
 | Sept 2023     | 2,088      | 8 %         |
 | Jun 2023      | 1,993      | 5 %         |
 | Mar 2023      | 1,929      | 3 %         |
@@ -230,12 +213,13 @@ The number of pages in the five primary repositories (GitLab, Omnibus, Charts, O
 | Jan 2022      | 1,562      | -           |
 | May 2020      | 1,165      | -           |
 
-**Change between May 2020 and Sept 2023:** 923 more pages (a 79% increase)
+**Change between May 2020 and Dec 2023:** 1036 more pages (a 89% increase)
 
 The number of words in these repositories:
 
 | Date          | Word count | Increase from previous quarter |
 |---------------|------------| ------------|
+| Dec  2023     | 2,990,400  | 5 %        |
 | Sept 2023     | 2,842,399  | 5 %         |
 | Jun 2023      | 2,701,888  | 6 %         |
 | Mar 2023      | 2,546,466  | 6 %         |
@@ -245,7 +229,7 @@ The number of words in these repositories:
 | Jan 2022      | 2,017,183  | -           |
 | May 2020      | 1,190,371  | -           |
 
-**Change between May 2020 and Sept 2023:** 1,652,028 more words (a 138% increase)
+**Change between May 2020 and Dec 2023:** 1,800,029 more words (a 151% increase)
 
 The word count has more than doubled in this timeframe.
 
@@ -312,19 +296,19 @@ that need to be regularly completed:
 
 Schedule for Docs project maintenance tasks:
 
-- March, 2024: [Amy Qualls]
-- February, 2024: [Marcel Amirault]
-- January, 2024: [Phillip Wells]
-- December, 2023: [Axil]
-- November, 2023: [Marcin Sędłak-Jakubowski]
-- October, 2023: [Russell Dickenson]
-- September, 2023: [Evan Read]
-- August, 2023: [Kati Paizee]
-- July, 2023: [Diana Logan]
-- June, 2023: [Ashraf Khamis]
-- May, 2023: [Fiona Neill]
-- April, 2023: [Lorena Ciutacu]
-- March, 2023: [Marcin Sędłak-Jakubowski]
+- March, 2024: {{< member-by-name "Amy Qualls" >}}
+- February, 2024: {{< member-by-name "Marcel Amirault" >}}
+- January, 2024: {{< member-by-name "Phillip Wells" >}}
+- December, 2023: {{< member-by-name "Achilleas Pipinellis" >}}
+- November, 2023: {{< member-by-name "Marcin Sędłak-Jakubowski" >}}
+- October, 2023: {{< member-by-name "Russell Dickenson" >}}
+- September, 2023: {{< member-by-name "Evan Read" >}}
+- August, 2023: {{< member-by-name "Kati Paizee" >}}
+- July, 2023: {{< member-by-name "Diana Logan" >}}
+- June, 2023: {{< member-by-name "Ashraf Khamis" >}}
+- May, 2023: {{< member-by-name "Fiona Neill" >}}
+- April, 2023: {{< member-by-name "Lorena Ciutacu" >}}
+- March, 2023: {{< member-by-name "Marcin Sędłak-Jakubowski" >}}
 
 ## Reviews
 

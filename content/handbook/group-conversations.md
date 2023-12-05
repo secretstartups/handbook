@@ -277,8 +277,8 @@ If your GC is optional and you need to move the date, please work with your depa
 
 | Group Conversation | DRI | Key Review? | GC Frequency | Alternate Hosts | Scheduling DRI |
 | ------------------ | --- | ----------- | ------------ | --------------- | -------------- |
-| [Marketing](https://about.gitlab.com/handbook/sales/) | Ashley Kramer | Yes | Twice per quarter | | EBA to CMSO|
-| [Sales](https://about.gitlab.com/handbook/sales/) | Sales VPs | Yes (GTM Key Review shared with Marketing) | Monthly - rotates between VP of Commercial, VP of Enterprise, VP of Channel & VP of Customer Success | | EBAs in Sales |
+| [Marketing](/handbook/sales/) | Ashley Kramer | Yes | Twice per quarter | | EBA to CMSO|
+| [Sales](/handbook/sales/) | Sales VPs | Yes (GTM Key Review shared with Marketing) | Monthly - rotates between VP of Commercial, VP of Enterprise, VP of Channel & VP of Customer Success | | EBAs in Sales |
 | [Finance](/handbook/finance/) | Brian Robins | Yes | Twice per quarter | | EBAs in Finance|
 | [People](/handbook/people-group/) | Wendy Barnes | Yes | Twice per quarter | | EBA to CPO |
 | [Product](/handbook/product/) | [Month PLT Leader Rotation](/handbook/product/product-leadership/#product-group-conversation-leader-rotation) | Yes | Quarterly | | EBAs in Product |

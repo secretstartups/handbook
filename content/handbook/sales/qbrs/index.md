@@ -26,7 +26,7 @@ Field Manager QBRs are held in the following months and *typically* are a mix of
 1. Aug: Virtual
 1. Nov: In-Person
 
-Field Manager QBRs are typically organized by region and are held starting at the ASM/manager level and roll up by leadership tier from there. ASMs/managers are responsible for gathering the necessary insights and asks from their teams in self-organized, team-level QBRs. See [QBR Best Practices](https://about.gitlab.com/handbook/sales/qbrs/#qbr-best-practices) section for more information. Schedule overlap is avoided to the best of the planning team's ability, but note that some overlap, especially cross-segment, is typically unavoidable.
+Field Manager QBRs are typically organized by region and are held starting at the ASM/manager level and roll up by leadership tier from there. ASMs/managers are responsible for gathering the necessary insights and asks from their teams in self-organized, team-level QBRs. See [QBR Best Practices](/handbook/sales/qbrs/#qbr-best-practices) section for more information. Schedule overlap is avoided to the best of the planning team's ability, but note that some overlap, especially cross-segment, is typically unavoidable.
 
 See below for a list of QBR sessions by segment.
 
@@ -85,7 +85,7 @@ See below for a list of QBR sessions by segment.
 1. CS Leadership
 
 
-![QBR Structure Pyramid](https://about.gitlab.com/handbook/sales/qbrs/QBR_Structure_Pyramid.png)
+![QBR Structure Pyramid](/handbook/sales/qbrs/QBR_Structure_Pyramid.png)
 
 
 ### Field Manager QBR Participation - Virtual
@@ -190,7 +190,7 @@ Wherever possible, the QBR planning team will incorporate the ability for team m
 1. Any changes to the Field Manager QBR schedules should be made no later than two weeks before the scheduled start of *virtual* QBRs and 2 months before the scheduled start of *in-person* QBRs to avoid calendar disruptions for participants.
 1. All managers/ASMs should complete their Field Manager QBR decks no later than 2 business days prior to their Field Manager QBR session. (Note: For QBRs that occur on the first business day of the new quarter, the standard is one business day.)
 1. All AVPs/RDs/ASMs should pre-read other QBR decks for their session. Questions should be left ahead of time in the coordinating notes document.
-   1. RDs/AVPs should review their team's QBR asks and pre-prepare a list of prioritized asks to review in their Field Manager QBR session. (See the [Field Operations QBR Request Intake Process](https://about.gitlab.com/handbook/sales/qbrs/#intake) below for more information.)
+   1. RDs/AVPs should review their team's QBR asks and pre-prepare a list of prioritized asks to review in their Field Manager QBR session. (See the [Field Operations QBR Request Intake Process](/handbook/sales/qbrs/#intake) below for more information.)
 
 ### Best Practices for Attendees
 
@@ -204,7 +204,7 @@ Wherever possible, the QBR planning team will incorporate the ability for team m
    1. Sales Dev
    1. Channel
    1. Alliances
-1. Notes taken during QBRs should provide a detailed summary of the QBR and focus on key takeaways, value-add commentary and conversation. Since QBRs are not recorded, notes are the record of the QBR. See [Note Taking](https://about.gitlab.com/handbook/sales/qbrs/#qbr-note-taking) section below for full note taking guidance.
+1. Notes taken during QBRs should provide a detailed summary of the QBR and focus on key takeaways, value-add commentary and conversation. Since QBRs are not recorded, notes are the record of the QBR. See [Note Taking](/handbook/sales/qbrs/#qbr-note-taking) section below for full note taking guidance.
 
 ## QBR Communication
 
@@ -311,7 +311,7 @@ Below is a sample roll-out of the Field Manager QBR planning and execution proce
 
 1. Field EBAs to send out initial QBR calendar hold invites that include the following attendees:
    1. RDs, ASMs, and any other team members for that region - mandatory
-   1. GTM leaders - optional (See [QBR Participation](https://about.gitlab.com/handbook/sales/qbrs/#field-manager-qbr-participation---virtual) section above for full list)
+   1. GTM leaders - optional (See [QBR Participation](/handbook/sales/qbrs/#field-manager-qbr-participation---virtual) section above for full list)
 1. Field Events to engage delegate organizations to assign attendees from the following teams for each QBR in the QBR Schedule, Attendee and Agenda document by EOW.
    1. Sales Dev
    1. Field Marketing
@@ -346,12 +346,12 @@ Below is a sample roll-out of the Field Manager QBR planning and execution proce
 
 1. ASMs/managers encouraged to complete their self-organized, team-level QBR sessions to gather final details for their Field Manager QBR presentations.
 1. Field Comms to create a "Manager Responsibilies" issue outlining the asks/responsibilities for QBR hosts before, during and after the calls and socialize this issue in the QBR Slack channels.
-1. Field Comms to send a reminder to all QBR delegates regarding the [attendee best-practices](https://about.gitlab.com/handbook/sales/qbrs/#best-practices-for-attendees) outlined above in QBR Slack channels.
+1. Field Comms to send a reminder to all QBR delegates regarding the [attendee best-practices](/handbook/sales/qbrs/#best-practices-for-attendees) outlined above in QBR Slack channels.
 
 #### Week(s) of QBRs
 
 1. The AVP/RD or equivalent will lead the meeting.
-1. Assigned note takers will take QBR notes following the [best practices](https://about.gitlab.com/handbook/sales/qbrs/#qbr-note-taking) outlined above.
+1. Assigned note takers will take QBR notes following the [best practices](/handbook/sales/qbrs/#qbr-note-taking) outlined above.
 1. Field EBAs and Field Events should consistently monitor the QBR Slack channels for questions.
 
 #### 1 week following QBRs
@@ -414,12 +414,12 @@ Below is a sample roll-out of the Field Manager QBR planning and execution proce
 
 1. ASMs/managers encouraged to complete their self-organized, team-level QBR sessions to gather final details for their Field Manager QBR presentations.
 1. Field Comms to create a "Manager Responsibilies" issue outlining the asks/responsibilities for QBR hosts before, during and after the calls and socialize this issue in the QBR Slack channels.
-1. Field Comms to send a reminder to all QBR delegates regarding the [attendee best-practices](https://about.gitlab.com/handbook/sales/qbrs/#best-practices-for-attendees) outlined above in QBR Slack channels.
+1. Field Comms to send a reminder to all QBR delegates regarding the [attendee best-practices](/handbook/sales/qbrs/#best-practices-for-attendees) outlined above in QBR Slack channels.
 
 #### Week(s) of QBRs
 
 1. The AVP/RD or equivalent will lead the meeting.
-1. Assigned note takers will take QBR notes following the [best practices](https://about.gitlab.com/handbook/sales/qbrs/#qbr-note-taking) outlined above.
+1. Assigned note takers will take QBR notes following the [best practices](/handbook/sales/qbrs/#qbr-note-taking) outlined above.
 1. Field Events & Field EBAs should consistently monitor the QBR Slack channels for questions.
 
 #### 1 week following QBRs

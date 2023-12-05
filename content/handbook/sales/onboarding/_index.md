@@ -14,7 +14,7 @@ description: "Sales and Customer Success Onboarding at GitLab is a blended learn
 
 Onboarding for Field Team Members at GitLab is a blended learning experience (virtual, self-paced learning path paired with an immersive, hands-on in-person workshop called Sales Quick Start) focused on what new field team members need to **KNOW**, **DO**, and **BE ABLE TO ARTICULATE** within their first 30 days or so on the job so they are "customer conversation ready" and they are comfortable, competent, and confident leading customer engagements before the end of their first several weeks on the job. There are some formal learning components with a heavy emphasis on social learning (learning from others) and learning by doing to help bridge the knowing-going gap.
 
-For a detailed list of SQS Learning Objectives, please visit [this page](https://about.gitlab.com/handbook/sales/onboarding/sqs-learning-objectives/).
+For a detailed list of SQS Learning Objectives, please visit [this page](/handbook/sales/onboarding/sqs-learning-objectives/).
 
 ## GitLab Learner Journey
 
@@ -22,12 +22,12 @@ For a detailed list of SQS Learning Objectives, please visit [this page](https:/
 
 ## Key SQS Details
 
-- [Target Roles](https://about.gitlab.com/handbook/sales/onboarding/target-roles/)
-- [Learning Objectives](https://about.gitlab.com/handbook/sales/onboarding/sqs-learning-objectives/)
-- [Sales Onboarding Process](https://about.gitlab.com/handbook/sales/onboarding/sales-learning-path/onboarding-process/)
-- [Sales & Customer Success Quick Start Learning Path](https://about.gitlab.com/handbook/sales/onboarding/sales-learning-path/)
-- [SQS Workshop](https://about.gitlab.com/handbook/sales/onboarding/SQS-workshop/)
-- [Graduating from Sales Quick Start](https://about.gitlab.com/handbook/sales/onboarding/graduating-SQS/)
+- [Target Roles](/handbook/sales/onboarding/target-roles/)
+- [Learning Objectives](/handbook/sales/onboarding/sqs-learning-objectives/)
+- [Sales Onboarding Process](/handbook/sales/onboarding/sales-learning-path/onboarding-process/)
+- [Sales & Customer Success Quick Start Learning Path](/handbook/sales/onboarding/sales-learning-path/)
+- [SQS Workshop](/handbook/sales/onboarding/SQS-workshop/)
+- [Graduating from Sales Quick Start](/handbook/sales/onboarding/graduating-SQS/)
 
 ## Upcoming Sales Quick Start (SQS) Workshops
 

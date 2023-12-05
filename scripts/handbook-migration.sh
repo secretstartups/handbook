@@ -13,6 +13,7 @@ red="\e[31m"
 # Globals
 HANDBOOK_REPO=$(git rev-parse --show-toplevel)
 DIRECTORY_TO_SPLIT=NOSET
+export FILTER_BRANCH_SQUELCH_WARNING=1
 
 # Command line options
 DUBDUBDUB_REPO=$(git rev-parse --show-toplevel)/../www-gitlab-com
@@ -179,7 +180,7 @@ cd $TMP_REPO
 if [[ $USE_FILTER_REPO == "true" ]]; then
   echo -e "${bold}Performing git filter repo... this might take a few minutes...${normal}"
   git remote rm origin
-  git filter-repo --force --path $DIRECTORY_TO_SPLIT
+  git filter-repo --preserve-commit-encoding --force --path $DIRECTORY_TO_SPLIT
 else
   # subtree split the directories
   echo -e "${bold}Performing git subtree split... this might take a few minutes...${normal}"
@@ -282,6 +283,7 @@ fi
 
 cd content
 
+if [[ $IS_MARKETING != "true" && $IS_ENGINEERING != "true" ]]; then
 # Migrated Sections using fully qualified url on about
 echo "Migrating links which have been migrated to the new handbook..."
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/anti-harassment/~](/handbook/anti-harassment/~g" {} +
@@ -339,9 +341,11 @@ find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbo
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/acquisitions/~](/handbook/acquisitions/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/alliances/~](/handbook/alliances/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/legal/~](/handbook/legal/~g" {} +
-
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/company/~](/handbook/company/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/job-families~](/job-families~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/customer-success/~](/handbook/customer-success/~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/resellers/~](/handbook/resellers/~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/sales/~](/handbook/sales/~g" {} +
 
 # Migrated Sections using fully qualified url on handbook
 echo "Migrating links for the new handbook  which been migrated to the new handbook..."
@@ -402,14 +406,15 @@ find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/han
 find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/legal/~](/handbook/legal/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/company/~](/handbook/company/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/job-families~](/job-families~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/customer-success/~](/handbook/customer-success/~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/resellers/~](/handbook/resellers/~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/sales/~](/handbook/sales/~g" {} +
 
 # Sections not yet migrated
 echo "Fixing links which haven't been migrated yet..."
 find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/create-directory/~](https://about.gitlab.com/handbook/create-directory/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/customer-success/~](https://about.gitlab.com/handbook/customer-success/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/developer-onboarding/~](https://about.gitlab.com/handbook/developer-onboarding/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/dmca/~](https://about.gitlab.com/handbook/dmca/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/engineering/~](https://about.gitlab.com/handbook/engineering/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/entity-specific-employment-policies/~](https://about.gitlab.com/handbook/entity-specific-employment-policies/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/gdpr/~](https://about.gitlab.com/handbook/gdpr/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/git-page-update/~](https://about.gitlab.com/handbook/git-page-update/~g" {} +
@@ -421,14 +426,13 @@ find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/organizational-change
 find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/positioning-faq/~](https://about.gitlab.com/handbook/positioning-faq/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/practical-handbook-edits/~](https://about.gitlab.com/handbook/practical-handbook-edits/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/questions/~](https://about.gitlab.com/handbook/questions/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/resellers/~](https://about.gitlab.com/handbook/resellers/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/sales/~](https://about.gitlab.com/handbook/sales/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/style-guide/~](https://about.gitlab.com/handbook/style-guide/~g" {} +
 
 # Sections which won't be migrated
 echo "Fixing links for sections which won't be migrated..."
 find . -type f -name "*.md" -exec sed -i '' "s~](/blog/~](https://about.gitlab.com/blog/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/direction/~](https://about.gitlab.com/direction/~g" {} +
+fi
 
 # Clean up the markdown and erb files a bit
 echo  "Cleaning up markdown files..."
@@ -463,6 +467,7 @@ find . -type f -name "*.md" -exec sed -i '' "s~{:toc}~~g" {} +
 
 cd ..
 
+
 # Run markdownlint to try to fix as many errors as possible
 
 echo -e "${bold}Runnig markdownlint in fix mode...${normal}"
@@ -485,8 +490,7 @@ if [[ $IS_COMPANY == true ]]; then
   echo "content/handbook/company/$SECTION/**/*.md" >> .markdownlintignore
   sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/company/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
 elif [[ $IS_ENGINEERING == true ]]; then
-  echo "content/handbook/engineering/$SECTION/**/*.md" >> .markdownlintignore
-  sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/engineering/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
+  echo "Skipping mdlintignore as already have a blanket one for engineering"
 elif [[ $IS_MARKETING == true ]]; then
   echo "Skipping mdlintignore as already have a blanket one for marketing"
 elif [[ $IS_HANDBOOK == true ]]; then
@@ -512,7 +516,7 @@ to fix most markdown liniting errors although a number will still persist.  We h
 HANDBOOK_MR_OUTPUT=$(glab mr create --push --no-editor -y -b main -a jamiemaynard -l "handbook::operations" -t "$MR_TITLE" -d "$MR_DESCRIPTION")
 echo $HANDBOOK_MR_OUTPUT
 
-if [[ $IS_MARKETING == "true" ]]; then
+if [[ $IS_MARKETING == "true" || $IS_ENGINEERING == "true" ]]; then
   echo "Skipping cleaning up www-gitlab-com"
   echo -e "${bold}Cleaning up the copy of www-gitlab-com repo...${normal}"
   rm -rf /tmp/gitlab-migration

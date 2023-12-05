@@ -17,7 +17,7 @@ GitLab takes our customer's success very seriously. In Professional Services (PS
 - [Process Flow - trim (above)](https://docs.google.com/spreadsheets/d/1uRoB73lZtvNhkk-Z9eQS3_Ys4yX8vVUXXqQUO7Nm1ss/edit?usp=sharing)
 - [Process Flow - full](https://docs.google.com/spreadsheets/d/1Y8wWj5g8T6HuPGEnHaWUfdtI7LPmathGaMwfiA2b_Ks/edit?usp=sharing)
 
-Given the close collaboration between the PS Project Management and PS Operations [team functions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#team-functions), please refer to the [PS Operations Wiki](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-leadership-team/ps-operations/-/wikis/home) for details on processes related to scheduling, reporting, billing, partner processes, and more.  
+Given the close collaboration between the PS Project Management and PS Operations [team functions](/handbook/customer-success/professional-services-engineering/#team-functions), please refer to the [PS Operations Wiki](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-leadership-team/ps-operations/-/wikis/home) for details on processes related to scheduling, reporting, billing, partner processes, and more.  
 
 ### Project plan
 
@@ -55,7 +55,7 @@ Each PS Engagement will include a Project Plan based on the activities outlined 
    - Conducts an internal [Account Team to Professional Services Transition meeting](https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing) which includes EM, PSE, TA, and opitionally the Project Coordinator, Regional Manager, AE, and/or CSM
    - Completes the Account Team to PS Transition issue template, located in the customer Epic
    - [Project Preparation call](https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing) (PM, PSE and/or Technical Architect and customer Project Lead counterpart)
-   - If a CSM is assigned, follow [these steps](https://about.gitlab.com/handbook/customer-success/csm/engaging-with-ps/) outlining the engagement guidelines, throughout the customer project
+   - If a CSM is assigned, follow [these steps](/handbook/customer-success/csm/engaging-with-ps/) outlining the engagement guidelines, throughout the customer project
    - Submit resource request via Kantata to match the mutually agreed upon customer project schedule
 
 #### Plan
@@ -89,7 +89,7 @@ Each PS Engagement will include a Project Plan based on the activities outlined 
 #### Deploy & Close
 
 12. Project Owner:
-    - Complete this [sign off workflow](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/project_execution/sign-off.html)
+    - Complete this [sign off workflow](/handbook/customer-success/professional-services-engineering/workflows/project_execution/sign-off.html)
     - Schedule [Project closure meeting](https://docs.google.com/document/d/1Cw5eLe8VKFtHG9xGqUiCua8Pbu52reMzHujcPWq3ofQ/edit?usp=sharing)
     - Schedule [Project Retrospective](https://docs.google.com/document/d/1CXfnCzjF_hwapy0R-89txiFUmSmvX7jvlEqWn48zN8A/edit?usp=sharing)  
     - Regional Manager to provide a closeout report including estimated hours, actual hours, deliverable documents, and lessons learned to broader team. Post this in [#ps-project-leadership](https://gitlab.slack.com/archives/GR4A7UJSF) and make sure to mention the Engagement Manager team `@em`.  

@@ -27,7 +27,7 @@ If you are these things, and are passionate about sales support and can demonstr
 - Monitor system adoption and data compliance and governance
 - Collaborate with other departments to improve integration between Salesforce and other mission-critical systems, including marketing automation, billing, engineering, and support
 - Enrich our CRM with data from third-party sources.
-- Contribute to documenting improvements in our [sales handbook](https://about.gitlab.com/handbook/sales/).
+- Contribute to documenting improvements in our [sales handbook](/handbook/sales/).
 - Be the voice of the customer by contributing product ideas to our public [issue tracker](https://gitlab.com/gitlab-org/gitlab-ee/issues).
 
 ## Requirements

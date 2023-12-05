@@ -24,7 +24,7 @@ The pre-training checklist below provides a list of tasks and reminders to help 
 - Please ensure that you use the latest version of the slide deck for your upcoming class.
 - Ensure that the lab environment and lab exercises are working properly by reviewing ahead of the first day of class.
 - Ensure that you can access and have full functionality of the teleconferencing system.
-- Review the [Remote Training Facilitation Best Practices Tips](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-tips/).
+- Review the [Remote Training Facilitation Best Practices Tips](/handbook/customer-success/professional-services-engineering/remote-training-tips/).
 - Declutter by closing unneeded tabs in the browser you will use to show the course slides.
 - Silence or quit Slack and email to prevent notifications during your class.
 - Set up your laptop's environment in whatever ways are necessary for the class. For example, if you're going to install a GitLab Runner as part of a CI/CD class, make sure you've uninstalled the GitLab Runner binary from your laptop.

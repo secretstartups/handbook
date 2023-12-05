@@ -15,17 +15,17 @@ This section highlights the current health status of each KPI based on the resul
 
 | **KPI**                                                                                                                                                                                 | **Current Health Status** |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| [Deal Desk Case SLA](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#1-deal-desk--case-slas)                                                                               |      Red (Note: Data is skewed due to global Private Offer support centralized in west coast AMER)      |
-| [Deal Desk Support Satisfaction](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#2-regional-support-satisfaction)                                                          |      Green      |
-| [Opportunity Approval SLA](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/order-management/#1-standard-opportunity-approval-sla)                                                     |      Green      |
-| [Opportunity Approval Accuracy](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/order-management/#3-opportunity-approval-accuracy-and-efficiency)                                     |      Yellow      |
-| [Regional Support Satisfaction: Deal Desk](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/order-management/#2-regional-support-satisfaction)                                                    |      Green       |
-| [Regional Support Satisfaction: Order Management](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/order-management/#2-regional-support-satisfaction)                                                    |      Yellow       |
+| [Deal Desk Case SLA](/handbook/sales/field-operations/sales-operations/deal-desk/#1-deal-desk--case-slas)                                                                               |      Red (Note: Data is skewed due to global Private Offer support centralized in west coast AMER)      |
+| [Deal Desk Support Satisfaction](/handbook/sales/field-operations/sales-operations/deal-desk/#2-regional-support-satisfaction)                                                          |      Green      |
+| [Opportunity Approval SLA](/handbook/sales/field-operations/sales-operations/order-management/#1-standard-opportunity-approval-sla)                                                     |      Green      |
+| [Opportunity Approval Accuracy](/handbook/sales/field-operations/sales-operations/order-management/#3-opportunity-approval-accuracy-and-efficiency)                                     |      Yellow      |
+| [Regional Support Satisfaction: Deal Desk](/handbook/sales/field-operations/sales-operations/order-management/#2-regional-support-satisfaction)                                                    |      Green       |
+| [Regional Support Satisfaction: Order Management](/handbook/sales/field-operations/sales-operations/order-management/#2-regional-support-satisfaction)                                                    |      Yellow       |
 
 ### Key Performance Indicators
 
-Deal Desk KPIs are outlined on the [Deal Desk handbook page](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#key-performance-indicators).
-Order Management KPIs are outlined on the [Order Management handbook page](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/order-management/).
+Deal Desk KPIs are outlined on the [Deal Desk handbook page](/handbook/sales/field-operations/sales-operations/deal-desk/#key-performance-indicators).
+Order Management KPIs are outlined on the [Order Management handbook page](/handbook/sales/field-operations/sales-operations/order-management/).
 
 ### FY23 Results
 

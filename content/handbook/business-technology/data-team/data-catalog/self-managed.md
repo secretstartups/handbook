@@ -18,7 +18,7 @@ description: "This page defines Self-Managed and provides directions for Self-Ma
 
 - Customer Implementations are identified as an Instance.  An Instance can have multiple Installations, ie DEV and PROD.    Each Installation may be hosted on different servers.
 - Subscriptions are assigned at the Instance level and determine the Application Features available.  Instance is the highest level of the Self-Managed License so, the features are cascaded down from there.  [GitLab self-managed subscription](https://docs.gitlab.com/ee/subscriptions/self_managed/#gitlab-self-managed-subscription) provides a great overview of the GitLab self-managed subscription and how it is administered.
-- Product Usage information is available to the Customer and can be voluntarily sent to Gitlab in collaboration to help enhance the product as outlined in the [Operational Data Vision](https://about.gitlab.com/handbook/customer-success/product-usage-data/).  
+- Product Usage information is available to the Customer and can be voluntarily sent to Gitlab in collaboration to help enhance the product as outlined in the [Operational Data Vision](/handbook/customer-success/product-usage-data/).  
 
 ### Self-Managed Data Components
 

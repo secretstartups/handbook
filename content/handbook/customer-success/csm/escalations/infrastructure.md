@@ -69,4 +69,4 @@ When an incident impacts a single or small subset of customers, the relevant CSM
  determine the next steps for their customer.
 
 If at any point in the above scenarios an incident creates the requirement for a
- customer escalation, the CSM is to follow our [defined escalation process](https://about.gitlab.com/handbook/customer-success/csm/escalations/#definitions-of-severity-levels).
+ customer escalation, the CSM is to follow our [defined escalation process](/handbook/customer-success/csm/escalations/#definitions-of-severity-levels).

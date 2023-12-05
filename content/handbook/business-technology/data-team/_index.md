@@ -51,7 +51,7 @@ The collective set of people, projects, and initiatives focused on advancing the
 
 The GitLab Data Program includes teams focused in the following areas:
 
-* [Customer Success Operational Data Team](https://about.gitlab.com/handbook/customer-success/product-usage-data/)
+* [Customer Success Operational Data Team](/handbook/customer-success/product-usage-data/)
 * [Data Team](/handbook/business-technology/data-team/)
 * [Engineering Analytics](https://about.gitlab.com/handbook/engineering/quality/engineering-analytics/)
 * [Finance Analytics & Insights](/handbook/business-technology/data-team/analytics-and-insights/)
@@ -60,7 +60,7 @@ The GitLab Data Program includes teams focused in the following areas:
 * [People Analytics Team](/handbook/people-group/people-ops-tech-analytics/people-analytics/)
 * [Product Analysis Group](/handbook/product/product-analysis/)
 * [Analytics Instrumentation Group](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/)
-* [Sales Analytics](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/)
+* [Sales Analytics](/handbook/sales/field-operations/sales-strategy/)
 
 ### Data Program Collaboration Hub
 

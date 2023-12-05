@@ -10,7 +10,7 @@ description: "The key aspects of how Sales uses Gainsight to drive success for c
 
 
 
-*For an overview of Gainsight, and information about how to login, please refer to the [Gainsight Overview Page](https://about.gitlab.com/handbook/sales/gainsight/).*
+*For an overview of Gainsight, and information about how to login, please refer to the [Gainsight Overview Page](/handbook/sales/gainsight/).*
 
 ### Gainsight in Salesforce
 
@@ -23,8 +23,8 @@ There are a few different ways to access Gainsight. The first is to access Gains
 1. Name your success plan indicating Land or Expand and year(s).
 1. The **Type** will be Account Planning.
 1. Add a due date. The account renewal date is a good place to start, although this will evolve as the plan evolves.
-1. Add a template to the Account Plan by using the ellipsis menu located in the gray bar on the right side of the page. The [Land Plan](https://about.gitlab.com/handbook/sales/account-planning/#land-account-plans) and [Expand Plan](https://about.gitlab.com/handbook/sales/account-planning/#expand-account-plans) templates will provide a guided action items and next steps.
-1. To learn about other plan types (Opportunity Plan, Command Plan, Success Plan), review [this page](https://about.gitlab.com/handbook/sales/account-planning/#what-is-the-difference-between-an-account-plan-and-a-success-plan).
+1. Add a template to the Account Plan by using the ellipsis menu located in the gray bar on the right side of the page. The [Land Plan](/handbook/sales/account-planning/#land-account-plans) and [Expand Plan](/handbook/sales/account-planning/#expand-account-plans) templates will provide a guided action items and next steps.
+1. To learn about other plan types (Opportunity Plan, Command Plan, Success Plan), review [this page](/handbook/sales/account-planning/#what-is-the-difference-between-an-account-plan-and-a-success-plan).
 
 
 ### Locating an Existing Account Plan
@@ -37,7 +37,7 @@ There are a few different ways to access Gainsight. The first is to access Gains
 1. The default view of an Account Plan will be the Plan Info section.
 1. Plan Info is comprised of the Customer Profile, Execution Plan and Go-To-Market Plan.
 1. Add or edit content to the Plan Info by using the pencil icon located to the right of each text box.
-1. For further detail on the methodology behind the individual components, [click here](https://about.gitlab.com/handbook/sales/account-planning/#account-profile).
+1. For further detail on the methodology behind the individual components, [click here](/handbook/sales/account-planning/#account-profile).
 
 #### The Customer Profile
 
@@ -80,7 +80,7 @@ This section of the account plan serves to capture relevant information about ou
 1. From the Gainsight widget, use the top navigaion bar to select the **Contacts tab**.
 1. Use the drag and drop function to add contacts to the map or use the Add Person button located to the right of the widget.
 1. Add further detail (Influence, GitLab Role, Manager) to the contact card by double clicking in the card or using the ellipsis menu.
-1. Check out [this article](https://support.gainsight.com/Gainsight_NXT/07360/People_Maps/Build_People_Maps#Business_Use_Cases) from Gainsight on building maps as well as [this enablement](https://about.gitlab.com/handbook/sales/account-planning/#relationship-and-influence-mapping) page.
+1. Check out [this article](https://support.gainsight.com/Gainsight_NXT/07360/People_Maps/Build_People_Maps#Business_Use_Cases) from Gainsight on building maps as well as [this enablement](/handbook/sales/account-planning/#relationship-and-influence-mapping) page.
 
 ### Whitespace Mapping
 
@@ -88,7 +88,7 @@ This activity is best done as a team, Solutions Architects and Customer Success 
 1. In Gainsight, there are two different sections for whitespace mapping. Whitespace (Use Case) and Whitespace (Use Case Visual).
       - **Whitespace (Use Case):** This is where you will enter the data. It will flow back into Salesforce but cannot be edited in Salesforce at this time.
       - **Whitespace (Use Case Visual):** After data has been entered, use this tab to see a visual representation of the data.  There are multiple views from which to choose.
-1. Reference this [Whitespace Mapping page](https://about.gitlab.com/handbook/sales/account-planning/#white-space-mapping) for further detail on the methodology.
+1. Reference this [Whitespace Mapping page](/handbook/sales/account-planning/#white-space-mapping) for further detail on the methodology.
 
 For each use case, seek to understand if the customer is using a competing technology aligned to each of the use cases (there is a picklist in Gainsight), if there is an appetite for replacement (green indicates there is an appetite for change), and when that contract ends.  
 

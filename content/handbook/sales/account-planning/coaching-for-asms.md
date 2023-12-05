@@ -34,7 +34,7 @@ While there is no such thing as a "complete" account plan, there are things the 
 
 A common theme across all of the account planning components is collaboration. At every stage, verify that the SAE is working with the Solutions Architect, Customer Success Manager, and their Channel and Alliances Partners. Be sure to ask follow up questions to understand how they are working with their teams and ensure that partners are being leveraged.
 
-One method for reviewing the account plan with the SAE is to ask open-ended questions. The SAEs should already be thinking about [these questions](https://about.gitlab.com/handbook/sales/account-planning/#account-profile) and be able to speak to them in a 1:1.
+One method for reviewing the account plan with the SAE is to ask open-ended questions. The SAEs should already be thinking about [these questions](/handbook/sales/account-planning/#account-profile) and be able to speak to them in a 1:1.
 
 More detailed information for each of the components is below.
 

@@ -8,7 +8,7 @@ title: "CSM (TAM) Segment: Commercial"
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ---
 
@@ -101,17 +101,17 @@ Expansion is primarily driven by the SAE or AE in this segment, though a key dri
 Being a CSM at GitLab means that every day will be different, and you'll always have competing priorities. In general, CSMs should follow this guidance:
 
 1. **At-risk customers** always come first - this is our #1 priority! Identifying the risk quickly and then working on repeatable, effective plays to ensure we're doing everything we can to retain the customer. This risk could come through in a variety of ways: low usage reporting (red DevSecOps Ultimate customers, low PtC score, etc.), loss of engagement, or simply because they've told us. Whatever it is, always err on the side of caution and flag risk as soon as possible in Gainsight and notify your manager.
-   - Please familiarize yourself with our [risk mitigation strategies](https://about.gitlab.com/handbook/customer-success/csm/risk-mitigation/) and [triage process](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/), utilizing these handbook guides through your customer interactions and account management.
-1. **Onboarding customers** should be the next highest priority. We've found that a [successful onboarding](https://about.gitlab.com/handbook/customer-success/csm/onboarding/) is crucial to ensuring long-term customer success, as any initial barriers to adoption can quickly stall their ROI. As a result, having regular communication with new customers (weekly for their first month) is important, in order to ensure we have alignment on their use cases, goals, and how we can help guide them towards best practices and adoption. Professional Services is often extremely valuable to ensure a positive onboarding, and the CSM should be involved throughout a PS engagement to ensure they can seamlessly take over adoption and growth once the engagement concludes.
-1. **Driving adoption** so our customers can grow is the reason our team exists. [Usage reporting](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/) is key towards ensuring we can support and scale our customers, and it feeds directly into our ability to drive [enablement and expansion](https://about.gitlab.com/handbook/customer-success/csm/stage-enablement-and-expansion/). By seeing how our customers are using the tool, we can create applicable content to guide them and advise them on best practices, help them with adoption, and prevent blockers to adoption.
+   - Please familiarize yourself with our [risk mitigation strategies](/handbook/customer-success/csm/risk-mitigation/) and [triage process](/handbook/customer-success/csm/health-score-triage/), utilizing these handbook guides through your customer interactions and account management.
+1. **Onboarding customers** should be the next highest priority. We've found that a [successful onboarding](/handbook/customer-success/csm/onboarding/) is crucial to ensuring long-term customer success, as any initial barriers to adoption can quickly stall their ROI. As a result, having regular communication with new customers (weekly for their first month) is important, in order to ensure we have alignment on their use cases, goals, and how we can help guide them towards best practices and adoption. Professional Services is often extremely valuable to ensure a positive onboarding, and the CSM should be involved throughout a PS engagement to ensure they can seamlessly take over adoption and growth once the engagement concludes.
+1. **Driving adoption** so our customers can grow is the reason our team exists. [Usage reporting](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/) is key towards ensuring we can support and scale our customers, and it feeds directly into our ability to drive [enablement and expansion](/handbook/customer-success/csm/stage-enablement-and-expansion/). By seeing how our customers are using the tool, we can create applicable content to guide them and advise them on best practices, help them with adoption, and prevent blockers to adoption.
 
 ### Prioritization
 
-Please refer to our [prioritization guidelines](https://about.gitlab.com/handbook/customer-success/csm/engagement/#growth-accounts) for details about how Commercial accounts are prioritized and what Priority 1 and Priority 2 mean in practice.
+Please refer to our [prioritization guidelines](/handbook/customer-success/csm/engagement/#growth-accounts) for details about how Commercial accounts are prioritized and what Priority 1 and Priority 2 mean in practice.
 
 ### Propensity Models
 
-GitLab's Data Science team has created two [propensity models](https://about.gitlab.com/handbook/customer-success/customer-health-scoring/#predictive-analytics) which are predictive analytics that are incredibly valuable towards identifying and actioning opportunities proactively.
+GitLab's Data Science team has created two [propensity models](/handbook/customer-success/customer-health-scoring/#predictive-analytics) which are predictive analytics that are incredibly valuable towards identifying and actioning opportunities proactively.
 
 - The Propensity to Expand, or PtE, determines which accounts are likely to expand their ARR by more than 10% in the next 3 months.
 - The Propensity to Churn, or PtC, determines which accounts are likely to reduce their ARR by more than 10% or churn entirely within the next 6 months.
@@ -125,7 +125,7 @@ Actual results for accounts can be found both on customer accounts and dashboard
 
 ### Rhythm of Business
 
-While the motions in the [rhythm of business](https://about.gitlab.com/handbook/customer-success/csm/rhythm/) will remain the same as the Enterprise segment, the Commercial CSM team will have a slightly different approach to their workflow and books of business.
+While the motions in the [rhythm of business](/handbook/customer-success/csm/rhythm/) will remain the same as the Enterprise segment, the Commercial CSM team will have a slightly different approach to their workflow and books of business.
 
 A breakdown of what their expected tasks and hours spent for each can be found below, including a breakdown of those hours at a weekly, monthly, quarterly, and yearly perspective.
 
@@ -133,34 +133,34 @@ Please note this is just a guide to help CSMs prioritize and calibrate, to ensur
 
 | Tasks | Weekly | Monthly | Quarterly | Yearly | Notes |
 |-------|--------|---------|-----------|--------|-------|
-| [Cadence calls](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/) | 8 | 35 | 105 | 420 | 1 hour per customer (30 minutes for the call, 30 minutes for prep & follow up) |
-| [Customer onboarding](https://about.gitlab.com/handbook/customer-success/csm/onboarding/) | 1 | 4 | 12 | 48 | 1 hour per week per customer for average of 3 customers/quarter |
-| [EBRs](https://about.gitlab.com/handbook/customer-success/csm/ebr/) | 2 | 9 | 27 | 108 | Average of 2 customer EBRs per month, with 4 hours for each (1 hour for call, 3 hours prep) |
-| Account planning | 3 | 13 | 39 | 156 | [Success planning](https://about.gitlab.com/handbook/customer-success/csm/success-plans/), long-term strategy, [expansion opportunities](https://about.gitlab.com/handbook/customer-success/csm/stage-enablement-and-expansion/), etc. |
-| [Webinars & workshops](https://about.gitlab.com/handbook/customer-success/csm/workshops/) | 1 | 4 | 12 | 48 | 1 webinar and 1 workshops per month, 2 hours each (1 hour for call, 1 hour prep) |
+| [Cadence calls](/handbook/customer-success/csm/cadence-calls/) | 8 | 35 | 105 | 420 | 1 hour per customer (30 minutes for the call, 30 minutes for prep & follow up) |
+| [Customer onboarding](/handbook/customer-success/csm/onboarding/) | 1 | 4 | 12 | 48 | 1 hour per week per customer for average of 3 customers/quarter |
+| [EBRs](/handbook/customer-success/csm/ebr/) | 2 | 9 | 27 | 108 | Average of 2 customer EBRs per month, with 4 hours for each (1 hour for call, 3 hours prep) |
+| Account planning | 3 | 13 | 39 | 156 | [Success planning](/handbook/customer-success/csm/success-plans/), long-term strategy, [expansion opportunities](/handbook/customer-success/csm/stage-enablement-and-expansion/), etc. |
+| [Webinars & workshops](/handbook/customer-success/csm/workshops/) | 1 | 4 | 12 | 48 | 1 webinar and 1 workshops per month, 2 hours each (1 hour for call, 1 hour prep) |
 | Adhoc customer requests | 2 | 9 | 27 | 108 | Responding to customer emails and questions |
 | Customer outreach | 2 | 9 | 27 | 108 | Reaching out to customers proactively (upcoming webinars, features, etc.) |
-| [Gainsight work](https://about.gitlab.com/handbook/customer-success/csm/gainsight/) | 2 | 9 | 27 | 108 | Logging updates and maintenance |
+| [Gainsight work](/handbook/customer-success/csm/gainsight/) | 2 | 9 | 27 | 108 | Logging updates and maintenance |
 | Special projects | 3 | 13 | 39 | 156 | [OKRs](https://gitlab.com/gitlab-com/customer-success/okrs/-/issues), team- and org-level initiatives, etc. |
 | [Professional development](/handbook/people-group/learning-and-development/) | 3 | 13 | 39 | 156 | GitLab product learning, courses, programs, certifications, etc. |
-| [Renewals](https://about.gitlab.com/handbook/customer-success/csm/renewals/) | 1 | 4 | 12 | 48 | Roughly 1 hour per customer for annual renewal |
-| Internal meetings |  3 | 13 | 39 | 156 | Team meetings, [1:1s](/handbook/leadership/1-1/), [account team](https://about.gitlab.com/handbook/customer-success/account-team/) syncs, etc. |
+| [Renewals](/handbook/customer-success/csm/renewals/) | 1 | 4 | 12 | 48 | Roughly 1 hour per customer for annual renewal |
+| Internal meetings |  3 | 13 | 39 | 156 | Team meetings, [1:1s](/handbook/leadership/1-1/), [account team](/handbook/customer-success/account-team/) syncs, etc. |
 | Review [release blog posts](/releases/categories/releases/) | 0.25 | 1 | 3 | 12 | 1 hour per release reviewing new features & functionality as well as deprecations |
 | **Total hours spent** | 31.25 | 136 | 408 | 1632 |  |
 
-In addition to the work spent for each task, this framework assumes team members will take 56 days or 448 hours of [PTO](/handbook/paid-time-off/) per year, which includes holidays, [Family & Friends days](/handbook/company/family-and-friends-day/), vacation, sick time, etc., but this is not a requirement, and team members are able and encouraged to take as much PTO as they'd like, as long as they follow our company and [team](https://about.gitlab.com/handbook/customer-success/csm/pto/) guidelines.
+In addition to the work spent for each task, this framework assumes team members will take 56 days or 448 hours of [PTO](/handbook/paid-time-off/) per year, which includes holidays, [Family & Friends days](/handbook/company/family-and-friends-day/), vacation, sick time, etc., but this is not a requirement, and team members are able and encouraged to take as much PTO as they'd like, as long as they follow our company and [team](/handbook/customer-success/csm/pto/) guidelines.
 
 ## Gainsight
 
 Gainsight plays a huge role in ensuring CSMs are equipped and able to manage their books of business.
 
-For general guidance on using Gainsight, please refer to the [CSM handbook page](https://about.gitlab.com/handbook/customer-success/csm/gainsight/).
+For general guidance on using Gainsight, please refer to the [CSM handbook page](/handbook/customer-success/csm/gainsight/).
 
 However, the Commercial team has some specific usage of Gainsight, outlined below.
 
 ### Timeline
 
-[Timeline](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/) entries are one of the most important elements of Gainsight for the Commercial team. CSMs need to stay up to date on adding Timeline entries (within 3 business days of the call occurring), in order to ensure their metrics are accurate and we have a pulse on customer health, persona involvement, and overall engagement.
+[Timeline](/handbook/customer-success/csm/gainsight/timeline/) entries are one of the most important elements of Gainsight for the Commercial team. CSMs need to stay up to date on adding Timeline entries (within 3 business days of the call occurring), in order to ensure their metrics are accurate and we have a pulse on customer health, persona involvement, and overall engagement.
 
 To ensure your calls are logged correctly, make sure to select `Customer Call` as the type, unless you are hosting a workshop, in which case choose `Workshop`.
 
@@ -168,11 +168,11 @@ Whenever a customer's health changes (positively or negatively), always also log
 
 ### Success Plans
 
-Customer [success plans](https://about.gitlab.com/handbook/customer-success/csm/success-plans/) are created and maintained inside of Gainsight. When a customer purchases GitLab, Gainsight will automatically create a minimal success plan that copies over some information from the Salesforce pre-sales [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/).
+Customer [success plans](/handbook/customer-success/csm/success-plans/) are created and maintained inside of Gainsight. When a customer purchases GitLab, Gainsight will automatically create a minimal success plan that copies over some information from the Salesforce pre-sales [Command Plan](/handbook/sales/command-of-the-message/command-plan/).
 
 When a customer purchases, the primary goal of both the customer and the CSM is to get them enabled and adopted on their primary use case. For example, if they purchased GitLab for our SCM capabilities, we both want to make sure they are successful within SCM so that they get their full ROI! Once they have fully adopted their primary use case, we can then explore additional areas of adoption that will further their ROI and improve their overall DevSecOps workflows.
 
-As a result, every customer should have one objective directly related to the adoption of the use case we're currently trying to enable. At purchase, that objective should be the enablement playbook for whichever use case they purchased. Once they are "green" in that use case, the CSM should close that objective as a success and open a new objective that is an expansion for the next stage in the [customer adoption journey](https://about.gitlab.com/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) GitLab has identified.
+As a result, every customer should have one objective directly related to the adoption of the use case we're currently trying to enable. At purchase, that objective should be the enablement playbook for whichever use case they purchased. Once they are "green" in that use case, the CSM should close that objective as a success and open a new objective that is an expansion for the next stage in the [customer adoption journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) GitLab has identified.
 
 The enablement and expansion objectives should always utilize the pre-built adoption playbooks. It's possible to customize the playbooks after applying them if needed, but try to adhere to the guidelines, both to follow the established path towards to success but also to save your own time. If you find that the playbook isn't working, please open an issue in the [CS Operations project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues) with your suggestions on what should be changed and tag your manager.
 
@@ -180,10 +180,10 @@ It's acceptable for success plans to have more than one objective which may or m
 
 ### CTAs
 
-The [Cockpit](https://about.gitlab.com/handbook/customer-success/csm/gainsight/ctas/#cockpit) houses all call-to-actions and success plan objectives that are assigned to CSMs. However, it can get very noisy and it's easy to get CTA-fatigue. To help avoid this, it's recommended for all Commercial CSMs to make the following adjustments in their Cockpit:
+The [Cockpit](/handbook/customer-success/csm/gainsight/ctas/#cockpit) houses all call-to-actions and success plan objectives that are assigned to CSMs. However, it can get very noisy and it's easy to get CTA-fatigue. To help avoid this, it's recommended for all Commercial CSMs to make the following adjustments in their Cockpit:
 
 1. At the top right where it says `Due Date`, click the dropdown and select `Type`.
-   - This will organize your CTAs into different categories which will make triaging them easier; refer to the handbook page on [different types of CTAs](https://about.gitlab.com/handbook/customer-success/csm/gainsight/ctas/#types-of-ctas).
+   - This will organize your CTAs into different categories which will make triaging them easier; refer to the handbook page on [different types of CTAs](/handbook/customer-success/csm/gainsight/ctas/#types-of-ctas).
    - In your Cockpit, you'll now have categories where CTAs are automatically sorted into.
       - `Activity` will show:
           - Any action items (`to-do`) you add to timeline entries

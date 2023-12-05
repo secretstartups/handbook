@@ -17,7 +17,7 @@ The professional services practice management team is responsible for maturing [
 ## Functional Areas
 
 1. **Channel Solutions Management** - scaling service selling and delivery through channel partner leveraged approach.
-1. **Engagement Management** - positioning, selling, scoping and coordinating sigature of customer engagements. Check out the [Engagement Management page](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/) for more information
+1. **Engagement Management** - positioning, selling, scoping and coordinating sigature of customer engagements. Check out the [Engagement Management page](/handbook/customer-success/professional-services-engineering/engagement-mgmt/) for more information
 1. **Practice Management** - building, maintaining, and bringing to market service offerings to be sold and delivered by GitLab PS and our partners. Also, improving back-office processes to decrease overall cost of revenue.
 
 ## Meet the team - Lets Chat!

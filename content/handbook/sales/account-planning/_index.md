@@ -23,7 +23,7 @@ The SAE should think about account planning as if they were the CEO of their own
 
 ## Why Account Planning?
 
-Account planning helps the SAE and the larger account team elevate opportunity-driven conversations into value-based conversations that focus on the customer's [value drivers](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers). Good account plans help the team focus on what matters to earn strategic partner status with the customer which, in turn, will drive increased share of wallet and predictable growth. Account planning is NOT about creating a report for management--it's about helping the team create a strategic plan for long-term customer growth and retention.
+Account planning helps the SAE and the larger account team elevate opportunity-driven conversations into value-based conversations that focus on the customer's [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers). Good account plans help the team focus on what matters to earn strategic partner status with the customer which, in turn, will drive increased share of wallet and predictable growth. Account planning is NOT about creating a report for management--it's about helping the team create a strategic plan for long-term customer growth and retention.
 
 An effective account plan defines a clear strategy and action plan to grow and expand customer relationships and will help the SAE and the team:
 
@@ -39,7 +39,7 @@ The account plan focuses on the account team's strategy to win, retain, and expa
 
 ### What is the Difference Between an Account Plan and an Opportunity Plan?
 
-The opportunity plan (aka the [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/)) outlines the strategy for closing business related to a single budgeted customer initiative. In contrast, the account plan is a more comprehensive, holistic, organization-wide strategy and action plan for earning the trust and respect of the customer. This is achieved by delivering value to the customer over and over again. Unlike opportunity plans, account plans span multiple customer engagements and lines of business across the account over a longer period of time and may include actions that don't directly align to revenue (e.g. customer appreciation initiatives, other).
+The opportunity plan (aka the [Command Plan](/handbook/sales/command-of-the-message/command-plan/)) outlines the strategy for closing business related to a single budgeted customer initiative. In contrast, the account plan is a more comprehensive, holistic, organization-wide strategy and action plan for earning the trust and respect of the customer. This is achieved by delivering value to the customer over and over again. Unlike opportunity plans, account plans span multiple customer engagements and lines of business across the account over a longer period of time and may include actions that don't directly align to revenue (e.g. customer appreciation initiatives, other).
 
 ## Types of Account Plans
 
@@ -51,7 +51,7 @@ Choose the "Land Account Plan" template in Gainsight. The team will not have as 
 
 ### Expand Account plans
 
-Choose the "Expand Account Plan" template in Gainsight. Separate from the Expand Account Plan, CSM may have a private success plans, called an [Internal Success Plan](https://about.gitlab.com/handbook/customer-success/csm/success-plans/#expansion-internal-only-success-plan). This Internal Account Plan is for the CSM to track their own objetives related to driving product adoption, including primary use cases and expanded use cases (e.g., expanding into CI or DevSecOps). For example, she/he may be working a plan to get the CI team engaged to adopt CI so there may be internal GitLab objectives.
+Choose the "Expand Account Plan" template in Gainsight. Separate from the Expand Account Plan, CSM may have a private success plans, called an [Internal Success Plan](/handbook/customer-success/csm/success-plans/#expansion-internal-only-success-plan). This Internal Account Plan is for the CSM to track their own objetives related to driving product adoption, including primary use cases and expanded use cases (e.g., expanding into CI or DevSecOps). For example, she/he may be working a plan to get the CI team engaged to adopt CI so there may be internal GitLab objectives.
 
 ## Components of an Account Plan
 
@@ -68,7 +68,7 @@ Basic account details should already be entered into SalesForce. The purpose of 
 
 Start at a high level, for example:
 
-1. What are the organization's goals and the prioritized strategic initiatives aligned to each goal? What [value drivers](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers) are most important and why?
+1. What are the organization's goals and the prioritized strategic initiatives aligned to each goal? What [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) are most important and why?
 1. What macro environment factors are affecting the organization (e.g. market conditions, competition, regulatory and compliance changes, etc.) and what impact and implications do these factors have on the organization's business strategy?
 1. Who are the organization's primary competitors and how does the organization plan to maintain and/or grow market share?
 1. What are the biggest risks facing the organization (for short, medium, and longer term time horizons) that may get in the way of the customer achieving their goals?
@@ -132,7 +132,7 @@ Lastly, one of the fundamental benefits of an account plan is to figure out what
 
 ### Step 1: Account Prioritization
 
-Rather than building an account plan for each and every one of your accounts, it is recommended that you prioritize your accounts with a process sometimes called [Territory Planning](https://about.gitlab.com/handbook/sales/territory-planning/). Ideally, focus your efforts on building up to three account plans at one time. A limited number of thoughtful and robust account plans for the most strategic accounts is a much better approach than spreading yourself too thin by trying to create, manage, and maintain a large number of account plans.
+Rather than building an account plan for each and every one of your accounts, it is recommended that you prioritize your accounts with a process sometimes called [Territory Planning](/handbook/sales/territory-planning/). Ideally, focus your efforts on building up to three account plans at one time. A limited number of thoughtful and robust account plans for the most strategic accounts is a much better approach than spreading yourself too thin by trying to create, manage, and maintain a large number of account plans.
 
 ### Step 2: Build the Account Profile
 
@@ -177,7 +177,7 @@ Account plans are living documents and are never truly complete. Plans will cont
 - What can we measure?
 - Have I verified my understanding with my champion?
 
-If a Customer Success Manager is assigned to this customer, check in with them on their [Success Plan](https://about.gitlab.com/handbook/customer-success/csm/success-plans/#overview) and ask if they are planning any [Executive Business Reviews](https://about.gitlab.com/handbook/customer-success/csm/ebr/). These documents can help validate the account plan and determine if the vision is aligned with each customer's goals.
+If a Customer Success Manager is assigned to this customer, check in with them on their [Success Plan](/handbook/customer-success/csm/success-plans/#overview) and ask if they are planning any [Executive Business Reviews](/handbook/customer-success/csm/ebr/). These documents can help validate the account plan and determine if the vision is aligned with each customer's goals.
 
 A quarterly cadence to review and update plans can help to ensure that plans reflect our current understanding of the account and keep the account team aligned on plan strategy and execution. Major changes such as personnel changes, mergers/aquisitions, and competitive threats may trigger immediate review and updates. Structured review sessions can help keep the account team aligned and keep leadership informed of changes involving customers.
 

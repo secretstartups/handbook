@@ -45,7 +45,7 @@ The Strategy and Priorities Page (in Gdrive, search for "FY24 Customer Success P
 
 ## Product Usage Data
 
-Product usage data is key to driving customer and GitLab outcomes by providing visibility to customers' adoption of licenses, use cases, and capabilities. For more about how we use and plan to use this data, please see our ["Product Usage Data Vision" page](https://about.gitlab.com/handbook/customer-success/product-usage-data/).
+Product usage data is key to driving customer and GitLab outcomes by providing visibility to customers' adoption of licenses, use cases, and capabilities. For more about how we use and plan to use this data, please see our ["Product Usage Data Vision" page](/handbook/customer-success/product-usage-data/).
 
 ## Lifecycle Stages
 
@@ -61,7 +61,7 @@ Each customer deployment will go through the following lifecycle stages.
 1. the customer is successfully adopting the capabilities or use cases from their original purchase intent.
 
 These will be measured according to product analytics (if available) or through agreement with the customer.
-We define the adoption of a use case using the criteria established in our [Customer Use Case Adoption](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/) page.
+We define the adoption of a use case using the criteria established in our [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/) page.
 
 **Optimize and Grow**: The objective is to enable the customer to get additional value from the GitLab platform. This is achieved through the adoption of additional features, use cases and/or stages, deeper process and operational integration in a customer's environment, optimization of application performance and availability, expansion into additional teams, and additional application of GitLab and DevOps best practices. The customer will remain in this stage as long as the customer continues to renew. The maturity of the customer will be tracked by product analytics (if available) or by collecting feedback from the customer on use cases adopted.
 
@@ -91,7 +91,7 @@ The intention, both of the P.R.O.V.E. components and overall philosophy, is that
 
 ![Customer Health Vision](images/customer-health-score-vision.jpeg)
 
-For a detailed description of Customer Health and Early Warning System methodology, see [Customer Health Scoring](https://about.gitlab.com/handbook/customer-success/customer-health-scoring/). This will include the methodology around how we score the health of accounts, along with how we enable the team toward a proactive renewal approach.
+For a detailed description of Customer Health and Early Warning System methodology, see [Customer Health Scoring](/handbook/customer-success/customer-health-scoring/). This will include the methodology around how we score the health of accounts, along with how we enable the team toward a proactive renewal approach.
 
 
 ### Retention and Reasons for Churn

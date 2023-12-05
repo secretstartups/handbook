@@ -38,7 +38,7 @@ The Associate Strategic Account Executive is a [grade 8](/handbook/total-rewards
 - Develop an account plan to sell to customers based on their business needs.
 - Works cross functionally with other teams to ensure customer success
 - Update and maintain Sales systems’ database as appropriate
-- Contribute to documenting improvements in our [sales handbook](https://about.gitlab.com/handbook/sales/).
+- Contribute to documenting improvements in our [sales handbook](/handbook/sales/).
 
 ### Requirements
 
@@ -61,7 +61,7 @@ The Strategic Account Executive is a [grade 8](/handbook/total-rewards/compensat
 
 ### Responsibilities
 
-- Supports GitLab’s [strategic large](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#segmentation) prospects and customers.
+- Supports GitLab’s [strategic large](/handbook/sales/field-operations/gtm-resources/#segmentation) prospects and customers.
 - Provide account leadership and direction in the pre- and post-sales process
 - Conduct sales activities including prospecting and developing opportunities in large/strategic accounts
 - Ensure the successful rollout and adoption of GitLab products through strong account management activities and coordination with pre-and-post sales and support resources

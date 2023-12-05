@@ -37,14 +37,14 @@ Check out our team of Engagement Managers on our [team page](/handbook/company/t
 ## How to contact or collaborate with us
 
 - Create a scoping issue using the [Services Calculator](https://services-calculator.gitlab.io) to request scoping support for a specific customer opportunity
-- [Slack](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/working-with/#slack) for informal and general questions, coordination
+- [Slack](/handbook/customer-success/professional-services-engineering/working-with/#slack) for informal and general questions, coordination
 - Salesforce Chatter for approvals, discussion of opportunity status, or collaboration with sales leadership and legal.
 
 ## Useful Resources
 
-- [Services to Accelerate Customer Adoption](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/sales-enablement/)
-- [Selling Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/)
-- [Professional Services Offering Framework](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/framework/)
+- [Services to Accelerate Customer Adoption](/handbook/customer-success/professional-services-engineering/sales-enablement/)
+- [Selling Professional Services](/handbook/customer-success/professional-services-engineering/selling/)
+- [Professional Services Offering Framework](/handbook/customer-success/professional-services-engineering/framework/)
 - [Services Calculator](https://services-calculator.gitlab.io)
 - [Certified GitLab Engagement Manager Learning Journey](gitlab-certified-engagement-manager)
 - [Main Customer Slide Template](https://gitlab.highspot.com/items/629a6d7cf089bbaa9e0d4fa7?lfrm=srp.0)
@@ -55,5 +55,5 @@ Check out our team of Engagement Managers on our [team page](/handbook/company/t
 - [Tracking Professional Services Opportunities](tracking-opps/)
 - [Engagement Scoping Information](scoping-information/)
 - [SOW Creation](sow-processing/)
-- [Quote Creation process for opportunities with both Custom Services and Fixed Price Training on a single SOW](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#creating-a-professional-services-quote-for-scopedcustom-education-or-services)
+- [Quote Creation process for opportunities with both Custom Services and Fixed Price Training on a single SOW](/handbook/sales/field-operations/sales-operations/deal-desk/#creating-a-professional-services-quote-for-scopedcustom-education-or-services)
 - [Transacting ProServ business through AWS Marketplace](aws-marketplace/)

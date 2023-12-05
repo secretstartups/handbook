@@ -38,9 +38,9 @@ The Junior Sales Commissions Analyst is a [grade 5](/handbook/total-rewards/comp
 
 #### Performance Indicators
 
-- [IACV](https://about.gitlab.com/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan
-- [IACV efficiency](https://about.gitlab.com/handbook/sales/#iacv-efficiency-ratio)
-- Rep [IACV per comp](https://about.gitlab.com/handbook/sales/#measuring-sales-rep-productivity)
+- [IACV](/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan
+- [IACV efficiency](/handbook/sales/#iacv-efficiency-ratio)
+- Rep [IACV per comp](/handbook/sales/#measuring-sales-rep-productivity)
 
 ### Intermediate Sales Commissions Analyst
 
@@ -74,9 +74,9 @@ The Intermediate Sales Commissions Analyst is a [grade 6](/handbook/total-reward
 
 #### Performance Indicators
 
-- [IACV](https://about.gitlab.com/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan
-- [IACV efficiency](https://about.gitlab.com/handbook/sales/#iacv-efficiency-ratio)
-- Rep [IACV per comp](https://about.gitlab.com/handbook/sales/#measuring-sales-rep-productivity)
+- [IACV](/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan
+- [IACV efficiency](/handbook/sales/#iacv-efficiency-ratio)
+- Rep [IACV per comp](/handbook/sales/#measuring-sales-rep-productivity)
 
 ### Senior Sales Commissions Analyst
 
@@ -110,9 +110,9 @@ The Senior Sales Commissions Analyst is a [grade 7](/handbook/total-rewards/comp
 
 #### Performance Indicators
 
-- [IACV](https://about.gitlab.com/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan
-- [IACV efficiency](https://about.gitlab.com/handbook/sales/#iacv-efficiency-ratio)
-- Rep [IACV per comp](https://about.gitlab.com/handbook/sales/#measuring-sales-rep-productivity)
+- [IACV](/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan
+- [IACV efficiency](/handbook/sales/#iacv-efficiency-ratio)
+- Rep [IACV per comp](/handbook/sales/#measuring-sales-rep-productivity)
 
 ### Senior Manager, Sales Commissions
 
@@ -150,9 +150,9 @@ The Senior Manager, Sales Commissions is a [grade 9](/handbook/total-rewards/com
 
 #### Performance Indicators
 
-- [IACV](https://about.gitlab.com/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan
-- [IACV efficiency](https://about.gitlab.com/handbook/sales/#iacv-efficiency-ratio)
-- Rep [IACV per comp](https://about.gitlab.com/handbook/sales/#measuring-sales-rep-productivity)
+- [IACV](/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan
+- [IACV efficiency](/handbook/sales/#iacv-efficiency-ratio)
+- Rep [IACV per comp](/handbook/sales/#measuring-sales-rep-productivity)
 
 ## Career Ladder
 

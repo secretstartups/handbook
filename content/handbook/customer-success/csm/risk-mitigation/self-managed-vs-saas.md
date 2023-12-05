@@ -7,7 +7,7 @@ title: "Helping Customers Decide to Migrate to SaaS"
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ---
 
@@ -30,7 +30,7 @@ If a customer poses an interest in moving to SaaS, it is important that they kno
 
 1. Identify decision-maker for moving to SaaS
 1. Optional: Identify security team contact
-1. Ask [Discovery Questions](https://about.gitlab.com/handbook/customer-success/csm/risk-mitigation/self-managed-vs-saas/#discovery-questions) on cadence call
+1. Ask [Discovery Questions](/handbook/customer-success/csm/risk-mitigation/self-managed-vs-saas/#discovery-questions) on cadence call
 1. Suggest a Self Managed vs. SaaS comparison discussion on next cadence call
 1. Conduct offer comparison discussion using [slide deck template](https://docs.google.com/presentation/d/1mNCUCNgtxwXsINjpHxYK32os9D6JLJ9oGIuISCANPtY/edit?usp=sharing)
 1. Follow up with decision maker on move to SaaS

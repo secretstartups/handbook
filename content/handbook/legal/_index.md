@@ -66,7 +66,7 @@ The Risk Management and Dispute Resolution team addresses dispute resolution acr
 - [Corporate Communication Policy](/handbook/legal/corporate-communications/)
 - [Employee Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/)
 - [GitLab Terms of Service](https://about.gitlab.com/terms/)
-- [Insider Trading Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk)*
+- [Insider Trading Policy](https://drive.google.com/file/d/184tkDZaPmZAxwQRQ5BwBv2JpfTWbWmBW/view?usp=sharing)*
 - [Internal Acceptable Use Policy](/handbook/people-group/acceptable-use-policy/)
 - [Modern Slavery Act Transparency Statement](/handbook/legal/modern-slavery-act-transparency-statement/)
 - [Partner Code of Ethics](/handbook/legal/partner-code-of-ethics/)

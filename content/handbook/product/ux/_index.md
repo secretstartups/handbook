@@ -124,7 +124,7 @@ To understand the specific challenges faced by the UX Department, we hold an asy
 
 ### UX Showcases
 
-<%= data.ux_showcase.about %>
+{{% ux-showcase %}}
 
 ## Meet some of our team members
 

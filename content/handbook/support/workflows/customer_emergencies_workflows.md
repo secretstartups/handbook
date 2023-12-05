@@ -60,14 +60,14 @@ Take and share screenshots of useful info the customer is showing you. Make sure
 
 According to our [definition of Severity 1](https://about.gitlab.com/support/definitions/#severity-1) an emergency exists when a "GitLab server or cluster in production is not available, or otherwise unusable". In the event that the situation does not clearly qualify under the strict definition of emergency, an exception may be granted.
 
-We [assume positive intent](/handbook/values/#assume-positive-intent) and use our [criteria for exceptions](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria) in the [Emergency Exception Workflow](/handbook/support/workflows/emergency_exception_workflow.html) as a framework for understanding the business impact of situations customers raise. During any crisis, the customer may be stressed and have immense pressure on them. Later, after the crisis, if we've determined that the ticket didn't strictly qualify as an emergency, the CSM for the customer or a Support Manager can discuss that with the customer.
+We [assume positive intent](/handbook/values/#assume-positive-intent) and use our [criteria for exceptions](/handbook/support/workflows/emergency_exception_workflow#exception-criteria) in the [Emergency Exception Workflow](/handbook/support/workflows/emergency_exception_workflow) as a framework for understanding the business impact of situations customers raise. During any crisis, the customer may be stressed and have immense pressure on them. Later, after the crisis, if we've determined that the ticket didn't strictly qualify as an emergency, the CSM for the customer or a Support Manager can discuss that with the customer.
 
 | When you decide the request... | Then apply the Zendesk macro... | and communicate to the customer... |
 | ------------------------------ | ------------------------------- | ---------------------------------- |
 | ...meets the [definition of Severity 1](https://about.gitlab.com/support/definitions/#severity-1), | `General::Emergency::Strict Definition` | ...your plan to work the emergency. |
 | ...qualifies under one of our [exception criteria](/handbook/support/workflows/emergency_exception_workflow#exception-criteria), | `General::Emergency::Exception` | ...that the situation is being treated as an emergency as a courtesy. |
 | ...needs more information to allow us to determine whether it qualifies as an emergency, | `General::Emergency::Needs more info` | ...that you [will proceed asynchronously](#communicating-that-you-need-more-info) until that determination can be made. |
-| ...does not meet the criteria for an [emergency](https://about.gitlab.com/support/definitions/#severity-1) or an [exception](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria), | `General::Emergency::Not an Emergency` | ...that their situation [does not qualify for emergency service](#communicate-the-priority-downgrade). |
+| ...does not meet the criteria for an [emergency](https://about.gitlab.com/support/definitions/#severity-1) or an [exception](/handbook/support/workflows/emergency_exception_workflow#exception-criteria), | `General::Emergency::Not an Emergency` | ...that their situation [does not qualify for emergency service](#communicate-the-priority-downgrade). |
 
 #### Communicating that you need more info
 
@@ -233,7 +233,7 @@ When the call has ended:
 1. Write post-call notes (using macro [`Support::Customer Calls::Call Completed - Summary`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360028010274)) relevant to the customer in a public reply on the ticket.
 1. Add all relevant internal-only information as an internal note on the ticket.
 1. Tag the next on-call engineer in the emergency's Slack thread.
-1. Review the guidance in the general [On-call - Ending your on-call shift](/handbook/support/on-call/index.html#ending-your-on-call-shift) section and follow the relevant steps.
+1. Review the guidance in the general [On-call - Ending your on-call shift](/handbook/support/on-call/index#ending-your-on-call-shift) section and follow the relevant steps.
 
 #### When the customer incident is not resolved
 
@@ -317,7 +317,7 @@ To trigger a developer escalation, see [this process outline](https://about.gitl
 
 ### During the week
 
-For license emergencies during the week, reach out to [`#support_licensing-subscription`](https://gitlab.slack.com/archives/C018C623KBJ) and ask for an expert there to handle the case. Ping the current [Support Manager On-call](/handbook/support/workflows/support_manager-on-call.html) in your request so they can ensure it gets picked up. Once pinged, the Support Manager On-call is the DRI for ensuring the emergency gets handled.
+For license emergencies during the week, reach out to [`#support_licensing-subscription`](https://gitlab.slack.com/archives/C018C623KBJ) and ask for an expert there to handle the case. Ping the current [Support Manager On-call](/handbook/support/workflows/support_manager-on-call) in your request so they can ensure it gets picked up. Once pinged, the Support Manager On-call is the DRI for ensuring the emergency gets handled.
 
 ### On a weekend
 
@@ -503,7 +503,7 @@ If a customer submits an emergency case outside the [working hours of Government
 
 ## GitLab Dedicated Emergencies
 
-Emergencies from [GitLab Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/) come through the Customer Emergency On Call rotation. The [GitLab Dedicated Handbook](/handbook/support/workflows/dedicated.html) has information about [working with logs](/handbook/support/workflows/dedicated_logs.html) and a section on [escalating emergency issues](/handbook/support/workflows/dedicated.html#escalating-an-emergency-issue).
+Emergencies from [GitLab Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/) come through the Customer Emergency On Call rotation. The [GitLab Dedicated Handbook](/handbook/support/workflows/dedicated) has information about [working with logs](/handbook/support/workflows/dedicated_logs) and a section on [escalating emergency issues](/handbook/support/workflows/dedicated#escalating-an-emergency-issue).
 
 ## Special handling notes
 

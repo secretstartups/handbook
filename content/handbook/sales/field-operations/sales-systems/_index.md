@@ -24,10 +24,10 @@ Below is a list of the different technical skill sets found on the Sales System 
 | [Business Systems Engineer](/job-families/sales/business-systems-engineer/) | Software engineer experienced in Salesforce.com platform APEX development, API based integrations, and the software development life cycle. |
 
 ## Technical Documentation
-- [Go-To-Market Technical Documentation](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/)
-- [Go-To-Market Integrated Environments](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-integrated-environments/)
-- [License Usage App Documentation](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/license-usage-app/)
-- [Salesforce Configuration Documentation](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/salesforce-config/)
+- [Go-To-Market Technical Documentation](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/)
+- [Go-To-Market Integrated Environments](/handbook/sales/field-operations/sales-systems/gtm-integrated-environments/)
+- [License Usage App Documentation](/handbook/sales/field-operations/sales-systems/license-usage-app/)
+- [Salesforce Configuration Documentation](/handbook/sales/field-operations/sales-systems/salesforce-config/)
 - [Lead Source Master Data Set](/handbook/marketing/marketing-operations/#initial-source)
 - [Salesforce Dataloader Install/Uninstall/Upgrade Instructions](dataloader-installation.html)
 
@@ -49,17 +49,17 @@ Below is a list of the different technical skill sets found on the Sales System 
 2. In order to align our working style with the Labels, the Systems team prioritizes working on issues in the order as they get added & the issues get labelled accordingly
 3. The Systems Label Workflow and Label Description are as follows
 
-      ![The Systems Label Workflow](https://about.gitlab.com/handbook/sales/images/Systemsworkflow.png)
+      ![The Systems Label Workflow](/handbook/sales/images/Systemsworkflow.png)
 
-      - ![Sales Systems](https://about.gitlab.com/handbook/sales/images/Salessystems.png) New Issues that are created in the systems board are automatically tagged and any existing issues related to sales systems are tagged with this label
-      - ![Need More Information](https://about.gitlab.com/handbook/sales/images/SSNeedinformation.png) Issues awaiting for information from the requester, needs more clarity in requirements may or may not be assigned to milestone and assigned to the DRI and/or systems team member
-      - ![Out Of Scope](https://about.gitlab.com/handbook/sales/images/SSOutscope.png) Issues that are outside the parameters of an initiative, cannot be combined with current functionality and this issue will be closed
-      - ![Ready For Assignment](https://about.gitlab.com/handbook/sales/images/SSReadyassingment.png) Issues that have completed requirements gathering and been accepted, no milestone and not assigned to systems team member
-      - ![Assigned](https://about.gitlab.com/handbook/sales/images/SSAssign.png) Issues that are ready to moveforward to be worked on, slotted to a milestone & assigned to systems team member's queue
-      - ![Build](https://about.gitlab.com/handbook/sales/images/SSBuild.png) Issues that are in the current milestone, assigned to systems team member that are actively worked on
-      - ![Ready To Business Owner Review](https://about.gitlab.com/handbook/sales/images/SSBusinessowner.png) Issues in current milestone that are near the finish line, needs to be reviewed and demoed to the business owner(s) to sign-off
-      - ![Ready To Deploy](https://about.gitlab.com/handbook/sales/images/SSReadydeploy.png) Issues in current milestones, sign-offs given by the business owner that are ready to be deployed by systems team member
-      - ![Blocked](https://about.gitlab.com/handbook/sales/images/SSBlocked.png) Issues in the current milestone which are assigned to systems team member which are stalled due to technical difficulties and/or assigned to business owner pending to provide information to the systems member to move forward
+      - ![Sales Systems](/handbook/sales/images/Salessystems.png) New Issues that are created in the systems board are automatically tagged and any existing issues related to sales systems are tagged with this label
+      - ![Need More Information](/handbook/sales/images/SSNeedinformation.png) Issues awaiting for information from the requester, needs more clarity in requirements may or may not be assigned to milestone and assigned to the DRI and/or systems team member
+      - ![Out Of Scope](/handbook/sales/images/SSOutscope.png) Issues that are outside the parameters of an initiative, cannot be combined with current functionality and this issue will be closed
+      - ![Ready For Assignment](/handbook/sales/images/SSReadyassingment.png) Issues that have completed requirements gathering and been accepted, no milestone and not assigned to systems team member
+      - ![Assigned](/handbook/sales/images/SSAssign.png) Issues that are ready to moveforward to be worked on, slotted to a milestone & assigned to systems team member's queue
+      - ![Build](/handbook/sales/images/SSBuild.png) Issues that are in the current milestone, assigned to systems team member that are actively worked on
+      - ![Ready To Business Owner Review](/handbook/sales/images/SSBusinessowner.png) Issues in current milestone that are near the finish line, needs to be reviewed and demoed to the business owner(s) to sign-off
+      - ![Ready To Deploy](/handbook/sales/images/SSReadydeploy.png) Issues in current milestones, sign-offs given by the business owner that are ready to be deployed by systems team member
+      - ![Blocked](/handbook/sales/images/SSBlocked.png) Issues in the current milestone which are assigned to systems team member which are stalled due to technical difficulties and/or assigned to business owner pending to provide information to the systems member to move forward
 
 4. Please review the status of any issue on our agile [board.](https://gitlab.com/groups/gitlab-com/-/boards/1117318?label_name[]=SalesSystems)
 5. If there is a severity impacting the flow of business (i.e. No one can make a quote, No accounts are being created, Opportunities cannot be closed Won) follow the process as described above as well as share the issues in the `Sales-Support` Slack Channel
@@ -98,7 +98,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 or
 Sheela Viswanathan - Senior Manager, Sales Systems  |Al Champagne - Senior Director, Enterprise Applications | Nabitha Rao - VP, IT  |
 
-#### [Systems DRI] Add the correct `SalesSystems::Deployed - #` GitLab Label :- Once the issue has been deployed, the issue should be tagged with one of the following deploy label following the [SDLC - Software Development Life Cycle](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#salesforcecom-change-management-processes-and-sdlc-software-development-life-cycle) by the sales systems team member assigned to the issue.
+#### [Systems DRI] Add the correct `SalesSystems::Deployed - #` GitLab Label :- Once the issue has been deployed, the issue should be tagged with one of the following deploy label following the [SDLC - Software Development Life Cycle](/handbook/sales/field-operations/sales-systems/#salesforcecom-change-management-processes-and-sdlc-software-development-life-cycle) by the sales systems team member assigned to the issue.
 
 - SalesSystems::Deployed - 0 - No Changes
 - SalesSystems::Deployed - 1 - Settings Change
@@ -330,7 +330,7 @@ Sandboxes which are managed as part of our team's SDLC process will follow a reg
 3. Your SFDC Dev Environment is correctly pointed at your SFDC Dev Sandbox
 4. You have cloned our [Git repository](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src) into your local Sandbox working directory.
 5. You are working from a GitLab issue with clear technical specifications that deliver on the agreed business requirements.
-6. You have identified the priority of the request based on our [priority matrix](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/), and added the appropriate label: `Priority::Low`, `Priority::Medium`, `Priority::High`
+6. You have identified the priority of the request based on our [priority matrix](/handbook/sales/field-operations/sales-systems/), and added the appropriate label: `Priority::Low`, `Priority::Medium`, `Priority::High`
 
 **Change Managment Steps:**
 1. Make sure you start on branch master and `git pull`.
@@ -344,7 +344,7 @@ Sandboxes which are managed as part of our team's SDLC process will follow a reg
 9. Using the link provided by GitLab, open a merge request, [make it a `Draft:`](https://about.gitlab.com/handbook/git-page-update/#marking-a-merge-request-as-draft), and assign it to the Architect on the project.
 10. Comment on the related issue with an @ to the project's Architect for review, providing a link to the merge request. (this automatically links the merge request to the issue)
 11. The Architect (or assigned delegate) will assign the story a Change Management level, based on the scope of the change as defined [here](/handbook/business-technology/change-management/#change-request-types).
-12. You will then need to document that the appropriate approvals (as defined in the [Approval Matrix](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#approval-matrix) section below) have been completed in the issue.
+12. You will then need to document that the appropriate approvals (as defined in the [Approval Matrix](/handbook/sales/field-operations/sales-systems/#approval-matrix) section below) have been completed in the issue.
 13. If the Architect calls for a live demo, schedule the meeting and prep your sandbox to do a run through with the end customer.
 14. If the Architect calls for user acceptance testing, make sure the assigned testers have access to the sandbox where the work was done, and schedule testing.
 15. Once the solution passes, the Architect will remove the `WIP:` status and merge the change.
@@ -354,7 +354,7 @@ Sandboxes which are managed as part of our team's SDLC process will follow a reg
 19. Once the Change set validates, ping the Architect to schedule the deployment.
 20. After the deployment, perform any post deployment steps such as adding visibility to net new fields.
 21. Confirm with the end user that the functionality is working as expected.
-22. Create a merge request to our [technical documentation](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/) adding the new feature or editing the features entry.
+22. Create a merge request to our [technical documentation](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/) adding the new feature or editing the features entry.
 23. Before moving to your next task rebase with `git checkout master` then `git pull`. **Always be pulling!**
 24. Clone the merged change set that was deployed into production and push and deploy this change set to staging. (Post deploy steps and setup are optionable)
 
@@ -430,7 +430,7 @@ The uninstall process is the same regardless of whether a package is managed or 
 4. Prepend `[DEPRECATE]` to the beginning of the field name. If the field name cannot accommodate a field name that long copy and paste the original name into the description, trim unnecessary characters from the name and try again. For this reason `[DELETE]` is also acceptable to prepend to the field name.
 5. In Visual Studio Code, pull from master and perform a scan for each of the API names in the issue. If the field is used, investigate if the code can be updated as to not include this field.
 6. If code is updated in the previous step prepare a merge request and relate it to the issue.
-7. If your sandbox is out of date, [work with the Systems team to refresh it](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#sandbox-refreshes) so that any recent edits are included in the next step.
+7. If your sandbox is out of date, [work with the Systems team to refresh it](/handbook/sales/field-operations/sales-systems/#sandbox-refreshes) so that any recent edits are included in the next step.
 8. Push any updated code to your sandbox (if applicable) and start a change set.
 9. For all fields that are still eligible to be deprecated log into your sandbox and attempt to delete them one by one. Record any connection between any fields and any field updates, workflow rules, validation rules etc. (Reports, Report Types etc can be ignored in this step)
 10. Investigate any connections found in the previous steps and if the field can still be deleted.

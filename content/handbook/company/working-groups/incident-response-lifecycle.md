@@ -45,8 +45,8 @@ description: "The Incident Response Lifecyle working group is intended to docume
 
 1. SIRT
    - [Incident Response Guidance](/handbook/security/threat-management/vulnerability-management/incident-response-guidance.html)
-   - [Engaging Security Engineer On-Call](/handbook/security/security-operations/sirt/engaging-security-on-call.html)
-   - [GitLab SIRT On-Call Guide](/handbook/security/secops-oncall.html)
+   - [Engaging Security Engineer On-Call]({{< ref "engaging-security-on-call" >}})
+   - [GitLab SIRT On-Call Guide]({{< ref "secops-oncall" >}})
 1. [On-call](/handbook/on-call/)
 1. Reliability
    - [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/)

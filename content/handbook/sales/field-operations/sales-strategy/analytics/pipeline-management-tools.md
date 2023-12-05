@@ -37,7 +37,7 @@ Pipeline is the sum of all open sales opportunities and is one of the key metric
 
 #### Pipeline Coverage Calculation
 
-Pipeline coverage is a ratio between our pipeline and our business target. We track pipeline coverage at different [stages](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-stages/) of the sales funnel for current and future quarters.
+Pipeline coverage is a ratio between our pipeline and our business target. We track pipeline coverage at different [stages](/handbook/sales/field-operations/gtm-resources/#opportunity-stages/) of the sales funnel for current and future quarters.
 We calculate historical pipeline coverages (to actuals) and use them as a baseline to compare with our current (and future) quarters coverage. That way, we can answer the question "Do we have enough pipeline?" with confidence.
 
 ##### Pipeline Coverage against Remainder to Target
