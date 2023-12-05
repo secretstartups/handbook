@@ -1,16 +1,7 @@
 ---
-
 title: "Staging Monitoring"
 description: "How Staging is monitored and how traffic is generated"
 ---
-
-
-
-
-
-
-
-## Staging Monitoring
 
 [Staging environment](../../../engineering/infrastructure/environments/#staging) has the same [service-level monitoring rules as Production](../):
 
@@ -23,7 +14,7 @@ The goal of Staging Monitoring is to have SLO alerts that can be used to halt an
 
 Staging environment doesn't have as much user activity as Production since it doesn't have the same amount of real users. The environment is mostly used by test automation like [GitLab QA pipelines] and engineers who may test their code manually. These activities don't generate enough traffic so a custom load [emulation tool](#load-emulation) was designed to create artificial traffic to compensate for the lack of signal from real users.
 
-### Load emulation
+## Load emulation
 
 [CMBR](https://gitlab.com/gitlab-com/gl-infra/cmbr/) is a web-crawler that generates traffic on a target GitLab instance. It can generate traffic for these services: Web, API, Git, Registry and Pages.
 
@@ -36,13 +27,13 @@ Known limitations:
 - Staging environment has low specs in comparison to Production. Load needs to be tuned so that it doesn't break the environment.
 - Git traffic is HTTP-only [at the moment](#ongoing-work).
 
-#### Crawler configuration on Staging
+### Crawler configuration on Staging
 
 CMBR generates traffic for Staging using [scheduled pipelines](https://staging.gitlab.com/gitlab-com/gl-infra/cmbr-staging-load-generator/-/pipeline_schedules) for `gstg` and `cny-gstg`. The tool uses a dedicated user with auditor role to generate load and bypass rate limits (`Credentials for Staging Crawler` stored in 1Password `Engineering` vault).
 
 Throughput is controlled by environment variables and tuned differently for each service. It's worth noting that if load needs to be increased, Staging environment's performance should be considered and verified that it doesn't affect existing [GitLab QA pipelines]. Otherwise, it may bring intermittent errors in the test runs and affect the deployment.
 
-### Staging Service Monitoring
+## Staging Service Monitoring
 
 [Alertmanager](https://gitlab.com/gitlab-com/runbooks/-/tree/master/alertmanager) sends SLO alerts to [`#feed_alerts_staging`](https://gitlab.slack.com/archives/C029L5NMHH8) Slack channel if the Apdex score or Error rate is violated for specific service. Then Infrastructure team investigates the alert further.
 
@@ -58,7 +49,7 @@ More detailed information about service monitoring can be found on [Monitoring o
 
 If you have any questions about the current setup, please reach out to [`#f_staging_service_level_monitoring`](https://gitlab.slack.com/archives/C02TWDXDPPT) Slack channel.
 
-### Ongoing Work
+## Ongoing Work
 
 - Improving the quality of Staging SLO alerts - [epic#668](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/668)
 - Halt deployment to Production if Staging SLI degrades - [epic#771](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/771)
