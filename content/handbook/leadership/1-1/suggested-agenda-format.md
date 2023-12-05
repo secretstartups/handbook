@@ -2,7 +2,7 @@
 title: "Suggested 1:1 Agenda and Daily Standup Format"
 ---
 
-This page describes how [Sid]({{< ref "/handbook/ceo" >}}) formats his 1-1 agendas. 
+This page describes how [Sid]({{< ref "/handbook/ceo" >}}) formats his 1-1 agendas.
 If you are new to [1-1s](/handbook/leadership/1-1/) or not sure how to make your previous experience with 1-1s work in
 GitLab's culture, this can be a great starting place for you to learn.
 
