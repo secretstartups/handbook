@@ -2,12 +2,20 @@
 title: Technical Close Plan
 ---
 
-# Technical Close Plan
-
 A Technical Close Plan is an internal strategy that Solutions Architects can use to secure a technical win for a given opportunity. It is built off the information in the Command Plan and expands on it by including the customer’s desired business outcomes, notional architectures of the current and proposed states, key stakeholders, and known risks. This strategy can also be a subset of the Opportunity Plan created by AEs or live on its own.
 
-## Why use a Technical Close Plan 
+## Why Use a Technical Close Plan 
+### Primary Objectives
+1. Elevate technical evaluation conversations to align to critical business outcomes
+1. Accelerate technical win through clarity and alignment
+1. Build habits of proactively prescribing how GitLab uniquely partners with customers
+
 We can leverage a Technical Close Plan early in the sales process to help Solutions Architects and the sales team evaluate requirements for a technical win. After the command plan and technical discovery, we can build out the Technical Close Plan. This plan will drive our technical win strategies. It also can accelerate getting to a technical win because we align critical business outcomes to technical win conversations. This process can also aid in building habits of proactively prescribing how GitLab uniquely partners with customers.
+
+### How Does This Differ From a Customer Success Plan?
+A Technical Close Plan is primarily focused on opportunity rigor by capturing customer business outcomes and a plan to meet their needs, whereas a Customer Success Plan is primarily focused on successful customer adoption of GitLab after successfully evaluating GitLab against their needs.
+
+As both are customer-centric, the Technical Close Plan can and should feed into a Customer Success Plan. See [Converting to a Customer Success Plan](#converting-to-a-customer-success-plan) for more information.
 
 ## How to Build a Technical Close Plan
 
@@ -15,33 +23,53 @@ We can leverage a Technical Close Plan early in the sales process to help Soluti
 This [Google Drive Folder](https://drive.google.com/drive/folders/1nQaUD5l05eTN5Dttxuk5Lvr88oyyVDbT) contains the [Technical Close Plan](https://docs.google.com/presentation/d/1RFvOrf-aKXOzPBxLdlF5lkAnBLUTQlUNSFbWlVArA9o/edit?usp=sharing) starting template, an instructional walkthrough, and example Technical Close Plans as a reference. 
 
 ### Technical Close Plan Structure
-Within the template, the following primary slides will be found:
-- [Business Outcomes](#business-outcomes)
-- [Notional Architecture](#notional-architecture)
-- [Key Stakeholders](#key-stakeholders)
-- [Technical Win Plan](#technical-win-plan)
-- [Known Risks](#known-risks)
+The specific structure of a Technical Close Plan is not as relevant as the content and conversation. The primary focus areas should include:
+- [Business Outcomes](#business-outcomes) that describe what is valuable to the customer, using their 
+- [Key Stakeholders](#key-stakeholders) and how they align to the opportunity
+- [Notional Architecture](#notional-architecture) for the current and proposed state
+- [Known Risks](#known-risks) that could impede progress, including any mitigation steps
+- [Activity Plan](#technical-win-plan) to capture the intentional steps taken to drive a technical evaluation
 
 ### Business Outcomes
-On one side, you’ll want to mention the customer's critical business needs and outcomes. Here you should focus on the customer rather than what GitLab provides. The second half of the slide will map actions, focus areas, and features to initiatives and then to Value Drivers. GitLab’s value drivers can be found [here](/handbook/sales/command-of-the-message/#customer-value-drivers). 
+As succintly as possible, describe the customer's critical business needs and outcomes. Focus on the customer rather than what GitLab provides. How does the customer plan to drive more revenue? What are their operational efficiency goals? What risks do they need to mitigate?
 
-### Notional Architecture
-You’ll want to create two notional architectures capturing the current and proposed states here. What you choose to highlight here should be relevant information about the opportunity. 
-    
-#### Current State 
-The Current State architecture should highlight what your customer's environment looks like at this point. Here you can also call attention to any pain points or identify any pieces or tools that might be non-negotiable. Include the information you deem relevant to this opportunity. 
-
-#### Proposed State 
-The proposed state is what the customer's environment would look like after implementing GitLab or any other solutions they might be looking for. For example, if they are also looking to start using Kubernetes too. Diagram how both GitLab and Kubernetes would change the architecture. 
+When trying to connect the dots between lower-level customer goals and their broader initiatives that likely align to GitLab’s [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers), consider an Outcome Mapping exercise.
 
 ### Key Stakeholders
-Here you’ll fill in the table with all stakeholders you’ve identified. It’s important to map existing relationships and note aspects of the relationship or about the individual. You can also identify gaps, see where to branch out and meet other organization members. Examples of roles include Champion, Influencer, Buyer, and Tech Champion. 
+Either within the Business Outcomes section or in its own section, call out the key stakeholders whom have been involved or need to be. It’s important to map existing relationships and note aspects of the relationship or about the individual. Identify gaps to call out where to branch out and meet other members or functions within the organization. Examples of responsibilities could align to their role at the company or could include GitLab's perspective of a Champion, Influencer, Buyer, and Tech Champion. 
 
-### Technical Win Plan 
-The Technical 	Win Plan is a timeline of activities to help secure a technical win for this opportunity. You’ll want to highlight the activity, date, audience, and notes. You should capture both activities completed and planned. 
+### Notional Architecture
+In order to build a plan with steps to achieve goals, starting and ending points are needed. Current and proposed state notional architectures paint a picture of what today's reality is and what tomorrow could look like. 
 
-### Known Risks
-If there are any know blockers for closing the deal, note them here.
+When capture either current or proposed state notional architectures, highlight information relevant to the opportunity. Customers often have known non-negotiables or phased goals which should be taken into account.
+
+Both notional architectures should reflect the customer's environment and how the parts and pieces interact. The notional architecture should not include a boilerplate GitLab slide / picture.
+
+#### Current State
+A critical step in showing trust and empathy is knowing the current state of a customer. Capture the relevant information for their use case and their painpoints, which may include:
+- The value stream of a typical team showing issues like long vulnerability time to remediation
+- The typical application pipeline steps, or path to production, which includes inefficiencies or delays in releasing software
+- The different SDLC/DevOps/DevSecOps tools, how and when they're used, and how they're integrated, which show how developers need to context switch or operators manage many tools and integrations
+- A multi-modal approach to managing several GitLab instances for data privacy reasons which create confusion and operational overhead
+
+Regardless of the focus for the current state notional architecture, the struggles or pitfalls should be obvious and relate back to the business outcomes.
+
+#### Proposed / Future State
+The proposed or future state notional architecture should be a deliberate contrast to the current state, and obviously highlight the outcomes the customer would realize if they adopted the recommendation. Some examples include:
+- Changing their value stream to identify a vulnerability at the point of change
+- A parallelized pipeline with a fail-fast mentality
+- Consolidated tooling that simplifies operations, reduces cognitive load, and enables reporting
+- A migration plan from several self-managed and SaaS instances to GitLab Dedicated so the customer can focus on delivering software rather than managing GitLab
+    
+### Known Risks / Mitigations
+A well thought-out plan can still result in a failed technical evaluation. Capture possible challenges or roadblocks that could derail the conversation as well as how the team is planning to mitigate the risks.
+
+### Activity Plan 
+What are the discovery and technical evaluation activities that have already happened and are needed to prove the technical evaluation?
+
+These could include activities like demonstrations, value stream workshops, hands-on workshops, proofs of value, etc. The specific combination will depend on the customer dynamics. 
+
+The activity plan is how a Solutions Architect is intentional about what is needed to progress the customer through a technical evaluation rather than simply taking the customer's lead and reacting. As the evaluation progresses, reassess and adjust.
 
 ## Tracking
 
