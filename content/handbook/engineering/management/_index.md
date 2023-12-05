@@ -1,5 +1,4 @@
 ---
-
 title: "Engineering Management"
 ---
 
@@ -13,15 +12,9 @@ for us to specialize training and responsibility for each of:
 - **Professional leadership**, as represented by [Engineering management](/handbook/engineering/career-development#roles).
 
 While technical leadership tends to come naturally to software engineers,
-professional leadership can be more difficult to master. 
+professional leadership can be more difficult to master.
 
 This page will serve as a training resource and operational guide for current and future managers.
-
-
-
-
-
-
 
 ## General leadership principles
 
@@ -46,13 +39,14 @@ Each Engineering Manager (EM) is responsible for developing a Backup Plan in the
 
 | Peer EM Backup (preferably FE / BE pairs) | Senior Team Member | Manager of EM                  |
 | ------ | ------ |  ------ |
-| Participate in the Team Retrospective, highlight items to company-wide retro, read items on call if necessary | Work with PM on Backlog Refinement and Milestone Planning	 | Complete Navan Expense Reports | 
+| Participate in the Team Retrospective, highlight items to company-wide retro, read items on call if necessary | Work with PM on Backlog Refinement and Milestone Planning	 | Complete Navan Expense Reports |
 | Conduct Synchronous / Asynchronous 1-1’s (if more than 1 week) | New Hire Onboarding | Handle Expense Questions       |
 | Manager Approvals (Access to staging, etc)
  
-Please, consider including timing details. Example: If outage spans last/first week of the milestone, participate in planning the milestone with PM. 
+Please, consider including timing details. Example: If outage spans last/first week of the milestone, participate in planning the milestone with PM.
 
 When you're done, consider also publishing it to your team page and informing your Peer EM Backup.
+
 ## Technical Credibility
 
 We expect all managers at GitLab to be technically credible with their teams.
@@ -78,7 +72,7 @@ work to an extent. However, please keep the following advice in mind:
 
 ## Management Responsibilities
 
-The sections below aim to inform you of the responsibilities that an 
+The sections below aim to inform you of the responsibilities that an
 engineering manager has at GitLab. It will provide you with the necessary context,
 information, and process to follow.
 
@@ -92,27 +86,27 @@ information, and process to follow.
 
 The convention at GitLab is to display [Manager](/company/team/structure/#manager) roles as:
 
-* `Manager, Brand Growth Manager` in the Marketing Division
-* `Manager, IT` in the Finance Division
-* `Manager, Software Engineering` in the Development Sub-department
-* `Manager, Support Engineering` in the Support Sub-department
+- `Manager, Brand Growth Manager` in the Marketing Division
+- `Manager, IT` in the Finance Division
+- `Manager, Software Engineering` in the Development Sub-department
+- `Manager, Support Engineering` in the Support Sub-department
 
 Senior Manager roles follow the same convention. For instance
 
-* `Senior Manager, Software Engineering` in the Development Sub-department
-* `Senior Manager, Support Engineering` in the Support Sub-department
+- `Senior Manager, Software Engineering` in the Development Sub-department
+- `Senior Manager, Support Engineering` in the Support Sub-department
 
-This convention is used in Workday, the system of record. For display in the handbook and to preserve de-facto industry standard role names such as `Engineering Manager` and abbreviations such as `EM`, manager roles in the Engineering Division 
-generally follow this naming pattern: 
+This convention is used in Workday, the system of record. For display in the handbook and to preserve de-facto industry standard role names such as `Engineering Manager` and abbreviations such as `EM`, manager roles in the Engineering Division
+generally follow this naming pattern:
 
 `Engineering Manager, [Specialty]`
 
-Accounting for temporary management positions, the Senior manager track, 
-different types of manager roles (such as `Support`), and the potential for one or more specialties yields:  
+Accounting for temporary management positions, the Senior manager track,
+different types of manager roles (such as `Support`), and the potential for one or more specialties yields:
 
 `[Acting|Interim] [Senior] [Site Reliability|Support|Quality] Engineering Manager [, Specialty]`
 
-Where: 
+Where:
 
 - Acting or Interim roles are [temporary management positions](/handbook/engineering/career-development/#temporary-management-positions).
 - `Senior` manager roles are introduced when needed, usually related to management [span of control](/company/team/structure/#management-group) in the relevant department.

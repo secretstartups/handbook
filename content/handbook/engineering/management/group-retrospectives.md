@@ -1,13 +1,6 @@
 ---
-
 title: "Group Retrospectives"
 ---
-
-
-
-
-
-
 
 As a part of our [retrospective process](/handbook/engineering/workflow/#retrospective), at the end of each release, each [Product Group](/company/team/structure/#product-groups) should hold their own Group Retrospective. The goal of the retrospective is to talk through what went well, what went wrong, and what can be improved. Some Engineering sub-departments, such as UX and Quality, also conduct their own retrospectives to feed into the main R&D retrospective and should generally follow the same process outlined here.
 
@@ -26,12 +19,11 @@ benefit from a safe environment. Similarly, an iteration that has nothing but
 strong plan for the discussion. However, even iterations that seem fine on the
 surface can harbor deep problems, so it is always best to be prepared.
 
-
 ## Establishing a safe environment
 
-Retrospectives are inherently conversations about _what went well_ and _what
-went wrong_ in a project or iteration. While it's easy to talk about _what went
-well_, _what went wrong_ can be a touchy subject. Without a safe environment,
+Retrospectives are inherently conversations about *what went well* and *what
+went wrong* in a project or iteration. While it's easy to talk about *what went
+well*, *what went wrong* can be a touchy subject. Without a safe environment,
 issues may go unmentioned, and the group won't improve as rapidly as they
 otherwise could. To collect as much feedback as possible, we recommend
 that you observe the following:
@@ -48,7 +40,7 @@ that you observe the following:
    is as an individual participant, not as the moderator. If the moderator wants
    to take a very active role in the discussion, they should find a peer,
    Director, or other member of the group willing to moderate.
-1. **Emotions are not only _allowed_ in retrospectives, but they should also be encouraged.** 
+1. **Emotions are not only *allowed* in retrospectives, but they should also be encouraged.**
    Emotional language ("I was angry when...," "It made me sad
    that...") not only helps convey intensity, it also helps expose issues that
    may have been difficult to sort out otherwise. Make sure all participants
@@ -60,7 +52,7 @@ that you observe the following:
    group, where necessary - if someone's role or contributions are going to be
    discussed, they should have the opportunity to contribute to the
    retrospective as well.
-1. **Use an issue to collect feedback asynchronously.** Consider using an issue to collect 
+1. **Use an issue to collect feedback asynchronously.** Consider using an issue to collect
    feedback asynchronously.  This allows everyone involved to think about and record their feedback on their
    own time.  It is recommended that the group uses the [retrospective issue template](https://gitlab.com/gitlab-org/async-retrospectives/-/blob/master/templates/default.erb) for the issue.
 1. **When necessary, get people face to face.** After a particularly difficult
@@ -93,7 +85,7 @@ group, we recommend something that follows this general pattern:
    any other number of fact collecting exercises.
 1. **Generate insights** - now that you have all of the facts, try to work
    together to identify patterns or causal relationships (because we did
-   _x_, _y_ happened).
+   *x*, *y* happened).
 1. **Decide what to do** - with the insights firmly in hand, it should be
    fairly easy to identify action items for the group. This could be things
    to change with our process, it could be things to experiment with in the

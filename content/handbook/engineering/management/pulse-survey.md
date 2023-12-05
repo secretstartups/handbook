@@ -1,13 +1,6 @@
 ---
-
 title: "Pulse Survey"
 ---
-
-
-
-
-
-
 
 ## Overview
 
@@ -47,9 +40,9 @@ Do not edit any column names or results.
 The next step is to be sure [Sheetload](/handbook/business-technology/data-team/platform/#using-sheetload) can read and ingest the new tab.
 The [Sheetload readme](https://gitlab.com/gitlab-data/analytics/tree/master/extract/sheetload) is the SSOT for the following steps, but an abbreviated version is included for ease of info.
 1. Add the new tab to the [sheets.txt](https://gitlab.com/gitlab-data/analytics/blob/master/extract/sheetload/sheets.txt) file following the `pulse_survey.pulse_survey_group_team` convention (there are examples in the file.)
-2. Add a new dbt model to `analytics/transform/snowflake-dbt/models/sheetload/base` ([location](https://gitlab.com/gitlab-data/analytics/tree/master/transform/snowflake-dbt/models/sheetload/base)) following the naming convention of `sheetload_pulse_survey_group_team.sql`; this is a pretty straightforward SQL file and should follow an [existing example](https://gitlab.com/gitlab-data/analytics/blob/master/transform/snowflake-dbt/models/sheetload/base/sheetload_pulse_survey_configure_be.sql).
-3. Substitute the group and team values (lines 12 and 13 in the example file) to match the survey's group and team.
-4. Update the `table_list` list set beginning on line 7 in `analytics/transform/snowflake-dbt/models/sheetload/xf/engineering_pulse_survey.sql` ([Location](https://gitlab.com/gitlab-data/analytics/blob/master/transform/snowflake-dbt/models/sheetload/xf/engineering_pulse_survey.sql)) to add the new dbt model; follow the existing syntax example of `ref('filenamewithoutthe .sql at the end')`.
+1. Add a new dbt model to `analytics/transform/snowflake-dbt/models/sheetload/base` ([location](https://gitlab.com/gitlab-data/analytics/tree/master/transform/snowflake-dbt/models/sheetload/base)) following the naming convention of `sheetload_pulse_survey_group_team.sql`; this is a pretty straightforward SQL file and should follow an [existing example](https://gitlab.com/gitlab-data/analytics/blob/master/transform/snowflake-dbt/models/sheetload/base/sheetload_pulse_survey_configure_be.sql).
+1. Substitute the group and team values (lines 12 and 13 in the example file) to match the survey's group and team.
+1. Update the `table_list` list set beginning on line 7 in `analytics/transform/snowflake-dbt/models/sheetload/xf/engineering_pulse_survey.sql` ([Location](https://gitlab.com/gitlab-data/analytics/blob/master/transform/snowflake-dbt/models/sheetload/xf/engineering_pulse_survey.sql)) to add the new dbt model; follow the existing syntax example of `ref('filenamewithoutthe .sql at the end')`.
 
 After following these steps and getting the MR merged, these will get picked up on the next Sheetload and dbt runs.
 The Sisense dashboard can always be refreshed to reflect the latest information.
