@@ -50,9 +50,9 @@ The Field Security Team also maintains the following resources for **GitLab Team
 <a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/field-security/-/issues/new?issuable_template=cap_collateral_request" class="btn bg-primary text-white btn-lg">Collateral Request</a>
 <a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/field-security/-/issues/new?issuable_template=ad_hoc_field_security_request" class="btn bg-primary text-white btn-lg">Ad Hoc Request</a>
 
-### AnswerBase
+### Knowledge Base
 
-For information on how Field Security uses AnswerBase and how it can support your workflows, please visit our [AnswerBase]({{< ref "answerbase" >}}) page.
+For information on how Field Security uses AnswerBase and how it can support your workflows, please visit our [Knowledge Base]({{< ref "knowledge_base" >}}) page.
 
 ### Feedback from Field Security
 
@@ -74,10 +74,10 @@ In the spirit of iteration, GitLab is continuously evolving our list of complian
 
 ## Service Level Agreements
 
-- **Security Questionnaires:** 10 Business Day. SA or CSM will utlize AnswerBase and/or other self-service resources prior to requesting Field Security assistance. SA or CSM will ensure everyone on the Field Security team has access to any files or portals.
-- **Contract Reviews:** 5 Business Days. The VP of Security must be engaged in all Contract Reviews.
-- **Customer Calls:** SA or CSM will provide context to the Customer or Prospects questions or concerns prior to the meeting. Field Security will provide a PowerPoint presentation with critical information about GitLab Security and specifics to the Customer or Prospect's request. The VP of Security must be invited to all Customer Meetings.
-- **Security Documents:** 2 Business Days. SA or CSM must provide the name and email address of the recipient.
+- **Security Questionnaires:** 10 Business Day. SA or CSM will utlize the Knowledge Base and/or other self-service resources prior to requesting Field Security assistance. SA or CSM will ensure everyone on the Field Security team has access to any files or portals.
+- **Contract Reviews:** 5 Business Days. Field Security must be engaged in all relevant Contract Reviews.
+- **Customer Calls:** SA or CSM will provide context to the Customer or Prospects questions or concerns prior to the meeting. Field Security will provide a PowerPoint presentation with critical information about GitLab Security and specifics to the Customer or Prospect's request. Field Security must be invited to all relevant Customer Meetings.
+- **Security Documents:** Managed through the Trust Center. Create a General Request for unique enquiries that can't be satisfied through self-serve
 
 ## Exceptions
 
