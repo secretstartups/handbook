@@ -1,35 +1,32 @@
 ---
-title: Customer Assurance Package
+title: Trust Center Guide
 ---
 
-Are you looking for GitLab's Customer Assurance Package?
+Are you looking for GitLab's Trust Center?
 
 <div class="d-grid gap-2 my-4">
-<a href="https://about.gitlab.com/security/cap/" class="btn bg-primary text-white btn-lg">GitLab Customer Assurance Package (Click Here!)</a>
+<a href="https://trust.gitlab.com" class="btn bg-primary text-white btn-lg">GitLab's Trust Center (Click Here!)</a>
 </div>
 
-## Do you have 180 seconds to learn more about the CAP?
+## Do you have 180 seconds to learn more about the Trust Center?
 
 {{< youtube "8xsMmciYbvE" >}}
 
-## GitLab offers Customer Assurance Packages tailored to customer needs
+## GitLab offers Trust Centers tailored to customer needs
 
-- **Community Package**: The first step on the trust journey, this package is a compilation of publicly available documentation designed to introduce GitLab’s approach to security. Directly available from the [Customer Assurance Package page](https://about.gitlab.com/security/cap/). *All the documents in the Community Package are included in the Customer Packages*.
-- **Customer Packages**: This package provides detailed security information to prospective and existing customers for completing vendor security assessments. Due to the sensitive nature of the documentation, an NDA is required to be in place prior to sharing the Customer Packages. Please review the [CAP request process](/handbook/security/security-assurance/field-security/customer-assurance-package.html#cap-request-process) for more details.
-
-{{% details summary ="GitLab.com Package" %}}
+- **GitLab.com page**:
 This package provides detailed security information to prospective and existing GitLab.com SaaS and self-managed customers for completing vendor security assessments.
 {{% /details %}}
 
-{{% details summary="GitLab Dedicated Package" %}}
+- **GitLab Dedicated page**:
 This package provides detailed security information to prospective and existing GitLab Dedicated customers for completing vendor security assessments.
 {{% /details %}}
 
-{{% details summary="U.S. Public Sector Package" %}}
-This package provides detailed security information to prospective and existing U.S. Public Sector customers for completing vendor security assessments.
-{{% /details %}}
+## Two types of Trust Center documentation
 
-## How to request the CAP
+- **Readily available information**: The first step on the trust journey, this package is a compilation of publicly available documentation designed to introduce GitLab’s approach to security. Directly available from the [Customer Assurance Package page](https://about.gitlab.com/security/cap/). *All the documents in the Community Package are included in the Customer Packages*.
+
+- **Information under NDA**: This package provides detailed security information to prospective and existing customers for completing vendor security assessments. Due to the sensitive nature of the documentation, an NDA is required to be in place prior to sharing the Customer Packages. Please review the [CAP request process](/handbook/security/security-assurance/field-security/customer-assurance-package.html#cap-request-process) for more details.
 
 Due to the nature of some of GitLab's security reports, the [Customer Package](https://about.gitlab.com/security/cap/) is available under a [Non Disclosure Agreement](/handbook/legal/NDA/) or contractual confidentiality  clauses only.
 
@@ -56,7 +53,7 @@ For collateral owned by SMEs outside of Field Security, we perform an annual rev
 If you have any further questions, please follow the below steps:
 
 - Prospective Customers: Please [fill out a request](https://about.gitlab.com/sales/) and a representative will reach out to you.
-- Current Customers: Please contact your [Account Owner](/handbook/sales/#initial-account-owner---based-on-segment) at GitLab. If you don't know who that is, please [reach out to sales](https://about.gitlab.com/sales/) and ask to be connected to your Account Owner.
+- Current Customers: Please contact your [Account Owner](https://about.gitlab.com/handbook/sales/#initial-account-owner---based-on-segment) at GitLab. If you don't know who that is, please [reach out to sales](https://about.gitlab.com/sales/) and ask to be connected to your Account Owner.
 - GitLab Team Members: Contact the Field Security team using the **Customer Assurance workflow** in the [#sec-fieldsecurity](https://gitlab.slack.com/archives/CV5A53V70) slack channel.
 
 <div class="d-grid gap-2 my-4">
