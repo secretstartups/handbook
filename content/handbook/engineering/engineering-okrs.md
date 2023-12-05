@@ -1,5 +1,5 @@
 ---
-
+aliases: /handbook/engineering/okrs
 title: Engineering OKRs
 ---
 
