@@ -317,3 +317,13 @@ The partner that received the GitLab invoice (i.e., Distributor for two-tier dea
 **Important to note**, the GitLab Sales Rep cannot change the end user contact post-sale on behalf of the partner or customer. The request to change the end user contact must either be submitted by the (i) partner that received the GitLab invoice as outlined above or (ii) customer contact listed on the final GitLab quote (i.e., the person that received the license).
 
 </details>
+<summary markdown="span">
+The customer received an error stating they are out of CI Minutes, therefore their instance has stopped working. How can I quickly resolve this?
+</summary>
+
+If the customer needs to add additional CI minutes, they must purchase the add-on through the same procurement path as the original order (i.e. if they purchased the original subscription through a reseller and distributor, they must purchase the additional minutes the same way).
+
+1. Work with your GitLab sales rep to obtain a quote for additional minutes.
+2. Your GitLab sales rep may submit a support ticket to provide CI minutes while the quote is being procured.
+
+</details>
