@@ -230,7 +230,7 @@ The 3 types (Bug, Feature & Maintenance) is key to our report to industry analys
   - `~"maintenance::usability"`: General improvements to product usability that are unrelated to feature prioritization. For example, [UI component](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/80903) and [UI text](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/80457) updates for consistency with Pajamas and [usability improvements](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/79888).
   - `~"maintenance::test-gap"`: Test coverage improvements that were not included in feature prioritization.
   - `~"maintenance::pipelines"`: Pipeline related changes.
-  - `~"maintenance::workflow"`: Improvements of the engineering tooling like Danger, RuboCop, linters, issue templates, etc. 
+  - `~"maintenance::workflow"`: Improvements of the engineering tooling like Danger, RuboCop, linters, issue templates, etc.
   - `~"maintenance::performance"`: Non-defect performance improvements such as load time for a specific page or component, or run time for a specific process.
   - `~"maintenance::release"`: Release management related changes.
 
@@ -239,6 +239,10 @@ If these labels are missing, it will be tracked in the `undefined` bucket instea
 The Engineering Manager for each team is ultimately responsible for ensuring that these labels are set correctly. If you do not feel the purpose of this issue matches one of the types, you may apply the `~type::ignore` label to exclude it from type tracking metrics and future prompts, this can be good for issues marked `~Planning Issue`.
 
 Classifying work types may require context. All work to deliver a feature with security, performance and quality meeting the [definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#mr-merge) should be classified as feature work. For example if you are anticipating the performance needs of a feature and implement an application limit as part of the introduction of that feature it should be classified as `feature:addition`. If you discovered an issue scaling an existing feature and implemented an application limit that issue would likely start as a bug and the associated MR would be classified as `bug:performance`.
+
+### Type labels on merged MRs
+
+As of %16.7, with certain [internal projects](https://gitlab.com/gitlab-com/Product/-/issues/12779), type labels are locked once an associated MR is merged. More details can be found in the [feature implementation issue](https://gitlab.com/gitlab-org/gitlab/-/issues/408676).
 
 ### Spike work
 
