@@ -1,4 +1,5 @@
 ---
+aliases: /handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab9alt
 title: "GitLab CI/CD Hands-On Guide: Lab 9 (alternative)"
 description: "This Hands-On Guide walks you through the lab exercises in the GitLab CI/CD course."
 ---
