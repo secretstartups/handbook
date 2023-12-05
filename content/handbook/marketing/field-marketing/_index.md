@@ -1513,12 +1513,10 @@ The Field Marketing team works from issues and issue boards. If you need our ass
 ## General Field Marketing Labels
 
 - `Field Marketing`: Issue initially created, used in templates, the starting point for any issue that involves Field Marketing
-- `FY24-Q1` `FY24-Q2` `FY24-Q3` `FY24-Q4`: What event or activity is set to take place or be due in this quarter in the specific year
+- `FY25-Q1` `FY25-Q2` `FY25-Q3` `FY25-Q4`: What event or activity is set to take place or be due in this quarter in the specific year
 - `mktg-status::plan`: work that is proposed, in an exploratory state
 - `mktg-status::wip`: work in progress that has been accepted and assigned to a DRI
 - `Events`: Issues related to events - this label is held at the gitlab.com level
-- `FMM-Other Tactics`: Issues related to non-event tactics
-- `FMM-MicroCampaigns`: Issues related to regional integrated micro-campaign, which are built to drive a specific strategy in a region
 - `Content Syndication`: Issue related to content syndication
 - `DevOpsDays`: Issue related to DevOps Days
 - `Direct Mail`: Issue related to Direct Mail
@@ -1533,7 +1531,7 @@ The Field Marketing team works from issues and issue boards. If you need our ass
 - `Vendor Arranged Meetings`: Issue related to Vendor Arranged Meetings
 - `Virtual Conference`: Issue related to Virtual Conferences
 - `Webcast - GitLab Hosted`: Issue related to GitLab-Hosted Webcasts
-- `workshop`: Issue related to GitLab workshops
+- `FM Workshop`: Issue related to Field Marketing-run workshops
 
 ## Regional Field Marketing Labels
 
