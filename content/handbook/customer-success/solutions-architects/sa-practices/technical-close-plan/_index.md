@@ -83,6 +83,8 @@ A Technical Close Plan should be tracked on the opportunity with which it is ass
 
 ![Technical Close Plan field in Salesforce](sfdc-tcp-field.png)
 
+If there are several opportunities relevant to the plan, each can point to the single Technical Close Plan. 
+
 ## Regular Review
 Since the Technical Close Plan is used to progress a technical evaluation, the scope and definition could be fluid. It's important to regularly review the plan during 1:1s, account plans, and opportunity consults.
 
