@@ -1,13 +1,13 @@
 ---
-layout: markdown_page
+
 title: "Deployments and Releases"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Overview and terminology
 This page describes the deployment and release approach used to deliver changes to users. The overall process consists of two significant parts:  
