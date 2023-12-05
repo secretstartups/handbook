@@ -280,8 +280,6 @@ menu:
 EOF
 fi
 
-
-
 cd content
 
 if [[ $IS_MARKETING != "true" && $IS_ENGINEERING != "true" ]]; then
