@@ -85,7 +85,7 @@ CEO Shadow rotations will be reserved for [Functional Leaders]({{< ref "/content
 
 **Note:** At this time, all shadow rotations are fully remote. Learn more about what to expect from a [remote shadow rotation](#remote-shadow-rotations).
 
-### Expectations for hours of participation 
+### Expectations for hours of participation
 
 The CEO generally works from 8am to 6pm Pacific. This means that shadows from Pacific, Mountain, or Central time zones can participate without dramatic shifts to their usual working hours. To the degree possible, these folks should plan to clear their schedule during the CEO's working hours.
 
