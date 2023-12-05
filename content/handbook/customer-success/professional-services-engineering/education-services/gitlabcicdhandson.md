@@ -1,4 +1,5 @@
 ---
+aliases: /handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandson.html
 title: "GitLab CI/CD Hands-On Guide"
 description: "This Hands-On Guide walks you through the lab exercises in the GitLab CI/CD course."
 ---
