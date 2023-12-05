@@ -796,7 +796,7 @@ Your manager will review the information and decide whether SAO credit is warran
 
 ### Opportunity Creation Workflow
 
-![Opp-Creation-Workflow](handbook/marketing/sales-development/FY24OpportunityCreationWorkflow.png)
+![Opp-Creation-Workflow](/handbook/marketing/sales-development/FY24OpportunityCreationWorkflow.png)
 
 #### SDR/BDR to AE SAO Handoff Process 
 
