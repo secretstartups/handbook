@@ -79,7 +79,8 @@ The activity plan is how a Solutions Architect is intentional about what is need
 ## Tracking
 
 ### Salesforce Opportunity
-A Technical Close Plan should be tracked on the opportunity with which it is associated via the `Technical Close Plan` field. 
+A Technical Close Plan should be tracked on the opportunity with which it is associated via the `Technical Close Plan` field. This should always represent the current state of the Technical Close Plan for the given opportunity. The plan itself can be store in an account folder to retain the account context over time. 
+
 ![Technical Close Plan field in Salesforce](sfdc-tcp-field.png)
 
 ## Regular Review
