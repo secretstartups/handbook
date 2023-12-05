@@ -64,6 +64,10 @@ GitLab has two distinct security zones:
 
 - Do not bring company-owned devices to [embargoed countries](https://handbook.gitlab.com/handbook/sales/#export-control-classification-and-countries-we-do-not-do-business-in) without consulting the Legal Department.
 
+## Exceptions
+
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
+
 ## References
 
 - [Internal Acceptable Use Policy](https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/)
