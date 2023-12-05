@@ -49,6 +49,6 @@ Additionally, new players are entering the market advocating for up to 5x GitLab
 | Facilitator           | Gabriel Engel @gabrielengel_gl |
 | Functional Lead(s)    | tbd                    |
 | Member                | Allison Browne @allison.browne |
-| Member                | Grzegorz Bizon @grzesiek | 
-| Member                | Oliver Falk @ofalk (CSM) | 
-| Member                | Michael Friedrich @dnsmichi (Developer Relations) | 
+| Member                | Grzegorz Bizon @grzesiek |
+| Member                | Oliver Falk @ofalk |
+| Member                | Michael Friedrich @dnsmichi |
