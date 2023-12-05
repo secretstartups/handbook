@@ -1,13 +1,9 @@
 ---
-
+draft: true
 title: "Frontend Monitor Team"
 ---
 
-
-
-
-
-
+<!-- Pending create of stable_counterparts shortcode and confirmation pages are needed and how to fix -->
 
 ## Mission
 
@@ -28,8 +24,8 @@ stage] page.
 
 ## Useful links
 
-* [Monitor frontend board] - this shows work in the current release
-* [#g_monitor] in Slack
+- [Monitor frontend board] - this shows work in the current release
+- [#g_monitor] in Slack
 
 [Monitor frontend board]: https://gitlab.com/groups/gitlab-org/-/boards/815216
 

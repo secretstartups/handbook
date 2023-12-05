@@ -1,5 +1,4 @@
 ---
-
 title: "Skillsharing - Frontend"
 ---
 
@@ -13,7 +12,7 @@ There are two main ways you can help.
 
 ## 1. Creating issues / requests
 
-Create [issues on the project](https://gitlab.com/gitlab-org/frontend/skillsharing/issues) of things you'd either like to share with others or things you'd like others to share with you. 
+Create [issues on the project](https://gitlab.com/gitlab-org/frontend/skillsharing/issues) of things you'd either like to share with others or things you'd like others to share with you.
 
 This is the best way to document that you're working on something or that you'd like to see particular topics covered by your colleagues.
 
@@ -25,11 +24,9 @@ Remember to assign yourself to the issue you're working on to avoid duplicated e
 
 ### Format
 
-* **Length:** 5-10min (shorter ok but not longer)
-
-* **Where:** [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) (Add to playlist: [Frontend Skillsharing](https://www.youtube.com/playlist?list=PL05JrBw4t0Kps_i2Oc9sd3zrcHfrGj1xW))
-
-* **How:** Following the No Extra Work rule, record off a Zoom call and upload. Feel free to ask a colleague to join and help you rehearse before recording.
+- **Length:** 5-10min (shorter ok but not longer)
+- **Where:** [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) (Add to playlist: [Frontend Skillsharing](https://www.youtube.com/playlist?list=PL05JrBw4t0Kps_i2Oc9sd3zrcHfrGj1xW))
+- **How:** Following the No Extra Work rule, record off a Zoom call and upload. Feel free to ask a colleague to join and help you rehearse before recording.
 
 # Videos
 

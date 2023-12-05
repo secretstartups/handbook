@@ -1,13 +1,9 @@
 ---
-
+draft: true
 title: "Frontend Create Team"
 ---
 
-
-
-
-
-
+<!-- Pending create of stable_counterparts shortcode and confirmation pages are needed and how to fix -->
 
 ## Mission
 
@@ -28,8 +24,8 @@ stage] page.
 
 ## Useful links
 
-* [Create frontend board] - this shows work in the current release
-* [#g_create] in Slack
+- [Create frontend board] - this shows work in the current release
+- [#g_create] in Slack
 
 [Create frontend board]: https://gitlab.com/groups/gitlab-org/-/boards/686850
 

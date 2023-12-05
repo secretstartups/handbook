@@ -1,13 +1,9 @@
 ---
-
+draft: true
 title: "Frontend Manage Team"
 ---
 
-
-
-
-
-
+<!-- Pending create of stable_counterparts shortcode and confirmation pages are needed and how to fix -->
 
 ## Mission
 
@@ -28,9 +24,9 @@ stage] page.
 
 ## Useful links
 
-* [Manage frontend assignees board] - this shows the tasks assignees in the current release
-* [Manage frontend tasks board] - this shows the priorities of deliverables
-* [#g_manage] in Slack
+- [Manage frontend assignees board] - this shows the tasks assignees in the current release
+- [Manage frontend tasks board] - this shows the priorities of deliverables
+- [#g_manage] in Slack
 
 [Manage frontend assignees board]: https://gitlab.com/groups/gitlab-org/-/boards/814296
 [Manage frontend tasks board]: https://gitlab.com/groups/gitlab-org/-/boards/810974

@@ -1,27 +1,20 @@
 ---
-
 title: "Frontend Group"
 ---
 
-
-
-
-
-
-
 ## Teams
 
-* [Configure](/handbook/engineering/development/ops/configure/)
-* [Create](/handbook/engineering/frontend/create/)
-* [Manage](/handbook/engineering/frontend/manage/)
-* [Monitor](/handbook/engineering/frontend/monitor/)
-* [Plan](/handbook/engineering/development/dev/plan/plan-fe/)
-* [Secure](/handbook/engineering/development/sec/secure/)
-* [Verify and Release](/handbook/engineering/frontend/verify-release/)
+- [Configure](/handbook/engineering/development/ops/configure/)
+- [Create](/handbook/engineering/frontend/create/)
+- [Manage](/handbook/engineering/frontend/manage/)
+- [Monitor](/handbook/engineering/frontend/monitor/)
+- [Plan](/handbook/engineering/development/dev/plan/plan-fe/)
+- [Secure](/handbook/engineering/development/sec/secure/)
+- [Verify and Release](/handbook/engineering/frontend/verify-release/)
 
 ### Frontend domain experts
 
-You can find engineers with expertise in various frontend domains on the engineering 
+You can find engineers with expertise in various frontend domains on the engineering
 projects page under the following sections:
 
 - [GitLab maintainers with domain expertise](/handbook/engineering/projects/#gitlab_maintainers_frontend)
@@ -31,7 +24,7 @@ You can reach out to these experts to get help on:
 
 - discussing and defining the architecture of complex frontend features.
 - frontend technical topics like Vue, GraphQL, CSS, testing, tooling, etc.
-- proposing changes to the cross-domain frontend architecture via an RFC. 
+- proposing changes to the cross-domain frontend architecture via an RFC.
 - Questions about the frontend for a product area like design management, merge requests, pipelines, etc.
 
 ### Frontend group calls
@@ -56,7 +49,7 @@ the winner as the next DRI for that time zone.
 1. The DRI announces the theme in the `#frontend` Slack channel at least one day in advance.
 1. On the next call, at the end of the agenda, the DRI announces the theme and invites participants to share/vocalize their entries.
 1. After all entries have been shared, the DRI asks everyone to write which person they liked the answer the most on the meeting's zoom chat _**without sending**_.
-2. After everyone has written down their vote, the DRI counts down from 3, and on 0 everyone hits enter, sharing their answer at the same time (to prevent voting bias).
+1. After everyone has written down their vote, the DRI counts down from 3, and on 0 everyone hits enter, sharing their answer at the same time (to prevent voting bias).
 1. The entry with the most votes becomes the winner. In the case of a tie, the winners decide which of them becomes the DRI. In case they didn't decide, the DRI can chime in on the decision.
 1. The DRI creates an MR to update the table of history below.
 1. The DRI replaces their own name with the winner's as the next DRI in the [agenda document (internal)](https://drive.google.com/open?id=116RqF100v-vRra87ckYIWAa3-F3kDvSseRSvEziJnbQ).
