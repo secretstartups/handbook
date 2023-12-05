@@ -221,25 +221,6 @@ This program type is specific to non-event related list uploads, such as partner
 | Member | Indicative of a special member status for this program type. Meaning of "special" is dependent on use case |  |
 
 
-#### Self-Service Virtual Event
-
-This is a light weight virtual event that can be hosted on GitLabber's personal zoom.  
-
-PLEASE NOTE: The Field Marketing team no longer utilizes this campaign type and instead, utilizes the Owned Events campaign type.  
-
-**Bizible:** This is tracked as an _online_ channel if registrants come through a marketo form, otherwise it will be an _offline_ channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
-
-| Member Status | Definition | Success |
-| ------------- | ---------- | ------- |
-| No Action | default starting position for all records |  |
-| Sales Nominated | Status for when Sales and Marketing want to extend an event invitation | |
-| Waitlisted | Holding state if registration is full will be moved to `Registered` if space opens |  |
-| Registered | Registered for event |  |
-| No Show | Registered but did not attend event |  |
-| Attended | Attended event | Yes |
-| Attended On-demand | Watched/consumed the presentation materials post-event on-demand | Yes |
-| Follow Up Requested | Requested follow up during the event | Yes | 
-
 #### Speaking Session
 
 This campaign type can be part of a larger Field/Conference/Owned event but we track engagement interactions independently from the larger event to measure impact. It is something we can drive registration. It is for tracking attendance at our speaking engagements.
