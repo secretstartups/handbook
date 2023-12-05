@@ -12,15 +12,20 @@ A Technical Close Plan is an internal strategy that Solutions Architects can use
 
 We can leverage a Technical Close Plan early in the sales process to help Solutions Architects and the sales team evaluate requirements for a technical win. After the command plan and technical discovery, we can build out the Technical Close Plan. This plan will drive our technical win strategies. It also can accelerate getting to a technical win because we align critical business outcomes to technical win conversations. This process can also aid in building habits of proactively prescribing how GitLab uniquely partners with customers.
 
+### When to Create a Technical Close Plan
+A Technical Close Plan is most useful as an opportunity is approaching a technical evaluation. The plan adds clarity to how to successfully complete the evaluation in a shorter period of time. Within the sales stages, that typically aligns to Stage-3 Technical Evaluation, but might also make sense in Stage-2 Scoping. 
+
 ### How Does This Differ From a Customer Success Plan?
 A Technical Close Plan is primarily focused on opportunity rigor by capturing customer business outcomes and a plan to meet their needs, whereas a Customer Success Plan is primarily focused on successful customer adoption of GitLab after successfully evaluating GitLab against their needs.
 
 As both are customer-centric, the Technical Close Plan can and should feed into a Customer Success Plan. See [Converting to a Customer Success Plan](#converting-to-a-customer-success-plan) for more information.
 
+![Sales Process](sales-process.png)
+
 ## How to Build a Technical Close Plan
 
 ### Resources
-This [Google Drive Folder](https://drive.google.com/drive/folders/1nQaUD5l05eTN5Dttxuk5Lvr88oyyVDbT) contains the [Technical Close Plan](https://docs.google.com/presentation/d/1RFvOrf-aKXOzPBxLdlF5lkAnBLUTQlUNSFbWlVArA9o/edit?usp=sharing) starting template, an instructional walkthrough, and example Technical Close Plans as a reference. 
+This [Google Drive Folder](https://drive.google.com/drive/folders/1nQaUD5l05eTN5Dttxuk5Lvr88oyyVDbT) contains the [Technical Close Plan](https://docs.google.com/presentation/d/1RFvOrf-aKXOzPBxLdlF5lkAnBLUTQlUNSFbWlVArA9o/edit?usp=sharing) starting template, an [instructional walkthrough](https://docs.google.com/presentation/d/1Kh48akXwaEJh2HO2TCZqQhfULs_UCx7E9DFsUbLOnzI/edit#slide=id.g253f367cf99_2_447), and [example Technical Close Plans](https://drive.google.com/drive/folders/1X5x7EbRB1v_crFG6RI-ie1D-B8pEgY36) as a reference. 
 
 ### Technical Close Plan Structure
 The specific structure of a Technical Close Plan is not as relevant as the content and conversation. The primary focus areas should include:
@@ -75,9 +80,14 @@ The activity plan is how a Solutions Architect is intentional about what is need
 
 ### Salesforce Opportunity
 A Technical Close Plan should be tracked on the opportunity with which it is associated via the `Technical Close Plan` field. 
+![Technical Close Plan field in Salesforce](sfdc-tcp-field.png)
 
 ## Regular Review
-
+Since the Technical Close Plan is used to progress a technical evaluation, the scope and definition could be fluid. It's important to regularly review the plan during 1:1s, account plans, and opportunity consults.
 
 ## Converting to a Customer Success Plan
+In many instances, the Technical Close Plan can be used as-is for a Customer Success Plan, where the only real difference is the timing. 
 
+In other cases, there may be additional adoption information to capture, like other known tools, migration plan, adoption plan, adoption risks, etc. 
+
+There also may be parts of the original Technical Close Plan that are no longer relevant to share with the customer, like internal relationship notes, sales or GitLab terminology, or mitigated risks.
