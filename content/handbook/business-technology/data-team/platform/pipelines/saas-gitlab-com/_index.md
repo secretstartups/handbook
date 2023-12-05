@@ -282,4 +282,4 @@ So far, that includes these tables:
 ### Capturing deletes in the source
 Using the new backfill process, compare the source primary keys against the Snowflake table, and mark any records that are not in the source as deleted.
 
-More info on the capturing deletes process in the [saas backfills handbook page](/handbook/business-technology/data-team/platform/pipelines/SAAS-Gitlab-com/SAAS-Gitlab-com-backfill/).
+More info on the capturing deletes process in the [saas backfills handbook page](/handbook/business-technology/data-team/platform/pipelines/saas-gitlab-com/saas-gitlab-com-backfill/).
