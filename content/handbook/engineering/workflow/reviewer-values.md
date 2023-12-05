@@ -1,14 +1,7 @@
 ---
-
 title: Code Review Values
 description: "GitLab team members' code review values"
 ---
-
-
-
-
-
-
 
 ## Reviewer values
 
@@ -38,13 +31,13 @@ At GitLab, we have a large selection of reviewers who strive for the highest qua
 reviewing merge requests. However, due to human nature, we are subject to individual nuances.
 
 This was raised as a discussion point in the Frontend maintainer meeting by [@sarahghp](https://gitlab.com/sarahghp)
-as to _"What is the ideal balance between code consistency team-to-team? Are we trying to
-pick too many nits in pursuit of consistency?"_, which evolved into a larger question:
+as to *"What is the ideal balance between code consistency team-to-team? Are we trying to
+pick too many nits in pursuit of consistency?"*, which evolved into a larger question:
 
-> _As a reviewer, what values should we choose to enforce in reviews, and what can be considered with more flux? Following this question, with items granted more flux,
+> *As a reviewer, what values should we choose to enforce in reviews, and what can be considered with more flux? Following this question, with items granted more flux,
 how do we approach that? Do we aim for a collaborative model and encourage reviewers to
 share branches with authors or should we encourage more follow-up issues and merge requests?
-Or this is something that can be considered as a personal preference?_
+Or this is something that can be considered as a personal preference?*
 
 Simplifying:
 
@@ -77,7 +70,7 @@ In general, if a merge request is a net profit, then we should be eager to appro
 
 The sum of all the pros and cons should lead to a net profit and the ability to move forward.
 
-> _There are no solutions, only trade-offs_. (Thomas Sowell)
+> *There are no solutions, only trade-offs*. (Thomas Sowell)
 
 In software, there are simply no perfect solutions. They do not exist.
 This is mostly due to the nature of computers (see [Cap Theorem](https://en.wikipedia.org/wiki/CAP_theorem), for example).
@@ -141,7 +134,7 @@ grasp the context. However, these issues are outweighed by the benefits of high 
 feedback, and reliability. This is something that we, as reviewers, should be
 constantly encouraging in authors. "Can we make this smaller?" should be a very common question to ask ourselves when starting a review.
 
-> _It's very possible to take a lot of small confident steps to a mess._ (Paul Slaughter)
+> *It's very possible to take a lot of small confident steps to a mess.* (Paul Slaughter)
 
 The iterative approach also teaches authors to think out the solution to a large or
 complex problem by ensuring it's broken into small, quality-driven pieces.
@@ -163,7 +156,7 @@ between the merge author and the merge reviewer:
 
 - As an author, it can be tempting to be misleading to get your code pushed through if asked
 hard or blocking questions.
-- As a reviewer, it can be tempting to skip over admitting you don't understand something. 
+- As a reviewer, it can be tempting to skip over admitting you don't understand something.
 
 This shouldn't happen, though. What we want to do here is always encourage a fearless sense
 of collaboration between the author and reviewer through reducing any perceived
@@ -203,7 +196,7 @@ for the author and everyone on the team to learn.
 
 ### Nitpicks
 
-> _Perfectionism is the enemy of progress._ (Winston Churchill)
+> *Perfectionism is the enemy of progress.* (Winston Churchill)
 
 Nitpicks are requests for minor changes that address personal preferences or negligible
 code improvements.

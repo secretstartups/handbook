@@ -1,14 +1,7 @@
 ---
-
 title: Code Review Guidelines
 description: "Code reviews are mandatory for every merge request, you should get familiar with and follow our Code Review Guidelines."
 ---
-
-
-
-
-
-
 
 ## Overview
 
@@ -28,7 +21,7 @@ You can find someone to review your merge requests by looking on the [team page]
 
 You can also help community contributors get their merge requests ready, by becoming a [Merge Request Coach](https://handbook.gitlab.com/job-families/expert/merge-request-coach/).
 
-Note that while all engineers can review all merge requests, the ability to _accept_ merge requests is restricted to maintainers.
+Note that while all engineers can review all merge requests, the ability to *accept* merge requests is restricted to maintainers.
 
 ## Maintainer
 
@@ -105,95 +98,95 @@ Interested reviewers for the projects below should complete the listed tasks in 
 
 #### Project maintainer process for [`gitlab-database`](https://gitlab.com/gitlab-org/gitlab)
 
-* Familiarize with [database review process](https://docs.gitlab.com/ee/development/database_review.html).
-* Familiarize with [migration helpers](https://gitlab.com/gitlab-org/gitlab/blob/master/lib/gitlab/database/migration_helpers.rb) and review usage in existing migrations.
-* Familiarize with best practices in [database guides](https://docs.gitlab.com/ee/development/database/index.html).
-* Watch [Optimising Rails Database Queries: Episode 1](https://www.youtube.com/watch?v=79GurlaxhsI).
-* Read [Understanding EXPLAIN plans](https://docs.gitlab.com/ee/development/database/understanding_explain_plans.html).
-* Get yourself added to [`@gl-database`](https://gitlab.com/groups/gl-database/-/group_members) group and respond to @-mentions to the group (reach out to any maintainer on the group to get added). You will get TODOs on gitlab.com for group mentions..
-* Create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new) for [`psql`/`AllFeaturesUser` access to database lab/postgres.ai](https://docs.gitlab.com/ee/development/database/database_lab.html#access-database-lab-engine) if you do not already have `AllFeaturesUser` access.
+- Familiarize with [database review process](https://docs.gitlab.com/ee/development/database_review.html).
+- Familiarize with [migration helpers](https://gitlab.com/gitlab-org/gitlab/blob/master/lib/gitlab/database/migration_helpers.rb) and review usage in existing migrations.
+- Familiarize with best practices in [database guides](https://docs.gitlab.com/ee/development/database/index.html).
+- Watch [Optimising Rails Database Queries: Episode 1](https://www.youtube.com/watch?v=79GurlaxhsI).
+- Read [Understanding EXPLAIN plans](https://docs.gitlab.com/ee/development/database/understanding_explain_plans.html).
+- Get yourself added to [`@gl-database`](https://gitlab.com/groups/gl-database/-/group_members) group and respond to @-mentions to the group (reach out to any maintainer on the group to get added). You will get TODOs on gitlab.com for group mentions..
+- Create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new) for [`psql`/`AllFeaturesUser` access to database lab/postgres.ai](https://docs.gitlab.com/ee/development/database/database_lab.html#access-database-lab-engine) if you do not already have `AllFeaturesUser` access.
 
 Tips:
 
-* If you'd like a dashboard limited to just reviews where you applied the `~"database::reviewed"` label,
+- If you'd like a dashboard limited to just reviews where you applied the `~"database::reviewed"` label,
   reach out to the database group manager to get one. ([Example](https://app.periscopedata.com/app/gitlab/1150689/Database-Reviewers-and-Maintainers?widget=16991435&udv=0))
 
 #### Project maintainer process for [`gitlab-cicd-templates`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/ci/templates)
 
-* Read over our [Development Guide for GitLab CI/CD Templates](https://docs.gitlab.com/ee/development/cicd/templates.html).
+- Read over our [Development Guide for GitLab CI/CD Templates](https://docs.gitlab.com/ee/development/cicd/templates.html).
 
 #### Project maintainer process for [`design.gitlab.com`](https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com) or [`gitlab-svgs`](https://gitlab.com/gitlab-org/gitlab-svgs)
 
-*  Understand [how to become a maintainer](https://about.gitlab.com/handbook/engineering/ux/pajamas-design-system/design-review/#maintainer).
-* All designers are maintainers of [`gitlab-design`](https://gitlab.com/gitlab-org/gitlab-design) project. If you are interested in becoming a Maintainer of UI (`.scss`) for `gitlab`, and `gitlab-ui` projects, please follow the [Engineering Review Workflow](/handbook/engineering/workflow/code-review).
-* It is up to you to ensure that you are getting enough MRs to review, and of varied types. You could also seek out more reviews from your team, for example by asking for reviews on the `#ux` and `#pajamas-design-system` Slack channels. If you are not receiving enough MRs to advance in your training, be proactive and work on your own improvements to Pajamas. This will demonstrate overall understanding of the product, as well as quality contributions, and help propel your progress. Maintainers are available to help guide you.
-* Your reviews should aim to cover maintainer responsibilities as well as reviewer responsibilities. Design Maintainers should be focused on MRs that have an impact on usability, iterate on existing user experience, and/or include usage of design guidelines, standards, and patterns. Your approval means you think it is ready to merge.
-* As maintainer, you must keep [relying on others](https://about.gitlab.com/handbook/values/#its-impossible-to-know-everything) for the expertise they have that you don't. In the MR description, highlight the efforts that showcase your results at a maintainer-level, what skills you want to continue working on, and add a link to this issue. ([Example](https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com/-/merge_requests/2395)).
+-  Understand [how to become a maintainer](https://about.gitlab.com/handbook/engineering/ux/pajamas-design-system/design-review/#maintainer).
+- All designers are maintainers of [`gitlab-design`](https://gitlab.com/gitlab-org/gitlab-design) project. If you are interested in becoming a Maintainer of UI (`.scss`) for `gitlab`, and `gitlab-ui` projects, please follow the [Engineering Review Workflow](/handbook/engineering/workflow/code-review).
+- It is up to you to ensure that you are getting enough MRs to review, and of varied types. You could also seek out more reviews from your team, for example by asking for reviews on the `#ux` and `#pajamas-design-system` Slack channels. If you are not receiving enough MRs to advance in your training, be proactive and work on your own improvements to Pajamas. This will demonstrate overall understanding of the product, as well as quality contributions, and help propel your progress. Maintainers are available to help guide you.
+- Your reviews should aim to cover maintainer responsibilities as well as reviewer responsibilities. Design Maintainers should be focused on MRs that have an impact on usability, iterate on existing user experience, and/or include usage of design guidelines, standards, and patterns. Your approval means you think it is ready to merge.
+- As maintainer, you must keep [relying on others](https://about.gitlab.com/handbook/values/#its-impossible-to-know-everything) for the expertise they have that you don't. In the MR description, highlight the efforts that showcase your results at a maintainer-level, what skills you want to continue working on, and add a link to this issue. ([Example](https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com/-/merge_requests/2395)).
 
 #### Project maintainer process for [`gitlab-quality`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/qa)
 
-* Choose which Quality project(s) you would like to become a maintainer for:
-  * [`GitLab (/qa)`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/qa)
-  * [`GitLab-QA`](https://gitlab.com/gitlab-org/gitlab-qa)
-  * [`GitLab Triage`](https://gitlab.com/gitlab-org/gitlab-triage/)
-  * [`Triage Ops`](https://gitlab.com/gitlab-org/quality/triage-ops/)
-  * [`GitLab CustomersDot (/qa)`](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/qa/)
-  * [`GitLab Environment Toolkit (GET)`](https://gitlab.com/gitlab-org/gitlab-environment-toolkit)
-  * [`GitLab Performance Tool (GPT)`](https://gitlab.com/gitlab-org/quality/performance)
-* The requirements for each project is different, please make sure to read the [maintainer section in the Quality handbook](https://about.gitlab.com/handbook/engineering/quality/project-management/#reviewers-and-maintainers).
+- Choose which Quality project(s) you would like to become a maintainer for:
+  - [`GitLab (/qa)`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/qa)
+  - [`GitLab-QA`](https://gitlab.com/gitlab-org/gitlab-qa)
+  - [`GitLab Triage`](https://gitlab.com/gitlab-org/gitlab-triage/)
+  - [`Triage Ops`](https://gitlab.com/gitlab-org/quality/triage-ops/)
+  - [`GitLab CustomersDot (/qa)`](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/qa/)
+  - [`GitLab Environment Toolkit (GET)`](https://gitlab.com/gitlab-org/gitlab-environment-toolkit)
+  - [`GitLab Performance Tool (GPT)`](https://gitlab.com/gitlab-org/quality/performance)
+- The requirements for each project is different, please make sure to read the [maintainer section in the Quality handbook](https://about.gitlab.com/handbook/engineering/quality/project-management/#reviewers-and-maintainers).
 
 #### Project maintainer process for [`gitlab-secure-analyzers`](https://gitlab.com/gitlab-org/security-products/analyzers)
 
-* Understand our [Secure Team standards and style guidelines](https://docs.gitlab.com/ee/development/go_guide/#secure-team-standards-and-style-guidelines).
-* Understand our [Secure Release Process](https://docs.gitlab.com/ee/development/sec/analyzer_development_guide.html#versioning-and-release-process).
-* Understand our [Secure QA Process](/handbook/engineering/development/sec/secure/qa_process.html).
+- Understand our [Secure Team standards and style guidelines](https://docs.gitlab.com/ee/development/go_guide/#secure-team-standards-and-style-guidelines).
+- Understand our [Secure Release Process](https://docs.gitlab.com/ee/development/sec/analyzer_development_guide.html#versioning-and-release-process).
+- Understand our [Secure QA Process](/handbook/engineering/development/sec/secure/qa_process.html).
 
 #### Project maintainer process for [`gitlab-elasticsearch-indexer`](https://gitlab.com/gitlab-org/gitlab-elasticsearch-indexer)
 
-* Complete [`golang` training](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/golang_training.md).
-* Review the [GitLab Elasticsearch Indexer development and release](https://gitlab.com/gitlab-org/gitlab-elasticsearch-indexer/-/blob/main/PROCESS.md) process.
-* Join the `#g_global_search` Slack channel.
-* Work on issues to gain familiarity with the project.
-* _Optional:_ Reach out to an (existing maintainer)[https://gitlab.com/gitlab-org/gitlab-elasticsearch-indexer/-/project_members?with_inherited_permissions=exclude] to [help you become](/handbook/engineering/workflow/code-review/#trainee-maintainer-mentorship-pilot-program) a maintainer.
+- Complete [`golang` training](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/golang_training.md).
+- Review the [GitLab Elasticsearch Indexer development and release](https://gitlab.com/gitlab-org/gitlab-elasticsearch-indexer/-/blob/main/PROCESS.md) process.
+- Join the `#g_global_search` Slack channel.
+- Work on issues to gain familiarity with the project.
+- _Optional:_ Reach out to an (existing maintainer)[https://gitlab.com/gitlab-org/gitlab-elasticsearch-indexer/-/project_members?with_inherited_permissions=exclude] to [help you become](/handbook/engineering/workflow/code-review/#trainee-maintainer-mentorship-pilot-program) a maintainer.
 
 #### Project maintainer process for [`customers-gitlab-com`](https://gitlab.com/gitlab-org/customers-gitlab-com)
 
-* Understand our [standards and style guidelines](https://docs.gitlab.com/ee/development/development_processes.html).
-* Understand the [software architecture](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/main/doc/architecture) used in Fulfillment systems.
-* Read through [CustomersDot documentation](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/doc/index.md).
-* Contribute to issues and gain familiarity with the project.
-* Contribute to reviews demonstrating domain expertise and consistency with reviewer responsibilities.
+- Understand our [standards and style guidelines](https://docs.gitlab.com/ee/development/development_processes.html).
+- Understand the [software architecture](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/main/doc/architecture) used in Fulfillment systems.
+- Read through [CustomersDot documentation](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/doc/index.md).
+- Contribute to issues and gain familiarity with the project.
+- Contribute to reviews demonstrating domain expertise and consistency with reviewer responsibilities.
 
 #### Project maintainer process for [`gitlab-secure-license-db`](https://gitlab.com/gitlab-org/security-products/license-db)
 
-* Familiarize with [GitLab Go standards and style guidelines](https://docs.gitlab.com/ee/development/go_guide).
-* Complete [Golang training issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/golang_training.md) if you don't have prior experience with Go. 
-* Watch [External License DB Architecture and Repository Walkthrough](https://www.youtube.com/watch?v=5b5QNJNwoJ8)
-* Review [Fullstack Development of LicenseDB guideline](https://gitlab.com/gitlab-org/security-products/license-db/deployment/-/blob/main/docs/fullstack_development.md).
-* Understand how to release and [deploy](https://gitlab.com/gitlab-org/security-products/license-db/deployment/-/merge_requests/162) new changes to the components.
-* Understand how [the scheduled pipelines](https://gitlab.com/gitlab-org/security-products/license-db/deployment/-/pipeline_schedules) are used for the deployment project.
-* Author or review 3 merge requests in total to a specific project in the `license-db` namespace. Maintainership is granted per project.
+- Familiarize with [GitLab Go standards and style guidelines](https://docs.gitlab.com/ee/development/go_guide).
+- Complete [Golang training issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/golang_training.md) if you don't have prior experience with Go.
+- Watch [External License DB Architecture and Repository Walkthrough](https://www.youtube.com/watch?v=5b5QNJNwoJ8)
+- Review [Fullstack Development of LicenseDB guideline](https://gitlab.com/gitlab-org/security-products/license-db/deployment/-/blob/main/docs/fullstack_development.md).
+- Understand how to release and [deploy](https://gitlab.com/gitlab-org/security-products/license-db/deployment/-/merge_requests/162) new changes to the components.
+- Understand how [the scheduled pipelines](https://gitlab.com/gitlab-org/security-products/license-db/deployment/-/pipeline_schedules) are used for the deployment project.
+- Author or review 3 merge requests in total to a specific project in the `license-db` namespace. Maintainership is granted per project.
 
 #### Project maintainer process for [`gitlab-chart`](https://gitlab.com/gitlab-org/charts/gitlab)
 
-* Familiarize yourself with [Distribution's merge request workflow](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/distribution/merge_requests.html#workflow)
-* Familiarize yourself with the [architecture](https://docs.gitlab.com/charts/architecture/index.html) and [style guide](https://docs.gitlab.com/charts/development/style_guide.html) of the GitLab Helm chart.
-* Understand the relation between the [GitLab Operator and the GitLab Helm chart](https://docs.gitlab.com/operator/developer/charts_dependency.html).
-* Contribute to issues and review merge requests.
-* Understand how the [GitLab Helm chart is tested using rspec](https://docs.gitlab.com/charts/development/rspec.html).
+- Familiarize yourself with [Distribution's merge request workflow](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/distribution/merge_requests.html#workflow)
+- Familiarize yourself with the [architecture](https://docs.gitlab.com/charts/architecture/index.html) and [style guide](https://docs.gitlab.com/charts/development/style_guide.html) of the GitLab Helm chart.
+- Understand the relation between the [GitLab Operator and the GitLab Helm chart](https://docs.gitlab.com/operator/developer/charts_dependency.html).
+- Contribute to issues and review merge requests.
+- Understand how the [GitLab Helm chart is tested using rspec](https://docs.gitlab.com/charts/development/rspec.html).
 
 #### Project maintainer process for [`gitlab-operator`](https://gitlab.com/gitlab-org/cloud-native/gitlab-operator)
 
-* Familiarize yourself with [Distribution's merge request workflow](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/distribution/merge_requests.html#workflow)
-* Familiarize youself with [GitLab Go standards and style guidelines](https://docs.gitlab.com/ee/development/go_guide).
-* Understand how [custom resources and controllers](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/) work.
-* Familiarize yourself with the following libraries and tools:
-  * [operator-sdk](https://sdk.operatorframework.io/docs/overview/)
-  * [controller-runtime](https://pkg.go.dev/sigs.k8s.io/controller-runtime)
-  * [Operator Lifecycle Manager](https://olm.operatorframework.io/docs/)
-  * [envtest](https://book.kubebuilder.io/reference/envtest.html)
-* Contribute to issues and review merge requests.
-* Understand the relation between the [GitLab Operator and the GitLab Helm chart](https://docs.gitlab.com/operator/developer/charts_dependency.html).
+- Familiarize yourself with [Distribution's merge request workflow](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/distribution/merge_requests.html#workflow)
+- Familiarize youself with [GitLab Go standards and style guidelines](https://docs.gitlab.com/ee/development/go_guide).
+- Understand how [custom resources and controllers](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/) work.
+- Familiarize yourself with the following libraries and tools:
+  - [operator-sdk](https://sdk.operatorframework.io/docs/overview/)
+  - [controller-runtime](https://pkg.go.dev/sigs.k8s.io/controller-runtime)
+  - [Operator Lifecycle Manager](https://olm.operatorframework.io/docs/)
+  - [envtest](https://book.kubebuilder.io/reference/envtest.html)
+- Contribute to issues and review merge requests.
+- Understand the relation between the [GitLab Operator and the GitLab Helm chart](https://docs.gitlab.com/operator/developer/charts_dependency.html).
 
 #### Learning to be a maintainer
 
@@ -320,67 +313,70 @@ Use this lightweight template as a starting point for defining your project's ma
 - Review project-specific release process (if one exists).
 - Join the `[project or team]` Slack channel.
 - Create a merge request and indicate your role as a `project-name: trainee_maintainer` in your [team member entry](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person). Assign MR to your manager for merge.
-- _Optional:_ Perform simulated reviews on practice MRs if available.
-- _Optional:_ Peer review MRs.
-- _Optional:_ Reach out to an existing maintainer to [help you become](https://about.gitlab.com/handbook/engineering/workflow/code-review/#reviewer-mentorship-program) a maintainer.
+- *Optional:* Perform simulated reviews on practice MRs if available.
+- *Optional:* Peer review MRs.
+- *Optional:* Reach out to an existing maintainer to [help you become](https://about.gitlab.com/handbook/engineering/workflow/code-review/#reviewer-mentorship-program) a maintainer.
 
 ### Maintainer ratios
 
 We aim to keep the engineer : maintainer ratio under 6, for both frontend and backend. We track this in the [Engineer : Maintainer Ratio dashboard][dashboard]:
 
-<embed width="100%" height="100%" style="min-height:850px;" src="<%= signed_periscope_url(dashboard: 475647, embed: 'v2') %>">
+{{< sisense dashboard="475647" >}}
 
 ### Maintainer Demand
 
 We can gauge demand by looking at the [Maintainership Demand dashboard](https://app.periscopedata.com/app/gitlab/1055628/Maintainership-Demand?widget=15440601&udv=1762708), which can be filtered by month, project and technology:
 
-<embed width="100%" height="100%" style="min-height:400px;" src="<%= signed_periscope_url(dashboard: 1055628, embed: 'v2') %>">
+{{< sisense dashboard="1055628" >}}
 
 #### About this dashboard
 
 Definitions of metrics:
-* Incoming Merge Requests - The total number of Merge Requests opened by any author.
-* Average Availability - The average percentage of time that maintainers are accepting reviews, and not busy, out of office, on vacation, or at capacity.
-* Total Maintainers - The number of engineers who have `maintainer` specified in their `team.yml`
-* Available Maintainers - The number of Total Maintainers multiplied by the Average Availability
-* Monthly Review Target - A variable number based on the expected number of reviews per maintainer in a given month. Monthly review targets can be custom based on the area, or generally defined based on the number of Incoming Merge Requests. For more information on this metric, [read below](#monthly-review-targets).
-* Target Maintainer Counts - A variable number, changing month over month, based on the number of Incoming Merge Requests to the area for that month, the current number of Total Maintainers, and the Average Availability.
-* Minimum Maintainers Required - The number of Available Maintainers required in order to meet the demand of Incoming Merge Requests.
-* Maintainers Needed - The number of Available Maintainers still needed in order to meet Minimum Maintainers Required.
-* Technology Group - For projects that have specific specialties for their maintainers, like database, backend, frontend, CI Templates, Workhorse
+
+- Incoming Merge Requests - The total number of Merge Requests opened by any author.
+- Average Availability - The average percentage of time that maintainers are accepting reviews, and not busy, out of office, on vacation, or at capacity.
+- Total Maintainers - The number of engineers who have `maintainer` specified in their `team.yml`
+- Available Maintainers - The number of Total Maintainers multiplied by the Average Availability
+- Monthly Review Target - A variable number based on the expected number of reviews per maintainer in a given month. Monthly review targets can be custom based on the area, or generally defined based on the number of Incoming Merge Requests. For more information on this metric, [read below](#monthly-review-targets).
+- Target Maintainer Counts - A variable number, changing month over month, based on the number of Incoming Merge Requests to the area for that month, the current number of Total Maintainers, and the Average Availability.
+- Minimum Maintainers Required - The number of Available Maintainers required in order to meet the demand of Incoming Merge Requests.
+- Maintainers Needed - The number of Available Maintainers still needed in order to meet Minimum Maintainers Required.
+- Technology Group - For projects that have specific specialties for their maintainers, like database, backend, frontend, CI Templates, Workhorse
 
 Explanation of charts:
-* Available Maintainers VS Need - An overall, high-level look at our maintainer targets, totals, and availability.
-* Projects where maintainers are needed - Based on the previous months data, this is an output of any area predicted to need more available maintainers.
-* Project/Area Maintainership Health - The percentage of projects (GitLab) or areas (backend) that are not meeting the Minimum Maintainers Required over time.
-* Unhealthy Core Areas of Maintainership Health - The percentage of projects (GitLab) or areas (backend) that are not meeting the Minimum Maintainers Required, and are receiving more than 100 Incoming Merge Requests per month over time.
-* Part of Product Repos - Full Data - An all-inclusive chart for each project, area, and month that includes all metrics noted above.
+
+- Available Maintainers VS Need - An overall, high-level look at our maintainer targets, totals, and availability.
+- Projects where maintainers are needed - Based on the previous months data, this is an output of any area predicted to need more available maintainers.
+- Project/Area Maintainership Health - The percentage of projects (GitLab) or areas (backend) that are not meeting the Minimum Maintainers Required over time.
+- Unhealthy Core Areas of Maintainership Health - The percentage of projects (GitLab) or areas (backend) that are not meeting the Minimum Maintainers Required, and are receiving more than 100 Incoming Merge Requests per month over time.
+- Part of Product Repos - Full Data - An all-inclusive chart for each project, area, and month that includes all metrics noted above.
 
 
 #### Monthly Review Targets
 
 Targets are calculated based on the number of available maintainers (described above) and what a "reasonable" number of reviews per maintainer per month is. "Reasonable" has been defined for some areas in [separate analysis issues](https://gitlab.com/groups/gitlab-com/-/epics/1817). These are custom targets defined in the "maintainer_custom_targets" Sisense snippet. There are general targets for all other projects based on the number of incoming merge requests to the project. These numbers are a first iteration and were based on the analysis issues, where less demanding projects had fewer maintainers (therefore requiring more monthly reviews per person) and more demanding projects had more maintainers (therefore requiring less monthly reviews per person):
-* The default target is 5 reviews per maintainer
-* If the area receives more than 10 merge requests, the monthly target is 10 reviews per maintainer
-* If the area receives more than 500 merge requests, the monthly target is 40 reviews per maintainer
-* If the area receives more than 1000 merge requests, the monthly target is 16 reviews per maintainer
-* If the area receives more than 1500 merge requests, the monthly target is 20 reviews per maintainer
+
+- The default target is 5 reviews per maintainer
+- If the area receives more than 10 merge requests, the monthly target is 10 reviews per maintainer
+- If the area receives more than 500 merge requests, the monthly target is 40 reviews per maintainer
+- If the area receives more than 1000 merge requests, the monthly target is 16 reviews per maintainer
+- If the area receives more than 1500 merge requests, the monthly target is 20 reviews per maintainer
 
 To add a custom target to an area using the `maintainer_custom_targets` Sisense snippet:
-* In Sisense, go to Snippets > `maintainer_custom_targets`
-* Add a new `CASE/WHEN` statement based on the project name and optionally technology group
-* Set the number to the ideal monthly review target per person, according to what a reasonable number of reviews is for this project
+
+- In Sisense, go to Snippets > `maintainer_custom_targets`
+- Add a new `CASE/WHEN` statement based on the project name and optionally technology group
+- Set the number to the ideal monthly review target per person, according to what a reasonable number of reviews is for this project
 
 #### Caveats
 
-* **Total Maintainer counts may show as 0** - This data is using reviewer roulette to determine the number of total maintainers because we do not have access to the project memberships in Sisense, and because many projects have maintainers/owners who are not truly active. One reason this may be showing 0 despite having maintainers on the project is because the project name displayed does not match the project name used in the `team.yml` for reviewer roulette. Another reason might be that the project is not using reviewer roulette. In these cases, the project will need to be set up and configured correctly to use reviewer roulette. Finally, the `team.yml` must match the requirements of the project or area - for example, if reviews in your project are able to go to any maintainer, the `team.yml` should specify `maintainer`. If the reviews in your project are separated by specialty, the `team.yml` must specify `maintainer [SPECIALTY]` and the merge request should be labeled according to that specialty.
-
+- **Total Maintainer counts may show as 0** - This data is using reviewer roulette to determine the number of total maintainers because we do not have access to the project memberships in Sisense, and because many projects have maintainers/owners who are not truly active. One reason this may be showing 0 despite having maintainers on the project is because the project name displayed does not match the project name used in the `team.yml` for reviewer roulette. Another reason might be that the project is not using reviewer roulette. In these cases, the project will need to be set up and configured correctly to use reviewer roulette. Finally, the `team.yml` must match the requirements of the project or area - for example, if reviews in your project are able to go to any maintainer, the `team.yml` should specify `maintainer`. If the reviews in your project are separated by specialty, the `team.yml` must specify `maintainer [SPECIALTY]` and the merge request should be labeled according to that specialty.
 
 ### Maintainer/Reviewer Availability
 
 We aim to have enough reviewers and maintainers across timezones to ensure that there are people available to review MRs in a timely manner while keeping review load at a reasonable level. We track this in the [Reviewer/Maintainer Availability and Capacity dashboard](https://app.periscopedata.com/app/gitlab/1028635/Reviewer-Maintainer-Availability-and-Capacity):
 
-<embed width="100%" height="100%" style="min-height:400px;" src="<%= signed_periscope_url(dashboard: 1028635, embed: 'v2') %>">
+{{< sisense dashboard="1028635" >}}
 
 ## Leading Organizations
 
@@ -528,4 +524,4 @@ CODEOWNERS @gitlab-org/development-leaders @gitlab-org/tw-leadership
 
 There are two ways to update the Code Owner(s) of the `CODEOWNERS` file:
 1. Update the membership of a group that already has the ability to approve CODEOWNERS changes via the [standard access request process](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
-2. Open a merge request to update the relevant lines. An existing Code Owner will have to approve the merge request. You are also encouraged to ping a security compliance team member for visibility.
+1. Open a merge request to update the relevant lines. An existing Code Owner will have to approve the merge request. You are also encouraged to ping a security compliance team member for visibility.

@@ -1,17 +1,10 @@
 ---
-
 title: "Release/Feature Determination Workflow"
 ---
 
 This document explains the workflow for determining if a feature will be included in a milestone release for the purposes of inclusion in the release blog post.
 
-
-
-
-
-
-
-# Release/Feature Determination Workflow
+## Release/Feature Determination Workflow
 
 Each release post is composed of many MRs created by PMs to describe the various sections of the post. When these MRs have been reviewed and are ready to be published, they will be assigned to the relevant engineering manager at which point, this process begins. For example: [https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/32608](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/32608).
 
@@ -22,7 +15,6 @@ To help make this work a bit easier, a tool has been created to automate the man
 ## Manual Process
 
 In some cases the automation won't be able to determine the status, in which case the manual process described below should be used.
-
 
 ### Step 1: Find the Relevant Issue
 

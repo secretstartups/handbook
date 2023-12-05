@@ -1,17 +1,10 @@
 ---
-
 title: "Engineering Workflow"
 description: "This document explains the workflow for anyone working with issues in GitLab Inc."
 ---
 
 This document explains the workflow for anyone working with issues in GitLab Inc.
 For the workflow that applies to the wider community see the [contributing guide](https://docs.gitlab.com/ee/development/contributing/).
-
-
-
-
-
-
 
 ## GitLab Flow
 
@@ -26,12 +19,12 @@ and [bias for action](/handbook/values/#bias-for-action), anyone can
 propose to revert a merge request. When deciding whether an MR should be reverted,
 the following should be true:
 
-* Something broke and there is no acceptable work around. Examples of this include:
-  * A feature broke and is categorized as `~severity::1` or `~severity::2`.
+- Something broke and there is no acceptable work around. Examples of this include:
+  - A feature broke and is categorized as `~severity::1` or `~severity::2`.
   [See severity labels](/handbook/engineering/quality/issue-triage/#severity)
-  * [Master broken](#broken-master)
-  * There are failing migrations
-* There are no dependencies on the change. For example, a database
+  - [Master broken](#broken-master)
+  - There are failing migrations
+- There are no dependencies on the change. For example, a database
 migration has not been run on production.
 
 Reverting merge requests that add non-functional changes and don't remove any existing capabilities
@@ -101,8 +94,8 @@ For now, all broken master incidents are also reported in the `#master-broken` c
 #### Triage DRI Responsibilities
 
 1. Monitor
-   * Pipeline failures are sent to the triage DRI's group channel, if one is identified, and will be reviewed by its group members. The failures will also be sent to [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) as a backup channel, in case the failure cannot be traced to a group, or if the triage DRI requires assistance. To maintain a scalable workflow, notifications posted in [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) does not require a manual acknowledgement from the Engineering Productivity team if the incident is announced in another DRI group's Slack channel.
-   * If the incident is a duplicate of an existing incident, use the following quick actions to close the duplicate incident:
+   - Pipeline failures are sent to the triage DRI's group channel, if one is identified, and will be reviewed by its group members. The failures will also be sent to [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) as a backup channel, in case the failure cannot be traced to a group, or if the triage DRI requires assistance. To maintain a scalable workflow, notifications posted in [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) does not require a manual acknowledgement from the Engineering Productivity team if the incident is announced in another DRI group's Slack channel.
+   - If the incident is a duplicate of an existing incident, use the following quick actions to close the duplicate incident:
 
       ```shell
       /assign me
@@ -110,24 +103,24 @@ For now, all broken master incidents are also reported in the `#master-broken` c
       /copy_metadata #<original_issue_id>
       ```
 
-   * If the incident is not a duplicate, and needs some investigation:
-     * Assign the incident to yourself: `/assign me`
-     * Change the incident status to `Acknowledged` (in the right-side menu).
-     * In Slack, the `:ack:` emoji reaction should be applied by the triage DRI to signal the linked incident status has been changed to `Acknowledged` and the incident is actively being triaged.
+   - If the incident is not a duplicate, and needs some investigation:
+     - Assign the incident to yourself: `/assign me`
+     - Change the incident status to `Acknowledged` (in the right-side menu).
+     - In Slack, the `:ack:` emoji reaction should be applied by the triage DRI to signal the linked incident status has been changed to `Acknowledged` and the incident is actively being triaged.
 
 1. Identification
-   * Review non-resolved [broken `master` incidents](https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents/-/issues) for the same failure. If the broken `master` is related to a test failure, [search the spec file in the issue search](https://gitlab.com/gitlab-org/gitlab/-/issues?sort=created_desc&state=opened&label_name[]=failure::flaky-test) to see if there's a known `failure::flaky-test` issue.
-   * If this incident is **due to non-flaky reasons**, communicate in `#development`, `#backend`, and `#frontend` using the Slack Workflow.
-      * Click the "lightning bolt" shortcut icon in the `#master-broken` channel and select `Broadcast Master Broken`, then click `Continue the broadcast`.
-      * [Create a revert MR directly](#reverting-a-merge-request) to save some time in case we need to revert down the line.
-        * If you are reverting an MR that performs a database migration, you need to follow the [Deployment blockers process](https://about.gitlab.com/handbook/engineering/deployments-and-releases/deployments/#deployment-blockers) to prevent the migration from proceeding to deploy and running on staging and production.
-        * If the migration is executed in any environments, communicate to the release managers in `#releases` channel and discuss whether it's appropriate to create another migration to roll back the first migration or turn the migration into a no-op by following [Disabling a data migration steps](https://docs.gitlab.com/ee/development/database/deleting_migrations.html#how-to-disable-a-data-migration).
-   * If you identified that `master` fails **for a flaky reason**, and it cannot be reliably reproduced (i.e. running the failing spec locally or retry the failing job):
-      * [Quarantine](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#quarantined-tests) the failing test to restore pipeline stability within 30 minutes if the flakiness is continuously causing master pipeline incidents.
-      * Alternatively, if the failure does not seem disruptive, and you have a fix that you are confident with, submit the fix MR with the ~"master:broken" label to ensure your pipeline is expedited.
-      * If a flaky test issue already exists, add a comment in it with a link to the failed broken master incident and/or failed job.
-      * If a flaky test issue doesn't exist, create an issue from the `New issue` button in top-right of the failing job page (that will automatically add a link to the job in the issue), and apply the `Broken Master - Flaky` description template.
-      * Add the appropriate labels to the main incident:
+   - Review non-resolved [broken `master` incidents](https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents/-/issues) for the same failure. If the broken `master` is related to a test failure, [search the spec file in the issue search](https://gitlab.com/gitlab-org/gitlab/-/issues?sort=created_desc&state=opened&label_name[]=failure::flaky-test) to see if there's a known `failure::flaky-test` issue.
+   - If this incident is **due to non-flaky reasons**, communicate in `#development`, `#backend`, and `#frontend` using the Slack Workflow.
+      - Click the "lightning bolt" shortcut icon in the `#master-broken` channel and select `Broadcast Master Broken`, then click `Continue the broadcast`.
+      - [Create a revert MR directly](#reverting-a-merge-request) to save some time in case we need to revert down the line.
+        - If you are reverting an MR that performs a database migration, you need to follow the [Deployment blockers process](https://about.gitlab.com/handbook/engineering/deployments-and-releases/deployments/#deployment-blockers) to prevent the migration from proceeding to deploy and running on staging and production.
+        - If the migration is executed in any environments, communicate to the release managers in `#releases` channel and discuss whether it's appropriate to create another migration to roll back the first migration or turn the migration into a no-op by following [Disabling a data migration steps](https://docs.gitlab.com/ee/development/database/deleting_migrations.html#how-to-disable-a-data-migration).
+   - If you identified that `master` fails **for a flaky reason**, and it cannot be reliably reproduced (i.e. running the failing spec locally or retry the failing job):
+      - [Quarantine](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#quarantined-tests) the failing test to restore pipeline stability within 30 minutes if the flakiness is continuously causing master pipeline incidents.
+      - Alternatively, if the failure does not seem disruptive, and you have a fix that you are confident with, submit the fix MR with the ~"master:broken" label to ensure your pipeline is expedited.
+      - If a flaky test issue already exists, add a comment in it with a link to the failed broken master incident and/or failed job.
+      - If a flaky test issue doesn't exist, create an issue from the `New issue` button in top-right of the failing job page (that will automatically add a link to the job in the issue), and apply the `Broken Master - Flaky` description template.
+      - Add the appropriate labels to the main incident:
 
         ```shell
         # Add those labels
@@ -144,19 +137,19 @@ For now, all broken master incidents are also reported in the `#master-broken` c
         /label ~"flaky-test::unstable infrastructure"
         ```
 
-      * Close the incident
-   * Add the stacktrace of the error to the incident (if it is not already posted by gitlab-bot), as well as Capybara screenshots if available in the job artifacts.
-     * To find the screenshot: download the job artifact, and copy the screenshot in `artifacts/tmp/capybara` to the incident if one is available.
-   * Identify the merge request that introduced the failures. There are a few possible approaches to try:
-      * Check the commit in the failed job, and find the associated MR, if any (it’s not as simple most of the times though).
-      * [Look at the project activity](https://gitlab.com/gitlab-org/gitlab/activity), and search for keywords in the recent merged events.
-      * [Look at the recent commits on master](https://gitlab.com/gitlab-org/gitlab/-/commits/master) and search for keywords you might see in the failing job/specs (e.g. if you see a `geo` spec file is failing, specifically the `shard` spec, search for those keywords in the commit history).
-        * You can [filter with the `Merge branch` text](https://gitlab.com/gitlab-org/gitlab/-/commits/master?search=Merge%20branch) to only see merge commits.
-      * Look at the spec file history or blame views, by clicking respectively the `History` or `Blame` button at the top of a file in the file explorer, e.g. at <https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/backup.rb>.
-    * If you identified a merge request, assign the incident to its author if they are available at the moment. If they are not available, assign to the maintainer that approved/merged the MR. If none are available, mention the team Engineering Manager and seek assistance in the `#development` Slack channel.
-      * You can find the team somebody is in and who's the manager for that team by searching in https://about.gitlab.com/handbook/product/categories/.
-    * If no merge request was identified, ask for assistance in the `#development` Slack channel.
-    * Please set the appropriate `~master-broken:*` label from the list below:
+      - Close the incident
+   - Add the stacktrace of the error to the incident (if it is not already posted by gitlab-bot), as well as Capybara screenshots if available in the job artifacts.
+     - To find the screenshot: download the job artifact, and copy the screenshot in `artifacts/tmp/capybara` to the incident if one is available.
+   - Identify the merge request that introduced the failures. There are a few possible approaches to try:
+      - Check the commit in the failed job, and find the associated MR, if any (it’s not as simple most of the times though).
+      - [Look at the project activity](https://gitlab.com/gitlab-org/gitlab/activity), and search for keywords in the recent merged events.
+      - [Look at the recent commits on master](https://gitlab.com/gitlab-org/gitlab/-/commits/master) and search for keywords you might see in the failing job/specs (e.g. if you see a `geo` spec file is failing, specifically the `shard` spec, search for those keywords in the commit history).
+        - You can [filter with the `Merge branch` text](https://gitlab.com/gitlab-org/gitlab/-/commits/master?search=Merge%20branch) to only see merge commits.
+      - Look at the spec file history or blame views, by clicking respectively the `History` or `Blame` button at the top of a file in the file explorer, e.g. at <https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/backup.rb>.
+    - If you identified a merge request, assign the incident to its author if they are available at the moment. If they are not available, assign to the maintainer that approved/merged the MR. If none are available, mention the team Engineering Manager and seek assistance in the `#development` Slack channel.
+      - You can find the team somebody is in and who's the manager for that team by searching in https://about.gitlab.com/handbook/product/categories/.
+    - If no merge request was identified, ask for assistance in the `#development` Slack channel.
+    - Please set the appropriate `~master-broken:*` label from the list below:
 
       ```shell
       /label ~"master-broken::caching"
@@ -177,15 +170,15 @@ For now, all broken master incidents are also reported in the `#master-broken` c
       /label ~"master-broken::undetermined"
       ```
 
-    * When the master-broken is resolved, close the incident.
-2. (Optional) Pre-resolution
-   * If the triage DRI believes that there's an easy resolution by either:
-      * Reverting a particular merge request.
-      * Making a quick fix (for example, one line or a few similar simple changes in a few lines).
+    - When the master-broken is resolved, close the incident.
+1. (Optional) Pre-resolution
+   - If the triage DRI believes that there's an easy resolution by either:
+      - Reverting a particular merge request.
+      - Making a quick fix (for example, one line or a few similar simple changes in a few lines).
 
      The triage DRI can create a merge request, assign to any available maintainer, and ping the resolution DRI with a `@username FYI` message.
      Additionally, a message can be posted in `#backend_maintainers` or `#frontend_maintainers` to get a maintainer take a look at the fix ASAP.
-   * If the failures occur only in `test-on-gdk` jobs, it's possible to stop those jobs from being added to new pipelines while the cause is being fixed. See the [runbook](https://gitlab.com/gitlab-org/quality/runbooks/-/tree/main/test-on-gdk#disable-the-e2etest-on-gdk-pipeline) for details.
+   - If the failures occur only in `test-on-gdk` jobs, it's possible to stop those jobs from being added to new pipelines while the cause is being fixed. See the [runbook](https://gitlab.com/gitlab-org/quality/runbooks/-/tree/main/test-on-gdk#disable-the-e2etest-on-gdk-pipeline) for details.
 
 ### Resolution of broken master
 
@@ -196,16 +189,16 @@ If a DRI has not acknowledged or signaled working on a fix, any developer can ta
 #### Responsibilities of the resolution DRI
 
 1. Prioritize resolving broken `master` incidents over new bug/feature work. Resolution options include:
-   * **Default**: Revert the merge request which caused the broken `master`. If a revert is performed,
+   - **Default**: Revert the merge request which caused the broken `master`. If a revert is performed,
      create an issue to reinstate the merge request and assign it to the author
      of the reverted merge request.
-       * Reverts can go straight to maintainer review and require 1 maintainer approval.
-       * The maintainer can request additional review/approvals if the revert is not trivial.
-       * The `pipeline:expedite` label, and `master:broken` or `master:foss-broken` label must be set on merge requests that fix `master` to skip some non-essential jobs in order to speed up the MR pipelines.
-   * [Quarantine](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#quarantined-tests) the failing test if you can confirm that it is flaky (e.g. it wasn't touched recently and passed after retrying the failed job).
-     * Add the `quarantined test` label to the `failure::flaky-test` issue you previously created during the identification phase.
-   * Create a new merge request to fix the failure if revert is not possible or would introduce additional risk. This should be treated as a `priority::1` `severity::1` issue.
-     * To ensure efficient review of the fix, the merge request should only contain the minimum change needed to fix the failure. Additional refactor or improvement to the code should be done as a follow-up.
+       - Reverts can go straight to maintainer review and require 1 maintainer approval.
+       - The maintainer can request additional review/approvals if the revert is not trivial.
+       - The `pipeline:expedite` label, and `master:broken` or `master:foss-broken` label must be set on merge requests that fix `master` to skip some non-essential jobs in order to speed up the MR pipelines.
+   - [Quarantine](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#quarantined-tests) the failing test if you can confirm that it is flaky (e.g. it wasn't touched recently and passed after retrying the failed job).
+     - Add the `quarantined test` label to the `failure::flaky-test` issue you previously created during the identification phase.
+   - Create a new merge request to fix the failure if revert is not possible or would introduce additional risk. This should be treated as a `priority::1` `severity::1` issue.
+     - To ensure efficient review of the fix, the merge request should only contain the minimum change needed to fix the failure. Additional refactor or improvement to the code should be done as a follow-up.
 1. Apply the `Pick into auto-deploy` label (along with the needed `severity::1` and `priority::1`) to make sure deployments are unblocked.
 1. If the broken `master` incident affects any stable branches (e.g. <https://gitlab.com/gitlab-org/gitlab/-/merge_requests/25274>) or is caused by a flaky failure,
    open new merge requests **directly against the active stable branches** and ping the current release manager in the merge requests to avoid
@@ -222,10 +215,10 @@ If a DRI has not acknowledged or signaled working on a fix, any developer can ta
 
 Once the resolution DRI announces that `master` is fixed:
 
-* Maintainers should start a new merged results pipeline (for canonical MRs)
+- Maintainers should start a new merged results pipeline (for canonical MRs)
   and enable "Auto-merge".
   There's no need to rebase once `master` has been fixed since we use [merged results pipelines](https://docs.gitlab.com/ee/ci/pipelines/merged_results_pipelines.html).
-* (For forks only) Authors should rebase their open merge requests (since
+- (For forks only) Authors should rebase their open merge requests (since
   [merged results pipelines](https://docs.gitlab.com/ee/ci/pipelines/merged_results_pipelines.html)
   isn't supported in these cases).
 
@@ -255,9 +248,9 @@ First, ensure the latest pipeline has completed less than 2 hours ago (although 
 
 Next, make a request on Slack:
 
-1. Post to either the `#frontend_maintainers` _or_ `#backend_maintainers` Slack
+1. Post to either the `#frontend_maintainers` *or* `#backend_maintainers` Slack
    channels (whichever one is more relevant).
-1. In your post outline _why_ the merge request is [urgent](#criteria-for-merging-during-broken-master).
+1. In your post outline *why* the merge request is [urgent](#criteria-for-merging-during-broken-master).
 1. Make it clear that this would be a merge during a broken `master`, optionally add a link to this
    page in your request.
 
@@ -266,7 +259,7 @@ Next, make a request on Slack:
 A maintainer who sees a request to merge during a broken `master` must follow this process.
 
 Note, if any part of the process below disqualifies a merge request from being merged
-during a broken `master` then the maintainer must inform the requestor as to _why_ in the
+during a broken `master` then the maintainer must inform the requestor as to *why* in the
 merge request (and optionally in the Slack thread of the request).
 
 First, assess the request:
@@ -328,7 +321,7 @@ If you find a security issue in GitLab, create a **confidential issue** mentioni
 If you accidentally push security commits to `gitlab-org/gitlab`, we recommend that you:
 
 1. Delete the relevant branch ASAP
-2. Inform a release manager in `#releases`. It may be possible to execute a garbage collection (via the Housekeeping task in the repository settings) to remove the commits.
+1. Inform a release manager in `#releases`. It may be possible to execute a garbage collection (via the Housekeeping task in the repository settings) to remove the commits.
 
 For more information on how the entire process works for security releases, see the
 [documentation on security releases](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md).
@@ -339,7 +332,7 @@ A `~regression` implies that a previously **verified working functionality** no 
 Regressions are a subset of bugs. The `~regression` label is used to imply that the defect caused the functionality to regress.
 The label tells us that something worked before and it needs extra attention from Engineering and Product Managers to schedule/reschedule.
 
-The regression label does not apply to bugs for new features for which functionality was **never verified as working**. 
+The regression label does not apply to bugs for new features for which functionality was **never verified as working**.
 These, by definition, are not regressions.
 
 A regression should always have the `~regression:xx.x` label on it to designate when it was introduced. If it's unclear when it was introduced, the latest released version should be added.
@@ -644,10 +637,10 @@ Discussion topics are suggested by participants by commenting on the Retrospecti
 
 **Meeting Agenda**
 
-* Improvement tasks from the previous release (5 minutes)
-* Discussion topics (14 minutes, 2 topics at 7 minutes each)
-* Improvement tasks from the current release (5 minutes)
-* Wrap up (1 minute)
+- Improvement tasks from the previous release (5 minutes)
+- Discussion topics (14 minutes, 2 topics at 7 minutes each)
+- Improvement tasks from the current release (5 minutes)
+- Wrap up (1 minute)
 
 **Steps for participants**
 
@@ -732,12 +725,13 @@ This is currently implemented as part of our [automated triage operations](https
 We keep the milestone open for 3 months after it's expired, based on the [release and maintenance policy](https://docs.gitlab.com/ee/policy/maintenance.html).
 
 The milestone cleanup is currently applied to the [following groups and projects](https://gitlab.com/gitlab-org/quality/triage-ops/blob/master/.gitlab/ci/missed-resources.yml):
-* [GitLab](https://gitlab.com/gitlab-org/gitlab), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/10515/edit)
-* [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/29681/edit)
-* [GitLab Gitaly](https://gitlab.com/gitlab-org/gitaly), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/29054/edit)
-* [GitLab charts](https://gitlab.com/gitlab-org/charts), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/39481/edit)
-* [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/29050/edit)
-* [Omnibus GitLab](https://gitlab.com/gitlab-org/omnibus-gitlab), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/31880/edit) (only moving milestone for now, not labelling)
+
+- [GitLab](https://gitlab.com/gitlab-org/gitlab), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/10515/edit)
+- [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/29681/edit)
+- [GitLab Gitaly](https://gitlab.com/gitlab-org/gitaly), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/29054/edit)
+- [GitLab charts](https://gitlab.com/gitlab-org/charts), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/39481/edit)
+- [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/29050/edit)
+- [Omnibus GitLab](https://gitlab.com/gitlab-org/omnibus-gitlab), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/31880/edit) (only moving milestone for now, not labelling)
 
 Milestones closure is in the remit of [the Delivery team](/handbook/engineering/infrastructure/team/delivery/). At any point in time a release might need to be created for an active milestone,and once that is no longer the case, the Delivery team closes the milestone.
 
@@ -823,14 +817,14 @@ From time to time, there are occasions that engineering team must act quickly in
 
 Not everything is urgent. See below for a non-exclusive list of things that are in-scope and not in-scope. As always, use your experience and judgment, and communicate with others.
 
-* In Scope
-  * Last-minute release blocking bug or security patch before an imminent release.
-  * High severity (severity::1/priority::1) security issues. Refer to [security severity and priority](/handbook/security/#severity-and-priority-labels-on-security-issues).
-  * Highest priority and severity customer issues based on the [priority and severity definitions](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/issue_workflow.md#priority-labels).
-* Not In Scope
-  * An operational issue of GitLab.com or a self managed customer environment. This falls under the [on-call](/handbook/on-call/index.html) process.
-  * Self developed and maintained tools that are not officially supported products by GitLab.
-  * Feature request by a specific customer.
+- In Scope
+  - Last-minute release blocking bug or security patch before an imminent release.
+  - High severity (severity::1/priority::1) security issues. Refer to [security severity and priority](/handbook/security/#severity-and-priority-labels-on-security-issues).
+  - Highest priority and severity customer issues based on the [priority and severity definitions](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/issue_workflow.md#priority-labels).
+- Not In Scope
+  - An operational issue of GitLab.com or a self managed customer environment. This falls under the [on-call](/handbook/on-call/index.html) process.
+  - Self developed and maintained tools that are not officially supported products by GitLab.
+  - Feature request by a specific customer.
 
 ### Process
 

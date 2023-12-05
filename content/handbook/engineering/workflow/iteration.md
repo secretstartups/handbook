@@ -1,15 +1,6 @@
 ---
-
 title: "Iteration"
 ---
-
-
-
-
-
-
-
-## Overview
 
 In order to provide changes in an [iterative](/handbook/values/#iteration) and [incremental manner](/handbook/product/product-principles/#iteration), we should always seek to create smaller merge requests.
 
