@@ -2,6 +2,10 @@
 title: "Security Asset Management Standard"
 ---
 
+{{% alert title="This is a Controlled Document" color="danger" %}}
+Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
+{{% /alert %}}
+
 ## Purpose
 
 This document defines asset management measures and guidelines to support the protection of information assets in GitLab's all remote organizational environment. The measures and guidelines noted within the standard are designed to create a secure infrastructure, work environment, and protect sensitive information from physical threats.
