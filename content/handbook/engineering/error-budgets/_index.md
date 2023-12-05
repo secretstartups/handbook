@@ -1,14 +1,7 @@
 ---
-
 title: "Engineering Error Budgets"
 description: "The error budget provides a clear, objective metric that determines how unreliable the service is allowed to be within a single quarter."
 ---
-
-
-
-
-
-
 
 As part of [our strategy][strategy] to [reinforce GitLab SaaS][product strategy] as an enterprise grade platform ready for business critical workloads, GitLab.com has specific [Availability][availability] and [Performance][performance] targets.
 
@@ -38,13 +31,13 @@ Here is an example of these elements:
 - **SLI**: 95th percentile latency of api requests over 5 mins is < 100ms
 - **Timeframe**: previous 28 days
 
-Taken all together, the above example SLO would be: **_99.95% of the 95th percentile latency of api requests over 5 mins is < 100ms over the previous 28 days_**
+Taken all together, the above example SLO would be: ***99.95% of the 95th percentile latency of api requests over 5 mins is < 100ms over the previous 28 days***
 
 The Error Budget is then 1 - Objective of the SLO, in this case (1 - .9995 = .0005).  Using our 28 day timeframe, **the "budget" for errors is 20.16 minutes** (.0005 * (28 * 24 * 60))
 
 While the above example shows the SLI as a latency measurement, it is important to note that other measurements (such as % errors) are also good elements to use for SLIs.
 
-GitLab's current implementation of Error Budgets is only using some of the above sophistication of SLOs and Error Budgets, but we expect to increase the sophistication in the future. It is expected that the practices of SLOs and Error Budgets evolve to have **_both_** the objective and the SLI vary (appropriately) based on the criticality of the service as well as the resiliency of other services and components which depend on it.
+GitLab's current implementation of Error Budgets is only using some of the above sophistication of SLOs and Error Budgets, but we expect to increase the sophistication in the future. It is expected that the practices of SLOs and Error Budgets evolve to have ***both*** the objective and the SLI vary (appropriately) based on the criticality of the service as well as the resiliency of other services and components which depend on it.
 
 ## Which types of errors are included?
 
@@ -58,7 +51,7 @@ Engineers can use `Gitlab::ErrorTracking.track_exception`, or other logging, fre
 
 GitLab is a complex system that needs to be delivered as a highly available SaaS platform. Over the years, several processes have been introduced to address some of the challenges of maintaining feature delivery velocity while ensuring that the SaaS reliability continues to increase.
 
-The [Infradev Process](/handbook/engineering/workflow/#infradev) was created to prioritize resolving an issue after an incident or degradation has happened. While the process has proven to be successful, it is _event-focused_ and _event-driven_.
+The [Infradev Process](/handbook/engineering/workflow/#infradev) was created to prioritize resolving an issue after an incident or degradation has happened. While the process has proven to be successful, it is *event-focused* and *event-driven*.
 
 The [Engineering Allocation Process](/handbook/engineering/#engineering-allocation) was created to address long term team efficiency, performance and security items.
 
@@ -71,9 +64,9 @@ Assigning error budgets down to the feature category sets a baseline for specifi
 Each group has a `Budget spend attribution` section in their
 [Budget detail dashboard](https://docs.gitlab.com/ee/development/stage_group_observability/dashboards/error_budget_detail.html) that allows them to [discover where their budget is being spent](https://docs.gitlab.com/ee/development/stage_group_observability/index.html#check-where-budget-is-being-spent).
 
-Both the `Budget failures` panel and each link in the `Failure log links` panel are ordered by the number of errors. Prioritising fixing the top offenders in these tables will have the biggest impact on the budget spent. 
+Both the `Budget failures` panel and each link in the `Failure log links` panel are ordered by the number of errors. Prioritising fixing the top offenders in these tables will have the biggest impact on the budget spent.
 
-Let's take look at a simplified violation scenario with different traffic 
+Let's take look at a simplified violation scenario with different traffic
 patterns:
 
 | Endpoint   | Total requests | Slow requests | Apdex ratio | Traffic share |
@@ -81,8 +74,8 @@ patterns:
 | Endpoint A | 1 000          | 500           | 50%         | 1%            |
 | Endpoint B | 99 000         | 9 000         | 90%         | 99%           |
 
-Even though `Endpoint A` has a lower apdex ratio, fixing more violations from 
-`Endpoint B` will have a greater impact on the error budget overall, as they 
+Even though `Endpoint A` has a lower apdex ratio, fixing more violations from
+`Endpoint B` will have a greater impact on the error budget overall, as they
 account for the majority of violations impacting the error budget.
 
 Now let's take a look at a more complex violation scenario:
@@ -92,15 +85,15 @@ Now let's take a look at a more complex violation scenario:
 | Endpoint A | 100 000        | 30            | 99.97%      | 80%           |
 | Endpoint B | 25 000         | 30            | 99.88%      | 20%           |
 
-The 30 errors from `Endpoint A` and `Endpoint B` both have an identical impact 
-on the error budget.  However, it would be better to work on `Endpoint B` 
-because it has a higher ratio of slow requests / overall requests. Because 
-`Endpoint A` is already meeting the target of 99.95%, no additional work is required here. 
-99.97% is a good score and any deliberate improvements here could be considered a premature optimization. 
+The 30 errors from `Endpoint A` and `Endpoint B` both have an identical impact
+on the error budget.  However, it would be better to work on `Endpoint B`
+because it has a higher ratio of slow requests / overall requests. Because
+`Endpoint A` is already meeting the target of 99.95%, no additional work is required here.
+99.97% is a good score and any deliberate improvements here could be considered a premature optimization.
 
 The number of violations for `Endpoint B` puts it below the apdex
 threshold, so if these two endpoints are the top violators we see, we
-should look into improving `Endpoint B`. 
+should look into improving `Endpoint B`.
 
 # The Error Budget Policy for GitLab.com
 
@@ -140,15 +133,15 @@ The number or complexity of features owned by a team, existing product prioritie
 On the 4th of each month, the Error Budget Report is delivered for the Budget Spend by Stage Group.
 The announcements appear in `#product`, `#eng-managers`, `#f_error_budgets` and `#development`.
 
-There can be months where many stage groups are over budget because of an underlying infrastructure issue. 
-When the report is generated, if there are more than 5 groups over budget (where the group's traffic share is >0.1%), the Scalability Group will investigate the increased spend before issuing the report. We will announce in the Slack channels that we are investigating before issuing the report. 
-The intention is to prevent duplicate investigations by multiple teams. 
+There can be months where many stage groups are over budget because of an underlying infrastructure issue.
+When the report is generated, if there are more than 5 groups over budget (where the group's traffic share is >0.1%), the Scalability Group will investigate the increased spend before issuing the report. We will announce in the Slack channels that we are investigating before issuing the report.
+The intention is to prevent duplicate investigations by multiple teams.
 
-Stage groups are expected to review the monthly Error Budget Report and comment on any overspend in their feature categories. 
+Stage groups are expected to review the monthly Error Budget Report and comment on any overspend in their feature categories.
 
 ### Error Budgets in the Engineering Allocation Meeting
 
-Stage groups are not expected to report weekly on their Error Budget spend. 
+Stage groups are not expected to report weekly on their Error Budget spend.
 Feature categories with monthly spend above the allocated budget for three consecutive months will be added to the agenda for discussion.
 
 ## Budget spend(by service)
@@ -214,16 +207,16 @@ The [Scalability:Projections team](/handbook/engineering/infrastructure/team/sca
 
 When a group gets created, the group is added to the [`stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/stages.yml). In that merge request, the new group will get assigned new or existing feature categories.
 
-When this MR is merged, Scalability receives an automated issue to update the metrics catalog in our recording infrastructure. This occurs within one week of the new group being added to `stages.yml`. 
+When this MR is merged, Scalability receives an automated issue to update the metrics catalog in our recording infrastructure. This occurs within one week of the new group being added to `stages.yml`.
 
-When that metrics catalog is updated, the metrics for the relevant feature categories will get attributed to the new stage group. Similar to when the attribution is changed, the change is not retroactive. This means if an existing feature category moves from `source code` to `code review` on the 15th, that feature category will contribute to the error budget of `source code` for the metrics emitted from the 1st to the 15th. The metrics from the 15th onward will be counted towards the error budget for `code review`. 
+When that metrics catalog is updated, the metrics for the relevant feature categories will get attributed to the new stage group. Similar to when the attribution is changed, the change is not retroactive. This means if an existing feature category moves from `source code` to `code review` on the 15th, that feature category will contribute to the error budget of `source code` for the metrics emitted from the 1st to the 15th. The metrics from the 15th onward will be counted towards the error budget for `code review`.
 
 The same applies when a group is renamed or a stage moves: if a group rename was merged in the metrics catalog on the 15th, the 28 day report will include 15 days of data for the group's old name, while the most recent days will be attributed to the group with the new name.
 
 ### Contract
 
-Stage groups who have a traffic share of >0.01% in a given month should abide by this contract to balance feature development with reliability development. 
-The traffic share for a stage group is visible on the monthly Error Budget Report. 
+Stage groups who have a traffic share of >0.01% in a given month should abide by this contract to balance feature development with reliability development.
+The traffic share for a stage group is visible on the monthly Error Budget Report.
 
 Error Budgets should be reviewed monthly as part of the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline).
 
@@ -249,7 +242,7 @@ Our current contract is 99.95% availability and a 20 minute monthly error budget
 
 **Exceptions**
 
-Temporary exceptions are granted as a means to allow different stakeholders to fulfill higher priority business needs, if it is estimated that the granted exception is not creating additional risk to GitLab.com reliability. Note that _exceptions_ are different from [Custom Targets](/handbook/engineering/error-budgets/custom-targets/index.html), which set properties on endpoints defining acceptable performance.
+Temporary exceptions are granted as a means to allow different stakeholders to fulfill higher priority business needs, if it is estimated that the granted exception is not creating additional risk to GitLab.com reliability. Note that *exceptions* are different from [Custom Targets](/handbook/engineering/error-budgets/custom-targets/index.html), which set properties on endpoints defining acceptable performance.
 
 Valid reasons for an exception are:
 
@@ -284,9 +277,9 @@ Follow the guidance and instructions above to expedite the approval process.
 **Assign the MR for approval to:**
 
 1. Director of Product or above (of the affected stage group)
-    * They are responsible for ensuring that the business need is met, and will need to communicate the change up and down the chain of reporting.
+    - They are responsible for ensuring that the business need is met, and will need to communicate the change up and down the chain of reporting.
 1. Senior Manager of Infrastructure or up
-    * They are responsible for ensuring that GitLab.com will not be negatively impacted, and will need to communicate the exception up and down the chain of reporting.
+    - They are responsible for ensuring that GitLab.com will not be negatively impacted, and will need to communicate the exception up and down the chain of reporting.
 
 ### Error Budget Improvements
 
@@ -301,18 +294,18 @@ Improvement` and the `group::` label so they can be tracked in reports.
 | Product Management | [Maintaining the Spend of the Error Budget](https://app.periscopedata.com/app/gitlab/891029/Error-Budgets-Overview) | 20 minutes over 28 days (equivalent to 99.95% availability) | Complete - In Sisense |
 | Infrastructure | [Setting the Error Budget Minutes and Availability Target](/handbook/engineering/infrastructure/performance-indicators/#gitlabcom-availability) | 99.95% (20 minutes over 28 days Error Budget) | Complete - In Grafana |
 
-* For groups with [engineering allocations](https://about.gitlab.com/handbook/engineering/#engineering-allocation), the responsibility to maintain the spend of error budget is with the development team instead of the product management team.
+- For groups with [engineering allocations](https://about.gitlab.com/handbook/engineering/#engineering-allocation), the responsibility to maintain the spend of error budget is with the development team instead of the product management team.
 
-# Current State and Future Intent
+## Current State and Future Intent
 
-## Current State
+### Current State
 
 1. Error budgets exist for each feature category and incorporate a standard apdex threshold and error rate.
 1. Error budgets are published for stage groups and stages through Grafana and Sisense Dashboards.
 1. Contributing factors are explorable through links available on the Grafana Dashboards.
 1. Error budgets are included in the [Product Prioritization process](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline).
 
-## Roadmap
+### Roadmap
 
 The changes below aim to increase the maturity of the Error Budgets.
 
@@ -320,8 +313,8 @@ The changes below aim to increase the maturity of the Error Budgets.
 
 **Improvements**
 
-- _**Cancelled**_ The SLO targets originally used for Error Budgets are coupled with the alerting used for Infrastructure monitoring. We [proposed to use Sisense to be able to set targets by stage group](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1236), but this approach was not favoured. We found a method to use separate targets for the Infrastructure monitoring and the Error Budgets, but the decision was taken to keep the targets the same and adjust the default latency threshold for the apdex portion of the Error Budgets (see next item).
-- _**Completed**_ SLI calculations used request duration threshold which was not appropriate for all endpoints. [The threshold was increased to 5s](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1243) on the 21st of Sept and it will take 28 days for the full effect to be shown in the Error Budgets.
+- ***Cancelled*** The SLO targets originally used for Error Budgets are coupled with the alerting used for Infrastructure monitoring. We [proposed to use Sisense to be able to set targets by stage group](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1236), but this approach was not favoured. We found a method to use separate targets for the Infrastructure monitoring and the Error Budgets, but the decision was taken to keep the targets the same and adjust the default latency threshold for the apdex portion of the Error Budgets (see next item).
+- ***Completed*** SLI calculations used request duration threshold which was not appropriate for all endpoints. [The threshold was increased to 5s](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1243) on the 21st of Sept and it will take 28 days for the full effect to be shown in the Error Budgets.
 - **Completed** Stage groups will next be enabled to set their own SLI per endpoint by expanding on the configurability of SLI request duration threshold. [epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/525).
 - Endpoints that are currently `not_owned` will be attributed to the correct feature category. This will be addressed by
    - **Completed** [using caller information for Sidekiq](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1200), and
