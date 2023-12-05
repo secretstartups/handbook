@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: "Architecture Design Workflow"
 ---
 
