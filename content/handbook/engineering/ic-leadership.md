@@ -1,13 +1,13 @@
 ---
-layout: handbook-page-toc
+
 title: "Engineering IC Leadership"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Engineering IC Leadership at GitLab: going beyond Senior level
 
