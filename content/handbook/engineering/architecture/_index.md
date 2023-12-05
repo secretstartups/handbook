@@ -1,5 +1,4 @@
 ---
-
 title: "Architecture"
 ---
 
@@ -53,15 +52,15 @@ ensure we can continue to scale efficiently.
 
 At GitLab, **Architecture** is a collaborative process. It is also:
 
-* A [collection of practices](practice/) that provide technical frameworks to
+- A [collection of practices](practice/) that provide technical frameworks to
   **guide** (rather than dictate) our thinking, design, and discussions so we
   can *iterate* quickly and deliver *results*. These include the
   [Scalability Practice](practice/scalability/). Others are in the works (such as the
   Availability Practice).
-* A [*collaborative* **workflow**](workflow/) that provides the necessary
+- A [*collaborative* **workflow**](workflow/) that provides the necessary
   organizational solution to foster *inclusion*, and drive ideas and priorities
   from all corners of the company.
-* A collection of **design documents** and **roadmaps** which are artifacts
+- A collection of **design documents** and **roadmaps** which are artifacts
   resulting from the [Architecture Design Workflow](workflow/).
 
 Such definition implies a solid reliance on **collaboration** rather than
