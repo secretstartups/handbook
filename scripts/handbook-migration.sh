@@ -13,7 +13,7 @@ red="\e[31m"
 # Globals
 HANDBOOK_REPO=$(git rev-parse --show-toplevel)
 DIRECTORY_TO_SPLIT=NOSET
-FILTER_BRANCH_SQUELCH_WARNING=1
+export FILTER_BRANCH_SQUELCH_WARNING=1
 
 # Command line options
 DUBDUBDUB_REPO=$(git rev-parse --show-toplevel)/../www-gitlab-com
