@@ -1,13 +1,13 @@
 ---
-layout: handbook-page-toc
+
 title: Root Cause Analysis
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 At GitLab [transparency](/handbook/values/#transparency) is one of our core values, as it helps create an open and honest working environment and service, which it turn accelerates growth and innovation. We treat a root cause analysis (RCA) as an opportunity to be transparent amongst our organization and community by investigating what went well and what didn't after working on a project, incident, or issue. This page defines an RCA, the benefits of completing them, and how to complete a successful RCA here at GitLab.
 
