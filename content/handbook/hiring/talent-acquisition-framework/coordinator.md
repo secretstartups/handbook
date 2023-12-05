@@ -248,7 +248,7 @@ In the form, you will find that candidates are required to disclose whether or n
 1. Leave all other fields as is and click “Create Project”
    - NOTE: Once the project is created, you will then be brought to a page where you can create an issue within that project. This is where we will provide all information about the disclosure and loop in HMs, TMR, Recruiters, and People Connect
 1. Click on “Issues” on the left side of the page and select “New Issue.”
-1. For Issue Name - create a title as follows depending on the disclosure received: “Candidate Name - PIAA Disclosure”; “Candidate Name - Outside Work Disclosure” or ‘Candidate Name - PIAA and OW Disclosure”
+1. For Issue Name - create a title using the candidates full name along with the type of disclosure received.
 1. Under the Description drop-down - select piaa_outside work_discussion template
 1. Fill in all pertinent information [2 spaces]
    - Candidate Name along with the Greenhouse Link
