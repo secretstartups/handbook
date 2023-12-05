@@ -1,13 +1,13 @@
 ---
-layout: handbook-page-toc
+
 title: Engineering OKRs
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 Here is the [standard, company-wide process for OKRs](/company/okrs/). Engineering has some small deviations from (and extensions to) this process.
 
