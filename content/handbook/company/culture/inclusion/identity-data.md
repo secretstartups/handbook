@@ -9,7 +9,7 @@ Below is a list of the different ways GitLab Team Members choose to identify. Th
 
 ### Region Data
 
-{{< tableau height="200px" "https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DraftDIBIdentityDashboard/Region" />}}
+{{< tableau height="200px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DraftDIBIdentityDashboard/Region" />}}
 
 ### Gender Data
 
