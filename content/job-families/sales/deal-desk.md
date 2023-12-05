@@ -177,15 +177,19 @@ The Senior Deal Desk Analyst is a [grade 7](/handbook/total-rewards/compensation
 
 
 ## Deal Strategist
+
 <<REPORTS TO...>>
 
 #### Deal Strategist Job Grade
+
 The Deal Strategist is a Grade x
 
 #### Deal Strategist Responsibilities
+
 - Responsibility 1
 
 #### Deal Strategist Requirements
+
 - Requirement 1
 
 
