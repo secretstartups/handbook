@@ -139,8 +139,8 @@ For those with regular commitments, look for shorter weeks or timezone variation
 | 2024-04-01 | 2024-04-05 | [Jeremy Wagner](https://gitlab.com/jeremywagner) - Sr Solutions Architect | [Reshmi Krishna](https://gitlab.com/reshmikrishna) - Director, Enterprise Solutions Architecture | REMOTE - PT |
 | 2024-04-08 | 2024-04-12 | [Karen Kwentus] (https://gitlab.com/kkwentus1) - Sr Solutions Architect | [Jeremy Wagner](https://gitlab.com/jeremywagner) - Sr Solutions Architect | REMOTE - PT |
 | 2024-04-15 | 2024-04-19 | [Djordje Micovic](https://gitlab.com/dmicovic) - Sr Data Analyst, Marketing Analytics - REMOTE | [Karen Kwentus] (https://gitlab.com/kkwentus1) - Sr Solutions Architect | REMOTE - PT |
-| 2024-04-22 | 2024-04-26 | AVAILABLE | [Djordje Micovic](https://gitlab.com/dmicovic) - Sr Data Analyst, Marketing Analytics  | REMOTE - PT |
-| 2024-04-29 | 2024-05-03 | AVAILABLE | AVAILABLE | REMOTE - PT |
+| 2024-04-22 | 2024-04-26 | [Sam Wiskow - Senior Product Manager, Delivery & Scalability](https://gitlab.com/swiskow)  | [Djordje Micovic](https://gitlab.com/dmicovic) - Sr Data Analyst, Marketing Analytics  | REMOTE - PT |
+| 2024-04-29 | 2024-05-03 | AVAILABLE | [Sam Wiskow - Senior Product Manager, Delivery & Scalability](https://gitlab.com/swiskow)  | REMOTE - PT |
 
 If you have questions regarding the planned rotation schedule, please ping the [EBA to the CEO]({{< ref "eba#executive-business-administrator-team" >}}) and [Chief of Staff to the CEO]({{< ref chief-of-staff >}}) in the `#ceo-shadow` Slack channel. The CoS and EBA to the CEO manage the rotation schedule. Please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
 
