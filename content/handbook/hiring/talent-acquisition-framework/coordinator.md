@@ -250,21 +250,21 @@ In the form, you will find that candidates are required to disclose whether or n
 1. Click on “Issues” on the left side of the page and select “New Issue.”
 1. For Issue Name - create a title using the candidates full name along with the type of disclosure received.
 1. Under the Description drop-down - select piaa_outside work_discussion template
-1. Fill in all pertinent information [2 spaces]
+1. Fill in all pertinent information.
    - Candidate Name along with the Greenhouse Link
    - Copy/Paste the disclosure made by the candidate underneath the CES checkbox
 1. Assign the issue to yourself, and at the bottom, click “Create Issue”
    - NOTE: Labels will automatically be assigned for you
-1. Once the issue is created, click on “Manage” in the left toolbar and select “Members”. [2 spaces]
+1. Once the issue is created, click on “Manage” in the left toolbar and select “Members".
 1. Click “Invite Members” - type in HM’s name, Director’s name, and recruiter name; leave them as a Guest and click “Invite” (These will only be invited in at the “issue” level and therefore will only be able to see the issue they are tagged in. They will not have visibility into the other projects created)
-   - IMPORTANT NOTE: For ALL disclosures, Director Level approval is ALWAYS required. [2 spaces]
+   - IMPORTANT NOTE: For ALL disclosures, Director Level approval is ALWAYS required.
 1. Go back into the issue, click Edit and in the info box tag the recruiter, HM & Director, then click save
-   - These team members will be notified by email when tagged[2 spaces] 
+   - These team members will be notified by email when tagged.
 1. In the Comment section of the issue request participants review the disclosure(s) by using TE snippet “discreview”
 1. As approvals come in through the comments, you can remove the appropriate label.
 1. If Legal review and approval is required, TMR will invite the appropriate Legal member into the issue and request their review
 1. Once fully approved, please add the “Fully Approved Label” and close the issue.
-1. Proceed to the candidate's GH profile and select “Email (Candidate’s Name). Select the “Disclosure Confirmation” template, copy/paste the disclosure the candidate made into the blank space, and Send. The email will CC you and the recruiter. [2 spaces]
+1. Proceed to the candidate's GH profile and select “Email (Candidate’s Name). Select the “Disclosure Confirmation” template, copy/paste the disclosure the candidate made into the blank space, and Send. The email will CC you and the recruiter.
 1. Download the email from your inbox and upload into the “Pre Hire Documents & Changes” folder in the candidate's Workday profile.
 
 **TMRG Conversations**
