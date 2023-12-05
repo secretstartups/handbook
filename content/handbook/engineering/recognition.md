@@ -1,19 +1,11 @@
 ---
-
 title: Recognition in Engineering
 ---
-
-
-
-
-
-
-
-# Recognition in Engineering
 
 ## Engineering Quarterly Achievers
 
 Quarterly, CTO Leadership will recognize Engineering team members who have excelled in a given quarter. Recognition includes:
+
 - an invitation to the [Engineering Quarterly Achievers Chat](#engineering-quarterly-achievers-chat)
 - participation in the [Engineering Quarterly Achiever's Recognition Dinner](#engineering-quarterly-achievers-recognition-dinner) - an expensed meal for yourself, friends and family to celebrate your work
 
@@ -35,7 +27,6 @@ Key features of this call include:
 
 ### Engineering Quarterly Achiever's Recognition Dinner
 
-
 As part of this initiative, Engineering Quarterly Achievers are able to expense a meal up to $250.00 USD within the same quarter they were selected in. For example, if a team member is selected as a Quarterly Achiever in November, they must expense their meal before the end of Q4 (the last day in January). Please submit your meal expense in Navan and in the description field link to this section of the handbook for approval.
 
 The $250.00 USD is reimbursable for a meal only, other items do not qualify.
@@ -49,7 +40,7 @@ In total, 13 team members from across the Engineering organization will be recog
 1. **Best Blueprint Proposal Award** - awarded to individuals who submit well thought-out, technically-sound proposals on items that require cross-functional communication and influence
 1. **Cost Savings Award** - awarded to individuals who significantly contribute towards reducing costs
 1. **Software Efficiency Award** - awarded to individuals who implement an abstraction, pattern, or library that makes future development efforts much more efficient
-1. **Proactive Avoidance Award** - awarded to individuals who raise concerns about things _before_ they become disastrous incidents
+1. **Proactive Avoidance Award** - awarded to individuals who raise concerns about things *before* they become disastrous incidents
 
 #### Engineering Excellence
 
@@ -64,13 +55,14 @@ In total, 13 team members from across the Engineering organization will be recog
 1. **Customer-centered Individual Award** - awarded to individuals who take ownership of high-impact customer escalations, coordinate stakeholders and build trusting relationships with our customers as they walk the path to a satisfactory resolution
 1. **Customer Kudos Award** - awarded to an individual who a customer recognized as an extraordinary contributor in their feedback
 1. **Performance and Scalability Award** - awarded to individuals who contribute significantly towards a performance or scalability improvement that benefits our customers.
-1. **Contribution to Sales or Renewal Award** - awarded to an individual who assisted in quarterly revenue generating activity - _nominated by a member of Sales, CS or Renewals_
+1. **Contribution to Sales or Renewal Award** - awarded to an individual who assisted in quarterly revenue generating activity - *nominated by a member of Sales, CS or Renewals*
 
 Categories are reevaluated by CTO leadership and changed as necessary.
 
 ### Selection Criteria
 
 Considerations include:
+
 1. The team member operates within Gitlab and in their particular area of achievement in concordance with [GitLab Values](https://handbook.gitlab.com/handbook/values/)
 1. The team member has not won a Quarterly Achiever award within the current fiscal year
 
@@ -85,7 +77,4 @@ Considerations include:
 
 #### Engineering Quarterly Achievers Nominations
 
-
 Prior to the start of the quarter, a call for nominations will go out. You may nominate as many people as you wish, provided they meet the [selection criteria](#selection-criteria).
-
-
