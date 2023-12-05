@@ -49,3 +49,4 @@ Additionally, new players are entering the market advocating for up to 5x GitLab
 | Facilitator           | Gabriel Engel @gabrielengel_gl |
 | Functional Lead(s)    | tbd                    |
 | Member                | Allison Browne @allison.browne |
+| Member                | Michael Friedrich @dnsmichi (Developer Relations) | 
