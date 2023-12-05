@@ -1235,7 +1235,7 @@ BDRs should not support joint partner related events where there the routing pla
 
 #### Routing Workflow Chart
 
-![Routing Workflow Chart](/handbook/marketing/sales-development/Images/RoutingChart.png)
+![Routing Workflow Chart](content/handbook/marketing/sales-development/Images/RoutingChart.png)
 
 
 
