@@ -35,22 +35,22 @@ The specific structure of a Technical Close Plan is not as relevant as the conte
 - [Known Risks](#known-risks) that could impede progress, including any mitigation steps
 - [Activity Plan](#technical-win-plan) to capture the intentional steps taken to drive a technical evaluation
 
-### Business Outcomes
+#### Business Outcomes
 As succintly as possible, describe the customer's critical business needs and outcomes. Focus on the customer rather than what GitLab provides. How does the customer plan to drive more revenue? What are their operational efficiency goals? What risks do they need to mitigate?
 
 When trying to connect the dots between lower-level customer goals and their broader initiatives that likely align to GitLab’s [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers), consider an Outcome Mapping exercise.
 
-### Key Stakeholders
+#### Key Stakeholders
 Either within the Business Outcomes section or in its own section, call out the key stakeholders whom have been involved or need to be. It’s important to map existing relationships and note aspects of the relationship or about the individual. Identify gaps to call out where to branch out and meet other members or functions within the organization. Examples of responsibilities could align to their role at the company or could include GitLab's perspective of a Champion, Influencer, Buyer, and Tech Champion. 
 
-### Notional Architecture
+#### Notional Architecture
 In order to build a plan with steps to achieve goals, starting and ending points are needed. Current and proposed state notional architectures paint a picture of what today's reality is and what tomorrow could look like. 
 
 When capture either current or proposed state notional architectures, highlight information relevant to the opportunity. Customers often have known non-negotiables or phased goals which should be taken into account.
 
 Both notional architectures should reflect the customer's environment and how the parts and pieces interact. The notional architecture should not include a boilerplate GitLab slide / picture.
 
-#### Current State
+##### Current State
 A critical step in showing trust and empathy is knowing the current state of a customer. Capture the relevant information for their use case and their painpoints, which may include:
 - The value stream of a typical team showing issues like long vulnerability time to remediation
 - The typical application pipeline steps, or path to production, which includes inefficiencies or delays in releasing software
@@ -59,17 +59,17 @@ A critical step in showing trust and empathy is knowing the current state of a c
 
 Regardless of the focus for the current state notional architecture, the struggles or pitfalls should be obvious and relate back to the business outcomes.
 
-#### Proposed / Future State
+##### Proposed / Future State
 The proposed or future state notional architecture should be a deliberate contrast to the current state, and obviously highlight the outcomes the customer would realize if they adopted the recommendation. Some examples include:
 - Changing their value stream to identify a vulnerability at the point of change
 - A parallelized pipeline with a fail-fast mentality
 - Consolidated tooling that simplifies operations, reduces cognitive load, and enables reporting
 - A migration plan from several self-managed and SaaS instances to GitLab Dedicated so the customer can focus on delivering software rather than managing GitLab
     
-### Known Risks / Mitigations
+#### Known Risks / Mitigations
 A well thought-out plan can still result in a failed technical evaluation. Capture possible challenges or roadblocks that could derail the conversation as well as how the team is planning to mitigate the risks.
 
-### Activity Plan 
+#### Activity Plan 
 What are the discovery and technical evaluation activities that have already happened and are needed to prove the technical evaluation?
 
 These could include activities like demonstrations, value stream workshops, hands-on workshops, proofs of value, etc. The specific combination will depend on the customer dynamics. 
