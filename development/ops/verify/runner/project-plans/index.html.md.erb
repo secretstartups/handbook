@@ -126,9 +126,25 @@ We will also update READMEs to reflect the recent changes and refactors as well 
 
 #### Goals:
 
-- [ ] Add Unit tests (in progress: https://gitlab.com/gitlab-org/ci-cd/runner-tools/grit/-/merge_requests/6)
-- [ ] Update READMEs to match latest changes (https://gitlab.com/gitlab-org/ci-cd/runner-tools/grit/-/issues/36)
-- [ ] Begin issue: [Allow users to bring your own VPC](https://gitlab.com/gitlab-org/ci-cd/runner-tools/grit/-/issues/35)
+- [x] Add Unit tests (in progress: https://gitlab.com/gitlab-org/ci-cd/runner-tools/grit/-/merge_requests/6)
+- [x] Begin issue: [Allow users to bring your own VPC](https://gitlab.com/gitlab-org/ci-cd/runner-tools/grit/-/issues/35)
+- [x] [Fix and improve E2E tests](https://gitlab.com/gitlab-org/ci-cd/runner-tools/grit-e2e/-/issues/1)
+
+### Week of 2023-12-04
+
+We investigated the failing E2E tests and discovered the issue was caused by changes to log levels in GitLab Runner. The
+E2E tests were fixed and unit tests merged. I began updating the README and discovered our refactors have broken some
+configurations that involve GCP. These configurations predated our unit and e2e testing. I added an issue and put up an
+MR to fix the broken configurations and add test coverage. Our current focus is on AWS for Dedicated Runners, so my aim
+with the fixes for GCP configs in the README is to cover only those README cases at this time and follow up on more
+thorough GCP tests when we move our focus to GCP at a later date. We also [began discussions](https://gitlab.com/gitlab-org/ci-cd/runner-tools/grit/-/issues/35#note_1674412071)
+on how to customize VPCs and subnets in Dedicated Runners.
+
+#### Goals:
+
+- [ ] [Fix broken README configurations](https://gitlab.com/gitlab-org/ci-cd/runner-tools/grit/-/issues/38)
+- [ ] [Update READMEs to match latest changes](https://gitlab.com/gitlab-org/ci-cd/runner-tools/grit/-/issues/36)
+- [ ] [Allow users to bring their own VPC](https://gitlab.com/gitlab-org/ci-cd/runner-tools/grit/-/issues/35)
 
 ## Runner Fleet Dashboard
 
