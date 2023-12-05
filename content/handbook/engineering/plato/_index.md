@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "GitLab Plato HQ Mentoring Program"
 ---
 
