@@ -371,7 +371,7 @@ While the below measurements do not impact your quota attainment, they are monit
 
 #### Visualization of Sales Development Career Path
 
-/handbook/marketing/sales-development/Images/FY24 CareerPath.png 
+![Career-Path-Chart](content/handbook/marketing/sales-development/FY24CareerPath.png)
 
 ## After Promotion Transition
 After being promoted from SDR to BDR or BDR to an external department, your existing pipeline will not move with you but rather will be reassigned to the team you are leaving. This includes:
@@ -796,7 +796,7 @@ Your manager will review the information and decide whether SAO credit is warran
 
 ### Opportunity Creation Workflow
 
-
+![Opp-Creation-Workflow](content/handbook/marketing/sales-development/FY24OpportunityCreationWorkflow.png)
 
 #### SDR/BDR to AE SAO Handoff Process 
 
@@ -1235,8 +1235,7 @@ BDRs should not support joint partner related events where there the routing pla
 
 #### Routing Workflow Chart
 
-![Routing Workflow Chart](../Images/RoutingChart.png)
-
+![Routing-Chart](content/handbook/marketing/sales-development/RoutingChart.png)
 
 
 ### Current asks into the Sales Development Org
