@@ -1,11 +1,11 @@
 ---
-
+aliases: /handbook/engineering/open-source/growth-strategy.html
 title: "Open Source Growth Strategy"
 ---
 
 ## Strategy
 
-We will be executing in 4 key areas in support of the company's broader [dual-flywheels](/company/strategy/#dual-flywheels) strategy to attain more contributions. The 4 key areas together are the building blocks of our contributor & contribution 10x acceleration strategy. 
+We will be executing in 4 key areas in support of the company's broader [dual-flywheels](/company/strategy/#dual-flywheels) strategy to attain more contributions. The 4 key areas together are the building blocks of our contributor & contribution 10x acceleration strategy.
 
 ```mermaid
 flowchart LR
@@ -41,13 +41,13 @@ Provide an outstanding and efficient contributor experience, from onboarding mat
 
 #### Reduce Open Community MR Age
 
-* **Why:** Improve the speed of contribution to production by reducing [Open community MR Age (OCMA)](/handbook/marketing/developer-relations/performance-indicators/#open-community-mr-age) & review time. We have identified product groups with the highest OCMA. Analysis and improvements are needed to address product groups with the biggest opportunity. In addition to improving MR review and gathering feedback.  
+* **Why:** Improve the speed of contribution to production by reducing [Open community MR Age (OCMA)](/handbook/marketing/developer-relations/performance-indicators/#open-community-mr-age) & review time. We have identified product groups with the highest OCMA. Analysis and improvements are needed to address product groups with the biggest opportunity. In addition to improving MR review and gathering feedback.
 * **Epic:** <https://gitlab.com/groups/gitlab-org/-/epics/9073>
 * **DRI:** [Contributor Success team](/handbook/marketing/developer-relations/contributor-success/)
 
-#### Simplify & improve contribution guides 
+#### Simplify & improve contribution guides
 
-* **Why:** Make contribution guides easy to navigate. Our current contribution guides are fragmented and can be hard for new contributors to navigate and understand. 
+* **Why:** Make contribution guides easy to navigate. Our current contribution guides are fragmented and can be hard for new contributors to navigate and understand.
 * **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/16>
 * **DRI:** [Developer Relations team](/handbook/marketing/developer-relations/)
 
@@ -73,15 +73,15 @@ Provide an outstanding and efficient contributor experience, from onboarding mat
 
 Incentivize, attract and retain contributors by providing a compelling value and regular recognition of contributors for their work. Contributor career advancement materials and awards.
 
-#### Define contributor value proposition 
+#### Define contributor value proposition
 
 * **Why:** We need a clear definition of what drives people to contribute to GitLab and to present a compelling value proposition for increasing code contribution.
 * **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/11>
 * **DRI:** [Developer Relations team](/handbook/marketing/developer-relations/)
 
-#### Developer badges & certification 
+#### Developer badges & certification
 
-* **Why:** Implement a badging system and eventually work towards a certification program for GitLab developers 
+* **Why:** Implement a badging system and eventually work towards a certification program for GitLab developers
 * **Epic:** <https://gitlab.com/groups/gitlab-org/-/epics/9075>
 * **DRI:** [Contributor Success team](/handbook/marketing/developer-relations/contributor-success/)
 
@@ -93,7 +93,7 @@ Incentivize, attract and retain contributors by providing a compelling value and
 
 #### Contributor career advancement
 
-* **Why:** In Open Source Projects, the contributors’ motivation in addition to solving a bug or adding a missing feature is to get experience and build their CV for career advancement. 
+* **Why:** In Open Source Projects, the contributors’ motivation in addition to solving a bug or adding a missing feature is to get experience and build their CV for career advancement.
 * **Epic:** <https://gitlab.com/groups/gitlab-org/-/epics/9077>
 * **DRI:** [Contributor Success team](/handbook/marketing/developer-relations/contributor-success/)
 
@@ -122,7 +122,7 @@ Increase awareness with content and events to drive large amounts of contributor
 
 #### Increase social presence
 
-* **Why:** Increase our social media presence beyond the currently limited mediums (Twitter, Discord), which will allow us to tap into existing developer communities.  
+* **Why:** Increase our social media presence beyond the currently limited mediums (Twitter, Discord), which will allow us to tap into existing developer communities.
 * **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/15>
 * **DRI:** [Developer Relations team](/handbook/marketing/developer-relations/)
 
