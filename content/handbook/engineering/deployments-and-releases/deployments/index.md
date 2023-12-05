@@ -1,14 +1,6 @@
 ---
-
 title: "Deployments"
 ---
-
-
-
-
-
-
-
 
 ## Overview and terminology
 
@@ -16,9 +8,7 @@ This page describes the individual steps involved in deploying application chang
 
 ### A tour of auto-deploy with a Release Manager
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/zdVzX5ZY7o4" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube "zdVzX5ZY7o4" >}}
 
 ### GitLab.com deployments process
 
@@ -41,18 +31,18 @@ Automated tasks in the [release-tools] project are setup to drive the next steps
 A package is deployed to GitLab.com in the following steps:
 
 1. The package is tagged and the build process can start
-2. 2a. From the tag the Omnibus package is built. 2b. In parallel a Cloud Native GitLab package is built
-3. 3a. When a new package is built, it is automatically deployed to gstg-cny, [the canary stage of staging.gitlab.com](/handbook/engineering/infrastructure/environments/#staging-canary). 3b. In parallel, the same package is deployed to the [Staging-ref environment, gstg-ref](/handbook/engineering/infrastructure/environments/#staging-ref)
-4. A set of automated QA end-to-end/integration tests are run. Note that two sets of blocking QA tests are executed, one targeting gstg-cny and the other targeting staging (gstg). This is designed to assist with exposing issues arising in mixed deployment environments, where multiple versions of GitLab components are deployed that share services such as the database
-5. After passing, the package is automatically deployed to gprd-cny, [the canary stage of gitlab.com](/handbook/engineering/infrastructure/environments/#production-canary), where [canary testing](/handbook/engineering/#canary-testing) can take place. This means that specific projects (like `gitlab-org/gitlab`) as well as a small amount of end user traffic will be using the new package.
-6. Like with deployment to staging-canary above, two sets of automated QA end-to-end/integration tests are run. One targets the canary stage of production, the other targets the main stage (to ensure the new and old code are still functional). Note that the `smoke` and `reliable` tests targeting production canary (gprd-cny) are blocking.
-7. After 30 minutes in the [canary stage of gitlab.com](/handbook/engineering/infrastructure/environments/#production-canary), and provided no new exceptions or alerts are reported, the package is considered to be ready for deployment to [gitlab.com](/handbook/engineering/infrastructure/environments/#production) and [staging.gitlab.com](/handbook/engineering/infrastructure/environments/#staging)
-8. The promotion to [gitlab.com](/handbook/engineering/infrastructure/environments/#production) and [staging.gitlab.com](/handbook/engineering/infrastructure/environments/#staging) is triggered manually by the release
+1. 2a. From the tag the Omnibus package is built. 2b. In parallel a Cloud Native GitLab package is built
+1. 3a. When a new package is built, it is automatically deployed to gstg-cny, [the canary stage of staging.gitlab.com](/handbook/engineering/infrastructure/environments/#staging-canary). 3b. In parallel, the same package is deployed to the [Staging-ref environment, gstg-ref](/handbook/engineering/infrastructure/environments/#staging-ref)
+1. A set of automated QA end-to-end/integration tests are run. Note that two sets of blocking QA tests are executed, one targeting gstg-cny and the other targeting staging (gstg). This is designed to assist with exposing issues arising in mixed deployment environments, where multiple versions of GitLab components are deployed that share services such as the database
+1. After passing, the package is automatically deployed to gprd-cny, [the canary stage of gitlab.com](/handbook/engineering/infrastructure/environments/#production-canary), where [canary testing](/handbook/engineering/#canary-testing) can take place. This means that specific projects (like `gitlab-org/gitlab`) as well as a small amount of end user traffic will be using the new package.
+1. Like with deployment to staging-canary above, two sets of automated QA end-to-end/integration tests are run. One targets the canary stage of production, the other targets the main stage (to ensure the new and old code are still functional). Note that the `smoke` and `reliable` tests targeting production canary (gprd-cny) are blocking.
+1. After 30 minutes in the [canary stage of gitlab.com](/handbook/engineering/infrastructure/environments/#production-canary), and provided no new exceptions or alerts are reported, the package is considered to be ready for deployment to [gitlab.com](/handbook/engineering/infrastructure/environments/#production) and [staging.gitlab.com](/handbook/engineering/infrastructure/environments/#staging)
+1. The promotion to [gitlab.com](/handbook/engineering/infrastructure/environments/#production) and [staging.gitlab.com](/handbook/engineering/infrastructure/environments/#staging) is triggered manually by the release
 managers. Ongoing incidents or Change Requests with the `blocks deployments` label will prevent a package from being deployed to gstg (staging) and gprd (production). Note that deployments to canary (both gstg-cny and gprd-cny)
 will not be blocked. Migrations will also not be blocked since they are executed during canary deployments. However, post deploy migrations will be blocked.
-9. Deployment to the staging environment
-10. Production checks are performed to asses the health of the environment. If considered to be healthy the pipeline will automatically continue
-11. Deployment to the production environment runs delayed to staging
+1. Deployment to the staging environment
+1. Production checks are performed to asses the health of the environment. If considered to be healthy the pipeline will automatically continue
+1. Deployment to the production environment runs delayed to staging
 Each deployment will trigger a notification in the Slack channel [#announcements](https://gitlab.slack.com/archives/C8PKBH3M5).
 As part of the deployments, a QA issue is created in [release/tasks] issue tracker to inform the people who are
 involved in the process that their change is going through environments
@@ -70,8 +60,8 @@ the release managers.
 When a release manager executes the post-deploy migration pipeline:
 
 1. Post-deploy migration scripts run on staging
-2. QA tests execute against staging
-3. Following a successful QA verification, post-deploy migration scripts run on production.
+1. QA tests execute against staging
+1. Following a successful QA verification, post-deploy migration scripts run on production.
 
 Details of this pipeline can be found in the [post-deploy migration pipeline documentation].
 
@@ -85,8 +75,8 @@ Rollbacks can be a fast and safe way to mitigate an incident. By rolling back to
 Factors to consider before deciding to rollback:
 
 1. Is a rollback available? We can only rollback to the package of the last execution of [post-deploy migrations](/handbook/engineering/deployments-and-releases/deployments/#post-deploy-migration-pdm-execution). [A chatops command](https://gitlab.com/gitlab-org/release/docs/-/blob/master/runbooks/rollback-a-deployment.md#1-gather-package-information) is available to test for suitability.
-2. Is the incident able to be mitigated with a feature flag? Many new changes include a feature flag. Identifying, and turning off is usually the fastest mitigation.
-3. Be aware that a package may include several hundred changes, rolling back will remove them all and could impact multiple teams especially close to the monthly release deadline.
+1. Is the incident able to be mitigated with a feature flag? Many new changes include a feature flag. Identifying, and turning off is usually the fastest mitigation.
+1. Be aware that a package may include several hundred changes, rolling back will remove them all and could impact multiple teams especially close to the monthly release deadline.
 
 Because of the level of disruption a rollback causes we would normally only consider rollbacks an option for an S1 or S2 incident. More details about how to assess incident mitigation options are available in the [incidents runbook](https://gitlab.com/gitlab-org/release/docs/-/blob/master/runbooks/incident.md).
 
@@ -106,8 +96,8 @@ Example of the Staging environment rollback pipeline:
 
 Anyone can **halt or block a deployment to Production** by:
 1. Declaring a [incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
-2. Applying the `blocks deployments` label. This prevent automated deployments to the Production environment from starting.
-3. Alerting the Release Managers in the [#releases] channel.
+1. Applying the `blocks deployments` label. This prevent automated deployments to the Production environment from starting.
+1. Alerting the Release Managers in the [#releases] channel.
 
 In addition, automated deployments to **any production environment** (including [canary]), are
 halted during the change lock period. Currently, the change lock period is between every **Friday 23:00 UTC and Monday 06:00 UTC** as well as during any [scheduled Production Change periods](/handbook/engineering/infrastructure/change-management/#production-change-lock-pcl).
