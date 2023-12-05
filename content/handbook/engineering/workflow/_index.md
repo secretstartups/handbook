@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Engineering Workflow"
 description: "This document explains the workflow for anyone working with issues in GitLab Inc."
 ---
@@ -7,11 +7,11 @@ description: "This document explains the workflow for anyone working with issues
 This document explains the workflow for anyone working with issues in GitLab Inc.
 For the workflow that applies to the wider community see the [contributing guide](https://docs.gitlab.com/ee/development/contributing/).
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## GitLab Flow
 
