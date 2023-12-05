@@ -66,9 +66,9 @@ Should you require assistance from the Foundations team, please open an issue in
 
 Apply one of the following templates:
 
-- For issues pertaining to Teleport connections, use the [`teleport-troubleshooting` template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=teleport-troubleshooting)
-- For issues pertaining to Cloudflare, use the [`Cloudflare Troubleshooting` template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=Cloudflare%20Troubleshooting)
-- For anything else, use the [`request-foundations` template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=request-foundations)
+- For issues pertaining to Teleport connections, use the [teleport-troubleshooting template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=teleport-troubleshooting)
+- For issues pertaining to Cloudflare, use the [Cloudflare Troubleshooting template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=Cloudflare%20Troubleshooting)
+- For anything else, use the [request-foundations template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=request-foundations)
 
 ### Priority Levels for Requests
 
@@ -214,10 +214,10 @@ The Foundations Team must maintain a broad and diverse set of technical skills w
 
 ## Common Links
 
+ * [Foundations Top Level Epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/1175)
  * Slack Channel: [#g_infra_foundations](https://gitlab.slack.com/archives/C0313V3L5T6)
- * [Issue Board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/5309050?label_name%5B%5D=team%3A%3AFoundations)
  * [Foundations team meeting agenda](https://docs.google.com/document/d/1T5LIBt3RZR5TBLzkmRd08oMwfwiNFAr5ImPD5NP7lOw/edit?usp=sharing)
- * [Foundations OKRs](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=Sub-Department%3A%3AReliability&label_name%5B%5D=Reliability%3A%3AFoundations&first_page_size=20)
+ * [Foundations OKRs](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=team%3A%3AFoundations&first_page_size=20)
 
 ## How We Work
 
@@ -242,13 +242,13 @@ The Foundations Team must maintain a broad and diverse set of technical skills w
 * We have monthly retrospective meetings in two different time zones.
   * We celebrate our wins and look for ways we can improve team processes.
   * These meetings are not recorded to create a safe space for sharing transparently.
-  * We use an online tool, teleretro.com, which allows for running retros across multiple time zones, enabling brainstorming without being able to see others' responses, merging of related topics, and voting for what to discuss in more depth.
+  * We use an online tool, teleretro.com, which allows for running retros across multiple time zones, enabling brainstorming without being able to see others responses, merging of related topics, and voting for what to discuss in more depth.
   * Action items for iterative improvements on processes are brought back to the team syncs following the monthly retro meetings.
 * We have twice weekly Triage meetings available to us to ensure that incoming external requests are seen and responded to quickly. This allows us to meet our SLO for P2 issues being responded to within 3 days of creation.
   * Incoming issues are scoped and prioritized in the Triage meetings
     * We use T-shirt labels to estimate the size of incoming issues, per the definitions agreed upon in our [agenda](https://docs.google.com/document/d/1T5LIBt3RZR5TBLzkmRd08oMwfwiNFAr5ImPD5NP7lOw/edit#bookmark=id.ifw2otm5byuf). This helps not only in our planning efforts, it also helps to track our historical velocity.
     * When assessing incoming issues, we review the assigned priority label, and assign one if a priority label is missing.
-    * If the issue is deemed not to fall within Foundations' ownership, it is reassigned to the appropriate team with a note to that team's EM.
+    * If the issue is deemed not to fall within Foundations ownership, it is reassigned to the appropriate team with a note to that team's EM.
     * If the issue is deemed to be not actionable with the provided information, we will ask the issue creator for the required information. If we do not get any response within a 2 week timeframe, the issue will be closed with a note to the creator.
     * Some issues are assessed to be no longer relevant, or the benefit is so outweighed by the cost of implementation that it is not worth doing. In those cases, we apply the label ~"workflow-infra::Cancelled" and close the issue with a note to the creator explaining our reasoning.
   * Any triaged issues that are ready for work are then brought to team syncs for discussion and assignment, unless they are marked urgent (P1 or P2), in which case we will bring them to the team via Slack.
@@ -274,6 +274,124 @@ The Foundations Team must maintain a broad and diverse set of technical skills w
   * Other times there are incoming external requests that are unplanned for but unblock another team or customer, and that must be prioritized over ongoing work. When necessary, we discuss this as a team. 
     * We make an effort to distribute this type of work in an equitable manner across the team. 
     * External requests should come through issues created in the Reliability tracker with the ~"team::Foundations" label. If other teams reach out directly to team members for help with work, we should redirect them to request work through the proper channels so that the team can properly prioritize and scope the work, and individuals are not pulled off prioritized tasks through back channels.
+
+#### Project Management
+
+The Foundations team top level Epic can be found [here](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/1175)
+We follow Platforms Project Management practices as outlined in the [Handbook](https://about.gitlab.com/handbook/engineering/infrastructure/platforms/project-management/).
+Below builds on top of those guidelines.
+
+##### OKRs
+
+* For Objectives and Key Results, we align with [Platforms guidance](https://about.gitlab.com/handbook/engineering/infrastructure/platforms/#okr) for creation and structure.
+* DRIs should update the % progress on OKRs every Wednesday. Status updates go in the Epic descriptions.
+* A due date should be set on on the epic. If the timeline is unknown, use the end of the planned quarter to start. It can always be adjusted as the work unfolds.
+
+##### Epics
+
+We suggest that Epics follow this structure:
+
+```
+## Context
+<Context about the work and what problem it is intended to solve>
+
+### DRI: @user
+<Who is the responsible individual?>
+
+## Milestones/Exit Criteria
+<!--
+How will we know when we have achieved our goal?
+How is the work broken down into smaller concrete pieces. 
+Measurable chunks of progress towards the larger objective. Link to child Epics and issues for each milestone. 
+If possible, with weighted % totaling up to 100%
+-->
+
+## Decision log
+<a collapsible section to track and make visible any decisions made along the way>
+<details>
+  <summary>Log</summary>
+  <details>
+    <summary>date</summary>
+
+[decision taken and why]
+
+  </details>
+</details>
+
+## Administrative
+<A copy paste section for creating child epics/issues, ensuring that they relate to the current epic and have the correct labels>
+
+/epic [current epic]
+/label ~"team::Foundations ~"workflow-infra::Proposal"
+
+
+## Status history
+<Previous summary statements are moved into the development log in a collapsible section to give visibility into updates over time>
+<details>
+  <summary>Previous statuses</summary>
+
+  <details>
+    <summary>Status - yyyy-mm-dd</summary>
+  </details>
+</details>
+
+## Status yyyy-mm-dd
+<Updates should be made weekly, even if no progress has been made. If no progress to report, give context as to why>
+
+```
+
+Here are some optional sections to include if you find it helpful:
+
+```
+## Problems
+<Delve into further detail about the problems the work is seeking to solve, in greater depth than the Context section >
+
+### Participants
+<List additional engineers involved in the effort>
+
+## References
+<Links to related OKRs, Epics or issues, external resources etc>
+
+## Demos
+
+| Demo Date | Demo Link | Highlights |
+|-----------|-----------|------------|
+
+```
+* Labels:
+  * Be sure to update the label to ~"workflow-infra::In Progress" as soon as work has begun.
+  * If there is a service label that is applicable, also apply that.
+  * A ~"health::*" label indicating whether work is on track, needs attention or is at risk.
+    * When changing the health label to anything other than "On track", give context for why in the weekly status update, including the plan to get back on track when possible.
+* Status updates should be entered no later than Thursday end of day PST
+
+##### Status Updates
+
+Status updates should be made weekly on Wednesdays. Keep in mind that the audience is Leadership, so keep this brief and high level.
+The overview can include:
+
+* Work completed since last update.
+* What's next.
+* Blockers.
+* If health status has changed, give context as to why and what the plan is to address this.
+* If no work has been completed, also give context for why.
+
+##### Issues
+
+* Open planned work for our team in the [Production Engineering](https://gitlab.com/gitlab-com/gl-infra/production-engineering/) project
+* Link to related Epic 
+* Include the following Labels:
+  * ~"team::Foundations"
+  * ~"workflow-infra::*"
+  * ~"T-shirt size::*"
+* Issues should be updated whenever significant work occurs, and no less than every few days.
+
+##### Merge Requests
+
+* Should include a link to the relevant issue
+* Always explicitly state the context for the MR:
+  * *What* the MR is changing
+  * *Why* we're changing it
 
 #### Communication with stakeholders
 
