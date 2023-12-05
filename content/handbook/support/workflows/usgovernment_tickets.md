@@ -103,7 +103,7 @@ If you need a manager's help with a ticket, please keep in mind that only US Cit
 In order to better facilite asynchronous collaboration on tickets within the US Government ticket system, we have a macro which allows US Government support engineers to trigger the creation of a confidential GitLab issue connected with the ticket. This issue will be open for the duration of the ticket and can provide a way for US Government support engineers to relay information to collaborators.
 
 **NOTE:
-It is important to never included any customer specific information inside of these issues, because even though they are confidential, they are still visable to people who do not have access to the US Government ticket system.**
+It is important to never included any customer specific information inside of these issues, because even though they are confidential, they are still visible to people who do not have access to the US Government ticket system.**
 
 To trigger the creation of one of these issues, select the `General::Create discussion issue` macro from the macros menu then submit the ticket. The support ops bot will then create an issue and link to it in an internal note. At first, this issue will contain very little information. The title will include the ticket number and the body will contain a link to the ticket plus empty sections, marked with headers, where you can provide information as you have it. All of these sections are optional.
 
