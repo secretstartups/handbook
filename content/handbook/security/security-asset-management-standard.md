@@ -9,7 +9,7 @@ This document defines asset management measures and guidelines to support the pr
 
 ## Scope
 
-This policy applies to all GitLab team-members, contractors, advisors, and contracted parties interacting with GitLab computing resources and accessing company or customer data.
+This standard applies to all GitLab team-members, contractors, advisors, and contracted parties interacting with GitLab computing resources and accessing company or customer data.
 
 ## Roles & Responsibilities
 
