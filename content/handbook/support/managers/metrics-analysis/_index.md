@@ -47,4 +47,4 @@ description: "Support team metrics analysis workgroup overview"
 1. [Metrics Hypothesis Board](https://gitlab.com/gitlab-com/support/metrics/-/boards/2007128) to track outstanding hypothesis
 1. [FY21-Q3 Working Group Milestone](https://gitlab.com/gitlab-com/support/metrics/-/milestones/1) to show a burndown chart.
 1. [Metrics Workgroup Issue Template](https://gitlab.com/gitlab-com/support/metrics/-/blob/master/.gitlab/issue_templates/Metrics%20Workgroup.md) to provide instructions for how a metrics workgroup is formed.
-1. [Metrics Hypothesis and Actions](/handbook/support/managers/metrics-analysis/actions.html) to track common hypotheses, data collection methodologies and actions.
+1. [Metrics Hypothesis and Actions](/handbook/support/managers/metrics-analysis/actions) to track common hypotheses, data collection methodologies and actions.

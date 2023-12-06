@@ -33,7 +33,7 @@ In cases where Support needs to take action on the project or group, such as for
 
 1. Verify the user is a group *Owner* or project *Maintainer*. Otherwise, ask the user to have an owner/maintainer contact us.
 1. Ask for permission to take action. See the [Asking Permission](#asking-permission) section below.
-1. Consider adding an [Admin Note](/handbook/support/workflows/admin_note.html) to the group admin page if Support may need to know the action was taken in the future.
+1. Consider adding an [Admin Note](/handbook/support/workflows/admin_note) to the group admin page if Support may need to know the action was taken in the future.
 
 You can continue working with the original requester once an owner/maintainer provides permission if that is their preference.
 
@@ -43,12 +43,12 @@ In cases where a user has lost access to their account, all other options (such 
 
 For unconfirmed accounts, the only account action support will typically take is an [email typo fix]({{< ref "confirmation_emails#typo-fix" >}}).
 
-Before taking any action on confirmed accounts, ensure that you have verified the account owner using the [Account Ownership Verification](/handbook/support/workflows/account_verification.html) workflow.
+Before taking any action on confirmed accounts, ensure that you have verified the account owner using the [Account Ownership Verification](/handbook/support/workflows/account_verification) workflow.
 
 If ownership is verified, then:
 
 1. [Confirm permission for the changes](#asking-permission).
-1. Add an [Admin Note](/handbook/support/workflows/admin_note.html) to the user's account.
+1. Add an [Admin Note](/handbook/support/workflows/admin_note) to the user's account.
 
 Example cases include:
 
@@ -78,7 +78,7 @@ Check the user's activity page:
       - The user is unverified
       - The user has never logged in
       - The user has no data (No groups or projects)
-1. If the account **is** verified or data exists, inform the original requestor that the email is **not eligible** for release. They can [request an account deletion](/handbook/support/workflows/personal_data_access_account_deletion.html#zendesk) if necessary.
+1. If the account **is** verified or data exists, inform the original requestor that the email is **not eligible** for release. They can [request an account deletion](/handbook/support/workflows/personal_data_access_account_deletion#zendesk) if necessary.
 
 ### If eligible for email release
 
@@ -110,7 +110,7 @@ Until [the issue 412966](https://gitlab.com/gitlab-org/gitlab/-/issues/412966) i
 >
 > Could you please confirm that you would like us to change the enterprise user primary address from example@primary-email.address to example@new-primary-email address ? Replying in this ticket stating you provide permission will be sufficient.
 >
-> [Important notice](https://docs.gitlab.com/ee/user/enterprise_user/#dissociation-of-the-user-from-their-enterprise-group): Changing an enterprise user’s primary email to an email with a non-verified domain automatically disassociates them from their enterprise group.
+> [Important notice](https://docs.gitlab.com/ee/user/enterprise_user/#dissociation-of-the-user-from-their-enterprise-group): Changing an enterprise user’s primary email to an email with a non-verified domain automatically disassociates them from their enterprise group. As a result of the change, your organization will **not** be able to manage the user account and GitLab Support will not intervene for any reason.
 
 1. Update the primary email address of the enterprise user(s).
 1. Add an Admin Note to the user’s account(s).
@@ -126,14 +126,14 @@ Enterprise users have user accounts that are administered by an organization tha
 > Your account is an enterprise user account, [enterprise users cannot modify their primary email address to an email with a non-verified domain](https://docs.gitlab.com/ee/user/enterprise_user/#primary-email-change). An enterprise user can only change their primary email to an email their organization owns as per its verified domains.
 > Updating your primary email address to an email with a non-verified domain will automatically disassociates you from your enterprise group.
 >
-> If you still wish to update your primary email address please note it will require involvement of one of the top level group owners. Please let us know if you wish to proceed.
+> If you still wish to update your primary email, address please note it will require involvement of a top level group owners. Please let us know if you wish to proceed.
 
-1. If answer they wish to procceed, use the [Account Ownership Verification workflow](/content/handbook/support/workflows/account_verification.md) to verify ownership.
+1. If they answer that they wish to procceed, use the [Account Ownership Verification workflow](/content/handbook/support/workflows/account_verification.md) to verify ownership.
 
-1. Ask manager approval to proceed.
+1. Ask manager approval to proceed if the primary email is the only verified email (skip this step if it's an email swap request).
 
 1. If successful, contact Owner:
-- Create a new Zendesk ticket with the top level group owner’s email address as the requester (found in admin) by following [this specific workflow to create ticket and user](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/tickets/#creating-tickets-for-outbound-requests)
+- Create a new Zendesk ticket with the top level group owner’s email address as the requester (found in admin) by following [this specific workflow to create ticket and user](/handbook/support/readiness/operations/docs/zendesk/tickets/#creating-tickets-for-outbound-requests)
 - Apply the macro `General::Outbound Contact Request` that ensure the new ticket routes properly and the end-user we wish to contact receives the correct notification.
 - Copy the snippet below and mark the ticket as `On-hold`:
 
@@ -141,10 +141,10 @@ Enterprise users have user accounts that are administered by an organization tha
 >
 > We're contacting you because we've received a request from one of your enterprise users <username and email address> to modify their primary email address to an email address with a non-verified domain. This will disassociate the user from your organization: the user will no longer be an enterprise user.
 >
-> As you will lose the user administration following this change we are asking for your permission. Replying in this ticket stating you provide permission will be sufficient.
+> As you will lose any current and future administration of the user account following this change, we are asking for your permission. Replying in this ticket stating you provide permission will be sufficient.
 
 - Make an internal comment providing a link to the requester’s ticket.
-- If the group contains multiples owners, contact one owner per ticket. Limit to 3 owners if more (you can pick the owners that have the most recent Last activity in the page `https://gitlab.com/groups/<group_name>/-/group_members` or/and the owner(s) that is(are) listed as Source).
+- If the group contains multiples owners, choose one owner (preferably an existing support contact) as the requester and CC the others. Limit to 5 owners if more (you can pick the owners that have the most recent Last activity in the page `https://gitlab.com/groups/<group_name>/-/group_members` or/and the owner(s) that is(are) listed as Source).
 
 1. Requester’s Ticket:
  - Add as an internal comment the ticket created above.
@@ -152,11 +152,11 @@ Enterprise users have user accounts that are administered by an organization tha
 
 > Hi,
 >
-> We have verify your identity, we are now waiting for permission from your organization to release the account by updating your primary email address.
+> Thanks for verifying your account with us. We are now waiting for permission from your organization to release the account by updating your primary email address.
 > We will keep you updated.
 
-1. If one of the owners approve, update the primary email address of the enterprise user.
-1. Add an Admin Note to the user’s account.
+1. If one of the owners approve, update the primary email address of the enterprise user by swapping with a secondary if applicable.
+1. Add an [Admin Note]({{< ref "admin_note.md" >}}) to the user’s account.
 
 ## Account Ownership Changes
 
@@ -250,4 +250,4 @@ Impersonating a user is considered performing an action as another account, impe
 
 When impersonating a user, the administrator account will receive a slack message from the **SIRTbot** app asking to confirm if the impersonation was a legit action.
 
-The action of impersonation is in accordance with our [Confidentiality Terms of the Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/#7-confidentiality).
+The action of impersonation is in accordance with our [Confidentiality Terms of the Subscription Agreement](/handbook/legal/subscription-agreement/#7-confidentiality).

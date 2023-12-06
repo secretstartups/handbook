@@ -16,17 +16,17 @@ This page details processes and general guidelines specific to the Executive Bus
 | [Finance](/handbook/finance/) | **Darci Tadich**<br>Sr EBA |  Brian Robins (CFO)
 | [Finance](/handbook/finance/) | **Cindy King**<br>Sr EBA| Erin Mannix (Chief Accounting Officer)<br>Jim Gladen (VP of Tax)<br>Brijen Joshi (VP of Internal Audit)
 | [Finance](/handbook/finance/) | **Anita Mall**<br>Sr EBA | Craig Mestel (VP of Finance & Business Technology)
-| [Legal](https://about.gitlab.com/handbook/legal/) | **Sharlene Seemungal**<br>Sr EBA  | Robin Schulman (CLO and Head of Corporate Affairs)
-| [Legal](https://about.gitlab.com/handbook/legal/)  | **Lauren Lopez**<br>EBA  | Eliran Mesika (Sr. Director of Corporate Development)<br>Emily Plotkin (Sr. Director of Legal, Employment)<br>Lynsey Sayers (VP of Legal, Privacy & IP)<br>Matt Taylor (Sr. Director of Legal, Commercial)<br>Rashmi Chachra (Sr. Director of Legal & Corporate Affairs, Corporate)<br>Robert Nalen (VP of Legal Operations)<br>Stacy Cline (Sr. Director of ESG)<br>Dan Hodes (Sr. Director of Legal, Risk Management and Dispute Resolution)
-| [Marketing](https://about.gitlab.com/handbook/marketing/)| **Alexa Schrauth**<br>INTERIM Sr EBA | Ashley Kramer (CMSO)
-| [Marketing](https://about.gitlab.com/handbook/marketing/)| **Linsea O'Shea**<br>Sr EBA | Dave Steer (VP of Brand & Product Marketing)<br>Carrie Maynard (VP of Integrated Marketing)<br>Lisa Boughner (VP of Communications)<br> Jean-Baptiste Larramendy (VP of Sales Development)
+| [Legal](/handbook/legal/) | **Sharlene Seemungal**<br>Sr EBA  | Robin Schulman (CLO and Head of Corporate Affairs)
+| [Legal](/handbook/legal/)  | **Lauren Lopez**<br>EBA  | Eliran Mesika (Sr. Director of Corporate Development)<br>Emily Plotkin (Sr. Director of Legal, Employment)<br>Lynsey Sayers (VP of Legal, Privacy & IP)<br>Matt Taylor (Sr. Director of Legal, Commercial)<br>Rashmi Chachra (Sr. Director of Legal & Corporate Affairs, Corporate)<br>Robert Nalen (VP of Legal Operations)<br>Stacy Cline (Sr. Director of ESG)<br>Dan Hodes (Sr. Director of Legal, Risk Management and Dispute Resolution)
+| [Marketing](/handbook/marketing/)| **Alexa Schrauth**<br>INTERIM Sr EBA | Ashley Kramer (CMSO)
+| [Marketing](/handbook/marketing/)| **Linsea O'Shea**<br>Sr EBA | Dave Steer (VP of Brand & Product Marketing)<br>Carrie Maynard (VP of Integrated Marketing)<br>Lisa Boughner (VP of Communications)<br> Jean-Baptiste Larramendy (VP of Sales Development)
 | [People](/handbook/people-group/) | **Julia Nishioki**<br>EBA  | Wendy Barnes (CPO)<br>Pattie Egan (VP of People Operations, Technology and Analytics)<br> Rob Allen (VP of Talent Acquisition)<br>Sherida McMullan (VP of Diversity, Inclusion and Belonging)
 | [Product](/handbook/product/) | **Gena Schwam**<br>Sr EBA|  David DeSanto (CProdO)
 | [Product](/handbook/product/) | **Jennifer Garcia**<br>EBA | Justin Farris (Sr Director of Product Monetization)<br>Hillary Benson (Sr Director of Product Management)<br>Mike Flouton (VP of Product Management)
-| [Sales](https://about.gitlab.com/handbook/sales/) | **Alexa Schrauth**<br>Sr EBA | Chris Weber (CRO)
-| [Sales](https://about.gitlab.com/handbook/sales/) | **Becky Piccone**<br>Sr EBA | David Sakamoto (VP of Customer Success)<br>Jonathan Fullam (VP of Global Solutions Architecture)
-| [Sales](https://about.gitlab.com/handbook/sales/) | **Kiran Gill**<br>Sr EBA | Jake Bielecki (VP of Field Operations) <br> Patty Cheung (VP of WW Channels & Alliances)
-| [Sales](https://about.gitlab.com/handbook/sales/) | **Victoria Reinhardt**<br>Sr EBA | Bob Stevens (VP of Public Sector Sales) <br> TBH (VP of AMER Sales)
+| [Sales](/handbook/sales/) | **Alexa Schrauth**<br>Sr EBA | Chris Weber (CRO)
+| [Sales](/handbook/sales/) | **Becky Piccone**<br>Sr EBA | David Sakamoto (VP of Customer Success)<br>Jonathan Fullam (VP of Global Solutions Architecture)
+| [Sales](/handbook/sales/) | **Kiran Gill**<br>Sr EBA | Jake Bielecki (VP of Field Operations) <br> Patty Cheung (VP of WW Channels & Alliances)
+| [Sales](/handbook/sales/) | **Victoria Reinhardt**<br>Sr EBA | Bob Stevens (VP of Public Sector Sales) <br> TBH (VP of AMER Sales)
 | [Security](/handbook/security/) | **Marisa Carlson**<br>Sr EBA  | Josh Lemos (CISO)
 
 ## Contact us
@@ -43,6 +43,7 @@ If you would like to schedule a meeting with a Leader at GitLab, please slack th
 1. Subject of the meeting
 1. Desired outcome of the meeting
 1. Provide context: include a link to the [agenda doc](https://docs.google.com/document/d/1eH-adpjfyo_RnlfbPvJ3i0e1Qb-aVoNc4yajnkZgJcU/edit?usp=sharing) and provide context in the document so that the EBA can adequately understand and prioritize your meeting with E-Group. The google doc is required to be included in the calendar invite. If you're requesting the meeting, it is your responsibility to prepare the agenda document.
+1. For meetings with the CEO, please tag @ceoeba in your slack message to reach the CEO EBA team.
 1. When scheduling an internal call with the CEO, confirm that there are attendees in non-United States time zones before requesting meetings before 10am PST.
 
 ### Agenda Document Templates

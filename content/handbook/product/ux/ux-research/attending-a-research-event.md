@@ -1,19 +1,10 @@
 ---
-
 title: "Attending a research event"
 description: "Best practices when attending a research event."
 ---
 
-
-
-
-
-
-
-
-
-
 Attending a UX research session can be enlightening! However, it's important to let the researcher take the lead on interactions with the participant. Some tips when attending sessions:
+
 - If you have time, reach out to the researcher to let them know you'll be attending. Ask them how they prefer to receive questions during the session.
 - Turn off your video.
 - Mute yourself.

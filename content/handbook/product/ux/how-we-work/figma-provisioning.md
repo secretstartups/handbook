@@ -1,10 +1,7 @@
 ---
-
 title: "Figma provisioning and deprovisioning"
 description: "Guidance on how to provision/deprovision Figma"
 ---
-
-## Provisioners/Deprovisioners
 
 Figma provisioners/deprovisioners are found in the [Tech Stack YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml#L1780).
 

@@ -10,7 +10,7 @@ description: "Field guide for CSM Managers on standard and recurring practices."
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ---
 
@@ -20,7 +20,7 @@ This page provides an overview on relevant CSM leadership processes.
 
 ## CSM Leadership
 
-| Name | [Sales Segment](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#segmentation) | Region | Level | Account Segment |
+| Name | [Sales Segment](/handbook/sales/field-operations/gtm-resources/#segmentation) | Region | Level | Account Segment |
 |---|---|---|---|---|
 | [Sherrod Patching](/handbook/company/team/#spatching) | Enterprise & Commercial | Global | VP | All Segments |
 | [Taylor Lund](/handbook/company/team/#taylorlund) | Enterprise, Commercial, & PubSec | Global | Manager | N/A |
@@ -95,7 +95,7 @@ For CSM Managers, here is a short checklist to assist in the review:
 
 ### Account Assignment
 
-Accounts are assigned at point of sale by the CSM Manager when a new Account in their region fits the criteria in [CSM Responsibilities and Services](https://about.gitlab.com/handbook/customer-success/csm/services/#csm-alignment).
+Accounts are assigned at point of sale by the CSM Manager when a new Account in their region fits the criteria in [CSM Responsibilities and Services](/handbook/customer-success/csm/services/#csm-alignment).
 
 When an Account meets the criteria, the following will happen:
 
@@ -107,12 +107,12 @@ While the SAE owns the transition-to-CSM aspect, the CSM Manager will then ensur
 
 #### Assignment Resources
 
-- [Onboarding Handbook](https://about.gitlab.com/handbook/customer-success/csm/onboarding/)
+- [Onboarding Handbook](/handbook/customer-success/csm/onboarding/)
 - Gainsight Dashboard - **CS Leadership**
 
 ### Customer Onboarding Review
 
-On a regular basis, the CSM Manager should review their team's active Onboarding plays. The Onboarding plays can be reviewed with each individual in one-on-one meetings. Onboarding is measured by the [time to value metrics](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis). Consider:
+On a regular basis, the CSM Manager should review their team's active Onboarding plays. The Onboarding plays can be reviewed with each individual in one-on-one meetings. Onboarding is measured by the [time to value metrics](/handbook/customer-success/vision/#time-to-value-kpis). Consider:
 
 1. How many and which accounts are in onboarding?
 2. What do Time to Value metrics look like?
@@ -120,7 +120,7 @@ On a regular basis, the CSM Manager should review their team's active Onboarding
 
 #### Onboarding Resources
 
-- [Account Onboarding Handbook](https://about.gitlab.com/handbook/customer-success/csm/onboarding/)
+- [Account Onboarding Handbook](/handbook/customer-success/csm/onboarding/)
 - Gainsight Dashboard - **CSM Portfolio** or **Customer Onboarding**
 
 #### KPI Tracking in Gainsight
@@ -139,7 +139,7 @@ On a regular basis, the CSM Manager should review their team's active Onboarding
 
 ### Success Plan Review
 
-On a regular basis the CSM Manager should review their team's [Success Plans](https://about.gitlab.com/handbook/customer-success/csm/success-plans/). At a minimum, the review should include:
+On a regular basis the CSM Manager should review their team's [Success Plans](/handbook/customer-success/csm/success-plans/). At a minimum, the review should include:
 
 1. What is the customer's documented strategy and is that aligned to why they bought?
 1. Are all parties (SAE/AE, SA, CSM, customer) aligned on the stated goals?
@@ -152,7 +152,7 @@ The CSM Manager should then work with their team to help the CSM drive up and de
 
 #### Success Plan Resources
 
-- [Success Plan Handbook](https://about.gitlab.com/handbook/customer-success/csm/success-plans/)
+- [Success Plan Handbook](/handbook/customer-success/csm/success-plans/)
 - Gainsight Dashboard - **CSM Portfolio** or **CS Leadership**
 
 
@@ -189,7 +189,7 @@ Regional at-risk review meetings are to ensure cross-functional alignment on at-
 - Determine what needs to be accomplished to resolve risk
 - Agree on next steps & ownership of those actions
 
-CSM Managers align with their team members about any agreed-upon action items or updates for customers, and those details are captured in an [At-Risk Update](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#at-risk-timeline-entries) by the CSM, who will manage and coordinate the defined next steps.
+CSM Managers align with their team members about any agreed-upon action items or updates for customers, and those details are captured in an [At-Risk Update](/handbook/customer-success/csm/health-score-triage/#at-risk-timeline-entries) by the CSM, who will manage and coordinate the defined next steps.
 
 #### Regional Review Agenda
 
@@ -241,15 +241,15 @@ Moving to one exception process through SFDC chatter. Sales-comp is tagged on ch
 
 ## Renewal Resources
 
-- [Renewal Review Handbook](https://about.gitlab.com/handbook/customer-success/csm/renewals/)
+- [Renewal Review Handbook](/handbook/customer-success/csm/renewals/)
 - [CSM Regional Dashboard](https://gitlab.my.salesforce.com/01Z4M000000slMT)
 - Gainsight Dashboard
 
 ## Quarterly Business Review (QBR)
 
-The CSM Manager is responsible for developing and delivering a [Quarterly Business Review](https://about.gitlab.com/handbook/sales/qbrs/) for their team each quarter.
+The CSM Manager is responsible for developing and delivering a [Quarterly Business Review](/handbook/sales/qbrs/) for their team each quarter.
 
-[CSM Manager QBR details](https://about.gitlab.com/handbook/customer-success/csm/csm-manager/qbr/)
+[CSM Manager QBR details](/handbook/customer-success/csm/csm-manager/qbr/)
 
 ## Gainsight/Customer Review in Director/CSM Manager 1:1 Cadence
 

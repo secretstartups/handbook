@@ -22,9 +22,9 @@ Contributing towards our [first reply time target](/handbook/support/performance
 
 ##### Public and internal comments
 
-To [maintain good progress through to resolution on all assigned tickets](/handbook/support/support-engineer-responsibilities.html#3-maintain-good-progress-through-to-resolution-on-all-of-your-assigned-tickets) and [help others maintain progress on their tickets](/handbook/support/support-engineer-responsibilities.html#5-help-others-in-your-group-to-maintain-progress-on-their-tickets) engineers must communicate with our customers and collaborate with their peers. Public and internal comments can be an indication of performance, but be careful not to confuse it with the desired result of solved tickets.
+To [maintain good progress through to resolution on all assigned tickets](/handbook/support/support-engineer-responsibilities#3-maintain-good-progress-through-to-resolution-on-all-of-your-assigned-tickets) and [help others maintain progress on their tickets](/handbook/support/support-engineer-responsibilities#5-help-others-in-your-group-to-maintain-progress-on-their-tickets) engineers must communicate with our customers and collaborate with their peers. Public and internal comments can be an indication of performance, but be careful not to confuse it with the desired result of solved tickets.
 
-See: [Ticket Baselines](/handbook/support/support-engineer-responsibilities.html#ticket-baseline)
+See: [Ticket Baselines](/handbook/support/support-engineer-responsibilities#ticket-baseline)
 
 ##### Docs/Product MRs
 
@@ -33,21 +33,21 @@ Docs and Product MRs help prevent future tickets. All Engineers should be submit
 See:
 
 - [Performance Indicators - Support MR Rate](/handbook/support/performance-indicators/#support-mr-rate)
-- [Improve documentation and publicly share knowledge](/handbook/support/support-engineer-responsibilities.html#improve-documentation-and-publicly-share-knowledge-weekly)
-- [Fix GitLab bugs and create features](/handbook/support/support-engineer-responsibilities.html#fix-gitlab-bugs-and-create-features-occasionally)
+- [Improve documentation and publicly share knowledge](/handbook/support/support-engineer-responsibilities#improve-documentation-and-publicly-share-knowledge-weekly)
+- [Fix GitLab bugs and create features](/handbook/support/support-engineer-responsibilities#fix-gitlab-bugs-and-create-features-occasionally)
 
 ##### Pairing Sessions
 
 Pairing sessions are good to be aware of, especially if [skills-based performance](/handbook/leadership/underperformance/#skills-based-performance) is being coached.
 
-See: [Collaborate with team members](/handbook/support/support-engineer-responsibilities.html#collaborate-with-team-members-and-customers-daily)
+See: [Collaborate with team members](/handbook/support/support-engineer-responsibilities#collaborate-with-team-members-and-customers-daily)
 
 ##### Training
 
 Support Engineers should regularly be working to expand their skills base through whatever resources are appropriate, be it
 [Support Training Modules](https://gitlab.com/gitlab-com/support/support-training), LinkedIn Learning courses, [pairing sessions](#pairing-sessions), or other activities organized by [GitLab Learning and Development](/handbook/people-group/learning-and-development/).
 
-See: [Develop your skills through learning and training](/handbook/support/support-engineer-responsibilities.html#develop-your-skills-through-learning-and-training-weekly)
+See: [Develop your skills through learning and training](/handbook/support/support-engineer-responsibilities#develop-your-skills-through-learning-and-training-weekly)
 
 ### Detecting underperformance
 

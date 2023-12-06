@@ -1,14 +1,7 @@
 ---
-
 title: UX Themes
 description: "Introduction and usage guidelines for UX Themes"
 ---
-
-
-
-
-
-
 
 ## Overview
 
@@ -33,6 +26,7 @@ UX Themes influence strategy through collaboration with Product Managers to defi
 ### Roadmaps and UX Themes
 
 UX Themes organized by priority become a UX Roadmap. This roadmap complements the product roadmap and does not replace or supersede them. Therefore, it's helpful to think of a UX Roadmap as a view of the Product roadmap through the filter of Product Design and UX Research.
+
 <!-- Roadmap graphic to illustrate how a UXrm fits into the overall Product roadmap -->
 ![Roadmap graphic to illustrate how a UX Roadmaps fit into the overall Product roadmap](Roadmap_Visual2.png)
 
@@ -47,6 +41,7 @@ Addressing the small job this way adds *depth* to the experience. Alternatively,
 Using JTBD to define and drive your work through their incorporation of UX Themes is, by design, what JTBD are intended to achieve. UX Themes are practical applications for JTBD, ensuring their usage across the organization.
 
 *JTBD and UX Themes:*
+
 <!-- Job map and UX Theme scope examples -->
 ![UX Theme scope example using the job map](UX_Theme_JTBD_Scope.png)
 
@@ -106,7 +101,6 @@ The business objective is why we are working on a theme. Without this informatio
 Requirements are more granular aspects of a theme that help define the scope of the problem and solution area. Typically, requirements are derived from feature issues and research insights used to create the theme. Generally speaking, it is more common to see these items in themes in the (Now {Next:1-3 milestones}, or Next {Next:4-7}) buckets, as the problem areas have been researched, and the problems to solve are more evident than themes scheduled in the future. Requirements will take the form of: “The user needs to be able to {solution agnostic description of the need}.”
 
 *Note: We are not designing a solution for a specific feature issue; instead, we are designing the entire theme. The individual feature issues within it will be addressed through a planning breakdown session when the UX Theme's vision design has been completed and is now ready to be built via MVC + Iterations.*
-
 
 #### Confidence
 

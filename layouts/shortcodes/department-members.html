@@ -1,0 +1,72 @@
+{{- /*  Initialize. */}}
+{{- $department := "" }}
+
+{{- /* Get params. */}}
+{{- with (.Get 0) }}
+  {{- $department = . }}
+{{- else }}
+  {{- errorf "The %q shortcode requires a single positional argument for department."}}
+{{- end }}
+
+{{- $departmentMembers := slice }}
+{{- $teamMembers := partials.IncludeCached "data/team-by-name" page}}
+{{- range $teamMembers }}
+  {{- if in .departments $department  }}
+    {{- $departmentMembers = append . $departmentMembers }}
+  {{- end }}
+{{- end }}
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Group</th>
+      <th>Departments</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{- range $departmentMembers }}
+    <tr>
+      <td>{{ partial "member" . }}</td>
+      <td>
+        {{- $group := "None" }}
+        {{- range .departments }}
+          {{- if strings.Contains . "Group" }}
+            {{- $group = replace . "Group" "" }}
+            {{- break }}
+          {{- else if strings.Contains . "Team" }}
+            {{- $group = . }}
+            {{- $group = replace $group "BE" "" }}
+            {{- $group = replace $group "FE" "" }}
+            {{- $group = replace $group "Fullstack" "" }}
+            {{- $group = replace $group " Team" "" }}
+            {{- break }}
+          {{- end }}
+        {{- end }}
+        {{ $group }}
+      </td>
+      <td>
+        <ul>
+          {{- range .departments }}
+          <li>{{ . }}</li>
+          {{- end }}
+      </td>
+    </tr>
+    {{- end }}
+  </tbody>
+</table>
+
+<style>
+    img.avatar {
+    width: 30px;
+    height: 30px;
+    max-width: 30px;
+    max-height: 30px;
+    overflow: hidden;
+    margin-right: 10px;
+    border-radius: 50%;
+    border: 1px solid lightgray;
+    aspect-ratio: auto 90 / 90;
+    overflow-clip-margin: content-box;
+    }
+</style>

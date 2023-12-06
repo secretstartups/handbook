@@ -29,7 +29,7 @@ We learned a lot of valuable lessons in the process, and it has allowed us to re
 There isn't anything fundamentally wrong with building a custom application, however the scope of the problems we were trying to solve was too big. If we can solve automation for one vendor at a time, we can align better with our values of iteration and efficiency.
 
 Before we started working on GitLab Access Manager, we built several smaller applications that provided a UI for automating access requests for a few systems:
-- [GitLab Demo Cloud](https://about.gitlab.com/handbook/customer-success/demo-systems/) - Automate access requests for Sales Demo Systems and Training Hands-On Labs for customers
+- [GitLab Demo Cloud](/handbook/customer-success/demo-systems/) - Automate access requests for Sales Demo Systems and Training Hands-On Labs for customers
 - [HackyStack](/handbook/infrastructure-standards/realms/sandbox/) - Automate access requests for AWS and GCP
 
 These applications are relatively simple with a manageable scope for one person part time and are easy to maintain. The cost of ownership for these smaller niche applications is low and delivers a lot of business value, and the simplicity has allowed for rapid adoption without a lot of headaches.

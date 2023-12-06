@@ -87,6 +87,8 @@ If the requestor is not an existing CustomersDot user when doing an email search
 
 **Note 2:** We do not accept vouches from GitLab Team Members (including Account Owners listed in SFDC) as proof of a customer's association to a subscription.
 
+**Note 3:** If you need to escalate any ownership verification requests to the Legal and Compliance team please open a [Subscription-Ownership-Change-Escalation](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=Subscription-Ownership-Change-Escalation) issue.
+
 We need **one** of the following in order to verify eligibility for the subscription ownership change:
 
 1. Approval from the existing contact
@@ -104,7 +106,14 @@ We need **one** of the following in order to verify eligibility for the subscrip
    - License file can be decoded in customersDot from `Licenses` -> `Validate License` (`/admin/license/validate_license`)
    - **Copies of license activation code emails** are not permissible articles of proof.
       - Please use the Redaction Zendesk app to censor the activation code if such a cloud activation code email is provided.
-1. Option for unactivated licenses purchased through a reseller only: Reseller can verify the account ownership change through an ticket request. Support is responsible for [confirming the account was purchased through a reseller](/handbook/support/license-and-renewals/workflows/working_with_reseller_related_requests.html#identifying-whether-a-customer-purchased-through-reseller), and verifying that the email address domain used by the reseller to make the request matches the key Contacts email domain in the subscription details in Zuora. Reseller can either open a ticket with this request or the customer can CC the reseller and also confirm that they would like to authorize the reseller to participate in the ticket.
+1. For a SaaS customer you can verify that the ticket requestor is an owner in the namespace attached to the subscription by:
+   1. Asking them to:
+      1. Login to their gitlab.com namespace as a group owner.
+      1. Open an API call to their namespace URL: "https://gitlab.com/api/v4/namespaces/<customer_namespace>/gitlab_subscription".
+      1. Copy/paste the returned data to the support ticket.
+   1. Using a gitlab.com admin account to verify the accuracy of the provided
+      subscription data and then approving or denying the request accordingly.
+1. Option for unactivated licenses purchased through a reseller only: Reseller can verify the account ownership change through an ticket request. Support is responsible for [confirming the account was purchased through a reseller](/handbook/support/license-and-renewals/workflows/working_with_reseller_related_requests#identifying-whether-a-customer-purchased-through-reseller), and verifying that the email address domain used by the reseller to make the request matches the key Contacts email domain in the subscription details in Zuora. Reseller can either open a ticket with this request or the customer can CC the reseller and also confirm that they would like to authorize the reseller to participate in the ticket.
 
 ### Update Zuora Sold To contact using CustomersDot
 

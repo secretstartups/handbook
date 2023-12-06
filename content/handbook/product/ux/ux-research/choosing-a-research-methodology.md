@@ -1,15 +1,7 @@
 ---
-
 title: "Choosing a research methodology"
 description: "How to choose a research methodology: detail vs frequency, user characteristics, and fidelity of insight"
 ---
-
-
-
-
-
-
-
 
 When choosing the appropriate methodology (see handbook pages for [problem validation](/handbook/product/ux/ux-research/problem-validation-and-methods/) and [solution validation](/handbook/product/ux/ux-research/solution-validation-and-methods/) methods) for your research question, there are multiple factors to consider:
 

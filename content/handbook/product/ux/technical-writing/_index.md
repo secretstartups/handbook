@@ -1,14 +1,6 @@
 ---
-
 title: "Technical Writing"
-description: "The Technical Writing team continuously develops the GitLab product documentation to meet users' and administrators' needs."
 ---
-
-
-
-
-
-
 
 The GitLab Technical Writing team collaborates with developers, product managers, and the community to develop product documentation.
 
@@ -21,6 +13,7 @@ Anyone can contribute to the documentation. Follow our [GitLab documentation gui
 ## About Us
 
 [The Technical Writing team](/handbook/company/team/?department=technical-writing) includes:
+
 - A group of [Technical Writers](/job-families/product/technical-writer/).
 - Two [Technical Writing Managers](/job-families/product/technical-writing-manager/).
 - A [Senior UX Fullstack Engineer](/job-families/product/ux-fullstack-engineer/).
@@ -43,6 +36,7 @@ The team manages general documentation-related and team-specific Slack channels:
 ## Public Training for GitLab Technical Writing
 
 If you're interested in updating or creating GitLab product documentation, see our [Technical Writing Fundamentals course](fundamentals/), which includes:
+
 - Guidelines for technical writing.
 - GitLab style conventions.
 - Information about internal testing.
@@ -118,33 +112,18 @@ Technical Writers (TWs) collaborate with [their assigned groups](#assignments-to
 
 Some content on docs.gitlab.com is [not reviewed by TWs](#content-not-reviewed-by-tws).
 
-### Assignments to DevOps Stages and Groups
-{: #designated-technical-writers}
+<a id="designated-technical-writers">
 
-**If you were directed here from a documentation page's metadata:**
-References to stages and groups in documentation metadata don't indicate developer group ownership, but instead help connect people to the assigned stable counterpart technical writer with subject matter awareness.
-If internal groups want to use other metadata parameters to track information in documentation pages, please create an issue in the Technical Writing repository for discussion.
-Additional discussions are in [this issue](https://gitlab.com/gitlab-org/technical-writing/-/issues/547).
-{: .alert .alert-info}
+### Assignments to DevOps Stages and Groups
 
 The designated Technical Writer is the go-to person for their assigned
-[stage groups](/handbook/product/categories/). They collaborate with
+[groups](/handbook/product/categories/). They collaborate with
 other team members to plan new documentation, edit existing documentation,
-review any proposed changes to documentation, suggest changes to the microcopy
-exposed to users, and generally partner with subject matter experts (SMEs) in
+review any proposed changes to documentation, suggest changes to UI microcopy,
+and generally partner with subject matter experts (SMEs) in
 all situations where documentation is required.
 
-When a Technical Writer [is on PTO](#technical-writer-pto), the whole team acts as their backup.
-
-**Note:** If you've been directed here from metadata in a documentation page
-that has `none` as the stage, refer to the
-[Assignments to other projects and subjects](#assignments-to-other-projects-and-subjects)
-section, referencing the group shown in metadata with the listed Subjects in the table.
-
-Not sure who's responsible for a feature? Review feature assignments by [stage](https://about.gitlab.com/features/) or [group](/handbook/product/categories/features/).
-{: .alert .alert-info}
-
-<%= partial("includes/stages/tech-writing") %>
+{{% tech-writing %}}
 
 <!--
   To update the table above:
@@ -155,10 +134,19 @@ Not sure who's responsible for a feature? Review feature assignments by [stage](
 Reference: https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/24952
 -->
 
+{{% alert title="Note" color="primary" %}}
+**If you were directed here from a documentation page's metadata:**
+- The metadata doesn't indicate developer ownership, but is meant to direct you to an appropriate technical writer.
+- If you are a development group and would like metadata in documentation pages, create an issue in [the Technical Writing repository](https://gitlab.com/gitlab-org/technical-writing) for discussion. Additional discussion is in [this issue](https://gitlab.com/gitlab-org/technical-writing/-/issues/547).
+- If the stage is listed as `none`, see if [there is a DRI](#assignments-to-other-projects-and-subjects) or use [roulette](https://gitlab-org.gitlab.io/gitlab-roulette/?sortKey=stats.avg30&order=-1&hourFormat24=true&visible=maintainer%7Cdocs).
+{{% /alert %}}
+
 Technical Writers are encouraged to review and improve documentation of other
 stages but they aren't required to. When contributing to docs they don't own,
 they must respect the assigned TW's ownership and ensure to request their review
 and approval when adding significant changes to their docs.
+
+When a Technical Writer [is on PTO](#technical-writer-pto), the whole team acts as their backup.
 
 ### Assignments to other projects and subjects
 
@@ -166,33 +154,16 @@ For collaboration in other projects and subjects:
 
 | Subject                                                                                                         | Assigned technical writer                                                                                                                      |
 |:----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
-| The documentation site                                      | [Susan Tacker]                                                                                                                              |
-| The documentation site backend (code, automation)                                             | [Sarah German]                                                                                                                              |
-| [GitLab Design System ("Pajamas")](https://design.gitlab.com/) information under [`content`](https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com/-/tree/main/contents/content)                                               | [Suzanne Selhorn]                                                                                                                              |
-| [Style Guide](#style-guide)                                                                                     | [Suzanne Selhorn]                                                                                                                              |
-| [Testing/Vale/markdownlint](#testing)                                                                           | [Diana Logan]                                                                                                                                  |
-| [Documentation handbook](/handbook/documentation/)                                                              | [Diana Logan]                                                                                                                                  |
-| [Technical Writing handbook](https://about.gitlab.com/handbook/engineering/ux/technical-writing/)                                       | [Susan Tacker]                                                                                                                                 |
-| [Tutorials](https://docs.gitlab.com/ee/tutorials/)                                                              | [Kati Paizee]                                                                                                                                  |
-| [What's new](https://docs.gitlab.com/ee/administration/whats-new.html)                                          | [Kati Paizee]                                                                                                                                  |
-| [GitLab Development Kit (GDK)](https://gitlab.com/gitlab-org/gitlab-development-kit)                            | [Ashraf Khamis], [Axil], [Evan Read], [Fiona Neill], [Jon Glassman], [Lorena Ciutacu], [Marcel Amirault], [Phillip Wells], [Russell Dickenson] |
-
-[Amy Qualls]: https://gitlab.com/aqualls
-[Ashraf Khamis]: https://gitlab.com/ashrafkhamis
-[Axil]: https://gitlab.com/axil
-[Diana Logan]: https://gitlab.com/dianalogan
-[Evan Read]: https://gitlab.com/eread
-[Fiona Neill]: https://gitlab.com/fneill
-[Jon Glassman]: https://gitlab.com/jglassman1
-[Kati Paizee]: https://gitlab.com/kpaizee
-[Lorena Ciutacu]: https://gitlab.com/lciutacu
-[Marcel Amirault]: https://gitlab.com/marcel.amirault
-[Marcin Sędłak-Jakubowski]: https://gitlab.com/msedlakjakubowski
-[Phillip Wells]: https://gitlab.com/phillipwells
-[Russell Dickenson]: https://gitlab.com/rdickenson
-[Sarah German]: https://gitlab.com/sarahgerman
-[Susan Tacker]: https://gitlab.com/susantacker
-[Suzanne Selhorn]: https://gitlab.com/sselhorn
+| The documentation site                                      | {{< member-by-name "Susan Tacker" >}}                                                                                                                              |
+| The documentation site backend (code, automation)                                             | {{< member-by-name "Sarah German" >}}                                                                                                                              |
+| [GitLab Design System ("Pajamas")](https://design.gitlab.com/) information under [`content`](https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com/-/tree/main/contents/content)                                               | {{< member-by-name "Suzanne Selhorn" >}}                                                                                                                              |
+| [Style Guide](#style-guide)                                                                                     | {{< member-by-name "Suzanne Selhorn" >}}                                                                                                                              |
+| [Testing/Vale/markdownlint](#testing)                                                                           | {{< member-by-name "Diana Logan" >}}                                                                                                                                  |
+| [Documentation handbook](/handbook/documentation/)                                                              | {{< member-by-name "Diana Logan" >}}                                                                                                                                  |
+| [Technical Writing handbook](https://about.gitlab.com/handbook/engineering/ux/technical-writing/)                                       | {{< member-by-name "Susan Tacker" >}}                                                                                                                                 |
+| [Tutorials](https://docs.gitlab.com/ee/tutorials/)                                                              | {{< member-by-name "Kati Paizee" >}}                                                                                                                                  |
+| [What's new](https://docs.gitlab.com/ee/administration/whats-new.html)                                          | {{< member-by-name "Kati Paizee" >}}                                                                                                                                  |
+| [GitLab Development Kit (GDK)](https://gitlab.com/gitlab-org/gitlab-development-kit)                            | {{< member-by-name "Ashraf Khamis" >}}, {{< member-by-name "Achilleas Pipinellis" >}}, {{< member-by-name "Evan Read" >}}, {{< member-by-name "Fiona Neill" >}}, {{< member-by-name "Jon Glassman" >}}, {{< member-by-name "Lorena Ciutacu" >}}, {{< member-by-name "Marcel Amirault" >}}, {{< member-by-name "Phillip Wells" >}}, {{< member-by-name "Russell Dickenson" >}} |
 
 ### Content not reviewed by TWs
 
@@ -223,6 +194,7 @@ The number of pages in the five primary repositories (GitLab, Omnibus, Charts, O
 
 | Date          | # of pages | Increase from previous quarter |
 |---------------|------------| ------------|
+| Dec  2023     | 2,201      | 5 %         |
 | Sept 2023     | 2,088      | 8 %         |
 | Jun 2023      | 1,993      | 5 %         |
 | Mar 2023      | 1,929      | 3 %         |
@@ -232,12 +204,13 @@ The number of pages in the five primary repositories (GitLab, Omnibus, Charts, O
 | Jan 2022      | 1,562      | -           |
 | May 2020      | 1,165      | -           |
 
-**Change between May 2020 and Sept 2023:** 923 more pages (a 79% increase)
+**Change between May 2020 and Dec 2023:** 1036 more pages (a 89% increase)
 
 The number of words in these repositories:
 
 | Date          | Word count | Increase from previous quarter |
 |---------------|------------| ------------|
+| Dec  2023     | 2,990,400  | 5 %        |
 | Sept 2023     | 2,842,399  | 5 %         |
 | Jun 2023      | 2,701,888  | 6 %         |
 | Mar 2023      | 2,546,466  | 6 %         |
@@ -247,7 +220,7 @@ The number of words in these repositories:
 | Jan 2022      | 2,017,183  | -           |
 | May 2020      | 1,190,371  | -           |
 
-**Change between May 2020 and Sept 2023:** 1,652,028 more words (a 138% increase)
+**Change between May 2020 and Dec 2023:** 1,800,029 more words (a 151% increase)
 
 The word count has more than doubled in this timeframe.
 
@@ -288,7 +261,7 @@ When taking PTO, Technical Writers:
    - The TW team can easily see the PTO status of all team members when checking the Roulette dashboard.
 1. Send a message in the group Slack channels indicating where to find the available mechanisms. For example:
 
-   ```
+   ```text
    I’m off for the holidays (202y-mm-dd - 202y-mm-dd). For help with documentation while I'm away, see
    https://about.gitlab.com/handbook/product/ux/technical-writing/#technical-writer-pto for ways to get help.
    For urgent _named time-sensitive task_ matters, ping _named TW_.
@@ -308,26 +281,25 @@ The assigned writer does not need to do the work. When they check the queue, the
 Along with Technical Writers' normally assigned work, there are recurring tasks
 that need to be regularly completed:
 
-- **Release Post Structural Check:** The Technical Writing Lead [reviews the content](https://about.gitlab.com/handbook/marketing/blog/release-posts/#tw-lead) for the release post published at the end of each milestone. See the [Release Post Scheduling](https://about.gitlab.com/handbook/marketing/blog/release-posts/managers/) Handbook page for each milestone's assigned writer.
+- **Release Post Structural Check:** The Technical Writing Lead [reviews the content](/handbook/marketing/blog/release-posts/#tw-lead) for the release post published at the end of each milestone. See the [Release Post Scheduling](/handbook/marketing/blog/release-posts/managers/) Handbook page for each milestone's assigned writer.
 - **Monthly doc version:** At the end of each milestone, a Technical Writer [creates the monthly version for the docs site](https://gitlab.com/gitlab-org/gitlab-docs/-/blob/main/doc/releases.md). The Technical Writer assigned to this task is the writer who completed the release post structural check for the previous milestone.
 - **Docs project maintenance tasks:** Each month, one Technical Writer is assigned to complete maintenance tasks for the documentation site and its content. This involves [creating a new issue using the `tw-monthly-tasks` template](https://gitlab.com/gitlab-org/technical-writing/-/issues/new?issue[title]=Docs%20project%20maintenance%20tasks%2C%20Month%20YYYY&issuable_template=tw-monthly-tasks) in the `technical-writing` project to track maintenance work. If additional work beyond what's described in the maintenance issue is required, the Technical Writer creates merge requests and additional issues as needed.
 
 Schedule for Docs project maintenance tasks:
 
-- December, 2023: [Axil]
-- November, 2023: [Marcin Sędłak-Jakubowski]
-- October, 2023: [Russell Dickenson]
-- September, 2023: [Evan Read]
-- August, 2023: [Kati Paizee]
-- July, 2023: [Diana Logan]
-- June, 2023: [Ashraf Khamis]
-- May, 2023: [Fiona Neill]
-- April, 2023: [Lorena Ciutacu]
-- March, 2023: [Marcin Sędłak-Jakubowski]
-- February, 2023: [Jon Glassman]
-- January, 2023: [Phillip Wells]
-- December, 2022: [Diana Logan]
-- November, 2022: [Kati Paizee]
+- March, 2024: {{< member-by-name "Amy Qualls" >}}
+- February, 2024: {{< member-by-name "Marcel Amirault" >}}
+- January, 2024: {{< member-by-name "Phillip Wells" >}}
+- December, 2023: {{< member-by-name "Achilleas Pipinellis" >}}
+- November, 2023: {{< member-by-name "Marcin Sędłak-Jakubowski" >}}
+- October, 2023: {{< member-by-name "Russell Dickenson" >}}
+- September, 2023: {{< member-by-name "Evan Read" >}}
+- August, 2023: {{< member-by-name "Kati Paizee" >}}
+- July, 2023: {{< member-by-name "Diana Logan" >}}
+- June, 2023: {{< member-by-name "Ashraf Khamis" >}}
+- May, 2023: {{< member-by-name "Fiona Neill" >}}
+- April, 2023: {{< member-by-name "Lorena Ciutacu" >}}
+- March, 2023: {{< member-by-name "Marcin Sędłak-Jakubowski" >}}
 
 ## Reviews
 
@@ -351,7 +323,7 @@ The Technical Writers use the following levels of edit:
 
 - Ensure the pipeline passes and no grammar, spelling, or punctuation errors exist.
 - Ensure the content is clear, discoverable, navigable, and written with the user's perspective in mind.
-- Ensure the content meets the guidelines in the [Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/). 
+- Ensure the content meets the guidelines in the [Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/).
 - Ensure the content conforms to the defined [topic types](https://docs.gitlab.com/ee/development/documentation/topic_types/).
 - Ensure the content fits well into the larger documentation set and does not duplicate information in other areas.
 - For UI text, ensure the content meets the standards defined in the [Pajamas Design System](https://design.gitlab.com/) and the [Technical Writer Word List](https://docs.gitlab.com/ee/development/documentation/styleguide/word_list.html).
@@ -398,10 +370,8 @@ can efficiently perform the necessary verification.
 To balance [velocity](https://about.gitlab.com/handbook/engineering/development/principles/#the-importance-of-velocity) and quality, the writers use this workflow:
 
 - When a writer opens a merge request, another writer must review and merge. Peer reviews are important to maintain quality and help the team build a common voice.
-
 - When anyone else (like a developer, community member, or Support team member) opens a merge request:
   - If the MR contains documentation and code, the writer adds suggestions but does not merge. The MR is merged by another developer.
-
   - If the MR contains documentation only:
     - Writers can apply small suggestions, by using the **Apply suggestion** feature, before they merge.
       Writers can fix things like missing punctuation, typos, and pipeline failures without additional review.
@@ -412,7 +382,7 @@ To balance [velocity](https://about.gitlab.com/handbook/engineering/development/
       must review before the writer merges. This workflow gives the MR
       author a chance to verify the changes and it helps ensure accuracy.
 
-For more information on review turnaround times, see [Review-response SLO](../../../engineering/workflow/code-review/#review-response-slo).      
+For more information on review turnaround times, see [Review-response SLO](../../../engineering/workflow/code-review/#review-response-slo).
 
 #### Triaging automated group mentions
 

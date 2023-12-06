@@ -1,6 +1,6 @@
 ---
 title: "GitLab Mission"
-description: "GitLab believe that all digital products should be open to contributions; from legal documents to movie scripts, and from websites to chip designs."
+description: "We at GitLab believe that all digital products should be open to contributions; from legal documents to movie scripts, and from websites to chip designs."
 canonical_path: "/company/mission/"
 ---
 
@@ -107,6 +107,6 @@ This policy is in alignment with our mission, contributor and employee code-of-c
 
 ## Mitigating Concerns
 
-We acknowledge the concerns to achieving our goals. We document them in our [Mitigating Concerns page](/handbook/leadership/mitigating-concerns/).
+We acknowledge the concerns to achieving our goals. We document them in our [Mitigating Concerns page](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns/).
 
 {{% include "includes/take-gitlab-for-a-spin.md" %}}

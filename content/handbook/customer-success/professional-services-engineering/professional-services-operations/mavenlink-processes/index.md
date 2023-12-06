@@ -14,7 +14,7 @@ description: "Learn about the GitLab Professional Services operations processes 
 
 Mavenlink is our current PSA, follow the link below to view process steps and guidelines.
 
-All other processed that relates to professional services operations [can be found on the this page](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/professional-services-operations/)
+All other processed that relates to professional services operations [can be found on the this page](/handbook/customer-success/professional-services-engineering/professional-services-operations/)
 
 #### Mavenlink Log In
 
@@ -288,7 +288,7 @@ Once the PS Opportunity is closed/ won, a notification is sent from SFDC.
 2. Update the project status to In Set Up
 3. Review project settings:
   - Delete out the Start and End Date
-  - Update [project color](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/#mavenlink-project-status-colors)
+  - Update [project color](/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/#mavenlink-project-status-colors)
   - Update the project budget to match the budget of the opportunity, SOW or Order Form
   - Uncheck the include expenses box
   - Target Margin should be 40%

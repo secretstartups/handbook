@@ -72,7 +72,7 @@ Considerations when building your path:
 
 ## Path to Promotion: Support Engineering Manager
 
-People managers need a combination of skills involving not only [technical credibility](https://about.gitlab.com/handbook/engineering/management/#technical-credibility), but interpersonal and organizational skills in order to lead a team of diverse individuals. These skills include embodying the [GitLab Values](/handbook/values/), [coaching](/handbook/leadership/coaching/), [interviewing and hiring](/handbook/support/managers/hiring.html), and thinking holistically about the Support team, how we fit within the company, and interact with users. People managers also need to have *organizational awareness* within GitLab, so you know where to look for answers and how to guide team members toward solutions. Read more about [Leadership at GitLab](/handbook/leadership/).
+People managers need a combination of skills involving not only [technical credibility](https://about.gitlab.com/handbook/engineering/management/#technical-credibility), but interpersonal and organizational skills in order to lead a team of diverse individuals. These skills include embodying the [GitLab Values](/handbook/values/), [coaching](/handbook/leadership/coaching/), [interviewing and hiring](/handbook/support/managers/hiring), and thinking holistically about the Support team, how we fit within the company, and interact with users. People managers also need to have *organizational awareness* within GitLab, so you know where to look for answers and how to guide team members toward solutions. Read more about [Leadership at GitLab](/handbook/leadership/).
 
 Maintaining your technical skillsets becomes secondary, however you have the  autonomy (and ability) to balance your level of technical skill upkeep with the priorities and needs of your team. Above all, you keep team members and our customers your top priority.
 
@@ -81,7 +81,7 @@ Maintaining your technical skillsets becomes secondary, however you have the  au
 Recommendations to explore this path:
 
 - Read about [what you can expect in a Support Engineering Manager role](/job-families/engineering/support-management/#what-you-can-expect-in-a-manager-support-engineering-role-at-gitlab).
-- Read about the [Support Engineering Manager Responsibilities](/handbook/support/managers/manager-responsibilities.html).
+- Read about the [Support Engineering Manager Responsibilities](/handbook/support/managers/manager-responsibilities).
 - Read about why [candidates should apply for a Support Manager role](/job-families/engineering/support-management/#you-should-apply-if) to understand general expectations of this role.
 - Read [Transitioning from Individual Contributor to Manager](https://about.gitlab.com/handbook/engineering/development/dev/training/ic-to-manager/).
 - Read about [Individual Contribution vs. Management](https://about.gitlab.com/handbook/engineering/career-development/#individual-contribution-vs-management) and [Trying the Management Track](https://about.gitlab.com/handbook/engineering/career-development/#trying-the-management-track).

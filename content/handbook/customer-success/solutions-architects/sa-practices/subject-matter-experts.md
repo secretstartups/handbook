@@ -4,12 +4,6 @@ title: Solutions Architects - Subject Matter Experts
 ---
 
 
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 # Subject Matter Expert Program
 
 The SME Program is an initiative designed to help solutions architects (SAs) provide better support to customers. The program will identify and onboard subject matter experts (SMEs) in key areas, such as AI, security, and agile planning.
@@ -39,12 +33,12 @@ Other areas may be added in the future, depending on customer and SA demand, suc
 
 SMEs will be responsible for the following tasks:
 
-- Answering questions from SAs about their area of expertise. The preferred channel is our [StackOverFlow for Teams](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/#stack-overflow-for-teams).
+- Answering questions from SAs about their area of expertise. The preferred channel is our [StackOverFlow for Teams](/handbook/customer-success/solutions-architects/tools-and-resources/#stack-overflow-for-teams).
 - Providing technical expertise to SAs during customer demos and presentations.
 - Developing and delivering training materials on their area of expertise.
 - Staying up-to-date on the latest trends in their area of expertise.
 - Participating in field enablement activities.
-- Form [communities of practices](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/communities-of-practice/) among the SMEs for the same topic and with fellow SAs to foster the knowledge in the team.
+- Form [communities of practices](/handbook/customer-success/solutions-architects/sa-practices/communities-of-practice/) among the SMEs for the same topic and with fellow SAs to foster the knowledge in the team.
 
 ## Scope
 

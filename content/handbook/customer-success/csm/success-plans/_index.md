@@ -10,13 +10,13 @@ description: "A success plan is a roadmap that connects a customer's desired bus
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ----
 
 ## Overview
 
-A success plan is a roadmap that connects a customer's desired business outcomes to GitLab solutions. It is a living document, developed by the CSM.  The input for a success plan comes in the first instance from the value-based conversations with the customer in the presales process and documented in the [command plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/), focusing on articulated business needs and including metrics where available. The success plan echoes these goals and further articulates metrics, and creates a roadmap for implementation via milestones.  It is the strategic vision for the customer to realize success and value with GitLab.
+A success plan is a roadmap that connects a customer's desired business outcomes to GitLab solutions. It is a living document, developed by the CSM.  The input for a success plan comes in the first instance from the value-based conversations with the customer in the presales process and documented in the [command plan](/handbook/sales/command-of-the-message/command-plan/), focusing on articulated business needs and including metrics where available. The success plan echoes these goals and further articulates metrics, and creates a roadmap for implementation via milestones.  It is the strategic vision for the customer to realize success and value with GitLab.
 
 These are some of the reasons we use a success plan:
 
@@ -24,10 +24,10 @@ These are some of the reasons we use a success plan:
 - Align GitLab’s product adoption plan to customer outcomes
 - Define key activity (e.g. change management, training) milestones and timeframes for a successful adoption journey
 - Develop shared understanding and commitment to the plan between GitLab and customer stakeholders
-- Serve as foundation for measurable outcomes within an [Executive Business Review](https://about.gitlab.com/handbook/customer-success/csm/ebr/)
-- Provide a structure for tracking work within the [CSM cadence call](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/)
+- Serve as foundation for measurable outcomes within an [Executive Business Review](/handbook/customer-success/csm/ebr/)
+- Provide a structure for tracking work within the [CSM cadence call](/handbook/customer-success/csm/cadence-calls/)
 
-Success plans are another facet of [account engagement](https://about.gitlab.com/handbook/customer-success/csm/engagement/) and are separate from collaboration projects. The success plan is meant for articulating and tracking high-level strategic business objectives, while collaboration projects are best used for async communication outside of cadence calls, particularly for issues where collaboration with cross-functional groups (e.g. Product & Engineering) is necessary.
+Success plans are another facet of [account engagement](/handbook/customer-success/csm/engagement/) and are separate from collaboration projects. The success plan is meant for articulating and tracking high-level strategic business objectives, while collaboration projects are best used for async communication outside of cadence calls, particularly for issues where collaboration with cross-functional groups (e.g. Product & Engineering) is necessary.
 
 As you read through this page, you'll likely notice the success plan described as a [living document](/#success-plans-are-living-documents); this is intentional! A success plan is **not** a "set it and forget it" exercise. It should be something that the CSM maintains on an ongoing basis and [iterates](/handbook/values/#iteration) on as they learn new information.
 
@@ -89,20 +89,20 @@ Objectives should capture:
 
 #### Example 1:
 
-  ![Example Success Plan Objective](https://about.gitlab.com/handbook/customer-success/csm/success-plans/success_plan_objective.png "Example Success Plan Objective")
+  ![Example Success Plan Objective](/handbook/customer-success/csm/success-plans/success_plan_objective.png "Example Success Plan Objective")
 
 Within a success plan objective (or "CTA"), tasks can be used to further decompose the plan, assign customer DRIs and provide more timeline detail.
 
 #### Example 2:
 
-  ![Example Success Plan Task](https://about.gitlab.com/handbook/customer-success/csm/success-plans/success_plan_cta_task_example.png "Example Success Plan Task")
+  ![Example Success Plan Task](/handbook/customer-success/csm/success-plans/success_plan_cta_task_example.png "Example Success Plan Task")
 
 With these three elements, you can develop an objective that allows you to measure and report on progress towards outcomes throughout your book in a scalable way.
 
 
 ## Building a Success Plan
 
-In FY24, the SA team has begun rolling out customer-agreed [strategy roadmaps](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/#customer-strategy-planning) ([Link to overview - GitLab internal](https://docs.google.com/presentation/d/1npyhUebp68YkccLlJP5R_6gmtQjfELpB1mBGWfroVmY/edit#slide=id.g1f08ae24719_1_7)).  
+In FY24, the SA team has begun rolling out customer-agreed [strategy roadmaps](/handbook/customer-success/solutions-architects/processes/#customer-strategy-planning) ([Link to overview - GitLab internal](https://docs.google.com/presentation/d/1npyhUebp68YkccLlJP5R_6gmtQjfELpB1mBGWfroVmY/edit#slide=id.g1f08ae24719_1_7)).  
 
 These roadmaps outline the customer success outcomes that are now being defined in the presales process, in order to engage in a value-based conversation with the customer that starts in the sales process and carries through to the CSM engagement.  For guidance on where to put the determined objectives when a strategy roadmap is in place, please see the ***Translating a Strategy Roadmap to a Success Plan*** section below.
 
@@ -112,16 +112,16 @@ When a strategy roadmap is not in place, the following guidance details the proc
 
 Before we can develop a success plan, we need to understand what is driving the customer's usage of GitLab. This goes beyond the features they are interested in, and extends to the business value GitLab provides.
 
-- Review the opportunity [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/) in Salesforce
-- Work with the SAE/AE and SA to understand the customer's reasons for purchasing (e.g. [Value Driver](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers)) and their expectations or Positive Business Outcomes (PBOs), as well as any potential risks or barriers, key stakeholders, and any other relevant information regarding their desire to use GitLab
-- [Prepare discovery questions to discuss with the customer](https://about.gitlab.com/handbook/customer-success/csm/success-plans/questions-techniques/) to collect any missing information
-- Review [account onboarding](https://about.gitlab.com/handbook/customer-success/csm/onboarding/) and [account engagement](https://about.gitlab.com/handbook/customer-success/csm/engagement/) for additional information that is useful to collecting information and developing a relationship
+- Review the opportunity [Command Plan](/handbook/sales/command-of-the-message/command-plan/) in Salesforce
+- Work with the SAE/AE and SA to understand the customer's reasons for purchasing (e.g. [Value Driver](/handbook/sales/command-of-the-message/#customer-value-drivers)) and their expectations or Positive Business Outcomes (PBOs), as well as any potential risks or barriers, key stakeholders, and any other relevant information regarding their desire to use GitLab
+- [Prepare discovery questions to discuss with the customer](/handbook/customer-success/csm/success-plans/questions-techniques/) to collect any missing information
+- Review [account onboarding](/handbook/customer-success/csm/onboarding/) and [account engagement](/handbook/customer-success/csm/engagement/) for additional information that is useful to collecting information and developing a relationship
 
 ### Talk with the Stakeholders
 
 All stakeholders should agree on the business objectives that the customer is pursuing, which products and services will help them reach that goal, and to keep the scope focused to 1-3 objectives. As you close out [objectives](/#objectives), you can restart the process to define and add new ones.
 
-[Prepare questions](https://about.gitlab.com/handbook/customer-success/csm/success-plans/questions-techniques/) to validate your existing knowledge of the customer's business outcomes and pain points, and learn about business outcomes you don't know yet.
+[Prepare questions](/handbook/customer-success/csm/success-plans/questions-techniques/) to validate your existing knowledge of the customer's business outcomes and pain points, and learn about business outcomes you don't know yet.
 
 For each business objective, review with the customer:
 
@@ -138,17 +138,17 @@ It's important to share progress with everyone involved as time goes on. The Sal
 
 A customer’s business and strategies will change, so the value that they need from you will change with that. To stay up to date, show the success plan to the customer regularly to help keep a fresh understanding of their needs. You can email a report to the customer once a month (or other frequency), listing the objectives and inviting them to reply if they’re out of date. Follow the instructions on [how to share a Gainsight ROI success plan](#share-a-roi-success-plan).
 
-It's also helpful to identify key times when you interact with a customer that would be good opportunities to review and refresh the success plan. This would ideally be when a discussion of business goals feels appropriate and the right stakeholders are at the table, for example: key handoffs between teams, [EBRs](https://about.gitlab.com/handbook/customer-success/csm/ebr/), or executive check-ins.
+It's also helpful to identify key times when you interact with a customer that would be good opportunities to review and refresh the success plan. This would ideally be when a discussion of business goals feels appropriate and the right stakeholders are at the table, for example: key handoffs between teams, [EBRs](/handbook/customer-success/csm/ebr/), or executive check-ins.
 
-It's recommended for CSMs to use [EBRs](https://about.gitlab.com/handbook/customer-success/csm/ebr/) and/or other recurring meetings such as [cadence calls](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/)) to review steps achieved thus far and set next steps or new objectives as needed. After these meetings, it's important to log an "Activity" in the relevant objective to record how the customer is trending towards their goals. Before closing an objective, get confirmation from a customer (ideally in writing) that it has been achieved and include that in the activity log.
+It's recommended for CSMs to use [EBRs](/handbook/customer-success/csm/ebr/) and/or other recurring meetings such as [cadence calls](/handbook/customer-success/csm/cadence-calls/)) to review steps achieved thus far and set next steps or new objectives as needed. After these meetings, it's important to log an "Activity" in the relevant objective to record how the customer is trending towards their goals. Before closing an objective, get confirmation from a customer (ideally in writing) that it has been achieved and include that in the activity log.
 
 To keep track that the success plan is up to date, use the custom date field on the Objective in the success plan, “Last Validated”. The CSM will update it when they get confirmation from the customer that it is still a business priority for them.
 
-Internally, CSMs can use the data to track their own trends and objectives achieved over time (e.g. quarter over quarter reports) and use the progress of the success plan to measure the [ROI health scorecard](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
+Internally, CSMs can use the data to track their own trends and objectives achieved over time (e.g. quarter over quarter reports) and use the progress of the success plan to measure the [ROI health scorecard](/handbook/customer-success/csm/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
 
 ## Create a Success Plan in Gainsight
 
-[Gainsight](https://about.gitlab.com/handbook/customer-success/csm/gainsight/) is the platform we use to develop and manage success plans. Below are the steps to create a success plan, followed by best practices and recommendations to apply these steps in practice.
+[Gainsight](/handbook/customer-success/csm/gainsight/) is the platform we use to develop and manage success plans. Below are the steps to create a success plan, followed by best practices and recommendations to apply these steps in practice.
 
 When a CSM is assigned to an account, an active ROI Success Plan will be automatically created with a due date 365 days from the day it is created. To create an additional success plan in Gainsight, perform the following steps:
 
@@ -195,19 +195,19 @@ To create [tasks](/#tasks), perform the following steps:
 
 Tasks will affect the overall completion of the objective, and provide more granular visibility into progress on the objective when looking at the Gantt chart. To do this, navigate to the Gantt chart tab (next to the Objectives tab) in the success plan and confirm the representation captures the plan. You can adjust dates accordingly (for example, if a task actually started in the past but the entry defaulted its start date to today's date).
 
-Finally, next to the success plan due date, change the "Status" of the success plan from "Draft" to "Active". Don't forget this step, as it determines if your success plan with have a green [health score](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/) and if your objectives will show up in your cockpit.
+Finally, next to the success plan due date, change the "Status" of the success plan from "Draft" to "Active". Don't forget this step, as it determines if your success plan with have a green [health score](/handbook/customer-success/csm/health-score-triage/) and if your objectives will show up in your cockpit.
 
 ### Translating a Strategy Roadmap to a Success Plan
 
-During pre-sales, a [Strategy Roadmap](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/#customer-strategy-planning) is created by the Solutions Architect and shared with the customer. The Strategy Roadmap is a mutually agreed roadmap for achieving value through GitLab adoption. Once an account transitions to post-sales, the CSM will be the [directly responsible individual (DRI)](/handbook/people-group/directly-responsible-individuals/) for transitioning the Strategy Plan’s objectives and timeline to the customer's [Success Plan](https://about.gitlab.com/handbook/customer-success/csm/success-plans/) in Gainsight. The aim is to retain information from Pre-sales to Post-sales without requiring customers to repeat themselves. During the [internal account transition](https://about.gitlab.com/handbook/customer-success/pre-sales-post-sales-transition/) between AE/SA to CSM, the pre-sales team will provide the Strategy Roadmap to the CSM. This information can then be utilized during an [Executive Business Review (EBR)](https://about.gitlab.com/handbook/customer-success/csm/ebr/) at the 6-month mark, post implementation.
+During pre-sales, a [Strategy Roadmap](/handbook/customer-success/solutions-architects/processes/#customer-strategy-planning) is created by the Solutions Architect and shared with the customer. The Strategy Roadmap is a mutually agreed roadmap for achieving value through GitLab adoption. Once an account transitions to post-sales, the CSM will be the [directly responsible individual (DRI)](/handbook/people-group/directly-responsible-individuals/) for transitioning the Strategy Plan’s objectives and timeline to the customer's [Success Plan](/handbook/customer-success/csm/success-plans/) in Gainsight. The aim is to retain information from Pre-sales to Post-sales without requiring customers to repeat themselves. During the [internal account transition](/handbook/customer-success/pre-sales-post-sales-transition/) between AE/SA to CSM, the pre-sales team will provide the Strategy Roadmap to the CSM. This information can then be utilized during an [Executive Business Review (EBR)](/handbook/customer-success/csm/ebr/) at the 6-month mark, post implementation.
 
 
 To translate the Strategy Roadmap to a Success Plan follow the steps below:
 
 1. Open the Strategy Roadmap located in Customer folder on GDrive
 2. Add `Targeted Benefits` (by Functional Team) section on Slide 6 to the Success Plan's `Strategy` section
-3. Add `Objectives` (by Functional Team) from Slide 6 by creating an<span dir=""> </span>[<span dir="">Objective</span>](https://about.gitlab.com/handbook/customer-success/csm/success-plans/#objectives)<span dir=""> and filling in </span>all available details
-4. Add Post-sales `Activities` from Slide 11 by creating Tasks under the respective [<span dir="">Objective</span>](https://about.gitlab.com/handbook/customer-success/csm/success-plans/#objectives)
+3. Add `Objectives` (by Functional Team) from Slide 6 by creating an<span dir=""> </span>[<span dir="">Objective</span>](/handbook/customer-success/csm/success-plans/#objectives)<span dir=""> and filling in </span>all available details
+4. Add Post-sales `Activities` from Slide 11 by creating Tasks under the respective [<span dir="">Objective</span>](/handbook/customer-success/csm/success-plans/#objectives)
 
 ## Manager Verification Process
 
@@ -217,13 +217,13 @@ Managers are to coach each CSM they work with to ensure that all required [compo
 
 Once the manager and CSM reach agreement that the success plan articulates the path to customer value realization (through adoption), the manager should click the appropriate checkbox as shown below:
 
-![Example Success Plan Task](https://about.gitlab.com/handbook/customer-success/csm/success-plans/example-approval-checkbox.png "Example Success Plan Task")
+![Example Success Plan Task](/handbook/customer-success/csm/success-plans/example-approval-checkbox.png "Example Success Plan Task")
 
 ## Types of Success Plans
 
 ### ROI Success Plan
 
-The ROI success plan is the "public-facing" plan that we develop and maintain in collaboration with the customer. It is intended to be shared between GitLab and the customer, and should be considered the foundation of our strategic engagement and the reference for an [Executive Business Review](https://about.gitlab.com/handbook/customer-success/csm/ebr/).
+The ROI success plan is the "public-facing" plan that we develop and maintain in collaboration with the customer. It is intended to be shared between GitLab and the customer, and should be considered the foundation of our strategic engagement and the reference for an [Executive Business Review](/handbook/customer-success/csm/ebr/).
 
 #### Share a ROI Success Plan
 
@@ -233,15 +233,15 @@ To share a ROI Success Plan, click the link icon next to the success plan due da
 
 **Note** as we have not yet had the capacity to update stages to use cases in Gainsight, you'll see 'stage' referenced at times in this guidance and within Gainsight.
 
-Use case adoption can consist of two different motions: [enablement and expansion](https://about.gitlab.com/handbook/customer-success/csm/stage-enablement-and-expansion/), and each belongs in a specific success plan. Understanding the differences and similarities between these motions is key to properly building your success plans and driving stage adoption plays.
+Use case adoption can consist of two different motions: [enablement and expansion](/handbook/customer-success/csm/stage-enablement-and-expansion/), and each belongs in a specific success plan. Understanding the differences and similarities between these motions is key to properly building your success plans and driving stage adoption plays.
 
-For understanding the Use Case Enablement and Expansion reporting, see [Reporting on Expansion and Enablement Objectives](https://about.gitlab.com/handbook/customer-success/csm/stage-enablement-and-expansion/#reporting-on-expansion-and-enablement-objectives).
+For understanding the Use Case Enablement and Expansion reporting, see [Reporting on Expansion and Enablement Objectives](/handbook/customer-success/csm/stage-enablement-and-expansion/#reporting-on-expansion-and-enablement-objectives).
 
 ### Customer Details
 
 The purpose of these fields is to provide additional, helpful information as you create and work on the Success Plan. The fields are from Salesforce.
 
-[CP] fields are all from the Command Plan associated with the most recent Closed - Won New Business. Use these fields to track if the customer is adopting GitLab for their intended purpose. Refer to [Command Plan handbook page](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#opportunity-overview) for details on field definitions.
+[CP] fields are all from the Command Plan associated with the most recent Closed - Won New Business. Use these fields to track if the customer is adopting GitLab for their intended purpose. Refer to [Command Plan handbook page](/handbook/sales/command-of-the-message/command-plan/#opportunity-overview) for details on field definitions.
 
 - Collaboration Project URL
 - Account Team - SA, CSM, Account Owner
@@ -280,7 +280,7 @@ Below lists out each value pillar and the KPIs / metrics we should be driving to
 
 #### Business Outcomes vs. Value Drivers
 
-When talking to customers about their objectives, we want to [level up the conversation to strategic outcomes](https://about.gitlab.com/handbook/customer-success/csm/success-plans/questions-techniques/#leveling-up-from-operationaltechnical-to-strategic). Ideally, the customer will provide us a business outcome in their own words. However, we won't always be able to get that from the customer, and in which case we can use our [value drivers](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers) to describe the strategic outcome.
+When talking to customers about their objectives, we want to [level up the conversation to strategic outcomes](/handbook/customer-success/csm/success-plans/questions-techniques/#leveling-up-from-operationaltechnical-to-strategic). Ideally, the customer will provide us a business outcome in their own words. However, we won't always be able to get that from the customer, and in which case we can use our [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) to describe the strategic outcome.
 
 When evaluating the customer's articulated outcome, a good way to know if it's a strategic outcome is whether you can connect it directly to one of our value drivers. In practice, if you can describe the connection between the outcome and a value driver with little to no intermediary explanation, it's likely a strategic outcome.
 
@@ -324,7 +324,7 @@ Example 3:
 >
 > **Comments:** The customer's current CI system is cumbersome and requires a lot of administrative overhead to maintain, which slows down the SDLC. They want to replace it with GitLab CI, and conduct a phased migration as well as standardizing on GitLab CI for all new projects.
 
-This objective is using one of our [value drivers](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers) to describe the strategic outcome. The metrics allow us to track both new projects and existing projects, but as two separate items since they require a different approach. The comments let us describe additional reasons for doing this.
+This objective is using one of our [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) to describe the strategic outcome. The metrics allow us to track both new projects and existing projects, but as two separate items since they require a different approach. The comments let us describe additional reasons for doing this.
 
 ##### Needs Improvement
 

@@ -161,7 +161,7 @@ deploy s3:
 
 markdownlint:
   image:
-    name: davidanson/markdownlint-cli2:0.4.0
+    name: davidanson/markdownlint-cli2:v0.11.0
     entrypoint: ["/bin/sh", "-c"]
   stage: test
   needs: []

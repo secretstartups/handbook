@@ -24,7 +24,7 @@ The Data Directory is designed to provide quick access to / better organize key 
 **CUSTOMER SUCCESS**
 <details>
   <summary markdown="span">About Customer Success</summary>
-  [Handbook Page](https://about.gitlab.com/handbook/customer-success/)
+  [Handbook Page](/handbook/customer-success/)
   <br>
 </details>
 
@@ -102,11 +102,11 @@ The Data Directory is designed to provide quick access to / better organize key 
 **MARKETING**
 <details>
   <summary markdown="span">About Marketing</summary>
-  [Handbook Page](https://about.gitlab.com/handbook/marketing/)
+  [Handbook Page](/handbook/marketing/)
   <br>
-  [Field Marketing](https://about.gitlab.com/handbook/marketing/field-marketing/)
+  [Field Marketing](/handbook/marketing/field-marketing/)
   <br>
-  [Marketing Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/)
+  [Marketing Operations](/handbook/marketing/marketing-operations/)
   <br>
   [All-Remote Marketing](/handbook/ceo/chief-of-staff-team/workplace/)
 </details>
@@ -151,7 +151,7 @@ The Data Directory is designed to provide quick access to / better organize key 
   - [Product sections, stages, groups, and categories](/handbook/product/categories/)
   - [Product Handbook](/handbook/product/)
   - [Product Performance Indicators](https://internal.gitlab.com/handbook/company/performance-indicators/product/) (internal handbook)
-  - [Services Usage Data](https://about.gitlab.com/handbook/legal/privacy/customer-product-usage-information/)
+  - [Services Usage Data](/handbook/legal/privacy/customer-product-usage-information/)
   - [Our Commitment to Individual User Privacy in relation to Service Usage Data](/handbook/product/analytics-instrumentation-guide/service-usage-data-commitment/)
 
 </details>
@@ -223,7 +223,7 @@ The Data Directory is designed to provide quick access to / better organize key 
 **SALES**
 <details>
   <summary markdown="span">About Sales</summary>
-  [Handbook Page](https://about.gitlab.com/handbook/sales/)
+  [Handbook Page](/handbook/sales/)
   <br>
 </details>
 
@@ -242,9 +242,9 @@ The Data Directory is designed to provide quick access to / better organize key 
 **LEGAL & CORPORATE AFFAIRS**
 <details>
   <summary markdown="span">About Legal & Corporate Affairs</summary>
-  [Handbook Page](https://about.gitlab.com/handbook/legal/)
+  [Handbook Page](/handbook/legal/)
   <br>
-  [Legal Operations](https://about.gitlab.com/handbook/legal/legalops/)
+  [Legal Operations](/handbook/legal/legalops/)
 </details>
 
 
@@ -255,27 +255,27 @@ Here is a reference for the Data Program Teams meeting series, subject DRIs, and
 
 | **TEAM** | **PRIMARY PARTNERS** | **PRIMARY SLACK CHANNEL** | **MEETING CADENCE** | **DATA DRI** | 
 | :--------------- | :--------------- | :--------------- | :--------------- | :--------------- | 
-| [**Marketing**](https://about.gitlab.com/handbook/marketing/) |  |  |  |  |  |  |
-| [Marketing - Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/) |  | [#marketing-data-ops](https://gitlab.slack.com/archives/C017D7P3Q72) | Bi-weekly |  | 
-| [Marketing - Strategy & Performance](https://about.gitlab.com/handbook/marketing/strategy-performance/) | @degan, @jahye1, @rkohnke | [#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A) |  |  |
+| [**Marketing**](/handbook/marketing/) |  |  |  |  |  |  |
+| [Marketing - Operations](/handbook/marketing/marketing-operations/) |  | [#marketing-data-ops](https://gitlab.slack.com/archives/C017D7P3Q72) | Bi-weekly |  | 
+| [Marketing - Strategy & Performance](/handbook/marketing/strategy-performance/) | @degan, @jahye1, @rkohnke | [#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A) |  |  |
 | Marketing - SDR |  |  |  |  | 
 | Marketing - Field |  |  |  |  | 
 | Marketing - Corporate |  |  |  |  | 
-|   [Marketing - Campaigns / Demand Gen](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/) | @jgragnola | |  |  | 
+|   [Marketing - Campaigns / Demand Gen](/handbook/marketing/demand-generation/campaigns/) | @jgragnola | |  |  | 
 | Marketing - Digital Experience |  |  | 
 | Marketing - Developer Relations |  |  |  
 | Marketing - Portfolio |  |  | 
 | |  |  |  
-| [**Sales**](https://about.gitlab.com/handbook/sales/) |  |  |   
+| [**Sales**](/handbook/sales/) |  |  |   
 | Sales - New |  |  |  |  | 
-| [Sales - Customer Success](https://about.gitlab.com/handbook/customer-success/) | @bbutterfield | various / project-based |     
-| [Sales - Customer Success Operations](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/) | @jdbeaumont, @emcinerney | [#wg-gtm-product-analytics](https://gitlab.slack.com/archives/C01BMJKC8UF) | Monthly x-functional series |  |
-| [Sales - Strategy & Analytics](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/) | @jakebielecki, @mvilain, @nfiguera | [#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A) |  Monthly x-functional series |  |
+| [Sales - Customer Success](/handbook/customer-success/) | @bbutterfield | various / project-based |     
+| [Sales - Customer Success Operations](/handbook/sales/field-operations/customer-success-operations/) | @jdbeaumont, @emcinerney | [#wg-gtm-product-analytics](https://gitlab.slack.com/archives/C01BMJKC8UF) | Monthly x-functional series |  |
+| [Sales - Strategy & Analytics](/handbook/sales/field-operations/sales-strategy/) | @jakebielecki, @mvilain, @nfiguera | [#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A) |  Monthly x-functional series |  |
 | Sales - Support |  |  |  |
 | Sales - Field Operations |  |  | 
 | |  |  |  |  |  
 | [**Product**](/handbook/product/) |  |  |  |  |  
-| [Growth](https://about.gitlab.com/handbook/marketing/growth/) | @s_awezec  | [#s_growth](https://gitlab.slack.com/archives/CDLCBGEDV) | Monthly x-functional series |  |
+| [Growth](/handbook/marketing/growth/) | @s_awezec  | [#s_growth](https://gitlab.slack.com/archives/CDLCBGEDV) | Monthly x-functional series |  |
 | [Product Data Insights](/handbook/product/product-analysis/) | @cbraza | [#data](https://gitlab.slack.com/archives/C8D1LGC23) | Weekly (team meeting), Bi-weekly (office hours), X-functional series |  |
 | |  |  |  |  |  
 | **Engineering** |  |  |  |  |  |  |

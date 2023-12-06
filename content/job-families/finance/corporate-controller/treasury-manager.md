@@ -6,11 +6,11 @@ title: "Treasury"
 
 ## Treasury Analyst
 
-The Treasury Analyst reports to the [Director Treasury](https://about.gitlab.com/job-families/finance/corporate-controller/treasury-manager/#director---treasury)
+The Treasury Analyst reports to the [Director Treasury](/job-families/finance/corporate-controller/treasury-manager/#director---treasury)
 
 #### Treasury Analyst Job Grade
 
-The Treasury Analyst is a [grade #6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Treasury Analyst is a [grade #6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Treasury Analyst Responsibilities
 

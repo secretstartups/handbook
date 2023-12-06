@@ -14,7 +14,7 @@ department: >-
 
 ## Welcome to the Commercial Sales Handbook
 
-The Commercial Sales department is part of the overall [GitLab Sales](https://about.gitlab.com/handbook/sales/) Division. We focus on delivering maximum value to [SMB and Mid-Market](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/) customers throughout their entire journey with GitLab.
+The Commercial Sales department is part of the overall [GitLab Sales](/handbook/sales/) Division. We focus on delivering maximum value to [SMB and Mid-Market](/handbook/sales/field-operations/gtm-resources/) customers throughout their entire journey with GitLab.
 
 ## <i class="fas fa-users fa-fw icon-color font-awesome"></i>Commercial Team Groups
 
@@ -24,13 +24,13 @@ The Commercial Sales department is part of the overall [GitLab Sales](https://ab
 
 ## Getting Started as a New Hire
 
-Please ensure you read the [Commercial Sales onboarding page](https://about.gitlab.com/handbook/sales/commercial/enablement/).
+Please ensure you read the [Commercial Sales onboarding page](/handbook/sales/commercial/enablement/).
 
 ### Top Tips to Onboard Quicker
 
 1. Bookmark the relevant SalesForce dashboard for your region, this is essential to your success. Your Manager will give you the link when you first join.
-1. Get familiar with the [close date conventions](https://about.gitlab.com/handbook/sales/commercial/#close-date-conventions) used in Commercial Sales.
-1. Ensure you fully understand [the Required 7](https://about.gitlab.com/handbook/sales/commercial/#required-7). Your teammates and manager are more than happy to help you with this if you need it.
+1. Get familiar with the [close date conventions](/handbook/sales/commercial/#close-date-conventions) used in Commercial Sales.
+1. Ensure you fully understand [the Required 7](/handbook/sales/commercial/#required-7). Your teammates and manager are more than happy to help you with this if you need it.
 1. Read through reviews of GitLab to get an idea of what customers think about the product. Two good places to start are [Softwareadvice.com](https://www.softwareadvice.com/project-management/gitlab-profile/reviews/) and [Gartner Reviews](https://www.gartner.com/en/documents/4416199).
 1. Watching videos is core to your onboarding. You can watch YouTube & Chorus videos at 1.5x or 1.75x speed to get through them efficiently, you can still retain the information but in less time. Go to the Settings widget > Playback speed.
 1. When you first start, searching through Slack is a great way to find useful information as it's our primary method of asking questions and announcing things to the company. Some channels that are particularly good for information:
@@ -57,10 +57,10 @@ Below is a list of resources considered highly valuable for continuous learning 
 - [GitLab Blog](https://about.gitlab.com/blog/) Monthly articles on Releases, Engineering, Open Source, Culture and other popular topics of interest.
 - [GitLab Unfiltered YouTube](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) A YouTube channel private to GitLab employees with video recordings and playlists on company meetings, enablement sessions and other topics. Access GitLab's [Sales Enablement playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX).
 - [Chorus Recordings](/handbook/business-technology/tech-stack/#chorus) Our team's history of call and demo recordings is a valuable training resource for new and existing sales team members.
-- [Sales & SDR Enablement Sessions](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/) Weekly training sessions covering popular product, market and sales training topics chosen by the sales and marketing team members.
-- [Product Study Guide](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/) A study course for team members to understand the current full scope of capabilities offered in each tier of GitLab and reasons for tier upgrades.
-- [Sales Training](https://about.gitlab.com/handbook/sales/training/) page
-- [Commercial Sales Enablement](https://about.gitlab.com/handbook/sales/commercial/enablement/) page
+- [Sales & SDR Enablement Sessions](/handbook/sales/training/sales-enablement-sessions/) Weekly training sessions covering popular product, market and sales training topics chosen by the sales and marketing team members.
+- [Product Study Guide](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/) A study course for team members to understand the current full scope of capabilities offered in each tier of GitLab and reasons for tier upgrades.
+- [Sales Training](/handbook/sales/training/) page
+- [Commercial Sales Enablement](/handbook/sales/commercial/enablement/) page
 
 ### Events
 
@@ -94,7 +94,7 @@ Please follow the best practice process and use the [trip note template](https:/
 1. Commercial attendee will write up their notes in a google doc.
 1. Please save your notes as GitLab internal read only for Commercial Team review in the [Commercial Sales Drive Trip Notes Folder](https://drive.google.com/drive/folders/1e71aL5OP_QlaAHTmMNwAAqIUfc2aD6Dt).
 1. Once saved, please slack and share a link to your notes in the commercial_global_all channel to alert the team of your recent trip.
-1. Finally, please share your [Post Trip feedback](https://about.gitlab.com/handbook/marketing/events/#post-event) for the entire company and the Field Marketing team directly in the specific Event Issue on the ‘Post Event Recap & Feedback’ spreadsheet.
+1. Finally, please share your [Post Trip feedback](/handbook/marketing/events/#post-event) for the entire company and the Field Marketing team directly in the specific Event Issue on the ‘Post Event Recap & Feedback’ spreadsheet.
 
 ### Give Back Project
 
@@ -188,9 +188,9 @@ Backup AEs are not required to:
 
 ## Required 7
 
-New team members should familiarize themselves with [The Required 7](https://about.gitlab.com/handbook/sales/commercial/enablement/required7/). These are the 7 tactical skills required to be an excellent Commercial Sales Account Executive:
+New team members should familiarize themselves with [The Required 7](/handbook/sales/commercial/enablement/required7/). These are the 7 tactical skills required to be an excellent Commercial Sales Account Executive:
 
-1. [Ranking your accounts](https://about.gitlab.com/handbook/sales/commercial/#account-ranking) - [video here](https://youtu.be/M-5OhlYxmFI)
+1. [Ranking your accounts](/handbook/sales/commercial/#account-ranking) - [video here](https://youtu.be/M-5OhlYxmFI)
     - Rank all accounts and explain why; log your sources for future efficiency; this needs to be your (recent) ranking, not the previous owners, nor the ranking from the prior fiscal. If it’s unchanged, make the note that it is unchanged and why
 1. Building your (consider changing the deck) [custom deck](https://docs.google.com/presentation/d/1duy8kjEvNiRx8fnCvc6ZnxWwXTM_71phbG3k9rgmU4Q/edit?usp=sharing) for any opp amount over $5k SMB $10k MM **Amount** (n.b. amount, not Net ARR) that:
     - Calculates the ROI of using GitLab vs. next best option (this might be vs. do nothing)
@@ -201,15 +201,15 @@ New team members should familiarize themselves with [The Required 7](https://abo
 1. Capturing key information:
     - How did the customer/prospect hear about GitLab and what is their understanding of what we do?
     - Meaningful information on why we won/lost a deal
-1. Logging your [call notes](https://about.gitlab.com/handbook/sales/commercial/enablement/#sales-note-taking) [video on taking efficient notes during a meeting](https://youtu.be/CMMQ5R0pq8I) and top tips from a top performer [here](https://www.youtube.com/watch?v=CKRvxM2F5zc)
-1. [Updating your next steps](https://about.gitlab.com/handbook/sales/commercial/#opportunity-next-steps-best-practices) - [video here](https://youtu.be/74OKSNWoN8Q)
-1. [Command plans](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/), what needs to be filled in:
+1. Logging your [call notes](/handbook/sales/commercial/enablement/#sales-note-taking) [video on taking efficient notes during a meeting](https://youtu.be/CMMQ5R0pq8I) and top tips from a top performer [here](https://www.youtube.com/watch?v=CKRvxM2F5zc)
+1. [Updating your next steps](/handbook/sales/commercial/#opportunity-next-steps-best-practices) - [video here](https://youtu.be/74OKSNWoN8Q)
+1. [Command plans](/handbook/sales/command-of-the-message/command-plan/), what needs to be filled in:
     - $5k SMB, $10k MM **Amount** - All fields in opportunity overview (the whys) and close-plan over this Amount threshold
     - $10k SMB, $20k MM **Net ARR** - Full Command Plan over this Net ARR threshold
     - If you don’t yet know the answers or have the data, you will populate the Command Plan fields with your script and next steps to get that information
     - Exception to command plan: for channel managed opportunities we may not have access - put `Channel-Managed` in the opportunity title
     - ([training session here](https://youtu.be/zN_0J6syxmM) and [training deck here](https://bit.ly/2WNlzbZ))
-1. Keeping your opportunities [up to date at all times](https://about.gitlab.com/handbook/sales/commercial/#salesforce-pipeline-activity) [video](https://youtu.be/o5gm7_5321w)
+1. Keeping your opportunities [up to date at all times](/handbook/sales/commercial/#salesforce-pipeline-activity) [video](https://youtu.be/o5gm7_5321w)
 
 ### Account Ranking
 
@@ -266,7 +266,7 @@ A recording Chorus license is mandatory for all Commercial Account Executives. O
 
 ### Mandatory steps required to record calls
 
-Follow instructions for using [Chorus Scheduler](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/go-to-market/chorus/#chorus-scheduler)
+Follow instructions for using [Chorus Scheduler](/handbook/sales/field-operations/sales-operations/go-to-market/chorus/#chorus-scheduler)
 
 ## Deal Reviews
 
@@ -295,10 +295,10 @@ During a Project 35 call, The AE who is discussing their opportunity will answer
 
 ### Opportunity Consults and Lightweight Deal Reviews
 
-An [Opportunity Consult](https://about.gitlab.com/handbook/sales/command-of-the-message/opportunity-consults/) (OCF) is an in depth, two-way conversation between the AE and the ASM to review the opportunity [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#overview). The AE should expect to provide the ASM with more detailed information about the [Opportunity Overview](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#opportunity-overview) fields, the customer's pain points and desired outcomes, challenges or gaps in qualification aligned to the [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) opportunity qualification framework, articulate a [Close Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#close-plan-details) and identify the biggest opportunity risk(s) and action(s) to mitigate those risks.
+An [Opportunity Consult](/handbook/sales/command-of-the-message/opportunity-consults/) (OCF) is an in depth, two-way conversation between the AE and the ASM to review the opportunity [Command Plan](/handbook/sales/command-of-the-message/command-plan/#overview). The AE should expect to provide the ASM with more detailed information about the [Opportunity Overview](/handbook/sales/command-of-the-message/command-plan/#opportunity-overview) fields, the customer's pain points and desired outcomes, challenges or gaps in qualification aligned to the [MEDDPPICC](/handbook/sales/meddppicc/) opportunity qualification framework, articulate a [Close Plan](/handbook/sales/command-of-the-message/command-plan/#close-plan-details) and identify the biggest opportunity risk(s) and action(s) to mitigate those risks.
 
 
-A Lightweight Deal Review (LDR) is a shorter (5-10 minute) deal review that is designed to identify gaps in the [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#overview) and specific next steps. At the end of an LDR, an AE and ASM should have a plan in place to capture the information that is not in the Command Plan, and a specific plan of action on and before the next call.
+A Lightweight Deal Review (LDR) is a shorter (5-10 minute) deal review that is designed to identify gaps in the [Command Plan](/handbook/sales/command-of-the-message/command-plan/#overview) and specific next steps. At the end of an LDR, an AE and ASM should have a plan in place to capture the information that is not in the Command Plan, and a specific plan of action on and before the next call.
 
 
 ### Opportunity Next Steps Best Practices
@@ -389,7 +389,7 @@ At the first R/G meeting of the following period, the leadership team will submi
 
 ## SMB Account Executives
 
-SMB Account Executives "SMB AEs" act as Account Executives and the face of GitLab for [SMB](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/) prospects and customers. They are the primary point of contact for companies that employ between 1 to 99 employees.
+SMB Account Executives "SMB AEs" act as Account Executives and the face of GitLab for [SMB](/handbook/sales/field-operations/gtm-resources/) prospects and customers. They are the primary point of contact for companies that employ between 1 to 99 employees.
 
 ### SMB Roles
 
@@ -399,11 +399,11 @@ SMB Account Executives are designated into one of the following pod positions:
 1. Expand
 1. Named
 
-SMB Account Executives in First Order will assist prospects in their evaluation through the first buying process. Depending on the account, the other three roles will be the customer's primary point of contact for any renewal and expansion discussions.  Collectively the team is responsible for working new business in their [territory](https://about.gitlab.com/handbook/sales/territories/) as well as handling the customer journey for new and existing customers.
+SMB Account Executives in First Order will assist prospects in their evaluation through the first buying process. Depending on the account, the other three roles will be the customer's primary point of contact for any renewal and expansion discussions.  Collectively the team is responsible for working new business in their [territory](/handbook/sales/territories/) as well as handling the customer journey for new and existing customers.
 
 AMER SMB Pooled Account Executives are responsible for managing a subset of SMB customers who range from companies on day 1 of using GitLab, all the way to companies who’ve used GitLab since their day 1. The Pooled AEs work collectively in a “pooled” account ownership model meaning customers are aligned at the team level and all AEs are equipped to help. Pooled AEs work with customers to evaluate product and plan expansion, making recommendations to ensure a successful renewal with GitLab based on their needs.
 
-Please read below and through the [SMB handbook page for more information](https://about.gitlab.com/handbook/sales/commercial/smb/).
+Please read below and through the [SMB handbook page for more information](/handbook/sales/commercial/smb/).
 
 ### Critical Salesforce reports to follow and bookmark
 
@@ -413,19 +413,19 @@ Please read below and through the [SMB handbook page for more information](https
 
 #### New Business
 
-- Work Initial Qualification Meetings [IQM's](https://about.gitlab.com/handbook/sales/commercial/#inbound-queue-management) from Commercial SDR Team
-- Accept Sales Accepted Opportunities according to [SAO Criteria](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/)
+- Work Initial Qualification Meetings [IQM's](/handbook/sales/commercial/#inbound-queue-management) from Commercial SDR Team
+- Accept Sales Accepted Opportunities according to [SAO Criteria](/handbook/sales/field-operations/gtm-resources/)
 - Nurture and help prospects during their Trial evaluation after Accepting Opportunities
 - Push to Webdirect or help with the Sales Order Process
 
 #### Customer Journey
 
-- [Inbound Queue Management](https://about.gitlab.com/handbook/sales/commercial/#inbound-queue-management)
-- [Licensing/Subscription Management](https://about.gitlab.com/handbook/sales/commercial/#licensingsubscription-management)
-- [Troubleshooting Resource for Licensing/Subscription Management](https://about.gitlab.com/handbook/sales/commercial/#troubleshooting--how-to-resources-for-licensing--subscription-management)
-- [Quotes / Sales Order Processing](https://about.gitlab.com/handbook/sales/commercial/#quotes--sales-order-processing)
-- [Customer Health Check Process](https://about.gitlab.com/handbook/sales/commercial/enablement/#commercial-sales-account-health-check-process)
-- [Gainsight Data in SFDC Definitions](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/)
+- [Inbound Queue Management](/handbook/sales/commercial/#inbound-queue-management)
+- [Licensing/Subscription Management](/handbook/sales/commercial/#licensingsubscription-management)
+- [Troubleshooting Resource for Licensing/Subscription Management](/handbook/sales/commercial/#troubleshooting--how-to-resources-for-licensing--subscription-management)
+- [Quotes / Sales Order Processing](/handbook/sales/commercial/#quotes--sales-order-processing)
+- [Customer Health Check Process](/handbook/sales/commercial/enablement/#commercial-sales-account-health-check-process)
+- [Gainsight Data in SFDC Definitions](/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/)
 
 
 ### Inbound Queue Management
@@ -465,9 +465,9 @@ Support will take the lead on all incoming requests in the queue and only forwar
 - [Detailed Exit Stage Criteria Google Sheet](https://docs.google.com/spreadsheets/d/1tVtJvfSsmWL2L1vTcJZgARlzC9Qy3Ae7pPqGBH9_KOQ/edit#gid=1399111321)
 - [Exit Criteria at a Glance](https://gitlab.highspot.com/items/6245c14f198094aabf1cfe52?lfrm=srp.0)
 
-![comm-sales-stages-exit-criteria](https://about.gitlab.com/handbook/sales/commercial/comm-sales-opp-stages/comm-sales-stages-exit-criteria.png)
+![comm-sales-stages-exit-criteria](/handbook/sales/commercial/comm-sales-opp-stages/comm-sales-stages-exit-criteria.png)
 
-- Please read through the [Commercial Sales Opportunity Stages handbook page](https://about.gitlab.com/handbook/sales/commercial/comm-sales-opp-stages/) for more information.
+- Please read through the [Commercial Sales Opportunity Stages handbook page](/handbook/sales/commercial/comm-sales-opp-stages/) for more information.
 
 
 #### Web Direct Oppty Management in Salesforce
@@ -496,7 +496,7 @@ Detailed instructions on how to handle problems with licenses and subscriptions 
 
 ### Quotes | Sales Order Processing
 
-More information about [sales order processing](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) can be found in the Business Ops handbook section.
+More information about [sales order processing](/handbook/sales/field-operations/order-processing/) can be found in the Business Ops handbook section.
 
 ## Mid Market Account Executive
 
@@ -510,7 +510,7 @@ Mid-Market AEs work closely in tandem with the business development team and sal
 1. **MM Key Accounts Named AE** (MMKAN): These AEs work on current customers that have been deemed to be high spending (high CARR) or have the potential to be high spending (high LAM). To be successful the MMKAN AE must expand their accounts more than the standard expansion rate for their named list of accounts. The named list for each MMKAN AE will grow through the fiscal year as the MMKAFO AE wins new high potential customers.
 1. **MM Territory AE**: These AEs work geographic regions of accounts that have not been vetted to be MM Key Account First Order AE or MM Key Account named AE. The role sells to both prospects and current accounts.
 
-"MM Key Accounts" can be used to refer to MM Key Accounts First Order and MM Key Accounts Named collectively. MM Key Accounts are the sub-set of MM accounts with a higher [LAM](https://about.gitlab.com/handbook/sales/sales-term-glossary/#landed-addressable-market-lam) and potential LAM.
+"MM Key Accounts" can be used to refer to MM Key Accounts First Order and MM Key Accounts Named collectively. MM Key Accounts are the sub-set of MM accounts with a higher [LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam) and potential LAM.
 
 ### Core Responsibilities
 
@@ -521,8 +521,8 @@ Mid-Market AEs work closely in tandem with the business development team and sal
 
 #### New Business
 
-- Work Initial Qualification Meetings [IQM's](https://about.gitlab.com/handbook/sales/commercial/#inbound-queue-management) from SDR Team
-- Accept Sales Accepted Opportunities according to [SAO Criteria](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/)
+- Work Initial Qualification Meetings [IQM's](/handbook/sales/commercial/#inbound-queue-management) from SDR Team
+- Accept Sales Accepted Opportunities according to [SAO Criteria](/handbook/sales/field-operations/gtm-resources/)
 - Nurture and help prospects during their Trial evaluation after Accepting Opportunities
 - Push to Webdirect or help with the Sales Order Process
 
@@ -544,17 +544,17 @@ Mid-Market AEs work closely in tandem with the business development team and sal
 
 #### Customer Journey
 
-- [Inbound Queue Management](https://about.gitlab.com/handbook/sales/commercial/#inbound-queue-management)
-- [Licensing/Subscription Management](https://about.gitlab.com/handbook/sales/commercial/#licensingsubscription-management)
+- [Inbound Queue Management](/handbook/sales/commercial/#inbound-queue-management)
+- [Licensing/Subscription Management](/handbook/sales/commercial/#licensingsubscription-management)
 - [Troubleshooting Resource for Licensing/Subscription Management](/handbook/business-technology/enterprise-applications/)
-- [Quotes / Sales Order Processing](https://about.gitlab.com/handbook/sales/commercial/#quotes--sales-order-processing)
-- [Customer Health Check Process](https://about.gitlab.com/handbook/sales/commercial/enablement/#commercial-sales-account-health-check-process)
-- [Gainsight Data in SFDC Definitions](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/)
+- [Quotes / Sales Order Processing](/handbook/sales/commercial/#quotes--sales-order-processing)
+- [Customer Health Check Process](/handbook/sales/commercial/enablement/#commercial-sales-account-health-check-process)
+- [Gainsight Data in SFDC Definitions](/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/)
 
 
 ## Account Ownership Rules of Engagement for Commercial Sales updated 2022-09-22
 
-The Commercial Sales Team follows the [Account Ownership Rules of Engagement](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement)
+The Commercial Sales Team follows the [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement)
 This section provides step by step clarity on how to follow the **ROE**.
 
 ### Process to follow:
@@ -661,9 +661,9 @@ The GitLab partner network is ready to work with GitLab Account Executive's in o
 
 GitLab has a mature Partner network with good coverage of GitLab-trained Sales and Technical resources. There are a few ways in which AEs will work with a customer including a Partner.
 
-- [Approved Partner GitLab Deal Registrations](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview) As these are received in your territory, in most cases* you will be contacted by a GitLab channel team member to arrange a co-selling kickoff call to develop a simple Partner co-selling plan to share with the Partner. GitLab Channel Managers do not proactively manage all OPEN Partners. AEs can always request Channel Manager support for a Deal Registration by slacking channel-sales or available contacts.
+- [Approved Partner GitLab Deal Registrations](/handbook/resellers/#the-deal-registration-program-overview) As these are received in your territory, in most cases* you will be contacted by a GitLab channel team member to arrange a co-selling kickoff call to develop a simple Partner co-selling plan to share with the Partner. GitLab Channel Managers do not proactively manage all OPEN Partners. AEs can always request Channel Manager support for a Deal Registration by slacking channel-sales or available contacts.
 - If you find themselves thinking 1. “a Partner SA could execute on this customer-requested SA task”, or 2. AEs have customers that could benefit from a “Partner services attach engagement”, reach out on slack [#channel-sales](https://gitlab.slack.com/archives/CT9KKE5RR) with a Partner engagement request, if possible with a link to the related account or opportunity. A member of the channel team will promptly reach out to learn more about the request, and connect you with a Partner that is pre-qualified to promptly and properly execute on the task at hand, and keep you updated along the way.
-- AEs should lead planning and execution of the joint opportunity/customer pursuit with alignment and support of the partner and GitLab Channel Manager. The plan should be [tracked in SFDC with tasks and action items](https://about.gitlab.com/handbook/sales/channel/#partner-co-selling-best-practices-and-how-partners-can-help-with-r7-and-command-plans). Partners should always get an email confirmation of any tasks assigned to them (via AE or Channel Mgr).
+- AEs should lead planning and execution of the joint opportunity/customer pursuit with alignment and support of the partner and GitLab Channel Manager. The plan should be [tracked in SFDC with tasks and action items](/handbook/sales/channel/#partner-co-selling-best-practices-and-how-partners-can-help-with-r7-and-command-plans). Partners should always get an email confirmation of any tasks assigned to them (via AE or Channel Mgr).
 - Channel Managers will engage with AE’s in the following ways:
     - When a new deal registration arrives in the AE’s pipeline
     - To review 2-3 Partners for the AE to work with for AE-selected joint customer success motions:
@@ -676,7 +676,7 @@ GitLab has a mature Partner network with good coverage of GitLab-trained Sales a
 
 - If this is a first time for an AE, we recommend watching the available training delivered. This Levelup video starts with a basic understanding of the [Channel Partner landscape](https://youtu.be/OeykHQetd7U).
 - LevelUp video on [Maximizing Value of Partners in a Deal](https://www.youtube.com/watch?v=ndrNX8fIIqs&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=2) specifically for AE’s to learn more about co-selling success.
-- [Learn more about Partner co-selling best practices, how Partners can help build out key elements of an AE’s R7 & Command Plans](https://about.gitlab.com/handbook/sales/channel/#partner-co-selling-best-practices-and-how-partners-can-help-with-r7-and-command-plans) and much more in the [Channel Sales Handbook](https://about.gitlab.com/handbook/sales/channel/).
+- [Learn more about Partner co-selling best practices, how Partners can help build out key elements of an AE’s R7 & Command Plans](/handbook/sales/channel/#partner-co-selling-best-practices-and-how-partners-can-help-with-r7-and-command-plans) and much more in the [Channel Sales Handbook](/handbook/sales/channel/).
 - Slack [#channel-sales](https://gitlab.slack.com/archives/CT9KKE5RR) or reach out to your Channel Account Manager with any questions or requests for assistance. The channel is closely monitored by several members of the channel team who are here to help AE’s succeed in co-selling in any way we can.
 - List of [GitLab-trained OPEN and SELECT channel partners](https://help.salesforce.com/articleView?id=reports_schedule.htm&type=5)
 - Channel Partner Finder **[Here](https://partners.gitlab.com/English/directory/)
@@ -793,5 +793,5 @@ Any Commercial team member that is in good performance standing (not currently o
 
 ## Other Related Pages
 
-- [Commercial Sales - Customer Success](https://about.gitlab.com/handbook/customer-success/comm-sales/)
-- [Territories](https://about.gitlab.com/handbook/sales/territories/)
+- [Commercial Sales - Customer Success](/handbook/customer-success/comm-sales/)
+- [Territories](/handbook/sales/territories/)

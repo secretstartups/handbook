@@ -1,15 +1,7 @@
 ---
-
 title: "Product Design"
 description: "We support the business of GitLab by becoming experts in our stage group, educating ourselves about the entire product, and staying engaged with user and business goals"
 ---
-
-
-
-
-
-
-
 
 ## Product Design at GitLab
 
@@ -17,7 +9,7 @@ We support the business of GitLab by becoming experts in our stage group, educat
 
 ### Process and DRI
 
-#### Owner of design jugdment
+#### Owner of design judgment
 
 As Product Designers, we are the **owners of design judgment**.
 
@@ -74,6 +66,7 @@ You can find changes made by UX Paper Cuts by following along in the [GitLab Pol
 Product Designers follow the guidance outlined in the [Product Development flow](/handbook/product-development-flow/) while working on stage group work with our stable counterparts.
 
 For specific details
+
 - [Planning and managing capacity](/handbook/product/ux/product-designer/#planning-and-managing-capacity)
 - [Prioritization](/handbook/product/ux/product-designer/#priority-for-UX-issues)
 - [Working on Issues](/handbook/product/ux/product-designer/#working-on-issues)
@@ -84,6 +77,7 @@ For specific details
 - [Designing AI solutions](/handbook/product/ux/product-designer/#designing-ai-solutions)
 
 Product Designer Tools
+
 - [UX Scorecard](/handbook/product/ux/ux-scorecards/)
 - [Category Maturity Scorecard](/handbook/product/ux/category-maturity/category-maturity-scorecards/)
 - [UX Issue Triage](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#ux)
@@ -92,9 +86,11 @@ Product Designer Tools
 - [UX Cloud Sandbox](/handbook/product/ux/ux-research/ux-cloud-sandbox/)
 
 Product Design Management
+
 - [Product Design Manager Workflows](/handbook/product/ux/product-design/product-design-manager.html)
 
 Learning and Development
+
 - [UX Department Learning and Development](/handbook/product/ux/learning-and-development)
 
 Are you a new GitLab Product Designer? If so, welcome! Make sure you see the [Product Designer Workflow](/handbook/product/ux/product-designer/) handbook page that will help you get started.
@@ -135,13 +131,8 @@ Going forward, every milestone, we will ask Product Designers and Engineers to v
 | 16.7               |                   |                   |
 | 16.8               | Veethika M         |   Mireya Andres   |
 
-<details>
-<summary>
 
-Previous Volunteers
-
-</summary>
-
+{{% details summary="Previous Volunteers" %}}
 | Milestone         | Product Designer  | Engineer          |
 | ----------------- | ----------------- | ----------------- |
 | 16.2 (2023-06-18)                                                         | -                  | -               |
@@ -159,8 +150,7 @@ Previous Volunteers
 | [15.2 (2022-06-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/362122) | Emily Bauman       | Jannik Lehmann  |
 | [15.1 (2022-05-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/361641) | Sascha Eggenberger | Robert Hunt     |
 | [15.0 (2022-04-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/356703) | Annabel Gray       | Phil Hughes     |
-
-</details>
+{{% /details %}}
 
 #### How do I volunteer?
 

@@ -8,7 +8,7 @@ title: CSM Segments
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ---
 
@@ -22,7 +22,7 @@ Segment criteria are [defined in the Customer Success Manager wiki](https://gitl
 
 ## Segments
 
-[<button class="btn btn-primary" type="button">Digital Touch</button>](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
+[<button class="btn btn-primary" type="button">Digital Touch</button>](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
 [<button class="btn btn-primary" type="button">Scale</button>](scale/)
 [<button class="btn btn-primary" type="button">Commercial</button>](commercial/)
 [<button class="btn btn-primary" type="button">Enterprise</button>](enterprise/)

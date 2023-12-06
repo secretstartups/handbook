@@ -45,7 +45,7 @@ All GitLab data is categorized and must be handled in accordance with the [Data 
 
 [Freeware, browser extensions, add-ons and plugins]({{< ref "other-apps#browser-extensions" >}}) can pose a risk to GitLab as they may contain viruses, spyware or adware. The use of freeware could result in the loss of GitLab data and the inability to protect the data in accordance with GitLab security and privacy requirements. Not all freeware contains malware, but team members should carefully consider the terms of service and [types of data]({{< ref "data-classification-standard" >}}) that will be shared before installing anything on your computer.
 
-Security reserves the right to execute security reviews against this software and dissallow use if they do not meet GitLab's [technical and organizational security measures]({{< ref "technical-and-organizational-measures" >}}). Further, you must receive full GitLab Security and Privacy approval before transmitting any data that may be [unSAFE](https://about.gitlab.com/handbook/legal/safe-framework/#what-if-unsafe-information-is-shared) to a software provider.
+Security reserves the right to execute security reviews against this software and dissallow use if they do not meet GitLab's [technical and organizational security measures]({{< ref "technical-and-organizational-measures" >}}). Further, you must receive full GitLab Security and Privacy approval before transmitting any data that may be [unSAFE](/handbook/legal/safe-framework/#what-if-unsafe-information-is-shared) to a software provider.
 
 ### Unacceptable Use
 
@@ -78,7 +78,7 @@ Forwarding of confidential business emails or documents to personal external ema
 
 > Note: GitLab may retrieve messages from archives and servers without prior notice if GitLab has sufficient reason to do so. If deemed necessary, this investigation will be conducted with the knowledge and approval of the Security, People Business Partners, and Legal Departments.
 
-In addition to following the [Team Member Social Media Policy](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/), when utilizing social media think about the effects of statements that you make. Keep in mind that these transmissions are permanent and easily transferable, and can affect our company’s reputation and relationships with team members and customers. When using social media tools like blogs, Facebook, Twitter or wikis, ensure that you do not make comments on behalf of GitLab without proper authorization. Also, you must not disclose our company’s confidential or proprietary information about our business, our suppliers, or our customers.
+In addition to following the [Team Member Social Media Policy](/handbook/marketing/team-member-social-media-policy/), when utilizing social media think about the effects of statements that you make. Keep in mind that these transmissions are permanent and easily transferable, and can affect our company’s reputation and relationships with team members and customers. When using social media tools like blogs, Facebook, Twitter or wikis, ensure that you do not make comments on behalf of GitLab without proper authorization. Also, you must not disclose our company’s confidential or proprietary information about our business, our suppliers, or our customers.
 
 ### Return of GitLab-Owned Assets
 
@@ -98,7 +98,9 @@ All personal mobile computing devices used to access GitLab-managed data, includ
 
 For new employees who have not received a company laptop, there are [exception processes](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#exception-processes) for using non-company devices.
 
-The same exception processes apply in the case of a corporate laptop being unavailable or unusable due to loss, theft or disrepair. See [lost or stolen procedures]({{< ref "/handbook/security/#panic-email" >}}) for additional information. You must open [a Policy Exeption Request](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/exceptions/issues/new?issuable_template=exception_request). While the exception processes are considered a temporary solution, you still need to make sure the non-company system meets [basic configuration standards](/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration), and a Microsoft Windows system is still not allowed access under any circumstances.
+The same exception processes apply in the case of a corporate laptop being unavailable or unusable due to loss, theft or disrepair. See [lost or stolen procedures]({{< ref "/handbook/security#reporting-an-incident" >}}) for additional information. You must open [a Policy Exeption Request](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/exceptions/issues/new?issuable_template=exception_request). While the exception processes are considered a temporary solution, you still need to make sure the non-company system meets [basic configuration standards](/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration), and a Microsoft Windows system is still not allowed access under any circumstances.
+
+Do not sign in to any GitLab related accounts using public computers, such as library or hotel kiosks.
 
 ### Mobile Messaging
 
@@ -122,7 +124,7 @@ When creating an account with and using a file sharing service other that Google
 
 ### Lost or Stolen Procedures
 
-GitLab provides a `panic@gitlab.com` email address and a [lost or stolen procedure]({{< ref "/handbook/security/#panic-email" >}}) for team members to use in situations that require an immediate security response. Should a team member lose a device such as a thumb drive, Yubikey, mobile phone, tablet, laptop, etc. that contains their credentials or other GitLab-sensitive data, they should send an email to `panic@gitlab.com` right away. When the production and security teams receive an email sent to this address it will be handled immediately. Using this address provides an excellent way to limit the damage caused by a loss of one of these devices.
+GitLab provides a `panic@gitlab.com` email address and a [lost or stolen procedure]({{< ref "/handbook/security#reporting-an-incident" >}}) for team members to use in situations that require an immediate security response. Should a team member lose a device such as a thumb drive, Yubikey, mobile phone, tablet, laptop, etc. that contains their credentials or other GitLab-sensitive data, they should send an email to `panic@gitlab.com` right away. When the production and security teams receive an email sent to this address it will be handled immediately. Using this address provides an excellent way to limit the damage caused by a loss of one of these devices.
 
 GitLab reserves the right to request documentation of the theft and/or a related police report in the case of a stolen laptop.
 
@@ -143,7 +145,7 @@ Exceptions to this policy must be approved by Security, Legal and PeopleOps Depa
 - [Onboarding Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md)
 - [Data Classification Standard]({{< ref "data-classification-standard" >}})
 - [Asset return procedure]({{< ref "offboarding#returning-property-to-gitlab" >}})
-- [Lost or stolen asset procedure]({{< ref "/handbook/security/#panic-email" >}})
+- [Lost or stolen asset procedure]({{< ref "/handbook/security#reporting-an-incident" >}})
 
 ## References
 

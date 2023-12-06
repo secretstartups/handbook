@@ -108,18 +108,60 @@ This is the order we have identified to migrate content but it is subject to cha
 
 #### What is moving next?
 
-**What are we moving:** Product
+**What are we moving:** Engineering
 
-**Status** Expected to complete: {{% migration-finish-date section="product" %}}
+**Status** Expected to complete: {{% migration-finish-date section="engineering" %}}
 
 #### What content is moving
 
-The following content has been earmarked as the next content to move.  This will be done as a set of merge requests from {{% migration-start-date section="product" %}}.  The content will then be checked, markdown errors fixed and merged in to the new handbook.  The content on the about site will be removed and redirects setup {{% migration-finish-date section="product" %}}.
+The following content has been earmarked as the next content to move.  This will be done as a series of MR for each subsection of Engineering from {{% migration-start-date section="engineering" %}}.  The content will then be checked, markdown errors fixed and merged in to the new handbook.  The content on the about site will be removed and redirects setup {{% migration-finish-date section="engineering" %}}.
 
-- [ ] Acquisitions
-- [x] Business Technology
-- [x] Product
-- [x] Product Development
+- [ ] Developer Onboarding
+- [ ] Engineering
+    - [ ] architecture
+    - [ ] automation
+    - [ ] career-development
+    - [ ] communication
+    - [ ] compensation-roadmaps
+    - [ ] core-development
+    - [ ] cross-functional-prioritization
+    - [ ] cto-staff
+    - [ ] demos
+    - [ ] deployments-and-releases
+    - [ ] development
+    - [ ] engineering-allocation
+    - [ ] error-budgets
+    - [ ] expansion-development
+    - [ ] fast-boot
+    - [ ] fellow
+    - [ ] frontend
+    - [ ] gitlab-repositories
+    - [ ] hiring
+    - [ ] ic-leadership
+    - [ ] incident-management
+    - [ ] infrastructure
+    - [ ] infrastructure-quality
+    - [ ] internships
+    - [ ] management
+    - [ ] mentorship
+    - [ ] metrics
+    - [ ] monitoring
+    - [ ] okrs
+    - [ ] open-source
+    - [ ] performance
+    - [ ] performance-indicators
+    - [ ] plato
+    - [ ] projects
+    - [ ] quality
+    - [ ] readmes
+    - [ ] recognition
+    - [ ] releases
+    - [ ] root-cause-analysis
+    - [ ] secondments
+    - [ ] starting-new-teams
+    - [ ] tax-credits
+    - [ ] volunteer-coaches-for-urgs
+    - [ ] workflow
 
 #### How will this be done
 
@@ -298,11 +340,11 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Product
 
-**Expected Date:** {{% migration-start-date section="product" %}}
+**Completed:** {{% migration-start-date section="product" %}}
 
 **Content to move:**
 
-- [ ] Acquisitions
+- [x] Acquisitions
 - [x] Business Technology
 - [x] Product
 - [x] Product Development
@@ -311,37 +353,37 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Marketing
 
-**Expected Date:** {{% migration-start-date section="marketing" %}}
+**Completed:** {{% migration-start-date section="marketing" %}}
 
 **Content to move:**
 
-- [ ] Marketing
-- [ ] Use-Cases
+- [x] Marketing
+- [x] Use-Cases
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#marketing)
 
 #### Sales
 
-**Expected Date:** {{% migration-start-date section="sales" %}}
+**Completed:** {{% migration-start-date section="sales" %}}
 
 **Content to move:**
 
-- [ ] Alliances
-- [ ] Customer Success
-- [ ] Resellers
-- [ ] Sales
+- [x] Alliances
+- [x] Customer Success
+- [x] Resellers
+- [x] Sales
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#sales)
 
 #### Legal
 
-**Expected Date:** {{% migration-start-date section="legal" %}}
+**Completed:** {{% migration-start-date section="legal" %}}
 
 **Content to move:**
 
-- [ ] DMCA Policy
-- [ ] GDPR Policy
-- [ ] Legal
+- [x] DMCA Policy
+- [x] GDPR Policy
+- [x] Legal
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#legal)
 
@@ -353,6 +395,50 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 - [ ] Developer Onboarding
 - [ ] Engineering
+    - [ ] architecture
+    - [ ] automation
+    - [ ] career-development
+    - [ ] communication
+    - [ ] compensation-roadmaps
+    - [ ] core-development
+    - [ ] cross-functional-prioritization
+    - [ ] cto-staff
+    - [ ] demos
+    - [ ] deployments-and-releases
+    - [ ] development
+    - [ ] engineering-allocation
+    - [ ] error-budgets
+    - [ ] expansion-development
+    - [ ] fast-boot
+    - [ ] fellow
+    - [ ] frontend
+    - [ ] gitlab-repositories
+    - [ ] hiring
+    - [ ] ic-leadership
+    - [ ] incident-management
+    - [ ] infrastructure
+    - [ ] infrastructure-quality
+    - [ ] internships
+    - [ ] management
+    - [ ] mentorship
+    - [ ] metrics
+    - [ ] monitoring
+    - [ ] okrs
+    - [ ] open-source
+    - [ ] performance
+    - [ ] performance-indicators
+    - [ ] plato
+    - [ ] projects
+    - [ ] quality
+    - [ ] readmes
+    - [ ] recognition
+    - [ ] releases
+    - [ ] root-cause-analysis
+    - [ ] secondments
+    - [ ] starting-new-teams
+    - [ ] tax-credits
+    - [ ] volunteer-coaches-for-urgs
+    - [ ] workflow
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#engineering)
 

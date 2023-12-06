@@ -64,7 +64,7 @@ Open an issue in the
 If you believe a customer marked as `Expired` support and `Former Customer` is in fact a current paying customer,
 follow this process to verify and fix the issue.
 
-1. Open [Salesforce](/handbook/support/workflows/looking_up_customer_account_details.html#within-salesforce) and find the customer in question.
+1. Open [Salesforce](/handbook/support/workflows/looking_up_customer_account_details#within-salesforce) and find the customer in question.
 1. Click `Show feed` button at the upper part of the page.
 
   ![SFDC show feed](/images/support/sfdc_show_feed.png)

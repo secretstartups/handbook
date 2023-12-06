@@ -53,7 +53,7 @@ experience related to managing subscriptions. We achieve this by:
 
 ## Regional L&R Teams
 
-- AMER Team [Page](amer-region.html)
+- AMER Team [Page](/handbook/support/license-and-renewals/amer-region)
 - APAC Team Page
 - EMEA Team Page
 
@@ -89,7 +89,7 @@ representative to request an exemption as part of the sales purchase or renewal 
   - As noted on GitLab's [statement of support](https://about.gitlab.com/support/statement-of-support/#version-support),
   our Support team are (in almost all circumstances) unable to assist customers running below
   GitLab `14.x`, so this should provide further encouragement for customers to upgrade.
-- [Post-sales exemptions for Cloud Licensing](/handbook/support/license-and-renewals/workflows/self-managed/cloud-licensing.html#post-sale-exemptions-support)
+- [Post-sales exemptions for Cloud Licensing](/handbook/support/license-and-renewals/workflows/self-managed/cloud-licensing#post-sale-exemptions-support)
 are rare and require an internal request and Sales VP approval.
 - License files are still used for Self-Managed **Trials**.
 
@@ -119,7 +119,7 @@ that customers apply to their Self-Managed instance. Some benefits of a Cloud Li
 - Allows for the ability to use **Quarterly Subscription Reconciliation (QSR)** to reconcile
 Users over Subscription
 
-[**Quarterly Subscription Reconciliation (QSR)**](./workflows/quarterly_subscription_reconciliations.html)
+[**Quarterly Subscription Reconciliation (QSR)**](/handbook/support/license-and-renewals/workflows/quarterly_subscription_reconciliations)
 is a method to reconcile any additional usage over the subscription agreement, such as when there
 are **Users over Subscription**. When enabled, QSR is performed each quarter (every three months)
 and generates an invoice if seat usage has increased over the current maximum.
@@ -169,7 +169,7 @@ for further information.
   tickets from customers as well as from GitLab Team Members (Sales, CSMs,
   etc.). The tickets from team members are called "internal requests," and
   information about those is available on the
-  [working internal requests workflow page](/handbook/support/license-and-renewals/workflows/working_internal_requests.html).
+  [working internal requests workflow page](/handbook/support/license-and-renewals/workflows/working_internal_requests).
 - Creating and/or updating [marketing pages](#marketing-pages),
   [product documentation](#product-documentation) and the
   [GitLab Handbook](#handbook-pages) and [workflows](#workflows) around
@@ -202,7 +202,7 @@ CustomersDot, use this information:
 
 A Salesforce.com (SFDC) account makes collaboration with Sales team members more
 efficient, primarily because you'll be able to receive notifications when you're
-tagged in a Chatter message (see the [working with Sales workflow](/handbook/support/license-and-renewals/workflows/working_with_sales.html)).
+tagged in a Chatter message (see the [working with Sales workflow](/handbook/support/license-and-renewals/workflows/working_with_sales)).
 
 When creating an [individual/bulk access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request), use the following information:
 
@@ -257,7 +257,7 @@ When creating an [individual/bulk access request](https://gitlab.com/gitlab-com/
 
 ### Workflows
 
-- [License & renewals workflows](workflows/index.html)
+- [License & renewals workflows](/handbook/support/license-and-renewals/workflows/index.html)
 
 ### Useful tools
 
@@ -274,7 +274,7 @@ When creating an [individual/bulk access request](https://gitlab.com/gitlab-com/
 As you work through the queue and on issues, if you spot something in the
 [Fulfillment backlog](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=group%3A%3Afulfillment)
 that would makes things better for customers and Support, please label it with
-`Support Interest::Categorize`. See [Support's issue list for Fulfillment](./workflows/managing_product_issues.html#supports-issue-list-for-fulfillment) for more information.
+`Support Interest::Categorize`. See [Support's issue list for Fulfillment](/handbook/support/license-and-renewals/workflows/managing_product_issues#supports-issue-list-for-fulfillment) for more information.
 
 ##### Fulfillment stage
 
@@ -326,11 +326,11 @@ The queue should not be used for the following:
 - [Business Ops](/handbook/business-technology/)
   - [Business Systems: Enterprise Applications, Integrations, and Flow](/handbook/business-technology/enterprise-applications/integrations/)
   - [Troubleshooting: True Ups, Licenses + EULAs](/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/)
-- [Sales](https://about.gitlab.com/handbook/sales/)
-  - [Sales Segmentation](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/)
-  - [Sales Territories](https://about.gitlab.com/handbook/sales/territories/)
-- [Marketing](https://about.gitlab.com/handbook/marketing/)
-  - [Sales Enablement: GitLab.com subscriptions](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/dotcom-subscriptions/)
+- [Sales](/handbook/sales/)
+  - [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/)
+  - [Sales Territories](/handbook/sales/territories/)
+- [Marketing](/handbook/marketing/)
+  - [Sales Enablement: GitLab.com subscriptions](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/dotcom-subscriptions/)
 
 ### Issue trackers
 

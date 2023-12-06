@@ -88,7 +88,7 @@ To improve sales efficiency and reduce the dependence of GitLab sales team membe
 </figure>
 
 - **Learn more**:
-    - Review the [No Tissues with Issues](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/getting-started/101/) page
+    - Review the [No Tissues with Issues](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/getting-started/101/) page
     - Watch this [How to set up GitLab groups and projects to run multiple Agile teams with microservices](https://www.youtube.com/watch?v=VR2r1TJCDew) video (Jan 2019, 15 minutes)
 
 

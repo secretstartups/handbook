@@ -130,7 +130,7 @@ The Senior Manager, Professional Services reports into the Director, Professiona
 
 ## KPIs
 
-[KPIs](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#team-metrics)
+[KPIs](/handbook/customer-success/professional-services-engineering/#team-metrics)
 
 - Completion of initiatives to improve quality, reliability, efficiency, and repeatability of services
 - Financial success for the Professional Services organization (i.e., bookings, revenue, project and gross margin, revenue per employee and billable employee)

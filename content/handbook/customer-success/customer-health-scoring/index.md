@@ -41,10 +41,10 @@ Product usage statistics inform three different scores. They each have a distinc
 
 | Name | Purpose | Audience | Metrics | Notes |
 | ----- | ----- | ----- | ----- | ----- |
-| **Customer Health Score**        | To enable the team in understanding the relative health of customers, identify risks, manage renewal likelihood, and identify expansion opportunities and why | Internal GitLab Teams                   | Account Health is an aggregation of key metrics for a multi-perspective view of the customer. For detail, see [Account Health Predictor](https://about.gitlab.com/handbook/customer-success/customer-health-scoring/#account-health-predictor) above |                                                              |
+| **Customer Health Score**        | To enable the team in understanding the relative health of customers, identify risks, manage renewal likelihood, and identify expansion opportunities and why | Internal GitLab Teams                   | Account Health is an aggregation of key metrics for a multi-perspective view of the customer. For detail, see [Account Health Predictor](/handbook/customer-success/customer-health-scoring/#account-health-predictor) above |                                                              |
 | **Value Stream Management** | This customer-facing dashboard hosts [value stream analytics](https://docs.gitlab.com/ee/user/group/value_stream_analytics/index.html) metrics including DORA4 | GitLab customers | DORA 4 metricsm month-over-month usage metrics | |
-| **Platform Adoption Score**         | Each customer will have a single Platform Adoption Score used to understand the level of use cases being utilized and value the customer is currently receiving from Gitlab application | Internal GitLab Teams                   | 3–7 product usage metrics per Use Case, using Red/Yellow/Green scoring. The metrics will roll up into a score for each Use Case, and the Use Case scores will roll up to the Platform Adoption Score | [Platform Adoption Scoring](https://about.gitlab.com/handbook/customer-success/product-usage-data/platform-value-score/) |
-| **Use Case Adoption Scorecards** | Each customer will have a scorecard per use case (SCM, CI, CD...) to highlight their adoption progress to celebrate wins and identify areas for improvement | Internal GitLab Teams **and** customers | 3–7 product usage metrics per Use Case, using Red/Yellow/Green scoring. These are then used to create a deck highlighting the level per use case adoption | [Use Case Adoption Scoring](https://about.gitlab.com/handbook/customer-success/product-usage-data/maturity-scoring/) |
+| **Platform Adoption Score**         | Each customer will have a single Platform Adoption Score used to understand the level of use cases being utilized and value the customer is currently receiving from Gitlab application | Internal GitLab Teams                   | 3–7 product usage metrics per Use Case, using Red/Yellow/Green scoring. The metrics will roll up into a score for each Use Case, and the Use Case scores will roll up to the Platform Adoption Score | [Platform Adoption Scoring](/handbook/customer-success/product-usage-data/platform-value-score/) |
+| **Use Case Adoption Scorecards** | Each customer will have a scorecard per use case (SCM, CI, CD...) to highlight their adoption progress to celebrate wins and identify areas for improvement | Internal GitLab Teams **and** customers | 3–7 product usage metrics per Use Case, using Red/Yellow/Green scoring. These are then used to create a deck highlighting the level per use case adoption | [Use Case Adoption Scoring](/handbook/customer-success/product-usage-data/maturity-scoring/) |
 | **DevOps Score**                 | For the customer to understand their DevOps status compared to top-performing instances (self-managed only) | GitLab customers                        | 10 metrics across Use Cases, displayed as a % of users who have utilized a feature in the past month, compared to how top-performing instances utilized that feature (self-managed only - [GitLab features](https://about.gitlab.com/features/)) | [Handbook Link](https://about.gitlab.com/blog/2021/12/15/devops-adoption/#devops-score) |
 | **DevOps Adoption**              | DevOps Adoption shows you how groups in your organization adopt and use the most essential features of GitLab. | GitLab customers                        | Specific metrics across Dev, Sec, and Ops to show a customer's overall adoption. requires configuration (group and project level for SaaS, whereas instance for self-managed - [GitLab features](https://about.gitlab.com/features/)) | [Docs Link](https://docs.gitlab.com/ee/user/group/devops_adoption/) |
 | **DevOps reports** | This is being combined with DevOps Adoption and will be eventually replaced by Customer Executive Dashboards | GitLab Customers | Dev, Sec, and Ops feature utilization ([docs](https://docs.gitlab.com/ee/administration/analytics/dev_ops_reports.html)) | |
@@ -89,7 +89,7 @@ Customer has enhancements or defect fixes that are necessary for a customer and 
 
 ### Customer engagement
 
-Customer contact(s) are not responsive, miss meetings and/or unwilling to engage in cadence calls or other engagements like [EBRs](https://about.gitlab.com/handbook/customer-success/csm/ebr/). This could indirectly mean the customer does not see value in the solution or the solution has been deprioritized.
+Customer contact(s) are not responsive, miss meetings and/or unwilling to engage in cadence calls or other engagements like [EBRs](/handbook/customer-success/csm/ebr/). This could indirectly mean the customer does not see value in the solution or the solution has been deprioritized.
 
 ### Executive sponsor or champion
 
@@ -109,9 +109,9 @@ The customer's business performance is materially impacted and declining. The co
 
 ## Health assessment guidelines
 
-See [Customer Health Assessment and Management](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#tracking-customer-health) for details on how and when a CSM tracks a customer's health, including when an account should be set to Yellow, Red, or Will Churn.
+See [Customer Health Assessment and Management](/handbook/customer-success/csm/health-score-triage/#tracking-customer-health) for details on how and when a CSM tracks a customer's health, including when an account should be set to Yellow, Red, or Will Churn.
 
-The items below serve as *guidelines* for the CSM to assess and record customer health and should consider where the customer is their lifecycle journey. Account health feeds into [open renewal opportunities](https://about.gitlab.com/handbook/customer-success/csm/renewals/#tracking-renewal-opportunity-health-and-risks).
+The items below serve as *guidelines* for the CSM to assess and record customer health and should consider where the customer is their lifecycle journey. Account health feeds into [open renewal opportunities](/handbook/customer-success/csm/renewals/#tracking-renewal-opportunity-health-and-risks).
 
 Understanding how Gainsight calculates a measure score to be Red, Yellow, or Green:
 
@@ -150,14 +150,14 @@ Health score criteria is either manually or automatically applied to determine t
 
 | Group (PROVE) | Measure | Description | Method | Calculation | Measure Weight | Group Weighting | Segmentation |
 |---|---|---|---|---|---|---|---|
-| **Product** |  | Scores the customer based on their depth and breadth of adoption, if Operational Metrics are available | Automatic | [See Customer Use Case Adoption](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/) |  | 50% |  |
+| **Product** |  | Scores the customer based on their depth and breadth of adoption, if Operational Metrics are available | Automatic | [See Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/) |  | 50% |  |
 |  | License utilization |  |  |  | 30% |  | All |
 |  | User Engagement |  |  |  | 10% |  | All |
 |  | SCM adoption |  |  |  | 15% |  | All |
 |  | CI adoption |  |  |  | 15% |  | All |
 |  | DevSecOps adoption |  |  |  | 15% |  | All |
 |  | CD adoption |  |  |  | 15% |  | All |
-| **Risk** | [CSM sentiment](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#gainsight) | Qualitative measure the CSM updates to indicate their perceived sentiment of the customer | Manual/Automatic | For all `CSM-owned` accounts, CSM manually determines red/yellow/green | 100% | 25% | N/A for Tech Touch |
+| **Risk** | [CSM sentiment](/handbook/customer-success/csm/health-score-triage/#gainsight) | Qualitative measure the CSM updates to indicate their perceived sentiment of the customer | Manual/Automatic | For all `CSM-owned` accounts, CSM manually determines red/yellow/green | 100% | 25% | N/A for Tech Touch |
 | **Outcomes** | ROI | Does the customer have a Success Plan that has objectives and notes? | Automatic | For All `CSM Prioritization = 1` accounts AND all CSM-owned accounts that have an open Success Plan:<br>- Green: Active Success Plan with 1 or more objectives and no Strategy/Highlight information<br>- Yellow: Draft Success Plan OR Active Success Plan with 1 or more objectives and no Strategy/Highlight information<br>- Red: No Success Plan or no objectives | 100% | 10% | N/A for Scale and Tech Touch |
 | **Voice of the customer** |  |  |  |  |  | 5% |  |
 |  | Support issues | Assess the health of our support interactions. Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | - Green: 1-5 tickets/month<br>- Yellow: 5-15 tickets/month<br>- Red: More than 15 tickets/month | 100% |  | All |
@@ -175,9 +175,9 @@ CSMs update CSM Sentiment in determining overall account health. The guidelines 
 - **CSM Sentiment**: Qualitative measure that the CSM updates to indicate their perceived sentiment of the customer. This should consider all the factors mentioned above and measured by the health assessment (green, yellow, red) criteria
 - **CSM Sentiment Override of Overall Health Score**: When the CSM Sentiment score becomes red, the overall score will automatically become red. Once the CSM Sentiment moves back to a green or yellow score, the standard weighting of measures and groups will be reapplied as usual.
 
-The CSM Sentiment score will be updated each time you [log a Timeline activity](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/) and select a value from the CSM Sentiment dropdown. Once you have logged the activity to Timeline, Gainsight will update the value of the CSM Sentiment scorecard measure and display the notes from the Timeline activity on the scorecard. The rule that sets the scorecard value runs every 2 hours.
+The CSM Sentiment score will be updated each time you [log a Timeline activity](/handbook/customer-success/csm/gainsight/timeline/) and select a value from the CSM Sentiment dropdown. Once you have logged the activity to Timeline, Gainsight will update the value of the CSM Sentiment scorecard measure and display the notes from the Timeline activity on the scorecard. The rule that sets the scorecard value runs every 2 hours.
 
-There are a number of [enablement videos](https://about.gitlab.com/handbook/customer-success/csm/gainsight/#videos) you can watch to learn how to update customer health assessment and log activities that affect that assessment.
+There are a number of [enablement videos](/handbook/customer-success/csm/gainsight/#videos) you can watch to learn how to update customer health assessment and log activities that affect that assessment.
 
 ### Clearing stale health measures
 
@@ -192,7 +192,7 @@ Support measures are considered stale if they have not been updated in more than
 
 ## Multiple production instances health scoring
 
-When an account has multiple GitLab instances identified as Production (Instructions on how to [Update Self-Managed Instance Type](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#updating-self-managed-instance-type)), the Product Usage health measures the most recently updated instance instead of the primary instance, causing scoring inconsistencies. Note: this is less than 5% of the time because the vast majority of accounts have a single production instance.
+When an account has multiple GitLab instances identified as Production (Instructions on how to [Update Self-Managed Instance Type](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#updating-self-managed-instance-type)), the Product Usage health measures the most recently updated instance instead of the primary instance, causing scoring inconsistencies. Note: this is less than 5% of the time because the vast majority of accounts have a single production instance.
 
 ### Solution
 
@@ -372,7 +372,7 @@ Indicators from Seat Reduction or Downtier above plus:
 - [MVC Early Warning System epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/25)
 - [Customer Analytics Roadmap (internal-only document)](https://docs.google.com/presentation/d/1_v4hxKdbL6--UjpjVdveGEGD_MjmUnBg0-OIU1R14m8/edit#slide=id.gb3e6c0a32e_0_5) (slide deck)
 - [Customer Success Services](https://about.gitlab.com/services/customer-success-services/) (client facing)
-- [Operational Data Vision](https://about.gitlab.com/handbook/customer-success/product-usage-data/)
+- [Operational Data Vision](/handbook/customer-success/product-usage-data/)
 - [Cloud Licensing Documentation](https://internal.gitlab.com/handbook/product/fulfillment/cloudlicensing/cloud-licensing/) (internal handbook)
 - [Strict Cloud Licensing](https://internal.gitlab.com/handbook/product/fulfillment/cloudlicensing/strictcloudlicensing/) (internal handbook)
 - [Service Ping Metrics list](https://metrics.gitlab.com/) (subscription, operational, and optional)

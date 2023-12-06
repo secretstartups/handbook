@@ -1,13 +1,6 @@
 ---
-
 title: "First click testing for navigation"
 ---
-
-
-
-
-
-
 
 ## What is first click testing?
 
@@ -59,10 +52,10 @@ You have a navigation design that’s in the very early stages (it may just be a
 - Randomize the order of tasks if you have more than one (unless tasks are dependent on each other and only make sense in a certain order). You can set randomization up easily within Qualtrics.
 - A Navigation First Click Testing template is located in Qualtrics, within the [UX Research & Product library (internal link)](https://gitlab.eu.qualtrics.com/Q/SurveysSection?ContextLibraryID=GR_6ziMa2ooJx4Y6SF&LibraryID=GR_6ziMa2ooJx4Y6SF). For more details on how this template was set up or how to use Qualtrics for a first click study, please refer to the Creating design evaluations in Qualtrics handbook page.
 
-
 ## How to report results
 
 To report brief/initial findings in Slack or in an Issue, please use the following format and utilize this template to create a chart:
+
 - % of participants (A out of BB) correctly clicked the first item (note which item/items would be counted as correct).
 - For the correct selections, the average confidence level was X/Z
 - Note any themes about their correct choice “6 participants mentioned that they would expect to find X in choice B because…”
@@ -74,6 +67,3 @@ To report brief/initial findings in Slack or in an Issue, please use the followi
 - Can note any other interesting finding or verbatim.
 
 If there's any context that you can provide in your interpretation of the results, that will be helpful. For example, if participants selected Merge Requests in the left sidebar, you can add that the common incorrect first click in this area may be due to the task calling out a merge request.
-
-
-

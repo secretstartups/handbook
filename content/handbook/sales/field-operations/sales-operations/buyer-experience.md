@@ -26,7 +26,7 @@ The [Buyer Experience Group Internal Handbook](https://internal.gitlab.com/handb
 
 ### Resources
 
-[Resources](https://about.gitlab.com/handbook/marketing/digital-experience/buyer-experience-repository/)
+[Resources](/handbook/marketing/digital-experience/buyer-experience-repository/)
 
 ### Core Team Members
 
@@ -57,12 +57,12 @@ The [Buyer Experience Group Internal Handbook](https://internal.gitlab.com/handb
 
 | Resource  | Areas Covered |
 | --------  | ------------- |
-| [Deal Desk Handbook](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/) | Standard Quote Configuration (new subscription, amend subscription, add-on quote creation, upgrade or product switch during subscription term, renewal, channel deals, true-ups, co-terms, Starter/Bronze End of Availability, SuperSonics, Professional Services), Non-Standard Quotes (Contract Resets, Concurrent Subscriptions, Multi-year Deals, Ramp deals), Alliance Marketplace Private Offers, and more.  |
-| [Sales Order Processing](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) | Account and opportunity creation, quote configuration, approvals process, opportunity booking requirements, closing an opportunity. |
+| [Deal Desk Handbook](/handbook/sales/field-operations/sales-operations/deal-desk/) | Standard Quote Configuration (new subscription, amend subscription, add-on quote creation, upgrade or product switch during subscription term, renewal, channel deals, true-ups, co-terms, Starter/Bronze End of Availability, SuperSonics, Professional Services), Non-Standard Quotes (Contract Resets, Concurrent Subscriptions, Multi-year Deals, Ramp deals), Alliance Marketplace Private Offers, and more.  |
+| [Sales Order Processing](/handbook/sales/field-operations/order-processing/) | Account and opportunity creation, quote configuration, approvals process, opportunity booking requirements, closing an opportunity. |
 | [Internal Support](/handbook/support/internal-support/) | Submitting all requests around licensing, subscription, trials, and grace periods. |
 | [Licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/) | Common questions around purchasing, licensing, billing, contacting sales, and more |
 | [Finance and Legal Authorization Matrix](/handbook/finance/authorization-matrix/) | |
-| [Trade Compliance](https://about.gitlab.com/handbook/legal/trade-compliance/) | |
+| [Trade Compliance](/handbook/legal/trade-compliance/) | |
 | [Billing, invoice and payment requests](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html) | Zuora contact change, Zuora entity change and effects on SM/SaaS subscriptions, cancellations, downgrades, refunds, invoices, payments, credit card removals, renewal reversals, split payment requests |
 | [CustomersDot Access and Use](/handbook/product/fulfillment-guide/#customersdot-admin-panel) | Logging in, information available in CustomersDot, seat reconciliations for a customer, usage data for a customer |
 | [Troubleshooting: True Ups, licenses + EULAs](/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/) | |

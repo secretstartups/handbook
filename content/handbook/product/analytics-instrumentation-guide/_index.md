@@ -103,7 +103,7 @@ The Metrics Dictionary was [introduced](https://gitlab.com/gitlab-org/gitlab/-/i
 1. **Export**. You can now download the entire metrics dictionary as a .csv file.
 1. **Metric Version**. Starting with miletone 13.9, we've begun to attribute the version associated with the metric. Unfortunately we couldn't populate the historical values for existing metrics so all prior metrics are labeled as `<13.9`.
 1. **Metric Product Section/Stage/Group**. You can display and/or filter by Section, Stage and Group as needed.
-1. **Service Usage Data Category**. View and/or filter by [Service Usage Data](https://about.gitlab.com/handbook/legal/privacy/customer-product-usage-information/) category (Optional, Operational, Subscription).
+1. **Service Usage Data Category**. View and/or filter by [Service Usage Data](/handbook/legal/privacy/customer-product-usage-information/) category (Optional, Operational, Subscription).
 
 
 ## Instrumenting Metrics and Events
@@ -132,7 +132,7 @@ Note: We now enable you to deduplicate aggregated metrics implemented via Redis 
 | Deduplicated Aggregated | Metric contains a rolled-up value where each unit is counted once. | UMAU is a deduplicated aggregated metric but TPV is not. |
 
 ## Finding Reporting Dependencies on Metrics
-Although PMs commonly use Service Ping metrics to measure feature health and product usage, that is not the only use for Service Ping metrics. For instance, the Product Data Insights team relies on Service Ping metrics for xMAU reporting. Additionally, the Customer Success Operations team relies on Service Ping metrics to generate [health scores](https://about.gitlab.com/handbook/customer-success/customer-health-scoring/) for customers.
+Although PMs commonly use Service Ping metrics to measure feature health and product usage, that is not the only use for Service Ping metrics. For instance, the Product Data Insights team relies on Service Ping metrics for xMAU reporting. Additionally, the Customer Success Operations team relies on Service Ping metrics to generate [health scores](/handbook/customer-success/customer-health-scoring/) for customers.
 
 For a [variety of reasons](https://www.youtube.com/watch?v=qgnWYIynDF4), we [recommend not changing](https://docs.gitlab.com/ee/development/internal_analytics/metrics/metrics_lifecycle.html#change-an-existing-metric) the calculation of metrics that are used for reporting once implemented. If you do need to change a metric that is being used, please coordinate with the customer success team before doing so so that they can update their models and health scores accordingly. To identify metrics that are relied upon for reporting, follow these directions.
 
@@ -145,7 +145,7 @@ For a [variety of reasons](https://www.youtube.com/watch?v=qgnWYIynDF4), we [rec
 
 ### Customer Health Scoring
 1. Go to [this CSV](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/health_score_metrics.csv), which is the SSOT for metrics that are used for health scoring.
-2. If the metric of interest is in this CSV, then is it being used for customer health scoring. Please reach out to [Customer Success Operations](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/) to understand how changing metric calculations would impact downstream dependencies.
+2. If the metric of interest is in this CSV, then is it being used for customer health scoring. Please reach out to [Customer Success Operations](/handbook/sales/field-operations/customer-success-operations/) to understand how changing metric calculations would impact downstream dependencies.
 
 ## Quick Links
 

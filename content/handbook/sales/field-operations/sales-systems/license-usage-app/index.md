@@ -13,8 +13,8 @@ description: "This page outlines the License Utilization Salesforce App. It incl
 ## How to Use License Utilization Salesforce App
 
 1. Navigate to any customer account in Salesforce.
-1. Click on the License Utilization button at the top of the layout. ![License Utilization Button On Account Layout](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/license-usage-app/buttonss_v2.png)
-1. Review the current usage of Billable vs Entitled users on all Subscriptions related to the Account. ![License Utilization Button On Account Layout](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/license-usage-app/appss.png)
+1. Click on the License Utilization button at the top of the layout. ![License Utilization Button On Account Layout](/handbook/sales/field-operations/sales-systems/license-usage-app/buttonss_v2.png)
+1. Review the current usage of Billable vs Entitled users on all Subscriptions related to the Account. ![License Utilization Button On Account Layout](/handbook/sales/field-operations/sales-systems/license-usage-app/appss.png)
 1. To get a summary of License Utilization across all your accounts click "See License Utilization on all my Accounts"
 1. To give feedback or ideas for the License Utilization app click "Give Feedback / Report Bug" and comment on the issue.
 

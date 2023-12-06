@@ -28,7 +28,7 @@ about the organization, you can add them by following the
 [editing organizations]({{< ref "/handbook/support/readiness/operations/docs/zendesk/organizations#editing-organization-fields-in-zendesk" >}})
 procedure.
 
-You may also consider updating the [Customer Collaboration Projects](https://about.gitlab.com/handbook/customer-success/csm/customer-collaboration-project/)
+You may also consider updating the [Customer Collaboration Projects](/handbook/customer-success/csm/customer-collaboration-project/)
 [within GitLab.com](#within-gitlabcom) describe below.
 
 #### Browse previous tickets
@@ -46,10 +46,10 @@ for your search!
 In both cases, you can click on `Requested` or `Updated` to sort by most recent
 so that you'll be sure to have fresher information.
 
-#### Architecture diagram and [Customer Collaboration Project](https://about.gitlab.com/handbook/customer-success/csm/customer-collaboration-project/)
+#### Architecture diagram and [Customer Collaboration Project](/handbook/customer-success/csm/customer-collaboration-project/)
 
 The Architecture Diagrams app automatically checks for the presence of the
-relevant diagram if the customer has a [Customer Collaboration Project](https://about.gitlab.com/handbook/customer-success/csm/customer-collaboration-project/) URL entered in
+relevant diagram if the customer has a [Customer Collaboration Project](/handbook/customer-success/csm/customer-collaboration-project/) URL entered in
 Salesforce.
 
 To access the app:
@@ -67,7 +67,7 @@ To access the app:
 One other place to check for customer technical details is the
 [Account Management group](https://gitlab.com/gitlab-com/account-management) on
 GitLab.com. Just search by customer name and in the parent group and you should
-find the [Customer Collaboration Project](https://about.gitlab.com/handbook/customer-success/csm/customer-collaboration-project/). Most, but not all, premium and ultimate customers
+find the [Customer Collaboration Project](/handbook/customer-success/csm/customer-collaboration-project/). Most, but not all, premium and ultimate customers
 should have one present.
 
 Please note that these projects are most likely shared with the end customers as

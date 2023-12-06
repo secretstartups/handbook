@@ -137,13 +137,15 @@ When any changes are required besides those listed below, raise an issue in the 
 
 ### Filing issues
 
-In cases where Customer Support needs to interact with GitLab Dedicated engineers to gather information or similarly debug a problem at tenant's request (when Grafana or OpenSearch does not suffice), raise an issue in the [GitLab Dedicated issue tracker](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues) using a [Support Request template](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new?issuable_template=support_request).
+In cases where Customer Support needs to interact with GitLab Dedicated engineers to gather information or similarly debug a problem at tenant's request (when Grafana or OpenSearch does not suffice), raise an issue in the [GitLab Dedicated issue tracker](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues) using [the `Request for Help` template](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new?issuable_template=request_for_help).
 
 ### Escalating an Emergency issue
 
-Emergencies from GitLab Dedicated will come through the [Customer Emergencies On-call Rotation](/handbook/support/workflows/customer_emergencies_workflows.html) as with other emergency types.
+The same [definitions and exceptions](/handbook/support/workflows/customer_emergencies_workflows#determine-if-the-situation-qualifies-as-an-emergency) apply.
+If involving the Dedicated team becomes necessary:
 
-The GitLab Dedicated Infrastructure team has a 24/7 PagerDuty rotation: [GitLab Dedicated Platform Escalation](https://gitlab.pagerduty.com/schedules#PE57MNA). To [manually create a PD Incident](/handbook/support/workflows/support_manager-on-call.html#manually-triggering-a-pagerduty-notification_) use the [Dedicated Platform Service](https://gitlab.pagerduty.com/service-directory/P1H70IW) or use the Slack command `/pd trigger` and choose "Dedicated Platform Service" as the Impacted Service to escalate an emergency to an SRE after initial triage and analysis.
+1. Note initial findings in [a `new-incident` issue](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/incident-management/-/issues/new?issuable_template=new-incident).
+1. Follow the [Dedicated on-call runbook](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/blob/main/runbooks/on-call.md#escalating-to-an-on-call-person).
 
 ### Troubleshooting tips
 

@@ -71,7 +71,7 @@ Older videos can be watched on [CS Skills Exchange Youtube playlist](https://www
 </details>
 
 
-**Note: To watch private videos on GitLab Unfiltered, watch [this 2-minute video](https://www.youtube.com/watch?v=dZtCuOf5aGk) and take a look at the handbok page on [watching private videos.](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube)**
+**Note: To watch private videos on GitLab Unfiltered, watch [this 2-minute video](https://www.youtube.com/watch?v=dZtCuOf5aGk) and take a look at the handbok page on [watching private videos.](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube)**
 
 
 ### Get an invite to the weekly session
@@ -105,7 +105,7 @@ There are a few places to see previous CS Skills Exchange Sessions:
 
 #### Recording
 
-For more information about Recording and Public/ Private YouTube videos, check out the [Sales Enablement Sessions](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/#recording) page.
+For more information about Recording and Public/ Private YouTube videos, check out the [Sales Enablement Sessions](/handbook/sales/training/sales-enablement-sessions/#recording) page.
 
 
 ### Speaker Responsibilities
@@ -151,5 +151,5 @@ Sample Announcement:
 
 > If you missed yesterday's CS Skills Exchange session  with <Presenter> discussing < Summary of session>, the recording is now live on YouTube!
 
-> You can find links to all previously recorded sessions on the [handbook page](https://about.gitlab.com/handbook/sales/training/customer-success-skills-exchange/#customer-success-skills-exchange-sessions) and see the team Q&A in the session [notes document](https://docs.google.com/document/d/1kchnm55N8zx8tBBsxilWadGqBndhvb5d4eG9LsSS6DA/edit?usp=sharing).
+> You can find links to all previously recorded sessions on the [handbook page](/handbook/sales/training/customer-success-skills-exchange/#customer-success-skills-exchange-sessions) and see the team Q&A in the session [notes document](https://docs.google.com/document/d/1kchnm55N8zx8tBBsxilWadGqBndhvb5d4eG9LsSS6DA/edit?usp=sharing).
 

@@ -7,7 +7,7 @@ summary: Through leadership, experience, and insight, you will position GitLab a
 
 Corporate Communications managers at GitLab have a unique opportunity to contribute to our [mission](/handbook/company/mission/#mission). Through your leadership, experience, and insight, you will position GitLab as a trustworthy partner to customers with a strong track record of addressing business challenges, increase overall brand awareness, provide air cover for business as a whole, and come up with thought leadership opportunities. This position will work across teams and the globe to develop and execute integrated communications campaigns in line with GitLab initiatives. You will be expected to prioritize and manage your work with minimal guidance from leadership or other corporate communications team members.
 
-We work in a unique way at GitLab, where flexibility and independence meet a high paced, pragmatic way of working. And everything we do is in the open. We recommend looking at our [corporate communications handbook](https://about.gitlab.com/handbook/marketing/corporate-communications/) to get started.
+We work in a unique way at GitLab, where flexibility and independence meet a high paced, pragmatic way of working. And everything we do is in the open. We recommend looking at our [corporate communications handbook](/handbook/marketing/corporate-communications/) to get started.
 
 #### Job Grade
 

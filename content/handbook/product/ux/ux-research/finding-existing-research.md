@@ -1,17 +1,7 @@
 ---
-
 title: "How to find existing research"
 description: "Ways to find existing research insights."
 ---
-
-
-
-
-
-
-
-
-
 
 Before starting new UX research, a good practice is to first look to see if your research questions can be answered through research that was already conducted.  This step doesn't take long and can sometimes result in saving a signficant amount of time if you're able to find the answers to your questions.
 

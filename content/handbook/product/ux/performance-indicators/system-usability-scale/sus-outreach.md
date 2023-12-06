@@ -1,6 +1,4 @@
-
 ---
-aliases: /handbook/content/handbook/product/ux/performance-indicators/system-usability-scale/sus-outreach.html
 title: "System Usability Scale responder outreach"
 description: "The System Usability Scale (SUS) is a performance indicator we use to measure the long term usability of our product. This page outlines the process for reaching out to survey respondents who have opted-in to having a follow-up discussion with our UX team."
 ---
@@ -62,6 +60,3 @@ Every quarter, we include a question in the SUS survey that asks whether respond
 1. Collect all notes that were taken and the upload the Zoom recording (if applicable) to our [SUS Follow-up Project in Dovetail](https://gitlab.dovetailapp.com/projects/36nmGVKvkaT7SGMXtUeHVg/v/70xPTo5RzTRZnCNEVz1fWH).
 1. If you told the user you'd follow up on anything or promised to send them further information, make sure you do so, ideally within two business days.
 1. Add the label 'SUS::Impacting' to any epics/issues that result from or align with feedback from the SUS outreach calls.
-
-
-

@@ -46,7 +46,7 @@ great results by using it.
 - Identify cross-functional touchpoints and consolidate upstream processes like
   [production readiness](https://about.gitlab.com/handbook/engineering/infrastructure/production/readiness/),
   [AppSec reviews](/handbook/security/security-engineering/application-security/runbooks/review-process),
-  and [creation of release posts](https://about.gitlab.com/handbook/marketing/blog/release-posts/).
+  and [creation of release posts](/handbook/marketing/blog/release-posts/).
 - Develop strategy for incorporating this process and the Engineering roadmap into Product planning
   and prioritization via the [Cross-functional Prioritization][next-prioritization] framework.
 

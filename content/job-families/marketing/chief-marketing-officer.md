@@ -33,7 +33,7 @@ The Marketing department consists of the following teams:
   - Inbound
   - Outbound
 
-See the [marketing handbook](https://about.gitlab.com/handbook/marketing/) for details.
+See the [marketing handbook](/handbook/marketing/) for details.
 
 ## Responsibilities
 

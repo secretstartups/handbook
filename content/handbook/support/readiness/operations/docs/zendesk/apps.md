@@ -116,7 +116,7 @@ App information:
 
 ### Mechanizer
 
-This app incorporates [Mechanizer](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html)
+This app incorporates [Mechanizer](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer)
 into Zendesk.
 
 App information:
@@ -273,7 +273,7 @@ You can also do the configuration manually by following these steps.
 To request a translation automatically, simply reply as you normally would as
 an internal note with the #unbabel hashtag included at the top of your content.
 As per our
-[working with tickets](/handbook/support/workflows/working-on-tickets.html#what-is-the-working-on-tickets-workflow)
+[working with tickets](/handbook/support/workflows/working-on-tickets#what-is-the-working-on-tickets-workflow)
 workflow, please remember to assign yourself to the ticket if the ticket
 doesn't currently have an assignee when you respond.
 
@@ -372,8 +372,6 @@ The current plugins are:
   > This searches for tickets under the organization that have been escalated within the last 6 months.
 - **Related tickets**
   > This looks for tickets related to the current one based off the category (or subcategory) the ticket is currently using. It then displays up to 5 of them (sorted by the update_at value of the ticket, descending).
-- **Support Uploader**
-  > A simple app to create FTP credentials for a ticket.
 - **Attachments**
   > Displays attachments present on the ticket.
 

@@ -1,5 +1,7 @@
 ---
 title: "Security Shadow: Security Operations"
+description: " "
+weight: 40
 ---
 
 Completion of each course you will receive a certificate.  At the completion of all 3 courses your name will be recognized on this page.

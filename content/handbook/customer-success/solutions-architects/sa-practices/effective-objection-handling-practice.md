@@ -3,11 +3,8 @@
 title: Effective Objection Handling Practice
 ---
 
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 
 # Effective Objection Handling Practice
-
 
 Effective Objection handling skill is critical to becoming a trusted advisor in our respective sales/customer success roles. Objection handling means responding to the customer in a way that changes their mind or alleviate their concerns. Objections typically fall into these [categories](http://changingminds.org/disciplines/sales/objection/objection_types.htm).
 
@@ -120,9 +117,9 @@ Please note it's suggested to have these meetings weekly, biweekly so handling o
 
 ## More resources
 
-- <span class="colour" style="color:rgb(0, 0, 0)">SA handbook </span>[<span class="colour" style="color:rgb(0, 0, 255)"><u>resource</u></span>](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/effective-objection-handling-practice/)<span class="colour" style="color:rgb(0, 0, 0)"> for objection handling & “how to” facilitate additional exercises</span>
+- <span class="colour" style="color:rgb(0, 0, 0)">SA handbook </span>[<span class="colour" style="color:rgb(0, 0, 255)"><u>resource</u></span>](/handbook/customer-success/solutions-architects/sa-practices/effective-objection-handling-practice/)<span class="colour" style="color:rgb(0, 0, 0)"> for objection handling & “how to” facilitate additional exercises</span>
 - <span class="colour" style="color:rgb(0, 0, 0)">LinkedIn Learning </span>[<span class="colour" style="color:rgb(0, 0, 255)"><u>course</u></span>](https://www.linkedin.com/learning/sales-handling-objections/the-buyer-and-seller-relationship?u=2255073)
-- <span class="colour" style="color:rgb(0, 0, 0)">Potential Objections to </span>[<span class="colour" style="color:rgb(0, 0, 255)"><u>Ultimate sales plays</u></span>](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#potential-objections)
+- <span class="colour" style="color:rgb(0, 0, 0)">Potential Objections to </span>[<span class="colour" style="color:rgb(0, 0, 255)"><u>Ultimate sales plays</u></span>](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#potential-objections)
 - <span class="colour" style="color:rgb(0, 0, 0)">Additional Objection handling </span>[<span class="colour" style="color:rgb(0, 0, 255)"><u>techniques</u></span>](https://docs.google.com/presentation/d/1mLnmgQ5hqTzcwk3Vjh0BEIdx9SYgORV-2g7zPKmFKFc/edit#slide=id.g9e2080204d_0_0)<span class="colour" style="color:rgb(0, 0, 255)"> </span><span class="colour" style="color:rgb(0, 0, 0)">for secure & protect customer (SKO 2021) </span>
 - <span class="colour" style="color:rgb(0, 0, 0)">7 Steps to Handling Objections: </span>[<span class="colour" style="color:rgb(95, 95, 95)"><u>https://www.youtube.com/watch?v=DBpLFAS2s3w</u></span>](https://www.youtube.com/watch?v=DBpLFAS2s3w)
 - <span class="colour" style="color:rgb(0, 0, 0)">Changing Minds </span>[<span class="colour" style="color:rgb(0, 0, 255)"><u>Objection Handling Techniques</u></span>](http://changingminds.org/disciplines/sales/objection/objection_handling.htm)

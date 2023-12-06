@@ -34,4 +34,4 @@ Our Chief Legal Officer, Head of Corporate Affairs, and Corporate Secretary is a
 
 ## Performance Indicators
 
-- [Number of Opportunities closed by Contract Manager(s) per Quarter](https://about.gitlab.com/handbook/legal/#number-of-opportunities-closed-by-contract-managers-per-quarter--66)
+- [Number of Opportunities closed by Contract Manager(s) per Quarter](/handbook/legal/#number-of-opportunities-closed-by-contract-managers-per-quarter--66)

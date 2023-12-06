@@ -44,6 +44,13 @@ participated in the SGG Trials: Andrew, Ryan, Daniel and Ben.
     - [Kapok](groups/kapok)
     - [Maple](groups/maple)
     - [Pine](groups/pine)
+  - each manager is aligned with one or more groups
+
+To see who is in each group, and which managers are aligned with each group,
+go to the [Global Groups page](https://gitlab-com.gitlab.io/support/team/sgg)
+of the [Support Team Home page](https://gitlab-com.gitlab.io/support/team/).
+To make changes to that information, submit an MR for the
+[support-team.yaml file](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/support-team.yaml).
 
 #### Zendesk
 
@@ -117,7 +124,7 @@ group. <<<<<<<<**
 - Recognizing and seeking additional help from managers and other groups when capacity is at risk due to OOO, on-call, or increased work loads. Suggestions include:
   - Strategizing as a group ahead of time (if you see capacity is at risk)
   - Asking for manager help in the #spt_gg_forest Slack channel
-  - Initiating a [branch out session](/handbook/support/support-global-groups/branch-out-sessions.html) to ask other groups for help
+  - Initiating a [branch out session](/handbook/support/support-global-groups/branch-out-sessions) to ask other groups for help
 - All group members participating in onboarding new group members
   to ensure that newcomers feel comfortable asking questions.
   The group can decide how they want to approach it.
@@ -148,8 +155,8 @@ deciding which of them to do first.
 1. Handle:
    - Emergencies if you are the Support Engineer On-Call, or if the Engineer On-Call needs help
    - Incidents if you are the CMOC
-   - [Account escalations](https://about.gitlab.com/handbook/customer-success/csm/escalations/) if you are a DRI or contributing member on an active escalation.
-1. Handle [STARred tickets](/handbook/support/internal-support/support-ticket-attention-requests.html) that are assigned to you or your group.
+   - [Account escalations](/handbook/customer-success/csm/escalations/) if you are a DRI or contributing member on an active escalation.
+1. Handle [STARred tickets](/handbook/support/internal-support/support-ticket-attention-requests) that are assigned to you or your group.
    - Assigned tickets that are STARred will ping the assignee and on-call manager.
    - If your ticket is STARred during your business hours, plan to engage in the STAR thread created in the #support_ticket-attention-requests Slack channel to help address any questions or concerns.
    - If your ticket is STARred outside of your business hours, you are not expected to engage, but do plan to follow up when you're back online. The on-call manager will address any immediate needs.
@@ -160,7 +167,7 @@ deciding which of them to do first.
 1. Make sure there are no unassigned tickets in your group by:
    1. Taking assignment if you have capacity
    1. Asking others in the group to do so if you don't
-   1. [Bring the ticket to managers](/handbook/support/workflows/how-to-get-help.html#bring-the-ticket-to-managers) if the group is at capacity
+   1. [Bring the ticket to managers](/handbook/support/workflows/how-to-get-help#bring-the-ticket-to-managers) if the group is at capacity
 1. Help on tickets assigned to others in your group by:
    1. posting an internal note with relevant helpful information, OR
    1. answering questions from the assignee in your group Slack channel, OR
@@ -204,7 +211,7 @@ and of the broad experience and expertise of our full global team.
 Flexipods is one example of cross-group collaboration, some others are:
 
 - pairing sessions
-- crush sessions (including [branch out sessions](/handbook/support/support-global-groups/branch-out-sessions.html))
+- crush sessions (including [branch out sessions](/handbook/support/support-global-groups/branch-out-sessions))
 - sharing questions to a broader audience in #support_gitlab-com and
   #support_self-managed and #support_team-chat
 
@@ -224,8 +231,8 @@ For a timeline table of the history of SGG and the many issues involved, please 
 ## FAQ
 
 For answers to the most common questions about SGG, please review the
-[SGG FAQ](/handbook/support/support-global-groups/sgg-faq.html) page.
+[SGG FAQ](/handbook/support/support-global-groups/sgg-faq) page.
 
 ## Training Plan for launch May 2022
 
-Please see the [Training Plan page](/handbook/support/support-global-groups/training-plan.html)
+Please see the [Training Plan page](/handbook/support/support-global-groups/training-plan)

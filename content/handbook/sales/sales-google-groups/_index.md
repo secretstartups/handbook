@@ -48,7 +48,7 @@ The parent google group of the sales team is sales-all. Several child groups fal
 
 See the below chart for a visualization of the Google Group hierarchy
 
-![Sales Google Groups](https://about.gitlab.com/handbook/sales/images/newsalesgg_v5.jpg)
+![Sales Google Groups](/handbook/sales/images/newsalesgg_v5.jpg)
 
 To confirm if you are in a particular Google Group, see the [Google Workspace Group Membership Reports.](/handbook/business-technology/team-member-enablement/#automated-group-membership-reports-for-managers) To gain access to new Google Groups, please [fill out an access request (AR) form.](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/)
 
@@ -56,7 +56,7 @@ To confirm if you are in a particular Google Group, see the [Google Workspace Gr
 
 The primary Slack channels for the field are:
 
-- #field-fyi: Official field announcements channel. Restricted permission levels to help streamline important updates. (Find more information [here](https://about.gitlab.com/handbook/sales/sales-google-groups/field-fyi-channel).)
+- #field-fyi: Official field announcements channel. Restricted permission levels to help streamline important updates. (Find more information [here](/handbook/sales/sales-google-groups/field-fyi-channel).)
 - #sales: The general channel for WW Sales open to posts from all team members.
 - #sales-support: The general channel to ask for sales support from Field Operations.
 - #customer-success: The general channel to interact with & within Customer Success.
@@ -128,7 +128,7 @@ The recommendation is to use public channels even while it may sometimes feel un
 | #customer-success | public | Used to interact with & within Customer Success |
 | #cs-questions | public | Questions from customers and prospects to the Customer Success team about using GitLab and best practices |
 | #demo-systems | public | Open discussion and questions about demo systems that aren’t appropriate for issues |
-| #professional-services |  public | Used to [communicate with the Professional Services team](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/working-with/#slack) |
+| #professional-services |  public | Used to [communicate with the Professional Services team](/handbook/customer-success/professional-services-engineering/working-with/#slack) |
 
 **Field Operations**
 
@@ -136,7 +136,7 @@ The recommendation is to use public channels even while it may sometimes feel un
 | ------ | ------ | ------ |
 | #sales-support | public | Support for general sales-related questions, requests, and updates |
 | #field-enablement-team | public | Used for communication between GitLab sales and CS team members and the field enablement team |
-| #field-cert-program | public | Stay up-to-date on GitLab's [Field Certification Program](https://about.gitlab.com/handbook/sales/training/field-certification/) |
+| #field-cert-program | public | Stay up-to-date on GitLab's [Field Certification Program](/handbook/sales/training/field-certification/) |
 
 **Channels and Alliances**
 

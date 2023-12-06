@@ -178,4 +178,4 @@ If you create a feature proposal on behalf of a customer, please follow the same
 
 ## General Product Feedback
 
-In the case where general product feedback is received and it is not clear whether it is related to or belongs in an issue, feel free to convey the feedback to the product team as outlined in our [Product Feedback section](/handbook/support/workflows/feedbacks_and_complaints.html#product-feedback).
+In the case where general product feedback is received and it is not clear whether it is related to or belongs in an issue, feel free to convey the feedback to the product team as outlined in our [Product Feedback section](/handbook/support/workflows/feedbacks_and_complaints#product-feedback).

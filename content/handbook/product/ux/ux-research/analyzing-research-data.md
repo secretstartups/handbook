@@ -1,15 +1,7 @@
 ---
-
 title: "Analyzing and synthesizing user research data"
 description: "Guidelines for how to analzye survey verbatim"
 ---
-
-
-
-
-
-
-
 
 It can be tempting to complete a set of interviews or usability tests and think your research project is done. However, without a process for systematically reviewing and making sense of the data you've collected, you risk leaving valuable insights on the table. The next step is to zoom out and look at your findings through a process called **research synthesis**.
 

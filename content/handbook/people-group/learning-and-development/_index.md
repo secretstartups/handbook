@@ -228,7 +228,7 @@ Add learning objectives to the beginning of the content to state a clear trainin
 
 ### Instructional Design 101
 
-The Learning & Development, [Field Enablement](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/), and [Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/) teams hosted an Instructional Design 101 session on 2020-10-28 to better understand concepts of adult learning theory and instructional design. Check out the video to learn how to apply instructional design to learning content.
+The Learning & Development, [Field Enablement](/handbook/sales/field-operations/field-enablement/), and [Professional Services](/handbook/customer-success/professional-services-engineering/) teams hosted an Instructional Design 101 session on 2020-10-28 to better understand concepts of adult learning theory and instructional design. Check out the video to learn how to apply instructional design to learning content.
 
 {{< youtube "Be8oRHp0E84" >}}
 

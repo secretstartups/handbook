@@ -37,7 +37,7 @@ In the future, we plan on adding support for the following use cases:
 | - | - | - |
 | [Service Ping](https://docs.gitlab.com/ee/development/service_ping/index.html) | Gainsight Product Usage, [xMAU](/handbook/business-technology/data-team/data-catalog/xmau-analysis/), [Estimated MAU](/handbook/business-technology/data-team/data-catalog/xmau-analysis/estimation-xmau-algorithm.html) | [JSON payload](https://docs.gitlab.com/ee/development/usage_ping/index.html#example-usage-ping-payload) sent from Self-Managed instances → [version.gitlab.com](https://gitlab.com/gitlab-services/version-gitlab-com/-/tree/master#versiongitlabcom-application) → [Version Postgres Database](https://gitlab.com/gitlab-services/version-gitlab-com/-/blob/master/db/schema.rb) ← [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) → `snowflake.raw.version_db` |
 | [Seat Link](https://docs.gitlab.com/ee/subscriptions/self_managed/#seat-link) | Gainsight Product Usage | [Customers Portal](https://docs.gitlab.com/ee/subscriptions/customers_portal.html) -> [Customers Postgres Database](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/db/schema.rb) ← [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) → `snowflake.raw.tap_postgres.customers_db_license_seat_links` |
-| [Version Check](https://about.gitlab.com/handbook/sales/process/version-check/) | None | [version](https://gitlab.com/gitlab-services/version-gitlab-com/-/tree/master#versiongitlabcom-application) → [Version Postgres Database](https://gitlab.com/gitlab-services/version-gitlab-com/-/blob/master/db/schema.rb) ← [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) → `snowflake.raw.version_db.version_checks` |
+| [Version Check](/handbook/sales/process/version-check/) | None | [version](https://gitlab.com/gitlab-services/version-gitlab-com/-/tree/master#versiongitlabcom-application) → [Version Postgres Database](https://gitlab.com/gitlab-services/version-gitlab-com/-/blob/master/db/schema.rb) ← [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) → `snowflake.raw.version_db.version_checks` |
 | [GitLab.com](https://gitlab.com/gitlab-org/gitlab/-/tree/master) |  [Product Adoption Dashboard](https://app.periscopedata.com/app/gitlab/771580/Product-Adoption-Dashboard), Gainsight Product Usage (coming soon) | gitlab.com -> replicas/clones ← [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) → `snowflake.raw.tap_postgres` |
 | [Snowplow](/handbook/business-technology/data-team/platform/snowplow/) | [Snowplow Summary](https://app.periscopedata.com/app/gitlab/417669/Snowplow-Summary-Dashboard), [Product Adoption Dashboard](https://app.periscopedata.com/app/gitlab/771580/Product-Adoption-Dashboard) | [Snowpipe](/handbook/business-technology/data-team/platform/snowplow/#snowpipe) |
 
@@ -45,7 +45,7 @@ In the future, we plan on adding support for the following use cases:
 
 The data solution delivers three [Self-Service Data](/handbook/business-technology/data-team/direction/self-service/) capabilities:
 
-1. **Gainsight Users**:  Self-Managed product usage data is now available within Gainsight, enabling Gainsight users to  create specific workflows, visualize trends, build customer health scorecards, and review use case adoption strategies. The [Using Product Usage Data in Gainsight](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/) a full guide.
+1. **Gainsight Users**:  Self-Managed product usage data is now available within Gainsight, enabling Gainsight users to  create specific workflows, visualize trends, build customer health scorecards, and review use case adoption strategies. The [Using Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/) a full guide.
 1. **Dashboard Developer**: A new Sisense data model containing the complete dimensional model components to build new dashboards and link existing dashboards to Customer Product Adoption Data.
 1. **SQL Developer**: A [Enterprise Dimensional Model](https://lucid.app/lucidchart/12ee91c1-7ae5-4e99-96ae-bc51652dfa19/view?page=B47EyN20O.G6#) subject area. Refer to the `R2A Objects` tab.
 
@@ -105,13 +105,13 @@ Much of the data within and supporting the Product Usage Data is [Orange](/handb
 
 ### Key Terms
 
-1. [Customer](https://about.gitlab.com/handbook/sales/sales-term-glossary/)
+1. [Customer](/handbook/sales/sales-term-glossary/)
 1. [Service Ping](https://docs.gitlab.com/ee/development/service_ping/index.html)
 1. [GitLab Self-Managed Subscription](https://docs.gitlab.com/ee/subscriptions/self_managed)
 1. [GitLab SaaS subscription](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#gitlab-saas-subscription)
 1. [Seat Link](https://docs.gitlab.com/ee/subscriptions/self_managed/#seat-link)
-1. [Product Category, Product Tier, Delivery](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#overview)
-1. [Version Check](https://about.gitlab.com/handbook/sales/process/version-check/)
+1. [Product Category, Product Tier, Delivery](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#overview)
+1. [Version Check](/handbook/sales/process/version-check/)
 1. Billable Members: [API](https://docs.gitlab.com/ee/api/members.html#list-all-billable-members-of-a-group), [Definition](https://docs.gitlab.com/ee/subscriptions/self_managed/#billable-users), EDM Field Name: `billable_user_count`
 1. Active Users: [Customer Docs](https://docs.gitlab.com/ee/administration/index.html#users-statistics), [Metric Dictionary](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html#active_user_count), EDM Field Name: `active_user_count`
 
@@ -121,7 +121,7 @@ Partnering with cross-functional teams, the Data Team is defining metrics indica
 
 #### North Star Metrics
 
-A North Star Metric is a *single value* that gives a high-level summary of product adoption. Each [Use Case](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/#capabilities--use-cases) has one North Star Metric. A North Star Metric must meet three criteria:
+A North Star Metric is a *single value* that gives a high-level summary of product adoption. Each [Use Case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/#capabilities--use-cases) has one North Star Metric. A North Star Metric must meet three criteria:
 1. The metric must directly connect to the value that customers realize from a Use Case. Ideally, it measures a customer's *breadth* and/or *depth* of Use Case adoption.
 1. The metric must be available for a high proportion of customers and ARR.
 1. The metric must be easy to understand and explain. All else being equal, we prefer a simple metric to an aggregate or composite metric.
@@ -134,8 +134,8 @@ A Leading Indicator is a measure that impacts Use Case adoption, but is not comp
 
 1. [Gainsight Metric Definitions](https://docs.google.com/spreadsheets/d/1EhSXqx6YXcpqHg2TpS0ZN5Rk_d2hhrTPrW5FTbmuZjw/edit#gid=0)
 1. [Stage and Group Performance Indicators](/handbook/product/performance-indicators/)
-1. [ARR](https://about.gitlab.com/handbook/sales/sales-term-glossary/)
-1. [Use Case Health Scoring](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/#use-case-health-scoring)
+1. [ARR](/handbook/sales/sales-term-glossary/)
+1. [Use Case Health Scoring](/handbook/customer-success/product-usage-data/use-case-adoption/#use-case-health-scoring)
 
 
 ### Metric Formats

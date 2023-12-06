@@ -1,8 +1,12 @@
 github.com/FortAwesome/Font-Awesome v0.0.0-20230327165841-0698449d50f2/go.mod h1:IUgezN/MFpCDIlFezw3L8j83oeiIuYoj28Miwr/KUYo=
 github.com/google/docsy v0.7.1 h1:DUriA7Nr3lJjNi9Ulev1SfiG1sUYmvyDeU4nTp7uDxY=
 github.com/google/docsy v0.7.1/go.mod h1:JCmE+c+izhE0Rvzv3y+AzHhz1KdwlA9Oj5YBMklJcfc=
+github.com/google/docsy v0.7.2 h1:KzhFgTd3taF1jq9HDemH3omlUqn9qfdE68sxRyTySpM=
+github.com/google/docsy v0.7.2/go.mod h1:ol3w2s1FBUzENdKSAEeNjtuaISUzHYHTw60xv5QH3Dg=
 github.com/google/docsy/dependencies v0.7.1 h1:NbzYKJYMin2q50xdWSUzR2c9gCp7zR/XHDBcxklEcTQ=
 github.com/google/docsy/dependencies v0.7.1/go.mod h1:gihhs5gmgeO+wuoay4FwOzob+jYJVyQbNaQOh788lD4=
+github.com/google/docsy/dependencies v0.7.2 h1:+t5ufoADQAj4XneFphz4A+UU0ICAxmNaRHVWtMYXPSI=
+github.com/google/docsy/dependencies v0.7.2/go.mod h1:gihhs5gmgeO+wuoay4FwOzob+jYJVyQbNaQOh788lD4=
 github.com/hairyhenderson/go-codeowners v0.3.1-0.20230710165731-859d0d06aff1 h1:8Ut0G51F9MIb22qw7COD1ahiJEnnlx03nRzGb9S/zZs=
 github.com/hairyhenderson/go-codeowners v0.3.1-0.20230710165731-859d0d06aff1/go.mod h1:iJgZeCt+W/GzXo5uchFCqvVHZY2T4TAIpvuVlKVkLxc=
 github.com/twbs/bootstrap v5.2.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
@@ -28,3 +32,5 @@ gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.3.2 h1:h3TgX+1IDTknfBMBdECiB
 gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.3.2/go.mod h1:XSbeHClNun1w/mhjfsLDl0OMSEUtib6dC4Jq3ot8UKQ=
 gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.3.3 h1:7DkIdOmBw421buX9jCCJancqWPhQ8DSoyh9lsDKfN1c=
 gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.3.3/go.mod h1:XSbeHClNun1w/mhjfsLDl0OMSEUtib6dC4Jq3ot8UKQ=
+gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.3.4 h1:HGq4Az1crVzxFARTnGYYEOfbYa+y64u0AuSdD7NQHWE=
+gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.3.4/go.mod h1:XSbeHClNun1w/mhjfsLDl0OMSEUtib6dC4Jq3ot8UKQ=

@@ -50,13 +50,13 @@ The Director, Field Marketing is a [grade 10](/handbook/total-rewards/compensati
 
 ### Specialty
 
-## Director, Field Marketing - Japan
+## Director of Marketing, Japan
 
-The Director, Field Marketing - Japan reports to the VP, Integrated Marketing.
+The Director of Marketing, Japan reports to the VP, Integrated Marketing.
 
 ### Summary
 
-The Director, Field Marketing - Japan leads the strategy and execution of marketing programs performed at a local level, impacting both the direct and indirect sales motions. The Director, Field Marketing - Japan works closely with regional sales leadership to generate and progress demand through events, programs and local insights.
+The Director of Marketing, Japan leads the strategy and execution of marketing programs performed at a local level, impacting both the direct and indirect sales motions. The Director of Marketing, Japan works closely with regional sales leadership to generate and progress demand through events, programs and local insights.
 
 ### Responsibilities
 

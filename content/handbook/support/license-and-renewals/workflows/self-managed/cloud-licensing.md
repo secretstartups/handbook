@@ -85,7 +85,7 @@ If the customer's subscription or trial/temp license has expired, and they requi
 1. Locate the new generated license:
     - The license should be one of the first licenses at the top.
     - If it is not, search for the license using the `Sold To Email` from step 2.
-1. [Resend the license](/handbook/support/license-and-renewals/workflows/self-managed/sending_license_to_different_email.html)
+1. [Resend the license](/handbook/support/license-and-renewals/workflows/self-managed/sending_license_to_different_email)
 because the automatically generated license does not trigger license email notification.
 1. Reply to the IR ticket with a link to the license and mark the ticket as `Solved`.
 

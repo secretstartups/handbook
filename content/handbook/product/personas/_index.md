@@ -21,7 +21,7 @@ Personas are a generalized way of talking about the ideal target we are aiming t
 
 ### Buyer personas
 
-We are iterating on updates to buyer personas on this [Buyer Persona](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) page.
+We are iterating on updates to buyer personas on this [Buyer Persona](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) page.
 
 
 ### User personas
@@ -388,7 +388,7 @@ I have responsibility for providing, maintaining and operating the shared infras
 
 ##### Job Summary
 
-Dakota is a key IT leader who manages and leads several teams of developers supporting a specific set of business applications. See the [buyer persona](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/#dakota---the-application-development-director) and [Engineering Director Persona](https://docs.google.com/presentation/d/13mr-6CLhQJicjcYjcxme89PtBR97rWZ4GVZMpJSIYHw/edit#slide=id.g29a70c6c35_0_68) research for more details.
+Dakota is a key IT leader who manages and leads several teams of developers supporting a specific set of business applications. See the [buyer persona](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/#dakota---the-application-development-director) and [Engineering Director Persona](https://docs.google.com/presentation/d/13mr-6CLhQJicjcYjcxme89PtBR97rWZ4GVZMpJSIYHw/edit#slide=id.g29a70c6c35_0_68) research for more details.
 
 ##### Motivations
 

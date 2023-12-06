@@ -115,4 +115,4 @@ Alliance Partners may be eligible for NFR (not for resale) licenses to develop a
 
 **Acquisitions**
 
-If you are a Partner interested in inquiring about a potential acquisition of your company please visit our [acquisition handbook](https://about.gitlab.com/handbook/acquisitions/).
+If you are a Partner interested in inquiring about a potential acquisition of your company please visit our [acquisition handbook](/handbook/acquisitions/).

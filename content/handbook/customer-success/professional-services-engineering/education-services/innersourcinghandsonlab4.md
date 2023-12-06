@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/education-services/innersourcinghandsonlab4.html
 title: "GitLab InnerSourcing Hands On Guide- Lab 4"
 description: "This Hands On Guide Lab is designed to walk you through the lab exercises used in the GitLab InnerSourcing course."
 ---

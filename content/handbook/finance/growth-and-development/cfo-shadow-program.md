@@ -28,7 +28,7 @@ To benefit the most from the types of meetings that the CFO attends, it's recomm
 
 ### Confidentiality
 
-Participating in the shadow program is a privilege where you will be exposed to confidential information. This is underpinned by trust in the shadows to honor the confidentiality of topics being discussed and information shared. The continuation of this program is entirely dependent on shadows past, present, and future honoring this trust placed in them.
+Participating in the shadow program is a privilege where you will be exposed to confidential information. This is underpinned by trust in the shadows to honor the confidentiality of topics being discussed and information shared. The continuation of this program is entirely dependent on shadows past, present, and future honoring this trust placed in them. Please be aware that the role of CFO Shadow will place you on the Designated Insider list for that quarter. You will need to request pre-clearance to trade during the open window. More info on the Designated Insider list and pre-clearance can be found [here] https://handbook.gitlab.com/handbook/legal/publiccompanyresources/.
 
 ### Create an onboarding and offboarding issue
 
@@ -42,13 +42,13 @@ Develop goals for your time as a CFO Shadow and add them to your onboarding issu
 
 ### Practice your introduction
 
-It's important that you represent yourself correctly when joining meetings, both internally and externally. You can introduce yourself by stating your name, your normal title, and then by stating that you are in a two-week CFO Shadow Program. The stated purpose should be to give participants an overview of the finance function at GitLab. You will update your Zoom name to "CFO-Shadow" to provide clarity for why you are joining calls.
+It's important that you represent yourself correctly when joining meetings, both internally and externally. You can introduce yourself by stating your name, your normal title, and then by stating that you are in the CFO Shadow Program. The stated purpose should be to give participants an overview of the finance function at GitLab. You will update your Zoom name to "CFO-Shadow" to provide clarity for why you are joining calls.
 
 It will be helpful to read more about introductions related to the [CEO Shadow Program here]({{< ref "/handbook/ceo/shadow#ceo-shadow-introductions" >}})
 
 ### Review the CFO's calendar
 
-Review the CFO's calendar to get an idea of what your upcoming weeks will be like.
+Schedule a call with the CFO's [Sr EBA to the CFO]({{< ref "eba#e-group-member-ebas" >}}) to review the CFO's calendar to get an idea of what your upcoming days will be like.
 
 ## During the Program
 
@@ -60,21 +60,18 @@ There will be short-term administrative tasks that you'll be asked to perform as
 
 ## Meetings
 
-### CFO's calendar
-
-1. At the start of the week, review the CFO's calendar. The CFO's calendar is the single source of truth. Shadows should check the CFO's calendar for updates often. You will not be invited to each meeting. Meetings that the shadows may not attend will have a separate calendar entry on the CFO's schedule that states "No CFO Shadows". When in doubt, reach out to CFO's Senior Executive Business Administrator to confirm if you should attend or not. There will be some meetings and events the shadows do not attend. Do not feel obligated to attend every meeting — all meetings are considered optional.
+1. The CFO's Senior Executive Business Administrator will add you to all meetings that you can attend. There will be some meetings and events the shadows do not attend. Do not feel obligated to attend every meeting — all meetings are considered optional.
 1. As a reminder, you should have your title updated within your last name on zoom. During the Shadow rotation update your title to "CFO Shadow". [Here]({{< ref "/handbook/tools-and-tips/zoom#adding-your-title-to-your-name" >}}) is the how to update your title as part of your last name to ensure it shows up on zoom.
-1. Add the CFO's calendar to your Google Calendar by clicking the `+` next to "Other Calendars". Then click `Subscribe to Calendar`, search for the CFO's name, and click enter.
-1. Because candidate interviews are marked as "private" (busy) for confidentiality reasons, the Executive Business Admin will invite the shadows to those events directly. As a result, you will get an email from Greenhouse asking for candidate feedback, which is not necessary.
+1. Because candidate interviews are marked as "private" (busy) for confidentiality reasons, the Sr EBA will invite the shadows to those events directly. As a result, you will get an email from Greenhouse asking for candidate feedback, which is not necessary.
 1. Meetings with those outside of GitLab may not be on Zoom. Prior to the call, check the CFO's calendar and load any other conferencing programs that may be needed. It may be necessary to dial in via phone for audio-conferences. If you have any problems confirming the link, reach out to the `#cfo-shadow` slack channel.
 
 ### Other Notes on Meetings
 
 - Like all meetings at GitLab, meetings will begin promptly, regardless of the shadows' attendance.
-- For the first iteration of the CFO-shadow program, the shadow will not attend e-group or quarterly board meetings to avoid overlap with the CEO Shadows who already attend those calls.
+- For the first iteration of the CFO-shadow program, the shadow may not attend e-group or quarterly board meetings to avoid overlap with the CEO Shadows who may already attend those calls.
 - The CFO's Sr EBA will ask external people if they are comfortable with the shadows joining prior to the scheduled meeting, and will share a link to the CFO shadow page to provide context.
 - Meeting agendas should be shared with cfo-shadow@gitlab.com, as shadows will be added to this email alias prior to the rotation, and removed at the conclusion of it. For agendas that contain sensitive information, the sensitive information should be removed and the document shared with "View only" access to restrict access to the document's history. Not all agendas will be shared, though, and the CFO Shadows should feel empowered to ask for access if that is the case. Sometimes, the answer will be "no" for sensitive reasons.
-- There will be times where the Shadow will not attend meetings because a participant in the meeting is uncomfortable or prefers more privacy
+- There will be times where the Shadow will not attend meetings because a participant in the meeting is uncomfortable or prefers more privacy.
 
 ### Shadow's Responsibilities During Meetings
 
@@ -122,8 +119,10 @@ A handy App for time keeping is Senzillo's "Speech Timer for Talks".  It is avai
 Finance team members have a high workload and may not be able to complete a full 3-day rotation. If you are interested in shadowing for the full or part of the weeks listed below, open the MR to add your name to schedule per the instructions on [How to Apply](#how-to-apply), and message the slack channel `#cfo-shadow` with the exact dates you are requesting.
 
 | Start Date | End Date |Shadow Name |
-| Monday 2023-10-02 | Wednesday 2023-10-04| |
-| Tuesday 2023-10-24 | Thursday 2023-10-26| |
-| Tuesday 2023-11-07 | Thursday 2023-11-09 | |
-| Tuesday 2023-11-14| Thursday 2023-11-16 | |
-
+|----|---------|--------|
+| Tuesday 2023-12-19 | Wednesday 2023-12-21| |
+| Tuesday 2024-01-16 | Thursday 2024-01-18| |
+| Tuesday 2024-01-23 | Thursday 2024-01-25 | |
+| Tuesday 2024-02-06 | Thursday 2024-02-08 | |
+| Tuesday 2024-02-20 | Thursday 2024-02-25 | |
+| Tuesday 2024-02-06 | Thursday 2024-02-08 | |

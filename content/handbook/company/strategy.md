@@ -6,7 +6,7 @@ canonical_path: "/company/strategy/"
 
 ## Current strategy
 
-**[Current strategy in the internal handbook](https://internal.gitlab.com/handbook/company/three-year-strategy/).**
+**[Current strategy is in the internal handbook](https://internal.gitlab.com/handbook/company/three-year-strategy/).** The rest of this page desribes the strategy process.
 
 ## Three Year Strategy
 
@@ -75,9 +75,9 @@ graph BT;
 | More Users | [Stage Monthly Active Users](/handbook/product/performance-indicators/) | Product |
 | More Contributions | [Unique Wider Community Contributors per month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month) | Developer Relations and Engineering |
 | More Contributions | [MRARR](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#mrarr) | Developer Relations and Engineering |
-| More Contributions | [Wider community contributions per release](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release) | Developer Relations and Engineering |
+| More Contributions | [Wider community contributions per release](/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release) | Developer Relations and Engineering |
 | More Features | [Merge Requests per release per engineer in product development](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#average-mrs-development-engineers-month) | Engineering and Product Management |
-| More Revenue | [IACV](https://about.gitlab.com/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan | Sales and Marketing |
+| More Revenue | [IACV](/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan | Sales and Marketing |
 
 
 ### Flywheel with two turbos
@@ -118,15 +118,15 @@ graph TB
 
 Legend with links to the relevant metrics:
 
-1. [Wider community contributions Turbo](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release)
+1. [Wider community contributions Turbo](/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release)
 1. [R&D Overall MR Rate](https://about.gitlab.com/handbook/engineering/performance-indicators/#rd-overall-mr-rate)
 1. [Stage maturity](https://about.gitlab.com/direction/maturity/) increase
 1. [MAU](/handbook/product/performance-indicators/) increase
 1. [SpO](/handbook/product/performance-indicators/#stages-per-organization-spo) increase Turbo which is only possible in a [single application with multiple stages](/handbook/product/single-application/)
-1. More [Licensed users](https://about.gitlab.com/handbook/sales/#licensed-users) is due to an increase in unlicensed users (MAU) and the increase in [SpO](/handbook/product/performance-indicators/#stages-per-organization-spo) leading to a higher conversion from free to paid and a higher gross retention.
-1. Higher [Revenue per licensed user](https://about.gitlab.com/handbook/sales/#revenue-per-licensed-user-also-known-as-arpu) due to the [Advantages of a single application](/handbook/product/single-application/)
+1. More [Licensed users](/handbook/sales/#licensed-users) is due to an increase in unlicensed users (MAU) and the increase in [SpO](/handbook/product/performance-indicators/#stages-per-organization-spo) leading to a higher conversion from free to paid and a higher gross retention.
+1. Higher [Revenue per licensed user](/handbook/sales/#revenue-per-licensed-user-also-known-as-arpu) due to the [Advantages of a single application](/handbook/product/single-application/)
 1. [Net ARR](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.a35sth38hahw) stands for Annual Recurring Revenue is our [most important KPI](/handbook/company/kpis/#gitlab-kpis)
-1. [ARR](https://about.gitlab.com/handbook/sales/#annual-recurring-revenue-arr) stands for Annual Recurring Revenue and IACV increases it.
+1. [ARR](/handbook/sales/#annual-recurring-revenue-arr) stands for Annual Recurring Revenue and IACV increases it.
 1. R&D spend ratio becomes higher if the growth rate is higher due to the [Hypergrowth Rule](/handbook/finance/financial-planning-and-analysis/hypergrowth-rule/)
 1. R&D investment is the amount of money spend on Product Management and Engineering excluding Support
 1. [Development Department Narrow MR Rate](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#development-department-narrow-mr-rate)

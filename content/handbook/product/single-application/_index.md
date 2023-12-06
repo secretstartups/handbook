@@ -252,7 +252,7 @@ across the functionality, whereas separate vendors each need to pay those costs 
 Businesses that manage a toolchain pay hidden operating costs in the form of engineering time needed to
 build and maintain the toolchain instead of using those engineering resources to write software with
 business logic that delivers differentiated value. For a large enterprise this can be the difference
-between [paying 20 engineers vs one engineer](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/)
+between [paying 20 engineers vs one engineer](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/)
 to maintain your tools.
 
 ### Further examples

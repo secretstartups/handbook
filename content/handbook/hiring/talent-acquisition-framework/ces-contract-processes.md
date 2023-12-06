@@ -343,7 +343,7 @@ LOAs should be treated like contracts, where RSUs are only features in US ones a
     - #1 Hiring Manager (receives a copy)
     - #2 Candidate (needs to sign)
     - #3 People Ops (receives a copy)
-    - #3 Nitin Upadhyay (receives a copy)
+    - #3 Nitin Upadhyay and Julia Demina (receives a copy)
     - This ensures that the contract goes to the GitLab signatory to sign first, as well as the recruiter for a Cc and once signed by them it will go to the People Experience for an update of records.
 1. Then click "Done".
 1. When the JCL is signed, ensure that you merge profiles before Hiring to avoid creating duplicate profile
@@ -482,7 +482,7 @@ The process for creating and sending an agreement is as follows:
 1. Click *Upload* to place new hire’s statement of work in this folder
 1. Inform the Global Upside team (gitlabHR@globalpeoservices.com) of any new hires by sending email template *Email to Global Upside* under “Email the Team” in Greenhouse to let them know that a new SOW was uploaded into Egnyte and the employee’s name.
 1. The Candidate Experience Specialist should add the candidate to the [PEO Tracking Sheet](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0) and keep track of communication between GitLab.
-1. For candidates from Costa Rica, you will be asked to provide a translation of the job description in Spanish. In this case, you should reach out to the appropriate person in the [Localization](https://about.gitlab.com/handbook/marketing/localization/) page.
+1. For candidates from Costa Rica, you will be asked to provide a translation of the job description in Spanish. In this case, you should reach out to the appropriate person in the [Localization](/handbook/marketing/localization/) page.
 1. Once Global Upside has drafted up the contract, they will place it in Egnyte and email the CES to review and approve.
     -CES should double-check that the contract reflects all the correct information that we sent to them.
 1. Once the contract is signed by the new hire, Global Upside will notify the CES.
@@ -665,7 +665,6 @@ Please follow the outlined steps below before sending the unsigned copy of the C
     - **Subject line**  : Please Send Physical Contract for “Name of the new hire”
     - **Body of the email** : Expand the Text expander snippet “ GCtogermancounsel”
     - **Attachment** : CES to attach the unsigned PDF contract
-- Once the email is sent to the German counsel, CES adds the candidate to the German contract tracker. A link to this is in the contract templates received in the Service Desk.
 - In order to inform the candidate regarding the physical copies sent out via post, go to the Greenhouse profile of the ​​candidate, using the “email the “candidate name” function, select the template “ German Contract already sent to counsel”.
 - A welcome email should be sent to the candidate, and they should be marked as hired as per the normal hiring process.
 - Once the candidate has confirmed that they have received the physical contract in mail. CES will send the email template "German Contract step 2" to the candidate and close out the issue.

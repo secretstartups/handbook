@@ -95,8 +95,8 @@ The Field Marketing Manager is a [grade 6](/handbook/total-rewards/compensation/
 
 - [8X spend contribution to sales pipeline](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution) for region responsible for.
 - Contribution to the outlined FMM ORKs, in alignment with the [Marketing ORKs](/handbook/company/okrs/#most-recent-okrs).
-- Field Marketing plans completed in alignment [with planning schedule](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing-planning).
-- Spending of the regional [Field Marketing budget](https://about.gitlab.com/handbook/marketing/field-marketing/#the-field-marketing-budget) within 5% variance.
+- Field Marketing plans completed in alignment [with planning schedule](/handbook/marketing/field-marketing/#field-marketing-planning).
+- Spending of the regional [Field Marketing budget](/handbook/marketing/field-marketing/#the-field-marketing-budget) within 5% variance.
 
 ## Senior Field Marketing Manager
 
@@ -205,7 +205,7 @@ This role includes all of the performance indicators of the previous level plus:
 
 - [8X spend contribution to sales pipeline](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution) for geo (AMER, EMEA,APAC) responsible for.
 - Contribution to the outlined FMM OKRs, in alignment with the [Marketing OKRs](/handbook/company/okrs/#most-recent-okrs).
-- Spending of the regional [Field Marketing budget](https://about.gitlab.com/handbook/marketing/field-marketing/#the-field-marketing-budget) within 5% variance, for geo (AMER, EMEA,APAC) responsible for.
+- Spending of the regional [Field Marketing budget](/handbook/marketing/field-marketing/#the-field-marketing-budget) within 5% variance, for geo (AMER, EMEA,APAC) responsible for.
 
 ### Hiring Process
 

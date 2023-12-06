@@ -1,14 +1,7 @@
 ---
-
 title: "UX Scorecards"
 description: "The UX Scorecard is a process similar to a heuristic evaluation that helps identify usability issues and score a given experience."
 ---
-
-
-
-
-
-
 
 ## Intro and goal
 
@@ -67,14 +60,15 @@ This is a process intended to help inform the design process and maintain a high
 
 Below is a recommended step by step process for completing a UX Scorecard. Note that every scorecard is not the same. Product Designers are welcome to adapt the steps to their needs as long as they are as objective as possible and the spirit and outcome remains the same.
 
-1. Create an (or locate the existing) epic that will contain all UX Scorecards for that stage group.  
+1. Create an (or locate the existing) epic that will contain all UX Scorecards for that stage group.
     > Example: “UX Scorecard - Create:Source Code”
-1. If not already done, add the stage group epic to the [UX Scorecards -- All Evaluations](https://gitlab.com/groups/gitlab-org/-/epics/1714) epic.  
+1. If not already done, add the stage group epic to the [UX Scorecards -- All Evaluations](https://gitlab.com/groups/gitlab-org/-/epics/1714) epic.
 1. Work with your Product Manager to identify the top jobs (in frequency or importance) for users of your stage group. Ideally, you will base this task list on user research (analytics or qualitative findings).
 1. Select one of the top jobs to complete a UX Scorecard.
 1. [Create an experience scoring issue](https://gitlab.com/gitlab-org/gitlab-design/issues/new?issuable_template=UX%20Scorecard%20Part%201), using the template “WIP: UX Scorecard Part 1”, and add it to the stage group epic.
 
-    This issue should have the **UX Scorecard** label. If it's related to an OKR, also apply the **OKR** label for easier tracking.
+This issue should have the **UX Scorecard** label. If it's related to an OKR, also apply the **OKR** label for easier tracking.
+
 1. [Create a recommendations issue](https://gitlab.com/gitlab-org/gitlab-design/issues/new?issuable_template=UX%20Scorecard%20Part%202), using the template “WIP: UX Scorecard Part 2”, to be done after the experience scoring.
     1. If you're doing a Heuristic Buddy Evaluation skip this step and continue using the [Heuristic Buddy Scorecard template](https://gitlab.com/gitlab-org/gitlab-design/-/blob/master/.gitlab/issue_templates/Heuristic%20Buddy%20UX%20Scorecard.md)
 1. Follow the instructions in the templates to complete the scorecard and use the Grading Rubric.
@@ -104,6 +98,7 @@ If you'd like to view or edit the templates, you can find them here:
 The onboarding experience of your product category can make a big difference in the adoption of GitLab stages. You can use a UX Scorecard to assess the UX of your onboarding experience and identify areas for improvement.
 
 Onboarding can refer to many different scenarios, and this can impact the experience:
+
 - a SaaS or self-managed user
 - a brand new GitLab admin setting up a SaaS or self-managed account/instance
 - a brand new GitLab user joining a company or team

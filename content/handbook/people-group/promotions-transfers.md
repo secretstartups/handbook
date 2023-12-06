@@ -109,7 +109,7 @@ At GitLab, we promote on a twice per year basis. This means that there is **one 
 
 ### FY24-Q3
 
-*Status:* In progress.
+*Status:* Completed.
 
 - Planning: 2023-06-12 to 2023-06-23
 - Calibrations: 2023-06-26 to 2023-07-14
@@ -122,9 +122,9 @@ At GitLab, we promote on a twice per year basis. This means that there is **one 
 
 *Status:* Upcoming. Aligned with [Annual Compensation Cycle]({{< ref "compensation-review-cycle#annual-compensation-review-timeline" >}})
 
-- Planning: 2023-12-18 to 2024-01-05
-- Calibrations: 2024-01-08 to 2024-01-19
-- Processing: 2024-01-22 to 2024-02-01 (Promotions must be added to Workday by 2024-01-19)
+- Planning and Calibrations: 2023-12-18 to 2024-01-05
+- Processing in Workday: TBD
+- Processing: TBD
     - Effective date for promotions: 2024-02-01.
     - Communication: In conjunction with [annual compensation review raises]({{< ref "compensation-review-cycle#february" >}}). After communicating 1:1 with individuals, updates can be posted publicly in #team-member-updates.
 
@@ -235,14 +235,14 @@ Regardless of the promotion level, it is critical that leaders work with their P
 
 ### Engineering Promotion Feedback Pilot
 
-In the Engineering Division, we are piloting a formal process for incorporating peer feedback into the promotion process for Engineers who are pursuing a promotion to an individual contributor role at a Staff level or higher as outlined in our [individual contributor job framework](https://internal.gitlab.com/handbook/people-group/people-operations/career-development-resources/).
+In the Engineering Division, we are incorporating peer feedback into the promotion process for Engineers who are pursuing a promotion to an individual contributor role at a Staff level or higher as outlined in our [individual contributor job framework](https://internal.gitlab.com/handbook/people-group/people-operations/career-development-resources/).
 
-We will incorporate feedback from 2-3 individuals who work directly, closely, and regularly with the team member. Feedback can be from team members within Engineering, or from stakeholders that work closely with the team member (these could be individuals within Engineering, or stable counterparts in other divisions, I.E. Product). Ideally, we would have a mix of both Engineering and cross-functional feedback for completeness and balance.
+We will incorporate feedback from 2-3 individuals who work directly, closely, and regularly with the team member. Feedback can be from team members within Engineering, or from stakeholders that work closely with the team member including stable counterparts in other divisions (I.E. Product). Ideally, we would have a mix of both Engineering and cross-functional feedback for completeness and balance.
 
-- Within the Engineering division, feedback should be provided by team members who are currently at or above the level we are proposing to promote the team member into (I.E. If the team member is currently a `Senior Backend Engineer`, and we are proposing to promote them to `Staff Backend Engineer`, feedback should be solicited from `Staff Backend Engineer` level team members or higher).
+- Within the Engineering division, feedback should be provided by team members who are currently at or above the [Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) we are proposing to promote the team member into (for example, if the team member is currently a `Senior Backend Engineer` (Job Grade 7), and we are proposing to promote them to `Staff Backend Engineer` (Job Grade 8), feedback should be solicited from team members at Job Grade 8 or higher).
 - Outside of the Engineering division, feedback should ideally be provided by team members at or above the level we are proposing to promote the team member - however, there may be exceptions to this rule due to stable counterpart alignment (I.E. If the team member is currently a `Staff Backend Engineer`, and we are proposing to promote them to `Principal Engineer` and their Product stable counterpart is a `Senior Product Manager`, it is acceptable to solicit feedback from them despite the fact that this is not at/above the promotion level)
 
-To ensure this feedback is provided in a structured and safe way, and to support the objectivity of the feedback collection process, an Indirect Manager (I.E. a people manager or above level leader people leader who is not the direct manager of the team member) will be responsible for collecting the feedback and compiling the themes to supplement the promotion document materials presented at the CTO level calibration. **Only people managers should be collecting feedback** as part of the process, individual contributors should not drive this portion of the promotion process. Once feedback is collected, the Indirect Manager driving the feedback portion of the process should share the summary document with the direct manager first. Once the direct manager confirms receipt, the Indirect Manager should share with CTO Staff (I.E. CTO direct reports) via the `cto-leadership@gitlab.com` email alias, and the Engineering People Business Partners via the `pbp-r-and-d@gitlab.com` email alias to ensure appropriate access is in place ahead of CTO level calibration.
+To ensure this feedback is provided in a structured and safe way, and to support the objectivity of the feedback collection process, an Indirect Manager (a people manager who is not the direct manager of the team member) will be responsible for collecting the feedback and compiling the themes to supplement the promotion document materials presented at the promotion committee meeting. **Only people managers should be collecting feedback** as part of the process, individual contributors should not drive this portion of the promotion process. Once feedback is collected, the Indirect Manager should share with the Engineering People Business Partners via the `pbp-r-and-d@gitlab.com` email alias to ensure appropriate access is in place ahead of CTO level calibration.
 
 #### Promotion Feedback Template
 
@@ -254,23 +254,25 @@ We encourage feedback providers to provide specific examples and actionable reco
 
 The promotion candidate will be aware that their promotion has moved to the feedback phase, however, we ask team members providing promotion feedback to keep it confidential throughout the feedback process. Regardless of whether or not the promotion is approved, team members will receive a summary of the feedback provided to them when the promotion cycle is complete to support their ongoing growth and development.
 
-Aligned with our [company-wide promotion timeline]({{< ref "promotions-transfers#twice-per-year-promotion-calibration-process--timeline" >}}), we do not communicate promotion status (approved/denied) to team members until we are fully through the approval process, so it is important ensure team members are clear on the fact that participating in the feedback promotion phase does not indicate promotion approval.
+Aligned with our [company-wide promotion timeline]({{< ref "promotions-transfers#twice-per-year-promotion-calibration-process--timeline" >}}), we do not communicate promotion status (approved/denied) to team members until we are fully through the approval process, so it is important to ensure team members are clear on the fact that participating in the feedback promotion phase does not indicate promotion approval.
 
 Promotion feedback documents differ from promotion documents in terms of who they are shared with. While promotion documents are shared company-wide upon promotion approval, promotion feedback documents *will not be shared publicly*. The intention of promotion feedback is to ensure we are incorporating cross-functional feedback into the promotion process and providing team members with holistic feedback on their strengths and opportunity areas with the ultimate goal of supporting growth. Promotion feedback documents will only be shared with the People group, CTO Staff, the team member's leadership chain, and the Indirect Manager facilitating the feedback process.
 
-#### Promotion Feedback Pilot Steps & Timeline
+#### Promotion Feedback Steps & Timeline
 
 We have built in a few additional touchpoints into the company-wide [promotion calibration and processing timeline]({{< ref "promotions-transfers#twice-per-year-promotion-calibration-process--timeline" >}}) to ensure enough time in the process for feedback sessions to take place.
 
 **For clarity, `Indirect Manager` in the timeline below refers to the people manager that is driving the promotion feedback process.**
 
-1. Week of 2023-06-26: Department level calibrations completed utilizing the promotion document
+1. Week of 2023-11-20: Department level calibrations started utilizing the promotion document
 1. *NEW* Promotion Feedback Obtained: *The promotion feeback portion of the cycle should kick off **after** department level calibration has concluded.* Manager and Team Members collaboratively select 2-3 team members to participate in the feedback collection process. Once the team members to participate are selected, the Manager engages another Indirect Manager to collect the feedback objectively.
 1. The selected Indirect Manager reaches out to the 2-3 team members selected to request their participation in the promotion feedback process using [Promotion Feedback template](https://docs.google.com/document/d/1SZwFzL64JWEYUM2SWr-eBgJCaSjaDEOaxOm6OckRsH8/edit#). A separate copy of the [template](https://docs.google.com/document/d/1SZwFzL64JWEYUM2SWr-eBgJCaSjaDEOaxOm6OckRsH8/edit#) should be shared with each individual providing feedback. Feedback can be provided asynchronously, or synchronously in a session set up by the Indirect Manager.
 1. Indirect Managers review this content and can schedule follow up interviews to gain additional clarity and dig into any themes that have arisen if necessary.
-1. Indirect Manager compiles a summary of written feedback along with any relevant interview notes that is presented at CTO calibration by their department leader in conjunction with the promotion document. Indirect Manager should share the feedback overview with the direct Manager. **Due date for Indirect Managers to complete the feedback process and have the final summary compiled and shared with direct Manager is 2023-07-07 EOD PT.**
-1. As soon as the direct Managers confirm they have received and reviewed the feedback summary document provided by the Indirect Manager, the Indirect Manager should share the summary with CTO Staff (I.E. CTO direct reports) via the `cto-leadership@gitlab.com` email alias, and the Engineering People Business Partners via the `pbp-r-and-d@gitlab.com` email alias to ensure appropriate access is in place ahead of CTO level calibration. **Feedback summary documents should be shared with the aliases above by 2023-07-10 @ 12pm PT latest.**
-1. Week of 2023-07-10: CTO Calibration, Promotions Approved within Engineering and submitted for final company approval and processing
+1. Indirect Manager compiles a summary of written feedback along with any relevant interview notes that is presented at CTO calibration by their department leader in conjunction with the promotion document. Indirect Manager should share the feedback overview with the direct Manager. **Due date for Indirect Managers to complete the feedback process and have the final summary compiled and shared with direct Manager is 2023-12-21 5pm PT.**
+``1
+1. As soon as the direct Managers confirm they have received and reviewed the feedback summary document provided by the Indirect Manager, the Indirect Manager should share the summary with the Engineering People Business Partners via the `pbp-r-and-d@gitlab.com` email alias to ensure appropriate access is in place ahead of promotion committee calibration. **Feedback summary documents should be shared with the aliases above by 2023-12-22 @ EOD PT latest.**
+1. Week of 2024-01-01 to 2024-01-04: Promotion Committee meetings are held. Promo committees are comprised of a cross-functional committee of team members & managers at or above the level of the promotion nominations being reviewed.
+1. 2024-01-08: CTO level final promotion review
 1. Upon final [approval of promotions]({{< ref "promotions-transfers#twice-per-year-promotion-calibration-process--timeline" >}}): The direct manager will provide a consolidated summary of the themes collected in the promotion feedback process to the team member directly. The goal of this conversation is to aid in the ongoing growth of the team member and should be presented in a way that provides the team member with actionable insights for development. Unless specifically agreed upon with the team member who provided feedback, feedback should be presented thematically vs directly attributable. The Indirect Manager who collected the feedback should plan to meet with the direct manager to share the findings. Managers should plan to discuss promotion feedback with all promotion candidates for whom feedback was solicited, not just those whose promotions were approved. If a promotion was not approved, the collective feedback from calibration and the promotion feedback process should inform a discussion about growth areas for the team member to focus on to be more ready for future promotion.
 
 ## Hiring for VP+ Roles
@@ -331,7 +333,7 @@ This section describes the approval chain after the People Business Partner subm
 
 ### For People Connect Team: Processing Promotions, Internal Transfers & Compensation Changes
 
-1. If the request is approved through Workday, the People Connect Team will create the [Job Change Letter]({{< ref "promotions-transfers#job-change-letter" >}}), whereas if the request is through Greenhouse the `People Connect Team will be notified via the People Connect team email` inbox that the [Job Change Letter](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#letter-of-adjustment) has been created by the CES team and signed.
+1. If the request is approved through Workday, the People Connect Team will create the [Job Change Letter]({{< ref "promotions-transfers#job-change-letter" >}}), whereas if the request is through Greenhouse the `People Connect Team will be notified via the People Connect team email` inbox that the [Job Change Letter](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#job-change-letter) has been created by the CES team and signed.
 1. The People Connect Team member notifies Payroll of the changes by adding the relevant details to the applicable payroll sheet depending on the country under the 'Compensation' header and starting month tab
     - [Non-US payroll changes](https://docs.google.com/spreadsheets/d/1M_puIKHLWkHnVzOJ2MwjIpQ-mwxolae-LpT2VPlByv0/edit#gid=261391927)
     - [(US)Payroll Changes](https://docs.google.com/spreadsheets/d/1163qL1tIG32vAVUNNIbhnPnzkL5euPAD9DGlOaapTjY/edit#gid=1431873926)
@@ -375,7 +377,7 @@ As highlighted in the Definition section, all interim roles (regardless of the n
 
 *Once a team member successfully completes the interview process and is selected for the interim period, the following steps should be taken to ensure the team member is set up for success in their interim role.*
 
-1. *CES*: Issue a [Job Change Letter](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#job-change-letter) to finalize the beginning of the interim period. The Letter should include: interim job title, start date, and end date (if known). Letters of adjustment are important as this is the process by which Total Rewards is notified of change from Greenhouse.
+1. *CES*: Issue a [Job Change Letter](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#job-change-letter) to finalize the beginning of the interim period. The Letter should include: interim job title, start date, and end date (if known). Job Change letters are important as this is the process by which Total Rewards is notified of change from Greenhouse.
 1. *People Connect*: Update the team member's job and business titles in Workday to reflect that they have started an interim role e.g. `Senior Manager, Engineering (Interim)`. This update serves as the SSOT for tracking interim start and end dates, in addition to providing transparency pertaining to who is currently executing in an interim role. Job code and job grade will remain the same, as interim periods have no impact on compensation i.e. do not update any other fields when initiating the [Change Job Process](https://docs.google.com/document/d/1hpPikG0STncYKamaY8XlfMTwYdoszP-0Xogvpp5hyZ4/edit).
 1. *Current Manager*: In the instance that there are direct reports that need to be moved to an Interim Manager this change needs to be initiated by the Current Manager or where necessary the People Business Partner for the respective group in Workday by following the [Change Manager Process](https://docs.google.com/document/d/1JEobACNSMeHU4pU5DaaF7aqmv9wmSDoXx7veZ6_SM_I/edit).  The philosophy here is that if a team member has successfully gone through the interview process and has demonstrated they are ready/able for an interim period in a manager role, they have the required level of EQ and discretion to have direct reports in Workday. It is, of course, expected that should the interim period not end in promotion, the team member continue to treat confidential information confidentially.
 
@@ -395,7 +397,7 @@ Regardless of the outcome, when the interim period ends, the manager should revi
 
 #### Updating Interim Movements in Workday
 
-If you receive a job change or letter of adjustment to an interim role, process the change by:
+If you receive a [Job Change letter](/handbook/people-group/contracts-probation-periods/#job-change-letter) to an interim role, process the change by:
 
 1. Saving the letter to `Documents` > `Contracts & Changes` Document Category (Do not choose `Contracts & Changes - Confidential (No Employee View)`)
 1. Review for compensation change
@@ -572,7 +574,7 @@ If you are interested in another position within your department and the manager
 
 If a GitLab team member is chosen for a new role, the managers should agree on a reasonable and speedy transfer plan. Up to 4 weeks is usually a reasonable period, but good judgment should be used on completing the transfer in a way that is in the best interest of the company, impacted people, and projects.
 
-The agreed upon transfer date should be reflected in the offer letter in Greenhouse to ensure transfer date alignment between current manager, new manager, and transferring team member. This is essential to ensure that both teams are able to plan and be set up for success. It is important to note that it is typically the former team of the team member that shuffles to ensure workload of the departing team member is covered while a backfill is hired. This is to ensure a smooth and speedy transfer and a positive team member experience. When aligning on a start date, please also consider [payroll alignment]({{< ref "promotions-transfers#letter-of-adjustment" >}}) when selecting a start date.
+The agreed upon transfer date should be reflected in the offer letter in Greenhouse to ensure transfer date alignment between current manager, new manager, and transferring team member. This is essential to ensure that both teams are able to plan and be set up for success. It is important to note that it is typically the former team of the team member that shuffles to ensure workload of the departing team member is covered while a backfill is hired. This is to ensure a smooth and speedy transfer and a positive team member experience. When aligning on a start date, please also consider [payroll alignment](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#job-change-letter) when selecting a start date.
 
 Delaying transfers should be avoided to ensure a good team member experience for the transferring individual, however, if due to extenuating circumstances a transfer date needs to be pushed out, both managers need to agree on a new transfer date to communicate to the team member.
 
@@ -654,7 +656,7 @@ Consideration should be given to impacts on [product category maturity](https://
 
 ##### Compliance
 
-The Team Alignment Change process below serves to ensure that DRIs are consulting with their [aligned People Business Partner (PBP)]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}) at appropriate touch points during the team alignment process. The PBP can help determine whether additional involvement from Legal and/or People Operations team is necessary. Depending on the team alignment change type, Letters of Adjustment may be a necessary part of ensuring compliance during team member alignment changes. The PBP can help determine if additional steps like these are or are not necessary, which is why it is essential that they are looped in early.
+The Team Alignment Change process below serves to ensure that DRIs are consulting with their [aligned People Business Partner (PBP)]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}) at appropriate touch points during the team alignment process. The PBP can help determine whether additional involvement from Legal and/or People Operations team is necessary. Depending on the team alignment change type, Job Change letters may be a necessary part of ensuring compliance during team member alignment changes. The PBP can help determine if additional steps like these are or are not necessary, which is why it is essential that they are looped in early.
 
 #### Team Alignment Change Process
 

@@ -1,22 +1,11 @@
 ---
-
 title: "UX Research at GitLab"
 description: "The goal of UX Research at GitLab is to connect with GitLab users all around the world and gather insight into their behaviors, motivations, and goals."
 ---
 
-
-
-
-
-
-
 The goal of UX research at GitLab is to connect with GitLab users all around the world and gather insight into their behaviors, motivations, and goals. We use these insights to inform and strengthen product and design decisions.
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/EQ750KX_6nU" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+{{< youtube "EQ750KX_6nU" >}}
 
 UX Researchers are one of the many GitLab Team Members who conduct user research. Other roles, such as Product Managers and Product Designers, frequently conduct research with guidance from the UX Research team.
 

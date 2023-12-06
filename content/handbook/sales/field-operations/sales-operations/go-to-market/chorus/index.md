@@ -21,7 +21,7 @@ Log into Chorus by clicking on the Chorus SSO tile in your [Okta dashboard](http
 
 ## Chorus Training & Enablement
 
-- Please familiarize yourself with [GitLab's SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) before utilizing Chorus.
+- Please familiarize yourself with [GitLab's SAFE Framework](/handbook/legal/safe-framework/) before utilizing Chorus.
 
 - All ROW team members are required to complete the [Chorus GDPR Training](https://gitlab.edcast.com/insights/chorus-ai-compliance) in order to be granted Recorder access. SalesOps will provide team members with the link to the EdCast Chorus training once their [Baseline Role-Based Entitlement](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/) is submitted by their manager.
 
@@ -92,7 +92,7 @@ Managers can submit an issue in the [Sales Operations project](https://gitlab.co
 
 ## Why is My Meeting "Livestreamed"?
 
-![live-on-zoom](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/go-to-market/chorus/live-on-zoom.png)
+![live-on-zoom](/handbook/sales/field-operations/sales-operations/go-to-market/chorus/live-on-zoom.png)
 
 The banner "Live on Zoom with Chorus.ai" is controlled and set by Zoom, therefore neither Chorus nor GitLab can make changes to the text.
 

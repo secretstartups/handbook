@@ -26,7 +26,7 @@ In the past when making contact changes in Zuora this was done by billing.  Rece
 1. Verify that they are associated with the account / authorised to make the request, by checking the following:
    - If the requester has access to the current subscription information in [CustomersDot](https://customers.gitlab.com/customers/sign_in).
    - If the requester is presently listed as the `Sold To:` contact currently on file.
-   - If they pass the [account ownership verification](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#ownership-verification)
+   - If they pass the [account ownership verification](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases#ownership-verification)
 1. To update the Zuora contact information from within [CustomersDot](https://customers.gitlab.com/customers/sign_in) refer to the [Update Zuora Sold To contact using CustomersDot](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases/#update-zuora-sold-to-contact-using-customersdot) section of the `Associating purchases with additional accounts` page in the L&R workflow portion of the handbook.
 1. If the change to Zuora is outside changing either the `Bill To:` or `Sold To:` on record or their address information, please transfer the ticket to AR and in a private update inform them of what needs to be changed along with why we need them to make this change themselves.
 
@@ -164,7 +164,7 @@ GitLab provides subscriptions on an annual basis which are not eligible for term
 1. Use the [`General::Accounts Receivable`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038646513) macro to transfer the ticket to AR to advise and process if relevant. They will reply to the customer once done.
 
 Note: we cannot do partial refunds, so when a refund is requested, the whole
-subscription will have to be cancelled and refunded. See [Renewal reversal](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#renewal-reversal) for accidental renewal scenarios.
+subscription will have to be cancelled and refunded. See [Renewal reversal](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments#renewal-reversal) for accidental renewal scenarios.
 
 ## Invoice
 

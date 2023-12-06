@@ -27,19 +27,19 @@ This page outlines the Quote to Cash process. Topics include account and opportu
 
 - **Frequently Used Handbook Pages**
 
-    - [Sales Order Processing](https://about.gitlab.com/handbook/sales/field-operations/order-processing/)
-    - [How to Work with Legal](https://about.gitlab.com/handbook/legal/customer-negotiations/)
-    - [Deal Desk Opportunity Approval Process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#submit-an-opportunity-for-booking)
-    - [Bookings Policy](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#bookings-policy)
+    - [Sales Order Processing](/handbook/sales/field-operations/order-processing/)
+    - [How to Work with Legal](/handbook/legal/customer-negotiations/)
+    - [Deal Desk Opportunity Approval Process](/handbook/sales/field-operations/order-processing/#submit-an-opportunity-for-booking)
+    - [Bookings Policy](/handbook/sales/field-operations/order-processing/#bookings-policy)
     - [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
-    - [Account Ownership Rules of Engagement](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement)
-    - [ARR Calculation Guide](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/)
-    - [Vendor Setup Form Process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
+    - [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement)
+    - [ARR Calculation Guide](/handbook/sales/sales-term-glossary/arr-in-practice/)
+    - [Vendor Setup Form Process](/handbook/sales/field-operations/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
     - [Security Questionnaire Process](/handbook/security/#process)
     - [Troubleshooting: True Ups, Licenses + EULAS](/handbook/support/internal-support/#regarding-licensing-and-subscriptions)
     - [Licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/)
     - [Legal Authorization Matrix](/handbook/finance/authorization-matrix/)
-    - [Trade Compliance](https://about.gitlab.com/handbook/legal/trade-compliance/)
+    - [Trade Compliance](/handbook/legal/trade-compliance/)
 
 - **Other Resources**
 
@@ -73,9 +73,9 @@ This page outlines the Quote to Cash process. Topics include account and opportu
 
 ### **Quote Configuration**
 
-The following is a high level guide to quote types and important quote information to note before processing an order. Review the [**Go To Market Handbook**](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/) for opportunity creation instructions, and opportunity management guidelines. Review the [**Deal Desk Quote Configuration Guide**](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) for written instructions and video tutorials specific to each quote type.
+The following is a high level guide to quote types and important quote information to note before processing an order. Review the [**Go To Market Handbook**](/handbook/sales/field-operations/gtm-resources/) for opportunity creation instructions, and opportunity management guidelines. Review the [**Deal Desk Quote Configuration Guide**](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) for written instructions and video tutorials specific to each quote type.
 
-**Reference Link: [Starter/Bronze End of Availability + Tier Re-naming](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-guide-starterbronze-end-of-availability--silvergold-re-naming) Quoting Guide**
+**Reference Link: [Starter/Bronze End of Availability + Tier Re-naming](/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-guide-starterbronze-end-of-availability--silvergold-re-naming) Quoting Guide**
 
 #### Standard Quote Types
 
@@ -83,10 +83,10 @@ There are 4 different types of quotes - New Subscription, Amend Existing, Renew 
 
 | **Quote Type** | **When to Use** |
 |-----------------|:-------------|
-| [New Subscription](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote) | Any New Subscription Term OR Renewal where customer is changing term length |
-| [Amend Subscription](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote)     | Use this quote type to add users, true up, or change product tier **during the current subscription term.** (NOTE: True-ups added before renewal date will not eliminate true-up requirement for the same term which will be charged at renewal. True-up is a backward looking one-time fee that is always recognized at renewal. License add-ons during the term will eliminate the future true-ups to be charged at renewal.) |
-| [Renew Existing Subscription](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#renew-subscription-quote)      | Customer is at the end of their current term and wants to renew for the same term length      |
-| [Cancel Existing Subcription](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#contract-reset)      | This is used for a Contract Reset - please chatter on the opportunity level for assistance with contract resets      |
+| [New Subscription](/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote) | Any New Subscription Term OR Renewal where customer is changing term length |
+| [Amend Subscription](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote)     | Use this quote type to add users, true up, or change product tier **during the current subscription term.** (NOTE: True-ups added before renewal date will not eliminate true-up requirement for the same term which will be charged at renewal. True-up is a backward looking one-time fee that is always recognized at renewal. License add-ons during the term will eliminate the future true-ups to be charged at renewal.) |
+| [Renew Existing Subscription](/handbook/sales/field-operations/sales-operations/deal-desk/#renew-subscription-quote)      | Customer is at the end of their current term and wants to renew for the same term length      |
+| [Cancel Existing Subcription](/handbook/sales/field-operations/sales-operations/deal-desk/#contract-reset)      | This is used for a Contract Reset - please chatter on the opportunity level for assistance with contract resets      |
 
 #### Quote Template Types
 
@@ -125,7 +125,7 @@ Please provide as much detail as possible, including links to relevant records, 
 
 #### What quotes can Deal Desk assist me with?
 
-Deal Desk will review any quote to ensure accuracy and completion. **[Standard Quotes](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) are expected to be created and managed by the opportunity owner or ISR.**
+Deal Desk will review any quote to ensure accuracy and completion. **[Standard Quotes](/handbook/sales/field-operations/order-processing/) are expected to be created and managed by the opportunity owner or ISR.**
 
 For **Non-Standard/Complex Quote requests**, the Deal Desk team will assist the opportunity owner in creating the quote correctly. Some examples of these complex scenarios include:
 
@@ -136,7 +136,7 @@ For **Non-Standard/Complex Quote requests**, the Deal Desk team will assist the 
   - Year 1 will be for 100 users and Year 2 will be for 200 users.
   - Year 1 will be $45 per user per year and Year 2 will be $48 per user per year
 
-Please review the [Deal Desk Quote Configuration Guide](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) for more information. Note that the above list of non-standard quote elements is not exhaustive. If you encounter a non-standard need that is not listed on this page, please chatter @Sales-Support on the SFDC Opportunity in question for evaluation and assistance.
+Please review the [Deal Desk Quote Configuration Guide](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) for more information. Note that the above list of non-standard quote elements is not exhaustive. If you encounter a non-standard need that is not listed on this page, please chatter @Sales-Support on the SFDC Opportunity in question for evaluation and assistance.
 
 #### Quote Tax Information
 
@@ -144,12 +144,12 @@ If a customer requests Tax removed from the quote, they need to provide a Valid 
 
 1. Tax Exempt - Need to check with client to make sure they are tax exempt and load tax exempt certificate into their account in SFDC.
 1. Tax Exempt - If tax exempt click yes on drop down menu and add additional notes if needed.
-1. Tax/VAT ID field - adding a valid VAT ID is required for tax compliance of cross-country transactions to European Union countries. These are when we bill from GitLab Inc to any EU country, from GitLab BV to any other EU country except the Netherlands, from GitLab Ltd to any other EU country except the UK, from GitLab GmbH to any other EU country except Germany. **Note there is an [automation rule](https://gitlab.my.salesforce.com/01Q4M000000oVDi) in Salesforce that automatically populates the contents of a Quotes `VAT ID` from a quotes `VAT/Tax ID` - If you attempt to update the VAT ID and it is overwritten please [chatter for support](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/) on the related opportunity**
+1. Tax/VAT ID field - adding a valid VAT ID is required for tax compliance of cross-country transactions to European Union countries. These are when we bill from GitLab Inc to any EU country, from GitLab BV to any other EU country except the Netherlands, from GitLab Ltd to any other EU country except the UK, from GitLab GmbH to any other EU country except Germany. **Note there is an [automation rule](https://gitlab.my.salesforce.com/01Q4M000000oVDi) in Salesforce that automatically populates the contents of a Quotes `VAT ID` from a quotes `VAT/Tax ID` - If you attempt to update the VAT ID and it is overwritten please [chatter for support](/handbook/sales/field-operations/sales-operations/) on the related opportunity**
 1. Special Terms and Notes - Enter any additional notes that is not specified by the above settings.
 
 #### How to Create a Draft Proposal
 
-Follow the standard process for [quote creation](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes). The Quote Object **does not** need to be approved before generating a Draft proposal.
+Follow the standard process for [quote creation](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes). The Quote Object **does not** need to be approved before generating a Draft proposal.
 
 1. Click Edit Quote.
 2. Select the Draft Quote Template. Save.
@@ -189,7 +189,7 @@ For customers who are not exempt, the default values will be "Yes" for all field
 | Turn On Operational Data | (Yes/No) Shows whether Operational Data is enabled for the subscription |
 | Turn On Cloud Licensing | (Yes/Offline/No) Shows whether a customer activated with Cloud Licensing, Offline Cloud Licensing or a Legacy License File |
 
-Note: there is no contractual field for Cloud Licensing as sending Cloud License [Subscription Data](https://about.gitlab.com/handbook/legal/privacy/customer-product-usage-information/#subscription-data) is part of the standard GitLab's standard Subscription Agreement.
+Note: there is no contractual field for Cloud Licensing as sending Cloud License [Subscription Data](/handbook/legal/privacy/customer-product-usage-information/#subscription-data) is part of the standard GitLab's standard Subscription Agreement.
 
 **Cloud Licensing Fields**
 
@@ -255,12 +255,12 @@ During the Sales process, there may be a need for Sales to "pause" an upcoming A
 #### Auto-Renewal, Quarterly Subscription Reconciliation, and Operational Data: Frequently Asked Questions
 
 1. **I'm working on a deal. How can I tell if SuperSonics features apply to that deal?**
-  - First, create a quote. After you've saved your quote, check the [Zuora Fields](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions). If you see "Yes" next to "Turn On Auto-Renewal", "Turn On Quarterly Reconciliation", or "Turn On Operational Data", then that feature applies to your customer. If you see "No" next to these fields, SuperSonics features do not apply to your customer, and Legal opt-out language will be automatically populated on the Order Form.
+  - First, create a quote. After you've saved your quote, check the [Zuora Fields](/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions). If you see "Yes" next to "Turn On Auto-Renewal", "Turn On Quarterly Reconciliation", or "Turn On Operational Data", then that feature applies to your customer. If you see "No" next to these fields, SuperSonics features do not apply to your customer, and Legal opt-out language will be automatically populated on the Order Form.
 2. **I created a quote and legal language has automatically populated in the Notes section of the Order Form. Why did that happen?**
   - This means that your customer is exempt from one or more SuperSonics features. These SuperSonics features are not available for the deal, and we must place legal opt-out language on the Order Form to make it clear that these features do not apply. Review the [Availability Matrix](https://internal.gitlab.com/handbook/product/fulfillment/#feature-availability-matrix) for more information on exemptions.
   - Note: This language is not optional and cannot be removed unless the customer opts into SuperSonics. If you would like to discuss such a scenario, tag @Sales-Support in chatter.
 3. **My customer is exempt from SuperSonics, and they have requested edits to the opt-out language on the Order Form. What do I do?**
-  - Please open a [Legal Request](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#contact-legal) case to discuss potential edits to the language with the Legal Team.
+  - Please open a [Legal Request](/handbook/sales/field-operations/order-processing/#contact-legal) case to discuss potential edits to the language with the Legal Team.
 4. **How can I tell if Auto-Renewal or Quarterly Subscription Reconciliation are enabled on a subscription?**
   - Navigate to the SFDC Account, and click on the "Subscriptions" related list. Select the subscription in question, and review the "Auto-Renewal" and "Quarterly Reconciliation" fields. If these are marked "Yes," then these processes apply to the subscription. If these fields are marked "No" or are blank, these processes will not occur for this subscription.
 5. **A QSR opportunity was opened automatically, but my customer was never charged, and the opportunity never closed. What do I do?**
@@ -282,7 +282,7 @@ The following resources pertaining to the SuperSonics Billing and Subscription M
 
 ### **Working with Legal**
 
-There are several scenarios where you might need Legal assistance on an opportunity. Thouroughly review the information below. You can also learn more about the team and their scope by [visiting their handbook page](https://about.gitlab.com/handbook/legal/) or by checking out these [best practices on how to Collaborate with Legal](https://about.gitlab.com/handbook/legal/customer-negotiations/).
+There are several scenarios where you might need Legal assistance on an opportunity. Thouroughly review the information below. You can also learn more about the team and their scope by [visiting their handbook page](/handbook/legal/) or by checking out these [best practices on how to Collaborate with Legal](/handbook/legal/customer-negotiations/).
 
 #### Contact Legal
 
@@ -305,9 +305,9 @@ Within the Customer Opportunity:
 - The Sales Team member is responsible for completing such forms by following the below steps:
 1. Complete as much of the form as possible. Much of this information is publicly available in the GitLab handbook. Helpful information can be found on the [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) page and on the final page of any direct order form generated via a Zuora quote;
 1. Engage deal desk (via chatter in SFDC) only for any information that is not available in the GitLab handbook. The Deal Desk team can help point you to the relevant handbook information or team who can assist with the question, but please note that it is the sales rep's responsibility to populate and manage these forms from end to end.
-1. With respect to any legal terms or questions, [open a legal case](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#contact-legal) for review and approval;
+1. With respect to any legal terms or questions, [open a legal case](/handbook/sales/field-operations/order-processing/#contact-legal) for review and approval;
 Note: GitLab will not agree to any additional terms in a Vendor Setup Form. The parties will have all the applicable terms related to the products and services we offer in, (a) the Order Form agreed to between the parties, and/or (b) a definitive agreement that is executed by GitLab and the prospect/customer.
-1. Vendor Setup Forms that require signature must follow the standard Signature Process (See [Obtain Signature](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) process below).
+1. Vendor Setup Forms that require signature must follow the standard Signature Process (See [Obtain Signature](/handbook/sales/field-operations/order-processing/) process below).
 Note: Sales Team Members are **NOT** authorized to sign any document, contract and/or Agreement.
 
 #### How to Obtain Signatures for any external Contract or Agreement (including Vendor Forms)
@@ -349,7 +349,7 @@ To add our SaaS SLA Addendum to an order form, please open a Legal case after al
     1. IT’S THE LAW!
     1. Not complying could result in fines or penalties for GitLab and/or GitLab team members
     1. Non-compliance could result in the inability to sell to federal customers, lose the trust of our customers, partners and investors and result in fines or jail time for officers and offenders
-1. For more information see the [Trade Compliance](https://about.gitlab.com/handbook/legal/trade-compliance/) handbook page and the [Code of Business Conduct & Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d) page.
+1. For more information see the [Trade Compliance](/handbook/legal/trade-compliance/) handbook page and the [Code of Business Conduct & Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d) page.
 1. GitLab uses a third party tool called “Visual Compliance” that is connected to our GitLab SalesForce account
 1. This tool checks Account information against various databases to ensure no matches, Accounts are checked repeatedly to ensure GitLab's continued compliance
 
@@ -424,7 +424,7 @@ Within the Customer Opportunity:
   - The Sales Team member will be alerted (via SFDC Chatter) to the Agreement being updated and ready to be sent to customer
 1. If another round of edits are necessary, the Sales Team member will attach the Customer provided red-lines and tag (via SFDC Chatter) the Contract Manager / Legal Member assigned
 1. The same steps will repeat until an executable version is reached. At which point, the Contract Request Case will be closed.
-1. The Sales Team Member will follow the steps found at ["Obtain Signatures"](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-obtain-signatures-for-any-external-contract-or-agreement-including-vendor-forms) and attach the fully executed version to the Customer Account.
+1. The Sales Team Member will follow the steps found at ["Obtain Signatures"](/handbook/sales/field-operations/order-processing/#how-to-obtain-signatures-for-any-external-contract-or-agreement-including-vendor-forms) and attach the fully executed version to the Customer Account.
 NOTE: The above process may be used to also engage Contract Managers / Legal Members to add non-standard language to Order Forms
 1. **NOTE:** If not Opportunity exists yet, please create a $0 to open the Legal Request.
 
@@ -521,7 +521,7 @@ To update the terms of a quote, follow these steps:
 
 #### Adding Custom Terms to a Quote
 
-If custom terms need to be added to a quote, notify the Deal Desk team. The team will review and determine if we can fulfill the request or if we will need to work with Legal. Please check out the [Legal handbook page](https://about.gitlab.com/handbook/legal/) for more information on how to open Legal cases, responding to Vendor Set Up forms, or questions on GitLab's Standard Agreement.
+If custom terms need to be added to a quote, notify the Deal Desk team. The team will review and determine if we can fulfill the request or if we will need to work with Legal. Please check out the [Legal handbook page](/handbook/legal/) for more information on how to open Legal cases, responding to Vendor Set Up forms, or questions on GitLab's Standard Agreement.
 
 </details>
 
@@ -535,11 +535,11 @@ For assistance with a Subscription Transfer Agreement please open a Legal Reques
 
 ### Open Source, Education, and Startup Application Opportunities
 
-GitLab provides free licenses to qualifying entities through the [Community Programs](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/): [GitLab for Education Program](/solutions/education/), [GitLab for Open Source Program](/solutions/open-source/) and [GitLab for Startups Program](/solutions/startups/). All applications to these programs are routed through the [Community Programs applications automated workflows](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs). **Only Developer Relations team members** should handle these applications and opportunities because the team verifies program requirements before issuing/renewing licenses and these opportunities are handled differently since the opportunities are free.
+GitLab provides free licenses to qualifying entities through the [Community Programs](/handbook/marketing/developer-relations/community-programs/): [GitLab for Education Program](/solutions/education/), [GitLab for Open Source Program](/solutions/open-source/) and [GitLab for Startups Program](/solutions/startups/). All applications to these programs are routed through the [Community Programs applications automated workflows](/handbook/marketing/developer-relations/community-programs/automated-community-programs). **Only Developer Relations team members** should handle these applications and opportunities because the team verifies program requirements before issuing/renewing licenses and these opportunities are handled differently since the opportunities are free.
 
 #### Inquiry and Application Process (Leads or Contacts)
 
-1. If an existing contact or new lead is interested in applying to one of the programs, use the [Community Programs lead routing matrix](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/#inbound-sales-requests-routing-workflows) to determine how best to assist. If the lead has specific questions, direct them to send an email to `education@gitlab.com`, `startups@gitlab.com`, or `opensource@gitlab.com`. Then reassign the lead to the appropriate program manager.
+1. If an existing contact or new lead is interested in applying to one of the programs, use the [Community Programs lead routing matrix](/handbook/marketing/developer-relations/community-programs/#inbound-sales-requests-routing-workflows) to determine how best to assist. If the lead has specific questions, direct them to send an email to `education@gitlab.com`, `startups@gitlab.com`, or `opensource@gitlab.com`. Then reassign the lead to the appropriate program manager.
 1. In the situation that you need direct assistance with the lead/contact, chatter the program manager in Salesforce with a note about the requested action.
 
 #### Assigning Opportunities and Renewal Opportunities
@@ -572,23 +572,23 @@ If a discount has been applied to a quote pursuant to a signed agreement between
 
 #### Channel Quote Approval
 
-Under the [**GitLab Partner Program**](https://about.gitlab.com/handbook/resellers/#gitlab-partner-program-overview), signed Channel Partners are granted specific, contractual discounts depending on the product, Partner Deal Type, and the Partner Engagement type. This information is automatically captured at the opportunity level. For more information, review the [SFDC Field Definitions](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#sfdc-field-definitions) and the [Partner Program Discount Tables](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-program-discounts).
+Under the [**GitLab Partner Program**](/handbook/resellers/#gitlab-partner-program-overview), signed Channel Partners are granted specific, contractual discounts depending on the product, Partner Deal Type, and the Partner Engagement type. This information is automatically captured at the opportunity level. For more information, review the [SFDC Field Definitions](/handbook/sales/field-operations/channel-operations/#sfdc-field-definitions) and the [Partner Program Discount Tables](/handbook/sales/field-operations/channel-operations/#partner-program-discounts).
 
 **Only GitLab-authorized partners who have completed one sales certification may transact a GitLab order.**
 
 **Quote Approvals:** The Quote Approval module identifies channel deals (subscription deals only) and manages the necessary approvals automatically. If the discount applied to the quote is *less* than the GitLab Partner Program discount, discount approval is required by the regional Channel Approver listed in the [Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=kix.y33malxy9ex9). If the discount applied is *more* than the GitLab Partner Program discount, the added discount portion is subject to standard approvals listed in the [Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=kix.7goasfb500q2). Effective FY24 Q2, only the portion of the discount that *exceeds* the GitLab Partner Program discount will be subject to approvals.
 
-**To request approval on a quote, follow the steps above: [Standard Quote Approval](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#standard-quote-approval)**
+**To request approval on a quote, follow the steps above: [Standard Quote Approval](/handbook/sales/field-operations/order-processing/#standard-quote-approval)**
 
-**Channel Approvers:** More information regarding regional Channel Approvers can be found [here](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#channel-approvals).
+**Channel Approvers:** More information regarding regional Channel Approvers can be found [here](/handbook/sales/field-operations/channel-operations/#channel-approvals).
 
-In the event that you require escalation for an approval request, please [reach out to Deal Desk](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-to-communicate-with-us). Deal Desk will override the approvals as applicable or help seek approvals from necessary parties.
+In the event that you require escalation for an approval request, please [reach out to Deal Desk](/handbook/sales/field-operations/sales-operations/#how-to-communicate-with-us). Deal Desk will override the approvals as applicable or help seek approvals from necessary parties.
 
-The quote approval module and approval workflow outlined above **does not apply to Public Sector opportunities**. For more information on opportunity requirements for Public Sector, check out the [Public Sector Opportunity requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/).
+The quote approval module and approval workflow outlined above **does not apply to Public Sector opportunities**. For more information on opportunity requirements for Public Sector, check out the [Public Sector Opportunity requirements](/handbook/sales/field-operations/order-processing/).
 
 ### Where do I find the partner's contractual discount?
 
-The quoting system will provide visibility into the correct programmatic partner discount. On the quote object, each line will be stamped with the “Partner Programmatic Discount.” This field is populated by the system, but does not provide any actual discount to the quote. In order to apply the discount to the quote, this amount should be entered into the “Discount %” field on the edit products page. To confirm that the discount is correct, go to the opportunity and look at the Partner Deal Type, and then look at the Partner Engagement. Next, reference the appropriate [Partner Program Discount Table](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-program-discounts). The product, Engagement, and Deal Type will allow you to find the proper discount in the matrix..
+The quoting system will provide visibility into the correct programmatic partner discount. On the quote object, each line will be stamped with the “Partner Programmatic Discount.” This field is populated by the system, but does not provide any actual discount to the quote. In order to apply the discount to the quote, this amount should be entered into the “Discount %” field on the edit products page. To confirm that the discount is correct, go to the opportunity and look at the Partner Deal Type, and then look at the Partner Engagement. Next, reference the appropriate [Partner Program Discount Table](/handbook/sales/field-operations/channel-operations/#partner-program-discounts). The product, Engagement, and Deal Type will allow you to find the proper discount in the matrix..
 
 
 ### Service Attach Quote Approval
@@ -663,7 +663,7 @@ If an opportunity meets the criteria listed above, but does not meet the Minimum
 
 1. Waived True-Ups require written approvals per the [approval matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.dccvx02huo2y). Approvals should be sought in SFDC Chatter on the related Opportunity.
 2. After approval is obtained, Sales should create the appropriate opportunity and quote. Typically, true up waivers are required after renewal, and thus require an Add-On opportunity with an amend subscription quote. The true up SKU must be added to the same subscription that incurred the overage. On the quote, Sales should apply the appropriate true up SKU and quantity approved to be waived, at a 100% discount. After saving the quote, Sales should tag @Sales-Support to override the quote approval requirement.
-3. Like all GitLab deals, waived true up orders must meet booking requirements as described [here](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements). In most cases, that means that the customer must sign a $0 Order Form, or issue a $0 PO.
+3. Like all GitLab deals, waived true up orders must meet booking requirements as described [here](/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements). In most cases, that means that the customer must sign a $0 Order Form, or issue a $0 PO.
 3. Upon booking the true up waiver opportunity, Order Management will notify @Revenue of the waiver in SFDC chatter.
 4. After being notified, the Revenue team will review the case, and will calculate the amount of the ARR allocation. The Revenue team will then add it to the ARR Allocations Tracker.
 5. After calculating the ARR allocation, the Revenue team will communicate the impact in Chatter. This ARR allocation will be communicated wtihin 3-5 days of the initial notification to the Revenue Team.
@@ -767,7 +767,7 @@ If a quote has a <span style="color:green">**green circle**</span> at the top of
 
 #### How to Generate an Order Form as a PDF
 
-1. Once a [quote has been approved](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-submit-a-quote-for-discount-and-payment-term-approval), review the Quote Template to ensure you have selected the correct form for the transaction. The default template for all transaction types (new, amendment, or renewals) will be the Standard Order Form. If you want to select a different template, click the search icon next to the Order Form Template field and select the desired template. A description of each template will be visible next to each template.
+1. Once a [quote has been approved](/handbook/sales/field-operations/order-processing/#how-to-submit-a-quote-for-discount-and-payment-term-approval), review the Quote Template to ensure you have selected the correct form for the transaction. The default template for all transaction types (new, amendment, or renewals) will be the Standard Order Form. If you want to select a different template, click the search icon next to the Order Form Template field and select the desired template. A description of each template will be visible next to each template.
 1. On the quote, click `Generate PDF Doc`. The document will be saved as an attachment in the Notes and Attachments section in the opportunity record.
 1. Pre-approved Legal Language can be added to some order forms through Toggle Field selections available on the quote object. To edit these fields, Click "Edit Quote Details".
 1. Non-standard Legal Language needs to be reviewed, approved, and added manually by Legal. Please open a Legal Request case if non-standard contract terms need to be to include on your Order Form.
@@ -778,11 +778,11 @@ The first time you login to DocuSign from SFDC, you will be required to Authoriz
 
 1. After clicking on the “Send with DocuSign” button, you will be prompted with this screen. Select “Authorize” to continue.
 
-      ![DocuSign 1](https://about.gitlab.com/handbook/sales/images/docusign1.png)
+      ![DocuSign 1](/handbook/sales/images/docusign1.png)
 
 2. On the next screen, login to your DocuSign account. Enter your GitLab email address and click continue. This will automatically log you in with OKTA.
 
-      ![DocuSign 2](https://about.gitlab.com/handbook/sales/images/docusign2.png)
+      ![DocuSign 2](/handbook/sales/images/docusign2.png)
 
 3. Once logged in, click “Accept” to grant access to DocuSign.
 4. On the next screen, click “Allow” to grant DocuSign access to Salesforce.
@@ -790,7 +790,7 @@ The first time you login to DocuSign from SFDC, you will be required to Authoriz
 
 #### How to Send an Order Form to the Customer for Signature via DocuSign
 
-![DocuSign 4](https://about.gitlab.com/handbook/sales/images/docusign4.png)
+![DocuSign 4](/handbook/sales/images/docusign4.png)
 
 To send a digital copy of an Order Form to the customer via DocuSign:
 
@@ -799,7 +799,7 @@ To send a digital copy of an Order Form to the customer via DocuSign:
 3. Confirm the PDF has been generated under the “Google Docs, Notes & Attachments” section on the opportunity.
 4. From the Opportunity, select the “Send with DocuSign” button.
 
-      ![DocuSign 5](https://about.gitlab.com/handbook/sales/images/docusign5.png)
+      ![DocuSign 5](/handbook/sales/images/docusign5.png)
 
 5. Here, a DocuSign window appears with the **most recent** file selected by default.
 - Preview the document by clicking on the document name.
@@ -856,7 +856,7 @@ To send a digital copy of an Order Form to the customer via DocuSign:
 
 1. From the Opportunity level in our Salesforce instance, you can view the status of a document by hovering over the “DocuSign Envelope Status.
 
-      ![DocuSign 6](https://about.gitlab.com/handbook/sales/images/docusign6.png)
+      ![DocuSign 6](/handbook/sales/images/docusign6.png)
 
  - Once the document has been sent the status will state “Sent.”
  - Once the document has been signed the status will update to “Completed.”
@@ -867,7 +867,7 @@ To send a digital copy of an Order Form to the customer via DocuSign:
 
 **Internal Resources:**
 - For a visual demo of GitLab’s DocuSign instance, review this [LevelUP Webinar from 2021-05-13](https://youtu.be/Dch4zaUQOeg)
-- Note: If you cannot view the video, make sure you are logged in to GitLab Unfiltered. [You can learn more about how to log in or request access to GitLab Unfiltered here!](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube)
+- Note: If you cannot view the video, make sure you are logged in to GitLab Unfiltered. [You can learn more about how to log in or request access to GitLab Unfiltered here!](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube)
 
 **DocuSign University:**
 - [Send Your First Envelope](https://dsu.docebosaas.com/learn/course/620)
@@ -1035,7 +1035,7 @@ Requirements to Close Deal:
 
 Closing the Deal:
 
-1. At the time of deal closure, Order Management will adjust the Start Date on the Quote and Opportunity as per the [Bookings Policy](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#bookings-policy) applicable to new subscriptions. **Order Management will also update the price to reflect the margin taken by AWS. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
+1. At the time of deal closure, Order Management will adjust the Start Date on the Quote and Opportunity as per the [Bookings Policy](/handbook/sales/field-operations/order-processing/#bookings-policy) applicable to new subscriptions. **Order Management will also update the price to reflect the margin taken by AWS. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
 1. Note that the AWS account is permanently set to silent, and no invoices created will go to AWS.
 1. If the customer purchases Self-Managed, the license key file will automatically be sent to the 'Sold To' contact from the quote. If the customer purchases SaaS, the subscription will automatically be sent/updated for use at time of booking. Note: SaaS subscriptions purchased through AWS (or any reseller) will typically require support intervention because end-users do not have access to the customer portal. GitLab support includes a message in the purchase email that instructs users to contact support via a ticket for assistance.
 ACTION: Opportunity Owner: Confirm the customer receives the license within 2 days of oppty closed-won. If the customer has not received license details, open an issue: [GitLab Support Request](https://gitlab-com.gitlab.io/support/internal-requests-form/) and use the template for License Key or SaaS Subscription.
@@ -1122,7 +1122,7 @@ A copy of the Distributor PO to GitLab must be attached to the opportunity. The 
 
 After the ISR or Account manager confirms the Distributor PO is correct, a quote object will be created on the opportunity to match the Distributor PO to GitLab.
 
-1. A quote object will be created to match the Distributor PO to GitLab. Most public sector quotes will follow the [standard quote creation process](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes).
+1. A quote object will be created to match the Distributor PO to GitLab. Most public sector quotes will follow the [standard quote creation process](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes).
 2. The Distibutor PO Number must be entered on the Quote Object Prior to submitting for approval.
 3. The Sold To and Bill To Contact on the quote object must have a complete address that matches the address used on the Distributor PO to GitLab.
 4. The Distributor PO to GitLab must be within $1.00 (USD) of the Quote object in order to be accepted.
@@ -1133,7 +1133,7 @@ After the ISR or Account manager confirms the Distributor PO is correct, a quote
 <details>
 <summary markdown="span"><b>Booking Requirements for Professional Services opportunities</b></summary>
 
-Review the [Professional Services handbook page](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#professional-services-handbook) for in-depth information on Professional Services and the [Deal Desk handbook page for the details of PS quote creation](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-professional-services).
+Review the [Professional Services handbook page](/handbook/customer-success/professional-services-engineering/#professional-services-handbook) for in-depth information on Professional Services and the [Deal Desk handbook page for the details of PS quote creation](/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-professional-services).
 
 1. If a Professional Services Opportunity only includes any of these off-the-shelf SKUs
     - Note: Professional Services must be sold on standalone opportunity with the ***Opportunity Record Type*** set to ***Professional Services Only***. They must not be sold on the same opportunity as subscription products. The opportunity should be created by going to the Open or Closed Won license opportunity and clicking on the New PS Opportunity button. This will generate a related PS opp.
@@ -1160,7 +1160,7 @@ This policy dictates the timing of opportunity closure for all sales-assisted de
 - <ins>New Business and Add-On opportunities</ins> will be Closed Won *no more than 15 days prior to the Quote Start Date* as reflected on the opportunity.
   - New Business and Add-On opportunities submitted for approval after the Quote Start Date will be Closed Won on the date of approval submission.
     - *New Business Example: A customer would like to purchase a new subscription starting on May 1, 2021. The deal is worked out early, and all necessary booking documents are received on March 1, 2021. Sales submits the opportunity for approval on March 2, 2021. The deal is then reviewed by Deal Desk, but the close date is updated to April 16, 2021 upon Deal Desk approval. The opportunity is held in stage 7-Closing until April 16, 2021, when Billing approves the opportunity and sends an invoice to the customer.*
-  - Ramp Deals: All future-year ramp opportunities will be Closed Won at the same time as the first-year ramp opportunity. Post-closure, any out-year ramp opportunity close dates will updated to match the start date of the ramp. See: [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals)
+  - Ramp Deals: All future-year ramp opportunities will be Closed Won at the same time as the first-year ramp opportunity. Post-closure, any out-year ramp opportunity close dates will updated to match the start date of the ramp. See: [ARR in Practice](/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals)
     - *Ramp Deal Example: A customer would like to purchase a new three-year ramped subscription starting on May 1, 2021. Three opportunities are built for this deal - one for Year 1 (2021-05-01 to 2022-04-30), one for Year 2 (2022-05-01 to 2023-04-30), and one for Year 3 (2023-05-01 to 2024-04-30). The deal is worked out early, and all necessary booking documents are received on March 1, 2021. Sales submits the opportunities for approval on March 2, 2021. The opportunities are then reviewed by Deal Desk. Upon Deal Desk Approval, the Year 1 close date is updated to April 16, 2021. The Year 2 close date is updated to April 16, 2022. The Year 3 close date is updated to April 16, 2023. The opportunity are held in stage 7-Closing until April 16, 2021, when Billing approves the opportunities and sends an invoice to the customer.*
 
 ##### Renewal Opportunities
@@ -1168,7 +1168,7 @@ This policy dictates the timing of opportunity closure for all sales-assisted de
 - <ins>Renewal opportunities</ins> will be Closed Won *no more than 15 days prior to the Quote Start Date* (i.e. the Renewal Date) as reflected on the opportunity.
   - Renewal opportunities submitted for approval after the Quote Start Date (i.e. Renewal Date) will be Closed Won on the date of approval submission.
     - *Renewal Example: A customer's subscription has a renewal date of May 1, 2021. The renewal is worked out early, and all necessary booking documents are received on March 1, 2021. Sales submits the opportunity for approval on March 2, 2021. The deal is then reviewed by Deal Desk, but the close date is updated to April 16, 2021 upon Deal Desk approval. The opportunity is held in stage 7-Closing until April 16, 2021, when Billing approves the opportunity and sends an invoice to the customer.*
-  - Ramp Deals: All future-year ramp opportunities will be Closed Won on the same date as the first-year ramp opportunity, but the close date will be updated after closure to match the Quote Start Date. See: [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals)
+  - Ramp Deals: All future-year ramp opportunities will be Closed Won on the same date as the first-year ramp opportunity, but the close date will be updated after closure to match the Quote Start Date. See: [ARR in Practice](/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals)
 
 ##### Late Renewals
 
@@ -1176,10 +1176,10 @@ This policy dictates the timing of opportunity closure for all sales-assisted de
 - **Renewal opportunities must be Closed Lost if the renewal is not achieved within 15 days after the Subscription Renewal Date (Renewal Date).**
      - See the [Late Renewal Notification & Auto Close Processes](https://internal.gitlab.com/handbook/sales/go-to-market/renewals/#late-renewal-notification--auto-close-process) section of the handbook for details on how the system automatidally supports the 30 day late renewal policy.
 - If a renewal is achieved *more than 15 days after the Renewal Date, but less than 180 days after the Renewal Date*:
-  - The renewal should be recorded on a newly created renewal opportunity. The renewal should be quoted using a [New Subscription quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote). See: [Opportunity Requirements for Return Customers](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-return-customers)
-  - The original Closed Lost opportunity will remain as is. A second Closed Lost opportunity will be created and closed with the inverse values of the original, to effectively cancel the original Closed Lost opportunity. This new Closed Lost opportunity will have the same close date as the new Closed Won renewal opportunity. See: [Opportunity Requirements for Return Customers](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-return-customers)
+  - The renewal should be recorded on a newly created renewal opportunity. The renewal should be quoted using a [New Subscription quote](/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote). See: [Opportunity Requirements for Return Customers](/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-return-customers)
+  - The original Closed Lost opportunity will remain as is. A second Closed Lost opportunity will be created and closed with the inverse values of the original, to effectively cancel the original Closed Lost opportunity. This new Closed Lost opportunity will have the same close date as the new Closed Won renewal opportunity. See: [Opportunity Requirements for Return Customers](/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-return-customers)
 - If a renewal is achieved *more than 180 days after the Renewal Date*:
-  - The transaction should be recorded as a New Business opportunity, using a [New Subscription quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote). The original Closed Lost opportunity will not be reversed.
+  - The transaction should be recorded as a New Business opportunity, using a [New Subscription quote](/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote). The original Closed Lost opportunity will not be reversed.
 
 **Exceptions:**
 - Any exceptions to the Late Renewal Policy or to the 15-day booking policy must be **documented in SFDC Chatter and include the following details**:
@@ -1194,10 +1194,10 @@ This policy dictates the timing of opportunity closure for all sales-assisted de
 
 
 **Do I have to wait to submit my opportunity for approval?**
-- All opportunities that meet the [Opportunity Booking Requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements) listed above should be submitted for approval at the time that the requirements are met. In order to submit the opportunity for approval, the opportunity stage needs to be changed to 6 - Awaiting Signatures, then the Submit for Approval button should be clicked. After that, the opportunity stage changes automatically to 7 - Closing and it will be changed to Closed Won once both Order Management and Billing Ops Teams approved the opportunity.
+- All opportunities that meet the [Opportunity Booking Requirements](/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements) listed above should be submitted for approval at the time that the requirements are met. In order to submit the opportunity for approval, the opportunity stage needs to be changed to 6 - Awaiting Signatures, then the Submit for Approval button should be clicked. After that, the opportunity stage changes automatically to 7 - Closing and it will be changed to Closed Won once both Order Management and Billing Ops Teams approved the opportunity.
 
 **My customer is waiting for their license key (self-managed) or provisioning email (SaaS). When will they receive their entitlements?**
-- See [How do I know if a License Key was sent to the Customer?](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-do-i-know-if-a-license-key-was-sent-to-the-customer) below.
+- See [How do I know if a License Key was sent to the Customer?](/handbook/sales/field-operations/order-processing/#how-do-i-know-if-a-license-key-was-sent-to-the-customer) below.
 
 #### End of Quarter Bookings
 
@@ -1294,13 +1294,13 @@ Note: If an exception is granted and the PO is not received within 10 days, on t
 
 ### Opportunity Approval Process
 
-When you have reviewed [all opportunity requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) and have met all necessary booking requirements, please submit the opportunity for approval.
+When you have reviewed [all opportunity requirements](/handbook/sales/field-operations/order-processing/) and have met all necessary booking requirements, please submit the opportunity for approval.
 
 1. **To submit the opportunity for approval and closure, the Sales Rep should set the opportunity stage to 6-Awaiting Signature and afterwards click on the “Submit for Approval” button on the opportunity level.**
     - The opportunity page will then display “edit” mode. Click Save.
 1. At this time, no further action is required from the Account Team. You will be notified by the Order Management team if further information is needed or if the opp is missing required information.
 
-**NOTE** - Orders will be processed as long as the Quote Start Date is within 15 calendar days from date of submission. If the Quote Start Date is more than 15 days out, Order Management will approve and update the close date to the earliest date that the opportunity can be booked. Only on or after that date will the Billing team review the opportunity for final booking. For more information, review the [Bookings Policy](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#bookings-policy).
+**NOTE** - Orders will be processed as long as the Quote Start Date is within 15 calendar days from date of submission. If the Quote Start Date is more than 15 days out, Order Management will approve and update the close date to the earliest date that the opportunity can be booked. Only on or after that date will the Billing team review the opportunity for final booking. For more information, review the [Bookings Policy](/handbook/sales/field-operations/order-processing/#bookings-policy).
 
 #### What happens when you Submit an Opportunity for approval?
 

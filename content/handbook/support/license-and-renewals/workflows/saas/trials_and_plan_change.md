@@ -86,14 +86,14 @@ Plan changes should **never** be done manually except in the following cases:
 
 Plan changes on a paid non-trial namespace should be done through a subscription purchase.
 
-If a manual plan change is required for non-emergencies, a [legal issue](https://about.gitlab.com/handbook/legal/#3-other-legal-requests) must be created and approved by legal as manually changing a plan causes data discrepancies, can cause legal issues, and can cause bug issues.
+If a manual plan change is required for non-emergencies, a [legal issue](/handbook/legal/#3-other-legal-requests) must be created and approved by legal as manually changing a plan causes data discrepancies, can cause legal issues, and can cause bug issues.
 
 ### Downgrading to a free plan
 
 Before actioning a downgrade request:
 
-1. Ensure that the requester provides authorization per the [Ownership verification workflow](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#ownership-verification).
-1. Determine whether they want to pursue a refund. If they do, then follow the [refunds workflow](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#refunds).
+1. Ensure that the requester provides authorization per the [Ownership verification workflow](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases#ownership-verification).
+1. Determine whether they want to pursue a refund. If they do, then follow the [refunds workflow](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments#refunds).
 
 | Example Ticket | Date |
 | --- | --- |
@@ -135,7 +135,7 @@ To extend a trial SaaS extension.
 
 1. The NFR partner needs to either signup for a trial at: <https://about.gitlab.com/free-trial/> or start a trial from within their current GitLab namespace.
 1. Once they have a valid namespace for their trial they need to provide this to support.
-1. The support engineer requires [console access to CustomersDot](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html) to GitLab Rails to update the namespace.
+1. The support engineer requires [console access to CustomersDot](/handbook/support/license-and-renewals/workflows/customersdot/customer_console) to GitLab Rails to update the namespace.
 1. Within the CustomersDot rails console you should execute the command: ``` view_namespace '<group name space>' ```
 1. This will return the partners namespace information and order information. Get the order 'id' (i.e. 123456), you will need it for the next command.
 

@@ -14,15 +14,15 @@ description: "Successful management includes onboarding, reviewing Command Plans
 
 Welcome to the Enterprise Area Sales Manager Handbook. You can use the [Enterprise Area Sales Manager Playbook](https://docs.google.com/presentation/d/1HmzgSsau959CSZxEOoXCHdFS9h6a0vvvtDMVsFX57yo/edit?usp=sharing) for a 1-page view of what's on this page. It includes key activities an Enterprise Area Sales Manager leads as they manage their team and area. Think of it as a guide (not hard and fast mandates) to help you manage your business and optimize results.
 
-The below detail offers additional guidance on how responsibilities and activities are managed, and has been sourced from experienced GitLab Enterprise ASMs and leaders. When thinking about 'what good looks like' in this department, refer to your [job family](/job-families), the [field competencies](https://about.gitlab.com/handbook/sales/training/field-functional-competencies/), our [manager and leadership competencies](/handbook/competencies/#manager-and-leadership-competencies), and our [GitLab values](/handbook/values/).
+The below detail offers additional guidance on how responsibilities and activities are managed, and has been sourced from experienced GitLab Enterprise ASMs and leaders. When thinking about 'what good looks like' in this department, refer to your [job family](/job-families), the [field competencies](/handbook/sales/training/field-functional-competencies/), our [manager and leadership competencies](/handbook/competencies/#manager-and-leadership-competencies), and our [GitLab values](/handbook/values/).
 
 ## Quick links
 
-- [**Enterprise Sales handbook page**](https://about.gitlab.com/handbook/sales/playbook/#overview): This page is the home base for Enterprise Sales and includes links to our content hub (Highspot), training hub, slack channels, tools, strategy and planning resources. It also includes all resources for our Enterprise Accounts Executives (AEs), including major and strategic roles, like the Enterprise Account Executive playbook.
+- [**Enterprise Sales handbook page**](/handbook/sales/playbook/#overview): This page is the home base for Enterprise Sales and includes links to our content hub (Highspot), training hub, slack channels, tools, strategy and planning resources. It also includes all resources for our Enterprise Accounts Executives (AEs), including major and strategic roles, like the Enterprise Account Executive playbook.
 - [**Enterprise Sales update ticker**](https://docs.google.com/document/d/18SfdalBZDQyhnN0X7LwCRQmSfv3iiK59JPuj85f6Zkc/edit): This is updated weekly based on focus areas and key topics for the week. Bookmark it and consistently point your team back to it.
-- [**Sales handbook page**](https://about.gitlab.com/handbook/sales/#welcome-to-the-sales-team-homepage): This page has general sales guidance applicable to all roles and segments, including deal and order processing information, customer reference resources, executive sponsorship, and more.
+- [**Sales handbook page**](/handbook/sales/#welcome-to-the-sales-team-homepage): This page has general sales guidance applicable to all roles and segments, including deal and order processing information, customer reference resources, executive sponsorship, and more.
 - [**Enterprise Area Sales Manager playbook**](https://docs.google.com/presentation/d/1HmzgSsau959CSZxEOoXCHdFS9h6a0vvvtDMVsFX57yo/edit?usp=sharing): A 1-pager guide showing the typical operating rhythm that area sales managers use to run their business, manage their teams, and get results. It also includes key reports and dashboards to help you.
-- [**Enterprise Account Executive onboarding journey**](https://about.gitlab.com/handbook/sales/onboarding/#learning-journeys): An at-a-glance view of your team member’s first 90 days, and the milestones they should reach during this time.
+- [**Enterprise Account Executive onboarding journey**](/handbook/sales/onboarding/#learning-journeys): An at-a-glance view of your team member’s first 90 days, and the milestones they should reach during this time.
 
 ## Strategic sales planning
 
@@ -48,22 +48,22 @@ While this type of strategic planning is a material up-front time investment, it
 
 Following a territory plan, a AE has identified and prioritized the accounts they are going to focus on to reach their goals. For their top accounts, each AE should prioritze the ones they’re going to create account plans for and agree with their ASM on the level of detail required. Account planning should occur quarterly, if not more frequently.
 
-High-level account plans are often shared using a [strategic account plan template](https://docs.google.com/presentation/d/1AcwkYebTZ9mPfGsKlzd5IvppB_cc8to9z_yUvievSL4/edit?usp=sharing), and can be stored alongside territory plans. Detail and month to month maintenance usually occurs in Gainsight in collaboration with Customer Success Managers (CSMs) for expand accounts that have a CSM assigned. CS team members and AEs can build joint success plans in [Gainsight and use it to view customer product usage and health scoring](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#quick-links).
+High-level account plans are often shared using a [strategic account plan template](https://docs.google.com/presentation/d/1AcwkYebTZ9mPfGsKlzd5IvppB_cc8to9z_yUvievSL4/edit?usp=sharing), and can be stored alongside territory plans. Detail and month to month maintenance usually occurs in Gainsight in collaboration with Customer Success Managers (CSMs) for expand accounts that have a CSM assigned. CS team members and AEs can build joint success plans in [Gainsight and use it to view customer product usage and health scoring](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#quick-links).
 
 
 ## Reviews and consults
 
 #### Quarterly Business Reviews (QBRs)  
 
-[QBRs](https://about.gitlab.com/handbook/sales/qbrs/#best-practices-for-rdsasmssalsaes) happen during the first two weeks of each quarter for the previous quarter. Preparation usually starts about two weeks before that. QBR decks are stored in our [Google Drive (GitLab internal only)](https://drive.google.com/drive/u/0/folders/1QAWFYxT2-NzWpOUodepbl0O6zfsMxJGL).
+[QBRs](/handbook/sales/qbrs/#best-practices-for-rdsasmssalsaes) happen during the first two weeks of each quarter for the previous quarter. Preparation usually starts about two weeks before that. QBR decks are stored in our [Google Drive (GitLab internal only)](https://drive.google.com/drive/u/0/folders/1QAWFYxT2-NzWpOUodepbl0O6zfsMxJGL).
 
 #### Account reviews:
 
-Initially, ASMs and CSM Managers may want or need to partner on scheduling and facilitating these reviews, but regular account reviews should eventually become part of an account team's normal operating rhythm. See [Coaching Account Planning for ASMs](https://about.gitlab.com/handbook/sales/account-planning/coaching/) for additional guidance.
+Initially, ASMs and CSM Managers may want or need to partner on scheduling and facilitating these reviews, but regular account reviews should eventually become part of an account team's normal operating rhythm. See [Coaching Account Planning for ASMs](/handbook/sales/account-planning/coaching/) for additional guidance.
 
 Accounts reviews are conducted quarterly (or more frequently as needed) at various points in the quarter, usually over a 2-week period. The extended account team (AEs, SA, CSM, SDR) is encouraged to participate and contribute.
 
-Customer Success participation is critical to ensure alignment between the account plan and the customer success plan (see [What is the Difference Between an Account Plan and a Success Plan?](https://about.gitlab.com/handbook/sales/account-planning/#what-is-the-difference-between-an-account-plan-and-a-success-plan)).
+Customer Success participation is critical to ensure alignment between the account plan and the customer success plan (see [What is the Difference Between an Account Plan and a Success Plan?](/handbook/sales/account-planning/#what-is-the-difference-between-an-account-plan-and-a-success-plan)).
 
 #### Partner Reviews
 
@@ -76,7 +76,7 @@ ASMs either host or participate in these depending on who owns the activity (thi
 
 #### Opportunity Reviews
 
-[Opportunity consults](https://about.gitlab.com/handbook/sales/command-of-the-message/opportunity-consults/) are deal reviews that focus on helping a sales team member maximize the likelihood of winning and securing the customer's business. They are based on a joint inspection of the "health" of the opportunity's [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/) and a 2-way dialogue to identify and commit to specific actions that aim to increase the likelihood of success.
+[Opportunity consults](/handbook/sales/command-of-the-message/opportunity-consults/) are deal reviews that focus on helping a sales team member maximize the likelihood of winning and securing the customer's business. They are based on a joint inspection of the "health" of the opportunity's [Command Plan](/handbook/sales/command-of-the-message/command-plan/) and a 2-way dialogue to identify and commit to specific actions that aim to increase the likelihood of success.
 
 **Using the Command Plan in an opportunity consult.** Every key opportunity, especially for key accounts, should have a command plan associated with it. This gives the business visibility into the opportunity, how it’s developing, and highlights where they can support and coach the AE on progressing it forward. Our command plan reviews follow the Command of the Message Sales Methodology, and incorproate MEDDPPICC.
 
@@ -121,7 +121,7 @@ Month 2 and Month 3 forecast & pipeline reviews are typically scheduled for 2 ho
 We have detailed guidance on Sales Forecasting, Opportunity Management, and using our tools to review on the [internal handbook page](https://internal.gitlab.com/handbook/sales/sales-forecasting/).  Guide AEs to [the Clari cheat sheet](https://docs.google.com/presentation/d/1ZvQzFrmmqsJPUIk_FxfTy5X0G59IIWDve0Rfmfw1Wec/edit#slide=id.g133719dda83_2_102) and #sales-support Slack channel for additional support.
 - **AEs should be empowered to be the CEO of their own territory and manage their business accordingly.** ASMs will need to manage the agenda to ensure the team doesn't get bogged down in too much detail and encourage AEs to focus on the bigger picture. More specifically, even the best AEs will miss their quarterly quota from time to time. What's important is that the AE and ASM are aware of the risk in advance and that there is sufficient pipeline in other quarters to make up for a down quarter.
 - **It’s not a performance review.** ASMs should also continuously reinforce that the dashboards, heat map, and other resources listed below are for the AE's benefit (not management tools) and to help them effectively manage their business.
-- **3.5x is the rule of thumb for pipeline.** A general rule of thumb is that a AE has 3.5x their target in pipeline (view the [Prospecting handbook page](https://about.gitlab.com/handbook/sales/prospecting/#build-your-strategy) for in-depth guidance). During strategic planning they should identify this number and then work backwards to determine the value they need to deliver every quarter and every month.
+- **3.5x is the rule of thumb for pipeline.** A general rule of thumb is that a AE has 3.5x their target in pipeline (view the [Prospecting handbook page](/handbook/sales/prospecting/#build-your-strategy) for in-depth guidance). During strategic planning they should identify this number and then work backwards to determine the value they need to deliver every quarter and every month.
 
 
 
@@ -129,17 +129,17 @@ We have detailed guidance on Sales Forecasting, Opportunity Management, and usin
 
 [Coaching and mentoring](/handbook/leadership/coaching/) happens throughout the development of your team member, as well as during business as usual activities like territory planning, account planning, sales calls, prospecting and pipeline reviews, opportunity reviews, and the list goes on and on.
 
-Follow [Performance Management best practices](https://about.gitlab.com/handbook/sales/field-manager-development/#performance-management-and-giving-feedback), and leverage [GitLab's Field Functional Competencies](https://about.gitlab.com/handbook/sales/training/field-functional-competencies/) to reinforce the critical skills and behaviors that will lead to desired outcomes/results.
+Follow [Performance Management best practices](/handbook/sales/field-manager-development/#performance-management-and-giving-feedback), and leverage [GitLab's Field Functional Competencies](/handbook/sales/training/field-functional-competencies/) to reinforce the critical skills and behaviors that will lead to desired outcomes/results.
 
 ASMs should focus on providing coaching and mentoring in a collaborative and proactive way. Examples include but are not limited to:
-- Reinforce [effective discovery](https://about.gitlab.com/handbook/sales/playbook/discovery/) best practices
-- Maintain proper focus on customer value ([Command of the Message](https://about.gitlab.com/handbook/sales/command-of-the-message/)) and avoid technical rabbit holes
+- Reinforce [effective discovery](/handbook/sales/playbook/discovery/) best practices
+- Maintain proper focus on customer value ([Command of the Message](/handbook/sales/command-of-the-message/)) and avoid technical rabbit holes
 - Identify when and how to position GitLab's holistic differentiators to the right people at the right time
 - Help newer AEs understand the context behind industry terms/concepts like application refactoring, microservices, Kubernetes, and more
-- Improve the quality of [Command Plans](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/)
+- Improve the quality of [Command Plans](/handbook/sales/command-of-the-message/command-plan/)
 
 ASMs routinely participate in sales calls with their new AEs or with AEs working on extremely complex, strategic, or high-impact deals including:
-- Helping with meeting prep (see [Develop a Pre-Call Plan](https://about.gitlab.com/handbook/sales/playbook/discovery/#develop-a-pre-call-plan))
+- Helping with meeting prep (see [Develop a Pre-Call Plan](/handbook/sales/playbook/discovery/#develop-a-pre-call-plan))
 - Participating on the call
 - Debriefing immediately after the call
 
@@ -151,7 +151,7 @@ Last but not least, ASMs also assess their teams annually following the [Perform
 
 ## Onboarding new team members
 
-All team members go through an onboarding journey by segment and role. [View the AE onboarding journey here.](https://about.gitlab.com/handbook/sales/onboarding/#learning-journeys). In it, AEs are assigned the following activities:
+All team members go through an onboarding journey by segment and role. [View the AE onboarding journey here.](/handbook/sales/onboarding/#learning-journeys). In it, AEs are assigned the following activities:
 - Standard GitLab onboarding issue (1-2 weeks): AEs should complete all ‘red dot’ tasks in their onboarding issue, bookmark and organize key resources, and learn about the GitLab product they’re going to be selling
 - Customer Ready Shadow Program: Shadowing can start as soon as they take the 20-minute training in their onboarding issue.
 - Sales Quickstart (async pre-work and 1 week of ): This time should be spread across their first two weeks. This covers general sales methodology, DevOps landscape, MEDDPPICC, our portfolio of products, and our customers, personas, and their pain points.
@@ -169,7 +169,7 @@ ASMs should work with new AEs to develop and monitor progress against their 30/6
 
 ## Recruiting top talent
 
-Always be recruiting! As outlined in the [Winning Top Talent](https://about.gitlab.com/handbook/sales/field-manager-development/#winning-top-talent) portion of the GitLab Field Manager Development Program, the importance of effective recruiting to GitLab's continued growth and success cannot be understated. ASMs should meet regularly with your Talent Acquisition Recruiter (exact cadence will vary based on hiring needs) and should also be comfortable and confident in selling the amazing opportunity here at GitLab.
+Always be recruiting! As outlined in the [Winning Top Talent](/handbook/sales/field-manager-development/#winning-top-talent) portion of the GitLab Field Manager Development Program, the importance of effective recruiting to GitLab's continued growth and success cannot be understated. ASMs should meet regularly with your Talent Acquisition Recruiter (exact cadence will vary based on hiring needs) and should also be comfortable and confident in selling the amazing opportunity here at GitLab.
 
 **Key Resources**
 - Success Profile
@@ -195,6 +195,6 @@ Manager effectiveness is important to GitLab’s continued ability to attract, d
 
 **Manager Challenge:** [The Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) addresses your specific needs to understand the qualities of a good leader and to master practical leadership styles that empower you to become a confident people leader. Effective leadership is grounded in your understanding of powerful interpersonal skills that inspire performance, communication, team member retention, and motivation to achieve results.
 
-**Field Manager Development Program:** Managers participate in a series of quarterly training & reinforcement exercises throughout each fiscal year. While there will be formal training elements, a large focus will be on social learning (learning from others) and practical, real-world application to convert knowledge to action. Learn more on the [Field Manager Development Program handbook page](https://about.gitlab.com/handbook/sales/field-manager-development/).
+**Field Manager Development Program:** Managers participate in a series of quarterly training & reinforcement exercises throughout each fiscal year. While there will be formal training elements, a large focus will be on social learning (learning from others) and practical, real-world application to convert knowledge to action. Learn more on the [Field Manager Development Program handbook page](/handbook/sales/field-manager-development/).
 
 

@@ -1,28 +1,7 @@
 ---
----
-aliases: /handbook/customer-success/professional-services-engineering/education-services/
-_index.md.html
-
----
-aliases: /handbook/customer-success/professional-services-engineering/education-services/
-{}.html
-
 title: "GitLab Professional Education Services"
 description: “Technical Learning and Certification from GitLab Professional Services”
 ---
----
-aliases: /handbook/customer-success/professional-services-engineering/education-services/
-_index.md.html
-
----
-aliases: /handbook/customer-success/professional-services-engineering/education-services/
-{}.html
-
-
-
-
-
-
 
 ## Professional Education Services Overview
 
@@ -41,7 +20,7 @@ The Professional Education Services [job task analysis](https://docs.google.com/
 
 The GitLab Professional Education Services team currently provides the following offerings:
 - [Live Instructor-led training (ILT)](https://about.gitlab.com/services/education/)
-- [GitLab Technical Certifications](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/) as Professional Service offerings.
+- [GitLab Technical Certifications](/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/) as Professional Service offerings.
 - [Train-the-Trainer](https://about.gitlab.com/services/education/train-the-trainer/)
 
 
@@ -62,7 +41,7 @@ The GitLab Professional Education Services team currently provides the following
 
 - [Professional Education Services Project Issues List](https://gitlab.com/gitlab-com/sales-team/professional-services/education-services/issues)
 - EdCast LXP/Marketplace User Instructions
-- [Thought Industries LMS Tech Stack Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/lms/)
+- [Thought Industries LMS Tech Stack Guide](/handbook/customer-success/professional-services-engineering/education-services/lms/)
 
 ### GitLab Training Service Partner Requirements  
 
@@ -88,7 +67,7 @@ Note that participation in this program is limited and requires GitLab program t
      </td>
      <td>
 
-- Each TSP must remain compliant with the either the Open, Select, or Distribution programs, and perpetually employ at least two (2) [GitLab Certified Trainers](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/)
+- Each TSP must remain compliant with the either the Open, Select, or Distribution programs, and perpetually employ at least two (2) [GitLab Certified Trainers](/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/)
 - Each TSP organization must be able to deliver at least four (4) GitLab courses
 - Each TSP organization must complete the competency requirements prior to 6 months after the last day of the quarter in which they enrolled in the certification process.
      </td>

@@ -38,7 +38,7 @@ The SKO core team also includes an executive sponsor (VP, Field Ops) with respon
 | Sub-Team | Responsibilities | Key Collaborators |
 | ------ | ------ | ------ |
 | Event Support & Logistics | - Brand / Design<br>- Budget management<br>- Venue details<br>- Partner Summit logistics<br>- F&B (onsite & offsite)<br>- Registration<br>- Run of show<br>- Event check-in<br>- Signage<br>- Mobile app<br>- Ancillary events (if applicable) | - Brand<br>- Field Enablement<br>- Channel Programs |
-| Content | - Mainstage content<br>- Non-mainstage content<br>- Partner Summit content<br>- Awards & Compensation<br>- Production Video<br><br> ** *see additional details in the [Content Sub-Team Deeper Dive](https://about.gitlab.com/handbook/sales/training/SKO/SKO-planning/#content-sub-team-deeper-dive) section below* | ** *see additional details in the [Content Sub-Team Deeper Dive](https://about.gitlab.com/handbook/sales/training/SKO/SKO-planning/#content-sub-team-deeper-dive) section below* |
+| Content | - Mainstage content<br>- Non-mainstage content<br>- Partner Summit content<br>- Awards & Compensation<br>- Production Video<br><br> ** *see additional details in the [Content Sub-Team Deeper Dive](/handbook/sales/training/SKO/SKO-planning/#content-sub-team-deeper-dive) section below* | ** *see additional details in the [Content Sub-Team Deeper Dive](/handbook/sales/training/SKO/SKO-planning/#content-sub-team-deeper-dive) section below* |
 | Communications | - Comms plan<br>- Event copy<br>- Slack channels<br>- Survey planning & execution<br>- Post-event content sharing<br>- Event summary / wrap-up | Events |
 
 ### Content Sub-Team Deeper Dive
@@ -86,7 +86,7 @@ In addition, the SKO planning team delivers CRO Leader Status Updates in the fol
 
 ## SKO "Call for Content"
 
-In order to drive relentless prioritization based on GitLab Sales Kickoff (SKO) theme/sub-themes/goals, gather content in a timely manner and secure executive consensus early, the SKO Core Team implements a "Call for Content" for SKO breakout sessions. A secondary benefit of this process is that it gives [Field Enablement](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/) a strong backlog of well-rounded training and enablement topics for topic submissions not selected or prioritized for SKO (e.g. webcast topics, etc.) in future months/quarters to support continuous education initiatives for the field organization. There are two types of breakout sessions:
+In order to drive relentless prioritization based on GitLab Sales Kickoff (SKO) theme/sub-themes/goals, gather content in a timely manner and secure executive consensus early, the SKO Core Team implements a "Call for Content" for SKO breakout sessions. A secondary benefit of this process is that it gives [Field Enablement](/handbook/sales/field-operations/field-enablement/) a strong backlog of well-rounded training and enablement topics for topic submissions not selected or prioritized for SKO (e.g. webcast topics, etc.) in future months/quarters to support continuous education initiatives for the field organization. There are two types of breakout sessions:
 
 1. **Role-Based Breakout Sessions:** Teaching skills and behaviors aligned to specific role(s) within the organization.
    1. Submit a role-based breakout session idea [using this issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=SKO-call-for-content-role-based-submission)
@@ -122,7 +122,7 @@ Below are the activities that Field Enablement Managers and Sales Kickoff (SKO) 
 Below is are the criteria used to select submissions for SKO breakout sessions.
 
 **Criteria**
-1. Content directly supports the [SKO objectives](https://about.gitlab.com/handbook/sales/training/SKO/#sales-kickoff-sko-overview)
+1. Content directly supports the [SKO objectives](/handbook/sales/training/SKO/#sales-kickoff-sko-overview)
 1. Proposed session is interactive and takes advantage of in-person modality
 1. High content quality
 1. Fresh content (not a rehash of old ideas or topics)

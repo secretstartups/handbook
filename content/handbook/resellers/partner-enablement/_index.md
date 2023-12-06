@@ -52,7 +52,7 @@ Learn what GitLab is, what it offers, and what it does
     - offers a wide variety of ways customers leverage GitLab (20 min read)
 
 **Additional References for You**
-  - [GitLab internal Sales Training Resources](https://about.gitlab.com/handbook/sales/training/) (Handbook)
+  - [GitLab internal Sales Training Resources](/handbook/sales/training/) (Handbook)
     - Review this page for all of the sales related training that internal GitLab sellers go through.
 
 
@@ -73,11 +73,11 @@ Learn how to identify the most valuable challenges and leverage the GitLab DevSe
 **Pitching GitLab and Technical Discovery**
   - [Positioning GitLab - Handbook Page](https://about.gitlab.com/handbook/positioning-faq/) (Handbook)
     - Review this page to learn about how to position GitLab in the market. (10 min)
-  - [GitLab Technical Discovery Guide](https://about.gitlab.com/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premium-and-ultimate) (Handbook)
+  - [GitLab Technical Discovery Guide](/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premium-and-ultimate) (Handbook)
     - Discovery is a crucial skill for any Solutions Architect (SA).  Here is how GitLab SA’s do their Discovery (10 min)
   - [User Personas](/handbook/product/personas/) (Handbook)
     - These are the persona types that are the primary users of GitLab inside your customer.
-  - [Buyer Personas](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) (Handbook)
+  - [Buyer Personas](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) (Handbook)
     - There are different buyer personas to understand when selling a Platform like GitLab.  Which do you value more? (20 min)
 
 **Competitive Information**
@@ -95,9 +95,9 @@ Learn how to identify the most valuable challenges and leverage the GitLab DevSe
     - “Effective GitLab Demos.” (40:16)  More resources and helpful hints are provided.  [Register for the Webinar](https://content.gitlab.com/viewer/63bddf02edadd0b1346a73db)!
   - [GitLab Partner Demos](https://gitlab.com/gitlab-partner-demos) (Project Catalog)
     - Public group containing demo projects developed by the GitLab Partner SA team for use with and by our partners
-  - [GitLab POV Handbook Page](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/)
+  - [GitLab POV Handbook Page](/handbook/customer-success/solutions-architects/tools-and-resources/pov/)
     - This handbook page is a great resource and link aggregation point for resources to conduct POVs
-  - [The GitLab Demo Page](https://about.gitlab.com/handbook/customer-success/solutions-architects/demonstrations/) (Handbook)
+  - [The GitLab Demo Page](/handbook/customer-success/solutions-architects/demonstrations/) (Handbook)
     - Good reference material for general purpose demos the same way GitLab SA's do it.
   - [Ultimate GitOps Workshop](https://guided-explorations.gitlab.io/workshops/gitlab-for-eks/) (Workshop Guide)
     - Leverage GitLab K8s agent to deploy to EKS.
@@ -156,7 +156,7 @@ Delivery docs and technical guidance for your GitLab practice engineers
   - [GitLab Runner Advanced Configuration](https://docs.gitlab.com/runner/configuration/)
 
 **GitLab Migrations**
-  - [Partner Migration Services](https://about.gitlab.com/handbook/resellers/partner-enablement/partner-migration-services/)
+  - [Partner Migration Services](/handbook/resellers/partner-enablement/partner-migration-services/)
     - This **important page** outlines the migration services methods, tools, restrictions, and services kits available to partners
 
 **Using and Adopting GitLab Effectively**

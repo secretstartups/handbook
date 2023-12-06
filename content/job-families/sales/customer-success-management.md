@@ -5,7 +5,7 @@ description: "The Customer Success Management (CSM) team focuses on the themes o
 
 The Customer Success Management (CSM) team focuses on the themes of align, enable, and expand.  We align with customers' desired business outcomes, enable them on their existing use cases, and work with them to expand into additional use cases, ensuring ongoing and ever-improving customer return-on-investment.
 
-Additionally, our team serves as liaisons between the customer and the GitLab ecosystem, streamlining collaboration with Product Management, Engineering, Sales, Professional Services, and others. [CSM handbook](https://about.gitlab.com/handbook/customer-success/csm).
+Additionally, our team serves as liaisons between the customer and the GitLab ecosystem, streamlining collaboration with Product Management, Engineering, Sales, Professional Services, and others. [CSM handbook](/handbook/customer-success/csm).
 
 ## Responsibilities
 
@@ -23,7 +23,7 @@ Additionally, our team serves as liaisons between the customer and the GitLab ec
 - Understanding of continuous integration, continuous deployment, DevSecOps
 - Prior experience in Customer Success or equivalent history of increasing satisfaction, adoption, and retention
 - Experience partnering with customers to define and achieve business outcomes
-- Familiarity working with customers of sizes relevant to the assigned [segment](https://about.gitlab.com/handbook/customer-success/csm/segment/#segments)
+- Familiarity working with customers of sizes relevant to the assigned [segment](/handbook/customer-success/csm/segment/#segments)
 - Exceptional verbal, written, organizational, presentation, and communications skills
 - Detailed oriented and analytical
 - Strong team player but self-starter
@@ -435,7 +435,7 @@ The Staff CSE is a [grade 9](/handbook/total-rewards/compensation/compensation-c
 ##### Staff Customer Success Engineer Responsibilities
 
 - Extends the Senior Customer Success Engineer responsibilities
-- Demonstrates seniority in 3 or more [customer use cases](https://about.gitlab.com/handbook/use-cases/)
+- Demonstrates seniority in 3 or more [customer use cases](/handbook/use-cases/)
 - Provides subject matter expertise within a defined technical GitLab product area or as a trusted advisor
 - Is proficient with DevOps frameworks (e.g., LeSS, SaFe, etc.) and can communicate customers' goals and capabilities as they relate to customers' adoption roadmaps
 - Overlays with the global book of customers in roadblock areas for strategic customers removing barriers to growth and adoption concerning their area of expertise
@@ -458,7 +458,7 @@ The Staff CSE is a [grade 9](/handbook/total-rewards/compensation/compensation-c
 ## Performance Indicators
 
 - net ARR (i.e., retention and expansion)
-- [CSM-related metrics](https://about.gitlab.com/handbook/customer-success/csm/).
+- [CSM-related metrics](/handbook/customer-success/csm/).
 
 ## Career Ladder
 

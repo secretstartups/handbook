@@ -22,6 +22,7 @@ description: "Tableau at GitLab"
 - [External Slack channel](https://app.slack.com/client/T02592416/C031QE95QJU)
 - [Gitlab Tableau Developer Guide](/handbook/business-technology/data-team/platform/tableau/tableau-developer-guide/)
 - [Reporting Data Catalog](/handbook/business-technology/data-team/platform/tableau/reporting-data-catalog/)
+- [Handbook Embedding Demonstration](/handbook/business-technology/data-team/platform/tableau/embed-demo/)
 
 ## Tableau
 
@@ -104,7 +105,7 @@ The top-level folders in our Tableau Project, and their corresponding levels of 
 <summary><b>Project and Sub-Project Folder Descriptions</b></summary>
 
 - **Top Level Project Folders:** **The top level project provides what the purpose of the workbook is.** There are four top level projects; Production, Ad-hoc, Development, and Resources. This is the highest folder level that the Tableau user lands on. These folders guide the user either down a Production path to view certified content, an Ad-hoc path to view Ad-Hoc content, a development path to view sandbox content, or a resources path to access workbook templates and certified data sources to be used in workbook development.
-    - **2nd Level Sub-Project Folders:** **The 2nd level project provides who the primary owner of the workbook is.** This level of the architecture contains sub-projects for each department and cross-functional business motion such as the Go To Market Motion. Each department and cross-functional business motion will have their own sub-project. This gives us flexibility to create different types of security at the sub-project level based on specific departmental and business motion needs.  
+    - **2nd Level Sub-Project Folders:** **The 2nd level project provides who the primary owner of the workbook is.** This level of the architecture contains sub-projects for each department and cross-functional business motion such as the Go To Market Motion. Each department and cross-functional business motion will have their own sub-project. This gives us flexibility to create different types of security at the sub-project level based on specific departmental and business motion needs.
         - **3rd Level Sub-Project Folders:**  **The 3rd level project provides security around who can see the workbook.** Our SAFE Data Program is applied on this level of the architecture. This allows us flexibility to apply more security controls, by department, in the future to include enhanced SAFE Data program controls, row and column level security, and security around confidential information. Applying the security at this level will allow for customized, and scalable security programs by department and business motion.
 
 </details>
@@ -172,16 +173,16 @@ Please see the [project-permission-structure](/handbook/business-technology/data
 -------------------------------------- | -------------------- | ------------------------ | --------------------------------|
 | Data: BI Platform             | `@ttnguyen28`, `@iweeks`, `@pempey`, `@nmcavinue`, `@snalamaru` | Top Level Project Leader | Maintainer |
 | Data                          | `@ttnguyen28`, `@iweeks`, `@pempey`, `@nmcavinue`               | Sub-Project Leader       | Code Owner |
-| Customer Success              | `@jdbeaumont`,  `@aileenlu`                                     | Sub-Project Leader       | Code Owner |
+| Customer Success              | `@bbutterfield`, `@marntz`                                      | Sub-Project Leader       | Code Owner |
 | Marketing                     | `@degan`                                      | Sub-Project Leader       | Code Owner |
 | People                        | `@aperez349`, `@mccormack514`                                   | Sub-Project Leader       | Code Owner |
-| Product                       | `@cbraza`                                                       | Sub-Project Leader       | Code Owner |
+| Product                       | `@cbraza`, `@dpeterson1`                                        | Sub-Project Leader       | Code Owner |
 | Engineering                   | `@cdeleon_gitlab`, `@gitlab-org/quality/engineering-analytics`  | Sub-Project Leader       | Code Owner |
-| Sales                         | `@aileenlu`                                                     | Sub-Project Leader       | Code Owner |
+| Sales                         | `@leework`                                                      | Sub-Project Leader       | Code Owner |
 | Finance: GTM Finance          | `@alixtucker`, `@nbernardo`, `@vagrawalg`                       | Sub-Project Leader       | Code Owner |
 | Finance: Corporate Finance    | `@james.shen`, `@vagrawalg`                                     | Sub-Project Leader       | Code Owner |
 | Security                      | `TBD`                                                           | Sub-Project Leader       | Code Owner |
-| Go To Market                  | `@aileenlu`, `@christinelee`, `@alixtucker`, `@nmcavinue`, `@vagrawalg` | Sub-Project Leader | Code Owner |
+| Go To Market                  | `@leework`, `@christinelee`, `@alixtucker`, `@nbernardo`, `@nmcavinue`, `@vagrawalg` | Sub-Project Leader | Code Owner |
 | Team Member                   | `@aperez349`, `@james.shen`, `@vagrawalg`, `@nmcavinue`         | Sub-Project Leader       | Code Owner |
 
 1. **Top Level Project Leader / Maintainer Responsibilities:** The Top Level Project leaders come from the BI Platform Team. These leaders are responsible for publishing content in the Sub-Projects that role up to the Top Level Projects and are responsible for maintaining the GitLab Tableau Project. This role does not specifically include Tableau Online Site Administration responsibilities although several Top Level Project Leaders are also [Tableau Online Site Admins](/handbook/business-technology/data-team/platform/tableau/#tableau-online-admins).
@@ -189,7 +190,7 @@ Please see the [project-permission-structure](/handbook/business-technology/data
 
 ### BIOPs Workflows
 
-The BIOps Workflow consists of 4 stages; Access Request, Development, Ad-Hoc Publishing, and Production Publishing. Please see the [README](https://gitlab.com/gitlab-data/tableau/-/blob/main/README.md) in the GitLab Tableau Project for detailed steps on the workflow to include the process for submitting a Merge Request for Tableau Production publishing, submitting an Issue for Tableau Ad-Hoc publishing, and receiving the necessary maintainer and code owner approvals from Project and Sub-Project leaders for publishing content.  
+The BIOps Workflow consists of 4 stages; Access Request, Development, Ad-Hoc Publishing, and Production Publishing. Please see the [README](https://gitlab.com/gitlab-data/tableau/-/blob/main/README.md) in the GitLab Tableau Project for detailed steps on the workflow to include the process for submitting a Merge Request for Tableau Production publishing, submitting an Issue for Tableau Ad-Hoc publishing, and receiving the necessary maintainer and code owner approvals from Project and Sub-Project leaders for publishing content.
 
 ```mermaid
 graph LR
@@ -237,7 +238,7 @@ flowchart TD
     end
 
 A --> |to publish to Development|C
-A --> |to publish to Ad Hoc|D 
+A --> |to publish to Ad Hoc|D
 A --> |to publish to Production|E
 ```
 
@@ -296,7 +297,7 @@ Tableau Cloud leverages GitLab's existing technology investments and integrates 
 
 ### Permissions
 
-Pursuant to GitLab's Transparency value, all GitLab team members will have access to all content in Tableau by default. However, as a Public Company, we have to abide by the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) and limit access to certain sensitive and confidential data in Tableau to team members that need SAFE data to do their jobs. In Tableau, we set these SAFE data permissions via User Groups at the Project level.  
+Pursuant to GitLab's Transparency value, all GitLab team members will have access to all content in Tableau by default. However, as a Public Company, we have to abide by the [SAFE Framework](/handbook/legal/safe-framework/) and limit access to certain sensitive and confidential data in Tableau to team members that need SAFE data to do their jobs. In Tableau, we set these SAFE data permissions via User Groups at the Project level.
 
 #### User Groups
 
@@ -304,17 +305,17 @@ User Groups are the only prescribed method we use for setting permissions across
 
 #### Limited Access User Groups
 
-Limited access user groups will allow business teams to manage accessibility to their published content based on rules that they've identified. Request for the creation of a limited access user group can be made through the All Requests template in [Issues](https://gitlab.com/gitlab-data/tableau/-/issues/?sort=created_date&state=opened&first_page_size=100) section of the Tableau project and requires the approval of that department's [sub-project lead](/handbook/business-technology/data-team/platform/tableau/#biops-roles-and-responsibilities).  
+Limited access user groups will allow business teams to manage accessibility to their published content based on rules that they've identified. Request for the creation of a limited access user group can be made through the All Requests template in [Issues](https://gitlab.com/gitlab-data/tableau/-/issues/?sort=created_date&state=opened&first_page_size=100) section of the Tableau project and requires the approval of that department's [sub-project lead](/handbook/business-technology/data-team/platform/tableau/#biops-roles-and-responsibilities).
 
 - General SAFE Access
-  - This group allows viewing of and development with data that contains material non-pulic information that should be kept [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/).  Team members must be on the [Designated Insiders](https://about.gitlab.com/handbook/legal/publiccompanyresources/#sts=Designated%20Insiders) list to be added to this group.
+  - This group allows viewing of and development with data that contains material non-pulic information that should be kept [SAFE](/handbook/legal/safe-framework/).  Team members must be on the [Designated Insiders](/handbook/legal/publiccompanyresources/#sts=Designated%20Insiders) list to be added to this group.
   - To gain [access to SAFE data](/handbook/business-technology/data-team/platform/safe-data/) and be part of the SAFE Access group please submit an AR like this [example](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/24284), which requires manager and VP approval.
 
 - ASM EMEA Commercial Restricted Access
   - This project allows access to the ASM EMEA Commercial sub project. It is restricted because the data contains sensitive information about sales rep activity, bookings, and segmentation.
   - Please work with Keith Gliksman @keith.gliksman for access approval.
 
-- ASM Restricted Access  
+- ASM Restricted Access
   - Please work with the GTM Planning & Ops team and/or Alex Cohen @alex.cohen for access approval.
 
 - Internal Audit Restricted Access
@@ -400,7 +401,7 @@ Below is an example of User Groups and Permissions applied to a Data Team Sub-Pr
 projects:
   - project_name: Example Project
     content_permissions: ManagedByOwner
-    project_path: Project Name/Project Name/ 
+    project_path: Project Name/Project Name/
     permission_set:
       - group_name: group 1
         permission_rule: view
@@ -641,7 +642,7 @@ Fore more details on features offered by each version please see this Tableau ar
 
 #### Data Source Access: Tableau Desktop or Tableau Prep Builder
 
-*Important:* In order to connect Tableau Desktop to Tableau Online, you need to set up a [Yubikey](/handbook/security/#security-process-and-procedures-for-team-members) in Okta. Fingerprints will not work. Please see the [Tableau Online Access](/handbook/business-technology/data-team/platform/tableau/#tableau-online-access) section above for more details on how to order a Yubikey.
+*Important:* In order to connect Tableau Desktop to Tableau Online, you need to set up a [Yubikey]({{ ref "okta/#i-want-to-add-touch-id--face-id--face-authentication--yubikey-to-okta" }}) in Okta. Fingerprints will not work. Please see the [Tableau Online Access](/handbook/business-technology/data-team/platform/tableau/#tableau-online-access) section above for more details on how to order a Yubikey.
 
 <details markdown=1>
 

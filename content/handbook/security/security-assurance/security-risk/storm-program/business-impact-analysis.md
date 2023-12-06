@@ -19,7 +19,7 @@ A BIA is performed for a system by completing a questionnaire. Each question in 
 
 System data obtained through the BIA may be referenced for [Business Continuity](/handbook/business-technology/gitlab-business-continuity-plan/) planning and testing.
 
-**Note:** Additionally, a subset of questions may be included in the BIA Questionnaire to satisfy [global privacy legislation requirements](https://about.gitlab.com/handbook/legal/privacy/privacy-laws.html#gdpr) pertaining to a system's [Personal Data]({{< ref "data-classification-standard#data-classification-definitions" >}}) processing.
+**Note:** Additionally, a subset of questions may be included in the BIA Questionnaire to satisfy [global privacy legislation requirements](/handbook/legal/privacy/privacy-laws.html#gdpr) pertaining to a system's [Personal Data]({{< ref "data-classification-standard#data-classification-definitions" >}}) processing.
 
 ## Scope
 

@@ -28,7 +28,7 @@ We have identified these as the most common types of risk in an account:
 
 ## **Discovery into the Risk**
 
-It can be beneficial to read back the [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/) in SFDC and discuss the risk internally with the account team on original reasons for purchase. Then check back with the customers if these original value drivers still apply and if they still align with company goals. Use our [Command of the Message](https://about.gitlab.com/handbook/sales/command-of-the-message/) to find additional discovery questions.
+It can be beneficial to read back the [Command Plan](/handbook/sales/command-of-the-message/command-plan/) in SFDC and discuss the risk internally with the account team on original reasons for purchase. Then check back with the customers if these original value drivers still apply and if they still align with company goals. Use our [Command of the Message](/handbook/sales/command-of-the-message/) to find additional discovery questions.
 
 Based on the identified type of risk, the CSM can use some of the following questions to dig a bit deeper into the risk, that may help identify mitigation options:
 
@@ -98,7 +98,7 @@ We should generally begin by presenting our CI Maturity Score demonstrating to t
       - Lack of knowledge is often a blocker for CI adoption
    - `How can we support you in improving adoption?`
 
-   Customers may also be stuck on topics around the migration off of other tools, developer sentiment, lack of buy-in or other areas of challenge.  [Please reference the CI Landing Zone](https://about.gitlab.com/handbook/customer-success/csm/adoption-landing-zones/CI/) for training and content addressing these challenges.
+   Customers may also be stuck on topics around the migration off of other tools, developer sentiment, lack of buy-in or other areas of challenge.  [Please reference the CI Landing Zone](/handbook/customer-success/csm/adoption-landing-zones/CI/) for training and content addressing these challenges.
 
 ### Lack of Engagement/Loss of Champion
 
@@ -124,7 +124,7 @@ Once we know the risk and done some discovery into that risk, we have some optio
 
 ### Competitive
 
-- Product Marketing has numerous battle cards based on the competitor [linked in our handbook](https://about.gitlab.com/handbook/sales/qualification-questions/#additional-questions-if).
+- Product Marketing has numerous battle cards based on the competitor [linked in our handbook](/handbook/sales/qualification-questions/#additional-questions-if).
 - Seek help in the #competition Slack channel
 - It's very important to determine the "why this competitor" instead of the "who is the competitor". The why is usually a cost or feature/functionality disparity. This will also help determine mitigation.
 
@@ -138,7 +138,7 @@ Once we know the risk and done some discovery into that risk, we have some optio
 
 #### Ultimate Customer not using Secure
 
-- Offer a [Secure Workshop](https://about.gitlab.com/handbook/customer-success/workshops/secure/) if they don't understand the value of GitLab Secure.
+- Offer a [Secure Workshop](/handbook/customer-success/workshops/secure/) if they don't understand the value of GitLab Secure.
 - Present our [DevSecOps Adoption Path](https://docs.google.com/presentation/d/16dQw4KI-swX85G8utpdVUkT_BXGYsvtlu3Qb_-VP6Bg/edit#slide=id.g14710b3b06d_0_232) **[Internal Link]** to a Development Team Lead to help guide the customer to adopting GitLab Secure functionality. Presenting to the right persona is critical as they have the influence to enact/enforce the adoption path recommendations
 - Try to identify teams who are willing to test out Secure functionality at a small scale
 - Try to engage with the Security team to find out what policies aren't being followed
@@ -148,7 +148,7 @@ Once we know the risk and done some discovery into that risk, we have some optio
 
 #### Customer not using CI
 
-- Offer an [Advanced CI/CD workshop](https://about.gitlab.com/handbook/customer-success/workshops/ci-workshop.html) if they have difficulty in building pipelines.
+- Offer an [Advanced CI/CD workshop](/handbook/customer-success/workshops/ci-workshop.html) if they have difficulty in building pipelines.
 - Work with the GitLab team to build CI/CD templates for certain jobs and pipelines to make it easier for users to adopt CI.
 - If it is a migration problem, work with the customer on tutorials to do a migration
    - Try to identify teams who are willing to work with you on their pipeline
@@ -157,7 +157,7 @@ Once we know the risk and done some discovery into that risk, we have some optio
 
 ### Lack of engagement/Loss of champion
 
-- For lack of engagement, please see our [Strategies for Non-Engaged Customers](https://about.gitlab.com/handbook/customer-success/csm/engagement/Non-engaged-customer-strategies/) handbook page.
+- For lack of engagement, please see our [Strategies for Non-Engaged Customers](/handbook/customer-success/csm/engagement/Non-engaged-customer-strategies/) handbook page.
 - For a loss of champion, the CSM and their sales counterpart are to proactively seek out and establish new champions
    - Identify who's replacing your champion and cultivate that relationship.
    - Find someone who loves GitLab and include them in future calls (if they aren't already).

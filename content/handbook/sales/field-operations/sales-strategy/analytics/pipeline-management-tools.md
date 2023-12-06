@@ -37,7 +37,7 @@ Pipeline is the sum of all open sales opportunities and is one of the key metric
 
 #### Pipeline Coverage Calculation
 
-Pipeline coverage is a ratio between our pipeline and our business target. We track pipeline coverage at different [stages](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-stages/) of the sales funnel for current and future quarters.
+Pipeline coverage is a ratio between our pipeline and our business target. We track pipeline coverage at different [stages](/handbook/sales/field-operations/gtm-resources/#opportunity-stages/) of the sales funnel for current and future quarters.
 We calculate historical pipeline coverages (to actuals) and use them as a baseline to compare with our current (and future) quarters coverage. That way, we can answer the question "Do we have enough pipeline?" with confidence.
 
 ##### Pipeline Coverage against Remainder to Target
@@ -279,7 +279,7 @@ Each Google Sheet based dashboard has a `source` Google sheet pair which contain
 
 ### Permission Handling
 
-To comply with the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/), please submit an [Access Request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) to the Sisense SAFE Environment. Also for non-Sisense dashboards (e.g. Pipeline X-Ray), access is automatically granted for those to have access to SAFE dashboards in Sisense.
+To comply with the [SAFE Framework](/handbook/legal/safe-framework/), please submit an [Access Request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) to the Sisense SAFE Environment. Also for non-Sisense dashboards (e.g. Pipeline X-Ray), access is automatically granted for those to have access to SAFE dashboards in Sisense.
 
 
 

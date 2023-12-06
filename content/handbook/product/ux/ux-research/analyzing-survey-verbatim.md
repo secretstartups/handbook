@@ -1,14 +1,7 @@
 ---
-
 title: "Analyzing survey verbatim"
 description: "Guidelines for how to analyze survey verbatim"
 ---
-
-
-
-
-
-
 
 [Verbatim are comments that are submitted to open-ended questions](https://goascribe.com/blog/verbatim-coding-for-survey-research/) (e.g.,” Is there anything that you’d like to share with us about GitLab’s usability?”) that are typically asked in a survey where respondents can type in their responses in a free-form format. A verbatim analysis helps us understand different phenomena, like the user experience, by looking for themes across those responses.
 
@@ -28,22 +21,21 @@ Analyzing verbatim generally follows the steps below. The exact steps that you t
 ### Top-down approach
 
 1. Identify your data by sorting and “cleaning” it
-2. Assign final themes
-3. Create a summary table
+1. Assign final themes
+1. Create a summary table
 
 ### Bottom-up approach
 
 1. Identify your data** by sorting and “cleaning” it
-2. *Familiarize yourself with the data
-3. *Assign early drafts of codes
-4. *Recursively refine and aggregate codes
-5. *Elevate codes to themes, iteratively
-6. Determine final themes
-7. Assign final themes
-8. Create a summary table
+1. *Familiarize yourself with the data
+1. *Assign early drafts of codes
+1. *Recursively refine and aggregate codes
+1. *Elevate codes to themes, iteratively
+1. Determine final themes
+1. Assign final themes
+1. Create a summary table
 
 *= repeat these steps until you have a set of themes that reflect the user experience
-
 
 ## Detailed Notes on Steps in Verbatim Analysis
 
@@ -65,11 +57,9 @@ Select the data that you’re able to include in your analysis.We use the word �
 
 Read all of your data or a random sample of 25% of the data if you’re working with a very large data set with more than 500 total responses - enough to get a sense of the verbatim that you’ll encounter in the complete data set. Your goal is to get a general sense of what the data is like. You want to load the data in your mind to get a sense of it and so that you can confirm that the final themes that you create reflect the data set.
 
-
 ### 3. **Assign early drafts of codes.**
 
 To get started, create early drafts of the codes that you’ll review later. This is the generative part of the analysis so you don’t want to spend too long here. Instead, you can think of this as a short-hand note about what you saw in the verbatim. The goal is for you to be able to look over your list of early drafts of code so that you can see what codes can be aggregated.
-
 
 In the tables below, we’re using five example verbatims that all aligned with the same theme at the end of the analysis. Keep in mind that these verbatim wouldn’t be grouped together like this during the early phases of the analysis.
 
@@ -85,12 +75,12 @@ Table with examples:
 
 Note: If you are performing your analysis in a spreadsheet, it’s helpful to create a [pivot table](https://www.statology.org/crosstab-google-sheets/) that aggregates all the codes that you’ve assigned so far so that you have a quick view of all of the early drafts of codes that you’ve assigned. It’s best practice to do this with the complete data set of all the verbatims before you think about moving on to the next step of refining and aggregating codes.
 
-
 ### 4. **Recursively refine and aggregate codes.**
 
 Revisit and refine your codes after you’ve looked at all of the verbatim, or at least another 25%, to see if you can refine them to make them more accurately reflect new verbatim and the data set overall. For example, you may start with a draft of a code like “feels lost” and then transition that to “confusing” to capture more verbatim with that code. We’ve included more examples in the table below.
 
 During this part of the analysis you should ask yourself questions like:
+
 - If I reframe this code in a different way, am I able to combine it?
 - Are these two codes really that different?
 - Am I combining codes so much that I’m not able to say something meaningful about each verbatim?
@@ -108,12 +98,12 @@ Table with examples:
 |   I find the way different pipelines are presented to be confusing and it's hard to know which are running     |    Pipeline presentation confusing    |
 |    Any simplification wherever possible is welcome  | w ants simplicity    |
 
-
 ### 5. **Elevate codes to themes, iteratively.**
 
 Now that you have an aggregated list of codes, look for the underlying themes that they inform and assign and refine themes. During this part of the analysis you’re working to identify themes that help you to answer your research questions.
 
 To do this, ask yourself questions like:
+
 - What does this code tell us about the user experience?
 - Does creating this theme allow me to combine codes?
 - Does this theme address my research question or align with my research goals?
@@ -130,7 +120,6 @@ Table with examples:
 |   I find the way different pipelines are presented to be confusing and it's hard to know which are running     |    Pipeline presentation confusing    | Pipelines confusing |
 |    Any simplification wherever possible is welcome    |   wants simplicity     | wants simplicity
 
-
 ### 6. **Determine final themes.**
 
 Generally, you’ll want to have a maximum of 10 themes. That’s because the more themes that you have, the harder it will be for you to get a clear read on your data. Some themes will not be able to be combined, and that’s ok.
@@ -142,7 +131,6 @@ Table with example:
 | SUS Verbatim | Final Code | Topic | SUS Theme |
 | ------ | ------ |  ------ |  ------ |
 | Pipelines are too complex and confusing   |  Pipelines confusing |  Pipelines  | Complex/Confusing |
-
 
 ### 7. **Assign final themes.**
 
@@ -158,9 +146,7 @@ Table with examples:
 |   I find the way different pipelines are presented to be confusing and it's hard to know which are running  | Pipelines confusing |  Pipelines  | Complex/Confusing |
 |    Any simplification wherever possible is welcome    |   wants simplicity     | Not applicable | Complex/Confusing |
 
-
 ### 8. **Create a summary table with examples for each theme.**
-
 
 After you define and assign your final themes (or during that process), create a table with examples of each theme as well as a quick description. This will make it easier for your stakeholders to understand what you’ve done.
 
@@ -170,6 +156,4 @@ Table with example:
 | ------ | ------ |  ------ |
 | Complex/Confusing | User notes that there is a lot going on with GitLab and/or that it’s very complex | “I think the way different pipelines are presented to be confusing and it's hard to know which are running” |
 
-
 You’ll want to set aside some dedicated time to work on your analysis. Generally, your analysis will take 1-2 weeks to complete. It will take you a lot longer if you need to context-switch during your analysis because you’ll have to spend time to refamiliarize yourself with the codes or themes that you’ve generated so far, and if you take too long of a break you’ll have to review the data set so that you can make sure that your themes reflect what you saw in the entire data set.
-

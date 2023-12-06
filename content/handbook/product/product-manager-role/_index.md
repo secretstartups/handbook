@@ -79,7 +79,7 @@ planned, not come up with every idea or change.
 - Specific Git related questions should be asked in `#git-help`.
 - If you have problems with a MR, ask in `#mr-buddies`.
 - HR questions should be asked in `#people-connect`.
-- Anything Release Post related can be found in the [Release Post handbook](https://about.gitlab.com/handbook/marketing/blog/release-posts/#pm-contributors) and `#release-post`
+- Anything Release Post related can be found in the [Release Post handbook](/handbook/marketing/blog/release-posts/#pm-contributors) and `#release-post`
 
 ### Job Requirements
 
@@ -157,6 +157,10 @@ The new hire should also participate in defining and adding to the goals of the 
 We use two templates, so the Product Manager can focus on GitLab onboarding for the first month with more urgent, tactical tasks. As the new Product Manager becomes more familiar with GitLab they can transition to more strategic and less time-sensitive onboarding tasks in their first 3 months at GitLab. 
 
 Onboarding issues can be tracked in the [Product Onboarding Issue Board](https://gitlab.com/gitlab-com/Product/-/boards/1283554?&label_name%5B%5D=onboarding).
+
+### Product Manager Onboarding Buddy
+
+As part of onboarding a new hire will be given an [Onboarding Buddy](/handbook/people-group/general-onboarding/onboarding-buddies/). As a Product Manager onboarding buddy there are many processes and resources to share with the new hire. A list of tasks and resources specific to Product Managers can be found [here](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/main/content/handbook/product/product-manager-role/product-manager-buddy-tasks.md)
 
 ## Interviewing Product Management Candidates
 

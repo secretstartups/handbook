@@ -360,19 +360,6 @@ Gitaly is a service that handles git and other filesystem operations for GitLab 
 - Understanding of how to build instrumented, observable software systems.
 - Experience highly-available systems in production environments.
 
-### Meltano (BizOps Product)
-
-[Meltano](https://gitlab.com/meltano/meltano) is an early stage project at GitLab focused on delivering an open source framework for analytics, business intelligence, and data science. It leverages version control, data science tools, CI, CD, Kubernetes, and review apps.
-
-A Meltano Engineer will be tasked with executing on the vision of the Meltano project, to bring the product to market.
-
-#### Requirements
-
-- A passion for data science and analytics.
-- Experience with doing initial prototyping, architecture, and engineering work.
-- In-depth experience with Python (no Ruby or Rails experience required for this role).
-- Experience with Kubernetes, Helm, and CI/CD is a **strict requirement**.
-
 ### Database
 
 A database specialist is an engineer that focuses on database related changes and improvements. You will spend the majority of your time making application changes to improve database performance, availability, and reliability.

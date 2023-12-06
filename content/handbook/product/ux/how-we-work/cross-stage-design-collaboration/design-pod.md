@@ -1,27 +1,30 @@
-## Design Pods
+---
+title: Design Pods
+---
 
-### What is a Design Pod
+## What is a Design Pod
 
 A Design Pod is a design team comprised of two or more Product Designers and other relevant counterparts from various Stage Groups. It has defined roles and responsibilities and is tasked with achieving a high-impact business goal that will specifically affect the user experience of the product across Stage Group workflows. Members will come together to tackle a singular design problem following [GitLab’s output design principles](https://design.gitlab.com/get-started/principles) and [Product Designer Workflow processes](https://about.gitlab.com/handbook/engineering/ux/product-designer/#product-design-process). Once this goal is achieved the Design Pod will disband allowing the Stage Group DRI to drive the project to completion.
 
-### Roles and Responsibilities (all roles are required)
+## Roles and Responsibilities (all roles are required)
 
-#### DRI
+### DRI
 
 The pod’s DRI should be the Product Designer that is most closely related to the problem being addressed’s Stage Group or Section. The DRI will be Accountable for guiding the pod’s design direction. While they’ll work collaboratively with the rest of the Design Pod, as the DRI, they’ll be in charge of decision-making and driving the best strategy for completing the pod’s work. It’s highly recommended that the DRI at least be a Senior Product Designer as the role will require a high level of leadership and organizational skills.
 
-#### Product Manager (Sponsor)
+### Product Manager (Sponsor)
+
 The Product Manager that is most closely related to the addressed problem. The Product Manager's Stage Group or Section will need to approve the pod and should also prepare to participate in the oversight. The Product Manager should also expect to be consulted as they often have unique knowledge or insights into the problem space.
 
-#### Product Design Manager or Staff Product Designer of the DRI
+### Product Design Manager or Staff Product Designer of the DRI
 
 The Product Design Manager or Staff Product Designer of the DRI is Responsible for working closely with the Design Pod to ensure they are progressing and have what they need to succeed. In addition, they may be responsible for helping free up their time to participate in the pod and assisting in recruiting other pod members or securing any tools that may not be available.
 
-#### Members
+### Members
 
 Other Design Pod members will consist of Product Designers or Product Managers from other Stage Groups that have some relationship to the addressed problem. Depending on their level of participation, they’ll be responsible for attending meetings synchronously or asynchronously regularly, sharing information learned from the Design Pod with their peers, gathering feedback from their peers, bringing that feedback, and completing necessary tasks to help the Design Pod progress and succeed. Members must work closely with their manager and Stage Group’s Product Manager to ensure they will have at least 30% of their typical time per Milestone freed up to participate in the pod. Use the [RACI model](https://monday.com/blog/project-management/raci-model/) to help assign pod member roles based on interest/capacity.
 
-### Guidelines
+## Guidelines
 
 - The DRI and Product Manager, Design Pod sponsors, are responsible for preventing the proliferation of Design Pods and ensuring there is a real need for the Design Pod to assemble.
 - A member and DRI should not be a part of more than one concurrent Design Pod in any role.
@@ -32,7 +35,7 @@ Other Design Pod members will consist of Product Designers or Product Managers f
 - During the exploration design process, consider using sketches or wireframes to indicate that work is still in progress as a concept or incomplete.
 - While regular sync meetings are likely necessary, consider adopting async ways to keep each pod member informed; for example: use weekly Geekbot updates in the pod Slack channel.
 
-### Process
+## Process
 
 - Preparation
   - The DRI is responsible for creating a Design Pod Issue or Epic as the SSOT
@@ -64,11 +67,11 @@ The DRI is responsible for creating a Slack channel (with #dpod_ prefix) that is
   - Archive the slack channel.
   - Delete the recurring calendar meeting.
 
-### Participating in an existing Design Pod
+## Participating in an existing Design Pod
 
 Suppose you are interested in participating in an active Design Pod. In that case, it is recommended that you first communicate with your manager and then discuss your involvement with the Design Pod’s DRI. Remember that they may not be in a place to accept new members. However, if the DRI has approved your involvement, you’ve worked with your manager and Stage Group’s Product Manager to ensure you can participate at least 30% of your time per Milestone. You can add yourself to the Design Pod members list by creating an MR against the specific Design Pod handbook page.
 
-### Past Design Pods
+## Past Design Pods
 
 - (RCA: Role Based Access Control (RBAC) Design Pod, Authentication & Authorization)[https://gitlab.com/gitlab-com/gitlab-ux/ux-rca/-/issues/3]
 

@@ -1,14 +1,7 @@
 ---
-
 title: "System Usability Scale"
 description: "The System Usability Scale (SUS) is a performance indicator we use to measure the long term usability of our product."
 ---
-
-##
-
-
-
-
 
 The [System Usability Scale](https://measuringu.com/sus/) (SUS) is a standardized metric used to measure usability perception of computer interfaces. Our current and past SUS scores can be found in the [UX Department Performance Indicators](/handbook/product/ux/performance-indicators/#system-usability-scale-sus-score).
 
@@ -28,16 +21,16 @@ Collectively, SUS consists of ten questions, which are positively and negatively
 The response scale for each question is a 5-point Likert agreement scale:
 
 | Strongly disagree  | Disagree | Neither agree nor disagree | Agree | Strongly agree |
-| ----- | ----- | ----- | ----- | ----- |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
 | 1 | 2 | 3 | 4 | 5 |
 
-We follow these 10 questions with a single open-ended question that asks, *“Is there anything else you’d like to share with us about GitLab’s usability?”*
+We follow these 10 questions with a single open-ended question that asks, *“What problems or frustrations have you experienced while using GitLab?”*
 
 These questions are delivered in survey format to users of the product.
 
 ## SUS and GitLab
 
-We adopted the System Usability Scale at GitLab in FY20-Q1. We deploy the survey quarterly to SaaS users and bi-quarterly to our Self-Managed users. This has allowed us to understand the overall usability of our product and track changes over time. We’ve begun relying on SUS as a [KPI for the UX Department](/handbook/product/ux/performance-indicators/#system-usability-scale-sus-score) and we have multiple OKR-related efforts underway to try and improve our score.
+We adopted the System Usability Scale at GitLab in FY20-Q1. We deploy the survey bi-quarterly to both our SaaS and Self-Managed users. This has allowed us to understand the overall usability of our product and track changes over time. We’ve begun relying on SUS as a [KPI for the UX Department](/handbook/product/ux/performance-indicators/#system-usability-scale-sus-score) and we have multiple OKR-related efforts underway to try and improve our score.
 
 With this emphasis, it’s important that SUS is deployed in a rigorous and sustainable manner.
 
@@ -80,7 +73,7 @@ In order to understand how the experiences of our Self-Managed users compare to 
 
 ### Distribution
 
-We distribute survey invites via email using Qualtrics, our survey tool. Responses are incentivized using a sweepstakes ([Promotional Games workflow](https://about.gitlab.com/handbook/legal/ux-research-pilot/)). Those that complete the survey are entered into a quarterly sweepstakes to win one of three $200 gift cards. The Self-Managed cohort is incentivized at the same rate of three $200 gift card winners in order to maximize the response rate of the limited population.
+We distribute survey invites via email using Qualtrics, our survey tool. Responses are incentivized using a sweepstakes ([Promotional Games workflow](/handbook/legal/ux-research-pilot/)). Those that complete the survey are entered into a quarterly sweepstakes to win one of three $200 gift cards. The Self-Managed cohort is incentivized at the same rate of three $200 gift card winners in order to maximize the response rate of the limited population.
 
 We aim to start sending email distributions every couple of days in the last month of the quarter until we achieve our desired sample size.
 

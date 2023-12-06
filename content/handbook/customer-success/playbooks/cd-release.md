@@ -1,16 +1,8 @@
 ---
-aliases: /handbook/customer-success/playbooks/cd-release.html
 title: "Continuous Delivery (CD) / Release Stage Playbook"
 ---
 
-
-
-
-
-
-
-
-View the [Customer Success homepage](https://about.gitlab.com/handbook/customer-success/) for additional Customer Success handbook content.
+View the [Customer Success homepage](/handbook/customer-success/) for additional Customer Success handbook content.
 
 ---
 
@@ -49,5 +41,5 @@ The following are recommended questions for discovering customer needs.
 
 ### Learning Resources
 
-- [Customer Use Case CD](https://about.gitlab.com/handbook/use-cases/#2-software-delivery-automation)
+- [Customer Use Case CD](/handbook/use-cases/#2-software-delivery-automation)
 - CS Skills Exchange: CD Deep Dive: coming soon

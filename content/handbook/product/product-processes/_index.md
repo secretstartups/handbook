@@ -204,9 +204,9 @@ In order to support [findability](/handbook/values/#findability) and to clearly 
 Some **internal** methods for communication include:
 
 - Sharing the updates various product-based Slack channels such as: `#product`, `#s_`, `#g_`, or `#f_` Slack channels
-- Cross-posting changes in direction or categories into #customer-success and if they impact [use cases](https://about.gitlab.com/handbook/use-cases/) tag `@cs-leadership` for awareness
+- Cross-posting changes in direction or categories into #customer-success and if they impact [use cases](/handbook/use-cases/) tag `@cs-leadership` for awareness
 - Recording a quick video and sharing with Customer Success that discusses direction updates. Use sync meetings [as needed](/handbook/company/culture/all-remote/asynchronous/#when-to-start-synchronous-first) to facilitate efficient communication.
-- [Collaborate with the Field Communications team](https://about.gitlab.com/handbook/sales/field-communications/#field-communications-playbook) to determine if a larger internal communications plan/approach is necessary for the Field (Sales, Customer Success, Channel & Alliances) team.
+- [Collaborate with the Field Communications team](/handbook/sales/field-communications/#field-communications-playbook) to determine if a larger internal communications plan/approach is necessary for the Field (Sales, Customer Success, Channel & Alliances) team.
 - Aggregating and sharing highlights of monthly direction page updates at the Section-level across the organization
 
 **External** channels for consideration linking direction pages to:
@@ -218,14 +218,14 @@ Some **internal** methods for communication include:
 
 ### Release posts
 
-As a PM, you are [accountable](https://about.gitlab.com/handbook/marketing/blog/release-posts/#general-contributions)
+As a PM, you are [accountable](/handbook/marketing/blog/release-posts/#general-contributions)
 for adding new features (under your umbrella) to the monthly release post, respecting the
 guidelines defined in the
-[release posts handbook](https://about.gitlab.com/handbook/marketing/blog/release-posts/) and its **due dates**.
+[release posts handbook](/handbook/marketing/blog/release-posts/) and its **due dates**.
 Be sure to go over all the details.
 
 Every month, a PM will take the
-[leadership](https://about.gitlab.com/handbook/marketing/blog/release-posts/#authorship)
+[leadership](/handbook/marketing/blog/release-posts/#authorship)
 of the release post, and will be responsible for delivering it in time.
 
 ### Writing release blog posts
@@ -290,7 +290,7 @@ internally to promote something, and in emails sent to customers. There are some
 guidelines that one should take into account when writing about features,
 the most important being a clear communication of the problem we're solving for users.
 
-When writing about a feature, make sure to cover [these messaging guidelines](https://about.gitlab.com/handbook/marketing/blog/release-posts/#messaging-review)
+When writing about a feature, make sure to cover [these messaging guidelines](/handbook/marketing/blog/release-posts/#messaging-review)
 which help produce clear internal and external
 messaging. Please also keep in mind that we should avoid using acronyms that others my not recognize, such as "MVC" for Minimal Viable Change. For more guidance you can visit our [writing style guidelines](/handbook/communication/#writing-style-guidelines).
 
@@ -298,7 +298,7 @@ Let's highlight the messaging guidelines mentioned above with a concrete example
 that [we shipped in 8.12](/releases/2016/09/22/gitlab-8-12-released/#preventing-secrets-in-your-repositories-ee).
 
 - Start with the context. Explain what the current situation is without the
-feature. Describe the pain points and connect back to our [Value Drivers](https://about.gitlab.com/handbook/marketing/#go-to-market-value-drivers-and-customer-use-cases) (in this case `Reduce Security and Compliance Risk`).
+feature. Describe the pain points and connect back to our [Value Drivers](/handbook/marketing/#go-to-market-value-drivers-and-customer-use-cases) (in this case `Reduce Security and Compliance Risk`).
 
 > It's a bad idea to commit secrets (such as keys and certificates) to your
 > repositories: they'll be cloned to the machines of anyone that has access to the
@@ -508,7 +508,7 @@ See [this page](/handbook/product/cross-stage-features/) for details on working 
 
 #### Making changes to stages, groups, or categories
 
-Documentation on how to make changes to stages, groups, and categories, as well as what approvals are required, can be found in our [website handbook page](https://about.gitlab.com/handbook/marketing/digital-experience/website/#working-with-stages-groups-and-categories).
+Documentation on how to make changes to stages, groups, and categories, as well as what approvals are required, can be found in our [website handbook page](/handbook/marketing/digital-experience/website/#working-with-stages-groups-and-categories).
 
 #### Managing creation and transition of groups, stages, and categories
 
@@ -655,7 +655,7 @@ Adapt this process as needed, and consider changing it to an asynchronous mode o
    1. **Visualize**: [Review your voting session results](https://support.mural.co/en/articles/2113758-run-a-voting-session#h_7cb8e4f588) and everyone helps place the stickies on the matrix, depending on their number of votes for each criterion.
    1. If there's still time, discuss the most-voted issues as a group.
 1. After:
-   1. The facilitator [uploads the recording to GitLab Unfiltered](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube), sets its visibility (see [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/)), adds to relevant playlists, and includes the URL of the mural and planning issue in the description.
+   1. The facilitator [uploads the recording to GitLab Unfiltered](/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube), sets its visibility (see [SAFE framework](/handbook/legal/safe-framework/)), adds to relevant playlists, and includes the URL of the mural and planning issue in the description.
    1. The facilitator shares the recording URL and voting results in the planning issue, preferably with a screenshot of the matrix and links to the highest voted issues (see an [example](https://gitlab.com/gitlab-org/create-stage/-/issues/12980#note_843540512).
 
 <details markdown="1">
@@ -906,7 +906,7 @@ Any problem with both high severity and broad impact is a potential Rapid Action
 
 #### What if it only affects one customer?
 
-If the problem only affects one customer, consider a [customer escalation process](https://about.gitlab.com/handbook/customer-success/csm/escalations/#definitions-of-severity-levels) as the alternative.
+If the problem only affects one customer, consider a [customer escalation process](/handbook/customer-success/csm/escalations/#definitions-of-severity-levels) as the alternative.
 
 #### Rapid Action Process
 
@@ -1217,7 +1217,7 @@ The category epic should include:
 - A link to a search query which can be used to find all issues with the category label
 
 Maturity plans adhering to the [maturity framework](https://about.gitlab.com/direction/maturity/) are
-highly encouraged - but not required - for [non-marketing categories](https://about.gitlab.com/handbook/marketing/digital-experience/website/#category-attributes).
+highly encouraged - but not required - for [non-marketing categories](/handbook/marketing/digital-experience/website/#category-attributes).
 
 For specifics of how the category strategy page should look, see the [category strategy template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/product/category_strategy_template.html.md).
 
@@ -1275,7 +1275,7 @@ We recently [conducted a GTM and R&D sensing mechanism survey](https://gitlab.co
 ###### User
 
 1. Asking probing questions in customer discovery meetings
-1. Engaging with our community alongside our [Developer Relations team](https://about.gitlab.com/handbook/marketing/developer-relations/) and [triaging](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#issue-triaging) community generated issues and ideas
+1. Engaging with our community alongside our [Developer Relations team](/handbook/marketing/developer-relations/) and [triaging](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#issue-triaging) community generated issues and ideas
 1. Reviewing [top up voted issues](#category-strategy)
 1. Engagement directly with [customers](#a-customer-expressed-interest-in-a-feature) and via the [customer](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=customer) label
 1. [Requesting](/handbook/product/ux/ux-research/#how-to-request-research) and analyzing [results](https://gitlab.com/gitlab-org/uxr_insights) from [UX research](/handbook/product/ux/ux-research/) via the [First Look](/community/gitlab-first-look/) research panel. Checkout this brief [video tutorial](https://www.youtube.com/watch?v=9U7hhGzRscs&feature=youtu.be)
@@ -1295,16 +1295,16 @@ We recently [conducted a GTM and R&D sensing mechanism survey](https://gitlab.co
 
 ###### Market
 
-1. Maintaining [competitive](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/) and [market assessments](#analyst-engagement). Checkout this [great video](https://www.youtube.com/watch?v=Um9teDD6jt8&feature=youtu.be&t=300) discussing competitive analysis for Product Managers at Product League with GitLab's Orit Golowinski.
+1. Maintaining [competitive](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/) and [market assessments](#analyst-engagement). Checkout this [great video](https://www.youtube.com/watch?v=Um9teDD6jt8&feature=youtu.be&t=300) discussing competitive analysis for Product Managers at Product League with GitLab's Orit Golowinski.
 1. Monitoring and maintaining missing [features](/features/) in your category epics (competitive landscape section)
 1. Monitoring and maintaining the [direction](https://about.gitlab.com/direction/) page for the categories you own
 1. Subscribing to your competitor's blogs to be aware of what they are releasing will help you here
-1. Reviewing relevant [analyst reports](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#accessing-analyst-reports)
+1. Reviewing relevant [analyst reports](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#accessing-analyst-reports)
 
 ###### Internal
 
 1. Leadership [OKRs](/handbook/company/okrs/) set the direction for the company
-1. Each PM should be having regular conversations with their [stage groups stable counterparts](/handbook/product/categories/) to discuss their strategy and plan. Share this discussion with the company via our GitLab Unfiltered [YouTube](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/) channel. PMs should share their next three milestones, year-long plan, strategy, and relevant OKRs (with status) so everyone can contribute feedback.
+1. Each PM should be having regular conversations with their [stage groups stable counterparts](/handbook/product/categories/) to discuss their strategy and plan. Share this discussion with the company via our GitLab Unfiltered [YouTube](/handbook/marketing/marketing-operations/youtube/) channel. PMs should share their next three milestones, year-long plan, strategy, and relevant OKRs (with status) so everyone can contribute feedback.
 
 1. Dialogue with [internal customers](#dogfood-everything), and review of the [internal customer](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=internal%20customer) and [rebuild in GitLab](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=rebuild%20in%20GitLab) labels
 
@@ -1312,14 +1312,14 @@ We recently [conducted a GTM and R&D sensing mechanism survey](https://gitlab.co
 
 Many of the sensing mechanisms described are directly relevant to individual product managers performing regular product group prioritization. There are also a set of unique sensing mechanisms that act as summaries for [Product Leadership](/handbook/product/product-leadership/).
 
-- Attending [QBRs](https://about.gitlab.com/handbook/sales/qbrs/) and consuming QBR summaries/highlights
+- Attending [QBRs](/handbook/sales/qbrs/) and consuming QBR summaries/highlights
 - Reviewing [Top ARR Drivers](#top-arr-drivers)
 - Consuming [weekly opportunity review highlights](#opportunity-reviews)
 - Regularly reviewing validation track activities ([example](https://about.gitlab.com/direction/ops/#current-validation-track-initiatives))
 - Quarterly cross-section [direction](#section-and-stage-direction) reviews
 - Consuming [competitive and market content review](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Product-Competitive-Content.md) highlights
 - Speaking directly with users via [PNPS responder outreach](#pnps-responder-outreach)
-- Reviewing relevant [analyst reports](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#accessing-analyst-reports)
+- Reviewing relevant [analyst reports](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#accessing-analyst-reports)
 - Meeting with analysts to confirm direction and vision of section and stages
 - Reviewing [Performance Indicators](https://internal.gitlab.com/handbook/company/performance-indicators/product/) for trend shifts and changes
 - Paying regular attention to competitive wins and losses
@@ -1482,7 +1482,7 @@ Continuously improving the software we write is important. If we don't proactive
 
 For large projects, consider separating the announcement from the actual feature launch. By doing so, it can create more freedom to iterate during the customer rollout. For example, you could announce in advance to give customers ample notice, and then roll it out to new customers first, then to existing Free customers, then to existing paid customers. Or you could do the opposite, and roll it out to customers first, before announcing broadly, to ensure the user experience is great before making a marketing splash.
 
-When considering dates for a product announcement or launch that may impact our Field team, consider the [blackout restrictions](https://about.gitlab.com/handbook/sales/field-communications/#field-communications-playbook-flowchart) recognized by the Field team to ensure there won't be any major disruption to the business near quarter end.
+When considering dates for a product announcement or launch that may impact our Field team, consider the [blackout restrictions](/handbook/sales/field-communications/#field-communications-playbook-flowchart) recognized by the Field team to ensure there won't be any major disruption to the business near quarter end.
 
 #### Four phase transition
 
@@ -1538,7 +1538,7 @@ Consider the following to improve iteration:
 ### Community participation
 
 Engaging directly with the community of users is an important part of a PM's job. We
-encourage participation and active response alongside GitLab's [Developer Relations team](https://about.gitlab.com/handbook/marketing/developer-relations/).
+encourage participation and active response alongside GitLab's [Developer Relations team](/handbook/marketing/developer-relations/).
 
 #### Conferences
 
@@ -1585,7 +1585,7 @@ on these artifacts via these (non-exhaustive) opportunities:
 
 - Engage with users in epics, issues, and merge requests on GitLab.com.
 - [Meet with customers directly.](#customer-meetings)
-- Participate in the [CAB](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#gitlab-devops-customer-advisory-board).
+- Participate in the [CAB](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#gitlab-devops-customer-advisory-board).
 - Talk with GitLab team-members using GitLab.
 - Talk with GitLab team-members in [group conversations](/handbook/group-conversations/).
 - Talk with other PMs and [Product leadership](/handbook/product/product-leadership/) to align your stage’s product direction with the rest of GitLab.
@@ -1593,7 +1593,7 @@ on these artifacts via these (non-exhaustive) opportunities:
 Here is some guidance for new PMs to ensure your stage direction, category strategies and plan
 are up-to-date and visible to critical stakeholders:
 
-- Seek feedback from the [CAB](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#gitlab-devops-customer-advisory-board) once every six months.
+- Seek feedback from the [CAB](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#gitlab-devops-customer-advisory-board) once every six months.
 - Present your plan to your manager once a month.
 - Present the plan and stage/category strategies to your stable counterparts
 - Present your stage strategy and plan in a [customer meeting](#customer-meetings) once every two weeks.
@@ -1624,7 +1624,7 @@ provided to GitLab.
 It's not your job to sell GitLab, but it should be obvious when it's the time
 to give more information about our products.
 
-For message consistency purposes, utilize the [Value Drivers](https://about.gitlab.com/handbook/marketing/#go-to-market-value-drivers-and-customer-use-cases) framework when posing questions and soliciting information.
+For message consistency purposes, utilize the [Value Drivers](/handbook/marketing/#go-to-market-value-drivers-and-customer-use-cases) framework when posing questions and soliciting information.
 
 After the meeting:
 
@@ -1754,7 +1754,7 @@ both of you can arrive prepared.
 #### Customer Advisory Board Meetings
 
 One specific, recurring opportunity to get direct feedback from highly engaged customers
-is the [GitLab DevOps Customer Advisory Board](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#gitlab-devops-customer-advisory-board).
+is the [GitLab DevOps Customer Advisory Board](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#gitlab-devops-customer-advisory-board).
 You may be asked by the CAB to present your stage at these meetings. Here are
 some guidelines when doing so:
 
@@ -1802,14 +1802,14 @@ See [issue template](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/i
 ### Competition Channel
 
 When someone posts information in the `#competition` channel that warrants
-creating an issue and/or [a change in `features.yml`](https://about.gitlab.com/handbook/marketing/digital-experience/website/#adding-features-to-webpages), follow this
+creating an issue and/or [a change in `features.yml`](/handbook/marketing/digital-experience/website/#adding-features-to-webpages), follow this
 procedure:
 
 - Create a thread on the item by posting `I'm documenting this`
 - Either do the following yourself, or [link](#competition-channel)
 to this paragraph for the person picking this up to follow
 - If needed: create an issue
-- [Add the item to the `features.yml`](https://about.gitlab.com/handbook/marketing/digital-experience/website/#adding-features-to-webpages)
+- [Add the item to the `features.yml`](/handbook/marketing/digital-experience/website/#adding-features-to-webpages)
 - If GitLab does not have this feature yet, link to the issue you created
 - Finish the thread with a link to the commit and issue
 
@@ -1929,7 +1929,7 @@ new features that we release, and help them to adopt all our own features.
 
 Each quarter we reach out to [Paid NPS (PNPS)](/handbook/product/performance-indicators/#paid-net-promoter-score-pnps) responders who opted-in to speak with us. This is a fantastic opportunity to build bridges to users and for product managers to get direct feedback for their specific product area. If a customer has taken the time to share a verbatim with us and offered to have a conversation, they deserve to be followed up with - especially if that customer is a detractor.
 
-When we speak to users and customers directly during this workflow, we must be mindful of [Product Legal guidance](/handbook/product/product-safe-guidance/) and the  [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/, just as we would be with any other documentation or communication we do as product managers.
+When we speak to users and customers directly during this workflow, we must be mindful of [Product Legal guidance](/handbook/product/product-safe-guidance/) and the  [SAFE framework](/handbook/legal/safe-framework/, just as we would be with any other documentation or communication we do as product managers.
 
 #### Overall process
 

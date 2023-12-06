@@ -19,7 +19,7 @@ Understanding where your product is used around the world is an important step t
 
 Currently, the majority of GitLab's customers choose to [download, install, and host a GitLab self-managed installation](/features/), which is why we are [focused heavily on delivering a great self-managed customer experience](https://about.gitlab.com/direction/#strategic-challenges).
 
-To make the right data-driven decisions on the self-managed product lifecycle and what features to invest in, [our self-managed customers](/why-gitlab/) sends GitLab a weekly [service ping](https://about.gitlab.com/handbook/customer-success/csm/service-ping-faq/) at an installation-level by [enabling service ping on their self-managed installation](https://docs.gitlab.com/ee/administration/settings/usage_statistics.html#why-enable-service-ping) or by sharing the values with our Customer Success team.
+To make the right data-driven decisions on the self-managed product lifecycle and what features to invest in, [our self-managed customers](/why-gitlab/) sends GitLab a weekly [service ping](/handbook/customer-success/csm/service-ping-faq/) at an installation-level by [enabling service ping on their self-managed installation](https://docs.gitlab.com/ee/administration/settings/usage_statistics.html#why-enable-service-ping) or by sharing the values with our Customer Success team.
 
 This installation-level data allows GitLab to understand country-level statistics and trends in installation adoption, version adoption rate, and installation life cycle.
 
@@ -52,9 +52,9 @@ We want to make sure you understand the following about the [Self-Managed Produc
 - **[Paid Installation](/handbook/business-technology/data-team/data-catalog/xmau-analysis/index.html#paid-xmau-definition)**
 - **Total Accounts/Accounts Reporting** - the total number of reported installations that can be mapped to a billing account
 - **[Unique Monthly Active Users (UMAU)](https://internal.gitlab.com/handbook/company/performance-indicators/product/#unique-monthly-active-users-umau)**
-- **[Product Tier](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#overview)**
+- **[Product Tier](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#overview)**
 - **[Service Ping](https://docs.gitlab.com/ee/development/service_ping/)**
-- **[Version](https://about.gitlab.com/handbook/sales/process/version-check/#what-is-the-functionality-of-the-gitlab-version-check)**
+- **[Version](/handbook/sales/process/version-check/#what-is-the-functionality-of-the-gitlab-version-check)**
 
 ### Data sources
 

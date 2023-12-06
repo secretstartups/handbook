@@ -17,7 +17,7 @@ We can send the license to another contact in either of the following cases:
 - The contact has a Customers Dot account which is linked to the subscription.
 - The contact is the `Sold to` contact for the Zuora account.
 
-To send the license to a different email address, follow the process for [Associating purchases with additional accounts](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html). \
+To send the license to a different email address, follow the process for [Associating purchases with additional accounts](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases). \
 We cannot bypass doing this based on internal requests. It must be done via a customer submitted ticket. \
 Once the new Customers Dot account is created or changed, the license can be re-sent (or obtained by the new account owner).
 
@@ -31,4 +31,4 @@ To forward or resend a license or activation code:
     1. Navigate to the `Forward license email` tab if it's a license file or to the `Forward Cloud activation email` tab if it's an activation code.
     1. Enter the `Destination email address`. **NOTE** It is currently not possible to copy (cc) or send to multiple contacts at once.
     1. Click the **Forward** button.
-    1. [Confirm whether the license was delivered](/handbook/support/license-and-renewals/workflows/self-managed/license_delivery.html#check-whether-the-license-has-been-delivered)
+    1. [Confirm whether the license was delivered](/handbook/support/license-and-renewals/workflows/self-managed/license_delivery#check-whether-the-license-has-been-delivered)

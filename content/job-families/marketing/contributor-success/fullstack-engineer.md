@@ -118,20 +118,20 @@ The Staff Engineering Contributor Success Fullstack Engineer role extends the [S
 
 #### Key Performance Indicators
 
-- [Unique Wider Community Contributors per Month](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#unique-wider-community-contributors-per-month)
-- [Wider Community merged MRs per release](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release)
-- [MRARR](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#mrarr)
+- [Unique Wider Community Contributors per Month](/handbook/marketing/developer-relations/performance-indicators/#unique-wider-community-contributors-per-month)
+- [Wider Community merged MRs per release](/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release)
+- [MRARR](/handbook/marketing/developer-relations/performance-indicators/#mrarr)
 
 #### Regular Performance Indicators
 
-- [Wider Community merged MRs per month](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-month)
-- [First time contributors per month](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#first-time-contributors-per-month)
-- [Open Community MR Age (OCMA)](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#open-community-mr-age)
-- [Leading Organizations MR Time to review](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#leading-organizations-mr-time-to-review)
-- [Returning vs new contributors](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#returning-vs-new-contributors)
-- [Community MR Coaches per Month](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#community-mr-coaches-per-month)
-- [Feature Community Contribution MRs](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#feature-community-contribution-mrs)
-- [Community MR Percentage](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#community-mr-percentage)
+- [Wider Community merged MRs per month](/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-month)
+- [First time contributors per month](/handbook/marketing/developer-relations/performance-indicators/#first-time-contributors-per-month)
+- [Open Community MR Age (OCMA)](/handbook/marketing/developer-relations/performance-indicators/#open-community-mr-age)
+- [Leading Organizations MR Time to review](/handbook/marketing/developer-relations/performance-indicators/#leading-organizations-mr-time-to-review)
+- [Returning vs new contributors](/handbook/marketing/developer-relations/performance-indicators/#returning-vs-new-contributors)
+- [Community MR Coaches per Month](/handbook/marketing/developer-relations/performance-indicators/#community-mr-coaches-per-month)
+- [Feature Community Contribution MRs](/handbook/marketing/developer-relations/performance-indicators/#feature-community-contribution-mrs)
+- [Community MR Percentage](/handbook/marketing/developer-relations/performance-indicators/#community-mr-percentage)
 
 ## Hiring Process
 

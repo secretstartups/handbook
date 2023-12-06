@@ -14,7 +14,7 @@ In alignment with our mission to be deliver business outcomes with GitLab's DevS
 
 Platform Adoption Score shows a customer’s Product adoption depth achieved with GitLab.
 
-A customer’s score is the level of use cases adopted to a green health level as defined by the corresponding thresholding. Platform Adoption measures the customers usage of use cases with successful platform adoption being defined as 3+ use cases. Platform Adoption Scoring depends heavily on the [Use Case Adoption measures](https://about.gitlab.com/handbook/customer-success/product-usage-data/maturity-scoring/) that we calculated using metrics generated through our customer’s product usage data. A customer’s score is simply the number of Use Cases that they have adopted to a green level as defined by the corresponding thresholding.
+A customer’s score is the level of use cases adopted to a green health level as defined by the corresponding thresholding. Platform Adoption measures the customers usage of use cases with successful platform adoption being defined as 3+ use cases. Platform Adoption Scoring depends heavily on the [Use Case Adoption measures](/handbook/customer-success/product-usage-data/maturity-scoring/) that we calculated using metrics generated through our customer’s product usage data. A customer’s score is simply the number of Use Cases that they have adopted to a green level as defined by the corresponding thresholding.
 
 ### How we use Platform Adoption Scores
 
@@ -36,5 +36,5 @@ The following shows how different teams use and measures they apply to increase 
 
 
 ### References
-- [Account Health Scoring](https://about.gitlab.com/handbook/customer-success/customer-health-scoring/#scoring-methodologies) for a list of the main measures we measure customer value
-- [Use Case Adoption Methodology](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/)
+- [Account Health Scoring](/handbook/customer-success/customer-health-scoring/#scoring-methodologies) for a list of the main measures we measure customer value
+- [Use Case Adoption Methodology](/handbook/customer-success/product-usage-data/use-case-adoption/)

@@ -5,12 +5,6 @@ description: “Discover GitLab Solutions Architects’ tools and resources”
 ---
 
 
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 ## Tools and Resources
 
 
@@ -18,11 +12,11 @@ Tools and resources provide infomation to help Solution Architects to conduct PO
 
 ### Education and Enablement
 
-As a Solutions Architect, it is important to be continuously learning more about our product and related industry topics. The [education and enablement handbook page](https://about.gitlab.com/handbook/customer-success/education-enablement/) provides a dashboard of aggregated resources that we encourage you to use to get up to speed.
+As a Solutions Architect, it is important to be continuously learning more about our product and related industry topics. The [education and enablement handbook page](/handbook/customer-success/education-enablement/) provides a dashboard of aggregated resources that we encourage you to use to get up to speed.
 
 ### Proof of Value (POV) Guidelines
 
-Proof of Value (POV), formerly known as Proof of Concept, is conducted during the Technical Evaluation stage with Solutions Architects by  prospects or existing customers to assess the required capabilities based on a set of criteria and value drivers. A POV is a collaboration between GitLab and the prospective or existing customer for evaluating GitLab. Information on the POV guidelines, POV types and process can be found on the [Proof of Value (POV) Guidelines](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/) page.
+Proof of Value (POV), formerly known as Proof of Concept, is conducted during the Technical Evaluation stage with Solutions Architects by  prospects or existing customers to assess the required capabilities based on a set of criteria and value drivers. A POV is a collaboration between GitLab and the prospective or existing customer for evaluating GitLab. Information on the POV guidelines, POV types and process can be found on the [Proof of Value (POV) Guidelines](/handbook/customer-success/solutions-architects/tools-and-resources/pov/) page.
 
 ### SaaS Trials for Existing Customers
 
@@ -33,13 +27,13 @@ Paid customers must set up a new namespace on SaaS when trialing Ultimate.  Ther
 
 Both situations put customer production GitLab usage at risk if a trial is applied to the SaaS namespace.
 
-Instead, a customer should create a new namespace and trial there.  We have put together some [rial guidelines](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/trial-guidelines/) in order to make the process as seamless as possible for customers.
+Instead, a customer should create a new namespace and trial there.  We have put together some [rial guidelines](/handbook/customer-success/solutions-architects/tools-and-resources/trial-guidelines/) in order to make the process as seamless as possible for customers.
 
 
 
 ### Hands-on Workshops
 
-GitLab Solutions Architects conduct hands-on workshops as interactive events for GitLab prospects and customers to learn the GitLab product and DevSecOps capabilities. Workshops may be executed as marketing events or run independently for specific customers. Detail information is provided on the [Hands-on Workshops](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/workshop/) page.
+GitLab Solutions Architects conduct hands-on workshops as interactive events for GitLab prospects and customers to learn the GitLab product and DevSecOps capabilities. Workshops may be executed as marketing events or run independently for specific customers. Detail information is provided on the [Hands-on Workshops](/handbook/customer-success/solutions-architects/tools-and-resources/workshop/) page.
 
 ### RFI/RFP Responses
 
@@ -103,7 +97,7 @@ No two presentations are the same and we often find ourselves mixing and matchin
 
 In order to facilitate an environment of learning and development, the Solutions Architect team has access to the [O’Reilly Learning Platform](https://learning.oreilly.com/home/). This education platform contains thousands of books, videos and live learning courses to assist SA’s with gaining the knowledge they need to stay competitive.
 
-More information can be found on the [Customer Success Education & Enablement page](https://about.gitlab.com/handbook/customer-success/education-enablement/).
+More information can be found on the [Customer Success Education & Enablement page](/handbook/customer-success/education-enablement/).
 
 ### Linkedin Learning Platform
 

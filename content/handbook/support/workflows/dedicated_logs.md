@@ -214,3 +214,27 @@ While we do not specifically log *changes* made to CI/CD variables in our [audit
 1. Click **Save**
 
 You now have a list of logs to sort through. You can get a bit more information about the users involved by refining the query a bit further. In the **Search field names** box, type `username`. Click the **+** symbol to `Add field as column`. In the list of logs, you'll now see the `username` associated with each log entry where the CI/CD variables were viewed.
+
+#### Retrieve and inspect SAML Responses
+
+When [troubleshooting](https://docs.gitlab.com/ee/user/group/saml_sso/troubleshooting.html) unexpected behavior in [instance-wide SAML single sign on (SSO)](https://docs.gitlab.com/16.4/ee/integration/saml.html) for GitLab Dedicated customers, you can use Opensearch to retrieve the SAML response.
+
+1. Select **Add filter**
+1. Click **Select a field first**
+1. Choose `controller`
+1. In the **Operator** drop-down, select `is`
+1. In the **Value** box, add `OmniauthCallbacksController`
+1. Click **Save**
+
+As you adjust the date range appropriately, you should have a list of logs to look through. You can get a bit more information about these authentication attempts by refining the query a bit further. In the **Search field names** box, type `action`. Click the **+** symbol to `Add field as column`. In the list of logs, you'll now see the `action` associated with each authentication attempt. The `action` field will indicate whether the authentication attempt resulted in a `failure`.
+
+You may wish to inspect an individual SAML response. When you have identified the log entry that includes the SAML response you wish to inspect, click the right arrow to view the **Expanded document**.
+
+1. In the `params` section, you'll see a JSON object that has a key called `SAMLResponse` (The data in the `value` is the base64-encoded SAML response.)
+    - Sometimes this key is too large so the log will only contain the value `truncated`. In this case, you will need to ask the customer [to capture the SAML response](https://docs.gitlab.com/ee/user/group/saml_sso/troubleshooting.html#generate-a-saml-response) themselves and send it to you.
+1. Save the long string in the `value` field (it should end with `=`) to a file like `response.txt`
+1. Decode the base64-encoded value with `base64 -d response.txt`.
+    - To make inspection easier, write the output of the base64 decode into an XML file, for example `base64 -d response.txt > /tmp/samlresponse.xml`.
+    - This file can be directly opened in some browsers like Firefox and Google Chrome to make it more readable.
+
+Read more about [what to look for in the SAML response](https://docs.gitlab.com/ee/user/group/saml_sso/troubleshooting.html#saml-debugging-tools).

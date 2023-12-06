@@ -1,17 +1,7 @@
 ---
-
 title: "UX Research tools/applications"
 description: "Tools we use, how to find existing research, tracking research findings, and more."
 ---
-
-
-
-
-
-
-
-
-
 
 Product Managers, Product Designers, and UX Researchers have access to the UX research tools below.  If you need access to any of these tools, please [open an access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
 
