@@ -54,7 +54,7 @@ GitLab has two distinct security zones:
 
 - Ensure devices are not left unattended in public areas and are locked when not in use. [Activate a screensaver with password lock, lock the desktop, close the lid](https://handbook.gitlab.com/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration).
 
-- Personal mobile phone and tablet usage [must be passcode enabled](https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#personal-mobile-phone-and-tablet-usage).
+- Personal mobile phone and tablet usage [must be passcode protected](https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#personal-mobile-phone-and-tablet-usage).
 
 - Sensitive data should not be stored on removable storage devices, such as USB drives or external hard drives. External media on company assets [is not sanctioned](https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#use-of-external-media-on-company-assets).
 
