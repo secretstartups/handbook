@@ -15,9 +15,9 @@ We can leverage a Technical Close Plan early in the sales process to help Soluti
 A Technical Close Plan is most useful as an opportunity is approaching a technical evaluation. The plan adds clarity to how to successfully complete the evaluation in a shorter period of time. Within the sales stages, that typically aligns to Stage-3 Technical Evaluation, but might also make sense in Stage-2 Scoping. 
 
 ### Which Opportunities Should Have a Technical Close Plan?
-1. All opportunities with an [SA Validated Tech Evaluation](../../processes/activity-capture/#sa-specific-opportunity-fields)
+1. All opportunities with an [SA Validated Tech Evaluation](/handbook/customer-success/solutions-architects/processes/activity-capture/#sa-specific-opportunity-fields)
 1. Opportunities over $300k net ARR
-1. First Order opportunities for accounts with [LAM](../../../../sales/field-operations/sales-systems/gtm-technical-documentation/#landed-addressable-market-lam) over $2M
+1. First Order opportunities for accounts with [LAM](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#landed-addressable-market-lam) over $2M
 
 SA Managers have discretion for additional opportunities to be included or excluded
 
