@@ -50,3 +50,12 @@ Act as an advocate and amplify the voice of the customer and Account Team throug
 **Operating Cadence**
 
 **Weekly**
+
+Action Planning execution and reviews (asynch)
+
+Customer engagement (account teams)
+
+**Monthly**
+
+Account team and Exec Sponsor account planning session
+E-Group and CRO LT program update
