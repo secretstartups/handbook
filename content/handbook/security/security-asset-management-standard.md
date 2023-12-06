@@ -60,7 +60,7 @@ GitLab has two distinct security zones:
 
 - Printing documents containing sensitive information as defined by the [Data Classification Standard](https://handbook.gitlab.com/handbook/security/data-classification-standard/) is prohibited.
 
-- [Secure your data during travels](https://handbook.gitlab.com/handbook/travel/#secure-your-data-during-travels) including utilizing a VPN, ensure that when you are talking about restricted data you are in a secure place and no-one can hear you, lock your device.
+- [Secure your data during travel](https://handbook.gitlab.com/handbook/travel/#secure-your-data-during-travels) including utilizing a VPN, ensure that you are in a secure place and no-one can hear you when you are talking about restricted data, and locking your device when it is not in use.
 
 - Do not bring company-owned devices to [embargoed countries](https://handbook.gitlab.com/handbook/sales/#export-control-classification-and-countries-we-do-not-do-business-in) without consulting the Legal Department.
 
