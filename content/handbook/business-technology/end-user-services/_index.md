@@ -119,6 +119,12 @@ To learn more on how this automation works, check the [IT-Help Slack Issue Creat
 
 - Use specialized help desk support software to take control of end-users' computers to troubleshoot, diagnose, and resolve complex issues.
 
+#### IT Holiday Schedule
+
+The IT Support team will have members on leave from the 18th of December 2023 to the 2nd of January 2024. However we will coverage over the holidays for all days. 
+
+If you have an urgent request, please reach out to us via slack in the #IT_Help channel
+ 
 #### IT Ops
 
 - IT Ops will work with Security, the People Group, and Business Technology to develop automated on-boarding and off-boarding processes.
