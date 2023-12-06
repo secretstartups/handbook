@@ -5,7 +5,7 @@ title: "GTM Analytics Hub"
 ## Common Links
 
 - [Sales Finance]({{< ref "_index.md" >}})
-- [Sales Strategy & Analytics (SS&A)](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/)
+- [Sales Strategy & Analytics (SS&A)](/handbook/sales/field-operations/sales-strategy/)
 
 ## Reports and Dashboards
 

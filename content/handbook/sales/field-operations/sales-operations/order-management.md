@@ -17,7 +17,7 @@ description: "The Order Management team's mission is to streamline the opportuni
 
 The Order Management page outlines the goals, tasks, and standard operating guidelines for each regional team. Here you will find more information about our KPIs, SLAs, and best practices for working with our team.
 
-For an in depth overview of Opportunity Approval Booking Requirements, please review the [Sales Order Processing page](https://about.gitlab.com/handbook/sales/field-operations/order-processing/).
+For an in depth overview of Opportunity Approval Booking Requirements, please review the [Sales Order Processing page](/handbook/sales/field-operations/order-processing/).
 
 ### What We Do
 
@@ -46,11 +46,11 @@ The GitLab Order Management team owns the Opportunity Approval and Booking Proce
 - Partner with cross-functional teams to implement new routes to market
 
 **Key Processes & Documentation**
-- [Bookings Policy](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#bookings-policy)
-- [Opportunity Approval/Booking Requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#submit-an-opportunity-for-booking)
-- [Initial License Fulfillment & Delivery](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/order-management/#license-delivery-review-process)
-- [Subscription Management](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/order-management/#subscriptionrenewal-management-process)
-- [Sales Order Processing Handbook](https://about.gitlab.com/handbook/sales/field-operations/order-processing/)
+- [Bookings Policy](/handbook/sales/field-operations/order-processing/#bookings-policy)
+- [Opportunity Approval/Booking Requirements](/handbook/sales/field-operations/order-processing/#submit-an-opportunity-for-booking)
+- [Initial License Fulfillment & Delivery](/handbook/sales/field-operations/sales-operations/order-management/#license-delivery-review-process)
+- [Subscription Management](/handbook/sales/field-operations/sales-operations/order-management/#subscriptionrenewal-management-process)
+- [Sales Order Processing Handbook](/handbook/sales/field-operations/order-processing/)
 
 **Key Reports:**
 - [DD + OM Cases / Average First Response](https://gitlab.my.salesforce.com/00O4M000004edoT)
@@ -146,7 +146,7 @@ Order Management Specialists will be responsible for taking action on feedback r
 
 ### Key Performance Indicators: Results
 
-To review quarterly KPI results, see: [Deal Desk & Order Management KPI - Results](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/Deal-Desk-Order-Mgmt-KPIs/)
+To review quarterly KPI results, see: [Deal Desk & Order Management KPI - Results](/handbook/sales/field-operations/sales-operations/Deal-Desk-Order-Mgmt-KPIs/)
 
 ### Opportunity Approval Process
 

@@ -84,7 +84,7 @@ Once you know what scenario(s) you’ll put your participants through, it’s im
 
 It’s important to thoroughly plan how a participant will complete your scenario(s), especially if you answered "yes" to any of the questions above. Involve technical counterparts early in the process if you have any uncertainty about how to enable users to go through your desired flow(s).
 
-If you want help creating a pristine test environment be sure to reach out to the [Demo Systems](https://about.gitlab.com/handbook/customer-success/demo-systems/) group on the #demo-systems Slack channel. They can create a demo environment for users and help build any particular parameters needed for your testing environment. Be aware that setting up a test environment for a research study can be time consuming and difficult. Alternately, you can utilitze the [UX Cloud Sandbox](/handbook/product/ux/ux-research/ux-cloud-sandbox/).
+If you want help creating a pristine test environment be sure to reach out to the [Demo Systems](/handbook/customer-success/demo-systems/) group on the #demo-systems Slack channel. They can create a demo environment for users and help build any particular parameters needed for your testing environment. Be aware that setting up a test environment for a research study can be time consuming and difficult. Alternately, you can utilitze the [UX Cloud Sandbox](/handbook/product/ux/ux-research/ux-cloud-sandbox/).
 
 If your JTBD interacts with other stage groups’ areas, reach out to them to ensure their part of our product will support your scenario(s).
 

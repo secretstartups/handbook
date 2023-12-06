@@ -38,7 +38,7 @@ This report filters by 6 main categories:
 
 | Prospecting Filters    |  Description       |
 | :---- | :---- |
-| [LamDevCount](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#landed-addressable-market-lam) | minimal 50 developers and for Rank 1.5 prospecting 100+ |
+| [LamDevCount](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#landed-addressable-market-lam) | minimal 50 developers and for Rank 1.5 prospecting 100+ |
 | Industries | FinTech, Healthcare (US only), IT, Internet Software, Software (excluding IT Software Consulting firms)|
 | CE users | Companies that are using the free Community Edition of our product |
 | Location | Accounts that have Headquarters located in Metropolean cities |

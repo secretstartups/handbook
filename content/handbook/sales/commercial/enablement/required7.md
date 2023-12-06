@@ -114,7 +114,7 @@ Call notes must be logged against the opportunity record, *NOT* the account. Thi
 
 ## 2/ Ranking your accounts
 
-The goal of ranking your accounts (customers AND prospects) is to enable you to prioritize your time and proactively work on the right customers with the right amount of effort. When your accounts are ranked effectively, you can work on a cadence that helps you grow ARR by spending the right amount of time depending on the potential and current value of the customer/prospect. It also gives you the opportunity to verify if the account is correctly aligned to you and, if not, take corrective action as per the [Rules of Engagement](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership).
+The goal of ranking your accounts (customers AND prospects) is to enable you to prioritize your time and proactively work on the right customers with the right amount of effort. When your accounts are ranked effectively, you can work on a cadence that helps you grow ARR by spending the right amount of time depending on the potential and current value of the customer/prospect. It also gives you the opportunity to verify if the account is correctly aligned to you and, if not, take corrective action as per the [Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership).
 
 ### When to do it
 
@@ -124,7 +124,7 @@ You should rank your accounts within 24 hours of getting them assigned to you. A
 
 ### How to do it
 
-Do some brief research on the customer’s employee count, LinkedIn Insights, latest news, current subscription (or license tier of interest if it’s a prospect) and make a judgement on its potential. You must verify that the account is correctly aligned to you during this exercise and if it's incorrect,[request that it is moved](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#exception-process-to-request-account-ownership-change). Once you have decided which rank it should be in, mark the account as such in Salesforce and enter notes that outline why you chose that rank. You can also check out the [account ranking section on the handbook](https://about.gitlab.com/handbook/sales/commercial/#account-ranking) for more detailed information.
+Do some brief research on the customer’s employee count, LinkedIn Insights, latest news, current subscription (or license tier of interest if it’s a prospect) and make a judgement on its potential. You must verify that the account is correctly aligned to you during this exercise and if it's incorrect,[request that it is moved](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#exception-process-to-request-account-ownership-change). Once you have decided which rank it should be in, mark the account as such in Salesforce and enter notes that outline why you chose that rank. You can also check out the [account ranking section on the handbook](/handbook/sales/commercial/#account-ranking) for more detailed information.
 
 Here are some things to consider when ranking an account:
 
@@ -235,7 +235,7 @@ Please review the [how to update the commercial slide deck document](https://doc
 ### Examples & further resources
 
 - [A good pitch deck](https://docs.google.com/presentation/d/1poCSPEOBGb1w5yFZ0g730lIwmiX6nuTIaJvV4ZdzHd4/edit?usp=sharing)
-- [Pitch deck requirements](https://about.gitlab.com/handbook/sales/commercial/#opportunity-specific-slide-deck)
+- [Pitch deck requirements](/handbook/sales/commercial/#opportunity-specific-slide-deck)
 
 ### Pro tips
 

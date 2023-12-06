@@ -9,7 +9,7 @@ title: Customer Success Escalations Process
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 - - -
 
@@ -136,7 +136,7 @@ This channel will remain open until the escalation is closed and should be liste
 ##### Escalation Tracker Doc
 
 
-If a [Critical or High-Level escalation](https://about.gitlab.com/handbook/customer-success/csm/escalations/#critical-and-high-level-escalations) has been created, CSMs should create an escalation document using the [Escalation Tracker Template](https://docs.google.com/document/d/1DFW9WDigDZTRQlArqvyaLl_GcYi5lwsxKKKtcjB49s0/edit#) (internal GitLab access only).
+If a [Critical or High-Level escalation](/handbook/customer-success/csm/escalations/#critical-and-high-level-escalations) has been created, CSMs should create an escalation document using the [Escalation Tracker Template](https://docs.google.com/document/d/1DFW9WDigDZTRQlArqvyaLl_GcYi5lwsxKKKtcjB49s0/edit#) (internal GitLab access only).
 
 Copy and save the document for the individual customer and replace (CUSTOMER) with the customer name, complete the required fields
 
@@ -236,4 +236,4 @@ Engineering support will usually come via Support Engineering, however it's wort
 
 - [Support Engineering Page](/handbook/support/) and [Support Engineering Escalation Procedures](/handbook/support/workflows/working-with-issues.html)
 - [Product Escalation Issue Template](https://gitlab.com/gitlab-com/Product/issues/new?issuable_template=Product-Support-Request) to request Product Team support for roadmap / future needs, prioritization of enhancements and/or issues and troubleshooting of customer issues.
-- [Customer Health Assessment and Account Triaging](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/)
+- [Customer Health Assessment and Account Triaging](/handbook/customer-success/csm/health-score-triage/)

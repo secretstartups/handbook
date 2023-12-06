@@ -22,7 +22,7 @@ description: "Successful management includes onboarding, reviewing Command Plans
 
 ## Review Account Plans
 
-- Regularly review account plans with your team. Quarterly reviews of the account plan(s) are recommended. For more information, review the [Account Planning Coaching](https://about.gitlab.com/handbook/sales/account-planning/coaching/) page.  
+- Regularly review account plans with your team. Quarterly reviews of the account plan(s) are recommended. For more information, review the [Account Planning Coaching](/handbook/sales/account-planning/coaching/) page.  
 
 
 ## Review Command Plans
@@ -31,7 +31,7 @@ description: "Successful management includes onboarding, reviewing Command Plans
 
 ## Opportunity Coaching
 
-- Check out the [Opportunity Consults Handbook page](https://about.gitlab.com/handbook/sales/command-of-the-message/opportunity-consults)
+- Check out the [Opportunity Consults Handbook page](/handbook/sales/command-of-the-message/opportunity-consults)
 - Regularly leverage the Command of the Message and MEDDPPICC [Sales Manager Materials](https://internal.gitlab.com/handbook/sales/command-of-the-message/sales-manager-materials/) (internal only).
 
 ## Strategic Coaching

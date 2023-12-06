@@ -5,7 +5,7 @@ RoleName: "Account Manager, Mid-Market"
 
 ## Responsibilities
 
-- Build and expand relationships and awareness of GitLab within [SMB and mid-market accounts](https://about.gitlab.com/handbook/sales/#market-segmentation)
+- Build and expand relationships and awareness of GitLab within [SMB and mid-market accounts](/handbook/sales/#market-segmentation)
 - Identify and document business goals, technology stack, and how customers are using GitLab
 - Increase adoption of GitLab features and products through implementation of an outreach strategy
 - Advocate for customer needs for training and services where needed

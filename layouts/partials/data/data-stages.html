@@ -4,7 +4,7 @@
   {{- with .Err}}
     <h2>Unable to fetch data-stages.yml file.</h2>
   {{- else }}
-    {{- $dataStages := . | transform.Unmarshal }}
+    {{- $dataStages = . | transform.Unmarshal }}
   {{- end }}
 {{- end }}
 {{- return $dataStages}}

@@ -54,7 +54,7 @@ The Field Communications Specialist (Intermediate) is a grade [6](/handbook/tota
 - Support the Field Communications announcement calendar, working with DRIs across the business to triage and plan for updates
 - Foster strong partnerships with cross functional teams such as Field Enablement, Product Marketing, and others for aligned content and communication delivery
 - Support senior team members where needed on company initiatives that impact the Field teams
-- Champion efforts to improve Field Communications via GitLab’s [handbook-first approach to learning and development](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/#handbook-first-approach-to-gitlab-learning-and-development-materials)
+- Champion efforts to improve Field Communications via GitLab’s [handbook-first approach to learning and development](/handbook/sales/field-operations/field-enablement/#handbook-first-approach-to-gitlab-learning-and-development-materials)
 - Develop and implement a strategy for soliciting feedback from GitLab Field team members to inform communication priorities and requirements
 - Assist in communication of strategies or messages from senior leadership as needed
 - Take on additional projects and responsibilities as needed
@@ -197,7 +197,7 @@ The Senior Manager, Field Communications is a grade [9](/handbook/total-rewards/
 
 ## Performance Indicators
 
-- [Field communication/newsletter open and click-through rates](https://about.gitlab.com/handbook/sales/field-communications/field-flash-newsletter/#measurement)
+- [Field communication/newsletter open and click-through rates](/handbook/sales/field-communications/field-flash-newsletter/#measurement)
 - Field Comms & Content Pulse Survey response rates
   - Results from benchmark questions related to the Field’s sentiment around feeling informed and enabled in their roles
 - Feedback from key stakeholders, including CRO LT and Field Leaders/Managers

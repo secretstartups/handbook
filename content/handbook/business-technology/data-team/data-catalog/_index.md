@@ -490,13 +490,13 @@ The analysis section provides references to analytical projects developed by the
 
 # Metrics and Terms Index
 
-- [Sales Term Glossary](https://about.gitlab.com/handbook/sales/sales-term-glossary/)
-- ARR: [Annual Recurring Revenue](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/)
+- [Sales Term Glossary](/handbook/sales/sales-term-glossary/)
+- ARR: [Annual Recurring Revenue](/handbook/sales/sales-term-glossary/arr-in-practice/)
 - ATR: Available To Renew
 - CAC: Customer Acquisition Cost
 - LTV: *customer* LifeTime Value
 - [Namespace](https://docs.gitlab.com/ee/user/group/#namespaces)
-- NDR: [Net Dollar Retention](https://about.gitlab.com/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
+- NDR: [Net Dollar Retention](/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
 - PQL: [Product Qualified Lead](/handbook/product/product-principles/#product-qualified-leads-pqls)
 - [Product Stage](/handbook/product/categories/#devops-stages)
 - SM: [Self-Managed aka Self-Hosted](/features/)

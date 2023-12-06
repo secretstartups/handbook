@@ -35,7 +35,7 @@ Avoid contacting any Revenue Accounting team members [directly via Slack]({{< re
 ### Salesforce
 
 Salesforce is used for sourcing customers, creating quotes, and housing all customer information and supporting documentation. The Revenue Accounting Team utilizes SFDC to view all related customer documentation and account information.
-See also: [Business Operations - Salesforce Reference](https://about.gitlab.com/handbook/sales/field-operations/sfdc/)
+See also: [Business Operations - Salesforce Reference](/handbook/sales/field-operations/sfdc/)
 
 ### Zuora Revenue
 

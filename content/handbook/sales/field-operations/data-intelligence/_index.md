@@ -11,7 +11,7 @@ Data Intelligence (DI) is a part of Field Operations reporting to Revenue Operat
 
 Data intelligence aims at ensuring that impacted parties understand the data and the best uses of the data. This is achieved through enablement to the field on data enrichment, data governance, data cleaning, and overall fostering a data culture to make data-driven decisions and drive results.
 
-Our Data Governance page can be found [here](https://about.gitlab.com/handbook/sales/field-operations/data-intelligence/data-governance/)
+Our Data Governance page can be found [here](/handbook/sales/field-operations/data-intelligence/data-governance/)
 
 ## <i class="fas fa-users" id="biz-tech-icons"></i> Meet the Team
 

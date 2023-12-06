@@ -89,7 +89,7 @@ If you'd like access to the sandbox, please fill out an [AR](/handbook/business-
 To limit the number of leads that pass from SFDC staging to Marketo Sandbox, we have instituted a custom rule that will only allow leads to sync from SFDC Staging to Marketo Sandbox IF `Marketo Sync` = TRUE. This is opposite logic than what we have for production.
 
 #### Reconnecting Sandbox to SFDC Staging
-Sales Systems refreshes the [SFDC staging environment](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#sandbox-refreshes) periodically. When this occurs, there are several steps to take to reconnect it to the Marketo sandbox outlined on that page.
+Sales Systems refreshes the [SFDC staging environment](/handbook/sales/field-operations/sales-systems/#sandbox-refreshes) periodically. When this occurs, there are several steps to take to reconnect it to the Marketo sandbox outlined on that page.
 
 
 ## Forms   

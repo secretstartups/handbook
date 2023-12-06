@@ -19,10 +19,10 @@ The team meets as a full group multiple times in a given quarter, with each meet
 The high-level cadence of Field all-hands meetings in a given quarter is:
 
 1. **Month 1**
-   1. [WW Field Manager Call](https://about.gitlab.com/handbook/sales/sales-meetings/#ww-field-manager-call)
-   1. [Quarterly Business Reviews (QBRs)](https://about.gitlab.com/handbook/sales/sales-meetings/#quarterly-business-reviews)
+   1. [WW Field Manager Call](/handbook/sales/sales-meetings/#ww-field-manager-call)
+   1. [Quarterly Business Reviews (QBRs)](/handbook/sales/sales-meetings/#quarterly-business-reviews)
 1. **Month 2**
-   1. [WW Field Org Call](https://about.gitlab.com/handbook/sales/sales-meetings/#ww-field-org-call)
+   1. [WW Field Org Call](/handbook/sales/sales-meetings/#ww-field-org-call)
 1. **Month 3**
    1. No all-hands meeting; quiet time for end-of-quarter activities.
 
@@ -52,7 +52,7 @@ The high-level cadence of Field all-hands meetings in a given quarter is:
 
 QBRs commence in the final week of the previous quarter for Customer Success and continue into the second or third week of the current quarter for Sales, with the CRO LT completing the QBR cycle.
 
-For a full overview of the QBR planning and execution process, QBR request tracking, best-practices for organizers and attendees, and where to find past QBR content, [see here](https://about.gitlab.com/handbook/sales/qbrs).
+For a full overview of the QBR planning and execution process, QBR request tracking, best-practices for organizers and attendees, and where to find past QBR content, [see here](/handbook/sales/qbrs).
 
 ### WW Field Org Call
 
@@ -69,7 +69,7 @@ For a full overview of the QBR planning and execution process, QBR request track
    1. [5-10 min] Guest Speaker Updates
    1. [15-20 min] Q&A
    1. Update Ticker (included asynchronously)
-- If you would like to add topics to the agenda, please coordinate with Field Communications using their [announcement request process](https://about.gitlab.com/handbook/sales/field-communications/#requesting-field-announcements).
+- If you would like to add topics to the agenda, please coordinate with Field Communications using their [announcement request process](/handbook/sales/field-communications/#requesting-field-announcements).
 
 #### General Guidelines for Attendees
 
@@ -86,7 +86,7 @@ For a full overview of the QBR planning and execution process, QBR request track
 ### Field Enablement Spotlight series
 - **When:** Weekly on Thursday at 9am Pacific time, except in the last two weeks of a quarter
 - **Who:** The entire GitLab Field team is invited to this meeting series. The series can be found on the [Field Enablement Google Calendar](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV81bjNnNjBsNTh0aHVtOWFvdnA4aWlzYXYzNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
-- **What:** The purpose of this series is to enable Field team members on the latest resources and selling tactics. Enablement topics vary weekly. See more on [the handbook page](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/).
+- **What:** The purpose of this series is to enable Field team members on the latest resources and selling tactics. Enablement topics vary weekly. See more on [the handbook page](/handbook/sales/training/sales-enablement-sessions/).
 
 ### Sales Group Conversation
 - **When:** Happens once every 8 weeks at 8am Pacific time

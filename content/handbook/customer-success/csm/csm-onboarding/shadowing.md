@@ -9,7 +9,7 @@ title: "Meeting Shadowing"
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ---
 
@@ -19,15 +19,15 @@ Senior members of the team should proactively invite new CSMs for shadowing and 
 
 ## Cadence calls
 
-The [cadence call](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/) is a core element of the CSM's engagement with a customer. There are several elements involved in a cadence call beyond the call itself.
+The [cadence call](/handbook/customer-success/csm/cadence-calls/) is a core element of the CSM's engagement with a customer. There are several elements involved in a cadence call beyond the call itself.
 
 ### Pre-call prep
 
 It's important to prep for any customer calls in advance to ensure everyone is getting full value out of the synchronous time. To shadow pre-call prep, it involves both shadowing internal calls and shadowing CSMs 1:1 while they prepare.
 
 - SALSATAM call
-  - CSMs [meet regularly with each of their SAE/AE and SA teams](https://about.gitlab.com/handbook/customer-success/account-team/#account-team-meeting) to ensure they are in sync on their efforts to turn prospects into customers, and engagement with existing customers. A new team member will shadow account team meetings to learn about how they should be conducted.
-- Creating [meeting agenda](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/#cadence-call-notes)
+  - CSMs [meet regularly with each of their SAE/AE and SA teams](/handbook/customer-success/account-team/#account-team-meeting) to ensure they are in sync on their efforts to turn prospects into customers, and engagement with existing customers. A new team member will shadow account team meetings to learn about how they should be conducted.
+- Creating [meeting agenda](/handbook/customer-success/csm/cadence-calls/#cadence-call-notes)
 - Gathering required information for call (issue follow-ups, creating demos, reviewing gaps in Gainsight entries, etc.)
 - Creating calendar invite (if needed)
 
@@ -48,15 +48,15 @@ A new team member will shadow cadence calls to learn how we conduct them live.
 After a customer call ends, there are a number of follow-up items that the CSM does to ensure any action items or unresolved questions are addressed. The new team member should shadow any internal calls and shadow CSMs 1:1 while they do this work. The established CSM should be sure to copy and/or tag the new CSM on any correspondence they have in email, issues, or Slack to ensure the new CSM sees the full lifecycle.
 
 - SALSATAM call and/or ad-hoc debrief
-- [Gainsight](https://about.gitlab.com/handbook/customer-success/csm/gainsight/) entries (logging the call, updating CTAs, etc.)
+- [Gainsight](/handbook/customer-success/csm/gainsight/) entries (logging the call, updating CTAs, etc.)
 - Gather items on areas you could not answer on the call
   - Create issues (if needed)
   - Talk to PMs (if needed)
   - Ask questions in Slack (if needed)
 - Follow up with the customer on outstanding items
 
-The [cadence call](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/) is a core element of the CSM's engagement with a customer. A new team member will shadow cadence calls to learn how we conduct them, and will be involved in the pre-call planning and post-call actions.
+The [cadence call](/handbook/customer-success/csm/cadence-calls/) is a core element of the CSM's engagement with a customer. A new team member will shadow cadence calls to learn how we conduct them, and will be involved in the pre-call planning and post-call actions.
 
 ## Account team meetings
 
-CSMs [meet regularly with each of their SAE/AE and SA teams](https://about.gitlab.com/handbook/customer-success/account-team/#account-team-meeting) to ensure they are in sync on their efforts to turn prospects into customers, and engagement with existing customers. A new team member will shadow account team meetings to learn about how they should be conducted.
+CSMs [meet regularly with each of their SAE/AE and SA teams](/handbook/customer-success/account-team/#account-team-meeting) to ensure they are in sync on their efforts to turn prospects into customers, and engagement with existing customers. A new team member will shadow account team meetings to learn about how they should be conducted.

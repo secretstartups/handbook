@@ -9,19 +9,19 @@ title: "Executive Business Reviews (EBRs)"
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ---
 
 ## Overview
 
-An Executive Business Review (EBR) is a strategic meeting with stakeholders from both GitLab and the customer. It is an extension of the account planning process and part of the CSM's regular business rhythm. The EBR aims to demonstrate to the [Economic Buyer](https://about.gitlab.com/handbook/sales/meddppicc/#economic-buyer) the value they are getting in their partnership with GitLab. It is interactive from both sides, discussing the customer's desired business outcomes and related metrics, progress against these metrics and desired outcomes, and aligning on strategic next steps. The most crucial element in all EBRs is giving the customer stakeholders the time to speak about what matters to them, and creating a framework to enable them to do so.
+An Executive Business Review (EBR) is a strategic meeting with stakeholders from both GitLab and the customer. It is an extension of the account planning process and part of the CSM's regular business rhythm. The EBR aims to demonstrate to the [Economic Buyer](/handbook/sales/meddppicc/#economic-buyer) the value they are getting in their partnership with GitLab. It is interactive from both sides, discussing the customer's desired business outcomes and related metrics, progress against these metrics and desired outcomes, and aligning on strategic next steps. The most crucial element in all EBRs is giving the customer stakeholders the time to speak about what matters to them, and creating a framework to enable them to do so.
 
 CSMs conduct EBRs with their customers as follows:
 
 | Segment | Cadence |
 |---|---|
-| Commercial | 20% of book of business is offered an EBR per year, in line with the goal of having [20% of the book of business be PR1](https://about.gitlab.com/handbook/customer-success/csm/engagement/#growth-accounts) |
+| Commercial | 20% of book of business is offered an EBR per year, in line with the goal of having [20% of the book of business be PR1](/handbook/customer-success/csm/engagement/#growth-accounts) |
 | Enterprise | 1 EBR per customer per year minimum |
 
 ## What constitutes an EBR?
@@ -32,7 +32,7 @@ The key ingredients for an EBR are alignment and outcomes pertaining to business
 
 ## EBR management for a CSM's book of business
 
-As a key strategic engagement with customers, EBRs should be forecasted and planned with a long time horizon. CSMs should plan out their intended EBR delivery schedule for the full fiscal year, based on the [target of conducting an EBR halfway through a customer's renewal cycle (6 months from the renewal date)](https://about.gitlab.com/handbook/customer-success/csm/#high-level-responsibilities-of-a-csm).
+As a key strategic engagement with customers, EBRs should be forecasted and planned with a long time horizon. CSMs should plan out their intended EBR delivery schedule for the full fiscal year, based on the [target of conducting an EBR halfway through a customer's renewal cycle (6 months from the renewal date)](/handbook/customer-success/csm/#high-level-responsibilities-of-a-csm).
 
 ## Intended participants
 
@@ -40,11 +40,11 @@ As the EBR is meant to provide high-level alignment on progress & success, as we
 
 From the customer side, these may include:
 
-- [Economic buyer](https://about.gitlab.com/handbook/sales/meddppicc/#economic-buyer)
-- [Champion](https://about.gitlab.com/handbook/sales/meddppicc/#champion)
+- [Economic buyer](/handbook/sales/meddppicc/#economic-buyer)
+- [Champion](/handbook/sales/meddppicc/#champion)
 - [Executives](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/#tech-exec-tristan)
 - Managers & leadership responsible for GitLab use case implementation
-- [Key customer personas](https://about.gitlab.com/handbook/customer-success/csm/engagement/#customer-personas)
+- [Key customer personas](/handbook/customer-success/csm/engagement/#customer-personas)
 
 From GitLab, in addition to the account team this may include:
 
@@ -53,7 +53,7 @@ From GitLab, in addition to the account team this may include:
 - Area Sales Manager
 - Sales Area Vice President
 - Other senior leaders, as determined in collaboration with management
-- Subject matter experts for product discussion, as applicable (e.g. [Product Manager](/handbook/product/categories/#devops-stages), [Customer Success Engineer](https://about.gitlab.com/handbook/customer-success/csm/cse/), [Solutions Architect](https://about.gitlab.com/handbook/customer-success/solutions-architects/), [Field CTO](/job-families/sales/solutions-architect/#field-cto-responsibilties), [Field CISO](/job-families/sales/solutions-architect/#field-security-officer-responsibilities))
+- Subject matter experts for product discussion, as applicable (e.g. [Product Manager](/handbook/product/categories/#devops-stages), [Customer Success Engineer](/handbook/customer-success/csm/cse/), [Solutions Architect](/handbook/customer-success/solutions-architects/), [Field CTO](/job-families/sales/solutions-architect/#field-cto-responsibilties), [Field CISO](/job-families/sales/solutions-architect/#field-security-officer-responsibilities))
 
 Decisions about who to invite to an EBR are made collectively by the account team with input from their respective managers.
 
@@ -77,7 +77,7 @@ This section outlines the typical flow of an EBR covering preparation, delivery,
 
 ### Internal kickoff
 
-The first step in preparing any EBR is aligning internally with the [account team](https://about.gitlab.com/handbook/customer-success/account-team/). This discussion covers:
+The first step in preparing any EBR is aligning internally with the [account team](/handbook/customer-success/account-team/). This discussion covers:
 
 - Target timeframe for the EBR to be scheduled
 - General review of the customer's current state and roadmap
@@ -93,7 +93,7 @@ During the next cadence call, the CSM discusses the EBR with the customer contac
 
 [Resources](#resources--materials) to help you with this discussion are available.
 
-It may be beneficial, or even necessary, to follow up on this discussion in other mediums. In addition to the follow-up email after the cadence call, a separate email specifically for the EBR can help keep focus on planning. If there is customer communication via other platforms like Slack or the [collaboration project](https://about.gitlab.com/handbook/customer-success/csm/customer-collaboration-project/) those are also good vectors for this discussion.
+It may be beneficial, or even necessary, to follow up on this discussion in other mediums. In addition to the follow-up email after the cadence call, a separate email specifically for the EBR can help keep focus on planning. If there is customer communication via other platforms like Slack or the [collaboration project](/handbook/customer-success/csm/customer-collaboration-project/) those are also good vectors for this discussion.
 
 ### Scheduling
 
@@ -142,13 +142,13 @@ Travel should be booked & planned two weeks prior to the EBR to ensure all clien
 
 #### Cadence call mini-EBR
 
-Although we strive to include senior leadership from the customer in an EBR, that may not always be possible. If after two attempts to request an EBR with the decision makers and influencers the CSM is still unsuccessful, extend an upcoming [cadence call](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/) to one hour and use this session to show the value of the EBR conversation.
+Although we strive to include senior leadership from the customer in an EBR, that may not always be possible. If after two attempts to request an EBR with the decision makers and influencers the CSM is still unsuccessful, extend an upcoming [cadence call](/handbook/customer-success/csm/cadence-calls/) to one hour and use this session to show the value of the EBR conversation.
 
 The important thing is to conduct an EBR with a focus on strategy and objectives, both to align with our current contacts and to position a future EBR with stakeholders and leadership.
 
 [Review the guidance on shortening an EBR](#tips-for-shortening-an-ebr) to consolidate your program for a cadence call EBR.
 
-While an EBR is a specific motion, we should naturally treat all [cadence calls](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/) as a "mini EBR" to enthrall our key contacts, continue demonstrating GitLab's value, and entice the customer to learn more and engage more readily with a full EBR.
+While an EBR is a specific motion, we should naturally treat all [cadence calls](/handbook/customer-success/csm/cadence-calls/) as a "mini EBR" to enthrall our key contacts, continue demonstrating GitLab's value, and entice the customer to learn more and engage more readily with a full EBR.
 {: .alert .alert-gitlab-purple}
 
 ### Planning & assembly
@@ -162,7 +162,7 @@ The customer's [success plan](#success-planning) forms the basis of the EBR. Thi
 Throughout the process we should align with the customer on discussion points and details, and ensure we are highlighting their accomplishments as part of the messaging. While the CSM is the [DRI](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual) for the EBR, it is a collaborative effort between the CSM, the other account team members, *and the customer*. **There should be no surprises in the content of the EBR for anyone involved.**
 {: .alert .alert-gitlab-purple}
 
-If you plan to discuss product information, ensure you align with the right GitLab team members for that discussion as early as possible. This may include a [Product Manager](/handbook/product/categories/#devops-stages), [Customer Success Engineer](https://about.gitlab.com/handbook/customer-success/csm/cse/), [Solutions Architect](https://about.gitlab.com/handbook/customer-success/solutions-architects/), or other subject matter experts. Give these team members ample time to align on the plan and prepare their portion of the EBR program.
+If you plan to discuss product information, ensure you align with the right GitLab team members for that discussion as early as possible. This may include a [Product Manager](/handbook/product/categories/#devops-stages), [Customer Success Engineer](/handbook/customer-success/csm/cse/), [Solutions Architect](/handbook/customer-success/solutions-architects/), or other subject matter experts. Give these team members ample time to align on the plan and prepare their portion of the EBR program.
 
 The CSM and their manager will periodically review the EBR as this stage progresses. The CSM Manager ensures that the focus areas are appropriate for the [participants](#intended-participants) and in line with expectations for an EBR.
 
@@ -265,9 +265,9 @@ Initial steps on follow-up items should be completed no more than one week follo
 
 ### Success planning
 
-**No EBR is complete without updating the [success plan](https://about.gitlab.com/handbook/customer-success/csm/success-plans/).**
+**No EBR is complete without updating the [success plan](/handbook/customer-success/csm/success-plans/).**
 
-Within a few days of the EBR, while the information is still fresh, the CSM updates the customer's [success plan](https://about.gitlab.com/handbook/customer-success/csm/success-plans/). The EBR will have generated a lot of new information that will drive our strategy and actions with the customer for the coming months. All sections of the success plan should be updated, and objectives created and/or updated based on the EBR discussion & takeaways.
+Within a few days of the EBR, while the information is still fresh, the CSM updates the customer's [success plan](/handbook/customer-success/csm/success-plans/). The EBR will have generated a lot of new information that will drive our strategy and actions with the customer for the coming months. All sections of the success plan should be updated, and objectives created and/or updated based on the EBR discussion & takeaways.
 
 The CSM Manager will discuss the EBR with the CSM in their next 1:1 after the EBR, which will include reviewing the success plan.
 

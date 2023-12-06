@@ -43,7 +43,7 @@ ABM team to define process here in collaboration with Sales Strategy and Portfol
 | **Core criteria (must haves)** | Number of developers | 500+ |
 | | Tech stack (regional) | Includes GitHub, Perforce, Jenkins, BitBucket or Subversion |
 | | Cloud provider | AWS or GCP |
-| | Prospect | First order logo (not a current PAID customer for GitLab anywhere within the organization).  This is defined [here](https://about.gitlab.com/handbook/sales/sales-term-glossary/#first-order-customers).  |
+| | Prospect | First order logo (not a current PAID customer for GitLab anywhere within the organization).  This is defined [here](/handbook/sales/sales-term-glossary/#first-order-customers).  |
 | **Additional criteria (attributes to further define)** | Digital transformation | identified C-suite initiative |
 
 ### Mid-Market ICP (FY22)
@@ -56,7 +56,7 @@ ABM team to define process here in collaboration with Sales Strategy and Portfol
 | **Core criteria (must haves)** | Number of employees | >500 |
 | **Core criteria (must haves)** | Number of developers | 100+ |
 | | Tech stack (regional) | Includes GitHub, Perforce, Jenkins, BitBucket, Bamboo, or Subversion OR the absence of a tech stack. |
-| | Prospect | First order logo (not a current PAID customer for GitLab anywhere within the organization).  This is defined [here](https://about.gitlab.com/handbook/sales/sales-term-glossary/#first-order-customers).  |
+| | Prospect | First order logo (not a current PAID customer for GitLab anywhere within the organization).  This is defined [here](/handbook/sales/sales-term-glossary/#first-order-customers).  |
 | **Additional criteria (attributes to further define)** | New hire | CIO |
 
 
@@ -64,5 +64,5 @@ ABM team to define process here in collaboration with Sales Strategy and Portfol
 | ------ | ------ | ------ |
 | **Core criteria (must haves)** | Number of employees | <500 |
 | | Tech stack (regional) | A lack of technology installed.  GitLab would be the first purchsed for Devops for these companies. |
-| | Prospect | First order logo (not a current PAID customer for GitLab anywhere within the organization).  This is defined [here](https://about.gitlab.com/handbook/sales/sales-term-glossary/#first-order-customers).  |
+| | Prospect | First order logo (not a current PAID customer for GitLab anywhere within the organization).  This is defined [here](/handbook/sales/sales-term-glossary/#first-order-customers).  |
 | **Additional criteria (attributes to further define)** | New hire | CIO |

@@ -66,7 +66,7 @@ description: "Operations, Procedures, Documentation"
 | SAE | Strategic Account Executive |
 | Sales Admin | Sales Administrator |
 | Sales Serve | A sales method where a quota bearing member of the sales team closes the deal |
-| [SAO](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunities) | Sales Accepted Opportunity - an opportunity Sales agrees to pursue following an Initial Qualifying Meeting |
+| [SAO](/handbook/sales/field-operations/gtm-resources/#opportunities) | Sales Accepted Opportunity - an opportunity Sales agrees to pursue following an Initial Qualifying Meeting |
 | SDR | Sales Development Representative - inbound focused |
 | Self Serve | A sales method where a customer purchases online through our web store |
 | SLA | Service Level Agreement |
@@ -122,7 +122,7 @@ Sales capacity is an individual metric that is based on several factors (lead so
 - Months to lose - 3 months (half of months to close, expecting constant fallout)
 - Months on average - 4 (33.3% times 6 and 66.7% of 3)
 - Capacity Goal (active opportunities in [Stage 1-6](#customer-lifecycle)) - 40 opportunities
-- [SCLAU](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#glossary) per month - 10 (40 opportunities / 4 months)
+- [SCLAU](/handbook/sales/field-operations/gtm-resources/#glossary) per month - 10 (40 opportunities / 4 months)
 
 ## How Tos & Setup
 
@@ -153,7 +153,7 @@ Sales Segmentation is based on `Account Demographics: Max Family Employees`, whi
 - `Mid-Market` = 101-2000 total employees
 - `SMB` (Small Business) = 0-100 total employees
 
-![gtm-model](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/gtm-model1mm.png)
+![gtm-model](/handbook/sales/field-operations/gtm-resources/gtm-model1mm.png)
 
 
 We use a hierarchy structure to determine what the number of employees is for the account.
@@ -166,15 +166,15 @@ The hierarchy of our data tools on *Accounts* as they relate to the `Account Dem
 
  If a prospect communicates a different employee size from Zoominfo that conflicts with segmentation of what is determined by Zoominfo then SalesOPS should be notified via chatter on the record with documented proof from the prospect. Admins have the ability to override the Employees and bypass this hierarchy but only during our [sales segment review process](#sales-segment-and-hierarchy-review-process).
 
-Mid-Market accounts can be managed either as a [MM Key Account or belong to a MM Territory AE](https://about.gitlab.com/handbook/sales/commercial/#mid-market-roles).
+Mid-Market accounts can be managed either as a [MM Key Account or belong to a MM Territory AE](/handbook/sales/commercial/#mid-market-roles).
 
 ### Sales Segment and Hierarchy Review Process
 
-In order to address issues when it is believed that the employee count, account address and/or account ownership is incorrect follow the [Sales Operations process](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#what-if-tsp-is-wrong-how-can-i-request-a-change) to have the `Account Demographics` fields updated and the account will be reviewed per the Rules of Engagement.
+In order to address issues when it is believed that the employee count, account address and/or account ownership is incorrect follow the [Sales Operations process](/handbook/sales/field-operations/sales-operations/#what-if-tsp-is-wrong-how-can-i-request-a-change) to have the `Account Demographics` fields updated and the account will be reviewed per the Rules of Engagement.
 
 Provide the URL to validate the request. Examples of valid sources include but are not limited to financial filings, newspaper articles, reports directly from the company. During the Sales Ops review period it is at the discretion of the Sales Ops team to have the Total Employee count updated or to have it remain the same.
 
-If the number of employees, according to our sources based on our hierarchy as described in Segmentation has changed, the Sales Ops team will automatically update the accounts segment and follow the [Rules of Engagement](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement) account review process.
+If the number of employees, according to our sources based on our hierarchy as described in Segmentation has changed, the Sales Ops team will automatically update the accounts segment and follow the [Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement) account review process.
 
 ### Regional Leadership
 
@@ -195,7 +195,7 @@ If the number of employees, according to our sources based on our hierarchy as d
 
 ### Territories
 
-[Territory tables](https://about.gitlab.com/handbook/sales/territories/) are maintained within the Sales Handbook.
+[Territory tables](/handbook/sales/territories/) are maintained within the Sales Handbook.
 Both maps & written tables are kept up to date with all pairings and territory assignments.
 Our Traction Complete routing workflows and SFDC reports are based on these tables.
 
@@ -247,11 +247,11 @@ In order to rank accounts each Enterprise Sales rep would update the 'Account Ra
 
 ## Account Ranking for Commercial Sales
 
-It is a requirement for the Commercial Sales Team to tier their accounts using the fields on the Account Object. This helps prioritize the accounts to go after when prospecting for new or expansion. Please see the [Account Ranking section of the Commercial Sales handbook](https://about.gitlab.com/handbook/sales/commercial/#account-ranking) for definitions specific to SMB and Mid-Market AEs.
+It is a requirement for the Commercial Sales Team to tier their accounts using the fields on the Account Object. This helps prioritize the accounts to go after when prospecting for new or expansion. Please see the [Account Ranking section of the Commercial Sales handbook](/handbook/sales/commercial/#account-ranking) for definitions specific to SMB and Mid-Market AEs.
 
 ### Account Ownership, Opportunity Ownership & Order Type Rules of Engagement
 
-[Go to Market Rules of Engagement](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/)
+[Go to Market Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/)
 
 
 ### Account Sources, Routing and Other Requirements
@@ -285,7 +285,7 @@ All `Contact Us` requests must be followed up within **one (1) business day** Se
 
 U.S. Public Sector: Routed to the U.S. Public Sector Inside Sales team.
 
-- [GitLab Public Sector Rules of Engagement](https://about.gitlab.com/handbook/sales/public-sector/)
+- [GitLab Public Sector Rules of Engagement](/handbook/sales/public-sector/)
 
 #### Professional Service Requests
 
@@ -346,7 +346,7 @@ If you believe you have been incorrectly assigned a record that should belong to
 
 ### Changing Account Ownership in Salesforce
 
-Only Sales Systems, Sales Operations and Channel Operations have the ability to change the account owner in Salesforce. This is to ensure that the Rules of Engagement are followed and to ensure that the account is assigned to the correct account owner based on Account Demographic outputs and parent/child association. If there is an issue with account assignment, follow the exception process outlined in the [Account Ownership Rules of Engagement](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement).
+Only Sales Systems, Sales Operations and Channel Operations have the ability to change the account owner in Salesforce. This is to ensure that the Rules of Engagement are followed and to ensure that the account is assigned to the correct account owner based on Account Demographic outputs and parent/child association. If there is an issue with account assignment, follow the exception process outlined in the [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement).
 
 To request an update to the account owner, please tag @sales-support in Salesforce Chatter on the account record you are attempting to update.
 
@@ -354,7 +354,7 @@ To request an update to the account owner, please tag @sales-support in Salesfor
 
 ### Changing Opportunity Ownership in Salesforce
 
-Only Sales Systems, Sales Operations, Channel Operations, Deal Desk, and Finance have the ability to change the opportunity owner in Salesforce. This is to ensure the Rules of Engagement are followed and opportunity assignment to the correct owner based on the corresponding Account Owner (see [Opportunity Ownership](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#opportunity-ownership-rules-of-engagement) for exceptions), Account Demographic outputs, parent/child association, and compensation plan. If there is an issue with opportunity assignment, follow the exception process outlined in the [Opportunity Ownership Rules of Engagement](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#opportunity-ownership-rules-of-engagement).
+Only Sales Systems, Sales Operations, Channel Operations, Deal Desk, and Finance have the ability to change the opportunity owner in Salesforce. This is to ensure the Rules of Engagement are followed and opportunity assignment to the correct owner based on the corresponding Account Owner (see [Opportunity Ownership](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#opportunity-ownership-rules-of-engagement) for exceptions), Account Demographic outputs, parent/child association, and compensation plan. If there is an issue with opportunity assignment, follow the exception process outlined in the [Opportunity Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#opportunity-ownership-rules-of-engagement).
 
 To request an update to the opportunity owner, please tag @sales-support in Salesforce Chatter on the opportunity record you are attempting to update.
 
@@ -362,7 +362,7 @@ To request an update to the opportunity owner, please tag @sales-support in Sale
 
 ### Changing Contact Ownership in Salesforce
 
-Contact Ownership follows the rules as laid out below. This contact ownership cannot be updated as it is maintained by an [automated process in Salesforce](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#contact-ownership)
+Contact Ownership follows the rules as laid out below. This contact ownership cannot be updated as it is maintained by an [automated process in Salesforce](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#contact-ownership)
 
 - Large Accounts
    - BDR (If present otherwise AE)
@@ -388,7 +388,7 @@ This is also only a temporary solution until we have a more scalable solution in
 
 ### Record Creation in Salesforce
 
-ACCOUNT records in Salesforce are created in a number of ways - [list imports](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/), [mass creation screen flows](#mass-create-contacts-on-opportunities-with-contact-roles), field event booth scans, research, networking, webcasts, content downloads.
+ACCOUNT records in Salesforce are created in a number of ways - [list imports](/handbook/sales/field-operations/sales-operations/), [mass creation screen flows](#mass-create-contacts-on-opportunities-with-contact-roles), field event booth scans, research, networking, webcasts, content downloads.
 Ideally all ACCOUNTS exist in Salesforce and team members are only creating CONTACT records; however, if a connection is made at an event and follow up needs to be done *prior* to official event list upload occurs team members should do the following:
    - Search Salesforce to be sure ACCOUNT does not already exist **AND** search using the person's email address to ensure duplicate record is not created
    - Record **does not** exist:
@@ -690,8 +690,8 @@ All final IACV (including any won upside IACV) will be attributed to the PARENT 
 A `Professional Services` OPPORTUNITY will be used to cover any integration, consulting, training or other service that a Sales rep will sell to a prospect/client and needs or wants to be invoiced separately.
 To invoice separately a new quote and opportunity must be created.
 
-A full list of professional services can be found [here](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#professional-services-offerings).
-See [Working with Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/working-with/) for workflow details.
+A full list of professional services can be found [here](/handbook/customer-success/professional-services-engineering/#professional-services-offerings).
+See [Working with Professional Services](/handbook/customer-success/professional-services-engineering/working-with/) for workflow details.
 
 ##### Steps for creating a Professional Services opportunity in SFDC
 
@@ -710,7 +710,7 @@ See [Working with Professional Services](https://about.gitlab.com/handbook/custo
     - Professional Services Description, Project Scope, Task Schedule and Key Assumption fields = these will push to the Statement of Work when a PDF is generated from Zuora.
     - Verify the `Professional Services` OPPORTUNITY has the *original* OPPORTUNITY in the `Parent Opportunity` field. If this is not a validation rule error will occur while attempting to save the OPPORTUNITY.
 1. Click `Save`
-1. To create a quote, see the [Creating Quotes](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-professional-services) Deal Desk page.
+1. To create a quote, see the [Creating Quotes](/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-professional-services) Deal Desk page.
 
 #### How to Share an Opportunity
 
@@ -822,7 +822,7 @@ Customer subscriptions will be moved to cancelled no more than 30 days after the
     - If a customer returns to purchase another GitLab subscription **within 180 days** of the previous subscription term end date, the transaction must be booked under a **Renewal Opportunity**, using a new subscription quote. In this scenario, the following actions should be taken:
         - **Sales**: A new renewal opportunity should be created, and Closed Won with the correct booking values.
         - **Deal Desk**: A second new renewal opportunity should be created, and Closed Lost, where Amount, Net ARR and ARR Basis represent the inverse of the same values on the original Closed Lost opportunity.
-        - In this scenario, the Order Type 2.0 will be [3. Growth](https://about.gitlab.com/handbook/sales/sales-term-glossary/#growth-customers)
+        - In this scenario, the Order Type 2.0 will be [3. Growth](/handbook/sales/sales-term-glossary/#growth-customers)
         - Example:
 
             | **Opportunity** | **Stage** | **Net ARR** | **ARR Basis** | **ACV** |
@@ -835,7 +835,7 @@ Customer subscriptions will be moved to cancelled no more than 30 days after the
 
 - **Customers Returning More Than 180 Days After Subscription Term End Date**:
     - If a customer returns to purchase another GitLab subscription **more than 180 days** after the previous subscription term end date, the transaction must be booked under a **New Business Opportunity**.
-        - In this scenario, the original Closed Lost opportunity will not be reversed and the Order Type will be [1. New - First Order](https://about.gitlab.com/handbook/sales/sales-term-glossary/#first-order-customers) or [2. New - Connected](https://about.gitlab.com/handbook/sales/sales-term-glossary/#connected-new-customers) based on the Account Family.
+        - In this scenario, the original Closed Lost opportunity will not be reversed and the Order Type will be [1. New - First Order](/handbook/sales/sales-term-glossary/#first-order-customers) or [2. New - Connected](/handbook/sales/sales-term-glossary/#connected-new-customers) based on the Account Family.
 
 
 ## Opportunity Types
@@ -873,7 +873,7 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
 **0-Pending Acceptance**: This is the initial stage once an opportunity is created.
 
 - What to Complete in This Stage:
-    - For BDR/SDR sourced opportunities, the opportunity meets [Sales Accepted Opportunity criteria](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunities).
+    - For BDR/SDR sourced opportunities, the opportunity meets [Sales Accepted Opportunity criteria](/handbook/sales/field-operations/gtm-resources/#opportunities).
     - The BDR/SDR has scheduled a call via Google Calendar, sent invites, created an event on the account object, named the event: GitLab Introductory Meeting - {{Account Name}}
     - Once it is confirmed that the opportunity meets our Sales Accepted Opportunity criteria, the SAE or AE should move the opportunity to the next stage and the `Amount` field must be populated with estimated pipeline. The date the opportunity moves from this to the next stage in the sales cycle will populate the `Sales Accepted Date` field on the opportunity record.
     - If the details on the opportunity do not meet our Sales Accepted Opportunity criteria, the SAE or AE should move the opportunity to an `9-Unqualified` stage (this is the only time an opportunity can move into `9-Unqualified` stage)
@@ -883,7 +883,7 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
 **1-Discovery**: Uncover as much intelligence about the project as you can, which will be confirmed at later stages throughout the sales cycle.
 
 - What to Complete in This Stage:
-    - Begin filling out [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/)
+    - Begin filling out [MEDDPPICC](/handbook/sales/meddppicc/)
     - Send Plan Letter/Recap Email to Attendees- [Example](https://docs.google.com/document/d/16Gurj_MVREmKoqXTdB1F0OQ3eyq1gzbTNU8LNHHuoEM/edit)
     - Scheduled Scoping Call
     - Provide an estimate for the `Expected Number of Users` and the `Expected Product` for the Opportunity. This information is used to help the customer success team to predict their future workload as well as to help them with their hiring plans.
@@ -897,7 +897,7 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
 - What to Complete in This Stage:
     - Complete a Demo (Optional)
     - Schedule a Technical Evaluation Call
-    - Confirm and collect new [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) information.
+    - Confirm and collect new [MEDDPPICC](/handbook/sales/meddppicc/) information.
 
 **3-Technical Evaluation**: Confirming technical requirements. A proof-of-concept (POC) might occur at this stage. This is also the stage to confirm information before a proposal is delivered.
 
@@ -905,7 +905,7 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
     - Enter POC Notes and POC Success Criteria (if applicable) and enter into the POC Notes and POC Success Criteria fields related to the opportunity.
     - Confirm *Technical Requirements, POC Scope*
     - Confirm *Technical Win/POC Success*
-    - Confirm and collect new [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) information.
+    - Confirm and collect new [MEDDPPICC](/handbook/sales/meddppicc/) information.
 
 **4-Proposal**: Business and technical challenges and been uncovered and resolved. A proposal is drafted and delivered to the prospect.
 
@@ -924,8 +924,8 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
         - "Yes" update the `Referenceable Customer` section on the Account object with appropriate reference information
         - "No" the discussion of being a reference can be revisited at a later date
     - Modifications will not be accepted to the standard terms for any opportunity that is less than $25k, or for Starter edition.
-    - If the above threshold is met, requests for modifications to the standard terms should be sent to Legal by creating a legal case in SalesForce, following the process found [here](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal).
-    - If the Account is seeking to use their own paper, requests will only be entertained if the opportunity is greater than $100k, and the request should be sent to Legal by creating a Legal case in SalesForce, following the process found [here](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#request-for-gitlab-review-of-customer-edits-to-gitlab-template-or-review-of-customer-agreement-template).
+    - If the above threshold is met, requests for modifications to the standard terms should be sent to Legal by creating a legal case in SalesForce, following the process found [here](/handbook/sales/field-operations/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal).
+    - If the Account is seeking to use their own paper, requests will only be entertained if the opportunity is greater than $100k, and the request should be sent to Legal by creating a Legal case in SalesForce, following the process found [here](/handbook/sales/field-operations/order-processing/#request-for-gitlab-review-of-customer-edits-to-gitlab-template-or-review-of-customer-agreement-template).
 
 **6-Awaiting Signature**: The prospect or customer has verbally agreed to the terms and conditions outlined in the proposal and has submitted for signature.
 
@@ -1061,7 +1061,7 @@ The executive sponsor should:
 
 Example Sponsor Activities
 
-- Actively participate in [Executive business reviews](https://about.gitlab.com/handbook/customer-success/csm/ebr/).
+- Actively participate in [Executive business reviews](/handbook/customer-success/csm/ebr/).
 - Participate and contribute to account meetings and social events, including visting a customer for dinner or lunch.
 - Check-in/status emails to note progress and open lines of communication and feedback.
 - Build personal relationships with customer executive(s), understanding their personal needs and goals.

@@ -139,7 +139,7 @@ Activity Timeline is automatically synced back from Gainsight to Salesforce
 
 ### Push to SFDC
 
-A variety of data points are pushed back from Gainsight to Salesforce. To see the complete list of fields and objects that are synced back from Gainsight to Salesforce, see [Using Gainsight Data in SFDC](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/).
+A variety of data points are pushed back from Gainsight to Salesforce. To see the complete list of fields and objects that are synced back from Gainsight to Salesforce, see [Using Gainsight Data in SFDC](/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/).
 
 This rule also pushes back to contacts in Salesforce in the event that anyone in Gainsight marks them as someone who has opted out of marketing communication, as well as any contacts that were created in Gainsight and that do not exist in Salesforce.
 

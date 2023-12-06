@@ -9,11 +9,11 @@ description: "Best practices and setup guide for Customer Success Managers using
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 - - -
 
-*For an overview of Chorus, the tool used to record our meetings please refer to the [Gainsight Overview Page](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/go-to-market/chorus/).*
+*For an overview of Chorus, the tool used to record our meetings please refer to the [Gainsight Overview Page](/handbook/sales/field-operations/sales-operations/go-to-market/chorus/).*
 
 ## Setup Calendly for Customer Success Managers/Engineers
 
@@ -23,7 +23,7 @@ CSMs and CSEs use Calendly to efficiently manage customer requests for booking a
 
 To ensure that Calendly is setup to comply with GDPR and similar privacy laws, all team members with a Recorder license in Chorus are required to use a feature called Chorus Scheduler when organizing meetings with customers. Below are the steps required to use Chorus Scheduler for your events booked via Calendly.
 
-- Visit [Learn How to Use Chorus.ai](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/go-to-market/chorus/#chorus-scheduler) for instructions on how to create a Static Link from Chorus Scheduler.
+- Visit [Learn How to Use Chorus.ai](/handbook/sales/field-operations/sales-operations/go-to-market/chorus/#chorus-scheduler) for instructions on how to create a Static Link from Chorus Scheduler.
 - To create/view the Static Link
     - Link your [Zoom PMI](https://support.zoom.us/hc/en-us/articles/203276937-Using-Personal-Meeting-ID-PMI-) in the Chorus Scheduler Settings (one time only)
     - Then create a test event on your Google calendar, click Add video conferencing, select Chorus Meeting. You will then be able to view the Chorus Go static link (Domain: go.chorus.ai).

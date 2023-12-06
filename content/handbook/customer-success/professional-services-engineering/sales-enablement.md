@@ -14,7 +14,7 @@ description: "Discover the customer benefits and value of working with GitLab Pr
 
 ## Overview
 
-This [sales enablement](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/) page is designed to help the GitLab Sales team understand our professional services offerings, how to [position](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/positioning/) them to customers, and the [workflow for selling](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/) services.
+This [sales enablement](/handbook/sales/training/sales-enablement-sessions/) page is designed to help the GitLab Sales team understand our professional services offerings, how to [position](/handbook/customer-success/professional-services-engineering/positioning/) them to customers, and the [workflow for selling](/handbook/customer-success/professional-services-engineering/selling/) services.
 
 ### Resources
 
@@ -52,7 +52,7 @@ When customers choose gitlab self-managed, they typically need help building and
 
 For gitlab.com users, [implementation services](/services/implementation/) focus mostly on how to organize gitlab groups and projects, how to establish role based access control, and other front end strategic decisions that typically need to be made up-front.
 
-The implementation services [Rapid Results](/services/rapid-results/) packages have a standard SKU, but have specific bounds to the large cloud service providers and HA/DR architectural patterns. If your customers' needs fall outside of those bounds, you will need to engage in a [custom-scoping exercise](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/#custom-scoped-services).
+The implementation services [Rapid Results](/services/rapid-results/) packages have a standard SKU, but have specific bounds to the large cloud service providers and HA/DR architectural patterns. If your customers' needs fall outside of those bounds, you will need to engage in a [custom-scoping exercise](/handbook/customer-success/professional-services-engineering/selling/#custom-scoped-services).
 
 #### Education Services
 
@@ -76,7 +76,7 @@ Advisory Services typically follow a 3-step approach:
 #### Customer
 
 
-- **Faster value realization** - Help the customer setup the gitlab instance and migrate their data and users quickly to accelerate [time to first value](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis). Paired with education services to ensure the users know how to use the newly setup gitlab system is the way to the fastest initial adoption and sets the foundation for future stage adoption.
+- **Faster value realization** - Help the customer setup the gitlab instance and migrate their data and users quickly to accelerate [time to first value](/handbook/customer-success/vision/#time-to-value-kpis). Paired with education services to ensure the users know how to use the newly setup gitlab system is the way to the fastest initial adoption and sets the foundation for future stage adoption.
 - **Improved customer experience** - Establishing best practices up front with our expert recommendations is the path to a great customer experience.
 - **Access to GitLab experts / best practices** - On top of our team of experts, we can reach back to engineering and support to put the full weight of GitLab into solving a customer issue.
 
@@ -89,12 +89,12 @@ Advisory Services typically follow a 3-step approach:
 ### How will we deliver?
 
 
-1. Direct via the [GitLab Professional Services Engineering Delivery team](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#team-members-and-roles)
+1. Direct via the [GitLab Professional Services Engineering Delivery team](/handbook/customer-success/professional-services-engineering/#team-members-and-roles)
 1. Partner delivered (future)
 
 ## How to order
 
-Ordering services is done through an **Off-the-shelf SKU** or a custom-scoped **Statement of Work**.  See the [selling services workflow](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/) for more details.
+Ordering services is done through an **Off-the-shelf SKU** or a custom-scoped **Statement of Work**.  See the [selling services workflow](/handbook/customer-success/professional-services-engineering/selling/) for more details.
 For custom SOWs, initiate a scoping issue to capture the requirement using the [Services Calculator](https://services-calculator.gitlab.io/), and collaborate with your local [Professional Services Engagement Manager](/job-families/sales/job-professional-services-engagement-manager/).
 
 ## Resources

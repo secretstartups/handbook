@@ -35,9 +35,9 @@ Please see the internal [Wiki](https://gitlab.com/gitlab-com/Finance-Division/fi
 
 ### Helpful Links
 
-- [How to create an opportunity/build a quote?](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/)
-- [Order requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/)
-- [Contacting the Legal team](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal)
+- [How to create an opportunity/build a quote?](/handbook/sales/field-operations/sales-operations/deal-desk/)
+- [Order requirements](/handbook/sales/field-operations/order-processing/)
+- [Contacting the Legal team](/handbook/sales/field-operations/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal)
 - [Questions about licenses and plans]({{< ref "/handbook/support/internal-support#common-internal-requests---sales-team--customer-success-managers--accounts-receivable" >}})
 - [Zuora Billing Tech Stack Guide]({{< ref "zuora-billing" >}})
 
@@ -88,7 +88,7 @@ See also: [Internal Billing Checklist](https://gitlab.com/gitlab-com/Finance-Div
 
 Salesforce is used for sourcing customers, creating quotes, and housing all customer information and supporting documentation. The Billing Team utilizes SFDC to view all related customer documentation and account information.
 
-See also: [Business Operations - Salesforce Reference](https://about.gitlab.com/handbook/sales/field-operations/sfdc/)
+See also: [Business Operations - Salesforce Reference](/handbook/sales/field-operations/sfdc/)
 
 ### Zuora
 
@@ -265,7 +265,7 @@ As a global company, GitLab has locations around the world.
 - GitLab GmbH in Germany
 - GitLab PTY LTD in Australia
 
-[Quote Entity Information](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#quote-entity-information)
+[Quote Entity Information](/handbook/sales/field-operations/sales-operations/deal-desk/#quote-entity-information)
 
 **Note:** all initial web direct subscriptions ordered through the portal are placed on the US entity.
 
