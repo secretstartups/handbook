@@ -127,53 +127,7 @@ The Deal Desk Analyst (Alliances) is a [grade 6](/handbook/total-rewards/compens
 - Interest in GitLab, and open source software, ability to use GitLab
 - You share our values, and work in accordance with those values
 
-### Senior Deal Desk Analyst
 
-The Senior Deal Desk Analyst reports to the Manager, Deal Desk.
-
-#### Senior Deal Desk Analyst Job Grade
-
-The Senior Deal Desk Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Senior Deal Desk Analyst Responsibilities
-
-- Extends that of the Deal Desk Analyst responsibilities
-- Acts as key advisor for the Field Sales and Deal Desk teams
-- Manages complex deals from concept to booking, including deal structure, quoting, pricing, and partnering with the Order Management team to ensure the deal is correctly booked.
-- Maintains and enforces agreed upon departmental review and approval SLAs
-- Assists to interpret contractual language and escalate to ensure deals comply with revenue recognition and operational policies
-- Oversees the Sales Support Slack channel to provide assistance and advice on complex deal questions and advanced Quote to Cash related matters
-- Oversees the Sales Support Case queue, consistently maintaining case SLAs and handling complex and/or non-standard requests.
-- Partners with Sales Operations and Sales Systems teams to facilitate process and system improvements, sales enablement and other special projects related to Quote to Cash
-- Delivers relevant training to new and existing Sales reps on Deal Desk, Order Booking, and overall QTC best practices
-- Responsible for training and onboarding new Deal Desk Hires
-- Represents Sales Operations / Deal Desk in QBRs and other regional Sales team meetings
-- Leads regular trainings, AMAs, office hours, and other Deal Desk enablement functions
-- Personal Growth / Projects
-  - Focus on Quote to Cash process automation and improvement, broader Field Operations projects, and working with cross functional teams at GitLab
-
-#### Senior Deal Desk Analyst Requirements
-
-- Proven success in the Enterprise SaaS/B2B Industry - Deal Desk experience required
-- Proven success partnering with GTM Teams and other cross functional departments
-- Proven success in Direct and Channel Sales models
-- Strong understanding of software revenue recognition and order process principles required
-- Highly organized, customer-focused, innovative and strong attention to details
-- Strong business acumen, strong reporting and analytics, troubleshooting, problem-solving, and project management skills
-- Excellent communicator, self-aware, transparent, professional, and open to feedback
-- Ability to multitask and prioritize at times of high volume, schedule flexibility during End of Month, End or Quarter
-- Strong quantitative skills and highly proficient in gSuite, Salesforce.com, Zuora or similar CPQ tools
-- Interest in GitLab, and open source software, ability to use GitLab
-- You share our values, and work in accordance with those values
-
-#### Senior Deal Desk Analyst Performance Indicators
-
-- Sales Support Case SLA
-- Sales Support Slack SLA
-- Field Satisfaction
-  - Responsiveness to cases
-  - Efficiency in resolving issues
-  - Transparency in addressing ongoing problems, SLAs, and field expectations
 
 
 ## Deal Strategist
