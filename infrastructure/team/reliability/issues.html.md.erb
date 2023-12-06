@@ -1,0 +1,286 @@
+---
+layout: handbook-page-toc
+title: "Reliability Engineering - How We Work: Issue Management and Prioritization Process"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Overview
+
+All requests for work to the Reliability Team come through the [Reliability Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=default).  The management of this queue is an ongoing maintenance task for Reliability Engineers and Managers.  This page contains an overview of the criteria used in determining how work is triaged and prioritized.
+
+## Issue Priority
+
+Priority for incoming work is based on a matrix measuring the **impact** and **urgency** of an issue.
+
+![priority_matrix](img/priority_matrix.png)
+
+### Impact
+
+Impact is the measure of the effect of an incident, problem, or change on business processes as detailed in the issue.
+
+The table below can be used as a general guide for determining impact:
+
+| Impact | Description |
+| -------- | ----------- |
+| High | -The issue needs to be resolved to mitigate an active S1 or S2 incident <br> -The issue is a roadblock on GitLab.com and blocking customer's business goals and day to day workflow <br> -The damage to the reputation of the business is likely to be high. <br> -Deploys are blocked as a result <br> -The potential financial impact is high|
+| Medium | -The issue is impacting a moderate subset of employees or a small subset of customers <br> -The damage to the reputation of the business is not likely to be high.<br> - The potential financial impact is low but greater than 0 |
+| Low | -The issue is impacting a small subset of employees <br> -There is no impact on customers <br> -There is no risk to the reputation of the business <br> -There is no financial impact|
+
+### Urgency
+
+Urgency is the speed at which an issues should be resolved based on business need or expectation.
+
+The table below can be used as a general guide for determining impact:
+
+| Urgency | Description |
+| -------- | ----------- |
+| High | -The impact increases rapidly over time. <br> -Damage to the reputation of the business will increase over time. <br> -Any roadblock that puts the guaranteed self-managed release date at risk <br> -A minor incident could be prevented from becoming a major incident by acting immediately. <br> -A member of senior leadership has requested urgency|
+| Medium | -The impact increases only slightly over time. <br> -The damage to the reputation of the business will not increase over time. <br> -The customer has requested urgency.|
+| Low | -The impact does not increase at all over time. <br> -The customer indicates that the issue is not urgent.|
+
+### Priority
+
+Once the impact and urgency of an issue has been determined, it is time to assign a priority.
+
+The table below can be used as a general guide for assigning priority:
+
+| Priority | Impact/Urgency | Action |
+| -------- | ---------- | --------- |
+| `~Reliability::P1` | Impact: High <br> Urgency: High | -An engineer is assigned as soon as possible.  <br> -Issue is handed off between regions until it is resolved or mitigated to the point that priority can be lowered.  <br> -Issues should be labeled as `~Reliability::P1` only when **immediate** action is required |
+| `~Reliability::P2` |  Impact: High <br> Urgency: Medium <br> **or** <br> Impact: Medium <br> Urgency: High   | -Issue is prioritized above P3s and P4s <br> -Issue is worked on but is **not** handed off between regions <br> -If an engineer is changing roles before they are able to resolve the issue, it should be handed over/assigned to another engineer. |
+| `~Reliability::P3` | Impact: High <br> Urgency: Low <br> **or** <br> Impact: Low Urgency: High <br> **or** <br> Impact: Medium Urgency: Medium | -Issue is prioritized above P4s only <br> -If an engineer is changing roles before they are able to resolve the issue, the issue should be dropped back into the tracker with a summary of what has been done so far and what the next steps are.|
+| `~Reliability::P4` | Impact: Low <br> Urgency: Medium <br> **or** <br> Impact: Medium <br> Urgency: Low | -Engineers are not assigned until all higher priority work has been completed|
+| `~Reliability::P5` | Impact: Low <br> Urgency: Low | -If an issue is determined to be a P5, there is a question on if the issue should be done at all.  If it turns out something was missed it can be moved to a higher priority.  Otherwise it should be closed with an explanatory note. |
+
+**Note:** Issue priority levels generally align with the [severity levels](/handbook/engineering/infrastructure/incident-management/#severities) defined within the Incident Management process.
+### Service Level Agreements
+The Reliability team uses the following response time SLAs for  all `~Reliability::P1` and `~Reliability::P2 issues` that also have the `~unblocks others` label.  The `~unblocks others` [label](/handbook/engineering/infrastructure/team/reliability/issues.html#other-labels) indicates that the request originated from outside of the [Infrastructure Department](/handbook/engineering/infrastructure/).
+
+| Priority | Initial Response Time | Follow Up Response Time | Coverage | How to engage|
+| -------- | ---------- | --------- | --------- | --------- |
+| `~Reliability::P1` | 30 minutes | 4 hours | 24x7 | This priority level is reserved for issues requiring immediate attention.  To create a `~Reliability::P1` issue, first [declare an incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) to page the [EOC](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) |
+| `~Reliability::P2` <br> and <br> `unblocks others` | 3 days | 7 days | 24x5 | Create an issue in the [Reliability Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/) and use labels `~Reliability::P2` and `unblocks others`|
+
+**Note**: Except for corrective actions and security issues, reliability does not use `~"priority"` or `~"severity"` labels, if these labels are added they will be removed.
+{: .alert .alert-info}
+
+## Classifying work
+
+### Corrective Actions and Security issues
+
+Corrective actions and security issues labeled as `~"corrective action"` or `~"security"` are labeled differently in the Reliability issue tracker.
+For these issues, `severity::*` labels are set to meet specific SLOs.
+
+- For security issue see the [Time to resolve table by severity](/handbook/security/#severity-and-priority-labels-on-security-issues)
+- Corrective Actions SLOs are currently based on definitions from [Quality](/handbook/engineering/quality/issue-triage/#severity-slos):
+
+| Corrective Action Label | SLO (days after issue has been created) |
+| ------ | ------ |
+| severity::1 | 1 week |
+| severity::2 | 30 days |
+| severity::3 | 60 days |
+| severity::4 | 90 days |
+
+**Note**: For issues labeled with `~"security"` and `~"corrective action"` we do not use the `~"priority::*"` labels, if added they will be removed. Please use the `Reliability::P*` labels instead.
+{: .alert .alert-info}
+
+### Labels
+
+#### Workflow Labels
+
+Issues and epics should always use one of the following workflow labels:
+
+| Label | Description |
+| --- | --- |
+| `workflow-infra::Triage`   | Applied to all new issues automatically.  It indicates that the issue has not yet been reviewed by the team. <br>**Note**: This label should not be used on epics. |
+| `workflow-infra::Proposal` | Applied when an issue or epic requires discussion, input or review. This label should be used when there there is not enough scope defined to begin work. |
+| `workflow-infra::Ready`    | Applied after triage, for any work in an issue or epic that is ready to start but is not yet scheduled. It should be clear what needs to be done in the epic or issue. If there are no immediate tasks because it requires more discussion, use the `workflow-infra::Proposal` label |
+| `workflow-infra::In Progress` | Applied _only_ after the issue has a Reliability Team member as an assignee or a DRI assigned for an epic.  It is meant to represent work that is actively in-progress and not to indicate that an issue will be worked on in the future. |
+| `workflow-infra::Blocked` | Applied when an issue or epic cannot proceed because it is waiting on other tasks to complete. All blocked work should have a clear description about why it is blocked with a related issue that can be tracked. |
+| `workflow-infra::Stalled` | Applied when an issue was in-progress, but work has stopped due to unrelated priority shifts. All stalled work should have a clear description about why it is stalled with a related issue that can be tracked. |
+| `workflow-infra::Cancelled` | Applied when closing incomplete work because it is decided that no more will be done on an issue or epic. |
+| `workflow-infra::Done` | Applied when an issue or epic has been closed and the work is complete. |
+
+#### Service Labels
+
+`service::` labels are used to route issues to the right team within Reliability.  All issues should have a `service::` label specified during the triage process.  If multiple services are involved choose the service that best fits based on the details in the issue.
+
+##### Examples
+
+| Service | Team | Issue |
+| ------ | ------ | ------ |
+| `service::Terraform`| [Foundations](/handbook/engineering/infrastructure/team/reliability/#foundations) | [Issue#17010](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/17010) |
+| `service::Prometheus` | [Observability](/handbook/engineering/infrastructure/team/reliability/#observability) | [Issue#14574](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/14574)|
+| `service::Gitaly` | [Gitaly Stable Counterpart](/handbook/engineering/infrastructure/team/stable-counterpart.html) | [Issue#16271](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/16271) |
+| `service::Sidekiq` | [General](/handbook/engineering/infrastructure/team/reliability/#general) | [Issue#15720](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/15720) |
+
+#### Team Labels
+
+During the traige process, issues will be routed to a [Reliability Team](/handbook/engineering/infrastructure/team/reliability/#reliability-teams) where appropriate.  See the table below for the current list of active team Labels:
+
+| Label | Team |
+| -------- | --------- |
+| `~team::Foundations` | [Foundations](/handbook/engineering/infrastructure/team/reliability/foundations.html) |
+| `~team::Observability` | [Observability](/handbook/engineering/infrastructure/team/reliability/observability.html) |
+| `~team::Database Reliability` | [Database Reliability](/handbook/engineering/infrastructure/team/reliability/database-reliability.html) |
+| `~team::Practices` | [Practices](/handbook/engineering/infrastructure/team/reliability/practices.html) |
+| `~team::General` | [General](/handbook/engineering/infrastructure/team/reliability/general.html) |
+
+#### T-shirt Labels
+
+T-shirt labels are used to estimate the size of issues.  These are always a rough estimate and often need to be adjusted once the full scope of an issue is defined.
+
+| Label | Estimated Time Requirement | Example |
+| -------- | --------- | --------- |
+| `tShirt-size::XS` | 4 hours or less | TBD |
+| `tShirt-size::S` | 1 day or less| TBD |
+| `tShirt-size::M` | 1 week or less | TBD |
+| `tShirt-size::L` | 1 month or less | TBD |
+| `tShirt-size::XL` | More than 1 month | TBD |
+
+#### Other Labels
+
+ - `unblocks others` - Apply this label to all issues that originate outside of the [Infrastructure Department](/handbook/engineering/infrastructure/)
+
+## Issue Review
+
+The [issue board for Reliability](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3993753) is reviewed twice a week by Reliability Leadership Team.  If you have an urgent issue that you believe should be prioritized ahead of other work, please reach out to any Engineering Manager on the Reliability Team to discuss.
+
+## Issue Triage
+
+Issue Triage is performed twice weekly by members of the Reliability Leadership Team.  The process consists of four parts.
+
+### 1. General Triage
+
+1. Locate issues that need to be triaged using [this view](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues?sort=updated_desc&state=opened&label_name[]=workflow-infra::Triage) which shows `workflow-infra::Triage` tickets lists most recently updated issues first.
+1. Choose the first issue in the list and ask the following questions:
+    1. For issues where the team ownership of the involved service is clear, choose a [Reliability Team](/handbook/engineering/infrastructure/team/reliability/#reliability-teams) to assign the issue to and apply the appropriate [team label](/handbook/engineering/infrastructure/team/reliability/issues.html#team-labels).
+    1. What is the priority of the issue?  Read the issue and assign a priority as defined by [our process](/handbook/engineering/infrastructure/team/reliability/issues.html#issue-priority).  Once priority has been determined, add the appropriate [priority label](/handbook/engineering/infrastructure/team/reliability/issues.html#priority).  NOTE: Prioritized issues are reviewed by Reliability Leadership multiple times a week, so it is OK if an issue is prioritized incorrectly.
+1. Add the `workflow-infra::Ready` label.  This indicates that the issue has been through the prioritization process and is ready to be looked at by an engineer.
+1. Return the `workflow-infra::Triage` [list view](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues?sort=updated_desc&state=opened&label_name[]=workflow-infra::Triage), select the next issue in the list and put it through the same process.
+1. Add a `service::` label.
+
+### 2. General Issue Prioritization
+
+The overall backlog of general issues is reviewed to assess and adjust [priority](/handbook/engineering/infrastructure/team/reliability/issues.html#issue-priority).  The following boards are used to help with this process:
+
+1. [Overall Priority of **all** triaged Reliability Issues](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3993753).
+1. [All unassigned issues by priority](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3993753?assignee_id=None)
+1. [All issues in progress](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3993753?label_name%5B%5D=workflow-infra%3A%3AIn%20Progress) - review to ensure all issues with the `~workflow-infra::In Progress` are truly active.
+1. [All assigned issues by priority](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3993753?assignee_id=Any)
+
+#### General Prioritization Guidelines
+
+ - Issues should be prioritized by their priority label first
+ - When faced with  multiple issues of the same priority level:
+   - prioritize small issues ahead of large ones.
+   - prioritize older issues over new.
+
+### 3. Corrective Action Issue Review and Prioritization
+
+[Corrective Actions](/handbook/engineering/infrastructure/incident-management/#corrective-actions) for all of Infrastructure are reviewed, prioritized, and assigned to prevent or reduce the likelihood and/or impact of an incident recurrence.
+We use [this board](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/boards/3164592?label_name[]=corrective%20action&label_name[]=team%3A%3AReliability) to track corrective actions work.
+Corrective Actions are also an important [performance indicator](/handbook/engineering/infrastructure/performance-indicators/#corrective-action-slo) for the Infrastructure Department.
+
+1. [All Open Infrastructure Corrective Actions by Severity](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1181205?label_name%5B%5D=corrective%20action)
+1. [All Open Reliability Corrective Actions by Priority](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5066878?label_name[]=corrective%20action)
+   1. [Observability](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5066878?label_name[]=corrective%20action&label_name[]=Squad%3A%3AObservability)
+   1. [Foundations](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5066878?label_name%5B%5D=corrective%20action&label_name%5B%5D=Squad%3A%3AFoundations)
+   1. [Gitaly Stable Counterpart](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5066878?label_name%5B%5D=corrective%20action&label_name%5B%5D=Squad%3A%3AGitaly-StableCounterpart)
+   1. [CI Runners Stable Counterpart](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5066878?label_name[]=corrective%20action&label_name[]=Squad%3A%3ACI-RunnersStableCounterpart)
+   1. [Datastores::Postgres](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5066878?label_name[]=corrective%20action&label_name[]=Squad%3A%3ADatabase)
+
+#### Refinement of open Corrective Actions
+
+The process is as follows:
+
+1. Choose an open, unrefined "corrective action" issue (ie it does not have a "ca::refined label") in the GitLab Infrastructure Team project. Add the "workflow-infra::Under Review" label, and assign it to yourself. This ensures that other engineers don't pick up the same issue for refinement asynchronously. Issues with the label "ca::triage" or any of "severity::1", "severity::2", "priority::1", "priority::2" should be prioritized for refinement. [This list](https://gitlab.com/groups/gitlab-com/gl-infra/-/issues?scope=all&state=opened&label_name[]=corrective%20action&not[label_name][]=ca%3A%3Arefined) can be a useful place to start.
+1. Read the issue carefully, including any linked incidents, to get context.
+  1. If there is no linked incident, this issue may be mislabeled. Confirm with the issue creator and if there is no incident related to this issue, remove the "corrective action" label. In this case you are done refining this issue.
+1. Ensure it has a severity label on it - this is the highest severity of linked incident(s).
+1. Ensure it has a priority label on it, indicating the urgency of the issue. For guidance on priority level, see the engineering [triage handbook page](/handbook/engineering/quality/issue-triage/). When in doubt, feel free to ask the issue creator or other relevant engineers for input.
+1. Based on the above, possible actions are:
+    1. Cancel the issue by adding the label "workflow-infra::Cancelled" and then closing the issue
+        1. Because it is no longer relevant due to other changes in the infrastructure, whether already executed or planned.
+        1. You consider it an infrequent enough or low priority problem that you don't think it is currently worth prioritizing the work given the team's current resources.
+        1. In either case, add a note to the issue explaining the reason for cancelling.
+        1. Don't hesitate to cancel old, low priority CAs. An issue can always be reopened if it is deemed to be an ongoing problem, in which case we can increase the severity/priority and reassess.
+    1. Indicate that this CA is ready for work by adding the label "workflow-infra::Ready"
+        1. This indicates that the issue is well scoped (to be able to be completed with at most a few days' engineering time), and has the necessary information and context for an engineer to pick up for work.
+    1. Promote to an Epic
+        1. Sometimes CAs are high priority but very large in scope (more than a few days' worth of work). In this case the CA can be promoted to an Epic. Update the description of the new epic to show that it was created from a CA and make sure that the incident is referenced and linked in that paragraph.
+        1. If it falls within the CA's scope, leave the Corrective Action label in place. Otherwise remove it with a note.
+        1. New issues that are created related to an Epic with a "corrective action" label should not get that label, so as not to artificially inflate the numbers for tracking purposes.
+    1. Move to another team/project
+        1. Sometimes it becomes clear that a particular corrective action is not an Infrastructure issue. Add a note and move the issue to the appropriate project. If the issue is the responsibility of a stage group, consider adding the `~infradev` label.
+    1. Needs more information
+        1. If context is missing or scope is unclear, ping the relevant engineers or managers in the issue to gain clarity so that a determination can be made for one of the above four cases. Sometimes we bring issues we need more input on up for discussion at one of our weekly Reliability Discussion meetings for this purpose.
+    1. Mark the issue as "workflow-infra::Ready" and add the label "ca::refined" to indicate the [Reliability General Team](/handbook/engineering/infrastructure/team/reliability/general.html) has looked at it. This indicates the issue is A. still relevant B. well scoped C. has enough context for the engineer picking up the issue and D. is ready for work.
+1. When refinement is complete and the issue has one of above outcomes, label the issue with "ca::refined" to indicate refinement is completed and remove the "workflow-infra::Under Review" label. Unassign yourself from the issue unless you know you will be the one taking on the work.
+1. Sometimes when refining a series of Corrective Action issues, a pattern may emerge that indicates that perhaps project level work is called for. Feel free to create an issue explaining your findings and bring this to the attention of the current DRI for corrective actions and/or an engineering manager.
+
+#### Working on CAs
+
+1. Choose a CA from the Ready column from the above linked board that has no engineer assigned to it. Start with the highest severity/priority level issue that you feel able to take on.
+1. Assign yourself to the issue and move it to the "in progress" column or add the label "workflow-infra::In Progress".
+1. Reach out to other engineers as needed for more context or pairing. CAs cover a very wide range of infrastructure areas, and you are not expected to know everything. Often it is much more efficient to pair with someone more knowledgable in that domain.
+1. When the work is complete, remember to close the issue or move it to the "Done" column.
+
+### 4. External Issue Review
+
+1. [All Active Incident Issues](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Incident%3A%3AActive&first_page_size=100)
+2. [Production Change Requests](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=change%3A%3Aunscheduled&first_page_size=100)
+
+## Capacity Planning Warnings
+Capacity planning warning issues are generated by the Scalability team and indicate concerns that we should address before they cause an alert (or an outage!).  These issues are tracked outside of the [Reliability project](https://gitlab.com/gitlab-com/gl-infra/reliability) in the [capacity planning project](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/).  The list of issues having the ~team::Reliability label is reviewed once per quarter and the work is then assigned based on impact and urgency.
+
+* [Current Reliability Capacity Planning Warning Issues](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues/?label_name%5B%5D=team%3A%3AReliability)
+
+## Epics
+
+**Note**: Epics that require status tracking should be updated each Wednesday.
+{: .alert .alert-info} 
+
+**Example**:
+
+```markdown
+DRI: <!-- GitLab username for the DRI -->
+
+## Status YYYY-MM-DD
+
+<!-- Status summary, one or two sentences that is meant for management and team members outside of reliability.
+
+     Example:
+
+       ## Status 2022-02-02
+
+       This week we rolled out the latest update to this amazing component, the team had a few setbacks that will be overcome in the next few weeks.
+-->
+
+### Additional status sections (optional)
+
+<!-- Additional status updates underneath headings. For example, what was shipped, what is in progress, blockers, etc.
+     This part won't be rolled up into the parent epic.
+
+     Example:
+
+       ### Details
+
+        - Update `2.27.1` was rolled out to GPRD successfully.
+        - Issue #44 was closed after the team agreed to cancel the work.
+        - Issue #45 was completed successfully.
+-->
+
+### Overview
+
+<!-- Overview of the project and its goals -->
+
+### Reference (optional)
+
+<!-- Links to boards, blueprints, readiness, or anything else relevant to the project -->
+```

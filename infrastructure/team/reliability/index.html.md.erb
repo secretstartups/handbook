@@ -1,0 +1,169 @@
+---
+layout: handbook-page-toc
+title: "Reliability Engineering"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+If you are a GitLab team member and are looking to alert Reliability Engineering about an availability issue with GitLab.com, please find quick instructions to report an incident here: [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
+{: .alert .alert-danger}
+
+If you are a GitLab team member looking for assistance from Reliability Engineering, please see the [Getting Assistance](#getting-assistance) section.
+{: .alert .alert-info}
+
+## Who We Are
+
+Reliability Engineering is responsible for all of GitLab's user-facing services, with their primary responsibility being GitLab.com. Site Reliability Engineers (SREs) ensure the availability of these services, building the tools and automation to monitor and enable this availability. These user-facing services include a multitude of environments, including staging, GitLab.com, and dev.GitLab.org, among others (see the [list of environments](/handbook/engineering/infrastructure/environments/)).
+
+## Vision
+
+**Reliability Engineering** ensures that GitLab's customers can rely on GitLab.com for their mission-critical workloads. We approach availability as an engineering challenge and empower our counterparts in Development to make the best possible infrastructure decisions. We own and iterate often on [how we manage incidents](/handbook/engineering/infrastructure/incident-management/) and continually derive and share our learnings by conducting [thorough reviews of those incidents](/handbook/engineering/infrastructure/incident-review/).
+
+## Ownership
+The Reliability Team maintains service ownership as defined in the [GitLab Service Ownership Policy](/handbook/engineering/infrastructure/service-ownership/)
+
+## Getting Assistance
+
+If you're a GitLab team member and are looking to alert Reliability Engineering about an availability issue with GitLab.com, please find quick instructions to report an incident here: [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
+{: .alert .alert-danger}
+
+If you'd like our assistance, please use one of the issue generation templates below and the work will be routed appropriately:
+
+* [Open a General Request Issue](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=default) - follow this link to create a general issue for the Reliability Team.
+
+We can also be reached in Slack in the [#production](https://gitlab.slack.com/archives/C101F3796) channel for questions related to GitLab.com and in the [#infrastructure-lounge](https://gitlab.slack.com/archives/CB3LSMEJV) channel for all other questions.
+
+### External Customer Escalations
+
+Assistance from the Infrastructure Team is occasionally required to help solve or troubleshoot external customer issues.
+
+1. Reach out to the [Support Team](/handbook/support/) to ensure that they are aware of the external customer issue.
+2. [Support Team](/handbook/support/) to file an issue in the [Reliability Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=default)
+3. Ping @reliability-ems on Slack in the #reliability-lounge channel and include a link to the newly created issue.
+
+## Deploying changes to GitLab.com
+
+All larger features, configuration changes, and new services must go through a [Production Readiness] review.
+
+## Tenets
+
+1. [**Change Management**](/handbook/engineering/infrastructure/change-management/), [**Incident Management**](/handbook/engineering/infrastructure/incident-management/), and [**Incident Review**](/handbook/engineering/infrastructure/incident-review/) are owned by Reliability Engineering.
+1. Each team member is able to perform oncall for all services.
+1. The team is able to reach conclusions independently all the time, consensus most of the time.
+1. Career development paths are clear.
+1. The team maintains a database of SRE knowledge through documentation, training sessions, and outreach.
+1. We leverage the GitLab product where we can in our toolchain.
+
+
+## On-Call
+
+ * Manage alerts and incidents as described on the [Incident Management Page](/handbook/engineering/infrastructure/incident-management/#engineer-on-call-eoc-responsibilities)
+
+## Reliability Teams
+
+### General
+
+The [General Team](/handbook/engineering/infrastructure/team/reliability/general.html) supports the Reliability Team's [overall vision](/handbook/engineering/infrastructure/team/reliability/#vision) by supporting services for GitLab.com that do not fit the mission of the other [Reliability Teams](/handbook/engineering/infrastructure/team/reliability/#reliability-teams).
+
+### Observability
+
+The [Observability team](/handbook/engineering/infrastructure/team/reliability/observability.html) maintains metrics and logs platforms for GitLab SaaS and is responsible for Prometheus, Thanos, Grafana, and [Logging](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging).
+
+### Foundations
+
+The [Foundations team](/handbook/engineering/infrastructure/team/reliability/foundations.html) builds, runs and owns the core infrastructure for GitLab.com.
+
+### Database Reliability
+
+The [Database Reliability Team](/handbook/engineering/infrastructure/team/reliability/database-reliability.html) is responsible for the PostgreSQL engine for GitLab.com services, as well as a range of related systems which help to ensure the availability and reliability of the database engine.
+
+### Practices
+
+The [Practices Team](/handbook/engineering/infrastructure/team/reliability/practices.html) has [SRE's](https://handbook.gitlab.com/job-families/engineering/infrastructure/site-reliability-engineer/) that work full time directly with [Stage Groups Teams](/handbook/product/categories/) to focus on their Reliability and Infrastructure concerns for GitLab.com when their need is greater than the [General Team](/handbook/engineering/infrastructure/team/reliability/general.html) can support.
+
+## How We Work
+
+We are mainly working from [OKRs](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=due_date_desc&state=opened&label_name%5B%5D=Sub-Department%3A%3AReliability&first_page_size=100) with the `~sub-department::Reliability` label. Our remaining work is adhoc issues on the [Reliability issue backlog](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/?sort=due_date_desc&state=opened&first_page_size=100). 
+
+### General Workflow
+
+1. GitLab team members open new issues in [Reliability Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues)
+2. New issues go through a [management and prioritization process](/handbook/engineering/infrastructure/team/reliability/issues.html)
+
+### Sources of work
+
+1. Issues generated, mostly by Reliability team members that are necessary to meet our OKRs.
+1. Issues generated by GitLab team members outside of Reliability via one of the paths documented in the [Getting Assistance](#getting-assistance) section.
+1. Issues generated as [`Corrective Actions`](/handbook/engineering/infrastructure/incident-management/#corrective-actions) for incidents
+1. Issues generated as miscellaneous small tasks found in the day-to-day of an SRE/DBRE/EM
+
+### OKRs
+
+[OKRs for the Reliability team](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=Sub-Department%3A%3AReliability&milestone_title=Any&first_page_size=100) that require status tracking should be updated each Wednesday.
+
+#### Labels
+
+All Objectives and Key Results should have the following labels:
+
+1. `~OKR`
+1. `~division::Engineering`
+1. `~"Department::Infrastructure & Quality"`
+1. `~Sub-Department::Reliability`
+1. The current quarter label. (e.g. ~FY24-Q3`)
+1. The corresponding Reliability team label using the convention `~Reliability::<name>`. (e.g. `~Reliability::Practices`)
+1. For work that is scheduled, assigned to [one of the quarterly milestone](https://gitlab.com/gitlab-com/gitlab-OKRs/-/milestones)
+
+#### Description
+
+The description of an Objective or Key Result should include the "why" for making this a focus area for the quarter and how the key result will be [scored](/company/okrs/#scoring-okrs).
+
+[Example](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3408)
+
+#### Status updates/check ins
+
+OKRs should be updated every Wednesday with an update of the % completed and a dated update in the comments for current status.
+
+If progress is on track and the % completed is getting updated as expected, it is not necessary to provide extensive status updates.
+
+One sentence with a link to a larger update in a corresponding epic is sufficient in most cases.
+
+It is also acceptable to do a check-in (ie update the % complete) without providing a note on a single occasion, but not over several check-ins.
+
+When status changes to "needs attention" or "at risk", we need to provide context as to why the status has changed, what action is being taken to address the issues and what assistance is required to enable team members not close to the work to understand the situation without requesting additional status updates.
+
+The [OKR Handbook](/company/okrs/#maintaining-the-status-of-okrs) has a starting point for when to add `Needs Attention` and `At Risk` to Health Status for OKRs
+
+#### Mid quarter check ins
+
+6 weeks from the start of the quarter is the midpoint check in which requires a more detailed check in. In addition to [weekly status update information](#status-updatescheck-inss) all objectives and key results should have:
+
+1. The update should have the title "Mid quarter check-in"
+1. Any known or emerging risks to achieving the result should be noted
+1. Any health status that is not "On track" should contain an update on how to get back on track or the impact will be if not achieved
+
+#### Retrospective
+
+At the end of the quarter the last check in requires a restrospective. The DRI for the objective or key result should add the following:
+
+1. The update should have the title "Restrospective"
+1. The [score](/company/okrs/#scoring-okrs) should be finalised
+1. The health should be accurate
+1. Document what went well
+1. Document what could have gone better
+1. Document what could be tried next time
+1. Tag the owner of the parent objective to enable them to complete the same proccess for the objective
+1. Add any thank you or congratulations messages that are appropriate for the effort
+1. Close the objective or key result
+
+#### Other requirements
+
+In addition to status updates every Wednesday, all Objectives and Key Results assigned to the current quarter must have the following set:
+
+1. Health status set to something other than "None"; all OKRs should be set to "On-track" until we believe there will be an issue meeting the objective or the key result.
+1. A [DRI](/handbook/people-group/directly-responsible-individuals/) assigned. The [DRI](/handbook/people-group/directly-responsible-individuals/) is responsible for providing the weekly updates. This can be a team member who is responsible for the work, or the Engineering Manager for the team. There should only be one [DRI](/handbook/people-group/directly-responsible-individuals/)
+
+[Production Readiness]: /handbook/engineering/infrastructure/production/readiness/

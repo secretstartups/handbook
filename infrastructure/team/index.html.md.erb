@@ -1,0 +1,52 @@
+---
+layout: handbook-page-toc
+title: "Team"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+
+## Teams
+
+An operational environment is a complex and interconnected mesh of components working in unison to deliver a set of services. In a prior iteration of the teams, we purposely avoided organizing teams along siloed Departments, aligning them instead along the environment's **lifecycle**,
+taking into account the two variables that drive change into the environment: time and space.
+
+### Structure
+
+Our long-term objective is to become a world-class Infrastructure organization. In order to reach that goal, we first adopted a **focal** arrangement where the organizational formula is derived from the focus and purpose of the groups arranged along the time and space variables, and group  the appropriate functional resources necessary to manage the environment, which include systems and database specialties.
+
+The [first iteration](/handbook/values/#iteration) in this model comprised two groups, **Site Availability** and **Site Reliability**. The second iteration added a third group, one specializing on the biggest source of change in the environment, releases, whose purpose is to make CI/CD at GitLab a reality: **Delivery**.
+
+We are entering our **fourth organizational iteration**: the department (and the company as a whole) has grown and while our availability improved, it has suffered recently as we face scalability challenges. The **Reliability** teams have matured, the **Delivery** team has accomplished the first iteration of Continuous Delivery, and we must now expand our focus to address scalability challenges that surface on GitLab.com.
+
+Infrastructure is now composed of five teams, and three individual contributors(ICs):  three **Reliability** teams comprised of SREs and DBREs, the **Delivery** team, with continued focus on improving and dogfooding our CI/CD capabilities, and the **Scalability** team, which is hone in our scalability capabilities. Two IC's in the team are `Distinguished Engineer, Infrastructure`, and `Engineering Fellow, Infrastructure`.
+
+Infrastructure will continue to be comprised [DBRE](https://handbook.gitlab.com/job-families/engineering/infrastructure/database-reliability-engineer/)s, [SRE](https://handbook.gitlab.com/job-families/engineering/infrastructure/site-reliability-engineer/)s, backend (BE) and frontend (FE) engineers.
+
+Note, Product Management support for the Infrastructure Department is provided by the [Enablement Stage](/handbook/product/categories/#enablement-stage) and is therefore not captured in this organization structure. To engage with the Infrastructure PM, see the [Infra PM page](/handbook/engineering/infrastructure/product-management/).
+
+Thus:
+
+* [**Reliability**](/handbook/engineering/infrastructure/team/reliability/) operates all user-facing GitLab services.
+* [**Platforms**](/handbook/engineering/infrastructure/platforms)
+    * [**Delivery**](/handbook/engineering/infrastructure/team/delivery/) focuses on GitLab's delivery of software to GitLab.com and the public at large.
+    * [**Scalability**](/handbook/engineering/infrastructure/team/scalability/) focuses on GitLab and GitLab.com at scale.
+    * [Distinguished Engineer, Infrastructure](/handbook/engineering/infrastructure/team/dei/) ensures alignement between teams, the department leadership and other individual contributors
+* Engineering Fellow, Infrastructure
+
+
+![](img/GitLabInfraOrgStructureV8.png)
+
+### Knowledge Sharing
+
+#### Infrastructure Fire Drill
+
+We are organizing practice runs for service incidents, change issue failures, newly introduced services, and more. As part of the practice, we focus discussions around service visibility, documentation, and troubleshooting. The scenarios we discuss are brought up in our agenda ahead of the meeting time. Persons who are on-call run through a scenario where we identify improvements and have people who worked on the service implementation answer any raised questions. The end goal of these exercises are to make necessary improvements to our monitoring capabilities, to share knowledge and skills to others, and to further improve GitLab.com as a whole.  This is supplemental to the [DNA meeting](/handbook/engineering/infrastructure/index.html#design-and-automation-dna) to observe what is currently available, discuss failure scenarios, and attempt to prove or disprove we are acheiving our own set guidelines in our readiness reviews.
+
+Scenarios for Fire Drills can be created any time via [this issue template](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=fire-drill-proposal).
+
+Videos that are able to be provided publically are posted to the [Infrastructure Fire Drills YouTube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KoIaWOHVVBWGRUnMCgWrLzh).

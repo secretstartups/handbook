@@ -1,0 +1,19 @@
+<% if mttp.sisense_data %>
+  <b>Chart</b>
+    <% if mttp.sisense_data.shared_dashboard%>
+      (<a href="https://app.periscopedata.com/shared/<%= mttp.sisense_data.shared_dashboard %>" target="_blank">Sisense↗</a>)
+    <% elsif mttp.sisense_data.dashboard && mttp.sisense_data.filters%>
+      (<a href="https://app.periscopedata.com/app/gitlab/<%= mttp.sisense_data.dashboard %>" target="_blank">Sisense↗</a>)
+    <% elsif mttp.sisense_data.chart && mttp.sisense_data.dashboard%>
+      (<a href="https://app.periscopedata.com/app/gitlab/<%= mttp.sisense_data.dashboard %>/?widget=<%= mttp.sisense_data.chart %>" target="_blank">Sisense↗</a>)
+    <% end %>
+  <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+      <% if mttp.sisense_data.filters %>
+        <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url(dashboard: mttp.sisense_data.dashboard, chart: mttp.sisense_data.chart, embed: 'v2', filters: performance_indicator.sisense_data.filters) %>">
+      <% else %>
+        <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url(mttp.sisense_data) %>">
+      <% end %>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+  <% end %>
+<% end %>

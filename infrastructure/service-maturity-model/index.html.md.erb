@@ -1,0 +1,77 @@
+---
+layout: handbook-page-toc
+title: Service Maturity Model
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Introduction
+
+This page shows the output of our service maturity model for each
+service in our [metrics catalog]. The [model itself] is part of the
+metrics catalog, and uses information from the metrics catalog and the
+[service catalog] to score each service.
+
+To achieve a particular level in the maturity model, a service must meet
+all the criteria for that level and all previous levels. Some criteria
+do not apply to all services (for instance, services like PgBouncer do
+not need development documentation).
+
+[metrics catalog]: https://gitlab.com/gitlab-com/runbooks/-/blob/master/metrics-catalog/README.md
+[model itself]: https://gitlab.com/gitlab-com/runbooks/-/blob/master/service-maturity/maturity.jsonnet
+[service catalog]: https://gitlab.com/gitlab-com/runbooks/-/blob/master/services/service-catalog.yml
+
+## Maturity score by service
+
+❌ indicates the service does meet even the Level 1 criteria
+
+| Service | Level |
+| --- | --- |
+<% data.service_maturity.each do |service, maturity| %>
+| [<%= service %>](#<%= service %>-detail) | <%= maturity_score(maturity) %> |
+<% end %>
+
+### Maturity detail by service
+
+Key:
+* ✅ Service meets the criteria
+* ❌ Service does not meet the criteria
+* ➖ The criteria is skipped. Some maturity criteria make less sense for some services. For example, an infrastructure-facing service like Patroni is crucial to ops, but not related to our Development department, hence it does not require development guidelines.
+* ⚪ We don't measure the criteria yet.  See [https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/560](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/560) for progress
+
+<% data.service_maturity.each do |service, maturity| %>
+### <%= service %> detail
+
+<ul>
+<li> Level: <%= maturity_score(maturity) %></li>
+<li> <a href="https://dashboards.gitlab.net/d/<%= service %>-main">Link to <%= service %> dashboard</a></li>
+<li> <a href="https://gitlab.com/gitlab-com/runbooks/-/blob/master/metrics-catalog/services/<%= service %>.jsonnet">Service definition of <%= service %></a></li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th>Level</th>
+      <th>Criterion</th>
+      <th>Passed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% maturity_details(maturity).flat_map(&:criteria).each.with_index do |row, i| %>
+    <tr>
+      <% maturity_headers(data.service_maturity, i).each do |header, rowspan| %>
+      <% if header %><th scope="row" rowspan="<%= rowspan %>"><%= header %></th><% end %>
+      <% end %>
+      <td>
+        <%= maturity_evidence(row) %>
+      </td>
+    </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<% end %>
