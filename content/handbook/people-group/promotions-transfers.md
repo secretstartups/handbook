@@ -38,7 +38,7 @@ At times, the business may need to change job attributes such as the direct mana
 
 ### Promotions
 
-**In-Cycle Promotions:**  An in-cycle promotion is any individual that is within the same job family, and has a similar but increased job scope. A promotion is not necessarily defined with a new grade due to differences in job families. This process does not require interview(s), does not create backfill headcount and occurs semi-annually through the calibrated promotion process or in for team members in the Sales Development job family. All in-cycle promotions are processed in **Workday and not in Greenhouse.**  
+**In-Cycle Promotions:**  An in-cycle promotion is any individual that is within the same job family, and has a similar but increased job scope. A promotion is not necessarily defined with a new grade due to differences in job families. This process does not require interview(s), does not create backfill headcount and occurs semi-annually through the calibrated promotion process or monthly for level 5 team members in the Sales Development job family. All in-cycle promotions are processed in **Workday and not in Greenhouse.**  
 
 **Internal Mobility Promotions:**  Internal Mobility promotions occur when a team member applies for an open position and accepts a role at a higher grade/job responsibilities when compared to their current role.  
 
@@ -126,8 +126,8 @@ The Sales Development organization reviews In-Cycle Promotions on a monthly basi
 Sales Development promotions will be reviewed on a monthly basis.
 
 - Planning & Calibration: by the third week of each month
-- Processing: promotinos must be added to HRIS by 20th of each month
-    - Effective date for promotions: 2023-11-01, 2023-12-01, 2024-01-01 
+- Processing: promotions must be added to HRIS by 5th of each effective month
+    - Effective date for promotions: 2023-11-01, 2023-12-01, 2024-01-01
 
 ### FY25-Q1
 
