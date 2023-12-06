@@ -129,8 +129,8 @@ For those with regular commitments, look for shorter weeks or timezone variation
 | Start date | End date | See one | Teach one | Schedule Notes |
 | ---------- | -------- | ------- | --------- | -------------- |
 | 2024-01-02 | 2024-01-05 | [Yin Yu](https://gitlab.com/yyugitlab) - Director, Strategy & Operations | [Cynthia "Arty" Ng](https://gitlab.com/cynthia) - Staff, Strategy & Operations | REMOTE - PT, TUES - FRI |
-| 2024-01-08 | 2024-01-12 | AVAILABLE | [Yin Yu](https://gitlab.com/yyugitlab) - Director, Strategy & Operations | REMOTE - PT |
-| 2024-01-15 | 2024-01-19 | AVAILABLE | AVAILABLE | REMOTE - PT, TUES - FRI |
+| 2024-01-08 | 2024-01-12 | [Javier Garcia](https://gitlab.com/jgarc) - Frontend Engineer, Digital Experience | [Yin Yu](https://gitlab.com/yyugitlab) - Director, Strategy & Operations | REMOTE - PT |
+| 2024-01-15 | 2024-01-19 | AVAILABLE | [Javier Garcia](https://gitlab.com/jgarc) - Frontend Engineer, Digital Experience | REMOTE - PT, TUES - FRI |
 | 2024-01-22 | 2024-01-26 | [Riley Longo](https://gitlab.com/rilongo) - Customer Service Manager | AVAILABLE | REMOTE - PT |
 | 2024-01-29 | 2024-02-02 | AVAILABLE | [Riley Longo](https://gitlab.com/rilongo) - Customer Service Manager | REMOTE - PT, Likely 2 or 3 days TBC |
 | 2024-02-05 | 2024-02-09 | AVAILABLE | AVAILABLE | REMOTE - PT |
