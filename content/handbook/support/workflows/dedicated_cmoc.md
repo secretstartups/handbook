@@ -50,6 +50,12 @@ Follow these steps to create a new ticket to start communications with a custome
 - You do not need to focus all of your attention on looking for updates. As a guideline, check the issues, slack threads, and customer ticket for any updates every 30 minutes if you are the GDCMOC in the same region as the customer.
 - Consider sending the customer a summary so far if it's been a multiple hours since the last substantial update. For example: "To summarise so far, we initially looked into A and B, now we're investigating C" or "We found something in the logs to indicate the problem may be with X. I will share further details if the SRE team finds anything substantial."
 
+## Concurrent incidents
+
+Support Engineers are not expected to manage multiple incidents. If a concurrent GitLab.com incident or GitLab Dedicated contact request comes in, engage with the [Support Manager oncall](handbook/support/workflows/support_manager-on-call/) to help find cover for the new incident.
+
+You can ping the Support Manager oncall in slack with `@support-manager-oncall`.
+
 ## Handover
 
 Follow the [End of Shift Handover Procedure](/handbook/support/workflows/cmoc_workflows/#end-of-shift-handover-procedure) from the CMOC workflows. Make the ingress GDCMOC aware of any issues, slack threads or tickets they should CC themselves on.
