@@ -48,7 +48,7 @@ GitLab has two distinct security zones:
    - Encryption
    - Endpoint detection and response
 
-- Utilize trusted networks when available. If you are connecting from an untrusted network such as a public Wi-Fi, guest network, unsecured hotspots, you should use a [personal VPN](https://handbook.gitlab.com/handbook/tools-and-tips/personal-vpn/). GitLab has selected [NordLayer](https://handbook.gitlab.com/handbook/it/guides/nordlayer/) as the preferred provider.
+- Utilize trusted networks when available. If you are connecting from an untrusted network such as a public Wi-Fi, guest networks, or unsecured hotspots, you should use a [personal VPN](https://handbook.gitlab.com/handbook/tools-and-tips/personal-vpn/). GitLab has selected [NordLayer](https://handbook.gitlab.com/handbook/it/guides/nordlayer/) as the preferred provider.
 
 - Keep [Clear Desk/Clear Screen](https://handbook.gitlab.com/handbook/business-technology/it/security/system-configuration/#clean-deskclear-screen) requirements.
 
