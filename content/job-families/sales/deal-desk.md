@@ -132,19 +132,43 @@ The Deal Desk Analyst (Alliances) is a [grade 6](/handbook/total-rewards/compens
 
 ## Deal Strategist
 
-<<REPORTS TO...>>
+The Deal Strategist reports to the Manager, Deal Desk.
 
 #### Deal Strategist Job Grade
 
-The Deal Strategist is a Grade x
+The Deal Strategist is a Grade 7
 
 #### Deal Strategist Responsibilities
 
-- Responsibility 1
+- Trusted advisor & go-to resource for assigned sales region on deal structure, quoting, and order form creatio n; advises on alternate contract options to drive deal closure
+- Primary point of contact for all questions related to deal structure, opportunity booking, subscription mgt and license delivery
+- Monitors the Sales Support slack channel & SFDC Sales Support case queue to respond to questions
+- Supports assigned sales region through the quote to cash process 
+- Manages issues through GitLab and Handbook updates
+- Resolves booking errors for assigned region through Debooks/Rebooks; Refunds; Internal corrections
+- Partners with cross-functional teams (Billing, Channel, Revenue) to support the Quote to Cash process
+- Understands the license fulfillment process and provides guidance to the field for customers to apply licenses to GitLab instance
+- Responsible for reviewing opportunities to result in accurate booking metrics (Net ARR, ARR Basis, Amount, Recurring Amount) & 1:1 relationship between Zuora Invoice & SFDC Opportunity is accurate
+- Maintains subscription data, partnering with Sales Operations to ensure a 1:1 relationship between subscription and renewal opportunity
+- Collaborates with impacted parties to identify solutions for common QTC errors
+- Support overflow with the Deal Desk Analyst 
+- Participate in sales region forecast calls, QBRs, & EoQ Daily Standups
 
 #### Deal Strategist Requirements
 
-- Requirement 1
+- Experience in SaaS and B2B industry - Order Processing, Deal Desk, Finance & Sales Operations
+- Experience with Enterprise level deal structure
+- Understanding of various Route to Market sales models
+- Understanding of pricing & packaging with an ability to propose deal structuring 
+- Understanding of booking and revenue recognition rules
+- Understanding of Legal terms that may have an impact on contract structuring
+- Ability to manage conversations with sales to drive compliant opportunities for booking
+- Detail oriented; organized; customer focused mindset
+- Understanding of weekly, monthly and quarterly period close process
+- Ability to prioritize workload to align with sales expectations
+- Basic knowledge and understanding of a CPQ tool
+- Proficiency in SFDC & gSuite
+- Interest in GitLab and open source software; ability to use GitLab"
 
 
 ## Manager, Deal Desk
