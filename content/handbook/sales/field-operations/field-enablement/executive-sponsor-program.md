@@ -1,6 +1,6 @@
 ---
 
-title: "Field Team Recognition Programs"
-description: "Field Team Recognition Programs aim to recognize Field team members for significant contributions to team performance. These programs are a direct result of Sales engagement survey data and CRO leaders' commitment to fostering a culture of recognition"
+title: "Executive Sponsorship Program"
+description: "The Executive Sponsorship Program aims to grow our relationships with senior-level buyers and champions at our top customers, expand engagement to promote enterprise-wide platform adoption, and take a customer-centric approach to solving our customers' most challenging business problems."
 ---
 
