@@ -18,7 +18,7 @@ Meanwhile, other critical areas of business have been studied, made objective, c
 
 ## What is TeamOps?
 
-Simply put, **TeamOps is an organizational operating model that helps teams maximize productivity, flexibility, and autonomy by managing information more efficiently.** This virtual-first approach is designed to optimize team dynamics, streamline decision-making, and increase the output of an organization. Developed, practiced, and refined by GitLab, it's a framework grounded in actionable principles that transform how teams work and relate.
+Simply put, **TeamOps is an organizational operating model that helps teams maximize productivity, flexibility, and autonomy by managing information more efficiently.** This virtual-first approach is designed to optimize team dynamics, streamline decision-making, and increase an organization's output. Developed, practiced, and refined by GitLab, it's a framework grounded in actionable principles that transform how teams work and relate.
 
 TeamOps differentiates itself from other management philosophies and people practices by consciously enabling decentralized decision making at a centralized (organizational) level. While guiding principles exist, TeamOps is not static. It is designed to be iterated on and evolved by everyone. This system is designed to apply to **all** work environments, from [no remote to strictly remote](/handbook/company/culture/all-remote/stages/).
 
