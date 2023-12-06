@@ -318,12 +318,12 @@ The partner that received the GitLab invoice (i.e., Distributor for two-tier dea
 
 </details>
 <summary markdown="span">
-The customer received an error stating they are out of compute minutes, therefore their instance has stopped working. How can I quickly resolve this?
+The customer received an error stating they are out of Compute Minutes so their instance has stopped working. How can I quickly resolve this?
 </summary>
 
-If the customer needs to add additional compute minutes, they must purchase the add-on through the same procurement path as the original order (i.e. if they purchased the original subscription through a reseller and distributor, they must purchase the additional minutes the same way).
+The customer must add Compute Minutes via the same procurement path as the original order (i.e., if they purchased the original subscription through a partner, they must purchase the additional minutes through the same partner). Please take the following steps:
 
-1. Work with your GitLab sales rep to obtain a quote for additional minutes.
-2. Your GitLab sales rep may submit a support ticket to provide CI minutes while the quote is being procured.
+1. Work with your GitLab Sales Rep to obtain a quote for additional Compute Minutes.
+2. Request that the GitLab Sales Rep submit an internal support ticket to provide additional Compute Minutes so the customer can get back online while the quote and order process is being completed.
 
 </details>
