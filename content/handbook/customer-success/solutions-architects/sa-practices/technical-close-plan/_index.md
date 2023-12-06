@@ -34,12 +34,16 @@ As both are customer-centric, the Technical Close Plan can and should feed into 
 This [Google Drive Folder](https://drive.google.com/drive/folders/1nQaUD5l05eTN5Dttxuk5Lvr88oyyVDbT) contains the [Technical Close Plan](https://docs.google.com/presentation/d/1RFvOrf-aKXOzPBxLdlF5lkAnBLUTQlUNSFbWlVArA9o/edit?usp=sharing) starting template, an [instructional walkthrough](https://docs.google.com/presentation/d/1Kh48akXwaEJh2HO2TCZqQhfULs_UCx7E9DFsUbLOnzI/edit#slide=id.g253f367cf99_2_447), and [example Technical Close Plans](https://drive.google.com/drive/folders/1X5x7EbRB1v_crFG6RI-ie1D-B8pEgY36) as a reference. 
 
 ### Technical Close Plan Structure
-The specific structure of a Technical Close Plan is not as relevant as the content and conversation. The primary focus areas should include:
-- [Business Outcomes](#business-outcomes) that describe what is valuable to the customer, using their 
+The specific structure of a Technical Close Plan is not as relevant as the content and conversation.
+
+The primary focus areas should include:
+- [Business Outcomes](#business-outcomes) that describe what is valuable to the customer, using their terminology
 - [Key Stakeholders](#key-stakeholders) and how they align to the opportunity
 - [Notional Architecture](#notional-architecture) for the current and proposed state
 - [Known Risks](#known-risks) that could impede progress, including any mitigation steps
-- [Activity Plan](#technical-win-plan) to capture the intentional steps taken to drive a technical evaluation
+- [Activity Plan](#activity-plan) to capture the intentional steps taken to drive a technical evaluation
+
+Most Technical Close Plans should address all of the areas listed above. If the account team is struggling to articulate those areas, it's an indicator that the opportunity is not qualified.
 
 #### Business Outcomes
 As succintly as possible, describe the customer's critical business needs and outcomes. Focus on the customer rather than what GitLab provides. How does the customer plan to drive more revenue? What are their operational efficiency goals? What risks do they need to mitigate?
