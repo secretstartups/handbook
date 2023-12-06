@@ -50,5 +50,6 @@ Additionally, new players are entering the market advocating for up to 5x GitLab
 | Functional Lead(s)    | tbd                    |
 | Member                | Allison Browne @allison.browne |
 | Member                | Grzegorz Bizon @grzesiek |
+| Member                | Arran Walker @ajwalker |
 | Member                | Oliver Falk @ofalk |
 | Member                | Michael Friedrich @dnsmichi |
