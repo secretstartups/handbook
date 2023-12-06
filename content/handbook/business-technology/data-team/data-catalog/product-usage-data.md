@@ -117,7 +117,7 @@ Much of the data within and supporting the Product Usage Data is [Orange](/handb
 
 ### Product Adoption - North Star Metrics and Leading Indicators
 
-The SSOT Handbook for North Star Metrics and Leading Indicators can be found in the [Enterprise Data Team Handbook](https://internal.gitlab.com/handbook/enterprise-data/company-kpis/product-adoption-north-star-metrics/)
+The SSOT Handbook Page for Product Adoption - North Star Metrics and Leading Indicators can be found in the [Enterprise Data Team Handbook](https://internal.gitlab.com/handbook/enterprise-data/company-kpis/product-adoption-north-star-metrics/)
 
 ### Key Metrics, KPIs, and PIs
 

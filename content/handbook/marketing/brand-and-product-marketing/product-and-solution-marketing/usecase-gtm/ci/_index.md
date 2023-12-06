@@ -333,7 +333,7 @@ The table includes free/community and paid tiers associated with GitLab's self-m
 
 ### Product Adoption - North Star Metrics and Leading Indicators for CI
 
-The SSOT Handbook for Product Adoption - North Star Metrics and Leading Indicators can be found in the [Enterprise Data Team Handbook](https://internal.gitlab.com/handbook/enterprise-data/company-kpis/product-adoption-north-star-metrics/)
+The SSOT Handbook Page for Product Adoption - North Star Metrics and Leading Indicators can be found in the [Enterprise Data Team Handbook](https://internal.gitlab.com/handbook/enterprise-data/company-kpis/product-adoption-north-star-metrics/)
 
 #### Additional Documentation Links
 
