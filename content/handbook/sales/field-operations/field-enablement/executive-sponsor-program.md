@@ -35,4 +35,18 @@ Short listed accounts and sponsor pairings are presented to the CRO Leadership t
 
 **Roles & Responsibilities**
 
+**CEO & CRO**
+Validate and reinforce the program expectations. Drive accountability for Executive Sponsors and Account Team Leadership in support of the program goals. 
 
+**ESP Program Manager**
+Own and execute the operating cadence, facilitate Account Team and Sponsor engagement, measure success, iterate on the program, and ensure that the goals are exceeded.
+
+**Account Team**
+Own and execute all account planning, customer success planning, and related customer activities on the operating cadence.
+
+**Executive Sponsor**
+Act as an advocate and amplify the voice of the customer and Account Team throughout GitLab. Regularly engage senior-level customer contacts (formally and informally) to deliver industry and business strategy insights.
+
+**Operating Cadence**
+
+**Weekly**
