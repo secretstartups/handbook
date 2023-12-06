@@ -588,7 +588,7 @@ Since GitLab is an [all remote](/handbook/company/culture/all-remote/) company w
 - **City of Tacoma**
   - [Paid Sick Leave](https://cms.cityoftacoma.org/finance/paid-leave/notices/2018-Paid-Leave-Workplace-Notice-English.pdf)
 
-### Washington D.C 
+### Washington D.C
 
 - [Accrued Sick and Safe Leave Act of 2008](https://does.dc.gov/sites/default/files/dc/sites/does/page_content/attachments/OWH%20-%20ASSLA%20POSTER-%20Bilingual.pdf)
 - [Paid Family Leave](https://drive.google.com/drive/u/0/folders/1AagHxsGmtMZdda-hSGQ051D6gRHpvJFc)
