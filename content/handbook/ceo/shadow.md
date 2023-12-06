@@ -133,8 +133,8 @@ For those with regular commitments, look for shorter weeks or timezone variation
 | 2024-01-15 | 2024-01-19 | AVAILABLE | AVAILABLE | REMOTE - PT, TUES - FRI |
 | 2024-01-22 | 2024-01-26 | [Riley Longo](https://gitlab.com/rilongo) - Customer Service Manager | AVAILABLE | REMOTE - PT |
 | 2024-01-29 | 2024-02-02 | AVAILABLE | [Riley Longo](https://gitlab.com/rilongo) - Customer Service Manager | REMOTE - PT, Likely 2 or 3 days TBC |
-| 2024-02-05 | 2024-02-09 | AVAILABLE | AVAILABLE | REMOTE - PT |
-| 2024-02-12 | 2024-02-14 | AVAILABLE | AVAILABLE | REMOTE - PT, MON - WED |
+| 2024-02-05 | 2024-02-09 | [Deepika Guliani](https://gitlab.com/deepika.guliani) | AVAILABLE | REMOTE - PT |
+| 2024-02-12 | 2024-02-14 | AVAILABLE | [Deepika Guliani](https://gitlab.com/deepika.guliani) | REMOTE - PT, MON - WED |
 | 2024-02-20 | 2024-02-23 | [Emma Neuberger](https://gitlab.com/eneuberger) | AVAILABLE | REMOTE - PT, TUES - FRI |
 | 2024-02-26 | 2024-03-01 | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Senior Product Manager, Deploy:Environments | [Emma Neuberger](https://gitlab.com/eneuberger) | REMOTE - PT |
 | 2024-03-04 | 2024-03-08 | AVAILABLE | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Senior Product Manager, Deploy:Environments | REMOTE - PT |
