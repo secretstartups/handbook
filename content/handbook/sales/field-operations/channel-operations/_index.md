@@ -56,6 +56,7 @@ Once a template has been selected, the description box will be populated with th
 - Select `Feature Request` for requesting enhancements to current systems.
 - Select `Partner M&A and Name Changes` when requesting a partner account change related to mergers and acquisitions, merging duplicate accounts or moving them into an account hierarchy, or to change a partner account name.
 - Select `Procedures & HB Updates` to request edits or reviews for certain procedures/processes or handbook updates managed by Partner Operations, especially if more discussion is needed prior to submitting a MR for a page.
+- Select `Partner Funding Request` for Partner Incentive requests, receiving approvals from Partner Programs and Operations leadership, and tracking status of Partner Payments..
 
 
 **3. Before you submit**
