@@ -130,8 +130,8 @@ For those with regular commitments, look for shorter weeks or timezone variation
 | ---------- | -------- | ------- | --------- | -------------- |
 | 2024-01-02 | 2024-01-05 | [Yin Yu](https://gitlab.com/yyugitlab) - Director, Strategy & Operations | [Cynthia "Arty" Ng](https://gitlab.com/cynthia) - Staff, Strategy & Operations | REMOTE - PT, TUES - FRI |
 | 2024-01-08 | 2024-01-12 | [Javier Garcia](https://gitlab.com/jgarc) - Frontend Engineer, Digital Experience | [Yin Yu](https://gitlab.com/yyugitlab) - Director, Strategy & Operations | REMOTE - PT |
-| 2024-01-15 | 2024-01-19 | [Ben Venker](https://gitlab.com/bvenker) | [Javier Garcia](https://gitlab.com/jgarc) - Frontend Engineer, Digital Experience | REMOTE - PT, TUES - FRI |
-| 2024-01-22 | 2024-01-26 | [Riley Longo](https://gitlab.com/rilongo) - Customer Service Manager | [Ben Venker](https://gitlab.com/bvenker) | REMOTE - PT |
+| 2024-01-15 | 2024-01-19 | [Ben Venker](https://gitlab.com/bvenker) - Sr. PM, Global Search | [Javier Garcia](https://gitlab.com/jgarc) - Frontend Engineer, Digital Experience | REMOTE - PT, TUES - FRI |
+| 2024-01-22 | 2024-01-26 | [Riley Longo](https://gitlab.com/rilongo) - Customer Service Manager | [Ben Venker](https://gitlab.com/bvenker) - Sr. PM, Global Search | REMOTE - PT |
 | 2024-01-29 | 2024-02-02 | AVAILABLE | [Riley Longo](https://gitlab.com/rilongo) - Customer Service Manager | REMOTE - PT, Likely 2 or 3 days TBC |
 | 2024-02-05 | 2024-02-09 | [Deepika Guliani](https://gitlab.com/deepika.guliani) | AVAILABLE | REMOTE - PT |
 | 2024-02-12 | 2024-02-14 | AVAILABLE | [Deepika Guliani](https://gitlab.com/deepika.guliani) | REMOTE - PT, MON - WED |
