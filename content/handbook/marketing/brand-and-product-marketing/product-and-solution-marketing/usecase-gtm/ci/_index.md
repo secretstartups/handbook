@@ -331,23 +331,9 @@ The table includes free/community and paid tiers associated with GitLab's self-m
 - P = Premium
 - U = Ultimate
 
-### Product Health Indicators for CI
+### Product Adoption - North Star Metrics and Leading Indicators for CI
 
-GitLab defines [North Star Metrics and Leading Indicators](/handbook/business-technology/data-team/data-catalog/product-usage-data/#north-star-metrics-and-leading-indicators) to give a cross-company SSOT for customer product adoption.
-
-| North Star Metric | Description | Associated Service Ping Metrics |
-| --- | --- | --- |
-| CI Pipelines Utilization | Number of distinct users initiating a CI pipeline in the last 28 days, divided by billable users | usage_activity_by_stage_monthly.verify.ci_pipelines, license_billable_users |
-
-| Leading Indicator | Associated Service Ping Metrics |
-| --- | --- |
-| Core repos are running CI jobs | counts.projects_with_repositories_enabled, missing metric for repos running CI jobs |
-| gitlab-ci.yml file is populated in project | redis_hll_counters.pipeline_authoring.o_pipeline_authoring_unique_users_committing_ciconfigfile_monthly |
-| Developers have permissions to trigger pipelines | missing metric |
-| Configuration file is periodically updated | missing metric |
-| Template utilization | counts.template_repositories, usage_activity_by_stage_monthly.verify.ci_pipeline_config_repository, usage_activity_by_stage.verify.ci_pipeline_config_repository, counts.ci_pipeline_config_repository |
-| Pipeline schedules | counts.ci_pipeline_schedules, usage_activity_by_stage_monthly.verify.ci_pipeline_schedules, usage_activity_by_stage.verify.ci_pipeline_schedules |
-| Main branch is stable and mostly passing | missing metric |
+The SSOT Handbook for Product Adoption - North Star Metrics and Leading Indicators can be found in the [Enterprise Data Team Handbook](https://internal.gitlab.com/handbook/enterprise-data/company-kpis/product-adoption-north-star-metrics/)
 
 #### Additional Documentation Links
 
