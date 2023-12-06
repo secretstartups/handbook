@@ -126,7 +126,7 @@ The Sales Development organization reviews In-Cycle Promotions on a monthly basi
 Sales Development promotions will be reviewed on a monthly basis.
 
 - Planning & Calibration: by the third week of each month
-- Processing: promotions must be added to HRIS by 5th of each effective month
+- Processing: promotions must be added to HRIS by the 5th day of each effective month
     - Effective date for promotions: 2023-11-01, 2023-12-01, 2024-01-01
 
 ### FY25-Q1
