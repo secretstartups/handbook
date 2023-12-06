@@ -143,7 +143,7 @@ The Deal Strategist is a Grade 7
 - Trusted advisor & go-to resource for assigned sales region on deal structure, quoting, and order form creatio n; advises on alternate contract options to drive deal closure
 - Primary point of contact for all questions related to deal structure, opportunity booking, subscription mgt and license delivery
 - Monitors the Sales Support slack channel & SFDC Sales Support case queue to respond to questions
-- Supports assigned sales region through the quote to cash process 
+- Supports assigned sales region through the quote to cash process
 - Manages issues through GitLab and Handbook updates
 - Resolves booking errors for assigned region through Debooks/Rebooks; Refunds; Internal corrections
 - Partners with cross-functional teams (Billing, Channel, Revenue) to support the Quote to Cash process
@@ -151,7 +151,7 @@ The Deal Strategist is a Grade 7
 - Responsible for reviewing opportunities to result in accurate booking metrics (Net ARR, ARR Basis, Amount, Recurring Amount) & 1:1 relationship between Zuora Invoice & SFDC Opportunity is accurate
 - Maintains subscription data, partnering with Sales Operations to ensure a 1:1 relationship between subscription and renewal opportunity
 - Collaborates with impacted parties to identify solutions for common QTC errors
-- Support overflow with the Deal Desk Analyst 
+- Support overflow with the Deal Desk Analyst
 - Participate in sales region forecast calls, QBRs, & EoQ Daily Standups
 
 #### Deal Strategist Requirements
@@ -159,7 +159,7 @@ The Deal Strategist is a Grade 7
 - Experience in SaaS and B2B industry - Order Processing, Deal Desk, Finance & Sales Operations
 - Experience with Enterprise level deal structure
 - Understanding of various Route to Market sales models
-- Understanding of pricing & packaging with an ability to propose deal structuring 
+- Understanding of pricing & packaging with an ability to propose deal structuring
 - Understanding of booking and revenue recognition rules
 - Understanding of Legal terms that may have an impact on contract structuring
 - Ability to manage conversations with sales to drive compliant opportunities for booking
