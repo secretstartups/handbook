@@ -72,6 +72,7 @@ The above examples overlap with the [GitLab's SAFE Framework](/handbook/legal/sa
 We encourage communicating risks to GitLab, its team members, or customers in a synchronous 1:1 setting.
 
 ### Communications Champions
+
 Where possible, a group of Communications Champions, made up of global ICs and people managers, will be given a preview of companywide changes to provide feedback, so that team member perspectives have been taken into account.
 
 ### Determining Which Communication Forum To Use
