@@ -88,7 +88,7 @@ stable_counterparts(role_regexp: /Fulfillment|Fulfillment:/, direct_manager_role
 <% sales_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| sales.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: sales_members }) %>
 
-The Sales & Go-To-Market stable counterpart will serve as the GTM DRI for strategic cross-functional intiatives, new feature and system updates, and bug resolution. They will ensure that an end-to-end approach is taken into account when communicating with the field and users. Fulfillment PMs can engage the counterpart for new GTM work by using @mention in GitLab as the primary method to submit and prioritize tasks. 
+The Sales & Go-To-Market stable counterpart will serve as the GTM DRI for strategic cross-functional intiatives, new feature and system updates, and bug resolution. They will ensure that an end-to-end approach is taken into account when communicating with the field and users. Fulfillment PMs can engage the counterpart for new GTM work by using @mention in GitLab as the primary method to submit and prioritize tasks.
 
 ### Billing and Accounts Receivable
 
@@ -166,7 +166,7 @@ We strictly adhere to this Intake Request process to ensure we capture the full 
 
 ### Prioritization
 
-We follow the [prioritization guidelines](https://about.gitlab.com/handbook/product/product-processes/#prioritization-ahead-of-kickoff) and use [cross-functional prioritization](https://about.gitlab.com/handbook/engineering/development/#cross-functional-prioritization). 
+We follow the [prioritization guidelines](https://about.gitlab.com/handbook/product/product-processes/#prioritization-ahead-of-kickoff) and use [cross-functional prioritization](https://about.gitlab.com/handbook/engineering/development/#cross-functional-prioritization).
 In addition to these company-wide prioritization inputs, PMs review the [L&R Support Priority Issues list for Fulfillment](/handbook/support/license-and-renewals/workflows/managing_product_issues.html#supports-issue-list-for-fulfillment).
 
 Every team uses the [monthly prioritization template](https://gitlab.com/gitlab-org/fulfillment-meta/-/blob/master/.gitlab/issue_templates/monthly-prioritization.md) for [cross-functional dashboard reviews](https://about.gitlab.com/handbook/engineering/development/#cross-functional-dashboard-reviews) every month.
@@ -465,17 +465,21 @@ The following processes should be followed for high-risk changes:
 
 #### CustomersDot
 
-We use CD (Continuous Deployment) for [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/) and a MR goes through the following stages once it gets merged into the `staging` branch:
+We use CD (Continuous Deployment) for [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/) and an MR goes through the following stages once it gets merged into the `staging` branch:
 
 ```mermaid
 graph TD;
     A(Merged) --> |Green tests| B(Staging);
     B --> C[E2E Test on Staging in 40 minutes];
     C --> D[Verification]
-    D --> E(Auto deploy to production in 2 hours);
+    D --> E(Auto deploy to production in 3 hours);
 ```
 
 If something goes wrong at the `Verification` stage, we could create an issue with the label `production::blocker`, which will prevent deployment to production. The issue cannot be confidential.
+
+When a production blocker is in place and an MR with a fix is needed in order to remove it, the production deployment can be expedited for the MR.
+The job to deploy to production needs to be unscheduled to skip the 3 hour delay and triggered manually to deploy right after removing the
+`production::blocker` label or closing the issue.
 
 For MRs with significant changes, we should consider using [feature flags](https://gitlab.com/gitlab-org/customers-gitlab-com/#feature-flags-unleash) or create an issue with the `production::blocker` label to pause deployment and allow for longer testing.
 
