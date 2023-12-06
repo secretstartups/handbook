@@ -41,8 +41,8 @@ Being a DRI for a KR includes:
 
 ## Milestones
 
-- [ ] Milestone 1: Description: `add here` Due Date: `add here` DRI: `add here`
-- [ ] Milestone 2: Description: `add here` Due Date: `add here` DRI: `add here`
+- [ ] Milestone 1: Description: `add here` DRI: `add here`
+- [ ] Milestone 2: Description: `add here` DRI: `add here`
 - etc.
 ```
 
