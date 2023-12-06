@@ -11,13 +11,11 @@ The [Domain Name Registration and Maintenance Policy](/handbook/finance/expenses
 
 As of 2022-08-01, you can no longer submit an expense report for domain names that you use for demo and sandbox purposes. See the instructions below for IT to [purchase a trademark domain name](#trademark-domain-names), self service purchasing a [non-trademark domain with Sandbox Cloud](#non-trademark-domain-names) for demo and internal use cases, and [transferring an existing domain name](#transferring-domain-names) into GitLab IT managed infrastructure for ongoing renewals that are paid for by the company.
 
-If you have any questions, please reach out to Jeff Martin or Vlad Stoianovici.
-
 ### Trademark Domain Names
 
 The full list of GitLab IT and Infrastructure managed domain names can be found in the [GitLab Owned Domains](https://docs.google.com/spreadsheets/d/187C_xXgaR_L55PeaFVqd9C0E28qrCvmDZnGgQT_4eNI/edit#gid=0) spreadsheet. All recent purchase and transfer issues are linked to [gitlab/it/infra#117](https://gitlab.com/gitlab-com/it/infra/issue-tracker/-/issues/117).
 
-If you want to purchase any domain name that includes any of our [trademarks](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/) (ex. `gitlab`, `gl`, `gtlb`, etc.) or any domain that will host RED or ORANGE data, please use the issue template to request a domain from IT. You do not need strong justification, it just needs to be managed by IT Infrastructure for compliance reasons.
+If you want to purchase any domain name that includes any of our [trademarks](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/) (ex. `gitlab`, `gl`, `gtlb`, etc.) or any domain that will host RED or ORANGE data, please use the issue template to request a domain from IT. You do not need strong justification, it just needs to be managed by IT for compliance reasons.
 
 [DNS Domain Purchase Request Issue Template](https://gitlab.com/gitlab-com/it/infra/issue-tracker/-/issues/new?issuable_template=dns_domain_purchase_request)
 
@@ -27,13 +25,15 @@ See [Transferring Domain Names](#transferring-domain-names) to learn more about 
 
 See the `tfvars.json` files in [config-mgmt](https://gitlab.com/gitlab-com/gl-infra/config-mgmt/-/tree/master/environments/dns) for a list of all current DNS records that are configured for our trademark domain names.
 
-Our less popular and underutilized domain names are manually managed in the `dns-zones-4a589e31` AWS account or  `dns-zones-a1ce7e00` GCP project.
+Our less popular and underutilized domain names are manually managed in the `dns-zones-4a589e31` AWS account or  `dns-zones-a1ce7e00` GCP project. These records can be updated by anyone who has access. If you do not have access, send a Slack DM to Jeff Martin to request the change.
 
-If you want to add or update an A, CNAME, TXT, etc record for a trademark domain name, please use the issue template to have IT Infrastructure update the record for you. We **do not** create subdomain records on trademark domains for demo/sandbox/test environments unless it is a staging environment for a production service.
+#### Updating DNS records and subdomains for gitlab.com
 
-[DNS Domain Record Update Issue Template](https://gitlab.com/gitlab-com/it/infra/issue-tracker/-/issues/new?issuable_template=dns_domain_record_update)
+If you want to add or update an A, CNAME, TXT, etc record for a trademark domain name (ex. `*.gitlab.com`), please use the [runbook](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/manage-dns-entries.md) instructions. We **do not** create subdomain records on trademark domains for demo/sandbox/test environments unless it is a staging environment for a production service.
 
-Please open the issue and ask questions in the comments if you need guidance.
+Due to SPF limitations, all tech stack vendors that require `*.gitlab.com` subdomain records for TXT/SPF/CNAME/etc will be created as a sub-sub domain. (ex. `_domain_key.{vendor-slug}.gitlab.com`).
+
+[Manage DNS entries runbook](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/manage-dns-entries.md)
 
 ### Non-Trademark Domain Names
 
