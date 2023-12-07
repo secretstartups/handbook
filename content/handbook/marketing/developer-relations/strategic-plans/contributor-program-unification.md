@@ -4,12 +4,6 @@ title: "Contributor Program Unification & Growth Plan"
 description: "Streamline the different programs that support & grow our Contributor Community within GitLab."
 ---
 
-
-
-
-
-
-
 ## Goal
 
 As GitLab has grown, various teams have developed several programs and initiatives to engage and recognize the wider GitLab community. These include programs like GitLab Heroes, Core team, MVPs, and Contributors. We propose combining aspects of all these programs to create a single, unified contributor program that more adequately recognizes the wider community contributions that are vital to GitLab's success.
@@ -138,9 +132,10 @@ Note: The points, levels & status can still change.
 
 | Contributor Levels | Requirements | Benefits & Rewards |
 | --- | --- | --- |
-| New | 2 Contribution Points | Achievement on profile, Swag |
-| Experienced | 20 Contribution Points | Achievement on profile, Swag | 
-| Hero | 50 Contribution Points | Achievement on profile, Tier 3 swag coupon, 1 GitLab Ultimate License for personal use
+| Level 1 | 3 Contribution Points | Achievement on profile, Swag |
+| Level 2 | 25 Contribution Points | Achievement on profile, Swag | 
+| Level 3 | 75 Contribution Points | Achievement on profile, Swag | 
+| Level 4 | 75+ Contribution Points | Achievement on profile, Tier 3 swag coupon, 1 GitLab Ultimate License for personal use |
 | Leading <sub>Scores can be combined within an organization, Formerly known as Leading Organization</sub> | 30 Contribution Points in the last 3 months, Evaluated per quarter | Achievement on profile, wag, 4 day SLO time to get a review/feedback on authored MRs |
 | Core | after approval, Individual basis only, 120 Contribution Points, Election process | Achievement on profile, Swag, 1 GitLab Ultimate License for personal use, Slack Access (Requires an NDA to be signed), Developer Permission for GitLab projects |
 

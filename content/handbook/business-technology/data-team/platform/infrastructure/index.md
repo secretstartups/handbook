@@ -1117,36 +1117,49 @@ In some data sources, we have to handle backdated data which is data that is rec
 
 1. Dennis, please add references to Sunday full refresh DAG...
 
-### DBT Model Manual Full Refresh
+### DBT Model Manual Refresh
 
-Use `dbt_full_refresh` DAG to force dbt to rebuild the entire incremental model from scratch.
+Use `dbt_manual_refresh` DAG to force dbt to rebuild the entire incremental model(s) from scratch or to run the incremental load, depending on the parameters.
 
-1. In Airflow set up Variable `DBT_MODEL_TO_FULL_REFRESH` with name of model(s) to refresh following [dbt model selection syntax](https://docs.getdbt.com/docs/running-a-dbt-project/command-line-interface/model-selection-syntax/).  For example, to refresh version models, the value would be `sources.version staging.version`.  To refresh gitlab_dotcom models, the value would be `sources.gitlab_dotcom staging.gitlab_dotcom`.
-<br><img src="airflow_variable_setting.png" alt="airflow_variable_setting" width="400"/></br>
-  - Be careful to copy your model name from any source into the variable field in Airflow. We've seen that this can add invisible characters (like i.e. a line break `\n`) and generate the below statement, which will exclude the `--full-refresh` when executing.
+Go to `DAG` `dbt_manual_refresh` and press Play button and choose option `Trigger DAG w/config`. 
 
-    ```
-    '    dbt --no-use-colors run --profiles-dir '
-    'profile --target prod --models '
-    'gitlab_dotcom_issues_dedupe_source\n'
-    ' --full-refresh ; ret=$?;\n'
-    ```
+![trigger_dag.png](trigger_dag.png)
 
-2. By default `dbt_full_refresh` DAG will be running on `TRANSFORMING_XL` warehouse , in order to modify the warehouse size in case of quick full refresh or in case of performance issue, modify the variable `DBT_WAREHOUSE_FOR_FULL_REFRESH` to desired warehouse size. For the actual list of the actual warehouse's sizes, check [compute-resources](/handbook/business-technology/data-team/platform/#compute-resources)
+This will open the parameter dialog in the following format:
 
-If a bigger warehouse than `XL` is used, an issue has to be created and Data Leadership has to be tagged. Document in the issue why a bigger warehouse is used. Report in the issue **every** run that was applicable, which models were refreshed and their starttime, stoptime and status (`succeeded`, `failed` or `aborted`).
+**Configuration JSON (Optional, must be a dict object)**
 
-3. Manually trigger DAG to run.
-
-dbt command that is run behind is
-
-```
-dbt run --profiles-dir profile --target prod --models DBT_MODEL_TO_FULL_REFRESH --full-refresh
+```json
+{
+    "DBT_MODEL_TO_REFRESH": "{FILL YOU MODEL(s) NAME}",
+    "SNOWFLAKE_WAREHOUSE_FOR_REFRESH": "TRANSFORMING_XS",
+    "DBT_TYPE_FOR_REFRESH": "--full-refresh"
+}
 ```
 
-See the following demo video on how to perform a DBT Full Refresh in Airflow:
+You should fill the values:
+* `DBT_MODEL_TO_REFRESH`: add your model(s) name with name of model(s) to refresh following [dbt model selection syntax](https://docs.getdbt.com/docs/running-a-dbt-project/command-line-interface/model-selection-syntax/). If you have more of them, put a white space among them (ie. `MODEL_1 MODEL_2`)
+* `SNOWFLAKE_WAREHOUSE_FOR_REFRESH`: Allowed values are [`TRANSFORMING_XS`, `TRANSFORMING_S`,`TRANSFORMING_L`,`TRANSFORMING_XL`,`TRANSFORMING_4XL`]
+* `DBT_TYPE_FOR_REFRESH`: The refresh will be full refresh or incremental. Allowed values are [`--full-refresh`, `""`] (either `--full-refresh` or empty string) 
 
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/OIBdemRSAiQ"></iframe></figure>
+> **Note:** If a bigger warehouse than `XL` is used, an issue has to be created and Data Leadership has to be tagged. Document in the issue why a bigger warehouse is used. Report in the issue **every** run that was applicable, which models were refreshed and their starttime, stoptime and status (`succeeded`, `failed` or `aborted`).
+
+For instance, to refresh version models, the value for parameter `DBT_MODEL_TO_REFRESH` would be `sources.version staging.version`. To refresh gitlab_dotcom models, the value would be `sources.gitlab_dotcom staging.gitlab_dotcom`.Once when you filled the data you want, press button `Trigger` and task will start. Example is on the picture below:
+
+![dag_example.png](dag_example.png)
+
+
+`dbt` command that is run behind is:
+
+```bash
+export SNOWFLAKE_TRANSFORM_WAREHOUSE=SNOWFLAKE_WAREHOUSE_FOR_REFRESH
+...
+dbt run --profiles-dir profile --target prod --models DBT_MODEL_TO_REFRESH [--full-refresh|""]
+```
+
+See the following demo video on how to perform a `dbt` Manual refresh in Airflow:
+
+<figure class="video_container"><iframe src="https://youtu.be/pp9S5pLFvq4"></iframe></figure>
 
 
 ## GitLab Data Utilities
