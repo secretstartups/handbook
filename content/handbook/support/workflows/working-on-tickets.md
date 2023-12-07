@@ -204,9 +204,12 @@ needs, and that might save you and the customer time and effort as well.
        ['Reminder'](/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app)
        apps.
 
-## Handing over tickets and customer calls between regions
+## Cross Region handover of tickets and customer calls
 
 Handover requests can be done via scheduled manual message to your group's Slack channel, or requested through the use of the Handover form available in each group's Slack channel. Both methods are outlined below.
+
+Note that both of the methods below are aimed at cross region handover only. The reason is that in-region handovers can be done synchronous, so it is not necessary to ping the on-call manager pr default.     
+Cross region handover is async by nature. For these, the on-call is the only manager we can be sure is always available, to be the DRI of getting the ticket assigned the same day.
 
 ### Manual request
 
@@ -216,7 +219,9 @@ Handover requests can be done via scheduled manual message to your group's Slack
 1. CC (@ mention) the [Support Manager on-call](/handbook/support/on-call/#seeing-which-manager-is-on-call) in the region you want to reach, so they can help ensure the ticket gets assigned.
 1. Bonus info: You can also use the Slack ["schedule message"](https://slack.com/help/articles/201457107-Send-and-read-messages#send-or-schedule-messages) feature, to ensure the message pops up within working hours of the intended region.
 
-### Using the Handover Form
+### Using the Cross Region Handover Form
+
+Please note that both the handover form and the method above should only be used for async cross region handover. The reason is that in-region handover can be handled synchronously and does not need to include the on-call manager by default.
 
 1. Select a handover form from the `Handovers` folder that is bookmarked at the top of your group's channel. Choose the form (such as `Handover to EMEA`) based on the target region to which you need to handover the ticket.
 1. Fill out all fields (using as much detail as possible for the paragraph fields), then click `Submit`.
