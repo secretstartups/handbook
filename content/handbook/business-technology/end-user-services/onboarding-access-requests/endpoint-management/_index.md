@@ -86,6 +86,10 @@ SentinelOne is an endpoint detection and response technology used to secure and 
 
 DriveStrike is a lightweight device management solution for Linux that can remotely wipe devices. It also can be used to wipe macOS devices in the event Jamf is unable to do so. For more detail, please review the [DriveStrike page](/handbook/it/guides/drivestrike/)
 
+#### Google Chrome Enterprise Browser Management
+
+Google Chrome Enterprise Browser Management is an web browser management solution used by system administrators to configure and automate IT administration tasks for secure web browsing. For more detail, please review the [Google Chrome Enterprise Management page](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/Google-Chrome-Enterprise-Management/).
+
 ## Exceptions
 
 Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
