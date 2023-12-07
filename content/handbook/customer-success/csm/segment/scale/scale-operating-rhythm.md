@@ -111,7 +111,7 @@ This ensures that a CSAT survey is deployed to the recipients of the email.
 
 The CSE Team delivers monthly webinars and hands-on workshops that are available to all.  The [webinar calendar](/handbook/customer-success/csm/segment/scale/webinar-calendar/) is published to our website, with a registration link for each.  Webinars are pre-recorded content with CSEs answering Q&A.  Workshops provide a hands-on learning experience for each attendee with their own lab environment to work through lab exercises during the session.
 
-### Preparing for a Webinar
+### Preparing for and Delivering a Webinar
 
 The upcoming month's webinar dates are added to an issue in the [Customer Success Operations Project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/?label_name%5B%5D=CSOps%20-%20Scale) and the CSE team is asked to sign up as host or Q&A support.  The zoom webinars are created by CS Operations and then the webinar details are added to the webinar calendar.
 
@@ -122,7 +122,7 @@ The host and Q&A panelist should start/join the webinar at least 10 minutes befo
 The Scale Program Manager will handle all pre- and post-webinar communication with the attendees.
 
 
-### Preparing for a Hands-on Workshop
+### Preparing for and Delivering a Hands-on Workshop
 
 The upcoming month's hands-on workshops are added to an issue in the [Customer Success Operations Project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/?label_name%5B%5D=CSOps%20-%20Scale) (separate from the webinar schedule) and the CSE team is asked to sign up as Presenter or Q&A support. 
 
@@ -151,6 +151,8 @@ Tips and tricks for presenting:
    - turn off all notifications
    - hide your bookmarks bar and be conscious not to share anything related to other customers
    - go slower than you think you need to through the exercises
+
+After the workshop, the Scale Program Manager will send a post-workshop email with a link to the recording and slide deck.  They will need a Highspot pitch link to send.  To create one, login to Highspot and upload the content to your personal spot (Click New in the upper right-hand corner, add files, then choose from Cloud services - Google drive, find the file on drive and selecti it, make sure the "External" usage label is set, then click "add").  Once you have uploaded it, you will want to go to the document in your spot and use the menu to "share with pitch", select "link pitch", provide a name, and set an expiration date of 3 months, and ensure the "allow content to be downloaded as pdf" option is selected, then create link, copy it and provide it to the Scale program manager.
 
 
 ## Scale Onboarding Cohorts
