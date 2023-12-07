@@ -27,6 +27,20 @@ For embedding in the handbook, views will embed better than dashboards will, so 
 
 Each view that is meant to be embedded in the public handbook must be published in the `Public` project located within the respective Functional Team project.  This will ensure that the workbook, and their datasources are copied to the Public GitLab Tableau site.  Views that are meant to be embedded on the internal site do not need to be in a specific project, but should still meet the set up guidelines.
 
+### Workbook Naming Convention
+
+When publishing workbooks to our Tableau Cloud site for the first time please name the workbook with their intended title, so that the resulting URL will capture just this title:
+![](images/naming_tableau_workbook.png)
+![](images/workbook_url.png)
+
+Publishing to the [Development](https://10az.online.tableau.com/#/site/gitlab/projects/300844) project:
+For all workbooks published to Development project please prefix them with DRAFT or [Draft] or [DRAFT] to indicate that they are in development mode and not an official workbook that has been  After the workbook is published in this space, please edit the title by navigating to your workbook and clicking on the ellipse symbol to select on Rename. Add the DRAFT/[Draft]/[DRAFT] prefix and click on Rename to confirm the change.
+![](images/rename_workbook_online.png)
+![](images/add_draft_prefix.png)
+
+Publishing to the [Ad-hoc](https://10az.online.tableau.com/#/site/gitlab/projects/361929) or [Production](https://10az.online.tableau.com/#/site/gitlab/projects/361859) project:
+When publishing workbooks to the Ad-hoc or Production project, if the workbook is being published for the first time, please select Move and then rename the workbook from its title with the DRAFT/[Draft]/[DRAFT] prefix to have its official title with the [functional team's abbreviation](https://gitlab.com/gitlab-data/tableau/-/blob/main/admin/structure.md). For example, these workbooks in the Ad-hoc/Product/General folder has been renamed with the PD: prefix once they have been published:
+![](images/ad-hoc_pd_workbooks.png)
 
 ## Row Level Security
 
