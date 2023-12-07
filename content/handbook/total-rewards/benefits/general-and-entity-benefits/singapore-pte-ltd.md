@@ -47,7 +47,7 @@ For pre-scheduled admission/surgery, please do request for LOG at least 3-5 days
 
 For any claims issues or benefits queries, please reach out to the WTW team at `claims.sg@willistowerswatson.com` .
 
-For escalations, please reach out to our dedicated account manager,  Melissa Choo  `melissa.choo@wtwco.com`
+For escalations, please reach out to our dedicated account manager,  Heng Yeo  `heng.yeo@wtwco.com`.
 
 ### Enrollment
 
