@@ -299,7 +299,7 @@ Since GitLab is an [all remote](/handbook/company/culture/all-remote/) company w
 - [Unemployment Insurance](https://www.uimn.org/assets/109_tcm1068-192562.pdf)
 - [Workers' Compensation Notice - Inc.](https://drive.google.com/file/d/1TiucUJJeuRL_P9KRhGMVEvyXe12Qik5w/view?usp=sharing)
 - [Labor and Employment Rights](http://sicktimeinfo.minneapolismn.gov/uploads/9/6/3/1/96313024/mpls_required_employee_notice_poster.pdf)
-- [Earned Sick and Safe Time](https://www.dli.mn.gov/sites/default/files/pdf/ESST_sample_notice.pdf)
+- [Earned Sick and Safe Time](https://drive.google.com/file/d/1fspfrI5g8GmszlaphjEGcH63ILbqMiAL/view?usp=drive_link)
 - [Nursing Mothers, Lactating Employees, and Pregnancy Accommodations Notice](https://www.dli.mn.gov/sites/default/files/pdf/WESA_employee_notice.pdf)
 - **City of Duluth**
   - [Earned Sick and Safe Time](https://duluthmn.gov/media/8332/esst-poster.pdf)
