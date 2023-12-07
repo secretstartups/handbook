@@ -115,20 +115,9 @@ Much of the data within and supporting the Product Usage Data is [Orange](/handb
 1. Billable Members: [API](https://docs.gitlab.com/ee/api/members.html#list-all-billable-members-of-a-group), [Definition](https://docs.gitlab.com/ee/subscriptions/self_managed/#billable-users), EDM Field Name: `billable_user_count`
 1. Active Users: [Customer Docs](https://docs.gitlab.com/ee/administration/index.html#users-statistics), [Metric Dictionary](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html#active_user_count), EDM Field Name: `active_user_count`
 
-### North Star Metrics and Leading Indicators
+### Product Adoption - North Star Metrics and Leading Indicators
 
-Partnering with cross-functional teams, the Data Team is defining metrics indicative of product adoption. These metrics are categorized as North Star Metrics and Leading Indicators.
-
-#### North Star Metrics
-
-A North Star Metric is a *single value* that gives a high-level summary of product adoption. Each [Use Case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/#capabilities--use-cases) has one North Star Metric. A North Star Metric must meet three criteria:
-1. The metric must directly connect to the value that customers realize from a Use Case. Ideally, it measures a customer's *breadth* and/or *depth* of Use Case adoption.
-1. The metric must be available for a high proportion of customers and ARR.
-1. The metric must be easy to understand and explain. All else being equal, we prefer a simple metric to an aggregate or composite metric.
-
-#### Leading Indicators
-
-A Leading Indicator is a measure that impacts Use Case adoption, but is not comprehensive enough to be a North Star Metric. For example, a Leading Indicator might give insight into adoption of a single feature within a Use Case. Alternatively, a Leading Indicator can track any prerequisite activities that are required to unlock the primary value of a Use Case.
+The SSOT Handbook Page for Product Adoption - North Star Metrics and Leading Indicators can be found in the [Enterprise Data Team Handbook](https://internal.gitlab.com/handbook/enterprise-data/company-kpis/product-adoption-north-star-metrics/)
 
 ### Key Metrics, KPIs, and PIs
 
