@@ -14,9 +14,9 @@ description: "Web Browser Management - Chrome Enterprise: web browser management
 
 ## What is Chrome Enterprise Browser Management?
 
-Chrome Enterprise Browser Management is a service that allows IT admins to effectively manage, report, secure, and improve end user experience with Google Chrome.
+[Chrome Enterprise Browser Management](https://chromeenterprise.google/browser/management/) is a service that allows IT admins to effectively manage, report, secure, and improve end user experience with Google Chrome.
 
-## Why Chrome Enterprise
+## Why Chrome Enterprise?
 
 Google has a highly customizable browser that can enhance user productivity, build strong security, and report on valuable metrics
 
@@ -26,4 +26,4 @@ IT admins build a quick and effective patching policy for vulnerable browsers, C
 
 ## How changes are made
 
-IT admins propose and create a change in a CR. The Change is Alpha tested on a sampling of test machines. The Change is proposed and pushed to the IT Security Beta Testers for broader testing and feedback collection. After the final testing is finished, Changes are announced and pushed out to production. 
+IT admins propose and create a change in a [CR](https://gitlab.com/gitlab-com/business-technology/change-management). The Change is Alpha tested on a sampling of test machines. The Change is proposed and pushed to the [IT Security Beta Testers](https://handbook.gitlab.com/handbook/business-technology/it/security/) for broader testing and feedback collection. After the final testing is finished, Changes are announced and pushed out to production. 
