@@ -65,6 +65,19 @@ The following teams have role-based access to 6sense:
 
 6sense is access is managed through Okta. To request access, open an [access request](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/). After receiving manager approval, tag the provisioner listed in the [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). When requesting access, please specify a role from the list below along with justification as to why this role is needed.
 
+### User Configuration
+
+The following steps must be taken in order for users to access both the 6sense platform and the 6sense integration with Salesforce:
+
+| Action | Owner |  Owner | 
+| ------ | ------ | ------ |
+|  User is added to the 6sense Okta Google Group. |  Marketing Ops | This creates their 6sense account |
+| User activates their 6sense account by searching for and clicking on the 6sense Okta tile. | User | This activates their account in the 6sense platform |
+| User is assigned the appropriate role in the 6sense platform. | Marketing Ops | By default, they will be assigned `View Only` after activating their account in Okta. This ensures that the user is able to take appropriate actions in the platform |
+|  User's Salesforce profile is assigned the `6sense User` permission set. | Sales Systems | This allows the user to see the 6sense dashboard iframe in Salesforce | 
+| User's Salesforce profile has the `6sense Sales Intelligence` visual force enabled on their page layouts. | Sales Systems | This ensures that the 6sense custom fields and iframe appear on the Account page layouts in Salesforce |
+
+
 ### 6sense User Roles
 
 - Operation User: This role has full access to 6sense insight features, orchestration, alerts, administrator reports, and settings related to integration and sales enablement. It also has view access to campaigns and some other settings.
