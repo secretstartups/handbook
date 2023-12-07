@@ -1117,7 +1117,7 @@ In some data sources, we have to handle backdated data which is data that is rec
 
 1. Dennis, please add references to Sunday full refresh DAG...
 
-### DBT Model Manual Full Refresh
+### DBT Model Manual Refresh
 
 Use `dbt_full_refresh` DAG to force dbt to rebuild the entire incremental model from scratch.
 
