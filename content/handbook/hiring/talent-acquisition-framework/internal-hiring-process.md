@@ -66,9 +66,33 @@ Ensure you have met your department specific eligibility requirements:
 ## Hiring Manager Responsibilities
 
 - Hiring Managers will be notified by Recruiter when an internal team member has applied and has completed the necessary eligibility checks as mentioned above, and they will follow the process outlined in the [Talent Acquisition Process Framework]({{< ref "talent-acquisition-framework" >}}) for all candidates.
-- At any stage a team member needs to be declined, it is up to the Recruiter and Hiring Manager to connect to determine the best approach to ensure the appropriate [feedback]({{< ref "guidance-on-feedback" >}}) is given.
 - If a team member moves to offer, the Hiring Manager will connect with the team member's current manager.
 - Hiring Manager will be provided the candidates compensation expectations from the Recruiter. It is up to the hiring manager to propose a compensation aligned with budget, candidate expectations, and internal pay equality.
+
+## Delivering feedback to rejected candidates
+
+At any stage a team member needs to be declined, it is up to the Recruiter and Hiring Manager to connect to determine the best approach to ensure the appropriate [feedback]({{< ref "guidance-on-feedback" >}}) is given. It is important to deliver transparent and honest feedback to the candidate while remaining constructive and focusing on growth.
+
+If there is enough feedback to justify it (due to multiple interviews, amount of feedback, commitment to this role, etc), consider this approach:
+- Condense the themes from all of the scorecards so that there is a high level, but anonymous summary of Pros and Cons
+- Document your key takeaway as a hiring manager in terms of how this candidate might struggle or be the wrong fit in the position, despite any specific ways they might do well in the position if applicable
+- Provide actionable, concrete steps to work on those areas
+- Sync with the candidate to review these topics, and share the feedback with them in a document for them to work on in the future
+
+An example of this approach might look like the following:
+
+**Pros**:
+- Has good examples of making improvements to this area in the past
+
+**Cons**:
+- In general if experience was missing (such as XYZ) when asked a question, they were not able to answer it based on any lessons/training they have taken in preparation for this role
+
+**Takeaways**:
+- They understand the day-to-day responsibilities of this role in terms of (these job requirements), but are not yet prepared for what this looks like long-term around (these other job requirements and challenges they may face). They may be coachable in these areas and have an exceptional history with GitLab, however this position will be demanding on time which may not allow the candidate to get enough support in the role. I would recommend:
+  - Specific actions this candidate can take in their _current_ role to get more experience
+
+Your feedback to candidates may not need to be so robust. In some cases, there may not be enough feedback from the interview process to provide in a helpful way. In this case, consider a brief takeaway message to the candidate, highlighting specific actions they can take in their _current_ role to get more experience, similar to above. If you are not sure what actions they can be taking to be more qualified for your position, you may reference your role's job requirements and/or the [Job Framework](https://docs.google.com/spreadsheets/d/1FX4NBwF099uMBm7mGBtf1orIJZuHEjtiEa3jSbg9jJs/edit#gid=0) for inspiration defining concrete actions. 
+
 
 ## Internal Hiring Process Survey
 
