@@ -12,7 +12,7 @@ This is our Tableau embed demo page.  It is used to demonstrate how we can embed
 
 The source url for a view from the public site can be found by looking list of [view available for embedding](https://handbook.gitlab.com/handbook/business-technology/data-team/platform/tableau/embed-demo/#views-availble-for-public-embedding). 
 
-[A short view deominstating how to do the embed.](https://youtu.be/Vry_yqUP2C8)
+[A short view demonstrating how to do the embed.](https://youtu.be/Vry_yqUP2C8)
 
 This chart should be visible to anyone who loads the page.
 
@@ -21,7 +21,7 @@ This chart should be visible to anyone who loads the page.
 
 ### Viz from Internal site
 
-The source url for a view from the intrnal site can be found by navigating to the view and selecting the `Share` option at the top of the screen and then seleting the `Copy Link` option.
+The source url for a view from the internal site can be found by navigating to the view and selecting the `Share` option at the top of the screen and then selecting the `Copy Link` option.
 
 ![](images/tableau_view_share.png)
 
