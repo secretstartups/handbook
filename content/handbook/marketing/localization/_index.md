@@ -42,7 +42,7 @@ Annually we prioritize countries that we believe offer the most opportunity for 
 
 | Vendor | Capabilities | How to Access |
 | ------ | ------------ | ------ | 
-| [Translated](https://gitlab.slack.com/archives/C0576F7T3L2) | Translation service provider | v2 currently in development 
+| [Translated](https://gitlab.slack.com/archives/C0576F7T3L2) | Translation service provider 
 | [Crowdin](https://gitlab.enterprise.slack.com/archives/CBJAG3VHB) | Translation management system (TMS) for translation of product UI text: [translate.gitlab.com](https://docs.gitlab.com/ee/development/i18n/translation.html)
 | [Spartan](https://gitlab.enterprise.slack.com/archives/C055FPHP287) | Suite of integrations between GitLab, MarTech, TMS, etc., for continuous localization of content  
 
