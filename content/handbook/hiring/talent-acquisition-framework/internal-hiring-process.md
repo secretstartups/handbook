@@ -89,9 +89,9 @@ An example of this approach might look like the following:
 
 **Takeaways**:
 - They understand the day-to-day responsibilities of this role in terms of (these job requirements), but are not yet prepared for what this looks like long-term around (these other job requirements and challenges they may face). They may be coachable in these areas and have an exceptional history with GitLab, however this position will be demanding on time which may not allow the candidate to get enough support in the role. I would recommend:
-  - Specific actions this candidate can take in their _current_ role to get more experience
+  - Specific actions this candidate can take in their **current** role to get more experience
 
-Your feedback to candidates may not need to be so robust. In some cases, there may not be enough feedback from the interview process to provide in a helpful way. In this case, consider a brief sync or async takeaway message to the candidate, highlighting specific actions they can take in their _current_ role to get more experience, similar to above. If you are not sure what actions they can be taking to be more qualified for your position, you may reference your role's job requirements and/or the [Job Framework](https://docs.google.com/spreadsheets/d/1FX4NBwF099uMBm7mGBtf1orIJZuHEjtiEa3jSbg9jJs/edit#gid=0) for inspiration defining concrete actions. 
+Your feedback to candidates may not need to be so robust. In some cases, there may not be enough feedback from the interview process to provide in a helpful way. In this case, consider a brief sync or async takeaway message to the candidate, highlighting specific actions they can take in their **current** role to get more experience, similar to above. If you are not sure what actions they can be taking to be more qualified for your position, you may reference your role's job requirements and/or the [Job Framework](https://docs.google.com/spreadsheets/d/1FX4NBwF099uMBm7mGBtf1orIJZuHEjtiEa3jSbg9jJs/edit#gid=0) for inspiration defining concrete actions.
 
 
 ## Internal Hiring Process Survey
