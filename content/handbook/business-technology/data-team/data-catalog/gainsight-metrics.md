@@ -100,8 +100,23 @@ query to use for each metric, please reference the [Self-Managed Service Ping qu
 
 Once a metric has been added to SaaS Namespace Service Ping, it can optionally be "backfilled" to retroactively populate historical data. Importantly, this process is only enabled for 28d and 7d metrics; it does not work for all-time metrics. Backfill a metric by following the [backfill instructions here](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#instance-namespace-metrics-based-data-flow). Here is an [example backfill](https://gitlab.com/gitlab-data/analytics/-/merge_requests/7878#note_1290728389). 
 
-# Add metrics to seed files, macros, and PREP layer
-`COMING SOON`
+# Add metrics to seed files, yml files, macros, and PREP layer
+
+Next, add the metrics to the following files following the established pattern:
+- [health_score_metrics.csv](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/health_score_metrics.csv?ref_type=heads)
+- [ping_instance_wave_metrics.sql](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/macros/version/ping_instance_wave_metrics.sql?ref_type=heads)
+
+This will result in the metrics appearing in the following models:
+- `fct_ping_instance_metric_wave`
+- `prep_saas_usage_ping_subscription_mapped_wave_2_3_metrics`
+- `mart_ping_namespace_metric_health_score_saas`
+- `mart_ping_instance_metric_health_score_self_managed`
+
+Here is an [example MR](https://gitlab.com/gitlab-data/analytics/-/merge_requests/8760) where metrics are added to the CSV and macro.
+
+Additionally, add `performance_indicator_type: customer_health_score` to the metric's yml file to make it transparent that the metric is used in health scoring. Here is an [example MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/138347).
+
+Finally, optionally, add the metrics to the [`sales_wave_2_3_metrics.sql`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/macros/version/sales_wave_2_3_metrics.sql?ref_type=heads) macro, which will result in the metrics appearing in `fct_ping_instance_free_user_metrics`.
 
 # Cascade metrics through FCT, MART, and RPT layers to workspace models
 `COMING SOON`
