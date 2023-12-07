@@ -121,9 +121,13 @@ To learn more on how this automation works, check the [IT-Help Slack Issue Creat
 
 #### IT Holiday Schedule
 
-The IT Support team will have members on leave from the 18th of December 2023 to the 2nd of January 2024. However we will have coverage over the holidays for all business, non holiday days. 
+The IT Helpdesk team (End User Services) will be observing 2 end of the year holidays during the weeks from 2023-12-18 to the 2024-01-02.
 
-If you have an urgent request, please reach out to us via slack in the #IT_Help channel
+Observed Support Holidays
+Monday December 25th
+Monday January 1st
+
+If you have an urgent request, please reach out to us via slack in the #it_help channel.
  
 #### IT Ops
 
