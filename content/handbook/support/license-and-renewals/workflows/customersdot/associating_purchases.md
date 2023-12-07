@@ -114,14 +114,18 @@ We need **one** of the following in order to verify eligibility for the subscrip
    1. Using a gitlab.com admin account to verify the accuracy of the provided
       subscription data and then approving or denying the request accordingly.
 1. Option for unactivated licenses purchased through a reseller only: Reseller can verify the account ownership change through an ticket request. Support is responsible for [confirming the account was purchased through a reseller](/handbook/support/license-and-renewals/workflows/working_with_reseller_related_requests#identifying-whether-a-customer-purchased-through-reseller), and verifying that the email address domain used by the reseller to make the request matches the key Contacts email domain in the subscription details in Zuora. Reseller can either open a ticket with this request or the customer can CC the reseller and also confirm that they would like to authorize the reseller to participate in the ticket.
-1. Option for an unactivated license sent to a Sold to contact email address that has a typo: Support may receive an [Internal Request](/handbook/support/license-and-renewals/workflows/working_internal_requests/) to correct the typo in a customer's email address and resend the license to a valid address. Use this workflow to validate the request before making any changes:
-   1. In CustomersDot, find the subscription name on the [Cloud Activation](https://customers.gitlab.com/admin/cloud_activation) page. Ensure the activation code has not been used; if it has not been activated yet, there will be no "Self Managed Instance Activations" tab for this cloud activation.
-   1. [Check the Mailgun logs](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases/#troubleshooting-email-delivery-from-customerdot) to verify that the license email was sent but failed to reach the intended customer. If the email with the typo does not exist, the Mailgun log entry will display a failed mail delivery attempt (commonly shown as a **550 error code**).
-   1. Log the error by taking a screenshot of the error message and attach it to the ticket.
-   1. Validate the correct email address with the Account Manager who submitted the request before correcting the typo.
-   1. Update the Sold to contact email address on the Billing Account and the related Customers Portal account.
-   1. Resend the license to the corrected email address.
-   1. Advise the Account Manager to update the email for the Contact in SFDC for their records.
+
+### Fixing typos
+
+Support may receive an [Internal Request](/handbook/support/license-and-renewals/workflows/working_internal_requests/) to correct the typo in a customer's email address and resend the license to a valid address. Use this workflow to validate the request before making any changes:
+
+1. In CustomersDot, find the subscription name on the [Cloud Activation](https://customers.gitlab.com/admin/cloud_activation) page. Ensure the activation code has not been used; if it has not been activated yet, there will be no "Self Managed Instance Activations" tab for this cloud activation.
+1. [Check the Mailgun logs](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases/#troubleshooting-email-delivery-from-customerdot) to verify that the license email was sent but failed to reach the intended customer. If the email with the typo does not exist, the Mailgun log entry will display a failed mail delivery attempt (commonly shown as a **550 error code**).
+1. Log the error by taking a screenshot of the error message and attach it to the ticket.
+1. Validate the correct email address with the Account Manager who submitted the request before correcting the typo.
+1. Update the Sold to contact email address on the Billing Account and the related Customers Portal account.
+1. Resend the license to the corrected email address.
+1. Advise the Account Manager to update the email for the Contact in SFDC for their records.
 
 ### Update Zuora Sold To contact using CustomersDot
 
