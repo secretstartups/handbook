@@ -13,7 +13,7 @@ weight: -20
 <!-- markdownlint-disable MD051 -->
 GitLab's six core values are
 [**🤝 Collaboration**](#collaboration),
-[**📈 Results for Customer**](#results),
+[**📈 Results for Customers**](#results),
 [**⏱️ Efficiency**](#efficiency),
 [**🌐 Diversity, Inclusion & Belonging**](#diversity-inclusion),
 [**👣 Iteration**](#iteration), and
