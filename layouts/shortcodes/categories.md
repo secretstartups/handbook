@@ -22,6 +22,8 @@
 
 {{ partial "categories/developer-count.html" $d }}
 
+{{- $d = merge $d (dict "group" true) }}
+{{- $d = merge $d (dict "display_name" .name) }}
 {{ partial "categories/section-heading.html" $d }}
 
 
