@@ -33,7 +33,7 @@ It's important to note that these results rely on a steady gratitude practice ov
 
 The Quarterly MVP (most valuable person) program recognizes Field team members who have excelled in a given quarter – not only in revenue-generating activities like closing big deals, but also in exhibiting great behaviors and setting a positive example for other team members.
 
-The program recognizes one MVP per CRO leader (7 total) and one "United Win" (cross-functional account team) each quarter.
+The program recognizes one MVP per region/team (6 total) and one "United Win" (cross-functional account team) each quarter.
 
 1. AMER MVP
 1. EMEA MVP
