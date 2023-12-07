@@ -69,7 +69,7 @@ Ensure you have met your department specific eligibility requirements:
 - If a team member moves to offer, the Hiring Manager will connect with the team member's current manager.
 - Hiring Manager will be provided the candidates compensation expectations from the Recruiter. It is up to the hiring manager to propose a compensation aligned with budget, candidate expectations, and internal pay equality.
 
-## Delivering feedback to rejected candidates
+### Delivering feedback to rejected candidates
 
 At any stage a team member needs to be declined, it is up to the Recruiter and Hiring Manager to connect to determine the best approach to ensure the appropriate [feedback]({{< ref "guidance-on-feedback" >}}) is given. It is important to deliver transparent and honest feedback to the candidate while remaining constructive and focusing on growth.
 
