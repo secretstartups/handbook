@@ -14,7 +14,9 @@ description: "Giltab's Tableau Developer guide"
 
 ## Embedding in the Handbook
 
-In order for views from workbooks to be embedded and viewable in the handbook, public or internal, the workbook and their data sources must be prepared in a specific way. To be embedded in the public handbook the workbook and relevant datasource must be copied from the [Internal GitLab Tableau](https://10az.online.tableau.com/#/site/gitlab) site to the [Public GitLab Tableau](https://us-west-2b.online.tableau.com/#/site/gitlabpublic) site. To facilitate correct viewing of embedded views and the migration of content to the public site, workbooks must be set up in a specific way and be in a specific location.  The sharing URL for views intended for embedding on the public site can be found on the [Handbook Embedding Demonstration](/handbook/business-technology/data-team/platform/tableau/embed-demo/) page.
+In order for views from workbooks to be embedded and viewable in the handbook, public or internal, the workbook and their data sources must be prepared in a specific way. To be embedded in the public handbook the workbook and relevant datasource must be copied from the [internal GitLab Tableau](https://10az.online.tableau.com/#/site/gitlab) site to the [public GitLab Tableau](https://us-west-2b.online.tableau.com/#/site/gitlabpublic) site. To facilitate correct viewing of embedded views and the synchronization of content to the public site, workbooks must be set up in a specific way and given a specific tag.  Views that are meant to be embedded on the internal site do not need to be in a specific project, but should still meet the set up guidelines.
+
+Instructions for how to embed a Tableau chart can be found on the [Handbook Embedding Demonstration](/handbook/business-technology/data-team/platform/tableau/embed-demo/) page.
 
 ### Workbook Set Up
 
@@ -22,10 +24,11 @@ For embedding in the handbook, views will embed better than dashboards will, so 
 
   - The view cannot be hidden
   - For embedding in the public handbook each datasource must connect to Snowflake with a Data Team Service Account username and password or use an extract
+  - For embedding in the public handbook each workbook must have the `Public` tag.
 
-### Workbook Location
+### Workbook Synchronization
 
-Each view that is meant to be embedded in the public handbook must be published in the `Public` project located within the respective Functional Team project.  This will ensure that the workbook, and their datasources are copied to the Public GitLab Tableau site.  Views that are meant to be embedded on the internal site do not need to be in a specific project, but should still meet the set up guidelines.
+Each workbook with views that are meant to be embedded in the public handbook must be tagged the `Public` tag. This will ensure that the workbook, and their datasources are copied to the public GitLab Tableau site.  Only Creators and Explorers who can access the workbook can tag the workbook, see the Tableau [documentation](https://help.tableau.com/current/pro/desktop/en-us/tags.htm#add-tags) for more information.  The individual tagging must understand if the data should be shared publicly and if there is any question please work with the BI team to check and apply the tag.  Removing this tag from a workbook will delete the workbook from the public GitLab Tableau site, this will cause handbook pages trying to load a view from that workbook to display an error. It should be noted that it can currently take up to 48 hours for the synchronized workbook to show up in the list of [view available for embedding](https://handbook.gitlab.com/handbook/business-technology/data-team/platform/tableau/embed-demo/#views-availble-for-public-embedding).
 
 
 ## Row Level Security
