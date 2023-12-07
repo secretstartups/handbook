@@ -26,7 +26,6 @@ Applying this model at scale means we can systematically explore rotation option
 
 Note that additional time and planning may be required with this model due to the increased collaboration. 
 
-
 ### How UX Researchers are assigned
 
 Each UX Researcher is assigned to multiple, related stage groups, so they can focus on a larger product area. They work closely with Product Managers and Product Designers to ensure research projects are focused and provide answers to design questions. You can find more information on these stage groups [here](/handbook/product/categories/#devops-stages).
