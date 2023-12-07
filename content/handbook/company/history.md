@@ -10,7 +10,7 @@ canonical_path: "/company/history/"
 
 Gartner® recognized GitLab as [a Leader in the 2023 Gartner® Magic Quadrant™ for DevOps Platforms](https://about.gitlab.com/blog/2023/06/07/gitlab-leader-gartner-magic-quadrant-devops-platforms/) – the first Magic Quadrant for the category – positioned highest on the Ability to Execute axis. We believe Gartner naming GitLab a Leader in the Magic Quadrant for DevOps Platforms is recognition of our success in both creating a comprehensive software development and delivery platform, and our role in helping mature the DevOps Platform category.
 
-Third Quarter Fiscal Year 2024, GitLab achieved non-GAAP operating profits for the first time. Brian Robins, GitLab chief financial officer, stated ["I am pleased to share that we had our first quarter of non-GAAP operating profit while continuing to invest in key product areas including security, compliance, AI, and Enterprise Agile Planning."](https://ir.gitlab.com/news-releases/news-release-details/gitlab-reports-third-quarter-fiscal-year-2024-financial-results).
+Third Quarter Fiscal Year 2024, GitLab achieved non-GAAP operating profits for the first time. Brian Robins, GitLab chief financial officer, stated ["I am pleased to share that we had our first quarter of non-GAAP operating profit while continuing to invest in key product areas including security, compliance, AI, and Enterprise Agile Planning."](https://ir.gitlab.com/news-releases/news-release-details/gitlab-reports-third-quarter-fiscal-year-2024-financial-results)
 
 ### *2021: 10 Years of GitLab*
 
