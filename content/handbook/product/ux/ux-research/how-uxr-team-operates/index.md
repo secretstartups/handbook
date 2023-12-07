@@ -10,7 +10,7 @@ The UX research team is comprised of [UX Research Operations Coordinators](/hand
 - UX Research Operations Coordinators own the participant recruitment process and all things related to research operations.
 - UX Researchers work within their assigned stage groups, where they conduct UX research on their own and consult on research efforts being done by their teams.
 
-### UX research working models
+### UX Researcher working models
 
 To maximize output and growth opportunities, we have established two working models that UX Researchers can choose to work within.
 
