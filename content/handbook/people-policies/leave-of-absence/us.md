@@ -255,7 +255,7 @@ At GitLab, requests for Paid Family Leave forms and forms submissions should be 
 
 **Disputes**
 
-If your Paid Family Leave claim is denied, the insurance carrier (NYLife) will provide you with information about how to request arbitration. A neutral arbitrator will decide claim-related disputes. 
+If your Paid Family Leave claim is denied, the insurance carrier (NYLife) will provide you with information about how to request arbitration. A neutral arbitrator will decide claim-related disputes.
 
 **Discrimination Complaints**
 
