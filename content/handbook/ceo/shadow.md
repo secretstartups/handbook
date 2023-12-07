@@ -100,7 +100,7 @@ If you have questions about your individual case, please contact the EBA to the 
 1. Create a merge request to add yourself to the [rotation schedule](#rotation-schedule), assigning yourself.
 1. Add your manager as a reviewer and ask them to approve (**but not to merge**) the merge request.
 1. Once your manager approves the merge request, add the [Executive Business Admin (EBA) to CEO]({{< ref eba >}}) as a reviewer.
-1. Post in the `#ceo-shadow` channel with a link to the merge request, and `@mention` the EBA in the message.
+1. Post in the `#ceo-shadow` channel with a link to the merge request, and `@mention` the Staff EBA in the message.
 
 Please keep in mind when selecting dates that the CEO's schedule is fluid and subject to constant change, which also means that the CEO Shadow rotation is subject to constant change. The posted dates are not guaranteed. We will work with you to reschedule your rotation if a conflict arises.
 
@@ -137,10 +137,10 @@ For those with regular commitments, look for shorter weeks or timezone variation
 | 2024-02-12 | 2024-02-14 | [Miracle Banks](https://gitlab.com/deepika.guliani) - Full Stack Engineer | [Deepika Guliani](https://gitlab.com/deepika.guliani) | REMOTE - PT, MON - WED |
 | 2024-02-20 | 2024-02-23 | [Emma Neuberger](https://gitlab.com/eneuberger) - Sr Product Analyst | [Miracle Banks](https://gitlab.com/deepika.guliani) - Full Stack Engineer | REMOTE - PT, TUES - FRI |
 | 2024-02-26 | 2024-03-01 | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Senior Product Manager, Deploy:Environments | [Emma Neuberger](https://gitlab.com/eneuberger) - Sr Product Analyst | REMOTE - PT |
-| 2024-03-04 | 2024-03-08 | [Aleesha Dawson](https://gitlab.com/adawson-gitlab) - Senior Customer Success Manager | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Senior Product Manager, Deploy:Environments | REMOTE - PT |
+| 2024-03-04 | 2024-03-08 |  [Aleesha Dawson](https://gitlab.com/adawson-gitlab) - Senior Customer Success Manager | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Senior Product Manager, Deploy:Environments | REMOTE - PT |
 | 2024-03-11 | 2023-03-15 | NO SHADOW | NO SHADOW | SUMMIT - PT |
-| 2024-03-18 | 2024-03-22 |[Reshmi Krishna](https://gitlab.com/reshmikrishna) - Director, Enterprise Solutions Architecture | [Aleesha Dawson](https://gitlab.com/adawson-gitlab) - Senior Customer Success Manager | REMOTE - PT |
-| 2024-03-25 | 2024-03-29 | AVAILABLE - VP-Directs Only  | AVAILABLE - VP-Directs Only | Bay Area, CA |
+| 2024-03-18 | 2024-03-22 | [Reshmi Krishna](https://gitlab.com/reshmikrishna) - Director, Enterprise Solutions Architecture |  [Aleesha Dawson](https://gitlab.com/adawson-gitlab) - Senior Customer Success Manager | REMOTE - PT |
+| 2024-03-25 | 2024-03-29 | [Bartek Marnane](https://gitlab.com/bmarnane) - VP, Incubation Engineering | [Bartek Marnane](https://gitlab.com/bmarnane) - VP, Incubation Engineering |
 | 2024-04-01 | 2024-04-05 | [Jeremy Wagner](https://gitlab.com/jeremywagner) - Sr Solutions Architect | [Reshmi Krishna](https://gitlab.com/reshmikrishna) - Director, Enterprise Solutions Architecture | REMOTE - PT |
 | 2024-04-08 | 2024-04-12 | [Karen Kwentus](https://gitlab.com/kkwentus1) - Sr Solutions Architect | [Jeremy Wagner](https://gitlab.com/jeremywagner) - Sr Solutions Architect | REMOTE - PT |
 | 2024-04-15 | 2024-04-19 | [Djordje Micovic](https://gitlab.com/dmicovic) - Sr Data Analyst, Marketing Analytics - REMOTE | [Karen Kwentus](https://gitlab.com/kkwentus1) - Sr Solutions Architect | REMOTE - PT |
