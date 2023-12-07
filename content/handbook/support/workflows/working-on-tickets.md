@@ -204,20 +204,15 @@ needs, and that might save you and the customer time and effort as well.
        ['Reminder'](/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app)
        apps.
 
-## Handing over tickets and customer calls between regions
+## Cross Region handover of tickets and customer calls
 
-Handover requests can be done via scheduled manual message to your group's Slack channel, or requested through the use of the Handover form available in each group's Slack channel. Both methods are outlined below.
+Cross Region Handover requests are async by nature, which can make it difficult to find a new assignee. To solve this, we have a form set up in the SGG Slack channels. The form also pings (@ mentions) the manager on-call in the destination region, as the DRI. Their responsibility is to [ensure the ticket gets assigned](https://handbook.gitlab.com/handbook/support/workflows/support_manager-on-call/#expectations-for-support-manager-on-call) the same day in the destination region, in case the group misses it. This ensures we can properly serve our customers.
 
-### Manual request
+In-region handover requests: These can be done synchronous, so it is not necessary to ping the on-call manager pr default.
 
-1. Ensure that you add a final comprehensive `internal note` that encompasses your insights on the prior steps taken as well as any recommendations for future actions.
-1. Ask in your group's Slack channel for one of the SEs in the target region to assign the ticket to themself, to notify the customer of the transfer and to continue the ticket work where you left off.
-1. Visibility: Make sure to use the regional group handle (`@spt-[SGG]-[region]`) so the request is visible for the right group members.
-1. CC (@ mention) the [Support Manager on-call](/handbook/support/on-call/#seeing-which-manager-is-on-call) in the region you want to reach, so they can help ensure the ticket gets assigned.
-1. Bonus info: You can also use the Slack ["schedule message"](https://slack.com/help/articles/201457107-Send-and-read-messages#send-or-schedule-messages) feature, to ensure the message pops up within working hours of the intended region.
+### Using the Cross Region Handover Form
 
-### Using the Handover Form
-
+1. Ensure that you add a final comprehensive `internal note` in the ticket, which encompasses your insights on the prior steps taken as well as any recommendations for future actions.
 1. Select a handover form from the `Handovers` folder that is bookmarked at the top of your group's channel. Choose the form (such as `Handover to EMEA`) based on the target region to which you need to handover the ticket.
 1. Fill out all fields (using as much detail as possible for the paragraph fields), then click `Submit`.
 1. A message will post to your group's Slack channel, which will ping the regional group handle as well as CC the on-call manager.
