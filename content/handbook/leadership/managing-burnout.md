@@ -33,7 +33,7 @@ Here are some  team member considerations inspired by GitLab’s culture, values
 - **Common Pitfall:**  “*Taking time away resolves any issues related to burnout.*” While taking time away is a great way to set boundaries and strike a healthy balance between work and personal time; it’s not a catch-all solution. Time away should be supported and modeled by leaders, but leaders also need to recognize that addressing a team member’s potential burnout can come from a variety of approaches. This might include coaching on time management, additional targeted feedback, more effective delegation, or goal clarification. Note: Time Away is CRUCIAL to wellbeing and quality work. This is part of GitLab’s culture around work beyond combating burnout.
 - **Sense of “urgency”:**  Some team members may read this excerpt from GitLab Values…
     > “*At an exponentially-scaling startup, time gained or lost has compounding effects. Try to get the results as fast as possible, but without compromising our other values and ways we communicate, so the compounding of results can begin and we can focus on the next improvement.*”
-     
+
      ...and only hear the “urgency” without recognizing the emphasis GitLab puts on effectively managing work, agency, and family + friends first.
 - **Ask around:** Managers may hear about burnout and workload issues directly from team members, but there may be a need to *appropriately* source information from cross-functional partners or People Business partners to help understand how team members are feeling around workload.
 
