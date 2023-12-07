@@ -304,6 +304,21 @@ If you are eligible to for GitLab's parental leave, your payments will be made u
 
 Please submit the dates of your leave in Time Off by Deel by selecting the `Parental Leave` option.  The Absence Management team will contact you with more information.  Once you send your parental leave notification in Time Off by Deel, the Absence Management team will notify Remote. Remote will then get in touch with you to explain the UIF payment claim process.
 
+### Expenses
+
+**Important note:**
+
+Please read carefully the additional requirements outlined in Remote's taxation of [expenses article](https://support.remote.com/hc/en-us/articles/21097725062285-Taxation-of-expenses-in-South-Africa) accessible by logging into the Remote platform.
+
+Team members located in South Africa must submit all expenses via Navan (GitLab's expense tool). Additionally, Remote is committed to ensuring team member's tax compliance and may require additional details for specific Navan-approved expenses to process through the payroll in accordance with local tax regulations.
+
+**Example:**
+
+A team member has an approved expense on Navan for incidental costs like meals and parking related to a business event.
+Remote will require the team member to complete an additional spreadsheet containing details of the business trip (local or abroad) and submit this spreadsheet through the Remote portal. Please refer to this [guide](https://support.remote.com/hc/en-us/articles/4411238221965-Add-an-expense) for more detailed instructions on submitting expenses.
+
+If you experience any issues, please contact Remote via email: help@remote.com. **No other expenses need to be submitted via the Remote portal, only Navan should be used.**
+
 ## Spain
 
 All of the benefits listed below are administered and managed by [Remote](https://remote.com/). Queries can be directed to help@remote.com.
