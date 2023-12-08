@@ -26,6 +26,12 @@ Applying this model at scale means we can systematically explore rotation option
 
 Note that additional time and planning may be required with this model due to the increased collaboration. 
 
+#### UX Researcher pairing
+
+UX Researchers, no matter which working model they adopt, can participate in [UX Resaercher pairing](/handbook/product/ux/ux-research/ux-researcher-pairings/), where they pair up with another UX Researcher so they can provide and receive feedback from each other. This is an opt-in offering and the UX Researchers can self organise. 
+
+UX Research pairings gives UX Researchers a consistent partner to share ideas with on research approaches, addressing challenges, reviewing test plans and reports, and gaining experience in delivering feedback. It also gives UX Researchers exposure to product areas outside of their own.
+
 ### How UX Researchers are assigned
 
 Each UX Researcher is assigned to multiple, related stage groups, so they can focus on a larger product area. They work closely with Product Managers and Product Designers to ensure research projects are focused and provide answers to design questions. You can find more information on these stage groups [here](/handbook/product/categories/#devops-stages).
