@@ -51,6 +51,7 @@ The assigned UX Researchers are the go-to person for their assigned [stage group
 [Danika Teverovsky]: https://gitlab.com/dteverovsky
 [Anne Lasch]: https://gitlab.com/alasch
 [Karen Li]: https://gitlab.com/karenyli
+[Will Leidheiser]: https://gitlab.com/wleidheiser
 
 ## How UX Researchers work
 
