@@ -8,7 +8,7 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents]({
 
 ## Purpose
 
-This document defines asset management measures and guidelines to support the protection of information assets in GitLab's all remote organizational environment. The measures and guidelines noted within the standard are designed to create a secure infrastructure, work environment, and protect sensitive information from physical threats.
+This document defines asset management measures and requirements to support the protection of information assets in GitLab's all remote organizational environment. The measures and requirements noted within the standard are designed to create a secure infrastructure, work environment, and protect sensitive information from physical threats.
 
 
 ## Scope
