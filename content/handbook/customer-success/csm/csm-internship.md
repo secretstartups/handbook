@@ -1,6 +1,6 @@
 ---
 
-title: "CSM Development"
+title: "CSM Internship Program"
 
 ---
 
