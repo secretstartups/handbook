@@ -16,7 +16,7 @@ The following page may contain information related to upcoming products, feature
 
 ## CI Catalog - Weekly Project Plan
 
-CI Catalog Beta Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11674](https://gitlab.com/groups/gitlab-org/-/epics/11674)
+CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https://gitlab.com/groups/gitlab-org/-/epics/12153)
 
 ### Important Upcoming Tentative Dates
 <%= partial("handbook/engineering/development/ops/project-plans/ci-catalog/project_dates.erb") %>
@@ -29,51 +29,39 @@ CI Catalog Beta Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11674](https
 
 [CI Catalog - Pages & Navigation](https://gitlab.com/groups/gitlab-org/-/epics/11841)
 
-- 92% complete, On Track, ETA: 16.7
-- Status:  As of 2023-12-01, remaining FFs for creating metadata and components tab are in-progress and on track for `16.7`.
-- Risks/Blockers: None at this time.
-
-[CI Catalog - Search & Filter](https://gitlab.com/groups/gitlab-org/-/epics/10918)
-
-- 100% complete, Complete, Delivered in `16.7`
-- Status:  All Beta work is in production.
-- Risks/Blockers: Beta work complete.
-
-[CI Catalog - Release Process refinements](https://gitlab.com/groups/gitlab-org/-/epics/11842)
-
-- 100% complete, Complete, Delivered in `16.7`
-- Status:  On 2023-12-01, the toggle back and forth is complete is now in production to complete all Beta work.
-- Risks/Blockers: Beta work complete.
+- 100% complete, Complete, Delivered in 16.7
+- Status:  As of 2023-12-08, last [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/135403) is merged to make Catalog available in `explore` navigation permanently.
 
 [Create reusable components for the CI Catalog](https://gitlab.com/groups/gitlab-org/-/epics/12066)
 
-- 40% complete, Needs Attention, ETA: `16.7`
+- 50% complete, Needs Attention, ETA: `16.7`/early `16.8`
 - Status:
   - Progress % is based on the [Components scope for the Beta release of CI Catalog](https://gitlab.com/groups/gitlab-org/-/epics/12066#note_1666060424)
 - Work in Progress:
   - [Migrate GitLab-maintained templates to components](https://gitlab.com/gitlab-org/gitlab/-/issues/432540)
-    - PA has started to self-assign from [list](https://gitlab.com/gitlab-org/gitlab/-/issues/432540#list) to convert popular templates to components.
+    - As of 2023-12-08, PA has been self-assigning from [list](https://gitlab.com/gitlab-org/gitlab/-/issues/432540#list) to convert popular templates to components.
   - [Creation of component helpers for future contributions to CI Components](https://gitlab.com/gitlab-org/gitlab/-/issues/430818)
   - [Determine the list of GitLab-maintained components](https://gitlab.com/gitlab-org/gitlab/-/issues/432298)
+    - As of 2023-12-08, [initial list](https://gitlab.com/gitlab-org/gitlab/-/issues/432540#list) has been confirmed.
   - Alignment on what is needed for [Beta of the Global Catalog](https://gitlab.com/groups/gitlab-org/-/epics/12066#note_1666060424).
     The team agrees that the following will be tackled post-Beta (though discussions are already underway):
     - [How to maintain/review contributions and manage group ownership of GitLab maintained components](https://gitlab.com/gitlab-org/gitlab/-/issues/432768)
     - [How to designate GitLab “verified” / “official” components](https://gitlab.com/gitlab-org/gitlab/-/issues/432535)
-  - Confirm [when the Hackathon/Competition is happening](https://gitlab.com/gitlab-org/gitlab/-/issues/432281#note_1666053353) 
-    where community contributors can contribute CI components.
-    - As of 2023-12-01, given timing, we will focus our efforts towards prepping for the competition next month.
+  - [Determine](https://gitlab.com/gitlab-org/gitlab/-/issues/432281#goals) which team members will be reviewing the MRs for newly added components.
+    - As of 2023-12-08, collaboration has [begun](https://gitlab.com/gitlab-org/gitlab/-/issues/432540#note_1678603735 ) with internal teams for popular GitLab-maintained templates for review and testing.
 - Risks/Blockers: 
-  - Awaiting [support from IT](https://gitlab.com/gitlab-org/gitlab/-/issues/411872) to help us set up the new location - `gitlab.com/components`
-    - As of 2023-12-01, support [noted](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/25747#note_1674497990) that it seems that the project can be reclaimed here.
+  - Due to our name squatting [policy](https://about.gitlab.com/support/gitlab-com-policies/#name-squatting-policy), claiming `gitlab.com/components` will take place no sooner than 2023-12-22.
+    - As of 2023-12-08, this [process](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/22115) to claim `components` has started with support.
+    - Due to timing of Beta launch, this [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/139254) has been created to support `include` redirects from `gitlab.com/gitlab-components` to `gitlab.com/components`.  This redirect will be deprecated in a few months once most users are referencing `gitlab.com/components`.
 
 ### Milestone 16.8 (December 16, 2023 - January 12, 2024) 
 
 #### Goals:
-- Post-Beta instrumentation implementation 
 - Enforcing use of semantic versioning for catalog resources in [https://gitlab.com/gitlab-org/gitlab/-/issues/427286](https://gitlab.com/gitlab-org/gitlab/-/issues/427286).
-- Prioritized bug work from feedback from users.
-- Rework the release workflow with using a button and checkbox for marking project as catalog resource
-- Incorporate use of release REST API to publish components by release in [https://gitlab.com/gitlab-org/gitlab/-/issues/428142](https://gitlab.com/gitlab-org/gitlab/-/issues/428142)
+- Prioritized critical bug work from Beta feedback from users.
+- Wrap up populate template -> component migration for GitLab-maintained components to begin dogfooding.
+- Incorporate badging in Catalog to denote GitLab-maintained components and partner-certified as well.
+- Post-Beta instrumentation implementation 
 
 ### Milestone 16.9 (January 13, 2024 - February 9, 2024)
 
