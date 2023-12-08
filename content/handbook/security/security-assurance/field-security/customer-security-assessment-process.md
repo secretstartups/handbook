@@ -19,7 +19,7 @@ It's no surprise that GitLab Customers and Prospects conduct Security due dilige
 
 ### **GitLab Team Members**
 
-We will start all CAA requests (with the exception of Contract Reviews) by sharing the Trust Center to the customer. The Trust Center will answer many of the customers questions and will enable us to provide the customer with a more efficient and comprehensive experience. Please select the appropriate box for your request below, it will direct you to an issue template on our board.
+We will start all CAA requests (with the exception of Contract Reviews) by sharing the Trust Center with the customer. The Trust Center will answer many of the customers questions and will enable us to provide the customer with a more efficient and comprehensive experience. Please select the appropriate box for your request below, it will direct you to an issue template on our board.
 Please be sure to complete **all** of the requested information in the template, and please reach out to us in #sec-fieldsecurity with any questions.
 
 **Please do not assign the issue. Field Security will assign the issue to the appropriate team member. Thank you!**
