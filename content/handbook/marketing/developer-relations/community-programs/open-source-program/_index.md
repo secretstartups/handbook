@@ -386,6 +386,7 @@ This dashboard pulls data from Salesforce. GitLab team members with access to Sa
 We also track (and, when necessary, participate in) Hacker News discussions related to both our open source programs and partners.
 Examples include:
 
+- 2023-12-08: [Arch Linux bugtracker migration to Gitlab completed](https://news.ycombinator.com/item?id=38568076)
 - 2022-06-14: [Gitlab Now the Main Development Platform for Wine](https://news.ycombinator.com/item?id=31737807)
 - 2020-10-28: [Wikimedia is moving to Gitlab](https://news.ycombinator.com/item?id=24919569)
 - 2020-06-29: [The KDE community is moving to GitLab](https://news.ycombinator.com/item?id=23679360)
