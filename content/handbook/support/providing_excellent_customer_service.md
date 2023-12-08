@@ -102,7 +102,7 @@ Please see option 3 in [Requesting Support for Customers](/handbook/support/inte
 
 ## Removing Information From Tickets
 
-We ask users to send us logs and other files that are crucial in helping us solve the problems they are experiencing. If a user requests deletion of information shared in a support ticket, or if we suspect sensitive information was accidentally shared, the information can be deleted using the [`Ticket Redaction`](https://www.zendesk.com/apps/support/ticket-redaction/) app. Redaction is not reversible.
+We ask users to send us logs and other files that are crucial in helping us solve the problems they are experiencing. If a user requests deletion of information shared in a support ticket, or if we suspect sensitive information was accidentally shared, the information can be deleted using a Zendesk feature. Redaction is not reversible.
 
 To delete text or attachments from a ticket:
 
