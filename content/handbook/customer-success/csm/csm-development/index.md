@@ -1,7 +1,7 @@
 ---
 
-title: "CSM Internship"
-description: "GitLab team members outside of CSM can engage in an internship with the CSM team"
+title: "CSM Development"
+description: "Available development paths and resources for Customer Success Managers at GitLab."
 ---
 
 
