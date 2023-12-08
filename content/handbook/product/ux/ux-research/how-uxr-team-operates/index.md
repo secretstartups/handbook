@@ -36,7 +36,7 @@ The assigned UX Researchers are the go-to person for their assigned [stage group
 |---------|-------------------------------|
 | **Enablement**: Distribution, Geo, Application Performance, Global Search, Tenant Scale <br>**SaaS Platforms**: GitLab Dedicated, US Public Sector Services, Delivery, Scalability <br>**CD**: Deploy <br>**Service Management**: Respond <br>**Analytics**: Observability | [Will Leidheiser] |
 | **Fulfillment**: Purchase, Utilization, Fulfillment Platform, Billing & Subscription Management, Provision | [Nicholas Hertz] <br> [Anne Lasch] |
-| **Analytics**: Product Intelligence, Product Analytics <br>**ModelOps**: AI Assisted, AI Framework| [Nicholas Hertz] |
+| **Analytics**: Product Intelligence, Product Analytics <br>**ModelOps**: AI Assisted, AI Framework| [Nicholas Hertz] <br> [Anne Lasch] |
 | **Manage**: Import, Foundations | [Karen Li] (interim cover)|
 | **Plan**: Project Management, Product Planning, Optimize, Knowledge | [Danika Teverovsky]|
 | **Secure**: Static Analysis, Dynamic Analysis, Composition Analysis, Vulnerability Research <br> **Govern**: Security Policies, Threat Insights, Compliance, Authentication | [Michael Oliver] |
