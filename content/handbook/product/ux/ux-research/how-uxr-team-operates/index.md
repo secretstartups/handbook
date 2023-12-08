@@ -34,7 +34,7 @@ The assigned UX Researchers are the go-to person for their assigned [stage group
 
 | Section: Stage Groups | Assigned UX Researchers |
 |---------|-------------------------------|
-| **Enablement**: Distribution, Geo, Application Performance, Global Search, Tenant Scale <br>**SaaS Platforms**: GitLab Dedicated, US Public Sector Services, Delivery, Scalability <br>**CD**: Deploy <br>**Service Management**: Respond <br>**Analytics**: Observability | [Will Leidheiser] |
+| **Core Platform**: Distribution, Geo, Cloud Connector, Global Search, Tenant Scale <br>**SaaS Platforms**: GitLab Dedicated <br>**CD**: Environments  <br>**Analytics**: Observability | [Will Leidheiser] |
 | **Fulfillment**: Purchase, Utilization, Fulfillment Platform, Billing & Subscription Management, Provision | [Nicholas Hertz] <br> [Anne Lasch] |
 | **Analytics**: Product Intelligence, Product Analytics <br>**ModelOps**: AI Assisted, AI Framework| [Nicholas Hertz] <br> [Anne Lasch] |
 | **Manage**: Import, Foundations | [Karen Li] (interim cover)|
