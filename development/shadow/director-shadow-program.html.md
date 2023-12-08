@@ -155,11 +155,9 @@ No, not at this time.
 
 | Week of | Shadow(s) | Role | 
 | ------ | ------ | ----- |
-| December 4 |  [Marc-Aurele Brothier](https://www.linkedin.com/in/marcaurele) | Non-GitLab shadow - Senior Engineering Manager at [Pix4D](https://www.pix4d.com/) |
-| December 11|  [Jeremy Henage](https://www.linkedin.com/in/jeremy-henage/) | Head of SaaS Program @ Digital Manufacturing at Siemens |
-| December 18|  Available | |
+| December 18| Not Available | |
 | December 25|  Not Available | |
-| January 1, 2024 | Available | | 
+| January 1, 2024 | Not Available | | 
 | January 8 |  [Sameera Perera](https://www.linkedin.com/in/perera-sameera) | Non-GitLab Shadow - Director of R&D @ Celigo |
 | January 15 | Available | |
 | January 22 | Available | |
@@ -203,4 +201,6 @@ No, not at this time.
 | [Davis Bickford](https://www.gitlab.com/dbickford) | Backend Engineer - [Runner Saas](https://about.gitlab.com/direction/verify/runner_saas/) |
 | [Jamie Strachan](https://www.linkedin.com/in/jamiestrachan/)     |  Non-Gitlab engineering manager      |
 | [Zivago Lee](https://www.linkedin.com/in/zivagolee/) | Non-GitLab shadow - Director of Engineering at [Spin](https://www.spin.app/) |
+|  [Marc-Aurele Brothier](https://www.linkedin.com/in/marcaurele) | Non-GitLab shadow - Senior Engineering Manager at [Pix4D](https://www.pix4d.com/) |
+
 
