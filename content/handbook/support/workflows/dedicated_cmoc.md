@@ -58,5 +58,4 @@ You can ping the Support Manager oncall in slack with `@support-manager-oncall`.
 
 ## Handover
 
-Follow the [End of Shift Handover Procedure](/handbook/support/workflows/cmoc_workflows/#end-of-shift-handover-procedure) from the CMOC workflows. Make the ingress GDCMOC aware of any issues, slack threads or tickets they should CC themselves on.
-
+Follow the [End of Shift Handover Procedure](/handbook/support/workflows/cmoc_workflows/#end-of-shift-handover-procedure) from the CMOC workflows. Make the ingress GDCMOC aware of any issues, slack threads or tickets they should CC themselves on. Assign the Zendesk ticket used for communication to the the next CMOC.
