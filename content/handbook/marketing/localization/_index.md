@@ -16,9 +16,17 @@ This page contains guidelines for localization at GitLab. This page is currently
 
 GitLab is a global company that does business around the world. In order to best serve our global customers, we localize some of our content and campaigns into non-English languages.
 
+The team is also building technical capabilities and vendor partnerships, to:
+- Continue and augment the ongoing translation of GitLab product user interface text, using [Crowdin](https://handbook.gitlab.com/handbook/business-technology/tech-stack/#crowdincom) 
+- Develop, own and maintain integrations and automations between TMS (translation management systems) and GitLab internal systems, GitLab projects, CMSes such as Contentful, MarTech tools such as Marketo, etc.
+- Develop integrations to support continuous and automated localization of technical documentation that meets the requirements of the Docs as Code methodology.
+- Build solutions for [context-enhanced translation, copywriting and linguistic review](https://gitlab.com/groups/gitlab-com/localization/-/epics/8) of GitLab product and website surfaces.
+- Scale the integration to support transcreation for top level website pages and blogs.
+- Integrate AI-powered translation capabilities and solutions, leveraging LLMs, into existing systems and pipelines, to enhance human translation workflows. 
+
 ## Current State
 
-Our current localization capablities are limited due to resources and bandwidth. Currently, we are focused on translating content that aligns to our Tier 1 and some Tier 2 countries. The Integrated Marketing team typically drives which translations are required, based on current campaigns and regional need. We are currently building a next generation technology platoform for localization, with a bias for speed and automation. As we transition from our old platform, some steps for fulfilling localization requests are manual but will not remain as such. We are working with a new suppliuer, Translated (#translated-team), for translation. You may reach out to the Translated team directly in Slack, but would prefer that you submit requests in our tracker located [here](https://gitlab.com/gitlab-com/localization/issue-tracker/-/issues/new?issuable_template=localization-request).
+Our current localization capablities are limited due to resources and bandwidth. Currently, we are focused on translating content that aligns to our Tier 1 and some Tier 2 countries. The Integrated Marketing team typically drives which translations are required, based on current campaigns and regional need. We are currently building a next generation technology platoform for localization, with a bias for speed and automation. As we transition from our old platform, some steps for fulfilling localization requests are manual but will not remain as such. We are working with a new supplier, Translated (#translated-team), for translation. You may reach out to the Translated team directly in Slack, but would prefer that you submit requests in our tracker located [here](https://gitlab.com/gitlab-com/localization/issue-tracker/-/issues/new?issuable_template=localization-request).
 
 ### Internal Reviews
 
@@ -34,17 +42,21 @@ Annually we prioritize countries that we believe offer the most opportunity for 
 
 | Vendor | Capabilities | How to Access |
 | ------ | ------------ | ------ | 
-| [Translated](https://gitlab.slack.com/archives/C0576F7T3L2) | Localization platform | v2 currently in development 
+| [Translated](https://gitlab.slack.com/archives/C0576F7T3L2) | Translation service provider 
+| [Crowdin](https://gitlab.enterprise.slack.com/archives/CBJAG3VHB) | Translation management system (TMS) for translation of product UI text: [translate.gitlab.com](https://docs.gitlab.com/ee/development/i18n/translation.html)
+| [Spartan](https://gitlab.enterprise.slack.com/archives/C055FPHP287) | Suite of integrations between GitLab, MarTech, TMS, etc., for continuous localization of content  
+
+
 
 ### Localization Slack channels
 
 We use Slack internally as a communication tool. The Localization channels are as follows:
 
-- `#localization`: General localization channel.
+- `#localization`: Central channel for translation and localization requests, and discusisons and collabodration with the Globalization & Localization team.
 - `#translated-team`: For communication with our langauge services provider, Translated.
 - `#spartan-software`: For communication with our technology partner, Spartan.
 - `#oban-international`: For communication with our copywriting and digital marketing agency, Oban International.
-- `#crowdin_gitlab`: For communication with our technology provider specifically for product string localization, CrowdIn.
+- `#crowdin_gitlab`: For communication with our technology provider specifically for product string localization, Crowdin.
 
 ### Translating content for campaigns
 
