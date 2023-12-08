@@ -238,6 +238,37 @@ The Senior Analyst, People Analytics is a [grade 7](/handbook/total-rewards/comp
 - Solid experience with regression analysis and other statistical modeling techniques
 - Experience with Workday and Greenhouse preferred
 
+#### Staff Analyst, People Analytics
+
+The Staff Analyst, People Analytics role extends the Senior Analyst role expectations and reports into the Senior Manager, People Analytics.
+
+##### Job Grade
+
+The Staff Analyst, People Analytics role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+##### Expectations
+
+- Mentor less experienced Analysts to enable them add more value sooner
+- Be a thought partner to other members of the team, including delivering feedback on
+analysis
+- Advocate for the team's work to meet internal standards for code style, quality,
+maintainability, and best practices
+- Proactively and independently identify areas of opportunity for analysis
+- Regularly contribute to the People Analytics handbook pages, elevating data literacy
+and enabling responsible use of data across GitLab
+- Act as a trusted voice of people data and insights in meetings and presentations
+
+##### Requirements
+
+Staff Analysts are expected to meet the [Senior Product Analyst requirements](#senior-pa-requirements),
+with the experience requirements adjusted to:
+
+- 6+ years of data analysis experience, leveraging descriptive and predictive data techniques
+- 4+ years of experience supporting product teams
+- 2+ years of experience conducting independent exploratory analysis
+- 2+ years of mentoring other teammates or analysts
+- Experience leading large, strategic initiatives
+
 ### Manager, People Analytics
 
 The Manager, People Analytics reports into the Senior Manager, People Analytics.
