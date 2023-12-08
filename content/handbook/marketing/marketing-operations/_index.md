@@ -511,10 +511,12 @@ If you are interested in or would like to request a new tool be added to the tec
 The process for requesting a new tool is:
 1. [Tool Eval issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=tools_eval) is submited
 1. A Marketing Operations member is assigned to review the request. This person scores the requested tool in order to determine its tier. The business and technical owners of the tool are identified.  
-1. Once the request has been reviewed, the Marketing Operations manager will:
+1. For tier 1 and 2 tools, once the request has been reviewed, the Marketing Operations manager will:
    - Create a new evaluation Epic, capturing relevant details from the intake issue.
    - Assign the new Epic to the business and technical owners 
    - Update the intake issue description with a link to the new Epic.
+1. Tier 3 tools will be handled on a case-by-case basis. If the tool requires extensive evaluation and Marketing Operations support, the above process will apply. 
+1. The business owner is the DRI for tier 4 tool evaluations and implementations. 
 
 Once the evaluation Epic is created, the following evaluation steps should be followed: 
 1. Discovery - understand the request/problem we're trying to solve
