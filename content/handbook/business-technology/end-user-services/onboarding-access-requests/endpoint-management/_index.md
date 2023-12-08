@@ -88,7 +88,7 @@ DriveStrike is a lightweight device management solution for Linux that can remot
 
 #### Google Chrome Enterprise Browser Management
 
-Google Chrome Enterprise Browser Management is an web browser management solution used by system administrators to configure and automate IT administration tasks for secure web browsing. For more detail, please review the [Google Chrome Enterprise Management page](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/Google-Chrome-Enterprise-Management/).
+Google Chrome Enterprise Browser Management is an web browser management solution used by system administrators to configure and automate IT administration tasks for secure web browsing in Google Chrome. For more detail, please review the [Google Chrome Enterprise Management page](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/Google-Chrome-Enterprise-Management/).
 
 ## Exceptions
 
