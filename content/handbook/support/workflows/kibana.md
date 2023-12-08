@@ -365,6 +365,6 @@ In case you have the namespace details, get the **Namespace ID** then go to `htt
 
 When looking at the `pubsub-rails-inf-gprd-*` index, you can determine if a user has recently cloned, pushed, or downloaded a repository. You can filter by `json.username`, `json.path` (the repository), and `json.action` to find specific events:
 
-- `action: git_upload_pack` is when someone performs a clone of a repository.
-- `action: git_receive_pack` is when someone push's a repository.
-- `action: archive` is when someone downloads a repository via the `Download source code` button in the UI.
+- [`action: git_upload_pack`](https://log.gprd.gitlab.net/app/r/s/dLqA1) is when someone performs a clone of a repository.
+- [`action: git_receive_pack`](https://log.gprd.gitlab.net/app/r/s/lRA1L) is when someone push's a repository.
+- [`action: archive`](https://log.gprd.gitlab.net/app/r/s/Lxx9w) is when someone downloads a repository via the `Download source code` button in the UI.
