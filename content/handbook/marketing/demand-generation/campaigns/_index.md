@@ -150,6 +150,10 @@ In between bi-weekly Campaigns Team Connect calls:
    - Begin with `DISCUSS: <brief description>` (i.e. `DISCUSS: Marketing tool champions`)
    - Include link to MR (preferred) or issue
 
+## Out of office team coverage
+
+Whenever team members are out of the office, they can reach out to their counterpart to provide coverage. Once their counterpart have agreed to provide coverage, the team member will create [an ooo coverage issue]() outlining the coverage needed and share that with the counterpart. They will also assign the team member providing cover in PTO by roots.
+
 ### Half-yearly Field Marketing & Campaigns Planning Workshop
 
 Every 6 months, Regional campaigns managers will conduct a joint planning workshop with their Sr Manager/Manager, Field marketing counterparts (below): 
