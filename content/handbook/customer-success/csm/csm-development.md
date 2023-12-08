@@ -42,7 +42,7 @@ The content is divided into three key categories of competencies. [LevelUp](http
 
 #### CSM Intership
 
-- [CSM Internship for learning](/handbook/customer-success/csm/csm-development/csm-internship/)
+- [CSM Internship for learning](/handbook/customer-success/csm/csm-internship/)
 
 #### Customer Success Management
 
