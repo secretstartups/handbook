@@ -102,21 +102,23 @@ Please see option 3 in [Requesting Support for Customers](/handbook/support/inte
 
 ## Removing Information From Tickets
 
-We ask users to send us logs and other files that are crucial in helping us solve the problems they are experiencing. If a user requests deletion of information shared in a support ticket, or if we suspect sensitive information was accidentally shared, the information can be deleted using the [`Ticket Redaction`](https://www.zendesk.com/apps/support/ticket-redaction/) app.
+We ask users to send us logs and other files that are crucial in helping us solve the problems they are experiencing. If a user requests deletion of information shared in a support ticket, or if we suspect sensitive information was accidentally shared, the information can be deleted using a Zendesk feature. Redaction is not reversible.
 
 To delete text or attachments from a ticket:
 
-1. Go to the ticket in question and on the right hand nav bar, scroll down until you are able to locate the Ticket Redaction app.
-1. In the text box, enter a string of text or source image URL you wish to redact.
-1. If you wish to remove an attachment, you can click on the `Redact Attachment` button and choose the attachment you would like to remove.
+1. Follow the steps in Zendesk [documentation](https://support.zendesk.com/hc/en-us/articles/4408846470170-Redacting-ticket-content#ariaid-title4).
 1. Let the user know what actions you have taken and why. Request the user to rotate any secrets that may have been shared.
 
-If you don't see the Ticket Redaction App in the sidebar, it is likely that you are not assigned to one of the authorized roles (you can check your role in Zendesk profile). In this case, please reach out to `@support_operations` or `@support-managers` in Slack to request deletion. Zendesk roles that have access to Ticket Redaction App:
+If you don't see the option to redact, it is likely that you are not assigned to one of the authorized roles (you can check your role in Zendesk profile). In this case, please reach out to `#support_operations` or `#spt_managers` in Slack to request deletion. Zendesk roles that have access to redact:
 
-- Support Staff - Explore
-- Support Staff
+- Admin
+- GitLab Staff
+- GitLab Staff - Explore
+- Security Staff
 - Support Managers
-- Administrators
+- Support Staff
+- Support Staff - CMOC
+- Support Staff - Explore
 
 ## Handling tickets created by GitLab team members
 
