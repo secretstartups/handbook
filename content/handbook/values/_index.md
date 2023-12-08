@@ -294,7 +294,7 @@ We better understand customers and their needs through:
 
 ##### Co-create
 
-We create together with our customers. There is an open dialogue between GitLab and our customers so that we can better identify what they need. That way we can not only build a solution for them, but bring that solution to the world.
+We create together with our customers. There is an open dialogue between GitLab and our customers so that we can better identify what they need. As a result of building a solution for them, we can also bring that solution to the world.
 
 
 ##### Don't lose sight of end users
