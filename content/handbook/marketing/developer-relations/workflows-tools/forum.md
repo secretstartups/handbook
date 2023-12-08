@@ -318,7 +318,9 @@ Administrators can promote team members to trust level 4 manually, for example w
 
 #### Categories
 
-The [forum categories](https://forum.gitlab.com/categories) allow to group posts by sections and topics. Users can also subscribe to category notifications. The top-level categories are inspired by the DevSecOps lifecycle, common questions about GitLab features, and community activities.
+The [forum categories](https://forum.gitlab.com/categories) allow to group posts by sections and topics. Users can also subscribe to category notifications. The top-level categories are inspired by the DevSecOps lifecycle, common questions about GitLab features, and community activities. 
+
+Categories are also shown in a dropdown when users follow the `New topic` action on the forum landing page. We try to keep the category list short and concise.
 
 There are two categories serving a special purpose, they must not be removed:
 
@@ -328,8 +330,8 @@ There are two categories serving a special purpose, they must not be removed:
 For requesting a new category, please review the following steps:
 
 1. Do you want to filter specific topics, or subscribe to notifications? If yes, please consider using [tags](#tags) instead.
-1. New categories should fit as sub category into the existing top-level categories. We try to avoid bigger layout changes to not break contributor workflows.
-1. Create a [new issue in the Developer Evangelist Meta Project](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues) to discuss, and add details about forum DRIs, expected topic count, and impact. 
+1. New categories should fit as subcategory into the existing top-level categories. We try to avoid bigger layout changes to avoid breaking contributor workflows. 
+1. Create a [new issue in the Developer Evangelist Meta Project](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues) to discuss, and add details about forum DRIs, expected topic count, and impact. Assign the issue to technical owners using this quick action: `/assign @dnsmichi @sugaroverflow`.
 
 #### Tags 
 
