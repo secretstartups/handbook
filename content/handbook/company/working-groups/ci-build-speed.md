@@ -54,3 +54,5 @@ Additionally, new players are entering the market advocating for up to 5x GitLab
 | Member                | Oliver Falk @ofalk |
 | Member                | Michael Friedrich @dnsmichi |
 | Member                | Marius Bobin @mbobin |
+| Member                | Cheryl Li @cheryl.li |
+
