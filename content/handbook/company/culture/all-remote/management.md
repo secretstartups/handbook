@@ -102,7 +102,7 @@ Remember that someone's home time zone will not necessarily represent their day-
 Practically, the following should be considered.
 1. Leaders should proactively optimize as many workflows as possible for [asynchronous]({{< ref "./asynchronous" >}}). This enables people to work when they are [most productive]({{< ref "leadership#managers-of-one" >}}), fosters a culture of [rich documentation]({{< ref "./handbook-first" >}}), and creates a more [inclusive work environment]({{< ref "values#bias-towards-asynchronous-communication" >}}).
 1. Attempt to align on a time, or a rotation of times, where the manager and direct report can be online at the same time for a regular [1-1]({{< ref "1-1" >}}). If this pulls one person or the other into non-working hours, consider rotating times so the burden is equally shared.
-1. Document what success looks like using [Objectives and Key Results (OKRs)]({{< ref "okrs" >}}). This should be conveyed plainly and mutually agreed upon.
+1. Document what success looks like using [Objectives and Key Results (OKRs)]({{< ref "/handbook/company/okrs" >}}). This should be conveyed plainly and mutually agreed upon.
 1. Foster community and mentorship with like time zones. E.g. If a manager gains a new direct report with a sizable time zone gap, ask others in the organization — even if they are not in the same department — who are more aligned with the time zone to include this person in their social activities.
 1. Lean on documentation. Place importance on using [low-context communication]({{< ref "./effective-communication" >}}) in 1-1 documents, GitLab issues/merge requests, etc.
 1. Consider using tools like [Yac](https://yac.com) and [Loom](https://www.loom.com) to convey thoughts and feedback with video and audio if the written word feels too impersonal. [Managers]({{< ref "being-a-great-remote-manager" >}}) should flex to the preferred medium and style of their direct report, and encourage open conversation to iterate on this as the relationship develops.
@@ -119,7 +119,7 @@ You can also learn from the experiences of GitLab team members collected in [thi
 
 Remote work is what led to the development of our publicly viewable [handbook]({{< ref "/handbook" >}}), which captures everything you'd need to know about the company. If you can't tell, we like [efficiency]({{< ref "values#efficiency" >}}) and don't like having to explain things twice.
 
-Each department and team's quarterly goals, or ["objectives and key results" (OKRs)]({{< ref "okrs" >}}), are also clearly documented in our handbook for visibility across the company. We check in on these goals monthly, so there's as much transparency as possible around what each team is accomplishing.
+Each department and team's quarterly goals, or ["objectives and key results" (OKRs)]({{< ref "/handbook/company/okrs" >}}), are also clearly documented in our handbook for visibility across the company. We check in on these goals monthly, so there's as much transparency as possible around what each team is accomplishing.
 
 Our approach to [documentation]({{< ref "/handbook/documentation" >}}) also helps with [onboarding new team members]({{< ref "./learning-and-development" >}}), because everything they need to know is in one place.
 
@@ -290,7 +290,7 @@ All-remote companies should go beyond striving for results. They should add as m
 
 This can be achieved by implementing Objectives and Key Results (OKRs), a widely used framework for setting strategy and removing ambiguity over what matters.
 
-Learn more about [GitLab's implementation of OKRs]({{< ref "okrs" >}}).
+Learn more about [GitLab's implementation of OKRs]({{< ref "/handbook/company/okrs" >}}).
 
 ### Key Performance Indicators (KPIs)
 

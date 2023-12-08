@@ -1,27 +1,14 @@
-{{- $img := "" -}}
-{{- $username := . -}}
-{{- $teamDict := partials.IncludeCached "data/team-by-gitlab" -}}
+{{ $username := . }}
+{{- $img := "https://about.gitlab.com/images/gitlab-logo-extra-whitespace.png" -}}
+{{- $teamDict := partials.IncludeCached "data/team-by-gitlab" . -}}
 {{- $data := index $teamDict $username -}}
-{{- if $data -}}
-{{- $username = $data.gitlab -}}
-{{- with (partial "gitlab/api" (dict
-            "path" "/users"
-            "query" (dict
-              "username" $username
-            )
-    ))
--}}
-  {{- /* GitLab returns '[]' instead of nothing. */ -}}
-  {{- if gt (len .) 0 -}}
-    {{- $u := index . 0 -}}
-    {{- with $u.avatar_url -}}
-      {{- with resources.GetRemote . -}}
-        {{- $img = .Fill "90x90" -}}
-      {{- end -}}
-    {{- end -}}
-  {{- end -}}
-{{- end -}}
-<span style="white-space: nowrap;"><a href="{{ ref page (printf "/handbook/company/team#%s" .gitlab) }}"><img class="avatar" src="{{ $img.RelPermalink }}" width="{{ .img.Width }}" height="{{ .img.Height }}" alt="{{ $data.name }}">{{$data.name}}</a></span>
+{{- with $data }}
+  {{- with path.BaseName $data.picture }}
+    {{- if ne . "gitlab-logo-extra-whitespace" }}
+      {{- $img = printf "https://about.gitlab.com/images/team/%s-crop.jpg" . -}}
+    {{- end }}
+  {{- end }}
+<span  style="white-space: nowrap;"><a href="{{ ref page (printf "/handbook/company/team#%s" $data.gitlab) }}"><img class="avatar" src="{{ $img }}" width="40" height="40" alt="{{ $data.name }}">{{$data.name}}</a></span>
 {{- else -}}
-<span class="not-found" style="white-space: nowrap;"><img class="avatar" src="https://about.gitlab.com/images/gitlab-logo-extra-whitespace.png" width="40" height="40" alt="{{ $username }}" class="my-2">{{ $username }}</span>
+<span class="not-found" style="white-space: nowrap;"><img class="avatar" src="https://about.gitlab.com/images/gitlab-logo-extra-whitespace.png" width="40" height="40" alt="{{ $username }}" class="my-2">@{{ $username }}</span>
 {{- end -}}

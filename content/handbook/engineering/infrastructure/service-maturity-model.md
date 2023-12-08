@@ -1,13 +1,6 @@
 ---
-
 title: Service Maturity Model
 ---
-
-
-
-
-
-
 
 ## Introduction
 
@@ -29,11 +22,7 @@ not need development documentation).
 
 ❌ indicates the service does meet even the Level 1 criteria
 
-| Service | Level |
-| --- | --- |
-<% data.service_maturity.each do |service, maturity| %>
-| [<%= service %>](#<%= service %>-detail) | <%= maturity_score(maturity) %> |
-<% end %>
+{{% service-maturity-scores %}}
 
 ### Maturity detail by service
 
@@ -43,35 +32,4 @@ Key:
 * ➖ The criteria is skipped. Some maturity criteria make less sense for some services. For example, an infrastructure-facing service like Patroni is crucial to ops, but not related to our Development department, hence it does not require development guidelines.
 * ⚪ We don't measure the criteria yet.  See [https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/560](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/560) for progress
 
-<% data.service_maturity.each do |service, maturity| %>
-### <%= service %> detail
-
-<ul>
-<li> Level: <%= maturity_score(maturity) %></li>
-<li> <a href="https://dashboards.gitlab.net/d/<%= service %>-main">Link to <%= service %> dashboard</a></li>
-<li> <a href="https://gitlab.com/gitlab-com/runbooks/-/blob/master/metrics-catalog/services/<%= service %>.jsonnet">Service definition of <%= service %></a></li>
-</ul>
-
-<table>
-  <thead>
-    <tr>
-      <th>Level</th>
-      <th>Criterion</th>
-      <th>Passed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <% maturity_details(maturity).flat_map(&:criteria).each.with_index do |row, i| %>
-    <tr>
-      <% maturity_headers(data.service_maturity, i).each do |header, rowspan| %>
-      <% if header %><th scope="row" rowspan="<%= rowspan %>"><%= header %></th><% end %>
-      <% end %>
-      <td>
-        <%= maturity_evidence(row) %>
-      </td>
-    </tr>
-    <% end %>
-  </tbody>
-</table>
-
-<% end %>
+{{% service-maturity-details %}}

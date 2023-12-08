@@ -1,13 +1,6 @@
 ---
-
 title: Database Group
 ---
-
-
-
-
-
-
 
 ## Vision
 
@@ -21,13 +14,13 @@ Focusing on the database, our mission is to provide solutions that allow us to s
 
 The following people are permanent members of the Database Team:
 
-<%= department_team(base_department: "Database BE Team")  %>
+{{< team-by-department "Database BE Team" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%#= stable_counterparts(role_regexp: /[,&] Database/, direct_manager_role: 'Backend Engineering Manager, Memory & Database') %>
+<!-- <%#= stable_counterparts(role_regexp: /[,&] Database/, direct_manager_role: 'Backend Engineering Manager, Memory & Database') %> -->
 <table>
 <thead>
 <tr>
@@ -37,7 +30,7 @@ The following members of other functional teams are our stable counterparts:
 </thead>
 <tbody>
 <tr>
-<td>Roger Woo</td>
+<td>{{% member-by-name "Roger Woo" %}}</td>
 <td><a href="/job-families/product/product-manager/">Senior Product Manager, Database and Application Performance</a></td>
 </tr>
 </tbody>
