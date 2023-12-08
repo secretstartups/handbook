@@ -1,7 +1,7 @@
 ---
 
-title: "CSM Development"
-description: "Available development paths and resources for Customer Success Managers at GitLab."
+title: "CSM Internship"
+description: "GitLab team members outside of CSM can engage in an internship with the CSM team"
 ---
 
 
@@ -39,6 +39,10 @@ The content is divided into three key categories of competencies. [LevelUp](http
 #### CSM Best Practises and Examples at GitLab
 
 - [Chorus Playlist](https://chorus.ai/playlists/741604) gives you access to the recordings of the best CSM calls. The recordings are continuously updated, so keep this playlist bookmarked for best practices.
+
+#### CSM Intership
+
+- [CSM Internship for learning](/handbook/customer-success/csm/csm-development/csm-internship/)
 
 #### Customer Success Management
 
