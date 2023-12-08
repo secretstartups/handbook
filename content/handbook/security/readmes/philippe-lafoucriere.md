@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: "Philippe Lafoucrière README"
 job: "Security Architect"
 ---

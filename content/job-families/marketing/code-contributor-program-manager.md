@@ -9,7 +9,7 @@ As the Code Contributor Program Manager, you will be responsible for enabling me
 
 ### Job Grade
 
-The Code Contributor Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Code Contributor Program Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 

@@ -115,7 +115,7 @@ Where:
 - `INSTANCE` is the Zendesk instance this applies to
   - Note: this is not needed is the project doesn't touch Zendesk instances
 - `ASSIGNEES` is the assignees of the MR (see
-  [division of responsibilities](../index.html#division-of-responsibilities))
+  [division of responsibilities](/handbook/support/readiness/operations/division_of_responsibilities/)
 
 ## Default Issue description
 
@@ -164,8 +164,8 @@ Where:
 - `INSTANCE` is the Zendesk instance this applies to
   - Note: this is not needed is the project doesn't touch Zendesk instances
 - `MAIN` is the primary responsible person (see
-  [division of responsibilities](../index.html#division-of-responsibilities))
+  [division of responsibilities](/handbook/support/readiness/operations/division_of_responsibilities/))
 - `BACKUP` is the secondary responsible person (see
-  [division of responsibilities](../index.html#division-of-responsibilities))
+  [division of responsibilities](/handbook/support/readiness/operations/division_of_responsibilities/))
 - `ASSIGNEES` is the assignees of the MR (see
-  [division of responsibilities](../index.html#division-of-responsibilities))
+  [division of responsibilities](/handbook/support/readiness/operations/division_of_responsibilities/))

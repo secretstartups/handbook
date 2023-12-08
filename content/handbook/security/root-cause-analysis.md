@@ -4,7 +4,7 @@ title: "Root Cause Analysis for Critical Vulnerabilities"
 
 ## What is an RCA?
 
-Root Cause Analysis (RCA) is a process to ultimately identify the root problem of an issue so that we may prevent it from occurring again. You can learn more about [RCAs here](/handbook/engineering/root-cause-analysis/).
+Root Cause Analysis (RCA) is a process to ultimately identify the root problem of an issue so that we may prevent it from occurring again. You can learn more about [RCAs here](https://about.gitlab.com/handbook/engineering/root-cause-analysis/).
 
 To do this a DRI and all relevant other stakeholders from Security and the affected teams (as determined by the DRI) systematically work through a set of questions and discussion topics, as defined in our [RCA Template](https://gitlab.com/gitlab-com/gl-security/rcas/-/blob/main/.gitlab/issue_templates/RCA.md).
 
@@ -28,7 +28,7 @@ The DRI is also responsible for setting the correct metadata labels on the incid
 
 ## Progressing an RCA
 
-The DRI is responsible for reminding others to contribute to the RCA, and for ensuring any stakeholders from relevant [Product Groups](https://about.gitlab.com/handbook/product/categories/) or other parts of the company, which have been involved in the incident, have been given an opportunity to contribute.
+The DRI is responsible for reminding others to contribute to the RCA, and for ensuring any stakeholders from relevant [Product Groups](/handbook/product/categories/) or other parts of the company, which have been involved in the incident, have been given an opportunity to contribute.
 
 The DRI is responsible for creating issues for corrective actions the team have identified and assigning a DRI for those follow up issues. The DRI is empowered to make decisions about which corrective actions are specific, measurable, achievable and relevant enough to create an issue on. Because not all issues raised by team members may meet this criteria, the DRI is also empowered to decline corrective actions while at the same time explaining why it was declined. Leadership will assist with resolving any potential conflicts.
 Note the DRI does not need to come up with all the ideas! This is mainly an administrative task.

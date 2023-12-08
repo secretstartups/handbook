@@ -64,9 +64,6 @@ The roles are:
 - `corporate_it_senior_it_site_reliability_engineer`
 - `corporate_it_senior_it_systems_engineer`
 - `corporate_it_staff_it_systems_engineer`
-- `csm_customer_success_engineer`
-- `csm_manager_customer_success_engineers`
-- `csm_senior_customer_success_engineer`
 - `customer_support_manager_support_engineering`
 - `customer_support_senior_support_engineer`
 - `customer_support_staff_support_engineer`
@@ -177,7 +174,7 @@ You can find the recorded, private YouTube stream at the following:
 - [Day 2 Morning](https://www.youtube.com/watch?v=bJYUxKn88so )
 - [Day 2 Afternoon](https://www.youtube.com/watch?v=8tP2KVKHO7A)
 
-These videos are private by default. To view them, you will need to [switch to the GitLab Unfiltered account](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).
+These videos are private by default. To view them, you will need to [switch to the GitLab Unfiltered account](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).
 
 #### Recommendations
 

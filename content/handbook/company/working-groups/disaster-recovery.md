@@ -60,7 +60,7 @@ Completed:
 | Member                 | Michele Bursi           | Engineering Manager, Delivery                  |
 | Member                 | Sami Hiltunen           | Senior Backend Engineer, Gitaly                |
 | Member                 | Joshua Lambert          | Director of Product Management, Enablement     |
-| Member                 | Steve Azzopardi         | Staff SRE, Infrastructure.                     |
+| Member                 | Ahmad Sherif            | Senior SRE, Infrastructure                     |
 | Member                 | Fabian Zimmer           | Director of Product Management, SaaS Platforms |
 | Member                 | Nick Westbury           | Senior Software Engineer in Test, Geo          |
 | Member                 | Sean Carroll            | Engineering Manager, Source Code               |

@@ -41,7 +41,7 @@ Email confirmation on sign-up; making it more difficult for bots to register new
 
 ### Harden your instance
 
-Customizing your instance configuration can go a long way to discouraging and reducing spam and abuse. This includes [defining how users access your instance and who can have access](/blog/2020/05/20/gitlab-instance-security-best-practices/#restricting-how-and-who).
+Customizing your instance configuration can go a long way to discouraging and reducing spam and abuse. This includes [defining how users access your instance and who can have access](https://about.gitlab.com/blog/2020/05/20/gitlab-instance-security-best-practices/#restricting-how-and-who).
 
 ### Understand how abuse is reported and managed by self-managed Admins
 

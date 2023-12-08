@@ -28,7 +28,7 @@ The Data Classification Standard applies to all GitLab team members, contractors
 
 - Data Owners shall determine the classification of data in accordance with this standard. The Data Classification Index (internal only) provides a list of various types of data and their classification level. If you cannot identify the data element or are uncertain of the risk associated with the data and how it should be classified and handled, please contact The Security Compliance Team.
 
-- To maintain our culture of security, transparency and to minimize the risk to our sensitive data and our customers, GitLab team members are encouraged to complete Data Classification Training to help understand the different types of data at GitLab and how to keep it [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/). Training is available via [Level Up](https://levelup.gitlab.com/learn/dashboard), GitLab's internal learning platform.
+- To maintain our culture of security, transparency and to minimize the risk to our sensitive data and our customers, GitLab team members are encouraged to complete Data Classification Training to help understand the different types of data at GitLab and how to keep it [SAFE](/handbook/legal/safe-framework/). Training is available via [Level Up](https://levelup.gitlab.com/learn/dashboard), GitLab's internal learning platform.
 
 ### Customer Responsibilities
 
@@ -81,11 +81,11 @@ Examples include:
 - Open security incidents, vulnerabilities and risks
 
 {{% alert title="Personal Data Exception" %}}
-While Personal Data is classified as Orange, there is an exception for GitLab Team Member names and their work email addresses, which are classified as Yellow. These two Personal Data elements are not considered high-risk or sensitive types of Personal Data. Given GitLab's value of [transparency](/handbook/values/#transparency) and because GitLab is [public by default](/handbook/values/#public-by-default), most Team Member names are available [publicly](/company/team/#close-modal). As they are often processed in support of everyday corporate operations, the application of Orange-level controls for these lower risk data elements would disproportionately inhibit GitLab's business functions.
+While Personal Data is classified as Orange, there is an exception for GitLab Team Member names and their work email addresses, which are classified as Yellow. These two Personal Data elements are not considered high-risk or sensitive types of Personal Data. Given GitLab's value of [transparency](/handbook/values/#transparency) and because GitLab is [public by default](/handbook/values/#public-by-default), most Team Member names are available [publicly](/handbook/company/team/#close-modal). As they are often processed in support of everyday corporate operations, the application of Orange-level controls for these lower risk data elements would disproportionately inhibit GitLab's business functions.
 {{% /alert %}}
 
 {{% alert title="Personal Data and Team Member Safety" %}}
-Please be aware of how combining data elements could lead to impacting a Team Member's safety. For example, Team Member names are classified as [Yellow](#yellow), per the classification description below. But if you combine a Team Member's name along with their dates of travel and site for a work event, then you are possibly revealing that Team Member's exact location, which is Orange level Personal Data. Any document or Issue containing a Team Member's specific location should be set as "Confidential" in accordance with our [Orange Data](#orange) and [Confidentiality Levels](https://about.gitlab.com/handbook/communication/confidentiality-levels/) guidelines.
+Please be aware of how combining data elements could lead to impacting a Team Member's safety. For example, Team Member names are classified as [Yellow](#yellow), per the classification description below. But if you combine a Team Member's name along with their dates of travel and site for a work event, then you are possibly revealing that Team Member's exact location, which is Orange level Personal Data. Any document or Issue containing a Team Member's specific location should be set as "Confidential" in accordance with our [Orange Data](#orange) and [Confidentiality Levels](/handbook/communication/confidentiality-levels/) guidelines.
 {{% /alert %}}
 
 <!-- markdownlint-disable MD022 -->

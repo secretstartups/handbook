@@ -14,7 +14,7 @@ There are four on-call rotations in Support:
 - [US Federal Emergencies](/handbook/support/workflows/customer_emergencies_workflows#us-federal-on-call) - which is similar to Customer Emergencies, but has different hours and a US Citizen requirement to participate in
 - [Support Manager On-call](/handbook/support/workflows/support_manager-on-call) - in which Support Manager are an escalation point for issues raised by Support Engineers and GitLab team members and missed PagerDuty notifications
 
-For customers that have [Priority Support](/support/#priority-support), the Support Engineering Team is on-call in these capacities and available to assist with emergencies. What constitutes an emergency is defined in our [definitions of support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact).
+For customers that have [Priority Support](https://about.gitlab.com/support/#priority-support), the Support Engineering Team is on-call in these capacities and available to assist with emergencies. What constitutes an emergency is defined in our [definitions of support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact).
 
 We take on-call seriously. There are [escalation policies](https://gitlab.pagerduty.com/escalation_policies#PKV6GCH) in place so that if a first responder does not respond fast enough another team member or members is/are alerted. Such policies aren't expected to ever be triggered, but they cover extreme and unforeseeable circumstances.
 
@@ -22,7 +22,7 @@ We take on-call seriously. There are [escalation policies](https://gitlab.pagerd
 
 ### Be alert and available
 
-When you are on call you are expected to be available and ready to respond to PagerDuty pings as soon as possible, and certainly within the emergency response time set by our [Service Level Agreements](/support/#priority-support).
+When you are on call you are expected to be available and ready to respond to PagerDuty pings as soon as possible, and certainly within the emergency response time set by our [Service Level Agreements](https://about.gitlab.com/support/#priority-support).
 
 If you have plans outside of your work space while being on call, then being available may require bringing a laptop and reliable internet connection with you.
 
@@ -72,7 +72,7 @@ PagerDuty is the single source of truth for on-call hours, rotation order and es
 
 There are several ways to view current and future schedules:
 
-1. On gitlab.io: [View the current and next week's assignments](https://gitlab-com.gitlab.io/support/team/oncall.html)
+1. On gitlab.io: [View the current and next week's assignments](https://gitlab-com.gitlab.io/support/team/oncall)
 1. In PagerDuty: View the [Customer Emergencies schedule](https://gitlab.pagerduty.com/schedules) and the [escalation policy](https://gitlab.pagerduty.com/escalation_policies#PKV6GCH)
 1. In Google Calendar, [subscribe to your on-call schedule](https://support.pagerduty.com/docs/schedules-in-apps#section-export-only-your-on-call-shifts)
 1. In the `#spt-gg-forest` slack channel, you can see who is on-call for the different schedules today
@@ -95,7 +95,7 @@ When removing a user from a schedule the manager will need to delete the email a
 
 #### Your first on-call shift
 
-For new team members approaching their first on-call shift, your [Support onboarding issue](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/New-Support-Team-Member-Start-Here.md) includes a section suggesting that you shadow a current on-call to gain familiarity with the process. After completing your shadow shift, work with your manager to get yourself added to the on-call rotation. For your first on-call week we recommend asking your Onboarding Buddy to be available as a secondary to help if an emergency comes in.
+For new team members approaching their first on-call shift, your [Support onboarding issue](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/New-Support-Team-Member-Start-Here.md) includes a section suggesting that you shadow a current on-call to gain familiarity with the process. After completing your shadow shift, work with your manager to get yourself added to the on-call rotation. For your first on-call week we recommend asking your Onboarding Buddy to be available as a secondary to help if an emergency comes in.
 
 #### Make the schedule work for you
 
@@ -143,7 +143,7 @@ Team members employed by GitLab PTY Ltd *must* take time off in lieu within two
 weeks of completing their on-call shift. Time in lieu should be requested via
 Time Off by Deel, selecting the `On-Call Time in Lieu` option.
 
-For more details, see the [GitLab PTY Australia Specific Benefits](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only)
+For more details, see the [GitLab PTY Australia Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only)
 page.
 
 ##### New Zealand (Employees of GitLab PTY Ltd NZ)
@@ -152,7 +152,7 @@ Team members employed by GitLab PTY Ltd NZ must avoid taking an on-call shift
 which falls on a New Zealand public holiday. If this cannot be avoided, your
 manager must be informed.
 
-For more details, see the [GitLab PTY Ltd NZ Specific Benefits](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only-1) page.
+For more details, see the [GitLab PTY Ltd NZ Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only-1) page.
 
 ### Starting on-call
 
@@ -163,7 +163,7 @@ When your on-call shift starts, you should get notification(s) that your shift i
 ### Ending your on-call shift
 
 Before your shift ends, consider what tasks need to be handed over and make sure to proactively communicate them to the next engineer in the rotation.
-This may mean [paging](https://support.pagerduty.com/docs/incidents#trigger-an-incident) the next on-call engineer and bringing them into an active troubleshooting call, or it may mean providing instructions or context for situations
+This may mean [paging the next on-call engineer](#paging-the-next-on-call-engineer) and bringing them into an active troubleshooting call, or it may mean providing instructions or context for situations
 you have handled that have some follow-up action. For example:
    - if you're in an active call with a customer and it's time to end your day, page the incoming on-call and make sure they're prepared to provide continuity by giving them an overview of what's been done before and what's next
      - once you anticipate an active call to spill over into the next shift, try reaching out to the incoming on-call on Slack to make them aware of the upcoming need for a handover – they might not be around already, but it's worth trying and can make it easier for you to end your shift on time
@@ -175,8 +175,8 @@ Generally: if there's a situation that occurred (or is actively happening) durin
 
 Some rotations have specific handover procedures:
 
-- [CMOC - End of Shift Handover Procedure](/handbook/support/workflows/cmoc_workflows.html#end-of-shift-handover-procedure)
-- [CEOC - Post-call](/handbook/support/workflows/customer_emergencies_workflows.html#post-call)
+- [CMOC - End of Shift Handover Procedure](/handbook/support/workflows/cmoc_workflows#end-of-shift-handover-procedure)
+- [CEOC - Post-call](/handbook/support/workflows/customer_emergencies_workflows#post-call)
 
 ### Viewing all on-call pages in one place
 
@@ -196,6 +196,12 @@ To see who the current manager on-call is you can:
     - [Support Manager - EMEA](https://gitlab.pagerduty.com/schedules/PXQ2ZAZ)
 - In the `#spt-gg-forest` slack channel, the regional bot message lists who is on-call for the different schedules today
 - Ask in `#spt_managers` (where you may or may not be referred to the above steps!)
+
+### Paging the next on-call engineer
+
+- First, try pinging the on-call engineer in Slack using the `@ceoc` handle.
+- If it's important and urgent or a weekend, you can:
+   - Manually create a new incident from the [Customer Support Service](https://gitlab.pagerduty.com/service-directory/PL3TX00)
 
 ### Paging the on-call manager
 
@@ -217,3 +223,79 @@ We understand you may have plans outside of your normal workspace while you're o
 PagerDuty phone and SMS notifications can come from a variety of different phone numbers and as such, it is important to stay up to date with this to avoid missed pages. You should use [this PagerDuty documentation page](https://support.pagerduty.com/docs/notification-phone-numbers) to download the most recent vCard or setup an automatically updated PagerDuty contact on your device.
 
 If you use a "do not disturb" mode on your device, you should also allow the PagerDuty contact to bypass this.
+
+## Automatically update your Slack status to indicate you're on-call
+
+Using the PagerDuty logo as your Slack status can be a helpful indicator to others that you're currently on-call. We can use Zapier, an automation tool, to update our Slack status automatically when our shift begins. Zapier can connect to PagerDuty directly, but it does not have "Going On-Call" as a trigger – we need to connect to Gmail and use a PagerDuty notification email as the trigger instead.
+
+### Configure PagerDuty to send a specific notification email for this automation
+
+To make sure this stays separated from our normal PagerDuty notifications, we'll set up a notification specifically for this automation.
+
+1. Go to "My Profile" on [PagerDuty](https://gitlab.pagerduty.com/)
+1. In the "Contact information" tab, click "Add Email Address"
+1. Enter a unique `+` version of your GSuite email address, like `youremail+pagerduty-notif@gitlab.com`
+   - If you do not know about the `+` [trick](https://gmail.googleblog.com/2008/03/2-hidden-ways-to-get-more-from-your.html): This will be delivered to your normal inbox. Specifying this unique version will allow us to create a filter for these notifications later in the process.
+1. Enter anything you want for the "type" (Work, Home, …) – with "Other" you can type your own text
+1. Short/HTML Emails does not make a difference
+1. Add the email address, and use the "Test" button to send a test notification
+
+![Adding a new notification email target in PagerDuty](/images/support/oncall-pagerduty-setup-new-notification-email.png)
+
+
+1. Change to the "Notication Rules" tab
+1. Your new email will already have been added in the "When a high-urgency incident is assigned to me" section – remove it from there, and also from any other sections it might have been added to
+1. Finally, *do* add it to the "Before I go on-call or off-call" section via the "Add Notification Rule" button
+   - Make sure to pick *only* "before I go on-call"
+
+![Setting up a notification specifically for going on-call](/images/support/oncall-pagerduty-setup-going-oncall-notification.png)
+
+That's step one done – now PagerDuty will always send us a notification mail to the unique email address right when our shift begins.
+
+### Configure Gmail to automatically process these new notifications
+
+We do not actually want these notification mails in our inbox, though. They are only a means to an end – so let's set up a corresponding Gmail filter next.
+
+1. Go to your [Filters and Blocked Addresses](https://mail.google.com/mail/u/0/#settings/filters) settings
+1. With the "Create a new filter" link, start adding the filter
+1. In the `To` condition, enter your unique email address from above
+1. Click "Create Filter" and choose these actions in the following dialog:
+   - `Skip the Inbox (Archive it)`
+   - `Mark as read`
+   - `Apply the label:` and via the dropdown create a new label of your choice – for example `going-on-call`
+1. Make sure to check the `Also apply filter to x matching conversations` box – this should match the test notification we sent earlier
+1. Click "Create Filter" again to actually set it up
+
+It should look like this in your filter list afterwards:
+
+![The finished Gmail filter that applies our label](/images/support/oncall-gmail-setup-oncall-label-filter.png)
+
+That's the second step done – we're now all set to make Zapier use these email notifications as a trigger for the Slack status update.
+
+### Configure Zapier to update the Slack status when a new on-call notification email arrives
+
+Note that some teams in GitLab are using Zapier with a paid plan, but Support Engineers usually don't. There's no need to for an Access Request and a Zapier license – this works entirely with a free Zapier account.
+
+1. Sign into (or create an account with) [Zapier](https://zapier.com/) using your Gmail login
+1. Go to [Apps](https://zapier.com/app/connections) and "Add Connection" for both Gmail and Slack
+   - When doing so, you will be prompted to log into both services and give Zapier permissions to access them on your behalf.
+1. [Create a new Zap](https://zapier.com/webintent/create-zap)
+1. For the Trigger, use the `Gmail` app with the `New Labeled Email` event
+1. Continue until you can pick the "Label/Mailbox" and choose the Gmail label created above (for example `going-on-call`)
+1. Zapier will now look for emails with that label and should find the test email we triggered earlier
+1. Choose the test email and "Continue with selected record" to start setting up the action
+1. For the Action, use the `Slack` app with the `Set Status` event
+1. Continue until you can specifiy the input for the status:
+   - `Status Text` – you'll likely want to specify your rotation name here
+   - `Status Emoji` – you'll likely want to use `:pagerduty:` here
+   - `Expiration Time` – you'll want to use the duration of your shift here so the status is automatically cleared when your shift is done
+1. In the next step, give it a quick test (don't forget to clear your Slack status afterwards)
+1. Finally, "publish" your Zap – this is just saving and activating it
+
+Here's what the result should look like:
+
+![The trigger of the zap](/images/support/oncall-zapier-gmail.png)
+
+![The action of the zap](/images/support/oncall-zapier-slack.png)
+
+And that was the third and final step – from now on your Slack status should be updating automatically. Due to how this is set up it can sometimes have a few minutes delay, but it's usually very snappy.

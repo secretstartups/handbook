@@ -6,7 +6,7 @@ The overall goal of Application Security Stable Counterparts is to help
 integrate security themes early in the development process. This is intending
 to reduce the number of vulnerabilities released over the long term.
 These Stable Counterparts can be found on the
-[Product Categories page](https://about.gitlab.com/handbook/product/categories/#devops-stages),
+[Product Categories page](/handbook/product/categories/#devops-stages),
 next to the "Application Security Engineer" mentions.
 
 ## Technical Goals

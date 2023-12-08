@@ -2,22 +2,12 @@
 title: Working with the NPM GitLab Registry
 ---
 
-## On this page
-
-1. [Creating A Scoped Package](#creating-scoped-package)
-    - The difference between scoped packages and regular npm packages
-1. [Create and provision the `.npmrc` file](#create-npmrc-file)
-1. [Publishing the scoped package to the NPM Registry on GitLab](#publishing-scoped-package)
-1. [Pulling the scoped package from the NPM Registry on GitLab](#pulling-scoped-package)
-1. [Common troubleshooting]("#troubleshooting")
-1. [Publishing a private NPM package via GitLab CI]('#npm-publish-via-ci')
-
 ## Overview
 
 The purpose of this workflow is to make it easy(or easier) to test common customer scenarios by having access to package(s). You can follow the steps outlined below
-to create a package, or use [this one](https://gitlab.com/sahbabou/test-package). Just make sure to reference to correct project ID when publishing your package [(Step 3)](#initialize-the-project).
+to create a package, or use [this one](https://gitlab.com/sahbabou/test-package). Just make sure to reference to correct project ID when publishing your package [(Step 3)](#3-publishing-the-scoped-package).
 
-## Creating A Scoped Package {#creating-scoped-package}
+## Creating A Scoped Package
 
 - A scoped package is a package that's available under a scope(*insert you don't say meme*). The scope is used in the namespace, and usually either references
 the org, or your username, depending on where the package is hosted. For example, if I create a package, and host it under my GitLab account, the scope will be `@sahbabou/name-of-my-package`
@@ -31,7 +21,7 @@ only need a `package.json` file.
 
 - `mkdir npm-package`
 
-##### Step 2: Initialize the project on git {#initialize-the-project}
+##### Step 2: Initialize the project on git
 
 - `git init`
 - `git remote add origin <your_git_url>`
@@ -78,7 +68,7 @@ scope, as well as the current user's authentication to push/pull packages.
 
 NOTE **Note**: We can't install nor publish this particular project yet, because we still have to tell our package where it can publish itself.
 
-## 3. Publishing The Scoped Package <a name="publishing-scoped-package"></a>
+## 3. Publishing The Scoped Package
 
 - Add this to your `package.json`:
 
@@ -91,12 +81,12 @@ NOTE **Note**: We can't install nor publish this particular project yet, because
 
  `your-gitlab-url/package-project/-/packages`
 
-## 4. Pulling the scoped package from the NPM Registry on GitLab {#pulling-scoped-package}
+## 4. Pulling the scoped package from the NPM Registry on GitLab
 
 - You can run npm install from any other npm project(including this one), or clone [this project](https://gitlab.com/sahbabou/npm-test-project), then run npm install from the project's directory, and then
 confirm whether you're able to install the package.
 
-## 5. Common troubleshooting tips: {#troubleshooting}
+## 5. Common troubleshooting tips
 
 Note: **NOTE**: If on < 11.9, [packages with a dot in the package name return a 403 on npm install](https://gitlab.com/gitlab-org/gitlab-ee/issues/10248) @test.group/project is read as @test. The workaround is to either:
 
@@ -116,7 +106,7 @@ If you receive a 40x error, re-run the same command with a `--verbose` flag, and
 - Also worth double checking whether the URL to your git repo contains http/https, especially if/when self-managed
 - Make sure you're using a Premium/Ultimate license, especially if you're using an older license :)
 
-## 6. Publishing a package to the NPM Registry on GitLab via GitLab CI {#npm-publish-via-ci}
+## 6. Publishing a package to the NPM Registry on GitLab via GitLab CI
 
 In order to run a job to publish your package in a job, paste the snippet below in your `gitlab-ci.yml`. For the job to be successful, you will need to:
 

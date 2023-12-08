@@ -14,7 +14,7 @@ The `#hackerone-feed` Slack channel receives notifications of report status chan
 
 ## GitLab Team On-boarding
 
-- New members of the GitLab security team are granted access to the GitLab HackerOne team via an access request issue using the appropriate [role based entitlement template](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#role-entitlements-for-a-specific-job), which should be submitted by their manager during onboarding
+- New members of the GitLab security team are granted access to the GitLab HackerOne team via an access request issue using the appropriate [role based entitlement template](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#role-entitlements-for-a-specific-job), which should be submitted by their manager during onboarding
 - During onboarding, new GitLab security team members will be invited to join the HackerOne program if their role requires it.
 
 ## Working the Queue
@@ -86,11 +86,11 @@ the responsible engineering team:
         - Note: by default a placeholder [CVE issue](https://gitlab.com/gitlab-org/cves/-/issues) is created and a brief note is added to the latest [bug bounty council issue](https://gitlab.com/gitlab-com/gl-security/security-department-meta/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Bug%20Bounty%20Council). Pass `~no-cve` or `~no-bounty` respectively to the `/h1 import` command to prevent their creation.
     - On the imported GitLab issue:
         - Verify the Severity/Priority assigned by `h1import` ([Severity and Priority]({{< ref "/handbook/security#severity-and-priority-labels-on-security-issues" >}}) and [Remediation SLAS]({{< ref "/handbook/security/threat-management/vulnerability-management#remediation-slas" >}}))
-        - Assign the appropriate [Due Date]({{< ref "/handbook/security#due-date-on-security-issues" >}})
-        - Have a proper [`How to reproduce`]({{< ref "/handbook/security#reproducibility-on-security-issues" >}}) section, by for instance copying the final reproduction steps written by our HackerOne triager into the issue.
+        - Assign the appropriate [Due Date]({{< ref "engaging-with-security#due-date-on-security-issues" >}})
+        - Have a proper [`How to reproduce`]({{< ref "engaging-with-security#reproducibility-on-security-issues" >}}) section, by for instance copying the final reproduction steps written by our HackerOne triager into the issue.
         - If the report is a security-related documentation change, add the `~documentation` label
-        - @-mention the product manager and engineering manager based on the [product categories page](https://about.gitlab.com/handbook/product/categories/). Ask for engineering feedback if it is required to complete the triage
-        - add labels (`/label ~` command) corresponding to the [DevOps stage](https://about.gitlab.com/handbook/product/categories/#devops-stages) and source group (consult the [Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) for an overview on categories forming the hierarchy)
+        - @-mention the product manager and engineering manager based on the [product categories page](/handbook/product/categories/). Ask for engineering feedback if it is required to complete the triage
+        - add labels (`/label ~` command) corresponding to the [DevOps stage](/handbook/product/categories/#devops-stages) and source group (consult the [Hierarchy](/handbook/product/categories/#hierarchy) for an overview on categories forming the hierarchy)
         - As applicable, notify other relevant team members via the issue, chat, and email, depending on the chosen security level.
     - Change the state of the report to "Triaged" in HackerOne:
         - See [GitLab's H1 Policy](https://hackerone.com/gitlab), under `Rewards`, for portions of bounty rewards which are awarded at the time of triage
@@ -100,6 +100,7 @@ the responsible engineering team:
           - `00 - Triaged with Bounty` for medium, high, and critical reports which do have an initial bounty at time of triage
         - In the comment, include link to the confidential issue
     - Update the CVE issue and Bug Bounty Council note with relevant details, while they are still fresh in your mind
+      - If the CVSS score is higher on GitLab.com than self-managed, calculate both scores and share them in the Bug Bounty Council issue. If the council agrees that security impact is higher on GitLab.com than self-managed, bounty award will be based on the CVSS for GitLab.com. The CVE and security release blog post will always use the self-managed CVSS.
     - If you relied on the HackerOne Triage Team's validation of the issue, consider setting time in your calendar to validate it yourself. This will help if you need to validate the fix later.
     - If full impact is needed to be assessed against GitLab infrastructure, instead of testing in https://gitlab.com, use https://staging.gitlab.com/help to sign in with your GitLab email account
         - If multiple users are needed, use credentials for users gitlab-qa-user* stored in 1password Team Vault to access the staging environment
@@ -198,11 +199,12 @@ Remediation of this vulnerability happens within the SIRT issue and typically in
   - For High and Critical CVSS, two team members must react with a thumbsup emoji on the note
   - If needed, make a request in `#sec-appsec` when your note has not received enough votes
 - After Bug Bounty Council approval:
+  - Consider explaining the CVSS score and council discussion points on the canonical issue. This helps teams understand the severity during remediation and, when the issue becomes public, it gives transparency to researchers and customers on how we reached a given score.
   - If 30 days have passed since the issue was triaged, the approved award may be paid in advance of a confirmed fix using the `04 - Bounty Award / Reviewed and Awarded Prior to Fix` common response.
   - Once a fix is shipped, award the remaining amount (or full amount if none was awarded at time of triage) using the `02 - Bounty Award` common response
   - Add a 💰 emoji to the bug bounty council thread after paying the bounty award.
 
-We can award GitLab swag to reporters who have submitted a quality report that did not qualify for a monetary reward in our Bug Bounty program. To award swag, please follow the [swag nomination process](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-appreciation/#nomination-process) that is managed by our Developer Relations team.
+We can award GitLab swag to reporters who have submitted a quality report that did not qualify for a monetary reward in our Bug Bounty program. To award swag, please follow the [swag nomination process](/handbook/marketing/developer-relations/contributor-success/community-appreciation/#nomination-process) that is managed by our Developer Relations team.
 
 ## Managing issues
 
@@ -217,6 +219,10 @@ the product management team.
 on-going as to whether a patch will be created at all, reporters should
 be notified of updates at least **monthly**.
 - In any case, no report should go "stale" where updates are not provided within the last month.
+
+## SLA exceptions
+
+The HackerOne bot will automatically assign the correct due date based on severity of the imported issue. However, sometimes the issues may for various reasons not be patched within that timeframe. When this happens, development teams should open a [SLA exception](/handbook/security/threat-management/vulnerability-management/#sla-exception-procedures) and have it approved by the Vulnerability Management team. The Application Security team is available to assist by providing guidance on these exception requests, but the expectation is that development teams will submit these requests and provide the justification and exception type.
 
 ## Closing out & disclosing issues
 
@@ -294,7 +300,7 @@ The report includes a new vulnerability, for which a patch is not available, or
   - A patch has been available for more than 30 days.
   - It has a clear and working proof of concept that illustrates the impact to GitLab.
   - It has Critical or High impact to GitLab.
-  
+
 This does not include websites of third party software and services and only includes dependencies & packaged software.
 
 ## Awarding Ultimate Licenses

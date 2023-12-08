@@ -6,7 +6,7 @@ weight: -10
 
 ## Purpose
 
-For [executives](https://about.gitlab.com/company/team/structure/#executives) to connect on a weekly basis in order to:
+For [executives](/handbook/company/team/structure/#executives) to connect on a weekly basis in order to:
 
 1. Get timely input from E-Group
 1. Align on key initiatives
@@ -16,26 +16,26 @@ For [executives](https://about.gitlab.com/company/team/structure/#executives) to
 ## Timing
 
 Scheduled for 80 minutes on Mondays. These don't occur during
-[E-Group Offsite](https://about.gitlab.com/company/offsite/)
+[E-Group Offsite](/handbook/company/offsite/)
 weeks and may occasionally be rescheduled for another day due to calendar conflicts or holidays.
 
 ## Attendees
 
-1. [Executives](https://about.gitlab.com/company/team/structure/#executives)
-1. [Chief of Staff to the CEO](https://handbook.gitlab.com/job-families/chief-executive-officer/chief-of-staff/); when not possible, the [Director, Strategy and Operations](https://handbook.gitlab.com/job-families/chief-executive-officer/strategy-and-operations/)
-1. [CEO Shadows](https://about.gitlab.com/handbook/ceo/shadow/)
-1. [Executive Business Admin](https://about.gitlab.com/handbook/eba/#executive-business-administrator-team) to the CEO (optional)
+1. [Executives](/handbook/company/team/structure/#executives)
+1. [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/); when not possible, the [Director, Strategy and Operations](/job-families/chief-executive-officer/strategy-and-operations/)
+1. [CEO Shadows](/handbook/ceo/shadow/)
+1. [Executive Business Admin](/handbook/eba/#executive-business-administrator-team) to the CEO (optional)
 1. Invited participants: folks invited to participate in one or more specific session
    1. The slack channel #e-group-waiting-room is used to ping participants if the start time changes
 
 ## Scheduling
 
-The [EBA to the CEO](https://about.gitlab.com/handbook/eba/#executive-business-administrator-team) is responsible for scheduling these meetings. [Chief of Staff to the CEO](https://handbook.gitlab.com/job-families/chief-executive-officer/chief-of-staff/#directed-work) is responsible for managing to the agenda and ensuring that meetings don't exceed the allocated time.
+The [EBA to the CEO](/handbook/eba/#executive-business-administrator-team) is responsible for scheduling these meetings. [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/#directed-work) is responsible for managing to the agenda and ensuring that meetings don't exceed the allocated time.
 
 ## Meeting Details
 
 1. E-Group members add topics to the agenda
-1. The [CoS to the CEO](https://handbook.gitlab.com/job-families/chief-executive-officer/chief-of-staff/) will organize agenda suggestions and allocate discussion times by 3pm PT on the business day immediately before the meeting
+1. The [CoS to the CEO](/job-families/chief-executive-officer/chief-of-staff/) will organize agenda suggestions and allocate discussion times by 3pm PT on the business day immediately before the meeting
 1. The CoS to the CEO will manage time within the meeting
 
 ## Adding items to the agenda
@@ -54,7 +54,7 @@ The [EBA to the CEO](https://about.gitlab.com/handbook/eba/#executive-business-a
 
 ## Agenda structure
 
-The agenda for each E-Group Weekly has a single section for each meeting. Each agenda item should [include a tag](https://about.gitlab.com/handbook/leadership/1-1/suggested-agenda-format/#hallway). Three of the most often used tags are:
+The agenda for each E-Group Weekly has a single section for each meeting. Each agenda item should [include a tag](/handbook/leadership/1-1/suggested-agenda-format/#hallway). Three of the most often used tags are:
 1. FYI: informational, no action needed
 1. TODO: may not require significant discussion time, but there is an ask for all or a subset of E-Group team members
 1. DISCUSS: cover in this meeting

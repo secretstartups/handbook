@@ -8,7 +8,7 @@ description: "Provides a general overview of how the GitLab.com (SaaS) context i
 
 This page is meant to provide a general overview of how GitLab SaaS (GitLab.com) is different from self-managed instances of GitLab.
 
-Please note that context for the following sections on this page should be covered by the various [workflows](index.html) that Support utilizes when working with GitLab SaaS along with the [GitLab.com Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-com-Basics.md) training module.
+Please note that context for the following sections on this page should be covered by the various [workflows](/handbook/support/workflows) that Support utilizes when working with GitLab SaaS along with the [GitLab.com Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/GitLab-com-Basics.md) training module.
 
 ## GitLab.com Architecture
 
@@ -16,7 +16,7 @@ GitLab.com is the largest known GitLab instance. It is monitored and maintained 
 
 The Support team should have a general understanding of [its architecture](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/) along with how to access logs ([Kibana]({{< ref "kibana" >}}) and error reports ([Sentry]({{< ref "sentry" >}})) to troubleshoot reported issues.
 
-As well, Support team members should be aware that Gitlab.com has certain customizations. These customization are applied through the [chef-repo](https://gitlab.com/gitlab-com/gl-infra/chef-repo). Details of Gitlab.com customizatons can be found in [GitLab.com custom limits](/handbook/support/workflows/gitlab-com_customizations.html)
+As well, Support team members should be aware that Gitlab.com has certain customizations. These customization are applied through the [chef-repo](https://gitlab.com/gitlab-com/gl-infra/chef-repo). Details of Gitlab.com customizatons can be found in [GitLab.com custom limits](/handbook/support/workflows/gitlab-com_customizations)
 
 Numerous Support team members including all SaaS focused ones also assist with incidents as [CMOC]({{< ref "cmoc_workflows" >}}).
 
@@ -24,7 +24,7 @@ Numerous Support team members including all SaaS focused ones also assist with i
 
 When signing up, users agree to our [terms](https://about.gitlab.com/terms/), which means they are bound by them as well.
 
-Violation of terms, including DMCA and code of conduct, are taken care of by [Security Operations](https://about.gitlab.com/handbook/security/security-operations/).
+Violation of terms, including DMCA and code of conduct, are taken care of by [Security Operations](/handbook/security/security-operations/).
 
 ## Administration
 
@@ -50,9 +50,12 @@ As of 2021-02-01 when our terms were last updated, we introduced the definition 
 
 Enterprise user accounts belong to the company that purchased a GitLab subscription. This means when requested by an `Owner` in the **top-level of a paid group**, information can be shared about, and actions can be made on behalf of an enterprise user.
 
-[Proof of account ownership is required]({{< ref "account_verification" >}}), either the relevant user or requesting owner can pass the verification process.
+To share private information or take any action, [proof of account ownership is required]({{< ref "account_verification" >}}) as usual.
 
-A user is considered an enterprise user when **all** of the following conditions are met:
+Enterprise users belong to a group based on the `enterprise_group_id` user attribute.
+See the [enterprise users documentation page](https://docs.gitlab.com/ee/user/enterprise_user/) for details on how this happens in GitLab.
+
+For the purposes of support, a user may still be considered an enterprise user when **all** of the following conditions are met:
 
 1. The user's primary email has a domain that is owned by the company of the paid group, *and*
 1. The user account meets **one** of the following conditions:
@@ -61,8 +64,8 @@ A user is considered an enterprise user when **all** of the following conditions
     - has a `provisioned_by_group_id` value that is the same as the organization's group's ID.
     - is a member of the organization's group, where the subscription was purchased or renewed 2021-02-01 or later.
 
-If the Owner is requesting access to an account which has a primary email in the company domain, but *does not meet* any of the second conditions, then we must treat the account as belonging to the user. In this case, the only recourse for the Owner is to send a request *from the primary email account* and then validate the account as a personal User account.
+If the Owner is requesting access to an account which has a primary email in the company domain, but *does not meet* any of the second conditions, then we must treat the account as belonging to the user. In this case, the only recourse for the Owner to add the user's *primary email* as a CC on the ticket, then the user validates their own account.
 
-The relevant information can be found in the ZenDesk GitLab User Lookup, GitLab admin or API. Subscription information can additionally be found in CustomersDot.
+The relevant information can be found in the [Zendesk GitLab Super App: User Lookup]({{< ref "../readiness/operations/docs/zendesk/apps.md#gitlab-super-app" >}}), GitLab admin or API. Subscription information can additionally be found in CustomersDot.
 
 {{% include "includes/support-quick-reference.md" %}}

@@ -47,11 +47,11 @@ Manager, Accounting, Global Consolidation & Reporting is a grade [8].
 
 The Director, International Accounting  is responsible for the leadership, strategy, and execution of International Accounting, including developing policies and procedures to enable the attainment of key corporate and business objectives.
 
-This role reports to the [VP, Corporate Controller](https://about.gitlab.com/job-families/finance/corporate-controller).
+This role reports to the [VP, Corporate Controller](/job-families/finance/corporate-controller).
 
 #### Director, International Accounting Job Grade
 
-The Director, International Accounting is a [10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, International Accounting is a [10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, International Accounting Responsibilities
 
@@ -95,11 +95,11 @@ The Director, International Accounting is a [10](https://about.gitlab.com/handbo
 
 The Director, International Accounting  is responsible for the leadership, strategy, and execution of International Accounting, including developing policies and procedures to enable the attainment of key corporate and business objectives.
 
-This role reports to the [VP, Corporate Controller](https://about.gitlab.com/job-families/finance/corporate-controller).
+This role reports to the [VP, Corporate Controller](/job-families/finance/corporate-controller).
 
 #### Senior Director, International Accounting Job Grade
 
-The Senior Director, International Accounting is a [11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, International Accounting is a [11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, International Accounting Responsibilities
 
@@ -149,11 +149,11 @@ The next step for the International Accounting  job family is not yet defined.
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Selected candidates will be invited to schedule a 30min screening call with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 team members
 - There may be a final executive interview
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

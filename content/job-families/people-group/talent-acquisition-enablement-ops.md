@@ -14,7 +14,7 @@ The Program Manager, TA Enablement reports to the Senior Manager, TA Enablement.
 
 #### Program Manager, TA Enablement Job Grade
 
-The Progam Manager, TA Enablement is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Progam Manager, TA Enablement is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Program Manager, TA Enablement Responsibilities
 
@@ -48,7 +48,7 @@ The Senior Program Manager, Enablement reports to the Senior Manager, Global Ena
 
 #### Senior Program Manager, Global TA Enablement Job Grade
 
-The Senior Progam Manager, Global TA Enablement is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Progam Manager, Global TA Enablement is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Program Manager, Global TA Enablement Responsibilities
 
@@ -85,7 +85,7 @@ The Manager, Global TA Enablement reports to the Senior Director of Talent Brand
 
 #### Manager, Global TA Enablement Job Grade
 
-The Manager, Global TA Enablement is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Global TA Enablement is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Global TA Enablement Responsibilities
 
@@ -125,7 +125,7 @@ The Senior Manager, Global TA Enablement reports to the Senior Director of Talen
 
 #### Senior Manager, Global TA Enablement Job Grade
 
-The Senior Manager, Global TA Enablement is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Global TA Enablement is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Global TA Enablement Responsibilities
 

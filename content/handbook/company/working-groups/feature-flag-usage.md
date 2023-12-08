@@ -35,7 +35,7 @@ This group will create processes and policies that are as lean as possible in or
 
 ### Work in Progress
 
-- [Capturing the current feature flag lifecycle](https://about.gitlab.com/handbook/product-development-flow/feature-flag-lifecycle/)
+- [Capturing the current feature flag lifecycle](/handbook/product-development-flow/feature-flag-lifecycle/)
 
 ## Roles and Responsibilities
 

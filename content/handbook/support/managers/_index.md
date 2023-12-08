@@ -10,16 +10,16 @@ description: Support Managers activities and references
 
 As a Support Manager at GitLab, you will be focusing on the following things:
 
-- Meeting the [Support KPIs](https://about.gitlab.com/handbook/support/performance-indicators/)
-- Growing and managing your team's efforts in support of the [Support KPIs](https://about.gitlab.com/handbook/support/performance-indicators/)
-- Mentoring and [coaching](https://about.gitlab.com/handbook/leadership/coaching/) your team on our technologies and processes
+- Meeting the [Support KPIs](/handbook/support/performance-indicators/)
+- Growing and managing your team's efforts in support of the [Support KPIs](/handbook/support/performance-indicators/)
+- Mentoring and [coaching](/handbook/leadership/coaching/) your team on our technologies and processes
 - Collaborate with other managers across regions
 - Enable our engineers to explore process change in a scalable way
 
 You can read more about the role below:
 
-- [Support Manager Responsibilities](https://about.gitlab.com/handbook/support/managers/manager-responsibilities.html)
-- [Support Management Job Family](https://handbook.gitlab.com/job-families/engineering/support-management/)
+- [Support Manager Responsibilities](/handbook/support/managers/manager-responsibilities)
+- [Support Management Job Family](/job-families/engineering/support-management/)
 
 ### Regional Variations
 
@@ -35,20 +35,20 @@ The Support Team uses [Epics](https://gitlab.com/groups/gitlab-com/support/-/epi
 
 ## Support Leadership Meetings
 
-As a larger leadership team, it's important that we remain in constant communication to ensure that we're building relationships and avoiding siloing. [You can read more about how we run our Leadership syncs in our handbook.](/handbook/support/managers/leadership-sync.html)
+As a larger leadership team, it's important that we remain in constant communication to ensure that we're building relationships and avoiding siloing. [You can read more about how we run our Leadership syncs in our handbook.](/handbook/support/managers/leadership-sync)
 
 ### Senior Leadership Meetings
 
-While managers won't generally directly participate in Senior Leadership Meetings, it's important to know they exist, what topics are discussed at what cadence and where the public agenda is. [Read more about Senior Leadership Meetings](https://about.gitlab.com/handbook/support/managers/senior/senior-leadership-sync.html).
+While managers won't generally directly participate in Senior Leadership Meetings, it's important to know they exist, what topics are discussed at what cadence and where the public agenda is. [Read more about Senior Leadership Meetings](/handbook/support/managers/senior-leadership-sync).
 
 ## Working with your team
 
-1. [Getting To Know Your Team Members](/handbook/support/managers/getting-to-know-you.html)
-1. [Support 1-1s](/handbook/support/managers/support-1-1s.html) - guidance on conducting 1 to 1 calls.
+1. [Getting To Know Your Team Members](/handbook/support/managers/getting-to-know-you)
+1. [Support 1-1s](/handbook/support/managers/support-1-1s) - guidance on conducting 1 to 1 calls.
 
 ## Hiring
 
-See [Support Hiring](hiring.html)
+See [Support Hiring](/handbook/support/managers/hiring)
 
 ## Promotions
 
@@ -91,16 +91,16 @@ If the metrics are at or below the following floors for 2 sustained weeks, manag
 1. Combined SSAT (L&R, GitLab SM and GitLab SaaS) at or below 93%
 1. Combined NRT (L&R, GitLab SM and GitLab Saas) at or below 83%
 
-This action is unique to Support and is somewhere in-between a [Rapid Action issue](https://about.gitlab.com/handbook/engineering/development/#rapid-action-issue) and a [Working Group](https://about.gitlab.com/company/team/structure/working-groups/).
+This action is unique to Support and is somewhere in-between a [Rapid Action issue](https://about.gitlab.com/handbook/engineering/development/#rapid-action-issue) and a [Working Group](/handbook/company/team/structure/working-groups/).
 
 The purpose of the group will be unique to each situation that triggers it, but generally the members will:
 
 - form testable statements (e.g. *FRT has gone down because a lot of people have taken vacation*)
 - gather and analyze data that falsify those statements (e.g. *After taking a look at PTO data, we can see that we've had a consistent 90% coverage for the period in question, which is consistent with other times in the year*)
 - build a set of recommendations based on the data for how we can achieve consistent results
-- document *how* they analyzed their hypothesis and include it in [Hypothesis and Actions](metrics-analysis/actions.html)
+- document *how* they analyzed their hypothesis and include it in [Hypothesis and Actions](/handbook/support/managers/metrics-analysis/actions)
 
-These criteria and actions came from the [Metrics Analysis Workgroup](metrics-analysis/index.html).
+These criteria and actions came from the [Metrics Analysis Workgroup](/handbook/support/managers/metrics-analysis/index).
 
 ### Forming a Group
 
@@ -110,9 +110,9 @@ These criteria and actions came from the [Metrics Analysis Workgroup](metrics-an
 
 ## OKR's
 
-All Support Engineering Managers have at least 1 [OKR](https://about.gitlab.com/company/okrs/#what-are-okrs) each quarter. Each managers' OKR should align with one of the department level OKR's, although the scope may be smaller (confined to a region/team of direct reports rather than globally impactful). While OKR's are important, they are not the most important thing for managers to work on. To the end of effectively managing Support Engineers, a managers focus should be on:
+All Support Engineering Managers have at least 1 [OKR](/handbook/company/okrs/#what-are-okrs) each quarter. Each managers' OKR should align with one of the department level OKR's, although the scope may be smaller (confined to a region/team of direct reports rather than globally impactful). While OKR's are important, they are not the most important thing for managers to work on. To the end of effectively managing Support Engineers, a managers focus should be on:
 
-1. [KPIs](https://about.gitlab.com/handbook/support/performance-indicators/)
+1. [KPIs](/handbook/support/performance-indicators/)
 1. Team Growth (Hiring and Development)
 1. [OKRs](https://about.gitlab.com/handbook/engineering/#engineering-okr-process)
 

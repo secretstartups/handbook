@@ -26,7 +26,7 @@ with the following goals:
 The full Support Pods handbook and a list of active Support Pods can be found in
 the [Support Pods project](https://gitlab.com/gitlab-com/support/support-pods).
 The project is currently private to GitLab team members as some pages may
-contain [sensitive information](https://about.gitlab.com/handbook/legal/safe-framework/).
+contain [sensitive information](/handbook/legal/safe-framework/).
 
 ## How do I get involved?
 
@@ -50,8 +50,8 @@ This is intended to allow each Support Pod to determine their own approach to
 working with tickets and customer issues.
 
 In general, each Support Pod's approach to work should keep to the
-[Key Principles](/handbook/support/workflows/working-on-tickets.html#key-principles)
-and [Priorities & Impact](/handbook/support/workflows/working-on-tickets.html#priorities-and-impact)
+[Key Principles](/handbook/support/workflows/working-on-tickets#key-principles)
+and [Priorities & Impact](/handbook/support/workflows/working-on-tickets#priorities-and-impact)
 guidelines for working on tickets, and contribute to the team's achievement of
 positive customer outcomes.
 

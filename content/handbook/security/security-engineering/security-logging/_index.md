@@ -17,7 +17,7 @@ that improve the coverage and usability of security logging data on GitLab.
 We manage, maintain, design, configure, and document the necessary tools,
 systems and processes to make that happen.
 
-Further details can be found in the [job family description](https://handbook.gitlab.com/job-families/security/security-logging/).
+Further details can be found in the [job family description](/job-families/security/security-logging/).
 
 ## <i class="fas fa-users" id="biz-tech-icons"></i> The Team
 
@@ -78,7 +78,7 @@ The team does have set of regular synchronous calls:
 
 ### Team Pages
 
-- This [Handbook Page](https://about.gitlab.com/handbook/security/security-engineering/security-logging/), which contains general information about the team.
+- This [Handbook Page](/handbook/security/security-engineering/security-logging/), which contains general information about the team.
 - The [Security-Logging GitLab Sub-Group](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/security-logging/security-logging), which contains EPICs and repositories
 
 ### Project Management

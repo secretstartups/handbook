@@ -45,24 +45,24 @@ need to make sure that the company is building, shipping and supporting the righ
 - Experience with growth strategy and data strategy.
 - Ability to take decisions at high velocity.
 - Able to define minimum viable changes.
-- You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
+- You are living wherever you want and are excited about the [all remote](/handbook/company/culture/all-remote/) lifestyle
 
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#e-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#e-group)
 - Ability to use GitLab
 
 ## Performance Indicators
 
-- [Product Management KPI's](https://about.gitlab.com/company/kpis/#product-kpis)
+- [Product Management KPI's](/handbook/company/kpis/#product-kpis)
 
 ## Links
 
-- [Product Handbook](https://about.gitlab.com/handbook/product/)
+- [Product Handbook](/handbook/product/)
 - [Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/)
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 - 30 minute screen call with Recruiter
 - 50 minute interview with CEO

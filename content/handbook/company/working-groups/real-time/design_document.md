@@ -29,7 +29,7 @@ The objective is to implement a real-time solution that satisfies the following 
 - Deployable on self-managed instances of all sizes and GitLab.com at scale;
 - Optional and degrades gracefully;
 - Safely isolated from critical infrastructure;
-- Reuses existing code and established technology (i.e. is a [boring solution](https://about.gitlab.com/handbook/values/#boring-solutions)) where possible; and
+- Reuses existing code and established technology (i.e. is a [boring solution](/handbook/values/#boring-solutions)) where possible; and
 - Facilitates an iterative approach, starting with a small, low-risk feature.
 
 This objective is an iterative step in the long-term plan to implement real-time collaboration.

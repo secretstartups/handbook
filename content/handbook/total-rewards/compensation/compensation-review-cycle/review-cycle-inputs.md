@@ -122,7 +122,7 @@ This analysis will be conducted at the department level, for each department lea
 
 ### Process
 
-The Total Rewards Team will audit with the following data breakdowns (as aligned in our [Identity Data Metrics](https://about.gitlab.com/company/culture/inclusion/identity-data/)):
+The Total Rewards Team will audit with the following data breakdowns (as aligned in our [Identity Data Metrics](/handbook/company/culture/inclusion/identity-data/)):
 - Ethnicity (only in the United States as we work on adding globally relevant [ethnicity categories to BambooHR](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/issues/347) for self-identification)
 - Tenure
 - Gender (as self reported in BambooHR)

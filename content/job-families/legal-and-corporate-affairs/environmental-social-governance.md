@@ -6,7 +6,7 @@ title: Environmental & Social Governance (ESG)
 
 ### ESG Manager Job Grade
 
-The ESG Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The ESG Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### ESG Manager
 
@@ -41,7 +41,7 @@ The ideal candidate has deep expertise in environment, social, and governance pr
 
 ### Senior ESG Manager Job Grade
 
-The Senior ESG Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior ESG Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior ESG Manager
 
@@ -82,11 +82,11 @@ The Senior ESG Manager reports to the Senior Director, ESG, and is responsible f
 
 ### Senior Director, ESG Job Grade
 
-The Senior Director, ESG is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, ESG is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Director, ESG
 
-The Senior Director, ESG reports to the [Chief Legal Officer, Head of Corporate Affairs and Corporate Secretary](https://about.gitlab.com/job-families/legal-and-corporate-affairs/chief-legal-officer/), and is responsible for creating, maintaining and reporting on GitLab’s Environmental & Social Governance (ESG), Corporate Social Responsibility (CSR) and sustainability policies and initiatives.
+The Senior Director, ESG reports to the [Chief Legal Officer, Head of Corporate Affairs and Corporate Secretary](/job-families/legal-and-corporate-affairs/chief-legal-officer/), and is responsible for creating, maintaining and reporting on GitLab’s Environmental & Social Governance (ESG), Corporate Social Responsibility (CSR) and sustainability policies and initiatives.
 
 ### Senior Director, ESG Responsibilities
 
@@ -127,7 +127,7 @@ Information regarding growth for the ESG job family will be provided in the Lega
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Selected candidates will be invited to schedule a 30-minute screening call with our Global Recruiters.
 - Candidates will be invited to schedule an interview with our Senior Director of Legal, ESG.
@@ -136,4 +136,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule an interview with our Chief Legal Officer (as applicable).
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

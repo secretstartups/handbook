@@ -39,7 +39,7 @@ This is a future level where we will outline the requirements and responsibiliti
 
 #### Senior Manager, Infrastructure Technical Program Management Job Grade
 
-The role is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The role is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Infrastructure Technical Program Management Responsibilities
 
@@ -56,7 +56,7 @@ This position reports to the Vice President of Infrastructure & Quality at GitLa
 
 #### Director, Infrastructure Technical Program Management Job Grade
 
-The role is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The role is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Infrastructure Technical Program Management Responsibilities
 
@@ -100,9 +100,9 @@ For details on the Infrastructure organization leadership roles, to include the 
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-1. Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+1. Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 1. Candidates will be invited to schedule a 50-minute interview with the VP of Infrastructure & Quality.
 1. Candidates will be invited to schedule a 50-minute interview with a Director/Sr. Director of Infrastructure.
 1. Candidates will be invited to schedule a 50-minute interview with a Manager/Sr. Manager of Infrastructure.
@@ -110,4 +110,4 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Candidates will be invited to schedule a 50-minute interview with the CTO.
 1. Candidates may be asked to schedule a final 30-minute discussion with the VP of Infrastructure & Quality.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

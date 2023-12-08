@@ -28,7 +28,7 @@ The process is designed with these constraints in mind:
 
 - aligned with our [values]({{< ref "values" >}})
 - asynchronous
-- [self-service](https://about.gitlab.com/company/culture/all-remote/self-service/) as much as possible
+- [self-service](/handbook/company/culture/all-remote/self-service/) as much as possible
 - avoid being a bottleneck in the software development life cycle
 - deliberately simple and concise
 - automated as much as possible
@@ -210,7 +210,7 @@ Make attacks less attractive.
 
 #### Links
 
-- [Zero Trust]({{< ref "../_index.md#zero-trust" >}}) at GitLab
+- [Zero Trust]({{< ref "/handbook/security/architecture/zero-trust" >}}) at GitLab
 
 </details>
 
@@ -396,7 +396,7 @@ aka Fail Safe Defaults.
 #### Links
 
 - <https://en.wikipedia.org/wiki/Defense_in_depth_(computing)>
-- [Zero Trust]({{< ref "../_index.md#zero-trust" >}}) at GitLab
+- [Zero Trust]({{< ref "/handbook/security/architecture/zero-trust" >}}) at GitLab
 
 </details>
 

@@ -31,7 +31,7 @@ The payroll department is responsible for processing and distributing payroll in
 
 ## Job Grades
 
-Read more about GitLab [Job Grades](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+Read more about GitLab [Job Grades](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Payroll Specialist
 
@@ -39,7 +39,7 @@ The Payroll Specialist reports directly to the Manager, International Payroll (E
 
 ### Payroll Specialist Job Grade
 
-The Payroll Specialist is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Payroll Specialist is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Payroll Specialist Responsibilities
 
@@ -62,7 +62,7 @@ The Payroll Analyst, US reports directly to the Senior Manager, Global Payroll O
 
 ### Payroll Analyst, US Job Grade
 
-The Payroll Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Payroll Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Payroll Analyst, US Responsibilities
 
@@ -94,7 +94,7 @@ The Payroll Analyst, EMEA/APAC/LATAM reports directly to the Manger, Internation
 
 ### Payroll Analyst, EMEA/APAC,LATAM Job Grade
 
-The Payroll Analyst, EMEA/APAC/LATAM is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Payroll Analyst, EMEA/APAC/LATAM is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Payroll Analyst, EMEA/APAC,LATAM Responsibilities
 
@@ -126,7 +126,7 @@ The Senior Payroll Analyst reports directly to the Manger, International Payroll
 
 ### Senior Payroll Analyst Job Grade
 
-The Senior Payroll Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Payroll Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Payroll Analyst Responsibilities
 
@@ -214,17 +214,51 @@ The Manager, Payroll is a grade 8.
 - Experience with international payroll
 - Experience with CloudPay a plus
 
+## Manager, Global Payroll Operations
+
+The Manager, Global Payroll Operations reports directly to the Director, Global Payroll Operations.
+
+### Manager, Global Payroll Operations Job Grade
+
+The Manager, Global Payroll Operations is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Manager, Global Payroll Operations Responsibilities
+
+- Manage global operations of payroll for an assigned number of countries
+- Provides oversight of Professional Employer Organization’s (“PEOs”) and partners with the People Team where necessary to hold them accountable to SLAs for payroll.
+- Helps resolve team member issues that arise with taxation treatment including of equity transactions
+- Proactive research of various tax treatment for payroll in new and existing countries including equity income reporting requirements
+Serves as a point person for country compensation/payroll audits and helps coordinate cross-functional responses to audit requests.  Identifies and resolves discrepancies
+- In collaboration with the general ledger accounting team, helps streamline the payroll accounting process.
+- Contributes to the strategic direction for the payroll function while meeting key controls and payroll compliance
+- Partner with Legal, Tax, and Country conversion teams for international expansion projects
+- Project manager for payroll when changing PEOs in partnership with People Group
+- Develop internal relationships and vendor partnerships to improve process efficiencies
+- Ensure all operational processes are controlled from a risk perspective, and have built-in control plans and assessments to regularly review their effectiveness
+- Assist the International Payroll Manager as needed with the set up of payroll processes in new countries as we expand operations
+- Ensure stock activity is properly processed and reported
+- Serve as a subject matter expert and point of contact for escalations and various ad hoc requests
+- Be a role model for the team, and develop a strong sense of shared team vision
+- Maintains professional and technical knowledge by attending educational workshops and reviewing professional publications
+- Work with PeopleOps, Legal, Tax and Accounting to ensure compliance with all laws, tax reporting and other duties as needed
+
+### Manager, Global Payroll Operations Requirements
+
+- 6+ years of experience in international payroll processing
+- Experience with global third party payroll providers
+- Payroll accounting experience
+
 ## Senior Manager, Global Payroll Operations
 
-The Senior Manager, Global Payroll Operations reports directly to the Senior Director, Controller.
+The Senior Manager, Global Payroll Operations reports directly to the Director, Global Payroll Operations.
 
 ### Senior Manager, Global Payroll Operations Job Grade
 
-The Senior Manager, Global Payroll Operations is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Global Payroll Operations is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Manager, Global Payroll Operations Responsibilities
 
-- Extends the Manager, International Payroll (EMEA, APAC, LATAM) Responsibilities
+- Extends the Manager, Global Payroll Operations responsibilities
 - Manage overall global operations of payroll for 65+ countries
 - Leads the strategic direction for the payroll processes while meeting key controls and payroll compliance
 - Manage and mentor the payroll team
@@ -254,14 +288,15 @@ The Senior Manager, Global Payroll Operations is a [grade 9](https://about.gitla
 
 ### Senior Manager, Global Payroll Operations Requirements
 
-- Extends the Manager, International Payroll (EMEA, APAC, LATAM) Requirements
-- 8+ years of experience as a payroll administrator.
+- Extends the Manager, Global Payroll Operations requirements
+- 8+ years of experience as a payroll administrator
+- Experience managing people
 - Experience with large payroll platforms such as ADP or Paychex
 - CPP a plus
 
 ## Director, Global Payroll Operations
 
-The Director, Global Payroll Operations is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Global Payroll Operations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Director, Global Payroll Operations Responsibilities
 
@@ -287,14 +322,14 @@ The Director, Global Payroll Operations is a [grade 10](https://about.gitlab.com
 - Knowledge of ADP and Workday preferred
 - Experience working predominantly within Slack highly preferred
 - You share our [values](/handbook/values/), and work in accordance with those values
-- [Leadership](https://about.gitlab.com/company/team/structure/#director-group) at GitLab
+- [Leadership](/handbook/company/team/structure/#director-group) at GitLab
 - Ability to use GitLab
 
 ## Performance Indicators
 
-- [Payroll accuracy for each check date](https://about.gitlab.com/handbook/finance/payroll/#payroll-accuracy-for-each-check-date--100)
-- [Payroll journal entry reports submitted to Accounting](https://about.gitlab.com/handbook/finance/payroll/#payroll-journal-entry-reports-submitted-to-accounting--payroll-date--2-business-days)
-- [Percentage of ineffective SOX Controls](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Payroll accuracy for each check date](/handbook/finance/payroll/#payroll-accuracy-for-each-check-date--100)
+- [Payroll journal entry reports submitted to Accounting](/handbook/finance/payroll/#payroll-journal-entry-reports-submitted-to-accounting--payroll-date--2-business-days)
+- [Percentage of ineffective SOX Controls](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
 
 ## Career Ladder
 
@@ -302,7 +337,7 @@ The next step in the Payroll job family is to move to an Accounting leadership r
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their title on our [team page](/handbook/company/team/).
 
 - 30 minute screening call with our Recruiters
 - 50 minute interview with Hiring Manager
@@ -310,4 +345,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - 30 minute interview with our Senior Manager, Total Rewards
 - 45 minute interview with an Executive for any Manager and above role
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/)
+Additional details about our process can be found on our [hiring page](/handbook/hiring/)

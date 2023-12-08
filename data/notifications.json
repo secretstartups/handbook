@@ -5,7 +5,7 @@
         "type": "warning",
         "icon": "fa-regular fa-triangle-exclamation",
         "title": "Handbook Migration Notice",
-        "messageHTML": "<p><strong>We are currently migrating content from about.gitlab.com</strong><p>During our migration period you will find links point to this site and others to our about.gitlab.com site.  Additionally Site search results will be incomplete.</p>",
+        "messageHTML": "<p><strong>We are currently migrating content from about.gitlab.com</strong><p>During our migration period, you will find that some links point to this site and others to about.gitlab.com site.  Additionally, search results will be incomplete.</p>",
         "posted": "2023-07-19 20:00:00",
         "expires": "2024-07-19 20:00:00",
         "autohide": false
@@ -14,7 +14,7 @@
         "id": "F9A827C3-ED85-442B-B6CA-77A18FAE3F4E",
         "type": "info",
         "icon": "fa-solid fa-circle-info",
-        "title": "Page has been update",
+        "title": "Page has been updated",
         "url": "/",
         "messageHTML": "<p>The GitLab Handbook homepage has been updated with a new look.</p>",
         "posted": "2023-07-20 16:54:00",

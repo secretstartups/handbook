@@ -33,9 +33,9 @@ Process to be added below.
 
 | DRI | Role |
 | --- | --- |
-| [Mek Stittri](https://about.gitlab.com/company/team/#meks) | Engineering DRI |
-| [Kevin Chu](https://about.gitlab.com/company/team/#kevinchu) | Product DRI |
-| [Lin Jen-Shin](https://about.gitlab.com/company/team/#godfat) | Engineering Facilitator |
+| [Mek Stittri](/handbook/company/team/#meks) | Engineering DRI |
+| [Kevin Chu](/handbook/company/team/#kevinchu) | Product DRI |
+| [Lin Jen-Shin](/handbook/company/team/#godfat) | Engineering Facilitator |
 
 ### Projects
 
@@ -43,8 +43,8 @@ JiHu team projects are located at <https://jihulab.com/gitlab-cn/>. Mirrored pro
 
 Even though most of the JiHu projects are moved to JiHuLab.com, some projects
 are still under the [gitlab-jh](https://gitlab.com/gitlab-jh/) group.
-To request access please reach out to [Kevin](https://about.gitlab.com/company/team/#kevinchu) or
-[Mek](https://about.gitlab.com/company/team/#meks) to provision.
+To request access please reach out to [Kevin](/handbook/company/team/#kevinchu) or
+[Mek](/handbook/company/team/#meks) to provision.
 
 | GitLab Inc Project                                      | JiHu Project                                               |
 |---------------------------------------------------------|------------------------------------------------------------|
@@ -91,7 +91,7 @@ To notify JiHu of an upcoming security release, please simply post a comment in:
 
 GitLab Inc will follow the [documented vulnerability disclosure process](https://about.gitlab.com/security/disclosure/#vulnerability-disclosure) and will not provide detailed information about vulnerabilities directly to JiHu. No information will be shared prior to or during an in-progress security release.
 
-Only after a GitLab [security release](https://about.gitlab.com/handbook/security/#security-releases), GitLab Inc may provide JiHu with:
+Only after a GitLab [security release](/handbook/security/#security-releases), GitLab Inc may provide JiHu with:
 
 - A link to the public security release blog post
 - A link to the GitLab issue describing the vulnerability, which will remain confidential until 30 days after the release in which the vulnerability was patched
@@ -144,7 +144,7 @@ GitLab Product Designers are responsible for reviews and guidance and should not
 
 **Process**
 
-Once a Product Designer gets pinged on an issue that JiHu intends to contribute upstream, the Product Designer reviews whether that issue already has a clear proposal that does not conflict with our [Pajamas guidelines](https://design.gitlab.com), the [Product principles](https://about.gitlab.com/handbook/product/product-principles) or planned work of their team.
+Once a Product Designer gets pinged on an issue that JiHu intends to contribute upstream, the Product Designer reviews whether that issue already has a clear proposal that does not conflict with our [Pajamas guidelines](https://design.gitlab.com), the [Product principles](/handbook/product/product-principles) or planned work of their team.
 
 If there is no clear design proposal yet, or there are conflicts with Pajamas or the Product principles, the designer leaves a comment about what is required before the issue should go into implementation.
 
@@ -165,7 +165,7 @@ In the interest of creating IP, JiHu will take on larger product initiatives tha
 
 GitLab Product Managers are not responsible for JiHu product decisions, but collaboration and feedback with JiHu Product Managers is encouraged and appreciated.
 
-- Just like [PMs aren't the arbiters of community contribution](https://about.gitlab.com/handbook/product/product-processes/#gitlab-pms-arent-the-arbiters-of-community-contributions), product managers are not the arbiter of what the JiHu team works on
+- Just like [PMs aren't the arbiters of community contribution](/handbook/product/product-processes/#gitlab-pms-arent-the-arbiters-of-community-contributions), product managers are not the arbiter of what the JiHu team works on
 - Product managers are not responsible for JiHu product decisions, such as tiering, pricing
 - When reviewing JiHu milestone planning:
    1. Be aware of JiHu's plans in your product area.
@@ -180,5 +180,5 @@ We differentiate proprietary features for JiHu distributions by including them i
 ## Links
 
 - [GitLab licensed its technology to new independent Chinese company](https://about.gitlab.com/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/)
-- [GitLab licensing technology to independent Chinese company FAQ](https://about.gitlab.com/handbook/faq-gitlab-licensing-technology-to-independent-chinese-company/)
-- [China Service Working Group](https://about.gitlab.com/company/team/structure/working-groups/china-service/)
+- [GitLab licensing technology to independent Chinese company FAQ](/handbook/faq-gitlab-licensing-technology-to-independent-chinese-company/)
+- [China Service Working Group](/handbook/company/team/structure/working-groups/china-service/)

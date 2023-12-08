@@ -1,6 +1,6 @@
 ---
 title: "Security Department Gearing Ratios"
-description: Gearing ratios are used as [Business Drivers](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#business-drivers-also-known-as-gearing-ratios) to forecast long term financial goals by function.
+description: Gearing ratios are used as [Business Drivers](/handbook/finance/financial-planning-and-analysis/#business-drivers-also-known-as-gearing-ratios) to forecast long term financial goals by function.
 ---
 
 ## Bug bounties

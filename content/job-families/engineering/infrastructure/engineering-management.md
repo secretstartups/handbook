@@ -5,11 +5,11 @@ title: "Engineering Management - Infrastructure"
 ## Manager, Infrastructure
 
 The Manager, Infrastructure has a primary focus on hiring and building a world-class team, and putting them in the optimal position to succeed.
-They need to be familiar with GitLab's underlying technologies and processes to be able to support their teams growth, as well as be the final conclusive vote in cases where the team is blocked on a path forward. They must also efficiently coordinate across departments to accomplish collaborative goals. More on [Leadership at GitLab in our handbook](https://about.gitlab.com/handbook/leadership/#management-group).
+They need to be familiar with GitLab's underlying technologies and processes to be able to support their teams growth, as well as be the final conclusive vote in cases where the team is blocked on a path forward. They must also efficiently coordinate across departments to accomplish collaborative goals. More on [Leadership at GitLab in our handbook](/handbook/leadership/#management-group).
 
 ### Job Grade
 
-The Manager, Infrastructure is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Infrastructure is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -129,14 +129,14 @@ They are capable of managing multiple teams within a specialty, and their projec
 
 #### Senior Engineering Manager, Infrastructure (Platform) Job Grade
 
-The Senior Engineering Manager, Infrastructure is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Engineering Manager, Infrastructure is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
 - Manage the Delivery and Scalability Infrastructure teams
 - Conduct managerial interviews for candidates, and train engineering managers to do said interviews
 - Generate and implement process improvements, especially cross-team processes
-- Hold regular [1:1s](https://about.gitlab.com/handbook/leadership/1-1/) with team managers and skip-level 1:1s with all members of their team
+- Hold regular [1:1s](/handbook/leadership/1-1/) with team managers and skip-level 1:1s with all members of their team
 - Management mentorship
 - Participate in either the [Release Manager rotation](https://gitlab.com/gitlab-org/release/docs/-/tree/master/release_manager#responsibilities) **OR** the [Incident Management on-call rotation](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure that the availability goals for GitLab.com are met.
 
@@ -158,7 +158,7 @@ The Senior Engineering Manager, Infrastructure is a [grade 9](https://about.gitl
 - Experience working on systems at massive (i.e. consumer) scale
 - Deep open source experience
 - Experience working with global teams
-- We value [diversity, inclusion and belonging](https://about.gitlab.com/company/culture/inclusion/) for all team members
+- We value [diversity, inclusion and belonging](/handbook/company/culture/inclusion/) for all team members
 - Be inquisitive: Ask great question
 - Hire and manage multiple teams that live our [values](/handbook/values/)
 - Maintain an environment where Team Members can thrive and the team produces [Results](/handbook/values/#results)
@@ -169,7 +169,7 @@ The Director, Infrastructure (Reliability) manages the Engineering Reliability t
 
 #### Director, Infrastructure (Reliability) Job Grade
 
-The Director, Infrastructure is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Infrastructure is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Infrastructure (Reliability) Responsibilities
 
@@ -208,7 +208,7 @@ The Senior Director, Infrastructure leads one or more compartments within Infras
 
 #### Senior Director, Infrastructure Job Grade
 
-The Senior Director, Infrastructure is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Infrastructure is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, Infrastructure Responsibilities
 
@@ -242,7 +242,7 @@ The VP of Infrastructure manages multiple teams that work on GitLab.com and cont
 
 #### VP of Infrastructure Job Grade
 
-The VP of Infrastructure is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of Infrastructure is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### VP of Infrastructure Responsibilities
 

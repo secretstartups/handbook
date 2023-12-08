@@ -16,8 +16,8 @@ description: "Learn more about Purchasing Reliability Working Group attributes, 
 ## Business Goals
 
 A purchase and ordering system that is well-documented and easily understood by all stakeholders.
-The system will be resiliant, reliable, and observable from the ground-up.
-In addition to addressing our current use-cases, the system will easily accomodate the addition
+The system will be resilient, reliable, and observable from the ground up.
+In addition to addressing our current use-cases, the system will easily accommodate the addition
 of new purchasing workflows (like channel partners), metered billing, and project Horse.
 Finally, this should all be achieved without sacrifices to the buyer experience. Touchpoints with
 the product(s) should be even more seamless than they are today, especially if/as we begin surfacing
@@ -27,16 +27,16 @@ up-sell opportunities directly in the product.
 
 ### What is Purchasing?
 
-At GitLab, "fulfillment" generally refers to the [Fulfillment Sub-department](/handbook/engineering/development/fulfillment/) of Engineering.
+At GitLab, "fulfillment" generally refers to the [Fulfillment Sub-department](https://about.gitlab.com/handbook/engineering/development/fulfillment/) of Engineering.
 
-To avoid confusion, this Working Group uses "purchasing" as an all-encompasing term to describe
+To avoid confusion, this Working Group uses "purchasing" as an all-encompassing term to describe
 the end-to-end purchasing experience including (but not necessarily limited to) ordering, billing,
 licensing, fulfillment, and all of our internal workflows
 (like lead generation for Sales, and reporting for Finance).
 
 Be aware if you see the term "fulfillment" used casually in the context of this Working Group,
 it is likely referring to the entire "purchasing system", not the
-[Fulfillment Sub-department](/handbook/engineering/development/fulfillment/) specifically.
+[Fulfillment Sub-department](https://about.gitlab.com/handbook/engineering/development/fulfillment/) specifically.
 
 ## Related Projects & Documentation
 
@@ -50,7 +50,7 @@ it is likely referring to the entire "purchasing system", not the
 ### Prior Art
 
 - Commercial & Licensing Working Group
-  - [Handbook Page](https://about.gitlab.com/company/team/structure/working-groups/commercial-licensing/)
+  - [Handbook Page](/handbook/company/team/structure/working-groups/commercial-licensing/)
   - [Agenda Doc](https://docs.google.com/document/d/1ayKH7rSKTCzjZojd15YFRk-T18xt-aznSNR-R4pFXnM/edit#heading=h.7liqin7jry4)
   - **Purpose:** Define business & customer experience requirements for a system to handle commercial and licensing transactions into the future.
   - **Outcomes:**
@@ -62,8 +62,8 @@ it is likely referring to the entire "purchasing system", not the
 Infrastructure team is committed to supporting Fulfillment in the migration of CustomersDot
 from the legacy Azure VM to GCP by the end of 2022-01. See the discussion in [2021-11-30 Engineering Allocation Review](https://docs.google.com/document/d/1j_9P8QlvaFO-XFoZTKZQsLUpm1wA2Vyf_Y83-9lX9tg/edit)) for details.
 
-This will help bring CustomersDot inline with the rest of our application stack in terms of how it is operated,
-but the application will still need to be instrumented and alerting configured in order to address our current
+This will help bring CustomersDot in line with the rest of our application stack in terms of how it is operated,
+but the application will still need to be instrumented and alerting configured to address our current
 lack of observability and insight into this app.
 
 ### Engineering (Fulfillment)
@@ -73,19 +73,19 @@ lack of observability and insight into this app.
 
 ### Enterprise Apps
 
-- [Quote to Cash](https://about.gitlab.com/handbook/business-technology/enterprise-applications/quote-to-cash/)
+- [Quote to Cash](/handbook/business-technology/enterprise-applications/quote-to-cash/)
 - [Platypus](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus)
 - [gitlab-com/business-technology/enterprise-apps&293](https://gitlab.com/groups/gitlab-com/business-technology/enterprise-apps/-/epics/293): Distributor e-Marketplace
 
 ### Sales
 
-- [Sales Systems](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/) (i.e. Salesforce)
+- [Sales Systems](/handbook/sales/field-operations/sales-systems/) (i.e. Salesforce)
 - [Internal Sales Handbook Definitions](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.4z6lmbtfepzq)
-- [Booking Metric Technical Docs](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/sfdc-booking-metric-fields/)
+- [Booking Metric Technical Docs](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/sfdc-booking-metric-fields/)
 
 ## Exit Criteria
 
-The charter of this working group is to obtain alignment between stackholders (i.e. Engineering (Development),
+The charter of this working group is to obtain alignment between stakeholders (i.e. Engineering (Development),
 Enterprise Apps, Sales, and Finance). This includes addressing some immediate-term technical debt as well as
 defining a clear vision and team/service boundaries going forward.
 

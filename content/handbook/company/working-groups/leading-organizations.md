@@ -16,7 +16,7 @@ status: active
 
 ### Business Goal
 
-Increase the number of unique monthly contributors by recognizing and incentivizing organizations who are among our most active contributors. This will create internal experts at GitLab organizations and ensure customers see it as their own product. This initiative supports our mission and our [dual flywheel](https://about.gitlab.com/company/strategy/#dual-flywheels) strategy where increasing wider community contributions leads to more users, thus higher revenue.
+Increase the number of unique monthly contributors by recognizing and incentivizing organizations who are among our most active contributors. This will create internal experts at GitLab organizations and ensure customers see it as their own product. This initiative supports our mission and our [dual flywheel](/handbook/company/strategy/#dual-flywheels) strategy where increasing wider community contributions leads to more users, thus higher revenue.
 
 ### Proposed Exit Criteria
 

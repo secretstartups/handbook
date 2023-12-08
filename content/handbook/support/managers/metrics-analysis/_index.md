@@ -18,9 +18,9 @@ description: "Support team metrics analysis workgroup overview"
 
 ### KPIs that triggered this action
 
-- [Support Satisfaction (SSAT)](https://about.gitlab.com/handbook/support/performance-indicators/#support-satisfaction-ssat): Target 95%
+- [Support Satisfaction (SSAT)](/handbook/support/performance-indicators/#support-satisfaction-ssat): Target 95%
   - Trending down since May: [Support Metrics::SSAT](https://gitlab.zendesk.com/explore/dashboard/36925DBD1F5E3C7BA541DB38D11AC51E0EAAFDD30DCB63FDE83CF1389E555D96/tab/10099352) in Explore (GitLab internal)
-- [Service Level Agreement (SLA)](https://about.gitlab.com/handbook/support/performance-indicators/#service-level-agreement-sla)
+- [Service Level Agreement (SLA)](/handbook/support/performance-indicators/#service-level-agreement-sla)
   - First Reply Time: Target 95%
     - Trending down since May: [Support Metrics::SLA](https://gitlab.zendesk.com/explore/dashboard/36925DBD1F5E3C7BA541DB38D11AC51E0EAAFDD30DCB63FDE83CF1389E555D96/tab/10100682) in Explore (GitLab internal)
 
@@ -47,4 +47,4 @@ description: "Support team metrics analysis workgroup overview"
 1. [Metrics Hypothesis Board](https://gitlab.com/gitlab-com/support/metrics/-/boards/2007128) to track outstanding hypothesis
 1. [FY21-Q3 Working Group Milestone](https://gitlab.com/gitlab-com/support/metrics/-/milestones/1) to show a burndown chart.
 1. [Metrics Workgroup Issue Template](https://gitlab.com/gitlab-com/support/metrics/-/blob/master/.gitlab/issue_templates/Metrics%20Workgroup.md) to provide instructions for how a metrics workgroup is formed.
-1. [Metrics Hypothesis and Actions](/handbook/support/managers/metrics-analysis/actions.html) to track common hypotheses, data collection methodologies and actions.
+1. [Metrics Hypothesis and Actions](/handbook/support/managers/metrics-analysis/actions) to track common hypotheses, data collection methodologies and actions.

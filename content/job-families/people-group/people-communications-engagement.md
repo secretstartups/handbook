@@ -10,7 +10,7 @@ The People Communications & Engagement Associate reports to the Senior Manager, 
 
 #### People Communications & Engagement Associate Job Grade
 
-The People Communications & Engagement Associate is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The People Communications & Engagement Associate is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### People Communications & Engagement Associate Responsibilities
 
@@ -37,7 +37,7 @@ The People Communications & Engagement Program Manager reports to the Senior Man
 
 #### People Communications & Engagement Program Manager Job Grade
 
-The People Communications & Engagement Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The People Communications & Engagement Program Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### People Communications & Engagement Program Manager Responsibilities
 
@@ -66,7 +66,7 @@ The Senior People Communications & Engagement Program Manager reports to the Sen
 
 #### Senior People Communications & Engagement Program Manager Job Grade
 
-The Senior People Communications & Engagement Program Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior People Communications & Engagement Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior People Communications & Engagement Program Manager Responsibilties
 
@@ -99,7 +99,7 @@ The Staff People Communications & Engagement Manager reports to the Senior Manag
 
 #### Staff People Communications & Engagement Manager Job Grade
 
-The Staff People Communications & Engagement Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff People Communications & Engagement Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff People Communications & Engagement Manager Responsibilities
 
@@ -119,7 +119,7 @@ The Senior Manager, People Communications & Engagement reports to the [Senior Di
 
 #### Senior Manager, People Communications & Engagement Job Grade
 
-The Senior Manager, People Communications & Engagement is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, People Communications & Engagement is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, People Communications & Engagement Responsibilities
 
@@ -158,7 +158,7 @@ The Director, People Communications & Engagement reports to the [Senior Director
 
 #### Director, People Communications & Engagement Job Grade
 
-The Director, People Communications & Engagement is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, People Communications & Engagement is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, People Communications & Engagement Responsibilities
 
@@ -193,8 +193,8 @@ The Director, People Communications & Engagement is a [grade 10](https://about.g
 
 ## Performance Indicators
 
-- [Team member engagement survey score](https://about.gitlab.com/handbook/people-group/engagement/)
-- [Team member retention](https://about.gitlab.com/handbook/people-group/people-group-metrics/#team-member-retention)
+- [Team member engagement survey score](/handbook/people-group/engagement/)
+- [Team member retention](/handbook/people-group/people-group-metrics/#team-member-retention)
 - [Team member sentiment about working at GitLab](https://www.greatplacetowork.com/certified-company/7013799)
 - Qualitative feedback from GitLab senior leaders
 - Ad hoc feedback from team members on specific programs and initiatives
@@ -205,11 +205,11 @@ The next step in the Internal Communications job family is to move to a senior l
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Qualified candidates will be invited to schedule a 30 minute screening call with one of our recruiters
 - Next, qualified candidates will meet with the hiring manager
 - Next, qualified candidates will be asked to supply a writing sample and complete a short writing assignment (e.g. up to 500 words, which will be detailed by the hiring manager)
 - Next, qualified candidates will meet with 2 - 4 team members.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

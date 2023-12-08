@@ -352,6 +352,8 @@ If you do not qualify for Statutory Maternity Pay, you may qualify for [Maternit
 
 The following leave types run concurrently with GitLab PTO. Team members should initiate leave by selecting the appropriate option in `Time Off by Deel`. If none applies, the team members should notify their manager and the Absence Management team `leaves@gitlab.com` to initiate leave.
 
+**Carer's Leave:** Team members are entitled to at least one week of unpaid leave (pro-rated) each year to provide or arrange care for a dependent with a long-term care need.
+
 **Magistrate Duty:** Any team member who is a magistrate is entitled to leave to carry out their duties. Magistrates will need to be in court for at least 13 days or 26 half-days per year.
 
 **Justice of the Peace (Scotland):** Any team member who is a Justice of the Peace is entitled to leave to carry out their duties.
@@ -364,7 +366,7 @@ The following leave types run concurrently with GitLab PTO. Team members should 
 
 ## Employers' Liability Insurance
 
-You can view the `Certificate of Employers' Liability Insurance` [here](https://drive.google.com/file/d/1r6ejQjLgUEc0seTbKnqzSF6JqV4bneO4/view?usp=sharing).
+You can view the `Certificate of Employers' Liability Insurance` [here](https://drive.google.com/file/d/1RCbwcUClPUxmkJALT9Ojk_TdTyCWOHgs/view?usp=sharing).
 
 ## Monthly Medical Bill Payments
 

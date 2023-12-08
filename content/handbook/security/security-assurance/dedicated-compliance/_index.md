@@ -26,7 +26,7 @@ As a member of the [Security Assurance]({{< ref "security-assurance" >}}) sub-de
    - Tracking remediation plans to completion
 1. [Continuous Monitoring of GitLab's Security Controls]({{< ref "sec-controls" >}}) which are mapped to applicable regulatory requirements and security certifications/frameworks we have committed to.
    - [User Access Reviews]({{< ref "access-reviews" >}})
-   - [Business Continuity Plan (BCP)](https://about.gitlab.com/handbook/business-technology/gitlab-business-continuity-plan/) and [Information System Continuity (ISCP)]({{< ref "information-system-contingency-plan-iscp" >}}) testing
+   - [Business Continuity Plan (BCP)](/handbook/business-technology/gitlab-business-continuity-plan/) and [Information System Continuity (ISCP)]({{< ref "information-system-contingency-plan-iscp" >}}) testing
 1. Industry and Regulatory Monitoring and Insights
    - Monitoring drafts and changes to relevant laws, executive orders, directives, regulations, policies, standards, and guidelines.
    - Collaborating on responses to relevant RFIs, RFQs, RFPs, and requests for public comment.

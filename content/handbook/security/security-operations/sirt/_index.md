@@ -17,23 +17,26 @@ Ensure maximum operational uptime of mission critical infrastructure and informa
 
 ### Team Members
 
-The following people are permanent members of the SIRT
-
-|Person|Role|
+| | |
 |---|---|
-|Joaquin Fuentes|[Director, Security Operations](/job-families/security/security-incident-response-team/#manager-security-incident-response-team)|
-|Valentine Mairet|[Security Manager, SIRT](/job-families/security/security-incident-response-team/#manager-security-incident-response-team)|
-|Matt Coons|[Security Manager, SIRT]({{< ref "security-incident-response-team#manager-security-incident-response-team" >}})|
-|Shrishti Choudhary|[Security Manager, SIRT]({{< ref "security-incident-response-team#manager-security-incident-response-team" >}})|
-|Mitra Jozenazemian|[Staff Security Engineer, SIRT]({{< ref "security-incident-response-team#staff-security-incident-response-team-engineer" >}})|
-|Harjeet Sharma|[Staff Security Engineer, SIRT]({{< ref "security-incident-response-team#staff-security-incident-response-team-engineer" >}})|
-|Janina Roppelt|[Senior Security Engineer, SIRT]({{< ref "security-incident-response-team#senior-security-incident-response-team-engineer" >}})|
-|Laurens Van Dijk|[Senior Security Engineer, SIRT]({{< ref "security-incident-response-team#senior-security-incident-response-team-engineer" >}})|
-|Chathura Kuruwita|[Senior Security Engineer, SIRT]({{< ref "security-incident-response-team#senior-security-incident-response-team-engineer" >}})|
-|Sean Gillespie|[Senior Security Engineer, SIRT]({{< ref "security-incident-response-team#senior-security-incident-response-team-engineer" >}})|
-|Bala Allam|[Security Engineer, SIRT]({{< ref "security-incident-response-team#security-incident-response-team-engineer-intermediate" >}})|
-|Leslie Anzures|[Security Engineer, SIRT]({{< ref "security-incident-response-team#security-incident-response-team-engineer-intermediate" >}})|
-|Ellis Coulson|[Security Engineer, SIRT]({{< ref "security-incident-response-team#security-incident-response-team-engineer-intermediate" >}})|
+|Matt Coons|[Security Manager]({{< ref "security-incident-response-team#manager-security-incident-response-team" >}})|
+|Shrishti Choudhary|[Security Manager]({{< ref "security-incident-response-team#manager-security-incident-response-team" >}})|
+|Valentine Mairet|[Security Manager]({{< ref "security-incident-response-team#manager-security-incident-response-team" >}})|
+
+| | |
+|---|---|
+|Bala Allam|[Senior Security Engineer]({{< ref "security-incident-response-team#senior-security-incident-response-team-engineer" >}})|
+|Chathura Kuruwita|[Senior Security Engineer]({{< ref "security-incident-response-team#senior-security-incident-response-team-engineer" >}})|
+|Ellis Coulson|[Security Engineer]({{< ref "security-incident-response-team#security-incident-response-team-engineer-intermediate" >}})|
+|Harjeet Sharma|[Staff Security Engineer]({{< ref "security-incident-response-team#staff-security-incident-response-team-engineer" >}})|
+|Janina Roppelt|[Senior Security Engineer]({{< ref "security-incident-response-team#senior-security-incident-response-team-engineer" >}})|
+|Jason Hawkins|[Senior Security Engineer]({{< ref "security-incident-response-team#senior-security-incident-response-team-engineer" >}})|
+|Laurens Van Dijk|[Senior Security Engineer]({{< ref "security-incident-response-team#senior-security-incident-response-team-engineer" >}})|
+|Leslie Anzures|[Security Engineer]({{< ref "security-incident-response-team#security-incident-response-team-engineer-intermediate" >}})|
+|Mitra Jozenazemian|[Staff Security Engineer]({{< ref "security-incident-response-team#staff-security-incident-response-team-engineer" >}})|
+|Neil McDonald|[Senior Security Engineer]({{< ref "security-incident-response-team#senior-security-incident-response-team-engineer" >}})|
+|Sean Gillespie|[Senior Security Engineer]({{< ref "security-incident-response-team#senior-security-incident-response-team-engineer" >}})|
+|Yunus Khan|[Senior Security Engineer]({{< ref "security-incident-response-team#senior-security-incident-response-team-engineer" >}})|
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> Services We Provide:
 
@@ -51,7 +54,7 @@ The following people are permanent members of the SIRT
 
 ## <i class="fas fa-bullseye" id="biz-tech-icons"></i> Engaging SIRT
 
-The [SIRT]({{< ref "." >}}) is on-call [24/7/365](https://about.gitlab.com/handbook/on-call/#security-team-on-call-rotation) to assist with any security incidents. If an urgent security incident has been identified or you suspect an incident may have occurred, please refer to [Engaging the Security Engineer On-Call]({{< ref "engaging-security-on-call" >}}).
+The [SIRT]({{< ref "." >}}) is on-call [24/7/365](/handbook/on-call/#security-team-on-call-rotation) to assist with any security incidents. If an urgent security incident has been identified or you suspect an incident may have occurred, please refer to [Engaging the Security Engineer On-Call]({{< ref "engaging-security-on-call" >}}).
 
 Information about SIRT responsibilities and incident ownership is available in the [SIRT On-Call Guide]({{< ref "secops-oncall" >}}).
 
@@ -61,7 +64,7 @@ As part of the incident management and review process the SIRT maintains a recur
 
 ## Limited Access
 
-Information about security incidents or investigations is considered [limited access]({{< ref "confidentiality-levels#limited-access" >}}) and is not shared with all team members. After being resolved, a determination will be made as to whether or not the incident or investigation issue contains [Materially Non-Public Information (MNPI)](https://about.gitlab.com/handbook/product/product-safe-guidance/#materially-non-public-information). Only incidents or investigation issues that do not contain MNPI will be made visible to GitLab team members. More information about how this aligns with [GitLab's value of Transparency]({{< ref "values#transparency" >}}) can be found on the [Transparency by Default page]({{< ref "transparency-by-default" >}}). The workflow for this is:
+Information about security incidents or investigations is considered [limited access]({{< ref "confidentiality-levels#limited-access" >}}) and is not shared with all team members. After being resolved, a determination will be made as to whether or not the incident or investigation issue contains [Materially Non-Public Information (MNPI)](/handbook/product/product-safe-guidance/#materially-non-public-information). Only incidents or investigation issues that do not contain MNPI will be made visible to GitLab team members. More information about how this aligns with [GitLab's value of Transparency]({{< ref "values#transparency" >}}) can be found on the [Transparency by Default page]({{< ref "transparency-by-default" >}}). The workflow for this is:
 
 ```mermaid
 graph TD

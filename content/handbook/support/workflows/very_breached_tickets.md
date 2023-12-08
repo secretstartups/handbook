@@ -40,9 +40,13 @@ Regional details for how the response and outcome are acheived are noted below.
 
 ### APAC
 
-- The first Manager online will add `:eyes:` emoji to the ping to indicate they are DRI for the alert.
-   - The Manager DRI may instead choose to delegate responsibility to a Senior Support engineer on any given day by `@` mentioning them in a threaded response to the alert and requesting them to assist with finding SEs to provide FRTs to all tickets listed. In this case, the Senior SE will be responsible for applying the `:eyes:` and later the `:white_check_mark:` emojis.
+- A support manager will add `:eyes:` emoji to the ping to indicate they are DRI for the alert.
+  - If there are no `:eyes:` on the ping by 03:00 UTC, the on-call support manager must be DRI.
+    - The Manager DRI may instead choose to delegate responsibility to a Senior Support engineer on any given day by `@` mentioning them in a threaded response to the alert and requesting them to assist with finding SEs to provide FRTs to all tickets listed. In this case, the Senior SE will be responsible for applying the `:eyes:` and later the `:white_check_mark:` emojis.
 - The DRI will review the list and work with Support Engineers to ensure each ticket is responded to prior to the EMEA alert being excecuted.
+- The VBT DRI role must be done in the earlier part of APAC hours for the following reasons:
+  - In general, to avoid VBTs becoming further breached.
+  - We need sufficient time to clear out VBTs before EMEA starts (EMEA ping happens at 07:00 UTC).
 
 ### EMEA
 
@@ -50,12 +54,12 @@ Regional details for how the response and outcome are acheived are noted below.
 
 ### AMER
 
-- TBD
+- In AMER, Managers are aligned to SGGs and managers will triage on an SGG basis. So for example if Aric and Mike share Kapok, Aric and Mike will work to get Kapok tickets addressed. At present the bot message does not take in to account SGG, so there is an open issue to improve that: [Add SGG info to VBT Bot Output](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5577)
 
 ## APPENDIX: References and resources
 
 - Originating Discussion [Issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5231)
-- Rollout notification Issue (Change Record)
+- Rollout notification [Issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5486) (Change Record)
 - Support Ops VBT Slackbot [project](https://gitlab.com/gitlab-com/support/support-ops/other-software/vbt-slackbot)
 
 

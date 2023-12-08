@@ -1,10 +1,11 @@
 ---
 title: "Migration Details"
 description: "Handbook Content is on the move.  This gives the time table and the individual files which are being migrated."
+aliases: /handbook/content-websites/handbook-migration/migration-details/
 ---
 ## Migration Timetable and Status
 
-{{% include "includes/migration-timetable.md" %}}
+{{% migration-timetable %}}
 
 ## File Lists
 
@@ -853,7 +854,7 @@ company/culture/all-remote/scaling/index.html.md.erb
 company/culture/all-remote/in-person/index.html.md
 company/culture/all-remote/parenting/index.html.md.erb
 company/culture/all-remote/getting-started/index.html.md.erb
-company/culture/all-remote/handbook-first-documentation/index.html.md.erb
+company/culture/all-remote/handbook-first/index.html.md.erb
 company/culture/all-remote/internship/index.html.md
 company/culture/all-remote/people/index.html.md.erb
 company/culture/all-remote/history/index.html.md

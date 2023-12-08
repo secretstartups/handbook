@@ -6,7 +6,7 @@ title: "Security Research"
 
 Security Research focuses on identifying, investigating, and developing solutions for security problems for which current best practices are not sufficient. This work is focused on improving the security posture of the product and the company, but always with an eye for contributing new functionality as a differentiator. Additionally, we aim to share our results as widely as appropriate in order to educate fellow team members and bring awareness to the Gitlab Security program.
 
-The team focus for the security research team falls into the two following categories in order to align with the [role description]({{< ref "/handbook/security#security-research" >}}):
+The team focus for the security research team falls into the two following categories in order to align with the [role description](/job-families/security/security-research/):
 
 - Secure GitLab
 - Raise awareness
@@ -38,18 +38,16 @@ results in a suitable way. This might include:
 
 Even if the outcome of the research is not yielding any spectacular
 outcomes the approaches and procedures conducted during the research
-phase should be documented and published. Depending on the impact or importance
-of the published research the [external communication team]({{< ref "/handbook/security#security-external-communications" >}}) might be involved
-within the publication.
+phase should be documented and published.
 
 ## Methodology
 
 ### Lightbulb Ideas
 
-Lightbulb ideas are those inspired ideas that are interesting, but may not be
-not fully developed. These ideas are interesting to capture as they
+Lightbulb ideas are those inspired ideas that are interesting, but may not be fully developed.
+These ideas are interesting to capture as they
 encourage discussion and push us to think broadly. They
-might become research proposals, a side project, or stay just an idea for
+might become a research proposal, a side project, or stay just an idea for
 future inspiration. Lightbulb ideas are labeled with
 `~security-research::lightbulb`, and the team periodically discusses open
 lightbulb ideas during the security research sync.
@@ -57,9 +55,8 @@ lightbulb ideas during the security research sync.
 ### Issue Labels
 
 To help align and communicate the goals of our projects, the `~Security Focus::`
-and `~Research Goal::` scoped labels are used. One label from each group should
+and `~Project Goal::` scoped labels are used. One label from each group should
 be applied to team issues upon creation.
-be applied to :bulb: issues upon creation.
 
 ### Security Focus labels
 
@@ -68,11 +65,11 @@ labels are used to align an issue with the broad high-level focus areas of the
 Security division, based on the risks and priorities of the business. The list
 is meant to be stable, but not static.
 
-- `Security Focus::Cloud and Infrastruture Security` - Related to the
+- `Security Focus::Cloud and Infrastructure Security` - Related to the
 secure configuration and use of company production and non-production
 cloud and infrastructure environments.
 - `Security Focus::Data Security Governance` - Related to the controls,
-processes, and policies concerning protection of the data trusted to the
+processes, and policies concerning the protection of the data trusted to the
 company.
 - `Security Focus::Identity and Access Management` - Related to authentication
 and authorization to business services and data.
@@ -80,9 +77,9 @@ and authorization to business services and data.
 trust in 3rd party code, data, and services necessary for the business.
 - `Security Focus::Other` - Related to anything not fitting into the four main focus areas.
 
-### Research Goal labels
+### Project Goal labels
 
-[`~Research Goals::`](https://gitlab.com/groups/gitlab-com/gl-security/security-research/-/labels?search=Research+Goal&subscribed=)
+[`~Project Goal::`](https://gitlab.com/groups/gitlab-com/gl-security/security-research/-/labels?search=Project+Goal&subscribed=)
  labels are used to communicate the high-level goal of a project.
 
 - `Project Goal::Risk Identification & Quantification` - The project aims to identify,
@@ -114,7 +111,7 @@ Some sources of data include:
 #### Team Manager
 
 The role of the team manager is to support and guide team members in their data
-discovery. This includes sharing information that they may collect, and
+discovery. This includes sharing information that they may collect and
 facilitating communication with other team members. One example of where the
 manager can be impactful is raising security questions/problems identified
 within the company.
@@ -131,7 +128,7 @@ support security and company initiatives.
 
 Prior to the beginning of a quarter, security research team members will propose
 a research problem as their focus project. The proposals can be in an entirely
-new problem space, or an extension of previous work. In both cases, a proposal
+new problem space or an extension of previous work. In both cases, a proposal
 issue is created in the [Security Research issue tracker](https://gitlab.com/gitlab-com/gl-security/security-research/sec-research/-/issues/new?issuable_template=Research%20Proposal)
 using the `Research Proposal` template.
 
@@ -174,11 +171,64 @@ If it is decided between the team member and the team manager to not move
 forward, an explanation should be added as a comment to the issue, and the
 issue should be closed.
 
+#### Project Completion Criteria
+
+When a project is considered to be completed depends on the objectives of the project. The objectives for research projects are:
+- Idea validation
+- GitLab-internal adoption
+- GitLab Product integration
+
+All (self-guided) projects start with idea validation and might be expanded to GitLab-internal adoption and/or GitLab Product integration.
+
+##### Idea Validation
+
+Entry criteria:
+- Lightbulb issue
+- Alignment with focus area
+
+Exit criteria:
+- Research question answered
+- Research findings documented and communicated to potential stakeholders
+
+The idea validation phase begins with formulating one or more research questions which we seek to answer with a research project (see also [Creating a Research Proposal](#creating-research-proposals)). The idea should be related to the focus areas of the Security Department to align the work with company objectives. Once the questions are answered, the idea validation phase is completed and the results should be published as a conference talk, blog post, or tech note. The results should also be shared in a focused effort internally with peers in the Security Department and with product managers to which the work might be relevant.
+
+##### GitLab-internal Adoption
+
+Entry criteria:
+- Stakeholder from within the company exist.
+- Stakeholder commitment (e.g. willingness to maintain code, operate a service, or triage findings).
+- Project plan describing goals and implementation tasks.
+
+Exit criteria:
+- Project plan completed
+
+Once an idea has been validated, the research project can be extended to achieve GitLab-internal adoption and/or integration into GitLab’s products. If the project is extended, a new research proposal should be created and buy-in from stakeholders should be obtained. The expected deliverables should be documented. For example, internal adoption can be achieved by documenting research insights in the handbook or by implementing a software service.
+
+Factors to consider when scoping a project for internal adoption or product integration are:
+- The time and resources available to the researcher. If the researcher is working on a tight deadline or has limited resources, they may need to scale back the scope of the project or adjust their expectations for completion. In other words, a single person introducing a fundamentally new capability to the product is unrealistic.
+- If ongoing maintenance is required, which team will own the maintenance?
+
+##### Product Integration
+
+Entry criteria:
+- Stakeholder from Product exist.
+- Stakeholder commitment (e.g. engineering resources for implementation, maintenance, budget).
+- Project plan describing goals and implementation tasks.
+
+Exit criteria:
+- Project plan completed.
+
+| Project Goal | Idea validation | Internal Adoption | Product Integration |
+| ---      | ---      | ---      | ---    |
+| Completion Criteria   | Research question answered   | <ul><li> Detection capabilities developed </li><li> Process improved  </li></ul>   | <ul><li> Risk mitigated </li><li> Vulnerability fixed </li></ul> |
+| Deliverables   |  <ul><li>PoC</li><li>Talk, Blog Post, Tech Note</li></ul>  |  <ul><li>Code, Infra, Software Service</li><li>Handbook MR</li></ul>  | <ul><li>Code, Infra, Software Service</li><li>Docs MR</li></ul>  |
+| Timeframe (Estimates)| 1-2 quarters | 2-3 quarters | 3-4 quarters |
+
 #### Communicating Results
 
 At the end of each quarter, the team member will share with stakeholders their
 results. In addition, to meet the team goal of widely
-share the results of our work, the results might be used in public
+sharing the results of our work, the results might be used in public
 communication. In some cases, due to the sensitivity
 of the work, the results will only be shared with the company, until which
 time they can be shared more widely.
@@ -196,7 +246,7 @@ This summary will help to capture:
 
 After the summary has been completed, the issue should be closed.
 
-### Current and past Research Projects
+### Current and Past Research Projects
 
 #### Package Hunter
 
@@ -280,7 +330,7 @@ share our approaches in vulnerability identification to the given codebase.
 
 Vulnerability disclosure can be a delicate process and there is no one-size-fits-all approach for reporting parties. Within the Security Research Team we'll try to report each vulnerability the most effective way, focusing on timely remediation within our GitLab's infrastructure and fix on the vendor's side while respecting embargoes which might be in place.
 
-For third party software listed in our [tech stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/) any vulnerability disclosures should be coordinated with the respective owner of the tech stack item. They might have additional contacts on the vendor side, or more context how to implement a temporary mitigation for an identified vulnerability.
+For third party software listed in our [tech stack](/handbook/business-technology/tech-stack-applications/) any vulnerability disclosures should be coordinated with the respective owner of the tech stack item. They might have additional contacts on the vendor side, or more context how to implement a temporary mitigation for an identified vulnerability.
 
 Depending on the actual risk and exposure it might be needed to further limit the information around the disclosure. In such cases it is recommended to involve the [SIRT]({{< ref "sirt" >}}).
 

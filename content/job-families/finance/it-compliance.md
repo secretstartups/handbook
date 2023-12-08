@@ -15,7 +15,7 @@ This position reports to the Manager, IT Compliance role at GitLab.
 
 ### IT Compliance Engineer (Intermediate) Job Grade
 
-The IT Compliance role is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The IT Compliance role is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### IT Compliance Engineer (Intermediate) Responsibilities
 
@@ -40,7 +40,7 @@ The IT Compliance role is a [grade 6](https://about.gitlab.com/handbook/total-re
 
 ### Senior IT Compliance Engineer Job Grade
 
-The Senior IT Compliance role is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior IT Compliance role is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior IT Compliance Engineer Responsibilities
 
@@ -74,7 +74,7 @@ Staff level is only obtainable through career development.
 
 ### Staff IT Compliance Engineer Job Grade
 
-The Staff IT Compliance role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff IT Compliance role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Staff IT Compliance Engineer Responsibilities
 
@@ -107,7 +107,7 @@ This role includes all of the requirements above, plus:
 
 ### Manager, IT Compliance Job Grade
 
-The IT Compliance role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The IT Compliance role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Manager, IT Compliance Responsibilities
 
@@ -131,14 +131,14 @@ This role includes all of the requirements above, plus:
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
+- Candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with our Senior Director, Enterprise Applications
 - Candidates will then be invited to schedule a third interview with our VP, IT
 - Then the candidate will be invited to interview with the Director of Risk and Compliance
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 

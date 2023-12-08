@@ -21,7 +21,7 @@ When we first approached the idea of a simple VPN for those times that our emplo
 
 #### Access Request
 
-Please open an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) and add `/label ~"it-security-status::needs-review"`.
+Please open an [Access Request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) and add `/label ~"it-security-status::needs-review"`.
 
 ## NordLayer Installation
 

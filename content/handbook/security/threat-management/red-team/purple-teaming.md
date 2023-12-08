@@ -29,7 +29,7 @@ The diagram below shows our basic workflow for planning, executing, and completi
 
 Operations will be tracked using [GitLab epics](https://docs.gitlab.com/ee/user/group/epics/). Each of the unique stages has a corresponding [issue template](https://docs.gitlab.com/ee/user/project/description_templates.html) that provides further detail on exactly what needs to be done. These templates are [shared publicly here](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-public/red-team-issue-templates).
 
-As much as possible, our Purple Team operations should be performed [asynchronously](https://about.gitlab.com/company/culture/all-remote/asynchronous/). However, a few stages work best when done with live participants over a video conference with screen sharing. To include team members in all time zones, these stages can be conducted more than once. This is particularly beneficial when conducting the actual attacks and practicing detection. We will automate this work whenever possible, which makes repeating them easy.
+As much as possible, our Purple Team operations should be performed [asynchronously](/handbook/company/culture/all-remote/asynchronous/). However, a few stages work best when done with live participants over a video conference with screen sharing. To include team members in all time zones, these stages can be conducted more than once. This is particularly beneficial when conducting the actual attacks and practicing detection. We will automate this work whenever possible, which makes repeating them easy.
 
 ![Purple Teaming Process](../purple-team-process.png)
 

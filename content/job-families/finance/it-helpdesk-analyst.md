@@ -34,7 +34,7 @@ title: "IT Helpdesk"
 
 #### IT Helpdesk Analyst (Intermediate) Job Grade
 
-The IT Helpdesk Analyst (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The IT Helpdesk Analyst (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### IT Helpdesk Analyst (Intermediate) responsibilities
 
@@ -48,7 +48,7 @@ The IT Helpdesk Analyst (Intermediate) share the same requirements outlined abov
 
 #### Senior IT Helpdesk Analyst Job Grade
 
-The Senior IT Helpdesk Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior IT Helpdesk Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior IT Helpdesk Analyst Responsibilities
 
@@ -77,20 +77,20 @@ The Senior IT Helpdesk Analyst is a [grade 7](https://about.gitlab.com/handbook/
 
 ## Performance Indicators (PI)
 
-- [Cycle Time for IT Support Issue Resolution](https://about.gitlab.com/handbook/business-technology/metrics/#cycle-time-for-it-support-issue-resolution)
-- [Support Issues and Access Request Closed per Employee](https://about.gitlab.com/handbook/business-technology/metrics/#support-tickets-and-access-request-closed-per-employee)
-- [Average Merge Request](https://about.gitlab.com/handbook/business-technology/metrics/#average-merge-request)
-- [Average Delivery Time of Laptop Machines < 21 days](https://about.gitlab.com/handbook/business-technology/metrics/#average-delivery-time-of-laptop-machines--21-days)
-- [Customer Satisfaction Survey (CSAT)](https://about.gitlab.com/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
+- [Cycle Time for IT Support Issue Resolution](/handbook/business-technology/metrics/#cycle-time-for-it-support-issue-resolution)
+- [Support Issues and Access Request Closed per Employee](/handbook/business-technology/metrics/#support-tickets-and-access-request-closed-per-employee)
+- [Average Merge Request](/handbook/business-technology/metrics/#average-merge-request)
+- [Average Delivery Time of Laptop Machines < 21 days](/handbook/business-technology/metrics/#average-delivery-time-of-laptop-machines--21-days)
+- [Customer Satisfaction Survey (CSAT)](/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Next, candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
+- Next, candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with our Director of Business Operations
 - Next, candidates will be invited to schedule a second interview with one of our Sys Admins
 - Candidates will then be invited to schedule a third interview with one of our Executive Admins
 - Finally, candidates may be asked to interview with our CEO
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

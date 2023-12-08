@@ -31,7 +31,7 @@ This job family reports to the [Director, IT Operations](/job-families/finance/d
 
 #### IT Security Analyst (Intermediate) Job Grade
 
-The IT Security Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The IT Security Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### IT Security Analyst (Intermediate) Responsibilities
 
@@ -45,7 +45,7 @@ The IT Security Analyst position has all the same requirements as the ones outli
 
 #### Senior IT Security Analyst Job Grade
 
-The IT Security Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The IT Security Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior IT Security Analyst Responsibilities
 
@@ -90,12 +90,12 @@ The next step in the IT Security Analyst job family is to move to the a role not
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with our Manager, IT
 - Candidates will then be invited to schedule a second and third interview with 2-4 members of the IT Operations team in a panel interview
 - Candidates will be then be invited to schedule a call with our Integrations Engineer
 - Finally, candidates will interview with our VP, IT
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

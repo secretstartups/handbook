@@ -15,7 +15,7 @@ The Field Security team is tasked with providing high levels of security assuran
 
 - Conducting [Customer Assurance Activities]({{< ref "customer-security-assessment-process" >}}) such as completing Security, Privacy, and Risk Management Questionnaires, assisting in Contract Reviews, participating in Customer Pre-Sales Meetings, and providing Security Documents (such as GitLab’s SOC2 or Penetration Test reports). These activities are managed through the [Customer Assurance Activities Service Desk](https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/customer-assurance-activities/caa-servicedesk/-/issues).
 - Proactively maintaining self-service security and privacy resources including the [Customer Assurance Package]({{< ref "customer-assurance-package" >}}), the [Trust Center](https://about.gitlab.com/security/) and the **internal only*- [AnswerBase]({{< ref "answerbase" >}}) and [OneTrust Vendorpedia]({{< ref "vendorpedia" >}}).
-- Providing recommendations based on customer security concerns in support of revenue growth through the annual [Field Security Study]({{< ref "field-security-study" >}}) and participation in the [Quarterly Business Review](https://about.gitlab.com/handbook/sales/qbrs/) Process.
+- Providing recommendations based on customer security concerns in support of revenue growth through the annual [Field Security Study]({{< ref "field-security-study" >}}) and participation in the [Quarterly Business Review](/handbook/sales/qbrs/) Process.
 - Building the GitLab Security brand by improving internal and external awareness of GitLab's security practices and the security of our platform. Engaging with customers and prospects through [Evangelism Activities]({{< ref "evangelism" >}}) and with internal stakeholders via the [Field Security Sales Training Program]({{< ref "fsstp" >}}).
 
 ----
@@ -27,7 +27,7 @@ The Field Security team is tasked with providing high levels of security assuran
 ## <i class="fas fa-id-card" style="color:rgb(110,73,203)" aria-hidden="true"></i> Contact the Team
 
 
-[Ayoub Fandi](https://about.gitlab.com/company/team/#ayofan), @ayofan, Senior Security Assurance Engineer, Field Security
+[Ayoub Fandi](/handbook/company/team/#ayofan), @ayofan, Senior Security Assurance Engineer, Field Security
 
 - [Customer Assurance Activities]({{< ref "customer-security-assessment-process" >}})
 - [Evangelism]({{< ref "evangelism" >}})
@@ -38,7 +38,7 @@ The Field Security team is tasked with providing high levels of security assuran
 - Self-Service Sales Enablement (AnswerBase, CAP, Trust Center, Self-Attestations)
 
 
-[Joe Longo](https://about.gitlab.com/company/team/#jlongo_gitlab), @jlongo_gitlab, Manager, Governance and Field Security
+[Joe Longo](/handbook/company/team/#jlongo_gitlab), @jlongo_gitlab, Manager, Governance and Field Security
 
 - [Customer Assurance Activities]({{< ref "customer-security-assessment-process" >}})
 - [Field Security Study]({{< ref "field-security-study" >}})

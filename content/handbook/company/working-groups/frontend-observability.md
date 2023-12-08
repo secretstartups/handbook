@@ -34,9 +34,9 @@ This group will not focus on instrumentation around user actions for product rea
 
 This working group will have fulfilled its purpose when:
 
-- [ ] The `@sentry/browser` package is upgraded automatically via renovate [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/338816)
-- [ ] Sentry is configured to track and report frontend errors reliably [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/339331)
-- [ ] Sentry is configured to monitor our performance with performance tracing [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/339332)
+- [x] The `@sentry/browser` package is upgraded automatically via renovate [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/338816)
+- [x] Sentry is configured to track and report frontend errors reliably [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/339331)
+- [x] Sentry is configured to monitor our performance with performance tracing [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/339332)
 - [ ] A triaging / diagnosing process is created for sentry errors [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/339334)
 - [ ] Documentation is written that allows other frontend engineers to contribute [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/339335)
 - [ ] The old sentry settings are deprecated and removed [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/422407)
@@ -56,12 +56,6 @@ Ideally the functional lead is someone who is an IC that might be affected by th
 | Executive Sponsor | Tim Zallmann | Development | Senior Director |
 | Facilitator | Sam Beckham | Manage:Foundations | Engineering Manager |
 | Functional Lead | Miguel Rincon | Verify::Runner | Senior Frontend Engineer |
-| Functional Lead | Drew Stachon | Verify::Pipeline Execution | Backend Engineer |
-| Functional Lead | Andrew Newdigate | Infrastructure | Distinguished Engineer |
-| Member | José Vargas López | Verify::Pipeline Execution | Senior Frontend Engineer |
-| Member | Marius Bobin | Verify::Pipeline Execution | Backend Engineer |
-| Member | Daniele Rossetti | Monitor::Visualization | Senior Frontend Engineer |
 | Member | Sheldon Led | Fulfillment | Senior Frontend Engineer |
 | Member | Adeline Yeung | Infrastructure | Site Reliability Engineer |
-| Member | Rahul Chanila | Package | Senior Frontend Engineer |
 | Member | Savas Vedova | Govern | Senior Frontend Engineer |

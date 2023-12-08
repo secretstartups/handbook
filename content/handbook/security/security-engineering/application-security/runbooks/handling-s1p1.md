@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Application Security Engineer Handling priority::1/severity::1 Issues"
 ---
 
@@ -16,9 +16,36 @@ Once a potential severity::1/priority::1 issue is made known. The appsec enginee
 ## Escalate
 
 1. [Engage the Security Engineer on-call]({{< ref "engaging-security-on-call" >}}) with a link to the issue, a summary of what has happened, and an description of what SIRT may need to do.
-1. Engage the appropriate [engineering manager and product manager of the affected component](https://about.gitlab.com/handbook/product/categories/) in both the issue **and** in the appropriate Slack channels.
+1. Engage the appropriate [engineering manager and product manager of the affected component](/handbook/product/categories/) in both the issue **and** in the appropriate Slack channels.
 1. If help from the GitLab Dedicated team is needed, [follow the runbook to escalate to their engineer on call](https://gitlab-com.gitlab.io/gl-infra/gitlab-dedicated/team/runbooks/on-call.html#escalating-to-an-on-call-person).
 1. Ping `@appsec-leadership` in the `#sec-appsec` Slack channel with a link to the issue. This will help team leadership and other engineers get up to speed, in case they need to step in.
+
+## Evaluate Impact in Different Environments
+
+Due to differences in settings, feature availability, and configuration between GitLab self-managed, GitLab Dedicated, and GitLab SaaS (GitLab.com), the CVSS for a single vulnerability may differ depending on environment.
+
+To accurately communicate and effectively mitigate negative impact of a security vulnerability, consider any possible discrepancies in settings, feature availability, and configuration for the different environments - especially when there are certain preconditions required for a successful attack to occur.
+
+### GitLab Dedicated
+
+When assessing if a GitLab vulnerability impacts GitLab Dedicated, consider the following features that are [**not available** in GitLab Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/#features-that-are-not-available):
+
+#### Application Features that are Unavailable in Gitlab Dedicated:
+
+- [ ]  LDAP, Smartcard, or Kerberos authentication
+- [ ]  Multiple login providers
+- [ ]  Advanced search
+- [ ]  GitLab Pages
+- [ ]  Reply-by email
+- [ ]  Service Desk
+- [ ]  FortiAuthenticator, or FortiToken 2FA
+- [ ]  GitLab-managed runners (hosted runners)
+- [ ]  GitLab AI capabilities ([More Info](https://about.gitlab.com/direction/saas-platforms/dedicated/#supporting-ai-features-on-gitlab-dedicated))
+- [ ]  Features that must be configured outside of the GitLab user interface, including those behind [feature flags](https://docs.gitlab.com/ee/user/feature_flags.html) which are disabled-by-default
+- [ ]  Mattermost
+- [ ]  Server-side Git hooks (Due to security concerns and potential service SLA impact. Consider using [push rules](https://docs.gitlab.com/ee/user/project/repository/push_rules.html) or [webhooks](https://docs.gitlab.com/ee/user/project/integrations/webhooks.html) as alternatives.)
+
+If a vulnerability requires using features listed above for successfuly exploitation, it most likely **does not** impact GitLab Dedicated. Always cross-check with the specific details of the vulnerability to ensure accurate assessment.
 
 ## Mitigate
 

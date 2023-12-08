@@ -4,12 +4,17 @@ title: "No Matrix Organization"
 
 ## No matrix organization introduction
 
-On this page, we will give an overview of how GitLab operates as a no matrix organization.
+On this page, we will give an overview of how GitLab operates as a no matrix
+organization.
+
+"No matrix organization" means that everyone reports to exactly one person. At
+GitLab we have a simple functional management hierarchy. Technical leadership at
+GitLab is leadership without a formal reporting line, based on project roles and
+experience.
 
 ## No matrix organization overview
 
 1. We believe everyone deserves to report to exactly one person that knows and understands what you do day to day. [The benefit of having a technically competent manager is easily the largest positive influence on a typical worker’s level of job satisfaction.](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) We have a simple functional hierarchy, everyone has one manager that is experienced in their subject matter that allows them to meaningfully engage with the work being done within their individual function. Matrix organizations or [dotted lines](https://www.global-integration.com/glossary/dotted-line-reporting/) are too hard to get right.
-1. We don't want a matrix organization where you work with a lead day to day but formally report to someone else.
 1. The advantage of a functional structure is that you get better feedback and training since your manager understands your work better than a general manager.
 1. For the organization, forgoing a separate class of managers ensures a simple structure with clear responsibilities.
 1. A functional organization structure mimics the top structure of our organizations (Finance, Sales, Engineering, etc.).

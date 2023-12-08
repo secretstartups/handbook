@@ -1,0 +1,19 @@
+{{- $entityMapper := partials.IncludeCached "data/entity-mapper" . }}
+<table style="display: table;">
+    <thead>
+        <tr>
+            <th>Country</th>
+            <th>Notice Period</th>
+        </tr>
+    </thead>
+    <tbody>
+      {{- range sort $entityMapper "country" }}
+        {{- if and (or (eq .bhr_payroll_type "Employee") (eq .bhr_payroll_type "Contractor-PEO")) (eq .probation "None") }}
+        <tr>
+            <td>{{ .country }}</td>
+            <td>{{ .notice_after_probation }}</td>
+        </tr>
+        {{- end }}
+      {{- end }}
+    </tbody>
+</table>

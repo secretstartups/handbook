@@ -14,6 +14,10 @@ Introductory text, logos, or whatever the group wants here
 
 - Our Slack Channel: [spt_gg_kapok](https://gitlab.slack.com/archives/C03C6JQV3EZ)
 - Our Team: [Kapok Members](https://gitlab-com.gitlab.io/support/team/sgg.html?search=kapok)
+- Aligned Managers:
+   - **AMER** -- Aric, Mike
+   - **EMEA** -- Rebecca, John
+   - **APAC** -- no alignment
 
 ## Kapok workflows and processes
 
@@ -59,7 +63,7 @@ When more than 2 agents in a given region are on PTO, relevant tickets and quest
 
 If you have questions about coverage or whether you should take PTO or not, feel free to start a thread in the [Slack channel](https://gitlab.slack.com/archives/C03C6JQV3EZ).
 
-**Note**: Candid and honest communication about the impacts of PTO on the SGG team are completely OK as long as we're remembering [our values](https://about.gitlab.com/handbook/values/) when communicating with each other! Also note that we take our time away from work seriously, never feel bad about your PTO! We all need it.
+**Note**: Candid and honest communication about the impacts of PTO on the SGG team are completely OK as long as we're remembering [our values](/handbook/values/) when communicating with each other! Also note that we take our time away from work seriously, never feel bad about your PTO! We all need it.
 
 #### Extended PTO
 

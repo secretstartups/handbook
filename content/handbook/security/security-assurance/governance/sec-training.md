@@ -51,13 +51,11 @@ Remember: If you see something, say something, and always report suspicious emai
 
 ### Data Classification Training
 
-To maintain our culture of security and transparency, and to minimize the risk to our sensitive data and our customers, GitLab team members are encouraged to complete [Data Classification Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-data-classification-training) to help understand the different types of data at GitLab and how to keep it [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/). This is a recommended training.
+To maintain our culture of security and transparency, and to minimize the risk to our sensitive data and our customers, GitLab team members are encouraged to complete [Data Classification Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-data-classification-training) to help understand the different types of data at GitLab and how to keep it [SAFE](/handbook/legal/safe-framework/). This is a recommended training.
 
 ### Secure Coding Training
 
 The [GitLab Secure Coding Training]({{< ref "secure-coding-training" >}}) is a required training completed by a sub-group of GitLab Team Members and contractors/TSPs in the Engineering Department.  This training contains descriptions and [Secure Coding Guidelines](https://docs.gitlab.com/ee/development/secure_coding_guidelines.html) from OWASP (Open Web Application Security Project) addressing security vulnerabilities commonly identified in the GitLab codebase. This training is intended to help developers identify potential security vulnerabilities early, with the goal of reducing the number of vulnerabilities released over time.
-
-GitLab's handbook-first Secure Coding Training is provided via [ProofPoint](https://gitlab.ws01-securityeducation.com/).
 
 Exceptions during the active campaign will be made for GitLab team members on extended leave.
 

@@ -7,6 +7,8 @@ description: "Discover GitLab's benefits for team members in Ireland"
 
 GitLab offers a private medical plan through VHI which gives you access to cutting-edge medical treatments, health screenings and protection against the high medical costs of private care. GitLab covers 100% of the premiums for team members and eligible dependents.
 
+Please see the [brochure](https://drive.google.com/file/d/1s2Wa8K1tJm9E720ml5r1eJehjkQjIx-p/view?usp=sharing) to help guide you through the range of benefits and services available.  
+
 For a full breakdown of plan descriptions please review the following [Company Plan Plus Level 1.3 details](https://drive.google.com/file/d/1pnyWAp71MMYzdsUm1rk0o4gq7k8cdvJO/view?usp=sharing) and [Table of Benefits](https://drive.google.com/file/d/1-0cfnrKSTyQIyAEro3wR7i2aBLHsvXEv/view?usp=sharing).
 
 To find out which hospitals and treatment centers are covered on your plan, please refer to the directories of approved facilities which are available at `Vhi.ie/downloads` or contact VHI directly via the Corporate Advice Line: `056 777 5800`.
@@ -50,7 +52,7 @@ Please submit your receipts via expensify and prescription to Total Rewards.
 
 GitLab offers a private pension plan via a defined contribution scheme. Orca Financial is an Irish owned Financial Services company to help with the administration of the pension on behalf of GitLab. The pension provider is **Aviva**. Aviva allows for transfers into the plan and can set up an AVC pension for any members that wish to contribute above the minimum required contribution.
 
-Orca has put together the following [video](https://drive.google.com/file/d/1IkVkLVtKonn8JsJ2hNGZI_89V3FZyPIU/view?usp=sharing) with information about the plan as a resource.
+Orca has put together the following [video](https://docs.google.com/document/d/1i5ir2xMWMIQznq-tEGCmTkSfZ_GuuV46ARlKhAGYrS0/edit) with information about the plan as a resource.
 
 ### Pension Match
 
@@ -68,7 +70,7 @@ You will be able to review the investment strategy once enrolled through the Fun
 
 ## Death in Service
 
-All full-time GitLab team members in Ireland are eligible for death in service at 4x annual salary. Team members are automatically enrolled in this benefit. This benefit is administered through Aviva. Team members may be contacted to complete an additional questionniare if their covered amount is over the scheme limits, with potential medical underwriting required.  More information can be found on the [Retirement and Death Benefit Scheme Rules document](https://drive.google.com/file/d/1T1HjLXj2f3FmMiX3D4HVhpYF_k8zwvyr/view?usp=sharing).
+All full-time GitLab team members in Ireland are eligible for death in service at 4x base annual salary. Team members are automatically enrolled in this benefit. This benefit is administered through Aviva. Team members may be contacted to complete an additional questionniare if their covered amount is over the scheme limits, with potential medical underwriting required.  More information can be found on the [Retirement and Death Benefit Scheme Rules document](https://drive.google.com/file/d/1T1HjLXj2f3FmMiX3D4HVhpYF_k8zwvyr/view?usp=sharing).
 
 Team members can complete a [Expression of Wish Form](https://drive.google.com/file/d/1YSkmogbYIsAVhSESJXLSYBr-T_uH1x2c/view?usp=sharing) to request a beneficiary for this benefit.  Once completed, please send directly to `employeebenefits@orca.ie`
 

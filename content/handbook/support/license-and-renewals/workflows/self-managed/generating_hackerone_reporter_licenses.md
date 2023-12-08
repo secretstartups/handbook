@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Generating HackerOne Reporter Award Licenses
 description: "How to generate a license for Hacker One reporter award recipients"
 category: GitLab Self-Managed licenses
@@ -8,7 +8,7 @@ category: GitLab Self-Managed licenses
 
 ## Overview
 
-As part of GitLab's [HackerOne program policy](https://gitlab.com/gitlab-com/gl-security/hackerone/configuration/-/blob/master/program-policy.md#L31-33), a reporter who has submitted three or more valid findings to the program is eligible to receive a one-year self-hosted Ultimate license, supporting up to five users. The source of the request will originate from following [the applicable Security Engineering runbook](https://about.gitlab.com/handbook/security/security-engineering/application-security/runbooks/hackerone-process.html#awarding-ultimate-licenses).
+As part of GitLab's [HackerOne program policy](https://gitlab.com/gitlab-com/gl-security/hackerone/configuration/-/blob/master/program-policy.md#L31-33), a reporter who has submitted three or more valid findings to the program is eligible to receive a one-year self-hosted Ultimate license, supporting up to five users. The source of the request will originate from following [the applicable Security Engineering runbook](/handbook/security/security-engineering/application-security/runbooks/hackerone-process#awarding-ultimate-licenses).
 
 ### Actioning the Request
 
@@ -17,7 +17,7 @@ The internal request will come through similar to [these](https://gitlab.zendesk
 - The contact's name, which will either be a full name OR their HackerOne 'handle'
 - The contact's email, which should end with a `@wearehackerone.com` suffix.
 
-With this information, follow the [procedure to create a new license](/handbook/support/license-and-renewals/workflows/self-managed/creating_licenses.html#create-a-new-license), and ensure you use the following:
+With this information, follow the [procedure to create a new license](/handbook/support/license-and-renewals/workflows/self-managed/creating_licenses#create-a-new-license), and ensure you use the following:
 
 - Name: (The contact's full name OR HackerOne 'handle')
 - Company: `H1 Reporter Award`

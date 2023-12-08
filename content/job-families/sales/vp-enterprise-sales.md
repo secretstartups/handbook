@@ -5,7 +5,7 @@ RoleName: "VP of Enterprise Sales"
 
 ## Job Grade
 
-The VP, Enterprise Sales is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP, Enterprise Sales is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -33,7 +33,7 @@ Multiple repeatable proof points of recruiting, hiring, developing, and retainin
 - Bachelor degree
 - You share our values, and work in accordance with those values.
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ## Territories
 

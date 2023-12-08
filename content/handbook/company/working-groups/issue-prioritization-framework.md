@@ -12,7 +12,7 @@ status: active
 | Target End Date | Dec 30, 2022   |
 | Slack           | [#wg_issue-prioritization](https://join.slack.com/share/zt-etotbmm9-FzhcHH0BGbw3~D4Xe5rAyg) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1oBWNxBSOJKrh3ubHwN5pI8243vBjJ-Y_Cax17A5abII/edit) (only accessible from within the company) |
-| Docs            | [Handbook Page](https://about.gitlab.com/handbook/product/product-processes/customer-issues-prioritization-framework) |
+| Docs            | [Handbook Page](/handbook/product/product-processes/customer-issues-prioritization-framework) |
 | Related Issue   | [Adding context to customer's requests](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/907) |
 | Associated OKRs | [Increase TMAU and Paid TMAU](https://gitlab.com/gitlab-com/chief-of-staff-team/cos-team/-/issues/80) |
 

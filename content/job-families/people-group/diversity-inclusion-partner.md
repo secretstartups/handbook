@@ -32,7 +32,7 @@ The Diversity, Inclusion and Belonging Specialist reports to the [DIB Partner](#
 
 #### Diversity, Inclusion, and Belonging Specialist Job Grade
 
-The Diversity, Inclusion and Belonging Specialist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Diversity, Inclusion and Belonging Specialist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Diversity, Inclusion, and Belonging Specialist Responsibilities
 
@@ -56,20 +56,20 @@ The Diversity, Inclusion and Belonging Specialist is a [grade 6](https://about.g
 
 #### Diversity, Inclusion, and Belonging Specialist Performance Indicators
 
-- [Engagement survey inclusion score](https://about.gitlab.com/company/culture/inclusion/#performance-indicators)
+- [Engagement survey inclusion score](/handbook/company/culture/inclusion/#performance-indicators)
 
 #### Diversity, Inclusion, and Belonging Specialist Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - 30-45 minute interview with the VP, DIB
 - 30 minute interview with a member of the Learning and Development team
 - 30 minute interview with a People Business Partner
 - 30 minute interview with someone on the People Operations team
 - Final, the candidate may be asked to create a DIB related project/scenario approach
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Diversity, Inclusion, and Belonging Partner
 
@@ -77,7 +77,7 @@ The Diversity, Inclusion, and Belonging Partner reports to the [Manager, Diversi
 
 #### Diversity, Inclusion, and Belonging Partner Job Grade
 
-The Diversity, Inclusion, and Belonging Partner is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Diversity, Inclusion, and Belonging Partner is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Diversity, Inclusion, and Belonging Partner Responsibilities
 
@@ -108,24 +108,24 @@ The Diversity, Inclusion, and Belonging Partner is a [grade 7](https://about.git
 
 #### Diversity, Inclusion, and Belonging Partner Performance Indicators
 
-- [Women globally as a whole at GitLab](https://about.gitlab.com/company/culture/inclusion/#performance-indicators)
-- [Women in leadership](https://about.gitlab.com/company/culture/inclusion/#performance-indicators)
-- [Women voluntary attrition](https://about.gitlab.com/company/culture/inclusion/#performance-indicators)
-- [Pay equality](https://about.gitlab.com/company/culture/inclusion/#performance-indicators)
-- [Engagement survey inclusion score](https://about.gitlab.com/company/culture/inclusion/#performance-indicators)
+- [Women globally as a whole at GitLab](/handbook/company/culture/inclusion/#performance-indicators)
+- [Women in leadership](/handbook/company/culture/inclusion/#performance-indicators)
+- [Women voluntary attrition](/handbook/company/culture/inclusion/#performance-indicators)
+- [Pay equality](/handbook/company/culture/inclusion/#performance-indicators)
+- [Engagement survey inclusion score](/handbook/company/culture/inclusion/#performance-indicators)
 
 #### Diversity, Inclusion, and Belonging Partner Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with our Vice President, Diversity Inclusion, and Belonging
 - Next, candidates will be invited to schedule a 45 minute panel interview with one of our People Business Partners, member of our L&D team and People Operations leadership
 - After that, candidates will be invited to schedule a 30 minute interview with our Chief People Officer
 - After that, the candidate may be invited to interview with our CFO or another member of our executive team
 - Finally, our CEO may choose to conduct a final interview
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Manager, Diversity Inclusion, and Belonging
 
@@ -133,7 +133,7 @@ The Manager, Diversity Inclusion, and Belonging reports to the [Vice President, 
 
 #### Manager, Diversity Inclusion, and Belonging Job Grade
 
-The Diversity, Inclusion, and Belonging Partner is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Diversity, Inclusion, and Belonging Partner is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Diversity Inclusion, and Belonging Responsibilities
 
@@ -168,14 +168,14 @@ The Diversity, Inclusion, and Belonging Partner is a [grade 8](https://about.git
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with our Vice President, Diversity Inclusion, and Belonging
 - Next, candidates will be invited to schedule a 45 minute panel interview with one of our Diversity Inclusion, and Belonging Partner, People Business Partners, member of our L&D team, and/or People Operations leadership
 - After that, candidates will be invited to schedule a 30 minute interview with our Chief People Officer
 - After that, the candidate may be invited to interview with our CFO or another member of our executive team
 - Finally, our CEO may choose to conduct a final interview
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 
@@ -187,7 +187,7 @@ The Vice President, Diversity Inclusion, and Belonging reports to the Chief Peop
 
 #### Vice President, Diversity Inclusion, and Belonging Job Grade
 
-The Diversity, Inclusion, and Belonging Partner is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Diversity, Inclusion, and Belonging Partner is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Vice President, Diversity Inclusion, and Belonging Responsibilities
 

@@ -40,15 +40,15 @@ TBD
 
 | Working Group Role    | Person                                                                          |
 |:----------------------|:--------------------------------------------------------------------------------|
-| Executive Stakeholder | [Joerg Heilig](https://about.gitlab.com/company/team/#joergheilig)                              |
-| Facilitator / Program Lead          | [Justin Smith](https://about.gitlab.com/company/team/#jwrs)                     |
+| Executive Stakeholder | [Joerg Heilig](/handbook/company/team/#joergheilig)                              |
+| Facilitator / Program Lead          | [Justin Smith](/handbook/company/team/#jwrs)                     |
 | Member           | Jessica Dallmar |
-| Member - PBP Lead            | [Giuliana Lucchesi](https://about.gitlab.com/company/team/#glucchesi) |
-| Functional Lead - Infrastructure and Quality | [Mek Stittri](https://about.gitlab.com/company/team/#meks)|
-| Functional Lead - Development  | [Christopher Lefelhocz](https://about.gitlab.com/company/team/#clefelhocz1)|
-| Member                | [Phil Calder](https://about.gitlab.com/company/team/#pcalder)                              |
-| Member                | [Chun Du](https://about.gitlab.com/company/team/#cdu1)                              |
-| Member                | [John Cai](https://about.gitlab.com/company/team/#jcaigitlab)                              |
-| Member                | [Vincy Wilson](https://about.gitlab.com/company/team/#vincywilson) |
-| Member                | [Alan Richards](https://about.gitlab.com/company/team/#alanrichards) |
-| Member                | [Darva Satcher](https://about.gitlab.com/company/team/#dsatcher) |
+| Member - PBP Lead            | [Giuliana Lucchesi](/handbook/company/team/#glucchesi) |
+| Functional Lead - Infrastructure and Quality | [Mek Stittri](/handbook/company/team/#meks)|
+| Functional Lead - Development  | [Christopher Lefelhocz](/handbook/company/team/#clefelhocz1)|
+| Member                | [Phil Calder](/handbook/company/team/#pcalder)                              |
+| Member                | [Chun Du](/handbook/company/team/#cdu1)                              |
+| Member                | [John Cai](/handbook/company/team/#jcaigitlab)                              |
+| Member                | [Vincy Wilson](/handbook/company/team/#vincywilson) |
+| Member                | [Alan Richards](/handbook/company/team/#alanrichards) |
+| Member                | [Darva Satcher](/handbook/company/team/#dsatcher) |

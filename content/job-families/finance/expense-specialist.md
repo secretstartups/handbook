@@ -8,7 +8,7 @@ The Expense Specialist  will serve as the primary contact for internal and exter
 
 ### Job Grade
 
-The Expense Specialist is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Expense Specialist is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -32,8 +32,8 @@ The Expense Specialist is a [grade 5](https://about.gitlab.com/handbook/total-re
 
 #### Performance Indicators
 
-- [Average days to action](https://about.gitlab.com/handbook/finance/accounting/#8-employee-reimbursements---expensify)
-- [Time to get a new employee set up in Expensify](https://about.gitlab.com/handbook/finance/accounting/#8-employee-reimbursements---expensify)
+- [Average days to action](/handbook/finance/accounting/#8-employee-reimbursements---expensify)
+- [Time to get a new employee set up in Expensify](/handbook/finance/accounting/#8-employee-reimbursements---expensify)
 
 ### Career Ladder
 

@@ -110,17 +110,17 @@ Engineering Managers have the following job-family performance indicators. Perfo
 
 ## Job Grades
 
-Read more about GitLab [Job Grades](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+Read more about GitLab [Job Grades](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Associate Backend Engineer
 
-The Associate level in the Engineering Division is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate level in the Engineering Division is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Intermediate Backend Engineer
 
 #### Job Grade
 
-The Intermediate Backend Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Intermediate Backend Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Backend Engineer
 
@@ -128,7 +128,7 @@ The Senior Backend Engineer role extends the [Backend Engineer](#intermediate-re
 
 #### Job Grade
 
-The Senior Backend Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Backend Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -156,7 +156,7 @@ The Staff Backend Engineer role extends the [Senior Backend Engineer](#senior-ba
 
 #### Job Grade
 
-The Staff Backend Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Backend Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -176,7 +176,7 @@ The Backend Engineering Manager specializes in Backend Engineering Management as
 
 #### Job Grade
 
-The Backend Engineering Manager role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Backend Engineering Manager role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -188,10 +188,10 @@ The Backend Engineering Manager role is a [grade 8](https://about.gitlab.com/han
 - Conduct managerial interviews for candidates, and train the team to do technical interviews
 - Contribute to the sense of psychological safety on your team
 - Generate and implement process improvements
-- Hold regular [1:1's](https://about.gitlab.com/handbook/leadership/1-1/) with all members of their team
-- Give regular and clear feedback around the [individual's performance](https://about.gitlab.com/handbook/leadership/1-1/suggested-agenda-format/)
+- Hold regular [1:1's](/handbook/leadership/1-1/) with all members of their team
+- Give regular and clear feedback around the [individual's performance](/handbook/leadership/1-1/suggested-agenda-format/)
 - Foster technical decision making on the team, but make final decisions when necessary
-- Draft quarterly OKRs and [Engineering KPIs](https://about.gitlab.com/company/kpis/#engineering-kpis)
+- Draft quarterly OKRs and [Engineering KPIs](/handbook/company/kpis/#engineering-kpis)
 - Improve product quality, security, and performance
 
 #### Requirements
@@ -221,20 +221,20 @@ For more details on the engineering career ladders, please review the [engineeri
 
 ## Hiring Process
 
-Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 For Individual Contributors:
 
-- Candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
+- Candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
 - Next, candidates will be invited to schedule a 90 minute technical interview with one of our Backend Engineers
 - Next, candidates will be invited to schedule a 60 minute interview with one of our Backend Engineering Managers
 - Next, candidates will be invited to schedule a 60 minute interview with our Director of Engineering
 - Successful candidates will subsequently be made an offer.
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 For Managers:
 
-- Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
+- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
 - Next, candidates will be invited to schedule a 60 minute first interview with a Director of Engineering
 - Next, candidates will be invited to schedule a 45 minute second peer interview with an Engineering Manager
 - Next, candidates will be invited to schedule a 45 minute third interview with another member of the Engineering team
@@ -307,7 +307,7 @@ and management of artifacts manipulated by projects.
 By extending the current CI artifacts system, the Package team will expose GitLab as
 a package repository allowing access to the most common package managers, e.g.
 Maven and APT and similar. Additionally, the Package team is improving
-the Container Registry and is responsible for items listed under [Package product category](https://about.gitlab.com/handbook/product/categories/#package).
+the Container Registry and is responsible for items listed under [Package product category](/handbook/product/categories/#package).
 
 #### Responsibilities
 
@@ -376,6 +376,29 @@ The configuration team works on GitLab's Application Control Panel, Infrastructu
 - Implement the appropriate monitoring and alerting on new and existing features owned by the team.
 - Help others adopt and use the configuration features.
 
+### Verify
+
+Verify backend engineers are primarily focused on improving the Continuous Integration (CI) experience. Verify Engineers should always have three goals in mind:
+
+1. Provide value to the user and communicate such with the product manager and engineering manager,
+1. Introduce features that work at scale and in untrusting environments,
+1. Always focus on defining and shipping [the Minimal Viable Change](/handbook/product/product-principles/#the-minimal-viable-change-mvc).
+
+#### Requirements
+
+- Experience with development tooling
+- Experience designing and building fault-tolerant systems or systems development
+- Experience building and scaling highly-available systems
+- In-depth experience with Ruby on Rails
+- Experience with distributed systems (nice-to-have)
+
+#### Responsibilities
+
+- Work with the Product Manager and Engineering Manager to carefully assess technical feasibility of feature requests
+- Deliver proof-of-concept proposals to help guide technical discussions
+- Identify ways to deliver complex technical projects in an iterative fashion
+- Take [ownership](https://about.gitlab.com/handbook/engineering/development/ops/verify/#mission) of what we build, focusing on stability and availability.
+
 ### CI/CD
 
 CI/CD Backend Engineers are primarily tasked with improving the Continuous Integration (CI)
@@ -383,7 +406,7 @@ and Continuous Deployment (CD) functionality in GitLab. Engineers should be will
 
 1. Provide value to the user and communicate such with product managers,
 1. Introduce features that work at scale and in untrusting environments,
-1. Always focus on defining and shipping [the Minimal Viable Change](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc).
+1. Always focus on defining and shipping [the Minimal Viable Change](/handbook/product/product-principles/#the-minimal-viable-change-mvc).
 
 We, as a team, cover end-to-end integration of CI/CD in GitLab, with components being written in Rails and Go.
 We work on a scale of processing a few million of CI/CD jobs on GitLab.com monthly.
@@ -489,7 +512,7 @@ Engineering Productivity Engineers have the following job-family performance ind
 
 #### Hiring Process
 
-1. 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters.
+1. 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters.
 1. 60 minute behavioral interview with the Engineering Manager, Engineering Productivity.
 1. 50 minute behavioral interview with two Quality team members with at least 1 Backend Engineer, Engineering Productivity
 1. 90 minute Ruby-based technical interview.

@@ -14,6 +14,16 @@ Once you have access to the Secure Code Warrior training portal, please do the f
 
 Once you have done the above, you will be in a great shape to start contributing to the SCW training program. Please feel free to post in `#sec-appsec` if you have any questions.
 
+## Content Development
+
+Any GitLab team member is welcome to contribute to the development of course content. AppSec should ensure that content development involves team members who will take the course, particularly if that course is mandatory. For example, involve Frontend Engineers in the development of a course that includes Vue.JS content.
+
+When developing content, consider:
+
+- What is the learning focus? E.g. broad framework security awareness vs. specific training on a specific class of vulnerability
+- How long should the course take? This impacts the content included: the number of videos, challenges, etc
+- Is the content high quality? Work with team members and our Secure Code Warrior customer support manager to ensure the training provides good advice and bug-free challenges
+
 ## Engagement Goal
 
 Developer = Backend + Frontend Engineers. See [Org Chart](https://comp-calculator.gitlab.net/org_chart) for more information on the number and types of developers at GitLab.

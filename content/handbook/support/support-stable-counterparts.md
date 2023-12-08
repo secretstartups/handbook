@@ -5,7 +5,7 @@ description: The purpose of this page is to give an overview and outline the exp
 
 ## Overview
 
-As a result of our direct interactions with customers, the Support Team occupies a unique position in GitLab that gives us the opportunity to connect product managers with customer feedback, and influence changes. To take advantage of this opportunity, we've adopted a model that is known within GitLab as "Stable Counterparts." In brief, a "stable counterpart" is an assigned, permanent contact for a GitLab Team Member within another function in the company. See the [Stable counterparts](https://about.gitlab.com/handbook/leadership/#stable-counterparts) item on the Leadership page, and [An ode to stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) for more information.
+As a result of our direct interactions with customers, the Support Team occupies a unique position in GitLab that gives us the opportunity to connect product managers with customer feedback, and influence changes. To take advantage of this opportunity, we've adopted a model that is known within GitLab as "Stable Counterparts." In brief, a "stable counterpart" is an assigned, permanent contact for a GitLab Team Member within another function in the company. See the [Stable counterparts](/handbook/leadership/#stable-counterparts) item on the Leadership page, and [An ode to stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) for more information.
 
 ## Expected outcomes of the Support Stable Counterpart (SSC) Initiative
 
@@ -16,7 +16,7 @@ As a result of our direct interactions with customers, the Support Team occupies
 
 ## How do we align Support Team Members to the Product?
 
-- Development of the product is broken down into [sections, stages and groups; that page](https://about.gitlab.com/handbook/product/categories/#devops-stages) is the single source of truth about who is performing this role.
+- Development of the product is broken down into [sections, stages and groups; that page](/handbook/product/categories/#devops-stages) is the single source of truth about who is performing this role.
 - Each group can have one or more individual contributor counterparts.
 - Each section can have a Support manager counterpart.
 
@@ -54,7 +54,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 
 - A monthly communication cadence is recommended. Since your group might not have a lot of updates to share with Support every month, set a cadence that is appropriate for the situation.
 - [Section SSC] Ensure a regular cadence of communication with the group level SSCs to ensure alignment and balance of prioritization of issues.
-- Share announcements through the [SWIR](https://about.gitlab.com/handbook/support/#support-week-in-review) and in relevant Support Slack channels.
+- Share announcements through the [SWIR](/handbook/support/#support-week-in-review) and in relevant Support Slack channels.
   - Use the prefix `[SSC Update: Group_Name: GitLab(Major).(Minor).(Patch)]` for your updates in both SWIR and in relevant slack channels. Having consistency in this will help us measure the success and usefulness of this initiative.
 - Group related updates and announcements can be:
   - New features added in an upcoming release
@@ -89,7 +89,7 @@ Here's some things that other SSCs are doing that might serve as additional insp
 - Tag issues with "Support Priority" and "Support Efficiency" when appropriate. You can also use "Support Interest" to easily search for issues.
 - Analyze impact of fixing one or more high priority issues with the number of relevant tickets. (examples for [Authentication and Authorization](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/17628) and [SaaS Account tickets](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4966))
 - Contacting customers on behalf of the product group: Normally this is something the CMOC does, but in non-urgent cases you might be better equipped with domain-specific knowledge for a specific conversation with a customer ([example from Pipeline Execution](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/18107))
-- Provide reviews of customer enablement campaigns: The [Customer Success Programs Team](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs) creates campaigns to inform and educate our customers to help expand their usage of GitLab. As an SSC you're uniquely positioned as a Subject Matter Expert to review the communication that will go to customers with an eye for technical accuracy and ticket deflection. See [SME Review Guidelines](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#subject-matter-expert-sme-review-guidelines) for more information.
+- Provide reviews of customer enablement campaigns: The [Customer Success Programs Team](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs) creates campaigns to inform and educate our customers to help expand their usage of GitLab. As an SSC you're uniquely positioned as a Subject Matter Expert to review the communication that will go to customers with an eye for technical accuracy and ticket deflection. See [SME Review Guidelines](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#subject-matter-expert-sme-review-guidelines) for more information.
 - Check if there is a [Support Pod](https://gitlab.com/gitlab-com/support/support-pods) that is topically aligned with your product group and consider joining it – you're an ideal candidate to benefit from the additional exposure to relevant tickets.
 
 ### Be available to support and mentor newly onboarded SSCs
@@ -144,7 +144,7 @@ The [tables below](#product-counterparts) lists all groups and stages that curre
 If you're interested in becoming a stable counterpart for a group,
 
 - Discuss with your manager.
-- Open an issue with the [SSC Onboarding template](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Support%20Stable%20Counterparts%20Basics.md) in the Support Training project.
+- Open an issue with the [SSC Onboarding template](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/Support%20Stable%20Counterparts%20Basics.md) in the Support Training project.
   - This is a very very short module that walks you through expectations and best practices, and will take less than half a day to complete!
 - Once done, create a handbook merge request:
   - Add your name under 'Support' for the relevant team on [/data/stages.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml). Spell your name exactly as in the [YAML file for your team page entry](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person) to ensure it will be linked up correctly.
@@ -154,14 +154,13 @@ Note: We encourage having more than 1 SSC for a group - so if the group you are 
 
 ## Non-group specific SSCs
 
-A couple of roles are not product group specific, but involve all the same expectations and responsibilities with some overlap of the [Support Liaison role](/handbook/support/support-liaisons.html).
+A couple of roles are not product group specific, but involve all the same expectations and responsibilities with some overlap of the [Support Liaison role](/handbook/support/support-liaisons).
 Non-group specific counterparts typically also step in when the related group has questions where there is no SSC currently.
 
-| Section          | Group          | Group Contact       | Support Liaison             | Frequency           |
-|:----------------:|:--------------:|:-------------------:|:---------------------------:|:-------------------:|
-| UX               | Tech Writing   | Susan Tacker        | Cynthia Ng & Mike Lockhart  | weekly team meeting |
-| UX               | UX             | Christie Lenneville | Cynthia Ng                  | weekly team meeting |
-| Quality          | Reference Architecture | Grant Young | Simon Street | TBD |
+| Section          | Group          | Group Contact       | Support Counterpart | Frequency           |
+|:----------------:|:--------------:|:-------------------:|:-------------------:|:-------------------:|
+| UX               | Tech Writing   | {{< member-by-name "Susan Tacker" >}} | {{< member-by-name "Mike Lockhart" >}}       | weekly team meeting |
+| Quality          | Reference Architecture | {{< member-by-name "Grant Young" >}} | {{< member-by-name "Simon Street" >}}        | TBD |
 
 ## Product counterparts
 

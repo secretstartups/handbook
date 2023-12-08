@@ -14,7 +14,7 @@ The Growth and Development benefit is managed in partnership with the Total Rewa
 | Question Type | Contact |
 | ----- | ----- |
 | Administration of the benefit, reimbursements, approvals, and questions realted to the application issue templates | Total Rewards team via the #people-connect Slack channel |
-| Qualified programs, suggested courses, conferences, etc, and feedback from your learning | Learning and Development team via #learnignanddevelopment Slack channel |
+| Qualified programs, suggested courses, conferences, etc, and feedback from your learning | Learning and Development team via #learninganddevelopment Slack channel |
 | Other | #people-connect Slack channel for support in determining the best team |
 
 ## Growth and Development Benefit Eligibility
@@ -68,11 +68,7 @@ The Growth and Development policy is meant to further team members' learning and
 **Step 3:** Request approval on the issue. Manager approval is needed for all applications and Executive Leader approval is needed for applications above $1000 USD.
 
 - Once the manager has approved, there is no further action to be taken by the manager. They can unassign themselves to the issue if they wish. Total Rewards will update the labels on the issue.
-- **Field organization executive signatures should be routed by the following:**
-  - Enterprise Sales: Mike Pyle (VP of Enterprise Sales)
-  - Customer Success: David Sakamoto (VP of Customer Success)
-  - Commercial Sales: Ryan O'Nell (VP of Commercial Sales)
-  - Worldwide Channels: David Helfer (interim VP of Worldwide Channels)
+- **Field organization executive signatures should be routed by to the VP of the team member's department.**
 - **Sales Development organization executive signature should be routed by the following:**
 - Sales Development/Business Development: Jean-Baptiste Larramendy (AVP, Sales Development)
 
@@ -86,17 +82,17 @@ Once the appropriate approvals are provided on the Growth and Development issue,
 ## Bulk Applications
 
 - If multiple team members are doing the same training or attending the same conference, please open one issue.
-- For ease of processing, it is recommended that bulk applications are paid via [Coupa](https://about.gitlab.com/handbook/finance/procurement/). If the bulk application is for a conference, the group tickets may be paid via [Coupa](https://about.gitlab.com/handbook/finance/procurement/) under one invoice and individual costs (such as accommodation and food) may be claimed by Navan Expense or the Growth & Development email per the [reimbursement process](#reimbursements-of-growth-and-development-applications) below.
+- For ease of processing, it is recommended that bulk applications are paid via [Coupa](/handbook/finance/procurement/). If the bulk application is for a conference, the group tickets may be paid via [Coupa](/handbook/finance/procurement/) under one invoice and individual costs (such as accommodation and food) may be claimed by Navan Expense or the Growth & Development email per the [reimbursement process](#reimbursements-of-growth-and-development-applications) below.
 
 ## Reimbursements of Growth and Development Applications
 
 **If the cost is [$1,000 USD or less]({{< ref "compensation#exchange-rates" >}})**
 
-- Claim your expenses via [Navan Expense](https://about.gitlab.com/handbook/finance/expenses/#-introduction):
+- Claim your expenses via [Navan Expense](/handbook/finance/expenses/#-introduction):
   - Include a screenshot of your approved Growth & Development issue.
   - In your Navan Expense report, select the classification or tag "Growth and Development".
   - Please make sure the issue matches your Navan Expense claim amount. Your Navan Expense claim will be audited against the Growth & Development issue amount.
-- Please claim conference and workshop meals and lodging that cost $1,000 USD and below per receipt via [Navan Expense](https://about.gitlab.com/handbook/finance/expenses/#-introduction).
+- Please claim conference and workshop meals and lodging that cost $1,000 USD and below per receipt via [Navan Expense](/handbook/finance/expenses/#-introduction).
 
 **If the cost is [over $1,000 USD]({{< ref "compensation#exchange-rates" >}})**
 
@@ -141,7 +137,7 @@ The course must be from a credentialed college or university and must be relevan
 
 ### Professional Coaching
 
-**Description:** Professional coaching is available for managers and leaders job grade 8+ to support development in their professional area of interest. Team members job grade 4-7 can receive external coaching from [Modern Health]({{< ref "modern-health" >}}) and internal coaching from our [internal resources]({{< ref "coaching" >}}). Team members are expected to know their confidentiality obligations and are responsible for keeping coaching conversations [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/).
+**Description:** Professional coaching is available for managers and leaders job grade 8+ to support development in their professional area of interest. Team members job grade 4-7 can receive external coaching from [Modern Health]({{< ref "modern-health" >}}) and internal coaching from our [internal resources]({{< ref "coaching" >}}). Team members are expected to know their confidentiality obligations and are responsible for keeping coaching conversations [SAFE](/handbook/legal/safe-framework/).
 
 [Coaching Right Now](https://docs.google.com/document/d/188H3iuIY9JwE4kmAeoLobNz-e6j-rKie/edit?usp=sharing&ouid=113211236094818760555&rtpof=true&sd=true) connects team members with GitLab-vetted coaches - [read their coaching bios here](https://drive.google.com/file/d/1ZDpDruFLECbjTbaNKvaj_VqwG4fJvRtB/view?usp=sharing). Team members can book 4, 6, or 8hrs of coaching. Availability is first come, first served. Pairing with a coach via Coaching Right Now saves time and energy looking for a coach that is aligned to GitLab values and way of working.
 
@@ -199,7 +195,7 @@ Examples of English Language Courses:
 
 ### Workshops and Conferences
 
-**Description:** Work-related conferences including registration, lodging, and meals. The costs for travelling to and from an event should be expensed separately from the training budget following the [existing travel expense policy](https://about.gitlab.com/handbook/finance/expenses/), with your manager approval. We encourage people to be speakers in conferences. More information for people interested in speaking can be found on our [Corporate Communications](https://about.gitlab.com/handbook/marketing/corporate-communications/speaking-resources/) page. We suggest to the attendees bring and share a post or document about the news and interesting items that can bring value to our environment.
+**Description:** Work-related conferences including registration, lodging, and meals. The costs for travelling to and from an event should be expensed separately from the training budget following the [existing travel expense policy](/handbook/finance/expenses/), with your manager approval. We encourage people to be speakers in conferences. More information for people interested in speaking can be found on our [Corporate Communications](/handbook/marketing/corporate-communications/speaking-resources/) page. We suggest to the attendees bring and share a post or document about the news and interesting items that can bring value to our environment.
 
 **Eligibility for Reimbursement:** Before scheduling any travel or time off to attend a conference, please discuss your request with your manager. The manager will approve the request if the conference is work-related and the timing doesn't interfere with GitLab deliverables. After manager approval, the team member needs to submit a Growth & Development form for expenses either [over $1,000 or under $1,000](#how-to-apply-for-growth-and-development-benefits). Once all parties sign the document, they can schedule travel. Please review current [GitLab travel policy]({{< ref "travel" >}}) for the most up-to-date information about booking and planning conference travel and determine if travel is [business essential]({{< ref "travel" >}}) during Covid-19. Reimbursement for the workshop or conference fee, and for related expenses will be processed once proof of attendance is provided. Attach a copy of the Growth & Development Benefit Form to your expenses.
 
@@ -233,7 +229,7 @@ Examples of English Language Courses:
 
 ### Crucial Conversations training
 
-The Learning and Development team delivers the [Crucial Conversations]({{< ref "crucial-conversations" >}}) training internally to team members. The training is a hybrid format, including self-paced learning and live learning practice sessions. Read more program details in the [Learning and Development handbook](/handbook/people-group/learning-and-development/learning-initiatives/crucial-conversations/).
+The Learning and Development team delivers the [Crucial Conversations]({{< ref "/handbook/leadership/crucial-conversations" >}}) training internally to team members. The training is a hybrid format, including self-paced learning and live learning practice sessions. Read more program details in the [Learning and Development handbook](/handbook/people-group/learning-and-development/learning-initiatives/crucial-conversations/).
 
 Crucial Conversations charges per-learner to deliver this content. Each license costs $273 per license. The following section outlines how the team member G&D benefit can be used to participate in this training.
 
@@ -267,7 +263,7 @@ The following programs have been contributed by leaders across the organization.
 | Any | [Udemy](https://www.udemy.com/) | Online courses in a variety of content areas |
 | Any | [Coursera](https://www.coursera.org/) | Online courses in a variety of content areas |
 | Any | [LinkedIn Learning Certification Prep and Continuing Education](https://learning.linkedin.com/certification-and-continuing-education-programs) | `LinkedIn Learning offers on-demand courses to help individuals prepare for professional certification exams and earn continuing education units (CEU's)` |
-| Any | [Toastmasters Membership](https://www.toastmasters.org/) | For those looking to practice public speaking, improve communication and build leadership skills, joining a local Toastmasters group is a great opportunity to develop these skills in a supportive environment away from work. Recommended for those interested in [Becoming a Speaker](https://about.gitlab.com/handbook/marketing/corporate-communications/speaking-resources/)
+| Any | [Toastmasters Membership](https://www.toastmasters.org/) | For those looking to practice public speaking, improve communication and build leadership skills, joining a local Toastmasters group is a great opportunity to develop these skills in a supportive environment away from work. Recommended for those interested in [Becoming a Speaker](/handbook/marketing/corporate-communications/speaking-resources/)
 | Sales/Technical Sales/Marketing | [MIT Cloud and DevOps Online Program](https://professionalprograms.mit.edu/online-program-cloud-devops-continuous-transformation/) | `MIT Professional Education is proud to announce this new, practical program that will explain the vast technological transformation that has occurred in recent years. Content and activities are designed to allow participants to become part of this transformation through technologies such as DevOps and Cloud Computing.` |
 | Engineering Managers/Directors | [7CTOs](https://7ctos.com/) | Executive coaching for CTOs |
 | Engineering Managers/Directors | [PlatoHQ](https://www.platohq.com/) | Leadership mentorship for engineering teams |

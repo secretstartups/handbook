@@ -26,24 +26,24 @@ Each process of the maturity model is presented by an issue with a short title a
 
 #### Maturity levels
 
-The `Maturity Level::*` label reflects the level of the process and is **mandatory**.
+The `~Maturity Level::*` label reflects the level of the process and is **mandatory**.
 There are five levels defined along the continuum of the model (see the ["Capability Maturity Model" wikipedia page] for more details):
 
-- `Maturity Level::Initial (1)`
-- `Maturity Level::Repeatable (2)`
-- `Maturity Level::Defined (3)`
-- `Maturity Level::Capable (4)`
-- `Maturity Level::Efficient (5)`
+- `~Maturity Level::Initial (1)`
+- `~Maturity Level::Repeatable (2)`
+- `~Maturity Level::Defined (3)`
+- `~Maturity Level::Capable (4)`
+- `~Maturity Level::Efficient (5)`
 
 These labels must use the color `#6699cc` (blue) for consistency.
 
-#### Maturity
+#### Progress labels
 
-The `Maturity::*` label reflects the current state of the process and is **optional**:
+The `~Maturity::*` label reflects the current state of the process and is **optional** when activity hasn't started yet:
 
-- `Maturity::In progress`
-
-These labels must use the color `#8fbc8f` (green) for consistency.
+- `~Maturity::In Progress`: The team is actively working to achieve this state or behavior. Color: `#6699cc` (blue)
+- `~Maturity::Replaced`: This state or behavior was previously achieved, but has since been replaced in later maturity level. Color: `#8fbc8f` (green)
+- `~Maturity::Established`: This state or behavior has been achieved, and is still being improved and applied. Color: `#009966` (dark green)
 
 ## Resources
 

@@ -8,7 +8,7 @@ The Senior Director of People is responsible for overseeing the team member expe
 
 ### Job Grade
 
-The Senior Director, People Success is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, People Success is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -36,31 +36,31 @@ The Senior Director, People Success is a [grade 11](https://about.gitlab.com/han
 - Executive presence with excellent written and oral communication skills
 - Strong business insight and high EQ to successfully collaborate with executives and business partners at all levels
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 - Ability to use GitLab
 
 ## Performance Indicators
 
-- [12 month PIP Success Rate](https://about.gitlab.com/handbook/people-group/people-group-metrics/#regrettable-attrition)
-- [12 month team member retention](https://about.gitlab.com/handbook/people-group/people-group-metrics/#team-member-retention)
-- [12 month voluntary team member turnover](https://about.gitlab.com/handbook/people-group/people-group-metrics/#team-member-turnover)
-- [12 month voluntary team member turnover related to growth](https://about.gitlab.com/handbook/people-group/learning-and-development/#12-month-voluntary-team-member-turnover-related-to-growth--x)
-- [Discretionary bonus per employee per month](https://about.gitlab.com/handbook/incentives/#discretionary-bonuses-per-employee)
-- [Engagement Survey Growth and Development Score](https://about.gitlab.com/handbook/people-group/learning-and-development/#engagement-survey-growth-and-development-score--x)
-- [Engagement survey inclusion questions](https://about.gitlab.com/company/culture/inclusion/#performance-indicators)
+- [12 month PIP Success Rate](/handbook/people-group/people-group-metrics/#regrettable-attrition)
+- [12 month team member retention](/handbook/people-group/people-group-metrics/#team-member-retention)
+- [12 month voluntary team member turnover](/handbook/people-group/people-group-metrics/#team-member-turnover)
+- [12 month voluntary team member turnover related to growth](/handbook/people-group/learning-and-development/#12-month-voluntary-team-member-turnover-related-to-growth--x)
+- [Discretionary bonus per employee per month](/handbook/incentives/#discretionary-bonuses-per-employee)
+- [Engagement Survey Growth and Development Score](/handbook/people-group/learning-and-development/#engagement-survey-growth-and-development-score--x)
+- [Engagement survey inclusion questions](/handbook/company/culture/inclusion/#performance-indicators)
 - [New Hire Location Factor](/#new-hire-location-factor)
-- [Pay equality](https://about.gitlab.com/company/culture/inclusion/#performance-indicators)
-- [Percent of team members over compensation band](https://about.gitlab.com/handbook/people-group/people-group-metrics/#percent-over-compensation-band)
-- [Rate of internal job promotions](https://about.gitlab.com/handbook/people-group/learning-and-development/#rate-of-internal-job-promotions--x)
-- [Women in company](https://about.gitlab.com/company/culture/inclusion/#performance-indicators)
-- [Women in leadership](https://about.gitlab.com/company/culture/inclusion/#performance-indicators)
-- [Women voluntary attrition](https://about.gitlab.com/company/culture/inclusion/#performance-indicators)
+- [Pay equality](/handbook/company/culture/inclusion/#performance-indicators)
+- [Percent of team members over compensation band](/handbook/people-group/people-group-metrics/#percent-over-compensation-band)
+- [Rate of internal job promotions](/handbook/people-group/learning-and-development/#rate-of-internal-job-promotions--x)
+- [Women in company](/handbook/company/culture/inclusion/#performance-indicators)
+- [Women in leadership](/handbook/company/culture/inclusion/#performance-indicators)
+- [Women voluntary attrition](/handbook/company/culture/inclusion/#performance-indicators)
 
 ### Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with our Director, People Operations
 - After that, candidates will be invited to schedule a 30 minute interview with members of the People Operations and People Partner teams
 - After that, candidates will be invited to interview with the VP of Recruiting

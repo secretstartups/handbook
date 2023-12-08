@@ -27,7 +27,7 @@ This position reports to the Vice President of Security at GitLab.
 
 #### Intermediate Security Program Manager Job Grade
 
-The role is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The role is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Intermediate Security Program Manager Responsibilities
 
@@ -51,7 +51,7 @@ This position reports to the Vice President of Security at GitLab.
 
 #### Senior Security Program Manager Job Grade
 
-The role is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The role is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Security Program Manager Responsibilities
 
@@ -78,7 +78,7 @@ This position reports to the Vice President of Security at GitLab.
 
 #### Staff Security Program Manager Job Grade
 
-The role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Security Program Manager Responsibilities
 
@@ -104,7 +104,7 @@ This position reports to the Vice President of Security at GitLab.
 
 #### Principal Security Program Manager Job Grade
 
-The role is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The role is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Principal Security Program Manager Responsibilities
 
@@ -142,12 +142,12 @@ For details on the Security organization leadership roles, to include the Securi
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-1. Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+1. Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 1. Candidates will be invited to schedule a 50-minute interview directly with the VP of Security.
 1. Candidates will be invited to schedule 2-3 separate 50-minute interviews with Directors of Security sub-departments.
 1. Candidates will be invited to schedule a 50-minute interview with the CTO.
 1. Candidates may be asked to schedule a final 30-minute discussion with the VP of Security.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

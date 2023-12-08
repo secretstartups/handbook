@@ -6,11 +6,11 @@ description: "Support team 1:1s guidelines"
 
 ## Aims and context
 
-At GitLab we have [weekly 1-1s](https://about.gitlab.com/handbook/leadership/1-1/).
+At GitLab we have [weekly 1-1s](/handbook/leadership/1-1/).
 
 The **aim** of this page is to:
 
-1. Encourage consistency across the global Support team when discussing [Support Engineer Responsibilities](/handbook/support/support-engineer-responsibilities.html)
+1. Encourage consistency across the global Support team when discussing [Support Engineer Responsibilities](/handbook/support/support-engineer-responsibilities)
 1. Help make work visible
 
 This page **does not**:
@@ -57,17 +57,17 @@ The core focus of a Support Engineers' work is helping customers by resolving su
 
 **A. Ticket Review**
 
-Each week you should review two tickets together during the 1:1 call. This can be done in 5 to 10 minutes. It's not an in-depth review. Details on how to do this are in the [Working on Tickets page](/handbook/support/workflows/working-on-tickets.html#1-weekly-ticket-review). We recommend that the manager reads some tickets before the call so that you are ready with concise feedback. The `Comments Review` tab on your personal Zendesk Explore dashboard is a good place to locate relevant tickets. The table on the left shows tickets that your reports have made more than one comment on in the last week. This makes it easy to find tickets they have been primarily focused on.
+Each week you should review two tickets together during the 1:1 call. This can be done in 5 to 10 minutes. It's not an in-depth review. Details on how to do this are in the [Working on Tickets page](/handbook/support/workflows/working-on-tickets#1-weekly-ticket-review). We recommend that the manager reads some tickets before the call so that you are ready with concise feedback. The `Comments Review` tab on your personal Zendesk Explore dashboard is a good place to locate relevant tickets. The table on the left shows tickets that your reports have made more than one comment on in the last week. This makes it easy to find tickets they have been primarily focused on.
 
 **B. Public replies on assigned tickets (optional discussion)**
 
-Take a look at your team's Zendesk Explore dashboard and see how they're doing with the goal of around 50-60% of public replies on tickets that are assigned to themselves. [Details about this on the Working on Tickets page](/handbook/support/workflows/working-on-tickets.html#2-public-replies-on-your-assigned-tickets).
+Take a look at your team's Zendesk Explore dashboard and see how they're doing with the goal of around 50-60% of public replies on tickets that are assigned to themselves. [Details about this on the Working on Tickets page](/handbook/support/workflows/working-on-tickets#2-public-replies-on-your-assigned-tickets).
 
 It's likely you can skip this section if people are successfully balancing their contributions.
 
 **C. Meeting the ticket baseline (optional discussion)**
 
-Take a look at your team's Zendesk Explore dashboard and see if they are meeting the ticket baseline. [Details about this on the Support Engineer responsibilities page](/handbook/support/support-engineer-responsibilities.html#ticket-baseline).
+Take a look at your team's Zendesk Explore dashboard and see if they are meeting the ticket baseline. [Details about this on the Support Engineer responsibilities page](/handbook/support/support-engineer-responsibilities#ticket-baseline).
 
 It's likely you can skip this section if you're happy with the contributions people are making.
 
@@ -77,9 +77,9 @@ Discuss the career development and learning aspirations of the Support Engineer 
 
 Agree on and document a training plan that accommodates those aspirations and meets the needs of the support team in terms of enhancing team skills and filling knowledge gaps.
 
-Agree on checkin points to review progress and, if necessary, to assist the Support Engineer in prioritizing and allocating the time required for [Learning and Development](https://about.gitlab.com/handbook/people-group/learning-and-development/).
+Agree on checkin points to review progress and, if necessary, to assist the Support Engineer in prioritizing and allocating the time required for [Learning and Development](/handbook/people-group/learning-and-development/).
 
-[Further details on Career Development Page](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#recomendations-for-managers-to-support-the-learning-of-team-members)
+[Further details on Career Development Page](/handbook/people-group/learning-and-development/career-development/#recomendations-for-managers-to-support-the-learning-of-team-members)
 
 ### 4. Discuss other activities from responsibility areas
 
@@ -91,7 +91,7 @@ There may be activities that the Support Engineer would like to discuss that are
 
 - Ask whether the SE has had a day off in the past month, and if not encourage them to plan for one soon
 - Ask whether they have upcoming time off, and if they do:
-  - remind them to review the [Support Team Member Time Off page](https://about.gitlab.com/handbook/support/support-time-off.html) and then to get appropriate coverage for their tickets and roles
+  - remind them to review the [Support Team Member Time Off page](/handbook/support/support-time-off) and then to get appropriate coverage for their tickets and roles
   - ask them if they have any questions about what to do
   - set a reminder for the day before the first PTO date to check with the SE if they've not yet reported to you on their progress in getting coverage
 - If they've had time off recently, ask whether they made all necessary coverage arrangements and discuss any problems that either of you observed
@@ -119,9 +119,9 @@ All 1:1 notes documents should include similar text and links at the top.
 1. Assigned tickets: `https://gitlab.zendesk.com/agent/users/{USER_ID}/assigned_tickets` Replace `{USER_ID}` with the engineer's ZenDesk userid (shown in the address bar when viewing their profile).
 1. All tickets commented on: `https://gitlab.zendesk.com/agent/search/1?q=commenter%3A{USER_ID}%20order_by%3Aupdated_at%20sort%3Adesc` Replace `{USER_ID}` with the engineer's ZenDesk userid
 1. Pairings completed - [Link to the pairings summary page](https://gitlab-com.gitlab.io/support/support-pairing/)
-1. Bug report and feature requests - [Link example](/handbook/support/support-engineer-responsibilities.html#6-create-and-update-issues-for-bugs-and-feature-requests-weekly)
-1. Documentation updates - [Link example](/handbook/support/support-engineer-responsibilities.html#7-improve-documentation-and-publicly-share-knowledge-weekly)
-1. Bug fixes - [Link example](/handbook/support/support-engineer-responsibilities.html#8-fix-gitlab-bugs-and-create-features-occasionally)
-1. Learning and training progress - [Link example](/handbook/support/support-engineer-responsibilities.html#11-develop-your-skills-through-learning-and-training-weekly)
+1. Bug report and feature requests - [Link example](/handbook/support/support-engineer-responsibilities#6-create-and-update-issues-for-bugs-and-feature-requests-weekly)
+1. Documentation updates - [Link example](/handbook/support/support-engineer-responsibilities#7-improve-documentation-and-publicly-share-knowledge-weekly)
+1. Bug fixes - [Link example](/handbook/support/support-engineer-responsibilities#8-fix-gitlab-bugs-and-create-features-occasionally)
+1. Learning and training progress - [Link example](/handbook/support/support-engineer-responsibilities#11-develop-your-skills-through-learning-and-training-weekly)
 1. Customer calls? (Currently no link for this item. Included as a reminder to mention customer calls completed in the last week.)
 1. Interviews? (Currently no link for this item. Included as a reminder to mention interviews completed in the last week.)

@@ -94,7 +94,7 @@
   - Radical transparency
   use_instead:
   - Intentional transparency
-  reason: Radical tends to be absolute and infers a lack of discretion. We are thoughtful and intentional about many things — [informal communication](https://about.gitlab.com/company/culture/all-remote/informal-communication/), [handbook-first documentation](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/), [onboarding](https://about.gitlab.com/company/culture/all-remote/building-culture/#intentional-onboarding), etc. — and have [exceptions to transparency](/handbook/communication/confidentiality-levels/#not-public).
+  reason: Radical tends to be absolute and infers a lack of discretion. We are thoughtful and intentional about many things — [informal communication](https://about.gitlab.com/company/culture/all-remote/informal-communication/), [handbook-first documentation](https://about.gitlab.com/company/culture/all-remote/handbook-first/), [onboarding](https://about.gitlab.com/company/culture/all-remote/building-culture/#intentional-onboarding), etc. — and have [exceptions to transparency](/handbook/communication/confidentiality-levels/#not-public).
 
   exclude_from_exports: false
 
@@ -157,6 +157,16 @@
   use_instead:
   - Usually, people mean "non-engineering."
   reason: Everyone has technical knowledge that they used to perform in their role.
+  exclude_from_exports: false
+
+- avoid:
+  - Documentation
+  avoid_footnote:
+  - used to describe the handbook or the way that we communicate
+  use_instead:
+  - Handbook
+  - Communication or specific type of communication material
+  reason: Documentation often refers to the process of generating documentation after a change has been communicated. At GitLab, we [write things down](https://handbook.gitlab.com/handbook/values/#write-things-down) *first* and then communicate. This way there is no need for documentation after the communication, a step that is frequently skipped.
   exclude_from_exports: false
 
 - avoid:

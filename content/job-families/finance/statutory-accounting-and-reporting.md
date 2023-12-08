@@ -6,11 +6,11 @@ The Statutory Accounting and Reporting job family is responsible for ensuring en
 
 ## Statutory Compliance and Reporting Senior Manager
 
-The Statutory Compliance and Reporting Senior Manager reports to the [Director of Tax](https://about.gitlab.com/job-families/finance/tax/#director-tax).
+The Statutory Compliance and Reporting Senior Manager reports to the [Director of Tax](/job-families/finance/tax/#director-tax).
 
 ### Job Grade
 
-The Statutory Accounting and Compliance Senior Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Statutory Accounting and Compliance Senior Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -41,7 +41,7 @@ The Statutory Accounting and Compliance Senior Manager is a [grade 9](https://ab
 
 ### Performance Indicators
 
-- [Audit Adjustments](https://about.gitlab.com/handbook/tax/performance-indicators/#audit-adjustments)
+- [Audit Adjustments](/handbook/tax/performance-indicators/#audit-adjustments)
 
 ### Career Ladder
 
@@ -51,10 +51,10 @@ The next step in the Statutory Accounting and Compliance job family is to move t
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with our Director of Tax
 - Candidates will then be invited to schedule a 45 minute interview with our VP Corporate Controller
 - Finally, candidates may be asked to interview with other members of the Tax team
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

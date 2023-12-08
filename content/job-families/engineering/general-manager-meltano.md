@@ -6,7 +6,7 @@ The general manager of [Meltano](https://meltano.com/) is responsible for buildi
 
 ## Job Grade
 
-Meltano is a separate company to GitLab, but for the purposes of Total Rewards, the General Manager of Meltano maps to a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) in the GitLab grading structure.
+Meltano is a separate company to GitLab, but for the purposes of Total Rewards, the General Manager of Meltano maps to a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) in the GitLab grading structure.
 
 ## Responsibilities
 
@@ -35,5 +35,5 @@ Meltano is a separate company to GitLab, but for the purposes of Total Rewards, 
 - Masters degree or PhD in a technical field is a plus.
 - Knowledge of GitLab, CI/CD, and Kubernetes is a plus.
 - Knowledge of Python and SQL is a plus.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 - Ability to use GitLab

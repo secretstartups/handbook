@@ -14,7 +14,7 @@ The Billing Operations Analyst, GPO will report to the Manager, Billing Operatio
 
 #### Billing Operations Analyst, GPO Job Grade
 
-The Billing Operations Analyst, GPO is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Billing Operations Analyst, GPO is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Billing Operations Analyst, GPO Responsibilities
 
@@ -44,7 +44,7 @@ The Senior Billing Operations Analyst, GPO will report to the Manager, Billing O
 
 #### Senior Billing Operations Analyst, GPO Job Grade
 
-The Senior Billing Operations Analyst, GPO is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Billing Operations Analyst, GPO is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Billing Operations Analyst, GPO Responsibilities
 
@@ -78,7 +78,7 @@ The Lead Billing Operations Analyst, GPO will report to the Manager, Billing Ope
 
 #### Lead Billing Operations Analyst, GPO Job Grade
 
-The Lead Billing Operations Analyst, GPO is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Lead Billing Operations Analyst, GPO is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Lead Billing Operations Analyst, GPO Responsibilities
 
@@ -108,7 +108,7 @@ The Manager, Billing Operations GPO will report to the Senior Manager, Billing O
 
 #### Manager, Billing Operations GPO Job Grade
 
-The Manager, Billing Operations GPO is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Billing Operations GPO is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Billing Operations GPO Responsibilities
 
@@ -147,7 +147,7 @@ The Senior Manager, Billing Operations GPO will report to the Director, Billing 
 
 #### Senior Manager, Billing Operations GPO Job Grade
 
-The Lead Billing Operations Analyst, GPO is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Lead Billing Operations Analyst, GPO is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Billing Operations GPO Responsibilities
 
@@ -192,14 +192,14 @@ The Lead Billing Operations Analyst, GPO is a [grade 9](https://about.gitlab.com
 
 ## Career Ladder
 
-The next step in the Revenue GPO job family is to move to the [Revenue Accounting](https://about.gitlab.com/job-families/finance/revenue-accounting/) job family.
+The next step in the Revenue GPO job family is to move to the [Revenue Accounting](/job-families/finance/revenue-accounting/) job family.
 
 ## Hiring Process
 
-Candidates for the Revenue Accounting Organization can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for the Revenue Accounting Organization can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Qualified candidates will be invited to schedule a 30 minute screening call with a member of the Recruitment team
 - Then, candidates will be invited to schedule a 45 minute interviews with the Hiring Manager and a 30 minute interview with a Peer
 - Finally, candidates will be invited to a 30-45 minute interview with the Department Director or a member of the Executive Team.
 
-As always, the interviews and screening call will be conducted via a [video call](https://about.gitlab.com/handbook/communication/#video-calls). See more details about our interview process [here](https://about.gitlab.com/handbook/hiring/interviewing/).
+As always, the interviews and screening call will be conducted via a [video call](/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).

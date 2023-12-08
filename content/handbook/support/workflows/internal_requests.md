@@ -30,7 +30,7 @@ You may want to consider subscribing to [Platform::SaaS](https://gitlab.com/gitl
 
 By subscribing to the labels, you'll receive notifications on when a request is created. You should try to work them into your regular workflow, ensuring that you are assigning it to yourself like a customer ticket if you decide to take it.
 
-If you are interested in servicing internal requests that require console access, consider speaking with your manager about completing the [Gitlab.com Console module](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-com%20Console.md).
+If you are interested in servicing internal requests that require console access, consider speaking with your manager about completing the [Gitlab.com Console module](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/GitLab-com%20Console.md).
 
 ## General Workflow
 
@@ -59,7 +59,7 @@ For sales assisted trials, only we can override the credit card validation requi
 
 ## GitLab.com Trial Change Request
 
-Sales team members will typically open this on behalf of their prospects in order to extend an active trial. You can follow the [L&R Workflow for Extending Trials](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials).
+Sales team members will typically open this on behalf of their prospects in order to extend an active trial. You can follow the [L&R Workflow for Extending Trials](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change#extending-trials).
 
 ## Inactive Namespace Request
 
@@ -69,11 +69,11 @@ Customers can submit a support ticket. See [Name Squatting Policy]({{< ref "name
 
 ## Contact Request
 
-GitLab team members will use this template to request Support to contact a user on their behalf.
+GitLab team members should use [the Contact Request template](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Contact%20Request) to request Support to contact a user on their behalf.
 
 Usually, these are assigned to [CMOC](/handbook/support/internal-support/#regarding-gitlab-support-plans-and-namespaces), but can also be completed by anyone with admin-level access to GitLab.com. `Admin Escalation` label is applied and everyone with admin access is supposed to be subscribed and working on such issues.
 
-See the [Sending notices workflow](/handbook/support/workflows/sending_notices.html) for complete instructions on how to contact users.
+See the [Sending notices workflow](/handbook/support/workflows/sending_notices) for complete instructions on how to contact users.
 
 ## Repo Size Limit Increases
 
@@ -98,7 +98,14 @@ See [internal wiki page](https://gitlab.com/gitlab-com/support/internal-requests
 
 ## GitLab.com Console Escalation
 
-This is a [generic template](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab.com%20Console%20Escalation) used to request an engineer with GitLab.com console access to take action.
+There is a [generic template](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab.com%20Console%20Escalation) used to request an engineer with GitLab.com console access to take action.
+
+Before submitting a console escalation request, ensure that you perform [Account Ownership Verification](/handbook/support/workflows/account_verification) workflow for the following types of customer request:
+
+1. To extract and release information.
+1. To make changes to account(s).
+
+This ensures that the request is coming from an authorized contact. Console escalation requests for internal investigation do not require account verification. See Support Team Meta [#5276](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5276#reasoning) on the discussion.
 
 Common issues include the following when the UI and API methods are not working:
 
@@ -110,6 +117,22 @@ Rarely, console escalations will also be used to workaround lack of a feature wh
 
 Console escalation requests can also serve a purpose when further information (unavailable through the UI or API) is needed to understand the root cause of a problem. For example, searching for unverified secondary email until [gitlab#367823](https://gitlab.com/gitlab-org/gitlab/-/issues/367823) is resolved. This may be because we are not sufficiently logging in Kibana/Sentry, we're unable to replicate an issue, or the creation of an issue may not be the appropriate action needed to resolve a customer problem. Collaborate with console enabled engineers and product teams to solve these types of problems.
 
-Engineers with console access should search for similar previous requests, look for the relevant function in the code, or work with another engineer to resolve each request. Common or custom functions can be found in the [support runbooks](https://gitlab.com/gitlab-com/support/runbooks/).
-
 Any request requiring disk access or a big data pull request similar to this [example](https://gitlab.zendesk.com/agent/tickets/336085), which cannot be done via rails console, requires an [infra issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues). Please note that infra does not have an SLO on these requests and may, in the customer's view, take an unreasonable amount of time to action on.
+
+### Response time and escalating the request
+
+Support engineers with console training and access are subscribed to the "Console Escalation::GitLab.com" label, and one of them should respond within 1 business day.
+If you need to reach out to the group, you can do so by [mentioning the console group](https://gitlab.com/groups/gitlab-com/support/dotcom/console/-/group_members?with_inherited_permissions=exclude).
+Please note that there is a [read-write group](https://gitlab.com/groups/gitlab-com/support/dotcom/console/write/-/group_members?with_inherited_permissions=exclude) for requests that require write access.
+If it's urgent, please ping the specific team members who are working based on timezone in the `#support_gitlab-com` Slack channel.
+If none are available, please engage infra SRE on-call and notify the Support Manager on-call for awareness.
+
+### Fulfilling console requests
+
+Engineers with console access should search for similar previous requests, look for the relevant function in the code, or work with another engineer to resolve each request.
+You can filter requests by "Read::Only" or "Read::Write" labels.
+Common or custom functions can be found in the [support runbooks](https://gitlab.com/gitlab-com/support/runbooks/).
+
+For update, create, and delete actions, it's essential to carefully review the request and think about the impact of these actions. Remember, update and delete actions can be risky. When writing custom commands or scripts, it's crucial to calibrate them based on the potential risks and the situation's specifics. Unless the situation is urgent, get another set of eyes in your code to confirm what you want to achieve.
+
+If you're not completely sure about the specifics of the script or commands, test them out in your test instance first. And if needed, get feedback from developers who know that area of codebase before using them in the production console. This approach helps reduce risks when doing console tasks in production.

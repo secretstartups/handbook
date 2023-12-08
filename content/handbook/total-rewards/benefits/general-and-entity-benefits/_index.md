@@ -5,7 +5,7 @@ description: A list of the General & Entity Specific Benefits that GitLab offers
 
 ## Introduction
 
-For the avoidance of doubt, the benefits listed below in the General Benefits section are available to contractors and team members, unless otherwise stated. Other benefits are listed by countries that GitLab has established an entity or co-employer and therefore are applicable to team members in those countries only via our entity specific benefits. GitLab has also made provisions for Parental Leave which may apply to team members but this may vary depending on local country laws. If you are unsure please reach out to the Absence Management team.
+For the avoidance of doubt, the benefits listed below in the General Benefits section are available to all team members, unless otherwise stated. Other benefits are listed by countries where GitLab has established an entity or uses a PEO and therefore are applicable to team members in those countries only via our benefits specific to that country. GitLab has also made provisions for Parental Leave which may apply to team members but this may vary depending on local country laws. If you are unsure please reach out to the Absence Management team.
 
 ## Contact Total Rewards
 
@@ -32,7 +32,7 @@ For any questions relating to benefits, please reach out to [Total Rewards](/han
 
 ### Benefits Available to Contractors
 
-Contractors of GitLab BV are eligible for the [general benefits]({{< ref "benefits" >}}), but are not eligible for entity specific benefits. A contractor may bear the costs of their own health insurance, social security taxes, payroll administration, or tax details.
+Contractors of GitLab IT BV are eligible for the [general benefits]({{< ref "benefits" >}}), but are not eligible for entity specific benefits. A contractor may bear the costs of their own health insurance, social security taxes, payroll administration, or tax details.
 
 Our contractor agreements and employment contracts are all on the [Employment Contracts](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/employment_contracts/) page in the internal handbook.
 
@@ -71,12 +71,12 @@ Budget estimations for the Growth & Development benefit are based on utilization
 
 The [Growth and Development page]({{< ref "growth-and-development" >}}) covers information on the application process and the different types of expenses you can get reimbursed under this benefit.
 
-## GitLab Contribute
+## GitLab Summit
 
-[GitLab Contribute](https://about.gitlab.com/events/gitlab-contribute/) is our annual GitLab team event where we get together to interact with one another and cultivate our community. Since our team is scattered all over the globe, we try to plan a different location each year. Contribute is an optional event, so team members should not feel pressured to attend. This year, Contribute will be hybrid-first, enabling team members to watch and participate from anywhere.
+GitLab Summit (formerly known as Contribute) is our annual GitLab team event where we get together to interact with one another and cultivate our community. Since our team is scattered all over the globe, we try to plan a different location each year. Summit is an optional event, so team members should not feel pressured to attend.
 
-From our first Contribute in Serbia to our virtual event in 2020, team members from around the world have built friendships and experienced the values in person.
-For more information and compilations of our past events check out our [previous Contributes (formerly called GitLab Summit)](https://about.gitlab.com/company/culture/contribute/previous/).
+From our first Summit in Serbia to our virtual event in 2020, team members from around the world have built friendships and experienced the values in person.
+For more information and compilations of our past events check out our [previous Contributes](/handbook/company/culture/contribute/previous/).
 
 ## Business Travel Accident Policy
 
@@ -122,9 +122,9 @@ The following incentives are available for GitLab team members:
 
 ## All-Remote
 
-GitLab is an [all-remote](https://about.gitlab.com/blog/2018/10/18/the-case-for-all-remote-companies/) company; you are welcome to [read our stories](https://about.gitlab.com/company/culture/all-remote/stories/) about how working remotely has changed our lives for the better.
+GitLab is an [all-remote](https://about.gitlab.com/blog/2018/10/18/the-case-for-all-remote-companies/) company; you are welcome to [read our stories](/handbook/company/culture/all-remote/stories/) about how working remotely has changed our lives for the better.
 
-You can find more details on the [All Remote](https://about.gitlab.com/company/culture/all-remote/) page of our handbook.
+You can find more details on the [All Remote](/handbook/company/culture/all-remote/) page of our handbook.
 
 *If you are already a GitLab employee and would like to share your story, simply add a `remote_story:` element to your entry in `team.yml` and it will appear
 on that page.*
@@ -180,8 +180,14 @@ You don't have to take your Parental Leave in one continuous period, we encourag
 
 **A few things to note:**
 
-- If you are planning to change or extend your Parental Leave by using a different type of leave such as PTO, unpaid leave or any local statutory leave, please send an e-mail to leaves@gitlab.com.
+- If you are planning to change or extend your Parental Leave by using a different type of leave such as PTO or any local statutory leave, please send an e-mail to leaves@gitlab.com.
 - When determing the dates of your leave, GitLab uses a 1/7 formula (1 week = 7 days). This means if you are planning on returning to work on a Monday, the last day of your leave will be Sunday. Please use this formula when submitting your Time Off by Deel request.
+
+### Taking PTO After Taking Parental Leave
+
+If you need to take more time off after Parental Leave, you may utilize GitLab's [Paid Time Off policy]({{< ref "paid-time-off#a-gitlab-team-members-guide-to-time-off" >}}) with manager coordination. This time off should be discussed with your Manager following the same reporting guidelines outlined in the PTO policy (double the amount of notice as the amount requested), but if business critical deadlines will be missed your Manager may ask you to change the dates.
+
+Please submit the dates of your PTO in [Time Off by Deel]({{< ref "paid-time-off#time-off-by-deel" >}}) by selecting `Vacation`.
 
 ### How to Initiate Your Parental Leave
 
@@ -199,12 +205,6 @@ Your manager and the Absence Management team will be notified after you submit y
     - If eligible to roll over public holidays, and you'd like to use them to extend your time away, please enter this as `Public Holiday` in Time Off by Deel and add a note indicating "rolling over holidays which occured while on parental leave".
 - Some countries require extra paperwork or have specific leave requirements, which are subject to change as legal requirements change. Please take a look at your [country's leave policy](#entity-benefits).
 
-### Taking PTO After Taking Parental Leave
-
-If you need to take more time off after taking 16 weeks of Parental Leave, you can utilize our [Paid Time Off policy]({{< ref "paid-time-off#a-gitlab-team-members-guide-to-time-off" >}}). This time should be discussed with your Manager prior to the start of your Parental leave, and you will need to return to work for at least 7 calendar days before PTO can begin.
-
-Please submit the dates of your PTO in [Time Off by Deel]({{< ref "paid-time-off#time-off-by-deel" >}}) by selecting `Vacation`.
-
 ### Commission Payout and Quota Relief
 
 ### Commission Payments on Parental Leave
@@ -221,7 +221,7 @@ In all cases, target variable pay used for LOA commission payments is 1/12 of an
 
 #### Quota Relief While On Parental Leave
 
-Additionally, effective Q1 FY22, commissioned roles are eligible to receive quota relief during their parental leave if the team member has six months or greater of tenure with GitLab before the start of their leave and their leave of absence is longer than 60 continuous days. The team member will receive credit and commissions as specified in their existing Participant Schedule that occur ***prior*** to the start of the leave. After 60 continuous days of parental leave, quota relief will be applied to the team member on leave for the total duration of the leave up to a total of 4 months. The team member would receive an amended Participant Schedule upon return from leave. That amended participant schedule will include a prorated On Target Incentive based off the number of days that a team member is in seat for the fiscal year. For example, If coming back from leave at the beginning of a fiscal year, the On Target Incentive will not be prorated. Please see a [reference slide here](https://docs.google.com/presentation/d/1pWM8UhJGL7G8w_QzLKM1q2Rqql4OKm7vLD9HSCKfT9g/edit#slide=id.p) for an example of how the quota relief process and calculation works. For more information on quota relief and commissions on leave, please refer to the terms in the [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/#sales-compensation-plan).
+Additionally, effective Q1 FY22, commissioned roles are eligible to receive quota relief during their parental leave if the team member has six months or greater of tenure with GitLab before the start of their leave and their leave of absence is longer than 60 continuous days. The team member will receive credit and commissions as specified in their existing Participant Schedule that occur ***prior*** to the start of the leave. After 60 continuous days of parental leave, quota relief will be applied to the team member on leave for the total duration of the leave up to a total of 4 months. The team member would receive an amended Participant Schedule upon return from leave. That amended participant schedule will include a prorated On Target Incentive based off the number of days that a team member is in seat for the fiscal year. For example, If coming back from leave at the beginning of a fiscal year, the On Target Incentive will not be prorated. Please see a [reference slide here](https://docs.google.com/presentation/d/1pWM8UhJGL7G8w_QzLKM1q2Rqql4OKm7vLD9HSCKfT9g/edit#slide=id.p) for an example of how the quota relief process and calculation works. For more information on quota relief and commissions on leave, please refer to the terms in the [Sales Compensation Plan](/handbook/finance/sales-comp-plan/#sales-compensation-plan).
 
 In all cases, quota relief is calculated based on the per-month quotas set for a team member in a role at the beginning of the fiscal year, which generally are not equal to 1/12 of annual quota per month, due to businss seasonality.
 
@@ -231,13 +231,13 @@ Effective FY24, team members on leave for 30 days or more will be eligible for C
 
 #### Quota Relief While On Non-Parental Leave
 
-Additionally, effective Q1 FY24, commissioned roles are eligible to receive quota relief if the team member has been with GitLab for six months or longer prior to the start of the leave. The team member will receive credit and commissions as specified in their existing Participant Schedule that occur ***prior*** to the start of the leave. After 60 continuous days of leave, quota relief will be applied to the team member on leave for the total duration of the leave up to a total of 3 months. The team member would receive an amended Participant Schedule upon return from leave. That amended participant schedule will include a prorated On Target Incentive based off the number of days that a team member is in seat for the fiscal year. For example, if coming back from leave at the beginning of a fiscal year the On Target Incentive will not be prorated. Please review this [reference slide](https://docs.google.com/presentation/d/1pWM8UhJGL7G8w_QzLKM1q2Rqql4OKm7vLD9HSCKfT9g/edit#slide=id.p) for an illustration of the quota relief and calculation process. For more information on quota relief and commissions on leave, please refer to the terms in the [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/#sales-compensation-plan).
+Additionally, effective Q1 FY24, commissioned roles are eligible to receive quota relief if the team member has been with GitLab for six months or longer prior to the start of the leave. The team member will receive credit and commissions as specified in their existing Participant Schedule that occur ***prior*** to the start of the leave. After 60 continuous days of leave, quota relief will be applied to the team member on leave for the total duration of the leave up to a total of 3 months. The team member would receive an amended Participant Schedule upon return from leave. That amended participant schedule will include a prorated On Target Incentive based off the number of days that a team member is in seat for the fiscal year. For example, if coming back from leave at the beginning of a fiscal year the On Target Incentive will not be prorated. Please review this [reference slide](https://docs.google.com/presentation/d/1pWM8UhJGL7G8w_QzLKM1q2Rqql4OKm7vLD9HSCKfT9g/edit#slide=id.p) for an illustration of the quota relief and calculation process. For more information on quota relief and commissions on leave, please refer to the terms in the [Sales Compensation Plan](/handbook/finance/sales-comp-plan/#sales-compensation-plan).
 
 Sales management has discretion on how to cover a team member's territory while they are on leave. However, if another team member is assigned to cover business for someone on leave, they should be assigned the opportunity in SFDC but not the account. Team members covering opportunities will be compensated on the opportunities that they close in their name. Reassigning accounts may trigger quota changes.
 
 For Solution Architects and Management and Customer Success Managers and Management, payment will be calculated for individuals using actual team performance while on leave. These roles will not be eligible for quota relief during parental leave.
 
-For Sales roles with a utilization attainment, like the [Professional Services Engineer](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#team-metrics), since the utilization attainment is based on delivering above 70% of available billable hours, we apply the baseline attainment linked to utilization attainment, 50%.
+For Sales roles with a utilization attainment, like the [Professional Services Engineer](/handbook/customer-success/professional-services-engineering/#team-metrics), since the utilization attainment is based on delivering above 70% of available billable hours, we apply the baseline attainment linked to utilization attainment, 50%.
 
 At the end of 90 continuous days of parental or medical leave, a one time payment of the 50% billable utilization attainment will be paid. Utilization payout during parental or medical leave is not based on prior individual performance, since projects identified for billable utilization are based on sales engagements and services attached, and not determined by individual performance.
 
@@ -289,7 +289,7 @@ Tips from GitLab team members are the greater community are below, as well as ho
 
 Nadia's recommendation leans on [Transparency]({{< ref "values#transparency" >}}), as well as an important operating principle of [Efficiency]({{< ref "values#efficiency" >}}): [Be respectful of others' time]({{< ref "values#be-respectful-of-others-time" >}}).
 
-> When I joined GitLab, it was great to see things in people's calendars like `baby time`, `homework with kids`, `date night`, etc. Part of [onboarding](https://about.gitlab.com/company/culture/all-remote/getting-started/) was [coffee chats](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) so I saw these “meetings” on calendars as I tried to schedule chats. It reinforced our [family first operating principle]({{< ref "values#family-and-friends-first-work-second" >}}), and also normalized these activities. It helped me understand that I could set up similar boundaries and not sacrifice bed time or something similar just to have an empty hour on my calendar. — [*Seth B.*](https://gitlab.com/sethgitlab)
+> When I joined GitLab, it was great to see things in people's calendars like `baby time`, `homework with kids`, `date night`, etc. Part of [onboarding](/handbook/company/culture/all-remote/getting-started/) was [coffee chats](/handbook/company/culture/all-remote/informal-communication/#coffee-chats) so I saw these “meetings” on calendars as I tried to schedule chats. It reinforced our [family first operating principle]({{< ref "values#family-and-friends-first-work-second" >}}), and also normalized these activities. It helped me understand that I could set up similar boundaries and not sacrifice bed time or something similar just to have an empty hour on my calendar. — [*Seth B.*](https://gitlab.com/sethgitlab)
 
 Seth's recommendation ties to an operating principle of Diversity, Inclusion & Belonging : [Family and friends first, work second]({{< ref "values#family-and-friends-first-work-second" >}}).
 
@@ -297,7 +297,7 @@ Seth's recommendation ties to an operating principle of Diversity, Inclusion & B
 
 Jonathan's recommendation adds a layer of nuance to [Accepting Uncertainty]({{< ref "values#accepting-uncertainty" >}}), an operating principle of [Results]({{< ref "values#results" >}}). It also touches on [Give agency]({{< ref "values#give-agency" >}}), an operating principle of [Collaboration]({{< ref "values#collaboration" >}}), which empowers team members to focus on what they think is most beneficial.
 
-> Take advantage of GitLab's bias towards [asynchronous communication](https://about.gitlab.com/company/culture/all-remote/management/#asynchronous). A child's schedule shifts rapidly, and I've found it useful to structure my days around my son's routine rather than force him to operate on a rigid timeline. Being a part of a [100% remote team](https://about.gitlab.com/company/culture/all-remote/) empowers team members to [embrace work/life harmony](/company/culture/all-remote/people/#worklife-harmony) in whatever way suits them. Moreover, it's liberating to be able to shift when and where I work depending on the needs of my family.
+> Take advantage of GitLab's bias towards [asynchronous communication](/handbook/company/culture/all-remote/management/#asynchronous). A child's schedule shifts rapidly, and I've found it useful to structure my days around my son's routine rather than force him to operate on a rigid timeline. Being a part of a [100% remote team](/handbook/company/culture/all-remote/) empowers team members to [embrace work/life harmony](/handbook/company/culture/all-remote/people/#worklife-harmony) in whatever way suits them. Moreover, it's liberating to be able to shift when and where I work depending on the needs of my family.
 >
 > It's important to talk about family. For a company to sustain a culture that embraces parents and empathizes with the associated needs, these realities must be shared in the open and not allowed to become taboo. — [*Darren M.*](https://gitlab.com/dmurph)
 

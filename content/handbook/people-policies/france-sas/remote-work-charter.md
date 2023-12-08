@@ -65,7 +65,7 @@ Le télétravail est ouvert aux travailleurs handicapés selon les modalités su
 - Mise en place des logiciels particuliers;
 - Aménagements de l’environnement de travail.
 
-La section sur les [aménagements raisonnables (version en Anglais)](https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation) de la politique interne prévoit des informations complémentaires.
+La section sur les [aménagements raisonnables (version en Anglais)](/handbook/people-policies/inc-usa/#reasonable-accommodation) de la politique interne prévoit des informations complémentaires.
 
 #### 4. ORGANISATION DU TEMPS DE TRAVAIL
 
@@ -81,7 +81,7 @@ Pendant la période de télétravail, le membre de l’équipe organise libremen
 
 Pour chaque journée de télétravail, le membre de l’équipe effectue le temps de travail de référence qui lui est applicable. Le cas échéant, le télétravail ne peut générer aucune heure supplémentaire, sauf sur demande expresse de la hiérarchie.
 
-Pour les jours de télétravail, le décompte du temps de travail est effectué selon un système auto-déclaratif dont le bilan mensuel doit être soumis sans demande au supérieur hiérarchique à la fin de chaque mois. La politique interne paie fournit plus d'informations à ce sujet: [Payroll - Global Upside France](https://about.gitlab.com/handbook/finance/payroll/#global-upside---france).
+Pour les jours de télétravail, le décompte du temps de travail est effectué selon un système auto-déclaratif dont le bilan mensuel doit être soumis sans demande au supérieur hiérarchique à la fin de chaque mois. La politique interne paie fournit plus d'informations à ce sujet: [Payroll - Global Upside France](/handbook/finance/payroll/#global-upside---france).
 
 5.2 *Modalités de régulation de la charge de travail*
 
@@ -115,7 +115,7 @@ Le membre de l’équipe s'engage à prendre connaissance des consignes d'utilis
 
 En cas de besoin et à la demande de la Société, le membre de l’équipe s'engage à suivre les formations nécessaires portant sur l'installation, l'utilisation et l'entretien de ce matériel et, en cours de période de télétravail, celles liées à son adaptation.
 
-Le membre de l’équipe s'engage enfin, sous peine de sanctions pouvant aller jusqu'au licenciement, à utiliser les équipements mis à sa disposition par la Société conformément aux [politiques internes applicables](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/).
+Le membre de l’équipe s'engage enfin, sous peine de sanctions pouvant aller jusqu'au licenciement, à utiliser les équipements mis à sa disposition par la Société conformément aux [politiques internes applicables](/handbook/people-group/acceptable-use-policy/).
 
 La Société s'engage à prendre à sa charge les frais d'entretien, de réparation, voire, en tant que de besoin, de remplacement du matériel.
 
@@ -137,7 +137,13 @@ Le membre de l’équipe veillera, en particulier, à ne transmettre aucune info
 
 #### 9. FRAIS DE TÉLÉTRAVAIL ET FRAIS PROFESSIONNELS
 
-Les frais engendrés par l'utilisation de son domicile à titre professionnel (chauffage, électricité, etc.) seront pris en charge forfaitairement par la Société par le versement d'une indemnité forfaitaire mensuelle d'un montant de 57.20 € par mois.
+Les frais induits par l'utilisation du domicile d’un collaborateur du télétravail (wifi, chauffage, électricité, etc) seront couverts par l'entreprise conformément aux règles légales applicables au moment de l’engagement de la dépense.
+
+Ceci signifie que vous recevrez montant de 57,20 euros minimum par mois, dans les limites fixées par notre [politique en matière de frais] (https://handbook.gitlab.com/handbook/finance/expenses/), et sous réserve que vos dépenses de télétravail réellement induites mensuellement s’élèvent, au moins, à ce moment.
+
+Actuellement, ceci est intégré à notre processus général de gestion des frais et des remboursements par le biais de notre outil d'évaluation des frais (Navan).
+
+Toute dépense liée au télétravail doit, pour des besoins de traçabilité, être justifiée par les reçus et justificatifs appropriés.
 
 Indépendamment des frais liés au télétravail, les frais engagés par le membre de l’équipe à des fins professionnels seront pris en charge par la Société selon les règles légales et les politiques internes applicables.
 
@@ -238,7 +244,7 @@ During the period of remote work, the team member is free to organise their work
 
 For each day of remote work, the team member shall work the applicable reference working time. Where applicable, remote work may not generate any overtime, except at the express request of the management.
 
-For remote work days, the working time is counted according to a self-reporting system, the monthly balance of which must be submitted to the manager without request at the end of each month. The Payroll handbook page provides more information in this regard with the [Global Upside - France](https://about.gitlab.com/handbook/finance/payroll/#global-upside---france) section.
+For remote work days, the working time is counted according to a self-reporting system, the monthly balance of which must be submitted to the manager without request at the end of each month. The Payroll handbook page provides more information in this regard with the [Global Upside - France](/handbook/finance/payroll/#global-upside---france) section.
 
 5.2 *Modalities for work load regulation*
 
@@ -272,7 +278,7 @@ The team member undertakes to take note of the instructions for use of the equip
 
 If necessary and at the request of the Company, the team member undertakes to follow the necessary training on the installation, use and maintenance of this equipment and, during the remote work period, that is related to its adaptation.
 
-Finally, the team member undertakes, under penalty of dismissal, to use the equipment provided by the Company in accordance with the [acceptable use policy](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/) .
+Finally, the team member undertakes, under penalty of dismissal, to use the equipment provided by the Company in accordance with the [acceptable use policy](/handbook/people-group/acceptable-use-policy/) .
 
 The Company undertakes to bear the costs of maintenance, repair and, if necessary, replacement of the equipment.
 All equipment provided by the Company remains its property and as such is exempt from seizure.
@@ -292,7 +298,13 @@ In particular, the team member will ensure that no information is passed on to t
 
 #### 9. REMOTE WORK EXPENSES AND PROFESSIONAL EXPENSES
 
-The expenses incurred by the use of the team member's domicile for professional purposes (heating, electricity, etc.) will be covered by the Company through the payment of a flat-rate monthly allowance of €57.20 per month.
+The expenses incurred by the use of the team member's domicile for remote work purposes (wifi, heating, electricity, etc) will be covered by the Company in accordance with the local regulations applicable at the time of expense.
+
+This means that you shall receive a minimum payment of €57.20 per month, up to the limits set out in our [expenses policy](/handbook/finance/expenses/) and provided that your remote work expenses actually incurred monthly reach, at least, this amount.
+
+Currently, this is incorporated into our general approach to managing expenses and reimbursement via our expensing tool (Navan).
+
+Any remote work expense must, for traceability purposes, be substantiated by the appropriate receipts and justification.
 
 Independently of the expenses related to remote work, the expenses incurred by the team member for professional purposes will be paid by the Company according to the applicable legal rules and internal policies.
 

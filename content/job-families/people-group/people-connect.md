@@ -14,7 +14,7 @@ The People Connect Specialist reports to the Manager, People Connect.
 
 #### Job Grade
 
-The People Connect Specialist is a [Grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The People Connect Specialist is a [Grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -43,7 +43,7 @@ The Senior People Connect Specialist reports to the Manager, People Connect.
 
 #### Job Grade
 
-The Sr People Connect Specialist is a [Grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Sr People Connect Specialist is a [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -73,7 +73,7 @@ The People Connect Lead reports to the Manager, People Connect.
 
 #### Job Grade
 
-The People Connect Lead is a [Grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The People Connect Lead is a [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -104,7 +104,7 @@ The Manager, People Connect reports to the Director, Global People Operations
 
 #### Job Grade
 
-The Manager, People Connect is a [Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, People Connect is a [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -119,7 +119,7 @@ The Manager, People Connect is a [Grade 8](https://about.gitlab.com/handbook/tot
 - Continue to drive automation for easy access of employment confirmation letters, automatic invitations to Contribute, confirmation of business insurance, etc.
 - Continuously manage and improve both administrative efficiency and team member experiences during onboarding.
 - Partner closely with Managers at GitLab to gain feedback from various teams about onboarding, offboarding and transition issues.
-- Review and report on People Operations and Onboarding metrics, including [OSAT](https://about.gitlab.com/handbook/people-group/people-group-metrics/#onboarding-satisfaction-osat) and [Onboarding Task Completion](https://about.gitlab.com/handbook/people-group/people-group-metrics/#onboarding-task-completion--x-tbd).
+- Review and report on People Operations and Onboarding metrics, including [OSAT](/handbook/people-group/people-group-metrics/#onboarding-satisfaction-osat) and [Onboarding Task Completion](/handbook/people-group/people-group-metrics/#onboarding-task-completion--x-tbd).
 - Continuously improve offboarding of team members.  
 - Along with the People Business Partners, create efficient people processes and clear hand-offs.  
 - Work closely with payroll, SecOps, and ITOps to continue to improve the administration of offboarding the time it takes to complete.
@@ -157,7 +157,7 @@ The Senior Manager, People Connect reports to Director, Global People Operations
 
 #### Job Grade
 
-The Senior Manager, People Connect is a [Grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, People Connect is a [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -173,7 +173,7 @@ The Senior Manager, People Connect is a [Grade 9](https://about.gitlab.com/handb
 - Implementation of data retention strategies and partnering with People Leads to ensure this is implemented across all team member data consistently
 - Continuous Improvement of both administration and people experience during onboarding.
 - Partnering closely with Managers at GitLab to gain feedback from various teams about onboarding, offboarding and transition issues
-- Review and report on People Operations and Onboarding metrics, including [OSAT](https://about.gitlab.com/handbook/people-group/people-group-metrics/#onboarding-satisfaction-osat) and [Onboarding Task Completion](https://about.gitlab.com/handbook/people-group/people-group-metrics/#onboarding-task-completion--x-tbd)
+- Review and report on People Operations and Onboarding metrics, including [OSAT](/handbook/people-group/people-group-metrics/#onboarding-satisfaction-osat) and [Onboarding Task Completion](/handbook/people-group/people-group-metrics/#onboarding-task-completion--x-tbd)
 - Continuous improvement of offboarding for both voluntary and involuntary terms
 - Along with the People Business Partners, create a Terminations playbook to ensure the team can remain async and scale
 - Work closely with payroll, SecOps, and ITOps to continue to improve the administration of offboarding the time it takes to complete
@@ -204,7 +204,7 @@ The Director of Global People Operations reports to the VP, People Operations, T
 
 #### Job Grade
 
-The Director, Global People Operations is a [Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Global People Operations is a [Grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -234,7 +234,7 @@ The Director, Global People Operations is a [Grade 10](https://about.gitlab.com/
 - Business insight and high EQ to successfully collaborate with executives and business partners at all levels.
 
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 - Ability to use GitLab
 
 ## Senior Director, Global People Operations
@@ -243,7 +243,7 @@ The Senior Director of Global People Operations reports to the VP, People Operat
 
 #### Job Grade
 
-The Director, Global People Operations is a [Grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Global People Operations is a [Grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -273,28 +273,28 @@ The Director, Global People Operations is a [Grade 11](https://about.gitlab.com/
 - Business insight and high EQ to successfully collaborate with executives and business partners at all levels.
 
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 - Ability to use GitLab
 
 ### Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with our Director, Technology
 - After that, candidates will be invited to schedule a 30 minute interview with members of the Operations Team such as the Compliance Partner and/or Employment Solutions Partner
 - After that, candidates will be invited to interview with the VP, People Operations, Technology and Analytics
 - Finally, our CPO may choose to conduct a final interview
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Performance Indicators
 
-- [12 month team member retention](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#team-member-retention-rolling-12-months)
-- [12 month voluntary team member turnover](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#team-member-voluntary-retention-rolling-12-months)
-- [Onboarding Satisfaction Survey > 4.5](https://about.gitlab.com/handbook/people-group/people-group-metrics/#onboarding-satisfaction-osat)
+- [12 month team member retention](/handbook/people-group/people-success-performance-indicators/#team-member-retention-rolling-12-months)
+- [12 month voluntary team member turnover](/handbook/people-group/people-success-performance-indicators/#team-member-voluntary-retention-rolling-12-months)
+- [Onboarding Satisfaction Survey > 4.5](/handbook/people-group/people-group-metrics/#onboarding-satisfaction-osat)
 - Onboarding task completion < X (TBD)
 
 ## Career Ladder
 
-The next step in the People Operations job family is to move to the [People Operations Leadership Job Family](https://about.gitlab.com/job-families/people-group/leadership-people-operations-tech-analytics/).
+The next step in the People Operations job family is to move to the [People Operations Leadership Job Family](/job-families/people-group/leadership-people-operations-tech-analytics/).

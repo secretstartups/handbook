@@ -29,9 +29,9 @@ Below are the GitLab and US-specific leave policies available to US team members
 
 | Leave Program | Total Time Off | Job Protection |
 |:---:|:---:|:---:|
-| [Parental Leave](#parental-leave) | 16 weeks | Yes* |
-| [Family Medical Leave Act<br>(FMLA- Own Condition)](#gitlab-inc-united-states-leave-policy) | Up to 12 weeks | Yes* |
-| [Family Medical Leave Act<br>(FMLA - Care for a Family Member)](#gitlab-inc-united-states-leave-policy) | Up to 12 weeks | Yes* |
+| [Parental Leave]({{< ref "general-and-entity-benefits#parental-leave" >}}) | 16 weeks | Yes* |
+| [Family Medical Leave Act<br>(FMLA- Own Condition)](#the-family-medical-leave-act-fmla) | Up to 12 weeks | Yes* |
+| [Family Medical Leave Act<br>(FMLA - Care for a Family Member)](#the-family-medical-leave-act-fmla) | Up to 12 weeks | Yes* |
 | [California Family Rights Act (CFRA)](https://www.edd.ca.gov/disability/faqs-fmla-cfra.htm) | Up to 12 weeks** | Yes |
 | Military Leave (USERRA) | Cumulative 5 years | Yes, up to 5 years* |
 | Unpaid Personal Leave | Up to 30 days<br>Requests in excess of 30 days require functional VP and group People Business Partner approval | No |
@@ -42,14 +42,14 @@ Below are the GitLab and US-specific leave policies available to US team members
 
 | Leave Program | Pay Calculations |
 |:---:|:---:|
-| [Parental Leave](#payroll-processing-during-parental-leave) | 100% paid by GitLab (minus any State Disability and/or Paid Family Leave benefits) |
+| Parental Leave | 100% paid by GitLab (minus any State Disability and/or Paid Family Leave benefits) |
 | [Family Medical Leave Act<br>(FMLA - Own Condition)](#payroll-processing-during-fmla) | 66.67% (STD) + 33.3% paid by GitLab per week<br>After 12 weeks:  <br>     66.67% (LTD) per month |
-| [Family Medical Leave Act<br>(FMLA - Care for a Family Member)](#gitlab-inc-united-states-leave-policy) | 100% for up to 25 working days
+| [Family Medical Leave Act<br>(FMLA - Care for a Family Member)](#the-family-medical-leave-act-fmla) | 100% for up to 25 working days
 | California Family Rights Act<br>(CFRA) | First 8 weeks:  60% (SDI/PFL) + 6.66% (STD) + 33.3% paid by GitLab<br>8-12 weeks:  60% (SDI - if applicable) + 6.66% (STD) + 33.3% paid by GitLab<br>After 12 weeks:  66.67% LTD paid by Cigna monthly (if eligible) |
-| [Military Leave (USERRA)](#compensation) | First 25 days:  paid 100% by Gitlab<br>After 25 days:  Unpaid |
+| [Military Leave (USERRA)](#us-military-leave) | First 25 days:  paid 100% by Gitlab<br>After 25 days:  Unpaid |
 | Unpaid Personal Leave | Unpaid |
 
-If you live in a state where disability or paid family leave benefits are available, GitLab will offset your pay minus these benefits. Please refer to GitLab's [Parental Leave](#payroll-processing-during-parental-leave) policy for more information.
+If you live in a state where disability or paid family leave benefits are available, GitLab will offset your pay minus these benefits. Please refer to GitLab's [Parental Leave]({{< ref "inc-benefits-us#parental-leave" >}}) policy for more information.
 
 ## What Happens Next?
 
@@ -77,7 +77,7 @@ The Absence Management team will review the team members eligibility for Short-T
 
 GitLab will grant time off to eligible team members in accordance with the requirements of the California Family Rights Act (“CFRA”) and the federal Family and Medical Leave Act (Fed-FMLA). Where both the CFRA and Fed-FMLA apply, the leave provided by each will count against the team member’s entitlement under both laws and must be taken concurrently. A team member who is eligible for leave under only one of these laws will receive benefits in accordance with that law only. In any case, team members will be eligible for the most generous benefits available under applicable law.
 
-The following policy addresses team member rights under the CFRA only. Team members should refer to [GitLab’s Team Member Handbook](#gitlab-inc-united-states-leave-policy) for additional detail regarding the Fed-FMLA. All questions concerning this policy should be directed to leaves@domain.
+The following policy addresses team member rights under the CFRA only. Team members should refer to [GitLab’s Team Member Handbook](#the-family-medical-leave-act-fmla) for additional detail regarding the Fed-FMLA. All questions concerning this policy should be directed to leaves@domain.
 
 **Team Member Eligibility**
 

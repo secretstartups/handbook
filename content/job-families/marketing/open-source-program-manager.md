@@ -9,7 +9,7 @@ As the Open Source Program Manager, you will be responsible for fostering the ad
 
 ### Job Grade
 
-The Open Source Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Open Source Program Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -34,7 +34,7 @@ The Open Source Program Manager is a [grade 6](https://about.gitlab.com/handbook
 
 ### Job Grade
 
-The Senior Open Source Program Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Open Source Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -52,4 +52,4 @@ The next step in the Open Source Programs job family is not yet defined at GitLa
 
 ## Key Performance Indicators
 
-A [Key Performance Indicator](https://about.gitlab.com/company/kpis/) for this role is the number of Open Source projects and developers moving to GitLab per quarter.
+A [Key Performance Indicator](/handbook/company/kpis/) for this role is the number of Open Source projects and developers moving to GitLab per quarter.

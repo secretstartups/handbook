@@ -10,7 +10,7 @@ The Technical Writing Manager reports to a Senior Manager or Director of Technic
 
 ### Job Grade
 
-The Technical Writing Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Technical Writing Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -36,16 +36,16 @@ The Technical Writing Manager is a [grade 8](https://about.gitlab.com/handbook/t
 - Familiarity with continuous integration, containers, Kubernetes, and project management software a plus.
 - Experience engaging with a wide range of stakeholders across a company, its customers, and/or open-source communities.
 - Share our [values](/handbook/values/) and work in accordance with those values.
-- [Adhere to our view of Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Adhere to our view of Leadership at GitLab](/handbook/company/team/structure/#management-group)
 
 ### Performance indicators
 
-- [UX hiring actual vs plan](https://about.gitlab.com/handbook/product/ux/performance-indicators/#ux-hiring-actual-vs-plan)
-- [UX average location factor](https://about.gitlab.com/handbook/product/ux/performance-indicators/#ux-average-location-factor)
-- [UX Handbook update frequency](https://about.gitlab.com/handbook/product/ux/performance-indicators/#ux-handbook-update-frequency)
-- [Technical Writing team member MR rate](https://about.gitlab.com/handbook/product/ux/performance-indicators/index.html#technical-writing-team-member-mr-rate)
-- [Distribution of Technical Writing team documentation effort](https://about.gitlab.com/handbook/product/ux/performance-indicators/index.html#distribution-of-technical-writing-team-documentation-effort)
-- [Technical Writing collaboration on UI text](https://about.gitlab.com/handbook/product/ux/performance-indicators/#technical-writing-collaboration-on-ui-text)
+- [UX hiring actual vs plan](/handbook/product/ux/performance-indicators/#ux-hiring-actual-vs-plan)
+- [UX average location factor](/handbook/product/ux/performance-indicators/#ux-average-location-factor)
+- [UX Handbook update frequency](/handbook/product/ux/performance-indicators/#ux-handbook-update-frequency)
+- [Technical Writing team member MR rate](/handbook/product/ux/performance-indicators/index.html#technical-writing-team-member-mr-rate)
+- [Distribution of Technical Writing team documentation effort](/handbook/product/ux/performance-indicators/index.html#distribution-of-technical-writing-team-documentation-effort)
+- [Technical Writing collaboration on UI text](/handbook/product/ux/performance-indicators/#technical-writing-collaboration-on-ui-text)
 
 ### Hiring Process
 
@@ -61,7 +61,7 @@ The Senior Manager of Technical Writing reports to the Director of Technical Wri
 
 ### Job Grade
 
-The Senior Manager, Technical Writing is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Technical Writing is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -72,7 +72,7 @@ The Senior Manager, Technical Writing is a [grade 9](https://about.gitlab.com/ha
 - Identify opportunities for process improvement, including automation, and coordinating the implementation and communication of these changes.
 - Promote efficiency and usability using a clear content strategy that defines the types and structure of content, as well as optimal workflow and continued maintenance.
 - Deliver input on promotions, function changes, demotions, and offboarding in consultation with the Technical Writing Managers and the VP of UX.
-- Collaborate with Director, Technical Writing on quarterly [Technical Writing OKRs](https://about.gitlab.com/company/okrs/) and [Performance Indicators](https://about.gitlab.com/handbook/product/ux/performance-indicators/).
+- Collaborate with Director, Technical Writing on quarterly [Technical Writing OKRs](/handbook/company/okrs/) and [Performance Indicators](/handbook/product/ux/performance-indicators/).
 
 ### Requirements
 
@@ -92,15 +92,15 @@ The Senior Manager, Technical Writing is a [grade 9](https://about.gitlab.com/ha
 - Able to shape documentation process in a high-growth, quickly changing organization.
 - Able to give clear, timely, and actionable feedback.
 - You share our [values](/handbook/values/) and work in accordance with those values.
-- [You adhere to our view of Leadership at GitLab.](https://about.gitlab.com/company/team/structure/#management-group)
+- [You adhere to our view of Leadership at GitLab.](/handbook/company/team/structure/#management-group)
 
 ### Performance indicators
 
-- [UX Hiring Actual vs Plan](https://about.gitlab.com/handbook/product/ux/performance-indicators/#ux-hiring-actual-vs-plan)
-- [UX Average Location Factor](https://about.gitlab.com/handbook/product/ux/performance-indicators/#ux-average-location-factor)
-- [UX Handbook Update Frequency](https://about.gitlab.com/handbook/product/ux/performance-indicators/#ux-handbook-update-frequency)
-- [Technical Writing team member MR rate](https://about.gitlab.com/handbook/product/ux/performance-indicators/index.html#technical-writing-team-member-mr-rate)
-- [Distribution of Technical Writing team documentation effort](https://about.gitlab.com/handbook/product/ux/performance-indicators/index.html#distribution-of-technical-writing-team-documentation-effort)
+- [UX Hiring Actual vs Plan](/handbook/product/ux/performance-indicators/#ux-hiring-actual-vs-plan)
+- [UX Average Location Factor](/handbook/product/ux/performance-indicators/#ux-average-location-factor)
+- [UX Handbook Update Frequency](/handbook/product/ux/performance-indicators/#ux-handbook-update-frequency)
+- [Technical Writing team member MR rate](/handbook/product/ux/performance-indicators/index.html#technical-writing-team-member-mr-rate)
+- [Distribution of Technical Writing team documentation effort](/handbook/product/ux/performance-indicators/index.html#distribution-of-technical-writing-team-documentation-effort)
 
 ### Hiring Process
 
@@ -115,7 +115,7 @@ The Director of Technical Writing reports to the VP of UX. Technical Writing Man
 
 ### Job Grade
 
-The Director, Technical Writing is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Technical Writing is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -126,7 +126,7 @@ The Director, Technical Writing is a [grade 10](https://about.gitlab.com/handboo
 - Identify opportunities for process improvement, including automation, and coordinating the implementation and communication of these changes.
 - Promote efficiency and usability using a clear content strategy that defines the types and structure of content, as well as optimal workflow and continued maintenance.
 - Deliver input on promotions, function changes, demotions, and offboarding in consultation with the Technical Writing Managers and the VP of UX.
-- Independently manage [Technical Writing OKRs](https://about.gitlab.com/company/okrs/) and [Performance Indicators](https://about.gitlab.com/handbook/product/ux/performance-indicators/).
+- Independently manage [Technical Writing OKRs](/handbook/company/okrs/) and [Performance Indicators](/handbook/product/ux/performance-indicators/).
 - Communicate significant Technical Writing strategy decisions to senior leadership.
 - Manage the Technical Writing budget with oversight from the VP of UX.
 
@@ -149,14 +149,14 @@ The Director, Technical Writing is a [grade 10](https://about.gitlab.com/handboo
 - Able to shape documentation process in a high-growth, quickly changing organization.
 - Able to give clear, timely, and actionable feedback.
 - You share our [values](/handbook/values/) and work in accordance with those values.
-- [You adhere to our view of Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group).
+- [You adhere to our view of Leadership at GitLab](/handbook/company/team/structure/#management-group).
 
 ### Performance indicators
 
-- [Hiring Actual vs Plan](https://about.gitlab.com/handbook/product/ux/performance-indicators/#hiring-actual-vs-plan)
-- [Diversity](https://about.gitlab.com/handbook/product/ux/performance-indicators/#diversity)
-- [Handbook Update Frequency](https://about.gitlab.com/handbook/product/ux/performance-indicators/#handbook-update-frequency)
-- [Team Member Retention](https://about.gitlab.com/handbook/product/ux/performance-indicators/#team-member-retention)
+- [Hiring Actual vs Plan](/handbook/product/ux/performance-indicators/#hiring-actual-vs-plan)
+- [Diversity](/handbook/product/ux/performance-indicators/#diversity)
+- [Handbook Update Frequency](/handbook/product/ux/performance-indicators/#handbook-update-frequency)
+- [Team Member Retention](/handbook/product/ux/performance-indicators/#team-member-retention)
 
 ### Hiring Process
 

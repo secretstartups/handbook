@@ -71,20 +71,20 @@ The table below lists all exit criteria for the working group. This is the [top-
 
 | Working Group Role      | Username        | Person                                                                   | Title                                                           |
 | :---------------------- | :-------------- | ------------------------------------------------------------------------ | :-------------------------------------------------------------- |
-| Executive Stakeholder   | @timzallmann    | [Tim Zallmann](https://about.gitlab.com/company/team/#timzallmann)       | Senior Director of Engineering, Dev                             |
-| Facilitator             | @arturoherrero  | [Arturo Herrero](https://about.gitlab.com/company/team/#arturoherrero)   | Engineering Manager, Manage:Integrations                     |
-| Facilitator             | @g.hickman      | [Grant Hickman](https://about.gitlab.com/company/team/#g.hickman)        | Senior Product Manager, Manage:Integrations                  |
-| Functional Lead         | @.luke          | [Luke Duncalfe](https://about.gitlab.com/company/team/#.luke)            | Senior Backend Engineer, Manage:Integrations                 |
-| Functional Lead         | @axil           | [Achilleas Pipinellis](https://about.gitlab.com/company/team/#axil)      | Senior Technical Writer, Enablement                             |
-| Functional Lead         | @Andysoiron     | [Andy Soiron](https://about.gitlab.com/company/team/#Andysoiron)         | Senior Backend Engineer, Manage:Integrations                 |
-| Member                  | @grzesiek       | [Grzegorz Bizon](https://about.gitlab.com/company/team/#grzesiek)        | Principal Engineer, Verify                                      |
-| Member                  | @f_caplette     | [Frédéric Caplette](https://about.gitlab.com/company/team/#f_caplette)   | Senior Frontend Engineer, Verify:Pipeline Authoring             |
-| Member                  | @bmarjanovic    | [Bojan Marjanovic](https://about.gitlab.com/company/team/#bmarjanovic)   | Senior Backend Engineer, Manage:Integrations                 |
-| Member                  | @kerrizor       | [Kerri Miller](https://about.gitlab.com/company/team/#kerrizor)          | Senior Backend Engineer, Create:Code Review                     |
-| Member                  | @lauraX         | [Laura Montemayor](https://about.gitlab.com/company/team/#lauraX)        | Backend Engineer, Verify:Pipeline Authoring                     |
-| Member                  | @nagyv-gitlab   | [Viktor Nagy](https://about.gitlab.com/company/team/#nagyv-gitlab)       | Senior Product Manager, Configure                               |
-| Member                  | @kpaizee        | [Kati Paizee](https://about.gitlab.com/company/team/#kpaizee)            | Senior Technical Writer, Growth and Ecosystem                   |
-| Member                  | @fabiopitino    | [Fabio Pitino](https://about.gitlab.com/company/team/#fabiopitino)       | Staff Backend Engineer, Verify:Pipeline Execution               |
-| Member                  | @dstull         | [Doug Stull](https://about.gitlab.com/company/team/#dstull)              | Staff Fullstack Engineer, Growth:Expansion                      |
-| Member                  | @ntepluhina     | [Natalia Tepluhina](https://about.gitlab.com/company/team/#ntepluhina)   | Staff Frontend Engineer, Plan:Project Management                |
-| Member                  | @avielle        | [Avielle Wolfe](https://about.gitlab.com/company/team/#avielle)          | Backend Engineer, Verify:Pipeline Authoring                     |
+| Executive Stakeholder   | @timzallmann    | [Tim Zallmann](/handbook/company/team/#timzallmann)       | Senior Director of Engineering, Dev                             |
+| Facilitator             | @arturoherrero  | [Arturo Herrero](/handbook/company/team/#arturoherrero)   | Engineering Manager, Manage:Integrations                     |
+| Facilitator             | @g.hickman      | [Grant Hickman](/handbook/company/team/#g.hickman)        | Senior Product Manager, Manage:Integrations                  |
+| Functional Lead         | @.luke          | [Luke Duncalfe](/handbook/company/team/#.luke)            | Senior Backend Engineer, Manage:Integrations                 |
+| Functional Lead         | @axil           | [Achilleas Pipinellis](/handbook/company/team/#axil)      | Senior Technical Writer, Enablement                             |
+| Functional Lead         | @Andysoiron     | [Andy Soiron](/handbook/company/team/#Andysoiron)         | Senior Backend Engineer, Manage:Integrations                 |
+| Member                  | @grzesiek       | [Grzegorz Bizon](/handbook/company/team/#grzesiek)        | Principal Engineer, Verify                                      |
+| Member                  | @f_caplette     | [Frédéric Caplette](/handbook/company/team/#f_caplette)   | Senior Frontend Engineer, Verify:Pipeline Authoring             |
+| Member                  | @bmarjanovic    | [Bojan Marjanovic](/handbook/company/team/#bmarjanovic)   | Senior Backend Engineer, Manage:Integrations                 |
+| Member                  | @kerrizor       | [Kerri Miller](/handbook/company/team/#kerrizor)          | Senior Backend Engineer, Create:Code Review                     |
+| Member                  | @lauraX         | [Laura Montemayor](/handbook/company/team/#lauraX)        | Backend Engineer, Verify:Pipeline Authoring                     |
+| Member                  | @nagyv-gitlab   | [Viktor Nagy](/handbook/company/team/#nagyv-gitlab)       | Senior Product Manager, Configure                               |
+| Member                  | @kpaizee        | [Kati Paizee](/handbook/company/team/#kpaizee)            | Senior Technical Writer, Growth and Ecosystem                   |
+| Member                  | @fabiopitino    | [Fabio Pitino](/handbook/company/team/#fabiopitino)       | Staff Backend Engineer, Verify:Pipeline Execution               |
+| Member                  | @dstull         | [Doug Stull](/handbook/company/team/#dstull)              | Staff Fullstack Engineer, Growth:Expansion                      |
+| Member                  | @ntepluhina     | [Natalia Tepluhina](/handbook/company/team/#ntepluhina)   | Staff Frontend Engineer, Plan:Project Management                |
+| Member                  | @avielle        | [Avielle Wolfe](/handbook/company/team/#avielle)          | Backend Engineer, Verify:Pipeline Authoring                     |

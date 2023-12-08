@@ -26,7 +26,7 @@ level increases, up to Red data.
 
 The framework targets mostly Engineering Managers and their team, but also Product Managers, to
 track progress from the early phases of the [Product Development
-Workflow](https://about.gitlab.com/handbook/product-development-flow/), to the release or deployment to production.
+Workflow](/handbook/product-development-flow/), to the release or deployment to production.
 
 Once released or deployed, the SDLC loops and a new iteration can start. The framework continues to
 support the team with insights and recommendations. More importantly, changes in the framework
@@ -40,7 +40,7 @@ and more precisely for changes in:
 
 1. The [GitLab Architecture](https://docs.gitlab.com/ee/development/architecture.html)
 1. The [GitLab.com
-   infrastructure](/handbook/engineering/infrastructure/production/architecture/)
+   infrastructure](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/)
 1. The [classification](/handbook/security/data-classification-standard.html) of
    the data being managed (stored, transferred, or updated)
 

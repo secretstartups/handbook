@@ -15,12 +15,27 @@ Passwords are one of the primary mechanisms that protect GitLab information syst
 Ideally you memorize one strong password - hence the name - and let 1Password generate and manage strong, unique passwords
 for every site for which you have a login.
 
-GitLab requires all team members to use [Okta](https://about.gitlab.com/handbook/business-technology/okta/) as a primary entry and access point for SaaS and other company applications while utilizing 1Password for password management. GitLab utilizes Okta for SAML/SSO and passwordless authentication for many applications, so the need to store passwords in a password manager will diminish over time.
+GitLab requires all team members to use [Okta](/handbook/business-technology/okta/) as a primary entry and access point for SaaS and other company applications while utilizing 1Password for password management. GitLab utilizes Okta for SAML/SSO and passwordless authentication for many applications, so the need to store passwords in a password manager will diminish over time.
 
 If you want to use 1Password for your private passwords not related to your work
 at GitLab, [there are a few options](#1password-for-your-private-passwords).
 
 Please note our 1Password for Business license agreement [includes the 1Password for Families feature](https://support.1password.com/link-family/), which you can share with up to 5 family members.
+
+For your Okta password and other passwords that you won't store in Okta, use [1Password](https://1password.com/) as your password manager and set a **strong and unique** master password.
+
+- Keep your Master Password a secret. No other team members
+  should know it, including admins. If the Master Password is known or
+  disclosed to someone else, it should be changed immediately.
+- Post a message in #it-ops if you forget your Master Password.
+- Consider using a generated Master Password. Most human-created passwords
+  are easy to guess. Let 1Password create a strong Master Password. But: you *will*
+  need to memorize this Master Password.
+- Do not let your password manager store the **master password**. It is okay to
+  store the username.
+- For more information, review [1Password's Getting Started guide](https://support.1password.com/explore/team-member/)
+  and view [this video](https://youtu.be/2cFWk0sBgyM) that guides you through the sign-up process.
+- For account administrators, review [1Password's admin guide](https://support.1password.com/explore/teams-admin/).
 
 ### Terminology
 
@@ -274,9 +289,15 @@ which you can share with up to 5 family members.
 
 #### Two factor authentication and time-based one time passwords
 
-As stated in the [GitLab Password Standards]({{< ref "password-standard" >}}), the usage of 2FA is mandatory for all GitLab team members.
+As stated in the [GitLab Password Standards]({{< ref "password-standard" >}}), the usage of 2FA is mandatory for all GitLab team members. **Users without 2FA enabled that are stale for over 30 days will be blocked/suspended until resolved. This improves the security posture for both the user and GitLab.** If any systems provide an option to use SMS text as a second factor, this is highly discouraged. Phone company security can be easily subverted by attackers allowing them to take over a phone account.
 
 Okta is configured such that it only supports the use of WebAuthn. 1Password TOTP should only be used when WebAuthn is unavailable.
+
+A FIDO2/WebAuthn hardware token can be used as a secure and convenient 2-factor authentication method for Okta, Google Workspace, GitLab instances, and many other sites. If you do not have one, you may consider [purchasing one](/handbook/spending-company-money/). GitLab's standard is Yubico's YubiKey. For more information on FIDO2/WebAuthn, visit the [Tools and Tips page](/handbook/tools-and-tips/#fido2webauthn-devices).
+
+If shared access to a single account is required by multiple team members, for example, a social media account, an Okta [new application setup Issue](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=change_management_okta&_gl=1*hvl1g4*_ga*ODQwNzAxNjM0LjE2NjYwNDc2Njc.*_ga_ENFH3X7M5Y*MTY4Njk0MTkzOC43MDIuMS4xNjg2OTQyMTc4LjAuMC4w) should be created. The credentials will be stored and shared via Okta.
+
+If you find an existing shared account in 1Password, [create an Issue](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=change_management_okta) to get it migrated to Okta.
 
 1Password provides an alternative solution that does not
 require using your smartphone: 1Password Time-based One Time Passwords
@@ -321,6 +342,25 @@ Follow this [guideline](https://gizmodo.com/how-to-easily-switch-your-two-factor
 
 There may be cases where TOTP might be used with a non-GitLab account. If you have any questions and need to speak with the Security Team, you can contact [Security]({{< ref "_index.md#-contacting-the-team" >}})
 
+#### Passkeys
+
+1Password has implemented a feature supporting for Passkeys, which are the credentials used in FIDO2/WebAuthn on sites such as [Okta](https://adamhuss-master-patch-a4f4.about.gitlab-review.app/handbook/business-technology/okta/#adding-1password-passkey). This feature can allow passwordless sign in to sites that require username and password. Passkeys can also serve as a type of MFA. Passkeys store a public key in the app and a private key within the 1Password vault.
+
+Setting up Passkey is simple. Open a login page or select the sign in button on the website or app. You'll typically see a prompt to complete an authentication step, usually with Biometrics, or YubiKey. You may see something like the image below.
+
+<div style="text-align:center;">
+  <img src="../PasskeyAlert.png" alt="You may see something like the image below" width="700"/>
+</div>
+<br>
+
+At that point, the key pairing is created and 1Password will use this method of sign in going forward. Note, not all sites are supported at this time. If you're curious about setting this up on a site you use, you can always open 1Password, select that login tab, and see if the "Passkey Available" notification is showing.
+
+<div style="text-align:center;">
+  <img src="../PasskeyAvailable.png" alt="notification is showing. width="700"/>
+</div>
+<br>
+
+You may need to follow different steps with the specific sites in order to complete Passkey setup, follow the prompts of the site and 1Password and you'll be set for logging in with a Passkey via 1Password.
 
 #### Example usage {#1password-example-usage}
 

@@ -11,7 +11,7 @@ The Digital Experience Analyst Reports to [Director, Digital Experience](/job-fa
 
 #### Digital Experience Analyst Job Grade
 
-The Digital Experience Analyst  (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Digital Experience Analyst  (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Digital Experience Analyst Responsibilities
 
@@ -23,8 +23,8 @@ The Digital Experience Analyst  (Intermediate) is a [grade 6](https://about.gitl
 - Ensure successful measurement and reporting aligned with online media, marketing landing pages, and other initiatives. Share insights on how these initiatives are performing.
 - Collaborate with key stakeholders in Marketing (e.g. Demand Gen, Content) as well as other functions (e.g. Sales, Product) to capture data needed to drive business decisions
 - Contribute to A/B testing strategy using platforms such as LaunchDarkly, Google Optimize
-- Partner closely with the [Marketing Strategy and Performance Team](https://about.gitlab.com/handbook/marketing/strategy-performance/) and other data teams at GitLab to follow and contribute to internal standards
-- Member of the [Digital Experience Team](https://about.gitlab.com/handbook/marketing/digital-experience/)
+- Partner closely with the [Marketing Strategy and Performance Team](/handbook/marketing/strategy-performance/) and other data teams at GitLab to follow and contribute to internal standards
+- Member of the [Digital Experience Team](/handbook/marketing/digital-experience/)
 
 #### Digital Experience Analyst Requirements
 
@@ -42,7 +42,7 @@ The Digital Experience Analyst  (Intermediate) is a [grade 6](https://about.gitl
 - Fluent in SQL within analytical data warehouses (we use Snowflake SQL) and in business intelligence tools (we use Periscope)
 - Able to write complex SQL including multi-table joins, grouping and aggregation, common table expressions, and conditional filters
 - Passionate about data, analytics and automation. Experience cleaning and modeling large quantities of raw, disorganized data (we use dbt)
-- Experience working with a variety of complex data sources. Our data includes Salesforce, Zuora, Zendesk, Marketo, NetSuite, Snowplow and many others (see the [data team page](https://about.gitlab.com/handbook/business-technology/data-team/))
+- Experience working with a variety of complex data sources. Our data includes Salesforce, Zuora, Zendesk, Marketo, NetSuite, Snowplow and many others (see the [data team page](/handbook/business-technology/data-team/))
 - Effective communication and [collaboration](/handbook/values/#collaboration) skills, including clear status updates
 - Comfort working in a highly agile, [intensely iterative](/handbook/values/#iteration) environment
 - [Self-motivated and self-managing](/handbook/values/#efficiency), with strong organizational skills
@@ -54,7 +54,7 @@ The Digital Experience Operations Manager reports to the Director, Digital Exper
 
 #### Digital Experience Operations Manager Job Grade
 
-The Digital Experience Operations Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Digital Experience Operations Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Digital Experience Operations Manager Responsibilities
 
@@ -86,7 +86,7 @@ The Manager, Digital Experience reports to the Director, Digital Experience.
 
 #### Manager, Digital Experience Job Grade
 
-The Manager, Digital Experience is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Digital Experience is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Digital Experience Responsibilities
 
@@ -111,7 +111,7 @@ The Manager, Digital Experience is a [grade 8](https://about.gitlab.com/handbook
 - Passion for creating visually pleasing and intuitive user experiences.
 - Collaborative team spirit with great communication skills.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group).
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group).
 - Ability to use GitLab.
 
 ### Senior Manager, Digital Experience
@@ -120,7 +120,7 @@ The Senior Manager, Digital Experience reports to the Director, Digital Experien
 
 #### Senior Manager, Digital Experience Job Grade
 
-The Senior Manager, Digital Experience is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Digital Experience is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Digital Experience  Responsibilities
 
@@ -128,7 +128,7 @@ The Senior Manager, Digital Experience is a [grade 9](https://about.gitlab.com/h
 - Collaborating with cross-functional leaders to define quarterly OKRs that support Marketing's goals.
 - Organizational design to increase collaboration and efficiency.
 - Engaging with Finance teams to contribute to forecasting and reporting on business performance.
-- Conducting skip level 1:1s every quarter with the [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/)
+- Conducting skip level 1:1s every quarter with the [Digital Experience team](/handbook/marketing/digital-experience/)
 - Proactively connecting with cross-functional GitLab team members to identify opportunities.
 - Demonstrating GitLab's CREDIT values and modelling GitLab's Leadership traits.
 
@@ -145,7 +145,7 @@ The Director, Digital Experience reports to the VP, Marketing Strategy and Platf
 
 #### Director, Digital Experience Job Grade
 
-The Director, Digital Experience is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Digital Experience is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Digital Experience Responsibilities
 
@@ -172,13 +172,13 @@ The Director, Digital Experience is a [grade 10](https://about.gitlab.com/handbo
 - Passion for creating visually pleasing and intuitive user experiences.
 - Collaborative team spirit with great communication skills.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 
 ## Performance Indicators
 
-- [Contributing to the success of Digital Experience's Quarterly Initiatives](https://about.gitlab.com/handbook/marketing/digital-experience/#okrs)
-- [Identifying and organizing epics into executable Sprint plans](https://about.gitlab.com/handbook/marketing/digital-experience/#iteration-process)
-- [Successfully completing bi-weekly Sprint tasks](https://about.gitlab.com/handbook/marketing/digital-experience/#sprint-cycle)
+- [Contributing to the success of Digital Experience's Quarterly Initiatives](/handbook/marketing/digital-experience/#okrs)
+- [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/digital-experience/#iteration-process)
+- [Successfully completing bi-weekly Sprint tasks](/handbook/marketing/digital-experience/#sprint-cycle)
 
 ## Career Ladder
 
@@ -193,4 +193,4 @@ The Digital Experience Management job family career ladder is yet to be defined.
 - Next, qualified candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, qualified candidates will be invited to interview with 2 - 4 team members
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

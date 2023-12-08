@@ -10,7 +10,7 @@ The Director, Partnerships reports to VP, Business Development and Strategic Par
 
 ### Job Grade
 
-The Director, Partnerships is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Partnerships is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -22,7 +22,7 @@ The Director, Partnerships is a [grade 10](https://about.gitlab.com/handbook/tot
 - Evaluate effectivity of partner relationships and engagements in delivering positive ROI.
 - Speak regularly in public as the voice for GitLab and the partner
 - SA level expertise with GitLab AND the partners technology
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ### Requirements
 
@@ -30,7 +30,7 @@ The Director, Partnerships is a [grade 10](https://about.gitlab.com/handbook/tot
 - You’re comfortable with code, and enjoy talking with developers and engineering directors alike.
 - You’ve shown that you can build long term (international) strategic relationships, preferably involving open source software.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 - Ability to use GitLab
 
 
@@ -40,7 +40,7 @@ In this role, you develop and implement a multi-year sales plan to rapidly grow 
 
 ### Job Grade
 
-The VP, Business Development and Strategic Parterships is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP, Business Development and Strategic Parterships is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -52,7 +52,7 @@ The VP, Business Development and Strategic Parterships is a [grade 12](https://a
 - Coordinate and collaborate with cross-functional organizations within GitLab to include marketing, products, finance, legal, sales, engineering and people operations
 - Build and define the Business Development and Strategic Partnership strategy and vision for long term partner success
 - Identify and define measures of success for the Business Development and Strategic Partnership team, focusing on growth and development of the team
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ### Requirements
 
@@ -64,14 +64,14 @@ The VP, Business Development and Strategic Parterships is a [grade 12](https://a
 - Demonstrated complete understanding of the company, product, and landscape to make informed long-term strategic business decisions
 - Established network of executive level contacts within the public cloud space, DevOps and open-source communities. Proven ability to translate those to new partnerships and business opportunities.
 - Demonstrated analytical and data led decision-making.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#s-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#s-group)
 - Ability to use GitLab
 
 ## Performance Indicators
 
 - $ derived from GitLab + Technology partner joint customers
 - Size of Partner Practices - skilled, certified consultants and deliver resources
-- [SMAU](https://about.gitlab.com/handbook/product/performance-indicators/#stage-monthly-active-users-smau) acceleration by stage or # seats in named enterprise accounts
+- [SMAU](/handbook/product/performance-indicators/#stage-monthly-active-users-smau) acceleration by stage or # seats in named enterprise accounts
 
 ## Career Ladder
 
@@ -80,5 +80,5 @@ The next step in the Strategic Partnerships job family is not yet defined at Git
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
-Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 

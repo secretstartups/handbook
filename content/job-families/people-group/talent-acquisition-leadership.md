@@ -10,7 +10,7 @@ The VP, Talent Acquisition reports to the [CPO](/job-families/people-group/chief
 
 #### VP, Talent Acquisition Job Grade
 
-The VP of Talent Acquisition is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of Talent Acquisition is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### VP, Talent Acquisition Responsibilities
 
@@ -41,18 +41,18 @@ The VP of Talent Acquisition is a [grade 12](https://about.gitlab.com/handbook/t
 ## Performance Indicators
 
 - [Active Users with a Recruiting or Hiring Manager LinkedIn Seat](/#active-users-with-a-recruiting-or-hiring-manager-linkedin-seat--x)
-- [Average Location Factor](https://about.gitlab.com/handbook/people-group/people-group-metrics/#average-location-factor)
+- [Average Location Factor](/handbook/people-group/people-group-metrics/#average-location-factor)
 - [Interviewee Satisfaction (ISAT)](/#interviewee-satisfaction-isat)
 - [Candidates Sourced by Talent Acquisition Department vs. Candidates Hired](/#candidates-sourced-by-talent-acquisition-department-vs-candidates-hired)
 - [Cost Per Hire](/#cost-per-hire)
 - [Hires vs. Plan](/#hires-vs-plan)
 - [Offer Acceptance Rate](/#offer-acceptance-rate)
-- [Pay Equality](https://about.gitlab.com/company/culture/inclusion/#performance-indicators)
+- [Pay Equality](/handbook/company/culture/inclusion/#performance-indicators)
 - [Talent Acquisition team or Hiring Manager LinkedIn Seat](/#recruiting-or-hiring-manager-linkedin-seat--x)
 - [Applied vs Sourced Candidates](/#applied-vs-sourced-candidates)
 - [Time to Offer Accept](/#time-to-offer-accept-days)
-- [Women in Company](https://about.gitlab.com/company/culture/inclusion/#performance-indicators)
-- [Women in Leadership](https://about.gitlab.com/company/culture/inclusion/#performance-indicators)
+- [Women in Company](/handbook/company/culture/inclusion/#performance-indicators)
+- [Women in Leadership](/handbook/company/culture/inclusion/#performance-indicators)
 
 ## Career Ladder
 
@@ -60,11 +60,11 @@ The next step in the Talent Acquisition Leader job family is to move to the [Chi
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Qualified candidates will be invited to schedule a 30 minute screening call with a Recruiter
 - Then, candidates will be invited to schedule two separate 50 minute interviews; a Talent Acquisition Manager, and the Senior Director,  People
 - Next, candidates will be invited to schedule 4 separate 50 minute interviews; Chief People Officer, Chief Technology Officer, Chief Revenue Officer and the Chief Financial Officer
 - Finally, candidates will be invited to a 50 minute interview with the CEO
 
-As always, the interviews and screening call will be conducted via a [video call](https://about.gitlab.com/handbook/communication/#video-calls). See more details about our interview process [here](https://about.gitlab.com/handbook/hiring/interviewing/).
+As always, the interviews and screening call will be conducted via a [video call](/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).

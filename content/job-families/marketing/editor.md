@@ -22,8 +22,8 @@ As a member of the Editorial team at GitLab, you are part of building the media 
 ### Requirements
 
 - Experience as a content writer, editor, or similar role, preferably in enterprise or open source technology marketing.
-- Strong communication skills without a fear of [over communication](https://about.gitlab.com/handbook/communication/).
-- Ability to work [asynchronously](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
+- Strong communication skills without a fear of [over communication](/handbook/communication/).
+- Ability to work [asynchronously](/handbook/company/culture/all-remote/asynchronous/)
 - Extremely detail-oriented and organized (this applies to editing and writing, as well as to project management of your work, using GitLab)
 - Able to meet deadlines
 - Familiarity of the software development process including Git, CI and CD
@@ -39,7 +39,7 @@ As a member of the Editorial team at GitLab, you are part of building the media 
 
 #### Job Grade
 
-The Associate Content Editor is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Content Editor is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -56,7 +56,7 @@ The Associate Content Editor is a [grade 5](https://about.gitlab.com/handbook/to
 
 #### Job Grade
 
-The Intermediate Content Editor is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Intermediate Content Editor is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -78,7 +78,7 @@ The Intermediate Content Editor is a [grade 6](https://about.gitlab.com/handbook
 
 #### Job Grade
 
-The Senior Content Editor is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Content Editor is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -98,7 +98,7 @@ The Senior Content Editor is a [grade 7](https://about.gitlab.com/handbook/total
 
 #### Job Grade
 
-The Managing Editor is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Managing Editor is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -126,7 +126,7 @@ _ Work with SEO team on optimization goals.
 
 #### Job Grade
 
-The Senior Managing Editor is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Managing Editor is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 

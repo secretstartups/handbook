@@ -17,7 +17,7 @@ The agenda should include discussions that are:
 
 ## Attendees
 
-1. [Executives](/company/team/structure/#executives)
+1. [Executives](/handbook/company/team/structure/#executives)
 1. [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/); when not possible, the [Director, Strategy and Operations](/job-families/chief-executive-officer/strategy-and-operations/)
 1. [CEO Shadows](/handbook/ceo/shadow/)
 1. [Executive Business Admin](/handbook/eba/#executive-business-administrator-team) to the CEO (optional)
@@ -36,7 +36,7 @@ Please follow the below outlined process for announcing and merging the changes.
 
 The **Chief of Staff to the CEO** or other team member is responsible for facilitating the event.
 They will work with the EBA closely to ensure the event runs smoothly.
-The CoS to the CEO is the on-the-ground person ensuring that the event is kept on-schedule, discussions are kept on-subject, helping steer the conversation when necessary, guiding conversations towards action items, and ensuring that [implementation is about 50% of time](/company/offsite/#timeline).
+The CoS to the CEO is the on-the-ground person ensuring that the event is kept on-schedule, discussions are kept on-subject, helping steer the conversation when necessary, guiding conversations towards action items, and ensuring that [implementation is about 50% of time](/handbook/company/offsite/#timeline).
 
 The **Staff Executive Business Administrator to the CEO** is responsible for organizing and coordinating the Offsite, including travel, lodging, agendas, and meals.
 
@@ -63,7 +63,7 @@ The EBA to the CEO will coordinate with on-site contact of the house and collabo
 1. Meals and catering
 1. Schedule including arrival time and departure times
 1. Attendee count and details
-1. Share a summarized agenda detailing when meetings are taking place, which room will be used for each meeting, and the count of people in each room. If a room will be used by the [Directs-Group](https://about.gitlab.com/company/team/structure/#directs-group) while they are not in the E-Group Offsite meeting, note this as well.
+1. Share a summarized agenda detailing when meetings are taking place, which room will be used for each meeting, and the count of people in each room. If a room will be used by the [Directs-Group](/handbook/company/team/structure/#directs-group) while they are not in the E-Group Offsite meeting, note this as well.
 
 The maximum attendees that can fit in the main room is 16, however, if additional attendees are needed in the main room, coordinate with the on-site contact to secure additional accommodations such as an extra table, chairs, etc... and share which meetings this would be needed for.
 
@@ -84,39 +84,50 @@ It is recommended to set up the cart at the head of the table, placing the main 
 
 ## Schedule
 
-The off-site is a quarterly meeting scheduled over 4 days (including travel time).
-The offsite meeting should take place during the second or third month of the quarter to avoid conflicts with Sales QBRs and occurs after quarterly Board of Director meetings and post quarterly earning calls.
-Scheduling for the in-person event generally follows:
-1. Travel Day: travel day with optional dinner around 7pm local time (usually Monday).
-1. First Day: Full day meeting starting with breakfast at 8am (usually Tuesday)
-1. Second Day: Full day meeting starting with breakfast at 8am. When the event does not coincide with Contribute, EBA to the CEO will coordinate an off-site activity for the afternoon (usually Wednesday).
-1. Third Day: Half day meeting starting with breakfast at 8am. Usual end time is 12:30 pm with departure flights scheduled in the late afternoon (usually Thursday).
-1. First day after third day: The E-Group hosts a [Functional Leaders Zoom call](#functional-leaders-zoom-call) (usually Friday or the following Monday).
+The offsite is a quarterly meeting scheduled over 3 or 4 days.
 
-E-Group is welcome to fly in early or stay later pending their travel preferences.
+In-person offsites happen three times a year. The January, end of Q4, offsite is remote. Q1 and Q3 offsites happen during the same weeks and in the same locations as in-person Board.
+
+This section captures all three meeting variants.
+
+### In-person offsite with Board Meeting
+
+Scheduling for the in-person event around a Board Meeting generally follows:
+1. First Day (Monday): Half day meetings. Start around 1pm PST. A social dinner in the evening.
+1. Second Day (Tuesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time with the team and team activities.
+1. Third Day (Wednesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time with the team. Concludes with a dinner with the Board.
+1. Fourth Day (Thursday): No scheduled meeting. Time reserved for ad hoc meetings and time with the Board.
+
+### In-person offsite without Board Meeting
+
+Scheduling for the in-person event that is not around a Board Meeting generally follows:
+
+1. First Day (Monday): Half day meetings. Start around 1pm PST.
+1. Second Day (Tuesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time with the team and team activities.
+1. Third Day (Wednesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time with the team and a team dinner.
+1. Fourth Day (Thursday): Meetings start at 8am and run through 12pm PST.
+
+### Fully remote offsite
 
 Scheduling for a fully remote offsite generally follows:
-1. Monday through Thursday from 8am-12:20pm Pacific time each day.
-1. The following Monday after the offsite concludes, the E-Group hosts a [Functional Leaders zoom call](#functional-leaders-zoom-call)
+1. Monday through Thursday from 8:30am-12:20pm Pacific time each day.
 
-E-Group Offsites typically happen at the start of the last month of the quarter. The timeline has the following benefits:
-1. While the quarter is not yet complete, leadership has an informed view of success against business objectives.
-1. Supports planning for the coming quarter.
-1. Gives space between the end of/start of quarter activities, QBRs, earnings call prep, and board prep.
+### Functional leaders meetings
 
-While we have chosen not to do so to date, we have explored moving E-Group Offsites to the first two weeks of the quarter. While this would bump up against key start of quarter activities and limit our ability to plan for the coming quarter, reasons for doing this include:
-1. Having complete end of quarter data.
-1. Good timing to celebrate successes, analyze learnings on the prior quarter and discuss action plans (if needed).
-1. Less of a delay between offsites and Board Meetings, so these can better be used as a forum for Board alignment.
+ The E-Group hosts a [Functional Leaders Zoom call](#functional-leaders-meeting) in the week after the E-Group Offsite
+
+
+## Offsite dates and times
 
 The E-Group offsite generally occurs in:
 - March or early April
 - June or early July
-- October
+- September or October
 - January
 
 The following date(s) have been confirmed for future E-Group offsite(s) (starting dates):
-- 2023-01-09
+
+- 2024-01-08
 
 The following dates were previous E-Group offsites (starting dates):
 - 2021-06-28
@@ -125,16 +136,24 @@ The following dates were previous E-Group offsites (starting dates):
 - 2022-04-04
 - 2022-06-13
 - 2022-10-04
+- 2023-01-09
+- 2023-05-03
+- 2023-06-26
+- 2023-09-27
 
-## Offsite Topic Calendar
+## Monthly touch point meetings
+
+We have a monthly, remote touchpoint meeting for months that falls between offsite meetings. These happen between 8:30am and 12:30pm PST. They usually happen on a Monday or Tuesday. In them, we review OKR and [Yearly progress](/handbook/company/yearlies/), discuss key business priorities, and connect on other issues of importance. [E-Group Weeklies](/handbook/e-group-weekly/) will be cancelled during this week. The agenda will be finalized 1.5 weeks in advance of these meetings by the CoS in collaboration with the CEO. The CoST and E-Group is expected to prioritize these discussions.
+
+## Offsite topic calendar
 
 While E-Group Offsites often happen about two months in advance of Board Meetings, we reserve time to discuss upcoming Board Meeting topics during each offsite.
 
 **Q1 Offsite**
 1. E-Group Offsite Month: April
 1. Following Board Meeting Month: June
-1. Finish the review of [**Three Year Strategy**](/company/strategy/) (1 day)
-1. Start [**Yearlies**](/company/yearlies/) (50 minutes)
+1. Finish the review of [**Three Year Strategy**](/handbook/company/strategy/) (1 day)
+1. Start [**Yearlies**](/handbook/company/yearlies/) (50 minutes)
 1. Non-product **Engineering** review, e.g. architecture, infrastructure
 1. [**CEO Assessment** from the Board](/handbook/ceo/chief-of-staff-team/#ceo-performance-evaluation) (2x session per year, 25 min per session)
 
@@ -142,7 +161,7 @@ While E-Group Offsites often happen about two months in advance of Board Meeting
 1. E-Group Offsite Month: June
 1. Following Board Meeting Month: September
 1. Review 3 to 5 year [Long Range Outlook (**LRO**)](/handbook/finance/financial-planning-and-analysis/#long-range-outlook-lro) including scenarios, capabilities and dependencies
-1. Finish [**Yearlies**](/company/yearlies/) (1.5 hrs)
+1. Finish [**Yearlies**](/handbook/company/yearlies/) (1.5 hrs)
 1. [**Talent** assessment and succession planning](/handbook/people-group/talent-assessment/) (2x session per year, 1.5 hrs per session, ~10 mins per function). CEO Shadows and EBAs do not attend this session
 
 **Q3 Offsite**
@@ -157,7 +176,7 @@ While E-Group Offsites often happen about two months in advance of Board Meeting
 1. E-Group Offsite Month: January
 1. Following Board Meeting Month: March
 1. Final [**Annual Plan**](/handbook/finance/financial-planning-and-analysis/#plan) that includes the budgets
-1. Start review of [**Three Year Strategy**](/company/strategy/) (0.5 day)
+1. Start review of [**Three Year Strategy**](/handbook/company/strategy/) (0.5 day)
 1. Product **Roadmap** including competitive differentiation
 1. [**Talent** assessment and succession planning](/handbook/people-group/talent-assessment/) (2x session per year, 1.5 hrs per session, ~10 mins per function). CEO Shadows and EBAs do not attend this session
 
@@ -165,30 +184,32 @@ While E-Group Offsites often happen about two months in advance of Board Meeting
 
 In addition to the topics from the [Topic Calendar](#offsite-topic-calendar) above, these topics are discussed at every E-Group offsite:
 
-1. Reviewing action items from the last offsite
 1. Offsite peer feedback session (10 minute prep, 3 minute sessions, 10 minute closing conversation) (50 minutes). **This always happens on the first day of the offsite before lunch**
-1. [Director+ Promotions](https://about.gitlab.com/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process) (as-needed based on number of people, estimate ~10 mins per person)
+1. [Director+ Promotions](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process) (as-needed based on number of people, estimate ~10 mins per person)
     1. To have an efficient meeting and focus on areas that require disussion, we will not spend time discussing a candidate unless questions or concerns are raised. At that point, the E-Group sponsor for the promotion can refer to the candidate promotion case and answer questions. If an E-Group Member wants to document support for a candidate or highlight something positive about a candidate who has not been discussed, they can write a comment in the agenda and note that it is a "[won't verbalize]" item.
     1. When a new person is added to the promotion or future promotion list, the sponsorship exec should provide a summary on the person, their contributions, and any areas to be addressed in advanced of the intended promotion window
 
 1. [Content Discussion](#content-choice) (30 minutes - 1 hour)
 1. Spend prioritization discussion (50 minutes)
-1. [E-Group OKR Draft Review meeting](/company/okrs/#okr-draft-review-meeting) (50 minutes)
-1. Review [**Yearlies**](/company/yearlies/#cadence) (25 minutes)
+1. [E-Group OKR Draft Review meeting](/handbook/company/okrs/#okr-draft-review-meeting) (50 minutes)
+1. Review [**Yearlies**](/handbook/company/yearlies/#cadence) (25 minutes)
 
 ### Pre-offsite discussion topics
 
 These topics are discussed by E-Group before the offsite:
 
-1. Review of [Top Annual Cross-Functional Initiatives](/company/top-cross-functional-initiatives/) at least two weeks in advance of the Board Meeting that precedes the offsite (80 minutes or 2x45 minutes)
+1. Yearly and OKR progress. These will be reviewed in [monthly touch point meetings](/company/offsite/#monthly-touch-point-meetings).
 1. Planning discussions. These will be faciliated by the Finance Team. Many of them will occur during E-Group Weeklies.
+
+### Collaborating with EBAs on the Offsite
+
+EBAs to E-Group members should have access to the E-Group Offsite outline. This does not mean all individual agenda docs. The EBAs to the CEO should ensure that they have an understanding of the schedule and are aware of which sessions their E-Group leader is leading. They should help to ensure that their E-Group member is inviting folks who should be in sessions, outside of E-Group, to agendas.
 
 ## Timeline
 
-1. 2 weeks before Content Selection or other required pre-work is finalized
-1. 2 weeks before- if a subject requires data to support the discussion, make a request of [the data team](https://about.gitlab.com/handbook/business-technology/data-team/) for assistance no less than 2 weeks before the offsite; [alert the data team of on-call request](#data-team-member-on-call)
-1. Friday before- agenda is finalized (though always subject to change); Prep Work asks finalized
-1. Immediately following the Offsite, the CoST to the CEO should create the agenda for the next Offsite so that topics can be added as they come up.
+1. The CoS to the CEO will ask for agenda suggestions at least 3 weeks in advance of the offsite
+1. 3 weeks in advance of the offsite, the CEO will share a suggested agenda and solicit additional feedback. If there is a [content selection](#content-choice), the content should be shared
+1. 1 week, on the Tuesday before the offsite, pre-work should be available
 
 ## Prep Work
 
@@ -197,15 +218,13 @@ One of the ways we do this is by asking participants to do prep work ahead of ti
 
 Examples of prep work include:
 - [Reading the content that was selected](#content-choice)
-- Executives working with their People Business Partners to prep the [Performance/Potential Matrix of their direct reports](https://about.gitlab.com/handbook/people-group/talent-assessment/#the-performancepotential-matrix)
-- Executives working with their People Business Partners to prep any [Director + promotion nominations](https://about.gitlab.com/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process)
-- Reviewing any Section Direction Materials for reviews, such as the [Growth Section's Direction](https://about.gitlab.com/handbook/marketing/growth/)
-- Executives propose [draft Key Results for their functions](/company/okrs/#executives-propose-okrs-for-their-functions)
+- Executives working with their People Business Partners to prep the [Performance/Potential Matrix of their direct reports](/handbook/people-group/talent-assessment/#the-performancepotential-matrix)
+- Executives working with their People Business Partners to prep any [Director + promotion nominations](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process)
+- Reviewing any Section Direction Materials for reviews, such as the [Growth Section's Direction](/handbook/marketing/growth/)
+- Executives propose [draft Key Results for their functions](/handbook/company/okrs/#executives-propose-okrs-for-their-functions)
 - [Watch this short clip on the danger of sticky bears]({{< ref "beware-sticky-bears" >}})
 
 Anyone who is presenting for a topic should share materials with the prep work.
-
-Prep work should be shared *at least* 1 business day before. EBAs should be cc'd, as some execs may want time carved out on their calendars for the review.
 
 ## Guidance for invited participants
 
@@ -217,17 +236,18 @@ There are a number of reasons why participants are invited to join specific Offs
 
 ## Agenda and Documenting
 
-We take notes in a Google Doc that contains the SSoT of the agenda.
-At least 1 month prior, the doc is created and proposed topics for discussion should be added to the bottom of the doc. Each proposed topic should include a clear definition of what we are trying to achieve in the discussion (a decision made, a chance for E-Group to give feedback, etc.). E-Group sponsors are responsible for providing context to team members who they plan to include in discussion preparation or participation. This could take the form of a 15 minute meeting to align on goals for the discussion and what material should be prepared in advance.
+We take notes in agenda docs that come from individual meeting invites. These are the SSoT for offsite meetings.
+
+At least 1 month prior, an outline document is created. Proposed topics for discussion should be added to the bottom of the doc. Each proposed topic should include a clear definition of what we are trying to achieve in the discussion (a decision made, a chance for E-Group to give feedback, etc.). E-Group sponsors are responsible for providing context to team members who they plan to include in discussion preparation or participation. This could take the form of a 15 minute meeting to align on goals for the discussion and what material should be prepared in advance.
 (The CoS to the CEO will pull from here when prioritizing and planning.)
 Please add links to relevant materials, issues, or proposals up front.
 When there is an issue or doc linked, we take notes there, instead of in the overall doc.
 There is a [doc template](https://docs.google.com/document/d/1LCy1qWG88ChBXWL8YibNJbkxuxzVdh0Wx9KM1lw_Vcg/edit) that can be used as a starting point.
 
-If we can conclude a topic early we move on to one from a reserve list.
+If we can conclude a topic early we move on to one from a parking lot.
 The CoS to the CEO is responsible for maintaining the schedule, optimizing discussion schedules for energy levels, and having topics prepared.
 
-The agenda will guide conversations. If an E-Group member wants to speak, the team member should put thoughts in the agenda. In instances where the comment cannot be typed out, for reasons of confidentiality or given time constraints in typing out the comment, the member can type out: [INSERT NAME:!]. This serves a time placeholder for the team member, so the team member can contribute at the appropriate point in the agenda.
+Meeting agendas will guide conversations. If an E-Group member wants to speak, the team member should put thoughts in the agenda. In instances where the comment cannot be typed out, for reasons of confidentiality or given time constraints in typing out the comment, the member can type out: [INSERT NAME:!]. This serves a time placeholder for the team member, so the team member can contribute at the appropriate point in the agenda.
 
 We will document agreed changes directly to the handbook and any other relevant SSoT during the meeting.
 Every item will get a MR maker and MR reviewer assigned.
@@ -270,7 +290,6 @@ Break periods are scheduled into the agenda by the CoS to the CEO and should fol
 1. Breaks should be a minimum of 5 minutes
 1. Going over time on any topic should result in moving the break. It does not reduce it.
 
-
 ## Follow up
 
 Every discussion should start by clarifying "What decision needs to be made from this?"
@@ -285,17 +304,9 @@ Follow ups can take the form of an:
 1. Notes shared with the rest of the company in Slack
 1. Etc.
 
-## Functional Leaders E-Group Offsite Engagement
-
-Functional Leaders play a key role in identifying and realizing business opportunities. Functional Leader input is valuable in the lead up to meetings, and Functional Leader collaboration is key for cascading efforts that follow.
-
-### Functional Leaders Pre E-Group Offsite Engagement
-
-In advance of the offsite, E-Group members are expected to connect with their team leadership to identify possible agenda topics, get input into specific topics, and share an overview of what is being discussed. The goal is not to waste an opportunity for broader input and insight from the broader leadership team. Functional leaders should arrive at our Functional Leaders Meeting already having an understanding of some of key items that were discussed.
-
 ### Functional Leaders Meeting
 
-In the week following the Offsite, there is a 25-minute Zoom call before 12pm Pacific time for the [Functional Leaders Meeting](https://about.gitlab.com/company/team/structure/#functional-leaders). This is called the Functional Leaders Meeting.
+In the week following the Offsite, there is a 25-minute Zoom call before 12pm Pacific time for the [Functional Leaders Meeting](/handbook/company/team/structure/#functional-leaders). This is called the Functional Leaders Meeting.
 
 The goal of this call is to communicate:
 1. Strategic or visionary updates that are crucial to priorities
@@ -328,7 +339,7 @@ The CoS to the CEO will moderate the call.
 
 The CoS to the CEO is responsible for meeting material. The CoS to the CEO will share the meeting recap material no later than 72 business hours after the offsite concludes and at least 48 hours in advance of the mettig. Material will include an event summary and may include a highlight video message from the CEO or others. All materials will be signed off on by the Legal Team in advance of sharing.
 
-A version of the notes shared with Functional Leaders may be shared with all team members within 4 business days of a Functional Leader eeting. The CoST to the CEO prepares materials excluding Functional Leadering Meeting Q&A or any [material non-public information](https://about.gitlab.com/handbook/product/product-safe-guidance/#materially-non-public-information) and shares them in the #company-fyi-private Slack Channel. Functional Leaders are encouraged to discuss relevant information within their teams. You can think of the materials shared with all team members as a "Meeting in a Box."
+A version of the notes shared with Functional Leaders may be shared with all team members within 4 business days of a Functional Leader eeting. The CoST to the CEO prepares materials excluding Functional Leadering Meeting Q&A or any [material non-public information](/handbook/product/product-safe-guidance/#materially-non-public-information) and shares them in the #company-fyi-private Slack Channel. Functional Leaders are encouraged to discuss relevant information within their teams. You can think of the materials shared with all team members as a "Meeting in a Box."
 
 ## Content Choice
 
@@ -336,9 +347,9 @@ The offsite includes a 30 minute to 1 hour discussion on material chosen by the 
 
 We will share discussion highlights and takeaways in E-Group Offsite meeting notes that are shared with all team members. This also allows team members to engage in the conversation.
 
-Team Members may [expense](https://about.gitlab.com/handbook/spending-company-money/#expense-policy) E-Group offsite material in the quarter that it is discussed.
+Team Members may [expense](/handbook/spending-company-money/#expense-policy) E-Group offsite material in the quarter that it is discussed.
 
-Material that the E-Group finds noteworthy should be added to the [Leadership Books](https://about.gitlab.com/handbook/leadership/#books).
+Material that the E-Group finds noteworthy should be added to the [Leadership Books](/handbook/leadership/#books).
 
 ### Previous Reads
 

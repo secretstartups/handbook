@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: "Data POC Working Group"
 ---
 

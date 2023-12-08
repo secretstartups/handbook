@@ -1,10 +1,11 @@
 ---
 title: "Offboarding Documents & Notices"
+description: "Information on required offboarding documents & notices"
 ---
 
 ## GitLab, Inc. & GitLab Federal LLC
 
-Pointing you to this handbook page serves as our mechanism to provide the required notice(s) to you. Please find your specific State (if applicable) to be access these notices. For any questions, please contact `people-connect@gitlab.com`.
+Pointing you to this handbook page serves as our mechanism to provide the required notice(s) to you. Please find your specific State (if applicable) to access these notices. For any questions, please contact `people-connect@gitlab.com`.
 
 {{% details summary="GitLab, Inc. & GitLab Federal LLC" %}}
 
@@ -72,7 +73,7 @@ Pointing you to this handbook page serves as our mechanism to provide the requir
 ### Maine
 
 - [Employment Security Law Poster](https://www.maine.gov/labor/docs/2022/posters/mesl/Maine%20Employment%20Security%20Law_11-19_English.pdf)
-- Reason for Termination (if requested): Contact `people-connect@gitlab.com`
+- Reason for Termination Letter (if requested): Contact `people-connect@gitlab.com`
 
 ### Maryland
 
@@ -89,11 +90,11 @@ Pointing you to this handbook page serves as our mechanism to provide the requir
 
 ### Minnesota
 
-- Reason for Termination Letter (if requested): Please contact `people-connect@gitlab.com`.
+- Reason for Termination Letter (if requested): Contact `people-connect@gitlab.com`.
 
 ### Missouri
 
-- Service Letter (if requested): contact `people-connect@gitlab.com`
+- Service Letter (if requested): Contact `people-connect@gitlab.com`
 - [Unemployment Insurance Benefits M-INF-288-5](https://labor.mo.gov/media/pdf/m-inf-288-5-ai)
 
 ### Nebraska
@@ -112,6 +113,7 @@ Pointing you to this handbook page serves as our mechanism to provide the requir
 ### New York
 
 - [Unemployment Insurance Record of Employment IA 12.3](https://dol.ny.gov/system/files/documents/2021/02/ia12_3.pdf)
+- [Unemployment Assistance NY State site](https://www.ny.gov/services/unemployment-0)
 
 ### Pennsylvania
 

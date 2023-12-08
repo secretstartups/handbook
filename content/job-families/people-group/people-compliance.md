@@ -10,7 +10,7 @@ The Senior Background Specialist reports to Director, People Operations
 
 ### Job Grade
 
-The Senior Background Specialist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Background Specialist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Background Check Specialist Responsibilities
 
@@ -40,7 +40,7 @@ The People Compliance Specialist reports to the Vice President of People Operati
 
 ### Job Grade
 
-The People Compliance Specialist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The People Compliance Specialist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### People Compliance Specialist Responsibilities
 
@@ -83,9 +83,9 @@ The People Compliance Specialist is a [grade 6](https://about.gitlab.com/handboo
 
 Primary performance indicators for this role:
 
-- [Annual Mandated HR Reporting](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-annual-mandated-hr-reporting)
-- [People Data and HRIS Compliance](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-people-data-and-hris-compliance)
-- [Onboarding Issue Audits](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#onboarding-issue-audits)
+- [Annual Mandated HR Reporting](/handbook/people-group/people-success-performance-indicators/#compliance-annual-mandated-hr-reporting)
+- [People Data and HRIS Compliance](/handbook/people-group/people-success-performance-indicators/#compliance-people-data-and-hris-compliance)
+- [Onboarding Issue Audits](/handbook/people-group/people-success-performance-indicators/#onboarding-issue-audits)
 
 ## People Compliance Partner
 
@@ -93,7 +93,7 @@ The People Compliance Partner reports to the Vice President of People Operations
 
 ### Job Grade
 
-The Senior Compliance Specialist is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Compliance Specialist is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### People Compliance Partner Responsibilities
 
@@ -142,9 +142,9 @@ The Senior Compliance Specialist is a [grade 7](https://about.gitlab.com/handboo
 
 Primary performance indicators for this role:
 
-- [Annual Mandated HR Reporting](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-annual-mandated-hr-reporting)
-- [People Data and HRIS Compliance](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-people-data-and-hris-compliance)
-- [Onboarding Issue Audits](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#onboarding-issue-audits)
+- [Annual Mandated HR Reporting](/handbook/people-group/people-success-performance-indicators/#compliance-annual-mandated-hr-reporting)
+- [People Data and HRIS Compliance](/handbook/people-group/people-success-performance-indicators/#compliance-people-data-and-hris-compliance)
+- [Onboarding Issue Audits](/handbook/people-group/people-success-performance-indicators/#onboarding-issue-audits)
 
 ## Manager, People Compliance
 
@@ -152,7 +152,7 @@ The Manager, People Compliance reports to the Vice President of People Operation
 
 ### Job Grade
 
-The Manager, People Compliance is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, People Compliance is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Manager, People Compliance Responsibilities
 
@@ -193,9 +193,9 @@ The Manager, People Compliance is a [grade 8](https://about.gitlab.com/handbook/
 
 Primary performance indicators for this role:
 
-- [Annual Mandated HR Reporting](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-annual-mandated-hr-reporting)
-- [People Data and HRIS Compliance](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-people-data-and-hris-compliance)
-- [Onboarding Issue Audits](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#onboarding-issue-audits)
+- [Annual Mandated HR Reporting](/handbook/people-group/people-success-performance-indicators/#compliance-annual-mandated-hr-reporting)
+- [People Data and HRIS Compliance](/handbook/people-group/people-success-performance-indicators/#compliance-people-data-and-hris-compliance)
+- [Onboarding Issue Audits](/handbook/people-group/people-success-performance-indicators/#onboarding-issue-audits)
 
 ### Career Ladder
 

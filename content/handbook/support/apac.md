@@ -12,7 +12,7 @@ found a home for in the wider Support Team Handbook.
 The intent is to enable APAC Support team members to contribute to Results for
 APAC-specific iniatitives, policies, processes and workflows by prioritizing:
 
-1. Transparency, through being [handbook first](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first)
+1. Transparency, through being [handbook first](/handbook/handbook-usage/#why-handbook-first)
    and providing a single source of truth for APAC-specific.
 1. Iteration, through providing a safe space where APAC Support team members can
    introduce or update APAC-specific policies, workflows and processes without
@@ -20,7 +20,7 @@ APAC-specific iniatitives, policies, processes and workflows by prioritizing:
 
 Where appropriate, we should always look to move content from this page into
 other pages of the wider Support Team Handbook. For an example of how this can
-be done, see the [Considerations in APAC section](https://about.gitlab.com/handbook/support/on-call/#considerations-in-apac)
+be done, see the [Considerations in APAC section](/handbook/support/on-call/#considerations-in-apac)
 of the GitLab Support On-Call Guide Handbook page.
 
 ## General policies
@@ -69,8 +69,7 @@ feedback in the [discussion issue](https://gitlab.com/gitlab-com/support/support
 
 ### Cliff of definite underperformance
 
-A support engineer is definitively underperforming when they handle less than 7 tickets in any of 3 of the past 4 weeks.
-{: .alert .alert-warning}
+A support engineer is definitively underperforming when they handle less than 8 tickets in any of 3 of the past 4 weeks. <i class="fa-solid fa-triangle-exclamation"></i>
 
 A support engineer is considered to have handled a ticket when they leave either
 a public or internal comment on a ticket.
@@ -81,19 +80,13 @@ To set clear expectations of when a support engineer's ticket productivity is
 so low that they are no longer performing the basic responsibilities of the
 role.
 
-<div class="panel panel-warning">
-**Warning**
-{: .panel-heading}
-<div class="panel-body">
+{{% alert title="Warning" color="warning" %}}
 
 If you are above the cliff, it does not necessarily mean that you are meeting
 ticket productivity expectations. The full picture of ticket productivity
 performance cannot be derived from a single number and must be looked at
 holistically with other quantitative and qualitative inputs.
-
-</div>
-</div>
-{::options parse_block_html="false" /}
+{{% /alert %}}
 
 **Frequency**
 
@@ -104,14 +97,23 @@ The measurement itself should be updated on a quarterly cadence, at the start of
 each financial quarter.
 
 <details>
-  <summary markdown="span">Historical data</summary>
+  <summary markdown="span">Historical & current data</summary>
 
-- FY23-Q1: 5
-- FY23-Q2: 5
-- FY23-Q3: 5
-- FY23-Q4: 5
-- FY24-Q1: 6
-- FY24-Q2: 7
+  The following shows:
+   - the number for the Cliff of Definite Underperformance (CoDU) as observed for the 12 month period concluding prior to the listed quarter.
+   - a link to the notification issue when the number was reviewed for that period.
+
+| **Quarter** | **Cliff Number** | **Notification Issue**  |
+|------------| -------- |------|--------------------------|
+| FY24-Q4 (Current) | 8 | [STM#5672](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5672) |
+| FY24-Q3 | 7 | [STM#5494](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5494) |
+| FY24-Q2 | 7 | Nil - practice started in FY24-Q3 |
+| FY24-Q1 | 6 | |
+| FY23-Q4 | 5 | |
+| FY23-Q3 | 5 | |
+| FY23-Q2 | 5 | |
+| FY23-Q1 | 5 | |
+
 
 </details>
 
@@ -243,6 +245,19 @@ each financial quarter.
 
 </details>
 
+<details>
+  <summary markdown="span">Documenting the measurement</summary>
+
+  When a review of the measurement is carried out:
+
+- Create an MR to:
+   - Update the number in the first paragraph of the [Cliff of Definite Underperformance section](#cliff-of-definite-underperformance) if the number has changed.
+   - Add a new row to the top of the `Historical & Current Data` table for the current quarter's number. Also move the reference to `(Current)` data to this row.
+- Create a notification issue in [Support Team Meta](https://gitlab.com/gitlab-com/support/support-team-meta) to record that the number has been reviewed and if it has changed.  (Copy a previous notification issue to use as a template).
+- Add a link to the notification issue to the relevant column in the `Historical and Current data` table.
+
+  </details>
+
 ## Daily Bot in the #support_licensing-subscription slack channel
 
 There is a daily bot that follows the SGG bot format and tags all APAC Support
@@ -264,7 +279,7 @@ coverage.
 
 ## Holiday Coverage Planning
 
-We are mindful of [holidays](https://about.gitlab.com/handbook/support/support-time-off.html#holiday-time-off-ticket-management) that impact large parts of the team. The following are official holidays for mostly APAC team members, which we plan coverage for outside of global practices:
+We are mindful of [holidays](/handbook/support/support-time-off#holiday-time-off-ticket-management) that impact large parts of the team. The following are official holidays for mostly APAC team members, which we plan coverage for outside of global practices:
 
 | **Holiday**                             | **Date**           | **Countries**              | **Notes**                                                                                                                                  |
 |-----------------------------------------|--------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -310,8 +325,7 @@ To refer to past planning issues, see issues linked to the [[APAC] Holiday Cover
           <li>Release Review Party</li>
           <li>APAC Office Hours</li>
           <li>Social Call</li>
-          <li>APAC Book Club - [Tribal Leadership](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4854) <br>weekly between 2023-02-16 to 2023-04-06</li>
-         </ul>
+        </ul>
       </td>
     </tr>
   </tbody>

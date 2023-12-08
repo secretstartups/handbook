@@ -6,7 +6,7 @@ Backend Engineers at GitLab work on our product. This includes both the open sou
 
 ## Job Grade
 
-The Staff Backend Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Backend Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -121,7 +121,7 @@ The Distribution Deploy team is involved with diverse projects and tasks that in
 
 Package engineers are focused on creating the binary repository management system that will extend our Continuous Integration (CI) functionality to allow access and management of artifacts manipulated by projects.
 
-By extending the current CI artifacts system, the Package team will expose GitLab as a package repository allowing access to the most common package managers, e.g. Maven and APT and similar. Additionally, the Package team is improving the Container Registry and is responsible for items listed under [Package product category](https://about.gitlab.com/handbook/product/categories/#package).
+By extending the current CI artifacts system, the Package team will expose GitLab as a package repository allowing access to the most common package managers, e.g. Maven and APT and similar. Additionally, the Package team is improving the Container Registry and is responsible for items listed under [Package product category](/handbook/product/categories/#package).
 
 #### Responsibilities
 
@@ -196,7 +196,7 @@ CI/CD Backend Engineers are primarily tasked with improving the Continuous Integ
 
 - Provide value to the user and communicate such with product managers,
 - Introduce features that work at scale and in untrusting environments,
-- Always focus on defining and shipping [the Minimal Viable Change](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc).
+- Always focus on defining and shipping [the Minimal Viable Change](/handbook/product/product-principles/#the-minimal-viable-change-mvc).
 
 We, as a team, cover end-to-end integration of CI/CD in GitLab, with components being written in Rails and Go. We work on a scale of processing a few million of CI/CD jobs on GitLab.com monthly. CI/CD engineering is interlaced with a number of teams across GitLab. We build new features by following our [direction](https://about.gitlab.com/direction/#ci--cd). Currently, we focus on providing a deep integration of Kubernetes with GitLab:
 
@@ -360,19 +360,6 @@ Gitaly is a service that handles git and other filesystem operations for GitLab 
 - Understanding of how to build instrumented, observable software systems.
 - Experience highly-available systems in production environments.
 
-### Meltano (BizOps Product)
-
-[Meltano](https://gitlab.com/meltano/meltano) is an early stage project at GitLab focused on delivering an open source framework for analytics, business intelligence, and data science. It leverages version control, data science tools, CI, CD, Kubernetes, and review apps.
-
-A Meltano Engineer will be tasked with executing on the vision of the Meltano project, to bring the product to market.
-
-#### Requirements
-
-- A passion for data science and analytics.
-- Experience with doing initial prototyping, architecture, and engineering work.
-- In-depth experience with Python (no Ruby or Rails experience required for this role).
-- Experience with Kubernetes, Helm, and CI/CD is a **strict requirement**.
-
 ### Database
 
 A database specialist is an engineer that focuses on database related changes and improvements. You will spend the majority of your time making application changes to improve database performance, availability, and reliability.
@@ -507,12 +494,12 @@ Elasticsearch engineers are focused on delivering a first class global search ex
 
 ## Hiring Process
 
-Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - As part of the application, candidates are asked to complete a short technical questionnaire, with a possibility of additional technical questions being asked if needed after the application is submitted.
-- Next, candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters.
+- Next, candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters.
 - Next, candidates will be invited to schedule a 90 minute technical interview with one of our Backend Engineers.
 - Next, candidates will be invited to schedule a 60 minute interview with one of our Backend Engineering Managers.
 - Next, candidates will be invited to schedule a 60 minute interview with our Director of Engineering
 - Successful candidates will subsequently be made an offer.
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

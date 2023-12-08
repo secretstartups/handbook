@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "GitLab CSF - Architecture activity"
 description: "CSF Architecture activity and deliverables"
 ---

@@ -30,7 +30,6 @@ Much of this is done in the [Support Week in Review Project](https://gitlab.com/
             - work with the Metrics Analyst (below) to ensure the metrics section is populated
       - After the recording
          - [Publish](#publishing-the-podcast) the podcast
-         - [Update](#update-the-legacy-swir-gdoc) the legacy Support Week in Review gdoc
          - [Prepare SWIR for the next week](#prepare-swir-for-the-next-week)
    - Metrics analyst:
       - take screenshots of the key metrics from the [Support Metrics Dashboard - SWIR](https://gitlab.zendesk.com/explore/dashboard/36925DBD1F5E3C7BA541DB38D11AC51E0EAAFDD30DCB63FDE83CF1389E555D96/tab/10602202) and insert them into the SWIR digest issue. Change your profile timezone in Zendesk to Pacific Time before screen grabbing this so that it is comparable to previous week's graphs (in your Zendesk profile, look for "Time zone" in the left side bar)
@@ -59,13 +58,6 @@ Once you have the compiled audio:
 1. Change the Sharing Settings to "Anyone within GitLab can View"
 1. Copy/paste the URL into the Digest Issue below the TOC (use the format: `:speaker: [Audio edition](url)`)
 1. Share the final mix into Slack (there is a slackbot reminder in #support_team-chat at 23:00 UTC on a Thursday - you can share the audio link as a threaded reply to that conversation)
-
-#### Update the legacy SWIR Gdoc
-
-1. Copy the contents of the Digest issue starting from below the TOC
-1. Paste it into the [legacy SWIR doc](https://drive.google.com/drive/u/0/search?q=support%20week%20in%20review%20SWIR)
-1. Manually add the date and phrase of the week as a level 1 heading
-1. Manually paste in the metrics graph
 
 #### Prepare SWIR for the next week
 

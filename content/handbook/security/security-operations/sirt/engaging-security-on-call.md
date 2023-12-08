@@ -5,7 +5,7 @@ description: How to Engage the Security Engineer On-Call
 
 ## Overview
 
-The [Security Incident Response Team (SIRT)]({{< ref "sirt" >}}) is on-call [24/7/365](https://about.gitlab.com/handbook/on-call/#security-team-on-call-rotation) to assist with any security incidents. This handbook provides guidance to help identify the scope and severity of a potential security incident, followed by instructions on how to engage the Security Engineer On-Call (SEOC) if needed.
+The [Security Incident Response Team (SIRT)]({{< ref "sirt" >}}) is on-call [24/7/365](/handbook/on-call/#security-team-on-call-rotation) to assist with any security incidents. This handbook provides guidance to help identify the scope and severity of a potential security incident, followed by instructions on how to engage the Security Engineer On-Call (SEOC) if needed.
 
 Information about SIRT responsibilities and incident ownership is available in the [SIRT On-Call Guide]({{< ref "secops-oncall" >}}).
 
@@ -15,11 +15,11 @@ Before engaging the SEOC, please review [our severity and priority levels]({{< r
 
 For phishing related issues, see [Phishing](#phishing). For other non-urgent issues, see [Low Severity Issues](#low-severity-issues)/
 
-Note: Additional information on Recovery Time Objective (RTO) and Recovery Point Objective (RPO)is available on the [BPC Handbook page](https://about.gitlab.com/handbook/business-technology/gitlab-business-continuity-plan/)
+Note: Additional information on Recovery Time Objective (RTO) and Recovery Point Objective (RPO)is available on the [BPC Handbook page](/handbook/business-technology/gitlab-business-continuity-plan/)
 
 The following items are out of scope for SIRT and should be escalated to the respective teams mentioned below:
 
-- **Vulnerability reports and HackerOne**: please escalate to [Application Security]({{< ref "/handbook/security#vulnerability-reports-and-hackerone" >}})
+- **Vulnerability reports and HackerOne**: please escalate to [Application Security]({{< ref "engaging-with-security#vulnerability-reports-and-hackerone" >}})
 - **Abuse reports and DMCA notices**: please escalate to [Trust & Safety]({{< ref "trustandsafety" >}})
 - **General Customer Inquiries**: please escalate to [Field Security]({{< ref "../../security-assurance/field-security" >}})
 - **Self-Managed Instances**: please escalate to [TBD]
@@ -58,6 +58,6 @@ If the security incident prevents you from accessing Slack:
 
 - **Email**: send an email with a brief description of the issue to `page-security@gitlab.com`
 
-The SEOC will engage in the relevant issue within the appropriate [SLA](https://about.gitlab.com/handbook/on-call/#security-team-on-call-rotation). If the SLA is breached, the [Security Manager On-Call (SMOC)](https://about.gitlab.com/handbook/on-call/#security-managers) will be paged. Paging the SEOC via email also creates a new issue to track the incident being reported. You may provide a detailed explanation of the incident directly in the issue.
+The SEOC will engage in the relevant issue within the appropriate [SLA](/handbook/on-call/#security-team-on-call-rotation). If the SLA is breached, the [Security Manager On-Call (SMOC)](/handbook/on-call/#security-managers) will be paged. Paging the SEOC via email also creates a new issue to track the incident being reported. You may provide a detailed explanation of the incident directly in the issue.
 
 If paged, the SEOC will typically respond within **15 minutes** and may have questions which require synchronous communication from the incident reporter. It is important when paging the SEOC that the incident reporter be prepared and available for this synchronous communication in the initial stage of the incident response.

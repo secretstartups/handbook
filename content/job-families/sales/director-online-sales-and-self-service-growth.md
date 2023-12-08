@@ -4,11 +4,11 @@ title: Director, Online Sales & Self Service Growth
 
 This Director, Online Sales & Self Service Growth role is part of a team focused on building an easy self-service experience for our customers.
 
-The Director, Online Sales & Self Service Growth reports to the [VP, Online Sales and Self Service](https://about.gitlab.com/job-families/sales/vice-president-online-sales-and-self-service/).
+The Director, Online Sales & Self Service Growth reports to the [VP, Online Sales and Self Service](/job-families/sales/vice-president-online-sales-and-self-service/).
 
 ## Job Grade
 
-The Director, Online Sales & Self Service Growth is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Online Sales & Self Service Growth is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 

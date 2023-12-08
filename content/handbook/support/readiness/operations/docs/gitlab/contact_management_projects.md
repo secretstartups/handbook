@@ -34,6 +34,9 @@ contact management project.
 
 #### Intro stage
 
+**NOTE** If the customer is using a SaaS subscription, we should only accept
+requests if the requester is an `Owner` on the parent group.
+
 In this stage, a customer has requested to have a contact management project
 setup via a Support Ops ticket. Before we can begin the setup, we need to
 confirm with the requester which user(s) will be the ones able to edit the

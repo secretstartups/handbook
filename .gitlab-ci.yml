@@ -21,6 +21,19 @@ stages:
   - notify
   - cleanup
 
+.assume_role: &assume_role
+  - >
+    STS=($(aws sts assume-role-with-web-identity
+    --role-arn ${ROLE_ARN}
+    --role-session-name "GitLabRunner-${CI_PROJECT_ID}-${CI_PIPELINE_ID}"
+    --web-identity-token $ID_TOKEN
+    --duration-seconds 3600
+    --query 'Credentials.[AccessKeyId,SecretAccessKey,SessionToken]'
+    --output text))
+  - export AWS_ACCESS_KEY_ID="${STS[0]}"
+  - export AWS_SECRET_ACCESS_KEY="${STS[1]}"
+  - export AWS_SESSION_TOKEN="${STS[2]}"
+
 include:
   - template: Security/Secret-Detection.gitlab-ci.yml
 
@@ -62,7 +75,7 @@ variables:
     if: '$CI_MERGE_REQUEST_IID || $CI_COMMIT_TAG'
 
 .hugo:
-  image: registry.gitlab.com/pages/hugo/hugo_extended:0.115.3
+  image: registry.gitlab.com/pages/hugo/hugo_extended:0.120.3
   stage: deploy
   needs: []
   script:
@@ -122,6 +135,24 @@ pages:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
     - if: '$CI_PIPELINE_SOURCE == "schedule" && $SCHEDULED_DEPLOY == "true"'
 
+deploy s3:
+    stage: deploy
+    needs:
+      - pages
+    image:
+      name: amazon/aws-cli:latest
+      entrypoint:
+        - '/usr/bin/env'
+    id_tokens:
+        ID_TOKEN:
+          aud: handbook_s3
+    script:
+      - *assume_role
+      - aws s3 sync public/ s3://$S3_BUCKET
+    rules:
+      - if: '$CI_COMMIT_REF_NAME == "main"'
+        when: on_success
+
 ####################################
 ##
 ## TEST STAGE
@@ -130,7 +161,7 @@ pages:
 
 markdownlint:
   image:
-    name: davidanson/markdownlint-cli2:0.4.0
+    name: davidanson/markdownlint-cli2:v0.11.0
     entrypoint: ["/bin/sh", "-c"]
   stage: test
   needs: []

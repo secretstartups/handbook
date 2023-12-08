@@ -149,16 +149,18 @@ deleted. You might need to edit it first to remove rules and persons first.
   - Notify the following users or schedules
     - US Federal On-Call
     - US Federal On-Call - Shadow
-  - Escalates after 15 min
+  - Escalates after 10 min
 - Level 2
   - Notify the following users or schedules
     - Support Manager - AMER
-  - Escalates after 20 min
+    - Support Manager - APAC
+    - Support Manager - EMEA
+  - Escalates after 5 min
 - Level 3
   - Notify the following users or schedules
     - Lyle Kozloff
     - Lee Matoes
-    - Jason Colyer
+    - James Lopes
 
 ## Change management
 
