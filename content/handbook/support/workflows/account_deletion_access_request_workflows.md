@@ -288,7 +288,7 @@ IMPORTANT NOTE: If at any point you are unsure of next steps or have any questio
 1. Add the `Awaiting::Challenge Answers` label, and wait for the requestor to reply.
    1. If no response is received after 10 calendar days, apply the `Account Verification Failed` and `deletion request::denied` labels to the issue, and close it using the following snippet:
 <details>
-  <summary markdown="span">Request Closed - No Response</summary>
+  <summary markdown="span">Request Closed - No Response (Account Deletion - Deceased User) </summary>
 
   <p>Greetings,</p>
 
