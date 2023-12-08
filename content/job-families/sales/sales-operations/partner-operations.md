@@ -78,7 +78,7 @@ The Sr. Partner Operations Analyst is a [grade 7](/handbook/total-rewards/compen
 
 #### Sr. Partner Operations Analyst Responsibilities
 
-- Identify opportunities for system and process automation and optimization, and lead projects with a focus on efficiency, effectiveness, scalability and growth 
+- Identify opportunities for system and process automation and optimization, and lead projects with a focus on efficiency, effectiveness, scalability and growth
 - Translate GitLab’s Partner GTM strategy into technical solutions that automate QTC, territory coverage, reporting models, and compensation
 - Collaborate with Salesforce administrators and developers to influence and enhance CRM functionalities to meet partner data management and attribution needs
 - Work cross-functionally to improve the integration between Salesforce and other mission-critical systems, including Impartner, Vartopia, and Zuora
@@ -99,7 +99,7 @@ The Sr. Partner Operations Analyst is a [grade 7](/handbook/total-rewards/compen
 - Deep knowledge of SFDC and experience with partner management systems (e.g., Impartner, Zuora, Vartopia) and SaaS tools (e.g., Tableau, Snowflake)
 - Experience with QTC process, tools, workflow design and automation
 - Strong knowledge of Microsoft Excel or Google Sheets with exposure to VBA/Script Editor and querying
-- Strong ability to translate business needs into technical requirements 
+- Strong ability to translate business needs into technical requirements
 - Interest in GitLab, and open source software
 - Shares GitLab’s [values](/handbook.gitlab.com/handbook/values/) and works in accordance with those values
 
@@ -181,7 +181,7 @@ The Senior Manager, Partner Operations is a [grade 9](/handbook/total-rewards/co
 #### Senior Manager, Partner Operations Responsibilities
 
 - Develop and lead a team of SMEs to drive critical partner operations processes and have business ownership of the tech stack
-- Identify and lead the creation, testing, deployment of complex automations and workflows to drive operational efficiency, effectiveness, scalability and growth 
+- Identify and lead the creation, testing, deployment of complex automations and workflows to drive operational efficiency, effectiveness, scalability and growth
 - Manage Partner Operations Analysts and Managers’ performance and professional development
 - Be the point of escalation for sales strategy, finance, sales systems, compensation and sales operations in all matters related to the partner organization
 - Collaborate with Salesforce administrators and developers to influence and enhance CRM functionalities to meet partner data management and attribution needs
@@ -204,7 +204,7 @@ The Senior Manager, Partner Operations is a [grade 9](/handbook/total-rewards/co
 - Deep knowledge of SFDC and experience with partner management systems (e.g., Partner Portal) and enterprise SaaS tools
 - Experience with QTC process, tools, workflow design and automation
 - Strong knowledge of Microsoft Excel or Google Sheets with exposure to VBA/Script Editor
-- Strong ability to translate business needs into deliverable technical requirements 
+- Strong ability to translate business needs into deliverable technical requirements
 - Interest in GitLab, and open source software
 - Shares GitLab’s [values](/handbook.gitlab.com/handbook/values/) and works in accordance with those values
 
