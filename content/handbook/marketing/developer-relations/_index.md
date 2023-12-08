@@ -154,7 +154,7 @@ For each quarterly objective and key results, the Developer Relations team will 
 
 * Key Results DRI Responsibilities
     * Create and manage strategy for achieving the key results. Manage dependencies, set actions, and define how your items will be scored. 
-    * Provide weekly updates in the issues and in the `Developer Relations - Weekly updates` Google Doc on the key result including completion percentage and status. We recognize that there will be no change from the previous report at times. 
+    * Provide bi-weekly updates in the issues in the [GitLab OKRs project](https://gitlab.com/gitlab-com/gitlab-OKRs/) including completion percentage and status. The issues are the single source of truth for your KR. We recognize that there will be no change from the previous report at times. 
     * Ensure key result information is up-to-date for team business reviews.
     * Escalate any urgent needs to your manager.
 
