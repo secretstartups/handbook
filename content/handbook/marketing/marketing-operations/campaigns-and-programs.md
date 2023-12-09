@@ -221,25 +221,6 @@ This program type is specific to non-event related list uploads, such as partner
 | Member | Indicative of a special member status for this program type. Meaning of "special" is dependent on use case |  |
 
 
-#### Self-Service Virtual Event
-
-This is a light weight virtual event that can be hosted on GitLabber's personal zoom.  
-
-PLEASE NOTE: The Field Marketing team no longer utilizes this campaign type and instead, utilizes the Owned Events campaign type.  
-
-**Bizible:** This is tracked as an _online_ channel if registrants come through a marketo form, otherwise it will be an _offline_ channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
-
-| Member Status | Definition | Success |
-| ------------- | ---------- | ------- |
-| No Action | default starting position for all records |  |
-| Sales Nominated | Status for when Sales and Marketing want to extend an event invitation | |
-| Waitlisted | Holding state if registration is full will be moved to `Registered` if space opens |  |
-| Registered | Registered for event |  |
-| No Show | Registered but did not attend event |  |
-| Attended | Attended event | Yes |
-| Attended On-demand | Watched/consumed the presentation materials post-event on-demand | Yes |
-| Follow Up Requested | Requested follow up during the event | Yes | 
-
 #### Speaking Session
 
 This campaign type can be part of a larger Field/Conference/Owned event but we track engagement interactions independently from the larger event to measure impact. It is something we can drive registration. It is for tracking attendance at our speaking engagements.
@@ -416,7 +397,7 @@ If this is to set up a program that involves a channel partner, you must also fo
 - Speaking Session - `Hybrid template`: [YYYYMMDD_SpeakingSession_EventType_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME5092A1)
 - Vendor Arranged Meetings (1:1 meetings) - `Hybrid template`: [YYYYMMDD_ArrangedMeetingsVendorName_Region_EventType_template](https://app-ab13.marketo.com/#PG5698A1)
 - GitLab Hosted Workshops - `Hybrid template`:   
-[For virtual workshops, please follow directions in the virtual workshop set-up section.](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-logistical-set-up) In-person workshops utilize a similar setup, but do not involve the Zoom requirements. If you have a workshop to set up that is not one of the workshops listed below, you can still utilize any of these templates for backend setup and then use a [copy dock](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#heading=h.tl82wncgutxu) to indicate all copy adjustments that are required (you will also update the baseline Marketo tokens during the setup process).
+[For virtual workshops, please follow directions in the virtual workshop set-up section.](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-logistical-set-up) In-person workshops utilize a similar setup, but do not involve the Zoom requirements. If you have a workshop to set up that is not one of the workshops listed below, you can still utilize any of these templates for backend setup and then use a [copy doc](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#heading=h.tl82wncgutxu) to indicate all copy adjustments that are required (you will also update the baseline Marketo tokens during the setup process).
    - Project Management: [YYYYMMDD_Workshop_ProjectManagement_EventType](https://app-ab13.marketo.com/#ME6536A1)
    - Security: [YYYYMMDD_Workshop_SecurityWorkshop_EventType](https://app-ab13.marketo.com/#ME6521A1)
    - DevOps Automation: [YYYYMMDD_Workshop_DevOpsAutomation_EventType](https://app-ab13.marketo.com/#ME6532A1)
@@ -470,6 +451,7 @@ If this is to set up a program that involves a channel partner, you must also fo
 - For live events, be sure to update the `reply email` token. This is used in the confirmation email. You need to add the correct email address for cancellations or special accomodations, and update the subject to something descriptive. Keep the `%20` between each word in the subject so the subject populates correctly.
 
 ### Step 4: Activate Marketo smart campaign(s)
+* If this is a `Gated Content` campaign, follow the detailed set-up instructions on the [content in campaigns page](https://handbook.gitlab.com/handbook/marketing/demand-generation/campaigns/content-in-campaigns/#marketo-automation-and-setup-for-gated-landing-page).
 * If this is a `Vendor Arranged Meeting`:
      * Click the `Smart Campaigns` folder
      * Select the `01 Interesting Moments` smart campaign

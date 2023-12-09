@@ -34,19 +34,20 @@ Note that the smart list, [SSOT - ALL EMAILABLE](https://engage-ab.marketo.com/?
 
 Leads that are actively being worked by the partner will be excluded from scoring. Once they are no longer being worked by the partner, they will be scored again. More details on the [scoring page](/handbook/marketing/marketing-operations/marketo/#scoring-model).
 
-## Passing to Vartopia and Partner Visibility
+## Channel Partner Lead Sharing via Vartopia
 
-Leads generated from partner campaigns are shared to Partner in Vartopia where they can accept, reject and action by Partners. There are specific fields that are required to allow leads to sync, to list a few: `Vartopia Partner Account`, `Prospect Share Status` and `Partner Prospect Status`. Learn more, see the [Vartopia](/handbook/marketing/marketing-operations/vartopia/) handbook page.
+Leads generated from Channel Marketing campaigns are shared to Channel Partner in Vartopia where they can accept, reject and action by Partners. There are specific fields that are required to allow leads to sync, to list a few: `Vartopia Partner Account`, `Prospect Share Status` and `Partner Prospect Status`. Learn more, see the [Vartopia](/handbook/marketing/marketing-operations/vartopia/) handbook page.
 
 Note that Channel Partners refer to Vartopia as `Prospects` in the Partner Portal, as they can only access Vartopia through SSO via the portal.
+
+### Partner Recall
+
+The recall process is built to be able to pull back partner leads that are not being actioned in Vartopia. Not all partner leads are subject to recall, only Joint GitLab and Partner campaign leads can be recalled. [See the full overview.](/handbook/marketing/marketing-operations/vartopia/#partner-recall)
 
 ## CRM IDs for Channel and Alliance Partners
 
 For a running list of Channel Partners and their CRM IDs, which is critical to the channel partner lead flow, click [here](https://gitlab.my.salesforce.com/00O4M000004aSq6), while the `CRM Partner ID` for Alliance Partners can be found [here](https://gitlab.my.salesforce.com/00O8X000008mxIb).
 
-### Partner Recall
-
-The recall process is built to be able to pull back partner leads that are not being actioned in Vartopia. Not all partner leads are subject to recall, only Joint GitLab and Partner campaign leads can be recalled. [See the full overview.](/handbook/marketing/marketing-operations/vartopia/#partner-recall)
 
 ## Types of Partner Campaigns
 
@@ -242,6 +243,18 @@ Follow the steps in [List Import for Partner Leads](/handbook/marketing/channel-
 
 This section is to walk through the technical setup of webcasts hosted by GitLab and/or Alliance Partner. Unlike Channel leads, Alliance leads follow the regular [lead and contact statuses](/handbook/marketing/marketing-operations/#lead-and-contact-statuses) and [scoring model](/handbook/marketing/marketing-operations/#lead-scoring-lead-lifecycle-and-mql-criteria).
 
+## Alliance Partner Lead Sharing via Impartner
+
+Leads generated from Alliance Marketing campaigns can be shared to Alliance Partners through Impartner. They will **only** see the lead list of the campaign members - unlike Vartopia, they do not need to accept or reject the leads. 
+
+Note, we can only sync lead records on the lead object. 
+
+The field requirement for leads to sync to Impartner include:
+1. Partner Account (ImpartnerPRM__PartnerAccount__c)
+2. Partner Contact (ImpartnerPRM__PartnerContact__c)
+
+More information can be found on the [Impartner](/handbook/marketing/marketing-operations/impartner/) page.
+
 ## Webcast Setup
 
 All Marketo templates will have 2 tokens added to them that the campaign owner should update,`{{My.Partner Name}}` and `{{My.CRM Partner ID}}`.
@@ -370,11 +383,14 @@ This field shows when a record belongs to a Channel Partner meaning they are an 
 
 ### CRM Partner ID
 
-This field is populated with the Salesforce `Account ID (18)` of Partner Account.
+This field is populated with the Salesforce `Account ID (18)` of Partner Account used for both Channel and Alliance.
+
+For a running list of Channel Partners and their CRM IDs, which is critical to the channel partner lead flow, click [here](https://gitlab.my.salesforce.com/00O4M000004aSq6), while the `CRM Partner ID` for Alliance Partners can be found [here](https://gitlab.my.salesforce.com/00O8X000008mxIb).
 
 ### CRM Partner ID (Look up)
 
-The lookup field retrieves the name of the partner account associated with the `Account ID (18)`.
+The lookup field retrieves the name of the partner account associated with the `Account ID (18)`  used for both Channel and Alliance.
+
 
 ### Lead Acquisition Source
 
@@ -403,6 +419,4 @@ This field reflects the `Account Owner`, Channel Account Manager or Partner Acco
 
 ### Subscribe - Partner
 
-This field records when a lead has opted-in to GitLab marketing communications. Subscribe - Partner resides only in Marketo and mainly to Alliance Partner leads.
-
-Channel Partner leads are immediately marked as marketing suspended and this field does not apply to them until they come back (recalled) to GitLab.
+This field records when a lead has opted-in to Partner communications. Subscribe - Partner resides only in Marketo.
