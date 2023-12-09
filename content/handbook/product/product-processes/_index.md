@@ -158,20 +158,21 @@ Milestone start and end dates are defined as follows:
 - [**Product Function Issue Tracker**](https://gitlab.com/gitlab-com/Product/issues) - please use
 confidential issues for topics that should only be visible to team members at GitLab.
 - [**Product Function GitLab Group - @gl-product**](https://gitlab.com/groups/gl-product/-/group_members)
+- [**Product Management GitLab Group - @gl-product-pm**](https://gitlab.com/groups/gl-product/-/group_members)
 - [**Bi-Weekly Meeting**](#product-management-meeting-bi-weekly)
 - [**Chat channel - #product**](https://gitlab.slack.com/archives/product)
 
 For internal team members please feel free to use the `#product` channel for any product-related questions but you'll also find more direct assistance in the various [Product Group](/handbook/product/categories/) channels.
 
-### Communicating with the Entire Product Function
+### Communicating with the Entire Product Management Function
 
 When communicating change or a request for action to the entire product function, utilize the following levels and corresponding activities.
 
 | Level | Description | Activities |
 | ----- | ----------- | ---------- |
 | One | Suggestion for review from interested PMs and FYI | Post MR/issue in `#product` |
-| Two | Request for action from all PMs | Post in `#product` and mention `@gl-product` in MR/issue with specific action instructions. |
-| Three | Confirmation of understanding | Post in `#product` and mention `@gl-product`; checkbox for each `@gl-product` member in an MR/issue description to confirm; assign MR/issue to all `@gl-product` members |
+| Two | Request for action from all PMs | Post in `#product` and mention `@gl-product-pm` in MR/issue with specific action instructions. |
+| Three | Confirmation of understanding | Post in `#product` and mention `@gl-product-pm`; checkbox for each `@gl-product-pm` member in an MR/issue description to confirm; assign MR/issue to all `@gl-product-pm` members |
 
 ### Internal and external evangelization
 

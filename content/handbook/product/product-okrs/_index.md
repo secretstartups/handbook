@@ -35,7 +35,7 @@ This page provides an overview of the Product Division OKR workflow. All departm
      - CProdO shares proposed Product OKRs with Product Leadership Team
      - Product Leadership team provides their feedback or any alternate OKRs in the drafting issue
 - **2 weeks** prior to the start to quarter:
-     - Product EBAs create Product Division OKRs in GitLab and mention '@gl-product' (section, stage, and group product leads) to finalize KR drafts with their respective [Product Quad](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/quad-planning/)
+     - Product EBAs create Product Division OKRs in GitLab and mention `@gl-product-pm` (section, stage, and group product leads) to finalize KR drafts with their respective [Product Quad](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/quad-planning/)
      - Product leads must have at least 2 weeks to review CProdO OKRs, propose changes, and plan any additional OKRs that cascade up to CProdO OKRs. 
      - Product leads from each section, stage, and group review Product Division OKRs and provide feedback directly in GitLab on changes that may be needed. 
      - Product leads plan and propose their respective section, stage and section OKRs following the guidance on [how to write OKRs](/handbook/product/product-okrs/#how-to-write-okrs). 
@@ -65,7 +65,7 @@ This page provides an overview of the Product Division OKR workflow. All departm
 
 During the first two weeks of a new quarter, every Product stage should complete an OKR retrospective leveraging the [Product OKR Retrospective template](https://gitlab.com/gitlab-com/Product/-/issues/new?issuable_template=Product-OKR-Retrospective). The retrospective DRI is the PM leading the stage. Beyond the stage members, the product and engineering lead of the section needs to be invited to the retrospective. 
 
-We recommend sharing the results of the retrospectives with `@gl-product` and other relevant stakeholders.
+We recommend sharing the results of the retrospectives with `@gl-product-pm` and other relevant stakeholders.
 
 ### How to change an OKR within the quarter
 
