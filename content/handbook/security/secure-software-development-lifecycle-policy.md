@@ -65,7 +65,7 @@ After any necessary verification in production is completed, details of changes 
 
 GitLab continuously monitors the state and stability of its platforms.
 
-Maintenance of GitLab's platform is conducted in accordance with [GitLab's release and maintenance policy](https://docs.gitlab.com/ee/policy/maintenance.html)
+Maintenance of GitLab's platform is conducted in accordance with [GitLab's release and maintenance policy](https://docs.gitlab.com/ee/policy/maintenance.html).
 
 ## Exceptions
 
