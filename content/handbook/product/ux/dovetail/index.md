@@ -49,7 +49,7 @@ The following video demonstrates how to use the import feature and how to struct
 
 Dovetail helps you identify patterns and themes that emerge across your research data and turn those into insight statements. Once you have imported all your raw data, you are ready to start highlighting and tagging content. Think of a highlight as anything interesting that you heard or observed during a research session (for example: a user's pain point or motivation). Tag highlights with the feature/area of GitLab to which the highlight relates (for example, ‘Merge Requests’) and the persona (for example, ‘Sasha: Software Developer’) who made the comment, if possible.
 
-A bit like [affinity mapping](https://en.wikipedia.org/wiki/Affinity_diagram), tags in Dovetail help you identify and keep track of patterns that emerge across your research data. A single highlight can have one or many tags associated with it. More help can be found on our [Analyzing and synthesizing user data](/handbook/product/ux/ux-research/analyzing-research-data/)handbook page.
+A bit like [affinity mapping](https://en.wikipedia.org/wiki/Affinity_diagram), tags in Dovetail help you identify and keep track of patterns that emerge across your research data. A single highlight can have one or many tags associated with it. More help can be found on our [Analyzing and synthesizing user data](/handbook/product/ux/ux-research/analyzing-research-data/) handbook page.
 
 #### Enable Global Tags in your Project
 
