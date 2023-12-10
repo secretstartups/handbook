@@ -81,6 +81,10 @@ The survey responses in Qualtrics are synced to the `qualtrics_nps_scores` table
 
 There may be an occasional need to remove certain records (such as internal test records) from the data. The `pnps_excluded_response_ids` Sisense snippet is used to manage these excluded `response_id`s. When a response has to be excluded, go to [edit the PNPS Excluded Response IDs snippet](https://app.periscopedata.com/app/gitlab/snippet/pnps_excluded_response_ids/558761ad2812415aab07b2efafe46ff5/edit) and add the `response_id` to the list. Make sure to match the formatting of the other response IDs and eliminate any spaces. If you are working on a new chart and would like to incorporate this snippet, you just have to add `WHERE response_id NOT IN ([pnps_excluded_response_ids])` to the WHERE clause.
 
+#### Backtracking Responses
+
+For past reports, we have gotten requests to answer additional questions about the PNPS survey data. When these requests arise, we've partnered with Product Analytics to get support connecting PNPS respondents to internal data sources. We create an issue in the Product Data Insights project in GitLab and submit this  request to `@dpeterson1`. 
+
 ### Past PNPS Reports
 
 #### FY24
