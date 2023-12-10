@@ -45,6 +45,6 @@ It’s recommended to include the following information in a blog post:
 - Solutions (What we want to change, and why)
 - Link to Actionable Insights issues for community contributors to pick up
 
-To motivate contributers and set them up for success, it may be helpful to include links to recently completed Actionable Insights by the community or linking to useful information about how to [Contribute to GitLab](/community/contribute/).
+To motivate contributers and set them up for success, it may be helpful to include links to recently completed Actionable Insights by the community.
 
 For inspiration, take a look at the [first published blog post](https://about.gitlab.com/blog/2022/07/25/5-problems-you-can-help-us-solve-right-now/) and the corresponding [issue for the blog post proposal](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13599).

@@ -73,11 +73,11 @@ Next step 2
 
 Below are three different examples of completed Research Report Share-Out in Slack following the above template.
 
-![Slack snippet 1](example1.png)
+![Slack snippet 1](/handbook/product/ux/ux-research-coordination/shareouts/example1.png)
 
-![Slack snippet 2](example2.png)
+![Slack snippet 2](/handbook/product/ux/ux-research-coordination/shareouts/example2.png)
 
-![Slack snippet 3](example3.png)
+![Slack snippet 3](/handbook/product/ux/ux-research-coordination/shareouts/example3.png)
 
 ## Monthly share out
 
@@ -106,7 +106,7 @@ Slack channels:
 
 Example:
 
-![sharesettings](example.png)
+![sharesettings](/handbook/product/ux/ux-research-coordination/shareouts/example.png)
 
 Template to copy from:
 

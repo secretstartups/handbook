@@ -154,9 +154,9 @@ Example [Dovetail project](https://dovetailapp.com/projects/5sVL84ZlY492J2jOt5W7
 
 We recommend collecting responses from 50 to 80 users in your target audience and analyze them using discrete analysis described in [The Complete Guide to Kano Model](https://foldingburritos.com/kano-model/). This approach will provide you with "the numbers" that can back up your prioritization decisions, but you will still lack the understanding behind the prioritization.
 
-For the analysis use this [spreadsheet template](https://drive.google.com/drive/search?q=kano%20model:%20Survey%20for%20feature%20prioritization){:target="_blank"} (GitLab internal link).
+For the analysis use this [spreadsheet template](https://docs.google.com/spreadsheets/d/14D-ayhw15J9o7ixzFh7pda_SZQkhZTRsyJvHi_5JXbk/edit?usp=sharing) (GitLab internal link).
 
-Example [report](https://drive.google.com/drive/search?q=gitlab%20plus:%20kano%20research) (GitLab internal link) that summarizes the output from the quantitative approach.
+Example [report](https://docs.google.com/presentation/d/1aLt3QkYthTlbjBig0efWlbA11FkXBTNZdfh4Yk3o3g4/edit?usp=sharing) (GitLab internal link) that summarizes the output from the quantitative approach.
 
 Taking the quantitative and qualitative approach will result in a more complete story behind the data. In addition to prioritization, you'll also be able to explain *why* participants scored the way they did, too. Combine these two approaches to get the most of your Kano model study.
 
