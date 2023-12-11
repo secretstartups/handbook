@@ -23,13 +23,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars & Workshops
 
-#### Intro to CI/CD
-##### December 8th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_GBW-cyD4TjaEBllH5Xr_QA)
-
 #### GitLab Runner Fundamentals and What You Need to Know
 ##### December 12th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 Runners are a requirement for operating GitLab CI/CD. Learn about Runner architecture, options for deployments, supported operating systems, and optimizing them for most efficient usage. We will be discussing best practices, decisions that you need to make before deploying at scale, and options you have for monitoring fleets of runners.
@@ -69,13 +62,6 @@ Next, we will look at compliance frameworks and pipelines to show how you can en
 
 
 ### EMEA Time Zone Webinars and Workshops
-
-#### Intro to CI/CD
-##### December 8th, 2023 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_kOmhQl-KS26CSPoOf2ltdQ)
 
 #### GitLab Runner Fundamentals and What You Need to Know
 ##### December 12th, 2023 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
