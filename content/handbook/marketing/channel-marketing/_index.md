@@ -236,7 +236,16 @@ We currently offer the Self-Managed form in English, Spanish, German, French, Ko
 
  - Once a user registers for a free trial on the landing page, they receive an auto-generated email from GitLab with their license key. Your next step: nurture and convert those leads! The links below provide you with the copy and supporting assets that you need to run your own email campaign to nurture your leads over the next 30-days on their buyer journey, from evaluation to purchase.
 
- You can download the full kit of free trial assets [here](https://partners.gitlab.com/prm/English/s/assets?id=439714&q=free%20trial%20kit).
+  - GitLab has created customizable assets that include social posts, display ads and emails to help promote your custom free trial links. You can download the full kit of free trial assets [here](https://partners.gitlab.com/prm/English/s/assets?id=439714&q=free%20trial%20kit). 
+
+   - We recommend promoting these social posts and display ads on the following platforms: 
+      - LinkedIn
+      - Reddit
+      - Facebook
+      - X (formely Twitter) 
+      - Developer focused communities such as Stackoverflow 
+   - GitLab has provided you with a list of recommended AdWord keywords that can effectively help you target your desired audience and increase visibility for your microsite and free trial links. These keywords cover a wide range of topics related to DevSecOps and have been carefully selected to target the relevant audience interested in topics related to DevSecOps, continuous integration, continuous delivery, and software development. This list can be found [here](https://partners.gitlab.com/prm/api/objects/v1/asset/tzhnhfb5s0zf/_download). 
+   - Additionally, it is asked that partners add "GitLab" as an account level phrase match negative keyword to their Google Ads. 
 
 ## GitLab Hosted Partner Microsite Program
 
