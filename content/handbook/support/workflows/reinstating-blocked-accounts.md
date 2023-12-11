@@ -1,14 +1,14 @@
 ---
-title: Locked & Blocked Accounts
+title: Locked, Blocked and Banned Accounts
 category: GitLab.com
 subcategory: Security
-description: How to determine if a blocked user can be re-instated if it has been blocked
+description: How to determine if a blocked user can be re-instated
 ---
 
-This workflow page will describe how to action on **Locked** & **Blocked** accounts. Sometimes users believe they are blocked, but their accounts are locked. There are several ways to verify:
+This workflow page will describe how to action on **Locked**,  **Blocked** and **Banned** accounts. Sometimes users believe they are blocked, but their accounts are locked. There are several ways to verify:
 
 1. The best way to view this information is via the [Zendesk User Lookup app (part of the GitLab Super App)](/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-super-app), through the `Locked` and `State` fields.
-1. The Admin User UI in `/admin/user/USERNAME` will say `(Locked)` or `(Blocked)` next to the name at the top.
+1. The Admin User UI in `/admin/user/USERNAME` will say `(Locked)`, `(Blocked)` or `(Banned)` next to the name at the top.
 1. The [Users API](https://docs.gitlab.com/ee/api/users.html#single-user) through the URL `https://gitlab.com/api/v4/users/<user_id>` in your browser while logged in as an Admin User, also indicates the `locked` and `state` status of the user.
 
 Our implementation of [Arkose Protect](https://docs.gitlab.com/ee/integration/arkose.html#arkose-protect) does *not* affect account locking, but instead can prevent users from signing in without solving the challenge.
@@ -69,7 +69,7 @@ Process:
 
 ## Blocked Accounts
 
-This workflow is used to determine if a blocked user can be reinstated if it has been blocked by us. All blocked accounts should have an admin note with a link to a relevant issue.
+This workflow is used to determine if a blocked or a banned user can be reinstated. All blocked accounts should have an admin note with a link to a relevant issue.
 
 1. Only proceed with the next steps if any of the following scenarios is true:
     1. The email address the user has used to raise their request matches an email address associated with the account the request is intended for.
