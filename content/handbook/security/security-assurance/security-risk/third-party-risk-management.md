@@ -339,7 +339,7 @@ Deficiencies require different stakeholder input based on the level of risk asso
 
 In some circumstances, the business may require accelerated approval of a requisition prior to completion of a security review. In these scenarios, a TPRM Security Notice will be documented and presented to relevant stakeholders in alignment with the procedures defined above. Failure to obtain the requisite materials within a reasonable timeline may result in esalation of the risk to security leadership.
 
-Scenarios could exist in which a Security control failure carries Privacy implications that should be communicated to the Business Owner. As such, the Privacy team should be notified prior to finalization of the associated Security Notice. 
+Scenarios could exist in which a Security control failure carries Privacy implications that should be communicated to the Business Owner. As such, the Privacy team should be notified prior to finalization of the associated Security Notice.
 
 Please refer to our [StORM Handbook]({{< ref "storm-program#accept-the-risk" >}}) for required approvals based on risk rating (High/Medium/Low) and responsibilities of Accepted Risk Owners and other key stakeholders. IT approval may also be required to promote transparency across the organization.
 
