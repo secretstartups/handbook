@@ -20,21 +20,7 @@ The following people are permanent members of the Database Team:
 
 The following members of other functional teams are our stable counterparts:
 
-<!-- <%#= stable_counterparts(role_regexp: /[,&] Database/, direct_manager_role: 'Backend Engineering Manager, Memory & Database') %> -->
-<table>
-<thead>
-<tr>
-<th>Person</th>
-<th>Role</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>{{% member-by-name "Roger Woo" %}}</td>
-<td><a href="/job-families/product/product-manager/">Senior Product Manager, Database and Application Performance</a></td>
-</tr>
-</tbody>
-</table>
+{{< stable-counterparts "alexives" "[,&] Database" "Application Performance and Database" >}}
 
 ### Stable Counterparts to other teams
 
@@ -44,12 +30,12 @@ The Database Group is often called upon to provide consulting to other groups. T
 
 Whenever possible, we prefer to communicate asynchronously using issues, merge requests, and Slack. However, face-to-face meetings are useful to establish personal connection and to address items that would be more efficiently discussed synchronously such as blockers.
 
-* Database Group Sync every Tuesday and Thursday at 1:00 PM UTC
-  * Tuesdays - we start with any `~infradev` issues requiring reviews, then we focus on weekly priorities.
-  * Thursdays - are optional and open agenda. Anyone can bring topics to the team to discuss. Typically we reserve the first Thursday after the milestone closes to hold a synchronous retrospective.
-* [Database Office Hours](https://docs.google.com/document/d/1wgfmVL30F8SdMg-9yY6Y8djPSxWNvKmhR5XmsvYX1EI/edit#heading=h.oyp8amyknnr8) (internal link); [YouTube recordings](https://www.youtube.com/playlist?list=PL05JrBw4t0Kp-kqXeiF7fF7cFYaKtdqXM)
-  * Wednesdays, 3:30pm UTC (bi-weekly)
-  * (APAC) Thursdays, 3:30am UTC (bi-weekly, alternating)
+- Database Group Sync every Tuesday and Thursday at 1:00 PM UTC
+  - Tuesdays - we start with any `~infradev` issues requiring reviews, then we focus on weekly priorities.
+  - Thursdays - are optional and open agenda. Anyone can bring topics to the team to discuss. Typically we reserve the first Thursday after the milestone closes to hold a synchronous retrospective.
+- [Database Office Hours](https://docs.google.com/document/d/1wgfmVL30F8SdMg-9yY6Y8djPSxWNvKmhR5XmsvYX1EI/edit#heading=h.oyp8amyknnr8) (internal link); [YouTube recordings](https://www.youtube.com/playlist?list=PL05JrBw4t0Kp-kqXeiF7fF7cFYaKtdqXM)
+  - Wednesdays, 3:30pm UTC (bi-weekly)
+  - (APAC) Thursdays, 3:30am UTC (bi-weekly, alternating)
 
 ## Work
 
@@ -66,6 +52,7 @@ In order to follow what the database group is currently working on, we recommend
 Since end of 2021, we maintain an [activity log](activity-log.html) to keep track of past projects and outcomes.
 
 ## Planning
+
 We use a [planning issue](https://gitlab.com/gitlab-org/database-team/team-tasks/-/blob/master/.gitlab/issue_templates/Planning.md) to discuss priorities and commitments for the milestone.  This happens largely asynchronously, but when we do need to discuss synchronously we discuss during the Tuesday team [meeting](#meetings) timeslot.
 
 ### Issue Weights
@@ -80,13 +67,13 @@ We decided to use merge request count as an issue weight for a few reasons:
 #### Process for weighting Issues
 
 1. With an emphasis towards smaller more iterative changes rather than large changes that may take longer to review and merge, consider how many merge requests could this be broken into.
-2. Add a comment enumerating the expected merge requests. For example:
+1. Add a comment enumerating the expected merge requests. For example:
 
    > Just one merge request to documentation
 
    > One to gitlab for database changes, one for new functionality, one for documentation changes, and one to omnibus
 
-3. Add the count as a weight. For example, if you think there could be one to gitlab for database changes, one for new functionality, one for documentation changes, and one to omnibus - you would assign `/weight 4`
+1. Add the count as a weight. For example, if you think there could be one to gitlab for database changes, one for new functionality, one for documentation changes, and one to omnibus - you would assign `/weight 4`
 
 #### Timeline for implementation:
 
@@ -94,15 +81,18 @@ We decided to use merge request count as an issue weight for a few reasons:
 15.8 +: TBD
 
 ### Triage rotation
+
 We have a fairly simple triage rotation. Each week one team member is dedicated to triaging incoming issues for the database group. This allows for the rest of the team to focus on their current priorities with fewer interruptions. Each week, a bot will file an issue that gets automatically assigned to next team member in the rotation. We order the triage rotation by alpha-order based on first name to keep it very simple. If a team member is on PTO the week they are assigned, the issue will be re-assigned to the next person.
 
 Issues needing triage can come in through many different paths. Some common areas to monitor while on triage:
+
 - Newer issues (< 7 days old) with the `~database` label that are not assigned to a group. [Example search](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=database&scope=all&sort=created_date&state=opened&utf8=%E2%9C%93)
 - Newer issues that were assigned `~group::database` but do not have a throughput label or `~database::triage` labels. [Example search](https://gitlab.com/dashboard/issues?scope=all&state=opened&label_name[]=group%3A%3Adatabase&not[label_name][]=type%3A%3Abug&not[label_name][]=type%3A%3Afeature&not[label_name][]=type%3A%3Amaintenance&not[label_name][]=type%3A%3Aignore)
 - Newer issues that were assigned `~database::triage` and have not previously been reviewed
 - When we get pinged on the #g_database slack channel for assistance
 
 When the triage team member discovers an issue requiring team attention some of the possible outcomes are:
+
 - Directly address the issue if it is a simple fix
 - Direct to our customer support counterparts as appropriate
 - Add the `~database::triage` label and review during team sync meeting
@@ -127,9 +117,11 @@ The validation board is a queue for incoming issues for the Product Manager to r
 The triage board is for incoming issues that require further investigation for team assignment, prioritization, previously existing issues, etc. Within the Database Group we have implemented a weekly triage rotation where one team member is responsible for monitoring this board for timely responses.
 
 #### Say/Do Ratio
+
 We use the `~Deliverable` label to track our Say/Do ratio.  At the beginning of each milestone, during a Database Group Weekly meeting, we review the issues and determine those issues we are confident we can deliver within the milestone.  The issue will be marked with the `~Deliverable` label.  At the end of the milestone the successfully completed issues with the `~Deliverable` label are tracked in two places.  We have a dashboard in Sisense that will calculate how many were delivered within the milestone and account for issues that were moved.  Additionally, our milestone retro issue lists all of the `~Deliverable` issues shipped along with those that missed the milestone.
 
 #### Roadmap
+
 The Database Group [Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Roadmap&label_name[]=group%3A%3Adatabase) gives a view of what is currently in flight as well as projects that have been prioritized for the next 3+ months.
 
 ### Weekly Team Updates
@@ -167,15 +159,15 @@ We document our insights, road maps and other relevant material in this section.
 
 ### Common Links
 
-* Slack Channel [#g_database](https://gitlab.slack.com/app_redirect?channel=g_database) - Official Business
-* Slack Channel [#db-lounge](https://gitlab.slack.com/app_redirect?channel=db-lounge) - Team Chat
-* [Database Epics](https://gitlab.com/groups/gitlab-org/-/epics?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Adatabase)
-* [Database Subgroup](https://gitlab.com/gitlab-org/database-team) - Issues and templates related to team processes.
-* [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline)
-* [YouTube: Database Team Playlist](https://www.youtube.com/watch?v=BqwsRDpknfg&list=PL05JrBw4t0KoxfN-uO2YfvQUabp2kdUYT)
-* [YouTube: Database Office Hours Playlist](https://www.youtube.com/watch?v=p3ful2h8H-c&list=PL05JrBw4t0Kp-kqXeiF7fF7cFYaKtdqXM)
+- Slack Channel [#g_database](https://gitlab.slack.com/app_redirect?channel=g_database) - Official Business
+- Slack Channel [#db-lounge](https://gitlab.slack.com/app_redirect?channel=db-lounge) - Team Chat
+- [Database Epics](https://gitlab.com/groups/gitlab-org/-/epics?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Adatabase)
+- [Database Subgroup](https://gitlab.com/gitlab-org/database-team) - Issues and templates related to team processes.
+- [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline)
+- [YouTube: Database Team Playlist](https://www.youtube.com/watch?v=BqwsRDpknfg&list=PL05JrBw4t0KoxfN-uO2YfvQUabp2kdUYT)
+- [YouTube: Database Office Hours Playlist](https://www.youtube.com/watch?v=p3ful2h8H-c&list=PL05JrBw4t0Kp-kqXeiF7fF7cFYaKtdqXM)
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Database" } %>
+{{% cross-function-dashboard filters="database" %}}
 

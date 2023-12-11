@@ -1,14 +1,7 @@
 ---
-
 title: Tenant Scale Group
 description: "The Tenant Scale Group is the direct outcome of applying our value of Iteration to the direction of the Database Scalability Working Group."
 ---
-
-
-
-
-
-
 
 ## About
 
@@ -56,16 +49,13 @@ The executive summary goals for the Tenant Scale group include:
 
 The following people are permanent members of the Tenant Scale group:
 
-<%= direct_team(manager_slug: 'arturo-herrero') %>
+{{% team-by-manager-slug "arturo-herrero" %}}
 
 ### Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(
-  role_regexp: /(Tenant Scale|Principal Engineer, Data Stores|Senior Distinguished Engineer, Ops and Core Platform)/,
-  direct_manager_role: 'Engineering Manager, Tenant Scale'
-) %>
+{{% stable-counterparts "arturo-herrero" "Tenant Scale" "Principal Engineer, Data Stores" "Senior Distinguished Engineer, Ops and Core Platform" %}}
 
 ## Projects
 
