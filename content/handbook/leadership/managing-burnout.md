@@ -16,10 +16,10 @@ The primary objective of this resource is to set expectations of leaders when it
 
 This guide serves as a toolkit for fostering a supportive work culture where team members feel recognized for high performance and motivated to excel, *without* compromising on their mental and physical health. We encourage managers to utilize these insights in their regular interactions and decision-making processes, adapting them to their team's unique dynamics and needs. By doing so, we aim not only to enhance our team's overall well-being but also to sustain GitLab's innovative momentum and long-term success.
 
-#### Resource
-
-🏁 Modern Health provides an interactive walkthrough centered on burnout prevention and designed for people managers. [Preventing Burnout in Team Members](https://my.joinmodernhealth.com/program/preventing-burnout-in-team-members) (10 min) is included for all GitLab team members. If this is your first time using GitLab’s Modern Health benefit, you can follow guidance for [team member registration](https://handbook.gitlab.com/handbook/total-rewards/benefits/modern-health/#team-member--family-registration).
-- Reflect: What are other ways “burnout” might show up beyond "fatigue"?
+> #### Resource
+>
+>🏁 Modern Health provides an interactive walkthrough centered on burnout prevention and designed for people managers. [Preventing Burnout in Team Members](https://my.joinmodernhealth.com/program/preventing-burnout-in-team-members) (10 min) is included for all GitLab team members. If this is your first time using GitLab’s Modern Health benefit, you can follow guidance for [team member registration](https://handbook.gitlab.com/handbook/total-rewards/benefits/modern-health/#team-member--family-registration).
+>- Reflect: What are other ways “burnout” might show up beyond "fatigue"?
 
 
 ### Understanding Burnout:
@@ -36,19 +36,20 @@ Here are some  team member considerations inspired by GitLab’s culture, values
      ...and only hear the “urgency” without recognizing the emphasis GitLab puts on effectively managing work, agency, and family + friends first.
 - **Ask around:** Managers may hear about burnout and workload issues directly from team members, but there may be a need to *appropriately* source information from cross-functional partners or People Business partners to help understand how team members are feeling around workload.
 
-#### Resource
-
-🦊 GitLab Handbook: “[Recognizing Burnout](https://handbook.gitlab.com/handbook/paid-time-off/#recognizing-burnout)” (5 min)
+>#### Resource
+>
+>🦊 GitLab Handbook: “[Recognizing Burnout](https://handbook.gitlab.com/handbook/paid-time-off/#recognizing-burnout)” (5 min)
 
 ### Addressing Burnout
 
 - **Again, Rest and Time Off are PRODUCTIVE!:** With GitLab’s recent [updates to the paid time off policy](https://gitlab.slack.com/archives/C010XFJFTHN/p1701277010756539), prioritizing time away remains top of mind.
 - **Workload Management:** Managers are expected to delegate work effectively. Doing this effectively means strategically distributing workload and creating space for team members to express support or push back when needed.
-  *[ ] Encourage open dialogue whenever possible
-  *[ ] Transparently share workload management strategies and systems
-  *[ ] Discuss how workload and demand informs delegation
+
+  - [ ] Encourage open dialogue whenever possible
+  - [ ] Transparently share workload management strategies and systems
+  - [ ] Discuss how workload and demand informs delegation
 - **Growth & Development:** There are several ways to improve/enhance capabilities for managers and team members when it comes to combating burnout through professional development opportunities centered around stress management, time management, and professional counseling.
-  *[ ] Preventative training for the whole team
+  - [ ] Preventative training for the whole team
 - **Creating a Supportive Work Environment:** Foster an environment of open communication and support, encouraging team members to speak up about their challenges.
 - **Longer-Term Solutions:** Encourage participation in wellness programs, explicitly communicate with teams about GitLabs culture of flexible work, and review job/role descriptions for potential stressors and opportunities to address scope.
 - **Dogfood:** Managers must model healthy/balanced working behaviors! Taking time away, sharing challenges and success around effectively managing workload, storytelling centered on output as a result of effective workload management.
@@ -75,8 +76,8 @@ Below, you can access all the referenced in this guide:
 |[Yerbo’s Risk Check](https://methods.yerbo.co/burnout-index/)        |Managers can share this with their teams. It’s recommended that managers go through this for themselves as well.        |
 |[Mental_Health_Aware](https://gitlab.enterprise.slack.com/archives/C834CM4HW)        |Audience: All team members        |
 
-#### Additional Resources
-
-LinkedIn Learning Course: [How to Beat Burnout, Exhaustion, and Stress](https://levelup.gitlab.com/learn/course/avoiding-burnout/main/how-to-beat-burnout-exhaustion-and-stress?client=internal-team-members)
-
-[Modern Health](https://handbook.gitlab.com/handbook/total-rewards/benefits/modern-health/#mental-wellness-services): Burnout at work can also be influenced by a multitude of experiences happening inside and outside of work. EAP offers benefits the serve a variety of needs.
+>#### Additional Resources
+>
+>LinkedIn Learning Course: [How to Beat Burnout, Exhaustion, and Stress](https://levelup.gitlab.com/learn/course/avoiding-burnout/main/how-to-beat-burnout-exhaustion-and-stress?client=internal-team-members)
+>
+>[Modern Health](https://handbook.gitlab.com/handbook/total-rewards/benefits/modern-health/#mental-wellness-services): Burnout at work can also be influenced by a multitude of experiences happening inside and outside of work. EAP offers benefits the serve a variety of needs.
