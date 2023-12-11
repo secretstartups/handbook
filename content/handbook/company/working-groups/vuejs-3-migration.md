@@ -65,8 +65,8 @@ This Working Group has the following goals:
 | Member             | Mark Florian          | Staff Frontend Engineer, Manage:Foundations                       |
 | Member             | Laura Meckley         | Frontend Engineer, Fulfillment::Billing & Subscription Mgmt       |
 | Member             | Andrei Zubov          | Frontend Engineer, Release                                        |
-| Member             | Artur Fedorov         | Senior Frontend Engineer, Secure                                  |
+| Member             | Artur Fedorov         | Senior Frontend Engineer, Govern:Security Policies                                  |
 | Member             | Frédéric Caplette     | Senior Frontend Engineer, Verify:Pipeline Authoring               |
-| Member             | Eduardo Sanz Garcia   | Senior Frontend Engineer, Govern:Authentication and Authorization |
+| Member             | Eduardo Sanz Garcia   | Senior Frontend Engineer, Govern:Authentication                   |
 | Member             | Ross Byrne            | Fullstack Engineer, Growth:Acquisition                            |
 | Member             | Samantha Ming         | Senior Frontend Engineer, Govern:Threat Insights                            |
