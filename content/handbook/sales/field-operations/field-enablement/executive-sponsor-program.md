@@ -5,26 +5,26 @@ description: "The Executive Sponsorship Program aims to grow our relationships w
 ---
 The Executive Sponsorship Program aims to grow our relationships with senior-level buyers and champions at our top customers, expand engagement to promote enterprise-wide platform adoption, and take a customer-centric approach to solving our customers' most challenging business problems
 
-## **Executive Sponsorship Program Vision & Goals**
+## Executive Sponsorship Program Vision & Goals
 
 This program presents a real opportunity to make customer centricity a habit
 
-**1. Build Deeper Relationships** : 
+**Build Deeper Relationships** : 
 By thoughtfully mapping our Executive Sponsors, Field Leaders, and Account team members to key customer personas and engaging regularly.
 
-**2. Continuously learn from our customers** :
+**Continuously learn from our customers** :
 By engaging in cooperative account planning, success planning, and disciplined opportunity management and Executive Sponsor advocacy.
 
-**3. Make our customers successful** :
+**Make our customers successful** :
 By systematically removing roadblocks and activating all GitLab functions to deliver measurable customer business outcomes.
 
-### **Success goals and measurement**
+### Success goals and measurement
 
 We have three main areas of focus (1) relationship strength, (2) net promoter score, (3) platform adoption. 
 Our KPI(s) are **relationship score**, which is based on the influence, sentiment, strength and engagement activity of the account; **net promoter score** based on satisfaction and likelihood to recommend, the number of roadblock removed and 2 public customer references annually; **platform adoption** through number use cases fully adopted, time to value and net ARR Growth.  
 We will measure the success of our KPIs through relationship mapping and account planning (monthly), NPS and qualitative survey feedback (quarterly) and product usage as well as account health and SFDC data.
 
-### **Account & Sponsor Selection Process**
+### Account & Sponsor Selection Process
 
 Account selection for the Executive Sponsorhip Program will happen annually and focuses on accounts with a combination of high customer strategic value to GitLab, GitLab’s ability to provide high strategic value to the account, as well as account health and propensity to churn.
 
@@ -35,7 +35,7 @@ Once selected, Sponsors are to be engaged for a minimum 1 year commitment to the
 
 Short listed accounts and sponsor pairings are presented to the CRO Leadership team for review prior to the accounts being confirmed and onboarded to the program.
 
-### **Roles & Responsibilities**
+### Roles & Responsibilities
 
 **CEO & CRO**
 Validate and reinforce the program expectations. Drive accountability for Executive Sponsors and Account Team Leadership in support of the program goals. 
@@ -49,7 +49,7 @@ Own and execute all account planning, customer success planning, and related cus
 **Executive Sponsor**
 Act as an advocate and amplify the voice of the customer and Account Team throughout GitLab. Regularly engage senior-level customer contacts (formally and informally) to deliver industry and business strategy insights.
 
-### **Operating Cadence**
+### Operating Cadence
 
 **Weekly**
 1. Action Planning execution and reviews (asynch)
@@ -72,6 +72,6 @@ Act as an advocate and amplify the voice of the customer and Account Team throug
 3. Consider additional tiers or creation of a self-service ESP model
 4. Minimum of 1 face-to-face Sponsor & Customer meeting
 
-### **How to work with us**
+### How to work with us
 
 Engage with the Executive Sponsorship program team by connecting with us on Slack, use #executive-sponsor-program
