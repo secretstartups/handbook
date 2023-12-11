@@ -285,11 +285,12 @@ While we iterate with small changes, we strive for large, ambitious results. We 
 
 ##### Understand our customers
 
-All GitLab team members should understand our customers’ needs, issues, and value propositions. We understand how they use GitLab and what they need from a platform in order to meet their goals.
+All GitLab team members should understand our customers’ needs, issues, and value propositions. We understand how they use GitLab and what they need from a platform in order to meet their goals. Internally facing teams consider the impact of their work as it pertains indirectly to GitLab's customers.
 
 We better understand customers and their needs through:
 - Reviewing public facing GitLab issues from our customers and users
 - Reading customer stories from Marketing and Sales
+- Attending Customer fireside chats
 - Learning feedback from our customers and users on product features and roadmap
 
 ##### Co-create
@@ -297,7 +298,7 @@ We better understand customers and their needs through:
 We create together with our customers. There is an open dialogue between GitLab and our customers so that we can better identify what they need. As a result of building a solution for them, we can also bring that solution to the world.
 
 
-##### Don't lose sight of end users
+##### Keep end users in sight
 
 Our focus is to improve the results that customers achieve. At GitLab, one way to drive customer results is through platform enhancements that drive the most value for direct users. This requires being aware of [the Concur effect](https://twitter.com/ryanfalor/status/1182647229414166528?s=12).
 
