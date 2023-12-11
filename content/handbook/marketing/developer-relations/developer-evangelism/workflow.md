@@ -74,6 +74,7 @@ The roadmap view needs to be synced with the `Technical Content Plan - Developer
 Checklist for updating delivery dates:
 
 1. Sync the delivery date in the technical content plan with the epic due date.
+1. Update the epic's title to the `month, year` the content is delivered. 
 1. Update the epic's parent epic to match the quarter where the content is delivered. 
 1. Update the epic's labels to match the quarter where the content is delivered. 
 
