@@ -124,7 +124,7 @@ Below is a full list of our UX Research team handbook content:
 ### Measures and processes the UX Research team is responsible for
 
 - [System Usability Scale](/handbook/product/ux/performance-indicators/system-usability-scale/)
-     - [System Usability Scale responder outreach](/handbook/product/ux/performance-indicators/system-usability-scale/sus-outreach.html)
+     - [System Usability Scale responder outreach](/handbook/product/ux/performance-indicators/system-usability-scale/sus-outreach/)
      - [System Usability Scale database](/handbook/product/ux/sus-database/)
 - [Paid Net Promoter Score](/handbook/product/ux/performance-indicators/paid-nps/)
 - [Assessing Category Maturity](/handbook/product/ux/category-maturity/)
