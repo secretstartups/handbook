@@ -101,7 +101,6 @@ The Senior Partner Operations Analyst is a [grade 7](/handbook/total-rewards/com
 - Interest in GitLab, and open source software
 - Shares GitLab’s [values](/handbook.gitlab.com/handbook/values/) and works in accordance with those values
 
-
 ### Manager, Global Partner Specialists
 
 The Manager, Global Partner Specialists reports to the Director, Partner Operations
