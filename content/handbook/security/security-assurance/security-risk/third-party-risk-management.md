@@ -279,8 +279,6 @@ Change requests relating to previously-approved requisitions will be reviewed by
 
 Engineers are advised to use professional judgment in determining the scope of changes and are encouraged to perform additional review prior to approving the Change Request if there is potential for introduction of additional risk. For other non-material adjustments not defined here that may not warrant additional review, Engineers should ping the Security Risk team or discuss with the Security Risk Manager prior to moving forward to ensure alignment with GitLab's due diligence requirements. Rationale should be documented when approving the Change Order in alignment with the low-risk approval language in the [TPRM README](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/blob/master/Readme.md).
 
-For situations where IT is unable to complete a GitLab Laptop Request due to country location or other constraints, the Security Risk Team will require consultation and may require a Risk Acceptance to be completed. See [TPRM Risk Acceptance]({{< ref "third-party-risk-management#tprm-risk-acceptance-process" >}}) Process for more details.
-
 #### Third Party Application Integrations
 
 Integrations between systems within GitLab's environment are subject to the above-defined TPRM assessment procedures to obtain assurance over the security of data transmitted between each system. The Security Risk team will review the request to obtain an understanding of the data being shared. Application Integration Requests can be opened using the 'app_integrations' template located [here](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=app_integrations).
