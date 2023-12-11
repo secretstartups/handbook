@@ -1,15 +1,7 @@
 ---
-
 title: "Professional Services EM Scoping Guidelines"
 description: "Describes the process of scoping PS engagements."
-
 ---
-
-
-
-
-
- 
 
 # Scoping Information
 
@@ -40,4 +32,3 @@ There may be times when the EM and/or TA disagree with a solution approach that 
 1. Lay out your reasoning for thinking the current solution path is not the correct path
 1. Define alternate solutions that would be a better fit
 1. Agree with account team on a communication plan with the customer, next steps, and the DRI for communication
-
