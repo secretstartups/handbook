@@ -1186,7 +1186,7 @@ This policy dictates the timing of opportunity closure for all sales-assisted de
   - Relevant details about the account/opp seeking a late renewal extension / early booking
   - Why an exception is needed (justification)
   - Impact to the business (Net ARR or Renewal ARR loss)
-  - **Approval from both** GitLab CRO and CFO (or Principal Accounting Officer)
+  - **Approval from both** Sales VP and CFO (or Principal Accounting Officer)
   - Anticipated (revised) Renewal Close Date
 
 - Once all of the above have been documented in Chatter, please tag @sales-support on the associated opportunity so that [Sales Operations can take the appropriate actions](https://internal.gitlab.com/handbook/sales/sales-operations/#late-renewal-exception-process) to exclude the opportunity from auto closure / forward the opportunity to Billing Ops for early booking.
