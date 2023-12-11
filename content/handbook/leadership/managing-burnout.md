@@ -75,6 +75,7 @@ Below, you can access all the referenced in this guide:
 |[Combating burnout, isolation, and anxiety in the remote workplace](https://handbook.gitlab.com/handbook/company/culture/all-remote/mental-health/)        |Audience: All team members        |
 |[Yerbo’s Risk Check](https://methods.yerbo.co/burnout-index/)        |Managers can share this with their teams. It’s recommended that managers go through this for themselves as well.        |
 |Slack: [Mental_Health_Aware](https://methods.yerbo.co/burnout-index/)        |Audience: All team members        |
+
 #### Additional Resources
 
 LinkedIn Learning Course: [How to Beat Burnout, Exhaustion, and Stress](https://levelup.gitlab.com/learn/course/avoiding-burnout/main/how-to-beat-burnout-exhaustion-and-stress?client=internal-team-members)
