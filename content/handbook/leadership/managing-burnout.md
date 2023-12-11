@@ -18,9 +18,8 @@ This guide serves as a toolkit for fostering a supportive work culture where tea
 
 #### Resource
 
-🏁 Begin by reading [“Preventing Burnout: A Manager’s Toolkit”](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/) and watching the included video from Sid. (12 min)
-- Highlight: From the article: “Identifying burnout in a remote environment is more difficult than in a co-located workplace, but looking for early hallmarks such as exhaustion and reduced enthusiasm can help managers get ahead of the problem.
-- Reflect: What are other ways “burnout” might show up?
+🏁 Modern Health provides an interactive walkthrough centered on burnout prevention and designed for people managers. [Preventing Burnout in Team Members](https://my.joinmodernhealth.com/program/preventing-burnout-in-team-members) (10 min) is included for all GitLab team members. If this is your first time using GitLab’s Modern Health benefit, you can follow guidance for [team member registration](https://handbook.gitlab.com/handbook/total-rewards/benefits/modern-health/#team-member--family-registration).
+- Reflect: What are other ways “burnout” might show up beyond "fatigue"?
 
 
 ### Understanding Burnout:
