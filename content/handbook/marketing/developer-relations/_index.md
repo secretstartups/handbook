@@ -31,7 +31,7 @@ Our operational strategy is [documented in our internal handbook](https://intern
   - [#developer-relations](https://gitlab.slack.com/archives/C0R04UMT9): for all GitLab-related discussion (ex: questions about an issue, announcement of an upcoming event)
   - [#developer-relations-hangout](https://gitlab.slack.com/archives/C01C018V7V3): for all social discussion and updates shared via the Community Catch bot (ex: plumbing problems, weekend plans)
   - [developer-relations-confidential](https://gitlab.slack.com/archives/C0566B6N2KC): (private) for discussion of confidential topics that cannot be shared in a channel with people from outside GitLab (ex: discussing a topic that was shared in #company-fyi-private among our team)
-- GitLab team members and others with Slack access can reach us by visiting the [`#developer-relations`](https://gitlab.slack.com/messages/developer-relations) Slack channel, or by tagging the `@community-team` group handle.
+- GitLab team members and others with Slack access can reach us by visiting the [`#developer-relations`](https://gitlab.slack.com/messages/developer-relations) Slack channel, or by tagging the `@devrel-team` group handle.
 - Members of the wider GitLab community can connect with us in the [public Discord rooms](https://discord.gg/gitlab)
 
 Teams within Developer Relations are reachable in these Slack channels:
