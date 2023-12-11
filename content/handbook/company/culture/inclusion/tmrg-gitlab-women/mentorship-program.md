@@ -144,17 +144,40 @@ Other mentorship resources at GitLab can be found [here in the handbook]({{< ref
 
 ### 2023
 
-1. Total Participants: 137 team members / 73 mentor/mentee pairs
+1. Total Participants: 136 team members / 73 mentor/mentee pairs
+
+In 2023, mentees and mentors were surveyed using Culture Amp before and after the program to meausre key impacts of their mentorship. The following data outlines the impact that mentorship had on these impacts for mentees and mentors.
+
+**Mentee Results**
+
+All mentee impacts trended upwards post program, with the greatest impact being on mentees sense of support network at Gitlab. Survey participation went from 91% to 64% pre to post.
+
+| Question | Pre-Program Score | Post-Program Score | Trend Pre to Post Program |
+| ---------- | ----- | ----- | ----- |
+| I know where to find GitLab resources to support my career growth. | 73 | 84 | +14 |
+| I have a network of support to help me reach my goals at GitLab. | 70 | 82 | +30 |
+| I have a vision of how I'd like to grow over the next 12 months at GitLab. | 52 | 80 | +7 |
+
+
+**Mentor Results**
+
+Both mentor impacts trended sligntly downward. Survey participation went from 91% to 67% pre to post.
+
+| Question | Pre-Program Score | Post-Program Score | Trend Pre to Post Program |
+| ---------- | ----- | ----- | ----- |
+| I have relationships with team members outside of my own department. | 95 | 93 | -2 |
+| I am confident in my ability to support others towards achieving their goals. | 95 | 93 | -2 |
+
 
 ### 2022
 
-#### Participation
+**Participation**
 
 1. Total Participants: 120 team members / 63 mentor/mentee pairs
 1. Unique Departments Represented by Mentees: 21
 1. Unique Departments Represented by Mentors: 24
 
-#### Skills Developed
+**Skills Developed**
 
 Skill development was a key variable used to measure success of this program.
 
@@ -174,7 +197,7 @@ Skill development was a key variable used to measure success of this program.
 - Goal Setting (47.6%)
 - Self-Value (47.6)
 
-#### Feedback
+**Feedback**
 
 1. 84% of mentors agree the program strengthened their **leadership skills.**
 1. 91.7% of mentors agree the program strengthened their **coaching skills.**
@@ -192,7 +215,7 @@ Skill development was a key variable used to measure success of this program.
 
 ### 2021
 
-#### Participation
+**Participation**
 
 1. Total Participants: 66 team members / 33 mentor/mentee pairs
 1. Unique Departments Represented by Mentees: 19
@@ -206,7 +229,7 @@ Session 3:
 
 Watch [session 1](https://www.youtube.com/embed/cuRT7nUU10Q)and [session 2](https://www.youtube.com/embed/sY57W3xbLJU) on the GitLab Unfiltered YouTube channel.
 
-#### Skills Developed
+**Skills Developed**
 
 Skill development was a key variable used to measure success of this program.
 
@@ -226,7 +249,7 @@ Skill development was a key variable used to measure success of this program.
 - Self-promotion (36.8%)
 - Self-value (31.6%)
 
-#### Feedback
+**Feedback**
 
 - 84.3% of mentees plan to continue meeting with their mentor
 - 55% of mentees want to participate as mentors in future iterations of this program
