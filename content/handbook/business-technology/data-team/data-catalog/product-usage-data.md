@@ -201,7 +201,7 @@ details and examples on implementing further tests.
 
 ### Product Usage Trusted Data Dashboard
 
-A detailed Dashboard showing dbt tests, Source Model freshness, Record Counts, Last Run Dates, Golden records Validation etc.. This reports on latest Enterprise Dimensional model test and runs.
+A detailed Dashboard showing dbt tests, Source Model freshness, Record Counts, Last Run Dates. This reports on latest Enterprise Dimensional model test and runs.
 
 [(WIP) Product Usage Trusted Data Dashboard](https://app.periscopedata.com/app/gitlab/820568/WIP:-Product-Usage-Trusted-Data-Dashboard)
 
