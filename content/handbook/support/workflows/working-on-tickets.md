@@ -67,8 +67,8 @@ We will expect Support Engineers to proactively claim ownership of any unassigne
 ## Assigning tickets
 
 When you begin work on a new ticket, as your first step please assign the ticket
-to yourself using the `take it` button. In the SGG environment, that shouldn't
-prevent anybody from collaborating with you on the ticket. What it ***will*** do
+to yourself using the `take it` button, then click on 'Submit as Open' to ensure it's assigned to you. 
+In the SGG environment, that shouldn't prevent anybody from collaborating with you on the ticket. What it ***will*** do
 is signal that you're the DRI for providing a great customer experience, as the
 ticket progresses towards `Status: Solved`. This enables other team members
 seeking to assign themselves New ticket/s from the queue, to move on to reviewing
