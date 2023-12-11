@@ -23,7 +23,7 @@ You can use the [request an evangelist issue template](https://gitlab.com/gitlab
 
 ## Roadmap view
 
-The Developer Evangelism uses the [Roadmap in the Developer Relations Group](https://go.gitlab.com/community-relations-team-roadmap) to track our work. Epics for our team are tracked within this group using the `dev-evangelism` label.  
+The Developer Evangelism uses the [Roadmap in the Developer Relations Group](https://go.gitlab.com/community-relations-team-roadmap) to track our work. Epics for our team are tracked within this group using the `dev-evangelism` label. 
 
 ### Epics
 
@@ -33,7 +33,8 @@ For each fiscal year's plan, we use the following structure to organize epics on
 - FYXX Events 
   - Child epic for each event we will support
 - FYXX Content
-  - Child epic for each piece of content (blog, video, contributed article, media interview, etc) we will publish 
+  - FYXXQ{1,2,3,4}
+    - Child epic for each piece of content (blog, video, contributed article, media interview, etc) we will publish 
   - FYXX Release Evangelism epic 
     - Child epic for each release we will support 
 
@@ -65,6 +66,26 @@ These are the recommended labels for Epics created in the Developer Relations gr
 **Important!** Where you are adding a label to a sub-epic, its ancestors must include the label for filtering to work properly. This is a workaround, because the roadmap only filters top-level epics using labels, but works when an epic and its ancestors have the label you are filtering with. For example, in the image below, you will notice that the FY24 Content & the sub epic "Blog post - March 2023", both have the label `Content-Blog`, they both appear when the label is used as a filter. The child epic will not appear in the filter, when its ancestors don't have the label you are searching with.
 
 ![Roadmap Filter using Labels](/images/handbook/marketing/developer-relations/developer-evangelism/workflow/roadmap-labels.png)
+
+### Syncing epics roadmap with the technical content plan
+
+The roadmap view needs to be synced with the `Technical Content Plan - Developer Evangelism and Technical Marketing` (search in Google drive).
+
+Checklist for updating delivery dates:
+
+1. Sync the delivery date in the technical content plan with the epic due date.
+1. Update the epic's parent epic to match the quarter where the content is delivered. 
+1. Update the epic's labels to match the quarter where the content is delivered. 
+
+The following quick actions example updates a content epic from FY24Q3 to FY24Q4. 
+
+```
+/unlabel ~FY24-Q3
+
+/label ~FY24-Q4
+
+/parent_epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/241 
+```
 
 
 ### Epic Templates
