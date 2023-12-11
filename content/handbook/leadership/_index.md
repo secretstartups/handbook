@@ -264,6 +264,7 @@ The [Drexler-Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sib
 1. Renewal - Why continue? The team is given recognition and celebrates achievements of individuals that produce valuable work. Reflect on lessons learned and reassess for the future.
 
 **Manager Resource: Identifying & Addressing Burnout**
+
 Building and maintaining high performance includes staying mindful of team well-being and potential burnout. With GitLab’s results-driven culture, the demands of product innovation around AI, the fast-paced and ever-evolving business environment, our organization recognizes the crucial balance between achieving ambitious goals and maintaining the well-being of our team members. Everyone can access this handbook [resource designed for managers to identify & address burnout](https://handbook.gitlab.com/handbook/leadership/managing-burnout/#manager-guide-identifying--addressing-burnout). This has an ongoing impact on team performance.
 
 ### Manager M-Team Groups
