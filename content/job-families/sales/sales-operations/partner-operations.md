@@ -37,23 +37,22 @@ The Partner Specialist is a [grade 6](/handbook/total-rewards/compensation/compe
 - Interest in GitLab, and open source software
 - Shares GitLab’s [values](/handbook.gitlab.com/handbook/values/) and works in accordance with those values
 
+### Senior Partner Specialist
 
-### Sr. Partner Specialist
+The Senior Partner Specialist reports to the Manager, Global Partner Specialists
 
-The Sr. Partner Specialist reports to the Manager, Global Partner Specialists
+#### Senior Partner Specialist Job Grade
 
-#### Sr. Partner Specialist Job Grade
+The Senior Partner Specialist is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-The Sr. Partner Specialist is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Sr. Partner Specialist Responsibilities
+#### Senior Partner Specialist Responsibilities
 
 - Extends that of the Partner Specialist Responsibilities
 - Demonstrates a deeper understanding of GitLab partner programs and operations to handle more complex requests and escalations
 - Collaborates with managers across departments to create and iterate on operational processes and larger projects related to the Partner Specialist team
 - SME on all partner processes that provides enablement and mentorship to other Partner Specialists
 
-#### Sr. Partner Specialist Requirements
+#### Senior Partner Specialist Requirements
 
 - Extends that of the Partner Specialist Requirements
 - Demonstrated progressive relevant experience and understanding of partner operations
@@ -67,16 +66,15 @@ The Sr. Partner Specialist is a [grade 7](/handbook/total-rewards/compensation/c
 - Interest in GitLab, and open source software
 - Shares GitLab’s [values](/handbook.gitlab.com/handbook/values/) and works in accordance with those values
 
+### Senior Partner Operations Analyst
 
-### Sr. Partner Operations Analyst
+The Senior Partner Operations Analyst reports to the Senior Manager, Partner Operations
 
-The Sr. Partner Operations Analyst reports to the Senior Manager, Partner Operations
+#### Senior Partner Operations Analyst Job Grade
 
-#### Sr. Partner Operations Analyst Job Grade
+The Senior Partner Operations Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-The Sr. Partner Operations Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Sr. Partner Operations Analyst Responsibilities
+#### Senior Partner Operations Analyst Responsibilities
 
 - Identify opportunities for system and process automation and optimization, and lead projects with a focus on efficiency, effectiveness, scalability and growth
 - Translate GitLab’s Partner GTM strategy into technical solutions that automate QTC, territory coverage, reporting models, and compensation
@@ -88,7 +86,7 @@ The Sr. Partner Operations Analyst is a [grade 7](/handbook/total-rewards/compen
 - Support the partner sales team on escalations including SFDC account management, opportunity assistance, and ad hoc support
 - Build and deliver ad hoc solutions to support projects and company OKRs
 
-#### Sr. Partner Operations Analyst Requirements
+#### Senior Partner Operations Analyst Requirements
 
 - Demonstrated progressive relevant experience and understanding of partner operations
 - Experience working directly with sales/partner sales teams and partners
@@ -137,7 +135,6 @@ Be the point of escalation for sales and partner leadership on partner related i
 - Interest in GitLab, and open source software
 - Shares GitLab’s [values](/handbook.gitlab.com/handbook/values/) and works in accordance with those values
 
-
 ### Partner Experience Manager
 
 The Partner Experience Manager reports to the Director, Partner Operations
@@ -168,7 +165,6 @@ The Partner Experience Manager is a [grade 8](/handbook/total-rewards/compensati
 - Alliance and Channel Partner experience preferred
 - Interest in using GitLab
 - Shares GitLab’s [values](/handbook.gitlab.com/handbook/values/) and works in accordance with those values
-
 
 ### Senior Manager, Partner Operations
 
@@ -207,7 +203,6 @@ The Senior Manager, Partner Operations is a [grade 9](/handbook/total-rewards/co
 - Strong ability to translate business needs into deliverable technical requirements
 - Interest in GitLab, and open source software
 - Shares GitLab’s [values](/handbook.gitlab.com/handbook/values/) and works in accordance with those values
-
 
 ### Director, Partner Operations
 
