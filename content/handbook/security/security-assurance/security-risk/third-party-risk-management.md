@@ -129,7 +129,7 @@ If a vendor has been reviewed and approved within the preceding 12-24 months (as
 
 Circumstances may exist outside of those defined above that could necessitate further review. TPRM Engineers are encouraged to use professional discretion in identifying these circumstances and performing additional Security review or validation as needed.
 
-If a Risk Acceptance was put in place at the time of the previous assessment, inquiry should be performed with the vendor or relevant stakeholder to determine the current status of the risk. Any updates should be documented within the Risk Object. This can be performed in tandem with the requisition or after its approval.
+If a Security Notice was documented at the time of the previous assessment, inquiry should be performed with the vendor or relevant stakeholder to determine the current status of the identified risk(s). Any updates should be documented within the Security Notice Issue. This can be performed in tandem with the requisition or after its approval.
 
 | Data Classification | Request | Supplemental Questionnaire in Zen? | Okta SSO? | New BIA / Tech Stack Entry? | BitSight Review? | Evidence of PenTest and BCP Testing |
 | ------ | ------ |------ |------ |------ |------ | ------ |
@@ -159,11 +159,11 @@ GitLab obtains and reviews third-party attestations to provide assurance over th
 - The report was issued within the last 12 months;
   - If the most recent report is older than 12 months, a Bridge Letter should be obtained to provide assurance that material changes have not occurred to the vendor's control environment since the report's issuance.
 - The report is issued without a qualified opinion or exceptions otherwise impacting the security of GitLab data.
-  - A report designated as "qualified" indicates that one or more controls assessed were found to be inadequately designed or implemented during the audit period. The nature of the qualification should be reviewed and understood to determine whether the control failure could impact the security of GitLab data, and if so should be reported to the Business Owner via the Risk Acceptance Process.
+  - A report designated as "qualified" indicates that one or more controls assessed were found to be inadequately designed or implemented during the audit period. The nature of the qualification should be reviewed and understood to determine whether the control failure could impact the security of GitLab data, and if so should be reported to the Business Owner via TPRM Security Notice.
   - Exceptions may be identified within the report that do not result in the issuance of a qualified opinion, though any exceptions should still be reviewed for the following to determine if they may present a risk to GitLab data:
     - **Nature of the Exception:** The related control and the exception itself should be reviewed to determine whether GitLab relies upon that control to safeguard our data.
     - **Management's Response:** A management response is often included to address the reason for the exception and any steps that have been taken to address and remediate it. This may be accompanied by re-testing performed by the external auditor to validate that remediation was successful.
-  - These items, if present, should be noted within the TPRM Assessment Report. If the nature of the qualification or exception is found to impact GitLab's security, and management's response provides insufficient assurance that remediation steps have been taken, this should be reported to the Business Owner via the Risk Acceptance Process.
+  - These items, if present, should be noted within the TPRM Assessment Report. If the nature of the qualification or exception is found to impact GitLab's security, and management's response provides insufficient assurance that remediation steps have been taken, this should be reported to the Business Owner via the TPRM Security Notice Process.
 
 **SOC 2 Type 1:** The SOC 2 Type 1 report is often published as part of a preliminary assessment during the SOC 2 Type 2 "readiness" process. This is a limited scope, point in time assessment of the design of controls in place within a service provider's environment, and does not include a validation of control operating effectiveness. As such, the Type 1 report should not be leveraged on its own to address our third-party attestation requirements, however it may be leveraged in addition to an ISO 27001 certificate or equivalent attestation in providing assurance over a service provider's environment.
 
@@ -216,14 +216,14 @@ Security Risk maintains multiple templated versions of the SIG questionnaire for
 {{% details summary="Reviewing SIG Responses" %}}
 Vendor responses documented within the SIG questionnaire should be reviewed in the context of the services provided by the vendor, with care taken to understand the broader control environment and how certain control deficiencies may be mitigated by other existing controls. For example, a vendor that does not rely on 3rd party service providers in the provision of services would be unlikely to maintain a Third Party Risk Management program, which is unlikely to pose a risk to GitLab in the broader context of services being provided. Significant deviations such as this should be flagged during the review and noted within the SIG questionnaire with an explanation on why the deficiency does not present a risk to GitLab data. Mitigating controls, if identified, should be defined within these notes as well. Engineers are encouraged to perform follow-up inquiries with vendors as necessary to determine whether a control deficiency exists. These inquiries should be further noted within the SIG document or within the TPRM Assessment Report.
 
-Deficiencies identified that may present a material risk to GitLab data should be noted within the TPRM assessment report and presented to the business owner via the Risk Acceptance Process detailed below.
+Deficiencies identified that may present a material risk to GitLab data should be noted within the TPRM assessment report and presented to the business owner via the TPRM Security Notice Process detailed below.
 
 *SIG questionnaires (or equivalent) provided by a vendor **not** utilizing a GitLab-provided template should be reviewed to ensure they meet our due diligence standards. Domains not sufficiently addressed by a vendor-provided questionnaire should be identified, with additional inquiries performed to gain assurance over all in-scope domains.*
 {{% /details %}}
 
 ### Leveraging BitSight
 
-BitSight is leveraged to obtain additional assurance over the security of a vendor's environment by use of public scans and peer benchmarking. When assessing a vendor, their BitSight report is downloaded and reviewed to determine whether their scoring is adequate, as evidenced by an "Advanced" security rating. BitSight ratings of "Basic" or "Intermediate" are reviewed in further depth to understand the rationale behind the lower rating and whether the deficiencies identified may indicate a risk to GitLab data. Due to the wide scope of BitSight's scans, some deficiencies may exist within areas that do not impact GitLab's usage of a vendor's product, and thus do not contribute to the vendor's residual risk. If deficiencies are identified that may present a material risk to GitLab data, further inquiry should be performed with the vendor to determine whether they have been resolved. Un-resolved material deficiencies should be documented within the TPRM Assessment Report and reported to the Business Owner via the [TPRM Risk Acceptance Process](/handbook/security/security-assurance/security-risk/third-party-risk-management/#tprm-risk-acceptance-process) defined below.
+BitSight is leveraged to obtain additional assurance over the security of a vendor's environment by use of public scans and peer benchmarking. When assessing a vendor, their BitSight report is downloaded and reviewed to determine whether their scoring is adequate, as evidenced by an "Advanced" security rating. BitSight ratings of "Basic" or "Intermediate" are reviewed in further depth to understand the rationale behind the lower rating and whether the deficiencies identified may indicate a risk to GitLab data. Due to the wide scope of BitSight's scans, some deficiencies may exist within areas that do not impact GitLab's usage of a vendor's product, and thus do not contribute to the vendor's residual risk. If deficiencies are identified that may present a material risk to GitLab data, further inquiry should be performed with the vendor to determine whether they have been resolved. Un-resolved material deficiencies should be documented within the TPRM Assessment Report and reported to the Business Owner via the [TPRM Security Notice Process](/handbook/security/security-assurance/security-risk/third-party-risk-management/#tprm-risk-acceptance-process) defined below.
 
 ### TPRM Approval Windows
 
@@ -265,7 +265,7 @@ Scoping for this activity is based on the below populations, and is finalized in
 1. SOC 2-scoped Applications
 1. Red Applications
 
-Vendors within the above populations are assessed in alignment with our Red vendor assessment criteria. Deficiencies identified are reported to Business Owners in alignment with our TPRM Risk Acceptance process.
+Vendors within the above populations are assessed in alignment with our Red vendor assessment criteria. Deficiencies identified are reported to Business Owners in alignment with our TPRM Security Notice process.
 
 *Is there a vendor you'd like to see included in our annual assessment procedures? Reach out to @Security-Risk in the #Sec-Assurance channel.*
 
