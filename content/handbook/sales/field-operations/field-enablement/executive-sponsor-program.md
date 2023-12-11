@@ -3,17 +3,19 @@
 title: "Executive Sponsorship Program"
 description: "The Executive Sponsorship Program aims to grow our relationships with senior-level buyers and champions at our top customers, expand engagement to promote enterprise-wide platform adoption, and take a customer-centric approach to solving our customers' most challenging business problems."
 ---
+The Executive Sponsorship Program aims to grow our relationships with senior-level buyers and champions at our top customers, expand engagement to promote enterprise-wide platform adoption, and take a customer-centric approach to solving our customers' most challenging business problems
+
 ## **Executive Sponsorship Program Vision & Goals**
 
 This program presents a real opportunity to make customer centricity a habit
 
-**1. Build Deeper Relationships**
+**1. Build Deeper Relationships** : 
 By thoughtfully mapping our Executive Sponsors, Field Leaders, and Account team members to key customer personas and engaging regularly.
 
-**2. Continuously learn from our customers**
+**2. Continuously learn from our customers** :
 By engaging in cooperative account planning, success planning, and disciplined opportunity management and Executive Sponsor advocacy.
 
-**3. Make our customers successful**
+**3. Make our customers successful** :
 By systematically removing roadblocks and activating all GitLab functions to deliver measurable customer business outcomes.
 
 ### **Success goals and measurement**
@@ -50,17 +52,14 @@ Act as an advocate and amplify the voice of the customer and Account Team throug
 ### **Operating Cadence**
 
 **Weekly**
-
 1. Action Planning execution and reviews (asynch)
 2. Customer engagement (account teams)
 
 **Monthly**
-
 1. Account team and Exec Sponsor account planning session
 2. E-Group and CRO LT program update
 
 **Quarterly**
-
 1. ESP Forums
 2. Program scorecard update
 3. NPS and qualitative survey feedback
@@ -68,7 +67,6 @@ Act as an advocate and amplify the voice of the customer and Account Team throug
 5. Minimum of 1 informal virtual or in-person touchpoint between Sponsor and key Customer contacts
 
 **Annually**
-
 1.  Review program impact  and funding model
 2. Reassess tier 1 accounts and sponsor mapping
 3. Consider additional tiers or creation of a self-service ESP model
