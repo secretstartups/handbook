@@ -218,10 +218,10 @@ The Director, Partner Operations is a [grade 10](/handbook/total-rewards/compens
 - Motivate and communicate across multiple levels of their department
 - Ensure the handbook is used and relevant references are maintained in a transparent way
 - Develop strategies and new initiatives with their team to advance on an organizational and technical level both the department, the company and the product
-- Have successful peer partnerships with other department leaders in Marketing, Product, Finance, etc
+- Establish successful peer partnerships with other department leaders in Marketing, Product, Finance, etc
 - Partner with cross-functional teams to drive analytical insights across the GTM Motion and escalate relevant discussion topics
 - Support Alliance and Channel strategic initiatives and partner with relevant GTM teams
-- Development, measurement, and management of key metrics for group's performance
+- Develop, measure, and manage key metrics for group's performance
 - Drive high throughput and all connected key metrics on a strategic level
 - Build and optimize company-wide partner go-to-market processes in collaboration with the sales team and broader GitLab organization
 - Develop methods, processes, systems and tools to appropriately support our partner efforts within our segmentation models: enterprise, mid-market and SMB
