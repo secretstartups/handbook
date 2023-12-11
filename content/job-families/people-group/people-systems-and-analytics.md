@@ -257,14 +257,15 @@ maintainability, and best practices
 - Regularly contribute to the People Analytics handbook pages, elevating data literacy
 and enabling responsible use of data across GitLab
 - Act as a trusted voice of people data and insights in meetings and presentations
+- Strategize and collaborate with the Data Team to ensure integrity and accuracy of people data
 
 ##### Requirements
 
-Staff Analysts are expected to meet the [Senior Product Analyst requirements](#senior-pa-requirements),
+Staff Analysts are expected to meet the Senior Analyst, People Analytics requirements,
 with the experience requirements adjusted to:
 
 - 6+ years of data analysis experience, leveraging descriptive and predictive data techniques
-- 4+ years of experience supporting product teams
+- 4+ years of experience supporting people teams
 - 2+ years of experience conducting independent exploratory analysis
 - 2+ years of mentoring other teammates or analysts
 - Experience leading large, strategic initiatives
