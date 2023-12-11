@@ -6,25 +6,31 @@ The IT Systems Engineer is responsible for performing functions such as evaluati
 
 ## Responsibilities
 
-- Deploy and manage business critical applications in cloud infrastructure like Amazon Web Services (AWS) and Google Cloud Platform (GCP)
-- Collaborate with engineering and security teams to coordinate on IT policies
-- Build policies and scripts to support company owned devices
+- Design, implementation, and ongoing management of the Okta Identity and Access management platform.
+- Configure and customize Okta to meet the organization's authentication and authorization requirements.
+- Identity Lifecycle Management: Manage the complete lifecycle of user identities, including provisioning, de-provisioning, and access modifications. Implement and maintain automated workflows for user onboarding and offboarding.
+- Single Sign-On (SSO) Integration: Integrate applications and systems with Okta for seamless single sign-on experiences. Troubleshoot and resolve issues related to SSO integrations. Remove applications as required.
+- Create and manage access policies to improve security and adhere to compliance standards.
+- Administer and optimize VDI solutions to provide a seamless and secure virtual desktop experience. Collaborate with end-users and IT teams to troubleshoot VDI-related issues and ensure optimal performance.
+- Collaborate with Engineering and Security teams to coordinate on IT policies
+- Build policies and scripts using vendor APIs to support company owned devices and SaaS services such as Google Workspace, Slack and Zoom
 - Develop and maintain documentation for supported applications, processes, and training material to internal employees and IT staff
-- Work with Security, PeopleOps and Business Operations to develop automated onboarding and offboarding processes
+- Work with Security, PeopleOps and IT to develop automated onboarding and offboarding processes
 - Develop tooling and processes to facilitate end-user asset management, provisioning and tracking
 - Participate in general IT operations and user support
 - Build and maintain cross-functional relationships with internal teams to drive initiatives
-- Plan and implement systems automation as required for better efficiency
+- Design, develop, and support integrations using tools such as Okta Workflows, Workato or custom code to reduce repetitive and manual tasks
+- Maintenance of existing scripts written in PHP Laravel and Python  
 - Oversee and provide operations support including account management, workflow, log analysis, troubleshooting and service optimization
 - Assist in ongoing evaluation and management of major vendor relationships and outsourcing arrangements
 - Develop system-monitoring and support automation to enhance and scale the quality of support
 
 ## Requirements
 
-- Experience administering SaaS applications like Okta, Google Workspace, Slack, Zoom
-- Knowledge of configuration management tools like Ansible, Chef, or Terraform
-- Hands-on experience supporting Linux and Mac
-- Hands-on experience working in GCP and AWS environments
+- Experience administering SaaS applications such as Okta (Okta Identity Engine & Identity Governance), Google Workspace, Slack, and Zoom
+- In-depth knowledge of identity and access management concepts and practices.
+- Hands-on experience supporting Linux and Mac users
+- Ability to create, analyze and action the output of custom reports
 - Developing automation workflows and integrations for repetitive or manual tasks
 - Experience working with CI/CD tools and Git
 - Ability to use GitLab
@@ -47,10 +53,10 @@ The IT Systems Engineer position has all the same requirements as the ones outli
 
 - 5+ years of experience in IT in a high growth Software as a service (SaaS) environment
 - 3+ years of experience in user support in a cloud-first modern IT environment
-- Experience with security information and event management (SIEM) tools like Splunk or ElasticSearch
+- Experience with log management tools such as Splunk and ElasticSearch and/or security information and event management (SIEM) tools like Devo
 - Knowledge of identity and access management
 - Knowledge in one of the following scripting languages - Python or Ruby
-- Knowledge of container and microservice technologies
+- Knowledge of CI/CD pipelines
 
 ### Senior IT Systems Engineer
 
@@ -62,10 +68,10 @@ The Senior IT Systems Engineer is a [grade 7](/handbook/total-rewards/compensati
 
 The Senior IT Systems Engineer has all the same responsibilities as the intermediate position plus the following:
 
-- Provide senior level technical guidance and serve as an escalation point for engineering and Security teams
+- Provide senior level technical guidance and serve as an escalation point for Engineering and Security teams
 - Provide senior level direction to the Information Technology team, assist with mentoring and providing technical guidance to more junior staff members
 - Work on and manage all phases of systems administration including definition, design, implementation, and testing of new service rollouts
-- Define, communicate and manage the execution of infrastructure strategy, standards and roadmaps based on the current state and short and long term needs of the enterprise
+- Define, communicate and manage the execution of IT strategy, standards and roadmaps based on the current state and short and long term needs of the enterprise
 - Participate in the Global IT planning process and ensure architectural designs and principles are incorporated in enterprise implementations
 - Evaluate existing or emerging technologies to consider factors such as cost, security, compatibility and usability
 - Establish strong relationships with key technology stakeholders and facilitate, communicate, collaborate, and persuade others in the definition, adoption and implementation of a coherent architecture
@@ -81,7 +87,7 @@ The Senior IT Systems Engineer has all the same requirements as the ones outline
 - 5+ years of experience in user support in a cloud-first modern IT environment
 - Advanced knowledge of identity and access management
 - Advanced knowledge in one of the following scripting languages - Python or Ruby
-- Advanced knowledge of container and microservice technologies
+- Advanced knowledge of CI/CD pipelines
 - Ability to use GitLab
 
 ### Staff IT Systems Engineer
@@ -119,7 +125,7 @@ The Staff IT Systems Engineer has all the same responsibilities as the ones outl
 - Knowledge of software engineering practices and devops lifecycle
 - Advanced knowledge of identity and access management
 - Advanced knowledge in one of the following scripting languages - Python or Ruby
-- Advanced knowledge of container and microservice technologies
+- Advanced knowledge of CI/CD
 - Ability to use GitLab
 
 ## Performance Indicators
