@@ -5,14 +5,17 @@ weight: -10
 
 ## Purpose
 
-A forum for members of [E-Group](/handbook/company/team/structure/#executives), department leaders nomimated by their E-Group leader, and [VP-Directs](/handbook/company/structure/#vp-directs-group) to discuss the key metrics of a department in order to:
+At most companies, this would be a quarterly meeting for senior function leaders to present priorities, progress, and risk mitigations to the CEO. We allow some additional stakeholders to attend to invite a broader range of perspectives, give visibility to peers across functions, and create broader accountability.
 
-1. Make it much easier to stay up-to-date for everyone.
-1. Be accountable to the rest of the company.
-1. Understand month-to-month variances.
-1. Understand performance against the plan, forecast and operating model.
-1. Ensure there is tight connection between OKRs and KPIs.
-1. Ensure that progress against OKRs is understood.
+Members of [E-Group](/handbook/company/team/structure/#executives) and department leaders nominated by their E-Group leader are optional attendees.
+
+These meetings are designed to ensure that the CEO and function are aligned on:
+
+1. Month-to-month variances.
+1. Performance against the plan, forecast and operating model.
+1. Connection between OKRs and KPIs.
+1. Progress against Yearlies and OKRs.
+1. Accountability to the rest of the company.
 
 ## Key Metrics
 
