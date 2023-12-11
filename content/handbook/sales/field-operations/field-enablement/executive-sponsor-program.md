@@ -51,30 +51,29 @@ Act as an advocate and amplify the voice of the customer and Account Team throug
 
 **Weekly**
 
-- Action Planning execution and reviews (asynch)
-
-- Customer engagement (account teams)
+1. Action Planning execution and reviews (asynch)
+2. Customer engagement (account teams)
 
 **Monthly**
 
-- Account team and Exec Sponsor account planning session
-- E-Group and CRO LT program update
+1. Account team and Exec Sponsor account planning session
+2. E-Group and CRO LT program update
 
 **Quarterly**
 
-- ESP Forums
-- Program scorecard update
-- NPS and qualitative survey feedback
-- Customer EBRs (as necessary)
-- Minimum of 1 informal virtual or in-person touchpoint between Sponsor and key Customer contacts
+1. ESP Forums
+2. Program scorecard update
+3. NPS and qualitative survey feedback
+4. Customer EBRs (as necessary)
+5. Minimum of 1 informal virtual or in-person touchpoint between Sponsor and key Customer contacts
 
 **Annually**
 
-- Review program impact  and funding model
-- Reassess tier 1 accounts and sponsor mapping
-- Consider additional tiers or creation of a self-service ESP model
-- Minimum of 1 face-to-face Sponsor & Customer meeting
+1.  Review program impact  and funding model
+2. Reassess tier 1 accounts and sponsor mapping
+3. Consider additional tiers or creation of a self-service ESP model
+4. Minimum of 1 face-to-face Sponsor & Customer meeting
 
-#### **How to work with us**
+### **How to work with us**
 
 Engage with the Executive Sponsorship program team by connecting with us on Slack, use #executive-sponsor-program
