@@ -1,6 +1,7 @@
 ---
 
 title: Value Stream Discovery
+alias: /handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments
 ---
 
 
