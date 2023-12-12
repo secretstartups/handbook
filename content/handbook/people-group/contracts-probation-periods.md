@@ -187,8 +187,8 @@ When renewing a contract, if it is to be for 12 months, the timeframes are at be
 
 1. Add the team member's contract details to the People Connect Task [Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e7a2c42#gid=84302455) under the Contracts tab. On the sheet you will assign the People Connect Team member owner, if you are the owner be sure to note the end date and start the below process 2 months before the end date.
 1. Take note of the team members details and reach out to the team members manager via email using the following [template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/netherlands_temp_contract_renewal.md).
-1. Once you have received confirmation on next steps from the team members line manager, be sure to save the thread under the team members profile in Workday.
-1. Using the correct contract template from the [templates folder](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/employment_contracts/#employment-agreements) complete with required team member details. These details can be found on the team members Workday profile.
+1. Once you have received confirmation on next steps from the team members line manager, be sure to save the thread under the team member's profile in Workday in the 'Approvals - Confidential' document folder.
+1. Using the correct contract template from the [templates folder](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/employment_contracts/#employment-agreements) complete with required team member details. These details can be found on the team member's Workday profile.
 - As we would honour the original hire date in terms of GitLab seniority add the following sentence into the contract after the contract start date: "Your continuity of service for statutory purposes begins on the {{Original Hire Date}}."
 - Do not keep the `Stock Options` line in the Key Terms section, unless additional shares are being given.
 - Be sure to write both the Start date and Birth date of the team member in the **Month DD, YYYY** format to prevent confusion.
@@ -197,7 +197,7 @@ When renewing a contract, if it is to be for 12 months, the timeframes are at be
 1. Once reviewed, stage the contract for signing in Docusign.
 1. Ensure that the GitLab signatory is the first to sign, followed by the team member. This can be done by selecting the assign signing order option.
 1. When signed by both parties, save the contract to the team member's Workday Documents folder.
-1. Update Workday to reflect the correct Job Information. Ensure the new contract information is added along with an end date if applicable.
+1. [Update Workday](https://docs.google.com/document/d/1qnRUH2vkBGDi1hWnpGjvfF0G1GvfZLVHUVFuKeu9vKI/edit) to reflect the new contract information along with an end date if applicable.
 1. Notify the People Connect team so that they may audit any Workday changes.
 1. The People Connect Team member updates the People Connect Task [Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e7a2c42#gid=84302455) confirming the contract has been completed.
 
@@ -214,7 +214,7 @@ When renewing a contract, if it is to be for 12 months, the timeframes are at be
 1. At least 1 month before the end of the contract, the manager informs the team member of the extension or not.
 1. If a salary increase is required due to updated [visa salary requirements]({{< ref "visas#right-to-immigrate-to-the-netherlands" >}}) the People Connect Team member requests approvals from the team member's manager, total rewards and finally the team member's Division's E-Group leader.
 1. The People Connect Team member uploads the approval to the Workday Documents folder.
-1. If the contract extension is approved, the People Connect Team member creates the contract and stages it via Docusign for the team member and [GitLab signatory](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories) to sign. Add hr@savvy-group.eu to 'Receive a copy' once signed.
+1. If the contract extension is approved, the People Connect Team member creates the contract
 - As we would honour the original hire date in terms of GitLab seniority add the following sentence into the contract after the contract start date: "Your continuity of service for statutory purposes begins on the {{Original Hire Date}}."
 - Do not keep the `Stock Options` line in the Key Terms section, unless additional shares are being given.
 - Be sure to write both the Start date and Birth date of the team member in the **Month DD, YYYY** format to prevent confusion.
@@ -222,6 +222,8 @@ When renewing a contract, if it is to be for 12 months, the timeframes are at be
 - Remove any wording regarding Probation Period [if applicable](#probation-period).
 - Note: A second [probation period](#probation-period) should only be implemented if the team member's new contract reflects the start of an [entirely new role](https://wsadvocaten.nl/probationary-period-netherlands-dutch-law/). If the contract is simply a continuation of employment in the current role, a second probation period should not be applied.
 - Remove any wording regarding certificate of good conduct, as this was already requested as part of their first Netherlands contract.
+1. The People Connect team member stages the contract via Docusign for the [GitLab signatory](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories) and the team member to sign. Add hr@savvy-group.eu to 'Receive a copy' once signed.
+- If another temporary contract is issued follow [these steps](https://gl-people-operations.gitlab.io/internal-handbook/people_connect/lead/#netherlands-renewal-process---temporary-contracts) and include the mentioned message when sending the contract via DocuSign
 1. The People Connect Team member uploads the signed contract to the team members Workday Documents folder.
 1. The People Connect Team member [updates Workday to reflect the new contract](https://docs.google.com/document/d/1qnRUH2vkBGDi1hWnpGjvfF0G1GvfZLVHUVFuKeu9vKI/edit?usp=sharing): Open the team member's Workday profile > Click on actions > Job Change > add contract. Fill in start and end date, contract type and reason (if applicable)
 1. Notify another People Connect Team member so that they may audit any Workday changes.
