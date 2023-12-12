@@ -119,6 +119,16 @@ To learn more on how this automation works, check the [IT-Help Slack Issue Creat
 
 - Use specialized help desk support software to take control of end-users' computers to troubleshoot, diagnose, and resolve complex issues.
 
+#### IT Holiday Schedule
+
+The IT Helpdesk team (End User Services) will be observing 2 end of the year holidays during the weeks from 2023-12-18 to the 2024-01-02.
+
+Observed Support Holidays
+Monday December 25th
+Monday January 1st
+
+If you have an urgent request, please reach out to us via slack in the #it_help channel.
+ 
 #### IT Ops
 
 - IT Ops will work with Security, the People Group, and Business Technology to develop automated on-boarding and off-boarding processes.

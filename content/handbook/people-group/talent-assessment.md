@@ -733,7 +733,7 @@ The succession planning process might vary slightly for different areas of the b
 
 ### Key Talent Criteria
 
-Key Talent makes up roughly ~10% of the population. Key Talent represents team members who have a significant impact on GitLab's success. They deliver quality results that are instrumental in moving critical company initiatives forward and do so consistently in alignment with our values. These team members are often recognized as experts in their current role. Team members, at any level, can be considered Key Talent.
+Key Talent makes up roughly ~10% of the population. Key Talent represents team members who have a significant impact on GitLab's present and future success. They deliver quality results that are instrumental in moving critical company initiatives forward and do so consistently in alignment with our values. These team members are often recognized as experts in their current role. Team members, at any level, can be considered Key Talent.
 
 Team members identified as Key Talent typically have knowledge, skills, and experience that:
 

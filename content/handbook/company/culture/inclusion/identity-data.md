@@ -9,59 +9,59 @@ Below is a list of the different ways GitLab Team Members choose to identify. Th
 
 ### Region Data
 
-{{% sisense dashboard="1131846" chart="16548799" height="200" %}}
+{{< tableau height="200px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DraftDIBIdentityDashboard/Region" />}}
 
 ### Gender Data
 
 #### Gender Identification (Global)
 
-{{% sisense dashboard="1131846" chart="16548802" height="200" %}}
+{{< tableau height="200px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DraftDIBIdentityDashboard/Gender" />}}
 
 #### Gender in Management (Global)
 
-{{% sisense dashboard="1131846" chart="16548804" height="200" %}}
+{{< tableau height="200px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DraftDIBIdentityDashboard/GenderMgmt" />}}
 
 #### Gender in Leadership (Global)
 
-{{% sisense dashboard="1131846" chart="16548806" height="200" %}}
+{{< tableau height="200px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DraftDIBIdentityDashboard/GenderLeadership" />}}
 
 #### Gender in Tech (Global)
 
-{{% sisense dashboard="1131846" chart="16548801" height="200" %}}
+{{< tableau height="200px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DraftDIBIdentityDashboard/GenderTech" />}}
 
 #### Gender in Non-Tech (Global)
 
-{{% sisense dashboard="1131846" chart="16548803" height="200" %}}
+{{< tableau height="200px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DraftDIBIdentityDashboard/GenderNon-Tech" />}}
 
 #### Gender in Sales (Global)
 
-{{% sisense dashboard="1131846" chart="16548805" height="200" %}}
+{{< tableau height="200px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DraftDIBIdentityDashboard/GenderSales" />}}
 
 ### Underrepresented Groups (URG) Data - Global**
 
 #### URG at GitLab
 
-{{% sisense dashboard="1131846" chart="16548809" height="200" %}}
+{{< tableau height="200px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DraftDIBIdentityDashboard/URG" />}}
 
 #### URG in Management
 
-{{% sisense dashboard="1131846" chart="16548811" height="200" %}}
+{{< tableau height="200px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DraftDIBIdentityDashboard/URGMgmt" />}}
 
 #### URG in Leadership
 
-{{% sisense dashboard="1131846" chart="16548812" height="200" %}}
+{{< tableau height="200px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DraftDIBIdentityDashboard/URGLeadership" />}}
 
 #### URG in Tech
 
-{{% sisense dashboard="1131846" chart="16548808" height="200" %}}
+{{< tableau height="200px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DraftDIBIdentityDashboard/URGTech" />}}
 
 #### URG in Non-Tech
 
-{{% sisense dashboard="1131846" chart="16548810" height="200" %}}
+{{< tableau height="200px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DraftDIBIdentityDashboard/URGNon-Tech" />}}
 
 #### URG in Sales
 
-{{% sisense dashboard="1131846" chart="16548813" height="200" %}}
+{{< tableau height="200px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DraftDIBIdentityDashboard/URGSales" />}}
 
 **Source**: GitLab's People Analytics Team, WorkDay
 **Of Note**: `Management` refers to Team Members who are *People Managers*, whereas `Leadership` denotes Team Members who are in *Director-level positions and above*.

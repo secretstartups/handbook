@@ -203,6 +203,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [API Vision]({{< ref "api-vision" >}})
 1. [Automotive Development]({{< ref "automotive-development" >}})
 1. [AWS/GCP Partnerships](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/11)
+1. [Bounded Contexts]({{< ref "bounded-contexts" >}})
 1. [Category Leadership]({{< ref "category-leadership" >}})
 1. [CI/CD Build Speed time-to-result]({{< ref "ci-build-speed" >}})
 1. [ClickHouse Datastore]({{< ref "clickhouse-datastore" >}})

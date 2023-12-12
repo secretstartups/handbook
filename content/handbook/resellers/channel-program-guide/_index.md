@@ -131,7 +131,7 @@ GitLab Partner program will review the GitLab Professional Service Partners’ s
 
 ### GitLab Channel Partner Program Guide
 
-The [GitLab Channel Partner Program Guide](/handbook/resellers/Channel-Program-Guide/) offers a complete overview of the program.
+The [GitLab Channel Partner Program Guide](https://partners.gitlab.com/prm/api/objects/v1/asset/mga6ddm7bjqs/_download) offers a complete overview of the program.
 
 ### Contact Us
 
