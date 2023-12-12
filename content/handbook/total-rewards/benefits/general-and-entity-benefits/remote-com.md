@@ -601,7 +601,7 @@ Employees in Mexico are covered by the Social Security Law, under IMSS who is re
 
 ### Life Insurance
 
-- Life insurance cover provided via Remote (Details to be added by Total Rewards)
+- Life insurance cover provided via Remote. Effective January 1, 2024, all Team Members will be enrolled in the Remote Global Life Insurance plan with a cover level of 200,000 USD at no cost to the team member. 
 
 ### Christmas Bonus (Aguinaldo)
 
