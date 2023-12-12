@@ -170,6 +170,48 @@ The Deal Strategist is a Grade 7
 - Proficiency in SFDC & gSuite
 - Interest in GitLab and open source software; ability to use GitLab"
 
+## Senior Deal Strategist
+
+The Senior Deal Strategist reports to the Manager, Deal Desk.
+
+#### Senior Deal Strategist Job Grade
+
+The Senior Deal Strategist is a Grade 8
+
+#### Senior Deal Strategist Responsibilities
+
+- Trusted advisor & go-to resource for assigned sales region on deal structure, quoting, and order form creation; advises on alternate contract options to drive deal closure
+- SME in Deal Desk activities, which impact bookings and complex deal structure
+- Primary point of contact for all questions related to opportunity booking, subscription mgt and license delivery
+- Montiors the Sales Support slack channel & SFDC Sales Support case queue to respond to questions
+- Supports assigned sales region through the quote to cash process 
+- Manages issues through GitLab and Handbook updates
+- Resolves booking errors for assigned region through Debooks/Rebooks; Refunds; Internal corrections
+- Partners with cross-functional teams (Billing, Channel, Revenue) to support the Quote to Cash process
+- Understands the license fulfillment process and provides guidance to the field for customers to apply licenses to GitLab instance
+- Responsible for reviewing opportunities to result in accurate booking metrics (Net ARR, ARR Basis, Amount, Recurring Amount) & 1:1 relationship between Zuora Invoice & SFDC Opportunity is accurate 
+- Maintains subscription data, partnering with Sales Operations to ensure a 1:1 relationship between subscription and renewal opportunity
+- Collaborates with impacted parties to identify solutions for common QTC errors
+- Conduct weekly, monthly and quarterly reconciliations & support in an audit
+- Serve as mentor to other team members, assisting with day-to-day process questions; review output; collaborate on complex deals
+- Engage directly with clients as necessary through both written and verbal communications, helping to resolve Q2C issues 
+- Participate in sales region forecast calls, QBRs & Lead EoQ Daily Standups
+
+#### Senior Deal Strategist Requirements
+
+- Experience in SaaS and B2B industry - Order Processing, Deal Desk, Finance & Sales Operations
+- Experience leading Enterprise level deal structure conversations
+- Strong Understanding of pricing & packaging with an ability to propose deal structuring 
+- Understanding of various Route to Market sales models
+- Strong Understanding of booking and revenue recognition rules
+- Strong Understanding of Legal terms that may have an impact on contract structuring
+- Ability to manage conversations with sales to drive compliant opportunities for booking
+- Detail oriented; organized; customer focused mindset
+- Understanding of weekly, monthly and quarterly period close process
+- Ability to prioritize workload to align with sales expectations
+- Basic knowledge and understanding of a CPQ tool
+- Proficiency in SFDC & gSuite
+- Interest in GitLab and open source software; ability to use GitLab
 
 ## Manager, Deal Desk
 
