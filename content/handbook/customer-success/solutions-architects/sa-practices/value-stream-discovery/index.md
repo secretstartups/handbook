@@ -1,7 +1,6 @@
 ---
-
 title: Value Stream Discovery
-alias: /handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments
+aliases: /handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments
 ---
 
 
@@ -15,7 +14,7 @@ The content on this page outlines the various approaches, tools, and artifacts w
 
 At GitLab, the Value Stream Discovery process can be tailored to accommodate the diverse needs of our clients, ranging from basic discussions to elaborate explorations filled with metrics and data.
 
-The journey might commence with a straightforward conversation, offering initial insights into software delivery challenges and business goals impacted. Another, more detailed starting point, could involve multiple discussions with various teams, providing a holistic yet concise view of the current software delivery processes, yet without delving deeply into metrics. An alternative more 'hands-on' experience could be in the form of a full-day session, focusing on 'a day in the life' of a developer, offering practical insights into daily workflows. Finally, for those who require a strategic, in-depth and outcome driven approach, we offer comprehensive, executive-sponsored workshops. These structured, multi-day, multi-team events present an end-to-end overview of the entire value stream, complete with detailed metrics and tailored recommendations. 
+The journey might commence with a straightforward conversation, offering initial insights into software delivery challenges and business goals impacted. Another, more detailed starting point, could involve multiple discussions with various teams, providing a holistic yet concise view of the current software delivery processes, yet without delving deeply into metrics. An alternative more 'hands-on' experience could be in the form of a full-day session, focusing on 'a day in the life' of a developer, offering practical insights into daily workflows. Finally, for those who require a strategic, in-depth and outcome driven approach, we offer comprehensive, executive-sponsored workshops. These structured, multi-day, multi-team events present an end-to-end overview of the entire value stream, complete with detailed metrics and tailored recommendations.
 
 This spectrum of approaches, from simple dialogues to intensive workshops, ensures that we can adapt to the varying depths of engagement required, with a constant aim to deliver relevant and impactful insights for enhancing our clients' software delivery efficiency and effectiveness.
 
@@ -58,7 +57,7 @@ Key indicators that the opportunity is well-suited include:
     - Modernize a specific application or applications
     - Deliver a new critical application to the market
     - Migration to the cloud
-        
+
 - The customer is currently using some features of GitLab and is interested in how leveraging more of the platform will drive software delivery outcomes
 - For customer success, a value stream workshop should help uncover opportunities to expand into new use cases or improve current adoption by identifying bottlenecks in the current software delivery value stream
 - An existing customer shows interest in adopting our value stream analytics feature to drive software delivery performance
@@ -120,9 +119,9 @@ The initial customer positioning allows us to position value stream assesment to
 
 It is important to identify a project or few projects as next step for the planning meeting with customer.
 
-Here are some resources that can be used as starting point for the positioning session:  
+Here are some resources that can be used as starting point for the positioning session:
 - [Customer positioning deck](https://docs.google.com/presentation/d/1dOy-YGmsQio3v4EVjhFoCJWekzG0Z8PIpwsqliTyku0/edit?usp=sharing) - ([Recording](https://youtu.be/oxYjSrYLML4))
-- [Internal positioning deck](https://docs.google.com/presentation/d/1kWqXBbBC2BZ1w9dWEUe4hVJdcXMcO6tXNK9dFY-5XF0/edit#slide=id.gef34d4c13c_1_636)  
+- [Internal positioning deck](https://docs.google.com/presentation/d/1kWqXBbBC2BZ1w9dWEUe4hVJdcXMcO6tXNK9dFY-5XF0/edit#slide=id.gef34d4c13c_1_636)
 
 
 ### Planning meeting with customer
@@ -184,7 +183,7 @@ The process which we will go through, at a high level, is as follows  (per funct
     1. Managing the work
         1. How will we measure if the value stream is performing as we intended? (KPIs)
         1. Who will monitor and manage the value stream performance?
- 
+
 
 #### Tools
 
@@ -244,10 +243,10 @@ It is recommended to review the executive briefing with your champion, key stake
 
 1. What are typical outcomes for a customer?
 
-    - For one medical device company in Silicon Valley, doing a Value Stream Workshop provided them with a tangible adoption plan to decrease their release cycle from 6 months to 1 months. It was specific, actionable, and realistic. 
+    - For one medical device company in Silicon Valley, doing a Value Stream Workshop provided them with a tangible adoption plan to decrease their release cycle from 6 months to 1 months. It was specific, actionable, and realistic.
     - For a financial service bank, doing a Value Stream Workshop provided them with a comparison of their process with their peers, and the clear path forward to improve their processes, and ultimately allowed them to achieve a desired ROI of releasing software faster while increasing quality.
 
-    - Financial Services customers have realized the below outcomes when coupling a Value Stream Workshop with GitLab investment: 
+    - Financial Services customers have realized the below outcomes when coupling a Value Stream Workshop with GitLab investment:
         - Faster time to market
         - Increase deployment frequency
         - Reduced lead time to change
@@ -277,7 +276,7 @@ It is recommended to review the executive briefing with your champion, key stake
 
 The Account Leader (AE) is responsible for maintaining the Salesforce opportunity level VSA Tracking Fields outline below:
 
-- **VSA Start Date** - Date of the VSA kickoff call with the prospect/customer.(This is the first meeting with the prospect/customer, after they've committed to do a VSA, to discuss [planning of the VSA workshop](#planning-meeting-with-customer).)  
+- **VSA Start Date** - Date of the VSA kickoff call with the prospect/customer.(This is the first meeting with the prospect/customer, after they've committed to do a VSA, to discuss [planning of the VSA workshop](#planning-meeting-with-customer).)
 - **VSA End Date** - The date the VSA readout is presented to the prospect/customer or the date of the last meeting with the prospect if the VSA status is set to "Stalled."
 - **VSA Status** - The status of the VSA where
   - **Planning** - Internal qualification and planning is occuring.  Please remove the status if it becomes unqualified during this step. VSA start date should not be set when this status is set.
@@ -291,9 +290,9 @@ The Account Leader (AE) is responsible for maintaining the Salesforce opportunit
   - **Neutral** - The prospect/customer was receptive but we do not have clear next steps.
   - **Negative** - The prospect/customer was not receptive to our recommendation.
 - **VSA URL** - The URL to the the google drive folder containing the readout presentation and any other VSA artifacts.
-- **VSA Start Date Net ARR** - (Auto populated field) The opportunity Net ARR when the VSA start date is populated.  
+- **VSA Start Date Net ARR** - (Auto populated field) The opportunity Net ARR when the VSA start date is populated.
 
-Solutions Architects should leverage the following [SA Actiity Types](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#description-for-value-stream-workshop) when [loggin activity](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#description-for-value-stream-workshop)  
+Solutions Architects should leverage the following [SA Actiity Types](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#description-for-value-stream-workshop) when [loggin activity](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#description-for-value-stream-workshop)
 
 - VSA Pitch
 - VSA Execution
