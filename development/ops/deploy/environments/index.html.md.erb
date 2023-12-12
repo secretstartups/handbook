@@ -201,6 +201,17 @@ Our goal is to move towards a continuous delivery model so the team completes ta
 - If all issues are assigned for the milestone, team members are expected to identify the next available issue to work on based on the team's work prioritization (see below).
 - While backstage work is important, in the absence of specific prioritization, the team will have a bias towards working on `bug` or `feature` categorized issues.
 
+#### ~Environments::EngineeringChoice process
+
+While diligently pursuing our objectives, we also recognize the significance of work that resonates personally with our engineers. To facilitate this, we have introduced the "~Environments::EngineeringChoice" label. Here's how it works:
+
+1. **Selection During Milestones**: In each Milestone Plan, engineers are encouraged to select up to five issues (total for the group) that they find particularly interesting or valuable, marking them with the "~Environments::EngineeringChoice" label. These issues should improve GitLab product or developer experience but they don't have to be in the ~"group::environments" domain. 
+1. **Limit per Milestone**: To maintain focus, no more than five issues should be labeled with "~Environments::EngineeringChoice" within a single milestone.
+1. **Priority After Deliverables**: Once all mandatory ~Deliverables are completed, the next priority is to address issues labeled "~Environments::EngineeringChoice."
+1. **Refined issues only**: Before applying the "~Environments::EngineeringChoice" label, the issue should be `worfklow::ready for development` and accordingly needs a weight.
+1. **Maximum issue size**: To rule out likely surprises and extra investigation, only issues with [weight 1-2](#issue-weighting) are acceptable for "~Environments::EngineeringChoice".
+1. **Tracking in Milestone Planning**: Progress and choices under the "~Environments::EngineeringChoice" category will be monitored and recorded in a specific section of the Milestone Planning issue.
+
 #### Bug fixing and priortized work
 
 In every milestone plan, we compile a list of bugs due in the coming milestone based on the severity SLA.
