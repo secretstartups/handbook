@@ -82,7 +82,7 @@ In this [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDR
 >
 > I think that's bananas. That's what every company in the world does. If your strategy is really important, make sure people buy in *before* they join. And make sure that people who don't buy in don't join the company.
 >
-> Execution depends on people; [being public about what we do]({{< ref "strategy" >}}). allows us to attract the best people to best execute our strategy." — *GitLab co-founder and CEO Sid Sijbrandij*
+> Execution depends on people; [being public about what we do]({{< ref "/handbook/company/strategy" >}}). allows us to attract the best people to best execute our strategy." — *GitLab co-founder and CEO Sid Sijbrandij*
 
 ### Make yourself attractive to top talent
 

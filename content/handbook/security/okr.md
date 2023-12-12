@@ -4,7 +4,7 @@ title: "Security OKRs"
 
 ## Security OKRs
 
-The Security organization executes quarterly [Objectives and Key Results or OKRs]({{< ref "okrs" >}}).
+The Security organization executes quarterly [Objectives and Key Results or OKRs]({{< ref "/handbook/company/okrs" >}}).
 
 ### How We Plan, Assign, and Execute Work
 

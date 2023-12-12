@@ -9,7 +9,7 @@
 {{- end }}
 
 {{- $departmentMembers := slice }}
-{{- $teamMembers := partials.IncludeCached "data/team-by-name" page}}
+{{- $teamMembers := partials.IncludeCached "data/team" page}}
 {{- range $teamMembers }}
   {{- if in .departments $department  }}
     {{- $departmentMembers = append . $departmentMembers }}

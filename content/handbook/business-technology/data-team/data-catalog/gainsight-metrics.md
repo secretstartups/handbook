@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Data Guide for Adding Service Ping Metrics to Gainsight"
 description: "Instructions for adding Service Ping metrics to Gainsight models"
 ---

@@ -225,7 +225,7 @@ For a more detailed overview of navigating the NBV portal, please click here to 
 1. The deck includes a People Group section composed of: Attrition and General Update.
 1. The deck should strive to not exceed 7 slides per group.
 1. Slides should convey a high-level overview as opposed to operational updates and will not include embedded links.
-1. Put information on public webpages such as [/strategy]({{< ref "strategy" >}}) as much as possible.
+1. Put information on public webpages such as [/strategy]({{< ref "/handbook/company/strategy" >}}) as much as possible.
 1. Sensitive information goes into the Administration deck managed by the CFO.
 1. Font size should be minimum 16pt, footnotes excluded. We want to make sure everything can be read.
 1. Every slide should have a title which provides the key takeaway from that slide.

@@ -17,7 +17,7 @@
 {{- $femData := slice }}
 
 {{- $stages := partials.IncludeCached "data/stages" . }}
-{{- $teamMembers := partials.IncludeCached "data/team-by-gitlab" . }}
+{{- $teamMembers := partials.IncludeCached "team/by-gitlab" . }}
 
 {{- range $stages }}
   {{- range .groups }}

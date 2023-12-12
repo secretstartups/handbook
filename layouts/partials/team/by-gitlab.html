@@ -1,0 +1,20 @@
+{{/*
+  Returns a dictionary of team members index by their unique gitlab usernames should only be called
+  via partials.IncludeCached.
+ */}}
+{{- $team := partials.IncludeCached "data/team" . -}}
+{{- $teamDict := dict }}
+{{- range $team }}
+  {{/*
+    Bored and board observers don't have gitlab handles so its possible for .gitlab to be missing so
+    check for it and check for it first and warn if its missing unless its a board member
+  */}}
+  {{- if .gitlab }}
+    {{- $teamDict = merge $teamDict (dict .gitlab .) }}
+  {{- else }}
+    {{- if (where . "departments" "like" "board") }}
+      {{- warnf "User with name %s is missing their gitlab username in the teams.yml file." .name }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{ return $teamDict }}
