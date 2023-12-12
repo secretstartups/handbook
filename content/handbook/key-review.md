@@ -47,7 +47,7 @@ If the Key Review meeting will not contain MNPI, it can be livestreamed to GitLa
 
 Functions that have these quarterly meetings are:
 
-1. Sales (Chris Weber - function DRI), mid-month 1
+1. Sales & Customer Success (Chris Weber - function DRI), mid-month 1
 1. Marketing (Ashley Kramer - function DRI), mid-month 1
 1. Product (David DeSanto - function DRI), mid-month 1
 1. People Group (Wendy Barnes - function DRI), mid-month 1
