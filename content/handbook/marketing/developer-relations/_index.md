@@ -140,6 +140,25 @@ OKRs we seek to align with:
 - [CEO OKRs](/handbook/company/okrs/#most-recent-okrs)
 - [Marketing OKRs](/handbook/marketing/#marketing-okrs)
 
+#### DRI Responsibilities 
+
+For each quarterly objective and key results, the Developer Relations team will assign a [DRI](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/). For our team, we have responsibilities that build upon the GitLab guidance on [achieving](https://handbook.gitlab.com/handbook/company/okrs/#documenting-how-to-achieve) and [updating](https://handbook.gitlab.com/handbook/company/okrs/#maintaining-the-status-of-okrs). Typically, People managers are the DRIs for objectives while ICs are the DRIs for key results.
+
+* Objective DRI Responsibilities 
+    * Own strategy for achieving objectives including supporting the DRIs for key results that will help to achieve our objectives. 
+    * Collaborate with the owners of the key results that contribte to your objective to set a plan to deliver on the KRs and objective. 
+    * Maintain communication with KR owners - synchronous or asynchronous - throughout the quarter as needed. 
+    * Provide bi-weekly updates in the epic and in the Developer Relations bi-weekly team meeting agenda on the objective including completion percentage and status. We recognize that there will be no change from the previous report at times. 
+    * Present overview and status updates in team business reviews.
+    * Escalate any urgent needs to your manager.
+
+* Key Results DRI Responsibilities
+    * Create and manage strategy for achieving the key results. Manage dependencies, set actions, and define how your items will be scored. 
+    * Provide bi-weekly updates in the issues in the [GitLab OKRs project](https://gitlab.com/gitlab-com/gitlab-OKRs/) including completion percentage and status. The issues are the single source of truth for your KR. We recognize that there will be no change from the previous report at times. 
+    * Ensure key result information is up-to-date for team business reviews.
+    * Escalate any urgent needs to your manager.
+
+
 #### How we update our OKRs
 
 To update our [list of current OKRs](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=division%3A%3AMarketing&label_name%5B%5D=OKR&label_name%5B%5D=Department%3A%3ADeveloper%20Relations&first_page_size=20):
