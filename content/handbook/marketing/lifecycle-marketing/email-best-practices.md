@@ -13,19 +13,16 @@ twitter_creator: "@gitlab"
 
 
 ## Overview
-{: #overview .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 This page focuses on email best practices and their implementation at GitLab. You'll also find information on important metrics to consider when sending an email and our email templates with image size guidelines.  
 
 ## Email marketing best practices
-{: #best-practices .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 ** Please see our most up to date email best practices in our guide [here](https://docs.google.com/presentation/d/1j6F-3ZOFtFM9Tjz1srzbqLjSA56sK7lR2LPdKSl57Vo/edit?usp=sharing). ** 
 
 ### Subject line best practices (and preview text)
-{: #best-practices-subject-lines}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 * Use subject lines to justify sending the email and connecting to a problem that the reader might have
@@ -47,7 +44,6 @@ This page focuses on email best practices and their implementation at GitLab. Yo
 * The preview text is the first sentence displayed in an email client alongside the subject line (before opening the email), don't ignore it! Some email clients show 90 characters, so there is some flexibility with length
 
 ### Email content best practices
-{: #best-practices-content}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 * Email copy should be clear and concise. Brevity is key. Think about conversion, not sharing every detail from the LP
@@ -64,7 +60,6 @@ This page focuses on email best practices and their implementation at GitLab. Yo
 * If linking to the GitLab marketing site, make sure that the URL has a slash at the end of the link. Marketing site pages will not render if there are URL params and there is no trailing slash.
 
 ### Design best practices
-{: #best-practices-design}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 *  Consider resposive design
@@ -77,7 +72,6 @@ This page focuses on email best practices and their implementation at GitLab. Yo
 *  In order to accomodate different clients and modes (dark mode, etc) header image requests to the design team must be for transparent images. This means that the image will not look right without a solid background in the email header. We cannot use a non-transparent image because they do not render properly in all clients. 
 
 ### A/B testing best practices
-{: #best-practices-testing}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 Add your tests to the [A/B testing tracker here](https://docs.google.com/spreadsheets/d/1-XQjw1A_m5N4NaW6Er2TUlMeWPS-vTPJ2cDE9ddFLpg/edit?usp=sharing)
@@ -92,7 +86,6 @@ Add your tests to the [A/B testing tracker here](https://docs.google.com/spreads
 *  Keep track of the split test learnings so we can learn and innovate!
 
 ### Email KPI's that matters
-{: #email-kpis-that-matters}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 To view current benchmarks in Marketo, go to the [Email Insights Tab](https://ab-ee-api.marketo.com/).
@@ -166,7 +159,6 @@ How is the Opt-out rate calculated? Total Opt-outs divided by the number of emai
 Example: 5/950 = 0.5% Unsubscribe Rate.
 
 ## Email Templates
-{: #email-templates .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Please see [this issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/3375) for more details and to see how the email templates look.
