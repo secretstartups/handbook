@@ -370,7 +370,10 @@ Below is the high level timeline for the formal assessment in Q4 FY24 (Nov, Dec,
 - **2023-12-01 - 2023-12-08:** Total Rewards and final E-Group review and approval
 - **2023-12-11 - 2023-12-22 (5:00pm PST):** Managers will have access to Workday Talent Assessment to finalize evaluations
 - **2024-01-02 - 2024-01-31:** Managers can communicate Performance/Growth Potential assessment to team members
+- **2024-02-01:** Talent Assessments pending in Workday will be auto advanced to team members*
 - **2024 Date TBD:** Annual Compensation Review Kicks off for Managers
+
+*Team members who are on Leave of Absence (LOA) on 2023-02-01 are excluded from the auto advancement of their talent assessment until they return to work.
 
 ### Cadence
 
@@ -552,6 +555,10 @@ If they will be returning from leave before the due date to communicate [Talent 
 **My team member was on protected leave for a large portion of the Talent Assessment period. How should I factor this in when assessing them?**
 
 It’s important to ensure you are assessing the team member's performance for their contributions while working during the assessment time period. There should be no adverse impact on their overall assessment due to being on leave for a portion of the period. During calibration, please remain vigilant to ensure no private details related to their time away are disclosed. Please reach out to your PBP to discuss the specific details related to your team member.
+
+**My team member is on leave of absence during the Talent Assessment communication window. What happens to their Talent Assessment?**
+
+Please do not action the To-Do task "Meet with your Employee" if your team member is on leave of absence (LOA). We will exclude team members on LOA from the auto advancement setting on 2024-02-01 and you can communicate their talent assessment when they return to work.
 
 **My team member was assessed as key talent last year, and is not for this assessment period. How should I handle communication with them?**
 
