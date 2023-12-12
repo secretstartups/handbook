@@ -1,37 +1,26 @@
 ---
-
 title: "Test Platform Sub-Department"
 description: "Test Platform Sub-Department"
 ---
 
+## Child Pages
 
+[Bug Prioritization](/handbook/engineering/infrastructure/test-platform/bug-prioritization/)
+{.h4}
 
+[Quad Planning](/handbook/engineering/infrastructure/test-platform/quad-planning/)
+{.h4}
 
+[On-call Rotation](/handbook/engineering/infrastructure/test-platform/oncall-rotation/)
+{.h4}
 
+[Test Coverage](/handbook/engineering/infrastructure/test-platform/test-coverage/)
+{.h4}
 
+[E2E Test Execution Metrics](/handbook/engineering/infrastructure/test-platform/test-metrics-dashboards/)
+{.h4}
 
-
-
-
-### Child Pages
-
-
-#### [Bug Prioritization](/handbook/engineering/infrastructure/test-platform/bug-prioritization/)
-
-
-#### [Quad Planning](/handbook/engineering/infrastructure/test-platform/quad-planning/)
-
-
-#### [On-call Rotation](/handbook/engineering/infrastructure/test-platform/oncall-rotation/)
-
-
-#### [Test Coverage](/handbook/engineering/infrastructure/test-platform/test-coverage/)
-
-
-#### [E2E Test Execution Metrics](/handbook/engineering/infrastructure/test-platform/test-metrics-dashboards/)
-
-
-- - -
+---
 
 ## FY23 Direction
 
@@ -95,22 +84,22 @@ Test Platform sub-department has three teams - `Test and Tools Infrastructure te
 
 ### Management team
 
-<%= direct_team(manager_role: 'Interim Director, Test Platform', role_regexp: /Manager/) %>
+{{< team-by-manager-role role="Interim Director, Test Platform" team="Manager" >}}
 
 ### Individual contributors
 
 
 The following people are members of the Test and Tools Infrastructure team:
 
-<%= direct_team(manager_slug: 'ghosh-abhinaba')%>
+{{< team-by-manager-slug "ghosh-abhinaba" >}}
 
 The following people are members of the Self-Managed Platform team:
 
-<%= direct_team(manager_slug: 'ksvoboda')%>
+{{< team-by-manager-slug "ksvoboda" >}}
 
 The following people are members of the Test Engineering team:
 
-<%= direct_team(manager_role: 'Interim Director, Test Platform', role_regexp: /(Engineer in Test)/) %>
+{{< team-by-manager-role role="Interim Director, Test Platform" team="(Engineer in Test)" >}}
 
 ## Engage with Us
 

@@ -1,15 +1,7 @@
 ---
-
 title: "Test metrics dashboard"
 description: "Data on all E2E test runs"
 ---
-
-
-
-
-
-
-
 
 ## E2E test execution metrics
 
@@ -32,48 +24,48 @@ These tests are usually to block deployments or merge request merging when faili
 
 E2E test execution against various configurations of `omnibus` images.
 
-- <%= e2e_allure_report("e2e-package-and-test") %>
-- <%= e2e_grafana_link("e2e-package-and-test") %>
+- {{< test-metrics-allure-link "e2e-package-and-test" >}}
+- {{< test-metrics-grafana-link "e2e-package-and-test" >}}
 
-<%= e2e_dashboards("e2e-package-and-test") %>
+{{< test-metrics-dashboard "e2e-package-and-test" >}}
 
 ### review-app
 
 E2E test execution against cloud native review-app installation.
 
-- <%= e2e_allure_report("e2e-review-qa") %>
+- {{< test-metrics-allure-link "e2e-review-qa" >}}
 
 #### smoke
 
-- <%= e2e_grafana_link("review-qa-smoke") %>
+- {{< test-metrics-grafana-link "review-qa-smoke" >}}
 
-<%= e2e_dashboards("review-qa-smoke") %>
+{{< test-metrics-dashboard "review-qa-smoke" >}}
 
 #### blocking
 
 In context of review-app these are `reliable` tests that indicate that these are blocking merge request merging when failing.
 
-- <%= e2e_grafana_link("review-qa-blocking") %>
+- {{< test-metrics-grafana-link "review-qa-blocking" >}}
 
-<%= e2e_dashboards("review-qa-blocking") %>
+{{< test-metrics-dashboard "review-qa-blocking" >}}
 
 #### non-blocking
 
 All other tests that are not part of `smoke` or `blocking` suite. These tests are optional and don't block merging of merge request when
 failing in merge request pipeline.
 
-- <%= e2e_grafana_link("review-qa-non-blocking") %>
+- {{< test-metrics-grafana-link "review-qa-non-blocking" >}}
 
-<%= e2e_dashboards("review-qa-non-blocking") %>
+{{< test-metrics-dashboard "review-qa-non-blocking" >}}
 
 ## Nightly
 
 E2E test execution against various configurations of `omnibus` nightly images.
 
-- <%= e2e_allure_report("nightly") %>
-- <%= e2e_grafana_link("nightly") %>
+- {{< test-metrics-allure-link "nightly" >}}
+- {{< test-metrics-grafana-link "nightly" >}}
 
-<%= e2e_dashboards("nightly") %>
+{{< test-metrics-dashboard "nightly" >}}
 
 ## Staging
 
@@ -81,17 +73,17 @@ E2E test execution against `https://staging.gitlab.com` environment.
 
 ### Sanity
 
-- <%= e2e_allure_report("staging-sanity") %>
-- <%= e2e_grafana_link("staging-sanity") %>
+- {{< test-metrics-allure-link "staging-sanity" >}}
+- {{< test-metrics-grafana-link "staging-sanity" >}}
 
-<%= e2e_dashboards("staging-sanity") %>
+{{< test-metrics-dashboard "staging-sanity" >}}
 
 ### Full
 
-- <%= e2e_allure_report("staging-full") %>
-- <%= e2e_grafana_link("staging-full") %>
+- {{< test-metrics-allure-link "staging-full" >}}
+- {{< test-metrics-grafana-link "staging-full" >}}
 
-<%= e2e_dashboards("staging-full") %>
+{{< test-metrics-dashboard "staging-full" >}}
 
 ## Staging Ref
 
@@ -99,26 +91,26 @@ E2E test execution against `https://staging-ref.gitlab.com` environment.
 
 ### Sanity
 
-- <%= e2e_allure_report("staging-ref-sanity") %>
-- <%= e2e_grafana_link("staging-ref-sanity") %>
+- {{< test-metrics-allure-link "staging-ref-sanity" >}}
+- {{< test-metrics-grafana-link "staging-ref-sanity" >}}
 
-<%= e2e_dashboards("staging-ref-sanity") %>
+{{< test-metrics-dashboard "staging-ref-sanity" >}}
 
 ### Full
 
-- <%= e2e_allure_report("staging-ref-full") %>
-- <%= e2e_grafana_link("staging-ref-full") %>
+- {{< test-metrics-allure-link "staging-ref-full" >}}
+- {{< test-metrics-grafana-link "staging-ref-full" >}}
 
-<%= e2e_dashboards("staging-ref-full") %>
+{{< test-metrics-dashboard "staging-ref-full" >}}
 
 ## Preprod
 
 E2E test execution against `https://pre.gitlab.com` environment.
 
-- <%= e2e_allure_report("preprod-sanity") %>
-- <%= e2e_grafana_link("preprod-sanity") %>
+- {{< test-metrics-allure-link "preprod-sanity" >}}
+- {{< test-metrics-grafana-link "preprod-sanity" >}}
 
-<%= e2e_dashboards("preprod-sanity") %>
+{{< test-metrics-dashboard "preprod-sanity" >}}
 
 ## Production
 
@@ -126,14 +118,14 @@ E2E test execution against `https://gitlab.com` environment.
 
 ### Sanity
 
-- <%= e2e_allure_report("production-sanity") %>
-- <%= e2e_grafana_link("production-sanity") %>
+- {{< test-metrics-allure-link "production-sanity" >}}
+- {{< test-metrics-grafana-link "production-sanity" >}}
 
-<%= e2e_dashboards("production-sanity") %>
+{{< test-metrics-dashboard "production-sanity" >}}
 
 ### Full
 
-- <%= e2e_allure_report("production-full") %>
-- <%= e2e_grafana_link("production-full") %>
+- {{< test-metrics-allure-link "production-full" >}}
+- {{< test-metrics-grafana-link "production-full" >}}
 
-<%= e2e_dashboards("production-full") %>
+{{< test-metrics-dashboard "production-full" >}}

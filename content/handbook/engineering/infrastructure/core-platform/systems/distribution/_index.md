@@ -1,14 +1,7 @@
 ---
-
 title: "Distribution"
 description: "The primary user persona for Distribution is the system administrator responsible for managing a GitLab instance. The team goals are to make it as easy as possible to deploy, scale, upgrade, and fine tune a GitLab instance on a range of on-prem and cloud platforms."
 ---
-
-
-
-
-
-
 
 ## Overview
 
@@ -64,28 +57,28 @@ Distribution team vision is shown below, and not limited to:
 
 ### Technology
 
-* GitLab has an official installation method on all major platforms and architectures.
-* GitLab offers official one click installation method on all major cloud platforms.
-* GitLab is able to automatically upgrade itself safely and reliably.
-* Official repositories for any Kubernetes package repository.
-* GitLab runs equally well on both high and low resource systems (such as Raspberry Pi).
-* GitLab.com is running using the official installation methods.
-* All GitLab features are installed and configured by default.
-* Installation interface to set up and configure GitLab.
-* Any GitLab installation is able to report installation/upgrade errors automatically.
-* Setting up GitLab in HA configuration is automated and simple.
-* All installation methods are automatically tested before release.
-* Most frequently used configuration options are tested using end-to-end integration tests.
+- GitLab has an official installation method on all major platforms and architectures.
+- GitLab offers official one click installation method on all major cloud platforms.
+- GitLab is able to automatically upgrade itself safely and reliably.
+- Official repositories for any Kubernetes package repository.
+- GitLab runs equally well on both high and low resource systems (such as Raspberry Pi).
+- GitLab.com is running using the official installation methods.
+- All GitLab features are installed and configured by default.
+- Installation interface to set up and configure GitLab.
+- Any GitLab installation is able to report installation/upgrade errors automatically.
+- Setting up GitLab in HA configuration is automated and simple.
+- All installation methods are automatically tested before release.
+- Most frequently used configuration options are tested using end-to-end integration tests.
 
 ### Team
 
-* Each team member is able to work on all team projects along with the ability to focus on specific technologies.
-* Each team member is a part of a hiring panel aimed to hire better than the best in the team.
-* Team creates documentation to increase knowledge and awareness to support a self-service model.
-* Team is able to reach a conclusion independently all the time, consensus most of the time.
-* Team has official certifications for frequently used technologies and platforms.
-* On-boarding and off-boarding is efficient.
-* Career development paths are clear.
+- Each team member is able to work on all team projects along with the ability to focus on specific technologies.
+- Each team member is a part of a hiring panel aimed to hire better than the best in the team.
+- Team creates documentation to increase knowledge and awareness to support a self-service model.
+- Team is able to reach a conclusion independently all the time, consensus most of the time.
+- Team has official certifications for frequently used technologies and platforms.
+- On-boarding and off-boarding is efficient.
+- Career development paths are clear.
 
 ## Mission
 
@@ -113,19 +106,19 @@ Reduce average days behind latest version
 
 The following people are members of the Distribution:Build Team:
 
-<%= direct_team(manager_slug: 'plu8', role_regexp: /Build/) %>
+{{< team-by-manager-slug manager="plu8" team="Build" >}}
 
 ### Distribution Deploy Team
 
 The following people are members of the Distribution:Deploy Team:
 
-<%= direct_team(manager_slug: 'plu8', role_regexp: /Deploy/) %>
+{{< team-by-manager-slug manager="plu8" team="Deploy" >}}
 
 ### Stable counterparts
 
 The following members of other functional teams are our [stable counterparts](/company/team/structure/#stage-groups):
 
-<%= stable_counterparts(role_regexp: /Core.Platform.*Distribution/, direct_manager_role: 'Backend Engineering Manager, Distribution') %>
+{{< stable-counterparts manager-role="Backend Engineering Manager, Distribution" role="Core Platform:Distribution" >}}
 
 ## Common links
 
@@ -442,5 +435,5 @@ How did Distribution get its name? We iterated, as always. "Distribution" was ch
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Distribution" } %>
+{{% cross-function-dashboard filters="Distribution" %}}
 

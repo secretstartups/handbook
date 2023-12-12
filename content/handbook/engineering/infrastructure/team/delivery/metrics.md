@@ -4,21 +4,15 @@ title: "Delivery Team Metrics"
 description: "The Delivery Team enables GitLab Engineering to deliver features in a safe, scalable and efficient fashion to both GitLab.com and self-managed customers."
 ---
 
-
-
-
-
-
-
 # Metrics
 
 [Delivery team] uses Mean Time To Production (MTTP) as an indicator of our speed capabilities
 to deploy application changes into production.
 
-* [Performance Indicator]
-* **Target: 12 hours.**
+- [Performance Indicator]
+- **Target: 12 hours.**
 
-<%= partial('mttp_chart', locals: { mttp: mttp_performance_indicator }) %>
+{{< sisense chart="10055732" dashboard="764878" >}}
 
 MTTP measures the elapsed time (in hours) from merging a change in gitlab-org/gitlab project master
 branch, to deploying that change to GitLab.com.
@@ -27,23 +21,23 @@ branch, to deploying that change to GitLab.com.
 
 MTTP is conformed by:
 
-* Time to inclusion: The merge request is merged and waiting to be included in an auto-deploy branch.
-* Time to package: The package to be deployed is being built.
-* Time to staging: Time it takes for the package to be deployed to staging and tested.
-* Time to canary: Time it takes for the package to be deployed to canary and tested.
-* Time to production: Time it takes for the package to be deployed to production.
+- Time to inclusion: The merge request is merged and waiting to be included in an auto-deploy branch.
+- Time to package: The package to be deployed is being built.
+- Time to staging: Time it takes for the package to be deployed to staging and tested.
+- Time to canary: Time it takes for the package to be deployed to canary and tested.
+- Time to production: Time it takes for the package to be deployed to production.
 
 To measure the MTTP subcomponents, the following metrics are used:
 
-* [Deployment SLO](#deployment-slo)
+- [Deployment SLO](#deployment-slo)
 
 These allows to decide whether we need to focus on speed or safety would have the
 biggest impact on further reducing MTTP.
 
 ### Deployment SLO
 
-* **Target: 8 hours.**
-* [Dashboard](https://dashboards.gitlab.net/d/delivery-deployment_slo/delivery-deployment-slo?orgId=1&refresh=5m)
+- **Target: 8 hours.**
+- [Dashboard](https://dashboards.gitlab.net/d/delivery-deployment_slo/delivery-deployment-slo?orgId=1&refresh=5m)
 
 Deployment SLO measures the deployment frequency and duration by tracking
 the percentage of deployment pipelines that complete within the target duration.

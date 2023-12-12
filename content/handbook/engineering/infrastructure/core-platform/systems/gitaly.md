@@ -1,13 +1,6 @@
 ---
-
 title: "Core Platform:Gitaly Team"
 ---
-
-
-
-
-
-
 
 ## What is Gitaly?
 
@@ -29,7 +22,7 @@ Processes fully independent of business inputs (such as repository maintenance) 
 
 Please see the public [product direction for Gitaly](https://about.gitlab.com/direction/gitaly/).
 
-A more [detailed internal roadmap and vision](https://internal.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/gitaly/roadmap/) can be found in the internal handbook. 
+A more [detailed internal roadmap and vision](https://internal.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/gitaly/roadmap/) can be found in the internal handbook.
 
 #### Featured upcoming large architectural changes
 
@@ -43,7 +36,7 @@ A more [detailed internal roadmap and vision](https://internal.gitlab.com/handbo
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[&,] Systems:Gitaly( API)?/, direct_manager_role: 'Backend Engineering Manager, Gitaly') %>
+{{< stable-counterparts role="[&,] Systems:Gitaly( API)?" manager-role="Backend Engineering Manager, Gitaly" >}}
 
 ## How to contact the team
 
@@ -114,7 +107,7 @@ and/or PM polling [these dashboards](#useful-links).
 [Responsibilities](https://handbook.gitlab.com/job-families/engineering/backend-engineer/#cluster) |
 [In the product hierarchy](https://about.gitlab.com/handbook/product/categories/#gitalycluster-group)
 
-<%= department_team(base_department: 'Gitaly Cluster Team') %>
+{{< team-by-department "Gitaly Cluster Team" >}}
 
 ## Git team
 
@@ -123,7 +116,7 @@ and/or PM polling [these dashboards](#useful-links).
 [Responsibilities](https://handbook.gitlab.com/job-families/engineering/backend-engineer/#git) |
 [In the product hierarchy](https://about.gitlab.com/handbook/product/categories/#gitalygit-group)
 
-<%= department_team(base_department: 'Gitaly Git Team') %>
+{{< team-by-department "Gitaly Git Team" >}}
 
 ## Working with product
 
@@ -336,7 +329,7 @@ The Gitaly consumers are:
 
 ## Gitaly Deprecations
 
-Gitaly offers many customer facing features. As such, all deprecations to customer facing features will follow the standard [GitLab feature deprecations guidance](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations-removals-and-breaking-changes) and announced within the [deprecations documentation page](https://docs.gitlab.com/ee/update/deprecations.html). 
+Gitaly offers many customer facing features. As such, all deprecations to customer facing features will follow the standard [GitLab feature deprecations guidance](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations-removals-and-breaking-changes) and announced within the [deprecations documentation page](https://docs.gitlab.com/ee/update/deprecations.html).
 
 Gitaly also offers many non-customer facing features, which are used by GitLab and other customers who directly interface with Gitaly. These Gitaly level deprecations will not be announced using the above methods as they are not designed for GitLab end users to interface with directly. Some examples of these non-customer facing features are storage level APIs, which should never be called by GitLab users.
 
@@ -353,7 +346,7 @@ after the 18th that issue will be used to discuss what was brought up.
 * [Incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=created_date&state=all&label_name%5B%5D=Service%3A%3AGitaly&label_name%5B%5D=incident&first_page_size=100) (not all pages are incidents)
 * [Pages](https://nonprod-log.gitlab.net/goto/2e1a9f00-f006-11ed-bb50-33eb1f5eb489)
 * [Global Apdex](https://dashboards.gitlab.net/d/gitaly-main/gitaly-overview?orgId=1&viewPanel=3357097446)
-* [Alerts](https://log.gprd.gitlab.net/goto/17c536b0-efd0-11ed-8afc-c9851e4645c0) (S1/S2 are paging, S3/S4 are not) 
+* [Alerts](https://log.gprd.gitlab.net/goto/17c536b0-efd0-11ed-8afc-c9851e4645c0) (S1/S2 are paging, S3/S4 are not)
 
 ### Useful links
 
@@ -362,7 +355,7 @@ after the 18th that issue will be used to discuss what was brought up.
 * [Error budget](https://dashboards.gitlab.net/d/stage-groups-detail-gitaly/stage-groups-gitaly-group-error-budget-detail?orgId=1&from=now-28d%2Fm&to=now)
 * [MR review workload](https://gitlab-org.gitlab.io/gitlab-roulette/?currentProject=gitaly)
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Gitaly" } %>
+{{% cross-function-dashboard filters="Gitaly" %}}
 
 ## Team development
 

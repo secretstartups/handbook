@@ -1,13 +1,6 @@
 ---
-
 title: Core Platform Sub-department
 ---
-
-
-
-
-
-
 
 ## Vision
 
@@ -18,51 +11,67 @@ Offer enterprise-grade operational experience of GitLab products from streamline
 
 Core Platform focuses on improving our capabilities and metrics in the following areas:
 
- * [Database](/handbook/engineering/infrastructure/core-platform/data_stores/database/)
- * [Database Reliability](/handbook/engineering/infrastructure/core-platform/data_stores/database-reliability/)
- * [Distribution:Build](/handbook/engineering/infrastructure/core-platform/systems/distribution/#distribution-build)
- * [Distribution:Deploy](/handbook/engineering/infrastructure/core-platform/systems/distribution/#distribution-deploy)
- * [Geo](/handbook/engineering/infrastructure/core-platform/systems/geo/)
- * [Gitaly](/handbook/engineering/infrastructure/core-platform/systems/gitaly/)
- * [Cloud Connector](/handbook/engineering/infrastructure/core-platform/systems/cloud-connector/)
- * [Global Search](/handbook/engineering/infrastructure/core-platform/data_stores/search/)
- * [Tenant Scale](/handbook/engineering/infrastructure/core-platform/data_stores/tenant-scale/)
-
-<%
-  departments = [
-    { name: 'Database', manager: 'alexives' },
-    { name: 'Database Reliability', manager: 'rmar1' },
-    { name: 'Distribution:Build', manager: 'david-mountney', regexp: /Build/  },
-    { name: 'Distribution:Deploy', manager: 'plu8', regexp: /Deploy/ },
-    { name: 'Geo', manager: 'juan-silva' },
-    { name: 'Gitaly', manager: 'andrashorvath' },
-    { name: 'Global Search', manager: 'cliu', regexp: /Global Search/ },
-    { name: 'Cloud Connector', manager: 'pjphillips', regexp: /Cloud Connector/ },
-    { name: 'Tenant Scale', manager: 'arturo-herrero' },
- ]
- department_regexp = /(#{Regexp.union(departments.map{ |d| d[:name] })})/
-%>
+- [Database](/handbook/engineering/infrastructure/core-platform/data_stores/database/)
+- [Database Reliability](/handbook/engineering/infrastructure/core-platform/data_stores/database-reliability/)
+- [Distribution:Build](/handbook/engineering/infrastructure/core-platform/systems/distribution/#distribution-build)
+- [Distribution:Deploy](/handbook/engineering/infrastructure/core-platform/systems/distribution/#distribution-deploy)
+- [Geo](/handbook/engineering/infrastructure/core-platform/systems/geo/)
+- [Gitaly](/handbook/engineering/infrastructure/core-platform/systems/gitaly/)
+- [Cloud Connector](/handbook/engineering/infrastructure/core-platform/systems/cloud-connector/)
+- [Global Search](/handbook/engineering/infrastructure/core-platform/data_stores/search/)
+- [Tenant Scale](/handbook/engineering/infrastructure/core-platform/data_stores/tenant-scale/)
 
 ## All Team Members
 
 The following people are permanent members of teams that belong to the Core Platform Sub-department:
 
-<% departments.each do |dep| %>
-### <%= dep[:name] %>
-  <%= direct_team(manager_slug: dep[:manager], role_regexp: dep[:regexp]) %>
-<% end %>
+### Database
+
+{{< team-by-manager-slug manager="alexives" >}}
+
+### Database Reliability
+
+{{< team-by-manager-slug manager="rmar1" >}}
+
+### Distribution:Build
+
+{{< team-by-manager-slug manager="david-mountney" team="Build" >}}
+
+### Distribution:Deploy
+
+{{< team-by-manager-slug manager="plu8" team="Deploy" >}}
+
+### Geo
+
+{{< team-by-manager-slug manager="juan-silva" >}}
+
+### Gitaly
+
+{{< team-by-manager-slug manager="andrashorvath" >}}
+
+### Global Search
+
+{{< team-by-manager-slug manager="cliu" team="Global Search" >}}
+
+### Cloud Connector
+
+{{< team-by-manager-slug manager="pjphillips" team="Cloud Connector" >}}
+
+### Tenant Scale
+
+{{< team-by-manager-slug manager="arturo-herrero" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Core Platform|Core Platform:/, direct_manager_role: 'Director of Engineering, Core Platform') %>
+{{< stable-counterparts manager-role="Director of Engineering, Core Platform" role="[,&] Core Platform|Core Platform:" >}}
 
 ## How We Work
 
 ### Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_section_dashboard.erb", locals: { filter_value: "enablement" } %>
+{{% cross-function-dashboard filters="enablement" section=true %}}
 
 ### Weekly Async Updates (No Status Update In Meetings)
 
@@ -99,13 +108,13 @@ Engineering managers are encouraged to make as many updates as needed throughout
 
 ### Cross-group Frontend Development
 
-The nature of the work primarily done by most Core Platform groups calls for backend heavy roadmaps and backlogs. This means that frontend (FE) development work can be "stop-and-go" and typically does not warrant the need for a full-time FE developer assigned to those groups. However, when work does come up it can be overwhelming for the group in question, or they may not have the necessary FE development skills to complete the task. 
+The nature of the work primarily done by most Core Platform groups calls for backend heavy roadmaps and backlogs. This means that frontend (FE) development work can be "stop-and-go" and typically does not warrant the need for a full-time FE developer assigned to those groups. However, when work does come up it can be overwhelming for the group in question, or they may not have the necessary FE development skills to complete the task.
 
 To address this need, the enablement sub-department has established a cross-group frontend development process. The objective is to have **extra** frontend engineering capacity readily available to help all enablement groups with frontend development work overload while avoiding going through formal [borrow requests](https://about.gitlab.com/handbook/product/product-processes/#borrow) and their process overhead. This also has the added benefit of having some level of technical oversight that supports a consistent frontend architecture across groups.
 
-The process itself consists of managing a unified enablement frontend roadmap and backlog. The DRI of this process is the Engineering Manager of Geo (@juan-silva). While the frontend engineers' primary focus is still their own groups' roadmap, they can be made available for this backlog based on demand, availability, and overall priority assessment upon agreements between respective groups' PMs and EMs coordinated by the DRI. 
+The process itself consists of managing a unified enablement frontend roadmap and backlog. The DRI of this process is the Engineering Manager of Geo (@juan-silva). While the frontend engineers' primary focus is still their own groups' roadmap, they can be made available for this backlog based on demand, availability, and overall priority assessment upon agreements between respective groups' PMs and EMs coordinated by the DRI.
 
-The roadmap is depicted in the table below. This roadmap is reviewed regularly on a monthly cadence during one of the Core Platform staff meetings. Additionally, ad-hoc planning sessions can be scheduled on request by other Core Platform EMs, when more prioritization is needed to balance the needs of different group stakeholders. 
+The roadmap is depicted in the table below. This roadmap is reviewed regularly on a monthly cadence during one of the Core Platform staff meetings. Additionally, ad-hoc planning sessions can be scheduled on request by other Core Platform EMs, when more prioritization is needed to balance the needs of different group stakeholders.
 
 | Group | Roadmap Item | Milestones | Links | Notes
 | ------ | ------ | ------ | ------ | ------ |
@@ -113,7 +122,7 @@ The roadmap is depicted in the table below. This roadmap is reviewed regularly o
 | Tenant Scale | Migrate user tabs to Vue | 16.1 | [Epic](https://gitlab.com/groups/gitlab-org/-/epics/9056)
 
 
-Effort is based on T-shirt sizes as follows: 
+Effort is based on T-shirt sizes as follows:
 Small = Up to 1 week, Medium = 2-6 weeks, Large = 2-3 months, XL = more than 3 months
 
 As the frontend roadmap items above are broken down into specific Epics and Issues, they are added to each individual group's backlog using that group’s own labels. Additionally, those issues must be labelled with `Core Platform-FE`.
@@ -128,7 +137,7 @@ We have started creating decision logs to benefit our internal development team 
 For issues, a clear decision is when an issue is successfully closed.  However, if an issue is closed because we "won't do it" it may not be immediately clear.  We are adopting the `~won't do` label for those issues.  Often the pattern is to just stash these issues in the `~backlog`.  This can be misleading to those watching the issue and frustrating to the original author, especially if they are a community contributor.  When we apply a `won't do` label to an issue, we are making a clear decision.  If there is no pushback on the `won't do` label then we made the right decision.  If there is pushback and we need to reprioritize the issue, then that is a good outcome as well.
 
 ### How Do We Interview Candidates
-We hold our bar high when it comes to hiring. Our goal is to hire the best candidates who will make GitLab successful meanwhile ensuring that the candidates are also set up for success at GitLab. With that in mind, our interview panels consist of a minimum of 4 interviewers (a.k.a. 4 scorecards), and there is no upper bound if needed. However, typically it won't go beyond 6 interviewers in total. Our interview panels are designed so that multiple data points are available from different interviewers for a specific factor, such as technical competency. This lets us confidently make decisions by cross referencing interview feedback in order to avoid the risk of single data source. 
+We hold our bar high when it comes to hiring. Our goal is to hire the best candidates who will make GitLab successful meanwhile ensuring that the candidates are also set up for success at GitLab. With that in mind, our interview panels consist of a minimum of 4 interviewers (a.k.a. 4 scorecards), and there is no upper bound if needed. However, typically it won't go beyond 6 interviewers in total. Our interview panels are designed so that multiple data points are available from different interviewers for a specific factor, such as technical competency. This lets us confidently make decisions by cross referencing interview feedback in order to avoid the risk of single data source.
 
 To bring the best possible candidate experience and stay competitive, we schedule all interviews at once and try to fit all in a small time window. This means the interviews are not serial and the scheduling of an interview doesn't depend on the outcome of another one. On the other hand, we will give candidates advanced notice that the interview process can halt at any time and we will notify them if the case. This is to respect the candidates' time when we believe the candidate is a better fit for other opportunities.
 
@@ -152,7 +161,7 @@ To bring the best possible candidate experience and stay competitive, we schedul
    1. More clarification/drilldown to the answers that candidates provided
    1. Hiring a Staff and above engineer
 
-Additional Guidelines: 
+Additional Guidelines:
 1. There must be at least one behavioral style interview that is administered by another IC. This could be another engineer on the team or a Product Manager, for example. Regardless of who conducts this interview, we still want to ensure there are at least 2 scorecards from engineers.
    1. Other teams who would like to adopt this consolidation approach can follow this additional guideline.
 1. When the `Technical Assessment` and `Peer Team Member Interview` are separate, the hiring manager can feel free to determine how many engineers are invited to each interview as long as a minimum of 2 engineers will provide **independent** feedback of technical assessments.

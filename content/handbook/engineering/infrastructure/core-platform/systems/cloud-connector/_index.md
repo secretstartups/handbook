@@ -1,13 +1,6 @@
 ---
-
 title: Cloud Connector Group
 ---
-
-
-
-
-
-
 
 ## Vision
 
@@ -25,27 +18,30 @@ You can check our [direction page](/direction/cloud-connector/) for more informa
 
 The following people are permanent members of the Cloud Connector group:
 
-<%= direct_team(manager_slug: 'pjphillips', role_regexp: /Cloud Connector|Core Platform/) %>
+{{< team-by-manager-slug manager="pjphillips" role="Cloud Connector|Core Platform" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /Senior Product Manager.*Cloud Connector|Core Platform.*Cloud Connector/, direct_manager_role: 'Backend Engineering Manager, Cloud Connector') %>
+{{< stable-counterparts role="Senior Product Manager.*Cloud Connector|Core Platform.*Cloud Connector" manager-role="Backend Engineering Manager, Cloud Connector" >}}
 
 ## Meetings
+
 Where we can we follow the GitLab values and communicate asynchronously.  However, there have a few important recurring meetings.  Please reach out to the [#g_cloud_connector](https://gitlab.slack.com/messages/CGN8BUCKC) Slack channel if you'd like to be invited.
-* Weekly Cloud Connector group meeting - Mondays 4:00PM UTC (3:00PM UTC during daylight savings time)
-* Cloud Connector group Office Hours
-  * Tuesdays and Thursdays at 10:00AM UTC ( 09:00AM UTC during daylight savings time)
+
+- Weekly Cloud Connector group meeting - Mondays 4:00PM UTC (3:00PM UTC during daylight savings time)
+- Cloud Connector group Office Hours
+    - Tuesdays and Thursdays at 10:00AM UTC ( 09:00AM UTC during daylight savings time)
 
 ## Work
+
 We follow the GitLab [engineering workflow](/handbook/engineering/workflow/) guidelines.  To bring an issue to our attention please create an issue in the relevant project, or in the [Cloud Connector team project](https://gitlab.com/gitlab-org/cloud-connector-team/team-tasks/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).  Add the `~"group::cloud connector"` label along with any other relevant labels.  If it is an urgent issue, please reach out to the Product Manager or Engineering Manager listed in the [Stable Counterparts](/handbook/engineering/infrastructure/core-platform/systems/cloud-connector/#stable-counterparts) section above.
 
 ### Planning
 When planning for a milestone, the Cloud Connector group creates a [planning issue](https://gitlab.com/gitlab-org/cloud-connector-team/team-tasks/-/blob/master/.gitlab/issue_templates/Planning.md) to discuss the upcoming milestone asynchronously. We outline the major efforts planned for the milestone along with who is working on each effort. Often there are individual issues that are either operational in nature, or don't belong to an epic. These issues are also called out in the planning issue for prioritization.
 
-We have three main boards for tracking our work (listed below). 
+We have three main boards for tracking our work (listed below).
 
 #### Boards
 
@@ -86,4 +82,4 @@ The Cloud Connector group's [Roadmap](https://gitlab.com/groups/gitlab-org/-/roa
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "cloud connector" } %>
+{{% cross-function-dashboard filters="cloud connector" %}}

@@ -16,18 +16,20 @@
   {-{ $department = .Get 0 }}
 {{- end }}
 
+{{- $team := partials.IncludeCached "data/team" page }}
 {{- $teamDict := dict }}
 {{- range $departments }}
   {{- $department := . }}
-  {{ range $k, $v := partials.IncludeCached "data/team-by-name" . }}
+  {{ range  $team }}
     {{- if in .departments $department }}
       {{- $teamDict = merge $teamDict (dict .name . ) }}
     {{- end }}
   {{- end }}
 {{- end }}
+
 {{- range $managerRoles }}
   {{- $role := . }}
-  {{ range $k, $v := partials.IncludeCached "data/team-by-name" . }}
+  {{ range $team }}
     {{- if eq .job_title $role}}
       {{- $teamDict = merge $teamDict (dict .name . ) }}
     {{- end }}

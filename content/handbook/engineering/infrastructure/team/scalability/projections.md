@@ -1,11 +1,7 @@
 ---
 aliases: /handbook/engineering/infrastructure/team/scalability/projections.html
-
 title: "Scalability:Projections Team"
 ---
-
-
-
 
 ## Projections
 
@@ -15,7 +11,7 @@ This team focuses on forecasting & projection systems that enable development en
 system growth (planned and unplanned) for their areas of responsibility. Error Budgets and Stage Group Dashboards
 are examples of successful projects that have provided development teams information about how their code runs on GitLab.com.
 
-As Dedicated becomes more mature, we will expand our remit to include projection activities for this platform. 
+As Dedicated becomes more mature, we will expand our remit to include projection activities for this platform.
 
 We use metrics to gather data to inform our decisions. We contribute to the observability of the system by maintaining
 metrics that concern saturation and improving observability tools that we can use to help us understand how the system
@@ -25,7 +21,7 @@ responds to load.
 
 The following people are members of the Scalability:Projections team:
 
-<%= direct_team(manager_slug: 'rachel-nienaber')%>
+{{< team-by-manager-slug "rachel-nienaber" >}}
 
 ## Team Responsibilities
 
@@ -45,13 +41,13 @@ We develop and release [Tamland](tamland.html), our saturation forecasting tool 
 
 The triage rotation is maintained in a PagerDuty Schedule: https://gitlab.pagerduty.com/schedules#PRMDCJG
 
-The responsibility for reviewing Tamland reports rotates between all members of the Scalability::Projections team. 
+The responsibility for reviewing Tamland reports rotates between all members of the Scalability::Projections team.
 
-The rotation lasts for a minimum of two weeks. There is flexibility in the schedule to allow for OOO and on-call 
-responsibilities. If you need to adjust your shift, please find another team-member to take your shift and add the override into the schedule. 
+The rotation lasts for a minimum of two weeks. There is flexibility in the schedule to allow for OOO and on-call
+responsibilities. If you need to adjust your shift, please find another team-member to take your shift and add the override into the schedule.
 
-The length of the rotation cycle is to try provide exposure to the wide variety of capacity warnings that occur and to enable each person to gain context on the components that we monitor. 
-The handover day is Thursday to allow for any sync calls needed so that the review of the capacity planning issues can still be completed by the end of Monday. 
+The length of the rotation cycle is to try provide exposure to the wide variety of capacity warnings that occur and to enable each person to gain context on the components that we monitor.
+The handover day is Thursday to allow for any sync calls needed so that the review of the capacity planning issues can still be completed by the end of Monday.
 
 #### Triage Duties
 
@@ -60,9 +56,9 @@ The triage duties are:
 1. Review all capacity planning issues that are past their due date, or in the Open column (which means they do not have a `capacity-planning::` workflow label). The [saturation labels](/handbook/engineering/infrastructure/capacity-planning/#saturation-labels) can help in choosing which issues to review first, if there are many with the same due date.
 1. For each item, check if the warning still applies and follow up with the DRI or other engineers for an updated status.
 1. Set appropriate due dates for the next review.
-1. Raise any significant concerns through the [SaaS Availability weekly standup](/handbook/engineering/#saas-availability-weekly-standup)(currently on Tuesdays in UTC afternoon) by adding them to the [meeting agenda](https://docs.google.com/document/d/1Zk3qgbn8iDyJRq0i5C5LPBgEopY6o1tpYEKfdNfA9Bg/edit#). 
+1. Raise any significant concerns through the [SaaS Availability weekly standup](/handbook/engineering/#saas-availability-weekly-standup)(currently on Tuesdays in UTC afternoon) by adding them to the [meeting agenda](https://docs.google.com/document/d/1Zk3qgbn8iDyJRq0i5C5LPBgEopY6o1tpYEKfdNfA9Bg/edit#).
    * An issue is a significant concern if it is a critical non-horizontally-scalable resource at risk of imminent saturation or an issue that needs additional attention from leadership.
-   * If something is really pressing, please raise significant concerns with the Engineering Manager who will escalate to leadership as appropriate. 
+   * If something is really pressing, please raise significant concerns with the Engineering Manager who will escalate to leadership as appropriate.
 1. Check that Tamland is running and generating output and bring this to the team's attention if it is not running. Check the [scheduled pipelines on ops](https://ops.gitlab.net/gitlab-com/gl-infra/tamland/-/pipelines?page=1&scope=all&source=schedule) for this. There should be a daily job populating the cache, and a weekly job for tamland without failures.
 1. Create a [handover issue](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues/new?issuable_template=Handover&issue[title]=Triage%20handover%20notes%20YYYY-MM-DD) once your shift comes to an end and hand information over to the next person taking it.
 
@@ -72,7 +68,7 @@ When your rotation is finished, you need to provide handover notes in the #infra
 
 Some tips to help you to get started on duties:
 1. For items that need to be monitored further, it is encouraged to attach the current forecast in the comment as the forecast would change over the following weeks and we wouldn't be able to see the previous forecasts.
-1. Assign the issue to the Engineering Manager for the team that owns the service. 
+1. Assign the issue to the Engineering Manager for the team that owns the service.
 1. Oftentimes, you might want to query the underlying query of the saturation component in order to get more context of the current state. You could either:
    * Follow the Grafana alert dashboard, copy over the query from the Explore page, and experiment with it in Thanos.
    * Search for `component: <component_name>` (e.g. `component: disk_space`) in `runbooks` project, the underlying recording rule can be found in `rules/autogenerated-saturation.yml` ([example for `component: disk_space`](https://gitlab.com/gitlab-com/runbooks/-/blob/cf83fdff44a0d5828a5343d2242dbd49eefdaf08/rules/autogenerated-saturation.yml#L108))

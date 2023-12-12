@@ -1,13 +1,6 @@
 ---
-
 title: US Public Sector Services team
 ---
-
-
-
-
-
-
 
 ## Mission
 
@@ -31,7 +24,7 @@ Team performance indicators are not fully defined. We are going to consider a **
 
 ## Team Members
 
-<%= direct_team(manager_slug: 'sdumesnil')%>
+{{< team-by-manager-slug "sdumesnil" >}}
 
 ## Working with us
 

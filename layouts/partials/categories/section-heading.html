@@ -1,5 +1,5 @@
 {{ $section_data := . }}
-{{ $team_dict := partials.IncludeCached "data/team-by-name" page }}
+{{ $team_dict := partials.IncludeCached "team/by-slug" page }}
 {{- $devTeam := slice }}
 {{- $pmTeam := slice }}
 {{- $pdTeam := slice }}

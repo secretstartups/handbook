@@ -1,14 +1,7 @@
 ---
-
 title: "Geo and Disaster Recovery"
 description: "Information about the Geo Team"
 ---
-
-
-
-
-
-
 
 ## The Geo Team
 
@@ -18,11 +11,11 @@ repositories and projects, or can be part of a Disaster Recovery solution.
 
 ### Team members
 
-<%= direct_team(manager_slug: 'juan-silva') %>
+{{< team-by-manager-slug manager="juan-silva" >}}
 
 ### Stable counterparts
 
-<%= stable_counterparts(role_regexp: /Geo/, direct_manager_role: 'Fullstack Engineering Manager, Geo') %>
+{{< stable-counterparts role="Geo" manager-role="Fullstack Engineering Manager, Geo" >}}
 
 ## Goals and Priorities
 
@@ -53,33 +46,33 @@ High Availability (HA) is also a step towards Disaster Recovery. At the moment G
 
 ## How to ask for support from Geo
 
-The first line of support will always be the support engineer assigned to the issue raised by the customer. However at times more expertise is required to resolve the customer concern and a Geo engineer needs to be involved. 
-This section outlines the process and expectations when requesting support from the team for Geo-related customer support issues. 
+The first line of support will always be the support engineer assigned to the issue raised by the customer. However at times more expertise is required to resolve the customer concern and a Geo engineer needs to be involved.
+This section outlines the process and expectations when requesting support from the team for Geo-related customer support issues.
 
 ### Before requesting support
-Before submitting a request for support, please review Geo's [documentation](https://docs.gitlab.com/ee/administration/geo/), the [Disaster Recovery](https://docs.gitlab.com/ee/administration/geo/disaster_recovery/) docs, the Geo Handbook pages, or search through previous customer issues in the [Geo Customers Project](https://gitlab.com/gitlab-com/geo-customers). The answer to your questions might be found there. 
+Before submitting a request for support, please review Geo's [documentation](https://docs.gitlab.com/ee/administration/geo/), the [Disaster Recovery](https://docs.gitlab.com/ee/administration/geo/disaster_recovery/) docs, the Geo Handbook pages, or search through previous customer issues in the [Geo Customers Project](https://gitlab.com/gitlab-com/geo-customers). The answer to your questions might be found there.
 
 ### Asking a general question
 If you have a general question for which you can't find your answer, then feel free to ask your question in the #g_geo channel on Slack. Please keep in mind that engineers will do their best to support you and answer your question from the top of their heads. If they need to do more research and/or address more complicated scenarios, you will need to create a support issue (see next section).
 
 ### Create a support request issue
 We like to use issues when customers need help from the Geo Team. This helps us to prioritize work and make sure that we don't lose history and maintain context when the Slack retention policy activates.
-We ask requestors to create an issue in the [Geo Customers Project](https://gitlab.com/gitlab-com/geo-customers). 
+We ask requestors to create an issue in the [Geo Customers Project](https://gitlab.com/gitlab-com/geo-customers).
 
-Please make sure to use and fill the [support request issue template](https://gitlab.com/gitlab-com/geo-customers/-/blob/master/.gitlab/issue_templates/Support%20Request.md). As the requestor you **only** need to fill the Customer Info and Support Question sections. The Timeline and Retrospective sections will be filled by the Geo team members as they address your request. 
+Please make sure to use and fill the [support request issue template](https://gitlab.com/gitlab-com/geo-customers/-/blob/master/.gitlab/issue_templates/Support%20Request.md). As the requestor you **only** need to fill the Customer Info and Support Question sections. The Timeline and Retrospective sections will be filled by the Geo team members as they address your request.
 
 If you like, you may assign a priority label to your request. A geo team member or the PM will review this priority assignment during the triage of the issue. Please use the table below as a reference of priority levels and expected response times.
 
 | Priority | Typically used for | Expected first response time |
 | ---      | ---   |  ------  |
 | P4 		 | General questions that can't be answered on slack by Geo engineers of the top of their heads and will require a bit more investigation. | 2-3 days |
-| P3 		 | Customer problems that are not time sensitive (i.e. they have an easy work around) or scheduling time to engage with the customer in the future for them to achieve their goals. | 1 day | 
-| P2 		 | Customer problems that are somewhat time sensitive and are blocking decisions or progress to be made on the customer side. | 1/2 day | 
-| P1 		 | Fires and emergencies that the customer is experiencing | 1-2 hours | 
+| P3 		 | Customer problems that are not time sensitive (i.e. they have an easy work around) or scheduling time to engage with the customer in the future for them to achieve their goals. | 1 day |
+| P2 		 | Customer problems that are somewhat time sensitive and are blocking decisions or progress to be made on the customer side. | 1/2 day |
+| P1 		 | Fires and emergencies that the customer is experiencing | 1-2 hours |
 
-\* Response times are based on weekdays (excluding holidays) within regular business hours in the time zones that team members are located. 
+\* Response times are based on weekdays (excluding holidays) within regular business hours in the time zones that team members are located.
 
-\* Outages and other urgent matters should be channeled through GitLab's [incident management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) processes. 
+\* Outages and other urgent matters should be channeled through GitLab's [incident management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) processes.
 
 ## Common Links
 
@@ -126,4 +119,4 @@ See the [Geo Glossary](https://docs.gitlab.com/ee/administration/geo/glossary.ht
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Geo" } %>
+{{% cross-function-dashboard filters="Geo" %}}

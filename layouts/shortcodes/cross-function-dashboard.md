@@ -1,9 +1,11 @@
 {{ $filters := slice }}
+{{ $section := false }}
 {{- with (.Get "filters") }}
-  {{- $filters =  slice (dict "name" "team_group" "value" . ) }}
+  {{- $filters =  slice (dict "name" "team_group" "value" (lower .) ) }}
 {{- end }}
-
-Filters {{ $filters }}
+{{- with (.Get "section") }}
+    {{- $section = . }}
+{{- end }}
 
 #### Cross-functional Backlog
 
@@ -17,6 +19,8 @@ MR Type labels help us report what we're working on to industry analysts in a wa
 
 {{ partial "sisense-with-filter" (dict "dashboard" "976854" "filters" $filters "visible" (slice "team_group" "stage" "development_section")) }}
 
+{{- if not $section }}
+
 #### Flaky Test Issues
 
 Flaky test are problematic [for many reasons](/handbook/engineering/quality/engineering-productivity/flaky-tests/).
@@ -28,3 +32,5 @@ Flaky test are problematic [for many reasons](/handbook/engineering/quality/engi
 Slow tests are impacting the [GitLab pipeline duration](https://docs.gitlab.com/ee/development/pipelines/index.html).
 
 {{ partial "sisense-with-filter" (dict "dashboard" "1166661" "filters" $filters "visible" (slice "team_group" "stage" "development_section")) }}
+
+{{- end }}

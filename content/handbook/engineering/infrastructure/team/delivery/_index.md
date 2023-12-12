@@ -1,18 +1,12 @@
 ---
-
 title: "Delivery Group"
 description: "The Delivery Group enables GitLab Engineering to deliver features in a safe, scalable and efficient fashion to both GitLab.com and self-managed customers."
 ---
 
-
-
-
-
-
-
-
 ## Common Links
 
+|   |   |
+|---|---|
 | **Workflow** | [Team workflow](#how-we-work) |
 | **GitLab.com** | `@gitlab-org/delivery` |
 | **Issue Tracker** | [**Delivery**][delivery issue tracker] |
@@ -79,10 +73,10 @@ These principles are intended to help everyone work independently in a way that 
 ### When designing a solution
 
 1. Simplify Release Management. We always want to be reducing work for release managers either by removing tasks or by improving automation. Be very cautious about introducing new tasks without removing something else
-2. Don’t add functionality to Deployer. We aim to deprecate Deployer as part of our work to migrate away from VMs
-3. Always consider metrics. If we don't have the metrics to track the value, we should look to add them
-4. UX consistency. Strive for consistency across tool interactions and naming
-5. Low-context designs. Design tools as if non-delivery team members need to use them. Keep things simple and let the tools do the hard work
+1. Don’t add functionality to Deployer. We aim to deprecate Deployer as part of our work to migrate away from VMs
+1. Always consider metrics. If we don't have the metrics to track the value, we should look to add them
+1. UX consistency. Strive for consistency across tool interactions and naming
+1. Low-context designs. Design tools as if non-delivery team members need to use them. Keep things simple and let the tools do the hard work
 
 ### When implementing a solution
 
@@ -90,7 +84,7 @@ These principles are intended to help everyone work independently in a way that 
 
 ## Strategy
 
-We've moved this subsection to the [Delivery direction pages](/direction/saas-platforms/delivery/) so that it's in the same place as the rest of our product direction.
+We've moved this subsection to the [Delivery direction pages](https://about.gitlab.com/direction/saas-platforms/delivery/) so that it's in the same place as the rest of our product direction.
 
 ## Top-level Responsibilities
 
@@ -122,17 +116,17 @@ The primary goal of the System team is to provide a flexible and stable deployme
 
 The following people are members of the Delivery:Orchestration Team:
 
-<%= direct_team(manager_slug: 'mbursi')%>
+{{< team-by-manager-slug "mbursi" >}}
 
 The following people are members of the Delivery:System Team:
 
-<%= direct_team(manager_slug: 'dave-smith')%>
+{{< team-by-manager-slug "dave-smith" >}}
 
 ## Team counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Delivery/, other_manager_roles: ['Engineering Manager, Delivery:Orchestration', 'Engineering Manager, Delivery:System']) %>
+{{< stable-counterparts role="[,&] Delivery" >}}
 
 ## Performance indicators
 

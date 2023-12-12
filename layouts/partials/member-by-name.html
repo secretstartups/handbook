@@ -2,7 +2,7 @@
 {{- $img := "https://about.gitlab.com/images/gitlab-logo-extra-whitespace.png" -}}
 {{- $name := replaceRE `\s\(.*\)` "" . -}}
 {{- $meta := index (findRE `\s\(.*\)` .) 0 -}}
-{{- $teamDict := partials.IncludeCached "data/team-by-name" . -}}
+{{- $teamDict := partials.IncludeCached "team/by-name" . -}}
 {{- $data := index $teamDict $name -}}
 {{- with $data }}
   {{- with path.BaseName $data.picture }}

@@ -1,0 +1,14 @@
+{{/*
+  Returns a dictionary of team members index by their unique slug should only be called
+  via partials.IncludeCached.
+ */}}
+{{- $team := partials.IncludeCached "data/team" . -}}
+{{- $teamDict := dict }}
+{{- range $team }}
+  {{ if .slug }}
+    {{- $teamDict = merge $teamDict (dict .slug .) }}
+  {{ else }}
+    {{- warnf "User with name %s is missing their slug in the teams.yml file." .name }}
+  {{- end }}
+{{- end }}
+{{ return $teamDict }}

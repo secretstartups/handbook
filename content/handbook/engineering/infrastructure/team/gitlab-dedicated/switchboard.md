@@ -1,13 +1,6 @@
 ---
-
 title: Switchboard team
 ---
-
-
-
-
-
-
 
 ## Summary
 
@@ -16,7 +9,7 @@ Switchboard is a team within the [Dedicated Group](https://about.gitlab.com/hand
 
 ## Team Members
 
-<%= direct_team(manager_slug: 'ashiel')%>
+{{< team-by-manager-slug "ashiel" >}}
 
 Product Manager: [Loryn Bortins](https://about.gitlab.com/company/team/#lbortins)
 Technical Writer: [Lysanne Pinto](https://about.gitlab.com/company/team/#lyspin)
@@ -78,14 +71,14 @@ The outcome of the call is shared in a persistent location (Slack is not persist
 
 #### Quarterly Planning
 
-Quarterly planning is owned and driven by the Switchboard EM and PM. 
+Quarterly planning is owned and driven by the Switchboard EM and PM.
 
-1. EM or PM creates a quarterly planning issue using the Dedicated `quarterly_planning` issue template. 
+1. EM or PM creates a quarterly planning issue using the Dedicated `quarterly_planning` issue template.
     - Set the issue title to `Switchboard - FYXXQY planning` where XX is the year and Y is the quarter
     - Ideally planning should be kicked off at least a quarter in advance. The planning issue for the upcoming quarter should be created on or before the first day of the second month of the current quarter
 
-2. EM & PM brainstorm asynchronously on the issue 
-3. During month 3 of the current quarter EM or PM 
+2. EM & PM brainstorm asynchronously on the issue
+3. During month 3 of the current quarter EM or PM
    - Reach out to the team for input
    - Ensure all dependencies are communicated with the relevant teams
    - Prioritise the objectives
@@ -96,13 +89,13 @@ Quarterly planning is owned and driven by the Switchboard EM and PM.
 
 Switchboard team process to refine epics:
 1. Identify a [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) for the epic
-   - Team members can volunteer or the EM may ask team ask specific team members to act as DRI 
-1. Identify any missing requirements 
+   - Team members can volunteer or the EM may ask team ask specific team members to act as DRI
+1. Identify any missing requirements
    - All team members ask questions in the comments of this issue to drive out any edge cases
 1. DRI labels the epic as ~"workflow-infra::Ready"
 1. Assign Due Date & Start Date
    - DRI, EM & PM work together to assign due date based on team capacity, external deadlines and amount of work involved
-1. DRI identifies at least one demo that will be delivered with the epic and adds a brief outline to the epic description (see [Switchboard Demos](#switchboard_demos)).  
+1. DRI identifies at least one demo that will be delivered with the epic and adds a brief outline to the epic description (see [Switchboard Demos](#switchboard_demos)).
 1. EM or DRI labels individual issues as ~"workflow-infra::Triage"
 1. Team members pick up issues and start working on them
 1. Team members use Progress Threads to track progress in individual issues
@@ -146,9 +139,9 @@ Switchboard team process to refine issues:
 
 #### Switchboard Demos
 
-A demo enables a team member to share progress or the final output of an issue or epic. The focus is on sharing information, not creating an oscar winning documentary, so as a team we use the [boring solution](https://handbook.gitlab.com/handbook/values/#boring-solutions) of either a screen recording, a recorded Zoom meeting or Loom. A link to the recording is added to the epic description. 
+A demo enables a team member to share progress or the final output of an issue or epic. The focus is on sharing information, not creating an oscar winning documentary, so as a team we use the [boring solution](https://handbook.gitlab.com/handbook/values/#boring-solutions) of either a screen recording, a recorded Zoom meeting or Loom. A link to the recording is added to the epic description.
 
-The epic [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is responsible for identifying at least one demo that will be delivered with the epic when the epic is being kicked off. For example _When the functionality x is delivered (or issue y is Done) we will demo functionality x_. 
+The epic [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is responsible for identifying at least one demo that will be delivered with the epic when the epic is being kicked off. For example _When the functionality x is delivered (or issue y is Done) we will demo functionality x_.
  Team members are encouraged to time demos to be delivered shortly before the fortnightly Switchboard Team Syncs whenever possible so that any synchronous Q&A can happen during already reserved time.
 Team members may choose to create additional demos to share progress or delivery milestones.
 

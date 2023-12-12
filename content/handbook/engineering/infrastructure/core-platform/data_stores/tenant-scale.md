@@ -49,13 +49,13 @@ The executive summary goals for the Tenant Scale group include:
 
 The following people are permanent members of the Tenant Scale group:
 
-{{% team-by-manager-slug "arturo-herrero" %}}
+{{% team-by-manager-slug manager="arturo-herrero" %}}
 
 ### Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-{{% stable-counterparts "arturo-herrero" "Tenant Scale" "Principal Engineer, Data Stores" "Senior Distinguished Engineer, Ops and Core Platform" %}}
+{{% stable-counterparts manager="arturo-herrero" role="Tenant Scale|Principal Engineer, Data Stores|Senior Distinguished Engineer, Ops and Core Platform" %}}
 
 ## Projects
 
@@ -311,12 +311,7 @@ to allow the group to focus on long-term scalability work.
 You can find our group metrics in the [Data Stores:Tenant Scale Sisense dashboard](https://app.periscopedata.com/app/gitlab/1134433/Data-Stores:Tenant-Scale-Dashboard)
 and [Tenant Scale Group Engineering Metrics page](/handbook/engineering/metrics/enablement/data-stores/tenant-scale).
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="350" src="<%= signed_periscope_url(dashboard: 1134433, chart: 16599181, embed: 'v2') %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Tenant Scale" } %>
+{{% sisense chart="16599181" dashboard="1134433" %}}
+
+{{% cross-function-dashboard filters="Tenant Scale" %}}

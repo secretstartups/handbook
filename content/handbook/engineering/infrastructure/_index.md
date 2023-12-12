@@ -1,15 +1,7 @@
 ---
-
 title: "Infrastructure"
 description: "The Infrastructure Department is responsible for the availability, reliability, performance, and scalability of GitLab.com and other supporting services"
 ---
-
-
-
-
-
-
-
 
 ## Mission
 
@@ -38,7 +30,7 @@ The direction is accomplished by using [Objectives and Key Results (OKRs)](https
 
 Other strategic initiatives to achieve this vision are driven by the needs of enterprise customers looking to adopt GitLab.com. [The GitLab.com strategy](https://about.gitlab.com/direction/enablement/dotcom/) catalogs top customer requests for the SaaS offering and outlines strategic initiatves across both Infrastructure and Stage Groups needed to address these gaps.
 
-<%= partial "includes/we-are-also-product-development.md" %>
+{{% include "includes/we-are-also-product-development.md" %}}
 
 ## Organization structure
 
@@ -89,7 +81,7 @@ flowchart LR
     SP --> DE[Delivery]
     click DE "/handbook/engineering/infrastructure/team/delivery/"
     DE --> Deployments
-    DE --> Releases 
+    DE --> Releases
     SP --> Ops
     SP --> Foundations
     SP --> Scalability
@@ -156,14 +148,59 @@ The Infrastructure team maintains responsibility for the underlying infrastructu
 
 Infrastructure SREs may be aligned with [stage groups](/handbook/product/categories/#categories-a-z) as [stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/).
 
-[Stable Counterparts](./team/stable-counterpart.html) are used as a framework for managing reliable services at GitLab.  The framework provides guidelines for collaboration between [Stage Groups](/handbook/product/categories/#categories-a-z) and [Infrastructure Teams](/handbook/engineering/infrastructure-quality/#engaging-with-the-infrastructure-teams).  
+[Stable Counterparts](./team/stable-counterpart.html) are used as a framework for managing reliable services at GitLab.  The framework provides guidelines for collaboration between [Stage Groups](/handbook/product/categories/#categories-a-z) and [Infrastructure Teams](/handbook/engineering/infrastructure-quality/#engaging-with-the-infrastructure-teams).
 
 
 ## Interviewing
 
-The Infrastructure department hires for a number of different technical specialisms and positions across its teams. This [Infrastructure Interviewing Guide](https://about.gitlab.com/handbook/hiring/interviewing/infrastructure-interview/) offers more detail on some of our regular openings, interview process and other useful information related to applying to jobs with us. More information on our current openings can be found on the [careers page](https://about.gitlab.com/jobs/). 
+The Infrastructure department hires for a number of different technical specialisms and positions across its teams. This [Infrastructure Interviewing Guide](https://about.gitlab.com/handbook/hiring/interviewing/infrastructure-interview/) offers more detail on some of our regular openings, interview process and other useful information related to applying to jobs with us. More information on our current openings can be found on the [careers page](https://about.gitlab.com/jobs/).
 
-<%= partial "handbook/engineering/infrastructure/_common_links.html" %>
+## Common Links
+
+- [How we do Incident Management for GitLab.com][incident]
+- [status]
+
+| **General Issue Trackers**                      | **General Slack Channels** | **Team Slack Channels** | **Resources**                                        |
+|-------------------------------------------------|----------------------------|-------------------------|------------------------------------------------------|
+| [Infrastructure issue queue][infra]             | [#production]              | [#g_delivery]           | [Production Architecture][architecture]              |
+| [Production incidents, and changes][production] | [#infrastructure-lounge]   | [#g_scalability]        | [Operational Runbooks][runbooks]                     |
+| [Delivery][delivery]                            | [#incident-management]     |                         | [Environments][environments]                         |
+| [Scalability][scalability]                      | [#announcements]           |                         | [Monitoring][monitoring]                             |
+|                                                 | [#feed_alerts-general]     |                         | [Readiness Reviews][readiness]                       |
+|                                                 |                            |                         | [Infrastructure Standards][infrastructure-standards] |
+
+## Other Pages
+
+- [On-call Handover](/handbook/engineering/infrastructure/team/reliability/on-call-handover/)
+- [GitLab.com data breach notification policy](/security/#data-breach-notification-policy)
+- [Infrastructure careers and internships][interning]
+- [Coding at scale](/handbook/engineering/infrastructure/coding-at-scale/)
+
+
+[status]: https://status.gitlab.com/
+[help]: /handbook/engineering/infrastructure/production/#how-to-get-help
+[incident]: /handbook/engineering/infrastructure/incident-management/
+[change]: /handbook/engineering/infrastructure/change-management/
+[infra]: https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/
+[production]: https://gitlab.com/gitlab-com/gl-infra/production/issues/
+[delivery]: https://gitlab.com/gitlab-com/gl-infra/delivery/issues/
+[scalability]: https://gitlab.com/gitlab-com/gl-infra/scalability/issues
+
+[#production]: https://gitlab.slack.com/archives/production
+[#infrastructure-lounge]: https://gitlab.slack.com/archives/infrastructure-lounge
+[#incident-management]: https://gitlab.slack.com/archives/incident-management
+[#announcements]: https://gitlab.slack.com/archives/announcements
+[#feed_alerts-general]: https://gitlab.slack.com/archives/feed_alerts-general
+[#g_delivery]: https://gitlab.slack.com/archives/g_delivery
+[#g_scalability]: https://gitlab.slack.com/archives/g_scalability
+
+[architecture]: /handbook/engineering/infrastructure/production/architecture/
+[environments]: /handbook/engineering/infrastructure/environments/
+[monitoring]: /handbook/engineering/infrastructure
+[runbooks]: https://gitlab.com/gitlab-com/runbooks
+[readiness]: /handbook/engineering/infrastructure/production/readiness/
+[interning]: /handbook/engineering/infrastructure/career/
+[infrastructure-standards]: /handbook/infrastructure-standards/
 
 [library]: https://gitlab.com/gitlab-com/gl-infra/readiness/-/tree/master/library
 

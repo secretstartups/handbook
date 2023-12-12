@@ -1,3 +1,8 @@
+---
+draft: true
+description: Partial not currently in use
+---
+
 ### Labels
 
 | Label                        | List                                        | Focus          |
@@ -39,7 +44,7 @@ Issues are labeled by priority and criticality. Priority incidetes what should b
 
 All issues must have priority and critically assigned to them. This is a requirement for issues in the `workflow-infra::Ready` state.
 
-| Type    | Priority Label  | Description                                                                               | 
+| Type    | Priority Label  | Description                                                                               |
 | ------- | --------------- | ----------------------------------------------------------------------------------------- |
 | *group* | `priority::1`   | Highest priority items that require immediate action, with expected ETA in hours/days     |
 | *group* | `priority::2`   | Items that require prompt attention, with expected ETA within the week                    |
@@ -47,7 +52,7 @@ All issues must have priority and critically assigned to them. This is a require
 | *group* | `priority::4`   | Items with expected ETA within the following milestone or beyond |
 
 
-| Type    | Criticaility Label  | Description                                                                               | 
+| Type    | Criticaility Label  | Description                                                                               |
 | ------- | ------------------- | ----------------------------------------------------------------------------------------- |
 | *group* | `C1`   | Immediate threat to availability, performance or data durability  |
 | *group* | `C2`   | Expected threat to availability and/or performance within 30 days |

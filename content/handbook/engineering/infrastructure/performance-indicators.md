@@ -1,12 +1,5 @@
 ---
-
 title: Infrastructure Department Performance Indicators
 ---
 
-
-
-
-
-
-
-<%= performance_indicators('Infrastructure Department') %>
+{{< performance-indicators "infrastructure_department" >}}

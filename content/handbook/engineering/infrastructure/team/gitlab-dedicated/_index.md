@@ -1,17 +1,8 @@
 ---
-
 title: "GitLab Dedicated Group"
 ---
 
 ![GitLab Dedicated Group logo](img/dedicated_team_logo.png)
-
-
-
-
-
-
-
-# Team
 
 ## Mission
 
@@ -23,10 +14,10 @@ The GitLab Dedicated group is a customer facing team, with team members focused 
 
 Team mission is to:
 
-* Develop a 100% automated system for provisioning a large number of single tenant GitLab sites
-* Automate maintenance tasks without human interaction for the said sites
-* Create and manage central observability stack, as well as observability stack per customer tenant
-* Create customer portal (Switchboard), exposing administrative operations to customer tenants
+- Develop a 100% automated system for provisioning a large number of single tenant GitLab sites
+- Automate maintenance tasks without human interaction for the said sites
+- Create and manage central observability stack, as well as observability stack per customer tenant
+- Create customer portal (Switchboard), exposing administrative operations to customer tenants
 
 ## GitLab Dedicated Architecture
 
@@ -42,32 +33,32 @@ Engineering team members of GitLab Dedicated are publicly referenced with specia
 
 The following people are members of the Dedicated:Environment Automation Team:
 
-<%= direct_team(manager_slug: 'o-lluch')%>
+{{< team-by-manager-slug "o-lluch" >}}
 
 The following people are members of the Dedicated:US Public Sector Services Team:
 
-<%= direct_team(manager_slug: 'sdumesnil')%>
+{{< team-by-manager-slug "sdumesnil" >}}
 
 The following people are members of the Dedicated:Switchboard Team:
 
-<%= direct_team(manager_slug: 'ashiel')%>
+{{< team-by-manager-slug "ashiel" >}}
 
 ## Working with us
 
 To engage with the GitLab Dedicated teams:
 
-* [Create an issue](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new) in the GitLab Dedicated team issue tracker (**Note** The issue tracker will be made public after [work in epic 33 "Considerations for making Dedicated projects public"](https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/epics/33) is completed)
-  * For feature requests, use the [feature_requests issue template](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/blob/main/.gitlab/issue_templates/feature_request.md) and fill in the required information
-* When creating an issue, it is not necessary to `@`mention anyone
-* In case you want to get attention, use a specific team handle as defined in [group hierarchy below](#gitlab-group-hierarchy)
-* Slack channels
-  * For GitLab Dedicated specific questions, you can find us in [#f_gitlab_dedicated](https://gitlab.slack.com/archives/C01S0QNSYJ2)
-  * The `@dedicated-envauto-team` Slack group can be used in any internal channel to tag the Environment Automation team.
-  * Engineering teams have their own work channels for team work discussions:
-      * [#g_dedicated-team](https://gitlab.slack.com/archives/C025LECQY0M)
-      * [#g_dedicated-switchboard-team](https://gitlab.slack.com/archives/C04DG7DR1LG)
-      * [#g_dedicated-us-pubsec](https://gitlab.slack.com/archives/C03R5837WCV)
-  * Our [social channel](https://gitlab.slack.com/archives/C03QBGQ3K5W) is accessible to everyone who wants to casually interact with the team
+- [Create an issue](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new) in the GitLab Dedicated team issue tracker (**Note** The issue tracker will be made public after [work in epic 33 "Considerations for making Dedicated projects public"](https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/epics/33) is completed)
+  - For feature requests, use the [feature_requests issue template](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/blob/main/.gitlab/issue_templates/feature_request.md) and fill in the required information
+- When creating an issue, it is not necessary to `@`mention anyone
+- In case you want to get attention, use a specific team handle as defined in [group hierarchy below](#gitlab-group-hierarchy)
+- Slack channels
+  - For GitLab Dedicated specific questions, you can find us in [#f_gitlab_dedicated](https://gitlab.slack.com/archives/C01S0QNSYJ2)
+  - The `@dedicated-envauto-team` Slack group can be used in any internal channel to tag the Environment Automation team.
+  - Engineering teams have their own work channels for team work discussions:
+      - [#g_dedicated-team](https://gitlab.slack.com/archives/C025LECQY0M)
+      - [#g_dedicated-switchboard-team](https://gitlab.slack.com/archives/C04DG7DR1LG)
+      - [#g_dedicated-us-pubsec](https://gitlab.slack.com/archives/C03R5837WCV)
+  - Our [social channel](https://gitlab.slack.com/archives/C03QBGQ3K5W) is accessible to everyone who wants to casually interact with the team
 
 ### Handling Configuration Changes for Tenant Environments
 
@@ -78,15 +69,15 @@ To request functionality that is not currently supported within Dedicated, custo
 
 While in the long term, customer admins will be able to self-serve configuration changes via the Switchboard customer portal, in the short term, SREs will need to make the change and deploy it to the customer's environment. This process is documented below.
 
-* During Onboarding (pre instance handover)
-  * We will make one SRE available to support a new customer as they are onboarding to the platform. The SRE will be available one week prior to the onboarding date (ie the `start date` specified in the customer contract) and make any needed configuration changes to the environment.
-  * To request a configuration change during onboarding, customers can open a new issue in their shared collaboration project. The PM will take the customer request, create an issue within the Dedicated team project, assign the labels per project workflow, and `@` mention the SRE in question. The SRE will assign the issue to themselves and perform the change.
-  * Note, config changes during onboarding cannot be escalated to the Dedicated team as this is still before the contractual start date. See below for more information on our [escalation policy](#escalation-policy).
-* Post-instance handover
-  * Any configuration changes needed after the `start date` will be batched and handled in the next available weekly maintenance window. The cut off to get changes in is 2 business days before the maintenance window begins.
-  * We cannot make any guarantees that a config change will make it into a specific maintenance window. In cases where there is a large amount of work that may stretch beyond the 4 hour maintenance window, configuration changes may be pushed out to the following window. In such cases, this will be communicated on the request issue.
-  * To request a configuration change after the initial onboarding, customers must create a support ticket. The assigned support engineer will then open a new issue in the Dedicated issue tracker with the request. The requester must ensure there is link to the ZD ticket in the internal issue for change control purposes. The SRE tasked with performing the next round of maintenance for this customer will reply on the issue with a rough ETA and again once the change has been deployed. If this is a change that requires development work, the SRE will raise to PM/EM.
-  * Post-onboarding, escalating a config change requests is only possible for configuration that ensures that the tenant instance is online. "Business as usual" changes can only be scheduled well in advance using the customer Project Plan provided during onboarding. See more details about our escalation policy below.
+- During Onboarding (pre instance handover)
+  - We will make one SRE available to support a new customer as they are onboarding to the platform. The SRE will be available one week prior to the onboarding date (ie the `start date` specified in the customer contract) and make any needed configuration changes to the environment.
+  - To request a configuration change during onboarding, customers can open a new issue in their shared collaboration project. The PM will take the customer request, create an issue within the Dedicated team project, assign the labels per project workflow, and `@` mention the SRE in question. The SRE will assign the issue to themselves and perform the change.
+  - Note, config changes during onboarding cannot be escalated to the Dedicated team as this is still before the contractual start date. See below for more information on our [escalation policy](#escalation-policy).
+- Post-instance handover
+  - Any configuration changes needed after the `start date` will be batched and handled in the next available weekly maintenance window. The cut off to get changes in is 2 business days before the maintenance window begins.
+  - We cannot make any guarantees that a config change will make it into a specific maintenance window. In cases where there is a large amount of work that may stretch beyond the 4 hour maintenance window, configuration changes may be pushed out to the following window. In such cases, this will be communicated on the request issue.
+  - To request a configuration change after the initial onboarding, customers must create a support ticket. The assigned support engineer will then open a new issue in the Dedicated issue tracker with the request. The requester must ensure there is link to the ZD ticket in the internal issue for change control purposes. The SRE tasked with performing the next round of maintenance for this customer will reply on the issue with a rough ETA and again once the change has been deployed. If this is a change that requires development work, the SRE will raise to PM/EM.
+  - Post-onboarding, escalating a config change requests is only possible for configuration that ensures that the tenant instance is online. "Business as usual" changes can only be scheduled well in advance using the customer Project Plan provided during onboarding. See more details about our escalation policy below.
 
 ### Escalation Policy
 
@@ -128,9 +119,9 @@ Our preference is to work asynchronously, within our project issue tracker as de
 
 The team does have a set of regular synchronous calls:
 
-* `Demo call` - This call is on the agenda once per week. During this call, team members show off their progress, and engage with other team members on topics related to GitLab Dedicated platform. Demo calls are supposed to be rough around the edges and unpolished. In fact, if the demo looks polished, we will discuss whether we are being ambitious enough with our goals
-* `Team call` - During this call, we are sharing important information for team-members day-to-day, as well as project items requiring a sync discussion
-* 1-1s between the Individual Contributors and Engineering Managers
+- `Demo call` - This call is on the agenda once per week. During this call, team members show off their progress, and engage with other team members on topics related to GitLab Dedicated platform. Demo calls are supposed to be rough around the edges and unpolished. In fact, if the demo looks polished, we will discuss whether we are being ambitious enough with our goals
+- `Team call` - During this call, we are sharing important information for team-members day-to-day, as well as project items requiring a sync discussion
+- 1-1s between the Individual Contributors and Engineering Managers
 
 Impromptu Zoom meetings for discussing GitLab Dedicated work between individuals are created as needed.
 It is expected that these meetings are private streamed, or recorded(1*), and then uploaded to [GitLab Unfiltered playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqC5FfUVPyndvLvTWifWbfB).
@@ -144,14 +135,14 @@ We use [GitLab Groups](https://docs.gitlab.com/ee/user/group/#groups) to logical
 The groups cover the following use-cases:
 
 1. GitLab Dedicated group membership: `@gitlab-dedicated`
-    * All permanent team-members in any of the GitLab Dedicated teams gain access to this GitLab group as part of onboarding
-    * Group mention should only be used in circumstances where the information shared is pertinent for all team members of the GitLab Dedicated group
+    - All permanent team-members in any of the GitLab Dedicated teams gain access to this GitLab group as part of onboarding
+    - Group mention should only be used in circumstances where the information shared is pertinent for all team members of the GitLab Dedicated group
 1. Individual team group membership: `@gitlab-dedicated/environment-automation`, `@gitlab-dedicated/switchboard`, `@gitlab-dedicated/uspubsec`, etc.
-    * All permanent team-members of individual teams gain access to their respective GitLab group as part of onboarding
-    * Group mention should be used when the information shared is pertinent to the respective team
+    - All permanent team-members of individual teams gain access to their respective GitLab group as part of onboarding
+    - Group mention should be used when the information shared is pertinent to the respective team
 1. Individual team GitLab Dedicated groups have two additional subgroups `maintainers` and `reviewers`, e.g.: `@gitlab-dedicated/switchboard/maintainers`
-    * `reviewers` GitLab group access is granted to permanent team-members, external contractors, team-members on borrow and similar. This GitLab group type is used to distinguish users without merge rights. Initial reviews should be requested from this group, using the quick action, e.g. `/assign_reviewer @gitlab-dedicated/switchboard/reviewers`
-    * `maintainers` GitLab group is granted to permantent team-members only. This group has merge rights, and the group is granted access through [CODEOWNERS approval rules](https://docs.gitlab.com/ee/user/project/codeowners/#code-owners). Team members onboard into the `maintainer` subgroup after meeting the requirements defined in the [Dedicated Maintainer Training](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/blob/main/.gitlab/issue_templates/maintainer_training.md)(internal only)
+    - `reviewers` GitLab group access is granted to permanent team-members, external contractors, team-members on borrow and similar. This GitLab group type is used to distinguish users without merge rights. Initial reviews should be requested from this group, using the quick action, e.g. `/assign_reviewer @gitlab-dedicated/switchboard/reviewers`
+    - `maintainers` GitLab group is granted to permantent team-members only. This group has merge rights, and the group is granted access through [CODEOWNERS approval rules](https://docs.gitlab.com/ee/user/project/codeowners/#code-owners). Team members onboard into the `maintainer` subgroup after meeting the requirements defined in the [Dedicated Maintainer Training](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/blob/main/.gitlab/issue_templates/maintainer_training.md)(internal only)
 
 ### Project Management
 
@@ -169,8 +160,8 @@ The [GitLab Dedicated Limited Availability sub-epic](https://gitlab.com/groups/g
 We use sub-epics to break larger epics into smaller portions. These sub-epics are also mentioned in the [Limited Availability Roadmap](https://about.gitlab.com/direction/saas-platforms/dedicated/#limited-availability-roadmap) (i.e. Geo Phase 2 epic).
 
 1. Sub-epics group tasks required to deliver an item mentioned
-2. Sub-epics represent an item from the roadmap and are delivered in a specific phase
-3. Sub-epics can span multiple months, but their end date should match the 'anticipated completion date' of the roadmap phase they are added to.
+1. Sub-epics represent an item from the roadmap and are delivered in a specific phase
+1. Sub-epics can span multiple months, but their end date should match the 'anticipated completion date' of the roadmap phase they are added to.
 
 
 The diagram below shows an example of traversing the complete hierachy:
@@ -194,7 +185,7 @@ click E "https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/epics/
 click F "https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/epics/55"
 ```
 
-_Note_ If you are not seeing the diagram, make sure that you have accepted all cookies.
+*Note* If you are not seeing the diagram, make sure that you have accepted all cookies.
 
 #### Epic Owners
 
@@ -217,6 +208,7 @@ The DRI needs to:
 Each epic and child sub-epics must include the following:
 
 **Description** (TBD make epic template)
+
 1. **DRI** who is responsible for this epic.
 1. **Background**, including a problem statement, to provide context for people looking to understand the epic.
 1. **Exit criteria** for the specific goals of the epic.
@@ -225,6 +217,7 @@ Each epic and child sub-epics must include the following:
     1. This heading is used to auto-generate the status information on the top-level epic.
 
 **Epic meta data**
+
 1. **Start date** is set to the expected start date, and updated to be the actual start date when the project begins.
 1. **Due date** is set to be the expected end date.
     1. The due date is set based on [the Roadmap to exit Limited Availability](https://about.gitlab.com/direction/saas-platforms/dedicated/#limited-availability-roadmap)
@@ -250,6 +243,7 @@ All epics and sub-epics are set with due dates according to the [the Roadmap to 
 Limited Availability phases end and are closed on the release day of each phase's corresponding month.
 
 Process to close phases:
+
 1. After the release day of each month [Product and Engineering DRIs](/company/team/structure/working-groups/gitlab-dedicated/#dedicated-team-dris) work with [Epic DRIs](#epic-owners) to determine any roadmap changes if an epic extends beyond the epic's planned phase from [Limited Availability roadmap](/direction/saas-platforms/dedicated/#limited-availability-roadmap). For still-open epics:
     1. First try and close the epic, ideally by descoping the epic and creating a new epic or issue containing descoped work. Descoped work will be slotted into a future phase.
     1. If descoping is not possible, then the entire epic should be shifted to a future phase. In this case, the epic should show in every phase of [Limited Availability roadmap](https://about.gitlab.com/direction/saas-platforms/dedicated/#limited-availability-roadmap) that the epic was worked on. See Establish Availablility Targets in [Phase 1, 2, and 3](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/a40d70a58c2247a160270703fe6953fbb9fd1244/source/direction/saas-platforms/dedicated/index.html.md#environment-automation) as an example.
@@ -270,9 +264,9 @@ The status for all work relating to GitLab Dedicated is maintained in the descri
 
 Both Engineering Cross-Functional DRIs should provide weekly updates for the DRI's epics according to following process:
 
-1. **By 17:00 UTC / 12:00 PM ET on Fridays** DRIs of _active_ epics (or the person covering if DRI OOO) provide an update in the [status section of the description](/handbook/engineering/infrastructure/team/gitlab-dedicated/#epic-structure) of the epic regarding status of the epic including any relevant details of active sub-epics.
-    * If the DRI for a sub-epic is different than the epic DRI, the epic DRI is responsible for getting updates from the sub-epic DRI.
-    * Format for weekly update:
+1. **By 17:00 UTC / 12:00 PM ET on Fridays** DRIs of *active* epics (or the person covering if DRI OOO) provide an update in the [status section of the description](/handbook/engineering/infrastructure/team/gitlab-dedicated/#epic-structure) of the epic regarding status of the epic including any relevant details of active sub-epics.
+    - If the DRI for a sub-epic is different than the epic DRI, the epic DRI is responsible for getting updates from the sub-epic DRI.
+    - Format for weekly update:
       - **Date of Update** (YYYY-MM-DD)
       - Brief update (~sentence or couple bullets) for each of these three bullets:
          - **Progress since last update** - Changes deployed to production, unblocked blockers, any other progress achieved.
@@ -280,14 +274,14 @@ Both Engineering Cross-Functional DRIs should provide weekly updates for the DRI
          - **Mitigations** -  What is required to overcome challenges or blockers identified?  Should this be escalated to other team members, teams, executives, or domain experts?
        - **Update Workflow and Health label** - After each status update, the Workflow label and Health label should be updated. See [Epic labels criteria](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#workflow-labels)
 
-2. **Top-Level Epic Status Update** [automation synthesizes updates from status section](/handbook/engineering/infrastructure/team/gitlab-dedicated/#status-update-automation) from description of active epics to provide initiative status in the status section in the description of the top-level initiative Epic.
+1. **Top-Level Epic Status Update** [automation synthesizes updates from status section](/handbook/engineering/infrastructure/team/gitlab-dedicated/#status-update-automation) from description of active epics to provide initiative status in the status section in the description of the top-level initiative Epic.
 
-3. **Weekly engineering/product sync at 16:30 UTC / 11:30 AM ET on Mondays** Dedicated engineering/product meeting is used to discuss status updates and potential mitigations as necessary.
-    1.  [After the release day of each month](#epic-roadmap), a summary of the most recently completed phase and any roadmap changes is shared.
+1. **Weekly engineering/product sync at 16:30 UTC / 11:30 AM ET on Mondays** Dedicated engineering/product meeting is used to discuss status updates and potential mitigations as necessary.
+    - [After the release day of each month](#epic-roadmap), a summary of the most recently completed phase and any roadmap changes is shared.
 
-4. Status updates will be incorporated into initiative status updates and any initiative reporting in the following week.
+1. Status updates will be incorporated into initiative status updates and any initiative reporting in the following week.
 
-5. **By 23:00 UTC / 5:00 PM ET on Wednesdays** Initiative DRI will share a summary of major items from the weekly initiative update in #ceo Slack Channel and link to the full update in the Initiative epic.
+1. **By 23:00 UTC / 5:00 PM ET on Wednesdays** Initiative DRI will share a summary of major items from the weekly initiative update in #ceo Slack Channel and link to the full update in the Initiative epic.
 
 #### Status Update Automation
 
@@ -302,10 +296,11 @@ We provide reports on status of GitLab Dedicated to meet [Top Cross-Functional I
 ### Backlog Refinement
 
 Prior to the start of a new quarter, the team will spend time refining the Epic backlog. This process will be led by the EM + PM, who will go through the Epics targeted for the upcoming quarter (according to the [roadmap](https://about.gitlab.com/direction/saas-platforms/dedicated/#roadmap)) and ensure each Epic contains the following information (pulling in different stakeholders to help fill in the details as necessary):
-* MVC Scope
-* Business Case / Rationale
-* Link to high-level design
-* Estimated level of complexity
+
+- MVC Scope
+- Business Case / Rationale
+- Link to high-level design
+- Estimated level of complexity
 
 While the above information is being added, the Epic will move from ![Triage](./img/label-triage.png) to ![Proposal](./img/label-proposal.png).  Once the information has been finalized, the Epic will move to ![Ready](./img/label-ready.png).
 
@@ -357,10 +352,10 @@ GitLab Dedicated follows the same pattern for author/reviewer assignment as the 
 
 This can be summarized as follows:
 
-> * Merge request authors and DRIs stay as Assignees
-> * Authors request a review from Reviewers when they are expected to review
-> * Reviewers remove themselves after they’re done reviewing/approving
-> * The last approver stays as Reviewer upon merging
+> - Merge request authors and DRIs stay as Assignees
+> - Authors request a review from Reviewers when they are expected to review
+> - Reviewers remove themselves after they’re done reviewing/approving
+> - The last approver stays as Reviewer upon merging
 
 ### Temporary workarounds
 
@@ -473,5 +468,5 @@ Resources used by the team to conduct work are described on the [Development Res
 
 ## History and trivia
 
-* Name for [`Switchboard` customer portal](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/7#note_591358260) was suggested by @marin after he spent a day trying to figure out which mixing console (Also known as a switchboard/soundboard) to get for amateur music making. He didn't buy anything, but the suggestion was accepted.
-* Name for [`Amp` management cluster](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/31#note_609710775) was suggested by @ccasella, as it is the instance that is "powering" supply of other instances.
+- Name for [`Switchboard` customer portal](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/7#note_591358260) was suggested by @marin after he spent a day trying to figure out which mixing console (Also known as a switchboard/soundboard) to get for amateur music making. He didn't buy anything, but the suggestion was accepted.
+- Name for [`Amp` management cluster](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/31#note_609710775) was suggested by @ccasella, as it is the instance that is "powering" supply of other instances.

@@ -1,14 +1,7 @@
 ---
-
 title: "Test and Tools Infrastructure Team"
 description: "Test and Tools Infrastructure Team in Test Platform sub-department"
 ---
-
-
-
-
-
-
 
 ## Team Handles
 
@@ -18,14 +11,13 @@ description: "Test and Tools Infrastructure Team in Test Platform sub-department
 | **Issue Tracker**       | [`quality/team-tasks`](https://gitlab.com/gitlab-org/quality/team-tasks/issues/) |
 
 
-## Current OKR 
+## Current OKR
 
 Every quarter, the team commits to [Objectives and Key Results (OKRs)](/company/okrs/). The below shows current quarter OKRs and is updated regularly as the quarter progresses. Here is an [overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/5399) of our current Test and Tools Infrastructure team OKR.
 
 ## Team Members
 
-<%= direct_team(manager_role: 'Engineering Manager, Test Platform, Test and Tools Infrastructure') %>
-
+{{< team-by-manager-role "Test and Tools Infrastructure" >}}
 
 ## Performance Indicators
 
@@ -35,44 +27,14 @@ Every quarter, the team commits to [Objectives and Key Results (OKRs)](/company/
 
 #### Success rate
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 10916864, dashboard: 817532, embed: "v2"}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{< sisense chart="10916864" dashboard="817532" >}}
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 11111156, dashboard: 817532, embed: "v2"}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{< sisense chart="11111156" dashboard="817532" >}}
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 11111389, dashboard: 817532, embed: "v2"}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{< sisense chart="11111389" dashboard="817532" >}}
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 11111428, dashboard: 817532, embed: "v2"}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{< sisense chart="11111428" dashboard="817532" >}}
 
 #### Durations
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 11111438, dashboard: 817532, embed: "v2"}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{< sisense chart="11111438" dashboard="817532" >}}

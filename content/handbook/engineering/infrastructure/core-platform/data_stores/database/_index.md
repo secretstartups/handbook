@@ -20,7 +20,7 @@ The following people are permanent members of the Database Team:
 
 The following members of other functional teams are our stable counterparts:
 
-{{< stable-counterparts "alexives" "[,&] Database" "Application Performance and Database" >}}
+{{< stable-counterparts "alexives" "[,&] Database|Application Performance and Database" >}}
 
 ### Stable Counterparts to other teams
 

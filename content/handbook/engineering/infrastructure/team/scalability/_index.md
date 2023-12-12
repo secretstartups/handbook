@@ -1,19 +1,12 @@
 ---
-
 title: "Scalability Group"
 ---
 
-
-
-
-
-
-
 ## Common Links
 
-| **Workflow** | [Team workflow](/handbook/engineering/infrastructure/team/scalability/#how-we-work) | 
-| **GitLab.com** | `@gitlab-org/scalability` | 
-| **Issue Trackers** | [Scalability](https://gitlab.com/gitlab-com/gl-infra/scalability) | 
+| **Workflow** | [Team workflow](/handbook/engineering/infrastructure/team/scalability/#how-we-work) |
+| **GitLab.com** | `@gitlab-org/scalability` |
+| **Issue Trackers** | [Scalability](https://gitlab.com/gitlab-com/gl-infra/scalability) |
 | **Team Slack Channels** | [#g_scalability](https://gitlab.slack.com/archives/g_scalability) - Company facing channel <br/> [#g_scalability_observability](https://gitlab.slack.com/archives/g_scalability_observability) - Team channel <br/> [#g_scalability_practices](https://gitlab.slack.com/archives/g_scalability_practices) - Team channel<br/> [#scalability_social](https://gitlab.slack.com/archives/g_scalability_social) - Group social channel|
 | **Information Slack Channels** | [#infrastructure-lounge](https://gitlab.slack.com/archives/infrastructure-lounge) (Infrastructure Group Channel), <br/>[#incident-management](https://gitlab.slack.com/archives/incident-management) (Incident Management),  <br/>[#alerts-general](https://gitlab.slack.com/archives/alerts-general) (SLO alerting), <br/>[#mech_symp_alerts](https://gitlab.slack.com/archives/mech_symp_alerts) (Mechanical Sympathy Alerts) |
 
@@ -31,7 +24,7 @@ title: "Scalability Group"
 
 The Scalability group is currently formed of two teams: `Scalability:Observability` and `Scalability:Practices`.
 
-<%= direct_team(manager_slug: 'rachel-nienaber')%> 
+{{< team-by-manager-slug "rachel-nienaber" >}}
 
 
 ### Scalability:Observability
@@ -39,14 +32,13 @@ The Scalability group is currently formed of two teams: `Scalability:Observabili
 The Observability team focuses on observability, forecasting & projection systems that enable development engineering to predict
 system growth for their areas of responsibility.
 
-The following people are members of the Scalability:Observability team: 
+The following people are members of the Scalability:Observability team:
 
-<%= direct_team(manager_slug: 'liam-m')%>
-
+{{< team-by-manager-slug "liam-m" >}}
 
 ### Scalability:Practices
 
-The Practices team focuses on tools and frameworks that enable the stage groups to support their features on our production systems. 
+The Practices team focuses on tools and frameworks that enable the stage groups to support their features on our production systems.
 
 The Practises team is a new addition to the Scalability group and we will refine the responsibilities for this team.
 
@@ -57,8 +49,7 @@ Current team responsibilities:
 
 The following people are members of the Scalability:Practices team:
 
-<%= direct_team(manager_slug: 'kwanyangu')%>
-
+{{< team-by-manager-slug "kwanyangu" >}}
 
 ### Transition
 
@@ -87,7 +78,7 @@ We support other Engineering teams by sharing data and techniques so they can be
 
 ## Vision
 
-As its name implies, the Scalability group enhances the **availability**, **reliability** and, **performance** of GitLab's SaaS platforms 
+As its name implies, the Scalability group enhances the **availability**, **reliability** and, **performance** of GitLab's SaaS platforms
 by observing the application's capabilities to operate at scale.
 
 The **Scalability group** analyzes application performance on GitLab's SaaS platforms,
@@ -124,11 +115,11 @@ Each team is responsible for separate indicators. For more information, please v
 
 The broad nature of work undertaken by the Scalability group can make prioritization challenging as it’s tricky to compare some issues like-for-like. For example, how do we compare the benefit of an issue to address a performance concern against an issue that reduces developer toil? To help guide the direction of the group and to inform our prioritization process, we can categorize issues in to the following _themes_, in order of priority:
 
-1. **Critical Saturation Response**. On occasions saturation alerts can unexpectedly occur - for example, when caused by a sudden change in platform usage patterns - and need to be addressed with urgency. We try to avoid working reactively by proactively working on other themes. 
-2. **Horizontal Scalability**. The most obvious scaling bottlenecks in our infrastructure are those that can only be scaled *vertically* instead of *horizontally*. Horizontal scaling brings the benefit of *elasticity*, which increases confidence that we can meet future demand while keeping costs linear - both of these elements are strongly aligned with the vision of the Scalability group.
-3. **Increasing Plaform Capacity**. Delivering foundational project work in the GitLab application and infrastructure to support service capacity needs for GitLab SaaS. 
-4. **Scalability Advocacy and Facilitation**. An effective method for the Scalability group to leverage its output is by collaborating closely with other engineering teams to promote scalability best practises. This might include building tools to enable wider engagement in GitLab SaaS operations (e.g. [Stage Dashboards](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/406)), or serving as a point of contact to other teams for scaling questions relating to their own initiatives. 
-5. **Eliminating Toil**. We want to make our output as efficient as possible by spending more time on engineering projects and less time on manual, repetitive, or automatable tasks. An effective way of achieving this is by considering how future toil can be avoid when delivering projects. However, inline with our Iteration value, we don’t want to over-optimize and we can't consider all eventualities ahead of time. We should always be mindful of opportunities to reduce toil, which will make us more effective in the long-term.
+1. **Critical Saturation Response**. On occasions saturation alerts can unexpectedly occur - for example, when caused by a sudden change in platform usage patterns - and need to be addressed with urgency. We try to avoid working reactively by proactively working on other themes.
+1. **Horizontal Scalability**. The most obvious scaling bottlenecks in our infrastructure are those that can only be scaled *vertically* instead of *horizontally*. Horizontal scaling brings the benefit of *elasticity*, which increases confidence that we can meet future demand while keeping costs linear - both of these elements are strongly aligned with the vision of the Scalability group.
+1. **Increasing Plaform Capacity**. Delivering foundational project work in the GitLab application and infrastructure to support service capacity needs for GitLab SaaS.
+1. **Scalability Advocacy and Facilitation**. An effective method for the Scalability group to leverage its output is by collaborating closely with other engineering teams to promote scalability best practises. This might include building tools to enable wider engagement in GitLab SaaS operations (e.g. [Stage Dashboards](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/406)), or serving as a point of contact to other teams for scaling questions relating to their own initiatives.
+1. **Eliminating Toil**. We want to make our output as efficient as possible by spending more time on engineering projects and less time on manual, repetitive, or automatable tasks. An effective way of achieving this is by considering how future toil can be avoid when delivering projects. However, inline with our Iteration value, we don’t want to over-optimize and we can't consider all eventualities ahead of time. We should always be mindful of opportunities to reduce toil, which will make us more effective in the long-term.
 
 The above list is not comprehensive, nor does it outline a formal process. We should remain pragmatic when prioritizing work, while using the themes as a guideline.
 
@@ -147,9 +138,9 @@ The Engineering Roles section of the handbook lists the responsbilies of these r
 
 Scalability leadership can be reached via PagerDuty [Scalability Escalation](https://gitlab.pagerduty.com/escalation_policies#PDJ160O).
 
-From <a href="https://gitlab.pagerduty.com/incidents">https://gitlab.pagerduty.com/incidents</a>, click on the "New Incident" button and complete the new incident form as shown below. 
+From <a href="https://gitlab.pagerduty.com/incidents">https://gitlab.pagerduty.com/incidents</a>, click on the "New Incident" button and complete the new incident form as shown below.
 
-![Scalability PD Incident](img/pd-scalability-incident.png) 
+![Scalability PD Incident](img/pd-scalability-incident.png)
 
 ### How do I engage with the Scalability Group?
 
@@ -192,54 +183,54 @@ and Performance Refinement process](/handbook/engineering/workflow/#process-1) t
 
 ### Communication
 
-Everything is written in epics, issues, runbooks or the handbook. 
+Everything is written in epics, issues, runbooks or the handbook.
 Decisions or important information in Slack must be copied into a relevant location so that the information is persisted beyond the 90-day Slack retention policy.
 
 #### Slack Channels and Guidelines
 
 We communicate in public using the following channels:
 
-1. [#g_scalability](https://gitlab.slack.com/archives/g_scalability) - Company facing channel where other team members can reach out to us. We also use this channel for highlighting work we have done. 
-2. [#g_scalability_observability](https://gitlab.slack.com/archives/g_scalability_observability) - Team channel where daily work information is shared and team coordination takes place.
-3. [#g_scalability_practices](https://gitlab.slack.com/archives/g_scalability_practices) - Team channel where daily work information is shared and team coordination takes place.
-4. [#scalability_social](https://gitlab.slack.com/archives/g_scalability_social) - Group social channel.
+1. [#g_scalability](https://gitlab.slack.com/archives/g_scalability) - Company facing channel where other team members can reach out to us. We also use this channel for highlighting work we have done.
+1. [#g_scalability_observability](https://gitlab.slack.com/archives/g_scalability_observability) - Team channel where daily work information is shared and team coordination takes place.
+1. [#g_scalability_practices](https://gitlab.slack.com/archives/g_scalability_practices) - Team channel where daily work information is shared and team coordination takes place.
+1. [#scalability_social](https://gitlab.slack.com/archives/g_scalability_social) - Group social channel.
 
 In the team channels, team members are encouraged to share what they are working and any blockers they may have.
-The format is not fixed so that people share in a way that feels natural to them. 
+The format is not fixed so that people share in a way that feels natural to them.
 
-In addition to the channels above, we create a project channel per epic when appropriate. 
-A channel dedicated to a project helps to keep everything about the topic in one place and makes it easy to stay up to date on that topic. 
+In addition to the channels above, we create a project channel per epic when appropriate.
+A channel dedicated to a project helps to keep everything about the topic in one place and makes it easy to stay up to date on that topic.
 It is useful for teams working across time zones or for getting back up to speed after being on leave.
-The DRI for a project owns the project Slack channel. 
+The DRI for a project owns the project Slack channel.
 
 #### Meetings and Scheduled Calls
 
 We prefer to work asynchronously as far as possible but still use synchronous communication where it makes sense to do so.
-Asynchronous communication is the best way to make sure everyone, regardless of timezone or availability, is included. 
+Asynchronous communication is the best way to make sure everyone, regardless of timezone or availability, is included.
 
-To keep people connected, team members are encouraged to schedule at least one coffee-chat with another team member each week. 
+To keep people connected, team members are encouraged to schedule at least one coffee-chat with another team member each week.
 
 #### Demo Calls
 
 There is one demo call per week.
-The time of the call differs each week to try to get people from different timezones to join different calls. 
-The purpose of this call is to showcase something that you have been working on during that week. It does not have to be perfect or polished. 
-These calls are a technical conversation and while we might land up with guidance on what we are working on, the purpose is not to make fixed decisions on this call. 
+The time of the call differs each week to try to get people from different timezones to join different calls.
+The purpose of this call is to showcase something that you have been working on during that week. It does not have to be perfect or polished.
+These calls are a technical conversation and while we might land up with guidance on what we are working on, the purpose is not to make fixed decisions on this call.
 
-Items should be added to the [agenda](https://docs.google.com/document/d/13TW4x3ofw0RxifZvZ7eNvrPxFnnXmhzQ8fal3fhYgjg/edit#) ahead of the meeting. 
+Items should be added to the [agenda](https://docs.google.com/document/d/13TW4x3ofw0RxifZvZ7eNvrPxFnnXmhzQ8fal3fhYgjg/edit#) ahead of the meeting.
 If there are no agenda items at that time, the call is cancelled for that week.
 
-The call should be recorded and added to GitLab Unfiltered. Please use your discretion when choosing the visibility level as some screen shares contain private data. If you upload a private video, please add information in the description for why this visibility was chosen. 
+The call should be recorded and added to GitLab Unfiltered. Please use your discretion when choosing the visibility level as some screen shares contain private data. If you upload a private video, please add information in the description for why this visibility was chosen.
 A [playlist of the recordings](https://www.youtube.com/playlist?list=PL05JrBw4t0Kphnnvtz9CDatQAVGs_q2Cv) is available on GitLab Unfiltered.
 
 #### Communicating our work schedule to others
 
-It is important that team-members know when we are available, so we keep our calendars updated. 
+It is important that team-members know when we are available, so we keep our calendars updated.
 
 1. We use the "working hours" settings in Google calendar.
-2. We indicate "async only" periods if we need them during our working hours.
-3. Our PTO tracker is linked to the group Google calendar using `gitlab.com_3puidsh74uhqdv9rkp3fj56af4@group.calendar.google.com` as an additional calendar in the Calendar Sync settings. 
-4. Any team members with on-call responsibilities should share their Pager Duty calendar with their manager.
+1. We indicate "async only" periods if we need them during our working hours.
+1. Our PTO tracker is linked to the group Google calendar using `gitlab.com_3puidsh74uhqdv9rkp3fj56af4@group.calendar.google.com` as an additional calendar in the Calendar Sync settings.
+1. Any team members with on-call responsibilities should share their Pager Duty calendar with their manager.
 
 ### Impact
 
@@ -503,12 +494,12 @@ Software development often happens on a single machine, with a single applicatio
 
 This configuration is very different from what happens on GitLab.com and our customers' installations.
 
-The problem _"at scale"_ comes from a different order of magnitude than the development and testing environments.  
-Things like the number of servers, the number of incoming requests, the number of rows on a table or 
-the number of application versions will make the difference between something that works on your computer and 
+The problem _"at scale"_ comes from a different order of magnitude than the development and testing environments.
+Things like the number of servers, the number of incoming requests, the number of rows on a table or
+the number of application versions will make the difference between something that works on your computer and
 something that works in production.
 
-An extra challenge, almost unique to GitLab, is that we deploy from the main branch multiple times each day, but we have a monthly release cycle 
+An extra challenge, almost unique to GitLab, is that we deploy from the main branch multiple times each day, but we have a monthly release cycle
 and [zero downtime updates](https://docs.gitlab.com/ee/update/zero_downtime.html) is a requirement for both releases.
 
 Overlooking the [compatibility with multiple versions of the application running at the same time](https://docs.gitlab.com/ee/development/multi_version_compatibility.html)
@@ -521,7 +512,7 @@ You can find more detailed information in the links below. If this is not enough
 1. [Expand and Contract pattern](https://docs.gitlab.com/ee/development/multi_version_compatibility.html)
 2. [Zero Downtime Updates](https://docs.gitlab.com/ee/update/zero_downtime.html)
 3. [Sidekiq Compatibility across Updates](https://docs.gitlab.com/ee/development/sidekiq_style_guide.html#sidekiq-compatibility-across-updates)
-4. [Avoiding downtime in migrations](https://docs.gitlab.com/ee/development/database/avoiding_downtime_in_migrations.html) 
+4. [Avoiding downtime in migrations](https://docs.gitlab.com/ee/development/database/avoiding_downtime_in_migrations.html)
 5. [Uploads development documentation](https://docs.gitlab.com/ee/development/uploads.html)
 
 ## Team History

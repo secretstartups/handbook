@@ -1,13 +1,7 @@
 ---
-
 title: "Self-Managed Excellence"
 description: "This page lists more details about Self-Managed Excellence initiatives"
 ---
-
-
-
-
-
 
 ## Overview
 
@@ -42,9 +36,9 @@ tracks merge requests and issues metrics for GitLab Environment Toolkit, GitLab 
 
 The [Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/) are officially recommended environment designs for deploying GitLab at scale in production that are tested and maintained by the Reference Architecture group. The group, led by Quality Engineering, is comprised of various individuals across GitLab disciplines and has the following responsibilities:
 
-* To test, maintain and update the Reference Architectures - Officially recommended environment designs and guidance for deploying GitLab at scale in production
-* To review any existing or proposed environment designs not already covered in the documentation
-* To assess the need for updates to the Reference Architectures during and after escalations involving performance issues suspected to be caused by environment design.
+- To test, maintain and update the Reference Architectures - Officially recommended environment designs and guidance for deploying GitLab at scale in production
+- To review any existing or proposed environment designs not already covered in the documentation
+- To assess the need for updates to the Reference Architectures during and after escalations involving performance issues suspected to be caused by environment design.
 
 The group meets regularly on a [bi-weekly](https://docs.google.com/document/d/1FpXtHlIEKNuTCooUn5MxlMvkNvml5UWeBNRHCcDfMrA/edit) business to discuss any notable ongoings with customers environments and to discuss any changes or challenges being seen with the Reference Architectures. To be added to the meetings, please reach out to the Quality Engineering Manager, Enablement or in `#reference-architecture` Slack channel.
 
@@ -60,21 +54,9 @@ In FY23 we're focusing on enabling self-service approach for Reference Architect
 
 ### Metrics
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 15921901, dashboard: 1101145, embed: "v2"}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{< sisense chart="15921901" dashboard="1101145" >}}
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 16832951, dashboard: 1101145, embed: "v2"}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{< sisense chart="16832951" dashboard="1101145" >}}
 
 ## GitLab Environment Toolkit
 
@@ -100,29 +82,11 @@ In FY23 we're focusing on achieving Viable maturity status for GET in both funct
 
 ### Metrics
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 15914946, dashboard: 1101145, embed: "v2"}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{< sisense chart="15914946" dashboard="1101145" >}}
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 15921561, dashboard: 1101145, embed: "v2"}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{< sisense chart="15921561" dashboard="1101145" >}}
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 15921831, dashboard: 1101145, embed: "v2"}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{< sisense chart="15921831" dashboard="1101145" >}}
 
 ## GitLab Performance Tool
 
@@ -142,21 +106,9 @@ For more details about the roadmap and the list of planned issues, please refer 
 
 ### Metrics
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 15914977, dashboard: 1101145, embed: "v2"}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{< sisense chart="15914977" dashboard="1101145" >}}
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 15946692, dashboard: 1101145, embed: "v2"}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{< sisense chart="15946692" dashboard="1101145" >}}
 
 ## How to Engage with Us
 

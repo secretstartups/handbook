@@ -1,6 +1,6 @@
 {{ $slug := . }}
 {{- $img := "https://about.gitlab.com/images/gitlab-logo-extra-whitespace.png" -}}
-{{- $teamDict := partials.IncludeCached "data/team-by-slug" . -}}
+{{- $teamDict := partials.IncludeCached "team/by-slug" . -}}
 {{- $data := index $teamDict $slug -}}
 {{- with $data }}
   {{- with path.BaseName $data.picture }}

@@ -1,15 +1,18 @@
-{{- $teamDict := partials.IncludeCached "data/team-by-slug" page }}
-{{- $teamSlice := slice }}
-{{- range $k, $v := $teamDict }}
-    {{- $teamSlice = append $v $teamSlice }}
-{{- end }}
+{{- $teamSlice := partials.IncludeCached "data/team" page }}
+
+{{- $manager := "" }}
 {{- $counterparts := slice }}
 
-{{- $managerSlug := .Get 0 }}
+{{- with (.Get "manager") }}
+    {{- $manager = . }}
+{{- end }}
+{{- with (.Get "manager-role") }}
+    {{- $member := where $teamSlice "role" "like" . }}
+    {{- $manager = (index $member 0).slug }}
+{{- end }}
 
-{{- range .Params }}
-    {{- $role := . }}
-    {{ $members := where (where (where $teamSlice "role" "like" .) "reports_to" "ne" $managerSlug) "slug" "ne" $managerSlug }}
+{{- with (.Get "role") }}
+    {{ $members := where (where (where $teamSlice "role" "like" .) "reports_to" "ne" $manager) "slug" "ne" $manager }}
     {{ $counterparts = append $members $counterparts }}
 {{- end }}
 

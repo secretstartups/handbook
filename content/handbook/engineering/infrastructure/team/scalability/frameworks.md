@@ -1,11 +1,7 @@
 ---
 aliases: /handbook/engineering/infrastructure/team/scalability/frameworks.html
-
 title: "Scalability:Frameworks Team"
 ---
-
-
-
 
 ## Frameworks
 
@@ -20,7 +16,7 @@ Part of the scope of the Frameworks team is to define and model Technical Framew
 
 The team focuses on 'frameworking' services and technical features that have proven to present scaling challenges. These challenges exist for a variety of reasons, typically: high-load, critical services without dedicated owners; shared architectures; complex operational configuration. The expertise within the Frameworks team helps overcome these challenges by responding to technical projections (for example, saturation forecasts), promoting uniform processes, and increasing engineering efficiency by [eliminating toil](https://sre.google/sre-book/eliminating-toil/). Existing services and components that meet these criteria includes Redis, Sidekiq, and Object Storage.
  
-A Framework is a collection of attributes that describe everything necessary to build and operate a highly scalable, observable, reliable system or component, and it may include: 
+A Framework is a collection of attributes that describe everything necessary to build and operate a highly scalable, observable, reliable system or component, and it may include:
 
 - [Architectural Blueprints](https://about.gitlab.com/handbook/engineering/architecture/workflow/) used to define how the component fits into a bigger picture
 - [Developer Documentation and Guidelines](https://docs.gitlab.com/) used to ensure consistency between multiple components
@@ -36,7 +32,7 @@ Note: The Frameworks team isn't responsible for creating and owning all of the a
 
 The following people are members of the Scalability:Frameworks team:
 
-<%= direct_team(manager_slug: 'liam-m')%>
+{{< team-by-manager-slug "liam-m" >}}
 
 ## Team Responsibilities
 

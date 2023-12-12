@@ -8,7 +8,7 @@
   {{- errorf "The %q shortcode requires a single positional argument."}}
 {{- end }}
 
-{{- $teamMembers := partials.IncludeCached "data/team-by-name" . }}
+{{- $teamMembers := partials.IncludeCached "team/by-name" . }}
 
 <table>
   <thead>

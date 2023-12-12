@@ -1,14 +1,7 @@
 ---
-
 title: "Bug Prioritization"
 description: "This page describes the bug prioritization process performed by the quality engineering sub-department as part of the cross-functional prioritization process."
 ---
-
-
-
-
-
-
 
 ## Overview
 
@@ -31,7 +24,7 @@ As defined in our [Product Development Timeline](/handbook/engineering/workflow/
 An automated [Bug Prioritization triage report](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/template/group/bug-prioritization.yml.erb) is created for each group on a monthly basis containing the Top 10 open issues of `~"type::bug"`. The report is generated with issues that are prioritized based on the below conditions:
   1. Severity based on label `severity::*`
   1. Security vulnerabilities based on label `bug::vulnerability`
-  1. Customer issues based on label `customer` 
+  1. Customer issues based on label `customer`
   1. Age of the issues(oldest)
 
 Bug Prioritization triage report are automatically assigned to specific PMs, EMs of each group, listed in
@@ -44,12 +37,12 @@ files. If the group definition file is changed, we'll need to
 [run some scripts](https://gitlab.com/gitlab-org/quality/triage-ops#generating-policy-files-and-ci-jobs)
 to update the generated files as well.
 
-## Bug Prioritization Dashboard 
+## Bug Prioritization Dashboard
 
 The [bug prioritization dashboard](https://app.periscopedata.com/app/gitlab/1037965/Bug-Prioritization) can also be used to put together a suggested list of bugs for each group.
 This dashboard should be revisited for each milestone, as the data will change over time.
 
-As a general guideline, the total amount of bugs proposed should match the burndown plan from the dashboard for your specific group. 
+As a general guideline, the total amount of bugs proposed should match the burndown plan from the dashboard for your specific group.
 This total can be found under **Total Bugs** in the chart titled **Milestone planning (bug counts to schedule)**.
 
 It is also helpful to include the **Total Bug %** as well, which can be found in the **Milestone planning (bug % of scheduled issues)** chart.
@@ -59,7 +52,7 @@ This process is not intended to be one-size-fits-all, and groups are encouraged 
 
 ### Dashboard Walkthrough
 
-This table includes a list of the charts that can be found on the bug prioritization dashboard and a description of what each one represents. 
+This table includes a list of the charts that can be found on the bug prioritization dashboard and a description of what each one represents.
 
 The [bug prioritization dashboard walkthrough](https://www.youtube.com/watch?v=qd3NjPV6zkk) video also offers an overview of the dashboard with examples.
 
@@ -103,4 +96,4 @@ The following considerations can be helpful to keep in mind when determining whi
 
 We should also aim to align our decisions with the below [product prioritization framework](/handbook/product/product-processes/#prioritization)
 
-<%= partial "includes/master-prioritization-list.md" %>
+{{% include "includes/master-prioritization-list.md" %}}

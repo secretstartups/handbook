@@ -1,14 +1,7 @@
 ---
-
 title: "Enablement & SaaS Platforms Quality Engineering team"
 description: "Quality Engineering team for the Enablement & SaaS Platforms  Sections"
 ---
-
-
-
-
-
-
 
 ## Common Links
 
@@ -53,18 +46,17 @@ Every quarter, the team commits to [Objectives and Key Results (OKRs)](/company/
 
 ## Quality Performance Indicators for Enablement Section
 
-(<a href="https://app.periscopedata.com/app/gitlab/736012/Quality-Embedded-Dashboard" target="_blank">Sisense↗</a>)
-<embed width="100%" height="300" src="<%= signed_periscope_url({ dashboard: 736012, embed: 'v2', filters: [{name: 'Development_Section' , value: 'enablement' }]}) %>">
+{{< sisense-with-filters dashboard="736012" Development_Section="enablement" >}}
 
 ## Projects
 
-* [GitLab Performance Tool]
-* [GitLab Browser Performance Tool]
-* [GitLab Environment Toolkit]
-* [Performance Test Data]
-* [Performance Docker Images]
-* [Zero Downtime Testing Tool]
-* [Reference Architectures]
+- [GitLab Performance Tool]
+- [GitLab Browser Performance Tool]
+- [GitLab Environment Toolkit]
+- [Performance Test Data]
+- [Performance Docker Images]
+- [Zero Downtime Testing Tool]
+- [Reference Architectures]
 
 ## Quality Engineering process across groups
 
