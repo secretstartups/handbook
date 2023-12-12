@@ -82,6 +82,8 @@ As a result, the Composition Analysis development team is actively reserving cap
 Each milestone, an engineer is designated to handle each one of these responsibilities, by following the schedule defined in [this epic](https://gitlab.com/groups/gitlab-org/secure/-/epics/1). The rotation follows the development cycle, which means from the 18th of current month to the 17th of the following month.
 The total time allocation represents around 10% of the engineering team.
 
+Please keep track of the actions you're doing during your rotation and add notes in the corresponding issue (e.g. copying tools command executed locally, sharing relevant changes to projects and processes, etc.)
+
 #### Responsibilities - Security
 
 Time allocation: 15% of 1 engineer.
@@ -135,62 +137,91 @@ These items must be triaged continuously throughout the milestone which means th
 
 ### Security vulnerabilities triaging process
 
-We are responsible for triaging vulnerabilities reported on 2 sets of projects: our analyzers and their upstream scanner software. For the latter, we've set up mirrors to run our security scans.
+We are responsible for triaging vulnerabilities reported on 2 sets of projects: the projects maintained by GitLab and the upstream scanner software we might depend on. Though, we have different processes that apply depending on the situation.
 
-#### Review FedRAMP vulnerabilities
+#### Automation
 
-We use the [security-triage-automation](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation) tool to handle the following tasks:
+**This only applies to projects maintained by GitLab.**
 
-1. [Process vulnerabilities for a given project](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#process-vulnerabilities-for-a-given-project)
-1. [Resolve vulnerabilities and close their issues](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#resolve-vulnerabilities-and-close-their-issues)
+We use the [security-triage-automation](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation) tool in cunjunction with [scheduled pipelines in the release project](https://gitlab.com/gitlab-org/security-products/release/-/blob/master/.gitlab/ci/security-triage-automation.yml?ref_type=heads) to handle the following tasks:
 
-Note: Our goal is to migrate from [security-triage-automation](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation)
-to [Vulnmapper tool in the nearest future](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnmapper/-/issues/83). However, so far we're following the existing process. 
+1. [Create security issues for FedRAMP vulnerabilities (Container Scanning results only) still detected on the default branch ](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#process-vulnerabilities-for-a-given-project), executed at least once, on the first day of the month to match with FEDRamp compliance report cadence.
+   1. We do not yet automatically create security issues for non-FedRAMP vulnerabilites. Please see the [Non-FedRAMP vulnerabilities section](#non-fedramp-vulnerabilities) for more details.
+1. [Resolve all vulnerabilities (both FedRAMP and non-FedRAMP) no longer detected on the default branch and close their issues](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#resolve-vulnerabilities-and-close-their-issues), executed every 2 days.
 
-When using this tool to update vulnerabilities and issues, please keep track of the commands that were executed and add them to a private note in the reaction rotation issue.
+[The Vulnmapper tool](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnmapper) also provides some [automation to vulnerability management](https://handbook.gitlab.com/handbook/security/threat-management/vulnerability-management/#automation) like:
 
-1. On a weekly basis: review the vulnerability report to resolve no longer detected ones and close related issues. Note: It is not necessary to investigate vulnerabilities that are no longer detected in detail.
+1. adding labels to security issues to further classify the fix availability (fix_available, fix_unavailable, will_not_be_fixed, etc.).
+1. creating Deviation Request issues for FedRAMP related security issues that should have one.
+
+Note: Our goal is to centralize automation for vulnerability management in the [Vulnmapper tool in the nearest future](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnmapper/-/issues/83) and standardize our processes across the company. However, so far we're following the existing process based on the [security-triage-automation tool](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation).
+
+<details>
+  <summary>View manual process fallback when automation fails</summary>
+
+  **Please keep track of the commands that were executed and add them to a private note in the reaction rotation issue.**
+
+  #### Manually reviewing and resolving vulnerabilities
+
+    On a weekly basis: review the vulnerability report to resolve no longer detected ones and close related issues. Note: It is not necessary to investigate vulnerabilities that are no longer detected.
+
     1. Visit `Vulnerability Report Dashboards` to verify that there are vulnerabilities that can be resolved.
         - [Analyzer vulnerabilities that are no longer detected][Analyzer vulnerabilities that are no longer detected].
-            - Note: If you want to configure the report manually, select all [shared](#shared), [container scanning](#container-scanning), [dependency scanning](#dependency-scanning) projects, and apply the `No longer detected` activity filter and apply the `Confirmed` and `Needs triage` status.
-        - [Upstream scanner vulnerabilities that are no longer detected][Upstream scanner vulnerabilities that are no longer detected]
-            - Note: If you want to configure the report manually, select all [upstream scanner](#upstream-scanner-mirrors) projects, and apply the `No longer detected` activity filter, and apply the `No longer detected` activity filter and apply the `Confirmed` and `Needs triage` status.
-    2. Execute the `security-triage-automation` tool to [resolve vulnerabilities and close their issues](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#resolve-vulnerabilities-and-close-their-issues). This tool must be executed separately for each of the projects in the following categories:
-       - [container scanning](#container-scanning)
-       - [dependency scanning](#dependency-scanning)
+            - If you want to configure the report manually, select all [shared](#shared), [container scanning](#container-scanning), and [dependency scanning](#dependency-scanning) projects, and apply the `No longer detected` activity filter and apply the `Confirmed` and `Needs Triage` status.
+        - [License-db Vulnerability that are no longer detected][License-db vulnerabilities that are no longer detected]
+            - If you want to configure the report manually, select all [license-db](#license-db) projects, and apply the `No longer detected` activity filter and apply the `Confirmed` and `Needs Triage` status.
+    2. Execute the `security-triage-automation` tool to [resolve vulnerabilities and close their issues](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#resolve-vulnerabilities-and-close-their-issues). This tool must be executed separately for each of the projects in the following categories (if there are vulnerabilities to resolve):
+      - [container scanning](#container-scanning)
+      - [dependency scanning](#dependency-scanning)
+      - [license-db](#license-db)
     3. Verify in `Vulnerability Report Dashboards` that vulnerabilities have been resolved.
-1. As close to but not after the 1<sup>st</sup> of the month, `create` FedRAMP vulnerability issues with `CRITICAL, HIGH, MEDIUM, LOW`, and `UNKNOWN` severity levels by executing the `security-triage-automation` tool to [process vulnerabilities for a given project](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#process-vulnerabilities-for-a-given-project).This tool must be executed separately for each of the projects in the following categories:
-    - [container scanning](#container-scanning)
-    - [dependency scanning](#dependency-scanning)
 
-> All vulnerabilities **must** be remediated by their respective [SLA][Vulnerability SLAs]. This process only describes how to generate the required FedRAMP vulnerability issues required for the report.
+  #### Manually creating security issues for FedRAMP vulnerabilities
 
-#### Manually creating FedRAMP issues
+  Last working day before the 1<sup>st</sup> of the month, `create` security issues for FedRAMP vulnerability of the CONTAINER_SCANNING type and CRITICAL, HIGH, MEDIUM, LOW, and UNKNOWN severity levels by executing the `security-triage-automation` tool to [process vulnerabilities for a given project](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#process-vulnerabilities-for-a-given-project) (please make sure to adjust CLI options accordingly). This tool must be executed separately for each of the projects in the following categories:
+      - [container scanning](#container-scanning)
+      - [dependency scanning](#dependency-scanning)
 
-In cases where automation fails, you must create the deviation requests manually before the issues reach SLA.
-To do so, use the following procedure.
+  #### Manually creating FedRAMP issues
 
-* Open a DR issue with the [operational requirement template](https://gitlab.com/gitlab-com/gl-security/security-assurance/team-security-dedicated-compliance/poam-deviation-requests/-/issues).
-    * Update the `Vulnerability Details` section with a link to the advisory (RedHat tracker usually), CVE ID, severity, and CVSS score.
-    * Update the `Justification Section` with:
+  In cases where automation fails, you must create the [Deviation Requests](/handbook/security/security-assurance/dedicated-compliance/poam-deviation-request-procedure/) manually before the issues reach SLA.
+  To do so, use the following procedure.
 
-    > The OS vendor has published an updated advisory for <CVE_ID>, indicating that package <PACKAGE_NAME> has not yet had a fix released for this vulnerability. Until a fix is available for the package, this vulnerability cannot practically be remediated.
+  1. Open a DR issue with the [operational requirement template](https://gitlab.com/gitlab-com/gl-security/security-assurance/team-security-dedicated-compliance/poam-deviation-requests/-/issues/new?issuable_template=operational_requirement_template).
+      1. Update the `Vulnerability Details` section with a link to the advisory (RedHat tracker usually), CVE ID, severity, and CVSS score.
+      1. Update the `Justification Section` with:
 
-    * Update the `Attached Evidence` section with:
+      > The OS vendor has published an updated advisory for <CVE_ID>, indicating that package <PACKAGE_NAME> has not yet had a fix released for this vulnerability. Until a fix is available for the package, this vulnerability cannot practically be remediated.
 
-    > As this operational requirement represents a dependency on a vendor-published package to address this vulnerability, no additional evidence has been supplied. Please refer to the linked vendor advisory in the above justification.
+      1. Update the `Attached Evidence` section with:
 
-    * Link it to the security issue: `/relate <issue_id>`
-  * Update the security issue accordingly
+      > As this operational requirement represents a dependency on a vendor-published package to address this vulnerability, no additional evidence has been supplied. Please refer to the linked vendor advisory in the above justification.
 
-    ```
-    /label ~"FedRAMP::Vulnerability" ~"FedRAMP::DR Status::Open"
-    /milestone %Backlog
-    ```
+      1. Link it to the security issue: `/relate <issue_id>`
+    1. Update the security issue accordingly
 
-#### Security Policy
+      ```
+      /label ~"FedRAMP::Vulnerability" ~"FedRAMP::DR Status::Open"
+      /milestone %Backlog
+      ```
+</details>
 
-We priortize findings by their CVSS severities and [SLAs][Vulnerability SLAs], and currently focus on security findings with these severity levels:
+#### FedRAMP vulnerabilities
+
+**This only applies to projects maintained by GitLab.**
+
+Management of FedRAMP vulnerability is handled by [automation](#automation). Please check the manual process fallback for details.
+
+#### Non-FedRAMP vulnerabilities
+
+**This only applies to projects maintained by GitLab.**
+
+We do not yet have the same automation in place for non-FedRAMP vulnerabilites as for FedRAMP ones since it represents a too important volume to manage for our team.
+Some necessary [improvements in the vulnmapper tool](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnmapper/-/issues/83) are required prior to enabling this. In the meantime, we favor a more focused approach for these vulnerabilities.
+
+##### Security Policy
+
+We prioritize findings by their CVSS severities and [SLAs][Vulnerability SLAs], and currently focus on security findings with these severity levels:
 
 - Critical
 - High
@@ -199,25 +230,39 @@ An exception is made for `Container scanning` findings - we focus only on findin
 
 Please utilize all the time you have set aside. If you complete all the ones at Critical and High, please continue to triage - we want to address all findings but we are working in a risk based order.
 
-#### Triaging vulnerabilities
+##### Triaging vulnerabilities
 
 We use the Vulnerability Report with filters to focus on items matching [our policy](#security-policy) and reported on the relevant projects.
 
 1. [Analyzers Vulnerability Report][Analyzers Vulnerability Report]
-  - To configure the report manually, select all [shared](#shared), [container scanning](#container-scanning), [dependency scanning](#dependency-scanning) and [license compliance](#license-compliance) projects.
-1. [Upstream Scanners Vulnerability Report][Upstream Scanners Vulnerability Report]
-  - To configure the report manually, select all [upstream scanner](#upstream-scanner-mirrors) projects.
-1. [License-db Vulnerability Report](https://gitlab.com/groups/gitlab-org/security-products/license-db/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL,HIGH&projectId=39193358,39229232,39233486,39298809,39622674,40857363,45266022)
+  - To configure the report manually, select all [shared](#shared), [container scanning](#container-scanning), and [dependency scanning](#dependency-scanning) projects and apply the `Still detected` activity filter and apply the `Needs Triage` status.
+1. [License-db Vulnerability Report[License-db Vulnerability Report]
+  - To configure the report manually, select all [license-db](#license-db) projects and apply the `Still detected` activity filter and apply the `Needs Triage` status.
 
-For each "Detected" item, investigate and either [dismiss](#dismissing-a-vulnerability) or [confirm](#confirming-a-vulnerability) it. If it's not clear whether there's indeed a threat, escalate to our [Application Security team](/handbook/security/security-engineering/application-security/).
-
-For vulnerabilities discovered in upstream scanners, an issue must be created in GitLab's issue tracker, and we should work with the relevant Open Source community to help provide a resolution. As a last resort, we can patch locally or fork the upstream project temporarily to fix the vulnerability sooner.
+For each item, investigate and either [dismiss](#dismissing-a-vulnerability) or [confirm](#confirming-a-vulnerability) it. If it's not clear whether there's indeed a threat, escalate to our [Application Security team](/handbook/security/security-engineering/application-security/).
 
 > Refer to [Vulnerability status definitions](https://docs.gitlab.com/ee/user/application_security/vulnerabilities/#vulnerability-status-values) in case you are unsure of what each of them mean.
 
+#### Upstream scanners vulnerabilities
+
+**This only applies to projects NOT maintained by GitLab.**
+
+We review vulnerabilities detected on upstream scanners when upgrading to a newer version. See the [Security checks when updating an upstream scanner section](#security-checks-when-updating-an-upstream-scanner).
+
+We currently have a limited capacity to triage vulnerabilities reported on our upstream scanners. Continuously triaging vulnerabilities reported for these projects is done on a best effort basis.
+
+##### Triaging vulnerabilities
+
+We use the Vulnerability Report with filters to focus on items matching [our policy](#security-policy) and reported on the relevant projects.
+
+1. [Upstream Scanners Vulnerability Report][Upstream Scanners Vulnerability Report]
+  - To configure the report manually, select all [upstream scanner](#upstream-scanner-mirrors) projects.
+
+For vulnerabilities discovered in upstream scanners, an issue must be created in GitLab's issue tracker, and we should work with the relevant Open Source community to help provide a resolution. As a last resort, we can patch locally or fork the upstream project temporarily to fix the vulnerability sooner.
+
 #### Dismissing a vulnerability
 
-When there is no doubt a vulnerability is a false-positive, it can be "Dismissed".
+When there is no doubt a vulnerability is a false-positive, it can be "Dismissed" unless it related to a FedRAMP image (fips).
 Select the "Dismiss" option from the vulnerability status options.
 Finally, make sure to comment on the vulnerability status change notification to explain why.
 
@@ -407,8 +452,9 @@ needed for [Operational Container Scanning](https://docs.gitlab.com/ee/user/clus
 
 As some of our analyzers rely on open source software, we include them in our security testing to increase coverage and reduce risk.
 
-To do so, we mirror their repository and execute our security scans on them:
+To do so, we mirror their repository and execute our security scans on them (when relevant):
 
+- [grype](https://gitlab.com/gitlab-org/security-products/dependencies/grype)
 - [trivy](https://gitlab.com/gitlab-org/security-products/dependencies/trivy)
 - [trivy-db](https://gitlab.com/gitlab-org/security-products/dependencies/trivy-db)
 - [trivy-db-data](https://gitlab.com/gitlab-org/security-products/dependencies/trivy-db-data)
@@ -455,8 +501,10 @@ Before releasing an analyzer with a newer version of its upstream scanner, we mu
 - [Stage Group dashboad on Grafana](https://dashboards.gitlab.net/d/stage-groups-composition_analysis/stage-groups-group-dashboard-secure-composition-analysis?orgId=1)
 
 
-[Analyzers Vulnerability Report]: https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL&severity=HIGH&projectId=6126012&projectId=9450192&projectId=9450195&projectId=9450197&projectId=13150952&projectId=15369510&projectId=17450826&projectId=18446184&projectId=24673064
-[Upstream Scanners Vulnerability Report]: https://gitlab.com/groups/gitlab-org/security-products/dependencies/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL&severity=HIGH&projectId=25586931,30616761,30684590,35335143,39545454,39545481
+[Analyzers Vulnerability Report]: https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL&severity=HIGH&projectId=13150952,15369510,24673064,6126012,9450192&activity=STILL_DETECTED
+[License-db Vulnerability Report]: https://gitlab.com/groups/gitlab-org/security-products/license-db/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL,HIGH&projectId=39193358,39229232,39233486,39298809,39622674,40857363,45266022&activity=STILL_DETECTED)
+[Upstream Scanners Vulnerability Report]: https://gitlab.com/groups/gitlab-org/security-products/dependencies/-/security/vulnerabilities/?state=DETECTED&projectId=30616761,30684590,35335143,39545454,39545481,51420921&severity=CRITICAL,HIGH&activity=STILL_DETECTED
+[Analyzer vulnerabilities that are no longer detected]: https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=CONFIRMED,DETECTED&projectId=13150952,15369510,17450826,18446184,24673064,6126012,9450192,9450195,9450197&activity=NO_LONGER_DETECTED
+[License-db vulnerabilities that are no longer detected]: https://gitlab.com/groups/gitlab-org/security-products/license-db/-/security/vulnerabilities/?state=CONFIRMED,DETECTED&projectId=39193358,39229232,39233486,39298809,39622674,40857363,45266022&activity=NO_LONGER_DETECTED
 [Upstream scanner vulnerabilities that are no longer detected]: https://gitlab.com/groups/gitlab-org/security-products/dependencies/-/security/vulnerabilities/?state=CONFIRMED,DETECTED&severity=CRITICAL&severity=HIGH&projectId=25588419,30616761,30684590,35335143,39545454,39545481&activity=NO_LONGER_DETECTED
-[Analyzer vulnerabilities that are no longer detected]: https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=CONFIRMED,DETECTED&projectId=13150952,15369510,17450826,18446184,24673064,6126012,9450192,9450195,9450197&activity=NO_LONGER_DETECTED&severity=CRITICAL,HIGH
 [Vulnerability SLAs]: /handbook/security/threat-management/vulnerability-management/#remediation-slas
