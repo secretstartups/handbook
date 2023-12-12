@@ -6,10 +6,6 @@ description: "Editing and creating content using Contentful"
 
 
 
-
-
-
-
 # Contentful Guide
 
 The Digital Experience team is currently migrating the [marketing site](https://about.gitlab.com/) to our new CMS tool, Contentful. This work is ongoing throughout FY24Q4 and into the new year, but we are starting to onboard different teams onto Contentful so that they may self-serve their own content changes. 
@@ -70,9 +66,21 @@ The process for creating new content in Contentful is varied.
 </figure>
 <!-- blank line -->
 
+
+### Roles and Permissions
+- *Administrator*: has full access to everything in the space.
+- *CMS Administrator*: can create, read, update, publish, and delete all content aside from `Confidential` entries. Can modify space settings, access existing API keys, and can create and update API keys.
+- *Confidential*: can create, edit, publish, archive and delete all content in a space, including `Confidential` content.
+- *Creator*: can create and edit all content in a space (aside from `Confidential` content), but cannot publish it.
+- *Publisher*: can create, edit, publish, archive and delete all content in a space (aside from `Confidential` content). This person should be able to administer their own team.
+- *Reviewer*: can edit all content in a space (aside from `Confidential` content), but cannot publish it.
+
+
 ## Getting access to Contentful
 
 Please fill out an access request [here.](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/)
+
+
 
 
 

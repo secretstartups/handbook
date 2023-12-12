@@ -198,7 +198,7 @@ In addition to the topics from the [Topic Calendar](#offsite-topic-calendar) abo
 
 These topics are discussed by E-Group before the offsite:
 
-1. Review of [Top Annual Cross-Functional Initiatives](/handbook/company/top-cross-functional-initiatives/) at least two weeks in advance of the Board Meeting that precedes the offsite (80 minutes or 2x45 minutes)
+1. Yearly and OKR progress. These will be reviewed in [monthly touch point meetings](/company/offsite/#monthly-touch-point-meetings).
 1. Planning discussions. These will be faciliated by the Finance Team. Many of them will occur during E-Group Weeklies.
 
 ### Collaborating with EBAs on the Offsite

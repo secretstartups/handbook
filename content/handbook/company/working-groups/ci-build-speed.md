@@ -48,4 +48,11 @@ Additionally, new players are entering the market advocating for up to 5x GitLab
 | Executive sponsor     | Mike Flouton @mflouton |
 | Facilitator           | Gabriel Engel @gabrielengel_gl |
 | Functional Lead(s)    | tbd                    |
-| Member                | tbd                    |
+| Member                | Allison Browne @allison.browne |
+| Member                | Grzegorz Bizon @grzesiek |
+| Member                | Arran Walker @ajwalker |
+| Member                | Oliver Falk @ofalk |
+| Member                | Michael Friedrich @dnsmichi |
+| Member                | Marius Bobin @mbobin |
+| Member                | Cheryl Li @cheryl.li |
+

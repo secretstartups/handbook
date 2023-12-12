@@ -81,11 +81,7 @@ In general, feature descriptions should follow this basic structure:
 
 > A list of CI job code snippets that will display next to the online pipeline editor. You use these code snippets as the building blocks of your pipeline by copying the jobs YAML from this list and pasting it into your pipeline code. Thus, there are fewer steps in the process of creating new pipelines.
 
-{{% details summary="**More feature description examples**" %}}
-<figure class="video_container">
-    <iframe src="https://docs.google.com/document/d/e/2PACX-1vQff1-XyGoZeWaAyHhANrPjIQ54WXX8Je06_DzIsUtMK6ZQ6IhzMrvM3PGdXJLzu_Q9Z0Jz_5W41FCm/pub?embedded=true"></iframe>
-</figure>
-{{% /details %}}
+- For more feature description examples, see this [CI features list Google Doc](https://docs.google.com/document/d/e/2PACX-1vQff1-XyGoZeWaAyHhANrPjIQ54WXX8Je06_DzIsUtMK6ZQ6IhzMrvM3PGdXJLzu_Q9Z0Jz_5W41FCm/pub).
 
 #### Tips & tricks
 
@@ -134,11 +130,7 @@ The standardized questionnaire for the Kano model consists of two questions that
 
 The benefit of using the standardized questionnaire is that basically all of the research design is already done, and you can reuse it from previous studies. Also, taking a consistent approach to this methodology reduces the risk of introducing errors to the process.
 
-{{% alert title="**Example of a research plan**" color="primary" %}}
-<figure class="video_container">
-    <iframe src="https://docs.google.com/document/d/e/2PACX-1vRi6Dq6sDBtkggW5oEnmkTsLGx6WRvKrs8EV4aXaAhIlEpOgykK2PJEEp8uj2UfEymbQgLJYBVavR1c/pub?embedded=true"></iframe>
-</figure>
-{{% /alert %}}
+For ane example of a research plan, see this past [Kano study plan in Google Docs](https://docs.google.com/document/d/e/2PACX-1vRi6Dq6sDBtkggW5oEnmkTsLGx6WRvKrs8EV4aXaAhIlEpOgykK2PJEEp8uj2UfEymbQgLJYBVavR1c/pub)
 
 #### Questionnaire structure
 
@@ -162,9 +154,9 @@ Example [Dovetail project](https://dovetailapp.com/projects/5sVL84ZlY492J2jOt5W7
 
 We recommend collecting responses from 50 to 80 users in your target audience and analyze them using discrete analysis described in [The Complete Guide to Kano Model](https://foldingburritos.com/kano-model/). This approach will provide you with "the numbers" that can back up your prioritization decisions, but you will still lack the understanding behind the prioritization.
 
-For the analysis use this [spreadsheet template](https://drive.google.com/drive/search?q=kano%20model:%20Survey%20for%20feature%20prioritization){:target="_blank"} (GitLab internal link).
+For the analysis use this [spreadsheet template](https://docs.google.com/spreadsheets/d/14D-ayhw15J9o7ixzFh7pda_SZQkhZTRsyJvHi_5JXbk/edit?usp=sharing) (GitLab internal link).
 
-Example [report](https://drive.google.com/drive/search?q=gitlab%20plus:%20kano%20research) (GitLab internal link) that summarizes the output from the quantitative approach.
+Example [report](https://docs.google.com/presentation/d/1aLt3QkYthTlbjBig0efWlbA11FkXBTNZdfh4Yk3o3g4/edit?usp=sharing) (GitLab internal link) that summarizes the output from the quantitative approach.
 
 Taking the quantitative and qualitative approach will result in a more complete story behind the data. In addition to prioritization, you'll also be able to explain *why* participants scored the way they did, too. Combine these two approaches to get the most of your Kano model study.
 

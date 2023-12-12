@@ -263,6 +263,10 @@ The [Drexler-Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sib
 1. High Performance - Wow! The team is accomplishing more than it expected. The team has taken off, creativity is fostered and goals are surpassed.
 1. Renewal - Why continue? The team is given recognition and celebrates achievements of individuals that produce valuable work. Reflect on lessons learned and reassess for the future.
 
+**Manager Resource: Identifying & Addressing Burnout**
+
+Building and maintaining high performance includes staying mindful of team well-being and potential burnout. With GitLab’s results-driven culture, the demands of product innovation around AI, the fast-paced and ever-evolving business environment, our organization recognizes the crucial balance between achieving ambitious goals and maintaining the well-being of our team members. Everyone can access this handbook [resource designed for managers to identify & address burnout](https://handbook.gitlab.com/handbook/leadership/managing-burnout/#manager-guide-identifying--addressing-burnout). This has an ongoing impact on team performance.
+
 ### Manager M-Team Groups
 
 M-teams are management support groups made up of 3 to 6 managers who are in timezones that allow for sync meetings among members. M-teams should set up a regular meeting on a cadence agreed by the members with the agenda being "what's challenging this week?". Decide who will facilitate and each person will get a chance to have their challenge discussed in the meeting. When it's your turn, you talk a little about what you're struggling with. M-groups agree to a level of [confidentiality](https://3plusinternational.com/2017/10/confidentiality-and-the-potential-loss-of-trust/) so that group members are willing to be vulnerable; vulnerability leads to trust and better outcomes for the group.
