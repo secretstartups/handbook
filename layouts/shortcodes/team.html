@@ -3,19 +3,22 @@
 {{- range $team }}
   {{ $allDepartments = uniq (append .departments $allDepartments) }}
 {{- end }}
-<div class="mb-3 g-2 row">
-<div class="col-auto">
-<label for="department" class="h3 form-label">Filter by Department:</label>
+
+<div class="my-6 g-2 row">
+  <div class="col-auto">
+  <label for="department" class="h4 form-label">Filter by Department:</label>
+  </div>
+  <div class="col-auto">
+  <select class="form-select" id="department">
+      <option value="all" selected>All Departments</option>
+      {{- range (sort $allDepartments) }}
+        <option value="{{ . }}">{{ . }}</option>
+      {{- end }}
+    </select>
+  </div>
 </div>
-<div class="col-auto">
-<select class="form-select" id="department">
-    <option value="all" selected>All Departments</option>
-    {{- range (sort $allDepartments) }}
-      <option value="{{ . }}">{{ . }}</option>
-    {{- end }}
-  </select>
-</div>
-</div>
+
+<p>&nbsp;</p>
 
 <div class="container">
   <div class="row row-cols-4">

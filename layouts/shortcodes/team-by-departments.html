@@ -45,8 +45,8 @@
     <tbody>
         {{- range $k, $v := $teamDict }}
           <tr>
-            <td>{{ partial "member" $v }}</td>
-            <td>{{ $v.role | safe.HTML }}</td>
+              <td>{{ partial "member-by-gitlab" $v.gitlab }}</td>
+              <td>{{ $v.role | safe.HTML }}</td>
           </tr>
         {{- end }}
     </tbody>
