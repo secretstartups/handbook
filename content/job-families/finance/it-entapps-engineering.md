@@ -132,7 +132,7 @@ Extends the Senior IT Enterprise Applications Engineer responsibilities plus:
 
 ## Staff IT Enterprise Applications Engineer
 
-The Staff IT Enterprise Applications Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the IT Manager, Enterprise Applications Engineering.
+The Staff IT Enterprise Applications Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the Manager, IT Enterprise Applications Engineering or Director, IT Enterprise Applications Engineering.
 
 ### Staff IT Enterprise Applications Engineer Responsibilities
 
@@ -156,7 +156,7 @@ Extends the Senior IT Enterprise Applications Engineer requirements plus:
 
 ## Principal IT Enterprise Applications Engineer
 
-The Principal IT Enterprise Applications Engineer is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the IT Manager, Enterprise Applications.
+The Principal IT Enterprise Applications Engineer is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the Manager, IT Enterprise Applications Engineering or Director, IT Enterprise Applications Engineering.
 
 ### Principal IT Enterprise Applications Engineer Responsibilities
 
@@ -179,7 +179,7 @@ Extends the Staff IT Enterprise Applications Engineer requirements plus:
 
 ## Distinguished IT Enterprise Applications Engineer
 
-The Distinguished IT Enterprise Applications Engineer is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the IT Manager, Enterprise Applications.
+The Distinguished IT Enterprise Applications Engineer is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the Manager, IT Enterprise Applications Engineering or Director, IT Enterprise Applications Engineering.
 
 ### Distinguished IT Enterprise Applications Engineer Responsibilities
 
