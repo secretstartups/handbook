@@ -42,11 +42,15 @@ The current headcount number will be updated each quarter following our quarterl
 
 These awards and lists recognize GitLab's unique culture and help us spread the word about why this is such a great place to work. Here are the latest:
 
-**2023**
+<details><summary>2023</summary>
+
 - [Great Place to Work Certified, 2023-2024](https://www.greatplacetowork.com/certified-company/7013799)
 - [Best Places to Work, Builtin, 2023](https://builtin.com/awards/us/2023/best-places-to-work?utm_source=bambu&utm_medium=social&utm_campaign=advocacy&blaid=4012565)
 
-**2022**
+</details>
+
+<details><summary>2022</summary>
+
 - [Best Workplaces for Parents, Fortune, 2022](https://www.greatplacetowork.com/best-workplaces-parents?mkt_tok=NTIwLUFPTy05ODIAAAGIch_eubKDhGDzybtHOPnrcxe8dgsYnuW1QwdVR2XCewDx-EJjcFjfAJYwniK6cFNS-VLk-V5Kk2hzXRcCz-XNjpJys6F6_QGqCaPBDJxQtoJPDA)
 - [Best Companies for Remote Workers, Quartz, 2022](https://qz.com/list/best-companies-to-work-from-home-2022/gitlab-5)
 - [Best Workplaces in Technology, Small & Medium, Fortune, 2022](https://fortune.com/best-small-workplaces-technology/2022/gitlab/)
@@ -56,13 +60,19 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 - [Great Place to Work Certified, 2021-2022](https://www.greatplacetowork.com/certified-company/7013799)
 - [Best Workplaces in the SF Bay Area, Fortune, 2022](https://www.greatplacetowork.com/best-companies-in-the-us/)
 
-**2021**
+</details>
+
+<details><summary>2021</summary>
+
 - [Best Tech Companies For Remote Jobs in 2021 according to Glassdoor, Forbes](https://www.forbes.com/sites/louiscolumbus/2020/12/20/the-best-tech-companies-for-remote-jobs-in-2021-according-to-glassdoor/?sh=2922f81c2ceb)
 - [Fortune's Best Small & Medium Workplaces in 2020](https://www.greatplacetowork.com/best-workplaces/smb/2020?category=medium)
 - [Great Place to Work Certified, 2020-2021](https://www.greatplacetowork.com/certified-company/7013799)
 - [Best Engingeering Departments, Comparably, 2021](https://www.businessinsider.com/companies-with-the-best-engineering-teams-according-to-employees-comparably-2021-4#here-is-the-full-list-of-companies-with-the-best-engineering-departments-26)
 
-**2020**
+</details>
+
+<details><summary>2020</summary>
+
 - [Best Startup Employers in 2020, Forbes](https://www.forbes.com/americas-best-startup-employers/#46146ae96527)
 - [Cloud 100 List, Forbes, 2020](https://www.forbes.com/cloud100/#12ceb6e35f94)
 - [No. 2 top private employer via Hired's Brand Health Report, 2020](https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/22/the-top-40-brands-people-want-to-work-for-in-the-tech-industry/amp/)
@@ -72,15 +82,21 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 - [Best Work Life Balance, Comparably, 2020](https://www.businessinsider.com/best-companies-if-you-want-to-achieve-work-life-balance-2020-10)
 - [Top 100 Remote Work Companies 2020, FlexJobs](https://www.flexjobs.com/blog/post/100-top-companies-with-remote-jobs-2020/)
 
-**2019**
+</details>
+
+<details><summary>2019</summary>
+
 - [Best Workplaces in 2019, Inc.](https://about.gitlab.com/blog/2019/05/16/building-an-award-winning-culture-at-gitlab/)
 - [18 Great Companies For Millennials in the San Francisco Area](https://www.comparably.com/articles/18-great-companies-for-millennials-in-the-san-francisco-area/)
 - [Best Company Culture, Comparably, 2019](https://www.comparably.com/news/best-company-culture-2019/)
 - [Best Companies for Women, Comparably, 2019](https://www.comparably.com/news/best-companies-for-women-2019/)
 - [Best Companies for Diversity, Comparably, 2019](https://www.comparably.com/news/best-companies-for-diversity-2019/)
 
+</details>
 
 ## Outreach Resources
+
+<details><summary>Articles/Blogs/Features</summary>
 
 | Articles/Blogs/Features | Category |
 | ------ | ------ |
@@ -96,9 +112,17 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 | [Preventing burnout: A manager's toolkit](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/) | General |
 | [Use your uniqueness as your superpower](https://about.gitlab.com/blog/2022/04/04/advice-for-women-seeking-careers-in-tech/) | General |
 
+</details>
+
+<details><summary>Podcasts</summary>
+
 | Podcasts | Category |
 | ------ | ------ |
 | [Building an all-remote company](https://hbr.org/podcast/2022/09/advice-from-the-ceo-of-an-all-remote-company) | General / All-remote |
+
+</details>
+
+<details><summary>Videos</summary>
 
 | Videos | Category |
 | ------ | ------ |
@@ -120,6 +144,8 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 | [GitLab's core values](https://youtu.be/_8DFFHYAtj8) | General |
 | [What is GitLab?](https://www.youtube.com/watch?v=tmEv_XgwR6Y) | General |
 | [Black is Tech](https://vimeo.com/746975612) | DIB |
+
+</details>
 
 There are a number of additional videos on our [corporate YouTube channel](https://www.youtube.com/gitlab), as well as the GitLab Unfiltered YouTube channel about working at GitLab.
 
