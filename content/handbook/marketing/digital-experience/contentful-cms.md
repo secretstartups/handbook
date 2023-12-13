@@ -60,6 +60,7 @@ The process for creating new content in Contentful is varied.
 4. To create a _net new page_, please fill out an [issue with the Digital Experience team](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues/new#). We will likely need resources from the content team, design team, and engineering team to set up a new page. 
 
 ### Video Walkthrough of Contentful
+
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/6pdXijDzYkg?si=8JbdUBmzPHcWgzTk" frameborder="0" allowfullscreen="true"> </iframe>
@@ -68,12 +69,29 @@ The process for creating new content in Contentful is varied.
 
 
 ### Roles and Permissions
+
 - *Administrator*: has full access to everything in the space.
 - *CMS Administrator*: can create, read, update, publish, and delete all content aside from `Confidential` entries. Can modify space settings, access existing API keys, and can create and update API keys.
 - *Confidential*: can create, edit, publish, archive and delete all content in a space, including `Confidential` content.
 - *Creator*: can create and edit all content in a space (aside from `Confidential` content), but cannot publish it.
 - *Publisher*: can create, edit, publish, archive and delete all content in a space (aside from `Confidential` content). This person should be able to administer their own team.
 - *Reviewer*: can edit all content in a space (aside from `Confidential` content), but cannot publish it.
+
+
+## Getting help with Contentful
+
+### Contentful Office Hours
+
+The Digital Experience team will be hosting weekly drop-in office hours for specific questions, walkthroughs, or feature requests. We can screenshare and work through issues together. The office hours are on the digital experience calendar, and are being added to the marketing team calendar.
+
+Times: 
+- Every Tuesday from 11:30am EST - 11:55am EST
+- Every second Thursday from 4:00pm EST - 4:55pm EST
+
+### Digital Experience Slack Channel
+
+For urgent requests, reach out to our team in #digital-experience-team on slack. 
+
 
 
 ## Getting access to Contentful
