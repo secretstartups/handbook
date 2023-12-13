@@ -12,7 +12,7 @@ The UX research team is comprised of [UX Research Operations Coordinators](/hand
 
 ### UX Researcher working models
 
-To maximize output and growth opportunities, we have established two working models that UX Researchers can choose to work within.
+To maximize research output and growth opportunities, we have established two working models that UX Researchers can choose to work within.
 
 #### Single UX Researcher support working model
 
