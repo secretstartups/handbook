@@ -65,7 +65,7 @@ The assigned UX Researchers are the go-to person for their assigned [stage group
 1. We follow a [priortization process](/handbook/product/ux/ux-research/research-prioritization/) that helps us distribute our time effectively across the research projects occurring within our stage groups.
 1. Like other departments at GitLab, UX Researchers follow the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) and use milestones to schedule their work. Milestones change monthly ([find out the dates for upcoming milestones](https://gitlab.com/groups/gitlab-org/-/milestones)).
 
-Note that UX Researchers adopting the collaborative UX Research working model can operate in a number of ways. The UX Researchers who are working in this model will work closely with each other and with the stakeholders in the product stage to determine the most suitable way to operate, particularly on who the go-to person should be, and for what, and how to initiate, respond to, and work on research projects. The flexibility here is intentional since teams often work differently with unique goals. 
+Note that UX Researchers adopting the Collaborative UX Research working model can operate in a number of ways. The UX Researchers who are working in this model will work closely with each other and with the stakeholders in the product stage to determine the most suitable way to operate, particularly on who the go-to person should be, and for what, and how to initiate, respond to, and work on research projects. The flexibility here is intentional since teams often work differently with unique goals. 
 
 ## How UX Researchers decide what to research
 
