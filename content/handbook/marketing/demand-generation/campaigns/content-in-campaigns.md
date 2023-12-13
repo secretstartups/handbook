@@ -90,11 +90,27 @@ If you have any questions on this process, please contact `@aoetama` in the [#ma
    - [ ] Enterprise
    - [ ] Mid-Market
    - [ ] SMB
+   - [ ] PubSec
+         * [ ] Civilian (CIV)
+         * [ ] Department of Defense (DOD)
+         * [ ] Federal Systems Integrators (FSI)
+         * [ ] National Security Group (NSG)
+         * [ ] PUBSEC General Nurture
+         * [ ] State, Local and Education (SLED)
 * **Primary Buying Stage:**
    - [ ] Awareness
    - [ ] Consideration
    - [ ] Decision/Purchase
 * **Primary Persona:** 
+   - [ ] User (ICs/Managers)
+   - [ ] Buyer (Director+)
+   - [ ] Default
+* ** Region:**
+   - [ ] GLOBAL
+   - [ ] AMER
+   - [ ] APAC
+   - [ ] EMEA
+   - [ ] LATAM
 * **Language:** 
 * **Key metrics for success:** `Add goals here (e.g. number of downloads, INQs, MQLs, SAOs)`
 * **Marketo Program Name:** `YYYY_Type_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_eBook_BegGuideGitOps`. This will be used for MKTO/SFDC program. -->
@@ -136,7 +152,7 @@ If you have any questions on this process, please contact `@aoetama` in the [#ma
 * [ ] [Landing Page Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-content-landing-page) - Content & Campaigns _(only if promoting via Facebook and Google AdWords)_
 * [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - Digital Marketing
 * [ ] [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-gtm-organic) - Social
-* [ ] [Blog](/handbook/marketing/blog/) - Editorial
+* [ ] [Blog](https://about.gitlab.com/handbook/marketing/blog/) - Editorial
 * [ ] [PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) - PR
 
 </details>
