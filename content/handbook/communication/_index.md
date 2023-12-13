@@ -212,7 +212,7 @@ Linking should not be in one direction. We should go beyond deep-linking to crea
 In informal acknowledgement scenarios, such as on Slack or on issue comments, it is common practice to use the following:
 
 - Slack emoji reaction of `:ack:` or an `ACK` response => Acknowledged, or message received
-- Eyes 👀 => I’ll check this out or seen and will do
+- Eyes 👀 => I’ll check this out | seen | working on it
 - Thumbs up 👍 => good idea
 - White checkmark ✅ => task is complete or done
 - Heart ❤ ️= expression of gratitude or appreciation
@@ -1216,7 +1216,7 @@ Start by understanding what we mean by respecting time. We should err toward put
 The following tips provide ways to work respectfully with others given this context, though is not an exhaustive list:
 
 - If you're only referring to someone, but don't actually need their attention, and want to spare them from getting notified, spell out their name normally without `@` mentioning them.
-- You also do not need to `@` mention someone if they are part of a Slack thread unless you need their attention as soon as possible, since Slack has a dedicated view for threads.
+- You also do not need to `@` mention someone if they are part of a Slack thread unless you need their attention (for them to review, respond, etc.), since Slack has a dedicated view for threads.
 - Slack messages should be considered asynchronous communication, and you should not expect an instantaneous response; you have no idea what the other person is doing.
 - Do not feel obligated to respond to Slack messages when you are not working.
 - Feel free to send a colleague a link to these guidelines if the communication in Slack should be done **asynchronously**.
