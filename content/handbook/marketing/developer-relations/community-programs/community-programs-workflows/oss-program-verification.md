@@ -17,7 +17,7 @@ This SheerID form contains the following fields:
 - First Name
 - Last Name
 - Email Address
-- Country (drop down list)[^1]
+- Country (drop down list)
 - Open Source Organization or Project Name
 - Project Description
 - Publicly Visible Project on GitLab
@@ -33,19 +33,24 @@ The SheerID form also includes the following statement, added with help from Git
 > 
 > If you are accepted into the GitLab for Open Source Program, you will be subject to [GitLab's terms and conditions](/handbook/legal/opensource-agreement/). All use of GitLab products must comply with United States export control and economic sanction laws.
 
+The GitLab for Open Source Program cannnot accept applications US embargoed countries.
+SheerID is unable to separate out the two different regions in Ukraine, so we have asked them to remove Ukraine entirely from the list of countries.
+Applicants from Ukraine will need to contact the team directly at `opensource@gitlab.com`, and team members determine whether they qualify based on their region of origin.
+
 ## Verifying applicants
 
 Eligibility requirements for the GitLab for Open Source Program are listed in the [program's handbook page](/handbook/marketing/developer-relations/community-programs/open-source-program/).
 SheerID assists GitLab with reviewing program applications and ensuring applicants meet these program requirements.
 
-SheerID is not able to completely automate the [Verification phase](/handbook/marketing/developer-relations/community-programs/automated-community-programs/#verification) of the application workflow for the GitLab for Open Source Program.
+SheerID is unable to completely automate the [Verification phase](/handbook/marketing/developer-relations/community-programs/automated-community-programs/#verification) of the application workflow for the GitLab for Open Source Program.
 This means the program manager and other trained team members must verify applications with some amount of manual effort.
-However, while unable to fully automate the Verification phase, SheerID is able to make the reviewing process easier by doing the following:
+However, SheerID is able to make the review process easier by doing the following:
 
 * Requesting screenshots to verify the project's publicly visible status and application of OSI-approved licenses
 * Asking the applicant to check a box to certify they are not seeking profit with their project
 
-When applicants submit forms to the GitLab for Open Source Program, those forms enter a review queue. Note that:
+When applicants submit forms to the GitLab for Open Source Program, those forms enter a review queue.
+Note that:
 
 * Applications in the queue expire after 20 days
 * The queue displays only the 20 most recently submitted applications; when processed, older applications become visible
@@ -82,7 +87,3 @@ Any individual can apply through the form and attempt verification up to five ti
 This limit provides room for error and allows a single individual to apply for licenses on behalf of multiple open source projects.
 This limit is determined by GitLab and set by SheerID.
 It can be changed at any time.
-
-[^1] The GitLab for Open Source Program cannnot accept applications US embargoed countries.
-SheerID is not able to separate out the two different regions in Ukraine, so we have asked them to remove Ukraine entirely from the list of countries.
-Applicants from Ukraine will need to contact the team directly at `opensource@gitlab.com`, and team members determine whether they qualify based on their region of origin.
