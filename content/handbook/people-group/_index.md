@@ -108,11 +108,11 @@ The goal of the calendar is to include information at least two quarters ahead o
 Please reach out to your aligned People Business Partner (PBP) to engage in the following areas:
 
 - Career development/[Promotions]({{< ref "promotions-transfers" >}})
-- [Succession planning]({{< ref "talent-assessment" >}})
+- [Succession planning]({{< ref "/handbook/people-group/talent-assessment" >}})
 - New organizational structures or re-alignment of team members
-- [Talent Assessment programs]({{< ref "talent-assessment" >}})
+- [Talent Assessment programs]({{< ref "/handbook/people-group/talent-assessment" >}})
 - Team member retention
-- [Team member Engagement tools]({{< ref "talent-assessment#impact-of-being-identified-as-key-talent" >}})
+- [Team member Engagement tools]({{< ref "/handbook/people-group/talent-assessment#impact-of-being-identified-as-key-talent" >}})
 - [Coaching]({{< ref "coaching" >}}) guidance
 - An unbiased third party to discuss issues or problems and possible ideas for next steps
 - [Organizational Design]({{< ref "/handbook/people-group/organizational-design" >}})
