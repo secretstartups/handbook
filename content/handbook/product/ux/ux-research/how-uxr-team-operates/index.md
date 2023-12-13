@@ -46,7 +46,7 @@ The assigned UX Researchers are the go-to person for their assigned [stage group
 | **Manage**: Import, Foundations | [Karen Li] (interim cover)|
 | **Plan**: Project Management, Product Planning, Optimize, Knowledge | [Danika Teverovsky]|
 | **Secure**: Static Analysis, Dynamic Analysis, Composition Analysis, Vulnerability Research <br> **Govern**: Security Policies, Threat Insights, Compliance, Authentication | [Michael Oliver] |
-| **Create**: Source Code, Editor, Code Review | [Ben Leduc-Mills] |
+| **Create**: Source Code, Editor, Code Review, Code Creation, Editor Extensions | [Ben Leduc-Mills] |
 | **CI**: Pipeline Execution, Pipeline Authoring, Runner, Pipeline Security, Package | [Erika Feldman] |
 
 [Will Leidheiser]: https://gitlab.com/wleidheiser
