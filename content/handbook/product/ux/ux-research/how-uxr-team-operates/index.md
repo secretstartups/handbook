@@ -20,7 +20,7 @@ This model has a single UX Researcher working on a given UX research project and
 
 #### Collaborative UX Researcher working model
 
-This model is defined as having two UX Researchers working together on a single UX research project and/or stage. Having two UX Researchers collaborating together on a single UX research project and/or stage enables both of them to collectively build domain specific knowledge about the space, so the product stage can benefit from different perspectives on a given research topic. It also provides opportunities for the UX Researchers to mentor and be mentored by their partner, avoid silos and mitigate the risk of single point of failure.
+This model is defined as having two UX Researchers working together on a single UX research project and/or stage. Most likely, both UX Researchers are assigned to the stage or stage group the UX research project is associated with. Having two UX Researchers collaborating together on a single UX research project and/or stage enables both of them to collectively build domain specific knowledge about the space, so the product stage can benefit from different perspectives on a given research topic. It also provides opportunities for the UX Researchers to mentor and be mentored by their partner, avoid silos and mitigate the risk of single point of failure.
 
 Applying this model at scale means we can systematically explore rotation options to facilitate individual growth of the UX Researchers, and enable all UX Researchers to learn more areas across the product so as to identify more cross-stage research opportunities.
 
