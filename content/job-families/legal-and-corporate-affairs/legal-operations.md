@@ -67,6 +67,7 @@ The Director, Contracts and Legal Operations is a [grade 10](/handbook/total-rew
 - Ability to manage internal customer priorities and needs.
 - Previous experience in a Global Start-up and remote first environment would be ideal.
 - Ability to use GitLab
+
 ### Senior Director, Contracts and Legal Operations
 
 The Senior Director, Contracts and Legal Operations reports to the [Chief Legal Officer](/job-families/legal-and-corporate-affairs/chief-legal-officer/).
