@@ -1,6 +1,6 @@
 ---
-title: "Legal Operations Job Family"
-description: "Learn more about Legal Operations job family levels, roles and responsibilities."
+title: "Legal Operations"
+description: Legal Operations supports Legal & Corporate Affairs processes with a focus on defining and driving initiatives that improve the team’s efficiency and effectiveness.
 ---
 
 ## Levels
