@@ -44,7 +44,6 @@ Currently, only YCombinator Startups (YC Startups) qualify for our Startups prog
 
 Here's how to qualify them:
 
-1. Make sure they are part of the current or two most recent [YCombinator batches](https://www.ycombinator.com/companies/).
 1. If they are not on that list, follow up with the [`Startups:: Qualification for program` macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/) to ask them to provide verification that they are a YC startup.
 
 If they do qualify, continue to [create an opportunity](/handbook/marketing/developer-relations/community-programs/community-program-applications/).
