@@ -1521,13 +1521,11 @@ Past Business Development Representatives have shared their best practice steps 
 
 ## Sales Development Organization Time Off
 
-While we have a "no ask, must tell" PTO policy we ask that, in accordance with the [Time Off Policy](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off), you give your manager a heads up early of your intended time off so that they can help arrange cover for your tasks, if necessary. We want to help our team members being able to fully unplug from work during their PTO, while not having to worry about their workload or target attainment. Based on this, we have created this PTO Territory Planning Issue that you can use to strategize your work and be aligned to the GitLab value of being a [Manager of One](/handbook/leadership/#managers-of-one).
+In accordance with the [Time Off Policy](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off), you need give your manager a heads up early of your intended time off so that they can help arrange cover for your tasks, if necessary.
 
-To help BDRs and SDRs who are on PTO please review [this video](https://www.youtube.com/watch?v=sDzeqbd0Jes) on how to sequence on behalf of your teammembers.
+ We want to help our team members being able to fully unplug from work during their PTO, while not having to worry about their workload or target attainment. Based on this, we have created this PTO Territory Planning Issue that you can use to strategize your work and be aligned to the GitLab value of being a [Manager of One](/handbook/leadership/#managers-of-one).
 
-Please also review [this video](https://www.youtube.com/watch?v=vsJBP4-WIBk&ab_channel=GitLabUnfiltered) on how to clone a teammates B1 or S1 lead view in order to sequence MQL leads for them.
-
-To log a PTO Territory Planning request, please go to the Issue list on the SDR GitLab project [here](https://gitlab.com/gitlab-com/marketing/sdr/-/issues/new#) and choose `PTO_Planning_Issue` from the `Description` drop-down list.
+To log a PTO Territory Planning request, please go to the Issue list on the SDR GitLab project [here](https://gitlab.com/gitlab-com/marketing/sdr/-/issues/new#) and choose `PTO_Coverage_Template` from the `Description` drop-down list.All of these requests are then managed through the [board here.](https://gitlab.com/gitlab-com/marketing/sales-development/-/boards/7220707) and all next steps and guidelines are on the issue description.
 
 ## Sales Development Org Announcement Process:
 
