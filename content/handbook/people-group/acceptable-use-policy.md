@@ -47,11 +47,9 @@ All GitLab data is categorized and must be handled in accordance with the [Data 
 
 Open Source libraries are allowed under this policy if its use complies with the pre-approved or approval requirements captured in the [Product Legal Handbook](https://about.gitlab.com/handbook/legal/product/#using-open-source-software).
 
-### Individual Use Software, Freeware, Browser Extensions, Add-ons, and Plugins
+### Freeware, Browser Extensions, Add-ons, and Plugins
 
-Individual use software, freeware, browser extensions, add-ons and plugins, including Zoom marketplace and Google integrations(collectively, "Third Party Software"), are not approved for use at GitLab under this policy.  Third Party Software may create security and privacy risk due to a lack of governance and enterprise controls.  Therefore, only [Tech Stack Applications](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/) under an enterprise license are permitted for use. Exceptions to this policy can be found below.
-
-If you need to obtain enterprise software on behalf of Team Members, please begin the [Procurement Process](https://about.gitlab.com/handbook/finance/procurement/#-how-do-i-start-the-procurement-process).
+Freeware, Browser extensions, add-ons and plugins, including Zoom marketplace, Chrome Browser and Google integrations, are not approved for use at GitLab under this policy.  Third Party addons and plugins may create security and privacy risk due to a lack of governance and enterprise controls. 
 
 #### Exceptions
 
