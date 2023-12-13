@@ -67,7 +67,6 @@ The Director, Contracts and Legal Operations is a [grade 10](/handbook/total-rew
 - Ability to manage internal customer priorities and needs.
 - Previous experience in a Global Start-up and remote first environment would be ideal.
 - Ability to use GitLab
-
 ### Senior Director, Contracts and Legal Operations
 
 The Senior Director, Contracts and Legal Operations reports to the [Chief Legal Officer](/job-families/legal-and-corporate-affairs/chief-legal-officer/).
@@ -136,6 +135,10 @@ The Vice President, Legal Operations is a [grade 12](https://about.gitlab.com/ha
 - Hire, train, develop and retain a high functioning team of contract managers to partner with internal members and GitLab customers, including:
   - Development and revision of commercial legal on-boarding materials; and
   - Focus on professional and career development of contract managers
+
+  ## Career Ladder
+
+The next steps for the Legal Operations job family are not yet defined at GitLab.
 
 ## Hiring Process
 
