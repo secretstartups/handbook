@@ -8,18 +8,18 @@ category: GitLab.com subscriptions & purchases
 ## Handling GitLab.com trial requests
 
 
-#### GitLab.com customers who do not have an existing GitLab subscription
+### GitLab.com customers without a subscription
 
-1. New customers without an existing GitLab.com subscription and namespace can apply for a 30-day GitLab Climate subscription by completing the following [form](https://gitlab.com/-/trial_registrations/new?glm_source=about.gitlab.com/&glm_content=default-saas-trial).
-1. GitLab.com users who have an existing namespace but do not have an active GitLab.com subscription can go to the billing section for their group namespace and press the Start Trial button. If they are not presented with this option, it means they already had a trial in the past. In situations such as these they should contact GitLab sales to request a new trial or a trial extension.
+1. New customers without an existing GitLab.com subscription and namespace can apply for a 30-day GitLab Ultimate subscription by completing the following [form](https://gitlab.com/-/trial_registrations/new?glm_source=about.gitlab.com/&glm_content=default-saas-trial).
+1. GitLab.com users who have an existing namespace but do not have an active GitLab.com subscription can go to the billing section for their group namespace and press the `Start Trial` button. If a trial previously existed on that namespace, the button will not be present. In such situations the user will need to contact GitLab Sales to request a new trial or a trial extension.
 
-#### Existing customers with a GitLab Premium Subscription
+### GitLab.com customers with a Premium Subscription
 
 GitLab.com Premium customers who want to trial SaaS Ultimate have two options to do so:
 
-1. Self request an Ultimate trial from [GitLab's public trial page](https://about.gitlab.com/free-trial/?hosted=sass). This will require the customer to set up a new namespace to apply the trial to. No sales or support action required.
+1. Request an Ultimate trial from [GitLab's public trial page](https://about.gitlab.com/free-trial/?hosted=sass). This will require the customer to set up a new namespace to which to apply the trial. No Sales or Support action will be required.
 1. Temporarily upgrade their existing GitLab Premium subscription to a GitLab Ultimate Trial.
-- As part of the initiative to enable current SaaS Premium customers to trial SaaS Ultimate on their primary namespace, the first iteration implementation now grants L&R Support the capability to temporarily upgrade an existing Premium subscription to a GitLab Ultimate trial subscription. To facilitate this process, the customer's Account Executive is required to complete a new [Internal Request Form](https://gitlab-com.gitlab.io/support/internal-requests-form/) titled `Request SaaS Ultimate trial for existing Premium customer on behalf of the customer`.
+- As part of the initiative to enable current SaaS Premium customers to trial SaaS Ultimate on their primary namespace, the first iteration implementation now grants L&R Support the capability to temporarily upgrade an existing Premium subscription to an Ultimate trial subscription. To facilitate this process, the customer's Account Executive is required to complete a new [Internal Request Form](https://gitlab-com.gitlab.io/support/internal-requests-form/) titled `Request SaaS Ultimate trial for existing Premium customer on behalf of the customer`.
 
 Once the form has been submitted, the L&R Support Engineer should follow the workflow outlined in the following [video](https://www.youtube.com/watch?v=wJCrh45Ug2Q), which entails:
 
@@ -31,7 +31,7 @@ Once the form has been submitted, the L&R Support Engineer should follow the wor
 #### Workflow caveats
 
 - For all trial extensions, the renewal start date must align with the end date of the prior subscription term therefore requests for Ultimate trial extensions with the purpose of extending ahead of the renewal date should be denied. It is GitLab policy to align renewal dates with the end of the prior subscription term.
-- Currently GitLab.com Ultimate trials are not extendable, once the trial period has elapsed the `Apply Ultimate Trial` button may be displayed again if the namespace remains on Premium after expiration however pressing the button will not work given namespaces can only have one trial. This is a known limitation which will be addressed in future versions.
+- Currently GitLab.com Ultimate trials cannot be extended. Once the trial period has elapsed the `Apply Ultimate Trial` button may be displayed again if the namespace remains on Premium after expiration, however pressing the button will not work, as namespaces can only have one trial. This is a known limitation which will be addressed in future versions.
 - GitLab.com trials are only available for the GitLab Ultimate Subscription plan.
 
 ## Extending trials
@@ -68,18 +68,7 @@ If a customer is requesting a trial extension, please follow [Working with Sales
 
 **Note**: We cannot extend the trial if the customer hasn't started one on the namespace. The Subscription name field in the ZenDesk Mechanizer app is there for that reason. When there's a Subscription name, the mechanizer will create a new trial for the namespace.
 
-## Applying a trial to a namespace with an active subscription
 
-> [As of 2022-07-01](https://gitlab.com/gitlab-com/support/managers/change-management/-/issues/10), Support won't act on any request for trials on top of plans.
-
-A namespace cannot have a trial and an active subscription run
-concurrently.
-
-A workaround is to advise the customer to create a new group and request a trial
-for it in order to test the  higher plan features. See more in the [Sales FAQ for Trials over Paid Plans on GitLab SaaS](https://docs.google.com/document/d/14oypfuslV75Uqw_JWvJmoxCEtrOQ_At_DIm4sk8KzvM/edit?usp=sharing).
-
-There is an [open feature request #12186](https://gitlab.com/gitlab-org/gitlab/-/issues/12186)
-requesting to implement this functionality in GitLab.
 
 ## Workflow diagram
 
