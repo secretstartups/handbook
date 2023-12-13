@@ -139,7 +139,7 @@ The Vice President, Legal Operations is a [grade 12](https://about.gitlab.com/ha
   - Development and revision of commercial legal on-boarding materials; and
   - Focus on professional and career development of contract managers
 
-  ## Career Ladder
+## Career Ladder
 
 - The next steps for the Legal Operations job family are not yet defined at GitLab.
 
