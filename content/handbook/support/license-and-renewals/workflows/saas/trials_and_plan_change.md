@@ -5,10 +5,35 @@ description: "How to handle GitLab.com subscription trials and plan changes"
 category: GitLab.com subscriptions & purchases
 ---
 
-## Request for Premium trial
+## Handling GitLab.com trial requests
 
-GitLab.com [only offers the self-service ability to trial the Ultimate subscription](https://gitlab.com/gitlab-org/customers-gitlab-com/issues/409).
-GitLab.com support can assist with trials of other plans. Ask the user to create the GitLab.com Ultimate trial, then change the plan via the CustomersDot admin `GitLab Groups` page.
+
+#### GitLab.com customers who do not have an existing GitLab subscription 
+
+1. New customers without an existing GitLab.com subscription and namespace can apply for a 30-day GitLab Climate subscription by completing the following [form](https://gitlab.com/-/trial_registrations/new?glm_source=about.gitlab.com/&glm_content=default-saas-trial).
+1. GitLab.com users who have an existing namespace but do not have an active GitLab.com subscription can go to the billing section for their group namespace and press the Start Trial button. If they are not presented with this option, it means they already had a trial in the past. In situations such as these they should contact GitLab sales to request a new trial or a trial extension.
+
+#### Existing customers with a GitLab Premium Subscription
+
+GitLab.com Premium customers who want to trial SaaS Ultimate have two options to do so:
+
+1. Self request an Ultimate trial from [GitLab's public trial page](https://about.gitlab.com/free-trial/?hosted=sass). This will require the customer to set up a new namespace to apply the trial to. No sales or support action required.
+
+2. Temporarily upgrade their existing GitLab Premium subscription to a GitLab Ultimate Trial
+
+As part of the initiative to enable current SaaS Premium customers to trial SaaS Ultimate on their primary namespace, the first iteration implementation now grants L&R Support the capability to temporarily upgrade an existing Premium subscription to a GitLab Ultimate trial subscription. To facilitate this process, the customer's Account Executive is required to complete a new [Internal Request Form](https://gitlab-com.gitlab.io/support/internal-requests-form/) titled `Request SaaS Ultimate trial for existing Premium customer on behalf of the customer`. 
+
+Once the form has been submitted, the L&R Support Engineer should follow the workflow outlined in the following [video](https://www.youtube.com/watch?v=wJCrh45Ug2Q), which entails:
+
+-  Locating the correct `Customer` record by searching `Customers`.
+-  Clicking the (i) info button on the customer record.
+-  Going to the `Zuora Subscriptions` tab.
+-  Selecting the appropriate namespace and pressing the `Apply Ultimate Trial` button.
+
+#### Workflow caveats 
+- For all trial extensions, the renewal start date must align with the end date of the prior subscription term therefore requests for Ultimate trial extensions with the purpose of extending ahead of the renewal date should be denied. It is GitLab policy to align renewal dates with the end of the prior subscription term.
+- Currently GitLab.com Ultimate trials are not extendable, once the trial period has elapsed the `Apply Ultimate Trial` button may be displayed again if the namespace remains on Premium after expiration however pressing the button will not work given namespaces can only have one trial. This is a known limitation which will be addressed in future versions.
+- GitLab.com trials are only available for the GitLab Ultimate Subscription plan.
 
 ## Extending trials
 
@@ -115,14 +140,6 @@ From CustomerDot you can only change the plan type not the subscription end date
 
 If you get an error, use admin following the instructions in the next section.
 
-### Using GitLab.com Admin
-
-1. Go to the namespace admin page (`/admin/users/username` or `/admin/groups/group_path`).
-1. Click `Edit`.
-1. Change the `Plan` to the appropriate plan (`Ultimate` or `Premium`).
-   - Don't use `Ultimate Trial` or `Premium Trial` in these cases -- these plans are intended for use by automated systems only, and may [cause an error](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/3698) on the namespace when set incorrectly.
-1. Add [an admin note]({{ ref "admin_note" >}}).
-1. Click `Save`.
 
 ### How to create an NFR (Not for resale) SaaS License
 
