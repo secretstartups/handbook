@@ -1,5 +1,6 @@
 ---
 title: "Contract Manager"
+description: Contract Managers are responsible for faciliating the contracting process for sales, procurement and non-sales engagements. Contract Managers partner with internal stakeholders while negotiating terms and conditions through closure.
 ---
 
 ## Contract Manager
