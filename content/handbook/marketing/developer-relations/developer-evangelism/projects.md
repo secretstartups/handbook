@@ -121,6 +121,18 @@ Assigned resources:
 1. The domain `remote-dev.dev` has been purchased through the Google DNS service and points to the Kubernetes cluster's public IP.
 1. The TLS certificates have been generated manually with Let's Encrypt and need to be renewed quarterly (2023-08-15), following the [documentation steps](https://gitlab.com/gitlab-de/use-cases/remote-development/agent-kubernetes-gke).
 
+## Product Awareness Initiatives 
+
+### GitLab Duo Coffee Chat 
+
+Live learning session with AI-powered workflows throughout the DevSecOps lifecycle, with the help of GitLab Duo. We discuss, explore, research, learn, debug, create product feedback and feature ideas, and discover new features and workflows.
+
+The coffee chats should inspire our customers and users to learn how to use GitLab Duo and adopt best practices -- by example, making mistakes, trying different routes, and achieving better results.
+
+- [YouTube Playlist](https://www.youtube.com/watch?v=A4nwH_5j9gM&list=PL05JrBw4t0Kp5uj_JgQiSvHw1jQu0mSVZ)
+- [Organization issue](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues/375)
+
+Maintainer: [Michael Friedrich, @dnsmichi](/handbook/company/team/#dnsmichi)
 
 ## Learning Collections
 
