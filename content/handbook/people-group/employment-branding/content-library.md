@@ -84,6 +84,7 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 
 | Articles/Blogs/Features | Category |
 | ------ | ------ |
+| [These Companies Are Taking an Intentional Approach to Artificial Intelligence](https://builtin.com/brand-studio/these-companies-are-taking-intentional-approach-artificial-intelligence?utm_source=bambu&utm_medium=social&utm_campaign=advocacy) | AI / Product |
 | [How Iteration drives innovation in our engineering org](https://about.gitlab.com/blog/2022/06/10/how-gitlab-iteration-value-drives-innovation-through-the-engineering-organization/) | Engineering |
 | [The Best Leadership Advice I Never Received](https://womeninsaleseverywhere.com/blog/author/meaghan-thatcher/) | Sales |
 | [How GitLab's customer and partner focus fuels our culture](https://about.gitlab.com/blog/2022/05/03/how-gitlabs-customer-and-partner-focus-fuels-our-culture/) | Sales |
@@ -103,6 +104,8 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 | ------ | ------ |
 | [Life at GitLab](https://vimeo.com/gitlab/lifeatgitlab) | General |
 | [Sales at GitLab](https://vimeo.com/675024697) | Sales |
+| [Diverse Minds, Unified AI Solutions](https://vimeo.com/gitlab/diversemindsunifiedaisolutions?share=copy) | AI / Product |
+| [GitLab at European Women in Tech](https://vimeo.com/852369659?share=copy) | DIB |
 | [A Conversation with Ragnar Hardarson, Engineering Manager at GitLab](https://vimeo.com/716075220) | Engineering |
 | [A Conversation with Monmayuri Ray, Engineering Manager, ModelOps at GitLab](https://vimeo.com/745189253) | Engineering |
 | [A Conversation with Nick Nguyen, Sr. Engineering Mgr., Enablement at GitLab](https://vimeo.com/745463953) | Engineering |
