@@ -1,14 +1,8 @@
 ---
 
 title: "GitLab for Open Source Program Verification"
-description: "This page contains details regarding the process of verification for the GitLab for Open Source Program."
+description: "Read details regarding the process of verification for the GitLab for Open Source Program."
 ---
-
-
-
-
-
-
 
 ## Overview
 
