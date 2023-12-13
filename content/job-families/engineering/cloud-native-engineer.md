@@ -45,16 +45,16 @@ for our [Developer roles](/job-families/engineering/backend-engineer/#levels).
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Qualified candidates receive a short questionnaire from our Recruiting team
-- Selected candidates will be invited to schedule a 30min [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Recruiting team
-- Next, candidates will be invited to schedule a first 45 minute [behavioral interview](https://about.gitlab.com/handbook/hiring/#behavioral-questions-star) with the hiring manager
-- Next, candidates will be invited to schedule a [technical interview](https://about.gitlab.com/handbook/hiring/interviewing/technical/) with a team manager
+- Selected candidates will be invited to schedule a 30min [screening call](/handbook/hiring/#screening-call) with our Recruiting team
+- Next, candidates will be invited to schedule a first 45 minute [behavioral interview](/handbook/hiring/#behavioral-questions-star) with the hiring manager
+- Next, candidates will be invited to schedule a [technical interview](/handbook/hiring/interviewing/technical/) with a team manager
 - Candidates will then be invited to schedule an interview with Director of Backend
 - Candidates will then be invited to schedule an additional interview with VP of Engineering
 - Finally, candidates may be asked to interview with the CEO
 - Successful candidates will subsequently be made an offer via email
 
 As always, the interviews and screening call will be conducted via a video call.
-See more details about our hiring process on the [hiring handbook](https://about.gitlab.com/handbook/hiring/).
+See more details about our hiring process on the [hiring handbook](/handbook/hiring/).

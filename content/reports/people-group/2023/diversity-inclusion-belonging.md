@@ -128,7 +128,7 @@ At GitLab we are building an inclusive workplace by:
 
 - Beating our aspirational representation goal of 30% senior women in leadership by 7%
 - Increasing our underrepresented group representation across all job grades, exceeding our CTO and CEO aspirational quarterly goals focused on URG management and senior leadership
-- Establishing 3 new [Team Member Resource Groups (TMRGs)](https://about.gitlab.com/company/culture/inclusion/#tmrgs---team-member-resource-groups) focused on inclusion and belonging: GitLab [Caregivers](https://about.gitlab.com/company/culture/inclusion/tmrg-caregivers/), [Global Voices](https://about.gitlab.com/company/culture/inclusion/tmrg-global-voices/), and [Black@GitLab](https://about.gitlab.com/company/culture/inclusion/tmrg-gitlab-black/)
+- Establishing 3 new [Team Member Resource Groups (TMRGs)](/handbook/company/culture/inclusion/#tmrgs---team-member-resource-groups) focused on inclusion and belonging: GitLab [Caregivers](/handbook/company/culture/inclusion/tmrg-caregivers/), [Global Voices](/handbook/company/culture/inclusion/tmrg-global-voices/), and [Black@GitLab](/handbook/company/culture/inclusion/tmrg-gitlab-black/)
 
 > It's wonderful to work for a company that accelerates me as a woman,
 > a working mother, as well as being a part of a team. It makes me feel
@@ -157,7 +157,7 @@ Here are a few of the stats that indicate our current representation:
 **6.6** percentage point decrease in regrettable underrepresented group
 (URG) attrition relative to a year ago.
 
-You can see all of our team member representation data [here](https://about.gitlab.com/company/culture/inclusion/identity-data/).
+You can see all of our team member representation data [here](/handbook/company/culture/inclusion/identity-data/).
 
 ## Building a workplace where everyone belongs
 
@@ -185,7 +185,7 @@ GitLab runs an annual engagement survey and supplements that annual
 survey with at least one additional survey that broadly gauges team
 member sentiment. For the past three years, we've taken part in the Great
 Place to Work survey to understand team member perceptions. In FY23, we
-achieved an [82% participation rate](https://about.gitlab.com/handbook/people-group/engagement/#fy23-q2-pulse-engagement-survey-results)
+achieved an [82% participation rate](/handbook/people-group/engagement/#fy23-q2-pulse-engagement-survey-results)
 and an overall 'favorable' engagement score of 81%. We scored 8% higher
 than our New Tech peer group, which consists of ~150 fast growing and
 disruptive tech companies with over 1000 total team members each. These
@@ -225,10 +225,10 @@ Within these groups, members can experience:
 
 - Reverse AMAs: Ask Me Anything Q&A with our Executive Group and team members.
 - Stay interviews: Small cohort conversations with Executive Group leaders and our underrepresented groups with the goal of gaining valuable insights to ensure we are fostering an inclusive culture where all team members can thrive.
-- Sales sponsorship pilot: A [nine-month program](https://about.gitlab.com/company/culture/inclusion/DIB-Sponsorship/) that paired our senior CRO leaders with underrepresented team members to help create pathways, visibility, and advocacy to assist with progression within Sales.
-- [TMRG Leadership Recognition Program](https://about.gitlab.com/company/culture/inclusion/erg-guide/#roles-within-the-group): A bonus provided to team members leading our TMRGs or DIB-focused groups to recognize great work being done to support the DIB strategy and DIB Team and embedding the DIB value at GitLab
-- [DIB Speaker Series](https://about.gitlab.com/company/culture/inclusion/DIB-Speaker-Series/): These are speakers, panels, or workshops with leaders internally and externally from a variety of communities. These events provide educational opportunities and inspire allyship with underrepresented groups.
-- [Executive (VP+) sponsorship](https://about.gitlab.com/company/culture/inclusion/erg-guide/#executive-sponsorship): The role is to support the development of the TMRG, provide advocacy at the leadership level, connect the TMRG to GitLab's mission and goals, and provide advocacy to TMRG leaders.
+- Sales sponsorship pilot: A [nine-month program](/handbook/company/culture/inclusion/DIB-Sponsorship/) that paired our senior CRO leaders with underrepresented team members to help create pathways, visibility, and advocacy to assist with progression within Sales.
+- [TMRG Leadership Recognition Program](/handbook/company/culture/inclusion/erg-guide/#roles-within-the-group): A bonus provided to team members leading our TMRGs or DIB-focused groups to recognize great work being done to support the DIB strategy and DIB Team and embedding the DIB value at GitLab
+- [DIB Speaker Series](/handbook/company/culture/inclusion/DIB-Speaker-Series/): These are speakers, panels, or workshops with leaders internally and externally from a variety of communities. These events provide educational opportunities and inspire allyship with underrepresented groups.
+- [Executive (VP+) sponsorship](/handbook/company/culture/inclusion/erg-guide/#executive-sponsorship): The role is to support the development of the TMRG, provide advocacy at the leadership level, connect the TMRG to GitLab's mission and goals, and provide advocacy to TMRG leaders.
 - TMRG community Slack spaces: TMRGs create safe spaces to connect.
 
 > As the Executive Sponsor of the Black@GitLab TMRG, I advocate for the
@@ -261,7 +261,7 @@ A few of our sponsorships include:
 
 #### Leadership Council
 
-Our [Leadership DIB Council](https://about.gitlab.com/company/culture/inclusion/leadership-dib-council/)
+Our [Leadership DIB Council](/handbook/company/culture/inclusion/leadership-dib-council/)
 consists of 13 Director+ leaders representing
 every division across all regions. Their task is to assist the DIB Team
 in implementing the corporate DIB strategy and provide insights to the

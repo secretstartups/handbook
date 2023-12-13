@@ -14,7 +14,7 @@ The Business Systems Engineer (Intermediate) reports to the [Director, Sales Sys
 
 #### Business Systems Engineer (Intermediate) Job Grade
 
-The Business Systems Engineer (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Business Systems Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Business Systems Engineer (Intermediate) Responsibilities
 
@@ -51,7 +51,7 @@ The Senior Business Systems Engineer reports to the [Director, Sales Systems](/j
 
 #### Job Grade
 
-The Senior Business Systems Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Business Systems Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Business Systems Engineer Responsibilities
 
@@ -69,7 +69,7 @@ The Senior Business Systems Engineer is a [grade 7](https://about.gitlab.com/han
 
 #### Job Grade
 
-The Manager, Business Systems Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Business Systems Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -80,8 +80,8 @@ The Manager, Business Systems Engineer is a [grade 8](https://about.gitlab.com/h
 - Lead foundational projects that effect Salesforce.com and there for our entire Lead to Cash process.
 - Contribute to the sense of psychological safety on your team.
 - Evolve the Sales Systems SDLC plan, finding the balance between stock SFDC processes and CI/CD.
-- Hold regular [1:1's](https://about.gitlab.com/handbook/leadership/1-1/) with all members of their team.
-- Give regular and clear feedback around the [individual's performance](https://about.gitlab.com/handbook/leadership/1-1/suggested-agenda-format/).
+- Hold regular [1:1's](/handbook/leadership/1-1/) with all members of their team.
+- Give regular and clear feedback around the [individual's performance](/handbook/leadership/1-1/suggested-agenda-format/).
 - Foster technical decision making on the team, but make final decisions when necessary.
 
 #### Requirements
@@ -104,9 +104,9 @@ The Manager, Business Systems Engineer is a [grade 8](https://about.gitlab.com/h
 ## Performance Indicators
 
 - nARR vs Plan
-- [% of team who self-classify as diverse](https://about.gitlab.com/handbook/business-technology/metrics/#percent--of-team-who-self-classify-as-diverse)
-- [Cost Actual vs Plan](https://about.gitlab.com/handbook/business-technology/metrics/#cost-actual-vs-plan)
-- [System roll out vs plan](https://about.gitlab.com/handbook/business-technology/metrics/#system-roll-out-vs-plan)
+- [% of team who self-classify as diverse](/handbook/business-technology/metrics/#percent--of-team-who-self-classify-as-diverse)
+- [Cost Actual vs Plan](/handbook/business-technology/metrics/#cost-actual-vs-plan)
+- [System roll out vs plan](/handbook/business-technology/metrics/#system-roll-out-vs-plan)
 
 ## Career Ladder
 
@@ -114,11 +114,11 @@ The Business Systems Engineer Job Family would move into the [Sales Systems Lead
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+- Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 - Initial phone/video screen from a GitLab Talent Acquisition professional.
 - Phone/video interview with hiring manager and typically two additional GitLab team member.
 - Final interview with 1+ GitLab executives.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

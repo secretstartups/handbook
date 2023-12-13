@@ -12,7 +12,7 @@ Unless otherwise specified, all Distinguished Engineer roles at GitLab share the
 
 ## Job Grade
 
-The Distinguished Engineer is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Distinguished Engineer is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Requirements
 

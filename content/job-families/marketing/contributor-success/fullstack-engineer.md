@@ -47,7 +47,7 @@ description: Contributor Success Fullstack Engineers work on laying down an effi
 
 #### Contributor Success Fullstack Engineer Job Grade
 
-The Contributor Success Fullstack Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Contributor Success Fullstack Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Contributor Success Fullstack Engineer Responsibilities
 
@@ -69,7 +69,7 @@ The Contributor Success Fullstack Engineer is a [grade 6](https://about.gitlab.c
 
 #### Senior Contributor Success Fullstack Engineer Job Grade
 
-The Senior Contributor Success Fullstack Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Contributor Success Fullstack Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Contributor Success Fullstack Engineer Responsibilities
 
@@ -93,7 +93,7 @@ The Senior Contributor Success Fullstack Engineer role extends the [Contributor 
 
 #### Staff Contributor Success Fullstack Engineer Job Grade
 
-The Staff Contributor Success Fullstack Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Contributor Success Fullstack Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Contributor Success Fullstack Engineer Responsibilities
 
@@ -118,30 +118,30 @@ The Staff Engineering Contributor Success Fullstack Engineer role extends the [S
 
 #### Key Performance Indicators
 
-- [Unique Wider Community Contributors per Month](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#unique-wider-community-contributors-per-month)
-- [Wider Community merged MRs per release](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release)
-- [MRARR](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#mrarr)
+- [Unique Wider Community Contributors per Month](/handbook/marketing/developer-relations/performance-indicators/#unique-wider-community-contributors-per-month)
+- [Wider Community merged MRs per release](/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release)
+- [MRARR](/handbook/marketing/developer-relations/performance-indicators/#mrarr)
 
 #### Regular Performance Indicators
 
-- [Wider Community merged MRs per month](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-month)
-- [First time contributors per month](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#first-time-contributors-per-month)
-- [Open Community MR Age (OCMA)](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#open-community-mr-age)
-- [Leading Organizations MR Time to review](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#leading-organizations-mr-time-to-review)
-- [Returning vs new contributors](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#returning-vs-new-contributors)
-- [Community MR Coaches per Month](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#community-mr-coaches-per-month)
-- [Feature Community Contribution MRs](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#feature-community-contribution-mrs)
-- [Community MR Percentage](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#community-mr-percentage)
+- [Wider Community merged MRs per month](/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-month)
+- [First time contributors per month](/handbook/marketing/developer-relations/performance-indicators/#first-time-contributors-per-month)
+- [Open Community MR Age (OCMA)](/handbook/marketing/developer-relations/performance-indicators/#open-community-mr-age)
+- [Leading Organizations MR Time to review](/handbook/marketing/developer-relations/performance-indicators/#leading-organizations-mr-time-to-review)
+- [Returning vs new contributors](/handbook/marketing/developer-relations/performance-indicators/#returning-vs-new-contributors)
+- [Community MR Coaches per Month](/handbook/marketing/developer-relations/performance-indicators/#community-mr-coaches-per-month)
+- [Feature Community Contribution MRs](/handbook/marketing/developer-relations/performance-indicators/#feature-community-contribution-mrs)
+- [Community MR Percentage](/handbook/marketing/developer-relations/performance-indicators/#community-mr-percentage)
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to a 60 minute interview with the Hiring Manager.
 - Candidates will then be invited to a 45 minute peer interview with an Engineer in the Contributor Success team.
 - Candidates will then be invited to a 45 minute interview with an Engineering Productivity Engineer
 - Candidates will then be invited to a 45 minute interview with the VP of Developer Relations
 - Successful candidates will subsequently be made an offer
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/)
+Additional details about our process can be found on our [hiring page](/handbook/hiring/)

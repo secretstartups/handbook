@@ -64,7 +64,7 @@ To do this, reply with the following:
 > [our documentation](https://docs.gitlab.com/omnibus/development/setup.html#use-customers-portal-staging-in-gitlab).
 >
 > For information on applying a license, please read through
-> [our documentation](https://docs.gitlab.com/ee/user/admin_area/license.html#activate-gitlab-ee-with-a-license-file).
+> [our documentation](https://docs.gitlab.com/ee/administration/license_file.html).
 
 After sending that reply, do the following:
 

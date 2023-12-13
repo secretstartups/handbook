@@ -27,7 +27,7 @@ We established these processes because we saw these benefits:
 
 One common concern newcomers to the handbook express is that the strict documentation makes the company more rigid.
 In fact, writing down our current process in the handbook has the effect of empowering contributors to propose change.
-As a result, this handbook is far from rigid. You only need to look at the [handbook changelog](https://about.gitlab.com/handbook/CHANGELOG.html) to see the evidence. Every attempt is made to document guidelines and processes in the handbook. However, it is not possible to document every possible situation or scenario that could potentially occur. Just because something is not yet in the handbook does not mean that it is allowed. GitLab will review each team member's concern or situation based on local laws to determine the best outcome and then update the handbook accordingly. If you have questions, please discuss with your manager or contact the [People Success](https://about.gitlab.com/handbook/people-group/) team.
+As a result, this handbook is far from rigid. You only need to look at the [handbook changelog](https://about.gitlab.com/handbook/CHANGELOG.html) to see the evidence. Every attempt is made to document guidelines and processes in the handbook. However, it is not possible to document every possible situation or scenario that could potentially occur. Just because something is not yet in the handbook does not mean that it is allowed. GitLab will review each team member's concern or situation based on local laws to determine the best outcome and then update the handbook accordingly. If you have questions, please discuss with your manager or contact the [People Success](/handbook/people-group/) team.
 
 ## Handbook Interpretation
 
@@ -55,7 +55,7 @@ The handbook is over *two* *thousand* pages long. That's a lot of good info!
 Word and page counts are determined through a simple two-step process:
 
 1. Count the number of words in the handbook. This can be done by running `find sites/handbook/source/handbook -type f -name "*.md" -o -name "*.md.erb" | xargs wc -w` from the root of the repository.
-1. Count the number of pages in the handbook. This can be done by running `grep -l -r "\- TOC" * | wc -l` from the root of the repository.
+1. Count the number of pages in the handbook. This can be done by running `grep -l -r "\" * | wc -l` from the root of the repository.
 
 Note: If you need to go back to an earlier version of the handbook, use ``git checkout `git rev-list -n 1 --first-parent --before="2021-07-02 00:00" master` `` specifying the next day after the day you want.
 
@@ -71,7 +71,7 @@ GitLab uses [Snowplow](https://docs.gitlab.com/ee/development/snowplow/) to trac
 
 We've gathered *some* information about the handbook here, but there's still more elsewhere.
 
-- [Handbook usage](https://about.gitlab.com/handbook/handbook-usage/)
-- [Evolution of the handbook](https://about.gitlab.com/handbook/ceo/#evolution-of-the-handbook) on the [CEO page](https://about.gitlab.com/handbook/ceo/)
+- [Handbook usage](/handbook/handbook-usage/)
+- [Evolution of the handbook](/handbook/ceo/#evolution-of-the-handbook) on the [CEO page](/handbook/ceo/)
 - [Changelog](https://about.gitlab.com/handbook/CHANGELOG.html)
 - [Handbook editing examples](https://about.gitlab.com/handbook/practical-handbook-edits/)

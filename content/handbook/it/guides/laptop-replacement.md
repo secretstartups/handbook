@@ -12,7 +12,7 @@ Team member laptops can also be replaced before the 3 year period if the replace
 - [Laptop Refresh 3+ Years Order Form](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Refresh_Upgrade)
 - [Laptop Early Refresh Order Form](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Refresh_Upgrade) - Tag your manager for approval and IT will review and approve/deny.
 - [Broken Laptop Replacement Order Form](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement) - Tag your manager for approval and IT will review and approve/deny.
-- [Migration Assistant is blocked](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf/#migration-assistant-is-blocked) - Migration Assistant breaks our endpoint management tools. Please do not use when setting up your new laptop.
+- [Migration Assistant is blocked](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf/#migration-assistant-is-blocked) - Migration Assistant breaks our endpoint management tools. Please do not use when setting up your new laptop.
 
 #### Process Owner and Support
 

@@ -10,7 +10,7 @@ The Associate Technology Partner Manager reports to Manager, Technology Partner 
 
 #### Associate Technology Partner Manager Job Grade
 
-The Associate Technology Partner Manager is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Technology Partner Manager is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Associate Technology Partner Manager Responsibilities
 
@@ -20,7 +20,7 @@ The Associate Technology Partner Manager is a [grade 5](https://about.gitlab.com
 1. Ensure successful execution of marketing and sales acceleration programs, with a drive for measurable outcomes and revenue yield
 1. Facilitate meaningful relationships between GitLab and our technology partners' teams. This includes partners executive leaders, product managers, engineering, sales and marketing.
 1. Identify new opportunities for quality, high ROI engagements with partners
-1. 1. Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+1. 1. Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 #### Associate Technology Partner Manager Requirements
 
@@ -31,8 +31,8 @@ The Associate Technology Partner Manager is a [grade 5](https://about.gitlab.com
 1. Significant experience with executive presence and a proven ability to lead and facilitate executive meetings including architecture whiteboards
 1. Excellent time management and written/verbal communication skills
 1. Ability to quickly understand technical concepts and explain them to audiences of varying technical expertise
-1. [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
-1. Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+1. [Leadership at GitLab](/handbook/company/team/structure/#management-group)
+1. Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 1. Ability to use GitLab
 
 ### Technology Partner Manager (Intermediate)
@@ -41,7 +41,7 @@ The Technology Partner Manager (Intermediate) reports to Manager, Technology Par
 
 #### Technology Partner Manager (Intermediate) Job Grade
 
-The Technology Partner Manager (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Technology Partner Manager (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Technology Partner Manager (Intermediate) Responsibilities
 
@@ -60,7 +60,7 @@ The Senior Technology Partner Manager reports to Manager, Technology Partner Man
 
 #### Senior Technology Partner Manager Job Grade
 
-The Senior Technology Partner Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Technology Partner Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Technology Partner Manager Responsibilities
 
@@ -82,7 +82,7 @@ The Manager, Technology Partner Managers reports to the VP, Alliances.
 
 #### Manager, Technology Partner Managers Job Grade
 
-The Manager, Technology Partner Managers is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Technology Partner Managers is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Technology Partner Managers Responsibilities
 
@@ -113,7 +113,7 @@ The Senior Manager, Technology Partner Managers reports to the Director or VP, A
 
 #### Senior Manager, Technology Partner Managers Job Grade
 
-The Senior Manager, Technology Partner Managers is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Technology Partner Managers is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Technology Partner Managers Responsibilities
 
@@ -132,7 +132,7 @@ The Senior Manager, Technology Partner Managers is a [grade 9](https://about.git
 
 - $ derived from GitLab + Technology partner joint customers
 - Size of Partner Practices - skilled, certified consultants and deliver resources
-- [SMAU](https://about.gitlab.com/handbook/product/performance-indicators/#stage-monthly-active-users-smau) deal acceleration by stage or # seats in named enterprise accounts with assistance of the partners.  This person has the wherewithall to drive revenue derived from the largest of Clouds to the smallest of ISVs
+- [SMAU](/handbook/product/performance-indicators/#stage-monthly-active-users-smau) deal acceleration by stage or # seats in named enterprise accounts with assistance of the partners.  This person has the wherewithall to drive revenue derived from the largest of Clouds to the smallest of ISVs
 
 ## Career Ladder
 
@@ -140,11 +140,11 @@ The next step for the Technology Partner Manager Job Family has not yet been def
 
 ## Hiring Process
 
-Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Selected candidates will be invited to schedule a 30min screening call with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 team members
 - There may be a final executive interview
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

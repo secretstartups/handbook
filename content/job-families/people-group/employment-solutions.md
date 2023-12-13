@@ -6,11 +6,11 @@ Employment Solutions forms part of the People Operations Team at GitLab and dire
 
 ### Employment Solutions Specialist
 
-The Employment Solutions Specialist reports to the [Director, People Operations](https://about.gitlab.com/job-families/people-group/people-connect/)
+The Employment Solutions Specialist reports to the [Director, People Operations](/job-families/people-group/people-connect/)
 
 #### Job Grade
 
-The Employment Solutions Specialist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Employment Solutions Specialist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -50,17 +50,17 @@ The Employment Solutions Specialist is a [grade 6](https://about.gitlab.com/hand
 
 ### Employment Solutions Specialist Performance Indicators
 
-- [100% relocations within due date for eligible relocation requests, in alignment with the people business partners & total rewards](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#complete-relocations-within-due-date-for-eligible-relocation-requests-in-alignment-with-the-people-business-partners--total-rewards)
-- [100% of country conversions are closed within due date](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#country-conversions-completed-within-due-date)
-- [Increase the locations GitLab can offer work-sponsorship in by 2, in alignment with legal and tax](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#increase-the-locations-gitlab-can-offer-work-sponsorship-in-alignment-with-legal-and-tax)
+- [100% relocations within due date for eligible relocation requests, in alignment with the people business partners & total rewards](/handbook/people-group/people-success-performance-indicators/#complete-relocations-within-due-date-for-eligible-relocation-requests-in-alignment-with-the-people-business-partners--total-rewards)
+- [100% of country conversions are closed within due date](/handbook/people-group/people-success-performance-indicators/#country-conversions-completed-within-due-date)
+- [Increase the locations GitLab can offer work-sponsorship in by 2, in alignment with legal and tax](/handbook/people-group/people-success-performance-indicators/#increase-the-locations-gitlab-can-offer-work-sponsorship-in-alignment-with-legal-and-tax)
 
 ### Employment Solutions Partner
 
-The Employment Solutions Partner reports to the [Director, People Operations](https://about.gitlab.com/job-families/people-group/people-connect/).
+The Employment Solutions Partner reports to the [Director, People Operations](/job-families/people-group/people-connect/).
 
 #### Job Grade
 
-The Employment Solutions Parnter is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Employment Solutions Parnter is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Employment Solutions Partner Responsibilities
 
@@ -99,9 +99,9 @@ The Employment Solutions Parnter is a [grade 7](https://about.gitlab.com/handboo
 
 ### Employment Solutions Partner Performance Indicators
 
-- [100% relocations within due date for eligible relocation requests, in alignment with the people business partners & total rewards](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#complete-relocations-within-due-date-for-eligible-relocation-requests-in-alignment-with-the-people-business-partners--total-rewards)
-- [100% of country conversions are closed within due date](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#country-conversions-completed-within-due-date)
-- [Increase the locations GitLab can offer work-sponsorship in by 2, in alignment with legal and tax](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#increase-the-locations-gitlab-can-offer-work-sponsorship-in-alignment-with-legal-and-tax)
+- [100% relocations within due date for eligible relocation requests, in alignment with the people business partners & total rewards](/handbook/people-group/people-success-performance-indicators/#complete-relocations-within-due-date-for-eligible-relocation-requests-in-alignment-with-the-people-business-partners--total-rewards)
+- [100% of country conversions are closed within due date](/handbook/people-group/people-success-performance-indicators/#country-conversions-completed-within-due-date)
+- [Increase the locations GitLab can offer work-sponsorship in by 2, in alignment with legal and tax](/handbook/people-group/people-success-performance-indicators/#increase-the-locations-gitlab-can-offer-work-sponsorship-in-alignment-with-legal-and-tax)
 
 ## Career Ladder
 
@@ -111,10 +111,10 @@ The next step in the People Operations job family is to move to the [People Oper
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with our Senior Manager, People Operations.
 - After that, candidates will be invited to schedule a 30 minute interview with members of the People Operations and International Expansion Team.
 - After that, candidates will be invited to interview with the Senior Director, People Success.
 - Finally, a member of our e-team might request a final interview.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

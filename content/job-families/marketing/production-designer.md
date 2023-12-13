@@ -35,7 +35,7 @@ At GitLab, Production Designers collaborate closely with Brand Designers, and ot
 
 #### Job Grade
 
-The Associate Production Designer is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Production Designer is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -52,7 +52,7 @@ The Associate Production Designer is a [grade 5](https://about.gitlab.com/handbo
 
 #### Job Grade
 
-The Production Designer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Production Designer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -69,7 +69,7 @@ The Production Designer is a [grade 6](https://about.gitlab.com/handbook/total-r
 
 #### Job Grade
 
-The Senior Production Designer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Production Designer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -86,7 +86,7 @@ The Senior Production Designer is a [grade 7](https://about.gitlab.com/handbook/
 
 #### Job Grade
 
-The Manager, Production Design is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Production Design is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 

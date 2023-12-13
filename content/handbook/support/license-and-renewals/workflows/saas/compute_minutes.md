@@ -35,7 +35,7 @@ please request the customer to provide a list of impacted projects to our Suppor
   - `Total compute minutes = Their current compute minutes + (2 x sum of compute minutes for all failed jobs)`
   1. Request Manager Approval to `Restore Compute Minutes as an act of goodwill` to the [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT) channel in Slack
   1. MANAGERS: Acknowledge in Slack and post approval via internal note in the ticket.
-  1. Once Approval provided in ticket, restore the compute minutes using the [mechanizer zendesk app: Set compute minutes to namespace workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#set-compute-minutes-to-namespace)
+  1. Once Approval provided in ticket, restore the compute minutes using the [mechanizer zendesk app: Set compute minutes to namespace workflow](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer#set-compute-minutes-to-namespace)
 - This will provide recovery of the compute minutes lost, with an additional amount in recognition of the inconvenience caused to the customer
 - If the request falls outside of the examples above, any additional compute minutes should be paid for. If you are unsure, verify in
 the [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT) channel in Slack.
@@ -54,7 +54,7 @@ To transfer compute minutes from a user's personal namespace to a group namespac
 
 - Confirm that the compute minutes *are* associated with the user's personal namespace.
 - Verify that the compute minutes associated with the personal namespace have not been consumed. You can check this under Usage Quotas in the users personal profile.  Note: If compute minutes are assigned to a personal namespace with no project or pipeline, this page will show `0/Not supported minutes has been consumed.`
-  - **If they have not been consumed**, inform the customer that they've selected their personal namespace instead of their group when they purchased the compute minutes and pass the ticket to the [billing team](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#refunds) to process the refund. The customer can then repurchase the compute minutes for their group.
+  - **If they have not been consumed**, inform the customer that they've selected their personal namespace instead of their group when they purchased the compute minutes and pass the ticket to the [billing team](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments#refunds) to process the refund. The customer can then repurchase the compute minutes for their group.
   - **If they have been consumed**, the customer is not eligible for a refund - inform the customer that they are already using the purchased compute minutes, and redirect the customer to purchase a new compute minutes pack corresponding to their group.
 
 ### GitLab.com group is not visible during the purchase
@@ -70,7 +70,7 @@ Please do **not** use the enabling compute minutes process for validating a user
 Qualifying requirements:
 
 1. Requester has [filed an internal request](https://gitlab-com.gitlab.io/support/internal-requests-form/) or ZenDesk ticket to track request.
-1. Request is approved or created by a [Community Relations](https://about.gitlab.com/handbook/marketing/developer-relations/#-meet-the-team) or [Contributor Success](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/#team-members) team member.
+1. Request is approved or created by a [Community Relations](/handbook/marketing/developer-relations/#-meet-the-team) or [Contributor Success](/handbook/marketing/developer-relations/contributor-success/#team-members) team member.
 1. GitLab.com admin account
 
 Once verified, use the following steps:

@@ -8,7 +8,7 @@ title: "SEC & SOX Reporting or Corporate Controller"
 
 #### Senior SEC Analyst Job Grade
 
-The Senior SEC Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior SEC Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior SEC Analyst Job Responsbilities
 
@@ -39,7 +39,7 @@ The Manager, SEC reports to the Director, SEC.
 
 #### Manager, SEC Job Grade
 
-The SEC Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The SEC Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -70,7 +70,7 @@ The Senior Manager, SEC and Technical Reporting reports to the Director, SEC.
 
 #### Senior Manager, SEC and Technical Reporting Job Grade
 
-The Senior Manager, SEC and Technical Reporting is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, SEC and Technical Reporting is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, SEC and Technical Reporting Responsibilities
 
@@ -98,11 +98,11 @@ CPA
 
 ### Director, Record to Report
 
-The Director, Record to Report reports to the [Corporate Controller](https://about.gitlab.com/job-families/finance/corporate-controller/#director-corporate-controller).
+The Director, Record to Report reports to the [Corporate Controller](/job-families/finance/corporate-controller/#director-corporate-controller).
 
 #### Director, Record to Report
 
-The Director, Record to Report is a [grade #10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Record to Report is a [grade #10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Record to Report Responsibilities
 
@@ -148,11 +148,11 @@ The Director, Record to Report is a [grade #10](https://about.gitlab.com/handboo
 
 ## Performance Indicators
 
-1. [Average days to close](https://about.gitlab.com/handbook/finance/accounting/#average-days-to-close-kpi-definition)
-1. [Number of material audit adjustments](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
-1. [Average days of sales outstanding](https://about.gitlab.com/handbook/finance/accounting/#11-accounts-receivable)
+1. [Average days to close](/handbook/finance/accounting/#average-days-to-close-kpi-definition)
+1. [Number of material audit adjustments](/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
+1. [Average days of sales outstanding](/handbook/finance/accounting/#11-accounts-receivable)
 1. [New hire location factor](/#new-hire-location-factor)
-1. [Percentage of ineffective SOX Controls](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
+1. [Percentage of ineffective SOX Controls](/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
 
 ## Career Ladder
 
@@ -162,8 +162,8 @@ The next step in the Corporate Controller job family is to move to a senior lead
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Qualified candidates will then be invited to interview with 2 - 4 team members
 - Qualified candidates may be invited for a final executive interview
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

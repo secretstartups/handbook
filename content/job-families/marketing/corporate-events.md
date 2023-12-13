@@ -11,7 +11,7 @@ The Corporate Events Coordinator reports to Manager, Corporate Events.
 
 #### Corporate Events Coordinator Job Grade
 
-The Corporate Events Manager (Intermediate) is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Corporate Events Manager (Intermediate) is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Corporate Events Coordinator Responsibilities
 
@@ -42,7 +42,7 @@ The Corporate Events Manager (Intermediate) reports to Manager, Corporate Events
 
 #### Corporate Events Manager (Intermediate) Job Grade
 
-The Corporate Events Manager (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Corporate Events Manager (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Corporate Events Manager (Intermediate) Responsibilities
 
@@ -75,8 +75,8 @@ Ability to travel if needed and comply with the company’s travel policy.
 
 ### Coordinator and Intermediate Performance Indicators
 
-- [Net new business created](https://about.gitlab.com/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
-- [Pipe to Spend](https://about.gitlab.com/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
+- [Net new business created](/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
+- [Pipe to Spend](/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
 
 ### Senior Corporate Events Manager
 
@@ -84,7 +84,7 @@ The Senior Corporate Events Manager reports to Manager, Corporate Events and Bra
 
 #### Senior Corporate Events Manager Job Grade
 
-The Senior Corporate Events Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Corporate Events Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Corporate Events Manager Responsibilities
 
@@ -99,7 +99,7 @@ The Senior Corporate Events Manager is a [grade 7](https://about.gitlab.com/hand
 
 #### Senior Corporate Events Manager Performance Indicators
 
-- [50% or more SOV compared to most published competitor](https://about.gitlab.com/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
+- [50% or more SOV compared to most published competitor](/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
 
 ### Senior Global Events Manager
 
@@ -107,7 +107,7 @@ The Senior Global Events Manager reports to the Manager, Brand Activation.
 
 #### Senior Global Events Manager Job Grade
 
-The Senior Global Events Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Global Events Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Global Events Manager Requirements
 
@@ -135,10 +135,10 @@ Ability to travel if needed and comply with the company’s travel policy.
 
 #### Senior Global Events Manager Performance Indicators
 
-- [Net new business created](https://about.gitlab.com/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
-- [Pipe to Spend](https://about.gitlab.com/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
-- [50% or more SOV compared to most published competitor](https://about.gitlab.com/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
-- [Marketing efficency ratio](https://about.gitlab.com/handbook/marketing/performance-indicators/#marketing-efficiency-ratio)
+- [Net new business created](/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
+- [Pipe to Spend](/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
+- [50% or more SOV compared to most published competitor](/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
+- [Marketing efficency ratio](/handbook/marketing/performance-indicators/#marketing-efficiency-ratio)
 
 ## Specialties
 
@@ -183,7 +183,7 @@ The Manager, Corporate Events reports to Director, Corporate Events.
 
 #### Manager, Corporate Events Job Grade
 
-The Manager, Corporate Events is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Corporate Events is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Corporate Events Responsibilities
 
@@ -215,7 +215,7 @@ The Senior Manager, Corporate Events reports to Director, Corporate Events.
 
 #### Senior Manager, Corporate Events Job Grade
 
-The Senior Manager, Corporate Events is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Corporate Events is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Corporate Events Responsibilities
 
@@ -238,11 +238,11 @@ The Senior Manager, Corporate Events is a [grade 9](https://about.gitlab.com/han
 
 #### Manager and Senior Manager Performance Indicators
 
-- [Net new business created](https://about.gitlab.com/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
-- [Pipe to Spend](https://about.gitlab.com/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
-- [50% or more SOV compared to most published competitor](https://about.gitlab.com/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
-- [Marketing efficency ratio](https://about.gitlab.com/handbook/marketing/performance-indicators/#marketing-efficiency-ratio)
-- [LTV / CAC ratio](https://about.gitlab.com/handbook/marketing/performance-indicators/#ltv--cac-ratio)
+- [Net new business created](/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
+- [Pipe to Spend](/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
+- [50% or more SOV compared to most published competitor](/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
+- [Marketing efficency ratio](/handbook/marketing/performance-indicators/#marketing-efficiency-ratio)
+- [LTV / CAC ratio](/handbook/marketing/performance-indicators/#ltv--cac-ratio)
 
 ### Director, Corporate Events
 
@@ -250,7 +250,7 @@ Director, Corporate Events reports to VP, Integrated Marketing.
 
 ### Director, Corporate Events Job Grade
 
-The Director, Corporate Events is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Corporate Events is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Corporate Events Responsibilities
 
@@ -283,11 +283,11 @@ The Director, Corporate Events is a [grade 10](https://about.gitlab.com/handbook
 
 #### Director Performance Indicators
 
-- [Net new business created](https://about.gitlab.com/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
-- [Pipe to Spend](https://about.gitlab.com/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
-- [50% or more SOV compared to most published competitor](https://about.gitlab.com/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
-- [Marketing efficency ratio](https://about.gitlab.com/handbook/marketing/performance-indicators/#marketing-efficiency-ratio)
-- [LTV / CAC ratio](https://about.gitlab.com/handbook/marketing/performance-indicators/#ltv--cac-ratio)
+- [Net new business created](/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
+- [Pipe to Spend](/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
+- [50% or more SOV compared to most published competitor](/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
+- [Marketing efficency ratio](/handbook/marketing/performance-indicators/#marketing-efficiency-ratio)
+- [LTV / CAC ratio](/handbook/marketing/performance-indicators/#ltv--cac-ratio)
 
 ## Career Ladder
 
@@ -295,12 +295,12 @@ The next step in the Corporate Events job family is not yet defined at GitLab.
 
 ## Hiring process
 
-Candidates for these positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for these positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters
+- Qualified candidates will be invited to a 30 minute [screening call](/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters
 - Candidates will be invited to a 50 minute interview with the VP, Integrated Marketing
 - Candidates will be invited to a 50 minute interview with the Director, Field Marketing
 - Candidates will be invited to a 50 minute interview with the Director, Partner Marketing
 - Candidates will be invited to a 50 minute interview with the Marketing - Director, People Business Partner
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

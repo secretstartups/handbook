@@ -119,6 +119,31 @@ deleted. You might need to edit it first to remove rules and persons first.
     - Incident Management - CMOC (APAC Group 1)
     - Incident Management - CMOC (APAC Group 2)
     - Shadow - Incident Management - CMOC
+    - Support Managers - AMER
+  - Escalates after 10 min
+- Level 2
+  - Notify the following users or schedules
+    - Support Manager - AMER
+    - Support Manager - APAC
+    - Support Manager - EMEA
+  - Escalates after 5 min
+- Level 3:
+  - Notify the following users or schedules
+    - Shaun McCann
+    - Lee Matos
+    - Lyle Kozloff
+    - Val Parsons
+
+#### Incident Management - GDCMOC Rotation
+
+- [Escalation policy link](https://gitlab.pagerduty.com/escalation_policies#PN032FC)
+- Level 1
+  - Notify the following users or schedules
+    - Incident Management - CMOC (AMER)
+    - Incident Management - CMOC (EMEA)
+    - Incident Management - CMOC (APAC Group 1)
+    - Incident Management - CMOC (APAC Group 2)
+    - Shadow - Incident Management - CMOC
   - Escalates after 10 min
 - Level 2
   - Notify the following users or schedules
@@ -149,16 +174,18 @@ deleted. You might need to edit it first to remove rules and persons first.
   - Notify the following users or schedules
     - US Federal On-Call
     - US Federal On-Call - Shadow
-  - Escalates after 15 min
+  - Escalates after 10 min
 - Level 2
   - Notify the following users or schedules
     - Support Manager - AMER
-  - Escalates after 20 min
+    - Support Manager - APAC
+    - Support Manager - EMEA
+  - Escalates after 5 min
 - Level 3
   - Notify the following users or schedules
     - Lyle Kozloff
     - Lee Matoes
-    - Jason Colyer
+    - James Lopes
 
 ## Change management
 

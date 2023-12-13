@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Cloud licensing and the support exemption process explained
 description: "How to generate a legacy license for a customer who cannot use Cloud Licensing"
 category: GitLab Self-Managed licenses
@@ -57,7 +57,7 @@ The Pre-Sale Exemption process is intended to be the **only means** of opt out, 
 
 If a customer requires a Legacy License or an Offline License **post-sale**, the sales account manager must obtain Sales VP approval for a Cloud Licensing exemption. When approval is obtained and documented in SFDC, the account manager must then [open an Internal Request with Support](https://gitlab-com.gitlab.io/support/internal-requests-form/) > `Self Managed License Related` > `Cloud Licensing Exemption`. Full instructions for the account manager [can be found in Highspot](https://gitlab.highspot.com/items/629a82af9092e7ac989947ca?lfrm=srp.0) (visible to Sales team only).
 
-If the customer's subscription or trial/temp license has expired, and they require access during the approval process, the account manager must [open an Internal Request with Support](https://gitlab-com.gitlab.io/support/internal-requests-form/) > `Self Managed` > `Extend an (almost) expired subscription`. The support engineer should [provide the customer with a trial license](https://handbook.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/trials/) until post-sales opt-out approval is received and handled in the related Internal Request.
+If the customer's subscription or trial/temp license has expired, and they require access during the approval process, the account manager must [open an Internal Request with Support](https://gitlab-com.gitlab.io/support/internal-requests-form/) > `Self Managed` > `Extend an (almost) expired subscription`. The support engineer should [provide the customer with a trial license](/handbook/support/license-and-renewals/workflows/self-managed/trials/) until post-sales opt-out approval is received and handled in the related Internal Request.
 
 #### How to process a Cloud Licensing exemption internal request
 
@@ -85,7 +85,7 @@ If the customer's subscription or trial/temp license has expired, and they requi
 1. Locate the new generated license:
     - The license should be one of the first licenses at the top.
     - If it is not, search for the license using the `Sold To Email` from step 2.
-1. [Resend the license](/handbook/support/license-and-renewals/workflows/self-managed/sending_license_to_different_email.html)
+1. [Resend the license](/handbook/support/license-and-renewals/workflows/self-managed/sending_license_to_different_email)
 because the automatically generated license does not trigger license email notification.
 1. Reply to the IR ticket with a link to the license and mark the ticket as `Solved`.
 

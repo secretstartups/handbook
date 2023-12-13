@@ -6,25 +6,25 @@ title: "Channel Services"
 
 | Role | Grade |
 | -- | - |
-| [Junior Channel Services Manager](#junior-channel-services-manager) | [Grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Channel Services Manager](#channel-services-manager) | [Grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Senior Channel Services Manager](#senior-channel-services-manager) | [Grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Lead Channel Services Manager](#lead-channel-services-manager) | [Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Junior Channel Services Manager](#junior-channel-services-manager) | [Grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Channel Services Manager](#channel-services-manager) | [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Senior Channel Services Manager](#senior-channel-services-manager) | [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Lead Channel Services Manager](#lead-channel-services-manager) | [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 
 ## Leadership
 
 | Role | Grade |
 | -- | - |
-| [Manager, Channel Services](#manager-channel-services) | [Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Senior Manager, Channel Services](#senior-manager-channel-services) | [Grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Director, Channel Services](#director-channel-services) | [Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Senior Director, Channel Services](#senior-director-channel-services) | [Grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Manager, Channel Services](#manager-channel-services) | [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Senior Manager, Channel Services](#senior-manager-channel-services) | [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Director, Channel Services](#director-channel-services) | [Grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Senior Director, Channel Services](#senior-director-channel-services) | [Grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 
 ## Junior Channel Services Manager
 
 #### Job Grade
 
-The Junior Channel Services Manager is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Junior Channel Services Manager is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -38,7 +38,7 @@ To be defined at time of business need.
 
 ### Job Grade
 
-The Channel Services Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Channel Services Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -66,13 +66,13 @@ The Channel Services Manager is a [grade 6](https://about.gitlab.com/handbook/to
 - BS/BA required or equivalent experience; MBA a plus
 - DevOps experience a plus
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ## Senior Channel Services Manager
 
 ### Job Grade
 
-The Senior Channel Services Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Channel Services Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -102,13 +102,13 @@ The Senior Channel Services Manager is a [grade 7](https://about.gitlab.com/hand
 - BS/BA required or equivalent experience
 - DevOps experience a plus
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ## Lead Channel Services Manager
 
 #### Job Grade
 
-The Lead Channel Services Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Lead Channel Services Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 **Market Justification:** The business need for an individual contributor Lead Channel Services Manager is because they provide a high level of expertise in Channel Services and strategy to develop a roadmap, collaboration opportunities with partners, and cross-functional intiatives that require a greater depth and breadth of experience across business functions. In the market, there are at least 20 organizations that typically have 2 Lead Channel Services Managers.
 
@@ -144,13 +144,13 @@ The Lead Channel Services Manager is a [grade 8](https://about.gitlab.com/handbo
 - BS/BA required or equivalent experience; MBA a plus
 - Experience in the DevOps space a plus
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ## Manager, Channel Services
 
 #### Job Grade
 
-The Manager, Channel Services is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Channel Services is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -164,7 +164,7 @@ To be defined at time of business need.
 
 #### Job Grade
 
-The Senior Manager, Channel Services is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Channel Services is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -190,13 +190,13 @@ The Senior Manager, Channel Services is a [grade 9](https://about.gitlab.com/han
 - Experience in the DevOps space a plus
 - Experience in recruiting and leading high performing teams.
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ## Director, Channel Services
 
 #### Job Grade
 
-The Director, Channel Services is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Channel Services is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -222,13 +222,13 @@ The Director, Channel Services is a [grade 10](https://about.gitlab.com/handbook
 - BS/BA required or equivalent experience; MBA a plus
 - Experience in the DevOps space a plus
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ## Senior Director, Channel Services
 
 #### Job Grade
 
-The Senior Director, Channel Services is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Channel Services is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -264,4 +264,4 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Phone screen with a GitLab Recruiting team member
 1. Video Interview with the Hiring Manager
 1. Team Interviews with 1-4 teammates
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

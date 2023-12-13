@@ -43,7 +43,7 @@ The Analytics and Insights job family is responsible for providing data driven i
 
 #### Job Grade
 
-The Analytics and Insights Senior Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Analytics and Insights Senior Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -69,7 +69,7 @@ The Analytics and Insights Senior Analyst is a [grade 6](https://about.gitlab.co
 
 #### Job Grade
 
-The Analytics and Insights Senior Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Analytics and Insights Senior Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -86,7 +86,7 @@ The Analytics and Insights Senior Analyst is a [grade 7](https://about.gitlab.co
 
 #### Job Grade
 
-The Business Analytics and Insights Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Business Analytics and Insights Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -105,7 +105,7 @@ The Business Analytics and Insights Manager is a [grade 8](https://about.gitlab.
 
 #### Job Grade
 
-The Business Analytics and Insights Senior Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Business Analytics and Insights Senior Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -124,7 +124,7 @@ The Business Analytics and Insights Senior Manager is a [grade 9](https://about.
 
 #### Job Grade
 
-The Director, Business Analytics and Insights is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Business Analytics and Insights is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -142,6 +142,6 @@ The Director, Business Analytics and Insights is a [grade 10](https://about.gitl
 
 ## Performance Indicators
 
-- Throughput: [Issues or merge requests closed as measurement of analyses completed](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/performance-indicators/#throughput-for-the-cost)
+- Throughput: [Issues or merge requests closed as measurement of analyses completed](/handbook/ceo/chief-of-staff-team/performance-indicators/#throughput-for-the-cost)
 - Business partnering satisfaction
 - Dollars of ARR growth found through Analysis

@@ -15,7 +15,7 @@ The Business Development Associate (BDA) reports to the Enterprise BDR Manager a
 
 #### Business Development Associate Job Grade
 
-The Business Development Associate is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Business Development Associate is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Business Development Associate Responsibilities
 
@@ -46,7 +46,7 @@ The Sales Development Representative (SDR) reports to the SDR Manager and is foc
 
 #### Sales Development Representative Job Grade
 
-The SDR is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The SDR is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Sales Development Representative Responsibilities
 
@@ -78,7 +78,7 @@ The Sales Development Team Lead reports to the SDR/BDR Manager.
 
 #### Sales Development Team Lead Job Grade
 
-The Sales Development Team Lead is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Sales Development Team Lead is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Sales Development Team Lead Responsibilities
 
@@ -98,7 +98,7 @@ The Business Development Representative reports to the BDR Manager and is focuse
 
 #### Business Development Representative Grade Level
 
-The BDR is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The BDR is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Business Development Representative Responsibilities
 
@@ -135,7 +135,7 @@ The Senior Business Development Representative reports to the BDR Manager.
 
 #### Senior Business Development Representative Job Grade
 
-The Senior Business Development Representative is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Business Development Representative is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Business Development Representative Responsibilities
 
@@ -154,7 +154,7 @@ The Business Development Representative Team Lead reports to the SDR/BDR Manager
 
 #### Business Development Representative Team Lead Job Grade
 
-The Business Development Representative Team Lead is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Business Development Representative Team Lead is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Business Development Representative Team Lead Responsibilities
 
@@ -241,11 +241,11 @@ GitLab is one of the fastest growing companies and there are a lot of less conve
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the SDR Manager for the region they have applied for
 - Candidates will then be invited to schedule an interview with a regional leader
 - Following successful interviews, candidates will then be invited to complete a final writing assessment
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

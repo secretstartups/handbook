@@ -15,7 +15,7 @@ a variety of tasks towards that end.
 ### Job Grade
 
 The Support Readiness Specialist is a
-[grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+[grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### What you can expect in a Support Readiness Specialist role at GitLab
 
@@ -76,11 +76,11 @@ coworkers, easier. Current and past Support Readiness Specialists in Operations 
   [tooling to generate weekly 1-1 issues](https://gitlab.com/gitlab-com/support/toolbox/1-1-issue-generator)
   for Support Engineers containing metrics, random tickets to review, etc.
 - Developed
-  [tooling to generate weekly account deletion reports](https://about.gitlab.com/handbook/support/support-ops/documentation/adwr.html).
+  [tooling to generate weekly account deletion reports](/handbook/support/support-ops/documentation/adwr.html).
 - Leaned into
   [dogfooding](https://about.gitlab.com/handbook/engineering/development/principles/#dogfooding) by
   having various aspects of Zendesk
-  [version controlled via GitLab.com](https://about.gitlab.com/handbook/support/support-ops/documentation/sync_repos.html).
+  [version controlled via GitLab.com](/handbook/support/support-ops/documentation/sync_repos.html).
 - ...and even more!
 
 ### Services Delivery
@@ -102,7 +102,7 @@ on trends in feedback.
 - Liaise with Product and Engineering based on insights gathered from tickets and SSAT
 to help inform priorities based on customer impact.
 - Build two-way roads between Product and Support by working with the pool of
-  global Support Engineers acting as [Support Stable Counterparts](https://about.gitlab.com/handbook/support/#support-stable-counterparts)
+  global Support Engineers acting as [Support Stable Counterparts](/handbook/support/#support-stable-counterparts)
 
 ### Training
 
@@ -112,7 +112,7 @@ GitLab every day have relevant expertise to resolve customer issues quickly.
 To do this you'll:
 
 - develop relevant and engaging learning content based on expressed and discovered needs.
-- work with [Support Management](https://about.gitlab.com/job-families/engineering/support-management/) to help [Support Engineers](https://about.gitlab.com/job-families/engineering/support-engineer/) prioritize
+- work with [Support Management](/job-families/engineering/support-management/) to help [Support Engineers](/job-families/engineering/support-engineer/) prioritize
 progress through [training modules](https://gitlab.com/gitlab-com/support/support-training) or other professional development content.
 - improve publicly available and paid learning content by working with our
 Channel and Learning and Development teams to avoid duplication of
@@ -125,7 +125,7 @@ workflow information or documentation closer to customers, Support Engineers
 and Support Management.
 - coordinate with Support Readiness Specialists in Service Delivery on improving
 ticket quality and customer satisfaction with Support (SSAT).
-- facilitate the self-organization and activities of [Support Pods](https://about.gitlab.com/handbook/support/workflows/working-with-pods.html)
+- facilitate the self-organization and activities of [Support Pods](/handbook/support/workflows/working-with-pods.html)
 - keep your eye on the horizon for product and offering changes to keep support prepared for the future.
 
 ### Requirements
@@ -165,7 +165,7 @@ every member's ability to contribute.
 #### Job Grade
 
 The Senior Support Engineer is a
-[grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+[grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### What you can expect in a Senior Support Readiness Specialist role at GitLab
 
@@ -202,12 +202,12 @@ workflows through our applications:
 
 - Providing top tier support to the GitLab Support Engineering team
 - Driving the Support Operations
-  [mission](https://about.gitlab.com/handbook/support/support-ops/#mission) and
-  [vision](https://about.gitlab.com/handbook/support/support-ops/#vision)
+  [mission](/handbook/support/support-ops/#mission) and
+  [vision](/handbook/support/support-ops/#vision)
 - Maintenance of
-  [Support Operations documentation](https://about.gitlab.com/handbook/support/support-ops/documentation/)
+  [Support Operations documentation](/handbook/support/support-ops/documentation/)
 - Adherence and improvement of
-  [Support Operations workflows](https://about.gitlab.com/handbook/support/support-ops/workflows/)
+  [Support Operations workflows](/handbook/support/support-ops/workflows/)
 
 ### Hiring Process
 
@@ -215,7 +215,7 @@ Candidates for this position can expect the hiring process to follow the order
 below. Please keep in mind that candidates can be declined from the position at
 any stage of the process. To learn more about someone who may be conducting the
 interview, find their job title on our
-[team page](https://about.gitlab.com/company/team).
+[team page](/handbook/company/team).
 
 - Qualified candidates will be invited to schedule a 30 minute screening call
   with our Global Recruiters.
@@ -231,7 +231,7 @@ interview, find their job title on our
 - Successful candidates will subsequently be made an offer via email.
 
 Additional details about our process can be found on our
-[hiring page](https://about.gitlab.com/handbook/hiring/).
+[hiring page](/handbook/hiring/).
 
 ### Compensation Calculator
 
@@ -250,9 +250,9 @@ work from read-only to read-write so that everyone can contribute.
 
 We [value](/handbook/values/) results, transparency,
 sharing, freedom, efficiency,
-[self-learning](https://about.gitlab.com/company/culture/all-remote/self-service/#how-self-learning-leads-to-success-in-your-role),
+[self-learning](/handbook/company/culture/all-remote/self-service/#how-self-learning-leads-to-success-in-your-role),
 frugality, collaboration, directness, kindness, diversity, inclusion and
 belonging, boring solutions, and quirkiness. If these values match your
 personality, work ethic, and personal goals, we encourage you to visit our
-[primer](https://about.gitlab.com/company/) to learn more. Open source is our
+[primer](/handbook/company/) to learn more. Open source is our
 culture, our way of life, our story, and what makes us truly unique.

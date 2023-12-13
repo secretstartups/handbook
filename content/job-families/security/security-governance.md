@@ -4,7 +4,7 @@ description: "Security Governance professionals at GitLab focus on our security 
 extra_js:
 - libs/mermaid.min.js
 ---
-As members of GitLab's [Security Assurance sub department](https://about.gitlab.com/handbook/security/security-assurance/), it is the goal of the [Security Governance](https://about.gitlab.com/handbook/security/security-assurance/governance/) function to:
+As members of GitLab's [Security Assurance sub department](/handbook/security/security-assurance/), it is the goal of the [Security Governance](/handbook/security/security-assurance/governance/) function to:
 
 - Provide oversight and coordination of security policies, procedures, metrics and internally facing training
 - Ensure security documentation upholds Gitlab's security governance framework through monitoring of the regulatory and compliance landscapes applicable to GitLab and our stakeholders.
@@ -34,7 +34,7 @@ This position reports to the Manager, Governance and Field Security
 
 #### Security Governance Engineer (Intermediate) Job Grade
 
-The {Security Governance Engineer} is a [6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Security Governance Engineer} is a [6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Security Governance Engineer (Intermediate) Responsibilities
 
@@ -59,7 +59,7 @@ This position reports to the Manager, Governance and Field Security
 
 #### Senior Security Governance Engineer Job Grade
 
-The {Senior Security Governance Engineer} is a [7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Senior Security Governance Engineer} is a [7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Security Governance Engineer Responsibilities
 
@@ -84,7 +84,7 @@ This position reports to the Director, Security Assurance.
 
 #### Manager, Governance and Field Security Job Grade
 
-The {Manager, Governance and Field Security} is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Manager, Governance and Field Security} is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Governance and Field Security Responsibilities
 
@@ -111,7 +111,7 @@ This position reports to the Director, Security Assurance.
 
 #### Senior Manager, Governance and Field Security
 
-The {Senior Manager, Governance and Field Security} is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Senior Manager, Governance and Field Security} is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Governance and Field Security Responsibilities
 
@@ -136,7 +136,7 @@ The {Senior Manager, Governance and Field Security} is a [grade 9](https://about
 
 ### Security Automation - Security Assurance Operations
 
-This role is interconnected with GitLab's [Security Automation team](https://about.gitlab.com/job-families/security/security-engineer/#security-automation), this specialty is explicitly focused on the development and automation of Security Assurance processes and controls.
+This role is interconnected with GitLab's [Security Automation team](/job-families/security/security-engineer/#security-automation), this specialty is explicitly focused on the development and automation of Security Assurance processes and controls.
 
 #### Security Automation - Security Assurance Operations Requirements
 
@@ -165,7 +165,7 @@ For details on the Security organization leadership roles, to include the Securi
 
 ## Performance Indicators
 
-- [Security Control Health](https://about.gitlab.com/handbook/security/performance-indicators/#security-control-health)
+- [Security Control Health](/handbook/security/performance-indicators/#security-control-health)
 
 ## Career Ladder
 
@@ -179,11 +179,11 @@ For details on the Security organization leadership roles, to include the Securi
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 50-minute interview with the hiring manager,
 - Then, candidates will be invited to schedule 3 separate 50-minute interviews with 3 different peers from within the Security organization,
 - Finally, candidates will be invited to schedule a 25-minute interview with the Director, Security Assurance.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

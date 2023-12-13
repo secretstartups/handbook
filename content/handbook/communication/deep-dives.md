@@ -45,7 +45,7 @@ At a minimum it usually makes sense to invite your team to the session, but you 
 1. Upload it to Google Drive.
 1. Upload it to YouTube:
 
-   - Follow the [instructions](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#access) to get access.
+   - Follow the [instructions](/handbook/marketing/marketing-operations/youtube/#access) to get access.
    - Add it to your team's playlist (if available).
    - You can copy the description from a [previous talk](https://www.youtube.com/watch?v=CW0SujsABrs&list=PLFGfElNsQthZ-D0khZ_NSb5Bdl2xkF97m&index=2).
    - You can screenshot the first slide and use that as the video thumbnail.
@@ -60,4 +60,4 @@ At a minimum it usually makes sense to invite your team to the session, but you 
 - The primary audience will be slightly familiar with the topic but other attendees will be more interested in the high level overview.
 - If available, you could use a second screen with a smaller resolution for the presentation & demo, so that any text would be bigger on the video.
 - Increase the font size in your text editor and terminal.
-- There are further tips in [the handbook](https://about.gitlab.com/handbook/group-conversations/), such as turning off notifications.
+- There are further tips in [the handbook](/handbook/group-conversations/), such as turning off notifications.

@@ -1,0 +1,49 @@
+{
+    "default_locale": "en",
+    "short_name": "Handbook",
+    "name": "GitLab Handbook",
+    "description": "The GitLab Public Handbook",
+    "display": "minimal-ui",
+    "display_override": ["minimal-ui"],
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/favicons/favicon-1024x1024.png",
+            "type": "image/png",
+            "sizes": "1024x1024"
+        },
+        {
+            "src": "/favicons/favicon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/favicons/favicon-256x256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "/favicons/favicon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/favicons/favicon-144x144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/favicons/favicon-128x128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+          "src": "/macos-handbook-icon.svg",
+          "type": "image/svg",
+          "sizes": "any"
+        }
+    ],
+    "start_url": "/",
+    "theme_color": "#6e49cb",
+    "background_color": "#ffffff"
+}

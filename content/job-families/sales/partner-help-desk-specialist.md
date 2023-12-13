@@ -13,7 +13,7 @@ The Partner Help Desk Specialist (Intermediate) reports to the Manager, Partner 
 
 #### Partner Help Desk Specialist (Intermediate) Job Grade
 
-The Partner Help Desk Specialist (Intermediate) is a [Grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Partner Help Desk Specialist (Intermediate) is a [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Partner Help Desk Specialist (Intermediate) Responsibilities
 
@@ -36,7 +36,7 @@ The Partner Help Desk Specialist (Intermediate) is a [Grade 6](https://about.git
 - Broad personal network within the industry.
 - Driven, highly motivated and results driven.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/handbook/leadership/).
+- [Leadership at GitLab](/handbook/leadership/).
 - Desire to learn the use of the GitLab platform.
 - Ability to use GitLab.
 
@@ -46,7 +46,7 @@ The Senior Partner Help Desk Specialist reports to Manager, Partner Help Desk.
 
 #### Senior Partner Help Desk Specialist Job Grade
 
-The Senior Partner Help Desk Specialist is a [Grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Partner Help Desk Specialist is a [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Partner Help Desk Specialist Responsibiliites
 
@@ -65,7 +65,7 @@ The Manager,Partner Help Desk reports to [Senior Director, Channel Programs and 
 
 #### Manager, Partner Help Desk  Job Grade
 
-The Manager, Partner Help Desk is a [Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Manager, Partner Help Desk is a [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Manager, Partner Help Desk Responsibiliites
 
@@ -91,14 +91,14 @@ The Manager, Partner Help Desk is a [Grade 8](https://about.gitlab.com/handbook/
 
 ## Career Ladder
 
-The next step in the Partner Helpdesk Specialist job family is is to move into the [Channel Programs and Enablement](https://about.gitlab.com/job-families/sales/director-channel-programs-and-enablement/), the [Channel Sales Manager](https://about.gitlab.com/job-families/sales/channel-sales-manager/) or the [Sales Operations](https://about.gitlab.com/job-families/sales/sales-operations/) Job Family.
+The next step in the Partner Helpdesk Specialist job family is is to move into the [Channel Programs and Enablement](/job-families/sales/director-channel-programs-and-enablement/), the [Channel Sales Manager](/job-families/sales/channel-sales-manager/) or the [Sales Operations](/job-families/sales/sales-operations/) Job Family.
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a 30 min. [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30 min. [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 1-4 Team Members
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

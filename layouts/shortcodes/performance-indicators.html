@@ -1,5 +1,3 @@
-
-
 {{ $dataURL := printf "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/data/performance_indicators/%s.yml" (.Get 0) }}
 {{ with resources.GetRemote $dataURL }}
   {{ with .Err}}
@@ -14,6 +12,7 @@
             <th>Status</th>
         </tr>
       {{ range $data }}
+        {{ if .is_key }}
           <tr>
               <td>{{ $link := printf "%s#%s" $.Page.RelPermalink (anchorize .name) }}
                   <a href="{{ $link }}">{{ .name }}</a></td>
@@ -22,13 +21,15 @@
               </td>
               <td>{{with .health.reasons}}{{- partial "performance-indicators/health-reasons" . }}{{end}}</td>
           </tr>
+        {{ end }}
       {{end}}
       </table>
       <h2>Key Performance Indicators</h2>
       {{ range $data }}
+      {{ if .is_key }}
         <h3 id="{{ .name | anchorize }}">{{ .name }}</h3>
         <p>{{ .definition | safeHTML }}</p>
-        <p><strong>Target:</strong> {{.target}}</p>
+        <p><strong>Target:</strong> {{ .target | safeHTML }}</p>
         {{ if eq .public false }}
         <p><Strong>This KPI cannot be public</Strong></p>
         {{ end }}
@@ -53,6 +54,7 @@
         <ul>
             {{range .}}<li><a href="{{.}}">{{.}}</a></li>{{end}}
         </ul>
+        {{ end }}
         {{ end }}
         <hr>
       {{ end }}

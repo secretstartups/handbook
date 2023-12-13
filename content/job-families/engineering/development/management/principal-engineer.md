@@ -8,7 +8,7 @@ Principal Engineers are recognized experts in multiple technology domains releva
 
 ## Job Grade
 
-The Principal Engineer is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Engineer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 

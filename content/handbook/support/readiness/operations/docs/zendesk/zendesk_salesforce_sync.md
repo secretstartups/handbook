@@ -139,10 +139,9 @@ SELECT
   Account.Number_of_Licenses_This_Account__c,
   Account.Type,
   Account.Technical_Account_Manager_Name__c,
-  Account.Support_Level__c,
-  Account.Region__c,
   Account.GS_Health_Score_Color__c,
   Account.Next_Renewal_Date__c,
+  Account.Restricted_Account__c,
   Solutions_Architect_Lookup__r.Name,
   (SELECT
      Current_Subscription_Status__c,
@@ -153,20 +152,25 @@ SELECT
      Plan_Name__c
    FROM Customer_Subscriptions__r
    WHERE Current_Subscription_Status__c = 'Active'),
-   (SELECT
-      Name,
-      Zuora__Status__c,
-      Zuora__SubscriptionEndDate__c,
-      Zuora__SubscriptionStartDate__c,
-      Support_Level__c,
-      Zuora__OpportunityName__c,
-      Zuora__SubscriptionNumber__c
-    FROM Zuora__Subscriptions__r
-    WHERE Zuora__Status__c = 'Active')
+  (SELECT
+     Name,
+     Zuora__Status__c,
+     Zuora__SubscriptionEndDate__c,
+     Zuora__SubscriptionStartDate__c,
+     Support_Level__c,
+     Zuora__OpportunityName__c,
+     Zuora__SubscriptionNumber__c
+   FROM Zuora__Subscriptions__r
+   WHERE Zuora__Status__c = 'Active'),
+  (SELECT
+     Name,
+     Zuora__SoldToWorkEmail__c
+   FROM Zuora__R00N40000001kyLcEAI__r
+   WHERE IsDeleted = false)
 FROM Account
 WHERE
-Type IN ('Customer', 'Former Customer', 'Prospect') AND
-Account_Territory__c LIKE 'USPUB-FED%'
+  Type IN ('Customer', 'Former Customer', 'Prospect') AND
+  Support_Instance__c = 'federal-support'
 ```
 
 </details>
@@ -222,7 +226,7 @@ FROM Contact
 WHERE
   Contact.Inactive_Contact__c = false AND
   Account.Type IN ('Customer', 'Former Customer', 'Prospect') AND
-  Account.Account_Territory__c LIKE 'USPUB_FED%'
+  Account.Support_Instance__c = 'federal-support'
 ```
 
 </details>

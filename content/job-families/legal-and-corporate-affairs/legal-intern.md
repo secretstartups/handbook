@@ -20,7 +20,7 @@ The internship program will be remote and primarily operate in the Pacific time 
 
 #### Compensation
 
-Internships at GitLab offered in the framework described on this page will be paid and follow the same logic as that depicted in our [Compensation Calculator](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/calculator/) and according to our [Global Compensation Principles](https://about.gitlab.com/handbook/total-rewards/compensation/). This means that, as usual, the San Francisco benchmark, location and experience factors will be taken into account during the recruitment process and before making an offer. Depending on country regulations, we will have to align with national labor laws.
+Internships at GitLab offered in the framework described on this page will be paid and follow the same logic as that depicted in our [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/) and according to our [Global Compensation Principles](/handbook/total-rewards/compensation/). This means that, as usual, the San Francisco benchmark, location and experience factors will be taken into account during the recruitment process and before making an offer. Depending on country regulations, we will have to align with national labor laws.
 The Legal Intern is a grade 4 (/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
@@ -47,13 +47,13 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule with additional team members of Legal and Corporate Affairs.
 - Next, candidates will be invited to schedule an interview with our Chief Legal Officer (as applicable).
 - Finally, candidates may be invited to schedule interviews with Directors or team members in relevant functional areas.
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Working at GitLab
 
 GitLab Inc. is a company based on the GitLab open-source project. GitLab is a community project to which over 2,200 people worldwide have contributed. We are an active participant in this community, trying to serve its needs and lead by example. We have one [vision](https://about.gitlab.com/strategy): everyone can contribute to all digital content, and our mission is to change all creative work from read-only to read-write so that everyone can contribute.
 
-We [value](/handbook/values/) results, transparency, sharing, freedom, efficiency, [self-learning](https://about.gitlab.com/company/culture/all-remote/self-service/#how-self-learning-leads-to-success-in-your-role), frugality, collaboration, directness, kindness, diversity, inclusion and belonging, boring solutions, and quirkiness. If these values match your personality, work ethic, and personal goals, we encourage you to visit our [primer](https://about.gitlab.com/company/) to learn more. Open source is our culture, our way of life, our story, and what makes us truly unique.
+We [value](/handbook/values/) results, transparency, sharing, freedom, efficiency, [self-learning](/handbook/company/culture/all-remote/self-service/#how-self-learning-leads-to-success-in-your-role), frugality, collaboration, directness, kindness, diversity, inclusion and belonging, boring solutions, and quirkiness. If these values match your personality, work ethic, and personal goals, we encourage you to visit our [primer](/handbook/company/) to learn more. Open source is our culture, our way of life, our story, and what makes us truly unique.
 
 Top 10 reasons to work for GitLab:
 Work with helpful, kind, motivated, and talented people.
@@ -67,6 +67,6 @@ As a company we contribute more than we take, most of our work is released as th
 Focused on results, not on long hours, so that you can have a life and don't burn out.
 Open internal processes: know what you're getting into and be assured we're thoughtful and effective.
 
-See [our culture page](https://about.gitlab.com/company/culture/) for more!
+See [our culture page](/handbook/company/culture/) for more!
 
-Work remotely from anywhere in the world. Curious to see what that looks like? Check out our [remote manifesto and guides](https://about.gitlab.com/company/culture/all-remote/).
+Work remotely from anywhere in the world. Curious to see what that looks like? Check out our [remote manifesto and guides](/handbook/company/culture/all-remote/).

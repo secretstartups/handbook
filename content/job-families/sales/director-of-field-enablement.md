@@ -8,7 +8,7 @@ The Director of Field Enablement is a seasoned global Sales, Partner, and Custom
 
 ### Job Grade
 
-The Director, Field Enablement is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Field Enablement is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -32,7 +32,7 @@ The Director, Field Enablement is a [grade 10](https://about.gitlab.com/handbook
 - Team player with strong interpersonal skills, skilled at project management and cross-functional collaboration.
 - Ability to thrive in a fast-paced, unpredictable environment.
 - You share our values, and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 - Ability to use GitLab
 
 ## Senior Director, Field Enablement
@@ -41,7 +41,7 @@ The Senior Director of Field Enablement is a seasoned global Sales, Partner, and
 
 ### Job Grade
 
-The Senior Director, Field Enablement is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Field Enablement is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -65,7 +65,7 @@ The Senior Director, Field Enablement is a [grade 11](https://about.gitlab.com/h
 - Experience planning and executing large global Sales Kickoff and related events
 - Shares our values, and works in accordance with those values.
 - Holds their peers and team accountable for working in accordance with our values.
-- [Senior Leadership at GitLab](https://about.gitlab.com/company/team/structure/#s-group)
+- [Senior Leadership at GitLab](/handbook/company/team/structure/#s-group)
 - Ability to use GitLab
 
 ### Performance Indicators
@@ -81,7 +81,7 @@ The Manager of Field Enablement Programs is a global Sales, Partner, and Custome
 
 ### Job Grade
 
-The Manager, Field Enablement Programs is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Field Enablement Programs is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -103,7 +103,7 @@ The Manager, Field Enablement Programs is a [grade 8](https://about.gitlab.com/h
 - Team player with strong interpersonal skills, skilled at project management and cross-functional collaboration.
 - Ability to thrive in a fast-paced, unpredictable environment.
 - You share our values, and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 - Ability to use GitLab
 
 ### Performance Indicators

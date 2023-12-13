@@ -13,7 +13,7 @@ The Associate Revenue Accountant will report to the Manager, Revenue Accounting 
 
 #### Associate Revenue Accountant Job Grade
 
-The Associate Revenue Accountant is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Associate Revenue Accountant is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Associate Revenue Accountant Responsibilities
 
@@ -39,7 +39,7 @@ The Revenue Accountant will report to the Manager, Revenue Accounting or above.
 
 #### Revenue Accountant Job Grade
 
-The Revenue Accountant is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Revenue Accountant is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Revenue Accountant Responsibilities
 
@@ -61,7 +61,7 @@ The Senior Revenue Accountant will report to the Manager, Revenue Accounting or 
 
 #### Senior Revenue Accountant Job Grade
 
-The Senior Revenue Accountant is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Revenue Accountant is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Revenue Accountant Responsibilities
 
@@ -89,7 +89,7 @@ The Senior Revenue Accountant, Team Lead will report to the Manager, Revenue Acc
 
 #### Senior Revenue Accountant, Team Lead Job Grade
 
-The Senior Revenue Accountant, Team Lead is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). This job is the same grade as the Senior Revenue Accountant.  The Senior Revenue Accountant, Team Lead has responsibilty for supporting, training and reviewing the work of team members.
+The Senior Revenue Accountant, Team Lead is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). This job is the same grade as the Senior Revenue Accountant.  The Senior Revenue Accountant, Team Lead has responsibilty for supporting, training and reviewing the work of team members.
 
 #### Senior Revenue Accountant, Team Lead Responsibilities
 
@@ -122,7 +122,7 @@ The Manager, Revenue Accounting will report to the Senior Manager, Revenue Accou
 
 #### Manager, Revenue Accounting Job Grade
 
-The Manager, Revenue Accounting is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Revenue Accounting is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Revenue Accounting Responsibilities
 
@@ -152,7 +152,7 @@ The Senior Manager, Revenue Accouting reports to the Director, Revenue Accountin
 
 #### Senior Manager, Revenue Job Grade
 
-The Senior Manager, Revenuer Accouting is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Revenuer Accouting is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Revenue Accounting Responsibilities
 
@@ -181,9 +181,9 @@ The Senior Manager, Revenuer Accouting is a [grade 9](https://about.gitlab.com/h
 
 ### Performance Indicators
 
-- [Average days to close](https://about.gitlab.com/handbook/finance/accounting/#month-end-review--close)
-- [Number of material audit adjustments](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
-- [Percentage of ineffective Sox Controls](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Average days to close](/handbook/finance/accounting/#month-end-review--close)
+- [Number of material audit adjustments](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Percentage of ineffective Sox Controls](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
 
 ## Director, Revenue Accounting Levels
 
@@ -193,7 +193,7 @@ The Director, Revenue Accounting reports to the Principal Accounting Offer (PAO)
 
 #### Director, Revenue Accounting Job Grade
 
-The Director, Revenue Accounting is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Revenue Accounting is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Revenue Accounting Responsibilities
 
@@ -226,7 +226,7 @@ The Senior Director, Revenue Accounting reports to the Principal Accounting Offe
 
 #### Senior Director, Revenue Accounting Job Grade
 
-The Senior Director, Revenue Accounting is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Revenue Accounting is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, Revenue Accouting Responsibilities
 
@@ -261,7 +261,7 @@ The Vice President, Revenue leads the world-wide revenue organization spanning r
 
 #### Job Grade
 
-The Vice President, Revenue, is a [job grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Vice President, Revenue, is a [job grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### VP, Revenue Accounting Responsibilities
 
@@ -292,15 +292,15 @@ The Vice President, Revenue, is a [job grade 12](https://about.gitlab.com/handbo
 
 ### Performance Indicators
 
-- [Deals reviewed for revenue recognition = 100%](https://about.gitlab.com/handbook/finance/accounting/#deals-reviewed-for-revenue-recognition--100)
-- [Non GAAP Revenue (Ratable Recognition)](https://about.gitlab.com/handbook/finance/accounting/#non-gaap-revenue-ratable-recognition)
-- [Average days to close](https://about.gitlab.com/handbook/finance/accounting/#average-days-to-close-kpi-definition)
-- [Number of material audit adjustments = 0](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
-- [Average days of sales outstanding](https://about.gitlab.com/handbook/finance/accounting/#11-accounts-receivable)
-- [Deals reviewed for revenue recognition = 100%](https://about.gitlab.com/handbook/finance/accounting/#deals-reviewed-for-revenue-recognition--100)
-- [Non GAAP Revenue (Ratable Recognition)](https://about.gitlab.com/handbook/finance/accounting/#non-gaap-revenue-ratable-recognition)
-- [Revenue recognition and accounting for other quote to cash transactions in Net Suite](https://about.gitlab.com/handbook/finance/accounting/#8-revenue-recognition-and-accounting-for-other-quote-to-cash-transactions-in-net-suite)
-- [Percentage of ineffective SOX Controls = 0%](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
+- [Deals reviewed for revenue recognition = 100%](/handbook/finance/accounting/#deals-reviewed-for-revenue-recognition--100)
+- [Non GAAP Revenue (Ratable Recognition)](/handbook/finance/accounting/#non-gaap-revenue-ratable-recognition)
+- [Average days to close](/handbook/finance/accounting/#average-days-to-close-kpi-definition)
+- [Number of material audit adjustments = 0](/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
+- [Average days of sales outstanding](/handbook/finance/accounting/#11-accounts-receivable)
+- [Deals reviewed for revenue recognition = 100%](/handbook/finance/accounting/#deals-reviewed-for-revenue-recognition--100)
+- [Non GAAP Revenue (Ratable Recognition)](/handbook/finance/accounting/#non-gaap-revenue-ratable-recognition)
+- [Revenue recognition and accounting for other quote to cash transactions in Net Suite](/handbook/finance/accounting/#8-revenue-recognition-and-accounting-for-other-quote-to-cash-transactions-in-net-suite)
+- [Percentage of ineffective SOX Controls = 0%](/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
 
 ## Career Ladder
 
@@ -317,4 +317,4 @@ The next step in the Revenue Accounting job family is to move to the Principal A
 - Meet with VP of Finance for 50 minutes
 - Meet with CFO for 50 minutes
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/)
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/)

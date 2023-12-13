@@ -30,7 +30,7 @@ Please note that sometimes the ticket submitter might not be the user making the
 
 ### Get the error from GitLab.com Kibana logs
 
-Attempt to [locate the logs in Kibana](/handbook/support/workflows/kibana.html#gitlab.com-purchase-errors) for the user **making the purchase**.
+Attempt to [locate the logs in Kibana](/handbook/support/workflows/kibana#gitlab.com-purchase-errors) for the user **making the purchase**.
 Please note that sometimes the ticket submitter might not be the user making the purchase.
 
 **NOTE:** If you are unable to locate any error messages, check that the known issues do not apply to the user before requesting them to re-attempt the purchase.
@@ -55,7 +55,7 @@ Our current integration with Zuora does not support authorizing payment methods 
 With the volume of users requiring this being low, the issue has not yet been prioritized.
 
 For now, the first option is to request the user to try another card.
-You can also [reach out to Sales](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html#specific-workflows-to-pass-to-sales) to offer the user an alternative payment method.
+You can also [reach out to Sales](/handbook/support/license-and-renewals/workflows/working_with_sales#specific-workflows-to-pass-to-sales) to offer the user an alternative payment method.
 
 ### Check whether the linked accounts have matching emails
 
@@ -97,7 +97,7 @@ For various reasons, the created Customers Portal account is not linked to a Git
 For example:
 
 - The subscription has not yet been applied to a group.
-- Support used [Mechanizer's force associate workaround](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#force-associate) to bypass the need to have a linked GitLab account to apply a subscription and the customer never linked their GitLab account.
+- Support used [Mechanizer's force associate workaround](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer#force-associate) to bypass the need to have a linked GitLab account to apply a subscription and the customer never linked their GitLab account.
 
 Customer Y will get this error if they try to log in or create an account in GitLab with their email <customerY@example.com> then attempt to purchase or renew a paid plan or additional storage, or try to purchase more compute minutes from GitLab.
 The error is reported because *they did not link their Customers Portal account to a GitLab account before making the purchase.*
@@ -150,7 +150,7 @@ please report if you encounter it again.
 1. Locate the accounts linked to the user's namespace in Customers Portal
 1. Check that ALL subscriptions in ALL customer accounts are expired
 1. Confirm that the namespace is on a `Free` plan
-1. If the namespace is on `Free` and has no active subscriptions, you can proceed to [unlink the expired subscription](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#clear-subscription) from the namespace:
+1. If the namespace is on `Free` and has no active subscriptions, you can proceed to [unlink the expired subscription](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer#clear-subscription) from the namespace:
    1. Locate the customer's account in CustomersDot by searching using the domain part of their email address.
       - If the results of the search are many, you can search using the full email address.
    1. Locate the proper accounts in CustomersDot and navigate to the `Zuora Subscriptions` page
@@ -160,7 +160,7 @@ please report if you encounter it again.
       - Check the listed products whose `Start Date` is 1 year ago. These products will have expired.
       - Check the Title of the product that is usually located above the subscription name (A-S000xxxx). If this title is the same as the `Product Name` listed in the table, then it is **NOT** linked. Otherwise, this title displays the **Name of the group** (not the [namespace](https://docs.gitlab.com/ee/user/group/#namespaces)) that it is linked to.
       - Confirm the subscription name of the product whose title shows the customer's namespace. You will use the **Subscription Name** in the next step
-   1. Open the [Clear Subscription form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/clear_subscription.html) to unlink the expired subscription:
+   1. Open the [Clear Subscription form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/clear_subscription) to unlink the expired subscription:
       - Enter your GitLab username
       - Enter the **Subscription Name**
       - Click `Send`
@@ -183,7 +183,7 @@ so that their card does not get locked or blocked.
 If a customer contacts Support informing that their attempt to use their credit card for verification in order to use compute minutes on shared runners (please note that when a customer verifies using their credit card, it will not be charged but instead will be verified with a one-dollar authorisation transaction). Then you should do the following:
 
 1. Respond to the ticket by using the Zendesk Macro `Support::L&R::Credit Card Authorisation Failed'
-1. If the customer comes back after 24 hours and confirms they are still unable to proceed, but they have verified their credit card works outside of GitLab.com, then refer them to Trust and Safety for further guidance. The Trust and Safety Team contact details can be found in the handbook: [Working with the GitLab Trust and Safety Team](https://about.gitlab.com/handbook/security/security-operations/trustandsafety/#working-with-gitlab-trust-and-safety-team).
+1. If the customer comes back after 24 hours and confirms they are still unable to proceed, but they have verified their credit card works outside of GitLab.com, then refer them to Trust and Safety for further guidance. The Trust and Safety Team contact details can be found in the handbook: [Working with the GitLab Trust and Safety Team](/handbook/security/security-operations/trustandsafety/#working-with-gitlab-trust-and-safety-team).
 
 ## Finding an error message in Sentry
 
@@ -199,7 +199,7 @@ To find the error specifically related to a user on Sentry, try to check for a l
 To locate a Sentry event, first get the `ID` or `Username` of the **user making the purchase from GitLab** using any of the following:
 
 - Chatops: Run `/chatops run user find <username or email>`
-- Admin account: Navigate to the admin link in the [GitLab User Lookup](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app) Zendesk app
+- Admin account: Navigate to the admin link in the [GitLab User Lookup](/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app) Zendesk app
 - [Users API](https://docs.gitlab.com/ee/api/users.html#for-normal-users): Search for user using their email or username
 
 ### Searching with the username in `gitlabcom` Sentry project
@@ -225,9 +225,9 @@ If you have the `ID` of the user, find the error message for the user in Sentry'
 ### Searching `customersgitlabcom` Sentry project
 
 If the purchase was also attempted from [CustomersDot portal](https://customers.gitlab.com/customers/sign_in), use
-the [workflow](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases.html#getting-error-message-from-sentry)
+the [workflow](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases#getting-error-message-from-sentry)
 to find the error message in [Customers Portal Sentry project](https://sentry.gitlab.net/gitlab/customersgitlabcom/issues/).
 
 ## Finding an error message in Stripe
 
-As we use [Stripe](https://about.gitlab.com/handbook/business-technology/tech-stack/#stripe) as a payment processor, some error codes that are visible to the customers are not handled by GitLab, and are reported by Stripe directly. For example, the `do_not_honor` error is an error message that comes from Stripe. As such, we can rely on the [**Stripe's Decline Codes documentation**](https://stripe.com/docs/declines/codes) to find more information regarding the root cause of an error.
+As we use [Stripe](/handbook/business-technology/tech-stack/#stripe) as a payment processor, some error codes that are visible to the customers are not handled by GitLab, and are reported by Stripe directly. For example, the `do_not_honor` error is an error message that comes from Stripe. As such, we can rely on the [**Stripe's Decline Codes documentation**](https://stripe.com/docs/declines/codes) to find more information regarding the root cause of an error.

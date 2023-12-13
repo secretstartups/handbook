@@ -12,7 +12,7 @@ implementing the various initiatives that relate to improving GitLab's security.
 
 ## Job Grade
 
-The Threat Intelligence Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Threat Intelligence Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -39,7 +39,7 @@ The Threat Intelligence Engineer is a [grade 6](https://about.gitlab.com/handboo
 
 #### Job Grade
 
-The Senior Threat Intelligence Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Threat Intelligence Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -61,7 +61,7 @@ The Staff Security Engineer role extends the [Senior Threat Intelligence Enginee
 
 #### Job Grade
 
-The Staff Threat Intelligence Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Threat Intelligence Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -76,10 +76,10 @@ The Staff Threat Intelligence Engineer is a [grade 8](https://about.gitlab.com/h
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Qualified candidates receive a short questionnaire from our Recruiting team
-- Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with our Recruiting team
+- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with our Recruiting team
 - Next, candidates will be invited to schedule an interview with Security Engineer
 - Candidates will then be invited to schedule an interview with Director of Security
 - Candidates will then be invited to schedule an additional interview with VP of Engineering
@@ -87,7 +87,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Successful candidates will subsequently be made an offer via email
 
 As always, the interviews and screening call will be conducted via a video call.
-See more details about our hiring process on the [hiring handbook](https://about.gitlab.com/handbook/hiring/).
+See more details about our hiring process on the [hiring handbook](/handbook/hiring/).
 
 ## Career Ladder
 

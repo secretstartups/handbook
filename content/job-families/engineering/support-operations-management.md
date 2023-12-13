@@ -20,7 +20,7 @@ Your work mantra is to solve the problem, not the symptom.
 ### Job Grade
 
 The Support Operations Manager is a
-[grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+[grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### What you can expect in a Support Operations Specialist role at GitLab
 
@@ -106,12 +106,12 @@ workflows through our applications:
 
 - Providing top tier support to the GitLab Support Engineering team
 - Driving the Support Operations
-  [mission](https://about.gitlab.com/handbook/support/support-ops/#mission) and
-  [vision](https://about.gitlab.com/handbook/support/support-ops/#vision)
+  [mission](/handbook/support/support-ops/#mission) and
+  [vision](/handbook/support/support-ops/#vision)
 - Maintenance of
-  [Support Operations documentation](https://about.gitlab.com/handbook/support/support-ops/documentation/)
+  [Support Operations documentation](/handbook/support/support-ops/documentation/)
 - Adherence and improvement of
-  [Support Operations workflows](https://about.gitlab.com/handbook/support/support-ops/workflows/)
+  [Support Operations workflows](/handbook/support/support-ops/workflows/)
 
 #### Span of Control
 
@@ -126,7 +126,7 @@ Candidates for this position can expect the hiring process to follow the order
 below. Please keep in mind that candidates can be declined from the position at
 any stage of the process. To learn more about someone who may be conducting the
 interview, find their job title on our
-[team page](https://about.gitlab.com/company/team).
+[team page](/handbook/company/team).
 
 - Qualified candidates will be invited to schedule a 30 minute screening call
   with our Global Recruiters.
@@ -142,7 +142,7 @@ interview, find their job title on our
 - Successful candidates will subsequently be made an offer via email.
 
 Additional details about our process can be found on our
-[hiring page](https://about.gitlab.com/handbook/hiring/).
+[hiring page](/handbook/hiring/).
 
 ### Compensation Calculator
 
@@ -161,9 +161,9 @@ work from read-only to read-write so that everyone can contribute.
 
 We [value](/handbook/values/) results, transparency,
 sharing, freedom, efficiency,
-[self-learning](https://about.gitlab.com/company/culture/all-remote/self-service/#how-self-learning-leads-to-success-in-your-role),
+[self-learning](/handbook/company/culture/all-remote/self-service/#how-self-learning-leads-to-success-in-your-role),
 frugality, collaboration, directness, kindness, diversity, inclusion and
 belonging, boring solutions, and quirkiness. If these values match your
 personality, work ethic, and personal goals, we encourage you to visit our
-[primer](https://about.gitlab.com/company/) to learn more. Open source is our
+[primer](/handbook/company/) to learn more. Open source is our
 culture, our way of life, our story, and what makes us truly unique.

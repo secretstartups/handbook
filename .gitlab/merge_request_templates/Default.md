@@ -31,15 +31,15 @@ CHANGEME - add the details saying [why, not just what][say-why-not-just-what].
 
 /assign me
 
-<!-- Apply labels: You can keep or remove `~"handbook::content"` as needed, add other relevant labels, or remove this line. -->
-
-/label ~"handbook::content"
-
 <!-- Assign reviewer(s), following https://about.gitlab.com/handbook/handbook-usage/#when-to-get-approval. Remove the [HTML comment tags](https://www.w3schools.com/tags/tag_comment.asp) to enable. -->
 
 <!--
-/assign_reviewer codeowner-maintainer-or-manager
+/assign_reviewer @
 -->
+
+<!-- Apply labels: You can keep or remove `~"handbook::content"` as needed, add other relevant labels, or remove this line. -->
+
+/label ~"handbook::content"
 
 ---
 

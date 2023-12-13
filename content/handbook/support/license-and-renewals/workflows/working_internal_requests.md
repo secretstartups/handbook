@@ -5,8 +5,8 @@ category: Working L&R requests
 description: Describes how to service internal requests for licensing & renewals.
 ---
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
 
 ----
 
@@ -18,13 +18,13 @@ The L&R team works on licensing and subscription related internal requests that 
 
 **NOTE:** Use the `Support::L&R::Sales Internal Request - Office Hours Notice` macro in either your first or last response in the ticket to increase awareness of the regional office hours hosted by the L&R team.
 
-A list of the different options available and example scenarios can be found in [this table](https://about.gitlab.com/handbook/support/internal-support/#internal-requests).
+A list of the different options available and example scenarios can be found in [this section](/handbook/support/internal-support/#common-internal-request-scenarios). Click for details.
 
 ### Order Management
 
 **Note:** Team members who are part of Sales or another team should NOT use the `Order Management` option as the request will be rejected.
 
-[The Order Management team](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/order-management/) determines whether a license has been fulfilled automatically after opportunity closure, and if not, work with Support Engineering to ensure manual fulfillment by filing an internal request with the `Order Management` option as defined in [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/issues/157).
+[The Order Management team](/handbook/sales/field-operations/sales-operations/order-management/) determines whether a license has been fulfilled automatically after opportunity closure, and if not, work with Support Engineering to ensure manual fulfillment by filing an internal request with the `Order Management` option as defined in [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/issues/157).
 
 The `Order Management` option is therefore used to request manual license fulfillment, specifically for scenarios where a license has not been generated or sent automatically.
 

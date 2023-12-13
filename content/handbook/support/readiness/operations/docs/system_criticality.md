@@ -18,7 +18,7 @@ canonical_path: "/handbook/support/readiness/operations/docs/system_criticality"
 
 We derive our Critical System Tiers (CST) from that of security and engineering,
 which can be found
-[here](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html#determining-critical-system-tiers).
+[here](/handbook/security/security-assurance/security-risk/storm-program/critical-systems#determining-critical-system-tiers).
 
 ## Data scope
 
@@ -143,7 +143,7 @@ which can be found
           </li>
           <li>
             <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
-            <a href='https://about.gitlab.com/handbook/support/workflows/large_files.html' target='_blank'>Support Uploader</a>
+            Support Uploader
           </li>
           <li>
             <i class="fas fa-square fa-fw" style="color:rgb(204,204,0);"></i>
@@ -152,6 +152,11 @@ which can be found
           <li>
             <i class="fas fa-square fa-fw" style="color:rgb(204,204,0);"></i>
             <a href='https://gitlab.com/support/usage-ping-request' target='_blank'>Usage ping requests form/processor</a>
+          </li>
+          <li>
+            <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
+            <a href='https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/gratis-support-requests/-/issues' target='_blank'>Gratis Support</a>
+            <a href='https://gitlab.com/gitlab-com/support/support-ops/forms/gratis-support-request-form' target='_blank'>form</a> / <a href='https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/gratis-support-requests/' target='_blank'>processor</a>
           </li>
         </ul>
       </td>

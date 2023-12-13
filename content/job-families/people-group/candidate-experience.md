@@ -9,7 +9,7 @@ The GitLab Candidate Experience Specialists work to create positive experiences 
 
 ### Job Grade
 
-The Candidate Experience Specialist is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Candidate Experience Specialist is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -19,10 +19,10 @@ The Candidate Experience Specialist is a [grade 5](https://about.gitlab.com/hand
 - Ensure candidates receive timely, thoughtful and engaging messaging throughout the hiring process
 - Work in Applicant Tracking System (ATS) to help recruiters maintain a positive candidate experience for candidates
 - Helps manage candidate traffic for all roles
-- Act as the [Recruiting Coordinator](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/coordinator/) for the interview process
+- Act as the [Recruiting Coordinator](/handbook/hiring/talent-acquisition-framework/coordinator/) for the interview process
 - Assist with conducting reference checks, if applicable, for all candidates entering the final round of the interview phase
 - Create and stage employment contracts for candidates receiving an offer of employment on behalf of the hiring manager and recruiter
-- Work to create a seamless handoff of new team members to the [People Connect Team](https://about.gitlab.com/job-families/people-group/people-connect/)
+- Work to create a seamless handoff of new team members to the [People Connect Team](/job-families/people-group/people-connect/)
 - Promote our values, culture and remote only passion
 
 ### Requirements
@@ -48,7 +48,7 @@ Senior Candidate Experience Specialist shares the same requirements and responsi
 
 ### Job Grade
 
-The Senior Candidate Experience Specialist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Candidate Experience Specialist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -75,7 +75,7 @@ The Associate Manager, Candidate Experience has deep experience in assessing org
 
 ### Job Grade
 
-The Associate Manager, Candidate Experience is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Manager, Candidate Experience is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -103,7 +103,7 @@ The Associate Manager, Candidate Experience is a [grade 7](https://about.gitlab.
 
 ### Job Grade
 
-The Manager, Candidate Experience is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Candidate Experience is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -145,9 +145,9 @@ The next step in the Candidate Experience job family is to move to the [Recruite
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Qualified candidates will be invited to schedule a 30 minute screening call
 - Then, candidates will be invited to three 45 minute interviews with the Hiring Manager and additional team members
 
-As always, the interviews and screening call will be conducted via a [video call](https://about.gitlab.com/handbook/communication/#video-calls). See more details about our interview process [here](https://about.gitlab.com/handbook/hiring/interviewing/).
+As always, the interviews and screening call will be conducted via a [video call](/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).

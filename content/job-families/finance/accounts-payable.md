@@ -13,7 +13,7 @@ The Accounts Payable Analyst (Intermediate) reports to [Senior Manager, Accounts
 
 #### Accounts Payable Analyst (Intermediate) Job Grade
 
-The Accounts Payable Analyst (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Accounts Payable Analyst (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Accounts Payable Analyst (Intermediate) Responsibilities
 
@@ -51,7 +51,7 @@ The Senior Accounts Payable Analyst reports to [Senior Manager, Accounts Payable
 
 #### Senior Accounts Payable Analyst Job Grade
 
-The Senior Accounts Payable Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Accounts Payable Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Accounts Payable Analyst Responsibilities
 
@@ -77,7 +77,7 @@ Accounts Payable Manager reports to The [Senior Manager, Accounts Payable](/job-
 
 #### Accounts Payable Manager Job Grade
 
-The Accounts Payable Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Accounts Payable Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Accounts Payable Manager Responsibilities
 
@@ -104,7 +104,7 @@ The Senior Manager, Accounts Payable reports to the [Senior Director, Corporate 
 
 #### Job Grade
 
-The Senior Manager, Accounts Payable is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Accounts Payable is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager Responsibilities
 
@@ -163,9 +163,9 @@ The Director, Accounts Payable is a grade 10.
 
 ## Performance Indicators
 
-- [Average days to close](https://about.gitlab.com/handbook/finance/accounting/#average-days-to-close-kpi-definition)
-- [Number of material audit adjustments = 0](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
-- [Percentage of ineffective Sox Controls = 0%](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Average days to close](/handbook/finance/accounting/#average-days-to-close-kpi-definition)
+- [Number of material audit adjustments = 0](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Percentage of ineffective Sox Controls = 0%](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
 
 ## Career Ladder
 
@@ -173,11 +173,11 @@ The next step in the Accounts Payable job family is to move to the [General Ledg
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - 30 minute screening call with our Recruiters
 - 30 minute interview with Hiring Manager
 - 2 - 4 30 minute peer interviews
 - 45 minute interview with an Executive for any Manager and above role.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).

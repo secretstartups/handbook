@@ -13,7 +13,7 @@ We focus on generating awareness about GitLab by rolling up our sleeves, contrib
 
 ### Job Grade
 
-The Developer Evangelist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Developer Evangelist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -40,7 +40,7 @@ The Developer Evangelist is a [grade 6](https://about.gitlab.com/handbook/total-
 
 ### Job Grade
 
-The Senior Developer Evangelist is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Developer Evangelist is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -59,7 +59,7 @@ The Senior Developer Evangelist is a [grade 7](https://about.gitlab.com/handbook
 
 ### Job Grade
 
-The Staff Developer Evangelist is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Developer Evangelist is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -83,7 +83,7 @@ The Developer Evangelism Program Manager is a Developer Evangelist, who focuses 
 
 ### Job Grade
 
-The Developer Evangelism Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Developer Evangelism Program Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -132,7 +132,7 @@ As the Manager, Developer Evangelism, you will be responsible for building our d
 
 ### Job Grade
 
-The Manager, Developer Evangelism is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Developer Evangelism is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -161,7 +161,7 @@ As the Senior Manager, Developer Evangelism, you will set stratgey and direction
 
 ### Job Grade
 
-The Senior Manager, Developer Evangelism is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Manager, Developer Evangelism is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 ### Responsbilities
 
@@ -186,24 +186,24 @@ The next step for both individual contributors and managers of people is to move
 ### Performance Indicators
 
 - Support [Unique Wider Community Contributors per Month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month)
-- [Twitter impressions](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/metrics/)
-- Support [New Unique Web Vistors Per Month](https://about.gitlab.com/handbook/marketing/performance-indicators/#new-unique-web-visitors-aboutgitlabcom)
+- [Twitter impressions](/handbook/marketing/developer-relations/developer-evangelism/metrics/)
+- Support [New Unique Web Vistors Per Month](/handbook/marketing/performance-indicators/#new-unique-web-visitors-aboutgitlabcom)
 - Impressions per month. Number of combined impressions/organic views from the Developer Evangelism team, from a designated number of sources (e.g. social, events, content, etc.)
 
 ## Specialties
 
 ### Community Engagement
 
-The Developer Evangelism team is responsible for [community engagement](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/#community-engagement) with the GitLab community and the tech community at large as it relates to GitLab. A Developer Evangelist with a Community Engagement specialty owns that engagement. This includes responding to questions about GitLab on Hacker News, engaging with the GitLab community on Stack Overflow, managing the GitLab Forum, and providing insight and guidance to GitLab's marketing and product teams on the community impact of changes when we are making to our product and business.
+The Developer Evangelism team is responsible for [community engagement](/handbook/marketing/developer-relations/developer-evangelism/#community-engagement) with the GitLab community and the tech community at large as it relates to GitLab. A Developer Evangelist with a Community Engagement specialty owns that engagement. This includes responding to questions about GitLab on Hacker News, engaging with the GitLab community on Stack Overflow, managing the GitLab Forum, and providing insight and guidance to GitLab's marketing and product teams on the community impact of changes when we are making to our product and business.
 
 #### Responsibilities
 
-- Provide thoughtful responses to community member questions on online forums monitored by GitLab's Developer Evangelist team including [Hacker News](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/hacker-news/), StackOverflow, [GitLab's blog](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/hacker-news/#blog-comments) and the [GitLab Forum](https://forum.gitlab.com/). This involves cross-team collaboration including encouraging other team members to engage with the community and providing feedback to product and engineering teams.
-- Lead the Developer Evangelist team's support of [community response](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/community-response/) situations. This includes:
+- Provide thoughtful responses to community member questions on online forums monitored by GitLab's Developer Evangelist team including [Hacker News](/handbook/marketing/developer-relations/developer-evangelism/hacker-news/), StackOverflow, [GitLab's blog](/handbook/marketing/developer-relations/developer-evangelism/hacker-news/#blog-comments) and the [GitLab Forum](https://forum.gitlab.com/). This involves cross-team collaboration including encouraging other team members to engage with the community and providing feedback to product and engineering teams.
+- Lead the Developer Evangelist team's support of [community response](/handbook/marketing/developer-relations/developer-evangelism/community-response/) situations. This includes:
   - Manage responsibilities and tasks associated with product and/or business changes that impact the community
   - Ensure messaging about these changes addresses community concerns
   - Create community FAQs for impactful changes
-  - Prepare the Developer Evangelist team and other relevant team members per the [community response](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/community-response/) process to address community questions on Hackers News and other forums
+  - Prepare the Developer Evangelist team and other relevant team members per the [community response](/handbook/marketing/developer-relations/developer-evangelism/community-response/) process to address community questions on Hackers News and other forums
 
 #### Requirements
 

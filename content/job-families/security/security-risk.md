@@ -4,7 +4,7 @@ extra_js:
 - libs/mermaid.min.js
 ---
 
-As members of GitLab's [Security Assurance sub department](https://about.gitlab.com/handbook/security/security-assurance/), the Security Risk team identifies, tracks, monitors and advises on security risks both operatioinally and for third party vendors. The team is responsible for implementaion of proactive security risk management programs.
+As members of GitLab's [Security Assurance sub department](/handbook/security/security-assurance/), the Security Risk team identifies, tracks, monitors and advises on security risks both operatioinally and for third party vendors. The team is responsible for implementaion of proactive security risk management programs.
 
 ## Responsibilities
 
@@ -28,7 +28,7 @@ This position reports to the Manager, Security Risk at GitLab.
 
 #### Security Risk Engineer (Intermediate) Job Grade
 
-The Security Risk Engineer is a [6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Security Risk Engineer is a [6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Security Risk Engineer (Intermediate) Responsibilities
 
@@ -53,7 +53,7 @@ This position reports to the Manager, Security Risk at GitLab.
 
 #### Senior Security Risk Engineer Job Grade
 
-The Senior Security Risk Engineer is a [7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Security Risk Engineer is a [7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Security Risk Engineer Responsibilities
 
@@ -81,7 +81,7 @@ This position reports to the Manager, Security Risk at GitLab.
 
 #### Staff Security Risk Engineer Job Grade
 
-The Staff Security Risk Engineer is a [8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Security Risk Engineer is a [8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Security Risk Engineer Responsibilities
 
@@ -109,7 +109,7 @@ The Manager, Security Risk reports directly to the Security Assurance Director.
 
 #### Manager, Security Risk Job Grade
 
-The Manager, Security Risk is a [8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Security Risk is a [8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Security Risk Responsibilities
 
@@ -137,7 +137,7 @@ The Senior Manager, Security Risk reports directly to the Security Assurance Dir
 
 #### Senior Manager, Security Risk Job Grade
 
-The Senior Manager, Security Risk is a [9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Security Risk is a [9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Security Risk Responsibilities
 
@@ -164,8 +164,8 @@ For details on the Security organization leadership roles, to include the Securi
 
 ## Performance Indicators
 
-- [Operational Security Risk Management (Tier 2 Risks)](https://about.gitlab.com/handbook/security/performance-indicators/#operational-security-risk-management-tier-2-risks)
-- [Third Party Risk Management](https://about.gitlab.com/handbook/security/performance-indicators/#third-party-risk-management)
+- [Operational Security Risk Management (Tier 2 Risks)](/handbook/security/performance-indicators/#operational-security-risk-management-tier-2-risks)
+- [Third Party Risk Management](/handbook/security/performance-indicators/#third-party-risk-management)
 
 ## Career Ladder
 
@@ -180,11 +180,11 @@ For details on the Security organization leadership roles, to include the Securi
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 50-minute interviews with the hiring manager,
 - Then, candidates will be invited to schedule 3 separate 50-minute interviews with 3 different peers from within the Security orgnaization,
 - Finally, candidates will be invited to schedule a 25-minute interview with the Director, Security Risk and Compliance (Security Assurance).
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

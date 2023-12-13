@@ -43,7 +43,7 @@ The Cash Management job family will focus on leading and enhancing day-to-day ca
 
 #### Job Grade
 
-The Vice President, Cash Management is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Vice President, Cash Management is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Performance Indicators
 
@@ -60,11 +60,11 @@ The next step in the Cash and Project Management job family is to move to a seni
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Meet with PAO for 50 minutes
 - Meet with Key Reports and Key Finance Leaders - Director of Treasury, VP Corporate Controller, Sr. Director Revenue - for 30 minutes each
 - Meet with People Business Partner for the CFO Organization for 25 minutes
 - Meet with VP of Finance for 50 minutes
 - Meet with CFO for 50 minutes
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

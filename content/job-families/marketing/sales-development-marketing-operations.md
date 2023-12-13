@@ -11,7 +11,7 @@ The Global Sales Development Operations Associate reports to the Director, Sales
 
 #### Global Sales Development Operations Associate Job Grade
 
-The Global Sales Development Operations Associate is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Global Sales Development Operations Associate is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Global Sales Development Operations Associate Responsibilities
 
@@ -44,7 +44,7 @@ The  Global Sales Development Operations Senior Associate reports to the Directo
 
 #### Global Sales Development Operations Senior Associate Job Grade
 
-The  Global Sales Development Operations Senior Associate is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The  Global Sales Development Operations Senior Associate is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Global Sales Development Operations Senior Associate Responsibilities
 
@@ -75,7 +75,7 @@ The Global Sales Development Operations Manager (IC) reports to the Director, Sa
 
 #### Global Sales Development Operations Manager (IC) Job Grade
 
-The Global Sales Development Operations Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Global Sales Development Operations Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Global Sales Development Operations Manager (IC) Responsibilities
 
@@ -135,7 +135,7 @@ The Senior Manager, Global Sales Development Operations reports to the Director,
 
 #### Senior Manager, Global Sales Development Operations Job Grade
 
-The Senior Manager, Global Sales Development Operations is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Global Sales Development Operations is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Global Sales Development Operations Responsibilities
 
@@ -168,7 +168,7 @@ The Director, Sales Development Operations reports to the AVP of Sales Developme
 
 #### Director, Global Sales Development Operations Job Grade
 
-The Director, Sales Development Operations is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Sales Development Operations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Global Sales Development Operations Responsibilities
 
@@ -220,10 +220,10 @@ The next step in the Sales Development Marketing Operations job family is yet to
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the hiring manager.
 - Candidates will then be invited to schedule an interview with 2 - 4 team members.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

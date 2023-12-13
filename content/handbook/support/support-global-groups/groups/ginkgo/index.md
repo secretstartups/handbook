@@ -14,6 +14,11 @@ description: Home Page for Support's Ginkgo Group
 - Our Slack Channel: [#spt_gg_ginkgo](https://gitlab.slack.com/archives/C0354N9B14G)
   - As a member of the Ginkgo group, consider [changing your notifications settings](#slack-notifications) to allow for better collaboration.
 - Our Team: [Ginkgo Members](https://gitlab-com.gitlab.io/support/team/sgg.html?search=ginkgo)
+- Aligned Managers:
+   - **AMER** -- Izzy, Aric, Ronnie
+   - **EMEA** -- John, Erika
+   - **APAC** -- no alignment
+
 
 ## Ginkgo workflows and processes
 
@@ -44,7 +49,7 @@ Aim to grab a ticket from the FRT stage and become the DRI for that ticket. If y
 
 #### NRT Stage
 
-There are several variables that can be taken into consideration when deciding how to get involved with tickets in the NRT stage. As a general rule, we default to [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) and all its operating principles.
+There are several variables that can be taken into consideration when deciding how to get involved with tickets in the NRT stage. As a general rule, we default to [Collaboration](/handbook/values/#collaboration) and all its operating principles.
 
 For documentation purposes, the following table was devised as a reference guideline:
 

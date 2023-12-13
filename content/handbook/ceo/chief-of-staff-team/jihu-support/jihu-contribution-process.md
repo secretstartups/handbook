@@ -37,12 +37,12 @@ Example upstream planning issue: TBD
 #### Guidelines for iterative contributions
 
 Bigger product feature contributions should follow GitLab
-[iteration strategies](https://about.gitlab.com/handbook/product/product-processes/#iteration-strategies).
+[iteration strategies](/handbook/product/product-processes/#iteration-strategies).
 
 [Iteration training](https://about.gitlab.com/handbook/engineering/development/onboarding/manager/#iteration-training) is available to coach on GitLab's value of iteration. This can be helpful to understand the expectations of GitLab product teams for feature iteration.
 
 Not every features can follow the same strategy, but the first strategy we
-try should be [crafting the minimal viable change](https://about.gitlab.com/handbook/product/product-processes/#crafting-an-mvc), and for creating
+try should be [crafting the minimal viable change](/handbook/product/product-processes/#crafting-an-mvc), and for creating
 merge requests, always try to [keep merge requests small](https://about.gitlab.com/handbook/engineering/workflow/iteration/#how-to-keep-a-merge-request-small).
 
 In the above guidelines to keep merge requests small, we mentioned:
@@ -107,7 +107,7 @@ Upstream merge requests require the same level of review and approval as all mer
 - [Security review]({{< ref jihu-security-review-process >}})
 - [Database migration review]({{< ref jihu-database-change-process >}}) when applicable
 
-Upstream merge requests may require additional [specific team reviews](https://docs.gitlab.com/ee/development/code_review.html#approval-guidelines) based on changed files. High impact code is identified with [CODEOWNERS](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/CODEOWNERS) rules and required approvals for specific files. For example, if the merge request includes changes related to authentication or authorization, it must be approved by a [Manage:Authentication and Authorization team member](https://about.gitlab.com/company/team/)
+Upstream merge requests may require additional [specific team reviews](https://docs.gitlab.com/ee/development/code_review.html#approval-guidelines) based on changed files. High impact code is identified with [CODEOWNERS](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/CODEOWNERS) rules and required approvals for specific files. For example, if the merge request includes changes related to authentication or authorization, it must be approved by a [Manage:Authentication and Authorization team member](/handbook/company/team/)
 
 #### What to review
 

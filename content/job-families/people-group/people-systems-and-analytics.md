@@ -12,7 +12,7 @@ The HRIS Analyst, People Technology reports into the Director, People Tools and 
 
 #### Job Grade
 
-The HRIS Analyst, People Technology is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The HRIS Analyst, People Technology is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -46,7 +46,7 @@ The Senior HRIS Analyst, People Technology reports into the Director, People Too
 
 #### Job Grade
 
-The Senior HRIS Analyst, People Technology is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior HRIS Analyst, People Technology is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -78,7 +78,7 @@ The Staff HRIS Analyst, People Technology reports into the Director, People Tool
 
 #### Job Grade
 
-The Staff HRIS Analyst, People Technology is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff HRIS Analyst, People Technology is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 **Market Justification:** When reviewing survey data there are 112 companies with 223 at the Staff level of an HRIS role. The business need for GitLab to have an individual contributor grade 8 is to ensure we have a high level of skill when building out systems architecture cross functionally. In the market, there can be HRIS architects who have interest in managing the system and/or technical integrations only. Not having this career parth option can make it difficult to retain and attract talent. Advanced HRIS professionals may often be found in titles such as Staff HRIS Analyst, Senior Staff HRIS Analyst, Consultant, Sr. HRIS Consultant, Product Manager, Senior Product Manager.
 
@@ -115,7 +115,7 @@ The Principal HRIS Analyst, People Technology reports into the Director, People 
 
 #### Job Grade
 
-The Principal HRIS Analyst, People Technology is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal HRIS Analyst, People Technology is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 **Market Justification:** When reviewing survey data there are 13 companies with 14 team members at the Principal level of an HRIS role. The business need for GitLab to have an individual contributor grade 9 is to ensure we have a high level of skill when building out systems architecture cross functionally. In the market, there can be HRIS architects who have interest in managing the system and/or technical integrations only. Not having this career parth option can make it difficult to retain and attract talent. Advanced HRIS professionals may often be found in titles such as Staff HRIS Analyst, Senior Staff HRIS Analyst, Consultant, Sr. HRIS Consultant, Product Manager, Senior Product Manager.
 
@@ -153,7 +153,7 @@ The Manager, People Technology reports into the Director, People Tools and Techn
 
 #### Job Grade
 
-The Manager, People Technology, People Technology is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, People Technology, People Technology is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -172,7 +172,7 @@ The Senior Manager, People Technology reports into the Director, People Tools an
 
 #### Job Grade
 
-The Senior Manager, People Technology is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, People Technology is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -207,7 +207,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to a 30 minute interview with the Senior Director, Enterprise Applications
 - Finally, our Vice President, People Operations, Technology, and Analytics may choose to conduct a final interview
 
-As always, the interviews and screening call will be conducted via a [video call](https://about.gitlab.com/handbook/communication/#video-calls). See more details about our interview process [here](https://about.gitlab.com/handbook/hiring/interviewing/).
+As always, the interviews and screening call will be conducted via a [video call](/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).
 
 ## People Analytics
 
@@ -217,7 +217,7 @@ The Senior Analyst, People Analytics reports into the Senior Manager, People Ana
 
 #### Job Grade
 
-The Senior Analyst, People Analytics is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Analyst, People Analytics is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -244,7 +244,7 @@ The Manager, People Analytics reports into the Senior Manager, People Analytics.
 
 #### Job Grade
 
-The Manager, People Analytics is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, People Analytics is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -277,7 +277,7 @@ The Senior Manager, People Analytics reports to the VP, People Operations, Techn
 
 #### Job Grade
 
-The Senior Manager, People Analytics is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, People Analytics is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -314,4 +314,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule a 30 minute interview with our Vice President, Talent Acquisition
 - Finally, our Vice President, People Operations, Technology, and Analytics may choose to conduct a final interview
 
-As always, the interviews and screening call will be conducted via a [video call](https://about.gitlab.com/handbook/communication/#video-calls). See more details about our interview process [here](https://about.gitlab.com/handbook/hiring/interviewing/).
+As always, the interviews and screening call will be conducted via a [video call](/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).

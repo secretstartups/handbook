@@ -1,10 +1,11 @@
 ---
 title: "Migration Details"
 description: "Handbook Content is on the move.  This gives the time table and the individual files which are being migrated."
+aliases: /handbook/content-websites/handbook-migration/migration-details/
 ---
 ## Migration Timetable and Status
 
-{{% include "includes/migration-timetable.md" %}}
+{{% migration-timetable %}}
 
 ## File Lists
 
@@ -620,7 +621,7 @@ security/cryptographic-standard.html.md
 security/security-awards-program.html.md
 security/ISMS.html.md
 security/pgp_process/index.html.md
-security/transparency_by_default.html.md
+security/transparency-by-default.html.md
 security/architecture/index.html.md
 security/architecture/review.html.md
 security/individual-development-plan.html.md
@@ -641,7 +642,7 @@ security/security-culture.html.md
 security/access-management-policy.html.md
 security/threat_modeling/index.html.md
 security/threat_modeling/howto.html.md
-security/security-assurance/production_readiness_compliance_assessment.html.md
+security/security-assurance/production-readiness-compliance-assessment.html.md
 security/security-assurance/security-risk/index.html.md
 security/security-assurance/security-risk/storm-program/storm-methodology.html.md
 security/security-assurance/security-risk/storm-program/critical-systems.html.md
@@ -660,7 +661,7 @@ security/security-assurance/observation-management-procedure.html.md
 security/security-assurance/index.html.md
 security/security-assurance/control-health-effectiveness-rating.html.md
 security/security-assurance/governance_and_field_security_team_charter.html.md
-security/security-assurance/production_readiness_compliance_assessment.md
+security/security-assurance/production-readiness-compliance-assessment.md
 security/security-assurance/field-security/index.html.md
 security/security-assurance/field-security/answerbase.html.md
 security/security-assurance/field-security/Vendorpedia.html.md
@@ -853,7 +854,7 @@ company/culture/all-remote/scaling/index.html.md.erb
 company/culture/all-remote/in-person/index.html.md
 company/culture/all-remote/parenting/index.html.md.erb
 company/culture/all-remote/getting-started/index.html.md.erb
-company/culture/all-remote/handbook-first-documentation/index.html.md.erb
+company/culture/all-remote/handbook-first/index.html.md.erb
 company/culture/all-remote/internship/index.html.md
 company/culture/all-remote/people/index.html.md.erb
 company/culture/all-remote/history/index.html.md
@@ -883,6 +884,119 @@ company/culture/songbook/index.html.md
 company/culture/ecoc/index.html.md
 company/culture/top-team-member/index.html.md.erb
 company/culture/index.html.md.erb
+company/team/structure/_scope_direction_and_leadership.erb
+company/team/structure/_functional_knowledge.erb
+company/team/structure/_values_alignment.erb
+company/team/structure/_remote_work.erb
+company/team/structure/working-groups/clickhouse-datastore/index.html.md
+company/team/structure/working-groups/product-analytics-gtm/index.html.md
+company/team/structure/working-groups/upstream-diversity/index.html.md
+company/team/structure/working-groups/api-vision/index.html.md
+company/team/structure/working-groups/multi-large/index.html.md
+company/team/structure/working-groups/gcp-partnership/index.html.md
+company/team/structure/working-groups/contributor-growth/index.html.md
+company/team/structure/working-groups/gitlab-ui/index.html.md
+company/team/structure/working-groups/learning-experience/index.html.md
+company/team/structure/working-groups/engineering-internship/index.html.md
+company/team/structure/working-groups/feature-flag-usage/index.html.md
+company/team/structure/working-groups/learning-restructure/index.html.md
+company/team/structure/working-groups/ecommerce/index.html.md
+company/team/structure/working-groups/product-accessibility/index.html.md
+company/team/structure/working-groups/experimentation/index.html.md
+company/team/structure/working-groups/dogfood-plan/index.html.md
+company/team/structure/working-groups/performance-indicators/index.html.md
+company/team/structure/working-groups/self-managed-scalability/index.html.md
+company/team/structure/working-groups/licensing-transactions-improvements/index.html.md
+company/team/structure/working-groups/maintainership/index.html.md
+company/team/structure/working-groups/data-poc/index.html.md
+company/team/structure/working-groups/database-scalability/DB-terminology.png
+company/team/structure/working-groups/database-scalability/read-mostly.html.md
+company/team/structure/working-groups/database-scalability/read-mostly-subscriptions-reads.png
+company/team/structure/working-groups/database-scalability/read-mostly-licenses-fixed.png
+company/team/structure/working-groups/database-scalability/index.html.md
+company/team/structure/working-groups/database-scalability/time-decay.html.md
+company/team/structure/working-groups/database-scalability/read-mostly-licenses-calls.png
+company/team/structure/working-groups/database-scalability/read-mostly-readwriteratio.png
+company/team/structure/working-groups/database-scalability/read-mostly-subscriptions-writes.png
+company/team/structure/working-groups/sox/index.html.md
+company/team/structure/working-groups/incident-response-lifecycle/index.html.md
+company/team/structure/working-groups/index.html.md
+company/team/structure/working-groups/modern-applications-gtm/index.html.md
+company/team/structure/working-groups/gitlab-com-saas-data-pipeline/HLD.png
+company/team/structure/working-groups/gitlab-com-saas-data-pipeline/index.html.md
+company/team/structure/working-groups/cloud-native-tool-strategy/index.html.md
+company/team/structure/working-groups/mlops/index.html.md
+company/team/structure/working-groups/mlops/image.png
+company/team/structure/working-groups/tiering/index.html.md
+company/team/structure/working-groups/secure-offline-environment/index.html.md
+company/team/structure/working-groups/pipeline-validation-service-operations/index.html.md
+company/team/structure/working-groups/enterprise-market-leadership/index.html.md
+company/team/structure/working-groups/sox pmo/.gitkeep
+company/team/structure/working-groups/sharding/index.html.md
+company/team/structure/working-groups/engineering-career-matrices/index.html.md
+company/team/structure/working-groups/real-time/design_document.html.md
+company/team/structure/working-groups/real-time/index.html.md
+company/team/structure/working-groups/disaster-recovery/index.html.md
+company/team/structure/working-groups/automotive-development/index.html.md
+company/team/structure/working-groups/product-analytics/index.html.md
+company/team/structure/working-groups/teamops-sales-marketing/index.html.md
+company/team/structure/working-groups/single-codebase/index.html.md
+company/team/structure/working-groups/vuejs-3-migration/index.html.md
+company/team/structure/working-groups/continuous-scanning/index.html.md
+company/team/structure/working-groups/ai-integration/index.html.md
+company/team/structure/working-groups/webpack/index.html.md
+company/team/structure/working-groups/expense-management/index.html.md
+company/team/structure/working-groups/ci-build-speed/index.html.md
+company/team/structure/working-groups/fedramp-execution/index.html.md
+company/team/structure/working-groups/ic-gearing/index.html.md
+company/team/structure/working-groups/simplify-groups-and-projects/index.html.md
+company/team/structure/working-groups/china-service/index.html.md
+company/team/structure/working-groups/improve-ops-quality/index.html.md
+company/team/structure/working-groups/dashboards/index.html.md
+company/team/structure/working-groups/account-escalation-process/index.html.md
+company/team/structure/working-groups/isolation/fault_tolerance.html.md
+company/team/structure/working-groups/isolation/index.html.md
+company/team/structure/working-groups/runtime-update-process/index.html.md
+company/team/structure/working-groups/object-storage/index.html.md
+company/team/structure/working-groups/internship-pilot/index.html.md
+company/team/structure/working-groups/cross-functional-prioritization/index.html.md
+company/team/structure/working-groups/next-architecture-workflow/index.html.md
+company/team/structure/working-groups/log-aggregation/index.html.md
+company/team/structure/working-groups/frontend-vision/index.html.md
+company/team/structure/working-groups/token-management/index.html.md
+company/team/structure/working-groups/transient-bugs/index.html.md
+company/team/structure/working-groups/githost-migration/index.html.md
+company/team/structure/working-groups/software-supply-chain-security/index.html.md
+company/team/structure/working-groups/leading-organizations/index.html.md
+company/team/structure/working-groups/demo-test-data/index.html.md
+company/team/structure/working-groups/product-career-development-framework/index.html.md
+company/team/structure/working-groups/administration/index.html.md
+company/team/structure/working-groups/emerging-talent/index.html.md
+company/team/structure/working-groups/issue-prioritization-framework/index.html.md
+company/team/structure/working-groups/merge-request-report-widgets/MR_Widgets_After.png
+company/team/structure/working-groups/merge-request-report-widgets/MR_Widgets_Before.png
+company/team/structure/working-groups/merge-request-report-widgets/index.html.md
+company/team/structure/working-groups/gitlab-com-revenue/index.html.md
+company/team/structure/working-groups/recruiting-ssot/index.html.md
+company/team/structure/working-groups/ci-queue-stability/index.html.md
+company/team/structure/working-groups/gitlab-com-cost/index.html.md
+company/team/structure/working-groups/category-leadership/index.html.md
+company/team/structure/working-groups/iacv-delta-arr/index.html.md
+company/team/structure/working-groups/rate-limit-architecture/index.html.md
+company/team/structure/working-groups/frontend-observability/index.html.md
+company/team/structure/working-groups/logging/index.html.md
+company/team/structure/working-groups/commercial-licensing/index.html.md
+company/team/structure/working-groups/purchasing-reliability/index.html.md
+company/team/structure/working-groups/event-stream/index.html.md
+company/team/structure/working-groups/FY21-product-engagement-actions/index.html.md
+company/team/structure/working-groups/product-development-flow/index.html.md
+company/team/structure/working-groups/devsecops-adoption/index.html.md
+company/team/structure/working-groups/architecture-kickoff/index.html.md
+company/team/structure/working-groups/mit-mentoring/index.html.md
+company/team/structure/working-groups/gitlab-dedicated/index.html.md
+company/team/structure/working-groups/development-metrics/index.html.md
+company/team/structure/working-groups/globalization/index.html.md
+company/team/structure/index.html.md.erb
 ```
 
 ### Finance
@@ -3400,126 +3514,13 @@ engineering/index.html.md.erb
 
 ### Team
 
-- **Total Pages:** 115
-- **Total Markdown:** 97
-- **Total ERB Pages:** 6
+- **Total Pages:** 3
+- **Total Markdown:** 0
+- **Total ERB Pages:** 1
 
 ```text
 company/team/index.html.haml
 company/team/team.yml.erb
-company/team/structure/_scope_direction_and_leadership.erb
-company/team/structure/_functional_knowledge.erb
-company/team/structure/_values_alignment.erb
-company/team/structure/_remote_work.erb
-company/team/structure/working-groups/clickhouse-datastore/index.html.md
-company/team/structure/working-groups/product-analytics-gtm/index.html.md
-company/team/structure/working-groups/upstream-diversity/index.html.md
-company/team/structure/working-groups/api-vision/index.html.md
-company/team/structure/working-groups/multi-large/index.html.md
-company/team/structure/working-groups/gcp-partnership/index.html.md
-company/team/structure/working-groups/contributor-growth/index.html.md
-company/team/structure/working-groups/gitlab-ui/index.html.md
-company/team/structure/working-groups/learning-experience/index.html.md
-company/team/structure/working-groups/engineering-internship/index.html.md
-company/team/structure/working-groups/feature-flag-usage/index.html.md
-company/team/structure/working-groups/learning-restructure/index.html.md
-company/team/structure/working-groups/ecommerce/index.html.md
-company/team/structure/working-groups/product-accessibility/index.html.md
-company/team/structure/working-groups/experimentation/index.html.md
-company/team/structure/working-groups/dogfood-plan/index.html.md
-company/team/structure/working-groups/performance-indicators/index.html.md
-company/team/structure/working-groups/self-managed-scalability/index.html.md
-company/team/structure/working-groups/licensing-transactions-improvements/index.html.md
-company/team/structure/working-groups/maintainership/index.html.md
-company/team/structure/working-groups/data-poc/index.html.md
-company/team/structure/working-groups/database-scalability/DB-terminology.png
-company/team/structure/working-groups/database-scalability/read-mostly.html.md
-company/team/structure/working-groups/database-scalability/read-mostly-subscriptions-reads.png
-company/team/structure/working-groups/database-scalability/read-mostly-licenses-fixed.png
-company/team/structure/working-groups/database-scalability/index.html.md
-company/team/structure/working-groups/database-scalability/time-decay.html.md
-company/team/structure/working-groups/database-scalability/read-mostly-licenses-calls.png
-company/team/structure/working-groups/database-scalability/read-mostly-readwriteratio.png
-company/team/structure/working-groups/database-scalability/read-mostly-subscriptions-writes.png
-company/team/structure/working-groups/sox/index.html.md
-company/team/structure/working-groups/incident-response-lifecycle/index.html.md
-company/team/structure/working-groups/index.html.md
-company/team/structure/working-groups/modern-applications-gtm/index.html.md
-company/team/structure/working-groups/gitlab-com-saas-data-pipeline/HLD.png
-company/team/structure/working-groups/gitlab-com-saas-data-pipeline/index.html.md
-company/team/structure/working-groups/cloud-native-tool-strategy/index.html.md
-company/team/structure/working-groups/mlops/index.html.md
-company/team/structure/working-groups/mlops/image.png
-company/team/structure/working-groups/tiering/index.html.md
-company/team/structure/working-groups/secure-offline-environment/index.html.md
-company/team/structure/working-groups/pipeline-validation-service-operations/index.html.md
-company/team/structure/working-groups/enterprise-market-leadership/index.html.md
-company/team/structure/working-groups/sox pmo/.gitkeep
-company/team/structure/working-groups/sharding/index.html.md
-company/team/structure/working-groups/engineering-career-matrices/index.html.md
-company/team/structure/working-groups/real-time/design_document.html.md
-company/team/structure/working-groups/real-time/index.html.md
-company/team/structure/working-groups/disaster-recovery/index.html.md
-company/team/structure/working-groups/automotive-development/index.html.md
-company/team/structure/working-groups/product-analytics/index.html.md
-company/team/structure/working-groups/teamops-sales-marketing/index.html.md
-company/team/structure/working-groups/single-codebase/index.html.md
-company/team/structure/working-groups/vuejs-3-migration/index.html.md
-company/team/structure/working-groups/continuous-scanning/index.html.md
-company/team/structure/working-groups/ai-integration/index.html.md
-company/team/structure/working-groups/webpack/index.html.md
-company/team/structure/working-groups/expense-management/index.html.md
-company/team/structure/working-groups/ci-build-speed/index.html.md
-company/team/structure/working-groups/fedramp-execution/index.html.md
-company/team/structure/working-groups/ic-gearing/index.html.md
-company/team/structure/working-groups/simplify-groups-and-projects/index.html.md
-company/team/structure/working-groups/china-service/index.html.md
-company/team/structure/working-groups/improve-ops-quality/index.html.md
-company/team/structure/working-groups/dashboards/index.html.md
-company/team/structure/working-groups/account-escalation-process/index.html.md
-company/team/structure/working-groups/isolation/fault_tolerance.html.md
-company/team/structure/working-groups/isolation/index.html.md
-company/team/structure/working-groups/runtime-update-process/index.html.md
-company/team/structure/working-groups/object-storage/index.html.md
-company/team/structure/working-groups/internship-pilot/index.html.md
-company/team/structure/working-groups/cross-functional-prioritization/index.html.md
-company/team/structure/working-groups/next-architecture-workflow/index.html.md
-company/team/structure/working-groups/log-aggregation/index.html.md
-company/team/structure/working-groups/frontend-vision/index.html.md
-company/team/structure/working-groups/token-management/index.html.md
-company/team/structure/working-groups/transient-bugs/index.html.md
-company/team/structure/working-groups/githost-migration/index.html.md
-company/team/structure/working-groups/software-supply-chain-security/index.html.md
-company/team/structure/working-groups/leading-organizations/index.html.md
-company/team/structure/working-groups/demo-test-data/index.html.md
-company/team/structure/working-groups/product-career-development-framework/index.html.md
-company/team/structure/working-groups/administration/index.html.md
-company/team/structure/working-groups/emerging-talent/index.html.md
-company/team/structure/working-groups/issue-prioritization-framework/index.html.md
-company/team/structure/working-groups/merge-request-report-widgets/MR_Widgets_After.png
-company/team/structure/working-groups/merge-request-report-widgets/MR_Widgets_Before.png
-company/team/structure/working-groups/merge-request-report-widgets/index.html.md
-company/team/structure/working-groups/gitlab-com-revenue/index.html.md
-company/team/structure/working-groups/recruiting-ssot/index.html.md
-company/team/structure/working-groups/ci-queue-stability/index.html.md
-company/team/structure/working-groups/gitlab-com-cost/index.html.md
-company/team/structure/working-groups/category-leadership/index.html.md
-company/team/structure/working-groups/iacv-delta-arr/index.html.md
-company/team/structure/working-groups/rate-limit-architecture/index.html.md
-company/team/structure/working-groups/frontend-observability/index.html.md
-company/team/structure/working-groups/logging/index.html.md
-company/team/structure/working-groups/commercial-licensing/index.html.md
-company/team/structure/working-groups/purchasing-reliability/index.html.md
-company/team/structure/working-groups/event-stream/index.html.md
-company/team/structure/working-groups/FY21-product-engagement-actions/index.html.md
-company/team/structure/working-groups/product-development-flow/index.html.md
-company/team/structure/working-groups/devsecops-adoption/index.html.md
-company/team/structure/working-groups/architecture-kickoff/index.html.md
-company/team/structure/working-groups/mit-mentoring/index.html.md
-company/team/structure/working-groups/gitlab-dedicated/index.html.md
-company/team/structure/working-groups/development-metrics/index.html.md
-company/team/structure/working-groups/globalization/index.html.md
-company/team/structure/index.html.md.erb
 company/team-pets/index.html.haml
 ```
 

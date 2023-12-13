@@ -155,4 +155,4 @@ on Slack.
 
 ## Contribution guidelines
 
-For contribution guidelines see the [dedicated handbook page](https://handbook.gitlab.com/contribution-guide).
+For contribution guidelines see the [dedicated handbook page](https://handbook.gitlab.com/docs/).

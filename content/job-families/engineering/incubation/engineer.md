@@ -46,13 +46,13 @@ Incubation Engineers work within the [Incubation Engineering Department](https:/
 
 #### Incubation Engineer Job Grade
 
-The Intermediate Incubation Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Intermediate Incubation Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Incubation Engineer
 
 #### Senior Incubation Engineer Job Grade
 
-The Senior Incubation Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Incubation Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Incubation Engineer Requirements
 
@@ -65,7 +65,7 @@ The Senior Incubation Engineer is a [grade 7](https://about.gitlab.com/handbook/
 
 #### Staff Incubation Engineer Job Grade
 
-The Staff Incubation Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Incubation Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Incubation Engineer Requirements
 
@@ -90,7 +90,7 @@ For more details on the engineering career ladders, please review the [engineeri
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next candidates will meet the Hiring Manager.
 - There will then be 2x Technical Interviews - one Frontend and one Backend.
 - The next *optional* step is an architectural discussion

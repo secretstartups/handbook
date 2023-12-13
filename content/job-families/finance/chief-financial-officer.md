@@ -14,11 +14,11 @@ title: "Chief Financial Officer"
 - Oversee accounting and billing system that can scale with company growth
 - Accurate, timely, detailed, and easy-to-access metrics on sales, sales enablement, customer success and adoption, peopleops, marketing, engineering, product, and finance.
 
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#e-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#e-group)
 
 ## Performance Indicators
 
-- [Plan vs Actual](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#plan-vs-actual)
+- [Plan vs Actual](/handbook/finance/financial-planning-and-analysis/#plan-vs-actual)
 - [New hire location factor](/#new-hire-location-factor)
-- [Runway](https://about.gitlab.com/handbook/finance/accounting/#cash-burn-average-cash-burn-and-runway)
-- [Effective Tax Rate](https://about.gitlab.com/handbook/tax/performance-indicators/#effective-tax-rate-etr)
+- [Runway](/handbook/finance/accounting/#cash-burn-average-cash-burn-and-runway)
+- [Effective Tax Rate](/handbook/tax/performance-indicators/#effective-tax-rate-etr)

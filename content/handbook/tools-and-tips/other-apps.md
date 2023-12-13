@@ -5,7 +5,7 @@ description: This page lists various apps that may be useful for your workflow a
 
 ### General security tip
 
-Please review our [acceptable use policy](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/).
+Please review our [acceptable use policy](/handbook/people-group/acceptable-use-policy/).
 
 Some tools and extensions integrate into your various work accounts and will
 request certain permissions for them. Please always be cautious of the
@@ -28,7 +28,7 @@ Here are some non-exhaustive guidelines:
 - When installing something from an "app store" of some sort, look for the reviews, the number of downloads and especially for "badges" that show that the application was reviewed by the app store. For example the Chrome Web Store has a [featured badge](https://support.google.com/chrome_webstore/answer/1050673?visit_id=638011195121439702-999154480&p=cws_badges&rd=1#cws_badges&zippy=%2Cunderstand-chrome-web-store-badges) for popular trustworthy applications
 - When in doubt, do not install the application
 
-In any case, you are encouraged to use our [Individual Use Software Request](https://about.gitlab.com/handbook/finance/procurement/personal-use-software/#how-do-i-submit-a-request-for-new-individual-use-software) process prior to installing third party apps.
+In any case, you are encouraged to use our [Individual Use Software Request](/handbook/finance/procurement/personal-use-software/#how-do-i-submit-a-request-for-new-individual-use-software) process prior to installing third party apps.
 
 ## Internet browsers
 
@@ -41,7 +41,7 @@ Shut off interest based ads by setting your preferences.
 ### Browser extensions
 
 In general, if a particular application or browser extension (sometimes called a plugin) is referenced in the handbook, it is considered "approved".
-For example, [1Password](https://about.gitlab.com/handbook/security/#1password-guide) is centered around the browser extension.
+For example, [1Password](/handbook/security/#1password-guide) is centered around the browser extension.
 Another application is [Zoom](/handbook/tools-and-tips/#zoom), which has a scheduler extension.
 However, be sure to search for specific information about the application, in case the desktop version is recommended and the browser extension is not (e.g. [Grammarly](#grammarly)).
 
@@ -112,7 +112,7 @@ There is a free and premium version.
 {: .panel-heading}
 <div class="panel-body">
 
-Grammarly browser extensions are discouraged, Grammarly will have access to everything you type in your browser, and they have had [a security problem](https://gizmodo.com/grammarly-bug-let-snoops-read-everything-you-wrote-onli-1822740378). If you want to use it to check non-confidential text manually, you should download the [desktop version](https://www.grammarly.com/native/mac) instead. The desktop version is not available for Linux. Refer to [GitLab's Data Classification Standard](https://about.gitlab.com/handbook/security/data-classification-standard.html) for additional details on how data is classified across the organization.
+Grammarly browser extensions are discouraged, Grammarly will have access to everything you type in your browser, and they have had [a security problem](https://gizmodo.com/grammarly-bug-let-snoops-read-everything-you-wrote-onli-1822740378). If you want to use it to check non-confidential text manually, you should download the [desktop version](https://www.grammarly.com/native/mac) instead. The desktop version is not available for Linux. Refer to [GitLab's Data Classification Standard](/handbook/security/data-classification-standard.html) for additional details on how data is classified across the organization.
 
 </div>
 </div>
@@ -153,7 +153,7 @@ https://docs.gitlab.com/search/?q={query}
 https://about.gitlab.com/handbook/#stq={query}&stp=1
 ```
 
-Read [Searching using Alfred](https://about.gitlab.com/handbook/tools-and-tips/searching/#searching-using-alfred-on-macos) to learn more and be able to automatically add them.
+Read [Searching using Alfred](/handbook/tools-and-tips/searching/#searching-using-alfred-on-macos) to learn more and be able to automatically add them.
 
 There is also [a repo maintained by GitLab team members](https://gitlab.com/gitlab-org/alfred) with GitLab related workflows.
 
@@ -196,22 +196,6 @@ If you are scheduling a meeting with a GitLab team-member, please use Google Cal
 
 Keep in mind that unlike normal Google Calendar events, Calendly events are not automatically synchronized between both parties when changes are made.
 If an event needs to be cancelled or modified, make sure to use Calendly to do so.
-
-### Clockwise
-
-[Clockwise](https://www.getclockwise.com/) is a tool for optimizing your schedule to free up time for you to focus. It will look for opportunities to reschedule meetings when it's most efficient for attendees, and give you uninterrupted time to work. Clockwise integrates with your [calendar](/handbook/tools-and-tips/#google-calendar), and when possible will move events automatically on your behalf.
-
-<div class="panel panel-gitlab-orange">
-**IMPORTANT NOTE FOR TEAM MEMBERS USING CLOCKWISE**
-{: .panel-heading}
-<div class="panel-body">
-
-Clockwise requires specific permissions which allow it to read all calendar invitation data. Team Members who opt to utilize Clockwise should be cognizant about the meeting details (i.e. subject and meeting invite body) included in meetings that are sent from your calendar. Confidential data such as customer names, security specific information like discussion of incidents or bugs should not be included in a calendar title or body, and  instead be kept in a linked agenda, which Clockwise will not be able to read or download. Any data considered non-confidential per [GitLab's Data Classification Standard](https://about.gitlab.com/handbook/security/data-classification-standard.html) can be safely included in meeting invites.
-
-Team Members should also note that by utilizing Clockwise, you inherently agree to providing Clockwise with the ability to view and download your Google Contacts saved to your gitlab.com email account. This will be limited to viewing and downloading information for contacts with an @gitlab.com email alias.
-
-</div>
-</div>
 
 ### Freedom
 
@@ -303,7 +287,7 @@ It also offers a free reliable mobile video conference app.
 ### Loom
 
 [Loom (Free)](https://www.useloom.com/) is a handy Chrome plugin tool for video walkthroughs.
-Nice tool for demo recordings and internal/external documentation. Note, Loom videos are public by default - ensure you are not exposing data that should remain private. GitLab does have a Loom workspace, for a license please follow the instructions on the [tech stack page](https://about.gitlab.com/handbook/business-technology/tech-stack/)
+Nice tool for demo recordings and internal/external documentation. Note, Loom videos are public by default - ensure you are not exposing data that should remain private. GitLab does have a Loom workspace, for a license please follow the instructions on the [tech stack page](/handbook/business-technology/tech-stack/)
 
 ## Language and translation
 

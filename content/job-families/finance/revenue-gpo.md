@@ -14,7 +14,7 @@ The Revenue Analyst, GPO role will utilize their technical knowledge and experti
 
 #### Revenue Analyst, GPO Job Grade
 
-The Revenue Analyst, Revenue GPO is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Revenue Analyst, Revenue GPO is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Revenue Analyst, GPO Responsibilities
 
@@ -46,7 +46,7 @@ The Senior Revenue Analyst, GPO role will be a technical and subject matter expe
 
 #### Senior Revenue Analyst, GPO Job Grade
 
-The Senior Revenue Analyst, GPO is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Revenue Analyst, GPO is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Revenue Analyst, GPO Responsibilities
 
@@ -81,7 +81,7 @@ The Manager, Revenue GPO role will manage the Revenue GPO Team on a day to day b
 
 #### Manager, Revenue GPO Job Grade
 
-The Manager, Revenue GPO is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Revenue GPO is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Revenue GPO Responsibilities
 
@@ -117,7 +117,7 @@ The Senior Manager, Revenue GPO role will take the leading and strategic role in
 
 #### Senior Manager, Revenue GPO Job Grade
 
-The Senior Manager, Revenue GPO is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Revenue GPO is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Revenue GPO Responsibilities
 
@@ -149,9 +149,9 @@ The Senior Manager, Revenue GPO is a [grade 9](https://about.gitlab.com/handbook
 
 ### Performance Indicators
 
-- [Deals reviewed for revenue recognition = 100%](https://about.gitlab.com/handbook/finance/accounting/#deals-reviewed-for-revenue-recognition--100)
-- [Non GAAP Revenue (Ratable Recognition)](https://about.gitlab.com/handbook/finance/accounting/#non-gaap-revenue-ratable-recognition)
-- [Revenue recognition and accounting for other quote to cash transactions in Net Suite](https://about.gitlab.com/handbook/finance/accounting/#8-revenue-recognition-and-accounting-for-other-quote-to-cash-transactions-in-net-suite)
+- [Deals reviewed for revenue recognition = 100%](/handbook/finance/accounting/#deals-reviewed-for-revenue-recognition--100)
+- [Non GAAP Revenue (Ratable Recognition)](/handbook/finance/accounting/#non-gaap-revenue-ratable-recognition)
+- [Revenue recognition and accounting for other quote to cash transactions in Net Suite](/handbook/finance/accounting/#8-revenue-recognition-and-accounting-for-other-quote-to-cash-transactions-in-net-suite)
 
 ## Career Ladder
 
@@ -159,7 +159,7 @@ The next step in the Revenue GPO job family is to move to the [Revenue Accountin
 
 ## Hiring Process
 
-Candidates for the Revenue Organization can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for the Revenue Organization can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Selected candidates will be invited to schedule a 30 minute screening call with our Global Recruiters
 - Next, candidates will be invited to meet with the Revenue Manager, GPO
@@ -168,4 +168,4 @@ Candidates for the Revenue Organization can expect the hiring process to follow 
 - Finally, candidates may be asked to interview with the Principal Accounting Officer
 - Successful candidates will subsequently be made an offer via email or phone call
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/)
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/)

@@ -9,7 +9,7 @@ summary: " "
 
 #### Senior Director, Marketing Operations and Analytics Job Grade
 
-The Senior Director, Marketing Operations and Analytics is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Marketing Operations and Analytics is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, Marketing Operations and Analytics Responsibilities
 
@@ -35,7 +35,7 @@ The Senior Director, Marketing Operations and Analytics is a [grade 11](https://
 - Experience with marketing attribution models.
 - Experience in analyzing, experimenting and driving results in marketing websites.
 - Ability to think strategically, but also have exceptional attention to detail to drive program management and execution
-- Familiarity with our [tech stack](https://about.gitlab.com/handbook/marketing/marketing-operations/#-tech-stack) is a strong plus
+- Familiarity with our [tech stack](/handbook/marketing/marketing-operations/#-tech-stack) is a strong plus
 - Experience with SQL, Tableau, and/or similar analytical packages a plus
 - Ability to conduct sophisticated and creative analysis, yet translate those results to easily digestible messages, communications, and presentations
 - Interest in GitLab, and open source software
@@ -47,7 +47,7 @@ The Senior Director, Marketing Operations and Analytics is a [grade 11](https://
 
 #### VP, Marketing Operations and Analytics Job Grade
 
-The VP, Marketing Operations and Analytics is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)).
+The VP, Marketing Operations and Analytics is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)).
 
 #### VP, Marketing Operations and Analytics Responsibilities
 
@@ -65,7 +65,7 @@ The VP, Marketing Operations and Analytics is a [grade 12](https://about.gitlab.
 
 ## Performance Indicators
 
-- [Total number of SAOs by month](https://about.gitlab.com/handbook/marketing/performance-indicators/#total-number-of-mqls-by-month)
+- [Total number of SAOs by month](/handbook/marketing/performance-indicators/#total-number-of-mqls-by-month)
 - INQ to SAO conversion rate
 - Marketing influenced pipeline
 
@@ -75,7 +75,7 @@ The next step in the Marketing Strategy job family beyond VP is not yet defined 
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Qualified candidates will be invited to schedule a 30 minute screening call with one of our Global Recruiters.
 - Next, candidates will be invited to speak with the Chief Marketing Officer.
@@ -84,4 +84,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to meet with a panel of their future direct reports Director of Marketing Strategy, Director of Marketing Operations and Head of Digital Experience
 - Finally, candidates will meet either Chief People Officer or Chief Revenue Officer
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

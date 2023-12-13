@@ -1,0 +1,23 @@
+{{- $entityMapper := partials.IncludeCached "data/entity-mapper" . }}
+  <table style="display: table;">
+    <thead>
+        <tr>
+            <th>Country</th>
+            <th>Probation Period</th>
+            <th>Notice during probation</th>
+            <th>Notice after probation</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{- range sort $entityMapper "country" }}
+          {{- if .probation_months }}
+          <tr>
+              <td>{{ .country }}</td>
+              <td>{{ .probation_months }} months {{ with .probation_extra }}{{ . }}{{ end }}</td>
+              <td>{{ .notice_during_probation }}</td>
+              <td>{{ .notice_after_probation }}</td>
+          </tr>
+          {{- end }}
+        {{- end }}
+    </tbody>
+</table>

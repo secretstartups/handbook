@@ -10,7 +10,7 @@ The Team Member Relations Specialist reports to the Director, Team Member Relati
 
 #### Team Member Relations Specialist Job Grade
 
-The Team Member Relations Partner is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Team Member Relations Partner is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Team Member Relations Specialist Responsibilities
 
@@ -44,7 +44,7 @@ The Team Member Relations Partner reports to the Director, Team Member Relations
 
 #### Team Member Relations Partner Job Grade
 
-The Team Member Relations Partner is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Team Member Relations Partner is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Team Member Relations Partner Responsibilities
 
@@ -75,7 +75,7 @@ The Senior Team Member Relations Partner reports to Director, Team Member Relati
 
 #### Senior Team Member Relations Partner Job Grade
 
-The Senior Team Member Relations Partner is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Team Member Relations Partner is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Team Member Relations Partner Responsibilities
 
@@ -105,7 +105,7 @@ The Staff Team Member Relations Partner reports to the Director, Team Member Rel
 
 ### Staff Team Member Relations Partner Job Grade
 
-The Staff Team Member Relations Partner is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Team Member Relations Partner is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Staff Team Member Relations Partner Responsibilities
 
@@ -135,7 +135,7 @@ The Manager, Team Member Relations reports to the Director, Team Member Relation
 
 #### Manager, Team Member Relations Job Grade
 
-The Manager, Team Member Relations is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Team Member Relations is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Team Member Relations Responsibilities
 
@@ -166,7 +166,7 @@ The Director, Team Member Relations reports to the VP, People Operations, Techno
 
 #### Director, Team Member Relations Job Grade
 
-The Director, Team Member Relations is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Team Member Relations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Team Member Relations Responsibilities
 
@@ -215,7 +215,7 @@ The next step in the job family is VP, People Operations, or Director, People Bu
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Qualified candidates will be invited to schedule a 30 minute screening call with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with our Senior Manager, People Operations
@@ -224,4 +224,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - After that, candidates will be invited to interview with the Senior Director, People Success
 - Finally, our CPO may choose to conduct a final interview
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

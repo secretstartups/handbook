@@ -45,7 +45,7 @@ The IT Security Engineer (Intermediate) reports to the [Manager, IT Security Ope
 
 #### The IT Security Engineer (Intermediate) Job Grade
 
-The IT Security Engineer (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The IT Security Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### IT Security Engineer (Intermediate) Responsibilities
 
@@ -61,7 +61,7 @@ The Senior Security Engineer reports to the Manager, IT Security Operations](/jo
 
 #### Senior Security Job Grade
 
-The Senior Security Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Security Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Security Engineer Responsibilities
 
@@ -83,7 +83,7 @@ The Senior Security Engineer reports to the [Manager, IT Security Operations](/j
 
 #### Staff Security Job Grade
 
-The Staff Security Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Security Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Security Responsibilities
 
@@ -109,14 +109,14 @@ A Staff Security Engineer may decide to pursue the [Manager, IT Security Operati
 
 ## Hiring Process
 
-All interviews are conducted using Zoom video conferencing software. Candidates for this position can expect the hiring process to follow the order below, with modifications to the process as required, based on specific situations. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+All interviews are conducted using Zoom video conferencing software. Candidates for this position can expect the hiring process to follow the order below, with modifications to the process as required, based on specific situations. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute Intervew with the Hiring Manager
 - After that, candidates will be invited to schedule a 30 minute interview with members of the IT team.
 - Finally, the candidates will interview with the Sr. Director of IT.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 

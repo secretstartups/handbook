@@ -20,6 +20,10 @@ For Omnibus installs on a single server, this is fairly straightforward. Replace
 a raw snippet.
 
 ```shell
+#Ensure that the "patch" package is installed.
+#Use the package manager specific to your Linux OS
+#For Ubuntu, for example, sudo apt install patch
+
 curl -o /tmp/$mr_iid.patch https://gitlab.com/gitlab-org/gitlab/-/merge_requests/$mr_iid.patch
 cd /opt/gitlab/embedded/service/gitlab-rails
 patch -p1 -b -f < /tmp/$mr_iid.patch

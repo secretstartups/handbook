@@ -11,7 +11,7 @@ A qualified Director, Field Marketing has strong understanding of sales-focused 
 
 ### Job Grade
 
-The Director, Field Marketing is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Field Marketing is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -44,9 +44,40 @@ The Director, Field Marketing is a [grade 10](https://about.gitlab.com/handbook/
 - A passion and strong understanding of the developer tools, IT operations tools, and/or IT security markets.
 - Strong understanding of marketing to financial services / fintech, federal agencies, healthcare, automotive, tech, and energy industry verticals.
 - Experience with supporting both direct sales and channel sales teams.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s travel policy. If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
+
+### Specialty
+
+## Director of Marketing, Japan
+
+The Director of Marketing, Japan reports to the VP, Integrated Marketing.
+
+### Summary
+
+The Director of Marketing, Japan leads the strategy and execution of marketing programs performed at a local level, impacting both the direct and indirect sales motions. The Director of Marketing, Japan works closely with regional sales leadership to generate and progress demand through events, programs and local insights.
+
+### Responsibilities
+
+- Lead the development of local marketing strategies in Japan, creating a unified approach for both field and partner motions in market in close partnership with (sales) Country Manager
+- Scale field marketing activities and impact, while balancing the unique needs and characteristics of the Japanese markets
+- Create a defined and programmatic approach to channel marketing to support the growth of GitLab and the role of marketing in building the partner ecosystem
+- Be the voice of the field to the broader marketing team, including sales insights and inputs to directly impact marketing strategy and in turn be the primary representative of the broader marketing team to field sales
+- Analyze and report on the impact and performance of regional marketing to a range of audiences, from local leadership to the executive level and tailor the insights accordingly
+- Play an active role as part of the Integrated Marketing Leadership team; including aligning and connecting strategy to top of funnel of motions, collaborating with ABM to extend and amplify efforts and contribute to local success
+- Achieve high and consistent ROI from Marketing program in Japan, through operational rigor, measurement and budget and financial management
+- Continually experiment, test and iterate programs to define best practice and evolve program as the business grows
+
+### Requirements
+
+- 10+ years progressive experience in the B2B tech industry with a focus on field, channel and partner marketing; working directly with sales teams
+- Skilled at building and maintaining relationships, being strategic partner to sales; fluent in Japanese and strong communicator in English
+- Team management and development skills, including career development and coaching; experience managing people managers
+- Track record of delivering results in line with overall business objectives through operational excellence, including accelerating and progressing pipeline
+- Skilled at partnering cross-functionally across marketing, internal stakeholders and agency partners as well as external stakeholders, including channel partners and customers
+- Deep understanding of channel ecosystem and related processes
+
 
 ### Career Ladder
 
@@ -62,7 +93,7 @@ The Senior Director, Regional Marketing leads the strategy and execution of mark
 
 ### Job Grade
 
-The Senior Director, Regional Marketing is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Regional Marketing is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -94,12 +125,12 @@ The next step in the Field Marketing Leadership job family is to VP, Integrated 
 
 ### Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule an interview with the VP, Integrated Marketing
 - Candidates will then be invited to schedule interviews with key stakeholders for the role at GitLab.
 - Finally, our CMO and People Business partner will conduct final interviews.
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
