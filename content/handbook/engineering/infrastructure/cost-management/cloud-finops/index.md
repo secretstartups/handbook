@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "P&L Allocation"
 description: "P&L allocation documentation"
 ---
