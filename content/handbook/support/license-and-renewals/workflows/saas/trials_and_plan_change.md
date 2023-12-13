@@ -23,12 +23,13 @@ GitLab.com Premium customers who want to trial SaaS Ultimate have two options to
 
 Once the form has been submitted, the L&R Support Engineer should follow the workflow outlined in the following [video](https://www.youtube.com/watch?v=wJCrh45Ug2Q), which entails:
 
--  Locating the correct `Customer` record by searching `Customers`.
--  Clicking the (i) info button on the customer record.
--  Going to the `Zuora Subscriptions` tab.
--  Selecting the appropriate namespace and pressing the `Apply Ultimate Trial` button.
+- Locating the correct `Customer` record by searching `Customers`.
+- Clicking the (i) info button on the customer record.
+- Going to the `Zuora Subscriptions` tab.
+- Selecting the appropriate namespace and pressing the `Apply Ultimate Trial` button.
 
 #### Workflow caveats
+
 - For all trial extensions, the renewal start date must align with the end date of the prior subscription term therefore requests for Ultimate trial extensions with the purpose of extending ahead of the renewal date should be denied. It is GitLab policy to align renewal dates with the end of the prior subscription term.
 - Currently GitLab.com Ultimate trials are not extendable, once the trial period has elapsed the `Apply Ultimate Trial` button may be displayed again if the namespace remains on Premium after expiration however pressing the button will not work given namespaces can only have one trial. This is a known limitation which will be addressed in future versions.
 - GitLab.com trials are only available for the GitLab Ultimate Subscription plan.
