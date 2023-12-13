@@ -266,7 +266,7 @@ In all-remote companies, it is easy to fall into a situation where you work with
 
 Leaders in an all-remote company must work to avoid dotted lines and matrix organization. Everyone should report to exactly one person, and that person should understand your day-to-day tasks and be well-positioned to assist you in removing obstacles to thriving in your role.
 
-Whenever there is need to work on a specific, high-level, cross functional business problem, a [working group]({{< ref "working-groups" >}}) should be established for that need.
+Whenever there is need to work on a specific, high-level, cross functional business problem, a [working group]({{< ref "/handbook/company/working-groups" >}}) should be established for that need.
 
 Learn more about GitLab's approach in the [Leadership section of our Handbook]({{< ref "leadership#no-matrix-organization" >}}).
 

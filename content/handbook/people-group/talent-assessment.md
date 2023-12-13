@@ -300,7 +300,7 @@ The calibration session is one of the most important pieces of the Performance/G
 
 It is likely not necessary to discuss each team member in detail, particularly for larger groups. Calibration sessions typically focuses on gaps, outliers and areas that might require additional management attention and/or alignment.
 
-As a best practice, we should calibrate outliers. "Outliers" are typically considered to [Box 1 ("Exceeding Growth Potential" and "Exceeding Performance") and Box 9 ("Developing Growth Potential" and "Developing Performance")]({{< ref "talent-assessment" >}}). [People Business Partners]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}) and business leaders have discretion to expand this threshold as needed, but live calibration for team members in Box 1 and Box 9 should be the baseline across the board.
+As a best practice, we should calibrate outliers. "Outliers" are typically considered to [Box 1 ("Exceeding Growth Potential" and "Exceeding Performance") and Box 9 ("Developing Growth Potential" and "Developing Performance")]({{< ref "/handbook/people-group/talent-assessment" >}}). [People Business Partners]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}) and business leaders have discretion to expand this threshold as needed, but live calibration for team members in Box 1 and Box 9 should be the baseline across the board.
 
 A few additional reasons to consider calibrating beyond Box 1 and Box 9 are:
 
@@ -639,7 +639,7 @@ Recommended process for our FY'24 Q2 cycle will be as follows:
 
     - **Achievements**
 
-      List your 3 most significant achievements since the last formal [Talent Assessment]({{< ref "talent-assessment" >}}), aligned with the job responsibilities and expectations of the role. This can include significant impact to the department or company, customer-impact, community-impacting, etc. Feedback can also be included in this section if applicable.
+      List your 3 most significant achievements since the last formal [Talent Assessment]({{< ref "/handbook/people-group/talent-assessment" >}}), aligned with the job responsibilities and expectations of the role. This can include significant impact to the department or company, customer-impact, community-impacting, etc. Feedback can also be included in this section if applicable.
 
     - **Strengths & Opportunities in Role**
 
@@ -683,7 +683,7 @@ We have intentionally provided a longer timeline to ensure different business gr
 
 ## Succession Planning
 
-Succession planning is an important step in our Talent Assessment process. Completing the [Performance/Growth Potential Assessment]({{< ref "talent-assessment" >}}) gives leaders a fresh overview of the top performers and the highest growth team members in their respective organizations. Particularly for individuals in Senior Leadership roles and above (the [S-Group]({{< ref "structure#s-group" >}}) and depending on structure the [Director-Group]({{< ref "structure#director-group" >}})), a recommended next step following the Performance/Growth Potential assessment is to do succession planning.
+Succession planning is an important step in our Talent Assessment process. Completing the [Performance/Growth Potential Assessment]({{< ref "/handbook/people-group/talent-assessment" >}}) gives leaders a fresh overview of the top performers and the highest growth team members in their respective organizations. Particularly for individuals in Senior Leadership roles and above (the [S-Group]({{< ref "structure#s-group" >}}) and depending on structure the [Director-Group]({{< ref "structure#director-group" >}})), a recommended next step following the Performance/Growth Potential assessment is to do succession planning.
 
 Succession planning ensures we are identifying and developing future GitLab leaders to ensure business continuity in the event of an unforeseen change, and providing the current leadership team the opportunity to grow and scale. It may provide an opportunity to diversify our leadership team by developing our internal bench of talent. Note, potential alone does not determine who will be a successor. Strong succession candidates should demonstrate sustained exceeding performance and growth, aspire to have a role at the next level, and be ready for a much larger role in the near term.
 
