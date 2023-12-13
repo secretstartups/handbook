@@ -17,17 +17,13 @@ This SheerID form contains the following fields:
 - First Name
 - Last Name
 - Email Address
-- Country (drop down list)*
+- Country (drop down list)[^1]
 - Open Source Organization or Project Name
 - Project Description
 - Publicly Visible Project on GitLab
 - OSI Approved License
 - Not Seeking Profile (checkbox)
 - Marketing email opt-in (checkbox)
-
-The GitLab for Open Source Program cannnot accept applications US embargoed countries.
-SheerID is not able to separate out the two different regions in Ukraine, so we have asked them to remove Ukraine entirely from the list of countries.
-Applicants from Ukraine will need to contact the team directly at `opensource@gitlab.com`, and team members determine whether they qualify based on their region of origin.
 
 The SheerID form also includes the following statement, added with help from GitLab's legal team:
 
@@ -67,7 +63,7 @@ Use SheerID to review these documents via the [SheerID Review Portal](https://my
  1. _Verify license type:_ Make sure that an OSI approved license is being used by checking the screenshot against this [OSI license list](https://opensource.org/licenses/alphabetical). If you find a match, check the box on the right about license type.
  1. _Verify public settings:_ make sure there is a screenshot showing that the project is publicly visible. If it is, click on the checkbox saying you've verified this.
  1. Visit the applying namespace on GitLab to verify that all remaining projects in the namespace meet program requirements.
- 1. If all requested screenshots are present ([see instructions for screenshots here](https://docs.gitlab.com/ee/subscriptions/#gitlab-for-open-source)), `Approve` the application. Click `Hold` if you need more time to decide, or `Reject` if they do not meet the criteria.
+ 1. If all requested screenshots are present, `Approve` the application. Click `Hold` if you need more time to decide, or `Reject` if they do not meet the criteria.
 
 Reviewers should be sure to check different views in the "Review Documents" section.
 A drop-down field takes reveals applications "On Hold" and "Escalated."
@@ -86,3 +82,7 @@ Any individual can apply through the form and attempt verification up to five ti
 This limit provides room for error and allows a single individual to apply for licenses on behalf of multiple open source projects.
 This limit is determined by GitLab and set by SheerID.
 It can be changed at any time.
+
+[^1] The GitLab for Open Source Program cannnot accept applications US embargoed countries.
+SheerID is not able to separate out the two different regions in Ukraine, so we have asked them to remove Ukraine entirely from the list of countries.
+Applicants from Ukraine will need to contact the team directly at `opensource@gitlab.com`, and team members determine whether they qualify based on their region of origin.
