@@ -25,7 +25,7 @@ This standard applies to all GitLab team-members, contractors, advisors, and con
 
 ## Overview
 
-As an all remote company, physical protection of information assets can be broken out into a defined "security zones". Security zones are defined as requirements for the handling of information assets in their physical location.
+As an all remote company, physical protection of information assets can be broken out into a defined "security zone". Security zones are defined as requirements for the handling of information assets in their physical location.
 
 GitLab has two distinct security zones:
 
@@ -34,12 +34,13 @@ GitLab has two distinct security zones:
 - Hosted and physically secured by third party service provider(s)
 - [Shared responsibility model](https://handbook.gitlab.com/handbook/security/isms/#assets)
 - Adherance to physical security requrements reviewed annually as part of the Third Party Risk Management (TPRM) review and Complementary User Entity Contro (CUEC) review. This includes confirmation that independent third parties attest to effective physical security procedures including but not limited to:
+    
     - Visitor Management
     - Premises Protection
     - Environmental Securities
     - Access Management
 
-1. Physical Devices and Location
+2. Physical Devices and Location
 
 - Laptops are protected through [Endpoint Management Procedures](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/) and secured through system configurations defined in the [IT Security - System Configurations handbook page](https://handbook.gitlab.com/handbook/business-technology/it/security/system-configuration/#clean-deskclear-screen) which include, but are not limited to:
 
@@ -48,9 +49,10 @@ GitLab has two distinct security zones:
    - Encryption
    - Endpoint detection and response
 
+
 - Utilize trusted networks when available. If you are connecting from an untrusted network such as a public Wi-Fi, guest networks, or unsecured hotspots, you should use a [personal VPN](https://handbook.gitlab.com/handbook/tools-and-tips/personal-vpn/). GitLab has selected [NordLayer](https://handbook.gitlab.com/handbook/it/guides/nordlayer/) as the preferred provider.
 
-- Keep [Clear Desk/Clear Screen](https://handbook.gitlab.com/handbook/business-technology/it/security/system-configuration/#clean-deskclear-screen) requirements.
+- Implement [Clear Desk/Clear Screen](https://handbook.gitlab.com/handbook/business-technology/it/security/system-configuration/#clean-deskclear-screen) requirements.
 
 - Ensure devices are not left unattended in public areas and are locked when not in use. [Activate a screensaver with password lock, lock the desktop, close the lid](https://handbook.gitlab.com/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration).
 
@@ -60,7 +62,7 @@ GitLab has two distinct security zones:
 
 - Printing documents containing sensitive information as defined by the [Data Classification Standard](https://handbook.gitlab.com/handbook/security/data-classification-standard/) is prohibited.
 
-- [Secure your data during travel](https://handbook.gitlab.com/handbook/travel/#secure-your-data-during-travels) including utilizing a VPN, ensure that you are in a secure place and no-one can hear you when you are talking about restricted data, and locking your device when it is not in use.
+- [Secure your data during travel](https://handbook.gitlab.com/handbook/travel/#secure-your-data-during-travels) including utilizing a VPN, ensuring that you are in a secure place and no-one can hear you when you are talking about restricted data, and locking your device when it is not in use.
 
 - Do not bring company-owned devices to [embargoed countries](https://handbook.gitlab.com/handbook/sales/#export-control-classification-and-countries-we-do-not-do-business-in) without consulting the Legal Department.
 
