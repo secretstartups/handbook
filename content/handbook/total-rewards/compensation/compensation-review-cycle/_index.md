@@ -49,3 +49,5 @@ Eligible team members for Annual Compensation Review have a hire date on or befo
 - September 5th for an equity refresh. Team members are eligible for a refresh grant if they have been at the company for six months ahead of the grant date cutoff. The grant date is slated to be around mid-March and the cutoff is March 5th.
 
 Team members hired after October 31st will be reviewed to ensure their cash compensation does not fall below the minimum of the updated compensation range. Team members may be below the compensation range due to updates to the range for the upcoming year that would include changes to benchmark, location factor, and/or exchange rate, if applicable. If this does occur, the team member will be adjusted to the minimum of the range during the Annual Compensation Review cycle.
+
+Team members on leave will be eligible to receive the annual compensation and/or promotion increase during the GitLab-paid portion of their leave.  If a team member is not recieving pay from GitLab, then they'll be eligible to receive the increase when they return to work.
