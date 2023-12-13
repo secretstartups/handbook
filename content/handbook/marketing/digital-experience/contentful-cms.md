@@ -67,6 +67,14 @@ The process for creating new content in Contentful is varied.
 <!-- blank line -->
 
 
+### Scheduling
+
+1. Look for the "Set Schedule" button in the dropdown next to the Publish button to schedule a release of content.
+2. In the "Set Schedule" modal, confirm a date and time and click "Set Schedule".
+3. On the right hand side of the entry you can view and manage all scheduled actions. This allows you to see what is scheduled to be published, and you can also cancel or modify scheduled actions if plans change.
+4. When the entry is published our automation is triggered and a production build starts. We recommend leaving a 10-15 minute buffer before your desired release time for the production build to run.
+   - **Example:** There is a need to release a blog post at 9:00am EST, by setting the scheduled date and time to 8:45am EST we can expect the changes to be live on production around 9:00am EST.
+
 ### Roles and Permissions
 - *Administrator*: has full access to everything in the space.
 - *CMS Administrator*: can create, read, update, publish, and delete all content aside from `Confidential` entries. Can modify space settings, access existing API keys, and can create and update API keys.
