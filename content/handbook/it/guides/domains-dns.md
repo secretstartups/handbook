@@ -25,7 +25,7 @@ See [Transferring Domain Names](#transferring-domain-names) to learn more about 
 
 See the `tfvars.json` files in [config-mgmt](https://gitlab.com/gitlab-com/gl-infra/config-mgmt/-/tree/master/environments/dns) for a list of all current DNS records that are configured for our trademark domain names.
 
-Our less popular and underutilized domain names are manually managed in the `dns-zones-4a589e31` AWS account or  `dns-zones-a1ce7e00` GCP project. These records can be updated by anyone who has access. If you do not have access, send a Slack DM to Jeff Martin to request the change.
+Our less popular and underutilized domain names are manually managed in the `dns-zones-4a589e31` AWS account or  `dns-zones-a1ce7e00` GCP project. These records can be updated by anyone who has access. If you do not have access, ask in `#security-identity-ops` to request the change.
 
 #### Updating DNS records and subdomains for gitlab.com
 
