@@ -2,6 +2,7 @@
 title: Director of Compliance
 description: The Director of Compliance is responsible for providing counsel and guidance related to the design, implementation and monitoring of policies and procedures to ensure GitLab’s compliance with applicable laws and regulations.
 ---
+
 ## Director of Compliance
 
 The Director of Compliance reports to the [Senior Director of Legal, Corporate](/job-families/legal-and-corporate-affairs/director-legal-us/#senior-director-legal).
