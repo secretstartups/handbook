@@ -14,13 +14,13 @@ Focusing on the database, our mission is to provide solutions that allow us to s
 
 The following people are permanent members of the Database Team:
 
-{{< team-by-department "Database BE Team" >}}
+{{< team-by-departments "Database BE Team" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-{{< stable-counterparts "alexives" "[,&] Database|Application Performance and Database" >}}
+{{< stable-counterparts manager="alexives" role="Cloud Connector and Database" >}}
 
 ### Stable Counterparts to other teams
 

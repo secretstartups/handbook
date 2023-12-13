@@ -3,12 +3,7 @@
 {{- $teamDict := partials.IncludeCached "team/by-slug" . -}}
 {{- $data := index $teamDict $slug -}}
 {{- with $data }}
-  {{- with path.BaseName $data.picture }}
-    {{- if ne . "gitlab-logo-extra-whitespace" }}
-      {{- $img = printf "https://about.gitlab.com/images/team/%s-crop.jpg" . -}}
-    {{- end }}
-  {{- end }}
-<span  style="white-space: nowrap;"><a href="{{ ref page (printf "/handbook/company/team#%s" $data.slug) }}"><img class="avatar" src="{{ $img }}" width="40" height="40" alt="{{ $data.name }}">{{$data.name}}</a></span>
+<span  style="white-space: nowrap;">{{- partial "member" . -}}</span>
 {{- else -}}
 <span class="not-found" style="white-space: nowrap;"><img class="avatar" src="https://about.gitlab.com/images/gitlab-logo-extra-whitespace.png" width="40" height="40" alt="{{ $slug }}" class="my-2">{{ $slug }}</span>
 {{- end -}}
