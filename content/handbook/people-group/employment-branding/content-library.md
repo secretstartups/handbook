@@ -134,13 +134,11 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 | [A Conversation with Monmayuri Ray, Engineering Manager, ModelOps at GitLab](https://vimeo.com/745189253) | Engineering |
 | [A Conversation with Nick Nguyen, Sr. Engineering Mgr., Enablement at GitLab](https://vimeo.com/745463953) | Engineering |
 | [GitLab's Engineering Team: An Inside Look](https://www.youtube.com/watch?v=bnq8-iJeUMI) | Engineering |
-
 | [Ishita's Life at GitLab](https://vimeo.com/677814891) | Team Member Spotlight |
 | [Kyla's Life at GitLab](https://vimeo.com/677779723) | Team Member Spotlight |
 | [Bruno's Life at GitLab](https://vimeo.com/677785451) | Team Member Spotlight |
 | [Michael's Life at GitLab](https://vimeo.com/677818344) | Team Member Spotlight |
 | [Liam's Life at GitLab](https://vimeo.com/677812885) | Team Member Spotlight |
-
 | [GitLab's core values](https://youtu.be/_8DFFHYAtj8) | General |
 | [What is GitLab?](https://www.youtube.com/watch?v=tmEv_XgwR6Y) | General |
 | [Black is Tech](https://vimeo.com/746975612) | DIB |
