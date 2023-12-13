@@ -4,17 +4,6 @@ title: "P&L Allocation"
 description: "P&L allocation documentation"
 ---
 
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .toc-list-icons .hidden-md .hidden-lg}
-
-{::options parse_block_html="true" /}
-
-----
-
 ## Cloud FinOps at GitLab
 
 ### Overview of the data pipeline
