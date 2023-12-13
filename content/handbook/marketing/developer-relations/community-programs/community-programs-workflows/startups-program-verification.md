@@ -27,7 +27,7 @@ We use a Marketo form with the following fields:
 - City
 - Postal Code
 - Country (drop down)
-- What YC Batch did you participate in?
+- Please provide a crunchbase, pitchbook, or y-combinator profile. alternatively, upon contact, we will ask you to provide financial statements or any other reasonable substantiation to display your current funding status.
 - Choose your GitLab product
 - How many seats are you requesting
 - Do you want to purchase support (checkbox)
