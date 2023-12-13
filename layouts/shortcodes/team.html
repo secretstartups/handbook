@@ -4,19 +4,21 @@
   {{ $allDepartments = uniq (append .departments $allDepartments) }}
 {{- end }}
 
-<div class="mb-3 g-2 row">
-<div class="col-auto">
-<label for="department" class="h3 form-label">Filter by Department:</label>
+<div class="my-6 g-2 row">
+  <div class="col-auto">
+  <label for="department" class="h4 form-label">Filter by Department:</label>
+  </div>
+  <div class="col-auto">
+  <select class="form-select" id="department">
+      <option value="all" selected>All Departments</option>
+      {{- range (sort $allDepartments) }}
+        <option value="{{ . }}">{{ . }}</option>
+      {{- end }}
+    </select>
+  </div>
 </div>
-<div class="col-auto">
-<select class="form-select" id="department">
-    <option value="all" selected>All Departments</option>
-    {{- range (sort $allDepartments) }}
-      <option value="{{ . }}">{{ . }}</option>
-    {{- end }}
-  </select>
-</div>
-</div>
+
+<p>&nbsp;</p>
 
 <div class="container">
   <div class="row row-cols-4">
@@ -26,7 +28,7 @@
     {{ $suf := printf ".%s" (index (last 1 (strings.Split .picture ".")) 0) }}
     {{ $picture = printf "https://about.gitlab.com/images/team/%s-crop.jpg" (strings.TrimSuffix $suf .picture) }}
   {{ end }}
-  
+
   <div class="col col-6 col-md-4 col-lg-3 text-center member" id="{{.gitlab | anchorize }}" data-departments="{{ .departments | jsonify }}">
       <a href="#" data-bs-toggle="modal" data-bs-target="#{{.slug | anchorize}}-modal" >
           <img src="{{$picture}}" alt="{{.name}}" class="member-img" width="120" height="120" loading="lazy">
@@ -85,7 +87,7 @@
                     {{- end }}
                   </div>
                   </div>
-                  
+
               <div class="row">
                   <div class="col">
               {{ with .projects }}
