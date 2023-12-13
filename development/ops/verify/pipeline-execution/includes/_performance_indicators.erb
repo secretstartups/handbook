@@ -1,0 +1,25 @@
+We measure the value we contribute by using Performance Indicators (PI), which we define and use to track progress. 
+The current [PI for the Pipeline Execution group](/handbook/product/performance-indicators/#verify-ci-verify-runner-count-of-pipelines-triggered-by-unique-users) is the `number of unique users who trigger ci_pipelines`. For more details, please check out the [Product Team Performance Indicators](/handbook/product/performance-indicators/#regular-performance-indicators). To view the latest Verify stage ci_pipeline data see our [Sisense Dashboard](https://app.periscopedata.com/app/gitlab/538594/Verify-Stage-Dashboard).
+
+### Usage Funnel
+
+Based on the AARRR framework (Acquisition, Activation, Retention, Revenue, Referral), this funnel represents the customer journey in using GitLab CI.  Each state in the funnel is defined with a metric to measure behavior. Product managers can focus on any of the various states in the funnel to prioritize features that drive a desired action.
+
+```mermaid
+classDiagram
+  Acquistion --|> Activation
+    Acquistion: Awareness - Are users aware of CI pipelines?
+    Acquistion: Measurement (Total count of users in GitLab Projects with access to `git write` or "SCM Users")
+  Activation --|> Retention
+    Activation: Use - Are users creating CI configurations/pipelines?
+    Activation: Measurement (Total count of projects with .gitlab-ci.yml files)
+  Retention --|> Revenue
+    Retention: Continued use - Are users triggering CI pipelines?
+    Retention: Measurement (Total count of projects with a .gitlab-ci.yml file and CI pipeline triggered)
+  Revenue --|> Referral
+    Revenue: Monetary value - Are users paying for the CI features?
+    Revenue: Measurement (Total count of projects using paid CI features)
+  Referral --|> Acquistion
+    Referral: Endorsement - Are user encouraging others to use GitLab CI?
+    Referral: Measurement (Total count of Pipelines page views from social media))
+```

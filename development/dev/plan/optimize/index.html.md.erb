@@ -1,0 +1,144 @@
+---
+layout: handbook-page-toc
+title: "Optimize Group"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+### Plan:Optimize
+{: #welcome}
+
+### [Optimize FY24 direction and goals](https://gitlab.com/groups/gitlab-org/-/epics/9882#fy24-goals)
+
+### How we work
+
+* In accordance with our [GitLab values](/handbook/values/).
+* Transparently: nearly everything is public, we record/livestream meetings whenever possible.
+* We get a chance to work on the things we want to work on.
+* Everyone can contribute; no silos.
+  * The goal is to have product give engineering and design the opportunity to be involved with direction and issue definition from the very beginning.
+* We do an optional, asynchronous daily stand-up in our stage stand-up channel:
+  * Plan:Optimize [#s_plan_standup](https://gitlab.slack.com/archives/CF6QWHRUJ)
+
+#### Prioritization
+<%= partial "handbook/engineering/development/dev/plan/optimize/partials/prioritization.erb", locals: { filter_value: 'optimize' } %>
+
+As a general guideline, we try to plan each release in this way:
+- **Bugs**: 25%
+- **Features**: 50%
+- **Maintenance**: 25%
+
+These targets will be [reviewed monthly](/handbook/product/product-processes/) after each release during the [retrospective](https://gitlab.com/gl-retrospectives/manage-stage/optimize/-/issues).
+
+#### Organizing the work
+
+<%= partial("handbook/engineering/development/dev/plan/optimize/partials/organizing_work.erb") %>
+
+#### Estimation
+
+<%= partial("handbook/engineering/development/dev/plan/optimize/partials/estimation.erb") %>
+
+#### Planning
+
+We plan in monthly cycles in accordance with our [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline). Meeting this timeline is up to the discretion of individual groups. A typical Optimize planning cycle looks like:
+
+* By the 4th, Product should have created a planning issue for their group in the [Manage project](https://gitlab.com/gitlab-org/manage/issues) for the coming release.
+  * This issue should include a tentative plan for the release, along with links to boards that represent the proposed work for the milestone.
+  * A board filtered by the `Next 1 - 3 releases` milestone is used to caputure upcoming issues.
+  * Issues of particular significance to our stage's strategy should be marked with `direction`.
+* By the 12th, all issues proposed for the next release should be estimated with weights assigned by engineering (`workflow:ready for development`).
+  * To assist with capacity planning, we start with a capacity of 10 weight per engineer and deduct based on time off, team days, on-call schedules, or other activities. The EM captures the execpted capacity in the planning issue.
+  * Issues that we know will slip from the previous release should be reweighted for the remaining effort left and rescheduled to the next release.
+* By the 15th, Product and Engineering will have ordered the list of issues in the `Next 1 - 3 releases` board.
+  * Depending on availibility, either Product or Engineering will take capacity into consdieration and assign the top issues in each [type category](/handbook/engineering/development/dev/plan/optimize/#merged-merge-request-types) to the next release.
+  * The engineering manager will assign the ~Deliverable label to any committed work.
+  * The entire planning process is asynchronous, however a synchronous meeting to review the final release scope is optional if Product and Engineering require additional collaboration.
+
+##### Deliverable and Stretch issues
+
+<%= partial("handbook/engineering/development/dev/plan/optimize/partials/deliverables.erb") %>
+
+##### Community contributions
+
+Issues that have previously been agreed upon and labelled as `Community contribution` should be [triaged](/handbook/engineering/quality/issue-triage/) to ensure they have:
+- A clear [implementation plan](/handbook/engineering/development/dev/create/ide/community-contributions/#treat-wider-community-as-primary-audience).
+- A relevant weight estimate.
+- The `Seeking community contributors` label assigned.
+
+Once triaged the issue can be added to the `backlog` and left unassigned. Assigning an issue signals that the assignee is actively working on the issue, given the time constraints and varying levels of familiarity with the code base community members may have, it's best to assign the issue once an MR is progress.
+
+If there is a clear need for the issue to be handled sooner, consider scheduling the issue for a milestone with the appropriate priority label assigned so that an optimize team member can plan for it.
+
+If a community member expresses interest in taking on an issue, a relevant Optimize team member should ensure the issue description and implementation plan are accurate and reflect the latest decisions and all labels are up to date, as well as monitor progress in case the contributor requires additional assistance or has not been able to continue.
+
+##### Self assignment
+
+<%= partial("handbook/engineering/development/dev/plan/optimize/partials/self_assignment.erb") %>
+
+#### During a release
+
+<%= partial("handbook/engineering/development/dev/plan/optimize/partials/release.erb") %>
+
+#### Release posts
+
+<%= partial("handbook/engineering/development/dev/plan/optimize/partials/release_posts.erb") %>
+
+#### Proof-of-concept MRs
+
+<%= partial("handbook/engineering/development/dev/plan/optimize/partials/pocs.erb") %>
+
+#### Issue triage
+
+<%= partial("handbook/engineering/development/dev/plan/optimize/partials/triage.erb") %>
+
+### Working on unscheduled issues
+
+<%= partial("handbook/engineering/development/dev/plan/optimize/partials/unscheduled_issues.erb") %>
+
+### Additional considerations
+
+<%= partial("handbook/engineering/development/dev/plan/optimize/partials/optimize_processes.erb") %>
+
+## Meetings
+
+Although we have a bias for asynchronous communication, synchronous meetings are necessary and should adhere to our [communication guidelines](/handbook/communication/#video-calls). Some regular meetings that take place in Manage are:
+
+| Frequency | Meeting                              | DRI         | Possible topics                                                                                        |
+|-----------|--------------------------------------|-------------|--------------------------------------------------------------------------------------------------------|
+| Weekly    | Group-level meeting                  | Engineering Managers | Ensure current release is on track by walking the board, unblock specific issues                       |
+| Monthly   | Planning meetings                    | Product Managers         | See [Planning](/handbook/engineering/development/dev/plan/#planning) section |
+
+For one-off, topic specific meetings, please always consider recording these calls and sharing them (or taking notes in a [publicly available document](https://docs.google.com/document/d/1kE8udlwjAiMjZW4p1yARUPNmBgHYReK4Ks5xOJW6Tdw/edit)).
+
+Agenda documents and recordings can be placed in the [shared Google drive](https://drive.google.com/drive/u/0/folders/0ALpc3GhrDkKwUk9PVA) (internal only) as a single source of truth.
+
+Meetings that are not 1:1s or covering confidential topics should be added to the Manage Shared calendar.
+
+All meetings should have an agenda prepared at least 12 hours in advance. If this is not the case, you are not obligated to attend the meeting. Consider meetings canceled if they do not have an agenda by the start time of the meeting.
+
+
+## Group Members
+
+The following people are permanent members of the group: 
+
+<%= stable_counterparts(role_regexp: /Plan.+Optimize/) %>
+
+## Dashboards 
+
+- [Feature usage](https://app.periscopedata.com/app/gitlab/779829/Manage:Optimize-Feature-Usage)
+
+
+## Links and resources
+{: #links}
+
+* [Milestone retrospectives](https://gitlab.com/gl-retrospectives/manage-stage/optimize/-/issues)
+* Our Slack channels
+  * Plan:Optimize [#g_plan_optimize](https://gitlab.slack.com/messages/CJZR6KPB4)
+  * Daily standups [#s_plan_standup](https://gitlab.slack.com/archives/CF6QWHRUJ)
+* Issue boards
+  * Optimize [build board](https://gitlab.com/groups/gitlab-org/-/boards/1401511) and [refinement board](https://gitlab.com/groups/gitlab-org/-/boards/1874426)ֿ
+* For more information about the optimize group's plans and vision visit the [Groups page](https://about.gitlab.com/handbook/product/categories/#optimize-group)

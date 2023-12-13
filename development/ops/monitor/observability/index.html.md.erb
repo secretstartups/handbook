@@ -1,0 +1,258 @@
+---
+layout: handbook-page-toc
+title: "Monitor:Observability Group"
+description: "The Observability group is responsible for the Observability of the DevOps lifecycle."
+---
+
+## On this page
+
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+
+## Monitor:Observability
+
+The **Monitor:Observability** group at GitLab is responsible for building tools that enable DevOps teams to respond to, triage and remediate errors and IT alerts for the systems and applications they maintain.
+
+### Monitor Stage
+
+#### What is a stage?
+
+Stages align with the eight loop [stages](https://about.gitlab.com/handbook/product/categories/#hierarchy) of Plan, Create, Verify, Secure, Package, Release, Configure, and Monitor. These stages are based on [Gartner's original research](https://drive.google.com/file/d/171L2SiUEQJdJqUGumaXgYSSNNN6NQxQp/view) on how organizations can sequentially build a successful DevOps process by mapping business priorities to DevOps activities. A stage doesn't necessarily align with products in the market.
+
+#### What is the Monitor stage?
+
+The Gartner definition of Monitor stage comprises:
+
+- Application Performance Monitoring
+- Assess Metrics
+- End-user experience
+- IT Infrastructure
+- Network
+- Application performance and availability
+- Observability
+
+This list of business priorities maps together as a group of activities you typically think about together in DevOps. At GitLab, we have added some adjacent business priorities we want to solve for our users in Incident Management, ITSM (IT Service Management), and service desk.
+
+#### How does a general person or GitLab user understand "Monitor"?
+
+_Monitor_ is generally understood to mean _application performance monitoring_ or _infrastructure monitoring_. This is because these functions are offered by some of the most widely used software development tools, such as Prometheus, Datadog, and New Relic. However, Monitor sometimes also encompasses incident management. Strictly speaking, incident management is not about _monitoring_ application performance, but what you do when something goes wrong. These are related, but different, areas.
+
+Given the close relationship between these two areas, people can quickly and intuitively find _incident management_ under Monitor within the GitLab UI. Furthermore, many monitoring tools are also branching into incident management as a logical expansion, so the lines are becoming blurry.
+
+#### How does Observability fit in?
+
+Observability is an old term originating from [control theory](https://en.wikipedia.org/wiki/Control_theory). The term became popular because traditionally, monitoring is about defining metrics in advance, then hoping you've defined good metrics that can indicate when your system is encountering or about to encounter problems.
+
+This approach is insufficient in modern computing, as today's applications are often built on ephemeral and elastic infrastructure. With microservices, the interesting information often lies in the _connection between_ the services, rather than within the services themselves.
+
+We no longer operate in a space where we can confidently predict what might go wrong. Observability is all about operating on the assumption that although we know _some_ things, we need a tool to help us understand exactly what's happening in those murkier areas, a tool that immediately alerts us to anomalies, errors, and downtime.
+
+Observability extends monitoring by providing visibility into the entire software system, not just the individual services or functions. To achieve this perspective, observability relies on three types of telemetry data:
+
+- logs (event records)
+- metrics (performance data measured over time)
+- traces (information about the flow of data throughout the system)
+
+### The product we are building
+
+We want to build an observability product, a tool that's a fit for the modern developer building modern applications. Monitoring is good, but ultimately insufficient.
+
+## Team Organization
+
+### Async Standups
+
+We have Geekbot standups on Weds and retrospectives on Fridays. We use these async standups to communicate what we have accomplished, any current blockers and what we plan to work on next.
+
+## Async Updates
+
+Every Friday, the EM provides an async update of the team's progress, following the [Ops sub-department async updates](https://about.gitlab.com/handbook/engineering/development/ops/#async-updates-no-status-in-meetings) process.
+
+These updates are published as [issues in the `general` project](https://gitlab.com/gitlab-org/opstrace/general/-/issues/?sort=created_date&state=all&label_name%5B%5D=OpsSection%3A%3AWeekly-Update&first_page_size=100).
+
+Updates and highlights from all teams in Ops are collected automatically [here](https://gitlab.com/gitlab-com/ops-sub-department/ops-status-updates/-/issues/?sort=created_date&state=opened&first_page_size=20), grouped by week / month / quarter.
+
+### Meetings
+
+- Weekly Meetings: These are focused on organizing ongoing work or specific efforts such as rollout-outs or bigger initiatives.
+
+- Bi-weekly Cross-functional meeting: This weekly meeting is focused on aligning the EM, PM, Principal Engineer, Developer Advocate, and UX on cross-functional objectives. Goals are set and weekly status is communicated.
+
+- Bi-monthly social hour: This meeting is non-work related and helps team socialize and get to know each other better.
+
+- Team member coffee chats: Each team member should schedule a coffee chat with all other team members rough every 4-6 weeks. Feel free to discuss work or non-work topics. If timezones are an issue find another way to connect, such as a async slack thread to checkin. The goal is to get to know your other team members on a 1:1 basis.
+
+- Dev Syncs: These are developer-organized sync meetings where ICs can meet and discuss technical issues or organize technical work amongst themselves without requiring the presence of a EM.
+
+### Communication
+
+We use several Slack channels to organize ourselves:
+
+- Primary channel: [#g_observability](https://gitlab.slack.com/archives/C02Q93U8J07)
+- Standup channel: [#g_observability_standup](https://gitlab.slack.com/archives/C02VAHG10HW)
+- Social channel: [#g_observability_random](https://gitlab.slack.com/archives/C02QLQUB0JZ)
+
+### How we do Planning
+
+Currently, during our initial phase, we are using a 2 month milestone cadence.
+All work is organized into Epics, sub-epics, and assigned to the relevant Milestone.
+
+#### Our process
+
+- Two weeks before the beginning of the Milestone, the EM and PM meet to groom Epics, Issues, and Milestones.
+- All Planning work can be seen on the [Planning Board](https://gitlab.com/groups/gitlab-org/opstrace/-/boards/3657448)
+- Milestone goals are defined and objectives are broken up into relevant Epics, sub-epics, and issues.
+- Sometimes DRIs and supporters are assigned to epics to clarify responsibilities and ownership.
+- Throughout the Milestone we analyze progress and reprioritize as needed.
+
+### How to find something to work on
+
+Normally at the beginning of the Milestone the EM will discuss an overview of the work and what relevant areas you will focus on. Sometimes issues will already be assigned to you before the Milestone begins.
+
+If you are ever looking for additional issues to work on:
+
+1. Look at the [Development board](https://gitlab.com/groups/gitlab-org/opstrace/-/boards/4463190)
+1. Identify an issue in the Ready for Development or Open columns that are unassigned.
+1. Assign yourself to the issue.
+1. Add a `workflow:in dev` label to the issue
+1. If the scope or description are unclear, connect with the EM and or PM for clarification or (if feeling confident) groom the issue yourself and proceed.
+1. Begin working on the issue.
+1. Once you are done with the issue, make sure any relevant MRs are linked and close the issue.
+1. Repeat.
+
+### Clean Room Development Process
+
+For some projects, we require a [cleanroom development process](https://en.wikipedia.org/wiki/Cleanroom_software_engineering). Our process is [described here](https://docs.google.com/document/d/1anexib2NBC57Kpv1GTkxFrozuEs4s9c8_MWkOE8GAnc/edit).
+
+## Team members
+
+<%= direct_team(manager_role: 'Engineering Manager, Monitor:Observability') %>
+
+## Stable counterparts
+
+<%= stable_counterparts(role_regexp: /(?<!:)Monitor(?!:Respond)/, direct_manager_role: 'Engineering Manager, Monitor:Observability') %>
+
+## Observability Demos 
+
+To showcase features developed by our team, we have created a number of demos:
+
+- [Embedding charts in GitLab Markdown](https://www.youtube.com/watch?v=MDMXIQgKkCk)
+- [Exploring GitLab “new-sentry” errors in Gitlab UI](https://youtu.be/rpSYXyEyi88)
+- [Observability - Exploring Prometheus Metrics within GitLab](https://www.youtube.com/watch?v=QUf_7zpRoqs)
+- [Enabling Error Tracking and tracing on Hotrod sample app](https://www.youtube.com/watch?v=E1GsxbX0mr4)
+- [Gitlab Observability Component: Ingesting traces from a demo application](https://www.youtube.com/watch?v=NChcmkc5QWQ)
+
+
+## Technical Architecture
+
+The Observability team is involved in the introduction of several new technologies and technical components to GitLab's tech stack. 
+
+The [GitLab Monitor Stage Product Direction Handbook Page](/direction/monitor/#gitlab--opstrace--on-by-default-observability) has information about the product strategy for integrating GitLab and Opstrace.
+
+We also encourage you to read our [architecture documentation](https://gitlab.com/gitlab-org/opstrace/opstrace/-/tree/main/docs/architecture).
+
+### ClickHouse Datastore
+
+Observability and analytics features have big data and insert heavy requirements which are not a good fit for Postgres or Redis.  [ClickHouse](https://github.com/ClickHouse/ClickHouse) was selected as a good fit to meet these features requirements.  ClickHouse is an open-source column-oriented database management system. It is attractive for these use cases because it can efficiently filter, aggregate, and sum across large numbers of rows. ClickHouse is not intended to replace Postgres or Redis in GitLab's stack.
+
+ClickHouse is the backend datastore for these features:
+* [Tracing](https://gitlab.com/gitlab-org/opstrace/opstrace/-/blob/main/docs/architecture/tracing.md)
+* [Error Tracking](https://gitlab.com/gitlab-org/opstrace/opstrace/-/blob/main/docs/architecture/error-tracking.md)
+
+ClickHouse is planned as the data backend for:
+* [Metrics](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/103747) 
+
+#### How are we currently using ClickHouse?
+
+* Our Integrated Error Tracking feature stores all errors in a [ClickHouse database deployed on GKE](https://gitlab.com/gitlab-org/opstrace/opstrace/-/blob/main/docs/architecture/error-tracking.md). This feature is in Beta.
+* Our [Tracing feature store traces in the same ClickHouse database](https://gitlab.com/gitlab-org/opstrace/opstrace/-/blob/main/docs/architecture/tracing.md). We maintain a [fork of the jaeger-clickhouse plugin](https://gitlab.com/gitlab-org/opstrace/jaeger-clickhouse) to achieve this. This feature is being dogfooded internally.
+* ClickHouse will be the core data storage solution for [our new Metrics feature](https://gitlab.com/gitlab-org/opstrace/opstrace/-/issues/1771). Once the [architectural blueprint](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/103747) is approved, we will begin working on this feature in the subsequent milestones.
+* We also developed our [own ClickHouse Operator](https://gitlab.com/gitlab-org/opstrace/opstrace/-/tree/main/clickhouse-operator#clickhouse-operator).
+
+#### Current Challenges with ClickHouse
+
+* For our use cases we need to leverage the [S3 backed Disk](https://clickhouse.com/docs/en/guides/sre/configuring-s3-for-clickhouse-use) for high scalability. Long term we have identified this as a must. Storage in S3 is currently only available on AWS. Though it was scheduled to be available within GCP several months ago by ClickHouse Inc, the timelines have now changed significantly which requires us to migrate to AWS. 
+* ClickHouse requires a large amount of memory to run. The recommendation is a minimum of 16-32Gb for a small development instance and 64Gb-128Gb for a production instance. This leads to interesting questions about our goal for a self-hosted Observability solution. 
+  * [https://clickhouse.com/docs/en/operations/tips/#ram](https://clickhouse.com/docs/en/operations/tips/#ram)
+  * [https://kb.altinity.com/altinity-kb-setup-and-maintenance/cluster-production-configuration-guide/hardware-requirements/#clickhouse](https://kb.altinity.com/altinity-kb-setup-and-maintenance/cluster-production-configuration-guide/hardware-requirements/#clickhouse)
+* ClickHouse requires a highly efficient, scalable and robust ingestion process, to handle high volumes of inserts, as a result we are [proposing to refactor our ingestion process](https://gitlab.com/gitlab-org/opstrace/opstrace/-/issues/1878) which may add complexity to the system.
+
+#### How do we work currently with ClickHouse Inc?
+* We have an annual support contract with ClickHouse Inc.
+* There is a dedicated slack channel where we collaborate with them (`#clickhouse-gitlab-external431`)
+* We also meet with them monthly (third Wed of the month)
+* Primarily we get support and feedback around: schema design, scalability/configuration recommendations, and new ClickHouse features we can leverage.
+* For support requests we utilize their support ticketing system:
+  * New support cases are created on [https://clickhouse.cloud/support](https://clickhouse.cloud/support) (requires login to the system)
+  * All support is handled via this support issue tracking
+
+
+### ClickHouse Acceleration Borrow Request
+
+We organized and participated in a Borrow Request to help migrate Error Tracking to ClickHouse 
+
+The timeline for the Borrow Request was April 6 - July 22, 2022
+
+##### Goals
+
+- Company-wide interest in Clickhouse as a Analytical DB and Big data solution
+- Deliver a scalable Clickhouse Service that the whole company can leverage
+- Re-enable Error Tracking 
+
+Many of the Goals and reasoning is discussed in the [borrow request proposal](https://gitlab.com/gitlab-com/Product/-/issues/3897).
+
+##### Exit criteria
+
+"Clickhouse integrated as part of a standard Opstrace + GitLab .COM deployments with Error Tracking backed by Clickhouse enabled by default."
+
+##### Epics
+
+- [Clickhouse as Datastore for Error Tracking](https://gitlab.com/groups/gitlab-org/-/epics/7772)
+- [Develop and Rollout a ClickHouse Service](https://gitlab.com/groups/gitlab-org/opstrace/-/epics/27)
+
+##### Kickoff Meeting
+- [Recording](https://gitlab.zoom.us/rec/play/RRhg_7eBY8a-OGDMacTDvYlAWjObATY30HJNpPIW0CgMfUolLs4ofrUcw1HUcZN6dprWR7WSoQqjcLJP.OHmN5OXJKkLqYBC5?continueMode=true)
+- [Agenda](https://docs.google.com/document/d/1096378pYfsF1NRmZttjalrciQejk-Au50K01xfPGyO4/edit)
+
+
+## Weekly Project Plan for Tracing
+
+Epic: [https://gitlab.com/groups/gitlab-org/opstrace/-/epics/73](https://gitlab.com/groups/gitlab-org/opstrace/-/epics/73)
+
+
+**Week of 2023-10-23**
+
+- [Show all span attrs in details drawer](https://gitlab.com/gitlab-org/opstrace/opstrace/-/issues/2388)
+
+**Week of 2023-11-06**
+
+- [Add Tracing Documentation with Beta features](https://gitlab.com/gitlab-org/opstrace/opstrace/-/issues/2439)
+
+**Week of 2023-11-13**
+
+- [Sort traces by recency & duration](https://gitlab.com/gitlab-org/opstrace/opstrace/-/issues/2385)
+- [Show traces for search that matches root and child spans](https://gitlab.com/gitlab-org/opstrace/opstrace/-/issues/2381)
+
+**Week of 2023-11-20**
+
+- [ClickHouse Cloud Migration completed](https://gitlab.com/groups/gitlab-org/opstrace/-/epics/82)
+
+
+**Week of 2023-11-27**
+
+**Week of 2023-12-04**
+
+- [Accepted Production readiness review for Tracing](https://gitlab.com/gitlab-com/gl-infra/readiness/-/issues/91)
+
+
+
+## Dashboards
+
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Observability" } %>
+
+
+
+
+

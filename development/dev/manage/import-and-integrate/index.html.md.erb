@@ -1,0 +1,154 @@
+---
+layout: handbook-page-toc
+title: "Manage Import and Integrate Group"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## About
+
+The Import and Integrate group is a part of the [Manage Stage](https://about.gitlab.com/handbook/product/categories/#manage-stage).
+The group supports the product 
+* by migrating between GitLab instances and from other providers
+* with 3rd party integrations, REST APIs and GraphQL foundational code, and Webhooks.
+
+This page covers processes and information specific to the Import and Integrate group. See also the [group direction page](/direction/manage/import_and_integrate/) and the [features we support per category](/handbook/product/categories/features/#manageimport-and-integrate-group).
+
+## How to reach us
+
+To get in touch with the Import and Integrate group, it's best to create an
+issue in the relevant project (typically [GitLab](https://gitlab.com/gitlab-org/gitlab)) and add the
+`~"group::import and integrate"` label, along with any other appropriate labels. Then,
+feel free to ping the relevant Product Manager and/or Engineering Manager.
+
+For more urgent items, feel free to use the Slack Channel (internal): [#g_manage_import_and_integrate](https://gitlab.slack.com/archives/g_manage_import_and_integrate).
+
+## Team Members
+
+The following people are permanent members of the group:
+
+<%= shared_team_members(role_regexps: [/Manager,.+Import and Integrate/, /Designer,.+Import and Integrate/, /Engineer,.+Import and Integrate/]) %>
+
+## Metrics
+
+<%= partial("handbook/engineering/development/dev/manage/import-and-integrate/metrics.erb") %>
+
+## Work
+
+The Product Manager uses milestone priority labels and compiles the list of Deliverable and Stretch issues following
+the [product prioritization process](/handbook/product/product-processes/#prioritization),
+with input from the team, Engineering Managers, and other stakeholders.
+The iteration cycle lasts from the 18th of one month until the 17th of the next,
+and is identified by the GitLab version set to be released.
+
+### Issue Development Workflow
+
+In general, we use the standard GitLab [engineering workflow](/handbook/engineering/workflow/).
+
+The easiest way for Engineering Managers, Product Managers, and other stakeholders
+to get a high-level overview of the status of all issues in the current milestone,
+or all issues assigned to a specific person, is through the [Current milestone board](https://gitlab.com/groups/gitlab-org/-/boards/1459244?milestone_title=Upcoming&label_name%5B%5D=group%3A%3Aimport%20and%20integrate),
+which has columns for each of the workflow labels.
+
+As owners of the issues assigned to them, engineers are expected to keep the
+workflow labels on their issues up to date, either by manually assigning the new
+label, or by dragging the issue from one column on the board to the next.
+
+Once an engineer starts working an issue, they mark it with the `workflow::"in
+dev"` label as the starting point and continue [updating the issue throughout development](/handbook/engineering/workflow/#updating-issues-throughout-development).
+The process primarily follows the guideline:
+
+``` mermaid
+graph LR
+
+  classDef workflowLabel fill:#428BCA,color:#fff;
+
+  A(workflow::in dev):::workflowLabel
+  B(workflow::in review):::workflowLabel
+  C(workflow::verification):::workflowLabel
+  F(workflow::complete):::workflowLabel
+
+  A -- Push an MR --> B
+  B -- Merged --> C
+  C --> D{Works on production?}
+  D -- YES --> F
+  F --> CLOSE
+  D -- NO --> E[New MR]
+  E --> A
+```
+
+If someone starts working on an issue but it has the same workflow label for a
+week, the assignee has to leave a comment explaining the status of the issue.
+We should write at least one comment every week that the issue is not moving.
+
+### Issue Boards
+
+The work for the Import and Integrate group can be tracked on the following issue boards:
+
+- [Current milestone board](https://gitlab.com/groups/gitlab-org/-/boards/1459244?milestone_title=Upcoming&label_name[]=group%3A%3Aimport%20and%20integrate)
+
+### Capacity Planning
+
+<%= partial("handbook/engineering/development/dev/manage/import-and-integrate/capacity_planning.erb") %>
+
+### Backlog Refinement
+
+<%= partial("handbook/engineering/development/dev/manage/import-and-integrate/backlog_refinement.erb") %>
+
+### Working with Security
+
+The group has an existing [threat model](https://gitlab.com/gitlab-com/gl-security/appsec/threat-models/-/blob/master/gitlab-org/gitlab/GitLab%20Migration.md) to assist in identifying issues that may have security implications, but there are other considerations.
+
+An [Application Security Review](https://about.gitlab.com/handbook/security/security-engineering/application-security/appsec-reviews.html) should be requested when the issue or MR might have security implications. These include, but aren't limited to, issues or MRs which:
+- falls under the threat model
+- handles binary files (downloading, decompressing, extracting, moving, deleting)
+- modifies or uses file manipulation services
+- uses methods from Import/Export `CommandLineUtil`
+
+#### During a release
+
+<%= partial("handbook/engineering/development/dev/manage/release.erb") %>
+
+#### Release posts
+
+<%= partial("handbook/engineering/development/dev/manage/release_posts.erb") %>
+
+#### Proof-of-concept MRs
+
+<%= partial("handbook/engineering/development/dev/manage/pocs.erb") %>
+
+### Retrospectives
+
+<%= partial("handbook/engineering/development/dev/manage/import-and-integrate/retrospectives.erb") %>
+
+### Tech Leads
+
+<%= partial("handbook/engineering/development/dev/manage/import-and-integrate/tech_leads.erb") %>
+
+## Merge request roulette reviews
+
+<%= partial("handbook/engineering/development/dev/manage/import-and-integrate/roulette_reviews.erb") %>
+
+## Monitoring
+
+<%= partial("handbook/engineering/development/dev/manage/import-and-integrate/monitoring.erb") %>
+
+## Links and resources
+{: #links}
+
+<%= partial("handbook/engineering/development/dev/manage/shared_links.erb") %>
+* [Milestone retrospectives](https://gitlab.com/gl-retrospectives/manage-stage/import-and-integrate/-/issues)
+* Our Slack channels
+  * Manage:Import and Integrate [#g_manage_import_and_integrate](https://gitlab.slack.com/archives/C04RDL3MEH5)
+  * Daily standups [#g_manage_import_and_integrate_daily](https://gitlab.slack.com/archives/C04UYQV7716)
+* Issue boards
+  * [Current milestone board](https://gitlab.com/groups/gitlab-org/-/boards/1459244?milestone_title=Upcoming&label_name[]=group%3A%3Aimport%20and%20integrate)
+* Onboarding videos (GitLab Unfiltered Youtube)
+  * [Direct Transfer](https://www.youtube.com/watch?v=vVQ6Ex9fSl8) (formerly known as GitLab Migration)
+  * [Introduction to GitHub Importer](https://www.youtube.com/watch?v=TxHopzXop5s)
+  * [File based GitLab Import/Export](https://www.youtube.com/watch?v=A4kdpnbhmcw)
+  * [Remote S3 Import Example](https://www.youtube.com/watch?v=I85SXNmiS_k)
