@@ -107,20 +107,20 @@ The Vice President, Legal Operations is a [grade 12](https://about.gitlab.com/ha
 #### Vice President, Legal Operations Responsibilities
 
 - Design, build, and lead a high functioning subject matter specific team within the larger Legal & Corporate Affairs team in alignment with GitLab values
-- Deep understanding of broader GitLab strategy and business context to develop strategy, policy, and controls within subject matter area and ensure that the company operates safely and in accordance with good practice(s) at scale 
+- Deep understanding of broader GitLab strategy and business context to develop strategy, policy, and controls within subject matter area and ensure that the company operates safely and in accordance with good practice(s) at scale
 - Hiring, managing, training, mentoring and retaining their subject matter specific team to bring an ownership mindset to their role; provide clear actionable work product and further solidify a reputation for exemplifying the GitLab Culture of Compliance and the GitLab values  
 - Engage with E-Group and other executive Team Members to facilitate cross-functional alignment and Legal & Corporate Affairs collaboration in corporate strategy
 - Lead cross functional projects that further the strategy of the Legal & Corporate Affairs team which require significant stakeholder engagement and collaboration
-- Act as primary escalation point for inbound commercial negotiations; GitLab Legal DRI Finance matters and procurement; directly oversee key company contracts and negotiations; 
+- Act as primary escalation point for inbound commercial negotiations; GitLab Legal DRI Finance matters and procurement; directly oversee key company contracts and negotiations;
 - GitLab Legal & Corporate Affairs DRI with respect for: GitLab Legal operational matters including budgeting and strategic planning, OKRs, automation and process creation; creation and implementation of inbound contract vehicle(s) to address new, or updated, products and/or services  
 - Manage and implement budget for headcount, training, and technology stack with clear vision for future growth in line with company goals
-- Develop, implement and continually evolve efficient legal operations processes and automation to be embedded within company workflows 
+- Develop, implement and continually evolve efficient legal operations processes and automation to be embedded within company workflows
 
 #### Vice President, Legal Operations Requirements
 
 - Minimum of 12 years of managing a team, in addition to an extensive background in contracts management and business operations experience, preferably at an enterprise software company
 - Demonstrated success hiring, training, managing, developing and retaining a high functioning team of experienced legal and operational professionals
-- Demonstrated ability to collaborate effectively and influence across a range of stakeholders, including executives. Aligns teams around a common goal 
+- Demonstrated ability to collaborate effectively and influence across a range of stakeholders, including executives. Aligns teams around a common goal
 - Expertise in drafting and negotiating a wide variety of inbound commercial agreements; OSS licensing experience required; familiarity with privacy issues in such inbound contracts
 - Extensive experience in collaborating cross company and cross-subject matter to create, implement and evolve complex business processes and automation of operations to maximize efficiency
 - Highly proficient in managing legal operations tools and an accompanying tech stack, including contract management systems/databases, as well as internal to legal training materials, contract negotiation handbooks and other tools to ensure consistency and standardization
