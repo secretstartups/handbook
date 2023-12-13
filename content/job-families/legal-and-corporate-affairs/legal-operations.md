@@ -96,9 +96,11 @@ Outstanding interpersonal skills, the ability to interface effectively with busi
 - Ability to use GitLab
 
 ### Vice President, Legal Operations
+
 The Vice President, Legal Operations reports to the [Chief Legal Officer](/job-families/legal-and-corporate-affairs/chief-legal-officer/).
 
 #### Vice President, Legal Operations Job Grade
+
 The Vice President, Legal Operations is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Vice President, Legal Operations Responsibilities
@@ -114,6 +116,7 @@ The Vice President, Legal Operations is a [grade 12](https://about.gitlab.com/ha
 - Develop, implement and continually evolve efficient legal operations processes and automation to be embedded within company workflows 
 
 #### Vice President, Legal Operations Requirements
+
 - Minimum of 12 years of managing a team, in addition to an extensive background in contracts management and business operations experience, preferably at an enterprise software company
 - Demonstrated success hiring, training, managing, developing and retaining a high functioning team of experienced legal and operational professionals
 - Demonstrated ability to collaborate effectively and influence across a range of stakeholders, including executives. Aligns teams around a common goal 
@@ -138,7 +141,7 @@ The Vice President, Legal Operations is a [grade 12](https://about.gitlab.com/ha
 
   ## Career Ladder
 
-The next steps for the Legal Operations job family are not yet defined at GitLab.
+- The next steps for the Legal Operations job family are not yet defined at GitLab.
 
 ## Hiring Process
 
