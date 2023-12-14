@@ -62,16 +62,28 @@ Salesforce action:
 - 3. Change the status to Funding Docs Requested
 
 2. User Submitted application with link to crunchbase or funding Status (Complete Application)
-- What is their funding amount? If >$5 Million USD they are deemed Seed Stage. 
+- What is their funding amount? If less than $5 Million USD they are deemed Seed Stage. 
 - *Seed Stage Flow*
-- 1. Use Seed stage Macro to send over welcome email to customer
+- 1. Use "Seed stage" Macro to send over welcome email to customer
 - 2. Insert a coupon code from the Coupon code sheet within the macro
 - 3. Review Name, and fields to ensure correctly completed
-
-2. Salesforce action: 
-- 1. Open lead / contact in the ticket
+- Salesforce action: 
+- 1. Open lead / contact in the Zendesk ticket
 - 2. Ctrl F "Startups Program Status" 
 - 3. Change to "Qualified" Seed Y1
+
+ - *Early Stage Flow* If less than $20 Million USD and greater than $5 Million USD they are deemed Early Stage. 
+ - 1. Use "Early Stage" Macro within Zendesk 
+ - 2. Set ticket status to open 
+- Salesforce action: 
+ - 1.Open lead / contact in the Zendesk ticket
+ - 2. Ctrl F "Startups Program Status" 
+ - 3. Change to "Qualified" Early Y1
+ - 4. Convert the Lead to an Opp 
+ - 5. Rename the Opportunity as "Customer Name, Seats, License Type, Startups - Early - Y(1) 
+ - 6. Chatter Mktgops to assign the correct AE 
+ - 7. Once the AE has been confirmed handoff the customer via the Zendesk Ticket
+
 
 
 If they do not qualify, send them the [Startups:: Rejection macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#startups-startups-rejection) and offer to connect them to sales via the [Sales handoff process](/handbook/marketing/developer-relations/community-programs/community-program-applications/#handoff-process-to-sales).
