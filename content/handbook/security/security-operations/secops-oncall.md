@@ -162,10 +162,7 @@ Incidents are triaged by following the checklist posted by the TriageBot.
 
 Alert triage is a continuous task on weekdays and a task that should be done at least once a day on weekends.
 
-Alert triage should follow this process:
-- Acknowledge the alert.
-- Based on the alert information, current situation, and experience, determine the priority of the alert.
-- Unless the alert is determined to be critical, assign it to another person in your timezone. On weekends, assign them globally.
+If the alert is not critical, you can assign it to another person in your timezone. On weekends, assign them globally. Make the call if you assign an alert to someone else or work on it yourself based on your workload and the time an alert would take.
 
 ## Incident Ownership
 
