@@ -32,7 +32,7 @@ The [central data team](/handbook/business-technology/data-team/) serves as the 
 | Customer Success Analytics | Michael Arntz |
 | Digital Experience | Dennis Charukulvanich  |
 | [People Analytics](/handbook/people-group/people-ops-tech-analytics/people-analytics/) | Adrian Perez |
-| Central Data Team | Israel Weeks |
+| [Central Data Team](/handbook.gitlab.com/handbook/business-technology/data-team/) | Israel Weeks & Jong Lee |
 
 ## Objectives of the FACE
 
@@ -49,6 +49,30 @@ The [central data team](/handbook/business-technology/data-team/) serves as the 
 - **Peer Review + Assumptions Approval**: as a part of the quarterly projects, we will establish a code peer review and assumptions approval process that will ensure we will all be enthusiastic adopters of the ultimate output.
 - **Code Repo**: after a project has gone through the peer review and assumptions approval process, we will commit it to a repo that any data person can leverage in their work.
 
+# Turn and Share Meetings
+
+- **Overall Goal**: Encourage each of the analytic teams at GitLab to reach out to each other for data resources and ideas on how to solve reporting, statistical, and data science problems of various complexity levels.
+
+- **General Guidelines for Discussions**: 
+1. Work does not need to be completed or in a finished state to be presented.
+2. Slides are not always necessary, unless that is easier for the presenter to share their thoughts.
+3. Active participation during sessions is what we’re striving for. Questions at the time of presentation can be very helpful for all, especially the presenter.
+
+**Goal is not to solve the problems we have in the meeting, rather to discuss and share ideas and thoughts. For deep discussions, follow-up meetings should be scheduled with interested Team Members.**
+### **Meeting Cadence**:
+
+We strive to meet every three weeks, alternating between AMER and APAC time zones to facilitate consistent knowledge sharing and collaboration across functional analysts.
+
+### **Sign Up for Presenters**:
+
+We will collect sign ups and coordinate meeting schedules & facilitators in this [sheet](https://docs.google.com/spreadsheets/d/1L1oFCzmjUT6HWi1DNOa31WISqVfHOMXp924e__Ao4Pg/edit#gid=1615918759)
+
+### **Meeting Documentation**:
+
+- **[Agenda](https://docs.google.com/document/d/1H1AI-rwcubZ2UYuf8JGUiMUb7gLoeDXuPQ6Kmfyc2iE/edit#heading=h.2e7gftq6eevx)**: 
+  - We collect notes, presentations, and Q&A during sessions.
+- **Recordings**: 
+  - Meeting recordings are appended to the agenda post-session.
 
 ## Examples: what are the types problems the FACE tackles?
 
