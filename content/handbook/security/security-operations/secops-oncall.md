@@ -53,7 +53,7 @@ Trust and Safety
 
 SIRT is using the self-developed tool [Handogotchi](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/tines/-/tree/master/Handogotchi) for written handovers. Handogotchi reminds the SIRT engineer on call to update incidents and add additional information one hour before handoff time. It will automatically send links to open incidents half an hour before handoff times.
 
-*Incident issues are the SSoT for any incident. There should be no incident specific information in handogotchi.*
+*Incident issues are the SSoT for any incident. There should be no incident-specific information in Handogotchi.*
 
 Written handoffs are done for every shift and are the basis for warm handoffs.
 
@@ -65,7 +65,7 @@ The outgoing region prepares the handoff as described in the section above. The 
 
 There is no agenda for warm handoffs. All points that come up have to be immediately documented/corrected in the incident issue.
 
-Warm handoffs are only done during the week. The reason for this is a handoff time around midnight for EMEA shifts.
+Warm handoffs are only done during the week. The reason for this is a tricky handoff time (around midnight) for EMEA shifts.
 
 ## SIRT On-Call
 
@@ -76,7 +76,7 @@ During all On-Call shifts, the On-Call Engineer is filling the role of the `"Tri
 #### Weekday On-Call Engineer Responsibilities
 
 Security Operations provides weekday On-Call coverage using a follow-the-sun model. Weekday On-Call Security Engineers are the team members that cover the On-Call responsibilities during their region's sunny time.
-- A Weekday On-Call shift typically covers one working week, from Monday to Friday.
+- A Weekday On-Call shift typically covers one work week, from Monday to Friday.
 - The Weekday On-Call Security Engineer is expected to cover the `"Triage Engineer"` role, and should be the first responder to alerts and incidents as they are presented via PagerDuty and via the various Slack and alerting channels.
 
 ### Weekend
