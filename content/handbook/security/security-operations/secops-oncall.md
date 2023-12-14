@@ -42,7 +42,7 @@ SIRT
 - 23:00 to 07:00 UTC –> APAC - 8 hours
 - 07:00 to 15:00 UTC –> EMEA - 8 hours
 - 15:00 to 23:00 UTC –> AMER - 8 hours
-SIRT times are reflected in the [SIRT Handoffs](https://calendar.google.com/calendar/u/0?cid=Y18zZDBwampnN3N1bDlib2VrczIxbzRxc2RjNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) calander. In case both parties agree to change the time, this should be reflected in the calander at least 24h prior to the handoff. Changing the meeting counts as notification.
+SIRT times are reflected in the [SIRT Handoffs](https://calendar.google.com/calendar/u/0?cid=Y18zZDBwampnN3N1bDlib2VrczIxbzRxc2RjNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) calendar. In case both parties agree to change the time, this should be reflected in the calendar at least 24 hours prior to the handoff. Changing the meeting time counts as a notification.
 
 Trust and Safety
 - 23:00 to 07:00 UTC –> APAC - 8 hours
@@ -51,7 +51,7 @@ Trust and Safety
 
 ### SIRT Written Handoff
 
-SIRT is using the self-developed tool [Handogotchi](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/tines/-/tree/master/Handogotchi) for written handovers. Handogotchi reminds the on-call person to update incidents and add additional information one hour before handoff time. It will automatically send links to open incidents half an hour before handoff times.
+SIRT is using the self-developed tool [Handogotchi](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/tines/-/tree/master/Handogotchi) for written handovers. Handogotchi reminds the SIRT engineer on call to update incidents and add additional information one hour before handoff time. It will automatically send links to open incidents half an hour before handoff times.
 
 *Incident issues are the SSoT for any incident. There should be no incident specific information in handogotchi.*
 
@@ -86,7 +86,7 @@ Security Operations provides weekday On-Call coverage using a follow-the-sun mod
 The Weekend On-Call Security team member will be responsible for covering On-Call responsibilities from AMER Friday evening until APAC Monday morning according to the established On-Call Security Handoff times.
 - The Weekend On-Call Security team member is responsible for timely responding to PagerDuty and the incident response process in accordance with the `"Triage Engineer"` role.
 - During the weekend hours, the Weekend On-Call Security team member is not expected to be at their computer working unless they are responding to an incident, triaging alers, or working on a leadership request for critical deliverables. However, they will be asked to acknowledge any Pager Duty incidents via their mobile phone within 15 minutes, and begin triaging the incident within one hour. Priority 3 Severity 3 and below incidents can be handled by the team as weekday tasks.
-- Additionally to incidents, the Weekend On-Call is responsible to acknowledge, triage, and assign alerts once a day based on priority. See triaging alert [TODO] for details.
+- Additionally to incidents, the Weekend On-Call is responsible to acknowledge, triage, and assign alerts once a day based on priority. See `"Alert Triage"` for details.
 - When there is a signficant business need, the Weekend On-Call Security team member may be responsible for ensuring continuity of critical deliverables as determined by leadership. Critical deliverables will generally consist of, but are not limited to: threat hunting and mitigation, bug fixes, cryptomining, customer impacting SPAM, or detection and response engineering to protect against credible threats.
 
 #### Weekend On-Call Security Scheduling
@@ -152,13 +152,13 @@ Delegation allows the team to spread the workload across the global team while m
 - Sometimes, team members are working on a high-priority assignment and are temporarily unavailable for delegation. If those team members get a delegation they should contact a manager to re-assign the incident.
 - The On-Call Engineer is the last failsave if no other team member is available to work on high-urgency incidents.
 
-### Triage process
+### Triage Process
 
-#### Incident triage
+#### Incident Triage
 
 Incidents are triaged by following the checklist posted by the TriageBot.
 
-#### Alert triage
+#### Alert Triage
 
 Alert triage should follow this process:
 - Acknowledge the alert.
