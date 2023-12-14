@@ -293,7 +293,7 @@ If you are a GitLab Hero seeking an Ultimate license, please create an issue in 
 
 GitLab team members follow the steps below to assist with license request.
 
-The [internal request form](https://gitlab-com.gitlab.io/support/internal-requests-form/) is used by a GitLab team member to conduct or request any modifications to licenses.
+The [internal request form](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) is used by a GitLab team member to conduct or request any modifications to licenses.
 
 Type of request:
 

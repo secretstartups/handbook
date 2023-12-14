@@ -11,7 +11,7 @@ Self-managed trials and grace periods cannot be extended - a **trial** license m
 Requests for grace period extensions, temporary keys, temporary extensions, temporary licenses,
 and trial extensions all require generating a trial License.
 
-Sales will often request through an [Internal Request / Zendesk Ticket](https://gitlab-com.gitlab.io/support/internal-requests-form/) that we extend the duration of Self-Managed trials on behalf of their prospects. These tickets will always be raised from the GitLab Support End User `gitlab_support@example.com`, with the submitter cc'd on the ticket. The following workflow should be followed to service them.
+Sales will often request through an [Internal Request / Zendesk Ticket](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) that we extend the duration of Self-Managed trials on behalf of their prospects. These tickets will always be raised from the GitLab Support End User `gitlab_support@example.com`, with the submitter cc'd on the ticket. The following workflow should be followed to service them.
 
 If any fields when opening the ticket were filled out incorrectly, send a public reply in the ticket asking the submitter to supply the missing information.
 
@@ -78,7 +78,7 @@ Account Executives (AEs) can use SalesForce.com (SFDC) to issue a self-managed 2
 
 #### Sales AE requests for a manual temporary extension
 
-An AE is expected to use the [SFDC process](#sfdc-generated-trial-license-extensions) first when a customer requires a self-managed license extension.  However, if an extension has elapsed then an AE can use the [Internal Form](https://gitlab-com.gitlab.io/support/internal-requests-form/) named `Extend an (almost) expired subscription` to request a license extension directly from L&R support.  There are some caveats to this process which are listed below:
+An AE is expected to use the [SFDC process](#sfdc-generated-trial-license-extensions) first when a customer requires a self-managed license extension.  However, if an extension has elapsed then an AE can use the [Internal Form](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) named `Extend an (almost) expired subscription` to request a license extension directly from L&R support.  There are some caveats to this process which are listed below:
 
 - If the AE selects a different form (e.g. the IR `other`), then the L&R Support engineer should redirect the AE to submit a new ticket by using the `Deviation from SM License Extension Workflow` macro and close the ticket.
 - If the AE has not first utilized the SFDC process, then the L&R Support engineer should direct them there by using the `Deviation from SM License Extension Workflow` macro and close the ticket.

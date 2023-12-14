@@ -58,7 +58,7 @@ The most common issue that we will see is the renewal license being generated wi
 
 When an entity change occurs the original account and subscription associated with that account in Zuora are cancelled and a new account and subscription are created.  This causes the group that is associated with the original subscription to drop to the Free tier of service until the new subscription is associated to the group.
 
-These situations are handled by the account manager for the customer by opening an [IR ticket](https://gitlab-com.gitlab.io/support/internal-requests-form/) and selecting the option `Billing Entity change` from under the `SaaS Subscription Related` section of the dropdown list.
+These situations are handled by the account manager for the customer by opening an [IR ticket](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) and selecting the option `Billing Entity change` from under the `SaaS Subscription Related` section of the dropdown list.
 
 ### How to handle Billing Entity changes
 

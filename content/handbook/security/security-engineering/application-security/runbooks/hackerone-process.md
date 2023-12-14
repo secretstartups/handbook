@@ -310,7 +310,7 @@ GitLab reporters with 3 or more valid reports are eligible for a 1-year Ultimate
 1. Validate that the three reports were valid. That means they are `Triaged` or `Resolved`.
 1. Validate that the three reports have not been used to obtain a previous license.
 1. If the reports are not valid, respond to the reporter on H1 explaining the reason the license is not being issued.
-1. If the reports are valid, visit the [GitLab Support Internal Requests page](https://gitlab-com.gitlab.io/support/internal-requests-form/) and select `Hacker One Reporter License` as the request type.
+1. If the reports are valid, visit the [GitLab Support Internal Requests page](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) and select `Hacker One Reporter License` as the request type.
     - For `Contact Name` use the reporter's full name if available, otherwise their H1 handle
     - For `Contact Email` use the reporter's `[username]@wearehackerone.com` email address
 1. Enter the associated license information in the [H1 License Award sheet](https://docs.google.com/spreadsheets/d/1qJZ9jfIvQuSU5u4odj4Db_CRKJ_GHegtSZQvJx36FUE/edit)
@@ -327,7 +327,7 @@ Members of the public can ask questions about our HackerOne bug bounty program h
 
 All members of the HackerOne triage team have access to GitLab Ultimate licenses. HackerOne will inform us annually when the license needs to be renewed.
 
-- Visit the [GitLab Support Internal Requests page](https://gitlab-com.gitlab.io/support/internal-requests-form/)
+- Visit the [GitLab Support Internal Requests page](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/)
 - Select the `Other` template
 - Paste the following:
 

@@ -821,7 +821,7 @@ Google groups can be used for easily sending calendar invites to members of the 
 1. The channel can be used to ask all product, engineering, and Fulfillment processes related questions.
 1. When your question has been answered, please react with the ✅ (`:white_check_mark:`) Slack emoji to the original question so that team members know that it has been answered and they do not need to look at it any longer.
 1. For urgent support issues, please follow the [STAR escalation](https://about.gitlab.com/handbook/support/internal-support/support-ticket-attention-requests.html#requesting-an-escalation) strategy.
-1. For [internal support requests](https://about.gitlab.com/handbook/support/internal-support/#internal-requests) regarding licensing, subscriptions, trials, grace period extensions, or any requests involving a customer, please fill out the [internal request form](https://gitlab-com.gitlab.io/support/internal-requests-form/).
+1. For [internal support requests](https://about.gitlab.com/handbook/support/internal-support/#internal-requests) regarding licensing, subscriptions, trials, grace period extensions, or any requests involving a customer, please fill out the [internal request form](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/).
 1. For general licensing and subscription questions, check out the [#support_licensing-subscription](https://app.slack.com/client/T02592416/C018C623KBJ) Slack channel.
 
 ## Common links
