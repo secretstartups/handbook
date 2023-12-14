@@ -1,0 +1,8 @@
+Backlog management is very challenging, but we try to do so with the use of labels and milestones.
+
+To identify issues that need refinement, use the "Next Up" label.
+The purpose of the "Next Up" label is to identify issues that are currently in _any_ workflow stage before `workflow::ready for development`. By using this "Next Up" label in addition to workflow labels, we're able to see exactly what is being refined, e.g., problem, design, solution. This helps identify which issues are closer to being ready to schedule.
+
+Issues shouldn't receive a milestone for a specific release (e.g. 13.0) until they've received a 👍 from both Product and Engineering. This also means the issue should not be labeled as `workflow::ready for development`.
+    * Product approval is represented by an issue moving into `workflow::planning breakdown`.
+    * Engineering approval is represented by an issue weight measuring its complexity.

@@ -9,7 +9,7 @@ Maximize GitLab's long-term valuation by enabling eGroup and FP&A to plan, prior
 
 ## Our objectives
 
-1. Facilitate aligned cross-functional execution of GitLab's [strategy]({{< ref "strategy" >}})
+1. Facilitate aligned cross-functional execution of GitLab's [strategy]({{< ref "/handbook/company/strategy" >}})
 1. Bring predictability and operational rigor to GitLab
 1. Ensure financial and operational goals of GitLab are defined, documented and achieved
 1. Evangelize awareness of strategy and each departments role in achieving it

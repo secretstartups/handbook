@@ -257,7 +257,7 @@ Partners and GitLab Sellers frequently ask questions on how to collaborate with 
 ### Section III: Partner Contribution Data
 
 - **Influence Partner**: Other partners, generally SI/GSIs or alliance partners, that have helped influence a deal but are not part of the actual transaction
-- **Influence Partner**: Other partners, generally SI/GSIs or alliance partners, that have
+- **Influence Partner**: Other partners, generally SI/GSIs or alliance partners
 - **Platform Partner**:  Customer's platform that GitLab is being deployed.
 - **GCP Requests**
 

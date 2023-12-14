@@ -1,0 +1,52 @@
+When areas of the Import and Integrate codebase are changed, the [reviewer roulette](https://docs.gitlab.com/ee/development/code_review.html#reviewer-roulette)
+will recommend that the merge request is reviewed by an Import and Integrate team member. This will only happen when the merge request is
+authored by people outside of the Import and Integrate team. See [this example](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/74338#note_731247058) of how the review recommendation looks.
+
+The [reasoning](https://gitlab.com/gitlab-org/gitlab/-/issues/343486) behind these special recommendations
+is that other groups have some ownership of certain integrations or webhooks. Reviewing
+changes made by non-team members allows us to act as owners of foundational code and maintain
+a better quality of the Import and Integrate codebase.
+
+### How roulette matches work
+
+File paths of changes in a merge request are matched against a
+[list of regular expressions](https://gitlab.com/gitlab-org/gitlab/-/blob/240d4c37c955878c224718e47f4d527bea250299/tooling/danger/project_helper.rb#L42-62).
+The roulette uses these hash values to recommend reviewer groups. For example, `:import_integrate_be` and
+`:import_and_integrate_fe` will recommend Import and Integrate backend and frontend reviews respectively. As the regex matches
+are [first match wins](https://gitlab.com/gitlab-org/gitlab/-/blob/54e182410219d1c77c5c6b2b7c88a6639f622cc6/tooling/danger/project_helper.rb#L18)
+and not cumulative, any other relevant reviewer groups like `:backend` or `:frontend` must also be included
+in each hash value.
+
+The regex list should be updated to match integrations or webhooks code whenever needed. The list matches our
+commonly namespaced files, so new code in existing namespaces will always match.
+
+To see which files in the GitLab repository produce a match, paste the following in a Rails console:
+
+```ruby
+require Rails.root.join('tooling/danger/project_helper.rb')
+
+ALL_FILES = Dir.glob('**/*');
+
+def category_regexs(category)
+  matching_categories = Tooling::Danger::ProjectHelper::CATEGORIES.select do |regexs, categories|
+    next if regexs.is_a?(Array)
+
+    Array.wrap(categories).include?(category)
+  end
+
+  regexes = matching_categories.map(&:first)
+  Regexp.union(*regexes)
+end
+
+def print_files(category)
+  regex = category_regexs(category)
+
+  puts ALL_FILES.grep(regex).reject { |path| File.directory?(path) }.sort
+end
+
+puts "Backend:\n"
+print_files(:import_integrate_be)
+
+puts "Frontend:\n"
+print_files(:import_integrate_fe)
+```

@@ -15,11 +15,11 @@ description: "Contributor Success Team"
 
 ## Sub-pages
 
-| **Workflows** | [Contributor Success Contributor Workflows](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html) |
-| **Metrics** | [Contributor metrics & dashboards](/handbook/marketing/developer-relations/contributor-success/metrics.html) |
-| **Contributing Organization Tracking** | [Contributing Organization Tracking](/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker.html) |
-| **A Contributor's User Journey** | [User Journey](/handbook/marketing/developer-relations/contributor-success/user-journey.html) |
-| **Community pairing sessions** | [Community pairing sessions](/handbook/marketing/developer-relations/contributor-success/community-pairing-sessions.html) |
+| **Workflows** | [Contributor Success Contributor Workflows](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows) |
+| **Metrics** | [Contributor metrics & dashboards](/handbook/marketing/developer-relations/contributor-success/metrics) |
+| **Contributing Organization Tracking** | [Contributing Organization Tracking](/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker) |
+| **A Contributor's User Journey** | [User Journey](/handbook/marketing/developer-relations/contributor-success/user-journey) |
+| **Community pairing sessions** | [Community pairing sessions](/handbook/marketing/developer-relations/contributor-success/community-pairing-sessions) |
 
 - - -
 
@@ -88,7 +88,7 @@ organizations who are among our most active contributors. A company or individua
 [qualifies](/handbook/marketing/developer-relations/leading-organizations/#qualification) for unique benefits by
 reaching 20 merged merge requests or more over a trailing three full calendar month basis.
 
-See our workflows on [how to add or remove an organization](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#leading-organizations)
+See our workflows on [how to add or remove an organization](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows#leading-organizations)
 to the program.
 
 ## Team Responsibilities
@@ -99,7 +99,7 @@ to the program.
 - Organize community contributors into [community teams](#gitlab-community-teams-structure) and ensure their success.
 - Track [contribution](/community/contribute/) delivery of the Community Contributors and Cohorts.
 - Nominate impactful community contributors and contributions for recognition.
-- Select and recognize a [GitLab MVP](/handbook/marketing/developer-relations/contributor-success/mvp-process.html) for each release post
+- Select and recognize a [GitLab MVP](/handbook/marketing/developer-relations/contributor-success/mvp-process) for each release post
 - Collaborate closely with our [Marketing counterparts](/handbook/marketing/developer-relations/) and [Core team](/community/core-team/).
 - Engineering representative that can ride along with the [Developer evangelist](/job-families/marketing/developer-evangelist/).
 - Improve community recognition system and awards in collaboration with the [Developer Relations team](/handbook/marketing/developer-relations/).
@@ -226,7 +226,7 @@ More details can be found in the [OCMA Community-Relations PI section](/handbook
   - Partner with Developer Relations team (David P)
   - Maintain a list of known contributors with a mapping to their accounts and the accounts ARR contribution as input to this KPI
   
-Please see [Contributing Orgs tracker](contributing-org-tracker.html) for details how to onboard or offboard a GitLab
+Please see [Contributing Orgs tracker](contributing-org-tracker) for details how to onboard or offboard a GitLab
 account from being linked to a customer account, and being counted into the MRARR metric.
 
 More details can be found at the [MRARR Community-Relations PI section](/handbook/marketing/developer-relations/performance-indicators/#mrarr)

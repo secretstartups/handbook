@@ -55,7 +55,7 @@
         <a href="{{.}}">Documentation Page</a><br>
         {{- end -}}
         {{- with .direction -}}
-        <a href="{{.}}">Direction Page</a><br>
+        <a href="https://about.gitlab.com{{.}}">Direction Page</a><br>
         {{- end -}}
         </td>
     </tr>
@@ -69,18 +69,3 @@
 {{- end }}
 {{- end }}
 {{- end }}
-
-<style>
-    img.avatar {
-    width: 30px;
-    height: 30px;
-    max-width: 30px;
-    max-height: 30px;
-    overflow: hidden;
-    margin-right: 10px;
-    border-radius: 50%;
-    border: 1px solid lightgray;
-    aspect-ratio: auto 90 / 90;
-    overflow-clip-margin: content-box;
-    }
-</style>

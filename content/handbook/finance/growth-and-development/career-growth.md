@@ -18,7 +18,7 @@ Welcome to Learning and Development for the Finance Department at GitLab! The re
 
 - [Career development at Gitlab]({{< ref "career-development" >}})
 - [Gitlab promotions and transfers]({{< ref "promotions-transfers" >}})
-- [Performance / Potential Matrix]({{< ref "talent-assessment#the-performancepotential-matrix" >}})
+- [Performance / Potential Matrix]({{< ref "/handbook/people-group/talent-assessment#the-performancepotential-matrix" >}})
 
 ## Finance Specific: Job Families & Competencies by Level (WIP)
 

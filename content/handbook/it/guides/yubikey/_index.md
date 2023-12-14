@@ -23,6 +23,8 @@ When the prompt shows, fill in your information. There are some caveats here:
 - Prefix your phone number with your international calling code. (+15551239999)
 - Use your two letter state/region code for USA and Canada orders. (CA for California, QC for Quebec)
 - If you need more address lines, please reach out in #it_security_help.
+- If your country is not listed, please follow the [expense process](https://handbook.gitlab.com/handbook/finance/expenses/).
+- A potential vendor for a YubiKey FIPS in India is [ICON](https://icons.net.in/product/yubico-yubikey-5c-nfc-fips-security-key/). You have to call them and then they will release the stock on their website. Once the stock becomes available, you can checkout and pay.
 
 ![image_2](./image_2.png)
 

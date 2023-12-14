@@ -596,7 +596,7 @@ $20.90 per month
 
 - [Mobile Arag Legal App Flyer](https://drive.google.com/file/d/1MGpQ6C-uNwRZS3VrUkuTZ4d6vkIqNmOk/view?usp=sharing)
 - [Common Legal Needs ARAG can assist with](https://drive.google.com/file/d/1bFdnlVxmIzJ5Rixu94643AjwkZD-7OrB/view?usp=sharing)
-- [ARAG learning Center (Resources for ALL team members)](https://drive.google.com/drive/folders/1GRepiRZGrLWZTbmt8Tz-zP-XMgPo89Nm)
+- [ARAG learning Center (Resources for ALL team members)](https://drive.google.com/file/d/1_91UohgMqY-fjRuQlTzISuKwXdVSdLNJ/view?usp=sharing)
 - [ARAG FAQ](https://drive.google.com/file/d/1x9MJVttezz0KOvW2IZXIkY7qtkIMk8p7/view?usp=sharing)
 - [Diversity, Equity, and Inclusion Benefits](https://drive.google.com/file/d/1HnfzAbxs-T1yx_r4vBmmUPaLIdQc9YEq/view?usp=sharing)
 

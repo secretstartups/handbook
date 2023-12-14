@@ -1,0 +1,49 @@
+For engineers, you may want to create an implementation approach when moving an issue out of `~workflow::planning breakdown`. A proposed implementation approach isn't required to be followed, but is helpful to justify a recorded weight.
+
+As the [DRI](/handbook/people-group/directly-responsible-individuals/) for `workflow::planning breakdown`, consider following the example below to signal the end of your watch and the issues preparedness to move into scheduling. While more straightforward issues that have already been broken down may use a shorter format, the plan should (at a minimum) always justify the "why" behind an estimation.
+
+The following is an example of an implementation approach from [https://gitlab.com/gitlab-org/gitlab/-/issues/247900#implementation-plan](https://gitlab.com/gitlab-org/gitlab/-/issues/247900#implementation-plan). It illustrates that the issue should likely be broken down into smaller sub-issues for each part of the work:
+
+```md
+### Implementation approach
+
+~database
+
+1. Add new `merge_requests_author_approval` column to `namespace_settings` table (The final table is TBD)
+
+~"feature flag"
+
+1. Create new `group_merge_request_approvers_rules` flag for everything to live behind
+
+~backend
+
+1. Add new field to `ee/app/services/ee/groups/update_service.rb:117`
+1. Update `ee/app/services/ee/namespace_settings/update_service.rb` to support more than just one setting
+1. *(if feature flag enabled)* Update the `Projects::CreateService` and `Groups::CreateService` to update newly created projects and sub-groups with the main groups setting
+1. *(if feature flag enabled)* Update the Groups API to show the settings value
+1. Tests tests and more tests :muscle:
+   - In particular, cover both happy and unhappy paths, and consider tests for scenarios that could result in false positives or negatives
+
+~frontend
+
+1. *(if feature flag enabled)* Add new `Merge request approvals` section to Groups general settings
+1. Create new Vue app to render the contents of the section
+1. Create new setting and submission process to save the value
+1. Tests tests and more tests :muscle:
+   - In particular, cover both happy and unhappy paths, and consider tests for scenarios that could result in false positives or negatives
+
+~documentation
+
+1. Update docs page eg https://docs.gitlab.com/ee/administration/audit_events.html
+1. Update the GraphQL examples https://gitlab.com/gitlab-org/govern/compliance/graphql-example-requests
+
+~quality
+
+1. Add new group-level end-to-end test based on existing project-level end-to-end test (include the path to the existing test eg `path/to/existing_test`)
+
+```
+
+The [DRI](/handbook/people-group/directly-responsible-individuals/) will ping a relevant counterpart (Quality, UX, etc) and domain expert (database, backend, frontend) before moving the issue to `workflow::scheduling`. This gives the domain expert the opportunity to approve the implementation plan or raise any potential pitfalls or concerns before work begins.
+For domain expert review of development implementation plan, in case of trivial changes, the approval can be solicited from any of the relevant compliance development team members. Do try to find a person who has context around the topic. In case of non-trivial changes, opinions from the whole relevant compliance backend or frontend or both team members should be solicited by tagging respective group (`@gitlab-org/govern/compliance/frontend` or `@gitlab-org/govern/compliance/backend`) in the issue's comment. Deciding whether the implementation is trivial or non-trivial depends on the discretion of DRI and the initial domain expert asked for review.
+
+Once an issue has been estimated, it can then be moved to `workflow::scheduling` to be assigned a milestone before finally being `workflow::ready for development`.

@@ -308,7 +308,7 @@ Discourse uses [trust levels](https://meta.discourse.org/t/trust-level-permissio
 
 ##### Nomination for Trust Level 4
 
-Please open a [new issue in the Developer Evangelist Meta Project](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues) and share the user profile URL and a detailed reason why they should be promoted to trust level 4. Assign the issue to technical owners using this quick action: `/assign @dnsmichi @sugaroverflow`. Administrators will review and reach out to nominated community members.
+Please open a [new issue in the Developer Evangelist Meta Project](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues) and share the user profile URL and a detailed reason why they should be promoted to trust level 4. Assign the issue to technical owners using this quick action: `/assign @dnsmichi @sugaroverflow`. Administrators will review and reach out to nominated community members.
 
 ##### Team Member Trust Level
 
@@ -318,12 +318,20 @@ Administrators can promote team members to trust level 4 manually, for example w
 
 #### Categories
 
-The [forum categories](https://forum.gitlab.com/categories) allow to group posts by stages and topics. Users can also subscribe to category notifications.
+The [forum categories](https://forum.gitlab.com/categories) allow to group posts by sections and topics. Users can also subscribe to category notifications. The top-level categories are inspired by the DevSecOps lifecycle, common questions about GitLab features, and community activities. 
+
+Categories are also shown in a dropdown when users follow the `New topic` action on the forum landing page. We try to keep the category list short and concise.
 
 There are two categories serving a special purpose, they must not be removed:
 
 - [Internal](https://forum.gitlab.com/c/internal/) is required for the [community response workflow](/handbook/marketing/developer-relations/workflows-tools/forum/#forum-community-response-workflow)
 - [Staff](https://forum.gitlab.com/c/staff/) is used by Discourse to manage site content and permissions (example: [FAQ](https://forum.gitlab.com/faq).
+
+For requesting a new category, please review the following steps:
+
+1. Do you want to filter specific topics, or subscribe to notifications? If yes, please consider using [tags](#tags) instead.
+1. New categories should fit as subcategory into the existing top-level categories. We try to avoid bigger layout changes to avoid breaking contributor workflows. 
+1. Create a [new issue in the Developer Evangelist Meta Project](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues) to discuss, and add details about forum DRIs, expected topic count, and impact. Assign the issue to technical owners using this quick action: `/assign @dnsmichi @sugaroverflow`.
 
 #### Tags 
 
