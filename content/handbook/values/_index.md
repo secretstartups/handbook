@@ -819,9 +819,9 @@ Iteration enables [results](#results) and [efficiency](#efficiency)
 
 *In the [GitLab Unfiltered video](https://youtu.be/2r0UeZ5p57Y) embedded above, GitLab CEO and co-founder Sid Sijbrandij shares key operating principles to reinforce iteration in an organization.*
 
-##### Start with a goal in broad strokes
+##### Start with a broad vision
 
-Iteration involves driving results in pursuit of a goal. While the goal may change as we iterate, we are unlikely to be successful if we don't start with a vision of what we are working toward. Iteration for the sake of iteration can lead to inefficiencies and not deliver desired results.
+Iteration involves driving results in pursuit of a long term vision. While the intermediate goals may change as we iterate, we are unlikely to be successful if we don't start with a vision of what we are working toward. Shipping that vision in iterations allows us to learn from customers using it and adjust the vision if needed. Iteration for the sake of iteration can lead to inefficiencies and not deliver desired results.
 
 ##### Don't wait
 
