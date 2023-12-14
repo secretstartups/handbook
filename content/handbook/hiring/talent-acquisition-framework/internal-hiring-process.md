@@ -71,7 +71,7 @@ Ensure you have met your department specific eligibility requirements:
 
 ### Delivering feedback to rejected candidates
 
-At any stage a team member needs to be declined, it is up to the Recruiter and Hiring Manager to connect to determine the best approach to ensure the appropriate [feedback]({{< ref "guidance-on-feedback" >}}) is given. It is important to deliver transparent and honest feedback to the candidate while remaining constructive and focusing on growth.
+At any stage a team member needs to be declined, it is up to the Recruiter and Hiring Manager to connect to determine the best approach to ensure the appropriate [feedback]({{< ref "guidance-on-feedback" >}}) is given by the hiring manager. It is important to deliver transparent and honest feedback to the candidate while remaining constructive and focusing on growth. 
 
 If there is enough feedback to justify it (due to multiple interviews, amount of feedback, commitment to this role, etc), consider this approach:
 - Condense the themes from all of the scorecards so that there is a high level, but anonymous summary of Pros and Cons
