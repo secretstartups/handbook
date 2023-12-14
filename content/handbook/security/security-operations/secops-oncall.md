@@ -53,21 +53,21 @@ Trust and Safety
 
 SIRT is using the self-developed tool [Handogotchi](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/tines/-/tree/master/Handogotchi) for written handovers. Handogotchi reminds the on-call person to update incidents and add additional information one hour before handoff time. It will automatically send links to open incidents half an hour before handoff times.
 
-_Incident issues are the SSoT for any incident. There should be no incident specific information in handogotchi._
+*Incident issues are the SSoT for any incident. There should be no incident specific information in handogotchi.*
 
 Written handoffs are done for every shift and are the basis for warm handoffs.
 
 ### SIRT Warm Handoff
 
-SIRT uses warm handoffs to clarify written handoffs and avoid misunderstandings in complex situations. They should take no more than 15 minutes. One person per region is required (outgoing and incomming). 
+SIRT uses warm handoffs to clarify written handoffs and avoid misunderstandings in complex situations. They should take no more than 15 minutes. One person per region is required (outgoing and incomming).
 
-The outgoing region prepares the handoff as described in the section above. The incoming region should familiarize themselves with the written handoff before attending the meeting. _Warm handoffs are meant to be prepared meetings from both sides that focus on open questions and clarifications_.
+The outgoing region prepares the handoff as described in the section above. The incoming region should familiarize themselves with the written handoff before attending the meeting. *Warm handoffs are meant to be prepared meetings from both sides that focus on open questions and clarifications.*
 
 There is no agenda for warm handoffs. All points that come up have to be immediately documented/corrected in the incident issue.
 
 Warm handoffs are only done during the week. The reason for this is a handoff time around midnight for EMEA shifts.
 
-## SIRT On-Call 
+## SIRT On-Call
 
 During all On-Call shifts, the On-Call Engineer is filling the role of the `"Triage Engineer"`.
 
@@ -106,7 +106,7 @@ When scheduled for the Weekend On-Call Security shift team members should:
 - Commit to covering the Weekend On-Call shift. Avoid signing up for weekends you are unable to cover, or otherwise have a conflict.
 - Find replacement coverage if you cannot commit to covering the entire weekend.
 
-## SIRT On-Call Paging 
+## SIRT On-Call Paging
 
 ### Workflow
 
@@ -145,10 +145,10 @@ Weekday only:
 
 Delegation allows the team to spread the workload across the global team while maintaining adequate coverage and response times.
 
-- On-Call Engineers have to to delegate incidents to other Engineers after performing initial triage. 
+- On-Call Engineers have to to delegate incidents to other Engineers after performing initial triage.
 - Delegation rules:
-  - Incidents classified with either S1, P1, S2, or P2 should only be delegated to team members available in the current sunny region. 
-  - All other incidents can be assigned to any team member not on PTO in any region. 
+  - Incidents classified with either S1, P1, S2, or P2 should only be delegated to team members available in the current sunny region.
+  - All other incidents can be assigned to any team member not on PTO in any region.
 - Sometimes, team members are working on a high-priority assignment and are temporarily unavailable for delegation. If those team members get a delegation they should contact a manager to re-assign the incident.
 - The On-Call Engineer is the last failsave if no other team member is available to work on high-urgency incidents.
 
