@@ -17,12 +17,12 @@ We categorize their approval offering by two different funding qualifications:
 - Seed Stage: Less than $5 million USD in funding 
 - Early Stage: Greater than $5 million but less than $20 million USD
 
-Startups must submit proof of assocaition to a VC or accelerator fund, along with current funding status.
-The easiest way to obtain this information is a crunchbase, pitchbook, YC profile link, which should be submitted upon application.
+Startups must submit proof of association with a VC or accelerator fund, along with current funding status.
+The easiest way to obtain this information is a Crunchbase, PitchBook, or Y Combinator profile link, which should be submitted upon application.
 
 # Forms
 
-We use a Marketo form with the following fields:
+Our application is a Marketo form with the following fields:
 
 - First Name
 - Last Name
@@ -47,19 +47,21 @@ GitLab for Startups Program members are subject to the same terms and conditions
 
 # Verification Flow
 
-Here are some common workflows and how to qualify a Startup for the program:
+Here are some common workflows associated with managing the program, including qualifying a startup:
 
-1. Review application within Zendesk " Startups " view
+1. Review application within Zendesk "Startups" view
 
-Example: User Did not submit complete application 
-Zendesk Actions  
-Use Macro: "Funding Info"
-Salesforce action: 
+Scenario: User did not submit complete application  
+**Zendesk Actions**  
+Use macro: "Funding Info"  
+Thenm in Salesforce: 
+
 - 1. Open lead / contact in the ticket
 - 2. Ctrl F "Startups Program Status" 
 - 3. Change the status to Funding Docs Requested
 
 2. User Submitted application with link to crunchbase or funding Status (Complete Application)
+
 - What is their funding amount? If less than $5 Million USD they are deemed Seed Stage. 
 - *Seed Stage Flow*
 - 1. Use "Seed stage" Macro to send over welcome email to customer
@@ -83,6 +85,5 @@ Salesforce action:
  - 7. Once the AE has been confirmed handoff the customer via the Zendesk Ticket
 
 For more clarification regarding the Startups sales process please refer to this [highspot page](https://gitlab.highspot.com/items/6410e355fb9e0fe9d2823fcc?lfrm=irel.1#3)
-
 
 If they do not qualify, send them the [Startups:: Rejection macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#startups-startups-rejection) and offer to connect them to sales via the [Sales handoff process](/handbook/marketing/developer-relations/community-programs/community-program-applications/#handoff-process-to-sales).
