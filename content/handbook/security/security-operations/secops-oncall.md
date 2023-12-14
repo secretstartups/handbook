@@ -149,8 +149,8 @@ Delegation allows the team to spread the workload across the global team while m
 - Delegation rules:
   - Incidents classified with either S1, P1, S2, or P2 should only be delegated to team members available in the current sunny region.
   - All other incidents can be assigned to any team member not on PTO in any region.
-- Sometimes, team members are working on a high-priority assignment and are temporarily unavailable for delegation. If those team members get a delegation they should contact a manager to re-assign the incident.
-- The On-Call Engineer is the last failsave if no other team member is available to work on high-urgency incidents.
+- Sometimes, team members are working on a high-priority assignment and are temporarily unavailable for delegation. If those team members get a delegation, they should contact a manager to re-assign the incident.
+- The On-Call Engineer is the last resort if no other team member is available to work on high-urgency incidents.
 
 ### Triage Process
 
@@ -166,7 +166,7 @@ If the alert is not critical, you can assign it to another person in your timezo
 
 ## Incident Ownership
 
-Whoever is assigned to the incident after the initial triage, is the person responsible for incident resolution. Use the assignee field in the GitLab incident to identify the responsible person. In case of a priority 1 incidents, they should have one assignee per region. In these cases, the work should continue around the globe until the incident is contained and the priority lowered. In that case, the incident should go back to only having one assignee and DRI.
+Whoever is assigned to the incident after the initial triage is the person responsible for incident resolution. Use the assignee field in the GitLab incident to identify the responsible person. In case of a priority 1 incident, it should have one assignee per region. In these cases, the work should continue around the globe until the incident is contained and the priority lowered. In that case, the incident should go back to only having one assignee and DRI. When multiple people work on one incident, work is divided into tasks with their corresponding assignees. 
 
 Ownership of an incident means being the person responsible for:
 
@@ -175,7 +175,7 @@ Ownership of an incident means being the person responsible for:
 - Accurate and timely issue tracking and communication with stakeholders
 - Adequate handoffs and communications
 
-Being the responsible person does not imply being the sole person to act on these tasks. Hand-off at the end of an On-Call shift, or coordinated breaks during extended incidents, can temporarily assign  another person responsible for these tasks. To coordinate these hand-offs it's essential to equip the next person with all necessary details.
+Being the responsible person does not imply being the sole person to act on these tasks. Hand-off at the end of an On-Call shift, or coordinated breaks during extended incidents, can temporarily assign another person responsible for these tasks. To coordinate these hand-offs it's essential to equip the next person with all necessary details.
 
 ## Security Managers On-Call
 
@@ -184,7 +184,7 @@ In addition to the Security Engineers being On-Call, the Security Managers acros
 It's the responsibility of the Security Manager On-Call to:
 
 - Be available via mobile phone during their On-Call shift if the Security Engineer On-Call does not acknowledge a page.
-- Attempt to contact the Security Engineer On-Call to acknowledge the page. **Note: If Slack is not available or an alternative means of communication is required, PagerDuty has cell phone numbers of GitLab team members involved in the on-call process. GitLab also setup a Zoom channel (#Slack Down!) for a backup communications channel.**
+- Attempt to contact the Security Engineer On-Call to acknowledge the page. **Note: If Slack is not available or an alternative means of communication is required, PagerDuty has cell phone numbers of GitLab team members involved in the on-call process. GitLab also sets up a Zoom channel (#Slack Down!) as backup communication channel.**
 - If the Security Engineer On-Call is unresponsive, attempt to contact other Engineers to take on the page. Prioritize based on timezone and region.
 - In the event of a high-impact security incident to GitLab, the Security Manager On-Call will be engaged to assist with cross-team/department coordination.
 
