@@ -18,6 +18,8 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ### 2023-12-18 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/427))
 
+**[Clari Feature Updates](https://clari.my.site.com/customer/s/article/Deal-Risk-Momentum-Indicators)
+
 
 ### 2023-12-04 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/424))
 
