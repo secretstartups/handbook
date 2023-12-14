@@ -920,7 +920,7 @@ For data sources extracted by Stitch (see extraction table [on the platform page
 
 #### Key based replication tables
 
-For Salesforce, where the connection is running key based incremental extractions, the table is best reset using the `reset table` feature under table settings. Simply put, this will truncate the table in `RAW` and reload/refresh all the data with a complete extract. Stitch manages this appropriately such that there is little disruption to the table in `RAW.SALESFORCE_STITCH`
+For Salesforce, where the connection is running key based incremental extractions, the table is best reset using the `reset table` feature under table settings. Simply put, this will truncate the table in `RAW` and reload/refresh all the data with a complete extract. Stitch manages this appropriately such that there is little disruption to the table in `RAW.SALESFORCE_V2_STITCH`
 
 ![stitch_reset_table.png](stitch_reset_table.png)
 
