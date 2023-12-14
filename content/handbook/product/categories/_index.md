@@ -331,7 +331,7 @@ Maybe we should make our features easier to search to replace the section below.
 ### Other functionality in [Engineering Productivity](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/)
 - [GDK](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/gdk/)
 
-### Other functionality in [Quality Engineering](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/)
+### Other functionality in [Test Platform](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/)
 - [Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/)
 - [GitLab Environment Toolkit (GET)](https://gitlab.com/gitlab-org/gitlab-environment-toolkit)
 - [GitLab Performance Tool (GPT)](https://gitlab.com/gitlab-org/quality/performance)
