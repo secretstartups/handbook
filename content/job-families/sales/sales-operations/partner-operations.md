@@ -165,6 +165,33 @@ The Partner Experience Manager is a [grade 8](/handbook/total-rewards/compensati
 - Interest in using GitLab
 - Shares GitLab’s [values](/handbook.gitlab.com/handbook/values/) and works in accordance with those values
 
+### Senior Manager, Global Partner Specialists
+
+The Senior Manager, Global Partner Specialists reports to the Director, Partner Operations
+
+#### Senior Manager, Global Partner Specialists Job Grade
+
+The Senior Manager, Global Partner Specialists is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Manager, Global Partner Specialists Responsibilities
+
+- Extends that of Manager, Global Partner Specialists Responsibilities
+- Develop, document, launch, and enable teams on new processes that support our long-term partner sales and services strategy in FY25 and beyond
+- Drive operationalization of short-term partner GTM initiatives and pilots from idea to execution including building, launching, iterating, and expanding upon success globally with efficient and scalable processes
+- Measure the ROI of new partner GTM initiatives and leverage it to effectively communicate positive business outcomes and drive further investment
+- Engage with Product, Marketing, Finance, and Enablement teams on GitLab revenue plays and special projects to ensure partner requirements are included in the initial scoping and design to drive successful partner outcomes
+
+#### Senior Manager, Global Partner Specialists Requirements
+
+- Extends that of the Manager, Global Partner Specialists Requirements
+- Demonstrate progressive experience managing individual contributor performance to lead successful teams
+- Proven ability to delegate initiatives and drive results through team performance
+- Experience working directly with sales/partner sales teams and partners at leadership and individual contributor levels
+- Deep SFDC expertise and knowledge of partner management systems (e.g., Partner Portal) and enterprise SaaS tools
+- Proven ability to work cross-functionally with internal teams to lead and contribute to projects
+- Interest in GitLab, and open source software
+- Shares GitLab’s [values](/handbook.gitlab.com/handbook/values/) and works in accordance with those values
+
 ### Senior Manager, Partner Operations
 
 The Senior Manager, Partner Operations reports to the Director, Partner Operations
@@ -213,7 +240,6 @@ The Director, Partner Operations is a [grade 10](/handbook/total-rewards/compens
 
 #### Director, Partner Operations Responsibilities
 
-- Extends that of the Director, Sales Operations Responsibilities
 - Drive recruiting of a world-class team at all levels
 - Motivate and communicate across multiple levels of their department
 - Ensure the handbook is used and relevant references are maintained in a transparent way
