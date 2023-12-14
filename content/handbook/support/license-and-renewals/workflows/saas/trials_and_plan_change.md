@@ -30,9 +30,10 @@ Once the form has been submitted, the L&R Support Engineer should follow the wor
 
 #### Workflow caveats
 
-- For all trial extensions, the renewal start date must align with the end date of the prior subscription term therefore requests for Ultimate trial extensions with the purpose of extending ahead of the renewal date should be denied. It is GitLab policy to align renewal dates with the end of the prior subscription term.
+- For all trials, the renewal start date must align with the end date of the prior subscription term therefore requests for Ultimate trials with the purpose of extending ahead of the renewal date should be denied. It is GitLab policy to align renewal dates with the end of the prior subscription term.
 - Currently GitLab.com Ultimate trials cannot be extended. Once the trial period has elapsed the `Apply Ultimate Trial` button may be displayed again if the namespace remains on Premium after expiration, however pressing the button will not work, as namespaces can only have one trial. This is a known limitation which will be addressed in future versions.
 - GitLab.com trials are only available for the GitLab Ultimate Subscription plan.
+- GitLab.com Premium to Ultimate subscription trials are handled similarly to regular trials regarding namespace eligibility. Therefore if a namespace previously underwent a trial (e.g. prior to being upgraded to a Premium subscription), attempting to initiate an Ultimate trial will be unsuccessful, as we only permit one trial per namespace.
 
 ## Extending trials
 
