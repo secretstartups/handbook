@@ -37,4 +37,4 @@ Twitter and LinkedIn are great platforms for engaging with our users and sometim
 - If a research project is currently underway and the feedback appears to be around the same topic, you can use it as an additional set of data to help triangulate the data from the research project.
 - As a follow-up, request the person providing feedback to sign-up for [GitLab First Look](https://about.gitlab.com/community/gitlab-first-look/) and also share the relevant issuable template, depending if it is a feature request or a bug, so they could easily create an issue around their feedback.
 
-For more information around the guidelines for engagement on social media platforms, visit the [Team Member Social Media Policy and Guidelines](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/) page.
+For more information around the guidelines for engagement on social media platforms, visit the [Team Member Social Media Policy and Guidelines](/handbook/marketing/team-member-social-media-policy/) page.

@@ -13,20 +13,20 @@ description: "A page containing links to helpful CI resources for the CSM team a
 
 ## Discovery Questions
 
-1. Robust list of initial discovery questions to help better understand the customer use case: [Public Handbook Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#discovery-questions)
+1. Robust list of initial discovery questions to help better understand the customer use case: [Public Handbook Page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#discovery-questions)
 
 ## Quickstart Guides
 
 1. Supplemental Resource: CI/CD Quickstart - Premium: [Public-Facing Page](https://gitlab.highspot.com/viewer/63bf4994dc979c98f1d3e832?)
-   - To [create personalized Highspot Pitches using Styles and Templates](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/#how-to-create-pitches-using-existing-pitch-style-and-pitch-template-combos), refer to the following components:
+   - To [create personalized Highspot Pitches using Styles and Templates](/handbook/sales/field-communications/gitlab-highspot/#how-to-create-pitches-using-existing-pitch-style-and-pitch-template-combos), refer to the following components:
      - **Premium version:**
        - [Pitch Template](https://gitlab.highspot.com/items/63cb7a037d574a107f4e6001?lfrm=srp.2)
        - [Pitch Style](https://gitlab.highspot.com/items/6389983b85763c84b2ed3b8d?lfrm=srp.1)
      - **Ultimate version:**
        - [Pitch Template](https://gitlab.highspot.com/items/64d9afedc17499f9125f9ca3?lfrm=srp.1)
        - [Pitch Style](https://gitlab.highspot.com/items/63ca2a7a7d574a620e8b41e0?lfrm=srp.0)
-2. DevOps Solution Resource: Continous Integration: [Public Handbook Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#sample-discovery-questions)
-3. CI Workshop Planning Overview: [Public Handbook Page](https://about.gitlab.com/handbook/customer-success/workshops/ci-workshop.html)
+2. DevOps Solution Resource: Continous Integration: [Public Handbook Page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#sample-discovery-questions)
+3. CI Workshop Planning Overview: [Public Handbook Page](/handbook/customer-success/workshops/ci-workshop.html)
 
 ## Migrating to GitLab
 
@@ -58,7 +58,7 @@ Jenkins to GitLab
 1. Runner Overview: [Link to Deck](https://gitlab.highspot.com/items/64cadeb868936bb54ac9ce2f#)
 
 1. Webinars (Informational & Hands-On):
-     - [Monthly Webinar Calendar](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/)
+     - [Monthly Webinar Calendar](/handbook/customer-success/csm/segment/scale/webinar-calendar/)
 
 
 ## Product Features or Enhancements Coming Soon That Will Accelerate CI setup and adoption:

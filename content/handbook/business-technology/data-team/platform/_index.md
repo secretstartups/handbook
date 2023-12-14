@@ -145,7 +145,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Time Off by Deel](https://www.deel.com/engage/pto) | Snowpipe | `pto` | `gitlab_pto` | Engineering Productivity / People | 7 days / x | No | Tier 3 |
 | [Qualtrics](https://www.qualtrics.com/) | Airflow | `qualitrics` | `qualtrics` | Marketing | 12h / 48h | No | Tier 2 |
 | [SaaS Service Ping](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) | Airflow | `saas_usage_ping` | `saas_usage_ping` | Product | 1 week / x | No | Tier 1 |
-| [Salesforce](https://www.salesforce.com/) | Stitch | `salesforce_stitch` | `sfdc` | Sales | 6h / 24h | Yes | Tier 1 |
+| [Salesforce](https://www.salesforce.com/) | Stitch | `salesforce_v2_stitch` | `sfdc` | Sales | 6h / 24h | Yes | Tier 1 |
 | SheetLoad | SheetLoad | `sheetload` | `sheetload` | Multiple | 24h / 48h | Yes | Tier 1 |
 | [Snowplow](https://snowplowanalytics.com/) | Snowpipe | `snowplow` | `snowplow` | Product | 15m / 24h | No | Tier 1 |
 | [Thanos](https://thanos-query.ops.gitlab.net/graph) | Snowflake Task | `prometheus` | `prometheus` | Engineering | 24 h / x | No | Tier 3 |
@@ -859,7 +859,7 @@ The [Email Data Mart](/handbook/business-technology/data-team/data-catalog/email
 
 #### Trusted Data Model to Gainsight
 
-The [Data Model to Gainsight Pump](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/) is designed to automatically power updates to Gainsight to enable creation of visualizations, action plans, and strategies for Customer Success to help our customers succeed in their use of GitLab.
+The [Data Model to Gainsight Pump](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/) is designed to automatically power updates to Gainsight to enable creation of visualizations, action plans, and strategies for Customer Success to help our customers succeed in their use of GitLab.
 
 #### Qualtrics Mailing List Data Pump / Qualtrics SheetLoad
 
@@ -955,12 +955,12 @@ There are 3 types of objects available in Google Data Studio:
 
 The sharing and access process in Data Studio is comparable to sharing in Google Drive / Google Docs. Google Studio Objects can be shared with individuals in our GitLab organization account or with the Organization as a whole. There are no group or role level permissions available. Given the decentralized quality of managing dashboards and data sources in Data studio it is advised that business critical data and reporting be eventually migrated to Snowflake and Sisense. This is made easy with the use of [sheetload](/handbook/business-technology/data-team/platform/pipelines/#sheetload) or FiveTran, which has a BigQuery connector.
 
-A GitLab Team Member that creates any artifacts in Google Studio owns the owner permissions of that particular object. With the ownership the GitLab Team Member holds responsibility to keep data [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) within GitLab and outside the organization. Google Data Studio currently doesn't provide an admin interface that can take over the ownership. Upon off-boarding any ownership of existing objects should be carried over to ensure business continuity by the respective object owner. Note that [Red Data](/handbook/security/data-classification-standard.html#red) should never be stored or transmitted within Google Data Studio.
+A GitLab Team Member that creates any artifacts in Google Studio owns the owner permissions of that particular object. With the ownership the GitLab Team Member holds responsibility to keep data [SAFE](/handbook/legal/safe-framework/) within GitLab and outside the organization. Google Data Studio currently doesn't provide an admin interface that can take over the ownership. Upon off-boarding any ownership of existing objects should be carried over to ensure business continuity by the respective object owner. Note that [Red Data](/handbook/security/data-classification-standard.html#red) should never be stored or transmitted within Google Data Studio.
 
 
 ## Sales Analytics Notebooks
 
-The [Sales Analytics](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/) have a couple (but expanding) list of regular update processes that will benefit from being able to be run automatically without human intervention.
+The [Sales Analytics](/handbook/sales/field-operations/sales-strategy/) have a couple (but expanding) list of regular update processes that will benefit from being able to be run automatically without human intervention.
 
 Some of those are:
 1. **X-Ray fitted curves calculation:** Quarterly process that create a table with fitted curves to historical coverage ratios. This data is used within the X-Ray dashboard.
@@ -1044,7 +1044,7 @@ The `gCloud SERVICE ACCOUNT` requires  `Google Workspace Delegated Admin` permis
 
 ## Sales Systems Use-Case: Using the Snowflake API
 
-The [Sales Systems](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/) team needs to run the same query several times per day against Snowflake and load that data into Salesforce.
+The [Sales Systems](/handbook/sales/field-operations/sales-systems/) team needs to run the same query several times per day against Snowflake and load that data into Salesforce.
 
 The data team provided an API user so the Sales Analytics team can automate this process, instead of manually downloading the data and uploading it into Salesforce.
 More detail on this use-case can be found in the original issue [#15456](https://gitlab.com/gitlab-data/analytics/-/issues/15456).

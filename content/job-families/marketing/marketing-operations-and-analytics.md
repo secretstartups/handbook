@@ -35,7 +35,7 @@ The Senior Director, Marketing Operations and Analytics is a [grade 11](/handboo
 - Experience with marketing attribution models.
 - Experience in analyzing, experimenting and driving results in marketing websites.
 - Ability to think strategically, but also have exceptional attention to detail to drive program management and execution
-- Familiarity with our [tech stack](https://about.gitlab.com/handbook/marketing/marketing-operations/#-tech-stack) is a strong plus
+- Familiarity with our [tech stack](/handbook/marketing/marketing-operations/#-tech-stack) is a strong plus
 - Experience with SQL, Tableau, and/or similar analytical packages a plus
 - Ability to conduct sophisticated and creative analysis, yet translate those results to easily digestible messages, communications, and presentations
 - Interest in GitLab, and open source software
@@ -65,7 +65,7 @@ The VP, Marketing Operations and Analytics is a [grade 12](/handbook/total-rewar
 
 ## Performance Indicators
 
-- [Total number of SAOs by month](https://about.gitlab.com/handbook/marketing/performance-indicators/#total-number-of-mqls-by-month)
+- [Total number of SAOs by month](/handbook/marketing/performance-indicators/#total-number-of-mqls-by-month)
 - INQ to SAO conversion rate
 - Marketing influenced pipeline
 

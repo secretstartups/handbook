@@ -29,19 +29,19 @@ For example, we should have one SSoT for how to articulate the value of GitLab.
 1. [Interview scoring]({{< ref "hiring-manager#step-12hm-complete-feedback-in-greenhousenext-steps" >}})
 1. [Promotion criteria]({{< ref "promotions-transfers" >}})
 1. [9 box assessments](https://www.predictivesuccess.com/blog/9-box/)
-1. [Performance/Potential criteria]({{< ref "talent-assessment#the-performancegrowth-potential-matrix" >}})
-1. [Succession planning]({{< ref "talent-assessment#succession-planning" >}})
+1. [Performance/Potential criteria]({{< ref "/handbook/people-group/talent-assessment#the-performancegrowth-potential-matrix" >}})
+1. [Succession planning]({{< ref "/handbook/people-group/talent-assessment#succession-planning" >}})
 1. [Learning and development]({{< ref "/handbook/people-group/learning-and-development" >}})
 1. [PDPs/PIPs]({{< ref "underperformance" >}})
 1. [Career development]({{< ref "career-development" >}})
 1. [360 reviews]({{< ref "360-feedback" >}})
-1. [Sales training](https://about.gitlab.com/handbook/sales/training/)
-1. [Sales enablement sessions](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/)
-1. [Field enablement](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/)
+1. [Sales training](/handbook/sales/training/)
+1. [Sales enablement sessions](/handbook/sales/training/sales-enablement-sessions/)
+1. [Field enablement](/handbook/sales/field-operations/field-enablement/)
 1. [GitLab Training tracks](https://about.gitlab.com/learn/)
 1. [GitLab University](https://docs.gitlab.com/ee/university/)
-1. [Customer Success Skills Exchange Sessions](https://about.gitlab.com/handbook/sales/training/customer-success-skills-exchange/)
-1. [Professional services offerings](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/framework/#service-offering-framework/)
+1. [Customer Success Skills Exchange Sessions](/handbook/sales/training/customer-success-skills-exchange/)
+1. [Professional services offerings](/handbook/customer-success/professional-services-engineering/framework/#service-offering-framework/)
 1. [Onboarding]({{< ref "general-onboarding" >}}) both general and department specific
 1. [Learn@GitLab](https://about.gitlab.com/learn/)
 1. [Customer Success GitLab Demos platform & catalog](https://gitlabdemo.com/)
@@ -95,7 +95,7 @@ In addition to the knowledge assessments for each value, you can take this [Know
 ### Remote Work Competencies
 
 1. [Manager of One]({{< ref "leadership#managers-of-one" >}})
-1. [Effective Communication]({{< ref "communication#effective-communication-competency" >}}) : includes Working async: [Why](/handbook/company/culture/all-remote/asynchronous/) and [How]({{< ref "communication" >}}), Well written artifacts, [Single Source of Truth]({{< ref "documentation#documentation-is-the-single-source-of-truth-ssot" >}}) and [Producing video](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/)
+1. [Effective Communication]({{< ref "communication#effective-communication-competency" >}}) : includes Working async: [Why](/handbook/company/culture/all-remote/asynchronous/) and [How]({{< ref "communication" >}}), Well written artifacts, [Single Source of Truth]({{< ref "documentation#documentation-is-the-single-source-of-truth-ssot" >}}) and [Producing video](/handbook/marketing/marketing-operations/youtube/)
 1. [Handbook first]({{< ref "handbook-usage#handbook-first-competency" >}})
 1. [Using GitLab]({{< ref "using-gitlab-at-gitlab#using-gitlab-competency" >}})
 
@@ -103,7 +103,7 @@ Test your knowledge and self-reflect on the Remote Work Competencies by completi
 
 ### Functional Competencies
 
-1. [Field Competencies](https://about.gitlab.com/handbook/sales/training/field-functional-competencies/)
+1. [Field Competencies](/handbook/sales/training/field-functional-competencies/)
 1. [Engineering Competencies](https://about.gitlab.com/handbook/engineering/career-development/matrix/engineering/)
 1. [Product Management Competencies](/handbook/product/product-manager-role/product-CDF-competencies/)
 

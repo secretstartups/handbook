@@ -1,21 +1,7 @@
 ---
-aliases: /handbook/marketing/developer-relations/contributor-success/contributing-org-tracker.html
 title: "How to recognize organizations within the contributor ecosystem for GitLab"
 description: Learn how to add and maintain usernames to organizations for recognition and award purposes within GitLab
 ---
-
-
-
-
-
-
-
-
-
-
-- - -
-
-# How to recognize organizations within the contributor ecosystem for GitLab
 
 Learn how to add and maintain usernames to organizations for recognition and award purposes within GitLab
 
@@ -44,7 +30,7 @@ In our BI tooling, this tab can be found as `legacy.sheetload_gitlab_contributin
 
 ### Leading Organization
 
-Each organization known to GitLab to have been onboarded in the [Leading Organization](https://about.gitlab.com/handbook/marketing/developer-relations/leading-organizations/) program is listed here, including the start date and the potential exit date.
+Each organization known to GitLab to have been onboarded in the [Leading Organization](/handbook/marketing/developer-relations/leading-organizations/) program is listed here, including the start date and the potential exit date.
 
 It includes individuals that are not known in our Salesforce system, but still qualify for getting the benefits such as the Review Time SLO. The type of this column is a boolean.
 

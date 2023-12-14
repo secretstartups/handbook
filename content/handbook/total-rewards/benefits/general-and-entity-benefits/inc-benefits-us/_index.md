@@ -596,7 +596,7 @@ $20.90 per month
 
 - [Mobile Arag Legal App Flyer](https://drive.google.com/file/d/1MGpQ6C-uNwRZS3VrUkuTZ4d6vkIqNmOk/view?usp=sharing)
 - [Common Legal Needs ARAG can assist with](https://drive.google.com/file/d/1bFdnlVxmIzJ5Rixu94643AjwkZD-7OrB/view?usp=sharing)
-- [ARAG learning Center (Resources for ALL team members)](https://drive.google.com/drive/folders/1GRepiRZGrLWZTbmt8Tz-zP-XMgPo89Nm)
+- [ARAG learning Center (Resources for ALL team members)](https://drive.google.com/file/d/1_91UohgMqY-fjRuQlTzISuKwXdVSdLNJ/view?usp=sharing)
 - [ARAG FAQ](https://drive.google.com/file/d/1x9MJVttezz0KOvW2IZXIkY7qtkIMk8p7/view?usp=sharing)
 - [Diversity, Equity, and Inclusion Benefits](https://drive.google.com/file/d/1HnfzAbxs-T1yx_r4vBmmUPaLIdQc9YEq/view?usp=sharing)
 
@@ -658,7 +658,7 @@ The company offers a 401k plan in which you may make voluntary pre-tax contribut
 1. Any changes to your plan information will be effective on the next available payroll.
 1. Once inside the platform you may elect your annual/pay-period contributions and investments.
 1. If you have any questions about making changes to your elections, we recommend that you reach out to Fidelity directly, by chat in the app, or by phone at 800-835-5097.
-1. Please review the [Summary Plan Document](https://drive.google.com/file/d/14ZlAZwIhoTILt5_TBeXemA6XBjsdznL1/view?usp=sharing), [QDIA](https://drive.google.com/file/d/1dYIe2NRFCNeOY843KfSyMUhJiLuGGTXg/view?usp=sharing), [Fee Disclosure](https://drive.google.com/file/d/138hjLkXsQ0tdCCqoC-iWnaydkl33GdLn/view?usp=sharing). If you have any questions about the plan or the documents, please reach out to Total Rewards at `total-rewards@gitlab.com`. Total Rewards is not able to advise you on your financial decisions.
+1. Please review the [Summary Plan Document](https://drive.google.com/file/d/1I8JrLhxBH7rGBjfztsRyrjdhQXINQpBe/view?usp=sharing), [QDIA](https://drive.google.com/file/d/1dYIe2NRFCNeOY843KfSyMUhJiLuGGTXg/view?usp=sharing), [Fee Disclosure](https://drive.google.com/file/d/138hjLkXsQ0tdCCqoC-iWnaydkl33GdLn/view?usp=sharing). If you have any questions about the plan or the documents, please reach out to Total Rewards at `total-rewards@gitlab.com`. Total Rewards is not able to advise you on your financial decisions.
 1. ADP payroll system monitors and will stop the 401(k) contribution when you have reached the IRS limit for the year. Please keep in mind, if you have prior contributions from another employer, ADP will not have access to this information.
 1. If your employment with GitLab terminates and you are unable to access your Fidelity account due to this being connected to your GitLab email, please contact Fidelity at 800-835-5097 to have the email address on file updated.
 

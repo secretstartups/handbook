@@ -14,7 +14,7 @@ description: Welcome to the Commercial Sales Enablement Handbook Page
 
 ### Commercial Field Certification - Required 7
 
-To improve sales efficiency & predictability as well as excellence in role, the Field Enablement Team has developed a Field Certification program. The focus of this certification path for Commercial AEs is specific to the [Required 7](https://about.gitlab.com/handbook/sales/commercial/#required-7).  All AE's are expected to complete this certification path after completing [Sales and Customer Success Onboarding.](https://about.gitlab.com/handbook/sales/onboarding/) All courses and learner assets are listed below:
+To improve sales efficiency & predictability as well as excellence in role, the Field Enablement Team has developed a Field Certification program. The focus of this certification path for Commercial AEs is specific to the [Required 7](/handbook/sales/commercial/#required-7).  All AE's are expected to complete this certification path after completing [Sales and Customer Success Onboarding.](/handbook/sales/onboarding/) All courses and learner assets are listed below:
 
 | Title | Learning Objective | Duration |
 | ----- | ------------------ | -------- |
@@ -80,7 +80,7 @@ With all the uncertainty around Covid-19, we have developed a process to capture
 
 - [Commercial Sales: Tiering Accounts Training Clippet](https://youtu.be/M-5OhlYxmFI)
 
-For more details visit the [Account Ranking](https://about.gitlab.com/handbook/sales/commercial/#account-ranking) section on the Commercial Sales Handbook page.
+For more details visit the [Account Ranking](/handbook/sales/commercial/#account-ranking) section on the Commercial Sales Handbook page.
 
 ### Getting into Accounts That Say They Don't Have a Problem
 
@@ -219,7 +219,7 @@ Understand the importance of customer health checks to create lasting relationsh
 
 **Renewal (Day 270-365)**:  At this stage in the customer journey, there is full application of GitLab products and development is underway.  The objective in this stage is to enable the customer to get additional value from the platform and stay current on project timelines.  
 - Day 270 call - conduct initial renewal meeting. Review key stats - GL license utilization, company sentiment, product utilization, additional areas would like to evaluate (ultimate or services) and proposed user count/tier for upcoming renewal
-     - Use the renewal call checklist/deck provided to conduct initial renewal call: [EBR Template](https://about.gitlab.com/handbook/customer-success/csm/ebr/#impact-questions)
+     - Use the renewal call checklist/deck provided to conduct initial renewal call: [EBR Template](/handbook/customer-success/csm/ebr/#impact-questions)
 - Schedule follow up calls accordingly based on initial renewal call to allow customer time to eval additional features, get user count, procurement or legal processes worked out
 - Day 365 successful renewal
 
@@ -230,6 +230,6 @@ For more specific step by step processes, see below for links to individual role
 [SMB Pooled]
 [SMB First Year Expand]
 [SMB Named]
-[MM Territory](https://about.gitlab.com/handbook/sales/commercial/#customer-journey-1)
-[MM Named](https://about.gitlab.com/handbook/sales/commercial/#customer-journey-1)
+[MM Territory](/handbook/sales/commercial/#customer-journey-1)
+[MM Named](/handbook/sales/commercial/#customer-journey-1)
 

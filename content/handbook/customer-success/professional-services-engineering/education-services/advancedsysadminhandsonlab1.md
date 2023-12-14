@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/education-services/advancedsysadminhandsonlab1.html
 title: "GitLab Advanced System Admin Hand-on Guide: Lab 1"
 description: "This Hands-on lab guide is designed to walk you through the lab exercises used in the GitLab Advanced System Administration course."
 ---

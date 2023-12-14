@@ -35,8 +35,8 @@ You can reference the ABM Key Account List using te `ABM Tier` field on the acco
 - [SSoT Demandbase List](https://web.demandbase.com/o/d/a/l/261406/l/)
 
 The list will be determined by Sales Reps and Sales Leadership:
-- [Tier 1 (1:1 ABM strategy aka "white glove")](https://about.gitlab.com/handbook/marketing/account-based-marketing/key-account-lists/#fo-key-accounts-tier-1)
-- [Tier 2 (1:many ABM strategy aka "scaled ABM")](https://about.gitlab.com/handbook/marketing/account-based-marketing/key-account-lists/#fo-key-accounts-tier-2)
+- [Tier 1 (1:1 ABM strategy aka "white glove")](/handbook/marketing/account-based-marketing/key-account-lists/#fo-key-accounts-tier-1)
+- [Tier 2 (1:many ABM strategy aka "scaled ABM")](/handbook/marketing/account-based-marketing/key-account-lists/#fo-key-accounts-tier-2)
 
 ### Why two tiers?
 

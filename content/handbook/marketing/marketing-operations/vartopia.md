@@ -1,23 +1,12 @@
----
-
-title: "Vartopia"
-description: "Partner Deal Registration"
----
-
-
-
-
-
-
 
 # Vartopia Overview
 
-Vartopia is a partner lead sharing and deal registration system designed to maximize the value of [GitLab partner program](https://about.gitlab.com/handbook/resellers/) for channel partners. Vartopia offers multiple module including Prospects, Deal Registration, Account Mapping and Campaign. Partner lead sharing is part of the Prospects module, while deal registration is part of the New Registration and Registrations module. Watch [this video](https://youtu.be/BmmiH_ctALk) for step-by-step instructions on where partners can view, accept, reject, assign and convert leads to deal registration.
+Vartopia is a partner lead sharing and deal registration system designed to maximize the value of [GitLab partner program](/handbook/resellers/) for channel partners. Vartopia offers multiple module including Prospects, Deal Registration, Account Mapping and Campaign. Partner lead sharing is part of the Prospects module, while deal registration is part of the New Registration and Registrations module. Watch [this video](https://youtu.be/BmmiH_ctALk) for step-by-step instructions on where partners can view, accept, reject, assign and convert leads to deal registration.
 
 # Prospects Module
 
 ## Channel Partner Lead Flow Overview
-Channel Partners can work with the Channel Marketing team to create campaigns that will be shared to the Vartopia Prospects module. The [campaign types](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#types-of-partner-campaigns) include Partner sponsored, MDF funded, free trial and joint partner campaign. 
+Channel Partners can work with the Channel Marketing team to create campaigns that will be shared to the Vartopia Prospects module. The [campaign types](/handbook/marketing/channel-marketing/partner-campaigns/#types-of-partner-campaigns) include Partner sponsored, MDF funded, free trial and joint partner campaign. 
 
 The flow starts from Marketo > Salesforce > Traction > Vartopia.
 
@@ -161,11 +150,13 @@ Follow the steps to create a report that summarizes new leads that are assigned 
 
 The Campaign module is an independent module from Prospects. The purpose of this module is to be able to link campaigns to deal registration and track and measure the effectiveness of partner campaigns.
 
-Upon deal registration creation, when Vartopia recognizes that a lead is matched to a campaign, a field called `GitLab Marketing Campaign` will be prompted and the partner must select the campaign that influenced that deal registration. 
+Upon deal registration creation, when Vartopia recognizes that a lead is matched to a campaign, a field called `GitLab Marketing Campaign` will be prompted and the partner must select the campaign that influenced that deal registration.
+
+Campaign will be synced to Vartopia starting September 27, 2023 (module launch date) and they will be removed after 6 quarters.
 
 ## Process
 
-1. Allocadia - select the `Channel Partner Name` in the campaign detail panel (Future state: Salesforce will take the Channel Partner Name and populate it into Partner Account).
+1. Allocadia - select the `Channel Partner Name` in the campaign detail panel 
 2. Marketo - input the subcategory ID into the Marketo program description.
 3. Marketo - sync the program to the SFDC campaign.
 4. Salesforce - create SFDC campaign with `Sync to Vartopia` and `Partner Account` (automated). `Partner Account` will pull from `Channel Partner Name`, so Channel Partner Name needs to be an exact match to the Partner Account for the automation to work.
@@ -225,6 +216,20 @@ There are two path that partners can access the `GitLab Marketing Campaign` fiel
   1. `GitLab Marketing Campaign` is a required field
   1. The best practice is to select the marketing campaign.
   1. But, If the deal reg was not influenced by a marketing campaign, select `Not Applicable`.
+
+## Deal Registration Change Request
+
+In the scenario where the `GitLab Marketing Campaign` needs to be added, updated or removed, the marketing team will need to create a Marketing Ops issue using the [pntr_dr_campaign_request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=ptnr_dr_campaign_request) template.
+
+The following will be required in this change request:
+1. Identify the DR(s) that need to be updated with proof of campaign member or touchpoint
+2. Marketing Ops will verify DR(s)
+3. Partner Marketing team Approval
+4. Marketing Ops to add GitLab Marketing Campaign
+
+Note, that only Campaign after September 27 (launch date) will be approved.
+
+This is a [video recording](https://youtu.be/_t98rC1ug6A) should you need a visual capture of how to create the change request.
 
 ## Use Case for Distributors
 

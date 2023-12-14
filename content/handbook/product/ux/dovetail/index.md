@@ -49,7 +49,7 @@ The following video demonstrates how to use the import feature and how to struct
 
 Dovetail helps you identify patterns and themes that emerge across your research data and turn those into insight statements. Once you have imported all your raw data, you are ready to start highlighting and tagging content. Think of a highlight as anything interesting that you heard or observed during a research session (for example: a user's pain point or motivation). Tag highlights with the feature/area of GitLab to which the highlight relates (for example, ‘Merge Requests’) and the persona (for example, ‘Sasha: Software Developer’) who made the comment, if possible.
 
-A bit like [affinity mapping](https://en.wikipedia.org/wiki/Affinity_diagram), tags in Dovetail help you identify and keep track of patterns that emerge across your research data. A single highlight can have one or many tags associated with it. More help can be found on our [Analyzing and synthesizing user data](/handbook/product/ux/ux-research/analyzing-research-data/)handbook page.
+A bit like [affinity mapping](https://en.wikipedia.org/wiki/Affinity_diagram), tags in Dovetail help you identify and keep track of patterns that emerge across your research data. A single highlight can have one or many tags associated with it. More help can be found on our [Analyzing and synthesizing user data](/handbook/product/ux/ux-research/analyzing-research-data/) handbook page.
 
 #### Enable Global Tags in your Project
 
@@ -190,7 +190,7 @@ Gitlab Global Tags are organized into six categories:
 | Delaney, Development Team Lead | Participant’s role or tasks match with [Delaney](/handbook/product/personas/#delaney-development-team-lead). |
 | Presley, Product Designer | Participant’s role or tasks match with [Presley](/handbook/product/personas/#presley-product-designer). |
 | Sasha, Software Developer | Participant’s role or tasks match with [Sasha](/handbook/product/personas/#sasha-software-developer). |
-| Devon, DevOps Engineer | Participant’s role or tasks match with [Devon](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/persona-snippets/user-personas/devon/). |
+| Devon, DevOps Engineer | Participant’s role or tasks match with [Devon](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/persona-snippets/user-personas/devon/). |
 | Sidney, Systems Administrator | Participant’s role or tasks match with [Sidney](/handbook/product/personas/#sidney-systems-administrator). |
 | Rachel, Release Manager | Participant’s role or tasks match with [Rachel](/handbook/product/personas/#rachel-release-manager). |
 | Simone, Software Engineer in Test | Participant’s role or tasks match with [Simone](/handbook/product/personas/#simone-software-engineer-in-test). |

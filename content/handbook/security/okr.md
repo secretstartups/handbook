@@ -4,7 +4,7 @@ title: "Security OKRs"
 
 ## Security OKRs
 
-The Security organization executes quarterly [Objectives and Key Results or OKRs]({{< ref "okrs" >}}).
+The Security organization executes quarterly [Objectives and Key Results or OKRs]({{< ref "/handbook/company/okrs" >}}).
 
 ### How We Plan, Assign, and Execute Work
 
@@ -12,7 +12,7 @@ Four Mondays before the start of the fiscal quarter, in the days after the CEO s
 
 From FY24 Q1 forward all Security OKRs are documented in the [GitLab OKR project](https://gitlab.com/gitlab-com/gitlab-OKRs). For easy filtering, all Security Objective and KR issues have [Label = Division: Security](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Division%3A%20Security&first_page_size=100) applied.
 
-Larger initiatives that span the scope of multiple teams or projects may require a [Working Group]({{< ref "working-groups" >}}).
+Larger initiatives that span the scope of multiple teams or projects may require a [Working Group]({{< ref "/handbook/company/working-groups" >}}).
 
 KRs must be defined as SMART Goals, and have to have definition of done.
 
@@ -66,8 +66,8 @@ Being a DRI for a KR includes:
 
 ## Milestones
 
-- [ ] Milestone 1: Description: `add here` Due Date: `add here` DRI: `add here`
-- [ ] Milestone 2: Description: `add here` Due Date: `add here` DRI: `add here`
+- [ ] Milestone 1: Description: `add here` DRI: `add here`
+- [ ] Milestone 2: Description: `add here` DRI: `add here`
 - etc.
 ```
 
@@ -84,11 +84,11 @@ Field updates:
 
 ## What was accomplished this week
 
-- 
+-
 
 ## What will be accomplished next week
 
-- 
+-
 ```
 
 With `YYYY-MM-DD` being the beginning of the week (Monday, even if this day if a holiday or a Family and Friends day).

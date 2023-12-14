@@ -19,7 +19,7 @@ twitter_creator: "@gitlab"
 This page focuses on emails processes, owned and managed by Lifecycle Marketing, Marketing Campaigns, and Marketing Operations.
 
 
-**Related Handbook: [Email Management](https://about.gitlab.com/handbook/marketing/marketing-operations/email-management/)**
+**Related Handbook: [Email Management](/handbook/marketing/marketing-operations/email-management/)**
 
 
 ## GitLab Email Calendar
@@ -38,7 +38,7 @@ Due to limited seats, we will be providing 1-2 seats per team on the calendar. P
 
 **Process to add emails to the calendar:**
 
-[Email issue templates](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/#issue-templates), in Campaigns, Marketing Ops, Corporate Marketing, and Field Marketing projects, will have the ~email-calendar label on them which will automatically add emails to the calendar. If your issue does not have the ~email-calendar label, please add it to ensure visibility for the calendar. 
+[Email issue templates](/handbook/marketing/lifecycle-marketing/#issue-templates), in Campaigns, Marketing Ops, Corporate Marketing, and Field Marketing projects, will have the ~email-calendar label on them which will automatically add emails to the calendar. If your issue does not have the ~email-calendar label, please add it to ensure visibility for the calendar. 
 
 Steps to add to the Asana calendar:
 * Ensure the label for "email-calendar" is added to your issue.
@@ -82,7 +82,7 @@ Below are the information from the issue template that will need to be filled ou
 - **Subject Line**: 50 character max is preferred (30-40 characters for mobile devices)
 - **Email Body Copy**: Can be a text snippet within issue, clearly identified comment on issue or attach a Google Doc with copy. The copy must be approved before requesting the email.
 - **Target Date to Send Email**: at a minimum a few days notice is preferred because we need to balancing the number of emails being sent to our database so they are not perceived (or marked) as spam; however, a simple email can be turned in a few hours if absolutely necessary
-- **Recipient List**: Emails can be sent to one of the [existing segments](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo#geographic-dma-list ) or a recipient list can be provided as a .csv file
+- **Recipient List**: Emails can be sent to one of the [existing segments](/handbook/marketing/marketing-operations/marketo#geographic-dma-list ) or a recipient list can be provided as a .csv file
     -  Audience should be appropriately segmented and tokens selected for personalization (if applicable)
     -  All subscribers are selected list are opted-in to receive your message
     -  If supplying a .csv file, the file must include the following fields:  Email address, First Name (or Full Name)
@@ -92,7 +92,7 @@ Below are the information from the issue template that will need to be filled ou
 {: #email-request-types}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-Go to [this page](https://about.gitlab.com/handbook/marketing/marketing-operations/email-management/#types-of-email) to read more about email management and the different types of emails.
+Go to [this page](/handbook/marketing/marketing-operations/email-management/#types-of-email) to read more about email management and the different types of emails.
 
 #### Approvals and notifications for email requests
 {: #email-request-approval}
@@ -147,14 +147,14 @@ For one-time emails (i.e. a blast to promote a program for which we do not recei
 Target list issue templates are an interim solution while foundational work is being complete for overall [Marketo database audience stretegy for lifecycle marketing engine](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2022).
 
 * **Lifecycle Stage (Lead Status):** (Raw, Inquiry, MQL, Accepted, Qualifying, Qualified)
-   - **Funnel Stage:** (see [options](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#segmentations))
+   - **Funnel Stage:** (see [options](/handbook/marketing/marketing-operations/marketo/#segmentations))
    - **Sales Segment:** (Large, MM, SMB, PUBSEC - if US PubSec, you can also specify territory (NSG, DoD, etc))
    - **Region:** (APAC, AMER, EMEA)
    - **Sub-Region (East/West/PubSec or Southern/Northern/UKI/DACH):** 
-* **Persona-Level:** (see [options](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#segmentations))
-   - **Buyer Personas-Function:** (see [options](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#segmentations))
-   - **Language Preference:** (see [options](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#segmentations))
-   - **Activity filters (if necessary):** ([see options](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/#Active-Lists))
+* **Persona-Level:** (see [options](/handbook/marketing/marketing-operations/marketo/#segmentations))
+   - **Buyer Personas-Function:** (see [options](/handbook/marketing/marketing-operations/marketo/#segmentations))
+   - **Language Preference:** (see [options](/handbook/marketing/marketing-operations/marketo/#segmentations))
+   - **Activity filters (if necessary):** ([see options](/handbook/marketing/lifecycle-marketing/emails-nurture/#Active-Lists))
    - **Inclusions:** (if including records on previous campaigns, MUST include the name as appears on SFDC campaign, and campaign membership statuses to exclude)
    - **Exclusions:** (if excluding records on previous campaigns, MUST include the name as appears on SFDC campaign, and campaign membership statuses to exclude)
 
@@ -174,12 +174,12 @@ To assist in building email target lists, MktgOps has developed a series of Mark
 ## QA process
 {: #qa-processes .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-**FY23-Q4**: Lifecycle Marketing will be running a Q4 trial of reviewing **all** emails prior to send to ensure compliance with email best practices. Team members are responsible fo reviewing and optimizing their own emails, following the latest [email best practices from lifecycle marketing](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-best-practices). Lifecycle will be partnering will email stakeholders to improve email performance and drive the best results for our campaigns, as well as maintain brand consistency across all email touchpoints.
+**FY23-Q4**: Lifecycle Marketing will be running a Q4 trial of reviewing **all** emails prior to send to ensure compliance with email best practices. Team members are responsible fo reviewing and optimizing their own emails, following the latest [email best practices from lifecycle marketing](/handbook/marketing/lifecycle-marketing/email-best-practices). Lifecycle will be partnering will email stakeholders to improve email performance and drive the best results for our campaigns, as well as maintain brand consistency across all email touchpoints.
 
 **FY24-Q1**: In Q1 of FY24, we will share out how we will continue to scale the email review process.
 
 Email workflow:
-First step in requesting an email from lifecycle begins by creating an issue using the appropriate [issue template](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/#request-issue-templates) in GitLab.
+First step in requesting an email from lifecycle begins by creating an issue using the appropriate [issue template](/handbook/marketing/lifecycle-marketing/#request-issue-templates) in GitLab.
 
 ### Team variations to QA process
 {: #qa-processes-by-team}
@@ -228,7 +228,7 @@ The process must kick off a month before the event, to ensure we have all of the
 #### Newsletter QA process
 {: #qa-process-newsletter}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-Full newsletter request information can be found [here](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-processes-requests/#newsletter).
+Full newsletter request information can be found [here](/handbook/marketing/lifecycle-marketing/email-processes-requests/#newsletter).
 
 ### Email QA Checklist - Technical
 {: #qa-checklist-technical}
@@ -246,7 +246,7 @@ As the email builder, you are responsible for making sure the email is formatted
 * On the text version, you do not need unsubscribe text because Marketo will automatically attach this if it is missing. If it is there, no need to remove it. The exception is if you are using the `Localized email footer` snippet. You do need to make sure this appears in the text version.
 * If dynamic content or snippets are not intended for the email, make sure no dynamic content is in use. In the email editor, click on "Dynamic" under the content section. If this is blank, there is no dynamic content in use. If it is not blank, click on the segment in use and it will highlight it in the email. If this is not intentional, select "Make Static" or "Replace with Rich Text" (depending on the type of dynamic content in use).
 * If you are using dynamic content or snippets, click on "Preview". Change the `View by` to "Segmentation". Select the segmentation, then be sure to preview the email for each segmentation option to make sure it displays as you expect. You can also send yourself a sample using each segmentation if you would like. You will need to provide screenshots or samples to the business owner to review the content in use for each segment.
-* Custom Header Image: If you are using the standard template with no changes to the header image, you can skip this step. If you are using custom header images (for example on large owned events), you must confirm that the image used was a transparent image. You can do this by looking at the design issue and confirming the image requested and provided by the design team is transparent. If you are working on a large event email (sending to 100k plus), you must also QA the email in [Litmus](https://about.gitlab.com/handbook/marketing/marketing-operations/litmus/#steps-to-test-an-email).
+* Custom Header Image: If you are using the standard template with no changes to the header image, you can skip this step. If you are using custom header images (for example on large owned events), you must confirm that the image used was a transparent image. You can do this by looking at the design issue and confirming the image requested and provided by the design team is transparent. If you are working on a large event email (sending to 100k plus), you must also QA the email in [Litmus](/handbook/marketing/marketing-operations/litmus/#steps-to-test-an-email).
 * View the email in `Preview`. Confirm all of the tokenized sections fill in properly and the name of the event, date, and time are showing correctly. 
 * In `Preview`, hover over each link in the email and confirm the full URL is accurate with the correct UTM values. If any of this is incorrect, confirm that the https:// is hard-coded, check the {{my.landingpageURL}} token, and check the {{my.utm}} token. After you make any necessary changes, preview the email again.
 * After viewing in `Preview`, if the text in the header appears to be too large, resize it to be smaller so the line breaks make sense and the text isn't overbearing.
@@ -302,7 +302,7 @@ All Campaign Managers and reviewers should adhere to the following protocol for 
 
  Marketo is the primary system for all marketing emails and the regularly scheduled security updates. Iterable or Marketo should be used for emails to gitlab.com users as these users are not in our marketing systems (unless they have signed up for content).
 
-To send an operational email, fill out an issue and follow protocol found [here](https://about.gitlab.com/handbook/marketing/marketing-operations/email-management/operational-email-sends/#customer-comms-email).
+To send an operational email, fill out an issue and follow protocol found [here](/handbook/marketing/marketing-operations/email-management/operational-email-sends/#customer-comms-email).
 
 ## Sales nominated flows in Marketo
 {: #sales-nominated .gitlab-purple}
@@ -342,14 +342,14 @@ Send sample to the DRI for the program (i.e. workshop owner) who is responsible 
 
 You can remove specific recurrences of scheduled sales nominated deployments. The FMC is responsible for this change for field marketing activities, and campaign managers are responsible for this change for demand generation activities.
 
-To cancel a send, follow [these directions](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#canceling-an-email-send).
+To cancel a send, follow [these directions](/handbook/marketing/marketing-operations/campaigns-and-programs/#canceling-an-email-send).
 
 
 #### Adding a nurture email program to Intelligent Nurture programs/streams
 {: #add-nurture-email}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-After you have created the Email Program (see above: [Creating a nurture email program for the Intelligent Nurture](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-processes-requests/#create-nurture-email)) and tested your email (including checking UTM parameters), your email is ready to be activated in the Intelligent Nurture.
+After you have created the Email Program (see above: [Creating a nurture email program for the Intelligent Nurture](/handbook/marketing/lifecycle-marketing/email-processes-requests/#create-nurture-email)) and tested your email (including checking UTM parameters), your email is ready to be activated in the Intelligent Nurture.
 
 Work with the Campaigns Team to indicate the appropriate streams for the offer to be included (this is based on segment/region/funnel stage).
 
@@ -381,12 +381,12 @@ Instead, we should take the following steps:
 2. Add it as a random sample in the send controller as shown in the flow below (use 50% for 2 versions, or split between 100% for more versions):
 
 
-    ![email-ab-test](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/image-4.png){: .medium.center}
+    ![email-ab-test](/handbook/marketing/lifecycle-marketing/emails-nurture/image-4.png){: .medium.center}
     
 3. Monitor results on an email report
 4. Document results on [A/B testing tracker](https://docs.google.com/spreadsheets/d/1BaGJbiYIG8187nnXXy2tvNtJyKXLV4CenCAZMYJbmeI/edit#gid=2079991889)
 
-Please see the [A/B testing section](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/email-best-practices/#best-practices-testing) below for best practices for conducting an A/B test.
+Please see the [A/B testing section](/handbook/marketing/lifecycle-marketing/email-best-practices/#best-practices-testing) below for best practices for conducting an A/B test.
 
 
 #### Intelligent Nurture - Event promotion
@@ -447,7 +447,7 @@ A day or two before the issue due date, create the newsletter draft. It's easies
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. When the edit view has closed, click on the main newsletter item in the left-hand column.
-1. If there are over 250,000 recipients due to be sent, you must request Marketing Operations to temporarily lift the [Campaign Limits](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#campaign-limits), otherwise the email will not send.
+1. If there are over 250,000 recipients due to be sent, you must request Marketing Operations to temporarily lift the [Campaign Limits](/handbook/marketing/marketing-operations/marketo/#campaign-limits), otherwise the email will not send.
 1. In the `Schedule` box, enter the send date and select `Recipient time zone` if the option is available.
 1. Make sure `Head start` is checked too.
 1. In the `Approval` box, click on `Approve program`.
@@ -558,7 +558,7 @@ The workback timeline is to be created by the Lifecycle Marketer to organize the
 * Primary KPI: 
 * Secondary KPI: 
 * Measurement Plan (to be developed with Business Analytics)
-   - For reference: [UTM Strategy Handbook](https://about.gitlab.com/handbook/marketing/utm-strategy)
+   - For reference: [UTM Strategy Handbook](/handbook/marketing/utm-strategy)
 
 ## :busts_in_silhouette: Team
 * Lifecycle Marketing: @Aklatzkin

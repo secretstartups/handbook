@@ -4,13 +4,6 @@ title: Commercial SA Engagement Model
 ---
 
 
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
-
 ## Commercial Solutions Architecture Engagement Model
 
 The Commercial SA Engagement Model ([SA Circles](#sa-circles)) intends to foster collaboration amongst 3-6 Solutions Architects and 20-25 Account Executives. 
@@ -23,9 +16,9 @@ Solutions architects are responsible for owning their engagement on opportunitie
 
 - Solutions Architects (SAs) help prospects and new customers that are wanting to buy and consume more of GitLab's offerings.  Customer Success Managers and Customer Success Engineers guide a customer's adoption of what the customer has already purchased. Professional Services works with a customer to implement what the customer has already purchased.
 - All requests for SAs are submitted using the SA Request button on the Salesforce Opportunity.
-- Salesforce opportunities should have [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) (and [required 7 methods applied](https://about.gitlab.com/handbook/sales/commercial/#required-7)).
+- Salesforce opportunities should have [MEDDPPICC](/handbook/sales/meddppicc/) (and [required 7 methods applied](/handbook/sales/commercial/#required-7)).
 - Compelling events are to be clearly defined in the Command Plan on an opportunity with a positive Net ARR (or negative Net ARR when the account needs deep technical knowledge or needs to be resold).
-- When SAs engage, their notes and activities are logged across Salesforce (review the [SA Activity Capture page](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/)) and the [Customers & Prospects](https://drive.google.com/drive/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U?resourcekey=0-MBirIe2vWyQXYi8cJEkH2Q&usp=sharing) Google Drive directory.
+- When SAs engage, their notes and activities are logged across Salesforce (review the [SA Activity Capture page](/handbook/customer-success/solutions-architects/processes/activity-capture/)) and the [Customers & Prospects](https://drive.google.com/drive/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U?resourcekey=0-MBirIe2vWyQXYi8cJEkH2Q&usp=sharing) Google Drive directory.
 
 ### SA Request Triage Process
 
@@ -121,15 +114,16 @@ leverage the Account Sales Territory in the Circle Slack Channel to determine an
 
 #### Async Slack support
 
-In some cases SA support might be required in early stage or not fully qualified opportunities. Slack can be used for answering technical questions, providing additional customer outreach materials or helping an Account Executive with a narrowly-scoped customer inquiry. These requests can be served asynchronously via Slack:
+In some cases SA support might be required in early stage or not fully qualified opportunities. Slack can be used for answering narrowlly-scoped technical questions, providing additional customer outreach materials or helping an Account Executive with a narrowly-scoped customer inquiry. These requests can be served asynchronously via Slack:
  - AMER: `#cs-commercial-amer-support`
  - EMEA: `#cs-commercial-emea-support`
 
-These Slack channels are considered to be a safe harbor for all Commercial AE <-> SA communication. When asking questions, please ensure you provide as much context as possible; including the SFDC URL, and type of subscription (SaaS or Self-Managed). Solutions Architecture will monitor and provide best effort support on these requests.
+These Slack channels are considered to be a safe harbor for all Commercial AE <-> SA communication. When asking questions, please ensure you always provide as much context as possible; including the SFDC URL, and type of subscription (SaaS or Self-Managed). Solutions Architecture will monitor and provide best effort support on these requests.
+Avoid using these Slack channels for cases that require technical discovery and solutioning. These have to be handled via standard SA Request process.
 
 #### Post-Sales Engagement
 
-As an opportunity enters into either the [Negotiating or Awaiting Signature](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-stages) stage, the Solutions Architect and Account Executive ought to begin introducing the customer to a Customer Success Manager following the [Commercial CSM Transition Process](https://about.gitlab.com/handbook/customer-success/pre-sales-post-sales-transition/#commercial-csm-transition-process).
+As an opportunity enters into either the [Negotiating or Awaiting Signature](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) stage, the Solutions Architect and Account Executive ought to begin introducing the customer to a Customer Success Manager following the [Commercial CSM Transition Process](/handbook/customer-success/pre-sales-post-sales-transition/#commercial-csm-transition-process).
 
 Solutions Architects ought to be primarily engaged with accounts that have active opportunities in Salesforce.  When we work with customers, it's easy to build a trusted advisor relationship with them that persists past the end of the sale.  In these cases, SAs must use their judgment in determining when to redirect a customer to the proper support channel for follow-up questions.
 
@@ -144,7 +138,7 @@ On-site requests should primarily be driven by the desire of the customer. No on
 * Giving a demo to a large crowd with various personas that otherwise would not have been engaged virtually.
 * Running a workshop where the given customer has requested this to be done in person.
 * Meeting with executives in a room to help discuss their initiatives and cast a vision for GitLab within their organization.
-* Conducting a [Day In The Life of A Developer](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/day-in-the-life/) assessment
+* Conducting a [Day In The Life of A Developer](/handbook/customer-success/solutions-architects/sa-practices/day-in-the-life/) assessment
 
 ##### Pre-Requisites for On-site Engagements
 
@@ -216,7 +210,7 @@ This review process aims to help ensure on-site engagements have the highest lev
 
 ### Live Optimization Sessions
 
-Live Optimization sessions are one-time post-sales activities session conducted 1-2 months after a closed deal by a Commercial Solutions Architect in order to support and 'fine tune' net new SMB customers' adoption of GitLab. Read more on the process in the [SMB Sales Handbook](https://about.gitlab.com/handbook/sales/commercial/smb/live-optimization/).
+Live Optimization sessions are one-time post-sales activities session conducted 1-2 months after a closed deal by a Commercial Solutions Architect in order to support and 'fine tune' net new SMB customers' adoption of GitLab. Read more on the process in the [SMB Sales Handbook](/handbook/sales/commercial/smb/live-optimization/).
 
 ## SA Circles
 
@@ -277,8 +271,8 @@ The 5-Minute Demo Framework is a method to quickly produce technical content tha
 
 ##### Tips for searchability
 
-* For videos, please add the video to GitLab Unfiltered YouTube channel under "Solutions Architecture" playlist. Additionally [link the video within Highspot](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/#gitlab-highspot-best-practices-for-content-owners) for the AE's to create email pitches.
-* For blog posts, please refer to the [marketing handbook page](https://about.gitlab.com/handbook/marketing/blog/) on how to publish to the Blog. See [MR1](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/113595) and [MR2](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/108728) as an example.
+* For videos, please add the video to GitLab Unfiltered YouTube channel under "Solutions Architecture" playlist. Additionally [link the video within Highspot](/handbook/sales/field-communications/gitlab-highspot/#gitlab-highspot-best-practices-for-content-owners) for the AE's to create email pitches.
+* For blog posts, please refer to the [marketing handbook page](/handbook/marketing/blog/) on how to publish to the Blog. See [MR1](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/113595) and [MR2](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/108728) as an example.
 * For repository examples, please store the repository within the [Guided Exploration group](https://gitlab.com/guided-explorations).
 
 ##### Practice and review
@@ -319,7 +313,7 @@ Quarterly review of wins and losses to identify patterns and things we can do to
 
 ### Commercial SA Peer Review
 
-Commercial SA team holds [Peer Review sessions](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/deliberate-practice/#peer-reviews) every two weeks as a key activity in elevating the quality of pre-sales efforts, fostering collaboration, promoting continuous learning, and ultimately increasing the chances of successful client engagements.
+Commercial SA team holds [Peer Review sessions](/handbook/customer-success/solutions-architects/sa-practices/deliberate-practice/#peer-reviews) every two weeks as a key activity in elevating the quality of pre-sales efforts, fostering collaboration, promoting continuous learning, and ultimately increasing the chances of successful client engagements.
 
 #### Structure
 

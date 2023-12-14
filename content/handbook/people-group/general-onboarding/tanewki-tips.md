@@ -74,6 +74,7 @@ As point 36 on our [communication handbook page](/handbook/communication/#writin
 | LGTM | Looks good to (me/merge)! |
 | KPIs| Key Performance Indicators |
 | MECC| [Managing so Everyone Can Contribute](/teamops/)|
+| MNPI | Material Non-Public Information  |
 | MR | Merge Request  |
 | MVC| [Minimum Viable Change](/handbook/values/#minimal-viable-change-mvc) (not related to Model-View-Controller)|
 | OKRs | [Objectives & Key Results](/handbook/company/okrs) |
@@ -86,7 +87,8 @@ As point 36 on our [communication handbook page](/handbook/communication/#writin
 
 | Acronym| Word/Saying/Title |
 |:---------------|:---------------|
-| VSA |  [Value Stream Assessment](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments) |
+| VSD |  [Value Stream Disovery](/handbook/customer-success/solutions-architects/sa-practices/value-stream-discovery) |
+| VSW |  [Value Stream Workshop](/handbook/customer-success/solutions-architects/sa-practices/value-stream-discovery/#value-stream-workshop) |
 | L28D |  Short form for "Last 28 days". |
 
 **People Group Related Acronyms**

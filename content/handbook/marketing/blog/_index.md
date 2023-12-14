@@ -22,7 +22,9 @@ Blogs fall into the following categories:
 
 ## Who can publish content to the GitLab blog?
 
-[Everyone can contribute at GitLab](/handbook/company/mission/#mission). For the blog, this means we welcome your blog suggestions, ideas, and drafts. However, the [main blog](about.gitlab.com/blog/) is one of the many official voices of GitLab – meaning content that is published there must be carefully vetted to ensure we are accurately representing GitLab – both the company and the product. The Blog Managing Editor and the Director of Global Content Marketing are the [directly responsible individuals (DRIs) for the official GitLab blog](/handbook/people-group/directly-responsible-individuals/) and are tasked with this responsibility.
+[Everyone can contribute at GitLab](/handbook/company/mission/#mission). For the blog, this means we welcome your blog suggestions, ideas, and drafts. However, the [main blog](https://about.gitlab.com/blog/) is one of the many official voices of GitLab – meaning content that is published there must be carefully vetted to ensure we are accurately representing GitLab – both the company and the product. The Blog Managing Editor and the Director of Global Content Marketing are the [directly responsible individuals (DRIs) for the official GitLab blog](/handbook/people-group/directly-responsible-individuals/) and are tasked with this responsibility.
+
+Partner, alliance, and customer contributor guidelines can be found [here](https://docs.google.com/document/d/10Xb4qnZNedhPzNNRTByH7fgvNzlo5Bc5Rz1TiuHtPxE/edit?usp=sharing).
 
 ## How to suggest a blog idea - NEW PROCESS
 
@@ -54,11 +56,11 @@ Publishing of blog posts occurs according to an editorial calendar. However, tha
 
 ### Legal review process
 
-Some blog posts must be reviewed by legal, in accordance with our [Materials Legal Review Process/SAFE program](https://about.gitlab.com/handbook/legal/materials-legal-review-process/). Authors are responsible for reviewing SAFE guidelines and getting Legal approval before sharing the Google Doc with the blog team. This process can take time, so please plan target publication dates accordingly.
+Some blog posts must be reviewed by legal, in accordance with our [Materials Legal Review Process/SAFE program](/handbook/legal/materials-legal-review-process/). Authors are responsible for reviewing SAFE guidelines and getting Legal approval before sharing the Google Doc with the blog team. This process can take time, so please plan target publication dates accordingly.
 
 GitLab has a bias for action, and the Blog team is no different. However, the GitLab Blog is a public-facing asset and represents the company. If the Blog team has concerns or questions about the information contained in the blog post, the Blog team has the authority to hold a blog post until Legal, Corporate Commmunications, Partner Marketing, the CMO, etc., can review the blog post to mitigate any potential risk for the company.
 
-Learn more about the [SAFE Guidelines by reading the handbook page](https://about.gitlab.com/handbook/legal/safe-framework/) and following the [Materials Legal Review Process](https://about.gitlab.com/handbook/legal/materials-legal-review-process/).
+Learn more about the [SAFE Guidelines by reading the handbook page](/handbook/legal/safe-framework/) and following the [Materials Legal Review Process](/handbook/legal/materials-legal-review-process/).
 
 ## Communication with Blog team
 
@@ -69,9 +71,9 @@ Chat channels:
 
 ## Other related pages
 
-- [Editorial style guide](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/)
+- [Editorial style guide](/handbook/marketing/brand-and-product-marketing/content/editorial-team/)
 - [Brand guidelines](https://design.gitlab.com/)
-- [Monthly release post](https://about.gitlab.com/handbook/marketing/blog/release-posts/)
+- [Monthly release post](/handbook/marketing/blog/release-posts/)
 
 
 ## Considerations when drafting a blog
@@ -82,8 +84,8 @@ It is important that our blog content represents our company values of diversity
 
 #### Inclusive formatting
 
-- Did you select an [inclusive](https://about.gitlab.com/handbook/marketing/blog/#inclusive-photos) cover image and/or screengrab?
-- Write descriptive alternative text for all [inline images and screengrabs](https://about.gitlab.com/handbook/marketing/blog/#inline-images). Alternative text is important for SEO and accessibility. Read this [article from Moz to learn more about writing alternative text](https://moz.com/learn/seo/alt-text).
+- Did you select an [inclusive](/handbook/marketing/blog/#inclusive-photos) cover image and/or screengrab?
+- Write descriptive alternative text for all [inline images and screengrabs](/handbook/marketing/blog/#inline-images). Alternative text is important for SEO and accessibility. Read this [article from Moz to learn more about writing alternative text](https://moz.com/learn/seo/alt-text).
 - Ensure that all links are meaningful and descriptive (e.g. avoid link text such as "read here" or "this article"). Descriptive links are more useful and accessible for people using screen readers.
 
 #### Inclusive writing
@@ -91,9 +93,8 @@ It is important that our blog content represents our company values of diversity
 - Write short and concise sentences. Clear writing with short sentences makes it easier for the reader to follow along.
 - Limit your use of jargon, and if you must use a jargon-y term, define it on the first instance.
 - GitLab is a global team with a global community, so you want to write for a global audience. This means limiting your use of regional metaphors and not writing in a manner that is United States-centric.
-- Does the post use [inclusive language](/handbook/company/culture/inclusion/#inclusive-language)? An example of inclusive language: "Hi folks/Hi everyone/ Hi y'all" versus "Hi guys".
-- If you're still not sure about your use of inclusive language (or just want to check to be sure) test it out against the [inclusiveness check tool](https://inclusiveness-check.herokuapp.com/) developed by GitLab team member, [Lien Van Den Steen](/handbook/company/team/#lienvdsteen). Here's [how the tool works](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-operations-engineering/-/issues/72) and the [words it checks against are listed in the linked project](https://gitlab.com/lienvdsteen/linter/-/tree/master/data).
-- Is every individual in the blog post quoted using their [preferred pronoun](/handbook/people-group/orientation-identity/#how-do-i-know-which-pronouns-to-use)? Tip: If you don't know someone's preferred pronoun, just ask them. It should also be included on the [team page profile](/handbook/company/team/#close-modal) and Slack profile.
+- Does the post use [inclusive language](/handbook/company/culture/inclusion/#inclusive-language)? 
+- Is every individual in the blog post quoted using their [preferred pronoun](/handbook/people-group/orientation-identity/#how-do-i-know-which-pronouns-to-use)? Tip: If you don't know someone's preferred pronoun, just ask them. They should also be included on the [team page profile](/handbook/company/team/#close-modal) and Slack profile.
 
 #### More DIB writing tips
 
@@ -121,7 +122,7 @@ If you're not sure which category your post belongs in, just put a placeholder i
 - `insights` – industry, data, newsjacking, developer survey, etc.
 - `news` – company or product announcements (including policy changes, operational announcements, and breaking changes), news, or events
 - `security` – security-related posts
-- `releases` - release posts, security and patch releases. Posts in the `releases` category need to be in the `sites/uncategorized/source/releases/posts` directory, not `sites/uncategorized/source/blog/blog-posts`. Please see the [Release Post handbook](https://about.gitlab.com/handbook/marketing/blog/release-posts/) for more.
+- `releases` - release posts, security and patch releases. Posts in the `releases` category need to be in the `sites/uncategorized/source/releases/posts` directory, not `sites/uncategorized/source/blog/blog-posts`. Please see the [Release Post handbook](/handbook/marketing/blog/release-posts/) for more.
 
 #### Tags
 

@@ -16,10 +16,10 @@ Previously, GitLab utilized the email address <security@gitlab.com> to report an
 
 Please *do not* transfer to security and refer to the relevant workflow for the following:
 
-- [Reinstate Blocked Accounts](/handbook/support/workflows/reinstating-blocked-accounts.html)
-- [Abuse Report Review Request](/handbook/support/workflows/Abuse_Report_Review_Request.html)
-- [Log Requests](/handbook/support/workflows/log_requests.html)
-- [Reporting a New Security Incident](/handbook/security/security-operations/sirt/engaging-security-on-call.html)
+- [Reinstate Blocked Accounts](/handbook/support/workflows/reinstating-blocked-accounts)
+- [Abuse Report Review Request](/handbook/support/workflows/Abuse_Report_Review_Request)
+- [Log Requests](/handbook/support/workflows/log_requests)
+- [Reporting a New Security Incident](/handbook/security/security-operations/sirt/engaging-security-on-call)
 
 You can also utilize the [`Security::All Security Questions`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Security/All%20Security%20Questions.yaml) macro for more details on the language. If the workflows above and the Macro do not resolve the customer's concern, please post a link to the ticket in the [#sec-fieldsecurity](https://gitlab.slack.com/archives/CV5A53V70) Slack Channel.
 
@@ -32,7 +32,7 @@ Vulnerability disclosures are no longer triaged via ZenDesk. When in doubt, plea
   macro.
 - If the report appears to be a valid security issue, or if in doubt:
   - If the severity may be an ~severity::1 or otherwise needs immediate investigation:
-    - [Engage the Security Engineer on-call](/handbook/security/security-operations/sirt/engaging-security-on-call.html)
+    - [Engage the Security Engineer on-call](/handbook/security/security-operations/sirt/engaging-security-on-call)
     - Manually create an issue for report following the [creating a security issue instructions]({{ ref "engaging-with-security#creating-new-security-issues" }})
   - Otherwise, reply to the reporter to see if they wish to either:
     - Report via HackerOne
@@ -49,7 +49,7 @@ A summary of GitLab CVEs for specific versions is available in [Customer Success
 
 If the customer is asking about a security vulnerability published as part of a release,
 the only information we can provide is what is in the security blog post.
-For more information on security communication, please see the [security incident communication page](/handbook/security/security-operations/sirt/security-incident-communication-plan.html).
+For more information on security communication, please see the [security incident communication page](/handbook/security/security-operations/sirt/security-incident-communication-plan).
 
 Security will [make the issue public if possible](/handbook/security/#process-for-disclosing-security-issues) after a set number of days.
 

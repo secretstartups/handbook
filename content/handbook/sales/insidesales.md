@@ -11,7 +11,7 @@ description: >-
 
 
 
-The Inside Sales department is part of the [GitLab Sales](https://about.gitlab.com/handbook/sales/) function who partners with the sales and customer success teams to deliver maximum value to GitLab customers throughout their journey with GitLab.
+The Inside Sales department is part of the [GitLab Sales](/handbook/sales/) function who partners with the sales and customer success teams to deliver maximum value to GitLab customers throughout their journey with GitLab.
 
 The Enterprise Inside Sales team can be reached in [Slack channel](https://gitlab.slack.com/archives/C01P39947ND) (internal only).
 
@@ -42,7 +42,7 @@ After completing onboarding, Inside Sales Representatives are assigned a territo
 
 Once an ISR has been added to the Territories Mapping File, their name will **automatically** be populated in the `Proposed ISR` field on all Accounts associated with ther respective `Sales Territory`.
 
-It's expected for the Inside Sales Team to follow the [Account Ownership Rules of Engagement](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/). The section linked above provides step by step clarity on how to follow the ROE.
+It's expected for the Inside Sales Team to follow the [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/). The section linked above provides step by step clarity on how to follow the ROE.
 
 #### ISR Opportunity Alignment
 
@@ -54,7 +54,7 @@ The `ISR` field will be **automatically** populated on an opportunity based on t
 
 **Note**: The `ISR` field will be populated on **all opportunities** where the associated `Proposed ISR` field is also populated. This does not guarantee compensation credit. Please see your comp plan for details to determine what qualifies.
 
-It's expected for the Inside Sales Team to follow the [Opportunity Ownership Rules of Engagement](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/). The section linked above provides step by step clarity on how to follow the ROE.
+It's expected for the Inside Sales Team to follow the [Opportunity Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/). The section linked above provides step by step clarity on how to follow the ROE.
 
 
 ## Enterprise ISR FY23 FAQ
@@ -98,17 +98,17 @@ Yes. And once the value crosses over the $50k threshold, SAEs should be looped i
 Loop in the SAE and ASMs and other account team resources (SAs and CSMs). These growth oppotunities should be a collaborative effort between the ISR, SAE, and ASM.
 
 **How should ISRs work with Solution Architects?**
-[Engaging Solution Architects](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/#engaging-an-sa-during-the-sales-cycle) is ultimately the responsibility of the SAE (or ASM). ISRs should work closely with SAEs to ensure the SA qualification criteria is uncovered and there is strategic growth or upgrade potential.
+[Engaging Solution Architects](/handbook/customer-success/solutions-architects/processes/#engaging-an-sa-during-the-sales-cycle) is ultimately the responsibility of the SAE (or ASM). ISRs should work closely with SAEs to ensure the SA qualification criteria is uncovered and there is strategic growth or upgrade potential.
 
 
 
 ## Getting Started as a New Hire
 
 1. Get to know your team. Prepare to introduce yourself on the first team call and schedule coffee chats to get to know your teammates around the globe.
-2. Review the [quote configuration process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#quote-configuration) in the Field Operations handbook.
+2. Review the [quote configuration process](/handbook/sales/field-operations/order-processing/#quote-configuration) in the Field Operations handbook.
 3. Review the handbook pages linked in the "Resources" section below.
 4. If you are new to GitLab, complete your [onboarding issue](/handbook/people-group/general-onboarding/#completing-onboarding-issue). If you are an internal transfer, complete your [career mobility issue](/handbook/people-group/promotions-transfers/#career-mobility-issue) and [access change request issue](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#access-change-request). These will need to be completed and closed out before regions or territories can be assigned.
-5. Get to know your [regional deal desk team](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#deal-desk---a-global-presence). Schedule coffee chats, attend the Deal Desk office hours, or both!
+5. Get to know your [regional deal desk team](/handbook/sales/field-operations/sales-operations/deal-desk/#deal-desk---a-global-presence). Schedule coffee chats, attend the Deal Desk office hours, or both!
 
 Once you have been assigned a territory:
 
@@ -117,7 +117,7 @@ Once you have been assigned a territory:
 8. Ensure that you are added to regional sales team calls.
 9. Ensure you are added (as an optional attendee) to all relevant SAE and CSM calls or opportunity reviews.
 10. Review and document Current- and Next-FQ Renewals and Opportunities that you will "actively manage" as the ISR. Tag all "actively managed" opportunities following the process outlined in the "Actively Managed Opportunity" section below.
-11. Review your regional alignment on the [Sales Territories](https://about.gitlab.com/handbook/sales/territories/) page.
+11. Review your regional alignment on the [Sales Territories](/handbook/sales/territories/) page.
 12. Create a renewals report that includes quote start and end dates.
 
 ## ISR Account and Opportunity Management
@@ -139,8 +139,8 @@ Finally, you have time to clear your inbox and catch up on Slack messages!
 
 | Required Component | Detail                 | Why                   |
 | ------------------ | ---------------------- | --------------------- |
-| **Tier all of your opportunities** | [Requirements - ISR Prioritization & Opportunity Tiering](https://about.gitlab.com/handbook/sales/insidesales/#isr-prioritization--opportunity-tiering) | Helps to identify opportunity ownership and streamline account team collaboration |
-| **Create & maintain an opportunity task for all opportunities** | [Requirements - Opportunity Task Management](https://about.gitlab.com/handbook/sales/insidesales/#opportunity-task-management) | Creates efficiencies in customer outreach and helps you ensure that you are ahead of all opportunities |
+| **Tier all of your opportunities** | [Requirements - ISR Prioritization & Opportunity Tiering](/handbook/sales/insidesales/#isr-prioritization--opportunity-tiering) | Helps to identify opportunity ownership and streamline account team collaboration |
+| **Create & maintain an opportunity task for all opportunities** | [Requirements - Opportunity Task Management](/handbook/sales/insidesales/#opportunity-task-management) | Creates efficiencies in customer outreach and helps you ensure that you are ahead of all opportunities |
 | **Keep your next steps up to date** | The `Next Step` and `Next Steps Owner` fields must be up to date at all times | Understanding the next step and who owns it is critical to delivering a good customer experience and closing deals |
 | **Keep a log of your customer-facing activities** | Keep a running log of all customer-facing activities using the `Next Steps History` field. | As an ISR, you have a high volume of activites and opportunities to keep track of. Maintaining a log of activities will help you work through opportunities and context-switching more effectively. |
 
@@ -197,9 +197,9 @@ In addition to being tagged on every opportunity in region, ISRs should maintain
 GitLab is an organization that is built on contribution and collaboration. These values are not only critical for building a great product, they are critical for building a world class sales team. Each member of the Inside Sales team is expected to document detailed notes in SFDC on accounts and conversations they participate in or currently own. With GitLab being a remote company, it is even more important to create and maintain a culture of great note taking and ensure the notes are captured in our systems.
 
 ISRs are expected to understand and follow the note taking process outlined in the Commercial Sales Handbook:
-- [Why do we take notes on accounts?](https://about.gitlab.com/handbook/sales/commercial/enablement/#why-do-we-take-notes-on-accounts)
-- [Different Sections of notes to include](https://about.gitlab.com/handbook/sales/commercial/enablement/#different-sections-of-notes-to-include)
-- [Characteristics of Next Steps](https://about.gitlab.com/handbook/sales/commercial/enablement/#characteristics-of-next-steps)
+- [Why do we take notes on accounts?](/handbook/sales/commercial/enablement/#why-do-we-take-notes-on-accounts)
+- [Different Sections of notes to include](/handbook/sales/commercial/enablement/#different-sections-of-notes-to-include)
+- [Characteristics of Next Steps](/handbook/sales/commercial/enablement/#characteristics-of-next-steps)
 
 ### Holdover Account / Opportunity Process
 
@@ -224,22 +224,22 @@ As it relates to retirement of quota, we will refer to the Closed Won date as we
 | ----- | ----- | ---------------- |
 | [Enterprise ISR Team Slack Channel](https://gitlab.slack.com/archives/C01P39947ND) | Enterprise | Team slack channel for internal team communications and requests |
 | [Public Sector ISR Team Slack Channel](https://gitlab.slack.com/archives/CNAMWG9N3) | PubSec | Team slack channel for internal team communications and requests |
-| [GitLab Sales Territories](https://about.gitlab.com/handbook/sales/territories/) | All | Handbook page that outlines regional alignment for SAEs and ISRs |
+| [GitLab Sales Territories](/handbook/sales/territories/) | All | Handbook page that outlines regional alignment for SAEs and ISRs |
 | [FY22 Sales Compensation Plan](/handbook/finance/sales-comp-plan/#fy22-sales-compensation-plan) | All | Outline of the FY22 inside sales commission plan |
-| [Sales Commissions](https://about.gitlab.com/handbook/sales/commissions/) | All | Handbook page that includes process and policies related to GitLab commissions |
+| [Sales Commissions](/handbook/sales/commissions/) | All | Handbook page that includes process and policies related to GitLab commissions |
 
 
 #### ISR Processes
 
 | Link | Type  | Purpose           |
 | ----- | ----- | ---------------- |
-| [Quote Configuration](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#quote-configuration) | Field Operations | Go-to resource for building quotes via the Field Operations team |
-| [Order Processing](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) | Field Operations | Go-to resource for deal processing and facilitation |
-| [Deal Desk Handbook](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/) | Field Operations | Handbook page for GitLab Deal Desk and associated processes |
-| [Renewals Process Guide](https://about.gitlab.com/handbook/sales/sales-renewal-process/) | Field Operations | Handbook page outlining renewal process and policies |
-| [Customer Renewal Tracking](https://about.gitlab.com/handbook/customer-success/csm/renewals/) | Technical Account Management |  Resource that outlines process for managing renewals as a part of the larger account team (with SAEs, CSMs, Customer Success) |
+| [Quote Configuration](/handbook/sales/field-operations/order-processing/#quote-configuration) | Field Operations | Go-to resource for building quotes via the Field Operations team |
+| [Order Processing](/handbook/sales/field-operations/order-processing/) | Field Operations | Go-to resource for deal processing and facilitation |
+| [Deal Desk Handbook](/handbook/sales/field-operations/sales-operations/deal-desk/) | Field Operations | Handbook page for GitLab Deal Desk and associated processes |
+| [Renewals Process Guide](/handbook/sales/sales-renewal-process/) | Field Operations | Handbook page outlining renewal process and policies |
+| [Customer Renewal Tracking](/handbook/customer-success/csm/renewals/) | Technical Account Management |  Resource that outlines process for managing renewals as a part of the larger account team (with SAEs, CSMs, Customer Success) |
 | [ISR Renewal Management](https://drive.google.com/drive/u/0/search?q=%22Renewal%20Oppty%20Management%22) | Shared doc | A shared document outlining the renewal management process for ISRs |
-| [Community Education / EDU Program](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/) | Developer Relations | Resource that outlines The GitLab for Education Program which provides GitLab for free to students and faculty at educational institutions around the globe |
+| [Community Education / EDU Program](/handbook/marketing/developer-relations/community-programs/education-program/) | Developer Relations | Resource that outlines The GitLab for Education Program which provides GitLab for free to students and faculty at educational institutions around the globe |
 
 
 #### ISR Manager Resources

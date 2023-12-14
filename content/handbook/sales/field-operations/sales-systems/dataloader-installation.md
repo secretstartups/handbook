@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/sales/field-operations/sales-systems/dataloader-installation.html
 title: "Dataloader Installation, Deletion, and Upgrade Instructions at GitLab"
 description: "Instructions on how to install, delete, and upgrade Dataloader at GitLab"
 ---

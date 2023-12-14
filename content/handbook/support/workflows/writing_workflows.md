@@ -46,7 +46,7 @@ For general writing practices including inclusive language and use of markdown, 
 
 ### Example from okay to better
 
-Let's take the [Support Time Off page](/handbook/support/support-time-off.html) as an example (even though it's not a workflow page, it's process related).
+Let's take the [Support Time Off page](/handbook/support/support-time-off) as an example (even though it's not a workflow page, it's process related).
 
 The [original version](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/7d9466ea0400d3e7739f280c7568b3f030fa2562/sites/handbook/source/handbook/support/support-time-off.html.md#taking-off-less-than-half-a-day) organized the information by using number of days off as the "divider".
 

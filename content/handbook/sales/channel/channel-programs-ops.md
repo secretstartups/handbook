@@ -12,12 +12,12 @@ title: "Channel Programs Operations"
 
 ### Overview
 
-This page documents the operational information and processes for managing the Channel Program Operations.  This page does not include transactional processes, which are available on the [Channel Operations Handbook page](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/).
+This page documents the operational information and processes for managing the Channel Program Operations.  This page does not include transactional processes, which are available on the [Channel Operations Handbook page](/handbook/sales/field-operations/channel-operations/).
 
 
 # Partner Contracts
 
-Partners register to join the GitLab Partner Program by registering at partners.gitlab.com.  You can find more details about the registration process on the [Channel Operations Handbook](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-applicant-approval--denial---granting-portal-access) page.  As part of that process, partners are able to review and approve the GitLab partner program agreement.  For partners that do not agree to all the terms of the agreement, the Legal Request process is available to negotiate contact terms.
+Partners register to join the GitLab Partner Program by registering at partners.gitlab.com.  You can find more details about the registration process on the [Channel Operations Handbook](/handbook/sales/field-operations/channel-operations/#partner-applicant-approval--denial---granting-portal-access) page.  As part of that process, partners are able to review and approve the GitLab partner program agreement.  For partners that do not agree to all the terms of the agreement, the Legal Request process is available to negotiate contact terms.
 
 The following are the available partner agreements and addenda:
 
@@ -74,11 +74,11 @@ The Partner Help Desk team has compiled a list of issues and solutions to the mo
 
 ## Help Your Partners Become a GitLab Designated Professional Services Partner (PSP):
 
-Step 1: Introduce your partners to the [GitLab Partner Services Program](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/#gitlab-partner-services-program)
+Step 1: Introduce your partners to the [GitLab Partner Services Program](/handbook/resellers/Channel-Program-Guide/#gitlab-partner-services-program)
 
 Step 2: Set an enablement plan with the partner representative that identifies their key employees who sign up for training and become certified to meet the competency requirements for the program.
 
-Step 3: Build a business plan to incorporate GitLab as a strategic element in their service practice using our [Service Development Framework](https://about.gitlab.com/handbook/resellers/services/)
+Step 3: Build a business plan to incorporate GitLab as a strategic element in their service practice using our [Service Development Framework](/handbook/resellers/services/)
 
 
 Step 4:  Partner Support team awards partners their designation using GitLab Partner Portal.
@@ -94,7 +94,7 @@ Step 4:  Partner Support team awards partners their designation using GitLab Par
 
 GitLab partners who are compliant with the partner program are eligible to become a GitLab Designated Professional Services Partner (PSP).
 
-The requirements for the GitLab Professional Service Partner badge can be found on the [Channel Services Handbook Page](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/#gitlab-partner-services-program).
+The requirements for the GitLab Professional Service Partner badge can be found on the [Channel Services Handbook Page](/handbook/resellers/Channel-Program-Guide/#gitlab-partner-services-program).
 
 
 ### GitLab Professional Services Partner Designation Award Process
@@ -261,7 +261,7 @@ Click *Save*.
 
 ## **Channel Marketing Processes**
 
-Complete process for submitting an MDF proposal request for funds and detailed instructions regarding the approval and claim process can be found in the [Channel Partner Handbook under MDF.](https://about.gitlab.com/handbook/resellers/#requesting-market-development-funds---mdf)
+Complete process for submitting an MDF proposal request for funds and detailed instructions regarding the approval and claim process can be found in the [Channel Partner Handbook under MDF.](/handbook/resellers/#requesting-market-development-funds---mdf)
 
 Select Partners are able to submit MDF requests via the Marketing Page in the Partner Portal. Partners should be reviewing plans with you prior to submitting an MDF request in the Portal to ensure you are aligned with the proposal.
 
@@ -275,7 +275,7 @@ When initiating a project the Channel Team needs to be engaged in each part of t
 
 <br>
 
-Once approved we are ready to begin with engagement with Partner Marketing, Partner Enablement, and the [Partner Communication process](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#partner-communications).
+Once approved we are ready to begin with engagement with Partner Marketing, Partner Enablement, and the [Partner Communication process](/handbook/sales/channel/channel-programs-ops/#partner-communications).
 
 Table 1 outlines the DRIs responsible for each step in the Channel Program Engagement process.
 
@@ -360,7 +360,7 @@ GitLab is contractually obligated to provide Partners with **30 days notificatio
 
 If you have something to be communicated to our Partners, kindly submit a **Channel Partner Announcement request** using [this template](https://gitlab.com/gitlab-com/channel/channels/-/blob/master/.gitlab/issue_templates/Channel%20Partner%20Communication%20Request.md).
 
-For all materials requiring legal review, please refer to the [Materials Legal Review Process](https://about.gitlab.com/handbook/legal/materials-legal-review-process)
+For all materials requiring legal review, please refer to the [Materials Legal Review Process](/handbook/legal/materials-legal-review-process)
 
 The Channel Program team has a standard communication cadence and vehicles to deliver notifications to Partners. Please take into account the communication cadence and delivery dates below, we appreciate and encourage as much notification as possible to allow the team to prepare and schedule requests properly.
 
@@ -381,7 +381,7 @@ NOD is used to communicate to Partners via targeted emails and the Partner Flash
 - **Special Notifications via email** - using NOD we can create a one-off notification if there is an urgent need to communicate out-of-cycle announcements or send surveys or Partner SKO/Summit notifications.  \
 
 
-**How to get a hold of us:** If you have completed the [engagement process approvals](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#channel-program-engagement-process) or have any questions regarding if/how something should be communicated, please reach out to us via the **#partner-programs-ops** Slack channel.
+**How to get a hold of us:** If you have completed the [engagement process approvals](/handbook/sales/channel/channel-programs-ops/#channel-program-engagement-process) or have any questions regarding if/how something should be communicated, please reach out to us via the **#partner-programs-ops** Slack channel.
 
 **Partner Flash access** - anyone at GitLab can receive Partner Flash or contribute an article.  
 
@@ -516,7 +516,7 @@ _News Type: Product, Sales_
 *News Type: Sales, technical, product*
 
 **Links we love (as a footer)  \
-[GitLab Partner Handbook](https://about.gitlab.com/handbook/resellers/#program-requirements-and-benefits)**
+[GitLab Partner Handbook](/handbook/resellers/#program-requirements-and-benefits)**
 
 **[Events Calendar (from Impartner)](https://partners.gitlab.com/English/Partner/prm/events.aspx)**
 

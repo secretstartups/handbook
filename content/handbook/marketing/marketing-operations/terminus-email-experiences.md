@@ -215,12 +215,12 @@ Campaigns created in Terminus Email Experiences should align to GTM motions and 
 
 ### Create a campaign
 
-Before creating a Terminus email campaign, you need to [request a banner ad](https://about.gitlab.com/handbook/marketing/inbound-marketing/#brand-and-design-issue-templates) from the brand and design team. All Terminus email banner ads should use the same dimensions (900 wide x 240 pixels tall; 8px radius corners) and be delivered in a `.png` or `.gif` format.
+Before creating a Terminus email campaign, you need to [request a banner ad](/handbook/marketing/inbound-marketing/#brand-and-design-issue-templates) from the brand and design team. All Terminus email banner ads should use the same dimensions (900 wide x 240 pixels tall; 8px radius corners) and be delivered in a `.png` or `.gif` format.
 
 1. Select `Campaigns` from the side menu (flag icon).
 1. Click the `Create Campaign` button in the top right.
-1. Select your desired [campaign type](https://about.gitlab.com/handbook/marketing/marketing-operations/terminus-email-experiences/#types), name your campaign, and click `Get Started`. You are redirected to edit the campaign details.
-1. Name your banner ad, enter alt text for the image, and upload the banner ad. All banner ads uploaded to Sigstr must have consistent dimensions to all other banners in our instance for consistency of output. Please follow [best practices](https://about.gitlab.com/handbook/marketing/marketing-operations/terminus-email-experiences/#best-practices). 
+1. Select your desired [campaign type](/handbook/marketing/marketing-operations/terminus-email-experiences/#types), name your campaign, and click `Get Started`. You are redirected to edit the campaign details.
+1. Name your banner ad, enter alt text for the image, and upload the banner ad. All banner ads uploaded to Sigstr must have consistent dimensions to all other banners in our instance for consistency of output. Please follow [best practices](/handbook/marketing/marketing-operations/terminus-email-experiences/#best-practices). 
 1. Under `Clickthrough URL`, choose your desired link type (manual clickthrough URL, mailto, or PathFactory experience). Note that you must already have a finalized PathFactory URL before selecting `PathFactory Experience`.
 1. Select the `UTM Parameters` drop down to add additional parameters for your campaign. If you do not enter additional parameters, the default parameters will be applied: `source=email_signature&medium=terminus&content=employee_email` Note that your campaign name became the default parameter for campaign. You also have the option of adding custom UTM parameters if desired. It is highly recommended that you apply UTM parameters to your campaigns to properly report success.
 

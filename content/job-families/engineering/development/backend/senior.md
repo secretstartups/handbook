@@ -237,7 +237,7 @@ The CI/CD Engineering Manager also does weekly stand-up with a team and product 
 - Work with the Product Manager to carefully assess technical feasibility of feature requests.
 - Deliver proof-of-concept proposals to help guide technical discussions.
 - Identify ways to deliver complex technical projects in an iterative fashion.
-- Take [ownership](https://about.gitlab.com/handbook/engineering/development/enablement/systems/geo/process.html#epic-ownership) of feature implementation.
+- Take [ownership](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/geo/process.html#epic-ownership) of feature implementation.
 - Respond quickly to customer requests for support.
 
 #### Requirements

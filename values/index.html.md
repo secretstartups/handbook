@@ -44,7 +44,7 @@ In many instances, they have been documented, refined, and revised based on less
 
 We used to have more values, but it was difficult to remember them all. In response, we condensed them, created an acronym (CREDIT), and listed operating principles to guide behavior.
 
-Everyone is welcome to suggest improvements. Please assign MRs to update these values to our CEO Sid and @mention him in Slack if you work at GitLab Inc. or [on Twitter](https://twitter.com/sytses) if you don't.  
+Everyone is welcome to suggest improvements. Please assign MRs to update these values to our CEO Sid and @mention him in Slack if you work at GitLab Inc. or [on Twitter](https://twitter.com/sytses) if you don't.
 
 ## 🤝 Collaboration
 {:#collaboration .gitlab-purple}
@@ -143,7 +143,7 @@ In order to mitigate this bias, you should always [assume positive intent](https
 
 When [disagreeing](/handbook/values/#disagree-commit-and-disagree), folks sometimes argue against the weakest points of an argument, or an imaginary argument (e.g. ["straw man"](https://en.wikipedia.org/wiki/Straw_man)). Assume the points are presented in good faith, and instead try to argue against the strongest version of your opponent’s position. We call this arguing against a "steel" position, instead of a "straw" one. This concept is borrowed from [argue the "steel man"](https://desert.glass/newsletter/week-46/) as described in [Robin Sloan](https://www.robinsloan.com/about/)'s newsletter.
 
-A "steel" position should be against the absolute most effective version of your opponent’s position — potentially even more compelling than the one they presented. A good "steel" position is one where the other person feels you've represented their position well, even if they still disagree with your assumptions or conclusion. 
+A "steel" position should be against the absolute most effective version of your opponent’s position — potentially even more compelling than the one they presented. A good "steel" position is one where the other person feels you've represented their position well, even if they still disagree with your assumptions or conclusion.
 
 ##### Address behavior, but don't label people
 {:.no_toc}
@@ -296,11 +296,11 @@ off shouldn't feel like they did something wrong. You don't have to defend how y
 {:.no_toc}
 Our focus is to improve the results that customers achieve, which requires being aware of [the Concur effect](https://twitter.com/ryanfalor/status/1182647229414166528?s=12).
 
-[Arvind Narayanan](https://www.cs.princeton.edu/~arvindn/), a Princeton Professor, described his frustration with Blackboard in a viral Tweet: 
+[Arvind Narayanan](https://www.cs.princeton.edu/~arvindn/), a Princeton Professor, described his frustration with Blackboard in a viral Tweet:
 
 >It has every feature ever dreamed up. But like anything designed by a committee, the interface is incoherent and any task requires at least fifteen clicks (and that's if you even remember the correct sequence the first time).
 >
->Software companies can be breathtakingly clueless when there's a layer of indirection between them and their users. Everyone who's suffered through Blackboard will have the same reaction to this: try having less functionality! 
+>Software companies can be breathtakingly clueless when there's a layer of indirection between them and their users. Everyone who's suffered through Blackboard will have the same reaction to this: try having less functionality!
 
 [Ryan Falor](https://twitter.com/ryanfalor) followed up on Narayanan's tweet with his definition of the Concur Effect:
 
@@ -308,7 +308,7 @@ Our focus is to improve the results that customers achieve, which requires being
 >1. features are overwhelming and disjointed
 >1. user experience gets worse over time
 
-See [the Hacker News discussion](https://news.ycombinator.com/item?id=21224209) for a specific UX example. 
+See [the Hacker News discussion](https://news.ycombinator.com/item?id=21224209) for a specific UX example.
 
 At GitLab, we want to drive customer results through focusing on platform enhancements that drive the most value for direct users.
 
@@ -478,7 +478,7 @@ Working efficiently on the right things enables us to make fast progress, which 
 
 ##### Only Healthy Constraints
 {:.no_toc}
-Most companies regress to the mean and slow down over time. While some changes are required as a company grows and matures, not all change is inevitable or should be allowed to passively happen. As GitLab grows, we are conscious of how we operate and how it enables our ability to continue to operate with the agility of a [startup](/handbook/company/still-a-startup/). We try to limit ourselves to [healthy constraints](/handbook/only-healthy-constraints/). 
+Most companies regress to the mean and slow down over time. While some changes are required as a company grows and matures, not all change is inevitable or should be allowed to passively happen. As GitLab grows, we are conscious of how we operate and how it enables our ability to continue to operate with the agility of a [startup](/handbook/company/still-a-startup/). We try to limit ourselves to [healthy constraints](/handbook/only-healthy-constraints/).
 
 ##### Write things down
 {:.no_toc}
@@ -748,7 +748,7 @@ Long-lasting relationships [are the rocks of life](https://www.youtube.com/watch
 
 > While the terms equity and equality may sound similar, the implementation of one versus the other can lead to dramatically different outcomes for marginalized people.
 >
-> Equality means each individual or group of people is given the same resources or opportunities. Equity recognizes that each person has different circumstances and allocates the exact resources and opportunities needed to reach an equal outcome. 
+> Equality means each individual or group of people is given the same resources or opportunities. Equity recognizes that each person has different circumstances and allocates the exact resources and opportunities needed to reach an equal outcome.
 
 ##### Diversity, Inclusion & Belonging Competency
 {:.no_toc}
@@ -967,7 +967,7 @@ Iteration is a key value in many disruptive and successful organizations. Below 
 
 ##### 12 things that are not iteration
 {:.no_toc}
-Iteration is often counterintuitive and difficult to do. To clarify what an iteration is, it helps to see examples of what is not an iteration. Below are 12 examples of things we've seen mistaken as iteration, but don't meet our definition of iteration. 
+Iteration is often counterintuitive and difficult to do. To clarify what an iteration is, it helps to see examples of what is not an iteration. Below are 12 examples of things we've seen mistaken as iteration, but don't meet our definition of iteration.
 
 1. Reducing quality
 1. Avoiding or reducing documentation
@@ -982,7 +982,7 @@ Iteration is often counterintuitive and difficult to do. To clarify what an iter
 1. Imposing long hours
 1. Expecting others to fix your work
 
-In this [GitLab Unfiltered video](https://www.youtube.com/watch?v=BW6TWwNZzIQ), GitLab co-founder and CEO Sid Sijbrandij elaborates on each of these 12 things that are not iteration. 
+In this [GitLab Unfiltered video](https://www.youtube.com/watch?v=BW6TWwNZzIQ), GitLab co-founder and CEO Sid Sijbrandij elaborates on each of these 12 things that are not iteration.
 
 ##### Iteration Competency
 {:#iteration-competency.no_toc}
@@ -1133,6 +1133,10 @@ When a GitLab Team Member comes across an ask or material (MR, handbook, etc.) t
 {:.no_toc}
 Enable everybody involved to come to the same conclusion as you. This not only involves [reasoning](#say-why-not-just-what), but also providing, for example: raw data and not just plots; scripts to automate tasks and not just the work they have done; and documenting steps while analyzing a problem. Do your best to make the line of thinking transparent to others, even [if they may disagree](/handbook/leadership/#making-decisions).
 
+##### Transparency != Democracy
+{:.no_toc}
+As a transparent company it is important that we do not confuse transparency with democracy. We want to inform the GitLab community to the greatest degree possible and collaborate while avoiding the many pitfalls such as group think, decision by committee, and similar consensus-based decision making modalities. GitLab uses a [Directly Responsible Individual (DRI) model](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/) where a single person is the decision maker.
+
 ##### Transparency Competency
 {:#transparency-competency .no_toc}
 [Competencies](/handbook/competencies/) are the Single Source of Truth (SSoT) framework for things we need team members to learn.
@@ -1185,7 +1189,7 @@ We demonstrate transparency when we are open with as many things as possible red
 </table>
 
 ## Why have values
- 
+
 Our values provide guidelines on how to behave and are written to be actionable.
 They help us describe the type of behavior that we expect from GitLab team members.
 They help us to know how to behave in the organization and what to expect from others.
@@ -1211,7 +1215,7 @@ We hope that the way we work and our values will instill trust, instead of manda
 ## Operating principles
 
 Operating principles are behaviors that empower GitLab team members to definitively live out a given value.
-They clarify what a given core value means and looks like *at GitLab*. 
+They clarify what a given core value means and looks like *at GitLab*.
 Understanding this distinction is critical to thriving at GitLab,
 particularly for [newer team members](/handbook/company/culture/all-remote/getting-started/) who may be familiar with a prior organization's interpretation of iteration or collaboration (as examples).
 
@@ -1362,7 +1366,7 @@ From our values we excluded some behaviors that are obvious; we call them our *p
 1. Be deserving of the trust of our team members, users and customers.
 1. Be committed to the success of the whole organization.
 1. Act in the best interest of the company, our team members, our customers, users, and investors.
-1. Make the best decisions for GitLab. 
+1. Make the best decisions for GitLab.
 1. Act in accordance with the law.
 1. Don't show favoritism as [it breeds resentment, destroys employee morale, and creates disincentives for good performance](https://www.employmentlawfirms.com/resources/employment/discrimination/laws-preventing-favoritism-in-the-workplace). Seek out ways to be fair to everyone.
 
@@ -1375,7 +1379,7 @@ This is a manifestation of the [Belief Bias](https://twitter.com/g_s_bhogal/stat
 Proposals should be weighed on their merits and not on who proposed them.
 Another example is people being promoted based on others liking them or having a lot of alliances. We want people to be promoted based on their results. We value collaboration, but that's different from being promoted just because people like you.
 
-Below are some attributes of political and non-political work environments. GitLab plans maintain a non-political one. 
+Below are some attributes of political and non-political work environments. GitLab plans maintain a non-political one.
 
 | Political environment | Non-political environment |
 | ------ | ------ |
@@ -1414,7 +1418,7 @@ Our [mission](/handbook/company/mission/#mission) is that **everyone can contrib
 
 ## Mitigating Concerns
 
-We have a page which documents our [Mitigating Concerns](/handbook/leadership/mitigating-concerns/). Many of our [values](/handbook/values/) help to mitigate some of these concerns.
+We have a page which documents our [Mitigating Concerns](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns/). Many of our [values](/handbook/values/) help to mitigate some of these concerns.
 
 ## GitLab Values Knowledge Assessment
 

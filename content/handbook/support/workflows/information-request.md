@@ -45,7 +45,7 @@ Please see [Log requests workflow](/handbook/support/workflows/log_requests.html
 
 A request may come in that you believe needs legal input but does not fit into one of the prescribed workflows. Follow this workflow in such a situation:
 
-1. Follow the instructions for [contacting Legal](https://about.gitlab.com/handbook/legal/#3-other-legal-requests) based on the specifics of the request.
+1. Follow the instructions for [contacting Legal](/handbook/legal/#3-other-legal-requests) based on the specifics of the request.
 1. Respond to the ticket with the [`Legal::General`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056569419) macro
 
 1. If ticket has not been resolved within 4 days (when ticket will auto-resurrect), check in with Legal for an answer.

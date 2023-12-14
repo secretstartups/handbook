@@ -300,7 +300,7 @@ This is a cross-collaboration between [IT Infrastructure](/handbook/business-tec
 
 - Amazon Web Services (AWS)
 - [Domain Names and DNS Records](/handbook/it/guides/domains-dns)
-- [GitLab Demo Systems](https://about.gitlab.com/handbook/customer-success/demo-systems/)
+- [GitLab Demo Systems](/handbook/customer-success/demo-systems/)
 - [GitLab Sandbox Cloud (HackyStack) - AWS Accounts & GCP Projects](/handbook/infrastructure-standards/realms/sandbox/)
 - Google Cloud Platform (GCP)
 - [Infrastructure Standards](/handbook/infrastructure-standards)
@@ -333,7 +333,7 @@ See the [People Group Engineering](/handbook/people-group/engineering/) handbook
 
 ### Sales Tech Stack
 
-See the [Sales](https://about.gitlab.com/handbook/sales/) and [Field Operations](https://about.gitlab.com/handbook/sales/field-operations/) handbook pages to learn more.
+See the [Sales](/handbook/sales/) and [Field Operations](/handbook/sales/field-operations/) handbook pages to learn more.
 
 ### Security Tech Stack
 

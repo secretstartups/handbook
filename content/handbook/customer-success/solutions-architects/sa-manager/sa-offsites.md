@@ -5,11 +5,6 @@ description: "This page provides an overview of the process SA Managers undertak
 ---
 
 
-
-
-
-
-
 ## SA Offsites (in-person)
 
 This page provides the SA leadership with guidance when organising a in-person team offsite or gathering. The page outlines considerations prior to the event start date, during the event and follow up considerations.

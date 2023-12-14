@@ -28,7 +28,7 @@ If an emergency takes longer than an hour to resolve, and/or multiple people are
 
 We have a [Responsible Disclosure Policy](https://about.gitlab.com/security/disclosure/). Users who reach out to `security@gitlab.com` will now receive an auto-reply providing them with specific instructions for reporting the various types of security concerns, and the ticket will be automatically closed. There is more [information on HackerOne](/handbook/support/channels#hackerone) below.
 
-Refer to [working with Security](/handbook/support/workflows/working_with_security.html) for information on identifying and handling any open security tickets.
+Refer to [working with Security](/handbook/support/workflows/working_with_security) for information on identifying and handling any open security tickets.
 
 When in doubt, please involve the security team. This is really important to reduce the likelihood of a 0-day disclosure.
 

@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/marketing/developer-relations/technical-marketing/howto/autogen-comparison-infographics.html
 title: "Autogenerating comparison infographics using Figma"
 ---
 

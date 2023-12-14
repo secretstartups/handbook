@@ -279,7 +279,7 @@ This is also something you can discuss live with your manager or team during reg
 
 ### Set realistic expectations
 
-Leadership must be sensible about expectations. If a company's [OKRs]({{< ref "okrs" >}}) (objectives and key results) and [KPIs]({{< ref "kpis" >}}) (key performance indicators) are unattainable without compromising company [values]({{< ref "remote-values" >}}), this incongruence is a recipe for fostering burnout, isolation, and anxiety across a team.
+Leadership must be sensible about expectations. If a company's [OKRs]({{< ref "/handbook/company/okrs" >}}) (objectives and key results) and [KPIs]({{< ref "kpis" >}}) (key performance indicators) are unattainable without compromising company [values]({{< ref "remote-values" >}}), this incongruence is a recipe for fostering burnout, isolation, and anxiety across a team.
 
 It is foolish to expect a team member to maintain excellent mental health when their workload requires a sustained amount of sacrifice. There is a fine line between collaborating with a team member on an ambitious goal and assigning a task that will be perceived as impossible.
 

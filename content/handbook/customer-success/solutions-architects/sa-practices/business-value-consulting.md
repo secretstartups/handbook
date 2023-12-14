@@ -4,13 +4,6 @@ title: Business Value Consulting
 ---
 
 
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
-
 # Business Value Consulting
 
 

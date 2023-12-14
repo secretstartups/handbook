@@ -22,7 +22,7 @@ This team is responsible for the development of channel marketing campaigns that
 
 The Global Channel marketing team provides support to partners by creating different campaign assets into leverageable go-to-market programs called Instant Campaigns that partners can easily pick up and run with their customer or prospect lists.  GitLab channel marketing is also responsible for the development, rollout and management of trial enablement programs by which partners can generate trials of GitLab directly from their website, and passing or providing trial leads generated from GitLab’s own website to be worked and converted by partners.  
 
-Our Channel Marketing Managers enable the channel go-to-market efforts through our [MDF funding and management program](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/MDF/) and are responsible for ensuring they are building a strategic marketing plan with our [marketing ready partners](https://gitlab.com/gitlab-com/marketing/channel-marketing/-/issues/new?issuable_template=Channel_Mktg_Ready).
+Our Channel Marketing Managers enable the channel go-to-market efforts through our [MDF funding and management program](/handbook/resellers/Channel-Program-Guide/MDF/) and are responsible for ensuring they are building a strategic marketing plan with our [marketing ready partners](https://gitlab.com/gitlab-com/marketing/channel-marketing/-/issues/new?issuable_template=Channel_Mktg_Ready).
 
 ### Marketing Ready
 
@@ -44,21 +44,21 @@ The Channel Marketing Manager work with the Field Marketing team to identify upc
 
 ## Current Service Offerings
 
-For an in-depth look at the programs and tools we offer our partners, see our [marketing menu of services](https://about.gitlab.com/handbook/marketing/channel-marketing/channel-marketing-epics/Channel-Marketing-Service-Offerings/) page.
+For an in-depth look at the programs and tools we offer our partners, see our [marketing menu of services](/handbook/marketing/channel-marketing/channel-marketing-epics/Channel-Marketing-Service-Offerings/) page.
 
-- Administering [Marketing Development Fund](https://about.gitlab.com/handbook/marketing/channel-marketing/#requesting-mdf-funds) (MDF) to provide financial reimbursement for APPROVED partner marketing campaigns and events.  Requests must support GitLab GTM initiatives and adhere to the MDF Request Process detailed below. MDF reimbursement will be at 50% of the total campaign request. There are three approval levels and each level has 2 business days to review and approve/decline the MDF proposal.
+- Administering [Marketing Development Fund](/handbook/marketing/channel-marketing/#requesting-mdf-funds) (MDF) to provide financial reimbursement for APPROVED partner marketing campaigns and events.  Requests must support GitLab GTM initiatives and adhere to the MDF Request Process detailed below. MDF reimbursement will be at 50% of the total campaign request. There are three approval levels and each level has 2 business days to review and approve/decline the MDF proposal.
 - Turnkey, integrated instant marketing campaigns provide the collateral materials partners need to run a demand-generation campaign.
-- Provide review and approval for local/regional [field marketing](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing--channel-marketing) plans with partners
+- Provide review and approval for local/regional [field marketing](/handbook/marketing/field-marketing/#field-marketing--channel-marketing) plans with partners
 - Build marketing plans with Marketing Ready focus partners.
 - Build a repeatable, predictable, sustainable and desirable model enabling partners to receive, accept, nurture and close GitLab leads leveraging the GitLab Partner Portal and Deal Registration system.
 - Enable channel partners to add “[GitLab free trial](https://about.gitlab.com/free-trial/)” functionality to their websites with marketing tools and lead passing to allow partners to effectively generate and nurture their own leads.  This will serve as partner primary CTA within demand generation efforts.
 - For Marketing Ready partners, participate in partner QBRs and provide input and ideation on successful go to market campaigns and initiatives to help partners drive more business with GitLab.
 - On a monthly basis, provide marketing content and input to the Global Channel Operations team for use in the global channel communication/newsletter
 - On a quarterly basis, host global marketing webcasts to the partner community.
-- Support GitLab [Analyst Relations](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/) requests for channel program input on MQs, WAVEs, market guides, as needed and with third party channel analysts.  
+- Support GitLab [Analyst Relations](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/) requests for channel program input on MQs, WAVEs, market guides, as needed and with third party channel analysts.  
     - Support requests for inclusion in third party publications
 - Support the web team in maintaining GitLab’s marketing website [partner pages](https://about.gitlab.com/partners/)
-- Working with Sales Ops and Marketing Ops improve attribution and reporting of [partner sourced leads (CQLs), and partner sourced opportunities](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/).
+- Working with Sales Ops and Marketing Ops improve attribution and reporting of [partner sourced leads (CQLs), and partner sourced opportunities](/handbook/sales/field-operations/channel-operations/).
 - [Partner Concierge Program](https://gitlab.com/gitlab-com/marketing/demand-generation/fy24-integrated-marketing-planning/-/issues/8#pre-pilot-launch) is starting a pilot program with a list of select partners approved for participation. Partner accepted into the program will have monthly meetings with Program's Manager as well as a customer [content calendar](https://docs.google.com/presentation/d/1vdR-FhJFltPfCijO43L2as-HAlw8zEgUUCk6687CDWg/edit#slide=id.g123a13deda8_0_405) to track all social campaigns scheduled. Participants of the Concierge Program will not be able to participate in the MDF Program.
 
 ## 6 Month Planning Cycle: Channel Marketing Managers
@@ -74,10 +74,10 @@ The goal is that we eventually have our partners aligned to our planning cycle, 
 
 1. The Channel Marketing Manager is responsible for identifying which of our focus partners are `Marketing Ready`. This is done by the CMM completing a [marketing ready issue](https://gitlab.com/gitlab-com/marketing/channel-marketing/-/issues/new?issuable_template=Channel_Mktg_Ready), indicating that the partner has committed resources to work with GitLab.
 2. The CMM builds a strategic plan of campaigns with the Channel partner's marketing contact. The team is expected meet on as frequent of a basis as is needed to support the plan. At least bi-monthly.
-3. In advance of the due date for the plans (due dates listed above), the CMM is expected to add their plan directly into [Allocadia](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/). Our CMMs need to add their plan into Allocadia as this is where we track our program spend and can run reports based on the various attributes in the Allocadia details panel.  
+3. In advance of the due date for the plans (due dates listed above), the CMM is expected to add their plan directly into [Allocadia](/handbook/marketing/strategy-performance/allocadia/). Our CMMs need to add their plan into Allocadia as this is where we track our program spend and can run reports based on the various attributes in the Allocadia details panel.  
 4. Each campaign run by the CMM should have a [related issue](https://gitlab.com/gitlab-com/marketing/channel-marketing/-/issues/new?issuable_template=MDF_Campaign ) that further details out with the specific campaign entails.
    - Eventually the creation of this issue will be built out in Allocadia as part of the MDF Epic + issue creation process. At this point in time, the CMMs need to manually create this issue. All details will need to manually be filled in.  
-5. In advance of the quarterly scheduled QBR, which is run in alignment with [Q1 & Q3 Field Marketing QBR schedule](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing-planning), the CMM's will complete this [regional deck](https://docs.google.com/presentation/d/10bUd4Zdk1NmbQB_a-JT_bBE5-fnZ7xZ9mElga4kn3-8/edit#slide=id.g1287bf62b57_0_209). This deck should be shared with the regional partners as well as the CAM.
+5. In advance of the quarterly scheduled QBR, which is run in alignment with [Q1 & Q3 Field Marketing QBR schedule](/handbook/marketing/field-marketing/#field-marketing-planning), the CMM's will complete this [regional deck](https://docs.google.com/presentation/d/10bUd4Zdk1NmbQB_a-JT_bBE5-fnZ7xZ9mElga4kn3-8/edit#slide=id.g1287bf62b57_0_209). This deck should be shared with the regional partners as well as the CAM.
    - Communication about the campaign should happen in the issues, this google slide deck is for the purpose of the QBR and high level plan sharing. Allocadia and the issues are the SSOT.
    - While it is our goal to avoid mid-execution timed campaigns, it is possible to submit for approval mid-planning cycle. Should that be the case, you do not need to go back into your QBR deck and add the activity.
 6. On a bi-annual basis (every 6 months) our CMMs are responsible for creating a [score card](https://docs.google.com/spreadsheets/d/1MuyKcDYMeIdfIcRGSzfLgy0SmGUG8ASPrhb4W0iHxkk/edit#gid=0&range=A1) with our partners. We have this score card in order to align around what's mutually important to the success of both of our business and to help with goal setting for future quarters. This should be built in collaboration with the Marketing Ready Channel partner.
@@ -107,7 +107,7 @@ Channel Marketing communicates with Partners through two online platforms and vi
 
 Partners who create a profile in the [GitLab Partner Portal](https://partners.gitlab.com/) are automatically included in our broad communications and marketing announcements through our Partner Flash newsletter and custom program and marketing announcements.  This is our default method of communication.  Partners may alter their preferences, such as the frequency of communications, preferred topics and declination of receiving messages, in the My Profile section of the portal.
 
-For more information about Partner Flash/News On Demand and process to become a contributor, please see the [Channel Program Operations handbook page](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#partner-communications).
+For more information about Partner Flash/News On Demand and process to become a contributor, please see the [Channel Program Operations handbook page](/handbook/sales/channel/channel-programs-ops/#partner-communications).
 
 #### Quarterly webinars to Channel Partners
 
@@ -134,18 +134,18 @@ The results from our post event survey can be found [here](https://drive.google.
 
 ##### Technical platform used to host
 
-Our team hosts the Channel Partner webinar using On24. Details on how this operationally set up can be found [here](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#on24-webcast-setup).
+Our team hosts the Channel Partner webinar using On24. Details on how this operationally set up can be found [here](/handbook/marketing/virtual-events/webcasts/#on24-webcast-setup).
 
-- [Epic Code for To Partners webinars](https://about.gitlab.com/handbook/marketing/channel-marketing/channel-marketing-epics/)
+- [Epic Code for To Partners webinars](/handbook/marketing/channel-marketing/channel-marketing-epics/)
 
-- [Marketo Program set up](https://about.gitlab.com/handbook/marketing/marketing-operations/on24/#connecting-on24-web-events-to-marketo-programs)
+- [Marketo Program set up](/handbook/marketing/marketing-operations/on24/#connecting-on24-web-events-to-marketo-programs)
 
 
 ### HighSpot
 
 The HighSpot platform allows our Channel Account Managers and Channel Marketing Managers to communicate a standardized message with individual Partner representatives to provide resources and assets for specific program needs or marketing opportunities.
 
-For more information about Highspot, please see the [Highspot at GitLab handbook page](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/).
+For more information about Highspot, please see the [Highspot at GitLab handbook page](/handbook/sales/field-communications/gitlab-highspot/).
 
 ## Requesting MDF funds
 - Marketing Ready Channel partners with marketing plans in place will submit [MDF proposals through the Partner Portal](https://partners.gitlab.com/English/Partner/SFDC/MDF2/Request/Create), and GitLab approvers will be notified of the request via email.
@@ -154,7 +154,7 @@ For more information about Highspot, please see the [Highspot at GitLab handbook
        - Level 2 approval - Sr Partner Program Manager
     - Once the MDF request has been either approved or declined the partner will be notified:
           - If declined, the Channel Marketing DRI will reach out to the partner and let them know. We will copy the CAM on the notification
-          - If approved, the MDF Operation's team will [open an epic](https://about.gitlab.com/handbook/marketing/channel-marketing/channel-marketing-epics/) and correlating sub-issues defined therein.
+          - If approved, the MDF Operation's team will [open an epic](/handbook/marketing/channel-marketing/channel-marketing-epics/) and correlating sub-issues defined therein.
     - Once Epic has been created, CMM will create the sub-issues listed in the epic. Includes (links are to templates):
        - Campaign Creation
          - List Upload
@@ -185,9 +185,9 @@ Following the steps to update your Delegated Approver:
 
 ### Demand Generation activities eligible for MDF
 
-Details are listed out in the [MDF handbook](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/MDF/#eligible-activities-and-required-proof-of-performance-mdf-activities).
+Details are listed out in the [MDF handbook](/handbook/resellers/Channel-Program-Guide/MDF/#eligible-activities-and-required-proof-of-performance-mdf-activities).
 
-These activities are captured as `Campaign Type Details` on the campaign level in Salesforce.com for `Partner - MDF` [Campaign Type](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status) only.
+These activities are captured as `Campaign Type Details` on the campaign level in Salesforce.com for `Partner - MDF` [Campaign Type](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status) only.
 
 ## Requesting Swag for Channel Events and Awards
 
@@ -210,7 +210,7 @@ Partners and team members may review current campaigns available to partners by 
 
 ## Partner-Initiated GitLab Free Trial Lead Gen Program
 
-Get all the assets you need to host a GitLab Ultimate SaaS or Self-Managed free trial custom link on your own website and run an end-to-end multi-touch campaign, offering customers and prospects the opportunity to try before they buy. We provide two unique tracking links that direct your prospects and customers to the GitLab 30-day Self-Managed or SaaS free trial registration forms. Free Trial lead requests come in and are tagged with your partner ID and then routed automatically into the partner portal deal registration prospect section. Partners can access and manage their GitLab leads in the same interface as their [deal registration](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview).
+Get all the assets you need to host a GitLab Ultimate SaaS or Self-Managed free trial custom link on your own website and run an end-to-end multi-touch campaign, offering customers and prospects the opportunity to try before they buy. We provide two unique tracking links that direct your prospects and customers to the GitLab 30-day Self-Managed or SaaS free trial registration forms. Free Trial lead requests come in and are tagged with your partner ID and then routed automatically into the partner portal deal registration prospect section. Partners can access and manage their GitLab leads in the same interface as their [deal registration](/handbook/resellers/#the-deal-registration-program-overview).
 
 We currently offer the Self-Managed form in English, Spanish, German, French, Korean and Japanese and the custom SaaS free trial form in English.
 
@@ -236,7 +236,16 @@ We currently offer the Self-Managed form in English, Spanish, German, French, Ko
 
  - Once a user registers for a free trial on the landing page, they receive an auto-generated email from GitLab with their license key. Your next step: nurture and convert those leads! The links below provide you with the copy and supporting assets that you need to run your own email campaign to nurture your leads over the next 30-days on their buyer journey, from evaluation to purchase.
 
- You can download the full kit of free trial assets [here](https://partners.gitlab.com/prm/English/s/assets?id=439714&q=free%20trial%20kit).
+  - GitLab has created customizable assets that include social posts, display ads and emails to help promote your custom free trial links. You can download the full kit of free trial assets [here](https://partners.gitlab.com/prm/English/s/assets?id=439714&q=free%20trial%20kit). 
+
+   - We recommend promoting these social posts and display ads on the following platforms: 
+      - LinkedIn
+      - Reddit
+      - Facebook
+      - X (formely Twitter) 
+      - Developer focused communities such as Stackoverflow 
+   - GitLab has provided you with a list of recommended AdWord keywords that can effectively help you target your desired audience and increase visibility for your microsite and free trial links. These keywords cover a wide range of topics related to DevSecOps and have been carefully selected to target the relevant audience interested in topics related to DevSecOps, continuous integration, continuous delivery, and software development. This list can be found [here](https://partners.gitlab.com/prm/api/objects/v1/asset/tzhnhfb5s0zf/_download). 
+   - Additionally, it is asked that partners add "GitLab" as an account level phrase match negative keyword to their Google Ads. 
 
 ## GitLab Hosted Partner Microsite Program
 
@@ -247,8 +256,8 @@ Check out a [sample microsite](https://learn.gitlab.com/updated-partner-engl).
 ## How to Sign up for the GitLab Hosted Partner Microsite Program
 
 - Provide us with your company logo, contact information for a designated person to receive and take action on leads and a value statement for your company (value statement optional).
-- GitLab generates a co-branded microsite with content that is consistently refreshed with the latest GitLab solution-level messaging. The microsite will include a customer call-to-action for a 30-day Free Trial. Weʼll provide you with a unique URL to include in your nurture efforts. Note, the call-to-action for this campaign is for customers to take a 30 day free trial. We currently offer the Self-Managed free trial on our English, Spanish, Korean, Japanese, French and German sites and the SaaS free trial on our English sites.  Note, you can add the 30-day free trial functionality to your own website by accessing [our Free Trial campaign](https://about.gitlab.com/handbook/marketing/channel-marketing/#partner-initiated-gitlab-free-trial-lead-gen-program).
-- You commit to running at least one full nurture effort (including at least three emails **or** a three-month Google ad campaign), pulling a target lead list with a minimum of 50 customers from your own database, taking follow-up action via either telemarketing or direct sales contact on all leads routed to your organization, tracking the results of the leads through your own Salesforce system, and providing GitLab with a report three months after the completion of the campaign. Note: You can create the content for your nurture emails or Google ad campaign, or you can leverage materials in GitLab's [Instant Marketing Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/#partner-instant-marketing-campaign).
+- GitLab generates a co-branded microsite with content that is consistently refreshed with the latest GitLab solution-level messaging. The microsite will include a customer call-to-action for a 30-day Free Trial. Weʼll provide you with a unique URL to include in your nurture efforts. Note, the call-to-action for this campaign is for customers to take a 30 day free trial. We currently offer the Self-Managed free trial on our English, Spanish, Korean, Japanese, French and German sites and the SaaS free trial on our English sites.  Note, you can add the 30-day free trial functionality to your own website by accessing [our Free Trial campaign](/handbook/marketing/channel-marketing/#partner-initiated-gitlab-free-trial-lead-gen-program).
+- You commit to running at least one full nurture effort (including at least three emails **or** a three-month Google ad campaign), pulling a target lead list with a minimum of 50 customers from your own database, taking follow-up action via either telemarketing or direct sales contact on all leads routed to your organization, tracking the results of the leads through your own Salesforce system, and providing GitLab with a report three months after the completion of the campaign. Note: You can create the content for your nurture emails or Google ad campaign, or you can leverage materials in GitLab's [Instant Marketing Campaigns](/handbook/marketing/channel-marketing/#partner-instant-marketing-campaign).
 - You can schedule custom reporting to receive leads that come in from your nurture emails and marketing efforts.
 - GitLab will provide you with metrics reports on a bi-weekly basis.
 - GitLab will manage any changes or updates to the microsite and notify you of changes.
@@ -291,15 +300,15 @@ Note, the subject needs to be an exact match of what's displayed above, otherwis
 
 ## Beyond our Team’s Scope
 
-- Custom campaigns: Channel Marketing does not currently have the resources to support individual partner campaigns and events. Please encourage your partners to leverage one of our turnkey, and integrated [Instant Marketing Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/#partner-instant-marketing-campaign) available on the [Partner Portal](https://partners.gitlab.com/English/).
+- Custom campaigns: Channel Marketing does not currently have the resources to support individual partner campaigns and events. Please encourage your partners to leverage one of our turnkey, and integrated [Instant Marketing Campaigns](/handbook/marketing/channel-marketing/#partner-instant-marketing-campaign) available on the [Partner Portal](https://partners.gitlab.com/English/).
 - Unique Partner Asset Creation: Channel Marketing is unable to work directly with partners to customize their marketing assets.
 - Event speakers: The Channel Marketing team does not have the resources to help locate GitLab speakers for partner events.
 - Partner Blogs: The Channel Marketing team does not have the resources to craft unique content to support a partner blog or content request.
-- Public Relations: The Channel Marketing team is not responsible for editing or approving blogs or partner press releases. Please see the [Corporate Communications handbook page](https://about.gitlab.com/handbook/marketing/corporate-communications/#partner-requests-for-press-release-support) for more information.
-- Sponsored social media posts: partners looking to GitLab to promote partner activities would not route those requests through Channel Marketing.  Instead, CAM’s obtain the partner’s social media channels and [create an issue](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/#open-a-new-issue-to-request-social-coverage) for the Social Media team.  This request should include the partner’s social media information, detailed description of what we are being asked to promote and target dates.  
+- Public Relations: The Channel Marketing team is not responsible for editing or approving blogs or partner press releases. Please see the [Corporate Communications handbook page](/handbook/marketing/corporate-communications/#partner-requests-for-press-release-support) for more information.
+- Sponsored social media posts: partners looking to GitLab to promote partner activities would not route those requests through Channel Marketing.  Instead, CAM’s obtain the partner’s social media channels and [create an issue](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/#open-a-new-issue-to-request-social-coverage) for the Social Media team.  This request should include the partner’s social media information, detailed description of what we are being asked to promote and target dates.  
 - Event attendance: The Channel Marketing team does not own a database of contacts by which to drive attendance to partner specific events nor do we possess the resources to support such requests.
-- [Partner training](https://about.gitlab.com/handbook/resellers/training/) is managed and supported by the Channel Partner Training, Certifications, and Enablement team.
-- Partner portal management: [Partner portal administration](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#partner-portal-administration) is managed by GitLab Channel Program Operations.
+- [Partner training](/handbook/resellers/training/) is managed and supported by the Channel Partner Training, Certifications, and Enablement team.
+- Partner portal management: [Partner portal administration](/handbook/sales/channel/channel-programs-ops/#partner-portal-administration) is managed by GitLab Channel Program Operations.
 
 ## Meet the Team
 
@@ -320,7 +329,7 @@ Note, the subject needs to be an exact match of what's displayed above, otherwis
 
 ### Channel Marketing Campaign Issue Templates & Epic Codes
 
-[Channel Marketing Epics](https://about.gitlab.com/handbook/marketing/channel-marketing/channel-marketing-epics/)
+[Channel Marketing Epics](/handbook/marketing/channel-marketing/channel-marketing-epics/)
 
-- [MDF Requests](https://about.gitlab.com/handbook/marketing/channel-marketing/channel-marketing-epics/#mdf-requests)
-- [Channel Events](https://about.gitlab.com/handbook/marketing/channel-marketing/channel-marketing-epics/#channel-events)
+- [MDF Requests](/handbook/marketing/channel-marketing/channel-marketing-epics/#mdf-requests)
+- [Channel Events](/handbook/marketing/channel-marketing/channel-marketing-epics/#channel-events)

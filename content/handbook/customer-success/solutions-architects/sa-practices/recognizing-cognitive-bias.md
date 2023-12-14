@@ -4,8 +4,6 @@ title: What is Cognitive Bias
 description: Learn about Cognitive Bias and how to facilitate Cognitive Bias exercise.
 ---
 
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 What is Cognitive Bias:
 
 - <span class="colour" style="color:rgb(0, 0, 0)">Perception that occurs when people are processing and interpreting information in the world around them</span>

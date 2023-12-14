@@ -95,8 +95,8 @@ The foundation of the GitLab Partner Services Program consists of two elements o
 
 
 
-1. [Designations](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide): GitLab offers the GitLab Professional Services Partner Designation (PSP), which includes training for service delivery teams which enable partners to meet program compliance requirements.
-2. [GitLab Service Development Framework](https://about.gitlab.com/handbook/resellers/services/): Partners can utilize GitLab Service Development Framework to assist their teams as they build the service offerings, market and sell their services, and support their service business growth.
+1. [Designations](/handbook/resellers/Channel-Program-Guide): GitLab offers the GitLab Professional Services Partner Designation (PSP), which includes training for service delivery teams which enable partners to meet program compliance requirements.
+2. [GitLab Service Development Framework](/handbook/resellers/services/): Partners can utilize GitLab Service Development Framework to assist their teams as they build the service offerings, market and sell their services, and support their service business growth.
 
 
 #### Becoming a Desigtnated GitLab Professional Services Partner (PSP)
@@ -116,8 +116,8 @@ GitLab PSP Designations are reviewed annually: <br>1\.Non-compliant partners at 
 | GitLab Designated Professional Services Partner (PSP) Requirements |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Program Entry Requirements                        | Each PSP must be:<br>1\. Be an Open or Select GitLab Partner or GitLab Distribution Partner<br><br>2\. Design, build and operate a professional service practice, and<br><br>3\. Meet the Delivery requirements. And, Hire team members who have completed the competency requirements and/or sponsor the appropriate number of team members through the completion of the competency requirements.                                                                                                                                                                                                                        |
-| Competency Requirements                           | Each PSP must remain compliant with either the Open, Select, or Distribution programs, and perpetually employ at least three (3) [GitLab Certified Professional Service Engineers](https://about.gitlab.com/handbook/resellers/training/#gitlab-professional-services-engineer-pse).<br> |
-| Delivery Requirements                           | Each PSP must:<br>\- Enter an average of at least 2 [Service Attach Registrations](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#how-services-attached-registrations-work) per fiscal quarter<br>1\. When partners who have completed the competency requirements also complete their first two service attach registrations, they will receive their PSP designation at the next monthly award cadence.<br>2\. Each PSP will be required to have submitted at least 8 Service Attach Registration over the previous 12 months at their annual audit(s). |
+| Competency Requirements                           | Each PSP must remain compliant with either the Open, Select, or Distribution programs, and perpetually employ at least three (3) [GitLab Certified Professional Service Engineers](/handbook/resellers/training/#gitlab-professional-services-engineer-pse).<br> |
+| Delivery Requirements                           | Each PSP must:<br>\- Enter an average of at least 2 [Service Attach Registrations](/handbook/resellers/channel-working-with-GitLab/#how-services-attached-registrations-work) per fiscal quarter<br>1\. When partners who have completed the competency requirements also complete their first two service attach registrations, they will receive their PSP designation at the next monthly award cadence.<br>2\. Each PSP will be required to have submitted at least 8 Service Attach Registration over the previous 12 months at their annual audit(s). |
 
 
 
@@ -131,7 +131,7 @@ GitLab Partner program will review the GitLab Professional Service Partners’ s
 
 ### GitLab Channel Partner Program Guide
 
-The [GitLab Channel Partner Program Guide](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/) offers a complete overview of the program.
+The [GitLab Channel Partner Program Guide](https://partners.gitlab.com/prm/api/objects/v1/asset/mga6ddm7bjqs/_download) offers a complete overview of the program.
 
 ### Contact Us
 

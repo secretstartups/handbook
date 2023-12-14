@@ -1,0 +1,16 @@
+{{ $dataURL := printf "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/data/performance_indicators/%s.yml" (.Get 0) }}
+{{ with resources.GetRemote $dataURL }}
+  {{ with .Err}}
+    <h2>Unable to fetch performance indicator Data</h2>
+  {{ else }}
+<ul>
+      {{ $data := . | transform.Unmarshal }}
+      {{ range $data }}
+      {{ if .is_key }}
+        {{ $link := printf "%s#%s" .base_path (anchorize .name) }}
+          <li><a href="{{ $link }}">{{ .name }}</a></li>
+      {{ end }}
+      {{ end }}
+</ul>
+  {{ end }}
+{{ end }}

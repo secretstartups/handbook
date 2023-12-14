@@ -18,9 +18,9 @@ twitter_creator: '@gitlab'
 
 {: #integrated-campaigns .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-The goal of ABM is to strategically engage and convert our [First Order Key Accounts](https://about.gitlab.com/handbook/marketing/account-based-marketing/key-account-lists) to Sales Accepted Opportunities leveraging a variety of marketing channels and offers.
+The goal of ABM is to strategically engage and convert our [First Order Key Accounts](/handbook/marketing/account-based-marketing/key-account-lists) to Sales Accepted Opportunities leveraging a variety of marketing channels and offers.
 
-**[ABM Managers](https://about.gitlab.com/handbook/marketing/account-based-marketing/)** are responsible for the strategizing of ABM campaigns and organizing timelines and DRIs for deliverables to execute on the campaigns.
+**[ABM Managers](/handbook/marketing/account-based-marketing/)** are responsible for the strategizing of ABM campaigns and organizing timelines and DRIs for deliverables to execute on the campaigns.
 
 **Questions? Please feel free to ask in the [#abmteam slack channel](https://gitlab.slack.com/archives/CFBT2HSEB) or ask in the [#marketing slack channel](https://gitlab.slack.com/messages/C0AKZRSQ5) and tag @abm-team.**
 
@@ -37,13 +37,13 @@ In FY23 Q2, the ABM Team has kicked off a single Tier 1 pilot in each region to 
 
 The accounts selected for the Tier 1 pilots were defined by the Regional VPs. These accounts are **First Order** (no customers in the hierarchy) as this is currently the focus for Marketing, determined by sales and marketing leadership and aligned to the overarching business model.
 
-**There will be an epic for every Tier 1 Account - created by the ABM Manager for the region.**  [See Tier 1 Campaign Steps](https://about.gitlab.com/handbook/marketing/account-based-marketing/abm-campaign-approach/#tier1-campaign-steps)
+**There will be an epic for every Tier 1 Account - created by the ABM Manager for the region.**  [See Tier 1 Campaign Steps](/handbook/marketing/account-based-marketing/abm-campaign-approach/#tier1-campaign-steps)
 
 ### Tier 1 Teams
 
 {: #tier1-teams}
 
-The collaborative `Tier 1 Team` is led by an [ABM Manager](https://about.gitlab.com/handbook/marketing/account-based-marketing/) and is comprised of functional DRIs across marketing, sales, bdr, and revenue.
+The collaborative `Tier 1 Team` is led by an [ABM Manager](/handbook/marketing/account-based-marketing/) and is comprised of functional DRIs across marketing, sales, bdr, and revenue.
 
 **Tier 1 team members:**
 - Account Based Marketing (DRI)
@@ -87,7 +87,7 @@ The collaborative `Tier 1 Team` is led by an [ABM Manager](https://about.gitlab.
 - **Reporting:** ABM Manager organizes reporting process and shares results of tests and lead generation out of the account
 - **Optimization:** ABM Manager creates issues for optimizing the campaign, assigning to relevant DRIs
 
-[See more in Tier 1 Team Communication section >>](https://about.gitlab.com/handbook/marketing/account-based-marketing/abm-campaign-approach/#tier1-team-communication)
+[See more in Tier 1 Team Communication section >>](/handbook/marketing/account-based-marketing/abm-campaign-approach/#tier1-team-communication)
 
 ### Tier 1 Epic Creation
 

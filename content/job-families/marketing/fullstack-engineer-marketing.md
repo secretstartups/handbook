@@ -3,7 +3,7 @@ title: Fullstack Engineer - Marketing
 summary: "Fullsttack Engineering on the Marketing team work on our marketing site. They work closely with product marketing, content marketing, and other members of the Marketing team."
 ---
 
-Fullstack Engineers on the Marketing team work on our marketing site: about.GitLab.com and gitlab.com. They work closely with product marketing, content marketing, and other members of the Marketing team. They are a part of the [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/), and report to a [Engineering Manager, Digital Experience](/job-families/marketing/fullstack-engineer-marketing/#manager-engineering).
+Fullstack Engineers on the Marketing team work on our marketing site: about.GitLab.com and gitlab.com. They work closely with product marketing, content marketing, and other members of the Marketing team. They are a part of the [Digital Experience team](/handbook/marketing/digital-experience/), and report to a [Engineering Manager, Digital Experience](/job-families/marketing/fullstack-engineer-marketing/#manager-engineering).
 
 ## Responsibilities
 
@@ -128,9 +128,9 @@ The Manager, Engineering is a [grade 8](/handbook/total-rewards/compensation/com
 
 ## Performance Indicators
 
-- [Contributing to the success of Digital Experience's Quarterly Initiatives](https://about.gitlab.com/handbook/marketing/digital-experience/#okrs)
-- [Identifying and organizing epics into executable Sprint plans](https://about.gitlab.com/handbook/marketing/digital-experience/#iteration-process)
-- [Successfully completing bi-weekly Sprint tasks](https://about.gitlab.com/handbook/marketing/digital-experience/#sprint-cycle)
+- [Contributing to the success of Digital Experience's Quarterly Initiatives](/handbook/marketing/digital-experience/#okrs)
+- [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/digital-experience/#iteration-process)
+- [Successfully completing bi-weekly Sprint tasks](/handbook/marketing/digital-experience/#sprint-cycle)
 
 ## Career Ladder
 

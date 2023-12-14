@@ -64,7 +64,7 @@ Creating a nice look when recording with a green screen requires soft, even ligh
 1. Set up the **standing green screen** in an open space with room ahead for the rest of your gear.
       - Check your light: all house lights should be turned off. Windows are welcome so long as direct sunlight will not contact your green screen or yourself. Windows should also not be directly behind the green screen.
       - Check your sound: Avoid or turn off objects such as fans or appliances that might create excessive noise.
-1. Set up your **camera** using the [provided directions](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/digital-production/digital-production-equipment-list/black-magic-pocket-cinema-camera/) and place it on the tripod ahead of the green screen.
+1. Set up your **camera** using the [provided directions](/handbook/marketing/brand-and-product-marketing/content/digital-production/digital-production-equipment-list/black-magic-pocket-cinema-camera/) and place it on the tripod ahead of the green screen.
       - You can connect the HDMI cable to your camera and use a monitor to verify the image when you are standing in place. Remember, you can also use an HDMI cable with the capture card to connect your camera to Zoom if you need to show the view to someone else.
 1. Check the camera LCD screen (viewfinder). You might want to use a monitor to assist.
       - The camera lens should be approximately the height of your eyes. You should not appear to be tilting your head down or up.

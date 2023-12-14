@@ -12,11 +12,11 @@ description: "The Digital Experience team is a highly cross-functional and cross
 
 ## Overview
 
-The [Digital Experience](https://about.gitlab.com/handbook/marketing/digital-experience/) team is a highly cross-functional and cross-departmental team. The Digital Experience Shadow Program is designed to give access to the work we do and the way we go about it.
+The [Digital Experience](/handbook/marketing/digital-experience/) team is a highly cross-functional and cross-departmental team. The Digital Experience Shadow Program is designed to give access to the work we do and the way we go about it.
 
 ## Goal
 
-The goal of the Digital Experience Shadow Program is to give GitLab team members visibility into the operations of the [Digital Experience](https://about.gitlab.com/handbook/marketing/digital-experience/) team. Participants will shadow all of the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-digital-experience) meetings as well as key meetings of the Digital Experience Leadership Team including Triage, Sprint Planning, Sprint Reviews, and Retros.
+The goal of the Digital Experience Shadow Program is to give GitLab team members visibility into the operations of the [Digital Experience](/handbook/marketing/digital-experience/) team. Participants will shadow all of the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-digital-experience) meetings as well as key meetings of the Digital Experience Leadership Team including Triage, Sprint Planning, Sprint Reviews, and Retros.
 
 ### Benefits For The Company
 
@@ -43,12 +43,12 @@ The goal of the Digital Experience Shadow Program is to give GitLab team members
 ## Preparing For The Program
 
 1. Complete our free [GitLab TeamOps](https://about.gitlab.com/teamops/) training before your shadow week
-2. Read the [Digital Experience Handbook page](https://about.gitlab.com/handbook/marketing/digital-experience/)
+2. Read the [Digital Experience Handbook page](/handbook/marketing/digital-experience/)
 3. Reduce your workload by around 50% during the shadowing time period. Don't plan to do your normal amount of usual non-shadow work
 4. Review the DEX Leadership Team’s readmes:
-    1. [Michael Preuss](https://about.gitlab.com/handbook/marketing/readmes/michael-preuss.html)
+    1. [Michael Preuss](/handbook/marketing/readmes/michael-preuss.html)
     2. Filza Qureshi
-    3. [Lauren Barker](https://about.gitlab.com/handbook/marketing/readmes/lauren-barker.html)
+    3. [Lauren Barker](/handbook/marketing/readmes/lauren-barker.html)
     4. Justin Vetter
 5. Read GitLab's values prior to your shadow rotation, and be mindful of the ways that [CREDIT](/handbook/values/#credit) is lived out during the meetings you attend
 6. Slack in `#digital-experience-team` to let us know a couple of days before your first day

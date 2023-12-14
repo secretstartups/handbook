@@ -1,5 +1,5 @@
 ---
-aliases: /handbook/business-technology/it/security/tools/NordLayer/nordlayer.html
+aliases: /handbook/it/guides/nordlayer
 title: "Nordlayer"
 description: "What is NordLayer?"
 ---

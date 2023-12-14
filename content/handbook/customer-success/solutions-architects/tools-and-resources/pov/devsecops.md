@@ -5,12 +5,6 @@ description: DevSecOps POV Scope and Acceptance
 ---
 
 
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 ## DevSecOps POV Scope and Acceptance
 
 The DevSecOps solution is identified for organizations  who are trying to "shift left" to find security vulnerabilities earlier within their DevOps methodology but have not been able to achieve the expected results.
@@ -58,9 +52,9 @@ If the DevSecOps acceptance maps to the regulatory requirements, it tends to req
 
 SA working with SAE and AE can define the POV scope with the customer, with alignment to the business values and the GitLab solution. For each solution, the typical scope and acceptances are listed for reference but the team should define the scope, time and execution with acceptance for each engagement.
 
-- [Software Compliance](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/compliance/)
-- [Automated Software Delivery](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/automation/)
-- [DevOps Platform cumulatively](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/platform/)
+- [Software Compliance](/handbook/customer-success/solutions-architects/tools-and-resources/pov/compliance/)
+- [Automated Software Delivery](/handbook/customer-success/solutions-architects/tools-and-resources/pov/automation/)
+- [DevOps Platform cumulatively](/handbook/customer-success/solutions-architects/tools-and-resources/pov/platform/)
 
 
 

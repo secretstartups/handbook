@@ -14,7 +14,7 @@ description: "To support and scale GitLab’s continued growth and success, the 
 
 To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing an accreditation program for Solutions Architects that includes functional, soft skills, and technical training for field team members.  
 
-Accreditation badges will align to the critical customer engagements as well as the [field functional competencies](https://about.gitlab.com/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, content, and tools to successfully execute each customer interaction.
+Accreditation badges will align to the critical customer engagements as well as the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, content, and tools to successfully execute each customer interaction.
 
 ## Solutions Architects Curriculum
 

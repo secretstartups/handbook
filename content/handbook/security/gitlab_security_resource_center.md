@@ -18,7 +18,7 @@ Our Customer Assurance Package contains documents such as our SOC2 report, ISO 2
 
 ### GitLab's Trust Center
 
-Our [Trust Center](https://about.gitlab.com/security/) outlines the various compliance and assurance credentials that GitLab maintains. This page also contains links to important security, legal & privacy, and availability resources, such as an [overview of our security practices]({{< ref "_index.md#security-practices" >}}), our [Environmental, Social, and Governance strategy](https://about.gitlab.com/handbook/legal/ESG/), and our [production architecture](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/).
+Our [Trust Center](https://about.gitlab.com/security/) outlines the various compliance and assurance credentials that GitLab maintains. This page also contains links to important security, legal & privacy, and availability resources, such as an [overview of our security practices]({{< ref "_index.md#security-practices" >}}), our [Environmental, Social, and Governance strategy](/handbook/legal/ESG/), and our [production architecture](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/).
 
 ## Frequently asked questions
 
@@ -62,7 +62,7 @@ The following links contain frequently asked security, legal & privacy, and avai
 ### Data classification
 
 - [Data classification standard]({{< ref "data-classification-standard" >}})
-- [Record retention policy](https://about.gitlab.com/handbook/legal/record-retention-policy/)
+- [Record retention policy](/handbook/legal/record-retention-policy/)
 - [Records retention and disposal standard]({{< ref "records-retention-deletion" >}})
 
 ### Disaster recovery
@@ -111,10 +111,10 @@ The following links contain frequently asked security, legal & privacy, and avai
 
 ### Privacy
 
-- [GitLab privacy](https://about.gitlab.com/handbook/legal/privacy/)
-- [Team Member Privacy Notice](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/)
+- [GitLab privacy](/handbook/legal/privacy/)
+- [Team Member Privacy Notice](/handbook/legal/privacy/employee-privacy-policy/)
 - [U.S. State Privacy Rights](https://about.gitlab.com/privacy/#us-state-privacy-rights)
-- [Data protection impact assessment (DPIA) policy](https://about.gitlab.com/handbook/legal/privacy/dpia-policy/)
+- [Data protection impact assessment (DPIA) policy](/handbook/legal/privacy/dpia-policy/)
 *[Account deletion and data access requests workflow]({{< ref "account_deletion_access_request_workflows" >}})
 
 ### Security awareness

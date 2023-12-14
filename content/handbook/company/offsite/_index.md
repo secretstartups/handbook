@@ -198,7 +198,7 @@ In addition to the topics from the [Topic Calendar](#offsite-topic-calendar) abo
 
 These topics are discussed by E-Group before the offsite:
 
-1. Review of [Top Annual Cross-Functional Initiatives](/handbook/company/top-cross-functional-initiatives/) at least two weeks in advance of the Board Meeting that precedes the offsite (80 minutes or 2x45 minutes)
+1. Yearly and OKR progress. These will be reviewed in [monthly touch point meetings](/company/offsite/#monthly-touch-point-meetings).
 1. Planning discussions. These will be faciliated by the Finance Team. Many of them will occur during E-Group Weeklies.
 
 ### Collaborating with EBAs on the Offsite
@@ -220,7 +220,7 @@ Examples of prep work include:
 - [Reading the content that was selected](#content-choice)
 - Executives working with their People Business Partners to prep the [Performance/Potential Matrix of their direct reports](/handbook/people-group/talent-assessment/#the-performancepotential-matrix)
 - Executives working with their People Business Partners to prep any [Director + promotion nominations](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process)
-- Reviewing any Section Direction Materials for reviews, such as the [Growth Section's Direction](https://about.gitlab.com/handbook/marketing/growth/)
+- Reviewing any Section Direction Materials for reviews, such as the [Growth Section's Direction](/handbook/marketing/growth/)
 - Executives propose [draft Key Results for their functions](/handbook/company/okrs/#executives-propose-okrs-for-their-functions)
 - [Watch this short clip on the danger of sticky bears]({{< ref "beware-sticky-bears" >}})
 

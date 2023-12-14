@@ -166,7 +166,7 @@ This represents the combined score for growth and retention:
 
 Urgency allows us to incorporate the dimension of time into the overall prioritization model. The value ranges can be updated at any point in time depending on how GitLab leadership would like to globally influence prioritization across all product teams. 
 
-Retention urgency is a function of a customer's [overall health as defined in Gainsight](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/) and their renewal date. 
+Retention urgency is a function of a customer's [overall health as defined in Gainsight](/handbook/customer-success/csm/health-score-triage/) and their renewal date. 
 
 | Overall Health | Renewal > 18 mo. | Renewal > 12 mo. | Renewal > 6 mo. |
 |---------------|------------------|------------------|-----------------|

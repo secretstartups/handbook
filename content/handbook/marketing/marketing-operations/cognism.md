@@ -53,7 +53,7 @@ If you have concerns about field mapping or you notice that some of the fields d
 
 ## Do Not Call and Do Not Email Automation
 
-If the proper criteria is set, Cognism can cause a lead/contact in SFDC to be labeled as `Do not email` and `Do not call`. Read more about the rules on the [sales development handbook page](https://about.gitlab.com/handbook/marketing/sales-development/#do-not-call-and-do-not-email-automations).
+If the proper criteria is set, Cognism can cause a lead/contact in SFDC to be labeled as `Do not email` and `Do not call`. Read more about the rules on the [sales development handbook page](/handbook/marketing/sales-development/#do-not-call-and-do-not-email-automations).
 
 ## Outreach Integration
 

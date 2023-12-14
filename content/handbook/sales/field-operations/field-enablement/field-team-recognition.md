@@ -33,7 +33,7 @@ It's important to note that these results rely on a steady gratitude practice ov
 
 The Quarterly MVP (most valuable person) program recognizes Field team members who have excelled in a given quarter – not only in revenue-generating activities like closing big deals, but also in exhibiting great behaviors and setting a positive example for other team members.
 
-The program recognizes one MVP per CRO leader (7 total) and one "United Win" (cross-functional account team) each quarter.
+The program recognizes one MVP per region/team (6 total) and one "United Win" (cross-functional account team) each quarter.
 
 1. AMER MVP
 1. EMEA MVP
@@ -71,14 +71,14 @@ The United Win is identified by the CRO leadership team. The "United Win" recogn
    1. Note: Can be done as a part of the Leadership QBRs.
 1. *[4 weeks after quarter close]* CRO LT identifies the United Win and associated team members. A delegate from the CRO LT provides a brief (3-4 sentence) description of why this deal / team was chosen.
    1. Note: This can be done as a part of the CRO QBR.
-1. *[5 weeks after quarter close]* CRO recognizes Quarterly MVPs on the [WW Field Org Call](https://about.gitlab.com/handbook/sales/sales-meetings/#ww-field-org-call).
+1. *[5 weeks after quarter close]* CRO recognizes Quarterly MVPs on the [WW Field Org Call](/handbook/sales/sales-meetings/#ww-field-org-call).
    1. 2 minutes per MVP + 4 minutes for the United win = +/- 15 minutes total for recognition.
 1. *[5 weeks after quarter close]* e-Cards send from CRO including details about recognition dinner
-1. *[5-6 weeks after quarter close]* Achievers recognized in the next-available [Field Flash](https://about.gitlab.com/handbook/sales/field-communications/field-flash-newsletter/)
+1. *[5-6 weeks after quarter close]* Achievers recognized in the next-available [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/)
 
 ### Quarterly MVP Recognition Dinner
 
-As part of this initiative, Quarterly MVPs and core members of the United Win account team are able to expense a meal up to $250.00 USD within the same quarter they were selected in. For example, if a team member is selected as a Quarterly MVP in November, they must expense their meal before the end of Q4 (the last day in January). Please submit your meal expense in Navan and in the description field link to this section of the handbook for approval.
+As part of this initiative, Quarterly MVPs are able to expense a meal up to $250.00 USD within the same quarter they were selected in. For example, if a team member is selected as a Quarterly MVP in November, they must expense their meal before the end of Q4 (the last day in January). Please submit your meal expense in Navan and in the description field link to this section of the handbook for approval.
 
 The $250.00 USD is reimbursable for a meal only, other items do not qualify.
 

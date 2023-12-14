@@ -1,0 +1,306 @@
+---
+
+title: Engineering Principles
+---
+
+
+
+
+
+
+
+## Engineering Principles
+
+At GitLab, [Company Culture](/company/culture) is very important to us. The
+main ingredient of the company culture are [GitLab Values](/handbook/values/).
+
+[GitLab Values](/handbook/values/) have guided us throughout the evolution of
+the company. Those values have been crucial in maintaining a positive and
+productive culture, helping us make decisions to make the company and the
+product better.
+
+Our Engineering Principles are built on top of [GitLab Values](/handbook/values/),
+and provide additional explanation of these in the context of the software
+engineering practice.
+
+1. [Iteration](#iteration)
+1. [Efficiency](#efficiency)
+1. [Simplicity](#simplicity)
+1. [Reliability](#reliability)
+1. [Quality](#quality)
+1. [Predictability](#predictability)
+1. [Velocity](#velocity)
+
+## Iteration
+
+We always push ourselves to be iterative and make the [minimal viable
+change](/handbook/product/product-principles/#the-minimal-viable-change-mvc)
+that is on the direct path to achiving our goals.
+
+For complex initiatives we are using the [Architecture Design Workflow](/handbook/engineering/architecture/workflow/)
+to define our goals and to describe our iteration plan for a given effort. How
+we are going to iterate on something may depend on our mid-to-long-term vision.
+Our goal is to make the iteration as efficient and as pragmatic as possible.
+
+We also sometimes use an established "scooter heuristic": release a smallest
+product that our customers can use, and then iterate on it.
+
+![scooter heuristic](https://gitlab.com/gitlab-org/gitlab/uploads/590251a5311fb50e4dcb174f214e1340/Screen_Shot_2020-02-06_at_3.29.48_PM.png)
+Image Credit: [Henrik Kniberg from Crisp](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
+
+Releasing minimal changes, as quickly as possible, is sometimes a good way to
+think about iteration, especially when intermediate steps provide value to our
+users and allow us to collect meaningful feedback. This has often been our
+default iteration approach.
+
+This "scooter" iteration pattern, however, is not always the most efficient way
+to make progress on something. Sometimes we do need to have a tailored plan for
+[efficient iteration](#efficiency), because if we want to build something more
+complex, our users may not be happy with a scooter or a paper airplane, and we
+will either not get any meaningful feedback or it will not be significant
+enough to be useful. In such cases, how we iterate should be a diligently
+planned strategy, designed to improve efficiency and to allow us to achieve our
+goals within a reasonable amount of time.
+
+At GitLab we can use our [Architecture Design Workflow](/handbook/engineering/architecture/workflow/)
+to build a more pragmatic iteration plan aligned with mid-to-long term vision.
+This usually covers building a Minimal Viable Product too. In this case,
+however, how the MVP is going to look like depends on a thoughtful plan,
+described in writing after collecting feedback throughout the organization.
+
+Below you can find a few patterns that can precede "building the smallest thing
+in the next milestone" pattern, aimed to increase iteration efficiency:
+
+1. Identify fundamental design problems, describe these in a design doc.
+1. Identify most significant risks associated with those, find ways to de-risk.
+1. Develop a plan to iterate on the fundamental design aspects individually.
+1. Deliver a first end-to-end iteration as a prototype or a Proof-of-Concept.
+
+All these things attempt to improve our level of knowledge and reduce
+implementation risk. All of these steps are also iterations by themselves that
+can help us find hidden efficiencies to build better MVPs.
+
+To read more about iteration, see our [values](/handbook/values/#iteration)
+page and [engineering workflow](/handbook/engineering/workflow/iteration/).
+
+## Efficiency
+
+Efficiency is at the core our engineering discipline at GitLab. This is also
+one of the most important [company values](/handbook/values/#efficiency).
+
+How we work in Engineering can have a significant compounding effect over the
+mid-to-long term. If we constantly ask ourselves, "How can we implement this
+thing to become more efficient in mid-to-long term?" while still thinking about
+pragmatic short-term goals, we can hope for seeing a lot value being built over
+time, similarly to how compound interest builds wealth. Overfocusing on
+short-term goals can lead to us missing out on this opportunity.
+
+A short, and incomplete list of things that can help us become more efficient:
+
+1. Build useful and well designed abstractions.
+1. Choose [simple solution](#simplicity) over easy solutions.
+1. Refactor code for simplicity and ease of understanding.
+1. Contribute to an open source project instead of patching locally.
+1. Build automation to reduce repetitive work or simplify a process.
+1. Build new communication channels that enhance knowledge sharing.
+1. Strive for achieving engineering excellence over engineering perfection.
+
+## Simplicity
+
+Simplicity is a prerequisite for reliability. It is also at the core our
+[boring solutions](/handbook/values/#boring-solutions) value. We strive for
+choosing simple solution over easy solution, even when it sometimes means that
+we will need to put more work into building a simple solution.
+
+## Reliability
+
+**Availability/Reliability**, **Quality**, **Security**, and **Performance** are the pillars for building reliable software. Reliability is our contract with our customers that say you can count on us to deliver an available and dependable product. Everyone in the organization has a role to play.
+
+Engineers, Product Managers, and Designers have the most direct influence over the reliability of the code through either planning, implementation, monitoring (e.g. [Kibana](/handbook/support/workflows/kibana.html), [Sentry](/handbook/support/workflows/sentry.html), Grafana and other [Gitlab.com monitoring tools](/handbook/engineering/monitoring/#monitoring)), or prioritization of the work. Product and Engineering management monitors (e.g. [Error Budgets](/handbook/engineering/error-budgets/)) and measures the reliability of features and makes recommendations if necessary. Our focus on [learning and development](/handbook/people-group/learning-and-development/) will also ensure that teams have the tools and training required to build reliable software. The [Infrastructure](/handbook/engineering/infrastructure/#mission), [Application Security](/handbook/security/security-engineering/application-security/#application-security-mission), [Database](/handbook/engineering/infrastructure/core-platform/data_stores/database/) and [Quality](/handbook/engineering/quality/#mission) teams are the Subject Matter Experts supporting product development teams.
+
+## Velocity
+
+### The Importance of Velocity
+
+- The rate at which GitLab delivers new value to users in the form of features is a competitive advantage for the project and the company.
+- As an open source project, people are welcome to fork us. However, in order to ensure that the community remain intact and the bulk of energy is directed toward one version of GitLab, it is important to move fast so that any fork is quickly out-of-date.
+- Companies tend to slow down as they grow. It takes deliberate effort to prevent this, so it must always be top of mind.
+- Once you slow down, it is incredibly painful to speed back up again.
+
+### Incremental Velocity and Measurement
+
+Our velocity should be incremental in nature. It's derived from our [MVC-based approach](/handbook/product/product-principles/#the-minimal-viable-change-mvc), which encourages "delivering the smallest possible solution that offers value to our users". This could be a small new feature, but also includes code improvements, bug fixes, etc.
+
+To measure this, we count and define the target here: [Development Department Narrow MR Rate](/handbook/engineering/development/performance-indicators/#development-department-narrow-mr-rate) which is a goal for managers and not ICs. Historically, we have seen this as high as 11.5 Development Department Narrow MR Rate.
+
+For example, an MR rate of 11 translates to roughly one MR every 1½ business days with time for overhead. To attain this, Product Development Engineers are encouraged to:
+
+- Fix small problems they see in the codebase without an issue resulting in incremental improvements. Small here translates to ½ day or less.
+- Fix small bugs (particularly bug::transient type bugs).  Small here translates to 1/2 day or less.
+- For feature issues, break the issue into several smaller MRs that are delivered incrementally. Small here translates to less than two days.
+- Help dogfood a GitLab feature by using it to fix an issue identified within the codebase. As examples, fix code climate issue for one file OR SAST scanner potential errors found.
+- Raise concerns for issues where our incremental philosophy does not work and the issue cannot be broken down further.
+- Raise concerns for issues that Product Development Engineers do not feel fit the [MVC](/handbook/product/product-principles/#the-minimal-viable-change-mvc) definition.
+
+### Velocity over predictability
+
+We optimize for shipping a high volume of user/customer value with each release. We do want to ship multiple major features in every monthly release of GitLab. However, we do not strive for predictability over velocity. As such, we eschew heavyweight processes like detailed story point estimation by the whole team in favor of lightweight measurements of throughput like the number of merge requests that were included or rough estimates by single team members.
+
+There is variance in how much time an issue will take versus what you estimated. This variance causes unpredictability. If you want close to 100% predictability you have to take two measures:
+
+1. Invest more time in estimation to reduce that variance. The time spent estimating things could otherwise be used to create features.
+1. Leave a reserve of time with unscheduled work so you can accommodate the variance. According to [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law), the work expands so as to fill the time available for its completion. This means that we're not adhering to our [iteration value](/handbook/values/#iteration) and that for the next cycle our estimates for comparable features will be larger.
+
+Both measures reduce the overall velocity of shipping features.
+The way to prevent this is to accept that we don't want perfect predictability.
+Just like with our [OKRs](/company/okrs/), which are so ambitious that we expect to reach about 70% of the goal, this is also fine for shipping [planned features](/handbook/product/product-principles/#how-this-impacts-planning).
+
+_Note:_ This does not mean we place zero value on predictability. We just optimize for velocity first.
+
+### Balance refactoring and velocity
+
+When changing an outdated part of our code (e.g. HAML views, jQuery modules), use discretion on whether to refactor or not. For long term maintainability, we are very interested in migrating old code to the consistent and preferred approach (e.g. Vue, GraphQL), but we're also interested in continuously shipping features that our users will love.
+
+Aim to implement new modules or features with the preferred approach, but changing preexisting non-conforming parts is a gray area.
+
+If the weight of refactoring and other constraints (such as time) risk threatening the availability of a feature, then strongly consider refactoring at another time. On the other hand, if the code in question has hurt availability or poses a threat to it, then strongly consider prioritizing refactoring. This is a balancing act and if you're not sure where your change should go (or whether you should do some refactoring before hand), reach out to another Engineer or Maintainer.
+
+If it makes sense to refactor before implementing a new feature or a change, then please:
+
+- Create separate merge requests for the refactoring and change. This aids maintainability and code review.
+- Notify your engineering manager and relevant stakeholders (preferably in an issue comment) of the relevant scope increase and rationale.
+
+If it is decided **not** to refactor at this moment, then please:
+
+- Make sure a descriptive "technical debt" issue exists for this refactoring.
+- Notify your engineering manager so that the refactoring issue can be weighted and scheduled.
+
+## Predictability
+
+### Prioritizing technical decisions
+
+Please see the [Product Management section](/handbook/product/product-processes/#how-we-prioritize-work) that governs how they prioritize work, and also should guide our technical decision making.
+
+<%= partial "includes/master-prioritization-list.md" %>
+
+Despite the high priority of velocity to our project and our company, there is one set of things we must prioritize over it: GitLab availability & security. Neither we, nor our customers, can run an Enterprise-grade service if we are willing to risk users' productivity and data.
+
+Our hundreds of Engineers collectively make thousands of independent decisions each day that can impact GitLab.com and our users and customers there. They all need to keep availability and security in mind as we endeavor to be the most productive engineering organization in the world. We can only move as fast as GitLab.com is available and secured. Availability of self-managed GitLab instances is also extremely important to our success, and this needs to happen in partnership with our customers' admins (whereas we are the admins for GitLab.com).
+
+For security, we prioritize it more highly by having strict SLAs around priorities labels with [security issues](/handbook/security/#severity-and-priority-labels-on-security-issues). This shows a security first mindset as these issues take precedence in a given timeframe.
+
+### Follow Established Processes
+
+All team members are expected to follow documented processes. We develop and document processes (for example: [Feature flag usage](https://docs.gitlab.com/ee/development/feature_flags/index.html), [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html)) through constant iteration and refinement. We find opportunities for improvement through analyzing metrics to identify trends, hosting retrospectives (e.g. [Group Retrospectives](/handbook/engineering/management/group-retrospectives/), [Iteration Retrospectives](/handbook/engineering/development/dev/create/engineers/iteration/)), performing [Root Cause Analyses](/handbook/customer-success/professional-services-engineering/workflows/internal\root-cause-analysis.html), and receiving feedback from team members. Team members are encouraged to identify opportunities to improve our processes and propose solutions, examples of this could be an MR or and issue describing these opportunities.
+
+Following established processes ensures that we learn from our mistakes and efficiently deliver high-quality, highly performant, and secure software. We prefer to fail fast and learn quickly. Team members who are not software developers benefit from working more efficiently to deliver their results as well. Regardless of your discipline, processes are the guard rails that ensure we produce desirable and predictable results.
+
+Everyone can contribute by proposing new processes and improving upon existing processes.
+
+## Quality
+
+It is important to remember that quality is everyone's responsibility. Everything you merge to master should be production ready. Familiarize yourself with the [definition of done].
+
+[Development Guides]: https://docs.gitlab.com/ee/development/
+[definition of done]: https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done
+
+### Release when it's ready
+
+Our [releases page](/handbook/engineering/releases/) describes our two main release channels:
+
+1. Self-managed users use a [monthly self-managed release](/handbook/engineering/releases/#self-managed-releases).
+1. GitLab.com uses [auto-deploy releases](https://gitlab.com/gitlab-org/release/docs/blob/master/general/deploy/auto-deploy.md).
+
+As the first of these is a monthly release, it's tempting to try to rush to get something in to a monthly self-managed release. However, this is an anti-pattern. Most issues don't have strict due dates. Those that do are exceptions, and should be treated as such.
+
+Due date pressure logically leads to a few outcomes:
+
+1. People are at [increased risk of burnout](/handbook/paid-time-off/#recognizing-burnout).
+1. We may compromise on our [definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done).
+1. We [cut scope](/handbook/values/#move-fast-by-shipping-the-minimal-viable-change).
+1. We miss the due date.
+
+Only the last two outcomes are acceptable as a general rule. Missing a 'due date' in the form of an assigned milestone is often OK as we put [velocity above predictability](#velocity-over-predictability), and missing the monthly self-managed release does not prevent code from reaching GitLab.com.
+
+For these reasons, and others, we intentionally [do not define a specific date](/handbook/engineering/releases/#timelines) for code to be merged in order to reach a self-managed monthly release. The earlier it is merged, the better. This also means that:
+
+1. We don't want merge request authors to [work extra hours](/handbook/values/#measure-results-not-hours) or otherwise rush to meet a due date.
+1. We don't want [reviewers and maintainers](/handbook/engineering/workflow/code-review/) to be put under pressure to do anything other than meet the [regular SLOs](/handbook/engineering/workflow/code-review/#review-response-slo).
+
+If it is essential that a merge request make it in a particular release, this must be communicated well in advance to the engineer and any reviewers, to ensure they're able to make that commitment. If a severe bug needs to be fixed with short notice, it is better to revert the change that introduced it than to rush, or even to delay the release until the fix is ready.
+
+In general, there is no need to change any behavior close to the self-managed release.
+
+### Dogfooding
+
+We [dogfood everything](/handbook/product/product-processes/#dogfood-everything). Based on our [product principles](/handbook/product/#product-principles), it is the Engineering division's responsibility to dogfood features or do the required discovery work to provide feedback to Product. It is Product's responsibility to prioritize improvements or rebuild functionality in GitLab.
+
+#### Dogfooding Antipatterns
+
+An easy antipattern to fall into is to resolve your problem outside of what the
+product offers. Dogfooding is not:
+
+1. Building a bot outside of GitLab.
+1. Writing scripts that leverage the GitLab API (if the functionality is on our
+roadmap and could be shipped within the GitLab Project).
+1. Using a component of GitLab that is part of our [components](https://docs.gitlab.com/ee/development/architecture.html#component-diagram) or [managed apps](https://docs.gitlab.com/ee/user/clusters/applications.html).
+1. Using templates or repos that are not part of the default UI (having to type or copy-paste to add them).
+1. Not deprecating the non-GitLab product or part as you introduce the functionality in GitLab, we need to eat the dogfood, not just serve it.
+1. Using it for something that isn't crucial or essential.
+1. Delaying until every single feature you use now is in the GitLab product.
+1. Not starting it because using a non-GitLab and GitLab product at the same time introduces overhead.
+1. Trying to move the most complex part first, instead please iterate and move the simplest first.
+1. Building it outside of GitLab because "It is just a prototype", "We're not sure it will work", or "We're not sure it is better than the existing functionality"
+
+#### Dogfooding Process
+
+Follow the [dogfooding process described in the Product Handbook](/handbook/product/product-processes/#dogfooding-process) when considering building a tool outside of GitLab.
+
+### Code Quality and Standards
+
+We need to maintain code quality and standards. It's very important that you are familiar with the [Development Guides] in general, and the ones that relates to your group in particular:
+
+- [UX Guides](https://docs.gitlab.com/ee/development/ux)
+- [Backend Guides](https://docs.gitlab.com/ee/development/#backend-guides)
+- [Frontend Guides](https://docs.gitlab.com/ee/development/fe_guide/index.html)
+- [Database Guides](https://docs.gitlab.com/ee/development/#database-guides)
+
+Please remember that the only way to make code flexible is to make it as simple as possible:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A lot of programmers make the mistake of thinking the way you make code flexible is by predicting as many future uses as possible, but this paradoxically leads to *less* flexible code.<br>
+The only way to achieve flexibility is to make things as simple and easy to change as you can.</p>&mdash; Nearby Cats (@BaseCase) <a href="https://twitter.com/BaseCase/status/1085686616499183616?ref_src=twsrc%5Etfw">January 16, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### UI consistency and maintainability across Rails and VueJS Frontend
+
+Part of our engineering culture is to keep shipping so users and customers see significant new value added to GitLab.com or their self-managed instance. To support rapid development, we choose pragmatically the right technology. As each view is unique, we should equally respect our HAML and Vue codebase and make an educated choice per view as to which framework will enable the most consistency and maintainability.
+
+It’s important to keep in mind that when building complex applications, there are many factors to consider such as the fully planned feature to avoid situations where we build an MVC in HAML only to later need to re-write it in Vue due to growing complexity.
+
+To promote visual consistency and an accessible UI, we should always aim to use simple and reusable UI components provided by the [GitLab UI component library](https://gitlab.com/gitlab-org/gitlab-ui/) both in Vue and HAML views. We implement GitLab UI components based on our Pajamas design system and currently these are mostly in Vue, however, we provide [adapters](https://docs.gitlab.com/ee/development/fe_guide/haml.html#available-components) that allow us to use a few simple components in HAML as well. 
+
+If a GitLab UI component is not available on HAML due to its intrinsic complexity, this is a sign that you should implement your feature using Vue instead.
+
+#### When to use VueJS
+
+- You are looking to use an already established component from the ([gitlab-ui](https://gitlab.com/gitlab-org/gitlab-ui)) library.
+- You are building a complex feature that will require multiple [complex components](#complex-components) which are connected to provide interactivity in a single page application.
+- You find yourself enhancing a HAML view's behavior with vanilla JavaScript / jQuery (reactive or asynchronous behavior).
+- You require medium or larger client-side interactivity.
+- You want to build a realtime application.
+
+#### When to use Rails
+
+- You require a simple, static view.
+- You do not need to use multiple components or state management.
+- You do not need to use any of the [complex components](#complex-components) from the ([gitlab-ui](https://gitlab.com/gitlab-org/gitlab-ui)) library (this does not extend to simple components which can be used in HAML such as labels).
+
+#### Complex Components
+
+A complex component denotes a type of component that cannot be used easily in our HAML files. This might be due to in-built state management, CSS or dynamic behaviour that rapidly becomes a maintainability burden inside HAML. An example of such a component would be our [Table component](https://gitlab-org.gitlab.io/gitlab-ui/?path=/docs/base-table-table--default).
+
+* [backend](https://docs.gitlab.com/ee/development/api_graphql_styleguide.html)
+* [frontend](https://docs.gitlab.com/ee/development/fe_guide/graphql.html)
+* [use GraphQL everywhere](https://gitlab.com/groups/gitlab-org/-/epics/1366)
+* [the importance of velocity](/handbook/engineering/development/principles/#the-importance-of-velocity)
+* [engineering proposed initiative](/handbook/engineering/#engineering-proposed-initiatives)

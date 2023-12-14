@@ -1578,6 +1578,7 @@ The way a model is materialized will directly impact how long the model runs dur
 - Table models should be used when there is complex query logic that negatively impacts downstream queries if it were to be performed with each query.
 - Incremental models should be used when the table is a size M or larger, the model run time is a size L or larger, and existing source data changes very little day to day.
   - Incremental models should be set to never full refresh if the table a XL size or larger, the source data does not update old records, and there is low risk of the schema of the source data changing.
+  - Incremental models can use a temporary table or a view for the incremental load and may have different performance.  Each option should be evaluated when creating a new incremental model. Further details can be found [here](https://docs.getdbt.com/reference/resource-configs/snowflake-configs#temporary-tables).
 
 #### Query Optimization
 

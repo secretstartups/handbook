@@ -31,7 +31,7 @@ It is currently not possible to track metrics for LinkedIn personal profiles. Pe
 
 ## Tools
 
-- [KeyHole](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/tools/keyhole/): Twitter Impressions/Engagements 
+- [KeyHole](/handbook/marketing/developer-relations/developer-evangelism/tools/keyhole/): Twitter Impressions/Engagements 
 - [DE-Bot](https://gitlab.com/gitlab-com/marketing/corporate_marketing/developer-evangelism/code/de-bot):  Internal tool for issue triage and team workflow automation
 - [DE-Dashboard](https://gitlab.com/gitlab-com/marketing/corporate_marketing/developer-evangelism/code/de-dashboard/): Internal tool for data collection and reporting.
 - [Developer Evangelism Dashboard](https://datastudio.google.com/u/0/reporting/4cd1e6a9-23f2-4de1-b8fa-29e42cb646c1/page/YsgmB): Holistic view of all metrics collected for the Evangelist Program.
@@ -44,4 +44,4 @@ The [DE-Dashboard](https://gitlab.com/gitlab-com/marketing/corporate_marketing/d
   - [Retrieve list of DE YouTube videos](https://gitlab.com/gitlab-com/marketing/corporate_marketing/developer-evangelism/code/de-dashboard/-/blob/master/youtube.rb) to Google Sheet for tracking
   - Analyze Developer Evangelism issue creation and closure in the Corporate marketing issue tracker
   - Host the data endpoint for Social media metrics
-  - Computation and report of [team request budgets](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/). 
+  - Computation and report of [team request budgets](/handbook/marketing/developer-relations/developer-evangelism/). 

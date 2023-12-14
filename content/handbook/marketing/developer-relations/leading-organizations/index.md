@@ -20,7 +20,7 @@ Our goal is for 10% of GitLab customers to be Leading Organizations by FY25Q4. T
 
 ## Qualification
 
-Definition: A company or individual that reaches 15 merged merge requests or more over a trailing three full calendar month basis. See more about qualification Leading Organizations in the [code review section](https://about.gitlab.com/handbook/engineering/workflow/code-review/#leading-organizations)
+Definition: A company or individual that reaches 15 merged merge requests or more over a trailing three full calendar month basis. See more about qualification Leading Organizations in the [code review section](https://about.gitlab.com/handbook/engineering/workflow/code-review/#leading-organizations).
 
 Continued program membership for existing Leading Organizations will be reviewed [quarterly](/handbook/communication/#communicating-dates-and-time).
 
@@ -38,10 +38,10 @@ Lack of developer talent is one of the biggest threats to businesses. Contributi
 
 ### Reduce Cost & Improve Innovation
 
-80% of companies expect to increase their use of enterprise open source software for emerging technologies. [^1]
+80% of companies expect to increase their use of enterprise open source software for emerging technologies.[^1]
 
-1. Paying employees to contribute to open source can double the company’s productivity, when compared to non-contributing competitors [^2].
-1. Open source saves time and money while increasing efficiency [^3].
+1. Paying employees to contribute to open source can double the company’s productivity, when compared to non-contributing competitors.[^2]
+1. Open source saves time and money while increasing efficiency.[^3]
 1. Consistent contributing enables organizations to replace point solutions faster while reducing technical debt.
 
 ## Program Benefits
@@ -59,7 +59,7 @@ Leading Organizations receive:
 
 To apply to join the Leading Organization program:
 
-1. Schedule a workshop, click [here](https://calendly.com/nick_vh)
+1. Schedule a workshop, click [here](https://calendly.com/nick_vh).
 1. Once accepted into the program, you'll receive a welcome e-mail
 1. Schedule an onboarding workshop
 
@@ -71,8 +71,8 @@ GitLab hosts workshops with organizations interested in increasing their contrib
 
 1. **Program Workshop** - Program Overview and Benefits
    1. Audience: Business Stakeholders, GitLab: Leading Organization Team and CSM/Account Executive
-   <object data="/handbook/marketing/community-relations/leading-organizations/leading-org-workshop-handbook-page.pdf" type="application/pdf" width="100%" height="500px">
-   <p>Unable to display PDF file. <a href="/handbook/marketing/community-relations/leading-organizations/leading-org-workshop-handbook-page.pdf">Download it</a> instead.</p>
+   <object data="/handbook/marketing/developer-relations/leading-organizations/leading-org-workshop-handbook-page.pdf" type="application/pdf" width="100%" height="500px">
+   <p>Unable to display PDF file. <a href="/handbook/marketing/developer-relations/leading-organizations/leading-org-workshop-handbook-page.pdf">Download it</a> instead.</p>
    </object>
 
 2. Onboarding Workshop & Technical Deep Dive
@@ -84,8 +84,8 @@ GitLab hosts workshops with organizations interested in increasing their contrib
 ## Tips from GitLab on how to accelerate your organization's contribution rate
 
 - Ensure your contributions are being counted by entering your organization’s name into your GitLab profile details
-- Enable employees to make their [first contributions](/community/hackathon/)
-- Join [Monthly Hackathons](/community/hackathon/)
+- Enable employees to make their [first contributions](https://about.gitlab.com/community/hackathon/)
+- Join [Monthly Hackathons](https://about.gitlab.com/community/hackathon/)
 - Allocate dedicated time for employees to contribute back to open source
 - Address legal questions about contributing with [this FAQ](https://about.gitlab.com/community/contribute/dco-cla/#frequently-asked-questions)
 
@@ -94,9 +94,9 @@ GitLab hosts workshops with organizations interested in increasing their contrib
 Email: [leadingorganizations AT gitlab DOT com](mailto:leadingorganizations@gitlab.com)
 
 Contribution Help:
-- [Developer Relations team](https://about.gitlab.com/handbook/marketing/developer-relations/)
-- [Contributor Success team](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/)
-- [Core team](/community/core-team/)
+- [Developer Relations team](/handbook/marketing/developer-relations/)
+- [Contributor Success team](/handbook/marketing/developer-relations/contributor-success/)
+- [Core team](https://about.gitlab.com/community/core-team/)
 - [MR Coaches](/job-families/expert/merge-request-coach/)
 
 ## Who

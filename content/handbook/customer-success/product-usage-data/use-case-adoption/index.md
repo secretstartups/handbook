@@ -13,7 +13,7 @@ description: "How we measure a customer's health score for general GitLab and di
 
 ---
 
-To drive use case enablement and expansion with customers, we need to define exactly what it means to adopt a use case at GitLab. These health measures will appear in the **Product Usage** scorecard section in Gainsight. For more, see the [Gainsight Scorecard Attributes and Calculations](https://about.gitlab.com/handbook/customer-success/customer-health-scoring/#gainsight-scorecard-attributes-and-calculations).
+To drive use case enablement and expansion with customers, we need to define exactly what it means to adopt a use case at GitLab. These health measures will appear in the **Product Usage** scorecard section in Gainsight. For more, see the [Gainsight Scorecard Attributes and Calculations](/handbook/customer-success/customer-health-scoring/#gainsight-scorecard-attributes-and-calculations).
 
 
 ## License Utilization
@@ -60,7 +60,7 @@ Position as a way for the customer to get value out of the seats they've already
 | SCM (Create)       | Basic Adoption           | Is my customer using the basic toolset? Most customers should adopt these features pretty quickly into their GitLab journey |
 | CI (Verify)        | Product Stickiness       | As part of their continued adoption and customer journey, we want to help our customers adopt CI, as well as helping their central DevOps teams to better understand their organization's adoption of CI. Use these metrics to help determine progress towards adoption |
 | Security (DevSecOps) | Enablement & Expansion   | For customers using our security features or who are trialing and wanting to [shift left](https://about.gitlab.com/blog/2020/06/23/efficient-devsecops-nine-tips-shift-left/), use these metrics to help identify adoption and track growth |
-| CD (Release) | Enablement & Expansion   | How much has my customer adopted GitLab for deployments? The next path along the customer journey is the [CD use case](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/) |
+| CD (Release) | Enablement & Expansion   | How much has my customer adopted GitLab for deployments? The next path along the customer journey is the [CD use case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/) |
 
 ### Gainsight Scoring Overview
 
@@ -142,7 +142,7 @@ Due to equal weighting and Gainsight's defined scoring ranges, two (2) of the th
    1. [INTERNAL - Customer Availability, Eligibility & Opt-Out](https://internal.gitlab.com/handbook/product/fulfillment/cloudlicensing/cloud-licensing/#customer-availability-eligibility--opt-out)
    1. [Cloud Licensing Adoption Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/WIPCloudLicensingPOC/CloudLicensingAdoption?:iid=1)
    1. **Resolution**: Exceptions are considered valid reasons for a customer to not be sending data. However, we have made more exceptions than planned and will be working on enablement on removing exceptions at time of renewal wherever possible.
-1. Usage is measured at the instance level, which is attached to a subscription, attached to an account. So a "Account" health score is a view of a single instance (the most important one) but, for more complex accounts, that can hide the health of other instances and subscriptions (see [graph](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#csmcse-actions)) that shows how a single account can have multiple subscriptions and each subscription could have multiple instances (self-managed only). Process for dealing with [multiple production instances](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#multiple-production-instances-health-scoring)
+1. Usage is measured at the instance level, which is attached to a subscription, attached to an account. So a "Account" health score is a view of a single instance (the most important one) but, for more complex accounts, that can hide the health of other instances and subscriptions (see [graph](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#csmcse-actions)) that shows how a single account can have multiple subscriptions and each subscription could have multiple instances (self-managed only). Process for dealing with [multiple production instances](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#multiple-production-instances-health-scoring)
    1. **Resolution**: The ideal outcome is to "split" subscriptions apart into relevant child accounts, which is being [discussed here](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/3032)
 1. `Billable Users` was a metric introduced in 14.0. Any customers on an older (self-managed) instance will not have this value and License Utilization will appear as NULL (note: this is a non-issue for SaaS customers)
    1. **Resolution**: Focus on Cloud License adoption
@@ -181,7 +181,7 @@ Using the Gainsight Rules Engine, we have created a mechanism for a Call to Acti
 
 Through this CTA, the CSM is notified quickly when a customer may be decreasing their usage of an area of the product, so that they can investigate, ask discovery questions, and triage early, in order to help customers adopt and avoid potential churn or contraction down the line.
 
-While there may be some false positives (for example holiday breaks when no one is working), we prefer to be extra cautious when it comes to potential risk, so we ask CSMs to do their due diligence when receiving these CTAs to ensure their customer is not facing new blockers, company changes, etc. that could affect their renewal, and if they are to begin the [triage process](https://about.gitlab.com/handbook/customer-success/csm/renewals/#gitlab-account-triage-project) immediately.
+While there may be some false positives (for example holiday breaks when no one is working), we prefer to be extra cautious when it comes to potential risk, so we ask CSMs to do their due diligence when receiving these CTAs to ensure their customer is not facing new blockers, company changes, etc. that could affect their renewal, and if they are to begin the [triage process](/handbook/customer-success/csm/renewals/#gitlab-account-triage-project) immediately.
 
 The CSM may also be able to spot trends of where customers may have lagging usage either over time or across their books of business and suggest best practices to their customers to help with expectations and adoption.
 
@@ -213,4 +213,4 @@ There are three main fields we use at the Instance and Namespace level (generall
 
 ### Reporting Bad Usage Statistics
 
-If you want to report bad usage stats, please refer to this handbook page on [Triaging Data Quality](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#triaging-data-quality).
+If you want to report bad usage stats, please refer to this handbook page on [Triaging Data Quality](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#triaging-data-quality).

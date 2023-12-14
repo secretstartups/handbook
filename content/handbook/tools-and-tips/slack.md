@@ -7,6 +7,23 @@ description: "Slack usage and tips at GitLab"
 
 *Slack is an important part of GitLab's strategy for communication between team members. As such, extra care needs to be given to ensure the safety and integrity of data.*
 
+## Profile
+
+Fill in your Slack profile, as we use Slack profiles as our Team Directory to stay in touch with other team members. Important fields include:
+
+- Photo
+- Title (should be your GitLab job title)
+- GitLab.com profile (set the Display text to your @gitlabusername so that people don't need to click the link to identify your username)
+- Time zone (useful for other GitLab team members to see when you're available)
+- Working hours (can help others to identify the times you are generally available)
+- GitLab Birthdays (opt in or out of the birthday celebrations in Slack by selecting yes or no)
+- State / Province and Country (optional)
+- You can add your personal email address, phone number including country code (optional)
+- Consider changing your "display name" if you prefer to be addressed by a nickname
+- Consider adding your pronouns in the Pronouns field. By making it normal to set pronouns we create a more inclusive environment for people who use non-traditional pronouns.
+- Consider adding pronunciation guides for your full name Name pronunication field to help others to pronounce your name correctly (e.g. sid see-brandy for Sid Sijbrandij).
+- Do not enter anything in the G-Cal Booking! field unless you would like to set up and make use of a [Calendly Account](/handbook/tools-and-tips/other-apps/#calendly)
+
 ## Channels
 
 Channels are a core feature of Slack. This section describes tools and tips for managing Slack channels. For a list of common GitLab Slack channels, please see the [GitLab Communication Chat](/handbook/communication/chat).

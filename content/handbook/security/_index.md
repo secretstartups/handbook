@@ -168,7 +168,7 @@ GitLab provides a `panic@gitlab.com` email address for team members to use in si
 
 This email address is only accessible to GitLab team members and can be reached from their gitlab.com or personal email address as listed in Workday. Using this address provides an excellent way to limit the damage caused by a loss of one of these devices.
 
-Additionally if a GitLab team member experiences a personal emergency the People Group also provides an [emergency contact email](https://about.gitlab.com/handbook/people-group/#in-case-of-emergency).
+Additionally if a GitLab team member experiences a personal emergency the People Group also provides an [emergency contact email](/handbook/people-group/#in-case-of-emergency).
 
 #### Sub-groups and projects
 
@@ -281,7 +281,7 @@ issues across all GitLab projects, especially:
 - [infrastructure](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/)
 - [production](https://gitlab.com/gitlab-com/gl-infra/production/issues/)
 
-When opening issues, please follow the [Creating New Security Issues]({{ ref "engaging-with-security#creating-new-security-issues" }}) process for using labels and the confidential flag.
+When opening issues, please follow the [Creating New Security Issues]({{% ref "engaging-with-security#creating-new-security-issues" %}}) process for using labels and the confidential flag.
 
 #### Other Resources for GitLab Team Members
 

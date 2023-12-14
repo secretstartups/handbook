@@ -13,8 +13,8 @@ description: "This handbook page describes the styling, punctuation, spelling, a
 
 ## Related pages
 
-- [Blog handbook](https://about.gitlab.com/handbook/marketing/blog/)
-- [Brand guidelines](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/)
+- [Blog handbook](/handbook/marketing/blog/)
+- [Brand guidelines](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/)
 
 ## Why use the blog style guide?
 
@@ -148,7 +148,7 @@ Jan. 3, 2019 (abbreviate month, no `rd` after 3)
 
 ## Headlines
 
-Please see [headline advice](https://about.gitlab.com/handbook/marketing/blog/#title) in the blog handbook.
+Please see [headline advice](/handbook/marketing/blog/#title) in the blog handbook.
 
 ## Lists
 
@@ -294,11 +294,11 @@ How to spell and style commonly used words.
 
 ### Diversity, Inclusion, and Belonging
 
-We have a [checklist for writers in the blog handbook](https://about.gitlab.com/handbook/marketing/blog/#diversity-inclusion-and-belonging-dib-checklist-for-blog-writers) to help guide a more inclusive writing process. The checklist below is for editors to ensure that our published content reflects our values of Diversity, Inclusion, and Belonging (DIB).
+We have a [checklist for writers in the blog handbook](/handbook/marketing/blog/#diversity-inclusion-and-belonging-dib-checklist-for-blog-writers) to help guide a more inclusive writing process. The checklist below is for editors to ensure that our published content reflects our values of Diversity, Inclusion, and Belonging (DIB).
 
 #### Are the images inclusive?
 
-- Are images (cover image and any screengrabs) [inclusive](https://about.gitlab.com/handbook/marketing/blog/#inclusive-photos)?
+- Are images (cover image and any screengrabs) [inclusive](/handbook/marketing/blog/#inclusive-photos)?
 - Is the alternative text descriptive (for SEO and accessibility)? If not, tag the author or make the change yourself. Here are some [tips on writing descriptive alternative text](https://moz.com/learn/seo/alt-text).
 
 #### Is the writing inclusive?

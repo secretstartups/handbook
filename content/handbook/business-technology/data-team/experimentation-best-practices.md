@@ -204,7 +204,7 @@ Before launching an experiment:
     - Ex: In a comparable company, we leveraged data from 2 dozen past examples to understand the relationship between increased notification type and notification disablement.
     - Ex. In a comparable company, using metadata from ~50 past results, we understood the session lift by increasing the volume of different email types.
     - Ex: In a comparable company, we leveraged ~8 past analyses to understand the incremental value of additional cross merchandising spots.
-    - Growth team already documents [experiments results](https://about.gitlab.com/handbook/marketing/growth/) in a centralized handbook page. We should adopt this practice across Gitlab in a centralized page.
+    - Growth team already documents [experiments results](/handbook/marketing/growth/) in a centralized handbook page. We should adopt this practice across Gitlab in a centralized page.
 
 
 ## Experimentation Governance:
@@ -256,7 +256,7 @@ Based on initial feedback and observations on current experiment platform capabi
 
 ## References:
 
-- [Growth Experiments page:](https://about.gitlab.com/handbook/marketing/growth/)<span style="text-decoration:underline;"> </span>Growth is already documenting experiment results in a centralized page.  
+- [Growth Experiments page:](/handbook/marketing/growth/)<span style="text-decoration:underline;"> </span>Growth is already documenting experiment results in a centralized page.  
 - [Growth experiment dashboard](https://app.periscopedata.com/app/gitlab/860363/Experiment-Data-Validation) (By Dave) helps the team to quickly validate experiment data accuracy post launch.
 - [7 Step A/B testing process](https://blog.optimizely.com/2016/08/10/7-step-ab-testing-process/) Need to invest time on planning, Design and QA
 - [A/B testing for a low traffic website](https://blog.optimizely.com/2016/05/17/ab-testing-for-low-traffic-websites/)

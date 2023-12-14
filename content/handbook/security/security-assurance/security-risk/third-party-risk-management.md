@@ -14,7 +14,7 @@ The integration of GitLab's TPRM program within the vendor Procurement flow enab
 
 ## Purpose
 
-GitLab's Security Third Party Risk Management (TPRM) Program helps guard against security threats posed by third parties who have access to GitLab data or that of our customers. These risks may include data breaches, unauthorized use or disclosure, and corruption or loss of data. Adequate TPRM is a best practice that helps [mitigate security concerns](/handbook/leadership/mitigating-concerns/#security-breach) and enables GitLab to meet our contractual obligations. TPRM also enables GitLab to meet regulatory requirements and standards related to ISO, SOX, GDPR and other state and federal laws requiring vendor oversight.
+GitLab's Security Third Party Risk Management (TPRM) Program helps guard against security threats posed by third parties who have access to GitLab data or that of our customers. These risks may include data breaches, unauthorized use or disclosure, and corruption or loss of data. Adequate TPRM is a best practice that helps [mitigate security concerns](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns/#security-breach) and enables GitLab to meet our contractual obligations. TPRM also enables GitLab to meet regulatory requirements and standards related to ISO, SOX, GDPR and other state and federal laws requiring vendor oversight.
 
 GitLab's Security TPRM program involves three components which are integrated in to our [Procurement](/handbook/finance/procurement/) processes:
 1. Performing due diligence to ensure the third party implements safeguards to enforce data privacy and security.
@@ -248,9 +248,9 @@ The Security Risk team facilitates multiple functions to maintain accuracy of Te
 ### Exceptions to the TPRM Process
 
 In specific instances, requirements for the performance or contents of TPRM reviews may vary from the standard process defined above:
-1. For privacy-driven TPRM reviews, instances where GitLab **receives** personal data from a third party in a [Controller-to-Controller](https://about.gitlab.com/handbook/legal/privacy/#privacy-terms) transfer do not require a TPRM review. The Privacy team will classify the nature of the relationship as part of the Privacy assessment during the procurement process.
-1. Law Firms, Accountants and Auditors may receive data, including red data, in a [Controller-to-Controller relationship](https://about.gitlab.com/handbook/legal/privacy/#privacy-terms), meaning these types of entities have direct obligations and standards for processing data under law. As such, these entities may be treated as Orange vendors.
-1. Instances where Gitlab team members provide their own data to a third-party [Data Controller](https://about.gitlab.com/handbook/legal/privacy/#privacy-terms), in which the team member personally acknowledges the third-party's terms, may not require a TPRM assessment.  Examples may include signing up for health, coaching or counseling benefits where GitLab only finances the service but does not send or receive data on behalf of team members and team members voluntarily decide to enter the program.
+1. For privacy-driven TPRM reviews, instances where GitLab **receives** personal data from a third party in a [Controller-to-Controller](/handbook/legal/privacy/#privacy-terms) transfer do not require a TPRM review. The Privacy team will classify the nature of the relationship as part of the Privacy assessment during the procurement process.
+1. Law Firms, Accountants and Auditors may receive data, including red data, in a [Controller-to-Controller relationship](/handbook/legal/privacy/#privacy-terms), meaning these types of entities have direct obligations and standards for processing data under law. As such, these entities may be treated as Orange vendors.
+1. Instances where Gitlab team members provide their own data to a third-party [Data Controller](/handbook/legal/privacy/#privacy-terms), in which the team member personally acknowledges the third-party's terms, may not require a TPRM assessment.  Examples may include signing up for health, coaching or counseling benefits where GitLab only finances the service but does not send or receive data on behalf of team members and team members voluntarily decide to enter the program.
 1. Field Marketing events do not require the completion of a Security review as the gathering of contact information for GL Team Members and prospects is considered to be standard for the normal course of business for the Field Marketing team. Note that if the Field Marketing Team is commissioning the use of software to facilitate its operations or have hired a Vendor to collect data on behalf of Gitlab, these vendors may be subject to TPRM review as they could be considered a [Data Processor]((/handbook/legal/privacy/#privacy-terms))(see 1. above for more information). GitLab receiving event data from another organizer or GitLab sharing event data with other independent organizations and/or sponsors does not require a TPRM assessment.
 
 ### Other Types of Third Party Assessments
@@ -295,6 +295,8 @@ GitLab Team Members leverage [Individual Use Software](/handbook/finance/procure
 
 Commonly requested individual-use software is added to the Pre-Approved Application Listing located [here](/handbook/finance/procurement/personal-use-software/#pre-approved-individual-use-software-requests). This listing is used to document approved vendors, their data classification, and the expiration of their most recent TPRM assessment where applicable. Assessments that have aged out are re-performed on an ad-hoc basis or upon entry of a new procurement request.
 
+Orange Individual-Use Software is assessed under a reduced scope in consideration of vendor resourcing and the limited scope of usage wihtin GitLab. See the **TPRM Assessment Requirements** section above for more detail on requirements for these vendors. Assessors are encouraged to perform a full-scope assessment if they feel one is warranted.
+
 #### Independent Assessments
 
 Want to vet a third party before initiating a new procurement request? [Click here to open a new Third Party Risk Intake Request](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new?issuable_template=TPRM%20Intake%20Request).
@@ -330,6 +332,7 @@ Identified deficiencies are reported to the Business Owner via a [Risk Acceptanc
 1. **Acknowledgement** of the [Accept the Risk](/handbook/security/security-assurance/security-risk/storm-program/#accept-the-risk) section of the StORM handbook page and their understanding of its contents.
 1. **Justification** for moving forward with the vendor in light of the identified deficiencies.
 1. **Approval** of the risk. Note that this may require multiple levels of approval based on the level of risk identified. See below.
+1. **Annual recertification** is required in the event that the risk is unremediated. This will include a new assessment of the vendor or system along with associated approvals.
 
 Deficiencies require different stakeholder input based on the level of risk associated with the deficiency. Note that additional levels of approval may be required at the discretion of the Security team. For example, if a "Moderate Risk" system has financial reporting implications, eGroup approval may be required.
 

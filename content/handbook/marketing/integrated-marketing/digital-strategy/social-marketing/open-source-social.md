@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/marketing/integrated-marketing/digital-strategy/social-marketing/open-source/open-source-social.html
 title: "Open Social Media Strategies from GitLab"
 description: Use these micro-strategies to up your social game
 twitter_image: "/images/opengraph/open-social-strategies.png"

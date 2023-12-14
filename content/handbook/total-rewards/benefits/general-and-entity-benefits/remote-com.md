@@ -100,6 +100,8 @@ More information can be found below:
 
 Team members in Denmark can also access the [public healthcare system](https://www.healthcaredenmark.dk/). This healthcare system covers all the team members and their family members.
 
+Team members can expense up to $250 for eye examination and glasses if they require corrective eyeware to work at a computer screen for extended periods of time. (Login required to see [policy](https://support.remote.com/hc/en-us/articles/20050865403149-Screen-Work-Eye-Examination))
+
 ### Pension
 
 Remote will directly contribute to a Group Pension Plan (Soderberg & Partners). The team member will contribute 4% of the monthly base salary, with the Employer contributing 8% of the team members monthly base salary. The contribution to the pension savings plan will be paid directly into the pension plan in conjunction with the Employer’s payment of the monthly salary to the team member.
@@ -301,6 +303,21 @@ To initiate your parental leave, submit the dates via Time Off by Deel under the
 If you are eligible to for GitLab's parental leave, your payments will be made up of payments from UIF and then supplemented up to 100%.
 
 Please submit the dates of your leave in Time Off by Deel by selecting the `Parental Leave` option.  The Absence Management team will contact you with more information.  Once you send your parental leave notification in Time Off by Deel, the Absence Management team will notify Remote. Remote will then get in touch with you to explain the UIF payment claim process.
+
+### Expenses
+
+**Important note:**
+
+Please read carefully the additional requirements outlined in Remote's taxation of [expenses article](https://support.remote.com/hc/en-us/articles/21097725062285-Taxation-of-expenses-in-South-Africa) accessible by logging into the Remote platform.
+
+Team members located in South Africa must submit all expenses via Navan (GitLab's expense tool). Additionally, Remote is committed to ensuring team member's tax compliance and may require additional details for specific Navan-approved expenses to process through the payroll in accordance with local tax regulations.
+
+**Example:**
+
+A team member has an approved expense on Navan for incidental costs like meals and parking related to a business event.
+Remote will require the team member to complete an additional spreadsheet containing details of the business trip (local or abroad) and submit this spreadsheet through the Remote portal. Please refer to this [guide](https://support.remote.com/hc/en-us/articles/4411238221965-Add-an-expense) for more detailed instructions on submitting expenses.
+
+If you experience any issues, please contact Remote via email: help@remote.com. **No other expenses need to be submitted via the Remote portal, only Navan should be used.**
 
 ## Spain
 
@@ -584,7 +601,7 @@ Employees in Mexico are covered by the Social Security Law, under IMSS who is re
 
 ### Life Insurance
 
-- Life insurance cover provided via Remote (Details to be added by Total Rewards)
+- Life insurance cover provided via Remote. Effective January 1, 2024, all Team Members will be enrolled in the Remote Global Life Insurance plan with a cover level of 200,000 USD at no cost to the team member.
 
 ### Christmas Bonus (Aguinaldo)
 

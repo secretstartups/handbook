@@ -1,3 +1,8 @@
+---
+title: Buddy Tasks
+draft: true
+---
+
 1. [ ] - Book a 1:1 with the new Product Manager for day 1
 1. [ ] - Schedule a reminder to check in on their onboarding issue, how are they doing, how can you help, etc. that is recurring for their first 6 weeks.
 1. [ ] - Suggest handbook pages they may find useful
@@ -5,15 +10,15 @@
     - Product Specific Pages
         - [Validation Track](/handbook/product-development-flow/#validation-track)
 	    - [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
-	    - [Getting Access to Data as a PM](/handbook/business-technology/data-team/programs/data-for-product-managers/) 
+	    - [Getting Access to Data as a PM](/handbook/business-technology/data-team/programs/data-for-product-managers/)
 	    - [Managing your Product Direction](/handbook/product/product-processes/#managing-your-product-direction)
 	    - [How to work as a PM](/handbook/product/product-processes/#how-to-work-as-a-pm)
 	- Pricing / tier related
 	    - https://about.gitlab.com/company/pricing/#three-tiers
-		- [Buyer Personas](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/)	
+		- [Buyer Personas](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/)
 	- [Product Categories page](/handbook/product/categories/) to find who is the DRI for a category
 	- [Features by tier and group](/handbook/product/categories/features/)
-	- [Analytics Direction Page](https://about.gitlab.com/direction/analytics/)	
+	- [Analytics Direction Page](https://about.gitlab.com/direction/analytics/)
 	- Helpful for research
 		- [How/When to start a research project](/handbook/product/ux/ux-research/#conducting-ux-research-at-gitlab)
 		- [How to recruit for a UX Project](/handbook/product/ux/ux-research/recruiting-participants/)
@@ -51,9 +56,9 @@
 	    - Hold a call with your Designer talking about the issues the team will work on that milestone with preference to issues that are `~direction` AND `~Deliverable`.
 		- [Company wide call](/handbook/product/product-processes/product-mgt-operations/pm-operating-procedures/#kickoff-meetings)
     - During the milestone
-	    - Keep an eye on your TODOs if you use them for pings/questions from your development team or customers/users asking about progress on issues to keep them moving. 
+	    - Keep an eye on your TODOs if you use them for pings/questions from your development team or customers/users asking about progress on issues to keep them moving.
     - [Release posts](/handbook/product/product-processes/#writing-release-blog-posts)
-	    - Important deadlines are having them in review by Technical Writing and PMM two weeks prior to the release and merged 7 days prior to the release. 
+	    - Important deadlines are having them in review by Technical Writing and PMM two weeks prior to the release and merged 7 days prior to the release.
     - Moving issues that do not finish in the milestone
 	    - This is an [https://about.gitlab.com/handbook/engineering/quality/triage-operations/#milestone-reschedule] to move issues that do not finish in amilestone but it's good to review issues that were not closed in a milestone as it does not move confidential issues.
     - Retrospectives

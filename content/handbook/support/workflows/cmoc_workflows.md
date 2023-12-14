@@ -100,7 +100,7 @@ Once you join the incident Zoom call, take note of any updates that have been ma
 
 #### Administrative Tasks on Status.io
 
-Any updates **outside documented incident updates** that require administrator access to the GitLab System Status page should be initiated with [this template](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Status%20page%20administrative%20task.md).
+Any updates **outside documented incident updates** that require administrator access to the GitLab System Status page should be initiated with [this template](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Status%20page%20administrative%20task).
 
 The template will ping CMOC DRIs in scenarios where we need to update or add components. Before adding or changing components, please ensure to get a review from infrastructure counterparts from the appropriate [Reliability Team](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#reliability-teams).
 
@@ -224,8 +224,15 @@ The CMOC now needs to notify internal stakeholders of the incident using the Inc
 This workflow, once used, will ask you to fill out a form with details of the incident and will then post those details to `#developer-relations` and `#customer-success`. This serves to notify those teams of the incident. To engage the workflow:
 
 1. Within the `#support_gitlab-com` channel, type `/` in the message box to bring up the list of available workflows and select the `Incident Notifier` workflow.
-1. Fill in all of the details.
+1. Fill in the following details that are shared in the #incident-management channel
+   - **Summary**: Brief summary, you can make it the same as the CMOC notice.
+   - **Severity**: Select the same severity as the Incident.
+   - **Production issue**: Link to the incident issue. eg: `https://gitlab.com/gitlab-com/gl-infra/production/-/issues/12345`
+   - **Incident Slack Channel**: Link to the incident slack channel. eg: `#incident-12345`
+   - **Status Page**: Click on the incident to expland the full status page url. eg: `https://status.gitlab.com/pages/incident/xxxxxxxx/xxxxxxxx`
 1. Click `Submit`
+
+This will sumbit to both `#developer-relations` and `#customer-success` channels.
 
 #### Label Incident Issue
 
@@ -245,7 +252,7 @@ After all [Stage 1](#stage-1-engage) tasks have been complete we will manage the
 
 #### Update Incident
 
-To publicly communicate attention and progress incidents should be updated according to the [frequency of incident updates table](/handbook/support/workflows/cmoc_workflows.html#frequency-of-updates) unless you communicate otherwise.
+To publicly communicate attention and progress incidents should be updated according to the [frequency of incident updates table](/handbook/support/workflows/cmoc_workflows#frequency-of-updates) unless you communicate otherwise.
 
 To update an active incident, click the incidents icon from the dashboard.
 
@@ -476,7 +483,7 @@ Some example training activities are:
 - Tabletop exercises
 - A "CMOC Squawk" in which CMOCs in a region synchronously or asynchronously discuss process improvements, tips and tricks
 - Being the CMOC or shadowing an actual incident: real life training is training too!
-- [Practice Events](/handbook/support/workflows/cmoc_workflows.html#cmoc-practice-events)
+- [Practice Events](/handbook/support/workflows/cmoc_workflows#cmoc-practice-events)
 
 #### CMOC Practice events
 

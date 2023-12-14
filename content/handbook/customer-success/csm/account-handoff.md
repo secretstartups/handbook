@@ -9,7 +9,7 @@ title: "Account Handoff CSM-to-CSM Checklist"
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ----
 
@@ -19,7 +19,7 @@ Below are checkpoints during the account handoff process that CSMs can use to ke
 
 ## Account Handoff CTA
 
-The first step once you are aware of a handoff is for the new CSM to open an [CTA in Gainsight](https://about.gitlab.com/handbook/customer-success/csm/gainsight/#ctas). This is where you will track completion of tasks necessary to a successful handoff. Be sure to select the "Account Handoff" playbook and assign the relevant tasks to the previous and new CSM.
+The first step once you are aware of a handoff is for the new CSM to open an [CTA in Gainsight](/handbook/customer-success/csm/gainsight/#ctas). This is where you will track completion of tasks necessary to a successful handoff. Be sure to select the "Account Handoff" playbook and assign the relevant tasks to the previous and new CSM.
 
 ### Account Handoff CTA Tasks
 
@@ -58,7 +58,7 @@ One of the most important parts of a handoff is excellent transparent and timely
 - What is the customer's preferred method of communicating?
 - How often does the customer usually communicate with us outside of calls?
 - Who are the most important contacts and who do we interact with regularly?
-- What is the frequency for [cadence calls](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/)?
+- What is the frequency for [cadence calls](/handbook/customer-success/csm/cadence-calls/)?
 
 ### Collaboration Project
 
@@ -76,7 +76,7 @@ Review the "Attributes" tab in the Gainsight account to get a high-level overvie
 
 #### Health Score
 
-Review their [health score](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/) and any [timeline](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/#timeline-view) entries associated with it, and discuss the history of the relationship, as well as what the previous CSM anticipates from the customer going forward.
+Review their [health score](/handbook/customer-success/csm/health-score-triage/) and any [timeline](/handbook/customer-success/csm/gainsight/timeline/#timeline-view) entries associated with it, and discuss the history of the relationship, as well as what the previous CSM anticipates from the customer going forward.
 
 #### Success Plan
 
@@ -84,7 +84,7 @@ Review their success plan to understand the strategic objectives the customer ca
 
 #### Adoption
 
-Understand what [stages](https://about.gitlab.com/handbook/customer-success/csm/stage-adoption/) the customer is using on GitLab or on other tools; if any stages are unknown, ask the customer once you've started cadence calls with them.
+Understand what [stages](/handbook/customer-success/csm/stage-adoption/) the customer is using on GitLab or on other tools; if any stages are unknown, ask the customer once you've started cadence calls with them.
 
 #### Opportunities
 
@@ -106,7 +106,7 @@ Depending on the situation, it may be beneficial for both the new CSM and the cu
 
 Meeting notes docs should be in the standard location in [Google Drive](https://drive.google.com/drive/u/1/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U); if there isn't a folder for the customer there, create one. If there isn't a notes doc in the folder, ask the previous CSM for a link to their notes and ask them to move the notes to the folder. Also do a search within Google Drive of the customer name to identify any other relevant documents or materials and move any to the folder if not already there.
 
-Read through past meeting notes to get full clarity of the history of our engagement, and take special note of any meeting notes from past [EBRs](https://about.gitlab.com/handbook/customer-success/csm/ebr/).
+Read through past meeting notes to get full clarity of the history of our engagement, and take special note of any meeting notes from past [EBRs](/handbook/customer-success/csm/ebr/).
 
 #### Meeting History
 

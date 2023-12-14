@@ -43,7 +43,7 @@ If you are issued a refreshed or replacement laptop, please do not transfer data
 
 # Linux laptops
 
-We do not have Linux-based endpoint management in place at this time. We are using [DriveStrike](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) to perform remote disk wipes in case a Linux device is lost, stolen, or the team-member is offboarded. There will be a second initiative to address Linux-based endpoint management in the future.
+We do not have Linux-based endpoint management in place at this time. We are using [DriveStrike](/handbook/it/guides/drivestrike/) to perform remote disk wipes in case a Linux device is lost, stolen, or the team-member is offboarded. There will be a second initiative to address Linux-based endpoint management in the future.
 
 # Windows laptops
 
@@ -57,13 +57,13 @@ Slack: [#it-help](https://gitlab.slack.com/archives/CK4EQH50E)
 
 ## Enrolling in Jamf
 
-- ### **NOTE: Before enrolling please upgrade your MacBook OS to macOS Ventura.**
+- ### **NOTE: Before enrolling please upgrade your MacBook OS to macOS Sonoma.**
 
 To install Jamf on your Mac hardware device, you will need to launch the **Chrome browser** and navigate to <https://gitlab.jamfcloud.com/enroll>.
 
 **Please note** that *Chrome browser is the preferred browser of choice for enrolling into Jamf.*
 
-### Installing Jamf for macOS Ventura
+### Installing Jamf for macOS Sonoma
 
 **Note that the following instructions are being shown in Google Chrome**
 
@@ -232,9 +232,9 @@ sudo profiles renew -type enrollment
 
 After doing so, you should be prompted for your password and able to finish the enrollment.
 
-*If you receive a message containing "Error: Renewing DEP enrollment failed: The device no longer has a Device Enrollment configuration assigned to it", then please follow the [Jamf installation process](#installing-jamf-for-macos-ventura).*
+*If you receive a message containing "Error: Renewing DEP enrollment failed: The device no longer has a Device Enrollment configuration assigned to it", then please follow the [Jamf installation process](#installing-jamf-for-macos).*
 
-*If you receive a message containing "sudo: jamf: command not found" please follow the [Jamf installation process](#installing-jamf-for-macos-ventura).*
+*If you receive a message containing "sudo: jamf: command not found" please follow the [Jamf installation process](#installing-jamf-for-macos).*
 
 *If you receive a message containing "This policy trigger is already being run: root" followed by numbers and then /usr/local/jamf/bin/jamf policy then please run:*
 

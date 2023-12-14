@@ -199,11 +199,12 @@ Remediation of this vulnerability happens within the SIRT issue and typically in
   - For High and Critical CVSS, two team members must react with a thumbsup emoji on the note
   - If needed, make a request in `#sec-appsec` when your note has not received enough votes
 - After Bug Bounty Council approval:
+  - Consider explaining the CVSS score and council discussion points on the canonical issue. This helps teams understand the severity during remediation and, when the issue becomes public, it gives transparency to researchers and customers on how we reached a given score.
   - If 30 days have passed since the issue was triaged, the approved award may be paid in advance of a confirmed fix using the `04 - Bounty Award / Reviewed and Awarded Prior to Fix` common response.
   - Once a fix is shipped, award the remaining amount (or full amount if none was awarded at time of triage) using the `02 - Bounty Award` common response
   - Add a 💰 emoji to the bug bounty council thread after paying the bounty award.
 
-We can award GitLab swag to reporters who have submitted a quality report that did not qualify for a monetary reward in our Bug Bounty program. To award swag, please follow the [swag nomination process](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-appreciation/#nomination-process) that is managed by our Developer Relations team.
+We can award GitLab swag to reporters who have submitted a quality report that did not qualify for a monetary reward in our Bug Bounty program. To award swag, please follow the [swag nomination process](/handbook/marketing/developer-relations/contributor-success/community-appreciation/#nomination-process) that is managed by our Developer Relations team.
 
 ## Managing issues
 

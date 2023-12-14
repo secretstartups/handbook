@@ -1,0 +1,12 @@
+
+When moving an issue through `workflow::design` to `workflow::planning breakdown` and implementation, use one of these processes:
+
+| Frontend? | Backend? | Action |
+| --------- | -------- | ------ |
+| Yes       | Yes      | Original issue is renamed to a `Frontend` implementation issue and a separate `Backend` implementation issue is created. |
+| No        | Yes      | Original issue is renamed to a `Backend` implementation issue. |
+| Yes       | No       | Original issue is renamed to a `Frontend` implementation issue. |
+
+If an issue in `workflow::design` is too large in scope to be effectively implemented in one issue, or in case the issue is old and too cluttered with discussions, the issue can be broken down into smaller issues. The Product Designer will work together with the Engineers and the Product Manager during `workflow::design` to understand the possible iteration plan and break down the large design proposal into smaller parts whenever possible. 
+
+When new implementation issues are created, they should always be linked to the initial issue that contains the proposal and relevant discussions.

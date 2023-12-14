@@ -46,7 +46,7 @@ Sales Operations main focus is on the Sales organization.
 
 ## **Sales Operations Process Links**
 
-1. [Quote-to-Cash / Buyer Experience Documentation](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/buyer-experience/)
+1. [Quote-to-Cash / Buyer Experience Documentation](/handbook/sales/field-operations/sales-operations/buyer-experience/)
 1. [Sales Operations Internal Page](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.tl3z53xvd1wc)
 1. [Sales Operations Monthly Close](https://internal.gitlab.com/handbook/sales/sales-operations/#sales-operations-monthly-close)
 1. [Sales Operations Owned System Offboarding](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.n9g37c7yy3q)
@@ -58,5 +58,5 @@ Sales Operations main focus is on the Sales organization.
 1. Leandata
 1. RingLead
 1. [Salesforce Inbox](https://docs.google.com/document/d/1b7_xJHra448hNKwP5pp2ZzhBmTtv8A6ni-SX5v71dqw/edit#heading=h.aj14ljatuu6r)
-1. [Chorus](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/go-to-market/chorus/)
-1. [LinkedIn Sales Insights](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/linkedin-sales-insights.html)
+1. [Chorus](/handbook/sales/field-operations/sales-operations/go-to-market/chorus/)
+1. [LinkedIn Sales Insights](/handbook/sales/field-operations/sales-operations/linkedin-sales-insights.html)

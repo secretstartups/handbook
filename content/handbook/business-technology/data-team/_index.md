@@ -31,12 +31,14 @@ description: "The GitLab Enterprise Data Team is responsible for empowering ever
 
 The Data Team Handbook contains a large amount of information! To help you navigate the handbook we've organized it into the following major sections:
 
-<div class="flex-row" markdown="0" style="height:90px;">
-  <a href="/handbook/business-technology/data-team/data-catalog/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Dashboards & Data You Can Use</a>
-  <a href="/handbook/business-technology/data-team/#how-data-works-at-gitlab" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">How Data Works At GitLab</a>
-  <a href="/handbook/business-technology/data-team/how-we-work/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">How The Data Team Works</a>
-  <a href="/handbook/business-technology/data-team/platform/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">How The Data Platform Works</a>
-  <a href="/handbook/business-technology/data-team/direction/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">What The Data Team Is Working On</a>
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="/handbook/business-technology/data-team/data-catalog/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Dashboards & Data You Can Use</a>
+    <a href="/handbook/business-technology/data-team/#how-data-works-at-gitlab" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">How Data Works At GitLab</a>
+    <a href="/handbook/business-technology/data-team/how-we-work/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">How The Data Team Works</a>
+    <a href="/handbook/business-technology/data-team/platform/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">How The Data Platform Works</a>
+    <a href="/handbook/business-technology/data-team/direction/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">What The Data Team Is Working On</a>
+  </div>
 </div>
 
 ## How Data Works at GitLab
@@ -51,16 +53,16 @@ The collective set of people, projects, and initiatives focused on advancing the
 
 The GitLab Data Program includes teams focused in the following areas:
 
-* [Customer Success Operational Data Team](https://about.gitlab.com/handbook/customer-success/product-usage-data/)
+* [Customer Success Operational Data Team](/handbook/customer-success/product-usage-data/)
 * [Data Team](/handbook/business-technology/data-team/)
 * [Engineering Analytics](https://about.gitlab.com/handbook/engineering/quality/engineering-analytics/)
 * [Finance Analytics & Insights](/handbook/business-technology/data-team/analytics-and-insights/)
-* [Marketing Strategy and Performance](https://about.gitlab.com/handbook/marketing/strategy-performance/)
-* [Marketing Web Analytics](https://about.gitlab.com/handbook/marketing/inbound-marketing/search-marketing/analytics/)
+* [Marketing Strategy and Performance](/handbook/marketing/strategy-performance/)
+* [Marketing Web Analytics](/handbook/marketing/inbound-marketing/search-marketing/analytics/)
 * [People Analytics Team](/handbook/people-group/people-ops-tech-analytics/people-analytics/)
 * [Product Analysis Group](/handbook/product/product-analysis/)
 * [Analytics Instrumentation Group](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/)
-* [Sales Analytics](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/)
+* [Sales Analytics](/handbook/sales/field-operations/sales-strategy/)
 
 ### Data Program Collaboration Hub
 

@@ -34,7 +34,7 @@ Security Consult - Corporate Marketing Owned
 
 The normal process involves making information public after an incident is contained and/or a security flaw has been fixed.
 
-NOTE: It is quite possible that an incident will not involve public notification, due to potential confidentiality surrounding the incident. If you are unsure, follow the [GitLab SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/). However if the Security Department feels that the GitLab and security communities at large could benefit, there might be a release of information such as configuration recommendations or new techniques to help secure information. This type of disclosure does not necessarily mandate a specific timeframe or requirements, but still should be performed in a timely manner.
+NOTE: It is quite possible that an incident will not involve public notification, due to potential confidentiality surrounding the incident. If you are unsure, follow the [GitLab SAFE Framework](/handbook/legal/safe-framework/). However if the Security Department feels that the GitLab and security communities at large could benefit, there might be a release of information such as configuration recommendations or new techniques to help secure information. This type of disclosure does not necessarily mandate a specific timeframe or requirements, but still should be performed in a timely manner.
 
 Regardless, any release of external communications, be it a specific issue or incident, will start with a [Security Communications issue](https://gitlab.com/gitlab-com/gl-security/security-communications/communications/-/issues/new) (internal link). When creating this issue, select the most appropriate template, and if you have any questions bring them up in the GitLab internal Slack channel "#security".
 
@@ -46,7 +46,7 @@ There are typically three communications areas that might warrant a Security Dep
 
 Remember that it is not unusual for security-related patches to be in the regular GitLab release [every month](https://about.gitlab.com/handbook/engineering/releases/) as the GitLab codebase is updated continuously, but vulnerabilities are addressed in the monthly security release happens roughly one week after the regular GitLab release.
 
-NOTE: If the security incident or issue is considering critical and an emergency patch and release outside the normal release schedule is needed, refer to the [Marketing - Emergency Response](https://about.gitlab.com/handbook/marketing/emergency-response/) handbook page.
+NOTE: If the security incident or issue is considering critical and an emergency patch and release outside the normal release schedule is needed, refer to the [Marketing - Emergency Response](/handbook/marketing/emergency-response/) handbook page.
 
 ## Exceptions
 

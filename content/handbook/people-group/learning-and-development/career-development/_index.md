@@ -333,7 +333,7 @@ Career development is a key factor in team member engagement and role satisfacti
 
 ### Cadence
 
-This process is just an acknowledgement by the team member that they have had career conversations. Aligned with the Performance/Potential [matrix cadence]({{< ref "talent-assessment" >}}), formal career conversations will ideally happen twice per year:
+This process is just an acknowledgement by the team member that they have had career conversations. Aligned with the Performance/Potential [matrix cadence]({{< ref "/handbook/people-group/talent-assessment" >}}), formal career conversations will ideally happen twice per year:
 
 - Once in Q2
 - Once in Q4

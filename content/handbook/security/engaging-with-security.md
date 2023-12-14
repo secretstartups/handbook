@@ -61,10 +61,11 @@ At GitLab we value [being as transparent as possible]({{< ref "values#transparen
 1. If an issue does not have `~keep confidential`, remove sensitive information from the description and comments, e.g.
    1. Proof-of-concept videos & screenshots showing researcher account information
    1. Tokens, Access Keys, and other secrets
-   1. Information which our [Data Classification Standard]({{< ref "data-classification-standard" >}}) and [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/) say to not disclose
+   1. Information which our [Data Classification Standard]({{< ref "data-classification-standard" >}}) and [SAFE framework](/handbook/legal/safe-framework/) say to not disclose
 1. Issues related to personal data leaks are not disclosed since they are not security issues related to the product. If for some reason it needs to be disclosed then consult with Legal and the Corporate Comms team before disclosing.
 1. Identify all issue description changes, click to expand "Compare with previous version" and click the trash icon to "Remove description history"
 1. Optionally mention issue participants to notify them you intend to make the issue public
+1. Optionally add a comment that explains the CVSS.
 1. Edit the Confidentiality of the issue and set it to Public
 
 To facilitate this process the [GitLab Security Bot](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation-team/appsec-escalator) comments on confidential issues 30 days after issue closure when they are not labelled `~keep confidential`.

@@ -16,16 +16,16 @@ description: "Effective discovery is critical to thoroughly understanding custom
 
 Effective discovery is critical to thoroughly understanding customer needs and establishes the foundation for being able to effectively articulate GitLab's value and differentiation in a compelling, customer-centric way. Effective discovery will help you attach to your customers' biggest problems, gain access to higher-level business stakeholders, and serve as a trusted advisor to your customers. This, in turn, will help you build and maintain a healthy and predictable pipeline to meet and exceed your sales goals while helping your customers achieve their business objectives. After reviewing the below information, GitLab field team members are encouraged to take the interactive [Effective Discovery course](https://gitlab.edcast.com/insights/ECL-c0a6e34d-a997-4200-b0d9-65e3305e3761) in GitLab Learn.
 
-![discovery-components-visual](https://about.gitlab.com/handbook/sales/playbook/discovery/discovery-components-visual.png)
+![discovery-components-visual](/handbook/sales/playbook/discovery/discovery-components-visual.png)
 
 ## Qualification
 
-The first phase of any discovery process is to determine whether or not you should spend time on a particular opportunity pursuit. A good guide for this phase is codified in the [Criteria for Sales Accepted Opportunity (SAO)](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/) and includes confirmation of **Authority**, **Initiative**, **Fit**, and **Timing**.
+The first phase of any discovery process is to determine whether or not you should spend time on a particular opportunity pursuit. A good guide for this phase is codified in the [Criteria for Sales Accepted Opportunity (SAO)](/handbook/sales/field-operations/gtm-resources/) and includes confirmation of **Authority**, **Initiative**, **Fit**, and **Timing**.
 
 Ideally, effective qualification also includes identification of the prospect's:
 - Cloud strategy
 - Preferred cloud partner(s)
-- Future growth potential ([Landed Addressable Market (LAM)](https://about.gitlab.com/handbook/sales/sales-term-glossary/)), and
+- Future growth potential ([Landed Addressable Market (LAM)](/handbook/sales/sales-term-glossary/)), and
 - Preference for [SaaS or Self-Managed](/features/)
 
 ## Understand Value Points
@@ -60,7 +60,7 @@ Researching your prospect may include but is not limited to:
 #### Understand the Persona
 
 Different roles within the prospect's organization will inherently care about and be motivated by different things. Leverage the below resources to understand the challenges and motivations of the persona you are engaging.
-- [Buyer personas](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/)
+- [Buyer personas](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/)
 - [User personas](/handbook/product/personas/#user-personas)
 
 <!-- blank line -->
@@ -74,9 +74,9 @@ Different roles within the prospect's organization will inherently care about an
 As outlined in the [Pre-Call Plan](https://docs.google.com/document/d/1yjyfvMoDvayZca5hXiIwSHYc9T1M3mTc7ocqzjhqOf8/edit?usp=sharing) job aid, be sure to consider the below questions.
 - What is your desired outcome for this conversation or meeting? What do you think the prospect's desired outcome is?
 - What information do you need to gather to achieve your objective(s)? What discovery questions will you ask, how, and in what sequence? As outlined above, this iterative insight/question loop will often span across multiple meetings or conversations.
-   - Start with [Customer Strategy-based discovery questions](https://about.gitlab.com/handbook/sales/qualification-questions/#customer-strategy) to seek to understand your prospect's goals, objectives, and initiatives
-   - Next, ask open-ended [Customer Needs-based discovery questions](https://about.gitlab.com/handbook/sales/qualification-questions/#customer-needs) in pursuit of understanding your prospect's desired outcomes, current situation and environment and level of satisfaction, and motivations (including personal needs)
-- As you develop and prioritize your discovery questions, what types of questions will you ask that reinforce [GitLab's differentiators](https://about.gitlab.com/handbook/sales/command-of-the-message/#gitlab-differentiators)?
+   - Start with [Customer Strategy-based discovery questions](/handbook/sales/qualification-questions/#customer-strategy) to seek to understand your prospect's goals, objectives, and initiatives
+   - Next, ask open-ended [Customer Needs-based discovery questions](/handbook/sales/qualification-questions/#customer-needs) in pursuit of understanding your prospect's desired outcomes, current situation and environment and level of satisfaction, and motivations (including personal needs)
+- As you develop and prioritize your discovery questions, what types of questions will you ask that reinforce [GitLab's differentiators](/handbook/sales/command-of-the-message/#gitlab-differentiators)?
    - For a deeper dive, re-review the Defensible Differentiators content and sample questions in the GitLab Value Framework doc (see top asset highlighted in the [Resources: Core Content](https://internal.gitlab.com/handbook/sales/command-of-the-message/#resources-core-content) (internal only) section of the Command of the Message Internal Handbook page)
 - What agenda will provide the structure needed to help you achieve your meeting or call objectives? Assuming you achieve your objective(s), what are possible next steps you may recommend? How will you close the call or meeting to progress the opportunity further?
 - What are some potentially relevant success stories (e.g. same industry, geo, anticipated pain points, etc.) and other proof points (e.g. favorable analyst report) that you may want to reference or highlight to build interest and credibility?
@@ -107,7 +107,7 @@ Leverage the TED questioning model (see below) to get the prospect to open up an
 
 #### Five Whys
 
-Use the [Five Whys](https://about.gitlab.com/handbook/customer-success/csm/success-plans/questions-techniques/#five-whys) technique to identify the root cause(s) and understand the "So what?" Check out the short video below and read the [Why Salespeople Should Ask The Same Question 5 Times In A Row](https://blog.hubspot.com/sales/the-five-whys-sales-strategy) blog to learn more.
+Use the [Five Whys](/handbook/customer-success/csm/success-plans/questions-techniques/#five-whys) technique to identify the root cause(s) and understand the "So what?" Check out the short video below and read the [Why Salespeople Should Ask The Same Question 5 Times In A Row](https://blog.hubspot.com/sales/the-five-whys-sales-strategy) blog to learn more.
 
 <!-- blank line -->
 <figure class="video_container">
@@ -125,17 +125,17 @@ Commit to [active and effective listening](/handbook/communication/#effective-li
 </figure>
 <!-- blank line -->
 
-#### Master [Command of the Message](https://about.gitlab.com/handbook/sales/command-of-the-message)
+#### Master [Command of the Message](/handbook/sales/command-of-the-message)
 
 Command of the Message is a proven, value-based sales messaging methodology from Force Management that allows GitLab sales team members to effectively uncover customer needs and articulate value and differentiation. Leverage the below resources to ensure you are confident in the methodology and the GitLab-tailored sales resources created to help you be successful and delight your customers.
-- [Command of the Message Handbook page](https://about.gitlab.com/handbook/sales/command-of-the-message)
+- [Command of the Message Handbook page](/handbook/sales/command-of-the-message)
 - [Command of the Message e-learning module](https://gitlab.edcast.com/insights/ECL-20f0f2ac-0d50-4384-b473-63cc6d3bb48d) (90 minutes) (GitLab internal with protected IP from Force Management)
 
 ## Identify the Buying Process
 
-The final phase of discovery identifies the roadmap, along with potential roadblocks, for getting a deal closed as well as key stakeholders who must be involved. Discovery will continue throughout the sales process as you and your account team continue to gain a deeper understanding of all elements of [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) to increase the likelihood of earning the customer's business.
-- Leverage [Customer Decision-based discovery questions](https://about.gitlab.com/handbook/sales/qualification-questions/#customer-decision) to gain a better understanding of the [Decision Process](https://about.gitlab.com/handbook/sales/meddppicc/#decision-process), [Decision Criteria](https://about.gitlab.com/handbook/sales/meddppicc/#decision-criteria), [Paper Process](https://about.gitlab.com/handbook/sales/meddppicc/#paper-process), and more
-- Check out the full [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) Handbook page
+The final phase of discovery identifies the roadmap, along with potential roadblocks, for getting a deal closed as well as key stakeholders who must be involved. Discovery will continue throughout the sales process as you and your account team continue to gain a deeper understanding of all elements of [MEDDPPICC](/handbook/sales/meddppicc/) to increase the likelihood of earning the customer's business.
+- Leverage [Customer Decision-based discovery questions](/handbook/sales/qualification-questions/#customer-decision) to gain a better understanding of the [Decision Process](/handbook/sales/meddppicc/#decision-process), [Decision Criteria](/handbook/sales/meddppicc/#decision-criteria), [Paper Process](/handbook/sales/meddppicc/#paper-process), and more
+- Check out the full [MEDDPPICC](/handbook/sales/meddppicc/) Handbook page
 - Complete the [MEDDPPICC e-learning module](https://gitlab.edcast.com/insights/ECL-315a08a3-c8e2-48e1-9d4e-b43a6afd440b) (60 minutes, GitLab internal)
 
 <!-- blank line -->
@@ -148,7 +148,7 @@ The final phase of discovery identifies the roadmap, along with potential roadbl
 
 ## Lack of Preparation
 
-See the [above section](https://about.gitlab.com/handbook/sales/playbook/discovery/#preparation) for tips to avoid what may be the most common discovery pitfall.
+See the [above section](/handbook/sales/playbook/discovery/#preparation) for tips to avoid what may be the most common discovery pitfall.
 
 <!-- blank line -->
 <figure class="video_container">
@@ -168,7 +168,7 @@ Resist the urge to prematurely talk about or begin to position GitLab until you 
 
 ## Not Attaching to the Biggest Problem
 
-You must have a solid understanding of the prospect's key business drivers, strategic business initiatives, and associated objectives and goals to be able to serve as a trusted advisor. These will almost assuredly relate to one or more [Customer Value Drivers](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers). Use [Customer Strategy-based discovery questions](https://about.gitlab.com/handbook/sales/qualification-questions/#customer-strategy) followed by [Customer Needs-based discovery questions](https://about.gitlab.com/handbook/sales/qualification-questions/#customer-needs) to identify how GitLab can have a positive impact on your buyer’s business issues.
+You must have a solid understanding of the prospect's key business drivers, strategic business initiatives, and associated objectives and goals to be able to serve as a trusted advisor. These will almost assuredly relate to one or more [Customer Value Drivers](/handbook/sales/command-of-the-message/#customer-value-drivers). Use [Customer Strategy-based discovery questions](/handbook/sales/qualification-questions/#customer-strategy) followed by [Customer Needs-based discovery questions](/handbook/sales/qualification-questions/#customer-needs) to identify how GitLab can have a positive impact on your buyer’s business issues.
 
 <!-- blank line -->
 <figure class="video_container">

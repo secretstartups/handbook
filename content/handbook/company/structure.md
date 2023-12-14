@@ -194,7 +194,7 @@ Members of the management group are expected to demonstrate leadership in the wa
 1. Do everything to unblock people. If someone has a question that is keeping them from being productive, try to answer the question yourself or find someone who can.
 1. Communicate in a [professional manner](/handbook/company/culture/all-remote/effective-communication/) as though your words will be shared widely (e.g. published in a newspaper).
 1. Employ [multimodal communication](/handbook/communication/#multimodal-communication) to broadcast important decisions.
-1. You are expected to [respond on social media](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/). If you have questions, please seek counsel in the `#social_media` chat channel.
+1. You are expected to [respond on social media](/handbook/marketing/team-member-social-media-policy/). If you have questions, please seek counsel in the `#social_media` chat channel.
 1. Make sure your reports experience a [sense of progress](http://tomtunguz.com/progress-principle/) in their work.
 1. A tweet by [Sam Altman](https://twitter.com/sama/status/804138512878473220) combined with a reply by [Paul Graham](https://twitter.com/paulg/status/804209365305659392) says it best: "People either get shit done or they don't. And it's easy to be tricked because they can be smart but never actually do anything." Watch for results instead of articulate answers to questions, otherwise you'll take too much time identifying under-performers.
 1. [GitLab Contribute](https://about.gitlab.com/events/gitlab-contribute/) (formerly GitLab summits) is meant for [informal communication](/handbook/company/culture/all-remote/informal-communication/) and [bonding](/handbook/company/culture/all-remote/in-person/) across the company. There is a limited time for business activities during GitLab Contribute so all our regular meetings should happen outside of it. We want informal, cross team, and open-ended meetings that include individual contributors. For example, inviting everyone to suggest currently missing functionality in GitLab.
@@ -378,7 +378,7 @@ Our groups operate on the principle of [stable counterparts](/handbook/leadershi
 For example, we have a Product Manager, Product Marketing Manager, Engineering Manager, Content Marketer, Backend Developers, Frontend Developers, and Product Designers that are all dedicated to a group called "Package". Collectively, these individuals form the "Package group". The word "Package" appears in their titles as a specialty, and in some cases, their team name.
 
 We distinguish between types of stable counterparts to these Product Groups with:
-- Primary Stable Counterparts - Team members assigned to our Product hierarchy (typically groups) from Product, Development, Product Design and Quality functions which we call the [Quad](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/quad-planning/).
+- Primary Stable Counterparts - Team members assigned to our Product hierarchy (typically groups) from Product, Development, Product Design and Quality functions which we call the [Quad](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/quad-planning/).
 - Complete Stable Counterparts - All team members assigned to product hierarchy from functions outside of the primary functions and defined in our [product categories page](/handbook/product/categories/). For example - we assign stable counterparts from Support, Product Marketing and Customer Success who are all considered part of the complete stable counterparts.
 
 A group has no reporting lines because we [don't want a matrix organization](/handbook/leadership/#no-matrix-organization).
@@ -485,7 +485,7 @@ The [MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/66180) de
 
 ### Working Groups
 
-A [working group]({{< ref "working-groups" >}}) is a specific type of group that assembles for a period of time to accomplish a business goal. Working groups have defined responsibilities and meet regularly. Ideally a working group can disband when the goal is complete to avoid accrued bureaucracy.
+A [working group]({{< ref "/handbook/company/working-groups" >}}) is a specific type of group that assembles for a period of time to accomplish a business goal. Working groups have defined responsibilities and meet regularly. Ideally a working group can disband when the goal is complete to avoid accrued bureaucracy.
 
 ### Middle Management
 

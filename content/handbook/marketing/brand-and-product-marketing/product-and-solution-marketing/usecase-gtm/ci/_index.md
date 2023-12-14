@@ -61,7 +61,7 @@ DevOps Engineers have a deep understanding of their organization's SDLC and prov
 
 ### Buyer Personas
 
-CI purchasing typically does not require executive involvement. It is usually acquired and installed via our freemium offering without procurement or IT's approval. This process is commonly known as shadow IT. When the upgrade is required, the [Application Development Manager](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) is the most frequent decision-maker. The influence of the [Application Development Director](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) is notable too.
+CI purchasing typically does not require executive involvement. It is usually acquired and installed via our freemium offering without procurement or IT's approval. This process is commonly known as shadow IT. When the upgrade is required, the [Application Development Manager](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) is the most frequent decision-maker. The influence of the [Application Development Director](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) is notable too.
 
 ## Industry Analyst Resources
 
@@ -179,7 +179,7 @@ Please see the [Jenkins-specific questions](https://docs.google.com/document/d/1
 
 ### Industry Analyst Relations (IAR) Plan
 
-- The IAR Handbook page has been updated to reflect our plans for [incorporating Use Cases into our analyst conversations](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#how-we-incorporate-use-cases-into-our-industry-analyst-interactions).
+- The IAR Handbook page has been updated to reflect our plans for [incorporating Use Cases into our analyst conversations](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#how-we-incorporate-use-cases-into-our-industry-analyst-interactions).
 - For  details specific to each use case, and in respect of our contractual confidentiality agreements with Industry Analyst firms, our engagement plans are available to GitLab team members in the following protected document: [IAR Use Case Profile and Engagement Plan](https://docs.google.com/spreadsheets/d/14UthNcgQNlnNfTUGJadHQRNZ-IrAe6T7_o9zXnbu_bk/edit#gid=0).
 
 For a list of analysts with a current understanding of GitLab's capabilities for this use case, please reach out to Analyst Relations via Slack (#analyst-relations) or by submitting an [issue](https://gitlab.com/gitlab-com/marketing/product-marketing/issues/new) and selecting the "AR-Analyst-Validation" template.
@@ -286,7 +286,7 @@ All the new strategic pieces of ’software development platforms are tied into 
 
 ### References to help you close
 
-[SFDC report of referenceable Verify customers](https://gitlab.my.salesforce.com/a6l4M000000kDwk) Note: Sales team members should have access to this report. If you do not have access, reach out to the [customer reference team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact) for assistance.
+[SFDC report of referenceable Verify customers](https://gitlab.my.salesforce.com/a6l4M000000kDwk) Note: Sales team members should have access to this report. If you do not have access, reach out to the [customer reference team](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact) for assistance.
 
 Request reference calls by pressing the "Find Reference Accounts" button at the top of your stage 3 or later opportunity.
 
@@ -298,13 +298,13 @@ The following section provides resources to help CSMs lead capabilities adoption
 
 1. Ask Discovery Questions to identify customer need
 2. Complete the deeper dive discovery sharing demo, proof points, value positioning, etc.
-3. Deliver [pipeline conversion workshop](https://about.gitlab.com/handbook/customer-success/playbooks/ci-verify.html) and user enablement example
+3. Deliver [pipeline conversion workshop](/handbook/customer-success/playbooks/ci-verify.html) and user enablement example
 4. Agree to adoption roadmap, timeline and change management plans, offering relevant services (as needed) and updating the success plan (as appropriate)
 5. Lead the adoption plan with the customer, enabling teams and tracking progress through engagement and/or product analytics data showing use case adoption
 
 ### Adoption Recommendation
 
-This table shows the recommended features to adopt, links to product documentation, the respective subscription tier for the feature, and [Service Ping](https://about.gitlab.com/handbook/customer-success/csm/service-ping-faq/) metrics.
+This table shows the recommended features to adopt, links to product documentation, the respective subscription tier for the feature, and [Service Ping](/handbook/customer-success/csm/service-ping-faq/) metrics.
 
 | Feature                                           | F  | P  | U  | Service Ping metrics | Notes |
 | ------------------------------------------------------------ | -----| ---- | ---- | --------- | ---- |
@@ -331,23 +331,9 @@ The table includes free/community and paid tiers associated with GitLab's self-m
 - P = Premium
 - U = Ultimate
 
-### Product Health Indicators for CI
+### Product Adoption - North Star Metrics and Leading Indicators for CI
 
-GitLab defines [North Star Metrics and Leading Indicators](/handbook/business-technology/data-team/data-catalog/product-usage-data/#north-star-metrics-and-leading-indicators) to give a cross-company SSOT for customer product adoption.
-
-| North Star Metric | Description | Associated Service Ping Metrics |
-| --- | --- | --- |
-| CI Pipelines Utilization | Number of distinct users initiating a CI pipeline in the last 28 days, divided by billable users | usage_activity_by_stage_monthly.verify.ci_pipelines, license_billable_users |
-
-| Leading Indicator | Associated Service Ping Metrics |
-| --- | --- |
-| Core repos are running CI jobs | counts.projects_with_repositories_enabled, missing metric for repos running CI jobs |
-| gitlab-ci.yml file is populated in project | redis_hll_counters.pipeline_authoring.o_pipeline_authoring_unique_users_committing_ciconfigfile_monthly |
-| Developers have permissions to trigger pipelines | missing metric |
-| Configuration file is periodically updated | missing metric |
-| Template utilization | counts.template_repositories, usage_activity_by_stage_monthly.verify.ci_pipeline_config_repository, usage_activity_by_stage.verify.ci_pipeline_config_repository, counts.ci_pipeline_config_repository |
-| Pipeline schedules | counts.ci_pipeline_schedules, usage_activity_by_stage_monthly.verify.ci_pipeline_schedules, usage_activity_by_stage.verify.ci_pipeline_schedules |
-| Main branch is stable and mostly passing | missing metric |
+The SSOT Handbook Page for Product Adoption - North Star Metrics and Leading Indicators can be found in the [Enterprise Data Team Handbook](https://internal.gitlab.com/handbook/enterprise-data/company-kpis/product-adoption-north-star-metrics/)
 
 #### Additional Documentation Links
 

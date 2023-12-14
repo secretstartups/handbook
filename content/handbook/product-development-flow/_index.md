@@ -1,16 +1,8 @@
 ---
-
 title: Product Development Flow
 ---
 
-
-
-
-
-
-
-
-Please follow this [guidance](#contributing-to-this-page) on how to contribute to this page. To see a list of the latest updates to this page, visit [Product development flow releases](/handbook/product-development-flow/releases).
+Please follow this [guidance](#contributing-to-this-page) on how to contribute to this page. <!-- To see a list of the latest updates to this page, visit [Product development flow releases](/handbook/product-development-flow/releases). -->
 
 ## Overview & philosophy
 
@@ -263,7 +255,7 @@ During this phase, it's important to keep Application Security Engineers informe
 |-         |-           |-     |
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Well-scoped MVC issues** - Issues are the [SSOT](/handbook/values/#single-source-of-truth) for all feature development. | - Refine issues into something that can be delivered within a single milestone<br>- Open follow on issues to track work that is de-prioritized<br>- Promote existing issues to Epics and open implementation issues for the upcoming milestone<br>- Review feature issues with contributors<br>- Consider scheduling a POC or engineering investigation issue<br>- Make scope tradeoffs to reach for a [right-sized MVC](/handbook/product/product-principles/#the-minimal-viable-change-mvc)<br>- Request an [issue review](/handbook/product/product-processes/#issue-reviews) to ensure communication is clear and have proposed the [right iteration plan](/handbook/product/product-processes/#iteration-strategies) to execute on the solution. | - Product Manager  |
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Prioritized Milestone** - The team should understand what issues should be delivered during the next milestone  | - Product Manager sets `workflow::ready for development`, `type::`, and a milestone signaling intent to prioritize <br> - Product Designer and Engineering Manager apply `Deliverable` label signaling acceptance of issue in the next milestone - Product Manager creates a planning issue| - Product Manager, Product Designer, and Engineering Manager |
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Defined Quality Plan** - Involving SETs in this phase ensures they are able to understand and effectively plan their own capacity before engineering is truly underway.| - [Quad Planning](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/quad-planning/)<br>- [Test planning](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/test-engineering/#test-planning)  | - Software Engineer in Test |
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Defined Quality Plan** - Involving SETs in this phase ensures they are able to understand and effectively plan their own capacity before engineering is truly underway.| - [Quad Planning](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/quad-planning/)<br>- [Test planning](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/test-engineering/#test-planning)  | - Software Engineer in Test |
 |**Implementation Issue Refinement** - Some teams have found it useful to treat issue refinement as a separate, iterative task from planning breakdown. This separation allows them to focus backlog refinement on the aspects of the original feature that will be delivered first.| - Further refine implementation issues identified in the `workflow::planning breakdown` step by  additionally applying `workflow::refinement`.| - Engineering Manager |
 
 
@@ -295,7 +287,7 @@ The develop and test phase is where we build the features, address bugs or techn
 
 This phase begins after work has been broken down, and [prioritized](/handbook/product/product-processes/) in Phase 1. Work is completed in priority order as set at the beginning of the milestone. The Engineering Manager will assign an issue to an engineer who is responsible for building the feature or addressing a bug or maintenance issue. An engineer can also self-serve and pick up the next priority order issue from the `workflow::ready for development` queue on their team's board. That engineer will update its `workflow::` label to indicate where it's position in the [development process](https://about.gitlab.com/handbook/engineering/workflow/#basics).
 
-When an issue is in development the Software Engineer in Test ([SET](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/#stable-counterparts)) will ensure the [quad planning](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/quad-planning/#process) process is being followed regarding test plans, regression jobs, end to end tests, etc. Coordination is key between the assigned development engineer and the SET during this phase.
+When an issue is in development the Software Engineer in Test ([SET](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/#stable-counterparts)) will ensure the [quad planning](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/quad-planning/#process) process is being followed regarding test plans, regression jobs, end to end tests, etc. Coordination is key between the assigned development engineer and the SET during this phase.
 
 When an issue is in `workflow::in review`, the Application Security Engineer would help validate the risk mitigations through the non-blocking [application security review process](/handbook/security/security-engineering/application-security/appsec-reviews.html).
 
@@ -327,13 +319,13 @@ Issue Status: `Closed`
 
 | Role          | Function |
 |---------------|----------|
-| DRI           | **Development**: Close issue after it's available in production and any needed verification is complete. <br/>**Product Manager**: Initiate [release post item creation](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-post-item-generator) if they decide it's warranted. <br/>**Product Manager**: Continue the [dogfooding process](/handbook/product/product-processes/#dogfooding-process) if they decide it's applicable. <br/>**Product Manager**: Consider alerting relevant stakeholders in appropriate Slack channels. |
+| DRI           | **Development**: Close issue after it's available in production and any needed verification is complete. <br/>**Product Manager**: Initiate [release post item creation](/handbook/marketing/blog/release-posts/#release-post-item-generator) if they decide it's warranted. <br/>**Product Manager**: Continue the [dogfooding process](/handbook/product/product-processes/#dogfooding-process) if they decide it's applicable. <br/>**Product Manager**: Consider alerting relevant stakeholders in appropriate Slack channels. |
 | Collaborators | Development team, Quality counterpart, and Product Manager may verify the feature is working as expected in production. (Primary verification is, of course, performed prior to production whenever possible.) <br/>-Technical Writers create any documentation issues or MRs required to address issues identified during review that weren't resolved. |
 | Informed      | [Stakeholders](/handbook/product/product-processes/#what-is-a-stakeholder) for the change (including customers, open-source users, and GitLab team members) will be informed about the feature by the change in the status of the issue or the release post. GitLab team members may also be informed by posts in relevant Slack channels. |
 
 #### Description
 
-When the change becomes available in production and any needed verification is complete, the issue is closed by the development team and the `workflow::complete` label is added so stakeholders know work on it has been completed. Afterward, the Product Manager coordinates the [release post](https://about.gitlab.com/handbook/marketing/blog/release-posts/) and [dogfooding process](/handbook/product/product-processes/#dogfooding-process) when they apply.
+When the change becomes available in production and any needed verification is complete, the issue is closed by the development team and the `workflow::complete` label is added so stakeholders know work on it has been completed. Afterward, the Product Manager coordinates the [release post](/handbook/marketing/blog/release-posts/) and [dogfooding process](/handbook/product/product-processes/#dogfooding-process) when they apply.
 
 #### Outcomes and Activities
 

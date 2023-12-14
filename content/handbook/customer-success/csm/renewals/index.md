@@ -10,9 +10,9 @@ description: "The Renewals team at GitLab is a part of the Customer Success depa
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
-Link to [Commercial Renewal Process](https://about.gitlab.com/handbook/customer-success/comm-sales/renewals/)
+Link to [Commercial Renewal Process](/handbook/customer-success/comm-sales/renewals/)
 
 ## Overview
 
@@ -33,7 +33,7 @@ Once the above tasks are complete, the playbook and CTA can be closed out as all
 
 ## Confirm the renewal DRI
 
-For tier 0, 1 and 2 renewals a renewals manager is involved.  For the level of ownership the renewals manager takes per tier, please see this [tiering section from the renewals manager handbook page](https://about.gitlab.com/handbook/customer-success/renewals-managers/how/#opportunity-tiering).
+For tier 0, 1 and 2 renewals a renewals manager is involved.  For the level of ownership the renewals manager takes per tier, please see this [tiering section from the renewals manager handbook page](/handbook/customer-success/renewals-managers/how/#opportunity-tiering).
 
 To determine what tier a renewal opportunity falls within, the CSM can reference the 'Renewal Ownership' field in the Opp, in the 'Opportunity Detail' section.
 
@@ -53,7 +53,7 @@ The CSM will ask the initial renewal question, this should be a ['soft'](https:/
 
 Another good approach is to align this renewal conversation with the customer's budget rounds, typically happening mid-year (june/july). You can then ask the customer if they have foreseen in budget for GitLab Licenses in their next fiscal year.
 
-If the customer indicates any risk of contraction or churn in this conversation, the [CSM sets the CSM Sentiment field to red](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#red), which then overrides the 'Overall Health' field to red also.  
+If the customer indicates any risk of contraction or churn in this conversation, the [CSM sets the CSM Sentiment field to red](/handbook/customer-success/csm/health-score-triage/#red), which then overrides the 'Overall Health' field to red also.  
 
 It's important that the CSM asks this question no later than the 30-day window from when the CTA is automatically opened:
  - If risk is indicated, 3 months can be enough time remaining to make a meaningful change to outcomes
@@ -67,8 +67,8 @@ The action items created from the “Renewal Review” meeting should be incorpo
 
 ## Tracking renewal risk
 
-Please see [Customer Health Assessment and Management](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/)
+Please see [Customer Health Assessment and Management](/handbook/customer-success/csm/health-score-triage/)
 
 ## Related Processes
 
-[Customer Success Escalations Process](https://about.gitlab.com/handbook/customer-success/csm/escalations/)
+[Customer Success Escalations Process](/handbook/customer-success/csm/escalations/)

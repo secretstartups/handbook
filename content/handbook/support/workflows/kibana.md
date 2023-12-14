@@ -26,7 +26,7 @@ Indexes closely correlate for the most part with our [log structure](https://doc
 - `pubsub-pages-inf-gprd-*`
 - `pubsub-runner-inf-gprd-*`
 
-For example, if you're trying to track down failed logins you would search the index `pubsub-rails-inf-gprd-*`. To search for [`500` errors](/handbook/support/workflows/500_errors.html) involving a controller you'd search in `pubsub-rails-inf-gprd-*`, the default index.
+For example, if you're trying to track down failed logins you would search the index `pubsub-rails-inf-gprd-*`. To search for [`500` errors](/handbook/support/workflows/500_errors) involving a controller you'd search in `pubsub-rails-inf-gprd-*`, the default index.
 
 Along with the index, knowing *when* a specific error or event ocurred that you're trying to track down  is important and it's important to keep in mind that Kibana logs on GitLab.com persist for seven days. Kibana allows you to choose relative and absolute time ranges for search results and this can be changed by manipulating the date range:
 
@@ -343,13 +343,13 @@ Kibana can be used to search for specific errors related to a purchase attempt. 
 
 Feeling Lazy? Go to `https://log.gprd.gitlab.net/goto/6aac4580-9d9b-11ed-85ed-e7557b0a598c` and update the value of `json.user.username`.
 
-If you encounter a generic error message try checking CustomersDot purchase error logs in [Kibana](#customersdot-purchase-errors) or [GCP](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases.html#getting-error-messages-from-gcp-logs-explorer) for a more specific error.
+If you encounter a generic error message try checking CustomersDot purchase error logs in [Kibana](#customersdot-purchase-errors) or [GCP](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases#getting-error-messages-from-gcp-logs-explorer) for a more specific error.
 
 **Tip:** To see the details of a user's purchase attempt, go to `https://log.gprd.gitlab.net/goto/45bb89c0-6ccc-11ed-9f43-e3784d7fe3ca` and update the value of `json.username`.
 
 ##### CustomersDot purchase errors
 
-**Note**: You need to have the **CustomersDot customer ID** of the account used to make the purchase. Refer to `Step 1` under [this section](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases.html#getting-error-message-from-sentry) on how to get the customer ID.
+**Note**: You need to have the **CustomersDot customer ID** of the account used to make the purchase. Refer to `Step 1` under [this section](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases#getting-error-message-from-sentry) on how to get the customer ID.
 
 1. Navigate to [Kibana](https://log.gprd.gitlab.net/)
 1. Ensure the `pubsub-rails-inf-prdsub-*` index pattern (CustomersDot logs) is selected.
@@ -365,6 +365,6 @@ In case you have the namespace details, get the **Namespace ID** then go to `htt
 
 When looking at the `pubsub-rails-inf-gprd-*` index, you can determine if a user has recently cloned, pushed, or downloaded a repository. You can filter by `json.username`, `json.path` (the repository), and `json.action` to find specific events:
 
-- `action: git_upload_pack` is when someone performs a clone of a repository.
-- `action: git_receive_pack` is when someone push's a repository.
-- `action: archive` is when someone downloads a repository via the `Download source code` button in the UI.
+- [`action: git_upload_pack`](https://log.gprd.gitlab.net/app/r/s/dLqA1) is when someone performs a clone of a repository.
+- [`action: git_receive_pack`](https://log.gprd.gitlab.net/app/r/s/lRA1L) is when someone push's a repository.
+- [`action: archive`](https://log.gprd.gitlab.net/app/r/s/Lxx9w) is when someone downloads a repository via the `Download source code` button in the UI.

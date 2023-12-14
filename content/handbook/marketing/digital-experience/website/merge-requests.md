@@ -51,9 +51,9 @@ Remember, make this MR easy for reviewers. Be brief, precise, and thorough. Your
 
 ## Add the appropriate labels for triage
 
-In most cases, reviews will have the `dex-approval::2-standard` tag by default. This should be sufficient for _most_ changes. If you are working with a sensitive change, use the following approval process as a resource: [Approvel levels in the handbook](https://about.gitlab.com/handbook/marketing/digital-experience/marketing-site-approval-process/#approval-levels) 
+In most cases, reviews will have the `dex-approval::2-standard` tag by default. This should be sufficient for _most_ changes. If you are working with a sensitive change, use the following approval process as a resource: [Approvel levels in the handbook](/handbook/marketing/digital-experience/marketing-site-approval-process/#approval-levels) 
 
 ##  Tag the appropriate people for review
 
-Use your best judgement in asking reviews from others. Note that key pages will need higher authorization for reviews, and their process may move slower as a result. If you are unsure who to ask a request from, start here: [Tagging appropriate people for review in the handbook](https://about.gitlab.com/handbook/marketing/digital-experience/marketing-site-approval-process/#step-3-tag-the-appropriate-people-for-review)
+Use your best judgement in asking reviews from others. Note that key pages will need higher authorization for reviews, and their process may move slower as a result. If you are unsure who to ask a request from, start here: [Tagging appropriate people for review in the handbook](/handbook/marketing/digital-experience/marketing-site-approval-process/#step-3-tag-the-appropriate-people-for-review)
 

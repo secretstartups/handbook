@@ -24,7 +24,7 @@ The table below outlines key responsibilities. Refer to the [blog creation workf
 | Role | Responsibility |
 | ------ | ------ |
 | Product Designer | - Designs or reviews, and approves the solution to address the user problem outlined in the Actionable Insight issue (in collaboration with Product Managers and Engineering Managers) <br> <br> - Conducts Solution Validation as needed <br> <br> - Applies "Ready for Blog" label |
-| UX Researcher | - [Writes blog post](https://about.gitlab.com/handbook/marketing/blog/) including links to Actionable Insights <br> <br> - Applies label(s) “Seeking community contribution” and “quick win” (if known) <br> <br> - Opens [issue for blog post proposal](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=blog-post) |
+| UX Researcher | - [Writes blog post](/handbook/marketing/blog/) including links to Actionable Insights <br> <br> - Applies label(s) “Seeking community contribution” and “quick win” (if known) <br> <br> - Opens [issue for blog post proposal](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=blog-post) |
 | Product Manager | - Collaborates with Product Designer on solution to address identified user problem <br> <br> - Reviews and approves blog post |
 | Engineering Manager | - Collaborates with Product Designer on solution to address identified user problem |
 | Code Contributor PM | - Reviews selected Actionable Insights and ensure they are suitable for community contributions <br> <br> - Reviews blog post for proper language and focus for community contributions |
@@ -45,6 +45,6 @@ It’s recommended to include the following information in a blog post:
 - Solutions (What we want to change, and why)
 - Link to Actionable Insights issues for community contributors to pick up
 
-To motivate contributers and set them up for success, it may be helpful to include links to recently completed Actionable Insights by the community or linking to useful information about how to [Contribute to GitLab](/community/contribute/).
+To motivate contributers and set them up for success, it may be helpful to include links to recently completed Actionable Insights by the community.
 
 For inspiration, take a look at the [first published blog post](https://about.gitlab.com/blog/2022/07/25/5-problems-you-can-help-us-solve-right-now/) and the corresponding [issue for the blog post proposal](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13599).

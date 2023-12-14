@@ -48,7 +48,7 @@ the circumstances under which a ticket is raised. Some examples are:
 
 1. A Select Partner is doing internal training, testing or knowledge
    building. They should raise a ticket under their account using their
-   [NFR licences](https://about.gitlab.com/handbook/resellers/#nfr-programpolicy).
+   [NFR licences](/handbook/resellers/#nfr-programpolicy).
 
 These examples are not exhaustive. If in doubt, ask questions about the
 situation under which the ticket is being raised.

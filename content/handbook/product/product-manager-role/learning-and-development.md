@@ -15,7 +15,7 @@ canonical_path: "/handbook/product/product-manager-role/learning-and-development
 
 {{% include "includes/product-handbook-links.md" %}}
 
-Welcome to Learning and Development for Product Management at GitLab! This page serves as the content library that feeds [the Product Management Learning Hub in Level Up.](https://levelup.gitlab.com/pages/product-management-hub). You are welcome to explore content here but if you prefer a more modular, personalizable, and trackable portal, please visit Level Up.
+Welcome to Learning and Development for Product Management at GitLab! This page serves as the content library that feeds [the Product Management Learning Hub in Level Up](https://levelup.gitlab.com/pages/product-management-hub). You are welcome to explore content here but if you prefer a more modular, personalizable, and trackable portal, please visit Level Up.
 
 The resources in the Product L & D Hub are meant to support product managers to explore, learn and grow at their own pace. We aim to collect content that spans various skill levels, as well as various levels of depth/commitment. It is recommended that product managers engage with the resources here to help them have a successful journey at GitLab and in their product career as a whole. 
 
@@ -266,7 +266,7 @@ This content is divided into five key competencies for Product Managers.
 ##### Quick reads and videos
 
 - [How to launch product experiments at GitLab](https://www.youtube.com/watch?v=rEHxAfxr9eU) (30 min video)
-- [GitLab Growth Team Coffee & Learn Sessions](https://about.gitlab.com/handbook/marketing/growth/)
+- [GitLab Growth Team Coffee & Learn Sessions](/handbook/marketing/growth/)
 - [Product Managers: It's Time to Move from Whole Product to Product-led Growth](https://expand.openviewpartners.com/product-managers-its-time-to-move-from-whole-product-to-product-based-go-to-market-304467093357#.1euz7drsb)
 - [10 Statistics Traps in A/B Testing: The Ultimate Guide for Optimizers](https://cxl.com/blog/testing-statistics-mistakes/)
 - [5 Common Threats to Your A/B Test’s Validity](https://instapage.com/blog/validating-ab-tests)

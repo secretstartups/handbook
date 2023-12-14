@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/education-services/partner-gitlab-basics-fg.html
 title: "Partner Facilitator Guide for GitLab with Git Basics"
 description: "This Facilitator Guide is intended to walk you through all important links, preparation items, and after class items for our GitLab with Git Basics course."
 ---
@@ -8,9 +7,9 @@ description: "This Facilitator Guide is intended to walk you through all importa
 
 ## Important Links
 
-1. [Hands On Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandson.html)
+1. [Hands On Guide](/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandson.html)
 2. [GitLab Template Projects for VMs](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-with-git-basics)
-3. [Remote Sessions Tips and Tricks](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-tips/)
+3. [Remote Sessions Tips and Tricks](/handbook/customer-success/professional-services-engineering/remote-training-tips/)
 
 ## Before Class Preparation
 
@@ -22,7 +21,7 @@ description: "This Facilitator Guide is intended to walk you through all importa
    2. Test each hands-on activity in the lab environment
 3. Websites to have up prior to class:
     1. [Related GitLab Docs pages](https://docs.gitlab.com/ee/gitlab-basics/)
-    2. [Hands on Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/%20gitbasicshandson.html)
+    2. [Hands on Guide](/handbook/customer-success/professional-services-engineering/education-services/%20gitbasicshandson.html)
     3. [Lab environment](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-with-git-basics)
         (Virtual Machines need to be built prior to class)
 4. Slides

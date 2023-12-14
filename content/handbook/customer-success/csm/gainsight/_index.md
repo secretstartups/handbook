@@ -10,7 +10,7 @@ description: "The key aspects of how Customer Success Managers use Gainsight to 
 
 
 
-*For an overview of Gainsight, and information about how to login, please refer to the [Gainsight Overview Page](https://about.gitlab.com/handbook/sales/gainsight/).*
+*For an overview of Gainsight, and information about how to login, please refer to the [Gainsight Overview Page](/handbook/sales/gainsight/).*
 
 ## Gainsight for Customer Success Managers
 
@@ -22,81 +22,81 @@ The table below represents the steps a CSM would typically take in Gainsight. Pl
 
 #### Overview
 
-- [Using Gainsight at GitLab](https://about.gitlab.com/handbook/sales/gainsight/)
-- [Gainsight Dashboards](https://about.gitlab.com/handbook/customer-success/csm/gainsight/dashboards-overview)
-- [Customer Programs](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
-- [Sally the Slackbot](https://about.gitlab.com/handbook/customer-success/csm/gainsight/#sally-the-slack-bot)
-- [Email Assist](https://about.gitlab.com/handbook/customer-success/csm/gainsight/#emails)
+- [Using Gainsight at GitLab](/handbook/sales/gainsight/)
+- [Gainsight Dashboards](/handbook/customer-success/csm/gainsight/dashboards-overview)
+- [Customer Programs](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
+- [Sally the Slackbot](/handbook/customer-success/csm/gainsight/#sally-the-slack-bot)
+- [Email Assist](/handbook/customer-success/csm/gainsight/#emails)
 
 #### C360
 
-- [C360 overview](https://about.gitlab.com/handbook/customer-success/csm/gainsight/c360-overview)
-- [Account Engagement - Customer Prioritization](https://about.gitlab.com/handbook/customer-success/csm/engagement/#customer-prioritization)
-- [NPS/CSAT](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/nps-csat-scores)
-- [Customer contacts](https://about.gitlab.com/handbook/customer-success/csm/gainsight/#customer-contacts)
+- [C360 overview](/handbook/customer-success/csm/gainsight/c360-overview)
+- [Account Engagement - Customer Prioritization](/handbook/customer-success/csm/engagement/#customer-prioritization)
+- [NPS/CSAT](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/nps-csat-scores)
+- [Customer contacts](/handbook/customer-success/csm/gainsight/#customer-contacts)
 
 #### Timeline
 
-- [Using Timeline](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/)
-- [Cadence Calls](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/)
-- [Customer Renewal Tracking - At-Risk Process](https://about.gitlab.com/handbook/customer-success/csm/renewals/#at-risk-process)
+- [Using Timeline](/handbook/customer-success/csm/gainsight/timeline/)
+- [Cadence Calls](/handbook/customer-success/csm/cadence-calls/)
+- [Customer Renewal Tracking - At-Risk Process](/handbook/customer-success/csm/renewals/#at-risk-process)
 
 #### Calls to Action
 
-- [Calls to Action (CTAs)](https://about.gitlab.com/handbook/customer-success/csm/gainsight/ctas/)
-- [Executive Business Reviews (EBRs)](https://about.gitlab.com/handbook/customer-success/csm/ebr/#ebrs-in-gainsight)
-- [Account Handoff CSM-to-CSM Checklist](https://about.gitlab.com/handbook/customer-success/csm/account-handoff/#account-handoff-cta)
-- [Customer Renewal Tracking](https://about.gitlab.com/handbook/customer-success/csm/renewals/#timeframe)
-- [Customer Renewal Tracking - At-Risk Process](https://about.gitlab.com/handbook/customer-success/csm/renewals/#at-risk-process)
+- [Calls to Action (CTAs)](/handbook/customer-success/csm/gainsight/ctas/)
+- [Executive Business Reviews (EBRs)](/handbook/customer-success/csm/ebr/#ebrs-in-gainsight)
+- [Account Handoff CSM-to-CSM Checklist](/handbook/customer-success/csm/account-handoff/#account-handoff-cta)
+- [Customer Renewal Tracking](/handbook/customer-success/csm/renewals/#timeframe)
+- [Customer Renewal Tracking - At-Risk Process](/handbook/customer-success/csm/renewals/#at-risk-process)
 
 #### Renewals
 
-- [Customer Renewal Tracking](https://about.gitlab.com/handbook/customer-success/csm/renewals/#timeframe)
-- [Customer Renewal Tracking - At-Risk Process](https://about.gitlab.com/handbook/customer-success/csm/renewals/#at-risk-process)
+- [Customer Renewal Tracking](/handbook/customer-success/csm/renewals/#timeframe)
+- [Customer Renewal Tracking - At-Risk Process](/handbook/customer-success/csm/renewals/#at-risk-process)
 
 #### Success Plans
 
-- [Success Plans](https://about.gitlab.com/handbook/customer-success/csm/success-plans/)
-- [Account Engagement - E-Group Customer Calls](https://about.gitlab.com/handbook/customer-success/csm/engagement/#e-group-customer-calls)
+- [Success Plans](/handbook/customer-success/csm/success-plans/)
+- [Account Engagement - E-Group Customer Calls](/handbook/customer-success/csm/engagement/#e-group-customer-calls)
 
 #### Health Score
 
-- [Use Case Adoption (definitions)](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/)
-- [Customer Health Scoring](https://about.gitlab.com/handbook/customer-success/customer-health-scoring/)
-- [Customer Health Assessment and Management](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/)
-- [License Utilization](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/)
+- [Use Case Adoption (definitions)](/handbook/customer-success/product-usage-data/use-case-adoption/)
+- [Customer Health Scoring](/handbook/customer-success/customer-health-scoring/)
+- [Customer Health Assessment and Management](/handbook/customer-success/csm/health-score-triage/)
+- [License Utilization](/handbook/customer-success/product-usage-data/use-case-adoption/)
 
 #### Adoption Score
 
-- [CI Adoption Scoring](https://about.gitlab.com/handbook/customer-success/product-usage-data/maturity-scoring/#ci-adoption-scoring)
-- [DevSecOps Adoption Scoring](https://about.gitlab.com/handbook/customer-success/product-usage-data/maturity-scoring/#devsecops-adoption-scoring)
+- [CI Adoption Scoring](/handbook/customer-success/product-usage-data/maturity-scoring/#ci-adoption-scoring)
+- [DevSecOps Adoption Scoring](/handbook/customer-success/product-usage-data/maturity-scoring/#devsecops-adoption-scoring)
 
 #### Product Usage Data
 
-- [Operational Data Vision Page](https://about.gitlab.com/handbook/customer-success/product-usage-data/#customer)
-- [Using Product Usage Data in Gainsight](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight)
-- [Product Usage Data FAQs](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
-- [Use Case Adoption (definitions)](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/)
-- [Customer Health Scoring](https://about.gitlab.com/handbook/customer-success/customer-health-scoring/)
+- [Operational Data Vision Page](/handbook/customer-success/product-usage-data/#customer)
+- [Using Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight)
+- [Product Usage Data FAQs](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
+- [Use Case Adoption (definitions)](/handbook/customer-success/product-usage-data/use-case-adoption/)
+- [Customer Health Scoring](/handbook/customer-success/customer-health-scoring/)
 - [Product Usage Data - Data Team](/handbook/business-technology/data-team/data-catalog/product-usage-data/)
-- [License Utilization](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/)
-- [Maturity Scoring](https://about.gitlab.com/handbook/customer-success/product-usage-data/maturity-scoring/)
-- [Product usage playbooks with usage metrics](https://about.gitlab.com/handbook/customer-success/product-usage-data/metrics-based-playbooks/)
+- [License Utilization](/handbook/customer-success/product-usage-data/use-case-adoption/)
+- [Maturity Scoring](/handbook/customer-success/product-usage-data/maturity-scoring/)
+- [Product usage playbooks with usage metrics](/handbook/customer-success/product-usage-data/metrics-based-playbooks/)
 
 #### Dashboard Metrics
 
-- [Time to Value Metrics](https://about.gitlab.com/handbook/customer-success/csm/onboarding/#time-to-value-metrics)
+- [Time to Value Metrics](/handbook/customer-success/csm/onboarding/#time-to-value-metrics)
 
 #### Digital Customer Success Programs
 
-- [Customer Programs](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
-- [NPS/CSAT](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/nps-csat-scores)
+- [Customer Programs](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
+- [NPS/CSAT](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/nps-csat-scores)
 
 #### Technical Documentation
 
-- [Gainsight Technical Documentation](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html)
-- [Gainsight Administration](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/)
-- [SalesForce and Zendesk Sync](https://about.gitlab.com/handbook/customer-success/csm/gainsight/#salesforce-and-zendesk-syncing)
+- [Gainsight Technical Documentation](/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html)
+- [Gainsight Administration](/handbook/sales/field-operations/customer-success-operations/gainsight/)
+- [SalesForce and Zendesk Sync](/handbook/customer-success/csm/gainsight/#salesforce-and-zendesk-syncing)
 
 #### Gainsight University
 
@@ -143,19 +143,19 @@ CSMs can send these emails to customers in one of two ways:
 
 **2. In Gmail through a Chrome extension**: Add the [Gainsight extension](https://chrome.google.com/webstore/detail/gainsight-assist/kbiepllbcbandmpckhoejbgcaddcpbno?hl=en-US) to your Google Chrome browser. Once added, to apply a template, open a blank email and click the "G" icon on the right sidebar, choose the template, and click "Apply template". Complete the email as normal. If a recipient's email address is in Gainsight under their account, it will auto-link any emails and update the account's timeline. See Gainsight's support article on [Email Assist](https://support.gainsight.com/Gainsight_NXT/Email_Assist) for more details.
 
-Please note we recommend [BCCing Salesforce](https://about.gitlab.com/handbook/customer-success/using-salesforce-within-customer-success/#tracking-emails-within-salesforce) on all emails rather than syncing every email to Gainsight, although it is also possible to [BCC Gainsight](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/#bccing-emails).
+Please note we recommend [BCCing Salesforce](/handbook/customer-success/using-salesforce-within-customer-success/#tracking-emails-within-salesforce) on all emails rather than syncing every email to Gainsight, although it is also possible to [BCC Gainsight](/handbook/customer-success/csm/gainsight/timeline/#bccing-emails).
 
 ## Salesforce and Zendesk syncing
 
 Gainsight is synched with Salesforce so that everything that happens in Gainsight is pulled into Salesforce, allowing Salesforce to remain our SSOT but also allowing us to not have to duplicate information. Gainsight is also integrated and syncs with Zendesk so CSMs can view customer support tickets within Gainsight.
 
-**Salesforce** syncs are queued at 12AM Pacific Time (7AM UTC). The full sync typically is completed by 4AM PT (11AM UTC). Note that "Last Activity Date" field syncs every two hours (based on "Call" or "Meeting" [activity type](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/)).
+**Salesforce** syncs are queued at 12AM Pacific Time (7AM UTC). The full sync typically is completed by 4AM PT (11AM UTC). Note that "Last Activity Date" field syncs every two hours (based on "Call" or "Meeting" [activity type](/handbook/customer-success/csm/gainsight/timeline/)).
 
 **Zendesk** syncs are queued to run every day at 12AM Pacific Time (7AM UTC).
 
 If you see a data issue (e.g. account hierarchy, ARR, etc.), check if this is the same information that's in Salesforce. If so, use Salesforce chatter and at-mention `sales-support` with the items that need to be updated and/or reviewed. If the issue is specifically Gainsight and not sourced from Salesforce, pull in CS Ops.
 
-For information on how we manage the backend data for Gainsight, please see our [Go-To-Market technical documentation handbook page](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#gainsight).
+For information on how we manage the backend data for Gainsight, please see our [Go-To-Market technical documentation handbook page](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#gainsight).
 
 ### Updating fields
 
@@ -167,7 +167,7 @@ The `CSM Name` field in Gainsight indicates which CSM owns a specific account, a
 
 To add customer contacts to an account, you can add them in either Salesforce or Gainsight, as we utilize a bi-directional sync. It is good practice is to check that any customer contacts we engage with are in Gainsight for the following reasons:
 
-1. When scheduling a meeting, they can be [logged in the meeting](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/).
+1. When scheduling a meeting, they can be [logged in the meeting](/handbook/customer-success/csm/gainsight/timeline/).
 1. If any of these contacts open a Support Ticket, we want it assigned to the account. The contact must be in SFDC for that to work.
 1. When we send emails to contacts (monthly release, marketing, etc.), the contact needs to be loaded into Gainsight.
 1. To share a Success Plan, they need to be a contact in Gainsight.

@@ -4,39 +4,50 @@ title: "Security Research"
 
 ## Team Focus
 
-Security Research focuses on identifying, investigating, and developing solutions for security problems for which current best practices are not sufficient. This work is focused on improving the security posture of the product and the company, but always with an eye for contributing new functionality as a differentiator. Additionally, we aim to share our results as widely as appropriate in order to educate fellow team members and bring awareness to the Gitlab Security program.
+The Security Research team contributes to the [Security Vision and Mission](https://handbook.gitlab.com/handbook/security/#i-classfas-fa-rocket-idbiz-tech-iconsi-security-vision-and-mission) through projects that focus on identifying, quantifying, and developing solutions for complex security risks facing GitLab and its users. This work aims to improve the security posture of the product and the company, but always with an eye for contributing new functionality as a differentiator. Additionally, we aim to share our results widely in order to educate and bring awareness to the Gitlab Security program.
 
-The team focus for the security research team falls into the two following categories in order to align with the [role description](https://handbook.gitlab.com/job-families/security/security-research/):
+In order to realize this vision, team projects generally align with the following categories in accordance with the [role description](/job-families/security/security-research/):
 
-- Secure GitLab
-- Raise awareness
+- Provide security insight
+- Development of new security capabilities
+- Education
 
-### Secure GitLab
+### Provide Security Insight
 
-The Security Research team is part of the Threat Management sub-department. In order to secure GitLab the product and GitLab the company, the security research team will conduct research in areas such as:
+In order to secure GitLab the product and GitLab the company, security insight
+projects aim to identify, quantify, and communicate technical security risks.
 
-- [FOSS applications and dependencies used within GitLab](#gitlab-ecosystem-security-testing)
-- GitLab's own codes bases
-- Software, hardware and services used by the company
+Examples include:
+- [Security testing of FOSS applications and dependencies used within GitLab](#gitlab-ecosystem-security-testing)
+- Introduction and practice of [threat modeling](https://handbook.gitlab.com/handbook/security/threat-modeling/)
+- Publishing of internal technical risk reports
 
-The specific topic is chosen individually per quarter to set as an OKR. As the
-security research OKRs are twofold any research steps and outcomes should be
-documented in detail such that the other OKR category “raise awareness” can
-succeed based on the actual research steps.
+### Security Capability Development
 
-### Raise awareness
+Projects in the security capability development category aim to provide novel
+tools to enable others to innovate securely.
 
-Typically “raising awareness” is a matter of presenting concrete research
-results in a suitable way. This might include:
+Examples include:
+- [Package Hunter](#package-hunter)
+- [Untamper My Lockfile](https://gitlab.com/gitlab-org/frontend/untamper-my-lockfile)
+- Token leak tooling
 
-- Handbook updates
-- GitLab documentation updates
+### Education
+
+We want to ensure that our ideas are available for others to learn from and
+build upon. To achieve that goal we share our results as widely as appropriate.
+Additionally, dedicated education projects seek to develop engaging security
+content to help raise awareness of security concepts.
+
+Examples include:
 - Blog posts
-- Conference presentations
 - [GitLab Security Tech Notes](https://gitlab-com.gitlab.io/gl-security/security-tech-notes/)
-- Papers or other forms of write ups
+- Conference presentations
+- Writing of security standards
+- GitLab documentation updates
+- Development of internal training
 
-Even if the outcome of the research is not yielding any spectacular
+Even if the outcome of the research is not yielding the expected
 outcomes the approaches and procedures conducted during the research
 phase should be documented and published.
 

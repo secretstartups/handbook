@@ -1,0 +1,9 @@
+{{- if .marketing_page}}
+{{ printf "https://about.gitlab.com%s" .marketing_page }}
+{{- else if .documentation }}
+{{ .documentation }}
+{{- else if .direction }}
+{{ printf "https://about.gitlab.com%s" .direction }}
+{{- else }}
+{{ printf "https://about.gitlab.com/direction/%s" ( .name | anchorize ) }}
+{{- end }}

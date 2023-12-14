@@ -84,7 +84,7 @@ Once you know what scenario(s) you’ll put your participants through, it’s im
 
 It’s important to thoroughly plan how a participant will complete your scenario(s), especially if you answered "yes" to any of the questions above. Involve technical counterparts early in the process if you have any uncertainty about how to enable users to go through your desired flow(s).
 
-If you want help creating a pristine test environment be sure to reach out to the [Demo Systems](https://about.gitlab.com/handbook/customer-success/demo-systems/) group on the #demo-systems Slack channel. They can create a demo environment for users and help build any particular parameters needed for your testing environment. Be aware that setting up a test environment for a research study can be time consuming and difficult. Alternately, you can utilitze the [UX Cloud Sandbox](/handbook/product/ux/ux-research/ux-cloud-sandbox/).
+If you want help creating a pristine test environment be sure to reach out to the [Demo Systems](/handbook/customer-success/demo-systems/) group on the #demo-systems Slack channel. They can create a demo environment for users and help build any particular parameters needed for your testing environment. Be aware that setting up a test environment for a research study can be time consuming and difficult. Alternately, you can utilitze the [UX Cloud Sandbox](/handbook/product/ux/ux-research/ux-cloud-sandbox/).
 
 If your JTBD interacts with other stage groups’ areas, reach out to them to ensure their part of our product will support your scenario(s).
 
@@ -161,7 +161,7 @@ Admittedly, the term ‘user experience’ is broad; as it encompasses many comp
 
 **Question 3: UMUX Lite, adjusted**
 
-The [UMUX Lite](https://measuringu.com/umux-lite/) score is based on the UMUX (Usability Metric for User Experience), created by [Finstad](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.872.6330&rep=rep1&type=pdf), and it is highly correlated with the [SUS](/handbook/product/ux/performance-indicators/system-usability-scale/) and the Net Promoter Score. It's intended to be similar to the SUS, but it's shorter and targeted toward the [ISO 9241 definition of usability](https://www.w3.org/2002/Talks/0104-usabilityprocess/slide3-0.html) (effectiveness, efficiency, and satisfaction). This question is also used for the UX Scorecard formative evaluation approach.
+The [UMUX Lite](https://measuringu.com/umux-lite/) score is based on the UMUX (Usability Metric for User Experience), created by Finstad, and it is highly correlated with the [SUS](/handbook/product/ux/performance-indicators/system-usability-scale/) and the Net Promoter Score. It's intended to be similar to the SUS, but it's shorter and targeted toward the [ISO 9241 definition of usability](https://www.w3.org/2002/Talks/0104-usabilityprocess/slide3-0.html) (effectiveness, efficiency, and satisfaction). This question is also used for the UX Scorecard formative evaluation approach.
 
 *Q3: "You just experienced our implementation of* `<Scenario>`. *How would you agree or disagree with the following statement:*
 

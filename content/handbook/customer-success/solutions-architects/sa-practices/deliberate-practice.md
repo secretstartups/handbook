@@ -3,12 +3,8 @@
 title: "Deliberate Practice"
 ---
 
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 
 # Deliberate Practice
-
-
 
 They say that practice makes perfect.  While it's true that practice is important to hone one's skills, it's how you actually do that practice that matters.  [Deliberate Practice](https://jamesclear.com/beginners-guide-deliberate-practice) is a particular way of practicing that is persistant and intense.  When one practices deliberately, they are stretching beyond their normal comfort level and they are focusing on a particular piece of their routine or demonstration to work on with a specific goal of improving performance.  
 
@@ -43,11 +39,11 @@ Examples:
 
 
 ## Demo Jam
-Similar to lightning talks, [Demo Jam](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/commercial/#commercial-demo-jam) is practiced amongst the Commercial SA Team as a safe place to continously practice showcasing features, managing objections, and improving storytelling.
+Similar to lightning talks, [Demo Jam](/handbook/customer-success/solutions-architects/processes/commercial/#commercial-demo-jam) is practiced amongst the Commercial SA Team as a safe place to continously practice showcasing features, managing objections, and improving storytelling.
 
 ## Objection Handling Workshops
 
-To ensure that GitLab Solution Architects are as best prepared as they can be, the practice of Objection Handling is something we would love all SA's to be well versed in.  The SA Handbook has an [entire page](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/effective-objection-handling-practice/) devoted to effective Objection Handling.
+To ensure that GitLab Solution Architects are as best prepared as they can be, the practice of Objection Handling is something we would love all SA's to be well versed in.  The SA Handbook has an [entire page](/handbook/customer-success/solutions-architects/sa-practices/effective-objection-handling-practice/) devoted to effective Objection Handling.
 
 ## Feature Fridays
 

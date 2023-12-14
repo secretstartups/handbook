@@ -61,7 +61,7 @@ Our website has a 2MB file size limit. Please plan accordingly when providing im
 * Photos usually start off as a high-quality lossless jpg before being [optimized](https://www.wpbeginner.com/beginners-guide/speed-wordpress-save-images-optimized-web/).
   * If we will be preparing a photo for you we ask that you supply us with a high quality file.
   * If you will be preparing the photo on your own, please ensure it is optimized per the above link and ask us to review the performance before merging.
-    * If you are unsure what size the image needs to be, feel free to [contact us](https://about.gitlab.com/handbook/marketing/digital-experience/#contact-us) for assistance.
+    * If you are unsure what size the image needs to be, feel free to [contact us](/handbook/marketing/digital-experience/#contact-us) for assistance.
 * All photos must have prior consent or licensing for use on our website.
 * We often use stock photos from [Unsplash](https://unsplash.com/).
 

@@ -30,7 +30,7 @@ description: "Describes the process for scoping GitLab implementations."
 
 - Our PSE team uses infrastructure as code automation for provisioning infrastructure and configuring the provisioned servers.  The tooling is managed in the [Proliferate](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/implementation/proliferate) project.  The project readme has information on what infra as code we currently support.  Note, this is different than the open sourced [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/gitlab-environment-toolkit) used by our QA team for provisioning new systems using Terraform and Ansible.
 
-Using the [services calculator](https://services-calculator.gitlab.io/), an SA/SAE/AE/CSM can create a scoping issue, and work with an [Engagement Manager](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/) to iterate and refine the services estimate for a customer. In this issue, we have included additional context to the Implementation Scoping Questions, which can be previewed below
+Using the [services calculator](https://services-calculator.gitlab.io/), an SA/SAE/AE/CSM can create a scoping issue, and work with an [Engagement Manager](/handbook/customer-success/professional-services-engineering/engagement-mgmt/) to iterate and refine the services estimate for a customer. In this issue, we have included additional context to the Implementation Scoping Questions, which can be previewed below
 
 <!--DEBT: below should be embedded from the SSOT locaed https://gitlab.com/services-calculator/services-calculator.gitlab.io/-/blob/master/make-ps-creates.py#L46-->
 

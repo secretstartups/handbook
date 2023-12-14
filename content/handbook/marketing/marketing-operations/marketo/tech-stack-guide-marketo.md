@@ -1,32 +1,11 @@
 ---
-
 title: "Marketo Tech Stack Guide"
 description: "Reference for how Marketo is implemented."
 ---
 
-
-
-<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-
-
-
-
-
-
-
-
-## Marketo Tech Stack Guide
-
 > **Note:** Refer to the **[Tech Stack Index](/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](/handbook/business-technology/tech-stack-applications/)** to manage Apps.
 
-<% data.tech_stack.each do |stack| %>
-<% if stack.title == "Marketo" %>
-- **Description:** <%= stack.description %>
-- **Provisioner:** <%= stack.provisioner %>
-- **Deprovisioner:** <%= stack.deprovisioner %>
-- **Critical Systems Tier:** <%= stack.critical_systems_tier %>
-<% end %>
-<% end %>
+{{% tech-stack "Marketo" %}}
 
 ### Integrations
 

@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/product/single-application/dataflow.html
 title: Data flow GitLab vs. multiple applications
 ---
 

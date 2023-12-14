@@ -557,7 +557,7 @@ See also [Live Doc Meetings]({{< ref "live-doc-meetings" >}}) for more Google Do
 
 [Google Analytics (GA)](https://analytics.google.com/) is an essential tool for making data-driven decisions.
 It receives data from both about.gitlab.com and docs.gitlab.com websites.
-Read through the [Inbound Marketing Handbook](https://about.gitlab.com/handbook/marketing/inbound-marketing/search-marketing/analytics/) for more information on GA.
+Read through the [Inbound Marketing Handbook](/handbook/marketing/inbound-marketing/search-marketing/analytics/) for more information on GA.
 
 For example, you can look at the GA data to analyze how visited is a certain page, in a period of your choice.
 You can also look at the GA referrals data to understand where the users are coming from and where they go when they leave a certain page.
@@ -829,10 +829,10 @@ Switch to your GitLab account.
 Use these [GitLab branded form templates](https://drive.google.com/open?id=0BxrZ6azkqZ1bVDl1TTZuelFOb1k) when creating internal or external surveys or forms.
 Make a copy of the form and only edit the copy; do not edit the template itself.
 
-Review [what data privacy means at GitLab](https://about.gitlab.com/handbook/legal/privacy/#what-data-privacy-means). Help participants make informed decisions by applying the following guidelines:
+Review [what data privacy means at GitLab](/handbook/legal/privacy/#what-data-privacy-means). Help participants make informed decisions by applying the following guidelines:
 
 - *For external forms*: State that any Personal Data collected will be processed in accordance with the [GitLab Privacy Statement](https://about.gitlab.com/privacy/).
-- *For internal forms*: Ensure that the purpose for collecting data is stated under our [Team Member Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/) and that this purpose is made clear to Team Members.
+- *For internal forms*: Ensure that the purpose for collecting data is stated under our [Team Member Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/) and that this purpose is made clear to Team Members.
 - Don't make Personal Data form fields mandatory unless they're absolutely necessary to achieve the processing; any inessential Personal Data collected should be through a voluntary form field.
 - Only process Personal Data for the reason in which it was initially collected e.g., if the Google Form collected traveler information, don't then use that Personal Data to create a marketing list.
 
@@ -857,7 +857,7 @@ Set up an [email signature](https://support.google.com/mail/answer/8395) which i
 <span style="font-family: serif;font-size: small;display: block;">John Doe</span>
 <span style="color: #999999;font-family: sans-serif;font-size: small;display: block;">Frontend Engineer | GitLab</span>
 
-<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png" width="98" height="37">
+<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png" alt="Gitlab Logo" width="98" height="37">
 
 #### Email signature if employed by our German entity
 
@@ -866,7 +866,7 @@ If you are employed by our German entity GitLab GmbH, you will need to include s
 <span style="font-family: serif;font-size: small;display: block;">John Doe</span>
 <span style="color: #999999;font-family: sans-serif;font-size: small;display: block;">Frontend Engineer | GitLab</span>
 
-<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png" width="98" height="37">
+<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png" alt="Gitlab Logo" width="98" height="37">
 
 <span style="font-family: serif;font-size: small;display: block;">GitLab GmbH  | Sitz: München  | Registergericht: Amtsgericht München, HRB 237630  | Geschäftsführer: James John Gladen und Craig Adam Mestel</span>
 

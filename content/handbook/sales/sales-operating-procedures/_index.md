@@ -14,14 +14,14 @@ description: "GitLab sales process documentation"
 
 This documentation is based on the [GitLab Sales Process](https://docs.google.com/spreadsheets/d/1ISe3kb5bIbUKxo8lSYQlU-OddgfRgZgl9D0Y5CJ1iew/edit#gid=901742865) document approved in February 2020.
 
-1. [Engage and Educate the Customer](https://about.gitlab.com/handbook/sales/sales-operating-procedures/engage-and-educate-the-customer)
-1. [Facilitate the Opportunity](https://about.gitlab.com/handbook/sales/sales-operating-procedures/facilitate-the-opportunity)
-1. [Deal Closure](https://about.gitlab.com/handbook/sales/sales-operating-procedures/deal-closure)
-1. [Retain and Expand](https://about.gitlab.com/handbook/sales/sales-operating-procedures/retain-and-expand)
+1. [Engage and Educate the Customer](/handbook/sales/sales-operating-procedures/engage-and-educate-the-customer)
+1. [Facilitate the Opportunity](/handbook/sales/sales-operating-procedures/facilitate-the-opportunity)
+1. [Deal Closure](/handbook/sales/sales-operating-procedures/deal-closure)
+1. [Retain and Expand](/handbook/sales/sales-operating-procedures/retain-and-expand)
 
 ## How to Use
 
-The intention of SOPs is to make our sales processes clear and document them in detail in a single place. These SOPs will also serve as the pillars for the [Field Certification Program.](https://about.gitlab.com/handbook/sales/training/field-certification/)
+The intention of SOPs is to make our sales processes clear and document them in detail in a single place. These SOPs will also serve as the pillars for the [Field Certification Program.](/handbook/sales/training/field-certification/)
 
 SOPs are *not* meant to solve for every permutation of selling scenarios that you might face. There will be times that the processes outlined in the SOPs do not apply or need to be expanded upon/deviated from. In this case, we encourage you to feel empowered to do what is necessary to support your customer and your business.
 

@@ -17,13 +17,13 @@ Welcome to the Developer Evangelism team workflow page. Learn how the team works
 
 Opening an issue is the best way to get a conversation started. The `dev-evangelism` label is at the `gitlab-com` group level, which means it can be added to any issue or merge request in the group's structure.
 
-The `dev-evangelism` label is required, other labels are optional. The [DE-Bot](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/projects/#developer-evangelism-bot) or a team member will do the triage and add the necessary labels. To reduce noise in the comments, please add the `DE-Type::Consulting` and the relevant `Consulting` team labels yourself.
+The `dev-evangelism` label is required, other labels are optional. The [DE-Bot](/handbook/marketing/developer-relations/developer-evangelism/projects/#developer-evangelism-bot) or a team member will do the triage and add the necessary labels. To reduce noise in the comments, please add the `DE-Type::Consulting` and the relevant `Consulting` team labels yourself.
 
 You can use the [request an evangelist issue template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=developer-evangelist-request) to submit a request. It provides a guide to collect the required information to triage the request.
 
 ## Roadmap view
 
-The Developer Evangelism uses the [Roadmap in the Developer Relations Group](https://go.gitlab.com/community-relations-team-roadmap) to track our work. Epics for our team are tracked within this group using the `dev-evangelism` label.  
+The Developer Evangelism uses the [Roadmap in the Developer Relations Group](https://go.gitlab.com/community-relations-team-roadmap) to track our work. Epics for our team are tracked within this group using the `dev-evangelism` label. 
 
 ### Epics
 
@@ -33,7 +33,8 @@ For each fiscal year's plan, we use the following structure to organize epics on
 - FYXX Events 
   - Child epic for each event we will support
 - FYXX Content
-  - Child epic for each piece of content (blog, video, contributed article, media interview, etc) we will publish 
+  - FYXXQ{1,2,3,4}
+    - Child epic for each piece of content (blog, video, contributed article, media interview, etc) we will publish 
   - FYXX Release Evangelism epic 
     - Child epic for each release we will support 
 
@@ -65,6 +66,27 @@ These are the recommended labels for Epics created in the Developer Relations gr
 **Important!** Where you are adding a label to a sub-epic, its ancestors must include the label for filtering to work properly. This is a workaround, because the roadmap only filters top-level epics using labels, but works when an epic and its ancestors have the label you are filtering with. For example, in the image below, you will notice that the FY24 Content & the sub epic "Blog post - March 2023", both have the label `Content-Blog`, they both appear when the label is used as a filter. The child epic will not appear in the filter, when its ancestors don't have the label you are searching with.
 
 ![Roadmap Filter using Labels](/images/handbook/marketing/developer-relations/developer-evangelism/workflow/roadmap-labels.png)
+
+### Syncing epics roadmap with the technical content plan
+
+The roadmap view needs to be synced with the `Technical Content Plan - Developer Evangelism and Technical Marketing` (search in Google drive).
+
+Checklist for updating delivery dates:
+
+1. Sync the delivery date in the technical content plan with the epic due date.
+1. Update the epic's title to the `month, year` the content is delivered. 
+1. Update the epic's parent epic to match the quarter where the content is delivered. 
+1. Update the epic's labels to match the quarter where the content is delivered. 
+
+The following quick actions example updates a content epic from FY24Q3 to FY24Q4. 
+
+```
+/unlabel ~FY24-Q3
+
+/label ~FY24-Q4
+
+/parent_epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/241 
+```
 
 
 ### Epic Templates
@@ -115,19 +137,19 @@ Please use this template when creating Epics for activities that should appear f
 
 On completion:
 
-- [ ] [Distribute the content](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/#content-distribution)
+- [ ] [Distribute the content](/handbook/marketing/developer-relations/developer-evangelism/#content-distribution)
 - [ ] Add results to the epic, and to the technical content sheet. Mark the sheet row as completed (green).
 
 <!-- these labels should be included on all templates -->
 /label ~"dev-evangelism" 
-<!-- Example: 
 
-/label ~"DevRel-Content" ~"FY24-Q3" 
+<!-- Note: These are samples for guidance, please add relevant labels for activity region, type, quarter or any other labels relevant to your team/program. Please update or include additional relevant labels here. -->
 
-Note: These are samples for guidance, please add relevant labels for activity region, type, quarter or any other labels relevant to your team/program. Please include additional relevant labels here.  -->
+/label ~"DevRel-Content" ~"FY24-Q4" 
 
-<!--Link to parent epic where necessary. Please choose the quarterly epic from the FY24 main epic
-https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/98 -->
+<!-- Link to parent epic where necessary. Please choose the quarterly epic from the FY24 epic
+https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/98 
+and FY25 epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/339 -->
 
 <!-- FY24Q4 -->
 /parent_epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/241 
@@ -183,20 +205,20 @@ https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/98 --
 
 On completion:
 
-- [ ] [Create event report slides and share them](https://about.gitlab.com/handbook/marketing/developer-relations/events/#event-reporting)
+- [ ] [Create event report slides and share them](/handbook/marketing/developer-relations/events/#event-reporting)
 
 <!-- these labels should be included on all templates -->
 /label ~"dev-evangelism" 
-<!-- Example: 
 
-/label ~"DevRel-Events" ~"Region-AMER" ~"FY24-Q3" 
+<!-- Example: These are samples for guidance, please add relevant labels for activity region, type, quarter or any other labels relevant to your team/program. Please include additional relevant labels here.  -->
 
-Note: These are samples for guidance, please add relevant labels for activity region, type, quarter or any other labels relevant to your team/program. Please include additional relevant labels here.  -->
+/label ~"DevRel-Events" ~"Region-AMER" ~"FY25-Q1" 
+
 
 <!--Link to parent epic where necessary -->
 
-<!-- Events epic (default) -->
-/parent_epic https://gitlab.com/groups/gitlab-com/marketing/community-relations/-/epics/97 
+<!-- Events epic (FY25) -->
+/parent_epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/326 
  
 
 <!-- Link to Child epic where necessary -->
@@ -213,7 +235,7 @@ Note: These are samples for guidance, please add relevant labels for activity re
 ```markdown
 ## 👀 Pins
 
-* [Dev Evangelism Release Evangelism handbook](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism) provides all resources. 
+* [Release Evangelism handbook](/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism) provides all resources. 
 * [#release-post](https://gitlab.slack.com/archives/C3TRESYPJ) Slack channel (internal)
 
 ### ✍ Release post
@@ -223,9 +245,9 @@ Note: These are samples for guidance, please add relevant labels for activity re
 
 #### CommunityApps Campaign Links
 
-> Create campaign links in the [Release Evagelism Campaign](https://campaign-manager.gitlab.com/campaigns/view/3), under the Community Team in [CommunityApps](https://campaign-manager.gitlab.com/), and add them here. 
+> Create campaign short URLs in the [Release Evagelism Campaign](https://campaign-manager.gitlab.com/campaigns/view/3), under the Community Team in [CommunityApps](https://campaign-manager.gitlab.com/), and add them here. 
 
-  - Twitter:
+  - Twitter/X:
   - LinkedIn:
   - Mastodon:
 
@@ -233,47 +255,48 @@ Note: These are samples for guidance, please add relevant labels for activity re
 
 ### MVP
 
-<!-- Create a screenshot from the MVP section, tag the user if possible, and give a shoutout, linking the blog post `#mvp` anchor. -->
-
-### Plan/Create/Manage
-
-<!-- Issues, epics, code review, editor, roadmaps, etc. -->
-
-- [ ] Text:
-  - URL:
-
-### CI/CD 
-
-<!-- CI config, editor, runner, deployments, environments, etc. -->
-
-- [ ] Text:
-  - URL:
-
-### IaC/GitOps
-
-<!-- Configure, Package, Release, Deploy, etc. -->
-
-- [ ] Text:
-  - URL:
+> Create a screenshot from the MVP section, tag the user if possible, and give a shoutout, linking the blog post `#mvp` anchor.
 
 ### DevSecOps 
 
-<!-- Secure, Protect, SAST, container/dependency scanning, etc. -->
+_Secure, Govern, Compliance, SAST, container/dependency scanning, etc._
 
-- [ ] Text:
-  - URL:
+- [ ] Text:  URL:
+
+### GitLab Duo 
+
+_AI-powered workflows, use cases, new GitLab Duo features, etc._
+
+- [ ] Text:  URL:
+
+### Plan/Create/Manage
+
+_Issues, epics, code review, editor, roadmaps, etc._
+
+- [ ] Text:  URL:
+
+### CI/CD 
+
+_CI/CD config, editor, runner, deployments, environments, etc._
+
+- [ ] Text:  URL:
+
+### IaC/GitOps
+
+_Configure, Package, Release, Deploy, etc._
+
+- [ ] Text:  URL:
 
 ### Observability
 
-<!-- Metrics, Opstrace, -->
+_Metrics, traces, analytics, value stream dashboards, etc._
 
-- [ ] Text:
-  - URL:
+- [ ] Text:  URL:
 
 ## ❤️ Social Shares
 
-- Item:
-  - Twitter:
+- Item:  
+  - Twitter/X:
   - LinkedIn: 
 
 > 💡 Add a new buffer campaign and post screenshots into this issue. 
@@ -358,11 +381,11 @@ Requests from other teams for the Developer Evangelism to own, participate or co
 
 These labels are required where an issue has `DE-Issue-Type::External` and `DE-Type::Consulting`, aside the team label `dev-evangelism` and `DE-Status` scoped label. If your team is not listed, you can still submit a request and it will be triaged appropriately
 
-Issues created for Consulting count against team quarterly budgets, you can learn more in the [Request budgets section below](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/workflow/#request-budgets).
+Issues created for Consulting count against team quarterly budgets, you can learn more in the [Request budgets section below](/handbook/marketing/developer-relations/developer-evangelism/workflow/#request-budgets).
 
 #### Bot Labels
 
-These labels are automatically assigned by the [DE-Bot](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/projects/#developer-evangelism-bot) for triaging purposes.
+These labels are automatically assigned by the [DE-Bot](/handbook/marketing/developer-relations/developer-evangelism/projects/#developer-evangelism-bot) for triaging purposes.
 
 
 | Label | Use |
@@ -458,7 +481,7 @@ Example CFP workflow using [quick actions](https://docs.gitlab.com/ee/user/proje
 ```
 
 5. When the event is done, update the issue with feedback and results.
-    1. Add talk videos to the [YouTube playlist](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/#youtube-playlist), if existing.
+    1. Add talk videos to the [YouTube playlist](/handbook/marketing/developer-relations/developer-evangelism/#youtube-playlist), if existing.
     2. Mark the issue as `DE-Status::Done` and close it.
 
 ```
@@ -496,7 +519,7 @@ Event requests include both event attendance (ex: attending client meetings, eve
 
 CFP requests include asking a Developer Evangelist to submit a proposal for an event or media opportunity or support a fellow team member in submitting to an open CFP.
 
-See [Requesting a Developer Evangelist to submit a CFP](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/cfps/) to request a Developer Evangelist to submit to a CFP for a corporate, field, or partner event.
+See [Requesting a Developer Evangelist to submit a CFP](/handbook/marketing/developer-relations/developer-evangelism/cfps/) to request a Developer Evangelist to submit to a CFP for a corporate, field, or partner event.
 
 #### Content requests
 

@@ -18,12 +18,12 @@ Because of the pace at GitLab, the Field team is often overwhelmed by the amount
 
 ### Release Schedule Scope
 
-The updates included in this process are *strictly* system/process/policy-based. Other announcements go through the normal [Field Announcement Request process](https://about.gitlab.com/handbook/sales/field-communications/#requesting-field-announcements). The primary update types are related to Sales Ops, CS Ops, Channel Ops and Deal Desk. (Systems is a supplementary use case, but they are usually incorporated as a part of Ops updates.)
+The updates included in this process are *strictly* system/process/policy-based. Other announcements go through the normal [Field Announcement Request process](/handbook/sales/field-communications/#requesting-field-announcements). The primary update types are related to Sales Ops, CS Ops, Channel Ops and Deal Desk. (Systems is a supplementary use case, but they are usually incorporated as a part of Ops updates.)
 
 ### Cadence and Format
 
 1. Field Ops updates are released on a two-week cycle, with updates launching every other week on Mondays.
-1. Update is shared in the [#field-fyi announcement channel](https://about.gitlab.com/handbook/sales/sales-google-groups/field-fyi-channel/) using a set format that summarizes the changes and links to an epic for full details:
+1. Update is shared in the [#field-fyi announcement channel](/handbook/sales/sales-google-groups/field-fyi-channel/) using a set format that summarizes the changes and links to an epic for full details:
 >    - Sales Ops is releasing ## system and process-related improvements today. Please see a summary of the changes and impacted teams below and see the [DATE Sales Ops Release eipc] for full details. Reach out in #sales-support with any questions.
 >    - **Change 1: [TITLE] (LINK TO EPIC)**
 >       - **Who:** (Which teams are impacted?)
@@ -34,9 +34,9 @@ The updates included in this process are *strictly* system/process/policy-based.
 >       - **Why:** (Why are we making this change? WIIFM?)
 >       - **Action:** (What is the ask/next step that we're asking the audience to take?)
 >    - See the [Field Ops Changelog] for past changes.
-3. Update is included in next-available [WW Field Org Call](https://about.gitlab.com/handbook/sales/sales-meetings/#ww-field-org-call). (Sync or async depending on announcement scope)
-4. Summary epics are aggregated in next-available [Field Flash](https://about.gitlab.com/handbook/sales/field-communications/field-flash-newsletter/), "Did You Know?" section.
-5. Changes are documented in the [Field Ops Changelog](https://about.gitlab.com/handbook/sales/field-operations/changelog/)
+3. Update is included in next-available [WW Field Org Call](/handbook/sales/sales-meetings/#ww-field-org-call). (Sync or async depending on announcement scope)
+4. Summary epics are aggregated in next-available [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/), "Did You Know?" section.
+5. Changes are documented in the [Field Ops Changelog](/handbook/sales/field-operations/changelog/)
 
 ### Process
 

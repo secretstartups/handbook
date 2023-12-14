@@ -5,7 +5,7 @@ summary: "The purpose of the Critical Systems Tiering Methodology is to support 
 
 ## Purpose
 
-The purpose of the Critical Systems Tiering Methodology is to support GitLab in categorizing systems based on their effect on GitLab's SaaS subscriptions and the achievement of Gitlab's [mission]({{< ref "mission#mission" >}}) and [strategy]({{< ref "strategy" >}}). Ultimately, this provides GitLab with a mechanism to take a proactive approach to comprehensive risk management which considers risks, such as information security and privacy risks, impacting business operations across the organization. Additionally, by classifying systems into specific tiers, GitLab will be in a better position to appropriately prioritize risk mitigation activities and tailor internal controls based on a system's related tier.
+The purpose of the Critical Systems Tiering Methodology is to support GitLab in categorizing systems based on their effect on GitLab's SaaS subscriptions and the achievement of Gitlab's [mission]({{< ref "mission#mission" >}}) and [strategy]({{< ref "/handbook/company/strategy" >}}). Ultimately, this provides GitLab with a mechanism to take a proactive approach to comprehensive risk management which considers risks, such as information security and privacy risks, impacting business operations across the organization. Additionally, by classifying systems into specific tiers, GitLab will be in a better position to appropriately prioritize risk mitigation activities and tailor internal controls based on a system's related tier.
 
 ## Scope
 

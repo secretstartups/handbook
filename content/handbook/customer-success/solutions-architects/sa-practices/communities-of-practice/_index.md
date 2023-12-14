@@ -4,8 +4,6 @@ title: "Solution Architect (SA) Communities of Practice"
 description: "This is a collection of best practices collected from working with customers on each stage of the Software Development Lifecycle"
 ---
 
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 # Communities of Practice
 
 This is a collection of best practices collected from working with customers on each stage of the Software Development Lifecycle (SDLC). 
@@ -26,7 +24,7 @@ This list is **not** exhaustive but provides the Solution Architect (SA) with a 
 | `Configure` | N/A |
 | `Monitor` | N/A |
 | `Govern` | N/A | 
-| `Integration Technologies` | 1. [Elasticsearch: Advanced Searching](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/communities-of-practice/integration-technologies/) |
+| `Integration Technologies` | 1. [Elasticsearch: Advanced Searching](/handbook/customer-success/solutions-architects/sa-practices/communities-of-practice/integration-technologies/) |
 
 ## Contribution Guidelines
 

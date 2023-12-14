@@ -22,9 +22,9 @@ Release posts follow a process outlined here, and the templates that are used to
 
 ## Quick Links
 
-- [Frequently used templates](https://about.gitlab.com/handbook/marketing/blog/release-posts/#templates)
-- [Helpful reference pages](https://about.gitlab.com/handbook/marketing/blog/release-posts/#pages)
-- [Release post scheduling](https://about.gitlab.com/handbook/marketing/blog/release-posts/managers/)
+- [Frequently used templates](/handbook/marketing/blog/release-posts/#templates)
+- [Helpful reference pages](/handbook/marketing/blog/release-posts/#pages)
+- [Release post scheduling](/handbook/marketing/blog/release-posts/managers/)
 
 ## Schedule
 
@@ -190,7 +190,7 @@ The responsibilities of a technical advisor can be seen in more detail in [Techn
 - Pinging the PMs and others as needed in Slack or MRs to help resolve feedback
 - Making sure the release post is **ready to merge two days before the [release date](https://about.gitlab.com/handbook/engineering/releases/)**
 - [Communicate](#communication) directly with product managers using [#product](https://gitlab.slack.com/archives/C0NFPSFA8) on Slack as needed to field questions that come up from viewers of the release post blog once it is live on the [release date](https://about.gitlab.com/handbook/engineering/releases/)
-- If you need additional support in engaging with the community, the Developer Evangelism team ([#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/archives/CMELFQS4B) on Slack) is available to support on [release days](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/hacker-news/#release-days)
+- If you need additional support in engaging with the community, the Developer Evangelism team ([#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/archives/CMELFQS4B) on Slack) is available to support on [release days](/handbook/marketing/developer-relations/developer-evangelism/hacker-news/#release-days)
 - Making sure the auto sorting of secondary features by title (alpha) and stage generally looks good or is revised if need be [Content Reviews](#content-reviews)
 - Working with PMs and others as needed to make sure any external blogs they reference in their content blogs go live before the release post blog gets published on the [release date](https://about.gitlab.com/handbook/engineering/releases/)
 - Making sure the TW Lead is aware if release post items are added or removed after the Monday of release week
@@ -201,12 +201,12 @@ The responsibilities of a technical advisor can be seen in more detail in [Techn
 
 Make sure you have [Maintainer](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) access to project `https://gitlab.com/gitlab-com/www-gitlab-com/`. If you need access, model your request after [this confidential issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/10031).
 
-[An automated task will](#schedule) create the branches, MRs, and issues necessary to run the Release Post process, including making the appropriate assignments and mentions based on the [Release Post Manager schedule](https://about.gitlab.com/handbook/marketing/blog/release-posts/managers/).
+[An automated task will](#schedule) create the branches, MRs, and issues necessary to run the Release Post process, including making the appropriate assignments and mentions based on the [Release Post Manager schedule](/handbook/marketing/blog/release-posts/managers/).
 
 If you have not been assigned to a Release Post X.Y MR by the end of the day on the Monday, 3 weeks before relea:
 
 - Work with your Technical Advisor to run [`bundle exec rake release_post:start`](#release-post-branch-creation-rake-task) to kickoff the X-Y Release Post, or
-- Follow these steps to [manually create the release post branch and required directories/files](https://about.gitlab.com/handbook/marketing/blog/release-posts/manual-release-post-kickoff/)
+- Follow these steps to [manually create the release post branch and required directories/files](/handbook/marketing/blog/release-posts/manual-release-post-kickoff/)
 
 ### Communication
 
@@ -250,7 +250,7 @@ Hey team, reminder that there are currently XX Open and Ready MRs targeting XX.X
 Hi all, I will be completing the final merge for the release post in the next 45 minutes-1 hour! I will be coordinating any activities with team members to resolve any problems that come up. cc @Tech Advisor @TW Lead
 ```
 
-The Developer Evangelism Team will reach out to the Release Post Manager in Slack #release-post following their [Release days process](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/hacker-news/#release-days) when they need help responding to inquiries about content in the release post blog. These needs will primarily arise within the first week of going live with the blog. However, as the Author for a specific release post, you may get pinged to help coordinate a response some weeks later as issues arise. You will usually just need to find the best DRI to handle the issue, often the PM of the release post item in question.
+The Developer Evangelism Team will reach out to the Release Post Manager in Slack #release-post following their [Release days process](/handbook/marketing/developer-relations/developer-evangelism/hacker-news/#release-days) when they need help responding to inquiries about content in the release post blog. These needs will primarily arise within the first week of going live with the blog. However, as the Author for a specific release post, you may get pinged to help coordinate a response some weeks later as issues arise. You will usually just need to find the best DRI to handle the issue, often the PM of the release post item in question.
 
 Sometimes, external PR and Marketing firms reporting on the release or managing media relations may ping the RPM directly with questions, since the RPM is the "author" of the release post. If this happens, the Release Post Manager should figure out who in Marketing can take over this communication.
 
@@ -441,7 +441,7 @@ To edit a content block:
 
    To remove the feature block, remove the file in your MR. Or to announce it in the next release post, move the file to the `data/release_posts/unreleased` folder.
 
-1. For review and approval, assign the current cycle's [Release Post Manager](https://about.gitlab.com/handbook/marketing/blog/release-posts/managers/) a Reviewer.
+1. For review and approval, assign the current cycle's [Release Post Manager](/handbook/marketing/blog/release-posts/managers/) a Reviewer.
 
 To edit a deprecation, follow [Editing a deprecation announcement entry](#editing-an-announcement-entry).
 
@@ -456,7 +456,7 @@ make sure that:
 - All primary features are accompanied by their images.
 - All new and/or primary features are added to [`data/features.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/features.yml) *with a screenshot accompanying the feature (if the feature is visible in the UI)*.
   - All images are optimized according to the [image guidelines](#images) **and** smaller than 150KB.
-  - Keep in mind the [`features.yml`](https://about.gitlab.com/handbook/marketing/digital-experience/website/#adding-features-to-webpages) is the SSOT for displaying features across `about.gitlab.com`.
+  - Keep in mind the [`features.yml`](/handbook/marketing/digital-experience/website/#adding-features-to-webpages) is the SSOT for displaying features across `about.gitlab.com`.
 - All features should have a clear value driver.
 
 As noted in the [Release Post Item template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md):
@@ -591,7 +591,7 @@ on the [release date](https://about.gitlab.com/handbook/engineering/releases/).
 
 The Release Post is considered a special blog post instance, so should adhere to the Marketing
 editorial team's
-[style guide](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/#blog-style-guide).
+[style guide](/handbook/marketing/brand-and-product-marketing/content/editorial-team/#blog-style-guide).
 
 ### Making changes
 
@@ -701,7 +701,7 @@ The responsibilities of the Engineering Manager are documented in the
 
 ## Technical Advisors
 
-Each month, the Release Post Manager may need help with technical hurdles during the release post process. In order to provide the release post, which is a time-sensitive and highly visible asset for customers and users, with adequate technical advisement and support, we are piloting a partnership with the GitLab development team to leverage the [Dev Escalation process](/handbook/on-call/#development-team-on-call-rotation) via the Slack `#dev-escalation` channel as an extension. This ensures that at all times, if something breaks that the release post team can not resolve themselves, they have access to technical experts for resolution. It is recommended that technical advisors review the documented [technical aspects](https://about.gitlab.com/handbook/marketing/blog/release-posts/#technical-aspects) of the release post for reference, and the [escalation process](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process).
+Each month, the Release Post Manager may need help with technical hurdles during the release post process. In order to provide the release post, which is a time-sensitive and highly visible asset for customers and users, with adequate technical advisement and support, we are piloting a partnership with the GitLab development team to leverage the [Dev Escalation process](/handbook/on-call/#development-team-on-call-rotation) via the Slack `#dev-escalation` channel as an extension. This ensures that at all times, if something breaks that the release post team can not resolve themselves, they have access to technical experts for resolution. It is recommended that technical advisors review the documented [technical aspects](/handbook/marketing/blog/release-posts/#technical-aspects) of the release post for reference, and the [escalation process](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process).
 
 Please note that unlike other monthly volunteers of the release post, the technical advisor is not expected to follow the release post process at all times. The Release Post Manager will reach out to the technical advisor on call via Slack in the `#dev-escalation` channel and then cross-post to the `#release-post` channel for transparency that issues are being worked on. It is then expected that the technical advisor will respond to the Release Post Manager or release post DRI as soon as possible, including evenings/weekends, as the release post asks are often time sensitive, **especially between the Monday of release week and the [release date](https://about.gitlab.com/handbook/engineering/releases/) of the month**. The technical advisor is responsible for determining if further dev escalation should proceed.
 
@@ -727,7 +727,7 @@ What we have seen with previous challenges during the Release Post Assembly stag
 
 - Review the output of the assembly script including git status
 - Consider running ./bin/doctor and review the output
-- Reference the [list of previous problems](https://about.gitlab.com/handbook/marketing/blog/release-posts/manual-release-post-kickoff/#possible-script-errors-with-corrective-actions)
+- Reference the [list of previous problems](/handbook/marketing/blog/release-posts/manual-release-post-kickoff/#possible-script-errors-with-corrective-actions)
 
 Following your best judgement with the resolution of the incident, record the diagnosis and the steps taken to resolve so that we can improve the release post process and our preparedness. Deposit this info in a new issue or as part of the current release post retrospective.
 
@@ -827,7 +827,7 @@ Should you prefer to continue to contribute to an issue under active development
 
 ### MVP
 
-The Contributor Success team now owns the process for nominating, selecting and adding the GitLab MVP for the release post. See the Contributor Success [GitLab MVP Selection Process](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/mvp-process.html#gitlab-mvp-selection-process).
+The Contributor Success team now owns the process for nominating, selecting and adding the GitLab MVP for the release post. See the Contributor Success [GitLab MVP Selection Process](/handbook/marketing/developer-relations/contributor-success/mvp-process.html#gitlab-mvp-selection-process).
 
 The Release Post Manager no longer has any MVP-related tasks.
 
@@ -906,14 +906,14 @@ features:
 #### Description
 
 Content of the **description** should adhere to the Marketing editorial team’s
-[style guide](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/#blog-style-guide).
+[style guide](/handbook/marketing/brand-and-product-marketing/content/editorial-team/#blog-style-guide).
 
 Do not include UI navigation instructions in the feature's description. These instructions should be
 contained in the relevant documentation.
 
 #### Feature priority
 
-The second line of the content block should indicate whether the feature is a top, primary, or secondary feature. For primary features, use the `primary` key as shown in the [sample content block above](https://about.gitlab.com/handbook/marketing/blog/release-posts/#content-blocks). For secondary features, replace the `primary` key with the word `secondary` and for the top feature replace `primary` with `top`.
+The second line of the content block should indicate whether the feature is a top, primary, or secondary feature. For primary features, use the `primary` key as shown in the [sample content block above](/handbook/marketing/blog/release-posts/#content-blocks). For secondary features, replace the `primary` key with the word `secondary` and for the top feature replace `primary` with `top`.
 
 #### Feature name
 
@@ -1078,7 +1078,7 @@ All `description` fields fully support [Markdown](https://about.gitlab.com/handb
 
 ### Cover image license
 
-If a cover image from a 3rd party is used, according to our [Blog handbook](https://about.gitlab.com/handbook/marketing/blog/#cover-image), it's necessary to provide the source of the cover image. Fill in the entry below to display this info at the very end of the `...release.html.md` blog post:
+If a cover image from a 3rd party is used, according to our [Blog handbook](/handbook/marketing/blog/#cover-image), it's necessary to provide the source of the cover image. Fill in the entry below to display this info at the very end of the `...release.html.md` blog post:
 
 ```yaml
 cover_img:
@@ -1523,7 +1523,7 @@ The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/b
 To ensure the generator script runs correctly follow the process below:
 
 1. Make sure the issue is open.
-1. Make sure the issue is not confidential. If you need to link to a confidential issue you will need to manually create the Release Post Item Merge Request as the [release post item generator](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-post-item-generator) does not currently create MRs from confidential issues.
+1. Make sure the issue is not confidential. If you need to link to a confidential issue you will need to manually create the Release Post Item Merge Request as the [release post item generator](/handbook/marketing/blog/release-posts/#release-post-item-generator) does not currently create MRs from confidential issues.
 1. Update your issue or epic with content in `### Release notes` (including a docs link and image, although those can always be added/updated in the MR later) specifically having it contain both a `Description:` then a `Documentation:`.
 1. Make sure there is only plain text in the content beneath `### Release notes`. If there is any additional formatting, the script will fail.
 1. Make sure `devops::`, `group::`, `category:` and tier (e.g. `GitLab Core`) labels are applied

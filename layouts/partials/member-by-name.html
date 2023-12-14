@@ -1,0 +1,16 @@
+<!-- Member by Name -->
+{{- $img := "https://about.gitlab.com/images/gitlab-logo-extra-whitespace.png" -}}
+{{- $name := replaceRE `\s\(.*\)` "" . -}}
+{{- $meta := index (findRE `\s\(.*\)` .) 0 -}}
+{{- $teamDict := partials.IncludeCached "team/by-name" . -}}
+{{- $data := index $teamDict $name -}}
+{{- with $data }}
+  {{- with path.BaseName $data.picture }}
+    {{- if ne . "gitlab-logo-extra-whitespace" }}
+      {{- $img = printf "https://about.gitlab.com/images/team/%s-crop.jpg" . -}}
+    {{- end }}
+  {{- end }}
+<span  style="white-space: nowrap;"><a href="{{ ref page (printf "/handbook/company/team#%s" $data.gitlab) }}"><img class="avatar" src="{{ $img }}" width="40" height="40" alt="{{ $data.name }}">{{$data.name}}</a> {{ $meta }}</span>
+{{- else -}}
+<span class="not-found" style="white-space: nowrap;"><img class="avatar" src="https://about.gitlab.com/images/gitlab-logo-extra-whitespace.png" width="40" height="40" alt="{{ $name }}">{{$name}} {{$meta}}</span>
+{{- end -}}

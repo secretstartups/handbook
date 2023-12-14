@@ -125,7 +125,7 @@ Shadows should update their name in Zoom to include `[Name] | CMO Shadow` for cl
 
 {: #alumni-coffee-chat}
 
-Feel free to schedule a coffee chat with any of the CMO Shadow Alumni. You can review the list of [CMO Shadow Alumni](https://about.gitlab.com/handbook/marketing/cmo-shadow/#alumni) below. These chats can be helpful when deciding whether to participate or if you want to hear about the experience and what alumni have learned while shadowing.
+Feel free to schedule a coffee chat with any of the CMO Shadow Alumni. You can review the list of [CMO Shadow Alumni](/handbook/marketing/cmo-shadow/#alumni) below. These chats can be helpful when deciding whether to participate or if you want to hear about the experience and what alumni have learned while shadowing.
 
 ## What to expect during the program
 

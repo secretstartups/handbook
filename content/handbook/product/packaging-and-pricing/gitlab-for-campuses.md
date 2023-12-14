@@ -16,7 +16,7 @@ canonical_path: "/handbook/product/packaging-and-pricing/gitlab-for-campuses/"
 ## Overview
 
 GitLab provides qualified educational institutions with three different options for using GitLab on their campus:
-1. **GitLab for Education**: The GitLab for Education Program provides free, unlimited, licenses of GitLab's top-tiers, either self-managed or SaaS, to [qualified educational institutions](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/#gitlab-for-education-program-requirements) for the **purposes of teaching, learning or non-commercial research only**. Use in Professional Information Technology or for *any* administrative purposes is **strictly prohibited** under the GitLab for Education license. Please see the [GitLab for Education handbook](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/) and [marketing pages](https://about.gitlab.com/solutions/education/) for more details. Universities must [apply here](https://about.gitlab.com/solutions/education/join/) to be accepted into the program.
+1. **GitLab for Education**: The GitLab for Education Program provides free, unlimited, licenses of GitLab's top-tiers, either self-managed or SaaS, to [qualified educational institutions](/handbook/marketing/developer-relations/community-programs/education-program/#gitlab-for-education-program-requirements) for the **purposes of teaching, learning or non-commercial research only**. Use in Professional Information Technology or for *any* administrative purposes is **strictly prohibited** under the GitLab for Education license. Please see the [GitLab for Education handbook](/handbook/marketing/developer-relations/community-programs/education-program/) and [marketing pages](https://about.gitlab.com/solutions/education/) for more details. Universities must [apply here](https://about.gitlab.com/solutions/education/join/) to be accepted into the program.
 2. [**Academic Discount**](/handbook/product/packaging-and-pricing/gitlab-for-campuses/#academic-discount): GitLab licenses are available at a 20% Academic Discount off list price for any qualifying educational institution. There are no use-case restrictions on these licenses.
 3. [**GitLab for Campuses**](/handbook/product/packaging-and-pricing/gitlab-for-campuses/#gitlab-for-campuses-enterprise-offering): Qualifying educational institutions may purchase an enterprise campus-wide license. The campus-wide license offers unlimited seats (up to the last published enrollment of the institution) of GitLab's top-tiers, either self-managed or SaaS. This offering permits all use cases to occur within one license for the campus. *NOTE:* The ability to participate in any of the Education options (stated herein) is subject to GitLab's sole discretion. Please follow the applicable steps regarding qualification. **Purchases or requests shall not be considered accepted (or legally binding) unless and until executed between the parties in writing.**
 
@@ -82,7 +82,7 @@ The GitLab for Campuses enterprise offering is available at the following tiers:
 The steps for building a GitLab for Campuses quote vary slightly from standard quotes.
 
 1. Before building the quote, determine the proper tier based on the most recently published enrollment data provided by the insitution.
-2. After creating the opportunity and a new quote following the steps in the [Sales Order Processing handbook page](https://about.gitlab.com/handbook/sales/field-operations/order-processing/)
+2. After creating the opportunity and a new quote following the steps in the [Sales Order Processing handbook page](/handbook/sales/field-operations/order-processing/)
   - On the `Select Billing Account page`choose the appropriate Quote Template - `01.21 New Order Form - EDU / 01.21 Amendment Order Form - EDU / 01.21 Renewal Order Form - EDU`.
   - Proceed as usual until the  `Add base products`, and Click `Select Plan` on the relevant product. Scroll to the appropriate product SKU names from the table above. For example, `[EDU Enterprise-Small] SaaS - Ultimate (formerly Gold) - 1 Year`.
   - Proceed as usual.
@@ -97,7 +97,7 @@ GitLab for Campuses can be sold through GitLab resellers. The specific language 
 
 ### GitLab for Campuses Agreeement
 
-The standard [GitLab Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) is applicable to the GitLab for Campuses offering.
+The standard [GitLab Subscription Agreement](/handbook/legal/subscription-agreement/) is applicable to the GitLab for Campuses offering.
 
 
 #### Definitions of Qualifying Education Institutions and Associated Entities

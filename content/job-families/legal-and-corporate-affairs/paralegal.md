@@ -1,5 +1,6 @@
 ---
 title: Paralegal
+description: Paralegal team members are responsible for supporting clients across GitLab on legal matters related to their functional area of expertise.
 ---
 
 ## Levels
@@ -169,7 +170,7 @@ The Paralegal (Employment) works collaboratively with the GitLab Legal Employmen
 
 #### Employment Performance Indicators
 
-- [Review legal issue tracker for employment and employment compliance requests and timely respond.](https://about.gitlab.com/handbook/legal/#review-the-legal-issue-tracker-daily-ongoing--24-hours).
+- [Review legal issue tracker for employment and employment compliance requests and timely respond.](/handbook/legal/#review-the-legal-issue-tracker-daily-ongoing--24-hours).
 - Track People Ops and People Success Issues for requests for legal support and timely respond.
 - Complete MR’s and Open Epics and Issues to support employment compliance projects.
 - Maintain and manage records for employment matters.

@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/content/handbook/product/ux/performance-indicators/system-usability-scale/sus-outreach.html
 title: "System Usability Scale responder outreach"
 description: "The System Usability Scale (SUS) is a performance indicator we use to measure the long term usability of our product. This page outlines the process for reaching out to survey respondents who have opted-in to having a follow-up discussion with our UX team."
 ---
@@ -21,7 +20,7 @@ Every quarter, we include a question in the SUS survey that asks whether respond
 #### Process for reaching out to respondents
 
 1. Calendly is the best method for scheduling calls with respondents. [Set up your free Calendly account](https://calendly.com/signup) if you haven't done so. Add details to the invite description describing yourself and the conversation purpose. Also add your personal Zoom link, either via connecting your Zoom account or pasting in your personal Zoom URL.
-1. You'll need to add an extra question to the invite form in order to ask for permission to record (example below). [See example of a Calendly invite](https://calendly.com/jeffcrow/npsfollowupexample) you can use as a reference.
+1. You'll need to add an extra question to the invite form in order to ask for permission to record (example below).
 1. Draft an email that you'll send to respondents. Example copy is below.
 1. **BE ON TIME TO YOUR CALL**. Make sure everyone on the call introduces themselves.
 1. If respondents have agreed to recording, still ask them once again if it's OK if you record before turning it on.
@@ -34,8 +33,7 @@ Every quarter, we include a question in the SUS survey that asks whether respond
 >
 > I would be very interested in speaking further about some of the points you raised in your survey response. Would you be willing to do a 30-minute video conference call to give us some more detailed feedback on your experience using GitLab? You'd be able to schedule the call at a time convenient to you.
 >
-> Schedule a time for the call using this link:
-> https://calendly.com/yourname/30min
+> Schedule a time for the call using this link: `Insert Calendly link here`
 >
 > Thank you for your feedback and let me know if you have any questions.
 >

@@ -36,7 +36,7 @@ Learn more in this video:
 
 ## Who can use KeyHole
 
-The owner of the KeyHole account is the [MarketingOps team](https://about.gitlab.com/handbook/marketing/marketing-operations/), the team manages subscription while adding administrators from the different teams that use the account. 
+The owner of the KeyHole account is the [MarketingOps team](/handbook/marketing/marketing-operations/), the team manages subscription while adding administrators from the different teams that use the account. 
 
 There are 2 types of user representation on KeyHole, a user and a profile:
 

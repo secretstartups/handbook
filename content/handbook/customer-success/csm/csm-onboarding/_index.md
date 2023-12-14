@@ -9,7 +9,7 @@ title: "CSM Onboarding"
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ---
 
@@ -33,7 +33,7 @@ As a task in your onboarding issue, you will directed to our learning platform, 
 
 To learn how we conduct both customer meetings and internal planning meetings, a new team member will shadow these meetings with one or more established members of the team.
 
-[Meeting Shadowing](https://about.gitlab.com/handbook/customer-success/csm/csm-onboarding/shadowing/)
+[Meeting Shadowing](/handbook/customer-success/csm/csm-onboarding/shadowing/)
 
 ## CSM Office Hours
 
@@ -47,7 +47,7 @@ So if you are planing on doing **all 4** of those, start directly with the **Dev
 
 ## GitLab Webinars
 
-As a new joiner to get up to speed on your technical skills and observe how more senior team members hold webinars find the Webinars on the [CSM Scale Webinar calendar](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/) and register/join as participant.
+As a new joiner to get up to speed on your technical skills and observe how more senior team members hold webinars find the Webinars on the [CSM Scale Webinar calendar](/handbook/customer-success/csm/segment/scale/webinar-calendar/) and register/join as participant.
 You can also watch the recordings of some of those Webinars on [YouTube - GitLab Webinars - GitLab Unfiltered - Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kpczt4pRtyF147Uvn2bGGvq).
 
 ## GitLab.com Playground and Demo space
@@ -58,9 +58,9 @@ For self lead training and experimentation you can setup your own playground/dem
 
 ## GitLab Self Managed Playgound and Demospace
 
-Many of our prospects and customer choose the option to maintain their own Self Managed GitLab installation based on the reference architecture. To be able to walk in your customers shoes and experience the same possibilities as well as challenges, there is a [shared GitLab Omnibus enviroment](https://about.gitlab.com/handbook/customer-success/demo-systems/#shared-environments) for CSMs to use.
+Many of our prospects and customer choose the option to maintain their own Self Managed GitLab installation based on the reference architecture. To be able to walk in your customers shoes and experience the same possibilities as well as challenges, there is a [shared GitLab Omnibus enviroment](/handbook/customer-success/demo-systems/#shared-environments) for CSMs to use.
 
-1. Follow [these instructions to get access to the shared Omnibus Instances](https://about.gitlab.com/handbook/customer-success/demo-systems/#access-shared-omnibus-instances)
+1. Follow [these instructions to get access to the shared Omnibus Instances](/handbook/customer-success/demo-systems/#access-shared-omnibus-instances)
 1. The [Get started administering GitLab](https://docs.gitlab.com/ee/administration/get_started.html) Guide is a great starting point
 1. You can [export](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#manually-upload-service-ping-payload) a [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) data file from the instance and explore product usage data via the [Service ping analysis engine](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools/service-ping-analysis-engine)
 
@@ -69,4 +69,4 @@ Many of our prospects and customer choose the option to maintain their own Self 
 GitLab is a massive and everchanging Product, nobody can know everything. So it is important to learn how to find answers. These handbook pages might help you with it.
 
 1. [Searching GitLab like a pro](/handbook/tools-and-tips/searching/)
-1. [Researching Customer Questions](https://about.gitlab.com/handbook/customer-success/csm/researching-customer-questions/)
+1. [Researching Customer Questions](/handbook/customer-success/csm/researching-customer-questions/)

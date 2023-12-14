@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/education-services/sysadminbasicshandson1.html
 title: "GitLab System Admin Basics Hands On Guide- Lab 1"
 description: "This Hands On Guide Lab is designed to walk you through the lab exercises used in the GitLab System Admin Basics course."
 ---

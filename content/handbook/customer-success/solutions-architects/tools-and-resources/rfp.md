@@ -4,7 +4,7 @@ title: RFI/RFP Process
 description: >-
   Solution Architect Assisted RFI/RFP Process
 ---
-{{% include "includes/solutions-architects-navigation.md" %}}
+
 
 ## RFI/RFP Process
  
@@ -49,7 +49,7 @@ After the issue is created, create a Google document and start filling in the de
 In the event that the RFx requires:
 
 - A security questionnaire or legal review, please follow the process described on the [RFP Process page](/handbook/security/security-assurance/field-security/) in the handbook.
-- A professional services component, the [Selling Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/) handbook page will be of help.
+- A professional services component, the [Selling Professional Services](/handbook/customer-success/professional-services-engineering/selling/) handbook page will be of help.
 
 Each of these processes will likely require the creation of issues. Be sure to link these issues to the main response issue for tracking purposes.
 

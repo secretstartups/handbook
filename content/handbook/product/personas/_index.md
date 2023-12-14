@@ -21,7 +21,7 @@ Personas are a generalized way of talking about the ideal target we are aiming t
 
 ### Buyer personas
 
-We are iterating on updates to buyer personas on this [Buyer Persona](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) page.
+We are iterating on updates to buyer personas on this [Buyer Persona](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) page.
 
 
 ### User personas
@@ -77,7 +77,7 @@ We describe the following personas in terms of the jobs they do, their motivatio
 Our personas span across stages (see table below for a depiction of how our user personas map across stages). Understanding how our personas map across stages helps us understand how to collaborate cross-functionally to support their needs.
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpBZ2Ainza6lfvNKSQW7YpOPxYnzBSgdqsWXqFUM_DgTWuFCn1FJd5w0PGTn695HRfFCMEatocMG-X/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpBZ2Ainza6lfvNKSQW7YpOPxYnzBSgdqsWXqFUM_DgTWuFCn1FJd5w0PGTn695HRfFCMEatocMG-X/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1220" height="620" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 *Note: To change the table above, team members can edit the [Google Slide deck](https://docs.google.com/presentation/d/1IVDu5RIlywcRCqpkXzdSG7lW8dNiE_XHq54GdI7lkfk/edit?usp=sharing).*
@@ -388,7 +388,7 @@ I have responsibility for providing, maintaining and operating the shared infras
 
 ##### Job Summary
 
-Dakota is a key IT leader who manages and leads several teams of developers supporting a specific set of business applications. See the [buyer persona](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/#dakota---the-application-development-director) and [Engineering Director Persona](https://docs.google.com/presentation/d/13mr-6CLhQJicjcYjcxme89PtBR97rWZ4GVZMpJSIYHw/edit#slide=id.g29a70c6c35_0_68) research for more details.
+Dakota is a key IT leader who manages and leads several teams of developers supporting a specific set of business applications. See the [buyer persona](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/#dakota---the-application-development-director) and [Engineering Director Persona](https://docs.google.com/presentation/d/13mr-6CLhQJicjcYjcxme89PtBR97rWZ4GVZMpJSIYHw/edit#slide=id.g29a70c6c35_0_68) research for more details.
 
 ##### Motivations
 

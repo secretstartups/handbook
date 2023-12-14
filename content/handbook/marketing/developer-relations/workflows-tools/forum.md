@@ -71,7 +71,7 @@ Discourse implements an intelligent spam prevention system, which leads to users
   - Suggested action: Approve the posts/users.
 - A post was flagged as CoC violation.
   - Review the post. When in doubt, ask in `#coc-violations` in Slack.
-  - `Edit` the post and follow the [Code of Conduct Templates](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/#templates) to replace the text.
+  - `Edit` the post and follow the [Code of Conduct Templates](/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/#templates) to replace the text.
 
 #### User Review Tips
 
@@ -104,7 +104,7 @@ This guide explains Moderator permissions, expectations, and best practices.
 #### General Moderator Best Practices
 
 - Leave all interactions and replies open-ended. We want our forum users to feel like they can always come back and pick up the conversation.
-- [Consider gifting swag](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-appreciation/) to forum users that contribute a lot or in a really exceptional way! Do this via a DM/private message.
+- [Consider gifting swag](/handbook/marketing/developer-relations/contributor-success/community-appreciation/) to forum users that contribute a lot or in a really exceptional way! Do this via a DM/private message.
 
 #### Moderator Only Access
 
@@ -179,7 +179,7 @@ Generally, we do not edit other peoples' posts. If we see something that can be 
 
 That being said, there are instances when moderators can edit posts directly. Here are some examples and how to do it:
 
-- Violation of GitLab's [Code of Business Conduct & Ethics](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/) and [Events Code of Conduct](/handbook/company/culture/ecoc/) (Ex. redacting swear words, if they are unable or unwilling to edit it themselves)
+- Violation of GitLab's [Code of Business Conduct & Ethics](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/) and [Events Code of Conduct](/handbook/company/culture/ecoc/) (Ex. redacting swear words, if they are unable or unwilling to edit it themselves)
 - Redact private information (Ex. license keys, account info, email addresses, etc.)
 - Editing can be achieved via the grey pencil icon in the post toolbar (... > pencil)
 
@@ -236,15 +236,15 @@ P --> |Questions answered|Q[ping relevant product channel]
 
 ### Forum Community Response Workflow
 
-[Community response situations](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/community-response/#forum-topic-preparation) include preparing a forum topic as a draft in the [Internal](https://forum.gitlab.com/c/internal/) category.
+[Community response situations](/handbook/marketing/developer-relations/developer-evangelism/community-response/#forum-topic-preparation) include preparing a forum topic as a draft in the [Internal](https://forum.gitlab.com/c/internal/) category.
 
-Team members need to sign-up for a [forum account](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/forum/#registration-and-login) in order to create a topic. The Internal category allows team members review and edit the draft together without it being available to the public.
+Team members need to sign-up for a [forum account](/handbook/marketing/developer-relations/workflows-tools/forum/#registration-and-login) in order to create a topic. The Internal category allows team members review and edit the draft together without it being available to the public.
 
 After a forum topic is created in the Internal category, team members have the ability to edit the title, tags, description, post timestamp, and category.
 
 - To edit the title, category, or tags of the topic, click the pencil icon on the top.
 - To edit the description, use the pencil icon at the bottom of the topic next to 'Reply'. Note that the pencil icon may be collapsed within the ellipsis menu.
-- Editing a topic description only is available for [trust level 4](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/forum/#user-trust-levels) and moderators. Ask an administrator to update the [team member trust level](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/forum/#team-member-trust-level) if necessary.  
+- Editing a topic description only is available for [trust level 4](/handbook/marketing/developer-relations/workflows-tools/forum/#user-trust-levels) and moderators. Ask an administrator to update the [team member trust level](/handbook/marketing/developer-relations/workflows-tools/forum/#team-member-trust-level) if necessary.  
 
 A sandbox topic to test editing is available [here (internal)](https://forum.gitlab.com/t/draft-announcement-sandbox-test-for-everyone/71974).
 
@@ -308,22 +308,30 @@ Discourse uses [trust levels](https://meta.discourse.org/t/trust-level-permissio
 
 ##### Nomination for Trust Level 4
 
-Please open a [new issue in the Developer Evangelist Meta Project](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues) and share the user profile URL and a detailed reason why they should be promoted to trust level 4. Assign the issue to technical owners using this quick action: `/assign @dnsmichi @sugaroverflow`. Administrators will review and reach out to nominated community members.
+Please open a [new issue in the Developer Evangelist Meta Project](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues) and share the user profile URL and a detailed reason why they should be promoted to trust level 4. Assign the issue to technical owners using this quick action: `/assign @dnsmichi @sugaroverflow`. Administrators will review and reach out to nominated community members.
 
 ##### Team Member Trust Level
 
-GitLab team members who signup using oauth, will automatically be added to the `gitlab-team` group, granting [trust level 3](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/forum/#user-trust-levels). This group does not trigger any @-mention notifications in forum posts.
+GitLab team members who signup using oauth, will automatically be added to the `gitlab-team` group, granting [trust level 3](/handbook/marketing/developer-relations/workflows-tools/forum/#user-trust-levels). This group does not trigger any @-mention notifications in forum posts.
 
-Administrators can promote team members to trust level 4 manually, for example when needed for [community response workflows](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/forum/#forum-community-response-workflow).
+Administrators can promote team members to trust level 4 manually, for example when needed for [community response workflows](/handbook/marketing/developer-relations/workflows-tools/forum/#forum-community-response-workflow).
 
 #### Categories
 
-The [forum categories](https://forum.gitlab.com/categories) allow to group posts by stages and topics. Users can also subscribe to category notifications.
+The [forum categories](https://forum.gitlab.com/categories) allow to group posts by sections and topics. Users can also subscribe to category notifications. The top-level categories are inspired by the DevSecOps lifecycle, common questions about GitLab features, and community activities. 
+
+Categories are also shown in a dropdown when users follow the `New topic` action on the forum landing page. We try to keep the category list short and concise.
 
 There are two categories serving a special purpose, they must not be removed:
 
-- [Internal](https://forum.gitlab.com/c/internal/) is required for the [community response workflow](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/forum/#forum-community-response-workflow)
+- [Internal](https://forum.gitlab.com/c/internal/) is required for the [community response workflow](/handbook/marketing/developer-relations/workflows-tools/forum/#forum-community-response-workflow)
 - [Staff](https://forum.gitlab.com/c/staff/) is used by Discourse to manage site content and permissions (example: [FAQ](https://forum.gitlab.com/faq).
+
+For requesting a new category, please review the following steps:
+
+1. Do you want to filter specific topics, or subscribe to notifications? If yes, please consider using [tags](#tags) instead.
+1. New categories should fit as subcategory into the existing top-level categories. We try to avoid bigger layout changes to avoid breaking contributor workflows. 
+1. Create a [new issue in the Developer Evangelist Meta Project](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues) to discuss, and add details about forum DRIs, expected topic count, and impact. Assign the issue to technical owners using this quick action: `/assign @dnsmichi @sugaroverflow`.
 
 #### Tags 
 
@@ -384,7 +392,7 @@ Workflow for applying customizations:
 
 #### API
 
-Used by integrations, such as the [GitLab Blog Bot](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/zapier/#gitlab-blog-forum-bot).
+Used by integrations, such as the [GitLab Blog Bot](/handbook/marketing/developer-relations/workflows-tools/zapier/#gitlab-blog-forum-bot).
 
 #### Plugins
 

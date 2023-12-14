@@ -9,8 +9,8 @@ title: Renewals Managers - What we do
 
 
 View the Renewals Manager handbook pages:
-- [Home](https://about.gitlab.com/handbook/customer-success/renewals-managers/home) - Information about the organization.
-- [How We Do It](https://about.gitlab.com/handbook/customer-success/renewals-managers/how) - Information about how renewals managers execute on the mission.
+- [Home](/handbook/customer-success/renewals-managers/home) - Information about the organization.
+- [How We Do It](/handbook/customer-success/renewals-managers/how) - Information about how renewals managers execute on the mission.
 
 Renewals Managers --> visit the internal handbook [page](https://internal.gitlab.com/handbook/sales/go-to-market/renewals/) for more information.
 
@@ -34,7 +34,7 @@ The Renewals team primarily uses these key fields on Renewal Opportunities:
 
 ## Deal Management
 
-- `Stage` [link](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-stages)- indicates where in the Renewal/Sales cycle the deal is
+- `Stage` [link](/handbook/sales/field-operations/gtm-resources/#opportunity-stages)- indicates where in the Renewal/Sales cycle the deal is
 - `Next Steps` - field to record critical information and actions that have occurred during the deal lifecycle and what and when the next step is to progress the deal forward
 - `Next Steps History` - the record of previous Next Steps
 

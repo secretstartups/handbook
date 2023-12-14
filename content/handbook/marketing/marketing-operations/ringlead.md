@@ -71,7 +71,7 @@ As an introduction, below are a few items that will help with using the platform
   </tr>
 </table>
  
-Currently, Gitlab, uses Ringlead's Cleanse capabilities, specifically Deduplication, while the enrichment is done through [Zoominfo](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/), our SSOT when it comes to lead/contact enrichment. 
+Currently, Gitlab, uses Ringlead's Cleanse capabilities, specifically Deduplication, while the enrichment is done through [Zoominfo](/handbook/marketing/marketing-operations/zoominfo/), our SSOT when it comes to lead/contact enrichment. 
 
 ### Set Up & Access
 

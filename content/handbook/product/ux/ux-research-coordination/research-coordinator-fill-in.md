@@ -1,9 +1,9 @@
 ---
-title: "How to fill in For a UX Research Operations Coordinator"
+title: "How to fill in for a UX Research Operations Coordinator"
 description: "This page details the steps required to execute a successful recruit from start to finish"
 ---
 
-There are times when you will play the role of UX Research Operations Coordinator. This page details all of the ‘behind the scenes’ steps needed to execute a successful recruit from start to finish. Are you interested in how to work with our UX Research Operations Coordinator? If so, you can find that information [here](https://www.google.com/url?q=https://about.gitlab.com/handbook/product/ux/ux-research/recruiting-participants/&sa=D&ust=1602108272868000&usg=AFQjCNE8hrspN3s2Uy2MuNSmZvxoAuuvQg).
+There are times when you will play the role of UX Research Operations Coordinator. This page details all of the ‘behind the scenes’ steps needed to execute a successful recruit from start to finish. Are you interested in how to work with our UX Research Operations Coordinator? If so, you can find that information [here](/handbook/product/ux/ux-research/recruiting-participants/).
 
 ## The Process
 
@@ -13,10 +13,10 @@ There are times when you will play the role of UX Research Operations Coordinato
 - The UX Research Operations Coordinator will @ mention you on any ongoing recruitment issues that you need to pick up. They will provide you with a clear description of the status of the issue and what needs to be completed.
 - The UX Research Operations Coordinator will assign you to any of these ongoing issues so you can easily track them.
 - The UX Research Operations Coordinator will also share the Open Recruitment Projects sheet with you and tag you on projects that require assistance.
-- Introduce yourself, in the #product and #ux Slack channels, as the recruitment point of contact for the next X days and/or weeks.
-   - If people attempt to raise recruiting requests in Slack, remind them to [create a recruiting request issue](https://www.google.com/url?q=https://about.gitlab.com/handbook/product/ux/ux-research/recruiting-participants/%23open-a-recruitment-request&sa=D&ust=1602108272869000&usg=AFQjCNGYiPHfLjC7psYeSDafJvXBzFRADQ) and assign it to you for tracking and visibility purposes.
+- Introduce yourself, in the `#product` and `#ux` Slack channels, as the recruitment point of contact for the next X days and/or weeks.
+   - If people attempt to raise recruiting requests in Slack, remind them to [create a recruiting request issue](/handbook/product/ux/ux-research/recruiting-participants/#opening-a-recruitment-request) and assign it to you for tracking and visibility purposes.
    - Remind them an issue has been handed off to you once you confirm the handoff in a comment.
-- Be sure to join the #uxr_reops Slack channel for easier coordination if there is more than one person covering for the UX Research Operations Coordinator.
+- Be sure to join the `#uxr_reops` Slack channel for easier coordination if there is more than one person covering for the UX Research Operations Coordinator.
 - If the UX Research Operations Coordinator is going to be unavailable for more than 7 consecutive business days they will open an MR on the Research Recruiting & Incentive Request Issue Template to make sure whoever is covering for them is auto-assigned to newly opened issues.
 
 ### Step 2 - Dealing with new recruiting requests
@@ -85,11 +85,11 @@ There are times when you will play the role of UX Research Operations Coordinato
 ### Step 4 - Paying participants
 
 - Participants are paid differently, depending on the recruiting channel you use
-   - Respondent.io
+   - **Respondent.io**
      - Pay users within the Respondent platform.
      - There should be credits loaded into the platform. Click the “approve” button to pay people who have attended sessions.
      - If there are sessions where participants have not been marked “attended,” please remind the interviewer to do so ASAP, or to verify that they were a no-show. This should be done in a timely manner, so our platform profile can retain a good standing.
-   - Tremendous
+   - **Tremendous**
      - This method is currently being used for paying all UX Research participants that do not come through Respondent.io.
      - Access to the platform is restricted & an AR may need to be opened for the UX Researcher covering.
      - Select Send Rewards.

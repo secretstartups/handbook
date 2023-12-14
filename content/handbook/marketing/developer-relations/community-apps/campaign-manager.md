@@ -163,7 +163,7 @@ Click on the "Make Admin" button next to a team member to elevate their privileg
 
 ## UTM Tracking
 
-To learn more about UTM Tracking, visit the [Marketing UTM Strategy](https://about.gitlab.com/handbook/marketing/utm-strategy/) page and for the Developer Relations, review Community Team's [UTM Strategy](https://about.gitlab.com/handbook/marketing/developer-relations/utm-strategy/) for specific guidelines for the team.
+To learn more about UTM Tracking, visit the [Marketing UTM Strategy](/handbook/marketing/utm-strategy/) page and for the Developer Relations, review Community Team's [UTM Strategy](/handbook/marketing/developer-relations/utm-strategy/) for specific guidelines for the team.
 
 Campaign Manager currently supports `utm_campaign`, `utm_budget`, `utm_content`, `utm_medium` and `utm_source`. If you use case requires other UTM codes not supported, please [create a feature proposal issue](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/code/gitlab-community-app/-/issues) in the Community Apps project.
 

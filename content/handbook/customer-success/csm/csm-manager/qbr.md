@@ -10,13 +10,13 @@ description: "Instructions for CSM Managers on presenting their QBR decks."
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ----
 
-The CSM Manager is responsible for developing and delivering a [Quarterly Business Review](https://about.gitlab.com/handbook/sales/qbrs/) for their team each quarter.
+The CSM Manager is responsible for developing and delivering a [Quarterly Business Review](/handbook/sales/qbrs/) for their team each quarter.
 
-The Quarterly Business Review is a tool to evaluate, report on, learn from the actions and performance of the team over the quarter, and share asks and priorities for the next quarter. CSM QBRs [follow the same schedule as Sales QBRs](https://about.gitlab.com/handbook/sales/qbrs/#qbr-schedules), and should be [presented during Sales QBR sessions](#presenting-a-csm-qbr) for the CSM Manager's region.
+The Quarterly Business Review is a tool to evaluate, report on, learn from the actions and performance of the team over the quarter, and share asks and priorities for the next quarter. CSM QBRs [follow the same schedule as Sales QBRs](/handbook/sales/qbrs/#qbr-schedules), and should be [presented during Sales QBR sessions](#presenting-a-csm-qbr) for the CSM Manager's region.
 
 ## Preparing a CSM QBR
 

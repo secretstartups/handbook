@@ -26,9 +26,9 @@ The [central data team](/handbook/business-technology/data-team/) serves as the 
 |  **Team Name** | **Lead(s)** |
 | :--------------- | :----------------- |
 | [Product Data Insights](/handbook/product/product-analysis/) | Carolyn Braza |
-| [Marketing Analytics](https://about.gitlab.com/handbook/marketing/strategy-performance/) | Jerome Ahye |
-| [Self-Service & Online Sales](https://about.gitlab.com/handbook/sales/self-service/) | Max Fleisher |
-| [Sales Analytics](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/) | Melia Vilain & Noel Figuera |
+| [Marketing Analytics](/handbook/marketing/strategy-performance/) | Jerome Ahye |
+| [Self-Service & Online Sales](/handbook/sales/self-service/) | Max Fleisher |
+| [Sales Analytics](/handbook/sales/field-operations/sales-strategy/) | Melia Vilain & Noel Figuera |
 | Customer Success Analytics | Michael Arntz |
 | Digital Experience | Dennis Charukulvanich  |
 | [People Analytics](/handbook/people-group/people-ops-tech-analytics/people-analytics/) | Adrian Perez |

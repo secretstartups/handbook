@@ -24,10 +24,10 @@ We create, review, and improve content to establish GitLab as the leader in mode
 
 ## Global Content Teams
 
-Global Content is part of the [Brand and Product Marketing team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing):
+Global Content is part of the [Brand and Product Marketing team](/handbook/marketing/brand-and-product-marketing):
 
-- [Content Marketing](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/content-marketing/)
-- [Editorial](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/)
+- [Content Marketing](/handbook/marketing/brand-and-product-marketing/content/content-marketing/)
+- [Editorial](/handbook/marketing/brand-and-product-marketing/content/editorial-team/)
 
 ## Slack Channels
 
@@ -37,8 +37,8 @@ Global Content is part of the [Brand and Product Marketing team](https://about.g
 
 ## Quick links
 
-- [GitLab blog handbook](https://about.gitlab.com/handbook/marketing/blog/)
-- [Gated content process](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/content-in-campaigns/)
+- [GitLab blog handbook](/handbook/marketing/blog/)
+- [Gated content process](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/)
 
 
 ## Content Strategy
@@ -51,7 +51,7 @@ We accomplish this through:
 1. A single content hub that is easy to find, search, and interact with.
 1. Consistency in quality and format. Our audience knows what to expect.
 1. A mix of journalistic and entertainment style content.
-1. Exceptional communication standards. We prioritize a clear and direct tone of voice over cutsy, convoluted language.
+1. Exceptional communication standards. We prioritize a clear and direct tone of voice over cutesy, convoluted language.
 
 ### Content Strategy Principles
 
@@ -91,7 +91,7 @@ Areas of focus:
 
 ## Requesting content team support
 
-*Need help finding relevant content to use in an email or to send to a customer?* Ask for help in the #content channel.*
+*Need help finding relevant content to use in an email or to send to a customer? Ask for help in the #content channel.*
 
 ### Requesting content and copy reviews
 
@@ -120,9 +120,9 @@ In general, collateral and content designed to reach prospects in this stage of 
 
 ## Content library
 
-Content is stored in [PathFactory](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/). To request access to PathFactory, submit an access request form.
+Content is stored in [PathFactory](/handbook/marketing/marketing-operations/pathfactory/). To request access to PathFactory, submit an access request form.
 
-The content library in PathFactory can be filtered by content type, funnel stage, and topic. Topics are listed and defined in the [marketing operations](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/).
+The content library in PathFactory can be filtered by content type, funnel stage, and topic. Topics are listed and defined in the [marketing operations](/handbook/marketing/marketing-operations/pathfactory/).
 
 Published content should be shared to the `#content-updates` channel and added to PathFactory with the appropriate tags.
 

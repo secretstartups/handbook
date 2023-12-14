@@ -116,7 +116,7 @@ App information:
 
 ### Mechanizer
 
-This app incorporates [Mechanizer](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html)
+This app incorporates [Mechanizer](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer)
 into Zendesk.
 
 App information:
@@ -273,7 +273,7 @@ You can also do the configuration manually by following these steps.
 To request a translation automatically, simply reply as you normally would as
 an internal note with the #unbabel hashtag included at the top of your content.
 As per our
-[working with tickets](/handbook/support/workflows/working-on-tickets.html#what-is-the-working-on-tickets-workflow)
+[working with tickets](/handbook/support/workflows/working-on-tickets#what-is-the-working-on-tickets-workflow)
 workflow, please remember to assign yourself to the ticket if the ticket
 doesn't currently have an assignee when you respond.
 

@@ -25,7 +25,7 @@ It runs once a day based on an automated file that is delivered in an S3 bucket,
 
 Process developed to get lead data into Marketo and SFDC when a new trial is started or a free SaaS registration is completed on gitlab.com. 
 
-This is also being worked on to send to [Iterable](https://about.gitlab.com/handbook/marketing/marketing-operations/iterable/#overview).
+This is also being worked on to send to [Iterable](/handbook/marketing/marketing-operations/iterable/#overview).
 
 ### Marketo Form to SFDC case
 
@@ -33,7 +33,7 @@ Process developed at the request of the Sales team to set-up a web form that, on
 
 ### List import Bot
 
-This is an automated workflow for list imports in Marketo. Refer to [handbook page](https://about.gitlab.com/handbook/marketing/marketing-operations/automated-list-import/) for more information. 
+This is an automated workflow for list imports in Marketo. Refer to [handbook page](/handbook/marketing/marketing-operations/automated-list-import/) for more information. 
 
 
 

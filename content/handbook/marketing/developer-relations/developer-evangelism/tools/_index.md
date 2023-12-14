@@ -12,7 +12,7 @@ title: "Developer Evangelism Tools"
 
 ## Overview
 
-The Developer Evangelism team uses tools to grow and analyse their thought leadership, improve written language and speaking experience and automate as much as possible. We use GitLab and build our own tools when there is no viable alternative, see [projects](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/projects/). 
+The Developer Evangelism team uses tools to grow and analyse their thought leadership, improve written language and speaking experience and automate as much as possible. We use GitLab and build our own tools when there is no viable alternative, see [projects](/handbook/marketing/developer-relations/developer-evangelism/projects/). 
 
 <!-- Order alpha numeric -->
 
@@ -60,7 +60,7 @@ Ask @abuango to generate an invite URL for team access.
 
 ## Keyhole
 
-KeyHole is a social media data reporting platform that measures realtime and historical data in an easy to use format using graphs, tables and various forms of aggregation. Please see the [Keyhole handbook](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/tools/keyhole/) for details.
+KeyHole is a social media data reporting platform that measures realtime and historical data in an easy to use format using graphs, tables and various forms of aggregation. Please see the [Keyhole handbook](/handbook/marketing/developer-relations/developer-evangelism/tools/keyhole/) for details.
 
 ## Owlead
 
@@ -90,7 +90,7 @@ A campaign is a segmented audience on Twitter that Owlead will follow on your be
 
 The agency account allows 3 parallel campaigns. Before adding a fourth campaign make sure to disable an existing campaign. 
 
-Please follow the [social media handbook](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#thought-leader-examples) for thought leader examples for your campaigns. 
+Please follow the [social media handbook](/handbook/marketing/developer-relations/developer-evangelism/social-media/#thought-leader-examples) for thought leader examples for your campaigns. 
 
 ## Speakflow 
 

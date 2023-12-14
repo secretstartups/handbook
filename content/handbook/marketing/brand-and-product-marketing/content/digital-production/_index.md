@@ -58,10 +58,10 @@ The following is an overview of how to prepare an Illustrator file for import in
 
 ## Related links and handbooks
 
-1. **[GitLab Equipment List](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/digital-production/digital-production-equipment-list/)**
-     1. [GitLab Equipment Setup and Operation](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/digital-production/digital-production-equipment-list/black-magic-pocket-cinema-camera/)
-1. [GitLab.tv Handbook](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/digital-production/gitlab-tv/)
+1. **[GitLab Equipment List](/handbook/marketing/brand-and-product-marketing/content/digital-production/digital-production-equipment-list/)**
+     1. [GitLab Equipment Setup and Operation](/handbook/marketing/brand-and-product-marketing/content/digital-production/digital-production-equipment-list/black-magic-pocket-cinema-camera/)
+1. [GitLab.tv Handbook](/handbook/marketing/brand-and-product-marketing/content/digital-production/gitlab-tv/)
 
 ----
 
-Return to the main [Inbound Marketing Handbook](https://about.gitlab.com/handbook/marketing/inbound-marketing/).
+Return to the main [Inbound Marketing Handbook](/handbook/marketing/inbound-marketing/).

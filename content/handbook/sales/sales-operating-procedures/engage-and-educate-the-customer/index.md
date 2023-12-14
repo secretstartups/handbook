@@ -12,7 +12,7 @@ description: GitLab sales process for engaging and educating the customer
 
 # Engage & Educate the Customer
 
-Your goal as a sales representative is to build 2.5 -3x your annual **[ARR](https://about.gitlab.com/handbook/sales/sales-term-glossary/)** quota. The ability to achieve this goal is based on your ability to create **Moments That Matter** (MTM), interactions with a customer that make a positive emotional impact about the value you and your product bring to their organization. The ability to **Engage and Educate the Customer** is fundamental to creating positive Moments That Matter.
+Your goal as a sales representative is to build 2.5 -3x your annual **[ARR](/handbook/sales/sales-term-glossary/)** quota. The ability to achieve this goal is based on your ability to create **Moments That Matter** (MTM), interactions with a customer that make a positive emotional impact about the value you and your product bring to their organization. The ability to **Engage and Educate the Customer** is fundamental to creating positive Moments That Matter.
 
 In this Sales Standard Operating Procedures page, the four phases of the sales cycle are:
 
@@ -123,7 +123,7 @@ Your Routes to Market/Territory Plan will help you determine which GitLab resour
 
 At this point, the selected engagement activities should have generated a significant number of leads. It’s now time to sift through those leads and determine which may become opportunities. This requires an initial qualifying meeting and the quality the preparation you take for that meeting can mean the difference in having a deal or losing a deal. The steps that necessary to prepare and execute a successful meeting are:
 
-1. <b>[Determine your Buyer Persona](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/)</b> - a buyer persona is a fictional representation of your key buyers. This helps you pre-identify obstacles, objections, initiatives, and metrics that are important to your buyer. This step will give you an edge in understanding your customers better than your competition. There are typically 5 buyer personas you may encounter.
+1. <b>[Determine your Buyer Persona](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/)</b> - a buyer persona is a fictional representation of your key buyers. This helps you pre-identify obstacles, objections, initiatives, and metrics that are important to your buyer. This step will give you an edge in understanding your customers better than your competition. There are typically 5 buyer personas you may encounter.
     - Technology Leader
     - Business Application Leader
     - Security Leaders
@@ -136,21 +136,21 @@ At this point, the selected engagement activities should have generated a signif
     1. Reference the **company’s website** and absorb basics related to strategic goals, industry, business model, their buyer, etc.
     1. Develop **Pre-Call Planning Questions** to better determine what discovery questions. The pre-call planning questions will cause you as the seller to further validate and reference the buyer persona you will engage with.
     1. Develop a **Persona Based Call Plan** to ensure that you gather more pertinent information from the buyer. It will help identify information gaps, set specific objectives, and ultimately increase your buyer’s confidence in you.
-1. Utilize <b>[MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/)</b> to create Discovery questions to gather the information necessary to qualify the opportunity. MEDDPPICC is a qualification framework that will help you determine if the opportunity is worth your time, effort, and company resources. It will help you to more quickly determine what stage the buyer falls in the sales process. The framework will also expose problems and clarify next steps. It will help make you more efficient and focused sales representatives by making it easier to sort the good deals from no deals, and quick deals from long term deals. The foundation of MEDDPPICC is based on asking good discovery questions.
-1. Ask effective, open-ended **[Discovery Questions](https://about.gitlab.com/handbook/sales/qualification-questions/)** to identify existing customer needs, problems, pain points, goals etc. The **[GitLab CxO Digital Transformation Discovery Guide](https://drive.google.com/a/gitlab.com/open?id=1balLINV-vnd6-6TYzF3SIIJKrBPUQofVSDgQ5llC2Do)** is a helpful resource with sample discovery questions for senior economic buyers.
+1. Utilize <b>[MEDDPPICC](/handbook/sales/meddppicc/)</b> to create Discovery questions to gather the information necessary to qualify the opportunity. MEDDPPICC is a qualification framework that will help you determine if the opportunity is worth your time, effort, and company resources. It will help you to more quickly determine what stage the buyer falls in the sales process. The framework will also expose problems and clarify next steps. It will help make you more efficient and focused sales representatives by making it easier to sort the good deals from no deals, and quick deals from long term deals. The foundation of MEDDPPICC is based on asking good discovery questions.
+1. Ask effective, open-ended **[Discovery Questions](/handbook/sales/qualification-questions/)** to identify existing customer needs, problems, pain points, goals etc. The **[GitLab CxO Digital Transformation Discovery Guide](https://drive.google.com/a/gitlab.com/open?id=1balLINV-vnd6-6TYzF3SIIJKrBPUQofVSDgQ5llC2Do)** is a helpful resource with sample discovery questions for senior economic buyers.
 1. **Prepare a Meeting Agenda** to identify how the buyer wants will match what you will cover. Leverage this [Pre-Call Plan](https://docs.google.com/document/d/1yjyfvMoDvayZca5hXiIwSHYc9T1M3mTc7ocqzjhqOf8/copy) document to prepare for this and subsequent customer calls/meetings. In addition, consider sending your proposed agenda to the buyer in advance of the meeting to ensure alignment. For each agenda item, include some questions from the BPM, prepare statements, industry case studies. Research 1-3 items in the Objectives and Obstacles section of the personas. Finalize your meeting objectives in order to show the buyer you are prepared, listening, and empathic. Structure the meeting so that the prospect is relaxed and is comfortable going deep with their problems and needs.
-1. Utilize a **[Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/)** to track the progress of a deal. The Command Plan an iterative document within Salesforce that gives you and your team macro and micro level visibility into an opportunity. It is designed to align and guide you through the necessary [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) process to quickly capture the information necessary to properly qualify an opportunity. Here is a sample [Command Plan](https://docs.google.com/spreadsheets/d/16m5_w4NiNSXfJFt9576IktNUp6uTCOKxaLBtoyR0lrA/edit#gid=299910663).
+1. Utilize a **[Command Plan](/handbook/sales/command-of-the-message/command-plan/)** to track the progress of a deal. The Command Plan an iterative document within Salesforce that gives you and your team macro and micro level visibility into an opportunity. It is designed to align and guide you through the necessary [MEDDPPICC](/handbook/sales/meddppicc/) process to quickly capture the information necessary to properly qualify an opportunity. Here is a sample [Command Plan](https://docs.google.com/spreadsheets/d/16m5_w4NiNSXfJFt9576IktNUp6uTCOKxaLBtoyR0lrA/edit#gid=299910663).
 
-**Reminder**: A [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/) is not a one and done document. Nor will you gather all the necessary information in one meeting, so be prepared to work through pieces of the document over a series of meetings. Taking this time up front will help you better evaluate the deal by asking deeper trap-setting questions that will help you gather more insightful data about your customer.
+**Reminder**: A [Command Plan](/handbook/sales/command-of-the-message/command-plan/) is not a one and done document. Nor will you gather all the necessary information in one meeting, so be prepared to work through pieces of the document over a series of meetings. Taking this time up front will help you better evaluate the deal by asking deeper trap-setting questions that will help you gather more insightful data about your customer.
 
-As a rule of thumb, here is the cadence for updating your [Command Plans](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/).
+As a rule of thumb, here is the cadence for updating your [Command Plans](/handbook/sales/command-of-the-message/command-plan/).
 - Command Plan: Opportunity Overview - Real Time
 - Command Plan: MEDDPPICC Data - Real Time
 - Command Plan: Close Plan - Real Time
 
 ## Step 5. Qualify the opportunity
 
-Once you have conducted the initial qualifying meeting. You and your team should review all the data gathered in the [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/). This includes a review of the research conducted, the discovery questions asked, how much [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) data was captured in the Command Plan, and what gaps you still have outstanding to capture. Depending on the level of data captured, the lead can then be evaluated according to the below listed criteria to recategorize from a lead to a <b>[Sales Accepted Opportunity](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/)</b>:
+Once you have conducted the initial qualifying meeting. You and your team should review all the data gathered in the [Command Plan](/handbook/sales/command-of-the-message/command-plan/). This includes a review of the research conducted, the discovery questions asked, how much [MEDDPPICC](/handbook/sales/meddppicc/) data was captured in the Command Plan, and what gaps you still have outstanding to capture. Depending on the level of data captured, the lead can then be evaluated according to the below listed criteria to recategorize from a lead to a <b>[Sales Accepted Opportunity](/handbook/sales/field-operations/gtm-resources/)</b>:
 
 - **Authority (Is the prospect a person with decision- making authority?)**
     - The prospect being met is directly involved in a project or team related to the potential purchase of GitLab within this buying group, either as an evaluator, decision maker, technical buyer, or *influencer.
@@ -164,7 +164,7 @@ Once you have conducted the initial qualifying meeting. You and your team should
 - **Timing (How Soon Will They Buy?)**
     - After the initial qualifying meeting with the account leader/executive, there must be a next step that is set to occur within a *60 day timeframe*. (If next step isn’t within a 60 day timeframe, the opportunity remains in stage 0).
 
-Once the lead has been evaluated according to the above criteria, it can be designated as a qualified opportunity. An OPPORTUNITY can be created in Salesforce a) when converting a LEAD to CONTACT; b) from a CONTACT. **All opportunities** should be created with a Stage = 0-Pending Acceptance regardless of how you create the OPPORTUNITY. Once the initial setup is complete, the [OPPORTUNITY Stage](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/) can be updated within Salesforce.
+Once the lead has been evaluated according to the above criteria, it can be designated as a qualified opportunity. An OPPORTUNITY can be created in Salesforce a) when converting a LEAD to CONTACT; b) from a CONTACT. **All opportunities** should be created with a Stage = 0-Pending Acceptance regardless of how you create the OPPORTUNITY. Once the initial setup is complete, the [OPPORTUNITY Stage](/handbook/sales/field-operations/gtm-resources/) can be updated within Salesforce.
 
 ## Step 6. Pipeline management and forecasting
 
@@ -187,7 +187,7 @@ Your goal is to close deals and the best way to do that is to track where your s
 Below are **DAILY TASKS** you’ll need to perform within Salesforce.
 
 1. Accurately document each stage of the sales cycle using the list above. This requires you to assess each opportunity based on what tasks have taken place. If you have gathered data and the deal meets the criteria in step 5, the deal can then be designated as 0 - Pending Acceptance.
-    - When you have scheduled a follow up meeting to interview and obtain in depth [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) data the opportunity should be designated as stage 1 - Discovery.
+    - When you have scheduled a follow up meeting to interview and obtain in depth [MEDDPPICC](/handbook/sales/meddppicc/) data the opportunity should be designated as stage 1 - Discovery.
     - **Pipeline Hygiene: Generally review your accounts DAILY, but depending on the size of your book of business, it should be at least once per week.**
     - Identify prospects who have been in your sales pipeline longer than your average sales cycle.
     - Before you completely give up on a prospect, send them a sales breakup email
@@ -202,7 +202,7 @@ Below are **DAILY TASKS** you’ll need to perform within Salesforce.
     1. Set a response time to respond to inbound leads
     1. Set a number of touches per lead spread out over one month
     1. Set a number and a variety of email, phone, and social media touches a lead receives
-    1. Every touch a lead receives should include new information or resources from the **[Use Case GTM Bill of Material Priorities](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/)** matrix.
+    1. Every touch a lead receives should include new information or resources from the **[Use Case GTM Bill of Material Priorities](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/)** matrix.
 
 ### Forecasting
 
@@ -221,6 +221,6 @@ Below are the **WEEKLY TASK** you’ll need to perform within Clari. Navigate to
 1. NET 50/50
     - **Click “Net ARR”, then Click “Net 50/50”.** This field should have the value for what you believe will be the actual forecast for your team. If you consider the Commit as the floor and Best Case as the ceiling, then the 50-50 is what is the most likely outcome.
 
-For in-depth training on Clari go to the **[Clari for Salespeople Instructional Videos](https://about.gitlab.com/handbook/sales/forecasting/)**.
+For in-depth training on Clari go to the **[Clari for Salespeople Instructional Videos](/handbook/sales/forecasting/)**.
 
-Now you are ready to move into the next phase of the sales cycle, **[Facilitating the Opportunity](https://about.gitlab.com/handbook/sales/sales-operating-procedures/facilitate-the-opportunity/)**.
+Now you are ready to move into the next phase of the sales cycle, **[Facilitating the Opportunity](/handbook/sales/sales-operating-procedures/facilitate-the-opportunity/)**.
