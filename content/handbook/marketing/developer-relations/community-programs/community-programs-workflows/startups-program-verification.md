@@ -53,15 +53,19 @@ Here are some common workflows associated with managing the program, including q
 
 Scenario: User did not submit complete application  
 
-In **Zendesk**: Apply the "Funding Info" macro. Then, in **Salesforce**: 
+In **Zendesk**:
 
-- 1. Open lead / contact in the ticket
-- 2. Ctrl F "Startups Program Status" 
-- 3. Change the status to Funding Docs Requested
+1. Apply the "Funding Info" macro.
 
-### User Submitted application with link to crunchbase or funding Status (Complete Application)
+Then, in **Salesforce**: 
 
-*Seed Stage Flow*
+1. Open lead / contact in the ticket
+2. Ctrl F "Startups Program Status" 
+3. Change the status to Funding Docs Requested
+
+### User-submitted application with link to crunchbase or funding Status (Complete Application)
+
+**Seed Stage Flow**
 
 If funding amount is less than $5 million USD, startup is deemed **Seed Stage**. Follow this flow.
 
@@ -77,7 +81,7 @@ Then, in **Salesforce**:
 2. Ctrl F "Startups Program Status" 
 3. Change to "Qualified" Seed Y1
 
-*Early Stage Flow*
+**Early Stage Flow**
 
 If funding amount is less than $20 Million USD and greater than $5 million USD, startup is deemed **Early Stage**.
 
