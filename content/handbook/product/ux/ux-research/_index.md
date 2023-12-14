@@ -117,7 +117,6 @@ Below is a full list of our UX Research team handbook content:
 - [Research participation gratuities](/handbook/product/ux/ux-research-coordination/incentives)
 - [Getting the word out about research insights](/handbook/product/ux/ux-research-coordination/shareouts)
 - [ReOps procurement best practices](/handbook/product/ux/ux-research-coordination/reops-procurement)
-- [First Look UX Research panel](/handbook/product/ux/ux-research-coordination/first-look-ux-research-panel/)
 - [Finding SaaS users](/handbook/product/ux/ux-research/finding-saas-users/)
 - [UX research recruiting email tips](/handbook/product/ux/ux-research/recruiting-participants/recruiting-email-tips/)
 
