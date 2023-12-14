@@ -140,7 +140,7 @@ For those with regular commitments, look for shorter weeks or timezone variation
 | 2024-03-04 | 2024-03-08 |  [Aleesha Dawson](https://gitlab.com/adawson-gitlab) - Senior Customer Success Manager | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Senior Product Manager, Deploy:Environments | REMOTE - PT |
 | 2024-03-11 | 2023-03-15 | NO SHADOW | NO SHADOW | SUMMIT - PT |
 | 2024-03-18 | 2024-03-22 | [Reshmi Krishna](https://gitlab.com/reshmikrishna) - Director, Enterprise Solutions Architecture |  [Aleesha Dawson](https://gitlab.com/adawson-gitlab) - Senior Customer Success Manager | REMOTE - PT |
-| 2024-03-25 | 2024-03-29 | [Bartek Marnane](https://gitlab.com/bmarnane) - VP, Incubation Engineering | [Bartek Marnane](https://gitlab.com/bmarnane) - VP, Incubation Engineering |
+| 2024-03-25 | 2024-03-29 | [Bartek Marnane](https://gitlab.com/bmarnane) - VP, Incubation Engineering | VP Direct only | In person - Bay Area |
 | 2024-04-01 | 2024-04-05 | [Jeremy Wagner](https://gitlab.com/jeremywagner) - Sr Solutions Architect | [Reshmi Krishna](https://gitlab.com/reshmikrishna) - Director, Enterprise Solutions Architecture | REMOTE - PT |
 | 2024-04-08 | 2024-04-12 | [Karen Kwentus](https://gitlab.com/kkwentus1) - Sr Solutions Architect | [Jeremy Wagner](https://gitlab.com/jeremywagner) - Sr Solutions Architect | REMOTE - PT |
 | 2024-04-15 | 2024-04-19 | [Djordje Micovic](https://gitlab.com/dmicovic) - Sr Data Analyst, Marketing Analytics - REMOTE | [Karen Kwentus](https://gitlab.com/kkwentus1) - Sr Solutions Architect | REMOTE - PT |
