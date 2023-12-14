@@ -1,5 +1,5 @@
 ---
-title: "Security Asset Management Standard"
+title: "Physical Security Standard for Company Assets"
 ---
 
 {{% alert title="This is a Controlled Document" color="danger" %}}
