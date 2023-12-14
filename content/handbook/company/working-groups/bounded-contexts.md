@@ -115,4 +115,5 @@ For stages still missing participants we will seek support from Engineering lead
 | Member                | Thong Kuah            | Principal Engineer, Data Stores  |
 | Member                | Lucas Charles         | Principal Engineer, Secure & Govern |
 | Member                | Furkan Ayhan          | Senior Backend Engineer, Verify:Pipeline Authoring |
+| Member                | Smriti Garg           | Senior Backend Engineer, Govern:Authentication |
 | Member                | Aboobacker MK         | Senior Backend Engineer, Govern:Authentication |
