@@ -1,7 +1,11 @@
 ---
-title: "Celebrations and Significant Life Events"
+title: "New Hires, Celebrations and Significant Life Events"
 description: "Review different ways GitLab celebrates its team members."
 ---
+
+## New Hire Swag
+
+As a new hire at GitLab, you will be getting a customized welcome package! On your date of hire you will receive an [email](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/onboarding_process/#new-hire-swag-email) to claim the package with a redemption code. Then simply enter you shipping information to have your welcome swag shipped directly to you.
 
 ## Celebrations
 
@@ -25,7 +29,7 @@ GitLab encourages team members to take a day of vacation on their special day in
 
 ### Team Member Gifts and Flowers
 
-For questions on our policy and how to submit your Team Member Gift and Flower expenses, including which categories to use in Navan, please refer to the [Global Travel and Expenses handbook page](/handbook/finance/expenses/).
+For questions on our policy and how to submit your Team Member Gift and Flower expenses, including which categories to use in Navan, please refer to the [Global Travel and Expenses handbook page](https://handbook.gitlab.com/handbook/finance/expenses/).
 
 **Please note: The intended recipient will need to provide their residential address directly for the purposes of flower / gift delivery - personal information may not be disclosed without team member consent.**
 
