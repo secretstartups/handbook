@@ -162,11 +162,11 @@ Incidents are triaged by following the checklist posted by the TriageBot.
 
 Alert triage is a continuous task on weekdays and a task that should be done at least once a day on weekends.
 
-If the alert is not critical, you can assign it to another person in your timezone. On weekends, assign them globally. Make the call if you assign an alert to someone else or work on it yourself based on your workload and the time an alert would take.
+Any alert can be assigned to another available person in your timezone. On weekends, assign them globally. Make the call if you assign an alert to someone else or work on it yourself based on priority, your workload and the time an alert would take to be closed.
 
 ## Incident Ownership
 
-Whoever is assigned to the incident after the initial triage is the person responsible for incident resolution. Use the assignee field in the GitLab incident to identify the responsible person. In case of a priority 1 incident, it should have one assignee per region. In these cases, the work should continue around the globe until the incident is contained and the priority lowered. In that case, the incident should go back to only having one assignee and DRI. When multiple people work on one incident, work is divided into tasks with their corresponding assignees. 
+Whoever is assigned to the incident after the initial triage is the person responsible for incident resolution. Use the assignee field in the GitLab incident to identify the responsible person. In case of a priority 1 incident, it should have one assignee per region. In these cases, the work should continue around the globe until the incident is contained and the priority lowered. In that case, the incident should go back to only having one assignee and DRI. When multiple people work on one incident, work is divided into tasks with their corresponding assignees.
 
 Ownership of an incident means being the person responsible for:
 
