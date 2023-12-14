@@ -4,7 +4,7 @@ title: "Field Enablement Leadership"
 
 ## Director, Field Enablement
 
-The Director of Field Enablement is a seasoned global Sales, Partner, and Customer Success Enablement leader with the ability to thrive in a growing software DevOps organization. Reporting to the VP of Field Operations, they are responsible for building and managing a virtual, world-class global sales training and enablement program.
+The Director of Field Enablement is a seasoned global Sales, Partner, Technical, or Customer Success Enablement leader with the ability to thrive in a growing software AI-Powered DevSecOps organization. Reporting to the Sr Director of Field Enablement, they are responsible for building and managing a world-class global sales training and enablement program.
 
 ### Job Grade
 
@@ -37,7 +37,7 @@ The Director, Field Enablement is a [grade 10](/handbook/total-rewards/compensat
 
 ## Senior Director, Field Enablement
 
-The Senior Director of Field Enablement is a seasoned global Sales, Partner, and Customer Success Enablement leader with the ability to thrive in a growing software DevOps organization. Reporting to the VP of Field Operations, they are responsible for directing program teams to manage a virtual, world-class global sales training and enablement program that supports the Field Sales organization by optimizing impactful enablement strategies.
+The Senior Director of Field Enablement is a highly experiences and influential global Sales, Partner, Technical, or Customer Success Enablement leader with the ability to thrive in a growing software AI-Powered DevSecOps organization. Reporting to the VP of Revenue Strategy, Operations, and Enablement, they are responsible for building and managing world-class global sales training and enablement programs that support the Field Sales organization by optimizing impactful enablement strategies.
 
 ### Job Grade
 
@@ -75,9 +75,27 @@ The Senior Director, Field Enablement is a [grade 11](/handbook/total-rewards/co
 - Forecast/pipeline management
 - Pipeline conversion and velocity
 
+## Senior Manager, Field Enablement Programs
+
+The Senior Manager, Field Enablement Programs is a global Sales, Partner, Technical, or Customer Success Enablement leader with the ability to thrive in a growing software AI-Powered DevSecOps organization. Reporting to the Director or Sr Director of Field Enablement, they are responsible for building and managing a world-class global sales training and enablement program.
+
+### Job Grade
+
+The Senior Manager, Field Enablement Programs is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
+
+### Responsibilities
+
+
+
+### Requirements
+
+### Performance Indicators
+
+
+
 ## Manager, Field Enablement Programs
 
-The Manager of Field Enablement Programs is a global Sales, Partner, and Customer Success Enablement leader with the ability to thrive in a growing software DevOps organization. Reporting to the Senior Director of Field Enablement, they are responsible for building and managing a virtual, world-class global sales training and enablement programs team.
+The Manager of Field Enablement Programs is a global Sales, Partner, Technical, or Customer Success Enablement leader with the ability to thrive in a growing software AI-Powered DevSecOps organization. Reporting to the Director or Sr Director of Field Enablement, they are responsible for building and managing a world-class global sales training and enablement program.
 
 ### Job Grade
 
