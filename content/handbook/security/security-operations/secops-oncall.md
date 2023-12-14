@@ -50,6 +50,7 @@ Trust and Safety
 - 15:00 to 23:00 UTC –> AMER - 8 hours
 
 ### SIRT Written Handoff
+
 SIRT is using the self-developed tool [Handogotchi](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/tines/-/tree/master/Handogotchi) for written handovers. Handogotchi reminds the on-call person to update incidents and add additional information one hour before handoff time. It will automatically send links to open incidents half an hour before handoff times.
 
 _Incident issues are the SSoT for any incident. There should be no incident specific information in handogotchi._
@@ -57,6 +58,7 @@ _Incident issues are the SSoT for any incident. There should be no incident spec
 Written handoffs are done for every shift and are the basis for warm handoffs.
 
 ### SIRT Warm Handoff
+
 SIRT uses warm handoffs to clarify written handoffs and avoid misunderstandings in complex situations. They should take no more than 15 minutes. One person per region is required (outgoing and incomming). 
 
 The outgoing region prepares the handoff as described in the section above. The incoming region should familiarize themselves with the written handoff before attending the meeting. _Warm handoffs are meant to be prepared meetings from both sides that focus on open questions and clarifications_.
@@ -66,9 +68,11 @@ There is no agenda for warm handoffs. All points that come up have to be immedia
 Warm handoffs are only done during the week. The reason for this is a handoff time around midnight for EMEA shifts.
 
 ## SIRT On-Call 
+
 During all On-Call shifts, the On-Call Engineer is filling the role of the `"Triage Engineer"`.
 
 ### Weekday
+
 #### Weekday On-Call Engineer Responsibilities
 
 Security Operations provides weekday On-Call coverage using a follow-the-sun model. Weekday On-Call Security Engineers are the team members that cover the On-Call responsibilities during their region's sunny time.
@@ -76,6 +80,7 @@ Security Operations provides weekday On-Call coverage using a follow-the-sun mod
 - The Weekday On-Call Security Engineer is expected to cover the `"Triage Engineer"` role, and should generally be the first responder to alerts and incidents as they are presented via Pager Duty and via the various Slack and alerting channels.
 
 ### Weekend
+
 #### Weekend On-Call Security Responsibilities
 
 The Weekend On-Call Security team member will be responsible for covering On-Call responsibilities from AMER Friday evening until APAC Monday morning according to the established On-Call Security Handoff times.
@@ -102,6 +107,7 @@ When scheduled for the Weekend On-Call Security shift team members should:
 - Find replacement coverage if you cannot commit to covering the entire weekend.
 
 ## SIRT On-Call Paging 
+
 ### Workflow
 
 The SIRT On-Call paging workflow is currently designed to follow this escalation path:
@@ -149,9 +155,11 @@ Delegation allows the team to spread the workload across the global team while m
 ### Triage process
 
 #### Incident triage
+
 Incidents are triaged by following the checklist posted by the TriageBot.
 
 #### Alert triage
+
 Alert triage should follow this process:
 - Acknowledge the alert.
 - Based on the alert information, current situation, and experience, determine the priority of the alert.
