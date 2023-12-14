@@ -77,7 +77,7 @@ During all On-Call shifts, the On-Call Engineer is filling the role of the `"Tri
 
 Security Operations provides weekday On-Call coverage using a follow-the-sun model. Weekday On-Call Security Engineers are the team members that cover the On-Call responsibilities during their region's sunny time.
 - A Weekday On-Call shift typically covers one working week, from Monday to Friday.
-- The Weekday On-Call Security Engineer is expected to cover the `"Triage Engineer"` role, and should generally be the first responder to alerts and incidents as they are presented via Pager Duty and via the various Slack and alerting channels.
+- The Weekday On-Call Security Engineer is expected to cover the `"Triage Engineer"` role, and should be the first responder to alerts and incidents as they are presented via PagerDuty and via the various Slack and alerting channels.
 
 ### Weekend
 
@@ -91,8 +91,8 @@ The Weekend On-Call Security team member will be responsible for covering On-Cal
 
 #### Weekend On-Call Security Scheduling
 
-- Weekend On-Call slots for FY25 will be filled on a volunteer basis meaning team members can sign up for the slots that would fit their schedules. The SIRT and Trust and Safety teams will have individual Weekend On-Call schedules so that one person from each team will cover the Weekend On-Call shift. General guidance is that team members should volunteer for the appropriate ratio of qualified team members to weekends requiring coverage. For example, in a team of 12 qualified team members, volunteering for 4 to 5 weekends per year, per person would allow for full coverage. Please note, ratios may change from time to time depending on the size of the team.
-- If there are open remaining slots the Security Operations managers will assign slots to team members who have not hit their target amount of slots. For example, if there’s an open slot and a team member that should volunteer for 4 to 5 slots but has signed up for 2, the Manager can allocate the slot to that team member. If the team member is unavailable they would be responsible for finding a replacement.
+- Weekend On-Call slots for FY25 will be filled on a volunteer basis, meaning team members can sign up for the slots that would fit their schedules. The SIRT and Trust and Safety teams will have individual Weekend On-Call schedules so that one person from each team will cover the Weekend On-Call shift. General guidance is that team members should volunteer for the appropriate ratio of qualified team members to weekends requiring coverage. For example, in a team of 12 qualified team members, volunteering for 4 to 5 weekends per year, per person would allow for full coverage. Please note, ratios may change from time to time depending on the size of the team.
+- If there are open remaining slots, the Security Operations managers will assign slots to team members who have not hit their target amount of slots. For example, if there’s an open slot and a team member that should volunteer for 4 to 5 slots but has signed up for 2, the Manager can allocate the slot to that team member. If the team member is unavailable, they would be responsible for finding a replacement.
 - In case of emergencies, managers may seek other volunteers and in rare cases may need to assign coverage.
 
 #### Weekend On-Call Security Relief
@@ -100,7 +100,7 @@ The Weekend On-Call Security team member will be responsible for covering On-Cal
 - Current On-Call metrics show an average of less than one weekend page per month.
 - Because busy On-Call weekends sometimes happen, team members need to triage alerts, and in recognition of weekend coverage, GitLab is proactively asking team members to take the next two business days off following their Weekend On-Call shift as time off in lieu, regardless of whether the team member had to respond to an incident.
 
-When scheduled for the Weekend On-Call Security shift team members should:
+When scheduled for the Weekend On-Call Security shift, team members should:
 - Submit time off in lieu for the next two business days immediately following their Weekend On-Call shift. Because this time off is intended to provide team members with immediate relief, these days cannot be moved to days later in the week or month, regardless of other planned or unplanned time off.
 - If a holiday or Friends and Family day falls on the next business day, time off in lieu can be taken for the subsequent two days.
 - Commit to covering the Weekend On-Call shift. Avoid signing up for weekends you are unable to cover, or otherwise have a conflict.
@@ -159,6 +159,8 @@ Delegation allows the team to spread the workload across the global team while m
 Incidents are triaged by following the checklist posted by the TriageBot.
 
 #### Alert Triage
+
+Alert triage is a continuous task on weekdays and a task that should be done at least once a day on weekends.
 
 Alert triage should follow this process:
 - Acknowledge the alert.
