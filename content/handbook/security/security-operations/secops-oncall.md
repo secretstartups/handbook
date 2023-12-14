@@ -121,7 +121,7 @@ The SIRT On-Call paging workflow is currently designed to follow this escalation
 
 The On-Call Engineer's primary concern is to provide timely and adequate responses to incoming pages. When receiving a page:
 1. Acknowledge the alarm in the corresponding alert Slack channel or through PagerDuty directly.
-1. Review incident's GitLab issue and follow the checklists posted there for triaging. 
+1. Review incident's GitLab issue and follow the checklists posted there for triaging.
 
 If the alarm is not acknowledged within `two 10-minute opportunities`, the Security Incident Manager On-Call will be alerted.
 
