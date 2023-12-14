@@ -4,7 +4,7 @@ title: "GitLab for Startups Program Verification"
 description: "Details of the verification process for the GitLab for Startups Program."
 ---
 
-# Overview
+## Overview
 
 This page contains details regarding the verification process for the [GitLab for Startups](/solutions/startups/) program.
 Please see the [Community Programs Application Workflow](/handbook/marketing/developer-relations/community-programs/automated-community-programs) for complete details on the application process.
@@ -20,7 +20,7 @@ We categorize their approval offering by two different funding qualifications:
 Startups must submit proof of association with a VC or accelerator fund, along with current funding status.
 The easiest way to obtain this information is a Crunchbase, PitchBook, or Y Combinator profile link, which should be submitted upon application.
 
-# Forms
+## Forms
 
 Our application is a Marketo form with the following fields:
 
@@ -45,45 +45,57 @@ Our application is a Marketo form with the following fields:
 
 GitLab for Startups Program members are subject to the same terms and conditions as regular GitLab customers, since this program only grants them 12 months of GitLab Ultimate for free. When the promotion period ends, startups will have the option of becoming regular paid customers.
 
-# Verification Flow
+## Verification Flow
 
 Here are some common workflows associated with managing the program, including qualifying a startup:
 
-1. Review application within Zendesk "Startups" view
+### Review application within Zendesk "Startups" view
 
 Scenario: User did not submit complete application  
-**Zendesk Actions**  
-Use macro: "Funding Info"  
-Thenm in Salesforce: 
+
+In **Zendesk**: Apply the "Funding Info" macro. Then, in **Salesforce**: 
 
 - 1. Open lead / contact in the ticket
 - 2. Ctrl F "Startups Program Status" 
 - 3. Change the status to Funding Docs Requested
 
-2. User Submitted application with link to crunchbase or funding Status (Complete Application)
+### User Submitted application with link to crunchbase or funding Status (Complete Application)
 
-- What is their funding amount? If less than $5 Million USD they are deemed Seed Stage. 
-- *Seed Stage Flow*
-- 1. Use "Seed stage" Macro to send over welcome email to customer
-- 2. Insert a coupon code from the Coupon code sheet within the macro
-- 3. Review Name, and fields to ensure correctly completed
-- Salesforce action: 
-- 1. Open lead / contact in the Zendesk ticket
-- 2. Ctrl F "Startups Program Status" 
-- 3. Change to "Qualified" Seed Y1
+*Seed Stage Flow*
 
- - *Early Stage Flow* If less than $20 Million USD and greater than $5 Million USD they are deemed Early Stage. 
- - 1. Use "Early Stage" Macro within Zendesk 
- - 2. Set ticket status to open 
-- Salesforce action: 
- - 1.Open lead / contact in the Zendesk ticket
- - 2. Ctrl F "Startups Program Status" 
- - 3. Change to "Qualified" Early Y1
- - 4. Convert the Lead to an Opp 
- - 5. Rename the Opportunity as "Customer Name, Seats, License Type, Startups - Early - Y(1) 
- - 6. Chatter Mktgops to assign the correct AE 
- - 7. Once the AE has been confirmed handoff the customer via the Zendesk Ticket
+If funding amount is less than $5 million USD, startup is deemed **Seed Stage**. Follow this flow.
 
-For more clarification regarding the Startups sales process please refer to this [highspot page](https://gitlab.highspot.com/items/6410e355fb9e0fe9d2823fcc?lfrm=irel.1#3)
+In **Zendesk**:
+
+1. Apply the `Seed stage` macro to send welcome email to customer
+2. Insert a coupon code from the coupon code sheet within the macro
+3. Review `Name` and other fields to ensure correctly completed
+
+Then, in **Salesforce**:
+
+1. Open lead / contact in the Zendesk ticket
+2. Ctrl F "Startups Program Status" 
+3. Change to "Qualified" Seed Y1
+
+*Early Stage Flow*
+
+If funding amount is less than $20 Million USD and greater than $5 million USD, startup is deemed **Early Stage**.
+
+In **Zendesk**:
+
+1. Apply the `Early Stage` macro
+2. Set ticket status to `Open` 
+
+Then, in **Salesforce**:
+
+1. Open lead / contact in the Zendesk ticket
+2. Ctrl+F to find "Startups Program Status" 
+3. Change to "Qualified" Early Y1
+4. Convert the Lead to an Opp 
+5. Rename the Opportunity as `Customer Name, Seats, License Type, Startups - Early - Y(1)` 
+6. Chatter Mktgops to assign the correct account executive
+7. Once the account executive has been confirmed, handoff the customer via the Zendesk Ticket
+
+For more clarification regarding Startups sales process, please refer to this [highspot page](https://gitlab.highspot.com/items/6410e355fb9e0fe9d2823fcc?lfrm=irel.1#3)
 
 If they do not qualify, send them the [Startups:: Rejection macro](/handbook/marketing/developer-relations/community-programs/community-program-applications/email-and-zendesk-macros/#startups-startups-rejection) and offer to connect them to sales via the [Sales handoff process](/handbook/marketing/developer-relations/community-programs/community-program-applications/#handoff-process-to-sales).
