@@ -73,7 +73,7 @@ Team Members can book an Executive Health Screening at one of Fullerton Health�
 
 Team Members can add Optional Tests and Screenings at their own cost. For additional details on the locations, what is included in the screenings, as well as information on how to book your appointment, please see the [Fullerton Health Guide](https://drive.google.com/file/d/1O7lgEE-lbo2I1lkekc39TDKBDpAV9FXG/view?usp=sharing).
 
-You can sign up for the benefit and book an appointment via the [Fullerton Health Website](https://bookappt.fullertonhealth.com/#/login). Click on “Sign Up”, fill out your information, and search for “GITLAB SINGAPORE PTE LTD” under the Company drop down. 
+You can sign up for the benefit and book an appointment via the [Fullerton Health Website](https://bookappt.fullertonhealth.com/#/login). Click on “Sign Up”, fill out your information, and search for “GITLAB SINGAPORE PTE LTD” under the Company drop down.
 
 Note: Since GitLab pays for the benefit directly, this benefit is not considered CPF payable
 
