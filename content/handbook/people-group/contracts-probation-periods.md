@@ -66,7 +66,7 @@ If an exception request is made to end a probation period early, this should be 
 
 1. Managers are responsible for monitoring and specifically reviewing performance halfway through the probation period of their direct report.
 1. If **underperformance is an issue**, or there is any hesitation regarding the successful completion of a probation period, this should be discussed immediately with Team Member Relations.
-1. 30 days prior to the end of their direct reports' Probation Period, the manager will receive an email from the People Connect Team, reminding them that their direct reports' probation period is coming to an end.
+1. 28 days prior to the end of their direct reports' Probation Period, the manager will receive an email from the People Connect Team, reminding them that their direct reports' probation period is coming to an end.
    - **Note:** For team members located in the Netherlands, the manager will receive an email from the People Connect Team, 14 days prior to the end of the probation period.  
 1. The Hiring Manager will respond confirming their approval of their direct reports' completion of their probation period as well as the scheduled date of their [121]({{< ref "1-1" >}}) to communicate the successful completion, or that they are in discussions with Team Member Relations.
 
