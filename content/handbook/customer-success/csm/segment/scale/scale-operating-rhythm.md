@@ -16,7 +16,7 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 There are several different ways that the Scale CSE team engages with customers, including:
 1. [Targeted campaigns run from Gainsight](#targeted-campaigns) 
 
-1. [Monthly Webinars and Workshops](#monthly-webinars-and-hands-on-workshops)
+1. [Monthly Webinars and Labs](#monthly-webinars-and-hands-on-labs)
 1. [GitLab Onboarding Cohorts](#scale-onboarding-cohorts)
 1. [Sales Driven Scale Engagement Request](#scale-engagement-request-process) 
 
@@ -29,9 +29,9 @@ Customer Success Operations and CS leaders determine, based on various GitLab he
 
   Existing campaign email drafts can be found in the [Automated Scale Campaigns Content google doc](https://docs.google.com/document/d/1Db6y_i2gPQrPnJkJpAAbfFKQtw4c5VgSFJcHKDG-4hk/edit?usp=sharing).  The email campaigns get sent to a target group based on geo and ARR and typically contain the calendly link for the specific CSE working with that segment.
 
-### Monthly Webinars and Hands On Workshops
+### Monthly Webinars and Hands On Labs
 
-The CSE Team delivers monthly webinars and hands-on workshops that are available to all.  The [webinar calendar](/handbook/customer-success/csm/segment/scale/webinar-calendar/) is published to our website, with a registration link for each.  Webinars are pre-recorded content with CSEs answering Q&A.  Workshops provide a hands-on learning experience for each attendee with their own lab environment to work through lab exercises during the session.
+The CSE Team delivers monthly webinars and hands-on labs that are available to all.  The [webinar calendar](/handbook/customer-success/csm/segment/scale/webinar-calendar/) is published to our website, with a registration link for each.  Webinars are pre-recorded content with CSEs answering Q&A.  Labs provide a hands-on learning experience for each attendee with their own lab environment to work through lab exercises during the session.
 
 #### Preparing for and Delivering a Webinar
 
@@ -44,38 +44,37 @@ The host and Q&A panelist should start/join the webinar at least 10 minutes befo
 The Scale Program Manager will handle all pre- and post-webinar communication with the attendees.
 
 
-#### Preparing for and Delivering a Hands-on Workshop
+#### Preparing for and Delivering a Hands-on Lab
 
-The upcoming month's hands-on workshops are added to an issue in the [Customer Success Operations Project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/?label_name%5B%5D=CSOps%20-%20Scale) (separate from the webinar schedule) and the CSE team is asked to sign up as Presenter or Q&A support. 
+The upcoming month's hands-on labs are added to an issue in the [Customer Success Operations Project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/?label_name%5B%5D=CSOps%20-%20Scale) (separate from the webinar schedule) and the CSE team is asked to sign up as Presenter or Q&A support. 
 
-The Presenter should add the workshop to the [FY23 and FY24 Lab Schedule issue](https://gitlab.com/gitlab-com/customer-success/demo-engineering/workshop-library/demo-engineering-workshop-issues/-/issues/8) in the Demo Engineering Workshop Issues Project.  This should be added at least one week before the workshop to give the Demo Engineering team enough time to prepare the lab environment.  Then add a comment mentioning @sgrahamgl to let him know you added your workshops.
+The Presenter should add the lab to the [FY23 and FY24 Lab Schedule issue](https://gitlab.com/gitlab-com/customer-success/demo-engineering/workshop-library/demo-engineering-workshop-issues/-/issues/8) in the Demo Engineering Workshop Issues Project.  This should be added at least one week before the lab to give the Demo Engineering team enough time to prepare the lab environment.  Then add a comment mentioning @sgrahamgl to let him know you added your lab.
 
-A registration code will then be created for the workshop.  Registration codes are tracked in the [2023 Demo Team Scale/CSM Workshop Registrations google sheet](https://docs.google.com/spreadsheets/d/1H0Ym78QqXeufzsHMWMsFBSi9mIav0apUBm7D-D7-haU/edit?usp=sharing).  Workshop attendees will use the registration code at the beginning of the workshop to have lab credentials and an subgroup created to use for the hands-on exercises, [provisioned via gitlabdemo.com](https://gitlabdemo.com/login).  Each slide deck has detailed instructions for the attendees that the host will guide them through to create the subgroup and access it.
+A registration code will then be created for the lab.  Registration codes are tracked in the [2023 Demo Team Scale/CSM Workshop Registrations google sheet](https://docs.google.com/spreadsheets/d/1H0Ym78QqXeufzsHMWMsFBSi9mIav0apUBm7D-D7-haU/edit?usp=sharing).  Lab attendees will use the registration code at the beginning of the lab to have lab credentials and an subgroup created to use for the hands-on exercises, [provisioned via gitlabdemo.com](https://gitlabdemo.com/login).  Each slide deck has detailed instructions for the attendees that the host will guide them through to create the subgroup and access it.
 
-Before the workshop, the host should make a copy of the appropriate [master slide deck](https://drive.google.com/drive/folders/1h-I2J_J4MlgBmjfwxpdGiyVM0vIVW9vY?usp=drive_link) and store it in the [2. Global Onboarding Workshops -> Decks -> Delivered decks folder](https://drive.google.com/drive/folders/1SYuAOlR9YqLSS3I9qebW8aKyRYx2Yv8I?usp=drive_link), with the Title: `<Workshop Name> - <Region> - Date`.  In the workshop deck, change the registration codes to match the current workshop, and add their name and profile picture to the presenter slide.  
+Before the event, the host should make a copy of the appropriate [master slide deck](https://drive.google.com/drive/folders/1h-I2J_J4MlgBmjfwxpdGiyVM0vIVW9vY?usp=drive_link) and store it in the [2. Global Onboarding Labs -> Decks -> Delivered decks folder](https://drive.google.com/drive/folders/1SYuAOlR9YqLSS3I9qebW8aKyRYx2Yv8I?usp=drive_link), with the Title: `<Lab Name> - <Region> - Date`.  In the lab deck, change the registration codes to match the current lab, and add their name and profile picture to the presenter slide.  
 
-The Scale Program Manager will handle all pre-workshop and post-workshop communication with the attendees, and will request the Highspot link to add to the post-workshop email.
+The Scale Program Manager will handle all pre-lab and post-lab communication with the attendees, and will request the Highspot link to add to the post-lab email.
 
-The workshop lab content is contained in the [GitLab Learn Labs Sample Projects group](https://gitlab.com/gitlab-learn-labs/sample-projects).  The correct project should be linked in the slide deck you are using for the workshop.  The host should run through the lab exercises in their entirety at least once before the workshop to ensure there are no technical issues.
+The lab content is contained in the [GitLab Learn Labs Sample Projects group](https://gitlab.com/gitlab-learn-labs/sample-projects).  The correct project should be linked in the slide deck you are using for the lab.  The host should run through the lab exercises in their entirety at least once before the event to ensure there are no technical issues.
 
-You should also create a paste notes doc that has all of the information and links that you will want to put in the chat for the workshop participants.  See [Sample Paste Notes for Security and Compliance Workshop](https://docs.google.com/document/d/1rNF2PvfJrunZgoI9PW4mPIirLLhyXH9ohXgLEmsXeRI/edit?usp=sharing). Provide the link in the #scale-workshops-planning slack channel for anyone who is helping with Q&A.  The #scale-workshops-planning slack channel is used for any pre-workshop questions, set up, demo environment issues, etc.
+You should also create a paste notes doc that has all of the information and links that you will want to put in the chat for the lab participants.  See [Sample Paste Notes for Security and Compliance Lab](https://docs.google.com/document/d/1rNF2PvfJrunZgoI9PW4mPIirLLhyXH9ohXgLEmsXeRI/edit?usp=sharing). Provide the link in the #scale-workshops-planning slack channel for anyone who is helping with Q&A.  The #scale-workshops-planning slack channel is used for any pre-lab questions, set up, demo environment issues, etc.
 
-On the day of the workshop, the host should login at least 10 minutes prior to the workshop start to get set up.  
+On the day of the lab, the host should login at least 10 minutes prior to the lab start to get set up.  
 
-Workshop housekeeping items - these should be called out in the workshop slide deck as well:
+Lab housekeeping items - these should be called out in the lab slide deck as well:
    - all attendees are muted - ask participants to stay muted and add their questions in the Q&A panel
    - an account on gitlab.com is needed before starting
-   - access to lab environment for x days (it's 2 days for some workshops and 4 days for others - should be called out in the appropriate slide deck)
+   - access to lab environment for x days (it's 2 days for some labs and 4 days for others - should be called out in the appropriate slide deck)
 
 Tips and tricks for presenting:
-   - open 2 chrome windows side by side when working through labs - one with the issue instructions and one with the workshop project you're using to work through each step
+   - open 2 chrome windows side by side when working through labs - one with the issue instructions and one with the lab project you're using to work through each step
    - put your slides in full screen presentation mode for presentation
    - turn off all notifications
    - hide your bookmarks bar and be conscious not to share anything related to other customers
    - go slower than you think you need to through the exercises
 
-After the workshop, the Scale Program Manager will send a post-workshop email with a link to the recording and slide deck.  They will need a Highspot pitch link to send.  To create one, login to Highspot and upload the content to your personal spot (Click New in the upper right-hand corner, add files, then choose from Cloud services - Google drive, find the file on drive and selecti it, make sure the "External" usage label is set, then click "add").  Once you have uploaded it, you will want to go to the document in your spot and use the menu to "share with pitch", select "link pitch", provide a name, and set an expiration date of 3 months, and ensure the "allow content to be downloaded as pdf" option is selected, then create link, copy it and provide it to the Scale program manager.
-
+After the lab, the Scale Program Manager will send a post-event email with a link to the recording and slide deck.  
 
 ### Scale Onboarding Cohorts
 
