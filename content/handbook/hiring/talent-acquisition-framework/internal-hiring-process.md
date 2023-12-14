@@ -88,6 +88,11 @@ A guideline template to prepare for this conversation might look like the follow
 **Opportunities for improvement**:
 - In general if experience was missing (such as XYZ) when asked a question, they were not able to answer it based on any lessons/training they have taken in preparation for this role
 
+**Key Takeaways (to be delivered synchronously)**:
+
+- They understand the day-to-day responsibilities of this role in terms of (these job requirements), but are not yet prepared for what this looks like long-term around (these other job requirements and challenges they may face). They may be coachable in these areas and have an exceptional history with GitLab, however this position will be demanding on time which may not allow the candidate to get enough support in the role. I would recommend:
+  - Specific actions this candidate can take to get more experience **at GitLab**
+
 If you are not sure what actions they can be taking to be more qualified for your position, you may reference your role's job requirements and/or the [Job Framework](https://docs.google.com/spreadsheets/d/1FX4NBwF099uMBm7mGBtf1orIJZuHEjtiEa3jSbg9jJs/edit#gid=0) for inspiration defining concrete actions.
 
 
