@@ -6,13 +6,9 @@ The IT Enterprise Applications Engineering job family is responsible for the imp
 
 ## Levels
 
-## Associate IT Enterprise Applications Engineer
+### Associate IT Enterprise Applications Engineer
 
-<<<<<<< content/job-families/finance/it-entapps-engineering.md
-Associate IT Enterprise Applications Engineer is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the Manager, IT Enterprise Applications Engineering.
-=======
-IT Enterprise Applications Administrator is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the IT Manager, Enterprise Applications Engineering.
->>>>>>> content/job-families/finance/it-entapps-engineering.md
+Associate IT Enterprise Applications Administrator is a [grade 5](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the IT Manager, Enterprise Applications Engineering.
 
 ### Associate IT Enterprise Applications Engineer Responsibilities
 
@@ -35,11 +31,7 @@ Hands-on entry-level administrator experience across a single platform: SalesFor
 
 ## Intermediate IT Enterprise Applications Engineer
 
-<<<<<<< content/job-families/finance/it-entapps-engineering.md
-Intermediate IT Enterprise Applications Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the Manager, IT Enterprise Applications Engineering.
-=======
-IT Enterprise Applications Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the IT Manager, Enterprise Applications Engineering.
->>>>>>> content/job-families/finance/it-entapps-engineering.md
+Intermediate IT Enterprise Applications Engineer is a [grade 6](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the Manager, IT Enterprise Applications Engineering.
 
 ### Intermediate IT Enterprise Applications Engineer Responsibilities
 
@@ -59,7 +51,7 @@ IT Enterprise Applications Engineer is a [grade 7](/handbook/total-rewards/compe
 
 ## Senior IT Enterprise Applications Engineer
 
-Senior IT Enterprise Applications Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the Manager, IT Enterprise Applications Engineering.
+Senior IT Enterprise Applications Engineer is a [grade 7](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the Manager, IT Enterprise Applications Engineering.
 
 ### Senior IT Enterprise Applications Engineer Responsibilities
 
@@ -116,7 +108,7 @@ Extends the Intermediate IT Enterprise Applications Administrator responsibiliti
 
 ## Manager, IT Enterprise Applications Engineering
 
-Manager, IT Enterprise Applications Engineering is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the [Director, Enterprise Applications](/job-families/finance/senior-director-enterprise-applications/).
+Manager, IT Enterprise Applications Engineering is a [grade 8](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the [Director, CRM Systems](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/#crm-systems-director).
 
 ### Manager, IT Enterprise Applications Engineering Responsibilities
 
@@ -140,7 +132,7 @@ Extends the Senior IT Enterprise Applications Engineer responsibilities plus:
 
 ## Staff IT Enterprise Applications Engineer
 
-The Staff IT Enterprise Applications Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the Manager, IT Enterprise Applications Engineering or Director, IT Enterprise Applications.
+The Staff IT Enterprise Applications Engineer is a [grade 8](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the Manager, IT Enterprise Applications Engineering or [Director, CRM Systems](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/#crm-systems-director).
 
 ### Staff IT Enterprise Applications Engineer Responsibilities
 
@@ -164,7 +156,7 @@ Extends the Senior IT Enterprise Applications Engineer requirements plus:
 
 ## Principal IT Enterprise Applications Engineer
 
-The Principal IT Enterprise Applications Engineer is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the Manager, IT Enterprise Applications Engineering or Director, IT Enterprise Applications.
+The Principal IT Enterprise Applications Engineer is a [grade 9](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the [Director, CRM Systems](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/#crm-systems-director)
 
 ### Principal IT Enterprise Applications Engineer Responsibilities
 
@@ -187,7 +179,7 @@ Extends the Staff IT Enterprise Applications Engineer requirements plus:
 
 ## Distinguished IT Enterprise Applications Engineer
 
-The Distinguished IT Enterprise Applications Engineer is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the Manager, IT Enterprise Applications Engineering or Director, IT Enterprise Applications Engineering.
+The Distinguished IT Enterprise Applications Engineer is a [grade 10](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the [Director, CRM Systems](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/#crm-systems-director)
 
 ### Distinguished IT Enterprise Applications Engineer Responsibilities
 
@@ -217,11 +209,7 @@ Extends the Principal IT Enterprise Applications Engineer requirements plus:
 
 ## Career Ladder
 
-<<<<<<< content/job-families/finance/it-entapps-engineering.md
-The next step in the IT Enterprise Applications Engineering job family is to move to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/) job family.
-=======
-The next step in the  Manager, IT Enterprise Applications Engineering job family is to move to the [Director, Enterprise Applications](/job-families/finance/senior-director-enterprise-applications/) job family.
->>>>>>> content/job-families/finance/it-entapps-engineering.md
+The next step in the IT Enterprise Applications Engineering job family is to move to the [Director, CRM Systems](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/#crm-systems-director) job family.
 
 ## Hiring Process
 
