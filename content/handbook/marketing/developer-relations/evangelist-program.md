@@ -71,7 +71,7 @@ GitLab supports team members and members of the wider GitLab community who want 
 
 #### Meetup format ideas
 
-Think outside the box. All meetups and community events are diffent. Find what works for your members and fits the event goals.
+Think outside the box. All meetups and community events are different. Find what works for your members and fits the event goals.
 
 - Panel: Ask 3-4 people to share or breakdown their favorite feature
 - Roundtable discussion: Attendees will discuss the new features in a structured manner. Assign someone who will document the pros, cons, and neural thoughts of the new release. Share the discussion with the GitLab DE team.
