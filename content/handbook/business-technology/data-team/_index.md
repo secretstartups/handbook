@@ -84,7 +84,7 @@ The **[Data Platform Team & Architecture Team](/handbook/business-technology/dat
 
 ### Analytics Engineering Team
 
-The [Analytics Engineering Team](/handbook/business-technology/data-team/organization/)** transforms raw data into clean, structure and usable formats for data decision-making.  The Analytics Engineering team also drives [Enterprise Data Program](/handbook/business-technology/data-team/organization/enterprise-data/) and supports the wider data community. The team focuses on inventorying, integrating, maintaining, and governing the data at an Enterprise level. This includes collaborating with the business units and data teams in establishing and facilitating commonly accepted guidelines around Enterprise data along with building [enterprise-wide data models](/handbook/business-technology/data-team/platform/edw/), supporting [Self-Service BI](/handbook/business-technology/data-team/direction/self-service/) and Analytical capabilities by providing Data Enablement and required training to the Users on Enterprise Data Models.
+The [Analytics Engineering Team](/handbook/business-technology/data-team/organization/)** transforms raw data into clean, structure and usable formats for data decision-making. The Analytics Engineering team also drives Enterprise Data Program and supports the wider data community. The team focuses on inventorying, integrating, maintaining, and governing the data at an Enterprise level. This includes collaborating with the business units and data teams in establishing and facilitating commonly accepted guidelines around Enterprise data along with building [enterprise-wide data models](/handbook/business-technology/data-team/platform/edw/), supporting [Self-Service BI](/handbook/business-technology/data-team/direction/self-service/) and Analytical capabilities by providing Data Enablement and required training to the Users on Enterprise Data Models.
 
 
 ### The Enterprise Insights & Data Science Team
@@ -205,8 +205,44 @@ You can tag the Data Team in GitLab using:
 | [Data Onboarding](/handbook/business-technology/data-team/programs/#data-onboarding) |
 | [Learning Library](/handbook/business-technology/data-team/learning-library/) |
 | [Sisense  Guide](/handbook/business-technology/data-team/platform/sisensecdt/) |
-| [Sisense Style Guide](/handbook/business-technology/data-team/platform/sisense-style-guide/) |
 | [Tableau Guide](/handbook/business-technology/data-team/platform/tableau/) |
 | [Tableau Style Guide](/handbook/business-technology/data-team/platform/tableau-style-guide/) |
 
 
+## Data Team Handbook Structure
+
+- [Dashboards & Data You Can Use](/handbook/business-technology/data-team/data-catalog/)
+- [Data Learning and Resources](/handbook/business-technology/data-team/learning-library/)
+- [Data Programs](/handbook/business-technology/data-team/programs/)
+- [How The Data Team Works](/handbook/business-technology/data-team/how-we-work/)
+    - [Calendar](/handbook/business-technology/data-team/how-we-work/calendar/)
+    - [Data Analytics Team](/handbook/business-technology/data-team/organization/analytics/)
+    - [Data Platform Team](/handbook/business-technology/data-team/organization/engineering/)
+    - [Data Science Team](/handbook/business-technology/data-team/organization/data-science)
+    - [Data Team Principles](/handbook/business-technology/data-team/principles/)
+    - [Data Management](/handbook/business-technology/data-team/data-management/)
+    - [Data Handbook Documentation](/handbook/business-technology/data-team/documentation/)
+    - [Planning Drumbeat](/handbook/business-technology/data-team/how-we-work/planning/)
+    - [Triage](/handbook/business-technology/data-team/how-we-work/triage/)
+- [How The Data Platform Works](/handbook/business-technology/data-team/platform/)
+    - [Data CI Jobs](/handbook/business-technology/data-team/platform/ci-jobs/)
+    - [Data Infrastructure](/handbook/business-technology/data-team/platform/infrastructure/)
+    - [Data Champion](/handbook/business-technology/data-team/direction/data-champion/)
+    - [Data Onboarding](/handbook/business-technology/data-team/programs/#data-onboarding)
+
+    - [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/)
+    - [Data Quality](/handbook/business-technology/data-team/data-quality/)
+    - [Data Services](/handbook/business-technology/data-team/data-service/)
+    - [dbt Guide](/handbook/business-technology/data-team/platform/dbt-guide/)
+    - [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/edw/)
+    - [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide)
+    - [Meltano Guide](/handbook/business-technology/data-team/platform/Meltano-Gitlab)
+    - [Permifrost](/handbook/business-technology/data-team/platform/permifrost/)
+    - [Python Guide](/handbook/business-technology/data-team/platform/python-guide/)
+    - [RStudio Guide](/handbook/business-technology/data-team/platform/rstudio/)
+    - [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/)
+    - [Snowplow](/handbook/business-technology/data-team/platform/snowplow/)
+    - [Sisense](/handbook/business-technology/data-team/platform/sisensecdt/)
+    - [Tableau](/handbook/business-technology/data-team/platform/tableau/)
+    - [Tableau Style Guide](/handbook/business-technology/data-team/platform/tableau-style-guide/)
+    - [Trusted Data Framework](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework)
