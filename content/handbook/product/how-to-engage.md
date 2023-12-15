@@ -221,21 +221,13 @@ Following the process described below will ensure that customer interest in feat
 
 ## Product Joining Customer Calls
 
-It can be very helpful for both Product and customers to be on a call together to discuss feedback, roadmaps, etc.
+It can be very helpful for both Product and customers to be on a call together to discuss feedback, roadmaps, etc. Take the following steps to ensure an efficient and productive meeting:
 
-It is best practice to ask for a PM to join your call through the slack channel for their [group or category](/handbook/product/categories/#devops-stages). Direct messages are problematic because it is hard to loop in other PMs if the right person for the call is not included in the DM, and it limits visibility into topics that may be discussed. If you are unsure about the right group to reach out to, you can ask in the general [#product](https://gitlab.slack.com/archives/C0NFPSFA8) channel.
-
-When including a member of the Product team on the call it is important that they have as much information and context as possible in advance. In order for the call to be successful it is important that you collect and share as much context as possible from all attendees in advance.
-
-Also make sure you have a detailed agenda set at least 24 hours before the call that is shared with both the customer and the Product team.
-
-Take the following steps to ensure an efficient and productive meeting:
-
-### Collecting Customer Context
+### Collect Customer Context
 
 In advance to the product call, have a conversation with the customer about expectations and their background.
 
-Ask the following questions as applicable:
+Ask the following questions, as applicable:
 
    - What features and/or functionality do they want to discuss?
    - How familiar are they with those features and/or functionality?
@@ -244,23 +236,12 @@ Ask the following questions as applicable:
    - Are they more interested in an overview of the functionality that already exists or in future roadmap functionality?
    - What are their goals for this call?
 
-### Prep the PM
+### Contact the Appropriate PM
 
-Once you have the context from the customer, share it with Product as soon as possible, so they have the appropriate background going into the call.
+It is best practice to ask for a PM to join your call through the slack channel for their [group or category](/handbook/product/categories/#devops-stages). Direct messages are problematic because it is hard to loop in other PMs if the right person for the call is not included in the DM, and it limits visibility into topics that may be discussed. If you are unsure about the right group to reach out to, you can ask in the general [#product](https://gitlab.slack.com/archives/C0NFPSFA8) channel.
 
-Ideally, provide them as much of the following details as possible:
+It is important that the PM have as much information and context as possible in advance of the call. Fill out the [PM Customer Meeting Briefing Document](https://docs.google.com/document/d/1TPJwjJTOrlrtuJ_srs631ndL6dkiwl9yIi3PPtgStos/edit#heading=h.sujaka5bd7jl) and share with the PM well in advance of the meeting. In addition, make sure you have a detailed agenda set at least 24 hours before the call that is shared with both the customer and the Product team.
 
-   - Are they Ultimate, Premium, or Free users?
-   - Do they have SaaS or self-managed, and if self-managed what version are they on?
-   - One-sentence summary of customer health
-   - Link to the running customer meeting notes Google doc
-   - Who will be attending the call and their role/persona
-   - What do they want to talk about?
-   - List of specific questions the customer has
-   - Do they want a forward-looking roadmap?
-   - Are they interested in specific issues/topics?
-   - What are they trying to accomplish on the call?
-   - What is their general attitude?  Are they friendly, curious, frustrated, or angry?
 
 ### EBR Preparation
 
