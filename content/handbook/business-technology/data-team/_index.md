@@ -242,7 +242,7 @@ You can tag the Data Team in GitLab using:
     - [Data Infrastructure](/handbook/business-technology/data-team/platform/infrastructure/)
     - [Data Champion](/handbook/business-technology/data-team/direction/data-champion/)
     - [Data Onboarding](/handbook/business-technology/data-team/programs/#data-onboarding)
-    - [Data for Finance](/handbook/business-technology/data-team/programs/data-for-finance/)
+
     - [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/)
     - [Data Quality](/handbook/business-technology/data-team/data-quality/)
     - [Data Services](/handbook/business-technology/data-team/data-service/)
