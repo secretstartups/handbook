@@ -67,7 +67,7 @@ Validation issues should be tagged based on the severity recommended by the thir
 
 ### 4. Remediation
 
-Remediation is the part of the process in which a validated findings is fixed. [SLAs]({{< ref "vulnerability-management#remediation-slas" >}}) are in place to help prioritize findings based on severity. The remediation SLA timeframes begin as soon as a finding is formally communicated and reported by the third-party pen testing. Once a finding is remediated, the third-party pen testing will validate that the finding is indeed remediated.
+Remediation is the part of the process in which a validated findings is fixed. [SLAs]({{< ref "./threat-management/vulnerability-management#remediation-slas" >}}) are in place to help prioritize findings based on severity. The remediation SLA timeframes begin as soon as a finding is formally communicated and reported by the third-party pen testing. Once a finding is remediated, the third-party pen testing will validate that the finding is indeed remediated.
 
 ## Exceptions
 
