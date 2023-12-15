@@ -79,4 +79,4 @@ description: >-
 
 ## Edit This Page
 
-Do you have an addition or an update you'd like to make? Open an [MR] to this page and tag [Natalie Pinto](https://gitlab.com/natalie.pinto) for review and merge.
+Do you have an addition or an update you'd like to make? Open an [MR] to this page and tag this page's code owner [Natalie Pinto](https://gitlab.com/natalie.pinto) for review and merge.
