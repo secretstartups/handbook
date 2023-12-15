@@ -168,28 +168,27 @@ Contributing to GitLab's Data Platform is easy and using the platform is intuiti
 * Documentation is complete and relevant for users and contributors
 * All data transformations are implemented in dbt
 * CI/CD is seamless, intuitive, automated for constributors and reviewers
+* Data state is derivative from sources and transformations
+* Data pipelines are idempotent 
 
 ### Is Reliable 
 The data plaform along with the data it delivers is consitent in availability and accuracy
 
-<!-- data in the warehouse is derivative and is maintained and updated through idempotent operations -->
-<!-- business critical assets should be supported by adequate testing -->
-<!-- The platform should be defined in code -->
-<!-- > Everything can and should be defined in code and version controlled -->
-<!-- > Automated tests are the best tests and we implement tests at every step of the data delivery process -->
-<!-- > Data implementations should integrate best practices from DevOps into their workflow -->
+* All breaking changes are testable in Dev and/or Staging Environments
+* Automated tests are implemented at every stage of the data delivery process
+* Every component of the platform can and should be defined in code and version controlled
 
 ### Is Secure
 The Data Platform doesn't put people at risk
 
-<!-- sensitive data is only available to those with authorized use -->
+* Data is only accisible to those authorized by documented approvals
 
 ### Benefits a Larger Community
-GitLab's Data Platform is relevant to a community larger than GitLab's
+GitLab's Data Platform is relevant to a community larger than GitLab's and depends on a larger community of engineers.
 
-<!-- we prefer specifications and standards to idiosyncratic custom development -->
-<!-- We are not the only data team and are part of a larger community of engineers and analysts -->
-<!-- > Open source our code, keeping data security and data sensitivity in mind -->
+* Platform code is open sourced
+* Platform enhancements are contributed back inro to community projects
+* we prefer generalizable specifications and standards over idiosyncratic custom development
 
 ### Data Platform FY25 initiatives
 
