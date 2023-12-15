@@ -117,6 +117,8 @@ Any active, regular, full-time team member working a minimum of 30 hours per wee
 
 Note: If you and an eligible dependent (as defined above) are both employed by GitLab, you may only be covered by GitLab’s coverage once. This also applies to enrolling in either your own supplemental life insurance or supplemental spouse/dependent life insurance through your dependent who is employed by GitLab, but not both.
 
+A domestic partnership is an arrangement in which two people live together and are in a committed relationship without being legally married. Domestic partnerships are composed of two people of any gender, which includes male, female, or nonbinary people. If you have recently entered in to a Domestic Partnership, or your Domestic Partner goes through a Qualifying Life Event, you may add them to the GitLab plans as outlined in the instructions below. During the documentation step, you will be asked to fill out and submit a [Domestic Partner Affidavit](https://drive.google.com/file/d/11cV-WXJXu8G626muav2aJvpYS4CMleeE/view?usp=sharing) in to PlanSource. If you are adding your Domestic Partner during New Hire Enrollment or Open Enrollment, there is no need to fill out the Domestic Partnership Affidavit.
+
 #### Qualifying Life Events
 
 Due to IRS guidelines, you cannot make changes to your health insurance benefits outside of GitLab's annual open enrollment period unless you experience a [Qualifying Life Event](https://www.healthcare.gov/glossary/qualifying-life-event/).
