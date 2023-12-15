@@ -20,6 +20,10 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **[Clari Feature Updates](https://clari.my.site.com/customer/s/article/Deal-Risk-Momentum-Indicators)**
 
+**[Customer Reminders to Link SaaS Subscriptions](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/6283)**
+
+**[Ultimate trials for SaaS Premium Customers](https://internal.gitlab.com/handbook/product/fulfillment/saas-ultimate-trials/)**
+
 
 ### 2023-12-04 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/424))
 
