@@ -117,7 +117,7 @@ Team members should [open an issue](https://gitlab.com/gitlab-com/team-member-ep
 using the `GitLab_Team_Member_License_request` template. In the issue, request for a license that is valid for a year, and provide "Developer on-boarding"
 as the reason for a longer expiration.
 
-Wider community members should contact the [Contributor Success Team](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#contributing-to-the-gitlab-enterprise-edition-ee).
+Wider community members should contact the [Contributor Success Team](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows#contributing-to-the-gitlab-enterprise-edition-ee).
 
 [Learn more about working with licensing and subscriptions internally.](/handbook/support/internal-support/)
 
