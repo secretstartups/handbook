@@ -1,23 +1,23 @@
 # Source system / application / data pipeline name
 
 Source system: Tableau Cloud
-Specicif Site: https://10az.online.tableau.com/#/site/gitlab/home
-Pipline: [Extract Admin Insights Data](https://10az.online.tableau.com/#/site/gitlab/flows/269529/overview)
+Specific Site: https://10az.online.tableau.com/#/site/gitlab/home
+Pipeline: [Extract Admin Insights Data](https://10az.online.tableau.com/#/site/gitlab/flows/269529/overview)
 
 ## Business Use Case (Please explain what this data will be used for):
 
-The data extracted in the this pipline is used to monitor and report on Tableau adoption and activiey.  Specificly using the event logs to deermin the monthly active users for the Tableau Cloud BI tool.  Additionaly the data data extracted is used to report on and monitor the content that users have access to.
+The data extracted in the this pipeline is used to monitor and report on Tableau adoption and activity.  Specifically using the event logs to determine the monthly active users for the Tableau Cloud BI tool.  Additionally the data data extracted is used to report on and monitor the content that users have access to.
  
 ## Data Categorization
 
-| Data Classficiation | MNPI | Sensitive data | 
+| Data Classification | MNPI | Sensitive data | 
 | ------------------- | ---- | -------------- |
 | `Yellow` | `No` | `No` |
 
 ### Data information 
 
 * How often does the data need to be refreshed? 
-  - Data is extqacted one a day
+  - Data is extracted one a day
 * SLA Description: 
   - 24 hours to Snowflake
 * Severity in case of an incident
@@ -49,7 +49,11 @@ The data from a Tableau Cloud site is extracted using a Flow on the site itself.
 
 ## Accessing the Pipeline
 
-Access to the Tableau Cloud and the pipeline is through the service account set up through the `Tableau` credentials found in 1Password.
+Access to the Tableau Cloud and the pipeline is through the service account set up through the `Tableau` credentials found in 1Password.  If the user already has a Tableau role based license they may need to login using an incognito window to have the option to use the service account credentials.  When using the service account the Flow should be accessed through the [Tableau Cloud site](https://10az.online.tableau.com/#/site/gitlab/home).  The Flow can be found in the [Resources/General](https://10az.online.tableau.com/#/site/gitlab/projects/367720) project or by searching for the name of the Flow.
+
+After navigating to the Flow the steps of the flow can be observed or triggered from the `Overview` tab.  Tasks can be scheduled or updated on the `Schedule Task` tab and the history if the scheduled tasks can be observed on the `Run History` tab.  To edit the Flow in Tableau Cloud select the `Edit Flow` button top open the editor in a new tab.
+
+Flows are construed through steps and actions added to the canvas.  Selecting an existing step will show actions taken in that step and a sample of what the data looks like as a result of the step.  New steps can be added by selecting the `+` icon next to an existing step or connection. More information on how to use Flows can be found on the [Tableau Prep Getting Started](https://www.tableau.com/learn/get-started/prep) page.
 
 ### Source Data Types
 
