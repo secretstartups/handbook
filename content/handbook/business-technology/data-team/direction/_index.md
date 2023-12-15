@@ -159,64 +159,43 @@ We have not yet defined criteria for measuring long-term progress.
 1. `Monthly` Number of active Self-Service SQL Developers
 1. `Monthly` % of Dashboard Traffic From User Generated Content
 
-## A Complete Enterprise Data Platform
+## A Visionary Data Platform
+These ambitions are set to be a guiding vision for GitLab's data platform. 
 
-The following table represents capabilities of a mature Enterprise Data Platform which can solve for the wide range of data and analytics needed by a large business. Not all capabilities listed are required to meet GitLab's short-term needs or known long-term needs. The decision to implement a given capability will be driven by a clear business need and the final result may differ significantly from the reference example.
+### Makes it Easier to Contribute
+Contributing to GitLab's Data Platform is easy and using the platform is intuitive
 
-|                                                                                                                               |                                                                                                    |                                                                                                     |
-| ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [Data Architecture](https://en.wikipedia.org/wiki/Data_architecture)                                                          | [Data Security](https://en.wikipedia.org/wiki/Data_security)                                       | [Data Quality](https://en.wikipedia.org/wiki/Data_quality)                                          |
-| [Descriptive](https://www.kdnuggets.com/2017/07/4-types-data-analytics.html)                                                  | [Diagnostic](https://www.kdnuggets.com/2017/07/4-types-data-analytics.html)                        | [Advanced Analytics](https://www.gartner.com/en/information-technology/glossary/advanced-analytics) |
-| [Reporting](https://en.wikipedia.org/wiki/Report)                                                                             | [Dashboarding](https://www.microstrategy.com/us/resources/introductory-guides/business-dashboards) | [Self-Service](https://www.gartner.com/en/information-technology/glossary/self-service-analytics)               |
-| [Operational Data Store](https://en.wikipedia.org/wiki/Operational_data_store)                                                | [Data Warehouse](https://en.wikipedia.org/wiki/Data_warehouse)                                     | [Data Lake](https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/)           |
-| [Data Model Standards](https://en.wikipedia.org/wiki/Data_modeling)                                                           | [Enterprise Dimensional Model](https://en.wikipedia.org/wiki/Dimensional_modeling)                 | [Data Marts](https://en.wikipedia.org/wiki/Data_mart)                                              |
-| [Reference Data Management](https://en.wikipedia.org/wiki/Reference_data)                                                     | [Data Enrichment](https://www.redpointglobal.com/blog/what-is-data-enrichment)                     | [Master Data Management](https://en.wikipedia.org/wiki/Master_data)                                 |
-| [Data Pipeline](https://www.alooma.com/blog/what-is-a-data-pipeline)                                                          | [Data Transformation](https://en.wikipedia.org/wiki/Data_transformation)                           | [Real-Time Data](https://en.wikipedia.org/wiki/Real-time_data)                                      |
-| [Data Exports](https://www.qualtrics.com/support/survey-platform/data-and-analysis-module/data/download-data/export-formats/) | [Data Publishing](https://en.wikipedia.org/wiki/Open_data)                                         | [Data Products](https://hbr.org/2018/10/how-to-build-great-data-products)                           |
-| [Data Taxonomy](https://www.nielsen.com/us/en/insights/resource/2019/why-you-need-a-data-taxonomy/)                           | [Data Catalog](https://www.alation.com/blog/what-is-a-data-catalog/)                               | [Data Portal](https://dataportals.org/)                                                             |
+* Documentation is complete and relevant for users and contributors
+* All data transformations are implemented in dbt
+* CI/CD is seamless, intuitive, automated for constributors and reviewers
 
-### Data Platform FY23 initiatives
+### Is Reliable 
+The data plaform along with the data it delivers is consitent in availability and accuracy
 
-The following sections describe the Data Platform FY23 initiatives.
+<!-- data in the warehouse is derivative and is maintained and updated through idempotent operations -->
+<!-- business critical assets should be supported by adequate testing -->
+<!-- The platform should be defined in code -->
+<!-- > Everything can and should be defined in code and version controlled -->
+<!-- > Automated tests are the best tests and we implement tests at every step of the data delivery process -->
+<!-- > Data implementations should integrate best practices from DevOps into their workflow -->
 
-#### Data Observability
+### Is Secure
+The Data Platform doesn't put people at risk
 
-Data is landed from different source systems in the `raw` data layer and processed/transformed in the `prep` and `prod` before it becomes available to business users via Sisense, data pumps, queryable in Snowflake and other ways. All transformations are performed by dbt. All the data that is in `raw` changes over time, because data is changed in the source systems and therefore also needs to be processed downstream towards the `prep` and `prod` layer.
+<!-- sensitive data is only available to those with authorized use -->
 
-```mermaid
-graph LR
-   A[Source A]
-   B[Source B]
-   C[Source C]
-   RAW[Raw]
-   PREP[Prep]
-   PROD[Prod]
-   A-->RAW
-   B-->RAW
-   C-->RAW
-   RAW-->PREP
-   PREP-->PROD
-```
+### Benefits a Larger Community
+GitLab's Data Platform is relevant to a community larger than GitLab's
 
-Currently there are about 35 [source systems](/handbook/business-technology/data-team/platform/#data-sources) extracted:
-- Data is landed in 1900 different tables
-- There are over 1700 dbt models
-- Multiple different end points (including i.e. Sisense, Data Pump, Data Spigot, Qualtrics, Snowflake GUI)
+<!-- we prefer specifications and standards to idiosyncratic custom development -->
+<!-- We are not the only data team and are part of a larger community of engineers and analysts -->
+<!-- > Open source our code, keeping data security and data sensitivity in mind -->
 
-Currently there is monitoring available to check failures in the process, from extracting until making it available for the different end points. This is done via our [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf) with by default monitors in [Monte-Carlo](/handbook/business-technology/data-team/platform/monte-carlo/), defined tests in [dbt](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) and monitored in our [triage](/handbook/business-technology/data-team/how-we-work/triage/) process.
+### Data Platform FY25 initiatives
 
-Data observability is a methodology to actively monitor data sets inside a data platform for the existing health status. When the data is healthy, data is trusted and can be used in the decision making process, without facing the risk of making a decision on the wrong information.
+The following sections describe the Data Platform FY25 initiatives.
 
-In FY23-Q2 the Data Platform team implemented the Data Observability tool [Monte-Carlo](https://www.montecarlodata.com/).
-
-- It helps us to find anomalies that we are not actively searching for (find the unknown).
-- It reduces costs of implementing new tests.
-- It reduces false positives and false negatives.
-- It gives a clear overview which we can communicate with business stakeholders -> impact for them.
-
-In FY23, the Data Team will continue the implementation by creating new monitors in Monte-Carlo. Migrating existing tests out of dbt towards Monte-Carlo is not on the roadmap, because;
-- the Data Team needs to mature in Monte-Carlo,
-- monitor as a code is not implemented.
+_coming soon_
 
 ## Data Value Pyramid
 
