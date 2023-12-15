@@ -1038,7 +1038,7 @@ Closing the Deal:
 1. At the time of deal closure, Order Management will adjust the Start Date on the Quote and Opportunity as per the [Bookings Policy](/handbook/sales/field-operations/order-processing/#bookings-policy) applicable to new subscriptions. **Order Management will also update the price to reflect the margin taken by AWS. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
 1. Note that the AWS account is permanently set to silent, and no invoices created will go to AWS.
 1. If the customer purchases Self-Managed, the license key file will automatically be sent to the 'Sold To' contact from the quote. If the customer purchases SaaS, the subscription will automatically be sent/updated for use at time of booking. Note: SaaS subscriptions purchased through AWS (or any reseller) will typically require support intervention because end-users do not have access to the customer portal. GitLab support includes a message in the purchase email that instructs users to contact support via a ticket for assistance.
-ACTION: Opportunity Owner: Confirm the customer receives the license within 2 days of oppty closed-won. If the customer has not received license details, open an issue: [GitLab Support Request](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) and use the template for License Key or SaaS Subscription.
+ACTION: Opportunity Owner: Confirm the customer receives the license within 2 days of oppty closed-won. If the customer has not received license details, open an issue: [GitLab Support Request](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) and use either the **GitLab Support Internal Requests for Global customers** or **GitLab Support Internal Requests for Federal customers** request option, then select the appropriate internal request type, either for SaaS or Self-Managed.
 1. Billing will create the invoice in Zuora and apply cash once received.
 
 </details>
@@ -1074,7 +1074,7 @@ Closing the Deal:
 1. At the time of deal closure, Order Management will adjust the Start Date on the Quote and Opportunity to match the transaction date (date of transaction email receipt). **Order Management will also update your price to reflect the margin taken by GCP. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
 1. Note that the GCP account is permanently set to silent, and no invoices created will go to GCP.
 1. If the customer purchases Self-Managed, the license key file will automatically be sent to the 'Sold To' contact from the quote. If the customer purchases SaaS, the subscription will automatically be sent/updated for use at time of booking. Note: SaaS subscriptions purchased through GCP (or any reseller) will typically require support intervention because end-users do not have access to the customer portal. GitLab support includes a message in the purchase email that instructs users to contact support via a ticket for assistance.
-ACTION: Opportunity Owner: Confirm the customer receives the license within 2 days of oppty closed-won. If the customer has not received license details, open an issue: [GitLab Support Request](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) and use the template for License Key or SaaS Subscription.
+ACTION: Opportunity Owner: Confirm the customer receives the license within 2 days of oppty closed-won. If the customer has not received license details, open an issue: [GitLab Support Request](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) and use either the **GitLab Support Internal Requests for Global customers** or **GitLab Support Internal Requests for Federal customers** request option, then select the appropriate internal request type, either for SaaS or Self-Managed.
 1. Billing will create the invoice in Zuora and apply cash once received.
 
 </details>
@@ -1103,7 +1103,7 @@ Example Opportunity: https://gitlab.my.salesforce.com/0064M00000ZFzVI
 2. Note that the IBM (OEM) account is permanently set to silent, and no invoices created will go to IBM.
 3. License keys will NOT be sent automatically upon deal Closure. Instead, a Customer Support Issue must be opened to ensure the license for the deal is delivered to IBM Ecosystem Project Office immediately after deal closure.
   - Closed Won notifications will be made in the ibm-oem-closed-won Slack channel.
-  - After receiving the Closed Won notification, Alliance Operations should open a [GitLab Support Request](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) to ensure license key delivery.
+  - After receiving the Closed Won notification, Alliance Operations should open a [GitLab Support Request](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) and use either the **GitLab Support Internal Requests for Global customers** or **GitLab Support Internal Requests for Federal customers** request option, then select the appropriate internal request type, either for SaaS or Self-Managed, to ensure license key delivery.
 4. Billing will create the invoice in Zuora and apply cash once received.
 
 </details>
@@ -1358,7 +1358,7 @@ Check out our [License & Renewal Workflows page](/handbook/support/license-and-r
 
 On this page you can find answers to some of the most common questions/errors:
 
-- The License file was sent to the wrong contact - you'll need to open an issue for this [here](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/)
+- The License file was sent to the wrong contact - you'll need to open an issue for this [here](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) and use either the **GitLab Support Internal Requests for Global customers** or **GitLab Support Internal Requests for Federal customers** request option, then select the appropriate internal request type, either for SaaS or Self-Managed
 - The license file does cover the right number of users, or there were trueups that were unaccounted for
 - How to resend a License File
 
