@@ -160,7 +160,7 @@ Below is an example of the formatting:
 
 ## How the UX Research team handles scheduling Paid Time Off (PTO)
 
-Since the UX Research team works so closely with their stage groups and participants, it's important to have a plan in place when they're on PTO to keep research projects moving along - even when they're taking time off. Such an approach allows us to support each other, as a team.  The following steps outline the process the UX Research team follows, regarding PTO:
+Since the UX Research team works so closely with their stage groups and participants, it's important to have a plan in place when we're on PTO to keep research projects moving along - even when we're taking time off. Such an approach allows us to support each other, as a team.  The following steps outline the process the UX Research team follows, regarding PTO:
 
 1. Enter the PTO dates in _Time Off by Deel_ **and** within the [UXR team availability calendar](https://docs.google.com/spreadsheets/d/1lU8DeJmXNkUZm-zQVFrirthZyZz2lBIVQ8Z_RVVRj9g/edit#gid=0) (internal link). When documenting your time in Deel, assign auto-replies to the `#ux_research_lounge` Slack channel or to your manager.
 2. Note any overlapping PTO dates with other team members. This is ok - as long as there isn't a business impact.
