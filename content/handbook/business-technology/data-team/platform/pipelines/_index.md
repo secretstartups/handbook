@@ -426,7 +426,7 @@ Current Metrics Available
 
 ## Tableau Cloud
 
-Tableau Cloud data is processed using tools found within Tableau Cloud: Flows and Admin Insites datasource.  The full details of the pipeline can be found on the [Tableau Cloud](/handbook/business-technology/data-team/platform/pipelines/tableau-cloud/) page.
+Tableau Cloud data is processed using tools found within Tableau Cloud: [Flows](https://help.tableau.com/current/prep/en-us/prep_build_flow.htm) and [Admin Insites](https://10az.online.tableau.com/#/site/gitlab/projects/246491) datasource.  The full details of the pipeline can be found on the [Tableau Cloud](/handbook/business-technology/data-team/platform/pipelines/tableau-cloud/) page.
 
 ## Zuora API Sandbox
 

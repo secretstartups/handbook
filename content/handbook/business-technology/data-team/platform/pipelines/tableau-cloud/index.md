@@ -7,6 +7,12 @@ Pipeline: [Extract Admin Insights Data](https://10az.online.tableau.com/#/site/g
 ## Business Use Case (Please explain what this data will be used for):
 
 The data extracted in the this pipeline is used to monitor and report on Tableau adoption and activity.  Specifically using the event logs to determine the monthly active users for the Tableau Cloud BI tool.  Additionally the data data extracted is used to report on and monitor the content that users have access to.
+
+- [TS Events](https://10az.online.tableau.com/#/site/gitlab/datasources/54070374/):  Used for activity and user adoption reporting.
+- [Groups](https://10az.online.tableau.com/#/site/gitlab/datasources/54082695/): Used for content and permission management reporting.
+- [TS Users](https://10az.online.tableau.com/#/site/gitlab/datasources/54073414/): Used for content, permission management, and adoption reporting.
+- [Permissions](https://10az.online.tableau.com/#/site/gitlab/datasources/54079266/): Used for content, permission management, and adoption reporting.
+- [Site Content](https://10az.online.tableau.com/#/site/gitlab/datasources/54076951/): Used for content, activity, and adoption reporting.
  
 ## Data Categorization
 
@@ -49,15 +55,22 @@ The data from a Tableau Cloud site is extracted using a Flow on the site itself.
 
 ## Accessing the Pipeline
 
-Access to the Tableau Cloud and the pipeline is through the service account set up through the `Tableau` credentials found in 1Password.  If the user already has a Tableau role based license they may need to login using an incognito window to have the option to use the service account credentials.  When using the service account the Flow should be accessed through the [Tableau Cloud site](https://10az.online.tableau.com/#/site/gitlab/home).  The Flow can be found in the [Resources/General](https://10az.online.tableau.com/#/site/gitlab/projects/367720) project or by searching for the name of the Flow.
+Access to the Tableau Cloud and the pipeline is through the service account set up through the `Tableau` credentials found in 1Password.  If the user already has a Tableau role based license they may need to login using an incognito window to have the option to use the service account credentials.  When using the service account the Flow should be accessed through the [Tableau Cloud site](https://10az.online.tableau.com/#/site/gitlab/home).  
 
-After navigating to the Flow the steps of the flow can be observed or triggered from the `Overview` tab.  Tasks can be scheduled or updated on the `Schedule Task` tab and the history if the scheduled tasks can be observed on the `Run History` tab.  To edit the Flow in Tableau Cloud select the `Edit Flow` button top open the editor in a new tab.
+The Flow can be found in the [Resources/General](https://10az.online.tableau.com/#/site/gitlab/projects/367720) project, specifically by going to `Content Type` dropdown and selecting `Flows`.  Alternatively, by searching for the name of the Flow, i.e `Extract Admin Insights Data`.
+
+After navigating to the Flow the steps of the flow can be observed or triggered from the `Overview` tab.  Tasks can be scheduled or updated on the `Schedule Task` tab and the history if the scheduled tasks can be observed on the `Run History` tab.  To edit the Flow in Tableau Cloud select the `Edit Flow` button to open the editor in a new tab.
 
 Flows are construed through steps and actions added to the canvas.  Selecting an existing step will show actions taken in that step and a sample of what the data looks like as a result of the step.  New steps can be added by selecting the `+` icon next to an existing step or connection. More information on how to use Flows can be found on the [Tableau Prep Getting Started](https://www.tableau.com/learn/get-started/prep) page.
 
+In order to select the correct output tables when creating an output the schema and table must already exists on the database.
+
 ### Source Data Types
 
-There are two general types of data extracted from the source system and each are processes slightly differently.  The first is a rolling event log that contains historical events for a fixed number of days, 90 days with our current licensing with Tableau, and the second is a snapshot of the current state of the site.  An extraction date should be added to each source for tracking and consistency.  The event log data should be loaded incrementally to the RAW database using the excising table as a reference for what should be loaded:
+There are two general types of data extracted from the source system and each are processes slightly differently.  The first is a rolling event log that contains historical events for a fixed number of days, 90 days with our current licensing with Tableau, and the second is a current state snapshot of the site. An extraction date should be added to each source for tracking and consistency. 
+
+#### Event Log
+The event log data should be loaded incrementally to the RAW database using the excising table as a reference for what should be loaded:
 
 ```mermaid
 
@@ -76,7 +89,9 @@ flowchart LR
 
 ```
 
-And the snapshot data should be loaded into the RAW database replacing the any data that already excising in the database.
+#### Current State Snapshot
+
+And the current state snapshot data should be loaded into the RAW database replacing the any data that already excising in the database.
 
 
 ```mermaid
@@ -91,7 +106,7 @@ flowchart LR
 
 ```
 
-In order to select the correct output tables the schema and table must already exists on the database.
+
 
 ### Scheduling
 
