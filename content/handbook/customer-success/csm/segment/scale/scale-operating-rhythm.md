@@ -101,7 +101,7 @@ Account owners (AEs, SAEs, Renewals Managers) working with customers that [quali
 
 This brief screencast demonstrates how to reveal the CSE Help button when on an account page in Salesforce:
 
-![example-clip-demonstrating-scale-cse-request-sfdc](/images/handbook/customer-success/cse-help.gif)
+![example-clip-demonstrating-scale-cse-request-sfdc](/handbook/customer-success/csm/segment/scale/cse-help.gif)
 
 #### Requesting Scale CSE Engagement (Account Owners only - AEs, SAEs)
 
