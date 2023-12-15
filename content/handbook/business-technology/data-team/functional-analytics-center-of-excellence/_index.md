@@ -89,7 +89,7 @@ We will collect sign ups and coordinate meeting schedules & facilitators in this
 
 At times, presentations will contain data that is considered [SAFE](https://handbook.gitlab.com/handbook/legal/safe-framework/#safe). If this is the case it is important to take the following into considerations:
 
-- Is everyone present able to see SAFE data? If the answer is no then it would probably be best to not share the visuals or create "mock data" that can be used for demonstration purposes.
+- Is everyone present able to see SAFE data? If the answer is no then it would be best to not share the visuals or create "mock data" that can be used for demonstration purposes.
 - Is this being recorded? Our sessions are often recorded, and even if everyone present can view SAFE data, the data can not be recorded as the recordings are shared with a wider audience. Best to stop the recording before sharing screens with the SAFE data in view.
 
 ## Working With Us
