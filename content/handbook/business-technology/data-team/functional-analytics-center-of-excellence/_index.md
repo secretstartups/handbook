@@ -49,7 +49,16 @@ The [central data team](/handbook/business-technology/data-team/) serves as the 
 - **Peer Review + Assumptions Approval**: as a part of the quarterly projects, we will establish a code peer review and assumptions approval process that will ensure we will all be enthusiastic adopters of the ultimate output.
 - **Code Repo**: after a project has gone through the peer review and assumptions approval process, we will commit it to a repo that any data person can leverage in their work.
 
+## Examples: what are the types problems the FACE tackles?
+
+- How do free and trial sign-ups convert?
+- How do we link namespaces to Salesforce accounts?
+- How do we link leads/INQ to Salesforce accounts?
+- How do we identify business emails v. junk account emails?
+
 ## Turn and Share Meetings
+
+In line with our [Collaboration](https://handbook.gitlab.com/handbook/values/#collaboration) value, **Turn & Share** sessions are a way for us to share our work with other analysts (or anyone at GitLab who is interested). These sessions began in October of 2023. More details on these sessions are outlined below:
 
 **Overall Goal**: 
 Encourage each of the analytic teams at GitLab to reach out to each other for data resources and ideas on how to solve reporting, statistical, and data science problems of various complexity levels.
@@ -76,13 +85,12 @@ We will collect sign ups and coordinate meeting schedules & facilitators in this
 - **Recordings**: 
   - Meeting recordings are appended to the agenda post-session.
 
-## Examples: what are the types problems the FACE tackles?
+### Presenting SAFE Data
 
-- How do free and trial sign-ups convert?
-- How do we link namespaces to Salesforce accounts?
-- How do we link leads/INQ to Salesforce accounts?
-- How do we identify business emails v. junk account emails?
+At times, presentations will contain data that is considered [SAFE](https://handbook.gitlab.com/handbook/legal/safe-framework/#safe). If this is the case it is important to take the following into considerations:
 
+- Is everyone present able to see SAFE data? If the answer is no then it would probably be best to not share the visuals or create "mock data" that can be used for demonstration purposes.
+- Is this being recorded? Our sessions are often recorded, and even if everyone present can view SAFE data, the data can not be recorded as the recordings are shared with a wider audience. Best to stop the recording before sharing screens with the SAFE data in view.
 
 ## Working With Us
 
