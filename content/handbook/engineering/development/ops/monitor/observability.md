@@ -1,16 +1,7 @@
 ---
-
 title: "Monitor:Observability Group"
 description: "The Observability group is responsible for the Observability of the DevOps lifecycle."
 ---
-
-
-
-
-
-
-
-
 
 ## Monitor:Observability
 
@@ -77,13 +68,9 @@ Updates and highlights from all teams in Ops are collected automatically [here](
 ### Meetings
 
 - Weekly Meetings: These are focused on organizing ongoing work or specific efforts such as rollout-outs or bigger initiatives.
-
 - Bi-weekly Cross-functional meeting: This weekly meeting is focused on aligning the EM, PM, Principal Engineer, Developer Advocate, and UX on cross-functional objectives. Goals are set and weekly status is communicated.
-
 - Bi-monthly social hour: This meeting is non-work related and helps team socialize and get to know each other better.
-
 - Team member coffee chats: Each team member should schedule a coffee chat with all other team members rough every 4-6 weeks. Feel free to discuss work or non-work topics. If timezones are an issue find another way to connect, such as a async slack thread to checkin. The goal is to get to know your other team members on a 1:1 basis.
-
 - Dev Syncs: These are developer-organized sync meetings where ICs can meet and discuss technical issues or organize technical work amongst themselves without requiring the presence of a EM.
 
 ### Communication
@@ -128,13 +115,13 @@ For some projects, we require a [cleanroom development process](https://en.wikip
 
 ## Team members
 
-<%= direct_team(manager_role: 'Engineering Manager, Monitor:Observability') %>
+{{< team-by-manager-role "Engineering Manager(.*)Monitor:Observability" >}}
 
 ## Stable counterparts
 
-<%= stable_counterparts(role_regexp: /(?<!:)Monitor(?!:Respond)/, direct_manager_role: 'Engineering Manager, Monitor:Observability') %>
+{{< stable-counterparts manager-role="Engineering Manager(.*)Monitor:Observability" role="Principal(.*)Monitor|Security(.*)Monitor" >}}
 
-## Observability Demos 
+## Observability Demos
 
 To showcase features developed by our team, we have created a number of demos:
 
@@ -147,7 +134,7 @@ To showcase features developed by our team, we have created a number of demos:
 
 ## Technical Architecture
 
-The Observability team is involved in the introduction of several new technologies and technical components to GitLab's tech stack. 
+The Observability team is involved in the introduction of several new technologies and technical components to GitLab's tech stack.
 
 The [GitLab Monitor Stage Product Direction Handbook Page](/direction/monitor/#gitlab--opstrace--on-by-default-observability) has information about the product strategy for integrating GitLab and Opstrace.
 
@@ -158,40 +145,42 @@ We also encourage you to read our [architecture documentation](https://gitlab.co
 Observability and analytics features have big data and insert heavy requirements which are not a good fit for Postgres or Redis.  [ClickHouse](https://github.com/ClickHouse/ClickHouse) was selected as a good fit to meet these features requirements.  ClickHouse is an open-source column-oriented database management system. It is attractive for these use cases because it can efficiently filter, aggregate, and sum across large numbers of rows. ClickHouse is not intended to replace Postgres or Redis in GitLab's stack.
 
 ClickHouse is the backend datastore for these features:
-* [Tracing](https://gitlab.com/gitlab-org/opstrace/opstrace/-/blob/main/docs/architecture/tracing.md)
-* [Error Tracking](https://gitlab.com/gitlab-org/opstrace/opstrace/-/blob/main/docs/architecture/error-tracking.md)
+
+- [Tracing](https://gitlab.com/gitlab-org/opstrace/opstrace/-/blob/main/docs/architecture/tracing.md)
+- [Error Tracking](https://gitlab.com/gitlab-org/opstrace/opstrace/-/blob/main/docs/architecture/error-tracking.md)
 
 ClickHouse is planned as the data backend for:
-* [Metrics](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/103747) 
+
+- [Metrics](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/103747)
 
 #### How are we currently using ClickHouse?
 
-* Our Integrated Error Tracking feature stores all errors in a [ClickHouse database deployed on GKE](https://gitlab.com/gitlab-org/opstrace/opstrace/-/blob/main/docs/architecture/error-tracking.md). This feature is in Beta.
-* Our [Tracing feature store traces in the same ClickHouse database](https://gitlab.com/gitlab-org/opstrace/opstrace/-/blob/main/docs/architecture/tracing.md). We maintain a [fork of the jaeger-clickhouse plugin](https://gitlab.com/gitlab-org/opstrace/jaeger-clickhouse) to achieve this. This feature is being dogfooded internally.
-* ClickHouse will be the core data storage solution for [our new Metrics feature](https://gitlab.com/gitlab-org/opstrace/opstrace/-/issues/1771). Once the [architectural blueprint](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/103747) is approved, we will begin working on this feature in the subsequent milestones.
-* We also developed our [own ClickHouse Operator](https://gitlab.com/gitlab-org/opstrace/opstrace/-/tree/main/clickhouse-operator#clickhouse-operator).
+- Our Integrated Error Tracking feature stores all errors in a [ClickHouse database deployed on GKE](https://gitlab.com/gitlab-org/opstrace/opstrace/-/blob/main/docs/architecture/error-tracking.md). This feature is in Beta.
+- Our [Tracing feature store traces in the same ClickHouse database](https://gitlab.com/gitlab-org/opstrace/opstrace/-/blob/main/docs/architecture/tracing.md). We maintain a [fork of the jaeger-clickhouse plugin](https://gitlab.com/gitlab-org/opstrace/jaeger-clickhouse) to achieve this. This feature is being dogfooded internally.
+- ClickHouse will be the core data storage solution for [our new Metrics feature](https://gitlab.com/gitlab-org/opstrace/opstrace/-/issues/1771). Once the [architectural blueprint](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/103747) is approved, we will begin working on this feature in the subsequent milestones.
+- We also developed our [own ClickHouse Operator](https://gitlab.com/gitlab-org/opstrace/opstrace/-/tree/main/clickhouse-operator#clickhouse-operator).
 
 #### Current Challenges with ClickHouse
 
-* For our use cases we need to leverage the [S3 backed Disk](https://clickhouse.com/docs/en/guides/sre/configuring-s3-for-clickhouse-use) for high scalability. Long term we have identified this as a must. Storage in S3 is currently only available on AWS. Though it was scheduled to be available within GCP several months ago by ClickHouse Inc, the timelines have now changed significantly which requires us to migrate to AWS. 
-* ClickHouse requires a large amount of memory to run. The recommendation is a minimum of 16-32Gb for a small development instance and 64Gb-128Gb for a production instance. This leads to interesting questions about our goal for a self-hosted Observability solution. 
-  * [https://clickhouse.com/docs/en/operations/tips/#ram](https://clickhouse.com/docs/en/operations/tips/#ram)
-  * [https://kb.altinity.com/altinity-kb-setup-and-maintenance/cluster-production-configuration-guide/hardware-requirements/#clickhouse](https://kb.altinity.com/altinity-kb-setup-and-maintenance/cluster-production-configuration-guide/hardware-requirements/#clickhouse)
-* ClickHouse requires a highly efficient, scalable and robust ingestion process, to handle high volumes of inserts, as a result we are [proposing to refactor our ingestion process](https://gitlab.com/gitlab-org/opstrace/opstrace/-/issues/1878) which may add complexity to the system.
+- For our use cases we need to leverage the [S3 backed Disk](https://clickhouse.com/docs/en/guides/sre/configuring-s3-for-clickhouse-use) for high scalability. Long term we have identified this as a must. Storage in S3 is currently only available on AWS. Though it was scheduled to be available within GCP several months ago by ClickHouse Inc, the timelines have now changed significantly which requires us to migrate to AWS.
+- ClickHouse requires a large amount of memory to run. The recommendation is a minimum of 16-32Gb for a small development instance and 64Gb-128Gb for a production instance. This leads to interesting questions about our goal for a self-hosted Observability solution.
+  - [https://clickhouse.com/docs/en/operations/tips/#ram](https://clickhouse.com/docs/en/operations/tips/#ram)
+  - [https://kb.altinity.com/altinity-kb-setup-and-maintenance/cluster-production-configuration-guide/hardware-requirements/#clickhouse](https://kb.altinity.com/altinity-kb-setup-and-maintenance/cluster-production-configuration-guide/hardware-requirements/#clickhouse)
+- ClickHouse requires a highly efficient, scalable and robust ingestion process, to handle high volumes of inserts, as a result we are [proposing to refactor our ingestion process](https://gitlab.com/gitlab-org/opstrace/opstrace/-/issues/1878) which may add complexity to the system.
 
 #### How do we work currently with ClickHouse Inc?
-* We have an annual support contract with ClickHouse Inc.
-* There is a dedicated slack channel where we collaborate with them (`#clickhouse-gitlab-external431`)
-* We also meet with them monthly (third Wed of the month)
-* Primarily we get support and feedback around: schema design, scalability/configuration recommendations, and new ClickHouse features we can leverage.
-* For support requests we utilize their support ticketing system:
-  * New support cases are created on [https://clickhouse.cloud/support](https://clickhouse.cloud/support) (requires login to the system)
-  * All support is handled via this support issue tracking
 
+- We have an annual support contract with ClickHouse Inc.
+- There is a dedicated slack channel where we collaborate with them (`#clickhouse-gitlab-external431`)
+- We also meet with them monthly (third Wed of the month)
+- Primarily we get support and feedback around: schema design, scalability/configuration recommendations, and new ClickHouse features we can leverage.
+- For support requests we utilize their support ticketing system:
+  - New support cases are created on [https://clickhouse.cloud/support](https://clickhouse.cloud/support) (requires login to the system)
+  - All support is handled via this support issue tracking
 
 ### ClickHouse Acceleration Borrow Request
 
-We organized and participated in a Borrow Request to help migrate Error Tracking to ClickHouse 
+We organized and participated in a Borrow Request to help migrate Error Tracking to ClickHouse
 
 The timeline for the Borrow Request was April 6 - July 22, 2022
 
@@ -199,7 +188,7 @@ The timeline for the Borrow Request was April 6 - July 22, 2022
 
 - Company-wide interest in Clickhouse as a Analytical DB and Big data solution
 - Deliver a scalable Clickhouse Service that the whole company can leverage
-- Re-enable Error Tracking 
+- Re-enable Error Tracking
 
 Many of the Goals and reasoning is discussed in the [borrow request proposal](https://gitlab.com/gitlab-com/Product/-/issues/3897).
 
@@ -213,14 +202,13 @@ Many of the Goals and reasoning is discussed in the [borrow request proposal](ht
 - [Develop and Rollout a ClickHouse Service](https://gitlab.com/groups/gitlab-org/opstrace/-/epics/27)
 
 ##### Kickoff Meeting
+
 - [Recording](https://gitlab.zoom.us/rec/play/RRhg_7eBY8a-OGDMacTDvYlAWjObATY30HJNpPIW0CgMfUolLs4ofrUcw1HUcZN6dprWR7WSoQqjcLJP.OHmN5OXJKkLqYBC5?continueMode=true)
 - [Agenda](https://docs.google.com/document/d/1096378pYfsF1NRmZttjalrciQejk-Au50K01xfPGyO4/edit)
-
 
 ## Weekly Project Plan for Tracing
 
 Epic: [https://gitlab.com/groups/gitlab-org/opstrace/-/epics/73](https://gitlab.com/groups/gitlab-org/opstrace/-/epics/73)
-
 
 **Week of 2023-10-23**
 
@@ -239,20 +227,12 @@ Epic: [https://gitlab.com/groups/gitlab-org/opstrace/-/epics/73](https://gitlab.
 
 - [ClickHouse Cloud Migration completed](https://gitlab.com/groups/gitlab-org/opstrace/-/epics/82)
 
-
 **Week of 2023-11-27**
 
 **Week of 2023-12-04**
 
 - [Accepted Production readiness review for Tracing](https://gitlab.com/gitlab-com/gl-infra/readiness/-/issues/91)
 
-
-
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Observability" } %>
-
-
-
-
-
+{{% cross-functional-dashboards filters="Observability" %}}

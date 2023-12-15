@@ -1,14 +1,7 @@
 ---
-
 title: "Respond Group"
 description: "The Respond Group a part of the Monitor Stage of the DevOps lifecycle."
 ---
-
-
-
-
-
-
 
 ## Respond
 The **Respond** group at GitLab is responsible for building tools that enable DevOps teams to respond to, triage and remediate errors and IT alerts for the systems and applications they maintain. We aim to provide a streamlined Operations experience within GitLab that enables the individuals who write the code, to maintain it at the same time.
@@ -25,11 +18,11 @@ You can follow along with the team's accomplishments by reading the [latest week
 
 ## Team members
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Monitor:Respond') %>
+{{< team-by-manager-role role="Engineering Manager(.*)Monitor:Respond" team="Monitor:Respond" >}}
 
 ## Stable counterparts
 
-<%= stable_counterparts(role_regexp: /(?<!:)Monitor(?!:Observability)/, direct_manager_role: 'Fullstack Engineering Manager, Monitor:Respond') %>
+{{< stable-counterparts role="Monitor|Observability" >}}
 
 ## Communication
 
@@ -44,7 +37,7 @@ You can follow along with the team's accomplishments by reading the [latest week
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Respond" } %>
+{{% cross-functional-dashboards filters="Respond" %}}
 
 ## Working Agreements
 
@@ -64,7 +57,7 @@ You can follow along with the team's accomplishments by reading the [latest week
     * If the discussion has gotten off-track, you can't tell what the action item should be, or you don't have an opinion yourself, make the plan up! Then communicate it.
 * It's also ok to express a direct opinion about what you think is best when presenting a set of options.
     * It's way easier to engage with your work if you believe in what you're building. Advocate for it.
-* Sometimes it’s necessary to accept risk to make progress.  
+* Sometimes it’s necessary to accept risk to make progress.
 
 ### ⏱️ [Efficiency](/handbook/values/#efficiency)
 
@@ -284,7 +277,7 @@ The Respond team uses labels for issue tracking and to organize issue boards.  M
   - `~"type::feature"`: [Feature Issues](/handbook/product/product-processes/#feature-issues)
   - `~"type::bug"`: [Bug Issues](/handbook/product/product-processes/#bug-issues)
   - `~technical debt` : [Technical Debt](/handbook/engineering/workflow/#technical-debt)
-- **Workflow**: required. 
+- **Workflow**: required.
   - `workflow::refinement`: Issues that need further input from team members in order for it to be `workflow::ready for development`.
   - `workflow::blocked`: Waiting on external factors or another issue to be completed before work can resume.
   - `workflow::ready for development`: The issue is refined and ready to be scheduled in a current or future milestone.
@@ -300,8 +293,8 @@ Just like the rest of the company, we use [Time Off by Deel](/handbook/paid-time
 A list of interesting content related to the areas of the Respond group:
 
 - **On-Call**
-  - [Google's SRE Workbook, Chapter 8 - On-Call](https://sre.google/workbook/on-call/) 
+  - [Google's SRE Workbook, Chapter 8 - On-Call](https://sre.google/workbook/on-call/)
 - **Incident Response**
-  - [Google's SRE Workbook, Chapter 9 - Incident Response](https://sre.google/workbook/incident-response/) 
+  - [Google's SRE Workbook, Chapter 9 - Incident Response](https://sre.google/workbook/incident-response/)
 - **Postmortem Culture: Learning from Failure**
-  - [Google's SRE Workbook, Chapter 9 - Incident Response](https://sre.google/workbook/postmortem-culture/)  
+  - [Google's SRE Workbook, Chapter 9 - Incident Response](https://sre.google/workbook/postmortem-culture/)

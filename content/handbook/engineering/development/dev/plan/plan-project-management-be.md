@@ -1,13 +1,6 @@
 ---
-
 title: Plan:Project Management Backend Team
 ---
-
-
-
-
-
-
 
 ## Plan:Project Management backend team
 
@@ -29,11 +22,11 @@ stewardship of this API.
 
 ### Team members
 
-<%= direct_team(manager_role: 'Backend Engineering Manager, Plan:Project Management') %>
+{{% team-by-manager-role "Fullstack Engineering Manager(.*)Plan:Product Planning" %}}
 
 ### Stable counterparts
 
-<%= stable_counterparts(role_regexp: /[,&] (Plan(?!:)|Plan:Project Management)/, direct_manager_role: 'Backend Engineering Manager, Plan:Project Management') %>
+{{% stable-counterparts manager-role="Fullstack Engineering Manager(.*)Plan:Product Planning" role="Plan:Product Planning|Product Manager(.*)Plan|Senior Manager(.*)Engineering, Plan|Principal Engineer(.*)Plan|Security Engineer(.*)Product Planning|Senior Manager, Engineering(.*)Plan" %}}
 
 ### Hiring chart
 
@@ -41,7 +34,7 @@ Check out our [jobs page](/jobs/) for current openings.
 
 ### Team metrics dashboard
 
-<%= partial("handbook/engineering/development/dev/plan/project_management_dashboard") %>
+{{% include "includes/engineering/plan/project-management-dashboard.md" %}}
 
 ## Work
 
@@ -62,31 +55,53 @@ For more urgent items, feel free to use [#s_plan] on Slack.
 
 ### Capacity planning
 
-<%= partial("handbook/engineering/development/dev/plan/capacity_planning") %>
+{{% include "includes/engineering/plan/capacity-planning.md" %}}
 
 #### Weighing bugs
 
-<%= partial("handbook/engineering/development/dev/plan/weighing_bugs") %>
+{{% include "includes/engineering/plan/weighing-bugs.md" %}}
 
 #### Planning Rotation
 
-<%= partial("handbook/engineering/development/dev/plan/planning_rotation") %>
+To assign weights to issues in a future milestone, we ask two team members to
+take the lead each month. They can still ask questions - of each other, of the
+rest of the team, of the stable counterparts, or anyone else - but they are the
+initial. This should start on the 4th of the month, per the [Product Development Timeline].
+
+To weight issues, they should:
+
+1. Look through all issues with the ~"workflow::planning breakdown"
+   label, filtered by your group, ~backend and ~"Next Up" (you can use the links in the table below).
+1. For those they understand, they add a weight. If possible, they also add a
+   short comment explaining why they added that weight, what parts of the code
+   they think this would involve, and any risks or edge cases we'll need to
+   consider.
+1. For issues that already have a weight check that it's still appropriate for the work
+   required, which may have changed since the effort was last estimated.
+1. Timebox the issue weighting overall, and for each issue. The process is
+   intended to be lightweight. If something isn't clear what weight it is, they
+   should ask for clarification on the scope of the issue.
+1. If two people disagree on the weight of an issue, even after explaining their
+   perceptions of the scope, we use the higher weight.
+
+[Product Development Timeline]: https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline
 
 The rotation for upcoming releases is:
 
 | Release | Weights due | Engineer       | Engineer          |
 | ---     | ---         | ---            | ---               |
 | 13.5    | 2020-09-13  |                |                   |
+
 #### Historical Capacity
 
-<%= partial("handbook/engineering/development/dev/plan/historical_capacity", locals: { chart_ids: [7693808] }) %>
+{{% include "includes/engineering/plan/historical-capacity.md" %}}
 
 ### Collaborating with Frontend
 
 #### Using the ~"backend complete" label
 
-The ~"backend complete" label is added to issues with multiple specializations (usually backend and 
-frontend) to indicate that the backend component is complete. Add this label when the backend work is 
+The ~"backend complete" label is added to issues with multiple specializations (usually backend and
+frontend) to indicate that the backend component is complete. Add this label when the backend work is
 functionally complete, merged and verified but frontend, or other, work is ongoing.
 
 ### Picking something to work on
@@ -104,7 +119,7 @@ means the issue should be better specified.
 
 #### High Severity Issues
 
-<%= partial("handbook/engineering/development/dev/plan/high_severity_items") %>
+{{% include "includes/engineering/plan/high-severity-items.md" %}}
 
 ### Working on unscheduled issues
 
@@ -119,17 +134,17 @@ in the handbook, and it is here to make those explicit:
    is important, you can [request for it to be scheduled], or you can
    [work on a proposal yourself][iteration], as long as you keep your
    other tasks in mind.
-2. From time to time, there are events that GitLab team-members can participate
+1. From time to time, there are events that GitLab team-members can participate
    in, like the [issue bash]. Anyone is welcome
    to participate in these.
-3. If you feel like you want to have some specific time set aside, but
+1. If you feel like you want to have some specific time set aside, but
    aren't interested in the topics of an existing event, feel free to
    label issues with "For Scheduling" and copy your manager for visibility.
 
 When you pick something to work on, please:
 
 1. Follow the standard workflow and assign it to yourself.
-2. Share it in [#s_plan] - if not even more widely (like in #development
+1. Share it in [#s_plan] - if not even more widely (like in #development
    or #backend).
 
 [collaboration]: /handbook/values/#collaboration
@@ -142,11 +157,11 @@ When you pick something to work on, please:
 
 ## Useful links
 
-* [Plan:Project Management Build board] - this shows work in the current release
-* [#s_plan] in Slack
-* [Recorded meetings][youtube]
-* [Retrospectives][retros]
-* [Group Conversations] (archive; group conversations now happen at a the
+- [Plan:Project Management Build board] - this shows work in the current release
+- [#s_plan] in Slack
+- [Recorded meetings][youtube]
+- [Retrospectives][retros]
+- [Group Conversations] (archive; group conversations now happen at a the
   [section level])
 
 [Plan:Project Management Build board]: https://gitlab.com/groups/gitlab-org/-/boards/1285239?label_name[]=backend

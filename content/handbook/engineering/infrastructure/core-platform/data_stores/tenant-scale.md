@@ -314,4 +314,4 @@ and [Tenant Scale Group Engineering Metrics page](/handbook/engineering/metrics/
 
 {{% sisense chart="16599181" dashboard="1134433" %}}
 
-{{% cross-function-dashboard filters="Tenant Scale" %}}
+{{% cross-functional-dashboards filters="Tenant Scale" %}}

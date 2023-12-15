@@ -435,5 +435,5 @@ How did Distribution get its name? We iterated, as always. "Distribution" was ch
 
 ## Dashboards
 
-{{% cross-function-dashboard filters="Distribution" %}}
+{{% cross-functional-dashboards filters="Distribution" %}}
 

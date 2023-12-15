@@ -1,14 +1,7 @@
 ---
-
 title: "Create:Code Review Backend Engineering Resources"
 description: Resources for the backend team members of the Create:Code Review group
 ---
-
-
-
-
-
-
 
 This page contains engineering resources for the Create:Code Review Backend team. For day-to-day work of the team, please review the [Create:Code Review BE handbook page](https://about.gitlab.com/handbook/engineering/development/dev/create/code-review/backend/).
 
@@ -32,7 +25,7 @@ It can be hard to understand how you're doing in your role, because feedback can
 
 ## Career development
 
-<%= partial("handbook/engineering/development/dev/create/career_development.erb", locals: { group: "Code Review" }) %>
+{{% engineering/create/career-development group="Code Review" %}}
 
 ## Training and Development Opportunities
 

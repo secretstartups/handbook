@@ -1,13 +1,6 @@
 ---
-
 title: Dynamic Analysis Group
 ---
-
-
-
-
-
-
 
 ## Dynamic Analysis
 
@@ -51,12 +44,12 @@ The Dynamic Analysis group at GitLab is charged with developing solutions which 
 
 ### Other Contact
 
-The DAST team also monitors #s_secure and #sec-section. Both these channels are for wider Secure topics, however are a good place to start if you are not sure which group in Secure to contact. 
+The DAST team also monitors #s_secure and #sec-section. Both these channels are for wider Secure topics, however are a good place to start if you are not sure which group in Secure to contact.
 
 ## How We Work
 
-The Dynamic Analysis group works according to kanban principles. While the group still follows the workflow states and activities articulated in GitLab's [Product Development Flow](/handbook/product-development-flow/), it operates on a 
-pull-based methodology once work is handed off to the development team for delivery. An issue is considered handed off into the development team when it is given the `~workflow::planning breakdown` label, and the team utilizes the following 
+The Dynamic Analysis group works according to kanban principles. While the group still follows the workflow states and activities articulated in GitLab's [Product Development Flow](/handbook/product-development-flow/), it operates on a
+pull-based methodology once work is handed off to the development team for delivery. An issue is considered handed off into the development team when it is given the `~workflow::planning breakdown` label, and the team utilizes the following
 labels as part of its work.
 
 - [Official Dynamic Analysis Delivery board](https://gitlab.com/groups/gitlab-org/-/boards/5719921?label_name%5B%5D=group%3A%3Adynamic%20analysis)
@@ -156,7 +149,7 @@ Those changes are presented to the Product Manager for prioritization into DAST.
 
 #### New DAST Technologies
 
-The DAST analyzer is migrating towards using exclusively a browser-based DAST tool that is being built by GitLab. The tool has internally been referrred to as Browserker. Browser based DAST was released as GA in 15.7. The browser-based DAST is being delivered iteratively, with each new iteration taking over some parts of analysis previously done by ZAP, with the eventual goal of deprecating ZAP completely. 
+The DAST analyzer is migrating towards using exclusively a browser-based DAST tool that is being built by GitLab. The tool has internally been referrred to as Browserker. Browser based DAST was released as GA in 15.7. The browser-based DAST is being delivered iteratively, with each new iteration taking over some parts of analysis previously done by ZAP, with the eventual goal of deprecating ZAP completely.
 
 ### Fuzzing Technologies
 
@@ -176,8 +169,8 @@ Our goals is to simplify and reduce as many of the steps that a customer needs t
 We use additional labels to categorize different areas of the application.
 
 ```
-~"Category:API Security" 
-~"Category:DAST" 
+~"Category:API Security"
+~"Category:DAST"
 ```
 
 For fuzzing we use the following labels.
@@ -193,9 +186,9 @@ When opening up issues, the following label snippet often added:
 API Fuzzing Issues:
 
 ```
-/label ~"Category:API Security" 
-/label ~"group::dynamic analysis" 
-/label ~"devops::secure" 
+/label ~"Category:API Security"
+/label ~"group::dynamic analysis"
+/label ~"devops::secure"
 /label ~"backend"
 /label ~"section::sec"
 ```
@@ -203,10 +196,10 @@ API Fuzzing Issues:
 Coverage Fuzzing Issues:
 
 ```
-/label ~"Category:Fuzz Testing" 
-/label ~"fuzzing::coverage" 
-/label ~"group::dynamic analysis" 
-/label ~"devops::secure" 
+/label ~"Category:Fuzz Testing"
+/label ~"fuzzing::coverage"
+/label ~"group::dynamic analysis"
+/label ~"devops::secure"
 /label ~"backend"
 /label ~"section::sec"
 ```
@@ -214,9 +207,9 @@ Coverage Fuzzing Issues:
 DAST Issues
 
 ```
-/label ~"Category:DAST" 
-/label ~"group::dynamic analysis" 
-/label ~"devops::secure" 
+/label ~"Category:DAST"
+/label ~"group::dynamic analysis"
+/label ~"devops::secure"
 /label ~"backend"
 /label ~"section::sec"
 ```
@@ -225,10 +218,11 @@ DAST Issues
 
 The Dynamic Analysis welcomes community contributions. Community Contributors-- please make sure to add the label "group::dynamic analysis" to any Merge Requests or Issues to ensure the Dynamic Analysis team sees your contribution.
 
-Community contributions should get prompt feedback from one of the DAST engineers. All engineers on the DAST team are responsible for working with community contributions. If a team member does not have time to review a community contribution, please tag the Engineering Manager, so that they can assign the community contribution to another team member. 
+Community contributions should get prompt feedback from one of the DAST engineers. All engineers on the DAST team are responsible for working with community contributions. If a team member does not have time to review a community contribution, please tag the Engineering Manager, so that they can assign the community contribution to another team member.
 
-### Dashboards 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Dynamic Analysis" } %>
+### Dashboards
+
+{{% cross-functional-dashboards filters="Dynamic Analysis" %}}
 
 #### Targets
 
@@ -236,7 +230,7 @@ For our Merge Request types, we have an initial soft target ratio of 60% feature
 
 ### Support Requests
 
-The Dynamic Analysis engineering team provides support to GitLab Support Engineers [following the process outlined in the Sec Section support project](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help/). 
+The Dynamic Analysis engineering team provides support to GitLab Support Engineers [following the process outlined in the Sec Section support project](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help/).
 
 ### OKRs
 
@@ -256,5 +250,5 @@ GitLab uses [error budgets to track availability](https://about.gitlab.com/handb
 - [Dynamic Analysis Delivery Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/554644?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=group%3A%3Adynamic%20analysis&label_name%5B%5D=devops%3A%3Asecure)
 - [Dynamic Analysis Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1229233?label_name%5B%5D=group%3A%3Adynamic%20analysis)
 - [Dynamic Analysis EM Board](https://gitlab.com/groups/gitlab-org/-/boards/1353832?scope=all&utf8=%E2%9C%93&state=opened)
-- [CWE Board](https://gitlab.com/groups/gitlab-org/-/boards/2838626) 
-- [CWE Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/2838631) 
+- [CWE Board](https://gitlab.com/groups/gitlab-org/-/boards/2838626)
+- [CWE Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/2838631)

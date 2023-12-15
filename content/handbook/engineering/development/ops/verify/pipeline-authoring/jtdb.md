@@ -1,18 +1,11 @@
 ---
-
 title: Pipeline Authoring Group - JTBD
 description: "The jobs-to-be-done that the Pipeline Authoring Group is solving for."
 ---
 
-
-
-
-
-
-
 ## Overview
 
-The goal of this page is to document, share and iterate on the Jobs to be Done (JTBD) and their corresponding job statements for the Pipeline Authoring group. Using JTBD framework we intend to arrive at the more specific problems to be solved in relation to Pipeline authoring workflows. 
+The goal of this page is to document, share and iterate on the Jobs to be Done (JTBD) and their corresponding job statements for the Pipeline Authoring group. Using JTBD framework we intend to arrive at the more specific problems to be solved in relation to Pipeline authoring workflows.
 
 ## Goals
 
@@ -26,5 +19,4 @@ Utilize JTBD and job statements to:
 
 ## JTBD
 
-<%= partial("direction/jtbd-list", locals: { stage_key: "Pipeline Authoring" }) %>
-
+{{% jtbd "Pipeline Authoring" %}}

@@ -1,14 +1,7 @@
 ---
-
 title: "Verify:Runner"
 description: "The GitLab Runner team page."
 ---
-
-
-
-
-
-
 
 ## Vision
 
@@ -41,18 +34,18 @@ In the [OPS section](https://internal.gitlab.com/handbook/company/performance-in
 
 The following people are permanent members of the Verify:Runner group:
 
-<%= direct_team(manager_role: 'Senior Engineering Manager, Verify:Runner') %>
+{{< team-by-manager-role "Engineering Manager(.*)Verify:Runner" >}}
 
 ## Stable Counterparts
 
-<%= stable_counterparts(role_regexp: /[,&] Verify:Runner/, direct_manager_role: 'Senior Engineering Manager, Verify:Runner') %>
+{{< stable-counterparts role="Verify:Runner" manager-role="Engineering Manager(.*)Verify:Runner" >}}
 
 For a more comprehensive list of counterparts, look at the [runner product
 categtory](/handbook/product/categories/#runner-group)
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Runner" } %>
+{{% cross-functional-dashboards filters="Runner" %}}
 
 ## Projects we maintain
 

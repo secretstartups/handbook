@@ -1,14 +1,6 @@
 ---
-
 title: "Static Analysis Group"
 ---
-
-
-
-
-
-
-
 
 ## Static Analysis
 
@@ -373,4 +365,4 @@ If there is any question of whether a bug fix or improvement should be taken up 
 
 When a [Customer Success Escalation](/handbook/customer-success/csm/escalations/) is declared, the Engineering Manager and Product Manager should both be alerted, and an appropriate team member should be designated to deprioritize existing work and respond to the escalation as soon as possible.
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Static Analysis" } %>
+{{% cross-functional-dashboards filters="Static Analysis" %}}

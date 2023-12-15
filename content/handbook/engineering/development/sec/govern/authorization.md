@@ -1,16 +1,6 @@
 ---
-
 title: "Authorization Group"
 ---
-
-
-
-
-
-
-
-# Govern:Authorization
-{: #welcome}
 
 ### Planning
 
@@ -37,7 +27,7 @@ Authorization group members who are part of the [Authorization group](https://gi
 
 The following people are permanent members of the group:
 
-<%= stable_counterparts(role_regexp: /Govern:Authorization/) %>
+{{< stable-counterparts role="Govern:Authorization" >}}
 
 ### Team Meetings
 
@@ -45,8 +35,7 @@ Our group holds synchronous meetings to gain additional clarity and alignment on
 
 We have a weekly team sync meeting with rotating AMER/APAC and [EMEA/AMER](https://drive.google.com/drive/folders/1gFMDy-Lq0Ycg2pJE7_La0Giln3c4wMJJ?usp=drive_link) friendly time slots: Tues 20:00 UTC and Weds 14:30 UTC.
 
-### Links and resources
-{: #links}
+### Links and resources {#links}
 
-* Our Slack channels
-  * Govern:Authorization [#g_govern_authorization](https://gitlab.slack.com/archives/C0610LVCSAY)
+- Our Slack channels
+  - Govern:Authorization [#g_govern_authorization](https://gitlab.slack.com/archives/C0610LVCSAY)

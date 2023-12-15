@@ -82,4 +82,4 @@ The Cloud Connector group's [Roadmap](https://gitlab.com/groups/gitlab-org/-/roa
 
 ## Dashboards
 
-{{% cross-function-dashboard filters="cloud connector" %}}
+{{% cross-functional-dashboards filters="cloud connector" %}}

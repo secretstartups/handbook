@@ -169,5 +169,5 @@ We document our insights, road maps and other relevant material in this section.
 
 ## Dashboards
 
-{{% cross-function-dashboard filters="database" %}}
+{{% cross-functional-dashboards filters="database" %}}
 

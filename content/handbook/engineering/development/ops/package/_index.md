@@ -1,13 +1,6 @@
 ---
-
 title: Package Stage
 ---
-
-
-
-
-
-
 
 ## 🎯 Mission and Vision
 
@@ -28,11 +21,12 @@ The Package stage is made up of two groups:
 
 ### Package:Container Registry
 
-<%= direct_team(role_regexp: /Container Registry/, manager_slug: 'crystalpoole') %>
+{{< team-by-manager-slug manager="crystalpoole" team="Container Registry" >}}
 
 ### Package:Package Registry
 
-<%= direct_team(role_regexp: /Package Registry/, manager_slug: 'crystalpoole') %>
+{{< team-by-manager-slug manager="crystalpoole" team="Package Registry" >}}
+
 
 ## 📈 Measuring results
 

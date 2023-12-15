@@ -1,14 +1,7 @@
 ---
-
 title: Fulfillment Sub-department
 description: "The Fulfillment Sub-department is composed of the Billing and Subscription Management, Fulfillment Platform, Provision, Purchase, and Utilization development teams working on the infrastructure between the systems which affect the user purchasing process that support the GitLab DevOps Platform."
 ---
-
-
-
-
-
-
 
 ## Vision
 
@@ -18,108 +11,88 @@ A [high performing team](https://about.gitlab.com/handbook/leadership/build-high
 
 Fulfillment focuses on improving our capabilities and metrics in the following areas:
 
-* Fulfillment: [Direction](https://about.gitlab.com/direction/fulfillment), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#group-responsibilities), [Fulfillment Development Team](/handbook/engineering/development/fulfillment/)
-* Fulfillment Platform: [Team](/handbook/engineering/development/fulfillment/fulfillment-platform/)
-* Provision: [Direction](https://about.gitlab.com/direction/fulfillment#provision), [Team](/handbook/engineering/development/fulfillment/provision/)
-* Purchase: [Direction](https://about.gitlab.com/direction/fulfillment/purchase/), [Team](/handbook/engineering/development/fulfillment/purchase/)
-* Utilization: [Team](/handbook/engineering/development/fulfillment/utilization/)
+- Fulfillment: [Direction](https://about.gitlab.com/direction/fulfillment), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#group-responsibilities), [Fulfillment Development Team](/handbook/engineering/development/fulfillment/)
+- Fulfillment Platform: [Team](/handbook/engineering/development/fulfillment/fulfillment-platform/)
+- Provision: [Direction](https://about.gitlab.com/direction/fulfillment#provision), [Team](/handbook/engineering/development/fulfillment/provision/)
+- Purchase: [Direction](https://about.gitlab.com/direction/fulfillment/purchase/), [Team](/handbook/engineering/development/fulfillment/purchase/)
+- Utilization: [Team](/handbook/engineering/development/fulfillment/utilization/)
 
 ## Direction
 
 In addition to the [Fulfillment Product Direction](https://about.gitlab.com/direction/fulfillment/), the Fulfillment Development Sub-department strives to:
 
-* Increase the reliability and availability of our Fulfillment infrastructure
-* Make foundational technical improvements to the architecture and data models of the Fulfillment systems
-* Improve the developer experience of Fulfillment engineers through better tooling and documentation
+- Increase the reliability and availability of our Fulfillment infrastructure
+- Make foundational technical improvements to the architecture and data models of the Fulfillment systems
+- Improve the developer experience of Fulfillment engineers through better tooling and documentation
 
 ## Team members
 
 ### Fulfillment Sub-department People Leaders
 
-<% fulfillment_em = %w[jeromezng jameslopez csouthard rhardarson shreyasagarwal isandin] %>
-<% fulfillment_em_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| fulfillment_em.include?(person.anchor) } %>
-<%= partial('includes/team_member_table', locals: { team_members: fulfillment_em_members }) %>
+{{< members-by-role role="Engineering Manager, Fulfillment|Director of Engineering, Fulfillment" >}}
 
 ### Fulfillment:Billing and Subscription Management Team
 
-<%= department_team(base_department: "Fulfillment:Billing and Subscription Management Team") %>
+{{< members-by-role role="Fulfillment:Billing and Subscription Management Team" >}}
 
 ### Fulfillment:Purchase Team
 
-<%= department_team(base_department: "Fulfillment:Purchase Team") %>
+{{< team-by-departments "Fulfillment:Purchase Team" >}}
 
 ### Fulfillment:Provision Team
 
-<%= department_team(base_department: "Fulfillment:Provision Team") %>
+{{< team-by-departments "Fulfillment:Provision Team" >}}
 
 ### Fulfillment:Utilization Team
 
-<%= department_team(base_department: "Fulfillment:Utilization Team") %>
+{{< team-by-departments "Fulfillment:Utilization Team" >}}
 
 ### Fulfillment:Fulfillment Platform Team
 
-<%= department_team(base_department: "Fulfillment:Fulfillment Platform Team") %>
+{{< team-by-departments "Fulfillment:Fulfillment Platform Team" >}}
 
 ## Stable counterparts
 
 The following members of other functional teams are our stable counterparts.
 
-<%=
-other_manager_roles = ['Fullstack Engineering Manager, Fulfillment:Fulfillment Platform', 'Fullstack Engineering Manager, Fulfillment:Provision', 'Fullstack Engineering Manager, Fulfillment:Utilization', 'Fullstack Engineering Manager (Interim), Fulfillment:Purchase', 'Fullstack Engineering Manager, Fulfillment:Billing and Subscription Management Team']
-
-stable_counterparts(role_regexp: /Fulfillment|Fulfillment:/, direct_manager_role: 'Senior Engineering Manager, Fulfillment, Interim Strategy and Operations Lead, China', other_manager_roles: other_manager_roles)
-%>
+{{< stable-counterparts role="Fulfillment|Fulfillment:" manager-role="Senior Engineering Manager, Fulfillment, Interim Strategy and Operations Lead, China|Fullstack Engineering Manager, Fulfillment:Fulfillment Platform|Fullstack Engineering Manager, Fulfillment:Provision|Fullstack Engineering Manager, Fulfillment:Utilization" manager-role="Backend Engineering Manager, Gitaly|Fullstack Engineering Manager (Interim), Fulfillment:Purchase|Fullstack Engineering Manager, Fulfillment:Billing and Subscription Management Team" >}}
 
 ### Fulfillment Security
 
-<% fulfillment_sec = %w[ankelly] %>
-<% fulfillment_sec_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| fulfillment_sec.include?(person.anchor) } %>
-<%= partial('includes/team_member_table', locals: { team_members: fulfillment_sec_members }) %>
+{{< member-and-role-by-gitlab "ankelly" >}}
 
 ### Enterprise Applications
 
-<% ent_apps = %w[jesssalcido] %>
-<% ent_apps_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| ent_apps.include?(person.anchor) } %>
-<%= partial('includes/team_member_table', locals: { team_members: ent_apps_members }) %>
+{{< member-and-role-by-gitlab "jesssalcido" >}}
 
 ### Sales & Go-To-Market (GTM)
 
-<% sales = %w[asipala] %>
-<% sales_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| sales.include?(person.anchor) } %>
-<%= partial('includes/team_member_table', locals: { team_members: sales_members }) %>
+{{< member-and-role-by-gitlab "asipala" >}}
 
 The Sales & Go-To-Market stable counterpart will serve as the GTM DRI for strategic cross-functional intiatives, new feature and system updates, and bug resolution. They will ensure that an end-to-end approach is taken into account when communicating with the field and users. Fulfillment PMs can engage the counterpart for new GTM work by using @mention in GitLab as the primary method to submit and prioritize tasks.
 
 ### Billing and Accounts Receivable
 
-<% billing_ar = %w[s_mccauley annapiaseczna] %>
-<% billing_ar_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| billing_ar.include?(person.anchor) } %>
-<%= partial('includes/team_member_table', locals: { team_members: billing_ar_members }) %>
+{{< member-and-role-by-gitlab "s_mccauley" "annapiaseczna" >}}
 
 ### Customer Success
 
-<% customer_success = %w[dsakamoto] %>
-<% customer_success_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| customer_success.include?(person.anchor) } %>
-<%= partial('includes/team_member_table', locals: { team_members: customer_success_members }) %>
+{{< member-and-role-by-gitlab "dsakamoto" >}}
 
 ### Support Engineering
 
-<% support_engineering = %w[jlyttle mdunninger kslaats] %>
-<% support_engineering_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| support_engineering.include?(person.anchor) } %>
-<%= partial('includes/team_member_table', locals: { team_members: support_engineering_members }) %>
+{{< member-and-role-by-gitlab jlyttle mdunninger kslaats >}}
 
 ### Chief of Staff Team to the CEO
 
-<% chief_of_staff_team = %w[ipedowitz] %>
-<% chief_of_staff_team_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| chief_of_staff_team.include?(person.anchor) } %>
-<%= partial('includes/team_member_table', locals: { team_members: chief_of_staff_team_members }) %>
+{{< member-and-role-by-gitlab "ipedowitz" >}}
 
 ## Project management process
 
-* In accordance with our [GitLab values](/handbook/values/)
-* Transparently: nearly everything is public, we record/livestream meetings whenever possible
-* We get a chance to work on the things we want to work on
-* Everyone can contribute; no silos
+- In accordance with our [GitLab values](/handbook/values/)
+- Transparently: nearly everything is public, we record/livestream meetings whenever possible
+- We get a chance to work on the things we want to work on
+- Everyone can contribute; no silos
 
 ### SAFE
 
@@ -127,11 +100,13 @@ Working in [SAFE manner](https://about.gitlab.com/handbook/legal/safe-framework/
 
 On occasion, it may be prudent to include language like the following to the description of public issues where potentially SAFE discussions are happening.
 
-```
-This page may contain information related to upcoming products, features and functionality.
-It is important to note that the information presented is for informational purposes only, so please do not rely on the information for purchasing or planning purposes.
-Just like with all projects, the items mentioned on the page are subject to change or delay, and the development, release, and timing of any products, features, or functionality remain at the sole discretion of GitLab Inc.
-```
+
+> This page may contain information related to upcoming products, features and functionality.
+> It is important to note that the information presented is for informational purposes only,
+> so please do not rely on the information for purchasing or planning purposes.  Just like with
+> all projects, the items mentioned on the page are subject to change or delay, and the development,
+> release, and timing of any products, features, or functionality remain at the sole discretion of
+> GitLab Inc.
 
 Similarly, not all information should be included in the public handbook. Instead, use the [private internal handbook](https://internal.gitlab.com/) for this SAFE information.
 
@@ -157,6 +132,7 @@ On or around the `26th`: Product meets with Engineering Managers for a prelimina
 To request work to be added to the [Fulfillment Roadmap](https://about.gitlab.com/direction/fulfillment/#roadmap), please open an issue by following [this link](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/new?issue&issuable_template=intake) and tag one of the Fulfillment Product Managers.
 
 A Fulfillment Product Manager will be assigned to review the request and start evaluating the scope and impact. This may take some time depending on team capacity. Once evaluated, the PM will:
+
 1. Create a new Epic, capturing relevant details from the intake issue.
 1. Add this new Epic to the Fulfillment roadmap.
 1. Update the intake issue description with a link to the new epic.
@@ -173,27 +149,27 @@ Every team uses the [monthly prioritization template](https://gitlab.com/gitlab-
 
 ### Fulfillment stage dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_section_dashboard.erb", locals: { filter_value: "fulfillment" } %>
+{{% cross-functional-dashboards filters="fulfillment" section=true %}}
 
 ### Purchase team dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "purchase" } %>
+{{% cross-functional-dashboards filters="purchase" %}}
 
 ### Billing and Subscription Management team dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Billing and Subscription Management" } %>
+{{% cross-functional-dashboards filters="Billing and Subscription Management" %}}
 
 ### Provision team dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Provision" } %>
+{{% cross-functional-dashboards filters="Provision" %}}
 
 ### Utilization team dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Utilization" } %>
+{{% cross-functional-dashboards filters="Utilization" %}}
 
 ### Fulfillment Platform team dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Fulfillment Platform" } %>
+{{% cross-functional-dashboards filters="Fulfillment Platform" %}}
 
 ### Estimation
 
@@ -218,7 +194,7 @@ In planning and estimation, we value [velocity over predictability](/handbook/en
 
 The following is a guiding mental framework for engineers to consider when contributing to estimates on issues.
 
-```
+```markdown
 ### Refinement / Weighting
 
 <!--
@@ -270,8 +246,9 @@ It's possible for engineers to pick any of the remaining issues for the mileston
 We generally follow the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) and use the workflow labels as defined there.
 
 Generally speaking, issues are in one of two states:
-* Discovery/refinement: we're still answering questions that prevent us from starting development,
-* Implementation: an issue is waiting for an engineer to work on it, or is actively being built.
+
+- Discovery/refinement: we're still answering questions that prevent us from starting development,
+- Implementation: an issue is waiting for an engineer to work on it, or is actively being built.
 
 Basecamp thinks about these stages in relation to the [climb and descent of a hill](https://basecamp.com/hill-charts).
 
@@ -302,6 +279,7 @@ In summary,
 
 We have approval rules enabled in CustomersDot, so every MR that targets `main` needs at least one approval (different from the author/committer).
 The MRs must meet the following criteria:
+
 - They need to have **at least two different reviewers**, including one from a maintainer. However, **for trivial MRs with no changes in logic one reviewer is sufficient** and you can skip the initial review for such changes (for example, minor dependency updates, test fixes, and plain reverts).
 - They must receive at least one approval.
 - A maintainer's review is required.
@@ -309,16 +287,16 @@ The MRs must meet the following criteria:
 In addition to the approval rules, MRs may require additional reviews as suggested by the [Danger bot](https://docs.gitlab.com/ee/development/dangerbot.html):
 
 1. Modifications to the DB require database reviewer and maintainer approval
-2. Security-related issues (such as changes to authentication) require a [Security review](https://about.gitlab.com/handbook/security/security-engineering/application-security/appsec-reviews.html#adding-features-to-the-queue)
-3. Changes to the SFDC APIs require review by the [Sales team](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/)
-4. Changes to the Zuora APIs require review by the [EntApps team](https://about.gitlab.com/handbook/business-technology/enterprise-applications/)
-5. Changes to the user experience require a [UX Review](/handbook/product/ux/product-designer/mr-reviews/).
+1. Security-related issues (such as changes to authentication) require a [Security review](https://about.gitlab.com/handbook/security/security-engineering/application-security/appsec-reviews.html#adding-features-to-the-queue)
+1. Changes to the SFDC APIs require review by the [Sales team](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/)
+1. Changes to the Zuora APIs require review by the [EntApps team](https://about.gitlab.com/handbook/business-technology/enterprise-applications/)
+1. Changes to the user experience require a [UX Review](/handbook/product/ux/product-designer/mr-reviews/).
 
 ### Weekly async issue updates
 
 Every week, each engineer is expected to provide a quick async issue update by commenting on their assigned issues using the following template:
 
-```
+```markdown
 <!---
 Please be sure to update the workflow labels of your issue to one of the following (that best describes the status)"
 - ~"workflow::In dev"
@@ -422,9 +400,11 @@ Fulfillment Engineering Engineering Managers and Senior Leadership are responsib
 The following list contains some of the standard departments and teams who should retain access:
 
 **Read-only Access**
+
 - Sales Team
 
 **Write Access**
+
 - AppSec Team
 - Billing Team
 - Fulfillment Sub-department (engineering, product, quality, and other counterparts)
@@ -442,26 +422,28 @@ Fulfillment is unique in Engineering because our changes can directly impact rev
 We aspire to be as iterative as possible including even when a change potentially poses high risk.
 
 Below are examples of changes that can be high risk because they can require coordination across many teams:
-* Pricing changes
-* Billing changes
-* Launching a new paid feature
-* Deprecating an existing paid feature
-* Changes to terms of service and related contract changes
-* Changes to the way the consumption of resources is calculated or displayed (e.g., user counts, compute minutes)
+
+- Pricing changes
+- Billing changes
+- Launching a new paid feature
+- Deprecating an existing paid feature
+- Changes to terms of service and related contract changes
+- Changes to the way the consumption of resources is calculated or displayed (e.g., user counts, compute minutes)
 
 Below are changes that can often be low risk:
-* Backend enhancements that are not yet used by the frontend
-* Frontend and backend Enhancements that are behind a feature flag
-* Frontend enhancements that are not behind a feature flag, but are labeled as "beta" or "experimental"
+
+- Backend enhancements that are not yet used by the frontend
+- Frontend and backend Enhancements that are behind a feature flag
+- Frontend enhancements that are not behind a feature flag, but are labeled as "beta" or "experimental"
 
 The following processes should be followed for high-risk changes:
 
-* Update feature documentation of the new/updated behavior and share with relevant stakeholders
-* Use confidential issues for these changes
-* Release changes under a feature flag so this can be enabled on the release date
-* Create a rollout issue for the release date and make sure all parties are informed about the process. [Example](https://gitlab.com/gitlab-org/gitlab/-/issues/299068)
-* Consider enabling this to a subset of customers so changes can be tested iteratively
-* Use the regular MR process even if the issue is confidential until confidential MRs are improved ([1](https://gitlab.com/groups/gitlab-org/-/epics/1175), [2](https://gitlab.com/groups/gitlab-org/-/epics/264))
+- Update feature documentation of the new/updated behavior and share with relevant stakeholders
+- Use confidential issues for these changes
+- Release changes under a feature flag so this can be enabled on the release date
+- Create a rollout issue for the release date and make sure all parties are informed about the process. [Example](https://gitlab.com/gitlab-org/gitlab/-/issues/299068)
+- Consider enabling this to a subset of customers so changes can be tested iteratively
+- Use the regular MR process even if the issue is confidential until confidential MRs are improved ([1](https://gitlab.com/groups/gitlab-org/-/epics/1175), [2](https://gitlab.com/groups/gitlab-org/-/epics/264))
 
 #### CustomersDot
 
@@ -513,8 +495,8 @@ See this handbook page for more information on [GitLab Monitoring](https://about
 Temporarily, while [pagerslack](https://gitlab.com/jameslopez/pagerslack) or [pagerduty](/handbook/on-call/#pagerduty) is not adopted in Fulfillment, the following process is in place:
 
 1. When an outage occurs, the [SRE on-call](https://about.gitlab.com/handbook/on-call/) is notified automatically. Incidents can also be [reported manually](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
-2. Simultaneously to an outage, `#s_fulfillment_status` on Slack is notified and [James Lopez](https://gitlab.com/jameslopez) and [Vitaly Slobodin](https://gitlab.com/vitallium) are paged on the phone
-3. When required, the SRE on-call or incident reporter can ping `@fulfillment-engineering` on Slack to notify and get help from the team
+1. Simultaneously to an outage, `#s_fulfillment_status` on Slack is notified and [James Lopez](https://gitlab.com/jameslopez) and [Vitaly Slobodin](https://gitlab.com/vitallium) are paged on the phone
+1. When required, the SRE on-call or incident reporter can ping `@fulfillment-engineering` on Slack to notify and get help from the team
 
 #### Escalation process for urgent issues
 
@@ -623,7 +605,7 @@ Consider handbook updates, process changes, and bubbling up information from you
 
 **Template (optional)**
 
-```
+```markdown
 Iteration is one of six GitLab Values, but also really difficult. By focusing how we have iterated well in the past and how we have not will help us iterate faster. Please contribute the following [Iteration Retrospective](#link-to-handbook-page).
 
 ## Summary
@@ -758,15 +740,15 @@ See the [Fulfillment Section Performance Indicators](/handbook/engineering/devel
 
 ### CustomersDot
 
-<embed width="<%= 99 %>%" height="350" src="<%= signed_periscope_url(dashboard: 825250, chart: 11035807, embed: 'v2') %>">
+{{< sisense dashboard="825250" chart="11035807" >}}
 
 We attempt to have an ideal Engineer to Maintainer Ratio of 1:1 for both backend and frontend effort for our primary application, [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com). The active list of maintainers can be found on the [Engineering Projects page](https://about.gitlab.com/handbook/engineering/projects/#customers-app).
 
 Some considerations that differ from other maintainer ratios:
 
 1. Fulfillment maintainer ratios are Maintainers vs Reviewers
-2. GitLab maintainer ratios are Maintainers vs Maintainers + Reviewers
-3. GitLab maintainer ratios do not count full-stack engineers properly (Fulfillment one does)
+1. GitLab maintainer ratios are Maintainers vs Maintainers + Reviewers
+1. GitLab maintainer ratios do not count full-stack engineers properly (Fulfillment one does)
 
 ## Knowledge sharing
 
@@ -818,6 +800,7 @@ Google groups can be used for easily sending calendar invites to members of the 
 | [s_fulfillment_status](https://app.slack.com/client/T02592416/CL7SX4N86) | [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/) health monitoring channel. |
 
 ### Guidelines to ask questions in [s_fulfillment](https://app.slack.com/client/T02592416/CMJ8JR0RH) slack channel
+
 1. The channel can be used to ask all product, engineering, and Fulfillment processes related questions.
 1. When your question has been answered, please react with the ✅ (`:white_check_mark:`) Slack emoji to the original question so that team members know that it has been answered and they do not need to look at it any longer.
 1. For urgent support issues, please follow the [STAR escalation](https://about.gitlab.com/handbook/support/internal-support/support-ticket-attention-requests.html#requesting-an-escalation) strategy.
@@ -826,12 +809,12 @@ Google groups can be used for easily sending calendar invites to members of the 
 
 ## Common links
 
-* [Product Vision](https://about.gitlab.com/direction/fulfillment/)
-* [Fulfillment section](/handbook/product/categories/#fulfillment-section)
-* [All open Fulfillment epics](https://gitlab.com/groups/gitlab-org/-/epics?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Afulfillment)
-* [Issue Tracker](https://gitlab.com/gitlab-org/fulfillment-meta/issues)
-* [Slack channel #s_fulfillment](https://gitlab.slack.com/app_redirect?channel=s_fulfillment)
-* [Daily standup Slack channel #s_fulfillment_daily](https://gitlab.slack.com/app_redirect?channel=s_fulfillment_daily)
-* [Fulfillment announcements Slack channel #s_fulfillment_fyi](https://gitlab.slack.com/app_redirect?channel=s_fulfillment_fyi)
-* [Team calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_7199q584haas4tgeuk9qnd48nc%40group.calendar.google.com)
-* [Fulfillment technical debt status](https://app.periscopedata.com/app/gitlab/1054550/Fulfillment:Platform-Team---Milestone-Reporting?widget=15057739&udv=0)
+- [Product Vision](https://about.gitlab.com/direction/fulfillment/)
+- [Fulfillment section](/handbook/product/categories/#fulfillment-section)
+- [All open Fulfillment epics](https://gitlab.com/groups/gitlab-org/-/epics?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Afulfillment)
+- [Issue Tracker](https://gitlab.com/gitlab-org/fulfillment-meta/issues)
+- [Slack channel #s_fulfillment](https://gitlab.slack.com/app_redirect?channel=s_fulfillment)
+- [Daily standup Slack channel #s_fulfillment_daily](https://gitlab.slack.com/app_redirect?channel=s_fulfillment_daily)
+- [Fulfillment announcements Slack channel #s_fulfillment_fyi](https://gitlab.slack.com/app_redirect?channel=s_fulfillment_fyi)
+- [Team calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_7199q584haas4tgeuk9qnd48nc%40group.calendar.google.com)
+- [Fulfillment technical debt status](https://app.periscopedata.com/app/gitlab/1054550/Fulfillment:Platform-Team---Milestone-Reporting?widget=15057739&udv=0)

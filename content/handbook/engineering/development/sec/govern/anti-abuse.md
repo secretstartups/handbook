@@ -1,14 +1,7 @@
 ---
-
 title: Anti-Abuse Group
 description: "The Anti-Abuse group creates controls to prevent abuse of the GitLab product"
 ---
-
-
-
-
-
-
 
 ## Vision
 
@@ -28,15 +21,15 @@ You are encouraged to work as closely as needed with our [stable counterparts](h
 
 Other teams that we might collaborate with include but are not limited to:
 
-* [Govern:Authentication and Authorization](https://about.gitlab.com/handbook/engineering/development/sec/govern/authentication-and-authorization/)
-* [Growth:Acquisition and Activation](https://about.gitlab.com/handbook/engineering/development/growth/)
-* [Fulfillment:Fulfillment Platform](https://about.gitlab.com/handbook/engineering/development/fulfillment/fulfillment-platform/#team-members)
+- [Govern:Authentication and Authorization](https://about.gitlab.com/handbook/engineering/development/sec/govern/authentication-and-authorization/)
+- [Growth:Acquisition and Activation](https://about.gitlab.com/handbook/engineering/development/growth/)
+- [Fulfillment:Fulfillment Platform](https://about.gitlab.com/handbook/engineering/development/fulfillment/fulfillment-platform/#team-members)
 
 Here are some examples of when to engage with your counterpart:
 
-* [Seeking a Govern:Authentication and Authorization review when making a significant change to the registration flow](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/99193#note_1120182366)
-* [Seeking a Fulfillment review when making a change involving Zuora](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/96994#note_1089045221)
-* Discussing in `#f_signup_registration` (Slack, GitLab internal) when making a change that affects how our users signup or login
+- [Seeking a Govern:Authentication and Authorization review when making a significant change to the registration flow](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/99193#note_1120182366)
+- [Seeking a Fulfillment review when making a change involving Zuora](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/96994#note_1089045221)
+- Discussing in `#f_signup_registration` (Slack, GitLab internal) when making a change that affects how our users signup or login
 
 ## Direction
 
@@ -47,18 +40,18 @@ Here are some examples of when to engage with your counterpart:
 
 The following people are permanent members of the Anti-Abuse Group:
 
-<%=  direct_team(role_regexp: /Engineer(.*)Govern:Anti-abuse/, manager_slug: 'jayswain') %>
+{{< team-by-manager-slug manager="jayswain" team="(?i)Engineer(.*)Govern:Anti-abuse" >}}
 
 ## How to contact us
 
-* Tag a team member in a merge request or issue
-* Post a message in the `#g_govern_anti-abuse` Slack channel (GitLab internal)
+- Tag a team member in a merge request or issue
+- Post a message in the `#g_govern_anti-abuse` Slack channel (GitLab internal)
 
 ## Project management process
 
 Our team uses a hybrid of Scrum for our project management process. This process follows GitLab's [monthly milestone release cycle](/handbook/marketing/blog/release-posts/#schedule).
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: 'anti-abuse' } %>
+{{% cross-functional-dashboards filters="anti-abuse" %}}
 
 ### Workflow
 
@@ -91,6 +84,7 @@ We use [planning issues](https://gitlab.com/gitlab-org/modelops/anti-abuse/team-
 We use issue labels to keep us organized. Every issue has a set of required labels that the issue must be tagged with. Every issue also has a set of optional labels that are used as needed.
 
 **Required labels**
+
 - Stage: `~devops::govern`
 - Group: `~group::anti-abuse`
 
@@ -99,6 +93,7 @@ We use issue labels to keep us organized. Every issue has a set of required labe
 MR labels can mirror issue labels (which is automatically done when created from an issue), but only certain labels are required for correctly [measuring engineering performance](#measuring-engineering-performance).
 
 **Required labels**
+
 - Stage: `~devops::govern`
 - Group: `~group::anti-abuse`
 

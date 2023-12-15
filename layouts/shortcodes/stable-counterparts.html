@@ -16,6 +16,13 @@
     {{ $counterparts = append $members $counterparts }}
 {{- end }}
 
+{{- with (.Get "other-manager-roles") }}
+    {{- $members := where $teamSlice "role" "like" . }}
+    {{- range $members }}
+        {{ $counterparts = where $counterparts "reports_to" "ne" .slug }}
+    {{- end }}
+{{- end }}
+
 <table>
     <thead>
         <th>Name</th>

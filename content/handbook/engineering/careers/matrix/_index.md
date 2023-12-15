@@ -3,7 +3,7 @@ title: "Engineering Career Framework"
 description: "These are the expected competencies of Engineering team members at GitLab by Job Title."
 ---
 
-{{% include "includes/engineering/career-matrix-nav.md" %}}
+{{% include "includes/engineering-careers/career-matrix-nav.md" %}}
 
 These are the expected competencies of team members at GitLab by Job Title.
 

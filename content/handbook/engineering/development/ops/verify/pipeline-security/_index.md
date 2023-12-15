@@ -1,27 +1,22 @@
 ---
-
 title: "Verify:Pipeline Security Group"
 description: "The GitLab Verify:Pipeline Security Group Handbook page"
 ---
 
-
-
-
-
-
-
 ## Vision
+
 We provide confidence in software by increasing visibility into code change impacts on software in GitLab.
 
 ## Mission
+
 The Verify:Pipeline Security Group provides visibility into the results of code changes on software applications. We aim to easily integrate layers testing and verification into their GitLab CI workflow including:
 
-* [Build Artifacts](/direction/verify/build_artifacts/)
-* [Secrets Management](/direction/verify/secrets_management/)
+- [Build Artifacts](/direction/verify/build_artifacts/)
+- [Secrets Management](/direction/verify/secrets_management/)
 
 See all current and planned category maturity in the [Maturity page](https://about.gitlab.com/direction/maturity/#verify).
 
-We want software teams to feel confident that the changes they introduce into their code are safe and conformant. 
+We want software teams to feel confident that the changes they introduce into their code are safe and conformant.
 
 ## Performance Indicators
 We measure the value we contribute by using a [Product Performance Indicator](/handbook/product/performance-indicators/). Our current PI for the Pipeline Security group is the [GMAU (internal handbook)](https://internal.gitlab.com/handbook/company/performance-indicators/product/ops-section/#verifytesting---gmau---count-of-active-users-engaging-with-the-test-summary-mr-widget). This is a rolling count of unique users who have triggered a pipeline that uploads a test or coverage report. This is not currently instrumented and we are tracking progress of instrumentation in [gitlab&4528](https://gitlab.com/groups/gitlab-org/-/epics/4528).
@@ -53,36 +48,41 @@ classDiagram
 As part of the [FY22 SaaS First](https://about.gitlab.com/direction/#saas-first) investment theme and our committment to building a reliable service we use error budgets to track availability and help guide how much investment we make milestone to milestone in reliability. More information is shared on the [Ops Section Performance Indicators (internal handbook)](https://internal.gitlab.com/handbook/company/performance-indicators/product/ops-section/#verify-verifytesting---error-budget-for-gitlabcom).
 
 ## Team Members
+
 The following people are permanent members of the Verify:Pipeline Security group:
 
-<%= shared_team_members(role_regexps: [/Verify:Pipeline Security/i]) %>
+{{< stable-counterparts role="Verify:Pipeline Security" >}}
 
 ## Stable Counterparts
 
 To find our stable counterparts look at the Pipeline Security [product category listing](https://about.gitlab.com/handbook/product/categories/#pipeline-security-group).
 
 ## JTBD
+
 You can view and contribute to our current list of JTBD and job statements [here](/handbook/engineering/development/ops/verify/pipeline-security/JTBD/#jobs-to-be-done).
 
 ## Technologies
+
 Like most GitLab backend teams we spend a lot of time working in Rails on the main [GitLab app](https://gitlab.com/gitlab-org/gitlab). Familiarity with Docker and Kubernetes is also useful on our team.
 
 ## Common Links
- * [Issue Tracker](https://gitlab.com/groups/gitlab-org/-/boards/364216?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group::pipeline+security)
- * [Slack Channel](https://gitlab.slack.com/archives/g_pipeline-security)
- * [Roadmap](https://about.gitlab.com/direction/ops/#verify)
- * [GitLab Unfiltered YouTube Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq53VUOvTk3VdXN79PA0SXT)
+
+- [Issue Tracker](https://gitlab.com/groups/gitlab-org/-/boards/364216?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group::pipeline+security)
+- [Slack Channel](https://gitlab.slack.com/archives/g_pipeline-security)
+- [Roadmap](https://about.gitlab.com/direction/ops/#verify)
+- [GitLab Unfiltered YouTube Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq53VUOvTk3VdXN79PA0SXT)
 
 ## Our Repositories
-* [GitLab](https://gitlab.com/gitlab-org/gitlab)
+
+- [GitLab](https://gitlab.com/gitlab-org/gitlab)
 
 ## Our active feature flags
 
 Our active feature flags can be found on the [feature flag dashboard](https://app.periscopedata.com/app/gitlab/792066/Engineering-::-Feature-Flags). Make sure to apply the `team_group` testing filter.
 
-## Dashboards 
+## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Pipeline Security" } %>
+{{% cross-functional-dashboards filters="Pipeline Security" %}}
 
 ## How we work
 
@@ -92,10 +92,10 @@ Our active feature flags can be found on the [feature flag dashboard](https://ap
 Our team does not use [Quad-Planning](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/quad-planning/) because we do not have an assigned Software Engineer in Test. Intead we deploy a "tripod" approach where PM, EM, and UX work together to plan at least three milestones worth of work at a high level. During planning, the PM sets the general direction for the team and works with the EM to ensure the team's plans are ambitious, yet achievable based on the team's capacity. This ensures checks and balances during the planning discussions to minimize carryover and ensure engineering priorities are addressed along with feature priories in the roadmap. UX will work with PM to ensure research and design issue are ready in time for implementation. Planning is mostly asynchoronous via the release planning issue (see below), with additional discussion during weekly 1:1 sessions and team meetings as needed. This tripod approach allows us to address dependencies early on and ensure Design and Engineering are aligned on our product roadmap.
 
 #### Release planning issue
-We use a [release planning issue](https://gitlab.com/gitlab-org/ci-cd/pipeline-security-group/-/issues/new?issuable_template=ReleasePlan) to plan our release-level priorities over each milestone. This issue is used to highlight deliverables, capacity, team member holidays, and more. This allows team members and managers to see at a high-level what we are planning on accomplishing for each release, and serves as a central location for collecting information. It is important to note this planning issue is static once the milestone starts and will not be updated to reflect changes to the milestone (e.g. a higher priority item is added to the milestone post-start and a planned issue is removed). This allows us to compare our baseline plan to final release as part of the retrospective issue. 
+We use a [release planning issue](https://gitlab.com/gitlab-org/ci-cd/pipeline-security-group/-/issues/new?issuable_template=ReleasePlan) to plan our release-level priorities over each milestone. This issue is used to highlight deliverables, capacity, team member holidays, and more. This allows team members and managers to see at a high-level what we are planning on accomplishing for each release, and serves as a central location for collecting information. It is important to note this planning issue is static once the milestone starts and will not be updated to reflect changes to the milestone (e.g. a higher priority item is added to the milestone post-start and a planned issue is removed). This allows us to compare our baseline plan to final release as part of the retrospective issue.
 
 #### Issue weighting and refinement
-Before issues can be moved from the `workflow::planning breakdown` status into the  `workflow::ready for development` status, they must have a weight greater than 0 applied to the issue. 
+Before issues can be moved from the `workflow::planning breakdown` status into the  `workflow::ready for development` status, they must have a weight greater than 0 applied to the issue.
 The Product Manager (PM) and/or Engineering Manager (EM) will tag the approriate team member to provide input for issues that need to be weighed in advance of the target milestone.
 We would like to give engineers one full milestone to refine and weight the issues.
 An issue weight is determined based on the complexity in the following criteria:
@@ -121,7 +121,7 @@ When issues require a design proposal, we follow the [Product Development Flow](
 
 To maintain a SSOT, the same issue should be used for design and development. This creates less duplicated work for both teams. Product designers should use the [UX Definition of Done](https://about.gitlab.com/handbook/product/ux/stage-group-ux-strategy/ci-cd/#ux-definition-of-done-ux-dod) template to clearly state where the issue stands in the product development flow. An example of this in practice is https://gitlab.com/gitlab-org/gitlab/-/issues/33418/.
 
-Once the design is complete, and appropriate workflow labels are applied, design, quality, and development (include FE, BE, and EM) should work together to break down the issue further for implementation, if necessary. 
+Once the design is complete, and appropriate workflow labels are applied, design, quality, and development (include FE, BE, and EM) should work together to break down the issue further for implementation, if necessary.
 
 #### Technical Investigation
 In the process of refinement we may discover a new feature will require a [blueprint](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/doc/workflow.md) or the team feels input from maintainers will help scope down the problem, ensure the feature is performant and/or reduce future technical debt. When this happens the team will create a Technical Investigation issue for the investigation. This issue will be assigned to one team member. That team member should spend the minimum amount of time to create documentation, a [poc](https://about.gitlab.com/handbook/engineering/development/ops/release/poc.html), or some other artifact that clarifies the approach to the problem, ideally in less than 5 working days. This will help us to gather information, validate the solution with others, and propose a plan to execute. They will answer specific questions outlined in the Technical Investigation issue before work on the feature is started. This process is analogous to the concept of a [Spike](/handbook/product/product-processes/#spikes).
@@ -159,7 +159,7 @@ Engineering managers apply the `Deliverable` label on issues that meet the follo
 * It is delivering value that is visible to the user
 * It is near the top of the issue board (high priority)
 * The issue is well-defined
-* UX DoD is applied 
+* UX DoD is applied
 * The issue is weighted
 * The engineering manager believes we have the capacity to complete the work in the assigned milestone
 * The team has accepted the issue into the milestone and moved it to ~"workflow::ready for development" status

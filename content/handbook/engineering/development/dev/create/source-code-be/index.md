@@ -1,14 +1,7 @@
 ---
-
 title: "Create:Source Code BE Team"
 description: The Create:Source Code BE team is responsible for all backend aspects of the product categories that fall under the Source Code group of the Create stage.
 ---
-
-
-
-
-
-
 
 The Create:Source Code BE team focuses on GitLab's suite of Source Code Management (SCM) tools and is responsible for all backend aspects of the product categories that fall under the [Source Code group][group] of the [Create stage][stage] of the [DevOps lifecycle][lifecycle]. Our Product direction is found on the [Category Direction - Source Code Management](https://about.gitlab.com/direction/create/source_code_management/) page.
 
@@ -22,19 +15,30 @@ We interface with the Gitaly and Code Review teams, and work closely with the [C
 
 The following people are permanent members of the Create:Source Code BE Team:
 
-<%= direct_team(manager_role: 'Backend Engineering Manager, Create:Source Code') %>
+{{% team-by-manager-role "Backend Engineering Manager(.*)Create:Source Code" %}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] (Create(?!:)|Create:Source Code)/, direct_manager_role: 'Backend Engineering Manager, Create:Source Code') %>
+{{< stable-counterparts role="Create:Source Code|Technical Writer(.*)Code Review|Director(.*)Create|Principal(.*)Create|Group(.*)Create" manager-role="Backend Engineering Manager(.*)Create:Source Code"  >}}
 
 ## Sisense & KPIs
 
-<%= partial("handbook/engineering/development/dev/create/source-code-be/metrics.erb") %>
+We have a [metrics dashboard](https://app.periscopedata.com/app/gitlab/570334/Universal-Engineering-Team-Metrics-Dashboard) to help us stay on track with [Development KPIs](/company/kpis/#development-department-kpis) (Make sure you filter by our team at the top!) This dashboard does not include security MRs from `dev.gitlab.org`, but does include security MRs from production.
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "source code" } %>
+<div class="cotnainer">
+    <div class="row">
+        <div class="col">
+{{< sisense dashboard="561630" chart="7421124" >}}
+        </div>
+        <div class="col">
+{{< sisense dashboard="561630" chart="7421133" >}}
+        </div>
+    </div>
+</div>
+
+{{% cross-functional-dashboards filters="source code" %}}
 
 ## Workflow
 
@@ -55,7 +59,7 @@ For more urgent items, feel free to use `#g_create_source_code` on Slack.
 
 ### Working with the Product Team
 
-Weekly calls between the Product Manager and Engineering Managers (frontend and backend) are listed in the "Source Code Group" calendar. Everyone is welcome to join and these calls are used to discuss any roadblocks, concerns, status updates, deliverables, or other thoughts that impact the group. 
+Weekly calls between the Product Manager and Engineering Managers (frontend and backend) are listed in the "Source Code Group" calendar. Everyone is welcome to join and these calls are used to discuss any roadblocks, concerns, status updates, deliverables, or other thoughts that impact the group.
 
 #### Issue refinement
 
@@ -68,7 +72,7 @@ Weekly calls between the Product Manager and Engineering Managers (frontend and 
 1. If the planned implementation of the issue can be further broken down, the engineer/EM will work with the PM to reduce scope and create new issues until this is the case (either PM or engineer/EM can create new work items).
 1. When the planned implementation of the issue is in its smallest form, the engineer/EM will provide a weight. EM or PM will mark as `workflow::needs issue review`.
 
-**Note**: if an issue receives a weight > 3 after this process, it may indicate the IC may not have a full idea of what is needed and further research is needed. 
+**Note**: if an issue receives a weight > 3 after this process, it may indicate the IC may not have a full idea of what is needed and further research is needed.
 
 ### Convention over configuration
 
@@ -109,18 +113,18 @@ The weekly Triage Report is generated automatically by the [GitLab bot](https://
 
 The Triage Report can be quite long, and it important to deal with it efficiently. An effective way to approach it is:
 
-* Open every issue in a separate browser tab and use "edit issue" to mark then as checked once review, then close the tab.
-* Verify if the issue belongs to ~"group::source code" and change group label if needed. The [Features by Group](https://about.gitlab.com/handbook/product/categories/features/#createsource-code-group) page is a good starting point for this assessment.
-* Apply ~frontend if it is a frontend issue.
-* Perform a brief search to assess if is a duplicate, close with a ~Duplicate label if this is the case.
-* Is it a ~"support request" ? Does it ~"needs investigation" ? Apply labels if so.
-* Apply ~regression label if it is one, consider bumping severity numbers if recent.
-* Apply ~"severity::4", ~"priority::4", %Backlog if a smaller issue with no significant impact.
-* If an uncontroversial problem with a clear solution, consider applying ~"Seeking community contributions"
-* If also an easier issue which might interest a newer community contributor, consider applying ~"quick win".
-* Apply ~"priority::3" ~"severity::3" if a bug with a workaround.
-* Anything causing data loss, severe performance impact or security apply a ~"severity::1"  and ~"priority::1" or ~"priority::2" and assign to a team member.
-* Unassign yourself from the Triage Report
+- Open every issue in a separate browser tab and use "edit issue" to mark then as checked once review, then close the tab.
+- Verify if the issue belongs to ~"group::source code" and change group label if needed. The [Features by Group](https://about.gitlab.com/handbook/product/categories/features/#createsource-code-group) page is a good starting point for this assessment.
+- Apply ~frontend if it is a frontend issue.
+- Perform a brief search to assess if is a duplicate, close with a ~Duplicate label if this is the case.
+- Is it a ~"support request" ? Does it ~"needs investigation" ? Apply labels if so.
+- Apply ~regression label if it is one, consider bumping severity numbers if recent.
+- Apply ~"severity::4", ~"priority::4", %Backlog if a smaller issue with no significant impact.
+- If an uncontroversial problem with a clear solution, consider applying ~"Seeking community contributions"
+- If also an easier issue which might interest a newer community contributor, consider applying ~"quick win".
+- Apply ~"priority::3" ~"severity::3" if a bug with a workaround.
+- Anything causing data loss, severe performance impact or security apply a ~"severity::1"  and ~"priority::1" or ~"priority::2" and assign to a team member.
+- Unassign yourself from the Triage Report
 
 ### Engineering cycle
 
@@ -176,7 +180,16 @@ Urgent issues are tentatively assigned to a release to ensure other teams have v
 
 At this point the issues are _Candidate_ issues, and the milestone does not confirm that they will be definitely scheduled. Issues move from _Candidate_ status to confirmed during the [Issue selection](#issue-selection) process.
 
-<%= partial("handbook/engineering/development/dev/create/source-code-shared/key_dates.erb") %>
+#### Key Dates
+
+| Date | Event |
+| ------ | ------ | ------ |
+| The Monday of the week the milestone ends |**PM** creates planning board and pings EMs in the Planning Issue for review & weighting.<br><br> **EMs** calculate capacity, add to Planning Issue.<br><br>**PM** submits RPIs for reviews.|
+| Monday to Friday of the week the milestone ends |**EMs** & **ICs** add weights to issues in the planning board|
+| The Friday the milestone ends | **EMs** add ~Deliverable labels to issues so that they appear on the Build board _as a draft_<br><br>Release Post: **EMs**, **PMs**, and **PDs** contribute to MRs for Usability, Performance Improvements, and Bug Fixes|
+| The Friday the milestone ends | **EMs** adjust ~Deliverable labels for slippage and make final assignments<br><br>**PMs** review final plan for milestone on Build board<br><br>**EMs** merge RPI MRs for features that have been merged.|
+| The third Thursday of the month | Release |
+
 
 #### Weighting issues
 
@@ -240,10 +253,10 @@ Capacity planning is a collaborative effort involving all Source Code team membe
 
 Approximately 5-10 business days before the start of a new release, the EM will begin determining how "available" the team will be. Some of the things that will be taken into account when determining availability are:
 
-* Upcoming training
-* Upcoming time off / holidays
-* Upcoming on-call slots
-* Potential time spent on another teams deliverables
+- Upcoming training
+- Upcoming time off / holidays
+- Upcoming on-call slots
+- Potential time spent on another teams deliverables
 
 Availability is a percentage calculated by _(work days available / work days in release) * 100_.
 
@@ -272,15 +285,16 @@ Issues scheduled for the release are then marked ~"workflow::ready for developme
 
 Once availability has been determined, weights have been assigned, and the PM/EM finalize a list of prioritized issues for the upcoming release, kickoff emails will be sent. The intent of this email is to notify you of the work we intend to assign for the upcoming release. This email will be sent before the release begins. The kickoff email will include:
 
-* Your availability, weight budget, and how it was calculated
-* A list of the issues you will most probably be assigned as an individual
-* A reasoning behind why you have been assigned more than your weight budget, if applicable
-* A list of the issues the team is working on that are deemed "note-worthy," in case you'd like to offer help on those issues as time allows
+- Your availability, weight budget, and how it was calculated
+- A list of the issues you will most probably be assigned as an individual
+- A reasoning behind why you have been assigned more than your weight budget, if applicable
+- A list of the issues the team is working on that are deemed "note-worthy," in case you'd like to offer help on those issues as time allows
 
 
 You will begin to collect follow-up issues when you've worked on something in a release but have tasks leftover, such as technical debt, feature flag rollouts or removals, or non-blocking work for the issue. For these, you can address them in at least 2 ways:
-* Add an appropriate future milestone to the follow-up issue(s) with a weight and good description on the importance of working this issue
-* Add the issue(s) to the relevant [planning issue](https://gitlab.com/gitlab-org/create-stage/-/issues?scope=all&utf8=%E2%9C%93&state=opened&search=source+code+group+planning)
+
+- Add an appropriate future milestone to the follow-up issue(s) with a weight and good description on the importance of working this issue
+- Add the issue(s) to the relevant [planning issue](https://gitlab.com/gitlab-org/create-stage/-/issues?scope=all&utf8=%E2%9C%93&state=opened&search=source+code+group+planning)
  
 You should generally take on follow-up work that is part of our [definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done), preferably in the same milestone as the original work, or the one immediately following. If this represents a substantial amount of work, bring it to your manager's attention, as it may affect scheduling decisions.
 
@@ -292,7 +306,7 @@ Many issues require work on both the backend and frontend, but the weight of tha
 
 ### Workflow labels
 
-<%= partial("handbook/engineering/development/dev/create/workflow_labels.erb", locals: { group_label: 'group::source code' }) %>
+{{% engineering/workflow-labels group-label="group::source code" %}}
 
 ### Retrospectives
 
@@ -300,24 +314,25 @@ We have 1 regularly scheduled "Per Milestone" retrospective, and can have ad-hoc
 
 #### Per Milestone
 
-<%= partial("handbook/engineering/development/dev/create/retrospectives.erb", locals: { group: "Source Code", group_slug: 'source-code' }) %>
+{{% engineering/create-retrospectives group-label="Source Code" group-slug="source-code" %}}
 
 #### Per Project
 
 If a particular issue, feature, or other sort of project turns into a particularly useful learning experience, we may hold a synchronous or asynchronous retrospective to learn from it. If you feel like something you're working on deserves a retrospective:
+
 1. [Create an issue](https://gitlab.com/gl-retrospectives/create-stage/source-code/issues) explaining why you want to have a retrospective and indicate whether this should be synchronous or asynchronous
-2. Include your EM and anyone else who should be involved (PM, counterparts, etc)
-3. Coordinate a synchronous meeting if applicable
+1. Include your EM and anyone else who should be involved (PM, counterparts, etc)
+1. Coordinate a synchronous meeting if applicable
 
 All feedback from the retrospective should ultimately end up in the issue for reference purposes.
 
 ### Deep Dives
 
-<%= partial("handbook/engineering/development/dev/create/deep_dives.erb") %>
+{{% include "includes/engineering/create/deep-dives.md" %}}
 
 ### Career development
 
-<%= partial("handbook/engineering/development/dev/create/career_development.erb", locals: { group: "Source Code" }) %>
+{{% engineering/create/career-development "Source Code" %}}
 
 ### Performance Monitoring
 

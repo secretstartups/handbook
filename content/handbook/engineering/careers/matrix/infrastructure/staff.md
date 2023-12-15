@@ -3,7 +3,7 @@ title: "Staff - Infrastructure Department Career Framework"
 description: "The expected team member competencies in the Infrastructure department at GitLab for the Staff job level."
 ---
 
-{{% include "includes/engineering/career-matrix-nav.md" %}}
+{{% include "includes/engineering-careers/career-matrix-nav.md" %}}
 
 ## Staff
 
@@ -51,12 +51,12 @@ Staff-level engineers in infrastructure significantly drive the department's res
 
 ### Staff Leadership Competencies
 
-{{% include "includes/engineering/staff-leadership-competency.md" %}}
+{{% include "includes/engineering-careers/staff-leadership-competency.md" %}}
   
 ### Staff Technical Competencies
 
-{{% include "includes/engineering/staff-technical-competency.md" %}}
+{{% include "includes/engineering-careers/staff-technical-competency.md" %}}
 
 ### Staff Values Alignment
 
-{{% include "includes/engineering/values-competency.md" %}}
+{{% include "includes/engineering-careers/values-competency.md" %}}
