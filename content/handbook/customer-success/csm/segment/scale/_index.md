@@ -59,6 +59,8 @@ At GitLab, we take customer success seriously, and our Scale Customer Success En
 
 ### **Operating Rhythm and Active Campaigns**
 
+![Customer Lifecycle Journey Scale CSE](/handbook/customer-success/csm/segment/scale/CustomerLifecycleJourneywithMetrics-ScaleCSE_Nov-2023.png)
+
 The [Scale CSE operating rhythm](/handbook/customer-success/csm/segment/scale/scale-operating-rhythm/) outlines procedures Scale CSEs use to engage with customers as well as how account owners can request Scale CSE engagement outside of the normal operating rhythm during the customer lifecycle.
 
 Active Campaigns: [Email Content - GitLab Internal Only](https://docs.google.com/document/d/1Db6y_i2gPQrPnJkJpAAbfFKQtw4c5VgSFJcHKDG-4hk/edit)
