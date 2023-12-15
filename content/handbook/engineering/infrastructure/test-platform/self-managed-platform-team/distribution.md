@@ -1,14 +1,7 @@
 ---
 
-title: Quality Engineering in Distribution group
+title: Test Platform in Distribution group
 ---
-
-
-
-
-
-
-
 
 ## Overview
 
@@ -48,7 +41,7 @@ to run GitLab QA locally for development.
     - Some specs might have multiple QA failure issues with different stack trace. In such case, compare failed stack trace from the job with the ones listed in the issues.
 1. If an issue with the same error is not found
     - Continue to debug the QA failure [following the guide](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/#investigate-the-root-cause)
-    - Reach out to the Quality Engineering team - [on-call DRI](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/oncall-rotation/#schedule) or [Distribution SET](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/enablement-saas-platforms-qe-team/#team-members)
+    - Reach out to the Test Platform sub-department - [on-call DRI](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/oncall-rotation/#schedule) or [Distribution SET](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/#team-members)
 
 ### Bug Prioritization
 
