@@ -157,3 +157,8 @@ When we drive our own research projects, it means we're also responsible for soc
 Below is an example of the formatting:
 
 ![Slack snippet](posting.png)
+
+## How UX Researchers handle scheduling Paid Time Off (PTO)
+
+Since UX Researchers work so closely with their teams and participants, it's important to have a plan in place when they're on PTO to keep research projects moving along - even when they're taking time off. Such an approach allows us to support each other as a team.  The following steps outline the process UX Researchers follow, regarding PTO:
+     1. Enter the PTO dates in Time Off by Deel and within the [UXR team availability calendar](https://docs.google.com/spreadsheets/d/1lU8DeJmXNkUZm-zQVFrirthZyZz2lBIVQ8Z_RVVRj9g/edit#gid=0)
