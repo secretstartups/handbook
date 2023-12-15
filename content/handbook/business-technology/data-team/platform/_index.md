@@ -55,7 +55,6 @@ This document is limited to describe the Data Platform conceptually. There are o
 - [Permifrost](/handbook/business-technology/data-team/platform/permifrost/)
 - [Python Guide](/handbook/business-technology/data-team/platform/python-guide/)
 - [Sisense (Periscope)](/handbook/business-technology/data-team/platform/sisensecdt/)
-- [Sisense Style Guide](/handbook/business-technology/data-team/platform/sisense-style-guide/)
 - [Snowplow](/handbook/business-technology/data-team/platform/snowplow/)
 - [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/)
 - [Meltano](/handbook/business-technology/data-team/platform/Meltano-Gitlab/)

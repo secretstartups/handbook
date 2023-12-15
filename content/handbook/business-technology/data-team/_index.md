@@ -218,7 +218,6 @@ You can tag the Data Team in GitLab using:
 | [Data Onboarding](/handbook/business-technology/data-team/programs/#data-onboarding) |
 | [Learning Library](/handbook/business-technology/data-team/learning-library/) |
 | [Sisense  Guide](/handbook/business-technology/data-team/platform/sisensecdt/) |
-| [Sisense Style Guide](/handbook/business-technology/data-team/platform/sisense-style-guide/) |
 | [Tableau Guide](/handbook/business-technology/data-team/platform/tableau/) |
 | [Tableau Style Guide](/handbook/business-technology/data-team/platform/tableau-style-guide/) |
 
@@ -256,7 +255,6 @@ You can tag the Data Team in GitLab using:
     - [RStudio Guide](/handbook/business-technology/data-team/platform/rstudio/)
     - [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/)
     - [Snowplow](/handbook/business-technology/data-team/platform/snowplow/)
-    - [Sisense Style Guide](/handbook/business-technology/data-team/platform/sisense-style-guide/)
     - [Sisense](/handbook/business-technology/data-team/platform/sisensecdt/)
     - [Tableau](/handbook/business-technology/data-team/platform/tableau/)
     - [Tableau Style Guide](/handbook/business-technology/data-team/platform/tableau-style-guide/)
