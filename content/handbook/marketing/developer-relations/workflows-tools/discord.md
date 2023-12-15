@@ -1,13 +1,15 @@
 ---
-layout: handbook-page-toc
+
 title: "Community Discord workflow"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
+
+# Overview
 The [GitLab Community Discord](https://discord.gg/gitlab) server is a place to connect with the wider GitLab community, join live streams and pair-coding sessions, share projects, and discuss contributions with other community members. Whether you're new to GitLab and looking for help getting started or an experienced user looking to share your knowledge with others, the server is a place to chat with the community in real-time.
 
 In our community server, you can:
