@@ -964,6 +964,15 @@ WHERE LOWER(table_schema) = '<DATA_SCHEMA>';
 - Resume the old Stitch replication job so incremental data will start flowing again.
 - ONLY when it is clear that the refreshed data is complete and as expected, drop the old data by running `drop schema clone_<DATA_SCHEMA> cascade;`.
 
+#### Auditing SFDC Stitch data
+After doing a full refresh, it may be useful to audit it against the **source** system itself. This can be done using the Salesforce.com query developer tool.
+
+Here are the steps: 
+1. In 1Pass for account `Salesforce - AnalyticsAPI`, go to the `website` field to access the custom URL.
+1. At the top right under `AnalyticsAPI` dropdown, click Developer Console
+1. Input your query, i.e `select count(id) from contactHistory`
+1. At the bottom left, click `Execute`
+
 ### DBT Full Refresh
 
 #### Business Summary
