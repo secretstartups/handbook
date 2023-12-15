@@ -345,7 +345,7 @@ The following important areas of the GitLab Handbook impact how we work and are 
 * [How to follow our Product Principles](/handbook/product/product-principles/#how-we-follow-our-principles)
 * [Principles of our company strategy](/company/strategy/#principles)
 * [Effective & Responsible Communication Guidelines](/handbook/communication/#effective--responsible-communication-guidelines)
-* [Quality Engineering in Distribution group](/handbook/engineering/infrastructure/test-platform/enablement-saas-platforms-qe-team/distribution/index.html)
+* [Test Platform in Distribution group](/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/distribution/index.html)
 
 ## Work/life harmony
 
