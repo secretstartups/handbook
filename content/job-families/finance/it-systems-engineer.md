@@ -34,7 +34,7 @@ The IT Systems Engineer is responsible for performing functions such as evaluati
 - Ability to create, analyze and action the output of custom reports
 - Developing automation workflows and integrations for repetitive or manual tasks
 - Experience working with CI/CD tools and Git
-- Be on an on-call (PagerDuty) rotation to respond to incidents that impact Corporate IT availability
+- Be part of an on-call (PagerDuty) rotation to respond to incidents that impact Corporate IT system availability
 - Use your on-call shift to prevent incidents from ever happening.
 - Ability to use GitLab
 
