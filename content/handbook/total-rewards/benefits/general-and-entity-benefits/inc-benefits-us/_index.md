@@ -19,7 +19,7 @@ GitLab offers a benefits package that provides health and financial security for
 - Review the [2024 Benefits at Glance](https://drive.google.com/file/d/1TbBefUlpuWpErJ8eEVppZZX_bAoqbT2n/view?usp=sharing) for a high-level Summary of the plans
 - Review the [2024 US Benefits Guide](https://drive.google.com/file/d/1KTgW9U2ByTBHRrjNg623K6DY3-_pKsUD/view?usp=sharing) for full plan details and plan rates. - Candidates and New hires who are about to start with GitLab can view this document by clicking on the link and requesting access, access will be granted shortly after request.
 - Watch the [2024 Benefits Video](https://www.brainshark.com/1/player/willis?pi=zGdz14BY3EzaInCz0&r3f1=&fb=0)
-- Need help selecting a plan? Check out the [PlanSelect Tool](https://myplanselect.com/navigation/Gitlab/2022) to help you find a plan that best suits your needs. You can also reach out to the [Cigna One Guide Service](https://drive.google.com/file/d/1eIvtYtYPSt3Q0h-Byd16CFFfT0bxv8yF/view?usp=sharing) to walk through the GitLab Cigna plans available. 
+- Need help selecting a plan? Check out the [PlanSelect Tool](https://myplanselect.com/navigation/Gitlab/2022) to help you find a plan that best suits your needs. You can also reach out to the [Cigna One Guide Service](https://drive.google.com/file/d/1eIvtYtYPSt3Q0h-Byd16CFFfT0bxv8yF/view?usp=sharing) to walk through the GitLab Cigna plans available.
 - GitLab offers Mental Wellnesss Services through [Modern Health](/handbook/total-rewards/benefits/modern-health/). In addition to these services, team members that enroll in the Cigna and Kaiser plans have access to their network of [Mental Health Programs and Resources](https://drive.google.com/file/d/1LT_LG1Px3xrGMBP0-iMPXaFyQvopfSiL/view?usp=sharing)
 - Please review the most recent [Summary of Material Modifications](https://drive.google.com/file/d/1_j61NVNqUQ0A4RBWM3ihooRuf094QdWr/view?usp=sharing) from Jan 1, 2022. Please review the [2024 Annual Rights and Notices](https://drive.google.com/file/d/1fB5r88VUiydWz3pFk76DFK3h5DTyVaDw/view?usp=sharing)
 - [Transparency in Coverage](https://www.cigna.com/legal/compliance/machine-readable-files) Starting July 1, 2022, this link leads to the machine readable files that are made available in response to the federal Transparency in Coverage Rule and includes negotiated service rates and out-of-network allowed amounts between health plans and healthcare providers. The machine-readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data
@@ -35,8 +35,8 @@ Please see additional information on the 2023 US Benefit Plans:
 - Review the [2023 Benefits at Glance](https://drive.google.com/file/d/19r8Ai1AYft_1b-Pcvnw0cQTCq1O0M86k/view?usp=sharing) and [2023 US Benefits Guide](https://drive.google.com/file/d/1vwdEJIdqogqbfFpwcRVC1cHcjH4SsckR/view?usp=sharing) for full plan details and updated plan rates. - Candidates and New hires who are about to start with GitLab can view this document by clicking on the link and requesting access, access will be granted shortly after request.
 - Watch the [2023 US Benefits Video](https://www.brainshark.com/willis/vu?pi=zIgzfm1iozgaiCz0) for a full review of the benefit plans.
 
-Team Members can find Archived benefit plans, details, and open enrollment for prior years listed below: 
-- [**2023 Calendar Year** ](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/5b8646cc905cb0aad9890c38ab4636f17ff3d5ef/content/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/_index.md)
+Team Members can find Archived benefit plans, details, and open enrollment for prior years listed below:
+- [**2023 Calendar Year**](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/5b8646cc905cb0aad9890c38ab4636f17ff3d5ef/content/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/_index.md)
 - [**2022 Calendar Year**](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/09e5a7b8e3be9a969199786fcee6cff72b40ad1f/sites/handbook/source/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/index.html.md)
 - [**2021 Calendar Year**](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/fd1efce5ea06c2a26dddeec9dea3f3c217adeeab/sites/handbook/source/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/index.html.md)
 
@@ -143,7 +143,7 @@ If you do not enroll in a plan within your benefits election period, you will au
 
 #### Cigna 2024 Calendar Year Plans
 
-Below are the details for the 2024 Calendar Year. For details of the 2023 plan, please refer to [**2023 Calendar Year** ](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/5b8646cc905cb0aad9890c38ab4636f17ff3d5ef/content/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/_index.md)
+Below are the details for the 2024 Calendar Year. For details of the 2023 plan, please refer to [**2023 Calendar Year**](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/5b8646cc905cb0aad9890c38ab4636f17ff3d5ef/content/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/_index.md)
 
 **Coverages:**
 
@@ -189,7 +189,7 @@ Accredo is Cigna's specialty pharmacy. For more information on managing your spe
 
 Note: For the **HSA**, GitLab will contribute $100 per month for individuals and $125 per month for team members + dependent(s) cover. For residents of California, Alabama, and New Jersey this additional contribution is taxable on the state level.  
 
-Watch the [2024 High Deductible (HDHP) & HSA Deep dive Webinar](https://drive.google.com/file/d/1DEvMLEdiR793GXKGcUzt8F6lweJVMYVb/view?usp=sharing) to learn more about this health plan and the tax advantages of enrolling in the HDHP plan with an HSA. 
+Watch the [2024 High Deductible (HDHP) & HSA Deep dive Webinar](https://drive.google.com/file/d/1DEvMLEdiR793GXKGcUzt8F6lweJVMYVb/view?usp=sharing) to learn more about this health plan and the tax advantages of enrolling in the HDHP plan with an HSA.
 
 ##### Cigna Emotional Well-Being Virtual Support
 
@@ -657,7 +657,7 @@ In 2023 the maximum salary deferral contribution has increased to $3,050 USD, wi
 
 In 2024 the maximum salary deferral contribution has increased to $3,200 USD, with the maximum rollover amount increasing to $$640 USD.
 
-FSAs are employer-owned accounts. If you leave GitLab, your Medical FSA account will be terminated on your date of termination unless you continue this through COBRA. You are able to use your full FSA amounts up to and on your last day, but not afterwards unless you enroll into COBRA. WEX (Discovery) asks that all claims be submitted up to 90 days after termination date. You can enroll into COBRA FSA if you have spent less out of your account than you have contributed to it. If you decide to enroll, you will be required to continue making your monthly contributions on a post-tax status.  For additional information, please reach out to WEX (Discovery) at 866.451.3399 or `customerservice@discoverybenefits.com`. Dependent Care FSAs cannot be continued via COBRA. 
+FSAs are employer-owned accounts. If you leave GitLab, your Medical FSA account will be terminated on your date of termination unless you continue this through COBRA. You are able to use your full FSA amounts up to and on your last day, but not afterwards unless you enroll into COBRA. WEX (Discovery) asks that all claims be submitted up to 90 days after termination date. You can enroll into COBRA FSA if you have spent less out of your account than you have contributed to it. If you decide to enroll, you will be required to continue making your monthly contributions on a post-tax status.  For additional information, please reach out to WEX (Discovery) at 866.451.3399 or `customerservice@discoverybenefits.com`. Dependent Care FSAs cannot be continued via COBRA.
 
 FSAs (and Dependent Care FSAs) are subject to annual testing by the Internal Revenue Code guidelines to ensure the pre-tax benefits do not disproportionately benefit highly compensated employees. At the end of each plan year, GitLab will work with WTW to conduct the nondiscrimination testing. If a test returns that highly compensated employees benefit, you may not be able to pre-tax the full amount of your election. This can vary each year and is based upon the dollar amount of non-highly compensated employees’ elections.
 
