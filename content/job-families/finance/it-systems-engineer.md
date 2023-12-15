@@ -24,6 +24,7 @@ The IT Systems Engineer is responsible for performing functions such as evaluati
 - Oversee and provide operations support including account management, workflow, log analysis, troubleshooting and service optimization
 - Assist in ongoing evaluation and management of major vendor relationships and outsourcing arrangements
 - Develop system-monitoring and support automation to enhance and scale the quality of support
+- Provide emergency response either by being on-call or by reacting to symptoms according to monitoring and escalation when needed
 
 ## Requirements
 
@@ -33,6 +34,8 @@ The IT Systems Engineer is responsible for performing functions such as evaluati
 - Ability to create, analyze and action the output of custom reports
 - Developing automation workflows and integrations for repetitive or manual tasks
 - Experience working with CI/CD tools and Git
+- Be on an on-call (PagerDuty) rotation to respond to incidents that impact Corporate IT availability
+- Use your on-call shift to prevent incidents from ever happening.
 - Ability to use GitLab
 
 ## Levels
