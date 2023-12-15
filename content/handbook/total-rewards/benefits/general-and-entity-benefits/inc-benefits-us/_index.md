@@ -647,7 +647,7 @@ Domestic Partner Reimbursements: If the team member is not legally married to th
 FSAs help you pay for eligible out-of-pocket health care and dependent day care expenses on a pretax basis. You determine your projected expenses for the Plan Year and then elect to set aside a portion of each paycheck into your FSA. FSA contributions can only be updated during open enrollment or through a [qualifying life event (QLE)](#qualifying-life-events).
 
 There are three types of FSAs that team members may enroll in:
-- Medical FSA: Lets you pay for all eligible medical expenses, including dental and vision expenses, as well as over-the-counter medications. Team Members who are have an HSA cannot participate in a medical FSA.
+- Medical FSA: Lets you pay for all eligible medical expenses, including dental and vision expenses, as well as over-the-counter medications. Team Members who have an HSA cannot participate in a medical FSA.
 - Dependent Care FSA: restrict eligible expenses to dependent care expenses exclusively. A qualifying ‘dependent’ may be a child under age 13, a disabled spouse, or an older parent in eldercare.
 - Limited Purpose FSA: restrict eligible expenses to dental and vision expenses exclusively. Team members with an HSA can participate in a limited purpose FSA.
 
