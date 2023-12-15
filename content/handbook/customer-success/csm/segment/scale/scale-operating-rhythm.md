@@ -37,7 +37,12 @@ The CSE Team delivers monthly webinars and hands-on labs that are available to a
 
 The upcoming month's webinar dates are added to an issue in the [Customer Success Operations Project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/?label_name%5B%5D=CSOps%20-%20Scale) and the CSE team is asked to sign up as host or Q&A support.  The zoom webinars are created by CS Operations and then the webinar details are added to the webinar calendar.
 
-The host of the webinar should download the recording from [Webinar Master Recordings folder](https://drive.google.com/drive/folders/1x0_7J30cTpfbRXjrXgG_2XOIARLusNt3?usp=drive_link) and do a practice session in the zoom webinar to ensure it plays successfully.  Detailed instructions for playing the video and correctly sharing it via zoom are contained in the [Notes - APAC Scale Webinars google doc](https://docs.google.com/document/d/16a2oQZIm22Uz1hg6in8-shRoEvepvqMeURm0elVs3sI/edit?usp=sharing).
+The host of the webinar should download the recording from [Webinar Master Recordings folder](https://drive.google.com/drive/folders/1x0_7J30cTpfbRXjrXgG_2XOIARLusNt3?usp=drive_link) and do a practice session in the zoom webinar to ensure it plays successfully.  Here are details for playing the video for the webinar:
+
+1.Download Mp4 to your computer the day before session starts.
+1. Start practice session. You'll get a reminder email one day and one hour before the webinar starts and can click on that link. You can join the webinar anytime before it starts in a practice session in order to test the video playback.
+1. Mute yourself and turn off video. The customer will only see the pre-recorded presenter, at no time should they see the panelists. 
+1. Press "Share Screen" > Advanced > Video **DE-Select "Optimize for video clip"** Share > Select the Mp4 file of the recording 
 
 The host and Q&A panelist should start/join the webinar at least 10 minutes before the webinar start time so that they can test the video sharing and ensure everything is set for the webinar.  There is no need for the host to say any opening remarks prior to playing the video.  All housekeeping items are handled as part of the recording.
 
@@ -92,7 +97,7 @@ All customers participating will complete their training using a sandbox sub-gro
 
 ### Scale Engagement Request Process
 
-Account owners (AEs, SAEs) working with customers that [qualify](https://gitlab.com/gitlab-com/customer-success/csm/-/wikis/CSM-Segments) for Scale CSE may find that their customer would benefit from a Scale CSE engagement outside of the [normal operating rhythm during the customer lifecycle](/handbook/customer-success/csm/segment/scale/#customer-lifecycle) (programmatic call invitations from Gainsight, manual outreach by CSE in Outreach, Office Hours and Webinars). In these cases, it is best to submit ad-hoc engagement requests through Salesforce. You can submit a case for a CSE to engage with you on an account by clicking on "CSE Help" at the top of the Salesforce account page chatter (click "Show Feed" to open it first ). This will help to qualify the engagement and help the CSE prepare for a productive conversation with the customer.
+Account owners (AEs, SAEs, Renewals Managers) working with customers that [qualify](https://gitlab.com/gitlab-com/customer-success/csm/-/wikis/CSM-Segments) for Scale CSE may find that their customer would benefit from a Scale CSE engagement outside of the [normal operating rhythm during the customer lifecycle](/handbook/customer-success/csm/segment/scale/#customer-lifecycle) (programmatic call invitations from Gainsight, manual outreach by CSE in Outreach, Office Hours and Webinars). In these cases, it is best to submit ad-hoc engagement requests through Salesforce. You can submit a case for a CSE to engage with you on an account by clicking on "CSE Help" at the top of the Salesforce account page chatter (click "Show Feed" to open it first ). This will help to qualify the engagement and help the CSE prepare for a productive conversation with the customer.
 
 This brief screencast demonstrates how to reveal the CSE Help button when on an account page in Salesforce:
 
@@ -119,7 +124,7 @@ When a CSE has accepted a Scale CSE engagement request, the CSE must then create
    - Priority: (select the most appropriate type based on the request)
    - Playbook: One-Off Scale CSM Outreach
 
-Once the call is complete, the call must be [logged as an activity](/handbook/customer-success/csm/cadence-calls/#review-and-update-account-details) against the customer’s timeline in Gainsight.
+Once the call is complete, the call must be [logged as an activity](/handbook/customer-success/csm/cadence-calls/#review-and-update-account-details) against the customer’s timeline in Gainsight using the `Scale Engagement` meeting type in Gainsight, and filling in the relevant details regarding the customer meeting details.
 
 The CSE should then prepare a follow-up email to be sent to the customer through the email-assist in the task: `Follow Up Email Post One-off Scale CSM Outreach Call Completion`
 
