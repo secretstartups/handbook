@@ -77,7 +77,7 @@ The Zendesk STAR App is available only during our [Global Support Hours](https:/
 
 To access, click on the Apps button located in the top right of the page (underneath your profile icon). When you click on it, it will expand to show the STAR form within Zendesk.
 
-![Zendesk App Button.png](../images/zendesk_app_button.png)
+![Zendesk App Button.png](../images/Zendesk_App_Button.png)
 
 When you use this method, the app automatically acquires most of the required information directly from the ticket. That's a lot less work for you, and you can be assured that the data will already be validated before it is sent to the Support Managers for evaluation.
 
