@@ -78,6 +78,26 @@ When you’re not tackling difficult customer challenges, you’ll have a lot of
 
 ## Specialties
 
+### Assigned Support Engineer (ASE)
+
+For Support Engineers who are nearing or at Senior Level
+
+### The ASE role
+
+- Prioritize a mix of Self-managed and GitLab.com (SaaS) customers with a higher support offering and resolve their issues via Zendesk tickets, merge requests, email and video conferencing
+- Lead the relationship with up to 5 assigned accounts while also contributing to global tickets
+- Become familiar with customer environments and business - to provide an enhanced support experience
+- Build relationship with customer’s team
+- Build a relationship with internal field team
+- Be available during timezone business hours (or arrange temporary cover when not available)
+- Handle all non emergency tickets for Assigned Accounts within SLAs
+- Act as first point of contact for Emergency tickets during business hours for ASE contract
+- Provide timely ticket updates at a cadence agreed with customer
+- Partner with CSM (where allocated) in scheduled review calls to discuss tickets
+- Coordinate with internal teams as necessary to drive decreased time to resolution
+- Coordinate with customer to enable successful upgrades
+- Contribute to normal on call workflow
+
 ### US Government Support Engineer
 
 Support Engineers with verified US Citizenship may join the GitLab US Government Support Team. This group works through the [US Government Support portal](https://about.gitlab.com/support/us-government-support/) to collaborate with Public Sector organizations and United States Government agencies in order to support, maintain, and resolve issues in their GitLab environments.

@@ -101,7 +101,7 @@ flowchart LR
     TP --> TTI[Test and Tools Infrastructure]
     click TTI "engineering/infrastructure/test-platform/dev-qe-team/"
     TP --> SMP[Self-Managed Platform]
-    click SMP "/handbook/engineering/infrastructure/test-platform/enablement-saas-platforms-qe-team/"
+    click SMP "/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/"
     TP --> TE[Test Engineering]
     click TE "/handbook/engineering/infrastructure/test-platform/fulfillment-growth-qe-team/"
 ```

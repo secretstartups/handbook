@@ -430,8 +430,6 @@ Once the FMM has submitted the Contract Request to their FMC and the remaining a
 
 - FMM pings the FMC in the main Field Marketing issue and requests the FMC move the issue to WIP (FMM keeps issue label `mktg-status::plan`)
 - FMC reviews the Allocadia sub-category and line item panel details, as well as checks that the forecasted cost is in the correct month (according to the [prepaid policy](/handbook/finance/accounting/#prepaid-expense-policy)) for the tactic and makes any changes necessary
-- FMC requests the Allocadia line item ID for the tactic be added to NetSuite in [this spreadsheet](https://docs.google.com/spreadsheets/d/1wBqvCvmou4afnb0p8lBXVvFmsl-j0IehS7GdfJybGzg/edit#gid=518252060) (if not already completed during the contract process)
-- FMC adds the Allocadia line item ID to the Event Details section of the issue, where indicated, as well as checks off the box that the Allocadia ID has been created in NetSuite
 - FMC creates the epic and sub-issues utilizing [this list of epics](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status)
 - FMC creates the [Marketo program and SFDC campaign](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status) utilizing the [Program Tracking](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/program-tracking.md) sub-issue previously created
    - FMC pings the FMM in the Program Tracking issue that the Marketo program and SFDC campaign have been created and closes issue

@@ -13,7 +13,7 @@ As a Product Organization, we work to create a flexible yet concise product deve
 
 ### Product Development Flow
 
-Introducing changes requires a number of steps, with some overlap, that should be completed in order.GitLab follows a dual-track [product development flow](/handbook/product-development-flow/) spanning product, engineering, UX, and quality.
+Introducing changes requires a number of steps, with some overlap, that should be completed in order. GitLab follows a dual-track [product development flow](/handbook/product-development-flow/) spanning product, engineering, UX, and quality.
 
 This process should be both up front and on an on-going basis when building features.
 

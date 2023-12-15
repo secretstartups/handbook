@@ -24,17 +24,10 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|
-| Nov 6 | Sales Ops Update: ASM Clari Best Practices | Clari Team |
-| Nov 9 | Sales Ops Update: AE Clari Best Practices | Clari Team |
-| Nov 16 | Competitive Update  | Joe K. |
-| Nov 23 | *No Session - Thanksgiving - US Holiday*  | N/A |
-| Nov 30 | Customer Win Stories & Enablement - Leveraging Professional Services | Melanie R. |
-| Dec 7 | TBD |  |
-| Dec 14 | TBD |  |
-| Dec 21 | TBD |  |
-| Dec 28 | TBD |  |
+| Dec 21 | **No Session** |  |
+| Dec 28 | **No Session** |  |
 | Jan 4 | TBD |  |
-| Jan 11 | TBD |  |
+| Jan 11 | ZoomInfo Overview | ZoomInfo Team |
 | Jan 18 | *No session during the last week of the quarter* | N/A |
 | Jan 25 | *No session during the last week of the quarter* | N/A |
 
@@ -47,6 +40,10 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2023-12-14 | **[Code Suggestions GTM Launch Overview](https://drive.google.com/file/d/1NRqKjVdznClZNT2mFqdP7aYHkmSyfyCA/view?usp=drive_link)** | Private |
+| 2023-11-30 | **[Winning with Professional Services: Customer Stories](https://drive.google.com/file/d/1LkNyGpygFHpVY_b-6_nkY3m109lNqmb9/view?usp=drive_link)** | Private |
+| 2023-11-16 | **[FY24-Q4 Competitive Update](https://drive.google.com/file/d/12DsBAI4vC9mwc8_SrJuixNERL1_JKbzu/view?usp=drive_link)**  | Private |
+| 2023-11-09 | **[Sales Ops Update: AE Clari Best Practices](https://drive.google.com/file/d/1RGjNV4XvB-MkW-OTgw3ITu8-oGlKkns1/view?usp=drive_link)** | Private |
 | 2023-11-02 | **[How to Implement DORA Metrics in GitLab](https://drive.google.com/file/d/1XDqR6peiMYIBs-jdNuvXaz4WlTVqJsTU/view?usp=drive_link)** | Private |
 | 2023-10-19 | **[Pitching GitLab and the Top 10 Reasons Why](https://drive.google.com/file/d/1Mod-ZvWgt85gg55JQke0H1OmGlGm-0sp/view?usp=share_link)**  | Private |
 | 2023-10-12 | **[Analyst Relations - New Gartner & Forrester Security Reports](https://drive.google.com/file/d/1eHc9R-hOtnUT9KNB0oGMTi5mANZGLDKd/view?usp=drive_link)**  | Private |
