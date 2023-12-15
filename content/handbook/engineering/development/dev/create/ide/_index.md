@@ -1,16 +1,9 @@
 ---
-
 title: 'Create:IDE Team'
 description: >-
   The IDE Team is part of the Create Stage. We focus on multiple categories:
   Remote Development and the Web IDE.
 ---
-
-
-
-
-
-
 
 ## Overview
 
@@ -30,18 +23,18 @@ The following people are permanent members of the IDE Engineering Team:
 
 **Engineering Manager & Engineers**
 
-<%= direct_team(manager_slug: 'adebayo_a') %>
+{{< team-by-manager-slug "adebayo_a" >}}
 
 **Product, Design & Quality**
 
-<%= stable_counterparts(role_regexp: /Create:IDE/, direct_manager_role: 'Engineering Manager, Create:IDE') %>
+{{< stable-counterparts role="Create:IDE" manager-role="Engineering Manager(.*)Create:IDE" >}}
 
 ### ☕ Team Category DRIs
 
-| Category                 | DRI            |
-|--------------------------|----------------|
-| Remote Development       | Vishal Tak     |
-| Web IDE                  | Paul Slaughter |
+| Category                 | DRI                                     |
+|--------------------------|-----------------------------------------|
+| Remote Development       | {{< member-by-name "Vishal Tak" >}}     |
+| Web IDE                  | {{< member-by-name "Paul Slaughter" >}} |
 
 ### ☎️ How to reach us
 
@@ -189,7 +182,7 @@ classDef issueCreateLabel fill:#6aa84f,color:#fff;
   F(workflow::in dev):::workflowLabel
   G(workflow::complete):::workflowLabel
 
-  A -- Reviewed by EM, PM, Design, and end leads --> B 
+  A -- Reviewed by EM, PM, Design, and end leads --> B
   B --> C
   C -- Yes --> D
   D -- tech spike, break down issue, etc. --> C
@@ -223,8 +216,8 @@ To facilitate this process, especially around calculating emergent iterations ba
 See [this video](https://www.youtube.com/watch?v=XcHpLhs7Fl0) for an overview of the extension, and also for an explanation of
 this general process, and why we need to use an extension to support it rather than the current  standard GitLab Iteration and Board features.
 
-This extension is in support of a [GitLab OKR](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/2085) for Create. 
-We plan to continue iterating in this area, with the goal of eventually having GitLab directly support this workflow. 
+This extension is in support of a [GitLab OKR](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/2085) for Create.
+We plan to continue iterating in this area, with the goal of eventually having GitLab directly support this workflow.
 
 ### Process Phases
 
@@ -266,7 +259,7 @@ See the [following discussion thread](https://gitlab.com/gitlab-org/create-stage
 
 #### 2. Pre-Iteration Planning Meeting
 
-**TL;DR:** 
+**TL;DR:**
 
 - **Async phase - Refinement: Divide up the work to refine each `rd-workflow::unprioritized` issue which has the `%"Next 1-3 releases"` milestone using the [Remote Development issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Remote%20Development%20Group%20-%20issue.md), then apply the `refined` label.**
 - **Sync phase - Prioritization: Product and Engineering leaders meet to appropriately prioritize each `refined` issue into the `rd-workflow::prioritized` lane on the Iteration Planning board.**
@@ -395,7 +388,7 @@ the first line of the issue should have the format: `MR: <...>`:
 
 1. For new issues, the first description line should be: `MR: Pending`
 1. Once an MR is created for the issue and work is started, the first description line of the issue should be: `MR: <MR link with trailing +>`,
-   and the first description line of the MR should be `Issue: <Issue link with trailing +>` 
+   and the first description line of the MR should be `Issue: <Issue link with trailing +>`
 1. If there is _NO MR_ associated with this issue, the first line should be: `MR: No MR`.
    However, this should be rare, because most issues should have some sort of committed deliverable, even if it is only
    a documentation addition or update. If it is an issue which represents a larger piece of work split across smaller issues,
@@ -426,12 +419,12 @@ To assign weights to issues effectively, it's important to remember that issue w
 Some issues are large in scope to start implementing, and/or still has too many unknowns/risks. In this case, we should break it down into smaller issues which can be implemented in a single iteration. These smaller issues should ideally have a weight of 3 or less, but never more than 5. Here's our process:
 
 1. Create an investigation issue to identify the work that needs to be done. This issue represents the work needed to research, investigate, discover and document the effort, and break the work down into new issues which are small and clear enough to be prioritized and started. The investigation issue should have a weight assigned which reflects the effort required perform this investigation and breakdown. Here's an example: https://gitlab.com/gitlab-org/gitlab/-/issues/408186.
-2. While the investigation issue work is ongoing, we create a temporary "placeholder" issue on our Iteration Board. This placeholder issue serves to capture the scope of the effort in our velocity-based capacity planning calculations while the investigation to break is down is still ongoing.
+1. While the investigation issue work is ongoing, we create a temporary "placeholder" issue on our Iteration Board. This placeholder issue serves to capture the scope of the effort in our velocity-based capacity planning calculations while the investigation to break is down is still ongoing.
     1. It should have a weight of either 8/13+ (indicating that it is too large to be prioritized and started, and must be broken down.
     1. The title format for the placeholder issue is `[Category] - Iteration Planning Placeholder for [description of work]`. Here's an example: https://gitlab.com/gitlab-org/gitlab/-/issues/408093.
     1. The description should have a link to the investigation issue, and a reminder to remove the weight and close it once the smaller replacement issues are created.
     1. The `~blocked` label can be applied so it is clear that this issue should is not ready for development. Unfortunately, we must still apply the `~Deliverable` label to this issue, because that is the only way we can associate it with the Iteration Cadence for velocity calculations.
-3. Once the investigation and breakdown into smaller issues is complete, then the weight can be removed and the issue closed.
+1. Once the investigation and breakdown into smaller issues is complete, then the weight can be removed and the issue closed.
 
 ### 🍨 Handling Remote Development Issues Outside the Process
 
@@ -480,7 +473,7 @@ In this case, if issues should be good for any contribution it should be treated
 
 The IDE Group collates all video recordings related to the group and its team members in [a playlist][youtube] in the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube channel.
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "IDE" } %>
+{{% cross-functional-dashboards filters="IDE" %}}
 
 ### Create:IDE Error Budget
 
@@ -495,7 +488,7 @@ Automations should be set up via [triage-ops](https://gitlab.com/gitlab-org/qual
 
 **NOTE: Some of the following automations related to iterations are currently blocked by https://gitlab.com/gitlab-org/gitlab/-/issues/384885.**
 
-Ideally we should automate as much of the [Remote Development Planning Process](#-remote-development-planning-process) workflow as possible. 
+Ideally we should automate as much of the [Remote Development Planning Process](#-remote-development-planning-process) workflow as possible.
 
 We have the following automation goals for the Remote Development Workflow. Unless otherwise noted, these rules are all defined in the  [triage-ops `policies/groups/gitlab-org/ide/remote-development-workflow.yml` config file](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml))
 
@@ -563,7 +556,7 @@ We have the following automation goals for the Remote Development Workflow. Unle
     one of the following milestones must be assigned to all issues in `~rd-workflow::unprioritized`:
    - `%"Next 1-3 releases"`
    - `%"Next 4-7 releases"`
-   - `%"Next 7-13 releases"` 
+   - `%"Next 7-13 releases"`
    - `%Backlog`
    - `%Awaiting further demand`
 

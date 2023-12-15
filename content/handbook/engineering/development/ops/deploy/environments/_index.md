@@ -1,15 +1,7 @@
 ---
-
 title: Environments Group
 description: "The Environments group is responsible for the Environments in the Deploy stage of the DevOps lifecycle."
 ---
-
-
-
-
-
-
-
 
 ## Vision
 
@@ -32,13 +24,13 @@ overall vision.
 
 ## Team Members
 
-<%= direct_team(manager_slug: 'nicolo-maria-mezzopera') %>
+{{< team-by-manager-slug "nicolo-maria-mezzopera" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Deploy:Environments/, manager_slug: 'nicolo-maria-mezzopera') %>
+{{< stable-counterparts role="Deploy:Environments" manager="nicolo-maria-mezzopera" >}}
 
 ## Common Links
 
@@ -56,7 +48,7 @@ Some dedicated Slack channels:
 
 ## Insights
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "environments" } %>
+{{% cross-functional-dashboards filters="environments" %}}
 
 ## Processes
 

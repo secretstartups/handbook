@@ -71,7 +71,7 @@ The following members of other functional teams are our stable counterparts:
 
 ### Dashboards
 
-{{% cross-function-dashboard filters="enablement" section=true %}}
+{{% cross-functional-dashboards filters="enablement" section=true %}}
 
 ### Weekly Async Updates (No Status Update In Meetings)
 

@@ -1,13 +1,6 @@
 ---
-
 title: Package:Package Registry Group
 ---
-
-
-
-
-
-
 
 ## 📦 The Team
 
@@ -20,13 +13,13 @@ stage](/handbook/engineering/development/ops/package/), which integrates with [G
 
 The following people are permanent members of the Package Registry Group:
 
-<%= direct_team(role_regexp: /Package Registry/, manager_slug: 'crystalpoole') %>
+{{< team-by-manager-slug manager="crystalpoole" team="Package Registry" >}}
 
 ### Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Package/, manager_slug: 'crystalpoole') %>
+{{< stable-counterparts manager="crystalpoole" role="[,&] Package" >}}
 
 ## How We Work
 
@@ -102,7 +95,7 @@ Here is the [standard, company-wide process for OKRs](https://about.gitlab.com/c
 
 We measure the value we contribute by using [performance indicator metrics](/handbook/product/performance-indicators/). The primary metric used for the Package Registry group is the number of monthly active users or GMAU.
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Package Registry" } %>
+{{% cross-functional-dashboards filters="Package Registry" %}}
 
 ### What Are We Working On
 

@@ -1,13 +1,6 @@
 ---
-
 title: Engineering Principles
 ---
-
-
-
-
-
-
 
 ## Engineering Principles
 
@@ -181,7 +174,7 @@ If it is decided **not** to refactor at this moment, then please:
 
 Please see the [Product Management section](/handbook/product/product-processes/#how-we-prioritize-work) that governs how they prioritize work, and also should guide our technical decision making.
 
-<%= partial "includes/master-prioritization-list.md" %>
+{{% include "includes/engineering/master-prioritization-list.md" %}}
 
 Despite the high priority of velocity to our project and our company, there is one set of things we must prioritize over it: GitLab availability & security. Neither we, nor our customers, can run an Enterprise-grade service if we are willing to risk users' productivity and data.
 
@@ -277,7 +270,7 @@ Part of our engineering culture is to keep shipping so users and customers see s
 
 It’s important to keep in mind that when building complex applications, there are many factors to consider such as the fully planned feature to avoid situations where we build an MVC in HAML only to later need to re-write it in Vue due to growing complexity.
 
-To promote visual consistency and an accessible UI, we should always aim to use simple and reusable UI components provided by the [GitLab UI component library](https://gitlab.com/gitlab-org/gitlab-ui/) both in Vue and HAML views. We implement GitLab UI components based on our Pajamas design system and currently these are mostly in Vue, however, we provide [adapters](https://docs.gitlab.com/ee/development/fe_guide/haml.html#available-components) that allow us to use a few simple components in HAML as well. 
+To promote visual consistency and an accessible UI, we should always aim to use simple and reusable UI components provided by the [GitLab UI component library](https://gitlab.com/gitlab-org/gitlab-ui/) both in Vue and HAML views. We implement GitLab UI components based on our Pajamas design system and currently these are mostly in Vue, however, we provide [adapters](https://docs.gitlab.com/ee/development/fe_guide/haml.html#available-components) that allow us to use a few simple components in HAML as well.
 
 If a GitLab UI component is not available on HAML due to its intrinsic complexity, this is a sign that you should implement your feature using Vue instead.
 

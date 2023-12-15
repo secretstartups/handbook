@@ -1,14 +1,7 @@
 ---
-
 title: "Verify:Pipeline Execution Group"
 description: "The GitLab team page for the Pipeline Execution Group."
 ---
-
-
-
-
-
-
 
 ## Vision
 
@@ -27,11 +20,62 @@ This team maps to [Verify](/handbook/product/categories/#verify-stage) DevOps st
 
 ## Driving Factors
 
-<%= partial("handbook/engineering/development/ops/verify/pipeline-execution/includes/driving-factors.erb") %>
+Our focus is on improving our performance, scalability, and developer efficiency with our engineering driven efforts.
+We will also continue to address Customer Experience through our quality initiatives. Key aspects of each of these areas are outlined below.
+
+### Performance
+
+  - Improving perceived performance from a customer perspective. For example, responsive UIs, reduced time to results.
+  - Reducing processing time in Pipeline Execution owned code.
+  - Ensuring the reliably of results. For example, return results to web requests in a timely manner (overlaps with scalability).
+
+### Scalability
+
+  - Supporting a lot of customers.
+  - Supporting a single customer with a large and/or complex set up.
+
+### Developer Efficiency
+
+  - Reducing the complexity of the codebase.
+  - Dealing with the breadth of the code owned by the team.
+  - Reducing length of time it takes to get an MR through the review process.
+  - Ensuring efficiency related to Community Contributions;
+     - Ensuring that issues are approachable by the community.
+     - Improving efficiency in the review process for community contributions.
+
+### Customer Experience
+
+  - Ensuring that customer issues are resolved in a timely manner.
+  - Addressing SUSImpacting issues in a timely manner.
+  - Ensuring reliable and accurate documentation is available.
 
 ## Performance Indicator
 
-<%= partial("handbook/engineering/development/ops/verify/pipeline-execution/includes/performance_indicators.erb") %>
+We measure the value we contribute by using Performance Indicators (PI), which we define and use to track progress.
+The current [PI for the Pipeline Execution group](/handbook/product/performance-indicators/#verify-ci-verify-runner-count-of-pipelines-triggered-by-unique-users) is the `number of unique users who trigger ci_pipelines`. For more details, please check out the [Product Team Performance Indicators](/handbook/product/performance-indicators/#regular-performance-indicators). To view the latest Verify stage ci_pipeline data see our [Sisense Dashboard](https://app.periscopedata.com/app/gitlab/538594/Verify-Stage-Dashboard).
+
+### Usage Funnel
+
+Based on the AARRR framework (Acquisition, Activation, Retention, Revenue, Referral), this funnel represents the customer journey in using GitLab CI.  Each state in the funnel is defined with a metric to measure behavior. Product managers can focus on any of the various states in the funnel to prioritize features that drive a desired action.
+
+```mermaid
+classDiagram
+  Acquistion --|> Activation
+    Acquistion: Awareness - Are users aware of CI pipelines?
+    Acquistion: Measurement (Total count of users in GitLab Projects with access to `git write` or "SCM Users")
+  Activation --|> Retention
+    Activation: Use - Are users creating CI configurations/pipelines?
+    Activation: Measurement (Total count of projects with .gitlab-ci.yml files)
+  Retention --|> Revenue
+    Retention: Continued use - Are users triggering CI pipelines?
+    Retention: Measurement (Total count of projects with a .gitlab-ci.yml file and CI pipeline triggered)
+  Revenue --|> Referral
+    Revenue: Monetary value - Are users paying for the CI features?
+    Revenue: Measurement (Total count of projects using paid CI features)
+  Referral --|> Acquistion
+    Referral: Endorsement - Are user encouraging others to use GitLab CI?
+    Referral: Measurement (Total count of Pipelines page views from social media))
+```
 
 ### Core domain
 
@@ -77,11 +121,89 @@ Not included in the Pipeline Execution group's domain:
 
 ## Technical Roadmap
 
-<%= partial("handbook/engineering/development/ops/verify/pipeline-execution/includes/technical-roadmap.erb") %>
+### FY24
+
+These are our high-level engineering driven goals for the year. As with any of our goals, they are ambitious and subject to change.
+
+#### Performance
+
+##### Pipeline Speed
+
+**Goals:**
+
+- Understand what we can do to improve pipeline speed
+- Prototype at least one big swing improvement
+
+##### Pipeline Scheduling Algorithm / Queuing
+
+**Goals:**
+
+- Settle on path forward for what changes we want to make to the algorithm
+- Complete phase 1 implementation based on decisions
+
+##### Fix Long Standing Pipeline Status Issues
+
+**Goals:**
+
+- Deep dive into existing pipeline status issues and code.
+    - Determine if there are and make systemic changes to address a number of the issues.
+
+#### Scalability
+
+##### CI Database Partitioning
+
+**Goals:**
+
+- Complete the data partitioning of the 6 largest CI tables - [Blueprint](https://docs.gitlab.com/ee/architecture/blueprints/ci_data_decay/pipeline_partitioning.html)
+
+##### Reduce Operating costs
+
+**Goals:**
+
+- Identify potential cost savings from compressing job logs - [Spike](https://gitlab.com/gitlab-org/gitlab/-/issues/390114)
+    - Depending on results, schedule work to implement compression.
+
+#### Developer Efficiency
+##### Frontend Refactoring to Vue
+
+**Goals:**
+
+- Complete the refactoring of the schedules pages to Vue
+- Complete the refactoring of the pipeline triggers pages to Vue
+- Complete the refactoring of the pipeline subscriptions pages to Vue
+
+##### Support Internal Pipeline Dogfooding
+
+**Goals:**
+
+- Contribute to [Dogfooding Audit](https://gitlab.com/gitlab-org/quality/engineering-productivity/team/-/issues/206)
+    - Schedule issues that arise as a result of the audit
+
+##### Merge Trains
+
+**Goals:**
+
+- Get merge trains to a state where they are scalable enough to be used effectively by the GitLab project.
+
+### Projected Timeline
+
+#### Q3 - Theme: Scaling & Performance
+
+- Focus on CI Database Partitioning
+- Merge train improvements
+- Investigate potential cost savings for compressed job logs
+- Refactor frontend to Vue
+
+#### Q4 - Theme: Performance & Efficiency
+
+- Focus on CI Database Partitioning across the team
+- Continue Merge train improvements
+- Refactor frontend to Vue
+- Pipeline status issues
 
 ## Team Members
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Verify:Pipeline Execution') %>
+{{< team-by-manager-role role="Fullstack Engineering Manager, Verify:Pipeline Execution" >}}
 
 ### Additional Team Responsibilities
 
@@ -154,34 +276,36 @@ To find our stable counterparts, look at the Pipeline Execution [product categor
 
 ## Technologies
 
-<%= partial("handbook/engineering/development/ops/verify/includes/technologies.erb") %>
+Like most GitLab backend teams we spend a lot of time working in Rails on the main [GitLab CE app](https://gitlab.com/gitlab-org/gitlab-ce),
+but we also do a lot of work in Go which is the language that [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner)
+is written in. Familiarity with Docker and Kubernetes is also useful on our team.
 
 ## Useful Links
 
- * [Issue tracker: `~group::pipeline execution`](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Apipeline+execution&scope=all)
- * [Slack channel: `#g_pipeline-execution`](https://gitlab.slack.com/archives/CPCJ8CCCX)
- * [GitLab unfiltered: Pipeline Execution group](https://www.youtube.com/playlist?list=PL05JrBw4t0KpsVi6PG4PvDaVM8lKmB6lV)
- * [Grafana dashboard](https://dashboards.gitlab.net/d/stage-groups-pipeline_execution/stage-groups-group-dashboard-verify-pipeline-execution?orgId=1)
- * [Sisense dashboard](https://app.periscopedata.com/app/gitlab/983566/Pipeline-Execution-Dashboard)
- * [Next planning issue](https://gitlab.com/gitlab-org/ci-cd/pipeline-execution/-/issues/?sort=popularity&state=opened&label_name%5B%5D=Planning%20Issue&first_page_size=20)
- * [Current milestome retro](https://gitlab.com/gl-retrospectives/verify-stage/pipeline-execution/-/issues?search=Pipeline+Execution+retrospective&sort=popularity&state=opened)
- * [Needs weight board][needs-weight-board]
- * [Current milestone board][workflow-board]
+- [Issue tracker: `~group::pipeline execution`](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Apipeline+execution&scope=all)
+- [Slack channel: `#g_pipeline-execution`](https://gitlab.slack.com/archives/CPCJ8CCCX)
+- [GitLab unfiltered: Pipeline Execution group](https://www.youtube.com/playlist?list=PL05JrBw4t0KpsVi6PG4PvDaVM8lKmB6lV)
+- [Grafana dashboard](https://dashboards.gitlab.net/d/stage-groups-pipeline_execution/stage-groups-group-dashboard-verify-pipeline-execution?orgId=1)
+- [Sisense dashboard](https://app.periscopedata.com/app/gitlab/983566/Pipeline-Execution-Dashboard)
+- [Next planning issue](https://gitlab.com/gitlab-org/ci-cd/pipeline-execution/-/issues/?sort=popularity&state=opened&label_name%5B%5D=Planning%20Issue&first_page_size=20)
+- [Current milestome retro](https://gitlab.com/gl-retrospectives/verify-stage/pipeline-execution/-/issues?search=Pipeline+Execution+retrospective&sort=popularity&state=opened)
+- [Needs weight board][needs-weight-board]
+- [Current milestone board][workflow-board]
 
 ### Development Docs
 
 For those new to the team, these links may be helpful in learning more about the product and technology.
 
- * [CI/CD Development Documentation](https://docs.gitlab.com/ee/development/cicd/index.html)
+- [CI/CD Development Documentation](https://docs.gitlab.com/ee/development/cicd/index.html)
 
 ### Engineering Overview
 
- * [CI Backend Architectural Walkthrough - May 2020](https://www.youtube.com/watch?v=ew4BwohS5OY)
- * [Frontend CI product / codebase overview - June 2020](https://www.youtube.com/watch?v=7CUd7aAUiWo)
+- [CI Backend Architectural Walkthrough - May 2020](https://www.youtube.com/watch?v=ew4BwohS5OY)
+- [Frontend CI product / codebase overview - June 2020](https://www.youtube.com/watch?v=7CUd7aAUiWo)
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Pipeline Execution" } %>
+{{% cross-functional-dashboards filters="Pipeline Execution" %}}
 
 #### Cross-functional prioritisation
 
@@ -194,6 +318,7 @@ The [Pipeline Execution Workflow board][workflow-board] is the source of truth f
 ### Planning
 
 Our planning timeline follows the [GitLab Product Development timeline](/handbook/engineering/workflow/#product-development-timeline).
+<<<<<<< HEAD
 * By the day the milestone starts:
   * The PM will assign or update `Verify::P*` labels to indicate which issues will be scheduled into upcoming milestones. Verify::P1 indicates a ~Deliverable for the current milestone. Verify::P2 a ~Deliverable for next milestone, and so on.
   * The PM will request a list of bugs to be added to the `workflow::ready for development` column aligning with the theme for the next upcoming milestone in the planning issue
@@ -225,13 +350,41 @@ Our planning timeline follows the [GitLab Product Development timeline](/handboo
     * Moved to a future milestone.
     * Remain in the current milestone as `~Stretch` goals.
   * The EM and PM will remove any remaining issues in `workflow::planning breakdown` that do not have a due date requiring them to be completed in that milestone. They can either be moved into a future milestone or the %Backlog depending on team priorities.
+=======
 
-* By the release day:
-  * Each engineer will assign themself to one Verify::P1 issue in the upcoming milestone if they have not already been assigned on by the EM.
-  * The designated DRI for milestone planning will follow-up with engineers for any `~Verify::P1` issues not yet in `workflow::ready for development`.
+- By the day the milestone starts:
+  - The PM will assign or update `Verify::P*` labels to indicate which issues will be scheduled into upcoming milestones. Verify::P1 indicates a ~Deliverable for the current milestone. Verify::P2 a ~Deliverable for next milestone, and so on.
+  - The PM will request a list of bugs to be added to the `workflow::ready for development` column aligning with the theme for the next upcoming milestone in the planning issue
+  - The [`~needs weight` board][needs-weight-board] should be updated by the PM for all issues being considered for future milestones that need weight and apply the `workflow::planning breakdown` label.
+  - The EM and/PM will ensure that the WIP limit is set appropriately on the `workflow::ready for development` column based on the average closed weight of past milestones.
 
-* By one week after each monthly release:
-  * Engineers have completed refining the assigned `Verify::P*` issues and move them to `workflow::ready for development` and removing the `needs weight` label. Tagging in the PM and EM for visibility.
+- By Wednesday, 15 days before the release day:
+  - The SET/QEM submits a list of `~"type::bug"` issues for the upcoming milestone on the planning issue. The weight for these issues + any `Verify::P1, type::bug` issues should total approximately 40% of the WIP limit for the `~"workflow::ready for development"` column.
+  - The EM submits the list of `~"type::maintenance"` issues for the upcoming milestone on the planning issue. The weight for these issues + any `Verify::P1, type::maintenance` issues should total approximately 40% of the WIP limit for the `~"workflow::ready for development"` column.
+  - The PM will provide the list of `~"type::feature"` issues for the upcoming milestone. The weight for these issues + any `Verify::P1, type::feature` issues should total approximately 20% of the WIP limit for the `~"workflow::ready for development"` column.
+
+- By the Monday the week the milestone ends:
+  - Planning issue is finalized and PM will tag manager, SET/QEM, Product Design, engineers, and EM for review and feedback.
+
+- By the Friday the milestone ends:
+  - Engineers should update the planning issue with any issues that may carry forward.
+  - Based on capacity, engineers will assign themselves to `Verify::P*` [`~needs weight`][needs-weight-board] issues to apply weight. Issues should be selected for in order of Verify::P1, Verify::P2, then Verify::P3.
+  - PM completes monthly kick-off video featuring `~direction` and `Verify::P1` issues
+
+- By the Monday of release week:
+  - The PM will set `~cicd::active` on any issues in `workflow::ready for development` that could be worked on in the upcoming milestone. The total weight for this column on [the board](https://gitlab.com/groups/gitlab-org/-/boards/3465921) will not exceed 100% of the average shipped milestone's weight. For example, if the team's average closed issues weight for a milestone is 30, the column should not exceed 30 weight.
+      - The EM will ensure that `~Deliverable` is added to any `~Verify::P1` issues
+      - The PM will set the milestone for any `~Verify::P1` issues to the current milestone.
+  - The designated DRI for milestone refining will review the state of issues on the [`~needs weight` board][needs-weight-board] to ensure that all issues for future milestones are being weighted and refined by team members.
+    - For any `Verify::P*` issues where team members have not already started the refinement process, the designated DRI will comment on the issue asking a specific team member or team members to start the process.
+  - The EM will work with the PM and engineers to decide what should happen to any unassigned issues. They might be:
+    - Reassigned with agreement from the engineer.
+    - Placed in the `%Backlog`
+    - Moved to a future milestone.
+    - Remain in the current milestone as `~Stretch` goals.
+  - The EM and PM will remove any remaining issues in `workflow::planning breakdown` that do not have a due date requiring them to be completed in that milestone. They can either be moved into a future milestone or the %Backlog depending on team priorities.
+- By one week after each monthly release:
+  - Engineers have completed refining the assigned `Verify::P*` issues and move them to `workflow::ready for development` and removing the `needs weight` label. Tagging in the PM and EM for visibility.
 
 **Note:** The EM and PM may need to modify the team commitments and schedule work for the upcoming milestone as we focus on [Customer Results](https://about.gitlab.com/handbook/values/#results) over what we plan.
 
@@ -307,16 +460,16 @@ We use the [Pipeline Execution Workflow issue board][workflow-board] to track wh
 
 Development moves through workflow states in the following order:
 
- 1. `workflow::design` (if applicable)
- 1. `workflow::planning breakdown`
- 1. `workflow::ready for development`
- 1. `workflow::in dev`
- 1. `workflow::blocked` (as necessary)
- 1. `workflow::in review`
- 1. `workflow::verification`
- 1. `workflow::awaiting security release` (if applicable)
- 1. `workflow::feature-flagged` (if applicable)
- 1. `workflow::complete` `Closed`
+1. `workflow::design` (if applicable)
+1. `workflow::planning breakdown`
+1. `workflow::ready for development`
+1. `workflow::in dev`
+1. `workflow::blocked` (as necessary)
+1. `workflow::in review`
+1. `workflow::verification`
+1. `workflow::awaiting security release` (if applicable)
+1. `workflow::feature-flagged` (if applicable)
+1. `workflow::complete` `Closed`
 
 `workflow::planning breakdown` is driven by Product, but is a collaborative effort between Product and Engineering. The steps for **planning breakdown** typically consists of:
  - Product defining or clarifying the problem statement. Product  will collaborate on `problem validation` as needed.
@@ -354,11 +507,12 @@ When DRIs select issues, they will assign themselves to the issue and also add t
 Each member of the team can choose which issues to work on during a milestone by assigning the issue to themselves. When the milestone is well underway and we find ourselves looking for work, we default to working **right to left** on the **[issue board][workflow-board]** by pulling issues in the right-most column. If there is an issue that a team member can help with on the board, they should do so instead of starting new work. This includes conducting code review on issues that the team member may not be assigned to, if they feel that they can add value and help move the issue along to completion. Additionally, prior to picking up the next issue from the top of the `workflow::ready for development` column, team members should check the [`~needs weight` board][needs-weight-board] to ensure everything in the `Verify::P*` columns has been weighted.
 
 Specifically, this means our work is prioritized in the following order:
- * Any verification on code that is in `workflow::verification` or `workflow::production`
- * Conducting code reviews on issues that are `workflow::in review`
- * Unblocking anyone in `workflow::blocked` or `workflow::in dev` if applicable
- * Check the [`~needs weight` board][needs-weight-board] for any issues needing to be weighted in current milestone.
- * Then, picking from the top of the `workflow::ready for development` column
+
+- Any verification on code that is in `workflow::verification` or `workflow::production`
+- Conducting code reviews on issues that are `workflow::in review`
+- Unblocking anyone in `workflow::blocked` or `workflow::in dev` if applicable
+- Check the [`~needs weight` board][needs-weight-board] for any issues needing to be weighted in current milestone.
+- Then, picking from the top of the `workflow::ready for development` column
 
 The goal of this process is to reduce the amount of work in progress (WIP) at any given time. Reducing WIP forces us to "Start less, finish more", and it also reduces cycle time. Engineers should keep in mind that the DRI for a merge request is **the author(s)**, to reflect the importance of teamwork without diluting the notion that having a [DRI is encouraged by our values](/handbook/people-group/directly-responsible-individuals/#dris-and-our-values).
 
@@ -375,7 +529,18 @@ Doing this provides several benefits:
 1. It's easier to see what work can be picked up by each functional group.
 1. We can schedule feature work across multiple milestones.
 
-<%= partial("handbook/engineering/development/ops/verify/includes/splitting_issues.erb") %>
+
+When moving an issue through `workflow::design` to `workflow::planning breakdown` and implementation, use one of these processes:
+
+| Frontend? | Backend? | Action |
+| --------- | -------- | ------ |
+| Yes       | Yes      | Original issue is renamed to a `Frontend` implementation issue and a separate `Backend` implementation issue is created. |
+| No        | Yes      | Original issue is renamed to a `Backend` implementation issue. |
+| Yes       | No       | Original issue is renamed to a `Frontend` implementation issue. |
+
+If an issue in `workflow::design` is too large in scope to be effectively implemented in one issue, or in case the issue is old and too cluttered with discussions, the issue can be broken down into smaller issues. The Product Designer will work together with the Engineers and the Product Manager during `workflow::design` to understand the possible iteration plan and break down the large design proposal into smaller parts whenever possible.
+
+When new implementation issues are created, they should always be linked to the initial issue that contains the proposal and relevant discussions.
 
 Please use implementation issues responsibly.
 They make sense for larger issues, but can be cumbersome for smaller features.
@@ -395,12 +560,14 @@ The following are definitions of the health status options:
 - `At Risk` - The issue is highly **unlikely** to be completed in the current milestone, and will probably miss the release due dates.
 
 Examples of how status updates are added:
+
 1. If the health status changes from `On Track` to `Needs attention` or `At Risk`, we recommend that the DRI add a short comment stating the reason for the change in an [issue status update](#issue-status-updates).
 1. If an issue continues to be `On Track`, the DRI could provide a comment to indicate solutions (whatever it may be) continue to be implemented, and it's still _on track_ to be delivered in the same milestone.
 
 ##### Issue status updates
 
 When the DRI is actively working on an issue  (workflow status is `workflow::in dev`, `~workflow::in review`, or `workflow::verification` in the current milestone), they will add a comment into the issue with a status update, detailing:
+
 - the updated issue health status
 - notes on what was done based on the updated issue health status (especially if not `On Track`)
 - anything else the DRI feels is beneficial to reflect the progress
@@ -488,7 +655,7 @@ We also ensure we are collaborating with our teammates in customer support and c
 
 The feature flags introduced by the team still in the code can be found in this table.
 
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10522908, dashboard: 792066, embed: 'v2', filters:[{"name": "team_group", "value": "pipeline execution"}]) %>">
+{{< sisense-with-filters dashboard="792066" chart="10522908" team_group="pipeline execution" >}}
 
 You can also search all Feature Flags through Sam's great [tool here](https://samdbeckham.gitlab.io/feature-flags/#%5B%7B%22type%22:%22group%22,%22value%22:%7B%22data%22:%22group::pipeline%C2%A0execution%22,%22operator%22:%22=%22%7D%7D,%7B%22type%22:%22filtered-search-term%22,%22value%22:%7B%22data%22:%22%22%7D%7D%5D) (prefiltered for pipeline exeuction)
 
@@ -536,10 +703,10 @@ Suppose working one milestone ahead to design the big solution is not possible. 
 
 #### Avoiding crunch times between UX, Product and Engineering
 
-* Ideally, Product Management and Product Designers aim to work 3 months in advance of Engineering proposals to ensure the problem definition and solution has been adequately validated prior to building. See [Validation track](/handbook/product-development-flow/#validation-track) for more details. This allows us to come up with the bigger idea ahead of time, and work further with Engineering to break it down into smaller iterations. Ideally, this should be completed before the implementation milestone starts.
-* the Product Designer, PM, and Engineering use the [Design phase](/handbook/product-development-flow/#validation-phase-3-design) in the Validation track to talk about complexities and discuss challenges and uncover blockers. Once we are all in agreement, we can move it to the [Solution Validation phase](/handbook/product-development-flow/#validation-phase-4-solution-validation).
-* If it is taking more than a week to understand and investigate the technical feasibility for the design solution, update the workflow label to `~workflow::blocked` and change the assignee to engineering DRIs until the technical discussion is resolved. If the discussion is expected to go on longer, reducing the chances of the design solution being delivered in the intended milestone, consider creating [a spike issue](/handbook/engineering/development/ops/verify/pipeline-execution/#spikes) for the discussion that blocks the current issue.
-* Engineers and Product Designers should stay in contact and frequently align throughout the [Build track](/handbook/product-development-flow/#build-track) to avoid unplanned changes.
+- Ideally, Product Management and Product Designers aim to work 3 months in advance of Engineering proposals to ensure the problem definition and solution has been adequately validated prior to building. See [Validation track](/handbook/product-development-flow/#validation-track) for more details. This allows us to come up with the bigger idea ahead of time, and work further with Engineering to break it down into smaller iterations. Ideally, this should be completed before the implementation milestone starts.
+- the Product Designer, PM, and Engineering use the [Design phase](/handbook/product-development-flow/#validation-phase-3-design) in the Validation track to talk about complexities and discuss challenges and uncover blockers. Once we are all in agreement, we can move it to the [Solution Validation phase](/handbook/product-development-flow/#validation-phase-4-solution-validation).
+- If it is taking more than a week to understand and investigate the technical feasibility for the design solution, update the workflow label to `~workflow::blocked` and change the assignee to engineering DRIs until the technical discussion is resolved. If the discussion is expected to go on longer, reducing the chances of the design solution being delivered in the intended milestone, consider creating [a spike issue](/handbook/engineering/development/ops/verify/pipeline-execution/#spikes) for the discussion that blocks the current issue.
+- Engineers and Product Designers should stay in contact and frequently align throughout the [Build track](/handbook/product-development-flow/#build-track) to avoid unplanned changes.
 
 #### Collaborating with the Wider Community on Community Merge Requests
 
@@ -550,8 +717,6 @@ For more details on how to contribute to GitLab generally, please see our [docum
 The Engineering DRI works with the Product Designer throughout the `workflow:in dev` phase to uncover possible problems with the solution early enough that exhibit unexpected behaviour to what was originally agreed upon. If there are changes to be added that weren't agreed upon in the initial issue - a followup issue should be made and the Engineering DRI should work with the Product Manager to schedule that issue in a following milestone. This allows us to focus on [cleanup over signoff](/handbook/values/#cleanup-over-sign-off), iterate quickly on issues with [a low level of shame](/handbook/values/#low-level-of-shame), and still make sure we accomplish what we've agreed upon. We should be careful not to hold off on completing these followup issues so that we don't build up a significant amount of UX debt issues.
 
 If we find that solutions are consistently not matching the agreed upon design, we will hold a retrospective with the DRI, designer, and product manager to discuss where the gaps in communication are so that we can improve. It may be necessary to begin requiring a UX approval for merge requests on certain issues to help the Engineering DRI meet the requirements.
-
-
 
 ### Collaborating with other Product Groups at GitLab
 
@@ -568,11 +733,12 @@ lists some ways we work to deliver tests in a painless and efficient way.
 
 We aim to define needed tests early with [Quad-planning](/handbook/engineering/development/ops/verify/pipeline-authoring/#quad-planning).
 All the testing should be defined before the implementation starts and all parties should agree on:
+
 - What type of test coverage is needed.
 - Who is the DRI for which test.
 - What is to be delivered.
 - When it will be delivered.
-  - If Feature flag is required consider [strategy for testing feature flags in end to end tests](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/782)
+    - If Feature flag is required consider [strategy for testing feature flags in end to end tests](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/782)
 
 #### E2E tests are written in parallel
 
@@ -623,6 +789,7 @@ exception, not the rule.
 When creating follow-up issues for tests, we have to ensure that they are not going to sit on a pile in the backlog.
 Tests are essential and should be prioritized as such.
 When creating a follow-up issue for required tests:
+
 - Make sure to assign the issue to the following milestone and make room for it to be worked on.
 - Add all the context necessary to test the feature in the description, for example: Where it is, how it works, how to configure it, etc.
 - Assign a DRI immediately and cc the product manager so that they are aware of the issue and required work.
@@ -695,11 +862,11 @@ To better understand the risk environment and each risk's causes and consequence
 
 ### Retrospectives
 
-<%= partial("handbook/engineering/development/ops/verify/includes/retrospectives.erb") %>
+{{% include "includes/engineering/verify-retrospectives.md" %}}
 
 ### Team Communication
 
-<%= partial("handbook/engineering/development/ops/verify/includes/team_communication.erb", locals: { slack_channel: 'g_pipeline-execution', slack_url: 'https://gitlab.slack.com/archives/CPCJ8CCCX', group_label: 'group:pipeline execution', group_issues_url: 'https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Apipeline+execution&scope=all', gitlab_subgroup: 'pipeline-execution-group' }) %>
+{{% engineering/verify-team-communication slack-channel="g_pipeline-execution" slack-url="https://gitlab.slack.com/archives/CPCJ8CCCX" group-label="group:pipeline execution" group-issues-url="https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Apipeline+execution&scope=all', gitlab_subgroup: 'pipeline-execution-group" %}}
 
 ## Developer Onboarding
 

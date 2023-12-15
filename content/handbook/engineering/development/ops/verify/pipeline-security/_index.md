@@ -1,23 +1,18 @@
 ---
-
 title: "Verify:Pipeline Security Group"
 description: "The GitLab Verify:Pipeline Security Group Handbook page"
 ---
 
-
-
-
-
-
-
 ## Vision
+
 We provide confidence in software by increasing visibility into code change impacts on software in GitLab.
 
 ## Mission
+
 The Verify:Pipeline Security Group provides visibility into the results of code changes on software applications. We aim to easily integrate layers testing and verification into their GitLab CI workflow including:
 
-* [Build Artifacts](/direction/verify/build_artifacts/)
-* [Secrets Management](/direction/verify/secrets_management/)
+- [Build Artifacts](/direction/verify/build_artifacts/)
+- [Secrets Management](/direction/verify/secrets_management/)
 
 See all current and planned category maturity in the [Maturity page](https://about.gitlab.com/direction/maturity/#verify).
 
@@ -53,28 +48,33 @@ classDiagram
 As part of the [FY22 SaaS First](https://about.gitlab.com/direction/#saas-first) investment theme and our committment to building a reliable service we use error budgets to track availability and help guide how much investment we make milestone to milestone in reliability. More information is shared on the [Ops Section Performance Indicators (internal handbook)](https://internal.gitlab.com/handbook/company/performance-indicators/product/ops-section/#verify-verifytesting---error-budget-for-gitlabcom).
 
 ## Team Members
+
 The following people are permanent members of the Verify:Pipeline Security group:
 
-<%= shared_team_members(role_regexps: [/Verify:Pipeline Security/i]) %>
+{{< stable-counterparts role="Verify:Pipeline Security" >}}
 
 ## Stable Counterparts
 
 To find our stable counterparts look at the Pipeline Security [product category listing](https://about.gitlab.com/handbook/product/categories/#pipeline-security-group).
 
 ## JTBD
+
 You can view and contribute to our current list of JTBD and job statements [here](/handbook/engineering/development/ops/verify/pipeline-security/JTBD/#jobs-to-be-done).
 
 ## Technologies
+
 Like most GitLab backend teams we spend a lot of time working in Rails on the main [GitLab app](https://gitlab.com/gitlab-org/gitlab). Familiarity with Docker and Kubernetes is also useful on our team.
 
 ## Common Links
- * [Issue Tracker](https://gitlab.com/groups/gitlab-org/-/boards/364216?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group::pipeline+security)
- * [Slack Channel](https://gitlab.slack.com/archives/g_pipeline-security)
- * [Roadmap](https://about.gitlab.com/direction/ops/#verify)
- * [GitLab Unfiltered YouTube Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq53VUOvTk3VdXN79PA0SXT)
+
+- [Issue Tracker](https://gitlab.com/groups/gitlab-org/-/boards/364216?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group::pipeline+security)
+- [Slack Channel](https://gitlab.slack.com/archives/g_pipeline-security)
+- [Roadmap](https://about.gitlab.com/direction/ops/#verify)
+- [GitLab Unfiltered YouTube Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq53VUOvTk3VdXN79PA0SXT)
 
 ## Our Repositories
-* [GitLab](https://gitlab.com/gitlab-org/gitlab)
+
+- [GitLab](https://gitlab.com/gitlab-org/gitlab)
 
 ## Our active feature flags
 
@@ -82,7 +82,7 @@ Our active feature flags can be found on the [feature flag dashboard](https://ap
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Pipeline Security" } %>
+{{% cross-functional-dashboards filters="Pipeline Security" %}}
 
 ## How we work
 

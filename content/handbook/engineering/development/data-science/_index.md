@@ -1,14 +1,7 @@
 ---
-
 title: Data Science
 description: "The Data Science stage is focused on leveraging ML in the GitLab product and preventing abuse in the application."
 ---
-
-
-
-
-
-
 
 ## Vision
 
@@ -46,4 +39,4 @@ as well as a general guide to Data Science Engineering continuity in the event o
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_section_dashboard.erb", locals: { filter_value: "ModelOps" } %>
+{{% cross-functional-dashboards filters="ModelOps" %}}
