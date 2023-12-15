@@ -32,7 +32,6 @@ Our server has several channels dedicated to different topics of discussion. Her
 | `#general` | Main channel for general discussions. |
 | `#community-help` | Forum format channel for support questions - community helping the community. |
 | `#contribute` | Contribution discussions focused on the making & enhancing of GitLab. |
-| `#pairing` | Community members pair programming on specific issues. |
 
 There are also more specific channels for the hackathon, events, and community-based support.
 
@@ -48,7 +47,7 @@ We use Discord bots and integrations to manage our community.
 
 ## Moderation
 
-We strive to maintain a positive environment on the Discord server. These moderation guidelines are designed to ensure an inclusive and respectful environment for all community members. At this time, GitLab team members serve as moderators. 
+We strive to maintain a positive environment on the Discord server. These moderation guidelines are designed to ensure an inclusive and respectful environment for all community members. At this time, GitLab team members and GitLab core team members serve as moderators. 
 
 ### Moderation Guidelines
 
@@ -89,7 +88,7 @@ If the message is a serious violation (e.g. hate speech, repeated spam) or a com
 
 If the mesage is a severe violation (e.g harrassment, threats, inappropriate content) or if a member has repeatedly violated the rules and well-being of the community despite an official warning and/or temporary timeout, moderators should consider a permanent ban and [raise a Code of Conduct issue](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/) to discuss the violation. It is not necessary to raise an issue for one-off violations, such as a spam. Use issues as a basis of documentation and discussion for more serious violations that may require follow-up or proof of decision making in case of escalation or a ban appeal from the user. 
 
-**Ban Appeals process**
+##### Ban Appeals process
 
 As a GitLab Community Discord member, if you feel you've received an unfair timeout or ban, you can submit an appeal. The appeals process is as follows:
 
