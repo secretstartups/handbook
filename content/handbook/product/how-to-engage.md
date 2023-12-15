@@ -240,7 +240,9 @@ Ask the following questions, as applicable:
 
 It is best practice to ask for a PM to join your call through the slack channel for their [group or category](/handbook/product/categories/#devops-stages). Direct messages are problematic because it is hard to loop in other PMs if the right person for the call is not included in the DM, and it limits visibility into topics that may be discussed. If you are unsure about the right group to reach out to, you can ask in the general [#product](https://gitlab.slack.com/archives/C0NFPSFA8) channel.
 
-It is important that the PM have as much information and context as possible in advance of the call. Fill out the [PM Customer Meeting Briefing Document](https://docs.google.com/document/d/1TPJwjJTOrlrtuJ_srs631ndL6dkiwl9yIi3PPtgStos/edit#heading=h.sujaka5bd7jl) and share with the PM well in advance of the meeting. In addition, make sure you have a detailed agenda set at least 24 hours before the call that is shared with both the customer and the Product team.
+Before reaching out to the PM, fill out the [PM Customer Meeting Briefing Document](https://docs.google.com/document/d/1TPJwjJTOrlrtuJ_srs631ndL6dkiwl9yIi3PPtgStos/edit#heading=h.sujaka5bd7jl) and send it to the PM along with your request. The PM will review the doc and let you know if they are able to attend the meeting. PMs may decline meeting requests if they do not receive the context doc or if it is only partially complete. We recommend sending this context along with your request at least 3 business days before the meeting. The PM will review the document and provide feedback to ask for further clarity if needed.
+
+In addition, once the call is scheduled, make sure you have a detailed agenda set at least 24 hours before the call that is shared with both the customer and the Product team.
 
 
 ### EBR Preparation
