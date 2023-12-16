@@ -251,7 +251,7 @@ We do this in many ways, including:
 
 * posts on the GitLab blog
 * case studies for GitLab.com
-* webcasts and webniars for GitLab's video channels
+* webcasts and webinars for GitLab's video channels
 * event showcases and presentations
 
 We tag partner-related stories with the `open-source` tag on [the GitLab Blog](https://about.gitlab.com/blog/categories/open-source/).
@@ -260,7 +260,7 @@ We often connect with partners when we feel we can help them share stories relat
 
 * Their plans to migrate infrastructure to GitLab
 * Their success at migrating infrastructure to GitLab
-* Their innovative use of GitLab to build something notatble or solve a tehnical/social challenge for their project and community
+* Their innovative use of GitLab to build something notable or solve a technical/social challenge for their project and community
 * Their resolution of critical technical challenges that align with themes central to other GitLab marketing campaigns (e.g., CI/CD, security, or project management)
 
 We track the status of this work with the [GitLab Open Source Partners Editorial Queue](https://gitlab.com/gitlab-com/marketing/developer-relations/open-source-program/gitlab-open-source-partners/publications-and-presentations/-/boards/5105228).
@@ -365,7 +365,7 @@ GitLab's open source program maintains a small budget for sponsorship of events 
 We typically allocate this budget for local and regional community-driven events that GitLab's corporate events and field marketing teams have not already agreed to sponsor and staff.
 We prefer to sponsor events at which multiple open source projects and communities are present.
 
-The open source program team tracks event partication in the [Open Source Marketing project on GitLab](https://gitlab.com/gitlab-com/marketing/developer-relations/open-source-program/open-source-marketing).
+The open source program team tracks event participation in the [Open Source Marketing project on GitLab](https://gitlab.com/gitlab-com/marketing/developer-relations/open-source-program/open-source-marketing).
 To suggest an open source event sponsorship, open an issue in this project and use the `event` issue template to file your request.
 
 Event organizers and consortium leads working with GitLab will find GitLab's brand-related assets (such as logo files, press release boilerplate, and trademark information) in [GitLab's press kit](https://about.gitlab.com/press/press-kit/).
