@@ -77,7 +77,7 @@ The Senior Director, Field Enablement is a [grade 11](/handbook/total-rewards/co
 
 ## Senior Manager, Field Enablement Programs
 
-The Senior Manager, Field Enablement Programs is a global Sales, Partner, Technical, or Customer Success Enablement leader with the ability to thrive in a growing software AI-Powered DevSecOps organization. Reporting to the Director or Sr Director of Field Enablement, they are responsible for building and managing a world-class global sales training and enablement program.
+The Senior Manager, Field Enablement Programs is a global Sales, Partner, Technical, or Customer Success Enablement leader with the ability to thrive in a growing software AI-Powered DevSecOps organization. Reporting to the Director or Sr Director of Field Enablement, they are responsible for building and managing a world-class global training and enablement program.
 
 ### Job Grade
 
@@ -85,17 +85,42 @@ The Senior Manager, Field Enablement Programs is a [grade 9](/handbook/total-rew
 
 ### Responsibilities
 
-
+- Develop the successful planning and execution of the sales or technical sales enablement programs to ensure field team members and partners are equipped with content, resources, tools and training to effectively differentiate and sell the GitLab solution.
+-Build and define revenue team capability models and product knowledge skills matrices.
+-Lead the build, deployment, maintenance, and reporting of blended learning solutions (including digital self-service, experiential/labs, instructor-led workshops, assessments, and technical accreditations).
+-Manage annual skills assessments and report on the continuous progress improvements and opportunities or skill gaps.
+-Collaborate regularly with Customer Success, Solutions Architecture, Technical Marketing, and Customer Education teams to align on sales or technical sales enablement plans and learning paths.
+-Analyze and report on the success of all enablement programs and training, including business outcomes like use case adoption, effective proof of value and trial execution, pipeline generation, product competitive differentiation and customer messaging (at scale), and efficient pipeline stage progression.
+- Manage blended (self-paced, live virtual), result-driven continuous learning programs.
+-Determine opportunities for improving the sales learning experience, and identify innovative techniques for delivery.
 
 ### Requirements
 
+-Demonstrated progressive software sales experience with expertise in DevSecOps and/or open source, preferably in sales or technical enablement and management.
+- Relevant experience preparing, developing, and executing global revenue teams’ effectiveness strategies, tactics and action plans for a technology platform.
+- Ability to quickly understand technical concepts and explain them to audiences of varying technical expertise (sales team, customer success team, and channel partners).
+- Working knowledge of enablement technology and methodologies; demonstrable experience with sales, partner, technical, and customer success enablement concepts, practices, and procedures.
+- Experience developing enablement programs for technical and sales audiences, specifically focused on building revenue teams' product knowledge.
+- Experience growing within a small start-up. Strong ability to interact and influence effectively with VP-level and Executive team members.
+- Exceptional written/verbal communication and presentation skills.
+- Team player with strong interpersonal skills, skilled at project management and cross-functional collaboration.
+- Ability to thrive in a fast-paced, unpredictable environment.
+- You share our values, and work in accordance with those values.
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
+- Ability to use GitLab
+
 ### Performance Indicators
 
-
+- Net ARR vs Plan
+- Revenue team productivity
+- Percent of ramped reps at or above quota
+- Forecast/pipeline accuracy and management
+- Pipeline conversion and velocity
+- Enablement activity engagement and confidence (qualitative results)
 
 ## Manager, Field Enablement Programs
 
-The Manager of Field Enablement Programs is a global Sales, Partner, Technical, or Customer Success Enablement leader with the ability to thrive in a growing software AI-Powered DevSecOps organization. Reporting to the Director or Sr Director of Field Enablement, they are responsible for building and managing a world-class global sales training and enablement program.
+The Manager of Field Enablement Programs is a global Sales, Partner, Technical, or Customer Success Enablement leader with the ability to thrive in a growing software AI-Powered DevSecOps organization. Reporting to the Director or Sr Director of Field Enablement, they are responsible for building and managing a world-class global training and enablement program.
 
 ### Job Grade
 
@@ -126,10 +151,12 @@ The Manager, Field Enablement Programs is a [grade 8](/handbook/total-rewards/co
 
 ### Performance Indicators
 
-- IACV vs Plan
-- Percent of Ramped Reps at or Above Quota
-- Forecast/pipeline management
+- Net ARR vs Plan
+- Revenue team productivity
+- Percent of ramped reps at or above quota
+- Forecast/pipeline accuracy and management
 - Pipeline conversion and velocity
+- Enablement activity engagement and confidence (qualitative results)
 
 ## Career Ladder
 
