@@ -1,17 +1,8 @@
 ---
-
 title: "Channel Partner Technical Presales Enablement"
 ---
 
-
-
-
-
-
-
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-
-
 
 In this section of the Channel Partner Programs Handbook we review assets and enablement from the perspective of GitLab Partners' Technical constituencies.
 
@@ -20,8 +11,6 @@ Beyond our Channel Partners Handbook pages, you will find sales guides, use case
 Rember that some of the links below require you to login to [GitLab's Partner Portal](https://partners.gitlab.com/) first. If you haven't already, [here is where you register for portal access](https://partners.gitlab.com/English/).
 
 # Presales and Technical Enablement Resources
-
-{: .gitlab-orange}
 
 ## Foundational Knowledge
 
@@ -54,7 +43,6 @@ Learn what GitLab is, what it offers, and what it does
 **Additional References for You**
   - [GitLab internal Sales Training Resources](/handbook/sales/training/) (Handbook)
     - Review this page for all of the sales related training that internal GitLab sellers go through.
-
 
 ## 2. Pitching GitLab and Showcasing a Solution
 
@@ -110,8 +98,6 @@ Learn how to identify the most valuable challenges and leverage the GitLab DevSe
   - [Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/) and [Install Guides](https://docs.gitlab.com/ee/install/) (GitLab Docs)
     - GitLab has a leading market share in self-managed deployments.  Here are our technical specs and docs for solutioning and installing GitLab instances.  
 
-
-
 ## 3.  Closing the Deal
 
 Learn how to construct and transact a GitLab deal
@@ -129,7 +115,6 @@ Learn how to construct and transact a GitLab deal
   - [GitLab Price Book](https://partners.gitlab.com/prm/English/s/assets?collectionId=49441) (Portal Asset)
     - Review the skews and reseller pricing available to you for quoting to your customers. (login required)
 
-
 ## 4.  Post-sales Implementation and Adoption Journey
 
 Delivery docs and technical guidance for your GitLab practice engineers
@@ -137,7 +122,8 @@ Delivery docs and technical guidance for your GitLab practice engineers
 **Implementing a GitLab Instance**
   - [Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/)
     - **Read, understand, and follow the guidance given in this reference architecture page.  It's crucially important for long term maintainability of a GitLab instance.**
-  - [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/gitlab-environment-toolkit#documentation)
+  - [GitLab Environment Toolkit GET](https://gitlab.com/gitlab-org/gitlab-environment-toolkit#documentation)
+    - [GET getting started video](https://partners.gitlab.com/prm/English/s/assets?id=543232&renderMode=Collection)
     - **This is the Way... to install GitLab.**  The GitLab Environment Toolkit (GET) is a set of opinionated Terraform and Ansible scripts to assist with deploying scaled self-managed GitLab environments following the Reference Architectures.  Built and actively maintained by the Quality Enablement team.
   - [Other Installation Methods](https://docs.gitlab.com/ee/install/install_methods.html)
     - Make sure any automation you provide that automatically installs GitLab is installing the Enterprise Edition, and leverages at the core one of these installation methodologies to have a suppored configuration
@@ -175,18 +161,13 @@ Delivery docs and technical guidance for your GitLab practice engineers
   - [Using GitLab Tutorials](https://docs.gitlab.com/ee/tutorials/) (GitLab Docs)
     - These video and web page tutorials are included in the GitLab Docs site.  They are a great starting point for learning or deploying technical capabilities.
 
-
-
 **Additional References for You**
 - [Service Kits](https://partners.gitlab.com/prm/English/c/Channel_Service_Packages) (Portal Assets)
   - We have developed service kits for you including sample Statements of Work (SOWs) and Levl of Effort (LOEs).
 - [Delivery Kits](https://gitlab.com/gitlab-org/professional-services-automation/delivery-kits) (Portal Assets)
   - These delivery kits are what our internal PS teams use for customer projects.  Go grab what you need!
 
-
 # Additional Resources
-
-{: .gitlab-orange}
 
 ## 1. Official GitLab Training on Level Up
 
@@ -194,7 +175,6 @@ Delivery docs and technical guidance for your GitLab practice engineers
   - We use LevelUp that is accessible publicly, but please do not use the site directly as a Partner.  Please login through the Partner Portal and access training there.  This will ensure that the training you take will be associated with your company partnership with GitLab!
 
     ![Start Training from the Partner Portal](images/gitlab-partner-training.png)*Start Training from the Partner Portal*
-
 
 ## 2. Additional Enablement Resources at GitLab
 
