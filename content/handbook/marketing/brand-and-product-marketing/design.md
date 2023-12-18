@@ -151,7 +151,7 @@ Artwork that draws inspiration from or is based on GitLab’s intellectual prope
    - If your Fanart incorporates any other GitLab IP (e.g., screenshots, likenesses, or imagery taken directly from GitLab materials), reach out to #brand for review.  
 - Do not imply that the Fanart is official GitLab content. For example:
    - Do not use Fanart in any GitLab materials, such as slide decks, printed collateral, or swag.
-   - Don’t use or distribute Fanart to Gitlab customers, or at events that you attend on GitLab’s behalf.
+   - Don’t use or distribute Fanart to GitLab customers, or at events that you attend on GitLab’s behalf.
 - Do not sell or otherwise use Fanart for commercial purposes. For example:
    - Do not sell Fanart stickers or T-shirts.
    - Don’t use Fanart to advertise any businesses, services, or products.

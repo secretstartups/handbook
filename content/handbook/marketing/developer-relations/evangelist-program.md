@@ -344,7 +344,7 @@ These are just a few benefits of being an active hero. We look forward to learni
 
 GitLab Heroes swag is available only for GitLab Heroes.
 
-Gitlab Heroes swag fulfillment is managed by Boundless.
+GitLab Heroes swag fulfillment is managed by Boundless.
 
 Note: Process will be updated soon, new merch is coming soon.
 
