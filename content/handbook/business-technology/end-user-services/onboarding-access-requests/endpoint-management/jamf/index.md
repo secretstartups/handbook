@@ -210,6 +210,22 @@ If you use [Fish Shell](https://fishshell.com/), Jamf's inventory process may be
 
 # Frequently Asked Questions
 
+### Check if Jamf was installed on a new Mac automatically
+
+1. Go to Apple Logo (at the top left corner of screen) -> System Settings
+1. Search in the "System Settings" search box for "Profiles"
+1. You should see (at a minimum) - "This Mac is supervised and managed by: Gitlab Inc." and an "MDM Profile". There will likely be other profiles also listed, these are okay as well.
+
+<img src="jamf-profiles.png" alt="Jamf Profiles" width="500">
+
+If you do not see the MDM Profile, please proceed with [Jamf enrollment](#enrolling-in-jamf).
+
+You can also verify that Jamf installation is complete by checking if the "Self Service" application is installed by using `Spotlight Search` via a CMD + Space combination, and search for the phrase `Self Service`.
+
+<img src="spotlight-self-service.png" alt="Spotlight Self Service" width="300">
+
+If you do see the MDM Profile but not the Self Service application, please reach out in #it_help on Slack.
+
 ### How do I verify my connection to Jamf or re-initiate a connection to the Jamf console?
 
 1. Open Terminal on your MacBook. One way to do so is to access the `Spotlight Search` via a CMD + Space combination, and search for the word `Terminal`.
