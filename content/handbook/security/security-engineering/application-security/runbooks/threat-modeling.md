@@ -41,7 +41,7 @@ for various threat modeling cases throughout GitLab.
   [Stage V - Vulnerability and Weakness Analysis]({{< ref "/handbook/security/threat-modeling/#stage-v---vulnerability-and-weakness-analysis" >}})
   would be the actual technical review process which allows us to verify
   the assumptions of the two previous stages.
-  
+
 In total this would reflect the
 [evidence driven threat model]({{< ref "/handbook/security/threat-modeling#evidence-driven-threat-model" >}})
 within the review.
@@ -83,7 +83,7 @@ graph TB
 ```
 
 Considering this diagram we can already spot a trust boundary between the
-`agentk` and the `Gitlab` components. The flow of data is also depicted
+`agentk` and the `GitLab` components. The flow of data is also depicted
 in a usable way for threat modeling and the involved components wich consume
 or provide data are visible. Such a diagram can now be used and complemented
 with actual threat and security context to form an actual threat model.

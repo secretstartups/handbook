@@ -38,7 +38,7 @@ This [SQS 2023 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7
 | Jan 10, 2024 | 10:30a ET | 11:50a ET | Command of the Message: Discovery Question Exercise | Field Enablement  |
 | Jan 11, 2024 | 10:30a ET | 11:50a ET | Command of the Message: Differentiator Exercise | Field Enablement  |
 | Jan 12, 2024 | 10:30a ET | 11:50a ET | Command of the Message: MEDDPPICC & Breakout Call Prep | Field Enablement  |
-| Jan 15, 2024 | 11:00a ET | 11:30a ET | Operational Excellence: Into to Gitlab Field Security | Field Security   |
+| Jan 15, 2024 | 11:00a ET | 11:30a ET | Operational Excellence: Into to GitLab Field Security | Field Security   |
 | Jan 15, 2024 | 11:30a ET | 12:20p ET | Better Together: Intro to GitLab Alliances | Alliances & Channel    |
 | Jan 16, 2024 | 10:30a ET | 10:50a ET  | Operational Excellence: Intro to GitLab Legal | Legal |
 | Jan 16, 2024 | 11:30a ET | 12:20p ET | Solution Focus: Intro to Competition | Product Marketing   |

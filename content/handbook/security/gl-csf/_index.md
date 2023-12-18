@@ -3,7 +3,7 @@ title: "GitLab Continuous Security Framework"
 description: "The GitLab Continuous Security Framework workflow"
 ---
 
-## Gitlab Continuous Security Framework
+## GitLab Continuous Security Framework
 
 *Disclaimer: This page is part of a
 [POC](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/169) and should not be used without

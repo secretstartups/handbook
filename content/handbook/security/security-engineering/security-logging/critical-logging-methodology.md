@@ -23,7 +23,7 @@ The Critical Logging tiering methodology is applicable to all systems utilized a
 
 ## Critical Logging Tiering Procedure
 
-Defining what Critical Logging means at GitLab can be complex given the nature of our environment and the amount of integrations that exist across the many systems that are used to carry out business activities. As part of Gitlab's [Business Impact Analysis (BIA)]({{< ref "business-impact-analysis" >}}) process, we obtain inputs that assist in the assignment of a critical system tier per system. These inputs used to determine system criticality tiers include, but are not limited to, the following:
+Defining what Critical Logging means at GitLab can be complex given the nature of our environment and the amount of integrations that exist across the many systems that are used to carry out business activities. As part of GitLab's [Business Impact Analysis (BIA)]({{< ref "business-impact-analysis" >}}) process, we obtain inputs that assist in the assignment of a critical system tier per system. These inputs used to determine system criticality tiers include, but are not limited to, the following:
 
 1. If the system was compromised, would there be an immediate impact to GitLab.com SaaS subscriptions
 1. If the system was compromised, which would describe the impact to GitLab:

@@ -15,7 +15,7 @@ twitter_image: '/images/tweets/research-panel.png'
 
 _[The original and internal-to-GitLab proof points Google Doc is online, here](https://docs.google.com/document/d/1Tuhg6LO0e6R-KP7Vfwb8cggHDiBzkC26pBl0lyLS7UY/edit) while some parts of this handbook page are being approved for publication.*
 
-Proof points with third-party validation are a key resource, whether from [customers](#customer-references-and-case-studies), [analysts](/handbook/sales/command-of-the-message/proof-points/#analyst-reports-and-studies), [industry awards](/handbook/sales/command-of-the-message/proof-points/#industry-awards), or [peer reviews](/handbook/sales/command-of-the-message/proof-points/#peer-reviews), and they are augmented here with [Gitlab's own industry research](/handbook/sales/command-of-the-message/proof-points/#gitlab-reports-and-studies).
+Proof points with third-party validation are a key resource, whether from [customers](#customer-references-and-case-studies), [analysts](/handbook/sales/command-of-the-message/proof-points/#analyst-reports-and-studies), [industry awards](/handbook/sales/command-of-the-message/proof-points/#industry-awards), or [peer reviews](/handbook/sales/command-of-the-message/proof-points/#peer-reviews), and they are augmented here with [GitLab's own industry research](/handbook/sales/command-of-the-message/proof-points/#gitlab-reports-and-studies).
 
 Articulating value is a critical sales skill in achieving [Command of the Message](/handbook/sales/command-of-the-message/).
 
