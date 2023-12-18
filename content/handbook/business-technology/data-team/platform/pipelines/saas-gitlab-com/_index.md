@@ -1,7 +1,7 @@
 ---
 
-title: "Gitlab.com SAAS Extract"
-description: "Gitlab.com SAAS Extract"
+title: "GitLab.com SAAS Extract"
+description: "GitLab.com SAAS Extract"
 ---
 
 
@@ -16,7 +16,7 @@ description: "Gitlab.com SAAS Extract"
 
 # Source system / application / data pipeline name
 
-Gitlab.com SAAS
+GitLab.com SAAS
 
 ## Business Use Case (Please explain what this data will be used for):
 
@@ -46,7 +46,7 @@ Data for reporting and analytics use cases like MR Rate & Performance KPIs (Prod
 
 ## People matrix
 
-| Role | Name | Gitlab Handle |
+| Role | Name | GitLab Handle |
 | ---- | ---- | ------------- |
 | System owner | `N/A` | `N/A` |
 | Technical contact for data related questions | `#database` | `N/A` |
@@ -134,9 +134,9 @@ The build of the database takes about 45 mins. This results in two available tim
     - 14:00 UTC to 01:00 UTC
 Extracting data from this database outside the window will result in an error, but no data loss will occur. The recreation process is executed in this [project](https://gitlab.com/gitlab-com/gl-infra/data-server-rebuild-ansible/activity).  
 
-- `Gitlab.com-DB (Main and CI) Live Replica` is populated with data via WAL files continuously.
+- `GitLab.com-DB (Main and CI) Live Replica` is populated with data via WAL files continuously.
 
-During development and tests activities, we faced issues with loading out of the `Gitlab.com-DB Live Replica` as a result of write and read actions at the same time (query conflicting). To increase the time for a query conflicting with recovery, there are `max_standby_archive_delay` and `max_standby_streaming_delay` settings. This should be configured on the server side and could result increasing lag on the replication process. We should avoid that and thus we are reading out of a more static data source.
+During development and tests activities, we faced issues with loading out of the `GitLab.com-DB Live Replica` as a result of write and read actions at the same time (query conflicting). To increase the time for a query conflicting with recovery, there are `max_standby_archive_delay` and `max_standby_streaming_delay` settings. This should be configured on the server side and could result increasing lag on the replication process. We should avoid that and thus we are reading out of a more static data source.
 
 ### Ansible Replica Rebuild
 
@@ -271,7 +271,7 @@ Data is monitored via Monte-Carlo
 
 When one (or more) tables require decommissioning from the `Postgres` pipeline, follow the steps mentioned in the [**Runbook guideline**](https://gitlab.com/gitlab-data/runbooks/-/blob/main/Gitlab_dotcom/table_decommission/README.md) to avoid any failure caused due to removal of the table.
 
-### Gitlab.com additional table details
+### GitLab.com additional table details
 
 [This handbook page](/handbook/business-technology/data-team/platform/pipelines/SAAS-Gitlab-com/gitlab-com-additional-table-details/) has more detail on any tables that don't fit the normal mold.
 

@@ -1048,7 +1048,7 @@ There are many variables and considerations that need to be evaluated when deter
 1. **Are there incremental dbt models in this lineage:**
 1. **Can the model be set to not full refresh:**  
 
-#### Gitlab.com Postgres Database
+#### GitLab.com Postgres Database
 
 1. **Is there backdated data:** No we don't expect backdated data from gitlab.com.
 1. **How far back can data be backdated:** Not applicable.
@@ -1114,7 +1114,7 @@ The full refresh is costly and comes with a risk that the analyses that are cond
 
 1. Determine which incremental models and lineages have no backdated data behavior and do not need to have any scheduled full refresh. We will use the Backdated Data Considerations for Primary Data Sources (add link) as an input to this review. Configure these models and lineages to never full refresh. The Snowplow data source will be a good candidate for this since there is either a low risk or no risk backdated event data. This has to be done on a model by model, lineage by lineage basis to insure the desired results are achieved.
 
-1. For the models that have backdated data behavior such as service ping and the Gitlab.com Postgres database lineages, consider adding incremental date logic that checks for created/updated records on a rolling 30 day basis. This would allow the daily and weekly analytical use cases to have backdated data available on a rolling 30 day basis. We have installed this technique with the `fct_event` model. It adds more compute to the model build, but it strikes a balance between cost, performance, and providing the business with backdated data. We would need to check that all models in the lineage have the same type of rolling days incremental date logic so that all of the backdated data flows through the lineage.
+1. For the models that have backdated data behavior such as service ping and the GitLab.com Postgres database lineages, consider adding incremental date logic that checks for created/updated records on a rolling 30 day basis. This would allow the daily and weekly analytical use cases to have backdated data available on a rolling 30 day basis. We have installed this technique with the `fct_event` model. It adds more compute to the model build, but it strikes a balance between cost, performance, and providing the business with backdated data. We would need to check that all models in the lineage have the same type of rolling days incremental date logic so that all of the backdated data flows through the lineage.
 
 #### Iteration 3 (FY24-Q2)
 

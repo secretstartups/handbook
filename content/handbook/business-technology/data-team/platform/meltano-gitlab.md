@@ -1,6 +1,6 @@
 ---
 aliases: /handbook/business-technology/data-team/platform/Meltano-Gitlab
-title: "Meltano At Gitlab"
+title: "Meltano At GitLab"
 ---
 
 
@@ -24,7 +24,7 @@ Currently 3 project repository is in place for Meltano.
 
 | SNo.  | Repository | Description |
 | - | ---------- | ----------- |
-| 1 | [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano) | Contains infrastructure related code i.e. it hold kubernetes pods creation information in `gitlab-app.yaml` and configuration in `meltano.yml`. |
+| 1 | [GitLab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano) | Contains infrastructure related code i.e. it hold kubernetes pods creation information in `gitlab-app.yaml` and configuration in `meltano.yml`. |
 | 2 | [meltano_taps](https://gitlab.com/gitlab-data/meltano_taps) |  This is primary repository which holds the TAP source code. It has at the moment source code for `TAP-XACTLY`,`TAP-ADAPTIVE` and `TAP-EDCAST` |
 | 3 | [tap-zengrc](https://gitlab.com/gitlab-data/tap-zengrc) | This project which hold tap-zengrc source code.  |
 
@@ -235,7 +235,7 @@ Once you have deployed a testing Meltano instance, you can connect to the newly 
 ## Development Guidelines for creation of branch and adding taps.
 
 For new developed taps, we will create a new repository per tap, like the `tap-zengrc` or under different folder [meltano_taps](https://gitlab.com/gitlab-data/meltano_taps).
-Once the development is done create a branch from the [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano), to update what extractors are being used, update the `meltano.yml` file. Add a git tag after the change is merged and update the gitlab-app.yml kubernetes manifest to point to the new image.
+Once the development is done create a branch from the [GitLab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano), to update what extractors are being used, update the `meltano.yml` file. Add a git tag after the change is merged and update the gitlab-app.yml kubernetes manifest to point to the new image.
 
 Meltano uses Airflow internally and we use Cloud SQL as the metadata database. The [`meltano` database](https://console.cloud.google.com/sql/instances/meltano/overview?project=gitlab-analysis).
 
@@ -329,7 +329,7 @@ where `["ECL ID", "Time", "Group Name"]` are name of your columns in the stream.
 
 ## Add extractor, Config variable and schedule to meltano setup to be used by TAPs
 
-We have CI process in place for newly created taps or to update new variables config to existing Meltano taps. For this to work smoothly we need to create a branch from the [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano).
+We have CI process in place for newly created taps or to update new variables config to existing Meltano taps. For this to work smoothly we need to create a branch from the [GitLab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano).
 
 Step 1:  Decide the unique variable name and add those variable values to the Kubernetes secret named `tap-secrets` in the [cluster](https://console.cloud.google.com/kubernetes/clusters/details/us-west1-a/data-ops-meltano/details?project=gitlab-analysis).
 The command to edit the secret file is `kubectl edit secret tap-secrets  -o yaml --namespace=meltano`
@@ -395,7 +395,7 @@ Step 4:  Add a git tag after the change is merged and update the gitlab-app.yml 
 
 Step 5: After Merge to the master, we need to apply the newly prepared deployment file to the cluster with latest image. In order to do this, we need to drop the existing deployment and apply the new one. Use below to command for the same.
 - Connect to the cluster `data-ops-meltano`
-- Checkout main branch for [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano)
+- Checkout main branch for [GitLab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano)
 - `kubectl delete  -f gitlab-app.yaml`  to delete the existing deployment.
 - `kubectl apply  -f gitlab-app.yaml` to apply the new deployment.
 
@@ -434,7 +434,7 @@ Follow below steps to copy the meltano.yml to the running container to test the 
 
 
 
-## Current Configured Taps in Gitlab.
+## Current Configured Taps in GitLab.
 
 - [tap-xactly](https://gitlab.com/gitlab-data/meltano_taps/-/tree/main/tap-xactly)
 - [tap-zengrc](https://gitlab.com/gitlab-data/tap-zengrc)
