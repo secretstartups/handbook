@@ -5,13 +5,6 @@ title: "Brand Resources"
 
 
 
-
-
-
-
-# Brand Resources
-
-
 ## Overview
 
 Welcome to the Brand Resources page. This is your one-stop shop for the most updated brand-related assets, including logos, slide templates, social media graphics, and more.
