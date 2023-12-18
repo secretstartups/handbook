@@ -124,7 +124,7 @@ Support may receive an [Internal Request](/handbook/support/license-and-renewals
 1. Log the error by taking a screenshot of the error message and attach it to the ticket.
 1. Validate the correct email address with the Account Manager who submitted the request before correcting the typo.
 1. Update the Sold to contact email address on the Billing Account and the related Customers Portal account.
-1. Resend the license to the corrected email address.
+1. Resend the license or activation code to the corrected email address.
 1. Advise the Account Manager to update the email for the Contact in SFDC for their records.
 
 ### Update Zuora Sold To contact using CustomersDot
