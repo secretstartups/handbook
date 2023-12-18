@@ -103,7 +103,7 @@ The Developer Evangelism Program Manager is a [grade 6](/handbook/total-rewards/
 ### Requirements
 
 - Excellent written and verbal communication skills
-- Background in or deep curiosity about the cloud computing and devops ecosystem
+- Background in or deep curiosity about the cloud computing and DevOps ecosystem
 - Track record of success in a software company
 - At least 3-5 years work experience in a fast-paced working environment
 - Exceptional organizational skills

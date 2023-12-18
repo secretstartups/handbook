@@ -195,7 +195,7 @@ New team members should familiarize themselves with [The Required 7](/handbook/s
 1. Building your (consider changing the deck) [custom deck](https://docs.google.com/presentation/d/1duy8kjEvNiRx8fnCvc6ZnxWwXTM_71phbG3k9rgmU4Q/edit?usp=sharing) for any opp amount over $5k SMB $10k MM **Amount** (n.b. amount, not Net ARR) that:
     - Calculates the ROI of using GitLab vs. next best option (this might be vs. do nothing)
     - Provides the 2 options for the customer going forward - normally both with GitLab (example: Ult or Prem)
-    - Demonstrates a customised vision for the customer: “what if you used all of GitLab to do Devops in a single app?”
+    - Demonstrates a customised vision for the customer: “what if you used all of GitLab to do DevOps in a single app?”
     - Capture the full response, in the customers’ words to that vision and the reasons why they think it is possible, or not possible. This capture can be done in the speaker notes so your customer can validate and then copied into an activity after the call.
     - [video here](https://youtu.be/9Yq23PijO3c), and be sure to check out [this video](https://youtu.be/QDoXhDvkDYY) on creating an effective ROI slide deck and [this supporting deck](https://docs.google.com/presentation/d/1otCJF4kaaozhp0qWD3VgGQ73WgX1ZNP_IKnu3Qt_slI/edit?usp=sharing)
 1. Capturing key information:

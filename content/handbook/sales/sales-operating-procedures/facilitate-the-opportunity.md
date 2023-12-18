@@ -113,7 +113,7 @@ This part of the customer deck will help orient your customer to what GitLab is 
 
 The data gathered from the discovery calls is analyzed by **AE/SAE** to make the determination of whether to qualify the lead in terms of GitLab value to their organization. Upon determination of qualifying, the AE/SAE then should engage a **Solution Architect** to begin the transition to the scoping phase of the sales process.
 
-1. **AE/ SAE performs a Gap Analysis** of data captured from discovery questioning and is held in the Customer Requirements document. Align customer requirements on the spreadsheet to the specific GitLab product line and denote if GitLab does or does not meet the requirement. This analysis will also provide you with possible devOps cycle entry points as customer requirements and goals do vary.
+1. **AE/ SAE performs a Gap Analysis** of data captured from discovery questioning and is held in the Customer Requirements document. Align customer requirements on the spreadsheet to the specific GitLab product line and denote if GitLab does or does not meet the requirement. This analysis will also provide you with possible DevOps cycle entry points as customer requirements and goals do vary.
 1. **AE/SAE introduces and engages** the Solution Architect in technical conversations and reviews Customer Requirement Document with Solution Architect.
 1. **AE/SAE updates relevant SFDC** fields with new information for formal handoff to the Solution Architect for **Scoping**. Utilize the **[Command Plan](/handbook/sales/command-of-the-message/command-plan/)** to track the progress of a deal. It’s an iterative document within Salesforce that gives you and your team macro and micro level visibility into an opportunity.
 
