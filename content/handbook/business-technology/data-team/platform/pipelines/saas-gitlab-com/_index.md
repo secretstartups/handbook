@@ -98,7 +98,7 @@ The setup currently, and SLO, is set that if the [Ansible Replica Rebuild](handb
 
 This pipeline leverages the general Postgres_Pipeline (pgp) - Postgres Extractor.
 
-There are **dedicated** gitlab.com *read* replica database instances used for data pulls into Snowflake. There are 2 replicas available, with each having their own replication frequency and behavior.  
+There are **dedicated** GitLab.com *read* replica database instances used for data pulls into Snowflake. There are 2 replicas available, with each having their own replication frequency and behavior.  
 
 ```mermaid
 graph TD;
@@ -134,9 +134,9 @@ The build of the database takes about 45 mins. This results in two available tim
     - 14:00 UTC to 01:00 UTC
 Extracting data from this database outside the window will result in an error, but no data loss will occur. The recreation process is executed in this [project](https://gitlab.com/gitlab-com/gl-infra/data-server-rebuild-ansible/activity).  
 
-- `GitLab.com-DB (Main and CI) Live Replica` is populated with data via WAL files continuously.
+- `Gitlab.com-DB (Main and CI) Live Replica` is populated with data via WAL files continuously.
 
-During development and tests activities, we faced issues with loading out of the `GitLab.com-DB Live Replica` as a result of write and read actions at the same time (query conflicting). To increase the time for a query conflicting with recovery, there are `max_standby_archive_delay` and `max_standby_streaming_delay` settings. This should be configured on the server side and could result increasing lag on the replication process. We should avoid that and thus we are reading out of a more static data source.
+During development and tests activities, we faced issues with loading out of the `Gitlab.com-DB Live Replica` as a result of write and read actions at the same time (query conflicting). To increase the time for a query conflicting with recovery, there are `max_standby_archive_delay` and `max_standby_streaming_delay` settings. This should be configured on the server side and could result increasing lag on the replication process. We should avoid that and thus we are reading out of a more static data source.
 
 ### Ansible Replica Rebuild
 

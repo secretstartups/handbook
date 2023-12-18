@@ -190,7 +190,7 @@ For Creating lambda function select the following :
 1. Give unique name to lambda function
 1. Select any of the `Python` version (everything `>=3.10` is fine)
 1. Architecture `Default`
-1. Under `Change default execution role`  select `Use an existing role` and under this select `GitLab-lambda-snowflake`
+1. Under `Change default execution role`  select `Use an existing role` and under this select `Gitlab-lambda-snowflake`
 1. Click `Create function` button
 
 More details are shown in the image below.
