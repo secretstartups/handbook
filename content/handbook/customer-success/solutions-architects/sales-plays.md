@@ -3,7 +3,7 @@
 title: Solutions Architect Sales Plays
 description: “Discover GitLab Solutions Architects’ Sales Plays practices”
 ---
- 
+
 
 ## Sales Plays for new account & teams(existing customer) lands
 
@@ -146,7 +146,7 @@ SA and SAE
     1. [End to End TCO planning workshop](https://docs.google.com/spreadsheets/d/1wVghmLv3E_IKs7rz-quc6jtjZW0p-u3h4iSaDqmm1Nc/edit#gid=467701643), Recording
     1. [End to end demo with secure]
     - Nuts/Bolts play where you will focus on specific secure/ultimate capabilities
-    1. [DevSecops Nuts & Bolts deck](https://docs.google.com/presentation/d/1NSowoLzyrb_8ACnxwbQ2FcqaoDmavaedUrd2rVidehw/edit#slide=id.gc2a4740e21_0_554)by Darwin Sanoy 
+    1. [DevSecOps Nuts & Bolts deck](https://docs.google.com/presentation/d/1NSowoLzyrb_8ACnxwbQ2FcqaoDmavaedUrd2rVidehw/edit#slide=id.gc2a4740e21_0_554) by Darwin Sanoy
     1. [Building a continuous remediation habit](https://drive.google.com/file/d/1Gd7pb_-5V9jjJqT7zFNLpxoKjZuOFE63/view)
     1. [Additional info including TCO workshop](https://gitlab.com/gitlab-com/customer-success/tko/nuts-and-bolts-devsecops-motion-feedback)
     - Demo/Deck: Integrate vs Compete play
@@ -156,14 +156,14 @@ SA and SAE
 **Expected Outcome**
 
 1. Deeper Dive Demo
-2. Workshops 
+2. Workshops
 3. [POV](/handbook/customer-success/solutions-architects/tools-and-resources/pov/)
 4. [Professional Services Engagement](#professional-service-resources)
 
 **Owner**
 
 SA and SAE
-	
+
 
 ## Additional Resources to use
 
@@ -184,7 +184,7 @@ Will have specific resources under actions above. This is for additional resourc
 | CISO, CTO, VP Engineering, Director of DevOps Platform or Developer Experience, Head of Digital/DevOps Transformation | [Transformative services](https://www.loom.com/share/da035d54cda74c039524d940766d7621?sharedAppSource=personal_library), [slides](https://docs.google.com/presentation/d/1zH6l_qLtODL_gYD6YazKYl5BGY0FVDy08QAqS7ticuU/edit#slide=id.g11640e57389_0_21) | reducing functional silos, proactive risk management (e.g. shift left), standardizing CI/CD workflows, and innersourcing collaboration. |
 | Sr. Manager App Dev, Director of Engineering | [Standard service packages](https://about.gitlab.com/services/catalog/) or Custom Scoped Offerings| Customers who are interested in [training](https://about.gitlab.com/services/education/) on one ore more specific topic. Customers who need help in [implementing GitLab Self Managed](https://about.gitlab.com/services/implementation/) or need data to be [migrated to GitLab](https://about.gitlab.com/services/migration/)  |
 
-Not sure? Get in contact with your region's [PS Engagement Manager](/handbook/company/team/?department=practice-management) in [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) to discuss specific customer opportunities. 
+Not sure? Get in contact with your region's [PS Engagement Manager](/handbook/company/team/?department=practice-management) in [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) to discuss specific customer opportunities.
 
 
 ## Measuring progress
