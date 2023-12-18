@@ -140,7 +140,7 @@ If at any time during the interview process a candidate is declined due to compe
 
 1. Inform the candidate they will need to go through a full interview process for each role and outline the time commitment that may entail (for example, if a candidate is in process for 2 roles they may need to make time for 10+ interviews).
 1. There is no limit on the amount of roles a candidate can apply to but due to recruiter capacity we will only process 3 applications at a time, and will ask the candidate to choose the 3 that are highest priority.
-1. We want to avoid a situation where we have competing offers from multiple teams within Gitlab. In order to prevent this, there will be an added step after the final interview stage where the recruiter discusses with the candidate which role they’re most interested in. Only one offer will be sent to the candidate after the final interviews.
+1. We want to avoid a situation where we have competing offers from multiple teams within GitLab. In order to prevent this, there will be an added step after the final interview stage where the recruiter discusses with the candidate which role they’re most interested in. Only one offer will be sent to the candidate after the final interviews.
 
 ### **Step 6: References**
 

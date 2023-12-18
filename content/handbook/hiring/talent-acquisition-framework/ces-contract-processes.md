@@ -657,7 +657,7 @@ To initiate the process to submit the contract for e-signatures via DocuSign:
 
 Please follow the outlined steps below before sending the unsigned copy of the Contract to the Counsel:
 
-- (*)Open the saved unsigned contract in Google Drive, remove Gitlab signatory from the below fields -
+- (*)Open the saved unsigned contract in Google Drive, remove GitLab signatory from the below fields -
     1. **Summary Key of Terms** - Delete the GitLab Signatory's name and leave the field blank.
     1. **Scroll down to the end of the contract** - replace Signatory's name with “GitLab Signatory”. Save the contract as a PDF format.
 - To send the contract out to the German Counsel, CES can follow the below email structure through Gmail-
