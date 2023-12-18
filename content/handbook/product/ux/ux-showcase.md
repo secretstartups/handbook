@@ -42,9 +42,9 @@ If a Product Designer can't present on the assigned date, it's their responsibil
 - after you identify a trade, make an MR to update the schedule
 - ask your Product Design Manager to review and merge.
 
-{{% include "includes/ux-showcase/_schedule.md" %}}
+{{% include "includes/ux-showcase-schedule.md" %}}
 
-<a href="https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/includes/ux-showcase/_schedule.md" class="btn btn-primary">Update schedule</a>
+<a href="https://gitlab.com/-/ide/project/gitlab-com/content-sites/handbook/edit/main/-/assets/includes/ux-showcase-schedule.md" class="btn btn-primary">Update schedule</a>
 
 ## Sharing your work
 
