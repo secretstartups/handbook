@@ -159,7 +159,7 @@ To use the new `clone-dbt-select-local-user-noscript` command, you have to speci
 ```
 make DBT_MODELS="dim_subscription" clone-dbt-select-local-user-noscript
 ```
-This will clone all DBT models from the `prod` branch into your local user database (i.e., `{user_name}_PROD`). You can use dbt selectors: 
+This will clone the DBT model from the `prod` branch into your local user database (i.e., `{user_name}_PROD`). You can use dbt selectors: @, +, etc to select the entire lineage that you want to copy over your local database.
 
 **Tips:**
 
