@@ -697,7 +697,10 @@ If you are interested in ordering new swag, please open a [Swag Request Issue](h
 
 The EMEA Field Marketing team utilises [Reachdesk](/handbook/marketing/marketing-operations/reachdesk/#project-management) to source, fulfill, ship and store (European and UK warehouses) swag branded swag items.  We also utilise vendor [Ten&One](https://www.tenandone.com) who can source swag items and who also currently store all EMEA event material. The FMC is responsible for ensuring adequate stock levels and coordinating field event swag logistics. Additional event assets utilized for shows (including backwalls, tablecloths, popup banners, etc.) are stocked at the Ten&One warehouse and can be shipped
 
-- **Budget Allocation:** If there is an order dedicated to support one specific large event (e.g Cloud Expo) an Allocadia line item should be created by the FMM. If swag is required from the bulk order (e.g AWS, GCP events) the FMM should assign budget and move it to All EMEA per Quarter. If the event (e.g Connect Day is handled by Ten & One as an all-in budget, that should be included in that event sponsorship line item for Ten & One.
+- **Budget Allocation:** 
+     * If there is an individual order dedicated to support one specific event (e.g Cloud Expo) an Allocadia line item should be created by the FMM in their regional activity plan under this specific event. 
+     * If swag is required from the bulk order (e.g AWS, GCP, smaller events) the FMM should assign budget and move it to All EMEA per Quarter. 
+     * If the event e.g Connect Day is handled by Ten & One as an all-in budget under the contract with Ten & One this should be included in that event sponsorship line item within the FMM's regional plan.
 Please note shipping cost to be included in the SWAG cost that you budget per event.
 
 - **Invoicing:** All invoices for Field Marketing are required to include the campaign's Allocadia ID to allow for proper finance coding.
