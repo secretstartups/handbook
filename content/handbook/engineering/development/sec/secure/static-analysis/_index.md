@@ -251,7 +251,7 @@ the [Engineering Security instructions](/handbook/security/engaging-with-securit
 #### SLO by Vulnerability Severity
 
 When triaging `Unknown` vulnerabilities, they should be assigned a proper severity as a means to decide the
-priority they should receive to be resolved. The corresponding priority is taken from [issue triage](/handbook/engineering/quality/issue-triage/#priority).
+priority they should receive to be resolved. The corresponding priority is taken from [issue triage](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority).
 
 | Target                     | Unknown | Critical     | High         | Medium       | Low          |
 |----------------------------|:------:|:------------:|:------------:|:------------:|:------------:|

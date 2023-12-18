@@ -133,7 +133,7 @@ Tips:
   - [`GitLab CustomersDot (/qa)`](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/qa/)
   - [`GitLab Environment Toolkit (GET)`](https://gitlab.com/gitlab-org/gitlab-environment-toolkit)
   - [`GitLab Performance Tool (GPT)`](https://gitlab.com/gitlab-org/quality/performance)
-- The requirements for each project is different, please make sure to read the [maintainer section in the Quality handbook](https://about.gitlab.com/handbook/engineering/quality/project-management/#reviewers-and-maintainers).
+- The requirements for each project is different, please make sure to read the [maintainer section in the Quality handbook](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/project-management/#reviewers-and-maintainers).
 
 #### Project maintainer process for [`gitlab-secure-analyzers`](https://gitlab.com/gitlab-org/security-products/analyzers)
 

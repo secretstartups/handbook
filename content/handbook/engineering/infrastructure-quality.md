@@ -13,7 +13,7 @@ We:
 1. Are customer focused. We have an ambitious drive to attain high availability & reliability for SaaS platforms and self-managed customers.
 1. Provide and maintain best practice tools and methodologies that create a platform for engineering teams to do their work productively.
 1. Enable GitLab Engineering & Product teams to run services effectively using our tools, to meet business needs & SLOs.
- 
+
 # Direction
 
 Direction is set within the [Infrastructure](/handbook/engineering/infrastructure/#direction), and the [Quality](/handbook/engineering/quality/#fy23-direction) direction pages. With the ongoing consolidation of the departments, separate direction pages will become obsolete.
@@ -55,7 +55,7 @@ graph TD
     click A "/handbook/engineering/quality"
     click B "/handbook/engineering/quality/engineering-analytics"
     click D "/handbook/engineering/infrastructure/test-platform"
-    click E "/handbook/engineering/quality/engineering-productivity"
+    click E "/handbook/engineering/infrastructure/engineering-productivity"
 ```
 
 # Communication
@@ -103,7 +103,7 @@ Each sub-department has different guidance on OKR:
 - [Reliability](/handbook/engineering/infrastructure/team/reliability/#okrs)
 - [Platforms](/handbook/engineering/infrastructure/platforms/#okr)
 - [Test Platform](/handbook/engineering/infrastructure/test-platform/#okrs)
-- [Engineering Productivity](/handbook/engineering/quality/engineering-productivity/#okrs)
+- [Engineering Productivity](/handbook/engineering/infrastructure/engineering-productivity/#okrs)
 - [Engineering Analytics](/handbook/engineering/quality/engineering-analytics/#okrs)
 
 ## Key Review

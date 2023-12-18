@@ -91,7 +91,7 @@ is added to each project with maintainer permission. We also try to align tools 
   - [Release tool](https://gitlab.com/gitlab-org/ci-cd/runner-tools/releaser)
   - [GitLab Changelog](https://gitlab.com/gitlab-org/ci-cd/runner-tools/gitlab-changelog)
   - [Release index generator](https://gitlab.com/gitlab-org/ci-cd/runner-tools/release-index-generator)
-  
+
 ### Runner SaaS projects
 
 - Images
@@ -177,7 +177,7 @@ At a minimum we will always identify our top priorities using `~"Runner::P1"`.
 1. `~"Runner::P2"` means "normal priority".
 1. `~"Runner::P3"` means "reduced priority".
 1. `~"Runner::P*"` labels can and should differ from `~priority:*` labels.
-    [`~priority:*`](/handbook/engineering/quality/issue-triage/#priority) labels imply the timeline for when issues will be addressed.
+    [`~priority:*`](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority) labels imply the timeline for when issues will be addressed.
     While `~"Runner::P*"` indicate priority for the scheduled iteration.
 
 ### Design and development process

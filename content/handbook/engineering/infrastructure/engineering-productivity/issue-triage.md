@@ -17,7 +17,7 @@ Any GitLab team-member can triage issues. Keeping the number of un-triaged issue
 
 ## Partial Triage
 
-The [Engineering Productivity team](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/) own the issue triage process, but there is no capacity to manually triage issues without a group label at present.
+The [Engineering Productivity team](https://handbook.gitlab.com/handbook/engineering/quality/engineering-productivity/) own the issue triage process, but there is no capacity to manually triage issues without a group label at present.
 We rely on a combination of [self triage](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/c003f65c94ff55a6b43c0b5c8c8ac0173618c0a5/policies/stages/report/untriaged-issues.yml#L70) and [tanuki-stan](https://gitlab.com/gitlab-org/ml-ops/tanuki-stan) to ensure group labels are added, and issues are seen/triaged by the relevant group.
 
 ### Partial Triage checklist
@@ -103,7 +103,7 @@ Once you've determined a severity for an issue add a note that explains in summa
 The severity label also helps us define the time a ~"type::bug" or ~"corrective action" of that severity should be completed.
 This indicates the expected timeline & urgency which is used to measure our SLO targets.
 
-| **Severity**   | Incident root cause analysis `~corrective action` SLO | `~"type::bug"` resolution SLO | `~"GitLab.com Resource Saturation"` resolution SLO | Security `~vulnerability` SLO | 
+| **Severity**   | Incident root cause analysis `~corrective action` SLO | `~"type::bug"` resolution SLO | `~"GitLab.com Resource Saturation"` resolution SLO | Security `~vulnerability` SLO |
 |----------------|---------|--------------------------------------------------------------------------------| ----|-----|
 | `~"severity::1"` | 1 week  | The current release + next available deployment to GitLab.com (within 30 days) | Within 2 months | See [Vulnerability Remediation SLAs](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas) |
 | `~"severity::2"` | 30 days | The next release (60 days)                                                   |  | See [Vulnerability Remediation SLAs](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas)  |
@@ -227,7 +227,7 @@ We encourage performance improvements to be broken down. Improve where we can an
 ### UX
 
 #### SUS-impacting
-Some UX-related issues are identified as impacting our [System Usability Scale (SUS) score](/handbook/product/ux/performance-indicators/system-usability-scale/), which is a focus in our [three-year strategy](/company/strategy/#three-year-strategy). We identify SUS-impacting issues with at least one of the labels listed in the [Total open SUS-impacting issues by severity](https://about.gitlab.com/handbook/product/ux/performance-indicators/#total-open-sus-impacting-issues-by-severity) UX KPI. If one of these labels is applied, the tracking label `"~SUS::Impacting"` will automatically be added. These issues can have a severity label applied *with* or *without* an accompanying `~"type::bug"` label. For issues with `type::bug`, they follow the [severity](/handbook/engineering/quality/issue-triage/#severity) and [SLOs](/handbook/engineering/quality/issue-triage/#severity-slos) for `type::bug` issues. Issues without `type::bug` are without SLO.
+Some UX-related issues are identified as impacting our [System Usability Scale (SUS) score](/handbook/product/ux/performance-indicators/system-usability-scale/), which is a focus in our [three-year strategy](/company/strategy/#three-year-strategy). We identify SUS-impacting issues with at least one of the labels listed in the [Total open SUS-impacting issues by severity](https://about.gitlab.com/handbook/product/ux/performance-indicators/#total-open-sus-impacting-issues-by-severity) UX KPI. If one of these labels is applied, the tracking label `"~SUS::Impacting"` will automatically be added. These issues can have a severity label applied *with* or *without* an accompanying `~"type::bug"` label. For issues with `type::bug`, they follow the [severity](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity) and [SLOs](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity-slos) for `type::bug` issues. Issues without `type::bug` are without SLO.
 
 ##### SUS-Impacting non-`type::bug` Severity
 
@@ -267,7 +267,7 @@ In order to define an issue as a "transient bug," use the `~"bug::transient"` la
 
 ### Infradev Issues
 
-An issue may have an `infradev` label attached to it, which means it subscribes to a dedicated process to related to SaaS availability and reliability, as detailed in the [Infradev Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/#infradev). These issues follow the established [severity SLOs for bugs](/handbook/engineering/quality/issue-triage/#severity-slos).
+An issue may have an `infradev` label attached to it, which means it subscribes to a dedicated process to related to SaaS availability and reliability, as detailed in the [Infradev Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/#infradev). These issues follow the established [severity SLOs for bugs](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity-slos).
 
 ### Limit Related Bugs
 
@@ -284,7 +284,7 @@ Severity should be assessed using the following table:
 | `~"severity::3"` | Absence of this limit has a negative impact on ability to manage cost, performance, or availability |
 | `~"severity::4"` | A limit could be applied, but it's absences does not pose availability risk |
 
-These issues follow the established [severity SLOs for bugs](/handbook/engineering/quality/issue-triage/#severity-slos).
+These issues follow the established [severity SLOs for bugs](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity-slos).
 
 
 
@@ -327,7 +327,7 @@ We're enforcing some of the policies automatically in
 [triage-ops](https://gitlab.com/gitlab-org/quality/triage-ops), using the
 [`@gitlab-bot`](https://gitlab.com/gitlab-bot) user.
 For more information about the automated triage, please read the
-[Triage Operations](/handbook/engineering/quality/triage-operations/)
+[Triage Operations](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/)
 
 That said, we can't automate everything. In this section we'll describe some of
 the practices we're doing manually.

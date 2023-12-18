@@ -188,7 +188,7 @@
     - name: Test Platform
       url: https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/
     - name: Engineering Productivity
-      url: https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/
+      url: https://handbook.gitlab.com/handbook/engineering/quality/engineering-productivity/
     - name: Engineering Analytics
       url: https://about.gitlab.com/handbook/engineering/quality/engineering-analytics/
   - name: Security Practices
