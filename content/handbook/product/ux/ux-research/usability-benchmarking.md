@@ -271,9 +271,9 @@ A: This is variable based on need and how quickly the recommendations from a pre
 
 A: Yes. Benchmarking is far too heavy-handed to perform for solution validation of upcoming features, and while you *could* perform benchmarking on a previous release, the results you gather may already be invalid when you collect them. Given the time commitment, this is **highly discouraged**.
 
-**Q: What Gitlab environment should the usability benchmarking be tested on?**
+**Q: What GitLab environment should the usability benchmarking be tested on?**
 
-A: The UX Researcher on the project can set up a cloud instance of Gitlab and create sample data in a project by following the instructions on the [UX Cloud Sandbox](/handbook/product/ux/ux-research/ux-cloud-sandbox/) page. Make sure there is enough sample data to complete all tasks in the benchmarking study when you run your pilot study. You can also ask for help on the #ux-cloud-sandbox Slack channel.
+A: The UX Researcher on the project can set up a cloud instance of GitLab and create sample data in a project by following the instructions on the [UX Cloud Sandbox](/handbook/product/ux/ux-research/ux-cloud-sandbox/) page. Make sure there is enough sample data to complete all tasks in the benchmarking study when you run your pilot study. You can also ask for help on the #ux-cloud-sandbox Slack channel.
 
 **Q: How complex/realistic does my testing environment need to be?**
 
