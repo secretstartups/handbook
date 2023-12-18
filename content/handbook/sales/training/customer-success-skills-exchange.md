@@ -16,7 +16,7 @@ description: "Continuous education webcast series for GitLab Customer Success te
 
 # Customer Success Skills Exchange Sessions
 
-The Customer Success Skills Exchnage is a bi-weekly webinar focused on topics for the Customer Success Team.
+The Customer Success Skills Exchnage is a bi-weekly webinar focused on topics for the Customer Success and SA team.
 
 - Each training session has a [speaker](#speaker-responsibilities) and a [moderator](#moderator-responsibilities)
 - Sessions are approximatly 50 minutes long
@@ -92,7 +92,6 @@ There are a few places to see previous CS Skills Exchange Sessions:
 - Create an issue using the [CS Skills Exchange Issue Template](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/new?issuable_template=Request_New_CS_Skills_Sessions)
 
 ### Scheduling trainings
-- The Sales and Customer Enablement Team discusses upcoming trainings in regular meetings with CS leadership and the GitLab Product Marketing Management (PMM) team
 - Sessions are selected from the backlog, or a new issue is created, and moved to the `status:plan` column.
 - Assign the issue to the speaker and add `Moderator: <name>` to the issue description.
   - The speaker will then research and generate the conent for the training.
@@ -111,8 +110,8 @@ For more information about Recording and Public/ Private YouTube videos, check o
 ### Speaker Responsibilities
 
 - Come prepared at least 2 mins before session is scheduled to begin to make sure you are ready to begin on time.
-- Send your slides to the Customer Success Enablement Program Manager
-- Include any links to any other pages you need to reference on this page so you can present from training page.
+- Send your slides to the Customer Success Enablement Program Manager and add them to the [notes document](https://docs.google.com/document/d/1kchnm55N8zx8tBBsxilWadGqBndhvb5d4eG9LsSS6DA/edit?usp=sharing)
+- Include any other relevant links to the [notes document](https://docs.google.com/document/d/1kchnm55N8zx8tBBsxilWadGqBndhvb5d4eG9LsSS6DA/edit?usp=sharing) 
 
 
 ### Moderator Responsibilities
@@ -126,7 +125,7 @@ As the moderator for the CS Skills Exchnage, you are responsible for identifying
 
 **Prior to Webinar**
 
-- One week before the webinar, confirm with the speaker that they are prepared and vailable for the session. This can help eliminate the need for last minute cancelations.
+- One week before the webinar, confirm with the speaker that they are prepared and available for the session. This can help eliminate the need for last minute cancelations.
 - Day before webinar, send an announcement in the #customer-success Slack Channel.
 
 
@@ -139,17 +138,16 @@ The moderator for each webinar should serve as the host of the call and overall 
 - Promptly welcome everyone to the call and remind them that the call will be recorded. Specifically mention how to talk about sensitive info on every intro. Be sure to start the meeting as close to the start time as possible.
 - Record the call.
 - Monitor the time.
-- After the session, upload the video to  the [GitLab Unfiltered channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A).
 
 
 **After the Webinar**
 
-- Upload the video to the [CS Skills Exchnage playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KorkxIFgZGnzzxjZRCGROt_) in GitLab Unfiltered
-- Post a announcement in the #customer-success Slack channel, and link to the YouTube video.
+- After the session, upload the recording to the [CS Skills Exchange Highspot](https://gitlab.highspot.com/items/6554f9b2501316c929028227).
+- Post a announcement in the #customer-success Slack channel, and link to the [Highspot page](https://gitlab.highspot.com/items/6554f9b2501316c929028227).
 
 Sample Announcement:
 
-> If you missed yesterday's CS Skills Exchange session  with <Presenter> discussing < Summary of session>, the recording is now live on YouTube!
+> If you missed yesterday's CS Skills Exchange session  with <Presenter> discussing < Summary of session>, the recording is now live on Highspot!
 
-> You can find links to all previously recorded sessions on the [handbook page](/handbook/sales/training/customer-success-skills-exchange/#customer-success-skills-exchange-sessions) and see the team Q&A in the session [notes document](https://docs.google.com/document/d/1kchnm55N8zx8tBBsxilWadGqBndhvb5d4eG9LsSS6DA/edit?usp=sharing).
+> You can find links to all previously recorded sessions on the [Highspot page](https://gitlab.highspot.com/items/6554f9b2501316c929028227) and see the team Q&A in the session [notes document](https://docs.google.com/document/d/1kchnm55N8zx8tBBsxilWadGqBndhvb5d4eG9LsSS6DA/edit?usp=sharing).
 
