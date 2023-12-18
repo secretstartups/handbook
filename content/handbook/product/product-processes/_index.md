@@ -47,7 +47,7 @@ There are several examples of these types of direction pages today:
 
 1. [Monorepo Product Direction](https://about.gitlab.com/direction/monorepos/)
 1. [Versioned Dependencies Direction](https://about.gitlab.com/direction/versioned-dependencies/)
-1. [AutoDevops Direction](https://about.gitlab.com/direction/delivery/auto_devops/)
+1. [AutoDevOps Direction](https://about.gitlab.com/direction/delivery/auto_devops/)
 1. [Deployment Direction](https://about.gitlab.com/direction/delivery/)
 1. [Customizable Dashboards Direction](https://about.gitlab.com/direction/customizable-dashboards/)
 
@@ -953,21 +953,21 @@ The DRI should post a summary status update on the epic at least daily. The foll
 
 ```
 **YYYY-MM-DD Update**
- 
+
 **Progress since last update:**
- 
+
 This section describes what changes have been deployed to production and any other notable progress or accomplishments.
- 
+
 **Progress expected by next update:**
- 
+
 This section describes what you expect to accomplish prior to the next update.  For example what work is currently in progress (include links to MRs), when do you expect these to be deployed, what do you expect to be the effect(s)?
- 
+
 **Blockers:**
- 
+
 This section describes any specific obstacles preventing progress. What is needed to overcome them?  Are there team members (e.g. executives, domain experts) these concerns should be escalated to?
- 
+
 **Praise:**
- 
+
 This section is used to highlight specific praise for team members contributing to the Rapid Action.  It is important to [say thanks](/handbook/values/#say-thanks).
 ```
 
