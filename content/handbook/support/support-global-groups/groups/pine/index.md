@@ -35,6 +35,28 @@ Some questions we discussed so far:
  - Do you put the toilet paper on the roll so that the paper comes from over the roll or under the roll?
  - Nutella – with or without butter underneath?
 
+### Taking Time Off
+
+We follow [the standard process for all of Support](../../../support-time-off.md) when planning days off.
+
+More specifically, we cooperate and collaborate to ensure that we
+can continue to put out a good experience for our customers when we're
+out. Here's how we do that.
+
+- Review the [OOO calendar for our region in Pine](../../../support-time-off.md#support-time-off-calendars)
+  to ensure that the team still has coverage on our planned days off. If we lose
+  coverage and the day(s) off are important, we plan next steps with our
+  managers
+- Communicate our planned day(s) off with each other in Slack.
+  This is normally done in our daily stand-up Slack thread, where our
+  regional colleagues are included
+- [Manage our tickets to ensure they get attention while we are out](../../../support-time-off.md#coverage-for-assigned-tickets).
+  Our current process is to bring attention to the tickets that need a
+  temporary assignee in our daily stand-up thread. If an assignee can't be
+  found in our SGG, then we bring it to the attention of a manager who can
+  help find a temporary assignee outside of the SGG
+
+
 ### Slack
 
 #### Slack notifications
