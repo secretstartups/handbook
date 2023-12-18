@@ -83,7 +83,7 @@ If the candidate has made it to the hiring manager screen or beyond, hiring mana
 A guideline template to prepare for this conversation might look like the following:
 
 **What went well**:
-- Has good examples of making improvements to the area they werre iterviewing for in the past
+- Has good examples of making improvements to the area they were interviewing for in the past
 
 **Opportunities for improvement**:
 - In general if experience was missing (such as XYZ) when asked a question, they were not able to answer it based on any lessons/training they have taken in preparation for this role
