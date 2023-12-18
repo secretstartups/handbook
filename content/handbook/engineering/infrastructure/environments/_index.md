@@ -169,7 +169,7 @@ The `release` environment receives and tests every package of the current milest
 | design | design.gitlab.com | Pajamas / Design website | AutoDevops / GKE | N/A | N/A  |
 | docs | docs.gitlab.com | GitLab documentation site | GitLab Pages | N/A | N/A SRE |
 
-The GitLab Team Services Environment is a group of services for different sites run for GitLab.  It comprises the sites listed above.  These are not controlled in Terraform and seek to dogfood GitLab features such as AutoDevops or GitLab pages.
+The GitLab Team Services Environment is a group of services for different sites run for GitLab.  It comprises the sites listed above.  These are not controlled in Terraform and seek to dogfood GitLab features such as Auto DevOps or GitLab Pages.
 
 ### GitLap
 

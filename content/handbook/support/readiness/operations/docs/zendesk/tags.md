@@ -504,7 +504,7 @@ important to those working within Zendesk:
 | `support_pg_management_project_errors`                     | The Support ticket involves project errors                                                |
 | `support_pg_management_project_import_export`              | The Support ticket involves import/export                                                 |
 | `support_pg_management_project_other`                      | The Support ticket involves something else about projects                                 |
-| `support_pg_management_project_pages`                      | The Support ticket involves GitLab pages                                                  |
+| `support_pg_management_project_pages`                      | The Support ticket involves GitLab Pages                                                  |
 | `support_pg_management_project_questions`                  | The Support ticket involves project questions                                             |
 | `support_pg_management_project_service_desk`               | The Support ticket involves service desk                                                  |
 | `support_pg_management_project_settings`                   | The Support ticket involves project settings                                              |
