@@ -199,7 +199,7 @@ It is recommended to review the executive briefing with your champion, key stake
 1. What's in it for me - the customer?
 
     - Free, hands-on consultative analysis of their software delivery lifecycle, including their current state, future state, and areas of improvements.
-    - Competitive analysis of where they are compared to their peers in the industry. This report contains the most recent benchmark values for the four DORA metrics    (widely regarded as good measures of DevOps performance) [State of DevOps Report 2021](https://services.google.com/fh/files/misc/state-of-devops-2021.pdf).
+    - Competitive analysis of where they are compared to their peers in the industry. This report contains the most recent benchmark values for the four DORA metrics (widely regarded as good measures of DevOps performance) [State of DevOps Report 2021](https://services.google.com/fh/files/misc/state-of-devops-2021.pdf).
     - Recommendations on how to overcome visible or invisible challenges with a strategic plan to help them reach their future state.
 
 1. What are typical outcomes for a customer?

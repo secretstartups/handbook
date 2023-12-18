@@ -76,7 +76,7 @@ It's important to use the correct market terminology, and to define terms that m
 In order to maintain consistency, the process below should be followed when starting a new SEG from an incubation backlog project:
 
 1. Request "Owner" access to the [Incubation Engineering group](https://gitlab.com/gitlab-org/incubation-engineering/) from one of your fellow department members.
-1. Create a new subgroup within the [Incubation Engineering group](https://gitlab.com/gitlab-org/incubation-engineering/). For example: [mobile-DevOps](https://gitlab.com/gitlab-org/incubation-engineering/mobile-devops)
+1. Create a new subgroup within the [Incubation Engineering group](https://gitlab.com/gitlab-org/incubation-engineering/). For example: [Mobile DevOps](https://gitlab.com/gitlab-org/incubation-engineering/mobile-devops)
 1. Create a `meta` project within that new group. For example: [mlops/meta](https://gitlab.com/gitlab-org/incubation-engineering/mlops/meta)
 1. Create a twice montly update issue in that new `meta` project. This issue will replace the existing backlog project issue and be used to post bi-weekly demo recordings from the new SEG. For example: [jamstack](https://gitlab.com/gitlab-org/incubation-engineering/jamstack/meta/-/issues/5)
 1. Add all labels from the original backlog issue to the issue you just created. For example: [original issue](https://gitlab.com/gitlab-org/gitlab/-/issues/329592) | [new issue](https://gitlab.com/gitlab-org/incubation-engineering/mobile-devops/readme/-/issues/7)
