@@ -23,13 +23,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars & Workshops
 
-#### Security and Compliance
-##### December 18th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_FQLqC69gS7-n-r-sbWaMeA)
-
 #### Jira to GitLab: Helping you transition to planning with GitLab
 ##### December 19th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 GitLab offers robust team planning capabilities that work directly with the DevOps lifecycle. Keeping teams in a single application offers operational and financial advantages. Many customers inquire about what a transition would look like from Jira Software to GitLab to team planning. This webinar will start to outline the differences in functionality and advantages gained by using GitLab. 
@@ -49,13 +42,6 @@ Next, we will look at compliance frameworks and pipelines to show how you can en
 
 
 ### EMEA Time Zone Webinars and Workshops
-
-#### Security and Compliance
-##### December 18th, 2023 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_wQZhdCUGTcWttDe_4aKMhA)
 
 #### Jira to GitLab: Helping you transition to planning with GitLab
 ##### December 19th, 2023 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
