@@ -39,7 +39,7 @@ fulfill the original issue's requirements.
 
 * EM output: Once all of the above requirements have been satisfied the EMs assign a frontend and backend engineer as respective [DRI](#epic-engineering-dri)s to create Implementation Issues under the MVC epic(s). The Design issue created by UX is also closed at this point by the EM. 
 
-* Engineering output: Frontend and backend DRIs [create implementation issue](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Implementation)s following the [Implementation template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Implementation.md) available for the Gitlab-org project issues. Once they are done, they unassign themself and move issues to the `workflow::refinement` state. 
+* Engineering output: Frontend and backend DRIs [create implementation issue](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Implementation)s following the [Implementation template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Implementation.md) available for the `gitlab-org` project issues. Once they are done, they unassign themself and move issues to the `workflow::refinement` state. 
 
 ### Refinement
 

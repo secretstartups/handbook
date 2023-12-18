@@ -4,7 +4,7 @@ title: "Test Platform Onboarding"
 description: "Guidelines for onboarding as a new Test Platform team member"
 ---
 
-The instructions here are in addition to the on-boarding issue that People Ops will assign to the team member on their first day at Gitlab.
+The instructions here are in addition to the on-boarding issue that People Ops will assign to the team member on their first day at GitLab.
 
 Copy the [Test Platform team onboarding issue template](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks/-/blob/master/.gitlab/issue_templates/Onboarding.md)
 into a new issue in [TP Team Tasks](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks/-/issues/new)

@@ -93,7 +93,7 @@ A variety of product usage statistics are pushed back from Gainsight to Salesfor
 - **Instance**: a customer’s *self-managed* deployment of GitLab
 - **Namespace**: a customer’s *SaaS* deployment of GitLab on gitlab.com
 - **Labeling**: the practice of internally identifying instances as Production, Non-Production, etc. within Gainsight and syncing to Snowflake. See [link](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#viewing-all-unknown-self-managed-instances) for more information
-- **Project**: a specific project or folder within a customer’s GitLab instance (e.g., “field operations” project within the Gitlab-com use)
+- **Project**: a specific project or folder within a customer’s GitLab instance (e.g., “field operations” project within the `gitlab-com` use)
 
 ### Why it matters
 

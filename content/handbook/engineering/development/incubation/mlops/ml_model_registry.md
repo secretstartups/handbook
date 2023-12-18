@@ -19,7 +19,7 @@ promoting them into model versions so that they can be served and deployed.
 
 ## Guiding Principles
 
-* Gitlab enables Data Scientists to use Model Registry without requiring any support from Platform Engineers
+* GitLab enables Data Scientists to use Model Registry without requiring any support from Platform Engineers
 * Model Registry is not just a vertical feature, it integrates across the platform to enhance experience in different steps of model development
 
 ## Approach: Model registry as Package registry

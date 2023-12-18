@@ -167,7 +167,7 @@ The Engineering Productivity team recently reviewed (2023-05-19) all our project
 | Development department metrics for measurements of Quality and Productivity | ??? | [Development Department Performance Indicators](https://about.gitlab.com/handbook/engineering/development/performance-indicators/) |
 | RSpec Profiling Statistics for profiling information on RSpec tests in CI | Alina | [rspec_profiling_stats](https://gitlab.com/gitlab-org/rspec_profiling_stats) |
 | Styles for shared RuboCop cops | ??? | [`gitLab-styles` Ruby gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles) for shared [RuboCop cops](https://docs.gitlab.com/ee/development/contributing/style_guides.html#ruby-rails-rspec) |
-| Feature flag alert for reporting on GitLab feature flags | ??? | [Gitlab feature flag alert](https://gitlab.com/gitlab-org/gitlab-feature-flag-alert) |
+| Feature flag alert for reporting on GitLab feature flags | ??? | [GitLab feature flag alert](https://gitlab.com/gitlab-org/gitlab-feature-flag-alert) |
 
 ### Metrics
 
