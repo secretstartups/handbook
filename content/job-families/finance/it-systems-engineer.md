@@ -116,7 +116,7 @@ The Staff IT Systems Engineer has all the same responsibilities as the ones outl
 
 - 10+ years of experience in IT in a high growth SaaS environment
 - 5+ years of experience in user support in a cloud-first modern IT environment
-- Knowledge of software engineering practices and devops lifecycle
+- Knowledge of software engineering practices and DevOps lifecycle
 - Advanced knowledge of identity and access management
 - Advanced knowledge in one of the following scripting languages - Python or Ruby
 - Advanced knowledge of container and microservice technologies

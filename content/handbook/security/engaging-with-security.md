@@ -118,7 +118,7 @@ Consider adding the `/confidential` quick action to a project issue template.
 by the security team and other engineering personnel, but it will help with
 the triage process:
     - [`~"type::bug"`, `~"type::maintenance"`, or `~"type::feature"` if appropriate]({{< ref "./security-engineering/application-security/vulnerability-management#vulnerability-vs-feature-vs-bug" >}})
-    - Team or devops lifecycle labels
+    - Team or DevOps lifecycle labels
     - `~customer` if issue is a result of a customer report
     - `~internal customer` should be added by team members when the issue
     impacts GitLab operations.
