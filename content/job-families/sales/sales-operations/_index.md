@@ -80,13 +80,13 @@ The Sales Operations Analyst is a [grade 6](/handbook/total-rewards/compensation
 - Proficient with Salesforce and maintaining complex spreadsheets
 - Strong understanding of the sales territory carving process and annual planning cycle
 
-### Sr. Sales Operations Analyst
+### Senior Sales Operations Analyst
 
 #### Job Grade
 
-The Sr. Sales Operations Analyst & Sr. Sales Operations Manager are a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Sales Operations Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
-#### Sr. Sales Operations Analyst Responsibilities
+#### Senior Sales Operations Analyst Responsibilities
 
 - Extends that of the Sales Operations Analyst responsibilities.
 - Proactively identify and lead sales process improvement initiatives.
@@ -96,7 +96,7 @@ The Sr. Sales Operations Analyst & Sr. Sales Operations Manager are a [grade 7](
 - Establish a cross-functional operational cadence to drive transparency, collaboration and alignment on GTM policies, processes and tools.
 - Collaborate with Field Enablement to design enablement practices at scale and communicate updates to users.
 
-#### Sr. Sales Operations Analyst Requirements
+#### Senior Sales Operations Analyst Requirements
 
 - Extends that of the Sales Operations Analyst requirements
 - Self-starter and works effectively with cross-functional teams
