@@ -347,9 +347,9 @@ For questions about the new team member's laptop, ping [<i class="fa-brands fa-s
 
 ### Employment Offboarding
 
-When team members depart GitLab, People Connect will create an offboarding issue. The CES team is responsible for completing tasks under the "@gitlab-com/gl-ces" section. Please note that offboarding issues are time sensitive and should be completed by the due date set on the issue. Completion of these tasks also ensure GitLab remains compliant.
+When team members depart GitLab, People Connect will create an offboarding issue. The CES team is responsible for completing tasks under the `@gitlab-com/gl-ces` section. Please note that offboarding issues are time sensitive and should be completed by the due date set on the issue. Completion of these tasks also ensure GitLab remains compliant.
 
-1. Go to [Employment Issues](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues) where the offboarding issues can be found. In the search bar, filter issues by the "CES: To Do" label and work on the issues by due date. Once you open up an offboarding issue, navigate to the "@gitlab-com/gl-ces" section and complete the following steps.
+1. Go to [Employment Issues](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues) where the offboarding issues can be found. In the search bar, filter issues by the "CES: To Do" label and work on the issues by due date. Once you open up an offboarding issue, navigate to the `@gitlab-com/gl-ces` section and complete the following steps.
 1. Open Google calendar, select the "Interview Calendar", and type in the team member's name in the search bar at the top. Ensure the team member offboarding isn't in any active interviews. If applicable, post in the ces-team slack channel the departing team member's name and list the interviews they are currently scheduled for. Advise the CES team member to work with their recruiters to review any other interview plans and update accordingly.
 Any interviews that have been grayed out on the calendar, have passed already.
 1. Check any interview plans and reqs that the team member might be on by searching the team member's name under `Users` in Greenhouse. When searching the team member's name, select the profile with the team member's GitLab email address; this will navigate to their Greenhouse profile settings.
