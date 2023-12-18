@@ -23,13 +23,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars & Workshops
 
-#### Advanced CI/CD
-##### December 15th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_qLgZbyUQSb-PEGgR6BKanw)
-
 #### Security and Compliance
 ##### December 18th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -56,13 +49,6 @@ Next, we will look at compliance frameworks and pipelines to show how you can en
 
 
 ### EMEA Time Zone Webinars and Workshops
-
-#### Advanced CI/CD
-##### December 15th, 2023 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
-
-Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_8qG79YYoRDC8vdKsqlnxvQ)
 
 #### Security and Compliance
 ##### December 18th, 2023 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
