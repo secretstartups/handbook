@@ -513,11 +513,11 @@ Please follow the process outlined in the [Pathfactory Handbook](/handbook/marke
   * Click to `01 Downloaded Content` smart campaign
   * Click on `Smart List`
   * Confirm that the first trigger for `Fills out Form` is set to `Form Name` is any, `Web Page` is (the name of your landing page). This should already be set properly.
-  * The second trigger for `Fills out Form` should be set to `Form Name` is "Form 2074: PF General". In `Referrer` contains, enter the Pathfactory asset name slug. For example guide-to-devops.
-  * The third trigger for `Fills out Form` should be set to `Form Name` is "Pathfactory Webhook". In `Referrer` contains, enter the Pathfactory asset name slug. For example guide-to-devops.
+  * The second trigger for `Fills out Form` should be set to `Form Name` is "Form 2074: PF General". In `Referrer` contains, enter the Pathfactory asset name slug. For example `guide-to-devops`.
+  * The third trigger for `Fills out Form` should be set to `Form Name` is "Pathfactory Webhook". In `Referrer` contains, enter the Pathfactory asset name slug. For example `guide-to-devops`.
   * Filter 1 - `Filled Out Form` should already be set properly. This will be `Form Name` is any. `Web Page` is (the name of your landing page).
-  * Filter 2 - `Filled Out Form` should be set to `Form Name` is "Form 2074: PF General". In `Referrer` contains, enter the Pathfactory asset name slug. For example guide-to-devops.
-  * Filter 3 - `Filled out Form` should be set to `Form Name` is "Pathfactory Webhook". In `Referrer` contains, enter the Pathfactory asset name slug. For example guide-to-devops. `Date of Activity` should already be set to in the past 1 hour.
+  * Filter 2 - `Filled Out Form` should be set to `Form Name` is "Form 2074: PF General". In `Referrer` contains, enter the Pathfactory asset name slug. For example `guide-to-devops`.
+  * Filter 3 - `Filled out Form` should be set to `Form Name` is "Pathfactory Webhook". In `Referrer` contains, enter the Pathfactory asset name slug. For example `guide-to-devops`. `Date of Activity` should already be set to in the past 1 hour.
   * Filter 4 - `Pathfactory Engagement Time` greater than 60 is set as the default. 60 is the Pathfactory view threshold for eBooks and Whitepapers. If your content falls into this category, no updates are necessary. Any other content types should be updated with the threshold outlined under [Pathfactory Scoring](/handbook/marketing/marketing-operations/pathfactory/#pathfactory-scoring). For example, if you are creating an analyst report, you will enter 120 instead of 60.
   * Advanced filters will be set to `1 or 2 or (3 and 4)`
   * Flow: it's all set! For your first few, feel free to review the flows (but they are all using tokens, so it should be ready to go automatically)
