@@ -20,7 +20,7 @@ Historically there have been challenges in consistently maintaining our service 
 
 This issue is not unique to GitLab when business grows fast and the user base and workload on the hosted SaaS increases exponentially. As a result, the business growth requires corresponding changes in how we work so that customers continue experiencing best service by GitLab, which maintains and boosts our business growth momentum.
 
-With that being said and the operation incidents recently, it becomes clear that we’ll strengthen development team’s DevOps practices and stand side by side with the Infrastructure team to keep Gitlab.com running smoothly.
+With that being said and the operation incidents recently, it becomes clear that we’ll strengthen development team’s DevOps practices and stand side by side with the Infrastructure team to keep GitLab.com running smoothly.
 
 ## Process
 

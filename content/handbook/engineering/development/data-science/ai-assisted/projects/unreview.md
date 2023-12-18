@@ -228,7 +228,7 @@ end
 
 ### Overview:
 
-Milestone 3 focuses on further improving the UnReview functionality for Gitlab.com customers, as well as planning to provide the functionality to self-managed customers. At this milestone, GitLab.com customers will continue seeing and experiencing value from the functionality, including the ability to intelligently assign code reviewers to merge requests based on ML models. Primary feedback from GitLab.com customers and dogfooding at GitLab should be considered and integrated into the product.
+Milestone 3 focuses on further improving the UnReview functionality for GitLab.com customers, as well as planning to provide the functionality to self-managed customers. At this milestone, GitLab.com customers will continue seeing and experiencing value from the functionality, including the ability to intelligently assign code reviewers to merge requests based on ML models. Primary feedback from GitLab.com customers and dogfooding at GitLab should be considered and integrated into the product.
 
 To support GitLab.com customers:
 

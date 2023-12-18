@@ -69,7 +69,7 @@ The last piece is enabling CSMs to be able to calculate the score, formulate the
 
 ### Iterate and improve
 
-With a product that updates monthly while also adding new features to the Gitlab use cases, we have an ongoing process to update the respective adoption scores, aiming for the most accurate depiction of use case adoption by our customers. As new features are built and made available, new metrics are also instrumented by the respective product teams to be able to provide insights to customers that can help customers improve their experience and attain their DevOps goals with Gitlab.
+With a product that updates monthly while also adding new features to the GitLab use cases, we have an ongoing process to update the respective adoption scores, aiming for the most accurate depiction of use case adoption by our customers. As new features are built and made available, new metrics are also instrumented by the respective product teams to be able to provide insights to customers that can help customers improve their experience and attain their DevOps goals with GitLab.
 <br>
 
 </details>

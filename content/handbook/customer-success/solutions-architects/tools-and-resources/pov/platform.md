@@ -49,7 +49,7 @@ If you have identified the platform POV, reach out to the Strategic Field team f
 
 ### Proof Points Consideration
 
-If the platform based POV is focusing on the technical metrix, it may require setup of HA-based Gitlab with scalable runner fleets which can result in a wide range of technical issues. The account team needs to possess this technical capabilities with priority support. This scope of work needs to be managed with a detailed project management steps and issue tracking. The technical metrics acceptance must be clarified and mutually agreed with feasibility to carry out in 4-6 weeks.
+If the platform based POV is focusing on the technical metrix, it may require setup of HA-based GitLab with scalable runner fleets which can result in a wide range of technical issues. The account team needs to possess this technical capabilities with priority support. This scope of work needs to be managed with a detailed project management steps and issue tracking. The technical metrics acceptance must be clarified and mutually agreed with feasibility to carry out in 4-6 weeks.
 
 It is recommended to provide proof points from other sources, instead of carrying out large scale POV. For example the proof points can be obtained using gitlab.com itself and reference customers with similar user and repo counts, and similar technology / cloud profile.
 

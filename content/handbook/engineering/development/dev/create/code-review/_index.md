@@ -34,7 +34,7 @@ The following people are permanent members of the Create:Code Review Group:
 The Code Review group is responsible for the following product categories:
 
 - [Code Review](/direction/create/code_review_workflow/)
-- [Gitlab CLI](/direction/create/gitlab_cli/)
+- [GitLab CLI](/direction/create/gitlab_cli/)
 
 ### Category performance indicators
 

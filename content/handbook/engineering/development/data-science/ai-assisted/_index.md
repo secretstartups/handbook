@@ -172,7 +172,7 @@ We are always exploring new tools and frameworks to optimize the ML workflow . C
 We periodically showcase demos, and if there is any specific demo on Machine learning that would be beneficial, we would love to hear from you. We have monthly demo days when the team presents recent work done in ML, answers questions relevant to ML, and makes tutorials.  Here is a list
 
 - [CI/CD for Machine-learning](https://www.youtube.com/watch?v=7mUgGFgab4E)
-- [Suggested Reviewer MLOPS pipeline using Gitlab]
+- [Suggested Reviewer MLOPS pipeline using GitLab]
 - [Prompt Template for LLM's] (https://youtu.be/jR8Czar0cU8)
 
 

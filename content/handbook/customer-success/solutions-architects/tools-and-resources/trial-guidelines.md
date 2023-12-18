@@ -44,7 +44,7 @@ Customers who choose a self-managed trial will need to install a single node [Om
 #### General Approaches
 
    - [Copy Groups and Projects](https://docs.gitlab.com/ee/user/group/import/index.html)
-      - When copying from one Gitlab.com namespace to another, you must copy all subgroups and projects.  This is not recommended for customers with a large number of groups and projects.
+      - When copying from one GitLab.com namespace to another, you must copy all subgroups and projects.  This is not recommended for customers with a large number of groups and projects.
       - Only [these](https://docs.gitlab.com/ee/user/group/import/index.html#migrated-group-items) groups items are migrated, no others
       - Only [these](https://docs.gitlab.com/ee/user/group/import/index.html#migrated-project-items) project items are migrated. Note these are the same project items that are migrated with file exports (described in the next section) 
 
