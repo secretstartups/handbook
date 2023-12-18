@@ -4,8 +4,10 @@ title: "Community Programs Workflows"
 description: "Review various workflows associated with the GitLab for Education, GitLab for Open Source, and GitLab for Startups programs"
 ---
 
+## About this page
+
 This handbook page describes various workflows associated with [GitLab's community programs](/handbook/marketing/developer-relations/community-programs/), including GitLab for Education, GitLab for Open Source, and GitLab for Startups.
-By maintaining this page, we aim to establish more transparency into our workflows so GitLab team members can integrate with them
+By maintaining this page, we aim to establish more transparency into our workflows so GitLab team members can integrate with them.
 
 ## Automated applications workflow overview
 
