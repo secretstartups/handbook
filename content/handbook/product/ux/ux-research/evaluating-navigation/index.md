@@ -21,7 +21,7 @@ This phase is about exploring a broad set of navigation solutions and collecting
 - Which design enables users to achieve their task more easily?
 - Which design do users prefer?
 
-To learn more about suitable methods to address these questions, [continue reading here](https://about.gitlab.com/handbook/engineering/ux/ux-research-training/early-solution-validation-process-for-navigation/).
+To learn more about suitable methods to address these questions, [continue reading here](/handbook/product/ux/ux-research/early-solution-validation-process-for-navigation/).
 
 ### Deliver/Listen
 

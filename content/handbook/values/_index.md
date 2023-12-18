@@ -13,7 +13,7 @@ weight: -20
 <!-- markdownlint-disable MD051 -->
 GitLab's six core values are
 [**🤝 Collaboration**](#collaboration),
-[**📈 Results**](#results),
+[**📈 Results for Customers**](#results),
 [**⏱️ Efficiency**](#efficiency),
 [**🌐 Diversity, Inclusion & Belonging**](#diversity-inclusion),
 [**👣 Iteration**](#iteration), and
@@ -273,18 +273,34 @@ We demonstrate collaboration when we take action to help others and include othe
   </tr>
 </table>
 
-## 📈 Results {#results}
+## 📈 Results for Customers {#results}
 
-We do what we promised to each other, customers, users, and investors.
+We exist to help our customers achieve more. Everything we do should be in service of making our customers successful with GitLab. Results for Customers is at the top of our values hierarchy, as our customers achieving results drives overall business performance that enables everything else.
 
-##### Measure results not hours
+The Results for Customers value is displayed through the following operating principles:
 
-We care about what you achieve: the code you shipped, the user you made happy, and the team member you helped. Someone who took the afternoon
-off shouldn't feel like they did something wrong. You don't have to defend how you spend your day. We trust team members to do the right thing instead of having rigid rules. We trust team members to show up and do their best work. Do not incite competition by proclaiming how many hours you worked yesterday. If you are working too many hours, talk to your manager to discuss solutions.
+##### Set Ambitious & Measurable goals
 
-##### Customer results
+While we iterate with small changes, we strive for large, ambitious results. We have an ambitious [mission](/handbook/company/mission/) and [vision](/handbook/company/vision/), and we aim to be the best in the world across all our functions. Setting ambitious, measurable goals enables us to best deliver customer results.  We agree in writing on measurable goals. Within the company we use [OKRs](/handbook/company/okrs/) to stay accountable. We have and report against [KPIs](/handbook/company/kpis/) with guiding targets.
 
-Our focus is to improve the results that customers achieve, which requires being aware of [the Concur effect](https://twitter.com/ryanfalor/status/1182647229414166528?s=12).
+##### Understand our customers
+
+All GitLab team members should understand our customers’ needs, issues, and value propositions. We understand how they use GitLab and what they need from a platform in order to meet their goals. Internally facing teams consider the impact of their work as it pertains indirectly to GitLab's customers.
+
+We better understand customers and their needs through:
+- Reviewing public facing GitLab issues from our customers and users
+- Reading customer stories from Marketing and Sales
+- Attending Customer fireside chats
+- Learning feedback from our customers and users on product features and roadmap
+
+##### Co-create
+
+We create together with our customers. There is an open dialogue between GitLab and our customers so that we can better identify what they need. As a result of building a solution for them, we can also bring that solution to the world.
+
+
+##### Keep end users in sight
+
+Our focus is to improve the results that customers achieve. At GitLab, one way to drive customer results is through platform enhancements that drive the most value for direct users. This requires being aware of [the Concur effect](https://twitter.com/ryanfalor/status/1182647229414166528?s=12).
 
 [Arvind Narayanan](https://www.cs.princeton.edu/~arvindn/), a Princeton Professor, described his frustration with Blackboard in a viral Tweet:
 
@@ -310,6 +326,11 @@ At GitLab, we want to drive customer results through focusing on platform enhanc
 1. **Our existing scope**. For example, when customers asked for better integrations and complained about integration costs and effort, we responded by expanding our scope to create a [single application](/handbook/product/single-application/) for the DevOps lifecycle.
 1. **Our assumptions**. Every company works differently, so we can’t assume that what works well for us will support our customers’ needs. When we have an idea, we must directly validate our assumptions with customers to ensure we create scalable, highly relevant solutions.
 1. **What we control**. We should take responsibility for what the **customer experiences**, even when it isn’t entirely in our control. We aim to treat every customer-managed instance downtime as a [$1M a day problem](https://gitlab.com/gitlab-com/www-gitlab-com/commit/8b7857c1f7c59c53e4a9c0d6008830459d817497).
+
+##### Measure impact, not activity
+
+We care about what you achieve: the code you shipped, the needle you moved, the user you made happy, and the team member you helped. Someone who took the afternoon off shouldn’t feel like they did something wrong, unless it negatively impacted a goal or result they were responsible for. You don’t have to defend how you spend your day. We trust team members to do the right thing instead of having rigid rules. We trust team members to show up and do their best work. Do not incite competition by proclaiming how many hours you worked yesterday. If you are working too many hours, talk to your manager to discuss solutions.
+off shouldn't feel like they did something wrong. You don't have to defend how you spend your day. We trust team members to do the right thing instead of having rigid rules. We trust team members to show up and do their best work. Do not incite competition by proclaiming how many hours you worked yesterday. If you are working too many hours, talk to your manager to discuss solutions.
 
 ##### Dogfooding
 
@@ -349,35 +370,6 @@ We expect team members to complete tasks that they are assigned. You are respons
 
 At an exponentially-scaling startup, time gained or lost has compounding effects. Try to get the results as fast as possible, but without compromising our other values and [ways we communicate](https://about.gitlab.com/handbook/communication), so the compounding of results can begin and we can focus on the next improvement.
 
-##### Ambitious
-
-While we iterate with small changes, we strive for large, ambitious results. We achieve these through:
-
-   1. Keeping the focus on the [results](#results) and the outcome
-   1. Aiming to be best in the world across [all our functions](/handbook/leadership/no-matrix-organization/)
-   1. Not being satisfied with the status quo and setting higher goals
-      1. Ambitious [mission](/handbook/company/mission/#mission) and [vision](/handbook/company/vision/)
-      1. [Ambitious OKRs](/handbook/company/okrs/#okrs-are-stretch-goals-by-default)
-      1. Having and reporting against [KPIs](/handbook/company/kpis/#what-are-kpis) with guiding targets
-   1. Having other people adopt our way of working
-      1. [Handbook](/handbook/)
-      1. [Certifications](https://about.gitlab.com/learn/certifications/public/)
-      1. Promotion of processes
-         1. [Blog posts](https://about.gitlab.com/blog/)
-         1. [Webcasts](https://about.gitlab.com/webcast/)
-         1. [Events](https://about.gitlab.com/events/)
-         1. [Community Forum](https://forum.gitlab.com/)
-         1. [Job board](https://boards.greenhouse.io/gitlab)
-   1. Proactively critiquing ourselves
-      1. [Highlight where we fall short](https://about.gitlab.com/direction/maturity/)
-      1. [Have outside experts rate us](https://about.gitlab.com/why-gitlab/)
-      1. [Have users compare us to the alternative](https://about.gitlab.com/competition/)
-   1. Increasing engagement with GitLab
-      1. [Pageviews](/handbook/marketing/inbound-marketing/#measuring-progress)
-      1. [Certifications](https://about.gitlab.com/learn/certifications/public/)
-      1. [Surveys](https://about.gitlab.com/developer-survey/)
-   1. [Not tolerating low performance](/handbook/leadership/underperformance/#introduction)
-   1. Preventing [risk aversion](#low-level-of-shame)
 
 ##### Perseverance
 

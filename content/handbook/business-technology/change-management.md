@@ -149,7 +149,7 @@ Last 7 calendar days and first 7** calendar days of each quarter
 ### Rollout of Mass Deployments
 
 Where possible, mass deployments such as macOS operating system upgrades (i.e. Monterey to Ventura) or net new software rollouts will be done by Department. Smaller changes such as security patches or minor updates of existing software are not subject to the same schedule and can be deployed globally after Phase 1 testing is complete.  The order of mass deployments will be as follows:
-- Phase 1: IT, Security, and Volunteers
+- Phase 1: IT, Security, and [Beta Testers](handbook/business-technology/it/security#it-security-beta-test-program)
 - Phase 1b: Legal
 - Phase 2: Marketing & People Group
 - Phase 3: Engineering

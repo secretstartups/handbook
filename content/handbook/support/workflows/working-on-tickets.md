@@ -62,13 +62,13 @@ Through that process you may:
 
 At certain times, the Support team will experience reduced operational capacity due to factors such as scheduled meet-ups, holidays, Summits, and other similar events. During these instances, the team will operate in a designated 'reduced capacity' mode, in which we will switch our primary focus from the normal SGG views to the special 'All FRT and Emergencies' and 'All NRT' views. Through these views each Support Engineer will see all incoming tickets, regardless of SGG assignment.
 
-We will expect Support Engineers to proactively claim ownership of any unassigned tickets they engage with during a reduced capacity period.
+We will expect Support Engineers to proactively claim ownership of any unassigned tickets they engage with during a reduced capacity period and [move the tickets to their group](/handbook/support/support-global-groups/sgg-faq/#3-how-do-i-move-a-ticket-to-a-different-group).
 
 ## Assigning tickets
 
 When you begin work on a new ticket, as your first step please assign the ticket
-to yourself using the `take it` button. In the SGG environment, that shouldn't
-prevent anybody from collaborating with you on the ticket. What it ***will*** do
+to yourself using the `take it` button, then click on 'Submit as Open/Pending' to ensure it's assigned to you.
+In the SGG environment, that shouldn't prevent anybody from collaborating with you on the ticket. What it ***will*** do
 is signal that you're the DRI for providing a great customer experience, as the
 ticket progresses towards `Status: Solved`. This enables other team members
 seeking to assign themselves New ticket/s from the queue, to move on to reviewing
@@ -125,22 +125,22 @@ seek help as soon as you need it.
 
 #### Pathway for handling high priority tickets from a different region
 
-1. If a ticket is marked as "High Priority" and you have the answer, take assignment of the ticket and offer a solution. If the solution does not resolve the issue, proceed with the steps in [Handing over tickets and customer calls between regions](/handbook/support/workflows/working-on-tickets/#handing-over-tickets-and-customer-calls-between-regions).
+1. If a ticket is marked as "High Priority" and you have the answer, take assignment of the ticket and offer a solution. If the solution does not resolve the issue, proceed with the steps in [Cross Region handover of tickets and customer calls](/handbook/support/workflows/working-on-tickets/#cross-region-handover-of-tickets-and-customer-calls).
 1. If a ticket is marked as "High Priority" and will not breach the FRT (First Response Time) SLA before an hour after the preferred region's support comes online, consider conducting initial research, and recording your findings as an internal note. Do not assign the ticket to yourself.
-1. If a ticket is marked as "High Priority" and there's a risk it might breach the FRT SLA time before the preferred region's support is online, take the assignment, send a substantive response to the requester, and then proceed with the steps in [Handing over tickets and customer calls between regions](/handbook/support/workflows/working-on-tickets/#handing-over-tickets-and-customer-calls-between-regions).
+1. If a ticket is marked as "High Priority" and there's a risk it might breach the FRT SLA time before the preferred region's support is online, take the assignment, send a substantive response to the requester, and then proceed with the steps in [Cross Region handover of tickets and customer calls](/handbook/support/workflows/working-on-tickets/#cross-region-handover-of-tickets-and-customer-calls).
 
 #### Pathway for handling normal and low priority tickets from a different region
 
 1. If a ticket is not marked as "High Priority," and you're confident in your ability to resolve it, follow these steps:
       - Take assignment of the ticket and prepare the first technical response.
       - Use the ZD macro "clarify preferred region assignment" as part of the first response.
-      - If the customer responds and confirms the preferred region, proceed with the steps in [Handing over tickets and customer calls between regions](/handbook/support/workflows/working-on-tickets/#handing-over-tickets-and-customer-calls-between-regions).
+      - If the customer responds and confirms the preferred region, proceed with the steps in [Cross Region handover of tickets and customer calls](/handbook/support/workflows/working-on-tickets/#cross-region-handover-of-tickets-and-customer-calls).
       - If the customer is okay with out-of-region support, continue to offer assistance and regularly assess customer satisfaction and technical progress. Consider a handover if the ticket's priority changes or if the customer becomes frustrated.
       - If neither of the above scenarios applies, continue to work on the ticket to find a solution.
 1. If a ticket is not marked as "High Priority," and it's at risk of breaching the FRT SLA, and you are not confident in resolving the issue, follow these steps:
       - Take assignment of the ticket.
       - Provide a first technical response to the customer.
-      - Proceed with the steps in [Handing over tickets and customer calls between regions](/handbook/support/workflows/working-on-tickets/#handing-over-tickets-and-customer-calls-between-regions).
+      - Proceed with the steps in [Cross Region handover of tickets and customer calls](/handbook/support/workflows/working-on-tickets#cross-region-handover-of-tickets-and-customer-calls).
 
 #### Pathway for handling tickets handed over from a different region
 

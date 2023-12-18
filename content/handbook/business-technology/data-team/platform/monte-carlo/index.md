@@ -152,7 +152,22 @@ All incidents are reported in MonteCarlo incident portal. For triage purposes th
 
 `*` COMMON is also the COMMON_RESTRICTED equivalent. It excludes `COMMON_PREP` and `COMMON_MAPPING`
 `**` WORKSPACE-DATA-SCIENCE is the only workspace schema we are including in the notification strategy
-`***` Only these two models (`snowplow_structured_events_400` and `snowplow_structured_events_all`) of the `LEGACY` schema have been included temporarily as per [!7049](https://gitlab.com/gitlab-data/analytics/-/merge_requests/7049)
+`***` Only these two models (`snowplow_structured_events_400` and `snowplow_structured_events_all`) of the `LEGACY` schema have been included temporarily as per MR [!7049](https://gitlab.com/gitlab-data/analytics/-/merge_requests/7049)
+
+
+This notification strategy is the basis for any alert being sent from Monte Carlo towards Slack. However, as of [Notifications 2.0](https://docs.getmontecarlo.com/docs/notifications-v2) Monte Carlo has introduced *Audiences*.
+This means, the above notification strategy has now been migrated towards Audiences and we have the following Audiences in place, sending alerts to Slack channels as specified below:
+
+
+
+| Audience                          | Slack Channel                                        |
+|-----------------------------------|------------------------------------------------------|
+| Analytics Engineers               |      #analytics-pipelines                            |
+| Analytics Instrumentation         |      #g_analyze_analytics_instrumentation            |
+| Data Engineers                    |      #data-pipelines                                 |
+| Data Science                      |      #data-science-pipelines                         |
+| Sales Analytics                   |      #sales-analytics-pipelines                      |
+
 
 ## Domains
 
@@ -167,3 +182,13 @@ We have the availability to use [domains](https://vimeo.com/646676972) in our Mo
 In Monte Carlo UI in the top right corner there is a dropdown box available which you can select a particular domain or all domains.
 
 ![image](/handbook/business-technology/data-team/platform/monte-carlo/Screenshot_MC_domain.png)
+
+
+## BI Integrations
+
+When we initially deployed Monte Carlo at GitLab, we defaulted to Sisense as a BI tool, as it was what we were using at the time.
+However, recently we have started migrating to Tableau and therefore we have added the Tableau integration to our Monte Carlo instance.
+
+It is now possible to check table and field lineage from our raw models to Tableau objects, such as Tableau Views, Tableau Live Data Sources or Tableau Extract Data Sources.
+
+The Sisense integration and Tableau integration coexist on Monte Carlo and all related Sisense charts as well as Tableau objects can be seen on the lineage charts.

@@ -9,10 +9,10 @@ As we continue to scale, we want to be intentional about Talent Development. Inv
 
 GitLab's Talent Development Program includes the following initiatives:
 
-- [Talent Assessment Tool]({{< ref "talent-assessment" >}})
+- [Talent Assessment Tool]({{< ref "/handbook/people-group/talent-assessment" >}})
 - [360 Feedback]({{< ref "360-feedback" >}})
 - [Organisational Structure and gaps]({{< ref "structure" >}})
-- [Performance Assessments and Succession Planning]({{< ref "talent-assessment" >}})
+- [Performance Assessments and Succession Planning]({{< ref "/handbook/people-group/talent-assessment" >}})
 - [Career Development Conversations]({{< ref "1-1#career-development-discussion-at-the-1-1" >}})
 - [Performance Improvement Plans (PIP)]({{< ref "underperformance#options-for-remediation" >}})
 - [Performance Enablement Review]({{< ref "/handbook/people-group/learning-and-development/career-development#performance-enablement-review" >}})
@@ -34,10 +34,10 @@ graph LR
   Gid1([Career Development<br> Conversations]):::classC --> Iid1([Performance<br> Enablement Plan]):::classD
   Gid1([Career Development<br> Conversations]):::classC --> Jid1([Performance<br> Improvement Plan]):::classD
 
-click Aid1 "{{< ref "talent-assessment" >}}"
+click Aid1 "{{< ref "/handbook/people-group/talent-assessment" >}}"
 click Bid1 "{{< ref "structure" >}}"
 click Did1 "{{< ref "360-feedback" >}}"
-click Eid1 "{{< ref "talent-assessment" >}}"
+click Eid1 "{{< ref "/handbook/people-group/talent-assessment" >}}"
 click Fid1 "/handbook/hiring/"
 click Gid1 "{{< ref "1-1#career-development-discussion-at-the-1-1" >}}"
 click Hid1 "{{< ref "/handbook/people-group/learning-and-development/career-development#internal-resources" >}}"

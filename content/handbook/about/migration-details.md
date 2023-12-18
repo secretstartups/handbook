@@ -2961,8 +2961,8 @@ engineering/quality/quality-engineering/test-metrics-dashboards/index.html.md.er
 engineering/quality/quality-engineering/learning-resources/index.html.md.erb
 engineering/quality/quality-engineering/oncall-rotation/index.html.md.erb
 engineering/quality/quality-engineering/fulfillment-growth-qe-team/index.html.md.erb
-engineering/quality/quality-engineering/enablement-saas-platforms-qe-team/distribution/index.html.md
-engineering/quality/quality-engineering/enablement-saas-platforms-qe-team/index.html.md.erb
+engineering/quality/quality-engineering/self-managed-platform-team/distribution/index.html.md
+engineering/quality/quality-engineering/self-managed-platform-team/index.html.md.erb
 engineering/quality/quality-engineering/test-coverage/index.html.md.erb
 engineering/quality/quality-engineering/dev-qe-team/index.html.md.erb
 engineering/quality/quality-engineering/bug-prioritization/index.html.md.erb

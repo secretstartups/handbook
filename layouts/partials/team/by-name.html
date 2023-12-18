@@ -1,0 +1,15 @@
+{{/*
+  Returns a dictionary of team members index by their full names.  There is a ton of gotchas with this method as full
+  names aren't guaranteed to by unique.  Prefer to call people by their slug or gitlab usernames.  This partial
+  should only be called via partials.IncludeCached.
+ */}}
+{{- $team := partials.IncludeCached "data/team" . -}}
+{{- $teamDict := dict }}
+{{- range $team }}
+  {{/* warn on duplicate name but not if the name isn't set yet */}}
+  {{- if and (index $teamDict .name) (in .name .role) }}
+    {{ warnf "Duplicate name found: %s" .name }}
+  {{- end }}
+  {{- $teamDict = merge $teamDict (dict .name .) }}
+{{- end }}
+{{ return $teamDict }}

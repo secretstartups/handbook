@@ -13,7 +13,7 @@ title: "Stack Overflow: Tagged Questions and GitLab Collective Overview"
 
 Stack Overflow is a place for questions, discussions, and support on all things GitLab.
 
-## General questions and tags 
+## General questions and tags
 
 - [Questions tagged gitlab](https://stackoverflow.com/questions/tagged/gitlab)
 
@@ -23,11 +23,11 @@ Stack Overflow is a place for questions, discussions, and support on all things 
 
 The [GitLab Collective on Stack Overflow](https://stackoverflow.com/collectives/gitlab) groups content related to GitLab in one place. The GitLab Collective creates a space to engage with our community on Stack Overflow though questions, answers, knowledge articles, and bulletins.
 
-To request the `GitLab Employee` role, ping `@community-team` in the `#developer-relations` Slack channel, and include your Stack Overflow username.
+To request the `GitLab Employee` role, ping `@devrel-team` in the `#developer-relations` Slack channel, and include your Stack Overflow username.
 
 ### About the Collective
 
-There are 4 features in Stack Overflow Collectives:  
+There are 4 features in Stack Overflow Collectives:
 
 Questions:
 * The primary and traditional content format on Stack Overflow is the question & answer format.
@@ -35,23 +35,23 @@ Questions:
 * Collective admins and Recognized Members can mark answers as recommended.
 
 Articles:
-* Articles are intended for content in addition to the traditional Q&A format on Stack Overflow. 
+* Articles are intended for content in addition to the traditional Q&A format on Stack Overflow.
 * They can be knowledge articles (broad or open ended explorations of a topic) or how-to guides (providing steps to accomplish a goal).
-* Stack Overflow provides [Article guidelines](https://stackoverflow.com/help/article-guidelines) as well as a [guide to submitting an article](https://stackoverflow.com/help/propose-article) for users. 
+* Stack Overflow provides [Article guidelines](https://stackoverflow.com/help/article-guidelines) as well as a [guide to submitting an article](https://stackoverflow.com/help/propose-article) for users.
 * We recommend submmiting an outline for feedback before preparing the entire article.
 
 Bulletins:
-* Bulletins are updates about upcoming releases, events, or trainings posted by Collective admins. 
+* Bulletins are updates about upcoming releases, events, or trainings posted by Collective admins.
 * We use bulletins to share release notes, future meetups, and webinars.
 * They are usually time sensitive and have an archive date.
 
 Recognized Members
-* Admins can promote users in the Collective to Recognized Members. 
+* Admins can promote users in the Collective to Recognized Members.
 * Recognized Members can post articles, recommend answers, and have a "Recognized by GitLab" badge on their user card when interacting in the Collective.
 
 ### Recognized Member Criteria
 
-At GitLab, we believe that everyone can contribute and hope to provide a great experience for existing and new community members. Collective admins can promote users who are subject matter experts and/or helpful members of the Collective to Recognized Members.  
+At GitLab, we believe that everyone can contribute and hope to provide a great experience for existing and new community members. Collective admins can promote users who are subject matter experts and/or helpful members of the Collective to Recognized Members.
 
 A user must meet the following criteria to be promoted to a Recognized Member:
 * be a member of the Collective for at least 30 days.

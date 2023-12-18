@@ -35,10 +35,3 @@ Product operations work happens in alignment with GitLab's [product development 
 
 - [Product operations issue board](https://gitlab.com/groups/gitlab-com/-/boards/3651029?label_name[]=Product%20Operations)
 - [Release post technical issue board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/3130926?&label_name[]=Release%20Post%3A%3ATech%20Advisor)
-
-## Product operations surveys
-
-Product operations is responsible for managing Post Purchase Surveys (PPS) as well as Paid NPS Surveys (PNPS) on behalf of GitLab.
-
-- [Survey results](/handbook/product/product-operations/surveys/)
-- [Workflow and technical details](/handbook/product/product-operations/surveys/workflows/)

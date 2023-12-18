@@ -27,18 +27,6 @@ description: "The GitLab Enterprise Data Team is responsible for empowering ever
 **Would you like to contribute? [Become a Data Champion](/handbook/business-technology/data-team/direction/data-champion/), [recommend an improvement](https://gitlab.com/gitlab-data/analytics/-/issues), [visit Slack #data](https://gitlab.slack.com/messages/data/), [watch a Data Team video](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI). We want to hear from you!**
 {: .alert .alert-success}
 
-## Navigating The Data Team Handbook
-
-The Data Team Handbook contains a large amount of information! To help you navigate the handbook we've organized it into the following major sections:
-
-<div class="flex-row" markdown="0" style="height:90px;">
-  <a href="/handbook/business-technology/data-team/data-catalog/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Dashboards & Data You Can Use</a>
-  <a href="/handbook/business-technology/data-team/#how-data-works-at-gitlab" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">How Data Works At GitLab</a>
-  <a href="/handbook/business-technology/data-team/how-we-work/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">How The Data Team Works</a>
-  <a href="/handbook/business-technology/data-team/platform/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">How The Data Platform Works</a>
-  <a href="/handbook/business-technology/data-team/direction/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">What The Data Team Is Working On</a>
-</div>
-
 ## How Data Works at GitLab
 
 The collective set of people, projects, and initiatives focused on advancing the state of data at GitLab is called the **GitLab Data Program**. GitLab has two primary distinct groups within the Data Program who use data to drive insights and business decisions. These groups are complementary to one another and are focused on specific areas to drive a deeper understanding of trends in the business. The two teams are the (central) Enterprise Data Team and, separately, Function Analytics Teams located in Sales, Marketing, Product, Engineering or Finance. Watch the [Data Recruiting Video](https://youtu.be/4DlwsBIPxUw) to hear from some of the teams involved and what they are working on.
@@ -96,7 +84,7 @@ The **[Data Platform Team & Architecture Team](/handbook/business-technology/dat
 
 ### Analytics Engineering Team
 
-The [Analytics Engineering Team](/handbook/business-technology/data-team/organization/)** transforms raw data into clean, structure and usable formats for data decision-making.  The Analytics Engineering team also drives [Enterprise Data Program](/handbook/business-technology/data-team/organization/enterprise-data/) and supports the wider data community. The team focuses on inventorying, integrating, maintaining, and governing the data at an Enterprise level. This includes collaborating with the business units and data teams in establishing and facilitating commonly accepted guidelines around Enterprise data along with building [enterprise-wide data models](/handbook/business-technology/data-team/platform/edw/), supporting [Self-Service BI](/handbook/business-technology/data-team/direction/self-service/) and Analytical capabilities by providing Data Enablement and required training to the Users on Enterprise Data Models.
+The [Analytics Engineering Team](/handbook/business-technology/data-team/organization/)** transforms raw data into clean, structure and usable formats for data decision-making. The Analytics Engineering team also drives Enterprise Data Program and supports the wider data community. The team focuses on inventorying, integrating, maintaining, and governing the data at an Enterprise level. This includes collaborating with the business units and data teams in establishing and facilitating commonly accepted guidelines around Enterprise data along with building [enterprise-wide data models](/handbook/business-technology/data-team/platform/edw/), supporting [Self-Service BI](/handbook/business-technology/data-team/direction/self-service/) and Analytical capabilities by providing Data Enablement and required training to the Users on Enterprise Data Models.
 
 
 ### The Enterprise Insights & Data Science Team
@@ -155,11 +143,12 @@ Additionally we want to shift to a more aspirational measurement which is to mea
 
 ## How To Connect With Us
 
-<div class="flex-row" markdown="0" style="height:80px">
-  <a href="https://gitlab.slack.com/messages/data/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Primary #Data Slack Channel</a>
-  <a href="https://gitlab.com/gitlab-data/analytics/-/issues" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Issue tracker</a>
-  <a href="https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">GitLab Unfiltered Data Team Playlist</a>
-  <a href="https://www.worldtimebuddy.com/?pl=1&lid=2950159,5746545,4180439,1271439" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">What time is it for folks on the data team?</a>
+<div class="flex-row" markdown="0" >
+  <a href="https://gitlab.slack.com/messages/data/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Primary #Data Slack Channel</a>
+  
+  <a href="https://gitlab.com/gitlab-data/analytics/-/issues" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Issue tracker</a>
+  <a href="https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">GitLab Unfiltered Data Team Playlist</a>
+  <a href="https://www.worldtimebuddy.com/?pl=1&lid=2950159,5746545,4180439,1271439" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">What time is it for folks on the data team?</a>
 </div>
 <br>
 
@@ -216,7 +205,6 @@ You can tag the Data Team in GitLab using:
 | [Data Onboarding](/handbook/business-technology/data-team/programs/#data-onboarding) |
 | [Learning Library](/handbook/business-technology/data-team/learning-library/) |
 | [Sisense  Guide](/handbook/business-technology/data-team/platform/sisensecdt/) |
-| [Sisense Style Guide](/handbook/business-technology/data-team/platform/sisense-style-guide/) |
 | [Tableau Guide](/handbook/business-technology/data-team/platform/tableau/) |
 | [Tableau Style Guide](/handbook/business-technology/data-team/platform/tableau-style-guide/) |
 
@@ -241,7 +229,7 @@ You can tag the Data Team in GitLab using:
     - [Data Infrastructure](/handbook/business-technology/data-team/platform/infrastructure/)
     - [Data Champion](/handbook/business-technology/data-team/direction/data-champion/)
     - [Data Onboarding](/handbook/business-technology/data-team/programs/#data-onboarding)
-    - [Data for Finance](/handbook/business-technology/data-team/programs/data-for-finance/)
+
     - [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/)
     - [Data Quality](/handbook/business-technology/data-team/data-quality/)
     - [Data Services](/handbook/business-technology/data-team/data-service/)
@@ -254,7 +242,6 @@ You can tag the Data Team in GitLab using:
     - [RStudio Guide](/handbook/business-technology/data-team/platform/rstudio/)
     - [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/)
     - [Snowplow](/handbook/business-technology/data-team/platform/snowplow/)
-    - [Sisense Style Guide](/handbook/business-technology/data-team/platform/sisense-style-guide/)
     - [Sisense](/handbook/business-technology/data-team/platform/sisensecdt/)
     - [Tableau](/handbook/business-technology/data-team/platform/tableau/)
     - [Tableau Style Guide](/handbook/business-technology/data-team/platform/tableau-style-guide/)

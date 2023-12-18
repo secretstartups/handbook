@@ -378,7 +378,7 @@ Our groups operate on the principle of [stable counterparts](/handbook/leadershi
 For example, we have a Product Manager, Product Marketing Manager, Engineering Manager, Content Marketer, Backend Developers, Frontend Developers, and Product Designers that are all dedicated to a group called "Package". Collectively, these individuals form the "Package group". The word "Package" appears in their titles as a specialty, and in some cases, their team name.
 
 We distinguish between types of stable counterparts to these Product Groups with:
-- Primary Stable Counterparts - Team members assigned to our Product hierarchy (typically groups) from Product, Development, Product Design and Quality functions which we call the [Quad](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/quad-planning/).
+- Primary Stable Counterparts - Team members assigned to our Product hierarchy (typically groups) from Product, Development, Product Design and Quality functions which we call the [Quad](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/quad-planning/).
 - Complete Stable Counterparts - All team members assigned to product hierarchy from functions outside of the primary functions and defined in our [product categories page](/handbook/product/categories/). For example - we assign stable counterparts from Support, Product Marketing and Customer Success who are all considered part of the complete stable counterparts.
 
 A group has no reporting lines because we [don't want a matrix organization](/handbook/leadership/#no-matrix-organization).
@@ -485,7 +485,7 @@ The [MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/66180) de
 
 ### Working Groups
 
-A [working group]({{< ref "working-groups" >}}) is a specific type of group that assembles for a period of time to accomplish a business goal. Working groups have defined responsibilities and meet regularly. Ideally a working group can disband when the goal is complete to avoid accrued bureaucracy.
+A [working group]({{< ref "/handbook/company/working-groups" >}}) is a specific type of group that assembles for a period of time to accomplish a business goal. Working groups have defined responsibilities and meet regularly. Ideally a working group can disband when the goal is complete to avoid accrued bureaucracy.
 
 ### Middle Management
 

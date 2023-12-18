@@ -103,7 +103,7 @@ This enables anyone at the company, even those who have just joined, to propose 
 
 1. In [this merge request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/29227), only a portion of the initial proposal was agreed upon and merged into GitLab's handbook. However, this ensured that all pertinent parties had a voice. This also documents the thought process that went into the eventual documentation, such that [context]({{< ref "./effective-communication#understanding-low-context-communication" >}}) is in place for anyone to understand why these changes were made, and when.
 1. By empowering all team members to make proposals, you enable new hires to offer up fresh perspectives that can benefit the company. [This merge request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/29045) is an example of a new hire sharing a proposal to strengthen GitLab's [Onboarding Buddy]({{< ref "onboarding-buddies" >}}) checklist, and then her buddy made a proposal which was eventually merged.
-1. This [merge request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/36848) was proposed by someone still in the onboarding phase at GitLab. The discussion threads offer visibility into how learning happens, how [iteration]({{< ref "values#iteration" >}}) shapes proposals, and how [everyone can contribute]({{< ref "strategy#why" >}}) to the handbook's evolution.
+1. This [merge request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/36848) was proposed by someone still in the onboarding phase at GitLab. The discussion threads offer visibility into how learning happens, how [iteration]({{< ref "values#iteration" >}}) shapes proposals, and how [everyone can contribute]({{< ref "/handbook/company/strategy#why" >}}) to the handbook's evolution.
 
 ## What goes in a company handbook?
 
@@ -112,7 +112,7 @@ This enables anyone at the company, even those who have just joined, to propose 
 
 The beauty of using a tool like [GitLab](https://about.gitlab.com/stages-devops-lifecycle) to build and evolve a company handbook is that you don't have to have the full table of contents mapped out in advance. Tools like [Almanac](https://almanac.io), [Notion](https://www.notion.so), and [Guru](https://www.getguru.com) can be used as well. Consider the following as an initial guide for top-level organization, but don't hesitate to deviate based on the size, scope, and needs of your firm.
 
-1. **Company / Building Blocks**: This section houses policies, [values]({{< ref "values" >}}), [KPIs]({{< ref "kpis" >}})/[OKRs]({{< ref "okrs" >}}), and [cultural principles]({{< ref "/handbook/company/culture" >}}) that apply to most or all departments in the organization. The suggested list below was curated by [Luke Thomas](https://twitter.com/lukethomas14) in his book [The Anywhere Operating System](https://friday.app/anywhere).
+1. **Company / Building Blocks**: This section houses policies, [values]({{< ref "values" >}}), [KPIs]({{< ref "kpis" >}})/[OKRs]({{< ref "/handbook/company/okrs" >}}), and [cultural principles]({{< ref "/handbook/company/culture" >}}) that apply to most or all departments in the organization. The suggested list below was curated by [Luke Thomas](https://twitter.com/lukethomas14) in his book [The Anywhere Operating System](https://friday.app/anywhere).
    - Founding story/history of the company
    - Mission, vision, and values
    - Who we serve (customer personas)
@@ -171,7 +171,7 @@ To whatever degree you legally can, consider making your company handbook [publi
 
 This allows the public as well as companies in your industry to replicate processes and make suggestions for improvement. Remember, this doesn't mean that those who provide input [have a right to feel heard or considered](/handbook/people-group/directly-responsible-individuals#empowering-dris); it simply opens wide the gate for improvements you'd never consider in your own bubble.
 
-This also creates a more welcoming environment for applicants and new hires. By [sharing]({{< ref "candidate-faq" >}}) processes, culture, and strategy, your [hiring teams]({{< ref "./hiring" >}}) are likely to field inbounds which are more qualified, put forth by individuals who have already investigated your company and believe that they align with your [goals and mission]({{< ref "strategy" >}}).
+This also creates a more welcoming environment for applicants and new hires. By [sharing]({{< ref "candidate-faq" >}}) processes, culture, and strategy, your [hiring teams]({{< ref "./hiring" >}}) are likely to field inbounds which are more qualified, put forth by individuals who have already investigated your company and believe that they align with your [goals and mission]({{< ref "/handbook/company/strategy" >}}).
 
 ## Not just handbook-first... website-first is even more efficient
 

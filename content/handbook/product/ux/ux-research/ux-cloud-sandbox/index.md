@@ -130,7 +130,7 @@ Once you are logged into the sandbox, navigate to a group called `User Test Acco
 
 When using test accounts for your study **you will be responsible for changing the password after each participant session to protect our environment.** The last updated password (after your final user) will need to be recorded in the `accounts.md` file for the next person to use.
 
-## Do and don't
+## Dos and don'ts
 
 Do:
 

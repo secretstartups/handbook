@@ -69,7 +69,7 @@ To conduct these interviews:
 1. Create a new research issue for tracking your interviews and results.
     1. Use the [User Persona - Internal Stakeholder Script [Google Docs Template]](https://docs.google.com/document/d/1ZsQXPeg2dZNPvoh2O5wRobIB4EtBWuNsNLyVpIs2raM/copy) and fill in the title and details with your persona.
     1. Link your Google Sheet in your issue.
-1. Use the[GitLab team page](/handbook/company/team/), various department team pages (like the [Engineering page](https://about.gitlab.com/handbook/engineering/#engineering-departments-sub-departments--teams)), or put a message in a team's slack channel (usually found near the bottom of a team page) to recruit internal participants for feedback.
+1. Use the [GitLab team page](/handbook/company/team/), various department team pages (like the [Engineering page](https://about.gitlab.com/handbook/engineering/#engineering-departments-sub-departments--teams)), or put a message in a team's slack channel (usually found near the bottom of a team page) to recruit internal participants for feedback.
     1. Use a [Calendly link](/handbook/product/ux/ux-research/recruiting-participants/#create-a-calendly-event) to schedule the 30 minute interview sessions.
 1. During each interview session:
     1. If you need to take notes, or have an additional note taker, use the [user interview notes template](https://docs.google.com/spreadsheets/d/1hnIqg-fnCYW2XKHR8RBsO3cYLSMEZy2xUKmbiUluAY0/copy).
