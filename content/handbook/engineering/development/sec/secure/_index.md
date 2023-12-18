@@ -98,7 +98,7 @@ We still refer to "_Security Products_" as the tools developed by the Secure Tea
 
 We strive to maintain a consistent User Experience across our Security Products but we do not enforce consistency at the implementation level.
 Each group faces its own challenges and is in the best position to make the technical choices it deems are the most suitable to achieve its goals.
-While [UX inconsistencies are considered as bugs](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity),
+While [UX inconsistencies are considered as bugs](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity),
 we rely on individual teams to make smart decisions about when consistency is important and when divergence makes more sense
 — either because the divergence itself creates a better experience or because of velocity considerations.
 

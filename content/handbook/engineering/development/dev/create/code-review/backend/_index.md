@@ -135,7 +135,7 @@ by `action` and/or `controller`.
 
 #### Priority and Severity
 
-More details can be found in the handbook for [severity](/handbook/engineering/quality/issue-triage/#severity) and [priority](/handbook/engineering/quality/issue-triage/#priority)
+More details can be found in the handbook for [severity](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity) and [priority](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority)
 
 #### Calendar Invites
 

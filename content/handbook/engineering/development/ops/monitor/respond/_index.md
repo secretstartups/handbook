@@ -64,7 +64,7 @@ You can follow along with the team's accomplishments by reading the [latest week
     * If the discussion has gotten off-track, you can't tell what the action item should be, or you don't have an opinion yourself, make the plan up! Then communicate it.
 * It's also ok to express a direct opinion about what you think is best when presenting a set of options.
     * It's way easier to engage with your work if you believe in what you're building. Advocate for it.
-* Sometimes it’s necessary to accept risk to make progress.  
+* Sometimes it’s necessary to accept risk to make progress.
 
 ### ⏱️ [Efficiency](/handbook/values/#efficiency)
 
@@ -111,13 +111,13 @@ See also [Measuring Say Do ratio](https://about.gitlab.com/handbook/engineering/
 
 #### Scheduling bugs
 
-When new bugs are reported, the Engineering Manager ensures that they have proper [Priority](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority) and [Severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity) labels. Bugs are discussed in the [weekly triage issue](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/?label_name%5B%5D=group%3A%3Arespond) and are scheduled according to severity, priority, and the capacity of the teams. Ideally, we should work on a few bugs each release regardless of priority or severity.
+When new bugs are reported, the Engineering Manager ensures that they have proper [Priority](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority) and [Severity](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity) labels. Bugs are discussed in the [weekly triage issue](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/?label_name%5B%5D=group%3A%3Arespond) and are scheduled according to severity, priority, and the capacity of the teams. Ideally, we should work on a few bugs each release regardless of priority or severity.
 
 #### Scheduling technical debt
 
 As new technical debt issues are created, the Engineering Manager and Product Manager will triage, prioritize and schedule these issues.   When new issues are created by Monitor team members, add any relevant context to the description about the priority or timing of the issue, as this will help streamline the triage work.
 
-Technical debt is planned following the [standard prioritization scheduling](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority).
+Technical debt is planned following the [standard prioritization scheduling](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority).
 
 ### Weekly async updates
 
@@ -284,7 +284,7 @@ The Respond team uses labels for issue tracking and to organize issue boards.  M
   - `~"type::feature"`: [Feature Issues](/handbook/product/product-processes/#feature-issues)
   - `~"type::bug"`: [Bug Issues](/handbook/product/product-processes/#bug-issues)
   - `~technical debt` : [Technical Debt](/handbook/engineering/workflow/#technical-debt)
-- **Workflow**: required. 
+- **Workflow**: required.
   - `workflow::refinement`: Issues that need further input from team members in order for it to be `workflow::ready for development`.
   - `workflow::blocked`: Waiting on external factors or another issue to be completed before work can resume.
   - `workflow::ready for development`: The issue is refined and ready to be scheduled in a current or future milestone.
@@ -300,8 +300,8 @@ Just like the rest of the company, we use [Time Off by Deel](/handbook/paid-time
 A list of interesting content related to the areas of the Respond group:
 
 - **On-Call**
-  - [Google's SRE Workbook, Chapter 8 - On-Call](https://sre.google/workbook/on-call/) 
+  - [Google's SRE Workbook, Chapter 8 - On-Call](https://sre.google/workbook/on-call/)
 - **Incident Response**
-  - [Google's SRE Workbook, Chapter 9 - Incident Response](https://sre.google/workbook/incident-response/) 
+  - [Google's SRE Workbook, Chapter 9 - Incident Response](https://sre.google/workbook/incident-response/)
 - **Postmortem Culture: Learning from Failure**
-  - [Google's SRE Workbook, Chapter 9 - Incident Response](https://sre.google/workbook/postmortem-culture/)  
+  - [Google's SRE Workbook, Chapter 9 - Incident Response](https://sre.google/workbook/postmortem-culture/)

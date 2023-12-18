@@ -3,6 +3,20 @@ title: "Engineering Productivity team"
 description: "The Engineering Productivity team increases productivity of GitLab team members and contributors by shortening feedback loops and improving workflow efficiency for GitLab projects."
 ---
 
+## Child Pages
+
+[Issue triage](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/)
+{.h4}
+
+[Wider Community Merge Request triage](/handbook/engineering/infrastructure/engineering-productivity/merge-request-triage/)
+{.h4}
+
+[Project Management](/handbook/engineering/infrastructure/engineering-productivity/project-management/)
+{.h4}
+
+[Triage Operations](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/)
+{.h4}
+
 ## Mission
 
 - Constantly improve efficiency for our entire engineering team, to ultimately increase value for our customer.
@@ -31,7 +45,7 @@ Here is an [overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=c
 
 | Person | Role |
 | --- | --- |
-| {{< member-by-name "Greg Alfaro" >}} | [GDK Project Stable Counterpart](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/gdk/), Application Security |
+| {{< member-by-name "Greg Alfaro" >}} | [GDK Project Stable Counterpart](https://handbook.gitlab.com/handbook/engineering/quality/engineering-productivity/gdk/), Application Security |
 
 ### Structure
 
@@ -47,7 +61,7 @@ graph TD
     click A "/handbook/engineering/quality"
     click B "/handbook/engineering/quality/engineering-analytics"
     click D "/handbook/engineering/infrastructure/test-platform"
-    click E "/handbook/engineering/quality/engineering-productivity"
+    click E "/handbook/engineering/infrastructure/engineering-productivity"
     click P "/handbook/engineering/infrastructure/platforms/"
     click R "/handbook/engineering/infrastructure/reliability/"
 
@@ -64,13 +78,13 @@ graph TD
 ### Child Pages
 
 
-#### [GDK](/handbook/engineering/quality/engineering-productivity/gdk/)
+#### [GDK](/handbook/engineering/infrastructure/engineering-productivity/gdk/)
 
 
-#### [Flaky tests](/handbook/engineering/quality/engineering-productivity/flaky-tests/)
+#### [Flaky tests](/handbook/engineering/infrastructure/engineering-productivity/flaky-tests/)
 
 
-#### [Workflow Automation](/handbook/engineering/quality/engineering-productivity/workflow-automation/)
+#### [Workflow Automation](/handbook/engineering/infrastructure/engineering-productivity/workflow-automation/)
 
 
 ### Office hours
@@ -106,7 +120,7 @@ The Engineering Productivity team focuses on the following workstreams and the a
   * KPI corrective actions such as [Review Apps stabilization](/handbook/engineering/quality/performance-indicators/#review-app-deployment-success-rate-for-gitlab).
   * [Merge Request Coach](https://handbook.gitlab.com/job-families/expert/merge-request-coach/) for ~"Community contribution" merge requests.
 * **Engineering workflow**: Develop automated processes for improving label classification hygiene in support of product and Engineering workflows.
-  * [Automated issues and merge requests triage](/handbook/engineering/quality/triage-operations/).
+  * [Automated issues and merge requests triage](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/).
   * Improvements to the labelling classification and automation used to support Engineering measurements.
   * See the [`gitlab-triage` Ruby gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-triage), and [Triage operations](https://gitlab.com/gitlab-org/quality/triage-ops) projects for examples.
 * **Do it for wider community**: Increase efficiency for wider GitLab Community contributions.
@@ -128,7 +142,7 @@ The Engineering Productivity team has diverse responsibilities and reactive work
 - We focus on OKRs, corrective actions and preventative work.
 - We adhere to the general release milestones like %x.y.
 - We are ambitious with our targeted planned work per milestone. These targets are not reflective of a commitment. Reactive work load will ebb and flow and we do not expected to accomplish everything planned for the current milestone.
-- [Priority labels](/handbook/engineering/quality/issue-triage/#priority) are used to indicate relative priority for a milestone.
+- [Priority labels](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority) are used to indicate relative priority for a milestone.
 
 ### Weighting
 

@@ -43,7 +43,7 @@ Availability is a percentage calculated by _(work days available / work days in 
 
 All individual contributors start with a "weight budget" of 7, meaning they are capable (based on historical data) of completing a maximum number of issues worth 7 weight points total. Then, based on their availability percentage, weight budgets are reduced individually. For example, if you are 70% available, your weight budget becomes 5.
 
-Product will prioritize issues based on the teams total weight budget. 
+Product will prioritize issues based on the teams total weight budget.
 
 ### Kickoff emails
 
@@ -59,7 +59,7 @@ Emails get sent to each individual contributor on the team in order to give a he
 
 ### Service Level Objectives Monitoring
 
-The Engineering Manager will take proactive steps to avoid having reported bugs to go past the target duration defined in [Severity SLOs](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity-slos).
+The Engineering Manager will take proactive steps to avoid having reported bugs to go past the target duration defined in [Severity SLOs](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity-slos).
 
 The [Bug Triage Board](https://gitlab.com/groups/gitlab-org/-/boards/2546239) can be used to browse them together in one board.
 

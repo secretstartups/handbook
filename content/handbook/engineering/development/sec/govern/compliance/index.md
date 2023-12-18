@@ -106,13 +106,13 @@ In cases where verification in staging or production is unfeasible, the [staging
 
 In some cases it may be appropriate for the MR author to to verify the change themselves, for example feature flag rollout or monitoring a background migration. In these cases, the author should add the `verified-by-author` label to the issue to prevent the triage bot from assigning another team member, and the author should add a comment in the issue explaining why they are verifying the issue themselves.
 
-##### Handling Discoveries of Issues  
+##### Handling Discoveries of Issues
 
 __Verifier: the engineer verifying the issue on .com/production (not the MR author)__
 
 1. Verifier: documents findings by commenting on the verification thread on the issue.
 1. Verifier: opens new issues ~"type::bug"  or ~"type::feature" based on fiindings.
-   1. Verifier: sets the severity and/or priority based on [priority](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority)/[severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity-slos) triage process and the issue type (~"type::bug"  or ~"type::feature").
+   1. Verifier: sets the severity and/or priority based on [priority](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority)/[severity](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity-slos) triage process and the issue type (~"type::bug"  or ~"type::feature").
    1. ~"severity::1" / ~"severity::2" to be pulled directly into the milestone with comment added to ping(`@`) the engineering manager.
 1. Verifier: assigns the MR author to newly opened issues.
 1. Verifier: closes the issue and unassigns themself. The issue will automatically get the `~workflow::complete` label added.
@@ -139,7 +139,7 @@ Below are the steps to add the calendar to Time Off by Deel:
 
 1. Open Slack
 1. Open app in slack "Time Off by Deel"
-1. Go to tab "Home", 
+1. Go to tab "Home",
 1. Click on the dropdown "Your Events", and select "Calendar Sync".
 1. Under "Additional calendars to include?", click on "Add calendar".
 1. Add the following calendar ID: `c_e21c4d99155603fa2f3b06f41628bebfe6013218000c822ec2fdfe7ed877d3e1@group.calendar.google.com`

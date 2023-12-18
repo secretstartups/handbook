@@ -18,14 +18,14 @@ description: "These are the expected competencies of a Staff Backend Engineer, E
 ### Staff Leadership Competencies
 
 {{% include "includes/engineering/staff-leadership-competency.md" %}}
-  
+
 ### Staff Technical Competencies
 
 {{% include "includes/engineering/staff-technical-competency.md" %}}
 
 ##### Engineering Productivity
 
-This table refers to the responsibility terms that are defined on the [team page](/handbook/engineering/quality/engineering-productivity/index.html#areas-of-responsibility).
+This table refers to the responsibility terms that are defined on the [team page](/handbook/engineering/infrastructure/engineering-productivity/index.html#areas-of-responsibility).
 
 | Responsibility | Description |
 | --- | --- |

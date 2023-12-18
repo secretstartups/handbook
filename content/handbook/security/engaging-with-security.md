@@ -148,7 +148,7 @@ Severity label is determined by CVSS score, using the [GitLab CVSS calculator](h
 If another team member feels that the chosen `~severity` / `~priority` labels
 need to be reconsidered, they are encouraged to begin a discussion on the relevant issue.
 
-The presence of the `~bug::vulnerability` label modifies the standard [severity labels](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity)(`~severity::1`, `~severity::2`, `~severity::3`, `~severity::4`)
+The presence of the `~bug::vulnerability` label modifies the standard [severity labels](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity)(`~severity::1`, `~severity::2`, `~severity::3`, `~severity::4`)
 by additionally taking into account
 likelihood as described below, as well as any
 other mitigating or exacerbating factors. The priority of addressing

@@ -788,7 +788,7 @@ Downtime of GitLab.com has a material impact on our customers. From a 2014 repor
 
 #### Infradev
 
-The [infradev process](https://about.gitlab.com/handbook/engineering/workflow/#infradev) is used to triage issues requiring priority attention in support of SaaS availability and reliability. As part of the broader effort to responsibly manage tech debt across the company, PMs should partner with their EMs to identify and [incorporate](https://about.gitlab.com/handbook/engineering/workflow/#product-management) infradev labeled issues of [all severities](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity). Note, issues labeled with a severity must be mitigated and resolved within [specific timeframes](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#availability) to meet the SLO. As EMs are the [DRIs for prioritizing infradev work](#prioritization-for-feature-maintenance-and-bugs), PMs should familiarize themselves with the [infradev process](https://about.gitlab.com/handbook/engineering/workflow/#infradev) and [Board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name%5B%5D=infradev).
+The [infradev process](https://about.gitlab.com/handbook/engineering/workflow/#infradev) is used to triage issues requiring priority attention in support of SaaS availability and reliability. As part of the broader effort to responsibly manage tech debt across the company, PMs should partner with their EMs to identify and [incorporate](https://about.gitlab.com/handbook/engineering/workflow/#product-management) infradev labeled issues of [all severities](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity). Note, issues labeled with a severity must be mitigated and resolved within [specific timeframes](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#availability) to meet the SLO. As EMs are the [DRIs for prioritizing infradev work](#prioritization-for-feature-maintenance-and-bugs), PMs should familiarize themselves with the [infradev process](https://about.gitlab.com/handbook/engineering/workflow/#infradev) and [Board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name%5B%5D=infradev).
 
 Other resources PMs can consult to identify and prioritize Infradev issues include:
 
@@ -953,21 +953,21 @@ The DRI should post a summary status update on the epic at least daily. The foll
 
 ```
 **YYYY-MM-DD Update**
- 
+
 **Progress since last update:**
- 
+
 This section describes what changes have been deployed to production and any other notable progress or accomplishments.
- 
+
 **Progress expected by next update:**
- 
+
 This section describes what you expect to accomplish prior to the next update.  For example what work is currently in progress (include links to MRs), when do you expect these to be deployed, what do you expect to be the effect(s)?
- 
+
 **Blockers:**
- 
+
 This section describes any specific obstacles preventing progress. What is needed to overcome them?  Are there team members (e.g. executives, domain experts) these concerns should be escalated to?
- 
+
 **Praise:**
- 
+
 This section is used to highlight specific praise for team members contributing to the Rapid Action.  It is important to [say thanks](/handbook/values/#say-thanks).
 ```
 

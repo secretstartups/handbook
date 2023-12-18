@@ -13,7 +13,7 @@ A GitLab contributor room is available on [Discord](https://discord.gg/gitlab) f
 
 ### Community issues workflow manual process
 
-See the [partial issue triage checklist](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#partial-triage-checklist).
+See the [partial issue triage checklist](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#partial-triage-checklist).
 
 ## Merge Requests
 
@@ -23,22 +23,22 @@ Wider community merge requests are MRs opened by a person that's not present on 
 
 - The `Community contribution` label is automatically applied by the [GitLab Bot](https://gitlab.com/gitlab-bot) to MRs submitted by wider community members.
   - You can see the list of MRs in [`gitLab-org` list of merge requests](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name[]=Community+contribution).
-  - [Learn more about the cadence and conditions for this automation](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#label-community-contributions).
+  - [Learn more about the cadence and conditions for this automation](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#label-community-contributions).
 - The `1st contribution` label is added to first-time contributions. Every time a contributor is opening a merge request under the `gitlab-org` namespace for the first time, the label `1st contribution` is automatically applied to the merge request.
   - You can see the list of MRs in [`gitlab-org` list of merge requests](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name%5B%5D=1st+contribution).
   - [First-time contributors](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows#first-time-contributors) are also awarded a gift as our way to say thanks.
 
 ### Triage reports
 
-See [Community-related triage reports](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#community-related-triage-reports).
+See [Community-related triage reports](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#community-related-triage-reports).
 
 ### Scheduled workflow automation
 
-See [Community-related scheduled workflow automation](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#community-related-scheduled-workflow-automation).
+See [Community-related scheduled workflow automation](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#community-related-scheduled-workflow-automation).
 
 ### Reactive workflow automation
 
-See [Community-related reactive workflow automation](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#community-related-reactive-workflow-automation).
+See [Community-related reactive workflow automation](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#community-related-reactive-workflow-automation).
 
 ## Merge request coaches
 
