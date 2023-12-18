@@ -172,7 +172,7 @@ Both mentor impacts trended sligntly downward. Survey participation went from 91
 | I have relationships with team members outside of my own department. | Favorable, -2 |
 | I am confident in my ability to support others towards achieving their goals. | Favorable, -2 |
 
-**Summary:** The experience of a mentor has an overall favorable rating, with negligible impact on mentors relationships outside their department and confidence in supporting others towards their goals. 
+**Summary:** The experience of a mentor has an overall favorable rating, with negligible impact on mentors relationships outside their department and confidence in supporting others towards their goals.
 
 
 ### 2022
