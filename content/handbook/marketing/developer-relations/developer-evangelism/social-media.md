@@ -357,7 +357,7 @@ Use the [social card validator](/handbook/marketing/developer-relations/develope
 
 #### Release Evangelism MVP
 
-The monthly release post awards the [MVP](/handbook/marketing/blog/release-posts/#mvp) to a community contributor. A personal shoutout from a Developer Evangelist helps with community engagement, and helps increasing visibibility so that everyone wants to contribute. 
+The monthly release post awards the [MVP](/handbook/marketing/blog/release-posts/#mvp) to a community contributor. A personal shoutout from a Developer Evangelist helps with community engagement, and helps increasing visibility so that everyone wants to contribute.
 
 Workflow:
 
@@ -398,7 +398,7 @@ High performing share examples for GitLab 14:
 - 14.1: Kubernetes cluster image scanning on [LinkedIn](https://www.linkedin.com/posts/dnsmichi_kubernetes-activity-6823916460750974976-FJEc) (2,500 views, 27 reactions)
 - 14.0: Pipeline Editor on [Twitter](https://twitter.com/dnsmichi/status/1407359717282828298) (38,000 impressions, 1,400 engagements) 
 - 14.0: Container Scanning in GitLab to use Trivy from @AquaSecTeam on [Twitter](https://twitter.com/olearycrew/status/1407358974601707520) (7,000 impressions, 100 engagements)
-- 14.0: Introduction of Terraform Module Registry on [Twitter](https://twitter.com/sarki247/status/1407995667121901568) (4,200 impressions, 55 egagements)
+- 14.0: Introduction of Terraform Module Registry on [Twitter](https://twitter.com/sarki247/status/1407995667121901568) (4,200 impressions, 55 engagements)
 - 14.0: Cluster management project template using Helm 3 on [Twitter](https://twitter.com/sarki247/status/1408056830551601159) (2,000 impressions, 64 engagements)
 
 Past examples:
