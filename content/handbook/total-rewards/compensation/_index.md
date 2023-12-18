@@ -255,7 +255,7 @@ Sales and Sales Development roles at GitLab that are subject to quota and paid c
 - Enterprise Sales
 - Sales Development
 
-These roles are still [benchmarked using market data]({{< ref "compensation-calculator#sf-benchmark" >}})and are assigned to a pay differential zone based on their [location factor]({{< ref "compensation-calculator#location-factor" >}}) according to the following table:
+These roles are still [benchmarked using market data]({{< ref "compensation-calculator#sf-benchmark" >}}) and are assigned to a pay differential zone based on their [location factor]({{< ref "compensation-calculator#location-factor" >}}) according to the following table:
 
 | Zone | Location Factor Range | Zone Differential |
 | ---- | --------------------- | ----------------- |
