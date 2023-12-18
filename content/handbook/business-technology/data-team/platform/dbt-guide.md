@@ -144,22 +144,37 @@ We use virtual environments for local dbt development because it ensures that ea
 
 #### Cloning models locally
 
-The following commands enable zero copy cloning using DBT selections syntax to clone entire lineages. This is far faster and more cost-effective than running the models using DBT but do not run any DBT validations. As such, all dbt users are encourage to use these commands to set up your environment.
-- Ensure you have dbt setup and are able to run models
-- These local commands run using the SnowFlake user configured in `/.dbt/profiles.yml`, and will skip any table which your user does not have permissions to.  
-- These commands run using the same logic as the dbt CI pipelines, using the DBT_MODELS as a variable to select a given lineage.
-- You need to be in the `/analytics` directory to run these commands.
-- Because the `make` commands for local cloning are not part of the virtual environment, the suggested workflow is to run local clone operations in a separate terminal window from the terminal window that's running your dbt virtual environment.
-- If you encounter an error as below:
+This command enables zero copy cloning using DBT selections syntax to clone entire lineages. This is far faster and more cost-effective than running the models using DBT but do not run any DBT validations. As such, all dbt users are encouraged to use this command to set up your environment.
 
+**Prerequisites:**
+
+- Ensure you have dbt setup and are able to run models
+- These local commands run using the SnowFlake user configured in `/.dbt/profiles.yml`, and will skip any table which your user does not have permissions to.
+- These commands run using the same logic as the dbt CI pipelines, using the `DBT_MODELS` as a variable to select a given lineage.
+- You need to be in the `/analytics` directory to run these commands.
+
+**Usage:**
+
+To use the new `clone-dbt-select-local-user-noscript` command, you have to specify a `DBT_MODELS` variable. For example, to clone only the `dim_subscription` model, you would execute the following command:
+```
+make DBT_MODELS="dim_subscription" clone-dbt-select-local-user-noscript
+```
+This will clone the DBT model from the `prod` branch into your local user database (i.e., `{user_name}_PROD`). You can use dbt selectors: @, +, etc to select the entire lineage that you want to copy over your local database.
+
+**Tips:**
+
+- If you encounter an error as below:
 ```
 Compilation Error
   dbt found 7 package(s) specified in packages.yml, but only 0 package(s) installed in dbt_packages. Run "dbt deps" to install package dependencies.
 ```
+  - Run `make dbt-deps` from the root of the analytics folder and retry the command.
 
-  - Run `make dbt-deps` from the root of the analytics folder and retry the command.  
+**Transition Note:**
 
-##### Cloning into local user DB
+We are actively transitioning to the new `clone-dbt-select-local-user-noscript` command. The old `clone-dbt-select-local-user` command will still be available for a limited time, but we encourage you to start using the new command as soon as possible.
+
+##### Cloning into local user DB (python scripts - pre-`dbt clone`)
 
 - This clones the given DBT model lineage into the active branch DB (ie. `{user_name}_PROD`)
   - `make DBT_MODELS="<dbt_selector>" clone-dbt-select-local-user`
