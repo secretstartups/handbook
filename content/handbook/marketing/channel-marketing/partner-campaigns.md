@@ -15,7 +15,7 @@ title: "Channel and Alliance Marketing"
 
 # Channel Marketing Campaigns
 
-This handbook page is to walk through the technical and operational setup of different partner campaign types from Marketo → SFDC → Vartopia, including Marketo and SFDC campaign set up for MDF, Joint Gitlab and Partner, Trials and Partner Managed Campaigns.
+This handbook page is to walk through the technical and operational setup of different partner campaign types from Marketo → SFDC → Vartopia, including Marketo and SFDC campaign set up for MDF, Joint GitLab and Partner, Trials and Partner Managed Campaigns.
 
 The general steps required for creating a partner campaign include:
 1. Clone and update Marketo program template and tokens.

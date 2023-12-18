@@ -92,7 +92,7 @@ Migrating GitLab.com to run on Kubernetes also meant creating new installation m
 | 2021-12-01 | Pages                                             |
 | 2022-08-05 | Camoproxy                                         |
 
-The full list of the work accomplished to support the migration can be found on the [Gitlab.com on Kubernetes](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/112) tracking epic.
+The full list of the work accomplished to support the migration can be found on the [GitLab.com on Kubernetes](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/112) tracking epic.
 
 ## Related Links
 

@@ -92,7 +92,7 @@ Hence, GitLab managers are [expected]({{< ref "structure#management-group" >}}) 
 
 One of the best ways to keep a remote team aligned is to regularly review the [Learning and Development Team's Purpose, Vision, Mission, and Objectives]({{< ref "/handbook/people-group/learning-and-development#overview" >}}).
 
-Gitlab's L&D team has a [regular meeting schedule]({{< ref "/handbook/people-group/learning-and-development#learning--development-team-meetings" >}}) to brainstorm, strategize, discuss and collaborate, assign tasks, review feedback or data, and assess progress on the team's strategy and roadmap.
+GitLab's L&D team has a [regular meeting schedule]({{< ref "/handbook/people-group/learning-and-development#learning--development-team-meetings" >}}) to brainstorm, strategize, discuss and collaborate, assign tasks, review feedback or data, and assess progress on the team's strategy and roadmap.
 
 ## What are some tips for building a successful remote team L&D program?
 

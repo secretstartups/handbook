@@ -70,7 +70,7 @@ Successfully achieving our KR of a beta value stream means progress against our 
 1. [3-year product direction strategy](https://about.gitlab.com/direction/#3-year-strategy)
 1. [Long range outlook](/handbook/finance/financial-planning-and-analysis/#long-range-outlook-lro)
 1. [Restricted stock unit vesting](/handbook/stock-options/#vesting) after cliff of six months is passed
-1. Average retention of team members is around 3 years, with reduced [turnover](/handbook/people-group/people-group-metrics/#team-member-turnover) (<16%). See [actual reports](/handbook/people-group/people-group-metrics/#reporting)
+1. Average retention of team members is around 3 years
 
 
 ## Year
@@ -80,7 +80,6 @@ Successfully achieving our KR of a beta value stream means progress against our 
 1. [4 quarter rolling forecast](/handbook/finance/financial-planning-and-analysis/#quarterly-forecast-rolling-four-quarters)
 1. Most of [Direction](https://about.gitlab.com/direction/)
 1. [Fiscal Year Product Investment Themes](https://about.gitlab.com/direction/#fiscal-year-product-investment-themes)
-1. [Top Cross-Functional Initiatives](/handbook/company/top-cross-functional-initiatives/)
 
 ## Quarter
 
@@ -91,13 +90,15 @@ Successfully achieving our KR of a beta value stream means progress against our 
 1. [GitLab Assembly](/handbook/company/gitlab-all-company-meetings/)
 1. [Quarterly Kickoff](/handbook/ceo/chief-of-staff-team/#quarterly-kickoff)
 1. [Earnings activities](/handbook/finance/investor-relations/)
+1. [Key Reviews](/handbook/key-review/)
+1. [Group Conversations](/handbook/group-conversations/)
 
 ## Month
 
-1. [Key Reviews](/handbook/key-review/)
 1. [Release](/releases/)
 1. [Retrospective](/handbook/communication/#kickoffs)
 1. [Most KPIs](/handbook/company/kpis/)
+1. [Monthly touchpoint meetings](/handbook/company/offsite/#monthly-touch-point-meetings)
 
 ## Week
 

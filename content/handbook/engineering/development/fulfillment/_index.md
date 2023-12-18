@@ -377,8 +377,8 @@ End-to-end tests (often referred to as e2e tests) cover full or partial flows th
 
 Some examples of these flows:
 
-- Purchasing a SaaS subscription for a namespace on Gitlab.com.
-- Purchasing a new subscription for a self-managed Gitlab instance.
+- Purchasing a SaaS subscription for a namespace on GitLab.com.
+- Purchasing a new subscription for a self-managed GitLab instance.
 
 Since these tests are not fast and more prone to being flaky, prioritization of what to cover with end-to-end tests and what to delegate to lower level tests must be considered.
 
@@ -781,7 +781,7 @@ Some considerations that differ from other maintainer ratios:
   - [Recording](https://drive.google.com/file/d/1jgyb02XE3sznojdx3RjRFn8QAfF90YIf/view?usp=sharing)
 - [CustomersDot Resource Video Library](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/doc/resource_videos.md)
 - [Zuora University Select Topics](https://university.zuora.com/series/courses-by-topic#filter-by-9-keys_integrations)
-- [Confidential Issue Git Pre-push Hook](https://gitlab.com/gitlab-org/gitlab/-/issues/332471) to prevent any accidental push to any non-Gitlab Security remote whenever a developer works on a _confidential issue_. Reference: [How to customize Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks).
+- [Confidential Issue Git Pre-push Hook](https://gitlab.com/gitlab-org/gitlab/-/issues/332471) to prevent any accidental push to any non-GitLab Security remote whenever a developer works on a _confidential issue_. Reference: [How to customize Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks).
 
 
 ## Managers and direct reports

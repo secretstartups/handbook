@@ -3,17 +3,6 @@ title: "Workflows for working with community contributions"
 description: All processes that Contributor Success work with
 ---
 
-
-
-
-
-
-
-
-
-
-- - -
-
 # Workflows
 
 ## Real-time Communications
@@ -37,7 +26,7 @@ Wider community merge requests are MRs opened by a person that's not present on 
   - [Learn more about the cadence and conditions for this automation](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#label-community-contributions).
 - The `1st contribution` label is added to first-time contributions. Every time a contributor is opening a merge request under the `gitlab-org` namespace for the first time, the label `1st contribution` is automatically applied to the merge request.
   - You can see the list of MRs in [`gitlab-org` list of merge requests](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name%5B%5D=1st+contribution).
-  - [First-time contributors](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#first-time-contributors) are also awarded a gift as our way to say thanks.
+  - [First-time contributors](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows#first-time-contributors) are also awarded a gift as our way to say thanks.
 
 ### Triage reports
 
@@ -56,7 +45,7 @@ See [Community-related reactive workflow automation](https://about.gitlab.com/ha
 [Merge request coaches](/job-families/expert/merge-request-coach/) are available to help contributors with their MRs. This includes:
 - Identifying reviewers for the MR.
 - Answering questions from contributors.
-- Educating contributors on the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria).
+- Educating contributors on the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow#contribution-acceptance-criteria).
 - Or completing the MR if the contributor is unresponsive or unable to complete.
   - In that case, the `coach will finish` label will be added to the MR and the coach will either directly push new commits to the MR, or re-create a new MR with the original changes.
   - Contributors can mention the coaches in their MRs by typing `@gitlab-org/coaches`.
@@ -68,7 +57,7 @@ There is also the [`#mr-coaching`](https://gitlab.slack.com/archives/C2T9APP9C) 
 members have any questions related to community contributions.
 
 More information on merge request coaches (including how to become a merge request coach) can be found in the
-[MR coach lifecycle page](/handbook/marketing/developer-relations/contributor-success/merge-request-coach-lifecycle.html).
+[MR coach lifecycle page](/handbook/marketing/developer-relations/contributor-success/merge-request-coach-lifecycle).
 
 ## Contributing to the GitLab Enterprise Edition (EE)
 
@@ -81,7 +70,7 @@ Renewal of this license:
 
 Contributors will need to create an request in this project to request their license: [Wider Community Contributor License Request](https://gitlab.com/gitlab-org/developer-relations/contributor-success/team-task/-/issues/new?issuable_template=contributor_ee_license_request).
 
-(Internal link for GitLab team members) Upon evaluation of the contributor's request, a license request can be made using [this form](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) (Make sure to follow the Zendesk Global Light Agent steps if you haven't already). The Support team will respond following [this workflow](/handbook/support/license-and-renewals/workflows/self-managed/creating-wider-community-license.html).
+(Internal link for GitLab team members) Upon evaluation of the contributor's request, a license request can be made using [this form](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) (Make sure to follow the Zendesk Global Light Agent steps if you haven't already). The Support team will respond following [this workflow](/handbook/support/license-and-renewals/workflows/self-managed/creating-wider-community-license).
 
 ## DCO and CLA Guidance
 
@@ -122,21 +111,21 @@ Adding a new corporate group under this namespace is as follows:
 
 ### How do I add an organization or a user to an organization?
 
-* Navigate to the [Contributing Org Tracker](/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker.html).
+* Navigate to the [Contributing Org Tracker](/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker).
 * Go to the **MRARR Organization** tab.
 * If a user is not listed here, you can add it to the respective row, or add a new
 row at the bottom with the same structure.
 
 ### How do I enable the Leading Organizations program benefits for organizations
 
-* Navigate to the [Contributing Org Tracker](/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker.html).
+* Navigate to the [Contributing Org Tracker](/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker).
 * Go to the **Leading Organization** tab.
 * Add the organization to the list with the exact same name as found in the **MRARR Organization** tab.
 * Make sure you enter an entry date & current MR count from the last 3 months so we can look back and understand their performance over time.
 
 ### How do I stop the Leading Organizations program benefits for organizations
 
-* Navigate to the [Contributing Org Tracker](/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker.html).
+* Navigate to the [Contributing Org Tracker](/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker).
 * Go to the **Leading Organization** tab.
 * Enter the exit date next to the respective organization that should no longer receive the benefits.
 
@@ -144,7 +133,7 @@ Caution: If an organization reaches the threshold it will be auto-enrolled in th
 
 ## GitLab MVP Selection Process
 
-See [GitLab MVP Selection Process](/handbook/marketing/developer-relations/contributor-success/mvp-process.html).
+See [GitLab MVP Selection Process](/handbook/marketing/developer-relations/contributor-success/mvp-process).
 
 ## Contributor Thanks messages
 
@@ -317,7 +306,7 @@ Every time a contributor is opening a merge request to a GitLab namespace for th
 
 Once the merge request is reviewed and merged, the contributor can apply for the `#myfirstMRmerged` gift via a self-nomination form on the [nominations for GitLab swag page](/handbook/marketing/developer-relations/contributor-success/community-appreciation/#nomination-process).
 
-Contributor Success team members can use the [outreach email/message template](/handbook/marketing/developer-relations/contributor-success/templates/email-templates.html) when sending the link for the first-time contributor gift.
+Contributor Success team members can use the [outreach email/message template](/handbook/marketing/developer-relations/contributor-success/templates/email-templates) when sending the link for the first-time contributor gift.
 
 ### Working with the Core Team
 More information on the [Core Team](/community/core-team/) is available in the [Core Team handbook page](/handbook/marketing/developer-relations/core-team/).
@@ -328,7 +317,7 @@ For contributors who don't own a credit card and need to be manually verified, a
 
 ### For contributors who run out of compute minutes or other CI/CD resources
 
-Wider community members may run out of monthly compute minutes, or run into other [GitLab CI/CD limits](https://docs.gitlab.com/ee/user/gitlab_com/index.html#gitlab-cicd) if they are working from a personal fork.
+Wider community members may run out of monthly compute minutes, or run into other [GitLab CI/CD limits](https://docs.gitlab.com/ee/user/gitlab_com/index#gitlab-cicd) if they are working from a personal fork.
 
 The solution is to work from the [GitLab community forks](https://gitlab.com/gitlab-community/meta#about).
 
@@ -343,7 +332,7 @@ Here are some ways to reach out to contributors to e.g. distribute Hackathon pri
 - You can mention them in an issue using their GitLab user name.
 - In private through our communication platform (Discord, Slack, etc.).
 - A user might have e-mail or Twitter info on their GitLab profile. Sometimes users have the same username in other platforms (e.g. GitHub), and might have more information on their profiles there.
-- Their e-mail address is stored in their git commits, unless they choose to use a [private commit e-mail](https://docs.gitlab.com/ee/user/profile/index.html#private-commit-email).
+- Their e-mail address is stored in their git commits, unless they choose to use a [private commit e-mail](https://docs.gitlab.com/ee/user/profile/index#private-commit-email).
 
 If you need assistance finding a contributor's email address please see [Finding Community Member Contact Information](/handbook/marketing/developer-relations/contributor-success/community-appreciation/#finding-community-member-contact-information)
 

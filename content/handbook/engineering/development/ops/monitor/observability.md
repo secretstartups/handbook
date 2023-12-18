@@ -139,10 +139,10 @@ For some projects, we require a [cleanroom development process](https://en.wikip
 To showcase features developed by our team, we have created a number of demos:
 
 - [Embedding charts in GitLab Markdown](https://www.youtube.com/watch?v=MDMXIQgKkCk)
-- [Exploring GitLab “new-sentry” errors in Gitlab UI](https://youtu.be/rpSYXyEyi88)
+- [Exploring GitLab “new-sentry” errors in GitLab UI](https://youtu.be/rpSYXyEyi88)
 - [Observability - Exploring Prometheus Metrics within GitLab](https://www.youtube.com/watch?v=QUf_7zpRoqs)
 - [Enabling Error Tracking and tracing on Hotrod sample app](https://www.youtube.com/watch?v=E1GsxbX0mr4)
-- [Gitlab Observability Component: Ingesting traces from a demo application](https://www.youtube.com/watch?v=NChcmkc5QWQ)
+- [GitLab Observability Component: Ingesting traces from a demo application](https://www.youtube.com/watch?v=NChcmkc5QWQ)
 
 
 ## Technical Architecture

@@ -278,7 +278,7 @@ Below are tips for developing individual's OKRs:
 
 1. [Demos](https://about.gitlab.com/handbook/engineering/demos/)
 1. [GitLab Roadmaps](https://docs.gitlab.com/ee/user/group/roadmap/)
-1. [Gitlab Architecture Workflow](https://about.gitlab.com/handbook/engineering/architecture/workflow/)
+1. [GitLab Architecture Workflow](https://about.gitlab.com/handbook/engineering/architecture/workflow/)
 1. <span class="colour" style="color: rgb(0, 0, 0);">Dogfooding of features we think may be useful</span>
 
 We will hold Engineering Allocation Checkpoints on a cadence.  The recommended cadence is weekly.
