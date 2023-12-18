@@ -144,7 +144,7 @@ When the program begins, you'll be added to a Slack group that includes all memb
 
 ### I missed, or cannot attend, a live learning or group coaching. What do I do?
 
-It's a requirement to make up missed sessions within each month to ensure that you're learning each new skill and moving through the program in the appropriate order. Please make every effort to attend live sessions as scheduled. We have [2 makeup options outlined below](#making-up-missed-sessions). If a conflict arises for your assigned group coaching session, you can attend with another cohort. If none of the live session times work for you, you can complete the Buddy Makeup. **Please reach out proactively to a member of the Learning and Development Team if you cannot attend a session.**
+It's a requirement to make up missed sessions within each month to ensure that you're learning each new skill and moving through the program in the appropriate order. Please make every effort to attend live sessions as scheduled. We have [2 makeup options outlined below](#making-up-missed-sessions). If a conflict arises for your assigned group coaching session, you can attend with another cohort. If none of the live session times work for you, you can complete the Async Makeup. **Please reach out proactively to a member of the Learning and Development Team if you cannot attend a session.**
 
 We're committed to working with you to find a solution that let's you successfully complete Elevate. If you must miss one live session for personal reasons, you need approval from your manager. Additional missed sessions will result in an incomplete Elevate status.
 
@@ -184,8 +184,8 @@ Refer to the table below to align on language used to talk about Elevate.
 | Director+ Path | Elevate content for Directors, Senior Directors, and VPs
 | Pilot | First group of ~45 managers involved in Elevate |
 | Round 1 | Manager+ Path running from April-August 2023 - 100 participants |
-| Round 2 | Manager+ Path running from June-October 2023 - 60 participants |
-| Round 3 | Director+ Path running from June-October 2023 - 30 participants |
+| Round 2 | Manager+ Path running from June-January 2024 - 60 participants |
+| Round 3 | Manager+ Path running from October-March 2024 - 30 participants |
 
 ### Resources
 
