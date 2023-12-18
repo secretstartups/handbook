@@ -188,7 +188,7 @@ sudo softwareupdate --fetch-full-installer --full-installer-version <latest macO
 
 There is a notification pop up called "Clever DevOps Co." that may say Nudge is installed.
 
-<img src="clever-devops.png" alt="Clever Devops" width="300">
+<img src="clever-devops.png" alt="Clever DevOps" width="300">
 
 
 

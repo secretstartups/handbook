@@ -13,7 +13,7 @@ description: "The GitLab team page for the Pipeline Execution Group."
 ## Vision
 
 For an understanding of what this team is going to be working on take a look at [the product
-vision](/direction/verify/). This team is responsible for delivering on the following directions: 
+vision](/direction/verify/). This team is responsible for delivering on the following directions:
 
 - [Continuous Integration](/direction/verify/continuous_integration/)
 - [Merge Trains](/direction/verify/merge_trains/)
@@ -23,9 +23,9 @@ vision](/direction/verify/). This team is responsible for delivering on the foll
 The Verify:Pipeline Execution Group is focused on supporting the functionality with respect to
 Continuous Integration [use case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/). A key focus for the PE group is delivering features that achieve the outcome we track in our performance indicator.
 
-This team maps to [Verify](/handbook/product/categories/#verify-stage) devops stage.
+This team maps to [Verify](/handbook/product/categories/#verify-stage) DevOps stage.
 
-## Driving Factors 
+## Driving Factors
 
 <%= partial("handbook/engineering/development/ops/verify/pipeline-execution/includes/driving-factors.erb") %>
 
@@ -35,38 +35,38 @@ This team maps to [Verify](/handbook/product/categories/#verify-stage) devops st
 
 ### Core domain
 
-| Domain | Issues | 
+| Domain | Issues |
 | ------ | ------ |
-| Pipeline processing: processes responsible for transitions of pipelines, stages and jobs. | [~pipeline processing](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=pipeline%20processing&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20) | 
-| Rails-Runner communication: jobs queuing, API endpoints and their underlying functionalities related to operations performed by and for Runners. | []() | 
+| Pipeline processing: processes responsible for transitions of pipelines, stages and jobs. | [~pipeline processing](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=pipeline%20processing&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20) |
+| Rails-Runner communication: jobs queuing, API endpoints and their underlying functionalities related to operations performed by and for Runners. | []() |
 
-#### Continuous Integration domains 
+#### Continuous Integration domains
 
-| Domain | Issues | 
+| Domain | Issues |
 | ------ | ------ |
 | Continuous Integration and Deployment Admin Area settings | [~CI/CD Settings](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=CI%2FCD%20Settings&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20) |
-| Repositories analytics for groups | [~CI reports](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=CI%20reports&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20) | 
-| GitLab CI/CD artifacts reports types | [~CI reports](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=CI%20reports&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20) | 
-| Unit test reports | [~testing::code testing](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=testing%3A%3Acode%20testing&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20) | 
-| Test with GitLab CI/CD and generate reports in merge requests | []() | 
-| Load Performance Testing | [~testing::load performance](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=testing%3A%3Aload%20performance&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20) | 
-| Metrics Reports | []()  | 
-| Test coverage visualization | [~testing::coverage](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=testing%3A%3Acoverage&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20) | 
-| Browser Performance Testing | [~testing::browser performance](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=testing%3A%3Abrowser%20performance&first_page_size=20) | 
-| Fail Fast Testing | []()  |  
-| Accessibility testing | [~testing::accessibility](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=testing%3A%3Aaccessibility&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20) | 
+| Repositories analytics for groups | [~CI reports](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=CI%20reports&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20) |
+| GitLab CI/CD artifacts reports types | [~CI reports](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=CI%20reports&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20) |
+| Unit test reports | [~testing::code testing](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=testing%3A%3Acode%20testing&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20) |
+| Test with GitLab CI/CD and generate reports in merge requests | []() |
+| Load Performance Testing | [~testing::load performance](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=testing%3A%3Aload%20performance&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20) |
+| Metrics Reports | []()  |
+| Test coverage visualization | [~testing::coverage](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=testing%3A%3Acoverage&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20) |
+| Browser Performance Testing | [~testing::browser performance](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=testing%3A%3Abrowser%20performance&first_page_size=20) |
+| Fail Fast Testing | []()  |
+| Accessibility testing | [~testing::accessibility](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=testing%3A%3Aaccessibility&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20) |
 | Usability testing | [~testing::usability](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=testing%3A%3Ausability&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20) |
-| Review apps | [~testing::review apps](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=testing%3A%3Areview%20apps&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20) | 
+| Review apps | [~testing::review apps](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=testing%3A%3Areview%20apps&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20) |
 | Visual review tool (deprecated) | [~testing::visual review tool](https://gitlab.com/gitlab-org/gitlab/-/issues/?label_name%5B%5D=testing%3A%3Avisual%20review%20tool) |
-| Scheduled pipelines | [~pipeline schedules](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=pipeline%20schedules&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20)  | 
-| Pipeline efficiency | [~ci::scaling](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=ci%3A%3Ascaling&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20)  | 
-| Building images using Docker | []()  | 
-| External SCM and CI Integration | []()  | 
-| External pipeline validation | []()  | 
-| Rate limits on pipeline creation | [~Category:Continuous Integration + ~Eng-Inter-Dept::Rate Limits](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=Category%3AContinuous%20Integration&label_name%5B%5D=group%3A%3Apipeline%20execution&label_name%5B%5D=Eng-Inter-Dept%3A%3ARate%20Limits&first_page_size=20)  | 
-| Job logs | []()  | 
-| Job log artifacts | []()  | 
-| Merge Trains | [~Category:Merge Trains](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=group%3A%3Apipeline%20execution&label_name%5B%5D=Category%3AMerge%20Trains&first_page_size=20)  | 
+| Scheduled pipelines | [~pipeline schedules](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=pipeline%20schedules&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20)  |
+| Pipeline efficiency | [~ci::scaling](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=ci%3A%3Ascaling&label_name%5B%5D=group%3A%3Apipeline%20execution&first_page_size=20)  |
+| Building images using Docker | []()  |
+| External SCM and CI Integration | []()  |
+| External pipeline validation | []()  |
+| Rate limits on pipeline creation | [~Category:Continuous Integration + ~Eng-Inter-Dept::Rate Limits](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=Category%3AContinuous%20Integration&label_name%5B%5D=group%3A%3Apipeline%20execution&label_name%5B%5D=Eng-Inter-Dept%3A%3ARate%20Limits&first_page_size=20)  |
+| Job logs | []()  |
+| Job log artifacts | []()  |
+| Merge Trains | [~Category:Merge Trains](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=group%3A%3Apipeline%20execution&label_name%5B%5D=Category%3AMerge%20Trains&first_page_size=20)  |
 
 Not included in the Pipeline Execution group's domain:
 
@@ -92,26 +92,26 @@ the full team, and no individual has undue hardship by being the only "go-to" pe
 
 This team member will have the following responsibilities for the milestone (in priority order) and will not have any assigned ~Deliverable items:
 
-1. Respond to broken-master alerts for Pipeline Execution. 
+1. Respond to broken-master alerts for Pipeline Execution.
 1. DRI for any incoming help requests from support.
     1. Existing help requests may be transferred to them at the discretion of the existing DRI.
     1. They are free to pull in others as needed to address the request, but remain the DRI for ensuring the requests are addressed.
 1. First developer pulled into customer escalations unless there is an obvious reason to choose another team member.
-1. [Optional] Organize and host a weekly swarm meeting to work on help requests with additional team members. 
+1. [Optional] Organize and host a weekly swarm meeting to work on help requests with additional team members.
 1. Respond to incoming questions in slack in `#pipeline-execution` and `#s-verify` (where related to Pipeline Execution).
     1. They can redirect to other team members as they deem necessary. The important part is to ensure we are responsive.
 1. Investigate error budget overages.
 1. Additional maintenance tasks (in suggested priority order):
-    1. Address flaky tests as time permits. 
+    1. Address flaky tests as time permits.
     1. Work on long-standing maintenance issues as time permits.
         1. Example, we have a long list of very old feature flags that need to be addressed.
     1. Refinement of ~"type::maintenance" issues in ~"cicd::planning" as time permits.
-    1. Any other ~"type::maintenance" issues in ~"cicd::active" as time permits. 
+    1. Any other ~"type::maintenance" issues in ~"cicd::active" as time permits.
 
-For any of the above tasks, when an urgent issue arises outside of the team members working hours, other team members will need to be the first responders. 
-The milestone's Front-line Responder will be responsible for following up on such issues during their working hours. 
+For any of the above tasks, when an urgent issue arises outside of the team members working hours, other team members will need to be the first responders.
+The milestone's Front-line Responder will be responsible for following up on such issues during their working hours.
 They are not expected to be on-call 24/7 during the milestone.
-At the end of the milestone, any issues that are still ongoing, may be transitioned to the incoming First Responder. If it makes sense for the original team member to continue being the DRI, this can also be done. 
+At the end of the milestone, any issues that are still ongoing, may be transitioned to the incoming First Responder. If it makes sense for the original team member to continue being the DRI, this can also be done.
 
 #### Refinement Coordinator
 
@@ -179,7 +179,7 @@ For those new to the team, these links may be helpful in learning more about the
  * [CI Backend Architectural Walkthrough - May 2020](https://www.youtube.com/watch?v=ew4BwohS5OY)
  * [Frontend CI product / codebase overview - June 2020](https://www.youtube.com/watch?v=7CUd7aAUiWo)
 
-## Dashboards 
+## Dashboards
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Pipeline Execution" } %>
 
@@ -193,29 +193,29 @@ The [Pipeline Execution Workflow board][workflow-board] is the source of truth f
 
 ### Planning
 
-Our planning timeline follows the [GitLab Product Development timeline](/handbook/engineering/workflow/#product-development-timeline). 
+Our planning timeline follows the [GitLab Product Development timeline](/handbook/engineering/workflow/#product-development-timeline).
 * By the day the milestone starts:
   * The PM will assign or update `Verify::P*` labels to indicate which issues will be scheduled into upcoming milestones. Verify::P1 indicates a ~Deliverable for the current milestone. Verify::P2 a ~Deliverable for next milestone, and so on.
-  * The PM will request a list of bugs to be added to the `workflow::ready for development` column aligning with the theme for the next upcoming milestone in the planning issue 
+  * The PM will request a list of bugs to be added to the `workflow::ready for development` column aligning with the theme for the next upcoming milestone in the planning issue
   * The [`~needs weight` board][needs-weight-board] should be updated by the PM for all issues being considered for future milestones that need weight and apply the `workflow::planning breakdown` label.
   * The EM and/PM will ensure that the WIP limit is set appropriately on the `workflow::ready for development` column based on the average closed weight of past milestones.
-  
+
 * By Wednesday, 15 days before the release day:
   * The SET/QEM submits a list of `~"type::bug"` issues for the upcoming milestone on the planning issue. The weight for these issues + any `Verify::P1, type::bug` issues should total approximately 40% of the WIP limit for the `~"workflow::ready for development"` column.
   * The EM submits the list of `~"type::maintenance"` issues for the upcoming milestone on the planning issue. The weight for these issues + any `Verify::P1, type::maintenance` issues should total approximately 40% of the WIP limit for the `~"workflow::ready for development"` column.
   * The PM will provide the list of `~"type::feature"` issues for the upcoming milestone. The weight for these issues + any `Verify::P1, type::feature` issues should total approximately 20% of the WIP limit for the `~"workflow::ready for development"` column.
 
 * By the Monday the week the milestone ends:
-  * Planning issue is finalized and PM will tag manager, SET/QEM, Product Design, engineers, and EM for review and feedback. 
+  * Planning issue is finalized and PM will tag manager, SET/QEM, Product Design, engineers, and EM for review and feedback.
 
 * By the Friday the milestone ends:
   * Engineers should update the planning issue with any issues that may carry forward.
   * Based on capacity, engineers will assign themselves to `Verify::P*` [`~needs weight`][needs-weight-board] issues to apply weight. Issues should be selected for in order of Verify::P1, Verify::P2, then Verify::P3.
-  * PM completes monthly kick-off video featuring `~direction` and `Verify::P1` issues 
+  * PM completes monthly kick-off video featuring `~direction` and `Verify::P1` issues
 
 * By the Monday of release week:
   * The PM will set `~cicd::active` on any issues in `workflow::ready for development` that could be worked on in the upcoming milestone. The total weight for this column on [the board](https://gitlab.com/groups/gitlab-org/-/boards/3465921) will not exceed 100% of the average shipped milestone's weight. For example, if the team's average closed issues weight for a milestone is 30, the column should not exceed 30 weight.
-      * The EM will ensure that `~Deliverable` is added to any `~Verify::P1` issues 
+      * The EM will ensure that `~Deliverable` is added to any `~Verify::P1` issues
       * The PM will set the milestone for any `~Verify::P1` issues to the current milestone.
   * The designated DRI for milestone refining will review the state of issues on the [`~needs weight` board][needs-weight-board] to ensure that all issues for future milestones are being weighted and refined by team members.
     * For any `Verify::P*` issues where team members have not already started the refinement process, the designated DRI will comment on the issue asking a specific team member or team members to start the process.
@@ -224,14 +224,14 @@ Our planning timeline follows the [GitLab Product Development timeline](/handboo
     * Placed in the `%Backlog`
     * Moved to a future milestone.
     * Remain in the current milestone as `~Stretch` goals.
-  * The EM and PM will remove any remaining issues in `workflow::planning breakdown` that do not have a due date requiring them to be completed in that milestone. They can either be moved into a future milestone or the %Backlog depending on team priorities. 
+  * The EM and PM will remove any remaining issues in `workflow::planning breakdown` that do not have a due date requiring them to be completed in that milestone. They can either be moved into a future milestone or the %Backlog depending on team priorities.
 
 * By the release day:
   * Each engineer will assign themself to one Verify::P1 issue in the upcoming milestone if they have not already been assigned on by the EM.
   * The designated DRI for milestone planning will follow-up with engineers for any `~Verify::P1` issues not yet in `workflow::ready for development`.
 
-* By one week after each monthly release: 
-  * Engineers have completed refining the assigned `Verify::P*` issues and move them to `workflow::ready for development` and removing the `needs weight` label. Tagging in the PM and EM for visibility. 
+* By one week after each monthly release:
+  * Engineers have completed refining the assigned `Verify::P*` issues and move them to `workflow::ready for development` and removing the `needs weight` label. Tagging in the PM and EM for visibility.
 
 **Note:** The EM and PM may need to modify the team commitments and schedule work for the upcoming milestone as we focus on [Customer Results](https://about.gitlab.com/handbook/values/#results) over what we plan.
 
@@ -239,11 +239,11 @@ Our planning timeline follows the [GitLab Product Development timeline](/handboo
 
 *side note: we prefer [using Refining over Grooming](/handbook/communication/top-misused-terms)*
 
-Engineers are expected to allocate approximately 4 hours each milestone to refine and weight issues on the [`~needs weight` board][needs-weight-board]. 
+Engineers are expected to allocate approximately 4 hours each milestone to refine and weight issues on the [`~needs weight` board][needs-weight-board].
 
 The purpose of refining an issue is to ensure the problem statement is clear enough to provide a rough effort sizing estimate; the intention is not to provide **solution validation** during refinement. When refining issues, engineers should timebox the activity to no more than 1 hour per issue. If an issue is complex and will require more research, we should track that effort in a refinement "~spike" to ensure we account for it in milestone planning. The "~spike" should be linked as blocking the original issue and outline the outcomes expected and a timebox for the effort should be specified. The original issue should be labelled as "~workflow::blocked".
 
-Engineering uses the [following handbook guidance for determining weights](#weighting-issues). If any issue needs any additional `~frontend ~backend ~Quality ~UX ~documentation` reviews, they are assigned to the respective individual(s). 
+Engineering uses the [following handbook guidance for determining weights](#weighting-issues). If any issue needs any additional `~frontend ~backend ~Quality ~UX ~documentation` reviews, they are assigned to the respective individual(s).
 
 ##### Checklist for Refining Issues
 
@@ -263,7 +263,7 @@ Engineers will:
 1. Go through the checklist above for refining issues assigned to them.
 1. Split a backend issue out from the main issue if backend work needs to be completed before frontend work can begin.
 1. Add a [weight based on the definitions](#weighting-issues).
-1. Update the `~workflow::` label to the appropriate status, e.g. 
+1. Update the `~workflow::` label to the appropriate status, e.g.
    * ~"workflow::design" if further design refinement is needed, and let the designer know.
    * ~"workflow::ready for development" when refinement is completed and a weight has been applied, signaling that it's ready for implementation and the issue can now be prioritized
    * ~"workflow::blocked" if more investigation and research is needed. Create a [refinement "~spike" issue](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Pipeline%20Execution%20Refinement%20Spike) and ping the PM and EM.
@@ -308,7 +308,7 @@ We use the [Pipeline Execution Workflow issue board][workflow-board] to track wh
 Development moves through workflow states in the following order:
 
  1. `workflow::design` (if applicable)
- 1. `workflow::planning breakdown` 
+ 1. `workflow::planning breakdown`
  1. `workflow::ready for development`
  1. `workflow::in dev`
  1. `workflow::blocked` (as necessary)
@@ -329,7 +329,7 @@ At any point, if an issue becomes blocked, it would be in the `workflow::blocked
 `workflow::awaiting security release` is applied by an engineer after the security issue has passed verification and this label signals that it is ready for production but awaiting the next [monthly security release](/handbook/security/#timing-of-the-monthly-security-release). When this label is applied, the issue's milestone should also be updated to the next milestone to align with when the next security release will happen.
 
 `workflow::feature-flagged` is applied to an issue that is being enabled through a separate feature flag rollout issue. Once the feature is validated the status is moved to `workflow::complete` and the issue is closed.
- 
+
 `Closed` means that all code changes associated with the issue are fully enabled on gitlab.com. If it is being rolled out behind a feature flag, it means the feature flag is enabled for all users on gitlab.com.
 
 More detail on the workflow is available on the [Product-Development Flow](/handbook/product-development-flow/) page.
@@ -347,7 +347,7 @@ We use a series of labels to indicate the highest priority issues in the milesto
 Following the  `Verify::P*` priorities, the `ready for development` column on the [Pipeline Execution Workflow issue board][workflow-board] will be curated, so that each team member can pull items from this column as they choose.
 
 ##### Setting the Milestone
-When DRIs select issues, they will assign themselves to the issue and also add the milestone that they believe the issue will most likely be shipped, which may not be the current milestone. The DRI may work on issues which are in future milestones. If the milestone is set to a future milestone or not set, and you are sure it will be shipped in the current milestone, reset the milestone to the current one. This is also a good time to re-evaluate the weight and proposal, especially if the DRI picking up the issue was not the same individual who originally weighted and refined the issue. Aspirationally, we strive to iterate and want to break down the efforts to ship as much value in the milestone for our users as possible. This means if you see a more efficient way forward when you start working on a new issue, you are free to raise a comment and update the proposal to deliver more iterative value. 
+When DRIs select issues, they will assign themselves to the issue and also add the milestone that they believe the issue will most likely be shipped, which may not be the current milestone. The DRI may work on issues which are in future milestones. If the milestone is set to a future milestone or not set, and you are sure it will be shipped in the current milestone, reset the milestone to the current one. This is also a good time to re-evaluate the weight and proposal, especially if the DRI picking up the issue was not the same individual who originally weighted and refined the issue. Aspirationally, we strive to iterate and want to break down the efforts to ship as much value in the milestone for our users as possible. This means if you see a more efficient way forward when you start working on a new issue, you are free to raise a comment and update the proposal to deliver more iterative value.
 
 #### Working Right to Left to reduce WIP
 
@@ -365,7 +365,7 @@ The goal of this process is to reduce the amount of work in progress (WIP) at an
 #### Splitting issues
 
 If an issue has several components (e.g. ~frontend, ~backend, or ~documentation) it may be useful to split it up into separate implementation issues.
-The original issue should hold all the discussion around the feature, with the implementation issues being used to track the work done. If implementation will take more than 1 milestone and/or none of the implementation will be done against the original issue, it should be promoted to an epic. 
+The original issue should hold all the discussion around the feature, with the implementation issues being used to track the work done. If implementation will take more than 1 milestone and/or none of the implementation will be done against the original issue, it should be promoted to an epic.
 Doing this provides several benefits:
 
 1. There's only one DRI per issue.
@@ -386,7 +386,7 @@ In order to keep our stakeholders informed of work in progress, we provide updat
 
 ##### Issue Health Status
 
-For issues in the current milestone, we use the [Issue Health Status feature](https://docs.gitlab.com/ee/user/project/issues/#health-status) to indicate probability that an issue will ship in the current milestone. This status is updated by the DRI ([directly responsible individual](/handbook/people-group/directly-responsible-individuals/)) as soon as they recognize the probability has changed. If there is no change to the status, a comment to indicate that it has been the status of the issue has been _assessed_ would be helpful. 
+For issues in the current milestone, we use the [Issue Health Status feature](https://docs.gitlab.com/ee/user/project/issues/#health-status) to indicate probability that an issue will ship in the current milestone. This status is updated by the DRI ([directly responsible individual](/handbook/people-group/directly-responsible-individuals/)) as soon as they recognize the probability has changed. If there is no change to the status, a comment to indicate that it has been the status of the issue has been _assessed_ would be helpful.
 
 The following are definitions of the health status options:
 
@@ -446,7 +446,7 @@ Spikes are time-boxed investigations typically performed in agile software devel
 - Spikes are typically marked as deliverable to ensure clear ownership from engineers
 - Spikes are typically time-boxed to a short duration, sometimes one week, never more than one milestone.
 - We should try to schedule Spikes at the beginning of an iteration so that the investigation will conclude before the planning of the following iteration.
-- Limit no more than 2 Spikes per milestone per group. 
+- Limit no more than 2 Spikes per milestone per group.
 - Typically multiple team members collaborate on a spike. We want to ensure we get multiple different viewpoints as well as keep the research focused and efficient.
 - Spikes should be assigned to at least one frontend and one backend engineer to ensure we consider the issue from both viewpoints.
 
@@ -494,7 +494,7 @@ You can also search all Feature Flags through Sam's great [tool here](https://sa
 
 ### Collaboration with UX and Engineering
 
-To create a high-quality product that is functional and useful – Engineering, PM and Product Designer work closely together, combine methodologies, and often connect throughout the product development process. They use `workflow::design` to discuss possible complexities, challenges, and uncover blockers around the proposed solution. 
+To create a high-quality product that is functional and useful – Engineering, PM and Product Designer work closely together, combine methodologies, and often connect throughout the product development process. They use `workflow::design` to discuss possible complexities, challenges, and uncover blockers around the proposed solution.
 
 Product Designers play a critical role in the product development of user-facing issues. They collaborate with the Engineering and the Product Manager to design the user experience for the features. Once the design solution is proposed, agreed and validated, the Engineering [DRI](/handbook/people-group/directly-responsible-individuals/) is assigned to implement that design and functionality during the milestone for which the issue is planned.
 
@@ -512,9 +512,9 @@ Note: For issues related to Merge Request experience, always keep [the Code Revi
 
 Note: A good practice when only wanting to inform rather than requesting a direct action from the mentioned stakeholders is to put `FYI` directly following the @mention handle.
 
-#### UX Scorecards 
+#### UX Scorecards
 
-A top priority for us is usability, and one way to effectively evaluate our [JTBDs](/handbook/engineering/development/ops/verify/pipeline-execution/jtbd/) is with periodic [UX Scorecards](/handbook/product/ux/ux-scorecards/). For technical tasks that require infrastructure support, such as a functional cluster or provisioned environment with a `.gitlab-ci.yml` file, the Product Designer and the Product Manager can work with the Engineering Manager and Quality stable counterparts to craft a project based on the scenarios to test for the JTBDs. Some guidelines for working together in this case: 
+A top priority for us is usability, and one way to effectively evaluate our [JTBDs](/handbook/engineering/development/ops/verify/pipeline-execution/jtbd/) is with periodic [UX Scorecards](/handbook/product/ux/ux-scorecards/). For technical tasks that require infrastructure support, such as a functional cluster or provisioned environment with a `.gitlab-ci.yml` file, the Product Designer and the Product Manager can work with the Engineering Manager and Quality stable counterparts to craft a project based on the scenarios to test for the JTBDs. Some guidelines for working together in this case:
 
 - Be sure to schedule _at least_ a full milestone in advance, so there is enough lead time for the stable counterparts
 - Create an overall epic and add issues for task tracking for infrastructure creation
@@ -538,12 +538,12 @@ Suppose working one milestone ahead to design the big solution is not possible. 
 
 * Ideally, Product Management and Product Designers aim to work 3 months in advance of Engineering proposals to ensure the problem definition and solution has been adequately validated prior to building. See [Validation track](/handbook/product-development-flow/#validation-track) for more details. This allows us to come up with the bigger idea ahead of time, and work further with Engineering to break it down into smaller iterations. Ideally, this should be completed before the implementation milestone starts.
 * the Product Designer, PM, and Engineering use the [Design phase](/handbook/product-development-flow/#validation-phase-3-design) in the Validation track to talk about complexities and discuss challenges and uncover blockers. Once we are all in agreement, we can move it to the [Solution Validation phase](/handbook/product-development-flow/#validation-phase-4-solution-validation).
-* If it is taking more than a week to understand and investigate the technical feasibility for the design solution, update the workflow label to `~workflow::blocked` and change the assignee to engineering DRIs until the technical discussion is resolved. If the discussion is expected to go on longer, reducing the chances of the design solution being delivered in the intended milestone, consider creating [a spike issue](/handbook/engineering/development/ops/verify/pipeline-execution/#spikes) for the discussion that blocks the current issue. 
+* If it is taking more than a week to understand and investigate the technical feasibility for the design solution, update the workflow label to `~workflow::blocked` and change the assignee to engineering DRIs until the technical discussion is resolved. If the discussion is expected to go on longer, reducing the chances of the design solution being delivered in the intended milestone, consider creating [a spike issue](/handbook/engineering/development/ops/verify/pipeline-execution/#spikes) for the discussion that blocks the current issue.
 * Engineers and Product Designers should stay in contact and frequently align throughout the [Build track](/handbook/product-development-flow/#build-track) to avoid unplanned changes.
 
 #### Collaborating with the Wider Community on Community Merge Requests
 
-For more details on how to contribute to GitLab generally, please see our [documentation](https://docs.gitlab.com/ee/development/contributing/). 
+For more details on how to contribute to GitLab generally, please see our [documentation](https://docs.gitlab.com/ee/development/contributing/).
 
 #### Aligning on feature development
 
@@ -614,7 +614,7 @@ is part of the required work, we should account for E2E tests when assigning iss
 
 When we fix a bug, we ideally want to write a test that would catch and prevent this bug from happening again in the future.
 However, if the spec we need to write (unit, integration, or E2E test), is part of a code change that needs to be merged as
-soon as possible (e.g. requires a time sensitive resolution), it is preferable to merge the fix first, 
+soon as possible (e.g. requires a time sensitive resolution), it is preferable to merge the fix first,
 and create an issue to write the spec afterwards, so that it is not blocking merging of the MR. This example should be considered the
 exception, not the rule.
 
@@ -631,9 +631,9 @@ When creating a follow-up issue for required tests:
 
 As a group, we strive to meet the [Severity Service Level Objective](/handbook/engineering/quality/issue-triage/#severity-slos) of bugs. We regularly review all bugs and prioritize issues with a `~missed-SLO` label and those approaching SLO (Service Level Objective) through our weekly [Triage Report](/handbook/engineering/quality/triage-operations/#group-level-bugs-features-and-ux-debt). One of the group's goals is to reduce the median age of open S2 bugs which is being tracked by the Quality department as a [KPI](/handbook/engineering/quality/performance-indicators/#s2-oba). To do this we will triage aged bugs each milestone closing what we can, reducing severity for bugs mis-labeled, asking for more details for issues that cannot be reproduced and prioritizing those that can be reproduced focusing on bugs in the identified [JTBD](/handbook/engineering/development/ops/verify/pipeline-execution/jtbd/).
 
-### Features 
+### Features
 
-When we build new features, in line with our Iteration value, we aim for an MVC that covers the core aspect of the feature. 
+When we build new features, in line with our Iteration value, we aim for an MVC that covers the core aspect of the feature.
 Then we create issues with `~feature::enhancement` label to iterate on the remaining functionality. The more a new feature is used, the more missing functionality eventually can be perceived as bugs by the users.
 
 We use `severity::1`, `severity::2`, `severity::3` and `severity::4` labels with `~feature::enhancement` to classify the impact of those issues to prevent them from becoming `~type::bug`.

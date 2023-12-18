@@ -679,7 +679,7 @@ Domain names are key assets in GitLab's intellectual property portfolio. Central
 
 - registered or used for any purpose related to a team member's role at GitLab;
 - containing the GitLab trademark (GITLAB) or one of its derivatives (like, amongst other things, git, glab, gtlb, gl); and/or
-containing any GitLab key messaging term (like, amongst other things, devops, devops platform, all remote).
+containing any GitLab key messaging term (like, amongst other things, DevOps, DevOps platform, all remote).
 
 #### Registration of new GitLab-related Domain Names
 
