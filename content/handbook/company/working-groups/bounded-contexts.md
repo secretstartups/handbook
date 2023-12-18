@@ -123,3 +123,5 @@ For stages still missing participants we will seek support from Engineering lead
 | Member                | Vitali Tatarintev     | Senior Backend Engineer, Create:Code Creation |
 | Member                | Sashi Kumar Kumaresan | Staff Backend Engineer, Govern:Security Policies |
 | Member                | Vasilii Iakliushin    | Staff Backend Engineer, Create::Source Code |
+| Member                | Remy Coutable         | Principal Engineer, Quality |
+| Member                | Eduardo Bonet         | Staff Incubation Engineer, MLOps |
