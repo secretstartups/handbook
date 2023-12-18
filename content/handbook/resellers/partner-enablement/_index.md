@@ -1,12 +1,12 @@
 ---
-title: "Channel Partner Technical Presales Enablement"
+title: "Partner Technical Presales Enablement"
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
-In this section of the Channel Partner Programs Handbook we review assets and enablement from the perspective of GitLab Partners' Technical constituencies.
+In this section of the Partner Programs Handbook we review assets and enablement from the perspective of GitLab Partners' Technical constituencies.
 
-Beyond our Channel Partners Handbook pages, you will find sales guides, use cases, training materials, and program guides reviewed below and hosted and updated in our [GitLab Partner Portal](https://partners.gitlab.com/). The materials should be a great place to start effectively selling, serving and hitting your number with GitLab.
+Beyond our Partners Handbook pages, you will find sales guides, use cases, training materials, and program guides reviewed below and hosted and updated in our [GitLab Partner Portal](https://partners.gitlab.com/). The materials should be a great place to start effectively selling, serving and hitting your number with GitLab.
 
 Rember that some of the links below require you to login to [GitLab's Partner Portal](https://partners.gitlab.com/) first. If you haven't already, [here is where you register for portal access](https://partners.gitlab.com/English/).
 
