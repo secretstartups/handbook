@@ -132,7 +132,7 @@ Refer to the alternative methods below for guidance on different cases.
 Knowing whether to provide an Offline or Legacy License will depend on the customer's specific scenario and what they request, but the following may be helpful:
 
 - Offline licenses are preferred by GitLab over Legacy Licenses as they allow the customer to more easily provide usage data. These work best for customers who cannot use a Cloud License because their instance is air-gapped or not connected to the internet. However, in order to use an Offline Cloud License, the customer must be on 15.0 or higher.
-- Legacy licenses can be sent when a customer is unwilling or unable to upgrade to Gitlab version 14.1 or higher, or is concerned about sharing Subscription Data.
+- Legacy licenses can be sent when a customer is unwilling or unable to upgrade to GitLab version 14.1 or higher, or is concerned about sharing Subscription Data.
 
 #### 2. Are reseller purchases considered the same as sales-assisted? If a customer purchased after 2022-07-07 and needs a Legacy License, should we send them to their Account Manager to go through the exemption process, or do we treat them the same as web-direct and give them a Legacy License file, no questions asked?
 
