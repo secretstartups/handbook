@@ -771,7 +771,7 @@ To be compliant with the latest privacy policies and safeguard our database from
 
 **Note:** This only applies for leads/contacts that do NOT currently have an existing business relationship
 
-After collaborating with Gitlab's privacy department, it was decided to create a process for removing said contacts from our database.
+After collaborating with GitLab's privacy department, it was decided to create a process for removing said contacts from our database.
 
 The current process takes place on a weekly basis and is implemented with the help of a Marketo Program. It takes advantage of the `Zoominfo Non-Matched Reason` field which is populated by Zoominfo. All leads/contacts that have the  `OPT_OUT` value, enter the process and are checked for additional activities that could qualify as independent lawful basis to be kept. If they lack said activities they will be removed from our database.
 

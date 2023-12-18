@@ -224,7 +224,7 @@ See the [Enterprise IT Roles page](/handbook/marketing/brand-and-product-marketi
    - My biggest challenges are dealing with team silos and workflows and the lack of a strong security culture with the risk that entails
 
 - **My Messaging:**
-   - Gitlab offers one of the broadest breadths of security tools in the industry
+   - GitLab offers one of the broadest breadths of security tools in the industry
    - GitLab helps create a secure DevSecOps framework for the entire organization
    - By enabling Dev to find some security issues, GitLab enables InfoSec to focus on higher priorities
    - GitLab helps organizations extract more value from existing security tools

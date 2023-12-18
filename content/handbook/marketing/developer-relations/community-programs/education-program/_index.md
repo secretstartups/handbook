@@ -194,7 +194,7 @@ At this time, GitLab does not issue licenses directly to students as part of the
 
 Children under the age of 13 are not permitted to use GitLab.com (SaaS Software).
 
-## The Gitlab for Education DevOps Guide
+## The GitLab for Education DevOps Guide
 
 Coming Soon!
 

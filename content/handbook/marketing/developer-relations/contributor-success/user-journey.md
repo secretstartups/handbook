@@ -151,9 +151,9 @@ flowchart TB
         click id2_box5 "https://about.gitlab.com/community/hackathon/"
 
     end
-    subgraph id3["Learn about Gitlab"]
+    subgraph id3["Learn about GitLab"]
         id3_box1("Tutorials")
-        id3_box2("Gitlab Handbook")
+        id3_box2("GitLab Handbook")
 
         click id3_box1 "https://docs.gitlab.com/ee/tutorials/"
         click id3_box2 "https://about.gitlab.com/handbook/"

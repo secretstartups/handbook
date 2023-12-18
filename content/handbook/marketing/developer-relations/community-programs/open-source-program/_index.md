@@ -74,7 +74,7 @@ For more specific instructions on obtaining and submitting required screenshots,
 
 #### How are GitLab for Open Source Program applications processed?
 
-Gitlab uses SheerID, a trusted partner, to verify that applicants meet the GitLab for Open Source Program requirements.
+GitLab uses SheerID, a trusted partner, to verify that applicants meet the GitLab for Open Source Program requirements.
 In most cases, applicants receive a decision on their application within three to five business days of submission.
 During periods of high submission volume, processing an application requires up to ten business days.
 When verified, applicants receive a verification email containing specific instructions for activating their subscriptions.
@@ -231,7 +231,7 @@ After that:
 
 #### Tracking partner issues
 
-Gitlab's open source partners requesting support track most of their issues publicly.
+GitLab's open source partners requesting support track most of their issues publicly.
 They do this via issue trackers located in the [GitLab Open Source Partners](https://gitlab.com/gitlab-com/marketing/community-relations/open-source-program/gitlab-open-source-partners) group—most commonly the [Community Support](https://gitlab.com/gitlab-com/marketing/community-relations/open-source-program/gitlab-open-source-partners/community-support/-/issues) project.
 Here, fellow open source partners partners and GitLab team members can collaborate on supporting GitLab's open source partners.
 
@@ -386,9 +386,9 @@ This dashboard pulls data from Salesforce. GitLab team members with access to Sa
 We also track (and, when necessary, participate in) Hacker News discussions related to both our open source programs and partners.
 Examples include:
 
-- 2023-12-08: [Arch Linux bugtracker migration to Gitlab completed](https://news.ycombinator.com/item?id=38568076)
-- 2022-06-14: [Gitlab Now the Main Development Platform for Wine](https://news.ycombinator.com/item?id=31737807)
-- 2020-10-28: [Wikimedia is moving to Gitlab](https://news.ycombinator.com/item?id=24919569)
+- 2023-12-08: [Arch Linux bugtracker migration to GitLab completed](https://news.ycombinator.com/item?id=38568076)
+- 2022-06-14: [GitLab Now the Main Development Platform for Wine](https://news.ycombinator.com/item?id=31737807)
+- 2020-10-28: [Wikimedia is moving to GitLab](https://news.ycombinator.com/item?id=24919569)
 - 2020-06-29: [The KDE community is moving to GitLab](https://news.ycombinator.com/item?id=23679360)
 - 2018-05-31: [Gnome has moved to GitLab](https://news.ycombinator.com/item?id=17198610)
 - 2019-09-30: [KDE is adopting GitLab](https://news.ycombinator.com/item?id=21112632)
