@@ -148,25 +148,31 @@ Other mentorship resources at GitLab can be found [here in the handbook]({{< ref
 
 In 2023, mentees and mentors were surveyed using Culture Amp before and after the program to meausre key impacts of their mentorship. The following data outlines the impact that mentorship had on these impacts for mentees and mentors.
 
+We used CultureAmp to collect feedback. CultureAmp sorts data as `favorable`, `neutral`, and `unfavorable` based on responses. The data below indicates the rating for each question, and the number by which the score changed from pre to post program, if at all.
+
 **Mentee Results**
 
 All mentee impacts trended upwards post program, with the greatest impact being on mentees sense of support network at Gitlab. Survey participation went from 91% to 64% pre to post.
 
-| Question | Pre-Program Score | Post-Program Score | Trend Pre to Post Program |
-| ---------- | ----- | ----- | ----- |
-| I know where to find GitLab resources to support my career growth. | 73 | 84 | +14 |
-| I have a network of support to help me reach my goals at GitLab. | 70 | 82 | +30 |
-| I have a vision of how I'd like to grow over the next 12 months at GitLab. | 52 | 80 | +7 |
+| Question | Trend Pre to Post Program |
+| ---------- | ----- |
+| I know where to find GitLab resources to support my career growth. | Favorable, +14 |
+| I have a network of support to help me reach my goals at GitLab. | Favorable, +30 |
+| I have a vision of how I'd like to grow over the next 12 months at GitLab. | Favorable +7 |
+
+**Summary:** The experience of a mentee has an overall favorable rating, and positively impacts mentees knowledge of growth resources, support network, and personal vision.
 
 
 **Mentor Results**
 
 Both mentor impacts trended sligntly downward. Survey participation went from 91% to 67% pre to post.
 
-| Question | Pre-Program Score | Post-Program Score | Trend Pre to Post Program |
-| ---------- | ----- | ----- | ----- |
-| I have relationships with team members outside of my own department. | 95 | 93 | -2 |
-| I am confident in my ability to support others towards achieving their goals. | 95 | 93 | -2 |
+| Question | Trend Pre to Post Program |
+| ---------- | ----- |
+| I have relationships with team members outside of my own department. | Favorable, -2 |
+| I am confident in my ability to support others towards achieving their goals. | Favorable, -2 |
+
+**Summary:** The experience of a mentor has an overall favorable rating, with negligible impact on mentors relationships outside their department and confidence in supporting others towards their goals. 
 
 
 ### 2022
