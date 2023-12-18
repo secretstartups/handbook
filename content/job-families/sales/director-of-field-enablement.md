@@ -37,7 +37,7 @@ The Director, Field Enablement is a [grade 10](/handbook/total-rewards/compensat
 
 ## Senior Director, Field Enablement
 
-The Senior Director of Field Enablement is a highly experiences and influential global Sales, Partner, Technical, or Customer Success Enablement leader with the ability to thrive in a growing software AI-Powered DevSecOps organization. Reporting to the VP of Revenue Strategy, Operations, and Enablement, they are responsible for building and managing world-class global sales training and enablement programs that support the Field Sales organization by optimizing impactful enablement strategies.
+The Senior Director of Field Enablement is a highly experienced and influential global Sales, Partner, Technical, or Customer Success Enablement leader with the ability to thrive in a growing software AI-Powered DevSecOps organization. Reporting to the VP of Revenue Strategy, Operations, and Enablement, they are responsible for building and managing world-class global sales training and enablement programs that support the Field Sales organization by optimizing impactful enablement strategies.
 
 ### Job Grade
 
