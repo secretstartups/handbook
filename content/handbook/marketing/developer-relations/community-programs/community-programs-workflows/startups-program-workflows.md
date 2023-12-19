@@ -27,7 +27,7 @@ Our application is a Marketo form with the following fields:
 - First Name
 - Last Name
 - Email Address
-- Country (drop down list)*
+- Country (drop down)
 - Company Name
 - Billing Address
 - City
@@ -39,7 +39,7 @@ Our application is a Marketo form with the following fields:
 - Do you want to purchase support (checkbox)
 - Marketing email opt-in (checkbox)
 
-(*) Note: US Embargoed countries are not on the list. SheerID is not able to separate out the two different regions in Ukraine so we have asked them to remove Ukraine entirely from the list of countries. If someone from Ukraine does want to apply, they will need to contact us directly and we will determine if they qualify based on the region of origin.
+For reasons relating to trade controls, we are unable to accept applicants from Cuba, Iran, Syria, North Korea, Russia, Belarus, or Ukraine.
 
 ## Legal Agreement
 
