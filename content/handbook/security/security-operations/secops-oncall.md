@@ -39,9 +39,9 @@ Trust and Safety
 
 ### SIRT Written Handoff
 
-SIRT is using the self-developed tool [Handogotchi](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/tines/-/tree/master/Handogotchi) for written handover summaries. Handogotchi reminds the SIRT engineer on call to update incidents and add additional information one hour before handoff time. It will automatically send links to open incidents half an hour before handoff times.
+*Incident issues are the SSoT for any incident. You only have to document information there.*
 
-*Incident issues are the SSoT for any incident. There should be no incident-specific information in Handogotchi.*
+SIRT is using the self-developed tool [Handogotchi](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/tines/-/tree/master/Handogotchi) for written handover summaries. Handogotchi reminds the SIRT engineer on call to update incidents and add additional information one hour before handoff time. It will automatically send links to open incidents half an hour before handoff times.
 
 Written handoffs are done for every shift and are the basis for warm handoffs.
 
