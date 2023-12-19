@@ -30,19 +30,19 @@ The Test Platform sub-department currently works cross-functionally, and our tas
 ### Managing Projects
 In the Test Platform sub-department at GitLab, our goal is to standardize project regulation processes, ensuring efficient and consistent management of repositories, including personal, established, and archived projects. By establishing clear guidelines, we aim to clarify ownership, enhance cross-team collaboration, and streamline project transitions. 
 
-### Personal Projects
+#### Personal Projects
 Personal Projects are for individual exploration and learning opportunities. These projects provide a sandbox environment for testing new ideas or technologies without the need for formal review.
   - Use GitLab's [personal namespaces](https://docs.gitlab.com/ee/user/namespace/#types-of-namespaces).
   - Make projects [private or internal](https://docs.gitlab.com/ee/user/public_access.html#private-projects-and-groups) to minimize clutter in the main group.
 
-### POC (Proof of Concept) Projects
+#### POC (Proof of Concept) Projects
 POC Projects are to explore and validate new concepts or technologies that could potentially bring value to the Test Platform sub-department or broader organization. They are more formal than Personal Projects and are expected to have a clearly defined scope and objectives.
   - Ensure that the project is created under the [Quality Department](https://gitlab.com/gitlab-org/quality) group for organizational alignment. 
   - Make projects [Public or Internal](https://docs.gitlab.com/ee/user/public_access.html) based on the required collaboration needs.
   - In the README of your POC project, add a section linking to the relevant GitLab issues for tracking progress and challenges, and clearly state the POC project owner's name and role, along with a brief outline of the project's scope and objectives.
   - Adhere to [GitLab's code of conduct and privacy policies](https://about.gitlab.com/community/contribute/code-of-conduct/).
 
-### Established Projects
+#### Established Projects
 Established Projects are those that have proven their value, are mature, and are fully integrated into regular department workflows. These projects are critical to the department's operations and require ongoing management and development.
   - Ensure that the project is created under the [Quality Department](https://gitlab.com/gitlab-org/quality) group for organizational alignment.
   - Make projects [Public or Internal](https://docs.gitlab.com/ee/user/public_access.html) based on the required usage needs.
@@ -54,7 +54,7 @@ Established Projects are those that have proven their value, are mature, and are
   - After filling in the details, select "Add badge" to create the maintainer badge.
   - Adhere to [GitLab's code of conduct and privacy policies](https://about.gitlab.com/community/contribute/code-of-conduct/).
 
-### Project Deprecation
+#### Project Deprecation
 Deprecation of a project is a significant decision and should be based on clear, objective criteria. Here are the key factors to consider:
   - Decline in usage metrics over a sustained period.
   - Lack of relevance to current organizational goals or technology trends.
