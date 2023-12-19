@@ -215,7 +215,8 @@ Full-time team members can only get unpaid carer’s leave if they don’t have 
 An immediate family member is a:
 
 - spouse or former spouse
-- de facto partner or former de facto partner child
+- de facto partner or former de facto partner
+- child
 - parent
 - grandparent
 - grandchild
