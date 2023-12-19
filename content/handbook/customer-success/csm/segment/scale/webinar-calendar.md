@@ -61,7 +61,7 @@ Are you new to GitLab? Join this webinar, where we will review what GitLab is, h
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_J6u0UraeSESGFqjkqNyccg#/registration)
 
 #### Hands-On GitLab CI Lab 
-##### DecembJanuary 10th, 2023 at 9:00-10:30AM Pacific Time / 12:00-1:30PM Eastern Time
+##### January 10th, 2023 at 9:00-10:30AM Pacific Time / 12:00-1:30PM Eastern Time
 
 Join us for a hands-on GitLab CI lab and learn how it can fit in your organization!
 
@@ -76,13 +76,6 @@ Come learn about what CI/CD is and how it can benefit your team. We will cover a
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_soWVm-TSQdOsqfBxI-s56g#/registration)
 
-#### GitLab Runner Fundamentals and What You Need to Know
-##### January 19th, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-Runners are a requirement for operating GitLab CI/CD. Learn about Runner architecture, options for deployments, supported operating systems, and optimizing them for most efficient usage. We will be discussing best practices, decisions that you need to make before deploying at scale, and options you have for monitoring fleets of runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_O_HsFdMBQ56aTOusd0_gaw#/registration)
-
 #### Hands-On GitLab CI Lab for Jenkins Users
 ##### January 17th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
 
@@ -93,6 +86,13 @@ We will kick things off by going over the differences between CI/CD in Jenkins a
 We will then dive into how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_RIbcenwkSuaVtDcmsABbdQ#/registration)
+
+#### GitLab Runner Fundamentals and What You Need to Know
+##### January 19th, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
+
+Runners are a requirement for operating GitLab CI/CD. Learn about Runner architecture, options for deployments, supported operating systems, and optimizing them for most efficient usage. We will be discussing best practices, decisions that you need to make before deploying at scale, and options you have for monitoring fleets of runners.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_O_HsFdMBQ56aTOusd0_gaw#/registration)
 
 #### Advanced CI/CD
 ##### January 23rd, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
@@ -127,7 +127,7 @@ GitLab offers robust team planning capabilities that work directly with the DevO
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_zJJpJoOZTDqoAjeGpio_NQ#/registration)
 
 #### AI in DevSecOps - GitLab Hands-On Lab
-##### December 31st, 2023 at 10:00AM-11:30AM UTC / 11:00AM-12:30PM CET
+##### December 31st, 2023 at 9:00-10:30AM Pacific Time / 12:00-1:30PM Eastern Time
 
 Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligence and how it fits within the DevSecOps lifecycle. In this session, we will cover foundational implementation and use case scenarios such as Code Suggestions and Vulnerability Explanations.
 
