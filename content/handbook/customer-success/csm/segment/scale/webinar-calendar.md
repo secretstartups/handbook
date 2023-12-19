@@ -168,7 +168,7 @@ We will kick things off by going over the differences between CI/CD in Jenkins a
 
 We will then dive into how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_f8cLG7PeQlyIhI8A18JHUg#/registration)
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_97qmaOkqSR6ZUPQK_JQ-ow#/registration)
 
 #### GitLab Runner Fundamentals and What You Need to Know
 ##### January 19th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
