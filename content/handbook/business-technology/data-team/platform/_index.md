@@ -57,7 +57,7 @@ This document is limited to describe the Data Platform conceptually. There are o
 - [Sisense (Periscope)](/handbook/business-technology/data-team/platform/sisensecdt/)
 - [Snowplow](/handbook/business-technology/data-team/platform/snowplow/)
 - [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/)
-- [Meltano](/handbook/business-technology/data-team/platform/Meltano-Gitlab/)
+- [Meltano](https://internal.gitlab.com/handbook/enterprise-data/platform/Meltano-Gitlab/)
 - [R/RStudio](/handbook/business-technology/data-team/platform/rstudio/)
 - [Tableau](/handbook/business-technology/data-team/platform/tableau/)
 
@@ -86,7 +86,7 @@ We currently use [Stitch](https://www.stitchdata.com) and [Fivetran](https://fiv
 Stitch and Fivetran handle the start of the data pipeline themselves. This means that Airflow does not play a role in the orchestration of the Stitch- and Fivetran schedules.
 
 Other solutions we use to extract data are:
-1. [Meltano](/handbook/business-technology/data-team/platform/Meltano-Gitlab/)
+1. [Meltano](https://internal.gitlab.com/handbook/enterprise-data/platform/Meltano-Gitlab/)
 1. Custom pipelines built in [Python](/handbook/business-technology/data-team/platform/python-guide/) and orchestrated via [Airflow](/handbook/business-technology/data-team/platform/infrastructure/#airflow)
 1. Snowflake [data share](https://docs.snowflake.com/en/user-guide/data-sharing-intro.html)
 

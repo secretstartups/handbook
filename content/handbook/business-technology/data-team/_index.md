@@ -200,7 +200,7 @@ You can tag the Data Team in GitLab using:
 | [Data CI Jobs](/handbook/business-technology/data-team/platform/ci-jobs/) | [DataSiren](/handbook/business-technology/data-team/platform/#datasiren) | [Planning Drumbeat](/handbook/business-technology/data-team/how-we-work/planning/)
 | [Rstudio Guide](/handbook/business-technology/data-team/platform/rstudio/) | [Trusted Data](/handbook/business-technology/data-team/platform/#tdf) | [Data Science Team](/handbook/business-technology/data-team/organization/data-science) |
 | [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/) | | [Data Management](/handbook/business-technology/data-team/data-management/) |
-| [Meltano Guide](/handbook/business-technology/data-team/platform/Meltano-Gitlab/) |
+| [Meltano Guide](https://internal.gitlab.com/handbook/enterprise-data/platform/Meltano-Gitlab/) |
 | [Experimentation Best Practices](/handbook/business-technology/data-team/experimentation-best-practices/) |
 | [Data Onboarding](/handbook/business-technology/data-team/programs/#data-onboarding) |
 | [Learning Library](/handbook/business-technology/data-team/learning-library/) |
@@ -236,7 +236,7 @@ You can tag the Data Team in GitLab using:
     - [dbt Guide](/handbook/business-technology/data-team/platform/dbt-guide/)
     - [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/edw/)
     - [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide)
-    - [Meltano Guide](/handbook/business-technology/data-team/platform/Meltano-Gitlab)
+    - [Meltano Guide](https://internal.gitlab.com/handbook/enterprise-data/platform/Meltano-Gitlab/)
     - [Permifrost](/handbook/business-technology/data-team/platform/permifrost/)
     - [Python Guide](/handbook/business-technology/data-team/platform/python-guide/)
     - [RStudio Guide](/handbook/business-technology/data-team/platform/rstudio/)
