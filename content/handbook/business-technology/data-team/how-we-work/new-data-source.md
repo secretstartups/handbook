@@ -187,4 +187,4 @@ When a new data source is extracted towards the `raw` layer there will be a new 
 
 ## Documentation
 
-The new data source will be documented in the handbook, following this [template](/handbook/business-technology/data-team/platform/pipelines/template).
+The new data source will be documented in the handbook, following this [template](https://internal.gitlab.com/handbook/enterprise-data/platform/pipelines/template).
