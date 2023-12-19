@@ -115,6 +115,17 @@ If the alarm is not acknowledged, the Security Incident Manager On-Call will be 
 
 Engineers should acknowledge pages within the first 15 minutes, and perform initial triage of potential incidents within the first hour of the initial page.
 
+### Security Managers On-Call
+
+In addition to the Security Engineers being On-Call, the Security Managers across the GitLab Security Department act as backups in the event the Security Engineers are unable to acknowledge security pages. PagerDuty will automatically engage the Security Manager On-Call if the Security Engineers don’t acknowledge the first paging attempts.
+
+It's the responsibility of the Security Manager On-Call to:
+
+- Be available via mobile phone during their On-Call shift if the Security Engineer On-Call does not acknowledge a page.
+- Attempt to contact the Security Engineer On-Call to acknowledge the page. **Note: If Slack is not available or an alternative means of communication is required, PagerDuty has cell phone numbers of GitLab team members involved in the on-call process. GitLab also sets up a Zoom channel (#Slack Down!) as backup communication channel.**
+- If the Security Engineer On-Call is unresponsive, attempt to contact other Engineers to take on the page. Prioritize based on timezone and region.
+- In the event of a high-impact security incident to GitLab, the Security Manager On-Call will be engaged to assist with cross-team/department coordination.
+
 ## Triage Engineer
 
 During On-Call shifts the Security Engineer On-Call is the Triage DRI and has these core responsibilities:
@@ -164,17 +175,6 @@ Ownership of an incident means being the person responsible for:
 - Adequate handoffs and communications
 
 Being the responsible person does not imply being the sole person to act on these tasks. Hand-off at the end of an On-Call shift, or coordinated breaks during extended incidents, can temporarily assign another person responsible for these tasks. To coordinate these hand-offs it's essential to equip the next person with all necessary details.
-
-## Security Managers On-Call
-
-In addition to the Security Engineers being On-Call, the Security Managers across the GitLab Security Department act as backups in the event the Security Engineers are unable to acknowledge security pages. PagerDuty will automatically engage the Security Manager On-Call if the Security Engineers don’t acknowledge the first two page attempts, with each attempt being `15 minutes apart`.
-
-It's the responsibility of the Security Manager On-Call to:
-
-- Be available via mobile phone during their On-Call shift if the Security Engineer On-Call does not acknowledge a page.
-- Attempt to contact the Security Engineer On-Call to acknowledge the page. **Note: If Slack is not available or an alternative means of communication is required, PagerDuty has cell phone numbers of GitLab team members involved in the on-call process. GitLab also sets up a Zoom channel (#Slack Down!) as backup communication channel.**
-- If the Security Engineer On-Call is unresponsive, attempt to contact other Engineers to take on the page. Prioritize based on timezone and region.
-- In the event of a high-impact security incident to GitLab, the Security Manager On-Call will be engaged to assist with cross-team/department coordination.
 
 ## Exceptions
 
