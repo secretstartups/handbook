@@ -1,14 +1,5 @@
 ---
-
 title: "Observability Group Engineering Metrics"
 ---
 
-
-
-
-
-
-
-
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Observability" } %>
-
+{{% engineering/child-dashboards filters="Observability" %}}

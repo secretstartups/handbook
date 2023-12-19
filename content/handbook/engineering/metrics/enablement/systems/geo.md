@@ -1,15 +1,5 @@
 ---
-
 title: "Geo Group Engineering Metrics"
 ---
 
-
-
-
-
-
-
-
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Geo" } %>
-
-
+{{% engineering/child-dashboards filters="Geo" %}}

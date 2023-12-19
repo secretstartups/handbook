@@ -1,21 +1,15 @@
 ---
-
 title: "Secure Stage Engineering Metrics"
 ---
 
+## Group Pages
 
+- [Static Analysis Group Dashboards](/handbook/engineering/metrics/sec/secure/static-analysis)
+- [Dynamic Analysis Group Dashboards](/handbook/engineering/metrics/sec/secure/dynamic-analysis)
+- [Composition Analysis Group Dashboards](/handbook/engineering/metrics/sec/secure/composition-analysis)
+- [Vulnerability Research Group Dashboards](/handbook/engineering/metrics/sec/secure/vulnerability-research)
 
-
-
-
-
-### Group Pages
-* [Static Analysis Group Dashboards](/handbook/engineering/metrics/sec/secure/static-analysis)
-* [Dynamic Analysis Group Dashboards](/handbook/engineering/metrics/sec/secure/dynamic-analysis)
-* [Composition Analysis Group Dashboards](/handbook/engineering/metrics/sec/secure/composition-analysis)
-* [Vulnerability Research Group Dashboards](/handbook/engineering/metrics/sec/secure/vulnerability-research)
-
-<%= partial "handbook/engineering/metrics/partials/team_dashboard.erb", locals: { filter_type: "stage", filter_value: "Secure" } %>
+{{% engineering/child-dashboards stage=true filters="Secure" %}}
 
 ## Say Do Ratios
 

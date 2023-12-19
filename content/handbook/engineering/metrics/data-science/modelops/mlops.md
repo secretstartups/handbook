@@ -1,14 +1,5 @@
 ---
-
 title: "MlOps Group Engineering Metrics"
 ---
 
-
-
-
-
-  
-
-
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "mlops" } %>
-
+{{% engineering/child-dashboards filters="mlops" %}}

@@ -24,44 +24,45 @@
     {{- $filters =  slice (dict "name" "stage" "value" (lower $filterValue) ) }}
 {{- end }}
 
-### {{ $filterValue }}
-
-#### Top Engineering Metrics dashboard
+### Top Engineering Metrics dashboard
 
 {{ partial "sisense-with-filter" (dict "dashboard" "1000952" "height" 750 "filters" $filters "visible" (slice "team_group" "stage" "development_section")) }}
 
-#### MR Types dashboard
+### MR Types dashboard
 
 {{ partial "sisense-with-filter" (dict "dashboard" "976854" "height" 750 "filters" $filters "visible" (slice "team_group" "stage" "development_section")) }}
 
-#### Development dashboard
+### Development dashboard
 
+<details>
+  <summary><b>Dashboard</b></summary>
 {{ partial "sisense-with-filter" (dict "dashboard" "681347" "height" 750 "filters" $filters "visible" (slice "team_group" "stage" "development_section")) }}
-
-#### Infrastructure dashboard
-
-<details>
-    <summary>Dashboard</summary>
-    {{ partial "sisense-with-filter" (dict "dashboard" "798401" "height" 750 "filters" $filters "visible" (slice "team_group" "stage" "development_section")) }}
 </details>
 
-#### Quality dashboard
+### Infrastructure dashboard
 
 <details>
-    <summary>Dashboard</summary>
-    {{ partial "sisense-with-filter" (dict "dashboard" "736012" "height" 750 "filters" $filters "visible" (slice "team_group" "stage" "development_section")) }}
+  <summary><b>Dashboard</b></summary>
+{{ partial "sisense-with-filter" (dict "dashboard" "798401" "height" 750 "filters" $filters "visible" (slice "team_group" "stage" "development_section")) }}
 </details>
 
-#### UX dashboard
+### Quality dashboard
 
 <details>
-    <summary>Dashboard</summary>
-    {{ partial "sisense-with-filter" (dict "dashboard" "736036" "height" 750 "filters" $filters "visible" (slice "team_group" "stage" "development_section")) }}
+  <summary><b>Dashboard</b></summary>
+{{ partial "sisense-with-filter" (dict "dashboard" "736012" "height" 750 "filters" $filters "visible" (slice "team_group" "stage" "development_section")) }}
 </details>
 
-#### Security dashboard
+### UX dashboard
 
 <details>
-    <summary>Dashboard</summary>
-    {{ partial "sisense-with-filter" (dict "dashboard" "758795" "height" 750 "filters" $filters "visible" (slice "team_group" "stage" "development_section")) }}
+  <summary><b>Dashboard</b></summary>
+{{ partial "sisense-with-filter" (dict "dashboard" "736036" "height" 750 "filters" $filters "visible" (slice "team_group" "stage" "development_section")) }}
+</details>
+
+### Security dashboard
+
+<details>
+  <summary><b>Dashboard</b></summary>
+{{ partial "sisense-with-filter" (dict "dashboard" "758795" "height" 750 "filters" $filters "visible" (slice "team_group" "stage" "development_section")) }}
 </details>

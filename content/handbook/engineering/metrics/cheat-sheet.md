@@ -1,13 +1,6 @@
 ---
-
 title: Engineering Analytics Data Cheat Sheet
 ---
-
-
-
-
-
-{:toc}
 
 ## Objectives for this page
 
@@ -30,12 +23,12 @@ A cheat sheet that Engineering Analysts can use to refer back to dashboards that
 
 | Schema                | Table Name                     | Description |
 | --------------        | -----------                    | ----------- |
-| workspace_engineering | engineering_merge_requests     | This table is fitered down to all merge requests that directly affect our product.          | 
-| workspace_engineering | engineering_issues             | This table is fitered down to all issues that directly affect our product.         | 
+| workspace_engineering | engineering_merge_requests     | This table is fitered down to all merge requests that directly affect our product.          |
+| workspace_engineering | engineering_issues             | This table is fitered down to all issues that directly affect our product.         |
 | workspace_engineering | internal_issues_enhanced       | Similar to `engineering_issues`, except it does not filter for only part of product issues |
 | workspace_engineering | internal_issues                | Base for `workspace_engineering.engineering_issues`. We use this table to build other issue DBT models.|
 | workspace_engineering | internal_merge_requests        | Base for `workspace_engineering.engineering_merge_requests`. We use this table to build other issue DBT models.|
-| workspace_engineering | internal_notes                 | Shows MR/issue history including comments, commits, merges, assignments, etc. Most of what you find in the history section of an MR or issue will likely be captured in this table.         | 
+| workspace_engineering | internal_notes                 | Shows MR/issue history including comments, commits, merges, assignments, etc. Most of what you find in the history section of an MR or issue will likely be captured in this table.         |
 | workspace_engineering | issues_history                 | Daily snapshot of issue. We use this for past due metrics. |
 | workspace_engineering | merge_request_rate             | This DBT model filters for MR rate by group and department. |
 | legacy                | employee_directory_analysis    | To explore employee job data such as titles, start date, job title specialities, department, etc. |
@@ -54,8 +47,6 @@ A cheat sheet that Engineering Analysts can use to refer back to dashboards that
 | [UX Embedded Dashboard](https://app.periscopedata.com/app/gitlab/736036/UX-Embedded-Dashboard) | |
 | [Security Embedded Dashboard](https://app.periscopedata.com/app/gitlab/758795/AppSec---Application-and-Container-Vulnerability-Dashboard) | |
 
-
-
 ## How to create a DBT model
 
 Depending on the type of data, you can create a DBT model in the appropriate schema. For example, if you are creating a DBT model of Engineering Merge Requests, you might be interested in creating the dbt model under the `workspace_engineering` schema. Here are the general steps:
@@ -66,19 +57,19 @@ Depending on the type of data, you can create a DBT model in the appropriate sch
 4. Once the pipeline passes, ask a member of the Engineering Analytics team to review.
 5. Next in the approval process is a member of the Data team.
 
-If you create a new seed, you need to run [`specify_csv_seed`](https://about.gitlab.com/handbook/business-technology/data-team/platform/ci-jobs/#specify_csv_seed) before step 3, especially if you create a new model that depends on the new seed. 
+If you create a new seed, you need to run [`specify_csv_seed`](https://about.gitlab.com/handbook/business-technology/data-team/platform/ci-jobs/#specify_csv_seed) before step 3, especially if you create a new model that depends on the new seed.
 
 ### How to test DBT model
 
 #### Via command line
 
-After [setting up dbt](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#running-dbt), you can test run the new model in your local environment using the [dbt specific command line](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#command-line-cheat-sheet). The model will be created in your personal database in Snowflake. (Please note: personal database is only provisioned by request. [See example](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/17451#note_1342680429)) 
+After [setting up dbt](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#running-dbt), you can test run the new model in your local environment using the [dbt specific command line](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#command-line-cheat-sheet). The model will be created in your personal database in Snowflake. (Please note: personal database is only provisioned by request. [See example](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/17451#note_1342680429))
 
-For example, you have just created `engineering_issues` under `workspace_engineering`. Following the command `dbt run --models +engineering_issues`, dbt will run all parents and the model. After that, you can go to Snowflake UI and check the data by running `SELECT * FROM YOURNAME_PROD.WORKSPACE_ENGIENERING.ENGINEERING_ISSUES LIMIT 10`. 
+For example, you have just created `engineering_issues` under `workspace_engineering`. Following the command `dbt run --models +engineering_issues`, dbt will run all parents and the model. After that, you can go to Snowflake UI and check the data by running `SELECT * FROM YOURNAME_PROD.WORKSPACE_ENGIENERING.ENGINEERING_ISSUES LIMIT 10`.
 
 #### Via dbt Power User
 
-Alternatively, you can set up [VSCode extension dbt Power User](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#vscode-extension-dbt-power-user). You can directly use the UI in VSCode to test run models without command line. 
+Alternatively, you can set up [VSCode extension dbt Power User](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#vscode-extension-dbt-power-user). You can directly use the UI in VSCode to test run models without command line.
 
 ## FAQ
 

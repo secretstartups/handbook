@@ -1,14 +1,5 @@
 ---
-
 title: "Dynamic Analysis Group Engineering Metrics"
 ---
 
-
-
-
-
-
-
-
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Dynamic Analysis" } %>
-
+{{% engineering/child-dashboards filters="Dynamic Analysis" %}}

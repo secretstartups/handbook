@@ -1,14 +1,5 @@
 ---
-
 title: "Authorization Group Engineering Metrics"
 ---
 
-
-
-
-
-
-
-
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Authorization" } %>
-
+{{% engineering/child-dashboards filters="Authorization" %}}

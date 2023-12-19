@@ -1,19 +1,12 @@
 ---
-
 title: "Sec Section Engineering Metrics"
 ---
 
-
-
-
-
-
-
 These pages are part of our centralized [Engineering Metrics Dashboards](/handbook/engineering/metrics/)
 
-### Stage Pages
-* [Secure Stage Dashboards](/handbook/engineering/metrics/sec/secure/)
-* [Govern Stage Dashboards](/handbook/engineering/metrics/sec/govern/)
+## Stage Pages
 
-<%= partial "handbook/engineering/metrics/partials/team_dashboard.erb", locals: { filter_type: "development_section", filter_value: "sec" } %>
+- [Secure Stage Dashboards](/handbook/engineering/metrics/sec/secure/)
+- [Govern Stage Dashboards](/handbook/engineering/metrics/sec/govern/)
 
+{{% engineering/child-dashboards development_section="sec" %}}

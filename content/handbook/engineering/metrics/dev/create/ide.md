@@ -1,14 +1,5 @@
 ---
-
 title: "IDE Group Engineering Metrics"
 ---
 
-
-
-
-
-
-
-
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "ide" } %>
-
+{{% engineering/child-dashboards stage=true filters="ide" %}}

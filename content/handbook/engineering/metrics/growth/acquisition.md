@@ -1,15 +1,5 @@
 ---
-
 title: "Acquisition Group Engineering Metrics"
 ---
 
-
-
-
-
-
-
-
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Acquisition" } %>
-
-
+{{% engineering/child-dashboards filters="Acquisition" %}}

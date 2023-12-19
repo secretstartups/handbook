@@ -1,14 +1,5 @@
 ---
-
 title: "Static Analysis Group Engineering Metrics"
 ---
 
-
-
-
-
-
-
-
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Static Analysis" } %>
-
+{{% engineering/child-dashboards filters="Static Analysis" %}}

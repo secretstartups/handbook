@@ -1,16 +1,10 @@
 ---
-
 title: "Manage Stage Engineering Metrics"
 ---
 
+## Group Pages
 
+- [Foundations Group Dashboards](/handbook/engineering/metrics/dev/manage/foundations)
+- [Import and Integrate Group Dashboards](/handbook/engineering/metrics/dev/manage/import-and-integrate)
 
-
-
-
-
-### Group Pages
-* [Foundations Group Dashboards](/handbook/engineering/metrics/dev/manage/foundations)
-* [Import and Integrate Group Dashboards](/handbook/engineering/metrics/dev/manage/import-and-integrate)
-
-<%= partial "handbook/engineering/metrics/partials/team_dashboard.erb", locals: { filter_type: "stage", filter_value: "Manage" } %>
+{{% engineering/child-dashboards stage=true filters="Manage" %}}

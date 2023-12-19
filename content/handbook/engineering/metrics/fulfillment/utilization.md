@@ -1,16 +1,5 @@
 ---
-
 title: "Utilization Group Engineering Metrics"
 ---
 
-
-
-
-
-
-
-
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Utilization" } %>
-
-
-
+{{% engineering/child-dashboards filters="Utilization" %}}

@@ -1,15 +1,5 @@
 ---
-
 title: "Global Search Group Engineering Metrics"
 ---
 
-
-
-
-
-
-
-
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Global Search" } %>
-
-
+{{% engineering/child-dashboards filters="Global Search" %}}
