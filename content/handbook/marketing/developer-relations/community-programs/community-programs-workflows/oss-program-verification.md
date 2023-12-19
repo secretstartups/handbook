@@ -33,9 +33,7 @@ The SheerID form also includes the following statement, added with help from Git
 > 
 > If you are accepted into the GitLab for Open Source Program, you will be subject to [GitLab's terms and conditions](/handbook/legal/opensource-agreement/). All use of GitLab products must comply with United States export control and economic sanction laws.
 
-The GitLab for Open Source Program cannnot accept applications US embargoed countries.
-SheerID is unable to separate out the two different regions in Ukraine, so we have asked them to remove Ukraine entirely from the list of countries.
-Applicants from Ukraine will need to contact the team directly at `opensource@gitlab.com`, and team members determine whether they qualify based on their region of origin.
+For reasons relating to trade controls, we are unable to accept applicants from Cuba, Iran, Syria, North Korea, Russia, Belarus, or Ukraine.
 
 ## Verifying applicants
 
