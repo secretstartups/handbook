@@ -580,7 +580,7 @@ Bulk purchases ("like" items acquired with a single purchase order, which are re
 
 All capital assets are recorded at historical cost as of the acquisition date. These assets are depreciated on a straight-line basis, with the number of depreciation periods being determined by asset class.
 
-- **Computer and I/T Equipment:** For our purposes, Computer and I/T Equipment generally consists of computers (laptops). Computer and I/T Equipment under our INC entity is assigned a standard useful life of two (2) years. However, Computer and I/T Equipment under our BV entity is depreciated over five (5) years due to Dutch tax laws, which limit depreciation of capitals assets to a maximum of 20% of the asset cost per year. The following link contains additional information on Dutch tax laws surrounding capital and fixed assets: [Netherlands Capital and Fixed Assets Guide](https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/tax/tax-guides/2022/ey-worldwide-capital-and-fixed-assets-guide-fy22.pdf#page=156)
+- **Computer and I/T Equipment:** For our purposes, Computer and I/T Equipment generally consists of computers (laptops) and are assigned a standard useful life of two (2) years. This depreciation schedule applies to all entities.
 - **Office Equipment and Furniture & Fixtures:** The standard useful life for Office Equipment and Furniture & Fixtures is five (5) years. This depreciation schedule applies to all entities.
 
 Invoices and purchase receipts for capital assets are retained for a minimum of five (5) years.
