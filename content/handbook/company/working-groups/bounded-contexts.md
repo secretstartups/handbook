@@ -120,8 +120,10 @@ For stages still missing participants we will seek support from Engineering lead
 | Member                | Sean Carroll          | Engineering Manager, Create:Source Code |
 | Member                | Ahmed Hemdan          | Senior Backend Engineer, Secure:Static Analysis |
 | Member                | Ethan Urie            | Staff Backend Engineer, Secure:Secret Detection |
+| Member                | Gabriel Mazetto       | Senior Backend Engineer, Systems:Geo |
 | Member                | Vitali Tatarintev     | Senior Backend Engineer, Create:Code Creation |
 | Member                | Sashi Kumar Kumaresan | Staff Backend Engineer, Govern:Security Policies |
 | Member                | Vasilii Iakliushin    | Staff Backend Engineer, Create::Source Code |
 | Member                | Remy Coutable         | Principal Engineer, Quality |
 | Member                | Eduardo Bonet         | Staff Incubation Engineer, MLOps |
+| Member                | Vij Hawoldar          | Senior Backend Engineer, Fulfillment::Utilization |
