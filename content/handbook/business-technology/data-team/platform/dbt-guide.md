@@ -1004,14 +1004,13 @@ We implement 12 categories of Trusted Data Framework (TDF) monitors and tests (m
 1. [Schema tests](/handbook/business-technology/data-team/platform/dbt-guide/#schema-tests) to validate the integrity of a schema
 1. [Column Value tests](/handbook/business-technology/data-team/platform/dbt-guide/#column-value-tests) to determine if the data value in a column matches pre-defined thresholds or literals
 1. [Rowcount tests](/handbook/business-technology/data-team/platform/dbt-guide/#rowcount-tests) to determine if the number of rows in a table over a pre-defined period of time match pre-defined thresholds or literals
-1. [Golden Data tests](/handbook/business-technology/data-team/platform/dbt-guide/#golden-data-tests) to determine if pre-defined high-value data exists in a table
 1. [Custom SQL tests](/handbook/business-technology/data-team/platform/dbt-guide/#custom-sql) any valid SQL that doesn't conform to the above categories
 
 Our tests are stored in 2 primary places - either in a YAML file within our [main project](https://gitlab.com/gitlab-data/analytics) or within our [Data Tests](https://gitlab.com/gitlab-data/data-tests) project.
 
 Schema and Column Value tests will usually be in the main project. These will be in `schema.yml` and `sources.yml` files in the same directory as the models they represent.
 
-Rowcount, Golden Data, and any other custom SQL tests will always be in the [Data Tests](https://gitlab.com/gitlab-data/data-tests) project. This is a private project for internal GitLab use only.
+Rowcount, and any other custom SQL tests will always be in the [Data Tests](https://gitlab.com/gitlab-data/data-tests) project. This is a private project for internal GitLab use only.
 
 ##### Tagging
 
@@ -1165,51 +1164,6 @@ Purpose: We have a fast-growing business and should always have at least 50 and 
     "date_trunc('day',created_date) >= '2020-01-01'"
 ) }}
 
-```
-
-#### Golden Data Tests
-
-Some data is so important it should always exist in your data warehouse and should never change: your top customer's record, the 2019 total global users count, the KPI result when you passed 1,000,000 subscriptions. Some of these cases can be solved by a developing new database capabilities, but this can be complicated and may not always match your existing data processing workflow. In addition, bugs can be accidentally added to data transforms or someone can accidentally run a bad UPDATE versus a critical production table. The Golden Data test is a specialized type of Column Value test that validates the existence of a known data literal and helps catch these problems when they occur.
-
-Golden Data tests are implemented using CSVs. To preserve privacy and to enable users to encode any data they need to, we store the Golden Data CSVs in the [Data Tests](https://gitlab.com/gitlab-data/data-tests/-/tree/main/) project under the `/data` folder.  These files are imported into our production runs as a [dbt package](https://docs.getdbt.com/docs/building-a-dbt-project/package-management/) and uploaded in the `prep.tdf` schema.
-
-Users can create a test that uses the Golden Data Macros to run the comparison.
-
-##### Golden Data Test Examples
-
-Purpose: ACME is our most important customer. This test validates ACME is always in our DIM_ACCOUNT table. This is controlled by the [`model_golden_data_comparison`](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.model_golden_data_comparison) macro.
-
-```csv
--- dim_account_golden_data
-account_name, account_status, account_currency, is_deleted, crm_id
-ACME, Active, USD, FALSE, 0016100001BrzkTQZY
-```
-
-```sql
-{{ config({
-    "tags": ["tdf","dim_account"]
-    })
-}}
-
-{{ model_golden_data_comparison('dim_account') }}
-```
-
-Similarly, if this same data exists in a source table in the RAW database, the format would be as shown below. This is controlled by the [`source_golden_data_comparison`](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.source_golden_data_comparison) macro.
-
-
-```csv
--- sfdc_account_raw_golden_data
-name, status, currency, deleted, id
-ACME, Active, USD, FALSE, 0016100001BrzkTQZY
-```
-
-```sql
-{{ config({
-    "tags": ["tdf","sfdc"]
-    })
-}}
-
-{{ source_golden_records_comparison('sfdc','account') }}
 ```
 
 #### Custom SQL

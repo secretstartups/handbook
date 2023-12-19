@@ -314,7 +314,6 @@ The first iteration has added with a focus on:
 
 - SQL statements to test the daily record insert and update velocity of key tables (rowcount tests)
 - SQL statements to test the aggregate totals of key fields of key tables  (column value tests)
-- SQL statements to test the existence of key records of key tables  (golden record tests)
 - A wireframe Dashboard to visualize these results in a simple manner
 
 ### [Product Usage Metrics Coverage Dashboard](https://app.periscopedata.com/app/gitlab/921541/WIP:-Product-Usage-Metrics-Coverage])
