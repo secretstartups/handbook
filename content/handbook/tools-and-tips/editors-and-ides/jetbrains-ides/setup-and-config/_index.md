@@ -116,7 +116,7 @@ TODO: So, all of the sections below could use a reorg and rewrite in light of th
 ### TL;DR
 
 If you want to get your JetBrains (RubyMine) configured to work (and specifically
-work with Gitlab):
+work with GitLab):
 
 1. Your best bet is probably "Manual Option 1: Manually configure everything".
    This will take maybe an hour or so, but you'll learn your way around the settings.

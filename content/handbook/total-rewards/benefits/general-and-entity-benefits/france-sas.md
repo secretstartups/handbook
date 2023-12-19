@@ -1,5 +1,5 @@
 ---
-title: "Gitlab France S.A.S."
+title: "GitLab France S.A.S."
 description: "GitLab France S.A.S. benefits specific to France-based team members."
 ---
 
@@ -37,7 +37,7 @@ Eligible France Team Members will receive an Holiday Bonus annually. The Holiday
 The bonus is 1% of Total Gross Compensation that was paid through the prior 12 month period (June 1st to May 31st). Variable compensation such as bonus, commission, and overtime are included in the total compensation calculation.
 The Holiday Bonus is taxable, and subject to social charges and income tax. Team Members must be employed in the month of June to receive the annual bonus.
 
-## Gitlab France S.A.S. Parental Leave
+## GitLab France S.A.S. Parental Leave
 
 ### Statutory Parental Leave
 
@@ -66,7 +66,7 @@ The Holiday Bonus is taxable, and subject to social charges and income tax. Team
 
 To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in Time Off by Deel at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy]({{< ref "general-and-entity-benefits#parental-leave" >}}).
 
-## Gitlab France S.A.S. Paid Time Off (Vacation)
+## GitLab France S.A.S. Paid Time Off (Vacation)
 
 - GitLab France S.A.S. team members can review [statutory requirements for paid time off in relation to vacation](/handbook/paid-time-off/#gitlab-sas-france).
 - Team members must always submit their leave via the [Mihi Platform](https://2.mihi.info/Account/Login?ReturnUrl=%2F) **as well as** [Time Off by Deel](/handbook/paid-time-off/#time-off-by-deel) in Slack.
