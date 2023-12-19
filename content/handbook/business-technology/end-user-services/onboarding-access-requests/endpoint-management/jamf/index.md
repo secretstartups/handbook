@@ -214,7 +214,7 @@ If you use [Fish Shell](https://fishshell.com/), Jamf's inventory process may be
 
 1. Go to Apple Logo (at the top left corner of screen) -> System Settings
 1. Search in the "System Settings" search box for "Profiles"
-1. You should see (at a minimum) - "This Mac is supervised and managed by: Gitlab Inc." and an "MDM Profile". There will likely be other profiles also listed, these are okay as well.
+1. You should see (at a minimum) - "This Mac is supervised and managed by: GitLab Inc." and an "MDM Profile". There will likely be other profiles also listed, these are okay as well.
 
 <img src="jamf-profiles.png" alt="Jamf Profiles" width="500">
 

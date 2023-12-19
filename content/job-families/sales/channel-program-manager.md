@@ -41,7 +41,7 @@ The Channel Program Manager is a [grade 6](/handbook/total-rewards/compensation/
 
 #### Responsibilities
 
-The Channel Program Manager will be responsible for the design, management & execution of Gitlab’s Channels Partner Programs. In addition to the partner programs, the Channel Programs Managers will manage deal registration, sales engagement and partner success programs and support partner events.
+The Channel Program Manager will be responsible for the design, management & execution of GitLab’s Channels Partner Programs. In addition to the partner programs, the Channel Programs Managers will manage deal registration, sales engagement and partner success programs and support partner events.
 
 - Collaborate across Channels & Alliances teams to gather requirements for Programs
 - Support the development and management of Partner Programs such as incentive, MDF, Reseller, Services, Alliances, Deal Registration and other programs

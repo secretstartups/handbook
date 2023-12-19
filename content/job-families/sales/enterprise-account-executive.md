@@ -22,7 +22,7 @@ The Associate Strategic Account Executive is a [grade 8](/handbook/total-rewards
 
 ### Responsibilities
 
-- Support Gitlab’s large prospects and customers within a geographic territory
+- Support GitLab’s large prospects and customers within a geographic territory
 - Expand current customer base and land net new accounts
 - Generate new customers through different lead sources and bring those opportunities to a successful close
 - Generate qualified leads and develop new customers in conjunction with our strategic partners
