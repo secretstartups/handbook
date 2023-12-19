@@ -46,12 +46,13 @@ POC Projects are to explore and validate new concepts or technologies that could
 Established Projects are those that have proven their value, are mature, and are fully integrated into regular department workflows. These projects are critical to the department's operations and require ongoing management and development.
   - Ensure that the project is created under the [Quality Department](https://gitlab.com/gitlab-org/quality) group for organizational alignment.
   - Make projects [Public or Internal](https://docs.gitlab.com/ee/user/public_access.html) based on the required usage needs.
-  - Navigate to your project and select "Settings" > "General".
-  - In the General settings, find and expand the "Badges" section.
-  - Enter "Maintainers" as the badge name.
-  - Provide the link to the team page in the handbook. This should be the team-specific page that lists the team Slack handle, team members, and board details.
-  - Use a custom badge image URL structured as suggested: `https://img.shields.io/badge/maintained_by-{{team_name}}-blue`. Replace `{{team_name}}` with the appropriate test-platform [team name](https://handbook.gitlab.com/handbook/engineering/infrastructure/test-platform/#engage-with-us).
-  - After filling in the details, select "Add badge" to create the maintainer badge.
+  - Add Ownership details for the established project by following below steps:
+    - Navigate to your project and select "Settings" > "General".
+    - In the General settings, find and expand the "Badges" section.
+    - Enter "Maintainers" as the badge name.
+    - Provide the link to the team page in the handbook. This should be the team-specific page that lists the team Slack handle, team members, and board details.
+    - Use a custom badge image URL structured as suggested: `https://img.shields.io/badge/maintained_by-{{team_name}}-blue`. Replace `{{team_name}}` with the appropriate test-platform [team name](https://handbook.gitlab.com/handbook/engineering/infrastructure/test-platform/#engage-with-us).
+    - After filling in the details, select "Add badge" to create the maintainer badge.
   - Adhere to [GitLab's code of conduct and privacy policies](https://about.gitlab.com/community/contribute/code-of-conduct/).
 
 #### Project Deprecation
