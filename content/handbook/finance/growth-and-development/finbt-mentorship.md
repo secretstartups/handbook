@@ -33,7 +33,7 @@ Both department-level and company-wide mentorship programs have their own unique
 
 1. Be encouraged to prioritize, and be held accountable for, your [career development]({{< ref "career-development" >}})
 1. Learn new skills related to your current role, your future career goals, or an area that you're passionate about
-1. Set and reach clearly outlined [goals]({{< ref "okrs" >}}).
+1. Set and reach clearly outlined [goals]({{< ref "/handbook/company/okrs" >}}).
 
 ### Benefits for the mentor
 

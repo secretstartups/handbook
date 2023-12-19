@@ -107,6 +107,15 @@ Subgroups can be ignored (skipped during synchronization) by adding an `ignore` 
 
 Learn more with the [GitLab Inventory Builder Documentation](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/gib/-/blob/main/README.md), and this [example inventory](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/inventory-example).
 
+#### How to add or update your GitLab Project
+
+1. Note the namespace of your project.
+1. Visit <https://gitlab.com/gitlab-com/gl-security/engineering-and-research/inventory/-/tree/main/data/>
+1. Navigate the folder structure to find your project's existing `properties.yml` file.
+    1. If your project does not exist, create a file at `data/your-namespace/your-project/properties.yml`.
+    1. Projects created in GitLab's namespaces are added automatically on a weekly basis.
+1. Open a Merge Request that adds or updates the categories. Remember to "say why, not just what".
+
 ### Websites
 
 Along with the categorization of the projects, the Inventory is also used to link websites we deploy with their projects. The `properties.yml` file can contain a `urls` array to list all the URLs (starting with `https://`) of a project. These URLs are used to validate the SSL configuration of the servers, and insecure findings are reported.

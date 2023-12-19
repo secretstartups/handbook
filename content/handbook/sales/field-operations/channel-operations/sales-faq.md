@@ -372,7 +372,7 @@ The partner requested that the purchase confirmation email with license/activati
 
 This can be actioned by either the GitLab Sales Rep or the partner:
 - The GitLab Sales Rep can [submit an internal support ticket](https://gitlab-com.gitlab.io/support/internal-requests-form/) to request that the support team send the purchase confirmation email to the same end user contact.
-- The partner that received the Gitlab invoice (i.e., Distributor for two-tier deal, Reseller for one-tier deal) can [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new) with the GitLab invoice attached to request the purchase confirmation email be resent to the same end user contact.
+- The partner that received the GitLab invoice (i.e., Distributor for two-tier deal, Reseller for one-tier deal) can [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new) with the GitLab invoice attached to request the purchase confirmation email be resent to the same end user contact.
 
 </details>
 
@@ -381,7 +381,7 @@ This can be actioned by either the GitLab Sales Rep or the partner:
 The partner contacted me saying their customer did not receive the purchase confirmation email with license/activation code due to the PO/Quote listing the wrong end user contact. How can we send the purchase confirmation email to a different end user contact?
 </summary>
 
-The partner that received the Gitlab invoice (i.e., Distributor for two-tier deal, Reseller for one-tier deal) needs to [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new) with the GitLab invoice attached to request the purchase confirmation email be sent to a new end user contact.
+The partner that received the GitLab invoice (i.e., Distributor for two-tier deal, Reseller for one-tier deal) needs to [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new) with the GitLab invoice attached to request the purchase confirmation email be sent to a new end user contact.
 
 **Important to note**, the GitLab Sales Rep cannot change the end user contact post-sale on behalf of the partner or customer. The request to change the end user contact must either be submitted by the (i) partner that received our invoice as outlined above or (ii) customer contact listed as `Sold To Contact` on our final quote (i.e., the person that received the license).
 

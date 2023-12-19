@@ -79,13 +79,13 @@ We run in the `gitlab-analysis` project in Google Cloud Platform (GCP). Airflow 
 
 Within this cluster there are 7 node pools: `highmem-pool`, `production-extraction-task-pool`, `production-extraction-task-pool-highmem`, `dbt-task-pool`, `data-science-pool`, `sales-analytics-pool` and `testing-task-pool`.  Each node pool has a dedicated use for ease of monitoring and resource management.
 
-1) `highmem-pool` - `n1-highmem-8` machine, strictly dedicated to the Airflow server, scheduler, and network components. Does not autoscale.
-2) `production-extraction-task-pool` - `n1-highmem-4` machine, used to run most production Airflow tasks except SCD tasks.  Autoscales from 2-5 nodes.
-3) `production-extraction-task-pool-highmem` - `n1-highmem-8` machine, used to run SCD tasks AND generally other resource intensive tasks that need more resources than the `production-extraction-task-pool`.  Autoscales from 1-3 nodes.
-4) `dbt-task-pool` - `n1-highmem-4` machine, used for everything related to dbt. DAGs running dbt should always be using this task pool. Autoscales from 1-5 nodes.
-5) `data-science-pool` - `n1-highmem-32` machine, used for everything related to data science runs. Autoscales from 0-2 nodes.
-6) `sales-analytics-pool` - `n1-highmem-8` machine, used specifically for the Sales Analytics loads. Autoscales from 0-2 nodes. We might need to change this to always have at least one node always running - at the moment a pod needs to spin up only when the DAG starts running and sometimes it takes too long and the DAG fails.
-7) `testing-pool` - `n1-highmem-4` machine, a pool that does not usually have a running node, but is used to run engineer's locally-launched Airflow tasks.  Autoscales from 1-2 nodes.
+- `highmem-pool` - `n1-highmem-8` machine, strictly dedicated to the Airflow server, scheduler, and network components. Does not autoscale.
+- `production-extraction-task-pool` - `n1-highmem-4` machine, used to run most production Airflow tasks except SCD tasks.  Autoscales from 2-5 nodes.
+- `production-extraction-task-pool-highmem` - `n1-highmem-8` machine, used to run SCD tasks AND generally other resource intensive tasks that need more resources than the `production-extraction-task-pool`.  Autoscales from 1-3 nodes.
+- `dbt-task-pool` - `n1-highmem-4` machine, used for everything related to dbt. DAGs running dbt should always be using this task pool. Autoscales from 1-5 nodes.
+- `data-science-pool` - `n1-highmem-32` machine, used for everything related to data science runs. Autoscales from 0-2 nodes.
+- `sales-analytics-pool` - `n1-highmem-8` machine, used specifically for the Sales Analytics loads. Autoscales from 0-2 nodes. We might need to change this to always have at least one node always running - at the moment a pod needs to spin up only when the DAG starts running and sometimes it takes too long and the DAG fails.
+- `testing-pool` - `n1-highmem-4` machine, a pool that does not usually have a running node, but is used to run engineer's locally-launched Airflow tasks.  Autoscales from 1-2 nodes.
 
 All node pools except the `highmem-pool` have labels and [taints](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/) to manage which node pool launches which Airflow task.
 We intentionally left this pool without any labels and taints so that no loads can ever be allocated to it and it is strictly running Airflow.
@@ -920,7 +920,7 @@ For data sources extracted by Stitch (see extraction table [on the platform page
 
 #### Key based replication tables
 
-For Salesforce, where the connection is running key based incremental extractions, the table is best reset using the `reset table` feature under table settings. Simply put, this will truncate the table in `RAW` and reload/refresh all the data with a complete extract. Stitch manages this appropriately such that there is little disruption to the table in `RAW.SALESFORCE_STITCH`
+For Salesforce, where the connection is running key based incremental extractions, the table is best reset using the `reset table` feature under table settings. Simply put, this will truncate the table in `RAW` and reload/refresh all the data with a complete extract. Stitch manages this appropriately such that there is little disruption to the table in `RAW.SALESFORCE_V2_STITCH`
 
 ![stitch_reset_table.png](stitch_reset_table.png)
 
@@ -963,6 +963,15 @@ WHERE LOWER(table_schema) = '<DATA_SCHEMA>';
 - Delete the cloned extraction job by going into the extraction -> Settings -> Delete
 - Resume the old Stitch replication job so incremental data will start flowing again.
 - ONLY when it is clear that the refreshed data is complete and as expected, drop the old data by running `drop schema clone_<DATA_SCHEMA> cascade;`.
+
+#### Auditing SFDC Stitch data
+After doing a full refresh, it may be useful to audit it against the **source** system itself. This can be done using the Salesforce.com query developer tool.
+
+Here are the steps: 
+1. In 1Pass for account `Salesforce - AnalyticsAPI`, go to the `website` field to access the custom URL.
+1. At the top right under `AnalyticsAPI` dropdown, click Developer Console
+1. Input your query, i.e `select count(id) from contactHistory`
+1. At the bottom left, click `Execute`
 
 ### DBT Full Refresh
 
@@ -1039,7 +1048,7 @@ There are many variables and considerations that need to be evaluated when deter
 1. **Are there incremental dbt models in this lineage:**
 1. **Can the model be set to not full refresh:**  
 
-#### Gitlab.com Postgres Database
+#### GitLab.com Postgres Database
 
 1. **Is there backdated data:** No we don't expect backdated data from gitlab.com.
 1. **How far back can data be backdated:** Not applicable.
@@ -1105,7 +1114,7 @@ The full refresh is costly and comes with a risk that the analyses that are cond
 
 1. Determine which incremental models and lineages have no backdated data behavior and do not need to have any scheduled full refresh. We will use the Backdated Data Considerations for Primary Data Sources (add link) as an input to this review. Configure these models and lineages to never full refresh. The Snowplow data source will be a good candidate for this since there is either a low risk or no risk backdated event data. This has to be done on a model by model, lineage by lineage basis to insure the desired results are achieved.
 
-1. For the models that have backdated data behavior such as service ping and the Gitlab.com Postgres database lineages, consider adding incremental date logic that checks for created/updated records on a rolling 30 day basis. This would allow the daily and weekly analytical use cases to have backdated data available on a rolling 30 day basis. We have installed this technique with the `fct_event` model. It adds more compute to the model build, but it strikes a balance between cost, performance, and providing the business with backdated data. We would need to check that all models in the lineage have the same type of rolling days incremental date logic so that all of the backdated data flows through the lineage.
+1. For the models that have backdated data behavior such as service ping and the GitLab.com Postgres database lineages, consider adding incremental date logic that checks for created/updated records on a rolling 30 day basis. This would allow the daily and weekly analytical use cases to have backdated data available on a rolling 30 day basis. We have installed this technique with the `fct_event` model. It adds more compute to the model build, but it strikes a balance between cost, performance, and providing the business with backdated data. We would need to check that all models in the lineage have the same type of rolling days incremental date logic so that all of the backdated data flows through the lineage.
 
 #### Iteration 3 (FY24-Q2)
 
@@ -1117,36 +1126,49 @@ In some data sources, we have to handle backdated data which is data that is rec
 
 1. Dennis, please add references to Sunday full refresh DAG...
 
-### DBT Model Manual Full Refresh
+### DBT Model Manual Refresh
 
-Use `dbt_full_refresh` DAG to force dbt to rebuild the entire incremental model from scratch.
+Use `dbt_manual_refresh` DAG to force dbt to rebuild the entire incremental model(s) from scratch or to run the incremental load, depending on the parameters.
 
-1. In Airflow set up Variable `DBT_MODEL_TO_FULL_REFRESH` with name of model(s) to refresh following [dbt model selection syntax](https://docs.getdbt.com/docs/running-a-dbt-project/command-line-interface/model-selection-syntax/).  For example, to refresh version models, the value would be `sources.version staging.version`.  To refresh gitlab_dotcom models, the value would be `sources.gitlab_dotcom staging.gitlab_dotcom`.
-<br><img src="airflow_variable_setting.png" alt="airflow_variable_setting" width="400"/></br>
-  - Be careful to copy your model name from any source into the variable field in Airflow. We've seen that this can add invisible characters (like i.e. a line break `\n`) and generate the below statement, which will exclude the `--full-refresh` when executing.
+Go to `DAG` `dbt_manual_refresh` and press Play button and choose option `Trigger DAG w/config`. 
 
-    ```
-    '    dbt --no-use-colors run --profiles-dir '
-    'profile --target prod --models '
-    'gitlab_dotcom_issues_dedupe_source\n'
-    ' --full-refresh ; ret=$?;\n'
-    ```
+![trigger_dag.png](trigger_dag.png)
 
-2. By default `dbt_full_refresh` DAG will be running on `TRANSFORMING_XL` warehouse , in order to modify the warehouse size in case of quick full refresh or in case of performance issue, modify the variable `DBT_WAREHOUSE_FOR_FULL_REFRESH` to desired warehouse size. For the actual list of the actual warehouse's sizes, check [compute-resources](/handbook/business-technology/data-team/platform/#compute-resources)
+This will open the parameter dialog in the following format:
 
-If a bigger warehouse than `XL` is used, an issue has to be created and Data Leadership has to be tagged. Document in the issue why a bigger warehouse is used. Report in the issue **every** run that was applicable, which models were refreshed and their starttime, stoptime and status (`succeeded`, `failed` or `aborted`).
+**Configuration JSON (Optional, must be a dict object)**
 
-3. Manually trigger DAG to run.
-
-dbt command that is run behind is
-
-```
-dbt run --profiles-dir profile --target prod --models DBT_MODEL_TO_FULL_REFRESH --full-refresh
+```json
+{
+    "DBT_MODEL_TO_REFRESH": "{FILL YOU MODEL(s) NAME}",
+    "SNOWFLAKE_WAREHOUSE_FOR_REFRESH": "TRANSFORMING_XS",
+    "DBT_TYPE_FOR_REFRESH": "--full-refresh"
+}
 ```
 
-See the following demo video on how to perform a DBT Full Refresh in Airflow:
+You should fill the values:
+* `DBT_MODEL_TO_REFRESH`: add your model(s) name with name of model(s) to refresh following [dbt model selection syntax](https://docs.getdbt.com/docs/running-a-dbt-project/command-line-interface/model-selection-syntax/). If you have more of them, put a white space among them (ie. `MODEL_1 MODEL_2`)
+* `SNOWFLAKE_WAREHOUSE_FOR_REFRESH`: Allowed values are [`TRANSFORMING_XS`, `TRANSFORMING_S`,`TRANSFORMING_L`,`TRANSFORMING_XL`,`TRANSFORMING_4XL`]
+* `DBT_TYPE_FOR_REFRESH`: The refresh will be full refresh or incremental. Allowed values are [`--full-refresh`, `""`] (either `--full-refresh` or empty string) 
 
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/OIBdemRSAiQ"></iframe></figure>
+> **Note:** If a bigger warehouse than `XL` is used, an issue has to be created and Data Leadership has to be tagged. Document in the issue why a bigger warehouse is used. Report in the issue **every** run that was applicable, which models were refreshed and their starttime, stoptime and status (`succeeded`, `failed` or `aborted`).
+
+For instance, to refresh version models, the value for parameter `DBT_MODEL_TO_REFRESH` would be `sources.version staging.version`. To refresh gitlab_dotcom models, the value would be `sources.gitlab_dotcom staging.gitlab_dotcom`.Once when you filled the data you want, press button `Trigger` and task will start. Example is on the picture below:
+
+![dag_example.png](dag_example.png)
+
+
+`dbt` command that is run behind is:
+
+```bash
+export SNOWFLAKE_TRANSFORM_WAREHOUSE=SNOWFLAKE_WAREHOUSE_FOR_REFRESH
+...
+dbt run --profiles-dir profile --target prod --models DBT_MODEL_TO_REFRESH [--full-refresh|""]
+```
+
+See the following demo video on how to perform a `dbt` Manual refresh in Airflow:
+
+<figure class="video_container"><iframe src="https://youtu.be/pp9S5pLFvq4"></iframe></figure>
 
 
 ## GitLab Data Utilities

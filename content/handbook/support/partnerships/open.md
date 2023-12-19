@@ -10,8 +10,8 @@ Resellers, integrators and other sales and services partners join the
 partner program in the Open track. Open is for all partners in the DevOps
 space, or ItaaS and other adjacent spaces that are committed to investing
 in their DevOps practice buildout. Also, the Open track is for partners seeking
-to develop customers or just wanting to learn about Gitlab and participate in
-the Gitlab partner community. GitLab Open Partners may or may not be
+to develop customers or just wanting to learn about GitLab and participate in
+the GitLab partner community. GitLab Open Partners may or may not be
 transacting partners, and can earn product discounts or referral fees.
 
 ## Contacting Support

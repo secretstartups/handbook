@@ -188,9 +188,9 @@ Ultimate supports the broadest possible range of personas, extending to Portfoli
 
 ### Quotes and Reviews
 
-- "Gitlab is really a full automated service covering all the stages of the project life cycle" [Ahmed K., G2](https://www.g2.com/products/gitlab/reviews/gitlab-review-4479054)
+- "GitLab is really a full automated service covering all the stages of the project life cycle" [Ahmed K., G2](https://www.g2.com/products/gitlab/reviews/gitlab-review-4479054)
 - "Best Code Collaboration Platform For Software Engineering Teams" [Sujay K., G2](https://www.g2.com/products/gitlab/reviews/gitlab-review-4608699)
-- "Gitlab : A professional collaboration tool" [Alay S., G2](https://www.g2.com/products/gitlab/reviews/gitlab-review-4449460)
+- "GitLab : A professional collaboration tool" [Alay S., G2](https://www.g2.com/products/gitlab/reviews/gitlab-review-4449460)
 
 ### Analyst Research
 

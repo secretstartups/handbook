@@ -49,7 +49,7 @@ A strong hypothesis is usually driven by existing evidence. Ask yourself: Why do
 
 | **Start thinking of a problem** | **Questions we need answers to** | **Hypothesis** | **Goal** | **Objectives**
 | ------ | ------ | ------ | ------ | ------ |
-| Let’s imagine that a hotel chain has noticed they have had a lower number of bookings in the last few quarters, but they are unsure why. | {::nomarkdown}<ul><li>Are people not booking because they don’t like the hotels we have? <li>Do we have issues with the website or app? <li>Are our prices too high? <li>Are we missing hotel amenities that customers are looking for?</li></ul>{:/} |
+| Let’s imagine that a hotel chain has noticed they have had a lower number of bookings in the last few quarters, but they are unsure why. | <ul><li>Are people not booking because they don’t like the hotels we have? <li>Do we have issues with the website or app? <li>Are our prices too high? <li>Are we missing hotel amenities that customers are looking for?</li></ul> |
 
 ## Step 3 - Fill out the hypothesis
 
@@ -71,7 +71,7 @@ For example:
 
 | **Start thinking of a problem** | **Questions we need answers to** | **Hypothesis** | **Goal** | **Objectives**
 | ------ | ------ | ------ | ------ | ------ |
-| Let’s imagine that a hotel chain has noticed they have had a lower number of bookings in the last few quarters, but they are unsure why. | {::nomarkdown}<ul><li>Are people not booking because they don’t like the hotels we have? <li>Do we have issues with the website or app? <li>Are our prices too high? <li>Are we missing hotel amenities that customers are looking for?</li></ul>{:/}  | We believe `that by improving the experience of selecting and deciding which of our hotels to stay at` for `users of our website` will achieve `in an increased number of hotel bookings`.
+| Let’s imagine that a hotel chain has noticed they have had a lower number of bookings in the last few quarters, but they are unsure why. | <ul><li>Are people not booking because they don’t like the hotels we have? <li>Do we have issues with the website or app? <li>Are our prices too high? <li>Are we missing hotel amenities that customers are looking for?</li></ul>  | We believe `that by improving the experience of selecting and deciding which of our hotels to stay at` for `users of our website` will achieve `in an increased number of hotel bookings`.
 
 When writing your hypothesis, focus on simple solutions first and keep the scope small. If you’re struggling to articulate your assumptions about users, it’s probably better to start with developing a better understanding of users first, rather than forming weak hypotheses and running aimless research studies.
 
@@ -84,7 +84,7 @@ When writing your hypothesis, focus on simple solutions first and keep the scope
 
 | **Start thinking of a problem** | **Questions we need answers to** | **Hypothesis** | **Goal** | **Objectives**
 | ------ | ------ | ------ | ------ | ------ |
-| Let’s imagine that a hotel chain has noticed they have had a lower number of bookings in the last few quarters, but they are unsure why. | {::nomarkdown}<ul><li>Are people not booking because they don’t like the hotels we have? <li>Do we have issues with the website or app? <li>Are our prices too high? <li>Are we missing hotel amenities that customers are looking for?</li></ul>{:/}  | We believe `that by improving the experience of selecting and deciding which of our hotels to stay at` for `users of our website` will achieve `in an increased number of hotel bookings`. | Understand how people make their travel plans. |
+| Let’s imagine that a hotel chain has noticed they have had a lower number of bookings in the last few quarters, but they are unsure why. | <ul><li>Are people not booking because they don’t like the hotels we have? <li>Do we have issues with the website or app? <li>Are our prices too high? <li>Are we missing hotel amenities that customers are looking for?</li></ul> | We believe `that by improving the experience of selecting and deciding which of our hotels to stay at` for `users of our website` will achieve `in an increased number of hotel bookings`. | Understand how people make their travel plans. |
 
 ## Step 5 - Create research objectives
 
@@ -99,7 +99,7 @@ When writing your hypothesis, focus on simple solutions first and keep the scope
 
 | **Start thinking of a problem** | **Questions we need answers to** | **Hypothesis** | **Goal** | **Objectives**
 | ------ | ------ | ------ | ------ | ------ |
-| Let’s imagine that a hotel chain has noticed they have had a lower number of bookings in the last few quarters, but they are unsure why. | {::nomarkdown}<ul><li>Are people not booking because they don’t like the hotels we have? <li>Do we have issues with the website or app? <li>Are our prices too high? <li>Are we missing hotel amenities that customers are looking for?</li></ul>{:/}  | We believe `that by improving the experience of selecting and deciding which of our hotels to stay at` for `users of our website` will achieve `in an increased number of hotel bookings`.  | Understand how people make their travel plans. | {::nomarkdown}<ul><li>Identify ways people start planning their travel and the tools they use. <li>Understand what elements make it easy for people to plan travel and what elements make it difficult.</li></ul>{:/} |
+| Let’s imagine that a hotel chain has noticed they have had a lower number of bookings in the last few quarters, but they are unsure why. | <ul><li>Are people not booking because they don’t like the hotels we have? <li>Do we have issues with the website or app? <li>Are our prices too high? <li>Are we missing hotel amenities that customers are looking for?</li></ul> | We believe `that by improving the experience of selecting and deciding which of our hotels to stay at` for `users of our website` will achieve `in an increased number of hotel bookings`.  | Understand how people make their travel plans. | <ul><li>Identify ways people start planning their travel and the tools they use. <li>Understand what elements make it easy for people to plan travel and what elements make it difficult.</li></ul> |
 
 The chart below shows the relationship between your research goal and the tasks and questions you will ask your participants in usability tests.
 

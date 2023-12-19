@@ -33,7 +33,7 @@ For a detailed list of SQS Learning Objectives, please visit [this page](/handbo
 
 | DATES | GEO | LOCATION | ISSUE |
 | ------ | ------ | ------ | ------ |
-| December 4th - 15th, 2023  | AMER / EMEA | Virtual | [SQS 36 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/2318) |
+| January 8th - 23rd, 2024  | AMER / EMEA | Virtual | [SQS 36 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/2318) |
 
 ## Past Sales Quick Start (SQS) Workshops
 

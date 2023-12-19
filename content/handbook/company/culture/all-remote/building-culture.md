@@ -173,7 +173,7 @@ In negative feedback, one should be specific about what the problem is. For exam
 
 ## Never take company culture for granted
 
-While the importance of culture is driven home during onboarding, continual reinforcement is required to keep it top-of-mind. In the course of business, it's easy to lose sight of values and culture when focusing on [OKRs]({{< ref "okrs" >}}) and [KPIs]({{< ref "kpis" >}}). However, it is vital for leadership to remind themselves and other team members that values should never be pushed aside or lowered in priority.
+While the importance of culture is driven home during onboarding, continual reinforcement is required to keep it top-of-mind. In the course of business, it's easy to lose sight of values and culture when focusing on [OKRs]({{< ref "/handbook/company/okrs" >}}) and [KPIs]({{< ref "kpis" >}}). However, it is vital for leadership to remind themselves and other team members that values should never be pushed aside or lowered in priority.
 
 *Every* decision a business makes should align with their values. Otherwise, values will be seen as "merely words," and culture will disintegrate.
 

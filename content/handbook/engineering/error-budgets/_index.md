@@ -357,7 +357,7 @@ explorable with Sentry](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/39
 [architecture]: /handbook/engineering/architecture/workflow/
 [categories]: /handbook/product/categories/
 [infra teams]: /handbook/engineering/infrastructure/team/
-[severity]: /handbook/engineering/quality/issue-triage/#availability
+[severity]: /handbook/engineering/infrastructure/engineering-productivity/issue-triage/#availability
 [okr]: /handbook/engineering/#engineering-okr-process
 [eng comms]: /handbook/engineering/#keeping-yourself-informed
 [SLA dashboard]: https://dashboards.gitlab.net/d/general-slas/general-slas?orgId=1&from=now-30d&to=now

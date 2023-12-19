@@ -269,7 +269,7 @@ If you need any additional help please ask the Release Managers in the [#release
 [release/tasks]: https://gitlab.com/gitlab-org/release/tasks/-/issues
 [labels of importance]: #labels-of-importance
 [auto-deploy]: https://www.youtube.com/watch?v=_G-EWRpCAz4
-[severity]: /handbook/engineering/quality/issue-triage/#severity
+[severity]: /handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity
 [#releases]: https://gitlab.slack.com/archives/C0XM5UU6B
 [#f_upcoming_release]: https://gitlab.slack.com/archives/C0139MAV672a
 [#development]: https://gitlab.slack.com/archives/C02PF508L

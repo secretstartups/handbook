@@ -45,12 +45,12 @@ description: "This page discusses the Internal Hiring Process"
 - Please follow the scheduling process for executive scheduling
 - Recruiters will notify CES via Greenhouse once a [Job Change Letter (JCL)]({{< ref "promotions-transfers#job-change-letter" >}}) is ready to be sent.
 
-## People Connect Lead Responsibilities
+## People Connect Responsibilities
 
-- People Connect Leads will handle all eligibility checks for team members applying for an internal opportunity.
+- People Connect will handle all eligibility checks for team members applying for an internal opportunity.
    - For eligibility checks for candidates on the people-connect team please reach out directly to the Director of People Operations.
-- Engage People Connect by emailing people-connect@gitlab.com with the following subject line “Eligibility Check for Internal Team Member”. In the body of the email please include the team member name and the link to their Greenhouse application.
-- People Connect Leads will notify the Recruiter that the eligibility check is completed by tagging them in the private note section in Greenhouse within 48 business hours.
+- Engage People Connect by emailing people-connect@gitlab.com with the following subject line “Eligibility Check for Internal Team Member (Team Member Name)”. In the body of the email please include the team member name and the link to their Greenhouse application.
+- People Connect will reply directly to the email to notify the Recruiter of the eligibility within 48 business hours.
 Ensure you have met your department specific eligibility requirements:
    - Guidelines for performance eligibility:
       - Team members who are assessed at a Performing or Exceeding Performance level during Talent Assessment are eligible to be considered for another role
@@ -66,9 +66,35 @@ Ensure you have met your department specific eligibility requirements:
 ## Hiring Manager Responsibilities
 
 - Hiring Managers will be notified by Recruiter when an internal team member has applied and has completed the necessary eligibility checks as mentioned above, and they will follow the process outlined in the [Talent Acquisition Process Framework]({{< ref "talent-acquisition-framework" >}}) for all candidates.
-- At any stage a team member needs to be declined, it is up to the Recruiter and Hiring Manager to connect to determine the best approach to ensure the appropriate [feedback]({{< ref "guidance-on-feedback" >}}) is given.
 - If a team member moves to offer, the Hiring Manager will connect with the team member's current manager.
 - Hiring Manager will be provided the candidates compensation expectations from the Recruiter. It is up to the hiring manager to propose a compensation aligned with budget, candidate expectations, and internal pay equality.
+
+### Delivering feedback to declined candidates
+
+At any stage a team member needs to be declined, it is up to the Recruiter and Hiring Manager to connect to determine the best approach to ensure the appropriate [feedback]({{< ref "guidance-on-feedback" >}}) is given by the hiring manager. It is important to deliver transparent and honest feedback to the candidate while remaining constructive and focusing on growth.
+
+If the candidate has made it to the hiring manager screen or beyond, hiring managers can consider this approach:
+- Condense the themes from all of the scorecards so that there is a high level, but anonymous summary of what they did well in the interview, and any opportunities for improvement
+- Document your key takeaway as a hiring manager in terms of how this candidate does not have the right competencies for the position
+- Document your key takeaways on what the candidate did well and should continue doing, along with improving other areas to be ready in the future
+- Provide actionable, concrete steps to work on those areas
+- Sync with the candidate to review these topics in a synchronous meeting
+
+A guideline template to prepare for this conversation might look like the following:
+
+**What went well**:
+- Has good examples of making improvements to the area they werre iterviewing for in the past
+
+**Opportunities for improvement**:
+- In general if experience was missing (such as XYZ) when asked a question, they were not able to answer it based on any lessons/training they have taken in preparation for this role
+
+**Key Takeaways (to be delivered synchronously)**:
+
+- They understand the day-to-day responsibilities of this role in terms of (these job requirements), but are not yet prepared for what this looks like long-term around (these other job requirements and challenges they may face). They may be coachable in these areas and have an exceptional history with GitLab, however this position will be demanding on time which may not allow the candidate to get enough support in the role. I would recommend:
+  - Specific actions this candidate can take to get more experience **at GitLab**
+
+If you are not sure what actions they can be taking to be more qualified for your position, you may reference your role's job requirements and/or the [Job Framework](https://docs.google.com/spreadsheets/d/1FX4NBwF099uMBm7mGBtf1orIJZuHEjtiEa3jSbg9jJs/edit#gid=0) for inspiration defining concrete actions.
+
 
 ## Internal Hiring Process Survey
 

@@ -18,7 +18,7 @@ We collaborate with the [Reliability Engineering (SRE)](https://about.gitlab.com
 
 We also provide escalation engineering and triage support for the [Security Incident Response Team ("SIRT")](/handbook/security/security-operations/sirt) and [Security RED Team](/handbook/security/threat-management/red-team) when security anomalies, events, or incidents require AWS/GCP subject matter expertise.
 
-Our focus is on organizational policy management, access request provisioning, and services that are outside of the [Reliability Engineering](https://about.gitlab.com/handbook/engineering/infrastructure/) scope of hosting the Gitlab.com SaaS service, such as the provisioning of demo/sandbox/test infrastructure for team members.
+Our focus is on organizational policy management, access request provisioning, and services that are outside of the [Reliability Engineering](https://about.gitlab.com/handbook/engineering/infrastructure/) scope of hosting the GitLab.com SaaS service, such as the provisioning of demo/sandbox/test infrastructure for team members.
 
 The [Demo Systems](/handbook/customer-success/demo-systems/) provide an always-on shared sandbox environment for demo and experimental use cases that aren't intended for or supported on GitLab.com and don't need dedicated infrastructure to be provisioned for your use case.
 

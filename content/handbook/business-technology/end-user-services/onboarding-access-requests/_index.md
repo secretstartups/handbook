@@ -122,7 +122,7 @@ However, we may be able to work out priority or overnight delivery. We will not 
 
 If you are a hiring manager or member of the hiring/recruiting team, you may check the status and content of a new hires order in the [IT Equipment Order Process Project](https://gitlab.com/gitlab-com/it/end-user-services/issues/it-equipment-order-processing/-/issues/?sort=created_date&state=opened&first_page_size=100)
 
-Estimated Delivery Timelines for Gitlab Hardware
+Estimated Delivery Timelines for GitLab Hardware
 
 - US New Hires - 1-2 weeks (Apple M1 Max Model) and 3-5 weeks (Linux)
 - EMEA New Hires - 1-2 weeks (Apple M1 Max Model) and 3-5 weeks (Linux)
@@ -319,7 +319,7 @@ If you, as a GitLab team member, would like to add a vendor aligned with the cri
 1. When you receive your new laptop, complete the donation.
 
 
-## Gitlab Asset Management
+## GitLab Asset Management
 
 ### Snipe-IT
 
@@ -425,7 +425,7 @@ IT Ops has an automated workflow that triggers upon a notification from PeopleOp
 
 **Final Slack notification**
 
-> The Gitlab Google Workspace account for `<Firstname>``<LastName>` has been archived after 90 days as per our standard offboarding policy.
+> The GitLab Google Workspace account for `<Firstname>``<LastName>` has been archived after 90 days as per our standard offboarding policy.
 
 # Exceptions
 

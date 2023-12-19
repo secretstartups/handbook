@@ -24,24 +24,24 @@ Each release post GitLab recognizes a community contributor as the MVP ("Most Va
 1. Share the post in `#release-post`, `#developer-relations`, `#mr-coaching`, and `#core`.
 1. Link the nomination issue in the `#announcements` Discord channel.
 1. Encourage team members and the wider community to vote by sharing reminders in the above Slack and Discord channels.
-  - Complete by the Monday before the MVP is selected.
+   - Complete by the Monday before the MVP is selected.
 1. Select the MVP in the nomination issue by choosing the [eligible nominee](/handbook/marketing/developer-relations/contributor-success/mvp-process.html#mvp-eligibility) with the most votes
-  - Votes are cast as :thumbsup: emoji under the nominee thread in the issue. Other emoji are not counted, but if a vote is close please remind voters they must use the :thumbsup: to vote.
-  - Complete by the second Thursday of the month.
-  - If no MVP nominations have been added to the MVP issue by the second Thursday of the month, resend reminders to the Slack/Discord channels by sharing the original solicitation posts again. Ping the channel and note the lack of nominations and due date. E.g. in #developer-relations:
+   - Votes are cast as :thumbsup: emoji under the nominee thread in the issue. Other emoji are not counted, but if a vote is close please remind voters they must use the :thumbsup: to vote.
+   - Complete by the second Thursday of the month.
+   - If no MVP nominations have been added to the MVP issue by the second Thursday of the month, resend reminders to the Slack/Discord channels by sharing the original solicitation posts again. Ping the channel and note the lack of nominations and due date. E.g. in #developer-relations:
       ```md
-      @community-team - We only have one (or none) MVP nomination. I’m going to wait until the end of the day, 12pm UTC for other nominations. Please nominate a community contributor that delivered something great for X-Y!
+      @devrel-team - We only have one (or none) MVP nomination. I’m going to wait until the end of the day, 12pm UTC for other nominations. Please nominate a community contributor that delivered something great for X-Y!
       ```
 1. From the current release branch, draft a merge request for adding the new MVP
-  - The first step is switching to the current release branch `release-x-y` in the `www-gitlab-org` project. Using the 15.8 release as an example, navigate to the current release branch directly on GitLab by selecting the `release-15-8` branch from the dropdown menu. If working locally, checkout the `release-15-8` branch.
-  - Navigate to the `mvp.yml` file inside the current release folder under `data/release_posts/x_y`. In this example it would be the `15_8` folder which has a placeholder `mvp.yml` file inside.
-  - Begin drafting the merge request by updating the new MVP name and user handle. Remove the placeholder text for the write-up blurb. Commit the changes on a new branch. When creating the merge request on GitLab make sure your branch is targeting the current release branch `release-x-y` and not targeting `master`.
-  - Follow the steps to collaborate the [MVP write-up blurb](#mvp-write-up-blurb)
-  - Update the [data/mvps.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/mvps.yml) file from your existing merge request
-  - Add release version, MVP name, user handle, release post date and release post URL
-  - Assign another Contributor Success team member to review/merge and double check the merge request is targeting the correct release branch
-  - Ping the [release post manager](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_post_managers.yml) into the MR for awareness.
-  - Merge by the Tuesday of release week.
+   - The first step is switching to the current release branch `release-x-y` in the `www-gitlab-org` project. Using the 15.8 release as an example, navigate to the current release branch directly on GitLab by selecting the `release-15-8` branch from the dropdown menu. If working locally, checkout the `release-15-8` branch.
+   - Navigate to the `mvp.yml` file inside the current release folder under `data/release_posts/x_y`. In this example it would be the `15_8` folder which has a placeholder `mvp.yml` file inside.
+   - Begin drafting the merge request by updating the new MVP name and user handle. Remove the placeholder text for the write-up blurb. Commit the changes on a new branch. When creating the merge request on GitLab make sure your branch is targeting the current release branch `release-x-y` and not targeting `master`.
+   - Follow the steps to collaborate the [MVP write-up blurb](#mvp-write-up-blurb)
+   - Update the [data/mvps.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/mvps.yml) file from your existing merge request
+   - Add release version, MVP name, user handle, release post date and release post URL
+   - Assign another Contributor Success team member to review/merge and double check the merge request is targeting the correct release branch
+   - Ping the [release post manager](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_post_managers.yml) into the MR for awareness.
+   - Merge by the Tuesday of release week.
 1. Award the MVP winner with the MVP achievement using the `MVP Achievements` group access token from the Contributor Success vault.\
    NOTE: You will need the [1Password cli](/handbook/security/password-guidelines.html#cli-integration) installed:
    ```shell
@@ -117,6 +117,6 @@ Every release GitLab chooses a [Most Valuable Person (MVP)](https://about.gitlab
 
 1. Determine MVP after release post is published to the [blog](https://about.gitlab.com/releases/categories/releases/)
 1. Find MVP's contact information
-  * [Contacting contributors](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#contacting-contributors)
+   * [Contacting contributors](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#contacting-contributors)
 1. Send Swag according to our [SWAG operations guide](/handbook/marketing/developer-relations/workflows-tools/swag/)
-  * Note that MVPs currently receive a Tier 3 swag prize
+   * Note that MVPs currently receive a Tier 3 swag prize

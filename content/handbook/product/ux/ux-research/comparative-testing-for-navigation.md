@@ -90,7 +90,7 @@ To report brief/initial findings in Slack or in an Issue, please use the followi
 - Number of usability issues found with each design
     - For example, “Design A had 5 usability issues, Design B had 2 usability issues, and Design C had 6 usability issues.”
 - Top 1-2 usability issues found in each design (highest severity) with a brief description of each
-    - Fill out the usability [severity analysis spreadsheet- (internal link)](https://docs.google.com/spreadsheets/d/1LkQG2NT1-xi352i0K_3arV2bYs7RlvJ2/edit#gid=1835440721) to determine severity of issues
+    - Fill out the [usability severity analysis spreadsheet- (internal link)](https://docs.google.com/spreadsheets/d/1LkQG2NT1-xi352i0K_3arV2bYs7RlvJ2/edit#gid=1835440721) to determine severity of issues
     - For example, “2 out of 3 participants struggled to find a recent project with the new placement of the [button or element name].”
 - Themes around behaviors that led to the usability issue
     - For example, “2 participants expected to find it [somewhere else]

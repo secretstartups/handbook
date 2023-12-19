@@ -1,0 +1,65 @@
+This is a collection of links for monitoring our features.
+
+### Grafana dashboards
+
+- [Import and Integrate group dashboard][grafana-dashboard] which contain:
+    - Links to various Kibana logs, filtered to our feature categories
+    - Our [error budget](#error-budget) spend attribution
+- [Worker queues](https://dashboards.gitlab.net/d/sidekiq-queue-detail/sidekiq-queue-detail?orgId=1&var-PROMETHEUS_DS=Global&var-environment=gprd&var-stage=main&var-queue=jira_connect:jira_connect_sync_branch) where you can switch queues with the `queue` dropdown
+
+### Periscope dashboards
+- [Importer - North star metrics](https://app.periscopedata.com/app/gitlab/661967/Manage:Import-Dashboard)
+
+### Sentry errors
+
+- [Matching "IntegrationsController"](https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+IntegrationsController)
+- [Matching "Integrations"](https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+Integrations)
+- [Matching "Jira"](https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+Jira)
+
+### Kibana logs and dashboards
+
+#### JiraConnect workers
+
+- [`JiraConnect::SyncMergeRequestWorker`](https://log.gprd.gitlab.net/goto/309f97d4a5c3e918e2c07754fefc94ee) errors.
+- [`JiraConnect::SyncBranchWorker`](https://log.gprd.gitlab.net/goto/96364e957898896c4dc7e9ee5534b6de) errors.
+- [`JiraConnect::SyncProjectWorker`](https://log.gprd.gitlab.net/goto/5f0e03847ddc1b074d6346199c8bc4d2) errors.
+- [All JiraConnect sync worker](https://log.gprd.gitlab.net/goto/39348f2d169e6929c41dba2d6fb063ee) timeout errors.
+
+#### Import dashboards
+- [Project Import/Export - Overview](https://log.gprd.gitlab.net/app/dashboards#/view/03a11c50-ba46-11ec-b73f-692cc1ae8214)
+- [GitHub Import - Overview](https://log.gprd.gitlab.net/app/dashboards#/view/62965d10-9c0e-11ed-9f43-e3784d7fe3ca)
+- [GitHub Import - Project import debug](https://log.gprd.gitlab.net/app/dashboards#/view/be0fb6d0-9c24-11ed-85ed-e7557b0a598c)
+- [GitLab Direct Transfer - Overview](https://log.gprd.gitlab.net/app/dashboards#/view/f2640580-a8bd-11ed-85ed-e7557b0a598c)
+
+### Error budgets
+
+GitLab uses [error budgets][error-budgets-handbook] to measure the availability and performance of our features.
+Each engineering group has its own budget spend. The current 28-day spend for the Import and Integrate team
+shows in this [Grafana dashboard][grafana-dashboard].
+
+Error budget spend happens when either of the following exceeds a certain threshold:
+
+- Error rate of an endpoint or worker
+- Apdex (latency) of an endpoint
+
+#### Determine the highest-impact fixes
+
+To determine the highest-priority problems in our [Grafana dashboard][grafana-dashboard]:
+
+1. Go to the **Error budget** panel.
+1. Expand **Budget spend attribution**. The **Budget failures** panel is ordered by top failures.
+1. In **Failure log links**, click the corresponding links.
+
+Fixing the top offenders will have the biggest impact on the budget spend.
+
+#### Further resources
+
+Learn more about error budgets with these resources:
+
+- [Error budgets and how they are calculated][error-budgets-handbook]
+- [What Apdex is and how it works](https://docs.gitlab.com/ee/development/application_slis/rails_request_apdex.html)
+- [Error budget in Grafana dashboards](https://docs.gitlab.com/ee/development/stage_group_observability/index.html#error-budget)
+- [Feature categorization](https://docs.gitlab.com/ee/development/feature_categorization): our code is attributed to us by `feature_category: :api`, `feature_category: :integrations`, `feature_category: :internationalization`, `feature_category: :importers`, and `feature_category: :webhooks`
+
+[error-budgets-handbook]: /handbook/engineering/error-budgets/ "Error budgets handbook page"
+[grafana-dashboard]: https://dashboards.gitlab.net/d/stage-groups-import_and_integrate/stage-groups-import-and-integrate-group-dashboard?orgId=1 "Grafana Error Budget Dashboard for Integrations"

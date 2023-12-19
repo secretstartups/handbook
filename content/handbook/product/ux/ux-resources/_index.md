@@ -98,11 +98,6 @@ Once each quarter, we run a [System Usability Scale (SUS)](/handbook/product/ux/
 
 - [SUS results by quarter](/handbook/product/ux/performance-indicators/#perception-of-system-usability)
 
-### GitLab First Look
-
-At GitLab, we want everyone to be able to contribute. To that end we created First Look where we accept applicants to participate in various studies and testing.
-
-- [GitLab First Look](/handbook/product/ux/ux-research-coordination/first-look-ux-research-panel)
 
 ## UX performance indicators
 

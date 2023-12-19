@@ -101,7 +101,7 @@ As a SaaS company, our Engineering division also has an [infrastructure SRE team
 - [Customer Success Operations](/handbook/sales/field-operations/customer-success-operations/)
 - [Customer Support Operations](/handbook/support/readiness/operations/)
 - [Engineering Infrastructure (Reliability SREs)](https://about.gitlab.com/handbook/engineering/infrastructure/)
-- [Engineering Productivity](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/)
+- [Engineering Productivity](https://handbook.gitlab.com/handbook/engineering/quality/engineering-productivity/)
 - [Engineering Security](/handbook/security/)
 - [Finance Systems](/handbook/business-technology/enterprise-applications/financeops/)
 - [Marketing Operations](/handbook/marketing/marketing-operations/)
@@ -142,7 +142,7 @@ The [IT Engineering - Access Management](/handbook/business-technology/engineeri
 
 The [IT Engineering - Infrastructure](/handbook/business-technology/engineering/infrastructure) team collaborates with the [Engineering Infrastructure Reliability (SRE)](https://about.gitlab.com/handbook/engineering/infrastructure/) and [Infrastructure Security](/handbook/security/security-engineering-and-research/infrastructure-security/) teams to provide Infrastructure Shared Services for all AWS, Azure, and GCP related requests and support across the organization. See the [Infrastructure Standards](/handbook/infrastructure-standards) handbook page to learn more.
 
-Our focus is on organizational policy management, access request provisioning, and services that are outside of the [Reliability Engineering](https://about.gitlab.com/handbook/engineering/infrastructure/) scope of hosting the Gitlab.com SaaS service, such as the provisioning of demo/sandbox/test infrastructure for team members.
+Our focus is on organizational policy management, access request provisioning, and services that are outside of the [Reliability Engineering](https://about.gitlab.com/handbook/engineering/infrastructure/) scope of hosting the GitLab.com SaaS service, such as the provisioning of demo/sandbox/test infrastructure for team members.
 
 The [Demo Systems](/handbook/customer-success/demo-systems/) provide an always-on shared sandbox environment for demo and experimental use cases that aren't intended for or supported on GitLab.com and don't need dedicated infrastructure to be provisioned for your use case.
 

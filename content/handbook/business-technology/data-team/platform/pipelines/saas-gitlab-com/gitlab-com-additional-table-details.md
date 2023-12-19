@@ -1,7 +1,7 @@
 ---
 
-title: "Gitlab.com additional table details"
-description: "Gitlab.com additional table details"
+title: "GitLab.com additional table details"
+description: "GitLab.com additional table details"
 ---
 
 

@@ -95,5 +95,3 @@ There are a number of teams and tools that can assist the CSM and the customer i
 - [GitLab Support](https://gitlab.com/gitlab-com/support/support-team-meta) - If a customer with Premium support has break-fix issues during their migration, our Support team can help.
 - [Reference Architecture Group](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/self-managed-excellence/#reference-architectures) - An internal group led by the Quality team that built and maintains GitLab's reference architectures. They can help analyze GitLab Performance Tool results and provide consultation and recommendations on the use of our reference architectures.
 - GitLab Geo - This team is best reached via our internal Slack in **#g_geo**.
-
-engineering/quality/quality-engineering/self-managed-excellence/index.html#reference-architectures

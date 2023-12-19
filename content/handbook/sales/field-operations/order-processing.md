@@ -860,7 +860,7 @@ To send a digital copy of an Order Form to the customer via DocuSign:
 
  - Once the document has been sent the status will state “Sent.”
  - Once the document has been signed the status will update to “Completed.”
- - You will receive email notifications to your Gitlab email address when the document has been viewed, and when it has been signed.
+ - You will receive email notifications to your GitLab email address when the document has been viewed, and when it has been signed.
 2. **When the document has been fully signed, it will automatically be attached to the opportunity.**
 
 #### Learning Resources:
@@ -1024,7 +1024,7 @@ Quoting:
     AWS Billing ID
     Customer details- Contact name and email who can accept the private offer
     AWS Margin
-1. Order form need not be signed by the customer for AWS deals. By accepting the private offer customer agrees to Gitlab's subscription terms.
+1. Order form need not be signed by the customer for AWS deals. By accepting the private offer customer agrees to GitLab's subscription terms.
 1. Note that Net ARR will reflect the net price on the opportunity, after the margin to AWS is taken into account upon booking. Compensation for AWS deals will be channel neutral specifically for the margin to AWS.
 1. Deal desk will send the private offer after it is created and opportunity owner along with ABDM will be notified.
 

@@ -71,7 +71,7 @@ GitLab supports team members and members of the wider GitLab community who want 
 
 #### Meetup format ideas
 
-Think outside the box. All meetups and community events are diffent. Find what works for your members and fits the event goals.
+Think outside the box. All meetups and community events are different. Find what works for your members and fits the event goals.
 
 - Panel: Ask 3-4 people to share or breakdown their favorite feature
 - Roundtable discussion: Attendees will discuss the new features in a structured manner. Assign someone who will document the pros, cons, and neural thoughts of the new release. Share the discussion with the GitLab DE team.
@@ -168,7 +168,7 @@ We have three levels of Heroes: Contributor, Hero, Superhero. A community member
 
 Community members who are interested in applying for the Heroes program should apply through the [application form](/community/heroes/#apply) on the Heroes page.
 
-The Heroes program is managed by the Evangelist Program Manager with support from the GitLab's Developer Evangelism team. The Evangelist Program Manager leads the review of applications along with the Developer Evangelism team. The Evangelist Program Manager also serves as the main point of contact with the Heroes community, manages Heroes related marketing pages and events, and is responsible for the adminstration of the program including metrics and KPI tracking.
+The Heroes program is managed by the Evangelist Program Manager with support from the GitLab's Developer Evangelism team. The Evangelist Program Manager leads the review of applications along with the Developer Evangelism team. The Evangelist Program Manager also serves as the main point of contact with the Heroes community, manages Heroes related marketing pages and events, and is responsible for the administration of the program including metrics and KPI tracking.
 
 Select Heroes may be asked to join the GitLab Developer Evangelism Community. At that point, those community members will be supported by and engage with the Developer Evangelism team.
 
@@ -297,11 +297,11 @@ The [internal request form](https://gitlab-com.gitlab.io/support/internal-reques
 
 Type of request:
 
-    *  SaaS Subscribtion related
+    *  SaaS Subscription related
     *  SaaS Trial related
     *  Self-Managed Licence Related (paid customer only)
     *  Self-Manged Trial Related
-    *  Other (inclues wider community)
+    *  Other (includes wider community)
 
 Internal team member steps to complete Internal Request Form:
 
@@ -310,7 +310,7 @@ Internal team member steps to complete Internal Request Form:
 * Fill in all the required fields.
 * For the field, What is the plan? Select, Ultimate
 * Leave note in the reason for licence being issue, mention the benefits of GitLab hero program.
-* For approval manager enter, Dev Evangalist, Senior Manager email, jcoghlan.gitlab.com.
+* For approval manager enter, Dev Evangelist, Senior Manager email, jcoghlan.gitlab.com.
 * double check fields - and select submit
 
 ### GitLab Hero Alumni Group
@@ -344,7 +344,7 @@ These are just a few benefits of being an active hero. We look forward to learni
 
 GitLab Heroes swag is available only for GitLab Heroes.
 
-Gitlab Heroes swag fulfillment is managed by Boundless.
+GitLab Heroes swag fulfillment is managed by Boundless.
 
 Note: Process will be updated soon, new merch is coming soon.
 
@@ -503,7 +503,7 @@ If you have questions, you can always reach us by sending an e-mail to `evangeli
 
 ## Community nominations
 
-GitLab team members and members of the wider GitLab community are encouraged to nominate community members to participate in our programs. This is a valuable way to contribute to the growth and sucess of the GitLab community.
+GitLab team members and members of the wider GitLab community are encouraged to nominate community members to participate in our programs. This is a valuable way to contribute to the growth and success of the GitLab community.
 
 To nominate a community member who may be interested in becoming a code contributor or meetup organizer, who actively shares their knowledge of GitLab in talks or blog posts, or who meets [the criteria for the GitLab Heroes program](/community/heroes/#heros-journey), please contact the Developer Relations team by emailing evangelists@gitlab.com.
 

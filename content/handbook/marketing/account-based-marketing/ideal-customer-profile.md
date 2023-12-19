@@ -63,6 +63,6 @@ ABM team to define process here in collaboration with Sales Strategy and Portfol
 | <500 employees | **Attribute** | **Description** |
 | ------ | ------ | ------ |
 | **Core criteria (must haves)** | Number of employees | <500 |
-| | Tech stack (regional) | A lack of technology installed.  GitLab would be the first purchsed for Devops for these companies. |
+| | Tech stack (regional) | A lack of technology installed.  GitLab would be the first purchsed for DevOps for these companies. |
 | | Prospect | First order logo (not a current PAID customer for GitLab anywhere within the organization).  This is defined [here](/handbook/sales/sales-term-glossary/#first-order-customers).  |
 | **Additional criteria (attributes to further define)** | New hire | CIO |

@@ -34,26 +34,29 @@ Solutions Architects record all customer and prospect activity to promote **tran
 
 We have a [standard meeting notes document](https://docs.google.com/document/d/1TlG1ZDKtd3YcV_yZg9YxQ52HRxNCpYXJLyDblxBz-vU/edit?usp=sharing) that is formatted to enable the activity capture in Troops which should be utilised for each customer engagement
 
-## Customer Strategy Planning
+## Customer Success Plan
 
-A customer Strategy Plan is a customer-facing and mutually agreed roadmap for achieving value through GitLab adoption. This is an outcome of collaboration between GitLab Solution Architecture and the customer with the primary objective of ensuring customers are successful.  The process is designed to support shifting from product scoped conversations (focusing on specific features or functions and limited to a specific subset of DevSecOps stages) towards solution (addressing specific pain points) or strategic (shaping business outcomes through holistic organizational process innovation and transformation tied to top strategic initiatives ) scopes. This Strategy Plan starts in the pre-sales process and is intended to carry through to the post-sales [Success Plan](/handbook/customer-success/csm/success-plans/). The customer Success Plan is intended to be dynamic and should therefore be regularly reviewed on an agreed-upon cadence.
+A Customer Success Plan is a customer-facing and mutually agreed roadmap for achieving value through GitLab adoption. This is an outcome of collaboration between GitLab Solution Architecture and the customer with the primary objective of ensuring customers are successful.  The process is designed to support shifting from product scoped conversations (focusing on specific features or functions and limited to a specific subset of DevSecOps stages) towards solution (addressing specific pain points) or strategic (shaping business outcomes through holistic organizational process innovation and transformation tied to top strategic initiatives ) scopes. This Success Plan starts in the pre-sales process and is intended to carry through to the post-sales [Success Plan](/handbook/customer-success/csm/success-plans/). The Customer Success Plan is intended to be dynamic and should therefore be regularly reviewed on an agreed-upon cadence.
 
-Customer Strategy Planning core goal is to identify:
+Customer Success Planning core goal is to identify:
 - Key business stakeholders
 - High-impact strategic requirements
 - Current state of customer technology ecosystem
 - Current and desired capabilities
 - Operational alignment with strategic objectives 
-- Perceived gaps and deficiencies in current capabilities.
+- Perceived gaps and deficiencies in current capabilities
 
-Customer Strategy Planning process:
-1. Solutions Architect assigned to the Account will initiate the process during customer technical discovery (Stage 3 - Technical Evaluation) and will remain the DRI
-1. Solution Architect will utilize [standard template](https://docs.google.com/presentation/d/1npyhUebp68YkccLlJP5R_6gmtQjfELpB1mBGWfroVmY/edit#slide=id.g1f06a8a4d73_0_501) to capture all necessary information in a collaborative session with the customer
-1. Where applicable, Solution Architect will engage other functions (CSM, Professional Services) towards the end of technical evaluation 
-1. Solution Architect will share the results with the customer
-1. Account Team and the customer will agree on the cadence for reviewing and updating the Success Plan during and after the sales cycle
-1. The Customer Success Plan will be shared with the CSM team when the account moves into Post-Sales
-1. The URL to the Success Plan as well as the status will be updated by the Solution Architect in SFDC in a timely manner and before the opportunity closes
+Customer Success Planning process:
+1. The Solutions Architect starts with a [Technical Close Plan](/handbook/customer-success/solutions-architects/sa-practices/technical-close-plan/) during customer technical discovery (Stage 3 - Technical Evaluation) to understand the customer business outcomes and will remain the DRI
+1. After the Technical Evaluation completes successfully, the Solutions Architect will utilize the [standard template](https://docs.google.com/presentation/d/1npyhUebp68YkccLlJP5R_6gmtQjfELpB1mBGWfroVmY/edit#slide=id.g1f06a8a4d73_0_501) in a collaborative session with the customer to capture any necessary information not already captured in the [Technical Close Plan](/handbook/customer-success/solutions-architects/sa-practices/technical-close-plan/), tracking the document in the `Customer Success Plan` field on the opportunity in Salesforce
+1. After the initial Customer Success Plan is drafted, the link to the document will be updated by the Solution Architect in the `Customer Success Plan` field on the opportunity in Salesforce in a timely manner and before the opportunity closes
+1. Where applicable, the Solution Architect will engage other functions (CSM, Professional Services) towards the end of technical evaluation to ensure long-term alignment, using the `CSM Ready` field on the opportunity in Salesforce to indicate plan readiness
+1. The Solution Architect will share the results with the customer, either part of or in support of a proposal
+1. The account team should ask the customer if they are willing to sign the plan as a gesture of joint commitment to the plan
+1. The Solutions Architect should follow the meeting with an email summary, potentially using this [email template](https://gitlab.highspot.com/items/656e20d882b4b085aafe3a3c?lfrm=shp.0), ensuring the customer is aligned with the plan and acceptance is capture
+1. After reviewing and securing buy-in with the customer, capture the acceptance of the Customer Success Plan in Salesforce using the `Customer Accepted` field on the opportunity
+1. The Account Team and the customer will agree on the cadence for reviewing and updating the Success Plan during and after the sales cycle
+1. The Customer Success Plan will be reviewed with the CSM team when the account moves into Post-Sales
 
 
 ## Positioning Professional Services
@@ -192,7 +195,7 @@ Solution Architects should participate in [technical discovery](#technical-disco
 
 - GitLab demos
 - GitLab technical deep dives
-- [Gitlab hands-on workshops & Labs](/handbook/customer-success/solutions-architects/demo-architect/#labshands-on-content)
+- [GitLab hands-on workshops & Labs](/handbook/customer-success/solutions-architects/demo-architect/#labshands-on-content)
 - Whiteboarding sessions
 - Prospect Q&A sessions
 - RFI/RFP completion

@@ -123,7 +123,7 @@ As CSMs have positioned themselves to be more strategic and reach Director, VP, 
 
 #### DevOps
 
-- [Devops Foundations](https://www.linkedin.com/learning/devops-foundations/) (LinkedIn Learning)
+- [DevOps Foundations](https://www.linkedin.com/learning/devops-foundations/) (LinkedIn Learning)
 
 #### Software Development
 
@@ -185,7 +185,7 @@ Access codes and recording links can be found in this [internal doc](https://doc
 
 ### LinkedIn Learning
 
-[Handbook details about LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/).  
+[Handbook details about LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/).
 
 We also have a list of [Recommended Learning Paths](/handbook/people-group/learning-and-development/linkedin-learning/#recommended-learning-paths).
 

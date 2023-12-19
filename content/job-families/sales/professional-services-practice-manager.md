@@ -180,13 +180,13 @@ The Senior Manager, Professional Services Practice Management is a [grade 9](/ha
 
 #### DevOps Transformation Responsibilities
 
-- Design, develop and manage the go-to-market execution of devops transformation services that leverage the GitLab Platform.
+- Design, develop and manage the go-to-market execution of DevOps transformation services that leverage the GitLab Platform.
 - Manage the develoment of delivery automation, documentation and other collateral to ensure high quality of service and repeatability of delivery.
 - Develop collateral to clearly describe and communicate the customer value of the service offerings (i.e., scope, deliverables, pricing)
-- Position, scope and sell initial devops transformation engagements to customers. Incorporate learnings from sales cycles into sales collateral to be used in next iteration of the service offering.
+- Position, scope and sell initial DevOps transformation engagements to customers. Incorporate learnings from sales cycles into sales collateral to be used in next iteration of the service offering.
 - Act as lead consultant and technical program manager of initial delivery of transformation service offering to directly incorporate learnings into next iteration of the service offering.
 - Serve in a player/coach role balancing field delivery with operations and strategy
-- Establish strategic plans and operational practices (e.g., people, skill sets, engagement approaches, processes and policies, enablement and coaching) for devops transformation service.
+- Establish strategic plans and operational practices (e.g., people, skill sets, engagement approaches, processes and policies, enablement and coaching) for DevOps transformation service.
 - Partner with the sales teams to build services forecasts for new and existing services
 - Help to manage resource assignments and staffing levels, including recruitment as needed
 - Identify and implement process and tooling improvements to help project managers and consultants better support external customer professional services requirements
