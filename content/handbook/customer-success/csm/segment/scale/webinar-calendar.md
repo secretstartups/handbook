@@ -6,8 +6,6 @@ title: "CSM/CSE Webinar Calendar"
 
 
 
-
-
 View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM/CSE-related handbook pages.
 
 Watch previously recorded webinars on our [YouTube Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kpczt4pRtyF147Uvn2bGGvq).
@@ -216,7 +214,4 @@ Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligen
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_f8cLG7PeQlyIhI8A18JHUg#/registration)
 
-
-
-
-Check back later for more webinars! 
+Check back later for more webinars & labs! 
