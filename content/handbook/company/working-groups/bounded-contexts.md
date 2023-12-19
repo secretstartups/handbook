@@ -127,3 +127,4 @@ For stages still missing participants we will seek support from Engineering lead
 | Member                | Remy Coutable         | Principal Engineer, Quality |
 | Member                | Eduardo Bonet         | Staff Incubation Engineer, MLOps |
 | Member                | Vij Hawoldar          | Senior Backend Engineer, Fulfillment::Utilization |
+| Member                | Kassio Borges         | Staff Backend Engineer, Plan::Knowledge |
