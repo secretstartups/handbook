@@ -4,12 +4,6 @@ title: "GitLab for Education Program Verification"
 description: "This page contains details regarding the verification process for the GitLab for Education Program."
 ---
 
-
-
-
-
-
-
 # Overview
 This page contains details regarding the verification process for the GitLab for Education Program. GitLab uses a third party, [SheerId](https://www.sheerid.com/), for verification services. The GitLab for Education Program provides SheerId with the [program requirements](/solutions/education/join/#requirements) and the SheerId platform is able to verify if an individual meets our requirements by matching applicant-provided data against authoritative data sources automatically. SheerID instantly confirms whether or not there is a match and either successfully verifies the applicant or rejects the applicant.
 
@@ -24,10 +18,10 @@ The [University Teacher Program form](https://offers.sheerid.com/gitlab/universi
 - Last Name
 - Email Address
 - Job Title
-- Country (drop down list)(*)
+- Country (drop down list)
 - Institution Name (drop down list)
 
-(*) Note: US Embargoed countries are not on the list. SheerID is not able to separate out the two different regions in Ukraine so we have asked them to remove Ukraine entirely from the list of countries. If someone from Ukraine does want to apply, they will need to contact us directly and we will determine if they qualify based on the region of origin.
+For reasons relating to trade controls, we are unable to accept applicants from Cuba, Iran, Syria, North Korea, Russia, Belarus, or Ukraine.
 
 Note: Additional details regarding the verification database limitations can be [found here](https://gitlab.com/gitlab-com/marketing/community-relations/community-operations/community-operations/-/issues/56).
 
