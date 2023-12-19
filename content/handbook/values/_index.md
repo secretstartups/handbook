@@ -329,7 +329,8 @@ We give people agency to focus on what they think is most beneficial. If a meeti
 Agree in writing on measurable goals. Within the company we use [OKRs](/handbook/company/okrs/) for that.
 
 ##### Challenger mindset
-Challenging the status quo can lead to remarkable results - we must never stop. A [challenger mindset](https://books.forbes.com/author-articles/whats-a-challenger-mindset-and-why-adopt-it-in-2021/) requires that we continually ask ourselves bold, difficult questions about our business the problems we solve while resisting complacency. To succeed we must innovate and delight our customers with the value of the products we build. Each win for our customers builds reputational capital we can use to earn the trust of prospects in a competitive market. Our work is never done and we must adapt to the ever changing needs of our customers and the markets we operate in.
+
+Challenging the status quo can lead to remarkable results - we must never stop. A [challenger mindset](https://books.forbes.com/author-articles/whats-a-challenger-mindset-and-why-adopt-it-in-2021/) requires that we continually ask ourselves bold, difficult questions about our business the problems we solve while resisting complacency. To succeed we must innovate and delight our customers with the value of the products we build. Each win for our customers builds reputational capital we can use to earn the trust of prospects in a competitive market. While competition is a feature of capitalism we must focus our efforts inwardly on achieving our very best results for customers to win market share.
 
 ##### Growth mindset
 
