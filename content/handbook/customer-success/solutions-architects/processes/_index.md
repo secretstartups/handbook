@@ -52,8 +52,9 @@ Customer Success Planning process:
 1. After the initial Customer Success Plan is drafted, the link to the document will be updated by the Solution Architect in the `Customer Success Plan` field on the opportunity in Salesforce in a timely manner and before the opportunity closes
 1. Where applicable, the Solution Architect will engage other functions (CSM, Professional Services) towards the end of technical evaluation to ensure long-term alignment, using the `CSM Ready` field on the opportunity in Salesforce to indicate plan readiness
 1. The Solution Architect will share the results with the customer, either part of or in support of a proposal
+1. The account team should ask the customer if they are willing to sign the plan as a gesture of joint commitment to the plan
+1. The Solutions Architect should follow the meeting with an email summary, potentially using this [email template](https://gitlab.highspot.com/items/656e20d882b4b085aafe3a3c?lfrm=shp.0), ensuring the customer is aligned with the plan and acceptance is capture
 1. After reviewing and securing buy-in with the customer, capture the acceptance of the Customer Success Plan in Salesforce using the `Customer Accepted` field on the opportunity
-1. The Solutions Architect should follow the meeting with an email summary, ensuring the customer is aligned with the plan.  The account team should consider using this [email template](https://gitlab.highspot.com/items/656e20d882b4b085aafe3a3c?lfrm=shp.0) to capture acceptance.
 1. The Account Team and the customer will agree on the cadence for reviewing and updating the Success Plan during and after the sales cycle
 1. The Customer Success Plan will be reviewed with the CSM team when the account moves into Post-Sales
 
