@@ -53,6 +53,7 @@ Established Projects are those that have proven their value, are mature, and are
     - Provide the link to the team page in the handbook. This should be the team-specific page that lists the team Slack handle, team members, and board details.
     - Use a custom badge image URL structured as suggested: `https://img.shields.io/badge/maintained_by-{{team_name}}-blue`. Replace `{{team_name}}` with the appropriate test-platform [team name](https://handbook.gitlab.com/handbook/engineering/infrastructure/test-platform/#engage-with-us).
     - After filling in the details, select "Add badge" to create the maintainer badge.
+    - If there are multipler maintainers, create separate maintainer badges 
   - Adhere to [GitLab's code of conduct and privacy policies](https://about.gitlab.com/community/contribute/code-of-conduct/).
 
 #### Project Deprecation
