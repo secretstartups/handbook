@@ -40,7 +40,7 @@ The Associate Sales Operations Analyst is a [grade 5](/handbook/total-rewards/co
 - Salesforce experience and knowledge of enterprise SaaS tools
 - Strong problem solving, project management, interpersonal and organizational skills
 - Ability to use GitLab
-- Aligns with Gitlab Values
+- Aligns with GitLab Values
 - You share our values and work in accordance with those values.
 - [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 - Ability to use GitLab
