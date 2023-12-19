@@ -34,7 +34,6 @@ The key components of our mission are to:
 - **Collaboration and Knowledge sharing** to promote a culture of quality within the team and across departments, enhancing the collective testing acumen and driving better outcomes. 
 - **Adapt and respond** to stay agile and responsive to the evolving needs of the development teams and the broader GitLab community, ensuring our tools and processes remain relevant and effective. 
 
-
 ## Team members
 
 {{< team-by-manager-slug "ghosh-abhinaba" >}}
