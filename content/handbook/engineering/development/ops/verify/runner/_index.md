@@ -18,7 +18,7 @@ By 2025, our vision for GitLab Runner is that the runner's setup and day-to-day 
 
 Our mission is to enable organizations to efficiently run GitLab CI/CD jobs on any computing platform and do so in an operationally efficient and highly secure way at any scale.
 
-This team maps to [Verify](/handbook/product/categories/#verify-stage) devops stage.
+This team maps to [Verify](/handbook/product/categories/#verify-stage) DevOps stage.
 
 ## Product Strategy and Roadmap
 
@@ -318,7 +318,7 @@ Some notes/suggestions:
 
 ### On issues
 
-Issues worked on by the Runner group a group label of `~group::runner`. Issues that contribute to the verify stage of the devops toolchain have the `~devops::verify` label.
+Issues worked on by the Runner group a group label of `~group::runner`. Issues that contribute to the verify stage of the DevOps toolchain have the `~devops::verify` label.
 
 ### Get our attention
 

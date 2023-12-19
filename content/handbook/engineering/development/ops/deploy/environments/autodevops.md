@@ -1,7 +1,7 @@
 ---
 
 title: Auto DevOps
-description: "Auto DevOps is a technology that allows automated application of devops best practices."
+description: "Auto DevOps is a technology that allows automated application of DevOps best practices."
 ---
 
 

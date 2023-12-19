@@ -23,7 +23,7 @@ vision](/direction/verify/). This team is responsible for delivering on the foll
 The Verify:Pipeline Execution Group is focused on supporting the functionality with respect to
 Continuous Integration [use case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/). A key focus for the PE group is delivering features that achieve the outcome we track in our performance indicator.
 
-This team maps to [Verify](/handbook/product/categories/#verify-stage) devops stage.
+This team maps to [Verify](/handbook/product/categories/#verify-stage) DevOps stage.
 
 ## Driving Factors
 
