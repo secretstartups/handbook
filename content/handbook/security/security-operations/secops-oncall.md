@@ -103,7 +103,7 @@ The SIRT On-Call paging workflow is currently designed to follow this escalation
 1. All Security Engineers in the sunny region are paged after 5 minutes of no response, with one designated On-Call Security Engineer per region during the week. During the weekend, one person will have volunteered for sole responsibility of weekend coverage. The on-call page will occur either all at once, or in a round-robin fashion. Team members not designated as the On-Call Security Engineer can and should provide assistance if the On-Call Security Engineer misses the page. When weekend assistance is provided, team members should request taking time off in lieu with their manager, and target 1:1 (hour for hour) time off, immediately following the weekend as long as proper coverage is available.
 1. The Security Operations manager in the sunny region is paged as a backup if the team members don't acknowledge the pages.
 1. Security Managers who volunteer as backups are paged if SIRT does not acknowledge the previous pages.
-1. The Security Operations Director is paged if Security Managers don't acknowledgment the pages.
+1. The Security Operations Director is paged if Security Managers don't acknowledge the pages.
 
 ### SIRT On-Call Paging Duties
 
@@ -113,11 +113,11 @@ The On-Call Engineer's primary concern is to provide timely and adequate respons
 
 If the alarm is not acknowledged, the Security Incident Manager On-Call will be alerted.
 
-Engineers should acknowledge pages within the first 15 minutes, and perform initial triage of potential incidents within the first hour of the initial page.
+Engineers should acknowledge pages within the first 15 minutes, and start performing initial triage of potential incidents within the first hour of the initial page.
 
 ### Security Managers On-Call
 
-In addition to the Security Engineers being On-Call, the Security Managers across the GitLab Security Department act as backups in the event the Security Engineers are unable to acknowledge security pages. PagerDuty will automatically engage the Security Manager On-Call if the Security Engineers don’t acknowledge the first paging attempts.
+In addition to the Security Engineers being On-Call, the Security Managers across the GitLab Security Department act as backups in the event the Security Engineers are unable to acknowledge security pages. PagerDuty will automatically engage the Security Manager On-Call if SIRT doesn’t acknowledge the paging attempts.
 
 It's the responsibility of the Security Manager On-Call to:
 
@@ -132,7 +132,7 @@ During On-Call shifts the Security Engineer On-Call is the Triage DRI and has th
 
 1. Acknowledge and triage pages; delegate
 1. Monitor and triage incidents; delegate
-1. Monitor and triage alerts; delegate
+1. Monitor and triage alerts; delegate alerts that are for their own activity; delegate resulting incidents
 1. Continue critical assignments as determined by management
 
 Weekday only:
