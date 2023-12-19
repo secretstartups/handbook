@@ -330,7 +330,7 @@ Agree in writing on measurable goals. Within the company we use [OKRs](/handbook
 
 ##### Challenger mindset
 
-Challenging the status quo can lead to remarkable results - we must never stop. A [challenger mindset](https://books.forbes.com/author-articles/whats-a-challenger-mindset-and-why-adopt-it-in-2021/) requires that we continually ask ourselves bold, difficult questions about our business the problems we solve while resisting complacency. To succeed we must innovate and delight our customers with the value of the products we build. Each win for our customers builds reputational capital we can use to earn the trust of prospects in a competitive market. While competition is a feature of capitalism we must focus our efforts inwardly on achieving our very best results for customers to win market share.
+Challenging the status quo can lead to remarkable results - we must never stop. A [challenger mindset](https://books.forbes.com/author-articles/whats-a-challenger-mindset-and-why-adopt-it-in-2021/) requires that we continually ask ourselves bold, difficult questions about our business the problems we solve while resisting complacency. To succeed we must innovate and delight our customers with the value of the products we build. A challenger mindset requires a relentless persuit of excellence - we must be [tenacious](https://handbook.gitlab.com/handbook/values/#tenacity). Each win for our customers builds reputational capital we can use to earn the trust of prospects in a competitive market. While competition is a feature of capitalism we must focus our efforts inwardly on achieving our very best results for customers to win market share.
 
 ##### Growth mindset
 
