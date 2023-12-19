@@ -1,0 +1,46 @@
+<% header = "#{filter_value} #{filter_type.capitalize}" %>
+
+### <%= header %>
+
+#### Top Engineering Metrics dashboard
+(<a href="https://app.periscopedata.com/app/gitlab/1000952/Interdepartment-Embedded-Dashboard" target="_blank">Sisense↗</a>)
+<%= partial "handbook/engineering/metrics/partials/_backlog_dashboard.erb", locals: { filter_type: filter_type_for("quality", filter_type), filter_value: filter_value_for('quality', filter_type, filter_value) } %>
+
+#### MR Types dashboard
+(<a href="https://app.periscopedata.com/app/gitlab/976854/Merge-Request-Types-Detail" target="_blank">Sisense↗</a>)
+<%= partial "handbook/engineering/metrics/partials/_mr_types_dashboard.erb", locals: { filter_type: filter_type_for("quality", filter_type), filter_value: filter_value_for('quality', filter_type, filter_value) } %>
+
+#### Development dashboard
+<details>
+(<a href="https://app.periscopedata.com/app/gitlab/681347/Development-Embedded-Dashboard" target="_blank">Sisense↗</a>)
+  <summary><b>Dashboard</b></summary>
+<%= partial "handbook/engineering/metrics/partials/dev_dashboard.erb", locals: { filter_type: filter_type_for("dev", filter_type), filter_value: filter_value_for('dev', filter_type, filter_value) } %>
+</details>
+
+#### Infrastructure dashboard
+<details>
+(<a href="https://app.periscopedata.com/app/gitlab/798401/Infrastructure-Embedded-Dashboard" target="_blank">Sisense↗</a>)
+  <summary><b>Dashboard</b></summary>
+<%= partial "handbook/engineering/metrics/partials/infrastructure_dashboard.erb", locals: { filter_type: filter_type_for("infrastructure", filter_type), filter_value: filter_value_for('infrastructure', filter_type, filter_value) } %>
+</details>
+
+#### Quality dashboard
+<details>
+(<a href="https://app.periscopedata.com/app/gitlab/736012/Quality-Embedded-Dashboard" target="_blank">Sisense↗</a>)
+  <summary><b>Dashboard</b></summary>
+<%= partial "handbook/engineering/metrics/partials/quality_dashboard.erb", locals: { filter_type: filter_type_for("quality", filter_type), filter_value: filter_value_for('quality', filter_type, filter_value) } %>
+</details>
+
+#### UX dashboard
+<details>
+(<a href="https://app.periscopedata.com/app/gitlab/736036/UX-Embedded-Dashboard" target="_blank">Sisense↗</a>)
+  <summary><b>Dashboard</b></summary>
+<%= partial "handbook/engineering/metrics/partials/ux_dashboard.erb", locals: { filter_type: filter_type_for("ux", filter_type), filter_value: filter_value_for('ux', filter_type, filter_value) } %>
+</details>
+
+#### Security dashboard
+<details>
+(<a href="https://app.periscopedata.com/app/gitlab/758795/Appsec-Embedded-Dashboard" target="_blank">Sisense↗</a>)
+  <summary><b>Dashboard</b></summary>
+<%= partial "handbook/engineering/metrics/partials/security_dashboard.erb", locals: { filter_type: filter_type_for("security", filter_type), filter_value: filter_value_for('security', filter_type, filter_value) } %>
+</details>

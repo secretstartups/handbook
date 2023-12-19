@@ -1,0 +1,11 @@
+#### Cross-functional Backlog
+(<a href="https://app.periscopedata.com/app/gitlab/1000952/Interdepartment-Embedded-Dashboard" target="_blank">Sisense↗</a>)
+We also track our backlog of issues, including past due security and infradev issues, and total open SUS-impacting issues and bugs.
+
+<%= partial "handbook/engineering/metrics/partials/_backlog_dashboard.erb", locals: { filter_type: filter_type_for("quality", "development_section"), filter_value: filter_value_for("quality", "development_section", filter_value) } %>
+
+#### Merged Merge Request Types
+(<a href="https://app.periscopedata.com/app/gitlab/976854/Merge-Request-Types-Detail" target="_blank">Sisense↗</a>)
+MR Type labels help us report what we're working on to industry analysts in a way that's consistent across the engineering department. The dashboard below shows the trend of MR Types over time and a list of merged MRs.
+
+<%= partial "handbook/engineering/metrics/partials/_mr_types_dashboard.erb", locals: { filter_type: filter_type_for("quality", "development_section"), filter_value: filter_value_for("quality", "development_section", filter_value) } %>
