@@ -111,7 +111,7 @@ The On-Call Engineer's primary concern is to provide timely and adequate respons
 1. Acknowledge the alarm in the corresponding alert Slack channel or through PagerDuty directly.
 1. Review incident's GitLab issue and follow the checklists posted there for triaging.
 
-If the alarm is not acknowledged within 30 minutes, the Security Incident Manager On-Call will be alerted.
+If the alarm is not acknowledged, the Security Incident Manager On-Call will be alerted.
 
 Engineers should acknowledge pages within the first 15 minutes, and perform initial triage of potential incidents within the first hour of the initial page.
 
