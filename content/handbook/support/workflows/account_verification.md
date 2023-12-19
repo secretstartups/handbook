@@ -15,7 +15,7 @@ This workflow covers how a user can provide account verification. While the work
 
 ### User Account Verification
 
-As of Aug 16, 2023, Gitlab.com now requires that users without 2FA enabled verify their email address when a login attempt meets certain high-risk criteria. Review the [blog post](https://about.gitlab.com/blog/2023/08/08/gitlab-account-security/) announcing this change. If a user contacts support with questions, use the `Support::SaaS::Abuse::Email Address Verification` macro.
+As of Aug 16, 2023, GitLab.com now requires that users without 2FA enabled verify their email address when a login attempt meets certain high-risk criteria. Review the [blog post](https://about.gitlab.com/blog/2023/08/08/gitlab-account-security/) announcing this change. If a user contacts support with questions, use the `Support::SaaS::Abuse::Email Address Verification` macro.
 
 If the user has questions about the email, phone, or credit card verification GitLab is requiring, please refer to the [Internal Handbook for the workflow](https://internal.gitlab.com/handbook/support/#phone-number-verification-issues) to follow.
 
@@ -94,7 +94,7 @@ See the [Enterprise User section]({{< ref "gitlab-com_overview.md#enterprise-use
 
 #### Conditions when account is used to access Customers Portal
 
-[Customers Portal](https://customers.gitlab.com) requires all customers to access through a [Linked Gitlab Account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#link-a-gitlabcom-account).
+[Customers Portal](https://customers.gitlab.com) requires all customers to access through a [Linked GitLab Account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#link-a-gitlabcom-account).
 
 The user is eligible and 2FA can be reset when **one** of following conditions are met:
 

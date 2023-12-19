@@ -63,12 +63,12 @@ links:
 
 - [Pagerduty audit workflow](/handbook/support/readiness/operations/docs/policies/pagerduty_audit)
 
-#### Gitlab.com
+#### GitLab.com
 
 The best resources for learning this are the above video and the following
 links:
 
-- [Gitlab.com audit workflow](/handbook/support/readiness/operations/docs/policies/gitlab-com_audit)
+- [GitLab.com audit workflow](/handbook/support/readiness/operations/docs/policies/gitlab-com_audit)
 
 #### 1Password
 
