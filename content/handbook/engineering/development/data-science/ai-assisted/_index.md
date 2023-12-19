@@ -1,14 +1,7 @@
 ---
-
 title: AI Model Validation Group
 description: "The AI Assisted gruop is focused on how to extend GitLab functionality to provide additional value by leveraging ML/AI."
 ---
-
-
-
-
-
-
 
 ## Vision
 
@@ -50,21 +43,22 @@ The following people are permanent members of the AI Assisted Group:
 
 ## How to contact us
 
-* Tag a team member in a merge request or issue
-* Post a message in the #g_ai_assisted channel (internal only)
+- Tag a team member in a merge request or issue
+- Post a message in the #g_ai_assisted channel (internal only)
 
 ##  Responsibilities
 
-Team responsibilites include:
-* Creating, testing, and tuning ML models
-* Creating PoCs for AI features, all in accordance with the product roadmap and alignment between the AI Assisted and AI Framework teams. The PoC proves the concept. It doesn't need to implement non-functional requirements such as performance, availability, maintainability, observability, etc.  A PoC may also be written a different language than what is implemented in production (Python to Ruby or vice-versa).  This is similar to how [the vulnerability research and secure development teams operate](https://about.gitlab.com/handbook/engineering/development/sec/secure/vulnerability-research/#how-we-work).
-* Turning these PoCs over to the relevant product group (such as AI Framework formerly called AI Enablement) to be productized and supported long-term. This is a similar to how the [vulnerability research team](/handbook/engineering/development/sec/secure/vulnerability-research/) operates (examples of the transition process followed for [LicenseDB](https://docs.google.com/document/d/1NQwdmgngmFLS-0iA5DhywKf_8H7w0oJQfmWRPyKG5i0/edit#heading=h.xr5pzhtyxvhi) and [VET](https://docs.google.com/presentation/d/1VAtshsRQaF9PRSNGL-A9uDQUm38k7tBxDrhRqGrWqzc/edit#slide=id.p)).
+Team responsibilities include:
+
+- Creating, testing, and tuning ML models
+- Creating PoCs for AI features, all in accordance with the product roadmap and alignment between the AI Assisted and AI Framework teams. The PoC proves the concept. It doesn't need to implement non-functional requirements such as performance, availability, maintainability, observability, etc.  A PoC may also be written a different language than what is implemented in production (Python to Ruby or vice-versa).  This is similar to how [the vulnerability research and secure development teams operate](https://about.gitlab.com/handbook/engineering/development/sec/secure/vulnerability-research/#how-we-work).
+- Turning these PoCs over to the relevant product group (such as AI Framework formerly called AI Enablement) to be productized and supported long-term. This is a similar to how the [vulnerability research team](/handbook/engineering/development/sec/secure/vulnerability-research/) operates (examples of the transition process followed for [LicenseDB](https://docs.google.com/document/d/1NQwdmgngmFLS-0iA5DhywKf_8H7w0oJQfmWRPyKG5i0/edit#heading=h.xr5pzhtyxvhi) and [VET](https://docs.google.com/presentation/d/1VAtshsRQaF9PRSNGL-A9uDQUm38k7tBxDrhRqGrWqzc/edit#slide=id.p)).
 
 ## Short term priorities
 
-* Improving the user acceptance rate of code suggestions.
-* Keeping the current AI gateway running and working until AI Framework takes over production support for it (with continued collaboration from those who know it).
-* Custom evaluation pipelines (prompt library) - [Epic](https://gitlab.com/groups/gitlab-org/modelops/applied-ml/code-suggestions/-/epics/10) 
+- Improving the user acceptance rate of code suggestions.
+- Keeping the current AI gateway running and working until AI Framework takes over production support for it (with continued collaboration from those who know it).
+- Custom evaluation pipelines (prompt library) - [Epic](https://gitlab.com/groups/gitlab-org/modelops/applied-ml/code-suggestions/-/epics/10)
 
 
 ## Project management process
@@ -85,9 +79,9 @@ We use an epic roadmap to track epic progress on a quarterly basis.
 We use issue boards to track progress to track issue progress. Issue boards are our single source of truth for the status of our work. Issue boards should be viewed at the highest group level for visibility into all nested projects in a group.
 
 Currently, we have two boards for two different initiatives:
-* [Code Suggestions](https://gitlab.com/groups/gitlab-org/-/boards/5885823?label_name%5B%5D=Category%3ACode%20Suggestions) - collaboration across AI Assisted and AI Framework groups
-* [AI Assisted Research](https://gitlab.com/groups/gitlab-org/-/boards/5929371?label_name[]=Category%3ACode%20Suggestions&label_name[]=group%3A%3Aai%20assisted)
 
+- [Code Suggestions](https://gitlab.com/groups/gitlab-org/-/boards/5885823?label_name%5B%5D=Category%3ACode%20Suggestions) - collaboration across AI Assisted and AI Framework groups
+- [AI Assisted Research](https://gitlab.com/groups/gitlab-org/-/boards/5929371?label_name[]=Category%3ACode%20Suggestions&label_name[]=group%3A%3Aai%20assisted)
 
 ### Iteration
 
@@ -99,7 +93,7 @@ Refinement is the responsibility of every team member. Every Friday, Slack will 
 
 Each engineer is expected to provide a quick async issue update by commenting on their assigned issues using the following template:
 
-```
+```markdown
 <!---
 Please be sure to update the workflow labels of your issue to one of the following (that best describes the status)"
 - ~"workflow::In dev"
@@ -126,6 +120,7 @@ Our team follows the [Product Development Timeline](/handbook/engineering/workfl
 We use issue labels to keep us organized. Every issue has a set of required labels that the issue must be tagged with. Every issue also has a set of optional labels that are used as needed.
 
 **Required labels**
+
 - Stage: `~devops::modelops`
 - Group: `~group::AI Assisted`
 
@@ -134,6 +129,7 @@ We use issue labels to keep us organized. Every issue has a set of required labe
 MR labels can mirror issue labels (which is automatically done when created from an issue), but only certain labels are required for correctly [measuring engineering performance](#measuring-engineering-performance).
 
 **Required labels**
+
 - Stage: `~devops::modelops`
 - Group: `~group::AI Assisted`
 
@@ -164,9 +160,6 @@ We are always exploring new tools and frameworks to optimize the ML workflow . C
 - Opensource tools for Model Monitoring and Observability
 - [Code Suggestion Architecture ] (https://docs.gitlab.com/ee/architecture/blueprints/ai_gateway/#example-feature-code-suggestions)
 
-
-
-
 ### Demos
 
 We periodically showcase demos, and if there is any specific demo on Machine learning that would be beneficial, we would love to hear from you. We have monthly demo days when the team presents recent work done in ML, answers questions relevant to ML, and makes tutorials.  Here is a list
@@ -175,9 +168,6 @@ We periodically showcase demos, and if there is any specific demo on Machine lea
 - [Suggested Reviewer MLOPS pipeline using GitLab]
 - [Prompt Template for LLM's] (https://youtu.be/jR8Czar0cU8)
 
+{{% cross-functional-dashboards filters="Applied Ml" %}}
 
-
-
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Applied Ml" } %>
-
-<%# TBD Mon to update as the dashboads are empty %>
+<!-- <%# TBD Mon to update as the dashboads are empty %> -->

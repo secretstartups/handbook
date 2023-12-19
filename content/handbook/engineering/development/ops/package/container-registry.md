@@ -1,13 +1,6 @@
 ---
-
 title: Package:Container Registry Group
 ---
-
-
-
-
-
-
 
 ## The Team
 
@@ -20,13 +13,13 @@ stage](/handbook/engineering/development/ops/package/), which integrates with [G
 
 The following people are permanent members of the Container Registry Group:
 
-<%= direct_team(role_regexp: /Container Registry/, manager_slug: 'crystalpoole') %>
+{{< team-by-manager-slug manager="crystalpoole" team="Container Registry" >}}
 
 ### Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Package/, manager_slug: 'crystalpoole') %>
+{{< stable-counterparts manager="crystalpoole" role="[,&] Package" >}}
 
 ## How We Work
 
@@ -74,20 +67,20 @@ Here is the [standard, company-wide process for OKRs](https://about.gitlab.com/c
 
 We measure the value we contribute by using [performance indicator metrics](/handbook/product/performance-indicators/). The primary metric used for the Package Registry group is the number of monthly active users or GMAU.
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Container Registry" } %>
+{{% cross-functional-dashboards "Container Registry" %}}
 
 ### What Are We Working On
 
 Here is a list of active projects and initiatives that we are currently working on, along with the corresponding [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/):
 
-| Project                                                                                                                                        | DRI                                              | Backup DRI                                       |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| [Release container registry with metadata database and online GC for self-managed installs](https://gitlab.com/groups/gitlab-org/-/epics/5521) | [@hswimelar](https://gitlab.com/hswimelar)       |                                                  |
-| [Storage and limits management for the Container Registry](https://gitlab.com/groups/gitlab-org/-/epics/7225)                                  | [@jdrpereira](https://gitlab.com/jdrpereira)     | [@suleimiahmed](https://gitlab.com/suleimiahmed) |
-| [Container Registry AMAU: Track usage](https://gitlab.com/groups/gitlab-org/-/epics/8213)                                                      | [@jaime](https://gitlab.com/jaime)               |                                                  |
-| [Allow renaming/moving groups and projects with container repositories](https://gitlab.com/groups/gitlab-org/-/epics/9459)                     | [@suleimiahmed](https://gitlab.com/suleimiahmed) |                                                  |
-| [Data transfer visibility for the Container Registry](https://gitlab.com/groups/gitlab-org/-/epics/8732)                                       | [@jdrpereira](https://gitlab.com/jdrpereira)     |                                                  |
-| [Implement auto deployments for the Container Registry](https://gitlab.com/groups/gitlab-org/-/epics/7998)                                     | [@suleimiahmed](https://gitlab.com/suleimiahmed) |                                                  |
+| Project                                                                                                                                        | DRI                                  | Backup DRI                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------- |
+| [Release container registry with metadata database and online GC for self-managed installs](https://gitlab.com/groups/gitlab-org/-/epics/5521) | {{< member-by-gitlab hswimelar >}}   |                                       |
+| [Storage and limits management for the Container Registry](https://gitlab.com/groups/gitlab-org/-/epics/7225)                                  | {{< member-by-gitlab jdrpereira >}}  | {{< member-by-gitlab suleimiahmed >}} |
+| [Container Registry AMAU: Track usage](https://gitlab.com/groups/gitlab-org/-/epics/8213)                                                      | {{< member-by-gitlab jaime >}}       |                                       |
+| [Allow renaming/moving groups and projects with container repositories](https://gitlab.com/groups/gitlab-org/-/epics/9459)                     | {{< member-by-gitlab suleimiahmed >}}|                                       |
+| [Data transfer visibility for the Container Registry](https://gitlab.com/groups/gitlab-org/-/epics/8732)                                       | {{< member-by-gitlab jdrpereira >}}  |                                       |
+| [Implement auto deployments for the Container Registry](https://gitlab.com/groups/gitlab-org/-/epics/7998)                                     | {{< member-by-gitlab suleimiahmed >}}|                                       |
 
 ## Documentation
 

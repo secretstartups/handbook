@@ -1,14 +1,7 @@
 ---
-
 title: Secure, Composition Analysis
 description: "The Composition Analysis group at GitLab is charged with developing solutions which perform Container and Dependency Scanning and License Compliance."
 ---
-
-
-
-
-
-
 
 ## Composition Analysis
 
@@ -18,9 +11,9 @@ See [the exhaustive list of projects](#projects) the group maintains.
 
 ## Common Links
 
-* Slack channel: #g_secure-composition-analysis
-* Slack alias: @secure_composition_analysis_dev
-* Google groups: composition-analysis-dev@gitlab.com
+- Slack channel: #g_secure-composition-analysis
+- Slack alias: @secure_composition_analysis_dev
+- Google groups: composition-analysis-dev@gitlab.com
 
 ## How we work
 
@@ -493,7 +486,7 @@ Before releasing an analyzer with a newer version of its upstream scanner, we mu
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Composition Analysis" } %>
+{{% cross-functional-dashboards filters="Composition Analysis" %}}
 
 ## Monitoring
 

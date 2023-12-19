@@ -1,13 +1,6 @@
 ---
-
 title: API Security team in the Dynamic Analysis Group
 ---
-
-
-
-
-
-
 
 ## API Security
 
@@ -56,15 +49,16 @@ There are several maintenance tasks that need to be completed each milestone. Ea
 When opening up issues, the following label snippet often added:
 
 ```
-/label ~"Category:API Security" 
-/label ~"group::dynamic analysis" 
-/label ~"devops::secure" 
+/label ~"Category:API Security"
+/label ~"group::dynamic analysis"
+/label ~"devops::secure"
 /label ~"backend"
 /label ~"section::sec"
 ```
 
-### Dashboards 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Dynamic Analysis" } %>
+### Dashboards
+
+{{% cross-functional-dashboards filters="Dynamic Analysis" %}}
 
 #### Targets
 
@@ -72,7 +66,7 @@ For our Merge Request types, we have an initial soft target ratio of 60% feature
 
 ### Support Requests
 
-The Dynamic Analysis engineering team provides support to GitLab Support Engineers [following the process outlined in the Sec Section support project](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help/). 
+The Dynamic Analysis engineering team provides support to GitLab Support Engineers [following the process outlined in the Sec Section support project](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help/).
 
 ## Issue Boards
 

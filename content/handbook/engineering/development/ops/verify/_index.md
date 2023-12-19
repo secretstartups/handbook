@@ -1,14 +1,7 @@
 ---
-
 title: "Verify Stage"
 description: "The verify development group handbook page."
 ---
-
-
-
-
-
-
 
 ## Vision
 
@@ -64,19 +57,19 @@ Pipeline Authoring and Pipeline Execution are closely related but they also repr
 
 ### Verify:Pipeline Execution
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Verify:Pipeline Execution') %>
+{{< team-by-manager-role "Engineering Manager(.*)Verify:Pipeline Execution" >}}
 
 ### Verify:Pipeline Authoring
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Verify:Pipeline Authoring') %>
+{{< team-by-manager-role "Engineering Manager(.*)Verify:Pipeline Authoring" >}}
 
 ### Verify:Runner
 
-<%= direct_team(manager_role: 'Senior Engineering Manager, Verify:Runner') %>
+{{< team-by-manager-role "Engineering Manager(.*)Verify:Runner" >}}
 
 ### Verify:Pipeline Security
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Verify:Pipeline Security') %>
+{{< team-by-manager-role "Engineering Manager(.*)Verify:Pipeline Security" >}}
 
 ## How we work
 
@@ -154,17 +147,7 @@ or no issues were found by the Verify maintainer.
 
 The following members of other functional teams are our stable counterparts:
 
-<%=
-role_regexp = /[,&] Verify/
-direct_manager_role = 'Senior Manager, Engineering, Verify'
-other_manager_roles = [
-  'Fullstack Engineering Manager, Verify:Pipeline Authoring',
-  'Fullstack Engineering Manager, Verify:Pipeline Execution',
-  'Senior Engineering Manager, Verify:Runner',
-  'Fullstack Engineering Manager, Verify:Pipeline Security'
-]
-stable_counterparts(role_regexp: role_regexp, direct_manager_role: direct_manager_role, other_manager_roles: other_manager_roles)
-%>
+{{< stable-counterparts role="[,&] Verify" manager-role="Senior Manager(.*)Engineering(.*)Verify" other-manager-roles="Engineering Manager(.*)Verify:Pipeline Authoring|Engineering Manager(.*)Verify:Pipeline Execution|Engineering Manager(.*)Verify:Runner|Engineering Manager(.*)Verify:Pipeline Security" >}}
 
 ### Async Work Week
 

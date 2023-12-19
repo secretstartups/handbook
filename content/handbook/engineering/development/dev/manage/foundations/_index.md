@@ -1,14 +1,7 @@
 ---
-
 title: Manage Foundations Team
 description: The Manage Foundations team is responsible for foundational Frontend work and our Design System Pajamas.
 ---
-
-
-
-
-
-
 
 <!-- Common Links -->
 [engineering workflow]: /handbook/engineering/workflow/
@@ -27,7 +20,7 @@ We hope it's a good entry point to learn more about who we are and what we do.
 
 ## Team Members
 
-<%= shared_team_members(role_regexps: [/Manager,.+Foundations/, /Designer,.+Foundations/, /Engineer,.+Foundations/]) %>
+{{% stable-counterparts role="Manage:Foundations" %}}
 
 ## What do we work on?
 
@@ -39,7 +32,7 @@ We hope it's a good entry point to learn more about who we are and what we do.
     [GitLab UI] and [GitLab] match the desired user experience, guidelines, and visual design.
 
     The Foundations team does the preparation work necessary so that other Engineers at GitLab
-    and members from the wider community can help out with these efforts. 
+    and members from the wider community can help out with these efforts.
 
     **Do you want to contribute?** Please see [this issue for a good entry point](https://picker.pajamasmigrationday.com/).
 
@@ -106,7 +99,7 @@ Here are some resources team members can use for employee development:
 
 ## Metrics
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Foundations" } %>
+{{% cross-functional-dashboards filters="Foundations" %}}
 
 ## Team onboarding
 

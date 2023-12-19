@@ -119,4 +119,4 @@ See the [Geo Glossary](https://docs.gitlab.com/ee/administration/geo/glossary.ht
 
 ## Dashboards
 
-{{% cross-function-dashboard filters="Geo" %}}
+{{% cross-functional-dashboards filters="Geo" %}}

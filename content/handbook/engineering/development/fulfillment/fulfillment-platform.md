@@ -1,35 +1,27 @@
 ---
-
 title: Fulfillment Platform Team
 description: "The Fulfillment Platform Team of the Fulfillment Sub-department at GitLab"
 ---
 
-
-
-
-
-
-
 ## Vision
 
-More details about the product vision for Fulfillment Platform, can be found on our [Fulfillment Platform direction](direction/fulfillment/platform/) page. 
+More details about the product vision for Fulfillment Platform, can be found on our [Fulfillment Platform direction](direction/fulfillment/platform/) page.
 
-For a wider picture of the product vision for the Fulfillment section, please see the [Fulfillment direction](direction/fulfillment) page. 
+For a wider picture of the product vision for the Fulfillment section, please see the [Fulfillment direction](direction/fulfillment) page.
 
 The Platform group manages the [Platform category](/handbook/product/categories/#platform-group).
 
 ## Team members
 
-<%= direct_team(role_regexp: /[,&] Fulfillment:Fulfillment Platform/, manager_role: 'Fullstack Engineering Manager, Fulfillment:Fulfillment Platform') %>
+{{< team-by-manager-role role="Manager, Fulfillment:Fulfillment Platform" team="[,&] Fulfillment:Fulfillment Platform" >}}
 
 ## Stable counterparts
 
-<%= stable_counterparts(role_regexp: /[,&] Fulfillment((?!:)|:Fulfillment Platform)/, direct_manager_role: 'Fullstack Engineering Manager, Fulfillment:Fulfillment Platform') %>
-
+{{< stable-counterparts manager="Manager, Fulfillment:Fulfillment Platform" role="(?i)Fulfillment Platform|(?i)Fulfillment section" >}}
 
 ## Performance indicators
 
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Fulfillment Platform" } %>
+{{% engineering/child-dashboards filters="Fulfillment Platform" %}}
 
 For Product Performance Indicators please visit the [internal handbook](https://internal.gitlab.com/handbook/company/performance-indicators/product/fulfillment-section/).
 
@@ -46,7 +38,7 @@ We want to use our Architecture Review meeting to invite other people from the [
 - Upcoming projects that need cross-group collaboration (e.g. [CustomersDot BillingAccount can have multiple CustomersDot Users](https://gitlab.com/groups/gitlab-org/-/epics/8951)).
 - Intake and proposals to enable other Fulfillment groups to be more efficient.
 - Architectural reviews and suggestions (e.g. spikes from other teams) that impact the CDot architecture.
-- Topics related to our Zuora integration. 
+- Topics related to our Zuora integration.
 
 ### Meeting routine and agenda
 

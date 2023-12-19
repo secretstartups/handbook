@@ -1,14 +1,7 @@
 ---
-
 title: Growth Stage
 description: "The Growth Stage consists of development teams working in the product delivering enhancements and running experiments"
 ---
-
-
-
-
-
-
 
 ## Vision
 
@@ -43,7 +36,9 @@ Some useful links to see how and what we are working on include:
 Growth teams contribute to a GitLab [experimentation](/handbook/engineering/development/growth/experimentation/) gem to make it easier to run experiments and make data driven product decisions on GitLab.com.
 
 ## Roadmap
+
 Our current roadmap can be accessed through our quarterly OKR planning issues:
+
 * [FY24 Q3](https://gitlab.com/gitlab-org/gitlab/-/issues/420650)
 * [FY24 Q4](https://gitlab.com/gitlab-org/gitlab/-/issues/428640)
 
@@ -51,27 +46,29 @@ Our current roadmap can be accessed through our quarterly OKR planning issues:
 
 ### People Leaders in Development
 
-<%= shared_team_members(role_regexps: [/(Director of Engineering for Growth, Sec, and Data Science|Senior Engineering Manager, Anti-Abuse, Govern, and Growth|Engineering Manager, Growth)/i]) %>
+{{< members-by-role role="Growth and Govern" >}}
 
 ### All Team Members
 
 The following people are permanent members of groups that belong to the Growth stage:
 
 #### Acquisition
-<%= department_team(base_department: "Acquisition Team") %>
+
+{{< team-by-departments department="Acquisition Team" >}}
 
 #### Activation
-<%= department_team(base_department: "Activation Team") %>
+
+{{< team-by-departments department="Activation Team" >}}
 
 ### Business Continuity - Coverage and Escalation
 
 The following table shows who will provide cover if one or more of the Growth Stage management team are unable to work for any reason.
 
-| Team Member        | Covered by            | Escalation            |
-| -----              | -----                 | -----                 |
-| Wayne Haber        | Phil Calder           | Bartek Marnane |
-| Phil Calder        | Kamil Niechajewicz    | Wayne Haber           |
-| Kamil Niechajewicz | Phil Calder           | Wayne Haber           |
+| Team Member                                 | Covered by                                     | Escalation                              |
+|---------------------------------------------|------------------------------------------------|-----------------------------------------|
+| {{< member-by-name "Wayne Haber" >}}        | {{< member-by-name "Phil Calder" >}}           | {{< member-by-name "Bartek Marnane" >}} |
+| {{< member-by-name "Phil Calder" >}}        | {{< member-by-name "Kamil Niechajewicz" >}}    | {{< member-by-name "Wayne Haber" >}}    |
+| {{< member-by-name "Kamil Niechajewicz" >}} | {{< member-by-name "Phil Calder" >}}           | {{< member-by-name "Wayne Haber" >}}    |
 
 If an issue arises - such as a production incident or feature change lock - that a team member needs management support with when their direct manager is not online, the team member should reach out to any Growth Engineering Manager by mentioning in `#sd_growth_engineering`. The Growth manager can help the team member follow the process and co-ordinate to ensure the team member has the necessary support.
 
@@ -91,15 +88,7 @@ features and experiments that measure the impact of changes to our messaging, UX
 
 The following members of other functional teams are our stable counterparts:
 
-<%=
-role_regexp = /[,&] (Growth)/
-direct_manager_role = 'Director of Engineering for Secure, Govern, and Growth'
-other_manager_roles = [
-  'Engineering Manager, Growth and Govern:Threat Insights',
-  'Senior Engineering Manager, Govern and Growth'
-]
-stable_counterparts(role_regexp: role_regexp, direct_manager_role: direct_manager_role, other_manager_roles: other_manager_roles)
-%>
+{{< stable-counterparts role="Growth" manager-role="Director of Engineering for Secure, Govern, and Growth" other-manager-roles="Govern and Growth|Growth and Govern:Threat Insights|VP, Online Sales and Self Service" >}}
 
 ## How We Work
 
@@ -133,13 +122,13 @@ Growth teams work across the GitLab codebase on multiple groups and projects inc
 
 Before the work can begin on an issue, we should refine and estimate it. We have a continuous process for this, leveraging additional workflow status,  `~"workflow::refinement"`, which indicates that the issue is being refined by the team. Once the issue refinement is completed, it can be moved to `~"workflow::scheduling"` stage.
 
-The refinement process is driven by [triage bot automations and policies](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/growth/refine-automations.yml) to ensure that it's smooth and consistent. 
+The refinement process is driven by [triage bot automations and policies](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/growth/refine-automations.yml) to ensure that it's smooth and consistent.
 
 ## Refinement Steps
 
-1. Issues are moved from `~"workflow::planning breakdown"` to `~"workflow::refinement"` automatically by the triage bot in order of priority (from top to bottom). The bot will only move issues to refinement if there is room in refinement column, meaning there is less issues than maximum limit for this column. This is first chance for PMs to prioritize issues by moving them higher in the `planning breakdown` column. After the issue is moved to refinement, a dedicated `refinement thread` is created, which acts as a place for discussion and weight estimation.  
-     * 💡 Hint: In rare case when an issue has to be expedited, it's possible to move it to refinement manually. This will invoke a reaction from triage bot, which will add `refinement thread` for such issue instantly so the refinement can proceed the same way as with automated path.   
-2. During refinement the team ensures that the issue is well described and requirements are clear. They can use the `refinement thread` to discuss but they should make sure that any changes and decisions made there are also reflected in issue's description. Once each engineer is comfortable with the way the issue is described, they can vote their estimation of weight based on our [guidelines](/handbook/engineering/development/growth/index.html#estimation-guidelines). The voting happens by reacting to the thread with one of few possible weight estimates: 1️⃣ 2️⃣ 3️⃣ 5️⃣ or 🚀. 
+1. Issues are moved from `~"workflow::planning breakdown"` to `~"workflow::refinement"` automatically by the triage bot in order of priority (from top to bottom). The bot will only move issues to refinement if there is room in refinement column, meaning there is less issues than maximum limit for this column. This is first chance for PMs to prioritize issues by moving them higher in the `planning breakdown` column. After the issue is moved to refinement, a dedicated `refinement thread` is created, which acts as a place for discussion and weight estimation.
+     * 💡 Hint: In rare case when an issue has to be expedited, it's possible to move it to refinement manually. This will invoke a reaction from triage bot, which will add `refinement thread` for such issue instantly so the refinement can proceed the same way as with automated path.
+2. During refinement the team ensures that the issue is well described and requirements are clear. They can use the `refinement thread` to discuss but they should make sure that any changes and decisions made there are also reflected in issue's description. Once each engineer is comfortable with the way the issue is described, they can vote their estimation of weight based on our [guidelines](/handbook/engineering/development/growth/index.html#estimation-guidelines). The voting happens by reacting to the thread with one of few possible weight estimates: 1️⃣ 2️⃣ 3️⃣ 5️⃣ or 🚀.
 3. Each day the triage bot checks all issues in `~"workflow::refinement"` column and if an issue has required minimum number of estimation votes (see `MIN_REACTIONS` constant [here](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/lib/growth_refine_automation_helper.rb?ref_type=heads#L16) for the current setting) it will be moved to `~"workflow::scheduling"`.
     * 💡 Hint: If there is some problem with the issue and it shouldn't be moved forward even if enough engineers estimate it, ❌ reaction can be added to the thread which will stop the bot from transitioning the issue to `~"workflow::scheduling"` as long as this reaction sticks to the thread. This means that whoever put it is also responsible for removing it once the problem is gone.
 4. Once the issue is in `~"workflow::scheduling"`, it is awaiting final prioritization by PMs - it has to be manually moved to `~"workflow::ready for dev"` depending on the current priorities. This part of the process is PMs responsibility. This allows for additional fine-tuning of priorities and acts as a buffer for our ready for development column.
@@ -192,7 +181,7 @@ The DRI (assignee) of an issue is encouraged to add an async issue update, parti
 These updates can be added anytime and are useful to highlight when an issue is on track, blocked, or may need to be re-prioritized.
 This helps us maintain [transparency](/handbook/values/#transparency) and our [bias towards asynchronous communication](/handbook/values/#bias-towards-asynchronous-communication).
 
-```
+```markdown
 Async issue update
 
 **YYYY-MM-DD Update**
@@ -225,19 +214,13 @@ The Growth stage tracks number of experiments deployed as a development metric. 
 New experiments added to the codebase using [experiment feature flags](https://docs.gitlab.com/ee/development/feature_flags/#experiment-type) are tracked until removal.
 Current experiments shows the total number of experiments in the codebase (pending, active, or concluded and ready to be removed).
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="575" src="<%= signed_periscope_url(chart: 10621867, dashboard: 799224, embed: 'v2') %>">
-  </div>
-<% else %>
-You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.
-<% end %>
+{{< sisense chart="10621867" dashboard="799224" height="450" >}}
 
 #### Growth Section Metrics
 
 Complete list of [Growth Section engineering metrics].
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_section_dashboard.erb", locals: { filter_value: "growth" } %>
+{{% cross-functional-dashboards filters="growth" section=true %}}
 
 ## Team Days
 

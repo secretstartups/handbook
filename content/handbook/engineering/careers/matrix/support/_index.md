@@ -4,7 +4,7 @@ title: "Support Career Framework"
 
 ## Support Career Framework
 
-{{% include "includes/engineering/career-matrix-nav.md" %}}
+{{% include "includes/engineering-careers/career-matrix-nav.md" %}}
 
 These are the expected competencies of the Support Sub Department team members at GitLab by Job Title.
  

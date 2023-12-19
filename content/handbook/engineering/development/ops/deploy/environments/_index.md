@@ -1,15 +1,7 @@
 ---
-
 title: Environments Group
 description: "The Environments group is responsible for the Environments in the Deploy stage of the DevOps lifecycle."
 ---
-
-
-
-
-
-
-
 
 ## Vision
 
@@ -32,13 +24,13 @@ overall vision.
 
 ## Team Members
 
-<%= direct_team(manager_slug: 'nicolo-maria-mezzopera') %>
+{{< team-by-manager-slug "nicolo-maria-mezzopera" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Deploy:Environments/, manager_slug: 'nicolo-maria-mezzopera') %>
+{{< stable-counterparts role="Deploy:Environments" manager="nicolo-maria-mezzopera" >}}
 
 ## Common Links
 
@@ -56,7 +48,7 @@ Some dedicated Slack channels:
 
 ## Insights
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "environments" } %>
+{{% cross-functional-dashboards filters="environments" %}}
 
 ## Processes
 
@@ -219,7 +211,7 @@ In every milestone plan, we compile a list of bugs due in the coming milestone b
 In addition to the self-scheduling of feature development, the manager will from time to time assign bugs, or other work deemed important, directly to a team member.
 
 On top of the official issue-triaging process, when severity labels are assigned/changed, we aim to set the issue due date at the same time. If there are bugs with a severity label and without a deadline,
-everyone is encouraged to set the deadline based on the date of the last severity label update and [the SLA for the given severity](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity-slos).
+everyone is encouraged to set the deadline based on the date of the last severity label update and [the SLA for the given severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity-slos).
 
 #### Say-do ratio
 

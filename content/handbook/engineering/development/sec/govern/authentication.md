@@ -1,16 +1,8 @@
 ---
-
 title: "Authentication Group"
 ---
 
-
-
-
-
-
-
-### Govern:Authentication
-{: #welcome}
+### Govern:Authentication{#welcome}
 
 #### What makes us different?
 
@@ -32,50 +24,51 @@ Because this group works on components of the application that have a [far-reach
 
 ### How we work
 
-* In accordance with our [GitLab values](/handbook/values/).
-* Transparently: nearly everything is public, we record/livestream meetings whenever possible.
-* We get a chance to work on the things we want to work on.
-* Everyone can contribute; no silos.
-  * The goal is to have product give engineering and design the opportunity to be involved with direction and issue definition from the very beginning.
-* We do an optional, asynchronous daily stand-up in our group stand-up channel:
-  * Govern:Authentication [#g_govern_authentication_daily](https://gitlab.slack.com/archives/C01311Z0LDD)
+- In accordance with our [GitLab values](/handbook/values/).
+- Transparently: nearly everything is public, we record/livestream meetings whenever possible.
+- We get a chance to work on the things we want to work on.
+- Everyone can contribute; no silos.
+  - The goal is to have product give engineering and design the opportunity to be involved with direction and issue definition from the very beginning.
+- We do an optional, asynchronous daily stand-up in our group stand-up channel:
+  - Govern:Authentication [#g_govern_authentication_daily](https://gitlab.slack.com/archives/C01311Z0LDD)
 
-  #### With our counterparts
+#### With our counterparts
 
-  You are encouraged to work as closely as needed with stable counterparts. We include quality engineering and application security counterparts prior to a release kickoff and as-needed during code reviews or issue concerns.
+You are encouraged to work as closely as needed with stable counterparts. We include quality engineering and application security counterparts prior to a release kickoff and as-needed during code reviews or issue concerns.
 
-  Quality engineering is included in our workflow via the [Quad Planning Process](/handbook/engineering/infrastructure/test-platform/quad-planning/) and is responsible for bug prioritization during release planning. They are also the DRI when it comes to adding new [end-to-end tests](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/), though anyone can contribute. Here are some examples of when to engage with your counterpart:
-  - [Seeking Quality's opinion if an MR would introduce flakiness in existing end-to-end tests](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/92333#note_1033648348)
-  - [You need help deciding the best way to fix a test](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/93467#note_1042495993)
-  - [Guidance on setting up your local environment to properly test](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/56923#note_541368575)
+Quality engineering is included in our workflow via the [Quad Planning Process](/handbook/engineering/infrastructure/test-platform/quad-planning/) and is responsible for bug prioritization during release planning. They are also the DRI when it comes to adding new [end-to-end tests](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/), though anyone can contribute. Here are some examples of when to engage with your counterpart:
+
+- [Seeking Quality's opinion if an MR would introduce flakiness in existing end-to-end tests](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/92333#note_1033648348)
+- [You need help deciding the best way to fix a test](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/93467#note_1042495993)
+- [Guidance on setting up your local environment to properly test](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/56923#note_541368575)
 
 
-  Application Security will be involved in our security issue workflow and should participate in other feature, bug, or maintenance issues before they are scheduled if we need to notate any concerns or potential risks that we should be aware of. Here are some examples of engaging with your counterpart:
-  - [If you want to confirm whether something should be kept confidential](https://gitlab.com/internal-handbook/internal.gitlab.com/-/merge_requests/1110#note_1038994941)
-  - [Confirming whether or not something is considered a vulnerability](https://gitlab.com/gitlab-org/gitlab/-/issues/364526#note_1041178738)
-  - [Collaborating on feature proposals to see if they have any security implications](https://gitlab.com/gitlab-org/gitlab/-/issues/227841#note_1025940760)
+Application Security will be involved in our security issue workflow and should participate in other feature, bug, or maintenance issues before they are scheduled if we need to notate any concerns or potential risks that we should be aware of. Here are some examples of engaging with your counterpart:
+
+- [If you want to confirm whether something should be kept confidential](https://gitlab.com/internal-handbook/internal.gitlab.com/-/merge_requests/1110#note_1038994941)
+- [Confirming whether or not something is considered a vulnerability](https://gitlab.com/gitlab-org/gitlab/-/issues/364526#note_1041178738)
+- [Collaborating on feature proposals to see if they have any security implications](https://gitlab.com/gitlab-org/gitlab/-/issues/227841#note_1025940760)
 
 #### Keeping yourself informed
 
-  - [Subscribe to these company Slack channels](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/getting-started/communication/#read-all-of)
-  - [Review the `#eng-week-in-review` weekly](/handbook/engineering/#keeping-yourself-informed)
-  - Other channels of interest are `#team-member-updates`, `##g_govern_authentication`, `#sec_section`, `#ceo`, `#cto`
-  - We create a weekly issue to inform the team members about the company or team updates, to share important links or to be informed about the team availability. Creation of the issue is the responsibility of an Engineering Manager, who can use an issue template located in the [Govern/Auth repo](https://gitlab.com/gitlab-org/govern/authentication/discussion). All weekly updates can be found in the project issue list [filtered by weekly update label.](https://gitlab.com/gitlab-org//authentication/discussion/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=weekly%20update&first_page_size=20)
+- [Subscribe to these company Slack channels](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/getting-started/communication/#read-all-of)
+- [Review the `#eng-week-in-review` weekly](/handbook/engineering/#keeping-yourself-informed)
+- Other channels of interest are `#team-member-updates`, `##g_govern_authentication`, `#sec_section`, `#ceo`, `#cto`
+- We create a weekly issue to inform the team members about the company or team updates, to share important links or to be informed about the team availability. Creation of the issue is the responsibility of an Engineering Manager, who can use an issue template located in the [Govern/Auth repo](https://gitlab.com/gitlab-org/govern/authentication/discussion). All weekly updates can be found in the project issue list [filtered by weekly update label.](https://gitlab.com/gitlab-org//authentication/discussion/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=weekly%20update&first_page_size=20)
 
 #### Planning
 
 We plan in monthly cycles in accordance with our [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline). Our typical planning cycle includes:
 
-* At the beginning of each month, Product should have created [a planning issue](https://gitlab.com/gitlab-org/govern/general-discussion/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Planning%20Issue&label_name%5B%5D=group%3A%3Aauthentication&first_page_size=20) for the coming release.
-  * This issue should include the general themes of a release. It should also include placeholders for [the quad](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/quad-planning/) to put their prioritized feature, bug, and maintenance lists.
-  * Issues without estimates should be investigated by engineering throughout the month so weighting does not need to happen at once. Once the prioritized feature list is determined for a milestone, engineering will put a weight on any issues on the list that do not have a weight.
-* Between the first 12 days the month we estimate the issues but also bring up any key issues we as a team believe need to be included in the upcoming milestone (bug/maintenance/features). Over time this allows us to build up a pool of issues for upcoming miletones we mutually agree are important.
-* By the 12th day, all planned issues proposed for the next release should be estimated by engineering and put into `workflow:ready for development`.
-  * The EM should add any issues that have the potential to slip. Issues that we are sure will slip should be automatically rescheduled to the upcoming release in advance.
-  * After estimation, Product should make any needed adjustments to the proposed scope based on estimates. At this stage, any issues that the team is committing to delivering should have the ~Deliverable label applied to them by the engineering manager. Critical items such as ~bug::vulnerability or others that should be worked on first to allow for a greater chance of completion can be found in the ~Pick-first column of our workflow dashboard such as this [one](https://gitlab.com/gitlab-org/gitlab/-/boards/4374016)
+- At the beginning of each month, Product should have created [a planning issue](https://gitlab.com/gitlab-org/govern/general-discussion/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Planning%20Issue&label_name%5B%5D=group%3A%3Aauthentication&first_page_size=20) for the coming release.
+  - This issue should include the general themes of a release. It should also include placeholders for [the quad](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/quad-planning/) to put their prioritized feature, bug, and maintenance lists.
+  - Issues without estimates should be investigated by engineering throughout the month so weighting does not need to happen at once. Once the prioritized feature list is determined for a milestone, engineering will put a weight on any issues on the list that do not have a weight.
+- Between the first 12 days the month we estimate the issues but also bring up any key issues we as a team believe need to be included in the upcoming milestone (bug/maintenance/features). Over time this allows us to build up a pool of issues for upcoming miletones we mutually agree are important.
+- By the 12th day, all planned issues proposed for the next release should be estimated by engineering and put into `workflow:ready for development`.
+  - The EM should add any issues that have the potential to slip. Issues that we are sure will slip should be automatically rescheduled to the upcoming release in advance.
+  - After estimation, Product should make any needed adjustments to the proposed scope based on estimates. At this stage, any issues that the team is committing to delivering should have the ~Deliverable label applied to them by the engineering manager. Critical items such as ~bug::vulnerability or others that should be worked on first to allow for a greater chance of completion can be found in the ~Pick-first column of our workflow dashboard such as this [one](https://gitlab.com/gitlab-org/gitlab/-/boards/4374016)
 
 Some items may be marked for a certain milestone, but do not have the ~Deliverable label. This means that they have not been committed to for a milestone and should be moved to the backlog or reconsidered for a future release. The Product Manager facilitates this process.
-
 
 #### Estimation process
 
@@ -116,7 +109,7 @@ We do not expect that during estimation, implementation details are scrutinized,
 With keeping the above in mind, some areas to consider when estimating are:
 
 - If this work needs to be broken down into smaller tasks? Including adding a spike for that investigation/break down.
-- Impact on unit, feature and QA testing. Sometimes an apparently small modification in the code can lead to many changes in the tests. 
+- Impact on unit, feature and QA testing. Sometimes an apparently small modification in the code can lead to many changes in the tests.
 - Is there a hidden inter-dependency between the frontend and backend that needs to be agreed upon?
 - Are there data persistence requirements e.g in browser, redis or database?
 - How would this feature/bug-fix be deployed and is there complexity in managing the the rollout?
@@ -141,11 +134,11 @@ For work items that span greater than 1 week or are high priority deliverables (
 
 ##### Verification
 
-The issue verification step is optional starting starting 16.4 and will be required in 16.6. It should be done by someone else other than the MR author. Verification decreases the risk of defects getting into production and a different perspective to cover more test cases. 
+The issue verification step is optional starting starting 16.4 and will be required in 16.6. It should be done by someone else other than the MR author. Verification decreases the risk of defects getting into production and a different perspective to cover more test cases.
 
-* All MRs should have verification steps in the description. In the case where multiple MRs are created for an issue, the engineer who is assigned to the issue should add complete verification steps in the issue description or as a reply to the triage bot's comment.
-* When an engineer has merged their work, they should move their issue into the verification status, indicated by the ~workflow:verification label and wait until they receive notification that their work has been deployed on staging via the release issue email.
-* Issues in the ~workflow:verification state are assigned randomly by the triage bot based on the verification policy to an applicable team engineer. This engineer should then additionally verify the issue.
+- All MRs should have verification steps in the description. In the case where multiple MRs are created for an issue, the engineer who is assigned to the issue should add complete verification steps in the issue description or as a reply to the triage bot's comment.
+- When an engineer has merged their work, they should move their issue into the verification status, indicated by the ~workflow:verification label and wait until they receive notification that their work has been deployed on staging via the release issue email.
+- Issues in the ~workflow:verification state are assigned randomly by the triage bot based on the verification policy to an applicable team engineer. This engineer should then additionally verify the issue.
 
 ##### Labels and how we use them
 
@@ -166,7 +159,7 @@ With the combination of our capacity planning (EM) and estimation (IC) processes
 
 We have [cross-functional prioritization](/handbook/product/product-processes/#cross-functional-prioritization) aligned with our prioritization framework. The engineering manager will prioritize `type::maintenance` issues, the product manager will prioritize `type::feature` issues, and the software engineer in test will prioritize `type::bug` issues. From there, we are able to select a ratio of the top issues to be planned for the release by using our [cross-functional issue board](https://gitlab.com/groups/gitlab-org/-/boards/4453752?label_name[]=group%3A%3Aauthentication). **Starting 16.5, our target ratio is to plan 60% features, 20% bugs, and 20% maintenance per release**. Security issues do not count towards these ratios, but instead take away from the total capacity. The data below helps us understand our overall cross-functional status.
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: 'authentication' } %>
+{{< cross-functional-dashboards filters="authentication" >}}
 
 #### Monthly cross-functional dashboard review
 
@@ -199,7 +192,7 @@ Auth group members who are part of the [Authentication group](https://gitlab.com
 
 The following people are permanent members of the group:
 
-<%= stable_counterparts(role_regexp: /Govern:Authentication/) %>
+{{< stable-counterparts role="Govern:Authentication" >}}
 
 ### Dashboards
 
@@ -208,15 +201,14 @@ The following people are permanent members of the group:
 - [Usage ping (includes OAuth usage)](https://app.periscopedata.com/app/gitlab/857665/Govern:Access---Usage-Ping)
 - [Error Budget](https://dashboards.gitlab.net/d/stage-groups-detail-authentication_and_a/stage-groups-authentication-group-error-budget-detail?orgId=1&from=now-2d&to=now)
 
-### Links and resources
-{: #links}
+### Links and resources {#links}
 
-<%= partial("handbook/engineering/development/dev/manage/shared_links.erb") %>
-* [Milestone retrospectives](https://gitlab.com/gl-retrospectives/manage-stage/authentication/-/issues)
-* Our Slack channels
-  * Govern:Authentication [#g_govern_authentication](https://gitlab.slack.com/archives/CLM1D8QR0)
-  * Daily standups [#g_govern_authentication_daily](https://gitlab.slack.com/archives/C01311Z0LDD)
-* Issue boards
-  * [Release workflow board](https://gitlab.com/gitlab-org/gitlab/-/boards/4406395)
-  * [Security issues board](https://gitlab.com/gitlab-org/gitlab/-/boards/4260654?label_name%5B%5D=sec%3A%3Agovern&label_name%5B%5D=group%3A%3Aauthentication&label_name%5B%5D=bug%3A%3Avulnerability)
-  * [Cross-functional prioritisation board](https://gitlab.com/groups/gitlab-org/-/boards/4453752)
+{{% include "includes/engineering/govern-shared-links.md" %}}
+- [Milestone retrospectives](https://gitlab.com/gl-retrospectives/manage-stage/authentication/-/issues)
+- Our Slack channels
+  - Govern:Authentication [#g_govern_authentication](https://gitlab.slack.com/archives/CLM1D8QR0)
+  - Daily standups [#g_govern_authentication_daily](https://gitlab.slack.com/archives/C01311Z0LDD)
+- Issue boards
+  - [Release workflow board](https://gitlab.com/gitlab-org/gitlab/-/boards/4406395)
+  - [Security issues board](https://gitlab.com/gitlab-org/gitlab/-/boards/4260654?label_name%5B%5D=sec%3A%3Agovern&label_name%5B%5D=group%3A%3Aauthentication&label_name%5B%5D=bug%3A%3Avulnerability)
+  - [Cross-functional prioritisation board](https://gitlab.com/groups/gitlab-org/-/boards/4453752)

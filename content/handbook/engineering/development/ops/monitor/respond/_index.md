@@ -1,14 +1,7 @@
 ---
-
 title: "Respond Group"
 description: "The Respond Group a part of the Monitor Stage of the DevOps lifecycle."
 ---
-
-
-
-
-
-
 
 ## Respond
 The **Respond** group at GitLab is responsible for building tools that enable DevOps teams to respond to, triage and remediate errors and IT alerts for the systems and applications they maintain. We aim to provide a streamlined Operations experience within GitLab that enables the individuals who write the code, to maintain it at the same time.
@@ -25,11 +18,11 @@ You can follow along with the team's accomplishments by reading the [latest week
 
 ## Team members
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Monitor:Respond') %>
+{{< team-by-manager-role role="Engineering Manager(.*)Monitor:Respond" team="Monitor:Respond" >}}
 
 ## Stable counterparts
 
-<%= stable_counterparts(role_regexp: /(?<!:)Monitor(?!:Observability)/, direct_manager_role: 'Fullstack Engineering Manager, Monitor:Respond') %>
+{{< stable-counterparts role="Monitor|Observability" >}}
 
 ## Communication
 
@@ -44,7 +37,7 @@ You can follow along with the team's accomplishments by reading the [latest week
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Respond" } %>
+{{% cross-functional-dashboards filters="Respond" %}}
 
 ## Working Agreements
 
