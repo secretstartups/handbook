@@ -3,7 +3,6 @@ title: "Test and Tools Infrastructure Team"
 description: "Test and Tools Infrastructure Team in Test Platform sub-department"
 ---
 
-
 ## Team handles
 
 | **Category**            | **Handle** |
