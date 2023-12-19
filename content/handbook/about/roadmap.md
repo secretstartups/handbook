@@ -206,7 +206,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 - [x] About the handbook
 - [x] Content Websites Responsibility
 - [x] Style-Guide
-- [x] Inspired By Gitlab
+- [x] Inspired By GitLab
 - [x] Executive Business Administrators
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#company-handbook-content)

@@ -1,7 +1,7 @@
 ---
 
-title: "Gitlab.com SAAS Extract"
-description: "Gitlab.com SAAS Extract"
+title: "GitLab.com SAAS Extract"
+description: "GitLab.com SAAS Extract"
 ---
 
 
@@ -16,7 +16,7 @@ description: "Gitlab.com SAAS Extract"
 
 # Source system / application / data pipeline name
 
-Gitlab.com SAAS
+GitLab.com SAAS
 
 ## Business Use Case (Please explain what this data will be used for):
 
@@ -46,7 +46,7 @@ Data for reporting and analytics use cases like MR Rate & Performance KPIs (Prod
 
 ## People matrix
 
-| Role | Name | Gitlab Handle |
+| Role | Name | GitLab Handle |
 | ---- | ---- | ------------- |
 | System owner | `N/A` | `N/A` |
 | Technical contact for data related questions | `#database` | `N/A` |
@@ -98,7 +98,7 @@ The setup currently, and SLO, is set that if the [Ansible Replica Rebuild](handb
 
 This pipeline leverages the general Postgres_Pipeline (pgp) - Postgres Extractor.
 
-There are **dedicated** gitlab.com *read* replica database instances used for data pulls into Snowflake. There are 2 replicas available, with each having their own replication frequency and behavior.  
+There are **dedicated** GitLab.com *read* replica database instances used for data pulls into Snowflake. There are 2 replicas available, with each having their own replication frequency and behavior.  
 
 ```mermaid
 graph TD;
@@ -271,7 +271,7 @@ Data is monitored via Monte-Carlo
 
 When one (or more) tables require decommissioning from the `Postgres` pipeline, follow the steps mentioned in the [**Runbook guideline**](https://gitlab.com/gitlab-data/runbooks/-/blob/main/Gitlab_dotcom/table_decommission/README.md) to avoid any failure caused due to removal of the table.
 
-### Gitlab.com additional table details
+### GitLab.com additional table details
 
 [This handbook page](/handbook/business-technology/data-team/platform/pipelines/SAAS-Gitlab-com/gitlab-com-additional-table-details/) has more detail on any tables that don't fit the normal mold.
 

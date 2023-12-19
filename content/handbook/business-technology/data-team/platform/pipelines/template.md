@@ -41,7 +41,7 @@ title: "Data Pipeline"
 
 ## People matrix
 
-| Role | Name | Gitlab Handle |
+| Role | Name | GitLab Handle |
 | ---- | ---- | ------------- |
 | System owner | `Please provide` | `Please provide` |
 | Technical contact for data related questions | `Please provide` | `Please provide` |

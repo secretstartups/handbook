@@ -123,7 +123,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [GitLab.com](/handbook/business-technology/data-team/platform/pipelines/saas-gitlab-com/) | pgp | `tap_postgres` | `gitlab_dotcom` | Product, Engineering | 12h / 55h | No | Tier 1 |
 | [GitLab Ops DB](/handbook/business-technology/data-team/platform/pipelines/#gitlab-ops-database) | pgp | `tap_postgres` | `gitlab_ops` | Engineering | 6h / x | No | Tier 1 |
 | GitLab Profiler DB | x | x | x | x | x / x | No | Tier 3 |
-| Gitlab Container Registry Logs | Airflow | `Container Registry` | `Container Registry` | Engineering | x | No | Tier 2 |
+| GitLab Container Registry Logs | Airflow | `Container Registry` | `Container Registry` | Engineering | x | No | Tier 2 |
 | [Google Ads](https://ads.google.com/) | Fivetran | `google_ads` | `google_ads` | Marketing | 24h / 48h | No | Tier 2 |
 | [Google Analytics 360](https://marketingplatform.google.com/about/analytics-360/) | Fivetran | `google_analytics_360_fivetran` | `google_analytics_360` | Marketing | 6h / 32h | No | Tier 2 |
 | [Google Cloud Billing](https://cloud.google.com/support/billing) | Airflow | `gcp_billing` | `gcp_billing` | Engineering | 24h / x | No | Tier 1 |

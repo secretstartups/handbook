@@ -1,13 +1,13 @@
 ---
 
-title:  Gitlab Laptop Delivery Metrics
+title:  GitLab Laptop Delivery Metrics
 ---
 
 
 
 
 
-## Gitlab Laptop Delivery Metrics
+## GitLab Laptop Delivery Metrics
 
 ### Purpose
 

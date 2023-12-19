@@ -83,7 +83,7 @@ Note regarding product fields:
 - However, for the latest data it is only reliable on closed opportunities for closed months (**i.e., after the 8th day of this month, you can report on prior month closed opportunities using product_category**).
 
 
-### Gitlab.com db
+### GitLab.com db
 
 Point of contact: Carolyn Braza
 
