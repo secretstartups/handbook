@@ -328,6 +328,9 @@ We give people agency to focus on what they think is most beneficial. If a meeti
 
 Agree in writing on measurable goals. Within the company we use [OKRs](/handbook/company/okrs/) for that.
 
+##### Challenger mindset
+Challenging the status quo can lead to remarkable results - we must never stop. A [challenger mindset](https://books.forbes.com/author-articles/whats-a-challenger-mindset-and-why-adopt-it-in-2021/) requires that we continually ask ourselves bold, difficult questions about our business the problems we solve while resisting complacency. To succeed we must innovate and delight our customers with the value of the products we build. Each win for our customers builds reputational capital we can use to earn the trust of prospects in a competitive market. Our work is never done and we must adapt to the ever changing needs of our customers and the markets we operate in.
+
 ##### Growth mindset
 
 You don't always get results and this will lead to criticism from yourself and/or others. We believe our talents can be developed through hard work, targeted training, learning from others, on-the-job experience, and receiving input from others. It is in our DNA as a company and individuals to look for opportunity, stay humble, and never settle. We try to hire people based on [their trajectory, not their pedigree](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means). We also strive to foster a culture of curiosity and continuous learning where team members are provided and proactively seek out opportunities to grow themselves and their careers. We believe that with the right expectations and direction, people can grow to take on new challenges and surpass expectations.
