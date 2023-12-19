@@ -22,18 +22,6 @@ On-Call scheduling for Trust & Safety is organized in Pager Duty within the `Tru
 
 ## On-Call Security Handoffs
 
-Standard handoff times are as scheduled. However, team members are empowered to agree on a temporary modified handoff schedule as long as those involved agree and the team is notified in the team’s Slack channel.
-
-SIRT
-- 23:00 to 07:00 UTC –> APAC - 8 hours
-- 07:00 to 15:00 UTC –> EMEA - 8 hours
-- 15:00 to 23:00 UTC –> AMER - 8 hours
-
-Trust and Safety
-- 23:00 to 07:00 UTC –> APAC - 8 hours
-- 07:00 to 15:00 UTC –> EMEA - 8 hours
-- 15:00 to 23:00 UTC –> AMER - 8 hours
-
 ### Times
 
 Standard handoff times are as scheduled. However, team members are empowered to agree on a temporary modified handoff schedule as long as all those involved agree and the team is notified about changes.
