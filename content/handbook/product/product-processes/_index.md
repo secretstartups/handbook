@@ -47,7 +47,7 @@ There are several examples of these types of direction pages today:
 
 1. [Monorepo Product Direction](https://about.gitlab.com/direction/monorepos/)
 1. [Versioned Dependencies Direction](https://about.gitlab.com/direction/versioned-dependencies/)
-1. [AutoDevops Direction](https://about.gitlab.com/direction/delivery/auto_devops/)
+1. [AutoDevOps Direction](https://about.gitlab.com/direction/delivery/auto_devops/)
 1. [Deployment Direction](https://about.gitlab.com/direction/delivery/)
 1. [Customizable Dashboards Direction](https://about.gitlab.com/direction/customizable-dashboards/)
 

@@ -127,7 +127,7 @@ The development of an API where the product team can send leads from the product
 
 **Synopsis:**
 
-Stood up a GitLab pages project to serve as an internal non-public handbook which uses Okta and SAML SSO to restrict access to the GitLab internal team. This will allow the team to keep information confidential but still follow the handbook-first way of working.
+Stood up a GitLab Pages project to serve as an internal non-public handbook which uses Okta and SAML SSO to restrict access to the GitLab internal team. This will allow the team to keep information confidential but still follow the handbook-first way of working.
 
 **Impacted team(s)**
 
@@ -186,7 +186,7 @@ Every month the automation pulls all PDF invoices from Zuora for the UK and DE e
 
 Automatically adds and removes team members to Navex Global to avoid manual work for the team and streamline the onboarding process.
 
-**Impacted team(s):**  
+**Impacted team(s):**
 
 - Legal
 
@@ -198,7 +198,7 @@ Automatically adds and removes team members to Navex Global to avoid manual work
 
 Automatically adds and removes team members to EdCast to avoid manual work for the team and streamline the onboarding process.
 
-**Impacted team(s):**  
+**Impacted team(s):**
 
 - L&D
 
@@ -210,7 +210,7 @@ Automatically adds and removes team members to EdCast to avoid manual work for t
 
 Automatically fetches status updates from program epics and rolls them up into one single status issue. This reduces manual work for teams as they prepare status rollups. [Learn more about Rolly](/handbook/business-technology/how-we-work/rolly/).
 
-**Impacted team(s):**  
+**Impacted team(s):**
 
 - Business Technology
 
@@ -238,7 +238,7 @@ A custom connector to accelerate the development of GitLab integrations within W
 
 Automates the synchronization of billing journal entries to NetSuite for month close.
 
-**Impacted team(s):**  
+**Impacted team(s):**
 
 - Billing
 - Accounting
@@ -255,7 +255,7 @@ Automates the synchronization of billing journal entries to NetSuite for month c
 
 Utilising Workato to automatically synchronise team members and their managers from Bamboo HR into the correct Expensify policy as well as creating a vendor record in NetSuite.
 
-**Impacted team(s):**  
+**Impacted team(s):**
 
 - Accounts Payable
 - Accounting
