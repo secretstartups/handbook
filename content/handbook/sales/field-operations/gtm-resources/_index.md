@@ -217,18 +217,18 @@ GitLab recognizes the grouping of companies that are related based on their prim
     - This is the account level of classification of industry
     - A list of GitLab's Industry values can be found [HERE](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Industry&type=Account)
 1. **Sub-Industry**
-    - Sub-Industry is a more granular/detailed classification of Industry.  
+    - Sub-Industry is a more granular/detailed classification of Industry.
     - A list of GitLab's Sub-Industry values can be found [HERE](https://gitlab.my.salesforce.com/00N6100000HIhad).  This list aligns with the industries used by DemandBase
 
-  
+
 The Industry and Sub-Industry of each account is determined by a combination of 3rd party data and manual overrides. The information is stored in the `Industry` and `Sub-Industry` fields on the Account object in SalesForce and inherit data in the following priority:
 
-1. Admin Manual Override  
+1. Admin Manual Override
 1. Zoominfo mapping to `Industry` and `Sub-Industry`
 
 **Industry & Sub-Industry Enrichment Cadence**
 
-The Industry and Sub-Industry data on an Account is enriched and updated automatically on a daily cadence.  
+The Industry and Sub-Industry data on an Account is enriched and updated automatically on a daily cadence.
 
 
 ### Account Ranking for Enterprise Sales
@@ -334,7 +334,7 @@ The owner of the record in SFDC **does not** need to match the owner in Outreach
 #### Record Ownership and Record Visibility
 
 In order to meet compliance standards our SFDC instance uses a private model.
-This private model allows for some records to be visible by all Gitlab team members who use Salesforce, while other records may not be visible to them.
+This private model allows for some records to be visible by all GitLab team members who use Salesforce, while other records may not be visible to them.
 Currently this is in place as it pertains to records owned by the Public Sector team.
 All salesforce records (leads, contacts, accounts, opportunities etc.) owned by the Public Sector team are only visibility to other members of the public sector team and a group of supporting staff who have been reviewed and permitted to view the these records.
 All other records (owned by non-public sector team members) maintain their standard visibility levels.

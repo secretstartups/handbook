@@ -8,9 +8,9 @@ description: "This page serves as the Partner Operations team page and includes 
 
 
 
- 
- 
- 
+
+
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 
@@ -105,7 +105,7 @@ All [**Partner Co-Sell**](/handbook/sales/field-operations/channel-operations/#p
 1. Net-new to GitLab
 2. An upsell/add-on for an existing GitLab customer
 
-An approved Partner Sourced Deal Registration results in `Sales Qualified Source = Partner Generated` on the opportunity.  
+An approved Partner Sourced Deal Registration results in `Sales Qualified Source = Partner Generated` on the opportunity.
 
 For more information: [Deal Registration Program Overview](/handbook/resellers/channel-working-with-GitLab/#deal-registration-program-overview).
 
@@ -290,7 +290,7 @@ Partners and GitLab Sellers frequently ask questions on how to collaborate with 
 ## Unauthorized Partners
 
 - An authorized partner is a partner that has signed a contract to transact with GitLab. In SFDC, the "Partner Status" will say "Authorized," there will be a date in the "Signed Contract Date" field, and *either* the "Click-Through Agreement" box will be checked, or a manual contract will be listed in the Google docs or Contract section of the account record.
-- A key goal of the GitLab Channel Program is the success of our authorized partners, which means whenever possible, we should work deals with them. We are developing our channel to provide coverage across geos, customer segments and vertical markets. However, there are some situations where customer requires a deal be transacted by a partner that is not willing to join the GitLab Partner Program. Only in those situations should we transact with an unauthorized partner, and only with the explicit approval of the programs team.  
+- A key goal of the GitLab Channel Program is the success of our authorized partners, which means whenever possible, we should work deals with them. We are developing our channel to provide coverage across geos, customer segments and vertical markets. However, there are some situations where customer requires a deal be transacted by a partner that is not willing to join the GitLab Partner Program. Only in those situations should we transact with an unauthorized partner, and only with the explicit approval of the programs team.
 - Unauthorized partners have not signed a GitLab Partner Agreement.
 - If an unauthorized partner would like to transact GitLab products or services, please have them visit the [Partner Portal](https://partners.gitlab.com/) to sign up. Someone who has authority to accept the Agreement is required.
 - Unauthorized partners cannot transact GitLab products and/or services, unless rare but explicit approval is granted by the programs team. Please reach out to the #partner-programs-ops Slack channel.
@@ -375,7 +375,7 @@ Further enablement for GitLab Team Members is available. For further information
 
 ### Guidelines for approving US Public Sector Co-Sell Partner Submissions
 
-The following are explicit guidelines for approved US Public Sector Partners to receive preferred pricing on Gitlab-sourced opportunities.
+The following are explicit guidelines for approved US Public Sector Partners to receive preferred pricing on GitLab-sourced opportunities.
 
 Partner Requirements:
 - Must be an approved US Public Sector Partner, [authorized to transact with GitLab](/handbook/sales/field-operations/channel-operations/#standard-channel-practices)
@@ -665,9 +665,9 @@ Follow the steps below to process a Service Attached Registration for an applica
 
 1. The registration and opportunity records will be updated with the approval information.
   - A Service Attached registration will **not** populate the Partner Sourced Deal Registration section of an opportunity. Click the related list link at the top of the opportunity to locate the Service Attached registration. This will bring you to a list of any registration attached to the opportunity, including the Service Attached Registration.
-   ![10-Reg_Related_Lists](/handbook/sales/field-operations/channel-operations/images/10-Reg_Related_Lists.png)  
+   ![10-Reg_Related_Lists](/handbook/sales/field-operations/channel-operations/images/10-Reg_Related_Lists.png)
   - Alternatively, you can scroll to the “Registrations” section toward the bottom of the opportunity.
-   ![11-Reg_for_Svc_Att](/handbook/sales/field-operations/channel-operations/images/11-Reg_for_Svc_Att.png)  
+   ![11-Reg_for_Svc_Att](/handbook/sales/field-operations/channel-operations/images/11-Reg_for_Svc_Att.png)
 2. The Partner delivers services, either before or after the license sale is completed.
   - The services can be completed up to six months before or after the license opportunity closes.
   - Services delivered more than six months before or after the opportunity closes do not qualify for the Services Attach Rebate.
@@ -689,7 +689,7 @@ Rebate payouts will be reported and paid after each GitLab quarter close.
 For more information on quoting or the Partner Program, please visit:
 - [Deal Desk Quote Configuration](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes)
 - [Partner Program](/handbook/resellers/)
-- [Channel Discount Matrices for GitLab Team Members](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing).  
+- [Channel Discount Matrices for GitLab Team Members](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing).
 
 ## Channel Approvals
 
@@ -707,7 +707,7 @@ The partner will be prompted to input basic company information that will auto-f
 
  Please see the [Partner Support](/handbook/resellers/partner-support/) page.
 
-**External Communication:** Email partnersupport@gitlab.com to include a partner or other external stakeholder for help with partner-related requests. PHD team members monitor the queue and email inbox throughout the day in all time zones.  
+**External Communication:** Email partnersupport@gitlab.com to include a partner or other external stakeholder for help with partner-related requests. PHD team members monitor the queue and email inbox throughout the day in all time zones.
 
 ### Tagging Partner Operations in Salesforce
 
@@ -822,7 +822,7 @@ Channel Managers can:
 - generate their Partner Insights data by accessing this self-service [spreadsheet](https://docs.google.com/spreadsheets/d/1DfwnsWbKSUbY21KIzCh2hZH3cgJZltmjXSsCeObLT58/edit?usp=sharing). Please follow the instructions on the first tab of the spreadsheet to generate a PDF with charts and metrics for your selected partner.
 - create a Partner Insights PowerPoint by accessing this [step-by-step guide](https://docs.google.com/document/d/1XoyxxF8Ni8HpXqj17Tsoyd47zxpFpCCtnXJJ_WrO5aM/edit?usp=sharing).
 
-If you need assistance with accessing the spreadsheet or PowerPoint step-by-step guide, please contact us at [#partner-program-ops](https://gitlab.slack.com/archives/CTM4T5BPF) in Slack. If you have a customized reporting request that’s not on the self-service spreadsheet, [please open an issue on the Partner Operations board](/handbook/sales/field-operations/channel-operations/#the-channel-operations-issue-board).  
+If you need assistance with accessing the spreadsheet or PowerPoint step-by-step guide, please contact us at [#partner-program-ops](https://gitlab.slack.com/archives/CTM4T5BPF) in Slack. If you have a customized reporting request that’s not on the self-service spreadsheet, [please open an issue on the Partner Operations board](/handbook/sales/field-operations/channel-operations/#the-channel-operations-issue-board).
 
 ## Partner Award Program
 
@@ -932,16 +932,16 @@ For any questions regarding our Alliance partners, please reach out to the #alli
 ***Use Case 1: Partner Co-Sell (Marketplace transaction with no source credit)***
 
 If a deal is being transacted through **GCP Marketplace** or **AWS Marketplace**, then the following fields need to be filled out on the opportunity:
-- **Resale Partner** = [GCP](https://gitlab.my.salesforce.com/0014M00001nJhks)*or [AWS](https://gitlab.my.salesforce.com/0014M00001ldTdt)*  
-**Be sure to use the correct SFDC account. Click on the link to confirm the GCP and/or AWS account.)*  
+- **Resale Partner** = [GCP](https://gitlab.my.salesforce.com/0014M00001nJhks)*or [AWS](https://gitlab.my.salesforce.com/0014M00001ldTdt)*
+**Be sure to use the correct SFDC account. Click on the link to confirm the GCP and/or AWS account.)*
 
-***Use Case 2: Partner Sourced Deal Registration (No Marketplace transaction)***  
+***Use Case 2: Partner Sourced Deal Registration (No Marketplace transaction)***
 
 If GCP or AWS brought us a lead/referred GitLab a deal, but will not be transacting on Marketplace, then the following fields should be filled out on the opportunity:
 - **DR - Partner** should be filled out using [GCP](https://gitlab.my.salesforce.com/0014M00001nJhks) or [AWS](https://gitlab.my.salesforce.com/0014M00001ldTdt) account
 - **DR - Partner Deal Type** = Referral
 
-***Use Case 3: Partner Sourced Deal Registration (Marketplace transaction)***  
+***Use Case 3: Partner Sourced Deal Registration (Marketplace transaction)***
 If GCP or AWS brought us a lead/referred GitLab a deal, and will be transacting on Marketplace, then the following fields should be filled out on the opportunity:
 - **DR - Partner** should be filled out using [GCP](https://gitlab.my.salesforce.com/0014M00001nJhks) or [AWS](https://gitlab.my.salesforce.com/0014M00001ldTdt) account
 - **DR - Partner Deal Type** = Resale

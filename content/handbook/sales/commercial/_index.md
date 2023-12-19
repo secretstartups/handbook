@@ -380,7 +380,7 @@ Designating each opportunity that has a shot to close at the end of each fiscal 
 Hit the forecast we commit to and build better sales skills for our AEs and better coaching skills for our ASMs.
     - Ideal skills that need to be built are:
         - Understanding the concepts and execution around knowing the ideal timeline the customer wants to close.
-        - Identifying pain and having customers understand both the negative impacts of not switching to GitLab as well as the realized positive business outcomes by switching to Gitlab.
+        - Identifying pain and having customers understand both the negative impacts of not switching to GitLab as well as the realized positive business outcomes by switching to GitLab.
         - Building a time-bound mutual success plan with the customer based on the severity or the ability for the customer to devote resources to a project.
 
 ### Red / Green Lookback Process
@@ -778,7 +778,7 @@ The program will run for a total of **8** weeks;  each week focusing on a new to
 
 - Time Committment: A total of ~40 hours of dedicated time during the quarter between synchronous meetings and asynchronous work.
 
-The GitLab Commercial departnment expects all Team members to uphold the highest standards of moral and ethical behavior in harmony with GitLab’s CREDIT values. Engaging or promoting activities that are inconsistent with GitLab’s values is not acceptable. It is expected that Team members who are enrolled will uphold both stated and inferred values of working at Gitlab. Items include but are not limited to:
+The GitLab Commercial department expects all Team members to uphold the highest standards of moral and ethical behavior in harmony with GitLab’s CREDIT values. Engaging or promoting activities that are inconsistent with GitLab’s values is not acceptable. It is expected that Team members who are enrolled will uphold both stated and inferred values of working at GitLab. Items include but are not limited to:
 - Good collaboration with other team members
 - Assuming positive intent
 - Continuing to deliver results in the team member’s current position

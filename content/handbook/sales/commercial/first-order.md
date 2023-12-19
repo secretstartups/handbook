@@ -218,5 +218,5 @@ The Alliances team can assist with connecting you to the Alliance Partner sales 
 (Red/Green, close date convention)
 1. What is the most efficient way of prospecting? What tools are being used to find potential clients?
 1. What are good call notes / next steps?
-1. How does Gitlab handle discount requests? What is the guidline?
+1. How does GitLab handle discount requests? What is the guidline?
 
