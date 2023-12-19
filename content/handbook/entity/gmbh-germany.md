@@ -45,7 +45,7 @@ Team members can also email this form directly to WTW (contact details on the fo
 
 ### Plan Design
 
-**Direct Insurance**: Gitlab will match up to 1% of pensionable income, max 1% of SSCC towards team member's salary sacrifice contributions.
+**Direct Insurance**: GitLab will match up to 1% of pensionable income, max 1% of SSCC towards team member's salary sacrifice contributions.
 
 - Employee contributions: The team member can elect an amount up to ~7% of the SCC maximum
 - Employer :Contributions GitLab Employer contributions will match only 1%. **Please note: team members must elect at least 1% to receive the Employer Match.**

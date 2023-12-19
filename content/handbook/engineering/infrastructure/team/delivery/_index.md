@@ -301,7 +301,7 @@ The Delivery group uses priority labels to indicate order under which work is ne
 | Delivery::P3 | Issue should be completed once other urgent work is done. |
 | Delivery::P4 | **Default priority**. A nice-to-have improvement, non-blocking technical debt, or a discussion issue. Issue might be completed in future or work completely abandoned. |
 
-The group uses priority labels differently to the [general issue triage priority definition](/handbook/engineering/quality/issue-triage/#priority) in order to avoid ambiguity that comes with difference in timelines between Stage teams and Infrastructure teams. We have different timelines (release brings different expectations for Delivery), different DRI's (no PM for Delivery), and different importance (Blocked release means that no one can ship anything).
+The group uses priority labels differently to the [general issue triage priority definition](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority) in order to avoid ambiguity that comes with difference in timelines between Stage teams and Infrastructure teams. We have different timelines (release brings different expectations for Delivery), different DRI's (no PM for Delivery), and different importance (Blocked release means that no one can ship anything).
 
 #### Other Labels
 

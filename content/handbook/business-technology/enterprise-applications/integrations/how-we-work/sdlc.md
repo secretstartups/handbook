@@ -54,7 +54,7 @@ Another artifact of this phase would be a UAT plan primarily developed by the te
 
 #### [Phase 2 - Design](/handbook/business-technology/enterprise-applications/bsa/#design)
 
-User stories would be converted into sub-epics of the main project with each specification being documented on the epics. These epics will live in the [Gitlab.com group](https://gitlab.com/gitlab-com). The engineering team will create various design documents and break down the specifications into engineering issues. Issues are the smallest unit of work. They are created in the [Platypus Project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus/-/issues)
+User stories would be converted into sub-epics of the main project with each specification being documented on the epics. These epics will live in the [`gitlab-com` group](https://gitlab.com/gitlab-com). The engineering team will create various design documents and break down the specifications into engineering issues. Issues are the smallest unit of work. They are created in the [Platypus Project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus/-/issues)
 
 Note: In order to correctly associate changes to their respective projects; merge requests in the Platypus project must have an issue number in their title. For example: [WIP: #20 Ship coverage report artifact from tests](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus/-/merge_requests/25)
 

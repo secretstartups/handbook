@@ -39,7 +39,7 @@ If you're building a feature that should have a distinct name then please reach 
 
 #### Jobs to be Done (JTBD)
 
-JTBD is an important part of the process of establishing an SEG. Not only does writing job statements help the SEG to clearly identify their areas of focus, but it also helps to communicate the roadmap and rationale to the rest of the organization and the broader GitLab community. 
+JTBD is an important part of the process of establishing an SEG. Not only does writing job statements help the SEG to clearly identify their areas of focus, but it also helps to communicate the roadmap and rationale to the rest of the organization and the broader GitLab community.
 
 Each SEG should add a section to their handbook page and create a table with 3 to 5 job statements for their area. Each row in the table should include the following columns:
 
@@ -52,9 +52,9 @@ Each SEG should add a section to their handbook page and create a table with 3 t
 
 The **Maturity Rating** should align with how maturity is measured in GitLab (minimal, viable, etc.), and should be measured using the same criteria as [described in the Product handbook](https://about.gitlab.com/direction/maturity/).
 
-The **Research Issue** should be a confidental issue in the SEG project with information that has been gathered by the SEG or other sources and should capture what has been learned about a specific JTBD. This can include notes or recordings from customer conversations, competitive research, or any other public industry information. 
+The **Research Issue** should be a confidental issue in the SEG project with information that has been gathered by the SEG or other sources and should capture what has been learned about a specific JTBD. This can include notes or recordings from customer conversations, competitive research, or any other public industry information.
 
-The **Roadmap Issue** (or Epic) should be a public resource for the SEG to communicate the planned roadmap and current state of development. 
+The **Roadmap Issue** (or Epic) should be a public resource for the SEG to communicate the planned roadmap and current state of development.
 
 An example of this structure can be seen on the [Mobile DevOps Handbook Page](https://about.gitlab.com/handbook/engineering/development/incubation/mobile-devops/#jobs-to-be-done).
 
@@ -76,7 +76,7 @@ It's important to use the correct market terminology, and to define terms that m
 In order to maintain consistency, the process below should be followed when starting a new SEG from an incubation backlog project:
 
 1. Request "Owner" access to the [Incubation Engineering group](https://gitlab.com/gitlab-org/incubation-engineering/) from one of your fellow department members.
-1. Create a new subgroup within the [Incubation Engineering group](https://gitlab.com/gitlab-org/incubation-engineering/). For example: [mobile-devops](https://gitlab.com/gitlab-org/incubation-engineering/mobile-devops)
+1. Create a new subgroup within the [Incubation Engineering group](https://gitlab.com/gitlab-org/incubation-engineering/). For example: [`mobile-devops`](https://gitlab.com/gitlab-org/incubation-engineering/mobile-devops)
 1. Create a `meta` project within that new group. For example: [mlops/meta](https://gitlab.com/gitlab-org/incubation-engineering/mlops/meta)
 1. Create a twice montly update issue in that new `meta` project. This issue will replace the existing backlog project issue and be used to post bi-weekly demo recordings from the new SEG. For example: [jamstack](https://gitlab.com/gitlab-org/incubation-engineering/jamstack/meta/-/issues/5)
 1. Add all labels from the original backlog issue to the issue you just created. For example: [original issue](https://gitlab.com/gitlab-org/gitlab/-/issues/329592) | [new issue](https://gitlab.com/gitlab-org/incubation-engineering/mobile-devops/readme/-/issues/7)
@@ -115,7 +115,7 @@ Incubation Engineering team members benefit from shadowing customer / prospect e
 
 Field marketing has welcomed all Incubation Engineering team members to shadow upcoming field marketing events. These events are conducted with new prospects, existing customers and individual GitLab / DevOps enthusiasts.
 
-Incubation Engineering team members may discover issues for upcoming events, and may request an invitation by commenting in the event's issue. 
+Incubation Engineering team members may discover issues for upcoming events, and may request an invitation by commenting in the event's issue.
 
 The following issue boards are to be used to discover upcoming events:
 
@@ -174,30 +174,30 @@ When releasing features, ensure you engage the [Application Security team](https
 
 ### Write a Release Post
 
-Once you expect your publicly visible feature to be in the 
-next release, it's time to write a [release post](https://about.gitlab.com/handbook/marketing/blog/release-posts/). Start this process as early as 
-possible, it's easier to move it to the next review cycle than to rush the 
+Once you expect your publicly visible feature to be in the
+next release, it's time to write a [release post](https://about.gitlab.com/handbook/marketing/blog/release-posts/). Start this process as early as
+possible, it's easier to move it to the next review cycle than to rush the
 process.
 
-Due to the SEG-nature of our group the process is slightly different from 
-the default. As you wear both the Engineer's and PM's hats, the process is 
-faster, but you'll also lack a second pair of eyes. Check out the [PM 
+Due to the SEG-nature of our group the process is slightly different from
+the default. As you wear both the Engineer's and PM's hats, the process is
+faster, but you'll also lack a second pair of eyes. Check out the [PM
 Contributors](https://about.gitlab.com/handbook/marketing/blog/release-posts/#pm-contributors)
-section of the release post Handbook page for the default process. Here is a 
+section of the release post Handbook page for the default process. Here is a
 Incubation-adjusted TL;DR:
 
 1. If you created a feature issue that used the [feature issue template]
    (https://about.gitlab.com/handbook/product/product-processes/#feature-templates),
    use the [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/release-post-item)
 2. Alternatively, create your [Release post MR manually](https://about.gitlab.com/handbook/marketing/blog/release-posts/#option-2-manual-mr-creation)
-3. Go through the "PM release post item checklist". Note that in Incubation 
+3. Go through the "PM release post item checklist". Note that in Incubation
    Engineering **you act as both the PM and EM**.
-4. The only required reviewer is the Technical Writer for the Stage/Group your 
+4. The only required reviewer is the Technical Writer for the Stage/Group your
    feature is located in. See the [Tech Writer Assignments](https://about.gitlab.com/handbook/product/ux/technical-writing/#designated-technical-writers)
    to find out who that is.
-5. Other Reviewers are optional, but it's recommended to add the PM for the 
+5. Other Reviewers are optional, but it's recommended to add the PM for the
    group of the feature for visibility.
-6. Since you are also doing the EM work, you can self-merge the Release post 
+6. Since you are also doing the EM work, you can self-merge the Release post
    once approved by the TW.
 
 ### Tools Incubation Engineers Use
@@ -226,7 +226,7 @@ Incubation-adjusted TL;DR:
 
 [This MR gives an example on how to add a brand new API endpoint](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/95689)
 
-1. Code under `/lib/api` 
+1. Code under `/lib/api`
 1. Entities tests under `requests/api/entities`
 1. API tests under `/requests/api/`
 1. use ApiGuard to assert api permissions
@@ -241,9 +241,9 @@ Find the Discord and Slack channels of your community and engage in conversation
 
 ##### Polywork
 
-To recruit external users, creating "Opportunities" in Polywork is a useful resource. But: asking for interviews straight away is too high a level of engagement for users. 
+To recruit external users, creating "Opportunities" in Polywork is a useful resource. But: asking for interviews straight away is too high a level of engagement for users.
 A more successful strategy is to create a Google Form without too many freetext questions, then linking it as an Opportunity in Polywork.
-Polywork embeds Google Forms, so the users don't have to leave the site. 
+Polywork embeds Google Forms, so the users don't have to leave the site.
 
 If you ask for contact details for follow up questions, you have a set of recruits that may be more open to follow up in-person interviews if needed.
  (Note: Contact details are PII data. Do not use it beyond the usecase indicated on the form, do not save it elsewhere and delete immediately after use. Refer to our [Privacy Page](https://about.gitlab.com/handbook/legal/privacy/) for details)

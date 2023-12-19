@@ -117,13 +117,13 @@ We have [cross-functional prioritization](/handbook/product/cross-functional-pri
 - The Product Manager will prioritize `type::feature` issues
 - The Engineering Manager will prioritize `type::maintenance` issues
 - The Software Engineer in Test will prioritize `type::bug` issues
-- The Product Designer will prioritize `sus::impacting` issues ([System Usability Scale (SUS)](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#sus-impacting))
+- The Product Designer will prioritize `sus::impacting` issues ([System Usability Scale (SUS)](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#sus-impacting))
 
 #### Mechanics
 
 - The team uses the [#g_utilization_planning](https://gitlab.slack.com/archives/C04108X3FDG) Slack channel to discuss cross-functional prioritization.
 - The team reviews [this dashboard](#merged-merge-request-types) which shows the distribution of MRs that are bugs, maintenance, and features to ensure the team's efforts are properly aligned to our target prioritization ratio (60% features / 30% maintenance / 10% bugs).
-- The team uses [this prioritization board](https://gitlab.com/gitlab-org/gitlab/-/boards/4416231?label_name%5B%5D=group%3A%3Autilization) to order our top features, bugs, maintenance, and [System Usability Scale (SUS)](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#sus-impacting) impacting issues.
+- The team uses [this prioritization board](https://gitlab.com/gitlab-org/gitlab/-/boards/4416231?label_name%5B%5D=group%3A%3Autilization) to order our top features, bugs, maintenance, and [System Usability Scale (SUS)](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#sus-impacting) impacting issues.
 - For a quick view and controls on bugs by priority, [this board](https://gitlab.com/groups/gitlab-org/-/boards/2874336?label_name[]=group%3A%3Autilization&label_name[]=type%3A%3Abug) can be used. More detailed information on bugs, including backlog and open rate, both of which are factors in determining their desired bug percentage for the upcoming milestone, is shown in this [dashboard](https://app.periscopedata.com/app/gitlab/1037965/Bug-Prioritization) (select Utilization from filters).
 - The team collaborates on a prioritization issue that documents and discusses our current prioritization scheme.
 

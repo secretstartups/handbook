@@ -695,7 +695,7 @@ Supports enterprise-grade operational experience of GitLab products from streaml
 
 **Important data documentation**
 
-There are no Enablement metrics currently collected in our Postgres Replica data for Gitlab.com
+There are no Enablement metrics currently collected in our Postgres Replica data for GitLab.com
 
 The following tables can be used for Service Ping metric reporting.
 
@@ -763,7 +763,7 @@ Supports enterprise-grade operational experience of GitLab products from streaml
 
 **Important data documentation**
 
-There are no Enablement metrics currently collected in our Postgres Replica data for Gitlab.com
+There are no Enablement metrics currently collected in our Postgres Replica data for GitLab.com
 
 The following tables can be used for Service Ping metric reporting.
 

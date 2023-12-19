@@ -10,7 +10,7 @@ description: "Automation and tooling for processing un-triaged issues at GitLab"
 
 
 
-Any GitLab team-member can triage issues. Keeping the number of [un-triaged issues](/handbook/engineering/quality/issue-triage/#triaging-issues) low is essential for maintainability, and is our collective responsibility.
+Any GitLab team-member can triage issues. Keeping the number of [un-triaged issues](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#triaging-issues) low is essential for maintainability, and is our collective responsibility.
 
 We have implemented automation and tooling to handle this at scale and distribute the load to each team or group.
 
@@ -24,8 +24,8 @@ The Quality Engineering Department ensures that every Product and Engineering gr
 
 Our defect SLA can be viewed at:
 
-* [Priority labels](/handbook/engineering/quality/issue-triage/#priority)
-* [Severity labels](/handbook/engineering/quality/issue-triage/#severity)
+* [Priority labels](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority)
+* [Severity labels](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity)
 
 The Quality Engineering department employs a number of tools and automation in addition to manual intervention to help us achieve this goal.
 The work in this area can been seen in our department roadmap under [Triage](/handbook/engineering/infrastructure/test-platform/roadmap/#triage-track-roadmap-view) and [Measure](/handbook/engineering/infrastructure/test-platform/roadmap/#measure-track-roadmap-view) tracks of work.
@@ -113,7 +113,7 @@ These reports are owned by the [Contributor Success team](/handbook/marketing/de
 
 #### Newly created community merge requests
 
-This report contains community merge requests requiring [partial triage](/handbook/engineering/quality/merge-request-triage/#partial-triage-gitlab-org).
+This report contains community merge requests requiring [partial triage](/handbook/engineering/infrastructure/engineering-productivity/merge-request-triage/#partial-triage-gitlab-org).
 The goal is for coaches to add type, stage, and group labels, so that the relevant people can be pinged later on based on these labels.
 
 * Frequency: Daily.
@@ -145,7 +145,7 @@ This report contains community merge requests that may require some attention fr
 #### Group level bugs, features, and UX debt
 
 This report contains the relevant bugs, feature requests, and UX debt issues that belong to a group in our [DevOps stages](/handbook/product/categories/#devops-stages).
-The goal is to achieve [complete-triage](/handbook/engineering/quality/issue-triage#complete-triage) by the Product Manager, Engineering Manager, UX team member in that area.
+The goal is to achieve [complete-triage](/handbook/engineering/infrastructure/engineering-productivity/issue-triage#complete-triage) by the Product Manager, Engineering Manager, UX team member in that area.
 
 The report itself is divided into 4 main parts.
 * Feature proposals
@@ -184,8 +184,8 @@ This section contains issues with the `~"type::bug"` and `~"frontend"` labels wi
 * Triage owner: Frontend Engineering Manager(s) for that group.
 * Triage actions:
   1. Close the issue if it is no longer relevant or a duplicate.
-  1. Assign a [Priority Label](/handbook/engineering/quality/issue-triage/#priority).
-  1. Assign a [Severity Label](/handbook/engineering/quality/issue-triage/#severity).
+  1. Assign a [Priority Label](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority).
+  1. Assign a [Severity Label](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity).
   1. Assign either a versioned milestone or to the `Backlog`.
 
 ##### Non-frontend bugs (likely backend)
@@ -195,13 +195,13 @@ This section contains issues with the `~"type::bug"` label without priority and 
 * Triage owner: Backend Engineering Manager(s) for that group.
 * Triage actions:
   1. Close the issue if it is no longer relevant or a duplicate.
-  1. Assign a [Priority Label](/handbook/engineering/quality/issue-triage/#priority).
-  1. Assign a [Severity Label](/handbook/engineering/quality/issue-triage/#severity).
+  1. Assign a [Priority Label](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority).
+  1. Assign a [Severity Label](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity).
   1. Assign either a versioned milestone or to the `Backlog`.
 
 ##### severity::1 & severity::2 bugs past SLO
 
-This section contains bugs which has past our targeted SLO based on the severity label set. This is based on our [missed SLO detection](/handbook/engineering/quality/triage-operations/index.html#missed-slo) triage policy.
+This section contains bugs which has past our targeted SLO based on the severity label set. This is based on our [missed SLO detection](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/index.html#missed-slo) triage policy.
 
 ##### Heatmap for ~customer bugs
 
@@ -498,7 +498,7 @@ graph LR
 
 For issues labelled `~"availability"`, the minimal are enforced with the
 guidelines at
-<https://about.gitlab.com/handbook/engineering/quality/issue-triage/#availability-prioritization>
+<https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#availability-prioritization>
 
 #### Ensure no deprecated backstage labels are added
 
@@ -714,7 +714,7 @@ Issues which have a label of `~Deliverable` without a milestone will have the mi
 
 #### Missed SLO
 
-Issues which have a severity label and missed the [SLO target](/handbook/engineering/quality/issue-triage/#severity) will be labeled with `~missed-SLO`. The calculation for elapsed time starts from the date of the severity label was applied. This enables reporting on SLO target adherence.
+Issues which have a severity label and missed the [SLO target](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity) will be labeled with `~missed-SLO`. The calculation for elapsed time starts from the date of the severity label was applied. This enables reporting on SLO target adherence.
 
 * Automation conditions:
   - Issue with severity label present and is remains in an open state past SLO target.
@@ -807,7 +807,7 @@ Type labels ensure that issues are present in the [group triage report](#group-l
 
 #### Bug SLO Warning
 
-Bugs have a severity label that indicates the [SLO for a fix](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity). This automated policy aims to prompt managers about bugs in their group that are approaching the SLO threshold
+Bugs have a severity label that indicates the [SLO for a fix](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity). This automated policy aims to prompt managers about bugs in their group that are approaching the SLO threshold
 
 * Automation conditions:
   - Open issue labelled `~"type::bug"` and has a `~severity::1` or `~severity::2`
@@ -819,7 +819,7 @@ Bugs have a severity label that indicates the [SLO for a fix](https://about.gitl
 
 #### Reminder on ~infradev issues to set severity label, priority label, and milestone
 
-Issues with the ~infradev label should have a [severity label](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity), a [priority label](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority), and a milestone set. This automated policy aims to prompt managers about such issues missing one of these attributes.
+Issues with the ~infradev label should have a [severity label](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity), a [priority label](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority), and a milestone set. This automated policy aims to prompt managers about such issues missing one of these attributes.
 
 * Automation conditions:
   - Open issue labelled `~infradev` and has no severity label, or no priority label, or no milestone set
@@ -837,8 +837,8 @@ Note:
    This effectively ensures that a reminder is posted on the issue every two weeks.
 ## Resources
 
-* [Issue Triage Policies](/handbook/engineering/quality/issue-triage/).
-* [Wider Community Merge Request Triage Policies](/handbook/engineering/quality/merge-request-triage/)
+* [Issue Triage Policies](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/).
+* [Wider Community Merge Request Triage Policies](/handbook/engineering/infrastructure/engineering-productivity/merge-request-triage/)
 * Chat channels; we use our chat internally as a realtime communication tool:
   * [#triage](https://gitlab.slack.com/messages/triage): general triage team channel.
   * [#gitlab-issue-feed](https://gitlab.slack.com/messages/gitlab-issue-feed) - Feed of all GitLab-CE issues

@@ -231,7 +231,7 @@ The Director, Channel Sales Manager is a [grade 10](/handbook/total-rewards/comp
 #### Responsibilities
 
 - Engage GitLab Regional Sales leadership, Sales & Solutions Architects and marketing teams to ensure awareness and leverage of GitLab channel strategy and philosophy
-- Build out and own executive VP and C-level relationships across your territory of focus's Devops Ops System Integration, Advisory & VAR network
+- Build out and own executive VP and C-level relationships across your territory of focus's DevOps Ops System Integration, Advisory & VAR network
 - Work with Channel Services & Channel Solutions Architecture to build dedicated GitLab practices in leading boutique, regional & global system integrators
 - Identify demand generation and build pipeline across your territory of focus.
 - Directly manage your territory of focus's channels and alliances team across all market segments (Enterprise, MidMarket & SMB)

@@ -1,14 +1,14 @@
 ---
 
-title: Gitlab Laptop Offboarding Guide
-description: "This section stands as the single source of information in regards to how to properly offboard your Gitlab laptop."
+title: GitLab Laptop Offboarding Guide
+description: "This section stands as the single source of information in regards to how to properly offboard your GitLab laptop."
 ---
 
 
 
 
 
-#### Gitlab Laptop Offboarding Guide
+#### GitLab Laptop Offboarding Guide
 
 
 This section stands as the SSOT in regards to how to properly offboard your GitLab laptop.
@@ -17,7 +17,7 @@ Any team member leaving GitLab must review this handbook page thoroughly and in 
 
 **All laptops must be wiped by a member of the IT team on or before your last day of employment. If you perform the laptop wipe yourself, you will be forced to wipe it again, so please refrain from doing that twice, and contact us instead.**
 
-**Please note you must have a laptop wipe appointment scheduled on your last day. If you do not contact Gitlab IT (gitlab-laptop-recovery@gitlab.com or #it_help if you have access to GitLab’s Slack workspace) on your last day, your laptop will immediately locked with a pin code. To reverse this, please email gitlab-laptop-recovery@gitlab.com.**
+**Please note you must have a laptop wipe appointment scheduled on your last day. If you do not contact GitLab IT (gitlab-laptop-recovery@gitlab.com or #it_help if you have access to GitLab’s Slack workspace) on your last day, your laptop will immediately locked with a pin code. To reverse this, please email gitlab-laptop-recovery@gitlab.com.**
 
 
 ### Before your last day
@@ -40,16 +40,16 @@ Please schedule a time with an IT Analyst to wipe your laptop, you can find our 
 - Join your meeting so an IT team member can confirm your information and wipe your laptop.
 
 
-### After your laptop is wiped. (Personal Ownership, returning, purchasing your Gitlab laptop)**
+### After your laptop is wiped. (Personal Ownership, returning, purchasing your GitLab laptop)**
 
 **If you have had the current laptop for more than a year.**
 
-After the laptop is wiped by Gitlab IT:
-- You may keep your laptop at no charge after the laptop is wiped by Gitlab IT.
+After the laptop is wiped by GitLab IT:
+- You may keep your laptop at no charge after the laptop is wiped by GitLab IT.
 - We can provide a Transfer of Ownership document if requested.
 
 **If you’ve had the laptop for less than a year.**
 
-After the laptop is wiped by Gitlab IT:
+After the laptop is wiped by GitLab IT:
 - You can choose to return your laptop, in which case we will arrange a shipment at no cost to yourself for the return.
-- You may purchase the laptop from Gitlab at a depreciated market value. We can provide a Transfer of Ownership document if requested
+- You may purchase the laptop from GitLab at a depreciated market value. We can provide a Transfer of Ownership document if requested

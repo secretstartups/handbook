@@ -150,7 +150,7 @@ Delivery docs and technical guidance for your GitLab practice engineers
      GitLab.com has updates multiple times per day.  
 
 **Implementing GitLab Runners**
-  - [Gitlab Runner Overview](https://docs.gitlab.com/runner/)
+  - [GitLab Runner Overview](https://docs.gitlab.com/runner/)
     - GitLab Runners represent the **largest workload the system generates.**  The Runner is the software that executes all of the CI pipelines.  It's possible to deploy them on fixed infrastructure, or autoscale them (up and down) in a cloud provider.
   - [GitLab Runner Installation](https://docs.gitlab.com/runner/install/)
   - [GitLab Runner Advanced Configuration](https://docs.gitlab.com/runner/configuration/)

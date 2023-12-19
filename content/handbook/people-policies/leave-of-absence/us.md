@@ -5,7 +5,7 @@ description: "GitLab's United States Leave of Absence policies."
 
 These GitLab and US-specific leave policies are intended to provide team members time away from work to care for themselves as they recover from a serious health condition, care for a family member recovering from a serious health condition, or to bond with a newborn or a newly placed child for adoption.
 
-This page is designed to educate our team members about the different US-specific leave types available, how a team member can expect to be paid, and if their job is protected. These leave programs are coordinated and run concurrently with FMLA (Family Medical Leave Act), and other State leave programs team members are eligible for.
+This page is designed to educate our team members about the different US-specific leave types available, how a team member can expect to be paid, and if their job is protected. These leave programs are coordinated and run concurrently with the [Family Medical Leave Act](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf) or (FMLA), and other State leave programs team members are eligible for.
 
 Taking time away can be confusing, so your Absence Managment team is here and available to help before, during, or after your leave. If you have any questions related to your time away after reviewing this page, please contact leaves@domain to discuss or request a 1:1 with the Absence Management team.
 
@@ -46,8 +46,10 @@ Below are the GitLab and US-specific leave policies available to US team members
 | [Family Medical Leave Act<br>(FMLA - Own Condition)](#payroll-processing-during-fmla) | 66.67% (STD) + 33.3% paid by GitLab per week<br>After 12 weeks:  <br>     66.67% (LTD) per month |
 | [Family Medical Leave Act<br>(FMLA - Care for a Family Member)](#the-family-medical-leave-act-fmla) | 100% for up to 25 working days
 | California Family Rights Act<br>(CFRA) | First 8 weeks:  60% (SDI/PFL) + 6.66% (STD) + 33.3% paid by GitLab<br>8-12 weeks:  60% (SDI - if applicable) + 6.66% (STD) + 33.3% paid by GitLab<br>After 12 weeks:  66.67% LTD paid by Cigna monthly (if eligible) |
-| [Military Leave (USERRA)](#us-military-leave) | First 25 days:  paid 100% by Gitlab<br>After 25 days:  Unpaid |
+| [Military Leave (USERRA)](#us-military-leave) | First 25 days:  paid 100% by GitLab<br>After 25 days:  Unpaid |
 | Unpaid Personal Leave | Unpaid |
+
+*If leave is taken continuously
 
 If you live in a state where disability or paid family leave benefits are available, GitLab will offset your pay minus these benefits. Please refer to GitLab's [Parental Leave]({{< ref "inc-benefits-us#parental-leave" >}}) policy for more information.
 

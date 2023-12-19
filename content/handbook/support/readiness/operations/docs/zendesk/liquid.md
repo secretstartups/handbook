@@ -232,7 +232,7 @@ the ticket form.
 ```string
 {% assign form = ticket.ticket_form %}
 
-{% if form == 'Gitlab.com (SaaS) User Accounts and Login Issues' %}
+{% if form == 'GitLab.com (SaaS) User Accounts and Login Issues' %}
   {% assign form = 'form::GitLab.com' %}
 {% elsif form == 'Support for GitLab.com (SaaS)' %}
   {% assign form = 'form::GitLab.com' %}
@@ -255,7 +255,7 @@ Line by line breakdown:
    - The value should be the ticket's form
 1. A blank line for spacing (not required, just makes it look nicer)
 1. Declare an `if` block, with the condition being if the value of `form` is
-   `Gitlab.com (SaaS) User Accounts and Login Issues`
+   `GitLab.com (SaaS) User Accounts and Login Issues`
 1. Assign a value to the variable `form`
 1. Declare an `elsif` block, with the condition being if the value of `form` is
    `Support for GitLab.com (SaaS)`

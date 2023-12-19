@@ -156,8 +156,10 @@ If they want to pause, put the ticket on-hold. Otherwise:
 ## How Support Handles Family and Friends Days
 
 During [Family and Friends Days](/handbook/company/family-and-friends-day/#upcoming-family-and-friends-days) GitLab Support continues
-to operate as normal. During the month of a Family and Friends Days, choose a day off to spend as you please.
+to operate as normal. Starting from Q1/FY25, during each quarter you are free free to take a day off at your convenience, to celebrate Family and Friends day.
 Please follow the same guidelines as you would in [Choosing and Recording Time Off](#choosing-and-recording-time-off).
+
+
 
 ## How Support Handles Holidays
 

@@ -514,7 +514,7 @@ We use the following labels to capture the cause of the failure.
 - `~"failure::bug"`: [Bug in the application](#bug-in-the-application)
 - `~"failure::external-dependency"`: [Failure due to an external dependency](#failure-due-to-external-dependency)
 
-Bugs blocking end-to-end test execution (due to the resulting quarantined tests) should additionally have severity and priority labels. For guidelines about which to choose, please see the [blocked tests section of the issue triage page](/handbook/engineering/quality/issue-triage/#blocked-tests).
+Bugs blocking end-to-end test execution (due to the resulting quarantined tests) should additionally have severity and priority labels. For guidelines about which to choose, please see the [blocked tests section of the issue triage page](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#blocked-tests).
 
 **Note**: It might take a while for a fix to propagate to all environments. Be aware that a new failure could be related
 to a recently-merged fix that hasn't made it to the relevant environment yet. Similarly, if a known failure occurs but
@@ -550,7 +550,7 @@ The failure was caused by a bug in the application code.
 - Add the steps to reproduce the bug and expected/actual behavior.
 - Apply the `~"type::bug"` label, and cc-ing the corresponding Engineering Managers (EM), QEM, and SET.
 - Apply the `~"found by e2e test"` label to the bug issue (or bug fix MR if it is fixed immediately) to indicate the bug was found by the end-to-end test execution.
-- If the problem adheres to the definition of a [transient bug](/handbook/engineering/quality/issue-triage/#transient-bugs), apply the ~"bug::transient" label as well.
+- If the problem adheres to the definition of a [transient bug](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#transient-bugs), apply the ~"bug::transient" label as well.
 - If there is an issue open already for the bug, use this issue instead and apply the above steps.
 - Communicate the issue in the corresponding Slack channels.
 - [Quarantine][quarantining tests] the test right after the bug issue has been created. Leave a note on the bug issue with the link to the quarantined test and mention that it should be un-quarantined with the fix.

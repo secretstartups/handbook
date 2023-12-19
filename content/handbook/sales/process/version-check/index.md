@@ -17,7 +17,7 @@ GitLab Version Check is a suite of UI elements focused on communicating to insta
 admins the status of their current instance's version. The status is communicated
 through various elements depending on how critical the version they are behind is.
 
-## Gitlab Version Check UI Suite
+## GitLab Version Check UI Suite
 
 ### GitLab Version Badge
 

@@ -57,17 +57,17 @@ To view laptop delivery metrics and statistic please visit the [Laptop Metrics H
 
 Please visit the GitLab Onboarding and machine management [handbook page](/handbook/business-technology/end-user-services/onboarding-access-requests/)
 
-#### Gitlab Laptop Offboarding
+#### GitLab Laptop Offboarding
 
-Please visit the Gitlab Laptop Offboarding page for information pertaining to this process at Gitlab [handbook page](/handbook/business-technology/end-user-services/gitlab-laptop-offboarding/)
+Please visit the GitLab Laptop Offboarding page for information pertaining to this process at GitLab [handbook page](/handbook/business-technology/end-user-services/gitlab-laptop-offboarding/)
 
 #### Self-help and troubleshooting
 
 Experiencing some issues with your machine, access to systems, 2FA or other IT related issues? Please visit our [self-help and troubleshooting handbook page](/handbook/business-technology/end-user-services/self-help-troubleshooting/)
 
-#### Gitlab IT 101
+#### GitLab IT 101
 
-New to Gitlab and looking for some IT tips and tricks? This is the spot for you, we have created a comprehensive guide for using the IT systems, apps and hardware [in this handbook page](/handbook/business-technology/end-user-services/onboarding101/)
+New to GitLab and looking for some IT tips and tricks? This is the spot for you, we have created a comprehensive guide for using the IT systems, apps and hardware [in this handbook page](/handbook/business-technology/end-user-services/onboarding101/)
 
 #### Offboarding
 

@@ -96,7 +96,7 @@ Note that in order for the airflow user to connect to the Cloud SQL instance whi
 
 Alternatively, for testing, one can connect to the sql instance through its `external IP`, but only once the user's own IP address is authorized on this [networking page](https://console.cloud.google.com/sql/instances/ops-db-restore/connections/networking?project=gitlab-analysis).
 
-## Gitlab Customer Dot Database
+## GitLab Customer Dot Database
 
 Customers Dot database holds information on the `Customer Portal` of the gitlab.com, where customers manage information such as upgrade of subscriptions, adding more seats etc. The infrastructure setup is done in a way that the data team uses the backups as a data source to extract information without affecting the production database.
 The system setup is done by SRE team. For more details on peering can be found [here](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/customersdot/backups.md#gitlab-analysis).
@@ -134,7 +134,7 @@ Self-Managed Service Ping is loaded into the Data Warehouse from the Versions ap
 ### SaaS Service Ping
 
 SaaS Service Ping is loaded into Data Warehouse in two ways:
-- using `SQL` statements from Gitlab `Postgres Database` Replica (`SQL-based`) and
+- using `SQL` statements from GitLab `Postgres Database` Replica (`SQL-based`) and
 - RestFUL API call from `Redis` (`Redis based`)
 
 Implementation details from the Data team is shown under [Readme.md](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/README.md#user-content-technical-implementation) file.
@@ -486,7 +486,7 @@ The Zuora system is placed behind a firewall. In order to get access through the
 ![Zuora Network ](https://lucid.app/publicSegments/view/81713250-c9ab-410d-8cde-4b4ce7865b56/image.png)
 
 
-From this [list](https://knowledgecenter.zuora.com/Zuora_Revenue/Zuora_Revenue_BI_views) only below table are being loaded or had data for Gitlab in Zuora Revenue at the moment for integration.
+From this [list](https://knowledgecenter.zuora.com/Zuora_Revenue/Zuora_Revenue_BI_views) only below table are being loaded or had data for GitLab in Zuora Revenue at the moment for integration.
 
 Below is the list of table which has data and which will be created in snowflake. The table which is not having data will not be created because the table definition provided by Zuora API is not on the column ordinal position but it alphabetical order, which makes column labeling incorrect.
 
@@ -685,7 +685,7 @@ Zuora have provided view definition for the derived view. As extracting data fro
 
 ## Zoominfo
 
-ZoomInfo is a go-to-market intelligence platform for B2B sales and marketing teams. The integrated cloud-based platform provides sellers and marketers with comprehensive information to help them find potential new customers. In order to get these kind of enrich data, Gitlab needs to send data as outbound towards Zoominfo and after processing GitLab will receive processed data as an inbound table via Snowflake data share from zoominfo.
+ZoomInfo is a go-to-market intelligence platform for B2B sales and marketing teams. The integrated cloud-based platform provides sellers and marketers with comprehensive information to help them find potential new customers. In order to get these kind of enrich data, GitLab needs to send data as outbound towards Zoominfo and after processing GitLab will receive processed data as an inbound table via Snowflake data share from zoominfo.
 
 The Zoominfo data pipeline is an automated bi-directional data pipeline that leverages Snowflake data share methodology.
 
@@ -749,15 +749,15 @@ Inbound shares can be viewed under Inbound tab under shares page on the snowflak
 ![image.png](./image.png)
 
 #### Outbound table
-- `"PROD"."SHARE"."GITLAB_USER_OUTBOUND"` - Outbound table has Gitlab user information such as First name, Last name, email address and company name. Outbound table is shared only once to Zoominfo via Snowflake data share. The table is prepared via `dbt` so it will change over time. Its up to Zoominfo to ingest newly and updated data in this table.
+- `"PROD"."SHARE"."GITLAB_USER_OUTBOUND"` - Outbound table has GitLab user information such as First name, Last name, email address and company name. Outbound table is shared only once to Zoominfo via Snowflake data share. The table is prepared via `dbt` so it will change over time. Its up to Zoominfo to ingest newly and updated data in this table.
 
 #### Loading Inbound tables  
 
-Zoominfo sends inbound files to Gitlab via Snowflake data share. Shared database ZOOMINFO_INBOUND is created from inbound share using either the web interface or SQL. The inbound tables don't follow the standard architecture, where we ingest data in our raw layer and where `dbt` picks the data up for transformation. We handle the shared database as the `raw` database to avoid creating extra processes and make the pipeline more efficient. Data from inbound tables in ZOOMINFO_INBOUND is ingested into snowflake `prep` ​​using Snowflake Data Exchange loader. Below list of inbound tables are created in PREP database under 'zoominfo' schema.
+Zoominfo sends inbound files to GitLab via Snowflake data share. Shared database ZOOMINFO_INBOUND is created from inbound share using either the web interface or SQL. The inbound tables don't follow the standard architecture, where we ingest data in our raw layer and where `dbt` picks the data up for transformation. We handle the shared database as the `raw` database to avoid creating extra processes and make the pipeline more efficient. Data from inbound tables in ZOOMINFO_INBOUND is ingested into snowflake `prep` ​​using Snowflake Data Exchange loader. Below list of inbound tables are created in PREP database under 'zoominfo' schema.
 
 - `"ZI_COMP_WITH_LINKAGES_GLOBAL_SOURCE"` -  International table has a list of all the companies they have information about. This is a one time share.
 - `"ZI_REFERENCE_TECHS_SOURCE"` - Technograph table that has a list of technologies used by companies in their database.This is a one time share.
-- `"GITLAB_CONTACT_ENHANCE_SOURCE"` - User table company matched table which appends company information to the user list Gitlab sends to zoominfo. Gitlab sends Zoominfo only once but the appended data can be refreshed quarterly.
+- `"GITLAB_CONTACT_ENHANCE_SOURCE"` - User table company matched table which appends company information to the user list GitLab sends to zoominfo. GitLab sends Zoominfo only once but the appended data can be refreshed quarterly.
 
 ## Adaptive
 

@@ -46,7 +46,7 @@ curl -i http://localhost:80
 sudo gitlab-ctl restart nginx
 ```
 
-1. Verify the clients (e.g. the GitLab runner) can communicate with GitLab again.
+1. Verify the clients (e.g. the GitLab Runner) can communicate with GitLab again.
 
 ```bash
 sudo gitlab-ctl tail nginx/gitlab_access.log

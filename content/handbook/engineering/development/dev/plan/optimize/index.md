@@ -64,7 +64,7 @@ We plan in monthly cycles in accordance with our [Product Development Timeline](
 
 ##### Community contributions
 
-Issues that have previously been agreed upon and labelled as `Community contribution` should be [triaged](/handbook/engineering/quality/issue-triage/) to ensure they have:
+Issues that have previously been agreed upon and labelled as `Community contribution` should be [triaged](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/) to ensure they have:
 - A clear [implementation plan](/handbook/engineering/development/dev/create/ide/community-contributions/#treat-wider-community-as-primary-audience).
 - A relevant weight estimate.
 - The `Seeking community contributors` label assigned.
@@ -123,11 +123,11 @@ All meetings should have an agenda prepared at least 12 hours in advance. If thi
 
 ## Group Members
 
-The following people are permanent members of the group: 
+The following people are permanent members of the group:
 
 <%= stable_counterparts(role_regexp: /Plan.+Optimize/) %>
 
-## Dashboards 
+## Dashboards
 
 - [Feature usage](https://app.periscopedata.com/app/gitlab/779829/Manage:Optimize-Feature-Usage)
 

@@ -459,7 +459,7 @@ We demonstrate results when we do what we promised to each other, customers, use
 
 At GitLab, efficiency means producing [results](#results) without wasting materials, time, or energy. We optimize solutions globally for the broader GitLab community over one person or a small group. Focus on efficiency should be global in nature, not just local to a given function. Global efficiency could include efficiency with customers, candidates, and contributors as well. It is easy to prioritize consistency over efficiency because consistency is often more efficient initially and makes managing processes more efficient. We should slow down when optimizing for consistency. Taking a company-wide lens when evaluating changes will help ensure that new processes will improve efficiency for GitLab as a whole and be the best decision for the company as a whole.
 
-When we work internally with other team members, we leverage Gitlab's unique working practices and operating principles to achieve top efficiency. We do not expect people outside of GitLab to conform to GitLab's ways of working, and we will make accommodations to work effectively with them. For example, we may collaborate heavily in-person and not default to async communications.
+When we work internally with other team members, we leverage GitLab's unique working practices and operating principles to achieve top efficiency. We do not expect people outside of GitLab to conform to GitLab's ways of working, and we will make accommodations to work effectively with them. For example, we may collaborate heavily in-person and not default to async communications.
 
 ##### Only Healthy Constraints
 
@@ -592,7 +592,7 @@ We demonstrate efficiency when we work on the right things, not doing more than 
 
 ## 🌐 Diversity, Inclusion & Belonging {#diversity-inclusion}
 
-Diversity, inclusion and belonging are fundamental to the success of GitLab. We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. We are designing a multidimensional approach to ensure that GitLab is a place where people from every background and circumstance feel like they belong and can contribute. We actively chose to [build and institutionalize](https://www.russellreynolds.com/en/insights/reports-surveys/diversity-and-inclusion-gamechangers) a culture that is [inclusive](/handbook/company/culture/inclusion/) and supports all team members equally in the process of achieving their professional goals. We hire globally and encourage hiring in a diverse set of countries. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company. For example, we celebrate our sponsorship of [diversity, inclusion & belonging events](https://about.gitlab.com/blog/2016/03/24/sponsorship-update/) and double the base [referral bonus amount](/handbook/incentives/#referral-bonuses).
+Diversity, inclusion and belonging are fundamental to the success of GitLab. We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. We are designing a multidimensional approach to ensure that GitLab is a place where people from every background and circumstance feel like they belong and can contribute. We actively chose to [build and institutionalize](https://www.russellreynolds.com/en/insights/reports-surveys/diversity-and-inclusion-gamechangers) a culture that is [inclusive](/handbook/company/culture/inclusion/) and supports all team members equally in the process of achieving their professional goals. We hire globally and encourage hiring in a diverse set of countries. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company. For example, we celebrate our sponsorship of [diversity, inclusion & belonging events](https://about.gitlab.com/blog/2016/03/24/sponsorship-update/).
 
 ##### Bias towards asynchronous communication
 
@@ -818,9 +818,9 @@ Iteration enables [results](#results) and [efficiency](#efficiency)
 
 *In the [GitLab Unfiltered video](https://youtu.be/2r0UeZ5p57Y) embedded above, GitLab CEO and co-founder Sid Sijbrandij shares key operating principles to reinforce iteration in an organization.*
 
-##### Start with a goal in broad strokes
+##### Start with a long-term vision
 
-Iteration involves driving results in pursuit of a goal. While the goal may change as we iterate, we are unlikely to be successful if we don't start with a vision of what we are working toward. Iteration for the sake of iteration can lead to inefficiencies and not deliver desired results.
+Iteration involves driving results in pursuit of a long-term vision. While the intermediate goals may change as we iterate, we are unlikely to be successful if we don't start with a vision of what we are working toward. Shipping that vision in iterations allows us to learn from customers using it and adjust the vision if needed. Iteration for the sake of iteration can lead to inefficiencies and not deliver desired results.
 
 ##### Don't wait
 

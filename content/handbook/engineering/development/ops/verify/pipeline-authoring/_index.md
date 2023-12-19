@@ -513,7 +513,7 @@ When creating a technical debt issue make sure to label it as such, in addition 
 
 1. Issue readiness: We add the correct `~workflow::x` label in accordance with our [product development workflow](https://about.gitlab.com/handbook/engineering/development/ops/verify/pipeline-authoring/#workflow)
 
-1. Impact breakdown: We use `severity::n` labels to classify the impact of the specific tech debt item. These should map to the [severity definitions for bugs](/handbook/engineering/quality/issue-triage/#severity)
+1. Impact breakdown: We use `severity::n` labels to classify the impact of the specific tech debt item. These should map to the [severity definitions for bugs](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity)
 
 #### Prioritization of Technical Debt
 

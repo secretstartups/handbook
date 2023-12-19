@@ -39,7 +39,7 @@ Due to SPF limitations, all tech stack vendors that require `*.gitlab.com` subdo
 
 > This covers demo, internal (non-production), and sandbox use cases.
 
-You can self service purchase a domain name of your choice (without Gitlab trademarks) that is paid for by GitLab through your Sandbox Cloud AWS account or GCP project, and you can manage the DNS records yourself. You do not need to contact IT for non-trademark domain purchases, however you can ask in `#sandbox-cloud-questions` if you need assistance.
+You can self service purchase a domain name of your choice (without GitLab trademarks) that is paid for by GitLab through your Sandbox Cloud AWS account or GCP project, and you can manage the DNS records yourself. You do not need to contact IT for non-trademark domain purchases, however you can ask in `#sandbox-cloud-questions` if you need assistance.
 
 - [Domain Purchase Instructions for AWS Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/domain-register.html)
 - [Domain Purchase Instructions for GCP Cloud Domains](https://cloud.google.com/domains/docs/register-domain)

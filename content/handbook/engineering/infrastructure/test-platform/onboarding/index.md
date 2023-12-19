@@ -19,7 +19,7 @@ and complete the issue.
 * General testing guidelines
   * [Testing standards and style guidelines](https://docs.gitlab.com/ee/development/testing_guide/index.html)
 * CI infrastructure for CE and EE
-  * [GitLab project pipelines](https://docs.gitlab.com/ee/development/pipelines.html) 
+  * [GitLab project pipelines](https://docs.gitlab.com/ee/development/pipelines.html)
   * [Testing from CI](https://docs.gitlab.com/ee/development/testing_guide/ci.html)
   * [Review Apps](https://docs.gitlab.com/ee/development/testing_guide/review_apps.html)
 * Tests statistics
@@ -28,7 +28,7 @@ and complete the issue.
   * [Quality Dashboard](http://quality-dashboard.gitlap.com/)
   * [Quality Dashboard Documentation](https://gitlab.com/gitlab-org/gitlab-insights/blob/master/README.md)
 * Triage
-  * [Triage Onboarding](/handbook/engineering/quality/triage-operations/onboarding/)
+  * [Triage Onboarding](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/onboarding/)
 * QA Runners
   * [QA Runner Ownership Issue](https://gitlab.com/gitlab-org/gitlab-qa/issues/261)
 * Projects
@@ -44,7 +44,7 @@ and complete the issue.
   * [Staging-ref](https://staging-ref.gitlab.com)
   * [Preprod](https://pre.gitlab.com/)
   * [Release](https://release.gitlab.net)
-  * [Customer-dot](https://customers.staging.gitlab.com/) 
+  * [Customer-dot](https://customers.staging.gitlab.com/)
 * CI environments
   * Main - Slack channel [#qa-master](https://gitlab.slack.com/archives/CNV2N29DM)
   * Nightly - Slack channel [#qa-nightly](https://gitlab.slack.com/archives/CGLMP1G7M)

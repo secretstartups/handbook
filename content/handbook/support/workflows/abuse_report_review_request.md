@@ -32,7 +32,7 @@ This workflow is to request a review of an Abuse Report.  All blocked accounts s
 
 1. They are verified to belong to the group/project they are requesting information about.
    - In some instances we can provide limited information to non project members who reported legitimate abusive activity.
-   - The content or information regarding the reported activity/content is still available on Gitlab.com.
+   - The content or information regarding the reported activity/content is still available on GitLab.com.
 
 ### An Abuse Report review request **cannot** be submitted when
 

@@ -553,7 +553,7 @@ A manual on how to update and maintain Adaptive integration can be found [here](
 
 Adaptive Quarterly Roadmap
 - The current Adaptive roadmap can be found [here](https://docs.google.com/spreadsheets/d/1vfJHmKmLJo2vSkOnN_pKh7cXh--IdE5CiQIy6X2JQKc/edit#gid=0)
-- We expect to transition roadmap and requests into Gitlab issues by Q2-FY23.
+- We expect to transition roadmap and requests into GitLab issues by Q2-FY23.
 - Corporate FP&A will host Adaptive intake sessions with the larger FP&A team to intake, align and prioritize current and future projects.
 
 ## Rolling List of Asks (RLOA)

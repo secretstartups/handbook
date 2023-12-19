@@ -239,7 +239,7 @@ Once the contract or Mutual Termination Agreement (MTA) has been created by the 
 1. Stage the documents for signature in DocuSign. This document will be sent to the Signatory first and then to the team member.
   - Once signed, save the file into the team members Workday profile.
 1. Email an unsigned pdf of the document to both the German counsel as well as the team member.
-- Open the saved unsigned contract, remove Gitlab signatory from the below fields:
+- Open the saved unsigned contract, remove GitLab signatory from the below fields:
      1. **Summary Key of Terms** - Delete the GitLab Signatory's name and leave the field
         blank.
      1. **Scroll down to the end of the contract** - replace Signatory's name with “GitLab Signatory”. Save
@@ -274,7 +274,7 @@ Once the contract or Mutual Termination Agreement (MTA) has been created by the 
 
 ## Reporting for Relocations
 
-Access to to the 'Gitlab Team Member Relocations' Workday report can be requested via [this issue](https://gitlab.com/gitlab-com/people-group/people-tools-technology/general/issues/new?issuable_template=intake) and automatically sent on a regular basis.
+Access to to the 'GitLab Team Member Relocations' Workday report can be requested via [this issue](https://gitlab.com/gitlab-com/people-group/people-tools-technology/general/issues/new?issuable_template=intake) and automatically sent on a regular basis.
 
 This report will include the following information:
 

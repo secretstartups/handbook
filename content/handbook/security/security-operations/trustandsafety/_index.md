@@ -70,8 +70,8 @@ We want to make our corner of the internet a little safer, but also be the best 
 
 ### Reporting Abuse
 
-- To report **abusive** activity, see our [Abuse on Gitlab.com page]({{< ref "abuse-on-gitlab-com" >}}).
-- Copyright and Trademark infringements, see our [Intellectual Property on Gitlab.com page]({{< ref "intellectual-property-on-gitlab-com" >}}).
+- To report **abusive** activity, see our [Abuse on GitLab.com page]({{< ref "abuse-on-gitlab-com" >}}).
+- Copyright and Trademark infringements, see our [Intellectual Property on GitLab.com page]({{< ref "intellectual-property-on-gitlab-com" >}}).
 - Frequently Asked Questions, see our [FAQ page]({{< ref "./faq" >}}).
 
 ### Working with GitLab Trust and Safety Team
@@ -82,7 +82,7 @@ We want to make our corner of the internet a little safer, but also be the best 
 
 Feature proposals can be submitted for the following:
 
-- [Gitlab.com](https://gitlab.com/gitlab-com),
+- [GitLab.com](https://gitlab.com/gitlab-com),
 - GitLab [CE](https://about.gitlab.com/install/?version=ce) and;
 - GitLab [EE](https://about.gitlab.com/install/);
 
