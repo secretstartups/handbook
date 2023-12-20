@@ -30,7 +30,7 @@ For an overview of the Pension Plan please see the [GitLab German Pension Plan D
 
 The plans are administered by our German Brokers at WTW.  Please see below and the attached [flier](https://drive.google.com/file/d/10MKwET93ZVO6cgAS2LYmE1EfM60LpaOg/view?usp=sharing) for additional details on the plan.
 
-Team members can also email this form directly to WTW  to obtain further support for the insurance tariff for salary sacrifice or request a consultation appointment with a WTW expert if needed: 
+Team members can also email this form directly to WTW  to obtain further support for the insurance tariff for salary sacrifice or request a consultation appointment with a WTW expert if needed:
     Dagmar Hirner
     T +49 611 794 4462
     E meinebAV@wtwco.com
