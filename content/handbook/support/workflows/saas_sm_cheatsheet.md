@@ -66,7 +66,7 @@ SaaS, or Dedicated.
 |      |       |
 |:----:| ----- |
 |Self-managed| Administrators of self-managed systems will have access to their instance admin.|
-|DotCom| Only GitLab Team Members can make use of administrative tasks on gitLab.com, therefore access is not granted to customers.|
+|DotCom| Only GitLab Team Members can make use of administrative tasks on GitLab.com, therefore access is not granted to customers.|
 |Dedicated| Customers have instance admins that can access the Admin Area. There is no [GitLab Rails console](https://docs.gitlab.com/ee/administration/operations/rails_console.html) access for customers.|
 
 Use the [Admin Area docs](https://docs.gitlab.com/ee/administration/admin_area.html#gitlab-admin-area) for reference.
