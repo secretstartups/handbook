@@ -32,7 +32,7 @@ Each workbook with views that are meant to be embedded in the public handbook mu
 
 ### Performance Indicators YML
 
-The `data/performance_indicators.yml` file in the handbook repositories is the basis for a system that automatically generates handbook pages with performance indicator content on them.  The structure can take a list of charts and each chart can take a list of filters and parameters.  Only charts from the not tagged as public should be included on internal handbook pages. The following is an example of how to add the needed information to the data file:
+The `data/performance_indicators.yml` file in the handbook repositories is the basis for a system that automatically generates handbook pages with performance indicator content on them.  The structure can take a list of charts and each chart can take a list of filters and parameters.  Only charts not tagged as public should be included on internal handbook pages. The following is an example of how to add the needed information to the data file:
 
 ```yml
 - name: MR Rate
