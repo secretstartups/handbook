@@ -92,7 +92,7 @@ You may close the issue once you have received reimbursement for the program.
 ## Bulk Applications
 
 - If multiple team members are doing the same training or attending the same conference, please open one issue.
-- Each team member should pay for their own expenses and process their own reimbursement through Navan. Team Members or Managers should not cover the expenses of other team members, as any reimbursements will count against their Growth and Development allotment. 
+- Each team member should pay for their own expenses and process their own reimbursement through Navan. Team Members or Managers should not cover the expenses of other team members, as any reimbursements will count against their Growth and Development allotment.
 
 
 ### Recoupment of Growth and Development Reimbursements
