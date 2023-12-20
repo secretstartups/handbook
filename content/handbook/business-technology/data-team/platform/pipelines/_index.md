@@ -424,10 +424,6 @@ Current Metrics Available
 | `stage_group_error_budget_availability` | [stage-group-error-budgets.queries.jsonnet](https://gitlab.com/gitlab-com/runbooks/-/blob/master/periodic-thanos-queries/stage-group-error-budgets.queries.jsonnet) | [#7713 (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/7713) |
 | `total_haproxy_bytes_out` | [daily-haproxy-bytes.queries.jsonnet](https://gitlab.com/gitlab-com/runbooks/-/blob/master/periodic-thanos-queries/daily-haproxy-bytes.queries.jsonnet) | [#11584 (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/11584) |
 
-## Tableau Cloud
-
-Tableau Cloud data is processed using tools found within Tableau Cloud: [Flows](https://help.tableau.com/current/prep/en-us/prep_build_flow.htm) and [Admin Insites](https://10az.online.tableau.com/#/site/gitlab/projects/246491) datasource.  The full details of the pipeline can be found on the [Tableau Cloud](/handbook/business-technology/data-team/platform/pipelines/tableau-cloud/) page.
-
 ## Zuora API Sandbox
 
 The API Sandbox is Zuora's "release preview" environment. It is a customer facing, multi-tenant environment that gets code deployed to it before Zuora's production environment. How early code gets deployed depends on the type of release: Major releases are usually deployed a week in advance, whereas minor releases and emergency patches get deployed days, hours or minutes before production. Zuora customers can purchase any number of tenants in this environment for a recurring annual fee.
