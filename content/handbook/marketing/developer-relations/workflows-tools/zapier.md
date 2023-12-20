@@ -45,6 +45,14 @@ The Zaps are organized in the [Developer Evangelism folder](https://zapier.com/a
 | [New blog posts - CNCF](https://zapier.com/editor/216110068) | Reads CNCF blog RSS feed and posts to `#developer-evangelism-updates` channel. | CNCF Blog, Slack | 
 | [New status updates - Discourse](https://zapier.com/editor/216106524) | Reads Discourse Status RSS feed and posts to `#developer-evangelism-updates` channel. | Discourse status page, Slack | 
 
+##### Zaps for Discourse forum
+
+The Zaps help with automated monitoring to support new product launches.
+
+| Zap | Description | Involved Tools |
+| --- | --- | --- |
+| [New forum topics with `catalog` or `component`](https://zapier.com/editor/219212925/) | Reads Discourse forum  RSS feed `https://forum.gitlab.com/latest.rss` and posts to `#f_ci_catalog` channel. | Discourse forum, Slack | 
+| [New forum topics in the GitLab Duo category](https://zapier.com/editor/219218779) | Reads Discourse forum RSS feed `https://forum.gitlab.com/c/gitlab-duo.rss` and posts to `#gitlab-duo-forum-posts` channel. | Discourse forum, Slack | 
 
 ##### Zaps for Hacker News
 
