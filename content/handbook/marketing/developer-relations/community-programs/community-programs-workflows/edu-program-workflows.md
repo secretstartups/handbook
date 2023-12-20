@@ -1,10 +1,11 @@
 ---
 
-title: "GitLab for Education Program Verification"
-description: "This page contains details regarding the verification process for the GitLab for Education Program."
+title: "GitLab for Education Program Workflows"
+description: "Details on program-specific workflows related to the GitLab for Education Program"
 ---
 
 # Overview
+
 This page contains details regarding the verification process for the GitLab for Education Program. GitLab uses a third party, [SheerId](https://www.sheerid.com/), for verification services. The GitLab for Education Program provides SheerId with the [program requirements](/solutions/education/join/#requirements) and the SheerId platform is able to verify if an individual meets our requirements by matching applicant-provided data against authoritative data sources automatically. SheerID instantly confirms whether or not there is a match and either successfully verifies the applicant or rejects the applicant.
 
 ## Forms
