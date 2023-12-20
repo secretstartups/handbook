@@ -13,39 +13,9 @@ Watch previously recorded webinars on our [YouTube Playlist](https://www.youtube
 ---
 # Upcoming Webinars
 
-We’d like to invite you to our free upcoming webinars and labs in the months of December 2023 and January 2024.
+We’d like to invite you to our free upcoming webinars and labs in the month of January 2024.
 
 If you know someone who might be interested in attending, feel free to share the registration links with them. Everyone is welcome, and we hope to see you there!
-
-## December 2023
-
-### AMER Time Zone Webinars & Labs
-
-#### Hands-on Workshop: Security and Compliance in GitLab
-##### December 20th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
-
-In this workshop we will focus on how you can secure your application with GitLab. 
-
-We will first take a look at how to apply scanners to your CICD pipelines in a hands-on exercise so that any vulnerabilities are caught as soon as the code is committed. 
-
-Next, we will look at compliance frameworks and pipelines to show how you can ensure no one within your development teams is cutting corners and exposing your application.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_F4UqXm2tQci4x3zDIVqfbg#/registration)
-
-
-### EMEA Time Zone Webinars and Labs
-
-#### Hands-on Workshop: Security and Compliance in GitLab
-##### December 20th, 2023 at 10:00AM-12:00PM UTC / 11:00AM-1:00PM CET
-
-In this workshop we will focus on how you can secure your application with GitLab. 
-
-We will first take a look at how to apply scanners to your CICD pipelines in a hands-on exercise so that any vulnerabilities are caught as soon as the code is committed. 
-
-Next, we will look at compliance frameworks and pipelines to show how you can ensure no one within your development teams is cutting corners and exposing your application.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_222cv83AQJu-_1MiNjP7pg#/registration)
-
 
 ## January 2024
 
