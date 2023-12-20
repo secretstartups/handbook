@@ -45,6 +45,8 @@ SIRT is using the self-developed tool [Handogotchi](https://gitlab.com/gitlab-co
 
 Written handoffs are required to be completed at least half an hour before the end of every shift and are the basis for warm handoffs.
 
+For all incidents, we highly encourage pausing after no longer than one hour to document and make it a general habit to keep documentation up to date after every work step. For all questions on documentation, please consult the [Incident Report Writing Guide](https://internal.gitlab.com/handbook/security/security_operations/sirt/operations/incident_response/incident_report_writing_guide/)
+
 ### SIRT Warm Handoff
 
 SIRT uses warm handoffs to clarify written handoffs and avoid misunderstandings in complex situations. They should take no more than 15 minutes. One person per region is required (outgoing and incomming).
