@@ -37,24 +37,24 @@ Some questions we discussed so far:
 
 ### Taking Time Off
 
-We follow [the standard process for all of Support](../../../support-time-off.md) when planning days off.
+We build on [the process for all of Support](../../../support-time-off.md) when planning days off.
 
-More specifically, we cooperate and collaborate to ensure that we
+More specifically, we collaborate to ensure that we
 can continue to put out a good experience for our customers when we're
 out. Here's how we do that.
 
 - Review the [OOO calendar for our region in Pine](../../../support-time-off.md#support-time-off-calendars)
   to ensure that the team still has coverage on our planned days off. If we lose
-  coverage and the day(s) off are important, we plan next steps with our
-  managers
+  coverage and the day(s) off are important to us, we coordinate with our
+  region and/or get help from our managers
 - Communicate our planned day(s) off with each other in Slack.
-  This is normally done in our daily stand-up Slack thread, where our
-  regional colleagues are included
+  This is normally done in our daily stand-up Slack thread with our
+  regional colleagues
 - [Manage our tickets to ensure they get attention while we are out](../../../support-time-off.md#coverage-for-assigned-tickets).
   Our current process is to bring attention to the tickets that need a
   temporary assignee in our daily stand-up thread. If an assignee can't be
-  found in our SGG, then we bring it to the attention of a manager who can
-  help find a temporary assignee outside of the SGG
+  found within our SGG, then we bring it to the attention of a manager who can
+  help find a temporary assignee externally
 
 
 ### Slack
