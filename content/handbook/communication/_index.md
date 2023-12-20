@@ -71,11 +71,35 @@ The above examples overlap with the [GitLab's SAFE Framework](/handbook/legal/sa
 
 We encourage communicating risks to GitLab, its team members, or customers in a synchronous 1:1 setting.
 
-### Communications Champions
+## Communications Champions
 
-Where possible, a group of Communications Champions, made up of global ICs and people managers, will be given a preview of companywide changes to provide feedback, so that team member perspectives have been taken into account.
+Where possible, a group of Communications Champions, made up of global team members and people managers, will be given a preview of companywide changes to provide feedback, so that team member perspectives have been taken into account.
 
-### Determining Which Communication Forum To Use
+### Communications Champion cohorts
+
+We’ll introduce two cohorts for FY25:
+1. All-company cohort: 10 team members who review all-company changes/messaging; this group consists of global team members at all levels.
+1. People manager cohort: 7-10 team members who reviews people-manager specific changes/messaging; this group consists of global people managers.
+
+### Team member participation
+
+Each team member will participate for two quarters/6 months. Should a team member no longer be able to participate during their cohort; they can be backfilled.
+
+We’ll engage bi-weekly with planned or urgent information seeking.
+
+We’ll create a net-new slack channel for each group:
+Naming convention: #comms-champions-fy25-a
+- a is FY25 Q1/Q2 all-company
+- b is FY25 Q1/Q2 people manager
+- c is FY25 Q3/Q4 all-company
+- d is FY25 Q3/Q4 people manager
+
+### Nominations and selection
+
+People managers will nominate team members through a google form. After nominations, PBPs will review the list to ensure all are in good standing and collaborate on potential participants. People Comms & Engagement will make final selections.
+
+
+## Determining Which Communication Forum To Use
 
 The table below outlines an overview of different communication forums at GitLab, and the considerations team members should think through related to potentially GitLab Sensitive topics when determining which forum to leverage.
 
