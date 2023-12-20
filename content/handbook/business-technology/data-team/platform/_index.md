@@ -4,26 +4,9 @@ title: "Data Team Platform"
 description: "GitLab Data Team Platform"
 ---
 
-
-
-
-
-
-
-
-
-
-
-<div class="panel panel-gitlab-orange">
-**This is a Controlled Document**
-{: .panel-heading}
-<div class="panel-body">
-
+{{% alert title="**This is a Controlled Document**" color="warning" %}}
 Inline with GitLab's regulatory obligations, changes to [controlled documents](/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-
-</div>
-</div>
----
+{{% /alert %}}
 
 # Purpose
 
@@ -71,13 +54,13 @@ Changes are implemented via merge requests, including changes to our pipelines, 
 
 | Stage           |              Tools             |
 | :-------------- | :---------------------------: |
-| Extraction      | Stitch, Fivetran, and Custom Code |
-| Loading         | Stitch, Fivetran, and Custom Code |
-| Orchestration   | Airflow |
+| Extraction      | Stitch, Fivetran, Tableau Prep, and Custom Code |
+| Loading         | Stitch, Fivetran, Tableau Prep, and Custom Code |
+| Orchestration   | Airflow, Tableau Prep |
 | Data Warehouse  | Snowflake Enterprise Edition |
 | Transformations | dbt and Python scripts |
-| Data Visualization | Sisense For Cloud Data Teams‎ |
-| Advanced Analytics | jupyter‎ |
+| Data Visualization | Sisense For Cloud Data Teams and Tableau |
+| Advanced Analytics | jupyter |
 
 ## <i class="fas fa-exchange-alt fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true" id="extract-and-load"></i>Extract and Load
 
@@ -88,6 +71,7 @@ Stitch and Fivetran handle the start of the data pipeline themselves. This means
 Other solutions we use to extract data are:
 1. [Meltano](https://internal.gitlab.com/handbook/enterprise-data/platform/Meltano-Gitlab/)
 1. Custom pipelines built in [Python](/handbook/business-technology/data-team/platform/python-guide/) and orchestrated via [Airflow](/handbook/business-technology/data-team/platform/infrastructure/#airflow)
+1. Flows built in Tableau Prep and orchestracted by Tableau Cloud
 1. Snowflake [data share](https://docs.snowflake.com/en/user-guide/data-sharing-intro.html)
 
 For source ownership please see [the Tech Stack Applications data file.](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml)
@@ -147,6 +131,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Salesforce](https://www.salesforce.com/) | Stitch | `salesforce_v2_stitch` | `sfdc` | Sales | 6h / 24h | Yes | Tier 1 |
 | SheetLoad | SheetLoad | `sheetload` | `sheetload` | Multiple | 24h / 48h | Yes | Tier 1 |
 | [Snowplow](https://snowplowanalytics.com/) | Snowpipe | `snowplow` | `snowplow` | Product | 15m / 24h | No | Tier 1 |
+| [Tableau Cloud](https://www.tableau.com/products/cloud-bi) | Tableau Prep | `tableau_cloud` | `tableau_cloud` | Data Team | 24h / 24h | No | Tier 3 |
 | [Thanos](https://thanos-query.ops.gitlab.net/graph) | Snowflake Task | `prometheus` | `prometheus` | Engineering | 24 h / x | No | Tier 3 |
 | [Version DB](https://version.gitlab.com/users/sign_in) | Automatic Process | `version_db` | `version_db` | Product | 24 h / 48 h | No | Tier 1 |
 | [Workday](https://www.workday.com/) | Fivetran | `workday` | `workday` | People | 6h / 24h / | No | Tier 2 |
@@ -368,10 +353,9 @@ graph LR
     A -->|Member of| C[Privileged Role: securityadmin]
 ```
 
-<div class="panel panel-success">
-**Managing Roles for Snowflake**
-{: .panel-heading}
-<div class="panel-body">
+
+#### **Managing Roles for Snowflake**
+
 
 Here are the proper steps for provisioning a new user and user role:
 
@@ -398,9 +382,6 @@ Here are the proper steps for deprovisioning existing user:
 - Remove the user from `okta-snowflake-users` [Google Group](https://groups.google.com/my-groups)
 - Remove the user records in Snowflake [roles.yml](https://gitxlab.com/gitlab-data/analytics/-/blob/master/permissions/snowflake/roles.yml) permifrost config file (this file is automatically loaded every day at 12:00a.m. UTC)
 
-
-</div>
-</div>
 
 For more information, watch this [recorded pairing session](https://youtu.be/-vpH0aSeO9c) (must be viewed as GitLab Unfiltered).
 
@@ -461,8 +442,9 @@ If you're running into query time limits please check your query for optimisatio
 We use three primary databases: `raw`, `prep`, and `prod`.
 The `raw` database is where data is first loaded into Snowflake; the other databases are for data that is ready for analysis (or getting there).
 
+{{% alert  color="warning" %}}
 All tables and views in `prep` and `prod` are controlled (created, updated) via dbt. [Every Quarter](handbook/business-technology/data-team/data-management/#quarterly-data-health-and-security-audit) the Data Platform Team runs a check for tables and views that are not related to a dbt model and will be removed.
-{: .alert .alert-warning}
+{{% /alert %}}
 
 The following list of schema are exceptions and not checked:
 
@@ -591,7 +573,6 @@ The only exception to this rule is the use of pacific time to create date_id in 
 
 ### Snapshots
 
-{: #snapshots-definition}
 
 We use the term snapshots in multiple places throughout the data team handbook and the term can be confusing depending on the context. Snapshots as defined by the dictionary is "a record of the contents of a storage location or data file at a given time". We strive to use this definition whenever we use the word.
 
@@ -705,7 +686,7 @@ See our [dbt guide](/handbook/business-technology/data-team/platform/dbt-guide) 
 
 ## <i class="fas fa-check-double fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Trusted Data Framework
 
-{: #tdf}
+
 
 Data Customers expect Data Teams to provide data they can trust to make their important decisions. And Data Teams need to be confident in the quality of data they deliver. But this is a hard problem to solve: the [Enterprise Data Platform](/handbook/business-technology/data-team/direction/#a-complete-enterprise-data-platform) is complex and involves multiple stages of data processing and transformation, with tens to hundreds of developers and end-users actively changing and querying data 24 hours a day. The Trusted Data Framework (TDF) supports these quality and trust needs by defining a standard  framework for data testing and monitoring across data processing stages, accessible by technical teams *and business teams*. Implemented as a stand-alone module separate from existing data processing technology, the TDF fulfills the need for an independent data monitoring solution.
 
