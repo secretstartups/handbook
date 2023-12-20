@@ -1,7 +1,7 @@
 ---
 
-title: "GitLab for Startups Program Verification"
-description: "Details of the verification process for the GitLab for Startups Program."
+title: "GitLab for Startups Program Workflows"
+description: "Details on program-specific workflows related to the GitLab for Startups Program"
 ---
 
 ## Overview

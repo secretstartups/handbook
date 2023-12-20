@@ -1,7 +1,7 @@
 ---
 
-title: "GitLab for Open Source Program Verification"
-description: "Read details regarding the process of verification for the GitLab for Open Source Program."
+title: "GitLab for Open Source Program Workflows"
+description: "Details on program-specific workflows related to the GitLab for Open Source Program"
 ---
 
 ## Overview
