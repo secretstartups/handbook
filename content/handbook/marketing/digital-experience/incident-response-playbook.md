@@ -1,18 +1,18 @@
 ---
 
 title: "CMS Troubleshooting Playbook"
-description: "A guide for troubleshooting incidents that may occur on the marketing website"
+description: "A guide for troubleshooting incidents that may occur on the Marketing site"
 ---
 
 ### Overview
 
-1. The marketing site is composed of multiple repositories: the [blog](https://gitlab.com/gitlab-com/marketing/digital-experience/gitlab-blog), [www](https://gitlab.com/gitlab-com/www-gitlab-com), [navigation](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation), and [buyer experience](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience). 
+1. The Marketing site is composed of multiple repositories: the [blog](https://gitlab.com/gitlab-com/marketing/digital-experience/gitlab-blog), [www](https://gitlab.com/gitlab-com/www-gitlab-com), [navigation](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation), and [buyer experience](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience). 
 
 2. The files for each of the pages in each of these repositories are generated at build time and uploaded as artifacts to GitLab pages. When a repository’s pipeline is run, all artifacts are fetched and merged together in the /public folder on our GCP bucket.
 
 3. See [here](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab-ci.yml?ref_type=heads) for the www deployment script.
 
-If Blog pages are returning a 404:
+### If Blog pages are returning a 404
 
 1. View the [GitLab Blog artifacts](https://gitlab.com/gitlab-com/marketing/digital-experience/gitlab-blog/-/artifacts). The artifact upload to GitLab Pages happens during the “Pages” job, and should be fairly large (over 80MiB)
 
@@ -26,9 +26,7 @@ If Blog pages are returning a 404:
 
    1. We’re planning to prioritize this feature in our 2024-01-03 to 2024-01-11 sprint.
 
-### Buyer Experience pages returning a 404
-
-1. Current fix: hardcode the routes in [route.contentful.js](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/route.contentful.js?ref_type=heads) (currently, some templated pages are built dynamically in their own functions at the top of that file). \[[Example MR](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/merge_requests/3339)]
+5. Current fix: hardcode the routes in [route.contentful.js](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/route.contentful.js?ref_type=heads) (currently, some templated pages are built dynamically in their own functions at the top of that file). \[[Example MR](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/merge_requests/3339)]
 
 ### Testing
 
@@ -45,3 +43,6 @@ If Blog pages are returning a 404:
 1. In order to prevent changes from being picked up by a pipeline, or to prevent users from hitting the rate limit when publishing many items in quick succession, you can disable the webhook in your contentful space: 
 
    1. Settings -> Webhooks -> CI Pipeline runner -> Webhook settings -> toggle the “Active” state to off. 
+
+### CMS Support Plan
+If non of the above is working, please refer to the [CMS Support Plan](https://handbook.gitlab.com/handbook/marketing/digital-experience/cms-support-plan/)
