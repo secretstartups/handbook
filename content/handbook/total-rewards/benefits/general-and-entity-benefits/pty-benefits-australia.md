@@ -180,7 +180,7 @@ An immediate family member is a:
 
 - spouse or former spouse
 - de facto partner or former de facto partner
-child
+- child
 - parent
 - grandparent
 - grandchild
