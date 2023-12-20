@@ -4,13 +4,6 @@ title: "CMS Troubleshooting Playbook"
 description: "A guide for troubleshooting incidents that may occur on the marketing website"
 ---
 
-
-
-# CMS Troubleshooting Playbook
-
-To be used as a guide for troubleshooting incidents with content hosted on the marketing site ([about.gitlab.com](https://about.gitlab.com/)), which pulls its data from [Contentful](https://app.contentful.com/). 
-
-
 ### Overview
 
 1. The marketing site is composed of multiple repositories: the [blog](https://gitlab.com/gitlab-com/marketing/digital-experience/gitlab-blog), [www](https://gitlab.com/gitlab-com/www-gitlab-com), [navigation](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation), and [buyer experience](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience). 
