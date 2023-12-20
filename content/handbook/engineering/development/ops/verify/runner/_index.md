@@ -1,14 +1,7 @@
 ---
-
 title: "Verify:Runner"
 description: "The GitLab Runner team page."
 ---
-
-
-
-
-
-
 
 ## Vision
 
@@ -18,7 +11,7 @@ By 2025, our vision for GitLab Runner is that the runner's setup and day-to-day 
 
 Our mission is to enable organizations to efficiently run GitLab CI/CD jobs on any computing platform and do so in an operationally efficient and highly secure way at any scale.
 
-This team maps to [Verify](/handbook/product/categories/#verify-stage) devops stage.
+This team maps to [Verify](/handbook/product/categories/#verify-stage) DevOps stage.
 
 ## Product Strategy and Roadmap
 
@@ -41,18 +34,18 @@ In the [OPS section](https://internal.gitlab.com/handbook/company/performance-in
 
 The following people are permanent members of the Verify:Runner group:
 
-<%= direct_team(manager_role: 'Senior Engineering Manager, Verify:Runner') %>
+{{< team-by-manager-role "Engineering Manager(.*)Verify:Runner" >}}
 
 ## Stable Counterparts
 
-<%= stable_counterparts(role_regexp: /[,&] Verify:Runner/, direct_manager_role: 'Senior Engineering Manager, Verify:Runner') %>
+{{< stable-counterparts role="Verify:Runner" manager-role="Engineering Manager(.*)Verify:Runner" >}}
 
 For a more comprehensive list of counterparts, look at the [runner product
 categtory](/handbook/product/categories/#runner-group)
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Runner" } %>
+{{% cross-functional-dashboards filters="Runner" %}}
 
 ## Projects we maintain
 
@@ -91,7 +84,7 @@ is added to each project with maintainer permission. We also try to align tools 
   - [Release tool](https://gitlab.com/gitlab-org/ci-cd/runner-tools/releaser)
   - [GitLab Changelog](https://gitlab.com/gitlab-org/ci-cd/runner-tools/gitlab-changelog)
   - [Release index generator](https://gitlab.com/gitlab-org/ci-cd/runner-tools/release-index-generator)
-  
+
 ### Runner SaaS projects
 
 - Images
@@ -177,7 +170,7 @@ At a minimum we will always identify our top priorities using `~"Runner::P1"`.
 1. `~"Runner::P2"` means "normal priority".
 1. `~"Runner::P3"` means "reduced priority".
 1. `~"Runner::P*"` labels can and should differ from `~priority:*` labels.
-    [`~priority:*`](/handbook/engineering/quality/issue-triage/#priority) labels imply the timeline for when issues will be addressed.
+    [`~priority:*`](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority) labels imply the timeline for when issues will be addressed.
     While `~"Runner::P*"` indicate priority for the scheduled iteration.
 
 ### Design and development process
@@ -318,7 +311,7 @@ Some notes/suggestions:
 
 ### On issues
 
-Issues worked on by the Runner group a group label of `~group::runner`. Issues that contribute to the verify stage of the devops toolchain have the `~devops::verify` label.
+Issues worked on by the Runner group a group label of `~group::runner`. Issues that contribute to the verify stage of the DevOps toolchain have the `~devops::verify` label.
 
 ### Get our attention
 

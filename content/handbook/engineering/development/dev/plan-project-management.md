@@ -1,17 +1,10 @@
 ---
-
 title: Plan:Project Management Team
 ---
 
-
-
-
-
-
-
 ## Plan:Project Management Team
 
-The Plan:Project Management team works on 
+The Plan:Project Management team works on
 GitLab's [Project Management category] in the [Plan stage].
 
 For more details about the vision for this area of the product, see the
@@ -22,11 +15,11 @@ For more details about the vision for this area of the product, see the
 
 ### Team members
 
-<%= direct_team(manager_role: 'Engineering Manager, Plan:Project Management') %>
+{{% team-by-manager-role "Engineering Manager(.*)Plan:Project Management" %}}
 
 ### Stable counterparts
 
-<%= stable_counterparts(role_regexp: /[,&] (Plan(?!:)|Plan:Project Management)/, direct_manager_role: 'Engineering Manager, Plan:Project Management') %>
+{{% stable-counterparts manager-role="Engineering Manager(.*)Plan:Project Management" role="(.*)Plan:Project Management$|Product Manager(.*)Plan Stage|Security(.*)Plan|Engineering(.*)Plan$|Principal(.*)Plan$|Group(.*)Plan" %}}
 
 ### Hiring chart
 
@@ -34,12 +27,25 @@ Check out our [jobs page](/jobs/) for current openings.
 
 ### Team metrics dashboard
 
-<%= partial("handbook/engineering/development/dev/plan/project_management_dashboard") %>
-
+{{% include "includes/engineering/plan/project-management-dashboard.md" %}}
 
 ## Scalability Targets
 
-<%= partial("handbook/engineering/development/dev/plan/scalability_targets") %>
+We're tracking a number of issues that we believe could cause scalability problems in the future.
+
+| Type | Description | Estimated Timeline for Failure | Resolution Due Date | 12 Month Target | Issue | Status |
+| ---- | ---          | ---                            | ---                | ---    | ---   | ---    |
+| Primary key int4 overflow | `system_note_metadata.id` column is at 50% saturation and must be converted to bigint (int8). | March 2024 - 2025 | 2023-12-22 | Sub-50% | [#424114](https://gitlab.com/gitlab-org/gitlab/-/issues/424114) | <span style='border-radius:0.2em; font-weight:bold; padding-left:1em; padding-right:1em; color:white; background-color:red;'>Urgent</span> |
+| Redis Primary CPU | Unexpected load on the Shared State Redis instance caused by `SUBSCRIBE`, `UNSUBSCRIBE` and `PUBLISH` commands. | Unknown | November 2023 | [150k Concurrent WebSocket Connections][websockets] at peak | | <span style='border-radius:0.2em; font-weight:bold; padding-left:1em; padding-right:1em; color:white; background-color:green;'>Okay</span> |
+| Redis Memory | Retention of Action Cable messages in Redis Shared State memory due to high numbers of and/or stalled/hung clients.  | Unknown | November 2023 | [150k Concurrent WebSocket Connections][websockets] at peak | [#326364](https://gitlab.com/gitlab-org/gitlab/-/issues/326364) | <span style='border-radius:0.2em; font-weight:bold; padding-left:1em; padding-right:1em; color:white; background-color:green;'>Okay</span> |
+| Various | Scaling a combined 'Work Items' table consisting of all current issues, epics, requirements and test cases. | Unknown | November 2023 | [100k Work Items][workitems] created per day| | <span style='border-radius:0.2em; font-weight:bold; padding-left:1em; padding-right:1em; color:white; background-color:green;'>Okay</span> |
+
+[events]: https://gitlab.com/gitlab-org/gitlab/-/issues/220023
+[notes]: https://app.periscopedata.com/app/gitlab/865424/WIP:-Dev-Scaling-Targets:-Growth-Forecasting?widget=11744042&udv=0
+[websockets]: https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11747#action-cable-websockets
+[workitems]: https://app.periscopedata.com/app/gitlab/865424/WIP:-Dev-Scaling-Targets:-Growth-Forecasting?widget=12289309&udv=0
+
+Note: Work is ongoing on [migration helpers](https://gitlab.com/gitlab-org/gitlab/-/issues/292874) to mitigate Int4 Primary Key Overflows. These will provide a standard way to resolve these issues.
 
 ## Work
 
@@ -60,23 +66,23 @@ For more urgent items, feel free to use [#s_plan] on Slack.
 
 ### Capacity planning
 
-<%= partial("handbook/engineering/development/dev/plan/capacity_planning") %>
+{{% include "includes/engineering/plan/capacity-planning.md" %}}
 
 #### Weighing bugs
 
-<%= partial("handbook/engineering/development/dev/plan/weighing_bugs") %>
+{{% include "includes/engineering/plan/weighing-bugs.md" %}}
 
 #### Refining and organizing feature work
 
 To help drive alignment with our stable counterparts, provide visibility into progress, and breakdown our vision into a series of [MVCs](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc), we collaborate with Product and UX during [`~workflow::planning breakdown`](https://about.gitlab.com/handbook/product-development-flow/#description-4) to refine and organize `~type::feature` deliverables into the following structure:
 
-- Feature (Epic) - Contains all of the necessary vertical feature slices to default the corresponding feature flag to "on". The feature epic will also serve as the location to generate a corresponding Release Post item MR. The feature epic should be scoped to the [minimal amount of functionality that still provides customer value](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc). Additional scope planned for future enhancements should be stored in follow-on epics. 
+- Feature (Epic) - Contains all of the necessary vertical feature slices to default the corresponding feature flag to "on". The feature epic will also serve as the location to generate a corresponding Release Post item MR. The feature epic should be scoped to the [minimal amount of functionality that still provides customer value](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc). Additional scope planned for future enhancements should be stored in follow-on epics.
   - Spike (Issue) - If we are unable to accurately estimate the effort necessary to implement the feature, we first conduct a [spike](####Spikes)
   - UX (Issue) - For larger initiatives, UX creates a separate UX issue that serves as the SSOT for design goals, design drafts, design conversation and critique, and the chosen design direction that will be implemented. [Learn more about UX issues](https://about.gitlab.com/handbook/product/ux/stage-group-ux-strategy/plan/plan.html#ux-issue-management-weights-and-capacity-planning).
-  - Vertical Feature Slice (Issue) - A subset of the feature that can be completed within a single milestone, tested, and verified within the `plan-stage` group on production. 
-    - Engineering Tasks (Task - _Optional_) - One or more engineering tasks that need to be completed in order to deliver the vertical feature slice. The scope of a task should generally correlate to a single MR. 
+  - Vertical Feature Slice (Issue) - A subset of the feature that can be completed within a single milestone, tested, and verified within the `plan-stage` group on production.
+    - Engineering Tasks (Task - _Optional_) - One or more engineering tasks that need to be completed in order to deliver the vertical feature slice. The scope of a task should generally correlate to a single MR.
 
-During the `~workflow::planning breakdown` phase, all issues need to be weighted so we can efficiently and effectively collaborate with Product and UX on "right sizing" the feature epic. It's advisable that all issues are connected to a parent epic that describes the broader set of improvements we are proposing within a specific area of the product. The desired outcome is to ensure it's as small as possible, maximizes our ability to iterate, and makes it easy to track overall progress on delivery, while providing meaningful value and avoiding an undue amount of "change fatigue" for our customers.  
+During the `~workflow::planning breakdown` phase, all issues need to be weighted so we can efficiently and effectively collaborate with Product and UX on "right sizing" the feature epic. It's advisable that all issues are connected to a parent epic that describes the broader set of improvements we are proposing within a specific area of the product. The desired outcome is to ensure it's as small as possible, maximizes our ability to iterate, and makes it easy to track overall progress on delivery, while providing meaningful value and avoiding an undue amount of "change fatigue" for our customers.
 
 #### Spikes
 
@@ -101,14 +107,14 @@ DRI rotation:
 
 #### Historical Capacity
 
-<%= partial("handbook/engineering/development/dev/plan/historical_capacity", locals: { chart_ids: [7693808] }) %>
+{{% include "includes/engineering/plan/historical-capacity.md" %}}
 
 ### Collaboration between backend and frontend
 
 #### Using the ~"backend complete" label
 
-The ~"backend complete" label is added to issues with multiple specializations (usually backend and 
-frontend) to indicate that the backend component is complete. Add this label when the backend work is 
+The ~"backend complete" label is added to issues with multiple specializations (usually backend and
+frontend) to indicate that the backend component is complete. Add this label when the backend work is
 functionally complete, merged and verified but frontend, or other, work is ongoing.
 
 ### Picking something to work on
@@ -126,7 +132,7 @@ means the issue should be better specified.
 
 #### High Severity Issues
 
-<%= partial("handbook/engineering/development/dev/plan/high_severity_items") %>
+{{% include "includes/engineering/plan/high-severity-items.md" %}}
 
 ### Working on unscheduled issues
 
@@ -141,17 +147,17 @@ in the handbook, and it is here to make those explicit:
    is important, you can [request for it to be scheduled], or you can
    [work on a proposal yourself][iteration], as long as you keep your
    other tasks in mind.
-2. From time to time, there are events that GitLab team-members can participate
+1. From time to time, there are events that GitLab team-members can participate
    in, like the [issue bash]. Anyone is welcome
    to participate in these.
-3. If you feel like you want to have some specific time set aside, but
+1. If you feel like you want to have some specific time set aside, but
    aren't interested in the topics of an existing event, feel free to
    label issues with "For Scheduling" and copy your manager for visibility.
 
 When you pick something to work on, please:
 
 1. Follow the standard workflow and assign it to yourself.
-2. Share it in [#s_plan] - if not even more widely (like in #development
+1. Share it in [#s_plan] - if not even more widely (like in #development
    or #backend).
 
 [collaboration]: /handbook/values/#collaboration
@@ -164,15 +170,15 @@ When you pick something to work on, please:
 
 ### Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Project Management" } %>
+{{% cross-functional-dashboards filters="Project Management" %}}
 
 ## Useful links
 
-* [Plan:Project Management Build board] - this shows work in the current release
-* [#s_plan] in Slack
-* [Recorded meetings][youtube]
-* [Retrospectives][retros]
-* [Group Conversations] (archive; group conversations now happen at a the
+- [Plan:Project Management Build board] - this shows work in the current release
+- [#s_plan] in Slack
+- [Recorded meetings][youtube]
+- [Retrospectives][retros]
+- [Group Conversations] (archive; group conversations now happen at a the
   [section level])
 
 [Plan:Project Management Build board]: https://gitlab.com/groups/gitlab-org/-/boards/1285239?label_name[]=backend

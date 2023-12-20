@@ -166,9 +166,9 @@ The Senior Director of Product Management - Monetization & Operations is the PM 
 - [Fulfillment Section](/handbook/product/categories/#fulfillment-section) - Fulfillment Stage
 - [Pricing](/handbook/company/pricing/) - Pricing team
 - [Product Data Insights](/handbook/product/product-analysis/) - Product Data Insights Stage
-- [Product Operations](https://about.gitlab.com/direction/product-operations/) - Product Operations Team
+- [Product Program Management](https://handbook.gitlab.com/job-families/product/program-manager/#staff-product-program-manager) - Product Program Management
 
-The Senior Director of Product Management, Monetization & Operations is the PM DRI for [Fulfillment](/handbook/product/categories/#fulfillment-section), Pricing, [Product Operations](/handbook/product/product-operations/), and [Product Analysis](/handbook/product/product-analysis/) and reports to the VP of Product.
+The Senior Director of Product Management, Monetization & Operations is the PM DRI for [Fulfillment](/handbook/product/categories/#fulfillment-section), Pricing, [Product Program Management](https://handbook.gitlab.com/job-families/product/program-manager/#staff-product-program-manager), and [Product Analysis](/handbook/product/product-analysis/) and reports to the VP of Product.
 
 #### Senior Director of Product Management - Hiring Process
 

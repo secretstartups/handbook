@@ -34,7 +34,7 @@ allows everyone to contribute.
 Engineering is the primary advocate for the performance, availability, and security of the GitLab project. Product Management prioritizes 80% of engineering time, so everyone in the engineering function should participate in the Product Management [prioritization process](/handbook/product/product-processes/#how-we-prioritize-work) to ensure that our project stays ahead in these areas.   Engineering prioritizes 20% of time on initiatives that improve the underlying platform and foundational technologies we use.
 
 - Review fixes from our support team. These merge requests are tagged with the `Support Team Contributions` label.  You can [filter on open MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Support%20Team%20Contributions).
-- Working on high priority issues as a result of [issue triaging](/handbook/engineering/quality/issue-triage/). This is our commitment to the community and we need to include some capacity to review MRs or work on defects raised by the community.
+- Working on high priority issues as a result of [issue triaging](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/). This is our commitment to the community and we need to include some capacity to review MRs or work on defects raised by the community.
 - Improvements to the performance, stability and scalability of a feature.  Again, the Product team should be involved in the definition of these issues but Engineering may lead here by clearly defining the recommended improvements.
 - Improvements and upgrades to our toolchain in order to boost efficiency.
 
@@ -99,9 +99,9 @@ There are four departments within the Engineering Division:
     - [Security Issues](/handbook/engineering/workflow/#security-issues)
     - [Architecture Design](/handbook/engineering/architecture/workflow/)
 - [GitLab Repositories](/handbook/engineering/gitlab-repositories/)
-- [Issue Triage Policies](/handbook/engineering/quality/issue-triage/)
+- [Issue Triage Policies](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/)
 - [Contributing to Go projects](https://docs.gitlab.com/ee/development/go_guide/index.html)
-- [Wider Community Merge Request Triage Policies](/handbook/engineering/quality/merge-request-triage/)
+- [Wider Community Merge Request Triage Policies](/handbook/engineering/infrastructure/engineering-productivity/merge-request-triage/)
 - [Root Cause Analysis](/handbook/engineering/root-cause-analysis/)
 - [Critical Security Releases](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#critical-security-releases)
 - [Incident Management](/handbook/engineering/infrastructure/incident-management/)

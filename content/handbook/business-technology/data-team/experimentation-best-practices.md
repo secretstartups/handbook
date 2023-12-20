@@ -21,7 +21,7 @@ For example, here are a couple of commonly made mis-steps while conducting exper
     2. 5 peeking sessions increase the p-value by a factor of 3.2;
 2. Simpson’s Paradox: This can occur when we change the test group allocations in a disproportionate manner mid-test-flight. The latent segments in the test groups change their proportions when we change allocation percentages, inserting error into the results. More formally, [Simpson’s Paradox](https://plato.stanford.edu/entries/paradox-simpson/) is a statistical phenomenon where an association between two variables in a population emerges, disappears or reverses when the population is divided into subpopulations.  
 
-To ensure we can maximize the value from our experimentation practices and reduce inaccuracy of decisions at GitLab, we recommend  following best practices across all experiments at GitLab. This document outlines the best practices to adopt at Gitlab.
+To ensure we can maximize the value from our experimentation practices and reduce inaccuracy of decisions at GitLab, we recommend  following best practices across all experiments at GitLab. This document outlines the best practices to adopt at GitLab.
 
 
 ## Experimentation Planning
@@ -204,7 +204,7 @@ Before launching an experiment:
     - Ex: In a comparable company, we leveraged data from 2 dozen past examples to understand the relationship between increased notification type and notification disablement.
     - Ex. In a comparable company, using metadata from ~50 past results, we understood the session lift by increasing the volume of different email types.
     - Ex: In a comparable company, we leveraged ~8 past analyses to understand the incremental value of additional cross merchandising spots.
-    - Growth team already documents [experiments results](/handbook/marketing/growth/) in a centralized handbook page. We should adopt this practice across Gitlab in a centralized page.
+    - Growth team already documents [experiments results](/handbook/marketing/growth/) in a centralized handbook page. We should adopt this practice across GitLab in a centralized page.
 
 
 ## Experimentation Governance:

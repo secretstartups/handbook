@@ -56,7 +56,7 @@ If your customer contacts you requiring technical support, the following options
 1. In sensitive cases where asking a customer to open a ticket would aggravate a situation, you can open a Support ticket on behalf of the customer.
    - **Note:** You cannot be logged into Zendesk if you choose this option, because Zendesk automatically closes any tickets submitted with `gitlab.com` email addresses. Instead, use a private/incognito window in your browser to submit the ticket. When submitting the ticket, in the "Your email address" field, enter your customer's email address. If you should be CC'd on the ticket, please request it in the ticket body.
 
-External customers should not be cc'd on [Internal Requests](https://gitlab-com.gitlab.io/support/internal-requests-form/). Communication with Customers is only provided through [Support tickets](https://gitlab.zendesk.com) initiated by the Customer themselves, or tickets opened on their behalf.
+External customers should not be cc'd on [Internal Requests](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/). Communication with Customers is only provided through [Support tickets](https://gitlab.zendesk.com) initiated by the Customer themselves, or tickets opened on their behalf.
 
 #### Support does not action out of Slack
 
@@ -146,7 +146,7 @@ You can request Support to contact GitLab.com users on your behalf. Here are som
 
 ### Internal Requests
 
-All internal requests regarding licensing, subscriptions, trials, and grace period extensions should be filed using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/). Customers should not be cc'd on Internal Requests.
+All internal requests regarding licensing, subscriptions, trials, and grace period extensions should be filed using the [GitLab Support Internal Request form](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/). Customers should not be cc'd on Internal Requests.
 
 #### Internal Request SLO
 
@@ -249,7 +249,7 @@ A list of common scenarios and the appropriate option are detailed in the follow
 | Wider Community License | Use this to request a community license be generated. Please note for any license lasting longer more than 90 days, manager approval is required. Without an approving manager's email being provided, the ticket will be closed out |
 | Use this for any license & renewal issues where no other options fit. Please note if this form is used when an option **does** exist, the request will be closed and you will need to submit a new request using the correct form. |
 
-Grace period extensions are treated similarly to trial extensions for both Self-managed and GitLab.com SaaS. To request these, file a request using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/) with the correct option as highlighted in the table above.
+Grace period extensions are treated similarly to trial extensions for both Self-managed and GitLab.com SaaS. To request these, file a request using the [GitLab Support Internal Request form](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) with the correct option as highlighted in the table above.
 
 Please consider the following:
 
@@ -287,7 +287,7 @@ Here are some options to get basic seat count information:
 1. Info from 2 plus *Seats in Subscription*, *Max Seats Used*, and *Start Date*
     - [Customers portal admin](https://customers.gitlab.com/admin/customer) (requires access via Okta)
 
-If none of the above self-serve options work, file a request using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/)
+If none of the above self-serve options work, file a request using the [GitLab Support Internal Request form](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/)
 with the `Other` option providing the Group URL and any additional context.
 
 > **Note:** Support will only provide you with a screenshot of the billing page's subscription info. This includes:

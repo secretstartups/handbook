@@ -46,7 +46,7 @@ Gitaly team members do not carry pagers, but we live around the world and there'
 
 These issues relate to ongoing production outages or similar. They interrupt our process used to [schedule work] and get attention as soon as possible.
 Please only interrupt us sparingly, in these cases:
-- [Severity 1 or 2](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#availability) issues, where you believe that Gitaly team has _immediately actionable_ work to do
+- [Severity 1 or 2](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#availability) issues, where you believe that Gitaly team has _immediately actionable_ work to do
 - Ongoing incidents where no mitigation exists that would tide us over until the next business day.
 
 **Getting attention on an urgent, interrupting issue**

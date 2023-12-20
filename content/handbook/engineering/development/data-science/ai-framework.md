@@ -1,14 +1,7 @@
 ---
-
 title: AI Framework Group
 description: "The AI Framework gruop is focused on how to support other product groups at GitLab with the AI Abstraction Layer, and GitLab Duo Chat functionality."
 ---
-
-
-
-
-
-
 
 ## Vision
 
@@ -22,11 +15,11 @@ If you're interested in the team's Objectives and Key Results (OKRs), you can fi
 
 **Engineering Manager & Engineers**
 
-<%= direct_team(manager_slug: 'davidoregan') %>
+{{< team-by-manager-slug "davidoregan" >}}
 
 **Product, Design & Quality**
 
-<%= stable_counterparts(role_regexp: /AI Framework/, direct_manager_role: 'Engineering Manager, AI Framework') %>
+{{% stable-counterparts manager-role="Engineering Manager(.*)AI Framework" role="AI Framework" %}}
 
 **Team members who are supporting this team on a short-term basis are located [here](https://comp-calculator.gitlab.net/org_chart) where "Work priorities" include "AI Framework."**
 
@@ -189,7 +182,7 @@ We operate using async communication by default. There are times when a sync dis
 
 The AI Framework Group collates all video recordings related to the group and its team members in [a playlist][youtube] in the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube channel.
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "AI Framework" } %>
+{{% cross-functional-dashboards filters="AI Framework" %}}
 
 <!-- LINKS START -->
 

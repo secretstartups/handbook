@@ -15,14 +15,14 @@ As a Sales Development Representative (SDR) or Business Development Representati
 ## Reaching the Sales Development Organization (internally)
 
 #### Quick Index of Resources
- 
+
 | What is your role and ask? | How will the Sales Dev Org help |
 | ------ | ----- |
 | I am Field Marketer, and want to have people invited to my event | We typically work with the FM process outlined [here](/handbook/marketing/sales-development/#field-process), but are always eager to collaborate in making your events more succesful, if your ask is not covered in the template linked above, please write to us on the #sales_dev_global slack channel and we'll jump in to assist. |
 | I am an Account Executive, and want to nominate accounts for outbounding efforts | Our end-to-end outbound process [is here](/handbook/marketing/sales-development/#bdr-fo-outbound-process), and our collaboration guidelines are [here](/handbook/marketing/sales-development/#11-dashboards-and-other-collateral). The easiest way to automate your workflow is to find the field BDR Prospecting Status on the SFDC Account record, and select the Queued option from there. The BDR team will then pick it up and research it for their outbound pipeline. |
 | I am an Account Executive, and want to check the state of accounts, or quality of prospects, in my territory | Our BDR team uses a set of [1:1 dashboards](/handbook/marketing/sales-development/#11-dashboards-and-other-collateral) that consolidate all relevant resources in one place. Our BDR team typically uses these on 1:1s with the Sales team to facilitate better account and territory planning. |
-| I am a Field Marketer, or Account Executive, and want to suggest that the SDR or BDR team uses my messaging for reaching out to prospects or clients | We have a [quick process](/handbook/marketing/sales-development/#new-outreach-sequenceworkflow-creation) for creating new sequences on Outreach, our messaging tool. Even though the BDR or SDR are the ones typically creating these requests, we always welcome collaboration with other teams so feel free to log your own request directly if you'd like. | 
-| I am a Sales Manager, and want to gauge the quality and progress of the SAOs provided to my team. | We have a robust set of pipeline [progression dashboards](https://gitlab.my.salesforce.com/01Z8X000000u6mP) that break down results in a lot of granularity. We also have a structured path for handing off opportunities from the SDR/BDR teams to the AE team that you can use to measure adherance to qualification criteria and [next steps](/handbook/marketing/sales-development/#sdrbdr-to-ae-sao-handoff-process). | 
+| I am a Field Marketer, or Account Executive, and want to suggest that the SDR or BDR team uses my messaging for reaching out to prospects or clients | We have a [quick process](/handbook/marketing/sales-development/#new-outreach-sequenceworkflow-creation) for creating new sequences on Outreach, our messaging tool. Even though the BDR or SDR are the ones typically creating these requests, we always welcome collaboration with other teams so feel free to log your own request directly if you'd like. |
+| I am a Sales Manager, and want to gauge the quality and progress of the SAOs provided to my team. | We have a robust set of pipeline [progression dashboards](https://gitlab.my.salesforce.com/01Z8X000000u6mP) that break down results in a lot of granularity. We also have a structured path for handing off opportunities from the SDR/BDR teams to the AE team that you can use to measure adherance to qualification criteria and [next steps](/handbook/marketing/sales-development/#sdrbdr-to-ae-sao-handoff-process). |
 
 #### Slack Channels (by region)
 
@@ -261,7 +261,7 @@ Quota is made up of the following depending on [sales segment](/handbook/sales/f
 - [Sales Accepted Opportunities (SAOs)](/https://about.gitlab.com/handbook/marketing/sales-development/#qualification-criteria-and-saos)
 - [ARR](/handbook/sales/sales-term-glossary/arr-in-practice) pipeline component
 - 2-way communication must be documented on the Contact in the Opportunity to receive credit. Opportunities missing this documentation will not be considered for compensation and will not retire quota.
-- For BDRs and SDRs who have SAO/ARR goals, compensation is based on the SAO attainment. ARR attainment is a qualifier for accelerator payments. Our aim is to land net new logos and expand to new customer business units, SAOs being our quantity metric and ARR our quality metric.  Our mission is to create good qualified pipeline for the company. SAO credit is given for licences and not for PS Opportunities (for training, for example) nor pipeline minutes. 
+- For BDRs and SDRs who have SAO/ARR goals, compensation is based on the SAO attainment. ARR attainment is a qualifier for accelerator payments. Our aim is to land net new logos and expand to new customer business units, SAOs being our quantity metric and ARR our quality metric.  Our mission is to create good qualified pipeline for the company. SAO credit is given for licences and not for PS Opportunities (for training, for example) nor pipeline minutes.
 
 #### Sales Development Org Compensation Breakdown
 **Team Member OTE (SDR/MM BDR, APAC BDR, & Pub Sec)**
@@ -286,7 +286,7 @@ Quota is made up of the following depending on [sales segment](/handbook/sales/f
         * 75% Floor
         * Ceiling of 140%
         * Accelerator x 1.25 from 100% to 140%
-    
+
 **Team Member OTE (ENT BDR Major)**
 * 70% Base Pay
 * 30% Variable Pay:
@@ -578,7 +578,7 @@ Next Steps: SDR chatters the BDR Assigned and lets them know you didn't find act
 
     If the related SDR relays information that was not picked up in the new SDR's research, the new SDR should end any active sequence if the prospect hasn't engaged and change lead ownership to the team member who has been engaged so they can reach out. If the new SDR has engaged with the prospect, there will need to be a coordinated handoff worked out between the new SDR and the related SDR. **Note: Only activity logged in SFDC will be recognized as activity.**
 
-## Sales Dev SFDC Chatter Guide 
+## Sales Dev SFDC Chatter Guide
 
 
 
@@ -599,7 +599,7 @@ Next Steps: SDR chatters the BDR Assigned and lets them know you didn't find act
 
 When a territory moves from one BDR to another but the previous BDR remains with the same team (ex: moves from one MM territory to another) the BDR vacating the territory will have the chance to temporarily retain ownership of accounts with which they have generated ongoing engagement (subject to manager approval). At the time of the holdover, an issue will be created that will be reviewed in 30 days to verify account ownership. This includes:
 
-*  The outgoing BDR will be allowed to hold back for 30 days any account with which they can demonstrate two-way engagement that could potentially lead to an IQM and new opportunity. If, after 30 days, no IQM has been set and no stage 0 opportunity exists, the account will be moved by the manager to the new BDR assigned to the territory. If the outgoing BDR is successful in generating a new opportunity, the account will remain with them until the opportunity is either qualified or unqualified. 
+*  The outgoing BDR will be allowed to hold back for 30 days any account with which they can demonstrate two-way engagement that could potentially lead to an IQM and new opportunity. If, after 30 days, no IQM has been set and no stage 0 opportunity exists, the account will be moved by the manager to the new BDR assigned to the territory. If the outgoing BDR is successful in generating a new opportunity, the account will remain with them until the opportunity is either qualified or unqualified.
 * The outgoing BDR will be allowed to hold back for 30 days any account with which there is an existing stage 0 opportunity where they are listed as the BDR. After 30 days if the opportunity is not qualified, the account will be moved by the manager to the new BDR assigned to the territory.
 * In instances where an account has been reassigned to the new BDR and the outgoing BDR had two-way engagement more than 30 days ago with the account but was unable to convert them to an SAO, and the account later returns unprompted and with no prior activity from the new BDR assigned to the territory and wants to pursue a conversation with sales, the team (manager) will receive SAO credit from any resulting opportunity.
 * Any other situations that arise which result in a credit dispute will be investigated and resolved by the BDRs' leader and senior leader.
@@ -714,7 +714,7 @@ From FY24Q4 onwards, we will pilot [automatic triggers](https://support.outreach
 
 * Lead has direct phone in their record
 * Lead has a high PTP score (4 or 5)
-* Lead is actively enrolled to a Low Touch Sequence 
+* Lead is actively enrolled to a Low Touch Sequence
 
 
 ## Process for scheduling an IQM with AE/SAE
@@ -723,7 +723,7 @@ From FY24Q4 onwards, we will pilot [automatic triggers](https://support.outreach
 
 Qualification criteria is a minimum set of characteristics that a lead must have in order to be passed to sales and become a Sales Accepted Opportunity (SAO), these are split into [Inbound and Outbound Criteria.](/handbook/sales/field-operations/gtm-resources/#opportunities)
 
-As an SDR or BDR, you will work to connect with inbound/outbound leads that you get a response from to obtain the applicable information required. This information is tracked on the qualification criteria on the LEAD, CONTACT, and OPPORTUNITY objects in Salesforce. In order to obtain an SAO, you will need to have the 'required' information filled out on the opportunity including documented 2-way communication on the Contacts in the Opportunity. Professional Services opportunities are not credited to sales development, these need to be passed straight to the account AEs for them to qualify. 
+As an SDR or BDR, you will work to connect with inbound/outbound leads that you get a response from to obtain the applicable information required. This information is tracked on the qualification criteria on the LEAD, CONTACT, and OPPORTUNITY objects in Salesforce. In order to obtain an SAO, you will need to have the 'required' information filled out on the opportunity including documented 2-way communication on the Contacts in the Opportunity. Professional Services opportunities are not credited to sales development, these need to be passed straight to the account AEs for them to qualify.
 
 #### When do I create an Opportunity?
 
@@ -765,15 +765,15 @@ Our data isn't perfect. There will be times when ZoomInfo is not reflecting the 
 
 What do I do when ZoomInfo has improper data on an account?
 
-1. The first (and most timely) opportunity to override incorrect ZoomInfo data is when working with a Lead record in Salesforce. When you have verified a correct address/employee count through an accepted source, you should navigate to the **Lead/Contact Review Admin** section on the lead record. Here you can input the correct address and/or employee count, along with the source by which you verified the information. You should always try to input a full address including street number, but in order for the record to route correctly, a postal code, state (when applicable) and country are required. Vital to this process is that you check the box labeled **[Admin] Exclude from Enrichment**. Failure to do this will result in the ZoomInfo data overwriting your changes. This process is modeled in **[this video](https://www.youtube.com/watch?v=QT-oOceFU6k&ab_channel=GitLabUnfiltered)** courtesy of our Marketing Ops team. If you are overriding the employee count, you will also need to navigate to the **Segmentation** section on the lead record and update the "No. of Employees" and "Employees Bucket" fields appropriately. 
+1. The first (and most timely) opportunity to override incorrect ZoomInfo data is when working with a Lead record in Salesforce. When you have verified a correct address/employee count through an accepted source, you should navigate to the **Lead/Contact Review Admin** section on the lead record. Here you can input the correct address and/or employee count, along with the source by which you verified the information. You should always try to input a full address including street number, but in order for the record to route correctly, a postal code, state (when applicable) and country are required. Vital to this process is that you check the box labeled **[Admin] Exclude from Enrichment**. Failure to do this will result in the ZoomInfo data overwriting your changes. This process is modeled in **[this video](https://www.youtube.com/watch?v=QT-oOceFU6k&ab_channel=GitLabUnfiltered)** courtesy of our Marketing Ops team. If you are overriding the employee count, you will also need to navigate to the **Segmentation** section on the lead record and update the "No. of Employees" and "Employees Bucket" fields appropriately.
 
 2. If your Lead record override is unsuccessful, you just have an existing account record that you need overriden, or you need a parent-child relationship adjusted, or you need number of employees altered, Chatter the appropriate Sales Dev Director to assist you: Brian Tabbert (Global Commercial and ENT AMER), Elsje Smart (ENT APAC/EMEA) or Mona Elliott. In your chatter you need to include the full company address and/or employee count as well as your source for the correct information. The Director will then complete the appropriate **Account Review Admin** fields on the account record. After completing the override, the Director will Chatter you letting you know. At this point, the SalesForce automation process takes effect. This process consists of the following:
 
     1. Overnight the segment/hierarchy updates
     2. Territory rules run and update the territory
     3. Account job runs and updates the account demographics fields and the Owner/BDR Assigned on the account
-     
-This process could take up to 72 hours before completing the reassignment. If after 72 hours the account is still not properly assigned, the Director will reach out to a member of the Territory Ops team to assist. 
+
+This process could take up to 72 hours before completing the reassignment. If after 72 hours the account is still not properly assigned, the Director will reach out to a member of the Territory Ops team to assist.
 
 ### Assigning SAO Credit when a Territory Change is Uncovered during Discovery
 
@@ -781,7 +781,7 @@ There will be times when an SDR or BDR is working a prospect and, after connecti
 
 * If the SDR or BDR has done their due diligence to verify account information and still ends up finding an opportunity outside of their territory: as long as the related account isn't an AWA and there is no related activity from an SDR in the past 30 days, and the SDR or BDR's manager has verified that the accurate information could not have been uncovered prior to engaging with the prospect, then that SDR or BDR and their team will get SAO credit.
 * If the related account is an AWA or there is related activity from an SDR in the past 30 days, SAO credit will belong to the BDR assigned to the AWA or the SDR working the lead related to the account.
-* If the related account isn't an AWA and there is no related activity from an SDR in the past 30 days, but the SDR or BDR's manager determines that the accurate information should have been uncovered prior to engaging with the prospect, SAO credit will be assigned to the team manager assigned to the correct territory. 
+* If the related account isn't an AWA and there is no related activity from an SDR in the past 30 days, but the SDR or BDR's manager determines that the accurate information should have been uncovered prior to engaging with the prospect, SAO credit will be assigned to the team manager assigned to the correct territory.
 * Any other situations that arise which result in a credit dispute will be investigated and resolved by the SDR or BDR's leader and senior leader.
 
  **In situations where an SDR or BDR has received conflicting information and it is unclear what the correct territory is for an account, they should Chatter the AEs assigned to the potential territories and have them figure out who owns it.**
@@ -799,7 +799,7 @@ Your manager will review the information and decide whether SAO credit is warran
 
 ![Opp-Creation-Workflow](/handbook/marketing/sales-development/FY24OpportunityCreationWorkflow.png)
 
-#### SDR/BDR to AE SAO Handoff Process 
+#### SDR/BDR to AE SAO Handoff Process
 
 The purpose of the BDR-AE outbound handoff process is three fold.
 
@@ -854,13 +854,13 @@ BDR outbound lead generation is done by prospecting to companies and individuals
 
 BDRs will work closely with their dedicated SAE or AE to choose which accounts move into “Actively Working”. Together they will build a strategy for those companies. It is crucial that outreach is very intentional and strategic. When reaching out, we want BDRs to offer value and become a trusted advisor, ensuring a positive impression is left whether there is current demand or not.
 
-The FO Outbound process is split in four phases, which should be followed on a weekly basis to ensure a steady outbound pipeline in alignment with our internal KPIs. 
+The FO Outbound process is split in four phases, which should be followed on a weekly basis to ensure a steady outbound pipeline in alignment with our internal KPIs.
 
 ### Planning Phase (4-5 hours/week)
 
 #### 1A. Create a set of achievable objectives
 
-These goals should be based on what you know you can achieve when focusing on First Order accounts. It is particularly important to [know your equation](https://docs.google.com/spreadsheets/d/1n7KMzsOnXq9P_IhEuPHldCgnneK-A41fyOsNS2uMrm0/edit#gid=1901663143) so you can map your activities to specific outcomes and goals in a predictable way. 
+These goals should be based on what you know you can achieve when focusing on First Order accounts. It is particularly important to [know your equation](https://docs.google.com/spreadsheets/d/1n7KMzsOnXq9P_IhEuPHldCgnneK-A41fyOsNS2uMrm0/edit#gid=1901663143) so you can map your activities to specific outcomes and goals in a predictable way.
 
 The main objective you should be focusing at is to measure and plan what activity is required to achieve or increase the amount of First Order meetings.
 
@@ -902,9 +902,9 @@ There are two ways utilize 6Sense:
 4. On the 6Sense dashboard, click the cog icon on the top right
 5. On "Search by User" select "BDR Assigned" and add your name
 6. On "Other filters" select "Salesforce Account fields" and type "BDR Prospecting Status"
-7. On the "BDR Prospecting Status" field, select "Actively Working" 
+7. On the "BDR Prospecting Status" field, select "Actively Working"
 
-The dashboard will now display the top actively working accounts in your name. Do note that these are only accounts that we currently have on our database, while you can find greenfield accounts by visiting the SaaS platform (instructions in section 2B). Section 3 below explains how you can review and utilize this data. 
+The dashboard will now display the top actively working accounts in your name. Do note that these are only accounts that we currently have on our database, while you can find greenfield accounts by visiting the SaaS platform (instructions in section 2B). Section 3 below explains how you can review and utilize this data.
 
 
 #### 2B. Using 6Sense through the SaaS platform <br>
@@ -912,7 +912,7 @@ The dashboard will now display the top actively working accounts in your name. D
 
 1. Navigate to 6Sense through Okta
 2. On the left-hand bar, click on the Segments tab
-3. You will find all of the relevant resources for BDRs and SDRs on the first 5 folders. These folders can be be used as per the table below. 
+3. You will find all of the relevant resources for BDRs and SDRs on the first 5 folders. These folders can be be used as per the table below.
 
 **(In each folder you will find a saved template that can be cloned and edited for your individual territories.)**
 
@@ -920,16 +920,16 @@ The dashboard will now display the top actively working accounts in your name. D
 | Folder | Usage |
 | ---- | ----- |
 | 1. AWA'd Accounts | These segments will display the top accounts in your current actively working list according to 6Sense intent data. By manually investigating each of those accounts you will be able to uncovered further prospect engagement data, and adjust your strategy in converting this account. This report has the same functionality as the SFDC dashboard outlined in step 2A. |
-| 2. Non-AWA Greenfield Accounts | These segments will display the top accounts in your territory that we do **not** have on our SFDC database. These accounts should be manually investigated and considered for adding to your outbound pipeline. Note that we have approx. 15% of our [TAM](https://en.wikipedia.org/wiki/Total_addressable_market) on our SFDC database, while these reports are an automated way to identify great accounts from the other 85% of the TAM in your territory. Please note that the Sales Dev Ops team is here to work with you to generate these reports, as the particularities of our Sales Territories require some editing with the filters. Please don't hesitate to reach out to us so we help you work through these.| 
+| 2. Non-AWA Greenfield Accounts | These segments will display the top accounts in your territory that we do **not** have on our SFDC database. These accounts should be manually investigated and considered for adding to your outbound pipeline. Note that we have approx. 15% of our [TAM](https://en.wikipedia.org/wiki/Total_addressable_market) on our SFDC database, while these reports are an automated way to identify great accounts from the other 85% of the TAM in your territory. Please note that the Sales Dev Ops team is here to work with you to generate these reports, as the particularities of our Sales Territories require some editing with the filters. Please don't hesitate to reach out to us so we help you work through these.|
 | 3. Non-AWA SFDC Accounts | These segments display the accounts that currently hold on our database that display high 6sense intent scores, but are not part of your actively working list. |
- 
+
  After choosing the type of report you'd like to work, please follow the steps below:
 
  1. Select the template in each of the BDR folders that starts with the prefix "-[TEMPLATE]".
  2. On the title, add your name or territory as suggested by the naming convention. Please make sure to delete the Prefix "-[TEMPLATE]"
  3. Click on "Edit Segment"
- 4. For folders 1 and 3, you'll see a prompt on one of the filters to add your name to the "BDR Assigned" Field. 
- 5. For folder 2, you'll see a prompt to add your region to the "Address: Region" field. Do note that based on your territory there are other datapoints like "Address: City" or "Address: Country" that can be used. We're always eager to work with you to help build those reports accurately. 
+ 4. For folders 1 and 3, you'll see a prompt on one of the filters to add your name to the "BDR Assigned" Field.
+ 5. For folder 2, you'll see a prompt to add your region to the "Address: Region" field. Do note that based on your territory there are other datapoints like "Address: City" or "Address: Country" that can be used. We're always eager to work with you to help build those reports accurately.
  6. After having done the edits on steps 4 and 5. Press "Save Changes". Make sure that you've updated the naming convention accordingly and click "Save As New Segment".
 
 #### 3. Manual Research on Accounts
@@ -952,7 +952,7 @@ The importance of diligent manual research will lead to the below efficiencies:
 
 **To hyper-personalize your messaging:**
 
-Please follow the steps below to understand how to research the data provided on 6Sense, and 
+Please follow the steps below to understand how to research the data provided on 6Sense, and
 to cross-reference this data with our internal knowledge base so that you create your account strategy accordingly.
 
 1. Understand and utilize 6Sense data. <br>
@@ -1045,7 +1045,7 @@ BDR Account views are to help with territory organization. It is very important 
 * **B1 View**- My BDR Assigned accounts, (clone) - This view will need to be cloned and customized to accounts where you are the BDR assigned. You'll need to know your territory name in order to populate. Once set up, it will allow the BDR to mass update the 'BDR Strategy' field and then the 'BDR Prospecting Status' field to show which ones they will be "Actively Working". You can also use this view to move leads into other statuses.
 * **B2 View**- My Actively Working accounts, clone - This view will need to be cloned and customized to show “Actively Working” accounts where you are the BDR assigned.
 * **B3 View**- My Actively Working accounts, clone - This view will need to be cloned and customized to show “Actively Working” accounts where you are the BDR assigned.
-* **B4 Biew**- >>B4 BDR Recycle Date Past due (Clone) - This view will need to be cloned to show AWA accounts where the Recycle Date is in the past two weeks. 
+* **B4 Biew**- >>B4 BDR Recycle Date Past due (Clone) - This view will need to be cloned to show AWA accounts where the Recycle Date is in the past two weeks.
 * **B5 Biew**- >>>>B5 Mvd to "WorkedinFY" this wk (Clone) - This view will need to be cloned to show Worked in FY accounts with a recent Recycle Date.
 
 **Before moving an account into “Actively Working Status”**, the BDR will make sure there have been no MQLs or opportunities created from that account within the past 30 days, and there are no leads from that account in Qualifying status with activity in the last 30 days or with a future task date set. If you are not sure, double-check with the related AE, SDR or BDR.
@@ -1081,7 +1081,7 @@ The main documentation may be found [here](https://docs.google.com/document/d/1D
 
 ### Do Not Call and Do Not Email Automations
 
-Leads with certain criteria will be automatically labeled as **Do Not Call** and or **Do Not Email** shortly after loading into our database. It's understandable this can be frustrating for certain territories. Please keep in mind, the criteria behind this automation has been set in order to follow local law. Please see the [Internal GitLab handbook](https://internal.gitlab.com/handbook/marketing/marketing-strategy-and-platforms/marketing-operations/do-no-contact) for more information on the triggers. 
+Leads with certain criteria will be automatically labeled as **Do Not Call** and or **Do Not Email** shortly after loading into our database. It's understandable this can be frustrating for certain territories. Please keep in mind, the criteria behind this automation has been set in order to follow local law. Please see the [Internal GitLab handbook](https://internal.gitlab.com/handbook/marketing/marketing-strategy-and-platforms/marketing-operations/do-no-contact) for more information on the triggers.
 
 ### Up-Front Contract
 
@@ -1128,7 +1128,7 @@ Additionally, you can use the matrix below as a quick-cheet to determine what da
 | LinkedIn | Have they recently been promoted? - What are the specific responsibilities stated on their page you are trying to help them with? |
 | Company strategy from website | What are the company's strategic initiatives? (become more agile?, improve internal business systems?, focus on speed to market on delivery? Streamlining expenditure? |
 | Google search name of contact | Do they have any blogs? Have they featured in any articles?, Have they any personal achievements celebrated?, Do they have any side projects? |
-| Keyword search company | “COMPANY” AND (“Agile” OR “digital transformation” OR “Devops” OR “business process improvement” OR “Cloud” OR “digital strategy”) |
+| Keyword search company | “COMPANY” AND (“Agile” OR “digital transformation” OR “DevOps” OR “business process improvement” OR “Cloud” OR “digital strategy”) |
 | Leadership Focus | Find articles of leadership through boolean searches and ask propose how we can help them achieve these goals |
 | Company News | Celebrate company achievements |
 | Check support tickets | Are they experiencing issues that upgrading deployment options could help resolve? |
@@ -1259,7 +1259,7 @@ When our Field Marketing Managers (FMMs) begin preparing for an event or campaig
 
 Once the sections are populated and up to date, the senior regional Sales Dev Manager is looped in. That senior regional Sales Dev Manager will assign a BDR manager to be the manager DRI for this event.
 
-The BDR Manager DRI will: 
+The BDR Manager DRI will:
 
 * Select BDR(s) who will be involved in sourcing/attending the event/combination of both.
 * Showcase who is assigned to which tasks and due dates based on the event date. (in the issue chart)
@@ -1586,19 +1586,19 @@ To log a PTO Territory Planning request, please go to the Issue list on the SDR 
 
 ### New Outreach Sequence/Workflow creation.
 
-In an effort to better iterate, and refresh, our outreach content and workflows, we have a structured process for BDRs to create/measure new Outreach sequences. 
+In an effort to better iterate, and refresh, our outreach content and workflows, we have a structured process for BDRs to create/measure new Outreach sequences.
 
-Please log [an issue here](https://gitlab.com/gitlab-com/marketing/sales-development/-/issues/new) by selecting the template `BDR_Sequence_Creation_Request`. 
+Please log [an issue here](https://gitlab.com/gitlab-com/marketing/sales-development/-/issues/new) by selecting the template `BDR_Sequence_Creation_Request`.
 
 The issue description will walk you through all the next steps.
 
 This process aims to:
 
-#### Implement [Measurement Clarity](https://handbook.gitlab.com/teamops/measurement-clarity/) and [Decision Velocity](https://handbook.gitlab.com/teamops/decision-velocity/) 
+#### Implement [Measurement Clarity](https://handbook.gitlab.com/teamops/measurement-clarity/) and [Decision Velocity](https://handbook.gitlab.com/teamops/decision-velocity/)
 
 By dogfooding GitLab we have a structured and simplified [cadence](https://handbook.gitlab.com/teamops/measurement-clarity/#cadence) of quantifying sequence creation in terms of value and results without [limiting agency.](https://handbook.gitlab.com/teamops/decision-velocity/#give-agency)
 
-#### Maintain [Equal Contributions](https://handbook.gitlab.com/teamops/equal-contributions/) in a [Shared Reality](https://handbook.gitlab.com/teamops/shared-reality/) 
+#### Maintain [Equal Contributions](https://handbook.gitlab.com/teamops/equal-contributions/) in a [Shared Reality](https://handbook.gitlab.com/teamops/shared-reality/)
 
 By maintaing a Single Source of Truth (SSoT) we give the best possible forum for [cross-functional collaboration](https://handbook.gitlab.com/teamops/equal-contributions/#cross-functional-collaboration) with [specific guidelines](https://handbook.gitlab.com/teamops/shared-reality/#collaboration-guidelines)
 

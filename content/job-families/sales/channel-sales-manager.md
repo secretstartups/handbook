@@ -231,7 +231,7 @@ The Director, Channel Sales Manager is a [grade 10](/handbook/total-rewards/comp
 #### Responsibilities
 
 - Engage GitLab Regional Sales leadership, Sales & Solutions Architects and marketing teams to ensure awareness and leverage of GitLab channel strategy and philosophy
-- Build out and own executive VP and C-level relationships across your territory of focus's Devops Ops System Integration, Advisory & VAR network
+- Build out and own executive VP and C-level relationships across your territory of focus's DevOps Ops System Integration, Advisory & VAR network
 - Work with Channel Services & Channel Solutions Architecture to build dedicated GitLab practices in leading boutique, regional & global system integrators
 - Identify demand generation and build pipeline across your territory of focus.
 - Directly manage your territory of focus's channels and alliances team across all market segments (Enterprise, MidMarket & SMB)
@@ -306,7 +306,7 @@ The Senior Director, Channel Sales Manager is a [grade 11](/handbook/total-rewar
 - Work closely with sales leadership and field sales teams to significantly leverage SI as part of overall GitLab strategy. Drive pipeline and revenue growth
 - Identify, recruit and onboard a targeted set of Global SI’s that are committed to GitLab as their DevOps partner of choice.
 - Work with Global SI’s to incorporate GitLab technology into service & solutions offerings and to build dedicated GitLab practices
-- Accountable for the successful deployment of embedded solutions, resale, managed services and cloud offerings from Gitlab’s top SI partners
+- Accountable for the successful deployment of embedded solutions, resale, managed services and cloud offerings from GitLab’s top SI partners
 - Drive and lead senior executive governance at WW and Geo levels
 - Directly engage field sales teams on account opportunities. Manage and track partner opportunities as part of partner business plan.
 - Working with appropriate cross functional associates, recommend programs to support SI sales strategies; e.g. marketing programs, Product Marketing, etc..

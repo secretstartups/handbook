@@ -122,7 +122,7 @@ This section provides an overview of how we work with issues. But it's very impo
 
 ### Triaging UX issues
 
-Every Product Designer at GitLab is empowered to triage issues with "~UX", ["~UX debt"](https://about.gitlab.com/handbook/engineering/workflow/#ux-debt) and ["~UI polish"](https://about.gitlab.com/handbook/engineering/workflow/#ui-polish) labels, or should be included for feedback by the responsible PM and EM instead. Use [Priority labels](https://about.gitlab.com/handbook/engineering/quality/issue-triage/index.html#priority) to propose the time in which the issue should be solved and [Severity labels](https://about.gitlab.com/handbook/engineering/quality/issue-triage/index.html#severity) to communicate its impact on users. Always work to align and communicate with your PM and EMs on the labels assigned.
+Every Product Designer at GitLab is empowered to triage issues with "~UX", ["~UX debt"](https://about.gitlab.com/handbook/engineering/workflow/#ux-debt) and ["~UI polish"](https://about.gitlab.com/handbook/engineering/workflow/#ui-polish) labels, or should be included for feedback by the responsible PM and EM instead. Use [Priority labels](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/index.html#priority) to propose the time in which the issue should be solved and [Severity labels](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/index.html#severity) to communicate its impact on users. Always work to align and communicate with your PM and EMs on the labels assigned.
 
 ### Scheduling issues in a milestone
 

@@ -139,11 +139,11 @@ This ensures that a CSAT survey is deployed to the recipients of the email.
 
 Qualifying the customer for an escalation is important in terms of ARR and LAM. ARR should be >=80% of the ceiling for your segment’s ARR range. LAM ought to be > $100K. Another very weighty criterion is an upcoming renewal. If they are <= 3 months away from an upcoming renewal, an escalation could help turn their frown upside down.
 
-Escalations ought to be used sparingly and only for the larger accounts in our segment with a high potential for growth so that our support, product, and engineering teams can prioritize their efforts in good alignment with overall Gitlab business objectives.
+Escalations ought to be used sparingly and only for the larger accounts in our segment with a high potential for growth so that our support, product, and engineering teams can prioritize their efforts in good alignment with overall GitLab business objectives.
 
 There are two types of escalations: support escalations and account escalations.
 1. Support escalations are for existing tickets causing a very high business impact for the customer and is raising their temperature very high. The escalation process can bring attention to the issue and raise its priority within support. Following the defined process for a support ticket escalation noted on [this page](/handbook/support/internal-support/support-ticket-attention-requests.html#submitting-a-support-ticket-attention-request-star--starring-a-ticket) is sufficient.
-1. Account escalations may or may not relate to a support ticket. It could be relevant to an open issue for a product bug or a feature request. It’s useful when the customer communicates a highly-impactful problem relevant to e.g. an open issue that is blocking a critical use case and causing them to evaluate other vendors for non-Gitlab solutions and is thus posing a churn or contraction risk for Gitlab.
+1. Account escalations may or may not relate to a support ticket. It could be relevant to an open issue for a product bug or a feature request. It’s useful when the customer communicates a highly-impactful problem relevant to e.g. an open issue that is blocking a critical use case and causing them to evaluate other vendors for non-GitLab solutions and is thus posing a churn or contraction risk for GitLab.
 
 ### Meeting Workflow
 

@@ -1,14 +1,7 @@
 ---
-
 title: Fulfillment Provision Team
 description: "The Provision Team of the Fulfillment Sub-department at GitLab"
 ---
-
-
-
-
-
-
 
 ## Vision
 
@@ -18,11 +11,11 @@ The Provision group manages the [Provision category](/handbook/product/categorie
 
 ## Team members
 
-<%= department_team(base_department: "Fulfillment:Provision Team") %>
+{{% team-by-department "Fulfillment:Provision Team" %}}
 
 ## Stable counterparts
 
-<%= stable_counterparts(role_regexp: /[,&] Fulfillment((?!:)|:Provision)/, direct_manager_role: 'Fullstack Engineering Manager, Fulfillment:Provision') %>
+{{< stable-counterparts manager-role="Fullstack Engineering Manager(.*)Fulfillment:Provision" role="Fulfillment:Provision" >}}
 
 ## Project management process
 
@@ -68,11 +61,16 @@ In the spirit of [Iteration](/handbook/values/#iteration)and [Collaboration](/ha
 
 ### Historical capacity
 
-<%= partial("handbook/engineering/development/fulfillment/provision/historical_capacity") %>
+Points of weight delivered by the team on the last milestones. This allows for more accurate estimation of what we can deliver
+in future milestones. Full chart [here](https://app.periscopedata.com/app/gitlab/565798/WIP:-Fulfillment:License-milestone-weights).
+
+{{< sisense dashboard="565798" chart="7362278" >}}
+
+{{< sisense dashboard="565798" chart="7362279" >}}
 
 ## Performance Indicators
 
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Provision" } %>
+{{< engineering/child-dashboards filters="Provision" >}}
 
 ##### OKRs
 

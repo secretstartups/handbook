@@ -1,14 +1,7 @@
 ---
-
 title: Secure, Composition Analysis
 description: "The Composition Analysis group at GitLab is charged with developing solutions which perform Container and Dependency Scanning and License Compliance."
 ---
-
-
-
-
-
-
 
 ## Composition Analysis
 
@@ -18,9 +11,9 @@ See [the exhaustive list of projects](#projects) the group maintains.
 
 ## Common Links
 
-* Slack channel: #g_secure-composition-analysis
-* Slack alias: @secure_composition_analysis_dev
-* Google groups: composition-analysis-dev@gitlab.com
+- Slack channel: #g_secure-composition-analysis
+- Slack alias: @secure_composition_analysis_dev
+- Google groups: composition-analysis-dev@gitlab.com
 
 ## How we work
 
@@ -328,7 +321,7 @@ If immediate feedback is required, then add a comment to the vulnerability issue
 ### Community contributions triaging process
 
 1. Leverage the group level [list of Merge Requests](https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/merge_requests?scope=all&state=opened&label_name[]=group%3A%3Acomposition%20analysis&label_name[]=Community%20contribution) with the Composition Analysis group label.
-1. For each open Merge Request whose author is not a GitLab team member, investigate and help move it forward using the [Wider Community Merge Request Guidelines](https://about.gitlab.com/handbook/engineering/quality/merge-request-triage/#).
+1. For each open Merge Request whose author is not a GitLab team member, investigate and help move it forward using the [Wider Community Merge Request Guidelines](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/merge-request-triage/#).
 
 ### Bugs triaging process
 
@@ -358,7 +351,7 @@ that have impacted composition analysis in the future.
     ```
     <!--
     Select one of the following severities
-    Ref: https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity
+    Ref: https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity
     -->
     /label ~"severity::1"
     /severity S1
@@ -374,7 +367,7 @@ that have impacted composition analysis in the future.
 
     <!--
     Select one of the following priorities
-    Ref: https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority
+    Ref: https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority
     -->
     /label ~"priority::1"
     /label ~"priority::2"
@@ -402,7 +395,7 @@ detection, resolution, and any other events that you feel are worth highlighting
 
 ### Maintenance triaging process
 
-To help our Product Manager prioritize maintenance issues, the engineering team assigns them a [priority label](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority).
+To help our Product Manager prioritize maintenance issues, the engineering team assigns them a [priority label](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority).
 
 1. Leverage the [Maintenance issues board](https://gitlab.com/groups/gitlab-org/-/boards/2168528?label_name[]=group%3A%3Acomposition%20analysis&label_name[]=type%3A%3Amaintenance).
 1. For each open issue that has no Priority label ("Open" column), shortly investigate the issue (< 1h) and comment with your findings. Make sure the correct sub-category label is applied per our [Work type clasification](https://about.gitlab.com/handbook/engineering/metrics/#work-type-classification) (e.g. `~maintenance::refactor`).
@@ -493,7 +486,7 @@ Before releasing an analyzer with a newer version of its upstream scanner, we mu
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Composition Analysis" } %>
+{{% cross-functional-dashboards filters="Composition Analysis" %}}
 
 ## Monitoring
 

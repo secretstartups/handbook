@@ -71,7 +71,7 @@ The following members of other functional teams are our stable counterparts:
 
 ### Dashboards
 
-{{% cross-function-dashboard filters="enablement" section=true %}}
+{{% cross-functional-dashboards filters="enablement" section=true %}}
 
 ### Weekly Async Updates (No Status Update In Meetings)
 
@@ -118,7 +118,7 @@ The roadmap is depicted in the table below. This roadmap is reviewed regularly o
 
 | Group | Roadmap Item | Milestones | Links | Notes
 | ------ | ------ | ------ | ------ | ------ |
-| Global Search | Gitlab Chat | 16.0 | [MVC Epic](https://gitlab.com/groups/gitlab-org/-/epics/10220)
+| Global Search | GitLab Chat | 16.0 | [MVC Epic](https://gitlab.com/groups/gitlab-org/-/epics/10220)
 | Tenant Scale | Migrate user tabs to Vue | 16.1 | [Epic](https://gitlab.com/groups/gitlab-org/-/epics/9056)
 
 

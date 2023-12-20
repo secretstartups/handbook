@@ -1,13 +1,6 @@
 ---
-
 title: Secure Sub-Department
 ---
-
-
-
-
-
-
 
 The Secure engineering sub-department is responsible for the [Secure Stage](/handbook/product/categories/#secure-stage) of the product.
 
@@ -34,14 +27,10 @@ The Secure team works on GitLab's [Secure stage].
 
 ## Sub-department development people leaders
 
-<%=
-  departments = ['Secure']
-  department_regexp = /(#{Regexp.union(departments)})/
-
-  direct_team(role_regexp: department_regexp, manager_slug: 'waynehaber')
-%>
+{{< stable-counterparts role="Director(.*)Secure|Manager(.*)Secure$|Staff(.*)Secure" >}}
 
 To contact Secure stage development people leaders leaders use the following aliases:
+
 * GitLab: `@gitlab-org/secure/managers`
 * Slack: `@s_secure_managers`
 
@@ -49,40 +38,36 @@ To contact Secure stage development people leaders leaders use the following ali
 
 The following people are permanent members of the Secure Sub-Department:
 
-### [Composition Analysis](composition-analysis/)
+### Composition Analysis
 
-<%=  direct_team(role_regexp: /Engineer/, manager_role: 'Manager, Software Engineering, Secure:Composition Analysis') %>
+Team Page: [Composition Analysis](composition-analysis/)
 
-### [Static Analysis](static-analysis/)
+{{< team-by-manager-role role="Manager(.*)Engineering(.*)Secure:Composition Analysis" team="Engineer" >}}
 
-<%=  direct_team(role_regexp: /Engineer/, manager_role: 'Engineering Manager, Secure:Static Analysis') %>
+### Static Analysis
 
-### [Dynamic Analysis](dynamic-analysis/)
+Team Page: [Static Analysis](static-analysis/)
 
-<%= direct_team(role_regexp: /Engineer(.*)Secure:Dynamic Analysis/, manager_slug: 'thomaswoodham') %>
+{{< team-by-manager-role role="Engineering(.*)Manager(.*)Secure:Static Analysis" team="Engineer" >}}
 
-### [Vulnerability Research](vulnerability-research/)
+### Dynamic Analysis
 
-<%= direct_team(role_regexp: /Vulnerability Research/, manager_slug: 'waynehaber') %>
+Team Page: [Dynamic Analysis](dynamic-analysis/)
+
+{{< team-by-manager-slug manager="thomaswoodham" team="Secure:Dynamic Analysis" >}}
+
+### Vulnerability Research
+
+Team Page: [Vulnerability Research](vulnerability-research/)
+
+{{< team-by-manager-slug manager="waynehaber" team="Vulnerability Research" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(
-      role_regexp: /[,&] Secure/,
-      direct_manager_role: nil,
-      other_manager_roles: [
-        'Engineering Manager, Secure:Static Analysis',
-        'Backend Engineering Manager, Secure:Dynamic Analysis',
-        'Manager, Software Engineering, Secure:Composition Analysis',
-        'Senior Engineering Manager, Secure',
-        'Senior Engineering Manager, Anti-Abuse, Growth, Govern and Secure',
-        'Director of Engineering for Growth, Sec, and Data Science',
-        'Acting Backend Engineering Manager, Dynamic Analysis'
-      ]
-    )
-%>
+{{< stable-counterparts role="Secure" other-manager-roles="Engineering Manager(.*)Secure:Static Analysis|Backend Engineering Manager(.*)Secure:Dynamic Analysis|Manager, Software Engineering(.*)Secure:Composition Analysis|Senior Engineering Manager(.*)Secure|Senior Engineering Manager(.*)Secure|Director of Engineering(.*)Sec|Engineering Manager(.*)Dynamic Analysis" >}}
+
 
 ## Secure Team
 
@@ -98,7 +83,7 @@ We still refer to "_Security Products_" as the tools developed by the Secure Tea
 
 We strive to maintain a consistent User Experience across our Security Products but we do not enforce consistency at the implementation level.
 Each group faces its own challenges and is in the best position to make the technical choices it deems are the most suitable to achieve its goals.
-While [UX inconsistencies are considered as bugs](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity),
+While [UX inconsistencies are considered as bugs](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity),
 we rely on individual teams to make smart decisions about when consistency is important and when divergence makes more sense
 — either because the divergence itself creates a better experience or because of velocity considerations.
 
@@ -145,14 +130,6 @@ If you are submitting an issue about a Secure Stage feature, use `~devops::secur
 | Label | Use |
 | ----- | --- |
 | `~devops::secure` | All issues related to the Secure Stage |
-
-<% data.categories\
-    .filter{|k, v| v.stage == 'secure' && v.label }\
-    .values\
-    .group_by{|v| v.label }
-    .each do |label, secure_cat_list| %>
-| `~<%= label %>` | <%= secure_cat_list.map{|c| c.name }.join(', ') %>
-<% end %>
 
 Additional labels should be added according to the [Workflow Labels Documentation](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#workflow-labels).
 
@@ -397,7 +374,7 @@ The Secure group reviews analytics to help understand customers and their usage 
 
 We also track our backlog of issues, including past due security and infradev issues, and total open SUS-impacting issues and bugs.
 
-<%= partial "handbook/engineering/metrics/partials/_backlog_dashboard.erb", locals: { filter_type: filter_type_for("quality", "stage"), filter_value: filter_value_for("quality", "stage", "secure") } %>
+{{< sisense-with-filters dashboard="1000952" Stage="secure" visible="team_group,stage,development_section" >}}976854
 
 ## Merged Merge Request Types
 
@@ -405,7 +382,7 @@ We also track our backlog of issues, including past due security and infradev is
 
 MR Type labels help us report what we're working on to industry analysts in a way that's consistent across the engineering department. The dashboard below shows the trend of MR Types over time and a list of merged MRs.
 
-<%= partial "handbook/engineering/metrics/partials/_mr_types_dashboard.erb", locals: { filter_type: filter_type_for("quality", "stage"), filter_value: filter_value_for("quality", "stage", "secure") } %>
+{{< sisense-with-filters dashboard="976854" Stage="secure" visible="team_group,stage,development_section" >}}
 
 ## Common Links
 

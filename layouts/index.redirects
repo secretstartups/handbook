@@ -52,13 +52,20 @@
 /handbook/hiring/candidate/faq/ /handbook/hiring/candidate-faq/
 /handbook/hiring/candidate/faq/recruitment-privacy-policy/ /handbook/hiring/candidate-faq/recruitment-privacy-policy/
 
-# Ssecurity migration Redirects - Created: 2023-09-08 - Remove: 2024-09-07
+# Security migration Redirects - Created: 2023-09-08 - Remove: 2024-09-07
 /handbook/security/threat_modeling/ /handbook/security/threat-modeling/
 
 # Support migration Redirects - Created: 2023-08-09 - Remove: 2024-08-08
-handbook/support/workflows/license_subscription_workflows/ /handbook/support/license-and-renewals/workflows/
+/handbook/support/workflows/license_subscription_workflows/ /handbook/support/license-and-renewals/workflows/
 /handbook/support/workflows/macros/ /handbook/support/readiness/operations/docs/zendesk/macros/
 /handbook/support/workflows/unbabel_translation_in_zendesk/ /handbook/support/readiness/operations/#unbabel-for-zendesk-support
+
+# Engineering Productvity migration Redirects - Created: 2023-12-14 - Remove: 2024-12-13
+/handbook/engineering/quality/engineering-productivity/ /handbook/engineering/infrastructure/engineering-productivity/
+/handbook/engineering/quality/triage-operations/ /handbook/engineering/infrastructure/engineering-productivity/triage-operations/
+/handbook/engineering/quality/issue-triage/ /handbook/engineering/infrastructure/engineering-productivity/issue-triage/
+/handbook/engineering/quality/merge-request-triage/ /handbook/engineering/infrastructure/engineering-productivity/merge-request-triage/
+/handbook/engineering/quality/project-management/ /handbook/engineering/infrastructure/engineering-productivity/project-management/
 
 # Files with Underscores in their Name
 /handbook/security/External_Security_Communications_Procedure.html /handbook/security/external-security-communications-procedure/

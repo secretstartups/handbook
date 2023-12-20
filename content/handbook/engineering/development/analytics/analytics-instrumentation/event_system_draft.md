@@ -11,7 +11,7 @@ description: "The Analytics Instrumentation draft documentation for new proposed
 
 
 
-Disclaimer: This is draft documentation to inform a potential iteration of Gitlab's internal tooling
+Disclaimer: This is draft documentation to inform a potential iteration of GitLab's internal tooling
 {: .alert .alert-info}
 
 # GitLab Internal Events Tracking
@@ -44,7 +44,7 @@ the context (state of GitLab system) that accompanied this action.
 ## Metric
 
 Events data is only available directly for SaaS (GitLab.com) instance and not on self-managed ones.
-Metrics on the other hand are collected on weekly cycle from all Gitlab instances that gave the GitLab organization
+Metrics on the other hand are collected on weekly cycle from all GitLab instances that gave the GitLab organization
 their consent to collect data.
 {: .alert .alert-info}
 

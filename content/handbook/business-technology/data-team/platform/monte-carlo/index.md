@@ -14,6 +14,7 @@ description: "Monte Carlo (MC) is our Data Observability tool and helps us deliv
 
 ---
 
+<<<<<<< HEAD
 ## What and why
 
 [Monte Carlo](https://www.montecarlodata.com/) (MC) is our [Data Observability](https://www.montecarlodata.com/blog-what-is-data-observability/) tool and helps us **deliver better results more efficiently**.
@@ -165,5 +166,7 @@ It is now possible to check table and field lineage from our raw models to Table
 
 The Sisense integration and Tableau integration coexist on Monte Carlo and all related Sisense charts as well as Tableau objects can be seen on the lineage charts.
 
+=======
+>>>>>>> 2763f4061184f51b605248e30b706cb9fd7b3330
 ## Overview
 **Monte Carlo Guide** pages are available in our [Internal GitLab Handbook](https://internal.gitlab.com/handbook/enterprise-data/platform/monte-carlo). 

@@ -147,7 +147,6 @@ Here is a sample checklist of activities:
 
 #### Trusted Data
 
-- Review all Golden Record TD tests and make sure they're passing.
 - Review Data Siren to confirm known existence of RED data.
 - Generate a report of Business logic changes to the TD: Sales Funnel dashboard in the quarter. Business logic such as adding new dimensions, new facts, new marts, changing joins, adding new calculated fields.
 

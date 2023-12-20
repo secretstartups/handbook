@@ -17,7 +17,7 @@ User personas are developed to be useful to both Product Managers and Product De
 
 ## What makes up a user persona?
 
-Each persona in [Gitlab's persona page](/handbook/product/personas/) should have the following traits:
+Each persona in [GitLab's persona page](/handbook/product/personas/) should have the following traits:
 
 - Job Summary - Should include major focus areas and a general description of skills and responsibilities
 - Alternative Titles
@@ -90,13 +90,13 @@ To kick off participant recruitment, refer to the [UX handbook guide on how to r
 
 Use the summarized information created from [Step 1](#step-1-meet-with-stakeholders) and [[Step 2](#step-2-internal-interviews) to craft the script for the external interviews. The first section of the script should focus on the top jobs of the persona, and the motivations and frustrations of those jobs.
 
-If you are unfamiliar on [Gitlab's JTBD](/handbook/product/ux/jobs-to-be-done/), here is a small overview and [guide](/handbook/product/ux/jobs-to-be-done/#quick-methods-to-increase-confidence)
+If you are unfamiliar on [GitLab's JTBD](/handbook/product/ux/jobs-to-be-done/), here is a small overview and [guide](/handbook/product/ux/jobs-to-be-done/#quick-methods-to-increase-confidence)
 
 1. The user's objectives
 1. The tools and materials they use
 1. Understanding how they are evaluated on their job's success
 
-Later sections of the script may vary depending on what your past research indicates as important to the persona. You will most likely want to ask questions about key tools your persona uses, any areas of Gitlab they use or have trouble in, or other teams that provide essential work to your persona.
+Later sections of the script may vary depending on what your past research indicates as important to the persona. You will most likely want to ask questions about key tools your persona uses, any areas of GitLab they use or have trouble in, or other teams that provide essential work to your persona.
 
 #### C) Conduct interviews
 

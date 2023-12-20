@@ -17,8 +17,8 @@ When you are ready to start building your path to promotion, review the section 
 
 Familiarize yourself with what it means to plan your career path, and how leadership plays a role in your next step.
 
-- Read about [Career Development at Gitlab](/handbook/people-group/learning-and-development/career-development/).
-- Read about [Engineering Career Development at Gitlab](https://about.gitlab.com/handbook/engineering/career-development/).
+- Read about [Career Development at GitLab](/handbook/people-group/learning-and-development/career-development/).
+- Read about [Engineering Career Development at GitLab](https://about.gitlab.com/handbook/engineering/career-development/).
 - Watch [this video on the Critical Career Path Conversation](https://www.youtube.com/watch?v=hMz6QDURQOM&list=PLBzScQzZ83I8H8_0Qete6Bs5EcW3p0kZF&index=7).
 - Read [leadership books](/handbook/leadership/#books) (strongly suggested).
 - Watch this [Engineering IC Leadership - Handbook Learning Session](https://www.youtube.com/watch?v=OXBwtaZ9edQ) to understand the difference between **IC leadership** and **Management**.

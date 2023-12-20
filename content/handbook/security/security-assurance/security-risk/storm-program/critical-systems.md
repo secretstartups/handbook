@@ -5,7 +5,7 @@ summary: "The purpose of the Critical Systems Tiering Methodology is to support 
 
 ## Purpose
 
-The purpose of the Critical Systems Tiering Methodology is to support GitLab in categorizing systems based on their effect on GitLab's SaaS subscriptions and the achievement of Gitlab's [mission]({{< ref "mission#mission" >}}) and [strategy]({{< ref "/handbook/company/strategy" >}}). Ultimately, this provides GitLab with a mechanism to take a proactive approach to comprehensive risk management which considers risks, such as information security and privacy risks, impacting business operations across the organization. Additionally, by classifying systems into specific tiers, GitLab will be in a better position to appropriately prioritize risk mitigation activities and tailor internal controls based on a system's related tier.
+The purpose of the Critical Systems Tiering Methodology is to support GitLab in categorizing systems based on their effect on GitLab's SaaS subscriptions and the achievement of GitLab's [mission]({{< ref "mission#mission" >}}) and [strategy]({{< ref "/handbook/company/strategy" >}}). Ultimately, this provides GitLab with a mechanism to take a proactive approach to comprehensive risk management which considers risks, such as information security and privacy risks, impacting business operations across the organization. Additionally, by classifying systems into specific tiers, GitLab will be in a better position to appropriately prioritize risk mitigation activities and tailor internal controls based on a system's related tier.
 
 ## Scope
 
@@ -21,7 +21,7 @@ The critical systems tiering methodology is applicable to all systems utilized a
 
 ## Critical System Tiering Procedure
 
-Defining what a critical system means at GitLab can be complex given the nature of our environment and the number of integrations that exist across the many systems that are used to carry out business activities. As part of Gitlab's [Business Impact Analysis (BIA)]({{< ref "business-impact-analysis" >}}) process, we obtain inputs that enable the assignment of a critical system tier per system. The inputs used to determine system criticality tiers include, but are not limited to, the following:
+Defining what a critical system means at GitLab can be complex given the nature of our environment and the number of integrations that exist across the many systems that are used to carry out business activities. As part of GitLab's [Business Impact Analysis (BIA)]({{< ref "business-impact-analysis" >}}) process, we obtain inputs that enable the assignment of a critical system tier per system. The inputs used to determine system criticality tiers include, but are not limited to, the following:
 
 1. If the system experienced a disruption or outage, would there be an immediate impact to GitLab.com SaaS subscriptions?
 1. If the system experienced a disruption or outage, which of the following would describe the impact to GitLab?

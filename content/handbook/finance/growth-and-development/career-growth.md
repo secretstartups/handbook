@@ -2,22 +2,22 @@
 title: Finance Learning and Development
 ---
 
-Welcome to Learning and Development for the Finance Department at GitLab! The resources in this page are meant to support team members by providing consistent frameworks through which to evaluate their career and role growth. This page compiles content that is both Gitlab-generic and finance-specific as listed below.
+Welcome to Learning and Development for the Finance Department at GitLab! The resources in this page are meant to support team members by providing consistent frameworks through which to evaluate their career and role growth. This page compiles content that is both GitLab-generic and finance-specific as listed below.
 
-## Gitlab General
+## GitLab General
 
 ### Competencies
 
-- [Gitlab approach to competencies]({{< ref "competencies" >}})
-- [Gitlab scope and behvaiors by level]({{< ref "competencies#structure" >}})
-- [Gitlab values competencies]({{< ref "competencies#values-competencies" >}})
-- [Gitlab remote work competencies]({{< ref "competencies#remote-work-competencies" >}})
-- [Gitlab manager competencies]({{< ref "competencies#manager-and-leadership-competencies" >}})
+- [GitLab approach to competencies]({{< ref "competencies" >}})
+- [GitLab scope and behvaiors by level]({{< ref "competencies#structure" >}})
+- [GitLab values competencies]({{< ref "competencies#values-competencies" >}})
+- [GitLab remote work competencies]({{< ref "competencies#remote-work-competencies" >}})
+- [GitLab manager competencies]({{< ref "competencies#manager-and-leadership-competencies" >}})
 
 ### Career Resources
 
-- [Career development at Gitlab]({{< ref "career-development" >}})
-- [Gitlab promotions and transfers]({{< ref "promotions-transfers" >}})
+- [Career development at GitLab]({{< ref "career-development" >}})
+- [GitLab promotions and transfers]({{< ref "promotions-transfers" >}})
 - [Performance / Potential Matrix]({{< ref "/handbook/people-group/talent-assessment#the-performancepotential-matrix" >}})
 
 ## Finance Specific: Job Families & Competencies by Level (WIP)

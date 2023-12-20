@@ -1,16 +1,6 @@
 ---
-
 title: "Plan Stage"
 ---
-
-
-
-
-
-
-
-# Plan
-{: #welcome}
 
 Plan teams:
 
@@ -58,7 +48,7 @@ Subtracting the carry over weight (item 2) from our expected capacity (the produ
 
 ##### Historical capacity
 
-<%= partial("handbook/engineering/development/dev/plan/historical_capacity") %>
+{{% include "includes/engineering/plan/historical-capacity.md" %}}
 
 #### Issues
 
@@ -109,7 +99,7 @@ graph TD;
 
 ### Talking With Customers
 
-In a perfect world, we would have cross-functional representation in every conversation we have with customers. 
+In a perfect world, we would have cross-functional representation in every conversation we have with customers.
 
 #### Customer Conversations calendar
 
@@ -119,7 +109,7 @@ You can subscribe to the calendar and invite it as a participant in a customer m
 
 #### Shadow a customer call
 
-All team members are welcome and encouraged to join customer calls -- even if it's just to listen in and get context. 
+All team members are welcome and encouraged to join customer calls -- even if it's just to listen in and get context.
 
 To ensure upcoming calls appear in your calendar, subscribe to the Plan Customer Conversations calendar. Product Managers add upcoming customer interviews to this calendar and you're welcome to shadow any call.
 
@@ -133,7 +123,7 @@ Upcoming customer calls will often be advertised in the #s_plan channel in advan
 
 All recorded customer calls, with consent of the customer, are made available for Plan team-members to view in Dovetail.
 
-To access these, simply go to the [Plan Customer Calls](https://gitlab.dovetailapp.com/projects/3Smr4JOoU7a5pnWqazMfr2/readme) project on Dovetail and log in with Google SSO. More information is available in the Readme of this project. 
+To access these, simply go to the [Plan Customer Calls](https://gitlab.dovetailapp.com/projects/3Smr4JOoU7a5pnWqazMfr2/readme) project on Dovetail and log in with Google SSO. More information is available in the Readme of this project.
 
 If you find you do not have access, reach out to a Plan PM and ask to be added as a Viewer.
 
@@ -519,7 +509,21 @@ Engineering team-members can shadow a product stable-counterpart. Shadowing sess
 
 ### Engineering Scaling Targets
 
-<%= partial("handbook/engineering/development/dev/plan/scalability_targets") %>
+We're tracking a number of issues that we believe could cause scalability problems in the future.
+
+| Type | Description | Estimated Timeline for Failure | Resolution Due Date | 12 Month Target | Issue | Status |
+| ---- | ---          | ---                            | ---                | ---    | ---   | ---    |
+| Primary key int4 overflow | `system_note_metadata.id` column is at 50% saturation and must be converted to bigint (int8). | March 2024 - 2025 | 2023-12-22 | Sub-50% | [#424114](https://gitlab.com/gitlab-org/gitlab/-/issues/424114) | <span style='border-radius:0.2em; font-weight:bold; padding-left:1em; padding-right:1em; color:white; background-color:red;'>Urgent</span> |
+| Redis Primary CPU | Unexpected load on the Shared State Redis instance caused by `SUBSCRIBE`, `UNSUBSCRIBE` and `PUBLISH` commands. | Unknown | November 2023 | [150k Concurrent WebSocket Connections][websockets] at peak | | <span style='border-radius:0.2em; font-weight:bold; padding-left:1em; padding-right:1em; color:white; background-color:green;'>Okay</span> |
+| Redis Memory | Retention of Action Cable messages in Redis Shared State memory due to high numbers of and/or stalled/hung clients.  | Unknown | November 2023 | [150k Concurrent WebSocket Connections][websockets] at peak | [#326364](https://gitlab.com/gitlab-org/gitlab/-/issues/326364) | <span style='border-radius:0.2em; font-weight:bold; padding-left:1em; padding-right:1em; color:white; background-color:green;'>Okay</span> |
+| Various | Scaling a combined 'Work Items' table consisting of all current issues, epics, requirements and test cases. | Unknown | November 2023 | [100k Work Items][workitems] created per day| | <span style='border-radius:0.2em; font-weight:bold; padding-left:1em; padding-right:1em; color:white; background-color:green;'>Okay</span> |
+
+[events]: https://gitlab.com/gitlab-org/gitlab/-/issues/220023
+[notes]: https://app.periscopedata.com/app/gitlab/865424/WIP:-Dev-Scaling-Targets:-Growth-Forecasting?widget=11744042&udv=0
+[websockets]: https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11747#action-cable-websockets
+[workitems]: https://app.periscopedata.com/app/gitlab/865424/WIP:-Dev-Scaling-Targets:-Growth-Forecasting?widget=12289309&udv=0
+
+Note: Work is ongoing on [migration helpers](https://gitlab.com/gitlab-org/gitlab/-/issues/292874) to mitigate Int4 Primary Key Overflows. These will provide a standard way to resolve these issues.
 
 ### Metrics
 

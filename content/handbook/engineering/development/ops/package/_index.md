@@ -1,13 +1,6 @@
 ---
-
 title: Package Stage
 ---
-
-
-
-
-
-
 
 ## 🎯 Mission and Vision
 
@@ -28,11 +21,12 @@ The Package stage is made up of two groups:
 
 ### Package:Container Registry
 
-<%= direct_team(role_regexp: /Container Registry/, manager_slug: 'crystalpoole') %>
+{{< team-by-manager-slug manager="crystalpoole" team="Container Registry" >}}
 
 ### Package:Package Registry
 
-<%= direct_team(role_regexp: /Package Registry/, manager_slug: 'crystalpoole') %>
+{{< team-by-manager-slug manager="crystalpoole" team="Package Registry" >}}
+
 
 ## 📈 Measuring results
 
@@ -435,7 +429,7 @@ The Package team has a goal of shipping enterprise grade software with a focus o
 
 * Frequently [reviewing the code coverage](https://gitlab.com/gitlab-org/gitlab/-/issues/284185) across our functional areas (GoLang, Ruby, Frontend) and addressing low scoring areas as needed.
 
-* Actively reviewing [Triage reports](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#triage-reports) and working with our Product Manager to prioritize bugs or regressions.
+* Actively reviewing [Triage reports](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#triage-reports) and working with our Product Manager to prioritize bugs or regressions.
 
 ### Community Contributions
 
@@ -462,8 +456,8 @@ A merge request with the following properties:
 
 A Package group member will adopt the community contribution with the following tasks:
 
-* Confirm the community merge request (MR) is properly [triaged](/handbook/engineering/quality/merge-request-triage/). This step includes important labeling for [work type classification](/handbook/engineering/metrics/#work-type-classification), stage and group and the `Community Contribution` label.
-* If the MR addresses an open issue, ensure that the issue is still valid and the description is up to date. Consider [closing the issue](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#lean-toward-closing) and [closing the MR](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#merge-request-ownership) if it is outdated.
+* Confirm the community merge request (MR) is properly [triaged](/handbook/engineering/infrastructure/engineering-productivity/merge-request-triage/). This step includes important labeling for [work type classification](/handbook/engineering/metrics/#work-type-classification), stage and group and the `Community Contribution` label.
+* If the MR addresses an open issue, ensure that the issue is still valid and the description is up to date. Consider [closing the issue](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#lean-toward-closing) and [closing the MR](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#merge-request-ownership) if it is outdated.
 * Evaluate the review effort and assign it using `package-review-weight::x` labels.
 * Consider reaching out to MR coaches or using the reviewer roulette to leverage support and provide contributors with a smoother and quicker experience.
 * Assign themselves to the issue. This helps to identify a DRI for that issue in the milestone planning.

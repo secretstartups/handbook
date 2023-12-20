@@ -1,14 +1,7 @@
 ---
-
 title: Analytics Instrumentation Group
 description: "The Analytics Instrumentation group work on feature enhancements and implementing privacy focused product analytics across GitLab projects"
 ---
-
-
-
-
-
-
 
 ## Vision
 
@@ -39,41 +32,41 @@ We define incidents as a deviation from the intended process that significantly 
 _(DRI: The team/individual detecting the issue)_
 
 1. Create an issue and fill all necessary information using the [Analytics Instrumentation Incident Template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/issue_templates/Analytics_Instrumentation_Incident_Template).
-2. Add appropriate label using the below guideline
-- `~"Analytics Instrumentation::Incident-High Severity"` for impending loss of data for many metrics or moderate to severe loss in business critical metrics that have a performance_indicator_type value.
-- `~"Analytics Instrumentation::Incident-Medium Severity"` for data delay.
-- For cases when there is minimal impact on data and manual steps or correction is needed, please raise a bug rather than an incident.
-3. Assign the issue to [Analytics Instrumentation Group PM and EM](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/#team-members).
-4. Post in the [#g_analyze_analytics_instrumentation](https://gitlab.slack.com/archives/CL3A7GFPF) slack channel and tag [Analytics Instrumentation Group PM and EM](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/#team-members).
+1. Add appropriate label using the below guideline
+    - `~"Analytics Instrumentation::Incident-High Severity"` for impending loss of data for many metrics or moderate to severe loss in business critical metrics that have a performance_indicator_type value.
+    - `~"Analytics Instrumentation::Incident-Medium Severity"` for data delay.
+    - For cases when there is minimal impact on data and manual steps or correction is needed, please raise a bug rather than an incident.
+1. Assign the issue to [Analytics Instrumentation Group PM and EM](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/#team-members).
+1. Post in the [#g_analyze_analytics_instrumentation](https://gitlab.slack.com/archives/CL3A7GFPF) slack channel and tag [Analytics Instrumentation Group PM and EM](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/#team-members).
 
 ### Incident Notification
 _(DRI: The PM of the Analytics Instrumentation group)_
 
 1. Notify these slack channels [#g_analyze_product_analytics](https://gitlab.slack.com/archives/C03M4R74NDU), [#data_rd_fusion](https://gitlab.slack.com/archives/C02C82WDP0U), [#data](https://gitlab.slack.com/archives/C8D1LGC23) with link to the issue.
-2. Inform Analytics stage Engineering & Product GPM.
-3. Update aforementioned slack channels and individuals on resolution time, changes to resolution times, and when incident is resolved.
-4. Ensure the incident and status is reflected in the next [monthly state of data issue](https://gitlab.com/groups/gitlab-com/-/epics/1608 "Monthly State of Data").
+1. Inform Analytics stage Engineering & Product GPM.
+1. Update aforementioned slack channels and individuals on resolution time, changes to resolution times, and when incident is resolved.
+1. Ensure the incident and status is reflected in the next [monthly state of data issue](https://gitlab.com/groups/gitlab-com/-/epics/1608 "Monthly State of Data").
 
 ### Incident Resolution
 _(DRI: To be identified by the EM of the Analytics Instrumentation group)_
 
 1. EM to review severity assigned by detection DRI, label issue as ~"type::bug" and add a bug severity if needed.
-2. DRI to work on resolving the issue as quickly as possible. The first priority is to find a fix, even if that is a temporary one, before working on a long term resolution.
-3. In case of a ~"Analytics Instrumentation::Incident-High Severity" issue:
-- EM to create a temporary channel for the incident in Slack and invite the whole group including PM and relevant stakeholders based on the incident.
-- EM to announce a feature change lock specific to the analytics instrumentation group.
-- All group members concentrate on finding a fix for the issue.
-- DRI to post an update in the channel about the current status at least twice per day.
-4. In case of a ~"Analytics Instrumentation::Incident-Medium Severity" issue:
-- DRI to create a slack thread within [#g_analyze_analytics_instrumentation](https://gitlab.slack.com/archives/CL3A7GFPF) for coordination around the incident.
-- DRI to post daily updates in the channel and issue about the current status of the incident.
-5. DRI to update the incident issue with an expected resolution time as soon as one is clear.
-6. PM/EM, in coordination with the individual/team reporting the incident, to close the issue after verifying that the fix is working.
-7. If a patch release is necessary:
-   - DRI to create a merge request for a patch release if required and link the merge request to the main issue
-   - DRI to announce in the main issue when the Patch release is completed
-8. DRI to create a root cause analysis (RCA) issue using this [template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/rca.md) and assign it to the EM.
-9. EM to identify other assignees for the RCA and create related epics/issues if needed.
+1. DRI to work on resolving the issue as quickly as possible. The first priority is to find a fix, even if that is a temporary one, before working on a long term resolution.
+1. In case of a ~"Analytics Instrumentation::Incident-High Severity" issue:
+    - EM to create a temporary channel for the incident in Slack and invite the whole group including PM and relevant stakeholders based on the incident.
+    - EM to announce a feature change lock specific to the analytics instrumentation group.
+    - All group members concentrate on finding a fix for the issue.
+    - DRI to post an update in the channel about the current status at least twice per day.
+1. In case of a ~"Analytics Instrumentation::Incident-Medium Severity" issue:
+    - DRI to create a slack thread within [#g_analyze_analytics_instrumentation](https://gitlab.slack.com/archives/CL3A7GFPF) for coordination around the incident.
+    - DRI to post daily updates in the channel and issue about the current status of the incident.
+1. DRI to update the incident issue with an expected resolution time as soon as one is clear.
+1. PM/EM, in coordination with the individual/team reporting the incident, to close the issue after verifying that the fix is working.
+1. If a patch release is necessary:
+    - DRI to create a merge request for a patch release if required and link the merge request to the main issue
+    - DRI to announce in the main issue when the Patch release is completed
+1. DRI to create a root cause analysis (RCA) issue using this [template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/rca.md) and assign it to the EM.
+1. EM to identify other assignees for the RCA and create related epics/issues if needed.
 
 ## Responsibilities
 
@@ -100,7 +93,7 @@ For an overview about the capabilities of the analytic tooling the team develops
 
 The following people are permanent members of the Analytics Instrumentation Group:
 
-<%= stable_counterparts(role_regexp: /Analytics.+Analytics.Instrumentation/) %>
+{{< stable-counterparts role="Analytics.+Analytics.Instrumentation" >}}
 
 ## Project management process
 
@@ -458,7 +451,7 @@ If you would like to propose a new knowledge session for a topic you want to lea
 
 ## Development metrics
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Analytics Instrumentation" } %>
+{{% cross-functional-dashboards filters="Analytics Instrumentation" %}}
 
 ## Error budget
 
@@ -483,7 +476,7 @@ All new team members to the Analytics Instrumentation teams are provided an onbo
 
 | Resource                                                                                                                          | Description                                               |
 |-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| [Internal Analytics Docs](https://docs.gitlab.com/ee/development/internal_analytics/) | Docs for instrumenting internal analytics at Gitlab |
+| [Internal Analytics Docs](https://docs.gitlab.com/ee/development/internal_analytics/) | Docs for instrumenting internal analytics at GitLab |
 | [Analytics Instrumentation Monitoring and Troubleshooting](./monitoring_troubleshooting.html) | Information around Troubleshooting Analytics Instrumentation infrastructure|
 | [Analytics Instrumentation Infrastructure](./infrastructure.html) | Information about the infrastructure we run |
 | [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/)     | An implementation guide for Service Ping      |

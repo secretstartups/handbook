@@ -2,7 +2,7 @@
 
 title: GitLab Dedicated Overview
 category: GitLab Dedicated
-description: "Gitlab Dedicated Support overview."
+description: "GitLab Dedicated Support overview."
 ---
 
 ### Overview

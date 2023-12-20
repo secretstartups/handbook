@@ -44,7 +44,7 @@ flowchart LR
     I --> TPM
 
     I --> EP[Engineering Productivity]
-    click EP "/handbook/engineering/quality/engineering-productivity/"
+    click EP "/handbook/engineering/infrastructure/engineering-productivity/"
     I --> C[Core Platform]
     click C "/handbook/engineering/infrastructure/core-platform/"
     I --> EA[Engineering Analytics]

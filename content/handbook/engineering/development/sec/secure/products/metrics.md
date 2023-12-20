@@ -1,38 +1,30 @@
 ---
-
 title: "Secure Product Metrics"
 ---
-
-
-
-
-
-
-
-
 
 This page shows various metrics for the products developed and maintained by
 the [Secure Stage](/handbook/product/categories/#secure-stage).
 
-We are [actively supporting Common Weakness Enumeration (CWE)](https://gitlab.com/gitlab-org/gitlab/-/issues/300978) 
+We are [actively supporting Common Weakness Enumeration (CWE)](https://gitlab.com/gitlab-org/gitlab/-/issues/300978)
 as a standard vulnerability classification system and a common language to discuss software weaknesses.
 
 Using [CWE](https://cwe.mitre.org/) as a foundation has several advantages:
+
 1. CWE is a comprehensive and well-documented system and can be considered as a de-facto standard for discussing software weaknesses.
 1. CWE provides mappings to other vulnerability and classification systems and/or rankins (such as [OWASP Top 10](https://owasp.org/Top10/)).
 1. CWE provides a stable ontology: definitions can be added but existing definitions do not change (unlike OWASP rankings).
 
 CWE is a hierarchical system with an ontology that is organized in a tree
 structure where a parent CWE is more general than its child; a child CWE
-captures a vulnerability in more specific terms than its parent. 
+captures a vulnerability in more specific terms than its parent.
 
 In contrast to CWE, [OWASP Top 10](https://owasp.org/Top10/) provides a risk
 ranking of the most critical security vulnerabilities. The 10 risk categories
-change on a regular basis. 
+change on a regular basis.
 
 The table below shows the mapping between OWASP categories and their CWE
 counterparts. Note that the table includes transitive CWE mappings which
-are all the CWE mappings that are listed on the [OWASP Top10 website](https://owasp.org/Top10) 
+are all the CWE mappings that are listed on the [OWASP Top10 website](https://owasp.org/Top10)
 including their child-CWEs.
 
 | OWASP | CWEs |
@@ -54,13 +46,13 @@ vulnerability data from our security scans. These are vulnerabilities we are
 actively identifying in real-world customer usage of our security scanning
 tools.
 
-### OWASP Top 10 2021 Coverage 
+### OWASP Top 10 2021 Coverage
 
-The chart below depicts the CWEs that map to the [OWASP Top 10 2021](https://owasp.org/www-project-top-ten/). 
+The chart below depicts the CWEs that map to the [OWASP Top 10 2021](https://owasp.org/www-project-top-ten/).
  All of these CWEs are detected by GitLab's [SAST](https://docs.gitlab.com/ee/user/application_security/sast/)/[DAST](https://docs.gitlab.com/ee/user/application_security/dast/)
 and [Dependency Scanning](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/) capabilities.
 
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12844678, dashboard: 915236, embed: 'v2') %>">
+{{% sisense dashboard="915236" chart="12844678" height="400" %}}
 
 ### CWE Coverage
 
@@ -71,39 +63,34 @@ The table below shows the combined
 [our SAST analyzers](https://docs.gitlab.com/ee/user/application_security/sast/) on
 projects hosted on [gitlab.com](https://gitlab.com/)
 
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12591658, dashboard: 915236, embed: 'v2') %>">
+{{% sisense dashboard="915236" chart="12591658" height="400" %}}
 
 Below you can find a list of which CWEs are detected by each analyzer:
 
-<details>
-<summary markdown="span">eslint</summary>
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12591659, dashboard: 915236, embed: 'v2') %>">
-</details>
+{{% details summary="eslint" %}}
+{{% sisense dashboard="915236" chart="12591659" height="400" %}}
+{{% /details %}}
 
-<details>
-<summary markdown="span">flawfinder</summary>
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12591660, dashboard: 915236, embed: 'v2') %>">
-</details>
+{{% details summary="flawfinder" %}}
+{{% sisense dashboard="915236" chart="12591660" %}}
+{{% /details %}}
 
-<details>
-<summary markdown="span">gosec</summary>
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12591661, dashboard: 915236, embed: 'v2') %>">
-</details>
+{{% details summary="gosec" %}}
+{{% sisense dashboard="915236" chart="12591661" height="400" %}}
+{{% /details %}}
 
-<details>
-<summary markdown="span">nodejs-scan</summary>
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12591662, dashboard: 915236, embed: 'v2') %>">
-</details>
+{{% details summary="nodejs-scan" %}}
+{{% sisense dashboard="915236" chart="12591662" height="400" %}}
+{{% /details %}}
 
-<details>
-<summary markdown="span">semgrep</summary>
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12591663, dashboard: 915236, embed: 'v2') %>">
-</details>
+{{% details summary="semgrep" %}}
+{{% sisense dashboard="915236" chart="12591663" height="400" %}}
+{{% /details %}}
 
-<details>
-<summary markdown="span">spotbugs</summary>
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12591664, dashboard: 915236, embed: 'v2') %>">
-</details>
+{{% details summary="spotbugs" %}}
+{{% sisense dashboard="915236" chart="12591664" height="400" %}}
+{{% /details %}}
+
 
 #### DAST
 
@@ -112,7 +99,7 @@ The table below shows the combined
 [our DAST analyzers](https://docs.gitlab.com/ee/user/application_security/dast/) on
 projects hosted on [gitlab.com](https://gitlab.com/)
 
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12591657, dashboard: 915236, embed: 'v2') %>">
+{{% sisense dashboard="915236" chart="12591657" height="400" %}}
 
 ### GitLab Advisory Database for Dependency Scanning
 

@@ -34,13 +34,13 @@
     <tbody>
         {{- with $manager }}
         <tr>
-          <td>{{ partial "member-by-name" .name }}</td>
+          <td>{{ partial "member" . }}</td>
           <td>{{ .role | safe.HTML }}</td>
         </tr>
         {{- end }}
         {{- range $members }}
           <tr>
-              <td>{{ partial "member-by-name" .name }}</td>
+              <td>{{ partial "member" . }}</td>
               <td>{{ .role | safe.HTML }}</td>
           </tr>
         {{- end }}

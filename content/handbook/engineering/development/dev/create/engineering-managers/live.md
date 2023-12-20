@@ -73,7 +73,7 @@ The Create Engineering Managers lead by example.  This page shares how the EMs l
 
 - Participated in the [Minorities in Tech Mentoring Program](https://about.gitlab.com/company/culture/inclusion/erg-minorities-in-tech/mentoring/)
 - Online Diversity Training for Engineering Managers (5+ hours)
-- [Gitlab Diversity Inclusion And Belonging Certification & Training](https://about.gitlab.com/company/culture/inclusion/dib-training/)
+- [GitLab Diversity Inclusion And Belonging Certification & Training](https://about.gitlab.com/company/culture/inclusion/dib-training/)
 - [Bias toward Async communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
 - Make Family feel welcome through activities such as [Family and Friends Day](https://about.gitlab.com/company/family-and-friends-day/), and  Create Team Day 
 

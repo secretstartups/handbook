@@ -1,29 +1,25 @@
 ---
-
 title: "Verify:Pipeline Authoring Group"
 description: "The GitLab team page for the Pipeline Authoring Group"
 ---
 
-
-
-
-
-
-
 ## Useful Links
 
 ### Product
+
 - [Product Vision](/direction/ops/#verify)
 - [Pipeline Authoring Category direction](/direction/verify/pipeline_authoring/)
 - [number of unique users who trigger ci_pipelines (Performance indicator)](https://internal.gitlab.com/handbook/company/performance-indicators/product/ops-section/#verifypipeline-authoring---gmau---number-of-unique-users-interacting-with-gitlab-ciyml-file) - Internal link
 - [CI/CD Development Documentation](https://docs.gitlab.com/ee/development/cicd/index.html)
 
 ### Team
+
 - [Team Resources](/handbook/engineering/development/ops/verify/pipeline-authoring/team-resources/)
 - [Workflow board: `~group::pipeline authoring`](https://gitlab.com/groups/gitlab-org/-/boards/2019514?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Apipeline%20authoring&milestone_title=%23started)
 - [Slack Channel: `#g_pipeline-authoring`](https://gitlab.slack.com/archives/C019R5JD44E)
 
 ### Videos
+
 - [GitLab Unfiltered: Pipeline Execution group (CI Related)](https://www.youtube.com/playlist?list=PL05JrBw4t0KpsVi6PG4PvDaVM8lKmB6lV)
 - [CI Backend Architectural Walkthrough - May 2020](https://www.youtube.com/watch?v=ew4BwohS5OY)
 - [Frontend CI product / codebase overview - June 2020](https://www.youtube.com/watch?v=7CUd7aAUiWo)
@@ -35,15 +31,16 @@ description: "The GitLab team page for the Pipeline Authoring Group"
   or child pipelines.
 
 ## Exciting things and accomplishments
+
 This section will list the top three most recent, exciting accomplishments from the team.
 
-* We completed the first MVC [phase](https://gitlab.com/groups/gitlab-org/-/epics/9897) for CI Catalog feature.
-* As part of our yearly Hackathon, we recently [released](https://gitlab.com/gitlab-org/gitlab/-/issues/414321) which creates a job failures widget in MR view that show any failed jobs.
-* We [completed](https://gitlab.com/gitlab-org/gitlab/-/issues/31581) a highly upvoted issue for allowing `needs` to be used with `rules`.
+- We completed the first MVC [phase](https://gitlab.com/groups/gitlab-org/-/epics/9897) for CI Catalog feature.
+- As part of our yearly Hackathon, we recently [released](https://gitlab.com/gitlab-org/gitlab/-/issues/414321) which creates a job failures widget in MR view that show any failed jobs.
+- We [completed](https://gitlab.com/gitlab-org/gitlab/-/issues/31581) a highly upvoted issue for allowing `needs` to be used with `rules`.
 
 ## Team Members
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Verify:Pipeline Authoring') %>
+{{< team-by-manager-role "Engineering Manager(.*)Verify:Pipeline Authoring" >}}
 
 ## Stable Counterparts
 
@@ -51,7 +48,7 @@ To find our stable counterparts, look at the Pipeline Authoring [product categor
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Pipeline Authoring" } %>
+{{% cross-functional-dashboards filters="Pipeline Authoring" %}}
 
 #### Cross-functional prioritisation
 
@@ -513,7 +510,7 @@ When creating a technical debt issue make sure to label it as such, in addition 
 
 1. Issue readiness: We add the correct `~workflow::x` label in accordance with our [product development workflow](https://about.gitlab.com/handbook/engineering/development/ops/verify/pipeline-authoring/#workflow)
 
-1. Impact breakdown: We use `severity::n` labels to classify the impact of the specific tech debt item. These should map to the [severity definitions for bugs](/handbook/engineering/quality/issue-triage/#severity)
+1. Impact breakdown: We use `severity::n` labels to classify the impact of the specific tech debt item. These should map to the [severity definitions for bugs](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity)
 
 #### Prioritization of Technical Debt
 
@@ -526,13 +523,13 @@ Engineering teams should inform the product manager and EMs if there isn't enoug
 
 ### Retrospectives
 
-<%= partial("handbook/engineering/development/ops/verify/includes/retrospectives.erb") %>
+{{% include "includes/engineering/verify-retrospectives.md" %}}
 
 [View the current Pipeline Authoring retrospective](https://gitlab.com/gl-retrospectives/verify-stage/pipeline-authoring/-/issues/?sort=created_date&state=opened&label_name%5B%5D=retrospective).
 
 ### Team Communication
 
-<%= partial("handbook/engineering/development/ops/verify/includes/team_communication.erb", locals: { slack_channel: 'g_pipeline-authoring', slack_url: 'https://gitlab.slack.com/archives/CPCJ8CCCX', group_label: 'group::pipeline authoring', group_issues_url: 'https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Apipeline+authoring&scope=all', gitlab_subgroup: 'pipeline-authoring-group' }) %>
+{{% engineering/verify-team-communication slack-channel="g_pipeline-authoring" slack-url="https://gitlab.slack.com/archives/CPCJ8CCCX', group_label: 'group::pipeline authoring', group_issues_url: 'https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Apipeline+authoring&scope=all', gitlab_subgroup: 'pipeline-authoring-group" %}}
 
 #### Team Co-Working Sessions
 

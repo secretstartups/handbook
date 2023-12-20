@@ -4,26 +4,6 @@ description: >-
   The Quality Department in Engineering Division
 ---
 
-## Child Pages
-
-[Issue triage](/handbook/engineering/quality/issue-triage/)
-{.h4}
-
-[Wider Community Merge Request triage](/handbook/engineering/quality/merge-request-triage/)
-{.h4}
-
-[Project Management](/handbook/engineering/quality/project-management/)
-{.h4}
-
-[Roadmap](/handbook/engineering/quality/roadmap/)
-{.h4}
-
-[Triage Operations](/handbook/engineering/quality/triage-operations/)
-{.h4}
-
-[Test Platform Sub-department](/handbook/engineering/infrastructure/test-platform/)
-{.h4}
-
 ## Mission
 
 GitLab's Quality is everyone's responsibility. The Quality Department ensures that everyone is aware of what the Quality of the product is, empirically.
@@ -255,12 +235,12 @@ Below mentioned are few venues of collaboration with [Development](/handbook/eng
 
 ### Bug Refinement
 
-To mitigate high priority issues like [performance bugs](/handbook/engineering/quality/issue-triage/#severity) and [transient bugs](/handbook/engineering/quality/issue-triage/#transient-bugs), Quality Engineering will triage and refine those issues for Product Management and Development via a bi-weekly Bug Refinement process.
+To mitigate high priority issues like [performance bugs](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity) and [transient bugs](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#transient-bugs), Quality Engineering will triage and refine those issues for Product Management and Development via a bi-weekly Bug Refinement process.
 
 #### Goals
 
 - To make the performance of various aspects of our application empirical with tests, environments, and metrics.
-- To minimise the [transient bugs](/handbook/engineering/quality/issue-triage/#transient-bugs) seen in our application, thereby improving usability.
+- To minimise the [transient bugs](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#transient-bugs) seen in our application, thereby improving usability.
 
 #### Identifying Issues
 
@@ -286,7 +266,7 @@ Quality Engineering will do the following in order to identify the issues to be 
 Quality Engineering will track productivity, metric and process automation improvement work items
 in the [Development-Quality](https://gitlab.com/groups/gitlab-org/-/boards/1262515) board to service the [Development](/handbook/engineering/development/) department.
 Requirements and requests are to be created with the label `~dev-quality`. The head of both departments will review and refine the board on an on-going basis.
-Issues will be assigned and worked on by an Engineer in the [Engineering Productivity team](engineering-productivity) team and [communicated broadly](/handbook/engineering/quality/triage-operations/#communicate-early-and-broadly-about-expected-automation-impact) when each work item is completed.
+Issues will be assigned and worked on by an Engineer in the [Engineering Productivity team](engineering-productivity) team and [communicated broadly](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#communicate-early-and-broadly-about-expected-automation-impact) when each work item is completed.
 
 ### Release process overview
 
@@ -323,9 +303,9 @@ If additional input is needed from the Quality team, the DRI for this is the Dir
 ### Triage Efficiency
 
 Due to the volume of issues, one team cannot handle the triage process.
-We have invented [Triage Reports](/handbook/engineering/quality/triage-operations/#triage-reports) to scale the triage process within Engineering horizontally.
+We have invented [Triage Reports](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#triage-reports) to scale the triage process within Engineering horizontally.
 
-More on our [Triage Operations](/handbook/engineering/quality/triage-operations/)
+More on our [Triage Operations](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/)
 
 ### Test Automation Framework
 
@@ -437,7 +417,7 @@ The [MRARR Diagnostics](https://app.periscopedata.com/app/gitlab/790656/) dashbo
 
 ## Other related pages
 
-- [Issue Triage Policies](/handbook/engineering/quality/issue-triage/)
+- [Issue Triage Policies](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/)
 - [Performance of GitLab](/handbook/engineering/performance/)
 - [Monitoring of GitLab.com](/handbook/engineering/monitoring/)
 - [Production Readiness Guide](https://gitlab.com/gitlab-com/infrastructure/blob/master/.gitlab/issue_templates/production_readiness.md)

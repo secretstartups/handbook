@@ -57,11 +57,11 @@ This can be achieved by manually triggering a pipeline in any of these projects 
 As a result, the pipeline will checkout the specified branch and build the `gitlab-qa` gem instead of using the latest published gem.
 
 ### Running from a specific GitLab-QA branch against a GitLab branch MR 
-You can checkout a test branch and edit the `Gemfile` to change the `gitlab-qa` line to install via the Gitlab-QA branch.
+You can checkout a test branch and edit the `Gemfile` to change the `gitlab-qa` line to install via the GitLab-QA branch.
 
 For example in the `qa/gemfile`:
 ```
-gem 'gitlab-qa', git: 'https://gitlab.com/gitlab-org/gitlab-qa.git', branch: '<Gitlab-QA-branch>'
+gem 'gitlab-qa', git: 'https://gitlab.com/gitlab-org/gitlab-qa.git', branch: '<GitLab-QA-branch>'
 ```
 Make sure to also `bundle install` and commit the `Gemfile.lock` as well. 
 Doing so successfully will allow the `gitlab-qa` gem to be built from a custom branch.

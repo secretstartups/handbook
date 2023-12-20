@@ -53,7 +53,7 @@ graph TD
     click A "/handbook/engineering/quality"
     click B "/handbook/engineering/quality/engineering-analytics"
     click D "/handbook/engineering/infrastructure/test-platform"
-    click E "/handbook/engineering/quality/engineering-productivity"
+    click E "/handbook/engineering/infrastructure/engineering-productivity"
     click P "/handbook/engineering/infrastructure/platforms/"
     click R "/handbook/engineering/infrastructure/reliability/"
 
