@@ -1,6 +1,6 @@
 ---
 
-title: "Digital Experience CMS Troubleshooting Playbook"
+title: "CMS Troubleshooting Playbook"
 description: "A guide for troubleshooting incidents that may occur on the marketing website"
 ---
 
