@@ -107,7 +107,7 @@ For example, in the United States 2021 tax year, if GitLab pays over [$5,250 for
 
 Please contact [Payroll](mailto:payroll@gitlab.com) for any tax-related questions in your country.
 
-## Types of Growth and Development Reimbursements 
+## Types of Growth and Development Reimbursements
 
 **Please note the reimbursement section above before proceeding. The training budget does not include the cost for traveling to and from an event.**
 
