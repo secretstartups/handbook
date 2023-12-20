@@ -403,7 +403,7 @@ See the [source contact spreadsheet](https://docs.google.com/spreadsheets/d/1VKv
 | ------------------------- |
 | DAG `sheetload` <br> Task `dbt-sheetload`  <br> |
 | Background: This is an issue with Google sheets when data is being imported from a second sheet using Google sheets' import function. Occasionally the connections between the sheets stop working and the sheet needs to be refreshed. |
-| More information of the setup [here](/handbook/business-technology/data-team/platform/pipelines/#sheetload).  |
+| More information of the setup [here](https://internal.gitlab.com/handbook/enterprise-data/platform/pipelines/#sheetload).  |
 | Possible steps, resolution and actions: <br> - In general you should just need to open the Google sheet which is failing and confirm the data has been re-populated. <br> - If you do not have access to the sheet contact @gitlab-data/engineers and confirm if anyone else does. |
 
 
