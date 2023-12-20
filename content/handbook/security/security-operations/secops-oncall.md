@@ -137,18 +137,18 @@ During On-Call shifts the Security Engineer On-Call is the Triage DRI and has th
 
 Weekday only:
 1. Monitor and respond to security related slack channels; delegate
-1. Improve on-call and incident handling processes - actively give feedback an automation ideas for alerts
+1. Improve on-call and incident handling processes - document on-call related problems and improvement opportunities by opening issues and any necessary support tickets (e.g. Devo support).
 1. Continue ongoing work where possible
 
 ### Triage Engineer Responsibility to delegate
 
-Delegation allows the team to spread the workload across the global team while maintaining adequate coverage and response times.
+Delegation allows the team to spread the workload across the global team while maintaining adequate coverage and response times. It also minimizes the risk of one single person having to handle spikes in incident volume.
 
-- On-Call Engineers have to to delegate incidents to other Engineers after performing initial triage.
-- Delegation rules:
+- On-Call Engineers must delegate incidents to other Engineers after performing initial triage.
+- Delegation guidelines:
   - Incidents classified with either S1, P1, S2, or P2 should only be delegated to team members available in the current sunny region.
-  - All other incidents can be assigned to any team member not on PTO in any region.
-- Sometimes, team members are working on a high-priority assignment and are temporarily unavailable for delegation. If those team members get a delegation, they should contact a manager to re-assign the incident.
+  - All other incidents can be assigned to any team member not out of office in any region.
+- Sometimes, team members are working on a high-priority, time sensitive assignment and are temporarily unavailable for delegation. These situations should be communicated to the team transparently. If those team members inadvertently receive delegated incidents, they should work with their manager for assistance in incident reassignment.
 - The On-Call Engineer is the last resort if no other team member is available to work on high-urgency incidents.
 
 ### Triage Process
@@ -161,7 +161,7 @@ Incidents are triaged by following the checklist posted by the TriageBot.
 
 Alert triage is a continuous task on weekdays and a task that should be done at least once a day on weekends.
 
-Any alert can be assigned to another available person in your timezone. On weekends, assign them globally. Make the call if you assign an alert to someone else or work on it yourself based on priority, your workload and the time an alert would take to be closed.
+Any alert can be converted to an incident and assigned to another team member following the triage delegation guidelines.
 
 ## Incident Ownership
 
@@ -172,9 +172,9 @@ Ownership of an incident means being the person responsible for:
 - Ensuring continued progression to a contained and resolved state
 - Maintaining ongoing 24/7 coverage of high-severity incidents
 - Accurate and timely issue tracking and communication with stakeholders
-- Adequate handoffs and communications
+- Adequate documentation and communications
 
-Being the responsible person does not imply being the sole person to act on these tasks. Hand-off at the end of an On-Call shift, or coordinated breaks during extended incidents, can temporarily assign another person responsible for these tasks. To coordinate these hand-offs it's essential to equip the next person with all necessary details.
+Being the responsible person does not imply being the sole person to perform incident tasks. Team members from all departments can be called upon to assist in incident resolution, and these requests should be documented as a task or related issue.
 
 ## Exceptions
 
