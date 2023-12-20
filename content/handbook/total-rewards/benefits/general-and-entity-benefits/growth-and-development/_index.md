@@ -121,7 +121,7 @@ The course must be from a credentialed college or university and must be relevan
 
 **Approver (above $1,000 USD):** Manager, E-Group Member
 
-### Your 4th Trimester Coaching 
+### Your 4th Trimester Coaching
 
 Description: Your 4th Trimester is a 90-day coaching program with Broad Perspective Consulting. The purpose of the program is to help parents (regardless of gender) be as prepared as possible to be a working parent through coaching and development. The cost of this program is $2,300 USD.
 
