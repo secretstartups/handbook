@@ -5,7 +5,11 @@ description: A description of programs and resources for team members to access 
 
 ## Introduction
 
-At GitLab, team members have access to the [Growth and Development benefit]({{< ref "general-and-entity-benefits#growth-and-development-benefit" >}}) to access external resources to develop their career.
+At GitLab, team members have access to the [Growth and Development benefit](https://handbook.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) to access external resources to develop their career.
+
+GitLab team-members are eligible for a reimbursement of up to $10,000 USD per calendar year (January 1st - December 31st) depending on tenure, performance, company need for the learned skill, and available budget. A course/program is considered to be included in the calendar year in which the course/program is paid/reimbursed (which should also be the same calendar year in which it ends). If a course/program ends in December, team members have a grace period until the end of January to claim for Growth & Development reimbursements from the previous calendar year.
+
+Budget estimations for the Growth & Development benefit are based on utilization rates from past years, adjusted for the size of the company. The budget is managed on a company-wide scale, not division-specific. For example, approving reimbursement for a team member in Engineering does not “take away” budget from other engineers. Eligibility is managed on an individual basis. Eligibility for this benefit is part of each GitLab team member’s Total Rewards package.
 
 The Growth and Development benefit is managed by the Learning and Development team.
 
@@ -61,7 +65,7 @@ The Growth and Development policy is meant to further team members' learning and
 |[Other G&D Types (Under $300 USD)](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-GD-under)|7 days before the commencement date|
 |[Other G&D Types (Over $300 USD)](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-growth-development)|30 days before the commencement date|
 |[Coaching Right Now (GitLab's coaching vendor of choice)](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=coaching) Learn more about Coaching Right Now below. | 30 days before the commencement date|
-
+| Your 4th Trimester | For Your 4th Trimester applications, please notify Total Rewards that you would like to participate in the program by sending an email to `growth-development@gitlab.com`. |
 
 - Note: This application process is visible internally. It is preferred and more efficient to create an issue for your application, however, if there is any reason that you would like to keep your application confidential, please send `growth-development@gitlab.com` an email with the details of your application (refer to the issue templates for the information required).
 
