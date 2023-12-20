@@ -1,15 +1,5 @@
 ---
-
 title: "Pipeline Authoring Group Engineering Metrics"
 ---
 
-
-
-
-
-
-
-
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Pipeline Authoring" } %>
-
-
+{{% engineering/child-dashboards filters="Pipeline Authoring" %}}
