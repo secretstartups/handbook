@@ -33,11 +33,11 @@ If Blog pages are returning a 404:
 
    1. We’re planning to prioritize this feature in our 2024-01-03 to 2024-01-11 sprint.
 
-### Buyer Experience pages returning a 404:
+### Buyer Experience pages returning a 404
 
 1. Current fix: hardcode the routes in [route.contentful.js](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/route.contentful.js?ref_type=heads) (currently, some templated pages are built dynamically in their own functions at the top of that file). \[[Example MR](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/merge_requests/3339)]
 
-### Testing:
+### Testing
 
 1. When working locally, run “yarn generate” with CTF\_CONTENT\_PREVIEW not active to ensure that the files are being generated properly.
 
