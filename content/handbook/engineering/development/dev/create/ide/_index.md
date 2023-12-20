@@ -555,8 +555,8 @@ We have the following automation goals for the Remote Development Workflow. Unle
   - along with a comment with a link to the [1. High level validation and planning section][#1-high-level-validation-and-planning], and instructions that
     one of the following milestones must be assigned to all issues in `~rd-workflow::unprioritized`:
    - `%"Next 1-3 releases"`
-   - `%"Next 4-7 releases"`
-   - `%"Next 7-13 releases"`
+   - `%"Next 4-6 releases"`
+   - `%"Next 7-12 releases"`
    - `%Backlog`
    - `%Awaiting further demand`
 
