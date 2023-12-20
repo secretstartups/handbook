@@ -38,7 +38,8 @@ We have a [standard meeting notes document](https://docs.google.com/document/d/1
 
 A Customer Success Plan is a customer-facing and mutually agreed roadmap for achieving value through GitLab adoption. This is an outcome of collaboration between GitLab Solution Architecture and the customer with the primary objective of ensuring customers are successful.  The process is designed to support shifting from product scoped conversations (focusing on specific features or functions and limited to a specific subset of DevSecOps stages) towards solution (addressing specific pain points) or strategic (shaping business outcomes through holistic organizational process innovation and transformation tied to top strategic initiatives ) scopes. This Success Plan starts in the pre-sales process and is intended to carry through to the post-sales [Success Plan](/handbook/customer-success/csm/success-plans/). The Customer Success Plan is intended to be dynamic and should therefore be regularly reviewed on an agreed-upon cadence.
 
-Customer Success Planning core goal is to identify:
+Customer Success Planning core goal is to identify and state:
+- Business outcomes
 - Key business stakeholders
 - High-impact strategic requirements
 - Current state of customer technology ecosystem
