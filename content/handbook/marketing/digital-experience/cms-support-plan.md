@@ -56,3 +56,6 @@ In order (numbers are in Slack profiles):
 3. [Carrie Maynard](https://gitlab.enterprise.slack.com/archives/D03RZD1F2JV)
 
 _Call on the phone if no response within 15 minutes_
+
+## CMS Troubleshooting Playbook
+For information on troubleshooting a technical issue, refer to this playbook: [CMS Troubleshooting Playbook](https://handbook.gitlab.com/handbook/marketing/digital-experience/incident-response-playbook/)
