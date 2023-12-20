@@ -397,7 +397,7 @@ We therefore track members' overal utilization of GitLab where possible.
 We do this via Saesforce according to the following reports:
 
 * [Open Source Program Utilization](https://gitlab.my.salesforce.com/00OPL0000009ihl)
-* [Open Source Program Seats](https://gitlab.my.salesforce.com/00OPL0000009ihl)
+* [Open Source Program Seats](https://gitlab.my.salesforce.com/00O8X000008mhmV)
 
 GitLab team members with access to Salesforce can view these reports for additional details.
 
