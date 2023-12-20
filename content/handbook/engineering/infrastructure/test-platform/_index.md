@@ -213,6 +213,11 @@ For more information, please visit our [test engineering page](test-engineering)
 
 If you need to debug a test failure, please visit our [debugging QA pipeline test failures page](debugging-qa-test-failures).
 
+### Test Platform Project Regulations
+
+The Test Platform Sub-Department follows a regulation processes for ensuring efficient and consistent management of projects with clear guidelines.
+For more information, please visit our [project management page](project-management).
+
 ## ChatOps for Quality
 
 The Test Platform Sub-Department maintains [ChatOps](https://docs.gitlab.com/ee/development/chatops_on_gitlabcom.html) commands
