@@ -62,6 +62,8 @@ First, verify the customer's identity as outlined under [ownership verification]
 
 #### Process for existing CustomersDot user
 
+**Warning**: A new `Customer` record will be created if updating a billing account contact to an email address for which a `Customer` record doesn't yet exist. So please be sure to follow the steps in the presented order to avoid this side-effect, or follow the [Process for non-existing CustomersDot user](#process-for-non-existing-customersdot-user), if the requestor is not an existing CustomersDot user.
+
 If the requestor is an existing CustomersDot user when doing an email search:
 
 1. Follow [Add subscription management contact workflow](#add-subscription-management-contact).
