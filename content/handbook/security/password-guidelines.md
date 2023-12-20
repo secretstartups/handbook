@@ -13,7 +13,7 @@ Passwords are one of the primary mechanisms that protect GitLab information syst
 (by purchasing a standalone license) or as a hosted service (by subscribing). GitLab uses 1Password for Teams which is a hosted service.
 
 
-**Important:** Any personal Passwords stored in your GItLab vault will be inaccessible upon separation with GitLab. Please use the complimentry 1Passsword Families membership subscription that comes with your business account to store any personal passwords. This account will stay with you even in the event that you stop working with GitLab.
+**Important:** Any personal Passwords stored in your GitLab vault will be inaccessible upon separation with GitLab. Please use the complimentry 1Passsword Families membership subscription that comes with your business account to store any personal passwords. This account will stay with you even in the event that you stop working with GitLab.
  For more inforamtion on how to redeem your free subscription, please follow the steps outlined in [this article](https://support.1password.com/link-family/).
 
 
