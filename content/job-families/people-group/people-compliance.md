@@ -89,7 +89,7 @@ Primary performance indicators for this role:
 
 ## People Compliance Program Manager
 
-The People Compliance Partner reports to the Director, People Operations.
+The People Compliance Program Manager reports to the Director, People Operations.
 
 ### Job Grade
 
@@ -97,13 +97,13 @@ The People Compliance Program Manager is a [grade 7](/handbook/total-rewards/com
 
 ### People Compliance Program Manager Responsibilities
 
-- Partner with Employment Council, Legal and Privacy team on laws and regulation updates.
+- Partner with Employment Counsel, Legal and Privacy team on laws and regulation updates.
 - Maintain appropriate level of process, program, and policy knowledge to assist team members.
 - Review and understand legislation in locations where we have legal hiring entities.
 - Proactively address processes to mitigate compliance and operational risk by recommending and prioritizing changes to support the business.
-- Act as subject matter expert on HR compliance and act in an advisory role to People Team  centers of excellence, cross-functional stakeholders, and clients.
+- Act as subject matter expert on HR compliance and act in an advisory role to People Team centers of excellence, cross-functional stakeholders, and clients.
 - Support queries relating to compliance, audit and due diligence specific projects in issues, slack and MR’s.
-- Act as the main point of contact  for  the  People Tools & Technology team with reporting, data analyses, and personnel information as it relates to compliance.
+- Act as the main point of contact for the People Tools & Technology team with reporting, data analyses, and personnel information as it relates to compliance.
 - Manage the scope and schedule for assigned compliance projects and programs; conduct compliance audits, analyze results and generate reports for relevant functional areas, and potential policy recommendations.
 - Implement compliance initiatives and templates that can be utilized for initiatives including: document retention policy for team member information, data protection, and annual training on these.
 - Manage the company’s reporting requirements and compliance initiatives, including the Affirmative Action (OFCCP) and EEO-1.
@@ -145,14 +145,14 @@ The Manager, People Compliance is a [grade 8](/handbook/total-rewards/compensati
 - Coach and mentor the People Compliance team to effectively address people compliance and relation audit and overall project initiatives.
 - Acts as a subject matter leader to provide strategic coaching to management of all levels on addressing a variety of people issues while effectively mitigating business and company risk.
 - Identifies a Risk Profile based on compliance related matters and creates a mitigation roadmap to remediate and/or lower risk.
-- Maintain a deep understanding of  legislation in locations where we have legal hiring entities.
-- Proactively lead projects or recommend process improvements  to mitigate compliance and operational risk.
+- Maintain a deep understanding of legislation in locations where we have legal hiring entities.
+- Proactively lead projects or recommend process improvements to mitigate compliance and operational risk.
 - Develop strategic partnerships and support business units on people compliance concerns.
 - Ensure oversight and governance of policies and practices globally, including interpreting and applying understanding of corporate policies and practices, employment laws, and other regulations to provide advice, guidance, or clarification for People Compliance inquiries.
 - Investigate best practice and innovative people policies to ensure GitLab is fully prepared and compliant as we scale. Create and implement internal policies related to leave administration, disability support, and more.
-- Act as subject matter expert for  the People Tech team with reporting, data analyses, and personnel information as it relates to compliance.
+- Act as subject matter expert for the People Tech team with reporting, data analyses, and personnel information as it relates to compliance.
 - Supervise all the company’s mandatory country-specific lawful and required reports and compliance initiatives, including the Affirmative Action (OFCCP) and EEO-1.
-- Address any gaps in processes or documentation  and escalate as necessary.
+- Address any gaps in processes or documentation and escalate as necessary.
 - Ensure strong partnerships with internal legal counsel, vendors, and external professionals and legal counsel as needed.
 - Complete ad-hoc projects, reporting, and tasks.
 
@@ -184,6 +184,6 @@ The next step in the People Compliance job family is to move to the [People Lead
 ### Hiring Process
 
 - Qualified candidates will be invited to schedule a 30 minute screening call with one of our recruiters
-- Next, candidates will be invited to schedule a 45 minute interview with our Vice President, People Operations, Technology and Analytics
+- Next, candidates will be invited to schedule a 45 minute interview with our VP, Total Rewards and People Operations
 - After that, candidates will be invited to schedule a 30 minute interview with members of the People Operations, People Success, Legal, Total Rewards, Talent Acquisition, and People Partner teams
 - Finally, our CPO may choose to conduct a final interview
