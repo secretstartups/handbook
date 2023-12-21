@@ -58,7 +58,7 @@ GitLab has two distinct security zones:
 
 - Personal mobile phone and tablet usage [must be passcode protected](https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#personal-mobile-phone-and-tablet-usage).
 
-- Sensitive data should not be stored on removable storage devices, such as USB drives or external hard drives. External media on company assets [is not sanctioned](https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#use-of-external-media-on-company-assets).
+- Sensitive data should not be stored on removable storage devices, such as USB drives or external hard drives. External storage devices on company assets [is not sanctioned](https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#use-of-external-media-on-company-assets).
 
 - Printing documents containing sensitive information as defined by the [Data Classification Standard](https://handbook.gitlab.com/handbook/security/data-classification-standard/) is prohibited.
 
