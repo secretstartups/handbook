@@ -38,6 +38,17 @@ description: "A guide for troubleshooting incidents that may occur on the Market
 
 3. We are [investigating](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues/3270) a Cypress test that will check generated routes against a sitemap.
 
+### Unpublishing a page in the CMS
+
+To unpublish a page (either a blog post, or a marketing site page), navigate to the Page entry in Contentful. 
+
+1. On the sidebar of the Page, click the Status dropdown, and select `Unpublish`. Note that you will need to have publishing permissions to access this functionality.
+
+   - This pipeline takes about 15 minutes to run. You can check the status of the pipelines of the [Blog](https://gitlab.com/gitlab-com/marketing/digital-experience/gitlab-blog/-/pipelines) and the [Buyer Experience](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/pipelines)
+
+2. Once that unpulish pipeline has completed, manually run the `deploy-cleanup-old-deleted-files` job in the www-gitlab-com project by clicking the [Pipeline Schedules page](https://gitlab.com/gitlab-com/www-gitlab-com/-/pipeline_schedules), and clicking the play button next to that job. 
+
+
 ### Disabling the Contentful Webhook
 
 1. In order to prevent changes from being picked up by a pipeline, or to prevent users from hitting the rate limit when publishing many items in quick succession, you can disable the webhook in your contentful space: 
