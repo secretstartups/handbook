@@ -27,16 +27,16 @@ Once an outreach ticket has been sent to the customer, mark the PagerDuty alert 
 Follow these steps to create a new ticket to start communications with a customer.
 
 1. Find the `Switchboard (production)` tile in Okta and login to Switchboard.
-  - If you get a `403 Forbidden` message while using a VPN, turn it off temporarily. The WAF rules may be blocking VPN endpoints.
+    1. If you get a `403 Forbidden` message while using a VPN, turn it off temporarily. The WAF rules may be blocking VPN endpoints.
 1. You should see the `Tenants` page when logged in. Find the relevant tenant and click `Manage`.
 1. Expand the `Cloud Account Config` section, and look for the `Primary Region`. This should tell us which region the customer is based in. See the [AWS docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html#concepts-available-regions) if you're unsure of the AWS region code. Make a note of the region.
 1. Search for the `Customer Communications` section, and expand it. You should see values for `Operational email addresses` and `Customer TAM`. You will need these values when creating the ticket.
 1. Follow the instructions [here](/handbook/support/workflows/sending_notices/#manually-create-a-zendesk-ticket) to create a new Zendesk ticket.
-  - For the **subject** of the ticket, use the following template: `GitLab Dedicated Notice: <description>`.
-  - For the ticket **requestor**, use the first operational email address listed.
-  - **CC** the other operational email addresses and the Customer TAM.
-  - Set the **Preferred Region for Support** to the region similar to where the tenants' `Primary Region` is located.
-  - Add a `dedicated_contacted_request` **tag** to the ticket.
+    1. For the **subject** of the ticket, use the following template: `GitLab Dedicated Notice: <description>`.
+    1. For the ticket **requestor**, use the first operational email address listed.
+    1. **CC** the other operational email addresses and the Customer TAM.
+    1. Set the **Preferred Region for Support** to the region similar to where the tenants' `Primary Region` is located.
+    1. Add a `dedicated_contacted_request` **tag** to the ticket.
 1. Assign the ticket to yourself.
 1. Once the ticket has been created, change the Zendesk Form over to `GitLab Dedicated`.
 
