@@ -50,7 +50,7 @@ GitLab requires all team members to use either Biometrics or YubiKey as your [Ok
 
 **Using [WebAuthn](https://www.okta.com/sites/default/files/pdf/How_WebAuthn_Works_0.pdf) authentication is required for all team members.**
 
-1. Touch ID on Mac currently requires Chrome or Safari. The latest version of macOS works better with Touch ID/YubiKeys. There is a known [issue](https://bugzilla.mozilla.org/show_bug.cgi?id=1536482) with Firefox preventing it from working with Touch ID. YubiKeys can be used with all browsers.
+t1. Touch ID on Mac currently requires Chrome or Safari. The latest version of macOS works better with Touch ID/YubiKeys. There is a known [issue](https://bugzilla.mozilla.org/show_bug.cgi?id=1536482) with Firefox preventing it from working with Touch ID. YubiKeys can be used with all browsers.
 
 1. While logged in to Okta from the device you wish to add, access the [Settings](https://gitlab.okta.com/enduser/settings) page.
 1. In the 'Security Methods' section of the page, choose `Set up` or `Set up another` next to `Security Key or Biometric`.
