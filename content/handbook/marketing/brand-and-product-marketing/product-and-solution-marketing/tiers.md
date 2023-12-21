@@ -50,7 +50,7 @@ Where we can, we highlight both the self-managed and the GitLab SaaS tiers (like
 
 ## Add on Services
 
-Add on services extend the functionality of the Tier and do not represent a new Tier. These add on services can include, but are not limited to, adding Storage, CI Minutes, Agile Planning, and AI features to the existing tier the subscription is on. Add-ons can be made available on one, multiple, or all tiers depending upon the tier availability of the add on service being provided.  
+Add on services extend the functionality of the Tier and do not represent a new Tier. These add on services can include, but are not limited to, adding Storage, Compute Minutes, Agile Planning, and AI features to the existing tier the subscription is on. Add-ons can be made available on one, multiple, or all tiers depending upon the tier availability of the add on service being provided.  
 
 ## Libre, gratis, and free
 
