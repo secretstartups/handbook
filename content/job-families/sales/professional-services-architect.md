@@ -110,10 +110,9 @@ The Senior Technical Architect Manager, Professional Services reports to the Dir
   - Revenue target
   - Gross margin
   - Engineer utilization and overall attainment
+  - Growth plans and individual professional development
   - CSAT
   - Percentage of projects on time and on budget
-Bryan May How would you measure/judge the success of the Manager of the Technical Architect team?
-Donita Farnsworth How would you measure/judge the success of the Manager of the TA team?
 
 #### Requirements
 
