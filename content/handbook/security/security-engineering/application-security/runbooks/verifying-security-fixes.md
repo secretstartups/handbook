@@ -16,11 +16,12 @@ targeting a versioned stable branch (`X-Y-stable-ee`) .
 **Note**: The process described above is particular to validate GitLab fixes. The process to verify fixes for other subcomponents (Omnibus GitLab, Gitaly, and GitLab Pages) might be different.
 
 ## Validating security fixes using Gitpod
+
 1. Start a new Gitpod instance https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/gitpod.md
-2. When your Gitpod instance has started, download the patch from the security MR by clicking on the `Code` option on the top right of the MR.
-3. In your Gitpod instance on the terminal: `cat > mr.patch <hit return> <paste contents> <hit control+d>`. Then apply the patch: `git apply mr.patch`
-4. Restart GDK on Gitpod: `gdk restart`
-5. Make the GitPod webserver reachable: In the Ports pane of Gitpod, find the row with port 3000 and click the lock icon to make the port public.
+1. When your Gitpod instance has started, download the patch from the security MR by clicking on the `Code` option on the top right of the MR.
+1. In your Gitpod instance on the terminal: `cat > mr.patch <hit return> <paste contents> <hit control+d>`. Then apply the patch: `git apply mr.patch`
+1. Restart GDK on Gitpod: `gdk restart`
+1. Make the GitPod webserver reachable: In the Ports pane of Gitpod, find the row with port 3000 and click the lock icon to make the port public.
 In the same Ports pane, and the same port 3000 row, click the URL to visit the GitLab instance.
 
 ## Validating security fixes using `package-and-qa`
