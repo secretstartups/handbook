@@ -285,7 +285,7 @@ Note that some teams in GitLab are using Zapier with a paid plan, but Support En
 1. Zapier will now look for emails with that label and should find the test email we triggered earlier
 1. Choose the test email and "Continue with selected record" to start setting up the action
 1. For the Action, use the `Slack` app with the `Set Status` event
-1. Continue until you can specifiy the input for the status:
+1. Continue until you can specify the input for the status:
    - `Status Text` – you'll likely want to specify your rotation name here
    - `Status Emoji` – you'll likely want to use `:pagerduty:` here
    - `Expiration Time` – you'll want to use the duration of your shift here so the status is automatically cleared when your shift is done
