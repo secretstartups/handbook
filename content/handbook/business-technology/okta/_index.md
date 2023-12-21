@@ -59,6 +59,7 @@ t1. Touch ID on Mac currently requires Chrome or Safari. The latest version of m
 <img src="/handbook/business-technology/okta/images/1password-passkey.png" alt="1Password USB Key" width="300">
 1. For iCloud Keychain or a YubiKey, click "Use a different passkey". For the local Chrome browser choose "Continue".
 
+
     <img src="/handbook/business-technology/okta/images/Okta-Chrome-Passkey-Popup.png" alt="Okta Add Passkey #1" width="300"/>
 
 1. If you choose to save it in your Chrome profile, another prompt will appear asking you to authenticate using Touch ID or Face ID.
@@ -67,7 +68,7 @@ t1. Touch ID on Mac currently requires Chrome or Safari. The latest version of m
 
 1. If you chose to use the iCloud Keychain or Security Key, choose the correct option to finish enrollment.
 
-    <img src="/handbook/business-technology/images/Okta-Chrome-Passkey-2.png" alt="Okta Add Passkey #2" width="300"/
+    <img src="/handbook/business-technology/okta/images/Okta-Chrome-Passkey-2.png" alt="Okta Add Passkey #2" width="300"/
 
 
 1. For Security Key, relevant prompts will appear.
