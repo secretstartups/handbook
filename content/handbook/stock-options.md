@@ -195,7 +195,7 @@ With the implementation of WorkDay, interfaces to ETrade provide for electronic 
 
 ### Taxes
 
-Tax law is complex and you should consult a tax attorney or other tax advisor who is familiar with startup stock options before making any decisions. Please go to the [tax team's stock options]({{< ref "/handbook/tax/stock-options" >}}) page for more information on taxation of stock options.
+Tax law is complex and you should consult a tax attorney or other tax advisor who is familiar with startup stock options before making any decisions. Please go to the [tax team's stock options](https://internal.gitlab.com/handbook/tax/stock-options/) page for more information on taxation of stock options.
 
 ### US employees with Incentive Stock Options (ISOs)
 
