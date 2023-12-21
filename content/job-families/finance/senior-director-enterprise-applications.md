@@ -22,10 +22,9 @@ The Manager, CRM Systems is a [grade 8](https://handbook.gitlab.com/handbook/tot
 - Provide critical input to develop and manage the plan of record for the IT Applications portfolio; while driving culture of delivery to commitments.
 - The Manager is expected to identify critical areas of improvement, offer recommended solutions, and drive execution of those solutions.
 
-
 ### Requirements
 
-- Bachelor’s degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience. 5-7 years of experience implementing, configuring, customizing and integrating SaaS software Eg:  SalesForce, Zuora Billing, Zuora Revenue, DocuSign CLM, Netsuite, Coupa, Zip, Navan, Workday, ADP, eTrade etc.
+- Bachelor’s degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience. 5-7 years of experience implementing, configuring, customizing and integrating SaaS software Eg: SalesForce, Zuora Billing, Zuora Revenue, DocuSign CLM, Netsuite, Coupa, Zip, Navan, Workday, ADP, eTrade etc.
 - 5-7 years’ experience in IT, with 5+ years’ experience leading and managing an IT organization or Applications group at a fast growing high technology company.
 - Be a self-starter, and thrive in a fast paced environment, customer centric and have the interpersonal skills necessary to manage business and technology relationships.
 - Exceptional time management and prioritization skills, resilient under pressure, able to meet deadlines and able to work in a constantly changing environment.
@@ -40,7 +39,6 @@ The Manager, CRM Systems is a [grade 8](https://handbook.gitlab.com/handbook/tot
 - Application specific skills:
    - Salesforce: Development experience with advanced Salesforce.com development tools and techniques (e.g. Apex language, Force.com custom development, triggers, controllers, JavaScript, Force.com SOAP and REST APIs, JSON, AngularJS, jQuery, JavaScript, sObjects, SOQL, SOSL, Chatter APIs, outbound messaging, Bootstrap, Lightning Design System (LDS), Lightning Components and Visualforce pages).
    - Billing Systems: CPQ, Billing, Revenue (Zuora, NetSuite, etc.).
-
 
 ## Director, CRM Systems
 
@@ -61,7 +59,6 @@ The Director, CRM Systems is a [grade 10](/handbook/total-rewards/compensation/c
 - Communication: Target audience Director, Sr. Director, VP, with presentations targeted to CFO staff for critical projects.
 Mentorship: Build and manage global teams. Guide and coach team members. Mentors junior team members and models GitLab values for the team.
 - Measure, monitor, and maintain team’s ability to meet or exceed Service Level Agreements (SLA), Objectives and Key Results (OKRs), and Key Performance Indicators (KPIs). Experience and comfort working in a culture of measurement.
-
 
 ### Requirements
 
@@ -103,7 +100,6 @@ The Manager, Enterprise Applications is a [grade 8](/handbook/total-rewards/comp
 - Provide critical input to develop and manage the plan of record for the IT Applications portfolio; while driving culture of delivery to commitments.
 - The Manager is expected to identify critical areas of improvement, offer recommended solutions, and drive execution of those solutions.
 
-
 ### Requirements
 
 - 5-7 years’ experience in IT, with 3+ years’ experience leading and managing an IT organization or Applications group at a fast growing high technology company.
@@ -119,7 +115,6 @@ The Manager, Enterprise Applications is a [grade 8](/handbook/total-rewards/comp
 - Must be comfortable with ambiguity and fast change with an ability to adapt quickly and easily.
 - Relevant business/industry acumen with the ability to quickly and thoroughly understand business priorities, operations, and IT enablement potential.
 - Ability to use GitLab
-
 
 ## Senior Manager, Enterprise Applications
 
@@ -173,7 +168,6 @@ The Director, Enterprise Applications is a [grade 10](/handbook/total-rewards/co
 - Help drive discussion and improvements to develop and manage the plan of record for the IT Applications portfolio; while driving culture of delivery to commitments.
 - The Director is expected to identify critical areas of improvement, offer recommended solutions, and drive execution of those solutions
 
-
 ### Requirements
 
 - 10-15 years’ experience in IT, with 7+ years’ experience leading and managing an IT organization or Applications group at a fast growing high technology company.
@@ -189,7 +183,6 @@ The Director, Enterprise Applications is a [grade 10](/handbook/total-rewards/co
 - Must be comfortable with ambiguity and fast change with an ability to adapt quickly and easily.
 - Relevant business/industry acumen with the ability to quickly and thoroughly understand business priorities, operations, and IT enablement potential.
 - Ability to use GitLab.
-
 
 ## Senior Director, Enterprise Applications
 
