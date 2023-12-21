@@ -173,7 +173,7 @@ The following metrics are used to determine a customer's SCM Adoption Score:
 - Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's SCM Metrics to export and calculate the Adoption score
 - [Use Case Adoption Scoring - Defined Metrics](https://docs.google.com/spreadsheets/d/1dJLQIwoQxSK6pJL-ZmbMK_VUBmY0INZPgVsWqsypHzI/edit?usp=sharing) (Internal Only)
 - [Customer 360](https://10az.online.tableau.com/#/site/gitlab/views/DRAFTCustomer360/Customer360LandingPage?:iid=1) - A dashboard that provides a comprehensive, detailed view of individual customers, consolidating their health score, use case adoption and account information.
--[Account Landscape](https://10az.online.tableau.com/#/site/gitlab/views/DRAFTAccountLandscapeUseCaseAdoption/AccountLandscapeDashboard?:iid=1) - A dashboard that provides macro level overview of all customers to identify and target specific segments of customers with change in use case adoption
+- [Account Landscape](https://10az.online.tableau.com/#/site/gitlab/views/DRAFTAccountLandscapeUseCaseAdoption/AccountLandscapeDashboard?:iid=1) - A dashboard that provides macro level overview of all customers to identify and target specific segments of customers with change in use case adoption
 <br>
 
 ##### **Disclaimer:**  The scoring criterias & thresholds will continue to evolve as we iterate
