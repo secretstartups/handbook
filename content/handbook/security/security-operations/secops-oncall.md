@@ -76,7 +76,7 @@ Security Operations provides weekday On-Call coverage using a follow-the-sun mod
 The Weekend On-Call Security team member will be responsible for covering On-Call responsibilities from AMER Friday evening until APAC Monday morning according to the established On-Call Security Handoff times.
 - The Weekend On-Call Security team member is responsible for timely responding to PagerDuty and the incident response process in accordance with the `"Triage Engineer"` role.
 - During the weekend hours, the Weekend On-Call Security team member is not expected to be at their computer working unless they are responding to an incident, triaging alers, or working on a leadership request for critical deliverables. However, they will be asked to acknowledge any Pager Duty incidents via their mobile phone within 15 minutes, and begin triaging the incident within one hour. Priority 3 Severity 3 and below incidents can be handled by the team as weekday tasks.
-- The Weekend On-Call is responsible to acknowledge, and triage alerts once a day based on priority. Resulting incidents should be either worked or delegated according to the triage guidelines. See `"Alert Triage"` for details.
+- The Weekend On-Call is responsible to acknowledge, and triage all alerts once a day. Resulting incidents should be either worked or delegated according to the triage guidelines. See `"Alert Triage"` for details.
 - When there is a signficant business need, the Weekend On-Call Security team member may be responsible for ensuring continuity of critical deliverables as determined by leadership. Critical deliverables will generally consist of, but are not limited to: threat hunting and mitigation, bug fixes, cryptomining, customer impacting SPAM, or detection and response engineering to protect against credible threats.
 
 #### Weekend On-Call Security Scheduling
@@ -163,7 +163,7 @@ Incidents are triaged by following the checklist posted by the TriageBot.
 
 Alert triage is a continuous task on weekdays and a task that should be done at least once a day on weekends.
 
-Any alert can be converted to an incident and assigned to another team member following the triage delegation guidelines.
+Any alert can be converted to an incident and assigned to another team member following the triage delegation guidelines above.
 
 ## Incident Ownership
 
