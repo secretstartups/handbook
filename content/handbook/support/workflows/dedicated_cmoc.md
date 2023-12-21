@@ -45,7 +45,7 @@ Follow these steps to create a new ticket to start communications with a custome
 - Follow any issues or slack threads for any updates to the incident. If there's anything worth sharing with the customer (such as "we found a possible lead" or "We are currently digging into the sidekiq logs"), do so in the ticket. If you're unsure of anything, ask the GitLab Dedicated Engineer OnCall or Incident Manager for clarification.
 - Work with the customer to set expectations about the frequency of updates, especially if you are the GDCMOC within the same region as the customer. They will likely expect more updates during their regional business hours.
   - If we proceed with lower frequency updates, the important thing is that we communicate our expected update frequency to them. For example, we can let the customer know that during their regional business hours, we will provide an update every 1-2 hours, and during their non-regional hours we will update them if there is anything substantial to share.
-- Keep in mind the [information that we **should not** share with the customer](handbook/support/workflows/dedicated/#sharing-internal-logs-data--graphs)
+- Keep in mind the [information that we **should not** share with the customer](/handbook/support/workflows/dedicated/#sharing-internal-logs-data--graphs)
 
 ## Guidelines
 
@@ -54,7 +54,7 @@ Follow these steps to create a new ticket to start communications with a custome
 
 ## Concurrent incidents
 
-Support Engineers are not expected to manage multiple incidents. If a concurrent GitLab.com incident or GitLab Dedicated contact request comes in, engage with the [Support Manager oncall](handbook/support/workflows/support_manager-on-call/) to help find cover for the new incident.
+Support Engineers are not expected to manage multiple incidents. If a concurrent GitLab.com incident or GitLab Dedicated contact request comes in, engage with the [Support Manager oncall](/handbook/support/workflows/support_manager-on-call/) to help find cover for the new incident.
 
 You can ping the Support Manager oncall in slack with `@support-manager-oncall`.
 
