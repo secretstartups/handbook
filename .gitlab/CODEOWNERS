@@ -101,6 +101,7 @@
 /content/handbook/finance/expenses.md @brobins @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/security-assurance/dedicated-compliance/poam-deviation-request-procedure.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/security-assurance/control-health-effectiveness-rating.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/physical-security-standard-for-company-assets.md @joshlemos @jlongo_gitlab @plafoucriere @gitlab-com/egroup @gitlab-com/handbook
 
 # These optional entries are for when no codeowner is found.
 ^[content-sites]
