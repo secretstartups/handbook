@@ -27,8 +27,8 @@ When you STAR a ticket, a thread is created in the [#support_ticket-attention-re
 1. When management oversight is required to bring structure and focus to a ticket, and ensure the necessary resources are allocated to it. For example, if:
     - The first-response [SLA](https://about.gitlab.com/support/#service-level-agreements) of the ticket has been breached by one hour or more (see [Before you STAR a ticket](#before-you-star-a-ticket)).
     - The ticket requires immediate intervention to address a high level of customer dissatisfaction.
-    - The ticket requires a higher level of attention from support team than normal level for business reasons (even in situations where the SLA has not yet been breached.)
-    - The Ticket has a lower priority than objectively determined by reference to [Support Impact](https://about.gitlab.com/support/#priority-support).
+    - The ticket requires increased attention from the support team due to business reasons, even if it hasn't breached the SLA yet.
+    - The ticket's priority is objectively lower when assessed in relation to the [Support Impact](https://about.gitlab.com/support/#priority-support) guidelines.
 1. When the progress of a ticket has stalled, and the ticket needs to be elevated to a different engineer (based on their skill set) so that GitLab can resolve the ticket more quickly.
 
 ### When is a STAR not appropriate?
