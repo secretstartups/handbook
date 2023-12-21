@@ -271,7 +271,7 @@ You can learn more about parental leave and how to apply in the [Benefits sectio
 - Expecting parents sign up for the program before they start their Parental Leave. (If you decide you would like to participate in this program while on leave that is ok too!)
 - Barbara (from [Your 4th Trimester](https://drive.google.com/file/d/1NOkpt1oBruKunt3IdR6bQuvR0P2ht6Tg/view)) will start working with the team member prior to their leave and 30 days before the end of their Parental Leave
 - To apply for this coaching program, please notify Total Rewards that you would like to participate in the program by sending an email to growth-development@gitlab.com
-- Note the program cost is funded within your [Growth and Development](https://handbook.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) benefit 
+- Note the program cost is funded within your [Growth and Development](https://handbook.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) benefit
 
 #### Tips for a smoother transition
 
