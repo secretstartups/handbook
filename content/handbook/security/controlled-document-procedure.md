@@ -65,7 +65,7 @@ Most controlled documents will be published to our public facing [handbook]({{< 
 
 ### Review
 
-Controlled documents are required to be reviewed and approved on at least an annual basis. Controlled documents may be updated ad-hoc as required by business operations. Ad-hoc changes do not need to be reviewed and approved, but can only be merged by a code owner of the controlled document.
+Controlled documents are required to be reviewed and approved on at least an annual basis. Controlled documents may be updated ad-hoc as required by business operations. Changes must be approved by a code owner of the controlled document prior to merge.
 
 Reviewers of controlled documents are required to
 
