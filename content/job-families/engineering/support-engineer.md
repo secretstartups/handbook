@@ -90,13 +90,13 @@ For Support Engineers who are nearing or at Senior Level
 - Build relationship with customer’s team
 - Build a relationship with internal field team
 - Be available during timezone business hours (or arrange temporary cover when not available)
-- Handle all non emergency tickets for Assigned Accounts within SLAs
-- Act as first point of contact for Emergency tickets during business hours for ASE contract
+- Take assignment of, own communication for, and progress all non emergency tickets for your Assigned Accounts within SLAs
+- Be available to take Emergency tickets during business hours for ASE contract (Tickets will be handled via CEOC/CMOC rotation who will engage ASE during agreed ASE availability hours)
 - Provide timely ticket updates at a cadence agreed with customer
-- Partner with CSM (where allocated) in scheduled review calls to discuss tickets
+- Partner with CSM (where allocated) in scheduled review calls to discuss ticket priorities and progression
 - Coordinate with internal teams as necessary to drive decreased time to resolution
 - Coordinate with customer to enable successful upgrades
-- Contribute to normal on call workflow
+- Participation in CMOC/CEOC rotations remains unchanged and is expected
 
 ### US Government Support Engineer
 
