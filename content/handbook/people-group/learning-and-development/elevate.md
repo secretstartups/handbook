@@ -51,10 +51,10 @@ Watch this video for a walk through of each step:
 
 ## What team members are saying about Elevate
 
-1. Much more confidence handling things when they go wrong. I react completely differently to situations now. Also I see myself as a manager whereas I didn’t before and felt like I was making it up as I went
-1. I'm much more comfortable to give feedback using the frameworks we learned during the program. Also feel much more confident about my DNA as a manager by listening to others managers.
-1. I now have an actionable set of tools available which helps me navigate any kind of conversation.
-1. The different frameworks that were introduced are immensely helpful. I have been relying on them in numerous situations and find it to be really impactful.
+1. `Much more confidence handling things when they go wrong. I react completely differently to situations now. Also I see myself as a manager whereas I didn’t before and felt like I was making it up as I went.`
+1. `I'm much more comfortable to give feedback using the frameworks we learned during the program. Also feel much more confident about my DNA as a manager by listening to others managers.`
+1. `I now have an actionable set of tools available which helps me navigate any kind of conversation.`
+1. `The different frameworks that were introduced are immensely helpful. I have been relying on them in numerous situations and find it to be really impactful.`
 
 ## Additional Commitments
 
