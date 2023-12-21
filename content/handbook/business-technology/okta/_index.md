@@ -56,10 +56,10 @@ GitLab requires all team members to use either Biometrics or YubiKey as your [Ok
 1. In the 'Security Methods' section of the page, choose `Set up` or `Set up another` next to `Security Key or Biometric`.
 1. You will then presented with a password verification and passkey verification prompt.
 1. After pressing `Set up` twice, a prompt from your web browser will appear, or a [1Password prompt](#adding-a-passkey-to-1password) may appear. Click the "YubiKey" icon to bypass if it appears and you wish to save it in iCloud Keychain (recommended) or the local Chrome browser. 
-<img src="/handbook/business-technology/okta/images/1password-passkey.png alt="1Password USB Key" width="300">
+<img src="/handbook/business-technology/okta/images/1password-passkey.png" alt="1Password USB Key" width="300">
 1. For iCloud Keychain or a YubiKey, click "Use a different passkey". For the local Chrome browser choose "Continue".
 
-    <img src="/handbook/business-technology/images/Okta-Chrome-Passkey-Popup.png" alt="Okta Add Passkey #1" width="300"/>
+    <img src="/handbook/business-technology/okta/images/Okta-Chrome-Passkey-Popup.png" alt="Okta Add Passkey #1" width="300"/>
 
 1. If you choose to save it in your Chrome profile, another prompt will appear asking you to authenticate using Touch ID or Face ID.
 
@@ -95,7 +95,7 @@ We have also prepared Introductory Videos on [Setting up MFA/YubiKeys](https://y
 1. After pressing `Enroll`, a prompt from your web browser will appear.
 1. From 1Password, you'll see a pop up notification from 1Password with the options "New Item" or "Update Existing". Select "Update Existing" and your Okta account to continue.
 
-    <img src="/handbook/business-technology/images/1password-passkey.png" alt="Okta Passkey Key #1" width="300"/>
+    <img src="/handbook/business-technology/okta/images/1password-passkey.png" alt="Okta Passkey Key #1" width="300"/>
 
 ### I want to add Touch ID / Face ID / Face Authentication to Okta for my mobile device (iPhone/iPad or Android)
 
