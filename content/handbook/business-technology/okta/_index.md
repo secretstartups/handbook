@@ -104,6 +104,7 @@ These steps are for an iPhone, and may be slightly different for Android.  If yo
 1. On the computer, click on your name on the top right to open the drop down menu (similar to above) and navigate to "Settings".
 1. On the computer, under Security Methods click "Set up another" beside Security Key or Biometric. This will take you to a setup authentication screen, click "Verify". Provide Touch ID.
 1. On the computer, click "Set up", then click "Set up" again on the next screen
+1. On the computer, ignore all popups from the 1password browser extension as it could interfere with the process of transferring the passkey. 
 1. On the computer, the next step depends on the browser and version.
     1. In Chrome 108+, the pop up that opens states "Create a passkey for gitlab.okta.com" and has your email address listed. Choose "Try another way" at the bottom left.
 
