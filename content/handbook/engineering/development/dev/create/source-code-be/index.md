@@ -21,7 +21,7 @@ The following people are permanent members of the Create:Source Code BE Team:
 
 The following members of other functional teams are our stable counterparts:
 
-{{< stable-counterparts role="Create:Source Code|Technical Writer(.*)Code Review|Director(.*)Create|Principal(.*)Create|Group(.*)Create" manager-role="Backend Engineering Manager(.*)Create:Source Code"  >}}
+{{< stable-counterparts role="Create:Source Code|Technical Writer(.*)Source Code|Director(.*)Create|Principal(.*)Create|Group(.*)Create" manager-role="Backend Engineering Manager(.*)Create:Source Code"  >}}
 
 ## Sisense & KPIs
 
