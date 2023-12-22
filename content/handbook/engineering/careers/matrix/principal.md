@@ -15,12 +15,12 @@ title: "Engineering Career Framework: Principal"
 
 ### Principal Leadership Competencies
 
-{{% include "includes/engineering/principal-leadership-competency.md" %}}
+{{% include "includes/engineering-careers/principal-leadership-competency.md" %}}
   
 ### Principal Technical Competencies
 
-{{% include "includes/engineering/principal-technical-competency.md" %}}
+{{% include "includes/engineering-careers/principal-technical-competency.md" %}}
 
 ### Principal Values Alignment
 
-{{% include "includes/engineering/values-competency.md" %}}
+{{% include "includes/engineering-careers/values-competency.md" %}}

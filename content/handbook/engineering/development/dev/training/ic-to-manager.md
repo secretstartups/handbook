@@ -40,7 +40,7 @@ There are some online training courses that describe the managerial experience:
 
 * Review Promotion Docs for team members from your functional area who have recently been promoted to Engineering Managers
 * Schedule a coffee chat with team members who have recently been promoted and ask them questions that will help you learn more about their transition and their new role
-* See what is [expected of GitLab leadership](https://about.gitlab.com/company/team/structure/#management-group)
+* See what is [expected of GitLab leadership](/handbook/company/team/structure/#management-group)
 * Consider a mentor outside of GitLab
 
 **Stay Informed**
@@ -51,10 +51,10 @@ There are some online training courses that describe the managerial experience:
 **Exceed in Your Current Role**
 
 * Make sure that you exceed in your current role so you have the technical skillset proven for the next level
-* Exceed consistently for a long period of time. [See the performance/potential matrix](https://about.gitlab.com/handbook/people-group/talent-assessment/#the-performancepotential-matrix).
+* Exceed consistently for a long period of time. [See the performance/potential matrix](/handbook/people-group/talent-assessment/#the-performancepotential-matrix).
 * Have patience - growing into a management role takes time
 * Ask your manager what the gap is between where you are and where you want to be, and get a plan in place to grow. If your manager does not have a plan, ask for one and provide valid feedback about the timeline
-* Get a [mentor](https://about.gitlab.com/handbook/people-group/learning-and-development/mentor/) to help you grow to where you want to be
+* Get a [mentor](/handbook/people-group/learning-and-development/mentor/) to help you grow to where you want to be
 * Take the hard tasks that no one wants
 
 ## How can I gain Managerial experience?
@@ -79,7 +79,7 @@ Currently as an Individual Contributor, your day to day tasks probably do not in
 **Growing Others**
 
 * [Mentor](https://www.linkedin.com/learning/mentoring-others/mentoring-others?u=2255073) a team member and host regularly scheduled 1-1's with a Mentee
-* Regularly provide [feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/) in mentoring relationships, team retrospectives, issues, #thanks channel and Team Slack Channels.
+* Regularly provide [feedback](/handbook/people-group/guidance-on-feedback/) in mentoring relationships, team retrospectives, issues, #thanks channel and Team Slack Channels.
 * Host a Book Club
 
 **Initiate impactful change**
@@ -97,7 +97,7 @@ Currently as an Individual Contributor, your day to day tasks probably do not in
 **Strengthen your Diversity Value**
 
 * Join Diversity Inclusion & Belonging or TMRG Slack Channel(s)
-* Join a [TMRG](https://about.gitlab.com/company/culture/inclusion/erg-guide/)
+* Join a [TMRG](/handbook/company/culture/inclusion/erg-guide/)
 * Attend TMRG Hosted Events
 * Participate in TMRG or DIB related events / initiatives
 
@@ -112,7 +112,7 @@ Currently as an Individual Contributor, your day to day tasks probably do not in
 ### Background
 
 At GitLab, there are a number of ICs that are interested in learning and growing into a Management role.
-A [number of resources](https://about.gitlab.com/handbook/engineering/development/dev/training/ic-to-manager/) have [been assembled](https://gitlab.com/gitlab-org/ci-cd/package-stage/package/-/issues/15) to aid in the process of understanding the manager role and to gain the experience required to take it on.
+A [number of resources](/handbook/engineering/development/dev/training/ic-to-manager/) have [been assembled](https://gitlab.com/gitlab-org/ci-cd/package-stage/package/-/issues/15) to aid in the process of understanding the manager role and to gain the experience required to take it on.
 While resources are valuable in their own right, having an experienced Manager as a mentor can help guide ICs and provide practical advice and background. These Manager-mentors can aid the IC and shed light on what areas of Management they could focus on and what they can do practically at present to skill-up.
 
 ### Structure
@@ -121,7 +121,7 @@ While resources are valuable in their own right, having an experienced Manager a
 1. Managers may directly mentor up to 4 Aspiring Managers at a time.
 1. Manager / Aspiring Manager mentorships are coordinated within the [manager_mentorship.yml](/data/manager_mentorship.yml) file.
 1. Aspiring Managers should locate a Manager that has an opening available in [manager_mentorship.yml](/data/manager_mentorship.yml) and contact them directly.
-1. Manager and Aspiring Managers should check in at least every 6 weeks. This could happen async or via [Coffee chat](/company/culture/all-remote/informal-communication/#coffee-chats).
+1. Manager and Aspiring Managers should check in at least every 6 weeks. This could happen async or via [Coffee chat](/handbook/company/culture/all-remote/informal-communication/#coffee-chats).
 1. Discussion topics would be completely flexible based on needs and interests.
 
 

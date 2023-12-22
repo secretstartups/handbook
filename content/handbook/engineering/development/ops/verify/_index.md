@@ -1,25 +1,18 @@
 ---
-
 title: "Verify Stage"
 description: "The verify development group handbook page."
 ---
 
-
-
-
-
-
-
 ## Vision
 
-We enable global software organizations and teams to make great decisions with [smart feedback loops](/direction/ops/#smart-feedback-loop) by delivering [speedy, reliable pipelines](/direction/ops/#speedy-reliable-pipelines) in a [comprehensive CI platform](/direction/ops/#verify) that embodies [Operations for All](/direction/ops/#operations-for-all).
+We enable global software organizations and teams to make great decisions with [smart feedback loops](https://about.gitlab.com/direction/ops/#smart-feedback-loop) by delivering [speedy, reliable pipelines](https://about.gitlab.com/direction/ops/#speedy-reliable-pipelines) in a [comprehensive CI platform](https://about.gitlab.com/direction/ops/#verify) that embodies [Operations for All](https://about.gitlab.com/direction/ops/#operations-for-all).
 
 ### Technical Roadmap
 
 In 2022, the Verify stage focused on reliability and scalability of GitLab CI, which was critical for the availability of gitlab.com.  This included addressing database performance, security vulnerabilities, performance improvements and relevant technical debt.
-This ensured GitLab remained secure, compliant and performant, with our SaaS offering that was able to maintain [SLAs of gitlab.com](https://about.gitlab.com/handbook/engineering/monitoring/#gitlabcom-service-level-availability).
+This ensured GitLab remained secure, compliant and performant, with our SaaS offering that was able to maintain [SLAs of gitlab.com](/handbook/engineering/monitoring/#gitlabcom-service-level-availability).
 
-In 2023, the Verify Pipeline teams will be focused on the following Engineering-led initiatives, in addition to our deliverables for the [FY24 Yearlies](https://about.gitlab.com/company/yearlies/#fy24-yearlies):
+In 2023, the Verify Pipeline teams will be focused on the following Engineering-led initiatives, in addition to our deliverables for the [FY24 Yearlies](/handbook/company/yearlies/#fy24-yearlies):
 1. [CI Data Partitioning](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/architecture/blueprints/ci_data_decay/pipeline_partitioning.md)
 1. Pipeline speed improvements - including analysis of pipeline performance
 1. Review the [data retention strategy of CI data on gitlab.com](https://gitlab.com/gitlab-org/verify-stage/-/issues/440)
@@ -64,19 +57,19 @@ Pipeline Authoring and Pipeline Execution are closely related but they also repr
 
 ### Verify:Pipeline Execution
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Verify:Pipeline Execution') %>
+{{< team-by-manager-role "Engineering Manager(.*)Verify:Pipeline Execution" >}}
 
 ### Verify:Pipeline Authoring
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Verify:Pipeline Authoring') %>
+{{< team-by-manager-role "Engineering Manager(.*)Verify:Pipeline Authoring" >}}
 
 ### Verify:Runner
 
-<%= direct_team(manager_role: 'Senior Engineering Manager, Verify:Runner') %>
+{{< team-by-manager-role "Engineering Manager(.*)Verify:Runner" >}}
 
 ### Verify:Pipeline Security
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Verify:Pipeline Security') %>
+{{< team-by-manager-role "Engineering Manager(.*)Verify:Pipeline Security" >}}
 
 ## How we work
 
@@ -89,7 +82,7 @@ Each group in Verify is encouraged to define their own process based on what wor
 
 ### Developer Onboarding in Verify
 
-Welcome to the team! Whether you're joining GitLab as a new hire, transferring internally, or ramping up on the CI domain knowledge to tackle issues in our area, you'll be assigned an [onboarding/shadowing buddy](/company/culture/all-remote/onboarding/#how-to-onboard-new-hires-remotely) so you can have someone to work with as you're getting familiarized with our codebase, our tech stack and general development processes on your Verify team.
+Welcome to the team! Whether you're joining GitLab as a new hire, transferring internally, or ramping up on the CI domain knowledge to tackle issues in our area, you'll be assigned an [onboarding/shadowing buddy](/handbook/company/culture/all-remote/onboarding/#how-to-onboard-new-hires-remotely) so you can have someone to work with as you're getting familiarized with our codebase, our tech stack and general development processes on your Verify team.
 
 Read over this page as a starting point and feel free to set up regular sync or async conversations with your buddy. We recommend setting up weekly touch points, at a minimum, and joining our regular team syncs to learn more about how we work. (Reach out to our Engineering Managers for an invite to those recurring meetings). Please also schedule a few coffee chats to meet some members of our team. You will be assigned a team specific developer onboarding issue (For example, [Pipeline Execution Developer onboarding checklist](https://gitlab.com/gitlab-org/ci-cd/onboarding/-/blob/master/.gitlab/issue_templates/verify-pipeline-execution_developer-onboarding.md)) for you to go through. It contains admin tasks to complete (as a new team member, if relevant), and also links to technical documentation, meeting agendas, and recordings.
 
@@ -105,7 +98,7 @@ Onboarding buddies are assigned to new hires to ensure their first few months of
 
 In addition to helping those _new hire/transfer_ through any issues with their set up or assigned tasks, it's recommended that their onboarding buddies add the _new hire/transfer_ as an additional reviewer on any MRs the onboarding buddy has been requested to review. Ideally this takes place after they've been working in Verify for at least 3 months, and as mutually agreed upon between both parties. This step further builds the _new hire/transfer's_ CI knowledge and allows for CI domain expertise to be shared amongst all engineers in Verify.
 
-Similar to our [reviewer mentorship programs](https://about.gitlab.com/handbook/engineering/workflow/code-review/#reviewer-mentorship-program), the _new hire/transfer_ will review the merge request as if they're being asked to perform the code review. Once complete, they'll assign the MR back to their onboarding buddy.  It is expected that the onboarding buddy will also complete the code review, then provide the _new hire/transfer_ feedback about their code review. Ideally this takes place at their next check-in, where notes are captured in a shared Google Doc or a GitLab issue for ease-of-collaboration.
+Similar to our [reviewer mentorship programs](/handbook/engineering/workflow/code-review/#reviewer-mentorship-program), the _new hire/transfer_ will review the merge request as if they're being asked to perform the code review. Once complete, they'll assign the MR back to their onboarding buddy.  It is expected that the onboarding buddy will also complete the code review, then provide the _new hire/transfer_ feedback about their code review. Ideally this takes place at their next check-in, where notes are captured in a shared Google Doc or a GitLab issue for ease-of-collaboration.
 
 ### API development
 
@@ -118,7 +111,7 @@ We allow each team to decide when they think they should go with `REST`, but eve
 
 ### Shared issues
 
-In the Verify team we lean in to the GitLab mission, "[everyone can contribute](/company/mission/#mission)"!
+In the Verify team we lean in to the GitLab mission, "[everyone can contribute](/handbook/company/mission/#mission)"!
 To help balance this workload out across the groups, we use the [`Verify candidate`](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=Verify+candidate) label.
 Every issue with this label is a good candidate to be worked on by any group in the Verify stage.
 This applies to both frontend and backend issues.
@@ -154,17 +147,7 @@ or no issues were found by the Verify maintainer.
 
 The following members of other functional teams are our stable counterparts:
 
-<%=
-role_regexp = /[,&] Verify/
-direct_manager_role = 'Senior Manager, Engineering, Verify'
-other_manager_roles = [
-  'Fullstack Engineering Manager, Verify:Pipeline Authoring',
-  'Fullstack Engineering Manager, Verify:Pipeline Execution',
-  'Senior Engineering Manager, Verify:Runner',
-  'Fullstack Engineering Manager, Verify:Pipeline Security'
-]
-stable_counterparts(role_regexp: role_regexp, direct_manager_role: direct_manager_role, other_manager_roles: other_manager_roles)
-%>
+{{< stable-counterparts role="[,&] Verify" manager-role="Senior Manager(.*)Engineering(.*)Verify" other-manager-roles="Engineering Manager(.*)Verify:Pipeline Authoring|Engineering Manager(.*)Verify:Pipeline Execution|Engineering Manager(.*)Verify:Runner|Engineering Manager(.*)Verify:Pipeline Security" >}}
 
 ### Async Work Week
 

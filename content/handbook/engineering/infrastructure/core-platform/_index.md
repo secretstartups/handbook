@@ -71,14 +71,14 @@ The following members of other functional teams are our stable counterparts:
 
 ### Dashboards
 
-{{% cross-function-dashboard filters="enablement" section=true %}}
+{{% cross-functional-dashboards filters="enablement" section=true %}}
 
 ### Weekly Async Updates (No Status Update In Meetings)
 
 In order to embody GitLab [CREDIT values](/handbook/values/#credit), we take team status update to async. Instead of reporting on status in meetings, Directors, Senior Engineering Managers, Engineering Managers provide weekly async updates.  The content of these updates may vary week over week but generally cover:
 
 1. Team projects, priorities, KPIs, OKRs
-2. Other priorities (e.g. [Working Groups](/company/team/structure/working-groups/), [FCLs](/handbook/engineering/#feature-change-locks), special initiatives, etc.)
+2. Other priorities (e.g. [Working Groups](/handbook/company/team/structure/working-groups/), [FCLs](/handbook/engineering/#feature-change-locks), special initiatives, etc.)
 3. Highlights & Accomplishments
 4. Announcements & topics of interest to those reading the report
 
@@ -110,7 +110,7 @@ Engineering managers are encouraged to make as many updates as needed throughout
 
 The nature of the work primarily done by most Core Platform groups calls for backend heavy roadmaps and backlogs. This means that frontend (FE) development work can be "stop-and-go" and typically does not warrant the need for a full-time FE developer assigned to those groups. However, when work does come up it can be overwhelming for the group in question, or they may not have the necessary FE development skills to complete the task.
 
-To address this need, the enablement sub-department has established a cross-group frontend development process. The objective is to have **extra** frontend engineering capacity readily available to help all enablement groups with frontend development work overload while avoiding going through formal [borrow requests](https://about.gitlab.com/handbook/product/product-processes/#borrow) and their process overhead. This also has the added benefit of having some level of technical oversight that supports a consistent frontend architecture across groups.
+To address this need, the enablement sub-department has established a cross-group frontend development process. The objective is to have **extra** frontend engineering capacity readily available to help all enablement groups with frontend development work overload while avoiding going through formal [borrow requests](/handbook/product/product-processes/#borrow) and their process overhead. This also has the added benefit of having some level of technical oversight that supports a consistent frontend architecture across groups.
 
 The process itself consists of managing a unified enablement frontend roadmap and backlog. The DRI of this process is the Engineering Manager of Geo (@juan-silva). While the frontend engineers' primary focus is still their own groups' roadmap, they can be made available for this backlog based on demand, availability, and overall priority assessment upon agreements between respective groups' PMs and EMs coordinated by the DRI.
 
@@ -130,9 +130,9 @@ As the frontend roadmap items above are broken down into specific Epics and Issu
 New issues must initially be labeled `workflow::planning breakdown` where they can be assessed from a technical perspective and estimated accordingly. From there, issues are expected to follow the workflow steps outlined in the [Core Platform Frontend Backlog](https://gitlab.com/groups/gitlab-org/-/boards/5604213) board. Geo's FE Engineer is the DRI for updating the board regularly as development progresses.
 
 ### Increasing Efficiency through Documenting Decisions
-Documenting development decisions is another way to increase efficiency.  These decisions can be either in an issue explicitly stating that we will not work on this issue, the product category page for your group or a more formal decision log in your group's section of the handbook.  Whatever your chosen desitination, each group should try to maintain a [single source of truth](https://about.gitlab.com/handbook/values/#single-source-of-truth) for the decisions.  A recent example (without mentioning specific product name) had a development team researching an open source product to accelerate development time only to find out later that this research had been previously completed and the product was eliminated from consideration.  If this decision had been discoverable via documentation or issue it would have saved precious development time.
+Documenting development decisions is another way to increase efficiency.  These decisions can be either in an issue explicitly stating that we will not work on this issue, the product category page for your group or a more formal decision log in your group's section of the handbook.  Whatever your chosen desitination, each group should try to maintain a [single source of truth](/handbook/values/#single-source-of-truth) for the decisions.  A recent example (without mentioning specific product name) had a development team researching an open source product to accelerate development time only to find out later that this research had been previously completed and the product was eliminated from consideration.  If this decision had been discoverable via documentation or issue it would have saved precious development time.
 
-We have started creating decision logs to benefit our internal development team as well as our greater GitLab community.  It is up to each group to determine the best location for decision logs to be discoverable.  For example, the Database team has a decision log for [Sharding GitLab with CitusDB](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/data_stores/database/doc/citus.html) in the Core Platform/Database section of the handbook and a decision log for the [Sharding Working Group](https://about.gitlab.com/company/team/structure/working-groups/sharding/#outcome---closed) in the working group section of the handbook.
+We have started creating decision logs to benefit our internal development team as well as our greater GitLab community.  It is up to each group to determine the best location for decision logs to be discoverable.  For example, the Database team has a decision log for [Sharding GitLab with CitusDB](/handbook/engineering/infrastructure/core-platform/data_stores/database/doc/citus.html) in the Core Platform/Database section of the handbook and a decision log for the [Sharding Working Group](/handbook/company/team/structure/working-groups/sharding/#outcome---closed) in the working group section of the handbook.
 
 For issues, a clear decision is when an issue is successfully closed.  However, if an issue is closed because we "won't do it" it may not be immediately clear.  We are adopting the `~won't do` label for those issues.  Often the pattern is to just stash these issues in the `~backlog`.  This can be misleading to those watching the issue and frustrating to the original author, especially if they are a community contributor.  When we apply a `won't do` label to an issue, we are making a clear decision.  If there is no pushback on the `won't do` label then we made the right decision.  If there is pushback and we need to reprioritize the issue, then that is a good outcome as well.
 

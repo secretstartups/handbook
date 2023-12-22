@@ -11,7 +11,7 @@ title: Server Runtime Single-Engineer Group
 
 ## Introduction
 
-This page provides a comprehensive overview of *Server Runtime* and catalogs relevant links and pages. It is created and maintained by @shekharpatnaik. The Server Runtime SEG [Single-Engineer Group](/company/team/structure/#single-engineer-groups) is a part of [Incubation Engineering Department](/handbook/engineering/development/incubation/).
+This page provides a comprehensive overview of *Server Runtime* and catalogs relevant links and pages. It is created and maintained by @shekharpatnaik. The Server Runtime SEG [Single-Engineer Group](/handbook/company/team/structure/#single-engineer-groups) is a part of [Incubation Engineering Department](/handbook/engineering/development/incubation/).
 
 ## About Server Runtime
 
@@ -154,7 +154,7 @@ Coming soon!
 
 ## Product Development Group Affinity
 
-- [Editor](https://about.gitlab.com/handbook/product/categories/#editor-group)
+- [Editor](/handbook/product/categories/#editor-group)
 - [Remote Development](https://about.gitlab.com/direction/create/ide/remote_development/)
 
 

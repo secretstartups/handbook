@@ -14,28 +14,12 @@ description: "Monte Carlo (MC) is our Data Observability tool and helps us deliv
 
 ---
 
+<<<<<<< HEAD
 ## What and why
 
 [Monte Carlo](https://www.montecarlodata.com/) (MC) is our [Data Observability](https://www.montecarlodata.com/blog-what-is-data-observability/) tool and helps us **deliver better results more efficiently**.
 
-The Data Team default for observing the status of the data is using Monte Carlo. Creating any tests (called monitors in MonteCarlo) are done via the UI of Monte Carlo and reported according to the [notification strategy](/handbook/business-technology/data-team/platform/monte-carlo/#notification-strategy). On another iteration in the near future we plan to implement [Monitors as Code](https://docs.getmontecarlo.com/docs/monitors-as-code) and these tests will also be version controlled. Currently dbt still used for existing tests, there is no roadmap in place to migrate these to Monte Carlo.
-
-### Current State and Use Cases of Monte Carlo
-
-- `Number of Users:` 30
-- `Number of systems:` 1 (Snowflake)
-- `Number of tables:` 7,000+ tables
-- `Tables under active Alert:` 1,700+ tables
-- Part of [Daily Data Triage](/handbook/business-technology/data-team/how-we-work/triage/)
-- Create Custom Monitors for advanced use cases
-- Pilot Monitoring Tool for select dbt tests
-
-### Future Plans for Monte Carlo
-
-- Deploy as SSOT Monitoring Tool for Analytics Engineering (within the dimensional model layer)
-- Trusted Data Monitoring - migrate dbt Trusted Data tests into Monte Carlo and deprecate these tests
-- Monitors as Code - add monitors to GitLab for version control
-- (Stretch) Automated GitLab Issue Generation on MC incident generation
+The Data Team default for observing the status of the data is using Monte Carlo. Creating any tests (called monitors in MonteCarlo) are done via the UI of Monte Carlo and reported according to the [notification strategy](https://internal.gitlab.com/handbook/enterprise-data/platform/monte-carlo/#notification-strategy). On another iteration in the near future we plan to implement [Monitors as Code](https://docs.getmontecarlo.com/docs/monitors-as-code) and these tests will also be version controlled. Currently dbt still used for existing tests, there is no roadmap in place to migrate these to Monte Carlo.
 
 ## How We Operate Monte Carlo
 
@@ -44,7 +28,6 @@ We are planning on using the [#data-analytics](https://gitlab.slack.com/archives
 This work is planned under this epic for F23Q3: [Onboard Analytics Engineers to the Monte Carlo Tool](https://gitlab.com/groups/gitlab-data/-/epics/615)
 
 Monte Carlo is an integral part of our [Daily Data Triage](/handbook/business-technology/data-team/how-we-work/triage/) and will replace the [TD Trusted Data Dashboards](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-operations-dashboard).
-
 
 ```mermaid
 graph TD
@@ -58,9 +41,7 @@ de --> |improves| sf
 sf --> |observes|mc
 ```
 
-
 The whole body of work covering the Monte Carlo rollout at GitLab falls under epic [Rollout Data Observability Tool with 100% coverage of Tier 1 Tables to improve Trusted Data, Data Quality, and Data Team member efficiency](https://gitlab.com/groups/gitlab-data/-/epics/567), where the work breakdown has been done and issues have been created to reflect the necessary steps until we are up and running with Monte Carlo on production.
-
 
 ## Logging In
 
@@ -80,9 +61,7 @@ For that you should submit an AR (similar ARs: [Example AR 1]](https://gitlab.co
 
 Once logged in, you should be able to see the Monte Carlo Monitors dashboard with details on the objects being monitored and several custom monitors that have already been set up.
 
-
 ![image](/handbook/business-technology/data-team/platform/monte-carlo/screenshot-2.png)
-
 
 You can create a new monitor or view existing monitor details, such as definition and schedule and any anomalies related to it.
 Alternatively, you can also list all the incidents by clicking on the Incidents menu item on the top menu bar, you can search for a specific model by querying the Catalog view or check Pipelines for a detailed lineage information on how the data flows from the source to the production model.
@@ -149,16 +128,12 @@ All incidents are reported in MonteCarlo incident portal. For triage purposes th
 |           | WORKSPACE-DATA-SCIENCE     | #data-science-pipelines | #data-science-pipelines                     | -                                   | #data-science-pipelines |
 |           | LEGACY `***`                                         | -                    | -                    | -                                   | -                    |
 
-
 `*` COMMON is also the COMMON_RESTRICTED equivalent. It excludes `COMMON_PREP` and `COMMON_MAPPING`
 `**` WORKSPACE-DATA-SCIENCE is the only workspace schema we are including in the notification strategy
 `***` Only these two models (`snowplow_structured_events_400` and `snowplow_structured_events_all`) of the `LEGACY` schema have been included temporarily as per MR [!7049](https://gitlab.com/gitlab-data/analytics/-/merge_requests/7049)
 
-
 This notification strategy is the basis for any alert being sent from Monte Carlo towards Slack. However, as of [Notifications 2.0](https://docs.getmontecarlo.com/docs/notifications-v2) Monte Carlo has introduced *Audiences*.
 This means, the above notification strategy has now been migrated towards Audiences and we have the following Audiences in place, sending alerts to Slack channels as specified below:
-
-
 
 | Audience                          | Slack Channel                                        |
 |-----------------------------------|------------------------------------------------------|
@@ -167,7 +142,6 @@ This means, the above notification strategy has now been migrated towards Audien
 | Data Engineers                    |      #data-pipelines                                 |
 | Data Science                      |      #data-science-pipelines                         |
 | Sales Analytics                   |      #sales-analytics-pipelines                      |
-
 
 ## Domains
 
@@ -183,7 +157,6 @@ In Monte Carlo UI in the top right corner there is a dropdown box available whic
 
 ![image](/handbook/business-technology/data-team/platform/monte-carlo/Screenshot_MC_domain.png)
 
-
 ## BI Integrations
 
 When we initially deployed Monte Carlo at GitLab, we defaulted to Sisense as a BI tool, as it was what we were using at the time.
@@ -192,3 +165,8 @@ However, recently we have started migrating to Tableau and therefore we have add
 It is now possible to check table and field lineage from our raw models to Tableau objects, such as Tableau Views, Tableau Live Data Sources or Tableau Extract Data Sources.
 
 The Sisense integration and Tableau integration coexist on Monte Carlo and all related Sisense charts as well as Tableau objects can be seen on the lineage charts.
+
+=======
+>>>>>>> 2763f4061184f51b605248e30b706cb9fd7b3330
+## Overview
+**Monte Carlo Guide** pages are available in our [Internal GitLab Handbook](https://internal.gitlab.com/handbook/enterprise-data/platform/monte-carlo). 

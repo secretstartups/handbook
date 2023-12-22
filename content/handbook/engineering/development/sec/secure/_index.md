@@ -1,13 +1,6 @@
 ---
-
 title: Secure Sub-Department
 ---
-
-
-
-
-
-
 
 The Secure engineering sub-department is responsible for the [Secure Stage](/handbook/product/categories/#secure-stage) of the product.
 
@@ -15,7 +8,7 @@ The Secure engineering sub-department is responsible for the [Secure Stage](/han
 
 To provide content and tools to support the best possible assessment at the earliest possible moment.
 
-Following our [single application](https://about.gitlab.com/handbook/product/single-application/) paradigm,
+Following our [single application](/handbook/product/single-application/) paradigm,
 we integrate and build scanning tools to supply security and compliance assessment data to the main GitLab application
 where we develop our vulnerability management system and other features.
 While it might be technically feasible, we do not aim at building standalone products that provide this data independently from the GitLab application.
@@ -34,14 +27,10 @@ The Secure team works on GitLab's [Secure stage].
 
 ## Sub-department development people leaders
 
-<%=
-  departments = ['Secure']
-  department_regexp = /(#{Regexp.union(departments)})/
-
-  direct_team(role_regexp: department_regexp, manager_slug: 'waynehaber')
-%>
+{{< stable-counterparts role="Director(.*)Secure|Manager(.*)Secure$|Staff(.*)Secure" >}}
 
 To contact Secure stage development people leaders leaders use the following aliases:
+
 * GitLab: `@gitlab-org/secure/managers`
 * Slack: `@s_secure_managers`
 
@@ -49,45 +38,41 @@ To contact Secure stage development people leaders leaders use the following ali
 
 The following people are permanent members of the Secure Sub-Department:
 
-### [Composition Analysis](composition-analysis/)
+### Composition Analysis
 
-<%=  direct_team(role_regexp: /Engineer/, manager_role: 'Manager, Software Engineering, Secure:Composition Analysis') %>
+Team Page: [Composition Analysis](composition-analysis/)
 
-### [Static Analysis](static-analysis/)
+{{< team-by-manager-role role="Manager(.*)Engineering(.*)Secure:Composition Analysis" team="Engineer" >}}
 
-<%=  direct_team(role_regexp: /Engineer/, manager_role: 'Engineering Manager, Secure:Static Analysis') %>
+### Static Analysis
 
-### [Dynamic Analysis](dynamic-analysis/)
+Team Page: [Static Analysis](static-analysis/)
 
-<%= direct_team(role_regexp: /Engineer(.*)Secure:Dynamic Analysis/, manager_slug: 'thomaswoodham') %>
+{{< team-by-manager-role role="Engineering(.*)Manager(.*)Secure:Static Analysis" team="Engineer" >}}
 
-### [Vulnerability Research](vulnerability-research/)
+### Dynamic Analysis
 
-<%= direct_team(role_regexp: /Vulnerability Research/, manager_slug: 'waynehaber') %>
+Team Page: [Dynamic Analysis](dynamic-analysis/)
+
+{{< team-by-manager-slug manager="thomaswoodham" team="Secure:Dynamic Analysis" >}}
+
+### Vulnerability Research
+
+Team Page: [Vulnerability Research](vulnerability-research/)
+
+{{< team-by-manager-slug manager="waynehaber" team="Vulnerability Research" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(
-      role_regexp: /[,&] Secure/,
-      direct_manager_role: nil,
-      other_manager_roles: [
-        'Engineering Manager, Secure:Static Analysis',
-        'Backend Engineering Manager, Secure:Dynamic Analysis',
-        'Manager, Software Engineering, Secure:Composition Analysis',
-        'Senior Engineering Manager, Secure',
-        'Senior Engineering Manager, Anti-Abuse, Growth, Govern and Secure',
-        'Director of Engineering for Growth, Sec, and Data Science',
-        'Acting Backend Engineering Manager, Dynamic Analysis'
-      ]
-    )
-%>
+{{< stable-counterparts role="Secure" other-manager-roles="Engineering Manager(.*)Secure:Static Analysis|Backend Engineering Manager(.*)Secure:Dynamic Analysis|Manager, Software Engineering(.*)Secure:Composition Analysis|Senior Engineering Manager(.*)Secure|Senior Engineering Manager(.*)Secure|Director of Engineering(.*)Sec|Engineering Manager(.*)Dynamic Analysis" >}}
+
 
 ## Secure Team
 
 The Secure Team (previously known as the _Security Products Team_) is responsible for the security checks features in the GitLab platform, and maps to the [secure](/handbook/product/categories/#secure) transversal stage.
-You can learn more about our approach on the [Secure Vision](/direction/secure/) page.
+You can learn more about our approach on the [Secure Vision](https://about.gitlab.com/direction/secure/) page.
 
 The features provided by the Secure Team are mostly present at the pipeline level, and mostly available as [Docker](https://www.docker.com/) images.
 This particularity shapes our processes and QA, which differs a bit from the other backend teams.
@@ -98,7 +83,7 @@ We still refer to "_Security Products_" as the tools developed by the Secure Tea
 
 We strive to maintain a consistent User Experience across our Security Products but we do not enforce consistency at the implementation level.
 Each group faces its own challenges and is in the best position to make the technical choices it deems are the most suitable to achieve its goals.
-While [UX inconsistencies are considered as bugs](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity),
+While [UX inconsistencies are considered as bugs](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity),
 we rely on individual teams to make smart decisions about when consistency is important and when divergence makes more sense
 — either because the divergence itself creates a better experience or because of velocity considerations.
 
@@ -145,14 +130,6 @@ If you are submitting an issue about a Secure Stage feature, use `~devops::secur
 | Label | Use |
 | ----- | --- |
 | `~devops::secure` | All issues related to the Secure Stage |
-
-<% data.categories\
-    .filter{|k, v| v.stage == 'secure' && v.label }\
-    .values\
-    .group_by{|v| v.label }
-    .each do |label, secure_cat_list| %>
-| `~<%= label %>` | <%= secure_cat_list.map{|c| c.name }.join(', ') %>
-<% end %>
 
 Additional labels should be added according to the [Workflow Labels Documentation](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#workflow-labels).
 
@@ -209,7 +186,7 @@ _Examples of previous brainstorming topics:_
 
 #### Resources
 
-- [How to triage a QA test pipeline failure](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/#how-to-triage-a-qa-test-pipeline-failure)
+- [How to triage a QA test pipeline failure](/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/#how-to-triage-a-qa-test-pipeline-failure)
 - [Beginner's guide to writing end-to-end tests](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/beginners_guide.html)
 - [GitLab QA README](https://gitlab.com/gitlab-org/gitlab/-/tree/master/qa)
 - [GitLab QA Scenarios](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/docs/what_tests_can_be_run.md)
@@ -229,7 +206,7 @@ To update the documentation, the following process should be followed:
 
 #### Async Daily Standups
 
-Since we are a [remote](/company/culture/all-remote/) company, having daily standup meetings would not make any sense, since we're not all in the same timezone.
+Since we are a [remote](/handbook/company/culture/all-remote/) company, having daily standup meetings would not make any sense, since we're not all in the same timezone.
 That's why we have async daily standups, where everyone can give some insights into what they did yesterday, what they plan to do today, etc.
 For that, we rely on the [geekbot](https://geekbot.io/) slack plugin to automate the process.
 
@@ -263,7 +240,7 @@ As our teams focus on different areas, we have Geekbot configured to broadcast t
 #### Recorded meetings
 
 Our important meetings are recorded and published on YouTube, in the [GitLab Secure Stage playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7yUrZazEF3diazV29RRo1).
-They give a good overview of the decision process, which is often a discussion with all the stakeholders. As we are a [remote](/company/culture/all-remote/) company, these video meetings help to synchronize and take decisions faster than commenting on issues. We prefer asynchronous work, but for large features and when the timing is tight, we can detail a lot of specifications. This will make the asynchronous work easier, since we have evaluated all edge cases.
+They give a good overview of the decision process, which is often a discussion with all the stakeholders. As we are a [remote](/handbook/company/culture/all-remote/) company, these video meetings help to synchronize and take decisions faster than commenting on issues. We prefer asynchronous work, but for large features and when the timing is tight, we can detail a lot of specifications. This will make the asynchronous work easier, since we have evaluated all edge cases.
 
 ### Calendar
 
@@ -274,7 +251,7 @@ We welcome team members to join meetings that are on our shared calendar. The [S
 GitLab is an extremely active organization which generates a lot of news and activity each week. Everyone in Secure are encouraged to [keep themselves informed](/handbook/engineering/#keeping-yourself-informed) as to what is happening in the larger organzation. Everyone is also
 encouraged to contribute to these channels and communication paradigms when you have information to share.
 
-In addition to this, each group in Secure conducts a weekly synchronous meeting. These meetings are publicized on the Secure Calendar mentioned above. As always at GitLab, we strive to [make meeting attendance optional](/company/culture/all-remote/meetings/#1-make-meeting-attendance-optional).
+In addition to this, each group in Secure conducts a weekly synchronous meeting. These meetings are publicized on the Secure Calendar mentioned above. As always at GitLab, we strive to [make meeting attendance optional](/handbook/company/culture/all-remote/meetings/#1-make-meeting-attendance-optional).
 
 #### Keeping others informed
 
@@ -302,7 +279,7 @@ New hires should go through these steps and read the corresponding documentation
 Every new hire will have an assigned [onboarding issue](https://gitlab.com/gitlab-org/security-products/onboarding/blob/master/.gitlab/issue_templates/Technical_Onboarding.md) that will guide them through the whole process.
 
 #### Workflow and Refinement
-Secure largely follows our [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/)
+Secure largely follows our [Product Development Flow](/handbook/product-development-flow/)
 
 See [Issue Refinement](./workflow/) to learn how we evaluate complexity, level of effort, our implementation plan and assign issue weights.
 
@@ -377,7 +354,7 @@ We keep a [list of data sources in our internal wiki](https://gitlab.com/gitlab-
 
 ## Retrospectives
 
-The Secure sub-department conducts retrospectives at the group level that follow our [engineering workflow](https://about.gitlab.com/handbook/engineering/workflow/#retrospective).
+The Secure sub-department conducts retrospectives at the group level that follow our [engineering workflow](/handbook/engineering/workflow/#retrospective).
 Each group's DRI is responsible to prepare and schedule the retrospective sync sessions and the async retrospective issues can be found in [the corresponding project](https://gitlab.com/gl-retrospectives/secure-sub-dept).
 
 After all groups have completed their retrospective, we conduct a [Section Retrospective](/handbook/engineering/development/sec/#section-retrospectives).
@@ -397,7 +374,7 @@ The Secure group reviews analytics to help understand customers and their usage 
 
 We also track our backlog of issues, including past due security and infradev issues, and total open SUS-impacting issues and bugs.
 
-<%= partial "handbook/engineering/metrics/partials/_backlog_dashboard.erb", locals: { filter_type: filter_type_for("quality", "stage"), filter_value: filter_value_for("quality", "stage", "secure") } %>
+{{< sisense-with-filters dashboard="1000952" Stage="secure" visible="team_group,stage,development_section" >}}976854
 
 ## Merged Merge Request Types
 
@@ -405,7 +382,7 @@ We also track our backlog of issues, including past due security and infradev is
 
 MR Type labels help us report what we're working on to industry analysts in a way that's consistent across the engineering department. The dashboard below shows the trend of MR Types over time and a list of merged MRs.
 
-<%= partial "handbook/engineering/metrics/partials/_mr_types_dashboard.erb", locals: { filter_type: filter_type_for("quality", "stage"), filter_value: filter_value_for("quality", "stage", "secure") } %>
+{{< sisense-with-filters dashboard="976854" Stage="secure" visible="team_group,stage,development_section" >}}
 
 ## Common Links
 

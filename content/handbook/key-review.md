@@ -153,7 +153,7 @@ To create these slides, you will need *Editor* access in Sisense.
 ### Performance Indicator Pages
 
 Many functions or departments now have Performance Indicator pages that allow one to move top-to-bottom in the handbook to see both KPIs and PIs.
-Here is an example of the VP of Development presenting the [Development Department's KPIs and PIs](https://about.gitlab.com/handbook/engineering/development/performance-indicators/) in advance of their monthly Key Review.
+Here is an example of the VP of Development presenting the [Development Department's KPIs and PIs](/handbook/engineering/development/performance-indicators/) in advance of their monthly Key Review.
 
 {{< youtube "8C9oniGinYM" >}}
 

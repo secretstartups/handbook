@@ -11,7 +11,7 @@ title: Breach and Attack Simulation (BAS) Single-Engineer Group
 
 ## Breach and Attack Simulation (BAS) Single-Engineer Group
 
-The Breach and Attack Simulation (BAS) SEG is a [Single-Engineer Group](/company/team/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
+The Breach and Attack Simulation (BAS) SEG is a [Single-Engineer Group](/handbook/company/team/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
 
 ### Updates
 
@@ -19,10 +19,10 @@ The Single Source of Truth for status is tracked in the [Breach and Attack Simul
 
 ### Product Development Group affinity
 
-* [Composition Analysis group in the Secure stage](https://about.gitlab.com/handbook/product/categories/#composition-analysis-group) is charged with Dependency Scanning and [Operational] Container Scanning which both lend themselves to the reconnaissance.
-* [Dynamic Analysis group in the Secure stage](https://about.gitlab.com/handbook/product/categories/#dynamic-analysis-group) owns API Security and DAST which can be expanded upon by emulating attacker behavior.
-* [Threat Insights group in the Govern stage](https://about.gitlab.com/handbook/product/categories/#threat-insights-group) handles Vulnerability Management, Dependency Management, and Software Bill of Materials which all are great segues into targeted BAS scanning.
-* [Vulnerability Research group in the Secure stage](https://about.gitlab.com/handbook/product/categories/#vulnerability-research-group) will provide benchmarking of our own scanners which can be augmented by extended coverage. The GitLab Advisory Database can be used as a source of threat intelligence for lining up vulnerabilities to target for emulation.
+* [Composition Analysis group in the Secure stage](/handbook/product/categories/#composition-analysis-group) is charged with Dependency Scanning and [Operational] Container Scanning which both lend themselves to the reconnaissance.
+* [Dynamic Analysis group in the Secure stage](/handbook/product/categories/#dynamic-analysis-group) owns API Security and DAST which can be expanded upon by emulating attacker behavior.
+* [Threat Insights group in the Govern stage](/handbook/product/categories/#threat-insights-group) handles Vulnerability Management, Dependency Management, and Software Bill of Materials which all are great segues into targeted BAS scanning.
+* [Vulnerability Research group in the Secure stage](/handbook/product/categories/#vulnerability-research-group) will provide benchmarking of our own scanners which can be augmented by extended coverage. The GitLab Advisory Database can be used as a source of threat intelligence for lining up vulnerabilities to target for emulation.
 
 ### Scope
 

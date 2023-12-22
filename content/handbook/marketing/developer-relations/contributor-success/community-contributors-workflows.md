@@ -13,7 +13,7 @@ A GitLab contributor room is available on [Discord](https://discord.gg/gitlab) f
 
 ### Community issues workflow manual process
 
-See the [partial issue triage checklist](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#partial-triage-checklist).
+See the [partial issue triage checklist](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#partial-triage-checklist).
 
 ## Merge Requests
 
@@ -23,22 +23,22 @@ Wider community merge requests are MRs opened by a person that's not present on 
 
 - The `Community contribution` label is automatically applied by the [GitLab Bot](https://gitlab.com/gitlab-bot) to MRs submitted by wider community members.
   - You can see the list of MRs in [`gitLab-org` list of merge requests](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name[]=Community+contribution).
-  - [Learn more about the cadence and conditions for this automation](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#label-community-contributions).
+  - [Learn more about the cadence and conditions for this automation](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#label-community-contributions).
 - The `1st contribution` label is added to first-time contributions. Every time a contributor is opening a merge request under the `gitlab-org` namespace for the first time, the label `1st contribution` is automatically applied to the merge request.
   - You can see the list of MRs in [`gitlab-org` list of merge requests](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name%5B%5D=1st+contribution).
   - [First-time contributors](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows#first-time-contributors) are also awarded a gift as our way to say thanks.
 
 ### Triage reports
 
-See [Community-related triage reports](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#community-related-triage-reports).
+See [Community-related triage reports](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#community-related-triage-reports).
 
 ### Scheduled workflow automation
 
-See [Community-related scheduled workflow automation](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#community-related-scheduled-workflow-automation).
+See [Community-related scheduled workflow automation](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#community-related-scheduled-workflow-automation).
 
 ### Reactive workflow automation
 
-See [Community-related reactive workflow automation](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#community-related-reactive-workflow-automation).
+See [Community-related reactive workflow automation](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#community-related-reactive-workflow-automation).
 
 ## Merge request coaches
 
@@ -70,7 +70,7 @@ Renewal of this license:
 
 Contributors will need to create an request in this project to request their license: [Wider Community Contributor License Request](https://gitlab.com/gitlab-org/developer-relations/contributor-success/team-task/-/issues/new?issuable_template=contributor_ee_license_request).
 
-(Internal link for GitLab team members) Upon evaluation of the contributor's request, a license request can be made using [this form](https://gitlab-com.gitlab.io/support/internal-requests-form/) (Make sure to follow the Zendesk Global Light Agent steps if you haven't already). The Support team will respond following [this workflow](/handbook/support/license-and-renewals/workflows/self-managed/creating-wider-community-license).
+(Internal link for GitLab team members) Upon evaluation of the contributor's request, a license request can be made using [this form](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) (Make sure to follow the Zendesk Global Light Agent steps if you haven't already). The Support team will respond following [this workflow](/handbook/support/license-and-renewals/workflows/self-managed/creating-wider-community-license).
 
 ## DCO and CLA Guidance
 
@@ -313,7 +313,7 @@ More information on the [Core Team](/community/core-team/) is available in the [
 
 ### For contributors who don't own a credit card
 
-For contributors who don't own a credit card and need to be manually verified, a GitLab team member can open an [internal request](https://gitlab-com.gitlab.io/support/internal-requests-form/) using the `Other -> Other (nothing else fits the request)` template. GitLab Support will follow the [Manual credit card validation process described in the handbook](/handbook/support/license-and-renewals/workflows/saas/ci_minutes#manual-credit-card-validation-for-community-contributors) to complete the request.
+For contributors who don't own a credit card and need to be manually verified, a GitLab team member can open an [internal request](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) using the `Other -> Other License and Renewals related issue` template. GitLab Support will follow the [Manual credit card validation process described in the handbook](/handbook/support/license-and-renewals/workflows/saas/ci_minutes.html#manual-credit-card-validation-for-community-contributors) to complete the request.
 
 ### For contributors who run out of compute minutes or other CI/CD resources
 
@@ -428,7 +428,7 @@ Internally, GitLab uses [SiSense](/handbook/business-technology/data-team/platfo
 | --- | --- |
 | [Wider Community Dashboard](https://app.periscopedata.com/app/gitlab/593556/Wider-Community-Dashboard) | Metrics associated to contributors (people) and organizations |
 | [Community Contributions KPI](https://app.periscopedata.com/app/gitlab/729542/Community-Contributions-KPI) | Metrics associated to [Developer Relations KPIs](/handbook/marketing/developer-relations/performance-indicators/#unique-community-contributors-per-month) (like unique contributors per month, etc) |
-| [Wider Community Contribution Dashboard](https://app.periscopedata.com/app/gitlab/833190/Wider-Community-Contribution-Dashboard) | Metrics associated to community contributions, including time to triage, [MRARR](https://about.gitlab.com/handbook/engineering/performance-indicators/#mrarr) forecast for merging month, etc |
+| [Wider Community Contribution Dashboard](https://app.periscopedata.com/app/gitlab/833190/Wider-Community-Contribution-Dashboard) | Metrics associated to community contributions, including time to triage, [MRARR](/handbook/engineering/performance-indicators/#mrarr) forecast for merging month, etc |
 
 
 ### GitLab.com

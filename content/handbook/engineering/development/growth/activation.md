@@ -1,20 +1,13 @@
 ---
-
 title: Growth:Activation Group
 description: "The Growth:Activation group works on feature enhancements and growth experiments across GitLab projects"
 ---
-
-
-
-
-
-
 
 ## Vision
 
 The Activation Group is part of the [Growth Stage]. We work on [connecting our users with our product value](/handbook/marketing/growth/).
 
-* I have a question. Who do I ask?
+- I have a question. Who do I ask?
 
 Questions should start by @ mentioning the Product Manager for the [Activation group](/handbook/product/categories/#activation-group)
 or creating a new issue in the Growth Product [Activation issues] list.
@@ -29,51 +22,45 @@ and [Continuous onboarding](https://gitlab.com/groups/gitlab-org/-/epics/4817).
 
 The following people are permanent members of the Growth:Activation team:
 
-<%= direct_team(manager_role: 'Engineering Manager, Growth and Govern:Threat Insights', role_regexp: /(Activation)/) %>
+{{< team-by-manager-role role="Engineering Manager(.*)Growth and Govern:Threat Insights" team="Activation" >}}
 
 ### Stable Counterparts
 
 We work directly with the following team members in the Growth:Activation group:
 
-<%=
-other_manager_roles = ['Director of Engineering for Secure, Govern, and Growth','Senior Engineering Manager, Govern and Growth']
-direct_managers_role = 'Engineering Manager, Growth and Govern:Threat Insights'
-roles_regexp = /[,&] (Growth(?!:)|Growth:Activation)/
-
-stable_counterparts(role_regexp: roles_regexp, direct_manager_role: direct_managers_role, other_manager_roles: other_manager_roles)
-%>
+{{< stable-counterparts role="Growth(.*)|Growth:Activation" manager-role="Engineering Manager(.*)Growth and Govern:Threat Insights" other-manager-roles="Director(.*)Growth(.*)|Engineering Manager(.*)Govern, and Growth|Sales|Activation" >}}
 
 ## How We Work
 
-* We're data savvy
-* In accordance with our [GitLab values](/handbook/values)
-* Transparently: nearly everything is public
-* We get a chance to work on the things we want to work on
-* Everyone can contribute; no silos
+- We're data savvy
+- In accordance with our [GitLab values](/handbook/values)
+- Transparently: nearly everything is public
+- We get a chance to work on the things we want to work on
+- Everyone can contribute; no silos
 
 ### Prioritization
 
 Prioritization is a collaboration between Product, UX, and Engineering.
 
-* We use the [ICE framework](/handbook/marketing/growth/) for experiments.
-* We use [Priority](https://docs.gitlab.com/ee/development/labels/index.html#priority-labels)
+- We use the [ICE framework](/handbook/marketing/growth/) for experiments.
+- We use [Priority](https://docs.gitlab.com/ee/development/labels/index.html#priority-labels)
   and [Severity](https://docs.gitlab.com/ee/development/labels/index.html#severity-labels) labels for bugs.
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Activation" } %>
+{{% cross-functional-dashboards filters="Activation" %}}
 
 ### Workflow
 
 We use the [Product Development workflow](/handbook/product-development-flow/) when working on issues and
 merge requests across multiple projects.
 
-We use the Activation development [workflow board](https://gitlab.com/groups/gitlab-org/-/boards/3558733?label_name%5B%5D=group%3A%3Aactivation) for work in the build phase of the product development flow. 
+We use the Activation development [workflow board](https://gitlab.com/groups/gitlab-org/-/boards/3558733?label_name%5B%5D=group%3A%3Aactivation) for work in the build phase of the product development flow.
 
 ## Common Links
 
 
-* [Growth Stage]
-* [Activation issues]
-* `#g_activation` in [Slack](https://gitlab.slack.com/archives/g_activation) (GitLab internal)
+- [Growth Stage]
+- [Activation issues]
+- `#g_activation` in [Slack](https://gitlab.slack.com/archives/g_activation) (GitLab internal)
 
 [Growth stage]: /handbook/engineering/development/growth/
 [Activation issues]: https://gitlab.com/gitlab-org/growth/product/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Aactivation

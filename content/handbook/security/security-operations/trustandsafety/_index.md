@@ -21,7 +21,7 @@ We want to make our corner of the internet a little safer, but also be the best 
 
 ## Our Responsibilities
 
-- Detect user generated [Abuse on gitLab.com]({{< ref "abuse-on-gitlab-com" >}})
+- Detect user generated [Abuse on GitLab.com]({{< ref "abuse-on-gitlab-com" >}})
 - Review reported accounts for abusive activity on GitLab.com.
 - Remove user generated content on GitLab.com that violate of our [Terms of Service](https://about.gitlab.com/terms/).
 - Mitigating malicious user generated activity on GitLab.com.

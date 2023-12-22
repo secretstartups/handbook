@@ -42,7 +42,7 @@ The Director, Channel Programs & Enablement is a [grade 10](/handbook/total-rewa
 
 ## Senior Channel Program Manager
 
-The Channel Program Manager will be responsible for the design, management & execution of Gitlab’s Channels & Alliances Partner Programs.  In addition to the partner programs, the Channel Programs Managers will manage deal registration, recruitment and partner success programs and manage the partner advisory council.
+The Channel Program Manager will be responsible for the design, management & execution of GitLab’s Channels & Alliances Partner Programs.  In addition to the partner programs, the Channel Programs Managers will manage deal registration, recruitment and partner success programs and manage the partner advisory council.
 
 ### Job Grade
 

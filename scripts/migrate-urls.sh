@@ -60,6 +60,7 @@ find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/job-fa
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/customer-success/~](/handbook/customer-success/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/resellers/~](/handbook/resellers/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/sales/~](/handbook/sales/~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/engineering/~](/handbook/engineering/~g" {} +
 
 # Migrated Sections using fully qualified url on handbook
 echo "Migrating links for the new handbook  which been migrated to the new handbook..."
@@ -123,6 +124,7 @@ find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/job
 find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/customer-success/~](/handbook/customer-success/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/resellers/~](/handbook/resellers/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/sales/~](/handbook/sales/~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/engineering/~](/handbook/engineering/~g" {} +
 
 # Sections not yet migrated
 echo "Fixing links which haven't been migrated yet..."

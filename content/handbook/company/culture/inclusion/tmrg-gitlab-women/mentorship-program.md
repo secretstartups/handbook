@@ -152,7 +152,7 @@ We used CultureAmp to collect feedback. CultureAmp sorts data as `favorable`, `n
 
 **Mentee Results**
 
-All mentee impacts trended upwards post program, with the greatest impact being on mentees sense of support network at Gitlab. Survey participation went from 91% to 64% pre to post.
+All mentee impacts trended upwards post program, with the greatest impact being on mentees sense of support network at GitLab. Survey participation went from 91% to 64% pre to post.
 
 | Question | Trend Pre to Post Program |
 | ---------- | ----- |

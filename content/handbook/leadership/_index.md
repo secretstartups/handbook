@@ -127,7 +127,7 @@ READMEs provide a genuine report on how a person works, reducing bias/assumption
 
 GitLab division README pages are linked below for context. Reading other READMEs is an important way to get ideas on what you can include in yours. Let these serve as a guide and inspiration to you.
 
-- [Engineering READMEs](https://about.gitlab.com/handbook/engineering/readmes/)
+- [Engineering READMEs](/handbook/engineering/readmes/)
 - [Marketing Team READMEs](/handbook/marketing/readmes/)
 - [Product READMEs](/handbook/product/readme/)
     - [UX Department READMEs](/handbook/product/ux/#meet-some-of-our-team-members)
@@ -174,7 +174,7 @@ Please see [{{< relref "no-matrix-organization" >}}]({{< ref "no-matrix-organiza
 
 ## Stable counterparts
 
-We want to promote organic cross-functional collaboration by giving people stable counterparts for other functions they need to work with. For example, each Strategic Account Executive (SAE) works with one Sales Development Representative (SDR). With our [categories](/handbook/product/categories/) every backend team of developers maps to a [Product Manager (PM)]({{< ref "product-manager" >}}) and a [frontend team](https://about.gitlab.com/handbook/engineering/frontend/#teams).
+We want to promote organic cross-functional collaboration by giving people stable counterparts for other functions they need to work with. For example, each Strategic Account Executive (SAE) works with one Sales Development Representative (SDR). With our [categories](/handbook/product/categories/) every backend team of developers maps to a [Product Manager (PM)]({{< ref "product-manager" >}}) and a [frontend team](/handbook/engineering/frontend/#teams).
 
 Giving people a **stable counterpart** allows for more social trust and familiarity, which speeds up decision making, prevents communication problems, and reduces the risk of conflicts. This way we can work effectively cross functionally without the [downsides of a matrix organization](#no-matrix-organization).
 
@@ -265,7 +265,7 @@ The [Drexler-Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sib
 
 **Manager Resource: Identifying & Addressing Burnout**
 
-Building and maintaining high performance includes staying mindful of team well-being and potential burnout. With GitLab’s results-driven culture, the demands of product innovation around AI, the fast-paced and ever-evolving business environment, our organization recognizes the crucial balance between achieving ambitious goals and maintaining the well-being of our team members. Everyone can access this handbook [resource designed for managers to identify & address burnout](https://handbook.gitlab.com/handbook/leadership/managing-burnout/#manager-guide-identifying--addressing-burnout). This has an ongoing impact on team performance.
+Building and maintaining high performance includes staying mindful of team well-being and potential burnout. With GitLab’s results-driven culture, the demands of product innovation around AI, the fast-paced and ever-evolving business environment, our organization recognizes the crucial balance between achieving ambitious goals and maintaining the well-being of our team members. Everyone can access this handbook [resource designed for managers to identify & address burnout](/handbook/leadership/managing-burnout/#manager-guide-identifying--addressing-burnout). This has an ongoing impact on team performance.
 
 ### Manager M-Team Groups
 
@@ -332,7 +332,7 @@ When you give leadership training please [screenshare the handbook instead of cr
 1. [Self-led opportunities to be a mentor](/handbook/people-group/learning-and-development/mentor/) - keep an eye out for a company-wide mentorship program with applications opening at the end of January 2022.
 1. [Join the women's TMRG mentorship group](/handbook/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/) to either be a mentor to practice leadership or get paired with a leader to learn from.
 1. Sign up for [Crucial Conversations training](/handbook/people-group/learning-and-development/learning-initiatives/#crucial-conversations)
-1. Explore opportunities to join the [CEO Shadow program]({{< ref "/handbook/ceo/shadow" >}}) or other division specific shadow programs with the [Chief of Staff]({{< ref "chief-of-staff-team#chief-of-staff-shadow" >}}), [People Connect Shadow Program](/handbook/people-group/people-connect-shadow-program/), [Security]({{< ref "security-shadow" >}}), and [Development Director Shadow Program](https://about.gitlab.com/handbook/engineering/development/shadow/director-shadow-program.html).
+1. Explore opportunities to join the [CEO Shadow program]({{< ref "/handbook/ceo/shadow" >}}) or other division specific shadow programs with the [Chief of Staff]({{< ref "chief-of-staff-team#chief-of-staff-shadow" >}}), [People Connect Shadow Program](/handbook/people-group/people-connect-shadow-program/), [Security]({{< ref "security-shadow" >}}), and [Development Director Shadow Program](/handbook/engineering/development/shadow/director-shadow-program.html).
 1. Explore the skills needed to successfully transistion from IC to Manager in [GitLab Learn](https://gitlab.edcast.com/channel/coming-soon-transitioning-from-ic-to-manager).
 1. Explore leadership and management courses on [LinkedIn Learning](https://www.linkedin.com/learning/topics/leadership-and-management?u=2255073)
 1. Watch or listen to one of the many [CEO Handbook Learning sessions](/handbook/people-group/learning-and-development/learning-initiatives/#list-of-ceo-handbook-learning-sessions) with Sid on various leadership topics

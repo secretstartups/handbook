@@ -10,7 +10,7 @@ The Infrastructure Department enables GitLab (the company) to deliver a single D
 The Infrastructure Department does this by focusing on **availability**, **reliability**, **performance**, and **scalability** efforts.
 These responsibilities have cost efficiency as an additional driving force, reinforced by the properly prioritized [**dogfooding**](#dogfooding) efforts.
 
-Many other teams also contribute to the success of the SaaS platform because [GitLab.com is not a role](/company/team/structure/#gitlabcom-isnt-a-role).
+Many other teams also contribute to the success of the SaaS platform because [GitLab.com is not a role](/handbook/company/team/structure/#gitlabcom-isnt-a-role).
 However, it is the responsibility of the Infrastructure Department to drive the ongoing evolution of the SaaS platform, enabled by platform observability data.
 
 ## Vision
@@ -26,7 +26,7 @@ Integral part of this vision is to:
 
 ## Direction
 
-The direction is accomplished by using [Objectives and Key Results (OKRs)](https://about.gitlab.com/handbook/engineering/infrastructure-quality/okrs/).
+The direction is accomplished by using [Objectives and Key Results (OKRs)](/handbook/engineering/infrastructure-quality/okrs/).
 
 Other strategic initiatives to achieve this vision are driven by the needs of enterprise customers looking to adopt GitLab.com. [The GitLab.com strategy](https://about.gitlab.com/direction/enablement/dotcom/) catalogs top customer requests for the SaaS offering and outlines strategic initiatves across both Infrastructure and Stage Groups needed to address these gaps.
 
@@ -153,7 +153,7 @@ Infrastructure SREs may be aligned with [stage groups](/handbook/product/categor
 
 ## Interviewing
 
-The Infrastructure department hires for a number of different technical specialisms and positions across its teams. This [Infrastructure Interviewing Guide](https://about.gitlab.com/handbook/hiring/interviewing/infrastructure-interview/) offers more detail on some of our regular openings, interview process and other useful information related to applying to jobs with us. More information on our current openings can be found on the [careers page](https://about.gitlab.com/jobs/).
+The Infrastructure department hires for a number of different technical specialisms and positions across its teams. This [Infrastructure Interviewing Guide](/handbook/hiring/interviewing/infrastructure-interview/) offers more detail on some of our regular openings, interview process and other useful information related to applying to jobs with us. More information on our current openings can be found on the [careers page](https://about.gitlab.com/jobs/).
 
 ## Common Links
 

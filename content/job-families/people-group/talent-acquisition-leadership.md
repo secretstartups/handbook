@@ -20,7 +20,7 @@ The VP of Talent Acquisition is a [grade 12](/handbook/total-rewards/compensatio
 - Champion the diversity efforts within GitLab to drive a diverse talent pool for our open roles
 - Provide leadership to the Global Talent Acquisition team by creating a culture of accountability with a focus on delivering measurable results
 - Continuous partnership with the CPO on the structure and capabilities required of the Talent Acquisition team
-- Drive an engaging team culture based on GItLab's core values
+- Drive an engaging team culture based on GitLab's core values
 - Consistently evaluate and evolve team structure to support growing business needs
 - Responsible for accurate and transparent hiring plans that are publicly accessible in real time
 

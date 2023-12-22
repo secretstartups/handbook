@@ -1,22 +1,14 @@
 ---
-
 title: Environments Group
 description: "The Environments group is responsible for the Environments in the Deploy stage of the DevOps lifecycle."
 ---
 
-
-
-
-
-
-
-
 ## Vision
 
-For an understanding of where this team is going, take a look at [the product](/direction/delivery/)
+For an understanding of where this team is going, take a look at [the product](https://about.gitlab.com/direction/delivery/)
 vision.
 
-As a member of the Ops Sub-department, you may also like to understand [our](/direction/ops/)
+As a member of the Ops Sub-department, you may also like to understand [our](https://about.gitlab.com/direction/ops/)
 overall vision.
 
 ## Mission
@@ -32,13 +24,13 @@ overall vision.
 
 ## Team Members
 
-<%= direct_team(manager_slug: 'nicolo-maria-mezzopera') %>
+{{< team-by-manager-slug "nicolo-maria-mezzopera" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Deploy:Environments/, manager_slug: 'nicolo-maria-mezzopera') %>
+{{< stable-counterparts role="Deploy:Environments" manager="nicolo-maria-mezzopera" >}}
 
 ## Common Links
 
@@ -56,7 +48,7 @@ Some dedicated Slack channels:
 
 ## Insights
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "environments" } %>
+{{% cross-functional-dashboards filters="environments" %}}
 
 ## Processes
 
@@ -219,7 +211,7 @@ In every milestone plan, we compile a list of bugs due in the coming milestone b
 In addition to the self-scheduling of feature development, the manager will from time to time assign bugs, or other work deemed important, directly to a team member.
 
 On top of the official issue-triaging process, when severity labels are assigned/changed, we aim to set the issue due date at the same time. If there are bugs with a severity label and without a deadline,
-everyone is encouraged to set the deadline based on the date of the last severity label update and [the SLA for the given severity](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity-slos).
+everyone is encouraged to set the deadline based on the date of the last severity label update and [the SLA for the given severity](/handbook/engineering/quality/issue-triage/#severity-slos).
 
 #### Say-do ratio
 
@@ -304,12 +296,12 @@ Within the Environments group we use the following processes and best practices 
 
 1. We ensure each MR is accompanied with meaningful unit tests and integration tests.
 1. For each major feature we develop and maintain End to End tests that run nightly and confirm no regressions have been introduced to critical paths.
-1. On a weekly basis, we review our [Triage report](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#triage-reports) for bugs and regressions and take the appropriate action.
+1. On a weekly basis, we review our [Triage report](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#triage-reports) for bugs and regressions and take the appropriate action.
 1. We review the [quality dashboard](https://app.periscopedata.com/app/gitlab/736012/Quality-Embedded-Dashboard) each milestone to track our long term progress at improving quality.
 
 #### End to End Testing
 
-The Environments group uses [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa) for End-to-End testing. We have [guidelines](https://about.gitlab.com/handbook/engineering/development/ops/deploy/environments/quality) for how our team is leveraging these tests.
+The Environments group uses [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa) for End-to-End testing. We have [guidelines](/handbook/engineering/development/ops/deploy/environments/quality) for how our team is leveraging these tests.
 
 #### gitlab-agent QA bot
 
@@ -331,7 +323,7 @@ An engineer might be assigned as a DRI to look into this.
 
 The DRI is neither expected to determine a root cause nor propose a solution on their own.
 
-The DRI should instead reach out to [the Scalability:Projections team](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/projections.html) for support.
+The DRI should instead reach out to [the Scalability:Projections team](/handbook/engineering/infrastructure/team/scalability/projections.html) for support.
 
 ## Async Issue Updates
 
@@ -358,7 +350,7 @@ To simplify the work of adding and keeping track of async updates [TalTal](https
 
 We want every team member to be advancing in their Career Development.
 
-We follow the Engineering Department [Career Development Framework](https://about.gitlab.com/handbook/engineering/career-development/).
+We follow the Engineering Department [Career Development Framework](/handbook/engineering/career-development/).
 
 ## Maximize asynchronous performance in this team
 
@@ -371,7 +363,7 @@ you would like to collect input from various team members, domain experts and st
 Typically, posting a comment with pinging them is enough, however, if the topic is complicated, ambiguous or too broad,
 you wouldn't get useful and relevant feedback. This frustrates both you and participants, which should be avoided.
 
-To maximize our asynchronous performance, we should follow [GitLab Communication](https://about.gitlab.com/handbook/communication/) guideline,
+To maximize our asynchronous performance, we should follow [GitLab Communication](/handbook/communication/) guideline,
 More specifically, the following points are important:
 
 - Have an SSOT discussion page (Issue or MR). This is the main collaboration point that everyone can get the latest information quickly.
@@ -395,7 +387,7 @@ More specifically, the following points are important:
 
 ### Monthly Showcases DRI
 
-We participate in the [OPS showcase initiative](https://about.gitlab.com/handbook/engineering/development/ops/#ops-engineering-showcase), to facilitate the selection of topics, the creation of the issues and content we have a Showcase DRI which will:
+We participate in the [OPS showcase initiative](/handbook/engineering/development/ops/#ops-engineering-showcase), to facilitate the selection of topics, the creation of the issues and content we have a Showcase DRI which will:
 
 - Ensure every month at least a showcase issue is created and linked in the right issues/epic
 - Facilitate the selection of the topic of each showcase, paying attention to give space to everyone in the team

@@ -55,7 +55,7 @@ See also [How we use labels](/handbook/product/ux/ux-department-workflow/#how-we
 
 #### Engagement with Single Engineer Groups (SEGs)
 
-The [Incubation Engineering Department](https://about.gitlab.com/handbook/engineering/development/incubation/) utilizes a Single Engineer Group (SEG) to work on "new market" efforts with a directive to move fast, ship, get feedback, and iterate. Occasionally, SEG efforts touch high-usage areas of our product (such as the Issue and MR views), and these engineers will request temporary design support (through the Product Design Manager) to drive the experience direction.
+The [Incubation Engineering Department](/handbook/engineering/development/incubation/) utilizes a Single Engineer Group (SEG) to work on "new market" efforts with a directive to move fast, ship, get feedback, and iterate. Occasionally, SEG efforts touch high-usage areas of our product (such as the Issue and MR views), and these engineers will request temporary design support (through the Product Design Manager) to drive the experience direction.
 
 Product Designers and their managers should feel comfortable performing in-depth design critiques in issues and as part of MR reviews like they do for their Product Design peers. The goal is for UX to closely collaborate with Incubation Engineering to ensure a great experience for our users.
 
@@ -77,7 +77,7 @@ In some cases, the SEG focuses on new areas of the product that doesn't have a d
 
 Issue weights are optional, but weighting issues can be useful for planning. They enable Product Designers to understand their capacity, evaluate impact of time off, facilitate trade-off conversations with Product Managers, and help the Product Design Manager identify teams that need more UX support.
 
-When weighting issues, we aim for [velocity over predictibility](https://about.gitlab.com/handbook/engineering/development/principles/#velocity-over-predictability). This means that we don't need to be accurate at first, we just need to get better. This paragraph has a [useful explanation of estimation](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/#estimation) at GitLab.
+When weighting issues, we aim for [velocity over predictibility](/handbook/engineering/development/principles/#velocity-over-predictability). This means that we don't need to be accurate at first, we just need to get better. This paragraph has a [useful explanation of estimation](/handbook/engineering/development/analytics/analytics-instrumentation/#estimation) at GitLab.
 
 #### How to Use UX Issue Weighting
 
@@ -122,7 +122,7 @@ This section provides an overview of how we work with issues. But it's very impo
 
 ### Triaging UX issues
 
-Every Product Designer at GitLab is empowered to triage issues with "~UX", ["~UX debt"](https://about.gitlab.com/handbook/engineering/workflow/#ux-debt) and ["~UI polish"](https://about.gitlab.com/handbook/engineering/workflow/#ui-polish) labels, or should be included for feedback by the responsible PM and EM instead. Use [Priority labels](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/index.html#priority) to propose the time in which the issue should be solved and [Severity labels](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/index.html#severity) to communicate its impact on users. Always work to align and communicate with your PM and EMs on the labels assigned.
+Every Product Designer at GitLab is empowered to triage issues with "~UX", ["~UX debt"](/handbook/engineering/workflow/#ux-debt) and ["~UI polish"](/handbook/engineering/workflow/#ui-polish) labels, or should be included for feedback by the responsible PM and EM instead. Use [Priority labels](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/index.html#priority) to propose the time in which the issue should be solved and [Severity labels](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/index.html#severity) to communicate its impact on users. Always work to align and communicate with your PM and EMs on the labels assigned.
 
 ### Scheduling issues in a milestone
 
@@ -360,7 +360,7 @@ For iteration inspiration watch our Product Designers discuss [iteration at GitL
 | Detailed redlines or specs | √ |  |
 
 - If the solution needs to be broken out into smaller issues for implementation, apply the `workflow::planning breakdown` label and stay involved by walking PM and Engineering through the proposed solution and participating in the conversation to break down the issue.
-- If the solution needs to be scheduled by PM and/or EM, apply the `workflow::scheduling` label and mention the [responsible product manager](/handbook/product/categories/#devops-stages) to [schedule it](https://about.gitlab.com/handbook/engineering/workflow/#scheduling-issues). It is also the Product Designer's responsibility to communicate with the assigned engineer to ensure they understand the solution.
+- If the solution needs to be scheduled by PM and/or EM, apply the `workflow::scheduling` label and mention the [responsible product manager](/handbook/product/categories/#devops-stages) to [schedule it](/handbook/engineering/workflow/#scheduling-issues). It is also the Product Designer's responsibility to communicate with the assigned engineer to ensure they understand the solution.
 - If the issue is meant for implementation in the current milestone, review the solution with the assigned engineer(s) and/or engineering manager. If they are comfortable with the solution, you can apply the `workflow::ready for development` label.
 - There are times that a Product Manager might request that an issue is moved to the Build phase before the Product Designer feels that the experience meets UX Department standards. In that case, the Product Designer should create follow-on issues and/or apply the `UX debt` label to indicate that the product doesn’t meet UX requirements and will require immediate iteration.
 

@@ -1,14 +1,7 @@
 ---
-
 title: "Create:Code Review Group"
 description: The Create:Code Review Group is responsible for all product categories that fall under the Code Review group of the Create stage.
 ---
-
-
-
-
-
-
 
 The Create:Code Review Group is responsible for all aspects of the product categories that fall under the [Code Review group][group] of the [Create stage][stage] of the [DevOps lifecycle][lifecycle].
 
@@ -22,7 +15,7 @@ The Create:Code Review Group is responsible for all aspects of the product categ
 
 The following people are permanent members of the Create:Code Review Group:
 
-<%= product_group_table(group: 'Create:Code Review') %>
+{{<team-by-departments "Create:Code Review" >}}
 
 ### Sub-department specific pages
 
@@ -33,8 +26,8 @@ The following people are permanent members of the Create:Code Review Group:
 
 The Code Review group is responsible for the following product categories:
 
-- [Code Review](/direction/create/code_review_workflow/)
-- [GitLab CLI](/direction/create/gitlab_cli/)
+- [Code Review](https://about.gitlab.com/direction/create/code_review_workflow/)
+- [GitLab CLI](https://about.gitlab.com/direction/create/gitlab_cli/)
 
 ### Category performance indicators
 
@@ -66,17 +59,17 @@ The metrics by which we measure the success of the Code Review category are alig
 
 Our _primary_ metric is: **reducing the duration of the Code Review**. This is measured as the duration from the first merge request version to merged.
 
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10409104, dashboard: 785600, embed: 'v2') %>">
+{{< sisense chart="10409104" dashboard="785600" >}}
 
 ### Secondary metrics
 
 _Secondary_ metrics of success act as support for the primary metric, helping build a more complete picture of how successful the category is.
 
-Once in a while, we conduct [UX scorecards](/handbook/product/ux/ux-scorecards/) to track the user experience through [various heuristics](/handbook/product/ux/heuristics/) — [see all UX scorecards for Code Review](https://gitlab.com/groups/gitlab-org/-/epics/5913). At the Create stage level, we conduct [usability benchmarking studies](/direction/create/#usability-benchmark).
+Once in a while, we conduct [UX scorecards](/handbook/product/ux/ux-scorecards/) to track the user experience through [various heuristics](/handbook/product/ux/heuristics/) — [see all UX scorecards for Code Review](https://gitlab.com/groups/gitlab-org/-/epics/5913). At the Create stage level, we conduct [usability benchmarking studies](https://about.gitlab.com/direction/create/#usability-benchmark).
 
 Right now we're focused on measuring and improving [**perceived performance**](https://developer.mozilla.org/en-US/docs/Glossary/Perceived_performance): “how fast, responsive, and reliable a website feels to its users. The perception of how well a site is performing can have more impact on the user experience that the actual load and response times.” Perceived performance is not only _technical_ performance (i.e. load and response times), but also _user_ performance (i.e. efficiency in completing tasks), and can be [formulated](https://youtu.be/7ubJzEi3HuA?t=405) as:
 
-```
+```text
 perceived performance = f(expected performance, UX, actual performance)
 experience = f(perceived performance, task completion)
 ```
@@ -89,21 +82,13 @@ experience = f(perceived performance, task completion)
 
 ### Development Metrics
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Code Review" } %>
+{{% cross-functional-dashboards filters="Code Review" %}}
 
 #### MRs and Issues Without Types
 
 In addition to the above dashboard, here are search links to ensure our MRs and Issues have the correct types:
 
-[Source](https://app.periscopedata.com/app/gitlab/786869/Code-Review-BE:Development-Metrics?widget=15814629&udv=1316736)
-
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="150" src="<%= signed_periscope_url(dashboard: 786869, chart: 15814629, embed: 'v2') %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{< sisense chart="15814629" dashboard="786869" >}}
 
 ### Exploration and experimentation
 
@@ -111,7 +96,7 @@ The Code Review group believes it's important that team members are empowered to
 
 #### Allocate time
 
-In order to better provide opportunities for team members to pursue interest areas, engineers are encouraged to reserve about 10% of their scheduled capacity. 
+In order to better provide opportunities for team members to pursue interest areas, engineers are encouraged to reserve about 10% of their scheduled capacity.
 
 #### Setting expectations
 
@@ -152,7 +137,7 @@ This meeting is focused on collaboration between UX and PM, though all are welco
 
 This meeting is for discussing new performance topics, project proposals, and ongoing performance work or concerns.
 
-The [catch-all issue](https://gitlab.com/gitlab-org/create-stage/-/issues/13110) includes the agenda, issue board, and goals. 
+The [catch-all issue](https://gitlab.com/gitlab-org/create-stage/-/issues/13110) includes the agenda, issue board, and goals.
 
 ## Working with product
 
@@ -176,17 +161,17 @@ For tips, tricks, or quick shell scripts that aren't "ready" or sufficient enoug
 
 ### Middle of milestone check-in
 
-<%= partial("handbook/engineering/development/dev/create/sourcecode-codereview/midmilestone.erb") %>
+{{% include "includes/engineering/midmilestone.md" %}}
 
 The data and calcuations are available in Sisense on the [Code Review Milestone Check-in dashboard](https://app.periscopedata.com/app/gitlab/919979/Code-Review-Milestone-Check-in).
 
 ### Workflow labels
 
-<%= partial("handbook/engineering/development/dev/create/workflow_labels.erb", locals: { group_label: 'group::code review' }) %>
+{{% engineering/workflow-labels "group::code review" %}}
 
 ### Async standup
 
-<%= partial("handbook/engineering/development/dev/create/async_standup.erb") %>
+{{% include "includes/engineering/create-async-standup.md" %}}
 
 Our team is encouraged to post links to their deliverable issues or merge requests when they are mentioned in relation to the second question. This helps other team members to understand what others are working on, and in the case that they come across something similar in the future, they have a good reference point.
 
@@ -195,19 +180,21 @@ Our team is encouraged to post links to their deliverable issues or merge reques
 We have 1 regularly scheduled "Per Milestone" retrospective, and can have ad-hoc "Per Feature" retrospectives more focused at analyzing a specific case, usually looking into the Iteration approach.
 
 #### Per Milestone
-<%= partial("handbook/engineering/development/dev/create/retrospectives.erb", locals: { group: "Code Review", group_slug: 'code-review' }) %>
+
+{{% engineering/create-retrospectives group-label="Code Review" group-slug="code-review" %}}
 
 #### Per Project
 
 If a particular issue, feature, or other sort of project turns into a particularly useful learning experience, we may hold a synchronous or asynchronous retrospective to learn from it. If you feel like something you're working on deserves a retrospective:
+
 1. [Create an issue](https://gitlab.com/gl-retrospectives/create-stage/code-review/issues) explaining why you want to have a retrospective and indicate whether this should be synchronous or asynchronous
-2. Include your EM and anyone else who should be involved (PM, counterparts, etc)
-3. Coordinate a synchronous meeting if applicable
+1. Include your EM and anyone else who should be involved (PM, counterparts, etc)
+1. Coordinate a synchronous meeting if applicable
 
 All feedback from the retrospective should ultimately end up in the issue for reference purposes.
 
 ## Merge Request Report Widgets shared responsibility
 
-Even though the topic of Merge Request falls under Code Review, the code powering the Merge Request Report Widgets (see [Working Group](/company/team/structure/working-groups/merge-request-report-widgets/)) is written and maintained by a larger group.
+Even though the topic of Merge Request falls under Code Review, the code powering the Merge Request Report Widgets (see [Working Group](/handbook/company/team/structure/working-groups/merge-request-report-widgets/)) is written and maintained by a larger group.
 
 Please refer to the [List of DRIs](/handbook/engineering/development/dev/create/code-review/report-widgets-dri-list.html) for communication and troubleshooting purposes relating to these Widgets.

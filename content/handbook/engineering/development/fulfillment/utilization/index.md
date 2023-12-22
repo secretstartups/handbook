@@ -1,14 +1,7 @@
 ---
-
 title: Fulfillment Utilization Team
 description: "The Utilization Team in the Fulfillment Sub-department at GitLab"
 ---
-
-
-
-
-
-
 
 ## Overview
 
@@ -16,23 +9,23 @@ The Utilization Team often works at the interface between GitLab Core and Fulfil
 
 ## Vision
 
-For more details about the product vision for Fulfillment, see our [Fulfillment](/direction/fulfillment/) page.
+For more details about the product vision for Fulfillment, see our [Fulfillment](https://about.gitlab.com/direction/fulfillment/) page.
 
 The Utilization group manages the [Utilization category](/handbook/product/categories/#utilization-group).
 
 ## Team members
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Fulfillment:Utilization', role_regexp: /[,&] Fulfillment/) %>
+{{< team-by-manager-role role="Fullstack Engineering Manager, Fulfillment:Utilization" team="[,&] Fulfillment" >}}
 
 ## Stable counterparts
 
-<%= stable_counterparts(role_regexp: /[,&] Fulfillment((?!:)|:Utilization)/, direct_manager_role: 'Fullstack Engineering Manager, Fulfillment:Utilization') %>
+{{< stable-counterparts role="Fulfillment:Utilization|Security(.*)Fulfillment|Director(.*)Fulfillment" manager-role="Fullstack Engineering Manager, Fulfillment:Utilization" >}}
 
 ## How we work
 
 ### Sync Time is Valuable
 
-We try to [work async](/company/culture/all-remote/asynchronous/) as much as possible. However, there are occasions where synchronous communication might be better suited for the task. Our Weekly Team Sync meeting is one of those occasions where we can celebrate wins, collaborate quickly over a number of issues, and generally have some face-time in an all-remote environment.
+We try to [work async](/handbook/company/culture/all-remote/asynchronous/) as much as possible. However, there are occasions where synchronous communication might be better suited for the task. Our Weekly Team Sync meeting is one of those occasions where we can celebrate wins, collaborate quickly over a number of issues, and generally have some face-time in an all-remote environment.
 
 Crucially, we use this high bandwidth communication to review issues that need some extra discussion and input from the team to ensure that issues can be estimated and work developed with minimal back and forth to establish the nature of the request.
 
@@ -64,7 +57,8 @@ Engineers are responsible for providing async issue updates on active, assigned 
 
 The Engineering Manager will report before the end of each week on milestone progress in the current milestone planning issue on the following topics:
 
-```
+```markdown
+
 **Total Weight Closed** XX
 
 **Total Weight Open** XX (XX in dev)
@@ -78,7 +72,7 @@ The Engineering Manager will report before the end of each week on milestone pro
 
 ##### OKRs
 
-The Engineering Manager will report on the progress of [OKRs](/company/okrs/) every two weeks as a comment in relevant work items found in the [Objectives and Key Results project](https://gitlab.com/gitlab-com/gitlab-OKRs).
+The Engineering Manager will report on the progress of [OKRs](/handbook/company/okrs/) every two weeks as a comment in relevant work items found in the [Objectives and Key Results project](https://gitlab.com/gitlab-com/gitlab-OKRs).
 
 Current OKRs: [Work Items Labeled with Utilization](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=group%3A%3Autilization&first_page_size=100)
 
@@ -117,13 +111,13 @@ We have [cross-functional prioritization](/handbook/product/cross-functional-pri
 - The Product Manager will prioritize `type::feature` issues
 - The Engineering Manager will prioritize `type::maintenance` issues
 - The Software Engineer in Test will prioritize `type::bug` issues
-- The Product Designer will prioritize `sus::impacting` issues ([System Usability Scale (SUS)](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#sus-impacting))
+- The Product Designer will prioritize `sus::impacting` issues ([System Usability Scale (SUS)](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#sus-impacting))
 
 #### Mechanics
 
 - The team uses the [#g_utilization_planning](https://gitlab.slack.com/archives/C04108X3FDG) Slack channel to discuss cross-functional prioritization.
 - The team reviews [this dashboard](#merged-merge-request-types) which shows the distribution of MRs that are bugs, maintenance, and features to ensure the team's efforts are properly aligned to our target prioritization ratio (60% features / 30% maintenance / 10% bugs).
-- The team uses [this prioritization board](https://gitlab.com/gitlab-org/gitlab/-/boards/4416231?label_name%5B%5D=group%3A%3Autilization) to order our top features, bugs, maintenance, and [System Usability Scale (SUS)](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#sus-impacting) impacting issues.
+- The team uses [this prioritization board](https://gitlab.com/gitlab-org/gitlab/-/boards/4416231?label_name%5B%5D=group%3A%3Autilization) to order our top features, bugs, maintenance, and [System Usability Scale (SUS)](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#sus-impacting) impacting issues.
 - For a quick view and controls on bugs by priority, [this board](https://gitlab.com/groups/gitlab-org/-/boards/2874336?label_name[]=group%3A%3Autilization&label_name[]=type%3A%3Abug) can be used. More detailed information on bugs, including backlog and open rate, both of which are factors in determining their desired bug percentage for the upcoming milestone, is shown in this [dashboard](https://app.periscopedata.com/app/gitlab/1037965/Bug-Prioritization) (select Utilization from filters).
 - The team collaborates on a prioritization issue that documents and discusses our current prioritization scheme.
 
@@ -158,7 +152,7 @@ Anyone on the team can contribute to answering the questions in this checklist, 
 
 ##### Updated Refinement/Estimation Template
 
-```
+```markdown
 ### Refinement / Weighting
 
 <!--
@@ -463,38 +457,38 @@ we have used for our retrospectives and working groups.
 
 1. The team creates a review issue
    1. We can use the [Utilization team project](https://gitlab.com/fulfillment-group/utilization-group/team-project), the following [issue template](https://gitlab.com/fulfillment-group/utilization-group/team-project/-/blob/main/.gitlab/issue_templates/architecture_review.md), and [Epic](https://gitlab.com/groups/fulfillment-group/utilization-group/-/epics/2)
-   2. Find a Reviewer (Issue author and DRI)
+   1. Find a Reviewer (Issue author and DRI)
       1. Optionally, find a person to chair the review. They would facilitate
       the process (review meeting scheduling; note taking; managing the clock and discussion).
       For smaller reviews, the reviewer also acts as the chair.
-   3. Summarize the [concern, feature, proposal, etc]. Limit this to 1 paragraph, but address the problem in its entirety.
+   1. Summarize the [concern, feature, proposal, etc]. Limit this to 1 paragraph, but address the problem in its entirety.
    The topic should be agreed upon between the team and the reviewer.
-2. The team asynchronously contributes to the issue to provide additional detail that documents the [concern, feature, proposal, etc] identified in the issue description.
+1. The team asynchronously contributes to the issue to provide additional detail that documents the [concern, feature, proposal, etc] identified in the issue description.
    1. Summarize the problem space. Definitions, terms, what is the key motivation for addressing this topic.
-   2. List those directly affected by the current problem or future revision. Bring in a stable counterpart (e.g. Support, Sales, cross-stage DRI) to further understand the impact.
-   3. Set exit criteria - what we will achieve on completion. Produce a brief that describes when this issue can be closed (e.g. improved documentation, sharing session, epic for refactoring, new issues, a proposal, an architecture blueprint)
+   1. List those directly affected by the current problem or future revision. Bring in a stable counterpart (e.g. Support, Sales, cross-stage DRI) to further understand the impact.
+   1. Set exit criteria - what we will achieve on completion. Produce a brief that describes when this issue can be closed (e.g. improved documentation, sharing session, epic for refactoring, new issues, a proposal, an architecture blueprint)
       1. Include:
          1. Any architecture being proposed
-         2. Non-functional requirements (e.g. accessibility, security, performance, etc)
-         3. Relevant business goals
-      2. Consider alternatives, costs, and opportunities
-      3. Be sure to address any concerns from affected groups or cross-stage collaborators
-3. The Reviewer creates a list of questions making them available to the team prior to the review meeting. The questions could be derived from information gathered in the previous step
-4. The Reviewer (or Chair) convenes a review meeting. The discussion should be recorded and made as widely available as possible while keeping sensitive information SAFE
+         1. Non-functional requirements (e.g. accessibility, security, performance, etc)
+         1. Relevant business goals
+      1. Consider alternatives, costs, and opportunities
+      1. Be sure to address any concerns from affected groups or cross-stage collaborators
+1. The Reviewer creates a list of questions making them available to the team prior to the review meeting. The questions could be derived from information gathered in the previous step
+1. The Reviewer (or Chair) convenes a review meeting. The discussion should be recorded and made as widely available as possible while keeping sensitive information SAFE
    1. Invite the team and any outside collaborator
-   2. Invite the EM and SEM/Director
-   3. PM, Designer, or other internal collaborators can be added optionally depending on the topic
-   4. Suggested agenda
+   1. Invite the EM and SEM/Director
+   1. PM, Designer, or other internal collaborators can be added optionally depending on the topic
+   1. Suggested agenda
       1. Overview
-      2. Discussion of questions from step 3 above
-      3. Is the proposal relevant in a wider context (team goals, sub-department goals, department goals)
-      4. Action items, if any
-   5. The Reviewer is responsible for outlining the action items and ultimately deciding the outcome of the review
-   6. Additional review steps can be completed asynchronously to complete the exit criteria
-   7. It is possible to alter the questions or direction given discussion. This could include a subsequent review or invalidating the current review.
-5. The artifacts of the review (recording, issues, etc) are published and made available to others in the `/doc` directory of the [CustomersDot project](https://gitlab.com/gitlab-org/customers-gitlab-com)
-6. Consider updating this timeline with any new learnings or propose adjustments to the [issue template](https://gitlab.com/fulfillment-group/utilization-group/team-project/-/blob/main/.gitlab/issue_templates/architecture_review.md) if applicable.
-7. The review issue is closed
+      1. Discussion of questions from step 3 above
+      1. Is the proposal relevant in a wider context (team goals, sub-department goals, department goals)
+      1. Action items, if any
+   1. The Reviewer is responsible for outlining the action items and ultimately deciding the outcome of the review
+   1. Additional review steps can be completed asynchronously to complete the exit criteria
+   1. It is possible to alter the questions or direction given discussion. This could include a subsequent review or invalidating the current review.
+1. The artifacts of the review (recording, issues, etc) are published and made available to others in the `/doc` directory of the [CustomersDot project](https://gitlab.com/gitlab-org/customers-gitlab-com)
+1. Consider updating this timeline with any new learnings or propose adjustments to the [issue template](https://gitlab.com/fulfillment-group/utilization-group/team-project/-/blob/main/.gitlab/issue_templates/architecture_review.md) if applicable.
+1. The review issue is closed
 
 ### Investment Time
 
@@ -515,5 +509,6 @@ a typical DRI.
 
 ## Performance Indicators
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Utilization" } %>
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Utilization" } %>
+{{% cross-functional-dashboards filters="Utilization" %}}
+
+{{% engineering/child-dashboards filters="Utilization" %}}

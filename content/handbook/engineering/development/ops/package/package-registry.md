@@ -1,18 +1,11 @@
 ---
-
 title: Package:Package Registry Group
 ---
-
-
-
-
-
-
 
 ## 📦 The Team
 
 The Package Registry is part of the GitLab [Package
-stage](/handbook/engineering/development/ops/package/), which integrates with [GitLab's CI/CD product](/direction/ops/).
+stage](/handbook/engineering/development/ops/package/), which integrates with [GitLab's CI/CD product](https://about.gitlab.com/direction/ops/).
 
 ## Who We Are
 
@@ -20,13 +13,13 @@ stage](/handbook/engineering/development/ops/package/), which integrates with [G
 
 The following people are permanent members of the Package Registry Group:
 
-<%= direct_team(role_regexp: /Package Registry/, manager_slug: 'crystalpoole') %>
+{{< team-by-manager-slug manager="crystalpoole" team="Package Registry" >}}
 
 ### Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Package/, manager_slug: 'crystalpoole') %>
+{{< stable-counterparts manager="crystalpoole" role="[,&] Package" >}}
 
 ## How We Work
 
@@ -53,7 +46,7 @@ The DRI for a given project can be identified by looking at the corresponding ep
 ```md
 ## Owners
 
-* Team: [Package Registry](https://about.gitlab.com/handbook/engineering/development/ops/package/package-registry/)
+* Team: [Package Registry](/handbook/engineering/development/ops/package/package-registry/)
 * Most appropriate slack channel to reach out to: `#g_package-registry`
 * Best individual to reach out to: <!-- GitLab handle of the DRI, or "TBD" if none has been assigned yet -->
 * PM: @trizzi
@@ -94,7 +87,7 @@ By implementing the change before the major milestone we have less MRs to produc
 
 We use quarterly Objectives and Key Results as a tool to help us plan and measure how to achieve Key Performance Indicators (KPIs).
 
-Here is the [standard, company-wide process for OKRs](https://about.gitlab.com/company/okrs/)
+Here is the [standard, company-wide process for OKRs](/handbook/company/okrs/)
 
 <iframe src="https://app.ally.io/public/EkMQUhunXy9Ifeo" class="dashboard-embed" height="600" width="100%" style="border:none;"> </iframe>
 
@@ -102,11 +95,11 @@ Here is the [standard, company-wide process for OKRs](https://about.gitlab.com/c
 
 We measure the value we contribute by using [performance indicator metrics](/handbook/product/performance-indicators/). The primary metric used for the Package Registry group is the number of monthly active users or GMAU.
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Package Registry" } %>
+{{% cross-functional-dashboards filters="Package Registry" %}}
 
 ### What Are We Working On
 
-Here is a list of active projects and initiatives that we are currently working on, along with the corresponding [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/):
+Here is a list of active projects and initiatives that we are currently working on, along with the corresponding [DRI](/handbook/people-group/directly-responsible-individuals/):
 
 | Project                                                                                                                                        | DRI                                                                                       |
 |------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|

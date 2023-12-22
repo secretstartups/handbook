@@ -20,12 +20,12 @@ Our team should be seeking to build their services on top of Reliability::Founda
 
 ### Values when looking at tools and services we run
 
-1.  [Dogfood](https://about.gitlab.com/handbook/engineering/development/principles/#dogfooding) where it makes sense.
+1.  [Dogfood](/handbook/engineering/development/principles/#dogfooding) where it makes sense.
 1. If we don't dogfood, we value following [CNCF](https://www.cncf.io/) or other open source projects since these are likely to be tools that will align with our vision
 1. For evaluating tools we use, we have a set of evaluation criteria:
   1. What is the vision of the tool or feature?  Is it being actively developed or in maintenance only mode?
   1. What is the maturity of the tool or feature.
-    - [Service Maturity](https://about.gitlab.com/handbook/engineering/infrastructure/service-maturity-model/)
+    - [Service Maturity](/handbook/engineering/infrastructure/service-maturity-model/)
     - [Category Maturity](https://about.gitlab.com/direction/maturity/)
 1. How can the tool increase our [bus factor](https://en.wikipedia.org/wiki/Bus_factor) - we don't want just one DRI for a tool.
 1. Cost matters - don't just consider license/compute costs. Consider the administrative costs too.
@@ -62,13 +62,13 @@ The team does not explicitly own observability for [GitLab Dedicated](/handbook/
 | Thanos            | `service::Thanos`        | Long-term storage for metrics data. | [Thanos](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/monitoring#scaling-prometheus-thanos) |
 | Pingdom           |                          | Pingdom is used for up/down monitoring of externally-facing endpoints | |
 | Dead Man's Snitch |                          | Dead Man's Snitch provides synthetic monitoring and inactivity alerts. | |
-| Status.io         |                          | [Status.io](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html#about-statusio) - overlap with Support | |
+| Status.io         |                          | [Status.io](/handbook/support/workflows/cmoc_workflows.html#about-statusio) - overlap with Support | |
 
 ## Overlap
 
 1. With Scalability on
-   1. [Projections team](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/projections.html) for use of Thanos
-   1. [Frameworks team](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/frameworks.html) in the [Service Catalog](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/2098)
+   1. [Projections team](/handbook/engineering/infrastructure/team/scalability/projections.html) for use of Thanos
+   1. [Frameworks team](/handbook/engineering/infrastructure/team/scalability/frameworks.html) in the [Service Catalog](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/2098)
 1. With the Reliability:Foundations team to use the underlying platforms (GKE) they provide
 1. With [Observability Group](/handbook/product/categories/#observability-group) for dogfooding overlaps and feedback for Infra team needs
 1. With data team on Sisense dashboards.
@@ -78,15 +78,15 @@ The team does not explicitly own observability for [GitLab Dedicated](/handbook/
 
 ### Working with Us
 
-For general communication and questions, the team can be found in the [#g_infra_observability](https://gitlab.slack.com/archives/C0496692EHY) channel in slack. Requests for support should be submitted as a GitLab issue in the [Reliability issue tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues) labeled with [`team::Observability`](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#team-labels), [`workflow-infra::Triage`](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#workflow-labels), and a [service label](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#service-labels) (if known).
+For general communication and questions, the team can be found in the [#g_infra_observability](https://gitlab.slack.com/archives/C0496692EHY) channel in slack. Requests for support should be submitted as a GitLab issue in the [Reliability issue tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues) labeled with [`team::Observability`](/handbook/engineering/infrastructure/team/reliability/issues.html#team-labels), [`workflow-infra::Triage`](/handbook/engineering/infrastructure/team/reliability/issues.html#workflow-labels), and a [service label](/handbook/engineering/infrastructure/team/reliability/issues.html#service-labels) (if known).
 
 ### Workflow
 
 1. We organize work into monthly milestones, with names following the convention `o11y-YYYY-MM`
-1. We follow the [general workflow](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#how-we-work) for Reliability, with minor adjustments to the [workflow labels](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#workflow-labels) under the standard [issue triage process](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html).
+1. We follow the [general workflow](/handbook/engineering/infrastructure/team/reliability/#how-we-work) for Reliability, with minor adjustments to the [workflow labels](/handbook/engineering/infrastructure/team/reliability/issues.html#workflow-labels) under the standard [issue triage process](/handbook/engineering/infrastructure/team/reliability/issues.html).
     1. We utilize an additional `workflow-infra::backlog` label for issues that have been triaged, but not yet scheduled and marked as `workflow-infra::Ready`.
     1. We move issues to `workflow-infra::Ready` when they are scheduled into a milestone.
-    1. Specific `service::` labels in-use by our team are noted above, under [Services We Own](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/observability.html#services-we-own)
+    1. Specific `service::` labels in-use by our team are noted above, under [Services We Own](/handbook/engineering/infrastructure/team/reliability/observability.html#services-we-own)
 
 ## Performance Indicators
 

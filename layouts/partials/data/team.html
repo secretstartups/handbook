@@ -2,13 +2,4 @@
   Partial to get the team as a slice from the teams yaml file.  This is the root of all calls to
   the teams yaml file and should only be called via partials.IncludeCached
  */}}
-{{- $team := slice  }}
-{{- with resources.GetRemote "https://about.gitlab.com/company/team/team.yml" (dict "mediaType" "application/yaml")}}
-  {{- with .Err}}
-    <h2>Unable to fetch Team Member Data File</h2>
-  {{- else }}
-      {{- $data := .Content | transform.Unmarshal }}
-      {{- $team = sort $data "name" }}
-  {{- end }}
-{{- end }}
-{{ return $team }}
+{{ return site.Data.public.team }}

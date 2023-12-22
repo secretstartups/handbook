@@ -1,17 +1,10 @@
 ---
-
 title: Package Stage
 ---
 
-
-
-
-
-
-
 ## 🎯 Mission and Vision
 
-The Package stage integrates with [GitLab's CI/CD product](/direction/ops/).
+The Package stage integrates with [GitLab's CI/CD product](https://about.gitlab.com/direction/ops/).
 
 Our mission is to create a secure environment where both source code and dependencies can live by
 allowing you to publish, consume, and discover packages of a large variety of languages and platforms
@@ -23,22 +16,23 @@ For more details about the vision for this product area, see the [product vision
 
 The Package stage is made up of two groups:
 
-1. [Package:Container Registry](https://about.gitlab.com/handbook/engineering/development/ops/package/container-registry/)
-1. [Package:Package Registry](https://about.gitlab.com/handbook/engineering/development/ops/package/package-registry/)
+1. [Package:Container Registry](/handbook/engineering/development/ops/package/container-registry/)
+1. [Package:Package Registry](/handbook/engineering/development/ops/package/package-registry/)
 
 ### Package:Container Registry
 
-<%= direct_team(role_regexp: /Container Registry/, manager_slug: 'crystalpoole') %>
+{{< team-by-manager-slug manager="crystalpoole" team="Container Registry" >}}
 
 ### Package:Package Registry
 
-<%= direct_team(role_regexp: /Package Registry/, manager_slug: 'crystalpoole') %>
+{{< team-by-manager-slug manager="crystalpoole" team="Package Registry" >}}
+
 
 ## 📈 Measuring results
 
-In order to better align our effort with our customer's needs we will use the following methodology to measure our results. We believe that our best measure of success and progress is our [product category maturity plan](/direction/maturity/#package). Progress towards these goals will be measured as follows:
+In order to better align our effort with our customer's needs we will use the following methodology to measure our results. We believe that our best measure of success and progress is our [product category maturity plan](https://about.gitlab.com/direction/maturity/#package). Progress towards these goals will be measured as follows:
 
-1. The long term product category maturity goals will be split into each stage: [minimal, viable, complete and, loveable](/direction/maturity/)
+1. The long term product category maturity goals will be split into each stage: [minimal, viable, complete and, loveable](https://about.gitlab.com/direction/maturity/)
 1. For each category's next maturity stage, we'll break down each feature into small iterations and give them [issue weights](/handbook/engineering/development/ops/package/#issue-weighting)
 1. These weighted issues will have the `Package:P1` label applied then be scheduled in upcoming milestones
 1. We'll measure our delivery by the percentage of committed product issues that were completed within a given development phase. Our goal is 100% completion. We track this measurement with a [Say Do Ratio](/handbook/engineering/development/performance-indicators/#say-do-ratios).
@@ -58,7 +52,7 @@ The below epics detail the work required to move each respective category to the
 
 We use quarterly Objectives and Key Results as a tool to help us plan and measure how to achieve Key Performance Indicators (KPIs).
 
-Here is the [standard, company-wide process for OKRs](https://about.gitlab.com/company/okrs/)
+Here is the [standard, company-wide process for OKRs](/handbook/company/okrs/)
 
 <iframe src="https://app.ally.io/public/e4b5sDXtc8Ru0zm" class="dashboard-embed" height="800" width="100%" style="border:none;"> </iframe>
 
@@ -169,7 +163,7 @@ the [group retrospectives handbook page](../../../management/group-retrospective
 Often times during a retrospective (monthly or weekly), there are suggestions on how to improve a given process. However, there are times
 where suggestions are lost and no action is taken. Consider the following possible action items that can be created so that the issues are eventually addressed:
 
-- [Everything starts with a Merge Request](https://about.gitlab.com/handbook/communication/#start-with-a-merge-request)! No matter if it is a small or big change, in the MR, you will have the opportunity to discuss the things you are suggesting with the rest of the team. Add the label `~Retrospective follow-up` and relate the MR to the retrospective issue.
+- [Everything starts with a Merge Request](/handbook/communication/#start-with-a-merge-request)! No matter if it is a small or big change, in the MR, you will have the opportunity to discuss the things you are suggesting with the rest of the team. Add the label `~Retrospective follow-up` and relate the MR to the retrospective issue.
 - For any other follow-up that cannot be resolved through an MR, open an issue in the [Package retrospective issue tracker](https://gitlab.com/gl-retrospectives/package/-/issues) and apply the `~follow-up` label. Assign a due-date to the next month. Link the issue back to the retrospective that prompted the action.
 - Consider bringing some of the [follow-up issues](https://gitlab.com/gl-retrospectives/package/-/issues/?label_name%5B%5D=follow-up) into the weekly retrospective for discussion.
 - Follow the same process for issues raised during the weekly retrospective.
@@ -358,7 +352,7 @@ When starting work on an MR that involves unfamiliar tools/libraries, be sure to
 
 When working on an MR for a Deliverable, don't lose track of the aim: release the Deliverable in time. That doesn't mean that refactorings can't happen or that we can't take time to investigate side subjects. It means that we need to limit the time allocated for this type of work.
 
-When considering a refactoring or a heavy refactoring, consider working [iteratively](https://about.gitlab.com/handbook/values/#iteration). A refactoring can be implemented and refined many times but consider releasing a good enough first version so that depending work is not delayed or blocked. For an example of how we can work iteratively, please see [how we worked through lifting the npm naming conventioon](https://gitlab.com/gitlab-org/gitlab/-/issues/33685#note_512942088).
+When considering a refactoring or a heavy refactoring, consider working [iteratively](/handbook/values/#iteration). A refactoring can be implemented and refined many times but consider releasing a good enough first version so that depending work is not delayed or blocked. For an example of how we can work iteratively, please see [how we worked through lifting the npm naming conventioon](https://gitlab.com/gitlab-org/gitlab/-/issues/33685#note_512942088).
 
 ### Bug Triaging
 
@@ -395,7 +389,7 @@ Package's features regularly deal with file uploads. When testing these features
 
 #### End to End Testing
 
-The Package team uses [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa) for End-to-End testing. We have [guidelines](https://about.gitlab.com/handbook/engineering/development/ops/package/quality) for how our team is leveraging these tests.
+The Package team uses [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa) for End-to-End testing. We have [guidelines](/handbook/engineering/development/ops/package/quality) for how our team is leveraging these tests.
 
 #### HackyStack
 
@@ -404,7 +398,7 @@ The Package team uses [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa) for E
 The [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox) is GitLab's deployment of HackyStack that is used by GitLab team members. See the handbook page for more details.
 
 The Package team uses this platform to set up its epehemeral demo sandbox environment that launches an Omnibus instance with an active Container Registry and a project that can trigger multiple images/tags leveraging our CI capabilities.
-Instructions on how to use it can be found [here](https://about.gitlab.com/handbook/engineering/development/ops/package/quality).
+Instructions on how to use it can be found [here](/handbook/engineering/development/ops/package/quality).
 
 #### Seeding Utilities
 
@@ -429,13 +423,13 @@ When a merge request needs to be reviewed for the experience or for the copy in 
 
 The Package team has a goal of shipping enterprise grade software with a focus on Quality. The team accomplishes this goal with the following practices:
 
-* Following GitLab's [Culture of Quality](https://about.gitlab.com/handbook/engineering/quality/#culture-of-quality_) with a focus on being champions for better software design.
+* Following GitLab's [Culture of Quality](/handbook/engineering/quality/#culture-of-quality_) with a focus on being champions for better software design.
 
-* Partnering with our [Software Engineer in Test](https://handbook.gitlab.com/job-families/engineering/software-engineer-in-test/) stable counterparts.
+* Partnering with our [Software Engineer in Test](/job-families/engineering/software-engineer-in-test/) stable counterparts.
 
 * Frequently [reviewing the code coverage](https://gitlab.com/gitlab-org/gitlab/-/issues/284185) across our functional areas (GoLang, Ruby, Frontend) and addressing low scoring areas as needed.
 
-* Actively reviewing [Triage reports](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#triage-reports) and working with our Product Manager to prioritize bugs or regressions.
+* Actively reviewing [Triage reports](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#triage-reports) and working with our Product Manager to prioritize bugs or regressions.
 
 ### Community Contributions
 
@@ -463,7 +457,7 @@ A merge request with the following properties:
 A Package group member will adopt the community contribution with the following tasks:
 
 * Confirm the community merge request (MR) is properly [triaged](/handbook/engineering/infrastructure/engineering-productivity/merge-request-triage/). This step includes important labeling for [work type classification](/handbook/engineering/metrics/#work-type-classification), stage and group and the `Community Contribution` label.
-* If the MR addresses an open issue, ensure that the issue is still valid and the description is up to date. Consider [closing the issue](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#lean-toward-closing) and [closing the MR](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#merge-request-ownership) if it is outdated.
+* If the MR addresses an open issue, ensure that the issue is still valid and the description is up to date. Consider [closing the issue](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#lean-toward-closing) and [closing the MR](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#merge-request-ownership) if it is outdated.
 * Evaluate the review effort and assign it using `package-review-weight::x` labels.
 * Consider reaching out to MR coaches or using the reviewer roulette to leverage support and provide contributors with a smoother and quicker experience.
 * Assign themselves to the issue. This helps to identify a DRI for that issue in the milestone planning.
@@ -490,7 +484,7 @@ Other points to consider for the Package group member:
 * Contributing to features managed by the Package group can mean having to use the Enterprise Edition (EE) version of GitLab. This [guideline](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#contributing-to-the-gitlab-enterprise-edition-ee) will help with this aspect.
 * Make sure that the merge request size and complexity stay at a reasonable level to ensure a [smooth review process](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria).
 * If the merge request grows to an unexpected size or tries to solve too many issues at once, consider suggesting to the community contributor to split it into smaller ones and use a [feature flag](https://docs.gitlab.com/ee/development/feature_flags/) if necessary.
-* If a merge request gets stalled for a long time, consider suggesting that you will finish the merge request. Check the proper section in [Merge Request Coach responsibilities](https://handbook.gitlab.com/job-families/expert/merge-request-coach/#finishing-merge-requests).
+* If a merge request gets stalled for a long time, consider suggesting that you will finish the merge request. Check the proper section in [Merge Request Coach responsibilities](/job-families/expert/merge-request-coach/#finishing-merge-requests).
   * Do not forget to credit the community contributor.
 * If some aspects of the merge request become a high priority task (for example, a bug fix) and the work from the community contributor is less active or stalled, consider suggesting that you will extract this part to a small merge request to get it implemented as quickly as possible.
   * The other aspects with less priority can still be worked out by the community contributor.
@@ -528,12 +522,12 @@ committing to delivering it in a specific time frame.
 
 ### Returning from PTO
 
-It can be overwhelming to come back to work after taking time off. Remember to review the [returning from PTO](https://about.gitlab.com/handbook/paid-time-off/#returning-from-pto)
+It can be overwhelming to come back to work after taking time off. Remember to review the [returning from PTO](/handbook/paid-time-off/#returning-from-pto)
 section of our time-off policy, especially the key points:
 
 - It is OK to take your time to catch up. You can consider blocking your calendar to do so.
 - Taking time off doesn't mean that you need to work extra hours before or after your vacation.
-- It is [impossible to know everything](https://about.gitlab.com/handbook/values/#its-impossible-to-know-everything) (AKA some things can be ignored).
+- It is [impossible to know everything](/handbook/values/#its-impossible-to-know-everything) (AKA some things can be ignored).
 - Consider scheduling a coffee chat or sync with other team members to help ease your way back.
 - Consider asking in [#s_package](https://gitlab.slack.com/archives/CAGEWDLPQ) for a summary of what happened while you were gone.
 
@@ -545,7 +539,7 @@ These sessions aim to facilitate the sharing of valuable insights and experience
 
 #### Target Audience
 
-These sessions are applicable to all development specialties (backend, frontend, Go, and Rails) across [Package:Container Registry](https://about.gitlab.com/handbook/engineering/development/ops/package/container-registry/) and [Package:Package Registry](https://about.gitlab.com/handbook/engineering/development/ops/package/package-registry/). By making these sessions visible and open to engineers across all functional areas, the goal is to boost awareness and knowledge sharing across a wider audience. Members with non-development roles are also more than welcome to attend.
+These sessions are applicable to all development specialties (backend, frontend, Go, and Rails) across [Package:Container Registry](/handbook/engineering/development/ops/package/container-registry/) and [Package:Package Registry](/handbook/engineering/development/ops/package/package-registry/). By making these sessions visible and open to engineers across all functional areas, the goal is to boost awareness and knowledge sharing across a wider audience. Members with non-development roles are also more than welcome to attend.
 
 #### Process
 
@@ -567,7 +561,7 @@ When hosting a session, the team member should:
 
 ### Cross-Group Dependencies
 
-Cross-group dependencies may exist as pre-requisites to deliver Package features or bug fixes. Issues to deliver such dependencies are owned by groups that Package depends on, such as [Delivery](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/) or [Distribution](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/distribution/).
+Cross-group dependencies may exist as pre-requisites to deliver Package features or bug fixes. Issues to deliver such dependencies are owned by groups that Package depends on, such as [Delivery](/handbook/engineering/infrastructure/team/delivery/) or [Distribution](/handbook/engineering/infrastructure/core-platform/systems/distribution/).
 
 For discoverability, issues that represent cross-group dependencies should be labeled with `package:cross-group-dependency`. If working on one of these issues, Package engineers should ensure that they are labeled correctly. For visibility, these issues are shown in the [Package:Cross-Group Assignments](https://gitlab.com/groups/gitlab-org/-/boards/2470946?label_name[]=package%3Across-group-dependency) issue board.
 
@@ -575,7 +569,7 @@ The product manager should include cross-group dependencies in the milestone pla
 
 ### Communication
 
-We're an all-remote group, [effective](https://about.gitlab.com/handbook/communication/#effective--responsible-communication-guidelines) and [asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/) is key for success.
+We're an all-remote group, [effective](/handbook/communication/#effective--responsible-communication-guidelines) and [asynchronous communication](/handbook/company/culture/all-remote/asynchronous/) is key for success.
 
 When requiring attention from all the team members, use any of the following options or mix them.
 
@@ -588,7 +582,7 @@ For any other communication tailored to only certain members, we ping them indiv
 
 ### Partnering with Infrastructure
 
-There are times during the development lifecycle that changes need to be communicated to the [Infrastructure teams](https://about.gitlab.com/handbook/engineering/infrastructure/#teams). For example:
+There are times during the development lifecycle that changes need to be communicated to the [Infrastructure teams](/handbook/engineering/infrastructure/#teams). For example:
 
 - If your work will impact rate-limits as in [GitLab-#778](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/778)
 - If you are considering adjusting the existing [Package limits](https://docs.gitlab.com/ee/administration/instance_limits.html#package-registry-limits)
@@ -598,7 +592,7 @@ There are times during the development lifecycle that changes need to be communi
 
 ## Feature Category Details
 
-* [Container Registry](https://about.gitlab.com/handbook/engineering/development/ops/package/container-registry)
+* [Container Registry](/handbook/engineering/development/ops/package/container-registry)
 
 ## 🔗 Other Useful Links
 

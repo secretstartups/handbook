@@ -1,14 +1,7 @@
 ---
-
 title: Govern, Security Policies
 description: "The Security Policies group at GitLab is charged with developing solutions to apply policies to enforce scans and to require security approvals when vulnerabilities are found."
 ---
-
-
-
-
-
-
 
 ## Security Policies
 
@@ -16,15 +9,15 @@ We are responsible for developing solutions to give customers the functionality 
 
 ## Common Links
 
-* Slack channel: #g_govern_security_policies
-* Slack alias: @govern_security_policies_be, @govern_security_policies_fe
-* Google groups: sec-govern-security-policies@gitlab.com
+- Slack channel: #g_govern_security_policies
+- Slack alias: @govern_security_policies_be, @govern_security_policies_fe
+- Google groups: sec-govern-security-policies@gitlab.com
 
 ## How we work
 
 ### Prioritization
 
-We use our [Security Policies Priorities](/direction/govern/security_policies/security_policy_management/#priorities) list in our direction page to track what we are doing, and what order to do it in.  Each initiative includes these fields:
+We use our [Security Policies Priorities](https://about.gitlab.com/direction/govern/security_policies/security_policy_management/#priorities) list in our direction page to track what we are doing, and what order to do it in.  Each initiative includes these fields:
 
 1. Name - Description and link to the epic
 1. BE DRI / FE DRI - indicates the backend and frontend [DRIs](/handbook/engineering/development/sec/govern/sp-ti-planning.html#epic-engineering-dri) who will be actively involved.
@@ -33,15 +26,9 @@ We use our [Security Policies Priorities](/direction/govern/security_policies/se
 
 Complete items are removed from the table once the code is in production without a feature flag, and a release post, if applicable, has been merged. The epic is closed at this point.
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Security Policies" } %>
+{{% cross-functional-dashboards filters="Security Policies" %}}
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="300" src="<%= signed_periscope_url({ dashboard: 1020520, embed: 'v2', filters: [{name: filter_type_for("quality", "group"), value: filter_value_for('quality', "group", "Security Policies") }], visible: ["team_group", "stage","development_section"], data_ts: Date.today.to_time.to_i }) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+{{% sisense-with-filters dashboard="1020520" team_group="Security Policies" visible="team_group,stage,development_section" %}}
 
 ### Workflow
 
@@ -58,17 +45,17 @@ We follow these guidelines when submitting MRs for review when the change is wit
 1. The initial review should be performed by a member of the team, stage, or section. This helps the team by:
    - Faster reviews, as the reviewer is already familiar with the domain
    - Additional awareness of changes taking place within the domain
-   - Identifying changes that don't align with what is happening with the domain 
+   - Identifying changes that don't align with what is happening with the domain
 1. For GraphQL changes, the MR should be reviewed by a frontend engineer as soon as possible. This helps to validate the interface, and allows changes to be made before tests are written.
 
 ### Issue Boards
 
-* [Security Policies Delivery Board](https://gitlab.com/groups/gitlab-org/-/boards/1754674?milestone_title=Started)
-   * Primary board for engineers from which engineers can work. It's stripped down to only include the workflow labels we use when delivering software.
-* [Security Policies Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1420731?label_name%5B%5D=group%3A%3Asecurity%20policies)
-  * Milestone-centric board primarily used by product management to gauge work in current and upcoming milestones.
-* [Security Policies EM Board](https://gitlab.com/groups/gitlab-org/-/boards/4738985)
-  * Engineer-centric board used by engineering management to gauge how heavy a load engineer is carrying. Judged by the number of issues assigned to them.
+- [Security Policies Delivery Board](https://gitlab.com/groups/gitlab-org/-/boards/1754674?milestone_title=Started)
+   - Primary board for engineers from which engineers can work. It's stripped down to only include the workflow labels we use when delivering software.
+- [Security Policies Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1420731?label_name%5B%5D=group%3A%3Asecurity%20policies)
+  - Milestone-centric board primarily used by product management to gauge work in current and upcoming milestones.
+- [Security Policies EM Board](https://gitlab.com/groups/gitlab-org/-/boards/4738985)
+  - Engineer-centric board used by engineering management to gauge how heavy a load engineer is carrying. Judged by the number of issues assigned to them.
 
 #### Issue and Merge Requests labels
 
@@ -91,15 +78,17 @@ When creating a new issue, use the `/copy_metadata #373191` quick command to cop
 ### How to classify MRs which need to run Package and QA?
 
 It is advisable to manually trigger the `Package and QA` downstream [E2E](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/) job in an MR and review the results when there are changes in:
-   - GraphQL (API response, query parameters, schema etc)
-   - Gemfile (version changes, adding/removing gems)
-   - Vue files which contain "data-qa-selector" attribute because these are used in identifying UI elements in E2E tests
-   - Database schema/query changes
-   - Any frontend changes which directly impact vulnerability report page, MR security widget, pipeline security tab, security policies, configuration, license compliance page
+
+- GraphQL (API response, query parameters, schema etc)
+- Gemfile (version changes, adding/removing gems)
+- Vue files which contain "data-qa-selector" attribute because these are used in identifying UI elements in E2E tests
+- Database schema/query changes
+- Any frontend changes which directly impact vulnerability report page, MR security widget, pipeline security tab, security policies, configuration, license compliance page
 
 To manually trigger the QA job:
-1. Navigate to the pipelines tab of the MR. 
-2. Click the the `>` arrow on the right of the `Stages` and click the `package-and-qa` item.
+
+1. Navigate to the pipelines tab of the MR.
+1. Click the the `>` arrow on the right of the `Stages` and click the `package-and-qa` item.
 
 It's advisable to run the QA job on the latest pipeline at least once during the MR review cycle.
 
@@ -110,6 +99,7 @@ It's advisable to run the QA job on the latest pipeline at least once during the
 ## Contributing
 
 ### Local testing of licensed features
+
 When a feature needs to check the current license tier, it's important to make sure this also works on GitLab.com.
 
 To emulate this locally, follow these steps:
@@ -121,12 +111,14 @@ To emulate this locally, follow these steps:
 See the [related handbook entry](https://docs.gitlab.com/ee/development/ee_features.html#act-as-saas) for more details.
 
 ### Cross-stack collaboration
+
 We encourage frontend engineers to contribute to the backend and vice versa. In such cases we should work closely with a domain expert from within our group
-and also keep the initial review internal. 
+and also keep the initial review internal.
 
 This will help ensure that the changes follow best practice, are well tested, have no unintended side effects, and help the team be across any changes that go into the Security Policies codebase.
 
 ### Community Contributions
+
 The Security Policies group welcomes community contributions. Any community contribution should get prompt feedback from one of the Security Policies engineers. All engineers on the team are responsible for working with community contributions. If a team member does not have time to review a community contribution, please tag the Engineering Manager, so that they can assign the community contribution to another team member.
 
 ## Footnotes

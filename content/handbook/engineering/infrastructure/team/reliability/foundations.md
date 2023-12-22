@@ -1,11 +1,11 @@
 ---
 aliases: /handbook/engineering/infrastructure/team/reliability/foundations.html
-title: "Reliability:Foundations Team"
+title: "Production Engineering Foundations Team"
 ---
 
 ## Mission
 
-The mission of the Reliability:Foundations team at GitLab is to Build, Run and Own the entire lifecycle of the core infrastructure for GitLab.com.
+The mission of the Production Engineering Foundations team at GitLab is to Build, Run and Own the entire lifecycle of the core infrastructure for GitLab.com.
 
 The team is focused on owning the reliability, scalability, and security of the existing core infrastructure. We seek to reduce the effort required to provide our core infrastructure services, and to enable other teams to self-serve core infrastructure that allows them to more efficiently/effectively run their services for GitLab.com.
 
@@ -54,18 +54,18 @@ Given the nature of this team's scope, several services the Foundation team work
 
 ## Who are our Stakeholders?
 
-Our primary customers are other teams in the Infrastructure department. Our services have particular overlap and impact on the Delivery teams, Scalability, and Reliability::General.
+Our primary customers are other teams in the Infrastructure department. Our services have particular overlap and impact on the Delivery teams, Scalability, and Ops.
 Other teams outside of Infrastructure that we collaborate with regularly are Support and various teams in the Security organization.
 
 ## Getting Assistance
 
-Should you require assistance from the Foundations team, please open an issue in the [Reliability tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues)
+Should you require assistance from the Foundations team, please open an issue in the [Production engineering tracker](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues)
 
 Apply one of the following templates:
 
-- For issues pertaining to Teleport connections, use the [teleport-troubleshooting template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=teleport-troubleshooting)
-- For issues pertaining to Cloudflare, use the [Cloudflare Troubleshooting template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=Cloudflare%20Troubleshooting)
-- For anything else, use the [request-foundations template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=request-foundations)
+- For issues pertaining to Teleport connections, use the [teleport-troubleshooting template](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues/new?issuable_template=teleport-troubleshooting)
+- For issues pertaining to Cloudflare, use the [Cloudflare Troubleshooting template](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues/new?issuable_template=Cloudflare%20Troubleshooting)
+- For anything else, use the [request-foundations template](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues/new?issuable_template=request-foundations)
 
 ### Priority Levels for Requests
 
@@ -82,7 +82,7 @@ We endeavor to triage incoming requests twice per week. If you have an issue tha
 
 ## Considerations for tooling and maintaining our services.
 
-- We support [dogfooding](https://about.gitlab.com/handbook/engineering/development/principles/#dogfooding) when it makes sense to do so.
+- We support [dogfooding](/handbook/engineering/development/principles/#dogfooding) when it makes sense to do so.
   - We consider the scale at which we run gitlab.com and the additional engineering effort required to dogfood, weighed against the capacity and other priorities of the team.
 - When considering external tooling, we look first to other open source projects that are part of [CNCF](https://www.cncf.io/)
 - Further evaluation criteria include:
@@ -155,31 +155,31 @@ With the development of Cells, we understand there may be adjustments to this ro
 
 We've adopted a version of the SPACE framework for Performance Indicators.
 
-For more context, see the related [discussion issue](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/19167).
+For more context, see the related [discussion issue](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues/19167).
 
 - Satisfaction ([DIB(https://handbook.gitlab.com/handbook/values/#diversity-inclusion)])
   - Foundations Engineering Manager will send out a monthly team satisfaction survey with a range of questions that seek to capture a sense of trust, belonging, inclusion and feeling empowered.
   - Success Criteria: no lower than 4 out of 5 average for questions around psychological safety, satisfaction with the team and feeling supported.
   - Current status: green
     - To encourage people to be as honest as possible, we are not sharing specific results beyond the team.
-- Performance ([Results](https://handbook.gitlab.com/handbook/values/#results))
+- Performance ([Results](/handbook/values/#results))
   - OKRs - OKRs are generated each quarter based on current commitments while also including spare capacity for unplanned work.
     - Success Criteria: > 80% completion of OKRs
     - Current Status: tbd pending final review of our cost savings efforts scores.
     - OKR completion rates by quarter:
-      - ([FY24 Q2](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/24202)): current 77.3%
+      - ([FY24 Q2](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues/24202)): current 77.3%
       - ([FY24 Q1](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=Sub-Department%3A%3AReliability&label_name%5B%5D=Reliability%3A%3AFoundations&milestone_title=FY24-Q1&first_page_size=20)): 88%
   - Service SLOs
     - Success Criteria: Meets or Exceeds availability SLOs for services we own.
     - TODO: Create and add link to overview dashboard
-- Activity ([Results](https://handbook.gitlab.com/handbook/values/#results))
+- Activity ([Results](/handbook/values/#results))
   - Corrective Actions Over Time (specific to the Foundations Team)
-    - Success Criteria: Meets or exceeds the [Reliability SLO](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
+    - Success Criteria: Meets or exceeds the [Reliability SLO](/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
     - Current Status: Green for Sev 1 and Sev 2 CAs.
   - Track the rate of closed MRs for projects for services we own.
     - Success Criteria: TBD. Gather data to see if there is any correlation between MR activity and reliability numbers for services we own.
   - TODO: Add Sisense or Tableau dashboards to visualize these issue metrics
-- Communication and [Collaboration](https://handbook.gitlab.com/handbook/values/#collaboration)
+- Communication and [Collaboration](/handbook/values/#collaboration)
   - Customer Satisfaction
     - Foundations Engineering Manager will send out quarterly surveys to the rest of Infrastructure with questions regarding ease of collaboration, ease of getting needs met and pain points.
     - Success Criteria: average rating of 4 out of 5 for questions about ease of collaboration and getting needs met.
@@ -187,10 +187,10 @@ For more context, see the related [discussion issue](https://gitlab.com/gitlab-c
     - Most recent Survey Results: [June 2023](https://docs.google.com/spreadsheets/d/1GWykJteo7dHRr3bkXz5oO1u8rf2S1ePRELgb_N4oy5s/edit?usp=sharing):
       - How Easy is it to collaborate with Foundations? 4.25 out of 5
       - How Easy is it to get help from Foundations? 4.25 out of 5
-- [Efficiency](https://handbook.gitlab.com/handbook/values/#efficiency) and Flow
+- [Efficiency](/handbook/values/#efficiency) and Flow
   - Issue/MR Metrics
     - Issue Lead Time
-      - Success Criteria: Meets or exceeds current [Reliability SLO](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
+      - Success Criteria: Meets or exceeds current [Reliability SLO](/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
     - Throughput times for MRs by team members
       - Success Criteria: TBD
     - TODO: Add Sisence or Tableau dashboards to visualize these metrics
@@ -270,17 +270,17 @@ In addition to striving to embrace GitLab's values, the Foundations team seeks t
   - Engineers participate in SRE oncall rotations, which can take them completely away from project work for the week, and sometimes more time afterwards for follow up work.
   - Other times there are incoming external requests that are unplanned for but unblock another team or customer, and that must be prioritized over ongoing work. When necessary, we discuss this as a team.
     - We make an effort to distribute this type of work in an equitable manner across the team.
-    - External requests should come through issues created in the Reliability tracker with the ~"team::Foundations" label. If other teams reach out directly to team members for help with work, we should redirect them to request work through the proper channels so that the team can properly prioritize and scope the work, and individuals are not pulled off prioritized tasks through back channels.
+    - External requests should come through issues created in the Production Engineering tracker with the ~"team::Foundations" label. If other teams reach out directly to team members for help with work, we should redirect them to request work through the proper channels so that the team can properly prioritize and scope the work, and individuals are not pulled off prioritized tasks through back channels.
 
 #### Project Management
 
 The Foundations team top level Epic can be found [here](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/1175)
-We follow Platforms Project Management practices as outlined in the [Handbook](https://about.gitlab.com/handbook/engineering/infrastructure/platforms/project-management/).
+We follow Platforms Project Management practices as outlined in the [Handbook](/handbook/engineering/infrastructure/platforms/project-management/).
 Below builds on top of those guidelines.
 
 ##### OKRs
 
-- For Objectives and Key Results, we align with [Platforms guidance](https://about.gitlab.com/handbook/engineering/infrastructure/platforms/#okr) for creation and structure.
+- For Objectives and Key Results, we align with [Platforms guidance](/handbook/engineering/infrastructure/platforms/#okr) for creation and structure.
 - DRIs should update the % progress on OKRs every Wednesday. Status updates go in the Epic descriptions.
 - A due date should be set on on the epic. If the timeline is unknown, use the end of the planned quarter to start. It can always be adjusted as the work unfolds.
 

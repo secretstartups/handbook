@@ -12,7 +12,7 @@ Both prospects and existing customers should request an Ultimate trial by going 
 
 ### Notes Regarding Trial Licenses
 
- - If a Premium Trial is required instead of an Ultimate trial, then the customer should request the trial license as defined above. Then the GitLab Account Executive must create a [GitLab Support Internal Request](https://gitlab-com.gitlab.io/support/internal-requests-form/) (Internal) in order to downgrade the Trial license from Ultimate to Premium. Select the ***Self-Managed Trial related - Modify an existing Self-managed trial*** option on the *GitLab Support Internal Request* page. GitLab Support will create a Premium license and email it to the user.
+ - If a Premium Trial is required instead of an Ultimate trial, then the customer should request the trial license as defined above. Then the GitLab Account Executive must create a [GitLab Support Internal Request](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) (Internal) in order to downgrade the Trial license from Ultimate to Premium. Use either the **GitLab Support Internal Requests for Global customers** or **GitLab Support Internal Requests for Federal customers** request option, then select the **Self-Managed Trial related - Modify an existing Self-managed trial** request type. GitLab Support will create a Premium license and email it to the user.
 
 ## Trial Guidelines
 

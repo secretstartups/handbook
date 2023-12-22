@@ -1,16 +1,6 @@
 ---
-
 title: "Plan Stage"
 ---
-
-
-
-
-
-
-
-# Plan
-{: #welcome}
 
 Plan teams:
 
@@ -58,7 +48,7 @@ Subtracting the carry over weight (item 2) from our expected capacity (the produ
 
 ##### Historical capacity
 
-<%= partial("handbook/engineering/development/dev/plan/historical_capacity") %>
+{{% include "includes/engineering/plan/historical-capacity.md" %}}
 
 #### Issues
 
@@ -66,7 +56,7 @@ Issues have the following lifecycle. The colored circles above each workflow sta
 
 ![plan-workflow-example.png](plan-workflow-example.png)
 
-Everyone is encouraged to move issues to different workflows if they feel they belong somewhere else. In order to keep issues constantly refined, when moving an issue to a different workflow stage, please review any open discussions within the issue and update the description with any decisions that have been made. This ensures that descriptions are [laid out clearly](https://about.gitlab.com/handbook/values/#say-why-not-just-what), keeping with our value of Transparency.
+Everyone is encouraged to move issues to different workflows if they feel they belong somewhere else. In order to keep issues constantly refined, when moving an issue to a different workflow stage, please review any open discussions within the issue and update the description with any decisions that have been made. This ensures that descriptions are [laid out clearly](/handbook/values/#say-why-not-just-what), keeping with our value of Transparency.
 
 #### Epics
 
@@ -109,7 +99,7 @@ graph TD;
 
 ### Talking With Customers
 
-In a perfect world, we would have cross-functional representation in every conversation we have with customers. 
+In a perfect world, we would have cross-functional representation in every conversation we have with customers.
 
 #### Customer Conversations calendar
 
@@ -119,7 +109,7 @@ You can subscribe to the calendar and invite it as a participant in a customer m
 
 #### Shadow a customer call
 
-All team members are welcome and encouraged to join customer calls -- even if it's just to listen in and get context. 
+All team members are welcome and encouraged to join customer calls -- even if it's just to listen in and get context.
 
 To ensure upcoming calls appear in your calendar, subscribe to the Plan Customer Conversations calendar. Product Managers add upcoming customer interviews to this calendar and you're welcome to shadow any call.
 
@@ -133,7 +123,7 @@ Upcoming customer calls will often be advertised in the #s_plan channel in advan
 
 All recorded customer calls, with consent of the customer, are made available for Plan team-members to view in Dovetail.
 
-To access these, simply go to the [Plan Customer Calls](https://gitlab.dovetailapp.com/projects/3Smr4JOoU7a5pnWqazMfr2/readme) project on Dovetail and log in with Google SSO. More information is available in the Readme of this project. 
+To access these, simply go to the [Plan Customer Calls](https://gitlab.dovetailapp.com/projects/3Smr4JOoU7a5pnWqazMfr2/readme) project on Dovetail and log in with Google SSO. More information is available in the Readme of this project.
 
 If you find you do not have access, reach out to a Plan PM and ask to be added as a Viewer.
 
@@ -187,14 +177,14 @@ In addition, Plan groups had KRs supporting an Objective to [Reach a 50% minimum
 
 #### Drafting OKRs using GitLab
 
-Guidance is available, including a video guide, on [how to use GitLab for OKRs](https://about.gitlab.com/company/okrs/#how-to-use-gitlab-for-okrs).
+Guidance is available, including a video guide, on [how to use GitLab for OKRs](/handbook/company/okrs/#how-to-use-gitlab-for-okrs).
 
 GitLab currently offers some freedom in how to structure OKR hierarchies. We take the following approach in Plan:
 
 * EMs are encouraged to create group-level KRs under stage-level Objectives directly, without creating their own OKR structure.
 * Group KRs and Stage Objectives should ladder into a higher Objective, which can exist anywhere in the organization. In the development of OKRs a stage-level Objective laddered directly into a CEO KR.
 * They should be created or added as **child objectives and key results** of their parent so that progress roll-ups are visible.
-* Product development goals are established in milestone planning, following the regular [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/), and not in OKRs.
+* Product development goals are established in milestone planning, following the regular [Product Development Flow](/handbook/product-development-flow/), and not in OKRs.
 
 Doing this ensures the hierarchy will be as simple, consistent and shallow as possible. This improves navigability and visibility, as we currently don't have good hierarchy visualization for OKRs.
 
@@ -219,7 +209,7 @@ OKRs should have the following labels:
 
 ### Retrospectives
 
-The Plan stage conducts [monthly retrospectives asynchronously using GitLab issues][retros]. Monthly retrospectives are performed in a Confidential Issue made Public upon Close. Confidentiality of these Issues while Open aligns with [GitLab SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/).
+The Plan stage conducts [monthly retrospectives asynchronously using GitLab issues][retros]. Monthly retrospectives are performed in a Confidential Issue made Public upon Close. Confidentiality of these Issues while Open aligns with [GitLab SAFE Framework](/handbook/legal/safe-framework/).
 
 The Plan Stage team encourages the use of Internal Notes as well to further adhere to SAFE Guidelines. Internal notes remain confidential to participants of the retrospective even after the issue is made public, including Guest users of the parent group. Dogfooding this feature aligns with an FY23 Q4 OKR of improving the GitLab Product development flow by driving the adoption of Plan features.
 
@@ -258,7 +248,7 @@ process itself.
 
 #### Dogfooding Value Stream Analytics (VSA) in the Milestone Retrospective
 
-To improve the retrospective data-driven experience, we are [dogfooding](https://about.gitlab.com/handbook/engineering/development/principles/#dogfooding) VSA to simplify the [data collection for the retrospective](https://gitlab.com/gitlab-org/plan/-/issues/753). This been done by automatically adding a link to the VSA of the current milestone filtered by group/stage to the retrospective.
+To improve the retrospective data-driven experience, we are [dogfooding](/handbook/engineering/development/principles/#dogfooding) VSA to simplify the [data collection for the retrospective](https://gitlab.com/gitlab-org/plan/-/issues/753). This been done by automatically adding a link to the VSA of the current milestone filtered by group/stage to the retrospective.
 With Value stream analytics (VSA) our team is getting visibility to the [lifecycle metrics](https://docs.gitlab.com/ee/user/group/value_stream_analytics/#lifecycle-metrics) of each milestone through the breakdown of the [end-to-end workflow into stages](https://docs.gitlab.com/ee/user/group/value_stream_analytics/#value-stream-stages). This allows us to identify bottlenecks and take action to [optimize actual flow of work](https://about.gitlab.com/blog/2023/06/26/three-steps-to-optimize-software-value-streams/).
 
 For example, for the review phase, we are using VSA to count the [time between "workflow::in review" and "MR merged"](https://gitlab.com/groups/gitlab-org/-/analytics/value_stream_analytics?created_after=2023-03-01&created_before=2023-04-29&project_ids[]=278964&label_name[]=devops%3A%3Aplan&value_stream_id=779&stage_id=17092&sort=duration&direction=desc&page=1). With this data, we can identify:
@@ -279,13 +269,13 @@ The DRI is responsible for completing the following actions:
 [async-retrospectives]: https://gitlab.com/gitlab-org/async-retrospectives
 [retros]: https://gitlab.com/gl-retrospectives/plan/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=retrospective
 
-In both the summary comment and video the DRI should be particularly careful to ensure all information disclosed is [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/). If the retrospective discussion contains examples of unSAFE information, the issue should not be made public.
+In both the summary comment and video the DRI should be particularly careful to ensure all information disclosed is [SAFE](/handbook/legal/safe-framework/). If the retrospective discussion contains examples of unSAFE information, the issue should not be made public.
 
 ### Regressions
 
 Regressions contribute to the impression that the product is brittle and unreliable. They are a form of waste, requiring the original (lost) effort to be compounded further with a fix or a reversion and reimplementation of the intended behavior.
 
-Engineering Managers are strongly encouraged to conduct a simple [Root Cause Analysis](https://about.gitlab.com/handbook/engineering/root-cause-analysis/#what-is-a-root-cause-analysis) (RCA) when a regression takes place in a feature owned by their group, in order to:
+Engineering Managers are strongly encouraged to conduct a simple [Root Cause Analysis](/handbook/engineering/root-cause-analysis/#what-is-a-root-cause-analysis) (RCA) when a regression takes place in a feature owned by their group, in order to:
 
 * Inform the author and reviewers of the original MR that it caused a regression.
 * Define corrective actions that might prevent or reduce the likelihood of a similar regression in future.
@@ -422,7 +412,7 @@ It's good practice to rotate the 'base' timezone of the Team Day to spread the o
 
 The day is composed of sessions proposed and organized by team-members. These are typically allocated 1hr, though they can be longer or shorter. Sessions can be scheduled in advance to allow other team-members to plan their attendance and participation.
 
-Sessions can be anything really, so long as it aligns with the [values](https://handbook.gitlab.com/handbook/values/). Team-members can organize a game, teach a skill, give a talk on something they know, or anything else they think others might enjoy.
+Sessions can be anything really, so long as it aligns with the [values](/handbook/values/). Team-members can organize a game, teach a skill, give a talk on something they know, or anything else they think others might enjoy.
 
 Some examples of sessions we've had on previous team days include:
 
@@ -448,7 +438,7 @@ Some sessions may require small purchases to participate fully; for example, ing
 
 Unless communicated in advance these are **not expensable**.
 
-The DRI for organizing Team Day may pursue a budget for expenses under existing budgets; such as the [team building](https://about.gitlab.com/handbook/finance/expenses/#team-building) budget, or [fun budget](https://about.gitlab.com/handbook/engineering/development/#fy24-team-building-fun-budget). If successful it should be made clear to team-members well in advance:
+The DRI for organizing Team Day may pursue a budget for expenses under existing budgets; such as the [team building](/handbook/finance/expenses/#team-building) budget, or [fun budget](/handbook/engineering/development/#fy24-team-building-fun-budget). If successful it should be made clear to team-members well in advance:
 * What purchases qualify for reimbursement.
 * The policy the expense qualifies under; including handbook link, policy category, and classification in Navan.
 * Any additional handbook guidance that will help team-members utilize the budget.
@@ -468,7 +458,7 @@ The DRI for organizing Team Day may pursue a budget for expenses under existing 
 
 ### Team Process
 
-Each group within the Plan stage follows GitLab's [product development flow](https://about.gitlab.com/handbook/product-development-flow/) and [process](https://about.gitlab.com/handbook/product/product-processes/). This allows for consistency across the stage, enables us to align with other stages and stable-counterparts, and enables us to clearly understand our throughput and velocity. We're currently focused on strictly following the process stated in the handbook, as opposed to creating our own local optimizations.
+Each group within the Plan stage follows GitLab's [product development flow](/handbook/product-development-flow/) and [process](/handbook/product/product-processes/). This allows for consistency across the stage, enables us to align with other stages and stable-counterparts, and enables us to clearly understand our throughput and velocity. We're currently focused on strictly following the process stated in the handbook, as opposed to creating our own local optimizations.
 
 In some cases we need to dogfood a new Plan feature that may adjust our adherence to the GitLab's process. If that happens we assign a DRI responsible for setting the objective, reporting on the outcomes and facilitating feedback to ensure we prioritize improvements to our own product. This ensures we're not making a change for the sake of making changes, and gives us clarity into our own evaluation of a change to the product.
 In some cases we need to dogfood a new Plan feature that may adjust our adherence to the GitLab's process. If that happens we assign a DRI responsible for setting the objective, reporting on the outcomes and facilitating feedback to ensure we prioritize improvements to our own product. This ensures we're not making a change for the sake of making changes, and gives us clarity into our own evaluation of a change to the product.
@@ -481,7 +471,7 @@ There are a couple of process-related improvements we'll continue to adopt:
 
 Like all groups at GitLab, a working group is an arrangement of people from different functions. What makes a working group unique is that it has defined roles and responsibilities, and is tasked with achieving a high-impact business goal fast. A working group disbands when the goal is achieved (defined by exit criteria) so that GitLab doesn’t accrue bureaucracy.
 
-Stage Working Groups are focused on initiatives that require collaboration between multiple groups within the stage. The structure of stage working groups is similar to [company-wide working groups](https://handbook.gitlab.com/handbook/company/working-groups/), with DRI and well-defined roles. The initiatives are driven by a stage-level product direction rather than an [Executive Sponsor](https://handbook.gitlab.com/handbook/company/working-groups/#executive-sponsor),
+Stage Working Groups are focused on initiatives that require collaboration between multiple groups within the stage. The structure of stage working groups is similar to [company-wide working groups](/handbook/company/working-groups/), with DRI and well-defined roles. The initiatives are driven by a stage-level product direction rather than an [Executive Sponsor](/handbook/company/working-groups/#executive-sponsor),
 and can be formed of just Functional Leads and members who participate in fulfilling the exit criteria.
 
 #### Active Stage Working Groups (alphabetic order)
@@ -519,11 +509,25 @@ Engineering team-members can shadow a product stable-counterpart. Shadowing sess
 
 ### Engineering Scaling Targets
 
-<%= partial("handbook/engineering/development/dev/plan/scalability_targets") %>
+We're tracking a number of issues that we believe could cause scalability problems in the future.
+
+| Type | Description | Estimated Timeline for Failure | Resolution Due Date | 12 Month Target | Issue | Status |
+| ---- | ---          | ---                            | ---                | ---    | ---   | ---    |
+| Primary key int4 overflow | `system_note_metadata.id` column is at 50% saturation and must be converted to bigint (int8). | March 2024 - 2025 | 2023-12-22 | Sub-50% | [#424114](https://gitlab.com/gitlab-org/gitlab/-/issues/424114) | <span style='border-radius:0.2em; font-weight:bold; padding-left:1em; padding-right:1em; color:white; background-color:red;'>Urgent</span> |
+| Redis Primary CPU | Unexpected load on the Shared State Redis instance caused by `SUBSCRIBE`, `UNSUBSCRIBE` and `PUBLISH` commands. | Unknown | November 2023 | [150k Concurrent WebSocket Connections][websockets] at peak | | <span style='border-radius:0.2em; font-weight:bold; padding-left:1em; padding-right:1em; color:white; background-color:green;'>Okay</span> |
+| Redis Memory | Retention of Action Cable messages in Redis Shared State memory due to high numbers of and/or stalled/hung clients.  | Unknown | November 2023 | [150k Concurrent WebSocket Connections][websockets] at peak | [#326364](https://gitlab.com/gitlab-org/gitlab/-/issues/326364) | <span style='border-radius:0.2em; font-weight:bold; padding-left:1em; padding-right:1em; color:white; background-color:green;'>Okay</span> |
+| Various | Scaling a combined 'Work Items' table consisting of all current issues, epics, requirements and test cases. | Unknown | November 2023 | [100k Work Items][workitems] created per day| | <span style='border-radius:0.2em; font-weight:bold; padding-left:1em; padding-right:1em; color:white; background-color:green;'>Okay</span> |
+
+[events]: https://gitlab.com/gitlab-org/gitlab/-/issues/220023
+[notes]: https://app.periscopedata.com/app/gitlab/865424/WIP:-Dev-Scaling-Targets:-Growth-Forecasting?widget=11744042&udv=0
+[websockets]: https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11747#action-cable-websockets
+[workitems]: https://app.periscopedata.com/app/gitlab/865424/WIP:-Dev-Scaling-Targets:-Growth-Forecasting?widget=12289309&udv=0
+
+Note: Work is ongoing on [migration helpers](https://gitlab.com/gitlab-org/gitlab/-/issues/292874) to mitigate Int4 Primary Key Overflows. These will provide a standard way to resolve these issues.
 
 ### Metrics
 
 #### Plan xMAU
 
-- [Project Management Performance Indicators](https://about.gitlab.com/handbook/product/performance-indicators/), [Issue Interactions Dashboard](https://app.periscopedata.com/app/gitlab/775807/Plan-xMAU-(monthly))
-- [Product Planning Performance Indicators](https://about.gitlab.com/handbook/product/performance-indicators/)
+- [Project Management Performance Indicators](/handbook/product/performance-indicators/), [Issue Interactions Dashboard](https://app.periscopedata.com/app/gitlab/775807/Plan-xMAU-(monthly))
+- [Product Planning Performance Indicators](/handbook/product/performance-indicators/)

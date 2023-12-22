@@ -158,7 +158,7 @@ This material is available as a [learning pathway on GitLab's Level Up](https://
 </figure>
 <!-- blank line -->
 
-[Past due infradev issues](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#past-due-infradev-issues)
+[Past due infradev issues](/handbook/engineering/development/performance-indicators/#past-due-infradev-issues)
 
 ## Overview of Engineering Metrics Dashboards
 
@@ -168,7 +168,7 @@ This material is available as a [learning pathway on GitLab's Level Up](https://
 </figure>
 <!-- blank line -->
 
-[Engineering metric dashboards](https://about.gitlab.com/handbook/engineering/metrics/#engineering-metrics-dashboards)
+[Engineering metric dashboards](/handbook/engineering/metrics/#engineering-metrics-dashboards)
 
 ## Feedback on the training
 

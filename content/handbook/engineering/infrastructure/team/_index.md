@@ -25,7 +25,7 @@ We are entering our **fourth organizational iteration**: the department (and the
 
 Infrastructure is now composed of five teams, and three individual contributors(ICs):  three **Reliability** teams comprised of SREs and DBREs, the **Delivery** team, with continued focus on improving and dogfooding our CI/CD capabilities, and the **Scalability** team, which is hone in our scalability capabilities. Two IC's in the team are `Distinguished Engineer, Infrastructure`, and `Engineering Fellow, Infrastructure`.
 
-Infrastructure will continue to be comprised [DBRE](https://handbook.gitlab.com/job-families/engineering/infrastructure/database-reliability-engineer/)s, [SRE](https://handbook.gitlab.com/job-families/engineering/infrastructure/site-reliability-engineer/)s, backend (BE) and frontend (FE) engineers.
+Infrastructure will continue to be comprised [DBRE](/job-families/engineering/infrastructure/database-reliability-engineer/)s, [SRE](/job-families/engineering/infrastructure/site-reliability-engineer/)s, backend (BE) and frontend (FE) engineers.
 
 Note, Product Management support for the Infrastructure Department is provided by the [Enablement Stage](/handbook/product/categories/#enablement-stage) and is therefore not captured in this organization structure. To engage with the Infrastructure PM, see the [Infra PM page](/handbook/engineering/infrastructure/product-management/).
 

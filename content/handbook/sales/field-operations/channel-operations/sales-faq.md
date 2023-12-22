@@ -299,7 +299,7 @@ Yes, for the customer’s overall license count to be accurate during the renewa
 The partner is concerned their customer may not be able to renew their instance before their grace period expires and they lose access. Can a temp license extension be granted to have additional time to process the renewal?
 </summary>
 
-Yes, you can [submit an internal support ticket](https://gitlab-com.gitlab.io/support/internal-requests-form/) to request a temp license to prevent the customer from losing access while the renewal is processed.
+Yes, you can [submit an internal support ticket](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) to request a temp license to prevent the customer from losing access while the renewal is processed.
 
 </details>
 
@@ -371,8 +371,8 @@ The partner requested that the purchase confirmation email with license/activati
 </summary>
 
 This can be actioned by either the GitLab Sales Rep or the partner:
-- The GitLab Sales Rep can [submit an internal support ticket](https://gitlab-com.gitlab.io/support/internal-requests-form/) to request that the support team send the purchase confirmation email to the same end user contact.
-- The partner that received the GitLab invoice (i.e., Distributor for two-tier deal, Reseller for one-tier deal) can [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new) with the GitLab invoice attached to request the purchase confirmation email be resent to the same end user contact.
+- The GitLab Sales Rep can [submit an internal support ticket](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) to request that the support team send the purchase confirmation email to the same end user contact.
+- The partner that received the Gitlab invoice (i.e., Distributor for two-tier deal, Reseller for one-tier deal) can [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new) with the GitLab invoice attached to request the purchase confirmation email be resent to the same end user contact.
 
 </details>
 
@@ -392,6 +392,6 @@ The partner that received the GitLab invoice (i.e., Distributor for two-tier dea
 The partner notified us that the customer is unable to use their GitLab Self-Managed activation code as they have an offline or air-gapped environment. How can we provide a legacy or offline license post-sale?
 </summary>
 
-Request approval from your VP via SFDC chatter to provide an offline or legacy license key for a closed-won opportunity. If/when VP approval is granted, [submit an internal support ticket](https://gitlab-com.gitlab.io/support/internal-requests-form/) to request an updated license be issued to the customer.
+Request approval from your VP via SFDC chatter to provide an offline or legacy license key for a closed-won opportunity. If/when VP approval is granted, [submit an internal support ticket](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) to request an updated license be issued to the customer.
 
 </details>

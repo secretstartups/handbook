@@ -63,7 +63,7 @@ There are two phases for fixing a broken `master` incident which have a target S
 | [Triage](#triage-broken-master) | 4 hours from the initial broken `master` incident creation until assignment | group labelled on the incident |
 | [Resolution](#resolution-of-broken-master) | 4 hours from assignment to DRI until incident is resolved | Merge request author or team of merge request author or dev on-call engineer |
 
-Note: if an incident occurs when no triage DRI is expected to be online, the SLO is allowed to be missed. The next available group member should ensure all incidents that have missed their SLAs are triaged. For an incident that becomes a blocker for MRs and deployments, the team member being impacted should refer to the [broken `master` escalation](#broken-master-escalation) steps to request help from the current [engineer on-call](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#who-is-the-current-eoc).
+Note: if an incident occurs when no triage DRI is expected to be online, the SLO is allowed to be missed. The next available group member should ensure all incidents that have missed their SLAs are triaged. For an incident that becomes a blocker for MRs and deployments, the team member being impacted should refer to the [broken `master` escalation](#broken-master-escalation) steps to request help from the current [engineer on-call](/handbook/engineering/infrastructure/incident-management/#who-is-the-current-eoc).
 
 
 Additional details about the phases are listed below.
@@ -113,7 +113,7 @@ For now, all broken master incidents are also reported in the `#master-broken` c
    - If this incident is **due to non-flaky reasons**, communicate in `#development`, `#backend`, and `#frontend` using the Slack Workflow.
       - Click the "lightning bolt" shortcut icon in the `#master-broken` channel and select `Broadcast Master Broken`, then click `Continue the broadcast`.
       - [Create a revert MR directly](#reverting-a-merge-request) to save some time in case we need to revert down the line.
-        - If you are reverting an MR that performs a database migration, you need to follow the [Deployment blockers process](https://about.gitlab.com/handbook/engineering/deployments-and-releases/deployments/#deployment-blockers) to prevent the migration from proceeding to deploy and running on staging and production.
+        - If you are reverting an MR that performs a database migration, you need to follow the [Deployment blockers process](/handbook/engineering/deployments-and-releases/deployments/#deployment-blockers) to prevent the migration from proceeding to deploy and running on staging and production.
         - If the migration is executed in any environments, communicate to the release managers in `#releases` channel and discuss whether it's appropriate to create another migration to roll back the first migration or turn the migration into a no-op by following [Disabling a data migration steps](https://docs.gitlab.com/ee/development/database/deleting_migrations.html#how-to-disable-a-data-migration).
    - If you identified that `master` fails **for a flaky reason**, and it cannot be reliably reproduced (i.e. running the failing spec locally or retry the failing job):
       - [Quarantine](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#quarantined-tests) the failing test to restore pipeline stability within 30 minutes if the flakiness is continuously causing master pipeline incidents.
@@ -394,7 +394,7 @@ Workflow labels are described in our [Development Documentation][development-doc
 
 ## Working in Teams
 
-For larger issues or issues that contain many different moving parts, you'll be likely working in a team. This team will typically consist of a [backend engineer](https://handbook.gitlab.com/job-families/engineering/backend-engineer/), a [frontend engineer](https://handbook.gitlab.com/job-families/engineering/development/frontend/), a [Product Designer](https://handbook.gitlab.com/job-families/product/product-designer/) and a [product manager](https://handbook.gitlab.com/job-families/product/product-manager/).
+For larger issues or issues that contain many different moving parts, you'll be likely working in a team. This team will typically consist of a [backend engineer](/job-families/engineering/backend-engineer/), a [frontend engineer](/job-families/engineering/development/frontend/), a [Product Designer](/job-families/product/product-designer/) and a [product manager](/job-families/product/product-manager/).
 
 1. Teams have a shared responsibility to ship the issue in the planned release.
     1. If the team suspects that they might not be able to ship something in time, the team should escalate / inform others as soon as possible. A good start is informing your manager.
@@ -498,8 +498,8 @@ All other important dates for a milestone are relative to the release date:
   - Draft of the issues that will be included in the next release (released next month).
   - Start capacity and technical discussions with engineering/UX.
   - Assess error budgets to determine feature/reliability balance.
-  - Development engineering manager provides product manager with prioritization input for `~type::maintenance` issues per [cross-functional prioritization](https://about.gitlab.com/handbook/product/product-processes/#cross-functional-prioritization)
-  - [Quality](https://about.gitlab.com/handbook/product/product-processes/#cross-functional-prioritization) provides product manager with prioritization input for `~type::bug` issues per [cross-functional prioritization](https://about.gitlab.com/handbook/product/product-processes/#cross-functional-prioritization)
+  - Development engineering manager provides product manager with prioritization input for `~type::maintenance` issues per [cross-functional prioritization](/handbook/product/product-processes/#cross-functional-prioritization)
+  - [Quality](/handbook/product/product-processes/#cross-functional-prioritization) provides product manager with prioritization input for `~type::bug` issues per [cross-functional prioritization](/handbook/product/product-processes/#cross-functional-prioritization)
 - **Monday, 12 days before the milestone begins**:
   - Product manager, taking into consideration prioritization input from development EM, Quality, and UX to create a plan of issues for the upcoming milestone.
   - Release scope is finalized. In-scope issues marked with milestone `%x.y`; label `~deliverable` applied.
@@ -558,7 +558,7 @@ The purpose of our retrospective is to help each Product Group, and the entire [
 
 Each retrospective consist of three parts:
 
-- [Group Retrospectives](/handbook/engineering/management/group-retrospectives/): retrospectives held by individual [Product Groups](/company/team/structure/#product-groups)
+- [Group Retrospectives](/handbook/engineering/management/group-retrospectives/): retrospectives held by individual [Product Groups](/handbook/company/team/structure/#product-groups)
 - [Retrospective Summary](/handbook/engineering/workflow/#retrospective-summary): a short pre-recorded video which summarizes the learnings across all group retrospectives
 - [Retrospective Discussion](/handbook/engineering/workflow/#retrospective-discussion): a 25 minute live discussion diving into retrospective discussion topics
 
@@ -660,7 +660,7 @@ Discussion topics are suggested by participants by commenting on the Retrospecti
 
 ### Utilizing Internal Notes in Retrospective Issues
 
-Monthly retrospectives are usually performed in a confidential issue made public upon close. Content of these issues while public aligns with [GitLab SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/).
+Monthly retrospectives are usually performed in a confidential issue made public upon close. Content of these issues while public aligns with [GitLab SAFE Framework](/handbook/legal/safe-framework/).
 
 Where unSAFE information must be discussed in a retrospective, [Internal Notes](https://docs.gitlab.com/ee/user/discussions/#add-an-internal-note) should be utilized in order to adhere to SAFE Guidelines. Internal notes remain confidential to participants of the retrospective even after the issue is made public, including Guest users of the parent group.
 
@@ -675,9 +675,9 @@ This is needed for a single owner to be aware of the bigger picture technical de
 
 The Moderator for the Retrospective Summary is chosen on a quarterly basis.  For FY22 we have selected 4 moderators from across Engineering and Product.  The moderators are:
 
-- Q1: [Sam Goldstein](/company/team/#sgoldstein)
-- Q2: [Tanya Pazitny](/company/team/#tpazitny)
-- Q3: [Kenny Johnston](/company/team/#kencjohnston)
+- Q1: [Sam Goldstein](/handbook/company/team/#sgoldstein)
+- Q2: [Tanya Pazitny](/handbook/company/team/#tpazitny)
+- Q3: [Kenny Johnston](/handbook/company/team/#kencjohnston)
 - Q4: [Section Based Retro Experiment](/handbook/engineering/workflow/#retrospective-summary-experiment-in-fy22-q4)
 
 ## Retrospective Summary Experiment in FY22 Q4
@@ -749,7 +749,7 @@ Milestones are closed when the Delivery team no longer needs to create a backpor
 
 ## Kickoff and Retrospective Public Stream Instructions
 
-Both the monthly kickoff and retrospective meetings are publicly streamed to the [GitLab Unfiltered YouTube Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A?view_as=subscriber). The [EBA](https://handbook.gitlab.com/job-families/people-group/executive-business-administrator/) for Engineering is the [moderator](/handbook/group-conversations/#moderator) and responsible for initiating the Public Stream or designating another moderator if EBA is unable to attend.
+Both the monthly kickoff and retrospective meetings are publicly streamed to the [GitLab Unfiltered YouTube Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A?view_as=subscriber). The [EBA](/job-families/people-group/executive-business-administrator/) for Engineering is the [moderator](/handbook/group-conversations/#moderator) and responsible for initiating the Public Stream or designating another moderator if EBA is unable to attend.
 
 
 ## Use Group Labels and Group Milestones
@@ -764,9 +764,9 @@ To help with prioritization and decision-making process here, we recommend think
 
 > You wouldn't pay off your $50k student loan before first paying off your $5k credit card and it's because of the high interest rate. The best debt to pay off first is one that has the highest loan payment to recurring payment reduction ratio, i.e. the one that reduces your overall debt payments the most, and that is usually the loan with the highest interest rate.
 
-Technical debt is prioritized like [other technical decisions](/handbook/engineering/development/principles/#prioritizing-technical-decisions) in [product groups](/company/team/structure/#product-groups) by [product management](/handbook/product/product-processes/#how-we-prioritize-work).
+Technical debt is prioritized like [other technical decisions](/handbook/engineering/development/principles/#prioritizing-technical-decisions) in [product groups](/handbook/company/team/structure/#product-groups) by [product management](/handbook/product/product-processes/#how-we-prioritize-work).
 
-For technical debt which might span, or fall in gaps between groups they should be brought up for a [globally optimzed](/handbook/values/#global-optimization) prioritization in [retrospectives](/handbook/engineering/management/group-retrospectives/) or directly with the appropriate member of the [Product Leadership team](/handbook/product/product-leadership/). Additional avenues for addressing technical debt outside of product groups are [Rapid Action issues](/handbook/engineering/development/#rapid-action-issue) and [working groups](/company/team/structure/working-groups/).
+For technical debt which might span, or fall in gaps between groups they should be brought up for a [globally optimzed](/handbook/values/#global-optimization) prioritization in [retrospectives](/handbook/engineering/management/group-retrospectives/) or directly with the appropriate member of the [Product Leadership team](/handbook/product/product-leadership/). Additional avenues for addressing technical debt outside of product groups are [Rapid Action issues](/handbook/engineering/development/#rapid-action-issue) and [working groups](/handbook/company/team/structure/working-groups/).
 
 ## UX debt
 
@@ -774,7 +774,7 @@ Sometimes there is an intentional decision to deviate from the agreed-upon [MVC]
 
 For the same reasons as technical debt, we don't want UX debt to grow faster than our code base.
 
-These issues are prioritized like [other technical decisions](/handbook/engineering/development/principles/#prioritizing-technical-decisions) in [product groups](/company/team/structure/#product-groups) by [product management](/handbook/product/product-processes/#how-we-prioritize-work). You can see the number of UX debt issues on the [UX Debt dashboard](https://app.periscopedata.com/app/gitlab/641753/UX-Debt).
+These issues are prioritized like [other technical decisions](/handbook/engineering/development/principles/#prioritizing-technical-decisions) in [product groups](/handbook/company/team/structure/#product-groups) by [product management](/handbook/product/product-processes/#how-we-prioritize-work). You can see the number of UX debt issues on the [UX Debt dashboard](https://app.periscopedata.com/app/gitlab/641753/UX-Debt).
 
 As with [technical debt](#technical-debt), UX debt should be brought up for [globally optimized](/handbook/values/#global-optimization) prioritization in [retrospectives](/handbook/engineering/management/group-retrospectives/) or directly with the appropriate member of the [Product Leadership team](/handbook/product/product-leadership/).
 
@@ -807,7 +807,7 @@ Open merge requests may also have other properties that indicate that the engine
 
 Being able to start the security review process earlier in the software development lifecycle means we will catch vulnerabilities earlier, and mitigate identified vulnerabilities before the code is merged. You should know when and how to proactively [seek an Application Security Review](/handbook/security/security-engineering/application-security/appsec-reviews.html). You should also be familiar with our [Secure Coding Guidelines](https://docs.gitlab.com/ee/development/secure_coding_guidelines.html).
 
-We are fixing the obvious security issues before every merge, and therefore, scaling the security review process. Our workflow includes a check and validation by the reviewers of every merge request, thereby enabling developers to act on identified vulnerabilities before merging. As part of that process, developers are also encouraged to reach out to the Security Team to discuss the issue at that stage, rather than later on, when mitigating vulnerabilities becomes more expensive. After all, security is everyone's job. See also our [Security Paradigm](/direction/secure/#security-paradigm)
+We are fixing the obvious security issues before every merge, and therefore, scaling the security review process. Our workflow includes a check and validation by the reviewers of every merge request, thereby enabling developers to act on identified vulnerabilities before merging. As part of that process, developers are also encouraged to reach out to the Security Team to discuss the issue at that stage, rather than later on, when mitigating vulnerabilities becomes more expensive. After all, security is everyone's job. See also our [Security Paradigm](https://about.gitlab.com/direction/secure/#security-paradigm)
 
 ## Rapid Engineering Response
 
@@ -915,7 +915,7 @@ Issues with `~infradev ~severity::1 ~priority::1 ~production request` labels app
 
 `~infradev` issues requiring a ~"breaking change" should not exist.  If a current `~infradev` issue requires a breaking change then it should split into two issues.  The first issue should be the immediate `~infradev` work that can be done under current SLOs.  The second issue should be  ~"breaking change" work that needs to be completed at the next major release in accordance with [handbook guidance](/handbook/product/gitlab-the-product/#breaking-changes-deprecations-and-removing-features). Agreement from development DRI as well as the infrastructure DRI should be documented on the issue.
 
-Infradev issues are also shown in the monthly [Error Budget Report](https://about.gitlab.com/handbook/engineering/error-budgets/#budget-reporting).
+Infradev issues are also shown in the monthly [Error Budget Report](/handbook/engineering/error-budgets/#budget-reporting).
 
 ### A Guide to Creating Effective Infradev Issues
 

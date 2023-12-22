@@ -36,14 +36,14 @@ Systems or services explicitly not owned by us:
 
 | System name | Description | Owner and supported by | Extra info/Open questions |
 |-------------|-------------|------------------------|---------------------------|
-| Redis | There are several use cases such as caching, rate-limiting, sidekiq queueing. | [Scalability Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/) | [Redis Architecture](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/#redis-architecture) |
+| Redis | There are several use cases such as caching, rate-limiting, sidekiq queueing. | [Scalability Group](/handbook/engineering/infrastructure/team/scalability/) | [Redis Architecture](/handbook/engineering/infrastructure/production/architecture/#redis-architecture) |
 | Clickhouse |  |  |  |
 | Data team systems |          | Data team |                          | 
 | Self Managed databases|           | Self managed Support |               | 
 
 ## Useful Links
 
-| Workflow | [Issue Labels](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#labels) <br> [Weekly Issue Triage](https://gitlab.com/groups/gitlab-com/gl-infra/-/issues/?sort=created_date&state=opened&label_name%5B%5D=team%3A%3ADatabase%20Reliability&first_page_size=20) |
+| Workflow | [Issue Labels](/handbook/engineering/infrastructure/team/reliability/issues.html#labels) <br> [Weekly Issue Triage](https://gitlab.com/groups/gitlab-com/gl-infra/-/issues/?sort=created_date&state=opened&label_name%5B%5D=team%3A%3ADatabase%20Reliability&first_page_size=20) |
 | Backlog | [Current Milestone](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/3406753) <br> [Issue Backlog](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/5360242) |
 | Reaching us | [`#g_infra_database_reliability`](https://gitlab.slack.com/archives/C02K0JTKAHJ) <br> [`#reliability-lounge`](https://gitlab.slack.com/archives/C03QC5KNW5N) <br> `@gitlab-org/reliability/database`
 | Weekly Agenda | [Weekly APAC and EMEA/AMER](https://docs.google.com/document/d/1d8YrRO4Vw_pHXohgwq-lEBM75ihMtkLpcd2_cFa6Yrs/edit#) |
@@ -55,11 +55,11 @@ We have a detailed [DBRE escalation process](./dbre-escalation/process.html) tha
 
 ## OKRs
 
-We use quarterly [Objectives and Key Results](https://about.gitlab.com/company/okrs/) to plan and measure our Key Performance Indicators (KPIs).
+We use quarterly [Objectives and Key Results](/handbook/company/okrs/) to plan and measure our Key Performance Indicators (KPIs).
 
 ## Performance indicators
 
-We measure the value we contribute by using [performance indicator metrics](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#key-performance-indicators).
+We measure the value we contribute by using [performance indicator metrics](/handbook/engineering/infrastructure/performance-indicators/#key-performance-indicators).
 
 In addition to the Infrastructure Department's KPIs for [availability](/handbook/engineering/infrastructure/performance-indicators/#gitlabcom-availability)
 and [performance](/handbook/engineering/infrastructure/performance-indicators/#gitlab-com-performance) of GitLab.com, the Database Reliability team tracks the following;

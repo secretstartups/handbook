@@ -42,7 +42,7 @@ Thus, Cloud Seed — a collaboration with Google Cloud — makes it trivial to c
 
 ### Positive business outcomes (grouped by persona)
 
-List of [user personas](https://about.gitlab.com/handbook/product/personas/) with specific benefits they actualize:
+List of [user personas](/handbook/product/personas/) with specific benefits they actualize:
 
 - `Compliance Manager`, `Security Analyst`, `Security Operations Engineer`
     - Secure, standardized deployment pipelines across the organization

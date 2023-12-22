@@ -4,7 +4,7 @@ title: "Security Research"
 
 ## Team Focus
 
-The Security Research team contributes to the [Security Vision and Mission](https://handbook.gitlab.com/handbook/security/#i-classfas-fa-rocket-idbiz-tech-iconsi-security-vision-and-mission) through projects that focus on identifying, quantifying, and developing solutions for complex security risks facing GitLab and its users. This work aims to improve the security posture of the product and the company, but always with an eye for contributing new functionality as a differentiator. Additionally, we aim to share our results widely in order to educate and bring awareness to the GitLab Security program.
+The Security Research team contributes to the [Security Vision and Mission](/handbook/security/#i-classfas-fa-rocket-idbiz-tech-iconsi-security-vision-and-mission) through projects that focus on identifying, quantifying, and developing solutions for complex security risks facing GitLab and its users. This work aims to improve the security posture of the product and the company, but always with an eye for contributing new functionality as a differentiator. Additionally, we aim to share our results widely in order to educate and bring awareness to the GitLab Security program.
 
 In order to realize this vision, team projects generally align with the following categories in accordance with the [role description](/job-families/security/security-research/):
 
@@ -19,7 +19,7 @@ projects aim to identify, quantify, and communicate technical security risks.
 
 Examples include:
 - [Security testing of FOSS applications and dependencies used within GitLab](#gitlab-ecosystem-security-testing)
-- Introduction and practice of [threat modeling](https://handbook.gitlab.com/handbook/security/threat-modeling/)
+- Introduction and practice of [threat modeling](/handbook/security/threat-modeling/)
 - Publishing of internal technical risk reports
 
 ### Security Capability Development

@@ -1,17 +1,10 @@
 ---
-
 title: Engineering Principles
 ---
 
-
-
-
-
-
-
 ## Engineering Principles
 
-At GitLab, [Company Culture](/company/culture) is very important to us. The
+At GitLab, [Company Culture](/handbook/company/culture) is very important to us. The
 main ingredient of the company culture are [GitLab Values](/handbook/values/).
 
 [GitLab Values](/handbook/values/) have guided us throughout the evolution of
@@ -153,7 +146,7 @@ There is variance in how much time an issue will take versus what you estimated.
 
 Both measures reduce the overall velocity of shipping features.
 The way to prevent this is to accept that we don't want perfect predictability.
-Just like with our [OKRs](/company/okrs/), which are so ambitious that we expect to reach about 70% of the goal, this is also fine for shipping [planned features](/handbook/product/product-principles/#how-this-impacts-planning).
+Just like with our [OKRs](/handbook/company/okrs/), which are so ambitious that we expect to reach about 70% of the goal, this is also fine for shipping [planned features](/handbook/product/product-principles/#how-this-impacts-planning).
 
 _Note:_ This does not mean we place zero value on predictability. We just optimize for velocity first.
 
@@ -181,7 +174,7 @@ If it is decided **not** to refactor at this moment, then please:
 
 Please see the [Product Management section](/handbook/product/product-processes/#how-we-prioritize-work) that governs how they prioritize work, and also should guide our technical decision making.
 
-<%= partial "includes/master-prioritization-list.md" %>
+{{% include "includes/engineering/master-prioritization-list.md" %}}
 
 Despite the high priority of velocity to our project and our company, there is one set of things we must prioritize over it: GitLab availability & security. Neither we, nor our customers, can run an Enterprise-grade service if we are willing to risk users' productivity and data.
 
@@ -277,7 +270,7 @@ Part of our engineering culture is to keep shipping so users and customers see s
 
 It’s important to keep in mind that when building complex applications, there are many factors to consider such as the fully planned feature to avoid situations where we build an MVC in HAML only to later need to re-write it in Vue due to growing complexity.
 
-To promote visual consistency and an accessible UI, we should always aim to use simple and reusable UI components provided by the [GitLab UI component library](https://gitlab.com/gitlab-org/gitlab-ui/) both in Vue and HAML views. We implement GitLab UI components based on our Pajamas design system and currently these are mostly in Vue, however, we provide [adapters](https://docs.gitlab.com/ee/development/fe_guide/haml.html#available-components) that allow us to use a few simple components in HAML as well. 
+To promote visual consistency and an accessible UI, we should always aim to use simple and reusable UI components provided by the [GitLab UI component library](https://gitlab.com/gitlab-org/gitlab-ui/) both in Vue and HAML views. We implement GitLab UI components based on our Pajamas design system and currently these are mostly in Vue, however, we provide [adapters](https://docs.gitlab.com/ee/development/fe_guide/haml.html#available-components) that allow us to use a few simple components in HAML as well.
 
 If a GitLab UI component is not available on HAML due to its intrinsic complexity, this is a sign that you should implement your feature using Vue instead.
 

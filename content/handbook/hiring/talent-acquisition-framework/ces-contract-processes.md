@@ -30,13 +30,13 @@ This chart reflects the available signatories for each of GitLab's entities. The
 | GitLab PTY Ltd, Australia | Jess Dallmar & Rob Allen. Backup: Craig Mestel|
 | GitLab PTY Ltd, New Zealand | Jess Dallman & Rob Allen. Backup: Craig Mestel|
 | GitLab Ireland LTD | Rob Allen & Pattie Egan. Backup: Craig Mestel|
-| GitLab UK Ltd | Rob Allen, Pattie Egan, Erin Mannix|
-| GitLab Canada Corp | Craig Mestel, Erin Mannix |
-| GitLab GK, Japan | Jess Dallmar, Rob Allen. Backups: Erin Mannix, Craig Mestel |
+| GitLab UK Ltd | Rob Allen, Pattie Egan|
+| GitLab Canada Corp | Craig Mestel, Simon Mundy |
+| GitLab GK, Japan | Jess Dallmar, Rob Allen. Backups: Simon Mundy, Craig Mestel |
 | GitLab IT BV | Rob Allen & Pattie Egan. Backup: Craig Mestel|
-| GitLab South Korea | Jess Dallmar & Rob Allen. Backup: Erin Mannix, Craig Mestel |
+| GitLab South Korea | Jess Dallmar & Rob Allen. Backup: Craig Mestel |
 | GitLab France S.A.S. | Rob Allen & Pattie Egan. Backup: Craig Mestel|
-| GitLab Singapore PTE. LTD. | Jess Dallmar & Rob Allen. Backup: Erin Mannix|
+| GitLab Singapore PTE. LTD. | Jess Dallmar & Rob Allen |
 | JCLs | Choose signatory from the list above. For the US, Morgan Wilkins can also sign. |
 | PEOs | The Candidate Experience Specialist processing the offer. For JCLs, choose Morgan Wilkins or Marissa Ferber |
 

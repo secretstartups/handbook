@@ -98,4 +98,4 @@ The full list of the work accomplished to support the migration can be found on 
 
 - [Working group kick off meeting](https://www.youtube.com/watch?v=TguakWdOPlw&feature=youtu.be)
 - [Defining Day-2 Operations - DZone Agile](https://dzone.com/articles/defining-day-2-operations)
-- [Scalability Team - GitLab](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/)
+- [Scalability Team - GitLab](/handbook/engineering/infrastructure/team/scalability/)

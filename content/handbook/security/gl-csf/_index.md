@@ -14,7 +14,7 @@ please comment in this
 Security is often being involved late in the life cycle of feature development. To prevent this,
 security is bundled into the [Software Development Lifecycle](https://about.gitlab.com/stages-devops-lifecycle/), in every
 stage of the workflow. Eventually, features are meant to reach production, but have to pass the
-[production readiness review](https://about.gitlab.com/handbook/engineering/infrastructure/production/readiness/) gate
+[production readiness review](/handbook/engineering/infrastructure/production/readiness/) gate
 first. In order to facilitate this process, the framework supports the engineering team all along
 the life cycle of the feature, to facilitate the creation of the required documentation and other
 artifacts.
@@ -40,7 +40,7 @@ and more precisely for changes in:
 
 1. The [GitLab Architecture](https://docs.gitlab.com/ee/development/architecture.html)
 1. The [GitLab.com
-   infrastructure](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/)
+   infrastructure](/handbook/engineering/infrastructure/production/architecture/)
 1. The [classification](/handbook/security/data-classification-standard.html) of
    the data being managed (stored, transferred, or updated)
 

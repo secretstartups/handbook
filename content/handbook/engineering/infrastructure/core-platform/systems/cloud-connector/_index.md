@@ -12,7 +12,7 @@ The Application Performance group's mission is to ensure that GitLab users, both
 
 Our team works to improve availability, reliability, and performance of the application. We analyze the behavior, recognize bottlenecks, and propose changes. We work to make GitLab a responsive and performant DevOps platform, which offers a great user experience at any scale.
 
-You can check our [direction page](/direction/cloud-connector/) for more information on our mission, and our short term and long term roadmap.
+You can check our [direction page](https://about.gitlab.com/direction/cloud-connector/) for more information on our mission, and our short term and long term roadmap.
 
 ## Team Members
 
@@ -49,7 +49,7 @@ We have three main boards for tracking our work (listed below).
 The Milestone board gives us a "big picture" view of issues planned in each milestone.
 
 [Cloud Connector: Build](https://gitlab.com/groups/gitlab-org/-/boards/2333522?label_name[]=cloud%20connector%3A%3Aactive&label_name[]=group%3A%3Acloud%20connector)
-The build board gives you an overview of the current state of work for `"group::cloud connector"`. These issues have already gone through validation and are on the [Product Development Build Track](https://about.gitlab.com/handbook/product-development-flow/#build-track). Issues are added to this board by adding the `cloud connector::active` and `"group::cloud connector"` labels. Issues in the `workflow::ready for development` column are ordered in priority order (top down). Team members use this column to select the next item to work on.
+The build board gives you an overview of the current state of work for `"group::cloud connector"`. These issues have already gone through validation and are on the [Product Development Build Track](/handbook/product-development-flow/#build-track). Issues are added to this board by adding the `cloud connector::active` and `"group::cloud connector"` labels. Issues in the `workflow::ready for development` column are ordered in priority order (top down). Team members use this column to select the next item to work on.
 
 [Cloud Connector: Validation](https://gitlab.com/groups/gitlab-org/-/boards/2334157?label_name[]=cloud%20connector%3A%3Avalidation&label_name[]=group%3A%3Acloud%20connector)
 The validation board is a queue for incoming issues for the Product Manager to review. A common scenario for the Cloud Connector group's validation board is when an issue is created that requires further definition before it can be prioritized. The issue typically states a big picture idea but is not yet detailed enough to take action. The Cloud Connector group will then go through a refinement process to break down the issue into actionable steps, create exit criteria and prioritize against ongoing efforts. If an issue becomes too large, it will be promoted to an epic and small sub-issues will be created.
@@ -82,4 +82,4 @@ The Cloud Connector group's [Roadmap](https://gitlab.com/groups/gitlab-org/-/roa
 
 ## Dashboards
 
-{{% cross-function-dashboard filters="cloud connector" %}}
+{{% cross-functional-dashboards filters="cloud connector" %}}
