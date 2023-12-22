@@ -1,14 +1,6 @@
 ---
-layout: handbook-page-toc
 title: "Journeys"
 ---
-
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Introduction
 
@@ -86,7 +78,7 @@ The focus is on **educating potential buyers about the problems they are facing,
 
 Users and buyers understand the problem they are trying to solve and the business impact/value of addressing the problem and are now actively seeking and evaluating potential remedies to their business issue. In this stage they are focused on identifying options that meet their specific requirements and needs.
 
-The focus is on **positioning GitLab as a viable and compelling solution to a potential buyer's specific problem**.  
+The focus is on **positioning GitLab as a viable and compelling solution to a potential buyer's specific problem**.
 
 #### Decision/Purchase (Later stage)
 
