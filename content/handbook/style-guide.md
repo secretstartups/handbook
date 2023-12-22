@@ -1,14 +1,6 @@
 ---
-layout: handbook-page-toc
 title: "Handbook Style Guide"
 ---
-
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Introduction
 
@@ -46,12 +38,7 @@ See [URL Guidelines](#url-guidelines) for more information about best practices 
 
 ### Link guidelines
 
-<!-- blank line -->
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/ZGqLlrnZXw0" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+{{< youtube "ZGqLlrnZXw0" >}}
 
 *In the [GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7QUX-Ux5fOunQotqJbECc) video above, GitLab's [Shane R.](https://gitlab.com/shanerice) explains the importance of cross-linking and re-using links on `about.gitlab.com` to build authority and contribute to a single source of truth.*
 
@@ -80,15 +67,15 @@ When you’re adding or editing links in the Handbook (or really, *anywhere* on 
 
 Absolute URLs are the ones that look like this:
 
-```
-https://about.gitlab.com/handbook/
+```text
+https://handbook.gitlab.com/handbook/
 ```
 
 With absolute URLs, links always load the *live* version of the site—even when run from a development, testing, or staging context. They're great for sharing URLs via Slack, issue and merge request comments, email, and social media. However, they are *not* good for same-site links.
 
 Document-relative URLs are the ones that look like this:
 
-```
+```text
 ../product/technical-writing/
 ```
 
@@ -96,7 +83,7 @@ With document-relative URLs, links can break when either a linking document or a
 
 Root-relative URLs, *the kind we prefer for use in the Handbook*, look like this:
 
-```
+```text
 /handbook/communication/
 ```
 
