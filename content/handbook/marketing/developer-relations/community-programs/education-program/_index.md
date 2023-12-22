@@ -253,7 +253,7 @@ The Education team uses Twitch as part of its broader community outreach strateg
 
 The following sections will detail common use cases as well as explaining best practices for Twitch here in the Education Program.
 
-### With blog posts
+### Evangeism with blog posts
 
 Content will either be published on the [GitLab Blog](https://about.gitlab.com/blog/), where all our blogposts include the `education-program` [postType](/handbook/marketing/blog/#post-type) in their [front matter](/handbook/marketing/blog/#frontmatter) for proper tracking.
 
@@ -293,7 +293,6 @@ The venue will provide details on shipping and handling for the booth assets.
 - Always use FedEx Express Saver.
 - Use the general FedEx GitLab Account. Do not use the field marketing account. 
 - Check the estimated shipping times in order to ensure the package arrives at the proper time. Note that many venues charge per day to hold packages and will only keep them for a set number of days. 
-### Pre conference
 
 Before the conference begins, create an issue in the Education project [Outreach](https://gitlab.com/gitlab-com/marketing/community-relations/community-programs/education-program/outreach/-/issues) titled `Name of Conference Location Date` and make it confidential. Assign attendees of the conference to the issue. Inside comments, create several comment threads including Flights, Hotel, Booth Assets, Swag, and any other planning threads as necessary. Use this issue for all planning related to the execution of the conference booth and/or talk or presentation. If there is no booth, still coordinate in the issue with threads relevant to whatever the team has planned for this event. 
 
@@ -371,7 +370,7 @@ All of our work is stored as issues in the [Education Program Group](https://git
 | `edu-student-community-initiative` | Issues related to building community directly with students |
 | `student-contributor` | for student contributions to GitLab |
 
-### Measuring our success
+## Measuring our success
 
 The GitLab for Education Team tracks our impressions on the [Education Program Impression Dashboard](https://datastudio.google.com/u/0/reporting/6160877c-c921-4554-965f-f7a7eb7c36cd/page/YsgmB). All outreach should be entered into the [Education Asset Inventory Google Sheet](https://docs.google.com/spreadsheets/d/1k1ci9BPEDDb_CxrR9-uQ_YQD_UXBMDeAU-KTpfQfHD4/edit#gid=0) in order to appear in the dashboard. Directions for entering each publication are in the `Read Me` tab of the spreadsheet.
 
@@ -385,6 +384,3 @@ Impressions are recorded at the end of each month and entered into the sheet:
 
 - **Twitter**: Each team member records the total number of Twitter Impressions (original content and retweets) from the Analytics Dashboard on Twitter for each month. If GitLab official tweets are reported upon, include these as well.
 - **LinkedIn**: Each team member records the total number of views of posts, articles, and documents for each month. If GitLab official posts are reported upon, include these as well.
-
-
-
