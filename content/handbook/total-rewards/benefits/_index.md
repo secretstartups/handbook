@@ -23,10 +23,10 @@ For any questions relating to benefits, please reach out to [Total Rewards](/han
 
 These principles will guide our benefit strategies and decisions.
 
-| **Strategy**              | **Guiding Principles** | 
-|--------------------------|:------------:|
-| Given Benefits vary by country, we do not offer the same benefits globally, instead we take a **country specific approach.** We will transparently outline why we do or do not offer benefits.         | - **CREDIT**: Collaboration, Results, Efficiency, Diversity, Inclusion & Belonging, Transparency            | 
-| Country specific appraoch based on **statutory requirements, entity status, headcount, and market practice**    | - Globally aligned benefits with **local relevance**         | 
+| **Strategy**  | **Guiding Principles** | 
+|----------|:----------:|
+| Given Benefits vary by country, we do not offer the same benefits globally, instead we take a **country specific approach.** We will transparently outline why we do or do not offer benefits.         | **CREDIT**: Collaboration, Results, Efficiency, Diversity, Inclusion & Belonging, Transparency            | 
+| Country specific appraoch based on **statutory requirements, entity status, headcount, and market practice**    | Globally aligned benefits with **local relevance**         | 
 | To provide **equitable programs** for team members within the **same country location** when possible. | Ensure **statutory programs** are in place in each country        | 
 | To continuously improve the **team member experience**                    | Provide **core** medical, life, and pension benefits either through supplementary or statutory plans     | 
 |          | Create new programs/enhancement with *broad reach, high value, and sustainability** |
@@ -64,7 +64,7 @@ These principles will guide our benefit strategies and decisions.
 
 We value opinions but ultimately Total Rewards/Leadership will make the decision based on expert advice and data.
 
-### Annual Global Benefit  Review Process
+## Annual Global Benefit  Review Process
 
 
 The Total Rewards team reviews GitLab’s global benefits on an annual basis and proposes changes for the next Fiscal Year. The Planning Process is as follows:
