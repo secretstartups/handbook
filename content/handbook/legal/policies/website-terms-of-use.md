@@ -1,6 +1,5 @@
 ---
 title: "GitLab Website Terms of Use"
-description: "These terms ..."
 ---
 
 Last updated: 28 April 2022
