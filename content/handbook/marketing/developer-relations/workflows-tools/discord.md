@@ -3,12 +3,6 @@
 title: "Community Discord workflow"
 ---
 
-
-
-
-
-
-
 # Overview
 The [GitLab Community Discord](https://discord.gg/gitlab) server is a place to connect with the wider GitLab community, join live streams and pair-coding sessions, share projects, and discuss contributions with other community members. Whether you're new to GitLab and looking for help getting started or an experienced user looking to share your knowledge with others, the server is a place to chat with the community in real-time.
 
@@ -71,7 +65,7 @@ Your message was removed for violating the following rule in our [GitLab Code of
 > (The rule violated)
 ```
 
-Moderators should also leave a note on the member's profile regarding the warning for docuemntation purposes. If this is not the community member's first offense, more serious action is recommended (e.g. Tier 2). 
+Moderators should also leave a note on the member's profile regarding the warning for documentation purposes. If this is not the community member's first offense, more serious action is recommended (e.g. Tier 2). 
 
 To review and add notes to member profile, moderators can use the following shortcuts to interact with Wick Bot: 
 
@@ -84,11 +78,11 @@ To review and add notes to member profile, moderators can use the following shor
 
 #### Tier 2 - Temporary Timeout
 
-If the message is a serious violation (e.g. hate speech, repeated spam) or a community member continues to break the rules after receiving an official warning, moderators should temporarily prevent them from interacting with the server via a timeout. The duration of the timeout can be adjusted based on the severity of the violation. Moderators are also encouraged to seek support from the rest of the moderator team if they need a second opinion. See [how to set a timeout for a user](https://support.discord.com/hc/en-us/articles/4413305239191-Time-Out-FAQ).
+If the message is a serious violation (e.g. repeated spam, trolling, political attacks) or a community member continues to break the rules after receiving an official warning, moderators should temporarily prevent them from interacting with the server via a timeout. The duration of the timeout can be adjusted based on the severity of the violation. Moderators are also encouraged to seek support from the rest of the moderator team if they need a second opinion. See [how to set a timeout for a user](https://support.discord.com/hc/en-us/articles/4413305239191-Time-Out-FAQ).
 
 #### Tier 3 - Ban
 
-If the message is a severe violation (e.g harassment, threats, inappropriate content) or if a member has repeatedly violated the rules and well-being of the community despite an official warning and/or temporary timeout, moderators should consider a ban and [raise a Code of Conduct issue](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/) to discuss the violation. It is not necessary to raise an issue for one-off violations, such as a spam. Use issues as a basis of documentation and discussion for more serious violations that may require follow-up or proof of decision making in case of escalation or a ban appeal from the user. 
+If the message is a severe violation (e.g hate speech, harrassment, threats, inappropriate content) or if a member has repeatedly violated the rules and well-being of the community despite an official warning and/or temporary timeout, moderators should consider a ban and [raise a Code of Conduct issue](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/) to discuss the violation. It is not necessary to raise an issue for one-off violations, such as a spam. Use issues as a basis of documentation and discussion for more serious violations that may require follow-up or proof of decision making in case of escalation or a ban appeal from the user. 
 
 ##### Ban Appeals process
 
