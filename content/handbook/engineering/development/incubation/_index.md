@@ -6,9 +6,9 @@ title: Incubation Engineering Department
 
 The Incubation Engineering Department within the Engineering Division focuses on projects that are pre-Product/Market fit. The projects they work on align with the term "new markets" from one of our [product investment types](https://internal.gitlab.com/handbook/product/investment/). They are ideas that may contribute to our revenue in 3-5 years time. Their focus should be to move fast, ship, get feedback, and [iterate](/handbook/values/#iteration). But first they've got to get from 0 to 1 and get something shipped.
 
-We utilize [Single-engineer Groups](/company/team/structure/#single-engineer-groups) to draw benefits, but not distractions, from within the larger company and [GitLab project](https://gitlab.com/gitlab-org/gitlab) to maintain that focus. The Single-engineer group encompasses all of product development (product management, engineering, design, and quality) at the smallest scale. They are free to learn from, and collaborate with, those larger departments at GitLab but not at the expense of slowing down unnecessarily.
+We utilize [Single-engineer Groups](/handbook/company/team/structure/#single-engineer-groups) to draw benefits, but not distractions, from within the larger company and [GitLab project](https://gitlab.com/gitlab-org/gitlab) to maintain that focus. The Single-engineer group encompasses all of product development (product management, engineering, design, and quality) at the smallest scale. They are free to learn from, and collaborate with, those larger departments at GitLab but not at the expense of slowing down unnecessarily.
 
-The Department Head is the [VP of Incubation Engineering](https://handbook.gitlab.com/job-families/engineering/development/incubation/management/vp/).
+The Department Head is the [VP of Incubation Engineering](/job-families/engineering/development/incubation/management/vp/).
 
 ### FY23 Direction
 
@@ -45,9 +45,9 @@ Reference:
 
 A new market in our product roadmap is a long-term bet to help us expand our Serviceable Addressable Market (SAM) over a 3-5 year time horizon.
 
-We look at areas that fit within our [company mission](https://about.gitlab.com/company/mission/) that we currently do not service and have one or more competitors that have validated the customer need.  Our criteria for entering these markets is that there is at least one competitor that is attaining over $100M annual recurring revenue, or at least 3 venture capital funded startups that have taken over $5M in funding.  We track our understanding of these markets via this [internal document](https://docs.google.com/document/d/17nD0Pko3Ff-ensiE0SUl3atxassZlC7pEpuIvzTy8Ek/edit?usp=sharing).
+We look at areas that fit within our [company mission](/handbook/company/mission/) that we currently do not service and have one or more competitors that have validated the customer need.  Our criteria for entering these markets is that there is at least one competitor that is attaining over $100M annual recurring revenue, or at least 3 venture capital funded startups that have taken over $5M in funding.  We track our understanding of these markets via this [internal document](https://docs.google.com/document/d/17nD0Pko3Ff-ensiE0SUl3atxassZlC7pEpuIvzTy8Ek/edit?usp=sharing).
 
-We also manage projects that may not fit the above definition, but are well suited to the [SEG](/company/team/structure/#single-engineer-groups) model that we use as they require a degree of experimentation with significant risk of failure. These are significant defensive roadmap items that are important to work on to maintain our market share and competitive advantage in an area, but we cannot yet justify funding a larger R&D effort.
+We also manage projects that may not fit the above definition, but are well suited to the [SEG](/handbook/company/team/structure/#single-engineer-groups) model that we use as they require a degree of experimentation with significant risk of failure. These are significant defensive roadmap items that are important to work on to maintain our market share and competitive advantage in an area, but we cannot yet justify funding a larger R&D effort.
 
 The Incubation Engineering Department is not suited to deliver regular roadmap items as they are typically smaller in effort, have less risk of failure, and have less scope for experimentation to determine product/user fit.
 
@@ -57,7 +57,7 @@ Key to the success of Incubation Engineering is the ability to iterate on ideas 
 
 Each project should be able to identify a vision and ship working code within the first month after inception, and then have regular monthly goals of continuing iteration and usage growth. SEGs that aren't well defined will require research to determine a direction. This research phase should include updates to the SEG handbook page, epics/issues, video update(s), and code where that makes sense. We should be aiming foremost for customer results, and not shipping features (even if they show usage) that don't demonstrate clear customer value.
 
-Each SEG page has a list of the targets and progress for each month, and these should also be demonstrated in a [monthly showcase](https://about.gitlab.com/handbook/engineering/development/incubation/#demonstrating-progress).
+Each SEG page has a list of the targets and progress for each month, and these should also be demonstrated in a [monthly showcase](/handbook/engineering/development/incubation/#demonstrating-progress).
 
 ## Current Focus
 
@@ -123,11 +123,11 @@ Each SEG page has a list of the targets and progress for each month, and these s
 
 ## Demonstrating Progress
 
-Our key focus is to ship software, we do this [Iteratively](https://about.gitlab.com/handbook/values/#iteration) and [Transparently](https://about.gitlab.com/handbook/values/#transparency) in an Agile way, concentrating on having something that works as soon as possible that we can build upon.
+Our key focus is to ship software, we do this [Iteratively](/handbook/values/#iteration) and [Transparently](/handbook/values/#transparency) in an Agile way, concentrating on having something that works as soon as possible that we can build upon.
 
-For each of our Investment areas, we aim to showcase our progress using the [Engineering Demo Process](https://about.gitlab.com/handbook/engineering/demos/).  On the tracking issue for each area, each SEG should provide a status update and a link to a video of the current functionality.  We should aim to develop a scorecard to help [grade](https://about.gitlab.com/handbook/product/ux/category-maturity/category-maturity-scorecards/#calculating-the-cm-scorecard-score) our progress against each of the key features we are trying to develop, and include this in the update.
+For each of our Investment areas, we aim to showcase our progress using the [Engineering Demo Process](/handbook/engineering/demos/).  On the tracking issue for each area, each SEG should provide a status update and a link to a video of the current functionality.  We should aim to develop a scorecard to help [grade](/handbook/product/ux/category-maturity/category-maturity-scorecards/#calculating-the-cm-scorecard-score) our progress against each of the key features we are trying to develop, and include this in the update.
 
-We do this in order to ensure alignment with impacted teams at GitLab, to provide opportunties for [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) from interested GitLab team members, community members, and users, and finally to demonstrate [Results](https://about.gitlab.com/handbook/values/#results).
+We do this in order to ensure alignment with impacted teams at GitLab, to provide opportunties for [Collaboration](/handbook/values/#collaboration) from interested GitLab team members, community members, and users, and finally to demonstrate [Results](/handbook/values/#results).
 
 ### Mid Month Update Video
 
@@ -165,17 +165,17 @@ When uploading a video to our YouTube channel, we should:
 
 ## OKRs
 
-The Incubation Engineering department commits to and tracks quarterly [Objectives and Key Results](https://about.gitlab.com/company/okrs/) (OKRs).
+The Incubation Engineering department commits to and tracks quarterly [Objectives and Key Results](/handbook/company/okrs/) (OKRs).
 
 See [the list of Incubation Engineering OKRs in GitLab](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?state=opened&label_name%5B%5D=Department%3A%3AIncubation%20Engineering).
 
 ## SEG Lifecycle
 
-When an SEG is ready to be handed off to a product development group or other team inside GitLab, there will necessarily be some handover required. Product development groups who are going to be taking over the SEG can accelerate their work by [borrowing](https://about.gitlab.com/handbook/product/product-processes/#borrow) the Incubation Engineer. This will allow full-time and continuous support for up to 3 milestones.
+When an SEG is ready to be handed off to a product development group or other team inside GitLab, there will necessarily be some handover required. Product development groups who are going to be taking over the SEG can accelerate their work by [borrowing](/handbook/product/product-processes/#borrow) the Incubation Engineer. This will allow full-time and continuous support for up to 3 milestones.
 
 ## Backlog
 
-We use the [RICE Framework](https://about.gitlab.com/handbook/product/product-processes/#using-the-rice-framework) for prioritization of ideas.
+We use the [RICE Framework](/handbook/product/product-processes/#using-the-rice-framework) for prioritization of ideas.
 
 <table id="objectives-table-bizops">
 <tr>
@@ -239,7 +239,7 @@ If you would like to propose a Single Engineer Group please reach to our [VP of 
 
 ## Key Performance Indicators
 
-Incubation Engineering [Key Performance Indicators](https://about.gitlab.com/handbook/engineering/development/incubation/performance-indicators/#incubation-engineering-department-mr-rate)
+Incubation Engineering [Key Performance Indicators](/handbook/engineering/development/incubation/performance-indicators/#incubation-engineering-department-mr-rate)
 
 ## Where to find us
 

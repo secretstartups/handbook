@@ -104,7 +104,7 @@ We meet bi-weekly synchronously to discuss stage and group wide topics. We prima
 ### Engineering Leadership - Backup Plans and Escalation
 
 
-The following table lists the Govern Stage management [backup plan](https://about.gitlab.com/handbook/engineering/management/#engineering-manager-backup).
+The following table lists the Govern Stage management [backup plan](/handbook/engineering/management/#engineering-manager-backup).
 
 | Team Member                                 | Covered by                                  | Escalation                               |
 |---------------------------------------------|---------------------------------------------|------------------------------------------|
@@ -227,7 +227,7 @@ Meetings have an agenda and are async-first, where the aim is to resolve discuss
 * Group [#g_govern_security_policies](https://gitlab.slack.com/archives/CU9V380HW)
 * Group [#g_govern_threat_insights](https://gitlab.slack.com/archives/CV09DAXEW)
 * Group [#g_govern_compliance](https://gitlab.slack.com/messages/CN7C8029H)
-* [Software Supply Chain Security working group](https://about.gitlab.com/company/team/structure/working-groups/software-supply-chain-security/)
+* [Software Supply Chain Security working group](/handbook/company/team/structure/working-groups/software-supply-chain-security/)
 
 ### Technical Documentation Links
 

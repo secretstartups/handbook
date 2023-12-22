@@ -25,13 +25,13 @@ description: "The Engineering Productivity team increases productivity of GitLab
 
 ## KPIs
 
-- [Master Pipeline Stability](https://about.gitlab.com/handbook/engineering/infrastructure-quality/performance-indicators/#master-pipeline-stability)
-- [Review app deployment success rate](https://about.gitlab.com/handbook/engineering/infrastructure-quality/performance-indicators/#review-app-deployment-success-rate)
-- [Time to First Failure (TtFF)](https://about.gitlab.com/handbook/engineering/infrastructure-quality/performance-indicators/#time-to-first-failure)
+- [Master Pipeline Stability](/handbook/engineering/infrastructure-quality/performance-indicators/#master-pipeline-stability)
+- [Review app deployment success rate](/handbook/engineering/infrastructure-quality/performance-indicators/#review-app-deployment-success-rate)
+- [Time to First Failure (TtFF)](/handbook/engineering/infrastructure-quality/performance-indicators/#time-to-first-failure)
 
 ## OKRs
 
-Objectives and Key Results (OKRs) help align our sub-department towards what really matters. These happen quarterly and are based on company OKRs. We follow the OKR process defined [here](/company/okrs/#okr-process-at-gitlab).
+Objectives and Key Results (OKRs) help align our sub-department towards what really matters. These happen quarterly and are based on company OKRs. We follow the OKR process defined [here](/handbook/company/okrs/#okr-process-at-gitlab).
 
 Here is an [overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&type%5B%5D=objective&label_name%5B%5D=Engineering%20Productivity&first_page_size=100) of our current OKRs.
 
@@ -45,7 +45,7 @@ Here is an [overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=c
 
 | Person | Role |
 | --- | --- |
-| {{< member-by-name "Greg Alfaro" >}} | [GDK Project Stable Counterpart](https://handbook.gitlab.com/handbook/engineering/quality/engineering-productivity/gdk/), Application Security |
+| {{< member-by-name "Greg Alfaro" >}} | [GDK Project Stable Counterpart](/handbook/engineering/quality/engineering-productivity/gdk/), Application Security |
 
 ### Structure
 
@@ -89,7 +89,7 @@ graph TD
 
 ### Office hours
 
-Engineering productivity has monthly office hours on the 3rd Wednesday of the month at 3:00 UTC (20:00 PST) on even months (e.g February, April, etc) open for anyone to add topics or questions to the [agenda](https://docs.google.com/document/d/1e1EXcOQl0y9ovtrnJfTKDi83QIwJ_UXMzCBsWVyY1_s/edit). Office hours can be found in the [GitLab Team Meetings calendar](https://about.gitlab.com/handbook/tools-and-tips/#gitlab-team-meetings-calendar)
+Engineering productivity has monthly office hours on the 3rd Wednesday of the month at 3:00 UTC (20:00 PST) on even months (e.g February, April, etc) open for anyone to add topics or questions to the [agenda](https://docs.google.com/document/d/1e1EXcOQl0y9ovtrnJfTKDi83QIwJ_UXMzCBsWVyY1_s/edit). Office hours can be found in the [GitLab Team Meetings calendar](/handbook/tools-and-tips/#gitlab-team-meetings-calendar)
 
 ### Workstream objectives
 
@@ -118,7 +118,7 @@ The Engineering Productivity team focuses on the following workstreams and the a
 * **Engineering support**: Participate in activities related to [Engineering MR Rate](/handbook/engineering/performance-indicators/#engineering-mr-rate) and [Quality KPIs](/handbook/engineering/quality/performance-indicators/).
   * [`#master-broken`](/handbook/engineering/workflow/#broken-master) pipeline monitoring.
   * KPI corrective actions such as [Review Apps stabilization](/handbook/engineering/quality/performance-indicators/#review-app-deployment-success-rate-for-gitlab).
-  * [Merge Request Coach](https://handbook.gitlab.com/job-families/expert/merge-request-coach/) for ~"Community contribution" merge requests.
+  * [Merge Request Coach](/job-families/expert/merge-request-coach/) for ~"Community contribution" merge requests.
 * **Engineering workflow**: Develop automated processes for improving label classification hygiene in support of product and Engineering workflows.
   * [Automated issues and merge requests triage](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/).
   * Improvements to the labelling classification and automation used to support Engineering measurements.
@@ -146,7 +146,7 @@ The Engineering Productivity team has diverse responsibilities and reactive work
 
 ### Weighting
 
-We follow the [department weighting guidelines](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/#weights) to relatively weight issues over time to understand a milestone velocity and increase predictability.
+We follow the [department weighting guidelines](/handbook/engineering/infrastructure/test-platform/#weights) to relatively weight issues over time to understand a milestone velocity and increase predictability.
 
 When weighting, think about knowns and complexity related to recently completed work. The goal with weighting is to allow for some estimation ambiguity that allows for a consistent predictable flow of work each milestone.
 
@@ -171,14 +171,14 @@ The Engineering Productivity team recently reviewed (2023-05-19) all our project
 | Project | Domain Knowledge | Documentation |
 | ------- | ------------------------------------------ | ----- |
 | GitLab CI Pipeline configuration optimization and stability | Jen-Shin, David, Nao | [Pipelines for the GitLab project](https://docs.gitlab.com/ee/development/pipelines/index.html) |
-| Triaging master-broken | Jenn, Nao, Alina | [Broken Master](https://about.gitlab.com/handbook/engineering/workflow/#broken-master) |
+| Triaging master-broken | Jenn, Nao, Alina | [Broken Master](/handbook/engineering/workflow/#broken-master) |
 | GitLab Development Kit (GDK) continued development | Ash, Nao | [GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit/) |
 | Triage operations for issues, merge requests, community contributions | Jenn, Alina | [triage-ops](https://gitlab.com/gitlab-org/quality/triage-ops/) |
 | Review Apps | David |  [Using review apps in the development of GitLab](https://docs.gitlab.com/ee/development/testing_guide/review_apps.html) |
 | Triage engine, used by GitLab triage operations | ??? | [GitLab Triage](https://gitlab.com/gitlab-org/ruby/gems/gitlab-triage/) |
 | Dangerfiles for shared Danger rules and plugins | ??? | [`gitLab-dangerfiles` Ruby gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-dangerfiles) for shared [Danger](https://docs.gitlab.com/ee/development/dangerbot.html#danger-bot) rules and plugins |
-| JiHu | Jen-Shin | [JiHu Support](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/jihu-support/) |
-| Development department metrics for measurements of Quality and Productivity | ??? | [Development Department Performance Indicators](https://about.gitlab.com/handbook/engineering/development/performance-indicators/) |
+| JiHu | Jen-Shin | [JiHu Support](/handbook/ceo/chief-of-staff-team/jihu-support/) |
+| Development department metrics for measurements of Quality and Productivity | ??? | [Development Department Performance Indicators](/handbook/engineering/development/performance-indicators/) |
 | RSpec Profiling Statistics for profiling information on RSpec tests in CI | Alina | [rspec_profiling_stats](https://gitlab.com/gitlab-org/rspec_profiling_stats) |
 | Styles for shared RuboCop cops | ??? | [`gitLab-styles` Ruby gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles) for shared [RuboCop cops](https://docs.gitlab.com/ee/development/contributing/style_guides.html#ruby-rails-rspec) |
 | Feature flag alert for reporting on GitLab feature flags | ??? | [GitLab feature flag alert](https://gitlab.com/gitlab-org/gitlab-feature-flag-alert) |
@@ -242,7 +242,7 @@ than 50 notifications or change policies that a large stakeholder group use (e.g
 
 Communicating progress is important but status doesn't belong in one on ones as it can be more appropriately communicated with a broader audience using other methods. The "standup" model used by a lot of organizations practicing scrum assumes a certain time of day for those to happen. In the context of a timezone distributed team, there is no "9am" that the team shares. Additionally, the act of losing and gaining context after completing work for the day only to gain it again to share a status update is context switching. The intended audience of the standup model assumes that it's just the team but in GitLab's model, that means folks need to be aware of where this is being communicated (slack, issues, other). Since this information isn't available to the intended audience, the information needs to be duplicated which at worst means there's no single source of truth and at a minimum means copy pasting information.
 
-The proposal is to trial using an Asynchronous Issue Update model, similar to [what the Package Group uses](https://about.gitlab.com/handbook/engineering/development/ops/package/#async-issue-updates). This process would replace the existing daily standup update we post in Slack with `Geekbot`. The time period for the trial would be a milestone or two, depending on feedback cycles.
+The proposal is to trial using an Asynchronous Issue Update model, similar to [what the Package Group uses](/handbook/engineering/development/ops/package/#async-issue-updates). This process would replace the existing daily standup update we post in Slack with `Geekbot`. The time period for the trial would be a milestone or two, depending on feedback cycles.
 
 The async daily update communicates the progress and confidence using an issue comment and the milestone health status using the Health Status field in the issue. A daily update may be skipped if there was no progress. Merge requests that do not have a related issue should be updated directly. It's preferable to update the issue rather than the related merge requests, as those do not provide a view of the overall progress. Where there are blockers or you need support, Slack is the preferred space to ask for that. Being blocked or needing support are more urgent than email notifications allow.
 

@@ -6,10 +6,10 @@ description: "The GitLab team page for the Pipeline Execution Group."
 ## Vision
 
 For an understanding of what this team is going to be working on take a look at [the product
-vision](/direction/verify/). This team is responsible for delivering on the following directions:
+vision](https://about.gitlab.com/direction/verify/). This team is responsible for delivering on the following directions:
 
-- [Continuous Integration](/direction/verify/continuous_integration/)
-- [Merge Trains](/direction/verify/merge_trains/)
+- [Continuous Integration](https://about.gitlab.com/direction/verify/continuous_integration/)
+- [Merge Trains](https://about.gitlab.com/direction/verify/merge_trains/)
 
 ## Mission
 
@@ -114,10 +114,10 @@ classDiagram
 
 Not included in the Pipeline Execution group's domain:
 
-- Secrets Management, see the [direction page](/direction/release/secrets_management/)
-- Pipeline Authoring, see the [direction page](/direction/verify/pipeline_authoring/)
-- Compliance in Pipelines, see the [direction page](/direction/govern/compliance/compliance-management/)
-- [Job artifacts: storage and management of artifacts is the gateway for many CI/CD features](/direction/verify/build_artifacts/)
+- Secrets Management, see the [direction page](https://about.gitlab.com/direction/release/secrets_management/)
+- Pipeline Authoring, see the [direction page](https://about.gitlab.com/direction/verify/pipeline_authoring/)
+- Compliance in Pipelines, see the [direction page](https://about.gitlab.com/direction/govern/compliance/compliance-management/)
+- [Job artifacts: storage and management of artifacts is the gateway for many CI/CD features](https://about.gitlab.com/direction/verify/build_artifacts/)
 
 ## Technical Roadmap
 
@@ -356,7 +356,7 @@ Our planning timeline follows the [GitLab Product Development timeline](/handboo
 - By one week after each monthly release:
   - Engineers have completed refining the assigned `Verify::P*` issues and move them to `workflow::ready for development` and removing the `needs weight` label. Tagging in the PM and EM for visibility.
 
-**Note:** The EM and PM may need to modify the team commitments and schedule work for the upcoming milestone as we focus on [Customer Results](https://about.gitlab.com/handbook/values/#results) over what we plan.
+**Note:** The EM and PM may need to modify the team commitments and schedule work for the upcoming milestone as we focus on [Customer Results](/handbook/values/#results) over what we plan.
 
 #### How Engineering Refines Issues
 
@@ -593,8 +593,8 @@ The Pipeline Execution group supports the product marketing categories described
 
 | Label                 | |  | | |
 | ----------------------| -------| ----|------------| ---|
-| `Category:Continuous Integration` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3AContinuous%20Integration) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3AContinuous%20Integration) | [Direction](/direction/verify/continuous_integration/) | [Documentation](https://docs.gitlab.com/ee/ci/) |
-| `Category:Merge Trains` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3AMerge%20Trains) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3AMerge%20Trains) | [Direction](/direction/verify/merge_trains/) | [Documentation](https://docs.gitlab.com/ee/ci/pipelines/merge_trains.html) |
+| `Category:Continuous Integration` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3AContinuous%20Integration) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3AContinuous%20Integration) | [Direction](https://about.gitlab.com/direction/verify/continuous_integration/) | [Documentation](https://docs.gitlab.com/ee/ci/) |
+| `Category:Merge Trains` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3AMerge%20Trains) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3AMerge%20Trains) | [Direction](https://about.gitlab.com/direction/verify/merge_trains/) | [Documentation](https://docs.gitlab.com/ee/ci/pipelines/merge_trains.html) |
 
 #### Feature Labels
 

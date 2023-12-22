@@ -24,7 +24,7 @@ description: "Test Platform Sub-Department"
 
 ## FY23 Direction
 
-In FY23 we will be focused on innovative test architecture, efficiency, and customer results while delivering impact to the company's bottomline via alignment to the [top cross-functional initiatives](https://about.gitlab.com/company/team/structure/working-groups/#top-cross-functional-initiatives). Key directional highlights: broaden our lead in ensuring self-managed excellence, improve deployment confidence, drive visibility and actionability of test results, and expand our Quality Architecture focus. In FY23 we anticipate continued momentum on enabling development and deployment at scale and it's more important than ever for us to deliver results.
+In FY23 we will be focused on innovative test architecture, efficiency, and customer results while delivering impact to the company's bottomline via alignment to the [top cross-functional initiatives](/handbook/company/team/structure/working-groups/#top-cross-functional-initiatives). Key directional highlights: broaden our lead in ensuring self-managed excellence, improve deployment confidence, drive visibility and actionability of test results, and expand our Quality Architecture focus. In FY23 we anticipate continued momentum on enabling development and deployment at scale and it's more important than ever for us to deliver results.
 
 ### Self-Managed Excellence
 
@@ -68,7 +68,7 @@ Test Platform has been key to supporting prospect POVs and providing prompt, kno
 
 ## OKRs
 
-Objectives and Key Results (OKRs) help align our sub-department towards what really matters. These happen quarterly and are based on company OKRs. We follow the OKR process defined [here](/company/okrs/#okr-process-at-gitlab).
+Objectives and Key Results (OKRs) help align our sub-department towards what really matters. These happen quarterly and are based on company OKRs. We follow the OKR process defined [here](/handbook/company/okrs/#okr-process-at-gitlab).
 
 ### Active Quarter OKRs
 
@@ -181,7 +181,7 @@ For more information, please visit our [quad planning page](quad-planning).
 
 ### Borrow Request for SETs
 
-A [borrow](https://about.gitlab.com/handbook/product/product-processes/#borrow) is used when a team member is shifted from one team to another temporarily or assists other teams part-time for an agreed-upon period of time.
+A [borrow](/handbook/product/product-processes/#borrow) is used when a team member is shifted from one team to another temporarily or assists other teams part-time for an agreed-upon period of time.
 Currently, we do not have an SET embedded within every product group, hence for product groups with no SET counterpart, the following would be the process to request one:
 
 1. Create a [borrow request issue](https://gitlab.com/gitlab-com/Product/-/issues/new?issuable_template=Borrow-Request-Lite) with `~SET Borrow` label.

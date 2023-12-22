@@ -28,10 +28,10 @@ The following teams comprise the Ops sub-department:
 
 Teams in the Ops Sub-Department map to several Product Sections.  Product direction can be found on the following direction pages:
 
-* [CI Section Direction](/direction/ci)
-* [CD Section Direction](/direction/cd)
+* [CI Section Direction](https://about.gitlab.com/direction/ci)
+* [CD Section Direction](https://about.gitlab.com/direction/cd)
 * [Observability Direction](direction/analytics/observability/)
-* [Service Management Direction](/direction/service_management/service_desk)
+* [Service Management Direction](https://about.gitlab.com/direction/service_management/service_desk)
 
 ## Slack channels
 
@@ -45,7 +45,7 @@ Teams in the Ops Sub-Department map to several Product Sections.  Product direct
 
 ### Zoom Recordings synced to Google Drive
 
-GitLab encourages transparency by default, and when meetings are recorded, they can be automatically synced to Google Drive as highlighted in [the section about how we conduct video calls at GitLab](https://about.gitlab.com/handbook/communication/#video-calls). To summarize:
+GitLab encourages transparency by default, and when meetings are recorded, they can be automatically synced to Google Drive as highlighted in [the section about how we conduct video calls at GitLab](/handbook/communication/#video-calls). To summarize:
 1. Record meetings to the cloud in Zoom, and add the text [REC] anywhere in the meeting title (e.g. Google calendar event)
 1. It will automatically be added to the [GitLab Videos Recorded folder](https://drive.google.com/drive/folders/0APOeuCQrsm4KUk9PVA) on Google Drive, with a naming convention of `youremail-Meeting Title`.
 1. After a meeting ends, Zoom may take some time to process the recording before it is actually available. The sync to Google Drive happens on the hour mark, so if the recording is not available, it may take another hour to be transferred.
@@ -104,7 +104,7 @@ Planning processes followed by teams in the Sub-department:
 
 ### Forced Priority planning/scheduling
 
-Our [prioritization framework](/handbook/product/product-processes/#prioritization-framework) describes a number of [Forced Priority](https://about.gitlab.com/handbook/product/product-processes/#forced-prioritization) labels that present a high risk to our customers and our business. As such, it's critical that we complete this work within the appropriate SLO/SLAs where possible. An example of this are security issues, here's a dashboard for past due and soon to be due security issues: https://app.periscopedata.com/app/gitlab/913607/Past-Due-Security-Issues-Development
+Our [prioritization framework](/handbook/product/product-processes/#prioritization-framework) describes a number of [Forced Priority](/handbook/product/product-processes/#forced-prioritization) labels that present a high risk to our customers and our business. As such, it's critical that we complete this work within the appropriate SLO/SLAs where possible. An example of this are security issues, here's a dashboard for past due and soon to be due security issues: https://app.periscopedata.com/app/gitlab/913607/Past-Due-Security-Issues-Development
 
 With this in mind, here's a process that groups are encouraged to use and iterate on in the event that they don't have an existing approach or are falling behind on SLA/SLOs.
 
@@ -164,8 +164,8 @@ We have limited capacity in the recruiting team so hiring managers are experimen
 
 ### Creating OKRs
 
-- Target a 70% completion rate for OKRs so that we are setting goals ambitiously. They should be challenging enough that [accomplishing 100% is a stretch goal,since GitLab considers OKRs to be stretch goals by default](https://about.gitlab.com/company/okrs/#okrs-are-stretch-goals-by-default).
-- If your OKRs are associated with any specific types of issues, consider reviewing the [prioritization framework](https://about.gitlab.com/handbook/product/product-processes/#prioritization), and align with your team on your OKRs priority relative to one another (for example, OKRs with issues with "forced prioritization") and be clear on planning of the associated work over the quarter.
+- Target a 70% completion rate for OKRs so that we are setting goals ambitiously. They should be challenging enough that [accomplishing 100% is a stretch goal,since GitLab considers OKRs to be stretch goals by default](/handbook/company/okrs/#okrs-are-stretch-goals-by-default).
+- If your OKRs are associated with any specific types of issues, consider reviewing the [prioritization framework](/handbook/product/product-processes/#prioritization), and align with your team on your OKRs priority relative to one another (for example, OKRs with issues with "forced prioritization") and be clear on planning of the associated work over the quarter.
 - Ensure Key Results (KRs) are measurable, by specifying a number (% or unit) as the target. Be clear on the starting number, and the expected end result (e.g. `from x to y`).
 - Ideally create no more than 9 KRs per quarter, ideally with approximately 3 KR per objective.
 
@@ -343,7 +343,7 @@ The content of these updates varies by individual and role:
 
 We are piloting a process to make coordinating with the Support team on customer escalations more efficient.
 
-See [How to Use GitLab.com to Formally Request Help from the GitLab Ops Development Team](https://about.gitlab.com/handbook/support/workflows/how-to-get-help.html#how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-ops-development-team) for process details.
+See [How to Use GitLab.com to Formally Request Help from the GitLab Ops Development Team](/handbook/support/workflows/how-to-get-help.html#how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-ops-development-team) for process details.
 
 If you encounter an Ops-related customer escalation, that seems to have a high
 [customer priority](/handbook/product/product-processes/customer-issues-prioritization-framework/#priority-points),
@@ -355,5 +355,5 @@ and would benefit from additional visibility, please post a link with a short de
 When teams are asked to triage support requests for customers on GitLab Dedicated and engineers need access to their logs, a sync can be arranged between the engineer and the assigned Support Engineer for a screensharing session.
 However, when further troubleshooting is needed by the engineering team or async collaboration is preferred, follow these steps to request access:
 1. Create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) (AR) and list the engineers who require access.  (Note that EMs can create this issue and provide `Manager Approval` on behalf of the engineers)
-1. Assign the AR to the EM and PM of the [Dedicated group](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/) for _read-only_ log access.
+1. Assign the AR to the EM and PM of the [Dedicated group](/handbook/engineering/infrastructure/team/gitlab-dedicated/) for _read-only_ log access.
 1. Reference the AR issue in the support tracker issue so that the Support Engineer is aware.

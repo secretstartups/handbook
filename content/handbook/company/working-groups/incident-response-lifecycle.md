@@ -49,7 +49,7 @@ description: "The Incident Response Lifecyle working group is intended to docume
    - [GitLab SIRT On-Call Guide]({{< ref "secops-oncall" >}})
 1. [On-call](/handbook/on-call/)
 1. Reliability
-   - [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/)
+   - [Incident Management](/handbook/engineering/infrastructure/incident-management/)
 1. Support
    - [How to Perform CMOC Duties](/handbook/support/workflows/cmoc_workflows.html)
    - [Contacting Customers](/handbook/support/internal-support/#contacting-customers-via-tickets)

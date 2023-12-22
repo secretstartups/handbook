@@ -34,7 +34,7 @@ of GitLab Runner, allowing it to heavily use Docker.
 * [GitLab.com account](https://gitlab.com/ayufan)
 * [dev.gitlab.org account](https://dev.gitlab.org/kamil)
 * [ops.gitlab.net account](https://ops.gitlab.net/kamil)
-* [Team page](/company/team/#kamil)
+* [Team page](/handbook/company/team/#kamil)
 
 ## What I do focus
 

@@ -46,7 +46,7 @@ The first thing to do is to familiarize yourself with the following handbook pag
 * [Product Manager Responsibilities](/handbook/product/product-manager-responsibilities/)
 * [Product Manager Career Development Framework](/handbook/product/product-manager-role/product-CDF-competencies/)
 * [Product Development Flow](/handbook/product-development-flow/)
-* [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
+* [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline)
 * [Product Management Learning & Development](/handbook/product/product-manager-role/learning-and-development/)
 * [GitLab Values](/handbook/values/)
 
@@ -100,7 +100,7 @@ _[Source File](https://docs.google.com/spreadsheets/d/19gAgPJVdXfBpXiFOlT1WqZLJB
 
 **4th of the Month:**
 
-Draft of the issues that will be included in the [next release](https://about.gitlab.com/handbook/engineering/releases/).
+Draft of the issues that will be included in the [next release](/handbook/engineering/releases/).
 Start capacity and technical discussions with engineering/UX.
 
 **12th of the Month:**
@@ -112,7 +112,7 @@ Kickoff document is updated with relevant items to be included.
 
 Group Kickoffs calls recorded and uploaded by the end of the day.
 
-Also see [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline).
+Also see [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline).
 
 ### Scope of responsibilities
 
@@ -126,7 +126,7 @@ projects:
 - version.gitlab.com
 - license.gitlab.com
 
-This includes the entire stack and all its facets. The product team needs to weigh and prioritize not only bugs, features, regressions, and performance, but also architectural changes and other aspects required for ensuring GitLab's excellence. Product managers are the [DRIs](/handbook/people-group/directly-responsible-individuals/) for overall work prioritization but work collaboratively with their EM, UX, and QEM stable counterparts to ensure the right priorities from each [work type](https://about.gitlab.com/handbook/engineering/metrics/#work-type-classification) are considered as [each has a different DRI](/handbook/product/product-processes#prioritization-for-feature-maintenance-and-bugs).
+This includes the entire stack and all its facets. The product team needs to weigh and prioritize not only bugs, features, regressions, and performance, but also architectural changes and other aspects required for ensuring GitLab's excellence. Product managers are the [DRIs](/handbook/people-group/directly-responsible-individuals/) for overall work prioritization but work collaboratively with their EM, UX, and QEM stable counterparts to ensure the right priorities from each [work type](/handbook/engineering/metrics/#work-type-classification) are considered as [each has a different DRI](/handbook/product/product-processes#prioritization-for-feature-maintenance-and-bugs).
 
 ## Learning and Development for Product Management
 

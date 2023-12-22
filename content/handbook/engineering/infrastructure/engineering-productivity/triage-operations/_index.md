@@ -339,7 +339,7 @@ graph LR
 * Automation conditions:
   - MR was opened
   - The MR is opened in a project under the `gitlab-org` group or for the `gitlab-com/www-gitlab-com` project, and its
-    author is not present in the [team page](https://about.gitlab.com/company/team/)
+    author is not present in the [team page](/handbook/company/team/)
 * Automation actions:
   - Posts a "Thank you" note
   - Adds the `Community contribution` and `workflow::in dev` labels
@@ -487,7 +487,7 @@ graph LR
   - MR not currently labelled as `Spam`
   - MR content matches phrases associated with inappropriate and abusive activity (More information can be found in the Processor implementation)
 * Automation actions:
-  - Posts a note linking to [GitLab Website Terms of Use](https://about.gitlab.com/handbook/legal/policies/website-terms-of-use/)
+  - Posts a note linking to [GitLab Website Terms of Use](/handbook/legal/policies/website-terms-of-use/)
   - Relabels (removes all other labels) as `Spam`
   - Closes the MR
 * Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/detect_and_flag_spam.rb>
@@ -807,7 +807,7 @@ Type labels ensure that issues are present in the [group triage report](#group-l
 
 #### Bug SLO Warning
 
-Bugs have a severity label that indicates the [SLO for a fix](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity). This automated policy aims to prompt managers about bugs in their group that are approaching the SLO threshold
+Bugs have a severity label that indicates the [SLO for a fix](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity). This automated policy aims to prompt managers about bugs in their group that are approaching the SLO threshold
 
 * Automation conditions:
   - Open issue labelled `~"type::bug"` and has a `~severity::1` or `~severity::2`
@@ -819,7 +819,7 @@ Bugs have a severity label that indicates the [SLO for a fix](https://about.gitl
 
 #### Reminder on ~infradev issues to set severity label, priority label, and milestone
 
-Issues with the ~infradev label should have a [severity label](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity), a [priority label](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority), and a milestone set. This automated policy aims to prompt managers about such issues missing one of these attributes.
+Issues with the ~infradev label should have a [severity label](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity), a [priority label](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority), and a milestone set. This automated policy aims to prompt managers about such issues missing one of these attributes.
 
 * Automation conditions:
   - Open issue labelled `~infradev` and has no severity label, or no priority label, or no milestone set

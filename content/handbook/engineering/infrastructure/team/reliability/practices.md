@@ -5,9 +5,9 @@ title: "Reliability:Practices Team"
 
 ## Mission
 
-The Practices team is a subgroup of the [Reliability Team](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/).
+The Practices team is a subgroup of the [Reliability Team](/handbook/engineering/infrastructure/team/reliability/).
 
-Our mission is to ensure the reliability, performance, and availability of GitLab.com by partnering with [Stage Groups](https://about.gitlab.com/handbook/product/categories/) to ensure that features and services are designed and implemented with reliability in mind. The team collaborates with Stage groups to build, maintain, and improve services and ensure the services' [SLO](https://about.gitlab.com/handbook/engineering/error-budgets/error-budget-by-stage-group-example.html#sli-slo-sla) is met as per GitLab.com's [availability](/handbook/engineering/infrastructure/performance-indicators/#gitlabcom-availability)
+Our mission is to ensure the reliability, performance, and availability of GitLab.com by partnering with [Stage Groups](/handbook/product/categories/) to ensure that features and services are designed and implemented with reliability in mind. The team collaborates with Stage groups to build, maintain, and improve services and ensure the services' [SLO](/handbook/engineering/error-budgets/error-budget-by-stage-group-example.html#sli-slo-sla) is met as per GitLab.com's [availability](/handbook/engineering/infrastructure/performance-indicators/#gitlabcom-availability)
 and [performance](/handbook/engineering/infrastructure/performance-indicators/#gitlab-com-performance) goals.
 
 ## Team Members
@@ -64,16 +64,16 @@ Currently, Practices team supports Infrastructure Reliability related to the bel
 
 ## Scope of Work
 
-Requests not in the scope below should refer to Reliability team's defined [General Workflow](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#how-we-work--general-workflow) for prioritization and assignment.
+Requests not in the scope below should refer to Reliability team's defined [General Workflow](/handbook/engineering/infrastructure/team/reliability/#how-we-work--general-workflow) for prioritization and assignment.
 
 - Stage groups' Infrastructure setup and/or migration work.
-- [Feature Change Lock](https://about.gitlab.com/handbook/engineering/#feature-change-locks) (FCL) related work requiring to pair with the Reliability team
-- Reliability improvements driven by [Error budget spend](https://about.gitlab.com/handbook/engineering/error-budgets/#error-budget-improvements) and requiring pairing between stage groups and reliability team
+- [Feature Change Lock](/handbook/engineering/#feature-change-locks) (FCL) related work requiring to pair with the Reliability team
+- Reliability improvements driven by [Error budget spend](/handbook/engineering/error-budgets/#error-budget-improvements) and requiring pairing between stage groups and reliability team
 - Enabling ownership or self-service for stage groups on specific components, e.g empowering a stage group to understand their monitoring or managing access for troubleshooting
 - Support Service related incidents on Incident RCAs, SLI/SLO iteration, Corrective Actions
 - Develop standards, best practices and technical documentation for reliabile services
 - Technical knowledge sharing and documentation through runbooks, design documents etc
-- Work with stage groups to increase service maturity as per the defined [Service Maturity Model](https://about.gitlab.com/handbook/engineering/infrastructure/service-maturity-model/)
+- Work with stage groups to increase service maturity as per the defined [Service Maturity Model](/handbook/engineering/infrastructure/service-maturity-model/)
 - Examples:
    - [CustomerDot migration from Azure to GCP](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/626)
    - [Gitaly Cgroups](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/344)
@@ -84,17 +84,17 @@ The Practices team is not there to reduce the stage team's backlog but to collab
 
 The above scope of work might imply some overlap with other teams' functions such as:
 
-- Capacity planning owned by [Scalability team](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/)
+- Capacity planning owned by [Scalability team](/handbook/engineering/infrastructure/team/scalability/)
 - Observability and Monitoring owned by Reliability:Observability
-- Incident Management owned by overall Reliability team. Currently, in cases of overlaps and doubts, follow the [General Workflow](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#how-we-work--general-workflow) or check-in with the respective Reliability, Engineering manager.
+- Incident Management owned by overall Reliability team. Currently, in cases of overlaps and doubts, follow the [General Workflow](/handbook/engineering/infrastructure/team/reliability/#how-we-work--general-workflow) or check-in with the respective Reliability, Engineering manager.
 
 ## OKRs
 
-We use quarterly [Objectives and Key Results](https://about.gitlab.com/company/okrs/) to plan and measure our Key Performance Indicators (KPIs).
+We use quarterly [Objectives and Key Results](/handbook/company/okrs/) to plan and measure our Key Performance Indicators (KPIs).
 
 ## Performance indicators
 
-We measure the value we contribute by using [performance indicator metrics](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#key-performance-indicators).
+We measure the value we contribute by using [performance indicator metrics](/handbook/engineering/infrastructure/performance-indicators/#key-performance-indicators).
 
 In addition to the Infrastructure Department's KPIs for [availability](/handbook/engineering/infrastructure/performance-indicators/#gitlabcom-availability)
 and [performance](/handbook/engineering/infrastructure/performance-indicators/#gitlab-com-performance) of GitLab.com, the Practices team tracks the following;
@@ -102,13 +102,13 @@ and [performance](/handbook/engineering/infrastructure/performance-indicators/#g
 - Service's Pager load
 - Improvements of service SLOs
 - Introduction of better SLIs for services to define customer happiness
-- Improve the [Service Maturity level](https://about.gitlab.com/handbook/engineering/infrastructure/service-maturity-model/).
+- Improve the [Service Maturity level](/handbook/engineering/infrastructure/service-maturity-model/).
 
 The Practices team does not necessarily own the above KPIs and metrics but rather facilitate and support them to ensure reliable services and components.
 
 ## Technical skills
 
-- The technical skill required for Practices team is as defined in our [Engineering Infrastructure roles](https://handbook.gitlab.com/job-families/engineering/infrastructure/) for [Site Reliability Engineer](https://handbook.gitlab.com/job-families/engineering/infrastructure/site-reliability-engineer/)
+- The technical skill required for Practices team is as defined in our [Engineering Infrastructure roles](/job-families/engineering/infrastructure/) for [Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)
 - Able to contribute upstream to the respective product/stage group.
 - Strong knowledge of SLI/SLO in general and how they work at GitLab.
 
@@ -225,7 +225,7 @@ A daily update may be skipped if there was no progress.
 
 #### Epic weekly updates
 
-A weekly async update should be added to epics related to quarter goals and to epics actively being worked on as per the format in [Project Epic template](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/projects.html#project-epic-template)
+A weekly async update should be added to epics related to quarter goals and to epics actively being worked on as per the format in [Project Epic template](/handbook/engineering/infrastructure/team/reliability/projects.html#project-epic-template)
 The update should provide an overview of the progress across the work in progress. Consider adding an update if epic is blocked, if there are competing priorities, and even when not in progress.
 
 ### Roadmap

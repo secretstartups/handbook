@@ -43,8 +43,8 @@ Deployment SLO measures the deployment frequency and duration by tracking
 the percentage of deployment pipelines that complete within the target duration.
 Deployment duration is measured as the elapsed time between a starting on staging canary (`gstg-cny`)
 through the completion of the deployment on Production (`gprd`).
-Visit the [Releases page](https://about.gitlab.com/handbook/engineering/releases/) for an
-end-to-end overview of the various environments and [deployment process](https://about.gitlab.com/handbook/engineering/releases/#gitlabcom-deployments-process).
+Visit the [Releases page](/handbook/engineering/releases/) for an
+end-to-end overview of the various environments and [deployment process](/handbook/engineering/releases/#gitlabcom-deployments-process).
 
 ![Deployment SLO apdex](https://gitlab.com/api/v4/projects/430285/jobs/artifacts/master/raw/deployment-slo-apdex.png?job=refresh-delivery-slo-apdex-graph)
 

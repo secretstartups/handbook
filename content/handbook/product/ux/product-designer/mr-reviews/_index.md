@@ -52,11 +52,11 @@ For general guidance for teams without a designer, see [Product Processes](/hand
 
 ## Workload and response times
 
-MR review requests are the [number one priority for Product Designers](/handbook/product/ux/product-designer/#priorities). Respond to them per our [review-response Service-Level Objective](https://about.gitlab.com/handbook/engineering/workflow/code-review/#review-response-slo).
+MR review requests are the [number one priority for Product Designers](/handbook/product/ux/product-designer/#priorities). Respond to them per our [review-response Service-Level Objective](/handbook/engineering/workflow/code-review/#review-response-slo).
 
 Balancing MR reviews with other priorities is a challenge, as they can be unpredictable. To avoid disruptions and context-switching, we suggest you block some time every day to review MRs (for example, 30 minutes or 1 hour per day).
 
-If you're struggling with MR reviews, remember to [manage expectations with MR authors](https://about.gitlab.com/handbook/engineering/workflow/code-review/#managing-expectation) and let your manager know right away so they can help you.
+If you're struggling with MR reviews, remember to [manage expectations with MR authors](/handbook/engineering/workflow/code-review/#managing-expectation) and let your manager know right away so they can help you.
 
 Before taking up a review, make an estimation of your capacity keeping in mind any upcoming time off. If you are unsure of completing the review before leaving for a time off, spin the roulette again to assign the review to a different designer and [set the appropriate GitLab or Slack status](https://docs.gitlab.com/ee/development/code_review.html#reviewer-roulette) to avoid Danger bot assigning you to more merge requests reviews.
 
@@ -140,7 +140,7 @@ Some MRs have additional set up requirements.
   - To generate project vulnerabilities, execute `GITLAB_QA_ACCESS_TOKEN=XXXXXXXXXX GITLAB_URL="https://gitlab.com" bundle exec rake vulnerabilities:setup\[<Project_Id>,<Vulnerability_Count>\] --trace` from the `gitlab/qa` directory. Make sure to replace the placeholders in the script with your local access token, project ID, and desired number of vulnerabilities. An example of this might be `GITLAB_QA_ACCESS_TOKEN=asdfASDF1234- GITLAB_URL="http://localhost:3000/" bundle exec rake vulnerabilities:setup\[25,10] --trace`
   - To populate a merge request with vulnerabilities, [follow these steps](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/89526#note_992018561).
 - Monitor:
-   - For some MRs, you may need to add test alerts. Instructions for adding an alert, along with a sample alert, are available [here](https://about.gitlab.com/handbook/engineering/development/ops/monitor/respond/#assigning-mrs-for-code-review) (see the inline code snippet of instructions).
+   - For some MRs, you may need to add test alerts. Instructions for adding an alert, along with a sample alert, are available [here](/handbook/engineering/development/ops/monitor/respond/#assigning-mrs-for-code-review) (see the inline code snippet of instructions).
    - Service Desk MRs sometimes require setting up `incoming_email`, `service_desk_email` and MailRoom. These MRs can't be reviewed on GitPod and need a working GDK. Follow the set up instructions in the [GDK docs](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/service_desk_mail_room.md) or this [video walkthrough](https://youtu.be/SdqBOK43MlI).
 - Value Stream Analytics: Value Stream [set up and seed data instructions](https://gitlab.com/-/snippets/2169951/raw/main/blocks.md). Many VSA features require an EE license, [request a developer license](https://about.gitlab.com/handbook/developer-onboarding/#working-on-gitlab-ee-developer-licenses).
 - Product Analytics: To set up product analytics in your GDK instance follow these [instructions](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/product_analytics.md). This process can only be done on a local version of the GDK, not on GitPod. Additionally, it requires you to install Docker.

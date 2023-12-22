@@ -4,7 +4,7 @@ title: "Monitor:Observability Group"
 
 ## Who we are?
 
-The Observability group is part of the GitLab [Monitor stage](https://handbook.gitlab.com/handbook/engineering/development/ops/monitor/) and builds [GitLab Observability product](https://about.gitlab.com/direction/monitor/observability/).
+The Observability group is part of the GitLab [Monitor stage](/handbook/engineering/development/ops/monitor/) and builds [GitLab Observability product](https://about.gitlab.com/direction/monitor/observability/).
 
 ### Team members
 
@@ -33,7 +33,7 @@ Observability and analytics features have big data and insert heavy requirements
 
 We initially managed our own self-hosted Clickhouse instance, but decided to migrate to Clickhouse Cloud to enable the team to move quicker by offloading maintenance and scalability to Clickhouse.
 
-Learn more: [Clickhouse Datastore Working Group](https://handbook.gitlab.com/handbook/company/working-groups/clickhouse-datastore/)
+Learn more: [Clickhouse Datastore Working Group](/handbook/company/working-groups/clickhouse-datastore/)
 
 ## How we work?
 
@@ -43,7 +43,7 @@ We have slack-based standups (using [Geekbot](https://geekbot.com/)) on Wednesda
 
 ### Async Updates
 
-Every Friday, the EM provides an async update of the team's progress, following the [Ops sub-department async updates](https://about.gitlab.com/handbook/engineering/development/ops/#async-updates-no-status-in-meetings) process.
+Every Friday, the EM provides an async update of the team's progress, following the [Ops sub-department async updates](/handbook/engineering/development/ops/#async-updates-no-status-in-meetings) process.
 
 These updates are published as [issues in the `general` project](https://gitlab.com/gitlab-org/opstrace/general/-/issues/?sort=created_date&state=all&label_name%5B%5D=OpsSection%3A%3AWeekly-Update&first_page_size=100).
 

@@ -335,10 +335,10 @@ Please open an **emergency ticket** if:
 Please declare a **GitLab.com incident** if:
 
 - you've noticed a common pattern of reported problems between SaaS customers
-- you've experienced and verified a [loss of functionality over a period lasting more than 5 minutes](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#definition-of-outage-vs-degraded-vs-disruption-and-when-to-communicate)
-- you suspect a [high severity bug](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#high-severity-bugs) has been deployed to GitLab.com
+- you've experienced and verified a [loss of functionality over a period lasting more than 5 minutes](/handbook/engineering/infrastructure/incident-management/#definition-of-outage-vs-degraded-vs-disruption-and-when-to-communicate)
+- you suspect a [high severity bug](/handbook/engineering/infrastructure/incident-management/#high-severity-bugs) has been deployed to GitLab.com
 
-[More about GitLab.com incidents](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/)
+[More about GitLab.com incidents](/handbook/engineering/infrastructure/incident-management/)
 
 Please declare a **security incident** if:
 
@@ -350,7 +350,7 @@ Please declare a **security incident** if:
 
 ### I want to make a change to a setting in the GitLab.com Admin interface
 
-The Infrastructure team is the admin of GitLab.com, and any changes to product tuneables go through the [change request workflow](https://about.gitlab.com/handbook/engineering/infrastructure/change-management/#change-request-workflows).
+The Infrastructure team is the admin of GitLab.com, and any changes to product tuneables go through the [change request workflow](/handbook/engineering/infrastructure/change-management/#change-request-workflows).
 
 ## Other
 

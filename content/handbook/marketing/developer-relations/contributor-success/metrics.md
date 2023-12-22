@@ -26,7 +26,7 @@ description: Learn about the Sisense SQL snippets that are used in community-rel
 ### `product_community_contribution_mrs`
 
 Merge requests with ~"Community contribution" label, opened in
-[projects that are part of the product](https://about.gitlab.com/handbook/engineering/metrics/#projects-that-are-part-of-the-product).
+[projects that are part of the product](/handbook/engineering/metrics/#projects-that-are-part-of-the-product).
 
 The results include MR type, MR age, MR labels, MR stage, MR group, MR section.
 

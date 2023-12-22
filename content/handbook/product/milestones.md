@@ -44,7 +44,7 @@ To update the milestones in GitLab, Product Operations follows these steps:
    - Note: We iterate through the `.0` and further for each release with the `.0` release every May.
 1. Set the start date to be the Saturday prior to the previous releases [release date](/releases/)
 1. Set the end date to be the Friday prior to the third Thursday of the release month
-1. Closing milestones happens in the [Engineering workflow](https://about.gitlab.com/handbook/engineering/workflow/#milestone-cleanup)
+1. Closing milestones happens in the [Engineering workflow](/handbook/engineering/workflow/#milestone-cleanup)
 
 ### Step 2: .com
 
@@ -55,11 +55,11 @@ To update the milestones in GitLab, Product Operations follows these steps:
    - Note: We iterate through the `.0` and further for each release with the `.0` release every May.
 1. Set the start date to be the Saturday prior to the previous releases [release date](/releases/)
 1. Set the end date to be the Friday prior to the third Thursday of the release month
-1. Closing milestones happens in the [Engineering workflow](https://about.gitlab.com/handbook/engineering/workflow/#milestone-cleanup)
+1. Closing milestones happens in the [Engineering workflow](/handbook/engineering/workflow/#milestone-cleanup)
 
 ## Understanding Releases
 
-The [release definitions](https://about.gitlab.com/handbook/engineering/releases/) are maintained by the Engineering Team and we run the end of each Milestone on the [release date](https://about.gitlab.com/handbook/engineering/releases/).
+The [release definitions](/handbook/engineering/releases/) are maintained by the Engineering Team and we run the end of each Milestone on the [release date](/handbook/engineering/releases/).
 
 ## Product Milestones Usage
 
@@ -69,4 +69,4 @@ The [release definitions](https://about.gitlab.com/handbook/engineering/releases
 
 ## Relevant links
 
-- [Engineering release definitions](https://about.gitlab.com/handbook/engineering/releases/)
+- [Engineering release definitions](/handbook/engineering/releases/)

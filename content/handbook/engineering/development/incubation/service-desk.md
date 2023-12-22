@@ -12,7 +12,7 @@ title: Service Desk Single-Engineer Group
 
 ## Service Desk Single-Engineer Group
 
-The Service Desk SEG is a [Single-Engineer Group](/company/team/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
+The Service Desk SEG is a [Single-Engineer Group](/handbook/company/team/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
 
 ### Vision
 
@@ -36,9 +36,9 @@ Please feel free to [subscribe to this GitLab issue to receive notifications](ht
   <iframe src="https://www.youtube.com/embed/9Fwqt8EcZ-g" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-We publish [short mid month update videos](https://about.gitlab.com/handbook/engineering/development/incubation/#mid-month-update-video) and
-longer [end of month showcase videos](https://about.gitlab.com/handbook/engineering/development/incubation/#end-of-month-showcase) to
-[demonstrate our progress](https://about.gitlab.com/handbook/engineering/development/incubation/#demonstrating-progress).
+We publish [short mid month update videos](/handbook/engineering/development/incubation/#mid-month-update-video) and
+longer [end of month showcase videos](/handbook/engineering/development/incubation/#end-of-month-showcase) to
+[demonstrate our progress](/handbook/engineering/development/incubation/#demonstrating-progress).
 
 | Date | Summary / written version | Video |
 | ---- | ------------------------- | ----- |
@@ -110,14 +110,14 @@ If you want to get more into the details, [check out the merge request which als
 
 We have a [Service Desk offering](https://about.gitlab.com/direction/service_management/service_desk) in GitLab that we'd like
 to make an integral part of the GitLab support workflow. We have early usage, a community of prolific contributors and
-a new team ([Respond group in Monitor stage](https://about.gitlab.com/handbook/product/categories/#respond-group)) onboarding to
+a new team ([Respond group in Monitor stage](/handbook/product/categories/#respond-group)) onboarding to
 the new domain.
 
 ### Product Development Group affinity
 
-- [Respond group in Monitor stage](https://about.gitlab.com/handbook/product/categories/#respond-group) owns Service Desk and currently
+- [Respond group in Monitor stage](/handbook/product/categories/#respond-group) owns Service Desk and currently
   onboards to the new domain
-- [Project management group in Plan stage](https://about.gitlab.com/handbook/product/categories/#project-management-group) as Service Desk issues use all of GitLabs planning functionality
+- [Project management group in Plan stage](/handbook/product/categories/#project-management-group) as Service Desk issues use all of GitLabs planning functionality
 
 ### Other resources
 

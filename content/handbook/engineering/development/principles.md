@@ -4,7 +4,7 @@ title: Engineering Principles
 
 ## Engineering Principles
 
-At GitLab, [Company Culture](/company/culture) is very important to us. The
+At GitLab, [Company Culture](/handbook/company/culture) is very important to us. The
 main ingredient of the company culture are [GitLab Values](/handbook/values/).
 
 [GitLab Values](/handbook/values/) have guided us throughout the evolution of
@@ -146,7 +146,7 @@ There is variance in how much time an issue will take versus what you estimated.
 
 Both measures reduce the overall velocity of shipping features.
 The way to prevent this is to accept that we don't want perfect predictability.
-Just like with our [OKRs](/company/okrs/), which are so ambitious that we expect to reach about 70% of the goal, this is also fine for shipping [planned features](/handbook/product/product-principles/#how-this-impacts-planning).
+Just like with our [OKRs](/handbook/company/okrs/), which are so ambitious that we expect to reach about 70% of the goal, this is also fine for shipping [planned features](/handbook/product/product-principles/#how-this-impacts-planning).
 
 _Note:_ This does not mean we place zero value on predictability. We just optimize for velocity first.
 

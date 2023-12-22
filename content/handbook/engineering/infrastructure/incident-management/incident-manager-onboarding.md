@@ -119,7 +119,7 @@ Shifts are assigned based on the working hours that you selected during onboardi
 
 When an Incident Manager shift includes a weekend the team member can shift their work-week to include that day (and exclude another day). As an example, if an Incident Manager shift includes Saturday, then the team member could plan their work-week for that week to be Tues-Sat.
 
-While the example above is the intended idea, we will note that anything close to that which works for the team member will be fine as well.  For example, if you'd much rather take some other day in the adjoining weeks, or working [non-linear workdays](https://about.gitlab.com/company/culture/all-remote/non-linear-workday/) to accomodate the shift.
+While the example above is the intended idea, we will note that anything close to that which works for the team member will be fine as well.  For example, if you'd much rather take some other day in the adjoining weeks, or working [non-linear workdays](/handbook/company/culture/all-remote/non-linear-workday/) to accomodate the shift.
 
 Example scenarios:
 1. Tanuki is scheduled for the Thursday-Sunday IM shift.
@@ -159,4 +159,4 @@ New schedules are [announced](#how-are-incident-managers-scheduled) in the [#imo
 If you want to get notified when you are added to or removed from a schedule, or changes are made to your shifts, make sure to turn on the [On-Call Boosters](https://support.pagerduty.com/docs/mobile-app-settings#on-call-boosters) setting in the [PagerDuty App on your phone](https://support.pagerduty.com/docs/mobile-app).
 
 ## Learning about Incident Management
-We have a detailed handbook page that covers how we do [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) at GitLab.
+We have a detailed handbook page that covers how we do [Incident Management](/handbook/engineering/infrastructure/incident-management/) at GitLab.

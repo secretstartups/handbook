@@ -97,8 +97,8 @@ unassigned issues should be tackled in order of priority label. Deliverable issu
 via [milestone cleanup](/handbook/engineering/workflow/#milestone-cleanup) workflow.
 * `group::distribution` - Items specific to, or authored by Distribution team. It is a [scoped label](https://docs.gitlab.com/ee/user/project/labels.html#scoped-labels) to be applied to all Distribution subgroups items until further guidance.
 * `group::distribution::*` - Items specific to, or authored by one of Distribution subgroups. They are [nested scope labels](https://docs.gitlab.com/ee/user/project/labels.html#nested-scopes), and mutually exclusive, but can be used with `group::distribution` scoped label together.
-  * `group::distribution::build` - Items specific to, or authored by [build](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/distribution/#distributionbuild-charter) group.
-  * `group::distribution::deploy` - Items specific to, or authored by [deployment](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/distribution/#distributiondeploy-charter) group.
+  * `group::distribution::build` - Items specific to, or authored by [build](/handbook/engineering/infrastructure/core-platform/systems/distribution/#distributionbuild-charter) group.
+  * `group::distribution::deploy` - Items specific to, or authored by [deployment](/handbook/engineering/infrastructure/core-platform/systems/distribution/#distributiondeploy-charter) group.
 * `Stretch` - Items with this label are scheduled for work similar like
 the items with `Deliverable` label but with lower priority. If items with this label are not delivered in the current cycle, they will become `Deliverable` in the next release.
 * `Distribution OBJ::*` (1-4) - Items relate to a Distribution objective, usually combine with quarterly label. It is a [scoped label](https://docs.gitlab.com/ee/user/project/labels.html#scoped-labels). i.e. `Distribution OBJ::1`. The number (*) associates with a [OKR](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=group%3A%3Adistribution&first_page_size=50) item prefix number in a given quarter. 
@@ -160,11 +160,11 @@ will be assigned directly and deadlines set by the EM.
 
 ## Distribution DRI
 
-In order to minimize disruption and context switching for team members, Distribution designates one engineer on a weekly rotation basis (DRI, Directly Responsible Individual), who will be responsible for the following duties during their normal office hours. For urgent requests outside of those hours, it will be handled via the [on call process](https://about.gitlab.com/handbook/on-call/).
+In order to minimize disruption and context switching for team members, Distribution designates one engineer on a weekly rotation basis (DRI, Directly Responsible Individual), who will be responsible for the following duties during their normal office hours. For urgent requests outside of those hours, it will be handled via the [on call process](/handbook/on-call/).
 
 ### Expectation
 
-Similar to [Development Escalation Process](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#expectation), the DRI is not solely responsible for a resolution of any requests, they should engage any SME and escalate to engineering manager and/or product manager whenever requires. In addition to that, there is also no expectation that the DRI can complete the same amount of `Deliverable` work during the week.
+Similar to [Development Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#expectation), the DRI is not solely responsible for a resolution of any requests, they should engage any SME and escalate to engineering manager and/or product manager whenever requires. In addition to that, there is also no expectation that the DRI can complete the same amount of `Deliverable` work during the week.
 
 ### Duties
 
@@ -173,9 +173,9 @@ The Distribution DRI works on the following areas per the order of the list.
 #### During the week
 
 1. Support production incident
-1. [Support customer request and call](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/distribution/#engaging-distribution-for-expertise-in-support) ([Issue list](https://gitlab.com/gitlab-org/distribution/team-tasks/-/issues/?sort=created_date&state=opened&label_name%5B%5D=support%20request&or%5Blabel_name%5D%5B%5D=Help%20group%3A%3ADistribution%20Build&or%5Blabel_name%5D%5B%5D=Help%20group%3A%3ADistribution%20Deploy&first_page_size=20))
+1. [Support customer request and call](/handbook/engineering/infrastructure/core-platform/systems/distribution/#engaging-distribution-for-expertise-in-support) ([Issue list](https://gitlab.com/gitlab-org/distribution/team-tasks/-/issues/?sort=created_date&state=opened&label_name%5B%5D=support%20request&or%5Blabel_name%5D%5B%5D=Help%20group%3A%3ADistribution%20Build&or%5Blabel_name%5D%5B%5D=Help%20group%3A%3ADistribution%20Deploy&first_page_size=20))
 1. Answer or redirect questions in Slack channel [#g_distribution](https://gitlab.slack.com/archives/C1FCTU4BE)
-1. [Triage issues](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/distribution/triage.html)
+1. [Triage issues](/handbook/engineering/infrastructure/core-platform/systems/distribution/triage.html)
 1. Response `@gitlab-org/distribution` group mention in GitLab
 1. ***Optional***: work on `Deliverable`
 1. Work on any Distribution topic inspiring you the most
@@ -193,10 +193,10 @@ If any request is still on going by the end of the week, the DRI should consider
 
 When you are not on DRI duty, please consider the following when the request is not [Stuff that should Just Work](https://gitlab.com/groups/gitlab-org/-/labels?subscribed=&search=Stuff+that+should+Just+Work):
 
-1. Redirect any [active incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) and [deployment blocker](https://about.gitlab.com/handbook/engineering/deployments-and-releases/deployments/#deployment-blockers) request to the Distribution DRI during their normal office hours, or take the request if you are the first available team member
+1. Redirect any [active incident](/handbook/engineering/infrastructure/incident-management/) and [deployment blocker](/handbook/engineering/deployments-and-releases/deployments/#deployment-blockers) request to the Distribution DRI during their normal office hours, or take the request if you are the first available team member
 1. Redirect any Slack DM to the channel [#g_distribution](https://gitlab.slack.com/archives/C1FCTU4BE)
 1. Redirect any GitLab direct mention to `@gitlab-org/distribution` group
-1. Redirect any other requests to [How to work with Distribution](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/distribution/#how-to-work-with-distribution)
+1. Redirect any other requests to [How to work with Distribution](/handbook/engineering/infrastructure/core-platform/systems/distribution/#how-to-work-with-distribution)
 
 ## Iteration
 

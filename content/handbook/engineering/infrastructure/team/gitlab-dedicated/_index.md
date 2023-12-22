@@ -81,7 +81,7 @@ While in the long term, customer admins will be able to self-serve configuration
 
 ### Escalation Policy
 
-When it comes to escalating customer support issues, we follow the same definitions of severity as [provided by support](https://about.gitlab.com/support/definitions/#definitions-of-support-impact) since Dedicated customers receive priority support. Only in cases where there is an [availability or security sev-1](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity) event it can be escalated to Sev-1 at the Support level. 'Business as usual' configuration changes cannot be escalated to sev-1. In sev-1 cases we will involve our on-call, as these incidents may affect our Availability SLA commitments to the customer. Sev-2 and below will be handled by the team during normal business hours. Any fixes identified as part of a support ticket that must go out immediately will be considered "emergency maintenance" and can be done outside the normal maintenance window. All other fixes will be done during the next available maintenance window.
+When it comes to escalating customer support issues, we follow the same definitions of severity as [provided by support](https://about.gitlab.com/support/definitions/#definitions-of-support-impact) since Dedicated customers receive priority support. Only in cases where there is an [availability or security sev-1](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity) event it can be escalated to Sev-1 at the Support level. 'Business as usual' configuration changes cannot be escalated to sev-1. In sev-1 cases we will involve our on-call, as these incidents may affect our Availability SLA commitments to the customer. Sev-2 and below will be handled by the team during normal business hours. Any fixes identified as part of a support ticket that must go out immediately will be considered "emergency maintenance" and can be done outside the normal maintenance window. All other fixes will be done during the next available maintenance window.
 
 ### Requesting access to logs
 
@@ -189,18 +189,18 @@ click F "https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/epics/
 
 #### Epic Owners
 
-Each epic has a single DRI who is responsible for delivering the project. DRIs for each epic are listed at the top of the description of each epic per Epic Structure. Epic DRI responsibilities are in [https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#epic-owner-responsibilities](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#epic-ownership)
+Each epic has a single DRI who is responsible for delivering the project. DRIs for each epic are listed at the top of the description of each epic per Epic Structure. Epic DRI responsibilities are in [https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#epic-owner-responsibilities](/handbook/engineering/infrastructure/team/gitlab-dedicated/#epic-ownership)
 
 1. Engineering epic DRIs can be found within children epics of [GitLab Dedicated - Limited Availability epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/484).
-1. As a [Top Cross-Functional Initiative](https://about.gitlab.com/company/top-cross-functional-initiatives/#cross-functional-initiative-dris), Dedicated has an Initiative DRI and Cross-Functional DRIs. Please see [Dedicated Cross-Functional epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/866) and its sub-epics for these DRIs .
+1. As a [Top Cross-Functional Initiative](/handbook/company/top-cross-functional-initiatives/#cross-functional-initiative-dris), Dedicated has an Initiative DRI and Cross-Functional DRIs. Please see [Dedicated Cross-Functional epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/866) and its sub-epics for these DRIs .
 
 #### Epic Owner Responsibilities
 
 The DRI needs to:
 
 1. Work with others to move issues through the boards
-1. Ensure epic meets criteria outlined in [Epic Structure](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#epic-structure)
-1. Provide updates on DRI's epic in epic description according to process outlined in [Status Update Process](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#Status-Update-Process) below.
+1. Ensure epic meets criteria outlined in [Epic Structure](/handbook/engineering/infrastructure/team/gitlab-dedicated/#epic-structure)
+1. Provide updates on DRI's epic in epic description according to process outlined in [Status Update Process](/handbook/engineering/infrastructure/team/gitlab-dedicated/#Status-Update-Process) below.
 1. Follow process in [epic roadmap](#epic-roadmap) if epic extends beyond its planned phase.
 
 #### Epic structure
@@ -238,16 +238,16 @@ Epic boards are used to track the overall status of epics. We use the following 
 
 #### Epic roadmap
 
-All epics and sub-epics are set with due dates according to the [the Roadmap to exit Limited Availability](/direction/saas-platforms/dedicated/#limited-availability-roadmap).
+All epics and sub-epics are set with due dates according to the [the Roadmap to exit Limited Availability](https://about.gitlab.com/direction/saas-platforms/dedicated/#limited-availability-roadmap).
 
 Limited Availability phases end and are closed on the release day of each phase's corresponding month.
 
 Process to close phases:
 
-1. After the release day of each month [Product and Engineering DRIs](/company/team/structure/working-groups/gitlab-dedicated/#dedicated-team-dris) work with [Epic DRIs](#epic-owners) to determine any roadmap changes if an epic extends beyond the epic's planned phase from [Limited Availability roadmap](/direction/saas-platforms/dedicated/#limited-availability-roadmap). For still-open epics:
+1. After the release day of each month [Product and Engineering DRIs](/handbook/company/team/structure/working-groups/gitlab-dedicated/#dedicated-team-dris) work with [Epic DRIs](#epic-owners) to determine any roadmap changes if an epic extends beyond the epic's planned phase from [Limited Availability roadmap](https://about.gitlab.com/direction/saas-platforms/dedicated/#limited-availability-roadmap). For still-open epics:
     1. First try and close the epic, ideally by descoping the epic and creating a new epic or issue containing descoped work. Descoped work will be slotted into a future phase.
     1. If descoping is not possible, then the entire epic should be shifted to a future phase. In this case, the epic should show in every phase of [Limited Availability roadmap](https://about.gitlab.com/direction/saas-platforms/dedicated/#limited-availability-roadmap) that the epic was worked on. See Establish Availablility Targets in [Phase 1, 2, and 3](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/a40d70a58c2247a160270703fe6953fbb9fd1244/source/direction/saas-platforms/dedicated/index.html.md#environment-automation) as an example.
-1. [PM and EM](/company/team/structure/working-groups/gitlab-dedicated/#dedicated-team-dris) then determine roadmap adjustments so that planned work in future phases remains realistic after shifting open work.
+1. [PM and EM](/handbook/company/team/structure/working-groups/gitlab-dedicated/#dedicated-team-dris) then determine roadmap adjustments so that planned work in future phases remains realistic after shifting open work.
 1. Roadmap changes are shared in the next weekly engineering/product sync as part of [status update process](#status-update-process).
 
 ### Issue boards
@@ -272,7 +272,7 @@ Both Engineering Cross-Functional DRIs should provide weekly updates for the DRI
          - **Progress since last update** - Changes deployed to production, unblocked blockers, any other progress achieved.
          - **Risk and Confidence** - Any new blockers identified or existing blockers that persist? Any other challenges now or in the near future? How do these blockers and/or challenges affect our confidence of completing by scheduled due date from [Phase timeline](https://internal.gitlab.com/handbook/engineering/horse/)?
          - **Mitigations** -  What is required to overcome challenges or blockers identified?  Should this be escalated to other team members, teams, executives, or domain experts?
-       - **Update Workflow and Health label** - After each status update, the Workflow label and Health label should be updated. See [Epic labels criteria](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#workflow-labels)
+       - **Update Workflow and Health label** - After each status update, the Workflow label and Health label should be updated. See [Epic labels criteria](/handbook/engineering/infrastructure/team/gitlab-dedicated/#workflow-labels)
 
 1. **Top-Level Epic Status Update** [automation synthesizes updates from status section](/handbook/engineering/infrastructure/team/gitlab-dedicated/#status-update-automation) from description of active epics to provide initiative status in the status section in the description of the top-level initiative Epic.
 
@@ -291,7 +291,7 @@ If no update has been provided in an epic or issue for over a week, the issue wi
 
 #### Reporting
 
-We provide reports on status of GitLab Dedicated to meet [Top Cross-Functional Initiative requirements](https://about.gitlab.com/company/top-cross-functional-initiatives/#cross-functional-initiative-dris).
+We provide reports on status of GitLab Dedicated to meet [Top Cross-Functional Initiative requirements](/handbook/company/top-cross-functional-initiatives/#cross-functional-initiative-dris).
 
 ### Backlog Refinement
 
@@ -308,7 +308,7 @@ Having this set of refined epics will help us plan for the upcoming quarter and 
 
 ### Merge Requests
 
-GitLab Dedicated team respects the Company principle of [everything starting with a merge request](https://about.gitlab.com/handbook/communication/#start-with-a-merge-request).
+GitLab Dedicated team respects the Company principle of [everything starting with a merge request](/handbook/communication/#start-with-a-merge-request).
 
 1. All Merge Requests (MRs) must go through the review process.
 1. It is expected that MR author assigns reviewers once the MR is ready to go.

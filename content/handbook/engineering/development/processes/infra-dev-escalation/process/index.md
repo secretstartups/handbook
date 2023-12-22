@@ -90,7 +90,7 @@ In the event that no BE engineers respond to the bot, Pagerslack will then notif
 
 Weekend/Holiday oncall will continue to use the [oncall spreadsheet](https://drive.google.com/drive/search?q=%22Infra/Dev%20Escalation%20On-Call%20Schedule%22) (internal only) outlined above.
 
-Holidays will be included in the oncall spreadsheet, those holidays include: [Family & Friends days](https://about.gitlab.com/company/family-and-friends-day/), Christmas Day, New Year's Eve, New Year's Day, and any major holidays that affect multiple timezones.
+Holidays will be included in the oncall spreadsheet, those holidays include: [Family & Friends days](/handbook/company/family-and-friends-day/), Christmas Day, New Year's Eve, New Year's Day, and any major holidays that affect multiple timezones.
 
 There are restrictions of eligibility in certain localities, which can be found in the `weekend` column of the [Development-Team-BE](https://docs.google.com/spreadsheets/d/1Uug3QHeGYobzUbB2ajJsw7CKe7vy1xRdflO5FOuHgDw/edit#gid=361355071) spreadsheet (internal only). This spreadsheet is refreshed by the end of each month automactically via the [Employment Automation](https://gitlab.com/gitlab-com/people-group/peopleops-eng/employment-automation/-/blob/main/lib/syncing/on_call_scheduling_spreadsheet.rb).
 
@@ -106,10 +106,10 @@ There are restrictions of eligibility in certain localities, which can be found 
 
 NOTE: these people generally do not carry pagers and are only likely available during business times. Please respect the individual intake processes, this helps each team track their work.
 
-Use the [product sections](https://about.gitlab.com/handbook/product/categories/) handbook page to determine whom to contact.
+Use the [product sections](/handbook/product/categories/) handbook page to determine whom to contact.
 
-- [Get attention from Gitaly team](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/gitaly/#how-to-contact-the-team): issues related to Git and Git repositories, Gitaly Cluster, including data recovery.
-- [Get attention from Fulfillment team](https://about.gitlab.com/handbook/engineering/development/fulfillment/#escalation-process-for-incidents-or-outages): issues related to CustomersDot (customers.gitlab.com).
+- [Get attention from Gitaly team](/handbook/engineering/infrastructure/core-platform/systems/gitaly/#how-to-contact-the-team): issues related to Git and Git repositories, Gitaly Cluster, including data recovery.
+- [Get attention from Fulfillment team](/handbook/engineering/development/fulfillment/#escalation-process-for-incidents-or-outages): issues related to CustomersDot (customers.gitlab.com).
 
 ### First response time SLOs
 

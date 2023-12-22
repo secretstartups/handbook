@@ -30,7 +30,7 @@ In addition, we empower our teams to ship world class enterprise software at sca
 
 ## FY23 Direction
 
-In FY23 we will be focused on contributor success & customer results while delivering impact to the company's bottomline via alignment to [top cross-functional initiatives](/company/team/structure/working-groups/#top-cross-functional-initiatives). Key directional highlights; be more customer centric in our work, execute on 10x contributor strategy jointly with Marketing, provide timely operational analytics insights & improve team member engagement. In FY23 we anticipate a large increase of cross-functional activity within the company. Fostering an open-collaborative environment is more important than ever for us to deliver results.
+In FY23 we will be focused on contributor success & customer results while delivering impact to the company's bottomline via alignment to [top cross-functional initiatives](/handbook/company/team/structure/working-groups/#top-cross-functional-initiatives). Key directional highlights; be more customer centric in our work, execute on 10x contributor strategy jointly with Marketing, provide timely operational analytics insights & improve team member engagement. In FY23 we anticipate a large increase of cross-functional activity within the company. Fostering an open-collaborative environment is more important than ever for us to deliver results.
 
 ### Customer Centric Quality
 
@@ -84,7 +84,7 @@ In FY23 we will be focused on contributor success & customer results while deliv
 
 ## OKRs
 
-Objectives and Key Results (OKRs) help align our department towards what really matters. These happen quarterly and are based on [company OKRs](/company/okrs/). We check in on the status of our progress routinely throughout the quarter to determine whether we are on track or need to pivot in order to accomplish or change these goals. At the end of the quarter, we do a [final scoring](/company/okrs/#scoring-okrs) which includes a [retrospective](/handbook/engineering/#okr-retrospection) on how the quarter went according to these OKRs.
+Objectives and Key Results (OKRs) help align our department towards what really matters. These happen quarterly and are based on [company OKRs](/handbook/company/okrs/). We check in on the status of our progress routinely throughout the quarter to determine whether we are on track or need to pivot in order to accomplish or change these goals. At the end of the quarter, we do a [final scoring](/handbook/company/okrs/#scoring-okrs) which includes a [retrospective](/handbook/engineering/#okr-retrospection) on how the quarter went according to these OKRs.
 
 Infrastructure & Quality OKRs are captured [here](/handbook/engineering/infrastructure-quality/okrs/).
 
@@ -148,15 +148,15 @@ This board is used by the Engineering Analytics team to:
 - Summarize status and progress on work related to Engineering's KPIs and metrics.
 - Distinguish between planned projects for the current quarter and ad-hoc requests received by the Engineering Analytics team.
 
-The work effort on Engineering Division and Departments' KPIs/RPIs is owned by the [Engineering Analytics team](https://about.gitlab.com/handbook/engineering/quality/engineering-analytics/). This group maintains the [Engineering Metrics](/handbook/engineering/metrics/) page.
+The work effort on Engineering Division and Departments' KPIs/RPIs is owned by the [Engineering Analytics team](/handbook/engineering/quality/engineering-analytics/). This group maintains the [Engineering Metrics](/handbook/engineering/metrics/) page.
 
 ### DRIs
 
 The [Engineering Analytics](https://gitlab.com/gitlab-org/quality/engineering-analytics/team-tasks/-/boards/2650515?group_by=epic) board is structured by the analytics needs within each Engineering Department. At the beginning of each quarter, the team declares and prioritizes projects related to long-standing analytics needs for one or more Engineering Departments. In addition, the team also takes on ad-hoc requests ranging from maintenance of existing KPIs and dashboards to consultation on new metrics and data related to Engineering operations.
 
-The ownership of the work columns follows the [stable counterpart assignment](https://about.gitlab.com/handbook/engineering/quality/engineering-analytics/#counterpart-assignments) of the Engineering Analytics team to each Engineering Department.
+The ownership of the work columns follows the [stable counterpart assignment](/handbook/engineering/quality/engineering-analytics/#counterpart-assignments) of the Engineering Analytics team to each Engineering Department.
 
-In order to engage with the team, please refer to the [Engineering Analytics team's handbook page](https://about.gitlab.com/handbook/engineering/quality/engineering-analytics/#how-to-engage-with-us) for the appropriate Slack channels and projects for creating issues for our team.
+In order to engage with the team, please refer to the [Engineering Analytics team's handbook page](/handbook/engineering/quality/engineering-analytics/#how-to-engage-with-us) for the appropriate Slack channels and projects for creating issues for our team.
 
 #### DRI Responsibilities
 
@@ -173,7 +173,7 @@ In order to engage with the team, please refer to the [Engineering Analytics tea
 - The [Director of Engineering Analytics](https://gitlab.com/cdeleon_gitlab) is the DRI for triage, prioritization, and assignment.
     - If work can be done without the need of new data warehouse capabilities, the DRI will schedule and assign the work within Engineering.
     - If new Data warehouse capabilities are needed from the Data team, a linked issue will be created on the [Data team's Engineering](https://gitlab.com/groups/gitlab-data/-/boards/1496166?label_name%5B%5D=Engineering) board.
-        - Requests for support from the Data Team will be reviewed during Data Triage or by [requesting an expedition](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#request-to-expedite-responses)
+        - Requests for support from the Data Team will be reviewed during Data Triage or by [requesting an expedition](/handbook/business-technology/data-team/how-we-work/#request-to-expedite-responses)
 - Every KPI issue is either assigned to the backlog or given a due date. The Engineering team will propose first a due date, which the Results DRI will confirm if possible or the provide the next possible date.
     - Discussions to take place in [#eng-data-kpi](https://gitlab.slack.com/archives/C0166JCH85U) as needed.
 - Every new KPI/RPI should follow our [standardized format](/handbook/engineering/performance-indicators/#guidelines).
@@ -381,7 +381,7 @@ by GitLab customers to directly test their on-premise instances. More informatio
 
 ### MRARR
 
-The Quality department is the DRI for [MRARR](/handbook/engineering/performance-indicators/#mrarr) tooling and tracking. MRARR is an important part of the [Open Core 3 year strategy](/company/strategy/#2-build-on-our-open-core-strength) to increase contributions from the Wider community.
+The Quality department is the DRI for [MRARR](/handbook/engineering/performance-indicators/#mrarr) tooling and tracking. MRARR is an important part of the [Open Core 3 year strategy](/handbook/company/strategy/#2-build-on-our-open-core-strength) to increase contributions from the Wider community.
 
 ### Demo and Test Data
 

@@ -451,7 +451,7 @@ If this is to set up a program that involves a channel partner, you must also fo
 - For live events, be sure to update the `reply email` token. This is used in the confirmation email. You need to add the correct email address for cancellations or special accomodations, and update the subject to something descriptive. Keep the `%20` between each word in the subject so the subject populates correctly.
 
 ### Step 4: Activate Marketo smart campaign(s)
-* If this is a `Gated Content` campaign, follow the detailed set-up instructions on the [content in campaigns page](https://handbook.gitlab.com/handbook/marketing/demand-generation/campaigns/content-in-campaigns/#marketo-automation-and-setup-for-gated-landing-page).
+* If this is a `Gated Content` campaign, follow the detailed set-up instructions on the [content in campaigns page](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/#marketo-automation-and-setup-for-gated-landing-page).
 * If this is a `Vendor Arranged Meeting`:
      * Click the `Smart Campaigns` folder
      * Select the `01 Interesting Moments` smart campaign

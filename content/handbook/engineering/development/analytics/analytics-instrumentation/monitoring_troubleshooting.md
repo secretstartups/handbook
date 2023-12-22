@@ -76,7 +76,7 @@ Already conducted investigations:
 
 ##### Troubleshooting data warehouse layer
 
-Reach out to [Data team](https://about.gitlab.com/handbook/business-technology/data-team/) to ask about current state of data warehouse. On their handbook page there is a [section with contact details](https://about.gitlab.com/handbook/business-technology/data-team/#how-to-connect-with-us)
+Reach out to [Data team](/handbook/business-technology/data-team/) to ask about current state of data warehouse. On their handbook page there is a [section with contact details](/handbook/business-technology/data-team/#how-to-connect-with-us)
 
 #### Delay in Snowplow Enrichers
 

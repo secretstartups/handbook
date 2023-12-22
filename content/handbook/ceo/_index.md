@@ -203,7 +203,7 @@ As part of my role, I participate in a variety of meetings both internal and ext
 1. [1-1](/handbook/leadership/1-1/) with CEO Coach. 80 minutes.
 1. Industry Analyst Meetings. 25-50 minute meetings.
 1. [Coffee Chats](/handbook/company/culture/all-remote/informal-communication/#coffee-chats). 25 minutes.
-1. [Retrospective](https://about.gitlab.com/handbook/engineering/workflow/#retrospective). 25 minutes.
+1. [Retrospective](/handbook/engineering/workflow/#retrospective). 25 minutes.
 1. [Monthly Release Kick-off](https://about.gitlab.com/releases/). 25 minutes.
 1. [CEO 101](https://about.gitlab.com/culture/gitlab-101/). 50 minutes.
 1. [Iteration Office Hours](#iteration-office-hours). 25 minutes.

@@ -83,7 +83,7 @@ The [Database Reliability Team](/handbook/engineering/infrastructure/team/reliab
 
 ### Practices
 
-The [Practices Team](/handbook/engineering/infrastructure/team/reliability/practices.html) has [SRE's](https://handbook.gitlab.com/job-families/engineering/infrastructure/site-reliability-engineer/) that work full time directly with [Stage Groups Teams](/handbook/product/categories/) to focus on their Reliability and Infrastructure concerns for GitLab.com when their need is greater than the [General Team](/handbook/engineering/infrastructure/team/reliability/general.html) can support.
+The [Practices Team](/handbook/engineering/infrastructure/team/reliability/practices.html) has [SRE's](/job-families/engineering/infrastructure/site-reliability-engineer/) that work full time directly with [Stage Groups Teams](/handbook/product/categories/) to focus on their Reliability and Infrastructure concerns for GitLab.com when their need is greater than the [General Team](/handbook/engineering/infrastructure/team/reliability/general.html) can support.
 
 ## How We Work
 
@@ -119,7 +119,7 @@ All Objectives and Key Results should have the following labels:
 
 #### Description
 
-The description of an Objective or Key Result should include the "why" for making this a focus area for the quarter and how the key result will be [scored](/company/okrs/#scoring-okrs).
+The description of an Objective or Key Result should include the "why" for making this a focus area for the quarter and how the key result will be [scored](/handbook/company/okrs/#scoring-okrs).
 
 [Example](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3408)
 
@@ -135,7 +135,7 @@ It is also acceptable to do a check-in (ie update the % complete) without provid
 
 When status changes to "needs attention" or "at risk", we need to provide context as to why the status has changed, what action is being taken to address the issues and what assistance is required to enable team members not close to the work to understand the situation without requesting additional status updates.
 
-The [OKR Handbook](/company/okrs/#maintaining-the-status-of-okrs) has a starting point for when to add `Needs Attention` and `At Risk` to Health Status for OKRs
+The [OKR Handbook](/handbook/company/okrs/#maintaining-the-status-of-okrs) has a starting point for when to add `Needs Attention` and `At Risk` to Health Status for OKRs
 
 #### Mid quarter check ins
 
@@ -150,7 +150,7 @@ The [OKR Handbook](/company/okrs/#maintaining-the-status-of-okrs) has a starting
 At the end of the quarter the last check in requires a restrospective. The DRI for the objective or key result should add the following:
 
 1. The update should have the title "Restrospective"
-1. The [score](/company/okrs/#scoring-okrs) should be finalised
+1. The [score](/handbook/company/okrs/#scoring-okrs) should be finalised
 1. The health should be accurate
 1. Document what went well
 1. Document what could have gone better

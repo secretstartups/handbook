@@ -11,7 +11,7 @@ offer support for groups, projects, and user profiles within our product, but
 our main focus is a long-term horizontal scaling solution for GitLab.
 
 This page covers processes and information specific to the Tenant Scale group.
-See also the [direction page](/direction/enablement/tenant-scale/) and the
+See also the [direction page](https://about.gitlab.com/direction/enablement/tenant-scale/) and the
 [features we support per category](/handbook/product/categories/features/#data-storestenant-scale-group).
 
 ### Contact
@@ -59,7 +59,7 @@ The following members of other functional teams are our stable counterparts:
 
 ## Projects
 
-We are working on different large projects where each project has a [Directly Responsible Individual (DRI)](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/).
+We are working on different large projects where each project has a [Directly Responsible Individual (DRI)](/handbook/people-group/directly-responsible-individuals/).
 The role of the DRI involves helping to define the scope of the work needed for
 the project, ensuring clarity on objectives with the responsibility of looking
 forward 3-6 months to identify potential blocks or risks. Their work is not

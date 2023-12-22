@@ -53,7 +53,7 @@ stateDiagram
 
 ## Issues and Priorities
 
-Our current focus is on releasing Code Suggestions to a wider audience and making it [GA](https://about.gitlab.com/handbook/product/gitlab-the-product/#experiment-beta-ga).
+Our current focus is on releasing Code Suggestions to a wider audience and making it [GA](/handbook/product/gitlab-the-product/#experiment-beta-ga).
 To prepare for that we use the following labels:
 
 - `CodeSuggestions::P1`: **Must-have** items for GA
@@ -73,7 +73,7 @@ To help get started as a developer with the Create:Code Creation team, we have c
 
 ## Common Links
 
-- Product Categories: [Code Creation](https://about.gitlab.com/handbook/product/categories/#code-creation-group)
+- Product Categories: [Code Creation](/handbook/product/categories/#code-creation-group)
 - Direction: [Code Suggestion Direction](https://about.gitlab.com/direction/create/code_suggestions/)
 - Issue Tracker: [GitLab Issue Search](https://gitlab.com/groups/gitlab-org/-/issues/?sort=due_date&state=opened&label_name%5B%5D=group%3A%3Acode%20creation&first_page_size=20)
 - Epics: [Accelerate Code Suggestions Epic](https://gitlab.com/groups/gitlab-org/-/epics/9814) and [general GitLab Epic Search](https://gitlab.com/groups/gitlab-org/-/epics?state=opened&page=1&sort=start_date_desc&label_name[]=group::code+creation)

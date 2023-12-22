@@ -26,8 +26,8 @@ The following people are permanent members of the Create:Code Review Group:
 
 The Code Review group is responsible for the following product categories:
 
-- [Code Review](/direction/create/code_review_workflow/)
-- [GitLab CLI](/direction/create/gitlab_cli/)
+- [Code Review](https://about.gitlab.com/direction/create/code_review_workflow/)
+- [GitLab CLI](https://about.gitlab.com/direction/create/gitlab_cli/)
 
 ### Category performance indicators
 
@@ -65,7 +65,7 @@ Our _primary_ metric is: **reducing the duration of the Code Review**. This is m
 
 _Secondary_ metrics of success act as support for the primary metric, helping build a more complete picture of how successful the category is.
 
-Once in a while, we conduct [UX scorecards](/handbook/product/ux/ux-scorecards/) to track the user experience through [various heuristics](/handbook/product/ux/heuristics/) — [see all UX scorecards for Code Review](https://gitlab.com/groups/gitlab-org/-/epics/5913). At the Create stage level, we conduct [usability benchmarking studies](/direction/create/#usability-benchmark).
+Once in a while, we conduct [UX scorecards](/handbook/product/ux/ux-scorecards/) to track the user experience through [various heuristics](/handbook/product/ux/heuristics/) — [see all UX scorecards for Code Review](https://gitlab.com/groups/gitlab-org/-/epics/5913). At the Create stage level, we conduct [usability benchmarking studies](https://about.gitlab.com/direction/create/#usability-benchmark).
 
 Right now we're focused on measuring and improving [**perceived performance**](https://developer.mozilla.org/en-US/docs/Glossary/Perceived_performance): “how fast, responsive, and reliable a website feels to its users. The perception of how well a site is performing can have more impact on the user experience that the actual load and response times.” Perceived performance is not only _technical_ performance (i.e. load and response times), but also _user_ performance (i.e. efficiency in completing tasks), and can be [formulated](https://youtu.be/7ubJzEi3HuA?t=405) as:
 
@@ -195,6 +195,6 @@ All feedback from the retrospective should ultimately end up in the issue for re
 
 ## Merge Request Report Widgets shared responsibility
 
-Even though the topic of Merge Request falls under Code Review, the code powering the Merge Request Report Widgets (see [Working Group](/company/team/structure/working-groups/merge-request-report-widgets/)) is written and maintained by a larger group.
+Even though the topic of Merge Request falls under Code Review, the code powering the Merge Request Report Widgets (see [Working Group](/handbook/company/team/structure/working-groups/merge-request-report-widgets/)) is written and maintained by a larger group.
 
 Please refer to the [List of DRIs](/handbook/engineering/development/dev/create/code-review/report-widgets-dri-list.html) for communication and troubleshooting purposes relating to these Widgets.

@@ -44,7 +44,7 @@ The quote-to-cash (QTC) process encompasses customer account management, order f
 
 #### CustomersDot (Customers Portal)
 - CustomersDot is used when the customer logs in to manage their subscriptions
-- GitLab engineers created CustomersDot and it is owned by the [Fulfillment team](https://about.gitlab.com/handbook/engineering/development/fulfillment/)
+- GitLab engineers created CustomersDot and it is owned by the [Fulfillment team](/handbook/engineering/development/fulfillment/)
 - CustomersDot integrates with Zuora to enable self-service purchasing and subscription management
 
 #### NetSuite

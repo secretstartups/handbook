@@ -230,7 +230,7 @@ If the net ARR threshold requirements are met, a Sales team member must open a L
 ### What is Open Source?
 
 1. GitLab uses open source software as part of its open core business model. Learn more about the GitLab [Open Core Business Model](/handbook/company/stewardship/#business-model).
-1. For a general introduction to open source, including lists of acceptable and unacceptable open source licenses for use in GitLab, see [Open Source at GitLab](https://about.gitlab.com/handbook/engineering/open-source/).
+1. For a general introduction to open source, including lists of acceptable and unacceptable open source licenses for use in GitLab, see [Open Source at GitLab](/handbook/engineering/open-source/).
 1. Helpful external resources on open source software can be found at [Opensource.com](https://opensource.com/) and the [Open Source Inititiave](https://opensource.org/).
 1. The open source project for GitLab can be found at [gitlab.com/gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab/).
 

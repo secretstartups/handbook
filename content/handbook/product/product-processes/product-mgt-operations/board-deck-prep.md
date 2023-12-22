@@ -2,7 +2,7 @@
 
 title: Product Team Board Meeting Prep
 description: >-
-  This is the process for quarterly board meeting prep, specific to the Product / R&D Org. This process is revisited on a quarterly basis and aligns with the [broader company process](https://handbook.gitlab.com/handbook/board-meetings/#board-and-committee-composition). Feedback always welcome!
+  This is the process for quarterly board meeting prep, specific to the Product / R&D Org. This process is revisited on a quarterly basis and aligns with the [broader company process](/handbook/board-meetings/#board-and-committee-composition). Feedback always welcome!
 ---
 
 ## High Level Timeline
@@ -36,7 +36,7 @@ description: >-
 
 ## Relevant Links
 - [R&D Board Template](https://docs.google.com/presentation/d/1ayT3mYTGXUXdkF7jz0tgpyxin0SAd_dZ3u4wYL-0Yws/edit#slide=id.g21fe51b87f5_0_0) 
-- [Board Meeting Schedule](https://handbook.gitlab.com/handbook/board-meetings/#board-meeting-schedule)
+- [Board Meeting Schedule](/handbook/board-meetings/#board-meeting-schedule)
 
 ## Communication Templates
 <p>

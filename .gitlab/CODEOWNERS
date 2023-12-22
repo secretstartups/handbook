@@ -180,7 +180,7 @@
 /content/handbook/developer-onboarding/ @joergheilig
 /content/handbook/engineering/performance/ @timzallmann
 
-^[Development department]
+^[Development-department]
 /content/handbook/engineering/workflow/ @timzallmann @cdu1 @wayne @sgoldstein @dsatcher @m_gill @jeromezng
 /content/handbook/engineering/development/ @timzallmann @cdu1 @wayne @sgoldstein @dsatcher @m_gill @jeromezng
 /content/handbook/engineering/core-development/ @timzallmann @sgoldstein @m_gill @dsatcher
@@ -233,10 +233,10 @@
 /content/handbook/engineering/frontend/ @timzallmann
 /content/handbook/engineering/development/shadow/ @wayne
 
-^[Infrastructure-Quality department]
+^[Infrastructure-Quality-department]
 /content/handbook/engineering/infrastructure-quality/ @marin @meks @cdeleon_gitlab @dcroft @vincywilson
 
-^[Infrastructure department]
+^[Infrastructure-department]
 /content/handbook/engineering/infrastructure/ @cdu1 @cdeleon_gitlab @dcroft @marin @meks @vincywilson
 /content/handbook/engineering/infrastructure/performance-indicators/ @cdu1 @cdeleon_gitlab @dcroft @marin @meks @vincywilson @rymai
 /content/handbook/engineering/infrastructure/team/scalability/ @rnienaber @marin
@@ -267,7 +267,7 @@
 /content/handbook/engineering/infrastructure/core-platform/data_stores/database/ @alexives
 /content/handbook/engineering/infrastructure/core-platform/data_stores/tenant-scale/ @arturoherrero
 
-^[Quality department]
+^[Quality-department]
 /content/handbook/engineering/automation/ @meks @rymai
 /content/handbook/engineering/quality/ @meks @cdeleon_gitlab @dcroft @vincywilson
 /content/handbook/engineering/quality/issue-triage/ @meks @cdeleon_gitlab @dcroft
@@ -281,7 +281,7 @@
 /content/handbook/engineering/quality/engineering-productivity/ @meks @dcroft @jennli @ddieulivol @alinamihaila @godfat-gitlab @nao.hashizume @rymai @splattael
 /content/handbook/engineering/quality/engineering-analytics/ @meks @cdeleon_gitlab @lmai1
 
-^[Incubation department]
+^[Incubation-department]
 /content/handbook/engineering/development/incubation/ @bmarnane
 /content/handbook/engineering/development/incubation/mlops/ @bmarnane @eduardobonet
 /content/handbook/engineering/development/incubation/mobile-devops/ @bmarnane @darbyfrey
@@ -296,7 +296,7 @@
 /content/handbook/engineering/development/incubation/breach-and-attack-simulation/ @bmarnane @erran
 /content/handbook/engineering/development/incubation/airflow/ @bmarnane
 
-^[Engineering READMEs]
+^[Engineering-READMEs]
 /content/handbook/engineering/readmes/andras-horvath.md @andrashorvath
 /content/handbook/engineering/readmes/bartek-marnane.md @bmarnane
 /content/handbook/engineering/readmes/ben-king.md @benjaminking
@@ -335,10 +335,10 @@
 /content/handbook/engineering/development/dev/create/code-review/backend/ @kisha.mavryck @kerrizor @marc_shaw @dskim_gitlab @garyh @patrickbajao
 /content/handbook/engineering/development/dev/create/code-review/frontend/ @andr3
 
-^[Code Creation]
+^[Code-Creation]
 /content/handbook/engineering/development/dev/create/code-creation/ @kbychu @mnohr
 
-^[Editor Extensions]
+^[Editor-Extensions]
 /content/handbook/engineering/development/dev/create/editor-extensions/ @phikai @francoisrose
 
 ^[finance]

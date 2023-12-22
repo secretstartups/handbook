@@ -15,7 +15,7 @@ of GitLab's [product hierarchy](/handbook/product/categories/#hierarchy)
 - [Product Leadership](/handbook/product/product-leadership/)
 - [Product Development Workflow](/handbook/product-development-flow/)
 - [Product Management Career Development Framework](/handbook/product/product-manager-role/product-CDF-competencies/)
-- [Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/)
+- [Engineering Workflow](/handbook/engineering/workflow/)
 
 ## Responsibilities
 

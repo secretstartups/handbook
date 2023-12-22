@@ -40,7 +40,7 @@ Our strategy follows a generic cost efficiency or data based framework where we 
 
 ### Stage 1: Basic Cost Visibility
 
-We maintain a list of vendors/[coupa renewal](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/) dates in [this spreadsheet](https://docs.google.com/spreadsheets/d/1nkOKE19qYvJ_ljoiirTlYFmb7Hshst0saIXgQ_SWfFg/edit#gid=1871915883)
+We maintain a list of vendors/[coupa renewal](/handbook/business-technology/enterprise-applications/guides/coupa-guide/) dates in [this spreadsheet](https://docs.google.com/spreadsheets/d/1nkOKE19qYvJ_ljoiirTlYFmb7Hshst0saIXgQ_SWfFg/edit#gid=1871915883)
 
 ### Stage 2: Cost Allocation
 

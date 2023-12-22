@@ -66,7 +66,7 @@ Depending on the context here are the most appropriate ways to reach out to the 
 - AI Framework PTO (Calendar ID: `c_eca9440729dba2cbd88b3117fa70839836fb5811cb072132b94c52f912a31bf5@group.calendar.google.com`)
 - AI-Powered Stage Calendar (Calendar ID: `c_n5pdr2i2i5bjhs8aopahcjtn84@group.calendar.google.com`)
 
-AI Framework team members should [sync your PTO events](https://handbook.gitlab.com/handbook/people-group/engineering/team-pto-calendar/) with AI Framework PTO calendar.
+AI Framework team members should [sync your PTO events](/handbook/people-group/engineering/team-pto-calendar/) with AI Framework PTO calendar.
 
 ### 🖖 Weekly EM Updates
 

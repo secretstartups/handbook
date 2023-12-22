@@ -81,7 +81,7 @@ The Senior Digital Marketing Manager is a [grade 7](/handbook/total-rewards/comp
 
 ##### Job Grade
 
-The Staff Digital Marketing Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Digital Marketing Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Responsibilities
 

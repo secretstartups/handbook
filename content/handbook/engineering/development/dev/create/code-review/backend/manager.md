@@ -3,7 +3,7 @@ title: "Create:Code Review BE Engineering Manager Responsibilities"
 description: A list of responsibilities and resources for the Create:Code Review BE Engineering Manager
 ---
 
-The [Backend Engineering Manager role at GitLab](https://handbook.gitlab.com/job-families/engineering/backend-engineer/#backend-engineering-manager) is an exciting and dynamic position that encompasses a wide range of responsibilities. In addition to leading and managing a team of talented engineers, the role involves overseeing projects from start to finish, making sure everything runs smoothly and meets high standards. As an engineering manager, you'll also have the opportunity to shape the team by actively participating in recruiting and hiring. One of the key aspects of the role is setting ambitious goals and measuring progress through OKRs (Objectives and Key Results), providing a clear roadmap for success. Moreover, fostering collaboration between different departments and teams is vital to ensure a seamless and efficient workflow. It's a multifaceted role that combines the best of leadership, project management, and team building, making each day full of diverse and engaging challenges.
+The [Backend Engineering Manager role at GitLab](/job-families/engineering/backend-engineer/#backend-engineering-manager) is an exciting and dynamic position that encompasses a wide range of responsibilities. In addition to leading and managing a team of talented engineers, the role involves overseeing projects from start to finish, making sure everything runs smoothly and meets high standards. As an engineering manager, you'll also have the opportunity to shape the team by actively participating in recruiting and hiring. One of the key aspects of the role is setting ambitious goals and measuring progress through OKRs (Objectives and Key Results), providing a clear roadmap for success. Moreover, fostering collaboration between different departments and teams is vital to ensure a seamless and efficient workflow. It's a multifaceted role that combines the best of leadership, project management, and team building, making each day full of diverse and engaging challenges.
 
 This page will capture some of the responsibilities and resources for the Create:Code Review Backend Engineering Manager.
 
@@ -116,7 +116,7 @@ Emails get sent to each individual contributor on the team in order to give a he
 
 ### Service Level Objectives Monitoring
 
-The Engineering Manager will take proactive steps to avoid having reported bugs to go past the target duration defined in [Severity SLOs](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity-slos).
+The Engineering Manager will take proactive steps to avoid having reported bugs to go past the target duration defined in [Severity SLOs](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity-slos).
 
 The [Bug Triage Board](https://gitlab.com/groups/gitlab-org/-/boards/2546239) can be used to browse them together in one board.
 

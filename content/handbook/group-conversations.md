@@ -133,8 +133,8 @@ If your Group Conversation is optional and you need to move the date, please wor
 | [Support](/handbook/support/) | Lyle Kozloff, Lee Matos | Yes | Twice per quarter | @lbot @lyle @vparsons| EBA to Engineering |
 | [Security](/handbook/security/) | Josh Lemos | Yes | Every other month| | EBA to Engineering |
 | [UX](/handbook/product/ux/) | Christie Lenneville | Yes | Every other month | | EBA to Engineering |
-| [Development](https://about.gitlab.com/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month | | EBA to Engineering |
-| [Infrastructure & Quality](https://about.gitlab.com/handbook/engineering/infrastructure-quality/) | Mek Stittri | Yes | Quarterly | | EBA to Engineering |
+| [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month | | EBA to Engineering |
+| [Infrastructure & Quality](/handbook/engineering/infrastructure-quality/) | Mek Stittri | Yes | Quarterly | | EBA to Engineering |
 | [General](/handbook/ceo/) | Sid Sijbrandij | No | Every other month | | EBA to CEO|
 | [Alliances](/handbook/alliances/) | Nima Badiey | No | Quarterly | | EBA to VP of Alliances |
 | [IT](/handbook/business-technology/it) | Nabitha Rao | Yes | Quarterly | | EBA to VP of Business Technology |

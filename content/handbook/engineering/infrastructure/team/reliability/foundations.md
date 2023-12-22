@@ -82,7 +82,7 @@ We endeavor to triage incoming requests twice per week. If you have an issue tha
 
 ## Considerations for tooling and maintaining our services.
 
-- We support [dogfooding](https://about.gitlab.com/handbook/engineering/development/principles/#dogfooding) when it makes sense to do so.
+- We support [dogfooding](/handbook/engineering/development/principles/#dogfooding) when it makes sense to do so.
   - We consider the scale at which we run gitlab.com and the additional engineering effort required to dogfood, weighed against the capacity and other priorities of the team.
 - When considering external tooling, we look first to other open source projects that are part of [CNCF](https://www.cncf.io/)
 - Further evaluation criteria include:
@@ -162,7 +162,7 @@ For more context, see the related [discussion issue](https://gitlab.com/gitlab-c
   - Success Criteria: no lower than 4 out of 5 average for questions around psychological safety, satisfaction with the team and feeling supported.
   - Current status: green
     - To encourage people to be as honest as possible, we are not sharing specific results beyond the team.
-- Performance ([Results](https://handbook.gitlab.com/handbook/values/#results))
+- Performance ([Results](/handbook/values/#results))
   - OKRs - OKRs are generated each quarter based on current commitments while also including spare capacity for unplanned work.
     - Success Criteria: > 80% completion of OKRs
     - Current Status: tbd pending final review of our cost savings efforts scores.
@@ -172,14 +172,14 @@ For more context, see the related [discussion issue](https://gitlab.com/gitlab-c
   - Service SLOs
     - Success Criteria: Meets or Exceeds availability SLOs for services we own.
     - TODO: Create and add link to overview dashboard
-- Activity ([Results](https://handbook.gitlab.com/handbook/values/#results))
+- Activity ([Results](/handbook/values/#results))
   - Corrective Actions Over Time (specific to the Foundations Team)
-    - Success Criteria: Meets or exceeds the [Reliability SLO](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
+    - Success Criteria: Meets or exceeds the [Reliability SLO](/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
     - Current Status: Green for Sev 1 and Sev 2 CAs.
   - Track the rate of closed MRs for projects for services we own.
     - Success Criteria: TBD. Gather data to see if there is any correlation between MR activity and reliability numbers for services we own.
   - TODO: Add Sisense or Tableau dashboards to visualize these issue metrics
-- Communication and [Collaboration](https://handbook.gitlab.com/handbook/values/#collaboration)
+- Communication and [Collaboration](/handbook/values/#collaboration)
   - Customer Satisfaction
     - Foundations Engineering Manager will send out quarterly surveys to the rest of Infrastructure with questions regarding ease of collaboration, ease of getting needs met and pain points.
     - Success Criteria: average rating of 4 out of 5 for questions about ease of collaboration and getting needs met.
@@ -187,10 +187,10 @@ For more context, see the related [discussion issue](https://gitlab.com/gitlab-c
     - Most recent Survey Results: [June 2023](https://docs.google.com/spreadsheets/d/1GWykJteo7dHRr3bkXz5oO1u8rf2S1ePRELgb_N4oy5s/edit?usp=sharing):
       - How Easy is it to collaborate with Foundations? 4.25 out of 5
       - How Easy is it to get help from Foundations? 4.25 out of 5
-- [Efficiency](https://handbook.gitlab.com/handbook/values/#efficiency) and Flow
+- [Efficiency](/handbook/values/#efficiency) and Flow
   - Issue/MR Metrics
     - Issue Lead Time
-      - Success Criteria: Meets or exceeds current [Reliability SLO](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
+      - Success Criteria: Meets or exceeds current [Reliability SLO](/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
     - Throughput times for MRs by team members
       - Success Criteria: TBD
     - TODO: Add Sisence or Tableau dashboards to visualize these metrics
@@ -275,12 +275,12 @@ In addition to striving to embrace GitLab's values, the Foundations team seeks t
 #### Project Management
 
 The Foundations team top level Epic can be found [here](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/1175)
-We follow Platforms Project Management practices as outlined in the [Handbook](https://about.gitlab.com/handbook/engineering/infrastructure/platforms/project-management/).
+We follow Platforms Project Management practices as outlined in the [Handbook](/handbook/engineering/infrastructure/platforms/project-management/).
 Below builds on top of those guidelines.
 
 ##### OKRs
 
-- For Objectives and Key Results, we align with [Platforms guidance](https://about.gitlab.com/handbook/engineering/infrastructure/platforms/#okr) for creation and structure.
+- For Objectives and Key Results, we align with [Platforms guidance](/handbook/engineering/infrastructure/platforms/#okr) for creation and structure.
 - DRIs should update the % progress on OKRs every Wednesday. Status updates go in the Epic descriptions.
 - A due date should be set on on the epic. If the timeline is unknown, use the end of the planned quarter to start. It can always be adjusted as the work unfolds.
 

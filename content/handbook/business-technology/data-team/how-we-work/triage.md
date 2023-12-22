@@ -154,7 +154,7 @@ The Central Data Team triager will create [an issue in the Data Team project](ht
 
 ### Incident
 
-The Data Team follows the [incident definition](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management) from Engineering: Incidents are anomalous conditions that result in—or may lead to—service degradation or outages. These events require human intervention to avert disruptions or restore service to operational status.
+The Data Team follows the [incident definition](/handbook/engineering/infrastructure/incident-management) from Engineering: Incidents are anomalous conditions that result in—or may lead to—service degradation or outages. These events require human intervention to avert disruptions or restore service to operational status.
 
 Service degradation or outages in data can be seen as:
 - Data is not available

@@ -21,7 +21,7 @@ Skip Level meetings provide a wealth of opportunities
 **Receiving Feedback**
 
 1-1 meetings are a great opportunity for direct reports to give feedback to their Managers, however Skip Level meetings afford the same opportunities.  In the case that the feedback is not given or accurately received, the Skip Level Meeting gives the team member another chance to communicate feedback.  The feedback can be specific to the team members manager, team processes, GitLab policies, GitLab leadership or whatever the team member would like to share about the company. This feedback can lead to strengthening of our CREDIT values.  Here are a few results that have come from some of my Skip Level Meetings
-- Creation of new Handbook Pages (e.g: [Transitioning from an Individual Contributor to a Manager](https://about.gitlab.com/handbook/engineering/development/dev/training/ic-to-manager/))
+- Creation of new Handbook Pages (e.g: [Transitioning from an Individual Contributor to a Manager](/handbook/engineering/development/dev/training/ic-to-manager/))
 - Changes to teams Sprint Planning Process
 - Engineers requesting more direct feedback from their Managers
 
