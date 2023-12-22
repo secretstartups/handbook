@@ -1,6 +1,5 @@
 ---
 title: "AI Functionality Terms"
-description: "Learn about GitLab's AI Functionality Terms"
 ---
 
 (Additional Terms)
