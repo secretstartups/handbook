@@ -121,7 +121,7 @@ frequency that is right for you.
 
 Our sub-department's work can span over 10k+ issues hence as a result, we have specific team boards for the 3 teams in Test Platform Sub-department.
 
-### Test and Tools Infrastrcuture
+### Test and Tools Infrastructure
 
 [This board](https://gitlab.com/groups/gitlab-org/-/boards/425899) shows the current ownership of workload / issues related to test tooling and test infrastructure needs.
 
