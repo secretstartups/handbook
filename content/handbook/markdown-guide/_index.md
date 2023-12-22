@@ -5,12 +5,12 @@ comment: Moved to the docs in the theme
 aliases: /docs/markdown-guide
 ---
 
-## On this page
 
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Markdown Style Guide for [about.GitLab.com]
 
@@ -59,7 +59,7 @@ For our [Blog], everything in this guide can be applied. Read through the [Blog 
 #### Heading h4
 ```
 
-{::options parse_block_html="true" /}
+
 
 <div class="panel panel-info">
 
@@ -74,11 +74,11 @@ For our [Blog], everything in this guide can be applied. Read through the [Blog 
 
 ### Heading h3
 
-{:.no_toc}
+
 
 #### Heading h4
 
-{:.no_toc}
+
 </div>
 </div>
 
@@ -323,7 +323,7 @@ Tip: don't leave blank lines **between the items**, unless you have a reason to 
 **Important:** always leave a blank line between [Headings](#headings) and the subsequent list! If you don't, the list will not render.
 {: .alert .alert-info}
 
-The [Writing Style Guide](https://about.gitlab.com/handbook/communication/#writing-style-guidelines) recommends using [ordered lists](#ordered-lists) when you have multiple items, because `Numbered lists are easier to reference during a discussion over bulleted lists`.
+The [Writing Style Guide](/handbook/communication/#writing-style-guidelines) recommends using [ordered lists](#ordered-lists) when you have multiple items, because `Numbered lists are easier to reference during a discussion over bulleted lists`.
 
 **Note:** This guidance does not apply to product documentation.
 {: .note}
@@ -734,11 +734,11 @@ an automated process.
 ```md
 ----
 
-## On this page
-{:.no_toc}
 
-- TOC
-{:toc}
+
+
+
+
 
 ----
 ```
@@ -749,7 +749,7 @@ and closing the block, which is not required, but recommendable for keeping the 
 The heading "On this page" can be adapted to your case, e.g., "In this tutorial", or "In this guide", etc. It's not required
 either, but recommended.
 
-The markup `{:.no_toc}` is used every time you don't want to include a heading into the ToC. Just add
+The markup `` is used every time you don't want to include a heading into the ToC. Just add
 it right below the heading, and it won't be included into the ToC. In fact `no_toc` is a
 [custom class](#classes-ids-and-attributes), as described later in this guide.
 
@@ -760,7 +760,7 @@ ordered lists and kramdown will be smart enough to understand what you want:
 
 ```md
 1. TOC
-{:toc}
+
 ```
 
 ----
@@ -1148,7 +1148,7 @@ That may be lazy.
 >
 > ### Headers work
 >
-> {:.no_toc}
+> 
 >
 > - lists too
 >
@@ -1403,13 +1403,13 @@ of the text:
 
 Now, if you apply the class `shadow` to the image, it's discreetly highlighted from the text:
 
-![text screenshot with box shadow](/images/handbook/marketing/markdown-guide-image-plain-text.png){: .shadow}
+![text screenshot with box shadow](/images/handbook/marketing/markdown-guide-image-plain-text.png)
 
-To do that, apply the class directly to the image by adding the markup `{: .shadow}` right after the image
+To do that, apply the class directly to the image by adding the markup `` right after the image
 markup:
 
 ```md
-![image alternative text](/path/to/image.png){: .shadow}
+![image alternative text](/path/to/image.png)
 ```
 
 #### Note
@@ -1526,7 +1526,7 @@ And it's all over this document!
 Use the following markup at the beginning of your document:
 
 ```md
-{::options parse_block_html="true" /}
+
 ```
 
 And feel free to mix everything up:
@@ -1574,7 +1574,7 @@ Use panels when your description contains more than one paragraph, or a
 long paragraph. For single and short paragraphs, use alert boxes instead.
 
 When using panels, make sure to add the HTML parser markup to the beginning of your document's body:
-`{::options parse_block_html="true" /}`.
+``.
 {: #html-parser}
 
 Copy paste the following code according to what you want to present to the user
@@ -1832,7 +1832,7 @@ can use the orange and the purple one, as follows.
 
 When using panels, don't forget to add to the beginning of your file the
 [HTML parser markup](#html-parser) to be able to mix HMTL + Markdown:
-`{::options parse_block_html="true" /}`.
+``.
 
 #### GitLab Orange Alert Panel
 
@@ -1919,7 +1919,7 @@ The webcast I want to announce - [Register here][webcast-link]!
 [webcast-link]: #
 
 ```md
-{::options parse_block_html="true" /}
+
 
 <i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>&nbsp;&nbsp;
 The webcast I want to announce - [Register here][webcast-link]!

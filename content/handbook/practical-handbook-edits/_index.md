@@ -9,7 +9,7 @@ This page contains instructions, tips, and historical recordings for non-technic
 
 ## Using the Web IDE to edit the handbook
 
-The [Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/index.html) based on VS Code was [released as Beta on 2022-12-19](/blog/2022/12/15/get-ready-for-new-gitlab-web-ide/) and is the new default with GitLab 16.0. This handbook section explains a typical workflow to edit the handbook:
+The [Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/index.html) based on VS Code was [released as Beta on 2022-12-19](https://about.gitlab.com/blog/2022/12/15/get-ready-for-new-gitlab-web-ide/) and is the new default with GitLab 16.0. This handbook section explains a typical workflow to edit the handbook:
 
 1. [Use the Web IDE to make changes](https://docs.gitlab.com/ee/user/project/web_ide/#use-the-web-ide).
 1. [Commit changes](https://docs.gitlab.com/ee/user/project/web_ide/#commit-changes).
@@ -174,7 +174,7 @@ This video covers:
 
 #### Historical: Updating individual team member YAML for managerial changes
 
-Every GitLab team member has an entry in [team_members/person](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person). There are step by step instructions on how to update the individual YAMLs in the [Edit this website locally handbook page](https://about.gitlab.com/handbook/git-page-update/#12-add-yourself-to-the-team-page)
+Every GitLab team member has an entry in [team_members/person](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person). There are step by step instructions on how to update the individual YAMLs in the [Edit this website locally handbook page](/handbook/git-page-update/#12-add-yourself-to-the-team-page)
 
 When a new manager joins a team, updates are needed in three places:
 
@@ -311,7 +311,7 @@ To cut it down:
 
 You can also do bulk find and replace operations using [Visual Studio Code](https://code.visualstudio.com/download) along with the [GitLab Workflow extension for VS Code](https://docs.gitlab.com/ee/user/project/repository/vscode.html). The following steps were used in this [MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/106599) for updating `sub-value` to `operating principle`.
 
-On macOS this can be a fairly seamless experience if you clone the project ([`www-gitlab-com`](https://gitlab.com/gitlab-com/www-gitlab-com) for the Handbook) [using SSH](https://about.gitlab.com/handbook/git-page-update/#clone-via-ssh) and then use [1Password for SSH & Git](https://developer.1password.com/docs/ssh/).
+On macOS this can be a fairly seamless experience if you clone the project ([`www-gitlab-com`](https://gitlab.com/gitlab-com/www-gitlab-com) for the Handbook) [using SSH](/handbook/git-page-update/#clone-via-ssh) and then use [1Password for SSH & Git](https://developer.1password.com/docs/ssh/).
 
 Once you've configured and installed `Visual Studio Code` and logged into the `GitLab Workflow extension for VS Code` open the `www-gitlab-com` directory where you've synced the repo.
 
@@ -350,8 +350,8 @@ content/handbook/marketing/developer-relations-and-community/_index.md:78:70 MD0
 
 An IDE or the command line are common ways to fix the problem.
 
-1. [Visual Studio Code](https://handbook.gitlab.com/handbook/tools-and-tips/editors-and-ides/visual-studio-code/): Open the file to edit. On macOS, [use the shortcut `cmd k x`](https://code.visualstudio.com/docs/getstarted/keybindings#_rich-languages-editing) to clear trailing whitespaces and [`cmd s` to save the file](https://code.visualstudio.com/docs/getstarted/keybindings#_file-management).
-1. [vim](https://handbook.gitlab.com/handbook/tools-and-tips/editors-and-ides/vim/): Change to the command mode (ESC), start a command with `:` and copy the following sequence to clear all trailing whitespaces: `%s/\s\+$//e`. Press enter, and save the file with `:wq`.
+1. [Visual Studio Code](/handbook/tools-and-tips/editors-and-ides/visual-studio-code/): Open the file to edit. On macOS, [use the shortcut `cmd k x`](https://code.visualstudio.com/docs/getstarted/keybindings#_rich-languages-editing) to clear trailing whitespaces and [`cmd s` to save the file](https://code.visualstudio.com/docs/getstarted/keybindings#_file-management).
+1. [vim](/handbook/tools-and-tips/editors-and-ides/vim/): Change to the command mode (ESC), start a command with `:` and copy the following sequence to clear all trailing whitespaces: `%s/\s\+$//e`. Press enter, and save the file with `:wq`.
 
 Visual Studio Code provides an editor setting to remove trailing whitespaces permanently. Navigate to `File > Preference > Settings > User > Text Editor > Files > Trim Trailing Whitespace` and check the box to trim whitespaces when files are saved automatically. Please use this setting carefully, because some files contain many whitespaces to fix and can render the Merge Request change diff hard to read. This increases MR review time. It is recommended to remove and fix trailing whitespaces in a separate MR.
 

@@ -198,7 +198,7 @@ We limit media embeds to the following providers:
 
 ### Adding code blocks
 
-Below are the two types of code blocks we commonly use on the blog. Find a number of other options in the [Markdown guide](https://about.gitlab.com/handbook/markdown-guide/#code-blocks).
+Below are the two types of code blocks we commonly use on the blog. Find a number of other options in the [Markdown guide](/handbook/markdown-guide/#code-blocks).
 
 #### Inline code
 
@@ -307,7 +307,7 @@ to exemplify your steps `domain.com`, be consistent and keep it `domain.com`, th
 
 #### Embedding videos
 
-Please see the [Markdown Guide](https://about.gitlab.com/handbook/markdown-guide/#display-videos-from-youtube) for instructions for embedding videos from YouTube and other sources.
+Please see the [Markdown Guide](/handbook/markdown-guide/#display-videos-from-youtube) for instructions for embedding videos from YouTube and other sources.
 
 If appropriate, please add a video credit, for example:
 
@@ -318,7 +318,7 @@ Video directed and produced by [Aricka Flowers](/handbook/company/team/#arickafl
 
 #### Embedding tweets or Instagram posts
 
-Please see the [Markdown guide for instructions for embedding posts from social media](https://about.gitlab.com/handbook/markdown-guide/#embed-tweets).
+Please see the [Markdown guide for instructions for embedding posts from social media](/handbook/markdown-guide/#embed-tweets).
 
 #### Creating GIFs
 

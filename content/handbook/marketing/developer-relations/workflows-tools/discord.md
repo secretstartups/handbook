@@ -82,7 +82,7 @@ If the message is a serious violation (e.g. repeated spam, trolling, political a
 
 #### Tier 3 - Ban
 
-If the message is a severe violation (e.g hate speech, harrassment, threats, inappropriate content) or if a member has repeatedly violated the rules and well-being of the community despite an official warning and/or temporary timeout, moderators should consider a ban and [raise a Code of Conduct issue](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/) to discuss the violation. It is not necessary to raise an issue for one-off violations, such as a spam. Use issues as a basis of documentation and discussion for more serious violations that may require follow-up or proof of decision making in case of escalation or a ban appeal from the user. 
+If the message is a severe violation (e.g hate speech, harrassment, threats, inappropriate content) or if a member has repeatedly violated the rules and well-being of the community despite an official warning and/or temporary timeout, moderators should consider a ban and [raise a Code of Conduct issue](/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/) to discuss the violation. It is not necessary to raise an issue for one-off violations, such as a spam. Use issues as a basis of documentation and discussion for more serious violations that may require follow-up or proof of decision making in case of escalation or a ban appeal from the user. 
 
 ##### Ban Appeals process
 

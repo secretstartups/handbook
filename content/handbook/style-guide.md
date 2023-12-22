@@ -4,7 +4,7 @@ title: "Handbook Style Guide"
 
 ## Introduction
 
-GitLab's general communications practices are detailed at [GitLab Communication](/handbook/communication/), but beyond those we do have some channel-specific guidance available. This page is for Handbook-specific guidance that does not necessarily apply to the company overall or to other specific channels, such as [GitLab Documentation](https://docs.gitlab.com/) or the [GitLab Blog](/blog/).
+GitLab's general communications practices are detailed at [GitLab Communication](/handbook/communication/), but beyond those we do have some channel-specific guidance available. This page is for Handbook-specific guidance that does not necessarily apply to the company overall or to other specific channels, such as [GitLab Documentation](https://docs.gitlab.com/) or the [GitLab Blog](https://about.gitlab.com/blog/).
 
 In the absence of Handbook-specific guidance, you can't go wrong by following GitLab's [Writing Style Guidelines](/handbook/communication/#writing-style-guidelines) and [Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/). The GitLab Documentation site also offers a list of [topic-specific style guides](https://docs.gitlab.com/ee/development/contributing/style_guides.html).
 

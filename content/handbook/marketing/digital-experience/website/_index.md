@@ -42,7 +42,7 @@ The GitLab marketing site, or simply the "GitLab Website" refers to all of the c
 - The GitLab.com product: `gitlab.com`
 - The Handbook: `about.gitlab.com/handbook`
 
-See [Where should content go?](https://about.gitlab.com/handbook/git-page-update/#where-should-content-go) to learn which web property is the most appropriate place to put different types of content. To learn what section of the website different content belongs see [definitions](#definitions).
+See [Where should content go?](/handbook/git-page-update/#where-should-content-go) to learn which web property is the most appropriate place to put different types of content. To learn what section of the website different content belongs see [definitions](#definitions).
 
 Known Issue: There is an [ongoing issue](https://gitlab.com/gitlab-com/Product/-/issues/1869) to further clarify the DRI(s) for various parts of the www-gitlab-com repo and project, and this is a [Q2 FY22 OKR for Inbound Marketing](https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/332#note_602431848)
 
@@ -369,7 +369,7 @@ To update the responsible person for a role, follow these steps:
 
 Here's an [example Merge Request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/22765).
 
-If the person is not yet listed on the [team page](/handbook/company/team/), please follow [these instructions](https://about.gitlab.com/handbook/git-page-update/#12-add-yourself-to-the-team-page) to add them.
+If the person is not yet listed on the [team page](/handbook/company/team/), please follow [these instructions](/handbook/git-page-update/#12-add-yourself-to-the-team-page) to add them.
 
 ### Adding features to webpages
 

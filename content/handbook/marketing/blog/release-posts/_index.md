@@ -466,7 +466,7 @@ As noted in the [Release Post Item template](https://gitlab.com/gitlab-com/www-g
 - Ensure that titles use sentence case with feature and product names in capital case.
 
 Write the description of every feature as you do to regular blog posts. Please write according to
-the [Markdown guide](https://about.gitlab.com/handbook/markdown-guide/).
+the [Markdown guide](/handbook/markdown-guide/).
 
 <i class="fas fa-exclamation-triangle" aria-hidden="true" style="color: red"></i>
 **Important!** Make sure to merge `master` into the release post branch **before
@@ -1074,7 +1074,7 @@ Always wrap links in single quotes (`'https://example.com'`). Multiple links are
 
 - `description: |`: add the feature's description in this entry.
 Make sure your cursor is in the line below the pipeline symbol `|` intended once.
-All `description` fields fully support [Markdown](https://about.gitlab.com/handbook/markdown-guide/), the only thing you need to be worried about is respecting the indentation.
+All `description` fields fully support [Markdown](/handbook/markdown-guide/), the only thing you need to be worried about is respecting the indentation.
 
 ### Cover image license
 
@@ -1301,7 +1301,7 @@ Product Operations initiates breaking changes communications when they're assign
 
 ## Adding content
 
-For entries that support Markdown, use regular [Markdown Kramdown](https://about.gitlab.com/handbook/markdown-guide/), as we use for all blog posts and webpages on about.GitLab.com.
+For entries that support Markdown, use regular [Markdown Kramdown](/handbook/markdown-guide/), as we use for all blog posts and webpages on about.GitLab.com.
 
 ### Illustrations
 
@@ -1573,7 +1573,7 @@ The schema is implemented using [Rx](http://rx.codesimply.com/index.html).
 
 If you have trouble running the rake task, you can check the following troubleshooting steps:
 
-- Verify that your Ruby version matches the [`gitlab-org/gitlab` project's Ruby version](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.ruby-version). You can check with `ruby -v`. See more about [setting up a Ruby environment](https://about.gitlab.com/handbook/git-page-update/#3-the-single-script-setup-method-macos-only) (MacOS only). You can also validate your setup by running `./bin/doctor` from the terminal.
+- Verify that your Ruby version matches the [`gitlab-org/gitlab` project's Ruby version](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.ruby-version). You can check with `ruby -v`. See more about [setting up a Ruby environment](/handbook/git-page-update/#3-the-single-script-setup-method-macos-only) (MacOS only). You can also validate your setup by running `./bin/doctor` from the terminal.
 - Update your gems by running `bundle install`.
 - Your bundler version could be out of date, so you can try running `gem install bundler:2.1.4`.
 

@@ -92,7 +92,7 @@ There are four departments within the Engineering Division:
 
 ### Workflows
 
-- [Developer onboarding](https://about.gitlab.com/handbook/developer-onboarding/)
+- [Developer onboarding](/handbook/developer-onboarding/)
 - [Engineering Demo Process](/handbook/engineering/demos/)
 - [Engineering Workflow](/handbook/engineering/workflow/)
     - [Code Review](/handbook/engineering/workflow/code-review/)

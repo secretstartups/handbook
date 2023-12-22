@@ -74,7 +74,7 @@ These types of severe issues can be reported at any time, but will be  prevalent
 
 ###### Labelling Regression Issues
 
-A [regression](https://about.gitlab.com/handbook/glossary/#regression) is defined as a change that results in a negative impact on the functionality of an existing feature due to recent changes, i.e. the latest release.
+A [regression](/handbook/glossary/#regression) is defined as a change that results in a negative impact on the functionality of an existing feature due to recent changes, i.e. the latest release.
 
 Each release has it's own regression issue, used to index all issues that have been raised that relate to a degradation in existing functionality.
 
