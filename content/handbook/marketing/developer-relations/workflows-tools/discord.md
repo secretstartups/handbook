@@ -66,7 +66,7 @@ For minor violations of server rules, moderators should remove the message and l
 For example:
 
 ```
-Your comment was removed for violating the following rule in our [GitLab Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct) or GitLab Discord Server:
+Your message was removed for violating the following rule in our [GitLab Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct) or GitLab Discord Server:
 
 > (The rule violated)
 ```
