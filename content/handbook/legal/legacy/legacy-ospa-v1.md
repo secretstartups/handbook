@@ -1,6 +1,5 @@
 ---
 title: "Legacy v1: GitLab Open Source Program Agreement"
-description: "Learn more about our version 1 of our Legacy GitLab Professional Services Agreement."
 ---
 
 ## **Open Source Program Agreement**
