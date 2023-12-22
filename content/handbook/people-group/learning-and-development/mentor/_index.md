@@ -71,6 +71,8 @@ The following team members are available as mentors. Schedule a [coffee chat](/h
 
 The `Expertise` column comes from the team member .yaml entry and might not include all subjects they can help you with.
 
+{{< group-by-expertise "Merge Request Coach" >}}
+
 ## Become a mentor
 
 1. Indicate your mentorship availability on the GitLab team page by setting the `mentor` status to `true`. This will appear on the team page with a line that reads `Available as a mentor`. [Example MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/75890)
