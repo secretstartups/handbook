@@ -1,11 +1,11 @@
 ---
 aliases: /handbook/engineering/infrastructure/team/reliability/foundations.html
-title: "Reliability:Foundations Team"
+title: "Production Engineering Foundations Team"
 ---
 
 ## Mission
 
-The mission of the Reliability:Foundations team at GitLab is to Build, Run and Own the entire lifecycle of the core infrastructure for GitLab.com.
+The mission of the Production Engineering Foundations team at GitLab is to Build, Run and Own the entire lifecycle of the core infrastructure for GitLab.com.
 
 The team is focused on owning the reliability, scalability, and security of the existing core infrastructure. We seek to reduce the effort required to provide our core infrastructure services, and to enable other teams to self-serve core infrastructure that allows them to more efficiently/effectively run their services for GitLab.com.
 
@@ -54,18 +54,18 @@ Given the nature of this team's scope, several services the Foundation team work
 
 ## Who are our Stakeholders?
 
-Our primary customers are other teams in the Infrastructure department. Our services have particular overlap and impact on the Delivery teams, Scalability, and Reliability::General.
+Our primary customers are other teams in the Infrastructure department. Our services have particular overlap and impact on the Delivery teams, Scalability, and Ops.
 Other teams outside of Infrastructure that we collaborate with regularly are Support and various teams in the Security organization.
 
 ## Getting Assistance
 
-Should you require assistance from the Foundations team, please open an issue in the [Reliability tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues)
+Should you require assistance from the Foundations team, please open an issue in the [Production engineering tracker](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues)
 
 Apply one of the following templates:
 
-- For issues pertaining to Teleport connections, use the [teleport-troubleshooting template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=teleport-troubleshooting)
-- For issues pertaining to Cloudflare, use the [Cloudflare Troubleshooting template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=Cloudflare%20Troubleshooting)
-- For anything else, use the [request-foundations template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=request-foundations)
+- For issues pertaining to Teleport connections, use the [teleport-troubleshooting template](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues/new?issuable_template=teleport-troubleshooting)
+- For issues pertaining to Cloudflare, use the [Cloudflare Troubleshooting template](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues/new?issuable_template=Cloudflare%20Troubleshooting)
+- For anything else, use the [request-foundations template](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues/new?issuable_template=request-foundations)
 
 ### Priority Levels for Requests
 
@@ -155,7 +155,7 @@ With the development of Cells, we understand there may be adjustments to this ro
 
 We've adopted a version of the SPACE framework for Performance Indicators.
 
-For more context, see the related [discussion issue](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/19167).
+For more context, see the related [discussion issue](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues/19167).
 
 - Satisfaction ([DIB(https://handbook.gitlab.com/handbook/values/#diversity-inclusion)])
   - Foundations Engineering Manager will send out a monthly team satisfaction survey with a range of questions that seek to capture a sense of trust, belonging, inclusion and feeling empowered.
@@ -167,7 +167,7 @@ For more context, see the related [discussion issue](https://gitlab.com/gitlab-c
     - Success Criteria: > 80% completion of OKRs
     - Current Status: tbd pending final review of our cost savings efforts scores.
     - OKR completion rates by quarter:
-      - ([FY24 Q2](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/24202)): current 77.3%
+      - ([FY24 Q2](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues/24202)): current 77.3%
       - ([FY24 Q1](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=Sub-Department%3A%3AReliability&label_name%5B%5D=Reliability%3A%3AFoundations&milestone_title=FY24-Q1&first_page_size=20)): 88%
   - Service SLOs
     - Success Criteria: Meets or Exceeds availability SLOs for services we own.
@@ -270,7 +270,7 @@ In addition to striving to embrace GitLab's values, the Foundations team seeks t
   - Engineers participate in SRE oncall rotations, which can take them completely away from project work for the week, and sometimes more time afterwards for follow up work.
   - Other times there are incoming external requests that are unplanned for but unblock another team or customer, and that must be prioritized over ongoing work. When necessary, we discuss this as a team.
     - We make an effort to distribute this type of work in an equitable manner across the team.
-    - External requests should come through issues created in the Reliability tracker with the ~"team::Foundations" label. If other teams reach out directly to team members for help with work, we should redirect them to request work through the proper channels so that the team can properly prioritize and scope the work, and individuals are not pulled off prioritized tasks through back channels.
+    - External requests should come through issues created in the Production Engineering tracker with the ~"team::Foundations" label. If other teams reach out directly to team members for help with work, we should redirect them to request work through the proper channels so that the team can properly prioritize and scope the work, and individuals are not pulled off prioritized tasks through back channels.
 
 #### Project Management
 

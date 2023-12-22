@@ -13,7 +13,7 @@
         <tr>
         <td>{{ .name }} <code>{{$k}}</code></td>
         <td>{{- $cat := $k }}
-            {{- range $key, $data := $stages.stages }}
+            {{- range $key, $data := $stages }}
             {{- range $k, $v := $data.groups }}
                 {{- if in .categories $cat }}
                 <a href="#{{$k}}">{{ $v.name }}</a>

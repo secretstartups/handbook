@@ -106,6 +106,7 @@
 /content/handbook/engineering/infrastructure/database/disaster_recovery.html.md @marin @meks
 /content/handbook/engineering/infrastructure/network-security/ @marin @meks
 /content/handbook/engineering/infrastructure/production/architecture/ @marin @meks
+/content/handbook/security/physical-security-standard-for-company-assets.md @joshlemos @jlongo_gitlab @plafoucriere @gitlab-com/egroup @gitlab-com/handbook
 
 # These optional entries are for when no codeowner is found.
 ^[content-sites]

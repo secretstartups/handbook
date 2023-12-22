@@ -19,12 +19,22 @@ description: "This page serves as the Partner Operations team page and includes 
 
 ### Vision
 
-To be a team of subject matter experts that support the key needs of the partner business both internally and externally with a focus on overall partner experience. To continue to drive initiatives that allow for growth and scale and aligns with the future vision of the business.
+To build, operate, and advise a world-class partner business.
 
-**Key Tenets**
-- Automation: This applies to systems, tools, and processes. It is imperative to the business in order to support the growth and industry expectations.
-- Scale and Productivity: Ability to support more business without an impact to resources. Empower and enable partners for mutual profitability.
-- Collaboration: Bringing awareness and enablement to cross-functional teams about the importance of partners and partner requirements.
+### Mission
+
+Listen to the needs of GitLab teams, partners, and customers, and respond with innovative and streamlined processes, tools, and resources to operate a scalable and highly profitable business for GitLab and our partners.
+
+### Key Tenets
+**Efficiency and Productivity:**
+Streamline partner systems, processes, and workflows to improve ease of doing business and drive mutual profitability and positive experience for GitLab and our Partners.
+
+**Scalability:**
+Build, deploy, and manage reliable and effective operational practices that are foundational to how we go to market and adaptable to support our growing and evolving partner business.
+
+**Advisory:**
+Trusted subject matter experts for GitLab’s internal and partner teams, providing daily operational support and guiding best practices and business decisions regarding our partner models.
+
 
 ### How to Contact Us
 

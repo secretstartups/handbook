@@ -5,7 +5,7 @@ description: Process documentation for getting additional attention on a ticket 
 
 ## Overview
 
-This document outlines the process for managing support tickets that, due to business-critical situations, require our attention or an initial response more quickly than what is defined in our [standard response time.](https://about.gitlab.com/support/#priority-support).
+This document outlines the process for managing support tickets that, due to the situation that is critical for the customer's business, require our attention or an initial response more quickly than what is defined in our [standard response time.](https://about.gitlab.com/support/#priority-support).
 
 ## What is a Support Ticket Attention Request (STAR)?
 
@@ -27,11 +27,13 @@ When you STAR a ticket, a thread is created in the [#support_ticket-attention-re
 1. When management oversight is required to bring structure and focus to a ticket, and ensure the necessary resources are allocated to it. For example, if:
     - The first-response [SLA](https://about.gitlab.com/support/#service-level-agreements) of the ticket has been breached by one hour or more (see [Before you STAR a ticket](#before-you-star-a-ticket)).
     - The ticket requires immediate intervention to address a high level of customer dissatisfaction.
+    - The ticket requires increased attention from the support team due to business reasons, even if it hasn't breached the SLA yet.
+    - The ticket's priority is objectively lower when assessed in relation to the [Support Impact](https://about.gitlab.com/support/#priority-support) guidelines.
 1. When the progress of a ticket has stalled, and the ticket needs to be elevated to a different engineer (based on their skill set) so that GitLab can resolve the ticket more quickly.
 
 ### When is a STAR not appropriate?
 
-1. It is a **business-critical** situation where existing or future business is at risk -> [raise an account escalation](/handbook/customer-success/csm/escalations/#initiating-managing-and-closing-an-escalation)
+1. It is a **business-critical** situation for GitLab where existing or future business is at risk so attention from CSM is needed -> [raise an account escalation](/handbook/customer-success/csm/escalations/#initiating-managing-and-closing-an-escalation)
 1. It is an **emergency** -> Advise the customer to [raise an emergency](https://internal.gitlab.com/handbook/support/#raising-an-emergency) (internal Handbook link, GitLab team members only; only Premium/Ultimate customers are eligible to trigger emergencies)
 1. It is a **SaaS incident** -> [check the GitLab Status Page](https://status.gitlab.com/) or [report an incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
 1. You want to pass additional information to the engineer working on the ticket --> Leave an internal note in the ticket in Zendesk or reach out to the Support Engineer working the ticket in a Slack channel like `#support_gitlab-com` or `#support_self-managed`.
