@@ -1,6 +1,6 @@
 ---
 title: GitLab for Open Source Program Agreement
-description: Effective 2022-08-19
+description: Last revised 2022-08-19
 ---
 
 ## **Open Source Program Agreement**
