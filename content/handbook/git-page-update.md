@@ -1,13 +1,6 @@
 ---
-
 title: "Edit this website locally"
 ---
-
-
-
-
-
-
 
 ## Introduction
 
@@ -24,7 +17,6 @@ Here's a list of ideas that help you get started in your contribution journey to
 - You can do a bulk find/replace of all instances of a string in a repository using this [practical handbook edits example](/handbook/practical-handbook-edits/#find-and-replace-a-string-in-all-matching-files).
 
 ## 1. Help is available
-
 
 ### Resources for GitLab Team members
 
@@ -52,6 +44,7 @@ This method involves running a single ZSH script which will complete all of the 
 **Note**: This script will only work on MacOS
 
 ### Instructions
+
 1. If you have previously installed `rvm` or `rbenv`, you will want to first uninstall it by following the [instructions here](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/migrate_to_asdf.md)
 1. Open your terminal (cmd + space and search for 'Terminal').
 1. If you have previously used this script or another method to clone the repo, you can `cd` to the repo and directly run `scripts/setup-macos-dev-environment.sh`.  Otherwise, if you've never set any of this up before...
@@ -62,7 +55,7 @@ This method involves running a single ZSH script which will complete all of the 
 
 This script clones the `www-gitlab-com` repo to your local machine using SSH by default, but that could fail and fall back to HTTPS. If you have [added an SSH key to your GitLab account](https://docs.gitlab.com/ee/user/ssh.html#add-an-ssh-key-to-your-gitlab-account), you should switch your local repo from HTTPS to SSH.
 
-To switch your local repo from HTTPS to SSH, run the following in your local `www-gitlab-com` repo: 
+To switch your local repo from HTTPS to SSH, run the following in your local `www-gitlab-com` repo:
 
 ```bash
 git remote set-url origin git@gitlab.com:gitlab-com/www-gitlab-com.git
@@ -71,31 +64,36 @@ git remote set-url origin git@gitlab.com:gitlab-com/www-gitlab-com.git
 See the [GitLab SSH docs](https://docs.gitlab.com/ee/user/ssh.html) for more information.
 
 ### Troubleshooting
-* The script failed mid-execution, what do I do now?
-  * You can try and run it again, it's built to be run repeatedly if it is necessary.
-* The script may fail with an error such as `command not found: brew` and/or `command not found: asdf` even after re-runs. In that case, please enter the following commands to correct:
+
+- The script failed mid-execution, what do I do now?
+  - You can try and run it again, it's built to be run repeatedly if it is necessary.
+- The script may fail with an error such as `command not found: brew` and/or `command not found: asdf` even after re-runs. In that case, please enter the following commands to correct:
+
   ```bash
   echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ${HOME}/.zprofile
   eval "$(/opt/homebrew/bin/brew shellenv)"
   ```
-* The script may fail with an error indicating `yarn not found` even after re-runs. In that case, please enter the following commands to correct from the `www-gitlab-com` repo which was checked out:
+
+- The script may fail with an error indicating `yarn not found` even after re-runs. In that case, please enter the following commands to correct from the `www-gitlab-com` repo which was checked out:
+
   ```bash
   nversion=$(cat .tool-versions | grep nodejs | cut -d " " -f 2)
   asdf install nodejs $nversion
   asdf global nodejs $nversion
   ```
 
-* The script may fail with an error such as `An error occurred while installing eventmachine (1.2.7), and Bundler cannot continue.` even after re-runs, this is usually seen with M1 MacBooks. In that case, please enter the following command to correct in your local `www-gitlab-com` repo:
+- The script may fail with an error such as `An error occurred while installing eventmachine (1.2.7), and Bundler cannot continue.` even after re-runs, this is usually seen with M1 MacBooks. In that case, please enter the following command to correct in your local `www-gitlab-com` repo:
+
   ```bash
   gem install eventmachine -v '1.2.7' -- --with-ldflags="-Wl,-undefined,dynamic_lookup"
   ```
 
-* I ran this script a while back, do I need to run it again?
-  * You can run it again, there's no harm in doing so and it will update to the correct versions of all your dependencies as well which might be useful to solve problems.
-* My handbook is broken
-  * Try and run this script again, it might fix things, but if not, please contact `#handbook` on Slack for assistance.
-* This script no longer works, who can I contact?
-  * @marshall007 on Slack or [gitlab.com](https://gitlab.com/marshall007)
+- I ran this script a while back, do I need to run it again?
+  - You can run it again, there's no harm in doing so and it will update to the correct versions of all your dependencies as well which might be useful to solve problems.
+- My handbook is broken
+  - Try and run this script again, it might fix things, but if not, please contact `#handbook` on Slack for assistance.
+- This script no longer works, who can I contact?
+  - @jamiemaynard on Slack or [gitlab.com](https://gitlab.com/jamiemaynard)
 
 ## 4. Install Git
 
@@ -106,8 +104,7 @@ See the [GitLab SSH docs](https://docs.gitlab.com/ee/user/ssh.html) for more inf
 1. If Git is not installed, you should be prompted to install it. Follow this [guide](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html) to installing Git and
 linking your account to Git.
 
-## 5. Install a Ruby version manager
-<a name="5-install-ruby-version-manager-rvm"></a>
+## 5. Install a Ruby version manager {#5-install-ruby-version-manager-rvm}
 
 (Note: This step can be skipped if you used the 'single script setup method' above)
 
@@ -229,27 +226,27 @@ We are happy to have you join our company and to include you in our [team page](
 
 Ask anyone in the company for help if you need it - you can use either the #mr-buddies or #questions Slack channel for this purpose. There are **three** ways to update the website.
 1. [Add your info on GitLab.com using the Web IDE](https://about.gitlab.com/handbook/git-page-update/#method-1-add-your-info-on-gitlabcom-using-web-ide)
-2. [Add your info on GitLab.com using the 'web interface'](https://about.gitlab.com/handbook/git-page-update/#method-2-add-your-info-on-gitlabcom-using-the-web-interface)
-3. [Add your info using a Local Git clone (using the terminal and an IDE)](https://about.gitlab.com/handbook/git-page-update/#method-3-add-your-info-using-a-local-git-clone-using-the-terminal-and-an-ide)
+1. [Add your info on GitLab.com using the 'web interface'](https://about.gitlab.com/handbook/git-page-update/#method-2-add-your-info-on-gitlabcom-using-the-web-interface)
+1. [Add your info using a Local Git clone (using the terminal and an IDE)](https://about.gitlab.com/handbook/git-page-update/#method-3-add-your-info-using-a-local-git-clone-using-the-terminal-and-an-ide)
 
 Choose the method below that feels most comfortable and have the following information handy:
 
-* An invitation to the [www-gitLab-com project](https://gitlab.com/gitlab-com/www-gitlab-com) at your GitLab email account.
-* Name of the People Connect Team member helping you with onboarding.
+- An invitation to the [www-gitLab-com project](https://gitlab.com/gitlab-com/www-gitlab-com) at your GitLab email account.
+- Name of the People Connect Team member helping you with onboarding.
 <a name="picture-requirements"></a>
-* A picture of yourself for the team page
+- A picture of yourself for the team page
   > **Picture Requirements**
   >
-  > * Crop image to a perfect square.
-  > * Keep maximum dimension under 400 by 400 pixels.
-  > * Use the JPEG (`.jpg`) or PNG (`.png`) format.
-  > * Keep the file size below 100k. Minify using something like [tinyjpg.com](https://www.tinyjpg.com).
-  > * Test image in color and black-and-white (you will add the color version).
-  > * The image file should be located in the folder `sites/uncategorized/source/images/team/`
-  > * Name file `yournameinlowercase` and add the appropriate file extension.
-* Story about your background and interests. (See other team member profiles for examples.)
-* Add your personal LinkedIn / Twitter / GitLab handles. Make sure to only include your username without any links or `@` in front of them. ie. `LinkedIn: username`. (Some incorrect examples are: `LinkedIn: linkedin.com/in/username`, `LinkedIn: @username`.)
-* A relative link to your role. If your link is `https://handbook.gitlab.com/job-families/engineering/support-engineer/` use `/job-families/engineering/support-engineer/`. Refer to other entries for reference.
+  > - Crop image to a perfect square.
+  > - Keep maximum dimension under 400 by 400 pixels.
+  > - Use the JPEG (`.jpg`) or PNG (`.png`) format.
+  > - Keep the file size below 100k. Minify using something like [tinyjpg.com](https://www.tinyjpg.com).
+  > - Test image in color and black-and-white (you will add the color version).
+  > - The image file should be located in the folder `sites/uncategorized/source/images/team/`
+  > - Name file `yournameinlowercase` and add the appropriate file extension.
+- Story about your background and interests. (See other team member profiles for examples.)
+- Add your personal LinkedIn / Twitter / GitLab handles. Make sure to only include your username without any links or `@` in front of them. ie. `LinkedIn: username`. (Some incorrect examples are: `LinkedIn: linkedin.com/in/username`, `LinkedIn: @username`.)
+- A relative link to your role. If your link is `https://handbook.gitlab.com/job-families/engineering/support-engineer/` use `/job-families/engineering/support-engineer/`. Refer to other entries for reference.
 
 ### Method 1: Add your info on GitLab.com using Web IDE
 
@@ -257,99 +254,138 @@ Choose the method below that feels most comfortable and have the following infor
 1. Click on the avatar above your name (or job title). A modal will open.
 1. In that modal, on the bottom, click `Edit this page`
 1. Our web editor will open with your team page entry opened.
-1. <%= partial "team-page-fields" %>
+1. Once you have found the file with your name or slug in its title, in the directory `data/team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/` (make sure you are searching within the file you want to edit by clicking on the file first), update your details:
+    - Update your `name` if needed to your `FirstName LastName`or `PreferredName LastName`
+    - `locality` should be left empty
+    - `country` should be set to `Remote`
+    - Verify your `role`
+    - If your position title is incorrect or not filled in, navigate to `job_families.yml` and use `command-F` (macOS) or `ctrl-F` (nix) to search for your job title. You can search for .yml files in the Web IDE using `command-P` (macOS) or `ctrl-P` (nix)
+    - Check that your role links to your job description. If not, add a link. For example, change `<a href="">Solutions Architect</a>` to `<a href="/job-families/sales/solutions-architect/">Solutions Architect</a>`.
+    - Verify `reports_to` lists your manager using the `slug` value from their team page entry
+    - If you are a manager, verify the `reports_to` of your direct reports are referring to your `slug`
+    - If you're currently on a borrow request, add `borrow` and set the `to` and `end_date` keys, e.g.
+
+    ```yaml
+    borrow:
+      to: ramya-authappan
+      end_date: 2023-09-15
+    ```
+
+    - Set your current work priorities in the `work_priorities` field, as an array, e.g.
+
+    ```yaml
+    work_priorities:
+      - Product Analytics
+      - ModelOps
+    ```
+
+    - Add the filename of your profile picture, making sure to match letter case. Delete `../gitlab-logo-extra-whitespace.png`, if present. The completed line should look like this: `picture: yournameinlowercase.jpg`.
+    - Add your pronouns
+    - Consider adding `pronunciation` for your full name to help others to pronounce your name correctly (e.g. sid see-brandy for Sid Sijbrandij)
+    - Add your Twitter and GitLab handles without the leading `@`
+    - Ensure your list of `departments` is accurate. Use other team members' as a reference.
+    - Add your [`specialty`](https://about.gitlab.com/company/team/structure/#specialist)
+    - Add your [`expertise`](https://about.gitlab.com/company/team/structure/#expert)
+    - Add your own `story`. Use other team members' stories as a reference.
+    - If remote work has [changed your life](https://about.gitlab.com/company/culture/all-remote/people/) in a meaningful way, consider adding your own `remote_story`, using other team members' remote stories as a [reference](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/uploads/8161ceac4523a9f36244f9533960ccbd/remote-story-example.png)
+    - Update any data that was filled in but is incorrect
+
+    **Important:** Do not use the `tab` character, and respect the spaces between lines to avoid breaking the page format. Referenced file names/extensions are case sensitive, and a file that is not found will cause a pipeline failure. The file should end with an empty newline or it will cause a pipeline failure.
 1. To upload your image, ensure that it is prepared according to the [Picture Requirements](https://about.gitlab.com/handbook/git-page-update/#12-add-yourself-to-the-team-page).
-  1. Navigate to find the `team` folder using the path `sites/uncategorized/source/images/team/`. To do this, you must first notice that you are in a file that is within the `person` folder, which is within the `team_members` folder, which is within the `data` folder. You can close folders by clicking on the ⋁ to the left of the folder name. Once you have closed the `data` folder, you will see the `sites` folder 6 folders down. Open `sites` by clicking the >, then `uncategorized`, then `source`, then `images`, and finally `team`.
-  1. Right click on `team` and choose `Upload`.
-  1. Select the image you want to upload and Open.
-  1. Now you will navigate back to your team page entry. You can do this by either closing the `sites` folder and opening `data`, then `team members`, `person`, and the folder containing you file; or you can notice your file tab on the top bar, and you can click on it to be taken to that file.
-  1. Update your `picture` field to your filename. Delete the content that is this line after the `picture:` that starts with `../gitlab` etc. Make sure to match the letter case of your picture file. The completed line should look like this: `picture: yournameinlowercase.jpg` for example.
+    1. Navigate to find the `team` folder using the path `sites/uncategorized/source/images/team/`. To do this, you must first notice that you are in a file that is within the `person` folder, which is within the `team_members` folder, which is within the `data` folder. You can close folders by clicking on the ⋁ to the left of the folder name. Once you have closed the `data` folder, you will see the `sites` folder 6 folders down. Open `sites` by clicking the >, then `uncategorized`, then `source`, then `images`, and finally `team`.
+    1. Right click on `team` and choose `Upload`.
+    1. Select the image you want to upload and Open.
+    1. Now you will navigate back to your team page entry. You can do this by either closing the `sites` folder and opening `data`, then `team members`, `person`, and the folder containing you file; or you can notice your file tab on the top bar, and you can click on it to be taken to that file.
+    1. Update your `picture` field to your filename. Delete the content that is this line after the `picture:` that starts with `../gitlab` etc. Make sure to match the letter case of your picture file. The completed line should look like this: `picture: yournameinlowercase.jpg` for example.
 1. Once you have finished this, click the `Source Control` icon, as described in point 5 of [Using the new Web IDE to edit the handbook](/handbook/practical-handbook-edits/#using-the-new-web-ide-to-edit-the-handbook).
 1. Create a title for your MR, and enter it in the box above the `Commit & Push` button. An example title would be `Updating My Team Page Entry`.
 1. Click the `Commit & Push` button.
 1. Click on `Yes Commit to a new branch`.
 1. You will then be in the `New branch name` section. Enter your branch name, in the format of `yourinitials-add-YOURNAME-to-team-page-date` or similar. Example: `plh-add-paulalilyherbert-to-team-page-feb06` and press `Return/Enter`.
-1. Click on `Create MR`. If this message disappears, click on the notification bell icon on the bottom right, and it will bring back the message. 
-1. In the Desciption box, explain `Why is this change being made?` as decribed. For this specific MR, you can enter something like: `Adding my information and picture to the team page due to onboarding tasks.` 
+1. Click on `Create MR`. If this message disappears, click on the notification bell icon on the bottom right, and it will bring back the message.
+1. In the Desciption box, explain `Why is this change being made?` as decribed. For this specific MR, you can enter something like: `Adding my information and picture to the team page due to onboarding tasks.`
 1. Scroll down and `Create merge request`.
 1. Review the Author Checklist and check off all applicable tasks. Add your People Connect onboarding team member and Manager as Reviewers. If your manager has a gold triangle symbol with an exclamation mark on their bottom right section of their avatar photo, it means that they do not have merge rights to the team page so you can assign the MR to your People Connect team member if that is the case. If there is no triangle on your manager avatar, you may assign the MR to your manager.
 
 ### Method 2: Add your info on GitLab.com using the 'web interface'
 
-  1. Go to the [GitLab.com / www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/) project.
-  1. Click the `+` under the red line near the top of the screen.
-  1. Click `New branch`.
-  1. For `Branch name`, name it something unique (it's temporary so don't worry too much about the exact name) like *your initials-team-page-update-yourdepartment-the date* and click `Create branch`. Example: `hk-team-page-update-custsupport-feb06`
-  1. Start by adding your image. Click on `Repository` on the left side then `Files`.
-  1. In the file browser, navigate to `sites/uncategorized/source/images/team`
-  1. At the top of the page click `+` and choose `Upload file` to upload your picture. Be sure to follow the [picture requirements](#picture-requirements). Add text *Add YourFirstName YourLastName to team page* and click `Upload file`.
-  1. Navigate on your branch near the top of the page following the text that has your unique branch name and click on the text that follows your branch name `www-gitlab-com`.
-  1. Now you will edit your biographical information. All the bio information displayed on the Team page is pulled from a data file. Click on `data`, and then scroll down to `team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/SLUG_REPLACE.yml` (you are looking for a file that specifies your name or slug).
-  1. Click on `edit` on the top right side of your screen.
-  1. <%= partial "team-page-fields" %>
-  1. After you added your information, add a comment to your commit and click on “Commit Changes”.
-  1. Now [Create a merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html) in [GitLab.com](https://gitlab.com/gitlab-com/www-gitlab-com) with the branch that you created by clicking `Create merge request` button.
+1. Go to the [GitLab.com / www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/) project.
+1. Click the `+` under the red line near the top of the screen.
+1. Click `New branch`.
+1. For `Branch name`, name it something unique (it's temporary so don't worry too much about the exact name) like *your initials-team-page-update-yourdepartment-the date* and click `Create branch`. Example: `hk-team-page-update-custsupport-feb06`
+1. Start by adding your image. Click on `Repository` on the left side then `Files`.
+1. In the file browser, navigate to `sites/uncategorized/source/images/team`
+1. At the top of the page click `+` and choose `Upload file` to upload your picture. Be sure to follow the [picture requirements](#picture-requirements). Add text *Add YourFirstName YourLastName to team page* and click `Upload file`.
+1. Navigate on your branch near the top of the page following the text that has your unique branch name and click on the text that follows your branch name `www-gitlab-com`.
+1. Now you will edit your biographical information. All the bio information displayed on the Team page is pulled from a data file. Click on `data`, and then scroll down to `team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/SLUG_REPLACE.yml` (you are looking for a file that specifies your name or slug).
+1. Click on `edit` on the top right side of your screen.
+1. <%= partial "team-page-fields" %>
+1. After you added your information, add a comment to your commit and click on “Commit Changes”.
+1. Now [Create a merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html) in [GitLab.com](https://gitlab.com/gitlab-com/www-gitlab-com) with the branch that you created by clicking `Create merge request` button.
   - Create a title that describes your changes at a high level.
   - Add a description of your changes
   - Assign the merge request to yourself
   - Make sure the source branch is the one you created `hk-team-page-update-custsupport-feb06` (as an example from above) and the target is `master`
   - Check the box `delete source branch when merge request is accepted`
-  1. Click `create merge request`
-    At the upper right of the new page, click `edit` next to `Reviewer` and set your manager as reviewer for this merge request.
+1. Click `create merge request`  At the upper right of the new page, click `edit` next to `Reviewer` and set your manager as reviewer for this merge request.
 
 ### Method 3: Add your info using a Local Git clone (using the terminal and an IDE)
-  *Note:* This method may take longer than other methods, because it requires `git clone` for around 4GB size repository.
 
-  1. Download Git, following the [start using git documentation](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html).
-  1. Follow the steps to create and add your [SSH keys](https://docs.gitlab.com/ee/user/ssh.html).
-  1. Clone the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com) through your shell, following the [command line commands documentation](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html).
-  1. Create and checkout a new branch for the changes you will be making.
-  1. Add your picture to the `sites/uncategorized/source/images/team/` directory in the repository and `git add` it. Be sure to follow the [picture requirements](#picture-requirements).
-  1. Open `data/team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/SLUG_REPLACE.yml` in your favorite editor, specifically looking for the file with your name or slug.
-  1. <%= partial "team-page-fields" %>
-  1. Save the changes to the file in `data/team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/` that you just edited, and `git add` it.
-  1. To see your changes locally:
-        1. Manually run a command to compile the changes you just made into a file that actually populates the team page:<br/>
-           ```
-           cd <WWW-GITLAB-COM REPO ROOT>
-           bundle exec rake build:team_yml
-           ```
-        1. Follow the preview directions in [development.md](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/development.md#preview-direction).
-  1. After validating your changes, commit your changes to the branch of www-gitlab-com that you created in step 4, with a comment *Add FirstName LastName to team page* and push your branch. You may need to set the remote as upstream or you can use `--set-upstream` option and specify remote as upstream.
-  1. [Create a Merge Request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html) in [GitLab.com](https://gitlab.com/gitlab-com/www-gitlab-com) with the branch that you created and assign your manager as reviewer.
+*Note:* This method may take longer than other methods, because it requires `git clone` for around 4GB size repository.
 
-  *Note:* When you test locally, the map on top of the page won't show your photo. This is because it is not populated with local data. [More about how the map works](https://gitlab.com/gitlab-com/teampage-map/-/blob/main/README.md#background). You will see your picture on the map as soon as your Merge Request is merged.
-  *Note:* Searching the handbook in your local environment yields production results, so navigate directly to the team page via URL to see your changes.
+1. Download Git, following the [start using git documentation](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html).
+1. Follow the steps to create and add your [SSH keys](https://docs.gitlab.com/ee/user/ssh.html).
+1. Clone the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com) through your shell, following the [command line commands documentation](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html).
+1. Create and checkout a new branch for the changes you will be making.
+1. Add your picture to the `sites/uncategorized/source/images/team/` directory in the repository and `git add` it. Be sure to follow the [picture requirements](#picture-requirements).
+1. Open `data/team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/SLUG_REPLACE.yml` in your favorite editor, specifically looking for the file with your name or slug.
+1. <%= partial "team-page-fields" %>
+1. Save the changes to the file in `data/team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/` that you just edited, and `git add` it.
+1. To see your changes locally:
+    1. Manually run a command to compile the changes you just made into a file that actually populates the team page:
+
+       ```bash
+       cd <WWW-GITLAB-COM REPO ROOT>
+       bundle exec rake build:team_yml
+       ```
+
+    1. Follow the preview directions in [development.md](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/development.md#preview-direction).
+1. After validating your changes, commit your changes to the branch of www-gitlab-com that you created in step 4, with a comment *Add FirstName LastName to team page* and push your branch. You may need to set the remote as upstream or you can use `--set-upstream` option and specify remote as upstream.
+1. [Create a Merge Request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html) in [GitLab.com](https://gitlab.com/gitlab-com/www-gitlab-com) with the branch that you created and assign your manager as reviewer.
+
+*Note:* When you test locally, the map on top of the page won't show your photo. This is because it is not populated with local data. [More about how the map works](https://gitlab.com/gitlab-com/teampage-map/-/blob/main/README.md#background). You will see your picture on the map as soon as your Merge Request is merged.
+*Note:* Searching the handbook in your local environment yields production results, so navigate directly to the team page via URL to see your changes.
 
 ### Add your pet(s) to the Team Pets Page
 
-  Using what you learned in the [steps above](/handbook/git-page-update/#12-add-yourself-to-the-team-page), consider adding your pet(s) to the [Team Pets page](/company/team-pets/). You can follow these instructions to add them via the Web IDE.
+Using what you learned in the [steps above](/handbook/git-page-update/#12-add-yourself-to-the-team-page), consider adding your pet(s) to the [Team Pets page](/company/team-pets/). You can follow these instructions to add them via the Web IDE.
 
-  1. Again, find the picture that you'd like to add to the team pets page, and update the picture's name to the following format: `petname.jpg` or `petname.png`. Ensure the picture size is around 400x400 (*it must be square*, see [picture requirements](#picture-requirements)).
-  1. Go to the [GitLab.com / www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/) project.
-  1. On the Repository page, you will see a Web IDE button near the middle of the page next to the Find File button.
-  1. In the browser window, navigate to `sites/uncategorized/source/images/team/pets`.
-  1. Right click on `pets` and choose `Upload`.
-  1. Select the image you want to upload and Open.
-  1. Next, navigate to `data/pets.yml` and click on it to open the editor.
-  1. Scroll to the end of the file. Add your pet by following the format of the existing pets on the page (you can copy and paste their lines of code, even). Ensure that you include your pet's name, your full name, and the name of the image you uploaded in step 1.
-  1. Once you have finished this, click the `Source Control` icon, as described in point 5 of [Using the new Web IDE to edit the handbook](/handbook/practical-handbook-edits/#using-the-new-web-ide-to-edit-the-handbook).
+1. Again, find the picture that you'd like to add to the team pets page, and update the picture's name to the following format: `petname.jpg` or `petname.png`. Ensure the picture size is around 400x400 (*it must be square*, see [picture requirements](#picture-requirements)).
+1. Go to the [GitLab.com / www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/) project.
+1. On the Repository page, you will see a Web IDE button near the middle of the page next to the Find File button.
+1. In the browser window, navigate to `sites/uncategorized/source/images/team/pets`.
+1. Right click on `pets` and choose `Upload`.
+1. Select the image you want to upload and Open.
+1. Next, navigate to `data/pets.yml` and click on it to open the editor.
+1. Scroll to the end of the file. Add your pet by following the format of the existing pets on the page (you can copy and paste their lines of code, even). Ensure that you include your pet's name, your full name, and the name of the image you uploaded in step 1.
+1. Once you have finished this, click the `Source Control` icon, as described in point 5 of [Using the new Web IDE to edit the handbook](/handbook/practical-handbook-edits/#using-the-new-web-ide-to-edit-the-handbook).
 1. Create a title for your MR. An example title would be `Adding my dog Gary to the Team Pets Page`.
 1. Click the `Commit & Push` button.
 1. Click on `Yes Commit to a new branch`.
 1. You will then be in the `New branch name` section. Enter your branch name, in the format of `yourinitials-add-YOURNAME-to-team-page-date` or similar. Example: `plh-add-paulalilyherbert-to-team-page-feb06` and press `Return/Enter`.
 1. Click on `Create MR`. If this message disappears, click on the notification bell icon on the bottom right, and it will bring back the message.
-  1. Fill out the merge request details and assign it to your manager for review.
+    1. Fill out the merge request details and assign it to your manager for review.
 
 ## 13. Edit the Handbook
 
 ### WebIDE, using the browser
+
 The Web Integrated Development Environment (IDE) is used to make changes within the browser. This method requires no setup.
 
 1. Find the handbook page to edit.
 1. Click on the `Edit this page` link on the top right section, above On this page; or click the `Edit this page`link at the bottom of the page.
 1. Edit the page using [MarkDown](/handbook/markdown-guide/). You can preview your changes (but links will not work).
-    * Note: You can edit other pages by browsing through the filelist on the left side in the Web IDE.
+    - Note: You can edit other pages by browsing through the filelist on the left side in the Web IDE.
 1. After making your changes, click the `Source Control` symbol on the left side (under the Search / magnifying glass symbol).
 1. Write a Commit message, which will be the title of your merge request, and click `Commit & Push`. The message or title should be as brief as possible, since it has a character limit. You can add more detail in the description in a subsequent step.
 1. 1. Click on `Yes Commit to a new branch`.
@@ -358,8 +394,8 @@ The Web Integrated Development Environment (IDE) is used to make changes within 
 1. Submit and you will be taken to the merge request (MR) page.
 1. Feel free to add a more detailed message in the description box.
 1. Assign the MR to the [Directly Responsible Individual (DRI)](/handbook/people-group/directly-responsible-individuals/):
-  - If the DRI for the page(s) being updated isn't immediately clear, then assign it to your manager.
-  - If your manager does not have merge rights, please ask someone to merge it _after_ it has been approved by your manager in [#mr-buddies](https://gitlab.slack.com/archives/CLM8K5LF4).
+    - If the DRI for the page(s) being updated isn't immediately clear, then assign it to your manager.
+    - If your manager does not have merge rights, please ask someone to merge it *after* it has been approved by your manager in [#mr-buddies](https://gitlab.slack.com/archives/CLM8K5LF4).
 
 ### Using Visual Studio Code
 
@@ -367,17 +403,17 @@ You can edit the handbook using [Visual Studio Code](https://code.visualstudio.c
 
 ### Locally, using the terminal
 
-  1. If you haven't already, follow steps 1-5 in the "Add yourself to the Team Page"'s "Add Locally (using the terminal)" section above.  (This step is necessary as the handbook lives in the same repository as the rest of GitLab.com).  If you're following this guide in order and have already added yourself to the team page, instead go back to the main branch (via `git checkout master`) and there create a new branch for your handbook edits.
-  2. The handbook lives under `sites/handbook/source/handbook`.  For the most part, you can locate the specific item to edit via that item's URL.  For instance, this page is /handbook/git-page-update/ and its source lives in `sites/handbook/source/handbook/git-page-update/index.html.md.erb`.
-  3. Edit away!  See the "Start Contributing" section, above, for details about the Markdown that most pages are written in.
-  4. Preview your changes locally by following the directions in `README.md`.  Keep in mind that the local server won't auto-reload when you change a page, so you'll need to restart it to see what you've done.
-  5. Once you've made your changes and verified they appear the way you want them to, commit them with a comment and push your branch.
-  6. As above, [Create a Merge Request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html) in the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com).  If you're onboarding, don't forget to assign it to your manager.
+1. If you haven't already, follow steps 1-5 in the "Add yourself to the Team Page"'s "Add Locally (using the terminal)" section above.  (This step is necessary as the handbook lives in the same repository as the rest of GitLab.com).  If you're following this guide in order and have already added yourself to the team page, instead go back to the main branch (via `git checkout master`) and there create a new branch for your handbook edits.
+1. The handbook lives under `sites/handbook/source/handbook`.  For the most part, you can locate the specific item to edit via that item's URL.  For instance, this page is /handbook/git-page-update/ and its source lives in `sites/handbook/source/handbook/git-page-update/index.html.md.erb`.
+1. Edit away!  See the "Start Contributing" section, above, for details about the Markdown that most pages are written in.
+1. Preview your changes locally by following the directions in `README.md`.  Keep in mind that the local server won't auto-reload when you change a page, so you'll need to restart it to see what you've done.
+1. Once you've made your changes and verified they appear the way you want them to, commit them with a comment and push your branch.
+1. As above, [Create a Merge Request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html) in the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com).  If you're onboarding, don't forget to assign it to your manager.
 
 ## Marking a merge request as draft
 
 1. You can easily prevent a merge request from being merged before you're ready by marking it as a *work in progress*. Simply type "Draft:" at the beginning of your merge request title (e.g. "Draft: My Handbook Change"). To merge once you're ready, select ["Mark as ready" around the title](https://docs.gitlab.com/ee/user/project/merge_requests/drafts.html).
-  1. **Note:** Only mark a merge request as draft if it will negatively affect the company if merged too early. That can be the case for application code but is almost never possible for handbook MRs.
+    - **Note:** Only mark a merge request as draft if it will negatively affect the company if merged too early. That can be the case for application code but is almost never possible for handbook MRs.
 
 ## Ready to merge
 
@@ -392,12 +428,13 @@ If you recently created a Merge Request that was labeled as a Community contribu
 
 Here is how you can do that:
 1. Search for your last name using Find File feature in the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) project OR head to https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person, open the folder that matches with the first initial of your first name, and find your file.
-1. Open your file. 
+1. Open your file.
 1. Once the file is open, click on the Edit button.
 1. Update the gitlab attribute (typically found on line 11) in the file so that the entry is an **exact match** for the GitLab.com username you use for work.
 1. Create a Merge Request and assign to your manager or ask for help in [mr-buddies](https://gitlab.slack.com/archives/CLM8K5LF4/p1678812429884979) in Slack.
 
 ## Where should content go?
+
 GitLab has a lot of places you can put web content including the [website](/handbook/marketing/digital-experience/), [blog](/handbook/marketing/blog/), [docs](https://docs.gitlab.com/ee/development/documentation/index.html), and the [handbook](/handbook/handbook-usage/). Here's an overview of where you should create a merge request to add content.
 1. **[blog](/handbook/marketing/blog/)**: The blog is a great place to start. If you don't know where to put content, then write a blog post! Great blogs can always be then copied or modified for the website, docs, and handbook later. Blog posts are especially good for news, announcements, and current trends because blog posts are tied to a specific date.
 1. **[website](/handbook/marketing/digital-experience/)**: This is the main marketing site for GitLab and where folks will tend to go first to find out information about GitLab (the product and the company). The website contains a broad set of content from [product pages](/product) to [customer case studies](/customers). The website is the best place for [evergreen](https://www.wordstream.com/blog/ws/2012/10/16/guide-to-evergreen-content-marketing) articles such as [topic](/handbook/marketing/digital-experience/#topics) and [solution](/handbook/marketing/digital-experience/website/#solutions) pages since it's not tied to specific date.
