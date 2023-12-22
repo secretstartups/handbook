@@ -78,7 +78,7 @@ Payments, gifts, favors, or entertainment for officials, employees, or represent
 - If the claim is over the advised guidance, the claim will be rejected with a note for the Team Member. The Team Member should be able to rectify the claim and resubmit.
 - Where the Team Member has already received approval from the manager, that approval should be attached as a receipt on the claim transaction.
 - Any claim made which does not fall into the policy is not reimbursable.  If an item is out of policy and approved by your manager, then please obtain and attach your manager's approval email prior to submitting the expense. This will then be reviewed by the Expense team Admin and could need further approval from VP, Corporate Controller or CAO.
-- There will be occasions where if you have claimed an item and it needs to be reimbursed back to Gitlab, you will need to follow the repayment process in Navan for submission of the funds.
+- There will be occasions where if you have claimed an item and it needs to be reimbursed back to GitLab, you will need to follow the repayment process in Navan for submission of the funds.
 
 ### 3.2 Other
 
@@ -99,7 +99,7 @@ Payments, gifts, favors, or entertainment for officials, employees, or represent
 
 #### Airfare
 
-All business related flights need to be booked through Navan, and will be paid by Gitlab travel card. For each flight search, Navan determines the price in real time. Also to note that while it is sometimes possible to find a cheaper flight outside of Navan, we get overall better rates in the aggregate with the buying power of the whole company. Even if a flight is cheaper outside of Navan, please book in Navan. Also email expenses@gitlab.com with screenshots of Navan's rate and the other airlines rate so the Expense team can address with Navan.
+All business related flights need to be booked through Navan, and will be paid by GitLab travel card. For each flight search, Navan determines the price in real time. Also to note that while it is sometimes possible to find a cheaper flight outside of Navan, we get overall better rates in the aggregate with the buying power of the whole company. Even if a flight is cheaper outside of Navan, please book in Navan. Also email expenses@gitlab.com with screenshots of Navan's rate and the other airlines rate so the Expense team can address with Navan.
 
 #### Advance Purchase
 
@@ -237,7 +237,7 @@ In the event of an accident resulting in damage to the rental car, the Non-US re
 #### How Mileage Rates are Based
 
 - The mileage rate is based on your legal entity’s mileage rates for the current year. These will be updated yearly for tax compliance.
-- However, for the following entities (due to limited visibility online), the default rate is set at $.50/mile… so please update the rate on your mileage if needed to match your local compliance laws: Gitlab IT BV, Gitlab Korea and Gitlab Japan.
+- However, for the following entities (due to limited visibility online), the default rate is set at $.50/mile… so please update the rate on your mileage if needed to match your local compliance laws: GitLab IT BV, GitLab Korea and GitLab Japan.
 
 {{% panel header="**Coding**" header-bg="green" %}}
 **Expense Type / Navan Policy Category:** Distance Driven
@@ -246,7 +246,7 @@ In the event of an accident resulting in damage to the rental car, the Non-US re
 ### Train
 
 - The Train policy in Navan is set up as a “Dynamic Policy” which calculates a fair market price for every search based on travel dates and destinations. Any purchases that are over 20% of the Dynamic Policy will be flagged for further review by your manager.  Also note that anything booked outside of Navan will flag as “Out of Policy”, and will need to be reviewed by your manager and the AP team.
-- Trains booked through Navan will be paid by Gitlab travel card.
+- Trains booked through Navan will be paid by GitLab travel card.
 - Train rides must be standard cabin class with a 14 day booking lead time.
 - If you travel more than 3 train trips (6 segments) per quarter, and they are over 5 hours in duration; we will allow you to upgrade one class on the train.
 - Yearly or Monthly Rail Discount cards are not reimbursable.
@@ -342,7 +342,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 - Copy of approved email must be submitted with first month submission.
 - No contracts are allowed to be under the GitLab name and it must be under the Team Members name.
 - The co-working space must be submitted monthly in the month it pertains to with full receipts to be provided.
-- Gitlab will not cover security deposits or advance payments for co-working space.
+- GitLab will not cover security deposits or advance payments for co-working space.
 - Travel to and from the co-working space, parking, meals, beverages, access cards, insurance and other additional expenses in a co-working facility are not reimbursable. Only the rent for the space is reimbursable.
 - If co-working space is used together with a combination of working from home, we will allow the reimbursement of the internet cost for where you spend most of your time. i.e. if you expense a co-working space for a full month then internet for home cannot be expensed. If you expense co-work for a few days in a month then home internet can be expensed in full.
 
@@ -370,7 +370,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 - In addition, as of 2023-02-08, Team Members will get a yearly refresh of 500 USD (or equivalent local currency) to purchase upgrades, replacements, or enhancements to your home office setup. This only applies to Team Members who have been employed the entire previous fiscal year. This excludes laptops - please connect with the IT team if you require a replacement laptop.
 - Team Members who have started during the year before this expense policy took effect, and have not yet expensed key parts of their home office equipment (such as office chair, desk and monitor) are also eligible for the New Hire 1,500 USD stipend (pro-rata). In order to claim this, please email expenses@gitlab.com and explain your situation. The team will assist you with provisioning the Virtual Card.
 - We want you to set up your office the way you want it. Although we don't want to put any restrictions regarding which office equipment you may purchase, we would like to outline what is covered under the term Office Equipment.
-- What's included - Essential items which you will need to ensure you are able to perform your role in Gitlab should include chair, desk, monitor, Laptop (provided), headset, external mic, external keyboard and external mouse.
+- What's included - Essential items which you will need to ensure you are able to perform your role in GitLab should include chair, desk, monitor, Laptop (provided), headset, external mic, external keyboard and external mouse.
 - Further to this, items like additional monitors, laptop stand, external webcam, supplementary lighting, laptop bag/case, can also be considered and expensed using the Stipend/Allowance.
 - Any items outside this will fall under an exception to the policy and will be subjected to review.
 - In addition the following items are **not reimbursable**: Phones, watches, smart speakers and tablets.
@@ -625,9 +625,9 @@ The procedure by which reimbursable expenses are processed varies and is depende
 
 ### 4.5 Submitting Expenses on Behalf (or Requested By) Team Member’s Manager
 
-- A Team Member submitting expenses on behalf of their manager is a violation of our Expense policy and Gitlab's internal controls. The AP team will review these on a quarterly basis during their review of the quarterly Manager issue. If this is found during the expense review process, the following actions will take place:
+- A Team Member submitting expenses on behalf of their manager is a violation of our Expense policy and GitLab's internal controls. The AP team will review these on a quarterly basis during their review of the quarterly Manager issue. If this is found during the expense review process, the following actions will take place:
    - AP Admins to notify the Team Member, the Team Member's manager, the Team Member manager's manager, and Finance leadership team of the violation.
-   - The expense is to be repaid to Gitlab immediately and the Team Member's manager will need to resubmit the expense themselves.
+   - The expense is to be repaid to GitLab immediately and the Team Member's manager will need to resubmit the expense themselves.
 
 ## 5. Physical Cards
 
@@ -679,7 +679,7 @@ Domain names are key assets in GitLab's intellectual property portfolio. Central
 
 - registered or used for any purpose related to a team member's role at GitLab;
 - containing the GitLab trademark (GITLAB) or one of its derivatives (like, amongst other things, git, glab, gtlb, gl); and/or
-containing any GitLab key messaging term (like, amongst other things, devops, devops platform, all remote).
+containing any GitLab key messaging term (like, amongst other things, DevOps, DevOps platform, all remote).
 
 #### Registration of new GitLab-related Domain Names
 

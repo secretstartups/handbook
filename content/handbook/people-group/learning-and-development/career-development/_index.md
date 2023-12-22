@@ -239,7 +239,7 @@ Team Members: Take the [Support your team with Career Conversations course in Le
 
 Managers should support their direct reports with their professional development goals. Implement the following into a [1-1]({{< ref "1-1" >}}), team meeting, or async communication to support your team.
 
-1. Encourage team members to create an [Individual Growth Plan]({{< ref "career-development#individual-growth-plan" >}}) or use [Gitlab Epics to track their career development]({{< ref "career-development#use-gitlab-epics-to-track-your-career-development" >}}).
+1. Encourage team members to create an [Individual Growth Plan]({{< ref "career-development#individual-growth-plan" >}}) or use [GitLab Epics to track their career development]({{< ref "career-development#use-gitlab-epics-to-track-your-career-development" >}}).
 1. Utilize the [Growth & Development Benefit]({{< ref "/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development" >}}).
 1. Recommend (and model) blocking [time to learn during the work week]({{< ref "learning-initiatives#take-time-out-to-learn-campaign" >}}).
 1. Organize team specific and cross-functional learning communities to practice [social learning]({{< ref "learning-initiatives#social-learning-through-live-learning" >}}).
@@ -333,7 +333,7 @@ Career development is a key factor in team member engagement and role satisfacti
 
 ### Cadence
 
-This process is just an acknowledgement by the team member that they have had career conversations. Aligned with the Performance/Potential [matrix cadence]({{< ref "talent-assessment" >}}), formal career conversations will ideally happen twice per year:
+This process is just an acknowledgement by the team member that they have had career conversations. Aligned with the Performance/Potential [matrix cadence]({{< ref "/handbook/people-group/talent-assessment" >}}), formal career conversations will ideally happen twice per year:
 
 - Once in Q2
 - Once in Q4

@@ -243,22 +243,22 @@ The [Data Science Team approach to model development](/handbook/business-technol
 Our current platform consists of:
 - the [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/) for storing raw and normalized source data as well as final model output for consumption by downstream consumers
 - [JupyterLab](/handbook/business-technology/data-team/platform/jupyter-guide/) for model training, tuning, and selection
-- [GitLab](https://gitlab.com/) for collaboration, project versioning, and score code management, [experiment tracking](https://about.gitlab.com/handbook/engineering/development/incubation/mlops/ml_experiment_tracking.html), and [CI/CD](https://docs.gitlab.com/ee/ci/)
+- [GitLab](https://gitlab.com/) for collaboration, project versioning, and score code management, [experiment tracking](/handbook/engineering/development/incubation/mlops/ml_experiment_tracking.html), and [CI/CD](https://docs.gitlab.com/ee/ci/)
 - [Airflow](/handbook/business-technology/data-team/platform/infrastructure/#airflow) for automation and orchestration
 - Monte Carlo for drift detection
 - Tableau Server for model monitoring and on-going performance evaluation
 
 ### CI/CD Pipelines for Data Science
 
-We are in the process of fully moving over the training and scoring of our machine learning models to the native Gitlab CI/CD capabilities. Please see [Getting Started With CI/CD for Data Science Pipelines](/handbook/business-technology/data-team/platform/ci-for-ds-pipelines/) for the most up-to-date information and instructions.
+We are in the process of fully moving over the training and scoring of our machine learning models to the native GitLab CI/CD capabilities. Please see [Getting Started With CI/CD for Data Science Pipelines](/handbook/business-technology/data-team/platform/ci-for-ds-pipelines/) for the most up-to-date information and instructions.
 
 ### Current State Data Flows
 
 ```mermaid
 graph 
     A[Enterprise Data Warehouse: Raw and Normalized Data Sources]
-    B[JupyterLab & Gitlab CI/CD: Model Training, Tuning, and Selection]
-    C(Gitlab CI/CD & Pipeline Schedules: Batch scoring with Papermill)
+    B[JupyterLab & GitLab CI/CD: Model Training, Tuning, and Selection]
+    C(GitLab CI/CD & Pipeline Schedules: Batch scoring with Papermill)
     F[Enterprise Data Warehouse: Model Output for Consumption]
     D[Salesforce/Marketo: CRM Use Cases]
     E[Sisense/Monte Carlo: Model Monitoring and Reporting]
@@ -280,7 +280,7 @@ graph
 ### Data Science Tools at GitLab
 
 - **[Pre-configured JuypterLab Image](https://gitlab.com/gitlab-data/data-science)**: The data science team uses JupyterLab pre-configured with common python modules (pandas, numpy, etc.), native Snowflake connectivity, and git support. Working from a common framework allows us to create models and derive insights faster. This setup is freely available for anyone to use. Check out our [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/) for additional information.
-- **[Gitlab Data Science Tools for Python](https://gitlab.com/gitlab-data/gitlabds/)**: Functions to help automate common data prep (dummy coding, outlier detection, variable reduction, etc.) and modeling tasks (i.e. evaluating model performance). Install directly via [pypi](https://pypi.org/project/gitlabds/) (`pip install gitlabds`), or use as part of the above JupyterLab image.
+- **[GitLab Data Science Tools for Python](https://gitlab.com/gitlab-data/gitlabds/)**: Functions to help automate common data prep (dummy coding, outlier detection, variable reduction, etc.) and modeling tasks (i.e. evaluating model performance). Install directly via [pypi](https://pypi.org/project/gitlabds/) (`pip install gitlabds`), or use as part of the above JupyterLab image.
 - **[Modeling Templates](https://gitlab.com/gitlab-data/data-science/-/tree/main/templates)**: The data science team has created modeling templates to allow you to easily start building predictive models without writing python code from scratch. To enable these templates, follow the instructions on the [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/#enabling-jupyter-templates).
 
 ## Useful Data Science & Machine Learning Resources

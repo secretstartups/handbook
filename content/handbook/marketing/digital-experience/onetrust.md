@@ -22,6 +22,10 @@ OneTrust is privacy, security, and data governance software that marketing uses 
 1. [Cookiedatabase.org](https://cookiedatabase.org/)
 1. [Cookiepedia](https://cookiepedia.co.uk/)
 
+## Change Request
+
+For any OneTrust related request, please create a new issue under [Marketing Operations](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) using the `onetrust_change_log_request` description template. View [OneTrust change logs here](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/?sort=created_date&state=all&or%5Blabel_name%5D%5B%5D=OneTrust%3A%3ACookieCategory&or%5Blabel_name%5D%5B%5D=OneTrust%3A%3ACookieUpdate&or%5Blabel_name%5D%5B%5D=OneTrust%3A%3AGeolocation&or%5Blabel_name%5D%5B%5D=OneTrust%3A%3AOptControl&first_page_size=20), which lists issues with a `OneTrust::` label. 
+
 ## Access
 
 To access OneTrust, please create an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). OneTrust is provisioned through Okta SSO via a Google group. A user is added via the Google group which is directly connected to Okta SSO and OneTrust. All users are added as a `Project Manager`. Please specify the role needed in OneTrust in the access request so it can be updated once you have access. [See system default roles](#system-default-roles) available below.
@@ -297,12 +301,12 @@ The OneTrust banner is only visible to new website visitors based on a set of lo
 
 | Region   | Consent Model | Banner Visibility    | Buttons    |
 |-------|---------------|---------------|------------------|
-| California    | Opt out       | Not visible          |     |
+| California, Connecticut   | Opt out       | Not visible          |     |
 | Colorado   | Opt out       | Not visible          |     |
 | US     | Opt out       | Not visible          |       |
-| Europe, Colombia, Russia, Liechtenstein, United Kingdom, Iceland, Norway, Peru | Opt in        | Visible to new users | Cookie Settings, Accept All Cookies  |
+| Europe, Colombia, Russia, Liechtenstein, Iceland, Norway, Peru, Quebec | Opt in        | Visible to new users | Cookie Settings, Accept All Cookies  |
 | Korea, Brazil, Canada, South Africa, Macao   | Opt out       | Visible to new users | Cookie Settings, Accept All Cookies  |
-| France, Spain     | Opt in        | Visible to new users | Cookie Settings, Reject All, Accept All Cookies |
+| France, Spain, United Kingdom     | Opt in        | Visible to new users | Cookie Settings, Reject All, Accept All Cookies |
 | Global     | Opt out       | Not visible          |              |
 
 ### Accessing Scripts

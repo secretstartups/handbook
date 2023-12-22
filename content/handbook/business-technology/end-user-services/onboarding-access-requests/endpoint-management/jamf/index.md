@@ -57,13 +57,13 @@ Slack: [#it-help](https://gitlab.slack.com/archives/CK4EQH50E)
 
 ## Enrolling in Jamf
 
-- ### **NOTE: Before enrolling please upgrade your MacBook OS to macOS Ventura.**
+- ### **NOTE: Before enrolling please upgrade your MacBook OS to macOS Sonoma.**
 
 To install Jamf on your Mac hardware device, you will need to launch the **Chrome browser** and navigate to <https://gitlab.jamfcloud.com/enroll>.
 
 **Please note** that *Chrome browser is the preferred browser of choice for enrolling into Jamf.*
 
-### Installing Jamf for macOS Ventura
+### Installing Jamf for macOS Sonoma
 
 **Note that the following instructions are being shown in Google Chrome**
 
@@ -188,7 +188,7 @@ sudo softwareupdate --fetch-full-installer --full-installer-version <latest macO
 
 There is a notification pop up called "Clever DevOps Co." that may say Nudge is installed.
 
-<img src="clever-devops.png" alt="Clever Devops" width="300">
+<img src="clever-devops.png" alt="Clever DevOps" width="300">
 
 
 
@@ -209,6 +209,22 @@ If Nudge is not behaving as expected please follow these steps to produce logs f
 If you use [Fish Shell](https://fishshell.com/), Jamf's inventory process may be broken. To remedy this, do not set the default shell to Fish and do not launch Fish in `~/.bash_profile` or `~/.profile` or any other files which can be loaded by login shell. Use a workaround by having your Terminal program launch Fish. Please [verify the Jamf connection](#how-do-i-verify-my-connection-to-jamf-or-re-initiate-a-connection-to-the-jamf-console) after you have finished configuring Fish.
 
 # Frequently Asked Questions
+
+### Check if Jamf was installed on a new Mac automatically
+
+1. Go to Apple Logo (at the top left corner of screen) -> System Settings
+1. Search in the "System Settings" search box for "Profiles"
+1. You should see (at a minimum) - "This Mac is supervised and managed by: GitLab Inc." and an "MDM Profile". There will likely be other profiles also listed, these are okay as well.
+
+<img src="jamf-profiles.png" alt="Jamf Profiles" width="500">
+
+If you do not see the MDM Profile, please proceed with [Jamf enrollment](#enrolling-in-jamf).
+
+You can also verify that Jamf installation is complete by checking if the "Self Service" application is installed by using `Spotlight Search` via a CMD + Space combination, and search for the phrase `Self Service`.
+
+<img src="spotlight-self-service.png" alt="Spotlight Self Service" width="300">
+
+If you do see the MDM Profile but not the Self Service application, please reach out in #it_help on Slack.
 
 ### How do I verify my connection to Jamf or re-initiate a connection to the Jamf console?
 
@@ -232,9 +248,9 @@ sudo profiles renew -type enrollment
 
 After doing so, you should be prompted for your password and able to finish the enrollment.
 
-*If you receive a message containing "Error: Renewing DEP enrollment failed: The device no longer has a Device Enrollment configuration assigned to it", then please follow the [Jamf installation process](#installing-jamf-for-macos-ventura).*
+*If you receive a message containing "Error: Renewing DEP enrollment failed: The device no longer has a Device Enrollment configuration assigned to it", then please follow the [Jamf installation process](#installing-jamf-for-macos).*
 
-*If you receive a message containing "sudo: jamf: command not found" please follow the [Jamf installation process](#installing-jamf-for-macos-ventura).*
+*If you receive a message containing "sudo: jamf: command not found" please follow the [Jamf installation process](#installing-jamf-for-macos).*
 
 *If you receive a message containing "This policy trigger is already being run: root" followed by numbers and then /usr/local/jamf/bin/jamf policy then please run:*
 

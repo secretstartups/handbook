@@ -19,7 +19,7 @@ This enablement material is for GitLab team members seeking to collaborate with 
 
 By the conclusion of this session, participants will be able to:
 
-- **Describe** Gitlab's community programs and their functions
+- **Describe** GitLab's community programs and their functions
 - **Identify** potential members of the GitLab for Education, GitLab for Open Source, and GitLab for Startups programs
 - **Connect** program members with the appropriate resources/processes for those programs
 - **Identify** opportunities for collaborating with the Community Programs team to assist GitLab customers
@@ -122,7 +122,7 @@ Important points:
 
 ### Support
 
-Details on the Support workflow for Community Programs are in the [Support](/handbook/marketing/developer-relations/community-programs/automated-community-programs/) section of the Community Programs handbook page.  
+Details on the Support workflow for Community Programs are in the [Support](/handbook/marketing/developer-relations/community-programs/automated-community-programs/) section of the Community Programs handbook page.
 
 Important points:
 

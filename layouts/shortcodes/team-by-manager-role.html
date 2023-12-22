@@ -1,22 +1,26 @@
 {{- /*  Initialize. */}}
 {{- $managerRole := "" }}
+{{- $teamRole := "" }}
 
 {{- /* Get params. */}}
 {{- with (.Get 0) }}
   {{- $managerRole = . }}
 {{- else }}
-  {{- errorf "The %q shortcode requires a single positional argument for manger-role."}}
+  {{- with (.Get "role") }}
+    {{- $managerRole = . }}
+  {{- else }}
+    {{- errorf "The %q shortcode requires a single positional argument for manger-role."}}
+  {{- end }}
 {{- end }}
 
-{{ $teamDict := partials.IncludeCached "data/team-by-slug" page }}
+{{- $team := partials.IncludeCached "data/team" page }}
 
-{{ $manager := dict }}
-{{ range $k, $v := $teamDict }}
-  {{ if eq .role $managerRole }}
-    {{ $manager = . }}
-    {{ break }}
-  {{ end }}
-{{ end }}
+{{- $manager := index (where $team "role" "like" $managerRole) 0 }}
+{{- $members := slice }}
+{{- $members = where $team "reports_to" "eq" $manager.slug }}
+{{- with (.Get "team") }}
+  {{- $members = where $members "role" "like" . }}
+{{- end }}
 
 <table>
     <thead>
@@ -26,18 +30,16 @@
     <tbody>
         {{- with $manager }}
         <tr>
-          <td>{{ partial "member-by-name" .name }}</td>
-          <td>{{ .role }}</td>
+          <td>{{ partial "member" . }}</td>
+          <td>{{ .role | safe.HTML }}</td>
         </tr>
-        {{ end }}
-        {{ range $k, $v := $teamDict }}
-          {{ if eq .reports_to $manager.slug }}
+        {{- end }}
+        {{- range $members }}
           <tr>
-              <td>{{ partial "member-by-name" .name }}</td>
+              <td>{{ partial "member" . }}</td>
               <td>{{ .role | safe.HTML }}</td>
           </tr>
-          {{ end }}
-        {{ end }}
+        {{- end }}
     </tbody>
 </table>
 

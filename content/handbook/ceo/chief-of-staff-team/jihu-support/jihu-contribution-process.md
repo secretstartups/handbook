@@ -11,7 +11,7 @@ To identify contributions from JiHu, the `~"JiHu contribution"` label is automat
 
 JiHu enablement efficiency age and review metrics are publicly accessible in this [dashboard](https://app.periscopedata.com/shared/f7af38e3-0cea-4219-a5d3-6f6b25f10244?).
 
-The [Engineering Productivity](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/) team is the DRI for JiHu Engineering enablement efficiency tooling and metrics.
+The [Engineering Productivity](/handbook/engineering/quality/engineering-productivity/) team is the DRI for JiHu Engineering enablement efficiency tooling and metrics.
 
 ### Guidelines for upstream contributions
 
@@ -39,11 +39,11 @@ Example upstream planning issue: TBD
 Bigger product feature contributions should follow GitLab
 [iteration strategies](/handbook/product/product-processes/#iteration-strategies).
 
-[Iteration training](https://about.gitlab.com/handbook/engineering/development/onboarding/manager/#iteration-training) is available to coach on GitLab's value of iteration. This can be helpful to understand the expectations of GitLab product teams for feature iteration.
+[Iteration training](/handbook/engineering/development/onboarding/manager/#iteration-training) is available to coach on GitLab's value of iteration. This can be helpful to understand the expectations of GitLab product teams for feature iteration.
 
 Not every features can follow the same strategy, but the first strategy we
 try should be [crafting the minimal viable change](/handbook/product/product-processes/#crafting-an-mvc), and for creating
-merge requests, always try to [keep merge requests small](https://about.gitlab.com/handbook/engineering/workflow/iteration/#how-to-keep-a-merge-request-small).
+merge requests, always try to [keep merge requests small](/handbook/engineering/workflow/iteration/#how-to-keep-a-merge-request-small).
 
 In the above guidelines to keep merge requests small, we mentioned:
 

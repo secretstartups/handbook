@@ -14,7 +14,7 @@
     - name: Vision
       url: vision
     - name: Strategy
-      url: strategy
+      url: /handbook/company/strategy
     - name: Communication
       url: communication
       links:
@@ -49,11 +49,11 @@
       - name: KPIs
         url: kpis
       - name: OKRs
-        url: okrs
+        url: /handbook/company/okrs
       - name: Pricing Model
         url: /handbook/company/pricing
     - name: Creator pairing
-      url: https://about.gitlab.com/handbook/engineering/fellow/shadow/
+      url: /handbook/engineering/development/director-shadow-program
     - name: Chief of Staff Team to the CEO
       url: chief-of-staff-team
     - name: Key Reviews
@@ -157,44 +157,42 @@
           url: /handbook/tools-and-tips/searching
 - name: Engineering
   icon: fa-solid fa-laptop-code
-  url: https://about.gitlab.com/handbook/engineering/
+  url: /handbook/engineering/
   links:
   - name: Customer Support Department
     url: /content/handbook/support/_index.md
   - name: Development Department
-    url: https://about.gitlab.com/handbook/engineering/development/
+    url: /handbook/engineering/development/
     links:
     - name: Dev Sub-department
-      url: https://about.gitlab.com/handbook/engineering/development/dev/
-    - name: Enablement Sub-department
-      url: https://about.gitlab.com/handbook/engineering/development/enablement/
+      url: /handbook/engineering/development/dev/
     - name: Fulfillment Sub-department
-      url: https://about.gitlab.com/handbook/engineering/development/fulfillment/
+      url: /handbook/engineering/development/fulfillment/
     - name: Growth Sub-department
-      url: https://about.gitlab.com/handbook/engineering/development/growth/
+      url: /handbook/engineering/development/growth/
     - name: Ops Sub-department
-      url: https://about.gitlab.com/handbook/engineering/development/ops/
+      url: /handbook/engineering/development/ops/
     - name: Govern Sub-department
-      url: https://about.gitlab.com/handbook/engineering/development/sec/govern/
+      url: /handbook/engineering/development/sec/govern/
     - name: Secure Sub-department
-      url: https://about.gitlab.com/handbook/engineering/development/sec/secure/
+      url: /handbook/engineering/development/sec/secure/
   - name: Incubation Engineering Department
-    url: https://about.gitlab.com/handbook/engineering/incubation/
+    url: /handbook/engineering/development/incubation
   - name: Infrastructure Department
-    url: https://about.gitlab.com/handbook/engineering/infrastructure/
+    url: /handbook/engineering/infrastructure/
   - name: Quality Department
-    url: https://about.gitlab.com/handbook/engineering/quality/
+    url: /handbook/engineering/quality/
     links:
-    - name: Quality Engineering
-      url: https://about.gitlab.com/handbook/engineering/quality/quality-engineering/
+    - name: Test Platform
+      url: /handbook/engineering/infrastructure/test-platform/
     - name: Engineering Productivity
-      url: https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/
+      url: https://handbook.gitlab.com/handbook/engineering/quality/engineering-productivity/
     - name: Engineering Analytics
-      url: https://about.gitlab.com/handbook/engineering/quality/engineering-analytics/
+      url: /handbook/engineering/quality/engineering-analytics
   - name: Security Practices
     url: /handbook/security/
   - name: Open Source
-    url: https://about.gitlab.com/handbook/engineering/open-source/
+    url: /handbook/engineering/open-source/
 - name: Security
   icon: fa-solid fa-shield-halved
   url: /handbook/security
@@ -373,7 +371,7 @@
   - name: Product Development Flow
     url: /handbook/product-development-flow
   - name: Product Development Timeline
-    url: https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline
+    url: /handbook/engineering/workflow/#product-development-timeline
   - name: Data for Product Managers
     url: /handbook/business-technology/data-team/programs/data-for-product-managers
   - name: Product Pricing Model

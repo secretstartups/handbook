@@ -334,9 +334,29 @@ The Marketing Operations team had started an experiment on 2020-04-20 to commit 
 
 Periodically Marketing Operations and other teams through the marketing org make significant changes to our system and processes that affect overall tools, data and reporting or uncovers significant changes that affected reporting. As such we have a shared [changelog](https://docs.google.com/spreadsheets/d/1FHiKhQukMVfwKsBJDzyrsuzuw2bv97xQFhegvFXTeNQ/edit#gid=0). The MktgOps and Strategy/Perf teams update this document as needed as changes are made. If you are working on an issue or epic that will have a significant impact across marketing, add the label `MktgOps - changelog` so marketing oeprations can track changes across GitLab.
 
+### Stakeholder Mapping 
+Stakeholder mapping is a tool to help define roles and to delegate cross-functional responsibilities among the team. Stakeholder mapping connects key functions and jobs across marketing with a primary marketing operations stakeholder, a supporting team of marketing operations team members, and stakeholders outside of marketing operations. The main purpose of stakeholder mapping is to identify and connect the stakeholders involved in setting the strategic direction of marketing operations initiatives. 
 
+Stakeholder mapping is NOT a way to gatekeep, nor is it meant to stifle communication, collaboration, or efficiency. A particular function is not limited to communicating only with the strategic partner or supporting team members mapped to that function. Similarly, marketing operations team members who are not strategic partners or supporting team members for a particular function may still support that function in various ways. 
 
+### Why is Stakeholder Mapping important? 
+Stakeholder mapping is important because it helps to formalize a process for setting the strategic direction of marketing operations initiatives. Stakeholder mapping will help marketing operations better understand the challenges and opportunities that our stakeholders face, allowing the marketing operations team to be more proactive business partners, and better able to plan for and deliver on strategic projects.
 
+Additionally, Stakeholder Mapping creates tighter alignment between Marketing Operations and our stakeholders. It provides our stakeholders with a specific point of contact and a predictable cadence with which they can collaborate on strategic initiatives. 
+
+#### What does it mean to be a strategic partner? 
+Strategic partners are the main point of contact for understanding, documenting, and sharing strategic opportunities from the functions to which they are mapped. This can be done by conducting Marketing Operations Discovery research, which typically happens twice per fiscal year. 
+
+Findings of Discovery research are then used as inputs for the marketing operations roadmap and backlog. 
+
+### What does it mean to be a supporting team member? 
+Supporting team members are typically subject matter experts in a specific use case or area within a function. Supporting team members participate in Discovery research and should feel free to ask questions directed toward their particular focus area in order to capture additional insights. Supporting team members typically take point on note taking during Discovery research calls. 
+
+### What is Discovery research and how do we conduct it?
+Discovery research is a way to learn more about our users. Our users are members of the marketing division who use tier 1 and 2 marketing technology. Discovery research can be conducted through synchronous interviews or asynchronously. When possible, synchronous interviews are preferred because they allow us to build relationships and ask follow up questions in real time. Discovery research calls should happen quarterly, up to the discretion of the strategic partner and the stakeholder. 
+
+#### What will Discovery research insights be used for? 
+Insights from Discovery research calls will be used to inform the Marketing Operations strategic planning and roadmapping.
 
 
 ## <i class="far fa-folder-open" id="biz-tech-icons"></i> Important Resources
@@ -491,10 +511,12 @@ If you are interested in or would like to request a new tool be added to the tec
 The process for requesting a new tool is:
 1. [Tool Eval issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=tools_eval) is submited
 1. A Marketing Operations member is assigned to review the request. This person scores the requested tool in order to determine its tier. The business and technical owners of the tool are identified.  
-1. Once the request has been reviewed, the Marketing Operations manager will:
+1. For tier 1 and 2 tools, once the request has been reviewed, the Marketing Operations manager will:
    - Create a new evaluation Epic, capturing relevant details from the intake issue.
    - Assign the new Epic to the business and technical owners 
    - Update the intake issue description with a link to the new Epic.
+1. Tier 3 tools will be handled on a case-by-case basis. If the tool requires extensive evaluation and Marketing Operations support, the above process will apply. 
+1. The business owner is the DRI for tier 4 tool evaluations and implementations. 
 
 Once the evaluation Epic is created, the following evaluation steps should be followed: 
 1. Discovery - understand the request/problem we're trying to solve
@@ -749,7 +771,7 @@ To be compliant with the latest privacy policies and safeguard our database from
 
 **Note:** This only applies for leads/contacts that do NOT currently have an existing business relationship
 
-After collaborating with Gitlab's privacy department, it was decided to create a process for removing said contacts from our database.
+After collaborating with GitLab's privacy department, it was decided to create a process for removing said contacts from our database.
 
 The current process takes place on a weekly basis and is implemented with the help of a Marketo Program. It takes advantage of the `Zoominfo Non-Matched Reason` field which is populated by Zoominfo. All leads/contacts that have the  `OPT_OUT` value, enter the process and are checked for additional activities that could qualify as independent lawful basis to be kept. If they lack said activities they will be removed from our database.
 

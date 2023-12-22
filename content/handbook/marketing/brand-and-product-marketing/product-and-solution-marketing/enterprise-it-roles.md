@@ -120,7 +120,7 @@ Related Reading:
 
       **VP Ops** - Keeping the business running efficiently.  Uptime, recovery are important.  The role is typically bonused/compensated on uptime and SLAs back to the business.
       1. Value Prop:
-          - GitLab’s single application that supports the entire DevOps lifecycle is going to be important for this role.  Shifting left monitoring, testing and security earlier in the SDLC is valuable to the VP Ops to reduce the risk of downtime in production.  Auto Devops will be of interest here as well.
+          - GitLab’s single application that supports the entire DevOps lifecycle is going to be important for this role.  Shifting left monitoring, testing and security earlier in the SDLC is valuable to the VP Ops to reduce the risk of downtime in production.  Auto DevOps will be of interest here as well.
       1. Resources:
             - [GitLab Pitch Deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/)
             - [GitLab home page](https://about.gitlab.com)

@@ -29,7 +29,7 @@ The first exception is in the collection of hostname and IP address for Self-Man
 
 *Cadence*: Service Ping collected via Self-Managed payloads and SaaS namespaces are automatically collected on a weekly basis.
 
-*Ownership*: Service Ping is owned by the [GitLab Analytics Instrumentation Group](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/).
+*Ownership*: Service Ping is owned by the [GitLab Analytics Instrumentation Group](/handbook/engineering/development/analytics/analytics-instrumentation/).
 
 *Types of Data*: Service Ping Metrics have been broken down into the four categories of Metrics listed below:
 
@@ -79,9 +79,9 @@ The first exception is in the collection of hostname and IP address for Self-Man
 
 *Data Sharing*: Snowplow Metrics are not shared with independent third-parties.  All systems and software used in the collection and transfer of Snowplow Metrics are GitLab-controlled systems.
 
-*Cadence*: Snowplow Metrics are collected from Gitlab.com and sent to the data warehouse contemporaneously.
+*Cadence*: Snowplow Metrics are collected from GitLab.com and sent to the data warehouse contemporaneously.
 
-*Ownership*: Snowplow is owned by the [GitLab Analytics Instrumentation Group](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/).
+*Ownership*: Snowplow is owned by the [GitLab Analytics Instrumentation Group](/handbook/engineering/development/analytics/analytics-instrumentation/).
 
 *Types of Metrics*: Snowplow Metrics are composed of all the pseudonymized user interaction Metrics found [here](https://metrics.gitlab.com/snowplow/), as well as Project_ID, Namespace_ID, and the country and region of the user’s location.
 
@@ -105,7 +105,7 @@ The first exception is in the collection of hostname and IP address for Self-Man
 
 *Types of Data*: The Metrics collected include name, email and company of the individual listed on the paid Self-Managed license, as well as those Metrics listed [here](https://docs.gitlab.com/ee/subscriptions/self_managed/#subscription-data).
 
-*Opting-Out*:  By default, all paid Self-Managed subscriptions on 14.1 or higher with an internet connection will have Subscription Data collected via License Sync.  If a customer wishes to opt-out of License Sync, they should consult with Gitlab Sales to obtain a Legacy or Offline License. For paid SaaS subscriptions, you cannot opt-out of Subscription Data collected via Service Ping.
+*Opting-Out*:  By default, all paid Self-Managed subscriptions on 14.1 or higher with an internet connection will have Subscription Data collected via License Sync.  If a customer wishes to opt-out of License Sync, they should consult with GitLab Sales to obtain a Legacy or Offline License. For paid SaaS subscriptions, you cannot opt-out of Subscription Data collected via Service Ping.
 
 ## Usage Data for AI-Powered Features
 

@@ -96,7 +96,7 @@ There are scenarios when an MVC approach is not advised. These include:
 
 ### Iteration
 
-An MVC approach is a byproduct of our spirit of iteration. That means we [break problems down](/handbook/product-development-flow/#build-phase-1-plan) as [small as possible](/handbook/values/#make-small-merge-requests), use [merge request rate as a performance indicator](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#development-department-mr-rate), and focus on [reduced cycle time](/handbook/values/#reduce-cycle-time). Thinking iteratively is not always intuitive, and breaking certain topics or projects down can be challenging. Here's a helpful [video](https://www.youtube.com/watch?v=zwoFDSb__yM) from our CEO with guidance on how to think more iteratively.
+An MVC approach is a byproduct of our spirit of iteration. That means we [break problems down](/handbook/product-development-flow/#build-phase-1-plan) as [small as possible](/handbook/values/#make-small-merge-requests), use [merge request rate as a performance indicator](/handbook/engineering/development/performance-indicators/#development-department-mr-rate), and focus on [reduced cycle time](/handbook/values/#reduce-cycle-time). Thinking iteratively is not always intuitive, and breaking certain topics or projects down can be challenging. Here's a helpful [video](https://www.youtube.com/watch?v=zwoFDSb__yM) from our CEO with guidance on how to think more iteratively.
 
 Here is a [great video](https://www.youtube.com/watch?v=MwHHErfX9hI) that illustrates how to build MVCs using Iteration. It shows Lego climbing obstacles. The first design fails. The second one can climb a book and so on. It also illustrates how modularity and good interfaces help with iteration as things get complex.
 
@@ -188,7 +188,7 @@ You should prefer well-considered choices based on current best practices. Avoid
 When considering adding new configuration, we follow the following principles:
 
 - **Ensure a great experience by default** - GitLab should work perfectly right out of the box for most users. While it should be resisted, sometimes configuration is inevitable or preferable. Your configuration must not make that [experience worse](https://gitlab.com/gitlab-org/gitlab/issues/14432) and should always _get out of the way of the user_.
-    - **GitLab.com values should be the default** - the settings used on GitLab.com should be the defaults for self-managed. Not only does this provide a consistent experience for users, but we get the highest fidelity feedback via GitLab.com. If we find that the GitLab.com setting is wrong, it is usually wrong for self-managed too. If you believe you have a strong case for using custom (non-default) settings for Gitlab.com, please document the justification in alignment with your Product Section Lead. Any custom (non-default) settings for GitLab.com need to be [tracked here](https://docs.gitlab.com/ee/user/gitlab_com/).
+    - **GitLab.com values should be the default** - the settings used on GitLab.com should be the defaults for self-managed. Not only does this provide a consistent experience for users, but we get the highest fidelity feedback via GitLab.com. If we find that the GitLab.com setting is wrong, it is usually wrong for self-managed too. If you believe you have a strong case for using custom (non-default) settings for GitLab.com, please document the justification in alignment with your Product Section Lead. Any custom (non-default) settings for GitLab.com need to be [tracked here](https://docs.gitlab.com/ee/user/gitlab_com/).
 - **Encourage favorable behaviors by limiting configuration** - Convention also implies that we're encouraging our customers to do things
 in a certain way. A very concrete example of this is the ability to disable pipelines. We believe that our integrated solution will give a superior user experience and we're motivated to encourage this behavior. For this reason, adding a configuration to allow disabling this permanently (be that in a template or instance-wide), is something that should be avoided.
 - **Design for users not intermediaries** - GitLab should avoid falling into the [Blackboard trap](https://twitter.com/random_walker/status/1182637292869115904) of building a product that administrators of GitLab love because it is configurable, but developers and other users of GitLab hate because it is overly complex and confusing.
@@ -316,7 +316,7 @@ planning aspirationally means that we won't always be able to deliver everything
 that we wanted to try in every release, and similar to our [OKRs](/handbook/ceo/#three-levels-of-performance),
 we believe this is a good thing. We don't want to shy away from challenging
 ourselves and always want to keep a sense of urgency, and aiming for more helps
-us do that. Also see [the importance of velocity](https://about.gitlab.com/handbook/engineering/development/principles/#the-importance-of-velocity)
+us do that. Also see [the importance of velocity](/handbook/engineering/development/principles/#the-importance-of-velocity)
 
 We arrived at our preference for ambitious planning after measuring our velocity and finding that our velocity was unchanged whether we scheduled ambitiously or scheduled for providing slack.
 
@@ -621,7 +621,7 @@ And for **developers of GitLab** including the third parties, this has significa
 1. Their work isn't limited in functionality, because they're changing the code of the product itself.
 1. Their code will be tested along with the rest of the product as things change refactoring is easier, reducing the likelihood that it suffers from [software atrophy](https://vijay.tech/articles/wiki/SoftwareEngineering/SoftwareAtrophyAnExample) because something is hard to change.
 1. Community effort is not wasted on developing multiple plugins that all ultimately do the same thing and compete with each other for usage.
-1. Developers don't have to sacrifice [velocity in favor of predictability](https://about.gitlab.com/handbook/engineering/development/principles/#velocity-over-predictability), since they don't have to worry about breaking the plugin API.
+1. Developers don't have to sacrifice [velocity in favor of predictability](/handbook/engineering/development/principles/#velocity-over-predictability), since they don't have to worry about breaking the plugin API.
 
 Overall, we believe that this approach creates the best possible experience for both the users of and the contributors to GitLab, and to that end we encourage people to [contribute functionality to GitLab directly](/community/contribute/).
 

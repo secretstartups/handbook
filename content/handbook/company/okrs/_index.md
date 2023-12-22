@@ -398,7 +398,7 @@ A hypothetical example where division OKRs score directly to a CEO OKR:
       1. CMO OKR: Have 10% of managers enrolled in leadership program
       1. etc. (all divisions participating should be added)
 
-Note: Using this method, if you need to track the team objective or KRs separately, you can take a look at [Engineering's guidance on tracking department OKRs](https://about.gitlab.com/handbook/engineering/okrs/#tracking-department-okrs). If you need the team objective or KRs to score to another parent objective, duplicating the OKR is currently the only way to do so.
+Note: Using this method, if you need to track the team objective or KRs separately, you can take a look at [Engineering's guidance on tracking department OKRs](/handbook/engineering/okrs/#tracking-department-okrs). If you need the team objective or KRs to score to another parent objective, duplicating the OKR is currently the only way to do so.
 
 ### Search and Filter OKRs
 

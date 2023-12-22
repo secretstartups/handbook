@@ -51,7 +51,7 @@ Filter by one or multiple of the following:
 **View reports to see what works**
 
 * **Key metric to analyze: Engagement Time**
-   - *"Why not total views?"* Engagement time is a better indicator of content effectiveness than views, which can be a self-fulfilling prophesy; the more views, the more it is used, the more it continues to climb in comparison to other content. 
+   - *"Why not total views?"* Engagement time is a better indicator of content effectiveness than views, which can be a self-fulfilling prophesy; the more views, the more it is used, the more it continues to climb in comparison to other content.
 
 ## Internally-Created Content (i.e. eBooks, Guides)
 {: #internal-content .gitlab-purple}
@@ -81,21 +81,37 @@ If you have any questions on this process, please contact `@aoetama` in the [#ma
 ## Pathfactory link: (add when live)
 
 #### :key: Key Details
-* **Content Owner:** 
+* **Content Owner:**
 * **Campaign Manager:**
-* **Official Content Name:** 
-* **Official Content Type:** 
-* **Primary Campaign:** 
+* **Official Content Name:**
+* **Official Content Type:**
+* **Primary Campaign:**
 * **Primary Sales Segment:**
    - [ ] Enterprise
    - [ ] Mid-Market
    - [ ] SMB
+   - [ ] PubSec
+         * [ ] Civilian (CIV)
+         * [ ] Department of Defense (DOD)
+         * [ ] Federal Systems Integrators (FSI)
+         * [ ] National Security Group (NSG)
+         * [ ] PUBSEC General Nurture
+         * [ ] State, Local and Education (SLED)
 * **Primary Buying Stage:**
    - [ ] Awareness
    - [ ] Consideration
    - [ ] Decision/Purchase
-* **Primary Persona:** 
-* **Language:** 
+* **Primary Persona:**
+   - [ ] User (ICs/Managers)
+   - [ ] Buyer (Director+)
+   - [ ] Default
+* ** Region:**
+   - [ ] GLOBAL
+   - [ ] AMER
+   - [ ] APAC
+   - [ ] EMEA
+   - [ ] LATAM
+* **Language:**
 * **Key metrics for success:** `Add goals here (e.g. number of downloads, INQs, MQLs, SAOs)`
 * **Marketo Program Name:** `YYYY_Type_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_eBook_BegGuideGitOps`. This will be used for MKTO/SFDC program. -->
 * [ ] [main salesforce program]() - `to be created`
@@ -132,7 +148,7 @@ If you have any questions on this process, please contact `@aoetama` in the [#ma
 * [ ] [Pathfactory Track Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) - Campaigns
 * [ ] [Resource Page Addition Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition) - Campaigns
 
-**Supplemental issues:** 
+**Supplemental issues:**
 * [ ] [Landing Page Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-content-landing-page) - Content & Campaigns _(only if promoting via Facebook and Google AdWords)_
 * [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - Digital Marketing
 * [ ] [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-gtm-organic) - Social
@@ -159,7 +175,7 @@ The purpose of the decision matrix is to gather cross-functional feedback whethe
 
 ##### Step by step decision matrix process:
 
-1. **Analyst relations** will open a [decision matrix issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=decision-tree-matrix) and assign to relevant Campaign Manager. 
+1. **Analyst relations** will open a [decision matrix issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=decision-tree-matrix) and assign to relevant Campaign Manager.
 1. **Campaign Manager** to tag relevant product marketing, sdr enablement, and field enablement counterparts on the decision matrix issue and comment to submit their inputs by agreed upon SLA date. | `SLA: 1 Business Day`
 1. **Product Marketing,SDR Enablement, Field Enablement** to fill out their portions for relevant channels, campaign, persona. Tag relevant technical counterparts for input. | `SLA: 3 Business Days`
 1. **Campaign Manager** fills out the suggested channel for promotion and makes the go/no go decision on sponsorship, tagging analyst relations |  `SLA: 3 Business Day`
@@ -189,12 +205,12 @@ As a guide in developing timeline, please view the workback timeline calculator 
 ## [Pathfactory link]() - `to be added when live`
 
 #### :key: Key Details
-* **Analyst Relations DRI:**  
-* **Product Marketing DRI:**  
-* **Campaigns DRI:**  
-* **Official Content Name:** 
-* **Official Content Type:** 
-* **Primary Campaign:** 
+* **Analyst Relations DRI:**
+* **Product Marketing DRI:**
+* **Campaigns DRI:**
+* **Official Content Name:**
+* **Official Content Type:**
+* **Primary Campaign:**
    - [ ] DevSecOps platform
    - [ ] Automated Software Delivery
    - [ ] Security & Compliance
@@ -206,8 +222,8 @@ As a guide in developing timeline, please view the workback timeline calculator 
    - [ ] Awareness
    - [ ] Consideration
    - [ ] Decision/Purchase
-* **Primary Persona:** 
-* **Language:** 
+* **Primary Persona:**
+* **Language:**
 * **Budget:** <!-- Match to Allocadia -->
 * **Marketo program name:** `YYYY_Type_VendorNameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_report_GartnerMQARO`. This will be used for MKTO/SFDC program. -->
 * [ ] [main salesforce program]() - `to be added`
@@ -221,20 +237,20 @@ Adjust list as applicable for each report activation:
 
 * [ ] 2023-xx-xx add report to **Pathfactory** `@DRI`
 * [ ] 2023-xx-xx **landing page** live `@DRI`
-* [ ] 2023-xx-xx add to [Analyst research page](https://about.gitlab.com/analysts/) `@DRI` 
+* [ ] 2023-xx-xx add to [Analyst research page](https://about.gitlab.com/analysts/) `@DRI`
 * [ ] 2023-xx-xx report live on [**resources page**](https://about.gitlab.com/resources/) `@DRI`
-* [ ] 2023-xx-xx publish **blog** `@DRI` 
-* [ ] 2023-xx-xx publish **commentary page** `@DRI` 
+* [ ] 2023-xx-xx publish **blog** `@DRI`
+* [ ] 2023-xx-xx publish **commentary page** `@DRI`
 * [ ] 2023-xx-xx add on **website pages** (solution pages, homepage) `@DRI`
-* [ ] 2023-xx-xx **press release** live `@DRI` 
-* [ ] Field Enablement `@DRI` 
+* [ ] 2023-xx-xx **press release** live `@DRI`
+* [ ] Field Enablement `@DRI`
   * [ ] 2023-xx-xx send **field FYI**
   * [ ] 2023-xx-xx conduct **field enablement session**
 * [ ] Organic social `@DRI`
   * [ ] 2023-xx-xx **Facebook** post(s)
   * [ ] 2023-xx-xx **LinkedIn** post(s)
   * [ ] 2023-xx-xx **Twitter** post(s)
-* [ ] **Executive social sharing** posts `@DRI` 
+* [ ] **Executive social sharing** posts `@DRI`
 * [ ] 2023-xx-xx add to **Highspot** `@DRI`
 * [ ] 2023-xx-xx add to **Intelligent email nurture** `@DRI`
 * [ ] 2023-xx-xx add to **paid digital** `@DRI`
@@ -252,7 +268,7 @@ Adjust list as applicable for each report activation. [Use the workback timeline
 
 **Product Marketing** `@DRI`
 * [ ] Add to HighSpot
-* [ ] [Open PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) 
+* [ ] [Open PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement)
 * [ ] [Open Blog Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/issues/new#?issuable_template=blog-post-pitch)
 * [ ] Open MR to add to add to web pages (e.g. solutions pages, homepage etc.)
 * [ ] Open issue for executive social sharing
@@ -262,7 +278,7 @@ Adjust list as applicable for each report activation. [Use the workback timeline
 * [ ] [Open Pathfactory upload Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload)
 * [ ] [Open Nurture Email Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=add-to-intelligent-email-nurture)
 * [ ] [Open Resource Page Addition Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition)
-* [ ] [Open Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) 
+* [ ] [Open Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst)
 * [ ] [Open Landing Page Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-content-landing-page) - Assign to Content & Campaigns _(only if promoting via Facebook and Google AdWords)_
 * [ ] [Open Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request)
 * [ ] [Open Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-general-request)
@@ -295,11 +311,11 @@ Adjust list as applicable for each report activation. [Use the workback timeline
   type: "choose below"
   language: "choose below"
   topics:
-    - 
-    - 
+    -
+    -
   solutions:
-    - 
-    - 
+    -
+    -
   teaser: "Add a teaser that relates to the contents of the resource. This can be found in the epic or landing page copy."
 ```
 **Example:**
@@ -393,7 +409,7 @@ Adjust list as applicable for each report activation. [Use the workback timeline
 <!-- DO NOT CHANGE THIS ANCHOR -->
 At times, we will extend the rights to an asset if it is heavily used by sales or performing in campaigns. In that case the decision is indicated in the [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst).
 
-Follow the steps outlined [in the Pathfactory Content Library Handbook](/handbook/marketing/marketing-operations/pathfactory/content-library/#replacing-or-updating-the-verson-of-an-asset-after-initial-upload). 
+Follow the steps outlined [in the Pathfactory Content Library Handbook](/handbook/marketing/marketing-operations/pathfactory/content-library/#replacing-or-updating-the-verson-of-an-asset-after-initial-upload).
 
 ## How to retire analyst assets when they expire
 {: #retire-analyst-assets .gitlab-purple}
@@ -405,11 +421,11 @@ An [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/
 <!-- DO NOT CHANGE THIS ANCHOR -->
 **First you will remove the form from the page and add a "no longer available" message**
 * In the Marketo program, click "edit" on the Registration Page
-* On right rail under "Variables" (below "Elements"), find `2column Visibility` and switch to "Hidden" 
-* On right rail under "Variables" (below "Elements"), find `2column Sidebar` and switch to "No Sidebar" 
+* On right rail under "Variables" (below "Elements"), find `2column Visibility` and switch to "Hidden"
+* On right rail under "Variables" (below "Elements"), find `2column Sidebar` and switch to "No Sidebar"
 * On right rail under "Variables" (below "Elements"), find `flex1 Visibility` and switch to "Visible"
 * In flex1 section, double-click then click to edit in HTML > add the code below into the section and save
-* Approve Landing Page and test live. You should no longer be able to see the form or paragraph text, and only see the notice about resource no longer being available. 
+* Approve Landing Page and test live. You should no longer be able to see the form or paragraph text, and only see the notice about resource no longer being available.
 
 ```
 <h1>This resource is no longer available.</h1>
@@ -516,7 +532,7 @@ Please follow the process outlined in the [Pathfactory Handbook](/handbook/marke
   * `Description ` must include the epic url, best practice to include the registration page URL
   * `Start Date` should be date of launch
   * `End Date` should be one year later
-  * `Budgeted Cost` is required, if cost is $0 list `1` in the `Budgeted Cost` field - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation. 
+  * `Budgeted Cost` is required, if cost is $0 list `1` in the `Budgeted Cost` field - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
   * `Bizible Touchpoints Enabled` leave this blank (because this would be an online touchpoint)
 
 #### Test live registration page and flows

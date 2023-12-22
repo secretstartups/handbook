@@ -59,7 +59,7 @@ Examples of this are:
 
 ### The four archetypes
 
-Staff Engineers and Engineering Managers shared their perspective on [what does Staff level mean at GitLab](/blog/2020/02/18/staff-level-engineering-at-gitlab/) in an [Unfiltered](/handbook/marketing/blog/unfiltered/) blogpost. 
+Staff Engineers and Engineering Managers shared their perspective on [what does Staff level mean at GitLab](https://about.gitlab.com/blog/2020/02/18/staff-level-engineering-at-gitlab/) in an [Unfiltered](/handbook/marketing/blog/unfiltered/) blogpost. 
 Much of what each engineer said overlapped, but each had a unique perspective based on their team and their particular experience within GitLab as an entity.
 
 There are [four common archetypes of Staff-plus roles in the industry](https://staffeng.com/guides/staff-archetypes) that could explain this variability their perspective:
@@ -85,7 +85,7 @@ This also applies on levels above Staff+, partnering with their peers in Managem
 
 #### Architect
 
-At GitLab [Architecture is a practice](/handbook/engineering/architecture/) where [everyone can contribute](/company/mission/#mission) but Staff+ Engineers play a fundamental role in that.
+At GitLab [Architecture is a practice](/handbook/engineering/architecture/) where [everyone can contribute](/handbook/company/mission/#mission) but Staff+ Engineers play a fundamental role in that.
 
 > **Architecture as a practice is everyone's responsibility, but it is notably ingrained in senior technical leadership roles**, where the roles' levels and their sphere of influence determine DRI responsibilities within the practice.
 

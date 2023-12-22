@@ -38,7 +38,7 @@ Other examples are:
 ### Tips as a mentee
 
 1. Share career ambitions and thoughts where you want to be. 
-1. Think of your personal challenges, and ask for familiatities and advice 
+1. Think of your personal challenges, and ask for familiarities and advice
 1. Create a tag cloud of topics you'd like to ask your mentor in the future (Observability, Cloud-Native, etc.)
 1. Take notes (pen and paper, whiteboard with post-its, GitLab issues, Notion, etc.)
 1. Ask questions, share notes and code

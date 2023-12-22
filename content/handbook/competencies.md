@@ -29,8 +29,8 @@ For example, we should have one SSoT for how to articulate the value of GitLab.
 1. [Interview scoring]({{< ref "hiring-manager#step-12hm-complete-feedback-in-greenhousenext-steps" >}})
 1. [Promotion criteria]({{< ref "promotions-transfers" >}})
 1. [9 box assessments](https://www.predictivesuccess.com/blog/9-box/)
-1. [Performance/Potential criteria]({{< ref "talent-assessment#the-performancegrowth-potential-matrix" >}})
-1. [Succession planning]({{< ref "talent-assessment#succession-planning" >}})
+1. [Performance/Potential criteria]({{< ref "/handbook/people-group/talent-assessment#the-performancegrowth-potential-matrix" >}})
+1. [Succession planning]({{< ref "/handbook/people-group/talent-assessment#succession-planning" >}})
 1. [Learning and development]({{< ref "/handbook/people-group/learning-and-development" >}})
 1. [PDPs/PIPs]({{< ref "underperformance" >}})
 1. [Career development]({{< ref "career-development" >}})
@@ -104,7 +104,7 @@ Test your knowledge and self-reflect on the Remote Work Competencies by completi
 ### Functional Competencies
 
 1. [Field Competencies](/handbook/sales/training/field-functional-competencies/)
-1. [Engineering Competencies](https://about.gitlab.com/handbook/engineering/career-development/matrix/engineering/)
+1. [Engineering Competencies](/handbook/engineering/career-development/matrix/engineering/)
 1. [Product Management Competencies](/handbook/product/product-manager-role/product-CDF-competencies/)
 
 ### Manager and Leadership Competencies

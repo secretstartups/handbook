@@ -161,7 +161,7 @@ Admittedly, the term ‘user experience’ is broad; as it encompasses many comp
 
 **Question 3: UMUX Lite, adjusted**
 
-The [UMUX Lite](https://measuringu.com/umux-lite/) score is based on the UMUX (Usability Metric for User Experience), created by [Finstad](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.872.6330&rep=rep1&type=pdf), and it is highly correlated with the [SUS](/handbook/product/ux/performance-indicators/system-usability-scale/) and the Net Promoter Score. It's intended to be similar to the SUS, but it's shorter and targeted toward the [ISO 9241 definition of usability](https://www.w3.org/2002/Talks/0104-usabilityprocess/slide3-0.html) (effectiveness, efficiency, and satisfaction). This question is also used for the UX Scorecard formative evaluation approach.
+The [UMUX Lite](https://measuringu.com/umux-lite/) score is based on the UMUX (Usability Metric for User Experience), created by Finstad, and it is highly correlated with the [SUS](/handbook/product/ux/performance-indicators/system-usability-scale/) and the Net Promoter Score. It's intended to be similar to the SUS, but it's shorter and targeted toward the [ISO 9241 definition of usability](https://www.w3.org/2002/Talks/0104-usabilityprocess/slide3-0.html) (effectiveness, efficiency, and satisfaction). This question is also used for the UX Scorecard formative evaluation approach.
 
 *Q3: "You just experienced our implementation of* `<Scenario>`. *How would you agree or disagree with the following statement:*
 

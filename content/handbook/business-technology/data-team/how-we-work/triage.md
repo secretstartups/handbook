@@ -57,10 +57,10 @@ Steps to uplevel triaging process:
 | ---------     | -----------------    | -------| -------|---------| ----------|----------|--------|
 | `@GTMAnalyticsTriage` | Sales Strategy and Analytics | | `@melia` | | `@Noel Figuera`  | | |
 |                   | Marketing Strategy and Performance | |  | `@David Egan` | | `@rkohnke` | |
-|                   | Business Insights and Analytics | |  `@Vikas Agrawal` | `@Deepesh Gupta` |  | `@charan karthikeyan` |  `@Shivangi Mishra` |
-|                   | GTM Data Fusion | | `@Peter Empey` |  | `@Michelle Cooper` |  `@Jean Peguero`  |  |
+|                   | Business Insights and Analytics | |  `@Vikas Agrawal` | `@Deepesh Gupta` |  |      |  `@Shivangi Mishra` |
+|                   | GTM Data Fusion | | `@Peter Empey` |  |  |    | `@Michelle Cooper` |
 | `@R&DAnalyticsTriage` | Product Data Insights |  | `@Matthew Petersen` `@Carolyn Braza` | `@Dave Peterson` | `@Emma Neuberger` | `@Nicole Hervas` | `@Neil Raisinghani` |
-|                   | R&D Data Fusion | |  |  | `@Chris Sharp`  | `@snalamaru` (`@lisvinueza` back up) | `@Miles Russell`  |
+|                   | R&D Data Fusion | |  |  | `@Chris Sharp`  | `@snalamaru`  | `@Miles Russell`  |
 | `@PeopleAnalyticsTriage` | People Analytics | | | | | `@Adrian Pérez` | | 
 |                   | G&A Data Fusion | | `@Peter Empey` | `@lisvinueza`  | | | |  
 | `@EngineeringAnalyticsTriage` | Engineering Analytics |  |  | `@Raul Rendon` | |  `@lily` | 
@@ -154,7 +154,7 @@ The Central Data Team triager will create [an issue in the Data Team project](ht
 
 ### Incident
 
-The Data Team follows the [incident definition](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management) from Engineering: Incidents are anomalous conditions that result in—or may lead to—service degradation or outages. These events require human intervention to avert disruptions or restore service to operational status.
+The Data Team follows the [incident definition](/handbook/engineering/infrastructure/incident-management) from Engineering: Incidents are anomalous conditions that result in—or may lead to—service degradation or outages. These events require human intervention to avert disruptions or restore service to operational status.
 
 Service degradation or outages in data can be seen as:
 - Data is not available
@@ -218,7 +218,7 @@ Although running a weekly rotation, we expect the triager to post an EOD announc
 
 ### GitLab.com databases structure changes
 
-GitLAb.com databases do regularly change. In order not to break the daily operation, changes to the database needs to be tracked and checked. Any change to the GitLab.com database and CustomerDot database is tracked by the Danger Bot. The Data Team gets notified, by applying labels to the MR, if a change to the db/structure\.sql is made.
+GitLab.com databases do regularly change. In order not to break the daily operation, changes to the database needs to be tracked and checked. Any change to the GitLab.com database and CustomerDot database is tracked by the Danger Bot. The Data Team gets notified, by applying labels to the MR, if a change to the db/structure\.sql is made.
 
 A label `Data Warehouse::Impact Check` is added by the Danger Bot as call to action for the data team.
 - On triage, the Triager will [check](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&state=opened&label_name[]=Data%20Warehouse%3A%3AImpact%20Check&draft=no&approved_by_usernames[]=Any) for MRs with label `Data Warehouse::Impact Check`.
@@ -403,7 +403,7 @@ See the [source contact spreadsheet](https://docs.google.com/spreadsheets/d/1VKv
 | ------------------------- |
 | DAG `sheetload` <br> Task `dbt-sheetload`  <br> |
 | Background: This is an issue with Google sheets when data is being imported from a second sheet using Google sheets' import function. Occasionally the connections between the sheets stop working and the sheet needs to be refreshed. |
-| More information of the setup [here](/handbook/business-technology/data-team/platform/pipelines/#sheetload).  |
+| More information of the setup [here](https://internal.gitlab.com/handbook/enterprise-data/platform/pipelines/#sheetload).  |
 | Possible steps, resolution and actions: <br> - In general you should just need to open the Google sheet which is failing and confirm the data has been re-populated. <br> - If you do not have access to the sheet contact @gitlab-data/engineers and confirm if anyone else does. |
 
 

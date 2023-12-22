@@ -31,7 +31,7 @@ Our operational strategy is [documented in our internal handbook](https://intern
   - [#developer-relations](https://gitlab.slack.com/archives/C0R04UMT9): for all GitLab-related discussion (ex: questions about an issue, announcement of an upcoming event)
   - [#developer-relations-hangout](https://gitlab.slack.com/archives/C01C018V7V3): for all social discussion and updates shared via the Community Catch bot (ex: plumbing problems, weekend plans)
   - [developer-relations-confidential](https://gitlab.slack.com/archives/C0566B6N2KC): (private) for discussion of confidential topics that cannot be shared in a channel with people from outside GitLab (ex: discussing a topic that was shared in #company-fyi-private among our team)
-- GitLab team members and others with Slack access can reach us by visiting the [`#developer-relations`](https://gitlab.slack.com/messages/developer-relations) Slack channel, or by tagging the `@community-team` group handle.
+- GitLab team members and others with Slack access can reach us by visiting the [`#developer-relations`](https://gitlab.slack.com/messages/developer-relations) Slack channel, or by tagging the `@devrel-team` group handle.
 - Members of the wider GitLab community can connect with us in the [public Discord rooms](https://discord.gg/gitlab)
 
 Teams within Developer Relations are reachable in these Slack channels:
@@ -139,6 +139,25 @@ OKRs we seek to align with:
 
 - [CEO OKRs](/handbook/company/okrs/#most-recent-okrs)
 - [Marketing OKRs](/handbook/marketing/#marketing-okrs)
+
+#### DRI Responsibilities 
+
+For each quarterly objective and key results, the Developer Relations team will assign a [DRI](/handbook/people-group/directly-responsible-individuals/). For our team, we have responsibilities that build upon the GitLab guidance on [achieving](/handbook/company/okrs/#documenting-how-to-achieve) and [updating](/handbook/company/okrs/#maintaining-the-status-of-okrs). Typically, People managers are the DRIs for objectives while ICs are the DRIs for key results.
+
+* Objective DRI Responsibilities 
+    * Own strategy for achieving objectives including supporting the DRIs for key results that will help to achieve our objectives. 
+    * Collaborate with the owners of the key results that contribte to your objective to set a plan to deliver on the KRs and objective. 
+    * Maintain communication with KR owners - synchronous or asynchronous - throughout the quarter as needed. 
+    * Provide bi-weekly updates in the epic and in the Developer Relations bi-weekly team meeting agenda on the objective including completion percentage and status. We recognize that there will be no change from the previous report at times. 
+    * Present overview and status updates in team business reviews.
+    * Escalate any urgent needs to your manager.
+
+* Key Results DRI Responsibilities
+    * Create and manage strategy for achieving the key results. Manage dependencies, set actions, and define how your items will be scored. 
+    * Provide bi-weekly updates in the issues in the [GitLab OKRs project](https://gitlab.com/gitlab-com/gitlab-OKRs/) including completion percentage and status. The issues are the single source of truth for your KR. We recognize that there will be no change from the previous report at times. 
+    * Ensure key result information is up-to-date for team business reviews.
+    * Escalate any urgent needs to your manager.
+
 
 #### How we update our OKRs
 

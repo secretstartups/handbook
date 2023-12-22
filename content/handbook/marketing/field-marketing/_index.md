@@ -430,8 +430,6 @@ Once the FMM has submitted the Contract Request to their FMC and the remaining a
 
 - FMM pings the FMC in the main Field Marketing issue and requests the FMC move the issue to WIP (FMM keeps issue label `mktg-status::plan`)
 - FMC reviews the Allocadia sub-category and line item panel details, as well as checks that the forecasted cost is in the correct month (according to the [prepaid policy](/handbook/finance/accounting/#prepaid-expense-policy)) for the tactic and makes any changes necessary
-- FMC requests the Allocadia line item ID for the tactic be added to NetSuite in [this spreadsheet](https://docs.google.com/spreadsheets/d/1wBqvCvmou4afnb0p8lBXVvFmsl-j0IehS7GdfJybGzg/edit#gid=518252060) (if not already completed during the contract process)
-- FMC adds the Allocadia line item ID to the Event Details section of the issue, where indicated, as well as checks off the box that the Allocadia ID has been created in NetSuite
 - FMC creates the epic and sub-issues utilizing [this list of epics](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status)
 - FMC creates the [Marketo program and SFDC campaign](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status) utilizing the [Program Tracking](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/program-tracking.md) sub-issue previously created
    - FMC pings the FMM in the Program Tracking issue that the Marketo program and SFDC campaign have been created and closes issue
@@ -1513,12 +1511,10 @@ The Field Marketing team works from issues and issue boards. If you need our ass
 ## General Field Marketing Labels
 
 - `Field Marketing`: Issue initially created, used in templates, the starting point for any issue that involves Field Marketing
-- `FY24-Q1` `FY24-Q2` `FY24-Q3` `FY24-Q4`: What event or activity is set to take place or be due in this quarter in the specific year
+- `FY25-Q1` `FY25-Q2` `FY25-Q3` `FY25-Q4`: What event or activity is set to take place or be due in this quarter in the specific year
 - `mktg-status::plan`: work that is proposed, in an exploratory state
 - `mktg-status::wip`: work in progress that has been accepted and assigned to a DRI
 - `Events`: Issues related to events - this label is held at the gitlab.com level
-- `FMM-Other Tactics`: Issues related to non-event tactics
-- `FMM-MicroCampaigns`: Issues related to regional integrated micro-campaign, which are built to drive a specific strategy in a region
 - `Content Syndication`: Issue related to content syndication
 - `DevOpsDays`: Issue related to DevOps Days
 - `Direct Mail`: Issue related to Direct Mail
@@ -1533,7 +1529,7 @@ The Field Marketing team works from issues and issue boards. If you need our ass
 - `Vendor Arranged Meetings`: Issue related to Vendor Arranged Meetings
 - `Virtual Conference`: Issue related to Virtual Conferences
 - `Webcast - GitLab Hosted`: Issue related to GitLab-Hosted Webcasts
-- `workshop`: Issue related to GitLab workshops
+- `FM Workshop`: Issue related to Field Marketing-run workshops
 
 ## Regional Field Marketing Labels
 

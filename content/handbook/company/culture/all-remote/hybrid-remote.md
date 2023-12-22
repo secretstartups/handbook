@@ -274,7 +274,7 @@ There are considerations when accepting a role in a hybrid-remote company, and i
 
 Clear communication is one of the best ways to overcome hybrid-remote challenges.[GitLab's handbook]({{< ref "/handbook" >}}) captures everything an employee needs to know promoting autonomy and [efficiency]({{< ref "values#efficiency" >}}) for communication, processes, and procedures.
 
-Each department and team should set, share, and track both monthly and quarterly goals, or ["objectives and key results" (OKRs)]({{< ref "okrs" >}}). GitLab's OKRs are also clearly documented in our handbook for visibility across the company.
+Each department and team should set, share, and track both monthly and quarterly goals, or ["objectives and key results" (OKRs)]({{< ref "/handbook/company/okrs" >}}). GitLab's OKRs are also clearly documented in our handbook for visibility across the company.
 
 Our unique approach to [documentation]({{< ref "/handbook/documentation" >}}) also helps with [onboarding new team members]({{< ref "./learning-and-development" >}}) by putting everything they need to know in one place.
 

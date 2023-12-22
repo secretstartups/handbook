@@ -300,7 +300,7 @@ The calibration session is one of the most important pieces of the Performance/G
 
 It is likely not necessary to discuss each team member in detail, particularly for larger groups. Calibration sessions typically focuses on gaps, outliers and areas that might require additional management attention and/or alignment.
 
-As a best practice, we should calibrate outliers. "Outliers" are typically considered to [Box 1 ("Exceeding Growth Potential" and "Exceeding Performance") and Box 9 ("Developing Growth Potential" and "Developing Performance")]({{< ref "talent-assessment" >}}). [People Business Partners]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}) and business leaders have discretion to expand this threshold as needed, but live calibration for team members in Box 1 and Box 9 should be the baseline across the board.
+As a best practice, we should calibrate outliers. "Outliers" are typically considered to [Box 1 ("Exceeding Growth Potential" and "Exceeding Performance") and Box 9 ("Developing Growth Potential" and "Developing Performance")]({{< ref "/handbook/people-group/talent-assessment" >}}). [People Business Partners]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}) and business leaders have discretion to expand this threshold as needed, but live calibration for team members in Box 1 and Box 9 should be the baseline across the board.
 
 A few additional reasons to consider calibrating beyond Box 1 and Box 9 are:
 
@@ -370,7 +370,10 @@ Below is the high level timeline for the formal assessment in Q4 FY24 (Nov, Dec,
 - **2023-12-01 - 2023-12-08:** Total Rewards and final E-Group review and approval
 - **2023-12-11 - 2023-12-22 (5:00pm PST):** Managers will have access to Workday Talent Assessment to finalize evaluations
 - **2024-01-02 - 2024-01-31:** Managers can communicate Performance/Growth Potential assessment to team members
-- **2024 Date TBD:** Annual Compensation Review Kicks off for Managers
+- **2024-02-01:** Talent Assessments pending in Workday will be auto advanced to team members*
+- **2024-02-09:** Annual Compensation Review Kicks off for Managers
+
+*Team members who are on Leave of Absence (LOA) on 2023-02-01 are excluded from the auto advancement of their talent assessment until they return to work.
 
 ### Cadence
 
@@ -553,6 +556,10 @@ If they will be returning from leave before the due date to communicate [Talent 
 
 It’s important to ensure you are assessing the team member's performance for their contributions while working during the assessment time period. There should be no adverse impact on their overall assessment due to being on leave for a portion of the period. During calibration, please remain vigilant to ensure no private details related to their time away are disclosed. Please reach out to your PBP to discuss the specific details related to your team member.
 
+**My team member is on leave of absence during the Talent Assessment communication window. What happens to their Talent Assessment?**
+
+Please do not action the To-Do task "Meet with your Employee" if your team member is on leave of absence (LOA). We will exclude team members on LOA from the auto advancement setting on 2024-02-01 and you can communicate their talent assessment when they return to work.
+
 **My team member was assessed as key talent last year, and is not for this assessment period. How should I handle communication with them?**
 
 There is no guarantee that team members will retain their key talent assessment each assessment period. Make sure to explain the reasons why their key talent assessment has changed, including how we assess Key Talent and the [definition outlined in the Handbook](#key-talent).
@@ -632,7 +639,7 @@ Recommended process for our FY'24 Q2 cycle will be as follows:
 
     - **Achievements**
 
-      List your 3 most significant achievements since the last formal [Talent Assessment]({{< ref "talent-assessment" >}}), aligned with the job responsibilities and expectations of the role. This can include significant impact to the department or company, customer-impact, community-impacting, etc. Feedback can also be included in this section if applicable.
+      List your 3 most significant achievements since the last formal [Talent Assessment]({{< ref "/handbook/people-group/talent-assessment" >}}), aligned with the job responsibilities and expectations of the role. This can include significant impact to the department or company, customer-impact, community-impacting, etc. Feedback can also be included in this section if applicable.
 
     - **Strengths & Opportunities in Role**
 
@@ -676,7 +683,7 @@ We have intentionally provided a longer timeline to ensure different business gr
 
 ## Succession Planning
 
-Succession planning is an important step in our Talent Assessment process. Completing the [Performance/Growth Potential Assessment]({{< ref "talent-assessment" >}}) gives leaders a fresh overview of the top performers and the highest growth team members in their respective organizations. Particularly for individuals in Senior Leadership roles and above (the [S-Group]({{< ref "structure#s-group" >}}) and depending on structure the [Director-Group]({{< ref "structure#director-group" >}})), a recommended next step following the Performance/Growth Potential assessment is to do succession planning.
+Succession planning is an important step in our Talent Assessment process. Completing the [Performance/Growth Potential Assessment]({{< ref "/handbook/people-group/talent-assessment" >}}) gives leaders a fresh overview of the top performers and the highest growth team members in their respective organizations. Particularly for individuals in Senior Leadership roles and above (the [S-Group]({{< ref "structure#s-group" >}}) and depending on structure the [Director-Group]({{< ref "structure#director-group" >}})), a recommended next step following the Performance/Growth Potential assessment is to do succession planning.
 
 Succession planning ensures we are identifying and developing future GitLab leaders to ensure business continuity in the event of an unforeseen change, and providing the current leadership team the opportunity to grow and scale. It may provide an opportunity to diversify our leadership team by developing our internal bench of talent. Note, potential alone does not determine who will be a successor. Strong succession candidates should demonstrate sustained exceeding performance and growth, aspire to have a role at the next level, and be ready for a much larger role in the near term.
 
@@ -733,7 +740,7 @@ The succession planning process might vary slightly for different areas of the b
 
 ### Key Talent Criteria
 
-Key Talent makes up roughly ~10% of the population. Key Talent represents team members who have a significant impact on GitLab's success. They deliver quality results that are instrumental in moving critical company initiatives forward and do so consistently in alignment with our values. These team members are often recognized as experts in their current role. Team members, at any level, can be considered Key Talent.
+Key Talent makes up roughly ~10% of the population. Key Talent represents team members who have a significant impact on GitLab's present and future success. They deliver quality results that are instrumental in moving critical company initiatives forward and do so consistently in alignment with our values. These team members are often recognized as experts in their current role. Team members, at any level, can be considered Key Talent.
 
 Team members identified as Key Talent typically have knowledge, skills, and experience that:
 

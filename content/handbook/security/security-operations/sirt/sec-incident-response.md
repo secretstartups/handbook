@@ -41,7 +41,7 @@ SIRT will follow processes in the [Material Breach Determination internal handbo
 1. Detection
     - The SIRT, other internal, or external entity identifies a Security or Privacy Event that may be the result of a potential exploitation of a Security Vulnerability or Weakness, or that may the result of an innocent error
     - One of our Security detection controls identifies event outside of the established security baseline
-    - A security issue is [escalated into an incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) as a preventative measure
+    - A security issue is [escalated into an incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) as a preventative measure
 1. Analysis
     - SIRT determines whether the reported security or privacy event is in actuality security or a privacy event
     - SIRT determines the incident severity and priority based on the following [incident classification]({{< ref "severity-matrix" >}}) methodology
@@ -130,7 +130,7 @@ The first step in this process is to identify impacted resources and determine a
 
 It's important to remember the containment phase is typically a stop-gap measure to limit damage and not to produce a long term fix for the underlying problem. Additionally the impact of the mitigation on the service must be weighed against the severity of the incident.
 
-When triaging `priority::1/severity::1` incidents there may be times that SIRT or Infrastructure are unable to mitigate an issue, or identify the full impact of a potential mitigation. In these cases the [Development Escalation Process](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) can be used to engage with the development team on-call. It is important that this process is followed [as documented](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#process-outline) and only for `priority::1/severity::1` issues.
+When triaging `priority::1/severity::1` incidents there may be times that SIRT or Infrastructure are unable to mitigate an issue, or identify the full impact of a potential mitigation. In these cases the [Development Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) can be used to engage with the development team on-call. It is important that this process is followed [as documented](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#process-outline) and only for `priority::1/severity::1` issues.
 
 ### Remediation and Recovery
 

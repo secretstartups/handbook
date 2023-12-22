@@ -181,7 +181,7 @@ The page title and URL should include keywords visitors might use to discover th
 
 If you are an engineer, be sure to check out our [developer docs in Buyer Experience](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/tree/main/docs?ref_type=heads).
 
-Pages are built in the code under [/pages/](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/tree/main/pages?ref_type=heads), and they fetch content from Contentful. Documentation coming soon. 
+Pages are built in the code under [/pages/](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/tree/main/pages?ref_type=heads), and they fetch content from Contentful. Documentation coming soon.
 
 
 #### As a Non-engineer
@@ -192,8 +192,8 @@ To create a new page, work with the Digital Experience team by creating an issue
 
 ### Updating an existing page
 
-1. To edit the existing content of a page, check out our Contentful CMS documentation. 
-1. To add a visual component or section to a page, please fill out an [issue](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues/new#) for the Digital Experience team. 
+1. To edit the existing content of a page, check out our Contentful CMS documentation.
+1. To add a visual component or section to a page, please fill out an [issue](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues/new#) for the Digital Experience team.
 
 
 ### Optimize images
@@ -211,7 +211,7 @@ When adding an image to a webpage, be sure that you optimize the image first.
 
 These two files power various parts of the website including the [homepage](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/sites/uncategorized/source/includes/home/sdlc.html.haml), [product pages](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/product/index.html.haml), and [product categories handbook](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/includes/product/_categories.erb).
 
-They are also used by the automated triage operation ["Stage and group labels inference from category labels"](https://about.gitlab.com/handbook/engineering/quality/triage-operations/).
+They are also used by the automated triage operation ["Stage and group labels inference from category labels"](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/).
 
 #### Stage attributes
 
@@ -293,7 +293,7 @@ This attribute allows to override that.
 For instance, the `gitlab-org` label for the `Kanban Boards`
 category is [`Category:Issue Boards`](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=Category%3AIssue+Boards).
 - `feature_labels`: A list of all the feature labels that are associated with this category.
-This list is used in the automated triage operation ["Stage and group labels inference from category labels"](https://about.gitlab.com/handbook/engineering/quality/triage-operations/).
+This list is used in the automated triage operation ["Stage and group labels inference from category labels"](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/).
 - `marketing_page` (optional): the path of marketing page for the category. If you include a `body` section, then a marketing page will be auto-generated at `/product/${lowercase-category-name}`
 - `documentation` (optional): the URL of the docs page for the category, required if the category maturity is minimal or above.
 - `direction` (required): the URL of the category direction page. Optionally could be the URL of an issue, epic, or issue label search query if a direction page has not yet been created.
@@ -351,7 +351,7 @@ Any change to a Stage or Group, or a significant change to a Category, is a majo
 
 Due to their impact, executive approval for major changes is required in addition to the PMs, PMMs, and EMs responsible. Follow the approval process defined on the [categories page](/handbook/product/categories/#changes).
 
-After merging, changes to feature categories will trickle down into [error budgets](https://about.gitlab.com/handbook/engineering/error-budgets#how-to-change-error-budget-attribution) at the start of next month when the [Scalability group](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability) gets an automated issue [like this one](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/2040). Someone from the [Projections team](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/projections.html) will change the ownership in the application, and update error budgets accordingly. As a product manager, nothing more needs to be done. The Projections team might reach out on the original merge request for clarification if needed.
+After merging, changes to feature categories will trickle down into [error budgets](/handbook/engineering/error-budgets#how-to-change-error-budget-attribution) at the start of next month when the [Scalability group](/handbook/engineering/infrastructure/team/scalability) gets an automated issue [like this one](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/2040). Someone from the [Projections team](/handbook/engineering/infrastructure/team/scalability/projections.html) will change the ownership in the application, and update error budgets accordingly. As a product manager, nothing more needs to be done. The Projections team might reach out on the original merge request for clarification if needed.
 
 **Minor changes**
 
@@ -469,8 +469,8 @@ Important guidelines to keep in mind:
 The Digital Experience team is implementing [Contentful CMS](https://www.contentful.com/) for the marketing website. It offers a more user-friendly way of editing the marketing site.
 
 - Team members will need to fill out an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/) to gain access to Contentful.
-- Some content will only be available to certain teams, based on roles and permissions. 
-- New pages and new components will need an [issue](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues/new#) with the Digital Experience team to work with design and engineering. 
+- Some content will only be available to certain teams, based on roles and permissions.
+- New pages and new components will need an [issue](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues/new#) with the Digital Experience team to work with design and engineering.
 
 Read the [Contentful handbook page](/handbook/marketing/digital-experience/contentful-cms/) for up to date directions and status of the system.
 

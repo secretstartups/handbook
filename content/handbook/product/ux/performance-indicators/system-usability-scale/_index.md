@@ -153,7 +153,7 @@ Let me know if you have any questions or if you're interested in pursuing some o
 
 ## SUS Responder Outreach
 
-We include a question at the end of the SUS survey that asks whether respondents would be interested in discussing their responses with a GitLab team member. We have created a process for Product Managers (PM) and Product Designers (PDs) to conduct follow-up interviews so that they can get a better understanding of the usability issues respondents are experiencing. This outreach is optional for team members but highly encouraged. Learn more about the process on the [SUS Responder Outreach page](/handbook/product/ux/performance-indicators/system-usability-scale/sus-outreach.html).
+We include a question at the end of the SUS survey that asks whether respondents would be interested in discussing their responses with a GitLab team member. We have created a process for Product Managers (PM) and Product Designers (PDs) to conduct follow-up interviews so that they can get a better understanding of the usability issues respondents are experiencing. This outreach is optional for team members but highly encouraged. Learn more about the process on the [SUS Responder Outreach page](/handbook/product/ux/performance-indicators/system-usability-scale/sus-outreach/).
 
 ## Limitations
 

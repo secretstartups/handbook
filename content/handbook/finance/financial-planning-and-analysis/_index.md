@@ -9,7 +9,7 @@ Maximize GitLab's long-term valuation by enabling eGroup and FP&A to plan, prior
 
 ## Our objectives
 
-1. Facilitate aligned cross-functional execution of GitLab's [strategy]({{< ref "strategy" >}})
+1. Facilitate aligned cross-functional execution of GitLab's [strategy]({{< ref "/handbook/company/strategy" >}})
 1. Bring predictability and operational rigor to GitLab
 1. Ensure financial and operational goals of GitLab are defined, documented and achieved
 1. Evangelize awareness of strategy and each departments role in achieving it
@@ -553,7 +553,7 @@ A manual on how to update and maintain Adaptive integration can be found [here](
 
 Adaptive Quarterly Roadmap
 - The current Adaptive roadmap can be found [here](https://docs.google.com/spreadsheets/d/1vfJHmKmLJo2vSkOnN_pKh7cXh--IdE5CiQIy6X2JQKc/edit#gid=0)
-- We expect to transition roadmap and requests into Gitlab issues by Q2-FY23.
+- We expect to transition roadmap and requests into GitLab issues by Q2-FY23.
 - Corporate FP&A will host Adaptive intake sessions with the larger FP&A team to intake, align and prioritize current and future projects.
 
 ## Rolling List of Asks (RLOA)
