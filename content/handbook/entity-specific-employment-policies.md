@@ -2,15 +2,8 @@
 layout: handbook-page-toc
 title: "Entity-Specific Employment Policies"
 description: "A link to the location of employment-related policies categorized by entity"
+draft: true
 ---
-
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-{::options parse_block_html="true" /}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Introduction
 
