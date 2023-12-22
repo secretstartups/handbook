@@ -3,11 +3,11 @@ title: "On-Call"
 ---
 
 {{% alert color="warning" %}}
-If you're a GitLab team member and are looking to alert Reliability Engineering about an availability issue with GitLab.com, please find quick instructions to report an incident here: [Reporting an Incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
+If you're a GitLab team member and are looking to alert Reliability Engineering about an availability issue with GitLab.com, please find quick instructions to report an incident here: [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
 {{% /alert %}}
 
 {{% alert color="warning" %}}
-If you're a GitLab team member looking for who is currently the Engineer On Call (EOC), please see the [Who is the Current EOC?](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#who-is-the-current-eoc) section.
+If you're a GitLab team member looking for who is currently the Engineer On Call (EOC), please see the [Who is the Current EOC?](/handbook/engineering/infrastructure/incident-management/#who-is-the-current-eoc) section.
 {{% /alert %}}
 
 {{% alert color="warning" %}}
@@ -40,12 +40,12 @@ If you're a GitLab team member looking for help with a security problem, please 
 
 ### Infrastructure Engineer On-Call
 
-The Infrastructure department's Reliability Engineering teams provide 24x7 on-call coverage for the production environment. For details, please see [incident-management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/).
+The Infrastructure department's Reliability Engineering teams provide 24x7 on-call coverage for the production environment. For details, please see [incident-management](/handbook/engineering/infrastructure/incident-management/).
 
 ### Engineering Incident Manager
 
-- Incident manager rotation is staffed by certain [team members in the Development and Infrastructure departments](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/incident-manager-onboarding/).
-- More information regarding the Incident Manager role, including shift schedules, responsibilities can be found in the [Incident Manager on-boarding page](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/incident-manager-onboarding/).
+- Incident manager rotation is staffed by certain [team members in the Development and Infrastructure departments](/handbook/engineering/infrastructure/incident-management/incident-manager-onboarding/).
+- More information regarding the Incident Manager role, including shift schedules, responsibilities can be found in the [Incident Manager on-boarding page](/handbook/engineering/infrastructure/incident-management/incident-manager-onboarding/).
 
 ### Development Team On-Call Rotation
 
@@ -55,8 +55,8 @@ The Infrastructure department's Reliability Engineering teams provide 24x7 on-ca
 - First response SLO is 15 minutes. If no response within the first 5 minutes, the infrastructure team will call the engineer's phone number on the schedule sheet.
 - Development engineers do 4-hour shifts.
 - Engineering managers do monthly shifts as scheduling coordinators.
-- Check out [process description and on-call workflow](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) when escalating GitLab.com operational issue(s).
-- Check out more detail for [general information](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/) of the escalation process.
+- Check out [process description and on-call workflow](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) when escalating GitLab.com operational issue(s).
+- Check out more detail for [general information](/handbook/engineering/development/processes/Infra-Dev-Escalation/) of the escalation process.
 
 ## Security Team On-Call Rotation
 

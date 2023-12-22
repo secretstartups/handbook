@@ -6,7 +6,7 @@ Technical Writing team workflows work in conjunction with the:
 
 - [Product development flow](/handbook/product-development-flow/).
 - [Product designer workflow](/handbook/product/ux/product-designer).
-- [Engineering workflow](https://about.gitlab.com/handbook/engineering/workflow/).
+- [Engineering workflow](/handbook/engineering/workflow/).
 
 The process for creating and maintaining GitLab product documentation depends on whether the documentation is:
 
@@ -426,7 +426,7 @@ Also include:
   - `tw::triaged`
   - (Optional, if the issue is suitable for a community contributor) [`Seeking community contributions`](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Seeking%20community%20contributions&first_page_size=50), [`quick win`](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=quick%20win&first_page_size=50)
 
-If an issue requires input from the development team before a Technical Writer can start work, it should follow the stage and group's issue lifecycle. For an example of an issue lifecyle, take a look at [Plan Stage Issues](https://about.gitlab.com/handbook/engineering/development/dev/plan/#issues).
+If an issue requires input from the development team before a Technical Writer can start work, it should follow the stage and group's issue lifecycle. For an example of an issue lifecyle, take a look at [Plan Stage Issues](/handbook/engineering/development/dev/plan/#issues).
 
 ### Review and triage docs-only backlog issues
 

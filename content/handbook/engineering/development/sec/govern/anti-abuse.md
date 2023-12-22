@@ -17,13 +17,13 @@ Our goal is to provide Insider Threat features for your applications as well as 
 
 ### Collaboration
 
-You are encouraged to work as closely as needed with our [stable counterparts](https://about.gitlab.com/handbook/product/categories/#govern-stage).
+You are encouraged to work as closely as needed with our [stable counterparts](/handbook/product/categories/#govern-stage).
 
 Other teams that we might collaborate with include but are not limited to:
 
-- [Govern:Authentication and Authorization](https://about.gitlab.com/handbook/engineering/development/sec/govern/authentication-and-authorization/)
-- [Growth:Acquisition and Activation](https://about.gitlab.com/handbook/engineering/development/growth/)
-- [Fulfillment:Fulfillment Platform](https://about.gitlab.com/handbook/engineering/development/fulfillment/fulfillment-platform/#team-members)
+- [Govern:Authentication and Authorization](/handbook/engineering/development/sec/govern/authentication-and-authorization/)
+- [Growth:Acquisition and Activation](/handbook/engineering/development/growth/)
+- [Fulfillment:Fulfillment Platform](/handbook/engineering/development/fulfillment/fulfillment-platform/#team-members)
 
 Here are some examples of when to engage with your counterpart:
 
@@ -63,7 +63,7 @@ We use a team specific [issue board](https://gitlab.com/groups/gitlab-org/-/boar
 
 ### Iteration
 
-When planning how to construct our [MVC](https://about.gitlab.com/handbook/values/#minimal-viable-change-mvc), we need to be aware of the [tradeoffs of slicing MR’s vertically vs horizontally](https://about.gitlab.com/handbook/engineering/workflow/iteration/#tradeoffs-between-horizontal-and-vertical-slicing). Reducing scope for each iteration is encouraged.
+When planning how to construct our [MVC](/handbook/values/#minimal-viable-change-mvc), we need to be aware of the [tradeoffs of slicing MR’s vertically vs horizontally](/handbook/engineering/workflow/iteration/#tradeoffs-between-horizontal-and-vertical-slicing). Reducing scope for each iteration is encouraged.
 
 As requirements can shift, and complexity can increase when uncovering challenging areas in the codebase, we strive to keep issue requirements updated for clarity.
 
@@ -71,7 +71,7 @@ We follow the [iteration process](/handbook/engineering/development/principles/#
 
 ### Refinement
 
-Refinement is the responsibility of every team member. While planning out an epic or a feature we break it down into small consumable [MVC’s](https://about.gitlab.com/handbook/values/#minimal-viable-change-mvc). This process is challenging, and takes time. This is why we've set a [weekly refinement meeting](#team-meetings).
+Refinement is the responsibility of every team member. While planning out an epic or a feature we break it down into small consumable [MVC’s](/handbook/values/#minimal-viable-change-mvc). This process is challenging, and takes time. This is why we've set a [weekly refinement meeting](#team-meetings).
 
 ### Milestone Planning and Timeline
 
@@ -103,7 +103,7 @@ We tag each issue and MR with the planned milestone or the milestone at time of 
 
 ## Team Meetings
 
-Our group holds synchronous meetings to gain additional clarity and alignment on our async discussions. We aspire to [record](https://about.gitlab.com/handbook/tools-and-tips/zoom/) all of our meetings as our team members are spread across several time zones and often cannot attend at the scheduled time.
+Our group holds synchronous meetings to gain additional clarity and alignment on our async discussions. We aspire to [record](/handbook/tools-and-tips/zoom/) all of our meetings as our team members are spread across several time zones and often cannot attend at the scheduled time.
 
 We have a weekly team sync meeting with rotating [EMEA/AMER](https://drive.google.com/drive/folders/1nm7FRZ0f9T4ajbmJvz4LYLVWl5cXiXiQ?usp=sharing) and [AMER/APAC](https://drive.google.com/drive/folders/1wLdWWi3f6Aho6E2m4Xbhv1Nuoy_ZSC1e?usp=sharing) friendly time slots: Weds 14:30 UTC and Thurs 00:00 UTC.
 
@@ -115,7 +115,7 @@ The Anti-abuse team works closely with [Trust and Safety](/handbook/security/sec
 
 ## Pipeline Validation Service responsibility
 
-[PVS](https://gitlab.com/gitlab-org/modelops/anti-abuse/pipeline-validation-service) is an internal service that belongs to the Anti-abuse team. It’s a combination of heuristic-based (text matching, etc) and behavior-based rules (duplicate builds, etc). The [Trust and Safety team](https://about.gitlab.com/handbook/security/security-operations/trustandsafety/) leverages this service the most, and acts as the customer for feature requests.
+[PVS](https://gitlab.com/gitlab-org/modelops/anti-abuse/pipeline-validation-service) is an internal service that belongs to the Anti-abuse team. It’s a combination of heuristic-based (text matching, etc) and behavior-based rules (duplicate builds, etc). The [Trust and Safety team](/handbook/security/security-operations/trustandsafety/) leverages this service the most, and acts as the customer for feature requests.
 
 ### Heuristic rules
 
@@ -127,7 +127,7 @@ Behavior rules are more slow to change and potentially cast a much wider net (vs
 
 ### Severity and Priority
 
-[Severity](https://about.gitlab.com/handbook/security/#severity-and-priority-labels-on-security-issues) and priority will be added on all issues/merge requests created by T&S so that Anti-abuse can act on them accordingly.
+[Severity](/handbook/security/#severity-and-priority-labels-on-security-issues) and priority will be added on all issues/merge requests created by T&S so that Anti-abuse can act on them accordingly.
 
 Priority will be based on impact and likelihood of the attacker returning.
 

@@ -266,7 +266,7 @@ All the above can be achieved by iteratively improving existing roles.
 
 You can now find our [security paradigm](https://about.gitlab.com/direction/secure/#security-paradigm) on the [Secure Strategy](https://about.gitlab.com/direction/secure/) page.
 
-Also see our [Secure Team engineering handbook](https://about.gitlab.com/handbook/engineering/development/sec/secure/).
+Also see our [Secure Team engineering handbook](/handbook/engineering/development/sec/secure/).
 
 ### Statistics and performance data
 
@@ -302,7 +302,7 @@ pages to add to performance debt. When they ship, they should be fast.
 
 You must account for all cases, from someone with a single object, to thousands of objects.
 
-Read the handbook page relating to [performance of GitLab.com](https://about.gitlab.com/handbook/engineering/performance), and note the Speed Index target shown there
+Read the handbook page relating to [performance of GitLab.com](/handbook/engineering/performance), and note the Speed Index target shown there
 (read it thoroughly if you need a detailed overview of performance). Then:
 
 - Make sure that new pages and interactions meet the Speed Index target.
@@ -312,10 +312,10 @@ or changes.
 prioritizing work on their performance, or changes that would lead to improved page load speeds
 (such as pagination, showing less data, etc).
 - Any page that takes more than 4 seconds to load (speed index) should be considered too slow.
-- Use the [availability & performance priority labels](https://about.gitlab.com/handbook/engineering/performance/#availability-performance-labels)
+- Use the [availability & performance priority labels](/handbook/engineering/performance/#availability-performance-labels)
 to communicate and prioritize issues relating to performance.
 
-You must prioritize improvements according to their impact (per the [availability & performance priority labels](https://about.gitlab.com/handbook/engineering/performance/#availability-performance-labels)).
+You must prioritize improvements according to their impact (per the [availability & performance priority labels](/handbook/engineering/performance/#availability-performance-labels)).
 Pages that are visited often should be prioritized over pages that rarely have any visitors.
 However, if page load time approaches 4 seconds or more, they are considered no longer
 usable and should be fixed at the earliest opportunity.

@@ -58,4 +58,4 @@ In order (numbers are in Slack profiles):
 _Call on the phone if no response within 15 minutes_
 
 ## CMS Troubleshooting Playbook
-For information on troubleshooting a technical issue, refer to this playbook: [CMS Troubleshooting Playbook](https://handbook.gitlab.com/handbook/marketing/digital-experience/incident-response-playbook/)
+For information on troubleshooting a technical issue, refer to this playbook: [CMS Troubleshooting Playbook](/handbook/marketing/digital-experience/incident-response-playbook/)

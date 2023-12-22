@@ -5,7 +5,7 @@ description: The Create:Source Code BE team is responsible for all backend aspec
 
 The Create:Source Code BE team focuses on GitLab's suite of Source Code Management (SCM) tools and is responsible for all backend aspects of the product categories that fall under the [Source Code group][group] of the [Create stage][stage] of the [DevOps lifecycle][lifecycle]. Our Product direction is found on the [Category Direction - Source Code Management](https://about.gitlab.com/direction/create/source_code_management/) page.
 
-We interface with the Gitaly and Code Review teams, and work closely with the [Create:Source Code Frontend team](../../create-source-code-fe/index.html). The features we work with are listed on the [Features by Group Page](https://about.gitlab.com/handbook/product/categories/features/#createsource-code-group) and technical documentation can be found on the [Create: Source Code Backend](https://docs.gitlab.com/ee/development/backend/create_source_code_be/index.html) technical reference page.
+We interface with the Gitaly and Code Review teams, and work closely with the [Create:Source Code Frontend team](../../create-source-code-fe/index.html). The features we work with are listed on the [Features by Group Page](/handbook/product/categories/features/#createsource-code-group) and technical documentation can be found on the [Create: Source Code Backend](https://docs.gitlab.com/ee/development/backend/create_source_code_be/index.html) technical reference page.
 
 [group]: /handbook/product/categories/#source-code-group
 [stage]: /handbook/product/categories/#create-stage
@@ -25,7 +25,7 @@ The following members of other functional teams are our stable counterparts:
 
 ## Sisense & KPIs
 
-We have a [metrics dashboard](https://app.periscopedata.com/app/gitlab/570334/Universal-Engineering-Team-Metrics-Dashboard) to help us stay on track with [Development KPIs](/company/kpis/#development-department-kpis) (Make sure you filter by our team at the top!) This dashboard does not include security MRs from `dev.gitlab.org`, but does include security MRs from production.
+We have a [metrics dashboard](https://app.periscopedata.com/app/gitlab/570334/Universal-Engineering-Team-Metrics-Dashboard) to help us stay on track with [Development KPIs](/handbook/company/kpis/#development-department-kpis) (Make sure you filter by our team at the top!) This dashboard does not include security MRs from `dev.gitlab.org`, but does include security MRs from production.
 
 <div class="cotnainer">
     <div class="row">
@@ -114,7 +114,7 @@ The weekly Triage Report is generated automatically by the [GitLab bot](https://
 The Triage Report can be quite long, and it important to deal with it efficiently. An effective way to approach it is:
 
 - Open every issue in a separate browser tab and use "edit issue" to mark then as checked once review, then close the tab.
-- Verify if the issue belongs to ~"group::source code" and change group label if needed. The [Features by Group](https://about.gitlab.com/handbook/product/categories/features/#createsource-code-group) page is a good starting point for this assessment.
+- Verify if the issue belongs to ~"group::source code" and change group label if needed. The [Features by Group](/handbook/product/categories/features/#createsource-code-group) page is a good starting point for this assessment.
 - Apply ~frontend if it is a frontend issue.
 - Perform a brief search to assess if is a duplicate, close with a ~Duplicate label if this is the case.
 - Is it a ~"support request" ? Does it ~"needs investigation" ? Apply labels if so.
@@ -128,7 +128,7 @@ The Triage Report can be quite long, and it important to deal with it efficientl
 
 ### Engineering cycle
 
-The engineering cycle is centered around the [GitLab Release Date every month](https://about.gitlab.com/handbook/engineering/releases/#timelines). This is the only fixed date in the month, and the table below indicates how the other dates can be determined in a given month.
+The engineering cycle is centered around the [GitLab Release Date every month](/handbook/engineering/releases/#timelines). This is the only fixed date in the month, and the table below indicates how the other dates can be determined in a given month.
 
 #### Iteration Documents
 

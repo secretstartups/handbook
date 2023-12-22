@@ -74,7 +74,7 @@ These types of severe issues can be reported at any time, but will be  prevalent
 
 ###### Labelling Regression Issues
 
-A [regression](/handbook/glossary/#regression) is defined as a change that results in a negative impact on the functionality of an existing feature due to recent changes, i.e. the latest release.
+A [regression](https://about.gitlab.com/handbook/glossary/#regression) is defined as a change that results in a negative impact on the functionality of an existing feature due to recent changes, i.e. the latest release.
 
 Each release has it's own regression issue, used to index all issues that have been raised that relate to a degradation in existing functionality.
 
@@ -122,7 +122,7 @@ We were able to reproduce the bug on GitLab.com, this is a proper regression! Le
 - [ ] Explore the existing issues and notice the labels that have been applied
 - [ ] Explore and understand the labels that are available for each project. Start with the [GitLab project's labels](https://gitlab.com/gitlab-org/gitlab/-/labels)
 - [ ] Explore the Teams in the [handbook](/handbook/engineering/)
-- [ ] Explore the domain experts listed on the [team page](/company/team/)
+- [ ] Explore the domain experts listed on the [team page](/handbook/company/team/)
 - [ ] Identify the current release's regression issue and take a look at the referenced regression issues
 
 ----

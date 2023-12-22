@@ -4,13 +4,13 @@ title: "Manage Import and Integrate Group"
 
 ## About
 
-The Import and Integrate group is a part of the [Manage Stage](https://about.gitlab.com/handbook/product/categories/#manage-stage).
+The Import and Integrate group is a part of the [Manage Stage](/handbook/product/categories/#manage-stage).
 The group supports the product
 
 - by migrating between GitLab instances and from other providers
 - with 3rd party integrations, REST APIs and GraphQL foundational code, and Webhooks.
 
-This page covers processes and information specific to the Import and Integrate group. See also the [group direction page](/direction/manage/import_and_integrate/) and the [features we support per category](/handbook/product/categories/features/#manageimport-and-integrate-group).
+This page covers processes and information specific to the Import and Integrate group. See also the [group direction page](https://about.gitlab.com/direction/manage/import_and_integrate/) and the [features we support per category](/handbook/product/categories/features/#manageimport-and-integrate-group).
 
 ## How to reach us
 
@@ -29,7 +29,7 @@ The following people are permanent members of the group:
 
 ## Metrics
 
-You can find our group metrics in the [Manage:Import and Integrate Sisense Dashboard](https://app.periscopedata.com/app/gitlab/1129535/Manage:Import-and-Integrate-Dashboard) and [Import and Integrate Group Engineering Metrics handbook page](https://about.gitlab.com/handbook/engineering/metrics/dev/manage/import-and-integrate/).
+You can find our group metrics in the [Manage:Import and Integrate Sisense Dashboard](https://app.periscopedata.com/app/gitlab/1129535/Manage:Import-and-Integrate-Dashboard) and [Import and Integrate Group Engineering Metrics handbook page](/handbook/engineering/metrics/dev/manage/import-and-integrate/).
 
 {{< sisense dashboard="926758" chart="12808907" >}}
 
@@ -211,7 +211,7 @@ from PM or UX.
 
 The group has an existing [threat model](https://gitlab.com/gitlab-com/gl-security/appsec/threat-models/-/blob/master/gitlab-org/gitlab/GitLab%20Migration.md) to assist in identifying issues that may have security implications, but there are other considerations.
 
-An [Application Security Review](https://about.gitlab.com/handbook/security/security-engineering/application-security/appsec-reviews.html) should be requested when the issue or MR might have security implications. These include, but aren't limited to, issues or MRs which:
+An [Application Security Review](/handbook/security/security-engineering/application-security/appsec-reviews.html) should be requested when the issue or MR might have security implications. These include, but aren't limited to, issues or MRs which:
 - falls under the threat model
 - handles binary files (downloading, decompressing, extracting, moving, deleting)
 - modifies or uses file manipulation services
@@ -221,13 +221,13 @@ An [Application Security Review](https://about.gitlab.com/handbook/security/secu
 
 - When an issue is introduced into a release after Kickoff, an equal amount of weight must be removed to account for the unplanned work.
 - Development should not begin on an issue before it's been estimated and given a weight.
-- By the 15th, engineering merge requests should be merged. In other words, we assume code merged after the 15th will not be in the release. That allows time for the release to be finalized, and any associated [release posts](https://about.gitlab.com/handbook/marketing/blog/release-posts/) to be merged by the 17th. (This is an [experiment starting with 13.11](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/17330).)
+- By the 15th, engineering merge requests should be merged. In other words, we assume code merged after the 15th will not be in the release. That allows time for the release to be finalized, and any associated [release posts](/handbook/marketing/blog/release-posts/) to be merged by the 17th. (This is an [experiment starting with 13.11](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/17330).)
 
 #### Release posts
 
 For issues which need to be announced in more detail, a release post can be automatically created using the issue.
 When working on an issue, either in planning, or during design and development, you can use the
-[release post item generator](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-post-item-generator)
+[release post item generator](/handbook/marketing/blog/release-posts/#release-post-item-generator)
 to have the release post created and notify all the relevant people.
 
 If you do not want an issue to have a release post, make sure that the issue does not have a

@@ -162,7 +162,7 @@ The below fields are written by their API names in dot notation.
 
 # Data Classification
 
-This integration handles and stores [Orange Data](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#orange) (Personal data)
+This integration handles and stores [Orange Data](/handbook/engineering/security/data-classification-standard.html#orange) (Personal data)
 
 # Environments
 

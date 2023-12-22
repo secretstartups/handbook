@@ -7,7 +7,7 @@ description: "What are the problems users want MLOps to solve?"
 
 ## What is this
 
-To better contextualize our efforts on MLOps Incubation Engineering, we are defining a list of [Jobs To Be Done](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/) - the objectives our users are trying to accomplish in MLOps. We will anchor these JTBD to the [stage](https://about.gitlab.com/stages-devops-lifecycle/) they belong to, and each MLOps exploration will try to address one or more of these JTBD.
+To better contextualize our efforts on MLOps Incubation Engineering, we are defining a list of [Jobs To Be Done](/handbook/product/ux/jobs-to-be-done/) - the objectives our users are trying to accomplish in MLOps. We will anchor these JTBD to the [stage](https://about.gitlab.com/stages-devops-lifecycle/) they belong to, and each MLOps exploration will try to address one or more of these JTBD.
 
 This is a living issue, and new JTBD will continue to be added based on our understanding of MLOps and user Feedback.
 

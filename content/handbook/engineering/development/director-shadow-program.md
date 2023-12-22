@@ -12,7 +12,7 @@ description: "The development director shadow program provides mentoring, opport
 
 ## Why do we have a Development Director Shadow Program?
 
-As a [Development Director at GitLab](https://handbook.gitlab.com/job-families/engineering/development/management/director/), [Wayne](/handbook/engineering/readmes/wayne-haber/) got massive value out of participating in our [CEO Shadow Program](/handbook/ceo/shadow/) when [he did it in July of 2020](/blog/2020/07/08/ceo-shadow-impressions-takeaways/).
+As a [Development Director at GitLab](/job-families/engineering/development/management/director/), [Wayne](/handbook/engineering/readmes/wayne-haber/) got massive value out of participating in our [CEO Shadow Program](/handbook/ceo/shadow/) when [he did it in July of 2020](https://about.gitlab.com/blog/2020/07/08/ceo-shadow-impressions-takeaways/).
 
 Since the launch of the engineering director shadow program in September of 2021, Wayne has received great feedback from the shadows from various departments that have participated (marketing, professional services, development, and customer success).
 
@@ -181,9 +181,9 @@ No, not at this time.
 | [Sladyn Nunes](https://www.linkedin.com/in/sladyn-nunes) | Non-GitLab shadow - Student from [USC](https://www.usc.edu/) |
 | [Toni Lovejoy](https://linkedin.com/in/tonilovejoy) | Non-GitLab shadow - Developer from [Circulo Health](https://www.circulohealth.com/) |
 | [Anshul Riyal](https://gitlab.com/anshulriyal) | [GitLab Hero Community Contributor](https://about.gitlab.com/community/heroes/members) |
-| [George Tsiolis](https://gitlab.com/gtsiolis) | [GitLab Core Team Community Contributor](https://about.gitlab.com/company/team/?department=core-team) |
+| [George Tsiolis](https://gitlab.com/gtsiolis) | [GitLab Core Team Community Contributor](/handbook/company/team/?department=core-team) |
 | [Mrunal Kapade](https://linkedin.com/in/mrunalk) | Non-GitLab shadow - Engineering Leader |
-| [Alexander Chueshev](https://gitlab.com/achueshev) | Development: [GitLab ModelOps AI Assisted](https://about.gitlab.com/company/team/?department=modelops-ai-assisted) |
+| [Alexander Chueshev](https://gitlab.com/achueshev) | Development: [GitLab ModelOps AI Assisted](/handbook/company/team/?department=modelops-ai-assisted) |
  |[Praveen Elamkootil](http://linkedin.com/in/ekpraveen) | Non-GitLab shadow |
 | [Jonathan Ducharme](https://www.linkedin.com/in/ducharme-jonathan/) | Non-GitLab shadow - Engineering Manager at [AlleyCorp Nord](https://alleycorp.com/) |
 | [Tulika Gupta](https://www.linkedin.com/in/tulika-gupta-30190819/) | Non-GitLab shadow - Principal DevOps Engineer at [Alarm.com](https://alarm.com/) |

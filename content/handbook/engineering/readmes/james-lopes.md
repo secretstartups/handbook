@@ -5,7 +5,7 @@ description: "Personal readme page for James Lopes, Support Engineering Manager,
 job: "Support Engineering Manager (AMER)"
 ---
 ### About Me
-My name is James Lopes (surname pronounced similar to canta**loupes**, not like Jennifer Lopez) and I am one of the support managers here in the AMER region. To learn more about me you can reference my [team page](https://about.gitlab.com/company/team/?department=support-department#JamesLopes) and/or schedule a coffee chat on my calendar, I look forward to meeting new people and learning more about how we can collaborate!
+My name is James Lopes (surname pronounced similar to canta**loupes**, not like Jennifer Lopez) and I am one of the support managers here in the AMER region. To learn more about me you can reference my [team page](/handbook/company/team/?department=support-department#JamesLopes) and/or schedule a coffee chat on my calendar, I look forward to meeting new people and learning more about how we can collaborate!
 
 ## Connect with me!
 GitLab User: [@JamesRLopes](https://gitlab.com/jamesrlopes)

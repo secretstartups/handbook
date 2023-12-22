@@ -31,7 +31,7 @@ The following people are permanent members of the group:
 
 ### Team Meetings
 
-Our group holds synchronous meetings to gain additional clarity and alignment on our async discussions. We aspire to [record](https://about.gitlab.com/handbook/tools-and-tips/zoom/) all of our meetings as our team members are spread across several time zones and often cannot attend at the scheduled time.
+Our group holds synchronous meetings to gain additional clarity and alignment on our async discussions. We aspire to [record](/handbook/tools-and-tips/zoom/) all of our meetings as our team members are spread across several time zones and often cannot attend at the scheduled time.
 
 We have a weekly team sync meeting with rotating AMER/APAC and [EMEA/AMER](https://drive.google.com/drive/folders/1gFMDy-Lq0Ycg2pJE7_La0Giln3c4wMJJ?usp=drive_link) friendly time slots: Tues 20:00 UTC and Weds 14:30 UTC.
 

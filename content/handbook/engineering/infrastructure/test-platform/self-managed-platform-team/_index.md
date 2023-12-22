@@ -11,7 +11,7 @@ description: "Self-Managed Platform team in Test Platform sub-department"
 | **Slack Channel** | [#self-managed-platform-team](https://gitlab.slack.com/archives/CTP7N0PM4) |
 | **Team Boards** | [Team Board](https://gitlab.com/groups/gitlab-org/-/boards/978354) |
 | **Issue Tracker** | [quality/team-tasks](https://gitlab.com/gitlab-org/quality/team-tasks/issues/) |
-| **Self-Managed Platform Projects** | [Tools Page](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/self-managed-excellence/) |
+| **Self-Managed Platform Projects** | [Tools Page](/handbook/engineering/infrastructure/test-platform/self-managed-excellence/) |
 
 Engineers in this team support the product sections supported by the [Core Platform], [SaaS Platforms] along with maintaining the self managed platform tools.
 
@@ -32,7 +32,7 @@ Engineering Manager: Kassandra Svoboda
 
 ## OKRs
 
-Every quarter, the team commits to [Objectives and Key Results (OKRs)](/company/okrs/). The below shows current quarter OKRs and is updated regularly as the quarter progresses.
+Every quarter, the team commits to [Objectives and Key Results (OKRs)](/handbook/company/okrs/). The below shows current quarter OKRs and is updated regularly as the quarter progresses.
 
 Here is an [Overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/4938) of our current Self-Managed Platform team OKR.
 
@@ -53,7 +53,7 @@ Here is an [Overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/493
 
 ## Test Platform process across product sections:
 
-Overall we follow the same process as [defined](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/#how-we-work) in our Quality Engineering handbook across all groups in Enablement
+Overall we follow the same process as [defined](/handbook/engineering/infrastructure/test-platform/#how-we-work) in our Quality Engineering handbook across all groups in Enablement
 except for a few exceptions curated to fit the needs of specific groups.
 
 - [Test Platform in Distribution group](/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/distribution/index.html)

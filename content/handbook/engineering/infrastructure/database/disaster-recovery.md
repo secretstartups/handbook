@@ -16,7 +16,7 @@ title: "Database: Disaster Recovery"
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
+Inline with GitLab's regulatory obligations, changes to [controlled documents](/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
 
 </div>
 </div>
@@ -131,9 +131,9 @@ confidence in our cold backup and PITR recovery strategy.
 
 ## Exceptions
 
-Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](https://about.gitlab.com/handbook/security/#information-security-policy-exception-management-process).
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
 
 ## References
 
 * Parent Policy: [Information Security Policy](/handbook/security/)
-* [Controlled Document Procedure](https://about.gitlab.com/handbook/security/controlled-document-procedure.html)
+* [Controlled Document Procedure](/handbook/security/controlled-document-procedure.html)

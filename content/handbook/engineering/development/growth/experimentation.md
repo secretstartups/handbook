@@ -16,7 +16,7 @@ This page covers the Growth engineering process for running experiments. See als
 
 * [How Growth Launches Experiments](/handbook/product/growth/#how-growth-launches-experiments) (Product)
 * [Experiment Guide](https://docs.gitlab.com/ee/development/experiment_guide/) (GitLab Developer Documentation)
-* [Experimentation Design & Analysis](https://about.gitlab.com/handbook/product/product-analysis/experimentation/) (Product Analysis)
+* [Experimentation Design & Analysis](/handbook/product/product-analysis/experimentation/) (Product Analysis)
 
 ## Running Experiments
 
@@ -43,7 +43,7 @@ The duration of each experiment will vary depending on how long it takes for exp
     - experiments that meet our [Experiment Definition Standards](#experiment-definition-standards) and are deemed relevant are initially prioritized by adding the appropriate milestone list (`%Awaiting further demand`, `%Backlog`, `%Next 1-3 releases`, or a specific milestone)
     - experiments that do not meet our [Experiment Definition Standards](#experiment-definition-standards) or are deemed no longer relevant are closed
 1. PM follows the process outlined in [Experiment Setup](#experiment-setup) to create an epic and related issues
-1. PM, UX, and Engineering follow the [product development flow](https://about.gitlab.com/handbook/product-development-flow/) and create `workflow::` issues linked to the epic to track the work required to complete the experiment
+1. PM, UX, and Engineering follow the [product development flow](/handbook/product-development-flow/) and create `workflow::` issues linked to the epic to track the work required to complete the experiment
 1. Additionally, the PM works with the Data Team to define what data will be needed in order to fulfill the defined success metric
     - **Note:** In order for the Data Team to begin ingesting data from new tables or columns, those tables or columns must first exist in the production database.
 1. Engineering teams deliver changes in line with our product development flow, being mindful of changes affecting other GitLab teams.
@@ -60,7 +60,7 @@ The duration of each experiment will vary depending on how long it takes for exp
     - if experiment (all variants) are unsuccessful, PM/Engineering create an [Experiment Cleanup Issue](#experiment-cleanup-issue) to remove the experimentation code, reverting back to the "control" flow
 1. Once the [experiment cleanup](#experiment-cleanup-issue) issue is resolved, the [experiment rollout](#experiment-rollout-issue) issue and [Experiment Epic](#experiment-epic) are closed and the experimentation process is complete
 
-See also the [Growth RADCIE and DRIs](https://about.gitlab.com/handbook/product/growth/#growth-radcie-and-dris) for determining DRIs at each stage.
+See also the [Growth RADCIE and DRIs](/handbook/product/growth/#growth-radcie-and-dris) for determining DRIs at each stage.
 
 #### Experiment Issue Boards
 
@@ -145,7 +145,7 @@ With this in mind, there are advantages to considering developing a Minimum Viab
 Much like the concept of [Minimum Viable Change (MVC)](/handbook/product/product-principles/#the-minimal-viable-change-mvc), the goal of an MVE is to look for the smallest hypothesis to test, the simplest design for testing that hypothesis, the quickest implementation of the design, the least amount of data to be collected in order to verify the hypothesis, and so on.
 
 So, what might an MVE look like in practice?
-Matej Latin shares an example of [a so-called "painted door" test](https://crstanier.medium.com/a-product-managers-guide-to-painted-door-tests-a1a5de33b473) in his blog post, ["Small experiments, significant results and learnings"](/blog/2021/04/07/small-experiments-significant-results-and-learnings/#do-non-admin-users-want-to-invite-their-team-members).
+Matej Latin shares an example of [a so-called "painted door" test](https://crstanier.medium.com/a-product-managers-guide-to-painted-door-tests-a1a5de33b473) in his blog post, ["Small experiments, significant results and learnings"](https://about.gitlab.com/blog/2021/04/07/small-experiments-significant-results-and-learnings/#do-non-admin-users-want-to-invite-their-team-members).
 A simple example of a "painted door" test might be a call-to-action (CTA) button that doesn't really go anywhere – maybe it brings up a simple modal which says "Oops! That feature isn't ready yet," or maybe it takes the user to an existing page in our documentation.
 Because the design of this type of MVE is intentionally simple, it is easier and faster to develop, deploy, and start gathering data.
 Because the design of this type of MVE is intentionally simple, it is easier and faster to develop and deploy. With a small amount of instrumentation, we can use it as an opportunity to measure initial engagement with that button.

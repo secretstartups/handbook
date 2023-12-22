@@ -283,7 +283,6 @@ fi
 
 cd content
 
-if [[ $IS_MARKETING != "true" && $IS_ENGINEERING != "true" ]]; then
 # Migrated Sections using fully qualified url on about
 echo "Migrating links which have been migrated to the new handbook..."
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/anti-harassment/~](/handbook/anti-harassment/~g" {} +
@@ -346,6 +345,7 @@ find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/job-fa
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/customer-success/~](/handbook/customer-success/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/resellers/~](/handbook/resellers/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/sales/~](/handbook/sales/~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/engineering/~](/handbook/engineering/~g" {} +
 
 # Migrated Sections using fully qualified url on handbook
 echo "Migrating links for the new handbook  which been migrated to the new handbook..."
@@ -409,6 +409,7 @@ find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/job
 find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/customer-success/~](/handbook/customer-success/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/resellers/~](/handbook/resellers/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/sales/~](/handbook/sales/~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/engineering/~](/handbook/engineering/~g" {} +
 
 # Sections not yet migrated
 echo "Fixing links which haven't been migrated yet..."
@@ -432,7 +433,6 @@ find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/style-guide/~](https:
 echo "Fixing links for sections which won't be migrated..."
 find . -type f -name "*.md" -exec sed -i '' "s~](/blog/~](https://about.gitlab.com/blog/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/direction/~](https://about.gitlab.com/direction/~g" {} +
-fi
 
 # Clean up the markdown and erb files a bit
 echo  "Cleaning up markdown files..."
@@ -464,6 +464,7 @@ find . -type f -name "*.erb" -exec sed -i '' "s~{:toc .toc-list-icons .hidden-md
 find . -type f -name "*.erb" -exec sed -i '' "s~{:no_toc .hidden-md .hidden-lg}~~g" {} +
 find . -type f -name "*.erb" -exec sed -i '' "s~{: .shadow}~~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~{:toc}~~g" {} +
+
 
 cd ..
 

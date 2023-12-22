@@ -36,7 +36,7 @@ For Support or Infrastructure managed incidents where external communication gui
 
 ### 👷 Infrastructure incident response
 
-For Infrastructure incidents, please follow the [infrastructure incident management and communication process](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#communication).
+For Infrastructure incidents, please follow the [infrastructure incident management and communication process](/handbook/engineering/infrastructure/incident-management/#communication).
 
 ## Defining the scope/severity of an incident
 

@@ -129,7 +129,7 @@ This can be done by running `find source/handbook -type f | xargs wc -w` from th
 
 ### Trainee maintainer issue upkeep
 
-Part of the [maintainer training process](https://about.gitlab.com/handbook/engineering/workflow/code-review/#trainee-maintainer) is to keep track of Merge Request that have been reviewed and writing down an assessment on the review in the maintainer training issue.
+Part of the [maintainer training process](/handbook/engineering/workflow/code-review/#trainee-maintainer) is to keep track of Merge Request that have been reviewed and writing down an assessment on the review in the maintainer training issue.
 Manual upkeep of the maintainer training issue can be time consuming. There are tools that others have built to help with this task:
 
 - <https://gitlab.com/nolith/review-tanuki>

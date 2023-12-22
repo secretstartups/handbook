@@ -16,8 +16,8 @@ How we work:
 How we design:
 - We follow all workflows defined within the [UX Department section of the handbook](/handbook/product/ux/), including protocol for both
     [Product Design](/handbook/product/ux/product-designer/) and [UX Research](/handbook/product/ux/ux-research/).
-- We use the [UX issue weights](https://about.gitlab.com/handbook/product/ux/product-designer/#ux-issue-weights)
-    and [UX issue labels](https://about.gitlab.com/handbook/product/ux/#ux-labels) to categorize, prioritize, and track work.
+- We use the [UX issue weights](/handbook/product/ux/product-designer/#ux-issue-weights)
+    and [UX issue labels](/handbook/product/ux/#ux-labels) to categorize, prioritize, and track work.
 - We review all merge requests containing the [UX] label to ensure design and engineering parity.
 - We dogfood Product Analytics to measure and test the impact of each product iteration.
 
@@ -34,7 +34,7 @@ Welcome! Start by familiarizing yourself with the [developer onboarding guide](h
 
 We use Docker to run our development environment. You can find installation instructions [here](https://docs.docker.com/install/). Free alternatives such as Rancher are not fully compatible with our development stack.
 
-Docker is not expensable, so you will need to open an access request to get a valid license. Further instructions are [here](https://about.gitlab.com/handbook/tools-and-tips/mac/#docker-desktop).
+Docker is not expensable, so you will need to open an access request to get a valid license. Further instructions are [here](/handbook/tools-and-tips/mac/#docker-desktop).
 
 ### DevKit
 

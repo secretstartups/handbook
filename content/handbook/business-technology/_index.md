@@ -94,14 +94,14 @@ As GitLab has grown organically, several departments and functional groups have 
 
 To support this "shadow IT" model, [each tech stack application](/handbook/business-technology/tech-stack-applications/) has a System Owner that is the DRI for handling the implementation and day-to-day operational support for the team members that utilize that application (in their department or functional group). This has an added benefit of preventing the traditional IT department from being a bottleneck and allows each department to self-service as part of GitLab's [efficiency for the right group](/handbook/values/#efficiency-for-the-right-group) subvalue.
 
-As a SaaS company, our Engineering division also has an [infrastructure SRE team](https://about.gitlab.com/handbook/engineering/infrastructure/) and [security team](/handbook/security/) that supports the GitLab product development and hosting of our GitLab.com SaaS service. Many of the technologies that we use overlap, so the Business Technology department focuses on the technologies that are used for running the business that usually are not directly related to product development or the hosting of our GitLab.com SaaS service.
+As a SaaS company, our Engineering division also has an [infrastructure SRE team](/handbook/engineering/infrastructure/) and [security team](/handbook/security/) that supports the GitLab product development and hosting of our GitLab.com SaaS service. Many of the technologies that we use overlap, so the Business Technology department focuses on the technologies that are used for running the business that usually are not directly related to product development or the hosting of our GitLab.com SaaS service.
 
 ### System Owner Directory
 
 - [Customer Success Operations](/handbook/sales/field-operations/customer-success-operations/)
 - [Customer Support Operations](/handbook/support/readiness/operations/)
-- [Engineering Infrastructure (Reliability SREs)](https://about.gitlab.com/handbook/engineering/infrastructure/)
-- [Engineering Productivity](https://handbook.gitlab.com/handbook/engineering/quality/engineering-productivity/)
+- [Engineering Infrastructure (Reliability SREs)](/handbook/engineering/infrastructure/)
+- [Engineering Productivity](/handbook/engineering/quality/engineering-productivity/)
 - [Engineering Security](/handbook/security/)
 - [Finance Systems](/handbook/business-technology/enterprise-applications/financeops/)
 - [Marketing Operations](/handbook/marketing/marketing-operations/)
@@ -140,9 +140,9 @@ The [IT Engineering - Access Management](/handbook/business-technology/engineeri
 
 ## Cloud Infrastructure Management
 
-The [IT Engineering - Infrastructure](/handbook/business-technology/engineering/infrastructure) team collaborates with the [Engineering Infrastructure Reliability (SRE)](https://about.gitlab.com/handbook/engineering/infrastructure/) and [Infrastructure Security](/handbook/security/security-engineering-and-research/infrastructure-security/) teams to provide Infrastructure Shared Services for all AWS, Azure, and GCP related requests and support across the organization. See the [Infrastructure Standards](/handbook/infrastructure-standards) handbook page to learn more.
+The [IT Engineering - Infrastructure](/handbook/business-technology/engineering/infrastructure) team collaborates with the [Engineering Infrastructure Reliability (SRE)](/handbook/engineering/infrastructure/) and [Infrastructure Security](/handbook/security/security-engineering-and-research/infrastructure-security/) teams to provide Infrastructure Shared Services for all AWS, Azure, and GCP related requests and support across the organization. See the [Infrastructure Standards](/handbook/infrastructure-standards) handbook page to learn more.
 
-Our focus is on organizational policy management, access request provisioning, and services that are outside of the [Reliability Engineering](https://about.gitlab.com/handbook/engineering/infrastructure/) scope of hosting the GitLab.com SaaS service, such as the provisioning of demo/sandbox/test infrastructure for team members.
+Our focus is on organizational policy management, access request provisioning, and services that are outside of the [Reliability Engineering](/handbook/engineering/infrastructure/) scope of hosting the GitLab.com SaaS service, such as the provisioning of demo/sandbox/test infrastructure for team members.
 
 The [Demo Systems](/handbook/customer-success/demo-systems/) provide an always-on shared sandbox environment for demo and experimental use cases that aren't intended for or supported on GitLab.com and don't need dedicated infrastructure to be provisioned for your use case.
 

@@ -156,7 +156,7 @@ To learn how to set up a new graph or dashboard using Grafana, take a look at th
 - [YouTube video showing how to set up a dashboard](https://www.youtube.com/watch?v=sKNZMtoSHN4&index=7&list=PLDGkOdUX1Ujo3wHw9-z5Vo12YLqXRjzg2)
 - The [Grafana repo](https://gitlab.com/gitlab-org/grafana-dashboards) where we keep an archive of InfluxDB dashboards created in Grafana. Use these to see details in the file structure, but note that the repo is truly an archive (nothing populates _from_ it) and can be out of date.
 
-Need access to add a dashboard? Ask any team lead within the [infrastructure team](/company/team/?department=infrastructure-department).
+Need access to add a dashboard? Ask any team lead within the [infrastructure team](/handbook/company/team/?department=infrastructure-department).
 
 #### Dashboards for stage groups
 

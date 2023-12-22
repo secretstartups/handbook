@@ -9,7 +9,7 @@ The Utilization Team often works at the interface between GitLab Core and Fulfil
 
 ## Vision
 
-For more details about the product vision for Fulfillment, see our [Fulfillment](/direction/fulfillment/) page.
+For more details about the product vision for Fulfillment, see our [Fulfillment](https://about.gitlab.com/direction/fulfillment/) page.
 
 The Utilization group manages the [Utilization category](/handbook/product/categories/#utilization-group).
 
@@ -25,7 +25,7 @@ The Utilization group manages the [Utilization category](/handbook/product/categ
 
 ### Sync Time is Valuable
 
-We try to [work async](/company/culture/all-remote/asynchronous/) as much as possible. However, there are occasions where synchronous communication might be better suited for the task. Our Weekly Team Sync meeting is one of those occasions where we can celebrate wins, collaborate quickly over a number of issues, and generally have some face-time in an all-remote environment.
+We try to [work async](/handbook/company/culture/all-remote/asynchronous/) as much as possible. However, there are occasions where synchronous communication might be better suited for the task. Our Weekly Team Sync meeting is one of those occasions where we can celebrate wins, collaborate quickly over a number of issues, and generally have some face-time in an all-remote environment.
 
 Crucially, we use this high bandwidth communication to review issues that need some extra discussion and input from the team to ensure that issues can be estimated and work developed with minimal back and forth to establish the nature of the request.
 
@@ -72,7 +72,7 @@ The Engineering Manager will report before the end of each week on milestone pro
 
 ##### OKRs
 
-The Engineering Manager will report on the progress of [OKRs](/company/okrs/) every two weeks as a comment in relevant work items found in the [Objectives and Key Results project](https://gitlab.com/gitlab-com/gitlab-OKRs).
+The Engineering Manager will report on the progress of [OKRs](/handbook/company/okrs/) every two weeks as a comment in relevant work items found in the [Objectives and Key Results project](https://gitlab.com/gitlab-com/gitlab-OKRs).
 
 Current OKRs: [Work Items Labeled with Utilization](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=group%3A%3Autilization&first_page_size=100)
 
@@ -111,13 +111,13 @@ We have [cross-functional prioritization](/handbook/product/cross-functional-pri
 - The Product Manager will prioritize `type::feature` issues
 - The Engineering Manager will prioritize `type::maintenance` issues
 - The Software Engineer in Test will prioritize `type::bug` issues
-- The Product Designer will prioritize `sus::impacting` issues ([System Usability Scale (SUS)](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#sus-impacting))
+- The Product Designer will prioritize `sus::impacting` issues ([System Usability Scale (SUS)](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#sus-impacting))
 
 #### Mechanics
 
 - The team uses the [#g_utilization_planning](https://gitlab.slack.com/archives/C04108X3FDG) Slack channel to discuss cross-functional prioritization.
 - The team reviews [this dashboard](#merged-merge-request-types) which shows the distribution of MRs that are bugs, maintenance, and features to ensure the team's efforts are properly aligned to our target prioritization ratio (60% features / 30% maintenance / 10% bugs).
-- The team uses [this prioritization board](https://gitlab.com/gitlab-org/gitlab/-/boards/4416231?label_name%5B%5D=group%3A%3Autilization) to order our top features, bugs, maintenance, and [System Usability Scale (SUS)](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#sus-impacting) impacting issues.
+- The team uses [this prioritization board](https://gitlab.com/gitlab-org/gitlab/-/boards/4416231?label_name%5B%5D=group%3A%3Autilization) to order our top features, bugs, maintenance, and [System Usability Scale (SUS)](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#sus-impacting) impacting issues.
 - For a quick view and controls on bugs by priority, [this board](https://gitlab.com/groups/gitlab-org/-/boards/2874336?label_name[]=group%3A%3Autilization&label_name[]=type%3A%3Abug) can be used. More detailed information on bugs, including backlog and open rate, both of which are factors in determining their desired bug percentage for the upcoming milestone, is shown in this [dashboard](https://app.periscopedata.com/app/gitlab/1037965/Bug-Prioritization) (select Utilization from filters).
 - The team collaborates on a prioritization issue that documents and discusses our current prioritization scheme.
 

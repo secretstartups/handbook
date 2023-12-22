@@ -160,7 +160,7 @@ For collaboration in other projects and subjects:
 | [Style Guide](#style-guide)                                                                                     | {{< member-by-name "Suzanne Selhorn" >}}                                                                                                                              |
 | [Testing/Vale/markdownlint](#testing)                                                                           | {{< member-by-name "Diana Logan" >}}                                                                                                                                  |
 | [Documentation handbook](/handbook/documentation/)                                                              | {{< member-by-name "Diana Logan" >}}                                                                                                                                  |
-| [Technical Writing handbook](https://about.gitlab.com/handbook/engineering/ux/technical-writing/)                                       | {{< member-by-name "Susan Tacker" >}}                                                                                                                                 |
+| [Technical Writing handbook](/handbook/engineering/ux/technical-writing/)                                       | {{< member-by-name "Susan Tacker" >}}                                                                                                                                 |
 | [Tutorials](https://docs.gitlab.com/ee/tutorials/)                                                              | {{< member-by-name "Kati Paizee" >}}                                                                                                                                  |
 | [What's new](https://docs.gitlab.com/ee/administration/whats-new.html)                                          | {{< member-by-name "Kati Paizee" >}}                                                                                                                                  |
 | [GitLab Development Kit (GDK)](https://gitlab.com/gitlab-org/gitlab-development-kit)                            | {{< member-by-name "Ashraf Khamis" >}}, {{< member-by-name "Achilleas Pipinellis" >}}, {{< member-by-name "Evan Read" >}}, {{< member-by-name "Fiona Neill" >}}, {{< member-by-name "Jon Glassman" >}}, {{< member-by-name "Lorena Ciutacu" >}}, {{< member-by-name "Marcel Amirault" >}}, {{< member-by-name "Phillip Wells" >}}, {{< member-by-name "Russell Dickenson" >}} |
@@ -367,7 +367,7 @@ can efficiently perform the necessary verification.
 
 ### Review workflow
 
-To balance [velocity](https://about.gitlab.com/handbook/engineering/development/principles/#the-importance-of-velocity) and quality, the writers use this workflow:
+To balance [velocity](/handbook/engineering/development/principles/#the-importance-of-velocity) and quality, the writers use this workflow:
 
 - When a writer opens a merge request, another writer must review and merge. Peer reviews are important to maintain quality and help the team build a common voice.
 - When anyone else (like a developer, community member, or Support team member) opens a merge request:
@@ -406,14 +406,14 @@ If you have content that needs a specific assignee, or if you have a merge reque
 
 There are occasions when Technical Writers may be too busy for general team merge request reviews, and need to focus on their groups or other priorities. In those cases, Technical Writers can update their GitLab status by selecting the **Busy** checkbox and adding the 🔴 `:red_circle:`, which prevents their name from appearing in the reviewer roulette.
 
-For example, Technical Writers on release duty for a milestone should add the busy indicator to their status for the week preceeding the [release date](https://about.gitlab.com/handbook/engineering/releases/), to focus on release posts and other requirements.
+For example, Technical Writers on release duty for a milestone should add the busy indicator to their status for the week preceeding the [release date](/handbook/engineering/releases/), to focus on release posts and other requirements.
 
 In all other cases, while Technical Writers can add (and remove) the busy indicator from their profiles, we ask that the busy indicator be in place for no longer than two days at a time, and be employed no more than once every two weeks. (Noting that the use of the busy indicator during releases doesn't affect this.) If you need more time not participating in the review roulette, be sure to talk to your manager so they can help (which may include additional use of the busy indicator).
 
 ## Merge rights
 
 The Technical Writing team is given merge rights (through
-[Maintainer access](https://about.gitlab.com/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer))
+[Maintainer access](/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer))
 to GitLab projects as part of their role. Not all developers get Maintainer access. Technical
 writers should use this privilege responsibly.
 

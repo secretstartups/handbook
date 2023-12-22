@@ -16,7 +16,7 @@ title: "Network Security Management Procedure"
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
+Inline with GitLab's regulatory obligations, changes to [controlled documents](/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
 
 </div>
 </div>
@@ -177,11 +177,11 @@ much more detail.
 
 ## Exceptions
 
-Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](https://about.gitlab.com/handbook/security/#information-security-policy-exception-management-process).
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
 
 
 ## References
 * Parent Policy: [Information Security Policy](/handbook/security/)
-* [Production Architecture](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/)
-* [Encryption Policy](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/encryption-policy.html#encryption-in-transit)
+* [Production Architecture](/handbook/engineering/infrastructure/production/architecture/)
+* [Encryption Policy](/handbook/security/threat-management/vulnerability-management/encryption-policy.html#encryption-in-transit)
 

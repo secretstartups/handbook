@@ -8,7 +8,7 @@ A cheat sheet that Engineering Analysts can use to refer back to dashboards that
 
 ## Helpful resources
 
-* [Tableau](https://about.gitlab.com/handbook/business-technology/data-team/platform/tableau/#tableau-project-architecture)
+* [Tableau](/handbook/business-technology/data-team/platform/tableau/#tableau-project-architecture)
 * [GitLab DBT Docs](https://gitlab-data.gitlab.io/analytics/#!/overview)
 * [Data Team Handbook](https://about.gitlab.com/handbook/business-ops/data-team/)
 
@@ -17,7 +17,7 @@ A cheat sheet that Engineering Analysts can use to refer back to dashboards that
 * [Partials for engineering metrics](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/handbook/source/handbook/engineering/metrics/partials) - used to populate dashboards on group pages
 * [Chart helpers](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/helpers/quality_charts_helpers.rb)
 * [Product stages](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml)
-* [Product development flow](https://about.gitlab.com/handbook/product-development-flow/) - an overview of the development workflow.
+* [Product development flow](/handbook/product-development-flow/) - an overview of the development workflow.
 
 ## Commonly used data models
 
@@ -39,7 +39,7 @@ A cheat sheet that Engineering Analysts can use to refer back to dashboards that
 | Dashboard      | Description |
 | -------------- | ----------- |
 | [Top Engineering Metrics Dashboard](https://app.periscopedata.com/app/gitlab/1000952/Top-Engineering-Metrics-Dashboard)      |The metrics we find that are top of mind for all groups.|
-| [Issue Types by Milestone](https://app.periscopedata.com/app/gitlab/1042933/Issue-Types-by-Milestone) |  Gitlab-org and Gitlab-com issues by type, subtype, and milestone. This was created as part of the [Cross-Functional Prioritization Working Group](https://about.gitlab.com/handbook/product/cross-functional-prioritization/). This dashboard is used to monitor the balance of new features, security fixes, availability work, performance improvements, bug fixes, etc. across departments/groups.|
+| [Issue Types by Milestone](https://app.periscopedata.com/app/gitlab/1042933/Issue-Types-by-Milestone) |  Gitlab-org and Gitlab-com issues by type, subtype, and milestone. This was created as part of the [Cross-Functional Prioritization Working Group](/handbook/product/cross-functional-prioritization/). This dashboard is used to monitor the balance of new features, security fixes, availability work, performance improvements, bug fixes, etc. across departments/groups.|
 | [Merge Request Types](https://app.periscopedata.com/app/gitlab/976817/Merge-Request-Types) |  Product MRs by type and group. This is used in tandem with the Issue Types by Milestone dashboard. |
 | [Development Embedded Dashboard](https://app.periscopedata.com/app/gitlab/681347/Development-Embedded-Dashboard) | |
 | [Quality Embedded Dashboard](https://app.periscopedata.com/app/gitlab/736012/Quality-Embedded-Dashboard) | |
@@ -57,19 +57,19 @@ Depending on the type of data, you can create a DBT model in the appropriate sch
 4. Once the pipeline passes, ask a member of the Engineering Analytics team to review.
 5. Next in the approval process is a member of the Data team.
 
-If you create a new seed, you need to run [`specify_csv_seed`](https://about.gitlab.com/handbook/business-technology/data-team/platform/ci-jobs/#specify_csv_seed) before step 3, especially if you create a new model that depends on the new seed.
+If you create a new seed, you need to run [`specify_csv_seed`](/handbook/business-technology/data-team/platform/ci-jobs/#specify_csv_seed) before step 3, especially if you create a new model that depends on the new seed.
 
 ### How to test DBT model
 
 #### Via command line
 
-After [setting up dbt](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#running-dbt), you can test run the new model in your local environment using the [dbt specific command line](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#command-line-cheat-sheet). The model will be created in your personal database in Snowflake. (Please note: personal database is only provisioned by request. [See example](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/17451#note_1342680429))
+After [setting up dbt](/handbook/business-technology/data-team/platform/dbt-guide/#running-dbt), you can test run the new model in your local environment using the [dbt specific command line](/handbook/business-technology/data-team/platform/dbt-guide/#command-line-cheat-sheet). The model will be created in your personal database in Snowflake. (Please note: personal database is only provisioned by request. [See example](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/17451#note_1342680429))
 
 For example, you have just created `engineering_issues` under `workspace_engineering`. Following the command `dbt run --models +engineering_issues`, dbt will run all parents and the model. After that, you can go to Snowflake UI and check the data by running `SELECT * FROM YOURNAME_PROD.WORKSPACE_ENGIENERING.ENGINEERING_ISSUES LIMIT 10`.
 
 #### Via dbt Power User
 
-Alternatively, you can set up [VSCode extension dbt Power User](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#vscode-extension-dbt-power-user). You can directly use the UI in VSCode to test run models without command line.
+Alternatively, you can set up [VSCode extension dbt Power User](/handbook/business-technology/data-team/platform/dbt-guide/#vscode-extension-dbt-power-user). You can directly use the UI in VSCode to test run models without command line.
 
 ## FAQ
 

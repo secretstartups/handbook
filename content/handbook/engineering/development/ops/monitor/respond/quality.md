@@ -153,7 +153,7 @@ So you should have enough time to investigate what went wrong.
 
 #### 6. What to do if I can't understand what I see?
 
-Please reach out to [your counterpart SET](https://about.gitlab.com/handbook/engineering/quality/#individual-contributors)
+Please reach out to [your counterpart SET](/handbook/engineering/quality/#individual-contributors)
 or in the [#quality](https://gitlab.slack.com/archives/C3JJET4Q6) channel. Someone will gladly offer help!
 
 ### Helpful Documentation

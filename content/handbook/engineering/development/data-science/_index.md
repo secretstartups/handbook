@@ -6,12 +6,12 @@ description: "The Data Science stage is focused on leveraging ML in the GitLab p
 ## Vision
 
 Build a diverse and global development team to support and drive results across the section,
-while maintaining [our values](/handbook/values/) and [unique way of working](/company/culture/all-remote/guide/).
+while maintaining [our values](/handbook/values/) and [unique way of working](/handbook/company/culture/all-remote/guide/).
 
 ## Mission
 
 Drive results through iterative development as we add ModelOps and Anti-abuse features into the product.
-Our teams are data-driven, support [dogfooding](/direction/dogfooding/), and [collaboration](/handbook/values/#collaboration) within GitLab and the wider community.
+Our teams are data-driven, support [dogfooding](https://about.gitlab.com/direction/dogfooding/), and [collaboration](/handbook/values/#collaboration) within GitLab and the wider community.
 
 ## Groups
 

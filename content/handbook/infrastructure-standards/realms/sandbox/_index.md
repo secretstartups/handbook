@@ -95,11 +95,11 @@ Self-service creation and IAM management is not available yet for end users in H
 
 ##### Product Related
 
-For any staging or production(-esque) infrastructure services that are customer facing, contain [Red or Orange data](/handbook/security/data-classification-standard.html#data-classification-levels), related to the GitLab product or GitLab.com SaaS, or Engineering sponsored services, please contact the [Reliability Engineering](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/) team for guidance on next steps in the `#infrastructure_lounge` Slack channel.
+For any staging or production(-esque) infrastructure services that are customer facing, contain [Red or Orange data](/handbook/security/data-classification-standard.html#data-classification-levels), related to the GitLab product or GitLab.com SaaS, or Engineering sponsored services, please contact the [Reliability Engineering](/handbook/engineering/infrastructure/team/reliability/) team for guidance on next steps in the `#infrastructure_lounge` Slack channel.
 
 Most environments are typically created in the [config-mgmt project](https://gitlab.com/gitlab-com/gl-infra/config-mgmt) using the [Create a new environment](https://gitlab.com/gitlab-com/gl-infra/config-mgmt/#creating-a-new-environment) instructions.
 
-You can learn more about GitLab.com SaaS on the [Production Architecture](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/) handbook page.
+You can learn more about GitLab.com SaaS on the [Production Architecture](/handbook/engineering/infrastructure/production/architecture/) handbook page.
 
 Any projects with [yellow or green](/handbook/security/data-classification-standard.html#data-classification-levels) data usually are better suited for self management using [Group Projects](#groupteam-aws-account-or-gcp-project-non-production) using [Infrastructure Standards](/handbook/infrastructure-standards) guidelines.
 

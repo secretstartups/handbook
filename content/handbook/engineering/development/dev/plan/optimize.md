@@ -61,7 +61,7 @@ While individual groups are free to use as many stages in the [Product Developme
 
 ##### Measuring the value of the team deliverables
 
-To visualize our flow of value to customers, we're [dogfooding](https://about.gitlab.com/handbook/engineering/development/principles/#dogfooding) [Value Stream Analytics](https://gitlab.com/groups/gitlab-org/-/analytics/value_stream_analytics?value_stream_id=1022&project_ids[]=278964&label_name[]=group%3A%3Aoptimize) to measure the time it takes to go from planning to production.
+To visualize our flow of value to customers, we're [dogfooding](/handbook/engineering/development/principles/#dogfooding) [Value Stream Analytics](https://gitlab.com/groups/gitlab-org/-/analytics/value_stream_analytics?value_stream_id=1022&project_ids[]=278964&label_name[]=group%3A%3Aoptimize) to measure the time it takes to go from planning to production.
 
 ##### Backlog management
 
@@ -214,13 +214,13 @@ Expectations by role:
 
 - When an issue is introduced into a release after Kickoff, an equal amount of weight must be removed to account for the unplanned work.
 - Development should not begin on an issue before it's been estimated and given a weight.
-- By the 15th, engineering merge requests should be merged. In other words, we assume code merged after the 15th will not be in the release. That allows time for the release to be finalized, and any associated [Release Posts](https://about.gitlab.com/handbook/marketing/blog/release-posts/) to be merged by the 17th. (This is an [experiment starting with 13.11](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/17330).)
+- By the 15th, engineering merge requests should be merged. In other words, we assume code merged after the 15th will not be in the release. That allows time for the release to be finalized, and any associated [Release Posts](/handbook/marketing/blog/release-posts/) to be merged by the 17th. (This is an [experiment starting with 13.11](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/17330).)
 
 #### Release posts
 
 For issues which need to be announced in more detail, a release post can be automatically created using the issue.
 When working on an issue, either in planning, or during design and development, you can use the
-[release post item generator](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-post-item-generator)
+[release post item generator](/handbook/marketing/blog/release-posts/#release-post-item-generator)
 to have the release post created and notify all the relevant people.
 
 If you do not want an issue to have a release post, make sure that the issue does not have a
@@ -327,4 +327,4 @@ The following people are permanent members of the group:
   - Daily standups [#s_plan_standup](https://gitlab.slack.com/archives/CF6QWHRUJ)
 - Issue boards
   - Optimize [build board](https://gitlab.com/groups/gitlab-org/-/boards/1401511) and [refinement board](https://gitlab.com/groups/gitlab-org/-/boards/1874426)ֿ
-- For more information about the optimize group's plans and vision visit the [Groups page](https://about.gitlab.com/handbook/product/categories/#optimize-group)
+- For more information about the optimize group's plans and vision visit the [Groups page](/handbook/product/categories/#optimize-group)

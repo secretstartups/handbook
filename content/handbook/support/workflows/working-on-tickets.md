@@ -206,7 +206,7 @@ needs, and that might save you and the customer time and effort as well.
 
 ## Cross Region handover of tickets and customer calls
 
-Cross Region Handover requests are async by nature, which can make it difficult to find a new assignee. To solve this, we have a form set up in the SGG Slack channels. The form also pings (@ mentions) the manager on-call in the destination region, as the DRI. Their responsibility is to [ensure the ticket gets assigned](https://handbook.gitlab.com/handbook/support/workflows/support_manager-on-call/#expectations-for-support-manager-on-call) the same day in the destination region, in case the group misses it. This ensures we can properly serve our customers.
+Cross Region Handover requests are async by nature, which can make it difficult to find a new assignee. To solve this, we have a form set up in the SGG Slack channels. The form also pings (@ mentions) the manager on-call in the destination region, as the DRI. Their responsibility is to [ensure the ticket gets assigned](/handbook/support/workflows/support_manager-on-call/#expectations-for-support-manager-on-call) the same day in the destination region, in case the group misses it. This ensures we can properly serve our customers.
 
 In-region handover requests: These can be done synchronous, so it is not necessary to ping the on-call manager pr default.
 

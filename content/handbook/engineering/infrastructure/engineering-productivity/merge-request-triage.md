@@ -10,7 +10,7 @@ description: "Guidelines for triaging new merge requests from the wider communit
 
 
 
-At GitLab, our mission is to change all creative work from read-only to read-write so that [everyone can contribute](/company/mission/#mission). GitLab highly values community contribution and we want to continue growing community code contribution. GitLab encourages the community to file issues and open merge requests for our projects under the [`gitlab-org` group](https://gitlab.com/gitlab-org), and for the [`gitlab-com/www-gitlab-com` project](https://gitlab.com/gitlab-com/www-gitlab-com). Their contributions are valuable, and we should handle them as effectively as possible. A central part of this is triage - the process of categorization according to type and product group.
+At GitLab, our mission is to change all creative work from read-only to read-write so that [everyone can contribute](/handbook/company/mission/#mission). GitLab highly values community contribution and we want to continue growing community code contribution. GitLab encourages the community to file issues and open merge requests for our projects under the [`gitlab-org` group](https://gitlab.com/gitlab-org), and for the [`gitlab-com/www-gitlab-com` project](https://gitlab.com/gitlab-com/www-gitlab-com). Their contributions are valuable, and we should handle them as effectively as possible. A central part of this is triage - the process of categorization according to type and product group.
 
 Any GitLab team-member can triage merge requests. Keeping the number of un-triaged merge requests low is essential for maintainability, and is our collective responsibility. Consider triaging a few merge requests around your other responsibilities, or scheduling some time for it on a regular basis.
 

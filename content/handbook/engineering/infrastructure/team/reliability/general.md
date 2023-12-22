@@ -23,17 +23,17 @@ It is not always easy or possible to definitively determine the primary services
 
 #### DBRE Support
 
-The [DBRE team](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/database-reliability.html) occasionally requires SRE support which the General Team, by default, will provide.
+The [DBRE team](/handbook/engineering/infrastructure/team/reliability/database-reliability.html) occasionally requires SRE support which the General Team, by default, will provide.
 
 ## How We Work - Prioritization
 
 ### Issues and Epics
 
-Issues are prioritized utilizing the [Issue Management and Prioritization Process for Reliability](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html).  The issues themselves are managed on The [General Team Issue Board](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3993753?label_name%5B%5D=team%3A%3AGeneral).   This board is reviewed a minimum of once per week by the Engineering Manager for the General Team or by another member of the team if the Engineering Manager is not available.
+Issues are prioritized utilizing the [Issue Management and Prioritization Process for Reliability](/handbook/engineering/infrastructure/team/reliability/issues.html).  The issues themselves are managed on The [General Team Issue Board](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3993753?label_name%5B%5D=team%3A%3AGeneral).   This board is reviewed a minimum of once per week by the Engineering Manager for the General Team or by another member of the team if the Engineering Manager is not available.
 
 ### OKRs
 
-OKRs are established following the same process for [issue prioritization](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html).  In addition to OKRs, a variable percentage of team capacity is reserved each quarter for unplanned work (as the General Team will, by default, own any work that does not currently have a pre-defined owner).
+OKRs are established following the same process for [issue prioritization](/handbook/engineering/infrastructure/team/reliability/issues.html).  In addition to OKRs, a variable percentage of team capacity is reserved each quarter for unplanned work (as the General Team will, by default, own any work that does not currently have a pre-defined owner).
 
 ### Corrective Actions and Security Issues
 
@@ -65,8 +65,8 @@ The General team coordinates the monthly process to identify incident and pager 
 - Identify actions to address issues identified in the Reliability Team Monthly Availability Reports.
 - Generate action items based on the review of key metrics for incidents and pages.
 - Generate and delegate action items to the relevant teams based on the review process.  This includes:
-   - [Corrective Actions](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#corrective-actions)
-   - [Infradev Issues](https://about.gitlab.com/handbook/engineering/workflow/#infradev)
+   - [Corrective Actions](/handbook/engineering/infrastructure/incident-management/#corrective-actions)
+   - [Infradev Issues](/handbook/engineering/workflow/#infradev)
    - [Reliability Improvement Issues](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new)
     
 These efforts are coordinated asynchronously via the [GitLab Incident and Pager Trends Monthly Review Agenda](https://docs.google.com/document/d/1SBoyuKK_g3RbYMcwJZs6dFqCGH9NCqu-M3QsHIwiKMw/edit#)
@@ -91,9 +91,9 @@ All our welcome to participate in the process of identifying trends.  EOCs, espe
 
 ## Team Status Updates
 
-The General Team provides weekly updates all Epics following the [Reliability Process for Epics](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#epics).
+The General Team provides weekly updates all Epics following the [Reliability Process for Epics](/handbook/engineering/infrastructure/team/reliability/issues.html#epics).
 
-OKRs are updated every Wednesday as required by the [Reliability Process for OKR Updates](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#okrs)
+OKRs are updated every Wednesday as required by the [Reliability Process for OKR Updates](/handbook/engineering/infrastructure/team/reliability/#okrs)
 
 [Current OKRs](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=closed_at_desc&state=opened&type%5B%5D=objective&label_name%5B%5D=Reliability%3A%3AGeneral&first_page_size=100)
 
@@ -102,9 +102,9 @@ OKRs are updated every Wednesday as required by the [Reliability Process for OKR
 - Success Criteria: 85% of OKRs achieved
 - Issue Metrics
   - Corrective Actions Over Time (specific to the General Team)
-    - Success Criteria: Must meet or exceed the Reliability [SLO](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
+    - Success Criteria: Must meet or exceed the Reliability [SLO](/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
   - Lead Time
-    - Success Criteria: Meets or exceeds current [Reliability SLO](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
+    - Success Criteria: Meets or exceeds current [Reliability SLO](/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
 - Customer Satisfaction
    - Success Criteria: TBD
 

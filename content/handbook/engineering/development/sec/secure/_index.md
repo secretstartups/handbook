@@ -8,7 +8,7 @@ The Secure engineering sub-department is responsible for the [Secure Stage](/han
 
 To provide content and tools to support the best possible assessment at the earliest possible moment.
 
-Following our [single application](https://about.gitlab.com/handbook/product/single-application/) paradigm,
+Following our [single application](/handbook/product/single-application/) paradigm,
 we integrate and build scanning tools to supply security and compliance assessment data to the main GitLab application
 where we develop our vulnerability management system and other features.
 While it might be technically feasible, we do not aim at building standalone products that provide this data independently from the GitLab application.
@@ -72,7 +72,7 @@ The following members of other functional teams are our stable counterparts:
 ## Secure Team
 
 The Secure Team (previously known as the _Security Products Team_) is responsible for the security checks features in the GitLab platform, and maps to the [secure](/handbook/product/categories/#secure) transversal stage.
-You can learn more about our approach on the [Secure Vision](/direction/secure/) page.
+You can learn more about our approach on the [Secure Vision](https://about.gitlab.com/direction/secure/) page.
 
 The features provided by the Secure Team are mostly present at the pipeline level, and mostly available as [Docker](https://www.docker.com/) images.
 This particularity shapes our processes and QA, which differs a bit from the other backend teams.
@@ -83,7 +83,7 @@ We still refer to "_Security Products_" as the tools developed by the Secure Tea
 
 We strive to maintain a consistent User Experience across our Security Products but we do not enforce consistency at the implementation level.
 Each group faces its own challenges and is in the best position to make the technical choices it deems are the most suitable to achieve its goals.
-While [UX inconsistencies are considered as bugs](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity),
+While [UX inconsistencies are considered as bugs](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity),
 we rely on individual teams to make smart decisions about when consistency is important and when divergence makes more sense
 — either because the divergence itself creates a better experience or because of velocity considerations.
 
@@ -186,7 +186,7 @@ _Examples of previous brainstorming topics:_
 
 #### Resources
 
-- [How to triage a QA test pipeline failure](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/#how-to-triage-a-qa-test-pipeline-failure)
+- [How to triage a QA test pipeline failure](/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/#how-to-triage-a-qa-test-pipeline-failure)
 - [Beginner's guide to writing end-to-end tests](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/beginners_guide.html)
 - [GitLab QA README](https://gitlab.com/gitlab-org/gitlab/-/tree/master/qa)
 - [GitLab QA Scenarios](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/docs/what_tests_can_be_run.md)
@@ -206,7 +206,7 @@ To update the documentation, the following process should be followed:
 
 #### Async Daily Standups
 
-Since we are a [remote](/company/culture/all-remote/) company, having daily standup meetings would not make any sense, since we're not all in the same timezone.
+Since we are a [remote](/handbook/company/culture/all-remote/) company, having daily standup meetings would not make any sense, since we're not all in the same timezone.
 That's why we have async daily standups, where everyone can give some insights into what they did yesterday, what they plan to do today, etc.
 For that, we rely on the [geekbot](https://geekbot.io/) slack plugin to automate the process.
 
@@ -240,7 +240,7 @@ As our teams focus on different areas, we have Geekbot configured to broadcast t
 #### Recorded meetings
 
 Our important meetings are recorded and published on YouTube, in the [GitLab Secure Stage playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7yUrZazEF3diazV29RRo1).
-They give a good overview of the decision process, which is often a discussion with all the stakeholders. As we are a [remote](/company/culture/all-remote/) company, these video meetings help to synchronize and take decisions faster than commenting on issues. We prefer asynchronous work, but for large features and when the timing is tight, we can detail a lot of specifications. This will make the asynchronous work easier, since we have evaluated all edge cases.
+They give a good overview of the decision process, which is often a discussion with all the stakeholders. As we are a [remote](/handbook/company/culture/all-remote/) company, these video meetings help to synchronize and take decisions faster than commenting on issues. We prefer asynchronous work, but for large features and when the timing is tight, we can detail a lot of specifications. This will make the asynchronous work easier, since we have evaluated all edge cases.
 
 ### Calendar
 
@@ -251,7 +251,7 @@ We welcome team members to join meetings that are on our shared calendar. The [S
 GitLab is an extremely active organization which generates a lot of news and activity each week. Everyone in Secure are encouraged to [keep themselves informed](/handbook/engineering/#keeping-yourself-informed) as to what is happening in the larger organzation. Everyone is also
 encouraged to contribute to these channels and communication paradigms when you have information to share.
 
-In addition to this, each group in Secure conducts a weekly synchronous meeting. These meetings are publicized on the Secure Calendar mentioned above. As always at GitLab, we strive to [make meeting attendance optional](/company/culture/all-remote/meetings/#1-make-meeting-attendance-optional).
+In addition to this, each group in Secure conducts a weekly synchronous meeting. These meetings are publicized on the Secure Calendar mentioned above. As always at GitLab, we strive to [make meeting attendance optional](/handbook/company/culture/all-remote/meetings/#1-make-meeting-attendance-optional).
 
 #### Keeping others informed
 
@@ -279,7 +279,7 @@ New hires should go through these steps and read the corresponding documentation
 Every new hire will have an assigned [onboarding issue](https://gitlab.com/gitlab-org/security-products/onboarding/blob/master/.gitlab/issue_templates/Technical_Onboarding.md) that will guide them through the whole process.
 
 #### Workflow and Refinement
-Secure largely follows our [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/)
+Secure largely follows our [Product Development Flow](/handbook/product-development-flow/)
 
 See [Issue Refinement](./workflow/) to learn how we evaluate complexity, level of effort, our implementation plan and assign issue weights.
 
@@ -354,7 +354,7 @@ We keep a [list of data sources in our internal wiki](https://gitlab.com/gitlab-
 
 ## Retrospectives
 
-The Secure sub-department conducts retrospectives at the group level that follow our [engineering workflow](https://about.gitlab.com/handbook/engineering/workflow/#retrospective).
+The Secure sub-department conducts retrospectives at the group level that follow our [engineering workflow](/handbook/engineering/workflow/#retrospective).
 Each group's DRI is responsible to prepare and schedule the retrospective sync sessions and the async retrospective issues can be found in [the corresponding project](https://gitlab.com/gl-retrospectives/secure-sub-dept).
 
 After all groups have completed their retrospective, we conduct a [Section Retrospective](/handbook/engineering/development/sec/#section-retrospectives).

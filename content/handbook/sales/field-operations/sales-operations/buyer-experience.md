@@ -70,7 +70,7 @@ The [Buyer Experience Group Internal Handbook](https://internal.gitlab.com/handb
 | [Cloud Licesing Overview (External)](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/) | Why Cloud Licensing, data collected, customer pre-requisites |
 | [Quote-to-Cash systems documentation (EntApps)](/handbook/business-technology/enterprise-applications/quote-to-cash/) | Overview of systems, EntApps Architecture, Process Flow Diagrams, Entity Relationship Diagrams |
 | [Fulfillment Direction](https://about.gitlab.com/direction/fulfillment/) | Fulfillment overview, 1-year plan, responsibilities, roadmap, OKRs, PIs |
-| [Fulfillment Development Sub-Department](https://about.gitlab.com/handbook/engineering/development/fulfillment/) | Team members, stable counterparts (PM, UX, Quality, Security, EntApps, Field Ops, Sales, Billing, Customer Success, Support Engineering), project management processes, and more |
+| [Fulfillment Development Sub-Department](/handbook/engineering/development/fulfillment/) | Team members, stable counterparts (PM, UX, Quality, Security, EntApps, Field Ops, Sales, Billing, Customer Success, Support Engineering), project management processes, and more |
 
 
 ## Customer Lifecycle

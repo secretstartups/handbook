@@ -80,15 +80,15 @@ The Director of Product and Director of Infrastructure for SaaS Platforms conduc
 
 ### Project Management
 
-We use epics and issues to manage our work. [Our project management process](https://about.gitlab.com/handbook/engineering/infrastructure/platforms/project-management/) is shared between all teams in SaaS Plaforms. 
+We use epics and issues to manage our work. [Our project management process](/handbook/engineering/infrastructure/platforms/project-management/) is shared between all teams in SaaS Plaforms. 
 
 ### Tools
 
-The Platforms section builds and maintains various tools to help deploy, operate and monitor our SaaS platforms. You can view a list of these tools in the [Platforms Tools Index](https://about.gitlab.com/handbook/engineering/infrastructure/platforms/tools/).
+The Platforms section builds and maintains various tools to help deploy, operate and monitor our SaaS platforms. You can view a list of these tools in the [Platforms Tools Index](/handbook/engineering/infrastructure/platforms/tools/).
 
 ### OKR
  
-[OKRs](https://handbook.gitlab.com/handbook/company/okrs/) (or other items outside of projects) that require progress tracking should be updated **every Wednesday**.
+[OKRs](/handbook/company/okrs/) (or other items outside of projects) that require progress tracking should be updated **every Wednesday**.
 
 
 When writing OKRs, the guidance is that: 
@@ -152,12 +152,12 @@ All team members are encouraged to schedule time for personal development. The f
 | Group | Topic |
 |-------|-------|
 | SaaS Platforms | [Product direction](https://about.gitlab.com/direction/saas-platforms/) |
-| [Delivery Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery) | [Mission](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/#mission), [Strategy](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/#strategy), [Team history](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/#history) |
-| [Scalability Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/) | [Mission](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#mission), [Strategy](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#strategy), [Team history](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#history) |
-| [Dedicated Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/) | [Mission](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#mission) |
+| [Delivery Group](/handbook/engineering/infrastructure/team/delivery) | [Mission](/handbook/engineering/infrastructure/team/delivery/#mission), [Strategy](/handbook/engineering/infrastructure/team/delivery/#strategy), [Team history](/handbook/engineering/infrastructure/team/delivery/#history) |
+| [Scalability Group](/handbook/engineering/infrastructure/team/scalability/) | [Mission](/handbook/engineering/infrastructure/team/scalability/#mission), [Strategy](/handbook/engineering/infrastructure/team/scalability/#strategy), [Team history](/handbook/engineering/infrastructure/team/scalability/#history) |
+| [Dedicated Group](/handbook/engineering/infrastructure/team/gitlab-dedicated/) | [Mission](/handbook/engineering/infrastructure/team/gitlab-dedicated/#mission) |
 
 ### Learn about tools and technologies used within Platforms
 
 1. [Jsonnet tutorial](https://jsonnet.org/learning/tutorial.html)
-2. [GitLab.com running on the Kubernetes platform](https://about.gitlab.com/handbook/engineering/infrastructure/production/kubernetes/gitlab-com/)
+2. [GitLab.com running on the Kubernetes platform](/handbook/engineering/infrastructure/production/kubernetes/gitlab-com/)
 

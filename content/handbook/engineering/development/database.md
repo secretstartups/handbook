@@ -21,8 +21,8 @@ Please refer to the [development documentation for database guidelines](https://
 
 We have two primary job roles that are focused on the database aspect:
 
-1. [Backend Engineer, Database](https://handbook.gitlab.com/job-families/engineering/backend-engineer/) - in Development
-2. [Database Reliability Engineer](https://handbook.gitlab.com/job-families/engineering/infrastructure/database-reliability-engineer/) - in Infrastructure
+1. [Backend Engineer, Database](/job-families/engineering/backend-engineer/) - in Development
+2. [Database Reliability Engineer](/job-families/engineering/infrastructure/database-reliability-engineer/) - in Infrastructure
 
 The Backend Engineer, Database role is a software engineering role concentrated on application-side improvements and foundational database work in the GitLab codebase.
 
@@ -36,7 +36,7 @@ The Database Maintainer role:
 
 * Is an additional role, typically for Backend Engineers.
 * Follows the same definition as any other [GitLab maintainer](/handbook/engineering/workflow/code-review/#maintainer).
-* It does not come with operational responsibility for GitLab.com and its database infrastructure. This responsibility belongs to the [Database Reliability Engineer](https://handbook.gitlab.com/job-families/engineering/infrastructure/database-reliability-engineer/).
+* It does not come with operational responsibility for GitLab.com and its database infrastructure. This responsibility belongs to the [Database Reliability Engineer](/job-families/engineering/infrastructure/database-reliability-engineer/).
 * It is not expected to participate in incident management issues.
 * Adheres to the [review turnaround time](https://docs.gitlab.com/ee/development/code_review.html#review-turnaround-time) of 2 working days.
 

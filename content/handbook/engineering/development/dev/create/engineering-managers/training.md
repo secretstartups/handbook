@@ -28,7 +28,7 @@ Engineering Managers can live our CREDIT values.
 ## Working Remotely 
 We are experts in working remotely, so our handbook is the best resource for this area.
 
-- [Remote Work Foundations](https://about.gitlab.com/company/culture/all-remote/remote-certification/#remote-work-foundation-certification-criteria) (Handbook)
+- [Remote Work Foundations](/handbook/company/culture/all-remote/remote-certification/#remote-work-foundation-certification-criteria) (Handbook)
 - [How to Manage a Remote Team](https://www.coursera.org/learn/remote-team-management) 
 
 ## Feedback 
@@ -52,7 +52,7 @@ how to handle feedback.
 
 ## Coaching
 
-- [GitLab Coaching Framework ](https://about.gitlab.com/handbook/leadership/coaching/) (Handbook)
+- [GitLab Coaching Framework ](/handbook/leadership/coaching/) (Handbook)
 - [Improve Your Coaching Skills as a Manager
 ](https://www.linkedin.com/learning/paths/improve-your-coaching-skills-as-a-manager?u=2255073)
 
@@ -65,7 +65,7 @@ The training below is a good resource to ensuring you engage in a productive Men
 
 ## Leadership
 
-- [Emotional Intelligence](https://about.gitlab.com/handbook/leadership/emotional-intelligence/)(Handbook)
+- [Emotional Intelligence](/handbook/leadership/emotional-intelligence/)(Handbook)
 - [Elevate Manager Training](/handbook/people-group/learning-and-development/elevate/)(Handbook)
 - [Become a Leader](https://www.linkedin.com/learning/paths/become-a-leader?u=2255073)
 - [Leading Others Effectively](https://www.linkedin.com/learning/paths/leading-others-effectively?u=2255073)
@@ -78,7 +78,7 @@ The training below is a good resource to ensuring you engage in a productive Men
 
 ## Learning GitLab
 
-- [GitLab 101](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-101/) (Handbook)
-- [GitLab 201](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-201/)(Handbook)
+- [GitLab 101](/handbook/people-group/learning-and-development/gitlab-101/) (Handbook)
+- [GitLab 201](/handbook/people-group/learning-and-development/gitlab-201/)(Handbook)
 - [Learning GitLab](https://www.linkedin.com/learning/learning-gitlab-2?u=2255073)
 - [Continuous Delivery with GitLab](https://www.linkedin.com/learning/continuous-delivery-with-gitlab?u=2255073)

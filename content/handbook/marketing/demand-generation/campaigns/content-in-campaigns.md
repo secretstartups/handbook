@@ -152,7 +152,7 @@ If you have any questions on this process, please contact `@aoetama` in the [#ma
 * [ ] [Landing Page Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-content-landing-page) - Content & Campaigns _(only if promoting via Facebook and Google AdWords)_
 * [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - Digital Marketing
 * [ ] [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-gtm-organic) - Social
-* [ ] [Blog](https://about.gitlab.com/handbook/marketing/blog/) - Editorial
+* [ ] [Blog](/handbook/marketing/blog/) - Editorial
 * [ ] [PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) - PR
 
 </details>
