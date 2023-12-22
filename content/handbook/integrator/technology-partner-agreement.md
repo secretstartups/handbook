@@ -3,19 +3,9 @@ layout: handbook-page-toc
 title: "Technology Partner Agreement"
 ---
 
-
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-{::options parse_block_html="true" /}
-
 **PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING ACCESSING OR CONSUMING THE SOFTWARE OR SERVICES FROM GITLAB. BY CLICKING YOUR ASSENT BELOW OR USING, ACCESSING OR CONSUMING THE GITLAB SOFTWARE OR SERVICES, YOU SIGNIFY YOUR ASSENT TO AND ACCEPTANCE OF THIS AGREEMENT AND ACKNOWLEDGE YOU HAVE READ AND UNDERSTAND THE TERMS. AN INDIVIDUAL ACTING ON BEHALF OF AN ENTITY REPRESENTS THAT HE OR SHE HAS THE AUTHORITY TO ENTER INTO THIS AGREEMENT ON BEHALF OF THAT ENTITY. IF YOU DO NOT ACCEPT THE TERMS OF THIS AGREEMENT, THEN YOU MUST NOT USE, ACCESS OR CONSUME THE GITLAB SOFTWARE OR SERVICES**
 
-# Technology Partner Agreement
+## Technology Partner Agreement
 
 This Technology Partner Agreement (the “**Agreement**”) is made as of the date in which the Partner accepts the terms of this Agreement by clicking “agree” or “accept” (the “**Effective Date**”) by and between GitLab and Partner (referred to herein as “**Party**”, or collectively as the “**Parties**”). In consideration of the mutual agreements contained herein and intending to be legally bound hereby, the Parties agree as follows:
 
@@ -153,13 +143,4 @@ Capitalized terms used in this Agreement shall be defined where first used or as
 
 12.8 If any provision of this Agreement is judicially declared to be invalid, unenforceable or void, such decision shall not have the effect of invalidating or voiding any portion of the remainder of this Agreement, it being the intent and agreement of the Parties that this Agreement shall be deemed amended by modifying such provision to the extent necessary to render it valid, legal and enforceable while preserving its intent or, if such modification is not possible, by substituting therefor another provision that is valid, legal and enforceable and that achieves the same objective.
 
-
 v2.1 (February 2022)
-
-
-
-
-
-
-
-
