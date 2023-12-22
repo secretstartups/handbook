@@ -93,7 +93,7 @@ These guidelines will help you incorporate the GitLab brand voice into your writ
 | ------ | ------ |
 |    ✅ Clear    |    ❌ Pushy    |
 |    ✅ Focused    |    ❌ Inflexible    |
-|    ✅ Reliable    |    ❌ Ridig    |
+|    ✅ Reliable    |    ❌ Rigid    |
 |    ✅ Transparent   |    ❌ Reckless    |
 
 **Tips for creating _intentional_ content:**
