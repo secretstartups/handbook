@@ -3,6 +3,7 @@ title: GitLab for Education Program Agreement
 ---
 
 ## Education Program Agreement
+
 Date of last revision: 2022/11/16
 
 This Education Program Agreement (“Agreement”) is between GitLab Inc. with offices at 268 Bush Street, Suite 350, San Francisco, CA 94104  (“GitLab”), and the Educational Institution (as defined below) electronically accepting this Agreement (“Member”). This Agreement is entered into on the earlier of, (a) Member clicking “Agree” or “Yes” to the terms of this Agreement to gain initial access to, or use of, the Software or (b) Member is given access to the Software pursuant to the requirements of the GitLab for Education Program (“Effective Date”).GitLab and Member each shall be referred to as a “Party” and collectively as the “Parties".
