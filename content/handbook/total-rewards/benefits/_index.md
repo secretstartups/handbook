@@ -23,46 +23,41 @@ For any questions relating to benefits, please reach out to [Total Rewards](/han
 
 These principles will guide our benefit strategies and decisions.
 
-| **Strategy**  | **Guiding Principles** | 
-|----------|:----------:|
-| Given Benefits vary by country, we do not offer the same benefits globally, instead we take a **country specific approach.** We will transparently outline why we do or do not offer benefits.         | **CREDIT**: Collaboration, Results, Efficiency, Diversity, Inclusion & Belonging, Transparency            | 
-| Country specific appraoch based on **statutory requirements, entity status, headcount, and market practice**    | Globally aligned benefits with **local relevance**         | 
-| To provide **equitable programs** for team members within the **same country location** when possible. | Ensure **statutory programs** are in place in each country        | 
-| To continuously improve the **team member experience**                    | Provide **core** medical, life, and pension benefits either through supplementary or statutory plans     | 
-|          | Create new programs/enhancement with *broad reach, high value, and sustainability** |
+### **Strategy** 
+- Given Benefits vary by country, we do not offer the same benefits globally, instead we take a **country specific approach.** We will transparently outline why we do or do not offer benefits.  
+- Country specific appraoch based on **statutory requirements, entity status, headcount, and market practice**   
+- To provide **equitable programs** for team members within the **same country location** when possible.
+- To continuously improve the **team member experience** 
 
-### Collaboration
+### **Guiding Principles**
+- Globally aligned benefits with **local relevance**
+- Ensure **statutory programs** are in place in each country
+- Provide **core** medical, life, and pension benefits either through supplementary or statutory plans
+- Create new programs/enhancement with *broad reach, high value, and sustainability**
+- **CREDIT**: Collaboration, Results, Efficiency, Diversity, Inclusion & Belonging, Transparency
+     - Collaboration
+          - Work with providers, vendors, and global networks to benchmark benefit data from other similar sized companies.
+          - Foster Cross Company understanding
+     - Results
+          - Evangelize benefit programs in each entity.
+          - Transform “statutory” to “competitive.” 
+          - Make benefits a very real aspect of compensation during the hiring process.
+          - Measure team member engagement and benefit enrollment.
+     - Efficiency
+          - Iterate on changes for specific countries based on common practices and statutory regulations.
+     - Diversity, Inclusion & Belonging
+          - Actively work to ensure that our benefit choices are inclusive of all team members.
+     - Iteration
+         - Regularly review current benefits (bi-annually) and propose changes.- - Everything is always in draft.
+     - Transparency
+         - Announce and document benefits to keep them updated.
+         - Share upcoming benefit plans internally before implementing them.
+         - Invite discussion and feedback.
 
-- Work with providers, vendors, and global networks to benchmark benefit data from other similar sized companies.
-- Foster cross-company understanding.
 
-### Results
 
-- Evangelize benefit programs in each entity.
-- Transform “statutory” to “competitive.”
-- Make benefits a very real aspect of compensation during the hiring process.
-- Measure team member engagement and benefit enrollment.
+We do not have specific budgets around benefit costs, but instead look to increasing the ability to recruit and retain team members in favorable locations. We do not take a global approach to offering the same benefits in all countries, but will transparently outline why we do or do not offer the above benefits on their respective [entity specific benefits]({{< ref "general-and-entity-benefits#entity-benefits" >}}) page.
 
-### Efficiency
-
-- Iterate on changes for specific countries based on common practices and statutory regulations.
-
-### Diversity, Inclusion & Belonging
-
-- Actively work to ensure that our benefit choices are inclusive of all team members.
-
-### Iteration
-
-- Regularly review current benefits (bi-annually) and propose changes.
-- Everything is always in draft.
-
-### Transparency
-
-- Announce and document benefits to keep them updated.
-- Share upcoming benefit plans internally before implementing them.
-- Invite discussion and feedback.
-
-We value opinions but ultimately Total Rewards/Leadership will make the decision based on expert advice and data.
 
 ## Annual Global Benefit  Review Process
 
@@ -87,16 +82,6 @@ The decision to participate in a pooling plan will be based on financial savings
 For major plan enhancements, the Total Rewards team will create a Team Member issue with plan details to get plan specific feedback. While Team Member feedback will be considered as a strong data point, a decision will be made by the Total Rewards team considering all factors (benchmarking, budget, administration, etc).  The Total Rewards team may not create an issue if the change or enhancement is a ‘smaller’ change (i.e. change in deductible amounts, increase in contributions, etc).
 #### 7. Announce Enhancements 
 - Total Rewards will announce the Country Enhancements directly to team members via email and slack, and will update the Handbook Benefit page with these details.
-
-### Guiding Principles in Practice
-
-When establishing a new co-employer or entity we will outline the following benefits as to why it is or is not offered.
-
-1. Medical
-1. Pension
-1. Life Insurance
-
-We do not have specific budgets around benefit costs, but instead look to increasing the ability to recruit and retain team members in favorable locations. We do not take a global approach to offering the same benefits in all countries, but will transparently outline why we do or do not offer the above benefits on their respective [entity specific benefits]({{< ref "general-and-entity-benefits#entity-benefits" >}}) page.
 
 ## Knowledge Assessment
 
