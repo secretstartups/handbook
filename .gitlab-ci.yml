@@ -82,7 +82,6 @@ variables:
     - apk update
     - apk upgrade
     - apk add go npm yq curl coreutils
-    - ./scripts/update-counts.sh
     - ./scripts/sync-data.sh
     - npm ci
     - hugo --enableGitInfo
