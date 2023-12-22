@@ -86,9 +86,9 @@ To review and add notes to member profile, moderators can use the following shor
 
 If the message is a serious violation (e.g. hate speech, repeated spam) or a community member continues to break the rules after receiving an official warning, moderators should temporarily prevent them from interacting with the server via a timeout. The duration of the timeout can be adjusted based on the severity of the violation. Moderators are also encouraged to seek support from the rest of the moderator team if they need a second opinion. See [how to set a timeout for a user](https://support.discord.com/hc/en-us/articles/4413305239191-Time-Out-FAQ).
 
-#### Tier 3 - Permanent Ban
+#### Tier 3 - Ban
 
-If the mesage is a severe violation (e.g harrassment, threats, inappropriate content) or if a member has repeatedly violated the rules and well-being of the community despite an official warning and/or temporary timeout, moderators should consider a permanent ban and [raise a Code of Conduct issue](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/) to discuss the violation. It is not necessary to raise an issue for one-off violations, such as a spam. Use issues as a basis of documentation and discussion for more serious violations that may require follow-up or proof of decision making in case of escalation or a ban appeal from the user. 
+If the message is a severe violation (e.g harassment, threats, inappropriate content) or if a member has repeatedly violated the rules and well-being of the community despite an official warning and/or temporary timeout, moderators should consider a ban and [raise a Code of Conduct issue](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/) to discuss the violation. It is not necessary to raise an issue for one-off violations, such as a spam. Use issues as a basis of documentation and discussion for more serious violations that may require follow-up or proof of decision making in case of escalation or a ban appeal from the user. 
 
 ##### Ban Appeals process
 
