@@ -12,7 +12,7 @@
 {{- range $key, $data := $stages }}
 {{- if eq $section_key $data.section }}
 
-#### {{ $key }} stage
+#### {{ $data.display_name }} stage
 
 {{ partial "categories/section-heading.html" $data }}
 
