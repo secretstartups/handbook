@@ -1,6 +1,5 @@
 ---
 title: GitLab for Education Program Agreement
-description: Last revised 2022-11-16
 ---
 
 ## Education Program Agreement
