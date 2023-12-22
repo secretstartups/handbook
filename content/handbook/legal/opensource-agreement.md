@@ -1,11 +1,9 @@
 ---
-title: "GitLab for Open Source Program Agreement"
-description: "This agreement ..."
+title: GitLab for Open Source Program Agreement
+description: Effective 2022-08-19
 ---
 
 ## **Open Source Program Agreement**
-
-Date of last revision: 2022/08/19
 
 This Open Source Program Agreement (“Agreement”) is between GitLab Inc. with offices at 268 Bush Street, Suite 350, San Francisco, CA 94104 (“GitLab”), and the Open Source Project on behalf of which this Agreement is executed. This Agreement is entered into on the earlier of, (a) Member clicking “Agree” or “Yes” to the terms of this Agreement to gain initial access to, or use of, the Software or (b) Member being given access to the Software pursuant to the requirements of the GitLab for Open Source Program (“Effective Date”). GitLab and the Open Source Project each shall be referred to as a “Party” and collectively as the “Parties”.
 
