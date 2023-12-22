@@ -5,6 +5,7 @@
   ],
   "fix": false,
   "ignores": [
+    "content/handbook/dmca/**/*.md",
     "content/handbook/engineering/**/*.md",
     "content/handbook/use-cases/**/*.md",
     "content/handbook/acquisitions/**/*.md",
