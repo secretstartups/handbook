@@ -147,8 +147,8 @@ as regular customer emergencies.
 If the customer is reporting an availability or performance issue:
 
 1. Check the [GitLab Dedicated incident management tracker](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/incident-management/-/issues/?type%5B%5D=incident)
-   for relevant open incidents. 
-1. If there is an open incident: 
+   for relevant open incidents.
+1. If there is an open incident:
    - Inform the customer that the GitLab Dedicated infrastructure team is actively investigating.
    - Get in touch with the Dedicated SRE on-call and determine if the customer needs to be involved
      with troubleshooting.
