@@ -1,0 +1,37 @@
+Once you have found the file with your name or slug in its title, in the directory `data/team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/` (make sure you are searching within the file you want to edit by clicking on the file first), update your details:
+  * Update your `name` if needed to your `FirstName LastName`or `PreferredName LastName`
+  * `locality` should be left empty
+  * `country` should be set to `Remote`
+  * Verify your `role`
+  * If your position title is incorrect or not filled in, navigate to `job_families.yml` and use `command-F` (macOS) or `ctrl-F` (nix) to search for your job title. You can search for .yml files in the Web IDE using `command-P` (macOS) or `ctrl-P` (nix)
+  * Check that your role links to your job description. If not, add a link. For example, change `<a href="">Solutions Architect</a>` to `<a href="/job-families/sales/solutions-architect/">Solutions Architect</a>`.
+  * Verify `reports_to` lists your manager using the `slug` value from their team page entry
+  * If you are a manager, verify the `reports_to` of your direct reports are referring to your `slug`
+  * If you're currently on a borrow request, add `borrow` and set the `to` and `end_date` keys, e.g.
+
+    ```yaml
+    borrow:
+      to: ramya-authappan
+      end_date: 2023-09-15
+    ```
+
+  * Set your current work priorities in the `work_priorities` field, as an array, e.g.
+
+    ```yaml
+    work_priorities:
+      - Product Analytics
+      - ModelOps
+    ```
+
+  * Add the filename of your profile picture, making sure to match letter case. Delete `../gitlab-logo-extra-whitespace.png`, if present. The completed line should look like this: `picture: yournameinlowercase.jpg`.
+  * Add your pronouns
+  * Consider adding `pronunciation` for your full name to help others to pronounce your name correctly (e.g. sid see-brandy for Sid Sijbrandij)
+  * Add your Twitter and GitLab handles without the leading `@`
+  * Ensure your list of `departments` is accurate. Use other team members' as a reference.
+  * Add your [`specialty`](https://about.gitlab.com/company/team/structure/#specialist)
+  * Add your [`expertise`](https://about.gitlab.com/company/team/structure/#expert)
+  * Add your own `story`. Use other team members' stories as a reference.
+  * If remote work has [changed your life](https://about.gitlab.com/company/culture/all-remote/people/) in a meaningful way, consider adding your own `remote_story`, using other team members' remote stories as a [reference](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/uploads/8161ceac4523a9f36244f9533960ccbd/remote-story-example.png)
+  * Update any data that was filled in but is incorrect
+
+  **Important:** Do not use the `tab` character, and respect the spaces between lines to avoid breaking the page format. Referenced file names/extensions are case sensitive, and a file that is not found will cause a pipeline failure. The file should end with an empty newline or it will cause a pipeline failure.
