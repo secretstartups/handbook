@@ -1,14 +1,6 @@
 ---
-layout: handbook-page-toc
 title: Organizational Change Management
 ---
-
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Introduction
 
@@ -22,9 +14,10 @@ As we evolve, there is a need to implement organizational change management (OCM
 
 ## When to use OCM at GitLab
 
-At GitLab, there are many use cases for applying an OCM process. Consider it a methodology to apply when rolling out major initiatives that impact our people and ways of working. The methodology does not have to apply to every new initiative but it should be considered.  
+At GitLab, there are many use cases for applying an OCM process. Consider it a methodology to apply when rolling out major initiatives that impact our people and ways of working. The methodology does not have to apply to every new initiative but it should be considered.
 
 Examples of when to use OCM include:
+
 - Adoption of a new technology that all team members will use (i.e. Integrating the Learning Management System, etc.)
 - Implementing a new succession planning process (i.e. Performance/Potential Matrix)
 - Rolling out a 360 review process for all team members to use
@@ -59,12 +52,13 @@ Organizational change is necessary for GitLab to succeed and grow. OCM drives th
 We are going to define an OCM process that aligns with our values, organizational structure, and ways of working. Consider applying aspects of the methodology to change initiatives. The methodology does not have to be applied formally but components of it can be considered and reviewed before rolling out change initiatives.
 
 Key components of GitLab’s OCM methodology:
+
 1. Develop an agile change plan
-2. Assess the impact
-3. Analyze team member engagement
-4. Communicate the change
-5. Train for the change
-6. Measure and adopt the change
+1. Assess the impact
+1. Analyze team member engagement
+1. Communicate the change
+1. Train for the change
+1. Measure and adopt the change
 
 ### Step 1 - Develop an agile change plan
 
@@ -73,8 +67,8 @@ When rolling out an organization-wide change that will impact all team members, 
 When developing the agile change plan, there are a few important components to consider:
 1. **Leadership Engagement:** Visible leadership is the key to success on any large scale transformations at GitLab. Team members will be looking to leaders for cues on how to interpret the change and what actions to take. Depending on the scale of the change, its success will depend on leaders effectively sponsoring and ensuring readiness within their functional groups.
     - Leadership will drive team member engagement and adoption of the change
-2. **Leadership awareness and engagement plan:** As you start to develop an understanding of how to drive team member engagement with leaders, consider plotting out awareness activities you will do with leaders to get them bought in on the change. Communicate what you will do and why you need their support to drive adoption.
-3. **Include all other components** of the GitLab OCM methodology to your change plan:
+1. **Leadership awareness and engagement plan:** As you start to develop an understanding of how to drive team member engagement with leaders, consider plotting out awareness activities you will do with leaders to get them bought in on the change. Communicate what you will do and why you need their support to drive adoption.
+1. **Include all other components** of the GitLab OCM methodology to your change plan:
    - Impact assessment
    - Team member engagement analysis
    - Communication plan
@@ -112,6 +106,7 @@ Focus on delivering the right amount of detail to the right audience, through th
 The goal of this step is to build the credibility of the project and clearly articulate what it will deliver as well as the ideal end-state. It can also help generate a positive perception of the transformation.
 
 **Key Activities:**
+
 - Communication plan: identify what, when, and to whom
 - Key messages outlined in an Issue or Google Doc
 - Communication materials: Slack messages that direct team members to Issues for feedback and a historical record, handbook page links, templates, videos, AMA meeting, manager talking points, etc.
@@ -136,7 +131,7 @@ To drive the adoption and usage of new changes, it is essential to provide prope
 
 ### Step 7 - Close the feedback loop
 
-Part of successful OCM is creating a positive experience and sentiment for team members around large organizational changes – meaning, team members feel that their feedback was heard, and they understand the positive impact of the change. This means that communication should not stop abruptly once the change is made. Instead, it is crucial for you to "close the feedback loop" by clearly communicating the metrics from the steps above as well as providing insight into how the organization has benefited (and is expected to continue benefiting) from the change that has been made.  
+Part of successful OCM is creating a positive experience and sentiment for team members around large organizational changes – meaning, team members feel that their feedback was heard, and they understand the positive impact of the change. This means that communication should not stop abruptly once the change is made. Instead, it is crucial for you to "close the feedback loop" by clearly communicating the metrics from the steps above as well as providing insight into how the organization has benefited (and is expected to continue benefiting) from the change that has been made.
 
 ## A Manager's role in OCM
 
@@ -161,10 +156,3 @@ Please contact the [Learning & Development team](https://about.gitlab.com/handbo
 - [Five Levers of Change Management](https://www.prosci.com/resources/articles/five-levers-of-organizational-change-management) (article)
 - [Keys to Prepare for Change](https://blog.prosci.com/keys-to-prepare-for-change)
 - [Understanding Resistance to Change](https://blog.prosci.com/understanding-resistance-to-change)
-
-
-
-
-
-
-
