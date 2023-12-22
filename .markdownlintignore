@@ -1,3 +1,4 @@
+content/handbook/markdown-guide/**/*.md
 content/handbook/product/**/*.md
 content/handbook/product-development-budgeting/**/*.md
 content/handbook/product-development-flow/**/*.md

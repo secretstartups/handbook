@@ -1,7 +1,8 @@
 ---
-layout: handbook-page-toc
 title: "Handbook Markdown Guide"
 description: "Read through our Markdown kramdown Style Guide!"
+comment: Moved to the docs in the theme
+aliases: /docs/markdown-guide
 ---
 
 ## On this page
