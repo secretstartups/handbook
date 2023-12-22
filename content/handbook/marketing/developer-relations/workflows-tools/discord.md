@@ -49,7 +49,7 @@ We use Discord bots and integrations to manage our community.
 
 ## Moderation
 
-We strive to maintain a positive environment on the Discord server. These moderation guidelines are designed to ensure an inclusive and respectful environment for all community members. At this time, GitLab team members and GitLab core team members serve as moderators. 
+We strive to maintain a positive environment on the Discord server. These moderation guidelines are designed to ensure an inclusive and respectful environment for all community members. At this time, GitLab team members and [GitLab core team](https://about.gitlab.com/community/core-team/) members serve as moderators. 
 
 ### Moderation Guidelines
 
