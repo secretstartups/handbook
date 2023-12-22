@@ -5,6 +5,7 @@ title: "Technology Partner Agreement"
 
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -18,7 +19,7 @@ title: "Technology Partner Agreement"
 
 This Technology Partner Agreement (the “**Agreement**”) is made as of the date in which the Partner accepts the terms of this Agreement by clicking “agree” or “accept” (the “**Effective Date**”) by and between GitLab and Partner (referred to herein as “**Party**”, or collectively as the “**Parties**”). In consideration of the mutual agreements contained herein and intending to be legally bound hereby, the Parties agree as follows:
 
-### 1. **DEFINITIONS** 
+### 1. **DEFINITIONS**
 
 Capitalized terms used in this Agreement shall be defined where first used or as follows
 
