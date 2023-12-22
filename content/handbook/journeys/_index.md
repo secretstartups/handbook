@@ -4,6 +4,7 @@ title: "Journeys"
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -76,16 +77,19 @@ Our customers get the most value out of the GitLab product when they use multipl
 Refer to our handbook page on [buyer's journey definitions](/handbook/marketing/brand-and-product-marketing/content/#content-stage--buyers-journey-definitions) for a more detailed explanation.
 
 #### Awareness (Beginning stage)
+
 Users and buyers realize that they have a problem or challenge which could be solved through some sort of outside software or service.  At this stage, they are trying to define the scope and the relative impact and size of the problem.
 
 The focus is on **educating potential buyers about the problems they are facing, the business impact of their problems, and the reality that others are successfully solving the same problem**.
 
 #### Consideration (Middle stage)
+
 Users and buyers understand the problem they are trying to solve and the business impact/value of addressing the problem and are now actively seeking and evaluating potential remedies to their business issue. In this stage they are focused on identifying options that meet their specific requirements and needs.
 
 The focus is on **positioning GitLab as a viable and compelling solution to a potential buyer's specific problem**.  
 
 #### Decision/Purchase (Later stage)
+
 Users and buyers have concluded that they need to invest in solving a specific business problem and are now comparing and evaluating specific options.  In this stage, they are evaluating and comparing different options in order to identify the ideal solution for their specific situation.
 
 The focus is on key information that a buyer needs to **justify GitLab as their chosen solution**.
