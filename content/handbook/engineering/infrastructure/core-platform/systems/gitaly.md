@@ -107,7 +107,7 @@ and/or PM polling [these dashboards](#useful-links).
 [Responsibilities](/job-families/engineering/backend-engineer/#cluster) |
 [In the product hierarchy](/handbook/product/categories/#gitalycluster-group)
 
-{{< team-by-department "Gitaly Cluster Team" >}}
+{{< team-by-departments "Gitaly Cluster Team" >}}
 
 ## Git team
 
@@ -116,7 +116,7 @@ and/or PM polling [these dashboards](#useful-links).
 [Responsibilities](/job-families/engineering/backend-engineer/#git) |
 [In the product hierarchy](/handbook/product/categories/#gitalygit-group)
 
-{{< team-by-department "Gitaly Git Team" >}}
+{{< team-by-departments "Gitaly Git Team" >}}
 
 ## Working with product
 

@@ -19,7 +19,7 @@
 
 #### {{ $stage_name }}: {{ .name }} Group
 
-{{ partial "group-table" . }}
+{{ partial "categories/section-heading" . }}
 
 {{- if $v.categories }}
 
@@ -72,19 +72,3 @@
 {{- end -}}
 {{- end -}}
 {{- end -}}
-
-
-<style>
-    img.avatar {
-    width: 30px;
-    height: 30px;
-    max-width: 30px;
-    max-height: 30px;
-    overflow: hidden;
-    margin-right: 10px;
-    border-radius: 50%;
-    border: 1px solid lightgray;
-    aspect-ratio: auto 90 / 90;
-    overflow-clip-margin: content-box;
-    }
-</style>

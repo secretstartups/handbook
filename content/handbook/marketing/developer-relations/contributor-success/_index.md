@@ -110,7 +110,7 @@ to the program.
 
 ## Team Members
 
-{{< team-by-department "Contributor Success" >}}
+{{< team-by-departments "Contributor Success" >}}
 
 ### File an issue
 

@@ -1,170 +1,134 @@
-<style>
-    img.member-img {
-    width: 120px;
-    height: 120px;
-    max-width: 120px;
-    max-height: 120px;
-    overflow: hidden;
-    margin-right: 10px;
-    border-radius: 50%;
-    border: 5px solid lightgray;
-    aspect-ratio: auto 90 / 90;
-    overflow-clip-margin: content-box;
-    filter: grayscale();
-    }
-    
-    img.member-img-color {
-        width: 120px;
-        height: 120px;
-        max-width: 120px;
-        max-height: 120px;
-        overflow: hidden;
-        margin-right: 10px;
-        border-radius: 50%;
-        border: 5px solid lightgray;
-        aspect-ratio: auto 90 / 90;
-        overflow-clip-margin: content-box;
-    }
-</style>
+{{- $team := partials.IncludeCached "data/team" . -}}
+{{- $allDepartments := slice }}
+{{- range $team }}
+  {{ $allDepartments = uniq (append .departments $allDepartments) }}
+{{- end }}
 
-{{ $dataURL := printf "https://about.gitlab.com/company/team/team.yml" }}
-{{ with resources.GetRemote $dataURL (dict "mediaType" "application/yaml")}}
-  {{ with .Err}}
-    <h2>Unable to fetch Team Member Data File</h2>
-  {{ else }}
-      {{ $data := .Content | transform.Unmarshal }}
-      {{ $team := sort $data "name" }}
-      {{ $.Scratch.Set "counter" 0}}
-      
-      <p class="h4">More than 3,000 people have <a href="http://contributors.gitlab.com/">contributed to GitLab</a>. The GitLab Inc. team consists of the following {{len $team | lang.FormatNumber 0}} team members and their <a href="https://about.gitlab.com/company/team-pets">363+ pets</a>. We believe we're the world's largest <a href="{{ ref $.Page "all-remote" }}">all-remote organization</a> and we currently have team members in more than 65 countries and regions. This page lists who people report to, and on a separate page we detail the <a href="{{ ref $.Page "structure" }}">organizational structure</a>. You can get a sense of the team culture and our <a href="{{ ref $.Page "inclusion" }}">inclusion</a> by visiting our <a href="{{ ref $.Page "culture" }}">culture page</a> and our <a href="{{ ref $.Page "identity-data" }}">Identity Data page</a>.
-      
-      <div class="container">
-      {{ range $team }}
-      {{ $picture := "https://about.gitlab.com/images/gitlab-logo-extra-whitespace.png" }}
-      {{ if not (eq .picture "../gitlab-logo-extra-whitespace.png") }}
-        {{ $suf := printf ".%s" (index (last 1 (strings.Split .picture ".")) 0) }}
-        {{ $picture = printf "https://about.gitlab.com/images/team/%s-crop.jpg" (strings.TrimSuffix $suf .picture) }}
-      {{ end }}
-      {{ $counter := $.Scratch.Get "counter" }}
-      {{ if eq $counter 0 }}
-      <div class="row m-4">
-      {{ end }}
-      <div class="col text-center" id="{{.slug | anchorize }}">
-          <a href="#" data-bs-toggle="modal" data-bs-target="#{{.slug | anchorize}}-modal">
-              <img src="{{$picture}}" alt="{{.name}}" class="member-img" width="120" height="120" loading="lazy">
-          </a>
-          <p class="h4">{{.name}}</p>
-          <p>{{ .role | safeHTML }}</p>
-          <p>
-              <a href="https://gitlab.com/{{.gitlab}}"><i class="m-1 fa-brands fa-gitlab fa-2xl"></i></a>
-              {{ with .linkedin }}
-              <a href="https://www.linkedin.com/in/{{.}}"><i class="m-1 fa-brands fa-linkedin fa-2xl"></i></a>
-              {{ end }}
-              {{ with .twitter }}
-              <a href="https://twitter.com/{{.}}"><i class="m-1 fa-brands fa-twitter fa-2xl"></i></a>
-              {{ end }}
-          </p>
-      </div>
-      <div class="modal modal-lg" id="{{.slug | anchorize}}-modal" tabindex="-1">
-          <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h5 class="modal-title">{{.name}}</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-              </div>
-              <div class="modal-body">
-                  <div class="container-fluid">
-                      <div class="row align-items-center">
-                      <div class="col-md-6 text-center">
-                        <img src="{{$picture}}" alt="{{.name}}" class="m-4 member-img-color" width="120" height="120" loading="lazy">
-                        <p>
-                              <a href="https://gitlab.com/{{.gitlab}}"><i class="m-1 fa-brands fa-gitlab fa-2xl"></i></a>
-                              {{ with .linkedin }}
-                              <a href="https://www.linkedin.com/in/{{.}}"><i class="m-1 fa-brands fa-linkedin fa-2xl"></i></a>
-                              {{ end }}
-                              {{ with .twitter }}
-                              <a href="https://twitter.com/{{.}}"><i class="m-1 fa-brands fa-twitter fa-2xl"></i></a>
-                              {{ end }}
-                          </p>
-                      </div>
-                      <div class="col-md-6">
-                        <p><strong>departments:</strong>
-                        <ul>{{ range .departments }}<li>{{.}}</li>{{end}}</ul></p>
-                        <p><strong>Job Title:</strong> {{ .job_title }}</p>
-                        {{ with .speciality }}
-                        <p><strong>Speciality:</strong> {{.}}</p>
-                        {{ end }}
-                        {{ with .pronouns }}
-                        <p><strong>Pronouns:</strong> {{.}}</p>
-                        {{end}}
-                        {{ with .pronunciation }}
-                        <p><strong>Pronunciation:</strong> {{.}}</p>
-                        {{end}}
-                        <p><strong>GitLab Handle:</strong> {{.gitlab}}</p>
-                      </div>
-                      </div>
-                      
-                  <div class="row">
-                      <div class="col">
-                  {{ with .projects }}
-                  <hr>
-                  <p class="h4">Projects:</p>
-                  <ul>
-                      {{ range $k, $v := . }}
-                      <li>{{$k}}
-                          <ul>
-                              {{ if reflect.IsSlice $v }}
-                              {{ range $v}}
-                              <li>{{.}}</li>
-                              {{end}}
-                              {{else}}
-                              <li>{{$v}}</li>
-                              {{end}}
-                          </ul>
-                      </li>
-                      {{end}}
-                  </ul>
-                  {{ end }}
-                  {{ with .story }}
-                  <hr>
-                  <p class="h4">Story</p>
-                  <p>{{ . }}</p>
-                  {{ end }}
-                      </div></div>
+<div class="my-6 g-2 row">
+  <div class="col-auto">
+  <label for="department" class="h4 form-label">Filter by Department:</label>
+  </div>
+  <div class="col-auto">
+  <select class="form-select" id="department">
+      <option value="all" selected>All Departments</option>
+      {{- range (sort $allDepartments) }}
+        <option value="{{ . }}">{{ . }}</option>
+      {{- end }}
+    </select>
+  </div>
+</div>
+
+<p>&nbsp;</p>
+
+<div class="container">
+  <div class="row row-cols-4">
+  {{ range $team }}
+  {{ $picture := "https://about.gitlab.com/images/gitlab-logo-extra-whitespace.png" }}
+  {{ if not (eq .picture "../gitlab-logo-extra-whitespace.png") }}
+    {{ $suf := printf ".%s" (index (last 1 (strings.Split .picture ".")) 0) }}
+    {{ $picture = printf "https://about.gitlab.com/images/team/%s-crop.jpg" (strings.TrimSuffix $suf .picture) }}
+  {{ end }}
+
+  <div class="col col-6 col-md-4 col-lg-3 text-center member" id="{{.gitlab | anchorize }}" data-departments="{{ .departments | jsonify }}">
+      <a href="#" data-bs-toggle="modal" data-bs-target="#{{.slug | anchorize}}-modal" >
+          <img src="{{$picture}}" alt="{{.name}}" class="member-img" width="120" height="120" loading="lazy">
+      </a>
+      <p class="h4">{{.name}}</p>
+      <p>{{ .role | safeHTML }}</p>
+      <p>
+          <a href="https://gitlab.com/{{.gitlab}}"><i class="m-1 fa-brands fa-gitlab fa-2xl"></i></a>
+          {{ with .linkedin }}
+          <a href="https://www.linkedin.com/in/{{.}}"><i class="m-1 fa-brands fa-linkedin fa-2xl"></i></a>
+          {{ end }}
+          {{ with .twitter }}
+          <a href="https://twitter.com/{{.}}"><i class="m-1 fa-brands fa-twitter fa-2xl"></i></a>
+          {{ end }}
+      </p>
+  </div>
+  <div class="modal modal-lg" id="{{.slug | anchorize}}-modal" tabindex="-1">
+      <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">{{.name}}</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+              <div class="container-fluid">
+                  <div class="row align-items-center">
+                  <div class="col-md-6 text-center">
+                    <img src="{{$picture}}" alt="{{.name}}" class="m-4 member-img-color" width="120" height="120" loading="lazy">
+                    <p>
+                          <a href="https://gitlab.com/{{.gitlab}}"><i class="m-1 fa-brands fa-gitlab fa-2xl"></i></a>
+                          {{ with .linkedin }}
+                          <a href="https://www.linkedin.com/in/{{.}}"><i class="m-1 fa-brands fa-linkedin fa-2xl"></i></a>
+                          {{ end }}
+                          {{ with .twitter }}
+                          <a href="https://twitter.com/{{.}}"><i class="m-1 fa-brands fa-twitter fa-2xl"></i></a>
+                          {{ end }}
+                      </p>
                   </div>
+                  <div class="col-md-6">
+                    {{- with .job_title }}
+                    <p><strong>Job Title:</strong> {{ . }}</p>
+                    {{- end }}
+                    <p><strong>departments:</strong>
+                    <ul>{{ range .departments }}<li><a href="/handbook/company/team/?department={{.}}">{{.}}</a></li>{{end}}</ul></p>
+                    {{ with .speciality }}
+                    <p><strong>Speciality:</strong> {{.}}</p>
+                    {{ end }}
+                    {{ with .pronouns }}
+                    <p><strong>Pronouns:</strong> {{.}}</p>
+                    {{end}}
+                    {{ with .pronunciation }}
+                    <p><strong>Pronunciation:</strong> {{.}}</p>
+                    {{end}}
+                    {{- with .gitlab }}
+                    <p><strong>GitLab Handle:</strong> <a href="https://gitlab.com/{{.}}" target="_blank">{{ . }}</a></p>
+                    {{- end }}
+                  </div>
+                  </div>
+
+              <div class="row">
+                  <div class="col">
+              {{ with .projects }}
+              <hr>
+              <p class="h4">Projects:</p>
+              <ul>
+                  {{ range $k, $v := . }}
+                  <li>{{$k}}
+                      <ul>
+                          {{ if reflect.IsSlice $v }}
+                          {{ range $v}}
+                          <li>{{.}}</li>
+                          {{end}}
+                          {{else}}
+                          <li>{{$v}}</li>
+                          {{end}}
+                      </ul>
+                  </li>
+                  {{end}}
+              </ul>
+              {{ end }}
+              {{ with .story }}
+              <hr>
+              <p class="h4">Story</p>
+              <p>{{ . | markdownify }}</p>
+              {{ end }}
+                  </div></div>
               </div>
-              <div class="modal-footer">
-                <a href="https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/data/team_members/person/{{ substr .slug 0 1}}/{{.slug}}.yml" class="btn btn-light">
-                    Edit This Page
-                </a>
-                <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
-              </div>
-            </div>
+          </div>
+          <div class="modal-footer">
+            <a href="https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/data/team_members/person/{{ substr .slug 0 1}}/{{.slug}}.yml" class="btn btn-light">
+                Edit This Page
+            </a>
+            <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
           </div>
         </div>
-
-      {{ if eq $counter 3 }}
-      </div> <!-- row -->
-      {{ $.Scratch.Add "counter" -3}}
-      {{else}}
-      {{ $.Scratch.Add "counter" 1}}
-      {{ end }}
-      {{ end }} <!-- End of Loop -->
-      
-      {{ $counter := $.Scratch.Get "counter" }}
-      {{ if not (eq $counter 3) }}
       </div>
-      {{ end }}
-      </div>
-      {{ range $team }}
-        {{ $picture := "https://about.gitlab.com/images/gitlab-logo-extra-whitespace.png" }}
-        {{ if not (eq .picture "../gitlab-logo-extra-whitespace.png") }}
-          {{ $suf := printf ".%s" (index (last 1 (strings.Split .picture ".")) 0) }}
-          {{ $picture = printf "https://about.gitlab.com/images/team/%s-crop.jpg" (strings.TrimSuffix $suf .picture) }}
-        {{ end }}
-      {{ end }}
-  {{ end }}
-{{ end }}
+    </div>
+    {{- end }}
+  </div>
+</div>
 
 <script>
     $(document).ready(function(event) {
@@ -189,5 +153,31 @@
           })
           }
         }
+        $('#department').change(function(){
+          const url = new URL(location);
+          if($('#department').val() === "all") {
+            url.searchParams.delete("department");
+            history.pushState({}, "", url);
+            $('.member').show()
+          } else {
+            url.searchParams.set("department", $(this).val());
+            history.pushState({}, "", url);
+            $('.member').each(function() {
+              departments = $(this).data("departments")
+              if(departments.includes($('#department').val())) {
+                $(this).show();
+              }
+              else {
+                $(this).hide();
+              }
+            })
+          }
+        })
+        let params = (new URL(document.location)).searchParams;
+        let department = params.get("department");
+        if(department) {
+          $('#department').val(department).change();
+        };
     });
 </script>
+
