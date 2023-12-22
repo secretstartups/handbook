@@ -53,7 +53,7 @@ We strive to maintain a positive environment on the Discord server. These modera
 
 ### Moderation Guidelines
 
-Every moderation situation is unique and will be dealt with on a case-by-case basis. This tier system seeks to provide a general framework for handling situations and for supporting our moderators. 
+Every moderation situation is unique and will be dealt with on a case-by-case basis. This tier system seeks to provide a general framework for handling situations and for supporting our moderators. In many cases, there will be multiple tiers required to complete the necessary actions. For example, a message that results in a temporary timeout (Tier 2) should also be reported to Discord (Tier 0). 
 
 #### Tier 0 - Report to Discord
 
