@@ -51,7 +51,7 @@ The Zaps help with automated monitoring to support new product launches.
 
 | Zap | Description | Involved Tools |
 | --- | --- | --- |
-| [New forum topics with `catalog` or `component`](https://zapier.com/editor/219212925/) | Reads Discourse forum  RSS feed `https://forum.gitlab.com/latest.rss` and posts to `#f_ci_catalog` channel. | Discourse forum, Slack | 
+| [New forum topics with `catalog` or `component`](https://zapier.com/editor/219212925/) | Reads Discourse forum RSS feed `https://forum.gitlab.com/latest.rss` and posts to `#f_ci_catalog` channel. | Discourse forum, Slack | 
 | [New forum topics in the GitLab Duo category](https://zapier.com/editor/219218779) | Reads Discourse forum RSS feed `https://forum.gitlab.com/c/gitlab-duo.rss` and posts to `#gitlab-duo-forum-posts` channel. | Discourse forum, Slack | 
 
 ##### Zaps for Hacker News
