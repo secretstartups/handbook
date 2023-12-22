@@ -4,6 +4,81 @@ description: Support Operations documentation page for change management
 canonical_path: "/handbook/support/readiness/operations/docs/change_management"
 ---
 
+
+## Process for v2 sync repos
+
+For any item using a [v2 sync repo](sync_repos/#v2), the process for making
+changes to it will depend on the nature of the change itself:
+
+| Type of change | Method used |
+|----------------|-------------|
+| Significant modification of "backend" code | [For significant changes to backend code](#for-significant-changes-to-backend-code) |
+| Typo fixes, comment changes, etc. of "backend" code | [For minor changes to backend code](#for-minor-changes-to-backend-code)
+| Modification of existing "frontend" code | [For changes to existing frontend code](#for-changes-to-existing-frontend-code) |
+| Creation of a new item | [For significant changes to backend code](#for-significant-changes-to-backend-code) |
+| Deletion or inactivation of an existing item | [For significant changes to backend code](#for-significant-changes-to-backend-code) |
+
+For sake of this documentation, please refer to the following definitions:
+
+- "backend" code refers to the code that makes actual changes to the item in the
+  system it is for
+- "frontend" code refers to content such as webhook payload, comment text, etc.
+
+#### For significant changes to backend code
+
+These would include any changes involving modifying the "backend" code, creation
+of new items, deletion or inactivation of existing items, etc. All of these
+should start as a
+[request for comments issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Request%20for%20Comments)
+within the
+[support-team-meta project](https://gitlab.com/gitlab-com/support/support-team-meta)
+and move from there.
+
+#### For minor changes to backend code
+
+These would include changing involving modifying the "backend" code that are
+small or insignificant to the overall code and deployment itself. The key to
+these is they do not have a real impact on the systems we manage.
+
+As these do not have an impact, a merge request can just be made on the source
+repository itself.
+
+#### For changes to existing frontend code
+
+These will be done via the corresponding Support Project (see
+[Sync Repos](./sync_repos) for a list). As those are not managed by Support
+Readiness, please see the corresponding Support team documentation.
+
+#### Deployments
+
+These are deployed using
+[Scheduled pipelines](https://docs.gitlab.com/ee/ci/pipelines/schedules.html) on
+the source repository itself. They are run once monthly and are completed
+automated.
+
+All communication and discussion for these should be occurring via the related
+[support-team-meta](https://gitlab.com/gitlab-com/support/support-team-meta)
+issue.
+
+This is the case for all sync repos using v2 typing, with the exception of
+Zendesk Macros (which are deployed instantly when any changes are made to
+"frontend" or "backend" code).
+
+#### Exceptions
+
+At times, a deployment may need to be run *sooner* than the set monthly
+deployment time. In these situations, a corresponding
+[support-team-meta](https://gitlab.com/gitlab-com/support/support-team-meta)
+issue should exist. For these exceptions, Support Director approval is required.
+
+These can be done ad-hoc as needed or in advance (such as knowing something
+needs to be deployed in the middle of the normal deployment cycle).
+
+---
+
+**NOTE** The below information may be out of date for recent changes. If
+clarification is needed, please ask Support Readiness
+
 ## Standard change management
 
 With the standard change mangement process, we use automations to handle our
