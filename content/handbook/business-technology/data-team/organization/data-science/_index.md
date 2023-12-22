@@ -105,7 +105,7 @@ graph BT;
 
 ## How to request Data Science project? 
 
-To request Data Science project, please fill [Opportunity Canvas](https://gitlab.com/gitlab-data/analytics/-/issues/new). In description choose `[New Request] Create Opportunity Canvas`. Section `Problem Statement` and `Stakeholders` should be completed. You can tag data science team member with whom you discussed project or share an issue in #bt-data-science slack channel. During quarterly planning, requests will be reviewed and priortisied accordingly.
+To request a new Data Science project, please fill out the [Opportunity Canvas](https://gitlab.com/gitlab-data/analytics/-/issues/new). In the description choose `[New Request] Create Opportunity Canvas`. The `Problem Statement` and `Stakeholders` sections should be completed. You can tag a data science team member with whom you discussed the project with or share an issue in #bt-data-science slack channel. During the quarterly planning process, requests will be reviewed and priortisied accordingly by the Data Leadership Forum.
 
 
 ## Work Streams
