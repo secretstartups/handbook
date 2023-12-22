@@ -3,13 +3,6 @@
 title: Service Desk Single-Engineer Group
 ---
 
-
-
-
-
-
-
-
 ## Service Desk Single-Engineer Group
 
 The Service Desk SEG is a [Single-Engineer Group](/handbook/company/team/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
@@ -17,6 +10,11 @@ The Service Desk SEG is a [Single-Engineer Group](/handbook/company/team/structu
 ### Vision
 
 Our goal is to provide a complete, yet lightweight and customizable customer support solution that seamlessly integrates with the GitLab ecosystem and brings customers, support staff and developers closer together.
+
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/LDVQXv3I5rI" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Mission
 
@@ -33,7 +31,7 @@ Please feel free to [subscribe to this GitLab issue to receive notifications](ht
 **Watch the latest video**
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/9Fwqt8EcZ-g" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/yVxaKfNE2XE" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 We publish [short mid month update videos](/handbook/engineering/development/incubation/#mid-month-update-video) and
@@ -42,21 +40,22 @@ longer [end of month showcase videos](/handbook/engineering/development/incubati
 
 | Date | Summary / written version | Video |
 | ---- | ------------------------- | ----- |
-| October Showcase (2023-11-24) | [October 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/19) | [Showcase Video](https://www.youtube.com/watch?v=9Fwqt8EcZ-g){:target="_blank"} |
-| September Showcase (2023-10-20) | [September 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/17) | [Showcase Video](https://www.youtube.com/watch?v=sGaw5QHvKBU){:target="_blank"} |
-| August Showcase (2023-09-19) | [August 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/15) | [Showcase Video](https://www.youtube.com/watch?v=OIFDH5L6VwA){:target="_blank"} |
+| `16.6` Showcase (2023-12-22) | [Nov. 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/25) | [Showcase Video](https://www.youtube.com/watch?v=yVxaKfNE2XE) |
+| October Showcase (2023-11-24) | [Oct. 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/19) | [Showcase Video](https://www.youtube.com/watch?v=9Fwqt8EcZ-g) |
+| September Showcase (2023-10-20) | [Sep. 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/17) | [Showcase Video](https://www.youtube.com/watch?v=sGaw5QHvKBU) |
+| August Showcase (2023-09-19) | [Aug. 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/15) | [Showcase Video](https://www.youtube.com/watch?v=OIFDH5L6VwA) |
 | July Showcase | - | - |
-| June Showcase (2023-07-07) | [June 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/14) | [Showcase Video](https://www.youtube.com/watch?v=PkgfXulZ6ZQ){:target="_blank"} |
-| May Showcase (2023-06-13) | [May 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/13) | [Showcase Video](https://www.youtube.com/watch?v=51SQQaVT8u4){:target="_blank"} |
+| June Showcase (2023-07-07) | [Jun. 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/14) | [Showcase Video](https://www.youtube.com/watch?v=PkgfXulZ6ZQ) |
+| May Showcase (2023-06-13) | [May 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/13) | [Showcase Video](https://www.youtube.com/watch?v=51SQQaVT8u4) |
 | April Showcase | - | - |
-| March Showcase (2023-04-06) | [March 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/12) | [Showcase Video](https://www.youtube.com/watch?v=9LYkvard3ew){:target="_blank"} |
-| March Mid Month Update (2023-03-22) | [15.10 release, customer feedback, verification](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/11) | [Update Video](https://www.youtube.com/watch?v=bOg9laFjqPk){:target="_blank"} |
-| February Showcase (2023-03-02) | [February 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/10) | [Showcase Video](https://www.youtube.com/watch?v=mR_ejrr8880){:target="_blank"} |
-| Update 4 (2023-02-21) | [15.9 release, GDK docs, verification](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/9) | [Update Video](https://www.youtube.com/watch?v=uMAjoe9Ehng){:target="_blank"} |
-| January Showcase (2023-01-30) | [January 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/7) | [Showcase Video](https://www.youtube.com/watch?v=rw-2fqtUodQ){:target="_blank"} |
-| Update 3 (2023-01-20) | [Foundation &amp; verification](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/7) | [Update Video](https://www.youtube.com/watch?v=CiP7LRqm8vo){:target="_blank"} |
-| Update 2 (2023-01-06) | [First MR &amp; upcoming tasks breakdown](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/6) | [Update Video](https://www.youtube.com/watch?v=jbUX611DR-g){:target="_blank"} |
-| Update 1 (2022-12-09) | [Product Vision &amp; customizable E-Mail Addresses](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/4) | [Update Video](https://www.youtube.com/watch?v=AmKy4IGmevc){:target="_blank"} |
+| March Showcase (2023-04-06) | [Mar. 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/12) | [Showcase Video](https://www.youtube.com/watch?v=9LYkvard3ew) |
+| March Mid Month Update (2023-03-22) | [15.10 release, customer feedback, verification](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/11) | [Update Video](https://www.youtube.com/watch?v=bOg9laFjqPk) |
+| February Showcase (2023-03-02) | [Feb. 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/10) | [Showcase Video](https://www.youtube.com/watch?v=mR_ejrr8880) |
+| Update 4 (2023-02-21) | [15.9 release, GDK docs, verification](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/9) | [Update Video](https://www.youtube.com/watch?v=uMAjoe9Ehng) |
+| January Showcase (2023-01-30) | [Jan. 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/7) | [Showcase Video](https://www.youtube.com/watch?v=rw-2fqtUodQ) |
+| Update 3 (2023-01-20) | [Foundation &amp; verification](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/7) | [Update Video](https://www.youtube.com/watch?v=CiP7LRqm8vo) |
+| Update 2 (2023-01-06) | [First MR &amp; upcoming tasks breakdown](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/6) | [Update Video](https://www.youtube.com/watch?v=jbUX611DR-g) |
+| Update 1 (2022-12-09) | [Product Vision &amp; customizable E-Mail Addresses](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/4) | [Update Video](https://www.youtube.com/watch?v=AmKy4IGmevc) |
 
 We are also [exploring ideas, existing issues and user feedback](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/2). Please feel free to contribute.
 
@@ -121,6 +120,8 @@ the new domain.
 
 ### Other resources
 
+- ["Introducing GitLab Service Desk" product overview video](https://www.youtube.com/watch?v=LDVQXv3I5rI)
+- ["Reopen Service Desk issues when an external participant comments" feature walkthrough video](https://www.youtube.com/watch?v=163wDM1e43o)
 - [Replace `mail_room` email ingestion with scheduled Sidekiq jobs](https://docs.gitlab.com/ee/architecture/blueprints/email_ingestion/)
 - [Custom email address for Service Desk (Overview)](https://youtu.be/_moD5U3xcQs)
 - [Video walkthrough on how to set up `mail_room` and Service Desk locally in GDK](https://youtu.be/SdqBOK43MlI)
