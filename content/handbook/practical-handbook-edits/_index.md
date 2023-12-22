@@ -1,15 +1,7 @@
 ---
-layout: handbook-page-toc
 title: "Practical Handbook Editing Tips"
 description: "Video recordings and written tips for non-engineering team members on how to work Handbook-First"
 ---
-
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 This page contains instructions, tips, and historical recordings for non-technical team members on how to work Handbook-First. This page is intended to be complementary to [Using GitLab at GitLab](/handbook/using-gitlab-at-gitlab/#using-gitlab-competency), and we suggest you start there if you have not yet completed the [GitLab 101 Tool Certification](/handbook/people-group/learning-and-development/gitlab-101/).
 
@@ -28,11 +20,10 @@ The [Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/index.html) based 
 
 ### Practical handbook edits: Web IDE and single file editor
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/DJo4bQdawSo" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube DJo4bQdawSo >}}
 
 This video covers:
+
 - Editing the marketing handbook as example
 - `Edit this page` action using the Web IDE, overview walkthrough, editing the handbook, again creating a merge request with the same actions.
 - Practical handbook edit tips showning this handbook.
@@ -44,57 +35,57 @@ This video covers:
 
    ![Handbook page at the bottom, action: Edit in Web IDE](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_bottom_handbook_action.png)
 
-2. Familiarize yourself with the [Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/):
+1. Familiarize yourself with the [Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/):
     - The menu sections are located on the left
     - The explorer section provides the file tree for the project, which is opened automatically when editing a handbook file. (keyboard shortcut: `Shift+Cmd+E`)
     - The editing view is on the right side. On top, there are tabs to organize open files.
     - Additional meta information is provided at the bottom. Git branch, problems, current line number, spaces for indentation, encoding, end-of-line sequence, language mode, layout, notifications.
     - **Tip:** Hover over the menu sections and items to learn more about their purpose and keyboard shortcuts.
-  
+
     ![Web IDE overview, handbook page highlighted in the file tree](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_file_tree_edit_handbook_page.png)
 
-3. Edit the selected file, and try the Markdown preview. `Cmd+Shift+P` on macOS opens the Web IDE command palette to search for commands. For example, type `Markdown`, select `Markdown: Open Preview to the Side` and try the preview.
+1. Edit the selected file, and try the Markdown preview. `Cmd+Shift+P` on macOS opens the Web IDE command palette to search for commands. For example, type `Markdown`, select `Markdown: Open Preview to the Side` and try the preview.
     - Note that the [handbook markdown engine](/handbook/markdown-guide/) supports more rendering features than the [Web IDE preview based on VS Code](https://code.visualstudio.com/docs/languages/markdown), and some items won't be rendered properly. Commit and create a [draft merge request](https://docs.gitlab.com/ee/user/project/merge_requests/drafts.html) to view the handbook [review apps](https://docs.gitlab.com/ee/ci/review_apps/) to e.g. verify embedded images.
 
     ![Web IDE editor, Markdown preview](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_console_markdown.png)
 
-4. Upload new files by right-clicking and selecting `Upload...` for example images into `source/images/handbook/` and the corresponding file tree, following the handbook directories.
+1. Upload new files by right-clicking and selecting `Upload...` for example images into `source/images/handbook/` and the corresponding file tree, following the handbook directories.
 
     ![Web IDE overview, upload files](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_file_upload_images.png)
 
-5. Open the `Source Control` icon on the left menu which has a blue marker for counting the file changes. Tip: Keyboard shortcut `Ctrl+Shift+G`.
+1. Open the `Source Control` icon on the left menu which has a blue marker for counting the file changes. Tip: Keyboard shortcut `Ctrl+Shift+G`.
 
     ![Web IDE menu, source control](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_menu_explorer_search_source_control.png)
 
-6. Review the changed files, and once ready, specify a Git commit message and click `Commit & Push`. Keyboard shortcut:  `Cmd+Enter`.
+1. Review the changed files, and once ready, specify a Git commit message and click `Commit & Push`. Keyboard shortcut:  `Cmd+Enter`.
 
     ![Web IDE, commit and push: Commit message](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_source_control_commit_message.png)
 
-7. Commit the changes to a new Git branch (leave selection, press `Enter`).
+1. Commit the changes to a new Git branch (leave selection, press `Enter`).
 
     ![Web IDE, commit and push: Create a new branch](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_source_control_commit_to_a_new_branch.png)
 
-8. Specify a new Git branch name (optional). Press `Enter` to continue. This action pushes the changes into the Git repository. The changes are persisted on the GitLab server and are immediately visible in the project view.
+1. Specify a new Git branch name (optional). Press `Enter` to continue. This action pushes the changes into the Git repository. The changes are persisted on the GitLab server and are immediately visible in the project view.
 
     ![Web IDE, commit and push: Branch name](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_source_control_commit_new_branch_name.png)
 
-9. Check the pop-up at the bottom right, and click `Create Merge Request` to open the GitLab MR tab. Tip: The notification bell icon at the bottom brings back the notification, if accidentally dismissed.
+1. Check the pop-up at the bottom right, and click `Create Merge Request` to open the GitLab MR tab. Tip: The notification bell icon at the bottom brings back the notification, if accidentally dismissed.
 
     ![Web IDE, commit and push: Create Merge Request](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_source_control_popup_create_mr.png)
 
-10. Fill in the MR template, provide why the merge request is created, add labels (e.g. using quick actions `/label ~handbook`) and assign yourself (`/assign @<yourusername>`).
+1. Fill in the MR template, provide why the merge request is created, add labels (e.g. using quick actions `/label ~handbook`) and assign yourself (`/assign @<yourusername>`).
 
     ![GitLab Merge Request view](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_gitlab_create_mr.png)
 
-11. Make additional changes to the MR: Select `Code > Open in Web IDE` on the upper right menu. This opens the Web IDE again to make changes. All changed files are opened automatically.
+1. Make additional changes to the MR: Select `Code > Open in Web IDE` on the upper right menu. This opens the Web IDE again to make changes. All changed files are opened automatically.
 
     ![Merge request, open in Web IDE](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_gitlab_mr_open_in_web_ide.png)
 
-12. Make changes, commit and push them, and select the MR associated branch again (follow [this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/383801#note_1214559713) for UX commit flows).
+1. Make changes, commit and push them, and select the MR associated branch again (follow [this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/383801#note_1214559713) for UX commit flows).
 
     ![Web IDE, commit and select MR associated branch](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_from_mr_changes_source_control_select_branch.png)
 
-13. Optional: Follow the pop-up notification to navigate back to the MR.
+1. Optional: Follow the pop-up notification to navigate back to the MR.
 
     ![Web IDE, go back to MR after commit and push](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_from_mr_changes_popup_go_to_mr.png)
 
@@ -108,13 +99,12 @@ In these videos, we run through the GitLab Handbook using the legacy version of 
 
 #### Historical: Creating new handbook pages and multimedia embedding best-practices
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/hQgS97M8abc" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube hQgS97M8abc >}}
 
 ***Please note that the video mentions that you need to go to source/handbook to create a page which is no longer the case. The handbook is located under [sites/handbook/source/handbook](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/handbook/source/handbook)***.
 
 This video covers:
+
 - Creating a new handbook page - @:37
 - Embedding a video - @15:25, @18:53
 - Making a URL open in a new tab - @17:05
@@ -130,11 +120,10 @@ You may also request a redirect. That process is [outlined here](/handbook/marke
 
 #### Historical: Changing a page name and subsequent updates
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/HeQax_U74NM" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube HeQax_U74NM >}}
 
 This video covers:
+
 - Renaming a URL - @1:05
 - Redirecting from one URL to the other - @2:17
 - Finding places where an old URL is linked and updating it to a new URL - @ 4:30
@@ -144,11 +133,10 @@ This video covers:
 
 #### Historical: Creating mermaid diagrams
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/SQ9QmuTHuSI" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube SQ9QmuTHuSI >}}
 
 This video covers:
+
 - Creating a mermaid diagram for the handbook:
    - Intro to a mermaid diagram
    - What they look like
@@ -158,33 +146,30 @@ Note: Flowcharts are universally used to outline the steps of a processes in seq
 
 ### Creating issue templates
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/ObNWS3trqIY" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube ObNWS3trqIY >}}
 
 This video covers:
+
 - Why you may want to use issue templates - @0:10
 - What is an issue template and how to create one - @:54
 - How issue templates and boards facilitate workflow management and automation - @3:55
 
 #### Historical: Adding images to the handbook and handbook analytics
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/P7Nv7bzksiY" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube P7Nv7bzksiY >}}
 
 This video covers:
+
 - How to see analytics on visits to a handbook page - @0:24
 - When and how to add images to the handbook - @5:32
 - How to keep up-to-date on changes in the handbook - @21:40
 
 #### Historical: How to add a new directory and page to the handbook
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/9NcJG9Bv6sQ" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{<youtube 9NcJG9Bv6sQ >}}
 
 This video covers:
+
 - How to add a new page to your section of the handbook complete with a new main page and table of contents
 
 #### Historical: Updating individual team member YAML for managerial changes
@@ -203,13 +188,13 @@ When a new manager joins a team, updates are needed in three places:
 
 Some tips may require terminal shell access on macOS/Linux. Ensure that your environment is working and that you have cloned the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) project for example.
 
-```
+```shell
 git clone https://gitlab.com/gitlab-com/www-gitlab-com.git
 ```
 
 Sync it. Ensure that you stash away local changed not yet committed.
 
-```
+```shell
 cd www-gitlab-com
 git stash
 git checkout master
@@ -218,7 +203,7 @@ git pull
 
 On macOS it is advised to use Homebrew and install the GNU tools. See [this blogpost](https://about.gitlab.com/blog/2020/04/17/dotfiles-document-and-automate-your-macbook-setup/) for a macOS setup.
 
-```
+```shell
 brew install gnu-sed
 ```
 
@@ -226,13 +211,13 @@ brew install gnu-sed
 
 One of the shell tools provided with macOS/Linux GNU is `find`. Open a terminal an run the following command in the main directory of the `www-gitlab-com` repository to get a list of all `*.md` files. This matches `.md` as suffix.
 
-```
+```shell
 find . -type f -name '*.md'
 ```
 
 Instead of the `.` you can also use a directory in the current path.
 
-```
+```shell
 find source/handbook -type f -name '*.md'
 ```
 
@@ -240,18 +225,17 @@ The type `f` specifies files, `d` matches for directories. When not specified, a
 
 You can replace `-name` with `-regex` to do more sensitive matching, for example to match all `.md` and `.md.erb` files.
 
-```
+```shell
 find . -type f -regex '.*\.md[.erb]*'
 ```
 
 This can be useful to **check whether a blog post was merged to master**:
 
-```
+```shell
 git checkout master
 git pull
 find . -type f -name '*blogpost-filename*'
 ```
-
 
 ### Find files and perform an action
 
@@ -261,7 +245,7 @@ The `exec` action should start a shell and execute a command in there. `sh -c ''
 
 Run the command in a terminal to see how it works:
 
-```
+```shell
 find source/handbook/marketing -type f -name '*.md' -exec sh -c 'echo "Matched {}"' \;
 ```
 
@@ -269,19 +253,19 @@ find source/handbook/marketing -type f -name '*.md' -exec sh -c 'echo "Matched {
 
 The GNU `sed` shell command is useful to replace a defined string in a file. The `-i` flag specifies to do that inline in the same file. The `g` flag defines a global match, replacing all pattern matches.
 
-```
+```shell
 sed -i 's/<searchtext>/<replacementtext>/g' file.md
 ```
 
 On macOS, ensure that the `gnu-sed` package is installed, and run `gsed` (instead of `sed`).
 
-```
+```shell
 gsed -i 's/<searchtext>/<replacementtext>/g' file.md
 ```
 
 With using the `/` separator, it is necessary to escape all `/` characters in the string. You can avoid this by choosing another separator, for example `,`:
 
-```
+```shell
 gsed -i 's,<searchtext>,<replacementtext>,g' file.md
 ```
 
@@ -297,7 +281,7 @@ This method combines the find, exec and sed tips explained above. The `exec` act
 
 The following example is used in [this MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/49617) for updating the Corporate Marketing project URL in all files.
 
-```
+```shell
 git checkout master
 git pull origin master
 
@@ -360,7 +344,7 @@ You can use the `GitLab Workflow` extension to manage the `Merge Request` (MR) o
 
 CI/CD linting jobs can use checks for trailing whitespaces. When detected, the checks cause the pipeline to fail, and require editing the files again. This can increase time to create and review MRs. The following tips help with removing trailing spaces in detected files faster.
 
-```
+```shell
 content/handbook/marketing/developer-relations-and-community/_index.md:78:70 MD009/no-trailing-spaces Trailing spaces [Expected: 0 or 2; Actual: 1]
 ```
 
@@ -384,11 +368,9 @@ find content/handbook -type f -name '*.md' -exec sh -c "sed -i 's/[ \t]*$//' "$1
 Sometimes the easiest way to fix one - or a few - trailing whitespace lint errors is directly in the merge request.
 
 1. From the `Changes` tab in the merge request, find the file and line number mentioned in the lint error message
-2. Click the speech bubble next to the line number to add a comment
-3. In the comment dialog, click the `insert suggestion` button to copy the line into the comment dialog
-4. Remove the trailing whitespace from the end of the line
-5. Click `Add comment now` and apply the suggestion
+1. Click the speech bubble next to the line number to add a comment
+1. In the comment dialog, click the `insert suggestion` button to copy the line into the comment dialog
+1. Remove the trailing whitespace from the end of the line
+1. Click `Add comment now` and apply the suggestion
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/Kfdf2VAk9sM" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube Kfdf2VAk9sM >}}
