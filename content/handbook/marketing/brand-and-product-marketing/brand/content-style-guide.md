@@ -4,7 +4,7 @@ title: "The GitLab Content Style Guide"
 twitter_image: '/images/tweets/handbook-marketing.png'
 ---
 
-The GitLab content style guide is for everyone who creates content on behalf of GitLab. It governs the way we write - including our voice, tone, vocabulary, grammar, punctuation, and formatting - and ensures consistency across all of our content. 
+The GitLab content style guide is for everyone who creates content on behalf of GitLab. It governs the way we write — including our voice, tone, vocabulary, grammar, punctuation, and formatting — and ensures consistency across all of our content. 
 
 ## Brand voice
 
