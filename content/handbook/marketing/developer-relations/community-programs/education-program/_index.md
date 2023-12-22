@@ -1,57 +1,38 @@
 ---
 
 title: "Education Program"
-description: "The GitLab for Education Program provides the top tiers of GitLab for free to students and faculty at educational institutions around the globe. "
+description: "Learn about the GitLab for Education Program and other education-related programs from GitLab's Developer Relations team"
 ---
 
-<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
+## About
 
+GitLab's Education program is part of the [Community Programs](https://handbook.gitlab.com/job-families/marketing/community-programs/) team.
 
+On this page, you'll find information about the GitLab for Education Program Team, our vision, our methods, our initiatives, and our program requirements.
 
+The primary mission of the GitLab for Education Program is to facilitate and drive the adoption of GitLab at educational institutions around the globe and build an engaged community of GitLab evangelists and contributors in the next generation of the workforce.
 
+Additionally, the Education Program seeks to evangelize the benefits of an all-remote operating model and GitLab's associated [company values](/handbook/values/) with students.
 
+## How to reach us
 
+* DRI: [@esalvadorp](https://gitlab.com/esalvadorp)
+* Email: `education@gitlab.com`
 
-
-# <i class="far fa-newspaper" id="biz-tech-icons"></i>  About
-GitLab's Education program is part of the [Developer Relations team](/handbook/marketing/developer-relations/).
-
-On this page, you'll find information about the GitLab for Education Program Team, our vision, how we work, our initiatives as well as our program requirements.
-
-At GitLab, we believe that **every student and every teacher can contribute**! The [GitLab for Education Program](/solutions/education/) provides the top tiers of GitLab for free to students, teachers and faculty at educational institutions around the globe for teaching, learning and research. We are invested in ensuring that students have access to the full functionality of GitLab while in school so they can become future contributors and evangelists of GitLab.
-
-##  <i class="far fa-paper-plane" id="biz-tech-icons"></i> How to reach us
-* Email: education@gitlab.com
-
-#### Slack Channels
+Additionally, see the following Slack channels.
 
 | Channel | Purpose |
 |---------|---------|
 |[#community-programs](https://gitlab.slack.com/messages/community-programs)| Communication regarding the GitLab for Education,GitLab for Open Source, and GitLab for Startups Programs.|
-|[#education-evangelism](https://gitlab.slack.com/messages/education-evangelism) | This channel is for sharing content and communication about education evangelism|
-|[#gitlab-for-campuses](https://gitlab.slack.com/messages/gitlab-for-campuses)| This channel is for discussing the GitLab for Campuses (paid) offering |
-|[#gitlab-alma-mater](https://gitlab.slack.com/archives/C03UN154SN6)| This channel is for discussing educational outreach to an alma mater and raising awareness about GitLab for Education |
+|[#gitlab-for-campuses](https://gitlab.slack.com/messages/gitlab-for-campuses)| This channel is for discussing [the GitLab for Campuses](https://handbook.gitlab.com/handbook/product/packaging-and-pricing/gitlab-for-campuses/) (paid) offering |
 
-#### Pages
+## Vision and goals
 
-| Handbook or Marketing Page  | Type | Description |
-| ------ | ------ |------|
-| [GitLab for Education Program](/solutions/education/)| Marketing page | Community facing page with program requirements, benefits, content, and application|
-| [GitLab Solutions for Education](/solutions/education/campus/)| Marketing page | Customer facing page presenting the different options for educational institutions to obtain a GitLab license|
-| [GitLab for Education](/handbook/marketing/developer-relations/community-programs/education-program/) | Handbook |  Information on how the GitLab for Education team operates and how to reach us.|
-| [Education Evangelism](/handbook/marketing/developer-relations/community-programs/education-program/education-evangelism) | Handbook |  Information on education evangelism processes and metrics.|
-| [Community Programs Applications Workflows ](/handbook/marketing/developer-relations/community-programs/community-program-applications/) | Handbook | Workflow for processing GitLab for Education Program applications.|
-| [GitLab for Campuses ](/handbook/product/packaging-and-pricing/gitlab-for-campuses/)| Handbook | Process and details for the GitLab for Campuses offering. |
-| [Education Conferences](/handbook/marketing/developer-relations/community-programs/education-program/education-conferences)| Handbook | Processes and details regarding conferences|
+The vision of the GitLab for Education Program is to enable educational institutions to be successful in teaching, learning, conducting research with GitLab.
+We seek to build an engaged community of GitLab users around the world who actively contribute to GitLab and each other's success, and ultimately become evangelists of GitLab in the workplace and beyond.
 
+Our goals are:
 
-## <i class="fa fa-map-marker" aria-hidden="true"></i> Mission
-The primary mission of the GitLab for Education Program is to facilitate and drive the adoption of GitLab at educational institutions around the globe and build an engaged community of GitLab evangelists and contributors in the next generation of the workforce.
-
-Additionally, the Education Program seeks to evangelize the benefits of an all-remote operating model and GitLab's associated [company values](/handbook/values/) to the next generation of the workforce.
-
-### <i class="fa fa-map-o" aria-hidden="true"></i> Strategy
-The goals in building out the Education Program are:
 * Align the program structure and license offerings with the needs and operating models of educational institutions while providing the best GitLab has to offer to students, faculty, and staff.
 * Grow the base of educational institutions, students, faculty, and staff using GitLab.
 * Build a robust and engaged educational community full of members who collaborate, contribute, and enable each other to be successful with GitLab.
@@ -62,12 +43,22 @@ The goals in building out the Education Program are:
 * Be a thought leader in the discipline of DevOps by engaging with related academic disciplines, academic organizations, and associations.
 * Evangelize the benefits of an all-remote operating model and GitLab's associated company values to the next generation of the workforce.
 
-### Vision
-The vision of the GitLab for Education Program is to enable educational institutions to be successful in teaching, learning, conducting research with GitLab. We seek to build an engaged community of GitLab users around the world who actively contribute to GitLab and each other’s success, and ultimately become evangelists of GitLab in the workplace and beyond.
+## What we're working on
 
-## <i class="fas fa-tasks" id="biz-tech-icons"></i> Where to find what we're working on
+GitLab for Education Program issues typically exist in the [Education Program subgroup](https://gitlab.com/gitlab-com/marketing/developer-relations/education-program) of the [Developer Relations Group](https://gitlab.com/gitlab-com/marketing/developer-relations).
+But they may also reside in [Field Marketing](https://gitlab.com/gitlab-com/marketing/field-marketing), [Corporate Marketing](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing), or other [marketing subgroups](https://gitlab.com/gitlab-com/marketing).
 
-GitLab for Education Program issues typically exist in the [Education Program subgroup](https://gitlab.com/gitlab-com/marketing/community-relations/community-programs/education-program) of the [Developer Relations Group](https://gitlab.com/gitlab-com/marketing/community-relations) but they can also exist in [Field Marketing](https://gitlab.com/gitlab-com/marketing/field-marketing), [Corporate Marketing](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing), or other [marketing subgroups](https://gitlab.com/gitlab-com/marketing).
+We use the following labels to track our work across these spaces.
+
+| Label  | Use  |   
+|--------|------|
+|`Education Program`| General label for all issues related to program management|
+|`edu-feedback`| Marks issues that contain feedback from program and community members|  
+|`OKR` | Related to OKRs for the quarter   |
+|`Education:: EAB`| Related to the Education Advisory Board |
+|`edu-conference`| Related to conferences the education team is involved with|
+|`edu-evangelism`| Related to the education Evangelist|
+|`edu-stakeholder-mtng`| Used for meetings with members of the outside education community|
 
 ### OKR and KR Organization
 
@@ -75,36 +66,18 @@ OKR Epics are located in the [Developer Relations](https://gitlab.com/gitlab-com
 
 The roles, KR assignees, and other details should be covered in the first Education Team meeting (or 1-on-1) of each quarter. There, create a todo list for each member of the team to cover Milestones, KR Issues, and OKR Epics. This organization ensures a clear direction and performance for the quarter.
 
-
-
-### SubGroup Organization
-
-The `Education Team` subgroup should contain the following projects for organizational purposes.
-
-| Project | Purpose |
-|---------|---------|
-| KeyResults| Store issues related to Key Results|
-| ProgramMembersCommunications | Issues related to communicating with program members including students, professors, fraternities and educational organizations|
-| Outreach   | includes blogs, videos, podcasts, and other methods of connecting with the community|
-| ShinyRocks | Non-OKR related ideas and "nice-to-haves" |
-
-
-### Labels used by the Education Team
-
-| Label  | Use  |   
-|--------|------|
-|`Education Program`| General label for all issues related to program management|
-|`edu-feedback`| Marks issues that contain feedback from program and community members|  
-|`OKR`      | Related to OKRs for the quarter   |
-|`Education:: EAB`| Related to the Education Advisory Board |
-|`edu-conference`| Related to conferences the education team is involved with|
-|`edu-evangelism`| Related to the education Evangelist|
-|`edu-stakeholder-mtng`| Used for meetings with members of the outside education community|
-
-## <i class="fa fa-check-square-o" aria-hidden="true"></i> Key Performance Indicators
+## Key Performance Indicators
 The GitLab for Education Program has one Key Performance Indicator and several Performance Indicators. See the [Developer Relations Department Performance Indicators page](/handbook/marketing/developer-relations/performance-indicators/#gitlab-for-education-quarterly-new-institutions-inherited) for more details.
 
-## <i class="fa fa-tasks" aria-hidden="true"></i> Internal Program Processes
+
+
+
+
+
+
+
+
+## Internal Program Processes
 
 ### GitLab in Academic Research Citation Index
 We have an MVC [GitLab in Academic Research Citation Index](https://about.gitlab.com/solutions/education/##gitlab-in-research) on the GitLab for Education Home page.  EndNote web will serve as the SSoT for the GitLab in Academic Research Citation Index displayed on our webpage. EndNote is an online tool that stores citations, allows collaboration, and has search functions. An added benefit of EndNote web is that we can export the citations in any standard citation format.
@@ -129,6 +102,7 @@ You'll need to create an EndNote account from the [EndNote homepage](https://end
 1. Save the citation
 
 #### Adding Citations to the WebPage
+
 1. Prepare a row in the citation index table on the webpage to store the new citation
 1. In EndNote Web, go to `Format` and `Bibliography`
 1. In `References` choose GitLab Citation Index Webpage
@@ -139,8 +113,7 @@ You'll need to create an EndNote account from the [EndNote homepage](https://end
 1. Copy and paste the citation into the placeholder
 1. Update the `Notes` field in the citation record in EndNote with `added to website` so we are able to track which citations have been added.
 
-
-# <i class="far fa-newspaper" id="biz-tech-icons"></i>  GitLab for Education Program
+# GitLab for Education Program
 In order to qualify for the GitLab for Education Program applicants must meet the GitLab for Education Program Requirements. Once accepted in the program, institutions must agree and are subject to the [GitLab for Education Program Agreement](/handbook/legal/education-agreement/).
 
 ## GitLab for Education Program Requirements
@@ -188,17 +161,14 @@ The GitLab educational license cannot be used for commercial, professional, or a
 * Third party directed research - For example, the US Government may open a request for proposals for a specific project with a well-defined results. Research laboratories, owned and operated by a University such as an Advanced Research Laboratory (ARL), may apply and be awarded the project in the form of a contract. This type of work, with the goal of benefitting a third party through producing a given outcome, rather contributing to the general body of scientific research itself, does not qualify. An Advanced Research Laboratory or entity of the like, can still hold and apply for a GitLab for Education license but any work completed for the benefit of a third party, or under contract for example, cannot occur on the free license.
 * Services  - Any activities conducted by a consulting center, super computer laboratory, or entity that provides services for the benefit of a third party are not acceptable under the free license.
 
-
 ### Students
+
 At this time, GitLab does not issue licenses directly to students as part of the GitLab for Education Program. Students are welcome to encourage their educational institution to apply to the program directly. Students can access a [free subscription for GitLab.com](/pricing/#gitlab-com) or a [free download of our core self-managed offering](/pricing/#self-managed). Students can also apply for a [30-day trial](https://gitlab.com/-/trials/new) if they would like to try out some more advanced features.
 
 Children under the age of 13 are not permitted to use GitLab.com (SaaS Software).
 
-## The GitLab for Education DevOps Guide
-
-Coming Soon!
-
 ## Alma Mater Outreach Resources
+
 Alumni are an important part of every school's community. If you'd like to reach out to your alma mater about GitLab and collaborate with the GitLab for Education team here are a few ways to get started.
 
 * Email former professor you really liked and share information about our GitLab for Education Program. Email template coming soon.
