@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Developer Onboarding"
 description: "Awesome! You're about to become a GitLab developer! Here you'll find everything you need to start developing."
 ---
@@ -9,11 +9,11 @@ Make sure you've checked out our [handbook] beforehand, so you get a feeling
 of how we work at GitLab. Below you'll find everything you need to start developing.
 If something is missing, add it (as goes with everything at GitLab)!
 
-### On this page
-{:.no_toc .hidden-md .hidden-lg}
+#
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
 
 ## GitLab Environments
 
@@ -132,5 +132,4 @@ Follow the [development guidelines for Ruby gems](https://docs.gitlab.com/ee/dev
 - [Product Handbook](/handbook/product/)
 
 [handbook]: /handbook
-[in the open]: /2015/08/03/almost-everything-we-do-is-now-open/
 [contrib-guide]: https://about.gitlab.com/community/contribute/
