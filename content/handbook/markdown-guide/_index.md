@@ -5,6 +5,7 @@ description: "Read through our Markdown kramdown Style Guide!"
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -65,13 +66,17 @@ For our [Blog], everything in this guide can be applied. Read through the [Blog 
 {: .panel-heading}
 
 <div class="panel-body">
+
 ## Heading h2
+
 {:.no_toc style="margin-top:0"}
 
 ### Heading h3
+
 {:.no_toc}
 
 #### Heading h4
+
 {:.no_toc}
 </div>
 </div>
@@ -79,9 +84,9 @@ For our [Blog], everything in this guide can be applied. Read through the [Blog 
 Notes:
 
 - We don't use `h1` headings, as they already are displayed on every page as its title, and we should not apply more than one `h1` per page.
-  > _When you use a top level heading, or an <h1>, you’re setting up a semantic relationship between that heading and the remainder of the content on a page, describing what it is about. If you then use a second <h1> on the same page, you’re creating some potential confusion, because someone, or a search engine might see that as the ending of the semantic relationship between the content after the first <h1> and the start of this new <h1>._ [SEO Guide]
+  > *When you use a top level heading, or an <h1>, you’re setting up a semantic relationship between that heading and the remainder of the content on a page, describing what it is about. If you then use a second <h1> on the same page, you’re creating some potential confusion, because someone, or a search engine might see that as the ending of the semantic relationship between the content after the first <h1> and the start of this new <h1>.* [SEO Guide]
 - Always start with `h2` (`##`), and respect the order h2 &rarr; h3 &rarr; h4. Never skip the hierarchy level, such as h2 &rarr; h4.
-  > _The six heading elements, H1 through H6, denote section headings. Although the order and occurrence of headings is not constrained by the HTML DTD, documents **should not skip levels** (for example, from H1 to H3), as converting such documents to other representations is often problematic._ [W3C]
+  > *The six heading elements, H1 through H6, denote section headings. Although the order and occurrence of headings is not constrained by the HTML DTD, documents **should not skip levels** (for example, from H1 to H3), as converting such documents to other representations is often problematic.* [W3C]
 - Always leave a blank space between the hash `#` and the text next to it, otherwise it won't render properly.
 - For keeping the text clear and the markdown consistent, [jump a line](#jump-a-line) between any heading and its subsequent paragraph.
 
@@ -91,9 +96,9 @@ Notes:
 
 Regular paragraphs are obtained by just writing text lines:
 
-* If you hit **enter** between two lines, both lines will be joined into a single paragraph, which is called [wrapping text][wrap].
-* If you leave a blank line between them, they will split into two paragraphs.
-* If you end a line with a backslash (`\`) or two spaces, the next line appears on a new line in the same paragraph (a line break).
+- If you hit **enter** between two lines, both lines will be joined into a single paragraph, which is called [wrapping text][wrap].
+- If you leave a blank line between them, they will split into two paragraphs.
+- If you end a line with a backslash (`\`) or two spaces, the next line appears on a new line in the same paragraph (a line break).
 
 In some Git tools, `diffs` in future MRs may be easier to understand with additional line breaks, however GitLab's web interface as well as many desktop Git tools feature substring change highlighting within lines and side-by-side or similar version comparison so there is no need for artificial line breaks.
 
@@ -204,7 +209,7 @@ This is ***bold and italic***.
 
 <div class="panel-body">
 
-This is **bold** and this is _italic_.
+This is **bold** and this is *italic*.
 
 This is ***bold and italic***.
 
@@ -458,8 +463,8 @@ markup `^` to indicate the end of a list and the beginning of the next:
 - list two - item A
 - list two - item B
 ^
-- list three - item _i_
-- list three - item _ii_
+- list three - item *i*
+- list three - item *ii*
 
 </div>
 </div>
@@ -512,7 +517,7 @@ For clickable images, simply wrap the image markup into a [link markup](#links):
 - {: #image-shadow} Apply [shadow](#shadow) to your images!
 - {: #image-requirements} All images must be placed [under `/source/images/`][source-img], in an appropriate directory. Only screenshots
 and public domain images are permitted.
-- {: #image-alt-text} The text inside the square brackets is an image attribute called `ALT`, which stands for _alternative text_.
+- {: #image-alt-text} The text inside the square brackets is an image attribute called `ALT`, which stands for *alternative text*.
 [Including descriptive alt text][alt-text-best-practices] helps maintain accessibility for every visitor and should always be included with an image. When you add alt text be sure to describe the content and function of an image. In addition to the accessibility benefits, `ALT` is useful for SEO, and it is displayed when, for some reason, that image is not loaded by the browser.
 - {: #image-filename} For the same reasons, the image must contain a name related to it. Example: instead of `image-01.jpg`,
 name it `black-dog.jpg`, if it's a photo of a black dog.
@@ -657,11 +662,11 @@ compatibility: `.mp4`, `.ogg` and `.webm`.
 </div>
 </div>
 
-_**Note:** in case you don't have all formats recommended by **w3schools**, you can use just one of them,
+***Note:** in case you don't have all formats recommended by **w3schools**, you can use just one of them,
 but your video most likely won't be supported in all devices and browsers. The video above (`.mp4` only)
 worked on Mozilla Firefox for macOS, Android, and Windows, and on Chrome for Android and for Windows.
 But it may not work on other devices/browser, such as Chrome for macOS and iOS, or Safari.
-In fact, the best option is using YouTube or Vimeo embed videos in `<iframe>` tags._
+In fact, the best option is using YouTube or Vimeo embed videos in `<iframe>` tags.*
 {: .note}
 
 ### Display other videos
@@ -764,7 +769,7 @@ ordered lists and kramdown will be smart enough to understand what you want:
 Tables for markdown are challenging. So, we have two possible approaches: use markdown whenever possible,
 but if you need pretty advanced table layouts, you are free to add them in HTML markup instead.
 
-> _Markdown is not a replacement for HTML, or even close to it. ([John Gruber][daring-quote])_
+> *Markdown is not a replacement for HTML, or even close to it. ([John Gruber][daring-quote])*
 {: #quote}
 
 As explained by John Gruber, the creator of markdown, it was not created to replace HTML,
@@ -912,7 +917,7 @@ This is an ``` `in-line` ``` code block.
 
 <div class="panel-body">
 
-_In-line_
+*In-line*
 
 This is an `in-line` code block.
 
@@ -927,7 +932,7 @@ This is an `in-line` code block.
     end
     ```
 
-_Fenced Highlighted_
+*Fenced Highlighted*
 
     ```ruby
     def hello
@@ -952,7 +957,7 @@ or
 
 <div class="panel-body">
 
-_Fenced_
+*Fenced*
 
 ```
 def hello
@@ -960,7 +965,7 @@ def hello
 end
 ```
 
-_Fenced Highlighted_
+*Fenced Highlighted*
 
 ```ruby
 def hello
@@ -975,6 +980,7 @@ def hello
    puts "Hello world!"
 end
 ```
+
 {: .language-ruby}
 
 
@@ -989,7 +995,7 @@ Add 4 white spaces before every line:
            puts "Hello world!"
         end
 
-_Indented Highlighted_
+*Indented Highlighted*
 
         def hello
            puts "Hello world!"
@@ -1004,13 +1010,13 @@ _Indented Highlighted_
 
 <div class="panel-body">
 
-_Indented_
+*Indented*
 
     def hello
        puts "Hello world!"
     end
 
-_Indented Highlighted_
+*Indented Highlighted*
 
     def hello
        puts "Hello world!"
@@ -1038,7 +1044,7 @@ within a code block.
 
 <div class="panel-body">
 
-_Nested_
+*Nested*
 
     ```
     def hello
@@ -1072,8 +1078,8 @@ and ident the code block in 5 white spaces:
 
 <div class="panel-body">
 
-1.   Item 1
-1.   Item 2
+1. Item 1
+1. Item 2
 
      ```ruby
      def hello
@@ -1081,7 +1087,7 @@ and ident the code block in 5 white spaces:
      end
      ```
 
-1.   Item 3
+1. Item 3
 
 </div>
 </div>
@@ -1128,7 +1134,7 @@ That may be lazy.
 <div class="panel-body">
 
 > This is a blockquote.
->     On multiple lines.
+> On multiple lines.
 That may be lazy.
 >
 > This is the second paragraph.
@@ -1140,9 +1146,10 @@ That may be lazy.
 > > A nested blockquote.
 >
 > ### Headers work
+>
 > {:.no_toc}
 >
-> * lists too
+> - lists too
 >
 > and all other block-level **elements**.
 >
@@ -1186,7 +1193,7 @@ This is a regular paragraph.
 
 ## Comments
 
-_Markdown markup_
+*Markdown markup*
 
 ```md
 This is a paragraph
@@ -1197,7 +1204,7 @@ completely ignored.
 ... paragraph continues here.
 ```
 
-_Regular HTML markup_
+*Regular HTML markup*
 
     <!-- This is accepted as a comment too -->
 {: .language-html}
@@ -1239,13 +1246,14 @@ Or simply use an ID:
 Some text
 {: #hello-world}
 ```
+
 ----
 
 ## Font Awesome
 
 Yes, we can use fancy (free) [Font Awesome] icons too.
 
-_Regular_
+*Regular*
 
 ```
 ### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> Puzzle Icon
@@ -1254,7 +1262,7 @@ _Regular_
 
 And you can go further, such as the following.
 
-_Styled_
+*Styled*
 
 ```
 ### <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple GitLab Tanuki
@@ -1271,19 +1279,22 @@ _Styled_
 
 <div class="panel-body">
 
-_Regular_
+*Regular*
 
 ### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> Puzzle Icon
+
 {: #puzzle}
 
 ----
 
-_Styled_
+*Styled*
 
 ### <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple GitLab Tanuki
+
 {: #tanuki-purple}
 
 ### <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Orange GitLab Tanuki
+
 {: #tanuki-orange}
 
 </div>
@@ -1353,12 +1364,14 @@ Paragraph
 {: .class .class-1 #custom-id-1}
 
 ### Heading
+
 {: .class .class-1 .no_toc #custom-id-2}
 
 Paragraph
 {: .class #custom-id-3 style="padding-top:0" key="value"}
 
 ### Heading {#hello}
+
 {: .no_toc}
 
 List:
@@ -1420,6 +1433,7 @@ Add a custom class to a heading or paragraph using the following special classes
 **GitLab Orange**
 
 #### GitLab Orange Heading
+
 {:.gitlab-orange .no_toc}
 
 Markup:
@@ -1432,6 +1446,7 @@ Markup:
 **GitLab Purple**
 
 #### GitLab Purple Heading
+
 {:.gitlab-purple .no_toc}
 
 Markup:
@@ -1961,7 +1976,7 @@ Hey! Hover the cursor over me and guess what?! :)
 </div>
 </div>
 
-And yes, the `<style>` tag is _in_ this very markdown file. Believe it or not!
+And yes, the `<style>` tag is *in* this very markdown file. Believe it or not!
 
 ----
 
@@ -2004,6 +2019,7 @@ Copy the code below and paste to your markdown file (leave a blank line above an
 ```
 
 #### Output:
+
 {: .no_toc}
 
 <figure class="video_container">
@@ -2027,6 +2043,7 @@ Copy the code below and paste to your markdown file (leave a blank line above an
 ```
 
 #### Output:
+
 {: .no_toc}
 
 <figure class="video_container">
@@ -2076,6 +2093,7 @@ with the rest of the handbook.
 {: .alert .alert-info}
 
 #### Output:
+
 {: .no_toc}
 
 <figure>
@@ -2132,6 +2150,7 @@ For more than one Tweet, copy and paste all the code blocks from Twitter into on
 
 </div>
 ```
+
 ---
 
 ## Embed Instagram posts
@@ -2184,18 +2203,18 @@ is going to work, so double check your output.
 
 If the document was in Google Docs, you can install the [Docs to Markdown](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607) add-on, which helps convert the Google Docs to markdown. You'll likely need to make minor updates or edits to the markdown that the add-on generates.
 
-_Editors Available on GitLab.com_
+*Editors Available on GitLab.com*
 
 - [Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/)
 - [Web Editor](https://docs.gitlab.com/ee/user/project/repository/web_editor.html)
 
-_Regular Code Editors_
+*Regular Code Editors*
 
 - [Sublime Text 3][sublime]
 - [VS Code](https://code.visualstudio.com/)
-- [Atom] _(Atom is due to be [discontinued](https://github.blog/2022-06-08-sunsetting-atom/) from December 2022)_
+- [Atom] *(Atom is due to be [discontinued](https://github.blog/2022-06-08-sunsetting-atom/) from December 2022)*
 
-_Markdown editors (type and preview simultaneously)_
+*Markdown editors (type and preview simultaneously)*
 
 - Markdown editors for Mac: [MacDown], [iA Writer]
 - In-browser markdown editor: [StackEdit]
@@ -2215,6 +2234,7 @@ or [Chrome extensions](https://chrome.google.com/webstore/search/copy+markdown).
 ----
 
 ## Complementary Notes
+
 {: #tips--tricks}
 
 - Words must be separated by one single space only. Do not leave more blank spaces than the necessary,
@@ -2243,6 +2263,7 @@ where you'll be able to see exactly how everything was written to produce the re
 
 
 ## More
+
 {: .no_toc}
 
 Anything else you know of and is not described here? Any new magic? Any trick? Please contribute!
@@ -2277,12 +2298,10 @@ Anything else you know of and is not described here? Any new magic? Any trick? P
 [slideshare-ivan]: http://www.slideshare.net/creatop/how-to-use-any-static-site-generator-with-gitlab-pages
 [source-img]: https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/images
 [ssg]: https://www.staticgen.com/
-[ssgs-post-raw]: https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/sites/uncategorized/source/blog/blog-posts/2016-06-10-ssg-overview-gitlab-pages-part-2.html.md
 [ssgs-post]: /blog/2016/06/10/ssg-overview-gitlab-pages-part-2/
 [stackedit]: https://stackedit.io/
 [sublime]: https://www.sublimetext.com/3
 [table generator]: http://www.tablesgenerator.com/html_tables
-[visually-impaired]: https://gitlab.com/gitlab-org/gitlab-ce/issues/12797
 [w3-video]: http://www.w3schools.com/tags/tag_video.asp
 [www-gitlab-com]: https://gitlab.com/gitlab-com/www-gitlab-com
 [w3c]: https://www.w3.org/MarkUp/html-spec/html-spec_5.html#SEC5.4
