@@ -494,12 +494,12 @@ elif [[ $IS_ENGINEERING == true ]]; then
   echo "Skipping mdlintignore as already have a blanket one for engineering"
 elif [[ $IS_MARKETING == true ]]; then
   echo "Skipping mdlintignore as already have a blanket one for marketing"
-elif [[ $IS_HANDBOOK == true ]]; then
-  echo "content/handbook/$SECTION/**/*.md" >> .markdownlintignore
-  sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
-else
-  echo "content/$SECTION/**/*.md" >> .markdownlintignore
-  sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
+# elif [[ $IS_HANDBOOK == true ]]; then
+#   echo "content/handbook/$SECTION/**/*.md" >> .markdownlintignore
+#   sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
+# else
+#   echo "content/$SECTION/**/*.md" >> .markdownlintignore
+#   sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
 fi
 
 # Commit the result and raise an MR against the new handbook repo
