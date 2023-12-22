@@ -22,7 +22,7 @@ In our community server, you can:
 
 To ensure we keep a positive, welcoming, and inclusive environment for everyone to contribute, all members of our Discord server must adhere to our [Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/) at all times.
 
-The Developer Relations team manages the Discord server with support from Contributor Success. If you have questions or want to request a GitLab team member role, ping `@community-team` in the `#developer-relations` Slack channel.
+The Developer Relations team manages the Discord server with support from Contributor Success. If you have questions or want to request a GitLab team member role, ping `@devrel-team` in the `#developer-relations` Slack channel.
 
 ## Discord Community Overview
 
