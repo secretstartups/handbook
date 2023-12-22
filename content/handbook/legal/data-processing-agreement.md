@@ -1,6 +1,5 @@
 ---
 title: "GitLab Data Processing Addendum and Standard Contractual Clauses"
-description: "This agreement ..."
 ---
 
 [GitLab Data Processing Addendum](https://gitlab.com/gitlab-com/legal-and-compliance/-/raw/master/Customer_DPA__3.1.23_.pdf)
