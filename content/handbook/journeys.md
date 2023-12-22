@@ -49,7 +49,7 @@ People might skip parts of this journey, for example by never contributing code.
 
 ### User adoption journey
 
-Our customers get the most value out of the GitLab product when they use multiple stages. The [user adoption journey](https://about.gitlab.com/handbook/product/product-principles/#multi-feature-usage-adoption-journey) covers the most common path our users follow to adopt GitLab's product stages.
+Our customers get the most value out of the GitLab product when they use multiple stages. The [user adoption journey](/handbook/product/product-principles/#multi-feature-usage-adoption-journey) covers the most common path our users follow to adopt GitLab's product stages.
 
 ## Buyer journey
 

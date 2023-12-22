@@ -85,11 +85,11 @@
   - name: Contribution Guide
     url: docs
   - name: Practical Handbook Edits
-    url: https://about.gitlab.com/handbook/practical-handbook-edits/
+    url: /handbook/practical-handbook-edits
   - name: Edit This Website Locally
-    url: https://about.gitlab.com/handbook/git-page-update/
+    url: /handbook/git-page-update
   - name: Handbook Style Guide
-    url: https://about.gitlab.com/handbook/style-guide/
+    url: /handbook/style-guide
   - name: Content Websites
     url: content-websites
 - name: People Group

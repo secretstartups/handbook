@@ -208,7 +208,7 @@ Dogfooding is using a piece of GitLab *for its intended purpose*. For example, o
 
 In other words: Dogfooding is using the product in the way that our customers would use it to the end of discovering and solving pain points that they have. Dogfooding supports [customer results](/handbook/values/#customer-results).
 
-At GitLab Support we use Service Desk to process [Personal Data Requests](https://about.gitlab.com/handbook/gdpr/), but not for our global support because the customer for Service Desk is primarily small teams soliciting [*bug reports, feature requests, or general feedback*](https://docs.gitlab.com/ee/user/project/service_desk/). Through our use of Service Desk in this smaller setting we've been able to influence product direction towards adding features like [internal notes](https://docs.gitlab.com/ee/user/discussions/#add-an-internal-note).
+At GitLab Support we use Service Desk to process [Personal Data Requests](/handbook/gdpr/), but not for our global support because the customer for Service Desk is primarily small teams soliciting [*bug reports, feature requests, or general feedback*](https://docs.gitlab.com/ee/user/project/service_desk/). Through our use of Service Desk in this smaller setting we've been able to influence product direction towards adding features like [internal notes](https://docs.gitlab.com/ee/user/discussions/#add-an-internal-note).
 
 We continually evaluate product features for use-cases within Support and provide feedback and feature requests where blockers exist. Support will always prioritize [customer results](/handbook/values/#customer-results) over any other consideration.
 
@@ -612,7 +612,7 @@ Providing information by reacting to a message with a specific emoji.
 After getting promoted, make sure to update your title in:
 
 - our [Support team page](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/support-team.yaml), and the change would be reflected in Zendesk
-- the company team page following the same steps in [Add yourself to the Team Page](https://about.gitlab.com/handbook/git-page-update/#12-add-yourself-to-the-team-page)
+- the company team page following the same steps in [Add yourself to the Team Page](/handbook/git-page-update/#12-add-yourself-to-the-team-page)
 
 Consider updating the title on Slack and on Zoom, following the guidelines in [Zoom name format](#zoom-name-format).
 

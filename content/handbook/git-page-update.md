@@ -22,8 +22,8 @@ Here's a list of ideas that help you get started in your contribution journey to
 
 If you have questions, ask anyone for help or post in the #handbook Slack channel. You're more likely to have success with:
 
-- People that have [Merge Request Buddy](/handbook/people-group/general-onboarding/mr-buddies) as an expertise on the [team page](/company/team/).
-- People that have been here longer than 3 months. The [team page](/company/team/) gives a list of all team members.
+- People that have [Merge Request Buddy](/handbook/people-group/general-onboarding/mr-buddies) as an expertise on the [team page](/handbook/company/team/).
+- People that have been here longer than 3 months. The [team page](/handbook/company/team/) gives a list of all team members.
 - People that have 'engineer' in their title.
 - We encourage you to meet someone new by asking someone you don't know for help. You can also ask for help in #questions or #people-connect by posting 'Who can do a video call with me to help me work on the website locally /handbook/git-page-update/ ?'. If the other options don't work for you, please ask your onboarding buddy.
 
@@ -222,12 +222,12 @@ For more in-depth details on setting up and using the local development environm
 
 ## 12. Add yourself to the Team Page
 
-We are happy to have you join our company and to include you in our [team page](/company/team/)! [A sync](/handbook/people-group/engineering/onboarding/#sync-to-team-page) will add a basic entry for you on our team page on your third day of employment at GitLab. You are invited to personalize this entry and add more information to it.
+We are happy to have you join our company and to include you in our [team page](/handbook/company/team/)! [A sync](/handbook/people-group/engineering/onboarding/#sync-to-team-page) will add a basic entry for you on our team page on your third day of employment at GitLab. You are invited to personalize this entry and add more information to it.
 
 Ask anyone in the company for help if you need it - you can use either the #mr-buddies or #questions Slack channel for this purpose. There are **three** ways to update the website.
-1. [Add your info on GitLab.com using the Web IDE](https://about.gitlab.com/handbook/git-page-update/#method-1-add-your-info-on-gitlabcom-using-web-ide)
-1. [Add your info on GitLab.com using the 'web interface'](https://about.gitlab.com/handbook/git-page-update/#method-2-add-your-info-on-gitlabcom-using-the-web-interface)
-1. [Add your info using a Local Git clone (using the terminal and an IDE)](https://about.gitlab.com/handbook/git-page-update/#method-3-add-your-info-using-a-local-git-clone-using-the-terminal-and-an-ide)
+1. [Add your info on GitLab.com using the Web IDE](/handbook/git-page-update/#method-1-add-your-info-on-gitlabcom-using-web-ide)
+1. [Add your info on GitLab.com using the 'web interface'](/handbook/git-page-update/#method-2-add-your-info-on-gitlabcom-using-the-web-interface)
+1. [Add your info using a Local Git clone (using the terminal and an IDE)](/handbook/git-page-update/#method-3-add-your-info-using-a-local-git-clone-using-the-terminal-and-an-ide)
 
 Choose the method below that feels most comfortable and have the following information handy:
 
@@ -250,7 +250,7 @@ Choose the method below that feels most comfortable and have the following infor
 
 ### Method 1: Add your info on GitLab.com using Web IDE
 
-1. Go to the [Team page](https://about.gitlab.com/company/team/) and find yourself. Note: if you choose `No` in Workday for `Export Name/Location to Team Page?` you will have to find yourself by your job title instead of your name.
+1. Go to the [Team page](/handbook/company/team/) and find yourself. Note: if you choose `No` in Workday for `Export Name/Location to Team Page?` you will have to find yourself by your job title instead of your name.
 1. Click on the avatar above your name (or job title). A modal will open.
 1. In that modal, on the bottom, click `Edit this page`
 1. Our web editor will open with your team page entry opened.
@@ -284,14 +284,14 @@ Choose the method below that feels most comfortable and have the following infor
     - Consider adding `pronunciation` for your full name to help others to pronounce your name correctly (e.g. sid see-brandy for Sid Sijbrandij)
     - Add your Twitter and GitLab handles without the leading `@`
     - Ensure your list of `departments` is accurate. Use other team members' as a reference.
-    - Add your [`specialty`](https://about.gitlab.com/company/team/structure/#specialist)
-    - Add your [`expertise`](https://about.gitlab.com/company/team/structure/#expert)
+    - Add your [`specialty`](/handbook/company/team/structure/#specialist)
+    - Add your [`expertise`](/handbook/company/team/structure/#expert)
     - Add your own `story`. Use other team members' stories as a reference.
-    - If remote work has [changed your life](https://about.gitlab.com/company/culture/all-remote/people/) in a meaningful way, consider adding your own `remote_story`, using other team members' remote stories as a [reference](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/uploads/8161ceac4523a9f36244f9533960ccbd/remote-story-example.png)
+    - If remote work has [changed your life](/handbook/company/culture/all-remote/people/) in a meaningful way, consider adding your own `remote_story`, using other team members' remote stories as a [reference](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/uploads/8161ceac4523a9f36244f9533960ccbd/remote-story-example.png)
     - Update any data that was filled in but is incorrect
 
     **Important:** Do not use the `tab` character, and respect the spaces between lines to avoid breaking the page format. Referenced file names/extensions are case sensitive, and a file that is not found will cause a pipeline failure. The file should end with an empty newline or it will cause a pipeline failure.
-1. To upload your image, ensure that it is prepared according to the [Picture Requirements](https://about.gitlab.com/handbook/git-page-update/#12-add-yourself-to-the-team-page).
+1. To upload your image, ensure that it is prepared according to the [Picture Requirements](/handbook/git-page-update/#12-add-yourself-to-the-team-page).
     1. Navigate to find the `team` folder using the path `sites/uncategorized/source/images/team/`. To do this, you must first notice that you are in a file that is within the `person` folder, which is within the `team_members` folder, which is within the `data` folder. You can close folders by clicking on the ⋁ to the left of the folder name. Once you have closed the `data` folder, you will see the `sites` folder 6 folders down. Open `sites` by clicking the >, then `uncategorized`, then `source`, then `images`, and finally `team`.
     1. Right click on `team` and choose `Upload`.
     1. Select the image you want to upload and Open.
@@ -358,7 +358,7 @@ Choose the method below that feels most comfortable and have the following infor
 
 ### Add your pet(s) to the Team Pets Page
 
-Using what you learned in the [steps above](/handbook/git-page-update/#12-add-yourself-to-the-team-page), consider adding your pet(s) to the [Team Pets page](/company/team-pets/). You can follow these instructions to add them via the Web IDE.
+Using what you learned in the [steps above](/handbook/git-page-update/#12-add-yourself-to-the-team-page), consider adding your pet(s) to the [Team Pets page](/handbook/company/team-pets/). You can follow these instructions to add them via the Web IDE.
 
 1. Again, find the picture that you'd like to add to the team pets page, and update the picture's name to the following format: `petname.jpg` or `petname.png`. Ensure the picture size is around 400x400 (*it must be square*, see [picture requirements](#picture-requirements)).
 1. Go to the [GitLab.com / www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/) project.
@@ -399,7 +399,7 @@ The Web Integrated Development Environment (IDE) is used to make changes within 
 
 ### Using Visual Studio Code
 
-You can edit the handbook using [Visual Studio Code](https://code.visualstudio.com/download) along with the [GitLab Workflow extension for VS Code](https://docs.gitlab.com/ee/user/project/repository/vscode.html). Instructions for this method are on the [Practical Handbook Edits page](https://about.gitlab.com/handbook/practical-handbook-edits/#using-visual-studio-code). This method is helpful for bulk find and replace changes such as replacing a URL/link.
+You can edit the handbook using [Visual Studio Code](https://code.visualstudio.com/download) along with the [GitLab Workflow extension for VS Code](https://docs.gitlab.com/ee/user/project/repository/vscode.html). Instructions for this method are on the [Practical Handbook Edits page](/handbook/practical-handbook-edits/#using-visual-studio-code). This method is helpful for bulk find and replace changes such as replacing a URL/link.
 
 ### Locally, using the terminal
 

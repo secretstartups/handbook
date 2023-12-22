@@ -4,7 +4,7 @@ title: Organizational Change Management
 
 ## Introduction
 
-GitLab is growing fast and we have been ranked as one of the [fastest-growing private software companies](https://about.gitlab.com/blog/2018/08/16/gitlab-ranked-44-on-inc-5000-list/). Headcount has nearly doubled in the last year and we have plans to [continue to grow](https://about.gitlab.com/company/strategy/). As we scale, there will be more and more changes to how we operate as an organization. New technology will be introduced to make us more efficient, new processes will be introduced to improve transparency, functional groups will be redesigned and adjusted to meet our growing headcount and strategic objectives, job families will change and policies in the handbook will be altered that have a big impact on how we operate.
+GitLab is growing fast and we have been ranked as one of the [fastest-growing private software companies](https://about.gitlab.com/blog/2018/08/16/gitlab-ranked-44-on-inc-5000-list/). Headcount has nearly doubled in the last year and we have plans to [continue to grow](/handbook/company/strategy/). As we scale, there will be more and more changes to how we operate as an organization. New technology will be introduced to make us more efficient, new processes will be introduced to improve transparency, functional groups will be redesigned and adjusted to meet our growing headcount and strategic objectives, job families will change and policies in the handbook will be altered that have a big impact on how we operate.
 
 As we evolve, there is a need to implement organizational change management (OCM) processes and methodologies to ensure impacted team members are enabled with the knowledge, leadership, coaching, and training they need to adapt successfully. This handbook page will walk through a step-by-step approach to OCM within GitLab. People leaders and individual contributors can use this page when structuring an organizational change management process and campaign.
 
@@ -125,7 +125,7 @@ GitLab Learner Experience - 70-20-10 Training approach:
 
 ### Step 6 - Measure and adopt the change
 
-The ultimate purpose of the OCM process is to get team members to adopt the change and implement it in their day-to-day role. To ensure this, it is important to focus on user adoption and measure it regularly so we can adjust the communications and training approach. [Apply iteration](https://about.gitlab.com/handbook/engineering/workflow/iteration/) to the change by consistently looking for new ways to roll out programs more [efficiently](https://about.gitlab.com/handbook/engineering/workflow/iteration/).  If appropriate, consider opening an issue to allow for team members to provide feedback which will inform future iterations.
+The ultimate purpose of the OCM process is to get team members to adopt the change and implement it in their day-to-day role. To ensure this, it is important to focus on user adoption and measure it regularly so we can adjust the communications and training approach. [Apply iteration](/handbook/engineering/workflow/iteration/) to the change by consistently looking for new ways to roll out programs more [efficiently](/handbook/engineering/workflow/iteration/).  If appropriate, consider opening an issue to allow for team members to provide feedback which will inform future iterations.
 
 To drive the adoption and usage of new changes, it is essential to provide proper metrics and measurement tools. A successful adoption helps in mitigating the organizational challenges and realizing business benefits to ensure better ROI and a successful sustained transformation.
 
@@ -145,7 +145,7 @@ To prepare for GitLab transformations/changes, first, define the goal of the org
 
 OCM doesn’t stop once you’ve successfully executed the transition. Both throughout and following the OCM process, you need to continuously assess outcomes, measure data, train employees on new methodologies and business practices, and readjust goals as necessary to increase adoption.
 
-Please contact the [Learning & Development team](https://about.gitlab.com/handbook/people-group/learning-and-development/) if you would like more of an understanding of OCM and how to apply the methodology to a change/transformation at GitLab!
+Please contact the [Learning & Development team](/handbook/people-group/learning-and-development/) if you would like more of an understanding of OCM and how to apply the methodology to a change/transformation at GitLab!
 
 ## Additional Resources on Organizational Change Management
 
