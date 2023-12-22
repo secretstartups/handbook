@@ -1,5 +1,4 @@
 ---
-layout: markdown_page
 title: "GitLab Glossary"
 ---
 
