@@ -23,11 +23,13 @@ For any questions relating to benefits, please reach out to [Total Rewards](/han
 
 These principles will guide our benefit strategies and decisions.
 
-
-| Strategy              | Guiding Principles | 
+| **Strategy**              | **Guiding Principles** | 
 |--------------------------|:------------:|
-| - Given Benefits vary by country, we do not offer the same benefits globally, instead we take a **country specific approach.** We will transparently outline why we do or do not offer benefits. <br> - Country specific appraoch based on **statutory requirements, entity status, headcount, and market practice** <br> -To provide **equitable programs** for team members within the **same country location** when possible. <br> - To continuously improve the **team member experience**      | - **CREDIT**: Collaboration, Results, Efficiency, Diversity, Inclusion & Belonging, Transparency  <br> - Globally aligned benefits with **local relevance** <br> Ensure **statutory programs** are in place in each country <br> Provide **core** medical, life, and pension benefits either through supplementary or statutory plans <br> Create new programs/enhancement with *broad reach, high value, and sustainability**       |
-
+| Given Benefits vary by country, we do not offer the same benefits globally, instead we take a **country specific approach.** We will transparently outline why we do or do not offer benefits.         | - **CREDIT**: Collaboration, Results, Efficiency, Diversity, Inclusion & Belonging, Transparency            | 
+| Country specific appraoch based on **statutory requirements, entity status, headcount, and market practice**    | - Globally aligned benefits with **local relevance**         | 
+| To provide **equitable programs** for team members within the **same country location** when possible. | Ensure **statutory programs** are in place in each country        | 
+| To continuously improve the **team member experience**                    | Provide **core** medical, life, and pension benefits either through supplementary or statutory plans     | 
+|          | Create new programs/enhancement with *broad reach, high value, and sustainability** |
 
 ### Collaboration
 
@@ -67,23 +69,23 @@ We value opinions but ultimately Total Rewards/Leadership will make the decision
 
 The Total Rewards team reviews GitLab’s global benefits on an annual basis and proposes changes for the next Fiscal Year. The Planning Process is as follows:
 
-1. Team Member Feedback: 
+#### 1. Team Member Feedback: 
 - In Q2, Total Rewards review  team member feedback via the Engagement Survey Results and assess  sentiments and gaps within the plans
-1. Market Data Collection:
+#### 2. Market Data Collection:
 - In Q2 & Q3,Total Rewards engages with the benefits broker to collect market data and benchmark benefit plans against other hi-tech employers. 
 Benchmarking Data is the broker’s proprietary information that GitLab purchases. While some high-level benchmarking information can be shared with team members, most details cannot be disclosed outside of the People Team. 
-1. Fiscal Year Planning
+#### 3. Fiscal Year Planning
 - In Q3, Total Rewards drafts a Fiscal Year proposal of suggested enhancements and will prioritize based on market practice, statutory regulations, PEO or headcount restrictions and budget.  
-1. Multinational Pooling Review
+#### 4. Multinational Pooling Review
 - In Q3, Total Rewards will also review the possibility of pooling global plans on an annual basis with our brokers in order to leverage a larger headcount during plan proposals. 
 Multinational pooling merges several employee benefit programs to create an international pool of funds. 
 The decision to participate in a pooling plan will be based on financial savings, plan options, and better risk control.
-1. Plan Approval
+#### 5. Plan Approval
 - In Q3/Q4, Total Rewards will present the plan to the Finance and Leadership Teams for approval. These proposals will be reviewed and approved along with the greater company budget for the upcoming fiscal year.  
-1. People Team & Team Member Issues
+#### 6. People Team & Team Member Issues
 - Total Rewards will open People Team issues to inform Stakeholders (payroll, legal, finance, tax, etc.) and track the progress of the enhancement.
 For major plan enhancements, the Total Rewards team will create a Team Member issue with plan details to get plan specific feedback. While Team Member feedback will be considered as a strong data point, a decision will be made by the Total Rewards team considering all factors (benchmarking, budget, administration, etc).  The Total Rewards team may not create an issue if the change or enhancement is a ‘smaller’ change (i.e. change in deductible amounts, increase in contributions, etc).
-1. Announce Enhancements 
+#### 7. Announce Enhancements 
 - Total Rewards will announce the Country Enhancements directly to team members via email and slack, and will update the Handbook Benefit page with these details.
 
 ### Guiding Principles in Practice
