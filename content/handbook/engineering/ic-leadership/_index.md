@@ -64,24 +64,27 @@ Much of what each engineer said overlapped, but each had a unique perspective ba
 
 There are [four common archetypes of Staff-plus roles in the industry](https://staffeng.com/guides/staff-archetypes) that could explain this variability their perspective:
 
-* The **Tech Lead** guides the approach and execution of a particular team. Most frequently they partner closely with a single manager, but sometimes they partner with two or three managers within a focused area.
+* The **Tech Lead** guides the approach and execution of a particular project. Most frequently they partner closely with a single manager, but sometimes they partner with two or three managers within a focused area. At GitLab, Tech Lead is not only an archetype, but it is also a [role](/handbook/engineering/ic-leadership/tech-lead)
 * The **Architect** is responsible for the direction, quality and approach within a critical area, both today and stretching into the multi-year future horizon. They combine a deep knowledge of technical constraints, user needs, and organization level leadership.
 * The **Solver** digs deep into arbitrarily complex problems and finds an appropriate path forward. Some focus on a given area for long periods, others bounce from hotspot to hotspot as guided by organizational leadership.
 * The **Right Hand** is a partner and an extension of an executive-level manager, borrowing their scope and authority to operate particularly complex organizations. They provide additional leadership bandwidth to leaders of large-scale organizations.
 
 ### The four archetypes at GitLab
 
-**The four archetypes are not roles**, and we don't map our Staff+ ICs to them. Still, they provide a framework for matching market titles and responsibilities. They also explain the presence of multiple Staff+ in a single team.
-
-We expect our Staff+ ICs to exhibit behavior from all the archetypes. The individual inclination will usually make one (or more) of them more prominent, but they all define Engineering IC Leaders.
+**The four archetypes are patterns of behavior**. We expect our Staff+ ICs to exhibit behavior from all the archetypes. The individual inclination will usually make one (or more) of them more prominent, but they all define Engineering IC Leaders.
 
 #### Tech Lead
 
-The most common archetype for a new Staff Engineer is the Tech Lead, as a Senior Engineer may start showing Staff level behaviors emerging from their team. 
+The most common archetype for a new Staff Engineer is the Tech Lead, as a
+Senior Engineer may start showing Staff level behaviors emerging from their
+team. At GitLab, this is not only an archetype but also a role assigned to
+engineers on per-project basis. Read more about this on a dedicated [Tech Lead
+Handbook page](/handbook/engineering/ic-leadership/tech-lead).
 
-A Staff Engineer partners with the Engineering Manager and the Product Manager for milestone planning and helps teammates address complexity with their deliverables.
-
-This also applies on levels above Staff+, partnering with their peers in Management and Product.
+A Staff Engineer partners with the Engineering Manager and the Product Manager
+for milestone planning and helps teammates address complexity with their
+deliverables. This also applies on levels above Staff+, partnering with their
+peers in Management and Product.
 
 #### Architect
 
