@@ -105,7 +105,6 @@ description: "Weekly Project Plan for converting the primary keys to bigint - Pi
   - [~] p_ci_builds.upstream_pipeline_id
   - [~] p_ci_builds.commit_id
 
-</details>
 
 ## Milestone 16.5 (September 18, 2023 - October 16, 2023)
 
@@ -240,6 +239,9 @@ We will continue to create the necessary MRs for updating the indexes
     - [ ] ci_pipeline_messages.pipeline_id
     - [x] ci_sources_pipelines.pipeline_id
     - [x] ci_sources_pipelines.source_pipeline_id
+
+
+</details>
 
 ### Milestone 16.8 (December 11, 2023 - January 12, 2024)
 
