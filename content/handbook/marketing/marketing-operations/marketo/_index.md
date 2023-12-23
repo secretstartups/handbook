@@ -18,10 +18,10 @@ When any lead/contact is created in SFDC, it will automatically sync and create 
 Alternatively, Marketo does not automatically push all records to SFDC and a deleted record in Marketo will not delete in SFDC unless specifically told to.
 
 A lead will sync from Marketo to SFDC in these scenarios:
-
 1. Member of Program that is synced to SFDC
 1. When a person reaches `Inquiry` status
-1. When they reach `MQL` status and reach 100 points
+1. When they reach `MQL` status
+1. When their `PTP` score is a `4` or `5`
 1. Specifically told to sync via a flow step `Sync to SFDC`
 
 Data is shared between the two via the Marketo User Permission Set with either `Read` or `Read/Write` permissons. Accounts fields by default are `Read Only`. Here are quick links to review them:
@@ -82,7 +82,7 @@ Sales Systems refreshes the [SFDC staging environment](/handbook/sales/field-ope
 
 ## Forms
 
-Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded forms. Marketing Operations is responsible for maintaining existing forms and creating any new forms. If you need a new form created, please open a [form creation issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request).
+Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded forms. Marketing Operations is responsible for maintaining existing forms and creating any new forms. If you need a new form created, please open a [form creation issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request). If you are using an existing form on a NEW page, please enter a request so that we can build the automation behind the form. If there is no automation created for the form, the person filling out the form will enter Marketo, but will not be processed into a campaign or sent into follow up.
 
 Form documentation can be found [here](https://docs.google.com/spreadsheets/d/1cV_hI2wAzLxYYDI-NQYF5-FDDPXPXH0VV5qRBUJAQQk). It contains all of our current forms, as well as standardized country and state picklists.
 
@@ -101,8 +101,8 @@ All forms should follow these guidelines:
 - Generally `City` is only visible when `Country` = `Ukraine`
 - Forms should all contain a checkbox to obtain consent to `opting in` to communications via email
 - When `Country` = `Ukraine` there is an additional checkbox for the submitter to confirm they do not belong to the Crimean region of the Ukraine
-- Country should not include [embargoed countries]/handbook/legal/trade-compliance/)
-- All forms should have hidden fields for Demandbase, gclid and google analytics tracking
+- Country should not include [embargoed countries](/handbook/legal/trade-compliance/)
+- All forms should have hidden fields for `gclid` and google analytics tracking
 
 If you are collecting home addresses for direct mail campaigns, you must include the following language on the landing page or form. Additionally, you must set up a deletion campaign in Marketo to remove their address information once you have sent the item. Please also ensure the vendor we are using to ship the items also deletes this from their records. `By giving us your home address, you are giving us permission to mail items to your home. We will not use this data for any other purposes.`
 
@@ -143,8 +143,8 @@ Starting in November 2022, teams within Marketo will transition to utilizing the
 Data and engineering teams have developed integrations to bring data related to in-product customer and trial usage to Marketo.
 
 1. [Marketing Contact Datamart & Pump](https://internal.gitlab.com/marketing-operations/product-data/#marketing-datamart-pump-and-pql-information-email-marketing-data-mart): Fields start with `[CDB]`
-1. [SaaS Trial & Handshakes](https://internal.gitlab.com/marketing-operations/product-data/#saas-trials--handraise) : Fields start with `[PQL]`
-1. [Propensity to Buy Models](/handbook/business-technology/data-team/organization/data-science/#conversion): Fields start with [PTPT] - Trial users only at the moment
+1. [SaaS Trial & Handshakes](https://internal.gitlab.com/marketing-operations/product-data/#saas-trials--handraise): Fields start with `[PQL]`
+1. [Propensity to Buy Models](/handbook/business-technology/data-team/organization/data-science/#conversion): Fields start with `[PTP] - Trial users only at the moment
 
 ### Campaign Limits
 
@@ -170,7 +170,7 @@ For a visual overview, please use this [slide](https://docs.google.com/presentat
 
 ### Re-MQL
 
-For additional information, visit the lead lifecycle page](/handbook/marketing/marketing-operations/lead-lifecycle/#lead-lifecycle).
+For additional information, visit the [lead lifecycle page](/handbook/marketing/marketing-operations/lead-lifecycle/#lead-lifecycle).
 
 A Lead/Contact will be allowed to re-MQL if they are in a `Recycle` status and reach the [MQL threshold](/handbook/marketing/marketing-operations/) again.
 
@@ -194,7 +194,7 @@ Some leads are exluded from scoring if they:
 
 - Have a `@gitlab.com` email address
 - Are a competitor
-- Status = `Disqualified` or `Bad Data`
+- Status = `Disqualified` or `Ineligible`
 - Company name of `student`, `personal`, `test` and similar
 - Actively worked by a partner (`Prospect Share Status` = `Sending to Partner`, `Accepted`, or `Pending`)
 
@@ -205,7 +205,7 @@ Based on certain criteria, a lead may auto-MQL. The scenarios are listed below:
 - Self-Managed Trial + Business email domain
 - SaaS Trial - Signed Up + Business email domain
 - SaaS Trial Signed Up + `Setup for Company/Use = TRUE`
-- `Contact Us`, `Professional Services` or `Renewal` forms
+- `Contact Us`, `Duo / Code suggestions` `Professional Services` or `Renewal` forms
 - [Handraise PQL](/handbook/product/product-principles/#a-pql-can-be-further-broken-down-into-two-types-usage-and-hand-raise)
 - In-app Health Check form
 - Program status of `Follow Up Requested`
@@ -228,7 +228,7 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |* Survey - Med|(None Defined)    |+30|    {{my.Survey - Med}}        |Trigger|Everytime|
 |* Survey - Low|Googleforms, <br> Default    |+15|    {{my.Survey - Low}}        |Trigger|Everytime|
 |* PathFactory |Consumes PF content|+10|{{my.Content - High}}|Trigger|Everytime|
-|* Inbound  - High|Contact Request, <br> Renewals, <br> [Hand Raise PQL](/handbook/product/product-principles/#a-pql-can-be-further-broken-down-into-two-types-usage-and-hand-raise) <br> In-app Health Check|    +100|{{my.Inbound - High}}|    Trigger|    1/day    |
+|* Inbound  - High|Contact Request, <br> Renewals, <br> [Hand Raise PQL](/handbook/product/product-principles/#a-pql-can-be-further-broken-down-into-two-types-usage-and-hand-raise) <br> In-app Health Check <br> Duo|    +100|{{my.Inbound - High}}|    Trigger|    1/day    |
 |* Inbound - Med|Inbound form, not above |    +60|{{my.Inbound - Med}}    |    Trigger    |1/day|
 |Drift - High| Drift Interactions with Meeting Scheduled|+100|{{my.Drift - High}}|Trigger|1/day|
 |Drift - Low|All other Drift Interactions|+10|{{my.Drift - Low}}|Trigger|1/day|
@@ -275,7 +275,7 @@ For Job role/function and seniority descriptions can be found [here](https://doc
 |Seniority - Med|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|    +15    |{{my.Seniority - Med}}    |    Trigger on creation or Update to Title|    Once|
 |Seniority - Low|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|    +15    |{{my.Seniority - Low}}    |    Trigger on creation or Update to Title|    Once|
 |Seniority - Negative|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|    -10    |{{my.Seniority - Negative}}|    Trigger on creation or Update to Title|    Once|
-|Function - High|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|    +20    |{my.Function - High}}|    Trigger on creation or Update to Title|    Once|
+|Function - High|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|    +20    |{{my.Function - High}}|    Trigger on creation or Update to Title|    Once|
 |Function - Med|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|+15|    {{my.Function - Med}}|    Trigger on creation or Update to Title|    Once|
 |Function - Low|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|    +10|    {{my.Function - Low}}    |    Trigger on creation or Update to Title|    Once|
 |Function - Negative|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|    -20    |{{my.Function - Negative}}        |Trigger on creation or Update to Title|    Once|
