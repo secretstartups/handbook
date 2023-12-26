@@ -38,6 +38,15 @@ title: Learning & Development
 1. **Diverse approaches to learning.** We apply a blended learning model to find solutions to various individual needs.
 1. **Community.** L&D offerings available to the public so that everyone can contribute.
 
+## Learning & Development Team
+
+We are a small team, but we've got a big role to play at GitLab!
+
+- [Learning and Development Director]({{< ref "/job-families/people-group/learning-development#learning--development-manager" >}}): [Tre Ely]({{/handbook.gitlab.com/handbook/company/team/#tely2}})
+- [Senior Learning and Development Program Manager]({{< ref "/job-families/people-group/learning-development#intermediate-learning--development-program-manager" >}}): [Samantha Lee](/handbook/company/team/#slee24)
+- [Learning and Development Program Manager]({{< ref "/job-families/people-group/learning-development#intermediate-learning--development-program-manager" >}}): [Jamie Allen](/handbook/company/team/#jallen16)
+- [Learning and Development Program Manager]({{< ref "/job-families/people-group/learning-development#intermediate-learning--development-program-manager" >}}): [Kalyani Yerraguntla](/handbook/company/team/#kyerraguntla)
+
 ## Team Member Resources
 
 The Learning & Development team has a number of resources to help team members learn new skills. Click the button(s) below to learn more about each one:
@@ -94,14 +103,7 @@ Multiple teams across the company contribute to learning and development of our 
 
 
 
-## Learning & Development Team
 
-We are a small team, but we've got a big role to play at GitLab!
-
-- [Learning and Development Director]({{< ref "/job-families/people-group/learning-development#learning--development-manager" >}}): [Tre Ely]({{/handbook.gitlab.com/handbook/company/team/#tely2}})
-- [Senior Learning and Development Program Manager]({{< ref "/job-families/people-group/learning-development#intermediate-learning--development-program-manager" >}}): [Samantha Lee](/handbook/company/team/#slee24)
-- [Learning and Development Program Manager]({{< ref "/job-families/people-group/learning-development#intermediate-learning--development-program-manager" >}}): [Jamie Allen](/handbook/company/team/#jallen16)
-- [Learning and Development Program Manager]({{< ref "/job-families/people-group/learning-development#intermediate-learning--development-program-manager" >}}): [Kalyani Yerraguntla](/handbook/company/team/#kyerraguntla)
 
 ## Contact Us
 
@@ -132,7 +134,7 @@ All material in the handbook is considered training and we build [handbook first
 | Meeting Type | Cadence/Time | Description |
 | ------ | ------ | ------ |
 | 1:1 | Weekly meeting/40-45 minutes | <br> - 1:1 meeting between direct report and manager of L&D team. <br> - Topics covered include: task management, career development, performance management, blockers, project updates, brainstorming, coaching, etc. <br> - During the meeting, if their is an item that requires broader team collaboration it will be added to the bi-weekly team meeting. |
-| L&D Team Meeting | Weekly meeting/40 minutes | <br> - Strategic items that have been brought up during 1:1 meetings that impact the team as a whole. <br> - The meetings will cover items that are strategic in nature that require discussion, brainstorming, collaboration, and synthesis with the team |
+| L&D Team Meeting | Weekly meeting/25 minutes | <br> - Strategic items that have been brought up during 1:1 meetings that impact the team as a whole. <br> - The meetings will cover items that are strategic in nature that require discussion, brainstorming, collaboration, and synthesis with the team |
 | L&D Quarterly Strategic Meeting | Quarterly/90 minutes to 2 hours | <br> - Review what was acheived in the quarter, what wasn't, and lessons learned <br> - Team members will present plans on what they are focused on for the next quarter <br> - Review team morale, team dynamics, learner satisfaction, long term impact, and alignment with Peope Group goals. |
 
 ### L&D team sprints
@@ -177,7 +179,6 @@ The L&D team freqently uses the following tools for creating and communicating l
 | ----- | -------- |
 | [Powtoon](https://www.powtoon.com/) | Video Creation |
 | [LucidChart](https://www.lucidchart.com/) | Interactive Diagrams |
-| [Loom](https://www.loom.com/home) | Screen recordings |
 | [Canva](https://www.canva.com/) | Image and infographic creation |
 | [Articulate/Rise 360](https://articulate.com/) | Course Authoring |
 | [Genial.ly](https://app.genial.ly/dashboard) | Create Interactive Images |
