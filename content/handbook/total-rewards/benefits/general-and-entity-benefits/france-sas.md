@@ -99,7 +99,7 @@ After the 6th month of sick leave team members have to satisfy the following con
 
 ### Sick Leave Pay
 
-The daily allowance is equal to 50% of the daily basic wage.  The gross reference wage is limited to €2,885.61 gross per month. Therefore, the daily allowance paid cannot exceed €47.43.
+The daily allowance is equal to 50% of the daily basic wage.  The gross reference wage is limited to €3,076.70 gross per month. Therefore, the daily allowance paid cannot exceed €50.58 (check [sick time policies and procedures in France](https://ec.europa.eu/social/main.jsp?catId=1110&langId=en&intPageId=4535) webpage for latest up-to-date information).
 
 GitLab's Sick Time policy will run concurrently with this benefit for the first 25 working days, "topping up" the team members salary to 100%.  After that, the sick leave will become unpaid by GitLab.
 
