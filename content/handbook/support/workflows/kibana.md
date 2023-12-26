@@ -192,11 +192,18 @@ In the `pubsub-rails-inf-gprd-*` log:
 
 1. Set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
 1. Add a positive filter on `json.path` for:
-  - `/api/scim/v2/groups/<group name>` when looking at the SCIM requests for a whole group. This path can also be found in the group's SAML settings.
-  - `/api/scim/v2/groups/<group name>/Users/<user's SCIM identifier>` when looking at the SCIM requests for a particular user.
+   - `/api/scim/v2/groups/<group name>` when looking at the SCIM requests for a whole group. This path can also be found in the group's SAML settings.
+   - `/api/scim/v2/groups/<group name>/Users/<user's SCIM identifier>` when looking at the SCIM requests for a particular user.
 1. Add a positive filter on `json.methhod` for `POST` or `PATCH` (first time provisioning or update/de-provisioning respectivley).
-
 1. Check `json.params.value` for information.
+
+In cases where the SCIM provisioned account is deleted:
+
+1. Follow the above steps and get the `correlation_id` from the provisioning record with `POST` as `json.method`.
+1. Go to the [Correlation Dashboard](#correlation-dashboard) and search for the relevant `correlation_id`.
+1. In the results, look for records in the `Correlation Dashboard - Web` section, and an entry with `elasticsearch` as `json.subcomponent`. In that entry, find the `user_id` in `json.tracked_items_encoded` in the format of `[[numbers,"User <user_id> user_<user_id>"]]`.
+
+If the user was deleted due to an unconfirmed email, you can use the deleted `user_id` as a value for `json.args.keyword` when searching `pubsub-sidekiq-inf-gprd*`. The results should show an entry with `json.class` `DeleteUserWorker`.
 
 #### Searching for Deleted Container Registry tags
 
