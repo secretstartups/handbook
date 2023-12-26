@@ -92,13 +92,7 @@ Multiple teams across the company contribute to learning and development of our 
 1. People Operations: Measuring imapct of learning and development on team member engagement
 1. Select Department Subject Matter Experts: Legal, Compliance, and other specific courses
 
-## GitLab Learning Strategy & Roadmap
 
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS60qIAFhoF3saPi4642GBzYl8lP_DvOCNJc998r0oskitOkhadAHLHlRQxNg976H_LOrdg30HJ5eEG/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
-
-**Learn more about our [FY23 Roadmap](https://docs.google.com/presentation/d/1ExMwnZA1zUphJdrdTKMLEFE7hmXh54Wt7JgQqhsemlk/edit#slide=id.g123a13deda8_0_405)**.
 
 ## Learning & Development Team
 
