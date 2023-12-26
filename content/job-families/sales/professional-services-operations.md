@@ -159,6 +159,51 @@ This role will provide business operations support for the Professional Services
 - Strong experience with the entire Google suite as well as Microsoft Excel including pivot tables, analyzing and formatting data, use of filters, and creating charts and graphs
 - Excellent communication and presentation skills
 
+### PS Operations Program Manager
+
+#### Professional Services Program Manager Job Grade
+
+The Professional Services Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). 
+
+#### Responsibilities
+
+- All of the responsibilities of a Professional Services Project Coordinator, plus the following:
+- Act as a SME (subject matter expert) by providing mentorship and guidance to Project Coordinators
+- Oversee the administrative processes and identify and implement improvements to the processes and tools used by Project Coordinators in support of internal and external training customers
+- Review Pre-Sales customer order pipeline and assign projects to team members.
+- Oversee the customer training resource management to ensure that the Professional Services team meets quarterly revenue forecast targets and GitLab instructors meet billable utilization targets.
+- Manage special projects and OKRs as requested by PS Leaders.
+
+#### Requirements
+
+- All of the requirements of a Professional Services Project Coordinator,plus the following:
+- Ability to execute multiple complex tasks simultaneously.
+- Previous experience with resource management
+- Previous experience with establishing new processes and methodologies
+
+## Specialties
+
+### Training
+
+- Extends the Professional Services Project Coordinator Training Speciity responsibilities provide administrative, technical and event coordination for remote and onsite training programs, webinars, on-demand videos, and Customer training,
+- Oversee the customer training resource management to ensure that the Professional Services team meets quarterly revenue forecast targets and GitLab instructors meet billable utilization targets.
+- Oversee Training forecast accuracy by 5%
+- SME in LMS System
+
+### Consulting
+WIP
+
+## Performance Indicator
+
+- [CSAT](https://about.gitlab.com/handbook/support/support-ops/#customer-satisfaction-survey-csat ) >8.0/10
+- [Project Margin](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#long-term-profitability-targets ) > 20% for assigned projects
+- Successfully manage the quarterly Education Services revenue forecast within a 5% margin
+
+## Career Ladder
+
+- The next steps for individual contributors is to move into:
+    - PS Operations Manager
+
 ### Manager, Professional Services Operations
 
 The Manager, Professional Services Operations reports to Sr. Director, Professional Services
