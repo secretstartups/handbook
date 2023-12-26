@@ -1,5 +1,5 @@
 ---
-title: GitLab 201 Tool
+title: GitLab 201
 ---
 
 Welcome to GitLab 201. This is a self-paced course consisting of reading material, video tutorials and knowledge assessments at the end of each lesson. To become complete GitLab 201, participants will have to pass all 3 lessons with at least 80%. We recommend that courses are completed and passed in order.
