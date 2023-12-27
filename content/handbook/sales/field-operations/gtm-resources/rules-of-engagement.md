@@ -16,7 +16,7 @@ description: "Rules of Engagement"
 
 ### Objectives
 
-The purpose of this page is to provide clear guidelines around GitLab's FY24 GTM Rules of Engagement in the following areas:
+The purpose of this page is to provide clear guidelines around GitLab's FY25 GTM Rules of Engagement in the following areas:
 
 1. Account Ownership
 2. Opportunity Ownership
@@ -58,65 +58,70 @@ The data sources used to properly segment and route an account are defined and e
 
 #### Qualifying Accounts
 
-- SAEs/AEs are responsible for validating accounts assigned to them in SFDC are accurately segmented. A reasonable effort should be made to check employee count, Account hierarchy, and Headquarters location.
+- Account Executives (AE) are responsible for validating that accounts assigned to them in SFDC are accurately segmented. A reasonable effort should be made to check employee count, Account hierarchy, and Headquarters location.
 
 
 
 #### Account Ownership:
 
-Only active Field Sales (AE/SAE) members can own accounts.  The exceptions to this rule include:
+Only active Field Sales (AE and Partner Manager) members can own accounts.  The exceptions to this rule include:
 1. Field Sales Management temporarily covering an account
-1. Sales Admin - ownership is temporary while our data enrichment tools determine the correct Sales member
+     - Field Sales Management cannot own an account for more than 30 days.  After 30 days, they must transfer the account and associated open opportunities to an active AE for temporary ownership. Exceptions to extend Field Sales Management ownership of an account beyond 30 days must be approved by his/her Sales VP and the Sr. Director of GTM Planning & Operations. 
+1. Sales Admin, PubSec Queue or Impartner Integration - ownership is temporary while our data enrichment tools or manual review by Sales Operations determine the correct Sales member
 1. Non-Sales members who own "test" or "junk" accounts
 
-Account ownership will be determined by the Sales Segment and Address.  All children accounts in a hierarchy will be owned by the Global Account Owner of the Corporate Hierarchy regardless of physical location unless the child account has been marked as `Major Account`, `Named Account`, `Holdover` or `Holding Company`.
+Account ownership will be determined by the Sales Segment and Address of the Ultimate Parent Account.  All children accounts in a hierarchy will be owned by the Global Account Owner of the Corporate Hierarchy regardless of physical location unless the child account has been identified as a Major Account, Named Account, India Capability Center, part of a split Hierarchy/locally managed or Holding Company 
 
-**The following two policies apply to account ownership in the middle of the Fiscal year:**
 
-1. **Feb 1st Confirmed Segment** applies to when an Account is accurately aligned to the correct segment and owner at the beginning of the year based on employee count. During the year, if there is an increase or decrease to employee count, the Account will NOT be moved to a new segment or owner until the subsequent year.
-    - Upon discovery of inaccurate data (examples: bad data, wrong parent account) resulting in incorrect assignment, the SAE/AE is to partner with Sales Support to immediately transfer the Account and open or improperly closed won opportunities (Closed in the last 90 days)  ownership to the correct SAE/AE.
+### Intra Year Account Ownership Policy
+**The following policy applies to account ownership in the middle of the Fiscal year:**
 
-    **When does this policy apply?**
+1. **Feb 1st Confirmed Segment** applies to when an Account is accurately aligned to the correct segment and owner at the beginning of the fiscal year based on employee count. During the year, if there is an increase or decrease to employee count, the Account will NOT be moved to a new segment or owner until the subsequent year.
+    1.  Accounts that are eligible for immediate transfer include:
+        - Non-data enriched identified bad/inaccurate data (cases
+        - Mergers or Acquisitions
+        - Standalone child accounts
+        - Public Sector or SAFE visibility concerns
+        - Territory re-carves
+        - JiHu accounts
+    2. Upon Sales' discovery of inaccurate data, M&A activity or standalone child accounts resulting in incorrect assignment, the **AE must obtain agreement from all impacted ASMs** before partnering with Sales Support to immediately transfer the Account and open opportunities to the correct AE.
+    3. In the event an Account has been transferred due to one of the eligible scenarios above, Closed Opportunities that result in a churn or contraction within 90 days (prior or following) of an account transfer will remain with the existing Account Executive. Review of churn/contraction ownership must be raised by a member of the account team via chatter within the 90 day grace period for consideration.
+    4. Data Enrichment Corrections - in scenarios where one of our data enrichment providers identify inaccurate account data:
+         - The data will be corrected on the account but ownership will not reroute until the following fiscal year.
 
-    1. FY24 move if accounts were assigned based on inaccurate data.
-    2. FY25 move if organic growth warrants an Account to move segments/owners.
-    3. Applies to ENT Named and Major Accounts; Excludes MM Named Accounts.
 
-    **Use Case(s):**
-
-    1. Employee count data was inaccurate and the Account should align to a new segment, reassigned in FY24.
-    2. ZoomInfo enriched the Account and the employee count increased and now it aligns to the Enterprise segment. No change to account assignment in FY24, but it will be reassigned to the correct segment in FY25.
-    3. Data was accurate for the Feb 1st Confirmed Segment and the number of employees changes (up or down), and the Account is stale (no documented activity). The Account moves in FY25.
-
-2. **Stale Accounts Exception to Feb 1st Confirmed Segment** implies (i) when an Account's employee count deems it should move segments and there has been no SFDC activity records logged within the last 9 weeks, there's no open opportunity and/or close plan prior to a request from the receiving SAE/AE, the team should collaborate to move the Account immediately to the new owner. Activity is defined as bi-directional email exchange, phone calls; meetings (zoom or in-person),updated Command Plan, Next Steps, and Next Steps date.(ii) Stale Accounts with churn expected during the current FY, which is either known or should reasonably be known by the SAE/AE should remain with the existing SAE/AE through the end of the FY.
-
-    **When does this policy apply?**
-
-    1. If it is confirmed there has been no activity documented in SFDC in the last 9 weeks and no open opportunity, the team should collaborate and move the Account immediately in FY24.
-    2. If mutual agreement between the SAE/AE and a key individual in the Account (i.e. COO, CTO) is reached to re-engage at a later date and such agreement is documented in the Command Plan, the Account does not move.
-    3. Applies to Named or Major Accounts.
+     **When does this policy apply?**
+     1. FY25 move if accounts meet the criteria to move immediately
+     2. FY26 move if organic growth warrants an Account to move segments/owners.
+     3. Applies to ENT Named and Major Accounts; Excludes MM Named Accounts.
 
     **Use Case(s):**
 
-    1. Account Demographic data indicates the Account should move segments, and there is no documented activity on the Account, the Account moves in FY24.
+    1. Sales identifies that the employee count data was inaccurate and the Account should align to a new segment, reassigned in FY25.
+    2. ZoomInfo enriched the Account and the employee count increased and now it aligns to the Enterprise segment. No change to account assignment in FY25, but it will be reassigned to the correct segment in FY26.
+    3. Data was accurate for the Feb 1st Confirmed Segment and the number of employees changes (up or down), and the Account is stale (no documented activity). The Account moves in FY26.
 
 **Important Notes**
-- Non-compliance to these policies goes against the GitLab values and it will be up to the SAE or AE Leadership Team's discretion as to applicable disciplinary action.
-- If an Account is identified as incorrectly assigned to you, regardless of whether you know someone in the Account, the SAE/AE should not engage in any capacity and instead partner with Sales Support to immediately transfer the Account and open or improperly closed won opportunity ownership to the correct SAE/AE. The transferring SAE/AE is expected to take this action and actively communicate in a manner that optimizes the prospect/customer experience.
-- In the event a SAE/AE unknowingly engages with an Account that is not theirs, they should log SFDC activity and notify the correct Account owner. If there is no collaboration initiated with the correct Account owner, your actions will be reviewed by your segment and regional leadership team.
-- SAEs/AEs are not permitted to sell into accounts they do not own in SFDC.
+- Non-compliance to this policy goes against the GitLab values and it will be up to the AE Leadership Team's discretion as to applicable disciplinary action.
+- If an Account is identified as incorrectly assigned to you, regardless of whether you know someone in the Account, the AE should not engage in any capacity and instead partner with Sales Support to immediately transfer the Account and open or improperly closed won opportunity ownership to the correct AE. The transferring AE is expected to take this action and actively communicate in a manner that optimizes the prospect/customer experience.
+- In the event an AE unknowingly engages with an Account that is not theirs, they should log SFDC activity and notify the correct Account owner. If there is no collaboration initiated with the correct Account owner, your actions will be reviewed by your segment and regional leadership team.
+- AEs are not permitted to sell into accounts they do not own in SFDC.
 
 #### Parent/Child Segmentation:
 
-All Accounts in a hierarchy will adopt the MAX Segmentation of any account in the hierarchy. Expanded definitions and examples can be found in the handbook’s [Systems Terminology Definitions](/handbook/sales/sales-term-glossary/#parent-and-child-accounts).
+All Accounts in a hierarchy will adopt the MAX Segmentation of any account in the hierarchy. In other words, the sum of all of the employees within a hierarchy will be the total hierarchy employee count, of which the segment will be based off of. Expanded definitions and examples can be found in the handbook’s [Sales Terminology Definitions](https://internal.gitlab.com/handbook/sales/sales-glossary/#parent-and-child-accounts).
 
 #### Named Account
 
-An account that is owned by a Sales Rep with a headquarters outside of his or her designated geographical territory. Named accounts are identified by the Named Account Checkbox on the Account. Named Accounts are owned and worked by the designated Strategic Account Executive (SAE) or Account Executive (AE) along with all records (LEADS and CONTACTS) associated with that Named Account and any related Child accounts within or added to SFDC. Upon discovery of data inaccuracies in Named accounts, sales-support should be engaged to review the data and move the account, if applicable, following the February 1st Confirmed Segment and Stale Accounts Exception policies.
+An account that is owned by an AE with a headquarters outside of his or her designated geographical territory. Named accounts are identified by the Named Account Checkbox on the Account. Named Accounts are owned and worked by the designated AE along with all records (LEADS and CONTACTS) associated with that Named Account and any related Child accounts within or added to SFDC. Upon discovery of data inaccuracies in Named accounts, sales-support should be engaged to review the data and move the account, if applicable, following the February 1st Confirmed Segment policy.
 
 #### Major Account
 
-An account that is owned by a Major Account Executive, this account can be headquarters outside of his or her designated geographical territory. Major accounts will be reviewed annually to determine if any ownership changes are required. Upon discovery of data inaccuracies in Major accounts, sales-support should be engaged to review the data and move the account, if applicable, following the February 1st Confirmed Segment and Stale Accounts Exception policies.
+An account that is owned by a Major Account Executive, this account can be headquarters outside of his or her designated geographical territory. Major accounts will be reviewed annually to determine if any ownership changes are required. Upon discovery of data inaccuracies in Major accounts, sales-support should be engaged to review the data and move the account, if applicable, following the February 1st Confirmed Segment policy.
+
+#### Disqualified Account
+An account that is in the “disqualified” territory will be owned by Sales Ops Admin and excluded from Territory Planning. A disqualified account is defined as an account that our data enrichment providers have noted as being “out of business” and which we do not have any open opportunities with. Upon discovery of data inaccuracies in Disqualified Accounts, sales-support should be engaged to review the data and move the account, if applicable, following the February 1st Confirmed Segment policy.
+
 
 #### Public Sector Account:
 
@@ -135,16 +140,21 @@ An account that is owned by a local account rep regardless of the Global Account
 
 - **Considerations for transferring an account to a local rep:** If the decision-making power, end users, PO and Terms (or a majority combination) are confined to the child account, the Ultimate Parent owner should hand off the account to the appropriate territory owner as this would be in the best interests of the customer and for GitLab. Follow the Exception Process to request Account Ownership Change.
 
-#### Holdover Accounts:
-
-An account that is being held by a Sales Rep that has been promoted or moved to a new territory. Holdover accounts will be marked using the Holdover Expiration date field. An account rep can only have a holdover account for 90 days. Any account that needs to be held over longer must have manager approval from both the requestor's current manager and receiving manager of the account owner.
 
 #### Stand-alone Child Account:
 
-An account that clearly has their own buying authority and purchasing process.
-1. **Private Equity or Holding Company** - Accounts where the governing entity is a Private Equity firm or Holding Company will be considered standalone Accounts. As such, they will not be parented and will include the name of the holding company in the `Holding Company Name` field. Ownership & segmentation will be based on the individual account attributes and NOT the Holding Company or PE account attributes.
-2. **Joint Venture**:A business entity created by two or more parties, generally characterized by shared ownership, shall be considered as a stand-alone entity. As such, they will not be parented, and segmentation will be based on the employee count of this particular account.
-3. **Government Holding Entity - Child Accounts:**: Public Sector accounts are identified by the Public Sector Account Checkbox on the Account. Once identified, ownership would be determined by the country alignment below. The definition of a PubSec account is the same for United States Public Sector and Rest of World Public Sector.
+**Definition**: Standalone child accounts are generally defined as accounts that have their own buying authority and purchasing process.  Please see the account types below for specifics.
+
+**Salesforce Alignment**:  Standalone child accounts will not be parented.  Segmentation and ownership will be based on the Account Demographics of the standalone account.  Additionally, the corresponding number of employees of the standalone account will not count towards the HQ total employee count. 
+
+
+1. **Holding Company** 
+     - **Definition**:  Accounts where the governing entity is a Holding Company. A holding company is a business entity that doesn’t manufacture anything, sell any products or services, or conduct any other business operations. Rather, holding companies hold the controlling stock in other companies (subsidiaries) and often maintain only oversight capacities. So while it may oversee  management decisions, it does not actively participate in running  the day-to-day business operations of these subsidiaries.
+      - **Salesforce Alignment**: These accounts ey will not be parented and will include the name of the holding company in the `Holding Company Name` field. Ownership & segmentation will be based on the individual account attributes and NOT the Holding Company attributes.
+2. **Private Equity**: An investment management company that provides financial backing and makes investments in the private equity of startup or operating companies through a variety of loosely affiliated investment strategies including leveraged buyout, venture capital, and growth capital.
+3. **Joint Venture**: A business entity created by two or more parties, generally characterized by shared ownership, shared governance, and shared risks and returns.
+4. **Independent Franchise**: A business whereby the owner (Franchisor) licenses its operations to the Franchisee, along with its products, branding, and knowledge, in exchange for a franchise fee. The license allows the Franchisee to sell the products under the Franchisor’s business name. 
+5. **Government Holding Entity - Child Accounts:**: Public Sector accounts are identified by the Public Sector Account Checkbox on the Account. Once identified, ownership would be determined by the country alignment below. The definition of a PubSec account is the same for United States Public Sector and Rest of World Public Sector.
     1. **United States:** [GitLab Public Sector Rules of Engagement Handbook Page](/handbook/sales/public-sector/)
     2. **Rest of World:** [ROW Public Sector Rules of Engagement Handbook Page](https://docs.google.com/document/d/1GR8fFQQhaGlH18quMkbEbY1gIvj0_4-LVRxdHpuZW20/edit#heading=h.kk8kup16ppw8)
         1. **APAC:** All countries covered by Enterprise.
@@ -152,64 +162,125 @@ An account that clearly has their own buying authority and purchasing process.
         3. **AMER:** All countries covered by Enterprise.
 
 
-#### Franchises or Consultants  - Child Accounts:
+#### Mergers & Acquisitions
 
-Accounts that are categorized as an independent Franchise or Consultant are considered standalone Accounts.  As such, they will not be parented and the corresponding number of employees will not count towards the HQ Total Employee Count.
+In the event that there are changes to an organization or hierarchy as a result of a Merger or Acquisition, account ownership will transfer immediately upon agreement between the impacted ASMs. The official date of the merger or acquisition does not influence the account transfer date.
 
-#### Newly Updated Accounts
+**Acceptable sources to validate M&A activity:**
+1. Official announcement via the acquiring or acquired organization's public website
+2. Official public recording/filing (ie. annual report, SEC filing, etc)
+3. Email confirmation from the customer stating the occurrence and timing of the acquisition
 
-Accounts that have had employee count and/or address information updated that would require a region or segment change, timing on when the account will move will follow the February 1st Confirmed Segment and Stale Accounts Exception policies. If the change is due to organizational changes (i.e Merges and acquisitions) and the org change happened during this FY, the account will move to the correct owner next FY.
+**NOTE**: An “intent” to acquire does not warrant an account reparenting or ownership transfer.  The merger or acquisition MUST be formally completed and communicated before requesting review. 
 
-**Use Case(s):**
-1. Account data was accurate and there was an acquisition. The Account gets realigned to the correct Ultimate Parent in FY25. If the child account being acquired is stale, the Stale Accounts Exception policy applies.
 
 #### Net New Accounts
 
-Accounts created in Salesforce by a list load or through a data enrichment tool such as Zoominfo. Only Sales Operations has the ability to create new accounts because they must be parented and processed through LeanData to properly segment and assign to the appropriate territory. These will then be assigned to the correct account owner regardless of who requested or imported the account. Contacts will be linked by SDR’s during their normal workflow. For more information on this process you can check the Steps to create an issue for an account list import. To request a new account be created that is not from an enrichment tool or a list load please open an issue in the Sales Operations Project.
+Please review the [Account Creation Policy](https://internal.gitlab.com/handbook/sales/data-intelligence/governance/_governance/#account-creation-policy) for details on the account creation process and data enrichment on net new accounts. 
 
-**Sales Admin Owned Accounts**: When new accounts are created due to web portal purchases, they are temporarily assigned to the Sales Admin User and are changed to the correct (and active) Sales User in the following cadences:
-- For accounts with known attributes (employees and location), the account gets routed to the correct owner via the Account Demographics process
-- For accounts without known attributes (employees and location not identified), the account is manually reviewed by Sales Operations twice weekly and assigned to the correct owner.
-- If Sales Operations is unable to identify enough attributes to correctly assign the account, it will remain in Sales Admin owned and allocated to SMB for crediting.
+**Sales Admin Owned Accounts**: When new accounts are created due to web portal purchases, they are enriched by ZoomInfo (if a match is found), temporarily assigned to the Sales Admin User, and are changed to the correct (and active) Sales User in the following cadences:
+- For accounts with known attributes (employees and location) based on the data enrichment, that are FO available, and have $0 Net ARRR, the account gets routed to the automatically assigned territory owner via data load on Mondays. Note: This cannot be automated for compliance reasons.
+- For accounts without known attributes (employees and location not identified), the account is manually reviewed by Sales Operations weekly on Mondays and assigned to the correct owner.
+- If Data Intelligence is unable to identify enough attributes to correctly assign the account,  we will default to the billing account information and allocated to the SMB territory and account owner.
 
-All Embargoed Accounts will remain in Sales Admin per ROE for Banned Countries
+All Restricted Accounts will remain in Sales Admin and be assigned to the Restricted Accounts territory per RoE for Banned Countries following review by legal.
 
 #### Community Programs (OSS/EDU/Startups) Accounts
 
 For Accounts where there's an OSS/EDU/Startups opportunity, ownership of that Account will remain with the active Field Sales (AE/SAE) member. However, the relevant Community Program DRI will manage the OSS/EDU/Startups relationship and will be identified in a separate field on the Account called Community Program Owner.
 
-#### Field Permissions
+#### Requesting Account Data Review or Revisions
 
-In order to ensure Rules of Engagement are being enforced the following fields will need to be updated by Sales Operations: Account Owner, Named Account,Major Account, Holdover Expiration Date along with the ability to create a Parent/Child. To request a change to any of these fields chatter on the account or if there are more than 10 accounts open an issue in the Sales Operations Project.
+Account data review requests are managed via Salesforce cases by the Data Intelligence team.  Submit your requests by chattering @sales-support on the related Account.  Please be specific and comprehensive in your ask to ensure timeliness of actioning the request.
 
-#### Exception Process to Request Account Ownership Change:
-
-*Any request to transfer an account for any reason must follow the outlined exception process and timeline.*
-
-<details>
-<summary markdown="span">Steps to Request Account Ownership Changes</summary>
-
-1. **Step 1- Sales Process:**  Requirements prior to requesting an account transfer
-     - **Spirit of Collaboration:** All requests and or actions must adhere to the [GitLab Value of “Collaboration”](/handbook/values/#collaboration) and proactively communicate the inquiry and/or intent to ***all parties affected.***
-     - **Indisputable:** Requestor must provide evidence with supporting links.
-     - **Final Decision:** For a final decision on account ownership, the current and next Area Sales Manager must both agree to transfer of ownership. If consensus cannot be reached by Area Sales Managers it will continue to escalate up the sales chain to the VP level if necessary.
-2. **Step 2**: Chatter @sales-support with the request to have the account transferred and provide all supporting documentation. Chattering @sales-support will create a case in Salesforce for the Sales Operations team to review. Only one tag and case is required for each request.
-
-3. **Step 3 - Sales Operations Process:** Timing and process for account escalation review and moves.
-     - **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales Operations will review the account chatter feed on the escalated account to ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account.
-
-
-</details>
-
-#### Holdover Accounts
-
-Requested holdover accounts will have the expriation date and next approved owner populated 90 days from date of approval from all parties.These accounts are monitored on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
-1. Holdover Accounts will be moved on the expiration date listed on the account in the `Holdover Expiration Date` field to the `Proposed Account Owner`
-2. Ideally there will be no holdovers in Q3 or Q4 for acccurate planning
 
 #### Annual Account  Review Process
 
 Accounts will be reviewed annually prior to the Fiscal Year planning process and territory carving.
+
+#### JiHu <> GitLab RoE and Referral Guidelines
+
+The purpose of this section is to provide clarity to the GitLab & JiHu (GitLab China) Rules of Engagement and Referral Rules. Please reference the [GitLab <> JiHu Engagement and Referral Rules](https://drive.google.com/file/d/1PlokO-GzxEHRu0rwNwf4HUPSF7QVd16N/view) for additional details.
+
+**Criteria that determines JiHu account ownership:**
+
+If an Account meets the following definition of a PRC (People’s Republic of China) Customer then it is owned by JiHu:
+1. Persons (excluding natural persons) falling under the following definition (as set forth in the Investment Agreement) will be PRC Customers: An entity whose Ultimate Parent is incorporated in the Territory (which consists of the PRC, Hong Kong and Macau, and for the purposes of these Rules excludes Taiwan) OR an entity under the ultimate Control of an individual with PRC nationality (which, for the purposes of this definition, includes HKSAR and Macau)
+2. Seeks to deploy Licensed Applications in the Territory only;
+3. Requests for invoices to be sent to a billing address located within the Territory; and
+4. Is not a MIT User.
+
+**Disputes & Escalations process:**
+
+GitLab Sales Operations and JiHu Sales Operations meet on a bi-weekly basis to review account disputes and based on the RoE make a determination if the account is GitLab or JiHu owned. GitLab Sales Operations and JiHu Sales Operations also have related discussions as needed in a slack channel on the JiHu slack workspace called #roe-case-discussion. GitLab Sales Operations and JiHu Sales Operations maintain a log of all escalated cases in a Google Sheet. 
+
+JiHu escalates an account to GitLab by logging it in the Google Sheet. It must be raised within 10 business days of discovery of possible ownership discrepancy.  The escalation should include at a minimum the following details and other relevant information: 
+Escalation details:
+1. Date of escalation
+     - Duration of receiving feedback
+     - Date of handover
+     - Status
+     - Account ownership outcome
+2. Account Information:
+     - Billing address
+     - Ultimate Parent address
+3. Opportunity Information:
+     - License type (Self-Managed vs SaaS; Premium vs Ultimate)
+     - Number of users
+     - Estimate USD
+     - User location
+     - JiHu opportunity stage
+     - JiHu sales rep name
+     - Renewal date (if applicable)
+4. Additional relevant information:
+     - Chinese regulatory requirements
+     - Customer’s preferred reseller required or direct
+     - Payment term in local currency
+     - Local support requirements
+     - Migration support resource Chinese fluency requirement
+
+GitLab Sales Operations reviews the RoE case to determine Account ownership based on the definition of PRC as described above and responds within 3 business days of escalation. GitLab Sales Operations may ask JiHu Sales Operations to provide additional information and an additional 3 business days will apply for resolution.
+
+If an Account is deemed it should be owned by GitLab, the following process applies:
+1. GitLab Sales Operations provides JiHu with the GitLab account owner name and email address within 2 business days.
+2. The JiHu rep sends an email to the customer introducing the GitLab sales rep; copies the GitLab sales rep and GitLab Sales Operations on the email.
+3. The GitLab sales rep should immediately take ownership and connect with the customer to support their sales transaction.
+4. The GitLab sales rep should proceed with requesting the Account be created in the GitLab SFDC instance.
+5. Once the Account is created, the GitLab sales rep should proceed with creating the opportunity and adhering to the sales process.
+
+If the Account is owned by GitLab but the GitLab rep determines or JiHu conveys that one or more of the following customer requirements applies which are not currently supported by GitLab (valid as of 2023-11-30, subject to change), 
+1. SaaS vs Self-Managed (SaaS is not offered in China)
+2. Chinese regulatory requirements
+3. Customers preferred reseller needed/ or direct 
+4. Payment term in RMB
+5. In-country and local language support requirement 
+6. Migration support resource fluent in Chinese
+7. Sales resource fluent in Chinese
+8. Product features required for China only (integration with DingDing, Feishu, etc.)
+
+then the following **JiHu Exception Approval Process applies**:  
+
+1. GitLab Sales Rep slacks in the @jihu-account-escalations channel the request to obtain exception approval and provides the Account name and business justification.
+2. GitLab Sales Operations creates the Issue and includes the pertinent background information and the business justification for the exception approval request.
+3. The CRO and applicable AVP/VP and ASM are tagged in the Issue for review and approval.
+4. Once the JiHu exception approval is granted in the Issue, GitLab Sales Operations communicates to JiHu approval was given to proceed with engaging the customer to support their sales transaction. 
+
+**Multinational companies (MNC) with headquarters outside of China and affiliates in China, or Multinational companies (MNC) with headquarters in China and affiliates outside of China, seeking a shared instance concept**:
+
+1. They are considered as GitLab accounts. It is the MNCs’ responsibility to comply with PIPL and the GitLab Subscription Agreement Section 14.4 if there are users in China to be part of the namespace and/or if there are user data crossing borders.
+2. GitLab Self-Managed licenses are recommended for these MNCs if they are seeking shared instance, with the MNC headquarters being the purchasing entities. 
+3. GitLab SaaS cannot be sold to any China affiliate directly. GitLab SaaS can only be sold to entities located outside of China.
+4. GitLab Dedicated follows GitLab SaaS rules for PIPL consideration
+5. When in doubt, slack in the @jihu-account-escalations channel
+
+**Novation of an Account:**
+1. If a current customer of GitLab Inc or its Affiliates who falls within the definition of a PRC Customer, or a current PRC Customer (JiHu customer) falls outside the definition, then:
+     - The affected entity must obtain agreements from the customer to approve the novation to the other party of that customer’s existing customer contracts with the affected party;
+     - If an existing customer refuses to be novated at that time, then at the time of renewal of such customer’s agreement, the affected party will refuse to renew the contract.
+2. The affected party will provide an Exception Notice to the other party within 10 business days of knowledge of such change and will continue to service the account until the customer account is fully transferred to the other party to ensure that the customer has continuity of support until expiry of the then current term of that customer’s existing contract.  
+
+
+
 
 
 ### Opportunity Ownership Rules of Engagement
