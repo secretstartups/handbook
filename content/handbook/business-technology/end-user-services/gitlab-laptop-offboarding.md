@@ -19,7 +19,7 @@ Any team member leaving GitLab must review this handbook page thoroughly and in 
 
 **Please note you must have a laptop wipe appointment scheduled on your last day. If you do not contact GitLab IT (gitlab-laptop-recovery@gitlab.com or #it_help if you have access to GitLab’s Slack workspace) on your last day, your laptop will immediately locked with a pin code. To reverse this, please email gitlab-laptop-recovery@gitlab.com.**
 
-**If you’re under an active Legal Hold, this is a reminder that you must comply with the notice requirements. Failure to comply with an active Legal Hold may expose you or the Company to adverse consequences, including civil or criminal penalties and sanctions.  Your obligation to follow the procedures outlined in the notice continues until the hold is lifted, even if you depart the Company.  If you depart the Company, all Company devices and any material you are holding in accordance with any active Legal Hold Notice should be turned over upon your departure.**
+**If you’re under an active Legal Hold or possess material related to an active Company investigation, this is a reminder that you must comply with the notice requirements. Failure to comply with an active Legal Hold may expose you or the Company to adverse consequences, including civil or criminal penalties and sanctions. Your obligation to follow the procedures outlined in the notice continues until the hold is lifted, even if you depart the Company. If you depart the Company, all Company devices and any material you are holding in accordance with any active Legal Hold Notice or active Company investigation should be turned over upon your departure.**
 
 ### Before your last day
 
