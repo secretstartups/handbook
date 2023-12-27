@@ -27,20 +27,27 @@ The purpose of this page is to provide clear guidelines around GitLab's FY24 GTM
 
 ### Account Ownership Rules of Engagement
 
-**Effective FY24-Q1**
+**Effective FY25-Q1**
 
 **NOTE: Working a Lead, Contact, Opportunity or Account does not ensure ownership. Before investing any effort, it is the responsibility of the sales rep to confirm that an account listed as owned by them in SFDC is in fact in their territory.**
 
-### ROE for Banned Countries:
+### RoE for Banned or Restricted Countries:
 
 Additional information on Trade Compliance can be found on the [Legal HB Page for Embargoed Countries](/handbook/legal/trade-compliance/)
 1. Embargoed Accounts (Countries and Cities):
     - Account Address Country equals CU,IR,SS,SD,SY,KP OR [ZI] Country OR  [Admin] Address Country equals Crimea,Cuba,Iran,North Korea,Sudan,Syria
-    - Account Address City, [ZI] City OR [Admin] Address City equals Sevastopol, Simferopol, Kerch, Yevpatoria, Yalta, Feodosia, Dzhankoi, Alushta, Bakhchysarai,Krasnoperekopsk, Saky, Armiansk, Sudak, Bilohirsk, Shcholkine, Inkerman, Staryi Krym,Alupka (Cities in Crimea Region)
-2. Accounts will be reviewed monthly and updated in the following manner by Sales Ops
+    - Account Address City, [ZI] City OR [Admin] Address City equals:
+         - Cities in Crimea:  Sevastopol, Simferopol, Kerch, Yevpatoria, Yalta, Feodosia, Dzhankoi, Alushta, Bakhchysarai,Krasnoperekopsk, Saky, Armiansk, Sudak, Bilohirsk, Shcholkine, Inkerman, Staryi Krym,Alupka
+         - Cities in Donetsk: Amvrosiivka, Avdiivka, Bakhmut, Bilozerske, Bilytske, Chasiv Yar, Debaltseve, Dobropillia, Dokuchaievsk, Donetsk, Druzhkivka, Hirnyk, Horlivka, Ilovaisk, Khartsyzk, Kirovske, Komsomolske, Kostiantynivka, Kramatorsk, Krashnohorivka, Kurakhove, Lyman, Makiivka, Marinka, Mariupol, Mospyne, Mykolaivka, Myrnohrad, Novoazovsk, Novohrodivka, Pokrovsk, Rodynske, Selydove, Shakhtarsk, Siversk, Sloviansk, Snizhne, Soledar, Sviatohirsk, Svitlodarsk, Toretsk, Toirez, Ukrainsk, Volnovakha, Vuhledar, Vuhlehirsk, Yasynuvata, Yenakiieve, Yunokomunarivsk, Zalizne, Zhdanivka, Zuhres
+         - Cities in Luhansk: Alchevsk, Almazna, Antratsyt, Brianka, Hirske, Irmino, Kadiivka, Khrustalnyi, Kirovsk, Krasnodon, Kreminna, Kypuche, Luhansk, Lutuhyne, Lysychansk, Miusynsk, Molodohvardiisk, Novodruzhesk, Oleksandrivsk, Perevalsk, Pervomaisk, Petrovske, Popasna, Pryvillia, Rovenky, Rubizhne, Schastia, Sievierodonetsk, Starobislk, Sukhodilsk, Svatove, Sverdlovsk, Vakhrusheve, Voznesenivka, Zolote, Zorynsk, Zymohiria
+2. Restricted Countries
+     - Account Address Country equals BY or RU. 
+          - These countries are subject to very restrictive sanctions. Pending legal approval, we can pursue opportunities involving existing customers located in Russia or Belarus.  However, prospecting into new accounts is not permitted. 
+3. Accounts will be reviewed monthly and updated in the following manner by Sales Ops
     - If the account is assigned to an active user, the Account Owner will be updated to Sales Admin [DO NOT CHATTER THIS USER]
     - Change the “Named Account Territory” Field to X-ECCN-Do Not Do Business
     - The following Chatter comment will be added on the account: “Changed to Sales Admin [DO NOT CHATTER THIS USER] as this is located in an embargoed country and verified via our data enrichment tool(s).”  The existing owner and his or her manager will be tagged for awareness in the event that the account was assigned inadvertently.  SFDC topics of  “Embargoed Country” and “Visual Compliance Checks” will also be flagged on the account.
+    - The Restricted Account Field will be populated with a status of “Restricted Party”
 
 
 ### Understanding Account Assignment, Rules and Definitions
