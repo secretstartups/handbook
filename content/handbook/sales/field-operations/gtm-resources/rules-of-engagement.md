@@ -202,6 +202,8 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
 
 The purpose of this section is to provide clarity to the GitLab & JiHu (GitLab China) Rules of Engagement and Referral Rules. Please reference the [GitLab <> JiHu Engagement and Referral Rules](https://drive.google.com/file/d/1PlokO-GzxEHRu0rwNwf4HUPSF7QVd16N/view) for additional details.
 
+<details><summary>JiHu <> GitLab RoE</summary>
+
 **Criteria that determines JiHu account ownership:**
 
 If an Account meets the following definition of a PRC (People’s Republic of China) Customer then it is owned by JiHu:
@@ -279,7 +281,7 @@ then the following **JiHu Exception Approval Process applies**:
      - If an existing customer refuses to be novated at that time, then at the time of renewal of such customer’s agreement, the affected party will refuse to renew the contract.
 2. The affected party will provide an Exception Notice to the other party within 10 business days of knowledge of such change and will continue to service the account until the customer account is fully transferred to the other party to ensure that the customer has continuity of support until expiry of the then current term of that customer’s existing contract.  
 
-
+</details>
 
 
 
@@ -288,20 +290,22 @@ then the following **JiHu Exception Approval Process applies**:
 **Understanding Opportunity Assignment, Rules and Definitions**
 
 1. **Opportunity Ownership:**
-    1. Only active Field Sales (AE/SAE) members can own opportunities. The exceptions to this rule include:
-        1. **Community Program opportunities** (primarily $0 EDU/OSS): which will be owned by a member of that team.
-           - For scenarios where there's a paid opportunity **and** a free EDU opportunity, the AE owns the relationship. If there is not a paid opportunity closed-won or any open paid opportunity (pre-closed-won) then the appropriate Commumity Programs team member manages the relationship.
-        1. **Reseller opportunities**: which can be owned by the AE or channel manager
-            - For scenarios where there's a paid opportunity **and** a free EDU opportunity, the AE/SAE owns the relationship. If there is not a paid opportunity closed-won or any open paid opportunity (pre-closed-won) then the appropriate Commumity Programs team member manages the relationship.
-        1. **Reseller opportunities**: which can be owned by the AE/SAE or channel manager:
-
-        1. The opportunity owner should match the corresponding Account owner.  The exceptions to this rule are:
-        1. Those noted in the aforementioned section
-        1. Holdover opportunities
-        1. When an Renewals Manager or SDR has created an opportunity but has not yet transitioned it to the correct AE/SAE
-        1. Stage of the opportunity at time of account ownership change
-        1. [GSI or MSP opportunties](/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-msp-opportunities), where the end user is different to whom gets the license. In this case, the opportunity will be assigned to the owner of the end user account.
-1. **Sales Admin Owned Opportunities:** When new opportunities are created due to web portal purchases, they are temporarily assigned to the Sales Admin User and are changed to the correct (and active) Sales User in the following cadences:
+    - Only active Field Sales AEs can own opportunities. The exceptions to this rule include:
+        1.  **Field Sales Managers**: Temporary coverage - when a Field Sales Manager is temporarily covering an account or territory for one of their AEs (due to LoA or open/to be hired territories) and its associated opportunities.
+            - Field Sales Management cannot own an opportunity for more than 30 days.  After 30 days, they must transfer the open opportunity to an active AE for temporary ownership. Exceptions to extend Field Sales Management ownership of an opportunity beyond 30 days must be approved by his/her Sales VP and the Sr. Director of GTM Planning & Operations. 
+        2. **Community Program opportunities** (primarily $0 EDU/OSS): which will be owned by a member of that team.
+           - For scenarios where there's a paid opportunity **and** a free EDU opportunity, the AE owns the relationship. If there is not a paid opportunity closed-won or any open paid opportunity (pre-closed-won) then the appropriate Community Programs team member manages the relationship.
+        3. **Reseller opportunities**: which can be owned by the AE or Partner Manager
+        4. When an SDR/BDR has created an opportunity but has not yet transitioned it to the correct AE
+        5. **Self service opportunities**, which can be owned by the Pooled Sales User 
+2. The **opportunity owner should match the corresponding Account owner**.  The exceptions to this rule are:
+     - Those noted in the aforementioned section
+     - Holdover opportunities
+     - When an SDR has created an opportunity but has not yet transitioned it to the correct AE
+     - Stage of the opportunity at time of account ownership change (ie. closed or duplicate opportunities)
+     - [GSI or MSP opportunties](/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-msp-opportunities), where the end user is different to whom gets the license. In this case, the opportunity will be assigned to the owner of the end user account.
+     - Future dated Closed Won opportunities.  In these scenarios, please note the [crediting matrix](https://internal.gitlab.com/handbook/sales/sales-commission/#fy24-credit-matrix-for-future-dated-closed-won-opps) for opportunity ownership.
+3. **Sales Admin Owned Opportunities:** When new opportunities are created due to web portal purchases, they are temporarily assigned to the Sales Admin User and are changed to the correct (and active) Sales User in the following cadences:
     - For accounts with known attributes (employees and location), the account gets routed to the correct owner via the Account Demographics process.  Twice weekly Sales Operations reviews the corresponding opportunity and updates the Opportunity owner to match the Account owner (unless exceptions apply).
     - For accounts without known attributes (employees and location not identified), the account and corresponding opportunity are manually reviewed by Sales Operations twice weekly and assigned to the correct owners.
         - If Sales Operations is unable to identify enough attributes to correctly assign the account or opportunity, they will remain in Sales Admin owned and allocated to SMB for crediting.
@@ -322,7 +326,7 @@ then the following **JiHu Exception Approval Process applies**:
 
 The following criteria make a deal eligible for a holdover:
 
-#### Annual Review Holdovers
+#### Annual Review Holdovers (Holdovers that cross over a fiscal year)
 
 **Enterprise**
 1. Deal size (Net ARR) is > $50K for Growth and > $5K for New Logo. Amount is >$5K for PS Only opportunities
@@ -341,7 +345,7 @@ The following criteria make a deal eligible for a holdover:
 
 #### Additional Guidelines:
 
-- **Sell What You See Period** The interim period between the end of FY23 and when accounts have been aligned to FY24 owners in SFDC (2023-02-08)
+- **Sell What You See Period** The interim period between the end of FY24 and when accounts have been aligned to FY25 owners in SFDC (2024-02-05)
      - In this scenario, whoever closes the opportunity & his/her corresponding management will get paid (even if it’s going to a different owner)
 - **Documented Account Strategy**  The team who is giving up/losing the account and/or opportunity must work with the new owner on a transition plan to ensure there’s no disruption to current sales cycles or customer/prospect experience.
      - The Account handover checklist: Enterprise Sales can be found [here](https://docs.google.com/document/d/1bhGuzTZxnq70ob-3fxHVhu7LYObcrrFMev0697fDDks/edit)
@@ -362,91 +366,44 @@ Within a Geo under one Sales VP, it is the Sales VP's responsibility to obtain a
 - Holdover opportunities are flagged in SFDC using the`Holdover Expiration Date` fields on the Opportunity and are monitored on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
 - Credit will be given to the AE on the holdover opportunity if it closes before the expiration date.
 
+#### Intra Year Holdovers (Holdovers during the fiscal year)
+
+Opportunities are eligible to be flagged as a holdover during the fiscal year under the following scenarios:
+1. Temporary coverage - when an AE is temporarily covering an account or territory for another AE (due to LoA or open/to be hired territories) and that individual returns to work or the new hire has started. 
+2. When a territory is wholly recarved or the geographical parameters of an existing territory have been updated
+3. Role change - when an AE changes roles that results in a change in territory coverage
+4. Account Mergers or Acquisitions that occur in the current Fiscal Year
+
+**Additional Guidelines:**
+
+In the above scenarios, **holdovers are optional**.  It is at the discretion of the AE and his or her manager to determine if an opportunity warrants a holdover request.  At a minimum, the following criteria and processes must be met:
+- No more than 2 opportunities can flagged as a holdover per AE
+- An AE can own an opportunity as a holdover for up to 90 days (not to cross over a fiscal year)
+     - After 90 days, the opportunity, regardless of stage will be transferred to the account owner AE
+- Holdover requests must be approved by the AE’s manager and documented via chatter on the opportunity. 
+- Only AEs are eligible for intra year holdovers (no one else on the account team). 
+- If a holdover opportunity churns or contracts within the holdover period, that opportunity remains with the AE requesting the holdover
+- Holdover opportunities are flagged in SFDC using the `Holdover Expiration Date` field on the Opportunity and are monitored on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
+
+**NOTE**: Data inaccuracies that impact opportunity ownership are NOT eligible for holdover. 
+
+
+
 
 ### Opportunity Order Type Rules of Engagement
 
 **Understanding Order Type Assignment, Rules and Definitions**
 
-**Source of Data:** The account attributes used to properly assign Order Type are defined and explained in the [Sales Term Glossary](/handbook/sales/sales-term-glossary/#customer-definitions-for-external-reporting) section of the handbook.
+**Source of Data:** The account attributes used to properly assign Order Type are defined and explained in the [Sales Term Glossary](https://internal.gitlab.com/handbook/sales/sales-glossary/) section of the handbook.
 
 **Common Manual Override Scenarios:** Although Order Type is generated automatically on an opportunity, there are common scenarios in which it could require updating via a manual override:
 - [Customers Returning More Than 180 Days After Subscription Term End Date](/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-returning-customers)
 - Refunds
 - Incorrect Parenting/Hierarchies
+- New Programs within an existing Public Sector account hierarchy
 
-**Process to Request Order Type Changes:**  In the event that Order Type needs to be changed, please chatter @sales-support on the opportunity with details as to why the change is being requested.  This will trigger a case, which will be reviewed by the Sales Operations and Deal Desk teams.
+**Process to Request Order Type Changes:**  In the event that Order Type needs to be changed, please chatter @sales-support on the opportunity with details as to why the change is being requested.  This will trigger a case, which will be reviewed by the Sales Operations team.
 
-<details>
-<summary markdown='span'>
-  Sales Ops Operators Guide for Account and Opportunity Review and Moves
-</summary>
-
- **Best Practices**
-1. Before moving an SDR Account or non-Sales owned account check for duplicate accounts in the system. If a duplicate is found, merge the records.
-1. Before moving an SDR Account or non-Sales owned account check if the account is a child account and needs to be parented. If so, parent the account and assign to the owner of the parent account.
-
- **Case Review Process**
- 1. When a case is received, review to see if consensus has been met by all parties and if the supporting documentation is included in the chatter feed
- 1. Update any of the data on the account if needed to reflect what was provided
- 1. Determine if the request meets any of the criteria for an immediate move.
-    1. Immediate move - Move the account to the new owner. Move any open opportunties stages 0-2 to the new owner. Opportunities stages 3-6 follow holdover policy above and where applicable mark the `Holdover Expiration Date` for 90 days from date of approval on the Opportunity.
-    1. If the account does not meet the criteria for an immediate move, select the Picklist Value of `Quarterly Review` in the `Account Reassignment Status` field so the account will show up on the [Sales Operations Quarterly Account Review Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7)
- 1. Close the case and indicate in chatter that this will be reviewed and if approved by Sales Operations when they can expect the account ownership to transfer
-
- **Quarterly Account Review Process**
-1. Use the reports on the [Sales Operations Quarterly Account Review Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7) to review the requested account moves.
-   1. Prospect and Customer accounts will need to be evaluated to ensure the move doesn't impact quota. Once approved to be moved: move any open opportunties stages 0-3 to the new owner. Opportunities stages 4-6 mark the `Holdover Expiration Date` for 90 days from date of approval on the Opportunity.
-   1. Once account ownership has been updated remove the `Quarterly Review` picklist value from the `Account Reassignment Status`
-
-**Holdover Account and Opportunity Review Process**
-1. Review the [Account & Opportunity Holdover Expiration reports](https://gitlab.my.salesforce.com/01Z4M000000oYC7) and move the expired accounts and opportunities to the current `Account Owner` and remove the date from the field.
-1. Remove the value from the `Holdover Expiration Date` after transfer of ownership (Note that this cannot be removed from accounts past stage 6)
-1. Accounts are not eligible for a second holdover request. If this request is made the ASMs must agree and must be approved by Sales Operations Leadership
-
-**Annual Review Process**
-1. Ensure these requests are reviewed and approved as part of the annual territory planning process. Utilize the dashboard to capture all requests from Q3 & Q4 to be moved at the beginning of Q1
-
-**Order Type Review**
-- Validate that the requestor has provided adequate details to justify the change request.
-- Follow the below steps for each Common Manual Override Scenarios:
-    1. **Customers Returning More than 180  Days After Subscription Term End Date:** Review the subscription term end date from the existing subscription.  If it is > 180 days, the opportunity Order Type should be manually updated to  First Order or New Connected.
-    1. **Refunds:** Confirm with deal desk that the opportunity is, in fact, a refund.  If yes, the opportunity Order Type should be manually updated to  First Order or New Connected.
-    1. **Incorrect Parenting/Hierarchy:** Validate that the parenting is, in fact, incorrect.  If so, unparent the account(s) and manually update the opportunity Order Type to First Order or New Connected
-
-
-**Sales Admin Owned Review and Owner Change Process**
-
-Steps to add AE names to open/closed opps owned by Sales Admin (Easy Fixes)
-
-1. Export the easy fix reports from [this dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYRM)
-1. To work from google sheet: Copy Values and paste into google spreadsheet, or you can use Excel
-1. Match the opportunity owner to the current account owner
-    - **EXCEPTION**: For existing accounts where the OSS/EDU Assigned field is populated AND the Web direct opportunity is $0 Net ARR, the opportunity owner should be the person in the OSS/EDU Assigned field
-1. To prepare the upload, you will only need the following fields: Opportunity Owner ID, Opportunity ID, SA Team, Account Owner (O), Owner Team (O) (you also need to update the Account ID/ Account Owner ID but I recommend uploading the accounts on a separate worksheet to avoid confusion.)
-1. Save the file as CSV and upload to data loader.
-1. To update the account owner you will need Account ID, Account Owner ID. Match the opp owner to the Account Owner and upload.
-1. The opportunities update in smaller increments (my cutline was 20). Split the upload sheet in 20’s as necessary and upload.
-
-Steps to add AE’s to Closed Opps and accounts owned by Sales Admin (Hard Fixes)
-
-1. Export the hard fix reports from [this dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYRM)
-1. To work from google sheet: Copy Values and paste into google spreadsheet, or you can use Excel
-1. Add filters onto the sheet to organize the sheet in alphabetical order
-1. Sort the “Billing Country” field A → Z, this way you can populate multiple owners if the opps have the same billing country
-1. It is easier to work by market segment, filter by SMB/MM/Large/PubSec (choose a field from Account Owner Team, Owner Team, SA Team - it is usually just best to choose the field with more values since many opportunities have missing fields)
-1. Use [this mapping file](https://docs.google.com/spreadsheets/d/1n3_JQULEzHjwlrSQcchxnFiSLVD698yxF4k-M6OtQ2E/edit#gid=950930175) to look for corresponding AE’s
-1. Insert 2 rows on the sheet and add Owner Name and Owner ID (you will delete the name later in prior to uploading- but is there for your view)
-1. After inputting the names and Owner ID’s there will be multiple opps that do not have Billing countries listed on the Account. There are many times in which have Account Demographic Country fields populated, but not the Billing Country or vice versa. Use those fields to map and populate the corresponding AE’s.
-1. If there is a zip code but no countries listed, it is recommended that you use google search to populate the States/countries to find the corresponding AE’s.
-1. If the opportunity is missing a market segment, try to do a quick google search on the company. If no information is found, it is likely that the account is SMB.
-1. Populate the Account owner (O), Owner Team (O), and SA Team and match as information above, and table.
-1. Repeat this process for each Market Segment (SMB/MM/Large/PubSec) making sure each Territory is correct
-1. Make sure all opportunities are populated. If you cannot find any information on the account, make sure to ask about those before uploading.
-1. To prepare the upload, you will only need the following fields: Opportunity Owner ID, Opportunity ID, SA Team, Account Owner (O), Owner Team (O) (you also need to update the Account ID/ Account Owner ID but I recommend uploading the accounts on a separate worksheet to avoid confusion.)
-1. Save the file as CSV and upload to data loader.
-1. To update the account owner you will need Account ID, Account Owner ID. Match the opp owner to the Account Owner and upload.
-
- </details>
 
 ### Process to Request Updates to Territory Ownership
 
@@ -456,21 +413,16 @@ Steps to add AE’s to Closed Opps and accounts owned by Sales Admin (Hard Fixes
 2. Follow the directions within the template and provide all requested details.
     - If an Individual Contributor is requesting the change, add your manager to the `/assign` command.
     - If a Manager is requesting the change, submit the issue and it will auto-assign to Sales Ops.
-3. Sales Operations will update SFDC.
-4. Sales Operations will make the change on the Territory Management document.
-5. Sales Operations will update LeanData.
-6. Territory Management updates will be uploaded to LeanData by Sales Operations.
+3. Territory Operations will make the appropriate changes in SFDC.
+
 
 #### Territory Ownership (Renewals Managers)
 
 1. Create an issue in the Sales Operations project - utilizing the [Renewal Manager Territory Change Request template](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/issues/new?issuable_template=ISRTerritoryChange).
 2. Follow the directions within the template and provide all requested details.
 3. Renewal Operations and Sales Systems to update SFDC.
-4. To request Renewals Manager ownership exceptions for individual opportunities, please chatter your Manager, Renewals on the opportunity for approval before looping in Sales-Support.
-If the opportunity is in a closed period, the Manager, Renewals and Sales Comp need to approve having the Renewals Manager added to the opportunity before tagging Jesse Rabbits directly to make the update.
-    - Note: Only James Harrison or Jesse Rabbits can update closed opportunities at this time.
+4. To request Renewal Manager ownership exceptions for individual opportunities, please chatter your Manager on the opportunity for approval before looping in Renewal-Ops. If the opportunity is in a closed period, the Manager of Renewals and Sales Comp need to approve having the Renewals Manager added to the opportunity before tagging Renewal-Ops directly to make the update.
 
-**Warning:** Updating these tables without updating Operations will not be reflected in our various systems causing all reports and routing to be incorrect!
 
 Questions? Ask in the #sales Slack channel and ping @sales-ops.
 
