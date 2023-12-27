@@ -179,7 +179,7 @@ guarantees on creation timing. This will depend on factors such as:
 
 - Any incidents on GitLab.com that are or have been going on in the run-up to
   the release.
-- Any (critical) [security releases](../security/index.html#security-releases) that require the attention of release
+- Any (critical) [security releases](https://about.gitlab.com/handbook/engineering/releases/security-releases/) that require the attention of release
   managers.
 - Any issues with our auto-deployment pipelines.
 - Other release related work that may delay or prevent the creation of a release
