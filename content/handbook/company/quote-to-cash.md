@@ -15,7 +15,7 @@ An efficient Quote-to-Cash system makes purchasing, activating, and managing Git
 - Ensures `consistency` between the data for some of the most critical business objects/entities across all the Source Systems.
 - `Master Data Objects` for all core business critical objects will have same definitions and data across all the systems.
 - Proper `alignment/sync` exists between all the data source systems - Zuora, CustomerDot, SFDC and GitLab.com along with 1:1 mapping between Zuora Billing Object Model and CustomersDot.
-- Improves `data quality` and ensures a `single lineage` for understanding the paid namespace conversion journey, the first paid subscription for a given namespace, free/trial to paid conversion analysis etc..
+- Improves `data quality` and ensures a `single lineage` for understanding the paid namespace conversion journey, the first paid subscription for a given namespace, free/trial to paid conversion analysis etc.
 
 ## Q2C System Teams
 
