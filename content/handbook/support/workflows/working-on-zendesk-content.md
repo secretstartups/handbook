@@ -15,8 +15,8 @@ For any changes to Zendesk macros, triggers and automations consider their impac
 
 Refer to the corresponding projects and create a merge request with your changes:
 
- - https://gitlab.com/gitlab-com/support/zendesk-global/automations
- - https://gitlab.com/gitlab-com/support/zendesk-global/triggers
+ - [gitlab-com/support/zendesk-global/automations](https://gitlab.com/gitlab-com/support/zendesk-global/automations)
+ - [gitlab-com/support/zendesk-global/triggers](https://gitlab.com/gitlab-com/support/zendesk-global/triggers)
 
 Whether you're proposing minor changes directly or something bigger following an RFC discussion, tag a Support Manager for review and ask them to merge the changes. Once changes have been merged in one of these projects, you'll notice a `Sync Stage` badge that says `Awaiting Deployment` on the project overview page. This indicates that there's changes in the project that will be rolled out during the next [regular deployment](../readiness/operations/docs/change_management/#standard-change-management).
 
