@@ -24,15 +24,31 @@ description: "We build GitLab's technical brand with deep, meaningful conversati
 
 ### Team Workflow
 
-[<i class="far fa-clipboard"></i> Team Workflow](/handbook/marketing/developer-relations/developer-evangelism/workflow/) [ <i class="far fa-chart-line"></i> Metrics / Reports](/handbook/marketing/developer-relations/developer-evangelism/metrics/)  [ <i class="far fa-edit"></i> CFP Issue Template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=cfp) [ <i class="far fa-clipboard"></i> Team General Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1565342?&label_name[]=dev-evangelism) [ <i class="far fa-clipboard"></i> Team Activity Type Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/3811304?label_name[]=dev-evangelism) [ <i class="far fa-clipboard"></i> CFP Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1616902?label_name[]=CFP) [ <i class="far fa-calendar-alt"></i> Team Calendar](/handbook/marketing/developer-relations/developer-evangelism/calendar)
+- [<i class="far fa-clipboard"></i> Team Workflow](/handbook/marketing/developer-relations/developer-evangelism/workflow/)
+- [<i class="far fa-chart-line"></i> Metrics / Reports](/handbook/marketing/developer-relations/developer-evangelism/metrics/)
+- [<i class="far fa-edit"></i> CFP Issue Template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=cfp)
+- [<i class="far fa-clipboard"></i> Team General Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1565342?&label_name[]=dev-evangelism)
+- [<i class="far fa-clipboard"></i> Team Activity Type Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/3811304?label_name[]=dev-evangelism)
+- [<i class="far fa-clipboard"></i> CFP Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1616902?label_name[]=CFP)
+- [<i class="far fa-calendar-alt"></i> Team Calendar](/handbook/marketing/developer-relations/developer-evangelism/calendar)
 
 ### Team Resources
 
-[<i class="fas fa-project-diagram"></i> Team Projects](/handbook/marketing/developer-relations/developer-evangelism/projects) [<i class="fas fa-toolbox"></i> Team Tools](/handbook/marketing/developer-relations/developer-evangelism/tools/) [ <i class="far fa-object-group"></i> OSS Contributions](/handbook/marketing/developer-relations/developer-evangelism/#oss-contributions)  [ <i class="far fa-edit"></i> Action Template for Announcement Responses](https://docs.google.com/document/d/1Dhe2hFFZCDRK6eLhrfFqa-iz0bFX8gTZ4keoHo5KrtM/edit) [ <i class="fas fa-chalkboard-teacher"></i> CFPs](/handbook/marketing/developer-relations/developer-evangelism/cfps) [ <i class="far fa-edit"></i> Content creation](/handbook/marketing/developer-relations/developer-evangelism/#content-creation) [ <i class="far fa-folder-open"></i> Team Shared Drive](https://drive.google.com/drive/u/0/folders/0AEUOlCStMBC9Uk9PVA)
+- [<i class="fas fa-project-diagram"></i> Team Projects](/handbook/marketing/developer-relations/developer-evangelism/projects)
+- [<i class="fas fa-toolbox"></i> Team Tools](/handbook/marketing/developer-relations/developer-evangelism/tools/)
+- [<i class="far fa-object-group"></i> OSS Contributions](/handbook/marketing/developer-relations/developer-evangelism/#oss-contributions)
+- [<i class="far fa-edit"></i> Action Template for Announcement Responses](https://docs.google.com/document/d/1Dhe2hFFZCDRK6eLhrfFqa-iz0bFX8gTZ4keoHo5KrtM/edit)
+- [<i class="fas fa-chalkboard-teacher"></i> CFPs](/handbook/marketing/developer-relations/developer-evangelism/cfps)
+- [<i class="far fa-edit"></i> Content creation](/handbook/marketing/developer-relations/developer-evangelism/#content-creation)
+- [<i class="far fa-folder-open"></i> Team Shared Drive](https://drive.google.com/drive/u/0/folders/0AEUOlCStMBC9Uk9PVA)
 
 ### Want to work with the team?
 
-[ <i class="fas fa-chalkboard-teacher"></i> Learn about Developer Evangelism](/handbook/marketing/developer-relations/developer-evangelism/learn-developer-evangelism/) [<i class="far fa-edit"></i>Technical Marketing](/handbook/marketing/developer-relations/technical-marketing/) [<i class="far fa-edit"></i> Request a Developer Evangelist Issue Template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=developer-evangelist-request) [ <i class="far fa-edit"></i>Request Community Response support](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=community-response-plan) [<i class="far fa-edit"></i> Request Content](/handbook/marketing/developer-relations/content-request/#how-to-work-with-the-developer-evangelism-team)
+- [<i class="fas fa-chalkboard-teacher"></i> Learn about Developer Evangelism](/handbook/marketing/developer-relations/developer-evangelism/learn-developer-evangelism/)
+- [<i class="far fa-edit"></i>Technical Marketing](/handbook/marketing/developer-relations/technical-marketing/)
+- [<i class="far fa-edit"></i> Request a Developer Evangelist Issue Template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=developer-evangelist-request)
+- [<i class="far fa-edit"></i>Request Community Response support](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=community-response-plan)
+- [<i class="far fa-edit"></i> Request Content](/handbook/marketing/developer-relations/content-request/#how-to-work-with-the-developer-evangelism-team)
 
 ***
 
