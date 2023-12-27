@@ -160,7 +160,7 @@ You may wear multiple hats in any given day:
 1. **Coach Hat** - Asking questions and listening deeply to help team members reach solutions.
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTadK6g9lEwLV8nP9GWPrgcF7sRHxycOuLwlZQm_h05D_FJpC3T9JzGUB7FmZY0UyW-ii4IfP0groBd/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTadK6g9lEwLV8nP9GWPrgcF7sRHxycOuLwlZQm_h05D_FJpC3T9JzGUB7FmZY0UyW-ii4IfP0groBd/embed?start=true&loop=false&delayms=3000" frameborder="0" width="500" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 ### Trust and Coaching
@@ -174,7 +174,7 @@ Building trust is an important ingredient in coaching and team dynamics. Trust l
 1. **Inattention to Results:** When no one is accountable, team members may naturally tend to put their own needs ahead of the collective goals; for example, career development and recognition.
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQwmhv3MIUV4065TeQ4N1Lz4xhjROQRTaTW2XNa5qH4k-mq4GNLgRYhi2fr2hjZslZ7V8JBipbvuaBv/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQwmhv3MIUV4065TeQ4N1Lz4xhjROQRTaTW2XNa5qH4k-mq4GNLgRYhi2fr2hjZslZ7V8JBipbvuaBv/embed?start=true&loop=false&delayms=3000" frameborder="0" width="500" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 #### The Trust Equation
@@ -247,6 +247,26 @@ As a coach uses their core coaching skills, a coachee can access their own set o
 1. **Learn**: Coaching conversations revolve around learning by discovering new perspectives by coming to a new understanding or realization.
 1. **Transform**: Change is a core attribute of coaching. Sometimes the transformation may be small when a coachee has increased clarity on appropriate action to move forward. At times the transformation may be more profound, as a coachee can shift their mindset in a way that there's no going back.
 
+## Other Skills
+
+### Will and skill
+
+Will and Skill is a framework that can be used to coach team members based on their Will and Skill. Will reflects the team member’s motivation and engagement with their work. Skill is a reflection of their ability to do the tasks. Scoring in either category as high or low means a team member will fall into one of four quadrants, each of which can be coached and managed differently.
+
+- [Persinio's Guide to Will and Skill Matrix](https://www.personio.com/hr-lexicon/skill-will-matrix-defined/)
+- [AIHR's Guide to Will and Skill](https://www.aihr.com/blog/skill-will-matrix/)
+- [WhatFix's Blog on Will and Skill](https://whatfix.com/blog/skill-will-matrix/)
+- [MindTool's video on Will and Skill](https://www.youtube.com/watch?v=4DAk7fjai6c)
+- [OMT Global's video on Will and Skill](https://www.youtube.com/watch?v=KkkGt15-qtc)
+
+### Managing your inner fixer
+
+To effectively coach, it is critical to manage your inner fixer – Our inner fixer wants desperately to TELL! The role of coach supports people as they develop new habits, explore new ways of engaging, and figure out what they need to do, to be at their best.  This approach requires more coaching vs telling.  More supporting vs giving directions.
+
+- [The Leader as Coach](https://hbr.org/2019/11/the-leader-as-coach)
+- [Stop Fixing & Start Coaching](https://baird-group.com/stop-fixing-start-coaching/)
+- [In Coaching: Is Asking The Right Questions More Important Than Having All The Answers?](https://www.fourstreamscoaching.com/in-coaching-is-asking-the-right-questions-more-important-than-having-all-the-answers/)
+
 ## Coaching Conversations
 
 ### Planning for action
@@ -296,6 +316,17 @@ The coach might also want to end the conversation with a few statements about wh
 - Challenging
 - Identifying underlying limiting beliefs, assumptions, and mindset
 - [Tips for managing conflict]({{< ref "managing-conflict#8-tips-for-managing-conflict" >}})
+
+## Team member relations
+
+When coaching is unsuccessful, GitLab’s Team Member Relations group is available to help you. The first thing a manager should do is reach out to the aligned Team Member Relations Partner to review the situation and collaborate on a plan of action.
+That action will include additional coaching, both verbal and documented.
+
+There are times when a Team Member’s behavior becomes so egregious that it is more than a performance issue, and becomes a true conduct concern. If at any point you suspect a team member has engaged in such behavior TMR should be looped in immediately, regardless of whether or not you consider the Team Member a high performer.
+
+- [TMR Handbook Page]({{< ref "/handbook/people-group/readmes" >}})
+- [LDR 102 Underperformance](https://www.youtube.com/watch?v=nRJHvzXwXBU&t=1s)
+- [Managing Underperformance Handbook Interview](https://www.youtube.com/watch?v=-mLpytnQtlY)
 
 ## Live Learning Session
 
