@@ -43,11 +43,12 @@ Release Managers coordinate the release steps to make sure that all prepared fix
 
 ## Unplanned critical security release process
 
-Unplanned critical security releases are used to immediately patch and mitigate a high-severity issue. Following our [maintenance policy](https://docs.gitlab.com/ee/policy/maintenance.html), the vulnerability will be fixed in all supported versions following [Security Remediation SLAs].
+If planned security releases don't meet the [Security Remediation SLAs], unplanned critical security releases are used to immediately patch and
+mitigate a high-severity vulnerability. Following our [maintenance policy](https://docs.gitlab.com/ee/policy/maintenance.html), the vulnerability will be
+fixed in all supported versions following [Security Remediation SLAs].
 
-The AppSec team is responsible for assessing the vulnerability and working with development to decide on the best approach to resolve it.
-
-In some cases, this will involve a fix in the next Planned security release or a different mitigation. If an Unplanned critical security release is needed the AppSec engineer will work with Release Managers to agree on a timeline for the release.
+The AppSec team is responsible for assessing the vulnerability and working with development to decide on the best approach to resolve it. If an unplanned critical
+security release is needed the AppSec engineer will work with Release Managers to agree on a timeline for the release.
 
 ![Unplanned critical security release overview](unplanned-critical-security-release.png)
 
