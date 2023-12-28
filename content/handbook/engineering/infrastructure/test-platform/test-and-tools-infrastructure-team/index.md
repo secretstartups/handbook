@@ -58,6 +58,68 @@ graph LR
     D --> D3[Test Advocacy<br>Promoting best testing practices and process improvement]
 ```
 
+## Team Rituals
+We prioritize asynchronous communication and a handbook-first approach, in line with GitLab's all-remote, timezone-distributed structure.
+
+### Work Related Rituals
+#### Standup Notes [Async]
+- **Cadence**: Daily
+- **Rules**:
+    1. Share daily plans via Geekbot update in `#test-tools-infrastructure-team`.
+    2. Keep updates concise and focused.
+    3. This is **optional**, respecting individual work styles [discussed [here](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks/-/issues/2181#note_1646017808)].
+
+#### End-of-Week Status Update [Async]
+- **Cadence**: Every Thursday EOD
+- **Rules**:
+    1. Reflect on weekly progress and upcoming tasks.
+    2. Update blockers in the issues to mitigate risks.
+    3. **Ensure that issues and epics are updated by Thursday of each week**, enabling the Engineering Manager to provide a summary to the `#test-platform` sub-department for enhanced visibility on Friday.
+
+#### Monthly Retrospective [Async]
+- **Cadence**: First Monday to Wednesday of each month
+- **Rules**:
+    1. Contribute to the retrospective issue for the `Test & Tools Infrastructure Team` specifically in the [Quality Retrospective project](https://gitlab.com/gl-retrospectives/quality). The issue will be automatically shared in the team channel.
+    2. Engage in constructive feedback and action-oriented discussions.
+    3. Engineering Manager to summarize action items by the end of the week. The kudos will also be summarized and shared to `#thanks` for organization visibility. A summary of the retrospective will be shared to `#test-platform` for broader sub-platform level visibility.
+    4. The team retrospective will be in line with the [group retrospective guidelines](https://handbook.gitlab.com/handbook/engineering/management/group-retrospectives/)
+
+#### Team Meeting & Demos [Sync]
+- **Cadence**: Bi-weekly on Monday, 25 mins
+- **Rules**:
+    1. Bi-weekly meetings will occur within Project tracks and within working groups. Time zone differences will lead to segmented meetings. Solo project track members may opt for asynchronous updates and detailed discussions in 1:1s.
+    2. Focus on live discussions, milestone reviews, and backlog refinement.
+    3. Record quick ~5 mins demo and share in the agenda Doc. 
+
+#### Social Hours [Sync]
+- **Cadence**: Quarterly, 45 mins
+- **Rules**:
+    1. Foster non-work-related interactions for team bonding.
+    2. The social hours will be scheduled inclusively across multiple time zones.
+    3. An issue will be created in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log) to discuss on social hour ideas.
+
+### Personal/Career Development Rituals
+#### Weekly 1:1 Meeting with Engineering Manager
+- **Cadence**: Weekly, 25 mins
+- **Rules**:
+    1. Discuss both professional and personal development goals.
+    2. Maintain confidentiality and openness.
+    3. Follow the [1:1 process](https://handbook.gitlab.com/handbook/leadership/1-1/) mentioned in the handbook. 
+
+#### Worklog/Brag Document
+- **Cadence**: Ongoing
+- **Rules**:
+    1. Consider preparing a worklog document following this [template](https://docs.google.com/document/d/1LXP5cqVfOZ983QJYbP870tZXO0iIs4OwqLIcT-REekk/edit?usp=sharing) in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log)
+    2. Regularly update with achievements and learnings.
+    3. Use it as a reference for 1:1s and performance reviews.
+
+#### Goal Setting & Review
+- **Rules**:
+    1. A confidential issue will be created in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log) for setting individual goals. 
+    2. Ensure every team member establishes their goals by the start quarter of each financial year. For new hires, the goal setting process should be accomplished in the onboarding process.
+    3. Align individual goals with team and company objectives.
+    4. Leverage 1:1s with your manager to discuss the progress on the goals and next steps. 
+
 ## Tooling
 The team currently works cross-functionally, and our task ownership spans multiple tools and projects. 
 
@@ -75,9 +137,12 @@ The team currently works cross-functionally, and our task ownership spans multip
 | [`gitlab-qa-resources`](https://gitlab.com/gitlab-org/quality/engineering-productivity-infrastructure) | Collection of terraform resources for Test Platform related infrastructure management. Co-owned by the Engineering Productivity team |
 | [`gitlab-junior-toy-app`](https://gitlab.com/gitlab-org/quality/technical-interviews/gitlab-junior-toy-app) | A toy app used for technical interviews while recruiting for the Software Engineer in Test (SET) position. Internal to the Test Platform sub department |
 
+
+
 ## Current OKR 
 
 Every quarter, the team commits to [Objectives and Key Results (OKRs)](/company/okrs/). The below shows current quarter OKRs and is updated regularly as the quarter progresses. Here is an [overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/5399) of our current Test and Tools Infrastructure team OKR.
+
 
 ## Performance Indicators
 TBD
