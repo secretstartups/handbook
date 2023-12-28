@@ -1,23 +1,12 @@
 ---
 aliases: /handbook/engineering/infrastructure/core-platform/data_stores/database-reliability/dbre-escalation/process.html
 title: DBRE Escalation Process
+summary: This page outlines the DBRE team escalation process and guidelines for developing the rotation schedule for handling infrastructure incident escalations.
 ---
 
-
-
-
-
-
-
-
-
-<div class="panel panel-info">
-**Note**
-{: .panel-heading}
-<div class="panel-body">
-We are using Slack, @dbre, for escalations.
-</div>
-</div>
+{{% alert title="Note" color="danger" %}}
+We are using Slack, <i class="fa-brands fa-slack"></i> @dbre, for escalations.
+{{% /alert %}}
 
 ## About This Page
 
