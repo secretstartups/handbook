@@ -399,6 +399,21 @@ Identified risks are formally tracked via an internal risk register. Given the n
 
 Historically, we've produced an annual report to summarize our current StORM landscape including new potential risks, updates on our highest risks to support decision-making, and recommendations on actions to take to help mitigate existing risks. Starting in FY24 we will produce a quarterly report in alignment with our values. The template we've used can be found [here](https://docs.google.com/presentation/d/1uwz8sKnf9sWY9Of_GKPtIU2dDa3i6k6xekZENPW41NY/edit?usp=sharing) for reference.
 
+### Top 5 Risks
+
+Security's Top 5 Risks are established during annual risk assessment activities and are reported upon quarterly (as resources allow). These Top 5 Risks are leveraged by Security Leadership to conduct short and long term strategic planning.
+
+#### Long Term Treatment Planning
+
+Executive Risk Owners are responsible for ensuring that long term treatment plans are established for each of the Top 5 Risks. The Security Risk Team is responsible for coordinating long term treatment planning with the Executive Risk Owner and the associated Risk Owner(s). The following template is leveraged during planning to ensure consistency in our approach and in reporting:
+
+ - Establish success criteria that would move the risk within tolerance. These criteria will become Key Results (KRs) and are the milestones used to gauge progress. Completed KRs will correlate to a reduced risk score. 
+ - Identify dependencies for each KR. 
+ - Identify a Risk Manager responsible for delivering each KR. This person should be in the department responsible for implementing the treatment activity.
+ - Establish realistic target delivery dates for each KR. Due to the nature of operational risks, we expect many of these dates to be up to 4 years in the future. Try to establish at least one KR per quarter to show incremental progress.
+ - Scoring: Subtract '10' (our risk tolerance threshold) from the current risk score to identify the reduction required to move the risk within tolerance. Divide this by the number of KRs. The remainder is the amount the score will be reduced each time a KR is complete. This number can be adjusted judgmentally as required.
+
+
 #### StORM Reporting Schedule
 
 The table below outlines planned/completed activities for FY24.
