@@ -590,7 +590,7 @@ Next Steps: SDR chatters the BDR Assigned and lets them know you didn't find act
 **There is a Duplicate Account**  |  Chatter Sales Support and ask them to merge the accounts. The chatter should be on the account that is more active   |
 | **An Opp has moved into Stage 1 but has Incorrect Data**      |  Chatter your manager who will then reach out to someone in Sales Dev Operations  |
 | **Unclear Territory Assignment**   |  Chatter an AE from each of the potential territories   |
-| **Requesting SAO Credit on a Web Direct Opp**      |  Chatter Sales Dev Ops or the Director of Commercial Sales Development and [use this format](/handbook/marketing/sales-development/#how-do-i-request-sao-credit-on-a-web-direct-opportunity)   |
+| **Requesting SAO Credit on an Opp**      |  Chatter Sales Dev Ops or the Director of Commercial Sales Development and [use this format](/handbook/marketing/sales-development/#how-do-i-request-sao-credit-on-a-web-direct-opportunity)   |
 **Account is in Restricted Status**  |  Chatter the SAE and ask permission to reach out  |
 
 
@@ -790,7 +790,7 @@ There will be times when an SDR or BDR is working a prospect and, after connecti
 
 On the opportunity record in Salesforce, compose a new Chatter message that includes the following:
 1. Tag a member of the Operations Team (Ramona Elliott or Ed Bao) or the Director of Global Commercial Sales Development (Brian Tabbert). **Do not tag Sales Support Yourself** 
-2. Include a link to the record in Salesforce that shows your related two-way activity in the past 60 days. If your related activity is a phone call, you must have entered the details of the phone call into the Qualification Notes field on the lead record at the time of the call in order for it to be considered. Qualification Notes entered after the Web Direct opportunity has been created will not be considered for credit.
+2. Include a link to the record in Salesforce that shows your related two-way activity in the past 60 days. If your related activity is a phone call, you must have entered the details of the phone call into the Qualification Notes field on the lead record at the time of the call in order for it to be considered. Qualification Notes entered after the Web Direct opportunity has been created will not be considered for credit. If your related activity is a Zoom meeting, you should follow [our process for creating an opportunity](https://handbook.gitlab.com/handbook/marketing/sales-development/#when-do-i-create-an-opportunity).
 3. Explain how you influenced their decision to purchase GitLab (helped with evaluation, uncovered a need, provided value, etc)
 
 The Operations team and/or Director will review the information and decide whether SAO credit is warranted. If confirmed, they will Chatter Sales Support to add you to the opportunity. If rejected, they will communicate to you the reasoning for their decision.
