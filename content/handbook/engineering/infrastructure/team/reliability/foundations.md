@@ -290,12 +290,16 @@ We suggest that Epics follow this structure:
 
 ```markdown
 ## Context
-<Context about the work and what problem it is intended to solve>
+<!-- Context about the work and what problem it is intended to solve -->
 
-### DRI: @user
-<Who is the responsible individual?>
+## DRI: @user
+<!-- Who is the responsible individual? -->
 
-## Milestones/Exit Criteria
+### Participants:
+
+<!-- List of users that are actively picking up issues in the epic -->
+
+## Exit Criteria
 <!--
 How will we know when we have achieved our goal?
 How is the work broken down into smaller concrete pieces.
@@ -303,35 +307,28 @@ Measurable chunks of progress towards the larger objective. Link to child Epics 
 If possible, with weighted % totaling up to 100%
 -->
 
-## Decision log
-<a collapsible section to track and make visible any decisions made along the way>
-
-{{% details summary="Log" %}}
-{{% details summary="date" %}}
-[decision taken and why]
-{{% /details %}}
-{{% /details %}}
-
 ## Administrative
 
-<A copy paste section for creating child epics/issues, ensuring that they relate to the current epic and have the correct labels>
+<!--A copy paste section for creating child epics/issues, ensuring that they relate to the current epic and have the correct labels-->
 
+\`\`\`
 /epic [current epic]
-/label ~"team::Foundations ~"workflow-infra::Proposal"
-
+/labels ~"devops::Platforms" ~"team::Foundations" ~"workflow-infra::Triage" ~"Reliability::P4" 
+\`\`\`
 
 ## Status history
 
-<Previous summary statements are moved into the development log in a collapsible section to give visibility into updates over time>
+<!--Previous summary statements are moved into the development log in a collapsible section to give visibility into updates over time-->
 
-{{% details summary="Previous statuses" %}}
-{{% details summary="Status - yyyy-mm-dd" %}}
+{{% details summary="Click to expand" %}}
 
-{{% /details %}}
+- Status - yyyy-mm-dd
+   - Previous update
+
 {{% /details %}}
 
 ## Status yyyy-mm-dd
-<Updates should be made weekly, even if no progress has been made. If no progress to report, give context as to why>
+<!-- Updates should be made weekly, even if no progress has been made. If no progress to report, give context as to why -->
 
 ```
 
@@ -340,20 +337,25 @@ Here are some optional sections to include if you find it helpful:
 ```markdown
 ## Problems
 
-<Delve into further detail about the problems the work is seeking to solve, in greater depth than the Context section >
-
-### Participants
-
-<List additional engineers involved in the effort>
+<!-- Delve into further detail about the problems the work is seeking to solve, in greater depth than the Context section -->
 
 ## References
 
-<Links to related OKRs, Epics or issues, external resources etc>
+<!-- Links to related OKRs, Epics or issues, external resources etc -->
 
 ## Demos
 
 | Demo Date | Demo Link | Highlights |
 |-----------|-----------|------------|
+
+## Decision log
+<!-- a collapsible section to track and make visible any decisions made along the way -->
+
+{{% details summary="Log" %}}
+{{% details summary="date" %}}
+[decision taken and why]
+{{% /details %}}
+{{% /details %}}
 
 ```
 
@@ -394,15 +396,14 @@ The overview can include:
 
 #### Communication with stakeholders
 
-- [GitLab OKRs](/handbook/engineering/okrs/) capture our commitments for each quarter and are generally updated every Tuesday
-  - Updates should give sufficient context for leadership to understand current status and explain any changes in health status, completion dates or deliverables.
-- GitLab Epics capture large pieces of work and those labeled "In Progress" are also generally updated on Tuesdays
-- GitLab Issues capture smaller, concrete pieces of work, and those labeled "In Progress" should be updated twice weekly or whenever a portion of work has been completed.
+- [GitLab OKRs](/handbook/engineering/okrs/) capture our commitments for each quarter and are generally updated every Wednesday.
+- GitLab Epics capture large pieces of work and those labeled `~workflow-infra::In Progress` are updated every Wednesday.
+- GitLab Issues capture smaller, concrete pieces of work, and those labeled `~workflow-infra::In Progress` should be updated weekly or whenever a portion of work has been completed.
 - Slack is the default method of reaching out between team members
-  - [#g_infra_foundations](https://gitlab.slack.com/archives/C0313V3L5T6) is for work related discussions, external requests, etc
-  - [#g_infra_foundations_social](https://gitlab.slack.com/archives/C04QVEXBVL3) is for socializing and standups
-  - [#g_infra_foundations_notifications](https://gitlab.slack.com/archives/C04RZC5TPPD) is for automated MR notifications
+  - [#g_infra_foundations](https://gitlab.slack.com/archives/C0313V3L5T6) - work related discussions, external requests, etc
+  - [#g_infra_foundations_social](https://gitlab.slack.com/archives/C04QVEXBVL3) - socializing and standups
+  - [#g_infra_foundations_notifications](https://gitlab.slack.com/archives/C04RZC5TPPD) - automated MR notifications
+  - [#g_infra_foundations_alerts](https://gitlab.enterprise.slack.com/archives/C04Q7RQC7FF) - pipeline failures and service alerts
   - We also have team slack handles that enable us to get the whole team's attention at once
     - @infra-dwarves is our internal handle, meant for intra-team communication
     - @infra-foundations can be used by external stakeholders when they need to get our attention outside of #g_infra_foundations
-- We currently have monthly sync meetings with Delivery::Systems, as they are the biggest "customer" of Foundations and it is important to stay closely aligned with expectations and ongoing work.
