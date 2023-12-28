@@ -269,11 +269,9 @@ then the following **JiHu Exception Approval Process applies**:
 
 **Multinational companies (MNC) with headquarters outside of China and affiliates in China, or Multinational companies (MNC) with headquarters in China and affiliates outside of China, seeking a shared instance concept**:
 
-1. They are considered as GitLab accounts. It is the MNCs’ responsibility to comply with PIPL and the GitLab Subscription Agreement Section 14.4 if there are users in China to be part of the namespace and/or if there are user data crossing borders.
-2. GitLab Self-Managed licenses are recommended for these MNCs if they are seeking shared instance, with the MNC headquarters being the purchasing entities. 
-3. GitLab SaaS cannot be sold to any China affiliate directly. GitLab SaaS can only be sold to entities located outside of China.
-4. GitLab Dedicated follows GitLab SaaS rules for PIPL consideration
-5. When in doubt, slack in the @jihu-account-escalations channel
+1. GitLab SaaS cannot be sold to any China affiliate directly. GitLab SaaS can only be sold to entities located outside of China.
+2. GitLab Dedicated follows GitLab SaaS rules for PIPL consideration if (A) the Dedicated Cloud hosting region is outside of China; or (B) the data in a Dedicated Cloud hosting region in China can be accessed by GitLab.
+3. When in doubt, slack in the @jihu-account-escalations channel
 
 **Novation of an Account:**
 1. If a current customer of GitLab Inc or its Affiliates who falls within the definition of a PRC Customer, or a current PRC Customer (JiHu customer) falls outside the definition, then:
