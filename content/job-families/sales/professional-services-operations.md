@@ -2,21 +2,21 @@
 title: "Professional Services Operations"
 ---
 
-## Levels
+## Professional Services Project Coordinator
 
 ### Professional Services Project Coordinator, Associate
 
 The Professional Services Project Coordinator reports to Manager, Professional Services Operations
 
-#### Professional Services Project Coordinator Job Grade
+#### Professional Services Project Coordinator, Associate Job Grade
 
 The Professional Services Project Coordinator is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
 
 #### Professional Services Project Coordinator, Associate Responsibilities
-WIP
+To be drafted as the need for an Associate level arises
 
 #### Professional Services Project Coordinator, Associate Requirements
-WIP
+To be drafted as the need for an Associate level arises
 
 ### Professional Services Project Coordinator, Intermediate
 
@@ -97,7 +97,7 @@ Provide administrative, technical and event coordination for remote and onsite t
 - Demonstrated progressive experience with remote delivery tools such as Zoom Webinar, WebEx, MS Teams, Slack, etc.
 - Previous experience in a data-driven, analytics-centric role
 
-### Professional Services Resource Manager
+### Resource Manager
 
 #### Responsibilities
 
@@ -130,7 +130,9 @@ with regional leadership to identify and monitor staffing trends
 - You share our values, and work in accordance with those values
 - Ability to use GitLab
 
-#### Professional Services Operations Analyst Responsibilities
+### Operations Analyst 
+
+#### Responsibilities
 
 This role will provide business operations support for the Professional Services department. Reporting to the Operations Sr. Manager, this role will primarily be focused on non-revenue generating activities required by the Professional Services team.  The responsibilities will include, but are not limited to, report creation, QBR and data analysis, documenting processes, process improvement support, PSA administration.
 
@@ -149,7 +151,7 @@ This role will provide business operations support for the Professional Services
 - Maintain and contribute to all professional services operations department processes
 - Assist as a team backup to the project coordinators
 
-#### Professional Services Operations Analyst Requirements
+#### Requirements
 
 - Bachelor’s degree required, preferably in Finance, Accounting, Statistics, or Business Management
 - Demonstrated progressive industry experience in a Professional Services Operations or similar role for a high-tech company
@@ -159,7 +161,7 @@ This role will provide business operations support for the Professional Services
 - Strong experience with the entire Google suite as well as Microsoft Excel including pivot tables, analyzing and formatting data, use of filters, and creating charts and graphs
 - Excellent communication and presentation skills
 
-### PS Operations Program Manager
+## Professional Services Operations Program Manager
 
 #### Professional Services Program Manager Job Grade
 
@@ -185,24 +187,19 @@ The Professional Services Program Manager is a [grade 7](/handbook/total-rewards
 
 ### Training
 
-- Extends the Professional Services Project Coordinator Training Speciity responsibilities provide administrative, technical and event coordination for remote and onsite training programs, webinars, on-demand videos, and Customer training,
+#### Responsibilities
+- Extends the Professional Services Program Manager, the Training Speciity will provide administrative, technical and event coordination for remote and onsite training programs, webinars, on-demand videos, and Customer training,
 - Oversee the customer training resource management to ensure that the Professional Services team meets quarterly revenue forecast targets and GitLab instructors meet billable utilization targets.
 - Oversee Training forecast accuracy by 5%
 - SME in LMS System
 
+#### Requirements
+- [more detail required]
+
 ### Consulting
-WIP
+To be drafted as the need for this specialty arises
 
-## Performance Indicator
-
-- [CSAT](https://about.gitlab.com/handbook/support/support-ops/#customer-satisfaction-survey-csat ) >8.0/10
-- [Project Margin](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#long-term-profitability-targets ) > 20% for assigned projects
-- Successfully manage the quarterly Education Services revenue forecast within a 5% margin
-
-## Career Ladder
-
-- The next steps for individual contributors is to move into:
-    - PS Operations Manager
+## Professional Services Operations Management
 
 ### Manager, Professional Services Operations
 
@@ -236,14 +233,25 @@ Works with finance, sales and the PS leadership to ensure effective use and adop
 - You share our values, and work in accordance with those values.
 - Ability to use GitLab
 
-## Performance Indicators
+### Senior Manager, Professional Services Operations
 
-- [CSAT](/handbook/support/support-ops/#customer-satisfaction-survey-csat ) >8.0/10
-- [Project Margin](/handbook/customer-success/professional-services-engineering/#long-term-profitability-targets ) > 20% for assigned projects
+#### Senior Manager, Professional Services Operations Job Grade is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Manager, Professional Services Operations Responsibilities
+- [more detail required]
+
+#### Senior Manager, Professional Services Operations Requirements
+- [more detail required]
+
+## Performance Indicator
+
+- [CSAT](https://about.gitlab.com/handbook/support/support-ops/#customer-satisfaction-survey-csat ) >8.0/10
+- [Project Margin](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#long-term-profitability-targets ) > 20% for assigned projects
+- Successfully manage the quarterly Education Services revenue forecast within a 5% margin
 
 ## Career Ladder
 
-The next steps for the Professional Services Project Coordinator Job Family would be to move into the [Professional Services Project Manager](/job-families/sales/professional-services-project-manager/) Job Family.
+- A Professional Services Operations team member can progress through the various individual contributor levels or leadership roles and associated levels as outlined above. 
 
 ## Hiring Process
 
