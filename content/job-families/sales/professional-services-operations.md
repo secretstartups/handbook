@@ -12,9 +12,11 @@ The Professional Services Project Coordinator reports to Manager, Professional S
 
 The Professional Services Project Coordinator is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
 
+
 #### Professional Services Project Coordinator, Associate Responsibilities
 
 To be drafted as the need for an Associate level arises
+
 
 #### Professional Services Project Coordinator, Associate Requirements
 
@@ -165,7 +167,7 @@ This role will provide business operations support for the Professional Services
 
 ## Professional Services Operations Program Manager
 
-#### Professional Services Program Manager Job Grade
+### Professional Services Operations Program Manager Job Grade
 
 The Professional Services Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). 
 
@@ -187,9 +189,11 @@ The Professional Services Program Manager is a [grade 7](/handbook/total-rewards
 
 ## Specialties
 
+
 ### Training
 
 #### Responsibilities
+
 - Extends the Professional Services Program Manager, the Training Speciity will provide administrative, technical and event coordination for remote and onsite training programs, webinars, on-demand videos, and Customer training,
 - Oversee the customer training resource management to ensure that the Professional Services team meets quarterly revenue forecast targets and GitLab instructors meet billable utilization targets.
 - Oversee Training forecast accuracy by 5%
@@ -235,7 +239,9 @@ Works with finance, sales and the PS leadership to ensure effective use and adop
 - You share our values, and work in accordance with those values.
 - Ability to use GitLab
 
+
 ### Senior Manager, Professional Services Operations
+
 
 #### Senior Manager, Professional Services Operations Job Grade is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -245,8 +251,8 @@ Works with finance, sales and the PS leadership to ensure effective use and adop
 #### Senior Manager, Professional Services Operations Requirements
 - [more detail required]
 
-## Performance Indicator
 
+## Performance Indicator
 - [CSAT](https://about.gitlab.com/handbook/support/support-ops/#customer-satisfaction-survey-csat ) >8.0/10
 - [Project Margin](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#long-term-profitability-targets ) > 20% for assigned projects
 - Successfully manage the quarterly Education Services revenue forecast within a 5% margin
