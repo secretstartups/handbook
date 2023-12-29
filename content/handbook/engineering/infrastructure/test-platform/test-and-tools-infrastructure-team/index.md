@@ -72,8 +72,8 @@ We prioritize asynchronous communication and a handbook-first approach, in line 
 #### End-of-Week Status Update [Async]
 - **Cadence**: Every Thursday EOD
 - **Rules**:
-    1. Reflect on weekly progress and upcoming tasks.
-    2. Update blockers in the issues to mitigate risks.
+    1. The weekly update comment should summarize the current status, progress and remaining work with ETA, confidence in completion, upcoming steps, and highlight any areas requiring help or support.
+    2. Some good examples for the EOW updates can be found [here](https://gitlab.com/groups/gitlab-org/-/epics/8628#note_1090732793) and [here](https://gitlab.com/groups/gitlab-org/-/epics/5152#note_1029337901). 
     3. **Ensure that issues and epics are updated by Thursday of each week**, enabling the Engineering Manager to provide a summary to the `#test-platform` sub-department for enhanced visibility on Friday.
 
 #### Monthly Retrospective [Async]
@@ -82,14 +82,14 @@ We prioritize asynchronous communication and a handbook-first approach, in line 
     1. Contribute to the retrospective issue for the `Test & Tools Infrastructure Team` specifically in the [Quality Retrospective project](https://gitlab.com/gl-retrospectives/quality). The issue will be automatically shared in the team channel.
     2. Engage in constructive feedback and action-oriented discussions.
     3. Engineering Manager to summarize action items by the end of the week. The kudos will also be summarized and shared to `#thanks` for organization visibility. A summary of the retrospective will be shared to `#test-platform` for broader sub-platform level visibility.
-    4. The team retrospective will be in line with the [group retrospective guidelines](https://handbook.gitlab.com/handbook/engineering/management/group-retrospectives/)
+    4. The team retrospective will be in line with [Gitlab's retrospective guidelines](https://handbook.gitlab.com/handbook/engineering/management/group-retrospectives/)
 
 #### Team Meeting & Demos [Sync]
 - **Cadence**: Bi-weekly on Monday, 25 mins
 - **Rules**:
     1. Bi-weekly meetings will occur within Project tracks and within working groups. Time zone differences will lead to segmented meetings. Solo project track members may opt for asynchronous updates and detailed discussions in 1:1s.
     2. Focus on live discussions, milestone reviews, and backlog refinement.
-    3. Record quick ~5 mins demo and share in the agenda Doc. 
+    3. Record quick ~5 mins demo and share in the agenda doc. 
 
 #### Social Hours [Sync]
 - **Cadence**: Quarterly, 45 mins
@@ -106,19 +106,13 @@ We prioritize asynchronous communication and a handbook-first approach, in line 
     2. Maintain confidentiality and openness.
     3. Follow the [1:1 process](https://handbook.gitlab.com/handbook/leadership/1-1/) mentioned in the handbook. 
 
-#### Worklog/Brag Document
-- **Cadence**: Ongoing
-- **Rules**:
-    1. Consider preparing a worklog document following this [template](https://docs.google.com/document/d/1LXP5cqVfOZ983QJYbP870tZXO0iIs4OwqLIcT-REekk/edit?usp=sharing) in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log)
-    2. Regularly update with achievements and learnings.
-    3. Use it as a reference for 1:1s and performance reviews.
-
 #### Goal Setting & Review
 - **Rules**:
     1. A confidential issue will be created in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log) for setting individual goals. 
     2. Ensure every team member establishes their goals by the start quarter of each financial year. For new hires, the goal setting process should be accomplished in the onboarding process.
     3. Align individual goals with team and company objectives.
     4. Leverage 1:1s with your manager to discuss the progress on the goals and next steps. 
+    5. Consider preparing a worklog document each week following this [template](https://docs.google.com/document/d/1LXP5cqVfOZ983QJYbP870tZXO0iIs4OwqLIcT-REekk/edit?usp=sharing) in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log) to keep track of your contributions.
 
 ## Tooling
 The team currently works cross-functionally, and our task ownership spans multiple tools and projects. 
