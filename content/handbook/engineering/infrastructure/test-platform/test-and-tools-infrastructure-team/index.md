@@ -113,7 +113,7 @@ We prioritize asynchronous communication and a handbook-first approach, in line 
     2. Ensure every team member establishes their goals by the start quarter of each financial year. For new hires, the goal setting process should be accomplished in the onboarding process.
     3. Align individual goals with team and company objectives.
     4. Leverage 1:1s with your manager to discuss the progress on the goals and next steps. 
-    5. Consider preparing a worklog document each week following this [template](https://docs.google.com/document/d/1LXP5cqVfOZ983QJYbP870tZXO0iIs4OwqLIcT-REekk/edit?usp=sharing) in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log) to keep track of your contributions.
+    5. Consider preparing a worklog document each week following this [template](https://docs.google.com/document/d/1LXP5cqVfOZ983QJYbP870tZXO0iIs4OwqLIcT-REekk/edit?usp=sharing) in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log) to keep track of your contributions. One such example could be found [here](https://gitlab.com/gitlab-org/quality/work-log/-/issues/1). 
 
 ## Tooling
 The team currently works cross-functionally, and our task ownership spans multiple tools and projects. 
