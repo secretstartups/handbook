@@ -89,7 +89,10 @@ We prioritize asynchronous communication and a handbook-first approach, in line 
 - **Rules**:
     1. Bi-weekly meetings will occur within Project tracks and within working groups. Time zone differences will lead to segmented meetings. Solo project track members may opt for asynchronous updates and detailed discussions in 1:1s.
     2. Focus on live discussions, milestone reviews, and backlog refinement.
-    3. Record quick ~5 mins demo and share in the agenda doc. 
+    3. Record quick ~5 mins demo for completed work and share in the agenda doc. We also encourage everyone to record videos and post to GitLab Unfiltered. [The handbook page on YouTube](https://handbook.gitlab.com/handbook/marketing/marketing-operations/youtube/#post-everything) does an excellent job of telling why we should be doing this. If you’re uploading a video for the demos, be sure to do the following extra steps:
+       1. Add test-platform & test-and-tools-infrastructure as video tags
+       2. Add it to the Quality Team's playlist
+       3. Share it to `#test-tools-infrastructure-team` and cross-post to `#test-platform`
 
 #### Social Hours [Sync]
 - **Cadence**: Quarterly, 45 mins
