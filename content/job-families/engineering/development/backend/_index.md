@@ -99,7 +99,6 @@ Engineering Managers have the following job-family performance indicators. Perfo
 - [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
 - [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
 - [Response to Community SLO](/handbook/engineering/development/performance-indicators/#response-to-community-slo)
-- [Hiring Actual vs. Plan](/handbook/engineering/performance-indicators/#engineering-hiring-actual-vs-plan)
 - [Development Department merge request rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
 - [Diversity](/handbook/engineering/performance-indicators/#diversity)
 - [Handbook Update Frequency](/handbook/engineering/performance-indicators/#handbook-update-frequency)
