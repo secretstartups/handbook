@@ -13,9 +13,11 @@ The Professional Services Project Coordinator reports to Manager, Professional S
 The Professional Services Project Coordinator is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
 
 #### Professional Services Project Coordinator, Associate Responsibilities
+
 To be drafted as the need for an Associate level arises
 
 #### Professional Services Project Coordinator, Associate Requirements
+
 To be drafted as the need for an Associate level arises
 
 ### Professional Services Project Coordinator, Intermediate
@@ -101,7 +103,7 @@ Provide administrative, technical and event coordination for remote and onsite t
 
 #### Responsibilities
 
-- The Resource Manager will report to the Manager of PS Operations and be responsible for managing staffing/resource 
+- The Resource Manager will report to the Manager of PS Operations and be responsible for managing staffing/resource
 management across the Professional Service team
 - The role will oversee the execution and delivery of staffing across all regions. The role will partner and collaborate 
 with regional leadership to identify and monitor staffing trends
