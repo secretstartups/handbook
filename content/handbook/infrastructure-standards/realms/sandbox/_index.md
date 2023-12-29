@@ -169,12 +169,12 @@ In the [HackyStack v1.11 (November 2021) release](https://gitlab.com/gitlab-com/
 1. On your local computer navigate to your .ssh folder and generate a ssh key
 
  ```shell
- ssh-keygen -t rsa -b 4096 -C <name_of_project>
+ssh-keygen -t rsa -b 4096 -C <name_of_project>
  ```
 
 1. Navigate to terraform/main.tf on this project and copy and paste your public key. See the example below
 
- ```shell 
+ ```shell
 # -----------------------------------------------------------------------------
 # Add your Terraform modules and/or resources below this line
 # -----------------------------------------------------------------------------
