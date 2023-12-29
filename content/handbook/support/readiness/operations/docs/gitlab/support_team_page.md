@@ -4,6 +4,7 @@ description: Support Operations documentation page for the Support team page
 canonical_path: "/handbook/support/readiness/operations/docs/gitlab/support_team_page"
 ---
 
+<sup>*Introduced via [support-team-meta#2159](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2159)*</sup>
 
 ## What is the Support Team Page
 

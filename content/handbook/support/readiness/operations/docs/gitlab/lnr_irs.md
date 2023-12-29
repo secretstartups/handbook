@@ -4,9 +4,11 @@ description: Support Operations documentation page for the L&R internal requests
 canonical_path: "/handbook/support/readiness/operations/docs/gitlab/lnr_irs"
 ---
 
+<sup>*Introduced via [support-team-meta#3613](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3613)*</sup>
+
 ## What is the L&R IR form?
 
-The L&R IR form is a simple HTMl form generated via GitLab Pages that is used
+The L&R IR form is a simple HTML form generated via GitLab Pages that is used
 for L&R IRs.
 
 The source code for the Global variant is located
