@@ -17,30 +17,14 @@ As per
 > default group for each team member. All new team members you create will be
 > added to the default group.
 
-## How do we maintain them?
+## How GitLab manages Zendesk triggers
 
-We currently maintain all groups via Zendesk itself.
+For Zendesk Global, we utilize a
+[v2 sync repo](../../change_management/sync_repos#v2) for managing roles. It is
+located
+[here](https://gitlab.com/gitlab-support-readiness/zendesk-global/groups).
 
-## Current Zendesk Global groups
-
-- [Accounts Receivable](https://gitlab.zendesk.com/groups/360008238400)
-- [Billing](https://gitlab.zendesk.com/groups/360003910679)
-- [China Comms](https://gitlab.zendesk.com/groups/360007080959)
-- [General](https://gitlab.zendesk.com/groups/360002757414)
-- [SGG: Baobab](https://gitlab.zendesk.com/groups/4725956857884)
-- [SGG: Ginkgo](https://gitlab.zendesk.com/groups/4427347212434)
-- [SGG: Kapook](https://gitlab.zendesk.com/groups/4725931534108)
-- [SGG: Maple](https://gitlab.zendesk.com/groups/4427347399698)
-- [SGG: Pine](https://gitlab.zendesk.com/groups/4427366542482)
-- [Support AMER](https://gitlab.zendesk.com/groups/360002038460?location=admin_center&route=groups)
-- [Support APAC](https://gitlab.zendesk.com/groups/360002038360?location=admin_center&route=groups)
-- [Support EMEA](https://gitlab.zendesk.com/groups/360001979440?location=admin_center&route=groups)
-- [Support Focus: Authentication and Authorization](https://gitlab.zendesk.com/groups/360008238420)
-- [Support Focus: CMOC](https://gitlab.zendesk.com/groups/360008266039)
-- [Support Focus: L&R](https://gitlab.zendesk.com/groups/360008266119)
-- [Support Focus: Secure](https://gitlab.zendesk.com/groups/360008266179)
-- [Support Managers](https://gitlab.zendesk.com/groups/360004358239)
-- [Support Ops](https://gitlab.zendesk.com/groups/360004215280)
+For Zendesk US Government, manage these via Zendesk itself.
 
 ## Current Zendesk US Federal groups
 
