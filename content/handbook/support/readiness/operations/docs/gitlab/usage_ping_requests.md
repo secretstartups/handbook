@@ -4,6 +4,8 @@ description: Support Operations documentation page for usage ping requests
 canonical_path: "/handbook/support/readiness/operations/docs/gitlab/usage_ping_requests"
 ---
 
+<sup>*Introduced via [support-team-meta#3559](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3559)*</sup>
+
 ## What is the usage ping request form?
 
 The usage ping request form is a simple HTMl form generated via GitLab Pages

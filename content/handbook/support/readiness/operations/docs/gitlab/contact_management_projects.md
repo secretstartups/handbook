@@ -4,6 +4,8 @@ description: Support Operations documentation page for contact managemrnt projec
 canonical_path: "/handbook/support/readiness/operations/docs/gitlab/contact_management_projects"
 ---
 
+<sup>*Introduced via [support-team-meta#4531](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4531)*</sup>
+
 ## What is a contact management project?
 
 Contact management projects are projects on GitLab.com that allows a customer to
