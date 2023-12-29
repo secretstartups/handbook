@@ -166,12 +166,15 @@ In the [HackyStack v1.11 (November 2021) release](https://gitlab.com/gitlab-com/
 
 1. Sign into [https://gitops.gitlabsandbox.cloud](https://gitops.gitlabsandbox.cloud) using your generated credentials on [https://gitlabsandbox.cloud](https://gitlabsandbox.cloud). Keep in mind that this is `{firstInitial}{lastName}-{hash}` and not your normal GitLab username.
 1. Navigate to the project for the Terraform environment that you just created. You can quickly access the project from the link on the Cloud Account page on [https://gitlabsandbox.cloud](https://gitlabsandbox.cloud).
-1. On your local computer navigate to your .ssh folder and generate a ssh key 
- ```
+1. On your local computer navigate to your .ssh folder and generate a ssh key
+
+ ```shell
  ssh-keygen -t rsa -b 4096 -C <name_of_project>
  ```
+
 1. Navigate to terraform/main.tf on this project. and copy and paste your public key. See the example below
-```
+
+ ```shell 
 # -----------------------------------------------------------------------------
 # Add your Terraform modules and/or resources below this line
 # -----------------------------------------------------------------------------
@@ -181,7 +184,8 @@ locals {
   normalized_env_prefix = "sr-${var.env_prefix}"
   tags                  = ["sr-firewall-rule", "${local.normalized_env_prefix}-firewall-rule"]
 }
-``` 
+```
+
 1. Run a new CI pipeline. After the `Plan` job completes, trigger the `Deploy` job. (Notice how you haven’t had to do any configuration).
 1. Watch the `terraform apply` outputs as your new environment is spun up with a sample Ubuntu virtual machine for testing with. You can add additional Terraform resources as you see fit (see below).
 1. Navigate to the GCP console using the link on [https://gitlabsandbox.cloud](https://gitlabsandbox.cloud) to view the deployed VM. Feel free to connect to the VM via SSH using the `gcloud` command or Cloud Shell.
