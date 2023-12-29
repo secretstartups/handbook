@@ -18,9 +18,9 @@ description: "Test and Tools Infrastructure Team in Test Platform sub-department
 The Test & Tools Infrastructure team, under the [Test Platform sub-department](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/) at GitLab, aspires to be a pioneering force in the innovation and maintenance of advanced testing frameworks and test infrastructure to support Gitlab's principle of [Quality is everyone's responsibility](https://about.gitlab.com/handbook/engineering/quality/#our-principles).
 
 As an integral part of our vision, we aim to:
-- Build a highly performant team of engineers, combining operational and software development experience to influence the best in reliable testing processes & infrastructure to support the same.
+- Build a highly performant team of engineers, combining operational and software development experience to influence the best-in-class reliable testing processes & infrastructure to support the same.
 - Work publicly in accordance with GitLab's [`transparency`](https://about.gitlab.com/handbook/values/#transparency) value.
-- Leverage [`dogfooding`](https://about.gitlab.com/handbook/engineering/infrastructure/#dogfooding) to prepare, build, deliver tooling that improves the product itself.
+- Leverage [`dogfooding`](https://about.gitlab.com/handbook/engineering/infrastructure/#dogfooding) to prepare, build, deliver test tooling that improves the product itself.
 - Align our strategy with the industry trends, company direction, and customer needs.
 
 ## Team mission
@@ -30,8 +30,6 @@ The key components of our mission are to:
 - **Make testing efficient** to minimize time and resources while maximizing output, ensuring that testing is a facilitator, not a bottleneck, in the software development lifecycle.
 - **Make testing reliable** to consistently deliver accurate and dependable results, ensuring trust in the test system & building confidence in every release.
 - **Foster innovation** to explore, integrate, and build the latest technologies and methodologies in testing to keep GitLab at the forefront of software development innovation.
-- **Collaboration and Knowledge sharing** to promote a culture of quality within the team and across departments, enhancing the collective testing acumen and driving better outcomes. 
-- **Adapt and respond** to stay agile and responsive to the evolving needs of the development teams and the broader GitLab community, ensuring our tools and processes remain relevant and effective. 
 
 ## Team members
 
