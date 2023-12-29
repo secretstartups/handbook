@@ -378,8 +378,8 @@ When looking at the `pubsub-rails-inf-gprd-*` index, you can determine if a user
 
 To search for `git` activity over SSH, you can instead look in the `pubsub-shell-inf-gprd-*` index for specific events (note the minus signs instead of underscores):
 
-- [`command: git-upload-pack`](https://log.gprd.gitlab.net/app/r/s/B0qHS) is when someone performs a clone oven SSH.
-- [`command: git-receive-pack`](https://log.gprd.gitlab.net/app/r/s/p3J0W) is when someone performs a push oven SSH.
+- [`command: git-upload-pack`](https://log.gprd.gitlab.net/app/r/s/B0qHS) is when someone performs a clone over SSH.
+- [`command: git-receive-pack`](https://log.gprd.gitlab.net/app/r/s/p3J0W) is when someone performs a push over SSH.
 
 You can use the links in the lists above and fill in the `json.path` or `json.gl_project_path` for the project of interest.
 
