@@ -88,9 +88,9 @@ We prioritize asynchronous communication and a handbook-first approach, in line 
     1. Bi-weekly meetings will occur within Project tracks and within working groups. Time zone differences will lead to segmented meetings. Solo project track members may opt for asynchronous updates and detailed discussions in 1:1s.
     2. Focus on live discussions, milestone reviews, and backlog refinement.
     3. Record quick ~5 mins demo for completed work and share in the agenda doc. We also encourage everyone to record videos and post to GitLab Unfiltered. [The handbook page on YouTube](https://handbook.gitlab.com/handbook/marketing/marketing-operations/youtube/#post-everything) does an excellent job of telling why we should be doing this. If you’re uploading a video for the demos, be sure to do the following extra steps:
-       1. Add test-platform & test-and-tools-infrastructure as video tags
-       2. Add it to the Quality Team's playlist
-       3. Share it to `#test-tools-infrastructure-team` and cross-post to `#test-platform`
+       1. Add `test-platform` & `test-and-tools-infrastructure` as video tags.
+       2. Add it to the Quality Team's playlist.
+       3. Share it to `#test-tools-infrastructure-team` and cross-post to `#test-platform`.
 
 #### Social Hours [Sync]
 - **Cadence**: Quarterly, 45 mins
@@ -110,10 +110,13 @@ We prioritize asynchronous communication and a handbook-first approach, in line 
 #### Goal Setting & Review
 - **Rules**:
     1. A confidential issue will be created in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log) for setting individual goals. 
-    2. Ensure every team member establishes their goals by the start quarter of each financial year. For new hires, the goal setting process should be accomplished in the onboarding process.
+    2. Ensure every team member establishes their goals by the first quarter of each financial year. For new hires, the goal setting process should be accomplished in the onboarding process.
     3. Align individual goals with team and company objectives.
     4. Leverage 1:1s with your manager to discuss the progress on the goals and next steps. 
-    5. Consider preparing a worklog document each week following this [template](https://docs.google.com/document/d/1LXP5cqVfOZ983QJYbP870tZXO0iIs4OwqLIcT-REekk/edit?usp=sharing) in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log) to keep track of your contributions. One such example could be found [here](https://gitlab.com/gitlab-org/quality/work-log/-/issues/1). 
+    5. Consider preparing a worklog document each week following this [template](https://docs.google.com/document/d/1LXP5cqVfOZ983QJYbP870tZXO0iIs4OwqLIcT-REekk/edit?usp=sharing) in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log) to keep track of your contributions. This will assist in remembering contributions beyond usual project activities, highlighting them for consideration in performance reviews. One such example could be found [here](https://gitlab.com/gitlab-org/quality/work-log/-/issues/1). 
+       1. Create an issue with format - `<Name>-Worklog-<Financial Year>-<Quarter>`.
+       2. Keep updating the worklog each week.
+       3. Once the quarter ends, summarize the worklog issue with major contributions and close the same. 
 
 ## Tooling
 The team currently works cross-functionally, and our task ownership spans multiple tools and projects. 
