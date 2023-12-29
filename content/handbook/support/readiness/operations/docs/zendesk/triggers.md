@@ -14,17 +14,71 @@ As per
 > when a ticket has been opened. Another can be created to then notify the
 > customer when the ticket is solved.
 
-## How do we maintain them?
+## How GitLab manages Zendesk triggers
 
-Instead of managing Zendesk triggers via Zendesk itself, we instead use GitLab
-projects to maintain them. This allows us to have version-controlled triggers.
+#### Zendesk Global
 
-You can find our Zendesk trigger projects via:
+We currently utilize a [v2 sync repo](../../change_management/sync_repos#v2) for
+managing triggers in Zendesk Global.
 
-- [Zendesk Global](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/triggers)
-- [Zendesk US Federal](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/triggers)
+The two projects that make this work are:
 
-## Creating a trigger via Zendesk
+- [Support managed content project](https://gitlab.com/gitlab-com/support/zendesk-global/triggers)
+- [Sync repo project](https://gitlab.com/gitlab-support-readiness/zendesk-global/triggers)
+
+Deployments are done on the 1st of each month at 0000 UTC.
+
+The basic process for management of triggers would be:
+
+```mermaid
+graph TD;
+  A -->|Content modification| B
+  A -->|Anything else| E
+  B --> C
+  C --> D
+  D --> I
+  E --> F
+  F -->|Actions modification| G
+  F -->|Creation| K
+  F -->|Deactivation| N
+  G --> H
+  H --> I
+  I --> J
+  K --> L
+  L --> M
+  M --> G
+  N --> G
+  A{What kind of change is it?}
+  B[Merge request created<br>in Support managed<br>content project]
+  C[Support Manager reviews,<br>approves, and merges<br>the changes]
+  D[Webhook fires to trigger<br>submodule update on<br>sync repo project]
+  E[support-team-meta issue is created]
+  F{Support Readiness determines<br>actions needed}
+  G[Support Readiness creates<br>merge request in<br>sync repo project]
+  H[Support Readiness reviews,<br>approves, and merges<br>the changes]
+  I[Commit is made on default<br>branch of sync repo project]
+  J[Sync scripts perform updates to<br>Zendesk during next deployment]
+  K[Support Readiness creates<br>placeholder trigger in Zendesk]
+  L[Support Readiness creates<br>merge request in Support<br>managed content project]
+  M[Support Manager reviews,<br>approves, and merges<br>the changes]
+  N[Support Readiness tells<br>Support to move the file<br>in the Support managed<br>content project after a<br>specific date]
+```
+
+#### Zendesk US Government
+
+We currently utilize a [v1 sync repo](../../change_management/sync_repos#v1) for
+manages macros in Zendesk Global.
+
+The project that makes this work is
+[here](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/triggers)
+
+## Performing actions in Zendesk
+
+**NOTE**: This is for documentation and instruction purpose. An admin level
+account is required and these should only be performed when actually warranted,
+such as when creating a placeholder trigger.
+
+#### Creating a trigger via Zendesk
 
 To create a trigger in Zendesk, you first need to go to the Admin Center
 ([Zendesk Global](https://gitlab.zendesk.com/admin/) /
@@ -49,7 +103,7 @@ After doing this, you will then click the blue `Create trigger` button.
 **Note**: By default, the trigger's position will be set to the bottom of the
 select category. To adjust this, see [Positioning](#positioning).
 
-## Editing a trigger via Zendesk
+#### Editing a trigger via Zendesk
 
 Editing a Zendesk trigger is very similar to
 [creating one](#creating-a-trigger-via-zendesk). You will follow the same
@@ -62,7 +116,7 @@ Doing so will bring up the trigger editor page. From here, you can tweak the
 various aspects of the trigger. Once you have the edits in place, ensure the
 dropdown at the bottom right says `Update` and click the blue `Submit` button.
 
-## Deactivating a trigger via Zendesk
+#### Deactivating a trigger via Zendesk
 
 There are actually two ways to deactivate a trigger in the Zendesk UI. The
 quicker way is to go to the triggers page, locate the trigger in question, hover
@@ -78,7 +132,7 @@ the trigger editor page. At the bottom right, ensure the drop-down says
 retained in the backend. Re-enabling the trigger will have it take the same
 position it was in while previously active.
 
-## Positioning
+#### Positioning
 
 Many components of Zendesk using positioning to determine the overall run order.
 With triggers being event-based events, it is often *very* important to consider
@@ -101,7 +155,7 @@ triggers into the order you desire. After making the changes, click the blue
 While this does not matter in the UI, it will matter in the repo sync we
 utilize.
 
-## Trigger standards
+#### Trigger standards
 
 To ensure all triggers we utilize are both consistent in nature and transparent
 in their actions, we strive to meet some standards on all triggers we work with.
@@ -128,23 +182,3 @@ succinct. As an example, if you wanted a trigger to only run when the form is
 `Support Ops`, it is better to simply put a condition of "Form is Support Ops"
 than adding exclusions for *every* other form. This can take time and practice
 to learn, so when in doubt, pair with the rest of the Support Ops team!
-
-## Change management
-
-As these are maintained via sync repositories, our standard change management
-process applies to all Zendesk triggers. See
-[standard change management](/handbook/support/readiness/operations/docs/change_management#standard-change-management)
-for more information.
-
-#### Labels to use
-
-For all issues and MRs involving triggers, the label
-`Support-Ops-Category::Triggers` should be used.
-
-#### Change criticality
-
-Due to the nature and impact adding/editing/deleting Zendesk triggers imposes,
-all issues/MRs related to Zendesk triggers will be classified as either
-[criticality 1](/handbook/support/readiness/operations/docs/change_criticalities#criticality-1)
-or
-[criticality 2](/handbook/support/readiness/operations/docs/change_criticalities#criticality-2)

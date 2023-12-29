@@ -33,17 +33,69 @@ Currently, Zendesk views have some limitations:
   [archived tickets](https://support.zendesk.com/hc/en-us/articles/203657756-About-ticket-archiving)
   (i.e. Closed tickets after 120 days.)
 
-## How do we maintain them?
+## How GitLab manages Zendesk automations
 
-Instead of managing Zendesk views via Zendesk itself, we instead use GitLab
-projects to maintain them. This allows us to have version-controlled views.
+#### Zendesk Global
 
-You can find our Zendesk view projects via:
+We currently utilize a [v2 sync repo](../../change_management/sync_repos#v2) for
+managing automations in Zendesk Global.
 
-- [Zendesk Global](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/views)
-- [Zendesk US Federal](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/views)
+The two projects that make this work are:
 
-## Moving tickets between views
+- [Support managed content project](https://gitlab.com/gitlab-com/support/zendesk-global/views)
+- [Sync repo project](https://gitlab.com/gitlab-support-readiness/zendesk-global/views)
+
+Deployments are done on the 1st of each month at 0000 UTC.
+
+The basic process for management of triggers would be:
+
+```mermaid
+graph TD;
+  A -->|Columns, sorting, grouping modification| B
+  A -->|Anything else| E
+  B --> C
+  C --> D
+  D --> I
+  E --> F
+  F -->|Conditions modification| G
+  F -->|Creation| K
+  F -->|Deactivation| N
+  G --> H
+  H --> I
+  I --> J
+  K --> L
+  L --> M
+  M --> G
+  N --> G
+  A{What kind of change is it?}
+  B[Merge request created<br>in Support managed<br>content project]
+  C[Support Manager reviews,<br>approves, and merges<br>the changes]
+  D[Webhook fires to trigger<br>submodule update on<br>sync repo project]
+  E[support-team-meta issue is created]
+  F{Support Readiness determines<br>actions needed}
+  G[Support Readiness creates<br>merge request in<br>sync repo project]
+  H[Support Readiness reviews,<br>approves, and merges<br>the changes]
+  I[Commit is made on default<br>branch of sync repo project]
+  J[Sync scripts perform updates to<br>Zendesk during next deployment]
+  K[Support Readiness creates<br>placeholder view in Zendesk]
+  L[Support Readiness creates<br>merge request in Support<br>managed content project]
+  M[Support Manager reviews,<br>approves, and merges<br>the changes]
+  N[Support Readiness tells<br>Support to move the file<br>in the Support managed<br>content project after a<br>specific date]
+```
+
+#### Zendesk US Government
+
+We currently utilize a [v1 sync repo](../../change_management/sync_repos#v1) for
+manages macros in Zendesk Global.
+
+The project that makes this work is
+[here](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/views)
+
+## Performing actions in Zendesk
+
+**NOTE**: This is for documentation and instruction purpose. An admin level
+account is required and these should only be performed when actually warranted,
+such as when creating a placeholder trigger.
 
 The criteria for most views is centered around the form the ticket is using. But
 there are some scenarios where the tags on a ticket can cause it to show in
@@ -51,7 +103,7 @@ multiple areas.
 
 As such, it is best to reach out to Support Operations for guidance.
 
-## Creating a view via Zendesk
+#### Creating a view via Zendesk
 
 To create a view in Zendesk, you first need to go to the Admin Center
 ([Zendesk Global](https://gitlab.zendesk.com/admin/) /
@@ -82,7 +134,7 @@ From here, you will:
 With all of that entered, click the blue `Save` button at the bottom-right of
 the page to create the view.
 
-## Editing a view via Zendesk
+#### Editing a view via Zendesk
 
 To edit a view, you will first go to the Admin Center
 ([Zendesk Global](https://gitlab.zendesk.com/admin/) /
@@ -98,7 +150,7 @@ page).
 Once you are done making your edits, click the blue `Save` button at the
 bottom-right of the page to save the changes.
 
-## Deactivating a view via Zendesk
+#### Deactivating a view via Zendesk
 
 There are actually two ways to deactivate a view in the Zendesk UI. The
 quicker way is to go to the views page, locate the view in question, hover
@@ -114,7 +166,7 @@ the view editor page. At the bottom right, ensure the dropdown says
 retained in the backend. Re-enabling the view will have it take the same
 position it was in while previously active.
 
-## Positioning
+#### Positioning
 
 Many components of Zendesk using positioning to determine the overall run order.
 With views being how agents locate tickets, it is often *very* important to
@@ -144,7 +196,7 @@ consider the following when creating/editing views:
 - what kind of groups can agents be in, and how that might conflict with the
   views that show
 
-## View standards
+#### View standards
 
 To ensure all views we utilize are both consistent in nature and transparent in
 their actions, we strive to meet some standards on all views we work with.
@@ -162,28 +214,3 @@ an example, if you wanted a view to only run when the form is `Support Ops`, it
 is better to simply put a condition of "Form is Support Ops" than adding
 exclusions for *every* other form. This can take time and practice to learn, so
 when in doubt, pair with the rest of the Support Ops team!
-
-## Change management
-
-As these are maintained via sync repositories, our standard change management
-process applies to all Zendesk views. See
-[standard change management](/handbook/support/readiness/operations/docs/change_management#standard-change-management)
-for more information.
-
-#### Labels to use
-
-For all issues and MRs involving views, the label `Support-Ops-Category::Views`
-should be used.
-
-#### Change criticality
-
-Due to the nature and impact adding/editing/deleting Zendesk views can impose on
-agents, all issues/MRs related to Zendesk views will be classified as either
-[criticality 2](/handbook/support/readiness/operations/docs/change_criticalities#criticality-1)
-or
-[criticality 3](/handbook/support/readiness/operations/docs/change_criticalities#criticality-2)
-
-The exception to this would be simple changes with very little impact, such as:
-
-- Changing the column order
-- Adding a new column
