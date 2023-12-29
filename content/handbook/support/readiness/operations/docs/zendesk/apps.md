@@ -181,6 +181,14 @@ will not) recieve are:
     - Only public comments from customers
     - Only private comments
     - All types of comments
+- Notify me only for tickets with priority
+  - This tells the app which priorities to notify you on
+  - Values:
+    - Urgent
+    - High
+    - Medium
+    - Low
+  - **Note** A blank value is assumed to be "all priorities"
 - Also notify me for escalated ticket creation
   - This dictates if you want to be notified via the app when an escalated
     organization creates a ticket.
@@ -188,6 +196,23 @@ will not) recieve are:
 - Also notify me for emergency ticket creation
   - This dictates if you want to be notified via the app when an emergency
     ticket is created.
+  - **Note** This works *independently* of all other settings.
+- Also notify me for STARs
+- Also notify me for soon to breach tickets on
+  - This dictates if you want to be notified via the app when a ticket is about
+    to breach (within 2 hours)
+  - Values:
+    - Assigned tickets only
+    - CC'd tickets only
+    - Tickets within my SGG only
+    - All tickets
+  - **Note** This works *independently* of all other settings.
+- Also notify me for tickets created via specific orgs
+  - This dictates if you want to be notified via the app when a ticket is
+    created by a specific organization
+  - The list should be comma separated
+    - Example, if you want to be notified for organizations 123, 456, and 789,
+      use the value `123,456,789` or `123, 456, 789`
   - **Note** This works *independently* of all other settings.
 
 For information on editing your personal user settings, please see
