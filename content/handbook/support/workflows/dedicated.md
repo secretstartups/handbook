@@ -139,6 +139,11 @@ When any changes are required besides those listed below, raise an issue in the 
 
 In cases where Customer Support needs to interact with GitLab Dedicated engineers to gather information or similarly debug a problem at tenant's request (when Grafana or OpenSearch does not suffice), raise an issue in the [GitLab Dedicated issue tracker](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues) using [the `Request for Help` template](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new?issuable_template=request_for_help).
 
+During the course of the investigation, you may realize that you need to escalate a Request for Help (RFH) issue to another team. You should follow the existing process to [formally request help from another group in the GitLab Development Team](https://handbook.gitlab.com/handbook/support/workflows/how-to-get-help/#how-to-formally-request-help-from-the-gitlab-development-team). When doing this:
+
+- Summarize the investigation thus far and make sure the ask for the team you are escalating to is clear
+- Apply the `~workflow-infra::Escalated` label to the RFH issue in the GitLab Dedicated issue tracker
+
 ### Escalating an Emergency issue
 
 The same [definitions and exceptions](/handbook/support/workflows/customer_emergencies_workflows#determine-if-the-situation-qualifies-as-an-emergency) apply.
