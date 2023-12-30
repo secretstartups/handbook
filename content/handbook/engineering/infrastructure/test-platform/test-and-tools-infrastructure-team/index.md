@@ -58,10 +58,10 @@ graph LR
 
 ## Team Rituals
 
-### Philosophy
 - We prioritize asynchronous communication and a handbook-first approach, in line with GitLab's all-remote, timezone-distributed structure.
 - We emphasize the [Maker’s Schedule](http://www.paulgraham.com/makersschedule.html), focusing on productive, uninterrupted work.
 - Most mandatory recurring meetings are scheduled on Tuesdays and Thursdays.
+- All meeting agendas could be found in the [Team Shared Drive]() as well as in the meeting invite.
 
 ### Work Related Rituals
 #### Standup Notes [Async]
