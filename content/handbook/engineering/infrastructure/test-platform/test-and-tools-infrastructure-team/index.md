@@ -57,7 +57,11 @@ graph LR
 ```
 
 ## Team Rituals
-We prioritize asynchronous communication and a handbook-first approach, in line with GitLab's all-remote, timezone-distributed structure.
+
+### Philosophy
+- We prioritize asynchronous communication and a handbook-first approach, in line with GitLab's all-remote, timezone-distributed structure.
+- We emphasize the [Maker’s Schedule](http://www.paulgraham.com/makersschedule.html), focusing on productive, uninterrupted work.
+- Most mandatory recurring meetings are scheduled on Tuesdays and Thursdays.
 
 ### Work Related Rituals
 #### Standup Notes [Async]
@@ -83,7 +87,7 @@ We prioritize asynchronous communication and a handbook-first approach, in line 
     4. The team retrospective will be in line with [Gitlab's retrospective guidelines](https://handbook.gitlab.com/handbook/engineering/management/group-retrospectives/)
 
 #### Team Meeting & Demos [Sync]
-- **Cadence**: Bi-weekly on Monday, 25 mins
+- **Cadence**: Bi-weekly on Tuesday, 25 mins
 - **Rules**:
     1. Bi-weekly meetings will occur within Project tracks and within working groups. Time zone differences will lead to segmented meetings. Solo project track members may opt for asynchronous updates and detailed discussions in 1:1s.
     2. Focus on live discussions, milestone reviews, and backlog refinement.
@@ -93,11 +97,11 @@ We prioritize asynchronous communication and a handbook-first approach, in line 
        3. Share it to `#test-tools-infrastructure-team` and cross-post to `#test-platform`.
 
 #### Social Hours [Sync]
-- **Cadence**: Quarterly, 45 mins
+- **Cadence**: Monthly on last Thursday, 45 mins
 - **Rules**:
-    1. Foster non-work-related interactions for team bonding.
+    1. Foster non-work-related interactions (playing online retro-games, discussion on wines and what not!) for team bonding.
     2. The social hours will be scheduled inclusively across multiple time zones.
-    3. An issue will be created in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log) to discuss on social hour ideas.
+    3. This is also an **optional** meeting, respecting individual's priorities. 
 
 ### Personal/Career Development Rituals
 #### Weekly 1:1 Meeting with Engineering Manager
