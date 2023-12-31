@@ -17,9 +17,12 @@ A relocation that results in no change in compensation can be approved by the te
 
 Team Members are required to communicate a relocation by following the short-term or long-term relocation process below prior to their move. The consequences of not communicating to the appropriate group could result in [underperformance]({{< ref "underperformance" >}}) management action or loss of employment, depending on the circumstances.
 
-Generally, team members may live or work outside their permanent residence for an aggregate amount of 183 days (6 months) per year.  However, the amount does depend on the particular country (or state) and what it considers to be a "resident" for tax purposes, as well as what it considers the tax year.  If you are not sure about the aggregate amount allowed by the country or state where you are visiting, you should check with your personal tax advisor. If you believe you or a team member you manage is at risk of exceeding (or has already exceeded) the aggregate amount of 183 days (6 months) (or less in certain countries), you must contact the People group **immediately**.
+Generally, team members may live or work outside their permanent residence for an aggregate amount of 183 days (6 months) per year.  However, the amount does depend on the particular country (or state) and what it considers to be a "resident" for tax purposes, as well as what it considers the tax year.  If you are not sure about the aggregate amount allowed by the country or state where you are visiting, you should check with your personal tax advisor. If you believe you or a team member you manage is at risk of exceeding (or has already exceeded) the aggregate amount of 183 days (6 months) (or less in certain countries), you must contact the People group **immediately**. 
 
 Having team members for 6 months or more working outside of their contractual location poses potential tax liability for both GitLab and the team member. For this reason, it is important to communicate transparently and promptly with the People Team.
+
+Additionally, certain roles require an individual to be present in the location for which they were hired. Team members in Sales roles must seek manager approval to work outside of their home location due to role requirements to travel to customers and be available for customers within their timezone. Managers can deny a relocation request or ask for a team member to change their request due to the impact on business results. If a team member in Sales fails to communicate and seek approval to work outside of their hired location, that could also result in [underperformance]({{< ref "underperformance" >}}) management action or loss of employment, depending on the circumstances.
+
 
 ### Short-Term Stay Definition
 
