@@ -29,18 +29,29 @@ Each view that is meant to be embedded in the public handbook must be published 
 
 ### Workbook Naming Convention
 
-When publishing workbooks to our Tableau Cloud site for the first time please name the workbook with their intended title, so that the resulting URL will capture just this title:
+When publishing workbooks to our Tableau Cloud site for the first time please name the workbook with their intended / official title, so that the resulting URL will capture just this title (this will allow us to keep the same URL when the workbook is published to the Ad-hoc or Production spaces):
 ![](images/naming_tableau_workbook.png)
 ![](images/workbook_url.png)
 
 Publishing to the [Development](https://10az.online.tableau.com/#/site/gitlab/projects/300844) project:
-For all workbooks published to Development project please prefix them with DRAFT or [Draft] or [DRAFT] to indicate that they are in development mode and not a workbook that has been peer reviewed and intended to serve as a SSOT for a use case.  After the workbook is published in this space, please edit the title by navigating to your workbook and clicking on the ellipse symbol to select on Rename. Add the DRAFT/[Draft]/[DRAFT] prefix and click on Rename to confirm the change.
+For all workbooks published to the Development project please prefix them with DRAFT to indicate that they are in development mode and not a workbook that has been peer reviewed and intended to serve as the single source of truth (SSOT) for a use case. We will add the DRAFT prefix only **after** the workbook is published in this space. Once the workbook has been published please edit the title by navigating to your workbook and clicking on the ellipse symbol (on the right) to select the **Rename** option. 
 ![](images/rename_workbook_online.png)
+
+Add the DRAFT prefix to your workbook title and click on the _Rename_ button to confirm this change.
 ![](images/add_draft_prefix.png)
 
 Publishing to the [Ad-hoc](https://10az.online.tableau.com/#/site/gitlab/projects/361929) or [Production](https://10az.online.tableau.com/#/site/gitlab/projects/361859) project:
-When publishing workbooks to the Ad-hoc or Production project, if the workbook is being published for the first time, please select Move and then rename the workbook from its title with the DRAFT/[Draft]/[DRAFT] prefix to have its official title with the [functional team's abbreviation](https://gitlab.com/gitlab-data/tableau/-/blob/main/admin/structure.md). For example, these workbooks in the Ad-hoc/Product/General folder has been renamed with the PD: prefix once they have been published:
-![](images/ad-hoc_pd_workbooks.png)
+When publishing workbooks to the Ad-hoc or Production project, if the workbook is being published for the first time, please select **Move** and then rename the workbook to have the DRAFT prefix removed.
+
+The BI team will leverage the Tags functionality available in Tableau Cloud to better organize workbooks by department and its publishing status. For example, this workbook below is assigned the _Data Team_ and _Draft_ tags.
+![](images/tags_example.png)
+
+Applying tags allows us to provide more information on the workbook, so that we can easily discern them by their business function / department and whether the content is a draft or approved SSOT workbook. To filter workbooks by their tags, please click on the search box in the upper right-hand corner of the project. Under **Content types** select **Workbooks**:
+![](images/search_tags.png)
+
+Once in the Workbooks section, click on the **Tags** dropdown to filter content by tags:
+![](images/tags_example.png)
+
 
 ## Row Level Security
 
