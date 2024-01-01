@@ -34,7 +34,7 @@ When publishing workbooks to our Tableau Cloud site for the first time please na
 ![](images/workbook_url.png)
 
 Publishing to the [Development](https://10az.online.tableau.com/#/site/gitlab/projects/300844) project:
-For all workbooks published to Development project please prefix them with DRAFT or [Draft] or [DRAFT] to indicate that they are in development mode and not an official workbook that has been  After the workbook is published in this space, please edit the title by navigating to your workbook and clicking on the ellipse symbol to select on Rename. Add the DRAFT/[Draft]/[DRAFT] prefix and click on Rename to confirm the change.
+For all workbooks published to Development project please prefix them with DRAFT or [Draft] or [DRAFT] to indicate that they are in development mode and not a workbook that has been peer reviewed and intended to serve as a SSOT for a use case.  After the workbook is published in this space, please edit the title by navigating to your workbook and clicking on the ellipse symbol to select on Rename. Add the DRAFT/[Draft]/[DRAFT] prefix and click on Rename to confirm the change.
 ![](images/rename_workbook_online.png)
 ![](images/add_draft_prefix.png)
 
