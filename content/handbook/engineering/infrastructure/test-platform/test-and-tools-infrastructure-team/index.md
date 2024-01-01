@@ -61,6 +61,7 @@ graph LR
 - We prioritize asynchronous communication and a handbook-first approach, in line with GitLab's all-remote, timezone-distributed structure.
 - We emphasize the [Maker’s Schedule](http://www.paulgraham.com/makersschedule.html), focusing on productive, uninterrupted work.
 - Most mandatory recurring meetings are scheduled on Tuesdays and Thursdays.
+- We reserve approximately 50% of Fridays for learning new technologies and conducting research work, ensuring our team stays abreast of industry trends and fosters innovation in our projects. This time is dedicated to exploring emerging tools, deep-diving into subjects relevant to our work, engaging in self-directed learning, and experimenting with new ideas or proof-of-concepts. Team members have their calendar marked with this dedicated learning time. Any new meeting requests during these hours should be communicated beforehand, respecting this essential period for personal and professional development.
 - All meeting agendas could be found in the [Team Shared Drive]() as well as in the meeting invite.
 
 ### Work Related Rituals
