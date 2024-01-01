@@ -137,7 +137,7 @@ graph LR
   - Each issues/epics in the roadmap is assigned.  
   - A MR is raised and merged to add the Epics and Issue Board in the [Roadmap handbook page](./roadmap-test-and-tools-infrastructure.md).
 
-- Our project tracks are guided by the principles of the  ([Lean Startup Principles](https://theleanstartup.com/principles)), particularly the Build-Measure-Learn feedback loop, which emphasizes rapid prototyping, continuous iteration, and learning from real-world feedback. The stages include:
+- Our project tracks are guided by the  [Lean Startup Principles](https://theleanstartup.com/principles), particularly the Build-Measure-Learn feedback loop, which emphasizes rapid prototyping, continuous iteration, and learning from real-world feedback. The stages include:
   - **Discovery**: Engaging in data-driven analysis to develop clear, actionable goals. This aligns with the 'Learn' phase, where understanding customer needs is crucial.
   - **Prototyping**: Conducting exploratory studies and developing proof-of-concepts. We adopt a fail-fast mechanism, encouraging innovation and risk-taking to create a minimal viable product (MVP).
   - **Implementation**: Executing the plan with agility having an emphasis on scaling the MVP to [MVC](../../../../product/product-principles.md#the-minimal-viable-change-mvc) and iterate over it.  
