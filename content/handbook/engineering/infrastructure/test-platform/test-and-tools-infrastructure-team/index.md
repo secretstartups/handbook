@@ -86,7 +86,7 @@ graph LR
     3. Engineering Manager to summarize action items by the end of the week. The kudos will also be summarized and shared to `#thanks` for organization visibility. A summary of the retrospective will be shared to `#test-platform` for broader sub-platform level visibility.
     4. The team retrospective will be in line with [Gitlab's retrospective guidelines](https://handbook.gitlab.com/handbook/engineering/management/group-retrospectives/)
 
-#### Team Meeting & Demos [Sync]
+#### Team Meeting and Demos [Sync]
 - **Cadence**: Bi-weekly on Tuesday, 25 mins
 - **Rules**:
     1. Bi-weekly meetings will occur within Project tracks and within working groups. Time zone differences will lead to segmented meetings. Solo project track members may opt for asynchronous updates and detailed discussions in 1:1s.
@@ -121,6 +121,57 @@ graph LR
        1. Create an issue with format - `<Name>-Worklog-<Financial Year>-<Quarter>`.
        2. Keep updating the worklog each week.
        3. Once the quarter ends, summarize the worklog issue with major contributions and close the same. 
+
+## How we work
+
+### Roadmap Planning
+
+- Pre-work and departmental sign-off (~3 weeks)
+    - Our roadmap preparation is an intensive two-week process, led by the principle of [DRIs](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/). During this phase, DRIs, take the lead in drafting the roadmap following [the roadmap prep-work template]() for necessary project tracks. This involves gathering inputs from the working group, various stakeholders, assessing past performance, and aligning with the strategic goals of the Test and Tools Infrastructure Team. 
+    - Upon completion of the preparation phase, the roadmap from various project tracks is assembled into a handbook page MR and presented to the Test-Platform Sub-Department Director for review and sign-off. This ensures alignment with broader organizational objectives and secures executive buy-in.
+    - Merge the MR once approved and share it across the Test Platform department.
+
+- Translating the roadmap into actionable items (~1 week)
+  - This translation process is meticulous, ensuring that each milestone is broken down into manageable, clearly defined tasks following the [issue creation guideline for tracks](../roadmap.md#overview).
+  - Project track specific GitLab board is created with the combination of epic, team label `team" Test and Tools Infrastructure` and the [Workflow Labels](../project-management/index.md#workflow-labels). 
+  - Each issues/epics in the roadmap is assigned.  
+  - A MR is raised and merged to add the Epics and Issue Board in the [Roadmap handbook page](./roadmap-test-and-tools-infrastructure.md).
+
+- Our project tracks are guided by the principles of the  ([Lean Startup Principles](https://theleanstartup.com/principles)), particularly the Build-Measure-Learn feedback loop, which emphasizes rapid prototyping, continuous iteration, and learning from real-world feedback. The stages include:
+  - **Discovery**: Engaging in data-driven analysis to develop clear, actionable goals. This aligns with the 'Learn' phase, where understanding customer needs is crucial.
+  - **Prototyping**: Conducting exploratory studies and developing proof-of-concepts. We adopt a fail-fast mechanism, encouraging innovation and risk-taking to create a minimal viable product (MVP).
+  - **Implementation**: Executing the plan with agility having an emphasis on scaling the MVP to [MVC](../../../../product/product-principles.md#the-minimal-viable-change-mvc) and iterate over it.  
+  - **Guardrailing**: Building the required guardrails (process and tech) so that we do not fallback to the earlier state. 
+  - **Monitoring**: Continuous data-driven monitoring for user feedback, anomalies and assess the impact on key business metrics and performance indicators.
+
+
+- Roadmap review and reporting
+    - Adhering to our team's [bi-weekly ritual](#team-meeting-and-demos-sync), we conduct reviews to assess progress, address challenges, and recalibrate goals if necessary. These sessions are crucial for maintaining momentum and ensuring alignment with our roadmap.
+    - We provide comprehensive quarterly reports following this [template](), detailing the progress of our roadmap initiatives. These reports offer insights into achievements, learning, and areas needing attention, contributing to transparent communication and strategic planning for upcoming quarters.
+
+### Support Assistance
+  - Around 20% of weekly time is set aside for support tasks, balancing our roadmap work with emerging support needs.
+  - Team members diligently monitor `#test-platform` and other pertinent slack channels and issue discussions, staying alert for any requests for assistance or support. 
+  - Relevant support requests are converted into issues. Add `team:test-and-tools-infrastructure` label in the issues to track it in the team's [backlog board](https://gitlab.com/groups/gitlab-org/-/boards/7168288?label_name%5B%5D=team%3A%3ATest%20and%20Tools%20Infrastructure). Issue creation is a critical activity for our team, even for issues that are quickly resolved through Slack communications. Documenting both the problem and its resolution in an issue helps in maintaining a comprehensive record. This not only assists in future reference and knowledge sharing but also allows us to track the time and resources invested in resolving these issues.
+  - Ensure each issue is tagged with a `type` label that indicates its association with specific tooling, enabling streamlined tracking and management. 
+    - [TBD relevant types for TTI team to track, eg. `type::maintenance`]
+  - Team members analyze the ticket and add a priority based on the [Reliability Department's prioritization framework](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues/#priority). P1 issues will be taken up on an urgent basis the same week based on the availability of the relevant team members. Lower priority issues are scheduled for review and discussion in our next bi-weekly meeting for capacity planning.
+  - The issues should be following the [Test Platform workflow label guidelines](../project-management/index.md#workflow-labels).
+  - Updates on the support requests should be communicated at the end of each week in the issue comments.
+  - Team members should record support activities (usually outside of general project tracks) and progress in the worklog for transparency and tracking.
+
+### Borrow requests
+
+It is highly unlikely that members of the Test Tools and Infrastructure team will be borrowed, as our focus does not align with general Test Engineering support. Our work is driven by a unique [roadmap](./roadmap-test-and-tools-infrastructure.md), and any incoming requests are calibrated based on our [Support Assistance Process](#support-assistance). However, if a team is developing their test tooling and infrastructure and requires short-term support to centralize their solution with expert guidance, the following process should be adhered to:
+
+1. Initiate a [borrow request issue](https://gitlab.com/gitlab-com/Product/-/issues/new?issuable_template=Borrow-Request-Lite) with the `~SET Borrow` label.
+2. Submit requests at least two weeks in advance for adequate preparation and resource planning.
+3. The leadership team of the Test Platform will triage and determine the appropriate team for each request. Once decided, they will signify this by adding a specific team label to the request. For Test and Tools Infrastructure team, the team label is `team: Test and Tools Infrastructure`. 
+4. Borrow requests are prioritized based on urgency and the potential impact on product development.
+
+### On-call activities
+Test and Tools Infrastructure team follows the Test Platform on-call rotations: pipeline triage (SET-led) and incident management (QEM-led). These are scheduled in advance to share the responsibilities of debugging pipeline failures and representing Quality in incident responses.
+For more information, please visit our [on-call rotation page](oncall-rotation).
 
 ## Tooling
 The team currently works cross-functionally, and our task ownership spans multiple tools and projects. 
