@@ -90,6 +90,10 @@ If you have the memory to spare on your workstation, it will help your performac
 
 ## Configuration
 
+### UPDATE 2023=12
+
+Based on demo previews, it looks like the new [Toolbox Enterprise](https://www.jetbrains.com/toolbox-enterprise/) features will finally provide a viable and easy way to share configuration across a team. Jetbrains has said that the features we need should be available sometime around mid-2024.
+
 ### UPDATE 2023-11
 
 With the deprecation of the Settings Repository feature, JetBrains has acknowledged that
