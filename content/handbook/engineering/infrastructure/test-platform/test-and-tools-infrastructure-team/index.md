@@ -141,7 +141,7 @@ graph LR
   - **Discovery**: Engaging in data-driven analysis to develop clear, actionable goals. This aligns with the 'Learn' phase, where understanding customer needs is crucial.
   - **Prototyping**: Conducting exploratory studies and developing proof-of-concepts. We adopt a fail-fast mechanism, encouraging innovation and risk-taking to create a minimal viable product (MVP).
   - **Implementation**: Executing the plan with agility having an emphasis on scaling the MVP to [MVC](../../../../product/product-principles.md#the-minimal-viable-change-mvc) and iterate over it.  
-  - **Guardrailing**: Building the required guardrails (process and tech) so that we do not fallback to the earlier state. 
+  - **Guardrailing**: Build necessary guardrails (both process and technology) to prevent regression to previous states. 
   - **Monitoring**: Continuous data-driven monitoring for user feedback, anomalies and assess the impact on key business metrics and performance indicators.
 
 
