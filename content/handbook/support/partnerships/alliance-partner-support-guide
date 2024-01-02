@@ -5,7 +5,21 @@
   - **AMER timezone contact** Mike Dunninger - Manager, Support Engineering, AMER - @mdunninger
   - **APAC timezone contact** Shaun McCann - Director of Support Engineering, APAC - @shaun
 
-## Alliance Partner Support collaboration and Scope
+## General info
+
+### Alliance Partner Slack channel
+
+We share a Slack channel with the Alliance Partner Support team. These are named #a_[Alliance Partner name]. This is a good place to engage with their Support team directly for questions and collaboration. If the topic is a specific ticket, do include the Partner ticket id.
+
+### Regular touch points
+
+We have regular meetings with our Alliance Partners' support team, to ensure collaboration works well and customers receive stellar support. Reach out to the [Alliance partner DRI](https://handbook.gitlab.com/handbook/support/alliance-partners/#gitlab-contacts) to get topics on the agenda.
+
+### ZenDesk organization
+
+Do not add anyone to Alliance Partner ZenDesk organizations. Reach out to [contacts above](https://handbook.gitlab.com/handbook/support/alliance-partners/#gitlab-contacts) if needed.
+
+## Alliance Partner Support collaboration
 
 Alliance Partners at GitLab may also have a Support collaboration with GitLab, for our shared customers. Shared customers have purchased both Alliance Partner product and GitLab product. All customers have Ultimate licenses.
 
@@ -21,15 +35,15 @@ Ticket content is copied verbatim from our Alliance Partners ticket system, to o
 
 Customers in the tickets are GitLab customers, just as much as they are Alliance Partner customers.
 
+### Adding customer to ticket
+
+Alliance Partner support team needs to add customer as cc when they create the ticket. Just as with any other customer, GitLab should not add any contacts to the ticket.
+
 ### Support Process differences
 
 Be mindful that GitLab support process may differ from how the support team works at an Alliance Partner and always [assume positive intent](https://handbook.gitlab.com/handbook/values/#assume-positive-intent). 
 
 Also note that specific partners can have [special processes](https://internal.gitlab.com/handbook/support/alliance-partners/#specific-alliance-partners) (GitLab internal link, only team members can access).
-
-### Alliance Partner Slack channel
-
-We share a Slack channel with the Alliance Partner Support team. These are named #a_[Alliance Partner name]. This is a good place to engage with their Support team directly for questions and collaboration. If the topic is a specific ticket, do include the Partner ticket id.
 
 ### Scope
 
@@ -39,20 +53,8 @@ Alliance partner does initial ticket triage and 1st level support. GitLab Suppor
 
 Alliance partner triages tickets and set the initial ticket priority. GitLab support will assume the ticket priority is appropriately set in our initial response.
 
-If the priority changes at a later point in time, or we find the priority is not suitable, we will clarify with customer in the ticket and change priority [per our normal process](https://handbook.gitlab.com/handbook/support/workflows/setting_ticket_priority/#resetting-ticket-priority).
-
-### ZenDesk organization
-
-Do not add anyone to Alliance Partner ZenDesk organizations. Reach out to [contacts above](https://handbook.gitlab.com/handbook/support/alliance-partners/#gitlab-contacts) if needed.
-
-### Adding customer to ticket
-
-Alliance Partner support team needs to add customer as cc when they create the ticket. Just as with any other customer, GitLab should not add any contacts to the ticket.
+If the priority changes at a later point in time or we find the priority should be adjusted, we will clarify with customer in the ticket and change priority [per our normal process](https://handbook.gitlab.com/handbook/support/workflows/setting_ticket_priority/#resetting-ticket-priority).
 
 ### Customer calls
 
 Do add relevant Alliance Partner support engineers to customer calls.
-
-### Regular touch points
-
-We have regular meetings with our Alliance Partners' support team, to ensure collaboration works well and customers receive stellar support. Reach out to the [Alliance partner DRI](https://handbook.gitlab.com/handbook/support/alliance-partners/#gitlab-contacts) to get topics on the agenda.
