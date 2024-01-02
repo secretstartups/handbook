@@ -56,6 +56,7 @@ In the unfortunate event that a GitLab team member passes away, GitLab will prov
   - For part-time GitLab team members, the lump sum is calculated pro-rata, so for example for a team member that works for GitLab 50% of the time, the lump sum would be [$10,000]({{< ref "compensation#exchange-rates" >}}).
 
 ## Discount Wellbeing Platform
+
 Starting 2024, GitLab has partnered with HealthKick, a global wellbeing platform providing Team Members discounts across wellbeing, fitness, & overall lifestyle offerings/services.
 - *This program is offered at no cost for team members.
 
