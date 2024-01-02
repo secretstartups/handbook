@@ -762,7 +762,7 @@ You can enroll anytime at
 - Using Access Code: "GitLabPerks"
 
 PerkSpot [Overview Flyer](https://drive.google.com/file/d/1k0CsjErpcy4DUXqmOq3BYe8fHAC02t0B/view?usp=sharing)
-If you have any questions on discounts or the PerkSpot platform,please reach out to cs@perkspot.com or 866-606-6057 from 9am-6pm Monday to Friday. 
+If you have any questions on discounts or the PerkSpot platform,please reach out to cs@perkspot.com or 866-606-6057.
 
 ### LifeMart through ADP
 
