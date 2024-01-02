@@ -144,13 +144,34 @@ During the course of the investigation, you may realize that you need to escalat
 - Summarize the investigation thus far and make sure the ask for the team you are escalating to is clear
 - Apply the `~workflow-infra::Escalated` label to the RFH issue in the GitLab Dedicated issue tracker
 
-### Escalating an Emergency issue
+### Handling GitLab Dedicated emergencies
 
-The same [definitions and exceptions](/handbook/support/workflows/customer_emergencies_workflows#determine-if-the-situation-qualifies-as-an-emergency) apply.
+GitLab Dedicated customer emergencies follow the same [definitions and exceptions](/handbook/support/workflows/customer_emergencies_workflows#determine-if-the-situation-qualifies-as-an-emergency)
+as regular customer emergencies.
+
+If the customer is reporting an availability or performance issue:
+
+1. Check the [GitLab Dedicated incident management tracker](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/incident-management/-/issues/?type%5B%5D=incident)
+   for relevant open incidents.
+1. If there is an open incident:
+   - Inform the customer that the GitLab Dedicated infrastructure team is actively investigating.
+   - Get in touch with the Dedicated SRE on-call and determine if the customer needs to be involved
+     with troubleshooting.
+   - Assist the customer and the Dedicated SRE as necessary.
+1. If there isn't an open incident, [escalate the emergency](#escalating-an-emergency-issue).
+
+#### Escalating an Emergency issue
+
 If involving the Dedicated team becomes necessary:
 
 1. Note initial findings in [a `new-incident` issue](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/incident-management/-/issues/new?issuable_template=new-incident).
 1. Follow the [Dedicated on-call runbook](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/blob/main/runbooks/on-call.md#escalating-to-an-on-call-person).
+
+#### Engaging the GitLab Dedicated CMOC
+
+If the nature of the emergency reaches the point where we only need to provide async status updates
+to the customer, consider engaging the [GitLab Dedicated Communications Manager on Call](/handbook/support/workflows/dedicated_cmoc)
+to take over.
 
 ### Troubleshooting tips
 
