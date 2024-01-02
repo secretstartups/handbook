@@ -40,8 +40,8 @@ Each PS Engagement will include a Project Plan based on the activities outlined 
 3. PS Operations: Research an appropriate Partner if it is determined that a GitLab team member is not available to work the project.
    - See the PS Ops [Partner Process](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-leadership-team/ps-operations/-/wikis/home?_gl=1*8ixlcw*_ga*MTE1NzU1OTg3MS4xNjQ2MjQzNjU3*_ga_ENFH3X7M5Y*MTY2MjU2MjExNS4yMy4xLjE2NjI1NjIxNzIuMC4wLjA.#handshake-partner-process)
 4. PS Engagement Manager: Introduces the Project manager to the customer.
-5. PS Project Manager:  Schedules and conducts Project Prep meeting with the customer.  The intention of this meeting is to explain HOW we work so that the customer understands how to best tsupport the successful progression of the project.
-   - [Project Preparation call](https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing) includes the PM  and customer Project Lead counterpart (Engagement Managers and account team are optional)
+5. PS Project Manager:  Schedules and conducts PS Stakeholder Introduction meeting with the customer.  The intention of this meeting is to explain HOW we work so that the customer understands how to best tsupport the successful progression of the project.
+   - [Template Agenda: PS Stakeholder Introduction Meeting](https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing) includes the PM  and customer Project Lead counterpart (Engagement Managers and account team are optional)
    - NOTE: Technical discussions are held for the customer project kick-off meeting
 
 
@@ -49,12 +49,12 @@ Each PS Engagement will include a Project Plan based on the activities outlined 
 
 
 6. PS Operations: Once a project has moved to Closed/Won in Salesforce, a project is updated to “in set-up” status in Kantata
-   - A Project Lead is assigned: this can be a Project Manager, or Professional Services staff member
+   - A Project Lead is assigned: this can be a Project Manager, or other Professional Services team member
 7. PS Operations: If the Project Manager has not yet had the Project Prep meeting, then PS Ops will send [Welcome email](https://docs.google.com/document/d/1je9dqVJpFFMv7aw9WhPeQ8aufx6Sj3OZveqaHHd212w/edit?usp=sharing) and [existing customer initiation email](https://docs.google.com/document/d/1eNPXLmstMLoatpOBIhxrJgnPFgqYByPaJoFQRd2kz9U/edit?usp=sharing)
 6. Project Lead: Begins planning the project
    - Conducts an internal [Account Team to Professional Services Transition meeting](https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing) which includes EM, PSE, TA, and opitionally the Project Coordinator, Regional Manager, AE, and/or CSM
-   - Completes the Account Team to PS Transition issue template, located in the customer Epic
-   - [Project Preparation call](https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing) (PM, PSE and/or Technical Architect and customer Project Lead counterpart)
+   - Completes the PS Customer Success Planning issue template, located in the customer Epic
+   - [PS Customer Success Planning Meeting](https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing) (PM, Engagement Manager, PSE, and/or Technical Architect and the account team)
    - If a CSM is assigned, follow [these steps](/handbook/customer-success/csm/engaging-with-ps/) outlining the engagement guidelines, throughout the customer project
    - Submit resource request via Kantata to match the mutually agreed upon customer project schedule
 
