@@ -126,12 +126,18 @@ graph LR
 
 ### Roadmap Planning
 
-- Pre-work and departmental sign-off (~3 weeks)
+Cadence: Quarterly
+
+#### Pre-work and departmental sign-off
+
+Duration: ~3 weeks
     - Our roadmap preparation is an intensive two-week process, led by a [DRI](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/). During this phase, DRIs take the lead in drafting the roadmap using [the roadmap prep-work template]() for necessary project tracks. This involves gathering inputs from the team, various stakeholders, assessing past performance, and aligning with the strategic goals of the Test and Tools Infrastructure Team. 
     - Upon completion of the preparation phase, the roadmap from various project tracks is assembled into a handbook page MR and presented to the Test-Platform Sub-Department Director for review and sign-off. This ensures alignment with broader organizational objectives and secures executive buy-in.
     - Merge the MR once approved and share it across the Test Platform department.
 
-- Translating the roadmap into actionable items (~1 week)
+#### Translating the roadmap into actionable items
+
+Duration: ~1 week
   - This translation process is meticulous, ensuring that each milestone is broken down into manageable, clearly defined tasks following the [issue creation guideline for tracks](../roadmap.md#overview).
   - Project track specific GitLab board is created with the combination of epic, team label ~"team::Test and Tools Infrastructure" and the [Workflow Labels](../project-management/index.md#workflow-labels). 
   - Each issues/epics in the roadmap is assigned.  
@@ -145,7 +151,7 @@ graph LR
   - **Monitoring**: Continuous data-driven monitoring for user feedback, anomalies and assess the impact on key business metrics and performance indicators.
 
 
-- Roadmap review and reporting
+#### Roadmap review and reporting
     - Adhering to our team's [bi-weekly ritual](#team-meeting-and-demos-sync), we conduct reviews to assess progress, address challenges, and recalibrate goals if necessary. These sessions are crucial for maintaining momentum and ensuring alignment with our roadmap.
     - We provide comprehensive quarterly reports using this [template](), detailing the progress of our roadmap initiatives. These reports offer insights into achievements, learnings, and areas needing attention, contributing to transparent communication and strategic planning for upcoming quarters.
 
@@ -155,7 +161,7 @@ graph LR
   - Relevant support requests are converted into issues. Add ~"team::Test and Tools Infrastructure" label in the issues to track it in the team's [backlog board](https://gitlab.com/groups/gitlab-org/-/boards/7168288?label_name%5B%5D=team%3A%3ATest%20and%20Tools%20Infrastructure). Issue creation is a critical activity for our team, even for issues that are quickly resolved through Slack communications. Documenting both the problem and its resolution in an issue helps in maintaining a comprehensive record. This not only assists in future reference and knowledge sharing but also allows us to track the time and resources invested in resolving these issues.
   - Ensure each issue is tagged with a `type` label that indicates its association with specific tooling, enabling streamlined tracking and management. 
     - [TBD relevant types for TTI team to track, eg. `type::maintenance`]
-  - Team members analyze the ticket and add a priority based on the [Reliability Department's prioritization framework](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues/#priority). P1 issues will be taken up on an urgent basis the same week based on the availability of the relevant team members. Lower priority issues are scheduled for review and discussion in our next bi-weekly meeting for capacity planning.
+  - Team members analyze the issue and add a priority based on the [Reliability Department's prioritization framework](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues/#priority). P1 issues will be taken up on an urgent basis the same week based on the availability of the relevant team members. Lower-priority issues are scheduled for review and discussion in our next bi-weekly meeting for capacity planning.
   - The issues should be following the [Test Platform workflow label guidelines](../project-management/index.md#workflow-labels).
   - Updates on the support requests should be communicated at the end of each week in the issue comments.
   - Team members should record support activities (usually outside of general project tracks) and progress in the worklog for transparency and tracking.
@@ -170,6 +176,7 @@ It is highly unlikely that members of the Test Tools and Infrastructure team wil
 4. Borrow requests are prioritized based on urgency and the potential impact on product development.
 
 ### On-call activities
+
 Test and Tools Infrastructure team follows the Test Platform on-call rotations: pipeline triage (SET-led) and incident management (QEM-led). These are scheduled in advance to share the responsibilities of debugging pipeline failures and representing Quality in incident responses.
 For more information, please visit our [on-call rotation page](oncall-rotation).
 
