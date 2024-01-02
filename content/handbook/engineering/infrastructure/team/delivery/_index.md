@@ -427,6 +427,7 @@ Prior to 2020, the team impact overview was created in Slack, and in the years t
 1. [Year overview for 2020](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/1446)
 1. [Year overview for 2021](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2171)
 1. [Year overview for 2022](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2726)
+1. [Year overview for 2023](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/19887)
 
 [delivery issue tracker]: https://gitlab.com/gitlab-com/gl-infra/delivery
 [team training]: /handbook/engineering/infrastructure/team/delivery/training/
