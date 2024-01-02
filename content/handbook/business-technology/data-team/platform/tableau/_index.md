@@ -307,32 +307,37 @@ User Groups are the only prescribed method we use for setting permissions across
 
 Limited access user groups will allow business teams to manage accessibility to their published content based on rules that they've identified. Request for the creation of a limited access user group can be made through the All Requests template in [Issues](https://gitlab.com/gitlab-data/tableau/-/issues/?sort=created_date&state=opened&first_page_size=100) section of the Tableau project and requires the approval of that department's [sub-project lead](/handbook/business-technology/data-team/platform/tableau/#biops-roles-and-responsibilities).
 
-- General SAFE Access
+##### **General SAFE Access**
+
   - This group allows viewing of and development with data that contains material non-pulic information that should be kept [SAFE](/handbook/legal/safe-framework/).  Team members must be on the [Designated Insiders](/handbook/legal/publiccompanyresources/#sts=Designated%20Insiders) list to be added to this group.
   - To gain [access to SAFE data](/handbook/business-technology/data-team/platform/safe-data/) and be part of the SAFE Access group please submit an AR like this [example](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/24284), which requires manager and VP approval.
 
-- ASM EMEA Commercial Restricted Access
+##### **ASM AMER Commercial Restricted Access**
+  - This project allows access to the ASM AMER Commercial sub project. It is restricted because the data contains sensitive information about sales rep activity, bookings, and segmentation.
+  - Please work with Keith Gliksman @keith.gliksman for access approval.
+
+##### **ASM EMEA Commercial Restricted Access**
   - This project allows access to the ASM EMEA Commercial sub project. It is restricted because the data contains sensitive information about sales rep activity, bookings, and segmentation.
   - Please work with Keith Gliksman @keith.gliksman for access approval.
 
-- ASM Restricted Access
+##### **ASM Restricted Access**
   - Please work with the GTM Planning & Ops team and/or Alex Cohen @alex.cohen for access approval.
 
-- Internal Audit Restricted Access
+##### **Internal Audit Restricted Access**
   - Please work with the Internal Audit team and/or Harinakshi Poojary @hpoojary for access approval.
 
-- People Restricted Access
+##### **People Restricted Access**
   - Please work with the People Analytics team and/or Adrian Perez @aperez349 for access approval.
 
-- RSA SAFE Access
+##### **RSA SAFE Access**
   - This group is for the Revenue Strategy and Analytics team and is restricted because analysis performed are confidential planning efforts that may impact people roles. Team members must be on the Designated Insiders list to be added to this group.
   - Please work with the Sales Strategy team and/or Olga Falkenhof @ofalken for access approval.
 
-- Sales Development SAFE Access
+##### **Sales Development SAFE Access**
   - Team members must be on the Designated Insiders list to be added to this group.
   - Please work with Keith Gliksman @keith.gliksman for access approval.
 
-- Self-Service SAFE Access
+##### **Self-Service SAFE Access**
   - Team members must be on the Designated Insiders list to be added to this group.
   - Please work with the Self-Service team and/or Max Fleisher @mfleisher for access approval.
 
@@ -516,14 +521,14 @@ permission_templates:
 
 <summary><b>Tableau Licenses</b></summary>
 
-GitLab currently has 220 user licenses available. These licenses can be reassigned and more will be acquired for a broad rollout starting Q2 of FY24.
-- 90 Creators: Full editor capabilities, including Data Modeling, Data Prep and Data Visualizations.
-- 10 Explorers: Ability to edit Data Visualizations.
-- 120 Viewers: for Data Consumers, which includes the ability to filtering the data and the use of [Ask Data](https://www.tableau.com/about/blog/2021/6/tableau-release-ask-data-explain-data-viewers-collections) natural language querying.
+GitLab currently has 1310 user licenses purchased. These licenses can be reassigned and more will be acquired on an as-need basis.
+- 90 Creators: Full editor capabilities, including Data Modeling, Data Prep and Data Visualizations. **Please note:** due to limited number of Creator licenses, these licenses are typically designated for individuals in an Analyst role or team members actively involved in dashboard development and data source creation on the day-to-day.
+- 120 Explorers: Ability to edit Data Visualizations.
+- 1100 Viewers: for Data Consumers, which includes the ability to filtering the data and the use of [Ask Data](https://www.tableau.com/about/blog/2021/6/tableau-release-ask-data-explain-data-viewers-collections) natural language querying.
 
-GitLab also has 60 eLearning credits available for Creators. These cannot be reassigned.
+GitLab also has 90 eLearning credits available for Creators and 120 eLearning credits for Explorers. These seats cannot be reassigned, once registered.
 
-Licences will be revoked if not used for 90 days.
+Tableau licenses will be revoked if not used for 90 days.
 
 **Tracking License Usage**
 
@@ -532,7 +537,7 @@ Licences will be revoked if not used for 90 days.
 - [Actions by Users](https://10az.online.tableau.com/#/site/gitlab/analysis/ActionsbyAllUsers)
 - [eLearning Usage](https://dashboard.skilljar.com/analytics/) (Admins only)
 
-Unused licenses will be reclaimed by the data team.
+Unused licenses will be reclaimed by the Data Team.
 
 </details>
 
@@ -546,12 +551,12 @@ All users will be given access to their Division's sub-project by default. For a
 
 | **Team / Department** | **Approver(s) / Project Leader** |
 | ------- |------- |
-| Customer Success  | `@jdbeaumont`, `@aileenlu` |
+| Customer Success  | `@bbutterfield`, `@marntz` |
 | Data & Business Insights  | `@ttnguyen28` |
 | Marketing         | `@jahye1` |
 | People            | `@aperez349`, `@mccormack514` |
-| Product           | `@cbraza` |
-| Sales             | `@aileenlu` |
+| Product           | `@cbraza`, `@dpeterson1` |
+| Sales             | `@leework` |
 | Finance: GTM Finance  | `@nbernardo` |
 | Finance: Corporate Finance | `@james.shen` |
 | Security          | `TBD` |
@@ -565,15 +570,8 @@ Once approved, the BI Platform team will then add the user to the `okta-tableau-
 Creators with an active license to Tableau Online is encouraged to use Tableau Desktop for development. Locally developed Data Sources or Workbooks can later be published to Tableau Online. All Creators will be assigned access to Tableau Online and Desktop. The BI Platform team will assign Dekstop keys from the [Licenses](https://customer-portal.tableau.com/s/my-keys) section of the [Tableau Customer Portal](https://customer-portal.tableau.com/s/). Those assigned a Desktop key can follow email instructions from Tableau to set up their client.
 
 One can download Tableau Desktop using the links below, or follow the link from the [Home Page](https://10az.online.tableau.com/#/site/gitlab/home) of Tableau Online.
-- [Tableau Desktop Download](https://www.tableau.com/products/desktop)
-- [Tableau Prep Builder Download](https://www.tableau.com/products/prep)
-
-Any user can download the desktop tools and start a 14-day free trial without limitation. After the 14 days they will need to activate Tableau Desktop and/or Tableau Prep Builder clients:
-1. Download and install the software listed above by signing up for a free trial
-1. Open your Tableau Desktop and/or Tableau Prep Builder
-1. Search for Data > Tableau Server
-1. Quick Connect: Tableau Online
-1. Log in to Okta using a Yubikey - if Okta isn't set up for your account, login using your Tableau login & MFA. Note: only users with active licenses will be able to complete this step, and this will only work when using a Yubikey, not when using fingerprints to authenticate to Okta.
+- [Tableau Desktop Releases Download](https://www.tableau.com/support/releases)
+- [Tableau Prep Builder Releases Download](https://www.tableau.com/support/releases/prep)
 
 ### Tableau Desktop vs. Tableau Cloud
 
@@ -595,26 +593,38 @@ Fore more details on features offered by each version please see this Tableau ar
 
 <summary><b>Snowflake</b></summary>
 
+In order to use the Snowflake connector, you must have a Snowflake account assigned by the Data Platform team. Please open an AR ([example](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/24785)), if you do not already have access.
+
 - Service Account
-    - The Data Team has access to the credentials of the Tableau and Tableau restricted service accounts. The respective Snowflake roles to use for those accounts are `REPORTER` and `RESTRICTED_SAFE`.
-- Virtual Connections
-    - Virtual Connections to PROD tables in Snowflake are stored in either the `Data Team - Connections` or `Data Team - SAFE Connections` project folders in Tableau Online and accessible to all users during the pilot.
-        1. Home/Explore > New Workbook
-        2. Connect to Data > On This Site > Content Type: Virtual Connections
-        3. Select your table and press `Connect`.
-- Oauth
-    1. Home/Explore > New Workbook
-    2. Connectors > Snowflake
+    - The Data Team has access to the credentials for the Tableau, Tableau Restricted People Data, and Tableau Restricted SAFE service accounts. The respective Snowflake roles to use for those accounts are `REPORTER`, `TABLEAU_RESTRICTED_PEOPLE_DATA` and `TABLEAU_RESTRICTED_SAFE`.
+
+- OAuth
+    1. Personal Space > New > Workbook
+    2. Connect to Data > Connectors > Snowflake
         1. Fill in the following:
             - Server: `gitlab.snowflakecomputing.com`
-            - Role: Leave blank in development. This will help with publishing and troubleshooting and will use your default role in Snowflake. Ensure that your default role in Snowflake is not set to PUBLIC to prevent log-in errors. You can find your default role in Snowflake in the switch role menu. For Production releases: RESTRICTED_SAFE.
+            - Role: Leave blank (for Development work). 
+            ![](images/empty_role.png)
+            Not specifying a role enables ease of publishing and troubleshooting and will use your default role in Snowflake. Ensure that your default role in Snowflake is not set to PUBLIC to prevent log-in errors. You can find your default role in Snowflake from the Switch Role menu under your username dropdown. 
+            ![](images/snowflake_switch_role.png)
+            To set your default Snowflake role to your username, run the following code line `alter user [YOUR USERNAME] SET DEFAULT_ROLE = 'YOUR USERNAME'` in the SQL Editor. For example, if your Snowflake username is JDOE, then you'd run the following line to set your default role `alter user JDOE SET DEFAULT_ROLE = 'JDOE'`. For Production releases, please use the respective role per the service account indicated above.
             - Authentication: `Sign in using OAuth`
-        2. Click on `Sign in`
-        3. Click on `Sign Sign On`
+        2. Click on `Sign In`
+        3. Click on `Single Sign On`
         4. Log in to Okta
-        5. Click `Allow`
-            - Note: If you use Oauth to connect, use the `Embed password for data source` option when publishing so others can also access it.
-            - Note: The Snowflake Oauth token for Tableau Online expires in 90 days. You'll need to reauthenticate after 90 days to keep working with the data.
+        5. Your browser tab should display: **Tableau Desktop** would like access to your Snowflake Account... > Click `Allow`
+            - Note: If you use OAuth to connect, use the `Embed password for data source` option when publishing so others can also access it.
+            - Note: The Snowflake OAuth token for Tableau Online expires in 90 days. You'll need to reauthenticate after 90 days to keep working with the data.
+
+</details>
+
+<details markdown=1>
+
+<summary><b>Data Sources published in Tableau Cloud</b></summary>
+
+1. Personal Space > New > Workbook
+2. Connect to Data > On This Site
+3. Pick a published data source 
 
 </details>
 
@@ -622,8 +632,9 @@ Fore more details on features offered by each version please see this Tableau ar
 
 <summary><b>Flat files (formats: xls/xlsx, csv, tsv, kml, geojson, topojson, json)</b></summary>
 
-1. Home/Explore > New > Workbook
-2. Files > Drag and drop a file / Upload from computer
+1. Personal Space > New > Workbook
+2. Connect to Data > Files
+2. Drag and drop a file / Upload from computer
 
 </details>
 
@@ -631,9 +642,9 @@ Fore more details on features offered by each version please see this Tableau ar
 
 <summary><b>Google Sheets</b></summary>
 
-1. Home/Explore > New Workbook
-2. Connectors > Google Drive
-3. Sign in with Google
+1. Personal Space > New > Workbook
+2. Connect to Data > Connectors > Google Drive
+3. Sign in with your Google Account
 4. Check all the boxes
 5. Click `Allow`
 6. Double click on the Google Sheet you want to use
@@ -642,21 +653,27 @@ Fore more details on features offered by each version please see this Tableau ar
 
 #### Data Source Access: Tableau Desktop or Tableau Prep Builder
 
-*Important:* In order to connect Tableau Desktop to Tableau Online, you need to set up a [Yubikey]({{ ref "okta/#i-want-to-add-touch-id--face-id--face-authentication--yubikey-to-okta" }}) in Okta. Fingerprints will not work. Please see the [Tableau Online Access](/handbook/business-technology/data-team/platform/tableau/#tableau-online-access) section above for more details on how to order a Yubikey.
+*Important:* In order to connect Tableau Desktop to Tableau Cloud, you need to set up a [Yubikey]({{ ref "okta/#i-want-to-add-touch-id--face-id--face-authentication--yubikey-to-okta" }}) in Okta. Fingerprints will not work. Please see the [Tableau Online Access](/handbook/business-technology/data-team/platform/tableau/#tableau-online-access) section above for more details on how to order a Yubikey.
 
 <details markdown=1>
 
 <summary><b>Snowflake</b></summary>
 
-1. Connect > To a Server > Snowflake
+In order to use the Snowflake connector, you must have a Snowflake account assigned by the Data Platform team. Please open an AR ([example](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/24785)), if you do not already have access.
+
+1. Connect > To a Server > Snowflake 
 1. Fill in the following:
     - Server: `gitlab.snowflakecomputing.com`
-    - Role: For Production releases: RESTRICTED_SAFE. For ad-hoc or development you can use your Snowflake username (you can find it in Snowflake in the top right section of your screen)
+    - Role: Leave blank (for Development work).
+    ![](images/empty_role.png)
+    Not specifying a role enables ease of publishing and troubleshooting and will use your default role in Snowflake. Ensure that your default role in Snowflake is not set to PUBLIC to prevent log-in errors. You can find your default role in Snowflake from the Switch Role menu under your username dropdown. 
+    ![](images/snowflake_switch_role.png)
+    To set your default Snowflake role to your username, run the following code line `alter user [YOUR USERNAME] SET DEFAULT_ROLE = 'YOUR USERNAME'` in the SQL Editor. For example, if your Snowflake username is JDOE, then you'd run the following line to set your default role `alter user JDOE SET DEFAULT_ROLE = 'JDOE'`. For Production releases, please use the respective role per the service account indicated above.
     - Authentication: `Sign in using OAuth`
-1. Click on `Sign in`
-1. It should open a browser tab. Click on `Sign Sign On`
+1. Click on `Sign In`
+1. It should open a browser tab. Click on `Single Sign On`
 1. Log in to Okta
-1. Click `Allow`
+1. Your browser tab should display: **Tableau Desktop** would like access to your Snowflake Account... > Click `Allow`
 1. Your browser tab should display the following message: `Tableau created this window to authenticate. It is now safe to close it.`
 1. Close your browser tab and continue in Tableau Desktop
     - Note: The Snowflake Oauth token for Tableau Desktop expires in a day. You'll need to reauthenticate every day to keep working with the data.
@@ -665,12 +682,12 @@ Fore more details on features offered by each version please see this Tableau ar
 
 <details markdown=1>
 
-<summary><b>Data Sources published in Tableau Online</b></summary>
+<summary><b>Data Sources published in Tableau Cloud</b></summary>
 
 1. Connect > Search for Data > Tableau Server
 1. Quick Connect > Tableau Online
 1. Log in to Okta - if Okta isn't set up for your account, login using your Tableau login & MFA
-1. Pick a published data source or virtual connection
+1. Pick a published data source
 
 </details>
 
@@ -678,8 +695,8 @@ Fore more details on features offered by each version please see this Tableau ar
 
 <summary><b>Flat files (formats: xls/xlsx, csv, tsv, kml, geojson, topojson, json)</b></summary>
 
-1. Home/Explore > New > Workbook
-1. Files > Drag and drop a file / Upload from computer
+1. Connect > To a File
+1. Select a data file format
 
 </details>
 
@@ -687,9 +704,8 @@ Fore more details on features offered by each version please see this Tableau ar
 
 <summary><b>Google Sheets</b></summary>
 
-1. Home/Explore > New Workbook
-1. Connectors > Google Drive
-1. Sign in with Google
+1. Connect > To a Server > Google Drive
+1. Sign in with your Google account
 1. Check all the boxes
 1. Click `Allow`
 1. Click on the Google Sheet you want to use
@@ -705,7 +721,7 @@ GitLab team members who realize the full potential of analytical insights can do
 
 <summary><b>Official Training Resources</b></summary>
 
-- [Free Training](https://www.tableau.com/learn/training/20222)
+- [Free Training](https://www.tableau.com/learn/training)
 - [Training Portal](https://elearning.tableau.com/)
     - eLearning from Tableau is available for users with the Creator or Explorer license type
     - Request Access Code from Data Team. The BI Platform team will share the Access Code via email.
