@@ -5,20 +5,6 @@
   - **AMER timezone contact** Mike Dunninger - Manager, Support Engineering, AMER - @mdunninger
   - **APAC timezone contact** Shaun McCann - Director of Support Engineering, APAC - @shaun
 
-## General info
-
-### Alliance Partner Slack channel
-
-We share a Slack channel with the Alliance Partner Support team. These are named #a_[Alliance Partner name]. This is a good place to engage with their Support team directly for questions and collaboration. If the topic is a specific ticket, do include the Partner ticket id.
-
-### Regular touch points
-
-We have regular meetings with our Alliance Partners' support team, to ensure collaboration works well and customers receive stellar support. Reach out to the [Alliance partner DRI](https://handbook.gitlab.com/handbook/support/alliance-partners/#gitlab-contacts) to get topics on the agenda.
-
-### ZenDesk organization
-
-Do not add anyone to Alliance Partner ZenDesk organizations. Reach out to [contacts above](https://handbook.gitlab.com/handbook/support/alliance-partners/#gitlab-contacts) if needed.
-
 ## Alliance Partner Support collaboration
 
 Alliance Partners at GitLab may also have a Support collaboration with GitLab, for our shared customers. Shared customers have purchased both Alliance Partner product and GitLab product. All customers have Ultimate licenses.
@@ -27,21 +13,35 @@ Support collaboration means that for GitLab related tickets, our Alliance Partne
 
 Most things work just as any other customer, but there are some differences listed below.
 
-### Ticket customer
+### General info
 
-Tickets are created by the Support team at the partner, but the tickets come from many different individual customers. The opinions and issues brought up in tickets are the customers', not an expression of our Alliance Partners views.
+#### Alliance Partner Slack channel
 
-Ticket content is copied verbatim from our Alliance Partners ticket system, to ours.
+We share a Slack channel with the Alliance Partner Support team. These are named #a_[Alliance Partner name]. This is a good place to engage with their Support team directly for questions and collaboration. If the topic is a specific ticket, do include the Partner ticket id.
 
-Customers in the tickets are GitLab customers, just as much as they are Alliance Partner customers.
+#### Regular touch points
 
-### Adding customer to ticket
+We have regular meetings with our Alliance Partners' support team, to ensure collaboration works well and customers receive stellar support. Reach out to the [Alliance partner DRI](https://handbook.gitlab.com/handbook/support/alliance-partners/#gitlab-contacts) to get topics on the agenda.
+
+#### ZenDesk organization
+
+Do not add anyone to Alliance Partner ZenDesk organizations. Reach out to [contacts above](https://handbook.gitlab.com/handbook/support/alliance-partners/#gitlab-contacts) if needed.
+
+### Support Guide
+
+#### Ticket customer
+
+Tickets are created by the Support team at the partner, but the tickets come from many different individual customers. The content in tickets is copied verbatim from customer report in our Alliance Partners ticket system, to ours. Meaning, the replies come directly from customers.
+
+Customers in the tickets are customers both at GitLab and Alliance Partner.
+
+#### Adding customer to ticket
 
 Alliance Partner support team needs to add customer as cc when they create the ticket. Just as with any other customer, GitLab should not add any contacts to the ticket.
 
-### Support Process differences
+#### Support Process differences
 
-Be mindful that GitLab support process may differ from how the support team works at an Alliance Partner and always [assume positive intent](https://handbook.gitlab.com/handbook/values/#assume-positive-intent). 
+Be mindful that GitLab support process may differ from how the support team works at an Alliance Partner, which might not always be intuitive. Always [assume positive intent](https://handbook.gitlab.com/handbook/values/#assume-positive-intent).
 
 Also note that specific partners can have [special processes](https://internal.gitlab.com/handbook/support/alliance-partners/#specific-alliance-partners) (GitLab internal link, only team members can access).
 
