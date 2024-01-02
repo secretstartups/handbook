@@ -554,10 +554,10 @@ Enroll anytime at [SoFi.com/GitLab](sofi.com/gitlab)
 [GitLab SoFi Flyer](https://drive.google.com/file/d/1kKZXeqwY96cHE4QpjrWjONSawwe-rkIf/view?usp=sharing)
 You’re eligible for an exclusive 0.25% rate discount* when you refinance your student loans through SoFi.com/GitLab, plus you could save big by locking in a lower rate.
 
-Refi with SoFi and you could: 
+Refi with SoFi and you could
 - Save thousands with the member rate discount.
 - Lower your monthly payments or pay off your debt sooner with flexible terms.
-- No fees. 
+- No fees.
 
 ## 401k Plan
 
@@ -748,7 +748,7 @@ If you leave GitLab, all supplemental life insurance is not included in COBRA an
 ### PerkSpot
 
 GitLab has partnered with PerkSpot: a new discount platform providing Team Members with discounts on over 10,000 brands and more than 25 different categories, including electronics, home goods, mortgages, travel, and more.
-This discount platform is offered at no cost to our US team members. 
+This discount platform is offered at no cost to you.
 
 PerkSpot is a one-stop shop for thousands of exclusive discounts and in more than 25 different areas of interest:
 - Quick Links – section that allows you to access various resources to locate savings
@@ -756,12 +756,13 @@ PerkSpot is a one-stop shop for thousands of exclusive discounts and in more tha
 - Interests – ability to select what your interests are and narrow, search
 - Brands review – search for the Brands you’re looking for using the PerkSpot Brands tab and narrowing your discount search
 
-You can enroll anytime at [gitlab.perkspot.com](gitlab.perkspot.com) 
+You can enroll anytime at
+[gitlab.perkspot.com](gitlab.perkspot.com)
 - Click on "Create Your Account"
 - Using Access Code: "GitLabPerks"
 
-Please review PerkSpot's [Overview Flyer](https://drive.google.com/file/d/1k0CsjErpcy4DUXqmOq3BYe8fHAC02t0B/view?usp=sharing)
-If you have any questions on discounts or the PerkSpot platform, please reach out to cs@perkspot.com or 866-606-6057 from 9am-6pm Monday to Friday. 
+PerkSpot [Overview Flyer](https://drive.google.com/file/d/1k0CsjErpcy4DUXqmOq3BYe8fHAC02t0B/view?usp=sharing)
+If you have any questions on discounts or the PerkSpot platform,please reach out to cs@perkspot.com or 866-606-6057 from 9am-6pm Monday to Friday. 
 
 ### LifeMart through ADP
 
