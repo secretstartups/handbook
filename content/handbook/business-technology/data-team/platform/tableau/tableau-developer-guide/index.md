@@ -44,7 +44,7 @@ There is a simple fix to this issue, which is similar to how Row Level Security 
 
 #### Create a New Dim_Date Table
 
-1. First, open up your Data Source pane in your workbook and in the left-hand connections bar and navigate to the `dim_date` table. ++0
+1. First, open up your Data Source pane in your workbook and in the left-hand connections bar and navigate to the `dim_date` table. ![Alt text](image.png)
 
 2. Add `dim_date` to the data model, you can use a relationship, but make sure to join it to the same table that contains your primary date information (such as `date_actual`). Tableau will automatically name the new table `DIM_DATE1`. You need to create a relationship (or join if you choose to use a physical join) that will evaluate as true all the time. Since you are working with a limited number of date fields, one option is to use your `First_Day_of_Year` and `Last_Day_of_Year` fields. 
 
