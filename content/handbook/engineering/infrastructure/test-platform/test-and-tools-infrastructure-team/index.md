@@ -70,7 +70,7 @@ graph LR
 - **Rules**:
     1. Share daily plans via Geekbot update in `#test-tools-infrastructure-team`.
     2. Keep updates concise and focused.
-    3. This is **optional**, respecting individual work styles [discussed [here](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks/-/issues/2181#note_1646017808)].
+    3. This is **optional**, respecting individual work styles discussed [here](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks/-/issues/2181#note_1646017808).
 
 #### End-of-Week Status Update [Async]
 - **Cadence**: Every Thursday EOD
@@ -94,7 +94,7 @@ graph LR
     2. Focus on live discussions, milestone reviews, and backlog refinement.
     3. Record quick ~5 mins demo for completed work and share in the agenda doc. We also encourage everyone to record videos and post to GitLab Unfiltered. [The handbook page on YouTube](https://handbook.gitlab.com/handbook/marketing/marketing-operations/youtube/#post-everything) does an excellent job of telling why we should be doing this. If you’re uploading a video for the demos, be sure to do the following extra steps:
        1. Add `test-platform` & `test-and-tools-infrastructure` as video tags.
-       2. Add it to the Quality Team's playlist.
+       2. Add it to the [Test Platform  department's](https://www.youtube.com/playlist?list=PL05JrBw4t0KpZUzlEnvlvBtf_NwShU_ot) playlist.
        3. Share it to `#test-tools-infrastructure-team` and cross-post to `#test-platform`.
 
 #### Social Hours [Sync]
@@ -119,9 +119,9 @@ graph LR
     3. Align individual goals with team and company objectives.
     4. Leverage 1:1s with your manager to discuss the progress on the goals and next steps. 
     5. Consider preparing a worklog document each week following this [template](https://docs.google.com/document/d/1LXP5cqVfOZ983QJYbP870tZXO0iIs4OwqLIcT-REekk/edit?usp=sharing) in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log) to keep track of your contributions. This will assist in remembering contributions beyond usual project activities, highlighting them for consideration in performance reviews. One such example could be found [here](https://gitlab.com/gitlab-org/quality/work-log/-/issues/1). 
-       1. Create an issue with format - `<Name>-Worklog-<Financial Year>-<Quarter>`.
+       1. Create an issue with format - `<Name>-Worklog-<Financial Year>`.
        2. Keep updating the worklog each week.
-       3. Once the quarter ends, summarize the worklog issue with major contributions and close the same. 
+       3. Once the quarter ends, add a summary of the major contributions of the quarter to the description. 
 
 ## Tooling
 The team currently works cross-functionally, and our task ownership spans multiple tools and projects. 
@@ -144,7 +144,10 @@ The team currently works cross-functionally, and our task ownership spans multip
 
 ## Current OKR 
 
-Every quarter, the team commits to [Objectives and Key Results (OKRs)](/company/okrs/). The below shows current quarter OKRs and is updated regularly as the quarter progresses. Here is an [overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/5399) of our current Test and Tools Infrastructure team OKR.
+Every quarter, the team commits to [Objectives and Key Results (OKRs)](/company/okrs/). Here is an [overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/5399) of our current Test and Tools Infrastructure team OKR: 
+
+* TBD
+* TBD
 
 
 ## Performance Indicators
