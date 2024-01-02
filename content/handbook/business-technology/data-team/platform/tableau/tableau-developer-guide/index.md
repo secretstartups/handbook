@@ -5,11 +5,6 @@ description: "Giltab's Tableau Developer guide"
 ---
 
 
----
-layout: handbook-page-toc
-title: "Tableau Developer Guide"
-description: "Giltab's Tableau Developer guide"
----
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -38,7 +33,7 @@ However, this will truncate your data down to the non-fiscal quarter, such as tr
 
 ### Adding a Report Date
 
-Many times, end-users would appreciate being able to change "today" in their reports. For example, they may want to be able to view a report as of the last day of the previous quarter. The addition of a date parameter called `report date` can improve your user experience in this area. However, this creates issues when you need to compare your report date to your `date_actual` from the calendar table, because you do not have the built in date information for your report date that you do for the `date_actual` field. Here is what the parameter creation looks like: ++3
+Many times, end-users would appreciate being able to change "today" in their reports. For example, they may want to be able to view a report as of the last day of the previous quarter. The addition of a date parameter called `report date` can improve your user experience in this area. However, this creates issues when you need to compare your report date to your `date_actual` from the calendar table, because you do not have the built in date information for your report date that you do for the `date_actual` field. Here is what the parameter creation looks like: ![Alt text](image-1.png)
 
 There is a simple fix to this issue, which is similar to how Row Level Security works (which can be found later in thie guide). To add date information such as `Fiscal_quarter_name` and `First_day_of_fiscal_quarter` for the `Report Date parameter`, follow the following steps to re-join and then filter a second iteration of the `dim_date` table onto the regular data model. 
 
@@ -48,9 +43,9 @@ There is a simple fix to this issue, which is similar to how Row Level Security 
 
 2. Add `dim_date` to the data model, you can use a relationship, but make sure to join it to the same table that contains your primary date information (such as `date_actual`). Tableau will automatically name the new table `DIM_DATE1`. You need to create a relationship (or join if you choose to use a physical join) that will evaluate as true all the time. Since you are working with a limited number of date fields, one option is to use your `First_Day_of_Year` and `Last_Day_of_Year` fields. 
 
-3. To create a custom relationship calculation, click on the noodle that connects the two tables, and in the dropdown where you would normally select the field, click on the bottom where it says "Create Relationship Calculation" ++1
+3. To create a custom relationship calculation, click on the noodle that connects the two tables, and in the dropdown where you would normally select the field, click on the bottom where it says "Create Relationship Calculation" ![Alt text](image-2.png)
 
-4. Use the calculation `MONTH([First Day Of Year]) <= MONTH([Last Day Of Year (Dim Date1)])`. Anecdotally, you may experience slightly better performance if you add a second line that is just 1 = 1. Without creating a new column in the source tables, you cannot just use a custom calculation of 1 = 1 on its own. It should look like this: ++2
+4. Use the calculation `MONTH([First Day Of Year]) <= MONTH([Last Day Of Year (Dim Date1)])`. Anecdotally, you may experience slightly better performance if you add a second line that is just 1 = 1. Without creating a new column in the source tables, you cannot just use a custom calculation of 1 = 1 on its own. It should look like this: ![Alt text](image-3.png)
 ***Be very careful that you use the first and last days of the year in this calculation, not the first and last days of the fiscal year.***
 
 The purpose of the `MONTH([First Day Of Year]) <= MONTH([Last Day Of Year (Dim Date1)])` calculation is that it will evaluate as true every time, no matter what filters are applied. This is true of the additional 1=1 methodology. This ensures that the report date information you are creating will be added to every row of data in the dataset, allowing you to access the Report Date parameter information at any time. It works similarly to a cross-join in SQL.
@@ -59,9 +54,9 @@ The purpose of the `MONTH([First Day Of Year]) <= MONTH([Last Day Of Year (Dim D
 
 6. Click out of the Data Source pane and into a blank sheet of the workbook. Create a new calculation that you can use later to filter your table and call it **Report Date Filter**: `[Date Actual (Dim Date1)] = [Report Date]`. Do not apply it to your worksheet - you will use it elsewhere.
 
-7. Return to your Data Source Pane, and find the "Add" button under the "Filters" heading, in the top right corner. ++4
+7. Return to your Data Source Pane, and find the "Add" button under the "Filters" heading, in the top right corner. ![Alt text](image-4.png)
 
-8. Select "Add" and "Add" again, and a pop-up will give you your choice of field to select. Search for the "Report Date Filter" field and select it. On the next window, select "True" and hit "ok". You should now see this filter in your Data Source Filters list. Hit ok. ++5
+8. Select "Add" and "Add" again, and a pop-up will give you your choice of field to select. Search for the "Report Date Filter" field and select it. On the next window, select "True" and hit "ok". You should now see this filter in your Data Source Filters list. Hit ok. ![Alt text](image-5.png)
 
 9. Open a sheet of the workbook, and test to see if your filter worked. If it worked, you should see that for every `Date Actual` in the data set, there should be just one value for the `Date_actual1` from the `DIM_DATE1` table. ++6
 
