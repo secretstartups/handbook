@@ -1,10 +1,10 @@
 ***
 
-[Intermediate Backend Engineer](/handbook/engineering/career-development/matrix/engineering/infrastructure/engineering-productivity/intermediate/) |
-[Senior Backend Engineer](/handbook/engineering/career-development/matrix/engineering/infrastructure/engineering-productivity/senior/) |
-[Staff Backend Engineer](/handbook/engineering/career-development/matrix/engineering/infrastructure/engineering-productivity/staff/) |
-[Engineering Framework](/handbook/engineering/career-development/matrix/engineering/)    |
-[Quality Framework](/handbook/engineering/career-development/matrix/engineering/quality/)   |
-[Engineering Productivity Framework](/handbook/engineering/career-development/matrix/engineering/infrastructure/engineering-productivity/)
+[Intermediate Backend Engineer](/handbook/engineering/careers/matrix/infrastructure/engineering-productivity/intermediate/) |
+[Senior Backend Engineer](/handbook/engineering/careers/matrix/infrastructure/engineering-productivity/senior/) |
+[Staff Backend Engineer](/handbook/engineering/careers/matrix/infrastructure/engineering-productivity/staff/) |
+[Engineering Framework](/handbook/engineering/careers/matrix/)    |
+[Quality Framework](/handbook/engineering/careers/matrix/quality/)   |
+[Engineering Productivity Framework](/handbook/engineering/careers/matrix/infrastructure/engineering-productivity/)
 
 ***

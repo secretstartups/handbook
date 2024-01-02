@@ -36,7 +36,7 @@ Business Results and Business Justifications section should closely align with
 the expected competencies for the role as laid out in:
 
 - The [GitLab Job Frameworks](/handbook/company/team/structure/#job-frameworks).
-- The [Support Career Framework](/handbook/engineering/career-development/matrix/engineering/support/).
+- The [Support Career Framework](/handbook/engineering/careers/matrix/support/).
 
 ## In-Progress Promotion Documents
 
