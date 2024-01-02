@@ -532,3 +532,4 @@ The team impact overview is logged in issues:
 1. [Year overview for 2020](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/764)
 1. [Year overview for 2021](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1473)
 1. [Year overview for 2022](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/2062)
+1. [Year overview for 2023](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/2665)
