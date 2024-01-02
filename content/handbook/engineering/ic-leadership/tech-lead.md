@@ -50,6 +50,6 @@ The Engineering Manager (EM) can also help provide support in project management
 ### Slack channel
 
 There is Slack channel available
-[#tech_leads](https://gitlab.enterprise.slack.com/archives/C062FNJLUJV)
+[#tech_leads](https://gitlab.enterprise.slack.com/archives/C06ALUU5NKS)
 (internal) where Tech Leads can collaborate together, and ask questions about
 the role or an archetype of a Tech Lead. Everyone else is welcome too!
