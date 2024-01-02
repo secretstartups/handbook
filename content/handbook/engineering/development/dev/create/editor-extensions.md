@@ -20,8 +20,6 @@ The following people are permanent members of the Create:Editor Extensions Group
 
 The following people are temporary members ([borrow process](/handbook/product/product-processes/#borrow)) of the Create:Editor Extensions Group, each one working on a specific area:
 
-- Language Server
-  - [Olena HK.](/handbook/company/team/#ohoral)
 - VS Code extension
   - [Sri Rang](/handbook/company/team/#sri19)
 
